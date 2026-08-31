@@ -1,4 +1,3 @@
-
 NUDGE
 
 NUDGE
@@ -719,7 +718,6 @@ incentives. Nudges count as such, and qualify as libertarian paternalism,
 only if any costs are low.
 
 PART
-I
 
 HUMANS AND ECONS
 
@@ -3757,9 +3755,6 @@ good predictor of future usage, a RECAP plan would be very helpful.
 profitably benefit by helping people solve these mental accounting
 problems.
 
-PART
-II
-
 MONEY
 
 Not surprisingly, Humans differ dramatically from Econs in
@@ -5866,9 +5861,6 @@ and in fact the default fund did solve it, by hedging in the currency markets
 
 funds offered discounts, so fees fell.
 
-PART
-III
-
 HEALTH
 
 Libertarian paternalists see countless opportunities for
@@ -7297,9 +7289,6 @@ inspection scores to improve, consumers' sensitivity to hygiene in
 restaurants to increase, and hospitalizations for food-borne illnesses to
 decrease.
 
-PART
-IV
-
 FREEDOM
 
 Libertarian paternalists care about freedom; they are skeptical
@@ -8372,9 +8361,6 @@ debates.
 *We duck the question of whether civil unions can involve more than two
 
 people.
-
-PART
-V
 
 EXTENSIONS AND OBJECTIONS
 
@@ -10013,8 +9999,6 @@ Working
 
 11074,
 
-Paper
-
 no.
 
 Chaiken, S., and Y. Trope. Dual Process Theories in Social
@@ -10078,8 +10062,6 @@ Hypothesis," DELTA Working
 http://www.delta.ens.fr/abstracts/wp200314.pdf.
 
 2003–14,
-
-Paper
 
 Coleman, Stephen. "The Minnesota
 
@@ -10174,8 +10156,6 @@ Working
 
 11680,
 
-Paper
-
 no.
 
 Duflo, Esther, and Emmanuel Saez. "The Role of Information and
@@ -10195,8 +10175,6 @@ Response." University of Delaware Disaster Research Center
 Preliminary
 http://www.udel.edu/DRC/Preliminary_Papers/PP327-
 THE%20IMPORTANCE%20OFpdf%20.pdf.
-
-Paper
 
 no.
 
@@ -10412,8 +10390,6 @@ Working
 http://www.nber.org/papers/w13009.
 
 13009,
-
-Paper
 
 Heath, Chip, and Dan Heath. Made to Stick: Why Some Ideas Survive
 

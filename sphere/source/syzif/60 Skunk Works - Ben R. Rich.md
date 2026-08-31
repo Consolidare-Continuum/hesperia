@@ -1,4 +1,3 @@
-
 Begin Reading
 Table of Contents
 Photos
@@ -991,7 +990,6 @@ increase your costs twenty-five percent and lower your efficiency to the point w
 any work done. The restrictions will eat you alive. Make them reclassify this thing or drop it." On
 matters like that, Kelly was seldom wrong.
 
-Other Voices
 General Larry D. Welch
 (Air Force Chief of Staff from 1986 to 1990)
 In 1976, I was a brigadier general in charge of planning at the Tactical Air Command at
@@ -1417,7 +1415,6 @@ altitude. There are some significant foothills looming in Bill's flight path and
 quick mental calculating to get him safely over the hump. I raise my binoculars and quickly try
 to adjust the focus. By the time the mountains come clear, our airplane is across the other side.
 
-Other Voices
 Bill Park
 Most people think of test-flying from old movies, where the girl and the pilot's best friend are
 watching the skies as he adjusts his goggles and starts the fatal dive. If the movie was a
@@ -1993,7 +1990,6 @@ new stealth shape and took slow-motion film of how they fell to the ground, rece
 preview of what would happen if the real airplane spun out of control. Security forced us to do this
 indoors rather than off a rooftop—but it worked perfectly.
 
-Other Voices
 Alan Brown
 I was Ben's program manager. Building the stealth fighter, we had to tightrope walk between
 extreme care and Swiss-watch perfection to match the low radar observability claims of our
@@ -2255,7 +2251,6 @@ The first stealth fighter squadron, composed of eighteen airplanes and a few spa
 to battle only five years after the initial Air Force go-ahead, suffering only one, nonfatal, crash in the
 process.
 
-Other Voices
 Colonel Alton Whitley
 The F-117A was the nation's best-kept secret. Only a very small number of Air Force brass even
 knew that we existed. The Pentagon located us in one of the most desolate spots in North
@@ -2365,7 +2360,7 @@ defense secretary, to be prepared for a Delta Force–style nighttime strike aga
 Kaddafi's headquarters in Tripoli. The mission was code-named Operation El Dorado Canyon and
 would involve eight to twelve F-117As. Preparations were immediately made to fly to the east coast,
 overnight for crew rest, then take off the next day and using air-to-air refueling fly straight to Libya
-and hit Kaddafi around three in the morning. Senior officers at the Tactical Air Command who had
+and hit Kaddafiaround three in the morning. Senior officers at the Tactical Air Command who had
 been briefed about the existence of the stealth fighter and were monitoring the training program
 underway at Tonopah advised Weinberger that the F-117A was the perfect weapons system for this
 
@@ -2373,7 +2368,7 @@ covert surgical strike operation. "This was why the system was built," one four-
 Cap hesitated, and within an hour of the squadron's scheduled departure to the east coast he scrubbed
 us from the mission. He simply did not want to reveal the existence of this top secret revolutionary
 airplane to the Russians that soon. In my view Weinberger booted it. The raid was carried out using
-Navy fighter-bombers off carriers, and Kaddafi escaped with his life because Libyan defenses picked
+Navy fighter-bombers off carriers, and Kaddafiescaped with his life because Libyan defenses picked
 up the attackers coming in time to sound the alarm and several bombs aimed directly at Kaddafi's
 quarters missed their target because the attacking aircraft were forced to evade incoming missiles and
 flak. The F-117A would have attacked with surprise and placed that smart bomb right on the guy's
@@ -2391,7 +2386,6 @@ me, "are worried and puzzled. They don't have a clue about how to counter the F-
 them burning lights and working weekends. Much better, though, if we kept it under wraps until we hit
 them with it."
 
-Other Voices
 General Larry D. Welch
 (Air Force Chief of Staff from 1986 to 1990)
 As Air Force Chief of Staff, what I had in mind for the F-117A was a specific set of extremely
@@ -3292,7 +3286,6 @@ cargo plane and roared off before sunrise, headed for the desert base. Kelly fol
 unloaded the bird on schedule into the semi-completed hangars and assembled it. We were ready to
 fly.
 
-Other Voices
 Tony LeVier
 In early July, Kelly called me in and told me to get ready to go up to the "Ranch," as he called the
 base, and start flight tests. First time I flew there since the day I took Bissell and Kelly up, I
@@ -3591,7 +3584,6 @@ president was upset at how easily they were tracking the U-2. "Mr. B is trying t
 before Ike gets cold feet or the Russians get lucky," Kelly sighed. "The president has given us ten
 good weather days for these missions. After that, who knows?"
 
-Other Voices
 Marty Knutson
 I was the first pilot selected to fly in the U-2 program and made the third flight over the Soviet
 
@@ -3782,7 +3774,6 @@ speed, altitude, and load factor limits. Four copies were produced and then arti
 grease, coffee stains, and cigarette burns. How or if the agency got them into Soviet hands only Mr. B
 knew, and he never told.
 
-Other Voices
 James Cherbonneaux
 In July 1957, a cargo plane brought the first so-called dirty bird to our base in Turkey. It was
 covered with a plastic material and had two sets of piano wire strung from either side of its nose
@@ -4008,7 +3999,6 @@ three of four U-2s were shot down, and the sole survivor told CIA debriefers tha
 be alive because he forgot to turn on his black box. To Kelly, that clinched the case. But we'll never
 really know.
 
-Other Voices
 Richard Helms
 (Director of the CIA from 1966 to 1973)
 The U-2 overflights of the Soviet Union provided us with the greatest intelligence breakthrough of
@@ -4484,7 +4474,6 @@ cut up the U-2 and put the pieces aboard oxcarts and haul it to a clearing, wher
 the next day and took him and his plane out. In return, the agency paid the headman five hundred bucks
 to build a schoolhouse. Gary Powers should have been so lucky.
 
-Other Voices
 Buddy Brown
 I was just a dumb twenty-three-year-old fighter jock, which is exactly what the Air Force was
 looking for back in 1957. All they told me was "How would you like to fly at very high altitude in
@@ -4626,7 +4615,6 @@ they were actually B-52 bombers or fighter-bombers. So for $500 a decoy we force
 
 missiles costing thousands of dollars.
 
-Other Voices
 James R. Schlesinger
 (Director of the CIA 1973; Secretary of Defense from 1973 to 1975)
 As secretary of defense, I confronted my own version of a Cuban missile crisis scenario in the
@@ -5324,7 +5312,6 @@ One unique, extremely time-saving technique was to build the fuselage on the hal
 and right half were assembled independently to create easier worker access, then fit together and
 riveted into place. That was a major first in aircraft manufacturing.
 
-Other Voices
 Keith Beswick
 I began working for the Skunk Works in flight-test operations on the U-2 out at Edwards Air
 Force Base in October 1958. By the 1960s I was put in charge of flight testing for the Blackbirds.
@@ -5447,7 +5434,6 @@ chamber door slammed shut I experienced an immediate claustrophobic panic. I was
 like a marathon runner and screaming, "Get me out of here!" Call me a coward. Call me hopeless.
 Call me a taxi. I bugged out.
 
-Other Voices
 Norman Nelson
 I was the CIA's engineer inside the Skunk Works, the only government guy there, and Kelly gave
 me the run of the place. Kelly ran the Skunk Works as if it was his own aircraft company. He took
@@ -5926,7 +5912,6 @@ became generals. To a man, all the pilots and their Reconnaissance Systems Offic
 second cockpit regarded their tours as members of the elite Blackbird unit as the highlight of their Air
 Force careers.
 
-Other Voices
 Colonel Jim Wadkins
 (Pilot)
 I had 600 hours piloting Blackbird, and my last flight was just as big a thrill as my first. At 85,000
@@ -6310,7 +6295,7 @@ relief, the overflights revealed no Soviet troop movements or any evidence of a 
 along the border.
 
 The Blackbird flew again by direct presidential order during Operation Eldorado Canyon, the
-April 1986 air raid against Muammar Kaddafi of Libya, in direct retaliation for a terrorist attack
+April 1986 air raid against Muammar Kaddafiof Libya, in direct retaliation for a terrorist attack
 against a Berlin nightclub frequented by U.S. servicemen. The Blackbirds provided post-raid
 reconnaissance and damage assessments. These overflights, only six hours following the raid, were
 extremely dangerous since Libya's entire air defense system was on maximum alert and eager to bring
@@ -6377,7 +6362,6 @@ later I received a call saying that Dick Cheney had vetoed the idea. The secreta
 no such thing as a one-time-only role for the Blackbird. "Once we let this damned airplane back in,
 we'll never get it back out," he told General Loh.
 
-Other Voices
 Ed Yeilding
 (Air Force pilot)
 
@@ -7204,7 +7188,6 @@ dawning for those left behind in a Kelly Johnson-less world. The Skunk Works was
 produce giant results, but the new guy sitting in the boss's chair would be a lot smaller than the
 original Gulliver.
 
-Other Voices
 Roy Anderson
 (Former CEO, Lockheed Corporation)
 Around the time Kelly chose Ben Rich to replace him, I was Lockheed's chief financial officer,
@@ -7687,7 +7670,6 @@ have to spread the work across an ever broader horizon. What will happen to effi
 decision making? At a time of maximum belt-tightening in aerospace, those are not just words but may
 well represent the keys to a company's ability to survive.
 
-Other Voices
 Zbigniew Brzezinski (National Security Adviser to President Carter)
 When our administration canceled the B-1 bomber program, we knew we would be attacked by
 political opponents who were unaware of tremendously promising breakthroughs there on stealth

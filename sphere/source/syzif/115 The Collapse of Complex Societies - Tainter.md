@@ -64,8 +64,6 @@ LU
 
 For Bonnie and Emmet
 
-I
-
 CONTENTS
 
 Acknowledgements xi
@@ -121,8 +119,6 @@ Assessment S9
 Other complex societies 61
 
 Assessment 61
-
-IX
 
 Contents
 
@@ -251,11 +247,7 @@ acquisition ofan energy subsidy 125
 
 /
 
-XI
-
 Acknowledgements
-
-XIV
 
 New Studies in Archaeology, whose interest in the work brought it to its present
 form, and whose comments led to material improvements. Peter Richards, archaeo
@@ -310,11 +302,7 @@ The implication is clear: civilizations are fragile, impermanent things. This fa
 inevitably captures our attention, and however we might wish otherwise, prompts
 disturbing questions. Are modern societies similarly vulnerable? Is it likely, as Ortega
 
-I
-
 The collapse of complex societies
-
-Introduction to collapse
 
 asserts, that The possibility that a civilization should die doubles our own mortality'
 (quoted in Mazzarino [1966: 171])? Many of course prefer to believe that modern
@@ -415,10 +403,6 @@ Chapter 4, and evaluated by case studies in Chapter 5. A concluding chapter furt
 discusses the proposed explanation, synthesizes the work, and raises some implica
 tions for th^ contemporary scene.
 
-The collapse of complex societies
-
-Introduction to collapse
-
 What is collapse?
 'Collapse' is a broad term that can cover many kinds of processes. It means different
 things to different people. Some see collapse as a thing that could happen only to
@@ -515,15 +499,10 @@ nized at a sufficient level of complexity to produce written records. Some of th
 known archaeologically, but probably only a small minority. To, the extent that
 collapse is a general process, such cases are fully pertinent to understanding it, and
 should be studieq .whenever found.
-I
 
 The Western CHou Empire
 The Chou dynasty succeeded the corrupt Shang in the mastery of China by 1122 B.C.
 A reign was subsequently established that later Chinese looked back on as a golden
-
-The collapse of complex societies
-
-Introduction to collapse
 
 age. The Chou ruled through a feudal system, but within a few centuries their control
 began to slip. The royal house began to lose power as early as 934 B.C. Barbarian
@@ -624,10 +603,6 @@ the countryside became ungovernable. By the early tenth century irrigation weirs
 were nearly all confined to the vicinity of Baghdad. As described in the quote that
 heads this chapter, tht basis for urban life in perhaps 10,000 square kilometers of the
 Mesopotamian heartland was eliminated for centuries. Until the modern era the
-
-The collapse of complex societies
-
-Introduction to collapse
 
 region was claimed primarily by nomads (R. McC. Adams 1978, 1981; Jacobsen and
 Adams 1958; Waines 1977; Yoffee 1979, 1982).
@@ -731,10 +706,6 @@ widespread destruction, and thereafter there were major changes. An earlier scri
 
 ^
 
-The collapse of complex societies
-
-Introduction to collapse
-
 methods of warfare were introduced, involving new kinds of arms and the horse. The
 Mycenaean civilization of mainland Greece became a serious trade competitor.
 Security declined as militarism increased. The central and eastern parts of Crete, an
@@ -834,10 +805,6 @@ The Olmec are best known from the archaeological remains of their political
 centers. Perhaps the earliest of these was San Lorenzo Tenochtitlan (ca. 1150-900
 B.C.). It consists in part of a major, formally arranged mound complex on a primarily
 artificial plateau. Groups of long, low mounds flank courts, with large pyramids at
-
-The collapse of complex societies
-
-Introduction to collapse
 
 one or both ends. A stone aqueduct was built, and pools were lined with bentonite.
 Exotic obsidians were imported from the Mesoamerican Highlands, and there were
@@ -940,10 +907,6 @@ burning of its ceremf)nial center (Blanton 1978; Blanton and Kowalewski 1981;
 Davies 1977; Diehl 1981; Katz 1972; Millon 1981; Parsons 1968; Pfeiffer 1975;
 Sanders 1981b; Sanders et al. 1979; M. Weaver 1972; Willey 1966).
 
-The collapse of complex societies
-
-Introduction to collapse
-
 Casas Grandes
 In northern Mexico, far north of Mesoamerica and a few kilometers south of the
 present U.S./Mexico border, a major center was built which displays both
@@ -1043,10 +1006,6 @@ ceremonialism, puplic construction, and social complexity.
 
 This hiatus was terminated by the Mississippian complex, with trade.
 
-The collapse of complex societies
-
-Introduction to collapse
-
 ceremonialism, public architecture, and political centralization that exceeded by far
 the levels of Hopewell. The most complex, and best known, Mississippian polity was
 centered at Cahokia. Located at a confluence of major river systems in what is now
@@ -1144,10 +1103,6 @@ collapse in which a former, low level of Social complexity has essentially disap
 Due to drought and disruption by national boundaries of the traditional cycle of
 movement, the Ik live in such a food- and water-scarce environment that there is
 absolutely no advantage to reciprocity and social sharing. The Ik, in consequence.
-
-The collapse of complex societies
-
-Introduction to collapse
 
 display almost nothing of what could be considered societal organization. They are so
 highly fragmented that most activities, especially subsistence, are pursued
@@ -1249,10 +1204,6 @@ territory, of which (the previous capital may be one. Quite often these contend 
 domination, so that a period of perpetual conflict ensues.
 
 The umbrella of law and protection erected over the populace is eliminated.
-
-The collapse of complex societies
-
-Introduction to collapse
 
 Given tfiis pattern, it is a small wonder that collapse is, feared by so many people
 today. Even among those who decry the ejtcesses of industrial society, the possible
@@ -1400,10 +1351,6 @@ newly established state njlay include several formerly independent villages or e
 groups, or an empire may|incorporate previously established states. To the extent that
 these states, ethnic groups, or villages retain the potential for independence and
 
-The collapse of complex societies
-
-The nature of complex societies
-
 stability, the collapse process may result in reversion (decomposition) to these
 
 'building blocks' of complexity (cf. Simon 1965: 68).
@@ -1511,8 +1458,6 @@ economics: downward distribution of amassed resources ensures loyalty.
 
 Th£ collapse of complex societies
 
-The nature of complex societies
-
 Chiefly ambitions, like those of Big Men, are thus structurally constrained. Too
 much allocation of resources to the chiefly apparatus, and too little return to the local
 level, engender resistance. The consequence is that chiefdoms tend to undergo cycles
@@ -1613,10 +1558,6 @@ religion (Shils 1975: 3; fesenstadt 1978: 37; Apter 1968: 218). '
 
 The moral authority and sacred aura of the center not only are essential in
 
-The collapse of complex societies
-
-The nature of complex societies
-
 maintaining complex societies, but were crucial in their emergence. One critical
 impediment to the development of complexity in stateless societies was the need to
 integrate many localized, autonomous units, which would each have their own
@@ -1712,10 +1653,6 @@ career. The features that set staws apart, abstracting from the previous discuss
 are: territorial organization, diff^entiation by class and occupation rather than by
 kmship, monopoly offeree, authority to mobilize resources and personnel, and legal
 jurisdiction. Upon closer examination, though, it does not appear that there is always
-
-The collapse of complex societies
-
-The nature of complex societies
 
 the discontinuity claimed between state and non-state societies for many of these
 characteristics.
@@ -1818,10 +1755,6 @@ point. The behavior of states at the point where they come to be studied by soci
 scientists may haVe little relation to the reasons for their emergence. Furthermore, the
 evolution of states subsequent to their development may respond to a variety of new
 
-The collapse of complex societies
-
-The nature of complex societies
-
 factors, including both internal and external political situations (R. Cohen 1978: 8).
 Service is correct that these factors may make it difficult to ascertain the nature of
 early, emerging states. Some modern theories have not taken this into account to the
@@ -1921,10 +1854,6 @@ sources of wealth against older, Communistic traditions, and resulting class ant
 isms, the state was developed.
 
 The state, according to one leading conflict theorist (Krader 1978), is the product of
-
-The collapse of complex societies
-
-The nature of complex societies
 
 society dividfed into two classes: those directly engaged in social production, and those
 not. The surplus produced is appropriated by and for the non-producers. The state is
@@ -2026,8 +1955,6 @@ this from his work among the Bushman foragers of the Kalahari Desert in southern
 Afrtoa. One year at Christipas he bought an ox for a Bushman group. Rather than the
 praise he expected, Lee encountered criticism of his gift. This criticism, that the
 
-The collapse of complex societies
-
 animal was thin and old, continued right up to the Christmas feast. At this time the ox
 was eaten with obvious enjoyment. Bushmen questioned on the matter explained that
 they simply could not allow arrogance, or let anyone think of himself as a chief or a big
@@ -2081,8 +2008,6 @@ logist has argued that
 .. .classes could only have grown up in societies legitimately - or, at least.. .the
 process of transformation must have been slow and the legitimacy of their
 
-The nature of complex societies
-
 transformation must long have weighed more heavily in the balance than such
 factors as violence, usurpations, betrayals, etc. (Godelier 1977: 767 [emphasis in
 original]).
@@ -2132,8 +2057,6 @@ Summary and implications
 Complex societies are prot)lem-solving organizations, in which more parts, different
 kinds of parts, more social differentiation, more inequality, and more kinds of
 centralization and control emerge as circumstances require. Growth of complexity has
-
-The collapse of complex societies
 
 involved a change from small, internally homogeneous, minimally differentiated
 groups characterized by equal access to resources, shifting, ephemeral leadership, and
@@ -2205,8 +2128,6 @@ the formal development of thejsocial sciences in the last two centuries, however
 conception has emerged; the transformation of civilizations as cultural forms. Many of
 the most prominent twentieth-century scholars, such as Spengler (1962), Toynbee
 
-The collapse of complex societies
-
 subsidy is partially invested in further expansion, and falls off when the marginal cost
 of further growth becomes too high.
 
@@ -2270,8 +2191,6 @@ example^ for their respective levels of complexity. The cases are:
 
 1. The Western Roman Empire. The Roman Empire was certainly among the most
 complex, entrenched, and territorially extensive societies that have collapsed. It
-
-The collapse of complex societies
 
 Evaluation: complexity and marginal returns
 
@@ -2376,8 +2295,6 @@ the army, the civil service, and other state employees (e.g., in later times wor
 the Imperial arms factories), public works, the postal service, uniforms for the army
 and civil service, education, and the public dole (A. Jones 1974: 35). At all times the
 
-Evaluation: complexity and marginal returns
-
 Table 5. Roman emperors^
 
 Emperor
@@ -2473,7 +2390,6 @@ Reign
 /
 
 ,
-I
 
 .
 
@@ -2521,10 +2437,6 @@ T
 g
 i
 F
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 Table 5 continued
 
@@ -2663,8 +2575,6 @@ rarely were able to accumulate reserves fpr emergencies. When extraordinary ex
 penses arose the supply oficoinage was frequently insufficient. To counter this
 problem, Nero began in 64 AiD. a policy that subsequent emperors found increasing-
 
-The collapse of complex societies
-
 -134
 
 ly irresistible (see Table 6 and ). He debased the silver denarius, raising the
@@ -2717,8 +2627,6 @@ this magnitude.
 
 The cost of Marcus Aurelius' barbarian wars exceeded the level that could be
 supported by the Empire's normal income. One consequence, as might be expected.
-
-Evaluation: complexity and marginal returns
 
 Table 6. Debasement of the denarius from Nero toSeptimius
 Severus^
@@ -2789,8 +2697,6 @@ to fall off (A. Jones 1974: 13, 28; Rostovtzeff 1926: 342).
 
 Commodus (180-92); who succeeded Marcus Aurelius, is of interest to this study
 
-The collapse of complex societies
-
 Y^S AB.
 
 . Debasement of the denarius from Nero to Septimius Severus (data from Bolin 1958: 211). Silver
@@ -2816,8 +2722,6 @@ To pay for all this, Septimius Severus debased the denarius to between 43 and 56
 percent silver. The denarius by the early third century was so reduced in value that
 Caracalla introduced a new coin, the Antoninianus, which was supposedly equal to
 two denarii, but of lower real value (Mattingly 1960: 215). His successors did not
-
-Evaluation: complexity and marginal returns
 
 hesitate to debase it further. Caracalla also reduced the gold content of the aureus.
 The denarius, however, was the coin most worth debasing, since it was used to pay
@@ -2868,10 +2772,6 @@ months, and there were mapy usurpers (A. Jones 1964: 23). There were in this 50 
 period at least 27 recognized Emperors, at least twice that many usurpers who were
 killed, and at one time thiry claimants to the throne. A partial Ust of these is given in
 Table 7. By the time of Diocletian (284-305), the number of Emperors and pretenders
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 Table 7. Emperors and pretenders from 235 to 285A.DJ
 
@@ -2995,8 +2895,6 @@ ly 1960: 186).
 
 Barbarian incursions werie frequent and ruinous between 248 and 268. The usurpa
 
-The collapse of complex societies
-
 tions and regular murder of sitting Emperors meant that civil war was common. Many
 local populations were devastated by these events. The barbarians were unskilled at
 siege warfare, so they tended to concentrate in the countryside. Even so, some cities
@@ -3044,8 +2942,6 @@ these, by conscripting labor when needed for the walls of Rome, and by ordering 
 deserted lands be obligatorily farmed under the direction of local city Senates. The
 effect of the latter directive was to draft peasants and whole villages into enlarged
 agricultural labor forces (MacMullen 1976: 205-6). Yet the situation began to unravel
-
-Evaluation: complexity and marginal returns
 
 again after his death. It was Diocletian who, in a reign from 284 to his voluntary
 abdication in 305, quelled the barbarians, defeated usurpers, and at the 'same time
@@ -3099,10 +2995,6 @@ Caesars). The number oficapital cities correspondingly increased, making permane
 the temporary proliferation of capitals under the pretenders.
 
 (
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 Diocletian built state factories to make arms for the military, and also to provide for
 the material needs of the Imperial court. A vast state transport system tvas main
@@ -3199,10 +3091,6 @@ in 314, 78,000 in 324, and to more than 2,000,000 drachmae in 334 A.D. Not
 surprisingly, Egyptian loans of money were made for increasingly shorter periods in
 the third and fourth centuries. Gradually, though, more and more gold solid! came
 into circulation, and the dopper output was reduced. By the fifth century the inflation
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 was largely spent (A. Jones 1964: 27, 109, 443, 1974: 200-1, 213, 215, 224; Levy
 1967: 88-9; MacMullen 1976: 118; Mattingly 1960: 222-3).
@@ -3305,10 +3193,6 @@ Dominate are clearly implicated. One writer of the period went so far as to sugg
 that those who lived off the treasury were more numerous than those paying into it.
 Another complained that .taxes, which were high even before the Dominate, doubled
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 from 324 to 364. In the sixth century A.D. (which post-dates the fall of the West, but
 illustrates the trend), even privileged landowners paid twice as much tax as provin
 cials had in the first century B.C., and ordinary landowners paid well over three times
@@ -3410,10 +3294,6 @@ were widespread breakdowns in civil services.
 
 In the 20 years following the death of Valentinian III (455 A.D.), the Roman Army
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 proper dwindled to nothing. The recruiting ground shrank to Italy itself. The
 government came to rely almost exclusively on barbarian troops. When finally these
 could not be paid they demanded land in Italy instead-. This being refused, they
@@ -3510,10 +3390,6 @@ expedient advantage of shifting to some indefinite point in the future the cost 
 current crises. The inflation that would inevitably follow would tax the future to pay
 for the present, but the;future could not protest. Viewed from the perspective of
 history, it is clear that by the time of the Principate the marginal return on investment
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 in empire had declined considerably from the level of the later Republic. When the
 stresses impinging on the Empire grew, it would decline further still. What had once
@@ -3614,10 +3490,6 @@ will be raised again at that point.
 The matter of economic development is more subtle. Many authors concentrate on
 the expense of transport, ^d the poverty of the rural population, as reasons why
 industry did not develop, nor agriculture intensify (e.g., A. Jones 1964: 1048). Yet
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 there is more to the matter. As Elster has pointed out, 'Innovation and technical
 change are not universal phenomena, but are restricted in time and space to a very
@@ -3726,10 +3598,6 @@ difference is between! scholars who emphasize the comparative topographical
 
 redundancy and ecological homogeneity of the central Peten (e.g., Culbert 1973a: 3;
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 Sanders 1973: 335, 1977: 288; Tourtellot and Sabloff 1972: 128; Rathje 1973: 408),
 and those who see the Southern Lowlands as nevertheless significantly diverse (e.g.,
 Harris 1978: 302; Wiseman 1978: 72). Sanders notes that 26 varieties of soil, with
@@ -3780,10 +3648,6 @@ iQo'i
 tysi: ll). Reproduced by permission of Wendy Ashmore and the University of New Mexico Press.
 
 area, showing major subdivisions and selected sites (after Hammond and Ashmore
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 the collapse (e.g., Altschuler 1958: 194-6; Cowgill 1964: 154; J. E. S. Thompson 1966
 [not all of whom would necessarily agree with each of the above points]; for
@@ -3883,10 +3747,6 @@ complexity (Rice 1976: 444-5). The evidence for the latter is striking by the Mi
 and Late Preclassic. Formal, public architecture and social differentiation become
 evident by early in! the Middle Preclassic, and increasingly thereafter. Public
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 buildings on platforms, and status differentiation in burials, occur by about 400 B.C.
 (Culbert 1977b: 42; N. Hammond 1982: 123; Marcus 1983: 461; Rice 1976: 438-9;
 Willey 1977a: 145, 1977b: 388, 1980: 258, 1982: 262).
@@ -3983,14 +3843,8 @@ to another 39,000, for a total population of 49,000. Haviland notes that this fi
 compares closely to the estimate of about 50,000 for ancient Sumerian cities (1970:
 193).
 
-I
-
 For the entire Southern Lj)wlands, Culbert (n.d.) projects an average of about 200
 persons per square kilometer;, and notes that this would make the Lowlands one of the
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 most densely populated areas of the preindustrial world. The population density of
 Tikal was about 350 to 400 per square kilometer, while swidden agriculture would
@@ -4083,10 +3937,6 @@ check dams and walled fields (R. E. W. Adams 1981: 243, 246-7; Turner 1978: 170;
 Wiseman 1983: 156). The walled, field complexes may occur over much of the Peten
 (Turner 1974: 170; Wisjeman 1983: 156), and are sometimes found as parts of terrace
 systems (R. E. 'W. Adjams 1981: 246). Such field demarcation is absolutely incon-
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 gruent with anything but permanent or short-fallow cultivation (cf. Turner 1978:
 170).
@@ -4186,10 +4036,6 @@ Palenque, or Yaxchilan (Adams and Jones 1981; Culbert 1974, 1977a; Marcus 1976,
 Center hierarchy formulated by Bullard [1960], for here the model is of hierarchies
 among Major Centers.) Culbert interprets the glyphic evidence as indicating a domain
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 for Tikal that extended more than 100 kilometers in each direction (n.d.; see also
 Adams and Jones [1981: 318]). The hierarchy headed by Naranjo (or Tikal and
 Naranjo) included six subordinate centers, each with the same number of courtyards.
@@ -4261,8 +4107,6 @@ would yield advantages to a center with a policy of further population growth
 (Webster 1977: 359). Warfare had as one result the concentration bf population in
 centers, which offered greater safety from attack (Sanders 1973: 358-9, 1981: 361).
 
-The collapse of complex societies
-
 There were major logistical limitations to prehistoric Lowland warfare, including
 the agricultural cycle and the lack of beasts of burden. Prolonged sieges were virtually
 impossible (Webster 1976a: 94). For the most part Classic warfare was sporadic and
@@ -4310,8 +4154,6 @@ Cowgill 1964: 155; Sabloff and Willey 1967). Others think such incursions were t
 result, rather than,the cause, of collapse, as peripheral populations moved to exploit a
 power vacuum (Culbert 1973b: 92). The evidence for foreign invasions is found
 primarily at Altar de Sacrificios and Seibal, where sculptural and ceramic art in the
-
-Evaluation: complexity and marginal returns
 
 ninth and tenth centuries are reminiscent of Yucatan, Gulf Coast, and central
 Mexican art. A florescence of architectural construction at Seibal coincides with the
@@ -4361,8 +4203,6 @@ confound an interpretation of a simple relationship between collapse and
 depopulation. As compiled by Sidrys and Berger (1979), radiocarbon dates from elite
 contexts rise to a peak in the mid eighth century and, as expected, thereafter decline
 sharply (). In contrast, dates from commoner contexts follow no such pattern.
-
-The collapse of complex societies
 
 . Southern Lowland Maya radiocarbon dates from elite contexts (after Sidrys and Berger 1979: 271).
 Reproduced by permission of Macmillan Journals Ltd. and Raymond Sidrys from Nature, Vol. 277, p. 271.
@@ -4418,8 +4258,6 @@ attempted to carry on a semblance of Classic ceremonialism. The Eznab people liv
 in the great vaulted structures, and deposited their refuse in courtyards, down
 stairways, even within rooms. When these structures deteriorated, there was no
 
-Evaluation: complexity and marginal returns
-
 rebuilding. Eznab constructions were small and rudimentary, and their pottery
 compares unfavorably with the technical perfection of Classic ceramics.^Eznab burials
 are in the same places as Classic elites, but contain minimal accompaniments. Classic
@@ -4468,10 +4306,6 @@ resource fluctuations by developing regional systems of economic symbiosis. By^
 forming trading op reciprocal feasting relationships, or by contributing to a
 hierarchically-administered regional resource pool, a local group can insure itself
 against lean times l)y converting temporary surpluses into reciprocal obligations that
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 are called in during times of scarcity. In essence, the scale of the production and
 consumption unit is raised from the local group, occupying a limited territory, to the
@@ -4571,10 +4405,6 @@ complexity. Productivity fluctuations made military adventures tempting^ even
 essential, while in turn military strategy came to influence agriculture. Dispersed,
 shifting swidden plots werfe essentially indefensible (at least at any reasonable cost).
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 and yet were highly vulnerable and essential to subsistence. Concentrated, intensive
 systems, such as raised fields and terraces, were at the same time more easily defended
 (being compact, concentrated, and stationary) and productive enough to be
@@ -4672,10 +4502,6 @@ hydraulic and agricultural engineering, sociopolitical complexity, massive publi
 works, and military competition. More importantly, each of these variables was
 increasing (except for population, which eventually leveled ofO- Complexity and
 architectural investment grew significantly just prior to the collapse.
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 This was a system that was costly in human labor (e.g., Boserup 1981: 61).
 Although we have no written records of the status of the support population, as we do
@@ -4775,10 +4601,6 @@ adjustment to an ptherwise insolvable dilemma.
 Over the short-term the collapse probably resulted in an improved standard of
 living for a peasant population suddenly relieved of the burden of supporting a
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 hierarchy (cf. Sanders 1973). In the long run, though, the agricultural population was
 itself decimated. The fact that there was no population recovery seems to indicate that
 the Lowlands environment had deteriorated under intensification, and/or that the
@@ -4877,10 +4699,6 @@ dants, shell ornaments, decorated ceramic vessels, jet inlays, quartz crystals, 
 other valuable-items. Sometimes such grave associations number in the hundreds or
 thousands of items. Village burials, in contrast, are far less frequently associated with
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 valuable materials. Between 1030 and 1150 A.D., for example, 21 percent of Canyon
 Great House burials had turquoise beads, but less than one percent of village inter
 ments did (Schelberg 1982: 158-86; Akins and Schelberg 1984).
@@ -4943,10 +4761,6 @@ Chaco maintained extensive trading relations with surrounding areas. Between 20 
 
 . The Chacoan regional system, A.D. 1050 -1175 (after Powers et al. 1983: 2). Courtesy of the U.S.
 National Park Service.
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 pottery came from the Red Mesa Valley, 50 kilometers to the south, and much utility
 ware from the Chuska Mountains, 80 kilometers to the west. By the ninth century
@@ -5044,10 +4858,6 @@ long growing season, in high elevations. In cool, wet years the pattern is rever
 better moisture conditions for lowland planting, but a shorter growing season at
 highland agricultural areas. Such a pattern would have encouraged exchange
 relationships between Basin interior and Basin margin populations. Not surprisingly.
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 from at least Basketmaker III times Chaco Canyon populations did trade extensively
 with such outlying areas (Judge 1979: 901-3).
@@ -5162,10 +4972,6 @@ communities created a drag on the efficient operation of the network. Incorporat
 
 communities from t;he Basin interior made this problem considerably worse than it
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 might otherwise have been, for such areas intrinsically had less to contribute to
 regional well-being.
 
@@ -5267,10 +5073,6 @@ investment in complexity. When challenges and stresses caused this ratio to dete
 rate excessively, or' coincided with a declining marginal return, collapse became
 increasingly likely.
 
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
-
 The Roman collapse
 The Romans established an empire that was paid for largely by the monetary subsidy
 of successive conquests. Captive peoples financed further subjugations. Until the
@@ -5367,10 +5169,6 @@ military power.
 
 The Mayan peasantry supported, for a period exceeding a thousand years, an
 upwardly-spiraling system of interlinked responses to demographic and political
-
-The collapse of complex societies
-
-Evaluation: complexity and marginal returns
 
 pressures. These responses included monumental construction, agricultural
 intensification, conflict, and support of elite hierarchies, military and civil specialists,
@@ -5477,8 +5275,6 @@ society born^ by an increasingly weakened population. Peasant dissatisfac
 tion, foreigil pressures, internal conflict, or an agricultural crisis may have
 provided a final, insurmountable challenge, but such a challenge was effec-
 
-The collapse of complex societies
-
 tive only because the Maya were following a course that ma^e them vulner
 able to collapse.
 
@@ -5541,8 +5337,6 @@ contrast, that governing institutions (and other elements of complexity) emerged
 of society-wide needs, in situations where it was necessary to centralize, coordinate,
 
 »
-
-The collapse of complex societies
 
 Summary and Implications
 
@@ -5649,10 +5443,6 @@ Once a complex society enters the stage of declining marginal returns, collapse
 becomes a mathematical likelihood, requiring little more than sufficient passage of
 time to make probable an insurmountable calamity. So if Rome had not been toppled
 
-The collapse of complex societies
-
-Summary and Implications
-
 by Germanic tribes, it would have been later by Arabs or Mongols or Turks. A
 calamity that proves disastrous to an older, established society might have been
 survivable when the marginal return on investment in complexity was growing.
@@ -5755,10 +5545,6 @@ our data base, our museum collections, even for our ability to secure financial
 backing. (Dark ages are rarely as attractive to philanthropists or funding institutions.)
 Archaeologists, though, are not solely at fault. Classicists and historians who rely on
 
-The collapse of complex societies
-
-Summary and Implications
-
 literary sources are also biased against dark ages, for in such times their data bases
 largely disappear.
 
@@ -5859,10 +5645,6 @@ Thomas Malthus, David kicardo, and John Stuart Mill (Barnett and Morse 1963: 2).
 It applies, as seen in Chapter 4, to subsistence agriculture, minerals and energy
 production, information processing, and to many features of sociopolitical organiza
 
-The collapse of complex societies
-
-Summary and Implications
-
 tion. Wittfogel (1955, 1957) applied the concept of 'administrative returns' to the
 extension of government into economic affairs in 'Oriental Despotisms.' Lattimore
 (1940) accounted for the Chinese dynastic cycle in terms of increasing and declining
@@ -5961,10 +5743,6 @@ was removed.
 
 While this brief discussion cannot fully explain these elements of European political
 
-The collapse of complex societies
-
-Summary and Implications
-
 history, the points made here are worth further investigation. Most likely it is no
 coincidence that forms of participatory government emerged in both the ancient
 world (Greece, Republican Rome) and the recent one under situations of peer polity
@@ -6059,10 +5837,6 @@ Old Babylonian period. Despite the loss of dependencies during the reign of Sams
 established previously. Marginal returns decline axiomatically in an attempt to govern
 a smaller land ar^a and population with an administration designed for a larger
 territory.
-
-The collapse of complex societies
-
-Summary and Implications
 
 Third Dynasty of UrISassanian period. As R. McC. Adams has described (1981),
 these were periods in Mesopotamian history when maximizing regimes attempted to
@@ -6166,10 +5940,6 @@ flexible in application': three major, very different cases can be understood by
 in this chapter it has* been shown that a variety of other collapses are, with present
 information, potentially clarified.
 
-The collapse of complex societies
-
-Summary and Implications
-
 As a very general principle, the application of this framework to specific cases
 cannot be automatic or mechanical. Each society that has collapsed has done so under
 a set of circumstances that were at least partially unique. The application of a general
@@ -6267,10 +6037,6 @@ analysis that has powerful implications: 'We can never do merely one thing' (196
 [emphasis in original]). His point was that good intentions are virtually irrelevant in
 determining the result of altering a large, complex system. With the feedback relatioqships inherent in such a system, one can almost never anticipate the full conse
 quences of any alteration. The same principle applies to misbehavior: elite mismanagetnent can be only partly responsible for the evolution of any complex society.
-
-The collapse of complex societies
-
-Summary and Implications
 
 I do not wish to suggest that leadership is immaterial, only that it is of much less
 importance than many believe. Complex societies do not evolve on the whims of
@@ -6376,13 +6142,7 @@ multiple life forms, and will so affect the human race at the next pass (Perlman
 
 Other scenaribs for contemporary collapse include:
 
-I
-
 nuclear waf and associated climatic changes;
-
-The collapse of complex societies
-
-Summary and Implications
 
 increasing atmospheric pollution, leading to ozone depletion, climatic changes,
 
@@ -6484,10 +6244,6 @@ R&D, and a^e successful at stimulating further economic growth, this will, in th
 environmentalist view, lead only to faster depletion, hasten the inevitable crash, and
 make it worse when it comes (e.g., Catton 1980). Implicit in such ideas is a call for
 
-The collapse of complex societies
-
-Summary and Implications
-
 economic undevelopment, for return to a simpler time of lower consumption and local
 self-sufficiency.
 
@@ -6585,12 +6341,6 @@ velops, as each polity continually seeks to outmaneuver its peer(s). None can da
 
 withdraw from this spiral, without unrealistic diplomatic guarantees, for such would
 bf only an invitation to domination by another. In this sense, although industrial
-
-I
-
-The collapse of complex societies
-
-Summary and Implications
 
 society (especially the United States) is sometimes likened in popular thought to
 ancient Rome, a closer analogy would be with the Mycenaeans or the Maya.
@@ -6691,8 +6441,6 @@ weapons, will create a dangerous world situation in the foreseeable future.
 To I'a degree there is nothing new or radical in these remarks. Many others have
 voiced similar observations on the current scene, in greater detail and with greater
 eloquence. What has been accomplished here is to place contemporary societies in a
-
-The collapse of complex societies
 
 historical perspective, and to apply a global principle that links the past to the present
 and the future. However much we like to think of ourselves as something special in

@@ -1,4 +1,3 @@
-
 Copyright
 
 Copyright	©	2019	by	Shoshana	Zuboff
@@ -1867,8 +1866,6 @@ A	river	flooded	or	a	fortress	fell:
 He	made	predictions	that	were	sometimes	right;
 His	lucky	guesses	were	rewarded	well.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	VI
 
 I.	Google:	The	Pioneer	of	Surveillance	Capitalism
@@ -2852,8 +2849,6 @@ The	hour	of	birth	their	only	time	in	college,
 They	were	content	with	their	precocious	knowledge,
 To	know	their	station	and	be	right	forever.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	I
 
 I.	Human	Natural	Resources
@@ -3726,8 +3721,6 @@ All	words	like	Peace	and	Love,
 all	sane	affirmative	speech,
 had	been	soiled,	profaned,	debased
 to	a	horrid	mechanical	screech.
-
-—W.	H.	AUDEN
 
 "WE	TOO	HAD	KNOWN	GOLDEN	HOURS"
 
@@ -5092,8 +5085,6 @@ It	taught	them	nothing	new.	They	hid	their	pride,
 But	did	not	listen	much	when	they	were	chidden:
 They	knew	exactly	what	to	do	outside.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	I
 
 I.	The	Google	Declarations
@@ -5683,8 +5674,6 @@ Falling	in	love	with	Truth	before	he	knew	Her,
 He	rode	into	imaginary	lands,
 By	solitude	and	fasting	hoped	to	woo	Her,
 And	mocked	at	those	who	served	Her	with	their	hands.
-
-—W.	H.	AUDEN
 
 SONNETS	FROM	CHINA,	VI
 
@@ -8410,8 +8399,6 @@ Ramparts	and	souls	have	fallen;	the	will	of	the	unjust
 Has	never	lacked	an	engine;	still	all	princes	must
 Employ	the	fairly-noble	unifying	lie.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	XI
 
 I.	Economies	of	Action
@@ -9457,8 +9444,6 @@ Surely,	His	duty	now	was	to	compel,
 To	count	on	time	to	bring	true	love	of	truth
 And,	with	it,	gratitude.	His	eagle	fell.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	IX
 
 I.	I	Will	to	Will
@@ -10065,8 +10050,6 @@ So	an	age	ended,	and	its	last	deliverer	died
 In	bed,	grown	idle	and	unhappy;	they	were	safe:
 The	sudden	shadow	of	a	giant's	enormous	calf
 Would	fall	no	more	at	dusk	across	their	lawns	outside.
-
-—W.	H.	AUDEN
 
 SONNETS	FROM	CHINA,	X
 
@@ -10790,8 +10773,6 @@ Who	moved	among	their	faces	and	their	things:
 Their	feeling	gathered	in	him	like	a	wind
 And	sang.	They	cried	"It	is	a	God	that	sings."
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	VII
 
 I.	Instrumentarianism	as	a	New	Species	of	Power
@@ -11395,8 +11376,6 @@ Bee	took	the	politics	that	suit	a	hive,
 Trout	finned	as	trout,	peach	molded	into	peach,
 And	were	successful	at	their	first	endeavor.
 
-—W.	H.	AUDEN
-
 SONNETS	FROM	CHINA,	I
 
 I.	Society	as	the	Other-One
@@ -11916,8 +11895,6 @@ So	an	age	ended,	and	its	last	deliverer	died
 In	bed,	grown	idle	and	unhappy;	they	were	safe:
 The	sudden	shadow	of	a	giant's	enormous	calf
 Would	fall	no	more	at	dusk	across	their	lawns	outside.
-
-—W.	H.	AUDEN
 
 SONNETS	FROM	CHINA,	X
 
@@ -12762,8 +12739,6 @@ OF	LIFE	IN	THE	HIVE
 All	grew	so	fast	his	life	was	overgrown,
 Till	he	forgot	what	all	had	once	been	made	for:
 He	gathered	into	crowds	but	was	alone…
-
-—W.	H.	AUDEN
 
 SONNETS	FROM	CHINA,	VIII
 
@@ -14170,8 +14145,6 @@ A	COUP	FROM	ABOVE
 He	shook	with	hate	for	things	he'd	never	seen,
 Pined	for	a	love	abstracted	from	its	object,
 And	was	oppressed	as	he	had	never	been.
-
-—W.	H.	AUDEN
 
 SONNETS	FROM	CHINA,	III
 

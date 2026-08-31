@@ -5202,8 +5202,6 @@ T he H igh-M odernist C ity 119
 
 v :
 
-D
-
 18. The Costa plan of 1957, showing A, the Plaza of the Three Powers; B, the
 ministries; C, superquadra residential zones; D, the president's residence; and E,
 single-fam ily housing
@@ -20325,8 +20323,6 @@ cultivars in, 262-63, 266-68, 415nl4,
 
 Alder, Ken, 364n51
 
-Index
-
 Alexander I, 167, 194
 Aminzade, Ron, 369n4, 4 10n87
 Ammarell, Gene, 330, 425nl5
@@ -20585,8 +20581,6 @@ Episteme, 319, 320, 340
 Esperanto, 143-44, 256-57, 413nll4
 Ethiopia: compulsory villagization in, 3,
 247-52, 41 ln92, 41 ln94, 411«99;
-
-Index
 
 Ethiopia (continued)
 
@@ -20852,8 +20846,6 @@ Landraces, 265-66, 415«9, 415nl0,
 
 Langston, Nancy, 363n31
 
-Index
-
 Language: artificial, 143-44, 256-57,
 
 412nl 13, 413nl 14; imposition of an of­
@@ -21116,8 +21108,6 @@ tional cultivation practices rejected by,
 Oakeshott, Michael, 316, 319, 332, 341,
 
 424nl3, 431n90
-
-Index
 
 October Revolution, 100, 148, 158-61,
 
@@ -21389,8 +21379,6 @@ Taine, Hippolyte, 219
 Tanganyika: groundnuts scheme in,
 
 228-29, 404nl4, 405m 16
-
-Index
 
 Tankel, Stanley, 144, 388nl09
 Tanzania, ujamaa villagization in, 3, 223,

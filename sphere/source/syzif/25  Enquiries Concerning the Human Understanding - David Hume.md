@@ -57,9 +57,6 @@ PLL v6.0 (generated September, 2011)
 
 http://oll.libertyfund.org/title/341
 
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 About Liberty Fund:
 
 Liberty Fund, Inc. is a private, educational foundation established to encourage the
@@ -75,13 +72,6 @@ This material is put online to further the educational goals of Liberty Fund, In
 Unless otherwise stated in the Copyright Information section above, this material may
 be used freely for educational and academic purposes. It may not be used in any way
 for profit.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Table Of Contents
 
@@ -114,13 +104,6 @@ Appendix III. Some Farther Considerations With Regard to Justice.
 Appendix IV. Of Some Verbal Disputes.
 A Dialogue.
 Additional Note to P. 125, L. 4.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 [Back to Table of Contents]
 
@@ -166,13 +149,6 @@ from its philosophic importance, it is always serious and legitimate; but it is 
 impossible not to feel that it would have been quite as important and a good deal
 shorter, if it had contained fewer of the verbal victories which are so easily won over
 Hume.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The question whether Hume's philosophy is to be judged by his Treatise or his
 Enquiries is of some interest, and this Introduction aims chiefly at making clear the
@@ -220,13 +196,6 @@ ardour and enthusiasm, there is an occasional note of insincerity, arrogance or
 wantonness which strikes the serious student painfully. The following pages will
 perhaps show that Hume, in re-casting the Treatise into its new form, displayed the
 less admirable sides of his temper rather freely.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 In the second place, it is undeniable that Hume's own judgement on the style of his
 earlier work was quite correct. The Treatise was ill-proportioned, incoherent, illexpressed. There are ambiguities and obscurities of expression in important passages
@@ -276,13 +245,6 @@ This wholesale omission and insertion cannot well be due to philosophical discon
 with the positions or arguments, or to a general desire to fill up a gap in the system,
 but must be ascribed rather to a general desire to make the Enquiry readable. Parts ii
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 and iv are certainly the hardest in the Treatise, and the least generally interesting to
 the habitués of coffee-houses, especially at a period when 'the greatest part of men
 have agreed to convert reading into an amusement;' whereas a lively and sceptical
@@ -330,13 +292,6 @@ Professor Green thought fit to bestow on it. It is to be noted, however, that th
 of causation which Hume gives afterwards in the Enquiry, is left hanging in the air
 when the support of the theory of succession has been withdrawn. The omission of the
 section on the ideas of existence and external existence is, like the omission of the
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 various accounts of substance, only a part of Hume's avoidance of the general
 question of the relation of knowledge and reality.
@@ -387,13 +342,6 @@ distinction is very hard to follow, and there is little doubt that the sacrifice
 Enquiry is deliberate. In the Enquiry Hume asserts more clearly than in the Treatise
 (though with some of the old inconsistencies) that there is nothing at the bottom of
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 causation except a mental habit of transition or expectation, or, in other words, a
 'natural relation.' Thus the omission of the chapter on the rules by which to judge of
 cause and effect and the sacrifice of contiguity are both part of the same policy:
@@ -441,13 +389,6 @@ which is far from precise and clear, and which justifies many of the lively stri
 passed on the association theory by Mr. Bradley in his Principles of Logic; but it is
 certainly easier to grasp Hume's meaning in the Enquiry than in the Treatise, and a
 comparison of the passages containing the definitions is decidedly instructive.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 It will be noted that in the Enquiry, § 60, Hume interjects a curious little explanation
 of his first definition: 'We may define a cause to be an object followed by another,
@@ -497,13 +438,6 @@ secondary qualities (Treatise, § iv, pp. 225–231; Enquiry, § 122, pp. 154–
 of the Treatise being undeniably cumbrous. Two pages more in the Enquiry are
 occupied with an illustration of the absurdity of the abstract sciences, drawn from
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 their doctrine of infinite divisibility, this having originally appeared in Book I, p. ii, §
 ii of the Treatise.
 
@@ -551,13 +485,6 @@ something less superficial than the prevalent psychology. Its bearing on Hume's
 general system is, it is true, not very great and not at all clear, and it is easy to
 understand how, as a matter of literary policy, it was omitted by Hume. But in
 connexion with other omissions it has a decided philosophical significance.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 (2) The psychology of sympathy, which occupies so much space in Bk. II, and on
 which so much depends in Bk. III of the Treatise, is almost entirely ignored in the
@@ -608,13 +535,6 @@ In the Treatise nothing is more clear than his intention to reduce the various p
 of human nature, which appear distinct to ordinary men, to some more general and
 underlying principle, and indeed his philosophy differed from that of the moral sense
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 school, represented by Hutcheson, in precisely that particular. In other words, he
 attempted a philosophical explanation of human nature, and was not content to accept
 the ordinary distinctions of 'faculties' and 'senses' as final. Thus the temper of the
@@ -663,13 +583,6 @@ also passages which sternly limit its extent and influence. Thus he says (Treati
 III, part ii, § i, p. 481), 'In general it may be affirmed that there is no such passion in
 human minds as the love of mankind merely as such, independent of personal
 qualities, of services, or of relation to oneself. It is true there is no human and indeed
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 no sensible creature whose happiness does not, in some measure, affect us, when
 brought near to us and represented in lively colours. But this proceeds merely from
@@ -720,13 +633,6 @@ In the Enquiry (Bk. V, §§ 173–8, and App. ii, §§ 247–254) he carries the
 enemy's camp, and introduces the conception of self-love which we find in
 Hutcheson's later works, and especially in Butler. Section 253 is especially
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 remarkable, insisting as it does on the necessity of appetites antecedent to self-love.
 The germ of the same thought is perhaps to be found in an obscure passage in the
 Treatise (Bk. III, part ii, § i, p. 478), though it is used for a significantly different
@@ -776,13 +682,6 @@ are obtained he does not explain in the Treatise, and indeed they seem to work i
 circle with sympathy. In the Enquiry they again appear, and are in the first place
 ascribed to the 'intercourse of sentiments in society and conversation' (§ 186), arising
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 apparently in the same way as 'general ideas,' which are really only particular ideas
 with their particularity rubbed off by wear and tear. But in §§ 221–2 of the Enquiry he
 asserts the universality of moral judgements in quite a new style. 'The notion of
@@ -831,13 +730,6 @@ Enquiries the Introduction may be read, as it were, backwards, and it may, perha
 serve to point out the road to a fuller knowledge of a philosopher, who, at his greatest,
 is very great indeed.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Oxford,Nov. 1893.
 
 Comparative Tables Of The Contents Of The Treatise And Of
@@ -851,13 +743,6 @@ Edition), With Book I Of The Treatise On Human Nature
 (According To The Pages Of The Clarendon Press Edition,
 Oxford, 1888 And 1896).
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 TABLE II.
 
 Comparison Of Book II Of The Treatise On Human Nature
@@ -869,13 +754,6 @@ TABLE III.
 
 Comparison Of The Enquiry Concerning The Principles Of
 Morals With Book III Of The Treatise On Human Nature.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 ADVERTISEMENT
 
@@ -913,13 +791,6 @@ observations and instances from common life; place opposite characters in a prop
 contrast; and alluring us into the paths of virtue by the views of glory and happiness,
 direct our steps in these paths by the soundest precepts and most illustrious examples.
 They make us feel the difference between vice and virtue; they excite and regulate our
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 sentiments; and so they can but bend our hearts to the love of probity and true honour,
 they think, that they have fully attained the end of all their labours.
@@ -969,13 +840,6 @@ from any dangerous illusions. The fame of Cicero flourishes at present; but that
 Aristotle is utterly decayed. La Bruyere passes the seas, and still maintains his
 reputation: But the glory of Malebranche is confined to his own nation, and to his own
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 age. And Addison, perhaps, will be read with pleasure, when Locke shall be entirely
 forgotten.
 
@@ -1022,13 +886,6 @@ enjoy, without opposition, his own taste and sentiment. But as the matter is oft
 carried farther, even to the absolute rejecting of all profound reasonings, or what is
 commonly called metaphysics, we shall now proceed to consider what can reasonably
 be pleaded in their behalf.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 We may begin with observing, that one considerable advantage, which results from
 the accurate and abstract philosophy, is, its subserviency to the easy and humane;
@@ -1079,13 +936,6 @@ rejoicing.
 But this obscurity in the profound and abstract philosophy, is objected to, not only as
 painful and fatiguing, but as the inevitable source of uncertainty and error. Here
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 indeed lies the justest and most plausible objection against a considerable part of
 metaphysics, that they are not properly a science; but arise either from the fruitless
 efforts of human vanity, which would penetrate into subjects utterly inaccessible to
@@ -1134,13 +984,6 @@ can the eye readily find those lines and boundaries, which discriminate and
 distinguish them. The objects are too fine to remain long in the same aspect or
 situation; and must be apprehended in an instant, by a superior penetration, derived
 from nature, and improved by habit and reflexion. It becomes, therefore, no
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 inconsiderable part of science barely to know the different operations of the mind, to
 separate them from each other, to class them under their proper heads, and to correct
@@ -1191,13 +1034,6 @@ requisite than to enter upon the enterprize with thorough care and attention; th
 lie within the compass of human understanding, it may at last be happily achieved; if
 not, it may, however, be rejected with some confidence and security. This last
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 conclusion, surely, is not desirable; nor ought it to be embraced too rashly. For how
 much must we diminish from the beauty and value of this species of philosophy, upon
 such a supposition? Moralists have hitherto been accustomed, when they considered
@@ -1232,15 +1068,6 @@ with clearness, and truth with novelty! And still more happy, if, reasoning in t
 manner, we can undermine the foundations of an abstruse philosophy, which seems to
 have hitherto served only as a shelter to superstition, and a cover to absurdity and
 error!
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION II.
 
@@ -1287,13 +1114,6 @@ limits of nature and reality. To form monsters, and join incongruous shapes and
 appearances, costs the imagination no more trouble than to conceive the most natural
 and familiar objects. And while the body is confined to one planet, along which it
 creeps with pain and difficulty; the thought can in an instant transport us into the most
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 distant regions of the universe; or even beyond the universe, into the unbounded
 chaos, where nature is supposed to lie in total confusion. What never was seen, or
@@ -1343,13 +1163,6 @@ can a selfish heart easily conceive the heights of friendship and generosity. It
 readily allowed, that other beings may possess many senses of which we can have no
 conception; because the ideas of them have never been introduced to us in the only
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 manner by which an idea can have access to the mind, to wit, by the actual feeling and
 sensation.
 
@@ -1395,15 +1208,6 @@ will serve to confirm our suspicion. By bringing ideas into so clear a light we 
 reasonably hope to remove all dispute, which may arise, concerning their nature and
 reality1 .
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
-
 SECTION III.
 
 Of The Association Of Ideas.
@@ -1445,15 +1249,6 @@ each other, never stopping till we render the principle as general as possible4 
 more instances we examine, and the more care we employ, the more assurance shall
 we acquire, that the enumeration, which we form from the whole, is complete and
 entire.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION IV.
 
@@ -1499,13 +1294,6 @@ All reasonings concerning matter of fact seem to be founded on the relation of C
 and Effect. By means of that relation alone we can go beyond the evidence of our
 memory and senses. If you were to ask a man, why he believes any matter of fact,
 which is absent; for instance, that his friend is in the country, or in France; he would
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 give you a reason; and this reason would be some other fact; as a letter received from
 him, or the knowledge of his former resolutions and promises. A man finding a watch
@@ -1554,13 +1342,6 @@ depend upon an intricate machinery or secret structure of parts, we make no diff
 in attributing all our knowledge of it to experience. Who will assert that he can give
 the ultimate reason, why milk or bread is proper nourishment for a man, not for a lion
 or a tiger?
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 But the same truth may not appear, at first sight, to have the same evidence with
 regard to events, which have become familiar to us from our first appearance in the
@@ -1611,13 +1392,6 @@ be entirely arbitrary. And even after it is suggested, the conjunction of it wit
 cause must appear equally arbitrary; since there are always many other effects, which,
 to reason, must seem fully as consistent and natural. In vain, therefore, should we
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 pretend to determine any single event, or infer any cause or effect, without the
 assistance of observation and experience.
 
@@ -1662,13 +1436,6 @@ it never could suggest to us the notion of any distinct object, such as its effe
 less, show us the inseparable and inviolable connexion between them. A man must be
 very sagacious who could discover by reasoning that crystal is the effect of heat, and
 ice of cold, without being previously acquainted with the operation of these qualities.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Part II.
 
@@ -1719,13 +1486,6 @@ period of time, which fell under its cognizance: but why this experience should 
 extended to future times, and to other objects, which for aught we know, may be only
 in appearance similar; this is the main question on which I would insist. The bread,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 which I formerly eat, nourished me; that is, a body of such sensible qualities was, at
 that time, endued with such secret powers: but does it follow, that other bread must
 also nourish me at another time, and that like sensible qualities must always be
@@ -1774,13 +1534,6 @@ But that there is no argument of this kind, must appear, if our explication of t
 species of reasoning be admitted as solid and satisfactory. We have said that all
 arguments concerning existence are founded on the relation of cause and effect; that
 our knowledge of that relation is derived entirely from experience; and that all our
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 experimental conclusions proceed upon the supposition that the future will be
 conformable to the past. To endeavour, therefore, the proof of this last supposition by
@@ -1831,13 +1584,6 @@ always be conjoined with similar secret powers, he is not guilty of a tautology,
 these propositions in any respect the same. You say that the one proposition is an
 inference from the other. But you must confess that the inference is not intuitive;
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 neither is it demonstrative: Of what nature is it, then? To say it is experimental, is
 begging the question. For all inferences from experience suppose, as their foundation,
 that the future will resemble the past, and that similar powers will be conjoined with
@@ -1887,27 +1633,11 @@ intricate or profound argument, you, in a manner, give up the question, and conf
 that it is not reasoning which engages us to suppose the past resembling the future,
 and to expect similar effects from causes which are, to appearance, similar. This is the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 proposition which I intended to enforce in the present section. If I be right, I pretend
 not to have made any mighty discovery. And if I be wrong, I must acknowledge
 myself to be indeed a very backward scholar; since I cannot now discover an
 argument which, it seems, was perfectly familiar to me long before I was out of my
 cradle.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION V.
 
@@ -1954,13 +1684,6 @@ Though we should conclude, for instance, as in the foregoing section, that, in a
 reasonings from experience, there is a step taken by the mind which is not supported
 by any argument or process of the understanding; there is no danger that these
 reasonings, on which almost all knowledge depends, will ever be affected by such a
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 discovery. If the mind be not engaged by argument to make this step, it must be
 induced by some other principle of equal weight and authority; and that principle will
@@ -2011,13 +1734,6 @@ respect, different from them. Reason is incapable of any such variation. The
 conclusions which it draws from considering one circle are the same which it would
 form upon surveying all the circles in the universe. But no man, having seen only one
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 body move after being impelled by another, could infer that every other body will
 move after a like impulse. All inferences from experience, therefore, are effects of
 custom, not of reasoning1 .
@@ -2066,13 +1782,6 @@ process of the thought and understanding is able either to produce or to prevent
 
 At this point, it would be very allowable for us to stop our philosophical researches.
 In most questions we can never make a single step farther; and in all questions we
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 must terminate here at last, after our most restless and curious enquiries. But still our
 curiosity will be pardonable, perhaps commendable, if it carry us on to still farther
@@ -2123,13 +1832,6 @@ difficult, if not an impossible task; in the same manner as if we should endeavo
 define the feeling of cold or passion of anger, to a creature who never had any
 experience of these sentiments. Belief is the true and proper name of this feeling; and
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 no one is ever at a loss to know the meaning of that term; because every man is every
 moment conscious of the sentiment represented by it. It may not, however, be
 improper to attempt a description of this sentiment; in hopes we may, by that means,
@@ -2179,13 +1881,6 @@ Resemblance, Contiguity and Causation; which are the only bonds that unite our
 thoughts together, and beget that regular train of reflection or discourse, which, in a
 greater or less degree, takes place among all mankind. Now here arises a question, on
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 which the solution of the present difficulty will depend. Does it happen, in all these
 relations, that, when one of the objects is presented to the senses or memory, the mind
 is not only carried to the conception of the correlative, but reaches a steadier and
@@ -2233,13 +1928,6 @@ whatever relates to it touches me more nearly than when I am two hundred leagues
 distant; though even at that distance the reflecting on any thing in the neighbourhood
 of my friends or family naturally produces an idea of them. But as in this latter case,
 both the objects of the mind are ideas; notwithstanding there is an easy transition
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 between them; that transition alone is not able to give a superior vivacity to any of the
 ideas, for want of some immediate impression1
@@ -2290,13 +1978,6 @@ succession of our ideas; and though the powers and forces, by which the former i
 governed, be wholly unknown to us; yet our thoughts and conceptions have still, we
 find, gone on in the same train with the other works of nature. Custom is that
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 principle, by which this correspondence has been effected; so necessary to the
 subsistence of our species, and the regulation of our conduct, in every circumstance
 and occurrence of human life. Had not the presence of an object, instantly excited the
@@ -2322,15 +2003,6 @@ by which they are actuated; so has she implanted in us an instinct, which carrie
 forward the thought in a correspondent course to that which she has established
 among external objects; though we are ignorant of those powers and forces, on which
 this regular course and succession of objects totally depends.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION VI.
 
@@ -2378,13 +2050,6 @@ admitted of no exception. But there are other causes, which have been found more
 irregular and uncertain; nor has rhubarb always proved a purge, or opium a soporific
 to every one, who has taken these medicines. It is true, when any cause fails of
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 producing its usual effect, philosophers ascribe not this to any irregularity in nature;
 but suppose, that some secret causes, in the particular structure of parts, have
 prevented the operation. Our reasonings, however, and conclusions concerning the
@@ -2415,15 +2080,6 @@ philosophy, and he will be sensible of the difficulty. For my part, I shall thin
 sufficient, if the present hints excite the curiosity of philosophers, and make them
 sensible how defective all common theories are in treating of such curious and such
 sublime subjects.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION VII.
 
@@ -2469,13 +2125,6 @@ retarded by the want of proper experiments and phaenomena, which are often
 discovered by chance, and cannot always be found, when requisite, even by the most
 diligent and prudent enquiry. As moral philosophy seems hitherto to have received
 less improvement than either geometry or physics, we may conclude, that, if there be
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 any difference in this respect among these sciences, the difficulties, which obstruct the
 progress of the former, require superior care and capacity to be surmounted.
@@ -2526,13 +2175,6 @@ from it. But were the power or energy of any cause discoverable by the mind, we
 could foresee the effect, even without experience; and might, at first, pronounce with
 certainty concerning it, by mere dint of thought and reasoning.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 In reality, there is no part of matter, that does ever, by its sensible qualities, discover
 any power or energy, or give us ground to imagine, that it could produce any thing, or
 be followed by any other object, which we could denominate its effect. Solidity,
@@ -2579,13 +2221,6 @@ comprehension. But if by consciousness we perceived any power or energy in the
 will, we must know this power; we must know its connexion with the effect; we must
 know the secret union of soul and body, and the nature of both these substances; by
 which the one is able to operate, in so many instances, upon the other.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Secondly, We are not able to move all the organs of the body with a like authority;
 though we cannot assign any reason besides experience, for so remarkable a
@@ -2636,13 +2271,6 @@ inconceivable1 .
 Shall we then assert, that we are conscious of a power or energy in our own minds,
 when, by an act or command of our will, we raise up a new idea, fix the mind to the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 contemplation of it, turn it on all sides, and at last dismiss it for some other idea, when
 we think that we have surveyed it with sufficient accuracy? I believe the same
 arguments will prove, that even this command of the will gives us no real idea of
@@ -2692,13 +2320,6 @@ common and familiar operations of nature—such as the descent of heavy bodies, 
 growth of plants, the generation of animals, or the nourishment of bodies by food: But
 suppose that, in all these cases, they perceive the very force or energy of the cause, by
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 which it is connected with its effect, and is for ever infallible in its operation. They
 acquire, by long habit, such a turn of mind, that, upon the appearance of the cause,
 they immediately expect with assurance its usual attendant, and hardly conceive it
@@ -2746,13 +2367,6 @@ to us by our Maker. When we voluntarily turn our thoughts to any object, and rai
 its image in the fancy, it is not the will which creates that idea: It is the universal
 Creator, who discovers it to the mind, and renders it present to us.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Thus, according to these philosophers, every thing is full of God. Not content with the
 principle, that nothing exists but by his will, that nothing possesses any power but by
 his concession: They rob nature, and all created beings, of every power, in order to
@@ -2797,13 +2411,6 @@ principle of denying all energy in the Supreme Being as much as in the grossest
 matter. We surely comprehend as little the operations of one as of the other. Is it more
 difficult to conceive that motion may arise from impulse than that it may arise from
 volition? All we know is our profound ignorance in both cases1 .
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Part II.
 
@@ -2854,13 +2461,6 @@ This connexion, therefore, which we feel in the mind, this customary transition 
 imagination from one object to its usual attendant, is the sentiment or impression from
 which we form the idea of power or necessary connexion. Nothing farther is in the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 case. Contemplate the subject on all sides; you will never find any other origin of that
 idea. This is the sole difference between one instance, from which we can never
 receive the idea of connexion, and a number of similar instances, by which it is
@@ -2909,13 +2509,6 @@ by this sound, and that all similar vibrations have been followed by similar sou
 Or, that this vibration is followed by this sound, and that upon the appearance of one
 the mind anticipates the senses, and forms immediately an idea of the other. We may
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 consider the relation of cause and effect in either of these two lights; but beyond
 these, we have no idea of it1 .
 
@@ -2943,15 +2536,6 @@ reasonings there is one point of view which, if we can happily hit, we shall go 
 towards illustrating the subject than by all the eloquence and copious expression in
 the world. This point of view we should endeavour to reach, and reserve the flowers
 of rhetoric for subjects which are more adapted to them.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION VIII.
 
@@ -2996,13 +2580,6 @@ instruction or entertainment. But the state of the argument here proposed may,
 perhaps, serve to renew his attention; as it has more novelty, promises at least some
 decision of the controversy, and will not much disturb his ease by any intricate or
 obscure reasoning.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 I hope, therefore, to make it appear that all men have ever agreed in the doctrine both
 of necessity and of liberty, according to any reasonable sense, which can be put on
@@ -3053,13 +2630,6 @@ of all the actions and enterprises, which have ever been observed among mankind.
 Would you know the sentiments, inclinations, and course of life of the Greeks and
 Romans? Study well the temper and actions of the French and English: You cannot be
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 much mistaken in transferring to the former most of the observations which you have
 made with regard to the latter. Mankind are so much the same, in all times and places,
 that history informs us of nothing new or strange in this particular. Its chief use is
@@ -3108,13 +2678,6 @@ and anomalous, it were impossible to collect any general observations concerning
 mankind; and no experience, however accurately digested by reflection, would ever
 serve to any purpose. Why is the aged husbandman more skilful in his calling than the
 young beginner but because there is a certain uniformity in the operation of the sun,
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 rain, and earth towards the production of vegetables; and experience teaches the old
 practitioner the rules by which this operation is governed and directed.
@@ -3165,13 +2728,6 @@ reason for the stopping of any clock or watch than to say that it does not commo
 go right: But an artist easily perceives that the same force in the spring or pendulum
 has always the same influence on the wheels; but fails of its usual effect, perhaps by
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 reason of a grain of dust, which puts a stop to the whole movement. From the
 observation of several parallel instances, philosophers form a maxim that the
 connexion between all causes and effects is equally necessary, and that its seeming
@@ -3220,13 +2776,6 @@ The mutual dependence of men is so great in all societies that scarce any human
 action is entirely complete in itself, or is performed without some reference to the
 actions of others, which are requisite to make it answer fully the intention of the
 agent. The poorest artificer, who labours alone, expects at least the protection of the
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 magistrate, to ensure him the enjoyment of the fruits of his labour. He also expects
 that, when he carries his goods to market, and offers them at a reasonable price, he
@@ -3277,13 +2826,6 @@ voluntary actions; but the mind feels no difference between them in passing from
 link to another: Nor is less certain of the future event than if it were connected with
 the objects present to the memory or senses, by a train of causes, cemented together
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 by what we are pleased to call a physical necessity. The same experienced union has
 the same effect on the mind, whether the united objects be motives, volition, and
 actions; or figure and motion. We may change the name of things; but their nature and
@@ -3332,13 +2874,6 @@ voluntary actions; we may be more easily led to own the same necessity common to
 all causes. And though this reasoning may contradict the systems of many
 philosophers, in ascribing necessity to the determinations of the will, we shall find,
 upon reflection, that they dissent from it in words only, not in their real sentiment.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Necessity, according to the sense in which it is here taken, has never yet been
 rejected, nor can ever, I think, be rejected by any philosopher. It may only, perhaps,
@@ -3389,13 +2924,6 @@ remain at rest, we may; if we choose to move, we also may. Now this hypothetical
 liberty is universally allowed to belong to every one who is not a prisoner and in
 chains. Here, then, is no subject of dispute.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Whatever definition we may give of liberty, we should be careful to observe two
 requisite circumstances; first, that it be consistent with plain matter of fact; secondly,
 that it be consistent with itself. If we observe these circumstances, and render our
@@ -3444,13 +2972,6 @@ circumstances. The only particular in which any one can differ, is, that either,
 he will refuse to give the name of necessity to this property of human actions: But as
 long as the meaning is understood, I hope the word can do no harm: Or that he will
 maintain it possible to discover something farther in the operations of matter. But this,
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 it must be acknowledged, can be of no consequence to morality or religion, whatever
 it may be to natural philosophy or metaphysics. We may here be mistaken in asserting
@@ -3501,13 +3022,6 @@ to that definition above mentioned, in which all men agree, is also essential to
 morality, and that no human actions, where it is wanting, are susceptible of any moral
 qualities, or can be the objects either of approbation or dislike. For as actions are
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 objects of our moral sentiment, so far only as they are indications of the internal
 character, passions, and affections; it is impossible that they can give rise either to
 praise or blame, where they proceed not from these principles, but are derived
@@ -3557,13 +3071,6 @@ philosophers who, after an exact scrutiny of all the phenomena of nature, conclu
 that the whole, considered as one system, is, in every period of its existence, ordered
 with perfect benevolence; and that the utmost possible happiness will, in the end,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 result to all created beings, without any mixture of positive or absolute ill or misery.
 Every physical ill, say they, makes an essential part of this benevolent system, and
 could not possibly be removed, even by the Deity himself, considered as a wise agent,
@@ -3611,13 +3118,6 @@ personal beauty and deformity? Both these distinctions are founded in the natura
 sentiments of the human mind: And these sentiments are not to be controuled or
 altered by any philosophical theory or speculation whatsoever.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 The second objection admits not of so easy and satisfactory an answer; nor is it
 possible to explain distinctly, how the Deity can be the mediate cause of all the
 actions of men, without being the author of sin and moral turpitude. These are
@@ -3632,15 +3132,6 @@ leaving a scene so full of obscurities and perplexities, return, with suitable m
 her true and proper province, the examination of common life; where she will find
 difficulties enough to employ her enquiries, without launching into so boundless an
 ocean of doubt, uncertainty, and contradiction!
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION IX.
 
@@ -3688,13 +3179,6 @@ experience, which renders a dog apprehensive of pain, when you menace him, or li
 up the whip to beat him? Is it not even experience, which makes him answer to his
 name, and infer, from such an arbitrary sound, that you mean him rather than any of
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 his fellows, and intend to call him, when you pronounce it in a certain manner, and
 with a certain tone and accent?
 
@@ -3741,15 +3225,6 @@ the instinct be different, yet still it is an instinct, which teaches a man to a
 as much as that, which teaches a bird, with such exactness, the art of incubation, and
 the whole economy and order of its nursery.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
-
 SECTION X.
 
 Of Miracles.
@@ -3795,13 +3270,6 @@ conjoined together: Others are found to have been more variable, and sometimes t
 disappoint our expectations; so that, in our reasonings concerning matter of fact, there
 are all imaginable degrees of assurance, from the highest certainty to the lowest
 species of moral evidence.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 A wise man, therefore, proportions his belief to the evidence. In such conclusions as
 are founded on an infallible experience, he expects the event with the last degree of
@@ -3852,13 +3320,6 @@ We balance the opposite circumstances, which cause any doubt or uncertainty; and
 when we discover a superiority on any side, we incline to it; but still with a
 diminution of assurance, in proportion to the force of its antagonist.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 This contrariety of evidence, in the present case, may be derived from several
 different causes; from the opposition of contrary testimony; from the character or
 number of the witnesses; from the manner of their delivering their testimony; or from
@@ -3907,13 +3368,6 @@ fact, is as entire as any argument from experience can possibly be imagined. Why
 more than probable, that all men must die; that lead cannot, of itself, remain
 suspended in the air; that fire consumes wood, and is extinguished by water; unless it
 be, that these events are found agreeable to the laws of nature, and there is required a
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 violation of these laws, or in other words, a miracle to prevent them? Nothing is
 esteemed a miracle, if it ever happen in the common course of nature. It is no miracle
@@ -3964,13 +3418,6 @@ will be found to diminish extremely the assurance, which we might, from human
 testimony, have, in any kind of prodigy. The maxim, by which we commonly conduct
 ourselves in our reasonings, is, that the objects, of which we have no experience,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 resembles those, of which we have; that what we have found to be most usual is
 always most probable; and that where there is an opposition of arguments, we ought
 to give the preference to such as are founded on the greatest number of past
@@ -4020,13 +3467,6 @@ provincial towns, as those concerning marriages; insomuch that two young persons
 equal condition never see each other twice, but the whole neighbourhood immediately
 join them together. The pleasure of telling a piece of news so interesting, of
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 propagating it, and of being the first reporters of it, spreads the intelligence. And this
 is so well known, that no man of sense gives attention to these reports, till he find
 them confirmed by some greater evidence. Do not the same passions, and others still
@@ -4073,13 +3513,6 @@ proceed, from his ignorant Paphlagonians, to the enlisting of votaries, even amo
 Grecian philosophers, and men of the most eminent rank and distinction in Rome:
 nay, could engage the attention of that sage emperor Marcus Aurelius; so far as to
 make him trust the success of a military expedition to his delusive prophecies.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The advantages are so great, of starting an imposture among an ignorant people, that,
 even though the delusion should be too gross to impose on the generality of them
@@ -4130,13 +3563,6 @@ One of the best attested miracles in all profane history, is that which Tacitus 
 Vespasian, who cured a blind man in Alexandria, by means of his spittle, and a lame
 man by the mere touch of his foot; in obedience to a vision of the god Serapis, who
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 had enjoined them to have recourse to the Emperor, for these miraculous cures. The
 story may be seen in that fine historian1 ; where every circumstance seems to add
 weight to the testimony, and might be displayed at large with all the force of argument
@@ -4185,13 +3611,6 @@ testimony, was more properly a subject of derision than of argument.
 
 There surely never was a greater number of miracles ascribed to one person, than
 those, which were lately said to have been wrought in France upon the tomb of Abbé
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Paris, the famous Jansenist, with whose sanctity the people were so long deluded. The
 curing of the sick, giving hearing to the deaf, and sight to the blind, were every where
@@ -4242,13 +3661,6 @@ of a miraculous violation of the most established laws of nature?
 I need not mention the difficulty of detecting a falsehood in any private or even public
 history, at the place, where it is said to happen; much more when the scene is removed
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 to ever so small a distance. Even a court of judicature, with all the authority, accuracy,
 and judgement, which they can employ, find themselves often at a loss to distinguish
 between truth and falsehood in the most recent actions. But the matter never comes to
@@ -4297,13 +3709,6 @@ testimony be very extensive and uniform.
 But suppose, that all the historians who treat of England, should agree, that, on the
 first of January 1600, Queen Elizabeth died; that both before and after her death she
 was seen by her physicians and the whole court, as is usual with persons of her rank;
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 that her successor was acknowledged and proclaimed by the parliament; and that,
 after being interred a month, she again appeared, resumed the throne, and governed
@@ -4354,13 +3759,6 @@ ourselves in too wide a field, let us confine ourselves to such as we find in th
 Pentateuch, which we shall examine, according to the principles of these pretended
 Christians, not as the word or testimony of God himself, but as the production of a
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 mere human writer and historian. Here then we are first to consider a book, presented
 to us by a barbarous and ignorant people, written in an age when they were still more
 barbarous, and in all probability long after the facts which it relates, corroborated by
@@ -4388,15 +3786,6 @@ to convince us of its veracity: And whoever is moved by Faith to assent to it, i
 conscious of a continued miracle in his own person, which subverts all the principles
 of his understanding, and gives him a determination to believe what is most contrary
 to custom and experience.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION XI.
 
@@ -4441,13 +3830,6 @@ the philosophers; these teachers seem ever after, during the ages of antiquity, 
 lived in great harmony with the established superstition, and to have made a fair
 partition of mankind between them; the former claiming all the learned and wise, the
 latter possessing all the vulgar and illiterate.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 It seems then, say I, that you leave politics entirely out of the question, and never
 suppose, that a wise magistrate can justly be jealous of certain tenets of philosophy,
@@ -4498,13 +3880,6 @@ and wise arrangement of the universe; and then ask, if such a glorious display o
 intelligence could proceed from the fortuitous concourse of atoms, or if chance could
 produce what the greatest genius can never sufficiently admire. I shall not examine
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 the justness of this argument. I shall allow it to be as solid as my antagonists and
 accusers can desire. It is sufficient, if I can prove, from this very reasoning, that the
 question is entirely speculative, and that, when, in my philosophical disquisitions, I
@@ -4553,13 +3928,6 @@ universe; it follows, that they possess that precise degree of power, intelligen
 benevolence, which appears in their workmanship; but nothing farther can ever be
 proved, except we call in the assistance of exaggeration and flattery to supply the
 defects of argument and reasoning. So far as the traces of any attributes, at present,
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 appear, so far may we conclude these attributes to exist. The supposition of farther
 attributes is mere hypothesis; much more the supposition, that, in distant regions of
@@ -4610,13 +3978,6 @@ unhappy. These attributes then, are, it seems, beforehand, taken for granted, in
 greatest latitude. And upon that supposition, I own that such conjectures may,
 perhaps, be admitted as plausible solutions of the ill phenomena. But still I ask; Why
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 take these attributes for granted, or why ascribe to the cause any qualities but what
 actually appear in the effect? Why torture your brain to justify the course of nature
 upon suppositions, which, for aught you know, may be entirely imaginary, and of
@@ -4665,13 +4026,6 @@ imagining, that, if we grant that divine existence, for which you so earnestly c
 you may safely infer consequences from it, and add something to the experienced
 order of nature, by arguing from the attributes which you ascribe to your gods. You
 seem not to remember, that all your reasonings on this subject can only be drawn from
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 effects to causes; and that every argument, deducted from causes to effects, must of
 necessity be a gross sophism; since it is impossible for you to know anything of the
@@ -4722,13 +4076,6 @@ know, I have always expressed a particular attachment. But allowing you to make
 experience (as indeed I think you ought) the only standard of our judgement
 concerning this, and all other questions of fact; I doubt not but, from the very same
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 experience, to which you appeal, it may be possible to refute this reasoning, which
 you have put into the mouth of Epicurus. If you saw, for instance, a half-finished
 building, surrounded with heaps of brick and stone and mortar, and all the instruments
@@ -4777,13 +4124,6 @@ The case is not the same with our reasonings from the works of nature. The Deity
 known to us only by his productions, and is a single being in the universe, not
 comprehended under any species or genus, from whose experienced attributes or
 qualities, we can, by analogy, infer any attribute or quality in him. As the universe
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 shews wisdom and goodness, we infer wisdom and goodness. As it shews a particular
 degree of these perfections, we infer a particular degree of them, precisely adapted to
@@ -4834,13 +4174,6 @@ to have no influence; never considering, that men reason not in the same manner 
 do, but draw many consequences from the belief of a divine Existence, and suppose
 that the Deity will inflict punishments on vice, and bestow rewards on virtue, beyond
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 what appear in the ordinary course of nature. Whether this reasoning of theirs be just
 or not, is no matter. Its influence on their life and conduct must still be the same. And,
 those, who attempt to disabuse them of such prejudices, may, for aught I know, be
@@ -4878,15 +4211,6 @@ of a Deity, a cause no less singular and unparalleled; your reasonings, upon tha
 supposition, seem, at least, to merit our attention. There is, I own, some difficulty,
 how we can ever return from the cause to the effect, and, reasoning from our ideas of
 the former, infer any alteration on the latter, or any addition to it.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION XII.
 
@@ -4933,13 +4257,6 @@ to reach truth, and attain a proper stability and certainty in our determination
 
 There is another species of scepticism, consequent to science and enquiry, when men
 are supposed to have discovered, either the absolute fallaciousness of their mental
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 faculties, or their unfitness to reach any fixed determination in all those curious
 subjects of speculation, about which they are commonly employed. Even our very
@@ -4990,13 +4307,6 @@ the existences, which we consider, when we say, this house and that tree, are no
 but perceptions in the mind, and fleeting copies or representations of other existences,
 which remain uniform and independent.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 So far, then, are we necessitated by reasoning to contradict or depart from the primary
 instincts of nature, and to embrace a new system with regard to the evidence of our
 senses. But here philosophy finds herself extremely embarrassed, when she would
@@ -5045,13 +4355,6 @@ that the perceptions are connected with any external objects.
 There is another sceptical topic of a like nature, derived from the most profound
 philosophy; which might merit our attention, were it requisite to dive so deep, in order
 to discover arguments and reasonings, which can so little serve to any serious
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 purpose. It is universally allowed by modern enquirers, that all the sensible qualities
 of objects, such as hard, soft, hot, cold, white, black, &c. are merely secondary, and
@@ -5102,13 +4405,6 @@ and exultation. A real quantity, infinitely less than any finite quantity, conta
 quantities infinitely less than itself, and so on in infinitum; this is an edifice so bold
 and prodigious, that it is too weighty for any pretended demonstration to support,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 because it shocks the clearest and most natural principles of human reason1 . But
 what renders the matter more extraordinary, is, that these seemingly absurd opinions
 are supported by a chain of reasoning, the clearest and most natural; nor is it possible
@@ -5158,13 +4454,6 @@ evidence. The great subverter of Pyrrhonism or the excessive principles of scept
 is action, and employment, and the occupations of common life. These principles may
 flourish and triumph in the schools; where it is, indeed, difficult, if not impossible, to
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 refute them. But as soon as they leave the shade, and by the presence of the real
 objects, which actuate our passions and sentiments, are put in opposition to the more
 powerful principles of our nature, they vanish like smoke, and leave the most
@@ -5211,13 +4500,6 @@ have no other tendency than to show the whimsical condition of mankind, who must
 act and reason and believe; though they are not able, by their most diligent enquiry, to
 satisfy themselves concerning the foundation of these operations, or to remove the
 objections, which may be raised against them.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Part III.
 
@@ -5268,13 +4550,6 @@ so long as they consider the imperfection of those faculties which they employ, 
 narrow reach, and their inaccurate operations. While we cannot give a satisfactory
 reason, why we believe, after a thousand experiments, that a stone will fall, or fire
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 burn; can we ever satisfy ourselves concerning any determination, which we may
 form, with regard to the origin of worlds, and the situation of nature, from, and to
 eternity?
@@ -5324,13 +4599,6 @@ effect, and enables us to infer the existence of one object from that of another
 is the foundation of moral reasoning, which forms the greater part of human
 knowledge, and is the source of all human action and behaviour.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Moral reasonings are either concerning particular or general facts. All deliberations in
 life regard the former; as also all disquisitions in history, chronology, geography, and
 astronomy.
@@ -5356,15 +4624,6 @@ instance; let us ask, Does it contain any abstract reasoning concerning quantity
 number? No. Does it contain any experimental reasoning concerning matter of fact
 and existence? No. Commit it then to the flames: for it can contain nothing but
 sophistry and illusion.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 AN ENQUIRY Concerning The PRINCIPLES OF MORALS
 
@@ -5411,13 +4670,6 @@ conformity to reason, yet, in general, seem to consider morals as deriving their
 existence from taste and sentiment. On the other hand, our modern enquirers, though
 they also talk much of the beauty of virtue, and deformity of vice, yet have commonly
 endeavoured to account for these distinctions by metaphysical reasonings, and by
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 deductions from the most abstract principles of the understanding. Such confusion
 reigned in these subjects, that an opposition of the greatest consequence could prevail
@@ -5466,13 +4718,6 @@ possession of the heart, and animates us to embrace and maintain it. What is
 intelligible, what is evident, what is probable, what is true, procures only the cool
 assent of the understanding; and gratifying a speculative curiosity, puts an end to our
 researches.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Extinguish all the warm feelings and prepossessions in favour of virtue, and all
 disgust or aversion to vice: render men totally indifferent towards these distinctions;
@@ -5523,13 +4768,6 @@ judgment of this nature; and as every tongue possesses one set of words which ar
 taken in a good sense, and another in the opposite, the least acquaintance with the
 idiom suffices, without any reasoning, to direct us in collecting and arranging the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 estimable or blameable qualities of men. The only object of reasoning is to discover
 the circumstances on both sides, which are common to these qualities; to observe that
 particular in which the estimable qualities agree on the one hand, and the blameable
@@ -5550,15 +4788,6 @@ not founded on fact and observation.
 We shall begin our enquiry on this head by the consideration of the social virtues,
 Benevolence and Justice. The explication of them will probably give us an opening by
 which the others may be accounted for.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION II.
 
@@ -5602,13 +4831,6 @@ inferior creation3 . It must, indeed, be confessed, that by doing good only, can
 truly enjoy the advantages of being eminent. His exalted station, of itself but the more
 exposes him to danger and tempest. His sole prerogative is to afford shelter to
 inferiors, who repose themselves under his cover and protection.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 But I forget, that it is not my present business to recommend generosity and
 benevolence, or to paint, in their true colours, all the genuine charms of the social
@@ -5657,13 +4879,6 @@ brambles, affording shelter to wolves and serpents.
 
 A machine, a piece of furniture, a vestment, a house well contrived for use and
 conveniency, is so far beautiful, and is contemplated with pleasure and approbation.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 An experienced eye is here sensible to many excellencies, which escape persons
 ignorant and uninstructed.
@@ -5714,13 +4929,6 @@ jealously and cruelty of princes, a Timoleon and a Brutus, though treated with
 indulgence on account of the prejudices of their times, are now considered as very
 improper models for imitation.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Liberality in princes is regarded as a mark of beneficence, but when it occurs, that the
 homely bread of the honest and industrious is often thereby converted into delicious
 cates for the idle and the prodigal, we soon retract our heedless praises. The regrets of
@@ -5751,15 +4959,6 @@ gentle dominion over the breasts of men.
 How considerable a part of their merit we ought to ascribe to their utility, will better
 appear from future disquisitions1 ; as well as the reason, why this circumstance has
 such a command over our esteem and approbation2 .
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION III.
 
@@ -5804,13 +5003,6 @@ by those, who defend the liberty of the seas, as the unexhausted use of them in
 navigation. Were the advantages, procured by navigation, as inexhaustible, these
 reasoners had never had any adversaries to refute; nor had any claims ever been
 advanced of a separate, exclusive dominion over the ocean.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 It may happen, in some countries, at some periods, that there be established a property
 in water, none in land1 ; if the latter be in greater abundance than can be used by the
@@ -5861,13 +5053,6 @@ and give place to the stronger motives of necessity and self-preservation. Is it
 crime, after a shipwreck, to seize whatever means or instrument of safety one can lay
 hold of, without regard to former limitations of property? Or if a city besieged were
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 perishing with hunger; can we imagine, that men will see any means of preservation
 before them, and lose their lives, from a scrupulous regard to what, in other situations,
 would be the rules of equity and justice? The use and tendency of that virtue is to
@@ -5915,13 +5100,6 @@ considerable circumstance, the condition of men: Produce extreme abundance or
 extreme necessity: Implant in the human breast perfect moderation and humanity, or
 perfect rapaciousness and malice: By rendering justice totally useless, you thereby
 totally destroy its essence, and suspend its obligation upon mankind.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The common situation of society is a medium amidst all these extremes. We are
 naturally partial to ourselves, and to our friends; but are capable of learning the
@@ -5972,13 +5150,6 @@ Were there a species of creatures intermingled with men, which, though rational,
 possessed of such inferior strength, both of body and mind, that they were incapable
 of all resistance, and could never, upon the highest provocation, make us feel the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 effects of their resentment; the necessary consequence, I think, is that we should be
 bound by the laws of humanity to give gentle usage to these creatures, but should not,
 properly speaking, lie under any restraint of justice with regard to them, nor could
@@ -6026,13 +5197,6 @@ distinct societies maintain a kind of intercourse for mutual convenience and
 advantage, the boundaries of justice still grow larger, in proportion to the largeness of
 men's views, and the force of their mutual connexions. History, experience, reason
 sufficiently instruct us in this natural progress of human sentiments, and in the gradual
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 enlargement of our regards to justice, in proportion as we become acquainted with the
 extensive utility of that virtue.
@@ -6083,13 +5247,6 @@ costs more than bread to many families, and even provinces. It may appear withal
 that the rule of equality, as it would be highly useful, is not altogether impracticable;
 but has taken place, at least in an imperfect degree, in some republics; particularly that
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 of Sparta; where it was attended, it is said, with the most beneficial consequences. Not
 to mention that the Agrarian laws, so frequently claimed in Rome, and carried into
 execution in many Greek cities, proceeded, all of them, from a general idea of the
@@ -6136,13 +5293,6 @@ yours; since uninstructed nature surely never made any such distinction? The obj
 which receive those appellations are, of themselves, foreign to us; they are totally
 disjoined and separated from us; and nothing but the general interests of society can
 form the connexion.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Sometimes the interests of society may require a rule of justice in a particular case;
 but may not determine any particular rule, among several, which are all equally
@@ -6193,13 +5343,6 @@ or antipathy, veneration or horror, which have so mighty an influence over a
 considerable part of mankind. A Syrian would have starved rather than taste pigeon;
 an Egyptian would not have approached bacon: But if these species of food be
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 examined by the senses of sight, smell, or taste, or scrutinized by the sciences of
 chemistry, medicine, or physics, no difference is ever found between them and any
 other species, nor can that precise circumstance be pitched on, which may afford a
@@ -6246,13 +5389,6 @@ be desired or conceived for any duty, than to observe, that human society, or ev
 human nature, could not subsist without the establishment of it; and will still arrive at
 greater degrees of happiness and perfection, the more inviolable the regard is, which
 is paid to that duty?
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The dilemma seems obvious: As justice evidently tends to promote public utility and
 to support civil society, the sentiment of justice is either derived from our reflecting
@@ -6302,13 +5438,6 @@ of the latter, directed to the conveniencies of human life, discover not more pl
 their origin from reason and reflection, than do those of the former, which point all to
 a like end.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 I need not mention the variations, which all the rules of property receive from the
 finer turns and connexions of the imagination, and from the subtilties and abstractions
 of law-topics and reasonings. There is no possibility of reconciling this observation to
@@ -6344,15 +5473,6 @@ entirely agreeable to the rules of philosophy, and even of common reason; where 
 principle has been found to have a great force and energy in one instance, to ascribe to
 it a like energy in all similar instances. This indeed is Newton's chief rule of
 philosophizing1 .
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION IV.
 
@@ -6399,13 +5519,6 @@ breach of promise, or an invasion of the properties of others.
 
 In a confederated commonwealth, such as the Achaean republic of old, or the Swiss
 Cantons and United Provinces in modern times; as the league has here a peculiar
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 utility, the conditions of union have a peculiar sacredness and authority, and a
 violation of them would be regarded as no less, or even as more criminal, than any
@@ -6454,13 +5567,6 @@ between the sexes. Public utility is the cause of all these variations.
 
 To repeat, to a man's prejudice, anything that escaped him in private conversation, or
 to make any such use of his private letters, is highly blamed. The free and social
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 intercourse of minds must be extremely checked, where no such rules of fidelity are
 established.
@@ -6511,13 +5617,6 @@ and the laws are, in a great measure, though not altogether, capricious and arbi
 So far is there a material difference between them and the rules of justice, fidelity, and
 loyalty. The general societies of men are absolutely requisite for the subsistence of the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 species; and the public conveniency, which regulates morals, is inviolably established
 in the nature of man, and of the world, in which he lives. The comparison, therefore,
 in these respects, is very imperfect. We may only learn from it the necessity of rules,
@@ -6534,15 +5633,6 @@ War has its laws as well as peace; and even that sportive kind of war, carried o
 among wrestlers, boxers, cudgel-players, gladiators, is regulated by fixed principles.
 Common interest and utility beget infallibly a standard of right and wrong among the
 parties concerned.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION V.
 
@@ -6589,13 +5679,6 @@ diminish, beyond their natural standard, the sentiments of approbation or dislik
 may even, in particular instances, create, without any natural principle, a new
 sentiment of this kind; as is evident in all superstitious practices and observances: But
 that all moral affection or dislike arises from this origin, will never surely be allowed
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 by any judicious enquirer. Had nature made no such distinction, founded on the
 original constitution of the mind, the words, honourable and shameful, lovely and
@@ -6646,13 +5729,6 @@ different feeling and influence on the mind. We praise, perhaps, with more alacr
 where the generous humane action contributes to our particular interest: But the topics
 of praise, which we insist on, are very wide of this circumstance. And we may attempt
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 to bring over others to our sentiments, without endeavouring to convince them, that
 they reap any advantage from the actions which we recommend to their approbation
 and applause.
@@ -6701,13 +5777,6 @@ kind can be new or unusual to us; nor could any false views or prepossessions
 maintain their ground against an experience, so common and familiar. Experience
 being chiefly what forms the associations of ideas, it is impossible that any
 association could establish and support itself, in direct opposition to that principle.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Usefulness is agreeable, and engages our approbation. This is a matter of fact,
 confirmed by daily observation. But, useful? For what? For somebody's interest,
@@ -6758,13 +5827,6 @@ conceive, that the very aspect of happiness, joy, prosperity, gives pleasure; th
 pain, suffering, sorrow, communicates uneasiness? The human countenance, says
 Horace1 , borrows smiles or tears from the human countenance. Reduce a person to
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 solitude, and he loses all enjoyment, except either of the sensual or speculative kind;
 and that because the movements of his heart are not forwarded by correspondent
 movements in his fellow-creatures. The signs of sorrow and mourning, though
@@ -6813,13 +5875,6 @@ Every movement of the theatre, by a skilful poet, is communicated, as it were by
 magic, to the spectators; who weep, tremble, resent, rejoice, and are inflamed with all
 the variety of passions, which actuate the several personages of the drama.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Where any event crosses our wishes, and interrupts the happiness of the favourite
 characters, we feel a sensible anxiety and concern. But where their sufferings proceed
 from the treachery, cruelty, or tyranny of an enemy, our breasts are affected with the
@@ -6866,13 +5921,6 @@ harmless wars of Pisa. The few persons interested and the small interest fill no
 imagination, and engage not the affections. The deep distress of the numerous
 Athenian army before Syracuse; the danger which so nearly threatens Venice; these
 excite compassion; these move terror and anxiety.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The indifferent, uninteresting style of Suetonius, equally with the masterly pencil of
 Tacitus, may convince us of the cruel depravity of Nero or Tiberius: But what a
@@ -6923,13 +5971,6 @@ or system of conduct, which is beneficial, and another which is pernicious to hi
 species or community, he will not so much as give a cool preference to the former, or
 ascribe to it the smallest merit or regard? Let us suppose such a person ever so selfish;
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 let private interest have ingrossed ever so much his attention; yet in instances, where
 that is not concerned, he must unavoidably feel some propensity to the good of
 mankind, and make it an object of choice, if everything else be equal. Would any
@@ -6977,13 +6018,6 @@ of our internal emotions and perceptions; in like manner, as it preserves us fro
 in the several variations of images, presented to our external senses. The same object,
 at a double distance, really throws on the eye a picture of but half the bulk; yet we
 imagine that it appears of the same size in both situations; because we know that on
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 our approach to it, its image would expand on the eye, and that the difference consists
 not in the object itself, but in our position with regard to it. And, indeed, without such
@@ -7034,13 +6068,6 @@ person is supposed to encrease, his connexion with those who are injured or bene
 and his lively conception of their misery or happiness; his consequent censure or
 approbation acquires proportionable vigour. There is no necessity, that a generous
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 action, barely mentioned in an old history or remote gazette, should communicate any
 strong feelings of applause and admiration. Virtue, placed at such a distance, is like a
 fixed star, which, though to the eye of reason it may appear as luminous as the sun in
@@ -7090,15 +6117,6 @@ It is however hoped, that the progress of this argument will bring a farther
 confirmation of the present theory, by showing the rise of other sentiments of esteem
 and regard from the same or like principles.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
-
 SECTION VI.
 
 Of Qualities Useful To Ourselves.
@@ -7145,13 +6163,6 @@ Let us suppose a person originally framed so as to have no manner of concern for
 fellow-creatures, but to regard the happiness and misery of all sensible beings with
 greater indifference than even two contiguous shades of the same colour. Let us
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 suppose, if the prosperity of nations were laid on the one hand, and their ruin on the
 other, and he were desired to choose; that he would stand like the schoolman's ass,
 irresolute and undetermined, between equal motives; or rather, like the same ass
@@ -7197,13 +6208,6 @@ only to obtain success, but to avoid the most fatal miscarriages and disappointm
 The greatest parts without it, as observed by an elegant writer, may be fatal to their
 owner; as Polyphemus, deprived of his eye, was only the more exposed, on account of
 his enormous strength and stature.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 The best character, indeed, were it not rather too perfect for human nature, is that
 which is not swayed by temper of any kind; but alternately employs enterprise and
@@ -7253,13 +6257,6 @@ which can alone give a man any consideration in life. One becomes contemptible, 
 less than odious, when he forgets the duty, which, in this particular, he owes to
 himself as well as to society.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Perhaps, this consideration is one chief source of the high blame, which is thrown on
 any instance of failure among women in point of chastity. The greatest regard, which
 can be acquired by that sex, is derived from their fidelity; and a woman becomes
@@ -7307,13 +6304,6 @@ indissoluble bond in nature, no connexion has strength sufficient to support the
 disgust arising from this character. Love itself, which can subsist under treachery,
 ingratitude, malice, and infidelity, is immediately extinguished by it, when perceived
 and acknowledged; nor are deformity and old age more fatal to the dominion of that
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 passion. So dreadful are the ideas of an utter incapacity for any purpose or
 undertaking, and of continued error and misconduct in life!
@@ -7364,13 +6354,6 @@ of virtue, so much boasted, without betraying symptoms of spleen and irony1 . Bu
 surely this peevish delicacy, whence-ever it arises, can never be carried so far as to
 make us deny the existence of every species of merit, and all distinction of manners
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 and behaviour. Besides discretion, caution, enterprise, industry, assiduity, frugality,
 economy, good-sense, prudence, discernment; besides these endowments, I say,
 whose very names force an avowal of their merit, there are many others, to which the
@@ -7417,13 +6400,6 @@ mental endowments, or from the situation of his exterior circumstances.
 
 It is evident, that one considerable source of beauty in all animals is the advantage
 which they reap from the particular structure of their limbs and members, suitably to
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 the particular manner of life, to which they are by nature destined. The just
 proportions of a horse, described by Xenophon and Virgil, are the same that are
@@ -7474,13 +6450,6 @@ their activity, that they cannot even be supposed to possess the power of servin
 prisoner of war, in all civilized nations, is treated with a regard suited to his condition;
 and riches, it is evident, go far towards fixing the condition of any person. If birth and
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 quality enter for a share, this still affords us an argument to our present purpose. For
 what is it we call a man of birth, but one who is descended from a long succession of
 rich and powerful ancestors, and who acquires our esteem by his connexion with
@@ -7530,13 +6499,6 @@ symbols from the sovereign, is the chief source of distinction. In England, more
 regard is paid to present opulence and plenty. Each practice has its advantages and
 disadvantages. Where birth is respected, unactive, spiritless minds remain in haughty
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 indolence, and dream of nothing but pedigrees and genealogies: the generous and
 ambitious seek honour and authority, and reputation and favour. Where riches are the
 chief idol, corruption, venality, rapine prevail: arts, manufactures, commerce,
@@ -7545,15 +6507,6 @@ suited to monarchies. The latter, being the chief spur to industry, agrees bette
 republican government. And we accordingly find that each of these forms of
 government, by varying the utility of those customs, has commonly a proportionable
 effect on the sentiments of mankind.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION VII.
 
@@ -7600,13 +6553,6 @@ enjoyment within themselves, they can never become agreeable to others, or
 contribute to social entertainment. In all polite nations and ages, a relish for pleasure,
 if accompanied with temperance and decency, is esteemed a considerable merit, even
 in the greatest men; and becomes still more requisite in those of inferior rank and
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 character. It is an agreeable representation, which a French writer gives of the
 situation of his own mind in this particular, Virtue I love, says he, without austerity:
@@ -7657,13 +6603,6 @@ slavery, in order to gain his ends; fawn upon those who abuse him; and degrade
 himself by intimacies and familiarities with undeserving inferiors. A certain degree of
 generous pride or self-value is so requisite, that the absence of it in the mind
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 displeases, after the same manner as the want of a nose, eye, or any of the most
 material feature of the face or member of the body4 .
 
@@ -7712,13 +6651,6 @@ by Thucydides3 , could ask another, without offence, whether he were a robber or
 Such also very lately was the system of ethics which prevailed in many barbarous
 parts of Ireland; if we may credit Spenser, in his judicious account of the state of that
 kingdom4 .
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Of the same class of virtues with courage is that undisturbed philosophical
 tranquillity, superior to pain, sorrow, anxiety, and each assault of adverse fortune.
@@ -7769,13 +6701,6 @@ satisfactory enjoyment.
 When poets form descriptions of Elysian fields, where the blessed inhabitants stand in
 no need of each other's assistance, they yet represent them as maintaining a constant
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 intercourse of love and friendship, and sooth our fancy with the pleasing image of
 these soft and gentle passions. The idea of tender tranquillity in a pastoral Arcadia is
 agreeable from a like principle, as has been observed above1 .
@@ -7825,13 +6750,6 @@ sublime passions, magnanimity, courage, disdain of fortune; or those of the tend
 affections, love and friendship; which warm the heart, and diffuse over it similar
 sentiments and emotions. And though all kinds of passion, even the most
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 disagreeable, such as grief and anger, are observed, when excited by poetry, to convey
 a satisfaction, from a mechanism of nature, not easy to be explained: Yet those more
 elevated or softer affections have a peculiar influence, and please from more than one
@@ -7856,15 +6774,6 @@ views of utility or of future beneficial consequences enter into this sentiment 
 approbation; yet is it of a kind similar to that other sentiment, which arises from views
 of a public or private utility. The same social sympathy, we may observe, or fellowfeeling with human happiness or misery, gives rise to both; and this analogy, in all the
 parts of the present theory, may justly be regarded as a confirmation of it.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION VIII.
 
@@ -7911,13 +6820,6 @@ a good-natured, sensible fellow.
 
 In conversation, the lively spirit of dialogue is agreeable, even to those who desire not
 to have any share in the discourse: hence the teller of long stories, or the pompous
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 declaimer, is very little approved of. But most men desire likewise their turn in the
 conversation, and regard, with a very evil eye, that loquacity which deprives them of a
@@ -7968,13 +6870,6 @@ in common societies, that men should not indulge themselves in self-praise, or e
 speak much of themselves; and it is only among intimate friends or people of very
 manly behaviour, that one is allowed to do himself justice. Nobody finds fault with
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Maurice, Prince of Orange, for his reply to one who asked him, whom he esteemed
 the first general of the age, The marquis of Spinola, said he, is the second. Though it
 is observable, that the self-praise implied is here better implied, than if it had been
@@ -8024,13 +6919,6 @@ that means, acquire praise and approbation. An effeminate behaviour in a man, a
 rough manner in a woman; these are ugly because unsuitable to each character, and
 different from the qualities which we expect in the sexes. It is as if a tragedy
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 abounded in comic beauties, or a comedy in tragic. The disproportions hurt the eye,
 and convey a disagreeable sentiment to the spectators, the source of blame and
 disapprobation. This is that indecorum, which is explained so much at large by Cicero
@@ -8065,15 +6953,6 @@ ever given us any entertainment, by means of these accomplishments. The idea, wh
 we form of their effect on his acquaintance, has an agreeable influence on our
 imagination, and gives us the sentiment of approbation. This principle enters into all
 the judgements which we form concerning manners and characters.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 SECTION IX.
 
@@ -8120,13 +6999,6 @@ any one3 . You would admire him still more, says a fourth, if you knew him more
 familiarly. That cheerfulness, which you might remark in him, is not a sudden flash
 struck out by company: it runs through the whole tenor of his life, and preserves a
 perpetual serenity on his countenance, and tranquillity in his soul. He has met with
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 severe trials, misfortunes as well as dangers; and by his greatness of mind, was still
 superior to all of them1 . The image, gentlemen, which you have here delineated of
@@ -8175,13 +7047,6 @@ nature. On the contrary, they are found as ready to maintain the one tenet as th
 and their spirit of satire (for such it appears, rather than of corruption) naturally gives
 rise to both opinions; which have, indeed, a great and almost an indissoluble
 connexion together.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Avarice, ambition, vanity, and all passions vulgarly, though improperly, comprised
 under the denomination of self-love, are here excluded from our theory concerning the
@@ -8232,13 +7097,6 @@ affection or disgust. But if you represent a tyrannical, insolent, or barbarous
 behaviour, in any country or in any age of the world, I soon carry my eye to the
 pernicious tendency of such a conduct, and feel the sentiment of repugnance and
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 displeasure towards it. No character can be so remote as to be, in this light, wholly
 indifferent to me. What is beneficial to society or to the person himself must still be
 preferred. And every quality or action, of every human being, must, by this means, be
@@ -8287,13 +7145,6 @@ breast to those social and public principles.
 
 Another spring of our constitution, that brings a great addition of force to moral
 sentiments, is the love of fame; which rules, with such uncontrolled authority, in all
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 generous minds, and is often the grand object of all their designs and undertakings. By
 our continual and earnest pursuit of a character, a name, a reputation in the world, we
@@ -8344,13 +7195,6 @@ indeed, either in his own temper, or in his situation and company, who has never
 perceived the charms of a facetious wit or flowing affability, of a delicate modesty or
 decent genteelness of address and manner.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 I am sensible, that nothing can be more unphilosophical than to be positive or
 dogmatical on any subject; and that, even if excessive scepticism could be maintained,
 it would not be more destructive to all just reasoning and inquiry. I am convinced that,
@@ -8398,13 +7242,6 @@ self-denial. She declares that her sole purpose is to make her votaries and all 
 during every instant of their existence, if possible, cheerful and happy; nor does she
 ever willingly part with any pleasure but in hopes of ample compensation in some
 other period of their lives. The sole trouble which she demands, is that of just
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 calculation, and a steady preference of the greater happiness. And if any austere
 pretenders approach her, enemies to joy and pleasure, she either rejects them as
@@ -8455,13 +7292,6 @@ sentiments or dispositions, they are really no more opposite than selfish and
 ambitious, selfish and revengeful, selfish and vain. It is requisite that there be an
 original propensity of some kind, in order to be a basis to self-love, by giving a relish
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 to the objects of its pursuit; and none more fit for this purpose than benevolence or
 humanity. The goods of fortune are spent in one gratification or another: the miser
 who accumulates his annual income, and lends it out at interest, has really spent it in
@@ -8511,13 +7341,6 @@ speculation. But in all ingenuous natures, the antipathy to treachery and roguer
 strong to be counterbalanced by any views of profit or pecuniary advantage. Inward
 peace of mind, consciousness of integrity, a satisfactory review of our own conduct;
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 these are circumstances, very requisite to happiness, and will be cherished and
 cultivated by every honest man, who feels the importance of them.
 
@@ -8539,15 +7362,6 @@ peaceful reflection on one's own conduct; what comparison, I say, between these 
 the feverish, empty amusements of luxury and expense? These natural pleasures,
 indeed, are really without price; both because they are below all price in their
 attainment, and above it in their enjoyment.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 APPENDIX I.
 Concerning Moral Sentiment.
@@ -8596,13 +7410,6 @@ makes a distinction in favour of those which are useful and beneficial.
 This partition between the faculties of understanding and sentiment, in all moral
 decisions, seems clear from the preceding hypothesis. But I shall suppose that
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 hypothesis false: it will then be requisite to look out for some other theory that may be
 satisfactory; and I dare venture to affirm that none such will ever be found, so long as
 we suppose reason to be the sole source of morals. To prove this, it will be proper to
@@ -8647,13 +7454,6 @@ which one has as many units as the other; and if any of these parts be compared 
 added to three, it will contain as many units as that compound number. But when you
 draw thence a comparison to moral relations, I own that I am altogether at a loss to
 understand you. A moral action, a crime, such as ingratitude, is a complicated object.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Does the morality consist in the relation of its parts to each other? How? After what
 manner? Specify the relation: be more particular and explicit in your propositions, and
@@ -8704,13 +7504,6 @@ of the judgement, but of the heart; and is not a speculative proposition or affi
 but an active feeling or sentiment. In the disquisitions of the understanding, from
 known circumstances and relations, we inter some new and unknown. In moral
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 decisions, all the circumstances and relations must be previously known; and the
 mind, from the contemplation of the whole, feels some new impression of affection or
 disgust, esteem or contempt, approbation or blame.
@@ -8758,13 +7551,6 @@ you ask the description and position of its beauty, they would readily reply, th
 beauty is not in any of the parts or members of a pillar, but results from the whole,
 when that complicated figure is presented to an intelligent mind, susceptible to those
 finer sensations. Till such a spectator appear, there is nothing but a figure of such
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 particular dimensions and proportions: from his sentiments alone arise its elegance
 and beauty.
@@ -8815,13 +7601,6 @@ be some sentiment which it touches, some internal taste or feeling, or whatever 
 may please to call it, which distinguishes moral good and evil, and which embraces
 the one and rejects the other.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 Thus the distinct boundaries and offices of reason and of taste are easily ascertained.
 The former conveys the knowledge of truth and falsehood: the latter gives the
 sentiment of beauty and deformity, vice and virtue. The one discovers objects as they
@@ -8840,15 +7619,6 @@ and inflexible, even by the will of the Supreme Being: the standard of the other
 arising from the eternal frame and constitution of animals, is ultimately derived from
 that Supreme Will, which bestowed on each being its peculiar nature, and arranged
 the several classes and orders of existence.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 APPENDIX II.
 Of Self-love.
@@ -8894,13 +7664,6 @@ friendly dispositions as any disciple of the austerer schools. And among the mod
 Hobbes and Locke, who maintained the selfish system of morals, lived irreproachable
 lives; though the former lay not under any restraint of religion which might supply the
 defects of his philosophy.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 An epicurean or a Hobbist readily allows, that there is such a thing as a friendship in
 the world, without hypocrisy or disguise; though he may attempt, by a philosophical
@@ -8951,13 +7714,6 @@ the smallest reflection will make evident to every impartial enquirer.
 But the nature of the subject furnishes the strongest presumption, that no better system
 will ever, for the future, be invented, in order to account for the origin of the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 benevolent from the selfish affections, and reduce all the various emotions of the
 human mind to a perfect simplicity. The case is not the same in this species of
 philosophy as in physics. Many an hypothesis in nature, contrary to first appearances,
@@ -9005,13 +7761,6 @@ attendance?
 Is gratitude no affection of the human breast, or is that a word merely, without any
 meaning or reality? Have we no satisfaction in one man's company above another's,
 and no desire of the welfare of our friend, even though absence or death should
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 prevent us from all participation in it? Or what is it commonly, that gives us any
 participation in it, even while alive and present, but our affection and regard to him?
@@ -9061,15 +7810,6 @@ philosophy is more like a satyr than a true delineation or description of human 
 and may be a good foundation for paradoxical wit and raillery, but is a very bad one
 for any serious argument or reasoning.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
-
 APPENDIX III.
 Some Farther Considerations With Regard To Justice.
 
@@ -9116,13 +7856,6 @@ Cyrus, young and unexperienced, considered only the individual case before him, 
 reflected on a limited fitness and convenience, when he assigned the long coat to the
 tall boy, and the short coat to the other of smaller size. His governor instructed him
 better, while he pointed out more enlarged views and consequences, and informed his
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 pupil of the general, inflexible rules, necessary to support general peace and order in
 society.
@@ -9173,13 +7906,6 @@ different from those which are agreeable to the strict rules of right and justic
 Thus, two men pull the oars of a boat by common convention for common interest,
 without any promise or contract: thus gold and silver are made the measures of
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 exchange; thus speech and words and language are fixed by human convention and
 agreement. Whatever is advantageous to two or more persons, if all perform their
 part; but what loses all advantage if only one perform, can arise from no other
@@ -9228,13 +7954,6 @@ We may just observe, before we conclude this subject, that after the laws of jus
 fixed by views of general utility, the injury, the hardship, the harm, which result to
 any individual from a violation of them, enter very much into consideration, and are a
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 great source of that universal blame which attends every wrong or iniquity. By the
 laws of society, this coat, this horse is mine, and ought to remain perpetually in my
 possession: I reckon on the secure enjoyment of it: by depriving me of it, you
@@ -9247,15 +7966,6 @@ good is much enforced by the respect to particular. What injures the community,
 without hurting any individual, is often more lightly thought of. But where the
 greatest public wrong is also conjoined with a considerable private one, no wonder the
 highest disapprobation attends so iniquitous a behaviour.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 APPENDIX IV.
 Of Some Verbal Disputes.
@@ -9302,13 +8012,6 @@ are accompanied with a feeling of sentiment; and these alone may be called the
 genuine virtues: but industry, frugality, temperance, secrecy, perseverance, and many
 other laudable powers or habits, generally stiled virtues, are exerted without any
 immediate sentiment in the person possessed of them, and are only known to him by
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 their effects. It is fortunate, amidst all this seeming perplexity, that the question, being
 merely verbal, cannot possibly be of any importance. A moral, philosophical
@@ -9357,13 +8060,6 @@ as a selfish, ungenerous miser. Give me my choice, and I would rather, for my ow
 happiness and self-enjoyment, have a friendly, humane heart, than possess all the
 other virtues of Demosthenes and Philip united: but I would rather pass with the world
 for one endowed with extensive genius and intrepid courage, and should thence
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 expect stronger instances of general applause and admiration. The figure which a man
 makes in life, the reception which he meets with in company, the esteem paid him by
@@ -9414,13 +8110,6 @@ betrayers alone of hatred and contempt1 .
 The precipitate flight and improvident negligence of Pompey, at the beginning of the
 civil wars, appeared such notorious blunders to Cicero, as quite palled his friendship
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 towards that great man. In the same manner, says he, as want of cleanliness, decency,
 or discretion in a mistress are found to alienate our affections. For so he expresses
 himself, where he talks, not in the character of a philosopher, but in that of a
@@ -9469,13 +8158,6 @@ army. To none would Hasdrubal entrust more willingly the conduct of any dangerou
 enterprize; under none did the soldiers discover more courage and confidence. Great
 boldness in facing danger; great prudence in the midst of it. No labour could fatigue
 his body or subdue his mind. Cold and heat were indifferent to him: meat and drink he
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 sought as supplies to the necessities of nature, not as gratifications of his voluptuous
 appetites. Waking or rest he used indiscriminately, by night or by day.—These great
@@ -9526,13 +8208,6 @@ employ terms in what sense he pleases: but this, in the mean time, must be allow
 that sentiments are every day experienced of blame and praise, which have objects
 beyond the dominion of the will or choice, and of which it behoves us, if not as
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 moralists, as speculative philosophers at least, to give some satisfactory theory and
 explication.
 
@@ -9546,15 +8221,6 @@ to see whether it bears any affinity to that which we owe to society. It is prob
 the approbation attending the observance of both is of a similar nature, and arises
 from similar principles, whatever appellation we may give to either of these
 excellencies.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 A DIALOGUE.
 
@@ -9602,13 +8268,6 @@ himself owed to Elcouf. It seems Alcheic had been very handsome in his youth, ha
 been courted by many lovers; but had bestowed his favours chiefly on the sage
 Elcouf; to whom he was supposed to owe, in great measure, the astonishing progress
 which he had made in philosophy and virtue.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 It gave me some surprize, that Alcheic's wife (who by-the-bye happened also to be
 his sister) was no wise scandalized at this species of infidelity.
@@ -9659,13 +8318,6 @@ Fourli; and each of us brought his mess along with him to the place where we
 assembled. I observed one of them to be worse provided than the rest, and offered him
 a share of my mess, which happened to be a roasted pullet: And I could not but
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 remark, that he and all the rest of the company smiled at my simplicity. I was told,
 that Alcheic had once so much interest with this club as to prevail with them to eat in
 common, and that he had made use of an artifice for that purpose. He persuaded those,
@@ -9713,13 +8365,6 @@ destruction1 .
 
 I need not remind you of the famous and applauded story of Themistocles, and of his
 patience towards Eurybiades, the Spartan, his commanding officer, who, heated by
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 debate, lifted his cane to him in a council of war (the same thing as if he had
 cudgelled him), Strike! cries the Athenian, strike! but hear me.
@@ -9770,13 +8415,6 @@ meanness of such a conduct?
 Should I add, that the same people were as proud of their slavery and dependance as
 the Athenians of their liberty; and though a man among them were oppressed,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 disgraced, impoverished, insulted, or imprisoned by the tyrant, he would still regard it
 as the highest merit to love, serve, and obey him; and even to die for his smallest
 glory or satisfaction: These noble Greeks would probably ask me, whether I spoke of
@@ -9825,13 +8463,6 @@ crime would be so universally detested as an infraction of this rule.
 You need go no further, replied Palamedes; I can easily conjecture the people whom
 you aim at. The strokes, with which you have painted them, are pretty just; and yet
 you must acknowledge, that scarce any people are to be found, either in ancient or
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 modern times, whose national character is, upon the whole, less liable to exception.
 But I give you thanks for helping me out with my argument. I had no intention of
@@ -9882,13 +8513,6 @@ had so lately given it. It is because I love it, he would reply; and regard the 
 which it must inherit from me, as a greater evil than death, which it is not capable of
 dreading, feeling, or resenting3 .
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 How is public liberty, the most valuable of all blessings, to be recovered from the
 hands of an usurper or tyrant, if his power shields him from public rebellion, and our
 scruples from private vengeance? That his crime is capital by law, you acknowledge:
@@ -9935,13 +8559,6 @@ Horace1 celebrates a low forehead, and Anacreon joined eye-brows2 : But the Apol
 and the Venus of antiquity are still our models for male and female beauty; in like
 manner as the character of Scipio continues our standard for the glory of heroes, and
 that of Cornelia for the honour of matrons.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 It appears, that there never was any quality recommended by any one, as a virtue or
 moral excellence, but on account of its being useful, or agreeable to a man himself, or
@@ -9992,13 +8609,6 @@ others make them so essential a part of society and conversation, that, except w
 business is transacted, the male-sex alone are supposed almost wholly incapable of
 mutual discourse and entertainment. As this difference is the most material that can
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 happen in private life, it must also produce the greatest variation in our moral
 sentiments.
 
@@ -10046,13 +8656,6 @@ customs of these two nations seem similar in this respect1 ); that is, without g
 , and without jealousy. By a parity of reason, the customs of the Spaniards and of the
 Italians of an age ago (for the present are very different) must be the worst of any;
 because they favour both gallantry and jealousy.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 Nor will these different customs of nations affect the one sex only: Their idea of
 personal merit in the males must also be somewhat different with regard, at least, to
@@ -10103,13 +8706,6 @@ religion was limited to sacrifices in the temple. Its place is now supplied by t
 modern religion, which inspects our whole conduct, and prescribes an universal rule
 to our actions, to our words, to our very thoughts and inclinations; a rule so much the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 more austere, as it is guarded by infinite, though distant, rewards and punishments;
 and no infraction of it can ever be concealed or disguised.
 
@@ -10153,15 +8749,6 @@ artificial lives, as you call them, no one can answer for what will please or di
 them. They are in a different element from the rest of mankind; and the natural
 principles of their mind play not with the same regularity, as if left to themselves, free
 from the illusions of religious superstition or philosophical enthusiasm.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
-[Back to Table of Contents]
 
 ADDITIONAL NOTE TO P. 125, L. 4.
 
@@ -10209,13 +8796,6 @@ All who have been in France about that time have heard of the reputation of Mons
 Heraut, the lieutenant de Police, whose vigilance, penetration, activity, and extensive
 intelligence have been much talked of. This magistrate, who by the nature of his
 office is almost absolute, was vested with full powers, on purpose to suppress or
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 discredit these miracles; and he frequently seized immediately, and examined the
 witnesses and subjects of them: But never could reach any thing satisfactory against
@@ -10266,13 +8846,6 @@ Jesuits. Had it been a cheat, it had certainly been detected by such sagacious a
 powerful antagonists, and must have hastened the ruin of the contrivers. Our divines,
 who can build up a formidable castle from such despicable materials; what a
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 prodigious fabric could they have reared from these and many other circumstances,
 which I have not mentioned! How often would the great names of Pascal, Racine,
 Arnaud, Nicole, have resounded in our ears? But if they be wise, they had better adopt
@@ -10321,13 +8894,6 @@ understanding by innate, what is original or copied from no precedent perception
 then may we assert that all our impressions are innate, and our ideas not innate.
 
 To be ingenuous, I must own it to be my opinion, that Locke was betrayed into this
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 question by the schoolmen, who, making use of undefined terms, draw out their
 disputes to a tedious length, without ever touching the point in question. A like
@@ -10378,13 +8944,6 @@ erroneous, at least, superficial.
 
 If we examine those arguments, which, in any of the sciences above mentioned, are
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 supposed to be the mere effects of reasoning and reflection, they will be found to
 terminate, at last, in some general principle or conclusion, for which we can assign no
 reason but observation and experience. The only difference between them and those
@@ -10434,13 +8993,6 @@ Cicero de Finibus. Lib. v.
 must say, that it is only probable all men must die, or that the sun will rise to-morrow.
 But to conform our language more to common use, we ought to divide arguments into
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 demonstrations, proofs, and probabilities. By proofs meaning such arguments from
 experience as leave no room for doubt or opposition.
 
@@ -10488,13 +9040,6 @@ Des Cartes insinuated that doctrine of the universal and sole efficacy of the De
 without insisting on it. Malebranche and other Cartesians made it the foundation of
 all their philosophy. It had, however, no authority in England. Locke, Clarke, and
 Cudworth, never so much as take notice of it, but suppose all along, that matter has a
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 real, though subordinate and derived power. By what means has it become so
 prevalent among our modern metaphysicians?
@@ -10545,13 +9090,6 @@ our actions are subject to our will, on most occasions; and imagine we feel, tha
 will itself is subject to nothing, because, when by a denial of it we are provoked to try,
 we feel, that it moves easily every way, and produces an image of itself (or a Velleïty,
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 as it is called in the schools) even on that side, on which it did not settle. This image,
 or faint motion, we persuade ourselves, could, at that time, have been compleated into
 the thing itself; because, should that be denied, we find, upon a second trial, that, at
@@ -10599,13 +9137,6 @@ another.
 
 4. Few men can think long without running into a confusion of ideas, and mistaking
 one for another; and there are various degrees of this infirmity.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 5. The circumstance, on which the effect depends, is frequently involved in other
 circumstances, which are foreign and extrinsic. The separation of it often requires
@@ -10655,13 +9186,6 @@ divine authority, should command a sick person to be well, a healthful man to fa
 down dead, the clouds to pour rain, the winds to blow, in short, should order many
 natural events, which immediately follow upon his command; these might justly be
 esteemed miracles, because they are really, in this case, contrary to the laws of nature.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 For if any suspicion remain, that the event and command concurred by accident, there
 is no miracle and no transgression of the laws of nature. If this suspicion be removed,
@@ -10713,13 +9237,6 @@ book against the sceptics as well as against the atheists and free-thinkers. But
 his arguments, though otherwise intended, are, in reality, merely sceptical, appears
 from this, that they admit of no answer and produce no conviction. Their only effect
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 is to cause that momentary amazement and irresolution and confusion, which is the
 result of scepticism.
 
@@ -10768,13 +9285,6 @@ whimsical imagination can assign.
 [1 ]Sext. Emp. adversus Math. lib. viii.
 
 [2 ]Diod. Sic. passim.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 [1 ]Sect. III and IV.
 
@@ -10825,13 +9335,6 @@ regarded as an honest man. Thus, the interests of society require, that contract
 fulfilled; and there is not a more material article either of natural or civil justice: But
 the omission of a trifling circumstance will often, by law, invalidate a contract, in foro
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 humano, but not in foro conscientiae, as divines express themselves. In these cases,
 the magistrate is supposed only to withdraw his power of enforcing the right, not to
 have altered the right. Where his intention extends to the right, and is conformable to
@@ -10880,13 +9383,6 @@ regular prosecution of the obvious truth, that empty words alone, without any
 meaning or intention in the speaker, can never be attended with any effect. If the same
 conclusion be not admitted in reasonings concerning civil contracts, where the affair
 is allowed to be of so much less consequence than the eternal salvation of thousands,
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 it proceeds entirely from men's sense of the danger and inconvenience of the doctrine
 in the former case: And we may thence observe, that however positive, arrogant, and
@@ -10937,13 +9433,6 @@ A very small variation of the object, even where the same qualities are preserve
 destroy a sentiment. Thus, the same beauty, transferred to a different sex, excites no
 amorous passion, where nature is net extremely perverted.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 [1 ]Undutifulness to parents is disapproved of by mankind, προορωμένους τ? μέλλον,
 κα? συλλογιζομένους ?τι τ? παραπλήσιον ?κάστοις α?τω?ν συγκυρήσει. Ingratitude
 for a like reason (though he seems there to mix a more generous regard)
@@ -10993,13 +9482,6 @@ limited object, on which they could exert themselves.
 consequences, are alone regarded in our moral determinations or general judgements;
 though in our real feeling or sentiment, we cannot help paying greater regard to one
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 whose station, joined to virtue, renders him really useful to society, than to one, who
 exerts the social virtues only in good intentions and benevolent affections. Separating
 the character from the fortune, by an easy and necessary effort of thought, we
@@ -11048,13 +9530,6 @@ Timon. 9. Again, Κα? συναγαγόντες (ο? ?ιλόσο?οι) ε?εξα
 πολυθρύλητος ?ρετή, κα? ?ύσις, κα? ε?μαρμένη, κα? τύχη, ?νυπόστατα κα? κεν?
 πραγμάτων ?νόματα; Deor. Concil. 13.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 [1 ]Cum alacribus, saltu; cum velocibus, cursu; cum validis recte certabat. Sallust
 apud Veget.
 
@@ -11102,13 +9577,6 @@ character, and by giving uneasiness, convey the sentiment of disapprobation to t
 spectator.
 
 [1]
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 'J'aime la vertu, sans rudesse;
 J'aime le plaisir, sans molesse;
@@ -11160,13 +9628,6 @@ made known, he is thenceforth counted a man of worth, in whom there is courage.
 dissolute mirth, without a proper cause or subject, is a sure symptom and
 characteristic of folly, and on that account disgustful.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 [1 ]It is the nature and, indeed, the definition of virtue, that it is a quality of the mind
 agreeable to or approved of by every one who considers or contemplates it. But some
 qualities produce pleasure, because they are useful to society, or useful or agreeable to
@@ -11217,13 +9678,6 @@ must be allowed real in human nature: but whether they will resolve into some ni
 considerations of self-love, is a question more curious than important. The former
 sentiment, to wit, that of general benevolence, or humanity, or sympathy, we shall
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 have occasion frequently to treat of in the course of this enquiry; and I assume it as
 real, from general experience, without any other proof.
 
@@ -11273,13 +9727,6 @@ For a like reason, occupation or first possession becomes the foundation of prop
 Where a man bestows labour and industry upon any object, which before belonged to
 no body; as in cutting down and shaping a tree, in cultivating a field, &c., the
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 alterations, which he produces, causes a relation between him and the object, and
 naturally engages us to annex it to him by the new relation of property. This cause
 here concurs with the public utility, which consists in the encouragement given to
@@ -11327,13 +9774,6 @@ persons. The first necessity is obvious, strong, and invincible: the latter may 
 on a public utility more light and frivolous, on the sentiment of private humanity and
 aversion to private hardship, on positive laws, on precedents, analogies, and very fine
 connexions and turns of the imagination.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
 
 [1 ]The term, pride, is commonly taken in a bad sense; but this sentiment seems
 indifferent, and may be either good or bad, according as it is well or ill founded, and
@@ -11384,13 +9824,6 @@ res humanae tenues et pro nihilo putantur, et in cogitando vis quaedam ingenii, 
 eloquentia admirationis habet non minus, jucunditatis minus. Ipsos enim magis
 videntur, quos laudamus, quam illos, apud quos laudamus, ornare ac tueri: sed tamen
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 in laudenda jungenda sunt etiam haec genera virtutum. Ferunt enim aures hominum,
 cum illa quae jucunda et grata, tum etiam illa, quae mirabilia sunt in virtute, laudari.'
 De orat. lib. ii. cap. 84.
@@ -11439,13 +9872,6 @@ Lucian, Epist. Saturn.
 
 [1 ]In Oneterem.
 
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341
-
-Online Library of Liberty: Enquiries Concerning the Human Understanding and Concerning the
-Principles of Morals
-
 [2]Quand on le sçait, c'est peu de chose:
 
 Quand on l'ignore, ce n'est rien.
@@ -11459,7 +9885,3 @@ Seneca de beneficiis, Lib. i. cap. 9. See also Martial, lib. xii. epig. 58.
 [2 ]The gallantry here meant is that of amours and attachments, not that of
 complaisance, which is as much paid to the fair sex in England as in any other
 country.
-
-PLL v6.0 (generated September, 2011)
-
-http://oll.libertyfund.org/title/341

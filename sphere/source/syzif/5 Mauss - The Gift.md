@@ -1,4 +1,3 @@
-
 The Gift
 
 CONTENTS
@@ -77,8 +76,6 @@ And speak in spite of yourself:
 Presents given in return must be similar to
 Those received.
 
-
-
 (47) Noble and valiant men
 
 Have the best life;
@@ -117,8 +114,6 @@ same time—religious, juridical, and moral, which relate to
 both politics and the family; likewise economic ones, which
 suppose special forms of production and consumption, or
 
-THE GIFT
-
 rather, of performing total services and of distribution. This is
 not to take into account the aesthetic phenomena to which
 these facts lead, and the contours of the phenomena that these
@@ -155,8 +150,6 @@ We shall thus achieve a dual purpose. On the one hand, we
 shall arrive at conclusions of a somewhat archeological kind
 concerning the nature of human transaction in societies around
 
-
-
 us, or that have immediately preceded our own. We shall describe
 the phenomena of exchange and contract in those societies that
 are not, as has been claimed, devoid of economic markets—since
@@ -191,8 +184,6 @@ those systems of law in which we could gain access, through
 documents and philological studies, to the consciousness of
 the societies themselves, for here we are dealing in words and
 ideas. This again has restricted the scope of our comparisons.
-
-THE GIFT
 
 Finally, each study focused on systems that we have striven to
 describe each in turn and in its entirety. Thus we have renounced
@@ -231,8 +222,6 @@ and immovable goods, and things economically useful. In
 particular, such exchanges are acts of politeness: banquets, rituals,
 military services, women, children, dances, festivals, and fairs, in
 
-
-
 which economic transaction is only one element, and in which
 the passing on of wealth is only one feature of a much more
 general and enduring contract. Finally, these total services and
@@ -268,8 +257,6 @@ with the clans. Everything—clans, marriages, initiations,
 Shamanist seances and meetings for the worship of the great
 gods, the totems or the collective or individual ancestors of the
 clan—is woven into an inextricable network of rites, of total
-
-THE GIFT
 
 legal and economic services, of assignment to political ranks in
 the society of men, in the tribe, and in the confederations of
@@ -308,8 +295,6 @@ In the same way we vie with one another in our presents of
 thanks, banquets and weddings, and in simple invitations. We
 still feel the need to revanchieren,19 as the Germans say. We have
 
-
-
 discovered intermediate forms in the ancient Indo-European
 world, and especially among the Thracians.20
 
@@ -326,7 +311,6 @@ THE EXCHANGE OF GIFTS AND
 THE OBLIGATION TO
 RECIPROCATE (POLYNESIA)
 
-I
 'TOTAL SERVICES', 'MATERNAL* GOODS' AGAINST
 'MASCULINE GOODS'† (SAMOA)
 
@@ -386,8 +370,6 @@ the channel along which possessions that are internal in kind,12 the
 tonga, continue to flow from the family of the child to that family.
 Furthermore, the child is the means whereby his parents can obtain
 
-THE GIFT
-
 possessions of a foreign kind (oloa) from the parents who have adopted
 him, and this occurs throughout the child's lifetime.
 
@@ -424,8 +406,6 @@ that are termed tonga are more closely linked to the soil,18 the
 clan, the family, and the person than certain others that are
 termed oloa.
 
-
-
 Yet, if we extend the field of our observation, the notion of
 tonga immediately takes on another dimension. In Maori, Tahitian,
 Tongan, and Mangarevan (Gambier), it connotes everything that
@@ -438,7 +418,6 @@ and magic rituals. Here we link up with that notion of propertyas-talisman, whic
 Malaysian and Polynesian world, and even throughout the Pacific
 as a whole.20
 
-II
 THE SPIRIT OF THE THING GIVEN (MAORI)
 
 This observation leads us to a very important realization: the taonga
@@ -460,8 +439,6 @@ either be reciprocated or given back.' For example, dried fish is
 exchanged for jellied birds or matting.24 All these are exchanged
 between tribes or 'friendly families without any kind of
 stipulation'.
-
-
 
 But Hertz had also noted—and I have found it among his
 records—a text whose importance had escaped the notice of both
@@ -498,8 +475,6 @@ but at times astonishingly clear, and presenting only one
 obscure feature: the intervention of a third person. Yet, in
 order to understand fully this Maori juridical expert, one
 need only say:
-
-
 
 The taonga and all goods termed strictly personal possess a hau, a
 spiritual power. You give me one of them, and I pass it on to a third
@@ -538,8 +513,6 @@ social phenomena in Polynesia and even outside that area. First,
 we can grasp the nature of the legal tie that arises through the
 passing on of a thing. We shall come back presently to this
 
-
-
 point, when we show how these facts can contribute to a
 general theory of obligation. For the time being, however, it
 is clear that in Maori law, the legal tie, a tie occurring through
@@ -565,7 +538,6 @@ individuality, it seeks to return to what Hertz called its 'place
 of origin' or to produce, on behalf of the clan and the native
 soil from which it sprang, an equivalent to replace it.
 
-III
 OTHER THEMES: THE OBLIGATION TO GIVE,
 THE OBLIGATION TO RECEIVE
 
@@ -574,8 +546,6 @@ of potlatch, one has still to discover the explanation of the two
 other elements that are complementary to the former. The
 institution of 'total services' does not merely carry with it the
 obligation to reciprocate presents received. It also supposes two
-
-
 
 other obligations just as important: the obligation, on the one
 hand, to give presents, and on the other, to receive them. The
@@ -614,8 +584,6 @@ and reciprocate, corresponding to rights and duties to offer and
 accept. Yet this intricate mingling of symmetrical and contrary
 rights and duties ceases to appear contradictory if, above all, one
 
-
-
 grasps that mixture of spiritual ties between things that to some
 degree appertain to the soul, and individuals, and groups that to
 some extent treat one another as things.
@@ -629,7 +597,6 @@ of a spiritual matter, including things and men, between clans
 and individuals, distributed between social ranks, the sexes, and
 the generations.
 
-IV
 NOTE: THE PRESENT MADE TO HUMANS, AND
 THE PRESENT MADE TO THE GODS
 
@@ -652,8 +619,6 @@ souls of the dead who are present and take part in it, and whose
 names have been assumed by men, but even upon nature. The
 exchange of presents between men, the 'namesakes'—the
 homonyms of the spirits, incite the spirits of the dead, the gods,
-
-
 
 things, animals, and nature to be 'generous towards them'.46
 The explanation is given that the exchange of gifts produces an
@@ -692,8 +657,6 @@ Koryak, but he has not been present at them, except for the
 whale festival.54 Among the latter, the system of sacrifice seems
 to be very well developed.55
 
-
-
 Bogoras56 rightly compares these customs with those of the
 Russian Koliada: children wearing masks go from house to house
 demanding eggs and flour that one does not dare refuse to give
@@ -730,8 +693,6 @@ power, wealth, and lack of self-interest that slaves are put to
 death, precious oils burnt, copper objects cast into the sea, and
 even the houses of princes set on fire. It is also in order to
 sacrifice to the spirits and the gods, indistinguishable from their
-
-
 
 living embodiments, who bear their titles and are their initiates
 and allies.
@@ -808,7 +769,6 @@ These gifts to children and the poor are pleasing to the dead.73
 Among the Hausa these customs may be of Moslem origin,74
 both Negro and European at the same time, and Berber also.
 
-
 In any case here one can see how a theory of alms can develop.
 Alms are the fruits of a moral notion of the gift and of fortune75
 on the one hand, and of a notion of sacrifice, on the other.
@@ -866,8 +826,6 @@ local group and the family, in other cases, know how to be self-sufficient
 
 * See notes for Chapter 2, p. 97, introductory paragraph.
 
-
-
 in tools, etc.…these presents do not serve the same purpose as
 commerce and exchange in more developed societies. The goal is
 above all a moral one, the object being to foster friendly feelings
@@ -904,12 +862,9 @@ In short, this represents an intermingling. Souls are mixed with
 things; things with souls. Lives are mingled together, and this is
 how, among persons and things so intermingled, each emerges
 
-
-
 from their own sphere and mixes together. This is precisely what
 contract and exchange are.
 
-II
 PRINCIPLES, REASONS, AND THE INTENSITY OF
 EXCHANGE OF GIFTS (MELANESIA)
 
@@ -940,8 +895,6 @@ descend… upon these portions of food the effects of their action
 and strength.' 'The result of the action you have accomplished
 appears today. Every generation has appeared in its mouth.'
 Another way of representing the legal tie, one no less expressive,
-
-
 
 is: 'Our festivals are the movement of the hook that serves to
 bind together the various sections of the straw roofing so as to
@@ -979,8 +932,6 @@ the Sinaketa, and Kitav in the Trobriands, and the Vakuta on
 Woodlark Island. Malinowski gives no translation of kula, which
 doubtless means 'circle'. Indeed it is as if all these tribes, these
 
-
-
 expeditions across the sea, these precious things and objects for
 use, these types of food and festivals, these services rendered of
 all kinds, ritual and sexual, these men and women,—were caught
@@ -1017,8 +968,6 @@ be reciprocated with interest.
 However, in kula not given on such a grand scale, advantage is
 taken of the sea journey to exchange cargoes. The nobles
 themselves carry on trade. About this there is much native theory.
-
-
 
 Numerous objects are solicited,25 asked for, and exchanged, and
 every kind of relationship is established outside the kula, which,
@@ -1058,8 +1007,6 @@ movement: the mwali, the bracelets, are passed on regularly from
 west to east, whereas the soulava always travel from east to west.32
 These two movements in opposite directions occur in all the
 
-
-
 islands—Trobriand, Entrecasteaux, Amphlett, the remote islands—
 Woodlark, Marshall Bennett, Tubetube—and finally the extreme
 southeast coast of New Guinea, from which come the unworked
@@ -1096,8 +1043,6 @@ aspect. The vaygu'a are not unimportant things, mere pieces of
 money. Each one, at least the dearest and the most sought after—
 and other objects enjoy the same prestige38—each one has its
 name,39 a personality, a history, and even a tale attached to it. So
-
-
 
 much is this so that certain individuals even take their own name
 from them. It is not possible to say whether they are really the
@@ -1136,8 +1081,6 @@ that has to bring him the necklaces [in Kitava, the mwali]:
 The crocodile falls upon him, carries off your man, and shoves him
 under the gebobo (the cargo hold on a boat).
 
-
-
 Crocodile, bring me the necklace, bring me the bagido'u, the
 bagiriku, etc.
 
@@ -1173,8 +1116,6 @@ one, gives a different gloss that ties in better with what we know:
 
 The dogs are playfully nuzzling one another. When you mention
 this word 'dog', the precious things also come [to play], as has long
-
-
 
 been ordained. We have given bracelets, necklaces will come. Both
 will meet each other (like the dogs who come sniffing at one
@@ -1214,8 +1155,6 @@ first gift. Occasionally it may be seized by force or by surprise.58
 For a yotile that is an insufficient return gift, revenge may59 be
 taken60 by magic, or at the very least by insult and a display of
 
-
-
 resentment. If one is not able to reciprocate, at the very least
 one may offer a basi, which merely 'pierces' the skin, does not
 bite, and does not conclude the affair. It is a kind of advance
@@ -1254,8 +1193,6 @@ forms the framework for a whole series of other exchanges,
 extremely diverse in scope, ranging from bargaining to
 remuneration, from solicitation to pure politeness, from out-
 
-
-
 and-out hospitality to reticence and reserve. In the first place,
 except for the uvalaku, large-scale solemn expeditions that are
 purely ceremonial and competitive,64 all the kula provide the
@@ -1290,8 +1227,6 @@ present that is sought after. But one is still only half-committed
 as a partner. Only the solemn observance of the tradition
 commits one completely. The importance and nature of these
 gifts springs from the extraordinary competition that occurs
-
-
 
 between the potential partners in the expedition that arrives.
 They seek out the best possible partner in the opposing tribe.
@@ -1331,8 +1266,6 @@ domestic groups, together with their chiefs, who leave their
 homes, pay visits, trade, and intermarry. This may no longer be
 termed a kula. However, Malinowski, contrasting it with the 'coastal
 
-
-
 kula', rightly talks of the 'internal kula' and of 'kula communities',
 which provide the chief with the objects he will exchange.
 However, it is not overstating it to speak in such cases of a potlatch
@@ -1371,8 +1304,6 @@ however, here are two main facts.
 An entirely analogous relationship to that of the kula is that of
 the wasi.86 It establishes regular acts of exchange, which are
 
-
-
 obligatory between, on the one hand, agricultural tribes, and on
 the other hand, coastal tribes. The agricultural partner comes to
 lay his products in front of the house of his fisherman associate.
@@ -1409,8 +1340,6 @@ cannot do without it. Normally it is passed on to someone else,
 to a brother-in-law, for example.92 It can happen that the identical
 things one has acquired and then given away come back to one
 in the course of the same day.
-
-
 
 All the rewards for 'total services' of any kind, things and
 services, fall within this category. In random order, the following
@@ -1449,8 +1378,6 @@ principle that might not be found among kindred peoples.
 
 At the southern limit of Melanesia, in Fiji, where we have
 identified the existence of potlatch, other remarkable institutions
-
-
 
 thrive that belong to the gift system. There is a season, termed
 kere-kere, during which nobody must be refused anything.102 Gifts
@@ -1491,8 +1418,6 @@ illustrates both what this system of reciprocal gifts consists of,
 and what is incorrectly called marriage by purchase. In reality
 this seems to include services to all involved, including the family-
 
-
-
 in-law. The wife whose parents have not sent sufficient return
 presents is sent back to them.
 
@@ -1531,8 +1456,6 @@ the same word'.116 'Strictly speaking they did not know how to
 borrow and lend in the sense that we employ these terms, but
 there was always something given in the shape of an honorarium
 
-
-
 for borrowing, and which was returned when the loan was
 repaid.'117 These men have no conception of either selling or
 borrowing, but nevertheless carry out juridical and economic
@@ -1553,7 +1476,6 @@ to, and still does know how to, exchange things of great value,
 under different forms and for reasons different from those with
 which we are familiar.
 
-III
 THE AMERICAN NORTHWEST
 
 Honour and credit
@@ -1569,8 +1491,6 @@ things exchanged. These are never completely detached from those
 carrying out the exchange. The mutual ties and alliance that they
 establish are comparatively indissoluble. In reality this symbol of
 social life—the permanence of influence over the things
-
-
 
 exchanged—serves merely to reflect somewhat directly the
 manner in which the subgroups in these segmented societies,
@@ -1609,8 +1529,6 @@ Chilkat, blankets of wonderfully different colours that still serve
 as adornment,124 some of them of considerable value. These
 peoples have excellent sculptors and professional designers. Their
 
-
-
 pipes, tomahawks, sticks, spoons carved out of horn, etc.,
 embellish our ethnographic collections. The whole of this
 civilization is remarkably uniform, within very broad limits.
@@ -1644,8 +1562,6 @@ are wrongly called secret societies and are often international,
 but in which male society, and certainly among the Kwakiutl,
 female society, cuts across the clan organization. Part of the gifts
 and total counter-services of which we shall speak are intended,
-
-
 
 as in Melanesia,126 to finance the ranks and successive 'ascensions'
 (promotions)127 in these brotherhoods. The rituals, both of these
@@ -1685,8 +1601,6 @@ impose an obligatory time limit. By their very definition, a meal
 shared in common, a distribution of kava, or a talisman that one
 takes away, cannot be reciprocated immediately. Time is needed
 
-
-
 in order to perform any counter-service. The notion of a time
 limit is thus logically involved when there is question of returning
 visits, contracting marriages and alliances, establishing peace,
@@ -1724,8 +1638,6 @@ simplification, by reductions in periods of time formerly
 arbitrary. On the other hand, buying and selling arose in the
 same way, with the latter according to a fixed time limit, or by
 
-
-
 cash, as well as by lending. For we have no evidence that any
 of the legal systems that have evolved beyond the phase we
 are describing (in particular, Babylonian law) remained
@@ -1761,8 +1673,6 @@ desiring your gift to be reciprocated. Whole boxes of olachen
 (candlefish) oil or whale oil142 are burnt, as are houses and
 thousands of blankets. The most valuable copper objects are
 broken and thrown into the water, in order to put down and
-
-
 
 to 'flatten' one's rival.143 In this way one not only promotes
 oneself, but also one's family, up the social scale. It is therefore
@@ -1801,8 +1711,6 @@ regards everything concerning the form of the contract itself.
 However, we need to fit the study of it made by Davy and Leonhard
 Adam151 into the wider context in which it should be placed for
 
-
-
 the subject with which we are dealing. For the potlatch is much
 more than a juridical phenomenon: it is one that we propose to
 call 'total'. It is religious, mythological, and Shamanist, since the
@@ -1839,8 +1747,6 @@ Moreover, the differences between three of the four forms (the
 Tsimshian form is not dealt with) have been expounded by
 Davy.155 Finally, as far as our study is concerned—that of the
 
-
-
 three themes of the gift, the obligation to give, the obligation
 to receive and reciprocate—the four forms of the potlatch are
 comparatively identical.
@@ -1875,8 +1781,6 @@ totems.168 There is not one single moment when you are not
 obliged to redistribute everything from a potlatch in which you
 have been the beneficiary;169 or when you are not obliged to
 acknowledge by gifts some service or other,170 whether performed
-
-
 
 by chiefs,171 vassals, or relatives:172 all this under pain of violating
 etiquette—at least for nobles—and of losing rank.173
@@ -1913,8 +1817,6 @@ The latter presented its excuses: it did not know who Little Otter
 was. His mother, the princess, died of grief. The chief who had
 been the unwitting culprit brought to the chief, the grandfather,
 all kinds of gifts to expiate his mistake. And the myth concludes:181
-
-
 
 'This is why peoples mounted a great festival when the son of a
 chief was born and was given a name, so that no one should not
@@ -1953,8 +1855,6 @@ of refusal can in fact be observed.189 The chief who believes
 himself to be superior spurns the spoonful of fat presented to
 him; he goes to fetch his 'copper object' and returns with it
 
-
-
 in order to 'put out the fire' (of the fat). There follows a
 succession of formalities that signify the challenge that binds
 the chief who has refused to give another potlatch, another
@@ -1990,8 +1890,6 @@ if a subject receives a blanket from his chief for some service
 he has rendered, he will give two in return on the occasion of
 a marriage in the chief's family, or the enthronement of the
 chief's son, etc. It is true that the latter, in his turn, will give
-
-
 
 away all the goods that he obtains at future potlatches, when
 the opposing clans will heap benefits upon him.
@@ -2032,8 +1930,6 @@ Older writers describe the potlatch no differently, so much so
 that one may wonder whether it constitutes a distinct institution.209
 We recall that among the Chinook, one of the least well-known
 
-
-
 tribes, but which might have been among the most important
 ones to study, the word potlatch signifies gift.210
 
@@ -2069,8 +1965,6 @@ personified an abstraction. English writers refer to the 'Property
 Woman' about whom there are myths and of whom we have
 descriptions.214 For the Haïda she is nothing less than the mother,
 the originating goddess of the dominant phratry, that of the Eagles.
-
-
 
 Yet on the other hand—and this is a strange fact that awakens
 very distant recollections of the Asiatic and Ancient world—she
@@ -2110,8 +2004,6 @@ productive power itself.231 It is not a mere sign and pledge; it is
 also a sign and a pledge of wealth, the magical and religious
 symbol of rank and plenty.232 The dishes233 and spoons234 used
 
-
-
 solemnly for eating, and decorated, carved, and emblazoned
 with the clan's totem or the totem of rank, are animate things.
 They are replicas of the inexhaustible instruments, the creators
@@ -2147,8 +2039,6 @@ fruitful alliances,245—and vice versa. They are alive and move
 autonomously,246 and inspire other copper objects to do so.247
 One of them248 is called among the Kwakiutl 'the attracter of
 copper objects', and the story depicts how the copper objects
-
-
 
 group around it. At the same time the name of its owner is
 'property that flows towards me'. Another frequent name for
@@ -2235,8 +2125,6 @@ practice of exchanges employed in societies immediately
 preceding our own still retain more-or-less important traces of
 all the principles we have just analysed. We believe, in fact, that
 
-
-
 we are in a position to show that our own systems of law and
 economies have emerged from institutions similar to those we
 describe.2
@@ -2262,7 +2150,6 @@ and ancient Germany it will be the laws themselves, still very
 much alive, that we shall still see functioning in a comparatively
 recent era.
 
-I
 PERSONAL LAW AND REAL LAW (VERY
 ANCIENT ROMAN LAW)
 
@@ -2270,8 +2157,6 @@ A comparison between these archaic laws and Roman law that
 predates the era, somewhat earier than before it really becomes
 historical,3 and Germanic law at the time when it does likewise,4
 throws light on both types of law. In particular, it allows us to pose
-
-
 
 once again one of the most controversial questions in the history of
 law, the theory of the nexum.5
@@ -2309,8 +2194,6 @@ property—was in no way common, profane, or simple. The
 handing over is always solemn and reciprocal.11 It is still carried
 out as a group: the five witnesses, who at least were friends, and
 the 'weigher' [arbitrator]. It is mixed up with all kinds of
-
-
 
 considerations that are foreign to our purely modern juridical
 and economic conceptions. The nexum that is established is thus,
@@ -2352,8 +2235,6 @@ household (slaves, horses, mules, donkeys) and the cattle
 subsisting in the fields, far from the stables.15 A distinction
 was also made between the res mancipi and the res nec mancipi,
 
-
-
 according to the forms of sale.16 As regards the former, which
 are made up of precious things, including immovable goods
 and even children, no disposal of them could take place save
@@ -2388,8 +2269,6 @@ to him, and binds its present possessor until the latter is freed by
 the execution of the contract, namely by the compensatory
 handing over of the thing, price, or service that, in turn, will
 bind the initial contracting party.
-
-
 
 SCHOLIUM—EXPLANATORY NOTE
 
@@ -2428,8 +2307,6 @@ question.27 If, on the one hand, it declares that the solemnity of
 the exchanges, and at least the contract, is necessary, as the
 archaic laws we have described lay down, if it said: nunquam nuda
 traditio transfert dominium,28 it likewise declared, although in an era
-
-
 
 as late as that Diocletian (A.D. 298):29 Traditionibus et usucapionibus
 dominia, non pactis transferuntur. The res, a service or thing, is an
@@ -2470,8 +2347,6 @@ and assumes that res is above all a procedural term. On the
 contrary, if our semantic derivation is accepted, since every res
 and every traditio of res is the object of an 'affair', a public 'trial',
 
-
-
 it can be realized that the meaning of being 'involved in the
 trial' is, on the contrary, a secondary meaning. It is even more
 the case that the meaning of 'guilty' for reus is one still more
@@ -2507,8 +2382,6 @@ Moreover, there has been much lengthy discussion as to
 whether the emptio venditio41 corresponds to two separate acts or a
 single one. As can be seen, we provide yet another reason for
 saying that we must reckon with two, although they can follow
-
-
 
 each other almost immediately in the case of a cash sale. Just as
 there is in more primitive forms of law the gift, and then the gift
@@ -2548,8 +2421,6 @@ price nor money, the signs of sale. Vendere, originally venum-dare, is a
 composite word of an archaic prehistoric type.48 Without any
 doubt it clearly includes an element dare, which reminds us of
 
-
-
 both gift and transfer. For the other element, it clearly seems to
 borrow an Indo-European term that already meant, not sale, but
 the price of sale, Sanskrit vasnah, which Hirn49 has moreover
@@ -2586,13 +2457,10 @@ and America, which are commonly called primitive, and are,
 at the very most, archaic. Accordingly, we can generalize with
 some certainty.
 
-
-
 The two kinds of Indo-Germanic law that have best preserved
 traces of this are Germanic and Hindu law. They are also ones for
 which we have numerous written texts.
 
-II
 CLASSICAL HINDU LAW52: THEORY OF THE GIFT
 
 N.B. In using Hindu juridical documents one encounters a fairly
@@ -2623,8 +2491,6 @@ Indian population: the tribes of Assam (Tibeto-Burman) and
 the tribes of munda origin (Austro-Asiatic). We are even entitled
 to suppose that the tradition of these tribes is the one that
 subsisted, but against a Brahmin background.55 For example,
-
-
 
 one might see the vestiges56 of an institution comparable to
 that of the Batak indjok and to the other principles of Malayan
@@ -2661,8 +2527,6 @@ reasons that do not concern us here, this system of law disappears,
 except as it works in favour of the Brahmins. Yet one may say that
 it was certainly in force for six to ten centuries, from the eighth
 century B.C. to the second or third century A.D. This is sufficient:
-
-
 
 the epic and the Brahmin law still survive in the old atmosphere:
 presents are still obligatory, things have special powers and form
@@ -2701,8 +2565,6 @@ Jamadagni, and when the latter heard its song, he gave it away in
 its entirety to king Kacyapa himself. The land68 told him in its
 own, doubtless ancient language:
 
-
-
 Receive me (the recipient);
 Give me (the donor);
 By giving you will obtain me once more.
@@ -2738,8 +2600,6 @@ already the Veda of the magicians. 75 The old code of
 Baudhayana76 declares: 'The property of the Brahmin kills
 [the guilty one] with his sons and grandsons; poison is not
 [poison]; the property of the Brahmin is called poison [par
-
-
 
 excellence].' Property contains in itself its own sanction
 because it represents what is terrible in the Brahmin. There
@@ -2777,8 +2637,6 @@ feeds himself solely on the 'juices of the cow'—water, dung,
 and urine—one night out of three. (In the urine resides Çri
 (Fortune) herself.) One night out of three he lies down with
 
-
-
 the cows on the ground, as they do, and, adds the commentator,
 'without scratching himself, without disturbing the vermin',
 thus identifying himself, 'in one single soul, with them'.82
@@ -2812,8 +2670,6 @@ offended the more one heaps upon him.89 Two 'readings' in the
 Mahabharata recount how the seven rsi, the great seers, and
 their retinue, in a time of famine, when they were about to eat
 the body of the son of the king Cibi, refused the huge presents
-
-
 
 and even the golden figs that were offered them by king Çaivya
 Vrsadarbha, and replied to him:
@@ -2853,8 +2709,6 @@ All kinds of archaic precautions are taken. The codes and
 the epic expatiate upon the theme—as Hindu writers well knew
 how to do—that gifts, givers, and things given are terms to be
 
-
-
 considered relatively,100 after going into details and with
 scruples, so no error is committed in the way one gives and
 receives. It is all a matter of etiquette; it is not like in the
@@ -2869,7 +2723,6 @@ what we seek to describe:
 
 Here there is nothing save a wheel (turning only one way).103
 
-III
 GERMANIC LAW (THE PLEDGE AND THE GIFT)
 
 Although Germanic societies have not preserved for us such
@@ -2890,8 +2743,6 @@ the chiefs among themselves, and even the kings among
 themselves—all lived to a fairly large extent morally and
 economically outside the closed confines of the family group.
 Thus, it was by the form of the gift and the alliance, by pledges
-
-
 
 and hostages, by feasts and presents that were as generous as
 possible, that they communicated, helped, and allied themselves
@@ -2930,8 +2781,6 @@ wedding morning. This is known as the Morgengabe. In a few places
 the generosity of these gifts is proof of the fertility of the young
 couple.112 The contract made through an engagement, the various
 
-
-
 gifts that godfathers and godmothers make at different times in
 life to assist and help (Helfete) their grandchildren, are equally
 important. We recognize this theme, which is still well known in
@@ -2967,8 +2816,6 @@ recipient stimulates the contracting party to carry out the contract,
 to redeem himself by redeeming the thing. Thus the nexum is in the
 thing, and not merely in the magical acts, or only the solemn forms
 of the contract, the words, the oaths, the rituals exchanged, or the
-
-
 
 shaking of hands. It is in it, as it is in the documents, the 'acts' of
 magical value, and the 'tallies' that each contracting party retains,
@@ -3008,8 +2855,6 @@ the thing that is given, holds danger for both parties.
 There is a third fact. The danger represented by the thing given
 or handed on is doubtless nowhere better sensed than in the very
 
-
-
 ancient Germanic law and languages. This explains the double
 meaning of the word Gift in all these languages—on the one hand,
 a gift, on the other, poison. We have traced elsewhere the semantic
@@ -3044,8 +2889,6 @@ item of his property,125 even a movable good, preserves his whole
 life through, vis-à-vis the buyer, a kind of right 'to weep for his
 property'. Fr Hoang has transcribed models of these 'notes of
 complaint', which the seller hands to the buyer.126 It is a kind
-
-
 
 of right of succession over the thing, mingled with a right of
 succession over the person, and which clings to the buyer a
@@ -3367,7 +3210,6 @@ ka ngohe ngohe.
 
 'Give as much as you take, all shall be very well.'14
 
-II
 CONCLUSIONS FOR ECONOMIC SOCIOLOGY
 AND POLITICAL ECONOMY
 
@@ -3590,8 +3432,6 @@ divide human activities up as follows: law (dharma), interest
 in the kingdom and in each caste. The considerable literature of
 the Niticastra is not concerned with economics.
 
-
-
 It is our western societies who have recently made man an
 'economic animal'. But we are not yet all creatures of this genus.
 Among the masses and the elites in our society purely irrational
@@ -3630,8 +3470,6 @@ As we have just seen, already important sections of society,
 associations of our capitalist firms themselves, are seeking as
 bodies to group their employees together. Moreover, all
 
-
-
 syndicalist groupings, whether of employers or wage-earners,
 claim they are defending and representing the general interest
 as fervently as the individual interest of their members or even
@@ -3668,8 +3506,6 @@ Substitute for the name of Allah that of society and the
 occupational grouping, or put together all three names, if you
 are religious. Replace the concept of alms by that of co-operation,
 
-
-
 of a task done or service rendered for others. You will then have a
 fairly good idea of the kind of economy that is at present
 laboriously in gestation. We see it already functioning in certain
@@ -3682,7 +3518,6 @@ shall succeed in throwing a little light upon the path that our
 nations must follow, both in their morality and in their
 economy.
 
-III
 CONCLUSION REGARDING GENERAL
 SOCIOLOGY AND MORALITY
 

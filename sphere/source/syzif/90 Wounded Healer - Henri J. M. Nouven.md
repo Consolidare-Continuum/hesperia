@@ -1,4 +1,3 @@
-
 Praise for
 
 THE WOUNDED HEALER
@@ -230,8 +229,6 @@ CoNTENTs
 
 Preface to the Second Edition
 
-XI
-
 Acknowledgments
 
 X Ill
@@ -358,8 +355,6 @@ Henri]. M. Nouwen
 
 THE WouNDED HEALER
 
-Introduction
-
 The Four Open Doors
 
 What does it mean to be a minister in contemporary so­
@@ -464,8 +459,6 @@ Ministry 1n a
 Dislocated World
 
 The Human Search
-
-Introduction
 
 F rom time to time someone enters you r life whose appear­
 
@@ -634,8 +627,6 @@ Four royal sons were questioning what specialty they
 should master. They said to one another, "Let us search
 
 ( 9 )
-
-CJ'he Wounded J{ealer
 
 the earth and learn a special science." So they decided, and
 
@@ -1154,8 +1145,6 @@ Robert Lifton sees the threat to our sense of immortal-
 
 1 7 ;
 
-CJ'he Wounded J{ealer
-
 ity as the core problem for those who live in the modern
 
 age. This sense of immortality "represents a compelling,
@@ -1634,8 +1623,6 @@ sense he also remains for modern humanity the way to lib­
 
 eration and freedom.
 
-Conclusion
-
 We saw the predicament of those who live in the modern
 
 age characterized by historical dislocation, fragmented ide­
@@ -1709,8 +1696,6 @@ Ministry for the
 Rootless Generations
 
 Looking into the Fugitive's Eyes
-
-Introduction
 
 To set the tone for a discussion of Christian ministry in to­
 
@@ -1830,7 +1815,7 @@ siv en ess. Th e n ew minis t er must take a v ery s erious look at
 
 th es e charact eristics and consid er th em carefully during r e­
 
-fl ection and planning.
+flection and planning.
 
 We will t erm th es e g en erations th e inward g en erations,
 
@@ -2010,8 +1995,6 @@ be "molded into a commitment to transform society." The
 inwardness of new generations can lead either to a higher
 
 ( 33 >
-
-CJ'he Wounded J{ealer
 
 level of hypocrisy or to the discovery of the reality of the un­
 
@@ -2256,8 +2239,6 @@ an absolute vote for the status quo.
 This aspect of modern generations raises serious ques-
 
 < 37 >
-
-CJ'he Wounded J{ealer
 
 tions for Christian leadership. But we would be getting a
 
@@ -3018,8 +2999,6 @@ bounce up and down with the fashions of the moment, be-
 
 ( 49 >
 
-'The Wounded J{ealer
-
 cause they are in contact with what is basic, central, and
 
 ultimate. They do not condone that anybody worship idols,
@@ -3099,8 +3078,6 @@ desperate form of protest , but instead the new life of which
 the contemplative , compassionate minister has made visible
 
 the first hopeful signs.
-
-Conclusion
 
 We looked into the eyes of the young fugitive and found
 
@@ -3185,8 +3162,6 @@ Hop eless Man
 
 Waiting for Tomorrow
 
-Introduction
-
 When we think about leadership we usually think about
 
 one person offering ideas, suggestions, or directions to
@@ -3231,8 +3206,6 @@ ter between two people. In this one-to-one relationship we
 are involved in leading one another from point to point,
 
 ( 55 )
-
-'The Wounded J{ealer
 
 from view to view, from one conviction to another. We need
 
@@ -3478,8 +3451,6 @@ ally happened, was he able to develop the distance necessary
 
 ( 59 >
 
-'The Wounded J{ealer
-
 to see the painful condition of Mr. Harrison. Through that
 
 distance· he could see that Mr. Harrison found himself in
@@ -3604,8 +3575,6 @@ that the opportunity to die as a man was to be denied him:
 "Course I don't want to die during the operation. I 'd rather
 
 ( 6 ! )
-
-CJ'he Wounded J{ealer
 
 die a natural death than die through anesthesia." Mr. Har­
 
@@ -3736,8 +3705,6 @@ son's mind; however, there is no reason to underestimate
 the agonizing quality of his own words. Our "maybes" and
 
 ( 6J >
-
-'The Wounded J{ealer
 
 "perhapses" can at least make us partially aware of what it
 
@@ -3988,8 +3955,6 @@ ful condition we all know, the more likely it is that we can
 become successful leaders, leading people out of the desert
 
 and into the promised land.
-
-CJ'he Wounded J{ealer
 
 Therefore, what follows is not a lesson to show John how
 
@@ -4880,8 +4845,6 @@ rived from their own personalities, nor on specific expecta-
 
 ( 81 )
 
-'The Wounded J{ealer
-
 tions for the future, but on a promise given to each one of
 
 us. This promise not only made Abraham travel to unknown
@@ -4962,8 +4925,6 @@ hard road of Christ, who entered death with nothing but
 
 bare hope.
 
-Conclusion
-
 Thus, waiting for tomorrow, as an act of Christian leader­
 
 ship, asks for personal concern, a deep faith in the value
@@ -5008,8 +4969,6 @@ Ministry by a
 L onely M inister
 
 The Wounded Healer
-
-Introduction
 
 In the middle of our convulsive world men and women raise
 
@@ -5298,8 +5257,6 @@ others is diminishing. Ministers are called to speak to the
 ultimate concerns of life: birth and death, union and sep-
 
 ( 91 >
-
-'The Wounded J{ealer
 
 aration, love and hate. They have an urgent desire to give
 
@@ -5897,8 +5854,6 @@ pain takes place, not as a stifling form of self-complaint, but
 
 as a recognition of God's saving promises.
 
-Conclusion
-
 I started this chapter with the story of Rabbi Yoshua ben
 
 Levi, who asked Elij ah, "When will the Messiah come?"
@@ -5948,8 +5903,6 @@ away from our misery and bring us justice and peace.
 (
 
 101 >
-
-CJ'he Wounded J{ealer
 
 To announce, however, that the Liberator is sitting
 

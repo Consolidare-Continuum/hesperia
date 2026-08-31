@@ -61,8 +61,6 @@ Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL
 
 Revision D (00.04.21)
 
-How Systems Fail
-
 6) Catastrophe is always just around the corner.
 
 Complex systems possess potential for catastrophic failure. Human practitioners are
@@ -118,12 +116,6 @@ dissertation, Department of Sociology, State University of New York at Stonybroo
 
 2 This is not a feature of medical judgements or technical ones, but rather of all human cognition about past
 events and their causes.
-
-Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL
-
-Revision D (00.04.21)
-
-How Systems Fail
 
 post hoc analysis regards these gambles as poor ones. But the converse: that successful
 outcomes are also the result of gambles; is not widely appreciated.
@@ -181,12 +173,6 @@ likelihood of further accidents. In fact that likelihood of an identical acciden
 extraordinarily low because the pattern of latent failures changes constantly. Instead of
 increasing safety, post-accident remedies usually increase the coupling and complexity of
 
-Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL
-
-Revision D (00.04.21)
-
-How Systems Fail
-
 the system. This increases the potential number of latent failures and also makes the
 detection and blocking of accident trajectories more difficult.
 
@@ -243,12 +229,6 @@ Productive Work. (Chicago: CtL)
 Cook & Woods (1994), "Operating at the Sharp End: The Complexity of Human Error,"
 in MS Bogner, ed., Human Error in Medicine, Hillsdale, NJ; pp. 255-310.
 
-Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL
-
-Revision D (00.04.21)
-
-How Systems Fail
-
 Woods, Johannesen, Cook, & Sarter (1994), Behind Human Error: Cognition, Computers and
 
 Hindsight, Wright Patterson AFB: CSERIAC.
@@ -256,7 +236,3 @@ Hindsight, Wright Patterson AFB: CSERIAC.
 Cook, Woods, & Miller (1998), A Tale of Two Stories: Contrasting Views of Patient Safety,
 
 Chicago, IL: NPSF, (available as PDF file on the NPSF web site at www.npsf.org).
-
-Copyright © 1998, 1999, 2000 by R.I.Cook, MD, for CtL
-
-Revision D (00.04.21)

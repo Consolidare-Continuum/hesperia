@@ -213,8 +213,6 @@ Of course, getting billions of real computer users to type
 
 Time is impossible. There are simply not enough computers around.
 
-LINKED
-
 Early news reports construed the shutdown of the leading e-commerce
 
 sites to be the work of a group of sophisticated hackers. The consensus
@@ -305,8 +303,6 @@ and died. But credit for the success of Christianity in fact goes to an orthodox
 was Saul, he is better known to us by his Roman name, Paul. Paul's life
 mission was to curb Christianity. He traveled from community to community persecuting Christians because they put Jesus, condemned by
 the authorities as a blasphemer, on the same level as God. He used
-
-LINKED
 
 scourging, ban, and excommunication to uphold the traditions and to
 
@@ -403,8 +399,6 @@ from placing these maps side by side. Just as diverse humans share
 
 skeletons that are almost indistinguishable, we have learned that these
 
-LINKED
-
 diverse maps follow a common blueprint. A string of recent breathtaking discoveries has forced us to acknowledge that amazingly simple
 
 and far-reaching natural laws govern the structure and evolution of
@@ -497,8 +491,6 @@ challenges doctors face when they attempt to cure a disease by focusing
 
 H
 
-LINKED
-
 on a single molecule or gene, disregarding the complex interconnectedness of living matter. You will be reminded that MafiaBoy is not alone in
 
 attacking networks. You will come to appreciate how the Internet, often
@@ -560,8 +552,6 @@ unparalleled, their sheer quantity is also overwhelming. Opera Omnia, the
 
 still incomplete record of Euler's collected works, currently runs to over
 
-LINKED
-
 seventy-three volumes, six hundred pages each. The last seventeen years
 
 of Euler's life, between his return to St. Petersburg in 1766 and his death at
@@ -616,8 +606,6 @@ his brief paper inadvertently started an immense branch of mathematics known as 
 
 thinking about networks. During the centuries after Euler it grew into a
 
-The Random Universe
-
 Konigsberg Bridges. The layout of Konigsberg before 1875, with
 .1
 Kneiphof island (A) and the land area D caught between the two branches of the
@@ -647,8 +635,6 @@ trained in mathematics. Nevertheless, it is not the proof that made
 history but rather the intermediate step that he took to solve the problem. Euler's great insight lay in viewing Konigsberg 's bridges as a graph,
 
 a collection of nodes connected by links. For this he used nodes to
-
-LINKED
 
 represent each of the four land areas separated by the river, distinguishing them with letters A, B, C, and D. Next he called the bridges
 
@@ -706,8 +692,6 @@ Graph theory boomed after Euler with contributions made by
 
 mathematical giants such as Cauchy, Hamilton, Cayley, Kirchhoff, and
 
-The Random Universe
-
 Polya. They uncovered just about everything that is known about large
 
 but ordered graphs, such as the lattice formed by atoms in a crystal or
@@ -758,8 +742,6 @@ Pythagorean theorem do you know?"
 
 "One," replied the youngster.
 
-LINKED
-
 "I know thirty-seven," and without taking a breath he continued.
 
 "Did you know that the points of a straight line do not form a countable set?" After showing the sharp boy Cantor's proof as evidence, his
@@ -807,8 +789,6 @@ connecting people who are still strangers to each other. For example,
 
 though John has not met Mary yet, they have both met Mike, and so
 
-The Random Universe
-
 .2
 
 The Party. At a party with ten guests, none ofwhom initially knows
@@ -848,8 +828,6 @@ rarely last that long. Thus, you might feel that you could reveal the
 identity of the wine to your friend and reasonably hope that some
 
 would be left at the end oi the party.
-
-LINKED
 
 Paul Erdos and Alfred Renyi begged to differ. "A mathematician is
 
@@ -906,8 +884,6 @@ explanation for very complex phenomena. Erdos and Renyi took on this
 
 challenge by proposing an elegant mathematical answer to describe all
 
-The Random Universe
-
 complex graphs within a single framework. Since different systems follow
 
 such disparate rules in building their own networks, Erdos and Renyi deliberately disregarded this diversity and came up with the simplest solution
@@ -954,8 +930,6 @@ pairs to each other, forming clusters of several nodes. But when you add
 
 enough links such that each node has an average of one link, a miracle
 happens: A unique giant cluster emerges. That is, most nodes will be
-
-LINKED
 
 part of a single cluster such that, starting from any node, we can get to
 
@@ -1006,8 +980,6 @@ than one connection per node, that danger becomes remote.
 Nature repeatedly and extravagantly exceeds the one-link minimum. Sociologists estimate that we know between 200 and 5,000 people
 by name. An average neuron is connected to dozens o( others, some to
 
-The Random Universe
-
 thousands. Each company is inevitably linked to hundreds of suppliers
 
 and customers; some of the biggest have links to millions. In our body,
@@ -1057,8 +1029,6 @@ hopelessly complicated. Humbled by their complexity, the two assumed
 that these networks are random.
 
 In retrospect, it is not surprising that this unlikely pair of mathematicians were the ones to turn around a respectable field of mathematics
-
-LINKED
 
 by injecting randomness into it. Chance and randomness were very
 
@@ -1115,8 +1085,6 @@ his tireless pursuit of mathematical truth. His only permanent job offer came fr
 
 Arnold Ross, at that time the chairman of the math department, oi-
 
-The Random Universe
-
 fered Erdos a visiting professorship on very generous terms: He could
 come and go as he pleased, since he had an assistant who would pick
 
@@ -1166,8 +1134,6 @@ completely randomly; thus all nodes have the same chance of getting
 one—just as in Las Vegas, where supposedly we all have the same
 chance of hitting the jackpot. At the end of the day, however, only a
 
-LINKED
-
 few of our fellow gamblers walk away richer. Similarly, if we place the
 
 links randomly in a graph, some nodes will get more links than others.
@@ -1213,8 +1179,6 @@ most neurons connect roughly to the same number of other neurons;
 
 most companies trade with roughly the same number of other compa-
 
-The Random Universe
-
 nies; most Websites are visited by roughly the same number of visitors.
 
 As nature blindly throws the links around, in the long run no node is
@@ -1259,8 +1223,6 @@ of graphs may be considered as a rather simplified model of the evolution of cer
 systems, etc.)." But, despite this brief journey into the real world, their
 
 work in this area was motivated by a deep curiosity about the mathematical depths o{ the problem rather than by its applications.
-
-LINKED
 
 Erdos would be the first to agree with us that real networks must
 
@@ -1344,8 +1306,6 @@ Karinthy applied his vitriolic and annihilating humor with equal ease
 on deceased giants and close friends. And his arrow was often deadly:
 The authors he most venomously parodied are known to us only
 
-LINKED
-
 through his book; their actual works are lost in the unforgiving sink of
 
 literary taste and history.
@@ -1404,8 +1364,6 @@ indeed, Karinthy's fictional character immediately links a Nobel
 prizewinner to himself, noting that the Nobelist must know King Gustav,
 the Swedish monarch who hands out the Nobel prize, who in turn is a
 
-Six Degrees of Separation
-
 consummate tennis player and plays occasionally with a tennis champion
 who happens to be a good friend of Karinthy's character. Remarking that
 
@@ -1450,8 +1408,6 @@ a divinity graduate student in Sharon, Massachusetts, and a stock broker in Bost
 
 starting points for the study because "from Cambridge, these cities seem
 
-LINKED
-
 vaguely 'out there,' on the Great Plains or somewhere." There was little
 consensus about how many links it would take to connect people from
 
@@ -1495,8 +1451,6 @@ DIRECTLY. INSTEAD, MAIL THIS FOLDER (POST-
 CARDS AND ALL) TO A PERSONAL ACQUAIN-
 TANCE WHO IS MORE LIKELY THAN YOU TO
 KNOW THE TARGET PERSON. You may send the folder
-
-Six Degrees of Separation
 
 to a friend, relative or acquaintance, but it must be someone
 you know on a first name basis.
@@ -1552,8 +1506,6 @@ myth was born. Because more people watch movies than read sociology
 
 papers, Guare 's version has prevailed in popular thought.
 
-LINKED
-
 Six degrees of separation is intriguing because it suggests that, despite our society's enormous size, it can easily be navigated by following
 
 social links from one person to another—a network of six billion nodes
@@ -1590,8 +1542,6 @@ ten years the genie turned into the World Wide Web, one of the
 largest ever human-made networks. It is a virtual network whose
 
 nodes are Webpages that have it all: news, movies, gossip, maps, pictures, recipes, biographies, and books. If it can be written, drawn, or
-
-Six Degrees of Separation
 
 photographed, chances are there is already a node on the Web containing it in some form.
 
@@ -1630,8 +1580,6 @@ would need to understand why and how this difference emerges. Therefore, at the 
 Hawoong Jeong, a postdoctoral associate—both working at that time in
 my research group at the physics department at the University of Notre
 Dame—to grasp the size of the world behind the Web.
-
-LINKED
 
 Our first goal was to obtain a map of the Web, essentially an inventory of all Webpages and the links connecting them. The information
 
@@ -1681,8 +1629,6 @@ two steps while others took as many as eleven, our results indicated lots of
 variability in the distances between Web documents. For example, my
 graduate students have links to my Webpage; thus they are one click away
 
-Six Degrees of Separation
-
 from me. Yet going from my Wehpage to the homepage of a philosophy
 major would often require twenty clicks. What was astonishing, however,
 
@@ -1726,8 +1672,6 @@ expression. 1 This finding allowed us to predict the separation on the
 in the network. That is, if we denote d to be the average separation between the nodes
 on a Web of N Webpages, then this separation followed the equation d = 0.35 + 2log N,
 where log N denotes the base- 10- logarithm of N.
-
-LINKED
 
 full Web as long as we know the total number of documents out there.
 That number was provided by the NEC group. They estimated the size
@@ -1775,8 +1719,6 @@ The natural question is: Why? How do networks achieve such a
 uniformly short path despite consisting of billions of nodes? The answer
 
 lies in the highly interconnected nature of these networks. In the previ-
-
-Six Degrees of Separation
 
 ous chapter, we saw that random networks require only one link per
 
@@ -1826,8 +1768,6 @@ and perhaps he forgot that he promised, and he will indeed come." Interestingly,
 2 If we have N nodes in the network, kd must not exceed N. Thus, using kd = N, we obtain a simple formula that works well for random networks, telling us that the average
 separation follows the equation d = log hJ/log k.
 
-LINKED
-
 reformulated, and rediscovered in the popular press and scientific texts
 
 alike. I have no idea who originally discovered the six degrees concept.
@@ -1874,8 +1814,6 @@ four decades after Karinthy's five-link conjecture and almost a decade after Erd
 seem to have been aware of the body of work on networks in graph theory and most likely had never heard of Erdos and Renyi. He is known to
 have been influenced by the work of Ithel de Sole Pool oi MIT and
 Manfred Kochen of IBM, who circulated manuscripts about the smallworld problem within a group of colleagues for decades without publishing them, because they felt they had never "broken the back oi the prob-
-
-Six Degrees of Separation
 
 3 7
 
@@ -1933,8 +1871,6 @@ love life. By interpreting the links, we avoid having to check all the
 
 pages within nineteen degrees and can zero in on the desired page
 
-LINKED
-
 within a few clicks. While this method seems to be the most efficient, it
 
 almost always fails to find the shortest path. Indeed, it is always possible
@@ -1986,8 +1922,6 @@ the president. Thus in reality you are only two degrees away from the
 
 president. Similarly, the paths recorded by Milgrams experiment were
 
-Six Degrees of Separation
-
 invariably longer than the shortest possible. Thus, the real separation
 
 in society was clearly overestimated. It must be shorter than six—perhaps shorter than Karinthy's five. We don't have a social search engine,
@@ -2032,8 +1966,6 @@ and can be easily activated. The number of social links an individual
 can actively maintain has increased dramatically, bringing down the
 degrees of separation. Milgram estimated six. Karinthy five. We could
 be much closer these days to three.
-
-LINKED
 
 "Small worlds" are a generic property of networks in general. Short
 
@@ -2090,8 +2022,6 @@ hold huge water molecules together, and that image, stuck in his mind
 
 since his freshman year, inspired his first research paper, a long, revealing manuscript on the importance of the weak social ties in our lives. He
 
-LINKED
-
 mailed it out in August 1969 to the American Sociological Review. In December he received word that two anonymous referees had rejected the
 
 paper. As one put it, the manuscript should not be published for "an
@@ -2138,8 +2068,6 @@ is connected to all other nodes within the cluster (.1). These
 
 complete graphs are linked to each other by a few weak ties between acquaintances belonging to different circles of friends.
 
-Small Worlds
-
 .1
 
 Strong and Weak Ties. In Mar\ Granovetter's social world, our
@@ -2177,8 +2105,6 @@ In a random network there would be no circle of friends, as our
 
 links to other nodes are completely random. In the Erdos-Renyi social
 universe the likelihood of my two closest friends knowing each other is
-
-LINKED
 
 the same as the chance that an Australian cobbler's best friend is an
 
@@ -2221,8 +2147,6 @@ the chaotic thunder gave way to unison clapping. Our palms came together at prec
 urged us to clap in phase, as if following the baton of an invisible conductor. As the actors bowed, disappeared backstage, and reappeared,
 
 the rhythmic applause grew even stronger. Its synchrony dissolved tern-
-
-Small Worlds
 
 porarily as the clapping gathered speed and strength, only to reappear
 
@@ -2268,8 +2192,6 @@ and eventually a sociologist, a transformation made official in 2000
 when he was offered a professorship in the department of sociology at
 
 Columbia University.
-
-LINKED
 
 While struggling to grasp how crickets synchronize, Watts was
 
@@ -2322,8 +2244,6 @@ Then the real count will give fewer than six links— let's say, four. In
 
 this case the clustering coefficient for your circle of friends is 0.66, obtained by dividing the number of actual links between your friends
 
-Small Worlds
-
 (four) by the number of links that they could have if they were all
 
 friends with each other (six).
@@ -2375,8 +2295,6 @@ professor of mathematics at Oakland University in Rochester, Michigan,
 
 maintains a detailed Webpage collecting the Erdos numbers for thousands
 
-LINKED
-
 o{ mathematicians, allowing any published mathematician to calculate
 
 his or her own.
@@ -2415,8 +2333,6 @@ biological physics at Eotvos University in Budapest during the academic year 199
 physicist from Romania, was one of the participants, and he had
 
 brought along Erzsebet Ravasz, at that time a masters student in Neda's
-
-Small Worlds
 
 —
 
@@ -2461,8 +2377,6 @@ Clustering is indeed present in social systems.
 Clustering in society is something we understand intuitively. Humans
 
 have an inborn desire to form cliques and clusters that offer familiarity,
-
-LINKED
 
 safety, and intimacy. However, a property of the social network is only of
 
@@ -2516,8 +2430,6 @@ computers on the Internet; economists have detected it in the network
 describing how companies are linked by joint ownership; ecologists see it
 in food webs that quantify how species feed on each other in ecosystems;
 
-Small Worlds
-
 .2 A Small and Clustered World. To model networks with a high
 
 degree of clustering, Duncan Watts and Steven Strogatz started from a circle of
@@ -2543,8 +2455,6 @@ and Strogatz offered an alternative to Erdos and Renyi's random network model in
 model that for the first time reconciled clustering with the completely haphazard character oi random graphs. They envisioned that
 people live on a circle (.2) along which everybody knows
 their immediate neighbors. In this simple model each node has exactly
-
-LINKED
 
 four neighbors, who are connected to each other by three links. Thus,
 
@@ -2596,8 +2506,6 @@ achieve this in the model described above by adding a few links to some
 
 randomly chosen nodes around the circle. That is, pick any two nodes
 
-Small Worlds
-
 5 3
 
 along the circle and connect them with a new link. This will decrease
@@ -2639,8 +2547,6 @@ community. For a short time it seemed as if the more general, clusterfriendly mo
 explanation of the small worlds around us. The model offered an elegant compromise between the completely random world of Erdos and
 
 Renyi, which is a small world but hostile to circles of friends, and a
-
-LINKED
 
 regular lattice, which displays high clustering but in which nodes are
 
@@ -2720,8 +2626,6 @@ was unavoidable: "Sprinkled among every walk of life .
 
 of people with a truly extraordinary knack of making friends and acquaintances. They are connectors."
 
-LINKED
-
 Connectors are an extremely important component of our social
 
 network. They create trends and fashions, make important deals,
@@ -2761,8 +2665,6 @@ our Web-mapping project was the complete absence of democracy, fairness, and ega
 of the Web prevents us from seeing anything but a mere handful o( the
 
 billion documents out there.
-
-Hubs and Connectors
 
 When it comes to the Web, the key question is no longer whether
 your views can be published. They can. Once published, they will be
@@ -2812,8 +2714,6 @@ in the Webs topology. Of the 325,000 pages on the University of Notre
 Dame's domain we investigated, 270,000, or 82 percent of all pages, had
 
 three or fewer incoming links. However, a small minority, about 42
-
-LINKED
 
 pages, had been referenced by over a thousand other pages and had
 
@@ -2865,8 +2765,6 @@ movies that you could connect him to just about any actor in Hollywood. Full of 
 the Jon Stewart Show, an irreverent celebrity talk show popular with
 college audiences. "We are three men on a mission. Our mission is to
 
-Hubs and Connectors
-
 prove to the Jon Stewart audience, nay, the world, that Bacon is God."
 Much to their surprise, they got their fifteen minutes of fame. They
 were invited to appear on the Stewart show with Kevin Bacon, and
@@ -2916,8 +2814,6 @@ in place. It took Wasson and Tjaden a few weeks of programming to set up
 
 The Oracle of Bacon Website, which became the unbeatable master of
 
-LINKED
-
 the game. If you type in the name of any two actors, in milliseconds it
 
 provides the shortest path between them, listing the chain of actors and
@@ -2966,8 +2862,6 @@ and holds some surprises, too. Compiled by Hawoong Jeong, the top ten
 
 list, showing in parentheses the number of movies in which they played,
 
-Hubs and Connectors
-
 looks like this: Mel Blanc (759), Tom Byron (679), Marc Wallice (535),
 Ron Jeremy (500), Peter North (491), T. T. Boy (449), Tom London
 (436), Randy West (425), Mike Horner (418), and Joey Silvera (410).
@@ -3011,8 +2905,6 @@ Of course, Bacon is a prominent Hollywood actor. He has played in
 over forty-six movies, collecting links to more than 1,800 actors. His
 average separation from everyone else in Hollywood is 2.79—that is,
 most actors are within three links of him. This is the reason that some
-
-LINKED
 
 are so good at the Kevin Bacon game, easily connecting any other actor
 to him. But is Bacon the most connected actor? When Hawoong Jeong
@@ -3061,8 +2953,6 @@ is such a small number that it's hard to come up with a proper
 metaphor. These incredibly small numbers help explain our surprise
 when we first spotted hubs on the Web and in Hollywood during our
 
-Hubs and Connectors
-
 early attempts to understand the structure of real networks. There was
 
 nothing to prepare us for them because they were forbidden by both the
@@ -3097,8 +2987,6 @@ spreading news and hype. Every four years the United States inaugurates a new so
 one of the biggest hubs of his era. Three prominent biologists have recently suggested in the prestigious scientific journal Nature that the
 
 hublike nature of a certain molecule, the p53 protein, is the key to
-
-LINKED
 
 understanding the processes behind many forms of cancer at the molecular level. Ecologists believe that the hubs of food webs are the keystone species of an ecosystem, paramount in maintaining the ecosystem's stability.
 
@@ -3173,8 +3061,6 @@ dream of turning economics into an exact science, describable by laws
 
 comparable in reach and universality to those formulated in Isaac
 
-LINKED
-
 Newton's Principia. The fruit of his relentless pursuit, the three-volume
 
 Trattato, continues to be a source of inspiration and interpretation for
@@ -3217,8 +3103,6 @@ When Hawoong Jeong started building our little robot to map the
 Web, we had naive expectations about what the network behind the
 Web would look like. Guided by the insights of Erdos and Renyi, we
 expected to find that Webpages are connected to each other randomly. As we discussed in Chapter 2, the number of links on a Webpage should follow a peaked distribution, telling us that most documents
-
-The 80/20 Rule
 
 are about equally popular. But the network our robot brought back
 from its journey had many nodes with a few links only, and a few
@@ -3268,8 +3152,6 @@ distinguishing feature of a power law is not only that there are many
 
 small events but that the numerous tiny events coexist with a few
 
-LINKED
-
 very large ones. These extraordinarily large events are simply forbidden in a bell curve. 1
 
 Each power law is characterized by a unique exponent, telling us,
@@ -3315,8 +3197,6 @@ The slope of the straight line on the log-log plot indicates that the degree exp
 a given World Wide Web document, we observed the same pattern: The log-log
 plot revealed that the number of pages with exactly k outgoing links follow N(k) ~
 k~y, with y = 2.5.
-
-The 80/20 Rule
 
 same mathematical relationship: The number of actors that had links
 to exactly k other actors decays following a power law. Later we
@@ -3368,8 +3248,6 @@ few hubs, such as Chicago, Dallas, Denver, Atlanta, and New York,
 from which flights depart to almost all other U.S. airports. The vast
 
 majority of airports are tiny, appearing as nodes with at most a few
-
-LINKED
 
 links connecting them to one or several hubs. Thus, in contrast to the
 highway map, where most nodes are equivalent, on the airline map a
@@ -3463,8 +3341,6 @@ The surprising discovery of power laws in the Web forced us to acknowledge the h
 each scale-free network will have several large hubs that will fundamentally define the network's topology. The finding that most networks of conceptual importance, ranging from the World Wide Web to the network
 within the cell, are scale-free gave legitimacy to hubs. We would come to
 
-LINKED
-
 see that they determine the structural stability, dynamic behavior, robustness, and error and attack tolerance of real networks. They stand as proof of
 
 the highly important organizing principles that govern network evolution.
@@ -3515,8 +3391,6 @@ power laws are at the heart of some of the most stunning conceptual advances in 
 
 like chaos, fractals, and phase transitions. Spotting them in networks
 
-The 80/20 Rule
-
 —
 
 signaled unsuspected links to other natural phenomena and placed networks at the forefront of our understanding of complex systems in general. The fact that the networks behind the Web, Hollywood, scientists,
@@ -3566,8 +3440,6 @@ this drill hundreds of times, painfully learning their precise position in
 the formation. Water molecules, in contrast, may have never experienced ice before. They follow a mysterious urge to exchange their wandering lifestyle for a rigid, ordered one. Ice, a familiar symbol of cold
 
 and perfect order, emerges spontaneously.
-
-LINKED
 
 Exchanging their water dance for the cold crystalline order of a
 
@@ -3622,8 +3494,6 @@ In metals close to the transition temperature, clusters of atoms develop
 whose spins point in the same direction. The closer the metal gets to the
 critical point, the larger these ordered magnetic clusters become. The in-
 
-The 80/20 Rule
-
 creasing amount of experimental evidence collected by physicists during
 
 the 1960s indicated that in the vicinity of the critical point several key
@@ -3676,8 +3546,6 @@ that within each box all atoms behave as one.
 By this time the large number of hours devoted to phase transitions,
 
 drawing the best and brightest in theoretical physics, had led to the discovery of nine different critical exponents, each associated with some
-
-LINKED
 
 power law emerging in the vicinity of the critical point. Kadanoff's idea
 
@@ -3738,8 +3606,6 @@ acting in unison. By giving a rigorous mathematical foundation to scale
 
 invariance, his theory spat out power laws each time he approached the
 
-The 80/20 Rule
-
 critical point, the place where disorder makes room for order. Wilson's
 
 renormalization group not only called for power laws but for the first time
@@ -3793,8 +3659,6 @@ near the critical point, just when order emerges from disorder, all quantities o
 whether we observe water going from liquid to gas, magma freezing into
 
 rock, a metal becoming a magnet, or a ceramic turning into a superconductor, the same laws always apply, generating the mysterious power laws.
-
-LINKED
 
 We had finally learned that when giving birth to order, complex systems
 divest themselves of their unique features and display a universal behavior
@@ -3868,8 +3732,6 @@ Why power laws?
 At that time the Web was the only network mathematically proven
 to have hubs. Struggling to understand it, we were searching for its distinguishing features. At the same time, we wanted to learn more about
 
-LINKED
-
 the structure of other real networks. Therefore, just before leaving for
 Porto, I had contacted Duncan Watts, who kindly provided us the data
 
@@ -3911,8 +3773,6 @@ and in Hollywood.
 
 After Porto I returned briefly to Notre Dame before taking off for another month-long trip. It was clear, however, that we could not wait another month to submit our results. We had seven days to write a paper.
 
-Rich Get Richer
-
 The eight-hour flight from Lishon to New York seemed an ideal opportunity to prepare the first draft. As soon as the plane took off, I pulled out a
 
 laptop newly purchased before the Porto trip and frantically started typing.
@@ -3953,8 +3813,6 @@ along this path.
 There is one thing about the Web that everybody agrees on: It is growing. Each day new documents are added by individuals detailing their
 
 latest hobby or interest; by corporations expanding their online products
-
-LINKED
 
 and services; by governments increasingly reliant on the Web to disseminate information to citizens; by college professors publishing their
 
@@ -3999,8 +3857,6 @@ one year, 1998, as many as 13,209 names of actors appearing for the
 first time on the wide canvas of the movie screen were added to the
 IMDb.com database.
 
-Rich Get Richer
-
 Despite their diversity most real networks share an essential feature:
 
 growth. Pick any network you can think of and the following will likely
@@ -4042,8 +3898,6 @@ equivalent to each other. We have easily identifiable winners and losers. At eac
 resulting in a clear advantage for the senior nodes. Indeed, apart from
 some rare statistical fluctuations, the first nodes in Model A will be the
 richest, since these nodes have had the longest time to collect links.
-
-LINKED
 
 The poorest node will be the last one to join the system, with two links
 only, because nobody has had time to link to it yet. Model A was
@@ -4097,8 +3951,6 @@ How do we in fact decide which Websites to link to on the World
 Wide Web? According to the random network models, we would randomly link to any of the nodes. A bit of reflection as to how we make our
 choices, however, indicates otherwise. For example, choices oi Webpages
 
-Rich Get Richer
-
 with links to news outlets abound. A quick search for "news" on Google
 returns about 109,000,000 hits. Yahoo's manually ordered directory offers
 a choice of over 8,000 online newspapers. How do we pick one? The random network models tell us that we select randomly from the list. Frankly,
@@ -4145,8 +3997,6 @@ The World Wide Web and Hollywood force us to abandon the second important assump
 is no difference between the nodes of a network; thus all nodes are
 
 equally likely to get links. The examples just discussed suggest other-
-
-LINKED
 
 wise. In real networks linking is never random. Instead, popularity is attractive. Webpages with more links are more likely to be linked to again,
 
@@ -4200,8 +4050,6 @@ the new node will connect to the more connected node.
 
 Each time we repeat (a) and (b), we add a new node to the network. Therefore, node by node we generate a continuously expanding
 
-Rich Get Richer
-
 .1
 
 The Birth of a Scale-Free Network. The scale-free topology is a
@@ -4242,8 +4090,6 @@ senior nodes, making them the richest in links. Seniority, however, is
 not sufficient to explain the power laws. Hubs require the help o( the
 
 second law, preferential attachment. Because new nodes prefer to link
-
-LINKED
 
 to the more connected nodes, early nodes with more links will be selected more often and will grow faster than their younger and less connected peers. As more and more nodes arrive and keep picking the
 
@@ -4291,8 +4137,6 @@ follows P(k) ~ k'
 
 .
 
-Rich Get Richer
-
 influence on subsequent research was a pleasant surprise for us, particularly since it was clear from the beginning that the topology of real networks was shaped by many effects that we had ignored for the purpose
 of simplicity and transparency. One of the most obvious of these is the
 
@@ -4338,8 +4182,6 @@ Dorogovtsev were working independently on a similar problem in
 Porto; they soon published the first in a string of very influential papers
 
 on scale-free networks. Assuming that nodes slowly lose their ability to
-
-LINKED
 
 attract links as they age, Mendes and Dorogovtsev showed that gradual
 
@@ -4388,8 +4230,6 @@ modeled. This process is similar to drawing. Seated in front of a Ferrari,
 
 our task is to draw a picture that will allow anyone to recognize the car.
 
-Rich Get Richer
-
 Having a faithful drawing, however, doesn't bring us any closer to understanding the processes that created the car in the first place. For that
 we need to know how to build one just like the original. This is exactly
 what the various evolving network models aim to accomplish. They
@@ -4435,8 +4275,6 @@ of scientific and practical importance are scale-free. The Web data was
 large and detailed enough to convince us that power laws can describe
 
 real networks. This realization started an avalanche of discoveries that
-
-LINKED
 
 continues to this day. As Hollywood, the metabolic network within
 
@@ -4496,8 +4334,6 @@ physicists, mathematicians, librarians, lawyers, and a handful of
 dot.com millionaires, united in their fascination with the newly emerging online universe. Larry Page gave a short talk about his search engine and dropped a box of T-shirts in the middle of the room that
 
 proclaimed Google's signature line, "I'm Feeling Lucky." After getting
-
-LINKED
 
 home I tried mine on. I also logged onto Google and in no time became
 an addict. It was no surprise to me that Yahoo! wanted a part of it.
@@ -4586,8 +4422,6 @@ to stay in front of the competition. Fitness may have genetic roots in
 people; it may be related to product and management quality for companies, to talent for actors, or to content for Websites.
 
 .
-
-LINKED
 
 We can assign a fitness to each node in a network, mimicking its
 ability to compete for links. For example, on the Web my Webpage
@@ -4698,8 +4532,6 @@ driver with unique talents behind the wheel. Inevitably the race cars
 
 leave the minivans and sport utility vehicles in the dust.
 
-LINKED
-
 The fitness model incorporating competition in complex networks
 
 posed new questions. The power law observed in the scale-free model is
@@ -4749,8 +4581,6 @@ two approaches had been futile. Planck, in 1900, was the first to derive
 
 an expression that perfectly fit all experiments, known today as Planck's
 
-Einstein's Legacy
-
 formula. He paid a very high price, however, as he had to introduce the
 
 ad hoc assumption that light and heat are emitted in small packets, or
@@ -4796,8 +4626,6 @@ phenomenon, known today as Bose-Einstein condensation.
 At ordinary temperatures gas atoms bounce into each other at different speeds. Some are fast, others are slow. In the language of physics,
 
 some of them have high energy, others have low. If you cool the gas all
-
-LINKED
 
 the atoms slow down. To bring them to a halt, you would have to cool
 
@@ -4847,8 +4675,6 @@ don't have "energy levels," at least in the physicist's sense of the term. So
 
 why talk about Bose-Einstein condensation? This was the question I asked
 
-Einstein's Legacy
-
 Ginestra Bianconi on a Sunday afternoon in 2000 when I stopped briefly
 at the university to pick up some papers. As I was leaving my office she
 rather excitedly told me that she found something that might be interesting. "No time now," I had to tell her as my four-year-old son waited in the
@@ -4897,8 +4723,6 @@ the networks encountered throughout this book. For example, the Internet's nodes
 rj, using the expression e = (— l/p)log r|, where p is a parameter that in Bose-Einstein
 condensation plays the role of inverse temperature.
 
-LINKED
-
 can touch and cut if we wish to. Nobody would seriously believe that
 
 they are ruled by quantum mechanics. Yet for decades we had treated
@@ -4944,8 +4768,6 @@ though each system, from the Web to Hollywood, has a unique fitness
 distribution, Bianconi's calculation indicated that in terms of topology
 
 all networks fall into one of only two possible categories. In most net-
-
-Einstein's Legacy
 
 works the competition does not have an easily noticeable impact on the
 
@@ -5001,8 +4823,6 @@ being developed. But winner-takes-all behavior has such a singular and
 
 visible impact on a network's structure that, if present, it is hard to miss.
 
-LINKED
-
 It destroys the hierarchy of hubs characterizing the scale-free topology,
 
 turning it into a starlike network, with a single node grabbing all the
@@ -5046,8 +4866,6 @@ Think of operating systems as nodes that compete for links—that is,
 users. Each time a user installs Windows on her or his computer, a link is
 
 added to Microsoft. The scale-free model would predict that the oldest
-
-Einstein's Legacy
 
 operating system should also be the most popular. In that case, we
 should all be running the primitive DOS. In the more realistic fitness
@@ -5098,8 +4916,6 @@ UNIX, capture less than 1 percent of the market.
 
 Essentially Microsoft takes it all. As a node, it is not just slightly bigger than its next competitor. In the number of its consumers it simply
 
-LINKED
-
 cannot be compared. We all behave like extremely social Bose particles,
 convenience condensing us into a faceless mass of Windows users. As we
 
@@ -5148,8 +4964,6 @@ have studied so far—the Web, the Internet, the cell, Hollywood, and
 many other real networks—belong to this category. The winner shares
 
 the spotlight with a continuous hierarchy of hubs.
-
-Einstein's Legacy
 
 Yet Bose-Einstein condensation offers the theoretical possibility
 that in some systems the winner can grab all the links. When that happens, the scale-free topology vanishes. So far among real systems, only
@@ -5212,8 +5026,6 @@ little to calm these fears.
 
 Compared to today's system, the 1965 power grid was much less
 connected. The state of Maine survived the northeast blackout because
-
-LINKED
 
 it operated as an island with only weak ties to the rest of powerless New
 England. But as the nation's electricity dependency deepened over the
@@ -5310,8 +5122,6 @@ more than mere coincidence.
 
 2.
 
-LINKED
-
 In the fall of 1999 the Defense Advanced Research Projects Agency, or
 DARPA, circulated a call for proposals to study fault- tolerant networks.
 
@@ -5392,8 +5202,6 @@ highly connected nodes that keep these networks together. Failures,
 however, do not discriminate between nodes but affect small nodes and
 
 large hubs with the same probability. If I blindly pick ten balls from a
-
-LINKED
 
 bag in which there are 10 red and 9,990 white balls, chances are ninetynine in a hundred that I will have only white balls in my hand. Therefore,
 
@@ -5492,8 +5300,6 @@ such concerted assaults by moderately sophisticated adversaries using
 
 readily accessible tools were plausible and potentially devastating, capable o{ toppling U.S. military communication systems and other critical infrastructures completely.
 
-LINKED
-
 The fallout from MafiaBoy's actions was annoying at most, denying users Web access to the most popular online sites. Eligible Receiver's attack, on the other hand, demonstrated frightening vulnerabilities in the vital arteries of the U.S. economic and security systems.
 
 Neither attack targeted nodes at random. They aimed intuitively to
@@ -5586,8 +5392,6 @@ research projects later, are we beginning to understand the ramifications of the
 Taken together, the findings indicate that scale-free networks are
 
 not vulnerable to failures. The price of this unprecedented resilience
-
-LINKED
 
 comes in their fragility under attack. The removal of the most connected nodes rapidly disintegrates these networks, breaking them into
 
@@ -5684,8 +5488,6 @@ too much for the neighboring nodes to carry, they will either tip or
 
 again redistribute the load to their neighbors. Either way, we are faced
 
-LINKED
-
 with a cascading event, the magnitude and reach of which depend on
 
 the central ity and capacity of the nodes that have been removed in
@@ -5781,8 +5583,6 @@ chapter thus forced us to acknowledge that topology, robustness, and
 
 vulnerability cannot be fully separated from one another. All complex
 
-LINKED
-
 systems have their Achilles' heel. We have learned that topology matters, prompting us to better appreciate the hubs. This is the first step towards defending them.
 
 The September 11, 2001 terrorist attacks simultaneously illustrate
@@ -5862,8 +5662,6 @@ to be diagnosed with the disease but rather because at least 40 of the
 him or with someone who had. He was at the center of an emerging
 complex sexual network among gay men, a web anchored between the
 
-LINKED
-
 East and West Coasts of North America, spanning San Francisco, New
 York, Florida, and Los Angeles.
 
@@ -5909,8 +5707,6 @@ controversial Florida butterfly ballot on TV the night of November
 8, 2000. "Jeez, how could they not follow the arrows to the dots?" was
 his first reaction. "Maybe I'll draw something up that will make it
 
-Viruses and Fads
-
 Official Florida Presidential Ballot
 
 Follow the arrow and Punch the appropriate dot.
@@ -5937,8 +5733,6 @@ globe. Anybody who spotted it wanted a copy. Newspapers and Websites from the Un
 
 to an instant celebrity, with girls hitting on him and parents wanting
 to fix him up with their daughters. While the election debate eventually died down, Collins's signature drawing became perhaps the
-
-LINKED
 
 most recognized cartoon of the decade, popping up on everything
 
@@ -5989,8 +5783,6 @@ tracking voting patterns and political fortunes; by doctors and epidemiologist h
 
 early winter flu; by teenagers writing computer viruses aiming to destroy
 
-Viruses and Fads
-
 all of Microsoft's products overnight; and by system managers determined to prevent viruses from doing just that. These laws were believed to be universal, as indeed they are. But our emerging knowledge about complex networks prompts us to see them from a new
 
 perspective.
@@ -6034,8 +5826,6 @@ later they were the first to scribble characters onto the gray screen of
 
 the first Palm Pilots, this time jump-starting the handheld revolution.
 They are the teens who pick up on new trends before they become
-
-LINKED
 
 mainstream, the artists and intellectuals who nurture ideas well before they reach the rest of us through books, movies, and magazines.
 In Iowa they were the farmers for whom talking to the sales reps and
@@ -6083,8 +5873,6 @@ to track the spread of tetracycline, a powerful antibiotic introduced in
 
 the mid-1950s.
 
-Viruses and Fads
-
 Coleman, Katz, and Menzel interviewed 125 doctors from a small
 
 Illinois town, asking them to list separately the three doctors with
@@ -6127,8 +5915,6 @@ users," or "influencers," are individuals who communicate with more
 people about a certain product than does the average person. With
 
 their numerous social contacts, they are among the first to notice and
-
-LINKED
 
 use the experience of the innovators. Though not necessarily innovators themselves, their conversion is the key to launching an idea or an
 
@@ -6180,8 +5966,6 @@ losses after Steve Jobs was reinstalled as Apple's interim CEO.
 The failure of the Newton handheld and many other products begs
 for an explanation. Why do some inventions, rumors, and viruses take
 
-Viruses and Fads
-
 over the globe, while others diffuse only partially or simply disappear?
 Why and how are losers different from winners? Clearly advertisement
 is not a sufficient explanation. After all, Newton failed despite Apple's
@@ -6227,8 +6011,6 @@ Recognizing that passing a critical threshold is the prerequisite for the
 
 spread of fads and viruses was probably the most important conceptual advance in understanding spreading and diffusion. Currently the critical
 
-LINKED
-
 threshold is part of every diffusion theory. Epidemiologists work with it
 
 when they model the probability that a new infection will turn into an
@@ -6266,8 +6048,6 @@ departments, and shut down the Bush presidential campaign's e-mail
 communications.
 
 Love Bug, causing over $10 billion in damage from 45 million destroyed computers worldwide, was a well-engineered psychological
-
-Viruses and Fads
 
 booby trap that nobody could resist. How could you not immediately
 open a message entitled LOVE-LETTER' FOR-YOU? If you did yield to
@@ -6321,8 +6101,6 @@ the center in 1999 before returning to Barcelona to assume a professorship. In t
 
 planning to finish up several overdue projects that he and his former
 
-LINKED
-
 mentor Alessandro Vespignani had initiated during his earlier stay.
 
 While compiling the hibliography of a new manuscript, they stumbled
@@ -6366,8 +6144,6 @@ By August 2000 Pastor-Satorras and Vespignani had concluded
 
 that White was right: Computer viruses defy the predictions of the classical epidemic models. The source of this discrepancy, however, remained unclear to them. As luck would have it, my research group's paper on the Internet's Achilles' heel was featured on the cover of Nature
 that very week. Reading it, they suddenly found the missing piece. On
-
-Viruses and Fads
 
 the Internet, computers are not connected to each other randomly.
 
@@ -6420,8 +6196,6 @@ computer viruses should be present in these systems as well.
 Of the hundreds of social links each of us has, only a few are intimate
 enough to transmit a sexual disease. Therefore, AIDS advances on a
 
-LINKED
-
 very sparse subnet of our highly interlinked social web. Add to this
 
 the disease's relatively low contagiousness, and you find that the epidemic should have slowed and died out by now. Despite the odds,
@@ -6468,8 +6242,6 @@ a response rate of 59 percent, they obtained the number of links for
 
 2,810 nodes in the Swedish sex web.
 
-Viruses and Fads
-
 Today students often are given the collected data to test various
 statistical methods. Roman had a copy of the data when she turned to
 
@@ -6514,8 +6286,6 @@ partners, or focused only on either males or females. Taken together,
 
 the data offered striking evidence that the network of our sexual relationships has a scale-free topology, a conclusion reinforced by a subsequent study focusing on the American population.
 
-LINKED
-
 Gaetan Dugas would seemingly hold the record with 250 sexual partners a year. But Wilt Chamberlain's claim that he'd had sex with a staggering 20,000 women clearly surpassed that measure. "Yes, that's correct,
 twenty thousand different ladies," he wrote. "At my age, that equals to
 having sex with 1.2 woman a day, every day, since I was fifteen years old."
@@ -6556,8 +6326,6 @@ several relatively effective treatments for AIDS are already on the market. To b
 each does render it a chronic illness with which most patients can live
 
 almost indefinitely. The biggest problem is that these $15,000-a-year
-
-Viruses and Fads
 
 treatments are out of financial reach for most countries outside Europe
 
@@ -6606,8 +6374,6 @@ methods for identifying high-risk groups, as well as individuals most
 likely to be the source of the epidemic, in a given community. Social
 status, age, occupation, and many other factors each play a role.
 
-LINKED
-
 Therefore, with a certain probability, one can identify the hubs. Doubtless, many hubs will go undiscovered, while a few nonhubs will make
 
 the list. But we must ask whether such an imperfect method is useful.
@@ -6646,8 +6412,6 @@ the billion-plus dollar price tag for a single fighter plane. As we continue wre
 we should do everything it takes to stop the spread o( the disease, even
 
 if it requires rewarding promiscuity.
-
-Viruses and Fads
 
 11.
 
@@ -6692,8 +6456,6 @@ obtained so far represent only the tip of the iceberg. Whereas spreading
 and diffusion have universal properties, individual systems have unique
 features that are often as important as some of the generic laws. We
 would be kidding ourselves if we believed that modeling computer viruses
-
-LINKED
 
 would give us a good picture of the AIDS epidemic. To be able to make
 
@@ -6754,8 +6516,6 @@ the intellectual know-how for the military's nuclear buildup, had considerable e
 
 outcomes. Such grim tasks as foreseeing and detailing the death of millions from a nuclear attack were never a source oi good press, often tarring the company with Dr. Strangelove's brush. Baran's assignment, to
 
-LINKED
-
 develop a survivable communicator system, was par for the course at
 RAND. Baran took his job seriously, and in a twelve- volume series of
 RAND Memorandums he meticulously described the vulnerabilities of
@@ -6802,8 +6562,6 @@ switch to a digital system. This step was too difficult for AT&T, the
 communication monopoly of his time, to absorb. Therefore, AT&T 's
 Jack Osterman quashed Baran's vision when he declared, "First, it can't
 
-The Awakening Internet
-
 CENTRALIZED
 (A)
 
@@ -6836,8 +6594,6 @@ Understanding the topology of the Internet is a prerequisite for designing tools
 infrastructure. Though human made, the Internet is not centrally designed. Structurally, the Internet is closer to an ecosystem than to a
 
 Swiss watch. Therefore, understanding the Internet is not only an engineering or a mathematical problem. In important ways, historical forces
-
-LINKED
 
 shaped its topology. A tangled tale of converging ideas and competing
 motivations left their mark on the Internet's structure, creating a jumbled information mass for historians and computer scientists to unravel.
@@ -6884,8 +6640,6 @@ director of computer science at Britain's National Physical Laboratory in
 Tennington, a town within commuting distance of London. Working
 
 hard to turn his idea into reality, Davies reinvented packets and packet
-
-The Awakening Internet
 
 switching well before learning of Baran's preexisting work. His group presented these concepts at a 1967 symposium in Gatlinburg, Texas, introducing his and Baran's ideas to the ARPA-supported research group. It
 
@@ -6936,8 +6690,6 @@ continues to grow exponentially, without any sign of slowing down.
 Cheswick is far from being a lone scientist with artistic aspirations. He
 is in illustrious company. DARPA, the successor to ARPA, is currently
 
-LINKED
-
 spending millions of dollars on research groups around the United States
 
 to do just what Cheswick is doing: map the Internet. The most visible o(
@@ -6973,8 +6725,6 @@ could shut the whole thing down. Wrong. While you could persuade an
 institution to close down the portion of the network under its authority, no single company or person controls more than a negligible fraction of the whole Internet. The underlying network has become so distributed, decentralized, and locally guarded that even such an ordinary
 
 task as getting a central map of it has become virtually impossible.
-
-The Awakening Internet
 
 3.
 
@@ -7018,8 +6768,6 @@ making it more similar to a cell than to a computer chip. Many diverse
 
 components, developed separately, contribute to the functioning of a
 
-LINKED
-
 system that is far more than the sum of its parts. Therefore, Internet researchers are increasingly morphing from designers into explorers. They
 are like biologists or ecologists who are faced with an incredibly complex system that, for all practical purposes, exists independently of
 
@@ -7057,8 +6805,6 @@ penetrated the research community: All tools used to model the structure of the 
 The Faloutsos brothers were unaware of the parallel discoveries of
 power laws in the World Wide Web topology. Combined with these developments their finding acquired a new meaning, removing the Internet from the world of random networks and dropping it into the colorful zoo of scale-free topologies. This was rather unexpected. After all,
 
-The Awakening Internet
-
 1 5
 
 the Internet is comprised of physical lines and routers. It is all hardware. How could these costly and heavy copper and optical connections follow the same rules as humans do when establishing their
@@ -7094,8 +6840,6 @@ As you may have noticed, the Internet follows the classical scenario
 of a growing network. Today, two decades later, it continues to expand
 
 node by node—the first and necessary condition for the emergence of a
-
-LINKED
 
 scale-free topology. Preferential attachment, the second condition, is
 more suhtle, however. Why would anyone link his or her computer to
@@ -7140,8 +6884,6 @@ map of North America forms a fractal set, a self-similar mathematical
 object discovered in the 1970s by Benoit Mandelbrot. Therefore, when
 
 trying to model the Internet, we must simultaneously acknowledge the
-
-The Awakening Internet
 
 interplay of growth, preferential attachment, distance dependence, and
 
@@ -7189,8 +6931,6 @@ sucked into the black hole created by the faulty reconfiguration. Sprint
 
 recovered only after it manually changed all the routing tables it
 
-LINKED
-
 owned, as did many of the big and small Internet providers affected by
 
 the problem.
@@ -7233,8 +6973,6 @@ anywhere in the world. There are many ways to accomplish this, from
 breaking into the computers running several key routers to launching
 
 denial-of-service attacks against the busiest nodes.
-
-The Awakening Internet
 
 1 55
 
@@ -7284,8 +7022,6 @@ recent arrest of a Russian hacker by U.S. authorities. "[I] request that
 
 you assure us that no computers on our networks have been, or are currently being, targeted by this program," wrote the CEO of a company in
 
-LINKED
-
 Norway. "I remind you that any unauthorized use of resources located at
 
 these IP addresses is illegal and may result in legal action and demands
@@ -7329,8 +7065,6 @@ that are then carried to the computer owning the Webpage. There the
 
 request is reconstructed and interpreted, prompting the distant computer to send you the requested Web document. Therefore, such a
 seemingly simple task as clicking on a URL involves a significant
-
-The Awakening Internet
 
 1 5
 
@@ -7379,8 +7113,6 @@ have unforeseen impact on the Internet's topology as well, giving self-
 
 —
 
-LINKED
-
 organization an even bigger role. I can imagine a time when, after getting an answer to a question from your Web browser, neither you nor
 your computer will know for sure where it came from. After all, do you
 know where the letter A is stored in your brain?
@@ -7424,8 +7156,6 @@ will a thinking machine, orders of magnitude faster than a human
 brain, emerge spontaneously from billions of interconnected modules?
 
 It is impossible to predict when the Internet will become selfaware, but clearly it already lives a life of its own. It grows and evolves
-
-The Awakening Internet
 
 at an unparalleled rate while following the same laws that nature uses
 to spin its own webs. Indeed, it shows many similarities to real organisms. Just like the millions of reactions taking place in a cell, terabytes
@@ -7473,8 +7203,6 @@ the Web—rapidly sweep along the links, sniffing out just about everything in t
 beetle Hawoong Jeong built to map the Web, I was truly proud of it. It
 was like the first used car one could finally afford. And it crashed just
 
-LINKED
-
 about every other day, often getting into trouble by inadvertently carrying home Webpages protected by robot exclusion files.
 
 It soon became clear that mapping the whole Web was a dream
@@ -7514,8 +7242,6 @@ Science. Its three pages completely changed our perceptions about the
 
 accessibility of information stored on the Web.
 
-The Fragmented Web
-
 Steve Lawrence and Lee Giles never planned to undermine the
 credibility of search engines. Working at the NEC Research Institute in
 Princeton, New Jersey, they were interested in machine learning, a
@@ -7551,8 +7277,6 @@ According to the NEC study in 1997 HotBot collected the largest number of docume
 with the largest coverage. This was great news for the company. David
 
 Pritchard, marketing director for HotBot, proudly acknowledged this:
-
-LINKED
 
 "We're the largest index out there—there are no surprises for us in this
 report." Well, there were some. The bad news was that HotBot covered
@@ -7601,8 +7325,6 @@ newcomer, WebTop.com. In June 2001 Google hit a new record, reaching for the fir
 As of now Google maintains the lead. Alltheweb.com, pursuing its
 dream to eventually map out the full Web, is second with over 600
 
-The Fragmented Web
-
 million documents, followed by AltaVista with 550 million. The search
 
 engines are doing better and better. This is great news. There is one
@@ -7650,8 +7372,6 @@ This is a consequence of the fact that for various technical reasons
 the links of the Web are directed. In other words, along a given URL
 we can travel only in one direction. If there is no direct link between
 
-LINKED
-
 Tendrils
 
 .1
@@ -7677,8 +7397,6 @@ node A, then go to node B, which has a link to node C, which points to
 D. But you can't make a round-trip. In a nondirected network, where
 you can follow a link in both directions, anA—>B—>C-^D path implies that the shortest path from D to A is the reverse one, D —> C —> B
 —> A. In a directed network, however, there is no guarantee that the in-
-
-The Fragmented Web
 
 verse path exists. Most likely you would have to follow a different route
 back: From D you might need to visit dozens of intermediate nodes before getting back to A. The Web is full of such disjointed directed
@@ -7715,8 +7433,6 @@ core, but once you have left the core, there are no links to take you
 back. The OUT land is populated by corporate Websites that can be
 easily reached from outside; but once you get in, there is no way out.
 The fourth continent is made of tendrils and disconnected islands,
-
-LINKED
 
 isolated groups of interlinked pages that are unreachable from the central core and do not have links back to it. Some of these isolated groups
 can contain thousands of Web documents. About a quarter of all Web
@@ -7756,8 +7472,6 @@ terra incognita for years to come.
 Is this fragmented structure here to stay? Or will the evolving and
 growing Web eventually absorb the four continents into a single, fully
 connected core? The answer is simple: As long as the links remain
-
-The Fragmented Web
 
 directed, such homogenization will never occur. The continents are by
 
@@ -7810,8 +7524,6 @@ Chicago, conducted a random survey of sixty political sites, finding
 
 that only 15 percent of them have links to sites with opposite views.
 
-LINKED
-
 In contrast, as many as 60 percent have links to like-minded Webpages. A study focusing on democratic discourse on the Web arrived
 at a similar conclusion: Only about 15 percent of Webpages offer
 
@@ -7853,8 +7565,6 @@ could use community knowledge to mobilize those who passionately
 care about the disease, molding them into an effective lobbying and action group. Organizers of ethnic festivals could take advantage of information about Web-based ethnic communities to advertise upcoming
 
 events and incubate local grassroots organizations. The problem is that
-
-The Fragmented Web
 
 there are a billion-plus pages out there. Can we locate communities on
 
@@ -7909,8 +7619,6 @@ search increases exponentially with the size of the Web. With fast
 
 enough computers we might be able to locate communities in a sample of
 
-LINKED
-
 a hundred documents. Uncovering them from a billion Webpages, however, is simply out of the question.
 
 Combining content and topology makes the problem somewhat
@@ -7954,8 +7662,6 @@ encounter many surprises, offering us an even clearer view of this complex, amor
 
 On November 20, 2000, in a precedent-setting decision, Judge Jean-
 Jacques Gomes of France ordered Yahoo! to deny French consumers
-
-The Fragmented Web
 
 —
 
@@ -8021,8 +7727,6 @@ code in the direction of control. Netizens will completely lose their
 
 —
 
-LINKED
-
 anonymous and space-free existence as the technology develops to
 
 meet the merchants' desires.
@@ -8078,8 +7782,6 @@ find and index close to 90 percent of pages that have twenty-one to
 
 one hundred incoming links.
 
-The Fragmented Web
-
 —
 
 Lessig is right: The architecture o( the Weh controls just about
@@ -8128,8 +7830,6 @@ Alexa Internet, one of the major search engines, Kahle is a veteran
 
 of the Web. After selling Alexa to Amazon.com in 1999, he used the
 
-LINKED
-
 proceeds to create the Internet Archives, a nonprofit organization located in Presidio, a converted military base in downtown San Francisco. His goal is simple: He wants to prevent the Web's content from
 
 disappearing into the past.
@@ -8170,8 +7870,6 @@ former hubs lost their shine. Comparing the maps of the Web taken at
 different time intervals, you can follow the emergence and crystallization of virtual communities. The Archives have the data to reconstruct
 
 the chaotic evolution of nodes and links, helping to uncover the mechanisms responsible for the Web's current architecture.
-
-The Fragmented Web
 
 The Archives have many fans from many different disciplines, but
 most researchers who could take advantage of them either do not know of
@@ -8219,8 +7917,6 @@ understood that it is as unavoidable as the spherical shape of most planets. Loo
 forays into the unknown have significantly altered our understanding of
 the World Wide Web. We learned that the online universe is much
 larger than anyone ever anticipated. It also grows faster than we were
-
-LINKED
 
 ready to believe. To our dismay, we also found that it is much less
 charted than we were willing to accept. Two years ago, six out of ten
@@ -8300,8 +7996,6 @@ chromosome 4. Research on another prominent mental disorder, schizophrenia, foll
 
 —
 
-LINKED
-
 regions of chromosome 1, with a different research group implicating
 
 chromosome 5 a few years later.
@@ -8344,8 +8038,6 @@ These letters, abbreviations of the molecules making up the DNA,
 could easily mean that the anonymous donor whose genome has been
 
 sequenced will be bald by the age of fifty. Or they could reveal that he
-
-The Map of Life
 
 will develop Alzheimer's disease by seventy. We are repeatedly told that
 everything from our personality to future medical history is encoded in
@@ -8394,8 +8086,6 @@ cellular search engine is only part of the problem. The biggest difficulty
 
 1H2
 
-LINKED
-
 is that within each cell there are many layers of organization that can
 
 each be viewed as a complex network. To understand the web of life,
@@ -8437,8 +8127,6 @@ components (genes, proteins, and other molecules), connected by all
 
 physiologically relevant interactions, ranging from biochemical reac-
 
-The Map of Life
-
 tions to physical links. This veb of life contains all metabolic, protein-protein, and protein-DNA interactions present in the cell.
 
 Not too long ago it was widely believed that everything that matters for an organism's biological history is encoded in the genes. Postgenomic biology, though still in its infancy, is already fighting an important battle. It aims to diminish the all-encompassing role historically
@@ -8474,8 +8162,6 @@ group was pressing ahead with research on the Web and Internet. Inevitably, our 
 
 between the web of life and other complex networks. Soon an ongoing
 argument developed. The Web and the actor network are scale-free because they emerged thanks to growth and preferential attachment,
-
-LINKED
 
 processes that are easily identifiable in both networks. The cell, on the
 
@@ -8515,8 +8201,6 @@ map of the highly complex human cell, our knowledge of several simpler organisms
 
 So my discussions with Oltvai could not have been better timed.
 A few years earlier my lab's quest to study the cell's topology would
-
-The Map of Life
 
 —
 
@@ -8562,8 +8246,6 @@ between two molecules is one hundred, then any change in the concentration of th
 To our great surprise, the measurements indicated that the typical
 path lengths are much shorter than one hundred. In fact, cells are small
 
-LINKED
-
 worlds with three degrees of separation. That is, most pairs of molecules
 
 can he linked by a path of three reactions. Perturbations, therefore, are
@@ -8599,8 +8281,6 @@ molecules was rather revealing. A key prediction of the scale-free
 model is that nodes with a large number of links are those that have
 
 been added early to the network. In terms of metabolism this would imply that the most connected molecules should be the oldest ones within
-
-The Map of Life
 
 the cell. And indeed, the analysis of Wagner and Fell has shown that
 
@@ -8645,8 +8325,6 @@ drugs that can cure those disorders that we cannot easily tolerate.
 
 5.
 
-LINKED
-
 Baker's yeast, one of the simplest eukaryotic cells, has about 6,300
 genes, encoding about the same number of proteins. Though this is
 only a fifth of the estimated 30,000 different genes a human cell contains, it is already an enormous number. In general, when proteins interact by sticking to one another, they have a good reason for doing so.
@@ -8688,8 +8366,6 @@ That is, most proteins in the cell play a very specific role, interacting with
 only one or two other proteins. A few proteins, however, are able to physically attach to a huge number o{ other proteins. These hubs are crucial
 
 for the cell's proper functioning and survival. Indeed, we were able to
-
-The Map of Life
 
 show that removing a gene responsible for a hub protein kills the cell 60
 
@@ -8740,8 +8416,6 @@ elegant explanation, claiming that the cell's scale-free topology is a result of
 
 6.
 
-LINKED
-
 Cells reproduce by duplicating their content and dividing into two.
 
 The details of these processes may vary for simple bacteria and more
@@ -8779,8 +8453,6 @@ to the duplicating protein than their weakly connected cousins. It's
 not that hubs duplicate more often. Rather, since the hubs are in
 
 contact with more proteins, they are more likely to have a link to a
-
-The Map of Life
 
 duplicating node, which offers them an extra link, a subtle version of
 
@@ -8831,8 +8503,6 @@ to repair the damage before further copies of the malfunctioning cell can
 be produced. However, if the damage is irreparable, the p53 protein will
 
 activate a group of genes to kill the cell.
-
-LINKED
 
 If the cells brake—the p53 protein—malfunctions, the cell can run
 
@@ -8888,8 +8558,6 @@ molecule, one of the clear hubs of the cellular network, turns the cell
 
 cancerous and eventually kills the organism. This explains why com-
 
-The Map of Life
-
 bined pharmaceutical attacks on molecules that interact with the p53
 
 molecule have progressively more severe effects on the cell, resembling
@@ -8937,8 +8605,6 @@ offer miracle drugs for some diseases. According to some estimates, the
 
 drugs available on the market target only about 500 of the 30 y 000 proteins in the human body. And though we have multiple drugs for many
 
-LINKED
-
 diseases, it is often a trial-and-error process to figure out which works
 
 for a given patient.
@@ -8980,8 +8646,6 @@ everybody else.
 If you suffered from manic depression in recent years, your first visit to
 
 the doctor probably started with an hour-long discussion to carefully
-
-The Map of Life
 
 examine your thoughts and feelings. Eventually you walked away with a
 drug prescription. If you had never appreciated how much of your
@@ -9038,8 +8702,6 @@ Tommy's sore throat is a streptococci infection, identifying the strain as
 
 well. She will be able to link the device to the computer and e-mail the
 
-LINKED
-
 profile to the doctor's office, so when Tommy shows up for school the
 drug is ready for him in the nurse's office. Most important, Tommy's
 
@@ -9086,8 +8748,6 @@ that we have less than a third of the anticipated genes—only about
 difference between us and the unsophisticated Caenorhabditis elegans
 
 worm—quite a provocative idea when we consider that the 20,000
-
-The Map of Life
 
 genes of C. elegans need to encode only three hundred neurons,
 
@@ -9147,8 +8807,6 @@ earlier, that swallowed the media giant.
 Time Warner had content, and AOL had the means of delivering it
 to the consumer. Just before the collapse of the NASDAQ bubble in
 
-LINKED
-
 spring 2000, Jerry Levin was under pressure to go dot.com to regain Wall
 
 Street's attention, and Steve Case needed access to Time Warner's cable
@@ -9191,8 +8849,6 @@ within the firm is responsible for the organization's ability to adapt to rapidl
 network nature of the consumer base lead to phenomenal successes in
 
 marketing. As links and connections take over, understanding network effects become the key to survival in a rapidly evolving new economy.
-
-Network Economy
 
 1.
 
@@ -9241,8 +8897,6 @@ model is in the midst of a complete makeover. This does not mean a superficial s
 
 in the postindustrial era, dubbed the information economy.
 
-LINKED
-
 The most visible element of this remaking is a shift from a tree to a
 
 web or a network organization, flat and with lots of cross -links between
@@ -9283,8 +8937,6 @@ with the President," read Vernon Jordan at a hastily convened press conference i
 box that he put himself in," according to Time magazine's Eric Pooley, as
 
 everyone pressed him for a satisfactory explanation for the four meetings
-
-Network Economy
 
 and seven phone calls Jordan had with the former White House intern,
 
@@ -9340,8 +8992,6 @@ CEOs, lawyers, and politicians are frequently sought after, being
 
 courted for directorship on several boards at the same time.
 
-LINKED
-
 Despite concerns that directors serving on a large number of boards
 
 cannot possibly find the time to do justice to all of them, most companies want their directors to have experience on other boards. As directors apply the knowledge and experience they acquired on one board to
@@ -9392,8 +9042,6 @@ regularly meets 106 other Fortune 1000 directors, Jordan is the most
 central director of the corporate elite, within three handshakes from
 
 most other directors.
-
-Network Economy
 
 3.
 
@@ -9446,8 +9094,6 @@ of Celanese and another JC Penney board member both served on the
 RJ Reynolds board, and Jordan had close links to the RJ Reynolds CEO
 as well, who was a fellow director on the Celanese board.
 
-LINKED
-
 Prior acquaintanceship allows directors to vouch for prospective recruits. Therefore, the small-world dynamics help the creation of a powerful "old boy network," or corporate elite, that has unparalleled influence in economic and political life. Jordan's current job at Akin,
 Gump, Strauss, Hauer & Feld, one of the biggest law practices in Washington, can be also traced back to this old boy network: Robert S.
 
@@ -9486,8 +9132,6 @@ universities and research labs to government agencies, chemical and
 pharmaceutical companies and venture capital firms, have been forced to
 
 form strategic partnerships. These alliances, together with the relatively
-
-Network Economy
 
 young age of the biotech industry, offer an unusually well documented
 
@@ -9540,8 +9184,6 @@ Indeed, the number of companies that entered in partnership with exactly k other
 
 within the network, followed a power law, the signature of a scale-free
 
-LINKED
-
 topology. A hierarchy of well-connected large corporations brought together a large number of small companies, seamlessly integrating all
 
 players into an evolving scale-free economy.
@@ -9583,8 +9225,6 @@ seen as interacting not with each other but rather with "the market," a
 mythical entity that mediates all economic interactions.
 
 In reality, the market is nothing but a directed network. Companies, firms, corporations, financial institutions, governments, and all potential economic players are the nodes. Links quantify various interac-
-
-Network Economy
 
 tions between these institutions, involving purchases and sales, joint
 research and marketing projects, and so forth. The weight of the links
@@ -9635,8 +9275,6 @@ desperate attempts to save the country's economy from imminent collapse, announc
 from financial institutions. A few days later it reneged on its promise,
 a move that some financial experts took as a sign of stability. The
 
-LINKED
-
 International Monetary Fund's managing director, Michel Camdessus,
 who was later criticized for his organization's role in the Asian financial meltdown, said, "I don't see any reason for this crisis to develop
 
@@ -9677,8 +9315,6 @@ events, Paul Krugman, professor of economics and international affairs
 at Princeton, summarized the overall feeling: "It seems safe to say that
 nobody anticipated anything like the current crisis in Asia." A few
 small, localized financial difficulties had set off a chain reaction of failures that swept across national boundaries, creating a huge currency de-
-
-Network Economy
 
 valuation and stock market crashes from Asia to South America. It
 eventually caused the single biggest point loss ever of the Dow Jones industrial average, which tumbled 554.26 points on October 27, 1997.
@@ -9732,8 +9368,6 @@ aren't immune to cascading failures. Vulnerabilities related to interconnectivit
 dot.com bubble illustrates.
 
 7.
-
-LINKED
 
 In late 1999, Compaq's Pocket PC became the company's biggest hit. As
 discussed by a recent Strategy & Business study, demand for the device outpaced supply twenty-five times, making some Compaq executives dream
@@ -9829,8 +9463,6 @@ Washington, empire and shaking hands with Bill Gates, he was ushered
 into a room packed with twelve Microsoft negotiators. They offered
 him $160 million. "I'll get back to you," he said, and walked away.
 
-LINKED
-
 Currently Hotmail has about a quarter of all e-mail accounts. It is
 
 the biggest e-mail service provider in Sweden and India, countries in
@@ -9880,8 +9512,6 @@ whether you are making a wise investment. Second, the Hotmail interface makes it
 
 every time you send an e-mail, you offer free advertisement for Hotmail. Combine these three features, and you get a service that has a
 
-Network Economy
-
 very high infection rate, a built-in mechanism to spread. Traditional
 
 marketing theories will tell you that the combination of free service,
@@ -9928,8 +9558,6 @@ approaches, combining traditional strategies with a better understanding of netw
 
 9.
 
-LINKED
-
 Network effects proliferate in the business world. We saw Vernon Jordan
 successfully surf the complex corporate network, becoming an influential
 member of the corporate elite. We saw Hotmail take advantage of the
@@ -9965,8 +9593,6 @@ see its signature on everything from mom-and-pop stores to large multinational a
 Networks do not offer a miracle drug, a strategy that makes you invincible in any business environment. The truly important role networks play is in helping existing organizations adapt to rapidly changing market conditions. The very concept of network implies a
 
 multidimensional approach.
-
-Network Economy
 
 2 1
 
@@ -10010,8 +9636,6 @@ general-audience book on computer science to read over the Christmas break. As I
 logic, I started to sense how little was known about networks in general. All my readings told me that the millions of electric, telephone, and Internet cables cramped under the pavement in Manhattan formed a fundamentally random network. The more I thought
 
 about it, the more I was convinced that there must be some organizing principles governing the complex webs around us. Dreaming of
-
-LINKED
 
 identifying some signature of order, I started to study network theory,
 
@@ -10108,8 +9732,6 @@ to name only a few.
 
 1.
 
-LINKED
-
 One of the most fascinating aspects of the birth of a new science is the
 new language it creates, allowing us to casually converse about ideas and
 issues that we were struggling to describe before. The renaissance of network theory has done this for our interconnected world. The connectors
@@ -10201,8 +9823,6 @@ To be sure, the battle against al Qaeda can and will be won by crippling the net
 critical point for fragmentation or by draining its resources, preparing
 
 the groundwork for cascading internal failures. Yet, collapsing al Qaeda
-
-LINKED
 
 will not end the war. Other networks with similar scope and ideology
 
@@ -10300,8 +9920,6 @@ In the twentieth century we went as far as we could to uncover and
 describe the components of complex systems. Our quest to understand
 nature has hit a glass ceiling because we do not yet know how to fit the
 pieces together. The complex issues with which we are faced, in fields
-
-LINKED
 
 from communication systems to cell biology, demand a brand new
 framework. Embarking on the journey ahead without a map would be
@@ -10418,8 +10036,6 @@ was ready to give up. It is hard to put into words how much her support
 
 has meant to me.
 
-Notes
-
 The First Link: Introduction
 
 The story of MafiaBoy has been widely discussed in the press. For a collection of links, see http://www.mafiaboy.com/. The "Yes, I heard you" phrase comes from
@@ -10451,8 +10067,6 @@ Euler's life in St. Petersburg was rather tumultuous. He lost his wife of three
 decades, only to marry his wife's half sister three years later. A fire burned down his house
 and destroyed all his books and notes; he escaped thanks to the bravery of a fellow Swiss
 who walked into the fire and carried his illustrious countryman out on his back.
-
-Notes
 
 The freshness and clarity of Euler's writing is remarkable. His enthusiasm
 for his subject vibrates even centuries later. Today, when scholarly writing is hardly
@@ -10507,8 +10121,6 @@ Erdos on Graphs: His Legacy and Unsolved Problems (Wellesley, Mass.: A. K. Peter
 Numbers (New York: Hyperion, 1998) and Bruce Schechter, M)> Brain Is Open (New
 York: Touchstone, 1998). See also Andras Hajnal and Vera T. Sos, "Paul Erdos Is Seventy," Journal of Graph Theory 7 (1983): 391-393.
 
-Notes
-
 The honor roll of eight articles by Erdos and Renyi, that established random graph theory is listed in Michal Karonski and Adrzej Rucinski, "The Origins of
 the Theory of Random Graphs," in The Mathematics of Paul Erdos, ed. R. L. Graham
 and J. Nesetril (Berlin: Springer, 1997). They are On Random Graphs I, Math. Debrecen vol. 6, 290-297 (1959). "On the Evolution of Random Graphs," Publ. Math.
@@ -10559,8 +10171,6 @@ more complicated structures .
 complex real growth processes (e.g. the growth of a complex communication net
 
 .
-
-Notes
 
 consisting of different types of connections, and even of organic structures of living
 
@@ -10622,8 +10232,6 @@ N.J.: Lawrence Erlbaum, 2000). Further information and links can be obtained fro
 
 http://www.stanley milgram.com.
 
-Notes
-
 Note that the methodology used hy Milgram to reach the six-degrees conclusion has been questioned recently by Judith S. Kleinfeld, who inspected Milgram s papers
 and notes as well as the collection of letters that made their way to their destination,
 
@@ -10672,8 +10280,6 @@ scientists and the small world between them, see A.-L. Barabasi, H. Jeong, E. Ra
 Z. Neda, T. Vicsek, and A. Schubert, Evolution of the Social Network of Scientific Collaborations, http:///xxx.lanl.gov/abs/cond-mat/0104162 (forthcoming in 2002); M. E. J.
 Newman, Who is the Best Connected Scientist? A Study of Scientific Coauthorship Networks, http://www.santafe.edu/sfi/publications/Abstracts/00-12-064abs.html; M. E. J.
 Newman, The Structure of Scientific Collaboration Networks, Proceedings of the National
-
-Notes
 
 Academy of Sciences of the United States of America, vol. 98, (Jan. 16, 2001):
 404-409. For the small world in neural networks see D. J. Watts and S. H. Strogatz,
@@ -10729,8 +10335,6 @@ The Fourth Link: Small Worlds
 The original finding about our clustered society was published in Mark S.
 Granovetter, "The Strength of Weak Ties," American Journal of Sociology 78, (1973)
 1360-1380. Granovetter recalled the saga surrounding its publication in the short ar-
-
-Notes
 
 tide published in Current Contents (Sociology and Behavioral Sciences Edition, vol.
 18, no. 49 [Dec. 1986]: 24) on the occasion of the paper being named a Citation Classic. See also "The Strength of Weak Ties: A Network Theory Revisited," Sociological
@@ -10792,8 +10396,6 @@ Thus for them coauthorship cannot be taken as a signature of acquaintanceship or
 
 social ties. In most research fields, however, such large collaborations are the exception rather the norm.
 
-Notes
-
 Our work on collaboration networks between mathematicians and neuroscientists is summarized in A.-L. Barabasi, H. Jeong, R. Ravasz, Z. Neda, T. Vicsek,
 and A. Schubert, On the Topology of Scientific Collaboration Networks, http://xxx.
 lanl.gov/abs/ cond-mat/0104162 (forthcoming in Physica A, 2002). Similar results
@@ -10836,8 +10438,6 @@ For a study on the topology of the Caenorhabditis elegans wiring diagram,
 see D. J. Watts and S. H. Strogatz, "Collective Dynamics of 'Small-World' Networks," Nature 393 (1998): 440-442, which contains the study on the power network and Hollywood actors, as well. See also S. Horita, K. Oshio, Y. Osama, Y. Funabashi, K. Oka, K. Kawamara, "Geometrical Structure of the Neuronal Network of
 
 Caenorhabditis Elegans," Physica A, 298 (2001): 553-561.
-
-Notes
 
 For clustering in the World Wide Web, see L. A. Adamic, "The Small World
 Web," Proceedings of the European Conference on Digital Libraries 1 999 Conference
@@ -10891,8 +10491,6 @@ Several search engines, such as Google or AltaVista, allow anybody to find
 pages that link to a given Webpage. You can reach this function by typing "link:"
 
 .
-
-Notes
 
 followed by the URL into the search window. For example, for finding the links
 pointing to www.nd.edu/~networks you type link:http://www.nd.edu/~networks.
@@ -10953,8 +10551,6 @@ that the shortest paths from Marilyn Monroe, Mike Meyer, or Charlie Chaplin to B
 
 in Bacon's neighborhood, being his crucial link to historical Hollywood. Indeed,
 
-Notes
-
 Wagner has played in at least 101 movies and collected 2,017 links. Though he is not
 the most connected actor, he occupies the prominent twenty-fourth spot, a rank that
 would make Bacon rather envious.
@@ -11005,8 +10601,6 @@ The anecdote about Pareto is recalled in several places. See, e.g., the biograph
 Generale, The Mind and Society (New York: Harcourt Brace, 1942).
 
 The 80/20 law has generated numerous articles in the business world, eventually getting its own book. See Richard Koch, The 80/20 Principle—The Secret to Success by AchievingMore with Less (New York: Currency, 1998).
-
-Notes
 
 Our finding that a power law described the World Wide Web's topology was
 published in Reka Albert, Hawoong Jeong, and Albert-Laszlo Barabasi, "Diameter of
@@ -11065,8 +10659,6 @@ shown, the distribution of the number of passengers visiting an airport has an e
 the main features of scale-free networks. For a study on the airline system, see L. A. N.
 Amaral, A. Scala, M. Barthelemy, and H. E. Stanley, "Classes of Small- World Networks," Proceedings of the National Academy of Sciences 97 (2000): 1 1 149-1 1 1 52.
 
-Notes
-
 For an extensive hut fascinating biography of water written for a general audience see Philip Ball, Life's Matrix (New York: Farrar, Straus and Giroux, 1999).
 
 For an excellent prerenormalization-group introduction into critical phenomena see the classic book by H. Eugene Stanley, Introduction to Phase Transitions
@@ -11115,8 +10707,6 @@ universality emerge in economic systems, describing how companies grow and how
 cotton prices fluctuate. They explain how birds and fish flock and how earthquakes
 differ in magnitude. They are the guiding principle behind the two most intriguing
 discoveries of the second half of the twentieth century: chaos and fractals. As a
-
-Notes
 
 result, a second revolution in statistical mechanics, which took place in the eighties
 and nineties, has focused on the important question of how power laws can appear in
@@ -11170,8 +10760,6 @@ friend's Webpage. But in the majority of cases we all follow an unconscious bias
 Direct quantitative evidence has been found for the existence of preferential attachment in networks as diverse as the Internet, Hollywood, collaboration networks, and citation networks. See H. Jeong, Z. Neda, A.-L. Barabasi, "Measuring Preferential Attachment for Evolving Networks," http://xxx.lanl.gov/abs/cond-mat/
 0104131; M. E. J. Newman, "Clustering and Preferential Attachment in Growing
 
-Notes
-
 Networks," Physical Review, E 64, (2001): 025102; Ramualdo Pastor-Satorras, Alexei
 Vazquez, Alessandro Vespignani, "Dynamical and Correlation Properties of the Internet," Physical Review Letters, 87 (2001): 258701; K. A. Eriksen, and M. Hornquist,
 "Scale-Free Growing Networks Imply Preferential Attachment," Physical Review, E
@@ -11221,8 +10809,6 @@ topology. See, e.g., Ramon Ferrer i Cancho and Ricard V. Sole, "The Small-World 
 Human Language," Proceedings of the Royal Society of London B, 268 (2001):
 2261-2265; Mariano Sigman and Guillermo Cecchi, Global Organization of the
 Wordnet Lexicon, Proceedings of the National Academy of Sciences, 99 (2002):
-
-Notes
 
 1742-1747. S.N. Dorogovtsev, J. F. F. Mendes, "Language as an Evolving Word Web,"
 Proceeding? of the Royal Society of London B 268 (Dec. 2001): 2603-2606.
@@ -11283,8 +10869,6 @@ G. Bianconi and A.-L. Barabasi, "Bose-Einstein Condensation in Complex Networks,
 Physical Review Letters, 86 (June 2001): 5632-5635. Several researchers have extended
 this work, showing that the winner-takes-all phenomenon can be described without in-
 
-Notes
-
 voking the link to quantum mechanics. See, e.g., S. N. Dorogovtsev and J. F. F. Mendes,
 "Evolution of random networks," Advances in Physics (in press, 2002.)
 
@@ -11344,8 +10928,6 @@ Physical Review Letters, 87 (2001): 258701.
 The Ninth Link: Achilles' Heel
 Page 109 For a vivid description of the scene in Denver during the July 2, 1996, Denver electric power failure, see, e.g., L. M. Collins, "Power Grid Fails, Blackout Affects
 
-Notes
-
 1.5 Million in West," Denver News-Times, July 3, 1996; "Power Grid Fails, Blackout
 
 Affects Millions in West," Nando.net, July 2, 1996. For the August repeat of the same
@@ -11398,8 +10980,6 @@ Barabasi, "Attack and Error Tolerance of Complex Networks," Nature 406 (2000):
 378. For a summary and a perspective, see the accompanying News 6k Views article,
 Yuhai Tu, "How Robust Is the Internet?" Nature 406 (2000): 353-354.
 
-Notes
-
 Page 113 For a discussion of the Internet's stability see, e.g., Craig Labovitz, Abha
 Ahuja, and Farnam Jahanian, "Experimental Study of Internet Stability and Wide-
 
@@ -11443,8 +11023,6 @@ Page 117 For an analytical approach to the attack problem see, e.g., Reuven Cohe
 
 Keren Erez, Daniel ben-Avraham, and Shlomo Havlin, "Breakdown of the Internet under Intentional Attack," Physical Review Letters 86 (2001): 3682; and D. S. Callaway, M.
 E. J. Newman, S. H. Strogatz, and D. J. Watts, "Network robustness and fragility: Percolation on random graphs," Physical Review Letters 85 (2000): 5468-5471.
-
-Notes
 
 Page 117 For the resilience of the protein network to mutations and drug attacks, see
 Hawoong Jeong, Sean Mason, Albert-Laszlo Barabasi, and Zoltan N. Oltvai, "Lethality and Centrality in Protein Networks," Nature 41 1 (2001): 41-42.
@@ -11500,8 +11078,6 @@ could be cured, unable to transmit the virus further, or could develop an immuni
 that you were unable to be infected again. With ideas, though you may reject them, once
 you accept them you will continue to propagate them. Also, some of the viruses, such as
 
-Notes
-
 Ebola, would quickly kill their hosts, offering only a short time frame to pass them on, a
 phenomenon that is again absent from the spread of most fads and ideas. Despite these
 differences, many of the fundamental features of the spreading of fads and biological and
@@ -11553,8 +11129,6 @@ Page 137 Fredrik Liljeros, Christofer R. Edling, Luis A. Nunes Amaral, H. Eugene
 Stanley, and Yvonne Aberg, "The Web of Human Sexual Contacts," Nature, 411
 (2001): 907-908. The story behind the Stockholm-Boston discovery was revealed to
 me by Fredrick Liljeros and Christopher R. Edling, the first two authors of the study.
-
-Notes
 
 Page 1 37 The Trieste study predicts that the threshold for diffusion in a scale-free network vanishes when the degree exponent, y, is smaller than three. For exponents larger
 
@@ -11613,8 +11187,6 @@ the network's topology is Paul Baran, Introduction to Distributed Communications
 Page 146 Note that the genesis of packet switching has been disputed lately. Some
 
 believe that Leonard Kleinrock also arrived at the idea independently of Baran and
-
-Notes
 
 }
 
@@ -11676,8 +11248,6 @@ Page 151 For the timeline of the first Internet nodes, see John Naughton, A Brie
 Page 152 Note that the first Internet model was introduced in Bernard M. Waxman,
 "Routing of Multipoint Connections," IEEE journal on Selected Areas in Communications
 
-Notes
-
 6 (Dec. 1988): 1617-1622. Waxman laid down a large number of nodes on a plane
 and connected them randomly to each other. So far, this was no different from the
 random model of Erdos and Renyi. However, aware of the high costs of wiring, he
@@ -11729,8 +11299,6 @@ Review of Letters, 87 (2001): 278701; A. Capocci, G. Caldarelli, R. Marchetti, L
 Pietronero, "Growing Dynamics of Internet Providers," Physical Review, E 64 (2001):
 
 035101.
-
-Notes
 
 Page 152 Fractals, self-similar objects with nontrivial geometrical properties, were introduced by Benoit Mandelbrot. Subsequently, they were found to describe many natural objects, from snowflakes to cell colonies. See, e.g., B. Mandelbrot, The Fractal
 Geometry of Nature (New York: W. H. Freeman, 1977). For a more recent review, see
@@ -11784,8 +11352,6 @@ interest of the World Wide Web community in the pages' content. As links and Web
 
 population of these continents are in constant flux, compared to which the big influxes from Europe to the United States at the end of the twentieth and the beginning
 of this century are small, negligible events. A single well-placed link can determine
-
-Notes
 
 the fate and location of thousands of Webpages, the whole landscape being reorganized hy small or huge avalanches.
 
@@ -11844,8 +11410,6 @@ computer upgrades or technology changes, not in centuries but in a few short yea
 There is only one way to halt this tragic loss of history and creativity housed in the
 Web these days. We must archive everything out there for the generations to come. I
 
-Notes
-
 believe that we should make a serious, perhaps government-supported effort to go
 well beyond the goals and possibilities of the Internet Archives and map the full Web.
 Every single page of it. We should make its past and current content instantly available to anybody anywhere.
@@ -11896,8 +11460,6 @@ Horace Freeland Judson, The Eighth Day of Creation: Makers of the Revolution in 
 (Plainview, NY: Cold Spring Harbor Laboratory Press, 1996).
 
 Page 182 Note that various subnetworks, such as the metabolic or the protein interaction network, are not independent of one another. Indeed, the proteins of the
-
-Notes
 
 regulatory network catalyze chemical reactions, thereby controlling the links of the
 
@@ -11958,8 +11520,6 @@ Behavior in Protein Domain Networks," Molecular Biology and Evolution 18 (2001):
 
 scale-free structure see Jong Park, Michael Lappe, and Sarah A. Teichmann, "Mapping
 
-Notes
-
 Protein Family Interactions: Intramolecular and Intermolecular Protein Family Interaction Repertoires in the PBD and Yeast," Journal of Molecular Biology 307 (2001):
 929-938. For results on the H. pylori protein network, see Hawoong Jeong, Sean Mason,
 Albert-Laszlo Barabasi, and Zoltan N. Oltvai, "Centrality and Lethality of Protein Networks," Nature 41 1 (2001 ): 4M2.
@@ -12004,8 +11564,6 @@ D. Solas, "Light-Directed, Spatially Addressable Parallel Chemical Synthesis," S
 of time before everything from diagnostics in the doctor's office to drug development is changed. A DNA chip, or microarray, is a silicon or glass wafer patterned
 with a technology used by computer chip makers. Photolithography machines etch
 an array of tiny holes just barely large enough to allow robotic arms to place in these
-
-Notes
 
 holes short ON A strands, each hole containing a different gene. Thus with 30,000
 holes you can place a copy of each gene of the human genome on a single chip.
@@ -12057,8 +11615,6 @@ with AOL's Steve Case and Time-Warner's Jerry Levin in the same issue of the mag
 Page 200 For the story of the Daimler-Benz and Chrysler merger, see Bill Vlasic and
 Bradley A Stertz, Taken for a Ride: How Daimler-Benz Drove Off with Chrysler (New
 York: William Morrow, 2000).
-
-Notes
 
 Page 200 Not all mergers are the result of an expanding market and economy—the
 first wave of mergers in fact began after the worldwide depression of L883. For a brief
@@ -12115,8 +11671,6 @@ optimized networks aiming to achieve the largest financial output with the fewes
 structure. Indeed, if manufacturing is the company's primary goal, costs can be significantly reduced by assigning all repetitive, specialized tasks to low-income workers.
 
 Recent studies indicate that information is also most efficiently managed within a hierarchical organization, since a tree avoids unnecessary duplication of information
-
-Notes
 
 and communication. As each firm's activity is a combination of manufacturing and
 
@@ -12178,8 +11732,6 @@ consumers. Globalization, the buzzword of the last decade, actually means the pr
 not locally but worldwide. Then there is industry-based clustering—companies in the
 same market or business sharing many links. Such links, though geographically biased,
 
-Notes
-
 cut easily across large distances. The clustered nature of the economy has been documented recently in Bmce Kogut and Gordon Walker, "The Small World of Germany
 and the Durability of National Networks." American Sociological Review, 66 (2001):
 
@@ -12239,8 +11791,6 @@ Compaq, and other apostles of the network economy, see Bill Lakenan, Darren Boyd
 and Ed Frey, "Why Cisco Fell: Outsourcing and Its Perils," Strategy + Business (3rd
 quarter 2001): 54-65.
 
-Notes
-
 Page 213 The Hotmail story is described by Steve Jurvetson, the partner in the venture capital firm that secured the seed funding for the company, in "Turning Customers into Sales Force," Business 2.0, Nov. 1, 1998. See also the portrait of Sabeer
 Bhatia in Stuart Whitmore "Driving Ambition," Asiaweek.com, http://www.asia
 
@@ -12288,8 +11838,6 @@ Ivory Towers of Finance," IEEE Computing in Science and Engineering (Nov.-Dec.
 
 the relationship between networks and the stock market, see Hyun-Joo Kim, Youngki
 
-Notes
-
 bee, Im-mook Kim, and Byungnam Kahng, "Scale-Free Networks in Financial Correlations," http://xxx.lanl.gov/abs/cond-mat/0107449.
 
 Page 216 Many companies are experimenting with the incorporation of network
@@ -12332,8 +11880,6 @@ Bourdon, Christo (New York: Abrahams, 1970).
 Page 225 Note that complexity is a huge subject, and many researchers from physicists to mathematicians and biologists are working on various ways to approach it. For
 
 an array of books covering different approaches, see notes to Chapter 1.
-
-Index
 
 Abortion, 172
 
@@ -12432,8 +11978,6 @@ Argonne National Laboratory, 185
 ARPA (Advanced Research Projects
 
 Agency), 145, 146, 147
-
-Index
 
 Asian financial crisis, 209-21
 
@@ -12589,8 +12133,6 @@ Carnegie Mellon University, 150
 
 Carradine, John, 60
 Cartoons, 61, 124-126
-
-Index
 
 Cascade Mountains, 1 19
 
@@ -12755,8 +12297,6 @@ startup, 84, 199-200, 208, 214, 216
 
 and strategic partnerships, 206-207, 208
 
-Index
-
 Compaq, 167, 212
 ( Competition: and the fitness model,
 
@@ -12802,8 +12342,6 @@ Dinosaurs, 111
 Components, 129, 149-150
 
 Directed networks, 165-167
-
-and the fragmentation of the World
 
 Wide Web, 166-169
 and genetics, 181, 182-183
@@ -12917,8 +12455,6 @@ Degrees of separation, 25-40, 46, 64, 165
 and genetics, 185-186
 
 Egalitarianism, 21, 54, 56-57, 96
-
-Index
 
 Ego, 42
 80/20 rule, 65-78
@@ -13087,8 +12623,6 @@ deleting nodes from, 1 1
 
 and topological robustness, 117, 118
 
-Index
-
 Ford Motor Company, 201
 Fortune 1000 companies, 200, 203-204.
 
@@ -13237,10 +12771,6 @@ and the NEC study, 164
 and the AIDS epidemic, 129
 defined, 58
 and the 80/20 rule, 66-71,78
-
-Index
-
-and the fragmentation of the World
 
 Wide Web, 177
 
@@ -13400,8 +12930,6 @@ and the threshold model, 131-132
 
 Kleinfeld, Judith S.,234n
 
-Index
-
 Kleinrock, Leonard, 151
 
 Kline, Charley, 151
@@ -13481,7 +13009,6 @@ and degrees of separation, concept of,
 and the 80/20 rule, 66-69
 
 and the fitness model, 98, 102
-and the fragmentation of the World
 
 Wide Web, 174, 175, 176
 
@@ -13556,8 +13083,6 @@ Mesh-like networks, 144, 145
 MessagePad, 130
 
 Metabolism, 182, 184-189, 194, 221, 225
-
-Index
 
 Mexico, 110,211
 
@@ -13666,7 +13191,6 @@ and the 80/20 rule, 66-71
 and electricity networks, 50
 
 fitness model of, 95-97, 101-104, 106
-and the fragmentation of the World
 Wide Web, 166-167, 175, 176
 
 and genetics, 191
@@ -13705,8 +13229,6 @@ in regular graphs, 21
 and the rich-get-richer phenomenon,
 
 81-90
-
-Index
 
 and topological robustness, 112-121
 
@@ -13865,8 +13387,6 @@ Pareto, Vilfredo, 65-66, 72, 73
 
 Pokrovskii, V. L., 76
 
-Index
-
 Pool, Ithel de Sole , 36
 Pooley, Eric, 202-203
 
@@ -13985,7 +13505,6 @@ Robots, 32, 220-221
 basic description of, 161-162
 
 and the 80/20 rule, 66-67, 69
-and the fragmentation of the World
 Wide Web, 161-163, 165,174,
 177, 178
 
@@ -14019,15 +13538,11 @@ and the use of the term Internet, 147
 
 and topological robustness, 112-113,
 
-and the fragmentation of the World
-
 120-121 . See also Routing tables
 
 Wide Web, 167, 169
 
 Routing tables, 153-154. See also Routers
-
-Index
 
 Rubidium, 100
 Ryan, Bryce, 127-128
@@ -14060,8 +13575,6 @@ SBC Communications, 200
 Scala, Antonio, 89
 
 Scale: idea of, 7
-
-and the fragmentation of the World
 
 Wide Web, 162-165, 168-169, 173,
 175-178
@@ -14116,8 +13629,6 @@ Six degrees of separation. See Degrees of
 105-106
 
 separation
-
-and the fragmentation of the World
 
 Wide Web, 162, 165, 167, 169, 173
 
@@ -14189,8 +13700,6 @@ Soros, George, 210
 South America, 21
 
 Soviet Union, 76, 143-144, 146, 154
-
-Index
 
 Space programs, 146
 
@@ -14348,8 +13857,6 @@ University of Virginia, 59
 University of Utah, 151
 UNIX, 105
 
-Index
-
 Uranus (planet), 9
 
 Urchins, 118
@@ -14490,7 +13997,6 @@ White, Steve R., 134
 "Why We Don't Know How to Simulate
 
 and the fitness model, 93, 94
-and the fragmentation of the World
 Wide Web, 167, 172-173, 174
 
 Yeast cells, 117, 188, 196-197

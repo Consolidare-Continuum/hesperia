@@ -1,4 +1,3 @@
-
 About	the	Author
 
 Darrell	Huff	(1913–2001)	was	a	professional	writer.	He	lived	in	Carmel,

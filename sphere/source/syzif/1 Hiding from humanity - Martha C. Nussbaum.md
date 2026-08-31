@@ -1,4 +1,3 @@
-
 Hiding
 from
 Humanity
@@ -77,8 +76,6 @@ Printed in the United States of America
 
 For David Halperin
 
-This page intentionally left blank
-
 O my body! I dare not desert the likes of you in other men and
 women, nor the likes of the parts of you,
 I believe the likes of you are to stand or fall with the likes of the
@@ -111,8 +108,6 @@ where we are if one of us is the father."
 —B, patient of Donald Winnicott, analysis published as
 
 Holding and Interpretation
-
-This page intentionally left blank
 
 Contents
 
@@ -221,8 +216,6 @@ xi
 
 Index of Case Names
 
-This page intentionally left blank
-
 Acknowledgments
 
 This book began as the Remarque Lectures, delivered at the Remarque Institute at New York University in March 2000. I owe thanks to
@@ -295,15 +288,9 @@ gratitude for the experience of being understood and seen, which is
 very rare in friendship, and which I hope is in some sense reciprocal,
 and by a passionate shared commitment to equal human dignity.
 
-This page intentionally left blank
-
 Hiding
 from
 Humanity
-
-This page intentionally left blank
-
-Introduction
 
 I. Shame and Disgust:
 Confusion in Practice
@@ -325,8 +312,6 @@ need no longer be the object of humiliation.2 Stephen Carr, a drifter
 lurking in the woods near the Appalachian Trail, saw two lesbian
 women making love in their campsite. He shot them, killing one
 and seriously wounding the other. At trial, charged with first-degree
-
-Introduction
 
 murder, he argued for mitigation to manslaughter on the grounds
 that his disgust at their lesbian lovemaking had produced a reaction
@@ -357,8 +342,6 @@ law should protect citizens from insults to their dignity.
 Disgust, too, functions in complicated ways. It serves, sometimes, as
 the primary or even sole reason for making some acts illegal. Thus,
 
-Introduction
-
 the disgust of the reader or viewer is one primary aspect of the definition of obscene materials under current obscenity laws. Similar
 arguments have been used to support the illegality of homosexual relations between consenting adults: they should be illegal, it is alleged,
 because the "average man" feels disgust when he thinks about them. It
@@ -388,8 +371,6 @@ general social critics such as Christopher Lasch and Amitai Etzioni
 have defended the revival of shaming on the grounds that society has
 lost its communitarian moorings by losing a shared sense of shame
 at bad practices. Shame penalties, they argue, would promote a revival of our community's common moral sense. Etzioni memorably
-
-Introduction
 
 suggests that society would improve if young drug dealers, caught in
 a first offense, were "sent home with their heads shaved and without
@@ -426,8 +407,6 @@ an act illegal, even if it causes no harm to others. This is so, he
 claims, because society cannot protect itself without making law in
 response to its members' responses of disgust, and every society has
 
-Introduction
-
 the right so to preserve itself. (I shall analyze his views in detail in
 chapter 2.) More recently, legal theorist William Miller, while apparently disagreeing with Devlin about some concrete policy matters,
 supports his general line, arguing that a society's hatred of vice and
@@ -458,8 +437,6 @@ This shortcut is a mistake, however. First of all, law without appeals
 to emotion is virtually unthinkable. As chapter 1 will argue, the law
 ubiquitously takes account of people's emotional states. The state of
 mind of a criminal is a very important factor in most parts of criminal law. The state of mind of a victim (of rape, blackmail, et cetera)
-
-Introduction
 
 is also often relevant in determining whether an offense occurred,
 and, if so, of what magnitude. More deeply, it is hard to understand
@@ -493,8 +470,6 @@ they ask us all to become such self-sufficient people, insofar as we
 can, extirpating the emotions from our lives. They argue plausibly
 that human beings can achieve something like the imagined invulnerable condition if they simply refuse to value anything outside
 
-Introduction
-
 of that which they control—their own will, their capacity for moral
 choice.16 By shifting our attachments and what we consider valuable,
 we also shift the emotions we are liable to experience. Although few
@@ -524,8 +499,6 @@ Such emotions typically play two distinct but related roles in the
 law. On the one hand, these emotions, imagined as those of the public, may figure in the justification for making certain sorts of acts illegal. Thus, any good account of why offenses against person and
 property are universally subject to legal regulation is likely to invoke
 the reasonable fear that citizens have of these offenses, the anger
-
-Introduction
 
 with which a reasonable person views them, and/or the sympathy
 with which they view such violations when they happen to others.
@@ -558,8 +531,6 @@ A valiant attempt to defend an antiemotion program in law has
 been made by some scholars in the Utilitarian tradition. These scholars have indeed tried to imagine a pure emotion-free system of law,
 by substituting considerations of deterrence for consideration of the
 
-Introduction
-
 offender's state of mind. In penalizing a given case of homicide, for
 example, we are to think only of how our penalties will affect the
 likely future behavior of this offender and other possible offenders.17
@@ -590,8 +561,6 @@ anger. As I shall argue at greater length in chapter 1, the very content of such
 would seem, as well, that one cannot consistently have such evaluative judgments without having the corresponding emotions. (Can
 one judge that death is importantly bad for one, and yet not fear
 death? I believe not, however much one may think one is above mere
-
-Introduction
 
 fear.) Thus, the Utilitarian-deterrence version of the antiemotion
 view does not really take us away from appealing to emotions; it just
@@ -626,8 +595,6 @@ may sustain. If I attack a person who has just raped my child, my
 anger, again, is not just a mindless impulse. It involves a thought
 about the terrible damage my child has just suffered, and the wrongfulness of the offender's act. So if Dworkin's proposal is to neglect
 
-Introduction
-
 emotions because they are impulses without thought, that proposal
 is quite implausible.
 
@@ -660,8 +627,6 @@ internal to criminal law will be further investigated in chapter 1.
 More globally, the whole structure of criminal law might be said to
 imply a picture of what we have reason to be angry at, what we have
 
-Introduction
-
 reason to fear. The law of homicide itself might be said to express
 reasonable citizens' outrage at homicide, just as the law of rape responds to the reasonable fear of rape and expresses outrage at rapes
 that take place. The very fact of the law is a statement that these attitudes are indeed reasonable.
@@ -692,8 +657,6 @@ where we started. We cannot cut our way through the confusion surrounding shame 
 framed in terms of emotion, and we thus seem to have no way, as yet,
 of sorting through the theoretical and practical debate.
 
-Introduction
-
 III. Two Problematic Emotions
 
 A much more promising way of proceeding—the way I shall be following in this book—is that of looking much more closely at the type
@@ -723,8 +686,6 @@ humanistic work, though ultimately I shall be proposing a philosophical analysis
 My general thesis will be that shame and disgust are different from
 anger and fear, in the sense that they are especially likely to be normatively distorted, and thus unreliable as guides to public practice,
 because of features of their specific internal structure. Anger is a
-
-Introduction
 
 reasonable type of emotion to have, in a world where it is reasonable
 to care deeply about things that can be damaged by others. The question about any given instance of anger must then be, are the facts
@@ -758,8 +719,6 @@ I shall ultimately take a very strong line against disgust, arguing
 that it should never be the primary basis for rendering an act criminal, and should not play either an aggravating or a mitigating role in
 the criminal law where it currently does so. The valuable role for disgust in the law, it seems to me, is confined to areas such as nuisance
 
-Introduction
-
 law and zoning where it seems legitimate to allow offense, not just
 harm, to play a guiding role.
 
@@ -790,8 +749,6 @@ shame and to protect its citizens from shaming.
 Thus, although this book concerns two emotions and their place in
 law, especially criminal law, it is ultimately far broader in its concerns
 
-Introduction
-
 and aims. The positions that it criticizes are widespread social attitudes, influential in many times and places. They are currently enjoying renewed attention in contemporary American culture. It will
 be my contention that these attitudes are profound threats to the
 existence and stability of a liberal political culture. Through criticizing them I hope to offer, as well, a partial account of attitudes that do
@@ -817,8 +774,6 @@ nourishing appropriate emotions in citizens?
 
 Mill had answers to these questions, but, as chapter 7 will argue,
 they were not quite the right answers for a pluralistic society; they
-
-Introduction
 
 placed too much emphasis on the creative contributions of outstanding individuals, too little on the importance of removing
 stigma and hierarchy wherever they occur. Thus his account of the
@@ -850,8 +805,6 @@ our control. What I am calling for is a society where such self-deceptive
 fictions do not rule in law and in which—at least in crafting the institutions that shape our common life together—we admit that we
 are all children and that in many ways we don't control the world.
 
-Introduction
-
 This, it seems to me, is a good way to proceed in a liberal society,
 by which I mean one based on a recognition of the equal dignity of
 each individual, and the vulnerabilities inherent in a common humanity. If we cannot fully achieve such a society, we can at least look
@@ -874,8 +827,6 @@ continued indulgence of evil passions, a bad man might acquire a claim to mitiga
 in itself, constitutes an aggravation both in morals and in law.
 
 —Maher v. People, 10 Mich. 212, 81 Am. Dec. 781 (1862)
-
-Chapter 1
 
 I. Appeals to Emotion
 
@@ -908,8 +859,6 @@ In 1976, the U.S. Supreme Court declared the North Carolina
 death penalty statute unconstitutional because it did not allow defendants an opportunity to present their life history at the penalty
 phase and thus to appeal to the compassion of the jury. The pos-
 
-Emotions and Law
-
 sibility of compassion, the Court wrote, is an essential part of the
 process of appropriate criminal sentencing:
 
@@ -940,8 +889,6 @@ stance is one utterly without emotion.
 
 Interestingly enough, all parties appear to be agreed that emotions can be evaluated for reasonableness and appropriateness, and
 that, to that extent, they are parts of a character that one might
-
-Chapter 1
 
 deliberately cultivate. The judge hearing Small's appeal writes that
 his conduct shows "a want of self-culture that is inexcusable." The Norman defense lays heavy emphasis on the features of her life that
@@ -976,8 +923,6 @@ Because emotions as I shall characterize them make reference to
 social norms, a question naturally arises at this point: to what extent
 should a society committed to a liberal respect for pluralism be in
 
-Emotions and Law
-
 the business of evaluating emotions, and therefore the norms they
 embody? I shall conclude the chapter by briefly sketching the conceptions of political liberalism and the justification of law that I favor,
 and shall then argue that the evaluation of emotion plays a limited
@@ -1008,8 +953,6 @@ they are that; but most contemporary researchers, and many in the
 ancient world, also hold that some nonhuman animals have emotions, at least of some types.12 Obviously the differences in cognitive
 ability among species create corresponding differences in their emotional lives, and some emotion-types prove easier to ascribe to nonhuman animals than do others. Many animals probably have fear; a
 smaller number probably have anger and grief; a still smaller number
-
-Chapter 1
 
 appear to have compassion, since that emotion usually requires perspectival thinking, that is, the ability to assume, mentally, the position
 of another person or creature.13 These questions should not be neglected in any theoretical account of emotions, difficult though it is
@@ -1045,8 +988,6 @@ her stomach? Was her heart racing? Perhaps all of these, at different
 times?) What we care about, what makes us convinced that she felt
 fear, is the way we imagine her focusing on those future possibilities.
 
-Emotions and Law
-
 Furthermore, the object of her emotion is what philosophers generally call an intentional object: that is, its role in the emotion depends
 on the way in which it is seen and interpreted by the person whose
 emotion it is. Let us explore this point using a less contested case,
@@ -1080,8 +1021,6 @@ threatened.
 This discussion already brings out a third feature of emotions that
 makes them unlike the unintelligent feelings and bodily forces with
 which we began. That is, they involve beliefs, and sometimes very
-
-Chapter 1
 
 complex beliefs, about their object. Aristotle insists on this point in
 the Rhetoric, where he gives advice to young public speakers about
@@ -1117,8 +1056,6 @@ emotion. Each type of emotion is associated with a specific family of
 beliefs such that, if a person doesn't have, or ceases to have, the beliefs in the relevant family, she will not have, or will cease to have, the
 emotion. That is why political rhetoric is emotionally powerful. Ob-
 
-Emotions and Law
-
 viously enough, politicians have no way of directly influencing the
 bodily states and the feelings of their audience. What they can influence is the beliefs people have about a situation. But those beliefs appear to be necessary for emotions such as fear and anger. In many
 cases, they appear to be sufficient as well: that is, just getting someone to believe that she faces threatening prospects will be enough to
@@ -1146,8 +1083,6 @@ Indeed, we might go one step further than Aristotle and point out
 that the feelings don't actually help us very much in defining emotions because the feelings associated with a given type of emotion vary
 greatly, both between people and in the same person over time.17
 Think of Judy Norman's fear. She probably had a kaleidoscopic series
-
-Chapter 1
 
 of feelings while she was fearing for her life. It is hard even to imagine them. Sometimes she probably did tremble and her heart was
 racing. At other times she may have felt numb, or exhausted. And if
@@ -1181,8 +1116,6 @@ questions they do about the reasonableness or the unreasonableness
 of those thoughts.
 
 If a view of the object, and thoughts about that object, are integral to the experience of emotion, what sort of thoughts must those
-
-Emotions and Law
 
 be? I have suggested that most emotions involve a complex family of
 thoughts. But if we look back at our examples, we find that there is
@@ -1222,8 +1155,6 @@ And Adam Smith pointed out that, for this reason, we do not become
 hungry just because we imagine the hunger of another person, the
 way we often become sad, or angry, by putting ourselves in someone
 
-Chapter 1
-
 else's shoes. Taking on the other person's belief is insufficient, because
 hunger requires a bodily condition that we are simply not in.18 Smith's
 view entails what Aristotle would readily grant: that there can be no
@@ -1260,8 +1191,6 @@ emotion. I may think I am angry at the person who treated me
 rudely just now, but the intensity of my anger may betray to me, if I
 study my reactions more systematically, that I am really experiencing
 
-Emotions and Law
-
 a pervasive anger about my job, or my marriage, or bad treatment in
 the distant past.19 I may also feel a love, or a jealousy, toward a person in the present that is crucially conditioned by, and in many ways
 about, a person in the past. These phenomena can lead to many confusions between emotions and moods. If I am feeling depressed, it
@@ -1294,8 +1223,6 @@ judgments can be made not only about the factual component of the
 emotion-beliefs, but about their evaluative or appraisal component
 as well. Take the bereaved person's grief. In appraising it I will of
 course ask whether it is true that the person's loved one has really
-
-Chapter 1
 
 died, and (a separate point) whether her belief that the death has
 occurred is reasonable; that is, whether she believes this on the basis
@@ -1330,8 +1257,6 @@ cut off in traffic. "Calm down, it's not such a big deal," we might say
 to such a person. In his work On Anger, Seneca reports that he himself gets very angry when a host seats him at a place at a dinner table
 that he considers not the most honorable place.21 He says that he
 
-Emotions and Law
-
 knows he was unreasonable to react this way: this is just not something about which a reasonable person should get angry. Similar
 judgments are made about fear. Aristotle said that it would be pretty
 unreasonable to be afraid of a mouse making a noise; but, then and
@@ -1361,8 +1286,6 @@ false but reasonable, if she formed the false view on the basis of evidence or t
 we typically think that people are reasonable if they accept the standard norms of their society. At any rate, as we shall see, the law typically thinks this, routinely equating the "reasonable man" with the
 "average" or "ordinary" man. And yet, we all know that such norms
 may be mistaken. In another era, they would have endorsed judgments
-
-Chapter 1
 
 that women and members of other races are not equally human. Today
 we probably hold some views that are just as mistaken as these, but it
@@ -1398,8 +1321,6 @@ children to share.
 As children get older, we teach them ever more sophisticated appraisals of emotion-related situations. We teach children that it is
 right to fear certain situations that might not seem to them dangerous at all, as when a smiling stranger offers them a ride in a car. We
 also teach them that things that seem to them dangerous are not
-
-Emotions and Law
 
 really dangerous: thus it is silly, beyond a certain age, to be afraid of
 the dark, there isn't anything really bad about the dark. Children
@@ -1439,8 +1360,6 @@ easy or quick.27
 
 Moreover, we may come to think that the very structure that is typical of human life gives rise to some tendencies to unreasonable emotion. In other words, we may believe that there are certain structural
 
-Chapter 1
-
 obstacles to reasonableness that make the struggle to achieve appropriate emotions something of an uphill battle in all human beings.
 That is what I shall be arguing in my chapters on disgust and shame.
 The history of a human being is an odd one. We spend our infancy
@@ -1473,8 +1392,6 @@ human process of development. Aristotle, like most men in Greece
 in his day, did not have much interest in children, and probably
 never looked closely at them.28 When we do, we learn some things
 
-Emotions and Law
-
 about the genesis of our own emotions that may lead us to criticize
 legal practices that are, in at least some areas, too deferential to
 prevailing norms in emotion.
@@ -1505,8 +1422,6 @@ in response to a provocation by the victim of the crime; that the
 provocation was "adequate"; that the defendant's anger was that of
 a "reasonable man"; and that the homicide was committed "in the
 heat of passion" without sufficient "cooling time." The doctrine mitigates rather than offering a complete exculpation. The most plausible reason for this difference between voluntary manslaughter and
-
-Chapter 1
 
 self-defense is that, in the manslaughter case, the person's own life is
 not being threatened and he could and should therefore have summoned the law to his aid. Nonetheless, the doctrine holds that something about his situation and his emotions makes this crime less bad
@@ -1543,8 +1458,6 @@ are and are not adequate, therefore, some provocations have been
 ruled inadequate as a matter of law. That is how the Pennsylvania
 judge ruled when Stephen Carr sought to admit evidence of his over-
 
-Emotions and Law
-
 whelming disgust at witnessing lesbian lovemaking: "[the law] does
 not recognize homosexual activity between two persons as legal
 provocation sufficient to reduce an unlawful killing . . . from murder
@@ -1577,8 +1490,6 @@ influence, is appropriate.36
 Notice that the judge in Carr's case does not say that Carr was not
 disgusted, that his disgust was not extremely strong, or that it did not
 prompt his homicide. He says, rather, that these are not the reactions
-
-Chapter 1
 
 of a reasonable person. A reasonable person, whether disgusted or
 not, would not have been so overwhelmed by emotion that he would
@@ -1613,8 +1524,6 @@ learning of the crime; she shoots and kills him. G will be very likely
 to get mitigation under the doctrine. If, however, she waits three
 weeks and then, having tracked down the murderer, shoots him, she
 
-Emotions and Law
-
 will not. Why not? Surely a reasonable person will remain extremely
 angry at the murderer, perhaps for the rest of her life.
 
@@ -1647,8 +1556,6 @@ light of the surrounding circumstances. It is clear that no less than a
 concurrence of these elements will suffice.40
 
 From the earliest stages of the doctrine the importance of these limits is emphasized:
-
-Chapter 1
 
 This right of natural defence does not imply a right of attacking: for,
 instead of attacking one another for injuries past or impending, men
@@ -1686,8 +1593,6 @@ reasonable in the light of the person's particular history and experience? This 
 tried for attempted murder after having shot and wounded four
 young men in the New York subway after one or two of them approached him and asked for $5.43 Goetz maintained that his belief
 
-Emotions and Law
-
 that his life was in danger was reasonable in the light of his own particular history of assault. This contention was essentially repudiated
 by the New York Court of Appeals, which maintained that the standard of reasonableness was an objective and not a subjective standard, and that an honest belief, based on prior history, was not
 necessarily enough to meet the reasonableness standard.44 Questions are also prompted by different formulations of the standard in
@@ -1717,8 +1622,6 @@ disgrace to be favorably appraised in this sort of situation.47 Similar
 thoughts about honor and identity inform the prevailing notion that
 one need not flee an assault within one's own home: it would be
 an indignity for a man to be made "a fugitive from his own home."48
-
-Chapter 1
 
 Finally, I am allowed to plead self-defense if I intervene in order to
 prevent death or injury to another—but states are divided about
@@ -1756,8 +1659,6 @@ women to plead self-defense. In a case shortly before Judy Norman's,
 the Kansas Supreme Court held that it was error to give the jury a selfdefense instruction in a case similar to Norman's, where the defendant
 had shot her spouse while he was sleeping:
 
-Emotions and Law
-
 In order to instruct a jury on self-defense, there must be some showing of an imminent threat or confrontational circumstance involving
 an overt act by an aggressor. There is no exception to this requirement where the defendant has suffered long-term domestic abuse
 and the victim is the abuser. In such cases, the issue is not whether the
@@ -1785,8 +1686,6 @@ the objective reasonableness of her belief that her life was endangered.53 This 
 the reasonableness standard should be understood in these circumstances. Meanwhile, it has become increasingly common for juries to
 acquit defendants in such cases, even where the formal requirements
 of the doctrine are not met.54
-
-Chapter 1
 
 V. Emotions and Changing
 Social Norms
@@ -1823,8 +1722,6 @@ the judgment that this emotion is reasonable, the sort of emotion a
 reasonable man would have. Because emotions involve appraisal, the
 appraisal of those emotions will reflect a society's norms. When a
 
-Emotions and Law
-
 society asks what cases of fear and anger it should deem reasonable,
 the emotions that the hypothetical reasonable man would have in
 such a situation, it implicitly asks what it is reasonable to value
@@ -1858,8 +1755,6 @@ than previous generations had, and we have decided to focus on it as
 a social problem of great importance. Study of the problem suggests
 that a woman may reasonably believe her situation inescapable and
 
-Chapter 1
-
 that she has no alternative but to use deadly force, even if her husband is asleep or otherwise not threatening her with a weapon at
 that particular moment. (The reasonableness of such beliefs is supported by the evidence that batterers often track and violently attack
 their partners, even after the partner has left.) Such issues remain
@@ -1890,8 +1785,6 @@ there is general agreement that harms and damages are appropriate
 areas for legal regulation. As I have mentioned, these judgments are
 closely linked to a set of judgments about the emotions of the public
 at large: namely, that it is in general reasonable for a citizen to have
-
-Emotions and Law
 
 fear of and anger at certain sorts of damages. Such ideas are deeply
 embedded in the justification of the criminal law.
@@ -1926,8 +1819,6 @@ emotion, from Aristotle on, emphasize that compassion requires the
 thought that another person is undergoing something seriously bad.
 In the emotion itself, then, we evaluate the other person's predicament as serious, as having "size," as Aristotle put it. The estimate of
 
-Chapter 1
-
 "size" may echo the suffering person's own estimate, but that need
 not always be so. We have great compassion for people whose very
 predicament is that they are rendered unconscious or mentally damaged, and who thus may be unable to comprehend the seriousness of
@@ -1961,8 +1852,6 @@ that their possibilities are similar to our own and without imagining
 that we are them—although we surely need to make sense of their
 predicament somehow. We can also imagine an omnipotent God
 
-Emotions and Law
-
 feeling compassion for human suffering despite God's utter difference in possibility. Many religious traditions have held that imagining requires a body, thus limiting the ways in which God can imagine
 human suffering. (According to Aquinas, for example, God [the Father] could form the concepts involved, but without imagining the
 particulars.) We should surely grant, however, that both the acknowledgment of similarity and empathetic imagining are very strong psychological aids in getting flawed human beings to feel compassion
@@ -1991,8 +1880,6 @@ and for ethics.66
 
 Now that we have laid out these four judgments, we can see how
 and why compassion is likely to go wrong. It may go wrong by getting the seriousness of the predicament wrong—either because of
-
-Chapter 1
 
 misinformation as to what has actually happened, or because of confusion about how serious the bad event is. (Sociologist Candace
 Clark finds that many Americans list being stuck in traffic as a major
@@ -2025,8 +1912,6 @@ unconstitutional on grounds that it asked jurors to disregard "'its constitution
 which he is on trial, in deciding the appropriate penalty.'"68 Notice
 that from the beginning there is a general agreement that defendants have a constitutional right to present such compassion-eliciting
 
-Emotions and Law
-
 evidence at the penalty phase, and that to be deprived of this right is
 a constitutional violation (of the Eighth Amendment's guarantee
 against cruel and unusual punishment). Thus nobody questions the
@@ -2057,8 +1942,6 @@ being asked to disregard all sympathy. (This confusion would be fostered by the 
 made greater by the characteristic behavior of prosecutors, who
 browbeat jurors into disregarding sympathy-eliciting testimony by
 
-Chapter 1
-
 offering a confusing reading of the instruction. Thus, in a typical example, a prosecutor said, "'As the Judge will instruct you, you must
 not be swayed by sympathy.'"71 Another said, "'[S]ympathy is an interesting thing, because even though you try not to consider it, this
 decision you are going to make has emotional overtones to it. It
@@ -2088,8 +1971,6 @@ discretionary death penalty process is likely to be biased on grounds
 of race, doesn't this entail that there is no constitutional way to administer the death penalty? (I believe that the answer to this question is "yes," and that, among the several reasons for thinking the
 death penalty unconstitutional, this is one argument that may possibly persuade adherents who are not persuaded by more direct moral
 arguments.)
-
-Emotions and Law
 
 Another question that we must face is the proper role of compassion for victims in the sentencing process. There has been a strong
 trend toward the introduction of "victim-impact statements" at the
@@ -2126,8 +2007,6 @@ groups. I have focused here on just one small part of its function
 important in the criminal law. It has been my aim to show that even
 the most cautious jurists agree that compassion is built into the
 
-Chapter 1
-
 sentencing process, and that any attempt to eliminate it violates
 fundamental rights. (So much, I shall argue, is not true of disgust
 and shame.)
@@ -2162,8 +2041,6 @@ John Stuart Mill in thinking that the liberty of individuals to choose,
 proclaim, and live by norms of their own choosing is an extremely
 important social good. Some liberals emphasize, along with Mill,
 that respect for individual liberty produces yet other goods. Mill ar-
-
-Emotions and Law
 
 gued, for example, that we are likely to get more truth by protecting
 the expression of unpopular opinions, because it is only in the climate of free debate that the merits of each position are likely to be
@@ -2201,8 +2078,6 @@ mean a radical and more or less unimaginable change in current
 practices. In other words, we would have to say that homicide is
 homicide, whatever states of mind accompany the bodily movement
 
-Chapter 1
-
 of killing. We would have to treat a killing in self-defense as no different, under the law, from a malicious premeditated killing. Such
 an approach would mean a complete transformation in the criminal
 law. When we think about crimes such as murder and rape, as well as
@@ -2233,8 +2108,6 @@ states. Nonetheless, if we did encounter such a position, we would
 still be able to say that this position would transform many doctrines
 in the criminal law: not only the doctrines of premeditation and selfdefense, and the appeal to compassion in the context of sentencing,
 but also others that I have not discussed here, for example the doctrine of duress. So the onus would be on the objector to give a co-
-
-Emotions and Law
 
 herent account of the criminal law without such doctrines in their
 current form.
@@ -2271,8 +2144,6 @@ not committed to complete neutrality or agnosticism about matters
 of value. Indeed, the very fact that it is committed to freedom of
 choice as a great good shows that it is not neutral about value. And
 
-Chapter 1
-
 in general, the political culture of a liberal society is not free of value
 judgments. It is best conceived of as a partial moral conception, not
 a conception in which the moral has no place.
@@ -2307,8 +2178,6 @@ of life whatever. Thus, we will want a distribution of income, wealth,
 and opportunity that permits all citizens to pursue their plans of life.
 The details of Rawls's particular proposal are controversial, and
 
-Emotions and Law
-
 need not concern us here. What should concern us is the idea that
 all citizens will be asked to endorse society's arrangements, both with
 regard to liberty and with regard to other basic goods, and to endorse them as good, not just as a mere modus vivendi, something that
@@ -2340,8 +2209,6 @@ free speech apply to all citizens, but they will rightly be regarded as
 proposals, insofar as they do conflict with that consensus, will not be
 able to come up for straightforward majority vote: constitutional
 
-Chapter 1
-
 principles entrenching the basic freedoms and rights of the consensus will prevent (as they now do) the U.S. Congress from debating a
 motion to restore slavery, or to remove women's right to vote.
 
@@ -2368,8 +2235,6 @@ liberal and the communitarian, and up to that point there should be
 no difference between them that will affect the endorsement of the
 traditional legal doctrine. As for compassion, I have argued in Upheavals of Thought that a liberal society may construct a variety of roles
 for compassion in connection with support for a set of basic entitlements.83 With regard to our present concern, the possibility of compassion in the criminal sentencing process is understood as required
-
-Emotions and Law
 
 by the Eighth Amendment's guarantee against cruel and unusual
 punishment.
@@ -2407,8 +2272,6 @@ Many evaluations concerning honor and status, for example, do not
 appear to lie in the core of the political conception of either the
 United States or other political cultures, and yet they may be very influential, as the history of the self-defense doctrine shows they have
 
-Chapter 1
-
 been. The liberal and the communitarian will be likely to differ
 about the role of law vis-à-vis such valuations.
 
@@ -2442,8 +2305,6 @@ ways. Certain basic rights and liberties, moreover, are prerequisites
 for getting on with any meaningful life, and harmful acts violate
 these rights. Even if rape limited the freedom of all citizens equally,
 it would still be injurious to the ability of all to get on with their lives.
-
-Emotions and Law
 
 So the liberal can easily justify the restriction of conduct that harms
 others. Restriction of conduct that does no harm to others is much
@@ -2480,8 +2341,6 @@ argument Mill offers for his principle, though I shall try to show at
 various points why it is an attractive starting point for people attached
 to liberty as a good.
 
-Chapter 1
-
 Mill's conception of the foundations of criminal law is controversial.
 The U.S. legal tradition has never fully endorsed it.88 Restriction of
 conduct that does no harm to nonconsenting third parties has never
@@ -2513,8 +2372,6 @@ harm others but because they are considered in the traditional phrase
 statute [is] to enforce the traditional moral belief that people should
 not expose their private parts indiscriminately, regardless of whether
 those who see them are disedified. Since that is so, the dissent has no
-
-Emotions and Law
 
 basis for positing that, where only thoroughly edified adults are present, the purpose must be repression of communication.
 
@@ -2548,8 +2405,6 @@ child right? If not, was her belief that the victim was the murderer
 sincere, and not just sincere and honest, but also reasonable? Was
 she reasonable, furthermore, in thinking the murder of her child
 
-Chapter 1
-
 adequate provocation for some sort of retaliation? Is the murder of
 a child the sort of thing that has serious importance? Is that sort of
 case typically recognized in the traditional doctrine, and, if it is not,
@@ -2581,8 +2436,6 @@ this is the sort of emotion that might well be reasonable if the facts
 about the harm and its seriousness are all correct. Some people who
 agree with the ancient Greek Stoics may at this point say that anger
 is never reasonable, because anything that can be damaged by another is not really of serious importance in human life. Only one's
-
-Emotions and Law
 
 own virtue is really important, and that can never be damaged by another. Most of us, however, will judge that anger can often be reasonable, because there are many important things in any human life
 that can be damaged by another.
@@ -2617,8 +2470,6 @@ of a "reasonable person." We might also add that these possessive
 thoughts have been especially pernicious aspects of the relation of
 men to women, and part of a picture of women as men's property.
 None of this means, of course, that jealousy is not ubiquitous in
-
-Chapter 1
 
 human life, but if one holds that it does betray an inappropriate set
 of attitudes toward another person, one will have reason to question
@@ -2668,8 +2519,6 @@ it would have helped to keep your heart warm.
 —D. H. Lawrence to Ottoline Morrell,
 
 quoting from Lady Chatterley's Lover
-
-Chapter 2
 
 I. Disgust and Law
 
@@ -2732,8 +2581,6 @@ Miller does not discuss these further implications.
 All of these arguments favoring disgust are conservative. But Dan M.
 Kahan has recently argued that disgust is of importance to progressive legal thought, as well, and ought to be permitted to play a larger
 
-Chapter 2
-
 role in the criminal law than most legal theorists currently want it
 to play. Disgust is "brazenly and uncompromisingly judgmental,"12
 indeed "essential to perceiving and condemning cruelty."13
@@ -2767,8 +2614,6 @@ fact of having an animal body is projected outwards onto vulnerable
 people and groups. These reactions are irrational, in the normative
 sense, both because they embody an aspiration to be a kind of being
 
-Disgust and Our Animal Bodies
-
 that one is not, and because, in the process of pursuing that aspiration,
 they target others for gross harms.
 
@@ -2797,8 +2642,6 @@ judge, took as his occasion the Wolfenden Report released in 1957,
 which had recommended the decriminalization of homosexual relations between consenting adults and had opposed the criminalization
 of prostitution, which was not then illegal. In support of its recommendations, the commission made a more general case against the
 legal regulation of "private immorality." Basically, they took Mill's line:
-
-Chapter 2
 
 society has no right to use the law to regulate personal conduct that
 does no harm to others. Devlin's counterargument is complex. He
@@ -2830,8 +2673,6 @@ obviously have a further alternative: we may use law to enforce all and
 only the core values of a liberal society, which prominently include
 the protection of areas of personal liberty.
 
-Disgust and Our Animal Bodies
-
 Devlin thus needs to show the liberal that the core liberal values
 are insufficient to hold society together, that society will fall apart unless it protects values going beyond—and in some ways directly
 against—these core liberal values. And indeed Devlin does use a very
@@ -2860,8 +2701,6 @@ have occasion to investigate in chapter 5.20 The idea that public toleration of 
 erode the social fabric is hardly new. Nor is it old. Shortly after September 11, 2001, the Reverend Jerry Falwell issued a national statement ascribing responsibility for the bombing of the World Trade
 Center to "gays and lesbians"—presumably thinking in Devlin's way
 that their presence somehow weakens America.21 Such claims, though
-
-Chapter 2
 
 we still hear them, are both outrageous and completely implausible.
 We should bear this feature of Devlin's argument in mind, for much
@@ -2895,8 +2734,6 @@ Even if we grant him that there are some vices that, sufficiently disseminated, 
 suppose that disgust is a reliable index of which activities have that
 property? Miscegenation has been the object of widespread dis-
 
-Disgust and Our Animal Bodies
-
 gust—and yet even Devlin, who seems happy with any form of heterosexual marriage, would not presume to argue that this disgust
 tracks social danger in a reliable way. The very presence of the mentally handicapped and the physically disabled in our communities,
 functioning in the public eye, has often occasioned disgust; and yet
@@ -2927,8 +2764,6 @@ words "given human nature," however, go beyond the political idea of
 human dignity in suggesting a specific metaphysical or religious view
 of humanity.) And surely a liberal can easily grant that one of the
 
-Chapter 2
-
 main dangers a liberal society must guard against is the danger that
 humanity will be used only as a means, and not as an end. If we could
 be convinced that disgust is reliably correlated with violations of
@@ -2958,8 +2793,6 @@ indeed raise real moral questions, as to whether and on what
 grounds it ought to be prohibited. I shall return to those questions
 in chapter 3. But it is a complicated issue once we state clearly that
 the corpse is an inert heap of stuff and not the living person. Kass of-
-
-Disgust and Our Animal Bodies
 
 fers no arguments on this issue—and yet this case is the only one in
 which he has even putatively gone beyond the bounds of Mill's principle. It seems to me that what we want to do with this case is to reflect and argue about it, not to assume that our repugnance contains
@@ -2994,8 +2827,6 @@ Kass say that these earlier instances of disgust contained wisdom?
 What about the disgust many people feel even now when they see the
 mentally handicapped in public settings, or when they see people
 
-Chapter 2
-
 who are physically deformed or obese? Kass now faces a dilemma.
 Either he will say that in all these cases disgust gave and gives good
 guidance, in which case he will strike most readers as making a preposterous and morally heinous assertion; or he will say that in some
@@ -3028,8 +2859,6 @@ those of Devlin and Kass. Unlike these two writers, Miller conducts
 an extensive analysis of disgust, to which I shall refer frequently in
 my own subsequent analysis. He believes that disgust has a definite
 cognitive content, and that it gives guidance through that content,
-
-Disgust and Our Animal Bodies
 
 not by being a subterranean force beneath or apart from argument.
 Although he holds that disgust toward certain "primary objects"—
@@ -3066,8 +2895,6 @@ us in lawmaking.34
 Now it would seem that this claim does little to support legal regulation of the sort that interests Devlin and Kass; that is, regulation
 of self-regarding conduct that lies outside of Mill's principle. Not
 
-Chapter 2
-
 even Devlin and Kass believe that homosexuality is a form of cruelty—if they did, surely they would not spend so much time finding
 non-Millian ways to justify making homosexual acts illegal. Nor does
 Miller make such a claim; it is evident that he does not think that disgust always signals the presence of cruelty, and so should be trusted
@@ -3103,8 +2930,6 @@ progressives might as well use its power in their own cause.
 But why the appeal to disgust in the first place, one might ask?
 Since by Kahan's own account (following Miller) disgust is con-
 
-Disgust and Our Animal Bodies
-
 nected with hierarchy and the unequal ranking of persons as to their
 worth or value, why should we listen to it at all when we make law,
 rather than basing law on other or different sentiments? At this
@@ -3137,8 +2962,6 @@ that often takes the form of disgust: for example, a disgusting smell
 that affects the neighbors of the person who creates it. That is one
 way in which disgust figures in the law (and I will discuss it in chapter 3). For all four of our authors, however, disgust has a much
 broader and more foundational significance. Disgust, for each, is
-
-Chapter 2
 
 not itself a harm to be regulated: it is, rather, a criterion we use to
 identify the bad, indeed the very bad, and hence (they argue) the
@@ -3173,8 +2996,6 @@ held social norms. For Kass, disgust is presocial or extrasocial, and is
 valuable because it warns us about dangers to our humanity that a
 corrupt society may have obscured from view. Both, however, conclude that disgust gives us information we would not have without it.
 
-Disgust and Our Animal Bodies
-
 They also agree that it is pertinent to legal regulation whether or not
 its deliverances stand the scrutiny of rational argument.
 
@@ -3205,8 +3026,6 @@ Rozin does not dispute that disgust may well have an underlying
 evolutionary basis; in fact he accepts Darwin's argument that disgust
 was originally a type of rejection, primarily of unwanted foods, closely
 connected to strong negative sensory experiences.41 He shows, however, that it is distinct from both distaste, a negative reaction motivated by sensory factors, and (a sense of) danger, a rejection motivated
-
-Chapter 2
 
 by anticipated harmful consequences. Disgust is not simple distaste,
 because the very same smell elicits different disgust-reactions depending on the subject's conception of the object.42 His subjects
@@ -3240,8 +3059,6 @@ the self will become base or contaminated by ingestion of the substance that is 
 and colleagues indicate that the idea involved is that "you are what
 you eat": if you ingest what is base, this debases you.45
 
-Disgust and Our Animal Bodies
-
 The objects of disgust range widely, but the focus is on animals
 and animal products. Angyal argued more specifically that the center of disgust is animal (including human) waste products, which
 we see as debasing.46 Rozin has confirmed experimentally our preoccupation with animal matter, but he adds that disgust may be
@@ -3269,8 +3086,6 @@ ourselves be reduced to the status of animals. Similarly, if we absorb
 or are mingled with the decaying, we will ourselves be mortal and decaying. Disgust thus wards off both animality in general and the mortality that is so prominent in our loathing of our animality. Indeed,
 we need to add this restriction in order to explain why some aspects
 of our animality—for example, strength, agility—are not found disgusting. The products that are disgusting are those that we connect
-
-Chapter 2
 
 with our vulnerability to decay and to becoming waste products ourselves. As Miller puts it: "[U]ltimately the basis for all disgust is us—
 that we live and die and that the process is a messy one emitting
@@ -3302,8 +3117,6 @@ accounts developed in cognitive psychology.
 Freud's account of disgust focuses less on mortality and decay
 than on our bodily commonality with the "lower" animals. Psychoanalyst Ernest Becker, however, argues convincingly that, at least
 
-Disgust and Our Animal Bodies
-
 after a certain age, human disgust reactions are typically mediated
 very powerfully by the awareness of death and decay. In developing
 a disgust toward bodily wastes, a young human is reacting against
@@ -3331,8 +3144,6 @@ anomaly is too weak to explain why we find some things disgusting.
 Feces and corpses are disgusting but in no way anomalous. On the
 other hand, a creature like a dolphin is an anomaly in nature, being
 a sea-dwelling mammal, but nobody finds dolphins disgusting. There
-
-Chapter 2
 
 seems to be more going on in disgust than merely the idea of surprise or departure from social norms. That something is plausibly
 captured in Rozin's idea of anxiety about animality.
@@ -3368,8 +3179,6 @@ vulnerability.
 
 A second, and more difficult question is why people often feel disgust or aversion toward people with disabilities. To a great extent,
 
-Disgust and Our Animal Bodies
-
 this disgust is socially constructed, and thus our discussion of it belongs in our subsequent treatment of the social extension of disgust.
 But it may be (though we really do not know) that there is some primary disgust attaching to the sight of a person with a stump instead
 of a limb, or a person whose face and bearing show signs of developmental delay. These disabilities are, of course, reminders of our own
@@ -3401,8 +3210,6 @@ In this way it is possible to connect to Rozin's core analysis the
 more helpful aspects of Douglas's social analysis. Douglas, we recall,
 argues that our idea of the contaminating typically involves the idea
 of a boundary violation, violation of accepted categories, or "matter
-
-Chapter 2
 
 out of place." Her theory proves inadequate as an account of the
 core notions involved in disgust.64 The core or primary objects of disgust are reminders of animal vulnerability and mortality. But
@@ -3438,8 +3245,6 @@ the interest psychoanalysts have taken in this process, we still need
 more close empirical studies of its workings.68 Cross-cultural studies
 would be of particular interest. It is obvious that parents in most if
 
-Disgust and Our Animal Bodies
-
 not all societies communicate to children powerful messages of both
 distaste and disgust in regard to their feces, and that these messages
 convert attraction into aversion, or at least cause the very strong repression, behind aversion, of whatever attraction persists. There is,
@@ -3472,8 +3277,6 @@ retains this attraction behind the disgust that represses it. The strength
 of this retained attachment, however, may well differ greatly across
 individuals and, indeed, societies. It is likely to be influenced by toilet training, during which parents often praise a child for producing
 
-Chapter 2
-
 a bowel movement, and the child comes to view the product as a gift
 that he has given his parent. We still need to know much more about
 these phenomena. Where disgust toward other primary objects is concerned, it is less clear whether we should posit any initial attraction.
@@ -3501,8 +3304,6 @@ is therefore an especially powerful vehicle of social teaching. Through
 teaching regarding disgust and its objects, societies potently convey
 attitudes toward animality, mortality, and related aspects of gender
 and sexuality. Although the cognitive content and aetiology of dis-
-
-Disgust and Our Animal Bodies
 
 gust suggest that in all societies the primary objects—feces, other bodily fluids, and corpses—are likely to be relatively constant, societies
 have considerable latitude in how they extend disgust-reactions to
@@ -3536,8 +3337,6 @@ not only in what objects they deem appropriate for a given emotion,
 but also, to some extent, in their more precise understanding of the
 emotion itself and its relation to other emotions. Since disgust has a
 
-Chapter 2
-
 cognitive content, it is no exception to this rule. One example must
 suffice to show the degree to which disgust is not a single thing, but
 an overlapping family. In an important study of the emotion of fastidium in ancient Rome, Robert Kaster argues that it overlaps considerably with English "disgust," and fits closely, up to a point, the
@@ -3568,8 +3367,6 @@ into its specific understandings of what is human and what foul.
 Nonetheless, disgust appears to be an emotion with great transcultural overlap; it also has had an influential Western cultural formation that has itself ensured considerable similarity across both time
 and place. Therefore, with awareness that all such generalizations
 are incomplete, we may continue to treat it as a single phenomenon.
-
-Disgust and Our Animal Bodies
 
 IV. Disgust and Indignation
 
@@ -3602,8 +3399,6 @@ not in fact been wronged in the way they thought.77
 As chapter 1 has argued, the reasons underlying a person's anger
 (or nonanger) can be false or groundless, and this in several distinct
 
-Chapter 2
-
 ways. Perhaps the damage did not occur at all. Perhaps it did occur,
 but it was done by someone other than the current target of the person's indignation. Perhaps it did occur, and that person did it, but it
 was not the wrongful act the person believes it to be. (It might, for
@@ -3633,8 +3428,6 @@ think ourselves bound to conceive a passion of the same kind, and
 for the same person for whom he has conceived it."78 Because love is
 based upon idiosyncratic reactions that usually cannot be put into
 words at all, much less shared by another, we cannot expect our
-
-Disgust and Our Animal Bodies
 
 friends to share our love—though, as Smith goes on to note, they
 may of course share lovers' anxieties and hopes about the future.79
@@ -3666,8 +3459,6 @@ stated that gay men eat feces and drink human blood.82 But such appeals to revul
 Amendment 2 seemed well aware of this, and thus were reluctant to
 admit to the tactics they had used. Their direct testimony focused on
 
-Chapter 2
-
 "special rights" and dangers to society; it was the plaintiffs, on crossexamination, who introduced evidence of the campaign's appeal to
 disgust.
 
@@ -3696,8 +3487,6 @@ as a basis for law in principle, not just in practice.
 At this point, it is important to remember the distinction between
 disgust as criterion and disgust as a putative harm. Sometimes being
 forced to be in the presence of a deeply offensive substance may inflict something that looks very much like a harm or a damage: offensive odors and substances are typically regarded as creating a
-
-Disgust and Our Animal Bodies
 
 "public nuisance," and, as I have mentioned, prisoners have argued,
 successfully, that being forced to live with overflowing chemical toilets was "cruel and unusual punishment."84 These cases of disgust are
@@ -3733,8 +3522,6 @@ Here we should say, I think, that several different things are going
 on. Some cases are probably best explained as loose or careless
 usage, explained, to at least some extent, by the fact that English has
 
-Chapter 2
-
 no affectively strong adjective with which to express anger. ("That's
 outrageous!" seems pretty prissy and bland, so "that's disgusting !" sometimes substitutes.) In other cases, such as the Wilde case, the moralism seems to be a cloak for a quite familiar type of disgust, expressing
 contamination from the presence of an allegedly vile creature, an
@@ -3768,8 +3555,6 @@ stifling ossified customs, and the absence of genuine compassion.
 Mahler's response to it, in the next movement, is to focus on pure
 compassion for human suffering, embodied in a text from folk po-
 
-Disgust and Our Animal Bodies
-
 etry and music that alludes centrally to Bach.89 Doesn't this mean
 that there is a type of disgust that offers some very good public reasons to criticize some social forms and institutions?
 
@@ -3801,8 +3586,6 @@ virtue, unsullied by greed, aggression, and corruption. In short, my
 fantasy is an escape fantasy, having more to do with back-formation
 from current discontents than with constructive engagement with
 
-Chapter 2
-
 Finnish society. Anger at U.S. politicians tends in the direction of
 protest and constructive engagement. Disgust at U.S. politicians
 leads to escape and disengagement.
@@ -3832,8 +3615,6 @@ respect for them as persons, capable of growth and change. So I
 think that the response that says, "Let's get those disgusting rats out
 of here" is not a helpful one for a liberal society, even when directed
 at people who may have bad motives and intentions.
-
-Disgust and Our Animal Bodies
 
 Nor, as my Finland story illustrates, is there anything constructive
 about this fantasy of purity. What we should ask of racists and corrupt
@@ -3868,8 +3649,6 @@ bound ourselves against, who will come to exemplify the boundary
 line between the truly human and the basely animal. If those quasianimals stand between us and our own animality, then we are one
 step further away from being animal and mortal ourselves. Thus
 
-Chapter 2
-
 throughout history, certain disgust properties—sliminess, bad smell,
 stickiness, decay, foulness—have repeatedly and monotonously been
 associated with, indeed projected onto, groups by reference to
@@ -3900,8 +3679,6 @@ of the true German man (often praised in images of metal and machinery) was stan
 fluid, stench, and muck.94 As Klaus Theweleit argues in his impressive study of the letters and memoirs of a group of the Freikorps, a
 group of elite German officers of this period, "The most urgent task
 of the man of steel is to pursue, to dam in, and to subdue any force
-
-Disgust and Our Animal Bodies
 
 that threatens to transform him back into the horribly disorganized
 jumble of flesh, hair, skin, bones, intestines, and feelings that calls itself human—the human being of old." The aspiration to get away
@@ -3938,8 +3715,6 @@ As we can see, disgust is thus closely linked to experiences of vulnerability an
 steel and metal is the sense that our mere mortality is something
 shameful, something we need to hide or, better yet, to transcend altogether. It is no surprise that such complex emotions were unleashed
 
-Chapter 2
-
 by the devastation of World War I—but of course they might arise in
 many different circumstances, given that human beings so often aspire to an invulnerability that they cannot achieve. Disgust therefore
 points backwards, in the human life cycle, to earlier experiences of
@@ -3971,8 +3746,6 @@ shame, fear, and devastation, the fact that it was directed toward Jews
 in particular is an artifact of the social success of Jews, combined with
 elaborate ideological campaigning aimed at putting them down.
 One sure way of putting a group down is to cause it to occupy a status between the fully human and the merely animal. It is not because
-
-Disgust and Our Animal Bodies
 
 in some intrinsic way Jews were actually or "originally" or "primarily"
 found disgusting that they came to be associated with stereotypes of
@@ -4006,8 +3779,6 @@ core of disgust. While it might have been some minority other than
 the Jews who could have been viewed as slimy and smelly, it is no accident that women are so viewed more or less ubiquitously, because
 males are disturbed by birth and especially by their own sexuality
 
-Chapter 2
-
 and bodily fluids. Miller argues that men find semen both distressing
 and deeply disgusting: thus, any being who receives it is contaminated.
 Following Freud, he then argues that men will always have great difficulty seeing their sex object as anything but debased, and will tend
@@ -4034,8 +3805,6 @@ male projects of contemplation and detachment, and revulsion at
 her animality is thus closely linked to rage and hatred. Weininger developed such ideas in elaborate detail, arguing that woman, unlike
 man, is entirely sex and sexual, and that she is in effect the man's animality, from which he unevenly tries to distance himself, with reactions of both disgust and guilt: "Woman alone, then, is guilt; and is
 so through man's fault. . . . She is only a part of man, his other, ineradicable, his lower part."105 Because the Jew is a woman, and disgusting
-
-Disgust and Our Animal Bodies
 
 in the way that women are disgusting, Jewish women, according to
 Weininger, are doubly disgusting, hyperanimal beings who exercise
@@ -4072,8 +3841,6 @@ and this is why the male homosexual is both regarded with disgust
 and viewed with fear as a predator who might make everyone else
 disgusting. The very look of such a male is itself contaminating—as
 
-Chapter 2
-
 we see in the extraordinary debates about showers in the military.
 The gaze of a homosexual male is seen as contaminating because it
 says, "You can be penetrated." And this means that you can be made
@@ -4102,8 +3869,6 @@ male.110 Pamphlets circulated during the rioting obsessively develop
 this sexual imagery, and imagine retaliation against the bodies of
 Muslim men and women in terms of a violation of their sexual parts
 (anus and vagina) by fire and metal objects. These tortures were enacted on the bodies of women, who were gang-raped, tortured with
-
-Disgust and Our Animal Bodies
 
 large metal objects inserted into their vaginas, and then burned
 alive.111 This example, like so many others, clearly shows the connection between disgust and a type of aggression whose animating
@@ -4136,8 +3901,6 @@ water in which he might immerse his wiping sponge. Romans in
 major cities all had copious running water carried by aquifers whose
 engineering was remarkable, and the system separated water used
 for cooking and drinking from water used for toilet-flushing.113 Both
-
-Chapter 2
 
 at home and abroad, baths of many kinds were widely available, and
 the average level of bodily cleanliness, to judge from documentary
@@ -4172,8 +3935,6 @@ rather than on the symbolic relationship an object bears to anxieties
 about animality and mortality. Thus the Indian caste system was less
 civilized than the behavior of Mahatma Gandhi, who cleaned latrines
 in order to indicate that we share a human dignity that is not polluted by these menial functions.114 Similarly, the behavior of D. H.
-
-Disgust and Our Animal Bodies
 
 Lawrence's character Mellors to Lady Chatterley is much more civilized than the behavior of all the upper-class men around her. They
 evince disgust at her body and its secretions; Mellors tells her that he
@@ -4214,8 +3975,6 @@ undoing of disgust at the parts of bodies that we typically find problematic: he
 he enumerates the parts of the body from top to bottom, outside to
 in, depicting them all as parts of the soul, as clean and beautiful, to
 
-Chapter 2
-
 be encountered with "the curious sympathy one feels when feeling
 with the hand the naked meat of the body." Curious sympathy takes
 the place of disgust, and the traversal of the body triumphantly ends:
@@ -4255,8 +4014,6 @@ of political equality:
 Twenty-eight young men bathe by the shore,
 Twenty-eight young men and all so friendly;
 Twenty-eight years of womanly life and all so lonesome.
-
-Disgust and Our Animal Bodies
 
 She owns the fine house by the rise of the bank,
 She hides handsome and richly drest aft the blinds of the window.
@@ -4306,8 +4063,6 @@ of the male body, Whitman also refers to the exclusion of the male
 homosexual, whose desire for the bodies of young men must be concealed even more than must female desire. The easy joy of these
 young men depends on their not knowing who is watching them
 
-Chapter 2
-
 with sexual longing; and this is true of the situation of the homosexual male in society, at least as much as it is of the black man gazing
 erotically at the white woman, or the female gazing erotically at the
 male. As he says in "Here the Frailest Leaves of Me," from Calamus:
@@ -4344,8 +4099,6 @@ sets the America of the poet's imagination, healed of disgust's selfavoidance an
 Whitman's America is a fiction. No real society has triumphed
 over disgust in the way depicted here. Nor should we hastily con-
 
-Disgust and Our Animal Bodies
-
 clude that such a society is even an ideal norm we should endorse.
 Should human beings really try to rid themselves of disgust insofar as
 they possibly can, in every aspect of the fabric of our lives? Several
@@ -4378,8 +4131,6 @@ that mysterious or weird or terrifying would be to become some kind
 of subhuman or inhuman being, and it would also be to forfeit, very
 likely, some of the value and beauty of human life. At least we don't
 see clearly that it would not have this effect. If, however, the complex
-
-Chapter 2
 
 struggle we currently wage with mortality has disgust as its corollary,
 we should not expect to dismiss disgust utterly from our lives.
@@ -4419,8 +4170,6 @@ very seriously.
 
 What claim is made by disgust? In the case we are envisaging,
 where disgust is used as a criterion to support the prohibition of
-
-Disgust and Our Animal Bodies
 
 harmless acts, the claim appears to be: "This act (or, more often and
 usually inseparably, this person) is a contaminant; it (he or she) pollutes our community. We would be better off if this contamination
@@ -4477,8 +4226,6 @@ sanctity of private property.
 
 —Early review of Walt Whitman's Leaves of Grass
 
-Disgust and the Law
-
 I. Disgust as Offense,
 Disgust as Criterion
 
@@ -4509,8 +4256,6 @@ conduct: thus a person may feel damaged by an attempted homosexual seduction bec
 prohibition of sodomy. Similarly, the reading of offensive material
 often causes actual offense, even though obscenity law uses the hypothetical standard of an average or reasonable man to calibrate the
 offensiveness of the questionable material. Public nudity is a particularly difficult case: it seems possible to maintain that it causes harm,
-
-Chapter 3
 
 at least to children, but it is also possible to maintain that the person
 feels harmed only because of what they imagine. (Because this case
@@ -4545,8 +4290,6 @@ has committed a violent crime? As we saw in chapter 1, the defense
 of "reasonable provocation" appeals to the emotion of the offender
 in order to argue for a reduction in level of homicide from murder
 to voluntary manslaughter.1 Usually, however, the emotional state in-
-
-Disgust and the Law
 
 voked is anger, and the anger involved has to be of a very specific
 sort, pertaining to a serious wrong or aggression committed by the
@@ -4584,8 +4327,6 @@ provocation defense.
 There would appear to be argument on both sides of this question. On the one hand, disgust is a very strong response, and being
 disgusted can in some cases be a kind of harm, analogous to an assault or aggression. One's body feels invaded or contaminated by the
 
-Chapter 3
-
 disgusting object. Thus in nuisance law, as we shall later see in more
 detail, putting disgusting smells in another person's way can be an
 actionable offense on the grounds that it spoils their enjoyment of
@@ -4617,8 +4358,6 @@ make the presence of an overflowing stinking toilet nondisgusting.
 Even if disgust at feces does have to be learned, it is a universal property in all known societies, and it is a reasonable response to unpleasant sensory properties and/or dangers posed by feces. Disgust
 at unpopular groups, by contrast, is mediated by magical thinking
 about contamination and purity, and, as we have seen, usually in-
-
-Disgust and the Law
 
 volves the projection onto the group in question of characteristics
 that do not belong to those human beings any more than to other
@@ -4656,8 +4395,6 @@ aggressive act unquestionably and irrevocably a part of the person's
 life, as when someone has raped the defendant's child. (Compare
 the role of inevitability in self-defense, where there is frequently a
 
-Chapter 3
-
 duty to retreat if retreat is possible, the salient exception, as we saw
 in chapter 1, being one's own home.) Thus, even if a person has actual distaste-properties—for example, the person is smeared in urine
 and filth—it is usually possible to get out of the person's way.
@@ -4685,8 +4422,6 @@ an unlawful killing . . . from murder to voluntary manslaughter. . . .
 A reasonable person would simply have discontinued his observation and left the scene; he would not kill the lovers."5 Carr's disgust
 was inadmissible as a matter of law because it did not fulfill the legal
 requirement of harmful and aggressive action.
-
-Disgust and the Law
 
 Returning to our three distinctions, we notice that Carr's disgust
 was of the purely constructive kind: no distaste-properties belonging
@@ -4723,8 +4458,6 @@ broke and with no place to stay.8 They planned to pose as gay prostitutes, pick 
 Traetow. Some hours later Traetow was found shot dead in his own
 apartment; his hands and legs had been taped. Volk's thumbprint
 
-Chapter 3
-
 was on a broken vodka bottle on the floor. Volk admitted being present at the scene, and at least being an accomplice in the homicide
 (although there remained a disagreement between Volk and Hamilton as to which of them actually shot Traetow). His story was that
 when Traetow made a homosexual advance, he was "revolted" and
@@ -4757,8 +4490,6 @@ a ride home with another man, the victim. Together they drove
 around looking for women for sex. After a while the young man
 asked, "Where can I get a blow job?" The victim replied, "I can handle that." They drove around some more, then went to a baseball
 field at a local school. The victim pulled down his pants, but the
-
-Disgust and the Law
 
 young man kicked him and stomped on him, took his money, and
 left him to die on the baseball field.11 Before leaving he carefully
@@ -4793,8 +4524,6 @@ be: society has wisely recognized, for the most part, that people's disgust is t
 Mison concludes, "[a] murderous personal reacton toward gay men
 should be considered an irrational and idiosyncratic characteristic
 
-Chapter 3
-
 of the defendant and should not be allowed to bolster the alleged
 reasonableness of the defendant's act."15 Because the "reasonable
 man" is not simply the average man, but a normative social ideal, we
@@ -4824,8 +4553,6 @@ who might actually like it. Usually the exercise is purely hypothetical:
 the "man on the Clapham omnibus" is imagined as not at all the sort
 of man who goes looking for pornographic films, or acts of sodomy
 and necrophilia. But his respectable reaction, rather than the reac-
-
-Disgust and the Law
 
 tions of those who actually do seek out such materials or acts, is
 thought a reliable index of what should be legally permitted.
@@ -4862,8 +4589,6 @@ defined" as "pornography" and "pornographic materials." In other
 words, the concept of the "obscene" now undergoes further refinement and analysis via the concept of the "pornographic."21 The etymology of "pornography" from the Greek term for "harlot," or
 female "whore," is now discussed, and pornography is defined (via
 
-Chapter 3
-
 Webster's dictionary) as "a depiction of licentiousness or lewdness: a
 portrayal of erotic behavior designed to cause sexual excitement."
 
@@ -4895,8 +4620,6 @@ to the conclusion that the most offensive material has constitutional
 protection while less offensive material does not.23
 
 In other words, when the averagely arousing and the averagely disgusting point in different directions, the disgusting takes precedence for purposes of interpreting the Miller standard: for surely
-
-Disgust and the Law
 
 the worse cannot get more protection than the less bad, and the
 disgusting is surely worse than the merely arousing.
@@ -4930,8 +4653,6 @@ of vice are canalized in its flow of unimaginable thoughts, images and
 pornographic words. And its unclean lunacies are larded with appalling and revolting blasphemies directed against the Christian religion and against the holy name of Christ—blasphemies hitherto
 associated with the most degraded orgies of Satanism and the Black
 Mass.25
-
-Chapter 3
 
 The attack on the novel focused on Molly Bloom's monologue,
 whose frank depiction of a woman's nonmarital sexual desires—
@@ -4967,8 +4688,6 @@ then we have reason to fear that loathing of sexuality and animality
 may render unreliable many judgments that are made about works
 of art. Any society that pursues sex equality should be deeply skeptical of this conceptual nexus, and protective of works that seek to separate the arousing from the disgusting. (It should also be protective
 
-Disgust and the Law
-
 of works, like those of contemporary performance artist Karen Finley, that explore critically the conceptual nexus between the arousing and the disgusting.) Were it true that the "average man" feels
 disgust at such works, a society committed to equality should worry
 about the "average man" and his education, rather than about the
@@ -4998,8 +4717,6 @@ that directly conflicts with ideas of equal worth and equal protection
 that are basic to a liberal social order. But of course this feminist
 concept of the pornographic as the subordinating is profoundly at
 odds with the legal concept of the obscene. It doesn't just reorient
-
-Chapter 3
 
 "our" thought, it implicitly shows up the misogyny inherent in "our"
 previous thought.
@@ -5036,8 +4753,6 @@ models who have suffered abuse in the making of pornography, and
 women abused by men who were turned on by, or who were copying
 the scenarios depicted in, pornography. Such women can of course al-
 
-Disgust and the Law
-
 ready bring criminal charges against their abusers, but the MacKinnon-
 Dworkin ordinance allows them to sue for damages the makers and
 distributors of the pornographic materials, and also to get an injunction against them. The injunction would result in suppression of some
@@ -5073,8 +4788,6 @@ The progressive pro-disgust position must now be heard, however.
 Dan M. Kahan's position would surely be that disgust has a valuable
 role to play even in this revised feminist program of scrutiny. Let us
 
-Chapter 3
-
 consider a case in which the pornographic materials in question are
 patently offensive to feminists and an assault on women's equality.
 We might call them "disgusting," using the term in the richer moral
@@ -5105,8 +4818,6 @@ statements of fact and privileged statements of opinion. What interests me is a 
 obscenity. The court's conclusion is that the materials in question involve political speech and thus cannot be obscene under the Miller
 test: "Because the Features expressed opinions about matters of public concern, they did not lack 'serious literary, artistic, political, or
 scientific value.' It follows that they are not obscene." Again, I shall
-
-Disgust and the Law
 
 leave to one side, for purposes of my argument here, the question of
 whether this claim of political value is plausible.
@@ -5139,8 +4850,6 @@ In addition to the sheer irrelevance of the issue of contamination,
 there is another issue: what is the disgust really about, and what sentiments, more precisely, does it express? What is found disgusting
 by Judge Hall, it would seem, is the physical grossness of what is
 depicted—both the grossness of the men's depicted behavior and, I
-
-Chapter 3
 
 cannot help thinking, the grossness of the image of Andrea Dworkin's
 mother so displayed. Hustler is disgusting, in short, because it shows
@@ -5176,8 +4885,6 @@ begin with, the relevant section of the criminal code, which used to
 be called "Offenses against Morality" (Straftaten wider die Sittlichkeit),
 is now called "Offenses against Sexual Autonomy." And the analytical focus has correspondingly shifted, from concern with community
 
-Disgust and the Law
-
 morality to a concern with offense against the dignity of individuals.36 There are many interesting consequences of this redirection of
 emphasis, especially in areas such as rape, prostitution, and child
 abuse. But to focus on the immediate topic, the 1973 reform legalized the distribution of pornography among adults, focusing on restricting its distribution to children and the use of children in it.
@@ -5207,8 +4914,6 @@ and not a subjective matter, and cannot be alienated at will.40
 I do not wish to defend everything in this judgment: in particular,
 the distinction the Court draws between striptease and the peep
 show is too quick, I believe, nor does the Court reflect convincingly
-
-Chapter 3
 
 about the extent to which a liberal society should permit people to
 choose potentially degrading activities. I would be inclined to consider the model's decision protected from legal penalty, whether or
@@ -5241,8 +4946,6 @@ advanced liberal democracies today.
 
 Whatever legal response we prefer to the dilemmas posed by violent sexist pornography, we ought to recognize that the issue it raises
 
-Disgust and the Law
-
 is not that of sexual explicitness merely, and the alleged disgusting
 excitingness of that. Indeed, it would appear that disgust has nothing to do with the matter. To violations of the equality of a fellow
 citizen, the appropriate response is anger, not disgust. Kahan's progressive pro-disgust argument appears to hold that this anger is too
@@ -5273,8 +4976,6 @@ community. It shows us what we have to throw out if we want our
 community to survive.
 
 As I have argued, it is not easy to tell exactly how the community is thought to be threatened by disgust-inspiring conduct. Devlin
-
-Chapter 3
 
 contends that there is a strong correlation between what the "reasonable man" finds disgusting and a type of "debauchery" so extreme
 that it marks incapacity to serve as a citizen. But this contention is
@@ -5311,8 +5012,6 @@ Let us first consider sodomy laws. U.S. law retains a large number
 of laws against various types of consensual sexual relations, including
 adultery, fornication, and same-sex acts.44 Sodomy is sometimes de-
 
-Disgust and the Law
-
 fined by reference to the same-sex nature of the act. Sometimes, instead, it is defined by reference to a type of sexual act, usually including all oral-genital and genital-anal conduct. This second type of
 sodomy law is neutral in appearance, applying to opposite-sex and
 same-sex acts alike. In Bowers v. Hardwick, however, the heterosexual
@@ -5345,8 +5044,6 @@ sentiment in areas touching on personal conduct of a deeply meaningful kind, whe
 muster some votes against it will seem insufficient. We need to have
 a stronger argument about what is really bad and damaging.
 
-Chapter 3
-
 So: what have defenders of sodomy laws had to say about the badness of sodomy that would be persuasive? Devlin appeals to the need
 to have a country that can fight a war. But by now we are well aware
 that gays and lesbians have been excellent soldiers in many fine
@@ -5378,8 +5075,6 @@ Amendment 2 proved unable to offer convincing evidence even of the
 sort of self-harm that Mill considered an inappropriately paternalistic basis for legal regulation. The psychiatric profession has long since
 agreed that homosexuality is not a mental illness, and no evidence
 produced convincingly showed any other sort of self-harm.50 All that
-
-Disgust and the Law
 
 the proponents of the amendment really seemed to offer was disgust, and their reluctance to argue on this basis suggests that they
 themselves recognized that disgust is a weak thread on which to
@@ -5417,8 +5112,6 @@ need not be addressed as if they were people. (At the conclusion of the
 speech, Wilde called out, "And I? May I say nothing, my lord?" His
 lordship made no reply, simply gesturing to the warders to remove
 
-Chapter 3
-
 the prisoners.) At the same time, however, Mr. Justice Wills appeals
 to public reason by claiming that he has combined judicial impartiality with "the utmost sense of indignation at the horrible charges
 brought home to both of you." The Justice tries to lay claim to the
@@ -5452,8 +5145,6 @@ two slimy slugs whose type ought to be squashed before they insinuate themselves
 Sodomy laws, the traditional focus of disgust-based lawmaking,
 thus do not stand up to serious scrutiny. Typically even their proponents have felt that disgust is too thin a basis for them to rest on, and
 have sought to introduce other more plausible, harm-based grounds.
-
-Disgust and the Law
 
 When these collapse and the naked disgust is exposed, however, the
 sentiment seems extraordinarily capricious, linked to superstitions
@@ -5490,8 +5181,6 @@ in a way that closely follows the political liberalism of John Rawls,
 which I have been defending throughout my argument. Recognizing that the religious condemnations of homosexuality are, for many
 citizens, "not trivial concerns but profound and deep convictions
 
-Chapter 3
-
 accepted as ethical and moral principles to which they aspire and
 which thus determine the course of their lives," the Court then distinguishes between these "comprehensive conceptions of the good"
 (to use Rawls's phrase) and the political principles that may be the
@@ -5527,8 +5216,6 @@ victim, except in cases where the defendant mistakenly believes the
 person to be alive at the time of rape; even in alleged felony murders
 in which the murder is a prelude to a desired act of necrophilia, it
 
-Disgust and the Law
-
 has standardly been held that the defendant can be convicted only
 of attempted rape, not rape.58 Necrophilia in which the perpetrator
 is not involved in the victim's death appears to be legally unprovided
@@ -5561,8 +5248,6 @@ crime, because they express a disregard for religious meanings that
 we have agreed, as a society, to protect. Even when they do not have
 such meanings, they may have emotional meanings that are especially central to the survivors. Necrophilia is especially horrible and
 outrageous to many people because we feel that use of these religiously charged objects for sexual purposes involves an especially
-
-Chapter 3
 
 deep profanation of their religious or emotional meaning (like the
 sexual profanation of a religious sanctuary).
@@ -5600,8 +5285,6 @@ justify some criminal penalties in the cases where property violations
 occur—including penalties that define necrophiliac violations as
 somewhat more severe than other forms of corpse desecration and
 
-Disgust and the Law
-
 vandalism of tombs. In other cases, the absence of consent is itself
 troubling, but it is unclear that it suffices to justify criminalization. In
 any case, necrophilia is altogether different from all the consensual
@@ -5632,8 +5315,6 @@ to contemplate are contained in our response of outrage. It is the
 wrong done to people, not the sense we have that we are contaminated by vile sexual practices, that explains the legitimacy of some
 criminal penalties. Indeed, the immediate reaction of disgust at
 necrophilia tends to blur the issue, making us treat all cases as similar,
-
-Chapter 3
 
 when there seem to be crucial differences. Focusing on wrongs seems
 both more pertinent and more reliable than the focus on disgust,
@@ -5667,8 +5348,6 @@ other words, we are not on the terrain where B is upset and disgusted
 because he imagines A doing something on A's own property. Something real and definite has been inflicted upon B by A. Moreover,
 insofar as disgust is involved, the categories all involve disgust at
 
-Disgust and the Law
-
 "primary objects," frequently combined with real danger ("noxious
 vapors").
 
@@ -5697,8 +5376,6 @@ citation is a text on nuisances by Wood, which states:
 
 But in reference to [water rights], as with the air, it is not every interference with the water that imparts impurities thereto, that is actionable, but only such as impart to the water such impurities as
 substantially impair its value for the ordinary purposes of life, and render it measurably unfit for domestic purposes; or such as causes unwholesome or offensive vapors or odors to arise from the water, and
-
-Chapter 3
 
 thus impairs the comfortable or beneficial enjoyment of property in
 its vicinity, or such as, while producing no actual sensible effect upon
@@ -5729,8 +5406,6 @@ have held that view. The cases in which an extension is permitted are
 cases squarely within the primary-objects limitation: corpses and feces
 are paradigmatic of the primary objects of disgust. So the small ex-
 
-Disgust and the Law
-
 tension does not seem to be a major theoretical shift in the direction
 of admitting "merely constructive" nuisances.
 
@@ -5759,8 +5434,6 @@ on sensory disruption, danger to health, and a few cases of powerful
 ideational disgust directed at primary objects and in ways that lie
 very close to both distaste and danger. All use of disgust based on
 group prejudice or magical thinking must be utterly rejected as a
-
-Chapter 3
 
 basis for legal regulation or legal action, even in the areas of zoning
 and housing.
@@ -5792,8 +5465,6 @@ neighbors in question are eating meat from animals that have been
 raised, as most animals in the food industry are, in cruel and revolting conditions. At this point, in our own society, vegetarianism is
 treated as similar to religion: it is but one of the many comprehensive doctrines of the good that citizens rightly hold. At this point,
 then, the vegetarian's disgust at the veal roast next door gets treatment that is no different from the Jewish neighbor's disgust at a pork
-
-Disgust and the Law
 
 roast next door. It seems to me, however, that the cases are actually
 different, and may come to be recognized as such. The vegetarian's
@@ -5828,8 +5499,6 @@ pertinent to the type of progressive pro-disgust argument advanced
 by Dan M. Kahan, and a linchpin of his analysis. These are cases
 in which a jury is asked to consult reactions of disgust in order to
 
-Chapter 3
-
 determine whether a homicide is "especially heinous, atrocious, or
 cruel," a determination that many state statutes make relevant to the
 potential applicability of the death penalty.72 A salient example is a
@@ -5860,8 +5529,6 @@ holdup will ordinarily be found very bad, but rarely disgusting. On
 the other hand, some murders that seem disgusting to at least many
 jurors may not involve constitutionally defined aggravating circumstances: the Court is surely right that many jurors will react with dis-
 
-Disgust and the Law
-
 gust to many, if not all, murders, when bloody or gory circumstances
 are precisely described. Bloodiness and goriness are the usual elicitors of disgust, but many especially vile murders lack these features,
 and many murders that have these features are vile only in the sense
@@ -5891,8 +5558,6 @@ and inhumanity of the person's deeds. Perhaps this difficulty can be
 solved, but it needs to be squarely faced. Disgust, far from shoring up
 the moral borders of our community, may actually make them harder
 to police.79
-
-Chapter 3
 
 Notice that this problem is directly linked to the cognitive content
 of disgust in a way that it is not associated with the cognitive content
@@ -5927,8 +5592,6 @@ book argues that the Germany that produced the Nazis was sui
 generis, a "radically different culture" to be viewed "with the critical
 eye of an anthropologist disembarking on unknown shores."85 These
 
-Disgust and the Law
-
 people were not made by factors that can easily be replicated in other
 times and places, and they are not acting out deeply shared human
 capacities for destruction. They are unique disgusting monsters. We
@@ -5960,8 +5623,6 @@ cause evil, and that sort of evil could only happen over there.88
 I believe that a similar thing happens when, as jurors or as spectators, we are urged to react with disgust at the criminal acts of a murderer. We are urged to see that person as a monster, outside the
 boundaries of our moral universe. We are urged precisely not to have
 
-Chapter 3
-
 the thought, "there, but for . . . go I." But in reality, it seems likely
 that all human beings are capable of evil, and that many, if not most,
 of the hideous evildoers are warped by circumstances, both social
@@ -5990,8 +5651,6 @@ prison without parole. While in prison, Beldotti requested that the
 dildoes, photos of the victim, the trash bags in which she had been
 placed, and other sexual paraphernalia be returned to his representatives outside prison. The state opposed this request, arguing that
 giving these items back, even if not to Beldotti himself, would "justifiably spark outrage, disgust, and incredulity on the part of the general public." They urged that the property be put in the trash, and
-
-Disgust and the Law
 
 the Massachusetts Court of Appeals agreed, concluding that returning the property would be "offensive to basic concepts of decency
 treasured in a civilized society."
@@ -6026,8 +5685,6 @@ and contamination. But surely the first and third responses are also
 highly significant, and they go closely together. Outrage expresses
 the idea that it is unreasonable and wrong to reward Beldotti in just
 
-Chapter 3
-
 that area where he should be most severely punished. Such a reward
 would not only be astonishing—the response of "incredulity"—it
 would be a profound injury and disrespect to the dead, to anyone
@@ -6060,8 +5717,6 @@ would just see it as lunatic pathology. But they don't: they know he is
 a human being with recognizable rationality, and that is why the
 right response to the request is anger. Disgust is there, but it is in
 
-Disgust and the Law
-
 considerable tension with outrage and incredulity. I suggest that the
 judgment in the case followed, rightly, the moral sentiment of outrage and indignation, which is much easier to square with treating
 Beldotti as a sane and responsible agent.
@@ -6084,8 +5739,6 @@ our legal world on the vision of human beings that it contains.
 Chapter 4
 
 Inscribing the Face:
-
-Shame and Stigma
 
 If someone has been condemned to a gladiatorial school or
 to the mines for the crimes he has been caught committing,
@@ -6112,8 +5765,6 @@ endure the new state of things for long, that we periodically
 revert from it, in our sleep, to our former condition of absence of stimulation and avoidance of objects.
 
 —Sigmund Freud, Group Psychology and the Analysis of the Ego
-
-Shame and Stigma
 
 I. The Blushing Face
 
@@ -6148,8 +5799,6 @@ awareness of finitude, partiality, and frequent helplessness. Shame
 therefore cuts beneath any specific social orientation to norms, and
 serves as a highly volatile way in which human beings negotiate some
 
-Chapter 4
-
 tensions inherent in their humanness—in, that is, their awareness of
 themselves as beings both finite and marked by exorbitant demands
 and expectations. (To that extent, though not in other ways, I shall
@@ -6183,8 +5832,6 @@ minorities. Even where malefactors are concerned, these thinkers
 typically hold that, while punishments must be meted out for reasons including both the deterrent and the retributive, a concern
 with the dignity of the offender should always be solidly built into
 
-Shame and Stigma
-
 the system of punishment, and, with it, the idea of eventual reintegration of the offender into society. This first view is supported by
 numerous writers about the legal rights of people with disabilities, including Michael Bérubé and Martha Minow.4 We also find it
 in some recent writings on punishment, including studies of European punishment by James Whitman and more general writings
@@ -6216,8 +5863,6 @@ the offender. He thinks of the view as a progressive view, and is able
 to sell it that way to some extent, in part because he dwells on examples
 in which the humiliated person is a powerful person. (He particularly
 
-Chapter 4
-
 likes a punishment ordered by the city of Hoboken, New Jersey, in
 which businessmen who urinate in public have to scrub the street
 clean with a toothbrush.)9
@@ -6247,8 +5892,6 @@ of people with disabilities, particularly in the area of education. As I
 confront these issues, I will argue that modern liberal societies can
 make an adequate response to the phenomena of shame only if they
 shift away from a very common intuitive idea of the normal citizen
-
-Shame and Stigma
 
 that has been bequeathed to us by the social-contract tradition so influential in the history of European thought: the image of the citizen
 as a productive worker, able to pay for the benefits he receives by the
@@ -6282,8 +5925,6 @@ weak and very powerless toward things of the greatest importance.
 Freud, noting the same facts, comments that "we cannot endure the
 new state of things for long, [so] that we periodically revert from it,
 
-Chapter 4
-
 in our sleep, to our former condition of absence of stimulation and
 avoidance of objects."14
 
@@ -6313,8 +5954,6 @@ in sudden penetrations of light and joy.
 Consider a myth that plays a central role in ancient accounts of
 emotion. It is, I think, best seen as an imaginative attempt to recreate this world of infancy. This is the well-known story of the Golden
 Age—an age in which people do not have to do anything for them-
-
-Shame and Stigma
 
 selves, to labor, to act, to move here and there. For the earth itself
 brings forth nourishment exactly where they are. Rivers of milk and
@@ -6347,8 +5986,6 @@ the world of childhood with enormous insight, as Proust most surely
 does. More recently, however, there has been a valuable interchange
 between experimentalists and analysts, and some of the leading theorists of infancy today, such as Daniel Stern and Margaret Mahler,
 are both.18 (Moreover, like Winnicott, who was a pediatrician as well
-
-Chapter 4
 
 as an analyst, Mahler and Stern study a wide range of children, not
 all afflicted with obvious disturbances; thus their work, like Winnicott's, has a clearer relevance to common familial and social issues.)
@@ -6384,8 +6021,6 @@ At this point in an infant's development it begins to be plausible
 to ascribe to it some rudimentary emotions: of fear when hunger
 strikes and relief is not in sight; of love for the source of food and
 
-Shame and Stigma
-
 comfort. These emotions, unlike adult emotions, are not addressed
 to a fully distinct object, and thus the emotion itself is fuzzy and indistinct. It may, however, still be extremely powerful. As the infant
 begins to recognize a routine of regularities in its feeding and holding, it also develops a rudimentary conception of itself as the center
@@ -6416,8 +6051,6 @@ and their absence have an external source guarantees the presence
 of both love and anger, and guarantees their close interrelationship.
 Thus, Bowlby argues, on the basis of both experimental and clinical
 work, that all attachment-love is fundamentally ambivalent. In a way
-
-Chapter 4
 
 that is reminiscent of Spinoza's perceptive philosophical account of
 emotions, he argues that love and anger always occur together in the
@@ -6450,8 +6083,6 @@ sources of nutrition and comfort and the beginning of a needy life.
 Thus Aristophanes portrays shame as a painful emotion grounded
 in the recognition of our own non-omnipotence and lack of control,
 and he suggests that a memory or vestigial sense of an original om-
-
-Shame and Stigma
 
 nipotence and completeness underlies the painful emotion as it manifests itself in life. We sense that we ought to be whole, and maybe
 once were whole—and we know that we now are not. We sense that
@@ -6491,8 +6122,6 @@ archaic. One may have a kind of rudimentary fear, for example, even
 before being securely aware of the distinctness of one's own body
 from the caretaker's body, and I have suggested that young infants
 
-Chapter 4
-
 do have such rudimentary emotions. Nonetheless, shame does require
 at least an incipient sense of one's own being, and an incipient sense
 of the distinctness of the helpless being that one is from the sources
@@ -6523,8 +6152,6 @@ rise to a particularly primitive and pervasive type of shame, as the infant enco
 call this "primitive shame."
 
 Andrew Morrison emphasizes the continuous influence of this infantile type of shame, even in later life:
-
-Shame and Stigma
 
 [T]he essence of narcissistic concern is a yearning for absolute uniqueness and sole importance to someone else, a "significant other." This
 yearning . . . is signalled in patients by such statements as, "If I am not
@@ -6561,8 +6188,6 @@ views of what is an appropriate occasion for shame and by linking
 shame differently with other emotions. Once again, Robert Kaster's
 study of Roman pudor shows that it is subtly different, both with respect
 
-Chapter 4
-
 to its objects and with respect to its links to other emotions, from
 similar emotion-types in other cultures.40 In fact, however, the similarities across cultures seem to be great in this case, greater perhaps
 than in the case of disgust, perhaps because shame arrives on the
@@ -6591,8 +6216,6 @@ caretakers or parents makes a great difference in setting the trajectory that th
 this history are described in somewhat different ways by Fairbairn,
 Winnicott, Mahler, and Stern, but it seems possible to describe the
 common ground in all these accounts. Between one and three years
-
-Shame and Stigma
 
 of age, a child ventures out increasingly into the world, experimenting with separation and individuation.45 Often it relies, in crucial
 parts of this period, on "transitional objects"—toys, blankets, other
@@ -6625,8 +6248,6 @@ theme to see how narcissism is overcome in the direction of a relationship of ge
 it. The best account of this particular part of the child's life seems to
 me to be W.R.D. Fairbairn's account of what he calls the "moral defense." The idea is that the child who recognizes that it wishes to
 
-Chapter 4
-
 destroy the parent whom it loves feels threatened with a sense of limitless blackness in itself. It sees that it has badness in itself, and feels
 that perhaps it is all bad. But by now the child is capable, in a rudimentary way, of understanding the distinction between the self and
 its deeds. It can seek atonement for bad acts without feeling altogether lost. Morality comes to the rescue, in the sense that it is able
@@ -6655,8 +6276,6 @@ guilt. And yet, the mark of early narcissism on human life is deep.
 Proust holds that it can never be overcome, and that all later love is
 essentially an attempt to control the mother who refused to be controlled. This is too pessimistic, but the idea that reciprocity is the stable
 human norm and that most people come to accept their incompleteness, lack of control, and mortality is much too optimistic. After
-
-Shame and Stigma
 
 all, it is just bad not to be able to have what one wants and thinks one
 ought to have, especially immortality; much of human life is caught
@@ -6687,8 +6306,6 @@ himself to be a needy child. Because his mother wanted perfection
 not allow himself to be dependent on, or to trust, anyone. "Imperfect for me means being rejected," he finally tells Winnicott. And
 then: "I feel that you are introducing a big problem. I never became
 
-Chapter 4
-
 human. I have missed it."53 Signs of humanness were rejected by his
 mother, who, because of her own anxiety, was pleased only by a
 quiet, perfect baby. Already in the first months, then, the character
@@ -6717,8 +6334,6 @@ aware of the idea of a subtle interchange because I recognize that I
 have been looking for just something like that, without really knowing it." Winnicott points out that he has just been achieving it: "We
 are both engaged in this matter of subtle interplay. I think that the
 experience of subtle interplay is pleasurable to you because you are
-
-Shame and Stigma
 
 so vividly aware of hopelessness in this respect." The patient responds: "I would go so far as to say that it is exciting." Love, concludes
 Winnicott, means many things, "but it has to include this experience
@@ -6754,8 +6369,6 @@ in which the omnipotent self looks at the pathetic childish self.60 B's
 rigidity, his unwillingness to express himself, are attempts to maintain omnipotent control over his inner reality, so that he need not
 feel the shame of allowing his needy dependent self to manifest itself, even when no others are present. Sleep was a defense against
 
-Chapter 4
-
 anger, but it was also the reflex chosen by his shame lest some human
 part of himself be revealed. A baby asleep is a good and perfect baby,
 and this is what his mother had wanted. Shame, then, causes the real
@@ -6782,8 +6395,6 @@ shame. What my account suggests, however, is that the primitive type
 of shame is very likely to be an ongoing danger in the moral and social life, especially for someone whose development, like B's, has
 been skewed in the direction of pathological narcissism, but to some
 extent for us all. Thus primitive shame and the aggression that accompanies its narcissism may lurk behind a more acceptable form of
-
-Shame and Stigma
 
 shame, and may manifest itself in many forms, among them being
 the shaming of others.
@@ -6819,8 +6430,6 @@ more out of step with the controlling adult self who appears. "Thus,"
 as Andrew Morrison puts it, "shame and narcissism inform each
 other, as the self is experienced, first, alone, separate, and small,
 
-Chapter 4
-
 and, again, grandiosely, striving to be perfect and reunited with its
 ideal."67
 
@@ -6851,8 +6460,6 @@ healthy person, however, the false self plays only a limited role: it is
 "the polite and mannered social attitude, a 'not wearing the heart on
 the sleeve,'" a kind of protection we wear when we don't want the
 general public to see all our fears, needs, and vulnerabilities. In
-
-Shame and Stigma
 
 other words, it is a defense against a reasonable and limited type of
 social shame. The person is well aware that there is a vulnerable nonomnipotent self within, and is able to take pleasure in that self, and
@@ -6886,8 +6493,6 @@ Kernberg notes the importance of the fact that these insights came
 to the patient via a previously scorned form of writing. Apparently what
 was important about the story was both its form—appealing to the
 inner world of imagination and activating powerful emotions—and
-
-Chapter 4
 
 its specific content, addressing issues of need, emotional deadness,
 and inner vitality in a way that supported the patient's own search for
@@ -6924,8 +6529,6 @@ What we also find in the evidence for Mill's childhood, and in
 parts of the Autobiography that he was persuaded not to publish, is
 that he never received very successful or stable care for the vulnera-
 
-Shame and Stigma
-
 ble and needy parts of his personality. Mill's mother was evidently a
 woman of no marked intellectual interests or accomplishments, and
 she soon became very exhausted by bearing so many children. For
@@ -6958,8 +6561,6 @@ and made them feel that he would be everything to them—would supply the place 
 and its feelings came over me, and I was moved to tears. From this moment my burthen grew lighter. The oppression of the thought that all
 feeling was dead within me, was gone. I was no longer hopeless: I was
 not a stock or a stone.77
-
-Chapter 4
 
 The crisis gradually lifts, and Mill finds great sustenance in Wordsworth's poetry. He returns to society. Several years later, after several
 unproductive infatuations with women of artistic and poetic tastes,
@@ -6996,8 +6597,6 @@ In part, as the Autobiography makes clear, Mill's wish for care is fulfilled by 
 for, nourish, and value the previously hidden aspects of himself.79 He
 turns to Wordsworth's poetry as his ally in the enterprise of further
 
-Shame and Stigma
-
 cultivating the needy parts of himself. (Not very long after this, in his
 wonderful essay on Bentham, he characterizes Bentham as a child
 who had never learned how to cultivate his human feelings or appreciate poetry.)80 In part, too, he shortly discovers in Harriet Taylor—as her letters show, an extremely emotional person and very
@@ -7032,8 +6631,6 @@ narcissistic fantasies of their own:
 The child shall have a better time than his parents; he shall not be
 subject to the necessities which they have recognized as paramount in
 
-Chapter 4
-
 life. Illness, death, renunciation of enjoyment, restrictions on his own
 will, shall not touch him; the laws of nature and of society shall be abrogated in his favour; he shall once more really be the centre and core
 of creation—"His Majesty the Baby", as we once fancied ourselves. . . .
@@ -7065,8 +6662,6 @@ levels of testosterone before puberty, while aggression levels differ
 greatly. For another, the boys who are most problematically aggressive are often the "losers," not the dominant group, and tend to have
 a lower level of testosterone than those in the dominant group. The
 differences that seem to them most likely to come from biology are
-
-Shame and Stigma
 
 two: boys on the whole learn language skills somewhat later than
 girls, and (young) boys have a greater need to burn off energy in
@@ -7104,8 +6699,6 @@ the inner resources that would enable them to handle such conflicts,
 they often cannot even name their problem. Repeatedly, Kindlon
 and Thompson find that boys who are having problems, whether as
 
-Chapter 4
-
 bullies or as the bullied, cannot answer simple questions about how
 someone else may be feeling. Often they react as if the question comes
 from Mars—and in a sense it does, for it has not been a part of their
@@ -7136,8 +6729,6 @@ about girls, is constructive. These authors identify a set of cultural
 problems, and propose ways of dealing with them. Their proposals
 are not unlike those of Mill—more cultivation of the emotions, more
 
-Shame and Stigma
-
 attention to the world of imagination and to the goal of genuine empathy and understanding, more care for the vulnerable portions of
 the self, ideals that are flexible and individualized rather than inflexible and general. In educational terms, Mill's own prescription is
 confirmed: education needs to focus constantly on the needs and
@@ -7164,8 +6755,6 @@ American understanding, the distinctions in question probably
 occur in some form in many, if not most, cultures. Humiliation I understand to be the active, public face of shame. To humiliate someone is to expose them to shame; and to shame someone is, in most
 cases, to humiliate them (at least if the shaming is severe enough).89
 Of course humiliation does not always lead to actual shame, but that
-
-Chapter 4
 
 is its intent. We may also speak of feelings of humiliation, which will
 be very closely related to feelings of shame, but with the added idea
@@ -7198,8 +6787,6 @@ with a feature of one's social situation, which may be, and often is,
 relatively short-lived, and not closely connected to important personal values. Thus, as Gabriele Taylor puts it, shame is "weightier and
 more shattering," insofar as it pertains to elements of one's aspirations that lie deep.92 Embarrassment, indeed, may not involve a sense
 of defect at all: it may only involve a perception that something is so-
-
-Shame and Stigma
 
 cially out of place, or that one is, without wishing or expecting it,
 suddenly the object of social scrutiny. Thus one may be embarrassed
@@ -7236,8 +6823,6 @@ mental decay.93
 Finally, embarrassment usually comes by surprise and is rarely
 deliberately inflicted. If we imagine the deliberate infliction of
 
-Chapter 4
-
 embarrassment, we are moving toward the universe of humiliation.
 To be seen by strangers while urinating in a public park is usually
 merely embarrassing; to be forced to urinate in public before
@@ -7270,8 +6855,6 @@ different types of goal and ideals, some of them valuable. In that
 sense, it is not inherently self-deceptive, nor does it always express a
 desire to be a sort of being one is not. It often tells us the truth: cer-
 
-Shame and Stigma
-
 tain goals are valuable and we have failed to live up to them. And it
 often expresses a desire to be a type of being that one can be: a good
 human being doing fine things. In that sense, shame should not be
@@ -7303,8 +6886,6 @@ the world of omnipotence. Guilt aims, instead, at a restoration of the
 wholeness of the separate object or person. As Fairbairn eloquently
 argued in his writing on "the moral defense," guilt is thus connected
 
-Chapter 4
-
 to the acceptance of moral demands, and to the limiting of one's
 own demands in favor of the rights of others. And as Melanie Klein
 argues, it is also, for that reason, linked to projects of reparation, in
@@ -7335,8 +6916,6 @@ their role at a pivotal stage of a child's life, shame, with its connection to n
 poses the bigger danger to development. I connect this suggestion
 with the idea that one of development's central tasks is the renunciation of infantile omnipotence and the willingness to live in a world
 of objects. Guilt is an aid in this task because it contains the great les-
-
-Shame and Stigma
 
 son that other people are separate beings with rights, who ought not
 to be harmed; whereas shame threatens to undermine the developmental task entirely, by subordinating others to the needs of the self.
@@ -7372,8 +6951,6 @@ condition. In the case of infants, a culprit is usually ready at hand:
 the caretaker, who is not doing his or her "job" of making the self
 feel powerful and utterly complete. Such attitudes can very easily
 
-Chapter 4
-
 lead to rage in later life since these narcissistic demands are difficult
 to give up, and are rarely given up completely. As Kernberg puts it,
 behind all the strategies of the narcissistic adult lies "the image of a
@@ -7407,8 +6984,6 @@ against minorities that can be plausibly connected to this idea. The
 point brought home again and again in the clinical literature is that
 individuals whose developmental process has not led them out of
 
-Shame and Stigma
-
 narcissism and into a willingness to accept the equal rights of others
 are highly susceptible to such rages, whether individually or in groups.
 Such rages are a danger for any society based on the idea of equal
@@ -7438,8 +7013,6 @@ the working poor in our society, and the fact that we more prosperous people liv
 others," is not the result of this or that bad act by this or that individual. It results from deeply rooted and long-standing patterns of
 thought and commitment in American society: the love of luxury,
 the common resentment of redistributive taxation, the belief that
-
-Chapter 4
 
 the poor cause their poverty, and a lot more. What we need to do is
 not simply to apologize for this or that harmful action, but rather
@@ -7474,8 +7047,6 @@ that is, the reader accepts the book's analysis as correct.
 Moreover, accepting these ideals and feeling shame at their nonrealization in oneself does not reinforce primitive shame; it actively
 works against it. For the person who feels shame is moving out of a
 
-Shame and Stigma
-
 comfortable narcissistic conviction that all is well with her world, and
 is acknowledging the rightful claims of others on her time, her efforts, her money. Instead of going her own way undisturbed, she is
 acknowledging the fact that she has been out of touch with the reality of other peoples' lives, and she is making halting steps to exit
@@ -7506,8 +7077,6 @@ human beings in the community, and related ideas of interdependence and mutual r
 necessary, at least sufficient for an experience of adult shame to be
 a valuable one. To invite another adult to feel such shame seems
 unexceptionable, so long as the invitation, as here, is noninsulting,
-
-Chapter 4
 
 nonhumiliating, and noncoercive. (Often the invitation will be best
 issued by oneself.) This sort of moral shame seems likely to be connected, like guilt, with projects of reintegration and reparation, as
@@ -7540,8 +7109,6 @@ some personal ideal, where that ideal is not part of the shared political cultur
 there are always dangers in telling a friend that you think a part of
 him is defective. Again, it seems wiser to focus on acts, even if they do
 form a pattern that is generally defective.
-
-Shame and Stigma
 
 In the context of a shared enterprise, one might feel shame about
 a pattern of underachievement, which "lets the team down." This
@@ -7577,8 +7144,6 @@ toward people whose ideals one shares and on whose good will one
 has learned to rely, that would be a dangerous sign, itself, of narcissism. Part of being a mature person is to accept one's own moral imperfection, and to recognize that one's efforts toward valuable
 personal ideals (including moral ideals) can always be improved by
 
-Chapter 4
-
 the insights of others. That is one aspect of what "subtle interplay"
 requires: the thought that one might actually stand to gain morally
 from one's interaction with a friend. And part of trusting friends and
@@ -7606,8 +7171,6 @@ even here they may bear subtle messages of narcissistic control that
 belittle the very humanity of the person shamed. As we turn to the
 role of shame in social interaction, we will see reasons to beware these
 pathologies.
-
-Shame and Stigma
 
 VII. Stigma and Brand:
 Shame in Social Life
@@ -7642,8 +7205,6 @@ them. At the heart of the matter is the strange notion of the "normal," with its
 distinct ideas.114 On the one hand, there is the idea of statistical frequency: the normal is the usual, that which most people are or do.
 The opposite of "normal" in that sense is "unusual." On the other
 
-Chapter 4
-
 hand there is the notion of the good or normative: the normal is the
 proper. The opposite of "normal" in this sense is "inappropriate,"
 "bad," "disgraceful." Social notions of stigma and shame typically
@@ -7674,8 +7235,6 @@ that there are many ways in which we fail to measure up to the exorbitant demand
 good, because we retain our nostalgic longing for the bliss of infantile oneness with the womb or the breast, we need a surrogate kind
 of safety or completeness. And those who call themselves "normals"
 find this safety in the idea of a group that is both widespread, sur-
-
-Shame and Stigma
 
 rounding them on all sides, and good, lacking in nothing. By defining a certain sort of person as complete and good, and by surrounding
 themselves with such people, normals gain comfort and the illusion
@@ -7709,8 +7268,6 @@ mortal and weak; in consequence there is a powerful tendency to revert to self-p
 might even say that the presence of disabled people functioning in
 our midst reminds normals too much of their own weakness, so that
 
-Chapter 4
-
 they feel an urge to reject from their sight through public shaming
 those who wear their weakness on their face. Thus shame in the self
 often leads to the wish that others feel shame, and to practices of
@@ -7740,8 +7297,6 @@ more going for them than their sheer ubiquity.
 
 Central to the operation of stigma is a dehumanization of the victim. The urge to brand the face keeps on recurring in the history of
 this topic, not only because the face is visible, as hands and calves
-
-Shame and Stigma
 
 may not be, but precisely because it does, as Constantine says, bear
 the mark of our humanity and individuality. Accordingly, Romans
@@ -7823,8 +7378,6 @@ accept the fact that those whom they love and continue to need are
 separate individuals and not mere instruments of their will. They
 allow themselves to depend upon caretakers in some ways, but they
 
-Chapter 5
-
 do not insist on omnipotence; they also allow the caretakers, in return, to depend in certain ways upon them.
 
 Although this acceptance is never achieved without anger, jealousy, and envy, the story of maturity is that at a certain point children
@@ -7893,8 +7446,6 @@ ways. As children mature, these norms affect children more directly.
 Thus, for example, the norms of masculinity that I have discussed
 with reference to Chodorow and to Kindlon and Thompson are
 
-Chapter 5
-
 transmitted by parents and peers to children against the background
 of social norms and institutions. There are many ways in which laws
 and institutions can affect these norms: for example, through public
@@ -7956,8 +7507,6 @@ really does not involve a statement by society that a given form of
 conduct is disgraceful. We think nothing much about paying a parking or even a speeding ticket; we think we have got off, and we don't
 feel disgraced. (We may note that he ignores the burden fines impose on poor people.) And the alternative of community service,
 Kahan argues, is even worse, because it rewards a person for disgraceful conduct. Instead of being humiliated, the person is given
-
-Chapter 5
 
 something good to do, something about which he can feel good
 himself, and something that will make others think well of him.
@@ -8026,8 +7575,6 @@ Five arguments against shaming penalties have been advanced in
 the recent literature. I shall now argue that each of them receives a
 deeper rationale by being connected to the account of shame and
 stigma I advanced in chapter 4. We might oppose shaming penalties
-
-Chapter 5
 
 without endorsing that account, but the account gives more power and
 flesh to the arguments, and thus gives us new reasons to accept them.
@@ -8099,8 +7646,6 @@ shaming that I have presented. As I have suggested, one thing that
 shaming of subgroups typically expresses is a denigration of the very
 humanity of the people being shamed. They are somehow, in Goffman's terms, subhuman, not distinct human beings with individuality and dignity. More generally, in shaming people as deviant, the
 
-Chapter 5
-
 shamers set themselves up as a "normal" class above the shamed, and
 thus divide society into ranks and hierarchies. Such statements do
 have expressive power: they give voice to something many people
@@ -8169,8 +7714,6 @@ one way of promoting reparation and reintegration.
 
 Let us now turn to a second argument against shaming penalties
 advanced by James Whitman.16 Whitman argues that shaming penalties typically involve a type of mob justice and are problematic for that
-
-Chapter 5
 
 reason alone. In shaming, the state does not simply mete out punishment through its own established institutions. It invites the public to
 punish the offender. This is not only an unreliable way to punish, but
@@ -8244,8 +7787,6 @@ have strong deterrent potential. Psychologist James Gilligan argues
 that the evidence supports a very different conclusion: people who
 are humiliated become more alienated and troubled than before.20
 
-Chapter 5
-
 Especially for alcoholics, child molesters, and others whom Kahan's
 shame penalties would target, shame is a large part of their problem
 in the first place. To expose that person to humiliation may often
@@ -8316,8 +7857,6 @@ of a liberal society.
 Defenders of shame penalties frequently reply by insisting that
 these penalties well serve four primary purposes of punishment: retribution, deterrence, expression, and reform or reintegration. I have
 
-Chapter 5
-
 already argued that, though shame penalties are powerfully expressive, what they express is deeply problematic in a society based on
 ideas of dignity and equal worth. Their deterrent potential has also
 been called into question by Posner's and Gilligan's convincing arguments. But we need to consider further the claims about retribution
@@ -8380,8 +7919,6 @@ he does not favor "shaming penalties," and writes, "This is a term I
 have never used in my writing unless it has been to disagree in passing with shaming penalties in response to the U.S. law review debates of the late 1990s."32 Moreover, Braithwaite's overall theory of
 punishment is "utterly opposed to retribution," and focused instead
 on prospective questions of reform and reintegration. Normatively,
-
-Chapter 5
 
 Braithwaite is not a communitarian, valuing social homogeneity as a
 central goal, but a republican, valuing both strong communities and
@@ -8447,8 +7984,6 @@ examine their ways of life and their commitments, and, so doing, realize with sh
 critical self-examination, seems likely to promote reform. Is there a
 way in which the law could devise shame penalties (as distinct from
 Braithwaite's basically guilt-based penalties) that focus on this constructive sort of shame, which involves an acknowledgement of one's
-
-Chapter 5
 
 common human weakness and is thus not only not narcissistic, but
 actually antinarcissistic? What might such shame penalties (as distinct
@@ -8520,8 +8055,6 @@ gambling and ski vacations? So the shaming is not as antinarcissistic
 as it seems; it is in many respects an anxious defense-from-scrutiny of
 people's own narcissism. Even if Bennett had violated some law in
 
-Chapter 5
-
 the course of his gambling, it seems to me that it would be quite inappropriate for the judge to join in the public chorus of shame, for
 example, by ordering the making of a prime time television special
 (which we will shortly have, no doubt), documenting Bennett's allegedly shameful behavior. In general, public intrusion into people's
@@ -8588,8 +8121,6 @@ answer is that people, as he sees it, are more likely to be motivated
 by fear of bad publicity than by desire for good publicity. We could
 say that this sort of shaming has many of the features that make
 
-Chapter 5
-
 Ehrenreich's example attractive, even if not all: it is antinarcissistic
 and aimed at jolting obtuse people out of their complacency.
 
@@ -8653,8 +8184,6 @@ public mind the fact that prisoners are not just animals, that they
 have certain rights of privacy and rights to personal property.42 We
 recall that issues of human dignity were central in leading a Pennsylvania court to rule that disgusting toilet facilities were a "cruel and
 unusual punishment." Judge Richard Posner recently wrote a very
-
-Chapter 5
 
 interesting opinion that came to the same conclusion in the area of
 shame: he held that it is cruel and unusual punishment for a male
@@ -8727,8 +8256,6 @@ in the service of this goal.
 Rethinking imprisonment along European lines (if the public will
 to do so could be created) would establish that prison is not a form
 
-Chapter 5
-
 of lifelong stigmatization, but, rather, a basically respectful form of
 deterrence and/or retribution, preferably coupled with programs
 aimed at reform and reintegration. The public will to support such
@@ -8796,8 +8323,6 @@ images of the two "gangs," Mods and Rockers, and of their characteristic clothin
 of British society, the danger was discussed, and the inventory of the
 characteristics of the allegedly dangerous group further refined.
 Summarizing the errors that were thus further perpetuated, Cohen
-
-Chapter 5
 
 concludes that here, as in other inventories of characteristics of deviant groups, "are elements of fantasy, selective misperception and
 the deliberate creation of news. The inventory is not reflective stock
@@ -8867,8 +8392,6 @@ pointing to the gravity of the social danger they have been facing. A
 crime is not just a crime, it is part of a dreadful social threat. As the
 chief judge at Hastings puts it:
 
-Chapter 5
-
 In considering the penalties to be imposed, we must take into account
 the overall effect on the innocent citizens of and visitors to the Borough.
 Though some of the offences committed by individuals may not in
@@ -8927,8 +8450,6 @@ Moral judgment about homosexuality is ubiquitous in American
 society, and much of it takes the form suggested by Cohen's analysis:
 gays are seen as a threat to all that Americans hold dear. In particular, as the trial of Amendment 2 in Colorado showed, they are routinely portrayed as enemies of the family and dangers to children.
 The state, defending the amendment, argued that it had six different
-
-Chapter 5
 
 "compelling interests" in maintaining the law in question. These included an alleged compelling state interest in protecting family privacy, and a separate alleged compelling interest in "promoting the
 physical and psychological well-being of children." Furthermore,
@@ -9000,8 +8521,6 @@ can survive many things, but one thing it cannot survive is the destruction of t
 is, no society . . . has lived through the transition to homosexuality
 and the perversion which it lives and what it brought forth." Speaking
 
-Chapter 5
-
 very near to a national election, many politicians seemed eager to
 whip up a storm of fear around the issue of same-sex marriage.
 
@@ -9065,8 +8584,6 @@ male-dominated way.58 (Never mind that many gay and lesbian couples
 do in fact have and raise children, whether their own from previous
 marriages, or conceived within the relationship through artificial insemination, or adopted; many more do not and would like to in the
 
-Chapter 5
-
 future.) The connection between recognition of gay unions and the
 erosion of traditional marriage is that if sex is thought to be available
 outside of the marriage bond, women will have fewer incentives to
@@ -9129,8 +8646,6 @@ shame-ridden about their sexual lives; he added that they convert
 their libido into moneymaking, which is easier to manage. A similar
 observation was made by philosopher Theodor Adorno, an emigré
 to the United States from Germany, who observed that Americans
-
-Chapter 5
 
 are preoccupied with norms of health in the area of sex, and spoke
 often of a "healthy sex life." "Sexuality is disarmed as sex," he continued, "as though it were a kind of sport, and whatever is different
@@ -9201,8 +8716,6 @@ given immense power and boldness to pursue the rest of their agenda,
 including so-called 'hate crime' and other laws that could actually
 criminalize much public opposition to homosexual behavior."
 
-Chapter 5
-
 This remarkable sentence looks like a slip. For the people who address me as "Christian Friend" surely don't want to admit that they
 support forms of "public opposition to homosexual behavior" that
 would be targeted by hate crimes legislation. Or do they? The scare
@@ -9271,8 +8784,6 @@ bare animosity.66 In terms of our analysis of moral panics, they were
 entirely right to do so. If public rationality and the equal protection
 of the laws mean anything, they must mean that bare fear and dislike
 
-Chapter 5
-
 are insufficient grounds for a law that withholds basic privileges.67 A
 vigilant defense of equal protection of the laws is a minimal commitment for a decent society to make in protecting unpopular groups
 from the damaging effects of stigma and associated fears.
@@ -9339,8 +8850,6 @@ the issue of zoning for adult establishments. Zoning would appear to
 be a gray area where communities may in some instances be free to
 exercise judgment that certain nonharmful practices are nonetheless
 
-Chapter 5
-
 to be restricted. Thus zoning restrictions for establishments offering
 sexually explicit materials are not off the table in my view, as restrictions on publication would surely be. General concerns about freedom of association suggest that residents should have at least some
 latitude in deciding what to permit in their communities. Cleburne
@@ -9405,8 +8914,6 @@ affecting the interests of nonconsenting others.
 Is any of these policies unconstitutional? The legal issues are
 much less clear than in Cleburne because the regulations are discriminatory in effect while being neutrally written. Moreover, the regulation of clubs and adult stores is generally understood to be an area
 
-Chapter 5
-
 in which city officials have broad discretion; in that way as well, the
 case looks quite unlike Cleburne, where the plaintiffs wanted a permit
 for a group home of a type for which permits had frequently been
@@ -9466,8 +8973,6 @@ loitering ordinance. The law states that "[w]henever a police officer
 observes a person whom he reasonably believes to be a criminal
 street gang member loitering in any public place with one or more
 other persons, he shall order all such persons to disperse and remove themselves from the area. Any person who does not promptly
-
-Chapter 5
 
 obey such an order is in violation of this section." "Loiter" is defined
 as "to remain in any one place with no apparent purpose." The law,
@@ -9535,8 +9040,6 @@ to be an emphasis on clarity in the formulation of legal standards
 and on the protection of individual rights in their implementation.
 Reflection on shame and moral panics, then, seems to support the
 wisdom of the Illinois and U.S. Supreme Court decisions.
-
-Chapter 5
 
 The decisions have been strongly challenged, however, in the name
 of communitarian values. Once again, Dan M. Kahan, defender of
@@ -9607,8 +9110,6 @@ of nature. All these people have common interests and values, but
 they are not counted as "communities" for purposes of arguments
 like those of Meares and Kahan.
 
-Chapter 5
-
 These conceptual questions cause problems for the Meares-Kahan
 argument about the gang loitering ordinance and the sweeps.
 Throughout their argument there is much unclarity even about
@@ -9676,8 +9177,6 @@ But we have the resources to do this through laws already in place,
 including laws against harassment and intimidation. We need not
 sweep so broadly as to take in innocents who may simply want to loaf
 around, whether on the streets or in their own dwelling.
-
-Chapter 5
 
 V. Mill's Conclusion
 by Another Route
@@ -9755,8 +9254,6 @@ of the world in which he, too, has a right to live.
 —Jacobus tenBroek, "The Right to Live in the World: The Disabled
 and the Law of Torts"2
 
-Chapter 6
-
 I. Creating a Facilitating Environment
 
 So far, I have argued that the law must refuse to take part in active
@@ -9786,8 +9283,6 @@ poverty. The poor are routinely shunned and shamed, treated as
 idle, vicious, of low worth. Perhaps this is especially likely to be true
 in America, where it is widely believed that poverty is evidence of laziness or lack of will power. Goffman's research reminds us that this
 general stigmatization of poverty is compounded if the poor person
-
-Protecting Citizens from Shame
 
 is unemployed, or has little education. And stigma runs in the family. As soon as children go to school, their wealth or poverty is
 marked in countless ways, by their clothing, the food in their lunch
@@ -9822,8 +9317,6 @@ Among these requirements, particularly important is free and compulsory primary 
 equal opportunity to higher education. So too, in our society, is
 employment—at least for adult males. Although some societies (for
 
-Chapter 6
-
 example ancient Greece) have ranked the unemployed above the
 employed, thinking it base to work for a living, our society has the
 reaction that Goffman's example depicts: the unemployed feel
@@ -9857,8 +9350,6 @@ that no citizen may be deprived of life or liberty without due process
 (their analogue of our Fourteenth Amendment) to mean not mere
 life, but life with human dignity; removing the belongings of the
 
-Protecting Citizens from Shame
-
 homeless has been held to violate this constitutional requirement.
 South Africa has gone further, recognizing affirmative rights to decent housing in severe cases. Both have constitutionalized as a fundamental right the right to free and suitable primary and secondary
 education. More generally, the international human rights movement has now recognized that social and economic rights are
@@ -9890,8 +9381,6 @@ Blessings of Liberty to ourselves and our Posterity."10
 It is significant that Brennan makes his argument with reference to
 the idea of human dignity as well as that of well-being. He recognizes
 that poverty is not just deprivation, but also degradation. In this period, it seemed possible that the Supreme Court would gradually
-
-Chapter 6
 
 move in the direction of recognizing that our Constitution protects
 a range of economic rights for the poor.11 Justice Brennan clearly was
@@ -9929,8 +9418,6 @@ any society that wants to call itself a decent one.
 
 As I have said, these issues are too vast for policy-oriented treatment in this book, but to omit them would be absurd. It would be
 
-Protecting Citizens from Shame
-
 equally absurd to omit the question of our own responsibility, as a
 rich nation, to the poor in other nations. Countless people all over
 the world suffer from hunger, malnutrition, lack of education, and
@@ -9964,8 +9451,6 @@ Let us now return, however, to the more narrowly demarcated issues
 on which we have been focusing: how might we use specific types of
 legal change to protect vulnerable minorities from stigma? In chapter 5, I argued that we should not enact, and should invalidate if
 
-Chapter 6
-
 enacted, laws whose primary purpose or effect is the stigmatization
 of unpopular minorities. How much further should the social commitment to protect such groups extend? This is itself a vast question,
 raising complex issues, both legal and moral, that lie beyond the limits of the present book. Let me, then, show the direction in which my
@@ -9998,8 +9483,6 @@ support these policies. Thus, there are at least some cogent arguments supportin
 men, given the shortage of time and money for comprehensive airport searches, et cetera. Even then, this policy unfairly stigmatizes all
 members of a group, and probably encourages police and airportsecurity officers to behave badly toward these people, sending the
 
-Protecting Citizens from Shame
-
 message that they are not fully equal citizens (or visitors). So I am opposed to profiling even in such cases. Far more clearly, it is both intrinsically objectionable and unwise policy to use race as a proxy for
 crime, as when traffic stops and searches of vehicles are triggered by
 the race of the suspect. No doubt in order to use resources wisely police must engage in some types of profiling in searching for drugs.
@@ -10030,8 +9513,6 @@ those who hold views that offend liberals. Communitarians of various types can f
 vulnerable without encountering a countervailing tug, to the extent
 that they lack the liberal's deep commitment to the liberty of the individual, and, in particular, to a range of liberties in the area of
 
-Chapter 6
-
 thought, speech, and expression. The liberal, by contrast, is committed to protecting those who say something hate-filled as well as those
 who are targeted by hate—within certain limits.
 
@@ -10060,8 +9541,6 @@ With respect to these two important values, free speech and freedom of associati
 least up to a point. To protect gays and lesbians against discrimination in employment and public housing, in ways similar to the protections our country has already offered to racial minorities and
 women, does not, as such, prevent the expression of racist, or sexist,
 or homophobic political opinions. Thus the Employment Discrimination Act introduced by Senator Edward Kennedy at the same time
-
-Protecting Citizens from Shame
 
 that the Defense of Marriage Act was debated, which would have
 added sexual orientation to the list of prohibited grounds of discrimination, seems a logical and indeed a required step, and it is a
@@ -10093,8 +9572,6 @@ difficult areas and we will need to grapple with them. On the whole,
 however, it seems clear that a general policy of nondiscrimination on
 the basis of sexual orientation in employment and public accommodation, at least, is morally required (perhaps constitutionally required)16 by the very notion of equal protection, and that lesbians
 
-Chapter 6
-
 and gays should get the same types of protection that are currently
 extended to racial minorities, women, and people with disabilities.17
 Discrimination against gays and lesbians has strong links to discrimination against women, as I argued in chapter 5. It also has close
@@ -10118,8 +9595,6 @@ analysis, legal scholar Mary Anne Case argues that in fact all are covered by ex
 gender to their sex merely for reasons of conformity is "already outlawed by the plain language of Title VII as well as by the prohibitions
 on sex stereotyping outlined by the Supreme Court. It is impermissible
 disparate treatment."20 So too, she argues, is "categorical" discrimination on the basis of gendered characteristics: the requirement, for
-
-Protecting Citizens from Shame
 
 example, that all workers in a given job, regardless of sex, display
 conventionally masculine traits.
@@ -10151,8 +9626,6 @@ and lesbians urgently need protection from violence, which menaces them continua
 laws that exist; all too often, they share the homophobic sentiments
 of the perpetrators of violence. On the other hand, one might argue
 that treating a hate crime based on race or sex or sexual orientation
-
-Chapter 6
 
 more severely than a similar crime motivated, say, by hatred of one's
 brother is a way of penalizing unpopular political opinions. The only
@@ -10186,8 +9659,6 @@ protected speech, and there is nothing else to penalize. The perpetrator of a ha
 criminal intent, a specific type of hate-based mens rea, intrinsically
 directed toward conduct, that goes well beyond the content of the
 protected opinions expressed in the pamphlet. What is being penalized is a specific type of criminal intent, not just a specific type
-
-Protecting Citizens from Shame
 
 of opinion. Using similar reasoning, the U.S. Supreme Court has
 upheld enhanced penalties for hate crimes.26
@@ -10224,8 +9695,6 @@ hate crimes in that sense, but they aren't deeply committed to eradicating gays,
 of them, at least—if they got the signal that this is something society
 was going to take really seriously. Moreover, a social statement that
 
-Chapter 6
-
 these offenses are intolerable in our society has wider consequences:
 it is a way of affirming the equal dignity of gay and lesbian citizens,
 and the commitment to rendering them fully equal under the law.
@@ -10258,8 +9727,6 @@ whether to themselves or to others. I have suggested that imagination and fantas
 in which people may learn to explore the problematic aspects of
 their humanity without undue anxiety, thus developing a richer
 sense of themselves. This self-exploration enhances the ability to
-
-Protecting Citizens from Shame
 
 imagine the experiences of others; both abilities are crucial not only
 to good personal relationships, but also to the functioning of a healthy
@@ -10294,8 +9761,6 @@ sexual behavior, he plausibly argues, is bound up with such fantasies.
 Nagel then defends certain strict limits to intrusion on personal privacy by others, calling this one face of the public-private distinction.
 But this distinction, he then argues, has another "face": it is the importance of keeping disruptive material behind concealing barriers.
 
-Chapter 6
-
 The public-private boundary faces in two directions—keeping disruptive material out of the public arena and protecting private life from
 the crippling effects of the external gaze. . . . It is the other face of the
 coin. The public-private boundary keeps the public domain free of
@@ -10326,8 +9791,6 @@ demands for concealment applied to vulnerable minorities.
 If this were advanced as a predictive claim, we would test it by looking to history. I believe that we would find it false. Not too long ago,
 women were forced to hide their sexuality behind clothing that concealed legs and sometimes arms, and that surrounded the lower
 body with a large screen of fabric. They were also forced to conduct
-
-Protecting Citizens from Shame
 
 themselves in ways that dissimulated desires they had and activities
 that they performed or at least wanted. Society told women: we can't
@@ -10368,8 +9831,6 @@ able to demonstrate their full and equal humanity.
 But of course Nagel is not advancing a descriptive or predictive
 claim: he is advancing a normative claim about how society ought to
 
-Chapter 6
-
 be: it ought to protect certain areas of liberty-in-seclusion for all actors, and, as the alleged price of this system of liberty, it ought to require of minorities that they refrain from "disruption," that is, of
 conduct offensive to "normals." For the idea that the resulting society would be either just or good, no support is offered, except the
 scare-predictive maneuver that says that we would lose our personal
@@ -10398,8 +9859,6 @@ John Stuart Mill advanced, between actions that are self-regarding,
 implicating the interests only of the agent and consenting others,
 and actions that are other-regarding, implicating the interests of
 nonconsenting others. I have already argued that this is the pertinent distinction to ponder in thinking about the regulation of gay
-
-Protecting Citizens from Shame
 
 sexual conduct, no matter where it occurs. The pertinent question is
 not whether the conduct occurs in a place denominated "public,"
@@ -10434,8 +9893,6 @@ In other words, the important distinction is one between conduct that
 affects only those who consent and conduct that affects (in a potentially
 harmful way) those who do not consent.
 
-Chapter 6
-
 This argument parallels our argument about disgust in chapter 3.
 The fact that people who merely imagine what is going on inside the
 club feel that the dancing is shameful is insufficient to restrict conduct that does not inflict or threaten harm. Once we put the issue in
@@ -10465,8 +9922,6 @@ conduct are we willing to tolerate in order to protect others from
 these harms, or putative harms? And we need to sort out the question
 of personal liberty: what choices do we want to protect for all citizens, and how do seclusion and informational privacy figure in the
 analysis of these liberties? In the process, we may decide that the
-
-Protecting Citizens from Shame
 
 home deserves special protection, but it is unlikely that the sphere of
 protected liberty will coincide entirely with the boundaries of the
@@ -10503,8 +9958,6 @@ to frighten and threaten children? It seems pretty innocuous; in many
 countries it is routine beach behavior. And by all accounts, nudity
 quickly becomes unremarkable when generally practiced; bodies in
 
-Chapter 6
-
 a nudist colony are not regarded as sexually charged in daily interactions. So isn't this just like the question of women showing their
 legs? People may think it is a disruptive invitation to sex, but that is
 their problem. And if people mention their religious convictions, we
@@ -10536,8 +9989,6 @@ in many areas. The fiction that a unitary concept of privacy, and a
 unitary and clearly understood contrast between the public and the
 private, gives us good guidance in these matters should be abandoned.
 
-Protecting Citizens from Shame
-
 V. Shame and People
 with Disabilities
 
@@ -10567,8 +10018,6 @@ the volume Disability, Difference, Discrimination with an account of a
 more or less typical day in which she and another philosopher, also
 a wheelchair-user, were kept waiting outside a grocery store in the
 rain because the handicapped entrance had been locked by a manager
-
-Chapter 6
 
 eager to prevent people from taking shopping carts out into the
 parking lot. And of course the lot of people with severe cognitive disabilities is even worse: they have frequently been denied humanity itself, and the right to live in the world, at all, with other human
@@ -10601,8 +10050,6 @@ The problem of many people in our society is that their disabilities
 have not been catered for, because their impairments are atypical
 and perceived as "abnormal." There is no intrinsic "natural" difference between a person who uses a wheelchair to move at the same
 
-Protecting Citizens from Shame
-
 speed as a person walking or running and a person who uses a car to
 accomplish something of which her own legs are incapable.43 In
 each case, human ingenuity is supplying something that the body of
@@ -10633,8 +10080,6 @@ tolerate the presence of people with disabilities—especially mental
 disabilities—in schools and public places betrays this same uneasy
 sense that their very presence will spoil the lives of others. The fact
 that our own lives are also frail and disabled lives is thus the more effectively screened from view.45 Politician Jenny Morris, a wheelchairuser, aptly refers to these policies as "tyrannies of perfection."46
-
-Chapter 6
 
 In order to make this point one need not accept the radical thesis
 that there is nothing bad about the classic disabilities, such as blindness, deafness, and mental retardation.47 We may grant that many
@@ -10667,8 +10112,6 @@ citizen and the hidden world of people with disabilities, who are implicitly hel
 might say, therefore, that the most basic right to which these people
 are entitled, as human beings and citizens of equal worth, is what Jacobus tenBroek called the "right to live in the world." This means
 many things at a concrete level, including wheelchair-access on pub-
-
-Protecting Citizens from Shame
 
 lic transportation, permission for guide dogs in places that are usually closed to dogs, tactile signage, et cetera. Most generally, however,
 it means the right to be treated as a citizen, one for whom the public
@@ -10703,8 +10146,6 @@ people who function well by virtue of epilepsy medications and other
 corrective treatments are not clearly included in the protected class,
 even though they are vulnerable to stigmatization and discrimination.
 
-Chapter 6
-
 This, again, leaves a gap because such people may still be targets of
 irrational stigmatization and discrimination. (This gap can to some
 extent be filled by arguing that they are "regarded as" having a disability that affects a major life activity, despite the correction.)52 Furthermore, the very notion of "major life activities" is amorphous and
@@ -10734,8 +10175,6 @@ a protected class defined so broadly as to include the moderately
 overweight, the short, and the unattractive would be legally unworkable and would bring the entire idea of the protected class into disrepute.54 We all know that antidiscrimination law is a blunt instrument,
 protecting some individuals who are not disproportionately vulnerable and failing to protect many who are. But the value of protecting
 even a subclass of people with disabilities seems great. One may
-
-Protecting Citizens from Shame
 
 hope that such protections will lead to a generally beneficial shift in
 social attitudes. In informal practices of moral education and social
@@ -10770,8 +10209,6 @@ basic institutional structure to which they agree.58
 
 Most forms of social-contract doctrine do, of course, make provision for "normal" human needs, but they do screen from view, in the
 initial design of basic political principles, all the times of asymmetrical or unusual dependency, even those that result from childhood or
-
-Chapter 6
 
 old age, stages of life through which all citizens pass. In that way, as
 Goffman observes, there is a public fiction that a sharp line divides
@@ -10808,8 +10245,6 @@ disabled and try to devise ways to recognize and support their full
 humanity and individuality. Thinking about them is thinking about
 us. But then, good thought about both requires revising the idea of
 the citizen as independent bargainer and replacing it with a more
-
-Protecting Citizens from Shame
 
 complex image of a being both capable and needy, who moves from
 helplessness to "mutual interdependence," and, unfortunately, often
@@ -10848,8 +10283,6 @@ children with mental disabilities have been denied access to suitable
 education. Adults of my generation can recall the classrooms for
 "special" children that were typically hidden away in basements of
 
-Chapter 6
-
 schools, so that "normal" children did not have to look at these children. And in many cases children with mental disabilities were
 turned away from the public schools altogether. Early court cases
 upheld these exclusions. For example, in 1892 the Massachusetts
@@ -10880,8 +10313,6 @@ than the group of plaintiffs in the Pennsylvania case: it included children with
 self-consciously set out to apply Brown v. Board of Education to the situation of children with disabilities, the court held that the denial of
 free suitable public education is an equal protection violation.64 Moreover, they held that this equal protection violation could not be reasoned away by saying that the system had insufficient funds: "The
 
-Protecting Citizens from Shame
-
 inadequacies of the District of Columbia Public School System,
 whether occasioned by insufficient funding or administrative inefficiency, certainly cannot be permitted to bear more heavily on the
 'exceptional' or handicapped child than on the normal child." Significantly, the court cites Goldberg v. Kelly, the case concerning welfare rights that I discussed in section II, where the Supreme Court
@@ -10911,8 +10342,6 @@ rights to participation in due process hearings and judicial review.
 In general the act obliges states to educate children with disabilities in the "least restrictive environment" appropriate to meet their
 needs. It thus urges "mainstreaming" of these children—a practice
 defended by advocates for people with disabilities by pointing to
-
-Chapter 6
 
 benefits both to the newly included child and to other children, who
 learn about humanity and its diversity by being in a classroom with a
@@ -10952,8 +10381,6 @@ of individuality.
 IDEA is far from being a perfect law, in theory or in practice. In
 practice, it suffers, first of all, from lack of funding: for although the
 
-Protecting Citizens from Shame
-
 statute refers to federal funding, the amount envisaged has never actually been appropriated. Furthermore, its practical implementation
 is rarely as individualized as it ought to be: formulae are typically
 found for common disorders. Arthur has profited from the fact that
@@ -10982,8 +10409,6 @@ classifying children as LD in order to qualify for federal funding.
 Such classifications may not always help the child: they can be stigmatizing in their own right, and they do not always point to a useful
 course of treatment. Moreover, they tend to be unfair to children
 who have problems in school but who cannot be plausibly classified
-
-Chapter 6
 
 as LD. One feels that all children should be helped to reach their
 cognitive potential, but the system promotes some children over others in a way that is more than a little arbitrary.67 In practice, this defect
@@ -11019,8 +10444,6 @@ arrangements organized around the needs of a dominant group.
 
 Perhaps the greatest insight of the classical-liberal tradition is the insight that each human individual is profoundly valuable, spacious
 and deep, capable of separate life and imagination, of being more
-
-Protecting Citizens from Shame
 
 than just the continuer of a tradition or a family style. This insight
 has been inconstantly and imperfectly implemented in liberal societies, insofar as they permit infantile narcissism to exercise political
@@ -11097,8 +10520,6 @@ people with mental and physical disabilities is especially problematic, threaten
 pain to vulnerable individuals in all societies; in a liberal society it
 also threatens core political values. So thinking about the operations of disgust and shame should put us on our guard against giving
 
-Chapter 7
-
 those emotions free rein, even in ways that might initially seem
 promising.
 
@@ -11166,8 +10587,6 @@ yet, as is well known, Mill uses notions of rights prominently, both in
 chapter 5 of Utilitarianism and in On Liberty itself, where the harm
 principle is repeatedly defined in terms of harm that violates another person's "constituted rights." How to square the importance of
 
-Chapter 7
-
 rights with Mill's insistence that utility is the final arbiter in ethics is
 a question that continues to exercise interpreters, and we need not
 review all the alternative interpretations here. The most plausible account of the matter is that Mill means by "rights" certain very important interests, interests that at least form an important portion of
@@ -11222,8 +10641,6 @@ expression of opinion is bad for society, for, first of all, the opinion
 suppressed may be true. Second, even if it is not wholly true, it may
 contain a part of the truth, and may help us to correct that part of received opinion that is in error. Third, even if it does not turn out to
 be true at all, it may help us get at the truth through the lively debate
-
-Chapter 7
 
 it provokes. Fourth, even if we already have the whole truth, we will
 be better off facing repeated debates and challenges: opinions that
@@ -11296,8 +10713,6 @@ find that Mill has put things just the wrong way round. Instead of
 thinking truth good because of what it does for the self-respect and
 flourishing of individuals, he subordinates individual flourishing
 
-Chapter 7
-
 and dignity to truth, conceived as an abstraction. The Kantian intuition with which Rawls's A Theory of Justice begins is the idea that
 "each person possesses an inviolablity founded on justice that even
 the welfare of society as a whole cannot override."6 This idea directs
@@ -11359,8 +10774,6 @@ as far back as Ashoka's edicts in third-century bce India,7 and in the
 West, probably in Cicero's letters to his friend Atticus (an Epicurean,
 who had a very different comprehensive doctrine of life from Cicero's own.)8 Mill is just not very interested in such ideas, nor is he inclined to be very respectful of doctrines that differ from his own. In
 
-Chapter 7
-
 On Liberty he does not hesitate to speak contemptuously of Calvinism
 as an "insidious" doctrine conducive to a "pinched and hidebound
 type of human character." And in essays such as "The Utility of Religion" his negative view of religion's social role becomes extremely
@@ -11420,8 +10833,6 @@ population on the basis of his perfectionist argument, Mill will need
 to argue that it would be impossible to recognize the outstanding individuals reliably or early enough to give them special treatment: they
 can develop only in conditions of general liberty, but whether this is
 true may be disputed. The ancient Greeks had many outstanding individuals who used the institution of slavery to their advantage.
-
-Chapter 7
 
 Plenty of outstanding men, as Mill would be the first to grant, have
 developed their powers in conditions in which women had no liberty; often they found the nonliberty of women a distinct advantage
@@ -11484,8 +10895,6 @@ people need liberty in order to choose a plan of life is, in Rawls's conception 
 about a person, and a person's inviolability, that requires liberty.
 Thus, put in this way, the argument for liberty appeals not to the dubious notion of overall social good, but to the idea of what it is to
 treat each person as an end.
-
-Chapter 7
 
 This is a promising argument. What is less clear (as I have already
 suggested) is that it is fully compatible with Mill's Utilitarianism. On
@@ -11552,8 +10961,6 @@ Disgust and Shame
 How are the arguments about disgust and shame in the present book
 connected to the liberal case for liberty that I have sketched here?
 Or, to put it more poetically, what is the relationship of my epigraph
-
-Chapter 7
 
 from Mill, in which Mill defends his harm principle, to my epigraph
 from Anne Hollander, in which she connects a certain rejection of
@@ -11629,8 +11036,6 @@ so frequently enforce them. For all Mill says, his reader might feel
 free to conclude that English society of Mill's own time had the wrong
 norms, but that by now we have gotten things right and we may happily use shame and disgust to inform our own lawmaking.13 Indeed,
 
-Chapter 7
-
 such a confidence in moral progress seems to inform Kahan's conception of disgust and shame as valuable and progressive sentiments.
 Our account also provides a rationale for limits to the legal regulation of conduct that avoids the difficulties raised by Mill's truthbased justification and the perfectionist arm of his person-based
 justification. We have found fault with disgust and shame as bases for
@@ -11703,8 +11108,6 @@ who are basically convinced by the argument I have made here.
 My argument has not tried to deny that disgust and shame are
 powerful motives, and may at times play some of the good roles that
 
-Chapter 7
-
 Kahan ascribes to them. But I have suggested that a liberal society
 has particular reason to be uneasy about them, because of the great
 importance such a society ascribes to the equal worth of persons,
@@ -11774,8 +11177,6 @@ Expressing agreement with Rawls's idea of political liberalism, I
 have argued that a liberal political conception should not be built on
 a metaphysical theory that is sectarian, belonging to one comprehensive view held by citizens rather than another. In general, political
 
-Chapter 7
-
 liberalism seeks parsimony in its apparatus of principles and doctrines, because it wants to base its political construction on moral
 doctrines that can be endorsed by all the major religions and other
 comprehensive doctrines of human life citizens may hold. John Rawls
@@ -11840,8 +11241,6 @@ Aristotelian idea of the citizen as "political animal" has great promise as we t
 this conception emphasizes the continuity between the human
 being and other animal creatures, with their needy and mortal bod-
 
-Chapter 7
-
 ies, while not ignoring the fact that the human being has traits (and
 problems) that are different from those of any other animal creature, and a source of potential difficulty for society.21 The Aristotelian conception sees the human being as a creature both needy
 and capable, whose capacities and whose dignity are thoroughly
@@ -11901,8 +11300,6 @@ positive emotions of gratitude and love prove important to citizens
 who depend upon one another, and upon social institutions, for
 many of the goods they experience in life. Once again: all such emotions may be well or poorly adjusted to their circumstances, and
 based on good or bad reasons. But they are the types of emotion that
-
-Chapter 7
 
 a citizen of the envisaged society will prominently experience, and
 that the society ought, in the appropriate ways, to foster.
@@ -11967,8 +11364,6 @@ we arrive at a new understanding of the obstacles to equal respect for
 persons and their freedom, and thus we have a new set of reasons to
 be on our guard against moralistic versions of liberalism that rely on
 
-Chapter 7
-
 sentiments that appear to create these obstacles. To argue against
 trusting disgust and shame is hardly to advance a complete liberal
 theory of the moral limits of the law, as I have frequently pointed
@@ -12023,11 +11418,7 @@ Such a frank admission of incompleteness and uncertainty is
 a good place to begin, perhaps, as people varyingly disabled work
 together to create a liberal society.
 
-This page intentionally left blank
-
 Notes
-
-Introduction
 
 1. These examples are taken from Kahan (1996) 632, with refs.
 2. See Bérubé (1996), and discussion in Nussbaum (2000b).
@@ -13074,7 +12465,6 @@ were intimately connected with the specific nature of the crime and its terrible
 no links with crime per se.
 
 Chapter 4. Inscribing the Face:
-Shame and Stigma
 
 1. Goffman (1963, 128). Notice that he omits income, another source of stigma
 that might have made his case stronger still: if the "fully employed" college
@@ -13931,10 +13321,6 @@ may explain the structure of some Christian tragedies.
 25. See Nussbaum (2001a, chap. 8).
 26. See Nussbaum (2001a, chap. 8) for some concrete suggestions.
 
-This page intentionally left blank
-
-List of References
-
 Adorno, Theodor, et al. (1950). The Authoritarian Personality. New York: Harper and
 
 Row.
@@ -13983,8 +13369,6 @@ Baker, Katharine K. (1999). "Sex, Rape, and Shame." Boston University Law Review
 Balint, Alice (1953). "Love for the Mother and Mother Love." In Michael Balint, ed.,
 
 Primary Love and Psychoanalytic Technique. New York: Liveright.
-
-List of References
 
 Bandes, Susan A. (1997). "Empathy, Narrative, and Victim Impact Statements."
 
@@ -14066,8 +13450,6 @@ Braithwaite, John, and Valerie Braithwaite (2001). "Shame, Shame Management
 and Regulation." In Ahmed, Harris, Braithwaite, and Braithwaite (2001):
 3–69.
 
-List of References
-
 Brenner, Claudia (1995). Eight Bullets: One Woman's Study of Surviving Anti-Gay
 
 Violence. Ithaca, NY: Firebrand Books.
@@ -14143,8 +13525,6 @@ Douglas, Mary (1966). Purity and Danger. London: Routledge and Kegan Paul.
 Dressler, Joshua (1995). "When 'Heterosexual' Men Kill 'Homosexual' Men: Reflections on Provocation Law, Sexual Advances, and the 'Reasonable Man'
 Standard." The Journal of Criminal Law and Criminology 85: 726–63.
 
-List of References
-
 Dressler, Joshua (2002). "Why Keep the Provocation Defense?: Some Reflections on
 
 a Difficult Subject." Minnesota Law Review 86: 959–1002.
@@ -14217,8 +13597,6 @@ Gilligan, James (1997). Violence: Reflections on a National Epidemic. New York: 
 Books.
 
 Gilman, Sander (1991). The Jew's Body. New York: Routledge.
-
-List of References
 
 Glover, Jonathan (2000). Humanity: A Moral History of the Twentieth Century. New
 
@@ -14307,8 +13685,6 @@ Law Review 63: 591–653.
 
 Review 46: 1933–40.
 
-List of References
-
 Kahan, Dan M., and Martha C. Nussbaum (1996). "Two Conceptions of Emotion in
 
 Criminal Law." Columbia Law Review 96: 269–374.
@@ -14395,8 +13771,6 @@ Larmore, Charles (1987). Patterns of Moral Complexity. New York: Cambridge Unive
 
 Press.
 
-List of References
-
 ——— (1996). The Morals of Modernity. New York: Cambridge University Press.
 Law, Sylvia A. (1988). "Homosexuality and the Social Meaning of Gender." Wisconsin
 
@@ -14473,8 +13847,6 @@ Meares, Tracey, and Dan M. Kahan (1998a). "The Wages of Antiquated Procedural
 Thinking: A Critique of Chicago v. Morales." University of Chicago Legal Forum
 1998: 197–259.
 
-List of References
-
 Meares, Tracy, and Dan M. Kahan (1998b). "The Coming Crisis of Criminal Procedure." Georgetown Law Journal 86: 1153–84.
 
 ——— (1999). "When Rights are Wrong." In Symposium, "Do Rights Handcuff
@@ -14535,8 +13907,6 @@ New York: Cambridge University Press.
 Nagel, Thomas (1997). "Justice and Nature." Oxford Journal of Legal Studies 17: 303–21.
 ——— (1998). "Concealment and Exposure." Philosophy and Public Affairs 27: 3–30.
 Nourse, Victoria (1997). "Passion's Progress: Modern Law Reform and the Provocation Defense." Yale Law Journal 106: 1331–1443.
-
-List of References
 
 Nussbaum, Martha C. (1990). Love's Knowledge: Essays on Philosophy and Literature. New
 
@@ -14617,8 +13987,6 @@ Emotions. Cambridge: Cambridge University Press.
 
 Packe, Michael St. John (1954). The Life of John Stuart Mill. New York: Macmillan.
 
-List of References
-
 Piers, Gerhart, and Milton B. Singer (1953). Shame and Guilt: A Psychoanalytic and a
 
 Cultural Study. Springfield, IL: Charles C. Thomas.
@@ -14696,8 +14064,6 @@ Silvers, Anita (1998). "Formal Justice." In Silvers, Wasserman, and Mahowald (19
 
 13–145.
 
-List of References
-
 ——— (2000). "The Unprotected: Constructing Disability in the Context of Antidiscrimination Law." In Francis and Silvers (2000): 126–45.
 
 Silvers, Anita, David Wasserman, and Mary Mahowald (1998). Disability, Difference,
@@ -14768,8 +14134,6 @@ Warner, Michael (1999). The Trouble with Normal: Sex, Politics, and the Ethics o
 
 Life. New York: The Free Press.
 
-List of References
-
 Wasserman, David (1998). "Distributive Justice." In Silvers, Wasserman, and Mahowald (1998): 147–208.
 
 ——— (2000). "Stigma without Impairment: Demedicalizing Disability Discrimination." In Francis and Silvers (2000): 146–62.
@@ -14814,8 +14178,6 @@ Yoshino, Kenji (2002). "Covering." Yale Law Journal 111: 760–939.
 Young-Bruehl, Elizabeth (1996). The Anatomy of Prejudices. Cambridge, MA: Harvard
 
 University Press.
-
-General Index
 
 ACLU. See American Civil Liberties Union
 Acquired Immune Deficiency Syndrome
@@ -14895,8 +14257,6 @@ animals," 343–44; on compassion, 49–50,
 387n23; on emotions, 26–28, 30, 36; on
 friendship, 386n12; on indignation, 99; on
 law and the gods, 6; on law as reason, 5;
-
-General Index
 
 Aristotle (cont.)
 
@@ -15009,8 +14369,6 @@ in criminal sentencing, 20–22, 48–49,
 
 Comstock, Gary David, 295
 
-General Index
-
 Constantine (Emperor of Rome), 172, 174,
 
 217, 221
@@ -15120,8 +14478,6 @@ Douglas, Mary, 91, 93–94
 Dressler, Joshua, 354n36, 365n9
 Dworkin, Andrea, 137, 139–44
 Dworkin, Ronald, 10–11, 351–52n14
-
-General Index
 
 eating disorders, 202
 education: appraisal of beliefs and moral
@@ -15236,8 +14592,6 @@ Giuliani, Rudolph, 268–70
 global justice, 287
 Goetz, Bernard, 42–43
 
-General Index
-
 Goffman, Erving: on "covering," 293; on
 
 disabled persons, stigmatization of, 305;
@@ -15340,8 +14694,6 @@ indignation: as core sentiment in a liberal
 society, 345; disgust, distinguished from,
 99–107, 166; as response to harm or
 damage, 78. See also anger
-
-General Index
 
 Individualized Education Program (IEP), 1,
 
@@ -15457,8 +14809,6 @@ living standards, decent, 282–87
 Locke, John, 311
 loitering laws, 271–77
 
-General Index
-
 love: as both emotion and relationship,
 353n11; indignation, as distinguished
 from, 100–101
@@ -15569,8 +14919,6 @@ Morris, Jenny, 305, 307
 Morrison, Andrew: on infantile shame,
 
 continuous influence of, 184–86; objectrelations theory, his work in, 176, 180; on
-
-General Index
 
 Morrison, Andrew (cont.)
 
@@ -15692,8 +15040,6 @@ standard for obscenity and, 135–36;
 MacKinnon-Dworkin analysis and proposal regarding, 139–41, 146; as subordination of women, 139–40, 146. See also
 obscenity
 
-General Index
-
 Posner, Eric, 234–35, 237, 245
 Posner, Richard, 154, 247–48, 294, 325
 poverty, 282–87
@@ -15805,8 +15151,6 @@ penalty phase of trials, 20–22; compassion
 in, 20–22, 48–49, 52–56; and disgust, role
 of in, 85; and shame penalties (see shame
 
-General Index
-
 sentencing (cont.)
 
 penalties); and victim-impact statements
@@ -15903,8 +15247,6 @@ panics); nondiscrimination laws to combat
 282–87; public policy regarding, positions
 on, 224–25; through shame penalties (see
 shame penalties)
-
-General Index
 
 Stoics, the: anger, their definition of, 99; on
 emotions, 6–7, 11, 32; methodology of,

@@ -1,4 +1,3 @@
-
 The Logic of Scient if ic
 Discovery
 
@@ -491,8 +490,6 @@ use. My answer is that though there are any number of different
 
 xx
 
-preface, 1959
-
 'methods', I am really not interested in enumerating them. I do not
 care what methods a philosopher (or anybody else) may use so long as
 he has an interesting problem, and so long as he is sincerely trying to
@@ -531,8 +528,6 @@ philosophical paradoxes—even from Kant's antinomies.
 
 xxii
 
-preface, 1959
-
 perception or knowledge or belief by the analysis of the phrases 'I see'
 or 'I perceive', or 'I know', 'I believe', 'I hold that it is probable'; or
 perhaps by that of the word 'perhaps'.
@@ -569,8 +564,6 @@ scientists: they even define philosophy in such a way that it becomes,
 by definition, incapable of making any contribution to our knowledge
 of the world. The self-mutilation which this so surprisingly persuasive
 definition requires does not appeal to me. There is no such thing as an
-
-preface, 1959
 
 xxi
 
@@ -654,8 +647,6 @@ and any method is welcome to them if they think that it may help them
 
 xxiv
 
-preface, 1959
-
 to see their problems more clearly, or to hit upon a solution, however
 tentative.
 
@@ -733,8 +724,6 @@ growth of common-sense knowledge. But all of them discovered that
 scientific knowledge can be more easily studied than common-sense
 
 xxvi
-
-preface, 1959
 
 knowledge. For it is common-sense knowledge writ large, as it were. Its very
 problems are enlargements of the problems of common-sense knowledge. For example, it replaces the Humean problem of 'reasonable
@@ -916,8 +905,6 @@ p. 699.
 *1 The decisive passages from Hume are quoted in appendix *vii, text to footnotes 4, 5,
 and 6; see also note 2 to section 81, below.
 
-the logic of science
-
 principle of induction (which he formulated as the 'principle of
 universal causation') to be 'a priori valid'. But I do not think that his
 ingenious attempt to provide an a priori justification for synthetic
@@ -955,8 +942,6 @@ Wahrscheinlichkeitsrechnung, Mathem. Zeitschr. 34, 1932; and elsewhere.
 4 Reichenbach, Erkenntnis 1, 1930, p. 186.
 *2 See also chapter 10, below, especially note 2 to section 81, and chapter *ii of the
 Postscript for a fuller statement of this criticism.
-
-a survey of some fundamental problems
 
 might be described as the theory of the deductive method of testing, or as the
 view that a hypothesis can only be empirically tested—and only after it
@@ -996,8 +981,6 @@ generalization have produced Descartes's law of refraction; cf. the English tran
 p. 34.) So does V. Kraft, Die Grundformen der Wissenschaftlichen Methoden, 1925; see also
 Carnap, Erkenntnis 2, 1932, p. 440.
 
-the logic of science
-
 us. Someone must have formulated it, and submitted it to logical
 examination.
 
@@ -1033,8 +1016,6 @@ saying that every discovery contains 'an irrational element', or 'a creative int
 the 'search for those highly universal laws . . . from which a picture of
 the world can be obtained by pure deduction. There is no logical
 path', he says, 'leading to these . . . laws. They can only be reached by
-
-a survey of some fundamental problems
 
 intuition, based upon something like an intellectual love ('Einfühlung')
 of the objects of experience.'6
@@ -1073,8 +1054,6 @@ The World as I see It, 1935, p. 125). Similar ideas are found earlier in Liebig,
 Mach, Principien der Wärmelehre, 1896, pp. 443 ff. *The German word 'Einfühlung' is difficult
 to translate. Harris translates: 'sympathetic understanding of experience'.
 
-the logic of science
-
 other statements, previously accepted, certain singular statements—
 which we may call 'predictions'—are deduced from the theory; especially predictions that are easily testable or applicable. From among
 these statements, those are selected which are not derivable from the
@@ -1109,8 +1088,6 @@ Of the many objections which are likely to be raised against the view
 here advanced, the most serious is perhaps the following. In rejecting
 
 *1 For this term, see note *1 before section 79, and section *29 of my Postscript.
-
-a survey of some fundamental problems
 
 the method of induction, it may be said, I deprive empirical science of
 what appears to be its most important characteristic; and this means
@@ -1147,8 +1124,6 @@ more clearly that science is not a system of concepts but rather a
 1933, p. 426; *It is now here reprinted, in translation, in appendix *i.
 2 Cf. the last sentence of his Enquiry Concerning Human Understanding. *With the next paragraph (and my allusion to epistemologists) compare for example the quotation from
 Reichenbach in the text to note 1, section 1.
-
-the logic of science
 
 system of statements.*1 Accordingly, they wish to admit, as scientific
 or legitimate, only those statements which are reducible to elementary (or 'atomic') statements of experience—to 'judgments of
@@ -1189,8 +1164,6 @@ meaning which I wished to avoid. Cf. also my Postscript, *29.
 *3 Thus Hume, like Sextus, condemned his own Enquiry on its last page; just as later
 Wittgenstein condemned his own Tractatus on its last page. (See note 2 to section 10.)
 
-a survey of some fundamental problems
-
 trivial; for metaphysics has usually been defined as non-empirical. But
 of course, the positivists believe they can say much more about metaphysics than that some of its statements are non-empirical. The words
 'meaningless' or 'nonsensical' convey, and are meant to convey, a
@@ -1226,8 +1199,6 @@ Philosophy, ed. by H. D. Hutton, 1911, p. 223. See also my Open Society, note 51
 written in 1934, I am dealing here of course only with the Tractatus.
 5 Wittgenstein, op. cit., Propositions 4.01; 4.03; 2.221.
 6 Cf. note 1 to section 2.
-
-the logic of science
 
 by Schlick*4 in the following words: 'The problem of induction consists
 in asking for a logical justification of universal statements about reality . . .
@@ -1265,8 +1236,6 @@ Postscript.
 8 Cf. Section 78 (for example note 1). *See also my Open Society, notes 46, 51, and 52 to
 chapter 11, and my paper. 'The Demarcation between Science and Metaphysics', contributed in January 1955 to the Carnap volume of the Library of Living Philosophers, edited by
 P. A. Schilpp and now in my Conjectures and Refutations, 1963 and 1965.
-
-a survey of some fundamental problems
 
 given system of statements whether or not its closer study is the
 concern of empirical science.
@@ -1309,8 +1278,6 @@ truth, and ready to pay attention to each other. (Cf. my Open Society, chapter 2
 9 This is Dingler's view; cf. note 1 to section 19.
 10 This is the view of O. Spann (Kategorienlehre, 1924).
 
-the logic of science
-
 that I am making the mistake of which I have accused the positivists—
 that of trying to kill metaphysics by calling it names. I do not even go
 so far as to assert that metaphysics has no value for empirical science.
@@ -1348,8 +1315,6 @@ have to satisfy. First, it must be synthetic, so that it may represent a
 Forschung, in Mein Weltbild, 1934, p. 43; English translation by A. Harris: The World as I See It,
 1935, pp. 23 ff. *See also section 85, and my Postscript.
 *1 Cf. appendix *x.
-
-a survey of some fundamental problems
 
 non-contradictory, a possible world. Secondly, it must satisfy the criterion of demarcation (cf. sections 6 and 21), i.e. it must not be metaphysical, but must represent a world of possible experience. Thirdly, it
 must be a system distinguished in some way from other such systems
@@ -1390,8 +1355,6 @@ is the method of its verification.'2
 1 Schlick, Naturwissenschaften 19, 1931, p. 150.
 2 Waismann, Erkenntnis 1, 1903, p. 229.
 
-the logic of science
-
 Now in my view there is no such thing as induction.*1 Thus
 inference to theories, from singular statements which are 'verified
 by experience' (whatever that may mean), is logically inadmissible.
@@ -1431,8 +1394,6 @@ and *19, and my Conjectures and Refutations, chs. 1 and 11.
 3 Related ideas are to be found, for example, in Frank, Die Kausalität und ihre Grenzen, 1931,
 ch. I, §10 (pp. 15f.); Dubislav, Die Definition (3rd edition 1931), pp. 100 f. (Cf. also note 1
 to section 4, above.)
-
-a survey of some fundamental problems
 
 (Thus the statement, 'It will rain or not rain here tomorrow' will not
 be regarded as empirical, simply because it cannot be refuted; whereas
@@ -1478,8 +1439,6 @@ always possible to find some way of evading falsification, for example
 
 *4 This asymmetry is now more fully discussed in section *22 of my Postscript.
 
-the logic of science
-
 by introducing ad hoc an auxiliary hypothesis, or by changing ad hoc a
 definition. It is even possible without logical inconsistency to adopt the
 position of simply refusing to acknowledge any falsifying experience
@@ -1516,8 +1475,6 @@ not in dispute.4
 4 For this see also my paper mentioned in note 1 to section 4, *now here reprinted in
 appendix *i; and my Postscript, esp. section *2.
 
-a survey of some fundamental problems
-
 7 THE PROBLEM OF THE 'EMPIRICAL BASIS'
 If falsifiability is to be at all applicable as a criterion of demarcation,
 then singular statements must be available which can serve as premisses
@@ -1549,8 +1506,6 @@ tendency to emphasize the close connection between basic statements
 and our perceptual experiences. Yet it was also rightly felt that statements can
 be logically justified only by statements. Thus the connection between the perceptions and the statements remained obscure, and was described by correspondingly obscure expressions which elucidated nothing, but slurred
 over the difficulties or, at best, adumbrated them through metaphors.
-
-the logic of science
 
 Here too a solution can be found, I believe, if we clearly separate the
 psychological from the logical and methodological aspects of the problem. We must distinguish between, on the one hand, our subjective experiences or our feelings of conviction, which can never justify any statement
@@ -1632,8 +1587,6 @@ not postulate any such principle (cf. section 12); but I agree that scientific s
 since they must be inter-subjectively testable, must always have the character of universal
 hypotheses. *See also note *1 to section 22.
 
-the logic of science
-
 reproduced by anyone who carries out the appropriate experiment in
 the way prescribed. No serious physicist would offer for publication, as
 a scientific discovery, any such 'occult effect', as I propose to call it—
@@ -1707,8 +1660,6 @@ raised the objection that it may lead to an infinite regress; and it might
 well appear to the reader now that the very same objection can be
 urged against that procedure of deductive testing which I myself advocate. However, this is not so. The deductive method of testing cannot
 
-the logic of science
-
 establish or justify the statements which are being tested; nor is it
 intended to do so. Thus there is no danger of an infinite regress. But it
 must be admitted that the situation to which I have drawn attention—
@@ -1746,8 +1697,6 @@ to say, their falsifiability.
 ARE INDISPENSABLE
 What are rules of scientific method, and why do we need them? Can
 there be a theory of such rules, a methodology?
-
-the logic of science
 
 The way in which one answers these questions will largely depend
 upon one's attitude to science. Those who, like the positivists, see
@@ -1825,8 +1774,6 @@ two fields was sheer nonsense. (The same view was still maintained by Wittgenste
 the legend that I had proposed to replace the verifiability criterion by a falsifiability
 criterion of meaning. See my Postscript, especially sections *19 to *22.
 *2 Some positivists have since changed this attitude; see note 6, below.
-
-the logic of science
 
 meaningful none except problems in natural science,1 any debate about
 the concept of 'meaning' will also turn out to be meaningless.2 The
@@ -1908,8 +1855,6 @@ such questions rest upon decisions (the 'principle of tolerance'). According to 
 preface, Wittgenstein has for years propounded a similar view in unpublished works.
 (*See however note *1 above.) Carnap's Logische Syntax was published while the present
 book was in proof. I regret that I was unable to discuss it in my text.
-
-the logic of science
 
 11 METHODOLOGICAL RULES AS CONVENTIONS
 
@@ -1995,8 +1940,6 @@ of corroboration ≠ probability', or my 'theorem on truth-content' (see the Fei
 Matter, and Method, edited by P. K. Feyerabend and G. Maxwell, 1966, pp. 343–353) are
 perhaps unexpected and not quite on the surface.
 2 K. Menger, Dimensionstheorie, 1928, p. 76.
-
-the logic of science
 
 certainly true of the definition of the concept 'science'. It is only from
 the consequences of my definition of empirical science, and from the
@@ -2145,8 +2088,6 @@ event we can describe.1 This rule guides the scientific investigator in his
 decision is due to H. Gomperz, Das Problem der Willensfreiheit, 1907. Cf. Schlick, Die Kausalitat
 in der gegenwartigen Physik, Naturwissenschaften 19, 1931, p. 154.
 
-some structural components of a theory of experience
-
 work. The view that the latest developments in physics demand the
 renunciation of this rule, or that physics has now established that
 within one field at least it is pointless to seek any longer for laws, is not
@@ -2183,8 +2124,6 @@ Heisenberg) '. . . means that it is impossible to search for that formula.' (Cf.
 section 78.)
 *3 But see now also chapters *iv to *vi of my Postscript.
 
-theories
-
 8 ft.). Formal logic (including symbolic logic), which is concerned
 only with the theory of deduction, treats these two statements alike as
 universal statements ('formal' or 'general' implications).1 I think however that it is necessary to emphasize the difference between them.
@@ -2218,8 +2157,6 @@ or 'formal' implications of logistic (cf. note 6 to section 14). *See now also a
 and my Postscript, especially section *15.
 2 Cf. for instance F. Kaufmann, Bemerkungen zum Grundlagenstreit in Logik und Mathematik,
 Erkenntnis 2, 1931, p. 274.
-
-some structural components of a theory of experience
 
 of meaning, which demands verifiability, or to some similar
 consideration.
@@ -2260,8 +2197,6 @@ It is usual to elucidate this distinction with the help of examples of
 3 Examples: (a) Every natural number has a successor. (b) With the exception of the
 numbers 11, 13, 17, and 19, all numbers between 10 and 20 are divisible.
 
-theories
-
 the following kind: 'dictator', 'planet', 'H2O' are universal concepts or
 universal names. 'Napoleon', 'the earth', 'the Atlantic' are singular
 or individual concepts or names. In these examples individual concepts
@@ -2298,8 +2233,6 @@ universal name. There can be no doubt that we learn the use of universal
 1 But the units of measurements of the co-ordinate system which first were also established by individual names (the rotation of the earth; the standard metre in Paris) can be
 defined in principle by means of universal names, for example by means of the wavelength or frequency of the monochromatic light emitted by a certain kind of atoms
 treated in a certain way.
-
-some structural components of a theory of experience
 
 words, that is their application to individuals, by ostensive gestures and
 by similar means. The logical basis of applications of this kind is that
@@ -2342,8 +2275,6 @@ Pasteur' (or something like this), or else as 'heated to 80 degrees centigrade a
 this temperature for ten minutes'. The first definition makes 'pasteurized' an individual
 concept; the second makes it a universal concept. But cp. also note 4, below.
 
-theories
-
 I believe that my usage corresponds fairly closely to the customary
 use of the expressions 'universal' and 'individual'. But whether or not
 this is so I certainly consider the distinction here made to be indispensable if we are not to blur the corresponding distinction between universal and singular statements. (There is a complete analogy between
@@ -2378,8 +2309,6 @@ others) based on proper names are 'principles of individuation'.
 the ascent from individual names to universal names. If the class defined by means of
 abstraction is defined extensionally with the help of individual names, then it is in its
 turn an individual concept.
-
-some structural components of a theory of experience
 
 individual concepts and universal concepts with arguments like the
 following of Carnap's: '. . . this distinction is not justified', he says,
@@ -2422,8 +2351,6 @@ the class of 'geometrical points falling within my body', is for me an individua
 but cannot be represented by means of a 'description'. Cf. Whitehead and Russell Principia
 Mathematica (2nd edition 1925, vol. I), Introduction to the second edition, II 1, pp. xix, f.
 
-theories
-
 between universal and singular statements. The instruments of
 symbolic logic are no more adequate for handling the problem of
 universals than for handling the problem of induction.6
@@ -2456,18 +2383,16 @@ black', or 'there are non-black ravens'.
 the system of Whitehead and Russell. It is not correct to say that the so-called 'formal' or
 'general' implications must be universal statements. For every singular statement can be
 put in the form of a general implication. For example, the statement 'Napoleon was born
-in Corsica' can be expressed in the form, (x) (x = N → (cid:1)x), in words: it is true for all
+in Corsica' can be expressed in the form, (x) (x = N → x), in words: it is true for all
 values of x that, if x is identical with Napoleon, then x was born in Corsica.
 
-A general implication is written, '(x) ((cid:1)x → fx)', where the 'universal operator', '(x)', can
-be read: 'It is true for all values of x'; '(cid:1)x' and 'fx' are 'propositional functions': (e.g. 'x was born
+A general implication is written, '(x) (x → fx)', where the 'universal operator', '(x)', can
+be read: 'It is true for all values of x'; 'x' and 'fx' are 'propositional functions': (e.g. 'x was born
 in Corsica', without its being said who x is; a propositional function can be neither true
 nor false). ' → ' stands for: 'if it is true that . . . then it is true that . . .' the propositional
-function (cid:1)x preceding ' → ' may be called the antecedent or the conditioning propositional
+function x preceding ' → ' may be called the antecedent or the conditioning propositional
 function, and fx the consequent propositional function or the prediction; and the general implication, (x)
-((cid:1)x → fx), asserts that all values of x which satisfy (cid:1) also satisfy f.
-
-some structural components of a theory of experience
+(x → fx), asserts that all values of x which satisfy also satisfy f.
 
 The theories of natural science, and especially what we call natural
 laws, have the logical form of strictly universal statements; thus they
@@ -2503,8 +2428,6 @@ atomic number exists is to be so formulated that it becomes testable,
 then much more is required than a purely existential statement.
 For example, the element with the atomic number 72 (Hafnium) was
 not discovered merely on the basis of an isolated purely existential
-
-theories
 
 statement. On the contrary, all attempts to find it were in vain until
 Bohr succeeded in predicting several of its properties by deducing
@@ -2547,8 +2470,6 @@ and may add to its degree of falsifiability or testability. In this case, the th
 including the existential statement in question is to be described as scientific rather than
 metaphysical.
 
-some structural components of a theory of experience
-
 existential statements are constructed symmetrically. It is only*2 the
 line drawn by our criterion of demarcation which produces an
 asymmetry.
@@ -2583,8 +2504,6 @@ four fundamental requirements. (a) The system of axioms must be free
 If it is characteristic of empirical science to look upon singular statements as teststatements, then the asymmetry arises from the fact that, with respect to singular statements,
 universal statements are falsifiable only and existential statements verifiable only. See also
 section *22 of my Postscript.
-
-theories
 
 from contradiction (whether self-contradiction or mutual contradiction).
 This is equivalent to the demand that not every arbitrarily chosen
@@ -2623,8 +2542,6 @@ interpretations of any system of axioms to be admissible. The axioms
 somewhat different account in Carnap's Abriss der Logistik, 1929, pp. 70 ff.
 *1 The point is more fully discussed in my Postscript, especially section *22.
 
-some structural components of a theory of experience
-
 may be regarded either (i) as conventions, or they may be regarded (ii) as
 empirical or scientific hypotheses.
 
@@ -2658,8 +2575,6 @@ function into a true statement. By means of this statement-equation a
 definite class of admissible value-systems is defined, namely the class of
 those which satisfy it. The analogy with a mathematical equation is
 clear. If our second example is interpreted, not as a statement-function
-
-theories
 
 but as a statement-equation, then it becomes an equation in the ordinary (mathematical) sense.
 
@@ -2699,8 +2614,6 @@ system and the system of names of these objects which may be substituted in the 
 should now write: 'only names of objects which constitute a model may be admitted for
 substitution'.
 
-some structural components of a theory of experience
-
 be an empirical way of defining a concept. It is customary to speak of 'ostensive
 definitions'. This means that a definite empirical meaning is assigned
 to a concept by correlating it with certain objects belonging to the real
@@ -2737,8 +2650,6 @@ systems.
 We may distinguish, within a theoretical system, statements belonging
 to various levels of universality. The statements on the highest level of
 universality are the axioms; statements on the lower levels can be
-
-theories
 
 deduced from them. Higher level empirical statements have always the
 character of hypotheses relative to the lower level statements deducible
@@ -2778,8 +2689,6 @@ consequent)—a distinction which I was taught to understand by Alfred Tarski, a
 months after the publication of the book. The problem is not very relevant to the context
 of the book; but the confusion should be pointed out nevertheless. (These problems are
 discussed more fully, for example, in my paper in Mind, 56, 1947, pp. 193 ff.)
-
-some structural components of a theory of experience
 
 be read: 'p follows from t'. Assume p to be false, which we may write
 'p¯', to be read 'not-p'. Given the relation of deducibility, t → p, and
@@ -2845,8 +2754,6 @@ who are influenced by the school of thought known as 'conventionalism'.1 Some of
 objet et sa structure, 1906; English translation by P. P. Wiener: The Aim and Structure of Physical
 Theory, Princeton, 1954). A recent adherent is H. Dingler (among his numerous works
 may be mentioned: Das Experiment, and Der Zusammenbruch der Wissenschaft und das Primat der
-
-some structural components of a theory of experience
 
 sections 6, 11, and 17; they will now be considered a little more
 closely.
@@ -2926,8 +2833,6 @@ point, whatever name we may give to this element.
 Erkenntnis 4, 1934, pp. 100 f., as well as the work there announced, Das Weltbild und die
 Begriffsapparatur); he calls his standpoint 'radical conventionalism'.
 
-some structural components of a theory of experience
-
 Or he will eliminate them by suggesting ad hoc the adoption of
 certain auxiliary hypotheses, or perhaps of certain corrections to our
 measuring instruments.
@@ -2964,8 +2869,6 @@ threaten our system, we may exclude from science on the ground that
 they are insufficiently supported, unscientific, or not objective, or even
 
 3 Carnap, Über die Aufgabe der Physik, Kantstudien, 28, 1923, p. 100.
-
-falsifiability
 
 on the ground that the experimenter was a liar. (This is the sort of
 attitude which the physicist may sometimes quite rightly adopt
@@ -3004,8 +2907,6 @@ reality" '.
 A clear appreciation of what may be gained (and lost) by conventionalist methods was expressed, a hundred years before Poincaré,
 by Black who wrote: 'A nice adaptation of conditions will make almost
 
-some structural components of a theory of experience
-
 any hypothesis agree with the phenomena. This will please the
 imagination but does not advance our knowledge.'1
 
@@ -3036,8 +2937,6 @@ restore the agreement between theory and experiment—mainly the
 1 J. Black, Lectures on the Elements of Chemistry, Vol. I, Edinburgh, 1803, p. 193.
 *1 This is a mistake, as pointed out by A. Grünbaum, B.J.P.S. 10, 1959, pp. 48 ff. Yet as this
 hypothesis is less testable than special relativity, it may illustrate degrees of adhocness.
-
-falsifiability
 
 findings of Michelson and Morley. An advance was here achieved only
 by the theory of relativity which predicted new consequences, new
@@ -3073,8 +2972,6 @@ derivations to be discovered in the future can be disregarded.
 empirically definable) terms do not exist at all. I am using in their place undefinable universal names which are established only by linguistic usage. See also end of
 section 25.
 
-some structural components of a theory of experience
-
 21 LOGICAL INVESTIGATION OF FALSIFIABILITY
 Only in the case of systems which would be falsifiable if treated in
 accordance with our rules of empirical method is there any need to
@@ -3109,8 +3006,6 @@ enough to demand that from the theory together with some initial
 conditions we should be able to deduce more than we could deduce
 from those initial conditions alone. This demand would indeed
 exclude tautological theories, but it would not exclude synthetic metaphysical statements. (For example from 'Every occurrence has a cause'
-
-falsifiability
 
 and 'A catastrophe is occurring here', we can deduce 'This catastrophe
 has a cause'.)
@@ -3155,8 +3050,6 @@ The preceding paragraph of this note may be taken as illustrating another rule o
 theory, we should always make a serious attempt to apply this or a similar criticism to
 our own theory.
 
-some structural components of a theory of experience
-
 inconsistent (or which it rules out, or prohibits): we call this the class
 of the potential falsifiers of the theory; and secondly, the class of those
 basic statements which it does not contradict (or which it 'permits').
@@ -3192,8 +3085,6 @@ might cite Mach's so-called 'fact' referred to in section 18). Even though it is
 statement 'All ravens are black' the inter-subjectively testable statement that there is a
 family of white ravens in the zoo at New York would suffice. *All this shows the urgency
 of replacing a falsified hypothesis by a better one. In most cases we have, before falsifying
-
-falsifiability
 
 hypothesis must be empirical, and so falsifiable, only means that it
 must stand in a certain logical relationship to possible basic statements;
@@ -3236,8 +3127,6 @@ statement. As a rule, he will have means for forming an opinion by examining wit
 documents, etc.; that is to say, by appealing to other intersubjectively testable and
 reproducible facts. (Cf. sections 27 to 30.)
 
-some structural components of a theory of experience
-
 23 OCCURRENCES AND EVENTS
 The requirement of falsifiability which was a little vague to start with
 has now been split into two parts. The first, the methodological postulate (cf. section 20), can hardly be made quite precise. The second, the
@@ -3275,8 +3164,6 @@ they are intuitively adequate; that is, I do not believe that they adequately re
 usage, or our intentions. It was Alfred Tarski who pointed out to me (in Paris, in 1935)
 that a 'semantic' definition would be required instead of a 'syntactical' one.
 
-falsifiability
-
 This suggests the following definition. Let pk be a singular statement.
 (The subscript 'k' refers to the individual names or coordinates which
 occur in pk.) Then we call the class of all statements which are equivalent to pk the occurrence pk. Thus we shall say that it is an occurrence, for
@@ -3311,8 +3198,6 @@ element of the event, 'upsetting of a glass of water'.
 Speaking of the singular statement pk, which represents an occurrence Pk, one may say, in the realistic mode of speech, that this statement asserts the occurrence of the event (P) at the spatio-temporal
 position k. And we take this to mean the same as 'the class Pk, of the
 singular statements equivalent to pk, is an element of the event (P)'.
-
-some structural components of a theory of experience
 
 We will now apply this terminology2 to our problem. We can say of a
 theory, provided it is falsifiable, that it rules out, or prohibits, not
@@ -3349,8 +3234,6 @@ uniformities. But here we do not need any such concept, seeing that we are only 
 uniformities (universal 'states of affairs' etc.) exist, do not concern us. *But such questions are discussed in section 79, and now also in appendix *x, and in section *15 of the
 Postscript.
 *1 The illustration will be used, more especially, in sections 31 ff., below.
-
-falsifiability
 
 various basic statements belonging to this event will each verify the
 purely existential statement. Nevertheless, the class of its potential falsifiers is empty; so from the existential statement nothing follows about the
@@ -3402,8 +3285,6 @@ p. 264); but surprisingly enough, Russell challenged this fact in his reply to W
 (op. cit., pp. 695 f.), speaking however of 'false propositions' where Wiener spoke of
 'inconsistent premises'. Cf. my Conjectures and Refutations, 1963, 1965, pp. 317 ff.
 
-some structural components of a theory of experience
-
 with that of all possible basic statements: it is falsified by any statement
 whatsoever. (One could perhaps say that this fact illustrates an advantage of our method, i.e. of our way of considering possible falsifiers
 rather than possible verifiers. For if one could verify a statement by the
@@ -3439,8 +3320,6 @@ extent analogous.1 Statements which do not satisfy the condition of
 *1 Cf. my Postscript, section *3 (my reply to the 'second proposal'); and section *12,
 point (2).
 1 Cf. my note in Erkenntnis 3, 1933, p. 426. *This is now printed in appendix *i, below.
-
-falsifiability
 
 consistency fail to differentiate between any two statements within the
 totality of all possible statements. Statements which do not satisfy
@@ -3510,8 +3389,6 @@ pp. 108 f.)
 3 I am following here almost word for word the expositions of P. Frank (cf. section 27,
 note 4) and H. Hahn (cf. section 27, note 1).
 
-some structural components of a theory of experience
-
 the false statement, whose terms do not agree with it. Science is merely
 an attempt to classify and describe this perceptual knowledge, these
 immediate experiences whose truth we cannot doubt; it is the systematic
@@ -3550,8 +3427,6 @@ only with statements. According to his view, the correspondence of a
 1 The term is due to Neurath; cf., for example, Soziologie, in Erkenntnis 2, 1932, p. 393.
 2 Carnap, Erkenntnis 2, 1932, pp. 432 ff.; 3, 1932, pp. 107 ff.
 
-the problem of the empirical basis
-
 statement with a fact is nothing else than a logical correspondence
 between statements belonging to different levels of universality: it is3
 '. . . the correspondence of higher level statements with statements
@@ -3586,8 +3461,6 @@ theory of protocol sentences is nothing but psychologism translated
 6 Carnap, Erkenntnis. 3, 1933, p. 228.
 7 Carnap, Erkenntnis 2, 1932, p. 437.
 8 Carnap, Erkenntnis, p. 438.
-
-some structural components of a theory of experience
 
 into the formal mode of speech. Much the same can be said of
 Neurath's view:9 he demands that in protocol sentences such words as
@@ -3627,8 +3500,6 @@ which was observed by Otto)]}.'
 11 Neurath, op. cit., pp. 209 f.
 12 Carnap, Erkenntnis 3, 1933, pp. 215 ff.; cf. note 1 to section 29.
 
-the problem of the empirical basis
-
 manner of conventionalism; but given a good supply of protocol sentences, one could even confirm it, by the testimony of witnesses who
 have testified, or protocolled, what they have seen and heard. Neurath
 avoids one form of dogmatism, yet he paves the way for any arbitrary
@@ -3663,8 +3534,6 @@ rather: how do we test scientific statements by their deductive
 1 H. Hahn, Logik, Mathematik und Naturerkennen, in Einheitswissenschaft 2, 1933, pp. 19 and 24.
 2 Cf. Carnap, for instance, Scheinprobleme in der Philosophie, 1928, p. 15 (no italics in the
 original).
-
-some structural components of a theory of experience
 
 consequences?*1 And what kind of consequences can we select for this
 purpose if they in their turn are to be inter-subjectively testable?
@@ -3704,8 +3573,6 @@ which alone interest the epistemologist.
 was always, in my view, part of criticizing. (Cf. my Postscript, sections *7, text between notes
 5 and 6, and end of *52.)
 
-the problem of the empirical basis
-
 (There is a widespread belief that the statement 'I see that this table
 here is white', possesses some profound advantage over the statement
 'This table here is white', from the point of view of epistemology. But
@@ -3742,8 +3609,6 @@ an instrument, comparable perhaps to some of our industrial
 machinery. Science may be regarded as a means of production—as the
 
 3 Cf. the remark on 'occult effects' in section 8.
-
-some structural components of a theory of experience
 
 last word in 'roundabout production'.4 Even from this point of view
 science is no more closely connected with 'our experience' than other
@@ -3783,8 +3648,6 @@ say. This is easily seen if we contemplate the fact that 'All swans are white' a
 are black' do not, of course, contradict each other, but together merely imply that there
 are no swans—clearly not an observation statement, and not even one that can be
 'verified'. (A unilaterally falsifiable statement like 'All swans are white', by the way, has
-
-the problem of the empirical basis
 
 and a basic statement can contradict each other. Condition (b) can only
 be satisfied if it is possible to derive the negation of a basic statement
@@ -3831,8 +3694,6 @@ These were some of the considerations underlying my theory of the logical form o
 
 basic statements. (See my Conjectures and Refutations, 1963, pp. 386 f.)
 
-some structural components of a theory of experience
-
 be called a 'singular non-existence statement', or a 'singular there-is-not
 statement'.
 
@@ -3870,8 +3731,6 @@ point which I shall not elaborate).
 
 No doubt it will now seem as though in demanding observability, I
 
-the problem of the empirical basis
-
 have, after all, allowed psychologism to slip back quietly into my
 theory. But this is not so. Admittedly, it is possible to interpret the
 concept of an observable event in a psychologistic sense. But I am using it
@@ -3905,8 +3764,6 @@ undefined, but can also be explained fairly precisely, as we have seen
 here.
 
 1 Carnap, Erkenntnis 2, 1932, p. 445.
-
-some structural components of a theory of experience
 
 29 THE RELATIVITY OF BASIC STATEMENTS.
 RESOLUTION OF FRIES'S TRILEMMA
@@ -3946,8 +3803,6 @@ about perception to which we 'appeal in critical cases'. Cf. the quotation in th
 next note. I wish to take this opportunity of thanking Professor Carnap for his friendly
 words about my unpublished work, at the place mentioned.
 
-the problem of the empirical basis
-
 Just as a logical proof has reached a satisfactory shape when the
 difficult work is over, and everything can be easily checked, so, after
 science has done its work of deduction or explanation, we stop at basic
@@ -3984,8 +3839,6 @@ basic statements by these experiences. Experiences can motivate a decision, and 
 2 Cf. the previous note. *This paper of Carnap's contained the first published report of
 my theory of testing hypotheses; and the view here quoted from it was there erroneously
 attributed to me.
-
-some structural components of a theory of experience
 
 statement cannot be justified by them—no more than by thumping the
 table.3
@@ -4027,8 +3880,6 @@ either all science is made part of my knowing, 'my' sense experience (monism of 
 data); or sense experiences are made part of the objective scientific network of arguments
 in the form of protocol statements (monism of statements).
 
-the problem of the empirical basis
-
 to an agreement upon basic statements is, like other kinds of applications, to perform a purposeful action, guided by various theoretical
 considerations.
 
@@ -4069,8 +3920,6 @@ especially sections *15 and *16.
 1 H. Weyl, Philosophie der Mathematik und Naturwissenschaft, 1927, p. 113; English Edition:
 Philosophy of Mathematics and Natural Science, Princeton, 1949, p. 116.
 
-some structural components of a theory of experience
-
 order to lighten the task of the theoretician',2 or perhaps in order to
 furnish the theoretician with a basis for inductive generalizations. On
 the contrary, the theoretician must long before have done his work, or
@@ -4108,8 +3957,6 @@ them.
 edited by P. A. Schilpp, 1949, p. 174. There are better illustrations, such as Adams's and
 Leverrier's discovery of Neptune, or that of Hertzean waves.
 3 Mach, Die Prinzipien der Wärmelehre 1896, p. 438.
-
-the problem of the empirical basis
 
 circumstances' (thus acknowledging the significance of theories in
 spite of himself ).
@@ -4152,8 +3999,6 @@ result of a test, i.e. an agreement about basic statements. With the
 *5 For a criticism of the 'instrumentalist' view see however the references in note *1
 before section 12 (p. 37), and in the starred addition to note 1, section 12.
 
-some structural components of a theory of experience
-
 conventionalist I hold that the choice of any particular theory is an act,
 a practical matter. But for me the choice is decisively influenced by the
 application of the theory and the acceptance of the basic statements in
@@ -4191,8 +4036,6 @@ principles which are chiefly, if not solely, designed to result in the
 discovery of objective truth. They sometimes leave room not only
 for subjective convictions but even for subjective bias. Yet even if we
 
-the problem of the empirical basis
-
 disregard these special aspects of the older procedure and imagine
 a procedure based solely on the aim of promoting the discovery
 of objective truth, it would still be the case that the verdict of
@@ -4227,8 +4070,6 @@ basic statements. Their acceptance is part of the application of a theoretical s
 applications of the theoretical system possible.
 
 The empirical basis of objective science has thus nothing 'absolute'
-
-some structural components of a theory of experience
 
 about it.4 Science does not rest upon solid bedrock. The bold structure
 of its theories rises, as it were, above a swamp. It is like a building
@@ -4284,8 +4125,6 @@ circular area, and the possible events by the radii of the circle, then we
 can say: At least one radius—or perhaps better, one narrow sector whose
 width may represent the fact that the event is to be 'observable'—must
 be incompatible with the theory and ruled out by it. One might then
-
-some structural components of a theory of experience
 
 represent the potential falsifiers of various theories by sectors of various widths. And according to the greater and lesser width of the
 sectors ruled out by them, theories might then be said to have more,
@@ -4366,8 +4205,6 @@ the Postscript, and my paper 'The Aim of Science', Ratio 1, 1957, pp. 24–35.
 is inapplicable for similar reasons (i.e. because the set of all statements of a language is
 denumerable).
 
-some structural components of a theory of experience
-
 classes of 'higher' and 'lower' dimension, will be used here to tackle
 the problem of comparing degrees of testability. This is possible
 because basic statements, combined by conjunction with other basic
@@ -4444,8 +4281,6 @@ comparable with a self-contradictory statement as to its degree of
 
 *1 See section 38, and the appendices i, *vii, and *viii.
 
-some structural components of a theory of experience
-
 falsifiability. We have Fsb(c) > Fsb(e) > 0.*2 If we arbitrarily put
 Fsb(c) = 1, i.e. arbitrarily assign the number 1 to the degree of falsifiability of a self-contradictory statement, then we may even define an
 empirical statement e by the condition 1 > Fsb(e) > 0. In accordance
@@ -4505,8 +4340,6 @@ statements such as 'All adult men are more than two feet high' (or 'All adult me
 than nine feet high'); that is to say, statements with predicates stating a measurable
 property. For it can be shown that the metric of content or falsifiability would have to be
 a function of the metric of the predicate; and the latter must always contain an arbitrary,
-
-some structural components of a theory of experience
 
 should be arbitrarily making the non-comparable statements comparable. There is, however, nothing to prevent us from picking out one of
 the sequences from the lattice, and indicating the order of its statements by numbers. In so doing we should have to proceed in such a
@@ -4586,8 +4419,6 @@ called its 'consequence class'.) So the logical content of p is at least equal
 to (i.e. greater than or equal to) that of a statement q, if q is derivable
 
 1 Carnap, Erkenntnis 2, 1932, p. 458.
-
-some structural components of a theory of experience
 
 from p (or, in symbols, if 'p → q'*1). If the derivability is mutual (in
 symbols, 'p ↔ q') then p and q are said to be of equal content.2 If q is
@@ -4669,8 +4500,6 @@ With this in mind we may examine the following conceivable
 
 natural laws:
 
-some structural components of a theory of experience
-
 p: All heavenly bodies which move in closed
 orbits move in circles: or more briefly: All orbits of
 heavenly bodies are circles.
@@ -4744,21 +4573,11 @@ to those theories which can be most severely tested.*2
 
 q
 
-→ (cid:1)
-
-qx → (cid:1)
-
-px → fpx) → ((cid:1)
-
-px).(fpx → fqx)] → [((cid:1)
-
-*1 It will be seen that in the present section (in contrast to sections 18 and 35), the arrow
+→ qx → px → fpx) → (px).(fpx → fqx)] → [(*1 It will be seen that in the present section (in contrast to sections 18 and 35), the arrow
 is used to express a conditional rather than the entailment relation; cf. also note *1 to
 section 18.
 qx) → fqx)] or for short:
-1 We can write: [((cid:1)
-[((cid:1)
-→ fq] → (p → q). *The elementary character of this formula, asserted in
+1 We can write: [([(→ fq] → (p → q). *The elementary character of this formula, asserted in
 p).(fp
 the text, becomes clear if we write: '[(a → b).(c → d)] → [(b → c) → (a → d)]'. We then
 put, in accordance with the text, 'p' for 'b → c' and 'q' for 'a → d', etc.
@@ -4772,8 +4591,6 @@ the 'fundamental principle of mediate predication'. Cf. Bolzano, Wissenschaftsle
 and 7.
 *2 See now also section *15 and chapter *iv of my Postscript, especially section *76, text to
 note 5.
-
-some structural components of a theory of experience
 
 37 LOGICAL RANGES. NOTES ON THE
 THEORY OF MEASUREMENT
@@ -4862,8 +4679,6 @@ determine for the value of the original measurement. In other words,
 *2 Note that I am speaking here of measuring, not of counting. (The difference between
 these two is closely related to that between real numbers and rational numbers.)
 
-some structural components of a theory of experience
-
 the bounds of the interval are not sharp bounds but are really very
 small intervals, the bounds of which are in their turn still much
 smaller intervals, and so on. In this way we arrive at the idea of what
@@ -4938,8 +4753,6 @@ composition.
 
 1 Cf. Frank, Das Kausalgesetz und seine Grenzen, 1931, e.g. p. 24.
 *1 For the term 'composite', see note *1 to section 32.
-
-some structural components of a theory of experience
 
 But any such programme is faced with difficulties. For generally it is
 not easy to tell, merely by inspecting it, whether a statement is composite, i.e. equivalent to a conjunction of simpler statements. In all statements there occur universal names, and by analysing these one can
@@ -5019,8 +4832,6 @@ step they take. 'Matter', or 'atom', after Rutherford, and 'matter', or 'energy'
 Einstein, meant something different from what they meant before: the meaning of these
 concepts is a function of the—constantly changing—theory.
 
-some structural components of a theory of experience
-
 addition, it satisfies certain further conditions (which are explained in
 appendix i).
 
@@ -5091,8 +4902,6 @@ In connection with the statements q and s in my example I should
 holds can be assumed to be always satisfied by the 'spaces' with which we are concerned
 here.
 
-some structural components of a theory of experience
-
 like to make some methodological comments on Kepler's discovery of
 his laws.*1
 
@@ -5139,19 +4948,15 @@ dimensional
 classes 1
 
 one
-dimensional
 classes
 
 two
-dimensional
 classes
 
 three
-dimensional
 classes
 
 four
-dimensional
 classes
 
 —
@@ -5235,8 +5040,6 @@ obviously correspond to a reduction of the dimension of the theory itself.
 
 1 We could also, of course, begin with the empty (over-determined) minus-onedimensional class.
 
-some structural components of a theory of experience
-
 But how are these two methods of reducing the dimensions to be kept
 apart? We may give the name 'material reduction' to that method of
 reducing dimensions which does not operate with stipulations as to the
@@ -5319,13 +5122,9 @@ which will be our next concern. But there are other problems which
 Philosophie der Mathematik u. Naturwissenschaft, 1927, p. 59, English edition pp. 73 f.,
 where reference is made to Klein's Erlanger Programm.
 
-some structural components of a theory of experience
-
 are placed in a new light by our examination of degrees of falsifiability,
 as we shall see; especially the problem of the so-called 'probability of
 hypotheses' or of corroboration.
-
-Addendum, 1972
 
 One of the more important ideas of this book is that of the (empirical,
 or informative) content of a theory. ('Not for nothing do we call the
@@ -5374,8 +5173,6 @@ statements. Yet few have ever attempted to explain why they should be
 simpler, or what is meant, more precisely, by simplicity.
 
 1 Cf. Weyl, op. cit., pp. 115 f.; English edition p. 155. See also section 42 below.
-
-some structural components of a theory of experience
 
 If, moreover, we assume that theories are to be used for the sake of
 simplicity then, clearly, we should use the simplest theories. This is
@@ -5453,8 +5250,6 @@ deciding which curve, among all these possible curves, is to be chosen.
 'pragmatischer' freely.
 2 Schlick, ibid.
 3 Feigl, Theorie und Erfahrung in der Physik, 1931, p. 25.
-
-some structural components of a theory of experience
 
 The usual answer is, 'choose the simplest curve'. Wittgenstein, for
 example, says: 'The process of induction consists in assuming the
@@ -5534,8 +5329,6 @@ also relevant in this connection; they are largely in agreement with my own view
 expressed in section 82, although my line of approach and my arguments are quite
 different; cf. note 1 to section 82, *and the new note here following (note *1 to
 section 43).
-
-some structural components of a theory of experience
 
 questions which, as my quotations show, have so often been raised by
 philosophers of science in connection with their 'problem of
@@ -5618,8 +5411,6 @@ and, I hope, not quite without success, to learn something from Kneale. Cf. appe
 and section *15 of my Postscript.
 1 Schlick, Naturwissenschaften 19, 1931, p. 148 (cf. note 1 to the preceding section).
 
-some structural components of a theory of experience
-
 number of parameters to determine the concept of simplicity.*2 And
 by means of our distinction between a formal and a material reduction
 of the dimension of a theory (cf. section 40), certain possible objections to Weyl's theory can be met. One of these is the objection that the
@@ -5699,8 +5490,6 @@ place to place.
 
 At first sight the kind of simplicity here involved seems to have little
 
-some structural components of a theory of experience
-
 to do with degrees of falsifiability. But if the statements at issue
 are formulated as empirical hypotheses, then we find that the two
 concepts, simplicity and falsifiability, coincide in this case also.
@@ -5765,8 +5554,6 @@ principle which restrains us from indulgence in ad hoc hypotheses and
 auxiliary hypotheses: to the principle of parsimony in the use of
 hypotheses.
 
-Addendum, 1972
-
 In this chapter I have tried to show how far degrees of simplicity can be
 identified with degrees of testability. Nothing depends on the word
 'simplicity': I never quarrel about words, and I did not seek to reveal
@@ -5776,8 +5563,6 @@ Some great scientists and philosophers have made assertions about
 simplicity and its value for science. I suggested that some of these
 
 1 Schlick, ibid., p. 148.
-
-some structural components of a theory of experience
 
 assertions can be better understood if we assume that when speaking
 about simplicity they sometimes had testability in mind. This elucidates even some of Poincaré's examples, though it clashes with his views.
@@ -5805,8 +5590,6 @@ upon which to test my theory, in order to find out what it is worth.
 
 Thus we are confronted with two tasks. The first is to provide new foundations for the calculus of probability. This I shall try to do by developing the
 theory of probability as a frequency theory, along the lines followed by
-
-some structural components of a theory of experience
 
 Richard von Mises, but without the use of what he calls the 'axiom of
 convergence' (or 'limit axiom'), and with a somewhat weakened
@@ -5887,8 +5670,6 @@ called 'Laplacean' (also in this book), it is at least as old as De Moivre's Doc
 1718. For an early objection against the phrase 'equally possible', see C. S. Peirce, Collected
 Papers 2, 1932 (first published 1878), p. 417, para. 2, 673.
 
-some structural components of a theory of experience
-
 aroused in us by certain assertions or conjectures. In connection with
 some non-numerical statements, the word 'probable' may be quite
 satisfactorily translated in this way; but an interpretation along these
@@ -5968,8 +5749,6 @@ view on this point even though I now believe that Bernoulli's theorem may serve 
 'bridge' within an objective theory—as a bridge from propensities to statistics. See also
 appendix *ix and sections *55 to *57 of my Postscript.
 
-some structural components of a theory of experience
-
 49 THE FUNDAMENTAL PROBLEM OF
 THE THEORY OF CHANCE
 
@@ -6048,8 +5827,6 @@ p. 1; Grundlagen der Wahrscheinlichkeitsrechnung, Mathematische Zeitschrift 5, 1
 D. Sholl, and E. Rabinowitsch: Probability, Statistics and Truth, 1939; Wahrscheinlichkeitsrechnung
 und ihre Anwendung in der Statistik und theoretischen Physik (Vorlesungen über angewandte Mathematik
 1), 1931.
-
-some structural components of a theory of experience
 
 and which may be called the 'event-sequence' or the 'propertysequence'.
 
@@ -6133,8 +5910,6 @@ define the concept of a collective have met with strong criticism—
 
 3 Cf. von Mises, Wahrscheinlichkeitsrechnung, 1931, p. 22.
 
-some structural components of a theory of experience
-
 criticism which is not, I think, without some justification. In particular,
 objections have been raised against combining the axiom of convergence with the axiom of randomness1 on the ground that it is
 inadmissible to apply the mathematical concept of a limit, or of convergence, to a sequence which by definition (that is, because of the
@@ -6213,8 +5988,6 @@ to be read 'the number of α'. Now let there be another class, β, which
 may be finite or not. We will call β our property-class: it may be, for
 example, the class of all throws which show a five, or (as we shall say)
 which have the property five.
-
-some structural components of a theory of experience
 
 The class of those elements which belong to both α and β, for
 example the class of throws made yesterday with this particular die and
@@ -6302,8 +6075,6 @@ Now it is just possible that γ may occur in the new reference-class,
 1 Von Mises's term is 'choice' ('Auswahl').
 2 The answer to this question is given by the general division theorem (cf. appendix ii).
 
-some structural components of a theory of experience
-
 In this case we say (following Hausdorff3) that the properties β and γ
 are 'mutually independent, within the reference-class α'. The relation of
 independence is a three-termed relation and is symmetrical in the
@@ -6331,7 +6102,7 @@ likely, that α should be our finite universe of discourse. (These are sufficien
 The insufficiency of the condition, as formulated in my note, is shown by the following
 counter-example. Take a universe of 5 buttons; 4 are round (α); 2 are round and black
 (αβ); 2 are round and large (αγ); 1 is round, black, and large (αβγ); and 1 is square,
-black, and large ((cid:5)βγ). Then we do not have triple symmetry since αF″ (γ) ≠ βF″ (γ).
+black, and large (βγ). Then we do not have triple symmetry since αF″ (γ) ≠ βF″ (γ).
 *1 Thus any information about the possession of properties is relevant, or irrelevant, if
 and only if the properties in question are, respectively, dependent or independent. Relevance can thus be defined in terms of dependence, but the reverse is not the case. (Cf. the
 next footnote, and note *1 to section 55.)
@@ -6379,8 +6150,6 @@ position in the sequence.
 A sequence with two primary properties has been called 'alternative'. As von Mises has shown, it is possible to develop (if we are
 careful) the essentials of the theory of probability as a theory of alternatives, without sacrificing generality. Denoting the two primary properties of an alternative by the figures '1' and '0', every alternative can be
 represented as a sequence of ones and zeros.
-
-some structural components of a theory of experience
 
 Now the structure of an alternative can be regular, or it can be more or
 less irregular. In what follows we will study this regularity or irregularity
@@ -6488,8 +6257,6 @@ of nothing but zeros.
 
 The fact that α is insensitive to selection according to single predecessors, but not insensitive to selection according to pairs of
 
-some structural components of a theory of experience
-
 predecessors, might be expressed, from the point of view of the subjective theory, as follows. Information about the property of one predecessor of any element in α is irrelevant to the question of the
 property of this element. On the other hand, information about the
 properties of its pair of predecessors is of the highest relevance; for given
@@ -6574,8 +6341,6 @@ of its n-freedom.
 enough to demand insensitivity to selection of any predecessor n-tuple (for a given n).
 Insensitivity to selection of n − 1-tuples (etc.) can then be proved easily.
 
-some structural components of a theory of experience
-
 The generating period of an n-free alternative with equal distribution must contain at least 2n + 1 elements. The periods given as examples
 can, of course, begin at different places; (C) for example can begin
 with its fourth element, so that we obtain, in place of (C)
@@ -6610,7 +6375,7 @@ omitting its last n − 1 elements, we obtain a generating period for an m-free 
 with m = n − 1.
 *4 The following definition, applicable to any given long but finite alternative A, with
 equidistribution, seems appropriate. Let N be the length of A, and let n be the greatest
-integer such that 2n + 1 (cid:1) N. Then A is said to be perfectly random if and only if the relative
+integer such that 2n + 1 N. Then A is said to be perfectly random if and only if the relative
 number of occurrences of any given pair, triplet, . . . , m-tuplet (up to m = n) deviates
 from that of any other pair, triplet, . . . , m-tuplet, by not more than, say, m/N½
 respectively. This characterization makes it possible to say of a given alternative A that it is
@@ -6659,12 +6424,12 @@ instance, the ordered n-tuple of zeros and ones of which the segment
 consists. Or we could, more simply, regard the number of its ones as the
 primary property of the element (disregarding the order of the ones and
 zeros). If we denote the number of ones by 'm' then, clearly, we have
-m (cid:1) n.
+m n.
 
 Now from every sequence α
 
 (n) we again get an alternative if we select
-a particular m (m (cid:1) n), ascribing the property 'm' to each element of
+a particular m (m n), ascribing the property 'm' to each element of
 (n) which has exactly m ones (and therefore n − m zeros)
 the sequence α
 and the property 'm¯ ' (non-m) to all other elements of α
@@ -6676,8 +6441,6 @@ properties.
 Let us now imagine again that we are given a finite alternative α with
 the primary properties '1' and '0'. Assume that the frequency of the
 ones, αF″ (1), is equal to p, and that the frequency of the zeros, αF″ (0),
-
-some structural components of a theory of experience
 
 is equal to q. (We do not assume that the distribution is equal, i.e. that
 p = q.)
@@ -6770,8 +6533,6 @@ then it remains necessary to speak of frequency hypotheses—of hypothetical est
 and their statistical tests; and thus the present section remains relevant, as does much in
 the succeeding sections, down to section 64.
 
-some structural components of a theory of experience
-
 the following: 'The nth element of the sequence α shall be 0 if, and
 only if, n is divisible by four'. This defines the infinite alternative
 
@@ -6856,8 +6617,6 @@ statistical findings.
 tested; and if so, how; whether it can be corroborated in any way; and whether it is
 falsifiable. *Cf. also appendix *ix.
 
-some structural components of a theory of experience
-
 By an 'equal-chance hypothesis' I mean a hypothesis asserting that the
 probabilities of the various primary properties are equal: it is a hypothesis asserting equal distribution. Equal-chance hypotheses are usually based
 upon considerations of symmetry.2 A highly typical example is the conjecture of equal frequencies in dicing, based upon the symmetry and
@@ -6933,8 +6692,6 @@ distinguish them from their statistical tests, i.e. the results, obtained a post
 counting.
 *2 This is precisely the programme here alluded to in note *1 above, and carried out in
 appendices iv and *vi.
-
-some structural components of a theory of experience
 
 points out, a gambling system can always be regarded as a systematic
 selection.)
@@ -7012,8 +6769,6 @@ method). See section *54 of the Postscript (text after note 5), on A. Wald.
 objections which have been raised against my theory were answered in the following
 paragraph of my text.
 
-some structural components of a theory of experience
-
 It may seem odd, perhaps, that we should try to trace the highly
 irregular features of chance sequences by means of mathematical
 sequences which must conform to the strictest rules. Von Mises's
@@ -7087,8 +6842,6 @@ differently—that is, in a wider sense, so as to cover all 'objective' interpre
 calculus of probabilities, such as the frequency interpretation and, more especially, the propensity interpretation which is discussed in the Postscript. Here, in section 59, the concept
 is used merely as an auxiliary concept in the construction of a certain form of the
 frequency theory.
-
-some structural components of a theory of experience
 
 60 BERNOULLI'S PROBLEM
 The first binomial formula which was mentioned in section 56, viz.
@@ -7189,7 +6942,7 @@ I shall first sketch this proof in the case of n = 2; i.e. I shall show that
 
 α
 
-(m (cid:1) 2)
+(m 2)
 
 (4a)
 
@@ -7209,8 +6962,6 @@ accessible to the procedure of mathematical induction.)
 to the last paragraph of the present section.
 3 Von Smoluchowski based his theory of the Brownian movement on after-effect
 sequences, i.e. on sequences of overlapping segments.
-
-some structural components of a theory of experience
 
 and only two distinct sequences α
 2 of adjoining segments; one, which
@@ -7313,8 +7064,6 @@ freedom'—which means insensitiveness to a special type of neighbourhood select
 any 'pure' neighbourhood selection (that is, selection according to a
 constant characterization of its neighbourhood—a characterization
 
-some structural components of a theory of experience
-
 that does not vary with the ordinal number of the element). And it
 follows, finally, that 'absolute freedom' will entail insensitivity to all*3
 combinations of these two types of selection.
@@ -7395,7 +7144,6 @@ the same method, to the corresponding formula
 α(n)F′(∆p) = 1
 
 lim
-n → ∞
 
 (2)
 
@@ -7413,8 +7161,6 @@ from a random sequence α, a 'fair sample' if, and only if, the frequency
 of the ones within this segment deviates from p, i.e. the value of the probability of the ones within the random sequence α, by no more than some
 
 2 Cf. note 3 to section 60, and note 5 to section 64.
-
-some structural components of a theory of experience
 
 small fixed fraction (which we may freely choose). We can then say
 that the probability of chancing upon a fair sample approaches 1 as
@@ -7499,8 +7245,6 @@ be regarded as defined by 'having a frequency close to [or equal to] I'.
 had to be inserted here because it re-translates the passage I quoted from the German
 edition of Keynes on which my text relied.
 
-some structural components of a theory of experience
-
 than a given amount . . . '. This sounds like good sense, at least on first
 hearing. But if here too we translate the word 'probable' (sometimes
 suppressed) in the sense of the subjective theory then the whole story
@@ -7579,8 +7323,6 @@ the reference-sequence α was at least n − 1-free; an assumption from
 1 As an example von Mises cites the sequence of figures occupying the last place of a
 six-figure table of square roots. Cf. for example, Wahrscheinlichkeit, Statistik und Wahrheit,
 1928, p. 86 f.; (2nd edition 1936, p. 137; English translation, p. 165), and Wahrscheinlichkeitsrechnung, 1931, p. 181 f.
-
-some structural components of a theory of experience
 
 which the validity of the special multiplication theorem followed, and
 with it that of the first binomial formula. In order to make the transition to the limit, and to obtain Bernoulli's theorem, it is only necessary
@@ -7661,8 +7403,6 @@ empirical sequences). For even if the restriction to convergent
 sequences should turn out to be unnecessary, it can certainly not be
 inappropriate to use convergent mathematical sequences for calculating the approximate behaviour of empirical sequences which, on
 logical grounds, are statistically stable.
-
-some structural components of a theory of experience
 
 64 ELIMINATION OF THE AXIOM OF CONVERGENCE.
 SOLUTION OF THE 'FUNDAMENTAL PROBLEM
@@ -7746,8 +7486,6 @@ deviates from p as little as we choose. The calculation can be carried out for t
 is free from after-effect will then mean that this middle frequency of α is also a middle
 frequency of any predecessor selection of α.
 
-some structural components of a theory of experience
-
 probabilities; to assume, that is to say, that for one and the same property there can be one and only one probability p, within one and the
 same reference sequence.
 
@@ -7829,8 +7567,6 @@ middle frequency.
 frequencies' becomes redundant if we adopt the method described in section 57, note
 *1, and appendix iv.
 
-some structural components of a theory of experience
-
 result. For upon these assumptions it is possible to prove that the law of
 great numbers is tautological. It is admissible and not selfcontradictory (as has sometimes been asserted6) to uphold the conclusion that in an irregular sequence in which, as it were, anything may
 happen at one time or another—though some things only rarely—a
@@ -7908,8 +7644,6 @@ limit axiom which I have shown to be superfluous and which I have replaced by th
 demand for uniqueness, and the axiom of randomness which I have so modified that
 model sequences can be constructed. (Appendix iv.) As a result, Kamke's objection (cf.
 note 3 to section 53) ceases to be valid.
-
-some structural components of a theory of experience
 
 contradict the estimate. In fact, we must expect it to occur: this is a
 consequence of our estimate. The hope that the calculable rarity of any
@@ -7991,8 +7725,6 @@ Added 1972. A new solution is given by D. Gillies. See below p. 443.
 
 1 Cf. Section 80, especially notes 3 and 6.
 
-some structural components of a theory of experience
-
 opposition to such views I believe that the relations in question can be
 fully analysed in terms of the 'classical' logical relations of deducibility
 and contradiction.*1
@@ -8071,8 +7803,6 @@ statements, whatever this may mean—of the form 'for every x there is a y such 
 are non-falsifiable; and this has then been repeatedly used as a criticism of the falsifiability criterion. See, for example, Mind 54, 1945, pp. 119 f. The whole problem of these
 'all-and-some statements' (this term is due to J. W. N. Watkins) is discussed more fully in
 my Postscript; see especially sections *24 f.
-
-some structural components of a theory of experience
 
 therefore, equivalent to the question whether these axioms represent
 what I have called 'existential hypotheses'.
@@ -8160,8 +7890,6 @@ uniqueness can be eliminated, without sacrificing uniqueness.
 
 nF(∆p) there is at least one which lies near to 1.
 
-some structural components of a theory of experience
-
 empirical sequences as chance-like or random of which we hypothetically assume that they have no frequency limit. But what possible
 action could we take in response to this warning?4 What sort of considerations or conjectures about
 the possible convergence or
@@ -8240,8 +7968,6 @@ occurrence of one such cosmic period in which, as the result of an
 accumulation of accidents, our observations will all agree with the law
 of gravity. For any value as close to 1 as we choose, we obtain a definite,
 though extremely large, finite number. We can then say: if we assume
-
-some structural components of a theory of experience
 
 that the segment of the sequence has this very great length—or in
 other words, that the 'world' lasts long enough—then our assumption
@@ -8327,8 +8053,6 @@ beginning of Dirac's Quantum Mechanics, p. 10 of the 1st edition, 1930. A parall
 Gruppentheorie und Quantenmechanik, 2nd edition, 1931, p. 66; English translation by H. P.
 Robertson: The Theory of Groups and Quantum Mechanics, 1931, p. 74 f.
 
-some structural components of a theory of experience
-
 being given a criterion of what is to be called 'long', we cannot know
 when, or whether, we have reached an approximation to the
 probability.
@@ -8398,7 +8122,7 @@ that the three quantities: ε, n, and ∆p correspond to the three questions
 arbitrariness of our choice of ε and n. Since it is our task to deduce the
 exact macro effect p (± φ) we shall not assume δ to be greater than φ.
 As far as the reproducible effect p is concerned, the deduction will be
-satisfactory if we can carry it out for some value δ (cid:1) φ. (Here φ is given,
+satisfactory if we can carry it out for some value δ φ. (Here φ is given,
 since it is determined by the measuring technique.) Now let us choose
 δ so that it is (approximately) equal to φ. Then we have reduced
 question (3) to the two other questions, (1′) and (2).
@@ -8409,8 +8133,6 @@ n and ε, since to every n there now corresponds uniquely a value of ε.
 *3 I am now a little dubious about the words 'without much difficulty'; in fact, in all
 cases, except those of the extreme macro effects discussed in this section, very subtle
 statistical methods have to be used. See also appendix *ix, especially my 'Third Note'.
-
-some structural components of a theory of experience
 
 Thus (2), i.e. the question When is n sufficiently long? has been
 reduced to (1′), i.e. the question When is ε small? (and vice versa).
@@ -8489,8 +8211,6 @@ would never be able to decide what had really happened in this case,
 and whether he may not have made an observational mistake. If,
 however, we find reproducible deviations from a macro effect which has
 
-some structural components of a theory of experience
-
 been deduced from a probability estimate in the manner indicated,
 then we must assume that the probability estimate is falsified.
 
@@ -8566,8 +8286,6 @@ the predictable and reproducible occurrence of systematic deviations;
 such as deviations in a particular direction, or the occurrence of segments which are atypical in a definite way. Thus it requires not a mere
 rough agreement, but the best possible one for everything that is reproducible
 and testable; in short, for all reproducible effects.
-
-some structural components of a theory of experience
 
 69 LAW AND CHANCE
 
@@ -8652,8 +8370,6 @@ be other arguments for objective fortuity; and one of these, due to Alfred Land�
 blade') is highly relevant in this context. It is now discussed at length in my Postscript,
 sections *90, f.
 
-some structural components of a theory of experience
-
 Not only is it impossible to infer from the chance-like character of
 the sequence anything about the conformity to law, or otherwise, of
 the individual events: it is not even possible to infer from the corroboration
@@ -8726,8 +8442,6 @@ reprinted in appendix *xii. I believe that, at that time, Einstein had in mind a
 subjective theory as if it were not an assumption about equiprobabilities). Much later
 Einstein adopted, at least tentatively, a frequency interpretation (of the quantum
 theory).
-
-some structural components of a theory of experience
 
 how special assumptions may be combined with an equal-chance
 hypothesis, leading in each case to different definitions of the reference
@@ -8811,8 +8525,6 @@ statement which is singular in form (or 'formally singular') although its meanin
 fact be defined by statistical statements.
 1 The sign '. . . ε . . .', called the copula, means '. . . is an element of the class . . .'; or
 else, '. . . is an element of the sequence . . .'.
-
-some structural components of a theory of experience
 
 event. Thus the probability that an individual man k will die within a
 given period of time may assume very different values according to
@@ -8899,8 +8611,6 @@ believe that probability theory can best be interpreted as a theory of the prope
 turn out one way or another. (See my Postscript.) But I should still object to the view that
 probability theory must be so interpreted. That is to say, I regard the propensity interpretation as a conjecture about the structure of the world.
 
-some structural components of a theory of experience
-
 nature is actually constituted (or not constituted) according to these
 laws.*4
 
@@ -8965,7 +8675,7 @@ If between two property classes γ and β the subclass relation
 
 holds, then we have:
 
-(k)[Fsb(k ε γ) (cid:2) Fsb(k ε β)]
+(k)[Fsb(k ε γ) Fsb(k ε β)]
 
 (cf. section 33)
 
@@ -8978,8 +8688,6 @@ a 'law of nature':
 (x) {[x ε (α.β)] → (x ε γ)}.
 
 If this 'law of nature' does not hold, so that we may assume randomness in this respect, then the inequality holds. But in this case we
-
-some structural components of a theory of experience
 
 obtain, provided α is denumerable, and acceptable as a reference
 sequence:
@@ -9028,8 +8736,6 @@ will emerge from my analysis.
 
 (1) There are some mathematical formulae in quantum theory
 which have been interpreted by Heisenberg in terms of his uncertainty
-
-some structural components of a theory of experience
 
 principle; that is, as statements about ranges of uncertainty due to the
 limits of precision which we may attain in our measurements. These
@@ -9109,8 +8815,6 @@ important—especially section 76.
 Heisenberg's work Die physikalischen Prinzipien der Quantentheorie, 1930. English translation by
 C. Eckart and F. C. Hoyt: The Physical Principles of the Quantum Theory, Chicago, 1930.
 
-some structural components of a theory of experience
-
 lines could not be identified with the frequencies of the electron's
 revolutions). Heisenberg hoped that by eliminating these unobservable
 magnitudes, he might manage to cure Bohr's theory of
@@ -9175,8 +8879,6 @@ the uncertainty relation,2
 
 ∆x . ∆px
 
-(cid:2)
-
 .
 
 h
@@ -9194,8 +8896,6 @@ of the position interferes with the measurement of the corresponding
 component of the momentum. Thus it is in principle impossible to
 
 2 For the derivation of this formula cf. note 2 to section 75.
-
-some structural components of a theory of experience
 
 predict the path of a particle. 'In the new mechanics, the concept "path"
 has no definite meaning whatever. . . .'3
@@ -9269,8 +8969,6 @@ section 75, below: '. . . the meaning of these concepts. . . .'). *The paragraph
 seems to have been omitted in the English translation, The Theory of Groups and Quantum
 Mechanics, 1931.
 
-some structural components of a theory of experience
-
 meaningfully any such thing as "haziness" or "inaccuracy". It is only to
 our own thoughts that anything of this sort can apply (more especially,
 if we do not know which statements . . . are true)': a remark which is
@@ -9342,8 +9040,6 @@ attainable in measuring physical magnitudes is limited by Heisenberg's
 1 Born-Jordan, Elementare Quantenmechanik, 1930, pp. 322 f.
 2 March, Die Grundlagen der Quantenmechanik, 1931, p. 170.
 
-some structural components of a theory of experience
-
 uncertainty relations. It is argued that, owing to this uncertainty of measurements in any atomic experiments, '. . . the result will not in general
 be determinate, i.e. if the experiment is repeated several times under
 identical conditions several different results may be obtained. If the
@@ -9392,8 +9088,6 @@ I believe this view to be false. Admittedly, it is true that Heisenberg's
 
 formulae (∆x∆px
 
-(cid:2)
-
 h
 4π
 
@@ -9427,8 +9121,6 @@ like this, we may easily be misled by plausible assertions such as the one made 
 2 Weyl supplies a strict logical deduction: Gruppentheorie und Quantenmechanik, 2nd edition,
 1931, pp. 68 and 345; English translation, pp. 77 and 393 f.
 
-some structural components of a theory of experience
-
 from the formally singular probability statements of the theory, as
 probability statements in their turn, and again as formally singular, if
 they apply to a single particle. They too must therefore be interpreted,
@@ -9453,8 +9145,6 @@ both the properties ∆x and ∆px, then we can physically carry out such a
 selection—that is, physically separate the particles—only if both ranges
 
 are made sufficiently great to satisfy the equation ∆x . ∆px
-
-(cid:2)
 
 h
 4π
@@ -9514,8 +9204,6 @@ and selection.
 4 By a 'measurement' I mean, in conformity with linguistic usage accepted by physicists,
 not only direct measuring operations but also measurements obtained indirectly by
 calculation (in physics these are practically the only measurements that occur).
-
-some structural components of a theory of experience
 
 measurements will generally yield a completely random distribution of
 the positions in the x direction.)
@@ -9593,8 +9281,6 @@ results more homogeneous than a pure case.'
 6 Weyl, Gruppentheorie und Quantenmechanik, p. 68. *The paragraph here cited seems to be
 omitted in the English translation.
 
-some structural components of a theory of experience
-
 be regarded as a decisive argument, as a kind of experimentum crucis, in
 favour of the statistical interpretation of the quantum theory.
 
@@ -9668,8 +9354,6 @@ other words, of exact calculations of a path (cf. section 73) whose
 
 1 The term 'constructive experimental technique' is used by Weyl, Gruppentheorie und
 Quantenmechanik, p. 67; English translation p. 76.
-
-some structural components of a theory of experience
 
 physical reality Heisenberg is obliged to leave in doubt, while others,
 such as Schlick, deny it outright. But the experiments in question, (a),
@@ -9745,8 +9429,6 @@ width of a slit. So it is only the precision of the prediction which becomes 'bl
 'smeared' in consequence of the scatter relations, but never the precision of a measurement.
 2 March, Die Grundlagen der Quantenmechanik, p. 1. *Reichenbach's position is similar; it is
 criticized in my Postscript, section *13.
-
-some structural components of a theory of experience
 
 course, is obvious, but uninteresting. What is important, however, is
 that this and similar hypotheses are falsifiable: on the basis of the
@@ -9824,8 +9506,6 @@ interpreted not only as objective and singular but, at the same time, as probabi
 text, a new paragraph begins with the second sentence, i.e. with the words, 'Yet the
 content'. For the quotation that follows at the end of this paragraph, see op. cit., p. 237
 (2nd edition, p. 241).
-
-some structural components of a theory of experience
 
 modern physics as follows: 'Heisenberg attacked the enigma of the
 physical universe by giving up the main enigma—the nature of
@@ -9931,8 +9611,6 @@ rightly: 'But perhaps it is altogether quite mistaken to correlate a wave with o
 -
 -P(β
 
-some structural components of a theory of experience
-
 photon], a kind of physical action (a reduction of wave packets) is
 exerted from the place where the reflected half of the wave packet is
 found upon another place—as distant as we choose—where the other
@@ -10018,8 +9696,6 @@ contradicted if we could know the momenta of the various electrons of
 
 *1 Point (3) of my programme has, in fact, been covered also.
 
-some structural components of a theory of experience
-
 the group before disturbing it (so long, of course, as this would not
 enable us to use our knowledge so as to effect a forbidden selection).
 But there is no way of obtaining any such knowledge concerning the
@@ -10099,8 +9775,6 @@ objection which asserts the linkage of measurement and physical selection was ac
 to have believed that they had thereby also refuted the preceding analysis, in spite of the
 warning here given.
 
-some structural components of a theory of experience
-
 travelling in the x-direction. But this time we assume it to be monochromatic, so that all the particles are travelling along parallel paths in
 the x-direction with the same known momentum. The components in
 the other directions of the momentum will then also be known, that is,
@@ -10174,8 +9848,6 @@ have seen, mainly to those measurements which are used for the
 deduction of predictions, and not for testing them. They are meant to
 apply, that is to say, to 'predictive measurements' rather than to 'non-predictive
 measurements'. In sections 73 and 76 I examined three cases of such
-
-some structural components of a theory of experience
 
 'non-predictive' measurements, namely (a) measurement of two positions, (b) measurement of position preceded or (c) succeeded by a
 measurement of momentum. The above discussed measurement by
@@ -10251,8 +9923,6 @@ Naturwissenschaft 5, 1926, p. 267 ff.; Haas, Atomtheorie, 1929, p. 229 ff.
 the absolute magnitude).
 4 Cf. Haas, op. cit.
 
-some structural components of a theory of experience
-
 light-ray, and one at most may be electrically non-neutral5) which are
 both 'pure cases' in the sense that the beam A is monochromatic, that is, a
 selection according to the momentum a1, whilst the beam B passes
@@ -10312,8 +9982,6 @@ interfering with it; a fact which may be expressed by saying that the second par
 a precise position and a precise momentum. (Einstein said that both position and
 momentum are 'real'; whereupon he was attacked as 'reactionary'.) See also the note on
 p. 232 and appendices *xi and *xii.
-
-some structural components of a theory of experience
 
 by interposing, for instance, an electrical field or a filter in front of the
 Geiger-counter, before we measure the position. But in consequence of
@@ -10392,8 +10060,6 @@ or elementary processes can be deduced'. The scientist will never let
 
 *1 This view is opposed by Einstein at the end of his letter here printed in appendix *xii.
 But I still think that it is true.
-
-some structural components of a theory of experience
 
 anything stop him searching for laws, including laws of this kind. And
 however successfully we might operate with probability estimates, we
@@ -10475,8 +10141,6 @@ the Postscript.
 *4 This, though valid as a reply to a positivist, is misleading as it stands; for a falsifiable
 statement may have all kinds of logically weak consequences, including nonfalsifiable
 ones. (Cf. the fourth paragraph of section 66.)
-
-some structural components of a theory of experience
 
 establish indeterminism reveal a mode of thought which can only be
 described as determinist, in the metaphysical sense. (Heisenberg for
@@ -10592,8 +10256,6 @@ matter, unfortunately, and made themselves felt: 'degree of confirmation' was so
 used—by Carnap himself—as a synonym (or 'explicans') of 'probability'. I have therefore now abandoned it in favour of 'degree of corroboration'. See also appendix *ix, and
 section *29 of my Postscript.
 
-some structural components of a theory of experience
-
 new results. What happens is only that new experiments decide against
 an old theory. The old theory, even when it is superseded, often retains
 its validity as a kind of limiting case of the new theory; it still applies, at
@@ -10671,8 +10333,6 @@ here discussed) consist of the principle of induction and of observation stateme
 the latter are here tacitly assumed to be unshaken and reproducible, so that they cannot
 be made responsible for the failure of the theory.
 
-some structural components of a theory of experience
-
 misconceived notion of a synthetic statement which is a priori valid, i.e.
 an irrefutable statement about reality.
 
@@ -10746,8 +10406,6 @@ can thus be looked upon as a limiting case of probability; and conversely, proba
 
 1 Reichenbach, Erkenntnis 1, 1930, pp. 171 f.
 2 According to Keynes, A Treatise on Probability, 1921, p. 101 ff., the expression 'truthfrequency' is due to Whitehead; cf. the next note.
-
-some structural components of a theory of experience
 
 of truth, in so far as it includes the latter as a limiting case. Finally, it is
 possible to define operations with truth-frequencies in such a way that
@@ -10827,8 +10485,6 @@ clear-cut falsification, we will attribute to the hypothesis the probability zer
 discussion is now confined to those cases in which no clear-cut falsification has been
 obtained.
 
-some structural components of a theory of experience
-
 and we must not, of course, equate an indifferent statement with one
 that is objectively false.) The reason why this last attempt fails too is
 that the suggested definition would make the probability of a hypothesis hopelessly subjective: the probability of a hypothesis would
@@ -10903,8 +10559,6 @@ And in general, the probability of a hypothesis would decrease by 1/n
 in consequence of the information that it is false, where n is the number of hypothesis in the reference sequence. All this glaringly contradicts the programme of expressing, in terms of a 'probability of hypotheses',
 the degree of reliability which we have to ascribe to a hypothesis in
 view of supporting or undermining evidence.
-
-some structural components of a theory of experience
 
 This seems to me to exhaust the possibilities of basing the concept of
 the probability of a hypothesis on that of the frequency of true statements (or the frequency of false ones), and thereby on the frequency
@@ -10993,8 +10647,6 @@ basic statements. They are thus (as Reichenbach puts it) completely
 5 Jeans, The New Background of Science, 1934, p. 58. (Only the words 'for certain' are italicized
 by Jeans.)
 
-some structural components of a theory of experience
-
 undecidable.6 Now they can, as I have tried to show, be better, or less well,
 'confirmed', which is to say that they may agree more, or less, with
 accepted basic statements. This is the point where, it may appear, probability logic comes in. The symmetry between verifiability and falsifiability accepted by classical inductivist logic suggests the belief that it
@@ -11075,8 +10727,6 @@ of course include the satisfaction of Bayes's theorem. As to the formal analogie
 Bayes's theorem on probability and certain theorems on degree of corroboration, see appendix
 *ix, point 9 (vii) of the first note, and points (12) and (13) of section *32 of my Postscript.
 
-some structural components of a theory of experience
-
 An appraisal must, of course, be a synthetic statement—an assertion
 about 'reality'—in the same way as would be the statement
 'Schrödinger's theory is true' or 'Schrödinger's theory is false'. All
@@ -11090,8 +10740,6 @@ finality. Therefore we are forced to ask: How can the appraisal be justified? Ho
 again; see section 1.)
 
 the probability
-
-that
 
 the
 
@@ -11164,8 +10812,6 @@ was read by several members of the Vienna Circle. The fact that Heymans's passag
 been anticipated by Hume was pointed out to me by J. O. Wisdom; cf. his Foundations of
 Inference in Natural Science, 1952, p. 218. Hume's passage is quoted below, in appendix *vii,
 text to footnote 6 (p. 386).
-
-some structural components of a theory of experience
 
 82 THE POSITIVE THEORY OF CORROBORATION: HOW
 A HYPOTHESIS MAY 'PROVE ITS METTLE'
@@ -11246,8 +10892,6 @@ theory which they instantiate, owing to the fact that we know that every univers
 instantiated almost everywhere, as indicated in note *1 to section 28. (See also note *4 to
 section 80, and text.)
 
-some structural components of a theory of experience
-
 that one theory appears to be far less well corroborated than another
 one, even though we have derived very many basic statements with its
 help, and only a few with the help of the second. As an example we
@@ -11317,8 +10961,6 @@ we can compare degrees of corroboration (for example, those of Newton's and of E
 numerical degrees of corroboration to statistical hypotheses, and perhaps even to other
 statements provided we can attribute degrees of (absolute and relative) logical probability
 to them and to the evidence statements. See also appendix *ix.
-
-some structural components of a theory of experience
 
 83 CORROBORABILITY, TESTABILITY,
 AND LOGICAL PROBABILITY*1
@@ -11404,8 +11046,6 @@ e, the (relative) logical probability of h1 given e can never exceed that of h2 
 the better testable and better corroborable hypothesis can never obtain a higher probability, on the given evidence,
 than the less testable one. But this entails that degree of corroboration cannot be the same as probability.
 
-some structural components of a theory of experience
-
 Among those who argue in this way is Keynes who uses the expression 'a priori probability' for what I call 'logical probability'. (See note 1
 to section 34.) He makes the following perfectly accurate remark1
 regarding a 'generalization' g (i.e. a hypothesis) with the 'condition' or
@@ -11442,7 +11082,7 @@ respect to a given piece of evidence h, and to this extent, my statement in the 
 correction. (He makes the distinction by assuming, correctly though perhaps only
 φ
 implicitly—see p. 225 of the Treatise—that if φ = φ
-2, and f = f1f2, then the a priori probabilities of the various g are: g(φ, f1) (cid:2) g(φ, f) (cid:2) g(φ
+2, and f = f1f2, then the a priori probabilities of the various g are: g(φ, f1) g(φ, f) g(φ
 1, f).) And he correctly proves that the
 a posteriori probabilities of these hypotheses g (relative to any given piece of evidence h)
 change in the same way as their a priori probabilities. Thus while his probabilities change
@@ -11486,8 +11126,6 @@ with testability, but tends to increase with it.
 *7 This may also be expressed by the unacceptable rule: 'Always choose the hypothesis
 which is most ad hoc!'
 2 Keynes, op. cit., p. 305.
-
-some structural components of a theory of experience
 
 knowledge available—and if predictions as such contribute nothing
 towards corroboration—why then may we not rest content with our
@@ -11573,8 +11211,6 @@ formalized languages, it has to be based on the definition of a well-formed form
 such a language; and it is of precisely the same degree of 'artificiality' or 'complexity' as
 this definition. It is also said that only propositions or statements can be true or false, but
 
-some structural components of a theory of experience
-
 considerations about derivability relations. Thus we need not say: 'The
 prediction p is true provided the theory t and the basic statement b are
 true.' We may say, instead, that the statement p follows from the (noncontradictory) conjunction of t and b. The falsification of a theory may
@@ -11650,8 +11286,6 @@ that it has hardly been corroborated at all so far, or that it is still
 as 'successful' or 'confirmed' or 'corroborated', we should only have to introduce a new
 'absolute' and 'timeless' concept to play the role of 'truth'.
 
-some structural components of a theory of experience
-
 uncorroborated. But we should not normally say of a theory that it is
 hardly true at all so far, or that it is still false.
 
@@ -11722,8 +11356,6 @@ the theory of terrestrial motion (opposed by Bacon as fictitious); the
 theory (if possible) and more especially one which is designed to bring about a decision
 between two competing theories by refuting (at least) one of them—without, of course,
 proving the other. (See also note x to section 22, and appendix *ix.)
-
-some structural components of a theory of experience
 
 age-old corpuscular theory of light; the fluid-theory of electricity
 (revived as the electron-gas hypothesis of metallic conduction). All
@@ -11806,8 +11438,6 @@ unpredictable by scientific means, and that, as a consequence, the future course
 history is also unpredictable.
 3 Bacon, Novum Organum I, 123.
 
-some structural components of a theory of experience
-
 The advance of science is not due to the fact that more and more
 perceptual experiences accumulate in the course of time. Nor is it due
 to the fact that we are making ever better use of our senses. Out of
@@ -11870,7 +11500,6 @@ This is the end of the text of the original book.
 The Appendices i–vii which are here printed on
 pp. 285–310 were also part of that original edition.
 
-Addendum, 1972
 In the preceding chapter of my book (which was the final chapter) I
 tried to make clear that by the degree of corroboration of a theory I mean a
 brief report that summarizes the way in which the theory has stood up
@@ -11885,8 +11514,6 @@ rationally justify a theory, that is to say, our belief in the truth of a theory
 in its being probably true. This negative solution is compatible with the
 following positive solution, contained in the rule of preferring theories
 which are better corroborated than others: (b) We can sometimes rationally
-
-some structural components of a theory of experience
 
 justify the preference for a theory in the light of its corroboration, that is, of
 the present state of the critical discussion of the competing theories,
@@ -12091,8 +11718,6 @@ common—a condition which can be symbolized by the formula
 
 N(α.β.γ) = 0
 
-appendices
-
 —we obtain from (2) the special addition theorem
 
 (2s)
@@ -12141,7 +11766,7 @@ we obtain from (3) the first (special) form of Bayes's rule
 We can avoid the assumption (3bs) by introducing, in place of 'β',
 the sum of the classes β
 n. We shall, in analogy to our use of
-the sign ' + ' between class designations, use the sign '(cid:1)' in front of class
+the sign ' + ' between class designations, use the sign '' in front of class
 designations; we can then write a second (universally valid) form of Bayes's
 theorem as follows:
 
@@ -12153,11 +11778,11 @@ theorem as follows:
 
 iF″(β
 
-α.(cid:1)β
+α.β
 
 i) = αF″(β
 
-i)/αF″((cid:1)β
+i)/αF″(β
 
 i).
 
@@ -12185,13 +11810,13 @@ i:
 
 (3/2s)
 
-α.(cid:1)β
+α.β
 
 iF″(β
 
 i) = αF″(β
 
-i)/((cid:1) αF″(β
+i)/(αF″(β
 
 i)).
 
@@ -12201,11 +11826,11 @@ assumptions (3/2s) and 4bs):
 
 (4bs)
 
-α.γ ⊂ (cid:1)β
+α.γ ⊂ β
 
 i
 
-which is always satisfied if γ ⊂ (cid:1)β
+which is always satisfied if γ ⊂ β
 
 i is satisfied.
 
@@ -12221,7 +11846,7 @@ result the formula
 
 (4bs.1)
 
-α.(cid:1)β
+α.β
 
 i.γ = α.γ.
 
@@ -12236,7 +11861,7 @@ and denominator. Thus we obtain:
 
 i) = α.βiF″(γ).αF″(β
 
-i)/(cid:1)(α.β
+i)/(α.β
 
 iF″ (γ).αF″(β
 
@@ -12266,7 +11891,7 @@ The first binomial formula*1
 
 α
 
-where p = αF″(1), q = αF″(0), m (cid:1) n, may be said to be proved under the
+where p = αF″(1), q = αF″(0), m n, may be said to be proved under the
 assumption that α is (at least) n − I-free (neglecting errors arising at the
 last term; cf. section 56), if we can show that
 
@@ -12284,7 +11909,7 @@ chosen one) which contains m ones. (The symbol is intended to indicate that what
 not only the number of ones but also their positions in the n-tuple.) For
 
 *1 Note that ( n
-number of ways in which m things may be arranged in n places, provided m (cid:1) n.
+number of ways in which m things may be arranged in n places, provided m n.
 
 m) is an alternative way of writing the binomial coefficient nCm, i.e. the
 
@@ -12311,8 +11936,6 @@ m + 0) = pmqn + 1 − m
 
 α
 
-(n + 1)F″(σ
-
 α
 
 m + 1) = pm + 1q(n + 1) − (m + 1)
@@ -12335,7 +11958,6 @@ Then we can assert
 
 (4,1)
 
-αF″(σ´
 αF″(σ´
 
 m.0) = αF″(σ´
@@ -12362,8 +11984,6 @@ and hence that
 
 (5)
 
-αF″(σ´
-
 m) = α
 
 (n)F″(σ
@@ -12375,23 +11995,13 @@ reason we have
 
 (6,0)
 
-αF″(σ´
-
 m.0) = α
-
-(n + 1)F″(σ
 
 m + 0)
 
-appendices
-
 (6,1)
 
-αF″(σ´
-
 m.1) = α
-
-(n + 1)F″(σ
 
 m + 1).
 
@@ -12401,9 +12011,6 @@ obtain by substituting (5) and (6) in (4)
 (7,0)
 
 (7,1)
-
-(n + 1)F″(σ
-(n + 1)F″(σ
 
 m + 0) = α
 m + 1) = α
@@ -12423,8 +12030,7 @@ Thus we see that, assuming that (2) holds for some one n (and all the
 arrangements σ
 m belonging to it), we can derive (3) by mathematical
 induction. That (2) is in fact valid for n = 2 and for all σ
-m (where m (cid:1)
-2) is seen by assuming first m = 1 and then m = 0. Thus we can assert
+m (where m 2) is seen by assuming first m = 1 and then m = 0. Thus we can assert
 (3) and consequently (2) and (1).
 
 APPENDIX iv
@@ -12436,7 +12042,7 @@ Random Sequences (cf. sections 58,
 We assume (as in section 55) that for every given finite number n a
 generating period can be constructed which is n-free (from after
 effect) and which shows equal distribution. In every such period, every
-combinatorially possible x-tuple (for x (cid:1) n + 1) of ones and zeros will
+combinatorially possible x-tuple (for x n + 1) of ones and zeros will
 appear at least once.*1
 
 (a) We construct a model sequence which is 'absolutely free' (from
@@ -12453,8 +12059,6 @@ the x-tuples of the list have been checked off: the result is a sequence of the 
 2x + x − 1, consisting of (a) a generating period, of the length 2x = 2n + 1, of an n-free
 alternative to which (b) the first n elements of the next period have been added. A
 sequence constructed in this way may be called a 'shortest' n-free sequence, since it is easily
-
-appendices
 
 after effect) in the following way. We write down an n-free period for
 an arbitrarily chosen n. This period will have a finite number of
@@ -12559,8 +12163,6 @@ achieves, in the most radical fashion possible. Thus they alone can set an ideal
 for randomness. For these 'shortest' sequences, convergence can be proved immediately, as
 opposed to the examples under (b) and (c) below. See also appendix *vi.
 
-appendices
-
 (b) An analogous method of construction can now be used to show
 that sequences exist which possess an 'absolutely free' middle frequency
 (cf. section 64) even though they have no frequency-limit. We need only
@@ -12623,8 +12225,6 @@ that the two-slit experiment is to be treated differently, but that the interpre
 contain a valid criticism of the attempt to explain the dualism of particle and wave in
 terms of 'complementarity'—an attempt which, it seems, has been abandoned by some
 physicists more recently.
-
-appendices
 
 position), then we are able to calculate the exact direction and the
 momentum of the emitted photons. In this case we shall have to regard
@@ -12701,8 +12301,6 @@ for we can of course combine a not too exact measurement of position
 with a not too exact measurement of momentum; and in this case the
 atom neither emits completely coherent waves nor completely
 
-appendices
-
 incoherent photons. My own statistical interpretation has, clearly, no
 difficulty whatever in treating such intermediate cases, even though it
 was never intended to solve the problem of the dualism of waves and
@@ -12743,8 +12341,6 @@ second measurement; and since the first measurement left the state of the electr
 measurements, but also before the first measurement.
 
 I do not see how Heisenberg can avoid this conclusion without essentially modifying
-
-appendices
 
 interposition of a filter. (If the beam consists of electrons we shall have
 to use instead of a filter an electric field perpendicular to the direction
@@ -12818,8 +12414,6 @@ which the filter—without disturbing the position—will select only
 those which happened to fall within some small range. But these considerations would be mistaken. For if a group of particles is selected by
 an 'instantaneous shutter', in the way indicated, then Schrödinger's
 
-appendices
-
 wave-packets (obtained by superimposition of waves of various frequencies) give us only probabilities, to be interpreted statistically, of the
 occurrence of particles in this group which have the given momentum.
 For any given finite range of momenta ∆px, this probability tends
@@ -12872,8 +12466,6 @@ indeterminacy φ will occur, in consequence of the diffraction at the
 
 *1 For a criticism of some of the assumptions underlying section 77 and this appendix,
 see note *1 to appendix vi.
-
-appendices
 
 slit. This angle φ can be made as small as we like by making |a2|
 sufficiently large; for we have
@@ -13001,8 +12593,6 @@ discussion of my imaginary experiment.
 I wish to offer here my warmest thanks to Dr. K. Schiff for fruitfully collaborating
 
 throughout the better part of a year.
-
-appendices
 
 latter, if we use high values of |a2|, depends mainly upon the smallness of r.) They are both dependent only upon the precision of the measurements of
 position and momentum of the particle arriving at X from the direction PX, and upon
@@ -13160,8 +12750,6 @@ not genuine statements' but, rather, 'rules for the transformation of
 
 1 Schlick, Die Naturwissenschaften 19, 1931, No. 7, p. 156.
 
-new appendices
-
 statements';*1 that is to say, that they are a particular kind of 'pseudostatement'.
 
 This attempt to solve the problem (the solution seems to me to be
@@ -13237,8 +12825,6 @@ See also Dubislav, Die Definition, 3rd edition, pp. 100 ff.*Added 1957: This ref
 found not to be one to Carnap's but to some of my own work which Carnap reported
 and accepted in the article referred to. Carnap made full acknowledgment of the fact that
 I was the author of what he there described as 'procedure B' ('Verfahren B').
-
-new appendices
 
 be the source from which the theories of the empirical sciences
 spring).
@@ -13318,8 +12904,6 @@ games of chance in a definite way which may be satisfactorily defined
 1 Cf. Popper, Logik der Forschung, for example pp. 188 and 195 f. *(of the original edition);
 that is, sections 80 and 81.
 
-new appendices
-
 with the help of the concept of relative frequency (following von
 Mises).2 Reichenbach's attempts to extend this concept so as to include
 the so-called 'inductive probability' or the 'probability of hypotheses'
@@ -13385,8 +12969,6 @@ to *32).
 Another of my motives for writing this note was that I wanted to
 show that what I had called in my book 'logical probability' was the
 
-new appendices
-
 logical interpretation of an 'absolute probability'; that is to say, of a
 probability p(x, y), with tautological y. Since a tautology may be written
 not-(x and not-x), or xx¯, in the symbols used in my note, we can define
@@ -13426,8 +13008,8 @@ A1
 
 A2
 
-p(xy) (cid:2) p(yx)
-p((xy)z) (cid:2) p(x(yz))
+p(xy) p(yx)
+p((xy)z) p(x(yz))
 
 (Commutation)
 
@@ -13437,7 +13019,7 @@ appendix *ii 321
 
 A3
 
-p(xx) (cid:2) p(x).
+p(xx) p(x).
 
 (Tautology)
 
@@ -13452,7 +13034,7 @@ B2
 B3
 
 p(x) ≠ p(y).
-p(x) (cid:2) p(xy)
+p(x) p(xy)
 p(x) = p(xy) + p(xy¯).
 
 (Existence)
@@ -13463,7 +13045,7 @@ p(x) = p(xy) + p(xy¯).
 
 For every x there is a y such that
 
-p(y) (cid:2) p(x), and p(xy) = p(x)p(y).
+p(y) p(x), and p(xy) = p(x)p(y).
 
 (Independence)
 
@@ -13491,12 +13073,10 @@ which can be read as 'the probability of x1 with regard to x2'.
 *1 Without B3 the upper bound of p(x) is not fixed: p(xx¯) = k, where k may be arbitrarily
 chosen. Then we get: x is independent of y if and only if p(xy) = p(x)p(y)/k; but this is
 clumsy unless we choose k = 1. B3, which leads to k = 1, indicates this motive for
-choosing k = 1. If in B3 we put 'p(y) ≠ o' instead of 'p(y) (cid:2) p(x)', then A4 becomes
+choosing k = 1. If in B3 we put 'p(y) ≠ o' instead of 'p(y) p(x)', then A4 becomes
 redundant.
 1 For the terminology see Carnap, Logical Syntax of Language (1937); and Tarski, Erkenntnis 5,
 175 (1935).
-
-new appendices
 
 It is desirable to construct a system of axioms, s1, in which 'p(x1, x2)'
 appears as (undefined) primitive functors and which is constructed in
@@ -13586,8 +13166,6 @@ absolute system. (I may also say that I now consider the term 'axiom of uniquene
 badly chosen. What I intended to allude to was, I suppose, something like postulate 2 or
 axiom A2 of the system of appendix *iv.)
 
-new appendices
-
 operations—conjunction and negation—of the argument, and is practically an adaptation of the system of postulates for the so-called 'Algebra of Logic'.7 Group B gives the axioms peculiar to the measurement
 of probability. The axioms are:
 
@@ -13623,8 +13201,6 @@ possibilities, and therefore with equal probabilities.
 (2) It will be applicable in all cases in which we can transform
 our problem so as to obtain equal weights or possibilities or
 probabilities.
-
-new appendices
 
 (3) It will be applicable, with slight modifications, whenever we
 
@@ -13723,8 +13299,6 @@ of a product ab.
 because the problem of the law of association is dealt with at length in the next two
 appendices.
 
-new appendices
-
 (7) The derivation here sketched can be easily formalized. The formalized proof will have to proceed from an axiom system rather than
 from a definition. This is a consequence of the fact that our heuristic
 use of the classical definition consisted in introducing weighted
@@ -13783,8 +13357,6 @@ To this we may now add the formula:
 (0)
 
 For every element a in S, p(a, a¯) ≠ p(a¯, a).
-
-new appendices
 
 There are three main characteristics which distinguish a theory of
 this kind from others. (i) It is formal; that is to say, it does not assume
@@ -13876,8 +13448,6 @@ that is to say for the probability of a, given the information b; or else for
 absolute probability,
 
 p(a)
-
-new appendices
 
 that is to say, for the probability of a (given no information, or only
 tautological information).
@@ -13982,8 +13552,6 @@ Now the antecedent 'If p(b) ≠ 0' is unavoidable here since division
 by 0 is not a defined operation. As a consequence, most formulae of relative
 probability can be asserted, in the customary systems, only in conditional form, analogous to (d′). For example, in most systems, (g) is
 
-new appendices
-
 invalid, and should be replaced by the much weaker conditional
 formula (g − ):
 
@@ -14000,7 +13568,6 @@ an 'axiom of continuity'). Their systems, accordingly, are inconsistent
 as they stand, although they can sometimes be mended. Other authors
 have seen the point. But as a consequence, their systems are (at least as
 compared with my system) very weak: it can occur in their systems
-that
 
 p(a, b) = r
 
@@ -14068,8 +13635,6 @@ found later that my axiom system could be simplified; and in simplifying it, I f
 formulae having a completely 'normal' look. I published the resulting
 
 4 In the British Journal for the Philosophy of Science, 6, 1955, pp. 56 f.
-
-new appendices
 
 simplified system first in my paper 'Philosophy of Science: A Personal
 Report'.5 It is the same system of six axioms which is more fully
@@ -14140,7 +13705,7 @@ Postulate 3. If a and b are in S, then ab is in S; and if, moreover, c is in S
 B1
 B2
 
-p(ab, c) (cid:1) p(a, c)
+p(ab, c) p(a, c)
 p(ab, c) = p(a, bc) p(b, c)
 
 (Monotony)
@@ -14149,8 +13714,6 @@ p(ab, c) = p(a, bc) p(b, c)
 Postulate 4. If a is in S, then a¯ is in S; and if, moreover, b is in S, then the
 
 following axiom holds:
-
-C
 
 p(a, b) + p(a¯, b) = p(b, b), unless p(b, b) = p(c, b) for every c
 (Complementation).
@@ -14164,7 +13727,7 @@ a postulate.
 
 then p(a) = p(a, b)
 
-Postulate AP. If a and b are in S, and if p(b, c) (cid:2) p(c, b) for every c in S,
+Postulate AP. If a and b are in S, and if p(b, c) p(c, b) for every c in S,
 (Definition of Absolute Probability6)
 The system of postulates and axioms given here will be shown
 
@@ -14182,7 +13745,7 @@ B1′
 
 p(a, a) = 1
 
-p(a, b) (cid:2) 0
+p(a, b) 0
 
 If p(ab, c) > p(a, c), then p(ab, c) > p(b, c)
 
@@ -14191,8 +13754,6 @@ Axiom B2 remains as in the text, and axiom C is replaced by
 C′
 
 If p(a, b) ≠ 1, then p(c, b) + p(c¯, b) = 1
-
-new appendices
 
 The following comments may be made upon this system of
 
@@ -14212,7 +13773,7 @@ B+
 
 C+
 
-If p(a, bc)p(b, c) ≠ p(d, c) provided that p(a, c) (cid:2) p(d, c), then
+If p(a, bc)p(b, c) ≠ p(d, c) provided that p(a, c) p(d, c), then
 p(ab, c) ≠ p(d, c)
 If p(a, b) + p(a¯, b) ≠ p(c, c) then p(c, c) = p(d, b)
 
@@ -14236,14 +13797,14 @@ The derivation of B1 from A4′ and B1′, in the presence of the axioms A3 or A
 
 C′, and B2, is as follows:
 
-(1) 0 (cid:1) p(a, b) (cid:1) p(a, a)
-(2) p(a, a) (cid:2) p((aa)a, a) = p(aa, aa)p(a, a) = p(a, a)2
-(3) 0 (cid:1) p(a, b) (cid:1) p(a, a) (cid:1) 1
-(4) p(ba, c) (cid:1) p(a, c)
+(1) 0 p(a, b) p(a, a)
+(2) p(a, a) p((aa)a, a) = p(aa, aa)p(a, a) = p(a, a)2
+(3) 0 p(a, b) p(a, a) 1
+(4) p(ba, c) p(a, c)
 
 Now we apply B1′
 
-(5) p(ab, c) (cid:1) p(a, c)
+(5) p(ab, c) p(a, c)
 
 For the derivation of A4′ and B1′ from B1, see appendix *v.
 
@@ -14299,7 +13860,7 @@ p(a, a) ≠ p(b, c) → p(a, c) + p(a¯, c) = p(d, d)
 
 B + is merely an 'organic' way of writing the simpler but 'inorganic' formula
 
-p(ab, c) = p(a, bc)p(b, c) (cid:1) p(a, c)
+p(ab, c) = p(a, bc)p(b, c) p(a, c)
 
 9 Three of the reasons why I prefer the system of six axioms to the system of four are
 these: (i) the axioms of the longer system are a little less unusual and thus a little more
@@ -14307,8 +13868,6 @@ intuitive, especially in the form mentioned in footnote 7, above; (ii) introduci
 additional variable is too high a price to pay for a reduction in the number of axioms;
 (iii) The 'organicity' of B + is achieved by a kind of mechanical trick and is therefore of
 little value.
-
-new appendices
 
 able to show that, in the elementary theory, S is a (denumerable) Boolean
 algebra. (For another example see appendix *vi, point 15.)
@@ -14356,7 +13915,7 @@ axiom B which combines B3 + with B + :
 
 B
 
-If p(ab, c) ≠ p(a, d)p(b, c) provided that p(a, c) (cid:2) p(a, d)p(b, c) and
+If p(ab, c) ≠ p(a, d)p(b, c) provided that p(a, c) p(a, d)p(b, c) and
 p(a, d) = p(a, bc), then p(a, cb) ≠ p(a, d).
 
 Apart from being stronger than one might wish it to be, this system
@@ -14392,10 +13951,10 @@ the abbreviations explained in the beginning of appendix *v.*1
 
 BD
 
-p(xy, a) = p(z, a) → (Eb) (c) (d) (Ee) (Ef) (Eg) (p(x, a) (cid:2) p(z, a) =
-= p(x, b)p(y, a) & p(a, c) (cid:2) p(b, c) (cid:1) p(y, c) & (p(a, e) (cid:2) p(c, e)
-(cid:1) p(y,e) → p(c,d) (cid:1) p(b,d)) & (p(a,f) = p(y,f) → p(x,a) = p(x,b) =
-= p(x, y)) & (p(x, g) (cid:2) p(c, g) (cid:1) p(y, g) → p(c, a) (cid:1) p(z, a))).
+p(xy, a) = p(z, a) → (Eb) (c) (d) (Ee) (Ef) (Eg) (p(x, a) p(z, a) =
+= p(x, b)p(y, a) & p(a, c) p(b, c) p(y, c) & (p(a, e) p(c, e)
+p(y,e) → p(c,d) p(b,d)) & (p(a,f) = p(y,f) → p(x,a) = p(x,b) =
+= p(x, y)) & (p(x, g) p(c, g) p(y, g) → p(c, a) p(z, a))).
 
 Postulate 4 demands the existence of a complement, a¯, for every a in
 S, and it characterizes this complement by (a weakened conditional
@@ -14404,8 +13963,6 @@ considering that 1 = p(a, a). The condition which precedes this formula
 is needed, because in case c is, say aa¯, (the 'empty element': aa¯ = 0) we
 
 *1 An improved and shorter version of BD will be found on p. 367.
-
-new appendices
 
 obtain p(a, c) = 1 = p(a¯, c) so that, in this limiting case, the apparently
 'obvious' formula breaks down.
@@ -14496,15 +14053,13 @@ a¯
 
 p(a, b)
 
-new appendices
-
 The second example is a generalization of the first, showing that the idea
 underlying the first example can be extended to a number of elements
 exceeding any chosen number, provided these elements form a
 Boolean Algebra, which means that the number of elements has to be
 equal to 2n. Here n may be taken to be the number of the smallest
 exclusive areas or classes into which some universe of discourse is
-divided. We can freely correlate with each of these classes some positive fraction, 0 (cid:1) r (cid:1) 1, as its absolute probability, taking care that
+divided. We can freely correlate with each of these classes some positive fraction, 0 r 1, as its absolute probability, taking care that
 their sum equals 1. With any of the Boolean sums, we correlate the
 arithmetical sum of their probabilities, and with any Boolean complement, the arithmetical complement with respect to 1. We may assign to
 one or several of the smallest (non-zero) exclusive areas or classes the
@@ -14526,9 +14081,7 @@ introduce an auxiliary expression, An, defined as follows:
 
 so that we have
 
-= (cid:2)
-
-ai
+= ai
 
 An
 
@@ -14536,9 +14089,7 @@ n
 
 (AB)n
 
-= (cid:2)
-
-n
+= n
 
 aibi;
 
@@ -14594,8 +14145,6 @@ law of commutation is violated only for the second argument. The independence pr
 for A2 here described, designed to satisfy these conditions, was found at the same time
 by Dr. J. Agassi and by myself. (The example satisfies Postulate AP only if in AP a bar is
 placed over the letters 'b'; but it satisfies (.) on p. 342). *Cf. Addendum on pp. 367 f.
-
-new appendices
 
 first consistency proof, S = {0, 1}, with logical products and complements equal to the arithmetical ones. We define p(1, 1) = 1, and in all
 other cases p(a, b) = 0. Then p(1, 1) ≠ p(0, 0), so that A3 fails. The other
@@ -14660,7 +14209,7 @@ satisfied.
 
 appendix *iv 347
 
-if we consider that B2 is needed to prove 'p(ba, c) (cid:1) p(a, c)', that is to
+if we consider that B2 is needed to prove 'p(ba, c) p(a, c)', that is to
 say, the dual of B1. This suggests that we may use the second example
 for B1, changing only the value of 1.0 from 0 to 1, and that of 0.1 from
 1 to 0. Everything else may be left unchanged. B2 fails for a = 1, b = 0,
@@ -14686,9 +14235,9 @@ we interpret S as an at most denumerable and non-numerical Boolean
 algebra (such as a set of statements, so that 'a', 'b', etc. are variable names
 of statements). And we stipulate that 'x¯' is to denote, if x is a number, the
 same as ' − x'; and if x is a Boolean element (say, a statement) then 'x¯' is
-to denote the Boolean complement (negation) of x. Similarly, we stipulate that 'xy'; 'x + y'; 'x = y'; 'x ≠ y'; and 'x (cid:1) y', have their usual arithmetical meaning if x and y are numbers, and their well-known Boolean
+to denote the Boolean complement (negation) of x. Similarly, we stipulate that 'xy'; 'x + y'; 'x = y'; 'x ≠ y'; and 'x y', have their usual arithmetical meaning if x and y are numbers, and their well-known Boolean
 meanings whenever x and y are Boolean elements. (If x and y are
-statements, 'x (cid:1) y' should be interpreted as 'x entails y'.) In order to
+statements, 'x y' should be interpreted as 'x entails y'.) In order to
 prove the independence of postulate 2, we now merely add one more
 stipulation: we interpret 'p(a, b)' as synonymous with 'a + b¯' in the
 Boolean sense. Then postulate 2 breaks down while A1, A2, A3 and all
@@ -14700,8 +14249,6 @@ The proofs of the independence of the existential parts of postulates
 
 11 A slight variant of this interpretation transforms all the axioms into tautologies of the
 propositional calculus, satisfying all the postulates except postulate 2.
-
-new appendices
 
 S′ = {0, 1, 2, 3} and define product, complement, and absolute
 probability by the matrix:
@@ -14791,8 +14338,6 @@ C: p(a, b) = 0 if ab = 0 ≠ b;
 in all other cases,
 p(a, b) = 1.
 
-new appendices
-
 B1 is violated because 2 = p(1.2, 1) > p(1, 1) = 1
 C is violated because p(2¯ , 1) + p(2, 1) = 2, though p(0, 1) ≠ p(1, 1)
 The fact that our system remains independent even if we postulate
@@ -14816,7 +14361,7 @@ is as follows. (See also the end of appendix *v.)
 
 a is a super-element of b, or b is a sub-element of a—in symbols,
 
-a (cid:2) b—if, and only if, p(a, x) (cid:2) p(b, x) for every x in S.
+a b—if, and only if, p(a, x) p(b, x) for every x in S.
 
 Next I define what I mean by the product-element a of an infinite
 
@@ -14835,7 +14380,7 @@ A case of special interest is a decreasing (or rather non-increasing)
 infinite sequence, that is to say, a sequence A = a1, a2, . . . , such that
 an
 
-(cid:2) an + 1 for every consecutive pair of members of A.
+an + 1 for every consecutive pair of members of A.
 We can now define the (Boolean, as opposed to set-theoretical)
 product element a of the infinite sequence A = a1, a2, . . . , as the widest
 
@@ -14849,10 +14394,10 @@ belonging to the sequence A; or in symbols:
 (ii)
 
 a = πan if, and only if, a satisfies the following two conditions
-p(an, x) (cid:2) p(a, x) for all elements an of A, and for every element x
+p(an, x) p(a, x) for all elements an of A, and for every element x
 of S.
-p(a, x) (cid:2) p(b, x) for all elements x of S and for every element b of S
-that satisfies the condition p(an, y) (cid:2) p(b, y) for all elements an and
+p(a, x) p(b, x) for all elements x of S and for every element b of S
+that satisfies the condition p(an, y) p(b, y) for all elements an and
 for every element y of S.
 
 In order to show the difference between our (Boolean) product
@@ -14900,8 +14445,6 @@ although none of them will be the set-theoretic product of A.
 One might think, for a moment, that owing to the presence of an
 empty element in every S, every S will contain, like S1, a product element (in the sense of our definition) of any A in S; for if it does not
 contain any wider element satisfying (i), the empty element will
-
-new appendices
 
 always fill the bill. That this is not so is shown by an example S2
 containing, in addition to the elements of S1, the elements (plus the settheoretic products of any two elements and the set-theoretic complement of any one element) of the sequence B = b1, b2, where bn
@@ -14986,8 +14529,6 @@ example. For the missing half-interval, h = (0, 1
 the only set-theoretic product of A, so that a = h is true for the settheorist, whether or not a is in S. And with a = h, we have
 lim p(an) = p(a). Thus Kolmogorov's axiom is satisfied (even if we omit
 the condition p(a¯, a) ≠ 0; cf. footnote 12).
-
-new appendices
 
 It should be mentioned, in this connection, that Kolmogorov fails,
 in his book, to offer an independence proof for his 'axiom of continuity' although he claims independence for it. But it is possible to reframe our proof of independence so that it becomes applicable to
@@ -15097,35 +14638,33 @@ B1
 
 B2
 
-C
-
 p(a, a) = p(b, b).
-p(ab, c) (cid:1) p(a, c),
+p(ab, c) p(a, c),
 p(ab, c) = p(a, bc)p(b, c).
 p(a, a) ≠ p(b, a) → p(a, a) = p(c, a) + p(c¯, a).
 
 I now proceed to the derivations.
 
 (1) p(a, a) = p(b, b) = k
-(2) p((aa)a, a) (cid:1) p(aa, a) (cid:1) p(a, a) = k
+(2) p((aa)a, a) p(aa, a) p(a, a) = k
 (3) p((aa)a, a) = p(aa, aa)p(a, a) = k2
-(4) k2 (cid:1) k
-(5) 0 (cid:1) k (cid:1) 1
+(4) k2 k
+(5) 0 k 1
 (6) k ≠ p(a, b) → k = k + p(b¯, b)
 (7) k ≠ p(a, b) → p(b¯, b) = 0
 (8) p(ab¯, b) = p(a, b¯b)p(b¯, b)
-(9) k ≠ p(a, b) → 0 = p(ab¯, b) (cid:1) p(a, b)
-(10) k ≠ p(a, b) → 0 (cid:1) p(a, b)
+(9) k ≠ p(a, b) → 0 = p(ab¯, b) p(a, b)
+(10) k ≠ p(a, b) → 0 p(a, b)
 (11) 0 > p(a, b) → k = p(a, b)
-(12) k = p(a, b) → 0 (cid:1) p(a, b)
-(13) 0 > p(a, b) → 0 (cid:1) p(a, b)
-(14) 0 (cid:1) p(a, b)
-(15) 0 (cid:1) p(a¯, b)
-(16) k ≠ p(a, b) → k (cid:2) p(a, b)
-(17) p(a, b) (cid:1) k (cid:1) 1
-(18) 0 (cid:1) p(a, b) (cid:1) k (cid:1) 1
-(19) k = p(aa, aa) (cid:1) p(a, aa) (cid:1) k
-(20) k = p(a(aa), a(aa)) (cid:1) p(a, a(aa)) (cid:1) k
+(12) k = p(a, b) → 0 p(a, b)
+(13) 0 > p(a, b) → 0 p(a, b)
+(14) 0 p(a, b)
+(15) 0 p(a¯, b)
+(16) k ≠ p(a, b) → k p(a, b)
+(17) p(a, b) k 1
+(18) 0 p(a, b) k 1
+(19) k = p(aa, aa) p(a, aa) k
+(20) k = p(a(aa), a(aa)) p(a, a(aa)) k
 (21) k = p(aa, aa) = p(a, a(aa))p(a, aa) = k2
 (22) k = k2
 (23) (Ea) (Eb) p(a, b) ≠ 0 → k = 1
@@ -15157,8 +14696,6 @@ C, 1, 15
 A1
 1, 23, 24
 
-new appendices
-
 (26) (Eb) (Ea) p(b, a) ≠ k
 (27) (Ea) p(a¯, a) = 0
 
@@ -15172,7 +14709,7 @@ reached. We now turn to the derivation of the various laws usually
 taken either from Boolean algebra or from the propositional calculus.
 First we derive the law of idempotence.
 
-(28) 1 = p(ab, ab) (cid:1) p(a, ab) = 1
+(28) 1 = p(ab, ab) p(a, ab) = 1
 (29) p(aa, b) = p(a, ab)p(a, b)
 (30) p(aa, b) = p(a, b)
 
@@ -15183,8 +14720,8 @@ B2
 This is the law of idempotence, sometimes also called the 'law of
 tautology'. We now turn to the derivation of the law of commutation.
 
-(31) p(a, bc) (cid:1) 1
-(32) p(ab, c) (cid:1) p(b, c)
+(31) p(a, bc) 1
+(32) p(ab, c) p(b, c)
 
 This is the second law of monotony, analogous to B1.
 
@@ -15193,8 +14730,8 @@ This is the second law of monotony, analogous to B1.
 (35) p(b, a(bc)) = 1
 (36) p(ba, bc) = p(a, bc)
 (37) p((ba)b, c) = p(ab, c)
-(38) p(ba, c) (cid:2) p(ab, c)
-(39) p(ab, c) (cid:2) p(ba, c)
+(38) p(ba, c) p(ab, c)
+(39) p(ab, c) p(ba, c)
 (40) p(ab, c) = p(ba, c)
 
 B2, 31, 14
@@ -15240,7 +14777,7 @@ from it by A2 + (and B2), but I avoid where possible using A2 or A2 + .
 
 (49) p(a(b(cd)), d) = p(cd, b(ad))p(b, ad)p(a, d)
 (50) p(a(bc), d) = p(c, b(ad))p(b, ad)p(a, d)
-(51) p(a(bc), d) (cid:2) p(a(b(cd)), d)
+(51) p(a(bc), d) p(a(b(cd)), d)
 
 40, B2
 40, B2
@@ -15250,17 +14787,17 @@ This is a kind of weak generalization of the first monotony law, B1.
 
 (52) p(a(b(cd)), (ab)(cd)) = 1
 (53) p((a(b(cd))(ab), cd) = p(ab, cd)
-(54) p(a(b(cd)), cd) (cid:2) p(ab, cd)
-(55) p((a(b(cd)))c, d) (cid:2) p((ab)c, d)
-(56) p(a(b(cd)), d) (cid:2) p((ab)c, d)
-(57) p(a(bc), d) (cid:2) p((ab)c, d)
+(54) p(a(b(cd)), cd) p(ab, cd)
+(55) p((a(b(cd)))c, d) p((ab)c, d)
+(56) p(a(b(cd)), d) p((ab)c, d)
+(57) p(a(bc), d) p((ab)c, d)
 
 This is one half of the law of association.
 
-(58) p((bc)a, d) (cid:2) p((ab)c, d)
-(59) p((ab)c, d) (cid:2) p(b(ca), d)
-(60) p((bc)a, d) (cid:2) p(b(ca), d)
-(61) p((ab)c, d) (cid:2) p(a(bc), d)
+(58) p((bc)a, d) p((ab)c, d)
+(59) p((ab)c, d) p(b(ca), d)
+(60) p((bc)a, d) p(b(ca), d)
+(61) p((ab)c, d) p(a(bc), d)
 
 48 (subst.)
 52, B2
@@ -15283,8 +14820,6 @@ This the second half of the law of association.
 This is the complete form of the law of association, for the
 first argument (see also formula (g) at the beginning of appendix *iv).
 The law for the second argument can be obtained by applying A2.
-
-new appendices
 
 (Applying B2 twice to each side of (62) only leads to a conditional
 form with 'p(bc, d)≠0 → ' as antecedent.)
@@ -15426,8 +14961,6 @@ B2, 25, 29′, 40
 
 See also (27). Formulae (31′) to (35′) do not belong to the theorems of the usual systems.
 
-new appendices
-
 form: it is unconditional and free of the unusual ' + p(c¯, c)'. (79) can be
 further generalized:
 
@@ -15534,8 +15067,6 @@ formula (E):
 —a formula which is invalid in many finite interpretations of our S but
 valid in its normal infinite interpretations.
 
-new appendices
-
 In order to prove now that, in any consistent interpretation, S must
 
 be a Boolean algebra, we note that
@@ -15625,14 +15156,14 @@ derivation.
 
 More particularly, we may interpret
 
-a (cid:2) b
+a b
 
 which is definable by 'ab = b', to mean, in logical interpretation, 'a
 follows from b' (or 'b entails a'). It can be easily proved that
 
 (+)
 
-a (cid:2) b → p(a, b) = 1
+a b → p(a, b) = 1
 
 This is an important formula3 which is asserted by many authors, but
 
@@ -15648,8 +15179,6 @@ his system is still inconsistent (even though he recognized, in the second editi
 that two contradictory propositions entail any proposition; cf. note *2 to section 23, and
 my answer to Jeffreys in Mind 52, 1943, pp. 47 ff.).
 
-new appendices
-
 which is nevertheless invalid in the usual systems—provided they are
 consistent. For in order to make it valid, we must make allowance for4
 
@@ -15664,7 +15193,7 @@ unconditionally asserted in the system. (Cf. our axiom C; see also footnote 1, a
 
 The converse of (+), that is to say,
 
-p(a, b) = 1 → a (cid:2) b
+p(a, b) = 1 → a b
 
 must not be demonstrable, of course, as our second and third examples
 proving consistency show. (Cf. also the formula (E) in the present and
@@ -15673,8 +15202,8 @@ our system such as
 
 (‡)
 
-a (cid:2) b ↔ p(a, a¯b) ≠ 0
-a (cid:2) b ↔ p(a, a¯b) = 1
+a b ↔ p(a, a¯b) ≠ 0
+a b ↔ p(a, a¯b) = 1
 
 None of these can hold in the usual systems in which p(a, b) is
 undefined unless p(b) ≠ 0. It seems to be quite clear, therefore, that the
@@ -15696,19 +15225,19 @@ whether a necessary statement is necessarily necessary finds a natural
 place in probability theory: it is closely connected with the relation
 between primary and secondary probability statements which plays an
 important part in probability theory (as shown in appendix *ix, point
-*13 of the Third Note). Roughly, writing '(cid:1) x' for 'x is necessary (or
+*13 of the Third Note). Roughly, writing 'x' for 'x is necessary (or
 demonstrable)' and 'h' for 'p(a, a¯) = 1', we may show that
 
-(cid:1) a ↔ (cid:1) h,
+a ↔ h,
 
 and therefore we find that
 
-(cid:1) a → (cid:1) 'p(h, h¯) = 1',
+a → 'p(h, h¯) = 1',
 
-which may be taken to mean that (cid:1) a entails that a is necessarily
+which may be taken to mean that a entails that a is necessarily
 necessary; and since this means something like
 
-(cid:1) a → (cid:1) 'p('p(a, a¯) = 1', 'p(a, a¯) = 1') = 1',
+a → 'p('p(a, a¯) = 1', 'p(a, a¯) = 1') = 1',
 
 we obtain (secondary) probability statements about (primary)
 probability statements.
@@ -15726,17 +15255,11 @@ and CD, is equivalent to the six axioms on pp. 337 and 356–7.
 A
 BD
 
-CD
-
 (Ea) (Eb)p(a, a) ≠ p(a, b)
-((d)p(ab, d) = p(c, d)) ↔ (e) (f) (p(a, b) (cid:3) p(c, b) & p(a, e) (cid:4)
-(cid:4) p(c, e) (cid:3) p(b, c) & ((p(b, e) (cid:3) p(f, e) & p(b, f) (cid:4) p(f, f) (cid:3)
-(cid:3) p(e, f)) → p(a, f)p(b, e) = p(c, e)))
+((d)p(ab, d) = p(c, d)) ↔ (e) (f) (p(a, b) p(c, b) & p(a, e) p(c, e) p(b, c) & ((p(b, e) p(f, e) & p(b, f) p(f, f) p(e, f)) → p(a, f)p(b, e) = p(c, e)))
 p(a¯, b) = p(b, b) − p(a, b) ↔ (Ec)p(b, b) ≠ p(c, b)
 
 I also have found since an example not satisfying A2 but satisfying all
-
-new appendices
 
 the other axioms and Postulate AP (see note 10 on p. 345).—The
 example on p. 348 can be modified (putting p(2) = 1
@@ -15772,8 +15295,6 @@ is not, as we shall see, a helpful description. For there are no tests for
 presence or absence of regularity in general, only tests for presence or
 absence of some given or proposed specific regularity. Thus our tests
 of randomness are never tests which exclude the presence of all regularity: we may test whether or not there is a significant correlation
-
-new appendices
 
 between rain and Sundays, or whether a certain given formula for
 predicting rain on Sundays works, such as 'at least once in three weeks';
@@ -15858,8 +15379,6 @@ cells of an n-dimensional space.
 (12) While other frequency theorists—especially von Mises, Copeland, Wald, and Church—were mainly interested in defining random
 sequences in the most severe way by excluding 'all' gambling systems
 
-new appendices
-
 in the widest possible sense of the word 'all' (that is, in the widest
 sense compatible with a proof that random sequences so defined exist),
 my aim has been quite different. I wished from the beginning to
@@ -15905,10 +15424,10 @@ sequences of 0's and 1's, such that a = a1, a2, . . . ; b = b1, b2, . . . , and
 that, for a ≠ b, a and b are independent (and thus ab random). Let S
 contain the two sequences consisting of 0's and of 1's only. We put
 
-p (a, b) = lim (((cid:1)anbn)/(cid:1)bn),
-p(ab, c) = lim (((cid:1)anbncn)/(cid:1)cn),
-p(a¯, b) = lim (((cid:1)(1 − an) bn)/(cid:1)bn),
-p(a) = lim (((cid:1)an)/n);
+p (a, b) = lim ((anbn)/bn),
+p(ab, c) = lim ((anbncn)/cn),
+p(a¯, b) = lim (((1 − an) bn)/bn),
+p(a) = lim ((an)/n);
 
 then all Postulates and Axioms of appendices *iv and *v are satisfied
 (except Postulate 1: cf. p. 353).
@@ -15958,7 +15477,6 @@ By 'probability', I mean here either the absolute logical probability of
 the universal law, or its probability relative to some evidence; that is to say,
 relative to a singular statement, or to a finite conjunction of singular
 statements. Thus if a is our law, and b any empirical evidence, I assert
-that
 
 (1)
 
@@ -15983,8 +15501,6 @@ defined as equal to p(a, t).
 
 There are many arguments in support of (1) and (2). First, we may
 consider the classical definition of probability as the number of the
-
-new appendices
 
 favourable possibilities divided by that of all (equal) possibilities. We can
 then derive (2), for example, if we identify the favourable possibilities
@@ -16036,12 +15552,10 @@ and (see page 346)
 (3)
 
 a = lim
-n → ∞
 
 an
 
 p(a) = lim
-n → ∞
 
 p(an)
 
@@ -16079,12 +15593,9 @@ case it may be formulated thus: if a is the infinite product of a1, a2, . . . ,
 where p(ai) = p(aj), and where every ai is independent of all others, then
 the following holds:
 
-new appendices
-
 (4)
 
 p(a) = lim
-n → ∞
 
 p(an) = 0, unless p(a) = p(an) = 1
 
@@ -16167,8 +15678,6 @@ of after-effect; or in other words, to postulating that there is something like 
 hypothesis. It thus cannot form part of purely logical theory of
 probability.
 
-new appendices
-
 The same point may be put a little differently thus: in the presence of
 
 some hypothesis, h say, we may of course have
@@ -16217,8 +15726,6 @@ experience must be possible, and further, that every theory which entails the im
 
 But let us now consider the view that (8) is false, or in other words,
 
-that
-
 appendix *vii 381
 
 is valid, and consequently
@@ -16260,8 +15767,6 @@ they may be very well corroborated. See also my Postscript, sections *28 and *32
 4 Treatise of Human Nature, 1739–40, book i, part iii, section vi (the italics are Hume's). See
 also my Postscript, note 1 to section *2 and note 2 to section *50.
 5 loc. cit., section xii (the italics are Hume's). The next quotation is from loc. cit., section vi.
-
-new appendices
 
 inferences from observed to unobserved objects, then, Hume says, 'I
 wou'd renew my question, why from this experience we form any conclusion
@@ -16311,7 +15816,7 @@ A more direct disproof of ( + ) and a proof of (2) can be obtained
 from an argument which Jeffreys gives in his Theory of Probability, § 1.6.8
 Jeffreys discusses a formula which he numbers (3) and which in our
 symbolism amounts to the assertion that, provided p(bi, a) = 1 for every
-i (cid:1) n, so that p(abn) = p(a), the following formula must hold:
+i n, so that p(abn) = p(a), the following formula must hold:
 
 (10)
 
@@ -16348,8 +15853,6 @@ that is of interest if we have in mind applications to problems of science. Cf. 
 1958, and note 2 to section *49 of my Postscript.)
 
 = 'ki is heads' and bj
-
-new appendices
 
 the required a always exists; and there always is also another law, a′,
 yielding the same first n − 1 results but predicting, for the nth toss, the
@@ -16434,8 +15937,6 @@ the board. Any of these theories may, of course, be 'refuted' by discs
 placed on the board after the theory was announced. Although the
 
 12 A similar example is used in appendix *viii, text to note 2.
-
-new appendices
 
 'universe'—that of possible positions—may here be chosen to be a
 finite one, there will be nevertheless an infinity of mathematically
@@ -16524,8 +16025,6 @@ Mind 64, 1955, p. 391.
 synthetic statement is unavoidable in any probability theory if applied to some infinite universe
 of discourse: this is a simple consequence of the multiplication law which demands that
 
-new appendices
-
 All this does not mean that we cannot express the difference in
 content between a1 and a2 in terms of probability, at least in some
 cases. For example, the fact that a1 entails a2 but not vice versa would give
@@ -16585,7 +16084,7 @@ p(a)' may be used
 to state that the content of a is greater than that of b—at least in the sense
 of the fine structure of content. We shall thus assume that C(a)
 C(b)
-C(b), and that this in turn entails C(a) (cid:2) C(b), that is to
+C(b), and that this in turn entails C(a) C(b), that is to
 entails C(a)
 say, the falsity of C(a) < C(b). None of the opposite entailments hold.
 C(b) together entail C(a) = C(b), but
@@ -16647,8 +16146,6 @@ shows on p. 294, his language is such that infinitistic theorems—such as the p
 that every number has a successor—must not be demonstrable in it. It thus cannot
 contain the usual system of arithmetic.
 
-new appendices
-
 The fine-structure of content and of probability here discussed not
 only affects the limits, 0 and 1, of the probability interval, but it affects
 in principle all probabilities between 0 and 1. For let a1 and a2 be
@@ -16685,8 +16182,6 @@ p(b).
 The situation here discussed is important for the treatment of the
 simplicity or the dimension of a theory. This problem will be further discussed
 in the next appendix.
-
-Addendum, 1972
 
 In the last paragraph of the preceding Appendix, I hinted that the idea
 of a fine-structure of probability may be of significance for the comparison of the simplicity and dimension of theories. But the opposite
@@ -16770,8 +16265,6 @@ the track of the planet is a plane curve, then we can take a graphpaper
 that represents the field and enter on it the various positions, marking
 in each case the time, and the name of the planet in question, so that
 
-new appendices
-
 each entry represents one of the relative-atomic statements. (We can, of
 course, make the representation three-dimensional, by marking the
 position with a pin whose length represents the time, measured from
@@ -16854,8 +16347,6 @@ circles (overlapping so as to enable us to cover the whole area with them). This
 assumption would be a little closer to an interpretation of the 'positions' as the never
 absolutely sharp results of possible measurements of positions.
 
-new appendices
-
 But formula (*) remains valid when we assume that ε tends to zero,
 which in the limit amounts to replacing the finite universe by an
 infinite one. We arrive, therefore, at the following theorem.
@@ -16883,7 +16374,7 @@ consequently, 'p(a1) > p(a2)' is incompatible with 'd(a1) < d(a2)'.
 This theorem (which is implied in what has been said in the body of
 the book) is in keeping with the following considerations. A theory a
 requires a minimum of d(a) + 1 relative-atomic statements for its refutation. Its 'weakest falsifiers', as we may call them, consist of a conjunction
-of d(a) + 1 relative-atomic statements. This means that if n (cid:1) d(a), then
+of d(a) + 1 relative-atomic statements. This means that if n d(a), then
 no conjunction of n relative-atomic statements is logically strong
 enough for deriving from them a¯, that is, the negation of a. The
 strength or content of a¯, accordingly, can be measured by d(a) + 1,
@@ -16943,8 +16434,6 @@ greater than D will be among our n theories with maximum probability. Let a2 be 
 d(a2) > D = d(a1). Then the assignment leads to:
 
 4 Cf. appendix *vii, text to footnote 11.
-
-new appendices
 
 (−)
 
@@ -17029,8 +16518,6 @@ contradictions if the number of parameters of a2 is greater than 2.
 
 m + 1
 
-new appendices
-
 thus becomes something like formal simplicity; but otherwise my
 theory of simplicity agrees with that of Wrinch and Jeffreys in this
 point.) They also saw clearly that simplicity is one of the things aimed
@@ -17094,7 +16581,6 @@ Incidentally, simplicity should always be regarded as relative to a given
 problem of explanation. (See note 24 to chapter 10, p. 241, of my Conjectures
 and Refutations, in the (revised) second edition, 1965 (and later).)
 
-Addendum, 1972
 We sometimes discover a new connection between scientific problems.
 Thus if the simplicity of a theory is relative to the problems which the
 theory tries to solve, then it is, to some degree, also relative to the
@@ -17168,8 +16654,6 @@ convinced that, if x is a theory, p(x) = 0. I saw therefore that I had to
 construct a new probability calculus in which the likelihood, p(y, x),
 could be a definite number, other than 0/0, even if x was a universal
 theory with p(x) = 0.
-
-new appendices
 
 I will now briefly explain how the problem of p(y, x)—of the likelihood of x—arises.
 
@@ -17262,8 +16746,6 @@ with probability, will be found under point 6 of my first note.4 In view
 6 of my first note are the simplest possible examples, that is to say, they operate with the
 smallest possible number of equiprobable exclusive properties. This holds also for the
 
-new appendices
-
 of the brevity of that passage, I may perhaps explain this point here
 again.
 
@@ -17295,11 +16777,11 @@ p(x, z) > p(x) & p(y, z) < p(y) & p(x, z) < p(y, z).
 
 Obviously, we may replace here 'p(y, z) < p(y)' by the weaker
 
-'p(y, z) (cid:1) p(y)'.
+'p(y, z) p(y)'.
 
 This theorem is, of course, far from being paradoxical. And the same
 holds for its corollary (6) which we obtain by substituting for
-'p(x, z) > p(x)' and 'p(y, z) (cid:1) p(y)' the expressions 'Co(x, z)' and
+'p(x, z) > p(x)' and 'p(y, z) p(y)' the expressions 'Co(x, z)' and
 '∼Co(y, z)'—that is to say 'non-Co(y, z)'—respectively, in accordance
 with formula (1) above:
 (6) There exist statements x, y and z which satisfy the formula
@@ -17356,8 +16838,6 @@ purpose of my note was not so much to criticize as to give a definition
 of degree of corroboration.
 
 The criticism contained in my note was directed against all those
-
-new appendices
 
 who identify, explicitly or implicitly, degree of corroboration, or of
 confirmation, or of acceptability, with probability; the philosophers I
@@ -17433,8 +16913,6 @@ dangers of this confusion—for example in the paper reviewed by
 7 See also formula (6) on p. 464. Carnap's formula (4) on p. 464 is written as an
 equivalence, but this does not make any difference. Note that Carnap writes 't' for
 tautology; a usage which would allow us to write p(x, t) instead of p(x).
-
-new appendices
 
 Kemeny.) Therefore, any change of assumption (a) would be ad hoc. It
 is not my criticism that is 'purely verbal', but the attempts to rescue the
@@ -17515,8 +16993,6 @@ footnotes 1 and 2.)
 9 I have also, of course, incorporated the corrections mentioned in B.J.P.S. 5, pp. 334
 and 359.
 
-new appendices
-
 DEGREE OF CONFIRMATION
 1. The purpose of this note is to propose and to discuss a definition, in
 terms of probabilities, of the degree to which a statement x is confirmed by a
@@ -17591,25 +17067,23 @@ since for probabilities we have the generally valid formula
 
 (4.3)
 
-P(x1, y) (cid:2) P(x1x2, y) (cid:1) P(x2, y)
+P(x1, y) P(x1x2, y) P(x2, y)
 
 which, in the presence of (4.1) contradicts (4.2). Thus we should have
-to drop (4.2). But in view of 0 (cid:1) P(x, y) (cid:1) 1, (4.3) is an immediate
+to drop (4.2). But in view of 0 P(x, y) 1, (4.3) is an immediate
 consequence of the general multiplication principle for probabilities.
 Thus we should have to discard such a principle for the degree of
 confirmation. Moreover, it appears that we should have to drop the
 special addition principle also. For a consequence of this principle is,
-since P(x, y) (cid:2) 0,
+since P(x, y) 0,
 
 (4.4)
 
-P(x1x2 or x1x¯2, y) (cid:2) P(x1x2, y)
+P(x1x2 or x1x¯2, y) P(x1x2, y)
 
 But for C(x, y), this could not remain valid, considering that the
 alternative, x1x2 or x1x¯2, is equivalent to x1, so that we obtain by
 substitution on the left-hand side of (4.1):
-
-new appendices
 
 (4.5)
 
@@ -17693,8 +17167,6 @@ is supposed to be used for estimating the degree to which x is backed by
 experience. But P(x, y) cannot serve this purpose, since P(x1, y) may be
 higher than P(x2, y) even though x1 is undermined by y and x2 supported by y, and since this is due to the fact that P(x, y) depends very
 
-new appendices
-
 strongly upon P(x), i.e. the absolute probability of x, which has nothing
 whatever to do with the empirical evidence.
 
@@ -17754,11 +17226,11 @@ holds that it satisfies all of the following desiderata:
 
 (i)
 
-C(x, y) (cid:1) 0 respectively if and only if y supports x, or is
+C(x, y) 0 respectively if and only if y supports x, or is
 independent of x, or undermines x.
 
-(ii) − 1 = C(y¯, y) (cid:1) C(x, y) (cid:1) C(x, x) (cid:1) 1
-(iii) 0 (cid:1) C(x, x) = C(x) = P(x¯) (cid:1) 1
+(ii) − 1 = C(y¯, y) C(x, y) C(x, x) 1
+(iii) 0 C(x, x) = C(x) = P(x¯) 1
 
 Note that C(x), and therefore C(x, x), is an additive measure of the
 content of x, definable by P(x¯), i.e. the absolute probability of x to be
@@ -17799,16 +17271,12 @@ P(y, xz) − P(xy, z) + P(y, z)
 Probability'. (Before 'logical', 'absolute' should be inserted, in agreement with the
 terminology of my note in Mind, loc. cit.)
 
-new appendices
+(vii) If C(x) = C(y) ≠ 1, then C(x, u) C(y, w) whenever P(x, u) P(y, w).*3
 
-(vii) If C(x) = C(y) ≠ 1, then C(x, u) (cid:1) C(y, w) whenever P(x, u) (cid:1)
-
-P(y, w).*3
-
-(viii) If x entails y, then: (a) C(x, y) (cid:2) 0; (b) for any given x, C(x, y) and
+(viii) If x entails y, then: (a) C(x, y) 0; (b) for any given x, C(x, y) and
 C(y) increase together; and (c) for any given y, C(x, y) and P(x)
 increase together.6
-If x¯ is consistent and entails y, then: (a) C(x, y) (cid:1) 0; (b) for any
+If x¯ is consistent and entails y, then: (a) C(x, y) 0; (b) for any
 given x, C(x, y) and P(y) increase together; and (c) for any given
 y, C(x, y) and P(x) increase together.
 
@@ -17846,7 +17314,7 @@ corrections.
 evidence available today, including 'accepted' laws (it does not matter if none or one or
 both of the theories in question are included, provided our conditions for y are satisfied);
 and z a part of y, for example, a selection from the evidence available one year ago. Since
-we may assume that x1 explains more of y than x2, we obtain C(x1, y, z) (cid:2) C(x2, y, z) for
+we may assume that x1 explains more of y than x2, we obtain C(x1, y, z) C(x2, y, z) for
 every z, and C(x1, y, z) > C(x2, y, z) for any suitable z containing some of the relevant initial
 conditions. This follows from (vi)—even if we have to assume that P(x1, yz) = P(x2,
 yz) = P(x1) = P(x2) = 0.
@@ -17871,15 +17339,13 @@ desiderata3 for degree of confirmation of x by y, denoted by C(x, y), have
 
 8 There are many ways of getting nearer to this idea. For example, we may put a
 premium on crucial experiments by defining
-Ca, b(h) = (C(h, eb) (cid:3)
-
-C(h, ci, ea))1/(n + 1)
+Ca, b(h) = (C(h, eb) C(h, ci, ea))1/(n + 1)
 
 n
 
-(cid:1) ti
+ti
 
-(cid:1) tn
+tn
 
 i=1
 where c1, c2, . . . , is the sequence of experiments made between the moments of time, ta
@@ -17907,14 +17373,12 @@ University of London in May 1955 (unpublished); see p. 62. Dr. Hamblin produced 
 definition independently of Professor Kemeny's paper (to which he refers in his thesis).
 3 'Degree of Confirmation', this Journal, 1954, 5, 143 sqq.; see also p. 334.
 
-new appendices
-
 to be slightly amended: in (ii) and in (v), we must replace ± 1 by ± ∞;
 and (iii) becomes:
 
 (iii)
 
-0 (cid:1) C(x, xy) = C(x, x) = C(x) = − log2P(x) (cid:1) + ∞.
+0 C(x, xy) = C(x, x) = C(x) = − log2P(x) + ∞.
 
 The other desiderata remain as they were.
 Dr. Hamblin suggests4 that we define degree of confirmation by
@@ -17971,7 +17435,7 @@ follows (I think that better ways may be found):
 C(x, y) = E(x, y)/((1 + nP(x))P(x¯, y))
 C(x, y, z) = E(x, y, z)/((1 + nP(x, z)) P(x¯, yz))
 
-Here we may choose n (cid:2) 1. And if we wish viii(c) to have a marked
+Here we may choose n 1. And if we wish viii(c) to have a marked
 
 effect, we can make n a large number.
 
@@ -18000,8 +17464,6 @@ considerations. To show this we consider the logical probability of any
 measurable physical property (non-discrete random variable) such as
 
 *1 See the 'Third Note', below.
-
-new appendices
 
 length, to take the simplest example. We make the assumption (favourable to our opponents) that we are given some logically necessary finite
 lower and upper limits, I and u, to its values. Assume that we are given a
@@ -18082,8 +17544,6 @@ British Philosophy in the Mid-Century (ed. by C. A. Mace), p. 191; and in my Log
 Discovery, appendix *iv.
 6 Compare the remark in this Journal, 1954, 5, end of the first paragraph on p. 144.
 
-new appendices
-
 A THIRD NOTE ON DEGREE OF
 CORROBORATION OR CONFIRMATION
 
@@ -18161,7 +17621,6 @@ point 8, below, that an evidence e′ with 500,000 ± 1,350 cases would
 still be ideal, if my functions C and E are adopted; indeed, from the
 point of view of these functions, e is ideal precisely because it entails
 e′.) We then have no other option concerning P(a, e) than to assume
-that
 
 (2)
 
@@ -18170,8 +17629,6 @@ P(a, e) = 1/2
 This means that the probability of tossing heads remains unchanged,
 
 in the light of the evidence e; for we now have
-
-new appendices
 
 (3)
 
@@ -18260,8 +17717,6 @@ statement in any case.
 5 Both E and C are defined in my first note. It is sufficient here to remember that
 E(h, e) = (P(e, h) − P(e))/(P(e, h) + P(e)), and that C approaches E in most cases of
 
-new appendices
-
 behaviour of E and C. Consequently, no paradox arises; and we may
 quite naturally measure the weight of the evidence e with respect to the hypothesis h
 by either E(h, e), or C(h, e), or else—keeping more closely to Keynes'
@@ -18341,14 +17796,12 @@ On the other hand, P(e, h)—the likelihood of h—will be close to 1
 
 *1 It is here assumed that if the size of the sample is n, the frequency within this sample
 can be determined at best with an imprecision of ± 1/2n; so that for a finite n, we have
-δ (cid:2) 1/2n. (For large samples, this simply leads to δ > 0.)
+δ 1/2n. (For large samples, this simply leads to δ > 0.)
 *2 Formula (6) is a direct consequence of the fact that the informative content of a
 statement increases with its precision, so that its absolute logical probability increases
 with its degree of imprecision; see sections 34 to 37. (To this we have to add the fact that
 in the case of a statistical sample, the degree of imprecision and the probability have the
 same minima and maxima, 0 and 1.)
-
-new appendices
 
 either if δ is comparatively large (roughly, if δ ≈ 1/2) or—in case δ is
 small—if n, the sample size, is a large number. We therefore find that
@@ -18432,8 +17885,6 @@ those language systems, since measurable predicates do not create any new proble
 our method. (And it is a great advantage that we do not have to introduce a metric for the
 logical probability of any of the 'predicates' dealt with; see my criticism in point 3 of the
 'Second Note', above. See also my second Preface, 1958.)
-
-new appendices
 
 statistical interpretations may be used as excellent and weighty
 test-statements.*4
@@ -18524,8 +17975,6 @@ should commence after the second arrows.) *See the new appendices *iv and *v.
 8 Cf. this Journal, 1955, 6, 55 (the title of the section).
 9 Cf. my note in Mind, 1938, 47, 275 sq.
 
-new appendices
-
 them, there is a logical interpretation which takes probability as a generalization of deducibility. But this probability logic has little to do with
 our hypothetical estimates of chances or of odds; for the probability
 statements in which we express these estimates are always hypothetical
@@ -18596,7 +18045,6 @@ of S2; that is to say, we can write it in the form
 p(g, h) = 1
 
 lim
-n → ∞
 
 where g = δ
 r(a)n and where h is the information that p(a, b) = r; that is to
@@ -18609,8 +18057,6 @@ r(a)n, and probabilistic assumptions,
 or hypothetical probabilistic estimates, such as h. It seems for this reason proper, in the interest of a homogeneous S2, to identify all the
 probability statements which form the elements of S2, with frequency
 statements, or in other words, to assume, for the primary probability
-
-new appendices
 
 statements e, f, g, h, . . . which form the elements of S2, some kind of
 frequency interpretation of probability. At the same time, we may assume the
@@ -18691,8 +18137,6 @@ cannot be formalized—no more than the inductivist requirement that e
 must represent our total observational knowledge. Yet if e is not a report
 about the results of our sincere attempts to overthrow h, then we shall
 
-new appendices
-
 simply deceive ourselves if we think we can interpret C(h, e) as degree
 of corroboration, or anything like it.
 
@@ -18725,8 +18169,6 @@ subjected to further criticism, and to the severest tests we can design.
 On the positive side, we may be entitled to add that the surviving
 theory is the best theory—and the best tested theory—of which we
 know.
-
-Addendum, 1972
 
 (1) A comment may be added on the last three lines of the text. By the
 'best' theory I mean the one of the competing and surviving theories
@@ -18778,8 +18220,6 @@ If we look at this diagram, we find that some of the figures are
 similar with respect to shading (hatching) or to its absence; others are
 similar with respect to shape; and others are similar with respect to
 size. The table might be extended like this.
-
-new appendices
 
 One can easily see that there is no end to the possible kinds of
 
@@ -18853,8 +18293,6 @@ we predicate is an observable property; and to this extent, a singular
 2 Cf. my papers 'A Note on Berkeley as a Precursor of Mach', B.J.P.S. 4, 1953, and 'Three
 Views Concerning Human Knowledge' in Contemporary British Philosophy iii, ed. by H. D.
 Lewis, 1956. Both are now in my Conjectures and Refutations, 1963, 1965.
-
-new appendices
 
 statement such as 'This swan here is white' may be said to be based on
 observation. Yet it transcends experience—not because of the word
@@ -18933,8 +18371,6 @@ because of the occurrence of universal or dispositional terms in them.
 And they transcend experience in a higher degree if the dispositional
 terms which occur in them are dispositional in a higher degree or
 
-new appendices
-
 more abstract. There are layers of higher and higher degrees of universality, and thus of transcendence. (In section *15 of the Postscript, an
 attempt is made to explain the sense in which these are also layers of
 what may be called 'depth'.)
@@ -19011,8 +18447,6 @@ completely. (See for example note 17, below.)
 view ('A truth is necessary when its negation implies a contradiction; and when it is not
 necessary, it is called contingent.' Die philosophischen Schriften, ed. by Gerhardt, 3, pp. 400;
 see also 7, pp. 390 ff.), while at other times he seems to use 'necessary' in a wider sense.
-
-new appendices
 
 natural laws seems to me utterly unacceptable. Yet his criticism seems
 to me most valuable.
@@ -19092,8 +18526,6 @@ any other mathematically false statement, as an assumption in an
 9 Op. cit., p. 80.
 10 Ibid.
 
-new appendices
-
 indirect proof. Indeed, an indirect proof may well be put thus: 'Conceive
 that a is true. Then we should have to admit that b is true. But we
 know that b is absurd. Thus it is inconceivable that a is true.' It is clear
@@ -19171,8 +18603,6 @@ similarity to logical tautologies12) that, beginning with Newton,
 
 11 Cf. Kneale, op. cit., p. 32; see also, for example, p. 80.
 12 Op. cit., p. 33.
-
-new appendices
 
 physical theory has reached a depth of insight utterly beyond the
 Cartesian approach.
@@ -19260,8 +18690,6 @@ natural necessity; for we may adopt the following definition, (N°):
 (N°) A statement may be said to be naturally or physically necessary if, and only if, it
 
 15 Cf. my 'Note on Tarski's Definition of Truth', Mind 64, 1955, especially p. 391.
-
-new appendices
 
 is deducible from a statement function which is satisfied in all worlds that differ from our
 world, if at all, only with respect to initial conditions. (*See the Addendum to the
@@ -19356,8 +18784,6 @@ conditionals must be deducible from natural laws. It is therefore difficult to u
 how Kneale (Analysis 10, 1950, p. 122) could attribute to me even tentatively the
 view that a subjunctive conditional or a 'contrary to fact conditional' was of the form
 
-new appendices
-
 A little reflection will show that the class N of naturally necessary
 statements comprises not only the class of all those statements
 which, like true universal laws of nature, can be intuitively described
@@ -19390,9 +18816,9 @@ hold'.
 Nevertheless, the phrase in (N°) 'all worlds which differ (if at all)
 from our world only with respect to the initial conditions' undoubt-
 
-'∼(cid:1)(a). ((cid:1)(a) ⊃ ψ(a))'. I wonder whether Kneale realized that this expression of his was
-only a complicated way of saying '∼(cid:1) (a)'; for who would ever think of asserting that
-'∼(cid:1) (a)' was deducible from the law '(x) ((cid:1)(x) ⊃ ψ (x))'?
+'∼(a). ((a) ⊃ ψ(a))'. I wonder whether Kneale realized that this expression of his was
+only a complicated way of saying '∼(a)'; for who would ever think of asserting that
+'∼(a)' was deducible from the law '(x) ((x) ⊃ ψ (x))'?
 
 appendix *x 457
 
@@ -19432,8 +18858,6 @@ Foundations for Logic', Mind 56, 1947, pp. 193 f.
 19 Cf. 'A Note on Natural Laws and So-Called Contrary-to Fact Conditionals', Mind 58,
 N.S., 1949, pp. 62–66. See also my Poverty of Historicism, 1957 (first published 1945), the
 footnote on p. 123.
-
-new appendices
 
 differ (if at all) from our world only with respect to the initial
 conditions.20
@@ -19521,8 +18945,6 @@ example. What can clearly not be done is to verify the statement that there are 
 falsifiable) does not mean that it is meaningless, or that it cannot be understood, or that it
 'can clearly not be said', as Wittgenstein believed.
 
-new appendices
-
 the world. And although it is impossible to establish this metaphysical
 idea either on empirical grounds (because it is not falsifiable) or on
 other grounds, I believe that it is true, as I indicated in section 79, and
@@ -19601,8 +19023,6 @@ phenomenalist 'reduction programmes', see note 4 and text, above.
 26 A somewhat fuller statement of this view of subjunctive conditionals may be found in
 my note 'On Subjunctive Conditionals with Impossible Antecedents', Mind N.S. 68, 1959,
 pp. 518–520.
-
-new appendices
 
 the phenomenalist modal translation of 'At the place x is a flower-pot'
 will be true for all those places x which, for some physical reason or
@@ -19752,8 +19172,6 @@ Simplicio): 'In truth, your argument has proceeded exceedingly well.' Cf. Dialog
 pp. 64 and 62 of the English edition of Crew and Salvio, 1914).
 3 Op. cit., p. 107 (1638); p. 65 (1855); p. 63 (1914).
 
-new appendices
-
 a gravitational field may proceed on curved paths. This use is important
 and legitimate.
 
@@ -19832,8 +19250,6 @@ way of representing it. This situation is illustrated, as will be seen, by Bohr'
 follows in the text.
 6 Bohr, Physical Review 48, 1935, pp. 696–702. The quotations are from pp. 700 and 699.
 (The italics are mine.) See also the note on p. 232, above.
-
-new appendices
 
 with, its co-ordinates may become smeared by the smearing of the
 frame of reference.
@@ -19915,8 +19331,6 @@ them instructive.
 diagram on p. 220.
 8 Op. cit., p. 219.
 9 Bohr, Physical Review 48, 1935, p. 699.
-
-new appendices
 
 based upon his famous formula E = mc2, Bohr had recourse to arguments from Einstein's gravitational theory (that is to say, from general
 relativity).10 But E = mc2 can be derived from special relativity, and even
@@ -20000,8 +19414,6 @@ Bohm accepts this conclusion, and replies on the following lines:
 
 12 See A. Einstein in Scientific Papers Presented to Max Born, 1953, pp. 33 ff; see especially p. 39.
 
-new appendices
-
 moving freely between perfectly reflecting and smooth walls.'13 (We need
 not go into the finer peculiarities of the arrangement.) 'Now, in the
 causal interpretation of the quantum theory'—that is, in Bohm's
@@ -20078,8 +19490,6 @@ on thought about physics than this one.
 With the help of his imaginary experiment, Heisenberg tried to
 establish various points of which I may mention three: (a) the interpretation of the Heisenberg indeterminacy formulae as stating the existence
 
-new appendices
-
 of insuperable barriers to the precision of our measurements; (b) the disturbance of the
 measured object by the process of measurement, whether of position or of
 momentum; and (c) the impossibility of testing the spatio-temporal 'path' of the
@@ -20155,8 +19565,6 @@ the same time disclaiming metaphysics. (He thus ministered to a curiously ambiva
 inviolate, in some other form, and beyond all criticism. With some
 quantum physicists it sometimes looks almost as if the father was
 
-new appendices
-
 Einstein.) The metaphysical picture of the world, somehow conveyed
 through Heisenberg's discussion of his experiment although never
 really implied in it, is this. The thing in itself is unknowable: we can only
@@ -20230,8 +19638,6 @@ the wave length of the light) to obtain interference fringes on a
 
 15 Jordan, Anschauliche Quantentheorie, 1936, p. 282.
 16 Op. cit., p. 115.
-
-new appendices
 
 photographic plate which records the light that passes the two slits; and
 on the other hand, that some experimental arrangement would make it
@@ -20309,8 +19715,6 @@ it.19
 
 19 Cf. Albert Einstein: Philosopher-Scientist, ed. by P. A. Schilpp, 1949, p. 674.
 
-new appendices
-
 My impression is that it may well be the metaphysical idea described
 above under point (10). I may be wrong; but whatever it is, I feel that
 Bohr owes us a better explanation.20
@@ -20343,8 +19747,6 @@ natural conjectures, and for this reason perhaps not always consciously
 made), and therefore from probabilistic premises.
 
 Einstein's literary executors requested that, if a translation of the
-
-new appendices
 
 letter were to be published, the original text should be published at the
 same time. This suggested to me the idea of reproducing Einstein's
@@ -20433,8 +19835,6 @@ the system.
 An orthodox quantum theorist will say, of course, that there is no
 such thing as a complete description and that there can be only a
 
-new appendices
-
 statistical description of an aggregate of systems, rather than a description
 of one single system. But first of all, he ought to say so clearly; and
 secondly, I do not believe that we shall have to be satisfied for ever with
@@ -20471,11 +19871,7 @@ A. Einstein.
 
 appendix *xii 485
 
-new appendices
-
 appendix *xii 487
-
-new appendices
 
 NAME INDEX
 
@@ -21247,8 +20643,6 @@ truth section 84, 273&n–6, 434,
 436–7; ungraded 403t–5t, 406–7,
 409, 412–16
 
-subject index
-
 Cosmology, its problems are those
 of philosophy of science xviii; its
 problems are those of
@@ -21446,8 +20840,6 @@ Regularity
 Elimination, method of 90–1,
 
 115–16, 125n, 279n, 383n, 438, 442
-
-subject index
 
 Empirical basis section 7, 21–2, 24,
 chapter V, 74–9, 96; objectivity of
@@ -21669,8 +21061,6 @@ Heisenberg's formulae 209, 213–15,
 216, 218&n–19, 222, 223, 232–3,
 246, 303–4; involves auxiliary
 
-subject index
-
 and ad hoc hypothesis 238–93n,
 468, 469–70; orthodox
 interpretation of 209, 210–11,
@@ -21872,8 +21262,6 @@ xvii
 Invariance see Transformation
 Irrelevance, probabilistic 146t&n,
 
-subject index
-
 150&nt, see also Independence,
 probabilistic
 
@@ -22074,8 +21462,6 @@ material 76–7t; realistic 69
 Modification or revision 50, 56n, 63,
 64, 67n, 78, 90, 250, 251, see also
 Approximation
-
-subject index
 
 Modus Ponens 71n, 262n
 Modus Tollens 19, section 18, 56,
@@ -22283,8 +21669,6 @@ calculus of section 47, 133–7,
 147n, 204, 207–8, 319, 320;
 games of chance or classical 103,
 
-subject index
-
 319–20; indutive see Probability
 logic; logical 134n, 135&n–6, 182,
 184n, 254n, 261n, 321–2, 330–1,
@@ -22481,8 +21865,6 @@ independence of 173, 296;
 modification of (into the
 requirement of uniqueness) 139,
 
-subject index
-
 142&n, 154n, 174&n, section 64,
 176–81&n, 186&n, 188n;
 modification of section 51,
@@ -22675,8 +22057,6 @@ two arguments 329–31, 333, 334,
 336t, 352n; in quantum
 theoretical formalism but not in
 Heisenberg's imaginary
-
-subject index
 
 experiment 474–5, see also Zero
 probability

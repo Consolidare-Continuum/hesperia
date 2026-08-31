@@ -87,8 +87,6 @@ Other North River Press Books by
 
  For more information on Eli Goldratt and his current projects visit his web site at: www.eligoldratt.com.
 
- 1
-
  I come through the gate this morning at 7:30 and I can see it from across the lot: the crimson Mercedes. It's parked beside the plant, next to the offices. And it's in my space. Who else would do that except Bill Peach? Never mind that the whole lot is practically empty at that hour. Never mind that there are spaces marked "Visitor.'' No, Bill's got to park in the space with my title on it. Bill likes to make subtle statements. So, okay, he's the division vice-president, and I'm just a mere plant manager. I guess he can park his damn Mercedes wherever he wants.
 
  I put my Mazdanext to it (in the space marked "Controller''). A glance at the license as I walk around it assures me it has to be Bill's car because the plate says "NUMBER 1.'' And, as we all know, that's absolutely correct in terms of who Bill always looks out for. He wants his shot at CEO. But so do I. Too bad that I may never get the chance now.
@@ -306,8 +304,6 @@ Other North River Press Books by
  Bob seems surprised. "Well, I can't say. I think the guy was just so upset he couldn't think straight. So he screwed it up.''
 
  I can feel my face getting hot. The cold hand is gone. Now I'm so pissed off at Bill Peach that I'm fantasizing about calling him on the phone and screaming in his ear. It's his fault! And in my head I see him. I see him behind my desk and hear him telling me how he's going to show me how to get the orders out the door. Right, Bill. You really showed me how to do it.
-
- 2
 
  Isn't it strange to feel your own world is falling apart while those of the people close to you are rock steady? And you can't figure out why they're not affected the way you are. About 6:30, I slip away from the plant to run home and grab some dinner. As I come through the door, Julie looks up from the television.
 
@@ -559,8 +555,6 @@ Other North River Press Books by
 
  Time to get the hell out of here. I've had enough fun for one day.
 
- 3
-
  I wake up with Julie on top of me. Unfortunately, Julie is not being amorous; she is reaching for the night table where the digital alarm clock says 6:03 A.M. The alarm buzzer has been droning for three minutes. Julie smashes the button to kill it. With a sigh, she rolls off of me. Moments later, I hear her breathing resume a steady pace; she is asleep again. Welcome to a brand new day.
 
  About forty-five minutes later, I'm backing the Mazda out of the garage. It's still dark outside. But a few miles down the road the sky lightens. Halfway to the city, the sun rises. By then, I'm too busy thinking to notice it at first. I glance to the side and it's floating out there beyond the trees. What makes me mad sometimes is that I'm always running so hard that—like most other people, I guess—I don't have time to pay attention to all the daily miracles going on around me. Instead of letting me eyes drink in the dawn, I'm watching the road and worrying about Peach. He's called a meeting at headquarters for all the people who directly report to him—in essence, his plant managers and his staff. The meeting, we are told, is to begin promptly at 8:00 A.M. The funny thing is that Peach is not saying what the meeting is about. It's a big secret—you know: hush-hush, like maybe there's a war on or something. He has instructed us to be there at eight and to bring with us reports and other data that'll let us go through a thorough assessment of all the division's operations.
@@ -652,8 +646,6 @@ Other North River Press Books by
  But I can't find a pen. So I reach into my other pocket. And I pull out the cigar. I stare at it. I don't smoke anymore. For a few seconds I'm wondering where the hell this cigar came from.
 
  And then I remember.
-
- 4
 
  Two weeks ago, I'm wearing the same suit as now. This is back in the good days when I think that everything will work out. I'm traveling, and I'm between planes at O'Hare. I've got some time, so I go to one of the airline lounges. Inside, the place is jammed with business types like me. I'm looking for a seat in this place, gazing over the three-piece pinstripes and the women in conservative blazers and so on, when my eye pauses on the yarmulke worn by the man in the sweater. He's sitting next to a lamp, reading, his book in one hand and his cigar in the other. Next to him there happens to be an empty seat. I make for it. Not until I've almost sat down does it strike me I think I know this guy.
 
@@ -941,8 +933,6 @@ Other North River Press Books by
 
  He hands the stewardess his ticket, looks at me and waves good-bye. I raise my hand to wave back and discover I'm still holding the cigar he gave me. I put it in my suit jacket pocket. When I look up again, he's gone. An impatient gate-agent appears and tells me flatly she is going to close the door.
 
- 5
-
  It's a good cigar.
 
  For a connoisseur of tobacco, it might be a little dry, since it spent several weeks inside my suit jacket. But I sniff it with pleasure during Peach's big meeting, while I remember that other, stranger, meeting with Jonah.
@@ -1112,8 +1102,6 @@ Other North River Press Books by
  If the goal is to make money, then (putting it in terms Jonah might have used), an action that moves us toward making money is productive. And an action that takes away from making money is non-productive. For the past year or more, the plant has been moving away from the goal more than toward it. So to save the plant, I have to make it productive; I have to make the plant make money for UniCo. That's a simplified statement of what's happening, but it's accurate. At least it's a logical starting point.
 
  Through the windshield, the world is bright and cold. The sunlight seems to have become much more intense. I look around as if I have just come out of a long trance. Everything is familiar, but seems new to me. I take my last swallow of beer. I suddenly feel I have to get going.
-
- 6
 
  By my watch, it's about 4:30 when I park the Mazda in the plant lot. One thing I've effectively managed today is to evade the office. I reach for my briefcase and get out of the car. The glass box of the office in front of me is silent as death. Like an ambush. I know they're all inside waiting for me, waiting to pounce. I decide to disappoint everyone. I decide to take a detour through the plant. I just want to take a fresh look at things.
 
@@ -1717,8 +1705,6 @@ Other North River Press Books by
 
  Five hours later, I wake up feeling like a waffle.
 
- 9
-
  It's eleven o'clock when I wake up. Startled by what time it is, I fall onto my feet and head for the phone to call Fran, so she can let everyone know I haven't gone AWOL.
 
  "Mr. Rogo's office,'' Fran answers.
@@ -2037,8 +2023,6 @@ Other North River Press Books by
 
  "I think I need to explain a few things.''
 
- 10
-
  An hour and a half later, I've gone over it all with them. We're in the conference room, which I've commandeered because it has a whiteboard. On that whiteboard, I've drawn a diagram of the goal. Just now I've written out the definitions of the three measurements.
 
  All of them are quiet. Finally, Lou speaks up and says, "Where the heck did you get these definitions anyway?''
@@ -2278,8 +2262,6 @@ Other North River Press Books by
  "So there you are!'' she says and reaches for the message slips. "This man called you twice from London. He wouldn't say whether it was important or not.''
 
  I say, "I've got a job for you: find a way to get me to New York tonight.''
-
- 11
 
  But Julie does not understand.
 
@@ -2603,8 +2585,6 @@ Other North River Press Books by
 
  The drivers asks, "Where to, chief?''
 
- 12
-
  There is a guy I heard about in UniCo who came home from work one night, walked in, and said, "Hi, honey, I'm home!'' And his greeting echoed back to him from the empty rooms of his house. His wife had taken everything: the kids, the dog, the goldfish, the furniture, the carpets, the appliances, the curtains, the pictures on the wall, the toothpaste, everything. Well, just about everything—actually, she left him two things: his clothes (which were in a heap on the floor of the bedroom by the closet; she had even taken the hangers), and a note written in lipstick on the bathroom mirror which said, "Good-bye, you bastard!''
 
  As I drive down the street to my house, that kind of vision is running through my mind, and has been periodically since last night. Before I pull into the driveway, I look at the lawn for the telltale signs of tracks left by the wheels of a moving van, but the lawn is unmarred.
@@ -2720,8 +2700,6 @@ Other North River Press Books by
  She stands up. "Okay, but promise me you'll hurry home tonight.''
 
  "Promise,'' I tell her. "Really, it's going to be a great weekend.''
-
- 13
 
  I open my eyes Saturday morning to see a drab green blur. The blur turns out to be my son, Dave, dressed in his Boy Scout uniform. He is shaking my arm.
 
@@ -2936,8 +2914,6 @@ Other North River Press Books by
  "How come we're stopping?''
 
  He says, "Time for lunch, Mr. Rogo.''
-
- 14
 
  "But we're not supposed to be having lunch here,'' says one of the kids. "We're not supposed to eat until we're farther down the trail, when we reach the Rampage River.''
 
@@ -3195,8 +3171,6 @@ Other North River Press Books by
 
  Chuck is in the middle shaking his head, already resigned to defeat. Anyway, it's time to head on up the trail again. "Some game that turned out to be,'' says Evan. "Right, some game,'' I mumble.
 
- 15
-
  For a while, I watch the line ahead of me. As usual, the gaps are widening. I shake my head. If I can't even deal with this in a simple hike, how am I going to deal with it in the plant?
 
  What went wrong back there? Why didn't the balanced model work? For about an hour or so, I keep thinking about what happened. Twice I have to stop the troop to let us catch up. Sometime after the second stop, I've fairly well sorted out what happened.
@@ -3385,8 +3359,6 @@ Other North River Press Books by
 
  We're awake for some time talking about everything. He hangs in there, even asks some questions. By the time we're finished, all we can hear is some snoring from the other tents, a few crickets... and the squealing tires of some idiot turning donuts out there on the highway.
 
- 16
-
  Davey and I get home around 4:30 on Sunday afternoon. Both of us are tired, but we're feeling pretty good in spite of the miles. After I pull into the driveway, Dave hops out to open the garage door. I ease theMazda in and go around to open the trunk so we can get our packs.
 
  "I wonder where Mom went,'' says Dave.
@@ -3496,8 +3468,6 @@ Other North River Press Books by
  An hour later, I do call the police. But, as I expected, they won't help unless I have some evidence that something criminal has taken place. I go and put the kids to bed.
 
  Sometime after midnight, I'm staring at the dark bedroom ceiling and I hear a car turning into the driveway. I leap out of bed and run to the window. By the time I get there, the headlights are arcing back toward the street. It's just a stranger turning around. The car drives away.
-
- 17
 
  Monday morning is a disaster.
 
@@ -3826,8 +3796,6 @@ Other North River Press Books by
  couldn't ship today. Hope it doesn't get us in trouble.'' "We can't worry about it now,'' I tell him. "The gain we made today is that we learned something. But I'll tell you one thing: we've got to take a close look at our incentives here.'' "How come?'' asks Bob.
 
  "Don't you see? It didn't matter that Pete got his hundred pieces done, because we still couldn't ship,'' I say. "But Pete and his people thought they were heroes. Ordinarily, we might have thought the same thing. That isn't right.''
-
- 18
 
  When I get home that evening, both of the kids greet me at the door. My mother is in the background, with steam pouring out of the kitchen. I presume it has something to do with dinner and that she has everything under control. In front of me, Sharon's face is beaming up at me.
 
@@ -4186,8 +4154,6 @@ Other North River Press Books by
  "Al, we're not just talking about moving people around. How can we add capacity without adding equipment?'' asks Bob. "And if we're talking about equipment, we're getting ourselves into some major capital. A second furnace on heat-treat, and possibly a second n/c machine... brother, you're talking megabucks.''
 
  "The bottom line,'' says Lou, "is that we don't have the money. If we think we can go to Peach and ask him for excess capacity for a plant that currently isn't making money in the middle of one of the worst years in the company's history . . . well, excuse my French, but we're out of our goddamned minds.''
-
- 19
 
  My mother and the kids and I are having dinner that evening when Mom says to me, "Aren't you going to eat your peas, Alex?''
 
@@ -4619,8 +4585,6 @@ Other North River Press Books by
 
  "Well, I'll just have to save it so you can eat it tomorrow,'' says my mother.
 
- 20
-
  Driving to the plant, I pass the motel where Jonah stayed last night. I know he's long gone—he had a 6:30 A.M. flight to catch. I offered to pick him up this morning and drive him to the airport, but (lucky for me) he refused and said he'd take a cab.
 
  As soon as I get to the office, I tell Fran to set up a meeting with the staff. Meanwhile, I start to write down a list of the actions Jonah suggested last night. But Julie comes to mind and won't leave. I close my office door and sit down at my desk. I find the number for Julie's parents and dial it.
@@ -4848,8 +4812,6 @@ Other North River Press Books by
  I get into theMazda and start the engine. Rolling down the window, I look up at her as she stands on the sidewalk next to the car.
 
  "You know, I do happen to love you,'' I tell her. This finally melts her. She comes to the car and leans down. Reaching through the window, I take her hand for a moment. She kisses me. Then without a word she stands up and walks away; halfway across the lawn, she breaks into a run. I watch her until she's disappeared through the door. Then I shake my head, put the car into gear, and drive away.
-
- 21
 
  I'm home by ten o'clock that night. Depressed, but home. Rummaging through the refrigerator, I attempt to find dinner, but have to settle for cold spaghetti and some leftover peas. Washing it down with some leftover vodka, I dine in dejection.
 
@@ -5113,8 +5075,6 @@ Other North River Press Books by
 
  "Good,'' says Mrs. Barnett. "We'll be waiting.''
 
- 22
-
  "There you have it,'' says Ralph.
 
  "Not bad,'' says Stacey.
@@ -5250,8 +5210,6 @@ Other North River Press Books by
  The maintenance man connects the power cable to an outlet on a nearby steel column. Bob reaches for the power switch and hits the ON button. For a second, nothing happens. Then we hear the slow, gathering whirr from somewhere in the guts of the old machine. Poofs of dust blow out of the antique fan housing. Bob turns to me with a dumb grin on his big face.
 
  "Guess we're in business,'' he says.
-
- 23
 
  Rain is beating at the windows of my office. Outside, the world is gray and blurred. It's the middle of a middle-of-the-week morning. In front of me are some so-called "Productivity Bulletins'' put out by Hilton Smyth which I've come across in my inbasket. I haven't been able to make myself read past the first paragraph of the one on top. Instead, I'm gazing at the rain and pondering the situation with my wife.
 
@@ -5478,8 +5436,6 @@ Other North River Press Books by
  "Right! We don't need to get an engineering change order, because we already have an approved procedure on the books,'' says Bob.
 
  He leaves shortly with my blessing to implement the change as soon as possible. I sit there marveling that we're going to reduce the efficiency of some operations and make the entire plant more productive. They'd never believe it on the fifteenth floor.
-
- 24
 
  It's a Friday afternoon. Out in the parking lot, the people on first shift are getting into their cars to go home. There is the usual congestion at the gate. I'm in my office—minding my own business—when suddenly, from through the half-open door . . . BAM!
 
@@ -5715,8 +5671,6 @@ Other North River Press Books by
 
  I suggest we try Friday all over again. She says she can't wait that long. We compromise on Wednesday.
 
- 25
-
  D´ ej`a vu. At the airport next morning, I again greet Jonah as he walks out of Gate Two.
 
  By ten o'clock, we're in the conference room at the plant. Sitting around the table are Lou, Bob, Ralph and Stacey. Jonah paces in front of us.
@@ -5929,8 +5883,6 @@ Other North River Press Books by
 
  "I want you all to think about it as we walk back to your conference room and then we'll talk about what you should do,'' says Jonah. "The solution is fairly simple.''
 
- 26
-
  Just how simple the solution is doesn't become apparent to me until I'm home that night. I'm sitting at the kitchen table with a pad of paper and a pencil thinking about what was suggested today when Sharon comes in.
 
  "Hi,'' she says as she sits down.
@@ -6134,8 +6086,6 @@ Other North River Press Books by
  "And, ah, Bob,'' I tell Donovan, "if there is a lot of idle time out there, don't hassle anybody—just make damn sure it doesn't show up in the efficiency reports next month, okay?''
 
  "Gotcha, boss.''
-
- 27
 
  "...Let me say in conclusion that had it not been for the increase in revenue generated last month by the Bearington plant and its products, the UniWare Division's losses would have continued for the seventh consecutive month. All of the other manufacturing operations in the division reported only marginal gains in performance or sustained losses. Despite the improvement at Bearington and the fact that as a result the division recorded its first operating profit of this year, we have a long way to go before we are back on solid financial footing.''
 
@@ -6342,8 +6292,6 @@ Other North River Press Books by
  "I guess we'll just have to keep trying until we get it right.''
 
  We both start smiling. Then we do some of that nice stuff that makes an argument almost worth the agony.
-
- 28
 
  I get home just as the sun is starting to set. The sky is rosy pink. As I'm unlocking the kitchen door, I hear the phone ringing inside. I rush in to grab it.
 
@@ -6576,8 +6524,6 @@ Other North River Press Books by
  I start to protest. Jons holds up a hand.
 
  "I know you're confident,'' he says. "And if you ship any new orders in less than five weeks, I'll buy you a new pair of shoes.''
-
- 29
 
  A full moon is shining through the bedroom window and into my eyes. The night is still. I look at the clock beside me, which says it's 4:20 A.M. Next to me in bed, Julie is sleeping.
 
@@ -6858,8 +6804,6 @@ Other North River Press Books by
  "You know what?'' Jons is saying. "They even like the smaller shipments better than getting all thousand units at once!''
 
  I tell him, "Okay, great, I'll get the ball rolling right away. You can tell them that two weeks from today, we'll ship the first 250.''
-
- 30
 
  At the beginning of the new month, we have a staff meeting. Everyone is present except Lou. Bob tells me he'll be in shortly. I sit down and fidget. To get the meeting rolling while we're waiting for Lou, I ask about shipments.
 
@@ -7179,8 +7123,6 @@ Other North River Press Books by
 
  Julie smiles. "Okay, big spender. Let's do it.''
 
- 31
-
  The next morning on the fifteenth floor of the UniCo building, I walk into the conference room at a few minutes before ten o'clock. Sitting at the far end of the long table is Hilton Smyth and sitting next to him is Neil Cravitz. Flanking them are various staff people.
 
  I say, "Good morning.''
@@ -7361,8 +7303,6 @@ Other North River Press Books by
 
  "Come on, I didn't ask you to develop them, just to determine clearly what they should be. Call me when you have the answer. And Alex, congratulations on your promotion.''
 
- 32
-
  "I'm really proud of you. Three more steps like that and we will have made it. Shall we drink to it?''
 
  Julie's forced enthusiasm strikes a responding chord inside me. "No, I don't think so.'' I refuse the toast, an event which, as you can imagine, is not very common.
@@ -7494,8 +7434,6 @@ Other North River Press Books by
  "When did he have the time to learn so much? I'm not talking about theories, I'm talking about his intimate understanding of how the wheels are really turning in a plant. As far as I know, he never worked one day of his life in industry. He's a physicist. I can't believe that a scientist, sitting in his ivory tower, can know so much about the detailed realities of the shop floor. Something doesn't match.
 
  "Alex, if that's the case, it seems that you should ask Jonah to teach you something more than just the Socratic method.''
-
- 33
 
  Lou is my first and most important target. If I'm unable to persuade him to join me, I'm basically lost. It's not going to be easy. He's very close to retirement and I know to what extent he's involved in his community. I take a deep breath and walk into his office. "Hey Lou, is it a good time?''
 
@@ -7723,8 +7661,6 @@ Other North River Press Books by
 
  "What's my wish, you ask? I want to develop a system that'll help in what Bob wants to do, that will help to shrink drastically the time and effort needed to engineer a sale, as he calls it. I want to develop a system to help Stacey manage the buffers, and even to help in managing the local improvements. I want to develop a system to help Lou measure, in a much more beneficial way, the local performance. You see, like everyone else, I have my dreams.''
 
- 34
-
  It's quite late, the kids are already fast asleep. Julie and I are sitting in the kitchen; we're each holding a warm cup of tea in our hands. I tell her about what happened today at the plant. She seems to be more than mildly interested; she actually claims that she finds it fascinating.
 
  I love it. Rehashing the day's events with Julie really helps me to digest it all.
@@ -7875,8 +7811,6 @@ Other North River Press Books by
 
  When nobody answers, I say, "Enough for today. We'll continue tomorrow—same time, same place.''
 
- 35
-
  "Well, anybody got anything good, any breakthroughs?'' I try to start the meeting off as cheerfully as possible. It's not exactly how I feel; I spent the whole night tossing in my bed, searching for any opening, which I never did find.
 
  "I think that I have one,'' Stacey speaks up. "Not exactly a breakthrough, but...''
@@ -8026,8 +7960,6 @@ Other North River Press Books by
  "Yeah, when pigs fly,'' she says. Before I can answer, she stands up, "Let's hit the sack.''
 
  I yawn and join her.
-
- 36
 
  We're getting started a little late since Stacey and Bob have to deal with some problematic orders. I wonder what's really happening; are we drifting back into trouble? Is Stacey's warning about her Capacity Constraint Resources starting to materialize? She was concerned about any increase in sales and, for sure, sales are slowly but constantly on the rise. I dismiss these thoughts; it's just the natural friction that should be expected when your material manager moves her responsibilities to her replacement. I decided not to interfere; if it evolves into something serious they won't hesitate to tell me.
 
@@ -8225,8 +8157,6 @@ Other North River Press Books by
 
  "Maybe you're right,'' I say, not totally convinced.
 
- 37
-
  "Something is wrong,'' Ralph says after we've made ourselves comfortable. "Something is still missing.''
 
  "What?'' Bob says aggressively, all geared up to protect our new creation.
@@ -8406,8 +8336,6 @@ Other North River Press Books by
  "Roughly twenty percent,'' she says quietly.
 
  "Marvelous,'' I rub my hands together. "We have enough capacity to really take the market. I'd better drive to headquarters tomorrow morning and have a heart-to-heart talk with Johnny Jons. Lou, I'll definitely need you. On second thought, Ralph, will you join us? And bring your computer with you, we're going to show them something.''
-
- 38
 
  It is six o'clock in the morning when I pick up Lou and Ralph at the plant. We (I) decided that it will be best, since picking them up at their houses would mean I would have had to leave home close to five. In any event, we're probably not going to spend more than a few hours at headquarters so it's reasonable to assume that we'll be back to work in the afternoon.
 
@@ -8661,8 +8589,6 @@ Other North River Press Books by
 
  "I don't know,'' I answer. "Frankly, I don't think that all this reading really gets me closer to answering Jonah's question. Remember what he said? 'I'm not asking you to develop the management techniques, only to determine what they should be.' I'm afraid I'm trying to jump to the next step, to develop them. Determining the management techniques must come from the need itself, from examining how I currently operate and then trying to find out how I should operate.''
 
- 39
-
  "Any messages?'' I ask Fran.
 
  "Yes,'' she answers, to my surprise. "From Bill Peach. He wants to talk to you.''
@@ -8906,8 +8832,6 @@ Other North River Press Books by
  "But you've got to agree that we are reacting much better than before.''
 
  "That's not a real comfort Lou, we're also moving much faster than before. I feel as if I'm driving looking only in the rear view mirror, and then, when it's almost too late, we make last minute course corrections. It's not good enough. It is definitely not good enough.''
-
- 40
 
  I'm driving back from headquarters with Lou. We've been doing this every day for the last two weeks. We are not in what one might call a cheerful mood. Now we know every little detail of what's going on in the division, and the picture doesn't look good at all. The only bright spot is my plant. No, I should get used to the fact that it's Donovan's plant. And it's not a bright spot, that's a gross understatement. It's the real savior.
 

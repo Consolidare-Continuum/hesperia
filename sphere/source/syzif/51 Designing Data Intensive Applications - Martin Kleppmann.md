@@ -166,8 +166,6 @@ viii
 
 |
 
-Table of Contents
-
 Part II. Distributed Data
 
 5. Replication. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 151
@@ -210,8 +208,6 @@ Summary 216
 
 7. Transactions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
 The Slippery Concept of a Transaction 222
-
-Table of Contents
 
 |
 
@@ -264,8 +260,6 @@ x
 
 |
 
-Table of Contents
-
 Total Order Broadcast 348
 Distributed Transactions and Consensus 352
 Atomic Commit and Two-Phase Commit (2PC) 354
@@ -308,8 +302,6 @@ Stream Joins 472
 Fault Tolerance 476
 Summary 479
 
-Table of Contents
-
 |
 
 xi
@@ -339,8 +331,6 @@ Index. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 xii
 
 |
-
-Table of Contents
 
 Preface
 
@@ -379,8 +369,6 @@ to outages or maintenance is becoming increasingly unacceptable.
 Data-intensive applications are pushing the boundaries of what is possible by making
 use of these technological developments. We call an application data-intensive if data
 is its primary challenge—the quantity of data, the complexity of data, or the speed at
-
-Preface
 
 |
 
@@ -483,8 +471,6 @@ those things. Instead we discuss the various principles and trade-offs that are 
 mental to data systems, and we explore the different design decisions taken by differ‐
 ent products.
 
-Preface
-
 |
 
 xv
@@ -573,8 +559,6 @@ and Course Technology, among others.
 
 For more information, please visit http://oreilly.com/safari.
 
-Preface
-
 |
 
 xvii
@@ -657,8 +641,6 @@ pelling.
 Finally, my love goes to my family and friends, without whom I would not have been
 able to get through this writing process that has taken almost four years. You're the
 best.
-
-Preface
 
 |
 
@@ -853,8 +835,6 @@ were swallowed by a black hole, tolerance of that fault would require web hostin
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 space—good luck getting that budget item approved. So it only makes sense to talk
 about tolerating certain types of faults.
 
@@ -949,8 +929,6 @@ i. Defined in "Approaches for Coping with Load" on page 17.
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 • A service that the system depends on that slows down, becomes unresponsive, or
 
 starts returning corrupted responses.
@@ -1036,7 +1014,6 @@ development cost (e.g., when developing a prototype product for an unproven mar�
 ket) or operational cost (e.g., for a service with a very narrow profit margin)—but we
 should be very conscious of when we are cutting corners.
 
-Scalability
 Even if a system is working reliably today, that doesn't mean it will necessarily work
 reliably in the future. One common reason for degradation is increased load: perhaps
 the system has grown from 10,000 concurrent users to 100,000 concurrent users, or
@@ -1048,8 +1025,6 @@ load. Note, however, that it is not a one-dimensional label that we can attach t
 tem: it is meaningless to say "X is scalable" or "Y doesn't scale." Rather, discussing
 
 |
-
-Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 scalability means considering questions like "If the system grows in a particular way,
 what are our options for coping with the growth?" and "How can we add computing
@@ -1097,8 +1072,6 @@ attached to another gate's output. The output needs to supply enough current to 
 In transaction processing systems, we use it to describe the number of requests to other services that we need
 to make in order to serve one incoming request.
 
-Scalability
-
 |
 
 2. Maintain a cache for each user's home timeline—like a mailbox of tweets for
@@ -1124,8 +1097,6 @@ second become 345k writes per second to the home timeline caches. But this avera
 hides the fact that the number of followers per user varies wildly, and some users
 
 |
-
-Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 have over 30 million followers. This means that a single tweet may result in over 30
 million writes to home timelines! Doing this in a timely manner—Twitter tries to
@@ -1170,8 +1141,6 @@ iii. In an ideal world, the running time of a batch job is the size of the datas
 practice, the running time is often longer, due to skew (data not being spread evenly across worker processes)
 and needing to wait for the slowest task to complete.
 
-Scalability
-
 |
 
 Latency and response time
@@ -1212,8 +1181,6 @@ Usually it is better to use percentiles. If you take your list of response times
 from fastest to slowest, then the median is the halfway point: for example, if your
 
 |
-
-Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 median response time is 200 ms, that means half your requests return in less than
 200 ms, and half your requests take longer than that.
@@ -1261,8 +1228,6 @@ vice and allow customers to demand a refund if the SLA is not met.
 Queueing delays often account for a large part of the response time at high percen‐
 tiles. As a server can only process a small number of things in parallel (limited, for
 
-Scalability
-
 |
 
 example, by its number of CPU cores), it only takes a small number of slow requests
@@ -1303,8 +1268,6 @@ aggregating response time data is to add the histograms [28].
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 -5. When several backend calls are needed to serve a request, it takes just a sin‐
 gle slow backend request to slow down the entire end-user request.
 
@@ -1334,8 +1297,6 @@ human analyzes the capacity and decides to add more machines to the system). An
 elastic system can be useful if load is highly unpredictable, but manually scaled sys‐
 tems are simpler and may have fewer operational surprises (see "Rebalancing Parti‐
 tions" on page 209).
-
-Scalability
 
 |
 
@@ -1384,8 +1345,6 @@ Yet, unfortunately, many people working on software systems dislike maintenance 
 so-called legacy systems—perhaps it involves fixing other people's mistakes, or work‐
 
 |
-
-Chapter 1: Reliable, Scalable, and Maintainable Applications
 
 ing with platforms that are now outdated, or systems that were forced to do things
 they were never intended for. Every legacy system is unpleasant in its own way, and
@@ -1503,8 +1462,6 @@ described as a big ball of mud [30].
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 There are various possible symptoms of complexity: explosion of the state space, tight
 coupling of modules, tangled dependencies, inconsistent naming and terminology,
 hacks aimed at solving performance problems, special-casing to work around issues
@@ -1598,8 +1555,6 @@ example of describing load, and response time percentiles as a way of measuring 
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 formance. In a scalable system, you can add processing capacity in order to remain
 reliable under high load.
 
@@ -1644,8 +1599,6 @@ ber 23, 2014.
 
 [7] Laurie Voss: "AWS: The Good, the Bad and the Ugly," blog.awe.sm, December 18,
 2012.
-
-Summary
 
 |
 
@@ -1700,8 +1653,6 @@ geek.com, December 12, 2015.
 
 |
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-
 [24] Jeffrey Dean and Luiz André Barroso: "The Tail at Scale," Communications of the
 ACM,
 doi:
@@ -1750,8 +1701,6 @@ Advancement (SPA), 2006.
 [34] Hongyu Pei Breivold, Ivica Crnkovic, and Peter J. Eriksson: "Analyzing Software
 Evolvability," at 32nd Annual IEEE International Computer Software and Applica‐
 tions Conference (COMPSAC), July 2008. doi:10.1109/COMPSAC.2008.50
-
-Summary
 
 |
 
@@ -1890,8 +1839,6 @@ Most application development today is done in object-oriented programming lan‐
 guages, which leads to a common criticism of the SQL data model: if data is stored in
 relational tables, an awkward translation layer is required between the objects in the
 
-Relational Model Versus Document Model
-
 |
 
 application code and the database model of tables, rows, and columns. The discon‐
@@ -1933,8 +1880,6 @@ impedance mismatch can lead to signal reflections and other troubles.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 -1. Representing a LinkedIn profile using a relational schema. Photo of Bill
 Gates courtesy of Wikimedia Commons, Ricardo Stuckert, Agência Brasil.
 
@@ -1953,8 +1898,6 @@ Example 2-1. Representing a LinkedIn profile as a JSON document
 "region_id": "us:91",
 "industry_id": 131,
 "photo_url": "/p/7/000/253/05b/308dd6e.jpg",
-
-Relational Model Versus Document Model
 
 |
 
@@ -1990,8 +1933,6 @@ JSON representation makes this tree structure explicit (see -2).
 -2. One-to-many relationships forming a tree structure.
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 Many-to-One and Many-to-Many Relationships
 In Example 2-1 in the preceding section, region_id and industry_id are given as
@@ -2035,8 +1976,6 @@ key idea behind normalization in databases.ii
 ii. Literature on the relational model distinguishes several different normal forms, but the distinctions are of
 little practical interest. As a rule of thumb, if you're duplicating values that could be stored in just one place,
 the schema is not normalized.
-
-Relational Model Versus Document Model
 
 |
 
@@ -2086,8 +2025,6 @@ ported in predeclared views in CouchDB.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 -3. The company name is not just a string, but a link to a company entity.
 Screenshot of linkedin.com.
 
@@ -2097,8 +2034,6 @@ references to organizations, schools, and other users need to be represented as 
 ences, and require joins when queried.
 
 -4. Extending résumés with many-to-many relationships.
-
-Relational Model Versus Document Model
 
 |
 
@@ -2149,8 +2084,6 @@ ships to be modeled.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 The links between records in the network model were not foreign keys, but more like
 pointers in a programming language (while still being stored on disk). The only way
 of accessing a record was to follow a path from a root record along these chains of
@@ -2194,8 +2127,6 @@ tively the "access path," but the big difference is that they are made automatic
 iv. Foreign key constraints allow you to restrict modifications, but such constraints are not required by the
 relational model. Even with constraints, joins on foreign keys are performed at query time, whereas in
 CODASYL, the join was effectively done at insert time.
-
-Relational Model Versus Document Model
 
 |
 
@@ -2247,8 +2178,6 @@ If the data in your application has a document-like structure (i.e., a tree of o
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 bly a good idea to use a document model. The relational technique of shredding—
 splitting a document-like structure into multiple tables (like positions, education,
 and contact_info in -1)—can lead to cumbersome schemas and unnecessa‐
@@ -2293,8 +2222,6 @@ code that reads the data usually assumes some kind of structure—i.e., there is
 implicit schema, but it is not enforced by the database [20]. A more accurate term is
 schema-on-read (the structure of the data is implicit, and only interpreted when the
 data is read), in contrast with schema-on-write (the traditional approach of relational
-
-Relational Model Versus Document Model
 
 |
 
@@ -2348,8 +2275,6 @@ of object in its own table.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 • The structure of the data is determined by external systems over which you have
 
 no control and which may change at any time.
@@ -2396,8 +2321,6 @@ mid-2000s. This includes functions to make local modifications to XML documents
 and the ability to index and query inside XML documents, which allows applications
 to use data models very similar to what they would do when using a document data‐
 base.
-
-Relational Model Versus Document Model
 
 |
 
@@ -2450,8 +2373,6 @@ doesn't have to just be a primitive datatype like a number or a string, but coul
 that was added to SQL over 30 years later.
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 where σ (the Greek letter sigma) is the selection operator, returning only those ani‐
 mals that match the condition family = "Sharks".
@@ -2549,8 +2470,6 @@ lacks class="selected".
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 If you were using XSL instead of CSS, you could do something similar:
 
 <xsl:template match="li[@class='selected']/p">
@@ -2645,8 +2564,6 @@ vi. IMS and CODASYL both used imperative query APIs. Applications typically used
 over records in the database, one record at a time [2, 16].
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 db.observations.mapReduce(
 function map() {
@@ -2748,8 +2665,6 @@ may find itself accidentally reinventing SQL, albeit in disguise.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 Graph-Like Data Models
 We saw earlier that many-to-many relationships are an important distinguishing fea‐
 ture between different data models. If your application has mostly one-to-many rela‐
@@ -2797,8 +2712,6 @@ In this section we will use the example shown in -5. It could be taken from a
 social network or a genealogical database: it shows two people, Lucy from Idaho and
 Alain from Beaune, France. They are married and living in London.
 
-Graph-Like Data Models
-
 |
 
 -5. Example of graph-structured data (boxes represent vertices, arrows repre‐
@@ -2830,8 +2743,6 @@ Each edge consists of:
 • The vertex at which the edge starts (the tail vertex)
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 • The vertex at which the edge ends (the head vertex)
 
@@ -2884,8 +2795,6 @@ traditional relational schema, such as different kinds of regional structures in
 ent countries (France has départements and régions, whereas the US has counties and
 states), quirks of history such as a country within a country (ignoring for now the
 
-Graph-Like Data Models
-
 |
 
 intricacies of sovereign states and nations), and varying granularity of data (Lucy's
@@ -2935,8 +2844,6 @@ used in a MATCH clause to find patterns in the graph: (person) -[:BORN_IN]-> ()
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 matches any two vertices that are related by an edge labeled BORN_IN. The tail vertex
 of that edge is bound to the variable person, and the head vertex is left unnamed.
 
@@ -2983,8 +2890,6 @@ But if we put graph data in a relational structure, can we also query it using S
 
 The answer is yes, but with some difficulty. In a relational database, you usually know
 in advance which joins you need in your query. In a graph query, you may need to
-
-Graph-Like Data Models
 
 |
 
@@ -3039,8 +2944,6 @@ WHERE edges.label = 'born_in'
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 -- lives_in_europe is the set of vertex IDs of all people living in Europe
 lives_in_europe(vertex_id) AS (
 SELECT edges.tail_vertex FROM edges
@@ -3085,8 +2988,6 @@ to your toolbox for building applications.
 In a triple-store, all information is stored in the form of very simple three-part state‐
 ments: (subject, predicate, object). For example, in the triple (Jim, likes, bananas), Jim
 is the subject, likes is the predicate (verb), and bananas is the object.
-
-Graph-Like Data Models
 
 |
 
@@ -3136,8 +3037,6 @@ Turtle format quite nice and readable: see Example 2-7.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 Example 2-7. A more concise way of writing the data in Example 2-6
 
 @prefix : <urn:example:>.
@@ -3181,8 +3080,6 @@ ent RDF formats if necessary.
 
 vii. Technically, Datomic uses 5-tuples rather than triples; the two additional fields are metadata for version‐
 ing.
-
-Graph-Like Data Models
 
 |
 
@@ -3234,8 +3131,6 @@ top of the file, and then forget about it.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 The SPARQL query language
 
 SPARQL is a query language for triple-stores using the RDF data model [43]. (It is an
@@ -3274,8 +3169,6 @@ value is the string "United States":
 
 SPARQL is a nice query language—even if the semantic web never happens, it can be
 a powerful tool for applications to use internally.
-
-Graph-Like Data Models
 
 |
 
@@ -3321,8 +3214,6 @@ viii. Datomic and Cascalog use a Clojure S-expression syntax for Datalog. In the
 Prolog syntax, which is a little easier to read, but this makes no functional difference.
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 Datalog's data model is similar to the triple-store model, generalized a bit. Instead of
 writing a triple as (subject, predicate, object), we write it as predicate(subject, object).
@@ -3373,8 +3264,6 @@ Rules can refer to other rules, just like functions can call other functions or 
 sively call themselves. Like this, complex queries can be built up a small piece at a
 time.
 
-Graph-Like Data Models
-
 |
 
 In rules, words that start with an uppercase letter are variables, and predicates are
@@ -3415,14 +3304,11 @@ in the earlier Cypher and SPARQL queries.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 The Datalog approach requires a different kind of thinking to the other query lan‐
 guages discussed in this chapter, but it's a very powerful approach, because rules can
 be combined and reused in different queries. It's less convenient for simple one-off
 queries, but it can cope better if your data is complex.
 
-Summary
 Data models are a huge subject, and in this chapter we have taken a quick look at a
 broad variety of different models. We didn't have space to go into all the details of
 each model, but hopefully the overview has been enough to whet your appetite to
@@ -3464,8 +3350,6 @@ unmentioned. To give just a few brief examples:
 
 • Researchers working with genome data often need to perform sequencesimilarity searches, which means taking one very long string (representing a
 
-Summary
-
 |
 
 DNA molecule) and matching it against a large database of strings that are simi‐
@@ -3486,8 +3370,6 @@ Part III.
 We have to leave it there for now. In the next chapter we will discuss some of the
 trade-offs that come into play when implementing the data models described in this
 chapter.
-
-References
 
 [1] Edgar F. Codd: "A Relational Model of Data for Large Shared Data Banks," Com‐
 munications of the ACM, volume 13, number 6, pages 377–387, June 1970. doi:
@@ -3521,8 +3403,6 @@ Group, 2013.
 [9] "The MongoDB 2.4 Manual," MongoDB, Inc., 2013.
 
 |
-
-Chapter 2: Data Models and Query Languages
 
 [10] "RethinkDB 1.11 Documentation," rethinkdb.com, 2013.
 
@@ -3573,8 +3453,6 @@ Ltd., 2013.
 
 [25] Rany Keddo, Tobias Bielohlawek, and Tobias Schmidt: "Large Hadron Migra‐
 tor," SoundCloud, 2013.
-
-Summary
 
 |
 
@@ -3630,8 +3508,6 @@ W3C Team Submission, March 28, 2011.
 
 |
 
-Chapter 2: Data Models and Query Languages
-
 [43] Steve Harris, Andy Seaborne, and Eric Prud'hommeaux: "SPARQL 1.1 Query
 Language," W3C Recommendation, March 2013.
 
@@ -3656,8 +3532,6 @@ doi:10.1093/nar/gkm929
 
 [49] Fons Rademakers: "ROOT for Big Data Analysis," at Workshop on the Future of
 Big Data Management, London, UK, June 2013.
-
-Summary
 
 |
 
@@ -3790,8 +3664,6 @@ administrator—to choose indexes manually, using your knowledge of the applica�
 tion's typical query patterns. You can then choose the indexes that give your applica‐
 tion the greatest benefit, without introducing more overhead than necessary.
 
-Data Structures That Power Your Database
-
 |
 
 Hash Indexes
@@ -3823,8 +3695,6 @@ than there is available memory, since they can be loaded from disk with just one
 
 |
 
-Chapter 3: Storage and Retrieval
-
 seek. If that part of the data file is already in the filesystem cache, a read doesn't
 require any disk I/O at all.
 
@@ -3855,8 +3725,6 @@ tinue to serve read and write requests as normal, using the old segment files. A
 merging process is complete, we switch read requests to using the new merged seg‐
 ment instead of the old segments—and then the old segment files can simply be
 deleted.
-
-Data Structures That Power Your Database
 
 |
 
@@ -3893,8 +3761,6 @@ you go along. However, that might take a long time if the segment files are larg
 which would make server restarts painful. Bitcask speeds up recovery by storing
 
 |
-
-Chapter 3: Storage and Retrieval
 
 a snapshot of each segment's hash map on disk, which can be loaded into mem‐
 ory more quickly.
@@ -3945,8 +3811,6 @@ ally in the hash maps.
 In the next section we will look at an indexing structure that doesn't have those limi‐
 tations.
 
-Data Structures That Power Your Database
-
 |
 
 SSTables and LSM-Trees
@@ -3975,8 +3839,6 @@ by key.
 for each key.
 
 |
-
-Chapter 3: Storage and Retrieval
 
 What if the same key appears in several input segments? Remember that each
 segment contains all the values written to the database during some period of
@@ -4007,8 +3869,6 @@ Besides saving disk space, compression also reduces the I/O bandwidth use.
 
 i. If all keys and values had a fixed size, you could use binary search on a segment file and avoid the inmemory index entirely. However, they are usually variable-length in practice, which makes it difficult to tell
 where one record ends and the next one starts if you don't have an index.
-
-Data Structures That Power Your Database
 
 |
 
@@ -4063,8 +3923,6 @@ name Log-Structured Merge-Tree (or LSM-Tree) [10], building on earlier work on
 
 |
 
-Chapter 3: Storage and Retrieval
-
 log-structured filesystems [11]. Storage engines that are based on this principle of
 merging and compacting sorted files are often called LSM storage engines.
 
@@ -4110,8 +3968,6 @@ The log-structured indexes we have discussed so far are gaining acceptance, but 
 are not the most common type of index. The most widely used indexing structure is
 quite different: the B-tree.
 
-Data Structures That Power Your Database
-
 |
 
 Introduced in 1970 [17] and called "ubiquitous" less than 10 years later [18], B-trees
@@ -4145,8 +4001,6 @@ similar-looking page that further breaks down the 200–300 range into subranges
 
 |
 
-Chapter 3: Storage and Retrieval
-
 Eventually we get down to a page containing individual keys (a leaf page), which
 either contains the value for each key inline or contains references to the pages where
 the values can be found.
@@ -4174,8 +4028,6 @@ ing for. (A four-level tree of 4 KB pages with a branching factor of 500 can sto
 
 ii. Inserting a new key into a B-tree is reasonably intuitive, but deleting one (while keeping the tree balanced)
 is somewhat more involved [2].
-
-Data Structures That Power Your Database
 
 |
 
@@ -4227,8 +4079,6 @@ created, pointing at the new location. This approach is also useful for concur�
 
 |
 
-Chapter 3: Storage and Retrieval
-
 rency control, as we shall see in "Snapshot Isolation and Repeatable Read" on
 page 237.
 
@@ -4269,8 +4119,6 @@ when measuring the performance of a storage engine.
 
 iii. This variant is sometimes known as a B+ tree, although the optimization is so common that it often isn't
 distinguished from other B-tree variants.
-
-Data Structures That Power Your Database
 
 |
 
@@ -4322,8 +4170,6 @@ engines try to perform compaction incrementally and without affecting concurrent
 
 |
 
-Chapter 3: Storage and Retrieval
-
 access, disks have limited resources, so it can easily happen that a request needs to
 wait while the disk finishes an expensive compaction operation. The impact on
 throughput and average response time is usually small, but at higher percentiles (see
@@ -4368,8 +4214,6 @@ ID), and the index is used to resolve such references.
 
 It is also very common to have secondary indexes. In relational databases, you can
 create several secondary indexes on the same table using the CREATE INDEX com‐
-
-Data Structures That Power Your Database
 
 |
 
@@ -4419,8 +4263,6 @@ index alone (in which case, the index is said to cover the query) [32].
 
 |
 
-Chapter 3: Storage and Retrieval
-
 As with any kind of duplication of data, clustered and covering indexes can speed up
 reads, but they require additional storage and can add overhead on writes. Databases
 also need to go to additional effort to enforce transactional guarantees, because appli‐
@@ -4465,8 +4307,6 @@ An interesting idea is that multi-dimensional indexes are not just for geographi
 locations. For example, on an ecommerce website you could use a three-dimensional
 index on the dimensions (red, green, blue) to search for products in a certain range of
 colors, or in a database of weather observations you could have a two-dimensional
-
-Data Structures That Power Your Database
 
 |
 
@@ -4517,8 +4357,6 @@ are simply not that big, so it's quite feasible to keep them entirely in memory,
 
 |
 
-Chapter 3: Storage and Retrieval
-
 tially distributed across several machines. This has led to the development of inmemory databases.
 
 Some in-memory key-value stores, such as Memcached, are intended for caching use
@@ -4562,8 +4400,6 @@ enough memory, and loading it back into memory when it is accessed again in the
 future. This is similar to what operating systems do with virtual memory and swap
 files, but the database can manage memory more efficiently than the OS, as it can
 work at the granularity of individual records rather than entire memory pages. This
-
-Data Structures That Power Your Database
 
 |
 
@@ -4612,8 +4448,6 @@ might be:
 diapers?
 
 |
-
-Chapter 3: Storage and Retrieval
 
 These queries are often written by business analysts, and feed into reports that help
 the management of a company make better decisions (business intelligence). In order
@@ -4710,8 +4544,6 @@ this chapter work well for OLTP, but are not very good at answering analytic que
 
 |
 
-Chapter 3: Storage and Retrieval
-
 In the rest of this chapter we will look at storage engines that are optimized for ana‐
 lytics instead.
 
@@ -4777,8 +4609,6 @@ row in the dim_product table represents one type of product that is for sale, in
 
 |
 
-Chapter 3: Storage and Retrieval
-
 its stock-keeping unit (SKU), description, brand name, category, fat content, package
 size, etc. Each row in the fact_sales table uses a foreign key to indicate which prod‐
 uct was sold in that particular transaction. (For simplicity, if the customer buys sev‐
@@ -4820,8 +4650,6 @@ analytics) [51]. Take the query in Example 3-1: it accesses a large number of ro
 (every occurrence of someone buying fruit or candy during the 2013 calendar year),
 but it only needs to access three columns of the fact_sales table: date_key,
 product_sk, and quantity. The query ignores all other columns.
-
-Column-Oriented Storage
 
 |
 
@@ -4867,8 +4695,6 @@ model, based on Google's Dremel [54].
 
 |
 
-Chapter 3: Storage and Retrieval
-
 -10. Storing relational data by column, rather than by row.
 
 The column-oriented storage layout relies on each column file containing the rows in
@@ -4885,8 +4711,6 @@ Take a look at the sequences of values for each column in -10: they often look
 quite repetitive, which is a good sign for compression. Depending on the data in the
 column, different compression techniques can be used. One technique that is particu‐
 larly effective in data warehouses is bitmap encoding, illustrated in -11.
-
-Column-Oriented Storage
 
 |
 
@@ -4914,8 +4738,6 @@ Load the three bitmaps for product_sk = 30, product_sk = 68, and product_sk
 efficiently.
 
 |
-
-Chapter 3: Storage and Retrieval
 
 WHERE product_sk = 31 AND store_sk = 3:
 
@@ -4961,8 +4783,6 @@ It's easiest to store them in the order in which they were inserted, since then 
 a new row just means appending to each of the column files. However, we can choose
 to impose an order, like we did with SSTables previously, and use that as an indexing
 mechanism.
-
-Column-Oriented Storage
 
 |
 
@@ -5013,8 +4833,6 @@ there normally aren't any pointers to data elsewhere, only columns containing va
 
 |
 
-Chapter 3: Storage and Retrieval
-
 Writing to Column-Oriented Storage
 These optimizations make sense in data warehouses, because most of the load con‐
 sists of large read-only queries run by analysts. Column-oriented storage, compres‐
@@ -5060,8 +4878,6 @@ view's underlying query on the fly and then processes the expanded query.
 When the underlying data changes, a materialized view needs to be updated, because
 it is a denormalized copy of the data. The database can do that automatically, but
 
-Column-Oriented Storage
-
 |
 
 such updates make writes more expensive, which is why materialized views are not
@@ -5094,8 +4910,6 @@ because they have effectively been precomputed. For example, if you want to know
 
 |
 
-Chapter 3: Storage and Retrieval
-
 the total sales per store yesterday, you just need to look at the totals along the appro‐
 priate dimension—no need to scan millions of rows.
 
@@ -5105,7 +4919,6 @@ from items that cost more than $100, because the price isn't one of the dimensio
 Most data warehouses therefore try to keep as much raw data as possible, and use
 aggregates such as data cubes only as a performance boost for certain queries.
 
-Summary
 In this chapter we tried to get to the bottom of how databases handle storage and
 retrieval. What happens when you store data in a database, and what does the data‐
 base do when you query for the data again later?
@@ -5141,8 +4954,6 @@ idea is that they systematically turn random-access writes into sequential write
 disk, which enables higher write throughput due to the performance characteristics
 of hard drives and SSDs.
 
-Summary
-
 |
 
 Finishing off the OLTP side, we did a brief tour through some more complicated
@@ -5165,8 +4976,6 @@ have.
 Although this chapter couldn't make you an expert in tuning any one particular stor‐
 age engine, it has hopefully equipped you with enough vocabulary and ideas that you
 can make sense of the documentation for the database of your choice.
-
-References
 
 [1] Alfred V. Aho, John E. Hopcroft, and Jeffrey D. Ullman: Data Structures and
 Algorithms. Addison-Wesley, 1983. ISBN: 978-0-201-00023-8
@@ -5193,8 +5002,6 @@ eldb.googlecode.com.
 [8] Matteo Bertozzi: "Apache HBase I/O – HFile," blog.cloudera.com, June, 29 2012.
 
 |
-
-Chapter 3: Storage and Retrieval
 
 [9] Fay Chang, Jeffrey Dean, Sanjay Ghemawat, et al.: "Bigtable: A Distributed Stor‐
 age System for Structured Data," at 7th USENIX Symposium on Operating System
@@ -5257,8 +5064,6 @@ June
 Access Methods: The RUM Conjecture," at 19th International Conference on Extend‐
 ing Database Technology (EDBT), March 2016. doi:10.5441/002/edbt.2016.42
 
-Summary
-
 |
 
 [24] Peter Zaitsev: "Innodb Double Write," percona.com, August 4, 2006.
@@ -5318,8 +5123,6 @@ to
 
 |
 
-Chapter 3: Storage and Retrieval
-
 [41] Michael Stonebraker, Samuel Madden, Daniel J. Abadi, et al.: "The End of an
 Architectural Era (It's Time for a Complete Rewrite)," at 33rd International Confer‐
 ence on Very Large Data Bases (VLDB), September 2007.
@@ -5369,8 +5172,6 @@ ber 2, 2013.
 Open-Source SQL Engine for Hadoop," at 7th Biennial Conference on Innovative
 Data Systems Research (CIDR), January 2015.
 
-Summary
-
 |
 
 [54] Sergey Melnik, Andrey Gubarev, Jing Jing Long, et al.: "Dremel: Interactive
@@ -5416,8 +5217,6 @@ Mining and Knowledge Discovery, volume 1, number 1, pages 29–53, March 2007.
 doi:10.1023/A:1009726021843
 
 |
-
-Chapter 3: Storage and Retrieval
 
 CHAPTER 4
 Encoding and Evolution
@@ -5546,8 +5345,6 @@ on compressed data (as described in "Column Compression" on page 97).
 
 ii. Note that encoding has nothing to do with encryption. We don't discuss encryption in this book.
 
-Formats for Encoding Data
-
 |
 
 • Versioning data is often an afterthought in these libraries: as they are intended
@@ -5596,8 +5393,6 @@ This works, but it's somewhat hacky and increases the data size by 33%.
 
 |
 
-Chapter 4: Encoding and Evolution
-
 • There is optional schema support for both XML [11] and JSON [12]. These
 schema languages are quite powerful, and thus quite complicated to learn and
 implement. Use of XML schemas is fairly widespread, but many JSON-based
@@ -5642,8 +5437,6 @@ a schema, they need to include all the object field names within the encoded dat
 That is, in a binary encoding of the JSON document in Example 4-1, they will need to
 include the strings userName, favoriteNumber, and interests somewhere.
 
-Formats for Encoding Data
-
 |
 
 Example 4-1. Example record which we will encode in several binary formats in this
@@ -5687,8 +5480,6 @@ same record in just 32 bytes.
 
 |
 
-Chapter 4: Encoding and Evolution
-
 -1. Example record (Example 4-1) encoded using MessagePack.
 
 Thrift and Protocol Buffers
@@ -5706,8 +5497,6 @@ struct Person {
 2: optional i64 favoriteNumber,
 3: optional list<string> interests
 }
-
-Formats for Encoding Data
 
 |
 
@@ -5737,8 +5526,6 @@ has two different JSON-based encoding formats [19]. What fun!
 
 |
 
-Chapter 4: Encoding and Evolution
-
 Similarly to -1, each field has a type annotation (to indicate whether it is a
 string, integer, list, etc.) and, where required, a length indication (length of a string,
 number of items in a list). The strings that appear in the data ("Martin", "daydream‐
@@ -5763,8 +5550,6 @@ numbers use more bytes.
 
 Finally, Protocol Buffers (which has only one binary encoding format) encodes the
 same data as shown in -4. It does the bit packing slightly differently, but is
-
-Formats for Encoding Data
 
 |
 
@@ -5795,8 +5580,6 @@ you cannot change a field's tag, since that would make all existing encoded data
 invalid.
 
 |
-
-Chapter 4: Encoding and Evolution
 
 You can add new fields to the schema, provided that you give each field a new tag
 number. If old code (which doesn't know about the new tag numbers you added)
@@ -5839,8 +5622,6 @@ reading new data sees only the last element of the list.
 
 Thrift has a dedicated list datatype, which is parameterized with the datatype of the
 list elements. This does not allow the same evolution from single-valued to multivalued as Protocol Buffers does, but it has the advantage of supporting nested lists.
-
-Formats for Encoding Data
 
 |
 
@@ -5887,8 +5668,6 @@ as Thrift's CompactProtocol).
 
 |
 
-Chapter 4: Encoding and Evolution
-
 -5. Example record encoded using Avro.
 
 To parse the binary data, you go through the fields in the order that they appear in
@@ -5914,8 +5693,6 @@ process.
 
 The key idea with Avro is that the writer's schema and the reader's schema don't have
 to be the same—they only need to be compatible. When data is decoded (read), the
-
-Formats for Encoding Data
 
 |
 
@@ -5953,8 +5730,6 @@ were to remove a field that has no default value, old readers wouldn't be able t
 data written by new writers, so you would break forward compatibility.
 
 |
-
-Chapter 4: Encoding and Evolution
 
 In some programming languages, null is an acceptable default for any variable, but
 this is not the case in Avro: if you want to allow a field to be null, you have to use a
@@ -6002,8 +5777,6 @@ ning of every encoded record, and to keep a list of schema versions in your data
 
 iv. To be precise, the default value must be of the type of the first branch of the union, although this is a
 specific limitation of Avro, not a general feature of union types.
-
-Formats for Encoding Data
 
 |
 
@@ -6056,8 +5829,6 @@ schema generator would have to be very careful to not assign previously used fie
 
 |
 
-Chapter 4: Encoding and Evolution
-
 tags.) This kind of dynamically generated schema simply wasn't a design goal of
 Thrift or Protocol Buffers, whereas it was for Avro.
 
@@ -6102,8 +5873,6 @@ they have a lot in common with ASN.1, a schema definition language that was firs
 standardized in 1984 [27]. It was used to define various network protocols, and its
 binary encoding (DER) is still used to encode SSL certificates (X.509), for example
 [28]. ASN.1 supports schema evolution using tag numbers, similar to Protocol Buf‐
-
-Formats for Encoding Data
 
 |
 
@@ -6156,8 +5925,6 @@ it.
 
 |
 
-Chapter 4: Encoding and Evolution
-
 That's a fairly abstract idea—there are many ways data can flow from one process to
 another. Who encodes the data, and who decodes it? In the rest of this chapter we
 will explore some of the most common ways how data flows between processes:
@@ -6204,8 +5971,6 @@ application, and later reencode those model objects, the unknown field might be 
 in that translation process. Solving this is not a hard problem; you just need to be
 aware of it.
 
-Modes of Dataflow
-
 |
 
 -7. When an older version of the application updates data previously written
@@ -6235,8 +6000,6 @@ v. Except for MySQL, which often rewrites an entire table even though it is not 
 tioned in "Schema flexibility in the document model" on page 39.
 
 |
-
-Chapter 4: Encoding and Evolution
 
 Schema evolution thus allows the entire database to appear as if it was encoded with a
 single schema, even though the underlying storage may contain records encoded with
@@ -6280,8 +6043,6 @@ In this case, the server's response is typically not HTML for displaying to a hu
 but rather data in an encoding that is convenient for further processing by the clientside application code (such as JSON). Although HTTP may be used as the transport
 protocol, the API implemented on top is application-specific, and the client and
 server need to agree on the details of that API.
-
-Modes of Dataflow
 
 |
 
@@ -6331,8 +6092,6 @@ user data.
 
 |
 
-Chapter 4: Encoding and Evolution
-
 There are two popular approaches to web services: REST and SOAP. They are almost
 diametrically opposed in terms of philosophy, and often the subject of heated debate
 among their respective proponents.vi
@@ -6377,8 +6136,6 @@ of application state), often provokes discussions [35].
 
 vii. Despite the similarity of acronyms, SOAP is not a requirement for SOA. SOAP is a particular technology,
 whereas SOA is a general approach to building systems.
-
-Modes of Dataflow
 
 |
 
@@ -6431,8 +6188,6 @@ objects in local memory. When you make a network request, all those parameters
 
 |
 
-Chapter 4: Encoding and Evolution
-
 need to be encoded into a sequence of bytes that can be sent over the network.
 That's okay if the parameters are primitives like numbers or strings, but quickly
 becomes problematic with larger objects.
@@ -6477,8 +6232,6 @@ without any code generation or software installation), it is supported by all ma
 stream programming languages and platforms, and there is a vast ecosystem of tools
 available (servers, caches, load balancers, proxies, firewalls, monitoring, debugging
 tools, testing tools, etc.).
-
-Modes of Dataflow
 
 |
 
@@ -6532,8 +6285,6 @@ over the network to another process and expects a response as quickly as possibl
 
 |
 
-Chapter 4: Encoding and Evolution
-
 and databases (where one process writes encoded data, and another process reads it
 again sometime in the future).
 
@@ -6585,8 +6336,6 @@ queue or topic, and the broker ensures that the message is delivered to one or m
 consumers of or subscribers to that queue or topic. There can be many producers and
 many consumers on the same topic.
 
-Modes of Dataflow
-
 |
 
 A topic provides only one-way dataflow. However, a consumer may itself publish
@@ -6637,8 +6386,6 @@ Three popular distributed actor frameworks handle message encoding as follows:
 
 |
 
-Chapter 4: Encoding and Evolution
-
 • Akka uses Java's built-in serialization by default, which does not provide forward
 or backward compatibility. However, you can replace it with something like Pro‐
 tocol Buffers, and thus gain the ability to do rolling upgrades [50].
@@ -6655,7 +6402,6 @@ are possible but need to be planned carefully [53]. An experimental new maps
 datatype (a JSON-like structure, introduced in Erlang R17 in 2014) may make
 this easier in the future [54].
 
-Summary
 In this chapter we looked at several ways of turning data structures into bytes on the
 network or bytes on disk. We saw how the details of these encodings affect not only
 their efficiency, but more importantly also the architecture of applications and your
@@ -6683,8 +6429,6 @@ ming language and often fail to provide forward and backward compatibility.
 • Textual formats like JSON, XML, and CSV are widespread, and their compatibil‐
 ity depends on how you use them. They have optional schema languages, which
 are sometimes helpful and sometimes a hindrance. These formats are somewhat
-
-Summary
 
 |
 
@@ -6716,8 +6460,6 @@ We can conclude that with a bit of care, backward/forward compatibility and roll
 upgrades are quite achievable. May your application's evolution be rapid and your
 deployments be frequent.
 
-References
-
 [1] "Java Object Serialization Specification," docs.oracle.com, 2010.
 
 [2] "Ruby 2.2.0 API Documentation," ruby-doc.org, Dec 2014.
@@ -6740,8 +6482,6 @@ meus.com, January 31, 2013.
 [8] Eishay Smith: "jvm-serializers wiki," github.com, November 2014.
 
 |
-
-Chapter 4: Encoding and Evolution
 
 [9] "XML Is a Poor Copy of S-Expressions," c2.com wiki.
 
@@ -6800,8 +6540,6 @@ John Larmouth: ASN.1 Complete. Morgan Kaufmann, 1999.
 
 ISBN:
 
-Summary
-
 |
 
 [28] Russell Housley, Warwick Ford, Tim Polk, and David Solo: "RFC 2459: Internet
@@ -6859,8 +6597,6 @@ ume 12, number 4, pages 89–92, July 2008. doi:10.1109/MIC.2008.75
 
 |
 
-Chapter 4: Encoding and Evolution
-
 [45] Marius Eriksen: "Your Server as a Function," at 7th Workshop on Programming
 Languages
 doi:
@@ -6900,8 +6636,6 @@ October 29, 2007.
 
 [54] Fred Hebert: "Postscript: Maps," learnyousomeerlang.com, April 9, 2014.
 
-Summary
-
 |
 
 PART II
@@ -6918,8 +6652,6 @@ pens if multiple machines are involved in storage and retrieval of data?
 
 There are various reasons why you might want to distribute a database across multi‐
 ple machines:
-
-Scalability
 
 If your data volume, read load, or write load grows bigger than a single machine
 can handle, you can potentially spread the load across multiple machines.
@@ -7029,8 +6761,6 @@ the fundamental limitations of distributed systems in Chapters 8 and 9.
 Later, in Part III of this book, we will discuss how you can take several (potentially
 distributed) datastores and integrate them into a larger system, satisfying the needs of
 a complex application. But first, let's talk about distributed data.
-
-References
 
 [1] Ulrich Drepper: "What Every Programmer Should Know About Memory," akka‐
 dia.org, November 21, 2007.
@@ -7157,8 +6887,6 @@ was successful.
 user's client, the leader, and two followers. Time flows from left to right. A request or
 response message is shown as a thick arrow.
 
-Leaders and Followers
-
 |
 
 -2. Leader-based replication with one synchronous and one asynchronous fol‐
@@ -7194,8 +6922,6 @@ unavailable or slow, one of the asynchronous followers is made synchronous. This
 guarantees that you have an up-to-date copy of the data on at least two nodes: the
 
 |
-
-Chapter 5: Replication
 
 leader and one synchronous follower. This configuration is sometimes also called
 semi-synchronous [7].
@@ -7238,8 +6964,6 @@ You could make the files on disk consistent by locking the database (making it
 unavailable for writes), but that would go against our goal of high availability. Fortu‐
 nately, setting up a follower can usually be done without downtime. Conceptually,
 the process looks like this:
-
-Leaders and Followers
 
 |
 
@@ -7287,8 +7011,6 @@ data changes as before.
 
 |
 
-Chapter 5: Replication
-
 Leader failure: Failover
 
 Handling a failure of the leader is trickier: one of the followers needs to be promoted
@@ -7335,8 +7057,6 @@ may violate clients' durability expectations.
 database need to be coordinated with the database contents. For example, in one
 incident at GitHub [13], an out-of-date MySQL follower was promoted to leader.
 The database used an autoincrementing counter to assign primary keys to new
-
-Leaders and Followers
 
 |
 
@@ -7386,8 +7106,6 @@ We will discuss fencing in more detail in "The leader and the lock" on page 301.
 
 |
 
-Chapter 5: Replication
-
 follower parses and executes that SQL statement as if it had been received from a
 client.
 
@@ -7434,8 +7152,6 @@ index can be restored to a consistent state after a crash.
 In either case, the log is an append-only sequence of bytes containing all writes to the
 database. We can use the exact same log to build a replica on another node: besides
 writing the log to disk, the leader also sends it across the network to its followers.
-
-Leaders and Followers
 
 |
 
@@ -7489,8 +7205,6 @@ ful if you want to send the contents of a database to an external system, such a
 
 |
 
-Chapter 5: Replication
-
 warehouse for offline analysis, or for building custom indexes and caches [18]. This
 technique is called change data capture, and we will return to it in Chapter 11.
 
@@ -7536,8 +7250,6 @@ requests simply by adding more followers. However, this approach only realistica
 works with asynchronous replication—if you tried to synchronously replicate to all
 followers, a single node failure or network outage would make the entire system
 
-Problems with Replication Lag
-
 |
 
 unavailable for writing. And the more nodes you have, the likelier it is that one will
@@ -7582,8 +7294,6 @@ consistent: followers in an asynchronously replicated relational database have t
 
 |
 
-Chapter 5: Replication
-
 -3. A user makes a write, followed by a read from a stale replica. To prevent
 this anomaly, we need read-after-write consistency.
 
@@ -7616,8 +7326,6 @@ vent queries on any follower that is more than one minute behind the leader.
 tem can ensure that the replica serving any reads for that user reflects updates at
 least until that timestamp. If a replica is not sufficiently up to date, either the read
 can be handled by another replica or the query can wait until the replica has
-
-Problems with Replication Lag
 
 |
 
@@ -7668,8 +7376,6 @@ because user 2345 probably wouldn't know that user 1234 had recently added a com
 
 |
 
-Chapter 5: Replication
-
 ment. However, it's very confusing for user 2345 if they first see user 1234's comment
 appear, and then see it disappear again.
 
@@ -7699,8 +7405,6 @@ How far into the future can you see, Mrs. Cake?
 Mrs. Cake
 
 About ten seconds usually, Mr. Poons.
-
-Problems with Replication Lag
 
 |
 
@@ -7735,8 +7439,6 @@ in Chapter 6. If the database always applies writes in the same order, reads alw
 a consistent prefix, so this anomaly cannot happen. However, in many distributed
 
 |
-
-Chapter 5: Replication
 
 databases, different partitions operate independently, so there is no global ordering of
 writes: when a user reads from the database, they may see some parts of the database
@@ -7774,8 +7476,6 @@ some truth in that statement, but it is overly simplistic, and we will develop a
 nuanced view over the course of the rest of this book. We will return to the topic of
 transactions in Chapters 7 and 9, and we will discuss some alternative mechanisms in
 Part III.
-
-Problems with Replication Lag
 
 |
 
@@ -7816,8 +7516,6 @@ their leaders on different nodes, but each partition must nevertheless have one 
 
 |
 
-Chapter 5: Replication
-
 -6. Multi-leader replication across multiple datacenters.
 
 Let's compare how the single-leader and multi-leader configurations fare in a multidatacenter deployment:
@@ -7846,8 +7544,6 @@ ration is very sensitive to problems in this inter-datacenter link, because writ
 are made synchronously over this link. A multi-leader configuration with asyn‐
 chronous replication can usually tolerate network problems better: a temporary
 network interruption does not prevent writes being processed.
-
-Multi-Leader Replication
 
 |
 
@@ -7901,8 +7597,6 @@ discussed in "Automatic Conflict Resolution" on page 174).
 
 |
 
-Chapter 5: Replication
-
 We don't usually think of collaborative editing as a database replication problem, but
 it has a lot in common with the previously mentioned offline editing use case. When
 one user edits a document, the changes are instantly applied to their local replica (the
@@ -7933,8 +7627,6 @@ base.
 
 -7. A write conflict caused by two leaders concurrently updating the same
 record.
-
-Multi-Leader Replication
 
 |
 
@@ -7988,8 +7680,6 @@ is eventually the same in all replicas. Thus, the database must resolve the conf
 
 |
 
-Chapter 5: Replication
-
 convergent way, which means that all replicas must arrive at the same final value
 when all changes have been replicated.
 
@@ -8036,8 +7726,6 @@ Note that conflict resolution usually applies at the level of an individual row 
 ment, not for an entire transaction [36]. Thus, if you have a transaction that atomi‐
 cally makes several different writes (see Chapter 7), each write is still considered
 separately for the purposes of conflict resolution.
-
-Multi-Leader Replication
 
 |
 
@@ -8087,8 +7775,6 @@ for the same room at the same time. Even if the application checks availability 
 
 |
 
-Chapter 5: Replication
-
 allowing a user to make a booking, there can be a conflict if the two bookings are
 made on two different leaders.
 
@@ -8123,8 +7809,6 @@ nodes it has passed through [43]. When a node receives a data change that is tag
 v. Not to be confused with a star schema (see "Stars and Snowflakes: Schemas for Analytics" on page 93),
 which describes the structure of a data model, not the communication topology between nodes.
 
-Multi-Leader Replication
-
 |
 
 with its own identifier, that data change is ignored, because the node knows that it
@@ -8156,8 +7840,6 @@ on page 165: the update depends on the prior insert, so we need to make sure tha
 nodes process the insert first, and then the update. Simply attaching a timestamp to
 
 |
-
-Chapter 5: Replication
 
 every write is not sufficient, because clocks cannot be trusted to be sufficiently in sync
 to correctly order these events at leader 2 (see Chapter 8).
@@ -8202,8 +7884,6 @@ unavailable—perhaps it is being rebooted to install a system update. In a lead
 vi. Dynamo is not available to users outside of Amazon. Confusingly, AWS offers a hosted database product
 called DynamoDB, which uses a completely different architecture: it is based on single-leader replication.
 
-Leaderless Replication
-
 |
 
 configuration, if you want to continue processing writes, you may need to perform a
@@ -8236,8 +7916,6 @@ replica. After an unavailable node comes back online, how does it catch up on th
 writes that it missed?
 
 |
-
-Chapter 5: Replication
 
 Two mechanisms are often used in Dynamo-style datastores:
 
@@ -8284,8 +7962,6 @@ for the read or write to be valid.
 vii. Sometimes this kind of quorum is called a strict quorum, to contrast with sloppy quorums (discussed in
 "Sloppy Quorums and Hinted Handoff" on page 183).
 
-Leaderless Replication
-
 |
 
 In Dynamo-style databases, the parameters n, w, and r are typically configurable. A
@@ -8322,8 +7998,6 @@ cessful.
 most recent successful write.
 
 |
-
-Chapter 5: Replication
 
 If fewer than the required w or r nodes are available, writes or reads return an error.
 A node could be unavailable for many reasons: because the node is down (crashed,
@@ -8369,8 +8043,6 @@ case, the only safe solution is to merge the concurrent writes (see "Handling
 Write Conflicts" on page 171). If a winner is picked based on a timestamp (last
 write wins), writes can be lost due to clock skew [35]. We will return to this topic
 in "Detecting Concurrent Writes" on page 184.
-
-Leaderless Replication
 
 |
 
@@ -8424,8 +8096,6 @@ writes are applied, which makes monitoring more difficult. Moreover, if the data
 
 |
 
-Chapter 5: Replication
-
 only uses read repair (no anti-entropy), there is no limit to how old a value might be
 —if a value is only infrequently read, the value returned by a stale replica may be
 ancient.
@@ -8473,8 +8143,6 @@ porarily.
 
 Once the network interruption is fixed, any writes that one node temporarily
 accepted on behalf of another node are sent to the appropriate "home" nodes. This is
-
-Leaderless Replication
 
 |
 
@@ -8526,8 +8194,6 @@ hinted handoff.
 
 |
 
-Chapter 5: Replication
-
 The problem is that events may arrive in a different order at different nodes, due to
 variable network delays and partial failures. For example, -12 shows two cli‐
 ents, A and B, simultaneously writing to a key X in a three-node datastore:
@@ -8557,8 +8223,6 @@ about the internals of your database's conflict handling.
 We briefly touched on some techniques for conflict resolution in "Handling Write
 Conflicts" on page 171. Before we wrap up this chapter, let's explore the issue in a bit
 more detail.
-
-Leaderless Replication
 
 |
 
@@ -8610,8 +8274,6 @@ happened later. We also say that B is causally dependent on A.
 
 |
 
-Chapter 5: Replication
-
 • On the other hand, the two writes in -12 are concurrent: when each cli‐
 ent starts the operation, it does not know that another client is also performing
 an operation on the same key. Thus, there is no causal dependency between the
@@ -8655,8 +8317,6 @@ Capturing the happens-before relationship
 
 Let's look at an algorithm that determines whether two operations are concurrent, or
 whether one happened before another. To keep things simple, let's start with a data‐
-
-Leaderless Replication
 
 |
 
@@ -8703,8 +8363,6 @@ keeps those two concurrent values.
 
 |
 
-Chapter 5: Replication
-
 -13. Capturing causal dependencies between two clients concurrently editing a
 shopping cart.
 
@@ -8720,8 +8378,6 @@ do get overwritten eventually, and no writes are lost.
 Note that the server can determine whether two operations are concurrent by looking
 at the version numbers—it does not need to interpret the value itself (so the value
 could be any data structure). The algorithm works as follows:
-
-Leaderless Replication
 
 |
 
@@ -8773,8 +8429,6 @@ removed item will reappear in the union of the siblings [37]. To prevent this pr
 
 |
 
-Chapter 5: Replication
-
 lem, an item cannot simply be deleted from the database when it is removed; instead,
 the system must leave a marker with an appropriate version number to indicate that
 the item has been removed when merging siblings. Such a deletion marker is known
@@ -8822,11 +8476,8 @@ they are not quite the same. The difference is subtle—please see the
 references for details [57, 60, 61]. In brief, when comparing the
 state of replicas, version vectors are the right data structure to use.
 
-Leaderless Replication
-
 |
 
-Summary
 In this chapter we looked at the issue of replication. Replication can serve several
 purposes:
 
@@ -8843,8 +8494,6 @@ tion
 Latency
 
 Placing data geographically close to users, so that users can interact with it faster
-
-Scalability
 
 Being able to handle a higher volume of reads than a single machine could han‐
 dle, by performing reads on replicas
@@ -8880,8 +8529,6 @@ because it is fairly easy to understand and there is no conflict resolution to w
 about. Multi-leader and leaderless replication can be more robust in the presence of
 
 |
-
-Chapter 5: Replication
 
 faulty nodes, network interruptions, and latency spikes—at the cost of being harder
 to reason about and providing only very weak consistency guarantees.
@@ -8922,8 +8569,6 @@ In the next chapter we will continue looking at data that is distributed across 
 machines, through the counterpart of replication: splitting a large dataset into parti‐
 tions.
 
-References
-
 [1] Bruce G. Lindsay, Patricia Griffiths Selinger, C. Galtieri, et al.: "Notes on Dis‐
 tributed Databases," IBM Research, Research Report RJ2571(33471), July 1979.
 
@@ -8931,8 +8576,6 @@ tributed Databases," IBM Research, Research Report RJ2571(33471), July 1979.
 White Paper, June 2013.
 
 [3] "AlwaysOn Availability Groups," in SQL Server Books Online, Microsoft, 2012.
-
-Summary
 
 |
 
@@ -8990,8 +8633,6 @@ bus!," at ACM Symposium on Cloud Computing (SoCC), October 2012.
 
 |
 
-Chapter 5: Replication
-
 [21] Greg Sabino Mullane: "Version 5 of Bucardo Database Replication System,"
 blog.endpoint.com, June 23, 2014.
 
@@ -9040,8 +8681,6 @@ tributed Systems," basho.com, November 12, 2013.
 
 [36] Riley Berton: "Is Bi-Directional Replication (BDR) in Postgres Transactional?,"
 sdf.org, January 4, 2016.
-
-Summary
 
 |
 
@@ -9102,8 +8741,6 @@ Technologies, Inc., September 2014.
 
 |
 
-Chapter 5: Replication
-
 [53] Jonathan Ellis: "Why Cassandra Doesn't Need Vector Clocks," datastax.com,
 September 2, 2013.
 
@@ -9132,8 +8769,6 @@ press.com, July 8, 2011.
 [61] Reinhard Schwarz and Friedemann Mattern: "Detecting Causal Relationships in
 Distributed Computations: In Search of the Holy Grail," Distributed Computing, vol‐
 ume 7, number 3, pages 149–174, March 1994. doi:10.1007/BF02277859
-
-Summary
 
 |
 
@@ -9278,8 +8913,6 @@ month.
 
 |
 
-Chapter 6: Partitioning
-
 However, the downside of key range partitioning is that certain access patterns can
 lead to hot spots. If the key is a timestamp, then the partitions correspond to ranges
 of time—e.g., one partition per day. Unfortunately, because we write data from the
@@ -9353,8 +8986,6 @@ but the other columns are used as a concatenated index for sorting the data in C
 sandra's SSTables. A query therefore cannot search for a range of values within the
 
 |
-
-Chapter 6: Partitioning
 
 first column of a compound key, but if it specifies a fixed value for the first column, it
 can perform an efficient range scan over the other columns of the key.
@@ -9445,8 +9076,6 @@ the data to go out of sync—see "The need for multi-object transactions" on pag
 
 |
 
-Chapter 6: Partitioning
-
 -4. Partitioning secondary indexes by document.
 
 In this indexing approach, each partition is completely separate: each partition main‐
@@ -9511,8 +9140,6 @@ term that it wants. However, the downside of a global index is that writes are s
 and more complicated, because a write to a single document may now affect multiple
 
 |
-
-Chapter 6: Partitioning
 
 partitions of the index (every term in the document might be on a different partition,
 on a different node).
@@ -9616,8 +9243,6 @@ fer is in progress.
 
 |
 
-Chapter 6: Partitioning
-
 -6. Adding a new node to a database cluster with multiple partitions per node.
 
 In principle, you can even account for mismatched hardware in your cluster: by
@@ -9698,8 +9323,6 @@ dataset, since the splitting and merging processes keep the size of each partiti
 between some fixed minimum and maximum. On the other hand, with a fixed num‐
 
 |
-
-Chapter 6: Partitioning
 
 ber of partitions, the size of each partition is proportional to the size of the dataset. In
 both of these cases, the number of partitions is independent of the number of nodes.
@@ -9796,8 +9419,6 @@ in the assignment of partitions to nodes?
 
 |
 
-Chapter 6: Partitioning
-
 -7. Three different ways of routing a request to the right node.
 
 This is a challenging problem, because it is important that all participants agree—
@@ -9857,14 +9478,11 @@ business importance of analytics, it receives a lot of commercial interest. We w
 cuss some techniques for parallel query execution in Chapter 10. For a more detailed
 overview of techniques used in parallel databases, please see the references [1, 33].
 
-Summary
 In this chapter we explored different ways of partitioning a large dataset into smaller
 subsets. Partitioning is necessary when you have so much data that storing and pro‐
 cessing it on a single machine is no longer feasible.
 
 |
-
-Chapter 6: Partitioning
 
 The goal of partitioning is to spread the data and query load evenly across multiple
 machines, avoiding hot spots (nodes with disproportionately high load). This
@@ -9914,15 +9532,11 @@ query execution engines.
 By design, every partition operates mostly independently—that's what allows a parti‐
 tioned database to scale to multiple machines. However, operations that need to write
 
-Summary
-
 |
 
 to several partitions can be difficult to reason about: for example, what happens if the
 write to one partition succeeds, but another fails? We will address that question in the
 following chapters.
-
-References
 
 [1] David J. DeWitt and Jim N. Gray: "Parallel Database Systems: The Future of High
 Performance Database Systems," Communications of the ACM, volume 35, number 6,
@@ -9970,8 +9584,6 @@ ble.com, September 7, 2010.
 [15] "Riak 1.4.8 Docs," Basho Technologies, Inc., 2014.
 
 |
-
-Chapter 6: Partitioning
 
 [16] Richard Low: "The Sweet Spot for Cassandra Secondary Indexing," wentnet.com,
 October 21, 2013.
@@ -10024,8 +9636,6 @@ doi:10.1145/2391229.2391248
 [33] Shivnath Babu and Herodotos Herodotou: "Massively Parallel Databases and
 MapReduce Systems," Foundations and Trends in Databases, volume 5, number 1,
 pages 1–104, November 2013. doi:10.1561/1900000036
-
-Summary
 
 |
 
@@ -10161,8 +9771,6 @@ Atomicity
 In general, atomic refers to something that cannot be broken down into smaller parts.
 The word means similar but subtly different things in different branches of comput‐
 
-The Slippery Concept of a Transaction
-
 |
 
 ing. For example, in multi-threaded programming, if one thread executes an atomic
@@ -10218,8 +9826,6 @@ It's unfortunate that the same word is used with at least four different meaning
 
 |
 
-Chapter 7: Transactions
-
 The idea of ACID consistency is that you have certain statements about your data
 (invariants) that must always be true—for example, in an accounting system, credits
 and debits across all accounts must always be balanced. If a transaction starts with a
@@ -10263,8 +9869,6 @@ currently [10].
 i. Joe Hellerstein has remarked that the C in ACID was "tossed in to make the acronym work" in Härder and
 Reuter's paper [7], and that it wasn't considered important at the time.
 
-The Slippery Concept of a Transaction
-
 |
 
 -1. A race condition between two clients concurrently incrementing a counter.
@@ -10296,8 +9900,6 @@ hard disks and all your backups are destroyed at the same time, there's obviousl
 nothing your database can do to save you.
 
 |
-
-Chapter 7: Transactions
 
 Replication and Durability
 Historically, durability meant writing to an archive tape. Then it was understood as
@@ -10345,8 +9947,6 @@ only various risk-reduction techniques, including writing to disk, replicating t
 remote machines, and backups—and they can and should be used together. As
 always, it's wise to take any theoretical "guarantees" with a healthy grain of salt.
 
-The Slippery Concept of a Transaction
-
 |
 
 Single-Object and Multi-Object Operations
@@ -10392,8 +9992,6 @@ email.
 
 |
 
-Chapter 7: Transactions
-
 -2. Violating isolation: one transaction reads another transaction's uncommit‐
 ted writes (a "dirty read").
 
@@ -10416,8 +10014,6 @@ happens after the client has requested a commit but before the server acknowledg
 pened, the client doesn't know whether the transaction was committed or not. To solve this issue, a transac‐
 tion manager can group operations by a unique transaction identifier that is not bound to a particular TCP
 connection. We will return to this topic in "The End-to-End Argument for Databases" on page 516.
-
-The Slippery Concept of a Transaction
 
 |
 
@@ -10470,8 +10066,6 @@ getting nitpicky.
 
 |
 
-Chapter 7: Transactions
-
 The need for multi-object transactions
 
 Many distributed datastores have abandoned multi-object transactions because they
@@ -10517,8 +10111,6 @@ Handling errors and aborts
 
 A key feature of a transaction is that it can be aborted and safely retried if an error
 occurred. ACID databases are based on this philosophy: if the database is in danger
-
-The Slippery Concept of a Transaction
 
 |
 
@@ -10568,8 +10160,6 @@ database is lost.
 
 |
 
-Chapter 7: Transactions
-
 Weak Isolation Levels
 If two transactions don't touch the same data, they can safely be run in parallel,
 because neither depends on the other. Concurrency issues (race conditions) only
@@ -10615,8 +10205,6 @@ used in practice, and discuss in detail what kinds of race conditions can and ca
 occur, so that you can decide what level is appropriate to your application. Once
 we've done that, we will discuss serializability in detail (see "Serializability" on page
 
-Weak Isolation Levels
-
 |
 
 251). Our discussion of isolation levels will be informal, using examples. If you want
@@ -10656,8 +10244,6 @@ v. Some databases support an even weaker isolation level called read uncommitted
 but does not prevent dirty reads.
 
 |
-
-Chapter 7: Transactions
 
 There are a few reasons why it's useful to prevent dirty reads:
 
@@ -10703,8 +10289,6 @@ first transaction has committed, so it's not a dirty write. It's still incorrect
 a different reason—in "Preventing Lost Updates" on page 242 we will discuss how
 to make such counter increments safe.
 
-Weak Isolation Levels
-
 |
 
 -5. With dirty writes, conflicting writes from different transactions can be
@@ -10739,8 +10323,6 @@ tion, due to waiting for locks.
 
 |
 
-Chapter 7: Transactions
-
 For that reason, most databasesvi prevent dirty reads using the approach illustrated in
 -4: for every object that is written, the database remembers both the old com‐
 mitted value and the new value set by the transaction that currently holds the write
@@ -10769,8 +10351,6 @@ transaction is being processed, she may see one account balance at a time before
 
 vi. At the time of writing, the only mainstream databases that use locks for read committed isolation are IBM
 DB2 and Microsoft SQL Server in the read_committed_snapshot=off configuration [23, 36].
-
-Weak Isolation Levels
 
 |
 
@@ -10823,8 +10403,6 @@ analytics. It is very hard to reason about the meaning of a query if the data on
 
 |
 
-Chapter 7: Transactions
-
 it operates is changing at the same time as the query is executing. When a transaction
 can see a consistent snapshot of the database, frozen at a particular point in time, it is
 much easier to understand.
@@ -10865,8 +10443,6 @@ the writer.
 vii. To be precise, transaction IDs are 32-bit integers, so they overflow after approximately 4 billion transac‐
 tions. PostgreSQL's vacuum process performs cleanup which ensures that overflow does not affect the data.
 
-Weak Isolation Levels
-
 |
 
 -7. Implementing snapshot isolation using multi-version objects.
@@ -10891,8 +10467,6 @@ When a transaction reads from the database, transaction IDs are used to decide
 which objects it can see and which are invisible. By carefully defining visibility rules,
 
 |
-
-Chapter 7: Transactions
 
 the database can present a consistent snapshot of the database to the application. This
 works as follows:
@@ -10943,8 +10517,6 @@ In practice, many implementation details determine the performance of multiversi
 ing index updates if different versions of the same object can fit on the same page
 [31].
 
-Weak Isolation Levels
-
 |
 
 Another approach is used in CouchDB, Datomic, and LMDB. Although they also use
@@ -10994,8 +10566,6 @@ ing concurrently—we have only discussed dirty writes (see "No dirty writes" on
 
 |
 
-Chapter 7: Transactions
-
 There are several other interesting kinds of conflicts that can occur between concur‐
 rently writing transactions. The best known of these is the lost update problem, illus‐
 trated in -1 with the example of two concurrent counter increments.
@@ -11041,8 +10611,6 @@ when it is read so that no other transaction can read it until the update has be
 
 viii. It is possible, albeit fairly complicated, to express the editing of a text document as a stream of atomic
 mutations. See "Automatic Conflict Resolution" on page 174 for some pointers.
-
-Weak Isolation Levels
 
 |
 
@@ -11092,8 +10660,6 @@ introduce a race condition.
 
 |
 
-Chapter 7: Transactions
-
 Automatically detecting lost updates
 
 Atomic operations and locks are ways of preventing lost updates by forcing the readmodify-write cycles to happen sequentially. An alternative is to allow them to execute
@@ -11135,8 +10701,6 @@ sary. However, if the database allows the WHERE clause to read from an old snaps
 this statement may not prevent lost updates, because the condition may be true even
 though another concurrent write is occurring. Check whether your database's
 compare-and-set operation is safe before relying on it.
-
-Weak Isolation Levels
 
 |
 
@@ -11188,8 +10752,6 @@ call at any one time, but it absolutely must have at least one doctor on call. D
 
 |
 
-Chapter 7: Transactions
-
 can give up their shifts (e.g., if they are sick themselves), provided that at least one
 colleague remains on call in that shift [40, 41].
 
@@ -11212,8 +10774,6 @@ Characterizing write skew
 This anomaly is called write skew [28]. It is neither a dirty write nor a lost update,
 because the two transactions are updating two different objects (Alice's and Bob's oncall records, respectively). It is less obvious that a conflict occurred here, but it's defi‐
 nitely a race condition: if the two transactions had run one after another, the second
-
-Weak Isolation Levels
 
 |
 
@@ -11267,8 +10827,6 @@ query.
 
 |
 
-Chapter 7: Transactions
-
 More examples of write skew
 
 Write skew may seem like an esoteric issue at first, but once you're aware of it, you
@@ -11314,8 +10872,6 @@ a unique constraint, but otherwise you're vulnerable to write skew.
 
 ix. In PostgreSQL you can do this more elegantly using range types, but they are not widely supported in
 other databases.
-
-Weak Isolation Levels
 
 |
 
@@ -11369,8 +10925,6 @@ result of the query.
 
 |
 
-Chapter 7: Transactions
-
 In the case of the doctor on call example, the row being modified in step 3 was one of
 the rows returned in step 1, so we could make the transaction safe and avoid write
 skew by locking the rows in step 1 (SELECT FOR UPDATE). However, the other four
@@ -11416,8 +10970,6 @@ ples with write skew and phantoms. It's a sad situation:
 • Isolation levels are hard to understand, and inconsistently implemented in differ‐
 
 ent databases (e.g., the meaning of "repeatable read" varies significantly).
-
-Serializability
 
 |
 
@@ -11471,8 +11023,6 @@ flicts between transactions: the resulting isolation is by definition serializab
 
 |
 
-Chapter 7: Transactions
-
 Even though this seems like an obvious idea, database designers only fairly recently—
 around 2007—decided that a single-threaded loop for executing transactions was fea‐
 sible [45]. If multi-threaded concurrency was considered essential for getting good
@@ -11519,8 +11069,6 @@ action.
 Even though the human has been taken out of the critical path, transactions have
 continued to be executed in an interactive client/server style, one statement at a time.
 
-Serializability
-
 |
 
 An application makes a query, reads the result, perhaps makes another query
@@ -11547,8 +11095,6 @@ fast, without waiting for any network or disk I/O.
 (using the example transaction of -8).
 
 |
-
-Chapter 7: Transactions
 
 Pros and cons of stored procedures
 
@@ -11596,8 +11142,6 @@ its the transaction throughput of the database to the speed of a single CPU core
 single machine. Read-only transactions may execute elsewhere, using snapshot isola‐
 tion, but for applications with high write throughput, the single-threaded transaction
 processor can become a serious bottleneck.
-
-Serializability
 
 |
 
@@ -11651,8 +11195,6 @@ mentioned in "Keeping everything in memory" on page 88.
 
 |
 
-Chapter 7: Transactions
-
 Two-Phase Locking (2PL)
 For around 30 years, there was only one widely used algorithm for serializability in
 databases: two-phase locking (2PL).xi
@@ -11694,8 +11236,6 @@ Implementation of two-phase locking
 and the repeatable read isolation level in DB2 [23, 36].
 
 xi. Sometimes called strong strict two-phase locking (SS2PL) to distinguish it from other variants of 2PL.
-
-Serializability
 
 |
 
@@ -11747,8 +11287,6 @@ may have to wait. Even if you make sure that you keep all your transactions shor
 
 |
 
-Chapter 7: Transactions
-
 queue may form if several transactions want to access the same object, so a transac‐
 tion may have to wait for several others to complete before it can do anything.
 
@@ -11796,8 +11334,6 @@ SELECT query, it must acquire a shared-mode predicate lock on the conditions of
 the query. If another transaction B currently has an exclusive lock on any object
 matching those conditions, A must wait until B releases its lock before it is
 allowed to make its query.
-
-Serializability
 
 |
 
@@ -11848,8 +11384,6 @@ locks are not as precise as predicate locks would be (they may lock a bigger ran
 
 |
 
-Chapter 7: Transactions
-
 objects than is strictly necessary to maintain serializability), but since they have much
 lower overheads, they are a good compromise.
 
@@ -11894,8 +11428,6 @@ nique. Optimistic in this context means that instead of blocking if something po
 tially dangerous happens, transactions continue anyway, in the hope that everything
 will turn out all right. When a transaction wants to commit, the database checks
 whether anything bad happened (i.e., whether isolation was violated); if so, the trans‐
-
-Serializability
 
 |
 
@@ -11948,8 +11480,6 @@ tion. In order to provide serializable isolation, the database must detect situa
 
 |
 
-Chapter 7: Transactions
-
 which a transaction may have acted on an outdated premise and abort the transac‐
 tion in that case.
 
@@ -11976,8 +11506,6 @@ taken effect, and transaction 43's premise is no longer true.
 
 -10. Detecting when a transaction reads outdated values from an MVCC
 snapshot.
-
-Serializability
 
 |
 
@@ -12009,8 +11537,6 @@ some search query, such as WHERE shift_id = 1234. We can use a similar technique
 here, except that SSI locks don't block other transactions.
 
 |
-
-Chapter 7: Transactions
 
 In -11, transactions 42 and 43 both search for on-call doctors during shift
 1234. If there is an index on shift_id, the database can use the index entry 1234 to
@@ -12058,8 +11584,6 @@ zation conflicts across multiple machines, allowing it to scale to very high thr
 put. Even though data may be partitioned across multiple machines, transactions can
 read and write data in multiple partitions while ensuring serializable isolation [54].
 
-Serializability
-
 |
 
 The rate of aborts significantly affects the overall performance of SSI. For example, a
@@ -12067,7 +11591,6 @@ transaction that reads and writes data over a long period of time is likely to r
 conflicts and abort, so SSI requires that read-write transactions be fairly short (longrunning read-only transactions may be okay). However, SSI is probably less sensitive
 to slow transactions than two-phase locking or serial execution.
 
-Summary
 Transactions are an abstraction layer that allows an application to pretend that cer‐
 tain concurrency problems and certain kinds of hardware and software faults don't
 exist. A large class of errors is reduced down to a simple transaction abort, and the
@@ -12108,8 +11631,6 @@ to read from a consistent snapshot at one point in time. It is usually implement
 with multi-version concurrency control (MVCC).
 
 |
-
-Chapter 7: Transactions
 
 Lost updates
 
@@ -12163,11 +11684,7 @@ In this chapter, we explored ideas and algorithms mostly in the context of a dat
 running on a single machine. Transactions in distributed databases open a new set of
 difficult challenges, which we'll discuss in the next two chapters.
 
-Summary
-
 |
-
-References
 
 [1] Donald D. Chamberlin, Morton M. Astrahan, Michael W. Blasgen, et al.: "A His‐
 tory and Evaluation of System R," Communications of the ACM, volume 24, number
@@ -12215,8 +11732,6 @@ Isolation Serializable," ACM Transactions on Database Systems, volume 30, number
 2, pages 492–528, June 2005. doi:10.1145/1071610.1071615
 
 |
-
-Chapter 7: Transactions
 
 [12] Mai Zheng, Joseph Tucek, Feng Qin, and Mark Lillibridge: "Understanding the
 Robustness of SSDs Under Power Fault," at 11th USENIX Conference on File and
@@ -12267,8 +11782,6 @@ ence on Very Large Data Bases (VLDB), September 2007.
 
 [27] Michael Melanson: "Transactions: The Limits of Isolation," michaelmelan‐
 son.net, March 20, 2014.
-
-Summary
 
 |
 
@@ -12324,8 +11837,6 @@ Conflicts in Bayou, a Weakly Connected Replicated Storage System," at 15th ACM
 
 |
 
-Chapter 7: Transactions
-
 Symposium on Operating Systems Principles (SOSP), December 1995. doi:
 10.1145/224056.224070
 
@@ -12365,8 +11876,6 @@ Systems (TODS), volume 12, number 4, pages 609–654, December 1987. doi:
 
 [54] Dave Rosenthal: "Databases at 14.4MHz," blog.foundationdb.com, December 10,
 2014.
-
-Summary
 
 |
 
@@ -12548,8 +12057,6 @@ working correctly most of the time. However, sooner or later, some part of the s
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 will become faulty, and the software will have to somehow handle it. The fault han‐
 dling must be part of the software design, and you (as operator of the software) need
 to know what behavior to expect from the software in the case of a fault.
@@ -12591,8 +12098,6 @@ Unreliable Networks
 As discussed in the introduction to Part II, the distributed systems we focus on in this
 book are shared-nothing systems: i.e., a bunch of machines connected by a network.
 The network is the only way those machines can communicate—we assume that each
-
-Unreliable Networks
 
 |
 
@@ -12636,8 +12141,6 @@ whether (a) the request was lost, (b) the remote node is down, or (c) the respon
 lost.
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 The sender can't even tell whether the packet was delivered: the only option is for the
 recipient to send a response message, which may in turn be lost or delayed. These
@@ -12683,8 +12186,6 @@ work fault, that is sometimes called a network partition or netsplit.
 In this book we'll generally stick with the more general term net‐
 work fault, to avoid confusion with partitions (shards) of a storage
 system, as discussed in Chapter 6.
-
-Unreliable Networks
 
 |
 
@@ -12735,8 +12236,6 @@ expire. For example, HBase does this [23].
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 • If you have access to the management interface of the network switches in your
 datacenter, you can query them to detect link failures at a hardware level (e.g., if
 the remote machine is powered down). This option is ruled out if you're con‐
@@ -12782,8 +12281,6 @@ problem worse. In particular, it could happen that the node actually wasn't dead
 only slow to respond due to overload; transferring its load to other nodes can cause a
 cascading failure (in the extreme case, all nodes declare each other dead, and every‐
 thing stops working).
-
-Unreliable Networks
 
 |
 
@@ -12834,8 +12331,6 @@ in which a node limits its own rate of sending in order to avoid overloading a
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 network link or the receiving node [27]. This means additional queueing at the
 sender before the data even enters the network.
 
@@ -12865,8 +12360,6 @@ The sound just cut out for a moment.")
 
 All of these factors contribute to the variability of network delays. Queueing delays
 have an especially wide range when a system is close to its maximum capacity: a sys‐
-
-Unreliable Networks
 
 |
 
@@ -12916,8 +12409,6 @@ bits of audio data every 250 microseconds [33, 34].
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 This kind of network is synchronous: even as data passes through several routers, it
 does not suffer from queueing, because the 16 bits of space for the call have already
 been reserved in the next hop of the network. And because there is no queueing, the
@@ -12965,8 +12456,6 @@ machines (also known as cash machines), despite sharing an acronym. Perhaps, in 
 internet is based on something like ATM—in that universe, internet video calls are probably a lot more relia‐
 ble than they are in ours, because they don't suffer from dropped and delayed packets.
 
-Unreliable Networks
-
 |
 
 queueing in the network, although it can still suffer from delays due to link conges‐
@@ -13010,8 +12499,6 @@ Variable delays in networks are not a law of nature, but simply the result of a 
 benefit trade-off.
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 However, such quality of service is currently not enabled in multi-tenant datacenters
 and public clouds, or when communicating via the internet.iv Currently deployed
@@ -13062,8 +12549,6 @@ der Gateway Protocol (BGP), bear closer resemblance to circuit switching than IP
 sible to buy dedicated bandwidth. However, internet routing operates at the level of networks, not individual
 connections between hosts, and at a much longer timescale.
 
-Unreliable Clocks
-
 |
 
 slower than on other machines. It is possible to synchronize clocks to some degree:
@@ -13110,8 +12595,6 @@ in "Response time guarantees" on page 298.
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 You can check the value of the monotonic clock at one point in time, do something,
 and then check the clock again at a later time. The difference between the two values
 tells you how much time elapsed between the two checks. However, the absolute
@@ -13156,8 +12639,6 @@ if everything is working correctly.
 chronize, or the local clock will be forcibly reset [37]. Any applications observing
 the time before and after this reset may see time go backward or suddenly jump
 forward.
-
-Unreliable Clocks
 
 |
 
@@ -13210,8 +12691,6 @@ effort and expertise, and there are plenty of ways clock synchronization can go
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 wrong. If your NTP daemon is misconfigured, or a firewall is blocking NTP traffic,
 the clock error due to drift can quickly become large.
 
@@ -13252,8 +12731,6 @@ to a distributed database, who got there first? Which write is the more recent o
 1; the write is replicated to node 3; client B increments x on node 3 (we now have
 x = 2); and finally, both writes are replicated to node 2.
 
-Unreliable Clocks
-
 |
 
 -3. The write by client B is causally later than the write by client A, but B's
@@ -13288,8 +12765,6 @@ write) and writes that were truly concurrent (neither writer was aware of the
 other). Additional causality tracking mechanisms, such as version vectors, are
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 needed in order to prevent violations of causality (see "Detecting Concurrent
 Writes" on page 184).
@@ -13336,8 +12811,6 @@ to over 100 ms when there is network congestion [57].
 Thus, it doesn't make sense to think of a clock reading as a point in time—it is more
 like a range of times, within a confidence interval: for example, a system may be 95%
 confident that the time now is between 10.3 and 10.5 seconds past the minute, but it
-
-Unreliable Clocks
 
 |
 
@@ -13386,8 +12859,6 @@ then B must have a higher transaction ID than A—otherwise, the snapshot would 
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 be consistent. With lots of small, rapid transactions, creating transaction IDs in a dis‐
 tributed system becomes an untenable bottleneck.vi
 
@@ -13432,8 +12903,6 @@ mately monotonically increasing unique IDs in a scalable way (e.g., by allocatin
 different nodes). However, they typically cannot guarantee an ordering that is consistent with causality,
 because the timescale at which blocks of IDs are assigned is longer than the timescale of database reads and
 writes. See also "Ordering Guarantees" on page 339.
-
-Unreliable Clocks
 
 |
 
@@ -13488,8 +12957,6 @@ need to stop the world from time to time [65]. Although the pauses can often be
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 reduced by changing allocation patterns or tuning GC settings [66], we must
 assume the worst if we want to offer robust guarantees.
 
@@ -13537,8 +13004,6 @@ pressing Ctrl-Z in a shell. This signal immediately stops the process from getti
 any more CPU cycles until it is resumed with SIGCONT, at which point it contin‐
 ues running where it left off. Even if your environment does not normally use
 SIGSTOP, it might be sent accidentally by an operations engineer.
-
-Unreliable Clocks
 
 |
 
@@ -13591,8 +13056,6 @@ uled with a guaranteed allocation of CPU time in specified intervals is needed; 
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 functions must document their worst-case execution times; dynamic memory alloca‐
 tion may be restricted or disallowed entirely (real-time garbage collectors exist, but
 the application must still ensure that it doesn't give the GC too much work to do);
@@ -13633,8 +13096,6 @@ the planned restart, like in a rolling upgrade (see Chapter 4).
 
 These measures cannot fully prevent garbage collection pauses, but they can usefully
 reduce their impact on the application.
-
-Unreliable Clocks
 
 |
 
@@ -13682,8 +13143,6 @@ kicking and screaming "I'm not dead!"—but since nobody can hear its screaming,
 funeral procession continues with stoic determination.
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 In a slightly less nightmarish scenario, the semi-disconnected node may notice that
 the messages it is sending are not being acknowledged by other nodes, and so realize
@@ -13734,8 +13193,6 @@ brain (see "Handling Node Outages" on page 156).
 
 or object, to prevent concurrently writing to it and corrupting it.
 
-Knowledge, Truth, and Lies
-
 |
 
 • Only one user is allowed to register a particular username, because a username
@@ -13773,8 +13230,6 @@ write to the file. As a result, the clients' writes clash and corrupt the file.
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 Fencing tokens
 
 When using a lock or lease to protect access to some resource, such as the file storage
@@ -13809,8 +13264,6 @@ For resources that do not explicitly support fencing tokens, you might still be 
 work around the limitation (for example, in the case of a file storage service you
 could include the fencing token in the filename). However, some kind of check is
 necessary to avoid processing requests outside of the lock's protection.
-
-Knowledge, Truth, and Lies
 
 |
 
@@ -13860,8 +13313,6 @@ advised that calling it The Albanian Generals Problem was not such a good idea [
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 A system is Byzantine fault-tolerant if it continues to operate correctly even if some
 of the nodes are malfunctioning and not obeying the protocol, or if malicious attack‐
 ers are interfering with the network. This concern is relevant in certain specific cir‐
@@ -13904,8 +13355,6 @@ Most Byzantine fault-tolerant algorithms require a supermajority of more than tw
 one may malfunction). To use this approach against bugs, you would have to have
 four independent implementations of the same software and hope that a bug only
 appears in one of the four implementations.
-
-Knowledge, Truth, and Lies
 
 |
 
@@ -13955,8 +13404,6 @@ Algorithms need to be written in a way that does not depend too heavily on the
 details of the hardware and software configuration on which they are run. This in
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 turn requires that we somehow formalize the kinds of faults that we expect to happen
 in a system. We do this by defining a system model, which is an abstraction that
@@ -14010,8 +13457,6 @@ Byzantine (arbitrary) faults
 
 Nodes may do absolutely anything, including trying to trick and deceive other
 nodes, as described in the last section.
-
-Knowledge, Truth, and Lies
 
 |
 
@@ -14068,8 +13513,6 @@ of safety and liveness are precise and mathematical [90]:
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 • If a safety property is violated, we can point at a particular point in time at which
 it was broken (for example, if the uniqueness property was violated, we can iden‐
 tify the particular operation in which a duplicate fencing token was returned).
@@ -14115,8 +13558,6 @@ thus breaks the correctness of the algorithm. Perhaps a new system model is need
 in which we assume that stable storage mostly survives crashes, but may sometimes
 be lost. But that model then becomes harder to reason about.
 
-Knowledge, Truth, and Lies
-
 |
 
 The theoretical description of an algorithm can declare that certain things are simply
@@ -14140,7 +13581,6 @@ long time in a real system, and that only come to bite you when your assumptions
 (e.g., about timing) are defeated due to unusual circumstances. Theoretical analysis
 and empirical testing are equally important.
 
-Summary
 In this chapter we have discussed a wide range of problems that can occur in dis‐
 tributed systems, including:
 
@@ -14164,8 +13604,6 @@ there is the possibility that it may occasionally fail, or randomly go slow, or 
 respond at all (and eventually time out). In distributed systems, we try to build toler‐
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 ance of partial failures into software, so that the system as a whole may continue
 functioning even when some of its constituent parts are broken.
@@ -14213,8 +13651,6 @@ have to be stopped and restarted entirely when a component does fail. By contras
 distributed systems can run forever without being interrupted at the service level,
 because all faults and maintenance can be handled at the node level—at least in
 
-Summary
-
 |
 
 theory. (In practice, if a bad configuration change is rolled out to all nodes, that will
@@ -14223,8 +13659,6 @@ still bring a distributed system to its knees.)
 This chapter has been all about problems, and has given us a bleak outlook. In the
 next chapter we will move on to solutions, and discuss some algorithms that have
 been designed to cope with all the problems in distributed systems.
-
-References
 
 [1] Mark Cavage: "There's Just No Getting Around It: You're Building a Distributed
 System," ACM Queue, volume 11, number 4, pages 80-89, April 2013. doi:
@@ -14267,8 +13701,6 @@ August 2015. doi:10.1145/2785956.2787508
 wood.blogspot.co.uk, May 16, 2014.
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 [11] John von Neumann: "Probabilistic Logics and the Synthesis of Reliable Organ‐
 isms from Unreliable Components," in Automata Studies (AM-34), edited by Claude
@@ -14320,8 +13752,6 @@ pages 277–288, November 1984. doi:10.1145/357401.357402
 [25] Matthew P. Grosvenor, Malte Schwarzkopf, Ionel Gog, et al.: "Queues Don't
 Matter When You Can JUMP Them!," at 12th USENIX Symposium on Networked
 Systems Design and Implementation (NSDI), May 2015.
-
-Summary
 
 |
 
@@ -14378,8 +13808,6 @@ ran.blogspot.co.uk, September 17, 2015.
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 [41] James C. Corbett, Jeffrey Dean, Michael Epstein, et al.: "Spanner: Google's
 Globally-Distributed Database," at 10th USENIX Symposium on Operating System
 Design and Implementation (OSDI), October 2012.
@@ -14427,8 +13855,6 @@ September 2015.
 tributed Systems," basho.com, November 12, 2013.
 
 [55] Kyle Kingsbury: "The Trouble with Timestamps," aphyr.com, October 12, 2013.
-
-Summary
 
 |
 
@@ -14482,8 +13908,6 @@ by Background IO Traffic," engineering.linkedin.com, February 10, 2016.
 
 |
 
-Chapter 8: The Trouble with Distributed Systems
-
 [70] David Terei and Amit Levy: "Blade: A Data Center Garbage Collector," arXiv:
 1504.02578, April 13, 2015.
 
@@ -14534,8 +13958,6 @@ Technical Report CS-TR-14-01, April 2014.
 
 [85] Evan Gilman: "The Discovery of Apache ZooKeeper's Poison Packet," pagerd‐
 uty.com, May 7, 2015.
-
-Summary
 
 |
 
@@ -14597,8 +14019,6 @@ COST?," at 15th USENIX Workshop on Hot Topics in Operating Systems (HotOS),
 May 2015.
 
 |
-
-Chapter 8: The Trouble with Distributed Systems
 
 CHAPTER 9
 Consistency and Consensus
@@ -14756,8 +14176,6 @@ example of a system that is not linearizable.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 -1 shows an example of a nonlinearizable sports website [9]. Alice and Bob
 are sitting in the same room, both checking their phones to see the outcome of the
 2014 FIFA World Cup final. Just after the final score is announced, Alice refreshes
@@ -14790,8 +14208,6 @@ For simplicity, -2 shows only the requests from the clients' point of view, not
 the internals of the database. Each bar is a request made by a client, where the start of
 a bar is the time when the request was sent, and the end of a bar is when the response
 was received by the client. Due to variable network delays, a client doesn't know
-
-Linearizability
 
 |
 
@@ -14847,8 +14263,6 @@ known as a regular register [7, 25].
 
 |
 
-Chapter 9: Consistency and Consensus
-
 To make the system linearizable, we need to add another constraint, illustrated in
 -3.
 
@@ -14886,8 +14300,6 @@ writes for a register (every read must return the value set by the most recent w
 The requirement of linearizability is that the lines joining up the operation markers
 always move forward in time (from left to right), never backward. This requirement
 
-Linearizability
-
 |
 
 ensures the recency guarantee we discussed earlier: once a new value has been written
@@ -14924,8 +14336,6 @@ concurrent with C's cas write, which updates x from 2 to 4. In the absence of
 
 |
 
-Chapter 9: Consistency and Consensus
-
 other requests, it would be okay for B's read to return 2. However, client A has
 already read the new value 4 before B's read started, so B is not allowed to read
 an older value than A. Again, it's the same situation as with Alice and Bob in
@@ -14942,8 +14352,6 @@ as both words seem to mean something like "can be arranged in a sequential order
 However, they are two quite different guarantees, and it is important to distinguish
 between them:
 
-Serializability
-
 Serializability is an isolation property of transactions, where every transaction
 may read and write multiple objects (rows, documents, records)—see "Single-
 Object and Multi-Object Operations" on page 228. It guarantees that transac‐
@@ -14951,8 +14359,6 @@ tions behave the same as if they had executed in some serial order (each
 transaction running to completion before the next transaction starts). It is okay
 for that serial order to be different from the order in which transactions were
 actually run [12].
-
-Linearizability
 
 Linearizability is a recency guarantee on reads and writes of a register (an indi‐
 vidual object). It doesn't group operations together into transactions, so it does
@@ -14971,8 +14377,6 @@ on page 261) is not linearizable: by design, it makes reads from a consistent sn
 to avoid lock contention between readers and writers. The whole point of a consistent
 snapshot is that it does not include writes that are more recent than the snapshot, and
 thus reads from the snapshot are not linearizable.
-
-Linearizability
 
 |
 
@@ -15022,8 +14426,6 @@ izable storage using total order broadcast" on page 350.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 This situation is actually similar to a lock: when a user registers for your service, you
 can think of them acquiring a "lock" on their chosen username. The operation is also
 very similar to an atomic compare-and-set, setting the username to the ID of the user
@@ -15066,8 +14468,6 @@ sage brokers are designed for small messages, and a photo may be several megabyt
 in size. Instead, the photo is first written to a file storage service, and once the write is
 complete, the instruction to the resizer is placed on the queue.
 
-Linearizability
-
 |
 
 -5. The web server and image resizer communicate both through file storage
@@ -15104,8 +14504,6 @@ ate faults: if the node holding that one copy failed, the data would be lost, or
 inaccessible until the node was brought up again.
 
 |
-
-Chapter 9: Consistency and Consensus
 
 The most common approach to making a system fault-tolerant is to use replication.
 Let's revisit the replication methods from Chapter 5, and compare whether they can
@@ -15155,8 +14553,6 @@ iv. Partitioning (sharding) a single-leader database, so that there is a separat
 affect linearizability, since it is only a single-object guarantee. Cross-partition transactions are a different mat‐
 ter (see "Distributed Transactions and Consensus" on page 352).
 
-Linearizability
-
 |
 
 configuration of the quorums, and depending on how you define strong consis‐
@@ -15189,8 +14585,6 @@ arizable: B's request begins after A's request completes, but B returns the old 
 
 |
 
-Chapter 9: Consistency and Consensus
-
 while A returns the new value. (It's once again the Alice and Bob situation from
 -1.)
 
@@ -15219,8 +14613,6 @@ such a deployment is illustrated in -7.
 
 -7. A network interruption forcing a choice between linearizability and availa‐
 bility.
-
-Linearizability
 
 |
 
@@ -15271,8 +14663,6 @@ has several flaws [9], so it is best avoided.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Thus, applications that don't require linearizability can be more tolerant of network
 problems. This insight is popularly known as the CAP theorem [29, 30, 31, 32],
 named by Eric Brewer in 2000, although the trade-off has been known to designers of
@@ -15315,8 +14705,6 @@ vi. As discussed in "Network Faults in Practice" on page 279, this book uses par
 ately breaking down a large dataset into smaller ones (sharding; see Chapter 6). By contrast, a network parti‐
 tion is a particular type of network fault, which we normally don't consider separately from other kinds of
 faults. However, since it's the P in CAP, we can't avoid the confusion in this case.
-
-Linearizability
 
 |
 
@@ -15367,8 +14755,6 @@ cuss some approaches for avoiding linearizability without sacrificing correctnes
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Ordering Guarantees
 We said previously that a linearizable register behaves as if there is only a single copy
 of the data, and that every operation appears to take effect atomically at one point in
@@ -15412,8 +14798,6 @@ cause and effect: if a question is answered, then clearly the question had to be
 there first, because the person giving the answer must have seen the question
 (assuming they are not psychic and cannot see into the future). We say that there
 is a causal dependency between the question and the answer.
-
-Ordering Guarantees
 
 |
 
@@ -15465,8 +14849,6 @@ causal order in the system—i.e., what happened before what.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 If a system obeys the ordering imposed by causality, we say that it is causally consis‐
 tent. For example, snapshot isolation provides causal consistency: when you read
 from the database, and you see some piece of data, then you must also be able to see
@@ -15487,8 +14869,6 @@ other cases they are incomparable.
 
 The difference between a total order and a partial order is reflected in different data‐
 base consistency models:
-
-Linearizability
 
 In a linearizable system, we have a total order of operations: if the system behaves
 as if there is only a single copy of the data, and every operation is atomic, this
@@ -15515,8 +14895,6 @@ case, operations on different branches are incomparable (i.e., concurrent). We s
 this phenomenon in Chapter 5: for example, -14 is not a straight-line total
 order, but rather a jumble of different operations going on concurrently. The arrows
 in the diagram indicate causal dependencies—the partial ordering of operations.
-
-Ordering Guarantees
 
 |
 
@@ -15568,8 +14946,6 @@ tain causal consistency here, but just briefly explore some of the key ideas.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 In order to maintain causality, you need to know which operation happened before
 which other operation. This is a partial order: concurrent operations may be pro‐
 cessed in any order, but if one operation happened before another, then they must be
@@ -15612,8 +14988,6 @@ which have many problems, as discussed in "Unreliable Clocks" on page 287). It c
 instead come from a logical clock, which is an algorithm to generate a sequence of
 numbers to identify operations, typically using counters that are incremented for
 every operation.
-
-Ordering Guarantees
 
 |
 
@@ -15665,8 +15039,6 @@ actually happened first, or whether the operations were concurrent.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 the block from 1,001 to 2,000. Then each node can independently assign
 sequence numbers from its block, and allocate a new block when its supply of
 sequence numbers begins to run low.
@@ -15712,8 +15084,6 @@ global snapshots" on page 294 we discussed Google's Spanner, which estimates the
 waits out the uncertainty interval before committing a write. This method ensures that a causally later trans‐
 action is given a greater timestamp. However, most clocks cannot provide the required uncertainty metric.
 
-Ordering Guarantees
-
 |
 
 nodes may sometimes have the same counter value, but by including the node ID in
@@ -15750,8 +15120,6 @@ are concurrent or whether one is causally dependent on the other, whereas Lampor
 timestamps always enforce a total ordering. From the total ordering of Lamport time‐
 
 |
-
-Chapter 9: Consistency and Consensus
 
 stamps, you cannot tell whether two operations are concurrent or whether they are
 causally dependent. The advantage of Lamport timestamps over version vectors is
@@ -15799,8 +15167,6 @@ names, it's not sufficient to have a total ordering of operations—you also nee
 know when that order is finalized. If you have an operation to create a username, and
 you are sure that no other node can insert a claim for the same username ahead of
 your operation in the total order, then you can safely declare the operation successful.
-
-Ordering Guarantees
 
 |
 
@@ -15853,8 +15219,6 @@ total order multicast is another synonym.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 course, messages will not be delivered while the network is interrupted, but an algo‐
 rithm can keep retrying so that the messages get through when the network is even‐
 tually repaired (and then they must still be delivered in the correct order).
@@ -15893,8 +15257,6 @@ is appended as a message to the log, and all messages are sequentially numbered 
 the order they appear in the log. The sequence number can then serve as a fencing
 token, because it is monotonically increasing. In ZooKeeper, this sequence number is
 called zxid [15].
-
-Ordering Guarantees
 
 |
 
@@ -15949,8 +15311,6 @@ ble nor sequentially consistent.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Because log entries are delivered to all nodes in the same order, if there are several
 concurrent writes, all nodes will agree on which one came first. Choosing the first of
 the conflicting writes as the winner and aborting later ones ensures that all nodes
@@ -15997,8 +15357,6 @@ Note that unlike Lamport timestamps, the numbers you get from incrementing the
 linearizable register form a sequence with no gaps. Thus, if a node has delivered mes‐
 sage 4 and receives an incoming message with a sequence number of 6, it knows that
 it must wait for message 5 before it can deliver message 6. The same is not the case
-
-Ordering Guarantees
 
 |
 
@@ -16049,8 +15407,6 @@ and their data would diverge, leading to inconsistency and data loss.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Atomic commit
 
 In a database that supports transactions spanning several nodes or partitions, we
@@ -16093,8 +15449,6 @@ if all participants vote to commit, and must abort if any participant needs to a
 decide on any value that is proposed by one of the participants. However, atomic commit and consensus are
 reducible to each other [70, 71]. Nonblocking atomic commit is harder than consensus—see "Three-phase
 commit" on page 359.
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16144,8 +15498,6 @@ and independently commit the transaction on each one. In doing so, it could easi
 
 |
 
-Chapter 9: Consistency and Consensus
-
 happen that the commit succeeds on some nodes and fails on other nodes, which
 would violate the atomicity guarantee:
 
@@ -16194,8 +15546,6 @@ The basic flow of 2PC is illustrated in -9. Instead of a single commit request,
 as with a single-node transaction, the commit/abort process in 2PC is split into two
 phases (hence the name).
 
-Distributed Transactions and Consensus
-
 |
 
 -9. A successful execution of two-phase commit (2PC).
@@ -16235,8 +15585,6 @@ the minister asks the bride and groom individually whether each wants to marry t
 other, and typically receives the answer "I do" from both. After receiving both
 
 |
-
-Chapter 9: Consistency and Consensus
 
 acknowledgments, the minister pronounces the couple husband and wife: the trans‐
 action is committed, and the happy fact is broadcast to all attendees. If either bride or
@@ -16287,8 +15635,6 @@ must retry forever until it succeeds. There is no more going back: if the decisi
 was to commit, that decision must be enforced, no matter how many retries it
 takes. If a participant has crashed in the meantime, the transaction will be com‐
 
-Distributed Transactions and Consensus
-
 |
 
 mitted when it recovers—since the participant voted "yes," it cannot refuse to
@@ -16335,8 +15681,6 @@ because another participant may have aborted.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 -10. The coordinator crashes after participants vote "yes." Database 1 does not
 know whether to commit or abort.
 
@@ -16370,8 +15714,6 @@ i.e., a reliable mechanism for telling whether a node has crashed or not. In a n
 with unbounded delay a timeout is not a reliable failure detector, because a request
 may time out due to a network problem even if no node has crashed. For this reason,
 2PC continues to be used, despite the known problem with coordinator failure.
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16424,8 +15766,6 @@ as processed if and only if the database transaction for processing the message 
 
 |
 
-Chapter 9: Consistency and Consensus
-
 successfully committed. This is implemented by atomically committing the message
 acknowledgment and the database writes in a single transaction. With distributed
 transaction support, this is possible, even if the message broker and the database are
@@ -16469,8 +15809,6 @@ that means it calls the XA API to find out whether an operation should be part o
 distributed transaction—and if so, it sends the necessary information to the database
 server. The driver also exposes callbacks through which the coordinator can ask the
 participant to prepare, commit, or abort.
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16519,8 +15857,6 @@ tion to become unavailable until the in-doubt transaction is resolved.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Recovering from coordinator failure
 
 In theory, if the coordinator crashes and is restarted, it should cleanly recover its state
@@ -16568,8 +15904,6 @@ rudimentary replication support.
 • Many server-side applications are developed in a stateless model (as favored by
 HTTP), with all persistent state stored in a database, which has the advantage
 
-Distributed Transactions and Consensus
-
 |
 
 that application servers can be added and removed at will. However, when the
@@ -16614,8 +15948,6 @@ seat, each node handling a customer request may propose the ID of the customer i
 serving, and the decision indicates which one of those customers got the seat.
 
 |
-
-Chapter 9: Consistency and Consensus
 
 In this formalism, a consensus algorithm must satisfy the following properties [25]:xiii
 
@@ -16665,8 +15997,6 @@ does not meet the requirements for termination.
 xiii. This particular variant of consensus is called uniform consensus, which is equivalent to regular consensus
 in asynchronous systems with unreliable failure detectors [71]. The academic literature usually refers to pro‐
 cesses rather than nodes, but we use nodes here for consistency with the rest of this book.
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16718,8 +16048,6 @@ sus decision corresponding to one message delivery):
 
 |
 
-Chapter 9: Consistency and Consensus
-
 • Due to the agreement property of consensus, all nodes decide to deliver the same
 
 messages in the same order.
@@ -16767,8 +16095,6 @@ tion requires a leader, then…
 
 It seems that in order to elect a leader, we first need a leader. In order to solve con‐
 sensus, we must first solve consensus. How do we break out of this conundrum?
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16820,8 +16146,6 @@ correctness and fault tolerance of a consensus algorithm.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Limitations of consensus
 
 Consensus algorithms are a huge breakthrough for distributed systems: they bring
@@ -16868,8 +16192,6 @@ two nodes, or the current leader is continually forced to resign, so the system 
 tively never makes progress. Other consensus algorithms have similar problems, and
 designing algorithms that are more robust to unreliable networks is still an open
 research problem.
-
-Distributed Transactions and Consensus
 
 |
 
@@ -16921,8 +16243,6 @@ monotonically increasing transaction ID (zxid) and version number (cversion)
 
 |
 
-Chapter 9: Consistency and Consensus
-
 Failure detection
 
 Clients maintain a long-lived session on ZooKeeper servers, and the client and
@@ -16968,8 +16288,6 @@ not easy, despite the appearance of libraries such as Apache Curator [17] that h
 sprung up to provide higher-level tools on top of the ZooKeeper client API—but it is
 still much better than attempting to implement the necessary consensus algorithms
 from scratch, which has a poor success record [107].
-
-Distributed Transactions and Consensus
 
 |
 
@@ -17021,8 +16339,6 @@ highly reliable systems, e.g., for air traffic control [110].
 
 |
 
-Chapter 9: Consistency and Consensus
-
 A membership service determines which nodes are currently active and live members
 of a cluster. As we saw throughout Chapter 8, due to unbounded network delays it's
 not possible to reliably detect whether another node has failed. However, if you cou‐
@@ -17036,7 +16352,6 @@ leader could mean simply choosing the lowest-numbered among the current mem‐
 bers, but this approach would not work if different nodes have divergent opinions on
 who the current members are.
 
-Summary
 In this chapter we examined the topics of consistency and consensus from several dif‐
 ferent angles. We looked in depth at linearizability, a popular consistency model: its
 goal is to make replicated data appear as though there were only a single copy, and to
@@ -17065,8 +16380,6 @@ some digging, it turns out that a wide range of problems are actually reducible 
 consensus and are equivalent to each other (in the sense that if you have a solution
 for one of them, you can easily transform it into a solution for one of the others).
 Such equivalent problems include:
-
-Summary
 
 |
 
@@ -17122,8 +16435,6 @@ humans can act, which is generally slower than computers.
 
 |
 
-Chapter 9: Consistency and Consensus
-
 3. Use an algorithm to automatically choose a new leader. This approach requires a
 consensus algorithm, and it is advisable to use a proven algorithm that correctly
 handles adverse network conditions [107].
@@ -17163,13 +16474,9 @@ that we have laid a firm foundation of theory, in Part III we will turn once aga
 more practical systems, and discuss how to build powerful applications from hetero‐
 geneous building blocks.
 
-References
-
 [1] Peter Bailis and Ali Ghodsi: "Eventual Consistency Today: Limitations, Exten‐
 sions, and Beyond," ACM Queue, volume 11, number 3, pages 55-63, March 2013.
 doi:10.1145/2460276.2462076
-
-Summary
 
 |
 
@@ -17227,8 +16534,6 @@ nation. O'Reilly Media, 2013. ISBN: 978-1-449-36130-3
 
 |
 
-Chapter 9: Consistency and Consensus
-
 [17] "Apache Curator," Apache Software Foundation, curator.apache.org, 2015.
 
 [18] Morali Vallath: Oracle 10g RAC Grid, Services & Clustering. Elsevier Digital
@@ -17275,8 +16580,6 @@ January 1991. doi:10.1145/114005.102808
 [29] Armando Fox and Eric A. Brewer: "Harvest, Yield, and Scalable Tolerant Sys‐
 tems," at 7th Workshop on Hot Topics in Operating Systems (HotOS), March 1999.
 doi:10.1109/HOTOS.1999.798396
-
-Summary
 
 |
 
@@ -17330,8 +16633,6 @@ ble Programmer's Model for x86 Multiprocessors," Communications of the ACM,
 volume 53, number 7, pages 89–97, July 2010. doi:10.1145/1785414.1785443
 
 |
-
-Chapter 9: Consistency and Consensus
 
 [44] Martin
 sympathy.blogspot.co.uk, July 24, 2011.
@@ -17390,8 +16691,6 @@ Systems (DAIS), June 2015. doi:10.1007/978-3-319-19129-4_6
 tem," Communications of the ACM, volume 21, number 7, pages 558–565, July 1978.
 doi:10.1145/359545.359563
 
-Summary
-
 |
 
 [57] Xavier Défago, André Schiper, and Péter Urbán: "Total Order Broadcast and
@@ -17443,8 +16742,6 @@ ber 2, pages 374–382, April 1985. doi:10.1145/3149.214121
 
 |
 
-Chapter 9: Consistency and Consensus
-
 [69] Michael Ben-Or: "Another Advantage of Free Choice: Completely Asynchro‐
 nous Agreement Protocols," at 2nd ACM Symposium on Principles of Distributed
 Computing (PODC), August 1983. doi:10.1145/800221.806707
@@ -17493,8 +16790,6 @@ on Management of Data (SIGMOD), April 1981. doi:10.1145/582318.582339
 
 [81] Gregor Hohpe: "Your Coffee Shop Doesn't Use Two-Phase Commit," IEEE Soft‐
 ware, volume 22, number 2, pages 64–66, March 2005. doi:10.1109/MS.2005.52
-
-Summary
 
 |
 
@@ -17549,8 +16844,6 @@ Systems, volume 16, number 2, pages 133–169, May 1998. doi:10.1145/279227.2792
 
 |
 
-Chapter 9: Consistency and Consensus
-
 [97] Leslie Lamport: "Paxos Made Simple," ACM SIGACT News, volume 32, number
 4, pages 51–58, December 2001.
 
@@ -17597,8 +16890,6 @@ Conference, Budapest, Hungary, April 2015.
 [110] Kenneth P. Birman: "A History of the Virtual Synchrony Replication Model,"
 in Replication: Theory and Practice, Springer LNCS volume 5959, chapter 6, pages
 91–120, 2010. ISBN: 978-3-642-11293-5, doi:10.1007/978-3-642-11294-2_6
-
-Summary
 
 |
 
@@ -17852,8 +17143,6 @@ same thing. For example, in Ruby, it might look something like this:
 
 |
 
-Chapter 10: Batch Processing
-
 counts = Hash.new(0)
 
 File.open('/var/log/nginx/access.log') do |file|
@@ -17953,8 +17242,6 @@ has changed in four decades.
 
 |
 
-Chapter 10: Batch Processing
-
 The sort tool is a great example of a program that does one thing well. It is arguably
 a better sorting implementation than most programming languages have in their
 standard libraries (which do not spill to disk and do not use multiple threads, even
@@ -18051,8 +17338,6 @@ nicating with another part of the operating system or with a program written by 
 
 |
 
-Chapter 10: Batch Processing
-
 However, there are limits to what you can do with stdin and stdout. Programs that
 need multiple inputs or outputs are possible but tricky. You can't pipe a program's
 output into a network connection [17, 18].iii If a program directly opens files for read‐
@@ -18097,8 +17382,6 @@ input and does not have any side effects other than producing the output. The ou
 iii. Except by using a separate tool, such as netcat or curl. Unix started out trying to represent everything as
 files, but the BSD sockets API deviated from that convention [17]. The research operating systems Plan 9 and
 Inferno are more consistent in their use of files: they represent a TCP connection as a file in /net/tcp [18].
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18148,8 +17431,6 @@ order to reconstitute the original file [20].
 
 |
 
-Chapter 10: Batch Processing
-
 HDFS has scaled well: at the time of writing, the biggest HDFS deployments run on
 tens of thousands of machines, with combined storage capacity of hundreds of peta‐
 bytes [23]. Such large scale has become viable because the cost of data storage and
@@ -18198,8 +17479,6 @@ and value from the input record. For each input, it may generate any number of
 key-value pairs (including none). It does not keep any state from one input
 record to the next, so each record is handled independently.
 
-MapReduce and Distributed Filesystems
-
 |
 
 Reducer
@@ -18247,8 +17526,6 @@ network load and increasing locality.
 
 |
 
-Chapter 10: Batch Processing
-
 -1. A MapReduce job with three mappers and three reducers.
 
 In most cases, the application code that should run in the map task is not yet present
@@ -18270,8 +17547,6 @@ formed in stages. First, each map task partitions its output by reducer, based o
 hash of the key. Each of these partitions is written to a sorted file on the mapper's
 local disk, using a technique similar to what we discussed in "SSTables and LSM-
 Trees" on page 76.
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18323,8 +17598,6 @@ tories—have completed successfully. To handle these dependencies between job
 
 |
 
-Chapter 10: Batch Processing
-
 executions, various workflow schedulers for Hadoop have been developed, including
 Oozie, Azkaban, Luigi, Airflow, and Pinball [28].
 
@@ -18368,8 +17641,6 @@ record is associated with other records that have an identical value in a partic
 databases support more general types of joins, for example using a less-than operator instead of an equality
 operator, but we do not have space to cover them here.
 
-MapReduce and Distributed Filesystems
-
 |
 
 When we talk about joins in the context of batch processing, we mean resolving all
@@ -18405,8 +17676,6 @@ base [35].
 
 |
 
-Chapter 10: Batch Processing
-
 In order to achieve good throughput in a batch process, the computation must be (as
 much as possible) local to one machine. Making random-access requests over the
 network for every record you want to process is too slow. Moreover, querying a
@@ -18436,8 +17705,6 @@ When the MapReduce framework partitions the mapper output by key and then sorts
 the key-value pairs, the effect is that all the activity events and the user record with
 the same user ID become adjacent to each other in the reducer input. The Map‐
 Reduce job can even arrange the records to be sorted such that the reducer always
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18489,8 +17756,6 @@ pattern is grouping records by some key (as in the GROUP BY clause in SQL). All
 
 |
 
-Chapter 10: Batch Processing
-
 records with the same key form a group, and the next step is often to perform some
 kind of aggregation within each group—for example:
 
@@ -18540,8 +17805,6 @@ If a join input has hot keys, there are a few algorithms you can use to compensa
 For example, the skewed join method in Pig first runs a sampling job to determine
 which keys are hot [39]. When performing the actual join, the mappers send any
 
-MapReduce and Distributed Filesystems
-
 |
 
 records relating to a hot key to one of several reducers, chosen at random (in contrast
@@ -18588,8 +17851,6 @@ each mapper simply reads one input file block from the distributed filesystem an
 writes one output file to the filesystem—that is all.
 
 |
-
-Chapter 10: Batch Processing
 
 Broadcast hash joins
 
@@ -18638,8 +17899,6 @@ vi. This example assumes that there is exactly one entry for each key in the has
 with a user database (a user ID uniquely identifies a user). In general, the hash table may need to contain
 several entries with the same key, and the join operator will output all matches for a key.
 
-MapReduce and Distributed Filesystems
-
 |
 
 This approach only works if both of the join's inputs have the same number of parti‐
@@ -18685,8 +17944,6 @@ often maintained in HCatalog and the Hive metastore [37].
 
 |
 
-Chapter 10: Batch Processing
-
 The Output of Batch Workflows
 We have talked a lot about the various algorithms for implementing workflows of
 MapReduce jobs, but we neglected an important question: what is the result of all of
@@ -18731,8 +17988,6 @@ process is a very effective way of building the indexes: the mappers partition t
 documents as needed, each reducer builds the index for its partition, and the index
 files are written to the distributed filesystem. Building such document-partitioned
 indexes (see "Partitioning and Secondary Indexes" on page 206) parallelizes very well.
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18785,8 +18040,6 @@ process, that database can easily be overwhelmed, and its performance for quer�
 
 |
 
-Chapter 10: Batch Processing
-
 ies is likely to suffer. This can in turn cause operational problems in other parts
 of the system [35].
 
@@ -18830,8 +18083,6 @@ The handling of output from MapReduce jobs follows the same philosophy. By treat
 ing inputs as immutable and avoiding side effects (such as writing to external data‐
 bases), batch jobs not only achieve good performance but also become much easier to
 maintain:
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18881,8 +18132,6 @@ HDFS is the filesystem and MapReduce is a quirky implementation of a Unix proces
 
 |
 
-Chapter 10: Batch Processing
-
 (which happens to always run the sort utility between the map phase and the reduce
 phase). We saw how you can implement various join and grouping operations on top
 of these primitives.
@@ -18929,8 +18178,6 @@ lake" or "enterprise data hub" [55]).
 Indiscriminate data dumping shifts the burden of interpreting the data: instead of
 forcing the producer of a dataset to bring it into a standardized format, the interpre‐
 tation of the data becomes the consumer's problem (the schema-on-read approach
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -18982,8 +18229,6 @@ more different models were needed! And due to the openness of the Hadoop plat‐
 
 |
 
-Chapter 10: Batch Processing
-
 form, it was feasible to implement a whole range of approaches, which would not
 have been possible within the confines of a monolithic MPP database [58].
 
@@ -19029,8 +18274,6 @@ able trade-off if the rate of task failures is high enough.
 
 But how realistic are these assumptions? In most clusters, machine failures do occur,
 but they are not very frequent—probably rare enough that most jobs will not experi‐
-
-MapReduce and Distributed Filesystems
 
 |
 
@@ -19078,8 +18321,6 @@ design decisions.
 
 |
 
-Chapter 10: Batch Processing
-
 Beyond MapReduce
 Although MapReduce became very popular and received a lot of hype in the late
 2000s, it is just one among many possible programming models for distributed sys‐
@@ -19123,8 +18364,6 @@ start the second job only once the first job has completed.
 
 This setup is reasonable if the output from the first job is a dataset that you want to
 publish widely within your organization. In that case, you need to be able to refer to it
-
-Beyond MapReduce
 
 |
 
@@ -19175,8 +18414,6 @@ cated across several nodes, which is often overkill for such temporary data.
 
 |
 
-Chapter 10: Batch Processing
-
 Dataflow engines
 
 In order to fix these problems with MapReduce, several new execution engines for
@@ -19224,8 +18461,6 @@ change the partitioning of a dataset).
 scheduler has an overview of what data is required where, so it can make locality
 optimizations. For example, it can try to place the task that consumes some data
 on the same machine as the task that produces it, so that the data can be
-
-Beyond MapReduce
 
 |
 
@@ -19279,8 +18514,6 @@ resume running an operator that ran into a fault during its execution [66].
 
 |
 
-Chapter 10: Batch Processing
-
 When recomputing data, it is important to know whether the computation is deter‐
 ministic: that is, given the same input data, do the operators always produce the same
 output? This question matters if some of the lost data has already been sent to down‐
@@ -19324,8 +18557,6 @@ when using a dataflow engine, materialized datasets on HDFS are still usually th
 inputs and the final outputs of a job. Like with MapReduce, the inputs are immutable
 and the output is completely replaced. The improvement over MapReduce is that you
 save yourself writing all the intermediate state to the filesystem as well.
-
-Beyond MapReduce
 
 |
 
@@ -19377,8 +18608,6 @@ round of the batch process.
 
 |
 
-Chapter 10: Batch Processing
-
 This approach works, but implementing it with MapReduce is often very inefficient,
 because MapReduce does not account for the iterative nature of the algorithm: it will
 always read the entire input dataset and produce a completely new output dataset,
@@ -19423,8 +18652,6 @@ sages (see "Unreliable Networks" on page 277), Pregel implementations guarantee
 that messages are processed exactly once at their destination vertex in the following
 iteration. Like MapReduce, the framework transparently recovers from faults in
 order to simplify the programming model for algorithms on top of Pregel.
-
-Beyond MapReduce
 
 |
 
@@ -19475,8 +18702,6 @@ set of problems that these technologies can solve.
 
 |
 
-Chapter 10: Batch Processing
-
 As discussed previously, higher-level languages and APIs such as Hive, Pig, Cascad‐
 ing, and Crunch became popular because programming MapReduce jobs by hand is
 quite laborious. As Tez emerged, these high-level languages had the additional bene‐
@@ -19522,8 +18747,6 @@ from the fully declarative query model of SQL. MapReduce was built around the id
 of function callbacks: for each record or group of records, a user-defined function
 (the mapper or reducer) is called, and that function is free to call arbitrary code in
 order to decide what to output. This approach has the advantage that you can draw
-
-Beyond MapReduce
 
 |
 
@@ -19575,8 +18798,6 @@ database (Apache HAWQ) [54].
 
 |
 
-Chapter 10: Batch Processing
-
 Also useful are spatial algorithms such as k-nearest neighbors [80], which searches for
 items that are close to a given item in some multi-dimensional space—a kind of simi‐
 larity search. Approximate search is also important for genome analysis algorithms,
@@ -19588,7 +18809,6 @@ functionality and high-level declarative operators, and as MPP databases become
 more programmable and flexible, the two are beginning to look more alike: in the
 end, they are all just systems for storing and processing data.
 
-Summary
 In this chapter we explored the topic of batch processing. We started by looking at
 Unix tools such as awk, grep, and sort, and we saw how the design philosophy of
 those tools is carried forward into MapReduce and more recent dataflow engines.
@@ -19623,8 +18843,6 @@ in the failure-free case. Dataflow engines perform less materialization of inter
 mediate state and keep more in memory, which means that they need to recom‐
 pute more data if a node fails. Deterministic operators reduce the amount of data
 that needs to be recomputed.
-
-Summary
 
 |
 
@@ -19680,14 +18898,10 @@ ded—that is, you still have a job, but its inputs are never-ending streams of 
 
 |
 
-Chapter 10: Batch Processing
-
 this case, a job is never complete, because at any time there may still be more work
 coming in. We shall see that stream and batch processing are similar in some
 respects, but the assumption of unbounded streams also changes a lot about how we
 build systems.
-
-References
 
 [1] Jeffrey Dean and Sanjay Ghemawat: "MapReduce: Simplified Data Processing on
 Large Clusters," at 6th USENIX Symposium on Operating System Design and Imple‐
@@ -19732,8 +18946,6 @@ Foreword," The Bell System Technical Journal, volume 57, number 6, pages 1899–
 Delimited Text," ronaldduncan.wordpress.com, October 31, 2009.
 
 [15] Alan Kay: "Is 'Software Engineering' an Oxymoron?," tinlizzie.org.
-
-Summary
 
 |
 
@@ -19789,8 +19001,6 @@ Engineering (ICDE), March 2010. doi:10.1109/ICDE.2010.5447738
 [32] "Cascading 3.0 User Guide," Concurrent, Inc., docs.cascading.org, January 2016.
 
 |
-
-Chapter 10: Batch Processing
 
 [33] "Apache Crunch User Guide," Apache Software Foundation, crunch.apache.org.
 
@@ -19853,8 +19063,6 @@ Technologies (FAST), February 2012.
 [47] Varun Sharma: "Open-Sourcing Terrapin: A Serving System for Batch Gener‐
 ated Data," engineering.pinterest.com, September 14, 2015.
 
-Summary
-
 |
 
 [48] Nathan Marz: "ElephantDB," slideshare.net, May 30, 2011.
@@ -19910,8 +19118,6 @@ Spark. O'Reilly Media, 2015. ISBN: 978-1-449-35904-1
 
 |
 
-Chapter 10: Batch Processing
-
 [63] Bikas Saha and Hitesh Shah: "Apache Tez: Accelerating Hadoop Query Process‐
 ing," at Hadoop Summit, June 2014.
 
@@ -19960,8 +19166,6 @@ May 2015.
 One for All in Data Processing Systems," at 10th European Conference on Computer
 Systems (EuroSys), April 2015. doi:10.1145/2741948.2741968
 
-Summary
-
 |
 
 [75] Aapo Kyrola, Guy Blelloch, and Carlos Guestrin: "GraphChi: Large-Scale Graph
@@ -19989,8 +19193,6 @@ ing.com, March 25, 2016.
 cessing," blog.cloudera.com, April 6, 2016.
 
 |
-
-Chapter 10: Batch Processing
 
 CHAPTER 11
 Stream Processing
@@ -20119,8 +19321,6 @@ sages, buffer messages in a queue, or apply backpressure (also known as flow
 control; i.e., blocking the producer from sending more messages). For example,
 Unix pipes and TCP use backpressure: they have a small fixed-size buffer, and if
 
-Transmitting Event Streams
-
 |
 
 it fills up, the sender is blocked until the recipient takes data out of the buffer (see
@@ -20172,8 +19372,6 @@ the metrics at best approximate [11]. See also "TCP Versus UDP" on page 283.)
 
 |
 
-Chapter 11: Stream Processing
-
 • If the consumer exposes a service on the network, producers can make a direct
 HTTP or RPC request (see "Dataflow Through Services: REST and RPC" on page
 131) to push messages to the consumer. This is the idea behind webhooks [12], a
@@ -20218,8 +19416,6 @@ Message brokers compared to databases
 
 Some message brokers can even participate in two-phase commit protocols using XA
 or JTA (see "Distributed Transactions in Practice" on page 360). This feature makes
-
-Transmitting Event Streams
 
 |
 
@@ -20271,8 +19467,6 @@ subscription.)
 
 |
 
-Chapter 11: Stream Processing
-
 Fan-out
 
 Each message is delivered to all of the consumers. Fan-out allows several inde‐
@@ -20302,8 +19496,6 @@ delivers the message again to another consumer. (Note that it could happen that 
 message actually was fully processed, but the acknowledgment was lost in the net‐
 work. Handling this case requires an atomic commit protocol, as discussed in "Dis‐
 tributed Transactions in Practice" on page 360.)
-
-Transmitting Event Streams
 
 |
 
@@ -20335,8 +19527,6 @@ again after they have been delivered to consumers, because they are built around
 transient messaging mindset.
 
 |
-
-Chapter 11: Stream Processing
 
 Databases and filesystems take the opposite approach: everything that is written to a
 database or file is normally expected to be permanently recorded, at least until some‐
@@ -20384,8 +19574,6 @@ sets). Such a sequence number makes sense because a partition is append-only, so
 messages within a partition are totally ordered. There is no ordering guarantee across
 different partitions.
 
-Transmitting Event Streams
-
 |
 
 -3. Producers send messages by appending them to a topic-partition file, and
@@ -20411,8 +19599,6 @@ Typically, when a consumer has been assigned a log partition, it reads the messa
 the partition sequentially, in a straightforward single-threaded manner. This coarsegrained load balancing approach has some downsides:
 
 |
-
-Chapter 11: Stream Processing
 
 • The number of nodes sharing the work of consuming a topic can be at most the
 number of log partitions in that topic, because messages within the same parti‐
@@ -20457,8 +19643,6 @@ tition by having both read the full set of messages, but one of them only consid
 message processing over a thread pool, but that approach complicates consumer offset management. In gen‐
 eral, single-threaded processing of a partition is preferable, and parallelism can be increased by using more
 partitions.
-
-Transmitting Event Streams
 
 |
 
@@ -20509,8 +19693,6 @@ messages.
 
 |
 
-Chapter 11: Stream Processing
-
 Even if a consumer does fall too far behind and starts missing messages, only that
 consumer is affected; it does not disrupt the service for other consumers. This fact is
 a big operational advantage: you can experimentally consume a production log for
@@ -20555,8 +19737,6 @@ We said previously that an event is a record of something that happened at some
 point in time. The thing that happened may be a user action (e.g., typing a search
 query), or a sensor reading, but it may also be a write to a database. The fact that
 something was written to a database is an event that can be captured, stored, and pro‐
-
-Databases and Streams
 
 |
 
@@ -20608,8 +19788,6 @@ illustrated in -4. In this example, two clients concurrently want to update an
 
 |
 
-Chapter 11: Stream Processing
-
 item X: client 1 wants to set the value to A, and client 2 wants to set it to B. Both
 clients first write the new value to the database, then write it to the search index. Due
 to unlucky timing, the requests are interleaved: the database first sees the write from
@@ -20642,8 +19820,6 @@ the other, and so conflicts can occur (see "Multi-Leader Replication" on page 16
 The situation would be better if there really was only one leader—for example, the
 database—and if we could make the search index a follower of the database. But is
 this possible in practice?
-
-Databases and Streams
 
 |
 
@@ -20681,8 +19857,6 @@ ensuring that all changes made to the system of record are also reflected in the
 derived data systems so that the derived systems have an accurate copy of the data.
 
 |
-
-Chapter 11: Stream Processing
 
 Essentially, change data capture makes one database the leader (the one from which
 the changes are captured), and turns the others into followers. A log-based message
@@ -20726,8 +19900,6 @@ The snapshot of the database must correspond to a known position or offset in th
 change log, so that you know at which point to start applying changes after the snap‐
 shot has been processed. Some CDC tools integrate this snapshot facility, while oth‐
 ers leave it as a manual operation.
-
-Databases and Streams
 
 |
 
@@ -20780,8 +19952,6 @@ of a stream [40]. The database represents an output stream in the relational dat
 
 |
 
-Chapter 11: Stream Processing
-
 model as a table into which transactions can insert tuples, but which cannot be quer‐
 ied. The stream then consists of the log of tuples that committed transactions have
 written to this special table, in the order they were committed. External consumers
@@ -20825,8 +19995,6 @@ For example, storing the event "student cancelled their course enrollment" clear
 expresses the intent of a single action in a neutral fashion, whereas the side effects
 "one entry was deleted from the enrollments table, and one cancellation reason was
 added to the student feedback table" embed a lot of assumptions about the way the
-
-Databases and Streams
 
 |
 
@@ -20879,8 +20047,6 @@ We discuss this assumption in "Limitations of immutability" on page 463.
 
 |
 
-Chapter 11: Stream Processing
-
 Commands and events
 
 The event sourcing philosophy is careful to distinguish between events and com‐
@@ -20924,8 +20090,6 @@ We normally think of databases as storing the current state of the application�
 representation is optimized for reads, and it is usually the most convenient for serv‐
 ing queries. The nature of state is that it changes, so databases support updating and
 deleting data as well as inserting it. How does this fit with immutability?
-
-Databases and Streams
 
 |
 
@@ -20972,8 +20136,6 @@ immutability for centuries in financial bookkeeping. When a transaction occurs, 
 
 |
 
-Chapter 11: Stream Processing
-
 recorded in an append-only ledger, which is essentially a log of events describing
 money, goods, or services that have changed hands. The accounts, such as profit and
 loss or the balance sheet, are derived from the transactions in the ledger by adding
@@ -21019,8 +20181,6 @@ Having an explicit translation step from an event log to a database makes it eas
 evolve your application over time: if you want to introduce a new feature that
 presents your existing data in some new way, you can use the event log to build a
 separate read-optimized view for the new feature, and run it alongside the existing
-
-Databases and Streams
 
 |
 
@@ -21073,8 +20233,6 @@ aspects of concurrency control. Much of the need for multi-object transactions (
 
 |
 
-Chapter 11: Stream Processing
-
 action requiring data to be changed in several different places. With event sourcing,
 you can design an event such that it is a self-contained description of a user action.
 The user action then requires only a single write in one place—namely appending the
@@ -21121,8 +20279,6 @@ Truly deleting data is surprisingly hard [64], since copies can live in many pla
 example, storage engines, filesystems, and SSDs often write to a new location rather
 than overwriting in place [52], and backups are often deliberately immutable to pre‐
 vent accidental deletion or corruption. Deletion is more a matter of "making it harder
-
-Databases and Streams
 
 |
 
@@ -21174,8 +20330,6 @@ and Grouping" on page 403) cannot be used. Fault-tolerance mechanisms must also
 
 |
 
-Chapter 11: Stream Processing
-
 change: with a batch job that has been running for a few minutes, a failed task can
 simply be restarted from the beginning, but with a stream job that has been running
 for several years, restarting from the beginning after a crash may not be a viable
@@ -21226,8 +20380,6 @@ and then forgets about the query when it has finished. CEP engines reverse these
 roles: queries are stored long-term, and events from the input streams continuously
 flow past them in search of a query that matches an event pattern [68].
 
-Processing Streams
-
 |
 
 Implementations of CEP include Esper [69], IBM InfoSphere Streams [70], Apama,
@@ -21276,8 +20428,6 @@ Stream Analytics.
 
 |
 
-Chapter 11: Stream Processing
-
 Maintaining materialized views
 
 We saw in "Databases and Streams" on page 451 that a stream of changes to a data‐
@@ -21324,8 +20474,6 @@ you can test every document against every query, although this can get slow if y
 have a large number of queries. To optimize the process, it is possible to index the
 queries as well as the documents, and thus narrow down the set of queries that may
 match [77].
-
-Processing Streams
 
 |
 
@@ -21379,8 +20527,6 @@ cessing. Moreover, using the timestamps in the events allows the processing to b
 
 |
 
-Chapter 11: Stream Processing
-
 deterministic: running the same process again on the same input yields the same
 result (see "Fault tolerance" on page 422).
 
@@ -21426,8 +20572,6 @@ was steady (-7).
 
 ii. Thank you to Kostas Kloudas from the Flink community for coming up with this analogy.
 
-Processing Streams
-
 |
 
 -7. Windowing by processing time introduces artifacts due to variations in
@@ -21461,8 +20605,6 @@ and alert if you start dropping a significant amount of data.
 You may also need to retract the previous output.
 
 |
-
-Chapter 11: Stream Processing
 
 In some cases it is possible to use a special message to indicate, "From now on there
 will be no more messages with a timestamp earlier than t," which can be used by con‐
@@ -21508,8 +20650,6 @@ occurred and the time it was sent to the server).
 This problem is not unique to stream processing—batch processing suffers from
 exactly the same issues of reasoning about time. It is just more noticeable in a stream‐
 ing context, where we are more aware of the passage of time.
-
-Processing Streams
 
 |
 
@@ -21563,8 +20703,6 @@ joins form an important part of data pipelines. Since stream processing generali
 
 |
 
-Chapter 11: Stream Processing
-
 data pipelines to incremental processing of unbounded datasets, there is exactly the
 same need for joins on streams.
 
@@ -21611,8 +20749,6 @@ In "Example: analysis of user activity events" on page 404 (-2) we saw an
 example of a batch job joining two datasets: a set of user activity events and a data‐
 base of user profiles. It is natural to think of the user activity events as a stream, and
 to perform the same join on a continuous basis in a stream processor: the input is a
-
-Processing Streams
 
 |
 
@@ -21665,8 +20801,6 @@ following u.
 
 |
 
-Chapter 11: Stream Processing
-
 • When a user deletes a tweet, it is removed from all users' timelines.
 
 • When user u1 starts following user u2, recent tweets by u2 are added to u1's
@@ -21716,8 +20850,6 @@ tables u·v, something interesting happens: the stream of changes to the materia
 rule (u·v)′ = u′v + uv′. In words: any change of tweets is joined with the current followers, and any change of
 followers is joined with the current tweets [49, 50].
 
-Processing Streams
-
 |
 
 profile update)? Put another way: if state changes over time, and you join with some
@@ -21764,8 +20896,6 @@ an option, because a stream is infinite and so you can never finish processing i
 
 |
 
-Chapter 11: Stream Processing
-
 Microbatching and checkpointing
 
 One solution is to break the stream into small blocks, and treat each block like a min‐
@@ -21811,8 +20941,6 @@ text of distributed transactions and two-phase commit.
 In Chapter 9 we discussed the problems in the traditional implementations of dis‐
 tributed transactions, such as XA. However, in more restricted environments it is
 possible to implement such an atomic commit facility efficiently. This approach is
-
-Processing Streams
 
 |
 
@@ -21865,8 +20993,6 @@ to query a remote database for each individual message can be slow, as discussed
 
 |
 
-Chapter 11: Stream Processing
-
 "Stream-table join (stream enrichment)" on page 473. An alternative is to keep state
 local to the stream processor, and replicate it periodically. Then, when the stream
 processor is recovering from a failure, the new task can read the replicated state and
@@ -21891,7 +21017,6 @@ access latency, and network bandwidth may be comparable to disk bandwidth. There
 is no universally ideal trade-off for all situations, and the merits of local versus
 remote state may also shift as storage and networking technologies evolve.
 
-Summary
 In this chapter we have discussed event streams, what purposes they serve, and how
 to process them. In some ways, stream processing is very much like the batch pro‐
 cessing we discussed in Chapter 10, but done continuously on unbounded (neverending) streams rather than on a fixed-size input. From this perspective, message
@@ -21908,8 +21033,6 @@ appropriate as an asynchronous form of RPC (see also "Message-Passing Data‐
 flow" on page 136), for example in a task queue, where the exact order of mes‐
 sage processing is not important and where there is no need to go back and read
 old messages again after they have been processed.
-
-Summary
 
 |
 
@@ -21963,8 +21086,6 @@ match two actions taken by the same user within 30 minutes of each other. The
 
 |
 
-Chapter 11: Stream Processing
-
 two join inputs may in fact be the same stream (a self-join) if you want to find
 related events within that one stream.
 
@@ -21987,8 +21108,6 @@ partial output of any failed tasks. However, since a stream process is long-runn
 and produces output continuously, we can't simply discard all output. Instead, a
 finer-grained recovery mechanism can be used, based on microbatching, checkpoint‐
 ing, transactions, or idempotent writes.
-
-References
 
 [1] Tyler Akidau, Robert Bradshaw, Craig Chambers, et al.: "The Dataflow Model: A
 Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale,
@@ -22015,8 +21134,6 @@ New Class of Data Management Applications," at 28th International Conference on
 Very Large Data Bases (VLDB), August 2002.
 
 [6] Matthew Sackman: "Pushing Back," lshift.net, May 5, 2016.
-
-Summary
 
 |
 
@@ -22074,8 +21191,6 @@ Time Data's Unifying Abstraction," engineering.linkedin.com, December 16, 2013.
 
 |
 
-Chapter 11: Stream Processing
-
 [25] Shirshanka Das, Chavdar Botev, Kapil Surlaker, et al.: "All Aboard the Data‐
 bus!," at 3rd ACM Symposium on Cloud Computing (SoCC), October 2012.
 
@@ -22127,8 +21242,6 @@ Latency Data Pipelines," confluent.io, February 18, 2016.
 [42] Greg Young: "CQRS and Event Sourcing," at Code on the Beach, August 2014.
 
 [43] Martin Fowler: "Event Sourcing," martinfowler.com, December 12, 2005.
-
-Summary
 
 |
 
@@ -22184,8 +21297,6 @@ December 28, 2013.
 
 |
 
-Chapter 11: Stream Processing
-
 [61] Daniel Eloff, Slava Akhmechet, Jay Kreps, et al.: "Re: Turning the Database
 Inside-out with Apache Samza," Hacker News discussion, news.ycombinator.com,
 March 4, 2015.
@@ -22237,8 +21348,6 @@ oreilly.com, July 31, 2014.
 
 [77] Alan Woodward and Martin Kleppmann: "Real-Time Full-Text Search with
 Luwak and Samza," martin.kleppmann.com, April 13, 2015.
-
-Summary
 
 |
 
@@ -22296,8 +21405,6 @@ August 5, 2015.
 
 |
 
-Chapter 11: Stream Processing
-
 [93] Paris Carbone, Gyula Fóra, Stephan Ewen, et al.: "Lightweight Asynchronous
 Snapshots for Distributed Dataflows," arXiv:1506.08603 [cs.DC], June 29, 2015.
 
@@ -22324,8 +21431,6 @@ puting Surveys, volume 34, number 3, pages 375–408, September 2002. doi:
 
 [100] Adam Warski: "Kafka Streams – How Does It Fit the Stream Processing Land‐
 scape?," softwaremill.com, June 1, 2016.
-
-Summary
 
 |
 
@@ -22452,8 +21557,6 @@ machine replication approach that we saw in "Total Order Broadcast" on page 348.
 Whether you use change data capture or an event sourcing log is less important than
 simply the principle of deciding on a total order.
 
-Data Integration
-
 |
 
 Updating a derived data system based on an event log can often be made determinis‐
@@ -22501,8 +21604,6 @@ toward a middle ground between distributed transactions and asynchronous logbase
 
 |
 
-Chapter 12: The Future of Data Systems
-
 The limits of total ordering
 
 With systems that are small enough, constructing a totally ordered event log is
@@ -22549,8 +21650,6 @@ In cases where there is no causal link between events, the lack of a total order
 big problem, since concurrent events can be ordered arbitrarily. Some other cases are
 easy to handle: for example, when there are multiple updates of the same object, they
 can be totally ordered by routing all updates for a particular object ID to the same log
-
-Data Integration
 
 |
 
@@ -22601,8 +21700,6 @@ joining, filtering, aggregating, training models, evaluating, and eventually wri
 
 |
 
-Chapter 12: The Future of Data Systems
-
 the appropriate outputs. Batch and stream processors are the tools for achieving this
 goal.
 
@@ -22650,8 +21747,6 @@ itations of distributed transactions" on page 363).
 We saw in "Partitioning and Secondary Indexes" on page 206 that secondary indexes
 often cross partition boundaries. A partitioned system with secondary indexes either
 
-Data Integration
-
 |
 
 needs to send writes to multiple partitions (if the index is term-partitioned) or send
@@ -22698,8 +21793,6 @@ uses a different gauge from the majority of the US.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Derived views allow gradual evolution. If you want to restructure a dataset, you do
 not need to perform the migration as a sudden switch. Instead, you can maintain the
 old schema and the new schema side by side as two independently derived views onto
@@ -22742,8 +21835,6 @@ cessing framework is significant additional effort. Although libraries such as
 Summingbird [13] provide an abstraction for computations that can be run in
 either a batch or a streaming context, the operational complexity of debugging,
 tuning, and maintaining two different systems remains [14].
-
-Data Integration
 
 |
 
@@ -22793,8 +21884,6 @@ Dataflow.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Unbundling Databases
 At a most abstract level, databases, Hadoop, and operating systems all perform the
 same functions: they store some data, and they allow you to process and query that
@@ -22839,8 +21928,6 @@ bases and how they work, including:
 • Secondary indexes, which allow you to efficiently search for records based on the
 
 value of a field (see "Other Indexing Structures" on page 85)
-
-Unbundling Databases
 
 |
 
@@ -22894,8 +21981,6 @@ system that keeps indexes or materialized views up to date.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Viewed like this, batch and stream processors are like elaborate implementations of
 triggers, stored procedures, and materialized view maintenance routines. The derived
 data systems they maintain are like different index types. For example, a relational
@@ -22942,8 +22027,6 @@ Making unbundling work
 
 Federation and unbundling are two sides of the same coin: composing a reliable, scal‐
 able, and maintainable system out of diverse components. Federated read-only
-
-Unbundling Databases
 
 |
 
@@ -22994,8 +22077,6 @@ in their current form—they will still be needed as much as ever. Databases are
 
 |
 
-Chapter 12: The Future of Data Systems
-
 required for maintaining state in stream processors, and in order to serve queries for
 the output of batch and stream processors (see "The Output of Batch Workflows" on
 page 411 and "Processing Streams" on page 464). Specialized query engines will con‐
@@ -23040,8 +22121,6 @@ Elasticsearch cluster. It would then continually capture all the changes made to
 database and automatically apply them to the search index, without us having to
 write custom application code. This kind of integration should be possible with
 almost any kind of storage or indexing system.
-
-Unbundling Databases
 
 |
 
@@ -23089,8 +22168,6 @@ cations around the ideas of unbundled databases and dataflow.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Application code as a derivation function
 
 When one dataset is derived from another, it goes through some kind of transforma‐
@@ -23134,8 +22211,6 @@ Separation of application code and state
 
 In theory, databases could be deployment environments for arbitrary application
 code, like an operating system. However, in practice they have turned out to be
-
-Unbundling Databases
 
 |
 
@@ -23187,8 +22262,6 @@ ables that can be overwritten), so one could say that mutable state is separate 
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Dataflow: Interplay between state changes and application code
 
 Thinking about applications in terms of dataflow implies renegotiating the relation‐
@@ -23234,8 +22307,6 @@ demands, but they are much less expensive and more operationally robust than dis
 tributed transactions. Modern stream processors can provide these ordering and reli‐
 ability guarantees at scale, and they allow application code to be run as stream
 operators.
-
-Unbundling Databases
 
 |
 
@@ -23287,8 +22358,6 @@ what happens in the dataflow approach.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 the failure of another service. The fastest and most reliable network request is no net‐
 work request at all! Instead of RPC, we now have a stream join between purchase
 events and exchange rate update events (see "Stream-table join (stream enrichment)"
@@ -23321,8 +22390,6 @@ updating a search index.
 
 But why do you create the derived dataset in the first place? Most likely because you
 want to query it again at a later time. This is the read path: when serving a user
-
-Unbundling Databases
 
 |
 
@@ -23373,8 +22440,6 @@ corpus. However, it would be exponential in the number of terms in the corpus, w
 
 |
 
-Chapter 12: The Future of Data Systems
-
 view, as it would need to be updated when new documents appear that should be
 included in the results of one of the common queries.
 
@@ -23420,8 +22485,6 @@ network connection is available [42]. Since mobile devices often have slow and u
 liable cellular internet connections, it's a big advantage for users if their user interface
 does not have to wait for synchronous network requests, and if apps mostly work off‐
 line (see "Clients with offline operation" on page 170).
-
-Unbundling Databases
 
 |
 
@@ -23472,8 +22535,6 @@ guage [30] and Facebook's toolchain of React, Flux, and Redux [44], already mana
 
 |
 
-Chapter 12: The Future of Data Systems
-
 internal client-side state by subscribing to a stream of events representing user input
 or responses from a server, structured similarly to event sourcing (see "Event Sourc‐
 ing" on page 457).
@@ -23520,8 +22581,6 @@ ing the stream processor itself into a kind of simple database.
 
 I would like to take that idea further. As discussed so far, the writes to the store go
 through an event log, while reads are transient network requests that go directly to
-
-Unbundling Databases
 
 |
 
@@ -23574,8 +22633,6 @@ computation requires combining results from many partitions.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Another example of this pattern occurs in fraud prevention: in order to assess the risk
 of whether a particular purchase event is fraudulent, you can examine the reputation
 scores of the user's IP address, email address, billing address, shipping address, and
@@ -23620,8 +22677,6 @@ demanding circumstances.
 
 For example, Kyle Kingsbury's Jepsen experiments [53] have highlighted the stark
 discrepancies between some products' claimed safety guarantees and their actual
-
-Aiming for Correctness
 
 |
 
@@ -23673,8 +22728,6 @@ twice for the same service (billing them too much) or increment a counter twice
 
 |
 
-Chapter 12: The Future of Data Systems
-
 (overstating some metric). In this context, exactly-once means arranging the compu‐
 tation such that the final effect is the same as if no faults had occurred, even if the
 operation actually was retried due to some fault. We previously discussed a few
@@ -23721,8 +22774,6 @@ actually not correct, and real banks do not work like this [3].
 Two-phase commit (see "Atomic Commit and Two-Phase Commit (2PC)" on page
 354) protocols break the 1:1 mapping between a TCP connection and a transaction,
 since they must allow a transaction coordinator to reconnect to a database after a net‐
-
-Aiming for Correctness
 
 |
 
@@ -23774,8 +22825,6 @@ COMMIT;
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Example 12-2 relies on a uniqueness constraint on the request_id column. If a
 transaction attempts to insert an ID that already exists, the INSERT fails and the trans‐
 action is aborted, preventing it from taking effect twice. Relational databases can gen‐
@@ -23820,17 +22869,15 @@ is stored. If you want to catch all possible sources of data corruption, you als
 end-to-end checksums.
 
 A similar argument applies with encryption [55]: the password on your home WiFi
-network protects against people snooping your WiFi traffic, but not against attackers
+network protects against people snooping your WiFitraffic, but not against attackers
 elsewhere on the internet; TLS/SSL between your client and the server protects
-
-Aiming for Correctness
 
 |
 
 against network attackers, but not against compromises of the server. Only end-toend encryption and authentication can protect against all of these things.
 
 Although the low-level features (TCP duplicate suppression, Ethernet checksums,
-WiFi encryption) cannot provide the desired end-to-end features by themselves, they
+WiFiencryption) cannot provide the desired end-to-end features by themselves, they
 are still useful, since they reduce the probability of problems at the higher levels. For
 example, HTTP requests would often get mangled if we didn't have TCP putting the
 packets back in the right order. We just need to remember that the low-level reliabil‐
@@ -23871,8 +22918,6 @@ maintain good performance and good operational characteristics in a large-scale 
 tributed environment.
 
 |
-
-Chapter 12: The Future of Data Systems
 
 Enforcing Constraints
 Let's think about correctness in the context of the ideas around unbundling databases
@@ -23917,8 +22962,6 @@ pen that different masters concurrently accept conflicting writes, and thus the 
 are no longer unique (see "Implementing Linearizable Systems" on page 332). If you
 want to be able to immediately reject any writes that would violate the constraint,
 synchronous coordination is unavoidable [56].
-
-Aiming for Correctness
 
 |
 
@@ -23972,8 +23015,6 @@ taining the payee account, and the one containing the payer account. There is no
 
 |
 
-Chapter 12: The Future of Data Systems
-
 son why those three things should be in the same partition, since they are all
 independent from each other.
 
@@ -24022,8 +23063,6 @@ By breaking down the multi-partition transaction into two differently partitione
 stages and using the end-to-end request ID, we have achieved the same correctness
 property (every request is applied exactly once to both the payer and payee accounts),
 even in the presence of faults, and without using an atomic commit protocol. The
-
-Aiming for Correctness
 
 |
 
@@ -24075,8 +23114,6 @@ missing is not very useful.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 If integrity is violated, the inconsistency is permanent: waiting and trying again is
 not going to fix database corruption in most cases. Instead, explicit checking and
 repair is needed. In the context of ACID transactions (see "The Meaning of
@@ -24122,8 +23159,6 @@ maintaining the integrity of a data system in the face of faults.
 As we saw in the last section, reliable stream processing systems can preserve integ‐
 rity without requiring distributed transactions and an atomic commit protocol,
 which means they can potentially achieve comparable correctness with much better
-
-Aiming for Correctness
 
 |
 
@@ -24178,8 +23213,6 @@ guests will cancel. In these cases, the constraint of "one person per seat" is d
 
 |
 
-Chapter 12: The Future of Data Systems
-
 erately violated for business reasons, and compensation processes (refunds,
 upgrades, providing a complimentary room at a neighboring hotel) are put in
 place to handle situations in which demand exceeds supply. Even if there was no
@@ -24225,8 +23258,6 @@ atomic commit, linearizability, or synchronous cross-partition coordination.
 2. Although strict uniqueness constraints require timeliness and coordination,
 many applications are actually fine with loose constraints that may be temporar‐
 ily violated and fixed up later, as long as integrity is preserved throughout.
-
-Aiming for Correctness
 
 |
 
@@ -24277,8 +23308,6 @@ In reality, it is more a question of probabilities: some things are more likely,
 
 |
 
-Chapter 12: The Future of Data Systems
-
 things less likely. The question is whether violations of our assumptions happen often
 enough that we may encounter them in practice.
 
@@ -24325,8 +23354,6 @@ idea that the database starts off in a consistent state, and a transaction trans
 from one consistent state to another consistent state. Thus, we expect the database to
 always be in a consistent state. However, this notion only makes sense if you assume
 that the transaction is free from bugs. If the application uses the database incorrectly
-
-Aiming for Correctness
 
 |
 
@@ -24378,8 +23405,6 @@ the investment.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 But then the database landscape changed: weaker consistency guarantees became the
 norm under the banner of NoSQL, and less mature storage technologies became
 widely used. Yet, because the audit mechanisms had not been developed, we contin‐
@@ -24426,8 +23451,6 @@ more expensive to track down the problem.
 
 Checking the integrity of data systems is best done in an end-to-end fashion (see
 "The End-to-End Argument for Databases" on page 516): the more systems we can
-
-Aiming for Correctness
 
 |
 
@@ -24480,8 +23503,6 @@ idity of TLS/SSL certificates [75, 76].
 
 |
 
-Chapter 12: The Future of Data Systems
-
 I could imagine integrity-checking and auditing algorithms, like those of certificate
 transparency and distributed ledgers, becoming more widely used in data systems in
 general. Some work will be needed to make them equally scalable as systems without
@@ -24525,8 +23546,6 @@ analysis to predict the weather, or the spread of diseases, is one thing [81]; i
 another matter to predict whether a convict is likely to reoffend, whether an applicant
 for a loan is likely to default, or whether an insurance customer is likely to make
 expensive claims. The latter have a direct effect on individual people's lives.
-
-Doing the Right Thing
 
 |
 
@@ -24578,8 +23597,6 @@ natory, they codify that discrimination. If we want the future to be better than
 
 |
 
-Chapter 12: The Future of Data Systems
-
 past, moral imagination is required, and that's something only humans can provide
 [87]. Data and models should be our tools, not our masters.
 
@@ -24626,8 +23643,6 @@ mistakes.
 
 We will also need to figure out how to prevent data being used to harm people, and
 realize its positive potential instead. For example, analytics can reveal financial and
-
-Doing the Right Thing
 
 |
 
@@ -24677,8 +23692,6 @@ as a side effect of other things they are doing, the relationship is less clear.
 
 |
 
-Chapter 12: The Future of Data Systems
-
 no longer just does what the user tells it to do, but it takes on interests of its own,
 which may conflict with the user's interests.
 
@@ -24723,8 +23736,6 @@ Even the most totalitarian and repressive regimes could only dream of putting a
 microphone in every room and forcing every person to constantly carry a device
 capable of tracking their location and movements. Yet we apparently voluntarily,
 even enthusiastically, throw ourselves into this world of total surveillance. The differ‐
-
-Doing the Right Thing
 
 |
 
@@ -24775,8 +23786,6 @@ users to negotiate how much data they provide and what service they receive in
 
 |
 
-Chapter 12: The Future of Data Systems
-
 return: the relationship between the service and the user is very asymmetric and onesided. The terms are set by the service, not by the user [99].
 
 For a user who does not consent to surveillance, the only real alternative is simply not
@@ -24820,8 +23829,6 @@ ness model (which relies on knowing more about people than other companies do).
 Intimate information about users is only revealed indirectly, for example in the form
 of tools for targeting advertisements to specific groups of people (such as those suf‐
 fering from a particular illness).
-
-Doing the Right Thing
 
 |
 
@@ -24873,8 +23880,6 @@ interacts is merely a means to lure users into feeding more and more personal in
 
 |
 
-Chapter 12: The Future of Data Systems
-
 mation into the surveillance infrastructure [99]. The delightful human creativity and
 social relationships that often find expression in online services are cynically exploi‐
 ted by the data extraction machine.
@@ -24921,8 +23926,6 @@ cessing, and software-driven automation are having a major impact on the global
 economy and human society. As our daily lives and social organization have changed
 in the past decade, and will probably continue to radically change in the coming dec‐
 ades, comparisons to the Industrial Revolution come to mind [87, 96].
-
-Doing the Right Thing
 
 |
 
@@ -24976,8 +23979,6 @@ which the user gave their consent (if we can meaningfully speak of consent at al
 
 |
 
-Chapter 12: The Future of Data Systems
-
 Companies that collect lots of data about people oppose regulation as being a burden
 and a hindrance to innovation. To some extent that opposition is justified. For exam‐
 ple, when sharing medical data, there are clear risks to privacy, but there are also
@@ -25007,7 +24008,6 @@ page 463), but that issue can be solved. A promising approach I see is to enforc
 access control through cryptographic protocols, rather than merely by policy [113,
 114]. Overall, culture and attitude changes will be necessary.
 
-Summary
 In this chapter we discussed new approaches to designing data systems, and I
 included my personal opinions and speculations about the future. We started with
 the observation that there is no one single tool that can efficiently serve all possible
@@ -25020,8 +24020,6 @@ In this approach, certain systems are designated as systems of record, and other
 is derived from them through transformations. In this way we can maintain indexes,
 materialized views, machine learning models, statistical summaries, and more. By
 making these derivations and transformations asynchronous and loosely coupled, a
-
-Summary
 
 |
 
@@ -25073,10 +24071,6 @@ can work together toward that goal.
 
 |
 
-Chapter 12: The Future of Data Systems
-
-References
-
 [1] Rachid Belaid: "Postgres Full-Text Search is Good Enough!," rachbelaid.com, July
 13, 2015.
 
@@ -25122,8 +24116,6 @@ International Conference on Very Large Data Bases (VLDB), September 2014.
 [15] Raul Castro Fernandez, Peter Pietzuch, Jay Kreps, et al.: "Liquid: Unifying Near‐
 line and Offline Big Data Integration," at 7th Biennial Conference on Innovative Data
 Systems Research (CIDR), January 2015.
-
-Summary
 
 |
 
@@ -25176,8 +24168,6 @@ Programming. MIT Press, 2004. ISBN: 978-0-262-22069-9
 [29] "Juttle Documentation," juttle.github.io, 2016.
 
 |
-
-Chapter 12: The Future of Data Systems
 
 [30] Evan Czaplicki and Stephen Chong: "Asynchronous Functional Reactive Pro‐
 gramming for GUIs," at 34th ACM SIGPLAN Conference on Programming Language
@@ -25238,8 +24228,6 @@ Authority," blog.christianposta.com, May 27, 2016.
 [43] Sebastian Burckhardt, Daan Leijen, Jonathan Protzenko, and Manuel Fähndrich:
 "Global Sequence Protocol: A Robust Abstraction for Replicated Shared State," at
 
-Summary
-
 |
 
 29th European Conference on Object-Oriented Programming (ECOOP), July 2015.
@@ -25294,8 +24282,6 @@ doi:10.1145/224056.224070
 
 |
 
-Chapter 12: The Future of Data Systems
-
 [59] Jim Gray: "The Transaction Concept: Virtues and Limitations," at 7th Interna‐
 tional Conference on Very Large Data Bases (VLDB), September 1981.
 
@@ -25344,8 +24330,6 @@ Function," at CRYPTO '87, August 1987. doi:10.1007/3-540-48184-2_32
 
 [75] Ben Laurie: "Certificate Transparency," ACM Queue, volume 12, number 8,
 pages 10-19, August 2014. doi:10.1145/2668152.2668154
-
-Summary
 
 |
 
@@ -25402,8 +24386,6 @@ Green Publishing, 2008. ISBN: 978-1-603-58055-7
 
 |
 
-Chapter 12: The Future of Data Systems
-
 [93] Daniel J. Bernstein: "Listening to a 'big data'/'data science' talk," twitter.com,
 May 12, 2015.
 
@@ -25455,8 +24437,6 @@ European Communities No. L 281/31, eur-lex.europa.eu, November 1995.
 sibility and Risk Among Actors Involved in Personal Data Processing," Thesis, KU
 Leuven Centre for IT and IP Law, August 2016.
 
-Summary
-
 |
 
 [109] Michiel Rhoen: "Beyond Consent: Improving Data Protection Through Con‐
@@ -25478,8 +24458,6 @@ tic.com, May 13, 2014.
 ePrint 2015/1162, December 2015.
 
 |
-
-Chapter 12: The Future of Data Systems
 
 Glossary
 
@@ -26186,8 +25164,6 @@ amplification
 of bias, 534
 of failures, 364, 495
 
-Index
-
 |
 
 of tail latency, 16, 207
@@ -26256,8 +25232,6 @@ Apache Solr (see Solr)
 Apache Spark (see Spark)
 
 |
-
-Index
 
 for batch processing, 403
 for change streams, 456
@@ -26442,8 +25416,6 @@ in networks, 285
 process pauses, 298
 broadcast hash joins, 409
 
-Index
-
 |
 
 brokerless messaging, 442
@@ -26459,7 +25431,6 @@ Byzantine fault-tolerant systems, 305, 532
 Byzantine Generals Problem, 304
 consensus algorithms and, 366
 
-C
 caches, 89, 553
 
 and materialized views, 101
@@ -26508,8 +25479,6 @@ in transactions, 262
 sending message to friends (example), 494
 
 |
-
-Index
 
 causality, 554
 
@@ -26707,8 +25676,6 @@ causal dependencies, 186, 342
 in consensus algorithms, 368
 in leaderless replication, 184
 
-Index
-
 |
 
 in log-based systems, 351, 521
@@ -26777,8 +25744,6 @@ consistent snapshots, 156, 237-242, 294,
 (see also snapshots)
 
 |
-
-Index
 
 crash recovery, 82
 enforcing constraints (see constraints)
@@ -26921,7 +25886,6 @@ Cypher (query language), 52
 
 comparison to SPARQL, 59
 
-D
 data corruption (see corruption of data)
 data cubes, 102
 data formats (see encoding)
@@ -26930,7 +25894,6 @@ data integration, 490-498, 543
 batch and stream processing, 494-498
 
 lambda architecture, 497
-maintaining derived state, 495
 reprocessing data, 496
 unifying, 498
 
@@ -26966,8 +25929,6 @@ relational model versus document model,
 data protection regulations, 542
 data systems, 3
 about, 4
-
-Index
 
 |
 
@@ -27047,8 +26008,6 @@ designing applications around dataflow,
 504-509
 
 |
-
-Index
 
 multi-tenancy and shared resources, 284
 network architecture, 276
@@ -27226,8 +26185,6 @@ property graph model, 50
 edit distance (full-text search), 88
 effectively-once semantics, 476, 516
 
-Index
-
 |
 
 (see also exactly-once semantics)
@@ -27293,8 +26250,6 @@ Ethernet (networks), 276, 278, 285
 packet checksums, 306, 519
 
 |
-
-Index
 
 Etherpad (collaborative editor), 170
 ethics, 533-543
@@ -27438,7 +26393,6 @@ in stream processing, 476-479
 
 atomic commit, 477
 idempotence, 478
-maintaining derived state, 495
 microbatching and checkpointing, 477
 rebuilding state after a failure, 478
 
@@ -27493,8 +26447,6 @@ followers, 152, 555
 foreign keys, 38, 403
 forward compatibility, 112
 forward decay (algorithm), 16
-
-Index
 
 |
 
@@ -27582,8 +26534,6 @@ MapReduce (batch processing), 390
 
 |
 
-Index
-
 example of graph-structured data, 49
 property graphs, 50
 RDF and triple-stores, 55-59
@@ -27651,10 +26601,8 @@ HBase (database)
 bug due to lack of fencing, 302
 bulk loading, 413
 column-family data model, 41, 99
-dynamic partitioning, 212
 key-range partitioning, 202
 log-structured storage, 78
-request routing, 216
 size-tiered compaction, 79
 use of HDFS, 417
 use of ZooKeeper, 370
@@ -27704,8 +26652,6 @@ hopping windows (stream processing), 472
 horizontal scaling (see scaling out)
 HornetQ (messaging), 137, 444
 
-distributed transaction support, 361
-
 hot spots, 201
 
 due to celebrities, 205
@@ -27719,13 +26665,11 @@ human errors, 9, 279, 414
 HyperDex (database), 88
 HyperLogLog (algorithm), 466
 
-I
 I/O operations, waiting for, 297
 IBM
 
 DB2 (database)
 
-distributed transaction support, 361
 recursive query support, 54
 serializable isolation, 242, 257
 XML and JSON support, 30, 42
@@ -27739,8 +26683,6 @@ imperative query APIs, 46
 InfoSphere Streams (CEP engine), 466
 MQ (messaging), 444
 
-distributed transaction support, 361
-
 System R (database), 222
 WebSphere (messaging), 137
 
@@ -27752,8 +26694,6 @@ idempotent operations, 517
 immutability
 
 advantages of, 460, 531
-
-Index
 
 |
 
@@ -27894,8 +26834,6 @@ IP (Internet Protocol)
 
 |
 
-Index
-
 unreliability of, 277
 
 MapReduce reduce-side joins, 403-408
@@ -27927,7 +26865,6 @@ iterative processing, 424-426
 J
 Java Database Connectivity (JDBC)
 
-distributed transaction support, 361
 network drivers, 128
 
 Java Enterprise Edition (EE), 134, 356, 361
@@ -27935,7 +26872,6 @@ Java Message Service (JMS), 444
 (see also messaging systems)
 comparison to log-based messaging, 448,
 
-distributed transaction support, 361
 message ordering, 446
 
 Java Transaction API (JTA), 355, 361
@@ -28000,7 +26936,6 @@ fault tolerance, 479
 leader-based replication, 153
 log compaction, 456, 467
 message offsets, 447, 478
-request routing, 216
 transaction support, 477
 usage example, 4
 
@@ -28014,17 +26949,13 @@ partitioning, 201-205
 
 by hash of key, 203, 217
 by key range, 202, 217
-dynamic partitioning, 212
 skew and hot spots, 205
 
 Kryo (Java), 113
 Kubernetes (cluster manager), 418, 506
 
-L
 lambda architecture, 497
 Lamport timestamps, 345
-
-Index
 
 |
 
@@ -28165,8 +27096,6 @@ locality (data access), 32, 41, 555
 
 |
 
-Index
-
 in batch processing, 400, 405, 421
 in stateful clients, 170, 511
 in stream processing, 474, 478, 508, 522
@@ -28262,7 +27191,6 @@ similarity search, 88
 Luigi (workflow scheduler), 402
 LWW (see last write wins)
 
-M
 machine learning
 
 ethical considerations, 534
@@ -28301,8 +27229,6 @@ comparison to distributed databases
 designing for frequent faults, 417
 diversity of processing models, 416
 diversity of storage, 415
-
-Index
 
 |
 
@@ -28380,8 +27306,6 @@ median, 14
 
 |
 
-Index
-
 meeting room booking (example), 249, 259,
 
 membership services, 372
@@ -28453,7 +27377,6 @@ Meteor (web framework), 456
 microbatching, 477, 495
 microservices, 132
 
-(see also services)
 causal dependencies across services, 493
 loose coupling, 502
 relation to batch/stream processors, 389,
@@ -28482,11 +27405,9 @@ document data model, 31
 hash partitioning (sharding), 203-204
 key-range partitioning, 202
 lack of join support, 34, 42
-leader-based replication, 153
 MapReduce support, 46, 400
 oplog parsing, 455, 456
 partition splitting, 212
-request routing, 216
 secondary indexes, 207
 
 Mongoriver (change data capture), 455
@@ -28536,10 +27457,8 @@ binlog coordinates, 156
 binlog parsing for change data capture, 455
 circular replication topology, 175
 consistent snapshots, 156
-distributed transaction support, 361
 InnoDB storage engine (see InnoDB)
 JSON support, 30, 42
-leader-based replication, 153
 performance of XA transactions, 360
 row-based replication, 160
 schema changes in, 40
@@ -28571,8 +27490,6 @@ netcat (Unix tool), 397
 Netflix Chaos Monkey, 7, 280
 Network Attached Storage (NAS), 146, 398
 network model, 36
-
-Index
 
 |
 
@@ -28645,8 +27562,6 @@ offline systems, 390
 
 |
 
-Index
-
 stateful, offline-capable clients, 170, 511
 
 offline-first applications, 511
@@ -28669,8 +27584,6 @@ JSON representation, 32
 
 online systems, 389
 
-(see also services)
-
 Oozie (workflow scheduler), 402
 OpenAPI (service definition format), 133
 OpenStack
@@ -28691,13 +27604,11 @@ in stream processing, 464
 optimistic concurrency control, 261
 Oracle (database)
 
-distributed transaction support, 361
 GoldenGate (change data capture), 161,
 
 170, 455
 
 lack of serializability, 226
-leader-based replication, 153
 multi-table index cluster tables, 41
 not preventing write skew, 248
 partitioned indexes, 209
@@ -28829,10 +27740,8 @@ causal ordering of writes, 177
 Bottled Water (change data capture), 455
 Bucardo (trigger-based replication), 161,
 
-distributed transaction support, 361
 foreign data wrappers, 501
 full text search support, 490
-leader-based replication, 153
 log sequence number, 156
 MVCC implementation, 239, 241
 PL/pgSQL language, 255
@@ -28842,8 +27751,6 @@ preventing write skew, 248, 261
 read committed isolation, 236
 recursive query support, 54
 representing graphs, 51
-
-Index
 
 |
 
@@ -28912,8 +27819,6 @@ punch card tabulating machines, 390
 
 |
 
-Index
-
 pure functions, 48
 putting computation near data, 400
 
@@ -28955,7 +27860,6 @@ sloppy quorums and hinted handoff, 183
 R
 R-trees (indexes), 87
 RabbitMQ (messaging), 137, 444
-leader-based replication, 153
 
 race conditions, 225
 
@@ -29040,7 +27944,6 @@ rebalancing partitions, 209-214, 556
 
 (see also partitioning)
 automatic or manual rebalancing, 213
-dynamic partitioning, 212
 fixed number of partitions, 210
 fixed number of partitions per node, 212
 problems with hash mod N, 210
@@ -29088,7 +27991,6 @@ relational databases
 
 eventual consistency, 162
 history, 28
-leader-based replication, 153
 logical logs, 160
 philosophy compared to Unix, 499, 501
 schema changes, 40, 111, 130
@@ -29108,8 +28010,6 @@ human errors, 9
 importance of, 10
 of messaging systems, 442
 
-Index
-
 |
 
 software errors, 8
@@ -29117,7 +28017,6 @@ software errors, 8
 Remote Method Invocation (Java RMI), 134
 remote procedure calls (RPCs), 134-136
 
-(see also services)
 based on futures, 135
 data encoding and evolution, 136
 issues with, 134
@@ -29181,8 +28080,6 @@ request routing, 214-216
 
 |
 
-Index
-
 approaches to, 214
 parallel query execution, 216
 
@@ -29201,14 +28098,11 @@ user experience, 15
 responsibility and accountability, 535
 REST (Representational State Transfer), 133
 
-(see also services)
 RethinkDB (database)
 
 document data model, 31
-dynamic partitioning, 212
 join support, 34, 42
 key-range partitioning, 202
-leader-based replication, 153
 subscribing to changes, 456
 
 Riak (database)
@@ -29374,8 +28268,6 @@ performance, 258
 
 Serializable (Java), 113
 
-Index
-
 |
 
 serialization, 113
@@ -29388,8 +28280,6 @@ using DNS, 216, 372
 
 service level agreements (SLAs), 15
 service-oriented architecture (SOA), 132
-
-(see also services)
 
 services, 131-136
 
@@ -29480,8 +28370,6 @@ skew, 557
 
 |
 
-Index
-
 smearing (leap seconds adjustments), 290
 snapshots (databases)
 
@@ -29505,7 +28393,6 @@ synchronized clocks for global snapshots,
 snowflake schemas, 95
 SOAP, 133
 
-(see also services)
 evolvability, 136
 
 software bugs, 8
@@ -29522,7 +28409,6 @@ Solr (search server)
 
 building indexes in batch processes, 411
 document-partitioned indexes, 207
-request routing, 216
 
 usage example, 4
 use of Lucene, 79
@@ -29628,12 +28514,9 @@ stored procedures, 255
 SQL Server (database)
 
 data warehousing support, 93
-distributed transaction support, 361
-leader-based replication, 153
 preventing lost updates, 245
 preventing write skew, 248, 257
 
-maintaining derived state, 495
 maintenance by stream processor in streamstream joins, 473
 
 observing derived state, 509-515
@@ -29652,8 +28535,6 @@ statistical and numerical algorithms, 428
 StatsD (metrics aggregator), 442
 stdin, stdout, 395, 396
 Stellar (cryptocurrency), 532
-
-Index
 
 |
 
@@ -29706,7 +28587,6 @@ Trident state handling, 478
 straggler events, 470, 498
 stream processing, 464-481, 557
 
-maintaining derived state, 495
 maintenance of materialized views, 467
 messaging systems (see messaging systems)
 reasoning about time, 468-472
@@ -29792,8 +28672,6 @@ synchronous replication, 154, 557
 chain replication, 155
 
 |
-
-Index
 
 conflict detection, 172
 system models, 300, 306-310
@@ -29921,8 +28799,6 @@ sequence numbers or timestamps, 344
 total order broadcast, 348-352, 493, 522
 consensus algorithms and, 366-368
 
-Index
-
 |
 
 implementation in ZooKeeper and etcd, 370
@@ -29994,8 +28870,6 @@ implementing change data capture, 455
 implementing replication, 161
 
 |
-
-Index
 
 triple-stores, 55-59
 
@@ -30101,7 +28975,6 @@ conflict resolution and replication, 246
 using explicit locking, 244
 preventing write skew, 246-251
 
-V
 validity (consensus), 365
 vBuckets (partitioning), 199
 vector clocks, 191
@@ -30187,8 +29060,6 @@ webhooks, 443
 webMethods (messaging), 137
 WebSocket (protocol), 512
 
-Index
-
 |
 
 windows (stream processing), 466, 468-472
@@ -30232,16 +29103,13 @@ preventing dirty writes with read commit‐
 
 ted, 235
 WS-* framework, 133
-(see also services)
 
 WS-AtomicTransaction (2PC), 355
 
-X
 XA transactions, 355, 361-364
 heuristic decisions, 363
 limitations of, 363
 xargs (Unix tool), 392, 396
-XML
 
 binary variants, 115
 encoding RDF data, 57
@@ -30274,8 +29142,6 @@ use for partition assignment, 215, 371
 use of Zab algorithm, 349, 353, 366
 
 |
-
-Index
 
 About the Author
 

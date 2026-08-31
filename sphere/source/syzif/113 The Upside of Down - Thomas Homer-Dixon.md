@@ -501,8 +501,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 4
 
 |
 
-T h e U p s i d e o f D o w n
-
 The Roman Forum
 
 looked like two thousand years ago, I asked myself, Did the Romans ever
@@ -560,8 +558,6 @@ will become progressively more complex and rigid and, in turn, progressively les
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 collapse—when it eventually does happen—could then be so destructive
 that there would be little of the prior order left behind. And there would
@@ -655,8 +651,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 8
 
 |
 
-T h e U p s i d e o f D o w n
-
 pieces—like Ancient Rome—shrouded in fog in our rearview mirror and
 reflecting our taillights' rosy glow. The decades that roll out in front of us
 are obscure, try as we may to make out their features. The car's headlights
@@ -733,8 +727,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 10
 1 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 September 11, 2001, won't be the last time we walk out of our cities.
 
@@ -816,8 +808,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 12
 
 |
 
-T h e U p s i d e o f D o w n
-
 Of the five, energy stress plays a particularly central role. I discovered
 in investigating the story of ancient Rome that energy is society's critical master resource: when it's scarce and costly, everything we try to do,
 including growing our food, obtaining other resources like fresh water,
@@ -855,8 +845,6 @@ Sure enough, this creed now permeates our common language and
 thought, and many of us truly believe we can free ourselves of the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 13
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -904,8 +892,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 14
 
 |
 
-T h e U p s i d e o f D o w n
-
 This is the real face of globalization—a phenomenon that many
 people talk about but few really understand. It's not just a process of
 growing economic interdependence among countries. That's something
@@ -944,8 +930,6 @@ how to convert civilian technologies into appalling weapons—as the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 15
 
-T e c t o n i c S t r e s s e s
-
 |
 
 1 5
@@ -963,8 +947,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 16
 1 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 Al Qaeda terrorists did so horrifically when they used passenger airliners as guided missiles.
 
@@ -1004,8 +986,6 @@ developing today for societies around the world and even for global
 order as a whole.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 17
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -1058,8 +1038,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 18
 
 |
 
-T h e U p s i d e o f D o w n
-
 breakdown in general—the result of something like synchronous failure
 specifically—is growing.15
 
@@ -1100,8 +1078,6 @@ lay out detailed policies to reduce the problem's seriousness and adapt
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 19
 
-T e c t o n i c S t r e s s e s
-
 |
 
 1 9
@@ -1135,8 +1111,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 20
 2 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 sudden, massive failures with catastrophic consequences."17 Military,
 government, academic, and industrial experts reviewed the Lovinses'
@@ -1180,8 +1154,6 @@ severe—by making our technological, economic, and social systems
 more resilient to unexpected shocks. For example, to lessen the risk of
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 21
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -1230,8 +1202,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 22
 
 |
 
-T h e U p s i d e o f D o w n
-
 our basic assumptions, gathered together our remaining resources, and
 rebuilt our lives—surprisingly, often in a new and better ways.
 
@@ -1272,8 +1242,6 @@ way they do. We can, for instance, dismantle a windup clock to discover
 its various cogwheels, bushings, and springs; and then, by examining
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 23
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -1321,8 +1289,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 24
 
 |
 
-T h e U p s i d e o f D o w n
-
 when companies fail or go bankrupt. There are many examples in history
 too. The implosion of Soviet power in Eastern Europe in the late 1980s
 and early 1990s created stunning opportunities (some exploited, some
@@ -1364,8 +1330,6 @@ disturbances or changes in the system, each one relatively small by itself,
 accumulate. Outwardly, everything seems to be normal: the system
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 25
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -1414,8 +1378,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 26
 
 |
 
-T h e U p s i d e o f D o w n
-
 Frost's traveler, like all human beings, is a complex system. The route
 we take through the woods depends on the number of junctions we
 encounter, on the number of paths available at each junction, and on
@@ -1457,8 +1419,6 @@ When small things can make a big difference, and when it's impossible to know wh
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 27
 
-T e c t o n i c S t r e s s e s
-
 |
 
 2 7
@@ -1485,8 +1445,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 28
 2 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 you'll realize that the range of possibilities is almost infinite and that
 given the blazing rate of change in today's world, there's something profoundly unknowable about the future, even a future that could arrive
@@ -1524,8 +1482,6 @@ whose portals I cannot enter. Moving toward it from Here, I am
 charmed with its brilliant façade. What sculptured splendors—porticoes, pillars, statues, windows! What is within? As I advance, however,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 29
-
-T e c t o n i c S t r e s s e s
 
 |
 
@@ -1573,8 +1529,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 30
 3 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 our undoing. It also knows, though, that the future is opaque. We can't
 really see beyond the white wall because as prognosticators we come up
@@ -1646,8 +1600,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 32
 
 |
 
-T h e U p s i d e o f D o w n
-
 The keystone in the Colosseum
 
 more closely I realized that while seemingly insignificant, the arch and
@@ -1702,8 +1654,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 34
 
 |
 
-T h e U p s i d e o f D o w n
-
 Scruffy though this keystone was, I was struck by how precisely it
 had been cut: one couldn't insert a razor blade between it and the
 adjacent stones. Romans didn't have high-speed diamond-edged
@@ -1742,8 +1692,6 @@ and even humble Rome's citizens with the sheer audacity of their engineering. Th
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 35
 
-A K e y s t o n e i n T i m e
-
 |
 
 3 5
@@ -1776,8 +1724,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 36
 3 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 about a million metric tons of raw material, including 295,000 tons of
 travertine, 653,000 tons of concrete, 54,000 tons of tufa (a soft volcanic
@@ -1819,8 +1765,6 @@ or diesel fuel. Almost all the work they applied to the job of cutting,
 moving, and lifting stone and other materials was done by human and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 37
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -1871,8 +1815,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 38
 
 |
 
-T h e U p s i d e o f D o w n
-
 homes.12 So sources of high-quality energy, such as oil, natural gas, and
 rushing rivers, are extraordinarily valuable, because we can use them to
 provide many different types of service.13
@@ -1912,8 +1854,6 @@ And every time we use energy to do work, we further degrade its
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 39
 
-A K e y s t o n e i n T i m e
-
 |
 
 3 9
@@ -1943,8 +1883,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 40
 4 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 You (the person in the box) are much like the battery: you convert
 your chemical energy into other forms of energy, such as kinetic energy
@@ -1985,8 +1923,6 @@ After all, the mill produces low-entropy steel rods. And over time
 Rome's internal arrangements became more ordered and complex, as
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 41
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2035,8 +1971,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 42
 
 |
 
-T h e U p s i d e o f D o w n
-
 the efforts of these units, encourage specialization skills, and provide
 themselves with public services like governance, tax collection, and
 security. Codified laws regulated everything from money and debt to
@@ -2082,8 +2016,6 @@ role in ancient Roman society will help us find out.
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 43
 
 A Stone's Journey
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2135,8 +2067,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 44
 
 |
 
-T h e U p s i d e o f D o w n
-
 also required a lot of energy: after being fashioned from clay, straw,
 and small amounts of high-quality pozzolana sand, they were dried in
 the sun and baked in wood-fired kilns at temperatures reaching hundreds of degrees Celsius.22
@@ -2176,8 +2106,6 @@ looked like a giant hamster wheel—up to eight meters in diameter and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 45
 
-A K e y s t o n e i n T i m e
-
 |
 
 4 5
@@ -2197,8 +2125,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 46
 
 |
 
-T h e U p s i d e o f D o w n
-
 As the first floor was completed, the Romans rolled their cranes up
 the Colosseum's sloped seating area so they could hoist the stone elements for the higher floors. Many of the walls of the upper levels were
 made of concrete faced with brick; this material was lighter than the
@@ -2208,8 +2134,6 @@ weight. Wet concrete was probably mixed at ground level and lifted by
 Cranes were rolled up the sloped seating area to construct Level 4.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 47
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2260,8 +2184,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 48
 
 |
 
-T h e U p s i d e o f D o w n
-
 find accurate data for the work involved in assembling, disassembling,
 and moving the cranes, we had to omit these important tasks from our
 estimate. Finally, the Colosseum project was, in thermodynamic terms, a
@@ -2302,8 +2224,6 @@ activities used only a small fraction—about 4 percent—of the total
 energy needed to build the Colosseum.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 49
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2354,8 +2274,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:53 PM Page 50
 
 |
 
-T h e U p s i d e o f D o w n
-
 A L P S
 
 A P E
@@ -2364,8 +2282,6 @@ N
 
 N
 
-I
-
 N
 
 E
@@ -2373,8 +2289,6 @@ E
 ADRIATIC
 ADRIATIC
 SEASEA
-
-M
 
 O
 
@@ -2393,7 +2307,6 @@ T
 
 A
 
-I
 N
 
 S
@@ -2415,8 +2328,6 @@ Ostia
 Ancient Rome and its surrounding regions
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 51
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2468,8 +2379,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:24 PM Page 52
 
 |
 
-T h e U p s i d e o f D o w n
-
 have an EROI of well over 1 to 1 for the society to support any kind of
 social and technological complexity. Indeed, in any complex society,
 those of us who aren't farmers are essentially parasites on those of us who
@@ -2513,8 +2422,6 @@ million kilocalories for alfalfa. She then divided these figures into the
 number of calories needed by Colosseum laborers and oxen.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 53
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2566,8 +2473,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 54
 
 |
 
-T h e U p s i d e o f D o w n
-
 Only if levels of output per head in agriculture rise to the point
 where one man on the land can feed ten, twenty or even fifty off the
 land can a very high degree of urbanization be reached. [In] many
@@ -2606,8 +2511,6 @@ with the highest possible return on investment (EROI). They also
 drive societies to aggressively control and organize the territories that
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 55
-
-A K e y s t o n e i n T i m e
 
 |
 
@@ -2684,8 +2587,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 58
 5 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 usurpers controlled large parts of the empire outside of Rome, often for
 years at a time. The empire was attacked from the north by the Franks
@@ -2764,8 +2665,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 60
 
 |
 
-T h e U p s i d e o f D o w n
-
 second century, three times more in the third, and yet again in the
 sixth; and sacked in 410, 455, 472, and 546 by assorted Goths and
 Vandals.5 Invaders sometimes slaughtered large numbers of the city's
@@ -2805,8 +2704,6 @@ entirely different. But is it? Just as in Roman times, a society's demographic c
 A society's degree of urbanization tells us something about its complexity
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 61
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -2860,8 +2757,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 62
 
 |
 
-T h e U p s i d e o f D o w n
-
 the transition is finished, probably in the second half of this century,
 our population will probably be about 50 percent larger than it is now.
 In the next fifty years, we're going to see as much absolute growth in
@@ -2900,8 +2795,6 @@ seventy years, but many poor countries haven't reached that level yet.
 There's another vitally important and often-ignored factor at work
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 63
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -2954,8 +2847,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 64
 
 |
 
-T h e U p s i d e o f D o w n
-
 exactly what it is today—about 1.2 billion—while that of poor countries
 will have surged from about 5.3 to 7.8 billion.
 
@@ -2997,8 +2888,6 @@ is just one example of a worsening global imbalance. We can see this
 global imbalance better if we divide the world's countries (as I have above)
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 65
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -3051,8 +2940,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 66
 
 |
 
-T h e U p s i d e o f D o w n
-
 Migrants trek across Africa in overloaded trucks, hoping to get to Europe. Here a
 
 truck departs northward into the Sahara from Dirkou, Niger.
@@ -3062,8 +2949,6 @@ But many pay a terrible price. Above, a migrant's body washed onto a Spanish
 beach near the Strait of Gibraltar.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 67
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -3116,8 +3001,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 68
 
 |
 
-T h e U p s i d e o f D o w n
-
 be done to really cut down on immigration."28 Sure enough, in 2005,
 agents of the United States Border Patrol arrested nearly 1.2 million
 people who had illegally entered the U.S., mostly across the Rio
@@ -3157,8 +3040,6 @@ a string of terrorist attacks tied to members of a particular ethnic group—
 we could easily see a racist backlash by indigenous Europeans, a wave of
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 69
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -3207,8 +3088,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 70
 
 |
 
-T h e U p s i d e o f D o w n
-
 rather than save it.39 When families have many children, for instance,
 they often have to put food on the table first and save for their children's
 education sometime later. When millions of families make this kind of
@@ -3243,8 +3122,6 @@ are now actually declining. But in most of sub-Saharan Africa and parts of
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 71
 
-W e A r e l i k e R u n n i n g W a t e r
-
 |
 
 7 1
@@ -3275,8 +3152,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 72
 7 2
 
 |
-
-T h e U p s i d e o f D o w n
 
 Probably the most visible result of this rapid urbanization is growth
 in the number and size of truly immense cities—those with populations
@@ -3314,8 +3189,6 @@ wealthy enclaves cordoned off by high walls and barbed wire—a situation that e
 their homes, businesses, and schools (these guards often outnumber
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 73
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -3367,8 +3240,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 74
 
 |
 
-T h e U p s i d e o f D o w n
-
 Although much violence in major cities of poor countries is criminal
 and gang related, it sometimes also takes the form of political protests
 and ethnic or communal riots. But overall in recent decades, this kind
@@ -3411,8 +3282,6 @@ from lowly slaves to the emperor himself.61 The great Roman historian
 Tacitus, writing in the early part of the second century, commented on
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 75
-
-W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -3469,8 +3338,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 78
 7 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 are hours not drilling, rig workers
 toil nonstop taking all the pipe
@@ -3547,8 +3414,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 80
 
 |
 
-T h e U p s i d e o f D o w n
-
 Those early experiences instilled in me a lifelong interest in energy—
 in what it is, where it comes from, and how we use it. And as I've learned
 more about our global energy situation in the years since, I've realized
@@ -3587,8 +3452,6 @@ China, for example, was a net exporter of oil as recently as 1993.
 Because of 8 to 9 percent annual economic growth, booming car sales,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 81
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -3638,8 +3501,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 82
 
 |
 
-T h e U p s i d e o f D o w n
-
 from coal.6 But as overhunted whale stocks dwindled and as the new
 machines of the Industrial Revolution demanded better lubricants and
 unprecedented quantities of power, the stage was set for the age of oil.
@@ -3680,8 +3541,6 @@ Of these, oil is truly special, which is why it's called black gold. It
 packs a huge amount of energy by volume and weight: three large
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 83
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -3733,8 +3592,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 84
 
 |
 
-T h e U p s i d e o f D o w n
-
 There has been much concern lately about oil cost and availability,
 but Adelman's optimism still echoes through public-policy circles in
 Western countries, especially in the United States. American policy
@@ -3777,8 +3634,6 @@ economics and geopolitics of oil: the earlier higher prices depressed oil
 demand for a while, countries that had previously restricted their sales
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 85
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -3830,8 +3685,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 86
 
 |
 
-T h e U p s i d e o f D o w n
-
 was nonsense and that U.S. production wouldn't fall for many decades.
 Indeed, Shell actually censored the written version of Hubbert's address
 to soften his warning.19 Yet, sure enough, in what must be one of the
@@ -3856,8 +3709,6 @@ the region, because the volume of oil discovered year by year also tends
 Decades can pass between oil discovery and production peaks.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 87
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -3909,8 +3760,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 88
 
 |
 
-T h e U p s i d e o f D o w n
-
 before humans started extracting and burning it.27 Given that humankind
 has consumed about 970 billion barrels, we have somewhat less than a
 trillion barrels left. This remainder includes, Campbell thinks, some
@@ -3954,8 +3803,6 @@ I believe, the evidence supports the claim that the world is nearing its
 peak output of conventional oil.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 89
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4001,8 +3848,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 90
 
 |
 
-T h e U p s i d e o f D o w n
-
 Global oil discovery peaked in the early 1960s.
 
 When Harry Longwell says that oil and gas are getting harder to
@@ -4028,8 +3873,6 @@ prior to 1980, including the 4 largest, which together produce nearly
 12 percent of global conventional output.45 Better methods of finding
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 91
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4066,8 +3909,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 92
 9 2
 
 |
-
-T h e U p s i d e o f D o w n
 
 misleading impression that Saudi Arabia has immense untapped
 potential—that it's floating on oil. But the Ghawar and Safaniya fields
@@ -4108,8 +3949,6 @@ for longer. When the field's final decline does occur, it's much steeper
 than it would have otherwise been.58 These technologies never reverse
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 93
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4163,8 +4002,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 94
 
 |
 
-T h e U p s i d e o f D o w n
-
 But given the nature of a bell-shaped production curve, even if 2 trillion
 barrels remain in Earth's crust—as some people claim—the peak won't
 be postponed for much more than a couple of decades.66 And once we
@@ -4205,8 +4042,6 @@ world economy has no Plan B."69
 Let's look briefly at some of these alternatives.70
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 95
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4254,8 +4089,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 96
 
 |
 
-T h e U p s i d e o f D o w n
-
 pumped underground into abandoned oil and gas fields, unminable
 coalfields, and deep, briny aquifers.73
 
@@ -4294,8 +4127,6 @@ our energy needs. Many of the world's regions that consume the most
 energy don't have bright year-round sunlight (think of New York,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 97
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4346,8 +4177,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 98
 
 |
 
-T h e U p s i d e o f D o w n
-
 and appliances, and to fuel our vehicles. Burning hydrogen creates only
 water and heat. It's made using common chemical processes—so no
 heroic new technologies are required—and it can be shipped around
@@ -4385,8 +4214,6 @@ what specialists call the "energy intensity" of our economy—that is,
 the amount of energy needed to produce a dollar of economic output.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 99
-
-S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -4433,8 +4260,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 100
 1 0 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 To sum up, when it comes to energy, and particularly when it comes to
 conventional oil, we're constrained on every side: our appetite for
@@ -4488,8 +4313,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 102
 1 0 2
 
 |
-
-T h e U p s i d e o f D o w n
 
 the building—repeatedly and sometimes grievously. In the past two
 thousand years, more than a dozen significant earthquakes have struck
@@ -4585,8 +4408,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 104
 
 |
 
-T h e U p s i d e o f D o w n
-
 But there's one similarity between earthquakes and social breakdown
 that's particularly key for us here. Just as seismologists can't forecast a
 geological earthquake's precise timing or character, social scientists can't
@@ -4625,8 +4446,6 @@ other stresses converging on our societies. Peak oil could aggravate the
 impact of the world's population imbalances by weakening economic
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 105
-
-E a r t h q u a k e
 
 |
 
@@ -4677,8 +4496,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 106
 
 |
 
-T h e U p s i d e o f D o w n
-
 suburban tracts, devouring everything in their path. By the time the
 fires had been put out, over three thousand homes had been destroyed,
 twenty-four people had died, and the total cost ran into billions of dollars.
@@ -4718,8 +4535,6 @@ an explosion of fires across the city. Either the sparks or the fuel alone
 wouldn't have been enough—but together they produced calamity.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 107
-
-E a r t h q u a k e
 
 |
 
@@ -4767,8 +4582,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 108
 
 |
 
-T h e U p s i d e o f D o w n
-
 Smoke from the October 2003 wildfires in southern California, as seen from space
 
 construction to create a nightmare of wrecked homes, devastated
@@ -4777,8 +4590,6 @@ an outcome would encourage residents to question the wisdom of
 living in such a spot.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 109
-
-E a r t h q u a k e
 
 |
 
@@ -4826,8 +4637,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 110
 
 |
 
-T h e U p s i d e o f D o w n
-
 salvaged after breakdown occurs and perhaps rebuilt better than before.
 Collapse, on the other hand, is far more harmful: the damage endures—
 it may even be permanent—and there's far less knowledge, wealth, or
@@ -4869,8 +4678,6 @@ America—that have much lower ability to manage or adapt, because of
 poverty, environmental damage, low education levels, chronic internal
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 111
-
-E a r t h q u a k e
 
 |
 
@@ -4920,8 +4727,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 112
 
 |
 
-T h e U p s i d e o f D o w n
-
 Coasting to a stop, I found that there was barely enough room to get
 my car off the road. Traffic roared by so close that I couldn't open the
 driver's-side door. I flipped on the emergency flashers, struggled out the
@@ -4959,8 +4764,6 @@ Together, connectivity and speed are, in fact, the first of the two
 power of small groups to destroy things and people). These multipliers
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 113
-
-E a r t h q u a k e
 
 |
 
@@ -5010,8 +4813,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 114
 
 |
 
-T h e U p s i d e o f D o w n
-
 dubious, as I had just experienced the downside of hyper-connectivity
 and speed on the California highway. We often hear of multi-vehicle
 pileups caused partly by people following each other too closely and too
@@ -5029,8 +4830,6 @@ many people as well as me.
 Tight coupling at high speed contributes to multi-car accidents.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 115
-
-E a r t h q u a k e
 
 |
 
@@ -5081,8 +4880,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 116
 
 |
 
-T h e U p s i d e o f D o w n
-
 and managers may have understood the system's bits and pieces, they
 didn't fully understand what could happen when all the bits and pieces
 combined—in other words, they didn't really understand the system as a
@@ -5115,8 +4912,6 @@ Greater connectivity harbors another peril too: it can increase our vulnerabilit
 into the new science of networks.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 117
-
-E a r t h q u a k e
 
 |
 
@@ -5155,8 +4950,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 118
 1 1 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 depend on that hub. An ecosystem, for example, will have a certain
 number of "keystone species"—species that provide vital services, like
@@ -5199,8 +4992,6 @@ countries. In the vast slums of São Paulo, Delhi, Dacca, Calcutta, Lagos,
 and Mexico City, health-care facilities are rudimentary. Respiratory and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 119
-
-E a r t h q u a k e
 
 |
 
@@ -5250,8 +5041,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 120
 
 |
 
-T h e U p s i d e o f D o w n
-
 who had access to them. Another protective factor is a network's redundancy—that is, its ability to offload the functions once served by damaged hubs onto undamaged hubs. But strategies like improving tracing
 and redundancy aren't foolproof, and the incentives for terrorists are
 large: if they succeed in attacking our complex networks, they can spark
@@ -5289,8 +5078,6 @@ communication or other networks. The World Trade Center may have
 been an attractive target, but it was not—as it turned out—a critical, nonredundant hub.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 121
-
-E a r t h q u a k e
 
 |
 
@@ -5337,8 +5124,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 122
 
 |
 
-T h e U p s i d e o f D o w n
-
 Trade Center to Al Qaeda was probably only a few hundred thousand
 dollars, the terrorists multiplied their impact well over a million-fold.
 
@@ -5379,8 +5164,6 @@ Francisco. Or it may be released in a series of smaller, rapid-fire shocks.
 Such staccato shocks—any one of which could be managed on its
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 123
-
-E a r t h q u a k e
 
 |
 
@@ -5429,8 +5212,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 124
 
 |
 
-T h e U p s i d e o f D o w n
-
 In history, we can find many examples of civilizations that have
 been pushed over the edge to collapse by the combination of multiple
 stresses and weakened resilience. A good example is classic Mayan civilization, which flourished in and around Mexico's Yucatán peninsula
@@ -5466,8 +5247,6 @@ periods when parts of the empire were clearly in trouble, other parts
 were often expanding and prospering.48
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 125
-
-E a r t h q u a k e
 
 |
 
@@ -5517,13 +5296,9 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 126
 
 |
 
-T h e U p s i d e o f D o w n
-
 Modern empires have collapsed more quickly than early-modern empires.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 127
-
-E a r t h q u a k e
 
 |
 
@@ -5573,8 +5348,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 128
 
 |
 
-T h e U p s i d e o f D o w n
-
 look like. In fact, the whole notion might seem pretty outlandish. But
 then again, we've never before lived in a world like the one we've created
 today—in which we can disrupt the planet's most fundamental natural
@@ -5621,8 +5394,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 130
 1 3 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 But the northern environment is changing fast—perhaps faster than
 the bears can adapt to it. Over the past fifty years, the climate in the
@@ -5713,8 +5484,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 132
 
 |
 
-T h e U p s i d e o f D o w n
-
 into business as usual.9 In over five hundred pages of text, charts, and
 endnotes (the latter ostentatiously numbered from 1 to 2,930), Lomborg
 argues that environmentalists usually overstate their claims, abuse statistics, and use data selectively. The popular media pay attention to their
@@ -5755,8 +5524,6 @@ doesn't affect us significantly—so what if climate change hurts distant
 polar bears—or because we can easily adjust to its effects. Finally, if we
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 133
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -5800,8 +5567,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 134
 
 |
 
-T h e U p s i d e o f D o w n
-
 smothered Los Angeles, but now the air, though still polluted, is clear
 enough that the city's residents can regularly view the San Gabriel
 Mountains to the east.18 Examples like these have led some analysts to
@@ -5842,8 +5607,6 @@ example, in the distribution of wealth and political power between
 groups—or in the basic operation of capitalism.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 135
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -5892,8 +5655,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 136
 
 |
 
-T h e U p s i d e o f D o w n
-
 something we can easily see to something we can't see. For instance,
 we clean up the smog and brown sludge around us by using sophisticated
 technologies that themselves consume lots of energy. Catalytic converters
@@ -5932,8 +5693,6 @@ They often can't access the technologies, know-how, and infrastructure
 that would help them protect their natural resources. Fuel-efficient
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 137
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -5984,8 +5743,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 138
 
 |
 
-T h e U p s i d e o f D o w n
-
 As the soil washes away, only the rocks stay behind.
 
 gone, the regional climate changes. Without plants to cycle water between
@@ -6009,8 +5766,6 @@ regulated industries like metal-plating shops, pharmaceutical factories,
 and fertilizer plants.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 139
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6055,8 +5810,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 140
 
 |
 
-T h e U p s i d e o f D o w n
-
 general relationship between human beings and nature. And when we
 do, we discover a multidimensional environmental crisis that encompasses the whole planet.
 
@@ -6095,8 +5848,6 @@ all Earth's terrestrial plants and animals absorb in a whole year.27 Other
 human-caused oxidation isn't as visible. Around the world, thousands
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 141
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6141,8 +5892,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 142
 
 |
 
-T h e U p s i d e o f D o w n
-
 we've transformed and often degraded about half of the world's icefree land.35 Row-crop agriculture, cities with their suburban sprawl, and
 industrial zones alone cover about 15 percent of Earth's ice-free land—
 an area larger than the United States, Canada, and Mexico combined.
@@ -6181,8 +5930,6 @@ dioxide, playing a central role in stabilizing global climate. And wood
 and its products (like charcoal) are the main source of energy for over
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 143
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6233,8 +5980,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 144
 
 |
 
-T h e U p s i d e o f D o w n
-
 Each year, Indonesia loses an area of forest the size of Connecticut. Above, an
 
 Indonesian landscape after logging.
@@ -6257,8 +6002,6 @@ maximum limit, about 30 percent are overfished, and many have collapsed. This de
 main source of protein for about 1.5 billion of us. As our human population has grown and catches of wild fish have stagnated, world per capita
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 145
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6286,8 +6029,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 146
 1 4 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 world renowned for its immense stocks of cod, and fishermen would
 sometimes catch old, hundred-kilogram codfish as big as a man. Now
@@ -6328,8 +6069,6 @@ our environmental problems can't be all that bad.
 But this argument is deeply flawed. That human well-being, narrowly defined, is improving does not mean that environmental damage
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 147
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6380,8 +6119,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 148
 
 |
 
-T h e U p s i d e o f D o w n
-
 coast, are practically starving. "There just aren't any fish anymore," says
 Teresa López, a villager. "Less and less every year for many years. Now
 we haven't enough to eat."57
@@ -6421,8 +6158,6 @@ The costs don't stop there. They ripple outward, undermining poor
 societies' general ability to produce wealth and taking a toll even in the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 149
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6468,8 +6203,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 150
 
 |
 
-T h e U p s i d e o f D o w n
-
 Riots in Shanghai Suburb as Pollution Protest Heats Up
 XINCHANG, China (July 19, 2005)–As many as 15,000 people
 massed here Sunday night and waged a pitched battle with the
@@ -6506,8 +6239,6 @@ What's more, environmental stress and the violence it sometimes
 causes can hollow societies out from inside, making them less resilient
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 151
-
-F l e s h o f t h e L a n d
 
 |
 
@@ -6564,8 +6295,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 154
 1 5 4
 
 |
-
-T h e U p s i d e o f D o w n
 
 Kilimanjaro at dawn in April 1983
 
@@ -6644,8 +6373,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 156
 
 |
 
-T h e U p s i d e o f D o w n
-
 In Alaska, melting permafrost has caused telephone poles to tip.
 
 southern coast, warm summers have helped unleash a beetle infestation
@@ -6669,8 +6396,6 @@ away to later melt in the open North Atlantic. In some cases, the glaciers' rate
 than twelve kilometers a year—and their huge tongues extending into
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 157
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -6719,8 +6444,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 158
 
 |
 
-T h e U p s i d e o f D o w n
-
 the storm revealed the frightening implications of global warming.
 Although it's impossible to attribute any single weather event specifically
 to our planet's warming, Katrina was exactly the kind of catastrophe we're
@@ -6761,8 +6484,6 @@ At least that's the consensus today among climate scientists. Not surprisingly, 
 of the consensus.17 For instance, United States Senator James Inhofe,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 159
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -6812,8 +6533,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 160
 
 |
 
-T h e U p s i d e o f D o w n
-
 anthropology and medicine), and a remarkable number haven't any
 scientific training at all.21 Still, whether or not they have formal training
 in climate science, these skeptics have exploited the genuine scientific
@@ -6852,8 +6571,6 @@ industrial era about 150 years ago, we've increased carbon dioxide levels
 by more than a third and methane concentrations by about 100 percent.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 161
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -6905,8 +6622,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 162
 
 |
 
-T h e U p s i d e o f D o w n
-
 temperature is now increasing by around 0.17 degrees Celsius each
 decade. Nine of the ten hottest years since the 1860s (when people
 began accurately recording temperature) have occurred since 1995, and
@@ -6948,8 +6663,6 @@ causing the observed warming at the surface? On this question, scientific
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 163
 
-C l o s i n g t h e W i n d o w s
-
 |
 
 1 6 3
@@ -6983,8 +6696,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 164
 1 6 4
 
 |
-
-T h e U p s i d e o f D o w n
 
 dioxide levels should look like. It should have telltale characteristics:
 the surface of the planet should get hotter, for instance, while the
@@ -7022,8 +6733,6 @@ combine with heavier rainfall and more frequent storms to drive people
 inland.39 In tropical and subtropical zones, coastal communities will
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 165
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7073,8 +6782,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 166
 
 |
 
-T h e U p s i d e o f D o w n
-
 Even assuming that new technologies will steadily reduce carbon dioxide
 output per dollar of GDP, by 2100 emissions of carbon dioxide from
 fossil fuels are likely to have tripled from today's level to over seventy-five
@@ -7112,8 +6819,6 @@ That point may seem like the distant future, but really it isn't: it's possibly 
 of our great-grandchildren.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 167
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7160,8 +6865,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 168
 
 |
 
-T h e U p s i d e o f D o w n
-
 Scientists don't understand many of the principal feedbacks in the
 Earth's climate, but they're concerned that positive feedbacks could inexorably drive the climate toward higher temperatures—and even produce a
 "runaway" greenhouse effect. Events in the Arctic, again, show how this
@@ -7196,8 +6899,6 @@ The third reason we should be very concerned about our climate future
 is likely the most important, at least from the point of view of possible
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 169
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7250,8 +6951,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 170
 
 |
 
-T h e U p s i d e o f D o w n
-
 technologies to these events because they happen so quickly and can
 upend our world so completely. We're far better at adapting to slower,
 incremental change.
@@ -7293,8 +6992,6 @@ other is near Antarctica). The process is a key element of a planetwide
 flow of water—often called the Great Ocean Conveyor—that snakes
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 171
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7348,8 +7045,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 172
 
 |
 
-T h e U p s i d e o f D o w n
-
 record in the eastern United States in the past century." Northern
 Europe would be as frigid as Alaska and probably unable to feed itself.
 Moreover, the effects could extend far beyond the North Atlantic: when
@@ -7389,8 +7084,6 @@ to each other—they "co-evolve," in the language of biologists—and
 their relationships often become deeply symbiotic. A wonderful
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 173
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7438,8 +7131,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 174
 
 |
 
-T h e U p s i d e o f D o w n
-
 Ocean biologists have discovered something that might be even
 more disturbing: since the early 1980s the productivity of ocean phytoplankton has dropped 6 percent. These microscopic plants play a key
 role in absorbing carbon dioxide from the atmosphere and are the essential foundation for the ocean's food network. Although many factors
@@ -7474,8 +7165,6 @@ nothing to eat and nothing to drink."80
 Hurricane Jeanne went on to drench Florida—the fourth major
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 175
-
-C l o s i n g t h e W i n d o w s
 
 |
 
@@ -7537,8 +7226,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 178
 1 7 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 capitalism was undermining the foundations of democratic society and,
 ultimately, the prospects for the success of capitalism itself.1
@@ -7632,8 +7319,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 180
 
 |
 
-T h e U p s i d e o f D o w n
-
 I sampled opinion. Everyone I asked thought Krugman had won. Yet I
 came away with a much different impression. Krugman had won, yes, but
 his victory was purely technical. He was precise, witty, and well informed.
@@ -7674,8 +7359,6 @@ makers breathed a sigh of relief. During these years, the ideas of George
 Soros received at best mixed reviews.5 Yet I think Soros was right in
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 181
-
-N o E q u i l i b r i u m |
 
 1 8 1
 
@@ -7720,8 +7403,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 182
 
 |
 
-T h e U p s i d e o f D o w n
-
 inflation. At the same time, agencies like the International Monetary
 Fund (IMF) and World Bank have laid out best-practice standards for
 poor countries' banking, securities, and insurance industries. World
@@ -7764,8 +7445,6 @@ chokepoints, and only a few people can escape at any one time).
 Either of these beliefs isn't a problem by itself, but when they combine
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 183
-
-N o E q u i l i b r i u m |
 
 1 8 3
 
@@ -7813,8 +7492,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 184
 
 |
 
-T h e U p s i d e o f D o w n
-
 Most proponents of greater global economic integration don't dare
 acknowledge this fact. And clearly it wasn't on the mind of the dot-com
 millionaire at the Asilomar conference in May 2001 when he declared—
@@ -7857,8 +7534,6 @@ overdue. But when applied in the middle of a market panic, they sucked
 spending power out of the economy and helped turn an already critical
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 185
-
-N o E q u i l i b r i u m |
 
 1 8 5
 
@@ -7904,8 +7579,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 186
 
 |
 
-T h e U p s i d e o f D o w n
-
 for the vast wealth that the system generates. However, critics point to
 an additional and perhaps more serious problem: yes, modern capitalism
 is astonishingly good at creating wealth, but its bounty isn't distributed
@@ -7946,8 +7619,6 @@ in poor countries face chronic hunger, an increase of nearly 20 million
 since the 1990s.32 And according to UNICEF, 1 billion children—or
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 187
-
-N o E q u i l i b r i u m |
 
 1 8 7
 
@@ -7997,8 +7668,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 188
 
 |
 
-T h e U p s i d e o f D o w n
-
 change in the absolute gaps in per capita incomes between rich and
 poor is staggering."36
 
@@ -8038,8 +7707,6 @@ in rich countries.42 For this reason, some economists contend that any
 calculation of global income inequality needs to weight each country
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 189
-
-N o E q u i l i b r i u m |
 
 1 8 9
 
@@ -8086,8 +7753,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 190
 
 |
 
-T h e U p s i d e o f D o w n
-
 countries was below that of the average income in rich countries in both
 the 1980s and in the 1990s. No convergence there. Only in the first five
 years of the new century, according to the report, did income in poor
@@ -8129,8 +7794,6 @@ start so far behind, and because their pace is slower at first, they can't
 catch up for a very long time.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 191
-
-N o E q u i l i b r i u m |
 
 1 9 1
 
@@ -8176,8 +7839,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 192
 
 |
 
-T h e U p s i d e o f D o w n
-
 nook and cranny on the planet—economic crises became more
 common, the income gap between rich and poor stayed wide, and,
 perhaps most surprisingly, the growth of average income per person
@@ -8220,8 +7881,6 @@ the American psychologist David Myers, "We are twice as rich and no
 happier."55 And when we look at countries around the world, we find
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 193
-
-N o E q u i l i b r i u m |
 
 1 9 3
 
@@ -8268,8 +7927,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 194
 
 |
 
-T h e U p s i d e o f D o w n
-
 In the brutal competition of a capitalist economy, companies survive in part by keeping their production costs as low as possible. They
 often do this by inventing or buying new technologies that help them
 use the inputs to their production process—capital, labor, and
@@ -8309,8 +7966,6 @@ assumption is right, people who save money because computers are
 cheaper will spend it on other things rather than put it in a bank or under
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 195
-
-N o E q u i l i b r i u m |
 
 1 9 5
 
@@ -8356,8 +8011,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 196
 
 |
 
-T h e U p s i d e o f D o w n
-
 supply of such jobs is limited. So an increasingly high-tech and knowledge-based economy heavily rewards a relatively small proportion of
 workers who have certain cognitive abilities, while everyone else competes for the remaining low-skill jobs that pay far less.
 
@@ -8396,8 +8049,6 @@ jobs, there will be enough economic demand to keep the economy
 humming and to prevent wrenching political conflict. Modern capitalism's stability—and increasingly the global economy's stability—
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 197
-
-N o E q u i l i b r i u m |
 
 1 9 7
 
@@ -8445,8 +8096,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 198
 
 |
 
-T h e U p s i d e o f D o w n
-
 like obesity, anorexia, and bulimia, and their soaring rates of clinical
 depression. The ever-rising productivity of our farms and food producers has made food abundant and cheap, so agribusiness naturally
 barrages us with ads and marketing ploys to get us to buy ever more of
@@ -8483,8 +8132,6 @@ requirements of human dignity. And for the poorest billion people,
 growth can mean the difference between life and death.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 199
-
-N o E q u i l i b r i u m |
 
 1 9 9
 
@@ -8528,8 +8175,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 200
 
 |
 
-T h e U p s i d e o f D o w n
-
 But even if efforts to boost consumption do create sufficient demand,
 they often make instability worse. When interest rates are too low for
 too long, especially if inflation appears to be under control, people and
@@ -8571,8 +8216,6 @@ The growth imperative not only worsens instability and the income
 gap but also often conflicts with another, increasingly clear, imperative—
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 201
-
-N o E q u i l i b r i u m |
 
 2 0 1
 
@@ -8618,8 +8261,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 202
 
 |
 
-T h e U p s i d e o f D o w n
-
 These are strong views, but they're not unusual.95 In debates with
 geologists about the supply of conventional oil, or with environmentalists about the dangers of climate change, economists in particular say
 that human beings, if given the right incentives, are smart enough to
@@ -8641,8 +8282,6 @@ Americans use far more paper, plastic, and aluminum than before.100 And
 between 1980 and 2004, all those SUVs that helped keep the American
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 203
-
-N o E q u i l i b r i u m |
 
 2 0 3
 
@@ -8689,8 +8328,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 204
 
 |
 
-T h e U p s i d e o f D o w n
-
 before—is producing a stew of changes and stresses that's an almost
 perfect recipe for widespread and even violent resentment of the world's
 rich by the world's poor. Because capitalism cultivates material discontent, because we naturally compare ourselves with each other, and
@@ -8729,8 +8366,6 @@ problems, from climate change to looming shortages of energy and
 water.106 At the same time, globalized capitalism is relentlessly promoting a homogenized, mass culture of consumerism. The result: just
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 205
-
-N o E q u i l i b r i u m |
 
 2 0 5
 
@@ -8786,8 +8421,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 208
 2 0 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 Antonio Santucci's armillary sphere in the Museum of the History of Science,
 
@@ -8849,8 +8482,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 210
 
 |
 
-T h e U p s i d e o f D o w n
-
 in the seventeenth century, Johannes Kepler determined that planets
 move at varying speed along elliptical, not circular, orbits. And finally
 Galileo Galilei delivered the coup de grâce when he spied Jupiter's
@@ -8891,8 +8522,6 @@ didn't work, he added more and more, and eventually the whole apparatus
 became absurdly complex.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 211
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -8938,8 +8567,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 212
 
 |
 
-T h e U p s i d e o f D o w n
-
 We ignore or downplay such evidence in many ways. First, we sometimes arrange our lives so we don't see it. We don't watch the news or
 read newspapers, we don't engage in conversations about dispiriting
 issues, we avoid going to places where we see things unpleasant, and we
@@ -8977,8 +8604,6 @@ This kind of shift may be psychologically wrenching, and it may create
 upheaval in institutions that are wedded to a particular cosmological
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 213
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9027,8 +8652,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 214
 
 |
 
-T h e U p s i d e o f D o w n
-
 undercut by the stark fact that some are already really bad, and they're not
 getting fixed. Problems like the HIV/AIDS pandemic, the world fisheries
 crisis, the growing wealth gap between rich and poor, and the possible
@@ -9069,8 +8692,6 @@ in the U.S. government who had pushed the possibility aggressively
 would have been regarded as a kook.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 215
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9118,8 +8739,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 216
 
 |
 
-T h e U p s i d e o f D o w n
-
 the thoroughgoing pervasiveness and the sheer endurance—in the face
 of abundant contrary evidence—of much of the denial we see around
 us today.
@@ -9157,8 +8776,6 @@ bizarre way we describe someone to a stranger. We usually say "He (or
 she) is an x," where "x" is the person's profession.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 217
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9206,8 +8823,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 218
 
 |
 
-T h e U p s i d e o f D o w n
-
 communicating with people.20 We realize, too, that it's senseless to challenge openly our economic system's overarching logic because we'd be
 challenging the source of our own paycheck—the goose that laid the
 golden egg, so to speak. The basic truth of this economic arrangement is
@@ -9245,8 +8860,6 @@ The conviction that one's advantages are entirely fair seems virtually a
 condition of membership in the rarefied upper strata of our societies.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 219
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9296,8 +8909,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 220
 
 |
 
-T h e U p s i d e o f D o w n
-
 Three hours later I was on a flight to Albuquerque, New Mexico, to
 see someone whose research I'd studied for years, but whom I'd never
 met in person.
@@ -9340,8 +8951,6 @@ Either way, societies often respond to their problems by increasing their
 complexity. A society dealing with less rainfall might build elaborate
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 221
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9390,8 +8999,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 222
 
 |
 
-T h e U p s i d e o f D o w n
-
 trouble because the population must bear complexity's ever-higher cost,
 even though this complexity generates no net benefit or improvement in
 well-being. Over time the society's resilience declines. An expanding
@@ -9433,8 +9040,6 @@ unintended costs. But that raised the second aspect that puzzled me:
 Tainter's theory focuses almost exclusively on how societies respond to
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 223
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9491,13 +9096,9 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 224
 
 |
 
-T h e U p s i d e o f D o w n
-
 The gate to the Temple of Bacchus in Baalbek
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 225
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9544,8 +9145,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 226
 
 |
 
-T h e U p s i d e o f D o w n
-
 called the Resilience Alliance, with over a dozen participating institutions around the world. Although Holling is now retired from his last
 academic position at the University of Florida, he's still terrifically vigorous and focused on furthering the Resilience Alliance's work.
 
@@ -9586,8 +9185,6 @@ air to forms that plants and animals can use—in the specific amounts and
 in the specific places needed. It becomes home to more worms, beetles,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 227
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9636,8 +9233,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 228
 
 |
 
-T h e U p s i d e o f D o w n
-
 be obliterated. The ecosystem loses species and biomass and in the
 process much of its connectedness and self-regulation.
 
@@ -9678,8 +9273,6 @@ phase—a curve that moves upward as the system's potential and connectedness in
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 229
 
-C y c l e s W i t h i n C y c l e s
-
 |
 
 2 2 9
@@ -9705,8 +9298,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 230
 2 3 0
 
 |
-
-T h e U p s i d e o f D o w n
 
 smaller and faster cycles of sub-ecosystems that encompass, for instance,
 particular hillsides or streams. In fact, adaptive cycles can be found all
@@ -9747,8 +9338,6 @@ by identifying variations in the system's pace of change as it moves
 through its cycle; and by describing the roles of adjacent cycles in the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 231
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9804,8 +9393,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 232
 
 |
 
-T h e U p s i d e o f D o w n
-
 happens, they'll reinforce each other's collapse."
 
 "The third reason," he continued, "is the rise of mega-terrorism—
@@ -9842,8 +9429,6 @@ People's intervention badly distorted the adaptive cycle of this integrated syst
 ridge's forest might have seen a series of small and localized fires over a
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 233
-
-C y c l e s W i t h i n C y c l e s
 
 |
 
@@ -9896,8 +9481,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 234
 
 |
 
-T h e U p s i d e o f D o w n
-
 explanation of the planets' movements. In the process, our explanation
 moves through something akin to a growth phase: it becomes progressively more complex, cumbersome, and rigid; it loses resilience; and it's
 ripe for collapse should another, better, theory come along.
@@ -9945,8 +9528,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 236
 2 3 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 The Pont du Gard, just northeast of Nîmes, France
 
@@ -10023,8 +9604,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 238
 
 |
 
-T h e U p s i d e o f D o w n
-
 Limestone deposits of the Nîmes aqueduct provide a record of its past.
 
 (The interior surface of the aqueduct channel is immediately to the right of the
@@ -10046,8 +9625,6 @@ Romans and nature. It turns out that they dominated the natural environment of t
 dominate Earth's biosphere today.8 Romans deforested, drained, irrigated, terraced, and overgrazed hundreds of thousands of square kilometers of land.9 "Indeed, one of the most striking parallels between the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 239
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10094,8 +9671,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 240
 
 |
 
-T h e U p s i d e o f D o w n
-
 troops. Then they co-opted the local urban elites to help manage—
 and in particular to tax—the surrounding countryside by granting
 them various types of association with the empire, sometimes
@@ -10134,8 +9709,6 @@ Gaul became, in the words of one expert, "the most productive, most
 industrialized, and indeed most civilized province in the empire."21
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 241
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10186,8 +9759,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 242
 
 |
 
-T h e U p s i d e o f D o w n
-
 respond to a range of contingencies—the first state to do so until
 modern times.30 Considering the empire's expanse, it wasn't an excessive
 force, averaging around thirty legions through much of the second
@@ -10227,8 +9798,6 @@ fourth century, Rome alone had one thousand baths, and many were
 unbelievably ostentatious.39
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 243
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10278,8 +9847,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 244
 
 |
 
-T h e U p s i d e o f D o w n
-
 Rome was thus locked into a food-based energy system that left
 little room for maneuver. Without the scientific skills, institutions, and
 culture to make the jump to a new kind of energy system—like one based
@@ -10321,8 +9888,6 @@ system in this region was intricate, tightly connected, highly regulated—
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 245
 
-D i s i n t e g r a t i o n
-
 |
 
 2 4 5
@@ -10343,8 +9908,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 246
 2 4 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 deepening into the third and fourth centuries. We don't really know its
 causes, but the fact that it happened in many places suggests that local
@@ -10388,8 +9951,6 @@ Perhaps it's rash, then, to add another one to the list. Still, recent work
 by archaeologists, economic historians, and complexity theorists gives
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 247
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10436,8 +9997,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 248
 
 |
 
-T h e U p s i d e o f D o w n
-
 Rome's first rudimentary state budget. At the beginning of each financial
 year on September 1, officials calculated the government's needs for the
 coming year and divided the total by the number of units of land in the
@@ -10475,8 +10034,6 @@ Diocletian promulgated in 301 his famous Edict on Prices, stipulating
 the price of hundreds of goods and services.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 249
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10523,8 +10080,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 250
 
 |
 
-T h e U p s i d e o f D o w n
-
 just maintenance of the status quo. In the end, as costs outstripped revenues, the western empire "could no longer afford the problem of its
 own existence."70
 
@@ -10564,8 +10119,6 @@ companies, economies, and societies to maximize performance and productivity for
 speed of production and transport of materials, energy, and information.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 251
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10616,8 +10169,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 252
 
 |
 
-T h e U p s i d e o f D o w n
-
 the enormous complexity of today's Holland won't be remotely adequate
 for the host of planetary challenges we're going to have to address soon,
 like climate change and worsening shortages of high-quality energy.
@@ -10655,8 +10206,6 @@ All these factors are creating the overload condition I talked about in
 chapter 5—just at the moment when we're entering an epochal shift
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 253
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10704,8 +10253,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 254
 
 |
 
-T h e U p s i d e o f D o w n
-
 becomes too hot, which destroys the seeds that could be the source of
 the forest's rebirth.
 
@@ -10743,8 +10290,6 @@ riots, insurgency, guerrilla war, ethnic cleansing, and terrorism. Severe
 spikes in energy costs, especially, could trigger violence in megacities in
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 255
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10795,8 +10340,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 256
 
 |
 
-T h e U p s i d e o f D o w n
-
 A potentially rebellious group will feel more powerful if it believes that
 other people and groups share its identity—that they are part of its "we"
 group, so to speak—and could therefore be allies.88
@@ -10836,8 +10379,6 @@ together by fiber-optic cables, air travel, and trade, and suffused with
 information from TV, videos, and the Web. Millions know what they're
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 257
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10886,8 +10427,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 258
 
 |
 
-T h e U p s i d e o f D o w n
-
 better. And because they usually have limited educations, they have
 limited knowledge of things beyond their immediate situation. The
 people who are most likely to participate in violent groups have more time
@@ -10929,8 +10468,6 @@ has generally boosted the capabilities of small groups and individuals
 relative to large institutions and governments. Sometimes this power
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 259
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -10979,8 +10516,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 260
 
 |
 
-T h e U p s i d e o f D o w n
-
 I earlier mentioned the risk that terrorists could get hold of enough
 nuclear material, especially highly enriched uranium (HEU), to make
 an atomic bomb. Given the huge amount of HEU sitting in insecure
@@ -11019,8 +10554,6 @@ from large agglomerations of military force, like armies massed along
 borders, naval fleets at sea, and missiles in their silos. Today such agencies have to pay much more attention than before to small groups and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 261
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -11069,8 +10602,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 262
 
 |
 
-T h e U p s i d e o f D o w n
-
 underlying message of timeless accomplishment: we have the power
 and the will, the Romans were saying, to do the work of gods wherever
 we choose.107 But today another, very different and even contradictory,
@@ -11110,8 +10641,6 @@ use of energy."110 And America survives, as the ancient city of Rome did,
 on lifelines of energy from distant regions.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 263
-
-D i s i n t e g r a t i o n
 
 |
 
@@ -11158,8 +10687,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 264
 2 6 4
 
 |
-
-T h e U p s i d e o f D o w n
 
 which the enemy shifts its tactics as necessary, chooses where to strike at
 will, and then disappears into a vast crowd of passive supporters, all
@@ -11225,8 +10752,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 266
 2 6 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 form of social order—will look truly silly in retrospect.1 We in the West,
 anesthetized by materialism and egged on by a self-satisfied intelligentsia, may have convinced ourselves that our way of life is the apex of
@@ -11313,8 +10838,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 268
 
 |
 
-T h e U p s i d e o f D o w n
-
 absorbs workers who have lost their jobs because of technological
 change and, ultimately, ensures the political stability of our societies.5
 
@@ -11352,8 +10875,6 @@ or overeating. The same is true in international and global affairs. In
 1938, people around the world paid little attention to foreshocks like the
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 269
-
-C a t a g e n e s i s
 
 |
 
@@ -11404,8 +10925,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 270
 
 |
 
-T h e U p s i d e o f D o w n
-
 rapid, perhaps more than 8 percent a year.9 Falling output will have a
 severe impact on a Saudi economy that remains (despite efforts at
 diversification) highly dependent on oil revenues.
@@ -11445,8 +10964,6 @@ network, such as its key oil ports and processing facilities.14 Others
 believe that popular unrest could bring to power a more extreme fundamentalist regime that would stop selling oil to the West.15
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 271
-
-C a t a g e n e s i s
 
 |
 
@@ -11493,8 +11010,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 272
 
 |
 
-T h e U p s i d e o f D o w n
-
 groups have become entrenched in the society, especially in its poorest
 quarters. Pakistan's network of twelve thousand Islamic seminaries, or
 madrassas, is now the population's main source of education, while
@@ -11535,8 +11050,6 @@ But the real worry isn't China's potential strength but its weaknesses.
 Like Saudi Arabia and Pakistan, the country faces a host of rapidly
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 273
-
-C a t a g e n e s i s
 
 |
 
@@ -11583,8 +11096,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 274
 
 |
 
-T h e U p s i d e o f D o w n
-
 Yellow River is dry at its mouth for up to seven months every year, and
 the water table under the northern plain, the source of much of China's
 wheat, is falling by 1.5 meters a year and that under Beijing by 1.2
@@ -11625,8 +11136,6 @@ country's leaders have encouraged an export boom—especially to the
 United States—by keeping the Chinese currency cheap.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 275
-
-C a t a g e n e s i s
 
 |
 
@@ -11676,8 +11185,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 276
 
 |
 
-T h e U p s i d e o f D o w n
-
 times turn difficult, many of the ingredients are in place for a bitter
 conflict between these old enemies.47
 
@@ -11717,8 +11224,6 @@ particularly exposed to a change in ocean heat circulation. Scientists have
 little idea when such an event might occur, but there's now evidence that
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 277
-
-C a t a g e n e s i s
 
 |
 
@@ -11769,8 +11274,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 278
 
 |
 
-T h e U p s i d e o f D o w n
-
 junction in our movement through time that amplifies both danger
 and opportunity. A moment of contingency is a moment of choice, like
 the fork in the pathway encountered by the traveler in Robert Frost's
@@ -11812,8 +11315,6 @@ person and in so doing identify the members of the we group. Then they
 define and identify the bad people who are members of the they group.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 279
-
-C a t a g e n e s i s
 
 |
 
@@ -11865,8 +11366,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 280
 
 |
 
-T h e U p s i d e o f D o w n
-
 When a social earthquake erupts—when the established order starts
 to crack and crumble—much depends on what happens in the period
 immediately following the first shock. In this moment of contingency—
@@ -11908,8 +11407,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 281
 
 simpler, more authoritarian (even brutal) institutions, rules of
 behavior, and economic and social relationships.58
-
-C a t a g e n e s i s
 
 |
 
@@ -11956,8 +11453,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 282
 
 |
 
-T h e U p s i d e o f D o w n
-
 institutional response, or policy that will neatly resolve all our challenges
 in one fell swoop. More than ever in humanity's history, we have to be
 aggressively proactive on multiple fronts at the same time. For example,
@@ -11998,8 +11493,6 @@ These behaviors increase our rigidity and dangerously extend the growth
 phase of our adaptive cycle. When a social earthquake eventually occurs,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 283
-
-C a t a g e n e s i s
 
 |
 
@@ -12048,8 +11541,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 284
 
 |
 
-T h e U p s i d e o f D o w n
-
 produce with solar panels on our rooftops, the less vulnerable we'll be to
 power disruptions far away.64 And in our technology-supercharged international financial markets, if we lower the incentive to "head for the
 exits" when there's a hint of trouble, investors will have more time to think
@@ -12089,8 +11580,6 @@ San Francisco fire spread across the city with devastating effect largely
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 285
 
-C a t a g e n e s i s
-
 |
 
 2 8 5
@@ -12120,8 +11609,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 286
 2 8 6
 
 |
-
-T h e U p s i d e o f D o w n
 
 because the water-supply system was tightly coupled. The earthquake
 had shattered the system's iron mains in three hundred places, and in
@@ -12162,8 +11649,6 @@ of the world's weakest societies—those with horribly damaged environments, end
 corrupt governments.70 If we don't, our entire global social-ecological
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 287
-
-C a t a g e n e s i s
 
 |
 
@@ -12213,8 +11698,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 288
 
 |
 
-T h e U p s i d e o f D o w n
-
 In those days, most advanced economies adhered to the gold standard. Countries tied their money supplies to their reserves of gold and
 guaranteed that they'd redeem their currencies in gold at a fixed rate. So
 the practical result of the insurers' payments—when the payments finally
@@ -12255,8 +11738,6 @@ So a devastating earthquake caused a financial crisis that catalyzed
 a deep reform of key institutions. Here we see catagenesis at work:
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 289
-
-C a t a g e n e s i s
 
 |
 
@@ -12305,8 +11786,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 290
 
 |
 
-T h e U p s i d e o f D o w n
-
 shift capital from inefficient firms to productive ones, while helping to
 purge the excesses of earlier boom times.75 Joseph Schumpeter, one of
 the twentieth century's greatest economists, famously called these
@@ -12344,8 +11823,6 @@ ecosystem itself. For instance, a forest that has burned regrows when
 large-scale cycles of water and nutrients help to germinate tiny seeds left
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 291
-
-C a t a g e n e s i s
 
 |
 
@@ -12394,8 +11871,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 292
 
 |
 
-T h e U p s i d e o f D o w n
-
 of social scientists, nonextremists have a formidable "collective action
 problem." They're rarely organized in coherent groups and thus find it
 hard to act in a coordinated way. They differ widely in their values and
@@ -12432,8 +11907,6 @@ incorporate some (albeit radically transformed) version of marketbased capitalis
 conflicts that would inevitably arise if there were no growth? Right
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 293
-
-C a t a g e n e s i s
 
 |
 
@@ -12483,8 +11956,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 294
 
 |
 
-T h e U p s i d e o f D o w n
-
 aftermath of breakdown, if we use a decentralized approach to solving
 our problems, because traditional centralized and top-down approaches
 aren't nimble enough, and they stifle creativity. Scientists have found
@@ -12521,8 +11992,6 @@ on components of a larger task, and they make the products of their
 work freely available for use by others and for correction and improvement. Over time, the individual components and the larger project
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 295
-
-C a t a g e n e s i s
 
 |
 
@@ -12600,8 +12069,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 298
 2 9 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 Just the everyday crises of a turbulent world? Or were these
 events the kind of early foreshocks we should expect from a planet
@@ -12696,8 +12163,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 300
 
 |
 
-T h e U p s i d e o f D o w n
-
 vanished from all road and store signs. The urban buzz of central Beirut—
 a city that's palpably Western in architecture, dress, and style—seemed
 light-years away.
@@ -12735,8 +12200,6 @@ extent that we discuss values at all, we do so only when provoked by hotbutton i
 we often assume that most things around us in our societies don't involve
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 301
-
-B a a l b e k : T h e L a s t R o c k
 
 |
 
@@ -12782,8 +12245,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 302
 
 |
 
-T h e U p s i d e o f D o w n
-
 We finally arrived at Baalbek. The main street was lined with electricity
 poles decorated with Hezbollah flags, behind which stood dreary lowrise concrete buildings. After passing a traffic island occupied by a large
 model of Jerusalem's Al Aqsa Mosque, we pulled up in front of the
@@ -12825,8 +12286,6 @@ in the late first century.6 Although similar in design to the Parthenon
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 303
 
-B a a l b e k : T h e L a s t R o c k
-
 |
 
 3 0 3
@@ -12855,8 +12314,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 304
 3 0 4
 
 |
-
-T h e U p s i d e o f D o w n
 
 gate of which—with its keystone hanging precariously in midair—was
 depicted in the nineteenth-century lithograph I'd seen in Tainter's
@@ -12899,8 +12356,6 @@ phenomenal sense of purpose endured: the entire temple complex was
 built over a period of two centuries. Thousands of tonnes of granite
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 305
-
-B a a l b e k : T h e L a s t R o c k
 
 |
 
@@ -12952,8 +12407,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 306
 
 |
 
-T h e U p s i d e o f D o w n
-
 alternative values that are centered on the idea of resilience might
 flower, not just at the fringes of our societies but also at their core.
 They might, for instance, promote the merit of smaller populations
@@ -12992,8 +12445,6 @@ No one knows why the Romans wanted to extend the temple platform. In addition to
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 307
 
-B a a l b e k : T h e L a s t R o c k
-
 |
 
 3 0 7
@@ -13024,8 +12475,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 308
 3 0 8
 
 |
-
-T h e U p s i d e o f D o w n
 
 enterprise. It was enduring evidence of overreach. The Romans had
 sought to cut and move a stone unlike anything they'd ever moved
@@ -13292,8 +12741,6 @@ Mathews (London: Routledge, 2001), 158–63.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 315
 
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
-
 |
 
 3 1 5
@@ -13362,8 +12809,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 316
 
 |
 
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
-
 defined by a measure like calories/unit of mass or calories/unit of volume. And
 third is energy quality in terms of usability of the energy resource, which is a function of human technology. Oil wasn't a high-quality energy resource until human
 beings developed the technologies to exploit it. This tripartite distinction means
@@ -13413,8 +12858,6 @@ Entropy," 72–80. For more technical details, see Grégoire and Ilya Prigogine,
 Self-Organization in Nonequilibrium Systems (New York: John Wiley and Sons,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 317
-
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
 
 |
 
@@ -13476,8 +12919,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 318
 
 |
 
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
-
 rectangular cubes standing on end, while the arch itself was another rectangular
 cube laid across the top of the pillars with a cross-sectional slice of a cylinder subtracted to account for the arch's open space. Then, by calculating the volume of
 each of these geometric objects and multiplying the volume by travertine's mass
@@ -13528,8 +12969,6 @@ Ancient Economic and Administrative History, P. A. Brunt ed. (Totawa, NJ:
 Rowman and Littlefield, 1974), 192.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 319
-
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
 
 |
 
@@ -13592,8 +13031,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 320
 
 |
 
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
-
 "Medicago sativa L.," sections on "Energy" and "Yields and Economics," based on
 James A. Duke, "Handbook of Energy Crops," unpublished, 1983, available from
 http://www.hort.purdue.edu/newcrop/duke_energy/Medicago_sativa.html.
@@ -13643,8 +13080,6 @@ certainly larger. As mentioned earlier in this chapter, a number of things were 
 out of the calculation of the energy needed to build the Colosseum. Also, the calculation of the amount of grain needed to supply this energy excludes the energy needed
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 321
-
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
 
 |
 
@@ -13709,8 +13144,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 322
 3 2 2
 
 |
-
-N o t e s f o r C h a p t e r T w o : K e y s t o n e i n T i m e
 
 even by the standards of the Roman empire. . . ." Russell convincingly argues that
 the population of the Italian peninsula in the time of Augustus was around 7 million. If Rome's population was around 1 million, and that of each of Italy's other
@@ -13830,8 +13263,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 324
 
 |
 
-N o t e s f o r C h a p t e r T h r e e : W e A r e l i k e R u n n i n g W a t e r
-
 Will Shape Our Future (Chicago: Ivan R. Dee, 2004); and Nicholas Eberstadt,
 "The Population Implosion," Foreign Policy (March/April 2001): 42–53.
 
@@ -13885,8 +13316,6 @@ Development Review 15, no. 2 (1989): 359–62.
 Times, January 4, 2001, national edition, A1 and A21.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 325
-
-N o t e s f o r C h a p t e r T h r e e : W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -13959,8 +13388,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 326
 
 |
 
-N o t e s f o r C h a p t e r T h r e e : W e A r e l i k e R u n n i n g W a t e r
-
 excellent study of the complex relationship between population growth and local
 natural resources in poor countries is Scott Templeton and Sara Scherr, "Effects of
 Demographic and Related Microeconomic Change on Land Quality in Hills and
@@ -14017,8 +13444,6 @@ of the Issues," Comparative Urban Studies: Occasional Paper Series, no. 22 (Wash
 DC: Woodrow Wilson International Center for Scholars, 1999), 12.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 327
-
-N o t e s f o r C h a p t e r T h r e e : W e A r e l i k e R u n n i n g W a t e r
 
 |
 
@@ -14151,8 +13576,6 @@ Energy (New York: Norton, 2006).
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 329
 
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
-
 |
 
 3 2 9
@@ -14221,8 +13644,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 330
 
 |
 
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
-
 than originally estimated. See Kaufmann, "Planning for the Peak in World Oil
 Production," World Watch 19, no. 1 (January/February 2006): 19–21.
 
@@ -14277,8 +13698,6 @@ All figures in this note were obtained from the newsletters of the Association
 for the Study of Peak Oil (available at www.asponews.org) and cross-checked
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 331
-
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -14342,8 +13761,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 332
 
 |
 
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
-
 33. Some critics note that several of Hubbert's less well known predictions were
 seriously off the mark. Others argue that there's no theoretical reason to assume
 that oil production will follow a bell curve, so Hubbert's success in predicting U.S.
@@ -14393,8 +13810,6 @@ Unfortunately, though, these steady upward revisions encouraged investors and
 commentators to become excessively optimistic about oil's long-term availability
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 333
-
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -14454,8 +13869,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 334
 
 |
 
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
-
 43. Charles Hall et al., "Hydrocarbons and the Evolution of Human Culture," Nature
 426, no. 6964 (November 20, 2003): 320; and Cutler Cleveland, "Net Energy
 from the Extraction of Oil and Gas in the United States," Working Paper 0101,
@@ -14505,8 +13918,6 @@ World Economy (Hoboken, NJ: Wiley, 2005), 241.
 newsletter21_200209.pdf.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 335
-
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
 
 |
 
@@ -14576,8 +13987,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 336
 3 3 6
 
 |
-
-N o t e s f o r C h a p t e r F o u r : S o L o n g , C h e a p S l a v e s
 
 it takes a while for a trend to appear in oil production data, we won't know a couple
 of years whether this prediction is correct. Deffeyes, Beyond Oil, 3.
@@ -14702,8 +14111,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 338
 
 |
 
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
-
 Some of today's most advanced methods of prediction rely on analysis of earthquake precursors—patterns of seismicity—to identify regions with a high likelihood of large earthquakes. See, in particular, Vladimir Keilis-Borok, "Reverse
 Tracing of Short-term Earthquake Precursors," Physics of the Earth and Planetary
 Interiors 145, no. 1–4 (July 30, 2004): 75–85, and Vladimir Keilis-Borok,
@@ -14757,8 +14164,6 @@ http://hnn.us/articles/1761.html.
 a system's simplification will likely disrupt its regular functions, while a breakdown
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 339
-
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
 
 |
 
@@ -14817,8 +14222,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 340
 
 |
 
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
-
 Political Order in Changing Societies (New Haven: Yale University Press, 1968), especially 79 and 274–78; and Alexander Motyl, Imperial Ends: The Decay, Collapse, and
 Revival of Empires (New York: Columbia University Press, 2001), 50–53.
 
@@ -14867,8 +14270,6 @@ Markets Crash: Critical Events in Complex Financial Systems
 Princeton University Press, 2003).
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 341
-
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
 
 |
 
@@ -14928,8 +14329,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 342
 
 |
 
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
-
 Frequency distributions of random and scale-free networks
 
 are at the end of the tail. Such networks are called scale-free because, in contrast to
@@ -14964,8 +14363,6 @@ vulnerabilities are increasing steadily, that the means to exploit those weaknes
 readily available and that the costs associated with an effective attack continue to
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 343
-
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
 
 |
 
@@ -15031,8 +14428,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 344
 3 4 4
 
 |
-
-N o t e s f o r C h a p t e r F i v e : E a r t h q u a k e
 
 Non-Recovery of the Cod Stock on the Eastern Scotian Shelf, Canada"
 Canadian Journal of Fisheries and Aquatic Sciences 62, no. 7 (July, 2005): 1474–90;
@@ -15150,8 +14545,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 346
 
 |
 
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
-
 Andrew Derocher, "Possible Impacts of Climatic Warming on Polar Bears,"
 Arctic 46, no. 3 (September 1993): 240–45, especially 244.
 
@@ -15206,8 +14599,6 @@ which he accuses environmentalists and environmental scientists," writes John
 Holdren of Harvard University, "is in fact committed prolifically and indiscriminately in The Skeptical Environmentalist." John Holdren, "A Response to Bjørn
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 347
-
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
 
 |
 
@@ -15269,8 +14660,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 348
 
 |
 
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
-
 17. "A Project to Grow Fish in Once-Polluted Boston Harbor Waters," New York
 
 Times, December 28, 1997, national edition, 22.
@@ -15323,8 +14712,6 @@ http://www.wilsoncenter.org/topics/pubs/Report_8_BIlsborrow_article.pdf.
 the needs of decision makers and the public for scientific information concerning
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 349
-
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
 
 |
 
@@ -15393,8 +14780,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 350
 
 |
 
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
-
 over the Past 300 Years (Cambridge: Cambridge University Press with Clark
 University, 1990), 13.
 
@@ -15444,8 +14829,6 @@ see James Gustave Speth, "Recycling Envronmentalism," Foreign Policy
 (July/August 2002): 74–75; and on mangroves, see FAO, "Part 1: The Situation and
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 351
-
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
 
 |
 
@@ -15513,8 +14896,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 352
 3 5 2
 
 |
-
-N o t e s f o r C h a p t e r S i x : F l e s h o f t h e L a n d
 
 53. "Trawlers trailing dredges the size of football fields have literally scraped the bottom
 clean," write Daniel Pauly and Reg Watson of the University of British Columbia.
@@ -15646,8 +15027,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 354
 
 |
 
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
-
 7. Matthew Sturm, Donald Perovich, and Mark Serreze, "Meltdown in the
 North," Scientific American 289, no. 4 (October 2003): 63; and John
 Whitfield, "Too Hot to Handle," Nature 425, no. 6956 (September 25, 2003):
@@ -15708,8 +15087,6 @@ growing." James Hansen, "A Slippery Slope: How Much Global Warming
 Constitutes 'Dangerous Anthropogenic Interference'?" editorial essay, Climate
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 355
-
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
 
 |
 
@@ -15777,8 +15154,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 356
 
 |
 
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
-
 and Frank Wentz, "The Effect of Diurnal Correction on Satellite-Derived Lower
 Tropospheric Temperature," Science 309, no. 5740 (September 2, 2005): 1548–51.
 On errors in interpreting weather balloon data, see Steven Sherwood, John
@@ -15831,8 +15206,6 @@ Times, December 11, 2005, national edition, 1.
 United States, southern Europe, and Southwest Asia from 1998 to 2002 are consis-
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 357
-
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
 
 |
 
@@ -15901,8 +15274,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 358
 
 |
 
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
-
 Kleypas, and Richard Aronson, Coral Reefs & Global Climate Change: Potential
 Contributions of Climate Change to Stresses on Coral Reef Ecosystems (Arlington, VA: Pew
 Center on Global Climate Change, 2004), available at http://www.pewclimate.org/
@@ -15954,8 +15325,6 @@ carbon dioxide in the planet's fossil fuel resources is released into the atmosp
 boosting atmospheric concentrations to 1,423 ppm.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 359
-
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
 
 |
 
@@ -16016,8 +15385,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 360
 3 6 0
 
 |
-
-N o t e s f o r C h a p t e r S e v e n : C l o s i n g t h e W i n d o w s
 
 60. B. Hansen, W. Turrell, and S. Østerhus, "Decreasing Overflow from the Nordic
 Seas into the Atlantic Ocean Through the Faroe Bank Channel Since 1950,"
@@ -16201,8 +15568,6 @@ Depression, Harold James provides a historical perspective that emphasizes longt
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 363
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
-
 3 6 3
 
 End of Globalization: Lessons from the Great Depression (Cambridge, MA: Harvard
@@ -16267,8 +15632,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 364
 
 |
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
-
 "Indonesia," Asian Development Outlook 2006 (Manila: ADB, 2006), available at
 http://www.adb.org/Documents/Books/ADO/2006/ino.asp.
 
@@ -16321,8 +15684,6 @@ UNICEF, 2004), 19–22, available at http://www.unicef.org/sowc05/english/
 sowc05_chapters.pdf.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 365
-
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
 
 3 6 5
 
@@ -16387,8 +15748,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 366
 
 |
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
-
 41. On the proportion of the world's population with an income below $1 a day in the
 
 early nineteenth century, see Firebaugh, New Geography, 13.
@@ -16442,8 +15801,6 @@ income gap widens. For example, we can use a ratio to measure global economic
 inequality by dividing the average income of people in rich countries by the average
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 367
-
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
 
 3 6 7
 
@@ -16501,8 +15858,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 368
 
 |
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
-
 51. On the declining trend in the growth of average income, see table 10 of World
 Commission on the Social Dimension of Globalization, A Fair Globalization, 36.
 
@@ -16559,8 +15914,6 @@ Willingness to Consume," Ecological Economics 28 (1999): 399–420.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 369
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
-
 3 6 9
 
 59. Juliet Schor discusses both these phenomena in The Overworked American: The
@@ -16612,8 +15965,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 370
 
 |
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
-
 organisms in an ecosystem) create niches that provide opportunities for the development of new entities. See W. Brian Arthur, "On the Evolution of Complexity,"
 in Complexity: Metaphors, Models, and Reality, ed. G. Cowan, D. Pines, and D.
 Meltzer, Santa Fe Institute Studies in the Sciences of Complexity, Proceedings,
@@ -16663,8 +16014,6 @@ of Mass Consumption in Postwar America (New York: Knopf, 2003).
 72. Juliet Schor develops this argument in detail in The Overworked American, espe-
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 371
-
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
 
 3 7 1
 
@@ -16727,8 +16076,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 372
 
 |
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
-
 82. Eric Stice, Diane Spangler, and Stewart Agras, "Exposure to Media-Portrayed
 Thin-Ideal Images Adversely Affects Vulnerable Girls: A Longtitudinal
 Experiment," Journal of Social and Clinical Psychology 20, no. 3 (2001): 270–88.
@@ -16787,8 +16134,6 @@ Term Trends in the Intensity of Use of Materials and Energy," Futures (May
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 373
 
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m |
-
 3 7 3
 
 conservative commentary on environmental issues, they can also be heard on the
@@ -16846,8 +16191,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 374
 3 7 4
 
 |
-
-N o t e s f o r C h a p t e r E i g h t : N o E q u i l i b r i u m
 
 Wuppertal Institute, Germany; Netherlands Ministry of Housing, Spatial
 Planning, and Environment; National Institute for Environmental Studies,
@@ -17206,8 +16549,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 380
 
 |
 
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
-
 Mediterranean," chapter 7 in Bert de Vries and Johan Goudsblom, eds., Mappae
 Mundi: Humans and Their Habitats in a Long-Term Socio-Ecological Perspective: Myths,
 Maps and Models (Amsterdam: RIVM, Amsterdam University Press, 2002), 210.
@@ -17261,8 +16602,6 @@ Administrative Survey, Vol. 2 (Baltimore: Johns Hopkins University Press,
 Rome's economic development had "created an integrated system with intensive
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 381
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 |
 
@@ -17318,8 +16657,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 382
 3 8 2
 
 |
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 Burgundian Landscapes in Historical Perspective (San Diego: Academic Press, 1987),
 265–94.
@@ -17379,8 +16716,6 @@ and with it the time it takes to 'negotiate' collaboration between them." Van de
 Leeuw and de Vries, "Empire," 242.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 383
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 |
 
@@ -17444,8 +16779,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 384
 
 |
 
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
-
 Gilbertson, eds., The Archaeology of Drylands: Living at the Margin (London:
 Routledge, 2000), 342–43.
 
@@ -17499,8 +16832,6 @@ sustaining the empire." Allen, Tainter, and Hoekstra, Supply-Side Sustainability
 61. Ibid., 177; Tainter, Collapse, 141.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 385
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 |
 
@@ -17566,8 +16897,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 386
 
 |
 
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
-
 must have a repertoire of behaviors at least as wide as the range of behaviors
 expressed by its surrounding environment. To widen its repertoire of behaviors, in
 turn, an adaptive system must increase its internal complexity. See Yaneer Bar-Yam,
@@ -17618,8 +16947,6 @@ Some North American manufacturers are considering bringing factories closer to
 consumers—transferring them back from China to Mexico, for instance—
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 387
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 |
 
@@ -17681,8 +17008,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 388
 
 |
 
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
-
 87. The literature on the sources of civil violence is huge and encompasses scholarly
 work on causes of revolution, rural rebellion in poor countries, and social protest
 movements. A superb summary of recent theory and research is Jack Goldstone,
@@ -17737,8 +17062,6 @@ Bennet, "Blowing Up in the West," New York Times, Week in Review, Sunday, July
 17, 2005, national edition, 1.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 389
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 |
 
@@ -17804,8 +17127,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 390
 3 9 0
 
 |
-
-N o t e s f o r C h a p t e r T e n : D i s i n t e g r a t i o n
 
 107. For much of the Middle Ages, locals attributed the construction of the Pont du
 
@@ -17912,8 +17233,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 392
 
 |
 
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
-
 systems for up to a millennium. This long lag time is what scientists call the
 "inertia" of the climate systems. See James Hansen, "A Slippery Slope: How
 Much Global Warming Constitutes 'Dangerous Anthropogenic Interference'?"
@@ -17972,8 +17291,6 @@ Growth in Pakistan," Population and Development Review 29, no. 3 (September
 2003): 483–92.
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 393
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 |
 
@@ -18039,8 +17356,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 394
 
 |
 
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
-
 30. Sai Liang and Zhongdong Ma, "China's Floating Population: New Evidence
 from the 2000 Census," Population and Development Review 30, no. 3 (September
 2004): 467–88; and Jim Yardley, "In a Tidal Wave, China's Masses Pour from
@@ -18101,8 +17416,6 @@ thousands of redundant factories litter the countryside, and underoccupied offic
 buildings pepper the skylines of cities like Shanghai. (Shanghai now has some
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 395
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 |
 
@@ -18165,8 +17478,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 396
 
 |
 
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
-
 straddle their shared frontier in the East China Sea. James Brooke, "Drawing the
 Line on Energy: China and Japan Wrangle over Oil and Gas Projects in Disputed
 Waters," New York Times, March 29, 2005, national edition, C1; and Norimitsu
@@ -18216,8 +17527,6 @@ Jerrold Post, "the individual with this personality style needs a target to blam
 attack for his own inner weakness and inadequacies." The disorder is common
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 397
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 |
 
@@ -18273,8 +17582,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 398
 
 |
 
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
-
 sentiments. Frank Tuohy provides a marvelous account of the man, his personality, politics, and writing in Yeats (New York: Macmillan, 1976).
 
 58. In panarchy theory, Buzz Holling calls this kind of phenomenon, in which a system
@@ -18324,8 +17631,6 @@ see Mahbub ul Haq, Inge Kaul, and Isabelle Grunberg, The Tobin Tax: Coping with
 Financial Volatility (New York: Oxford University Press, 1996). Contagion in international financial markets might also be reduced by establishing an institution
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 399
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 |
 
@@ -18382,8 +17687,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 400
 
 |
 
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
-
 Afghanistan—to stabilize failed states and provide basic security. And perhaps
 most important, it's a prescription for an international structure of incentives that
 helps poor countries prosper and draws their elites into the task of nation
@@ -18436,8 +17739,6 @@ organizational changes that have permitted, for instance, more efficient invento
 management. But because these changes often tighten coupling among firms,
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 401
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 |
 
@@ -18498,8 +17799,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 402
 4 0 2
 
 |
-
-N o t e s f o r C h a p t e r E l e v e n : C a t a g e n e s i s
 
 uncertainty about whether other nonextremists will act, it makes sense to wait on
 the sidelines. If others do act and are successful, a person waiting on the sidelines
@@ -18723,8 +18022,6 @@ Photo credit: Thomas Homer-Dixon
 
 Title: The light won't last forever in a closed system.
 
-Artist: Todd Barsanti
-
 Title: A-frame cranes lifted the rock for Level 1 of the Colosseum.
 
 Source: Rabun Taylor, Roman Builders: A Study in Architectural Process (Cambridge:
@@ -18743,13 +18040,9 @@ University Press.
 
 Title: Ancient Rome and its surrounding regions
 
-Artist: Todd Barsanti
-
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 407
 
 chapter three: we are like running water
-
-I l l u s t r a t i o n C r e d i t s
 
 |
 
@@ -18771,17 +18064,11 @@ Photo credit: Javier Bauluz
 
 Title: Forty-three percent of the urban population of poor countries lives in slums.
 
-Photo credit: Thomas Homer-Dixon
-
 chapter four: so long, cheap slaves
 
 Title: Drilling for gas at the Sikanni Chief River in northern B.C. in 1974
 
-Photo credit: Thomas Homer-Dixon
-
 Title: The author as a roughneck on the floor of the Sikanni Chief rig
-
-Photo credit: Thomas Homer-Dixon
 
 Title: Decades can pass between oil discovery and production peaks.
 
@@ -18800,8 +18087,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 408
 4 0 8
 
 |
-
-I l l u s t r a t i o n C r e d i t s
 
 Title: Most giant oil fields were found decades ago.
 
@@ -18835,15 +18120,11 @@ chapter six: flesh of the land
 
 Title: As the soil washes away, only the rocks stay behind.
 
-Photo credit: Thomas Homer-Dixon
-
 Title: Each year, Indonesia loses an area of forest the size of Connecticut.
 
 Photo credit: Togu Manurung
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 409
-
-I l l u s t r a t i o n C r e d i t s
 
 |
 
@@ -18858,8 +18139,6 @@ Source: FAO FISHSTAT, "Capture Production, 1950–2001," Database.
 chapter seven: closing the windows
 
 Title: Kilimanjaro at dawn in April 1983
-
-Photo credit: Thomas Homer-Dixon
 
 Title: In Alaska, melting permafrost has caused telephone poles to tip.
 
@@ -18892,8 +18171,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 410
 
 |
 
-I l l u s t r a t i o n C r e d i t s
-
 chapter nine: cycles within cycles
 
 Title: Antonio Santucci's armillary sphere in the Museum of the History of Science,
@@ -18912,25 +18189,15 @@ University, Museum purchase.
 
 Title: The adaptive cycle can be represented in three dimensions.
 
-Artist: Todd Barsanti
-
 chapter ten: disintegration
 
 Title: The Pont du Gard, just northeast of Nîmes, France
 
-Photo credit: Thomas Homer-Dixon
-
 Title: Limestone deposits of the Nîmes aqueduct provide a record of its past.
-
-Photo credit: Thomas Homer-Dixon
 
 Title: The Rhône valley
 
-Artist: Todd Barsanti
-
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 411
-
-I l l u s t r a t i o n C r e d i t s
 
 |
 
@@ -18950,11 +18217,7 @@ chapter twelve: baalbek: the last rock
 
 Title: The last standing columns of the Temple of Jupiter, Baalbek, Lebanon
 
-Photo credit: Thomas Homer-Dixon
-
 Title: The Hajar el Hibla rests in a quarry near the Temple of Jupiter.
-
-Photo credit: Thomas Homer-Dixon
 
 notes
 
@@ -19315,8 +18578,6 @@ as vulnerable population hubs, 118
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 419
 
-I n d e x
-
 |
 
 4 1 9
@@ -19439,8 +18700,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 420
 
 |
 
-I n d e x
-
 consumerism, 193, 197, 204, 216,
 
 demographics
@@ -19554,8 +18813,6 @@ as destructive forces, 1, 59, 102
 San Francisco (1906), 1–2, 285–89
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 421
-
-I n d e x
 
 |
 
@@ -19689,8 +18946,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 422
 4 2 2
 
 |
-
-I n d e x
 
 ethanol, EROIs of, 96
 Europe, 67–68
@@ -19832,8 +19087,6 @@ the Great Depression (1930s), 11,
 
 24, 199, 211
 
-I n d e x
-
 |
 
 4 2 3
@@ -19928,8 +19181,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 424
 4 2 4
 
 |
-
-I n d e x
 
 IMF (International Monetary Fund),
 
@@ -20035,8 +19286,6 @@ lighting, historical sources for
 provision of, 81–82
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 425
-
-I n d e x
 
 |
 
@@ -20148,8 +19397,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 426
 4 2 6
 
 |
-
-I n d e x
 
 oil (continued)
 
@@ -20274,8 +19521,6 @@ denial; management policies
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 427
 
-I n d e x
-
 |
 
 4 2 7
@@ -20396,8 +19641,6 @@ Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 428
 4 2 8
 
 |
-
-I n d e x
 
 Spurr, M. S., 52
 status quo, importance of relinquishing
@@ -20520,8 +19763,6 @@ values, 300–301, 305
 Vespasian, (Emperor), 34
 
 Home_0676977227_8p_all_r1.qxp 8/29/06 3:25 PM Page 429
-
-I n d e x
 
 |
 

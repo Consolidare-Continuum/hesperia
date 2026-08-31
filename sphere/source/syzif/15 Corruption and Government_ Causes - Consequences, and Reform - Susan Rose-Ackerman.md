@@ -1,4 +1,3 @@
-
 Corruption and Government
 
 High levels of corruption limit investment and growth and lead to inef
@@ -119,7 +118,6 @@ Conclusions
 
 Payments to Obtain Major Contracts and Concessions
 Privatization
-Conclusions
 
 4 Reducing Incentives and Increasing Costs
 
@@ -129,7 +127,6 @@ Reform of Public Programs
 Competitive Pressures in Administration
 The Deterrent Effect of Anticorruption Laws
 Procurement Reform
-Conclusions
 
 xi
 
@@ -144,7 +141,6 @@ Conflicts of Interest
 Carrots and Sticks
 Corruption in Hierarchies
 The Rediscovery of Contract
-Conclusions
 
 Part II Corruption as a Cultural Problem
 
@@ -152,7 +148,6 @@ Part II Corruption as a Cultural Problem
 Bribes, Gifts, Prices, and Tips
 The Similarity of Bribes and Gifts
 Patronage, Gift Giving, and Economic Development
-Conclusions
 
 Part III Corruption as a Political Problem
 
@@ -161,13 +156,11 @@ Part III Corruption as a Political Problem
 Kleptocracy
 Bilateral Monopolies and Mafia-Dominated States
 Competitive Bribery
-Conclusions
 
 8 Democracy and Corruption: Incentives and Reforms
 
 Electoral Systems
 Buying Political Influence and Buying Votes
-Conclusions
 
 9 Controlling Political Power
 
@@ -176,7 +169,6 @@ Accountable Implementation
 Federalism: Exit and Voice
 Independent Judicial and Prosecutorial Institutions
 Openness and Accountability
-Conclusions
 
 Part IV Achieving Reform
 
@@ -203,7 +195,6 @@ Scandal and Crisis as Catalysts
 Natural Resource Wealth and Foreign Aid
 Demands for Reform
 Sustaining Reform
-Conclusions
 
 12 Conclusions
 
@@ -212,8 +203,6 @@ References
 Name Index
 
 Subject Index
-
-IX
 
 PREFACE
 
@@ -246,8 +235,6 @@ the past. I began to collect euphemisms. People told me that when a
 review of a program mentioned "governance problems," "unexplained
 cost overruns," or "excessive purchase of vehicles," this meant that cor
 ruption and simple theft were a problem. A World Bank staffer pointed
-
-XI
 
 Preface
 
@@ -376,8 +363,6 @@ vided by Yale Law School and by the Visiting Research Fellows program
 of the World Bank. I am grateful to both institutions for their support
 without implying any responsibility for the results.
 
-Introduction: The Costs of Corruption
-
 Poverty, poor health, low life expectancy, and an unequal distribution of
 income and wealth are endemic throughout the world. Many countries
 have very low or negative growth rates. Even some countries that are
@@ -409,10 +394,6 @@ and the quality of the bureaucracy. The authors show that measures of the qualit
 of government institutions do at least as well as in explaining investment and
 growth as measures of political freedoms, civil liberties, and the frequency of
 political violence.
-
-I
-
-Introduction: The Costs of Corruption
 
 sources as multitudinous as the histories and cultures of the countries
 involved. To critics, the international organizations do not appreciate
@@ -459,8 +440,6 @@ and regulatory laws. 2 Foreign direct investment (FDI) is discouraged by
 
 2 Paolo Mauro (1995,1998) demonstrates that high levels of corruption are asso
 ciated with lower levels of investment as a share of Gross Domestic Product
-
-Introduction: The Costs of Corruption
 
 high corruption levels. Asian economies are not an exception - those
 with high corruption levels would have attracted more FDI if corrup
@@ -512,8 +491,6 @@ Mexico is the equivalent of an increase in the tax rate of over 20 percentage
 points. The statistical result holds for East Asian countries as well as for the
 others in his sample.
 
-Introduction: The Costs of Corruption
-
 economic performance. In fact, it is not even clear what it means for a
 country to rank highly on a corruption index. Does it mean that bribes
 are a large share of the value of contracts and government services?
@@ -558,8 +535,6 @@ Bank on graft in rural works programs in Bangladesh. The paper is an admirable
 analysis of the impact of graft on different aspects of a development project and
 a discussion of the conditions under which local people can be used as monitors
 of others' honesty.
-
-Introduction: The Costs of Corruption
 
 The second recognizes that corruption has different meanings in
 different societies. One person's bribe is another person's gift. A politi
@@ -607,8 +582,6 @@ the way government does business ought to be at the heart of the reform
 agenda. The primary goal should be to reduce the underlying incentives
 to pay and receive bribes, not to tighten systems of ex post control.
 
-Introduction: The Costs of Corruption
-
 Enforcement and monitoring are needed, but they will have little longterm impact if the basic conditions that encourage payoffs are not
 reduced. If these incentives remain, the elimination of one set of "bad
 apples" will soon lead to the creation of a new group of corrupt officials
@@ -652,8 +625,6 @@ on them by government in the form of taxes, customs duties,
 regulations. Bribes lower costs.
 
 • Illegal businesses frequently purchase corrupt benefits from the
-
-Corruption as an Economic Problem
 
 state. In extreme cases illegal businesses and organized crime
 bosses dominate the police and other parts of the state through
@@ -703,8 +674,6 @@ Johnston (1995), and Johnston and Hao (1995).
 
 reprinted in World Bank (1993b, Annex 26).
 
-The Economic Impact of Corruption
-
 interference in the financial system (Bigsten and Moene 1996: 191). A
 similar situation existed at the National Bank of Fiji where political
 influence was apparently widespread (Findlay 1997: 54). In Korea bank
@@ -752,8 +721,6 @@ Unified Rand," Financial Times, March 14, 1995. According to the March 13
 article, however, South Africans still face tough controls on taking funds abroad,
 a situation that could encourage illegal attempts to circumvent the controls.
 
-Corruption as an Economic Problem
-
 what are their efficiency and distributive consequences? Do they simply
 equate supply and demand, functioning much like prices in a legal
 market? I consider three cases. First, the public benefit is scarce and fixed
@@ -798,8 +765,6 @@ and fear of punishment, and public officials may limit their dealing to
 insiders and trusted friends and relations to avoid disclosure (della Porta
 and Vannucci 1997a). For all these reasons, a corrupt system will be not
 only less competitive but also more uncertain than a legal market.
-
-The Economic Impact of Corruption
 
 Furthermore, payoffs may undermine the goals of a program. In Great
 Britain in the eighteenth century many officials were legally remuner
@@ -846,8 +811,6 @@ Consider now the second and third cases where officials can influence
 the quantity and quality of services provided and the identity of
 beneficiaries. In these cases, corruption is almost certain to lead to
 inefficiency. A single individual may have authority to issue permits or
-
-Corruption as an Economic Problem
 
 subsidies, overlook violations of the law, or grant contracts (Findlay 1991;
 Klitgaard 1988; Rose-Ackerman 1978; Shleifer and Vishny 1993).
@@ -896,8 +859,6 @@ fraud in the processing of workmen's compensation claims involved the
 
 August 18,1996.
 
-The Economic Impact of Corruption
-
 corruption of social security officials, politicians, prosecutors, and judges
 (Fleischer 1997:309-310). Andrei Shleifer and Robert Vishny (1993:601)
 call this case "corruption with theft" because their archetypal example
@@ -943,8 +904,6 @@ through bribery induces many firms to operate in the informal sector
 6 "Bribe Index," Sunday Times of India, December 17, 1995. For example, a
 driver's license cost 1000 to 2000 rupees, and installation of an electric meter
 cost 25,000 to 30,000 rupees.
-
-Corruption as an Economic Problem
 
 and many others to underreport sales, costs, and payroll to the au
 thorities. The losses to the state are large, and, in addition, the level of
@@ -993,8 +952,6 @@ varies, the result is an arbitrary and unfair pattern of payments. The sum
 of taxes and bribes would vary across taxpayers in a way that reflects the
 collector's leverage, not the underlying tax rules. If taxpayers differ in
 
-The Economic Impact of Corruption
-
 their propensity and willingness to bribe and if the tax breaks given in
 return for payoffs are not publicized, the result can be a system based
 on special favors given to some, but not others. Similarly, officials may
@@ -1039,8 +996,6 @@ the unscrupulous and the well-off.
 7 Legal and regulatory uncertainty is frequently mentioned by business people
 interviewed in surveys in developing countries. See, for example, Economisti
 Associati (1994), Webster (1993), Webster and Charap (1993).
-
-Corruption as an Economic Problem
 
 Bribes to Reduce Costs
 
@@ -1093,8 +1048,6 @@ Financial Times, July 6,1998.
 Off Holdings: Kenya Corruption Overwhelms Investors," Los Angeles Times,
 June 25,1989.
 
-The Economic Impact of Corruption
-
 In Indonesia connections are important (Robison 1986), and less wellconnected small businesses experience high bribery demands. One study
 claimed that small entrepreneurs make payments that range from 5 to
 20 percent of annual gross income. 11 In Pakistan control over the imple
@@ -1142,8 +1095,6 @@ October 16,1997.
 Times, November 22, 1996; "20 Arrested in Scheme to Cut Water Bills," New
 York Times, October 22,1998.
 
-Corruption as an Economic Problem
-
 returns. Underpayment of customs was facilitated by the lack of clear
 guidelines and of published tariffs. The extensive discretion of officials
 encouraged corrupt payoffs designed to evade tariffs. Of course, a wellworking system would have been able to reduce tax and tariff rates, but
@@ -1186,8 +1137,6 @@ rates are very high, as in the transitional states in Eastern Europe and
 the former Soviet Union (De Melo, Ofer, and Sandler 1995; Novitzkaya,
 
 13 Far Eastern Economic Review, April 20,1996.
-
-The Economic Impact of Corruption
 
 Novitzky, and Stone 1995; Webster and Charap 1993). High nominal tax
 rates lead to bribes and other types of tax avoidance which lead to even
@@ -1234,8 +1183,6 @@ to obey the law in the developing countries where they operate. Survey
 (g)-(h), 78dd-l, 78dd-2, 78ff (a)(c) (1988 & Supp. IV 1992). For a review of the
 case law, see Pendergast (1995).
 
-Corruption as an Economic Problem
-
 evidence indicates a wide range of viewpoints among American business
 people. In one study 30 percent of the American managers surveyed
 stated that it was never acceptable to pay a "consulting" fee of $350,000
@@ -1280,8 +1227,6 @@ The discussion thus suggests that corruption may be more tolerable
 not when it increases the efficiency of individual deals, but when it is
 carried out in clearly illegitimate regimes that can make no claim to
 popular support. Then even bribes to avoid taxes seem less harmful than
-
-The Economic Impact of Corruption
 
 in other contexts because the fewer resources available to the state, the
 less powerful it is. Still, costs do remain. The beneficiaries of corrupt
@@ -1328,8 +1273,6 @@ infiltrate legal businesses. The profits generated by illegal businesses,
 Lord," New York Times, May 12,1996; "Mexican Connection Grows as Cocaine
 Supplier to U.S." New York Times, July 30, 1996; "Popular Revulsion Is New
 Factor in Chronic Colombian Drug Scandal," Washington Post, January 28,1996.
-
-Corruption as an Economic Problem
 
 earned without paying taxes, can then be reinvested in legitimate busi
 ness and in obtaining public contracts (Gambetta 1993; Varese 1994).
@@ -1378,8 +1321,6 @@ region's accumulated capital stock from FDI. In 1996 FDI stock per capita
 ranged from $6 in Belarus, $25 in Ukraine, and $40 in Russia to $1471 in Hungary
 and $556 in Estonia.
 
-The Economic Impact of Corruption
-
 ability to corrupt officials to gain approvals for yourself and deny them
 to your rivals yields an obvious competitive advantage. Labor unions,
 with or without organized crime connections, can use this tactic. For
@@ -1412,8 +1353,6 @@ country. The danger is that, rather than being a stage of development that
 will wither away over time, criminal activity becomes so intertwined with
 politics that it is difficult to tell them apart.
 
-Conclusions
-
 One defense of bribery focuses on the inefficiency and arbitrariness of
 many government rules and regulations. If administered by underpaid
 and unmotivated public officials, the incentives to pay bribes are high,
@@ -1423,8 +1362,6 @@ and the recipient but also enhance overall efficiency or fairness. The exis
 tence of such cases, however, is not a valid argument for tolerating lowlevel official corruption.
 
 17 "Still Crooked," The Economist, February 5,1994.
-
-Corruption as an Economic Problem
 
 First, and most obvious, not all bribes have this result. Consider, for
 example, tax evasion, violation of environmental rules, certification of
@@ -1480,8 +1417,6 @@ evaluation criteria. Corruption in the divulgence of information is difficult to
 prove in court, but it is also difficult for a firm to be sure that it is the only buyer.
 "[T]he the value of 'confidential' information is inversely proportional to the
 number of people who possess it" (della Porta and Vannucci 1997b: 9).
-
-Corruption as an Economic Problem
 
 Finally, once a firm wins the contract, it may pay to get inflated prices or
 to skimp on quality.
@@ -1589,8 +1524,6 @@ Saturday Nation, October 14-20,1995.
 
 Nation, May 3,1996.
 
-Corruption as an Economic Problem
-
 Is there anything distinctive about these cases other than the size of
 the deals? At one level, they appear analogous to cases in which
 government disburses a scarce benefit. As before, systemic corruption
@@ -1685,8 +1618,6 @@ projects but also by failing to obtain adequate returns from govern
 ment concessions for natural resources such as hard rock minerals,
 petroleum, or timber. Returns that should enter the government budget
 are instead earned by corrupt officials and private contractors. For
-
-Corruption as an Economic Problem
 
 example, some countries allegedly have awarded timber concessions at
 prices far below market value. Guyana and Surinam in northern
@@ -1787,8 +1718,6 @@ forestry inspection service outside of the Ministry of Forestry with adequate
 resources and enforcement powers to police concession activities" (Hamilton
 1997:195).
 
-Corruption as an Economic Problem
-
 the international market, its subsequent actions should depend upon the
 market for timber. The fact that it has underpaid for the concession
 should not affect its production decisions. It still seeks to maximize
@@ -1884,8 +1813,6 @@ oping Nations," Wall Street Journal, May 22,1996.
 Indonesia environmentalists claim that the country's tree felling rules were
 routinely violated under President Suharto in part because of the influence of a
 close associate who headed the Plywood Association (Schwarz 1994:140).
-
-Corruption as an Economic Problem
 
 prevail ex post may be poorly specified. The uncertainties of the process
 create opportunities for favoring corrupt insiders by giving them infor
@@ -1986,8 +1913,6 @@ is likely to maintain a close relationship to the state. After all, outside
 the former socialist countries, most public enterprises are in industries
 with substantial economies of scale and in areas that are viewed as being
 
-Corruption as an Economic Problem
-
 closely associated with the national interest, such as public utilities or
 transportation (Yotopoulos 1989: 698). Bribery may simply be a sub
 stitute for the self-dealing that prevailed under state ownership.
@@ -2006,8 +1931,6 @@ Corrupt incentives may mean that the most efficient bidder loses out
 to a corrupt insider. Even if the most efficient firm does win, corruption
 in the tendering process assures that the government receives too little
 from the sale. This implies higher taxes or lower public spending.
-
-Conclusions
 
 Corruption that involves top-level officials can produce serious distor
 tions in the way government and society operate. The state pays too
@@ -2054,8 +1977,6 @@ unfettered discretion are particularly likely sources of payoffs, especially
 if citizens and firms have no recourse. In such cases program elimination
 is sometimes better than more subtle reform strategies. For example, the
 
-Corruption as an Economic Problem
-
 licenses and permissions needed to set up businesses and continue them
 in operation may have no sound policy justification. Studies of Africa,
 Latin America, and Eastern Europe suggest that this is the case in many
@@ -2101,8 +2022,6 @@ bribes. Removing entry barriers for private firms may induce managers
 to pay off the police to harass their competitors. Deregulating in one
 area may increase corruption elsewhere. This will be especially true
 if a profitable activity must go through a series of "checkpoints." For
-
-Reducing Incentives and Increasing Costs
 
 example, a successful effort by the United States Agency for Interna
 tional Development to reduce corruption in the transport of agricultural
@@ -2151,8 +2070,6 @@ skimp on quality.
 
 Similarly, suppose budget cutters halve the budget of a regulatory
 
-Corruption as an Economic Problem
-
 agency with no change in the underlying statute. First, consider a statute
 that permits firms to act unless the state finds a violation. In that case
 few business people will complain about budget cutbacks Inspections
@@ -2198,8 +2115,6 @@ of privatization in Brazil as described in a speech by a Chase Manhattan exec
 utive. He advises foreign investors to take on local partners because little public
 information is available. According to him, "Investors typically receive the bid
 package . .. 30 to 45 days and sometimes as little as 15 days before a company
-
-Reducing Incentives and Increasing Costs
 
 deal appears inevitable, privatization is not likely to be worthwhile
 because a public firm is easier to monitor than a private one. However,
@@ -2249,8 +2164,6 @@ prises come up later, they are your problem." Quoted in Rosemary H. Werrett,
 "Brazil: Privatization Program Throws New Curves at Foreign Investors," Devel
 opment Business, January 16,1996.
 
-Corruption as an Economic Problem
-
 simple rules (ibid.: 7-9). Some discretion will inevitably remain. Regula
 tors must therefore be protected from improper influence through a
 transparent appointment process, limits on conflicts of interest, and secu
@@ -2295,8 +2208,6 @@ Many regulatory and spending programs have strong justifications and
 ought to be reformed, not eliminated. Corruption in the collection of
 taxes cannot be solved by failing to collect revenue, and other programs
 are responses to market failures and citizen demands for public goods
-
-Reducing Incentives and Increasing Costs
 
 and social justice. One solution is to clarify and streamline the necessary
 laws to reduce official discretion and to make monitoring simpler and
@@ -2347,8 +2258,6 @@ Year," El Economista, February 13,1992.
 
 February 24,1993.
 
-Corruption as an Economic Problem
-
 of India provides a classic case. Despite an increase in rates, total revenue
 declined because of both an increase in corruption and a shift into offthe-books activity. In such cases nothing short of a thoroughgoing reform
 of the structure and administration of the tax system will allow a break
@@ -2390,8 +2299,6 @@ concern for both costs and benefits; it does not imply less regulation
 (Ackerman and Stewart 1988; Lave 1981; Schultze 1977).
 
 4 See http://www.travel.state.gov/passport_expedite.html.
-
-Reducing Incentives and Increasing Costs
 
 In corrupt systems, market-based reforms may substitute legal pay
 ments for bribes. Unfortunately, the regulated firms may object to
@@ -2437,8 +2344,6 @@ or education, more direct anticorruption techniques will be required.
 6 "Pollution Auctioneer Chosen: Environmental Protection Agency Chooses
 Chicago Board of Trade to Conduct Auction of Permits Allowing Power Plants
 to Emit Sulphur Dioxide," The New York Times, September 28,1992.
-
-Corruption as an Economic Problem
 
 Once again, program simplification can be a potent anticorruption strat
 egy. One type of simplification involves the determination of eligibility
@@ -2486,8 +2391,6 @@ corruption must be tolerated because of the benefits of a case-by-case
 approach to program administration. But even in such cases trans
 parency and publicity can help overcome corrupt incentives.
 
-Reducing Incentives and Increasing Costs
-
 Competitive Pressures in Administration
 
 Corruption is often embedded in the hierarchical structure of the
@@ -2533,8 +2436,6 @@ that both prefer to continue. The size of the bribe will be reduced by the
 existence of other corrupt officials, but the loss to the state remains large.
 Thus, the feasibility of competitive bureaucracy depends importantly
 
-Corruption as an Economic Problem
-
 upon the ability of higher bureaucratic levels to monitor outcomes. They
 do not need to be able to observe the bribes themselves, but they must
 be able to monitor output. In the postage stamp example, higher author
@@ -2579,8 +2480,6 @@ the Motor Vehicle Department increases the gains to the corrupt, induc-
 7 Theodore Smith, "Corruption, Tradition and Change," Indonesia, April 11,1971,
 
 cited in Carifio (1986:179).
-
-Reducing Incentives and Increasing Costs
 
 ing more officials to become corrupt in the next period. As more become
 corrupt, the gain to accepting bribes falls so that a stable intermediate
@@ -2629,8 +2528,6 @@ prices will also encourage more individuals and businesses to enter the
 illegal market. The key question in this case is whether the social costs
 of bribery are inversely related to the size of the bribe. Consider, for
 
-Corruption as an Economic Problem
-
 example, the case of tax officials in India. Each tax office is organized
 so that officials have overlapping jurisdictions. Those offices with large
 numbers of support staff performed poorly compared with offices with
@@ -2675,8 +2572,6 @@ The deterrence of criminal behavior depends on the probability of detec
 tion and punishment and on the penalties imposed - both those imposed
 by the legal system and more subtle costs such as loss of reputation or
 shame (Becker 1968). Law enforcement authorities can vary either or
-
-Reducing Incentives and Increasing Costs
 
 both of these variables, but we lack strong empirical evidence on their
 relative importance. 8
@@ -2729,8 +2624,6 @@ treatment" or must pay to be treated fairly (Ayres 1997: 1234-1238; Lindgren
 in practice (Ayres 1997:
 1236-1237).
 
-Corruption as an Economic Problem
-
 the social harm of corruption is the distortion introduced by corrupt
 payoffs. If the benefit is legal but scarce, the corrupt official gives pref
 erence to bribers over other potential beneficiaries. The social harm is
@@ -2775,8 +2668,6 @@ could be done either by tying the penalty levied upon conviction to the
 size of the bribe or by increasing the risk of catch as the size of the bribe
 increases. However, if the probability of catch is lower for small payoffs,
 the penalty for each detected offense must reflect the low incidence of
-
-Reducing Incentives and Increasing Costs
 
 detection. This could mean that those convicted of petty bribery could
 face severer penalties than those found to have taken larger bribes.
@@ -2825,8 +2716,6 @@ ples of debarment, see "Singapore Blacklists Scandal-Tinged Firms," Nikkei
 Weekly, February 19,1996, and Thacher (1995), who describes the practices used
 by the New York City School Construction Authority.
 
-Corruption as an Economic Problem
-
 smaller proportion of corrupt deals when the incidence of corruption is
 high and if penalties levied upon conviction are not adjusted to take
 account of that fact. Any multiple equilibria case, however, can be con
@@ -2871,8 +2760,6 @@ rewarded for coming forward with evidence even if the reason they lost
 the bid was not moral scruples, but their own unwillingness to make a
 large enough payoff. This can be done by permitting the firms to sue
 for damages. A survey of the antibribery laws in thirteen developed
-
-Reducing Incentives and Increasing Costs
 
 countries found that such suits are permitted in most jurisdictions
 (Hepkema and Booysen 1997: 416).
@@ -2921,8 +2808,6 @@ times becomes necessary to forget about ethics" (Rosenberg 1987).
 section 102; Jadwin and Shilling (1994: 679-680); Nobles and Maistrellis (1994:
 9,19); Pickholz (1997: 237).
 
-Corruption as an Economic Problem
-
 treatment. The Federal Sentencing Guidelines also reward internal firm
 efforts to detect and punish violations of the law (Nobles and Maistrellis 1994:18-24). Thus American law attempts to counter management's
 incentive to insulate itself from the profit-maximizing malfeasance of
@@ -2965,8 +2850,6 @@ important incentive for some corporations to adopt credible internal dis
 closure policies and procedures" (ibid.: 537). The main problem in coun-
 
 14 See "Mexican Army Whistle-Blower on Trial," New York Times, March 6,1998.
-
-Reducing Incentives and Increasing Costs
 
 tries in the process of establishing a rule of law will be to clarify what
 practices are illegal and subject to criminal penalties. It will not make
@@ -3014,8 +2897,6 @@ Reform in the United States
 
 We can divide the procurement problem into four stylized categories:
 purchases that require specialized research and development, such as
-
-Corruption as an Economic Problem
 
 newly designed military aircraft; purchases of complex, special purpose
 projects, such as dams or port facilities, that do not involve advances in
@@ -3065,8 +2946,6 @@ and 41 U.S.C. 2536(e) (1)], and the 1996 Clinger-Cohen Act (41 U.S.C. 423). The
 statutory reforms have been incorporated into the revised part 15 of the Federal
 Acquisitions Regulation.
 
-Reducing Incentives and Increasing Costs
-
 was his in-depth study of federal government computer procurement
 (Kelman 1990, 1994). Computers are in the fourth category. They are
 widely available in the private market, but the technology is changing
@@ -3110,8 +2989,6 @@ required to justify their decisions in writing, and multimember evalua
 tion panels would still be used to make procurement decisions. Con
 tractors would be evaluated in terms of outcomes, not inputs. Agencies
 must define outcomes carefully and reward contractors on the basis of
-
-Corruption as an Economic Problem
 
 performance. The government would favor top performers when new
 contracting opportunities arise.
@@ -3161,8 +3038,6 @@ curement practices, government purchasing specifications should take
 account of the risk of corruption. This can be done without too much
 sacrifice of the flexibility that Kelman favors. Goods sold in international
 
-Reducing Incentives and Increasing Costs
-
 markets where benchmark prices exist should be favored over custommade or state-of-the-art products for that reason. In fact, Kelman himself
 recommends just such a shift, arguing that it is closer to the practices of
 private firms. For example, the United States General Services Admin
@@ -3206,8 +3081,6 @@ Lessons for Developing Countries
 The relative strengths and weaknesses of the American reforms should
 be watched closely by other countries for the lessons they can provide.
 Some of Kelman's proposals can be adopted by developing countries,
-
-Corruption as an Economic Problem
 
 but others are not suitable for export to countries with less welldeveloped legal systems and weak private markets.
 
@@ -3253,8 +3126,6 @@ financial fraud that would tell the government if the contractor owed back taxes
 He would give vendors access to data on their own company and give them an
 opportunity to challenge the data.
 
-Reducing Incentives and Increasing Costs
-
 oriented set of specifications, this could minimize the problem of insider
 influence. At the very least, goal distortion would be clearer.
 
@@ -3299,8 +3170,6 @@ own demand is unlikely to affect prices. One way to obtain rough bench
 marks is through data on United States trade. Two studies have calcu
 lated average prices and variances for goods using United States trade
 statistics (Pak and Zdanowicz 1994; Paul, Pak, Zdanowicz, and Curwen
-
-Corruption as an Economic Problem
 
 1994). Because of product differentiation even within quite detailed cat
 egories, these price estimates are guesses, but they could give develop
@@ -3349,8 +3218,6 @@ ing power to secure a favorable price. Information about prices in the
 private market or for similar goods and services in other countries
 helped set the stage for negotiation. The situation of the U.S. Army in
 
-Reducing Incentives and Increasing Costs
-
 Korea, however, may be a special case where an organization repre
 senting a foreign government is directly involved in procurement.
 
@@ -3395,16 +3262,12 @@ the newly established Special Investigation Department of the Federal Trade
 Commission brought a second case against manufacturers and retailers of water
 meters (The Daily Yomiuri, November 17,1996).
 
-Corruption as an Economic Problem
-
 the number of bids. If specifications can be reasonably well determined
 beforehand and if collusion can be avoided, a process with three or four
 bidders does not seem obviously worse than one with seven or eight. The
 real problem is a state that is too weak or too venal to bargain success
 fully with outside contractors. Kickbacks then assure monopoly profits
 for successful bidders with a share of the gains going to corrupt officials.
-
-Conclusions
 
 Structural reform should be the first line of attack in an anticorruption
 campaign. If a public program is not serving a legitimate public goal, the
@@ -3475,8 +3338,6 @@ kinsmen or political friends were canvassing for votes for parliamentary elec
 tions were hardly likely to be conspicuous in prosecuting defaulting maltsters
 and inn-keepers" (quoted in Parris 1969: 25).
 
-Corruption as an Economic Problem
-
 officers who expect to lose their jobs after the next election may simply
 put money away for the future. 2
 
@@ -3524,8 +3385,6 @@ ting a new Teller [of the Exchequer], it will tempt the old clerk, who hath soe
 many opportunities, to provide for himself by sinister ways in the Teller's Life
 time" (quoted in Parris 1969: 26).
 
-Reform of the Civil Service
-
 government responsibility. He also stresses the importance of political
 accountability for high-level officials. To him, the British Westminster
 model - in which civil servants provide confidential advice to ministers
@@ -3570,8 +3429,6 @@ Union, and Latin America (Haque and Sahay 1996: 11; Reid and Scott
 sector wages but also to civil service pay in the past. In a sample of
 twenty-one countries in the late eighties and early nineties real wages
 fell at an annual average rate of 1.4 percent. The countries varied from
-
-Corruption as an Economic Problem
 
 a fall of 17.7 percent per year in Bulgaria during 1989-1992 to an increase
 of 4.4 percent in Ghana between 1986 and 1989 (Haque and Sahay 1996:
@@ -3618,8 +3475,6 @@ tax administration had fallen to 33 percent of their 1971 level. During the same
 period the number of employees more than doubled (Das-Gupta and Mookherjee 1998:265). In North Yemen salaries declined in real terms by up to 56 percent
 between 1971 and 1986 (Sultan 1993).
 
-Reform of the Civil Service
-
 1997). Another piece of indirect evidence is the disparity between civil
 service pay and income. For example, salaries made up only 33 percent
 of the income of officials in Zaire in 1986, down from almost 100 percent
@@ -3662,8 +3517,6 @@ African countries. Furthermore, the state may have a policy of guaranteeing jobs
 to all high school or college graduates or use public employment as a way to
 soak up excess labor that would otherwise be unemployed. The problem in such
 cases is not low pay, but excess employment (Nunberg and Nellis 1995:15-16).
-
-Corruption as an Economic Problem
 
 staffed with two kinds of workers: low-productivity workers who are not
 employable in seemingly "comparable" jobs in the private sector and
@@ -3711,8 +3564,6 @@ Reformers may need to take away work from already underutilized
 officials in order to reduce their access to bribes. As underemployed
 officials spend less time on public sector work, they are likely to get
 
-Reform of the Civil Service
-
 second jobs in the private sector. Once this happens, it may be easier to
 ease them out entirely. Structural changes in the operation of govern
 ment should be combined with more conventional proposals to raise pay
@@ -3759,8 +3610,6 @@ or honoraria is also regulated.
 Ethics-in-government rules and legal constraints developed gradually
 in the United States but are today pervasive (Gilman 1995; Roberts and
 
-Corruption as an Economic Problem
-
 Doss 1992). The first code of ethics in the United States was promulgated
 by the postmaster general in 1829 (Gilman 1995:64-66). Today a mixture
 of ethical codes and statutory requirements constrains public officials.
@@ -3806,8 +3655,6 @@ service into electoral politics. Civil servants can run for office without
 losing their civil service status and can hold local office. If they win elec
 tion to the French parliament, they must take a leave of absence but can
 
-Reform of the Civil Service
-
 return with no loss in rank. Between 1958 and 1986, 33 percent of the
 members of the National Assembly came from the civil service (Rohr
 1991: 287). The value of such a system depends upon the existence of a
@@ -3851,8 +3698,6 @@ a cynical route to easy wealth, all countries need a basic conflict-ofinterest p
 tions. But simple and basic rules of behavior are the best place to start
 - especially if one wishes to avoid turning the oversight process itself
 into a locus of corruption.
-
-Corruption as an Economic Problem
 
 Carrots and Sticks
 
@@ -3900,8 +3745,6 @@ simply to keep politically important clients satisfied . .. [and] dispense
 
 Again," The Economist, September 29,1997.
 
-Reform of the Civil Service
-
 wages, promotions and other perquisites on the basis of favoritism rather
 than employee performance . .." (Reid and Scott 1994: 45). The answer
 is not ever more rigid and overreaching input controls but reforms that
@@ -3948,8 +3791,6 @@ formance. For many public services this may be the best solution. If
 joint efforts are decomposed into individual rewards, the result can
 be a hostile, adversarial work environment (Mitchell, Lewin, and Lawler
 
-Corruption as an Economic Problem
-
 1990: 64-67). This concern has led some students of the private labor
 market to argue in favor of rewarding workers for the achievement of
 group goals. Such incentive systems work best if employees participate
@@ -3995,8 +3836,6 @@ United States are not very encouraging, but it is difficult to know whether
 the problem is the system itself or the weakness of its implementation
 (Ingraham 1993,1996: 260; Perry 1988-1989).
 
-Reform of the Civil Service
-
 As for group incentives, empirical evidence from the private sector
 suggests that a participatory workplace will succeed best under certain
 conditions: stable aggregate demand, low unemployment, wage and
@@ -4040,8 +3879,6 @@ of the fees received. Their income from that source rose from £330 a year in 17
 to £700 in the 1750s to £1278 at the height of the American War of Indepen
 dence. Fees were often unrelated to the amount of work involved (Chester 1981:
 134).
-
-Corruption as an Economic Problem
 
 In general, incentive payments based on performance will be more
 likely to be successful if additional effort actually does produce sub
@@ -4089,8 +3926,6 @@ For example, a person trying to build a house may need to obtain the permis
 sion of several different government offices. Dey suggests that networks of
 corrupt officials can develop under such conditions.
 
-Reform of the Civil Service
-
 system. If most major decisions are made at the top, but low-level offi
 cials provide essential inputs, the top-down pattern should prevail. For
 example, the award of major contracts is likely to be the preserve of top
@@ -4135,8 +3970,6 @@ function of the size of the bribe, they will deter corruption and simulta
 neously raise the level of individual bribes that are paid. The high bribes
 that are occasionally paid are evidence of the success, not the failure, of
 the strategy.
-
-Corruption as an Economic Problem
 
 If corruption pervades a hierarchy, solutions that appear reasonable
 in other contexts can be counterproductive. Reformers have frequently
@@ -4183,8 +4016,6 @@ the remaining tasks to private firms, both for-profit and nonprofit.
 In Great Britain local governments are required to open core gov
 ernment services to competitive tender - with the government depart-
 
-Reform of the Civil Service
-
 ment permitted to be one of the bidders. Both Australia and New
 Zealand also invite bids from private sector providers for some govern
 ment services (Campos and Pradhan 1997: 441). In Great Britain
@@ -4230,8 +4061,6 @@ towing services but not the arrest of criminal suspects. It can contract for
 food service in prisons, but should be more cautious about contracting
 for the operation of entire prisons (Rose-Ackerman 1992:177-178).
 
-Corruption as an Economic Problem
-
 One of the most controversial forms of contracting out is "tax farming"
 where private firms or individuals purchase the right to collect taxes by
 paying the state a fixed fee. In spite of the risks involved, some positive
@@ -4276,15 +4105,11 @@ public agency. Privatization might come later if the government has the
 
 Tax Collection: On the Farm," The Economist, August 22,1998.
 
-Reform of the Civil Service
-
 capacity to provide effective oversight of public contracts. Otherwise the
 result will simply be the creation of new sources of private gain at the
 expense of the general public. More generally, the development of a
 vibrant private sector requires a well-functioning government to protect
 property rights and regulate market failures (Collins 1993: 329).
-
-Conclusions
 
 Civil service reform is expensive and politically difficult, and it may
 appear beyond the capacity of many poor countries. Yet it cannot be
@@ -4322,8 +4147,6 @@ damental cause of corruption is the type and level of public intervention,
 reforms will be needed there as well. A reforming state should reduce
 the underlying incentives for payoffs by eliminating or restructuring pro
 grams and by simplifying tax laws and procurement requirements. It
-
-Corruption as an Economic Problem
 
 should also improve both positive and negative incentives in the form of
 civil service, procurement, and law enforcement reform.
@@ -4392,8 +4215,6 @@ In Thailand gift giving is highly valued, and people believe that if an official
 provides good service, they should show their appreciation with a gift. These gifts
 are part of the patron-client relationship between ruler and ruled. In a recent
 
-Corruption as a Cultural Problem
-
 accepted, they may impose hidden costs that are not well appreciated by
 ordinary citizens. Economics cannot answer cultural questions, but it can
 help one understand the implications of a society's choices. Societies can
@@ -4439,8 +4260,6 @@ impacts on society" (Pasuk and Sungsidh 1994: 154). But value is relative. A
 businessman may view an automobile as a gift. A person observing the transfer
 may view it as a bribe. If the "normal" commission is 10 percent, anyone asking
 for 20 percent will be viewed as corrupt.
-
-Bribes, Patronage, and Gift Giving
 
 Table 1. Payments by clients or customers
 
@@ -4498,8 +4317,6 @@ ior and distinguishes between entrepreneurs, philanthropists, heros, and rescuer
 Those in the last category included rescuers of Jews in Nazi Europe whose per
 sonal and familial sacrifices were extreme.
 
-Corruption as a Cultural Problem
-
 In terms of standard economic analysis, gifts come closer and closer
 to being prices as they move down the scale from gifts to charitable orga
 nizations and causes, to gifts to needy but unknown individuals, to gifts
@@ -4548,8 +4365,6 @@ a personal connection (Zelizer 1994: 77-85).
 
 Ackerman (1986), and Tirole (1986).
 
-Bribes, Patronage, and Gift Giving
-
 insurance policies, they create monitoring costs ex post (Cramton and
 Dees 1993: 366-367).
 
@@ -4597,8 +4412,6 @@ zation can correct these difficulties, but some constraints are inherent in
 the special nature of government services. Legitimate public functions
 cannot by their nature be organized like private markets. This fact
 
-Corruption as a Cultural Problem
-
 implies that all incentives for corruption in public programs cannot be
 eliminated.
 
@@ -4644,8 +4457,6 @@ examination of bribery and gift giving helps one to see that otherwise
 In the case of gifts, both Anglo-American and Continental law make it quite
 easy to convert a gift into a legally binding transfer that also imposes obligations
 on the recipient (Gordley 1995).
-
-Bribes, Patronage, and Gift Giving
 
 admirable norms of behavior can, under some conditions, undermine
 efficiency and economic development.
@@ -4698,8 +4509,6 @@ cusses how "contrived randomness" in the form of staff rotation and division of
 authority can help break up systematic cooperation that produces corruption
 and other "anti-system 'networking' activity."
 
-Corruption as a Cultural Problem
-
 tionships between agents from different agencies who all lived close to
 each other and established friendships outside the work environment.
 In the second town the program was generally honestly administered
@@ -4745,8 +4554,6 @@ and Robison 1995).
 bills and special envelopes. As a result, "bribes are often disguised as gifts by
 placing clean bills in a money envelope or by using properly wrapped gift cer
 tificates sold by department stores" (Zelizer 1994:117).
-
-Bribes, Patronage, and Gift Giving
 
 The risk, of course, is that disgruntled family members may be espe
 cially dangerous. The interdependency of utility can mean that a bitter
@@ -4795,8 +4602,6 @@ arise if product quality is difficult for buyers to judge before purchase (Kollo
 outside source of appeal. Thus the conditions were similar to corrupt or dona
 tive exchanges that lack the element of personal trust.
 
-Corruption as a Cultural Problem
-
 be public knowledge unless the implicit favors look too much like an
 illegal quid pro quo. Donors can announce their gifts in the hope of
 obtaining reputations for generosity. Charitable organizations may
@@ -4844,8 +4649,6 @@ Cramton for pointing out this connection.
 
 January 28,1996.
 
-Bribes, Patronage, and Gift Giving
-
 over their rivals, news of their rivals' gifts could spur them to give
 more.
 
@@ -4891,8 +4694,6 @@ widely accepted and credible law enforcement does not exist. Bribes may
 be a relatively efficient way to transfer rents from private individuals and
 organizations to public officials. Corruption is then a symptom of the
 underlying rent-generating character of the state. In an honest world,
-
-Corruption as a Cultural Problem
 
 private actors seek publicly provided rents through wasteful spending
 programs and regulations that create monopoly rents. In a fully corrupt
@@ -4942,8 +4743,6 @@ Times, February 25,1996.
 
 Washington Post, January 28,1996.
 
-Bribes, Patronage, and Gift Giving
-
 Reputational hostage taking can also occur in charitable giving. A
 donor may seek to hold a university to its promised use of his money by
 threatening a campaign of negative publicity if the terms of the gift are
@@ -4989,8 +4788,6 @@ future favors.
 
 In these cases, the distinction between gifts and bribes is particularly
 difficult to draw. The quid pro quo is often paid in the same "currency"
-
-Corruption as a Cultural Problem
 
 as the initial benefit - votes on bills, favoritism on contracts. Taken in iso
 lation the behavior looks like favoritism, not corruption. A gift has been
@@ -5039,8 +4836,6 @@ their trading decisions on the characteristics of products and the prices
 
 January 6,1996: 79-80.
 
-Bribes, Patronage, and Gift Giving
-
 charged. Markets conserve on information, and their impersonality
 assures that sales are made to those who value the goods the most. One
 does not need to like or respect a person in order to trade with him. The
@@ -5087,8 +4882,6 @@ interdependence and shows how it can be maintained by threats on
 18 According to Stephen Kochanek (1993), the level of patronage and corruption
 in Bangladesh has held down growth. The specific example of the jute industry
 in Bangladesh illustrates these general points (Bhaskar and Kahn 1995).
-
-Corruption as a Cultural Problem
 
 each side to reveal the corruption of the other (della Porta and Vannucci
 1997a).19
@@ -5138,8 +4931,6 @@ through their elected representatives" were foreign to traditional Asian officia
 This task was made more difficult by the inconsistency of Western efforts as col
 onizers whose legitimacy was dependent on military power.
 
-Bribes, Patronage, and Gift Giving
-
 Strong networks based on trust and reputation can be invaluable
 during periods when formal state institutions are weak and ineffective.
 In the early post-revolutionary period in the Soviet Union, for example,
@@ -5188,8 +4979,6 @@ response to regime performance, historical experience, and political socializa
 tion. Deeper value and normative commitments have been shown to be more
 enduring and change only slowly" (Diamond 1993a: 9).
 
-Corruption as a Cultural Problem
-
 less likely as people observe the costs of markets and bureaucracies.
 Unlike established market economies, complex and subtle boundaries
 between market and nonmarket activities do not exist in countries that
@@ -5237,8 +5026,6 @@ ing to the article, "virtually any multi-million-dollar company, striving to bec
 modern in a system that remains stubbornly old-fashioned, is wide open to so
 much corruption that success almost inevitably leads to financial shenanigans
 that can spoil any chance of efficiency or genuine profitability."
-
-Bribes, Patronage, and Gift Giving
 
 actors undermine the desirable features of interpersonal links based on
 trust and respect? Richard Titmuss (1970) argued with respect to the
@@ -5290,8 +5077,6 @@ In Africa development finance institutions founded on external loans have ex
 perienced problems of illiquidity and insolvency with nonperforming portfolios
 and high default rates (Nissanke 1991:143).
 
-Corruption as a Cultural Problem
-
 Elites who control the allocation of credit are unlikely to want to give
 up their favored position based on their own close links with govern
 ment. Reformers must find a way to provide credit outside existing
@@ -5309,8 +5094,6 @@ son 1992: 22-23, 27, 57). However, in other experiments social pressure
 has been successfully mobilized to encourage repayment. Nevertheless,
 it remains to be seen whether such programs can be organized without
 underlying subsidies.27
-
-Conclusions
 
 The definition of bribes and gifts is a cultural matter, but "culture" is
 dynamic and constantly changing. If behavior labeled "corrupt" by some
@@ -5367,8 +5150,6 @@ politicians in Mexico, Italy, Korea, and Japan. Corruption is common at
 the local government level in France and Germany. Clearly, democratic
 forms do not always succeed in checking corruption. Thus it is worth-
 
-Corruption as a Political Problem
-
 while asking which features of democratic government help limit selfdealing and which contribute to corruption.
 
 Before moving to a deeper consideration of this issue in the next
@@ -5415,8 +5196,6 @@ Rose-Ackerman (1998b).
 2 The term "kleptocrat" appears to have originated with Andreski (1968). It refers
 to a ruler or top official whose primary goal is personal enrichment and who
 possesses the power to further this aim while holding public office.
-
-Corruption and Politics
 
 Table 2. Types of corrupt governments
 
@@ -5475,8 +5254,6 @@ rent-generation devices. He supports some interventions that do not
 increase overall national income because they provide personal benefits
 to himself as head of state. Even the kleptocrat, however, eventually
 
-Corruption as a Political Problem
-
 reaches the point where the inefficiencies of additional government
 intervention become so large that marginal bribe revenues fall. The weak
 kleptocrat is likely to favor a bloated and inefficient state to maximize
@@ -5524,8 +5301,6 @@ argues that when autocrats or narrow interest groups win control of the state in
 Africa, many have expanded the role of government in an effort to enrich them
 selves. He argues that military coups are often motivated by rent seeking.
 
-Corruption and Politics
-
 In Haiti the dictatorship benefited "just a few thousand people con
 nected by marriage, family ties or friendship to those in power." Politi
 cal instability arose "not so much from popular movements . .. but from
@@ -5571,8 +5346,6 @@ excess profits so long as he can extract a share of the gains. But it is one
 thing for a kleptocrat to want to privatize a state firm, and quite another
 for private investors to make bids. A private firm will have little value to
 investors if it can be taxed on all its profits, renationalized at will without
-
-Corruption as a Political Problem
 
 adequate compensation, or excessively and arbitrarily regulated. Only if
 the state can credibly commit to a reasonable future policy will the firm
@@ -5620,8 +5393,6 @@ one-shot changes. The ruler can extract a share of the gains from any
 type of transaction involving the state and thus may support the pri
 vatization of some firms while supporting the nationalization of others.
 
-Corruption and Politics
-
 The ruler can be bribed either to privatize efficient state firms at low
 prices or to nationalize inefficient private firms at high prices. Without
 credible commitments to refrain from one-shot changes, private inves
@@ -5668,8 +5439,6 @@ based on surveys of foreign business firms and outside observers, do not permit
 them to distinguish between countries where corruption is relatively more per
 vasive at the top of government.
 
-Corruption as a Political Problem
-
 example, dictatorial governments favored institutions that impeded
 development since they were the most effective way to siphon off rents.
 Furthermore, the assets of the wealthy were invested either overseas or
@@ -5712,8 +5481,6 @@ by a corrupt bureaucracy not completely under his control (Coolidge and
 Economist, February 10,1996, p. 37, for an example of how such conflicts were
 handled in Indonesia in a controversy involving Suharto family members with
 interests in the beer and hotel industries.
-
-Corruption and Politics
 
 Rose-Ackerman 1997). If the ruler can develop an honest civil service
 and share the gains with only a small number of trusted subordinates, he
@@ -5763,8 +5530,6 @@ Because criminals are as interested in getting rich as anyone, optimists
 cadre of top officials divided the rents of government operation with a small
 group of outsiders and family members.
 
-Corruption as a Political Problem
-
 might contend that if criminals actually control the government they will
 modify their ways. But this seems Utopian. One would expect that if crim
 inals controlled the state, they would seek to limit entry through threats
@@ -5810,8 +5575,6 @@ house by saying, "Thirty percent." Later A visits B at his even more lavish
 mansion. Asked how it was financed, B says, "See that highway out
 there?" A looks puzzled because no highway can be seen. "That's just
 the point," says B, "one hundred percent."
-
-Corruption and Politics
 
 This story is usually used to demonstrate that corruption is less
 harmful if the road is actually built. But that conclusion is not always jus
@@ -5860,8 +5623,6 @@ output.
 
 The Philippines since independence provides an example of a weak
 
-Corruption as a Political Problem
-
 state dealing with a powerful oligarchy of private business interests. The
 legal and administrative system is unpredictable and inconsistent. Polit
 ical arbitrariness inhibits the development of a productive private sector.
@@ -5909,8 +5670,6 @@ dence of corruption rises, such a phenomenon would contribute to both
 upward and downward spirals. A similar result occurs if the probability
 of detection falls when the incidence of corruption rises (Andvig and
 
-Corruption and Politics
-
 Moene 1990: 75). This might happen, for example, if there is a fixed
 budget for combating corruption and if those enforcing the law depend
 upon the cooperation of honest officials in uncovering malfeasance. Then
@@ -5928,8 +5687,6 @@ are precisely those that lack the centralized authority needed to carry
 out such reforms. The decentralized, competitive corrupt system is well
 entrenched, and no one has the power to administer the policy shock
 needed for reform.
-
-Conclusions
 
 The case for autocracy as a technically efficient form of government is
 weak. Kleptocracy will seldom be equivalent to private monopoly. There
@@ -5958,8 +5715,6 @@ down will not work. The possibility of a high-corruption equilibrium argues for
 hiring policies that permit principals to monitor individual agents from period
 to period rather than relying on group reputation and weak information about
 individual applicants.
-
-Corruption as a Political Problem
 
 claim with confidence that corruption at the top is less harmful than lowlevel corruption. The impact of corruption depends upon the strength
 and lack of scruples of the private firms and individuals that pay bribes.
@@ -6019,8 +5774,6 @@ In a democracy, electoral voting rules and legislative processes interact
 with underlying political cleavages to affect the opportunities for cor
 ruption. Political systems provide various mixtures of both broad-based
 policies and narrowly focused private or group benefits. Some public
-
-Corruption as a Political Problem
 
 goods like national defense also provide benefits to firms and regions
 that obtain defense contracts and military bases. Incentives for corrup
@@ -6117,8 +5870,6 @@ aging legislation as a means of extorting payoffs. 1 If a single party or a
 taxes and business regulations as a way of extorting payoffs and campaign con
 tributions (McChesney 1997; Rose-Ackerman 1978: 48-51).
 
-Corruption as a Political Problem
-
 stable coalition controls the legislature, it may be able to extract a large
 share of the gains from the corrupt deal especially when organized inter
 ests are in competition.
@@ -6164,8 +5915,6 @@ Other scholars have argued, instead, that divided societies ought to
 organize political life to provide incentives for accommodation. Donald
 Horowitz, in particular, has proposed electoral systems for divided soci-
 
-Democracy and Corruption
-
 eties that reward politicians for making broad appeals across ethnic and
 other social groups (Horowitz 1985). The problem is not just instability
 but other aspects of government performance as well, including the inci
@@ -6210,8 +5959,6 @@ amass personal gains instead of making policy. This result suggests that
 voting systems that encourage stability will limit corruption and encour
 age reform.
 
-Corruption as a Political Problem
-
 This conclusion seems directly counter to Mancur Olson's claim that
 stable systems permit the development of inefficient rent-seeking coali
 tions (Olson 1982). However, the idea is not to organize the state to give
@@ -6222,8 +5969,6 @@ winning, but believe that they have a good chance of returning to office.
 Opposition parties play the role of monitors, threatening to make cor
 ruption a campaign issue. If voters care about policy, not private spoils,
 such a structure will encourage honest policy making.
-
-Conclusions
 
 To summarize, there are three dimensions that are central in determin
 ing the incidence of political corruption. They affect politicians' willing
@@ -6256,8 +6001,6 @@ Buying Political Influence and Buying Votes
 In democracies corruption scandals are frequently associated with the
 financing of political campaigns. Some countries have little bureaucratic
 corruption but suffer from a corrupt political process. However, money
-
-Democracy and Corruption
 
 cannot be entirely eliminated from politics. Elections must be financed,
 and wealthy interests concerned with legislative outcomes and govern
@@ -6306,8 +6049,6 @@ ing government contracts. The resulting scandal led to a law banning such
 
 14,1998.
 
-Corruption as a Political Problem
-
 quid pro quo arrangements, but they still allegedly occur (Qui 1996:197,
 230). In Japan, politicians who assist local firms in obtaining contracts
 allegedly expect a percentage of the price in return (Qui 1996: 231). In
@@ -6352,8 +6093,6 @@ domestic laws. Even when the legal restrictions on fund raising seem per
 missive, politicians and their wealthy patrons may prefer the anonymity
 of an illegal gift. Keeping a gift secret can help hide the illicit quid pro
 quo and will facilitate efforts to siphon off funds for personal use. Voters
-
-Democracy and Corruption
 
 cannot be expected to look with tolerance on tax breaks or contracts
 granted in return for payoffs.
@@ -6401,8 +6140,6 @@ policy. No corrupt payoffs or campaign donations occur, but the risk of
 favoritism is the same.
 
 Most mature democracies recognize the need to limit the impact of
-
-Corruption as a Political Problem
 
 private economic interests on elected politicians and, at least, require
 them to report their financial interests. Within the European Union every
@@ -6452,8 +6189,6 @@ Guardian, July 4,1997.
 
 1998.
 
-Democracy and Corruption
-
 1998, many with economic interests that will be affected by the legisla
 tion they consider. 5 Although some applaud this development as a way
 of assuring independence from the executive, it creates obvious conflictof-interest problems when regulatory and tax laws are at issue.
@@ -6499,8 +6234,6 @@ Britain and the United States in the nineteenth century. In those coun-
 5 "Ukraine's Businessmen - A New Political Class," Financial Times, April 17,
 
 1998.
-
-Corruption as a Political Problem
 
 tries reforms have limited such payoffs, but they remain a feature of elec
 toral politics elsewhere. In Italy political "bosses" attempt to get out the
@@ -6548,8 +6281,6 @@ restrictions are needed if the system is not very competitive and if voters
 
 28,1996. For background on Thailand, see Pasuk and Sungsidh (1994).
 
-Democracy and Corruption
-
 are poorly informed. Without spending limits, politicians have leeway to
 favor large contributors, and the gifts themselves can be used to mislead
 voters as to the candidates' positions and behavior (Rose-Ackerman
@@ -6595,8 +6326,6 @@ publicity. Firms must form Political Action Committees in order to make
 7 For a summary that indicates the range of options, see Law Library of Congress
 
 (1991).
-
-Corruption as a Political Problem
 
 donations, and all gifts must be reported. All fifty states also have legis
 lation requiring that donations be reported, but enforcement is quite
@@ -6645,8 +6374,6 @@ Election Commission, 116 S. Ct. 2309 (1996).
 10 See Alexander (1991); "Minnesota Steals the Spotlight on Campaign-Finance
 Reform," Congressional Quarterly Weekly Report, April 28, 1990: 1240; Tanenbaum (1995).
 
-Democracy and Corruption
-
 In Germany's strong party state, the Constitutional Court has been
 especially concerned with the negative impact of public funding on new
 or small parties. The latest law provides public funding to parties up to
@@ -6692,8 +6419,6 @@ funds (Ackerman 1993). In promoting democratic values, this plan would
 court under the free speech provisions of the United States Constitution, but the
 Supreme Court has not ruled on this issue (ibid.: 152).
 
-Corruption as a Political Problem
-
 reduce the influence of wealthy interests. If not well-monitored, however,
 it might increase illegal payments. Wealthy individuals and firms with
 strong interests in politics would find an important legal avenue to influ
@@ -6705,8 +6430,6 @@ the incentive for politicians to use that route to financial gain would be
 increased by the introduction of a voucher system. Campaign financing
 reform needs to be carefully designed if it is not to introduce new incen
 tives for malfeasance by closing off formerly legal alternatives.
-
-Conclusions
 
 Democratic elections are not invariably a cure for corruption. Instead,
 some electoral systems are more vulnerable to special interest influence
@@ -6772,8 +6495,6 @@ Another group of reforms increases the openness and accountability
 of government. Government collects and provides information; both the
 media and citizens' groups operate freely; and groups and individuals
 
-Corruption as a Political Problem
-
 have effective avenues for challenging official actions. Although such
 policies are likely to be more acceptable to democratically elected
 leaders, these reforms can also have an effect in undemocratic systems
@@ -6816,8 +6537,6 @@ than blocking a costly law. Here the complexities of the American system
 can be beneficial to those seeking to control malfeasance. However, the
 difficulty of exerting influence depends on whether the outside group
 wants a public or a hidden benefit.
-
-Controlling Political Power
 
 In the case of a public benefit, some of the links in the chain may favor
 the policy without payoffs. Some legislators may have constituents who
@@ -6865,8 +6584,6 @@ biguously desirable as an anticorruption device.
 passage of certain kinds of broad-based compromises in the public interest
 (Arnold 1990:131-132).
 
-Corruption as a Political Problem
-
 Accountable Implementation
 
 Legislatures frequently delegate implementation to the executive. I have
@@ -6910,8 +6627,6 @@ one focuses on executive branch accountability to the public or on the
 avoidance of corrupt payoffs, the procedural constraints of the Ameri
 can Administrative Procedures Act (5 U.S.C. §§ 551-559,701-706) seem
 valuable. Under the American act agencies must give notice of their
-
-Controlling Political Power
 
 intent to issue a regulation, accept testimony from a broad range of indi
 viduals and groups, and issue a statement of reasons along with the final
@@ -6959,8 +6674,6 @@ until recently, has seldom effectively constrained the executive. 2
 
 and Blake (1996).
 
-Corruption as a Political Problem
-
 Some Asian countries exhibit a similar pattern. For example, in Thai
 land the executive in the past controlled and limited legislative activity
 so that it could rule by decree (Pasuk and Sungsidh 1994). Executive rule
@@ -7006,8 +6719,6 @@ ernment obligation to publicize and explain its actions. These require
 ments not only are consistent with democratic government but also limit
 the scope for corrupt deals. Even a country with a weak legislature or a
 unitary parliamentary system could limit the opportunities for corrup-
-
-Controlling Political Power
 
 tion and other types of influence by adopting more transparent admin
 istrative processes.3
@@ -7056,8 +6767,6 @@ the federal level has not trickled down to local governments where bid rigging
 and favoritism are pervasive (Prystay 1997; "Bid Rigours," Far Eastern Economic
 Review, March 23, 1995). In South Africa, state and local government institu
 tions are weak and often under the control of rent-seeking politicians (Rubinfeld 1997) while in Spain a new policy of decentralization allegedly greatly
-
-Corruption as a Political Problem
 
 In such cases, intervention by higher-level government is often
 desirable. For example, the Federal Bureau of Investigation is active
@@ -7109,8 +6818,6 @@ Washington Post, January 28,1996.
 example. The wealthy organizers of illegal gambling games, however, made one
 mistake: They invested in Fort Lee condominium projects. These projects soon
 
-Controlling Political Power
-
 funds can cross national borders, coming to rest in various "financial par
 adises," is another example of how multiple, competing jurisdictions can
 make control of corruption, fraud, and tax evasion more, not less, diffi
@@ -7158,8 +6865,6 @@ given by each party, and a decision is awarded in favour of him who pays the
 highest." Quoted by Johnson (1991: 686). MacLean (1996: 157) claims that in
 Jakarta, Indonesia, "justice" belongs to the high bidder. He argues that such prac
 tices occur in many countries.
-
-Corruption as a Political Problem
 
 the recent anticorruption investigations and prosecutions. In India, the
 Supreme Court pushed forward with a corruption investigation that the
@@ -7211,8 +6916,6 @@ judicial reformers in Venezuela is presented in Lawyers Committee for Human
 Rights and Venezuelan Program for Human Rights Education and Action (1996:
 41-80) (hereinafter cited as Lawyers Committee).
 
-Controlling Political Power
-
 "The legislature and executive produce a multitude of laws [that] make
 it almost impossible for anyone to know which ones are actually in force.
 This uncertainty makes the courts the ideal place for bargaining, cor
@@ -7256,8 +6959,6 @@ system. The goal of reform is not just to improve the operation of the
 11 According to the Russian government, 269 businessmen and financiers were
 murdered in 1995 in execution-style slayings. "Mr. Tatum Checks Out," The
 Economist, November 9,1996.
-
-Corruption as a Political Problem
 
 courts, but also to create a secure legal framework for private market
 activity. Corrupt incentives can be reduced by laws that are well drafted,
@@ -7306,8 +7007,6 @@ and honest, but long delays in processing cases are causing corruption to arise
 among support personnel who accept bribes in return for expediting case
 processing.
 
-Controlling Political Power
-
 employees and judges to demand unauthorized fees (Buscaglia 1995). In
 Venezuela, for example, informal fees are apparently common with the
 speed and efficiency of service depending on the size of the payoff
@@ -7354,8 +7053,6 @@ prices ration the quality and quantity of services, but if congestion is a
 problem, each service user imposes costs on others. If the price of the
 service does not reflect this cost, the market will operate inefficiently.
 Although judges and court personnel may become less willing to take
-
-Corruption as a Political Problem
 
 bribes, litigants and their lawyers may be no less willing to offer them to
 get to the head of the queue. Bribery can be used as a rationing device,
@@ -7409,8 +7106,6 @@ Economist, October 10,1998.
 proceed. "Telebras Sold for U.S. $19.1bn," Latin American Weekly Report, August
 4,1998.
 
-Controlling Political Power
-
 ulating the oil industry. 17 Even in Argentina where compliant judges
 made no objection to President Menem's first round of economic
 reforms (Saba and Manzetti 1997: 363), a 1997 decision struck down a
@@ -7462,8 +7157,6 @@ November 7,1997; "Philippines Sell-off Setback," Financial Times December 3,
 
 is "Argentine Sell-off Frozen," Financial Times, September 26,1997.
 
-Corruption as a Political Problem
-
 legislature of Georgia in the early 1800s was upheld by the U.S. Supreme
 Court in the case of Fletcher v. Peck [3 L.Ed. 162-181 (1810)]. The Court
 was unmoved by the fact that all but one of the legislators had been
@@ -7508,8 +7201,6 @@ World Bank's first judicial reform project in Venezuela (Lawyers Com
 mittee 1996). Reformers face the question of whether to coopt existing
 judges and court personnel or try to start over with a new group. In the
 light of these criticisms, a World Bank paper on judicial reform recom-
-
-Controlling Political Power
 
 mends going ahead only if the existing judges will cooperate (Dakolias
 1996). Although the World Bank may have little choice for its own pro
@@ -7556,8 +7247,6 @@ and by the high proportion of complaints that were not anonymous. In
 
 19 Antoniou (1990) and Pope (1996: 73-78).
 
-Corruption as a Political Problem
-
 addition to the ICAC's independence, the government's commitment to
 reform was indicated by the appointment of a person of unquestioned
 integrity to head the ICAC and by an initial policy of investigating and
@@ -7602,8 +7291,6 @@ delays, rotating officers, and increasing supervision. The country reduces
 
 20 "HK's Anti-Graft Chief Stakes Out Territory," Financial Times, June 6,1997.
 21 "Hong Kong: Corruption Reports Increase," Financial Times July 9,1998.
-
-Controlling Political Power
 
 corrupt incentives by giving civil servants a stake in their jobs through
 high wages, bonuses, and favorable working conditions. The aim is to
@@ -7650,8 +7337,6 @@ spread powers of the ICAC could be abused in systems less committed
 March 14, 1996. A critical view is expressed by Anechiarico and Jacobs (1997:
 129,136-137).
 
-Corruption as a Political Problem
-
 to the rule of law.23 In Hong Kong a series of oversight committees and
 an independent judiciary have checked the ICAC, but even so occasional
 scandals have surfaced (Skidmore 1996). As a check on its power, such
@@ -7697,8 +7382,6 @@ abusive authority.
 23 For an example of an anticorruption agency being accused of undermining
 rather than supporting reform, see: "Arrest of Kenya Tax Officials May Hit
 Donor Funding," Financial Times, July 25-26,1998.
-
-Controlling Political Power
 
 In addition to basic information on official standards of behavior,
 citizen activists need more comprehensive information. Government
@@ -7747,8 +7430,6 @@ aration of powers grounds, did not resolve this issue.
 of Commons in 1862 as a standing committee to examine the public accounts of
 the British government. The committee soon became an accepted feature of the
 British system of government (Chester 1981: 218-219, 370).
-
-Corruption as a Political Problem
 
 has been politically divided and unable to operate as a strong counter
 weight to the executive (Kibwana, Wanjala, and Okech-Owiti 1996: 76,
@@ -7799,8 +7480,6 @@ US Discloses Spying Budget," New York Times, October 16,1997.
 29 The American Law is 5 U.S.C. §552. The European Union Directive is
 90/313/EEC, 1990 OJ (L 158) 56-58. See also Rose-Ackerman (1995a: 113-115).
 
-Controlling Political Power
-
 without showing that their own personal situation will be affected.
 Exceptions protect privacy, internal memorandums, and the integrity of
 ongoing prosecutions.
@@ -7849,8 +7528,6 @@ ernments entertain central government officials. As a result, 22 local govern
 ments reported cuts of 30 percent or more in the use of funds for such purposes
 and 14 reported cuts of 10 percent or more (Boling 1998: 8-12).
 
-Corruption as a Political Problem
-
 three cases - media, groups, individuals - there is the problem of fear.
 If government officials or their unofficial allies intimidate and harass
 those who speak out, formal structures of accountability will be
@@ -7898,8 +7575,6 @@ after the investigation had begun (Mexico Business Monthly, October 1,1996).
 He was eventually acquitted of criminal wrongdoing and fined a nominal amount
 in 1997 (Reuters Financial Services, February 26,1997; Miami Herald, August 27,
 1997).
-
-Controlling Political Power
 
 pants in political debate in Germany relinquish some of the protections
 of defamation law, and the Netherlands has a public figure defense (ibid.:
@@ -7952,8 +7627,6 @@ leniently.
 
 23,1996.
 
-Corruption as a Political Problem
-
 reduce the flow of corruption stories. Individuals and groups must push
 for change. Individuals face a familiar free rider problem. Information
 may be available, but no one may have an incentive to look at it. The
@@ -8003,8 +7676,6 @@ support, however. Countries where the process of chapter formation has been
 protracted include Mongolia, Namibia, the Netherlands, South Korea, Sri Lanka,
 and Sweden.
 
-Controlling Political Power
-
 ister development programs for the poor. Their financing may be pro
 vided by the state or by aid funds administered by the state. Thus their
 very existence depends upon cooperation with public authorities. As a
@@ -8048,8 +7719,6 @@ pliance with the rule; they do not obtain damages (Rose-Ackerman
 1995b: 319). Under the most familiar version, private individuals and
 public interest groups sue those who violate Environmental Protection
 Agency rules or orders. The U.S. statutes frequently facilitate such suits
-
-Corruption as a Political Problem
 
 by requiring regulated firms to supply data on their own pollution dis
 charges and by paying the legal fees of successful or "substantially
@@ -8097,8 +7766,6 @@ public interest groups an incentive to focus on the most worthy cases. It
 has the further advantage of forcing firms that gain from paying bribes
 to pay most of the cost of enforcing the law against them. Because accu-
 
-Controlling Political Power
-
 sations of corruption and malfeasance can be motivated by revenge, the
 law might include a provision that shifts all legal fees onto the plaintiff
 for suits found to be harassing or vindictive - so long as the courts can
@@ -8143,8 +7810,6 @@ organized citizen activity if individuals can lodge complaints easily and
 without fear that corrupt officials will take revenge.
 
 Recall the distinction made in a previous chapter between bribes made
-
-Corruption as a Political Problem
 
 to get around the rules and bribes made to get a benefit that should have
 been provided for free. Facilitating complaints will help uncover only
@@ -8192,8 +7857,6 @@ nition of its mission so that it can initiate large-scale investigations of
 general problems rather than merely respond to individual complaints
 (United Nations, High Commissioner for Human Rights 1996:38-40). In
 
-Controlling Political Power
-
 contrast, an example of a strong ombudsman comes from the Pacific
 island country of Vanuatu (Findlay 1997: 56-59). The ombudsman, oper
 ating with "almost religious zeal," investigated a fraudulent financial
@@ -8239,8 +7902,6 @@ Protection Agency; the second protested policy toward people with
 AIDS in the Office of Civil Rights in the Department of Health and
 Human Services. Both whistleblowers were policy entrepreneurs who
 
-Corruption as a Political Problem
-
 attracted widespread media coverage and used members of Congress to
 highlight their concerns. Both could rely on the support of organized
 interest groups to back up their efforts. 36 In the field of corruption control
@@ -8249,8 +7910,6 @@ statute is to do more than provide formal legal protections to complain
 ing officials and private sector employees. Thus in developing countries
 that lack such organized groups whistleblower protection cannot be an
 important feature of a reform strategy until such groups are in place.
-
-Conclusions
 
 Corruption can be controlled indirectly by limits on political power. I
 have considered two broad types of limits. The first are government struc
@@ -8311,8 +7970,6 @@ corruption in poorer countries should influence attitudes in richer coun
 tries as well. Corruption can be routine and commonplace without being
 viewed as acceptable by the population that bears its costs.
 
-Achieving Reform
-
 Another line of critique concerns technique. Some argue that the
 control of corruption should not be linked to international trade and
 lending policy. As in the debate over human rights and labor standards,
@@ -8361,8 +8018,6 @@ number of pitfalls to avoid and new initiatives to consider. One risk is
 that new forms of corruption and rent seeking may arise as a result of
 well-meant reforms designed to improve economic performance or to
 
-The Role of the International Community
-
 democratize politics. Reformers should seek to control these new
 "second generation" forms of malfeasance. They should also be cautious
 of creating pristine enclaves of virtue amidst an otherwise deeply corrupt
@@ -8409,8 +8064,6 @@ trolling and exploiting their own population. The World Bank should not
 the 1970s, for example, a USSR-aided project was halted when a leakage rate of
 40 percent was discovered (Carino 1986: 183).
 
-Achieving Reform
-
 help autocrats collect taxes more effectively, as it once tried to do in
 Zaire (Dia 1993). The United States should not provide military train
 ing to armies that use their new competence and organizational co
@@ -8454,8 +8107,6 @@ also cancel a contract if corrupt or fraudulent practices are revealed later
 on. Firms found to have engaged in such practices will be declared
 ineligible for further contracts "either indefinitely or for a stated period
 of time." The new rules permit Bank audits of contractors and require
-
-The Role of the International Community
 
 contractors to record all payments to agents both before and after the
 bidding, because such payments are frequently the route by which
@@ -8501,8 +8152,6 @@ related proposal would have industries agree among themselves not to
 offer bribes or excessive "commission" payments to obtain contracts any
 where in the world. Countries with political leaders who insist on payoffs
 would be excluded from the market (De George 1994: 5). This is an
-
-Achieving Reform
 
 intriguing suggestion, but it would have to be enforced at the inter
 national level to be viable. One risk is that firms would cartelize the
@@ -8551,8 +8200,6 @@ employees and has isolated several instances of corruption and self-dealing.
 "World Bank Hires Auditors to Probe Its Own Spending; Possible Kickbacks,
 Embezzlement Cited," Washington Post, July 16,1998.
 
-The Role of the International Community
-
 problem of corruption in Eastern Europe, the former Soviet Union, and
 China, it has proved difficult for them to ignore the issue elsewhere in
 the world. As private capital becomes more important in some tradi
@@ -8599,8 +8246,6 @@ efforts has been mixed and not always very durable (Nunberg and Nellis
 
 described on their web page at http://www.info.usaid.gov.
 
-Achieving Reform
-
 can learn from some of its past failures. International aid and lending
 organizations have also helped transitional economies and developing
 countries to publish timely and accurate documents about the basic
@@ -8646,8 +8291,6 @@ most comprehensive framework (World Bank 1997a). 4 The goal should
 4 Following the lead of the World Bank, the Asian Development Bank has also
 issued an anticorruption policy. "Asian Bank Unveils Tough Corruption Policy,"
 Financial Times, July 9,1998.
-
-The Role of the International Community
 
 not be to insulate aid projects from a country's corrupt climate or from
 the payoffs that have become routine in some areas of international busi
@@ -8696,8 +8339,6 @@ bribery/20novle.htm.
 6 Foreign Corrupt Practices Act, 15 U.S.C. §§ 78m(b) & (d)(1) & (g)-(h), 78dd-l,
 78dd-2,78ff (a)(c) (1988 & Supp. IV 1992); Klich (1996:142-143); Pickholz (1997:
 247-249).
-
-Achieving Reform
 
 statute.7 The Convention defines both "bribery" and "foreign official"
 broadly and requires mutual legal assistance and adequate sanctions.
@@ -8751,8 +8392,6 @@ Communique, SG/COM/NEWS(96)53, section 9(x).
 
 as an appendix.
 
-The Role of the International Community
-
 Aid Accountability Initiative is considering working with the Interna
 tional Organization of Supreme Audit Institutions and the International
 Federation of Accountants to develop projects to strengthen account
@@ -8800,8 +8439,6 @@ from business leaders and their advisors. However, in an international
 Table 4.2, and the United Nations, World Investment Report 1997: Transnational
 Corporations, Market Structure and Competition Policy, Table 1.7.
 
-Achieving Reform
-
 environment with no effective means of regulating inefficient behavior,
 large firms have an obligation, and may have a long-term interest, in
 behaving responsibly. In developed countries, with their network of reg
@@ -8844,8 +8481,6 @@ authorities and to those in the outside world. Keeping quiet is probably
 the worst option. The firm not only loses business; it also has done
 nothing to change the underlying situation for the better. The advantage
 of the current interest in corruption is that companies suffer interna-
-
-The Role of the International Community
 
 tional embarrassment if a payoff is revealed, and this possibility can
 induce them not only to resist corrupt demands but even to report them.
@@ -8891,8 +8526,6 @@ develop them (Transparency International - USA 1996).
 13 International Monetary Fund, "The Role of the IMF in Governance Issues -
 Guidance Note," issued as part of News Brief 95/15, Washington DC: IMF,
 August 4,1997.
-
-Achieving Reform
 
 a preliminary step in implementing the World Bank's new procurement
 policy that explicitly contemplates actions to discipline firms by restrict
@@ -8940,8 +8573,6 @@ of funds laundered ranges from $120 billion to $500 billion per year
 (ibid.: 261). There are many methods in use, but one common technique
 is the transfer of funds to countries that permit banks to conceal the iden-
 
-The Role of the International Community
-
 tity of depositors. These funds are then transferred to international banks
 with access to markets worldwide. Prosecution is difficult because sophis
 ticated money launderers react to legal changes by changing their tactics.
@@ -8986,8 +8617,6 @@ Switzerland, is of increasing importance. At issue is both the ease with
 which corrupt officials in one country can hide their gains in another and
 
 14 Council Directive 91/308,1991 O.J. (L 166) 77.
-
-Achieving Reform
 
 the possibility that money-laundering activities can undermine the cred
 ibility of a country's financial structure (Scott 1995). Money-laundering
@@ -9036,8 +8665,6 @@ ary 28, 1994; "The Garbage Wars: Cracking the Cartel," New York Times, July
 23,1995; "Prices Plummet and Service Rises with Crackdown on Trash Cartel,"
 New York Times, May 11,1998.
 
-The Role of the International Community
-
 such groups elsewhere, they may challenge entrenched groups. Of
 course, if such investments are costly and dangerous, few may make the
 effort, but a country's openness to foreign investment at least makes
@@ -9085,8 +8712,6 @@ national legal arena that may provide ideas about how to proceed.
 For example, the World Bank Group's International Center for the
 Settlement of Investment Disputes (ICSID) resolves disputes under con-
 
-Achieving Reform
-
 tracts where it is the forum of choice (Shihata and Parra 1994). ICSID
 panels are not formally courts, and their use is based on the prior consent
 of the parties, but they do occasionally deal with issues that are indirectly
@@ -9130,8 +8755,6 @@ to the press, it was seen to be very critical of the Bank. 16 Thus this system
 Reports, January 1,1998; "Row Brews Over Bank Role in Dam Project," Finan
 cial Times, May 4,1998; "World Bank Issues Apology," Financial Times May 12,
 1998.
-
-The Role of the International Community
 
 also must be reinforced and made more accountable before it can
 become a serious part of the emerging regime, although even in its
@@ -9179,8 +8802,6 @@ obedience to its decisions. One option is to use the leverage of the World
 Trade Organization (WTO). The advantage of WTO sanctions is that
 they are not imposed by the WTO itself but by a country's trading
 
-Achieving Reform
-
 partners. However, the WTO governs relations among nations, not indi
 viduals and businesses. Thus, transnational bribery could be controlled
 through the World Trade Organization, not by the WTO (Nichols 1997a:
@@ -9226,8 +8847,6 @@ Bank projects have been withdrawn because of evidence of corruption,
 although generally without much publicity. The IMF is requiring coun
 tries that want a bailout to agree to governance reforms including poli
 cies to reduce corruption. Yet doubts remain about the depth of these
-
-The Role of the International Community
 
 commitments. A serious attempt to deal with the subject will require con
 frontations with many borrowers and with lenders whose own firms pay
@@ -9293,8 +8912,6 @@ the top as a precondition for administrative reform. They cite the example of
 Uruguay as a case where resistance from public officials had to be overcome by
 political support from the top.
 
-Domestic Conditions for Reform
-
 of consensus. Those who expect to lose from reform can be outvoted and
 outmaneuvered, or they can be coopted or compensated to accept
 change (Grindle and Thomas 1991: 134). For example, in Great Britain
@@ -9341,8 +8958,6 @@ circular. The threat of losing power can induce high officials to become
 even more corrupt as a means of insuring their economic well-being once
 they are out of office. Corrupt leaders may find that reform is risky if it
 
-Achieving Reform
-
 releases opposition forces that undermine the current regime. Thus suc
 cessful reformers may need to buy off potential opponents. Reformers
 also need to worry about sequencing. If not carefully managed, the ben
@@ -9388,8 +9003,6 @@ both have features in common with civil service reform. Those in power
 benefit from corruptly obtained contracts and secretive government
 processes, but the legitimacy of the public sector as a whole would be
 
-Domestic Conditions for Reform
-
 improved by reform. Many anticorruption policies impose costs on the
 political group that proposes them that exceed the cost borne by those
 who simply go along with the change. Unless public outcry is very potent
@@ -9434,8 +9047,6 @@ with each other. In an open-list system patronage ought to be especially
 difficult to eliminate because individualized benefits to voters and cam
 paign workers loom large. In fact, the two systems that did not reform,
 Brazil and Chile, both had open-list systems. Coalition governments
-
-Achieving Reform
 
 in Chile, whose members had little in common, were held together by
 patronage.
@@ -9483,8 +9094,6 @@ coalition governments. Plurality-rule systems are not invariably more
 stable, however - compare the recent instability in India, with its wealth
 of regional parties elected by plurality rule, with the stability of coalition
 
-Domestic Conditions for Reform
-
 governments in Germany since the Second World War. Nevertheless, plu
 rality systems may be more likely to produce governments with the per
 spective needed to produce credible reform. For example, New Zealand
@@ -9529,8 +9138,6 @@ toral system and, in particular, the political incentives to consider broad
 public values are critical. As Geddes (1991: 187) notes, "it is ironic that
 the reforms that would improve efficiency and fairness in the provision
 of government services should be impeded by the same representative
-
-Achieving Reform
 
 institutions whose manifest purpose is to reflect constituents' interests."
 Montinola's work adds a concern for the way political party ideologies
@@ -9580,8 +9187,6 @@ a spoils systems would combat corruption by democratizing government
 service and eliminating entrenched officials. Instead, corruption grew
 more serious. By the late nineteenth century, a bipartisan political coali-
 
-Domestic Conditions for Reform
-
 tion that included President Chester Arthur supported the Pendleton
 Act that started the federal government on the road to establishing a
 civil service system (Maranto and Schultz 1991: 30-36, 50-55).
@@ -9627,8 +9232,6 @@ municipal reform (Stave 1972). Businessmen may tolerate a certain level
 of corruption, but begin to protest if the level of graft escalates, as it
 apparently did in urban America in the latter part of the nineteenth
 century. One author claims that urban reform in the United States was
-
-Achieving Reform
 
 given a push when graft levels increased from 10 to 30 percent of the
 value of contracts and benefits (Calvert 1972). In developing and transi
@@ -9676,8 +9279,6 @@ corrupt with impunity, but they sometimes produce reformers as heads
 2 For example, in Pennsylvania the leader of Republican state machine, not the
 congressional delegation, was viewed as controlling access to federal jobs (Blair
 1989: 81).
-
-Domestic Conditions for Reform
 
 of state. Although outside observers might prefer a more democratic
 polity, it is not absurd to suppose that such rulers are genuinely con
@@ -9728,8 +9329,6 @@ Return of Indonesia Customs Office," Financial Times, April 11,1997.
 as autocratic because of the dominance of the Institutional Revolutionary Party
 and the strength of the executive.
 
-Achieving Reform
-
 A similar irony of reform can occur in procurement. Lower-level offi
 cials may sell inside information on the bidding process, and they may
 provide favors to winning bidders in return for bribes. Rulers of all sorts
@@ -9776,8 +9375,6 @@ argues that the threat of prosecution has been used to deter defectors
 from the ruling party. Even those who leave government for the private
 sector are kept in check by the possibility that if they raise questions
 about incumbents, they may be investigated for "inexplicable self-
-
-Domestic Conditions for Reform
 
 enrichment" (Cothran 1994:144). In Italy, the possession of compromis
 ing information about one's own colleagues is a source of power. As one
@@ -9826,8 +9423,6 @@ political and economic change. The President was granted strong executive
 authority to deal with the crisis in spite of its dubious constitutionality (Saba and
 Manzetti 1997: 361-362).
 
-Achieving Reform
-
 tives for corruption in the first place (Garment 1991). This is a fair crit
 icism, but it hardly lets the government off the hook. Reformers must
 respond to scandals by doing more than punishing the guilty. The chal
@@ -9871,8 +9466,6 @@ the hope of corrupt gains can generate inefficiencies in the public sector.
 Another councillor defended the delay and accused the first of being a
 representative of the business interests behind the water taxi venture.
 He went on to proclaim:
-
-Domestic Conditions for Reform
 
 I will take a buck and who the hell does not know it, and I am
 probably the only one who has guts enough to say I will take a
@@ -9920,8 +9513,6 @@ Democracies are sometimes viewed critically by economic reformers
 6 For an analysis of corruption in Soviet-type systems and some examples of cor
 ruption stories in the Soviet press, see Montias and Rose-Ackerman (1981).
 
-Achieving Reform
-
 who worry that populist pressures will make reform difficult. As a coun
 terweight, an economic crisis can act like a major scandal to push reform
 to the top of the agenda. Thus Arindam Das-Gupta and Dilip Mookherjee (1998: 450) argue that severe fiscal crises can make reform possible
@@ -9966,8 +9557,6 @@ pressures to perform well (Scott 1996: 72). Nevertheless, reformers need
 to recognize that crises and scandals can sometimes be used to push
 reluctant public and private actors toward change.
 
-Domestic Conditions for Reform
-
 Natural Resource Wealth and Foreign Aid
 
 Just as economic crises can spur reform, wealth can make reform seem
@@ -10011,8 +9600,6 @@ huge economic costs without a country's citizens feeling disadvantaged
 compared with their more impoverished neighbors.
 
 A secure source of foreign aid is a little like a diamond mine or an oil
-
-Achieving Reform
 
 deposit. Countries with access to such largesse have a cushion that others
 lack (Moore 1998). If overseas aid lacks conditionality, it may simply
@@ -10060,8 +9647,6 @@ autocrat may have both a longer time horizon and a better ability to
 control competitive rent seeking by his subordinates. The risk, of course,
 is that an autocrat may gradually move toward a more throughly klep-
 
-Domestic Conditions for Reform
-
 tocratic position as he sees the fruits of growth. Thus a more stable longrun solution for corrupt democracies is not their replacement with autoc
 racies, but a stronger commitment both to competitive markets and to
 democratic institutions that can constrain both the rent seeking of
@@ -10106,8 +9691,6 @@ United States this happened at the federal level after the Civil War.
 Direct monitoring became more costly and led those at the top of the
 hierarchy to relinquish some discretion in return for the establishment
 of formal rules. Johnson and Libecap argue that the combination of large
-
-Achieving Reform
 
 government size and the growing independence of local party leaders
 produced support for civil service reform in Congress. The 1883 Pendle
@@ -10154,8 +9737,6 @@ employed about one-quarter of urban wage earners in 1990 (Swamy 1994: 225).
 In Senegal in 1986 the government employed 68,000 of the total of 131,000
 employed in the modern wage sector (Rouis 1994: 294).
 
-Domestic Conditions for Reform
-
 relatively small size of the public sector relative to the private sector.
 Public employees were not a potent pressure group, and the public
 generally supported reform. David Rosenbloom claims that when the
@@ -10198,8 +9779,6 @@ than nonmachine cities per capita and that municipal wages for lowerskilled work
 17 percent more on police and fire services - all areas with many patron
 age jobs. To take one extreme case, the population increased by 22.7
 percent in Boston between 1895 and 1907 while the number of city clerks
-
-Achieving Reform
 
 increased by 75 percent. By 1907 salaries in the city were three times
 more than for comparable jobs in the state government and the private
@@ -10245,8 +9824,6 @@ process as well. Nevertheless, a coalition for reform did eventually
 cities did not spend significantly less on highways (Menes 1996). Because auto
 mobile and truck travel were just becoming important during this period,
 however, it is difficult to know what the null hypothesis should be.
-
-Domestic Conditions for Reform
 
 develop in many cities that elected reform mayors with business support
 (Schiesl 1977).
@@ -10294,8 +9871,6 @@ cial stake in the success of the long-term reform effort and an incentive
 to reveal needed information to the reformers (Basu and Li 1998). The
 authors give two examples from China where officials benefited person-
 
-Achieving Reform
-
 ally from "sponsoring" new businesses and approving stock offerings.
 However, as the authors recognize, toleration of corruption is a risky
 strategy. Corrupt officials may take it upon themselves to organize their
@@ -10341,8 +9916,6 @@ took almost forty years. The proportion covered by the merit system
 increased when overall government employment rose. When public
 sector jobs were increasing, an increased proportion could be covered
 without great pressure on existing employees. Although some people
-
-Domestic Conditions for Reform
 
 might lose their jobs because of incompetence, no large-scale cutbacks
 were needed (Johnson and Libecap 1994:109-111).
@@ -10395,8 +9968,6 @@ remove the worst offenders but went on to include more fundamental
 efforts in Florida and Philadelphia. Reform in Malta was undermined by oppo
 sition from public-sector unions (Polidano 1996).
 
-Achieving Reform
-
 changes. Nevertheless, the durability of partial reforms is questionable.
 For example, in La Paz after the mayor left office, reform stalled and
 corrupt practices reemerged (Klitgaard and Baser 1997:65-66). Reform
@@ -10423,8 +9994,6 @@ who benefited from the first redistribution of state assets to oppose
 subsequent efforts to make the legal system more efficient and fair
 (Kaufmann and Siegelbaum 1997).
 
-Conclusions
-
 Reform is possible and can under some conditions become institution
 alized and hard to reverse. The structure of political institutions can
 facilitate or hamper reform, and some systems are organized so that
@@ -10440,8 +10009,6 @@ by those who gain from the status quo. Political systems that facilitate
 the exchange of individualized favors, be they jobs, payoffs, or govern
 ment contracts, are tailormade for corrupt deals. Reform of such polities
 will depend on a scandal or crisis or on the slow erosion of the benefits
-
-Domestic Conditions for Reform
 
 of inside deals. Sometimes an indirect approach to reform is necessary.
 Credible reform of the civil service, of procurement practices, and of
@@ -10470,8 +10037,6 @@ quo, is a "big bang" approach in which massive changes are introduced
 all at once. The second involves an incremental strategy in which the
 steps are carefully designed to build support over time. Some short-term
 gains may need to be sacrificed in order to get the sequencing right.
-
-Conclusions
 
 Self-interest and the public interest frequently conflict. In a corrupt rela
 tionship both the briber and the recipient are better off, but the trans
@@ -10502,8 +10067,6 @@ crossed. Citizen concerns over bribes paid in return for favors indicate
 that people recognize norms of fair dealing and competent administra
 tion and are beginning to demand that government serve general public
 purposes.
-
-Conclusions
 
 Corruption may have its roots in culture and history, but it is, never
 theless, an economic and political problem. It produces inefficiency and
@@ -10552,8 +10115,6 @@ payments public.
 Both theory and practice suggest that there is no single, simple
 response that should be adopted across the board once the basic anti-
 
-Conclusions
-
 corruption statutes are in place. Instead, there are two different but
 related types of corruption: corruption involving high-level officials that
 often implicates multinational corporations or large domestic firms,
@@ -10596,8 +10157,6 @@ intrusive that the development of a healthy private sector is
 affected. Here the answer is a hard look at regulatory laws to
 see which can be eliminated, which can be simplified, and which
 require improved enforcement. Many countries have both point-
-
-Conclusions
 
 less business regulation that generates bribes and ineffective
 regulations in socially beneficial areas such as environmental
@@ -10645,8 +10204,6 @@ enforcing the law is a weakness in many developing and transitional
 countries. Thus one area for reform should be either improvements in
 existing institutions such as the courts or the creation of new bodies such
 as independent inspectors general or anticorruption commissions. The
-
-Conclusions
 
 experience of other countries should be documented - both successful
 experiments and those that backfired when the nominal corruption
@@ -10730,8 +10287,6 @@ Amick, George. 1976. The American Way of Graft, Princeton NJ: Center for the Ana
 
 of Public Issues.
 
-References
-
 Andreoni, James. 1988. "Privately Provided Public Goods in a Large Economy: The
 
 Limits of Altruism," Journal of Public Economics 35:57-73.
@@ -10814,8 +10369,6 @@ Political Quarterly 19:719-732.
 Becker, Gary. 1968. "Crime and Punishment: An Economic Approach," Journal of
 
 Political Economy 76:169-217.
-
-References
 
 Becker, Gary, and George Stigler. 1974. "Law Enforcement, Malfeasance, and
 
@@ -10901,8 +10454,6 @@ Bratton, Michael. 1989. "The Politics of Government-NGO Relations in Africa," Wo
 
 Development 17:569-587.
 
-References
-
 Brennan, Geoffrey, and James Buchanan. 1980. The Power to Tax, New York: Cambridge
 
 University Press.
@@ -10984,8 +10535,6 @@ Chhibber, Pradeep K. 1996. "State Policy, Rent Seeking, and the Electoral Succes
 Religious Party in Algeria," Journal of Politics 58:126-148.
 
 Chow, Daniel C. K. 1997. "An Analysis of the Political Economy of China's Enterprise
-
-References
 
 Conglomerates: A Study of the Electric Power Industry in China," Law & Policy in
 International Business 28:383^133.
@@ -11073,8 +10622,6 @@ De Melo, Martha, Gur Ofer, and Olga Sandler. 1995. "Pioneers for Profit: St. Pet
 
 Entrepreneurs in Services," World Bank Economic Review 9:425-450.
 
-References
-
 Derlien, Hans-Ulrich. 1991. "Historical Legacy and Recent Developments in the
 
 German Higher Civil Service," International Review of Administrative Sciences
@@ -11154,8 +10701,6 @@ Findlay, Mark. 1997. "Corruption in Small States: Case Studies in Compromise," i
 Rider, ed., Corruption: The Enemy Within, The Hague: Kluwer Law, pp. 49-61.
 
 Findlay, Ronald. 1991. "Is the New Political Economy Relevant to Developing
-
-References
 
 Countries?," in G. M. Meier, ed., Politics and Policymaking in Development:
 Perspectives on the New Political Economy, Washington DC: The World Bank.
@@ -11243,8 +10788,6 @@ Mexico: Centro de Investigation y Docencia Economical
 
 Guinier, Lani. 1994. The Tyranny of the Majority, New York: Free Press.
 
-References
-
 Gunlicks, Arthur B. 1995, "The New German Party Finance Law," German Politics
 
 4:101-121.
@@ -11327,8 +10870,6 @@ Huber, Evelyn, Dietrich Rueschemeyer, and John D. Stephens. 1993. "The Impact of
 Economic Development on Democracy," Journal of Economic Perspectives
 7:70-86.
 
-References
-
 Hutchcroft, Paul D. 1998. Booty Capitalism: The Politics of Banking in the Philippines,
 
 Ithaca: Cornell University Press.
@@ -11409,8 +10950,6 @@ Improved?, Washington DC: The Brookings Institution, pp. 102-128.
 
 Kibwana, Kivutha, Smokin Wanjala, and Okech-Owiti. 1996. The Anatomy of Corruption
 in Kenya, Nairobi, Kenya: Center for Law and Research International (Clarion).
-
-References
 
 Kilby, Christopher. 1995. "Risk Management: An Econometric Investigation of Project-
 Level Factors," background paper for the Annual Review of Evaluation Results
@@ -11496,8 +11035,6 @@ Lave, Lester. 1981. The Strategy of Social Regulation. Washington DC: Brookings
 
 Institution.
 
-References
-
 Laver, Michael, and Norman Schofield. 1990. Multiparty Government, Oxford: Oxford
 
 University Press.
@@ -11582,8 +11119,6 @@ Implications, Buffalo NY: Council on International Studies and Programs, State
 University of New York at Buffalo.
 
 Lundahl, Mats. 1997. "Inside the Predatory State: The Rationale, Methods, and Economic
-
-References
 
 Consequences of Kleptocratic Regimes," Nordic Journal of Political Economy
 24:31-50.
@@ -11672,8 +11207,6 @@ Mbaku, John Mukum. 1994. "Africa After More Than Thirty Years of Independence: S
 
 Poor and Deprived," Journal of Third World Studies 11:13-58.
 
-References
-
 Mehmet, Ozay. 1994. "Rent-Seeking and Gate-Keeping in Indonesia: A Cultural and
 
 Economic Analysis," Labour, Capital and Society, 27:56-89.
@@ -11754,8 +11287,6 @@ Morris, Stephen. 1991. Corruption and Politics in Contemporary Mexico, Tuscaloos
 
 University of Alabama Press.
 
-References
-
 Murray-Rust, D. Hammond, and Edward J. Vander Velde. 1994. "Changes in Hydraulic
 Performance and Comparative Costs of Lining and Desilting of Secondary Canals
 in Punjab, Pakistan," Irrigation and Drainage Systems 8:137-158.
@@ -11834,8 +11365,6 @@ Bruno and Boris Pleskovic, eds., Annual World Bank Conference on Development
 Economics, Washington DC: The World Bank, pp. 207-234.
 
 Ostrom, Elinor, and Roy Gardiner. 1993. "Coping with Asymmetries in the Commons:
-
-References
 
 Self-Governing Irrigation Systems Can Work," Journal of Economic Perspectives
 7:93-112.
@@ -11917,8 +11446,6 @@ Property Rights: The Case of Ukraine, Ukranian Economic Review, no. 4-5.
 Polidano, Charles. 1996. "Public Service Reform in Malta, 1988-96: Lessons to Be
 
 Learned," Governance 9:459-480.
-
-References
 
 Pope, Jeremy, ed. 1996. National Integrity Systems: The TI Source Book, Berlin:
 
@@ -12002,8 +11529,6 @@ Reuter, Peter. 1987. Racketeering in Legitimate Industries: A Study in the Econo
 
 Intimidation, Santa Monica CA: RAND Corporation.
 
-References
-
 Rhodes, R. A. W. 1994, "The Hollowing Out of the State: The Changing Nature of the
 
 Public Service in Britain," Political Quarterly 65:138-151.
@@ -12073,8 +11598,6 @@ Literature 34:701-728.
 . 1996b. "Democracy and 'Grand' Corruption," International Social Science Journal
 48:365-380.
 . 1996c. "Is Leaner Government Cleaner Government?" Published in Spanish as
-
-References
 
 "^,Una Administracion Reducida Significa una Administracion Mas Limpia?,"
 Nueva Sociedad, No. 145, September-October, pp. 66-79.
@@ -12156,8 +11679,6 @@ Within, The Hague: Kluwer, pp. 105-111.
 Scalapino, Robert. 1989. The Politics of Development: Perspectives on Twentieth-Century
 
 Asia, Cambridge MA: Harvard University Press.
-
-References
 
 Schiesl, Martin J. 1977. The Politics of Efficiency: Municipal Administration and Reform
 
@@ -12245,8 +11766,6 @@ Often," Journal of Law and Economics 35:15-43.
 Sproat, John. 1982. "'The Best Men': Liberal Reformers in the Gilded Age," Chicago:
 
 University of Chicago Press.
-
-References
 
 Stark, Andrew. 1992. "Public Sector Conflict of Interest at the Federal Level in Canada
 
@@ -12338,8 +11857,6 @@ Tirole, Jean. 1986. "Hierarchies and Bureaucracies: On the Role of Collusion in
 
 Organizations," Journal of Law, Economics, and Organization 2:181-214.
 
-References
-
 Tirole, Jean. 1996. "A Theory of Collective Reputations (with Applications to the
 
 Persistence of Corruption and to Firm Quality)," Review of Economic Studies
@@ -12411,8 +11928,6 @@ of Administrative Sciences 62:197-218.
 Vermeulen, Gert. 1997. "The Fight Against International Corruption in the European
 Union," in Barry Rider, ed., Corruption: The Enemy Within, The Hague: Kluwer,
 pp. 333-342.
-
-References
 
 Vick, Douglas W., and Linda Macpherson. 1997. "An Opportunity Lost: The United
 Kingdom's Failed Reform of Defamation Law," Federal Communications Law
@@ -12491,8 +12006,6 @@ World Bank. 1991. The Reform of Public Sector Management, Policy and Research Se
 Energy Sector Management Assistance Programme, World Bank Western Africa
 Department and Industry and Energy Division, July.
 . 1994a. Nigeria: Structural Adjustment Program Washington DC: World Bank.
-
-References
 
 World Bank. 1994b. Paraguay: Country Economic Memorandum, Report 11723, World
 
@@ -12603,8 +12116,6 @@ Cohen, Lawrence, 13, 51, 98
 Colazingari, Silvia, 38,135,139
 Collins, Paul, 71, 75, 87,136
 Connolly, William X, 139,140
-
-Name Index
 
 Cooksey, Brian, 177
 Coolidge, Jacqueline, 114nl, 116n3,120-1,
@@ -12733,8 +12244,6 @@ Kilby, Christopher, 182
 Kim, Jong Bum, 152
 Kim, Joongi, 152
 
-Name Index
-
 Kitchen, Richard, 73
 Klitgaard, Robert, 14,15, 22, 66, 82,159,
 
@@ -12859,8 +12368,6 @@ Painter, Joe, 85
 Pak, Simon J., 65,193
 Paredes, Ricardo, 40, 202
 
-Name Index
-
 Paris Rodriquez, Hernando, 154
 Park, Byeong-Seog, 133,138
 Parra, Antonio R., 194
@@ -12978,8 +12485,6 @@ Sungsidh Piriyarangsan, 23, 36, 73, 84,
 92n2,138n6,148,167,177
 
 Svendsen, Mark, 13
-
-Name Index
 
 Tanenbaum, Adam S., 10, 43,139,140nn9,
 
@@ -13144,8 +12649,6 @@ banking system: corruption and patron
 age, 10-11,109-10; high-risk lending,
 10-11
 
-Subject Index
-
 Belgium, defense contract bribes, 29
 bench marks, ways to obtain, 65-6
 bidding process, in U.S. procurement
@@ -13294,8 +12797,6 @@ effect of open list voting in, 201-2;
 (CPIB), Singapore, 160-1
 
 Costa Rica: laws and regulations
-
-Subject Index
 
 computerized, 154; political culture in,
 107n21
@@ -13449,8 +12950,6 @@ Gambia, forgone revenue and tax evasion,
 
 19-20
 
-Subject Index
-
 General Accounting Office, United States,
 
 Germany: bribes related to new
@@ -13584,8 +13083,6 @@ projects, 31; interdependence of public
 and private sectors, 105-6; lack of trust
 in the state, 97; Mafia dominance of
 local politics, 149n4; media coverage of
-
-Subject Index
 
 corruption, 166; payoffs to obtain
 confidential information, 27nl; payoffs
@@ -13728,8 +13225,6 @@ Nepal: Arun III dam project investigation,
 officials sharing illegal fees, 82-3
 Netherlands, public figure defense, 167
 
-Subject Index
-
 New York City: anticorruption program in
 School Construction Authority, 55nll,
 161; bribes related to reduced tax
@@ -13870,8 +13365,6 @@ countries, 63-8; in kleptocracies, 208; nobribery pledges, 181-2,195-6; reform o
 as anticorruption strategy, 68; reform in
 United States, 59-63; World Bank
 guidelines, 180-1; WTO code, 186
-
-Subject Index
 
 Procurement Guidelines, World Bank, 64
 public enterprises: see state-owned
@@ -14020,8 +13513,6 @@ United Nations, Vienna Convention
 
 against Illicit Traffic in Narcotic Drugs
 and Psychotropic Substances, 191
-
-Subject Index
 
 United Nations Development Programme
 (UNDP): Aid Accountability Initiative,

@@ -1,4 +1,3 @@
-
 Poverty and Famines
 
 An Essay on Entitlement and Deprivation
@@ -266,8 +265,6 @@ underlying ideas.
 
 Among the influences that determine a person's exchange
 
-POVERTY AND FAMINES
-
 entitlement, given his ownership bundle (including labour power), are the following:
 
 (1) whether he can find an employment, and if so for how long and at what wage rate;
@@ -327,8 +324,6 @@ security advantage in terms of exchange entitlement.
 See Marx (1857–8, 1867)
 
 for the classic treatment of modes of production and their relevance to production and distribution.
-
-POVERTY AND FAMINES
 
 Similarly, those who sell services (e.g. barbers or rickshaw-pullers) or handicraft products (e.g. weavers or shoemakers)
 are—like wage labourers—more exposed, in this respect, to famines involving unexpected rises of food prices than are
@@ -390,8 +385,6 @@ patterns and—less obviously
 See Aziz (1975), Sinha (1976a, 1976b, 1977), Sinha and Gordon Drabek (1978), Interfutures (1979), and also the FAO Production Yearbooks and FAO Monthly Bulletins
 (e.g., vol. 3, No. 4, 1980, pp. 15–16). See also chapters 5 and 10 below.
 
-POVERTY AND FAMINES
-
 but no less importantly—to the various influences that affect exchange entitlement mappings (see Appendices A and
 B, and Chapters 5–10). In so far as food supply itself has any influence on the prevalence of starvation, that influence is
 seen as working through the entitlement relations. If one person in eight starves regularly in the world,7 this is seen as the
@@ -439,8 +432,6 @@ concept of poverty as
 'externality'; the view quoted corresponds to 'externality'.
 
 'broad concepts' of poverty, viz. (1) 'subsistence', (2) 'inequality', and (3)
-
-POVERTY AND FAMINES
 
 such, or whether they should figure under the possible effects of poverty. I believe a good case can be made for choosing
 the latter alternative, since in an obvious sense poverty must be a characteristic of the poor rather than of the nonpoor. One can, for instance, argue that, if one considers a case of reduction of real income and increase in the suffering
@@ -498,8 +489,6 @@ In his famous study of poverty in York, Seebohm Rowntree (1901) defined families
 their 'total earnings are insufficient to obtain the minimum necessities for the maintenance of merely physical
 efficiency'. It is not surprising that biological considerations related to the requirements of
 
-POVERTY AND FAMINES
-
 survival or work efficiency have been often used in defining the poverty line. Starvation, clearly, is the most telling
 aspect of poverty.
 
@@ -533,8 +522,6 @@ and Rein (1971).
 astonishing estimates of 'the cost of subsistence'. See also Rajaraman (1974).
 
 and Srinivasan (1977a, 1979).
-
-CONCEPTS OF POVERTY
 
 surprising that the assumptions made often turn out to be contradicted by actual experience; for example, Lord
 Beveridge's estimate of subsistence requirements of income during the Second World War proved to be far from
@@ -573,8 +560,6 @@ issue from poverty, as will be presently argued (see Section 2.3).
 
 'Externality', in terms of the effects of poverty on the non-poor,
 
-POVERTY AND FAMINES
-
 Third, even when we do go through the intermediary of income, the translation of a set of nutritional norms (or of
 alternative sets of such norms) into a 'poverty line' income (or poverty-line incomes) may be substantially simplified by
 the wide prevalence of particular patterns of consumption behaviour in the community in question. Proximity of actual
@@ -608,8 +593,6 @@ different
 
 for discussions of alternative approaches.
 
-CONCEPTS OF POVERTY
-
 issue from poverty. To try to analyse poverty 'as an issue of inequality', or the other way round, would do little justice
 to either. Inequality and poverty are not, of course, unrelated. But neither concept subsumes the other. A transfer of
 income from a person in the top income group to one in the middle income range must ceteris paribus reduce inequality;
@@ -641,8 +624,6 @@ investigating contrasts between different sections of the community from many di
 18 See Runciman (1966)
 
 and Townsend (1971), presenting two rather different approaches to the concept.
-
-POVERTY AND FAMINES
 
 deprivation' and 'conditions of deprivation'. Peter Townsend has argued that 'the latter would be a better usage'.19 There
 is indeed much to be said for a set of criteria that can be based on concrete conditions, so that one could use 'relative
@@ -676,8 +657,6 @@ analysis of
 
 differences in the nature of the two trade union movements and of political organization generally.
 
-CONCEPTS OF POVERTY
-
 poverty. It is, however, worth noting that the approach of relative deprivation—even including all its variants—cannot
 really be the only basis for the concept of poverty. A famine, for example, will be readily accepted as a case of acute
 poverty no matter what the relative pattern within the society happens to be. Indeed, there is an irreducible core of
@@ -710,8 +689,6 @@ doctor attached to the students' hostel in which I stayed in Calcutta would refu
 bed'.) The issue is, in some respects, comparable to that of one's interests influencing one's values; for an important historical analysis of various different aspects of that
 relationship, see Hirschman (1977).
 
-POVERTY AND FAMINES
-
 The point was brought out very clearly by Adam Smith more than two hundred years ago:
 
 By necessaries I understand not only the commodities which are indispensably necessary for the support of life, but
@@ -737,8 +714,6 @@ But the partial ordering would still reflect a descriptive
 
 25 Smith (1776), pp. 351–2.
 26 Sen (1973a), Chapters 2 and 3.
-
-CONCEPTS OF POVERTY
 
 statement rather than a prescriptive one. Indeed, the statement would be rather like saying, 'Nureyev may or may not
 be a better dancer than Nijinsky, but he dances better than this author, according to contemporary standards', a
@@ -770,8 +745,6 @@ with the elimination of deprivation in any obvious sense. If interpreted in term
 
 27 US President's Commission on Income Maintenance (1969), p. 8.
 
-POVERTY AND FAMINES
-
 policy, the 'policy definition' may fail to catch the political issues in policy-making.
 
 Second, even if 'policy' is taken to stand not for actual public policy, but for policy recommendations widely held in the
@@ -798,8 +771,6 @@ poverty and not scale it down to the level commensurate with its predicament.29
 
 28 Cf. Hare (1963), Chapter 4.
 29 For an account of that predicament, see Stein, Susser, Saenger, and Marolla (1975).
-
-CONCEPTS OF POVERTY
 
 If this approach is accepted, then the measurement of poverty must be seen as an exercise of description assessing the
 predicament of people in terms of the prevailing standards of necessities. It is primarily a factual rather than an ethical
@@ -834,8 +805,6 @@ latter exercise some relative scaling of deprivations is necessary. The scope fo
 
 deprived in terms of another community's standards (e.g. B's).
 
-POVERTY AND FAMINES
-
 arbitrariness in this is much greater, since conventions on this are less firmly established and the constraints of
 acceptability would tend to leave one with a good deal of freedom. The problem is somewhat comparable with the
 criteria for making aggregative descriptive statements in such fields as, say, comparisons of sporting achievements of
@@ -868,8 +837,6 @@ To view poverty as an issue in inequality, as is often recommended, seems to do 
 and Atkinson (1970).
 
 and Sen (1978b).
-
-CONCEPTS OF POVERTY
 
 Poverty and inequality relate closely to each other, but they are distinct concepts and neither subsumes the other
 (Section 2.3).
@@ -946,8 +913,6 @@ taste (once one breaks out of the barrier spotted by the old Guinness ad: 'I hav
 Dietary habits of a population are not, of course, immutable, but they have remarkable staying power. In making
 intercommunity comparisons of poverty, the contrast between formulating
 
-POVERTY AND FAMINES
-
 needs in terms of characteristics and formulating needs in terms of commodities may turn out to be significant. For
 example, the ranking of rural living standards in different states in India changes significantly when the basis of
 comparison is shifted from command over commodities to command over characteristics such as calories and
@@ -982,8 +947,6 @@ one of the more common causes of death during a famine is diarrhoea caused by ea
 
 38 The distinction relates closely to Seebohm Rowntree's (1901) contrast between 'primary' and 'secondary' poverty.
 
-POVERTY: IDENTIFICATION AND AGGREGATION
-
 of the direct method. However, this is not all there is to the contrast of the two methods. The income method can also
 be seen as a way of taking note of individual idiosyncrasies without upsetting the notion of poverty based on
 deprivation. The ascetic who fasts on his expensive bed of nails will be registered as poor under the direct method, but
@@ -1011,8 +974,6 @@ data been available.
 The 'direct method' and the 'income method' are not, in fact,
 
 39 The income method has close ties with the welfare economics of real income comparisons; see Hicks (1958).
-
-POVERTY AND FAMINES
 
 two alternative ways of measuring the same thing, but represent two alternative conceptions of poverty. The direct
 method identifies those whose actual consumption fails to meet the accepted conventions of minimum needs, while
@@ -1051,8 +1012,6 @@ and Radhakrishna and Sarma (1975),
 
 among others. See also Osmani (1978).
 
-POVERTY: IDENTIFICATION AND AGGREGATION
-
 is concerned. In calculating the income necessary for meeting the minimum needs of families of different size, some
 method of correspondence of family income with individual income is needed. While the simplest method of doing
 this is to divide the family income by the number of family members, this overlooks the economies of large scale that
@@ -1087,8 +1046,6 @@ and Atkinson (1969),
 
 and Hamilton (1975).
 
-POVERTY AND FAMINES
-
 income they think is needed to make a larger family have the same standard of well-being as a smaller one. Empirical
 studies of these 'views' (e.g., Goedhart, Halberstadt, Kapteyn, and van Praag, 1977) have shown considerable
 regularities and consistency.
@@ -1121,8 +1078,6 @@ Muellbauer (1977a), Deaton and Muellbauer (1980), Fields (1980), Kakwani (1980a)
 
 and Marris and Theil (1980).
 
-POVERTY: IDENTIFICATION AND AGGREGATION
-
 3.4 Poverty Gaps and Relative Deprivation
 
 The income short-fall of a person whose income is less than the poverty-line income can be called his 'income gap'. In
@@ -1151,8 +1106,6 @@ deprived person and reduces that of someone less deprived, so that in a straight
 46 Cf. Scitovsky (1976)
 
 and Hirsch (1976). See also Hirschman and Rothschild (1973).
-
-POVERTY AND FAMINES
 
 sense the over-all relative deprivation is increased.47 And this is the case quite irrespective of whether absolute
 deprivation is measured by income short-falls, or—taking utility to be an increasing function of income—by utility
@@ -1185,8 +1138,6 @@ investigated further in Section C. 3, pp. 192–4.
 Mukherjee, Bhattacharya and Chatterjee (1972), Bhatty (1974), Kumar (1974), Vaidyanathan (1974), Lal (1976), Ahluwalia (1978), and Dutta (1978). For international
 comparisons, see Chenery, Ahluwalia, Bell, Duloy and Jolly (1974).
 
-POVERTY: IDENTIFICATION AND AGGREGATION
-
 so-called 'poverty gap', which is the aggregate short-fall of income of all the poor from the specified poverty line.49 The
 index can be normalized by being expressed as the percentage short-fall of the average income of the poor from the
 poverty line. This measure—denoted I—will be called the 'income-gap ratio'.
@@ -1216,8 +1167,6 @@ better test of the progress
 
 49 The poverty gap has been used by the US Social Security Administration; see Batchelder (1971). See also Kakwani (1978) and Beckerman (1979a, 1979b).
 50 The underlying issues have been discussed in Sen (1973b, 1976a). See also Fields (1980).
-
-POVERTY AND FAMINES
 
 of the nation than that which shows what proportion are in poverty' (p. 214**). The spirit of the remark is acceptable
 enough, but surely not the gratuitous identification of poverty with the head-count measure H.
@@ -1251,8 +1200,6 @@ deprivation compared with others who are also deprived.
 
 the question of relative deprivation vis-à-vis
 
-POVERTY: IDENTIFICATION AND AGGREGATION
-
 3.6 Axiomatic Derivation of a Poverty Measure and Variants
 
 We may require the poverty measure P to be a weighted sum of the short-falls of all people who are judged to be poor.
@@ -1282,8 +1229,6 @@ rank value r(i).
 
 and Townsend (1971).
 
-POVERTY AND FAMINES
-
 A rather distinguished and simple case of such a relationship is to make the weight on any person i's income gap equal
 the rank value r(i). This makes the weights equidistanced, and the procedure is in the same spirit as Borda's (1781)
 famous argument for the rank-order method of voting, choosing equal distances in the absence of a convincing case
@@ -1311,8 +1256,6 @@ the poverty line
 It should be remembered that in fixing the poverty line considerations of relative deprivation have already played a part, so that absolute deprivation vis-à-vis
 is non-relative only in the limited context of the 'aggregation' exercise. As was discussed earlier, the concepts of absolute and relative deprivation are both relevant to each of
 the two exercises in the measurement of poverty, viz. identification and aggregation. Axioms A and R are each concerned exclusively with the aggregation exercise.
-
-POVERTY: IDENTIFICATION AND AGGREGATION
 
 the poverty measure being a weighted sum of income gaps, then a precise measure of poverty emerges (as shown in
 Sen, 1973b, 1976a). When G is the Gini coefficient of the distribution of income among the poor, this measure is given
@@ -1346,8 +1289,6 @@ among others.
 and Chakravarty (1980a, 1980b),
 
 among others.
-
-POVERTY AND FAMINES
 
 poverty sensitive to the different features that are implicit in our ideas on poverty. In particular, the question of
 distribution remains relevant even when incomes below the poverty line are considered. It will be necessary to go into
@@ -1395,8 +1336,6 @@ increase in the local or regional death rate' (Mayer, 1975).
 the absence of outside aid, leads to death of those affected' (UNRISD, 1975).
 
 I hope the reader has got the point.
-
-POVERTY AND FAMINES
 
 diagnose it—like a flood or a fire—even without being armed with a precise definition.60
 
@@ -1476,8 +1415,6 @@ especially p. 46).
 
 65 The empirical issue as to whether the quoted views of the Indian or Japanese economic history are correct is, of course, a different question.
 
-POVERTY AND FAMINES
-
 the fact that a rising trend need not eliminate big fluctuations. Indeed, there are good reasons to think that the trend of
 food availability per head in recent years has been a rising one in most parts of the world,66 but nevertheless acute
 starvation has occurred quite often, and there is some evidence of intensification of famine threats.67 While this is
@@ -1538,8 +1475,6 @@ of these contrasts are taken up in Chapters 6, 7, 8,
 
 and 9).
 
-POVERTY AND FAMINES
-
 even when there is no over-all shortage. There is no reason whatsoever to think that the food consumption of different
 groups must vary in the same direction (even if by different proportions and amounts), and in later chapters cases will be
 encountered in which different groups' fortunes moved sharply in opposite directions.
@@ -1576,8 +1511,6 @@ person (the ownership bundle) and the exchange
 i
 
 i
-
-POVERTY AND FAMINES
 
 entitlement mapping (the function that specifies the set of alternative commodity bundles that the person can command
 respectively for each endowment bundle).71 For example, a peasant has his land, labour power, and a few other
@@ -1662,8 +1595,6 @@ difficult to trace, but starvation can also develop with unchanged asset ownersh
 capital markets, substantial borrowing is typically impossible without tangible securities. The limitations of the capital markets often constitute an important aspect of famine
 conditions.
 
-POVERTY AND FAMINES
-
 .1 Illustration of Endowment and Entitlement
 
 of exchange entitlement mapping.74 This would be impossible only if the endowment vector itself contained enough
@@ -1716,8 +1647,6 @@ set, and neither.
 and also Famine Inquiry Commission (1945a).
 
 1961, p. 207).
-
-POVERTY AND FAMINES
 
 Third, people's actual food consumption may fall below their entitlements for a variety of other reasons, such as
 ignorance, fixed food habits, or apathy.81 In concentrating on entitlements, something of the total reality is obviously
@@ -1918,8 +1847,6 @@ available' (Famine Inquiry Commission, India, 1945a, p. 77). This thesis will be
 
 .1Bengal, 1943
 
-POVERTY AND FAMINES
-
 The wholesale price of rice, which had been between Rs. 13 and Rs. 14 per 'maund' (about 82.3 lbs.) on 11 December
 1942, rose to Rs. 21 by 12 March 1943 and to above Rs. 30 by 21 May; by 20 August it had risen to Rs. 37 (see Table
 6.1). Because of a government order fixing a maximum price, quotations for rice transactions are difficult to obtain
@@ -1974,28 +1901,7 @@ Kalma no. 1 Price (Rs.) (mill-cleaned) Index
 21.00
 (not quoted)
 30.00–31.00
-(not quoted)
-(not quoted)
-(not quoted)
 
-(not quoted)
-
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-(not quoted)
-
-(not quoted)
-(not quoted)
-(not quoted)
 22.00–23.00
 31.00
 32.00–33.00
@@ -2011,8 +1917,6 @@ and very rarely for both. The index for Ballam no. 1 is constructed by setting t
 100. Since there is no quotation for Kalma no. 1 at that time, the index value of Kalma is equated to that of
 Ballam on 21 May 1943, when both prices are reported for the first time in the period covered. This provides the
 base for the Kalma index.
-
-THE GREAT BENGAL FAMINE
 
 onwards, but there are non-official reports of further rises, especially in retail markets, such as in October that rice was
 being sold in Chittagong at Rs. 80 per maund (see The Statesman, 5 November 1943; Bhatia, 1967, p. 323), and in
@@ -2046,8 +1950,6 @@ this was mostly the result of famine-induced epidemics, e.g. of
 
 89 See Famine Inquiry Commission (1945a), Appendix VI.
 
-POVERTY AND FAMINES
-
 cholera, malaria, and smallpox. Death directly from starvation and 'famine diarrhoea' had passed its peak in late
 summer and autumn of 1943.90
 
@@ -2075,8 +1977,6 @@ by Greenough (1979).
 
 91 Famine Inquiry Commission (1945a), p. 30.
 92 See The Calcutta Gazette Supplements over this period; also Famine Inquiry Commission (1945a), p. 40.
-
-THE GREAT BENGAL FAMINE
 
 Calcutta saw the famine mainly in the form of masses of rural destitutes, who trekked from the districts into the city;
 by July 1943 the streets were full. To start with, relief was confined to personal charity and to kitchens organized by
@@ -2107,8 +2007,6 @@ Bengal' provides the
 95 See Famine Inquiry Commission (1945a), p. 71–2.
 96 See Ghosh (1944), p. 121.
 
-POVERTY AND FAMINES
-
 standard explanation of the famine. As Blyn notes in his authoritative account of 'agricultural trends in India' (1966),
 referring to the Report of the Famine Inquiry Commission and to the Census of India 1951:97 'In 1942–43 cyclones and
 floods reduced the Bengal rice crop by about a third; this, coupled with the absence of exports from Japanesecontrolled Burma, and inadequate relief, led to famines, epidemics (malaria, cholera and smallpox), aggravated by
@@ -2136,8 +2034,6 @@ to have been higher in the year 1942–3 than in 1940–1, despite the fact that
 much higher than in 1940–1.
 
 97 Census of India, 1951, vol. 1, pp. 291–92. See also the Census of Pakistan, 1951, vol. 3; and Bhatia's well-known book on Indian famines (1967), pp. 231–4.
-
-THE GREAT BENGAL FAMINE
 
 Some corrections to the official estimates were carried out by the Famine Inquiry Commission itself, on the lines
 suggested by Mahalanobis and others. These included corrections also to the trade data, to increase coverage of
@@ -2167,8 +2063,6 @@ column (8) in Table 6.2 below. The supply in 1943 was 11 per cent higher than in
 Calcutta', less 'exports out of Bengal' and 'exports out of Calcutta'. Note also that 'wheat' and 'wheat flour' are given separately and have to be added together for each
 month.
 
-POVERTY AND FAMINES
-
 Correction 3: Per Capita Supply
 
 Since population of Bengal was growing over this period, the availability figure must be scaled down correspondingly
@@ -2197,8 +2091,6 @@ foodgrains supply and of 107 of per capita food grains availability. The former 
 latter nearly 7
 
 99 See Famine Inquiry Commission, India (1945a), p. 54.
-
-THE GREAT BENGAL FAMINE
 
 Table 6.2 Foodgrains Availability in Bengal, 1938–43
 
@@ -2338,8 +2230,6 @@ capita foodgrains availability
 
 Unit = 1 million tons for columns (1)–(6); 1941 value = 100 for columns (7) and (8).
 
-POVERTY AND FAMINES
-
 per cent larger than the values for 1941, for which no deduction whatsoever for the last quarter is made.
 
 Correction 5: The So-Called 'Carry-Over' Of Old Rice
@@ -2367,8 +2257,6 @@ higher than that for 1941.
 100 Husain's scepticism regarding carry-over was directed towards arguing that the absolute shortage in 1943 was larger that the Commission thought. The scepticism, however,
 
 naturally extends to relative positions in 1943 vis-à-vis 1941.
-
-THE GREAT BENGAL FAMINE
 
 It seems safe to conclude that the disastrous Bengal famine was not the reflection of a remarkable over-all shortage of
 foodgrains in Bengal.101
@@ -2402,8 +2290,6 @@ foodgrains to districts', 'delayed action since there was emphasis on a "wait an
 redefined figure of 'food availability'. FAD is a specific hypothesis—much used in the literature—and deserves to be examined on its own terms, rather than being rescued
 by redefinition. On its own terms, FAD stands rejected.
 
-POVERTY AND FAMINES
-
 viewed in terms of entitlement to rice—the main source (indeed, the overwhelmingly dominant source) of calories to
 the population of Bengal. (It can be checked that the entitlement trends would be substantially similar if the exchange
 entitlements were calculated for other cereals, e.g. wheat.)
@@ -2434,8 +2320,6 @@ Index of exchange rate
 
 Source: Based on the data presented in Appendix IV of Famine Inquiry Commission (1945b).
 
-THE GREAT BENGAL FAMINE
-
 This is not satisfactory, but no other information on this is given by the Commission.
 
 A dramatic decline in the exchange rate against labour emerges from Table 6.3. It is quite clear that agricultural labour
@@ -2463,8 +2347,6 @@ In understanding the significance of the wage price data in Table 6.4, it is als
 labourers tend to earn a great part of their incomes in the peak seasons of planting and harvesting of the main crop;
 and even if
 
-POVERTY AND FAMINES
-
 Table 6.4 Daily Wage of Agricultural, Male, Unskilled Labour and the Price of Rice and Indices of Exchange Rates:
 Birbhum District Around Bolpur
 
@@ -2474,7 +2356,6 @@ December
 September
 October
 November
-December
 January
 February
 March
@@ -2483,11 +2364,6 @@ May
 June
 July
 August
-September
-October
-November
-December
-January
 
 Rice (no. 2): Rs. per
 seer
@@ -2526,15 +2402,9 @@ vis rice
 0.31
 0.44
 
-0.50
-0.50
 0.44
-0.50
-0.50
-0.50
 0.53
 0.62
-0.50
 0.56
 0.56
 0.69
@@ -2552,8 +2422,6 @@ wages had kept pace with the current rice prices, there would have been distress
 to anticipate the rise of food prices following the peak. The system of wage payments in Bengal had been geared to the
 experience of largely stable prices over the preceding decades, and there was no reflection at all in the peak wage rate
 of December–January of the tripling of rice prices that was to follow before the next peak in May–June.
-
-THE GREAT BENGAL FAMINE
 
 We have rather little direct information on employment. The counter-seasonal decline in money wages in November
 1942 and the low level of real wages through the winter harvesting period and post-harvest months may reflect some
@@ -2583,8 +2451,6 @@ transport and fishing (see Famine Inquiry Commission, 1945a, pp. 26–7).103 Thu
 districts (viz. Bakarganj, Khulna, and Midnapore). While the amount involved was not very large—about 40,000 tons altogether—and the rice thus bought and removed was
 later sold mostly within Bengal (chiefly in Calcutta), it did contribute to local scarcities.
 
-POVERTY AND FAMINES
-
 Table 6.5 Indices of Exchange Rates vis-à-vis Rice at Retail Prices: Bolpur in Birbhum District
 
 Mid-Month Wheat flour Mustard oil
@@ -2599,32 +2465,8 @@ Fish (pona)
 
 Haircut
 
-December
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
-January
 
 Sources: As in Table 6.4, (2) and (3). Note that the cloth index is based on the price of rural handwoven towels (gamcha), the only cotton good
 for which data are available.
@@ -2632,8 +2474,6 @@ for which data are available.
 fishermen cannot be judged by looking only at the fish–rice exchange rate. However, even that exchange rate declined
 sharply afterwards. Since Bolpur is a rather small market for fish, the fish–rice exchange rates in Calcutta are presented
 in Table 6.6; here the decline took place a bit later and somewhat less severely than in Bolpur.
-
-THE GREAT BENGAL FAMINE
 
 Table 6.6 Indices of Retail Prices of Rice and Fish and of Fish–Rice Exchange Rates: College Street Market in Calcutta
 
@@ -2648,27 +2488,8 @@ vis rice
 Exchange rate index: whole fish vis-
 à-vis rice
 
-December
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
-January
-February
-March
-April
 May
-June
-July
-August
 
 n.a
 
@@ -2682,8 +2503,6 @@ One group that could not have suffered a deterioration of exchange entitlement v
 producers. This category would include large farmers as well as peasants. To some extent this would apply to sharecroppers as well, since the share is fixed as a proportion of the output, which in this case is rice. There can, of course,
 be a decline in employment opportunities of share-croppers, but in terms of exchange rates their position would have
 been distinctly less
-
-POVERTY AND FAMINES
 
 vulnerable than that of wage labourers, especially since most wages were fixed in money terms. The exchange
 entitlement approach would, therefore, tend to predict a lower impact of the famine on peasants and share-croppers
@@ -2713,8 +2532,6 @@ period immediately preceding the famine, including Phase I of it (January 1939�
 severe phase of
 
 104 See also Chattopadhyaya and Mukherjea (1946).
-
-THE GREAT BENGAL FAMINE
 
 the famine (January 1943—May 1944), and these are presented in Tables 6.9 and 6.10 at the end of the chapter. It
 should be observed that there is a fairly close relation between the inter-occupational orderings of pauperization in the
@@ -2836,8 +2653,6 @@ Source: Calculated from the data presented in Mahalanobis, Mukherjea and Ghosh (
 
 105 As explained earlier, these terms are somewhat deceptive since the 'immediate pre-famine period' includes much of Phase I of it.
 
-POVERTY AND FAMINES
-
 and non-agricultural labourers, in that order. The least affected were peasant cultivators and share-croppers. They were
 also the least affected group in the pre-famine period (including what we have been calling Phase I of the famine).
 
@@ -2865,8 +2680,6 @@ In terms of recruitment to economic distress (defined as destitution or husking 
 permitting entry of labour thrown out from other walks of life. The fact that husking can be carried out on an extremely small scale is also relevant to this phenomenon of
 easy entry.
 
-THE GREAT BENGAL FAMINE
-
 'agricultural labour' have the highest frequencies among the occupations. It is a bit difficult to conclude anything firmly
 about transport workers since the sample size was rather small, and there is also some relation between the distress of
 the fishermen and that of rural transport workers, since river transport 'is largely looked after by members of the
@@ -2893,8 +2706,6 @@ off), higher only than office employees and landlords.
 The picture that emerges from these data seems to be entirely in line with what one would expect from the use of the
 entitlement approach. The high incidence among agricultural
 
-POVERTY AND FAMINES
-
 Table 6.8 Destitution in Five Surveyed Villages in Faridpur
 
 Occupation on 1/
@@ -2903,7 +2714,6 @@ Occupation on 1/
 Total nos. of families on 1/1/43
 
 Peasant cultivation and sharecropping
-Agricultural labour
 Artisan
 Petty trader
 Crop-sharing
@@ -2960,8 +2770,6 @@ Proportion being
 
 Source: Based on Mukerji (1965), Table 63, p. 178.
 
-THE GREAT BENGAL FAMINE
-
 labourers vis-à-vis the low impact on peasants and share-croppers was to be expected. The food entitlements had,
 indeed, deteriorated sharply for the former, but not so much for the latter.107 The relatively large effects on fishermen,
 non-agricultural labour, craftsmen, etc., are also consistent with the observed pattern of shifts in entitlement relations.
@@ -2989,8 +2797,6 @@ pressures initiated by public expenditure expansion.
 in exchange entitlements in terms of other
 commodities. But the high retail price of food was often not correspondingly reflected in the price paid to the peasant. Furthermore, at the initial post-harvest high price
 many peasants sold off more rice than their surplus and had to repurchase some rice later at a very much higher price still.
-
-POVERTY AND FAMINES
 
 Second, in Phase II the demand forces were reinforced by the 'indifferent' winter crop and by vigorous speculation and
 panic hoardings. The hoarding was financially profitable on the basis of even 'static expectations': rice prices had more
@@ -3027,8 +2833,6 @@ assigned to their last desperate attempt to keep prices up' (quoted in Ghosh, 19
 
 and Famine Inquiry Commission, India (1945a), Appendix VI.
 
-THE GREAT BENGAL FAMINE
-
 Fourth, the prohibition of export of cereals in general and of rice in particular from each province, which had come
 into operation during 1942 with the consent of the government of India, prevented the price spiral in Bengal being
 broken by imports from the other provinces.114 After much fumbling with various all-India schemes of food
@@ -3053,8 +2857,6 @@ in Assam of Rs. 8.81, in Bihar of Rs. 8.00 and in Orissa of Rs. 6.19, the mean p
 been Rs. 13.88 (see Indian Agricultural Statistics 1939–40 to 1942–43, Government of India, New Delhi, 1950, vol. 1, Table VII).
 
 115 Famine Inquiry Commission, India (1945b), p. 485.
-
-POVERTY AND FAMINES
 
 largest group of those killed, Bengal was producing the largest rice crop in history in 1943. While I resist the
 temptation to propose a 'test' of the surplus labour hypothesis along Schultzian lines,116 which rejected the surplus
@@ -3088,8 +2890,6 @@ reallocation of shipping as an emergency measure to tackle the famine was severe
 
 followed by Schultz's reply.
 
-THE GREAT BENGAL FAMINE
-
 became the new Viceroy at the last stage of the famine and who had to battle hard for increasing food imports into
 India, went on record in this context that he felt that 'the vital problems of India are being treated by His Majesty's
 Government with neglect, even sometimes with hostility and contempt'.119
@@ -3116,8 +2916,6 @@ contained no direct admission of grave misjudgement on the higher authorities' p
 
 119 Letter to Winston Churchill, dated 24 October 1944; quoted in Wavell (1973), p. 95.
 120 Document no. 158 in Mansergh (1973), p. 363.
-
-POVERTY AND FAMINES
 
 India.'121 In view of what we have discussed earlier (Section 6.2), one can argue that the Raj was, in fact, fairly right in its
 estimation of overall food availability, but disastrously wrong in its theory of famines.
@@ -3151,8 +2949,6 @@ Recognition of the reality of the famine seemed to decrease step by step in the 
 123 Document no. 265 in Mansergh (1971), p. 358; see also Documents nos 282, 297, and 332 in the same volume.
 124 Document no. 330 in Mansergh (1971), p. 474; italics added.
 
-THE GREAT BENGAL FAMINE
-
 While taking an essentially FAD approach, the Secretary's detailed memorandum went also into 'aggravating factors',
 particularly the problems of the urban population, who 'are dependent on the marketed part of the crop, who are the
 first to experience any shortage and . . . on whose labour the Indian munitions and supply industries depend'.125 The
@@ -3185,8 +2981,6 @@ the government of India for shipping allocations throughout 1943; see Documents 
 (1973), Chapters 2 and 3).
 129 Mansergh (1971), p. 541.
 
-POVERTY AND FAMINES
-
 Premier of Bengal] that he simply must produce some more rice out of Bengal for Ceylon even if Bengal itself went
 short! He was by no means unsympathetic, and it is possible that I may in the result screw a little out of them'.130 The
 estimates of 'shortage' based on production figures (including that of the 'indifferent' winter crop) did not make such a
@@ -3217,8 +3011,6 @@ estimate of 655,000 tons as shortage is too low and suggests one million tons'.1
 134 ibid., p. 362.
 135 Document no. 174 in Mansergh (1973), p. 390; the expert quoted was A.M.A.H. Ispahani, a businessman much involved in rice trading.
 
-THE GREAT BENGAL FAMINE
-
 While practical considerations outside the FAD approach were often introduced in an ad hoc way in government notes
 on the food problem,136 especially after the famine had broken out, the FAD view continued to occupy a pre-eminent
 position in the government's theory of the food crisis. By January 1944, the government appeared to have worked out
@@ -3240,8 +3032,6 @@ famine, 'when floods destroyed the rice crop, costing some 2 million to 4 millio
 137 Memorandum by the Secretary of State for India, War Cabinet Paper WP (44) 63, Document no. 347 in Mansergh (1973), p. 680.
 138 Brown and Eckholm (1974), p. 27. See also Masefield (1963), p. 14; quoted also in Aziz (1975), p. 27.
 
-POVERTY AND FAMINES
-
 Table 6.9 Occupational Transition Matrix in Rural Bengal in The Pre-Famine Period: January 1939–January 1943
 
 Peasant
@@ -3249,15 +3039,9 @@ cultivation and
 share-cropping
 Part-time
 agricultural labour
-Agricultural labour
-Non-cultivating
 owner
-Fishing
-Craft
 Husking
 paddy
-Transport
-Trade
 Profession
 and
 service
@@ -3275,21 +3059,10 @@ share-cropping
 Part-time
 agricultural labour
 
-Agricultural labour
-
-Non-cultivating
 owner
-
-Fishing
-
-Craft
 
 Husking
 paddy
-
-Transport
-
-Trade
 
 Profession and
 service
@@ -3611,8 +3384,6 @@ Destitute
 
 87.6
 
-THE GREAT BENGAL FAMINE
-
 Table 6.10 Occupational Transition Matrix in Rural Bengal in the Famine Period; January 1943–May 1944
 
 Peasant
@@ -3620,15 +3391,9 @@ cultivation or
 share-cropping
 Part-time
 agricultural labour
-Agricultural labour
-Non-cultivating
 owner
-Fishing
-Craft
 Husking
 paddy
-Transport
-Trade
 Profession
 and
 services
@@ -3647,21 +3412,10 @@ cropping
 Part-time
 agricultural labour
 
-Agricultural labour
-
-Non-cultivating
 owner
-
-Fishing
-
-Craft
 
 Husking
 paddy
-
-Transport
-
-Trade
 
 Profession and
 services
@@ -4043,8 +3797,6 @@ health workers. Reports of extraordinary overcrowding, sanitary
 
 and Gebre-Medhin, Hay, Licke, and Maffi (1977).
 
-POVERTY AND FAMINES
-
 failures, and grossly inadequate medical attention in the relief camps were rather horrifying, but not surprising given
 the limitation of the resources available in comparison with the gigantic size of the problem. When the starvation crisis
 was reaching its peak, in August 1973, 'over 60,000 people were crowded in relief camps which could not deal with a
@@ -4078,14 +3830,10 @@ so in this
 145 See Wiseberg (1976).
 146 Rivers, Holt, Seaman, and Bowden (1976), p. 352.
 
-THE ETHIOPIAN FAMINE
-
 .1 Map of Ethiopia
 
 case), it is easy to be predisposed towards accepting an explanation of the famine in terms of food availability decline
 (FAD). But a drought causing an agricultural or pastoral crisis not only
-
-POVERTY AND FAMINES
 
 reduces food supply; it also cuts the earnings of the agriculturist or the pastoralist, affecting his command over food.
 However, the first question concerns the volume of food output.
@@ -4114,8 +3862,6 @@ decline (especially in an economy with primarily rain-dependent agriculture).
 It is possible to use some other data, also provided by the same report, to arrive at an estimate of output decline. The
 report provides aggregates for each crop separately, noting which
 
-THE ETHIOPIAN FAMINE
-
 Table 7.1 1972–3 Crop Production in Ethiopia: Provincial Evaluations
 
 Region
@@ -4138,7 +3884,6 @@ Number of districts reporting
 and Simien
 13. Sidamo
 14. Bale
-Total
 
 Percentage of districts in various categories
 Normal
@@ -4170,8 +3915,6 @@ Substantially below normal
 
 Source: Based on data presented in Ethiopian Ministry of Agriculture (1973) and Hussein (1976), Table 10.
 
-POVERTY AND FAMINES
-
 districts were below normal, which above normal, etc. These are presented in Table 7.2. The relative weights to be
 attached to different crops have been calculated from their respective importance in terms of physical weight in the
 pre-famine year 1971–2 (using data presented in Hussein, 1976, Appendix 5).
@@ -4199,7 +3942,6 @@ Sorghum
 Maize
 Wheat
 Others
-Total
 
 Percentage of districts in various categories
 Above normal
@@ -4237,8 +3979,6 @@ normal districts (%)
 5.74
 
 Source: Based on data presented in Ethiopian Ministry of Agriculture (1973) and Hussein (1976).
-
-THE ETHIOPIAN FAMINE
 
 Table 7.3 Food Availability in Ethiopia: Calories Per Head, 1961–74
 
@@ -4279,8 +4019,6 @@ clearly a shortage of food in the province of Wollo. This shortage could in prin
 different ways. One is to take the entitlement approach, and argue that the fall in food output in Wollo resulted in a
 direct entitlement failure on the part of
 
-POVERTY AND FAMINES
-
 Wollo farmers and a trade entitlement failure for other classes in Wollo, e.g. labourers and providers of services. There was
 not merely a decline in the food to which the Wollo population was directly entitled out of its own production, but also
 a collapse of income and purchasing power and of the ability of the Wollo population to attract food from elsewhere in
@@ -4315,8 +4053,6 @@ Third, despite the disastrous failure of food output, food prices
 and Belete et al.
 
 (1977).
-
-THE ETHIOPIAN FAMINE
 
 did not go up very much and for long in Wollo. When in October 1973 Holt and Seaman started their collection of
 food prices in the hardest hit district of Raya and Kobo, which had more than a tenth of its population in relief camps
@@ -4384,8 +4120,6 @@ failure was clear by September 1972, the kremt
 
 rains having already failed.
 
-POVERTY AND FAMINES
-
 for some and somewhat lower for others. People starved to death without there being a substantial rise in food prices.
 In terms of the entitlement approach, there is, of course, no puzzle in this. Since the farmers' food entitlement is a
 direct entitlement (without going through the market), a collapse of it can operate without a rise in market prices. On
@@ -4423,8 +4157,6 @@ Ababa, despite the starvation in Wollo.
 carried out by Mahalanobis, Mukherjea, and Ghosh (1946).
 
 155 Holt and Seaman (1976), p. 3.
-
-THE ETHIOPIAN FAMINE
 
 regions of Wollo were remarkably differently represented in these relief camps. Table 7.5 presents the number of
 households from different awrajas (subregions) in Wollo, and it is clear that three of the awrajas stand out as having very
@@ -4495,8 +4227,6 @@ to be a computational slip there regarding the subregion Wag. Column (5) convert
 
 156 Hussein (1976), p. 19.
 
-POVERTY AND FAMINES
-
 agriculturists, since the latter is a very much larger group. In terms of numbers, the 'relief-centre populations were
 mainly made up of members of the farming peoples of principally lowland area which are many times more densely
 populated than the Afar region'.157 In fact, even in the subregions of Raya and Kobo, Yeju, and Ambassel, the bulk of
@@ -4536,8 +4266,6 @@ and Gebre-Medhin and Vahlquist (1977).
 
 (1974) ; Holt and Seaman (1976) ; and Belete, Gebre-Medhin, Hailemariam, Maffi, Vahlquist, and Wolde-Gabriel (1977).
 
-THE ETHIOPIAN FAMINE
-
 There followed a good deal of eviction of tenants from the land, and they too were set on the move. Both tenants as
 well as small-scale family-land (rist) holders were gradually led to sell livestock, in addition to losing a great many owing
 to the drought, and many seem to have run out of seeds when a second planting became necessary after a false start to
@@ -4567,8 +4295,6 @@ Piecing together the available information, the destitution groups in the 1973�
 at
 
 162 A. P. Wood (1976), p. 71.
-
-POVERTY AND FAMINES
 
 least the following occupation categories (and their dependants):
 
@@ -4604,8 +4330,6 @@ and Gebre-Medhin, Hay, Licke, and Maffi (1977).
 especially affected. See Belete, Gebre-Medhin, Hailemariam, Maffi, Vahlquist, and Wolde-Gabriel (1977), pp. 18–19.
 
 166 Rivers, Holt, Seaman, and Bowden (1976), p. 352.
-
-THE ETHIOPIAN FAMINE
 
 on the particular areas in which they lived, namely the northern and southern Ogaden regions and the Issa Desert.
 
@@ -4654,8 +4378,6 @@ and Hussein (1976).
 
 (1977).
 
-POVERTY AND FAMINES
-
 The decline in land and livestock prices is a common phenomenon in famine situations affecting agriculturists, since
 they represent assets that the agriculturist tries to sell to acquire food when all else fails; and the sudden increase in
 supply of these assets in the market causes a price decline. The livestock quantity declined largely as a result of the
@@ -4682,8 +4404,6 @@ same fate as the farm servants.
 171 See Belete, Gebre-Medhin, Hailemariam, Maffi, Vahlquist, and Wolde-Gabriel (1977), pp. 18–9.
 172 Holt and Seaman (1976), p. 4.
 
-THE ETHIOPIAN FAMINE
-
 Other occupational categories, e.g. weavers, craftsman, service sellers, urban labourers, and beggars, suffered mostly
 from straightforward 'derived destitution'. The economic decline of a large section of the community leads to a
 shrinkage of demand for commodities sold by other groups, in this case clothing, craft products, services, and even
@@ -4709,8 +4429,6 @@ prices of foodgrains at Dessie and elsewhere? The answer again is no. The reduce
 will go hand in hand with a reduced demand for non-food commodities and a consequent reduced demand for food
 by the producers and sellers of these non-food commodities. The food demand will thus also go down with food
 supply in these markets, and it is not clear that food
-
-POVERTY AND FAMINES
 
 prices would have risen much in these markets even if they had been cut off from the foodgrains supply in the rest of
 Ethiopia. There is, of course, the additional fact that these markets were not thus cut off, and any big rise in food
@@ -4749,8 +4467,6 @@ among other contributions.
 
 and Hussein (1976).
 
-THE ETHIOPIAN FAMINE
-
 rendered useless' (p. 65). The land that was 'developed' was particularly valuable to the Afar, being mostly in an area
 that 'flooded easily and took a long time to drain'—'land which gave good grazing during the hottest and driest part of
 the year from February to June' (p. 64).
@@ -4781,8 +4497,6 @@ displacement of some peasant cultivation (see Bondestam, 1974, p. 480, and Husse
 176 See Seaman, Holt, and Rivers (1978), pp. 38–9; also Hay (1975).
 177 See Rivers, Holt, Seaman, and Bowden (1976), p. 354.
 
-POVERTY AND FAMINES
-
 'normal' prices. While the recall method is somewhat defective, especially in the context of prices,178 the exchange rates
 between animals and grains calculated from these data are nevertheless of interest. Table 7.6 presents these derived
 exchange rates.179
@@ -4811,8 +4525,6 @@ price levels given by two unpublished reports prepared respectively by the Minis
 Government. However, the dramatic decline of the exchange rates of animals for grains follow from these figures as well.
 
 179 See also Gebre-Medhin, Hay, Licke, and Maffi (1977).
-
-THE ETHIOPIAN FAMINE
 
 Table 7.6 Animal–Grain Exchange Rates in Different Strata in Harerghe
 
@@ -4857,8 +4569,6 @@ Maize–camel
 
 Source: Calculated from Seaman, Holt, and Rivers (1974), Tables XVI and XVII.
 
-POVERTY AND FAMINES
-
 Table 7.7 Grain Entitlement Loss Due to Animal Loss and Exchange Rate Change
 
 Southern Ogaden stratum
@@ -4892,8 +4602,6 @@ Cattle
 
 stock
 
-1.000
-
 0.396
 
 Goats
@@ -4907,11 +4615,7 @@ stock
 
 0.179
 
-1.000
-
 stock
-
-1.000
 
 1.53
 
@@ -4947,7 +4651,6 @@ loss
 owing
 to death
 (q)
-Percentage
 grain
 entitlement
 loss
@@ -4956,10 +4659,8 @@ to exchange
 rate
 change
 (p)
-Percentage
 total
 grain
-entitlement
 loss (p
 + q −
 pq)
@@ -4972,8 +4673,6 @@ loss (p/
 q)
 
 Source: see text.
-
-THE ETHIOPIAN FAMINE
 
 exchange rate change vis-à-vis the predrought 'normal' levels are simply taken from the calculations presented in Table
 7.6 above, taking sorghum as the grain in question for the purpose of these calculations. The percentage losses of grain
@@ -5010,8 +4709,6 @@ Table 7.7 here. Summing 'the observed herd plus the number of animals reported t
 (p.46) ignores new births and thus overestimates last year's real stock. In using these figures for weighting it would have to be assumed that relative weights are not much
 changed by the exclusion of birth data.
 
-POVERTY AND FAMINES
-
 noted before—the pastoralist can normally acquire calories a good deal more cheaply through exchanging animals for
 grains. The typical pastoralist does depend on this, and in a situation of economic difficulty arising from loss of herd he
 is pushed to be even more dependent on grains. This is one reason why a drought that reduces both the animal stock
@@ -5036,8 +4733,6 @@ supply to the market in
 183 While the animal stock holding in the different strata in Harerghe fell between 20 and 50 per cent in terms of average stock between June 1973 and June 1974 (see Table 7.7
 above), the foodgrains output of Harerghe fell by about 30 per cent between 1972 and 1973 including the respective December harvests supplying food for the following
 year (see Ethiopian Ministry of Agriculture, 1974, p. 321).
-
-THE ETHIOPIAN FAMINE
 
 times of distress, to meet the herdsmen's grain demand as well as his other needs for cash.
 
@@ -5066,8 +4761,6 @@ substantially reduced in 1973, the inability of Wollo to command food from outsi
 purchasing power in that province. A remarkable feature of the Wollo famine is that food prices in general rose very
 little, and people were dying of starvation even when food was selling at prices not very different from predrought
 levels. The phenomenon can be understood in terms of
-
-POVERTY AND FAMINES
 
 extensive entitlement failures of various sections of the Wollo population.
 
@@ -5110,8 +4803,6 @@ is excluded in this view of the Sahel.
 186 See Matlock and Cockrum (1976)
 
 and Swift (1977b). Sometimes Gambia and Cape Verde are added to this list of six countries.
-
-POVERTY AND FAMINES
 
 (3) The political definitions The word Sahel could be used, as it has been by the international news media, simply to
 refer to these six countries in West Africa (Mauritania, Senegal, Mali, Upper Volta, Niger, and Chad), affected by
@@ -5183,8 +4874,6 @@ In Section 8.2 of this chapter the output situation is reviewed.
 
 and Matlock and Cockrum (1976).
 
-POVERTY AND FAMINES
-
 Food Programme noted that drought in the Sahelian countries had become 'endemic', requiring that 'special treatment'
 be given to the region in providing emergency food aid. By September that year the FAO had identified a coming
 'disaster', with 'an acute emergency situation developing in large areas due to exceptionally poor harvests in the Sahel'.
@@ -5222,8 +4911,6 @@ and Caldwell (1977), pp. 94–5.
 and Caldwell (1977).
 
 Imperato (1976),
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 themselves. Others have emphasized the sluggishness,
 communities of victims as evidence of unpardonable mismanagement.203
@@ -5269,8 +4956,6 @@ Source: Calculated from data given in Table 97 of FAO Production Yearbook 1976.
 
 and Wiseberg (1976).
 
-POVERTY AND FAMINES
-
 It is also worth emphasizing that the FAD view is not rejected even by the otherwise important observation that nearly
 all the Sahelian countries had enough food within their borders to prevent starvation had the food been divided
 equally, and that 'throughout the whole Sahel [the Sahelian countries] in every year from 1968 to 1972 the per caput
@@ -5299,8 +4984,6 @@ countries in the region,
 and Lofchie (1975).
 
 Sahelian economy.
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 the famine having been most severe in Mauritania, Mali, and Niger, and possibly Upper Volta.206 But none of these
 latter countries had a very sharp decline in food availability per head (Table 8.2). It could, however, be argued that in
@@ -5342,8 +5025,6 @@ See also Meillassoux (1974), Raynaut (1977),
 
 and Berry, Campbell and Emker (1977). Also Imperato (1976), pp. 285–6.
 
-POVERTY AND FAMINES
-
 decline in agricultural and pastoral output in these particular regions thus meant a sharp reduction in the ability of the
 affected people to command food, whether from one's own output or through exchange. The situation is somewhat
 comparable to the picture we already found in Ethiopia during the drought and famine there (see Chapter 7 above),
@@ -5375,8 +5056,6 @@ nomadic.211 The definition includes semi-nomads and transhumants
 211 See Caldwell (1975).
 
 and Haaland (1977).
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 in addition to pure nomads. At the time the drought hit, the population of the dry Sahel region in these countries was
 roughly 5 to 6 million.212 So the nomads were no more than half the population of the dry Sahel region itself, and quite
@@ -5412,8 +5091,6 @@ supply curve. The position also depends on the precise circumstances facing the 
 backward bend may not occur in the total
 some empirical evidence against the backward bend (see Khalifa and Simpson, 1972).
 
-POVERTY AND FAMINES
-
 The pastoralists migrated down south in quite large numbers during the Sahelian famine, and this movement of people
 and animals was one way of reducing the impact of the famine—indeed, according to one view was this group's 'chief
 defence'.220 Better feeding conditions for the animals as well as opportunities for wage labour in the south permitted
@@ -5446,8 +5123,6 @@ Berry, Campbell and Emker, 1977, p. 86). See also Comité Information Sahel (197
 In the drought year the Sahelian labourer sought employment further away from home than normal. See, for example, Faulkingham (1977),
 Tables 17.7 and 17.8; there is a remarkable increase in the number of labourers from this Hausa village in Niger going to distant Kano (360 km), Lagos (910 km) and
 Abidjan (1,420 km) for wage employment in such occupations as being 'water career'.
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 Table 8.3 Food Output Compared With Output of Groundnuts in Shell
 
@@ -5488,8 +5163,6 @@ since people
 
 225 Glantz and Parton (1976). See also Franke and Chasin (1979).
 
-POVERTY AND FAMINES
-
 can emigrate. It has been argued that 'the inevitably limited funds available for development can be more effectively
 employed' in the moister area south of the dry Sahelian region, and that 'relevant governments should consider the
 feasibility of a strategic withdrawal from areas of very low and unreliable rainfall'.226 This approach is further supported
@@ -5520,8 +5193,6 @@ depopulating
 
 226 This view is attributed to 'Professor Hodder of the School of Oriental and African Studies and others' by David Dalby in Dalby and Harrison Church (1973), p. 21.
 
-DROUGHT AND FAMINE IN THE SAHEL
-
 the Sahel region. Since the source of the problem is variability rather than a secular decline, it is tempting to think in
 terms of insurance arrangements. The first question then is: what is to be insured? If FAD had been a good theory of
 famines and total food availability a good guide to starvation, then the thing to insure would have been the over-all
@@ -5546,8 +5217,6 @@ of the exchange entitlement of particular sections of the population.
 Thus, the insurance arrangements have to deal with command over food at the family level, and not merely at the
 national level. Private insurance of families of nomadic pastoralists and other groups in the dry Sahel region isn't an
 easy task, and indeed, such insurance rarely exists in any poor and backward country. Thus,
-
-POVERTY AND FAMINES
 
 the public sector would have to play a major role in the task of guaranteeing food to the vulnerable sections. Famine
 relief operations are, of course, insurance systems in some sense, but if a long-run solution to the problem of
@@ -5578,8 +5247,6 @@ could lead to a reduction of wage employment, thereby leading to a collapse of t
 and Comité Information Sahel (1974). See also Ball (1976)
 
 and Berry, Campbell, and Emker (1977).
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 opened up new economic opportunities, it has also tended to increase the vulnerability of the Sahel population.
 
@@ -5615,8 +5282,6 @@ and Caldwell (1977).
 
 233 See Norton (1976), p. 261.
 
-POVERTY AND FAMINES
-
 quite some time after the drought. But the nature of the nomadic economy has built-in forces operating in that
 direction. Since the pastures are held communally and animals owned privately, there is a conflict of economic rationale
 in the package, which becomes relevant when pasture land gets short in supply. Having additional animals for grazing
@@ -5649,8 +5314,6 @@ animals, he would not have ended up with the same 50, and in fact in large
 235 Glantz (1976), p. 7.
 
 and conflicts of this kind can be found in many economic situations (see Sen, 1967a).
-
-DROUGHT AND FAMINE IN THE SAHEL
 
 pastoral communities he would have a good chance of retaining the same proportion, viz. 50 per cent, thereby ending
 up with the planned 100. The proportion of herd loss does depend on the total stock of animals, given the availability
@@ -5688,8 +5351,6 @@ among many other important
 
 and Toupet (1977),
 
-POVERTY AND FAMINES
-
 .1 Map of Sahel Countries
 
 Chapter 9 Famine in Bangladesh
@@ -5721,20 +5382,12 @@ per cent of the total population of the
 
 237 Etienne (1977a), pp. 113–4.
 
-POVERTY AND FAMINES
-
 country. By November rice prices were beginning to come down, and the need for relief seemed less intense. By the
 end of the month the langarkhanas were closed down.
 
 Table 9.1 Rise in The Price of Rice in Bangladesh Following the 1974 Floods
 
 Month in 1974
-July
-August
-September
-October
-November
-December
 
 Index of retail price of coarse rice
 Bangladesh average
@@ -5753,10 +5406,7 @@ District
 
 Number of persons fed daily (thousands) Number fed as proportion of total
 
-Rangpur
-Mymensingh
 Dinajpur
-Sylhet
 Barisal
 Khulna
 Bogra
@@ -5821,8 +5471,6 @@ that
 
 .1 Map of Bangladesh
 
-POVERTY AND FAMINES
-
 obtained relief from the langarkhanas, varying from 17 per cent in Rangpur to none in Chittagong Hill Tracts. Judged
 by this criterion, the five most affected districts were Rangpur, Mymensingh, Dinajpur, Sylhet, and Barisal, in that
 order. In the famine survey carried out by the Bangladesh Institute of Development Studies238 in November 1974,
@@ -5863,8 +5511,6 @@ further half a million in the year following (pp. 142–3).
 
 suggests an excess-death figure around one million between August 1974 and January 1975, and a
 
-FAMINE IN BANGLADESH
-
 dependent on import of food from abroad, and despite the famine conditions the government succeeded in importing
 less foodgrains in 1974 than in 1973 (see Table 9.3). In fact, in the crucial months of September and October the
 imports fell to a trickle, and the amount of foodgrains imported during these two months, rather than being larger, was
@@ -5874,19 +5520,7 @@ Bangladesh government, the shortage of food stock clearly did play an important 
 Table 9.3 Import of Foodgrains into Bangladesh, 1973 and 1974
 
 Month
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
-Total
 
 Source: Table 6.18 in Alamgir (1980).
 
@@ -5906,8 +5540,6 @@ for delivery in autumn.
 
 The U.S. threatened to cut off food aid in September 1974. At that time the American ambassador called upon Dr.
 Nurul Islam, Chairman of Bangladesh's Planning Commission, under instructions from the State
-
-POVERTY AND FAMINES
 
 Department, to formally request that Bangladesh cease exporting jute to Cuba. Under PL480, a recipient country
 cannot trade with blacklisted countries such as Cuba. Islam retorted by expressing surprise and shock that the
@@ -5944,8 +5576,6 @@ disbursement of food in the crucial famine months being a small proportion of th
 organization of government relief operations.
 
 247 See Table 5.15 of Alamgir (1979).
-
-FAMINE IN BANGLADESH
 
 9.3 Food Availability Decline?
 
@@ -5993,8 +5623,6 @@ years in the 1970s. Nevertheless, two-year and three-year moving averages also r
 others, in Chapter 6),
 
 and it is difficult to deny that the output picture improved rather than worsened as the 'famine year' 1974 came.
-
-POVERTY AND FAMINES
 
 In moving from rice production to foodgrains availability, wheat output, though tiny, has to be added and international
 trade must be taken into account. This is done in Table 9.5. It is found, once again, that 1974 was a local peak.249 If one
@@ -6050,8 +5678,6 @@ reason to expect that the smuggling of rice out of Bangladesh would have increas
 that in India rose
 sharply.
 
-FAMINE IN BANGLADESH
-
 Table 9.6 Production of Rice in Bangladesh Districts, 1973 and 1974
 
 District
@@ -6062,13 +5688,10 @@ Dinajpur
 Bogra
 Jessore
 Kushtia
-Mymensingh
 Tangail
 Faridpur
-Rangpur
 Chittagong
 Pabna
-Sylhet
 Dacca
 Noakhali
 Rajshahi
@@ -6118,16 +5741,11 @@ The corresponding availability estimates of foodgrains per capita are presented 
 districts typically had comfortable rises in availability per head: 3 per cent in Sylhet, to per cent in Rangpur, and 11 per
 cent in Mymensingh. If, on the other hand, we look at the three top-ranked
 
-POVERTY AND FAMINES
-
 Table 9.7 Per capita Availability of Foodgrains in Bangladesh Districts, 1973 and 1974 (oz./day)
 
 District
 Dinajpur
-Mymensingh
-Sylhet
 Bogra
-Rangpur
 Chittagong
 Noakhali
 Jessore
@@ -6219,8 +5837,6 @@ Faridpur) account for
 
 250 Even the estimates of July–October availability put these three states among the relatively better supplied; see Table 6.37 of Alamgir (1980).
 
-FAMINE IN BANGLADESH
-
 only about 6 per cent of the langarkhana destitutes. Finally, the rank correlation coefficient of inter-district famine
 intensity and lowness of availability is minus .73, which does little in favour of the FAD view.
 
@@ -6254,8 +5870,6 @@ in the famine districts of Mymensingh
 
 and Rangpur to 2,069 the non-famine district of Pabna.
 
-POVERTY AND FAMINES
-
 Table 9.8 Occupational Distribution of Destitution in Bangladesh 1974
 
 Occupation
@@ -6264,7 +5878,6 @@ Labourers of whom:
 (2) other labourers
 Farmers
 Others
-Total
 
 Source: Table 5.3 of Alamgir (1980).
 
@@ -6297,8 +5910,6 @@ top and exceeded considerably the mortality rate of other groups—including far
 The land ownership statistics of langarkhana inmates are also worth noting. Table 9.11 presents the available
 information on
 
-FAMINE IN BANGLADESH
-
 Table 9.9 Intensity of Destitution by Occupation in Bangladesh, 1974
 
 Occupation
@@ -6319,13 +5930,11 @@ in Bangladesh
 44.5
 38.7
 16.8
-100.0
 
 (2)
 27.9
 41.8
 30.3
-100.0
 
 Percentage of rural
 households by major
@@ -6335,7 +5944,6 @@ Bangladesh
 23.4
 59.7
 17.0
-100.0
 
 Intensity index I
 
@@ -6356,19 +5964,14 @@ Intensity index II
 Source: Column (1) from Table 9.8 above; Column (2) from Mia (1976) and Alamgir (1978a), Table XII; Column (3) from Alamgir (1980),
 Table 8.12.
 
-POVERTY AND FAMINES
-
 Table 9.10 Occupation-Specific Mortality Rates in Selected Bangladeshi Villages During August–October 1974
 
 Occupation
 
-Transport
 Wage labour
-Trade
 Farming
 'Others'
 Service
-Total
 
 Source: Table 5.5 of Alamgir (1980).
 
@@ -6399,7 +6002,6 @@ acres or more;
 
 less than 5 acres
 5 acres or more
-Total
 
 Number of inmate
 households
@@ -6425,7 +6027,6 @@ Incidence of destitution
 
 1.27
 0.13
-100.0
 
 13.13
 
@@ -6433,7 +6034,6 @@ Incidence of destitution
 
 16.74
 8.62
-100.0
 
 0.551
 
@@ -6441,12 +6041,9 @@ Incidence of destitution
 
 0.076
 0.015
-1.000
 
 Source: Calculated from Table 5.2 of Alamgir (1980), and Table 6.11 of Alamgir et al. (1977). The 'rural population' refers to the households
 sampled in eight villages in the latter work.
-
-FAMINE IN BANGLADESH
 
 villages surveyed by the Bangladesh Institute. It is the landless end of the village spectrum that is caught firmly at the
 langarkhanas. The average chance of ending up in langarkhanas for those with less than half an acre of land was
@@ -6478,18 +6075,7 @@ Rural wage rate
 Price of rice
 
 Month
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
 
 4.78
 4.91
@@ -6554,8 +6140,6 @@ for 1974 month
 Source: Calculations based on data compiled by the Bangladesh Institute of Development Studies, reported in Alamgir et al. (1977), Tables
 3.3 and 4.3.
 
-POVERTY AND FAMINES
-
 is a bit less if we use the samethe famine and through the famine months is very sharp indeed. The fall
 month–previous-year base, which does something to eliminate the seasonal drop, but even there the fall is large. At the
 peak of the famine the fall is 35 to 45 per cent compared with the same month in the previous year, for a group of
@@ -6575,9 +6159,6 @@ Wage rate index
 Rice price index
 
 Bangladesh
-Mymensingh
-Rangpur
-Sylhet
 Noakhali
 Barisal
 Chittagong Hill Tracts
@@ -6598,17 +6179,10 @@ Faridpur
 104.6
 69.0
 80.0
-100.0
-100.0
 87.0
-100.0
 106.3
-100.0
-100.0
-100.0
 118.9
 96.2
-100.0
 114.3
 135.7
 108.3
@@ -6662,8 +6236,6 @@ rice in rural Bangladesh
 21.3
 3.8
 
-FAMINE IN BANGLADESH
-
 The entitlement ratio fell by 58 per cent in Rangpur and Sylhet and by 70 per cent in Mymensingh, and with that kind
 of decline in the entitlement to rice, labourers would be pushed firmly towards starvation and death. The over-all
 picture for all districts considered is a bit muddier, even though the rank correlation coefficient, while not high (.32), is
@@ -6698,8 +6270,6 @@ and Alamgir (1978a, 1980),
 among others.
 
 immediate.
-
-POVERTY AND FAMINES
 
 Table 9.14 Normal Seasonal Pattern of Employment in Cultivation: Char Shamraj Village (Days Worked)
 
@@ -6750,8 +6320,6 @@ during the
 
 255 Recovery from the famine took place in November as the next season of busy activity began—mercifully free from natural calamities.
 
-FAMINE IN BANGLADESH
-
 famine months (since that crop would not have been harvested until November–January following the famine), the
 expectation of the decline must have had some effect on the level of rice price.256 In fact, the rumour of decline was
 rather stronger than the actual fall in aman output, but speculative withdrawals can feed comfortably on such rumours.
@@ -6767,18 +6335,7 @@ with
 Table 9.15 Rise in the Price of Rice in Bangladesh in 1974
 
 Month in 1974
-January
-February
-March
-April
 May
-June
-July
-August
-September
-October
-November
-December
 
 Percentage rise in the retail price of coarse rice in each month over the preceeding month
 Bangladesh average
@@ -6795,7 +6352,6 @@ Bangladesh average
 −15
 −12
 
-Mymensingh
 +14
 +11
 +27
@@ -6809,7 +6365,6 @@ Mymensingh
 −20
 −19
 
-Rangpur
 +16
 +2
 +19
@@ -6821,7 +6376,6 @@ Rangpur
 −38
 −25
 
-Sylhet
 +6
 +22
 +15
@@ -6842,8 +6396,6 @@ Source: Calculated from Table 3.3 of Alamgir et al. (1977), pp. 57–8.
 the index value of 1974 falls from 103
 to 97. Re-indexing all the years by replacing the preceding aman crop by the aman that comes at the end of the relevant year, the index values stand as follows: 1971, 100;
 1972, 91; 1972, 107; 1973, 100; 1974, 99; 1975, 108. It has the effect of converting 1974 from a local peak to a local trough.
-
-POVERTY AND FAMINES
 
 the floods. And this is where a macroeconomic study dealing with such factors as effective demand, money supply,
 etc., could contribute substantially.
@@ -6874,8 +6426,6 @@ The process of sale of land by small peasants cuts down not
 
 257 On the general nature of the Bangladesh economy and various aspects of its economic performance, see Faaland and Parkinson (1976) ; also Etienne (1977a).
 258 See Clay (1976).
-
-FAMINE IN BANGLADESH
 
 only the peasant's normal income, but also the stability of his earnings—making him more vulnerable to exchange rate
 shifts. Table 9.16 presents this pattern of land sales in the villages studied by the Bangladesh Institute in the years
@@ -6910,8 +6460,6 @@ poverty experience a deepening of
 260 For a global analysis of the relation between rural poverty and land concentration, see Griffin (1976).
 
 and Hartmann and Boyce (1979).
-
-POVERTY AND FAMINES
 
 their deprivation. This was one of the reasons why it was argued that distribution below the poverty line has to be
 taken into account in arriving at a fuller picture of poverty (see Chapter 3 and Appendix C).
@@ -6962,8 +6510,6 @@ Basis: Table 48 of Khan (1977). 'Poor' people are those with incomes less than a
 intake, and 'extremely poor' are those with less than adequate incomes to meet 80 per cent of the recommended calorie intake.
 
 261 See also Osmani (1978).
-
-FAMINE IN BANGLADESH
 
 famine presented here can be extended in many ways by taking a more detailed view of the relationships that govern
 people's ability to command food and other essential goods. But even this simple analysis has been sufficient to
@@ -7024,8 +6570,6 @@ for a far-reaching probe into economics of the 'shortage economy'. See also Korn
 
 Anderson (1976, Chapter 6).
 
-POVERTY AND FAMINES
-
 leave the tale half-told. People died because they didn't have the income to buy food, but how come they didn't have
 the income? What they can earn depends on what they can sell and at what price, and starting off with incomes leaves
 out that part of the entitlement picture. Futhermore, sometimes the income may be just 'notional', e.g. a peasant's
@@ -7050,8 +6594,6 @@ groups, with each group putting together different people who have similar endow
 category for causal analysis, 'the poor' isn't a very helpful one, since different groups sharing the same predicament of
 poverty get there in widely different ways. The contrast between the performances of different occupation groups in
 famine situations, even between groups that are all
-
-ENTITLEMENTS AND DEPRIVATION
 
 typically poor, indicates the need for avoiding gross categories such as the poor and the rich.
 
@@ -7082,8 +6624,6 @@ in
 
 264 See Sen (1975, Appendix A; 1976d).
 
-POVERTY AND FAMINES
-
 relevant discrimination. What is a good deal more gross is the FAD approach applied to the population of the world as
 a whole. The balancing of world supply and world population has nevertheless received a lot of attention recently.
 While a fall in food availability per head for the world as a whole is neither a necessary nor a sufficient condition for
@@ -7113,8 +6653,6 @@ Etienne (1977b), Lappe and Collins (1977), Poleman (1977), Rado and Sinha (1977)
 Interfutures (1979).
 
 and Aziz (1975).
-
-ENTITLEMENTS AND DEPRIVATION
 
 It is not my purpose to deny the importance of food production, or of some of the well-analysed issues in international
 food policy. It is rewarding to consider international insurance arrangements to reduce the food supply vulnerability of
@@ -7157,8 +6695,6 @@ and others, for pointers to different approaches.
 have argued for analysing this phase in terms of a 'catastrophe' pattern, and in this rapid change speculation was clearly important. On catastrophe theory, see Thom (1975)
 and Zeeman (1977).
 
-POVERTY AND FAMINES
-
 monograph, through the analysis of actual famines which have taken place in recent years. In considering food policy,
 what emerges from this work is the importance of this angle of vision.
 
@@ -7193,8 +6729,6 @@ hinder
 
 and Rashid (1980).
 
-ENTITLEMENTS AND DEPRIVATION
-
 movement of grains to relieve excess demand.276 This could be so, but in a slump famine starvation and hunger can go
 hand in hand with little market pull, and even competitive traders may have little incentive to bring in foodgrain from
 elsewhere. Adam Smith's proposition is, in fact, concerned with efficiency in meeting a market demand, but it says
@@ -7224,8 +6758,6 @@ are stronger.280 In
 also collapse—and their ability to attract food from elsewhere—and the situation is best seen as a failure of entitlement and not as just a drop in food availability.
 
 and Rashid (1980).
-
-POVERTY AND FAMINES
 
 fact, in a slump famine such a tendency will be quite common, unless other regions have a more severe depression.
 Thus, food being exported from famine-stricken areas may be a 'natural' characteristic of the market which respects
@@ -7262,8 +6794,6 @@ it when it came, can be traced largely to the
 
 government's overriding concern with aggregate food availability statistics (see Chapter 6 above, and Sen, 1977b).
 
-ENTITLEMENTS AND DEPRIVATION
-
 Table 10.1 Comparative Analysis of Four Famines
 
 Which famine? Was there a
@@ -7272,17 +6802,14 @@ food availability collapse?
 
 Did that group
 suffer exchange
-entitlement
 shifts?
 
 Did that group
 suffer direct
-entitlement
 failure?
 
 Did that group
 suffer trade
-entitlement
 failure?
 
 What was the
@@ -7354,8 +6881,6 @@ Yes
 
 Mixed
 
-POVERTY AND FAMINES
-
 very general hypothesis underlying the approach, which is subject to empirical testing. It will be violated if starvation in
 famines is shown to arise not from entitlement failures but either from choice characteristics (e.g. people refusing to eat
 unfamiliar food which they are in a position to buy,283 or people refusing to work284), or from non-entitlement transfers
@@ -7384,8 +6909,6 @@ Kweichow troops invaded southern Szechwan and after some fighting were driven ou
 The Szechwan troops who replaced them brought very little in the way of supplies and forthwith appropriated the remainder of the food reserves of the district—leaving the
 population, who had no interests in either side, to starve' (pp. 78–9).
 
-ENTITLEMENTS AND DEPRIVATION
-
 outputs other than those of food (e.g. of cash crops). Boom famines might seem particularly counter-intuitive; but, as
 discussed, famines can take place with increased output in general and of food in particular if the command system (e.
 g. market pull) shifts against some particular group. In this relative shift the process of the boom itself may play a
@@ -7409,8 +6932,6 @@ Finally, the focus on entitlement has the effect of emphasizing
 
 286 When the fast progressing groups are themselves poor, the development of the famine may be accompanied by a reduction in the number of people below some general
 'poverty line', leading to a recorded reduction of poverty as it is conventionally measured, i.e. in terms of head-count ratio. The problem is less acute with distributionsensitive measures of poverty. See Appendix C.
-
-POVERTY AND FAMINES
 
 legal rights. Other relevant factors, for example market forces, can be seen as operating through a system of legal
 relations (ownership rights, contractual obligations, legal exchanges, etc.). The law stands between food availability and
@@ -7443,8 +6964,6 @@ OAB.
 
 More generally, when food is not one commodity but many and the 'food requirements' can be met in many different
 ways, let the minimum cost of meeting the food requirements, i.e. for attaining any vector in F, be m(p, F).(A3)
-
-POVERTY AND FAMINES
 
 Fig. A1 Starvation Set
 
@@ -7502,8 +7021,6 @@ this provides an
 
 look like that, formally.
 
-POVERTY AND FAMINES
-
 analogue to the usual simple characterization of production and competitive trade, as in figure A2, with OAB standing
 for E(x), given the production frontier CD and the inter-good exchange rate given by angle ABO.
 
@@ -7551,8 +7068,6 @@ focus is not on a person's subjective assessment, but on the real possibilities.
 situation there may be big differences between the positions of different workers in it, depending on whether the
 person's entitlement gets determined by his wage rate (or wage rates) or by social security benefits. In the absence of a
 social security system, the contrast
-
-POVERTY AND FAMINES
 
 is even sharper, since the entitlement of his labour power will be zero if he cannot obtain employment.288
 
@@ -7688,8 +7203,6 @@ illuminating analysis of the limitation of the argument.)
 
 293 Malthus (1880), p. 16.
 
-POVERTY AND FAMINES
-
 loudly at this price; but, in so doing, they are very little aware of what they are about; for it has undoubtedly been
 owing to this price that a much greater number of them has not been starved.294
 
@@ -7726,8 +7239,6 @@ accumulated
 
 294 Malthus (1800), pp. 18–19.
 295 Malthus (1800), pp. 11–13.
-
-ILLUSTRATIVE MODELS OF EXCHANGE ENTITLEMENT
 
 pressure of the extraordinary price of provisions, on the one hand, and the still more extraordinary assessments for
 allowances to those who had no other means of support, on the other. The corn-factors and farmers would
@@ -7775,8 +7286,6 @@ than y
 
 296 Malthus (1800), pp. 17–18.
 
-POVERTY AND FAMINES
-
 As long as e
 
 < r, and y
@@ -7812,8 +7321,6 @@ poor proportional to 'the price of provisions' for them to be able to meet food 
 irremediable deficiency of one-fourth of all the provisions of the country'. Forgetting the arbitrary figure of onefourth, the point is that the food supply q is being taken to be less than what will be needed to
 
 = y
-
-ILLUSTRATIVE MODELS OF EXCHANGE ENTITLEMENT
 
 entitle everyone to the norm of the food ration of r. This amounts to the following:(B9)
 
@@ -7866,8 +7373,6 @@ peasants;
 urban and semi-urban workers (urban industrial labour force, military construction workers, urban casual
 labourers, etc.);
 rural workers (agricultural labourers);
-
-POVERTY AND FAMINES
 
 rural household producers (rural service providers, craftsmen, etc.).297
 
@@ -7934,8 +7439,6 @@ and h
 urban and semi-urban labour force, and in the political economy underlying rationing of foodgrains. But as far as their own demands are concerned it is assumed that
 industrial capitalists' demand for foodgrains and rural household products is a negligible part of the total demand in the two respective markets.
 
-ILLUSTRATIVE MODELS OF EXCHANGE ENTITLEMENT
-
 (B15)
 
 (B16)
@@ -7991,8 +7494,6 @@ i
 i
 
 i
-
-POVERTY AND FAMINES
 
 force and the general residents of Calcutta were also guaranteed fairly substantial food rations through the state policy
 of procurement and subsidization of the retail price; see Chapter 6.)
@@ -8055,8 +7556,6 @@ In so far as this simple model catches an aspect of the Bengal famine of 1943, t
 than for Phase II of the famine (see Chapter 6). Phase II of the famine was much dominated by speculative activities
 which have not been brought in at all in the model presented above.
 
-ILLUSTRATIVE MODELS OF EXCHANGE ENTITLEMENT
-
 , will have the
 A speculative reduction of the proportion of foodgrains marketed, i.e. lower values of m
 consequence of reinforcing the effects noted above (see B25.1–B25.5). Such a reduction, compared with normal years,
@@ -8095,8 +7594,6 @@ proportionately (see Chapter 6).
 of agricultural workers have been taken to be given, but in reality w
 
 typically went up with food prices but much less than
-
-POVERTY AND FAMINES
 
 Finally, in the model presented above the decline of the rural household producers is traceable ultimately to the distress
 of others, viz. the rural labourers. This interdependence could be heightened by incorporating the fact that destitution
@@ -8146,8 +7643,6 @@ the poverty-line income are assumed to be given. T(x) and T(y) are the poor in S
 i
 
 i
-
-POVERTY AND FAMINES
 
 Monotonicity Axiom If for some j ∈ T(x) ∩ T(y): x
 
@@ -8323,8 +7818,6 @@ for the use of a similar axiom in making distribution-sensitive comparisons of r
 
 (1978), Osmani (1978), Sen (1979a), Marris (1980), and Broder and Morris (1980).
 
-POVERTY AND FAMINES
-
 income among the poor, and when that distributional problem is eliminated, a combination of H and I should suffice.
 Thus, in dealing with alternative cases in each of which all the poor persons have the same income, H and I should be
 informationally adequate. One of the simplest ways of combining H and I in a function ψ (H, I) is to take their product,
@@ -8403,8 +7896,6 @@ has the feature of being sensitive to the income of the non-poor as well. A rise
 is to be preferred over P, since P is
 
 304 Beckerman (1979a, 1979b) puts this measure to good use as an indicator of the relative burden of poverty, but also warns against reading too much into this ratio.
-
-POVERTY AND FAMINES
 
 insensitive to income rises of the rich. It may also be noted that HI* expresses the percentage of national income that
 would have to be devoted to transfers if poverty were to be wiped out by redistribution, and in this sense HI* reflects
@@ -8498,8 +7989,6 @@ homotheticity, and strict separability of a kind that permits one to rank the di
 
 307 See also Sen (1978b).
 
-POVERTY AND FAMINES
-
 of the exercise to the motivation that leads to the search for a measure of poverty.
 
 A particular descriptive characteristic of the poverty measure P has been the subject of some detailed investigation.
@@ -8585,8 +8074,6 @@ different ways. The 'week transfer axiom' used here (and in Sen, 1977a)
 takes note of the poverty line in the way already specified. It is this modified axiom—and not the
 unqualified 'transfer axiom'—that the measure P satisfies (see Sen, 1977a, p. 77), determining precise trade-offs through axioms R and A.
 
-POVERTY AND FAMINES
-
 axiomatization of his measure of poverty G
 poverty measures based on other inequality indexes applied to the censured distribution.
 
@@ -8651,8 +8138,6 @@ a British-owned paper, which
 314 Letter to Mr. L. S. Amery, no. L/E/8/3311; document no. 180 in Mansergh, (1973), vol. IV, pp. 397–8. The earlier communication referred to by Rutherford is document
 
 no. 158 in the same volume.
-
-POVERTY AND FAMINES
 
 to the famine comes to a bit over 678,000.315 This would make the average weekly death-roll in excess of 26,000 rather
 than 2,000.
@@ -8728,8 +8213,6 @@ minute estimates
 318 Reprinted in Ghosh (1944), Appendix G.
 319 Chattopadhyaya and Mukherjea (1946), p. 5.
 
-POVERTY AND FAMINES
-
 in contemporary official statements in London and New Delhi320), there remains a wide gap. The lack of evidence on
 the representative nature of Chattopadhyaya's sample renders it dubious and the arbitrariness of Commission's
 correction factor makes it difficult to evaluate their estimate also.321 But a more fundamental question concerns the
@@ -8770,8 +8253,6 @@ is 0.73, while the same method had yielded a ratio of 0.74 for 1931–40. See Ja
 
 for 1941–50 by S. P. Jain (1954)
 Kingsley Davis: 0.74 for 1931–40, 0.72 for 1921–30, and 0.70 for 1911–20.
-
-FAMINE MORTALITY: A CASE STUDY
 
 mortality. I shall use this ratio of correction uniformly, though it should be noted that this would tend to underestimate
 famine mortality, since registration was especially bad in 1943—the year of the famine and of peak death even in terms
@@ -8834,8 +8315,6 @@ Source: Based on death statistics from Census of India 1951 vol. VI, part 1B, Ta
 
 the under-registration of deaths, thereby underestimating famine mortality.
 
-POVERTY AND FAMINES
-
 Fig. D1 Recorded Deaths During 1941–50 In West Bengal
 
 have fallen in the post-famine years but for the intervention of the famine.324
@@ -8852,8 +8331,6 @@ resulting from it make us reluctant to read the impact of the famine in the exce
 324 Note that the absolute number of deaths went on falling through the decades, despite the increase in the size of the population, which failed to increase only during the
 
 immediate famine years; see Census of India 1951, vol. VI, part 1B, pp. 2–4.
-
-FAMINE MORTALITY: A CASE STUDY
 
 can be conservative and count the excess figures only during 1943–6.325 This yields a total registration excess mortality
 of 601,000 under assumption A and 673,000 under B.
@@ -8893,8 +8370,6 @@ however, the deaths from famine in East Bengal were between two and two and a ha
 329 The number of registered deaths in 1943 was 624,266 for West Bengal and 1,873,749 for Bengal as a whole (see Famine Inquiry Commission, 1945a, p. 108, and Census of
 
 India, 1951, vol. VI, part 1B, p. 21).
-
-POVERTY AND FAMINES
 
 famine excess mortality in West Bengal to be a third of that in undivided Bengal, then the total Bengal famine mortality
 works out as 2.724 million and 3.048 million respectively under assumptions A and B.
@@ -8946,8 +8421,6 @@ emerges most powerfully from our analysis is not so much the largeness of the si
 pattern—lasting for years after the famine. This was largely due to the epidemics associated with the famine, and to
 this issue I now turn.
 
-FAMINE MORTALITY: A CASE STUDY
-
 D.3 How Did They Die?
 
 In December 1943, Bengal reaped a harvest larger than any in the past. Curiously enough, it was also the month in
@@ -8980,8 +8453,6 @@ as well as direct accounts suggest that the explosive
 
 330 Compare the problem of interpreting the large number of deaths from lethal scurvy during the Irish famine of 1845–6.
 
-POVERTY AND FAMINES
-
 Table D3 Diseases and Deaths in West Bengal, 1941–6 Registrations
 
 Dysentery,
@@ -9008,8 +8479,6 @@ malaria)
 Smallpox
 
 TB
-
-Total
 
 Respiratory
 diseases other
@@ -9099,8 +8568,6 @@ than TB
 
 0.6
 
-100.0
-
 1941–2
 Average
 Excess:
@@ -9111,8 +8578,6 @@ total excess
 
 Source: Based on current registration data, reported in Census of India 1951, vol. VI, part 1B. Note that the 'enteric group of fevers' figure
 both under 'fever' and under 'dysentery, diarrhoea, and enteric group of fevers', but the overlap is quantitatively rather tiny.
-
-FAMINE MORTALITY: A CASE STUDY
 
 outbursts of epidemics during and immediately following the famine were affected not merely by starvation and
 malnutrition, but also by other factors, e.g. the impact of the famine on sanitary arrangements, water supply, and other
@@ -9154,8 +8619,6 @@ Inquiry Commission (1945a), p. 122.
 
 334 On this see the Report of Indian Famine Commission of 1898.
 
-POVERTY AND FAMINES
-
 prominent part, but there is something of a puzzle in this in a more general context. The linkage of TB and other
 respiratory diseases with malnutrition is well established (see Keys, 1950), and seems to be conceded even by those
 who dispute the influence of starvation as such on other diseases spread through infectious contagion (see, for
@@ -9190,8 +8653,6 @@ for the period 1943–6.
 There are some differences between the two rankings. Malda, which ends up as the most affected district over-all, was
 one of the less affected
 
-FAMINE MORTALITY: A CASE STUDY
-
 Table D4 Excess Mortality in West Bengal: Breakdown by District
 
 District
@@ -9208,10 +8669,8 @@ Excess
 mortality,
 1943–6
 
-Percentage
 excess,
 
-Percentage
 excess,
 1943–6
 (annual)
@@ -9316,38 +8775,23 @@ Bengal
 Govt Dept
 of Industries
 Slight
-Slight
 Moderate Slight
-Slight
-Slight
-
-Slight
-
-Slight
 
 Severe
-Slight
 
-Slight
 Severe
 
 Severe
-Slight
 
-Slight
 Severe
 
 Moderate
 
-Slight
 Moderate Slight
 Moderate Slight
 Moderate Slight
-Slight
 
 Moderate
-
-POVERTY AND FAMINES
 
 districts in the famine year itself. Similarly, Midnapur, which was most affected in the famine year, ends up in a
 somewhat moderate position for the whole period. The pattern of the epidemics that followed the famine re-ordered
@@ -9383,8 +8827,6 @@ Calcutta during the famine and post-famine years. But rough breakdowns would see
 especially for the period 1943–6. The contrast between the reality and the official perception will still hold, and the importance of being close to Calcutta in having one's
 distress officially observed will not disappear.
 
-FAMINE MORTALITY: A CASE STUDY
-
 (see Famine Inquiry Commission, 1945a). Based on this observation, it has been frequently stated that the residents of
 Calcutta escaped the famine.338 This is largely true as far as starvation is concerned, but in the epidemics that were
 induced by the famine, Calcutta had its own share of casualties, reflected by the excess mortality figures after 1943, i.e.
@@ -9405,13 +8847,8 @@ proportion of destitution
 
 Peasant cultivation and share-cropping
 Part-time agricultural labour
-Agricultural labour
 Non-cultivating owners
-Fishing
-Craft
 Husking paddy
-Transport
-Trade
 Profession and services
 Non-agricultural labour
 Other productive occupations
@@ -9452,8 +8889,6 @@ paddy husking
 
 Famine Inquiry Commission, 1945a, p. 102).
 
-POVERTY AND FAMINES
-
 most affected groups were fishermen, transport workers, and agricultural labourers. In terms of absolute numbers,
 agricultural labourers as an occupation group were dominant.
 
@@ -9472,7 +8907,6 @@ Occupation on 1/1/43
 Proportion of destitution (%)
 
 Peasant cultivation and share-cropping
-Agricultural labour
 Artisan
 Petty trader
 Crop-sharing landlord
@@ -9480,7 +8914,6 @@ Priest and petty employee
 Office employee
 Landlord
 'Unproductive'
-Total
 
 18.4
 
@@ -9516,8 +8949,6 @@ Peculiarities in the pattern of famine mortality compared with normal mortality 
 long time. A supposedly lower impact of famines on women is one of the 'regularities' that has received some attention
 in India. Sir Charles Elliot, Famine Commissioner of Mysore in 1876 and Census Commissioner of India for the 1881
 Census, summarized the general belief regarding nineteenth-century
-
-FAMINE MORTALITY: A CASE STUDY
 
 Indian famines: 'all the authorities seem agreed that women succumb to famine less easily than men'.339
 
@@ -9555,8 +8986,6 @@ the Bengal famine (see Ghosh, 1944, Appendix G, p. 183).
 343 My favourites are some of those proposed by Mr. W. C. Bennet, C. S.: 'Women find employment as maid-servants in the houses of rich men when men have no work to look
 for'; 'women possess ornaments of value which they may dispose for their own benefit whenever necessary'; 'the woman in a Hindu family always keeps the household
 stores, and has no scruple in availing herself of the advantage it gives her' (see Census of India 1911, vol. I, part I, appendix to Chapter VI, pp. 220–2).
-
-POVERTY AND FAMINES
 
 Table D7 Excess Mortality of Men, Women, Children, and the Old: West Bengal
 
@@ -9602,8 +9031,6 @@ above 60
 Source: Based on current registration data, reported in Census of India 1951, vol. VI, part 1B. Note that 'men' and 'women' include figures for
 all ages, and 'children below 5' and 'old people above 60' include those for both sexes.
 
-FAMINE MORTALITY: A CASE STUDY
-
 Das (1949) also noted a much higher proportion of deaths among children, and opined that 'this will certainly cripple
 the next generation of the Bengalees'.344 The Anthropology Department of Calcutta University had reported a similar
 bias in its press statement in 1944.345
@@ -9638,22 +9065,9 @@ as well as to a reporting bias (p. 109). Adjustments for this group would not af
 
 seasonal distribution of deaths did not differ significantly between "catastrophic" and "normal" years' (p. 284).
 
-POVERTY AND FAMINES
-
 Table D8 Mortality by Months During July 1943–June 1944 Compared With Previous Quinquennial Average
 
-July
-August
-September
-October
-November
-December
-January
-February
-March
-April
 May
-June
 
 Deaths during 1943–4
 126,437
@@ -9684,8 +9098,6 @@ Quinquennial average deaths: 1938–42
 74,774
 
 Fig. D2 Monthly Pattern Of Recorded Mortality Before and During the Famine
-
-FAMINE MORTALITY: A CASE STUDY
 
 D.7 Concluding Remarks
 
@@ -9722,8 +9134,6 @@ contrasts were of practical import.
 
 Information on the occupational pattern of mortality is very limited, but some general impressions emerge from a
 broadly based 1944 survey
-
-POVERTY AND FAMINES
 
 covering the occupational pattern of destitution, and two local 1943 surveys directly going into deaths related to
 occupations (see Section D5). In absolute terms, the most severe incidence of famine mortality during the famine itself
@@ -9825,8 +9235,6 @@ published.
 
 Arrow, K. and Hahn, F. (1971), General Competitive Analysis, Edinburgh: Oliver and Boyd.
 
-BIBLIOGRAPHY
-
 Atkinson, A. B. (1969), Poverty in Britain and the Reform of Social Security, Cambridge: University Press.
 Atkinson, A. B. (1970), 'On the Measurement of Inequality', Journal of Economic Theory, 2.
 Atkinson, A. B. (1975), The Economics of Inequality, Oxford: Clarendon Press.
@@ -9856,8 +9264,6 @@ reprinted in Srinivasan and Bardhan (1974).
 
 Bardhan, P. K. (1974), 'The Pattern of Income Distribution in India: A Review', in Srinivasan and Bardhan (1974).
 Barraclough, S. (1977), 'Agricultural Production Prospects in Latin America', World Development, 5.
-
-BIBLIOGRAPHY
 
 Barten, A. P. (1964), 'Family Composition, Prices and Expenditure Pattern', in Hart and Mills (1964).
 Batchelder, A. B. (1971), The Economics of Poverty, New York: John Wiley.
@@ -9908,8 +9314,6 @@ Household Consumption in Rural India', Sankhyā, 36.
 
 Bhattacharya, N. and Chatterjee, G. S. (1977), 'A Further Note on
 
-BIBLIOGRAPHY
-
 Between-States Variation in Level of Living in Rural India', Technical Report no. ERU/4/77, Indian Statistical
 
 Institute, Calcutta.
@@ -9959,8 +9363,6 @@ Brown, J. A. C. (1954), 'The Consumption of Food in Relation to Household Compos
 
 22.
 
-BIBLIOGRAPHY
-
 Brown, L. R. and Eckholm, E. P. (1974), By Bread Alone, Oxford: Pergamon Press.
 Brown, W. R. and Anderson, N. D. (1976), Historical Catastrophes: Famines, Reading, Mass: Addison-Wesley.
 Bruton, H. J. (1965), Principles of Development Economics, Englewood Cliffs, N J: Prentice-Hall.
@@ -10002,8 +9404,6 @@ Chambers, J. D. (1972), Population, Economy and Society in Pre-industrial Englan
 Chatterjee, G. S. and Bhattacharya, N. (1974), 'On Disparities in Per Capita Household Consumption in India',
 
 Sankhya: The Indian
-
-BIBLIOGRAPHY
 
 Journal of Statistics, 36, Series C; reprinted in Srinivasan and Bardhan (1974).
 Chattopadhyaya, K. P. and Mukherjea, R. (1946), 'A Plan for Rehabilitation', in Mahalanabis et al. (1946).
@@ -10047,8 +9447,6 @@ Food and Nutrition, 7.
 
 Dahl, G., and Hjort, A (1976), Having Herds: Pastoral Herd Growth and
 
-BIBLIOGRAPHY
-
 Household Economy, Stockholm: University of Stockholm.
 Dahl, G. and Hjort, A. (1979), Pastoral Change and the Role of Drought, Stockholm: SAREC.
 Dalby, D. and Harrison Church, R. J. (1973), Drought in Africa, London: International African Institute.
@@ -10084,8 +9482,6 @@ Donaldson, D. and Weymark, J. A. (1980b),
 'Ethically Flexible Gini Indices for Income Distribution in the
 
 Continuum', Discussion Paper no. 8020, CORE, Louvain.
-
-BIBLIOGRAPHY
 
 Dorfman, R. (1979), 'A Formula for the Gini Coefficient', Review of Economics and Statistics, 61.
 Drewnowski, J. (1977), 'Poverty: Its Meaning and Measurement', Development and Change, 8.
@@ -10124,8 +9520,6 @@ Tikdem', Addis Ababa: Imperial Ethiopian Government.
 
 Etienne, G. (1968), Studies in Indian Agriculture: The Art of the Possible, Berkeley: University of California Press.
 Etienne, G. (1977a), Bangladesh: Development in Perspective, Geneva: Graduate Institute of International Studies.
-
-BIBLIOGRAPHY
 
 Etienne, G. (1977b). 'Foodgrain Production and Population in Asia: China, India and Bangladesh', World Development,
 
@@ -10167,8 +9561,6 @@ Wealth, 15.
 
 Furtado, C. (1964), Development and Underdevelopment, Berkeley: University of California Press.
 Gadgil, D. R. and Sovani, N. V. (1943), War and Indian Economic Policy, Poona: Gokhale Institute.
-
-BIBLIOGRAPHY
 
 Gastwirth, J. L. (1972), 'The Estimation of Lorenz Curve and Gini Index', Review of Economics and Statistics, 54.
 Gastwirth, J. L. (1975), 'The Estimation of a Family of Measures of Economic Inequality', Journal of Econometrics, 3.
@@ -10212,8 +9604,6 @@ ILO.
 Ginneken, W. van (1980), 'Some Methods of Poverty Analysis: An Application to Iranian Data, 1975–1976', World
 
 Development, 8.
-
-BIBLIOGRAPHY
 
 Ginneken, W. van (1979a), 'Income Distribution in LDCs—A Survey of Current Research' mimeographed, Geneva:
 
@@ -10259,8 +9649,6 @@ Gulati, I. S. and Krishnan, T. N. (1975), 'Public Distribution and Procurement o
 
 and Political Weekly, 10, 24 May.
 
-BIBLIOGRAPHY
-
 Gulati, I. S. and Krishnan, T. N. (1976), 'Public Distribution and Procurement of Foodgrains: A Correction and Some
 
 Elucidations and Observations', Economic and Political Weekly, 11, 21 February.
@@ -10303,8 +9691,6 @@ and Harrison Church (1973).
 
 Hart, Herbert (1961), The Concept of Law, Oxford: Clarendon Press.
 Hart, Oliver (1977), 'On the Profitability of Speculation', Quarterly Journal of Economics, 91.
-
-BIBLIOGRAPHY
 
 Hart, P. and Mills, G. (1964), Econometric Analysis for National Accounts, London: Butterworth.
 Hartmann, B., and Boyce, J. (1979), Needless Hunger: Voices from a Bangladesh Village, San Francisco: Institute for Food
@@ -10354,8 +9740,6 @@ Economic Development', Quarterly Journal of Economics, 87.
 
 Hobsbawm, E. J. (1957), 'The British Standard of Living, 1790–1850', Economic History Review, 10.
 
-BIBLIOGRAPHY
-
 Hobsbawm, E. J. (1968), 'Poverty', in International Encyclopaedia of the Social Sciences, New York.
 Hobsbawm, E. J., Mitra, A., Raj, K. N., Sachs, I. and Thorner, A.(eds) (1980), Peasants in History: Essays in Memory of
 
@@ -10392,8 +9776,6 @@ Development and Cultural Change, 25.
 
 Ishikawa, S. (1977), 'China's Food and Agriculture', Food Policy, May.
 Ishikawa, S., Khan, A. R., Ahmed, I., Naseem, S. M., Wickramasekara, P., Lee, E. and Vaidyanathan, A. (1980),
-
-BIBLIOGRAPHY
 
 Employment Expansion in Asian Agriculture, Asian Employment Programme, Bangkok: ILO/ARTEP.
 Islam, Nurul (1977), Development Planning in Bangladesh: A Study in Political Economy, London: Hurst.
@@ -10441,8 +9823,6 @@ Society', Population Studies, 25.
 Kakwani, N. (1977), 'Measurement of Poverty and Negative Income Tax', Australian Economic Papers, 16.
 Kakwani, N. (1980a), Income Inequality and Poverty, New York: Oxford University Press.
 
-BIBLIOGRAPHY
-
 Kakwani, N. (1979), 'Issues in Measurement of Poverty', Discussion Paper no. 330, Institute of Economic Research,
 
 Queen's University, Kingston, Ontario.
@@ -10476,8 +9856,6 @@ International Food Policy Research Institute.
 Koopmans, T. C. (1957), Three Essays on the State of the Economic Science, New York: McGraw-Hill.
 Kornai, János (1979a), The Economics of Shortage, mimeographed; to be published.
 Kornai, J. (1979b), 'Resource-constrained versus Demand-constrained Systems', Econometrica, 47.
-
-BIBLIOGRAPHY
 
 Krelle, W. and Shorrocks, A. F. (1978), Personal Income Distribution, Amsterdam: North-Holland.
 Krishnaji, N. (1976), 'Public Distribution and Procurement of Foodgrains: A Comment', Economic and Political Weekly,
@@ -10517,8 +9895,6 @@ Lloyd, E. M. H. (1956), Food and Inflation in Middle East 1944–45, Stanford: U
 Lofchie, M. F. (1975), 'Political and Economic Origins of African Hunger', Journal of Modern African Studies, 14.
 Lörstad, M. H. (1976), 'Nutrition Planning through Gaming', Food and Nutrition, 3.
 
-BIBLIOGRAPHY
-
 Loveday, A. (1916), The History and Economics of Indian Famines, London: G. Bell.
 Luce, R. D. and Raiffa, H. (1958), Games and Decisions, New York: John Wiley.
 Lundholm, B. (1976), 'Domestic Animals in Arid Ecosystems', in Rapp, Le Houérou and Lundholm (1976).
@@ -10557,8 +9933,6 @@ Marx, Karl (1857–8), Grundrisse der Kritik der Politischen Okonomie. Moscow: M
 1941;
 
 English
-
-BIBLIOGRAPHY
 
 translation by M. Nicolaus (1973), Grundisse: Foundations of the Critique of Political Economy, Harmondsworth: Penguin;
 also part translation with supplementary texts of Marx and Engels, and with an Introduction by Eric Hobsbawm
@@ -10607,8 +9981,6 @@ Cultural Change, 27.
 
 Mellor, J. W. (1978b), Three Issues of Development Strategy: Food, Population, Trade, Washington, DC: IFPRI.
 
-BIBLIOGRAPHY
-
 Mencher, J. P. (1978), 'Why Grow More Food?: An Analysis of Some Contradictions in the "Green Revolution" in
 
 Kerala', Economic and Political Weekly, 13.
@@ -10649,8 +10021,6 @@ Duality Approach', European Economic Review, 5.
 Muellbauer, John (1974c), 'Inequality Measures, Prices and Household Composition', Review of Economic Studies, 41.
 Muellbauer, John (1975), 'Aggregation, Income Distribution and
 
-BIBLIOGRAPHY
-
 Consumer Demand', Review of Economic Studies, 42.
 Muellbauer, John (1976), 'Community Preferences and the Representative Consumer', Econometrica, 44.
 Muellbauer, John (1977a), 'Cost of Living', in Social Science Research, London: HMSO.
@@ -10689,8 +10059,6 @@ Income and Wealth, 22.
 Nolan, Liam (1974), The Forgotten Famine, Dublin: Mercier Press.
 Norton, B. E. (1976), 'The Management of Desert Grazing Systems', in Glantz (1976).
 Nozick, Robert (1974), Anarchy, State and Utopia, Oxford: Basil Blackwell.
-
-BIBLIOGRAPHY
 
 OECD Development Centre (1979), Food Aid for Development, Paris: OECD.
 Ohkawa, K. and Rosovsky, H. (1960),
@@ -10732,8 +10100,6 @@ Research.
 
 Patnaik, P., Rao, S. K. and Sanyal, A. (1976), 'The Inflationary
 
-BIBLIOGRAPHY
-
 Process: Some Theoretical Comments', Economic and Political Weekly, 11, 23 October.
 Paukert, Felix (1973), 'Income Distribution at Different Levels of Development: A Survey of Evidence', International
 
@@ -10771,8 +10137,6 @@ Institute of Economic and Social Research.
 
 Rado, E. and Sinha, R. (1977), 'Africa: A Continent in Transition', World Development, 5.
 Rahman, Anisur (1974a), 'Relief Tour of Shahbajpur, Brahmanbaria:
-
-BIBLIOGRAPHY
 
 Daily Diary', mimeographed, Dacca University.
 Rahman, Anisur (1974b), 'Famine', mimeographed, Dacca University.
@@ -10816,8 +10180,6 @@ Weekly, 13, 22–30 December.
 Reutlinger, S. (1977), 'Malnutrition: A Poverty or a Food Problem', World Development, 5.
 Reutlinger, S. (1978), 'Food Insecurity: Magnitude and Remedies', World Development, 6.
 Reutlinger, S. and Selowsky, M. (1976), Malnutrition and Poverty:
-
-BIBLIOGRAPHY
 
 Magnitude and Policy Options, Baltimore: Johns Hopkins University Press.
 Ricardo, David (1822), Text of speech in Parliament on 10 July: published in P. Sraffa (ed.), The Works and Correspondence
@@ -10865,8 +10227,6 @@ Sastry, S. A. R. and Suryanarayana, T. (1980), 'Optimum Diet and Poverty Lines',
 
 Levels of Living
 
-BIBLIOGRAPHY
-
 on Public Policy, Sardar Patel, Institute of Economics and Social Research, Ahmedabad.
 Scase, R. (1974), 'Relative Deprivation: A Comparison of English and Swedish Manual Workers', in Wedderburn
 
@@ -10912,8 +10272,6 @@ Political Weekly, 8, Special Number.
 
 Sen, A. K. (1974), 'Informational Bases of Alternative Welfare
 
-BIBLIOGRAPHY
-
 Approaches: Aggregation and Income Distribution', Journal of Public Economics, 4.
 Sen, A. K. (1975), Employment, Technology and Development, Oxford: Clarendon Press.
 Sen, A. K. (1976a), 'Poverty: An Ordinal Approach to Measurement', Econometrica, 44.
@@ -10944,8 +10302,6 @@ Sen, A. K. (1981), 'Ingredients of Famine Analysis: Availability and Entitlement
 Sen, S. R. (1971), Growth and Instability in Indian Agriculture, Calcutta: Firma K. L. Mukhopadhyay.
 Sen, Sunil (1979), Agrarian Relations in India 1793–1947, New Delhi: People's Publishing House.
 Shanin, T. (1972), The Awkward Class, Oxford: Clarendon Press.
-
-BIBLIOGRAPHY
 
 Shear, D. and Stacy, R. (1976), 'Can the Sahel Survive? Prospects for Long-term Planning and Development', in Glantz
 
@@ -10987,8 +10343,6 @@ Srinivasan, T. N. (1977a),
 in Conference Proceedings, 41st Seminar of the
 
 International Statistical Institute, held at New Delhi.
-
-BIBLIOGRAPHY
 
 Srinivasan, T. N. (1977b), 'Development, Poverty and Basic Human Needs: Some Issues', Food Research Institute Studies,
 
@@ -11043,8 +10397,6 @@ Cultural Change, 28.
 
 Subramanian, V. (1975), Parched Earth: The Maharashtra Drought 1970–73, New Delhi: Orient Longmans.
 
-BIBLIOGRAPHY
-
 'Sahelian Pastoralists—Underdevelopment, Desertification, and Famine', Annual Review of
 
 Swift,
@@ -11087,8 +10439,6 @@ Tudge, Colin (1977), The Famine Business, London: Faber and Faber.
 Tydings, J. D. (1970), Born to Starve, New York: William Morrow.
 UNRISD (1975), 'Famine Risk in the Modern World', mimeographed, United Nations, Geneva.
 
-BIBLIOGRAPHY
-
 UNRISD (1976),
 
 'Famine Risk and Famine Prevention in the Modern World: Studies in Food Systems under
@@ -11124,8 +10474,6 @@ Woodham-Smith, Cecil (1962), The Great Hunger: Ireland 1845–9, London: Hamish 
 edition, London: New English Library, 1975).
 
 World Bank (1975), Ethiopia—Grain Storage and Marketing, Washington, DC: World Bank.
-
-BIBLIOGRAPHY
 
 World Bank (1980), The World Development Report 1980, Washington, DC: World Bank.
 Wrigley, E. A. (1969), Population and History, London: Weidenfeld and Nicolson.
@@ -11368,8 +10716,6 @@ Bennet, W. C. , 211–213
 Bentzel, R. , 22, 220
 Berg, A. , 220
 
-INDEX
-
 Dutta, B. , 32, 37, 225
 Dworkin, R. , 49, 225
 Eckholm, E. P. , 83, 158, 222
@@ -11469,8 +10815,6 @@ Dorfman, R. , 191, 225
 Drewnowski, J. , 24, 225
 Duloy, J. H. , 24, 32, 223
 Dutt, R. C. , 225
-
-INDEX
 
 Hintikka, J. , 222
 Hirsch, F. , 31, 230
@@ -11572,8 +10916,6 @@ Hemming, R. , 37, 223
 Heyer, J. , viii, 47, 230
 Hjort, A. , 129, 223
 Hicks, J. R. , 27, 49, 230
-
-INDEX
 
 Khalifa, A. , 121, 233
 Khan, A. M. , 217
@@ -11678,8 +11020,6 @@ Nicholson, J. L. , 30, 238
 Nobay, A. R. , 228
 Nolan, L. , 238
 
-INDEX
-
 Norton, B. E. , 127, 129, 238
 Nozick, R. , 2, 238
 Ohkawa, K. , 41, 239
@@ -11782,8 +11122,6 @@ Seaman, J. , viii, 47, 87, 88, 94–5, 96, 98, 100, 102, 105–10,
 Seastrand, F. , 37, 243
 Selowsky, M. , 24, 241, 243
 Sen, S. R. , 41, 244
-
-INDEX
 
 Toupet, C. , 129, 247
 Townsend, P. , 12, 13, 15–17, 29, 32, 35, 217, 247

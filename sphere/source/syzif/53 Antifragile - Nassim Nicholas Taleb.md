@@ -256,7 +256,6 @@ Plead Ignorance of Biology: Phenomenology
 The Ancients Were More Caustic
 How to Medicate Half the Population
 The "Rigor of Mathematics" in Medicine
-Next
 Chapter 22. To Live Long, but Not Too Long
 Life Expectancy and Convexity
 Subtraction Adds to Your Life
@@ -288,7 +287,6 @@ Which Adam Smith?
 The Antifragility and Ethics of (Large) Corporations
 Artisans, Marketing, and the Cheapest to Deliver
 Lawrence of Arabia or Meyer Lansky
-Next
 Chapter 24. Fitting Ethics to a Profession
 Wealth Without Independence
 The Professionals and the Collective
@@ -1483,7 +1481,6 @@ But these are all dwarfed by the role of optionality in the two evolutions: natu
 Roman Politics Likes Optionality
 
 Even political systems follow a form of rational tinkering, when people are rational hence take the better option: the Romans got their political system by tinkering, not by "reason." Polybius in his Histories compares the Greek legislator Lycurgus, who constructed his political system while "untaught by adversity," to the more experiential Romans, who, a few centuries later, "have not reached it by any process of reasoning [emphasis mine], but by the discipline of many struggles and troubles, and always choosing the best by the light of the experience gained in disaster."
-Next
 
 Let me summarize. In Chapter 10 we saw the foundational asymmetry as embedded in Seneca's ideas: more upside than downside and vice versa. This chapter refined the point and presented a manifestation of such asymmetry in the form of an option, by which one can take the upside if one likes, but without the downside. An option is the weapon of antifragility.
 The other point of the chapter and Book IV is that the option is a substitute for knowledge—actually I don't quite understand what sterile knowledge is, since it is necessarily vague and sterile. So I make the bold speculation that many things we think are derived by skill come largely from options, but well-used options, much like Thales' situation—and much like nature—rather than from what we claim to be understanding.
@@ -2557,7 +2554,6 @@ For those of us who laugh at the charlatanism hidden behind fictional mathematic
 And indeed the cemetery of bad ideas (and hidden ideas) shows that mathematics fooled us there. There have been many forgotten attempts to mathematize medicine. There was a period during which medicine derived its explanatory models from the physical sciences. Giovanni Borelli, in De motu animalium, compared the body to a machine consisting of animal levers—hence we could apply the rules of linear physics.
 Let me repeat: I am not against rationalized learned discourse, provided it is not fragile to error; I am first and last a decision maker hybrid and will never separate the philosopher-probabilist from the decision maker, so I am that joint person all the time, in the morning when I drink the ancient liquid called coffee, at noon when I eat with my friends, and at night when I go to bed clutching a book. What I am against is naive rationalized, pseudolearned discourse, with green lumber problems—one that focuses solely on the known and ignores the unknown. Nor am I against the use of mathematics when it comes to gauging the importance of the unknown—this is the robust application of mathematics. Actually the arguments in this chapter and the next are all based on the mathematics of probability—but it is not a rationalistic use of mathematics and much of it allows the detection of blatant inconsistencies between statements about severity of disease and intensity of treatment. On the other hand, the use of mathematics in social science is like interventionism. Those who practice it professionally tend to use it everywhere except where it can be useful.
 The only condition for such brand of more sophisticated rationalism: to believe and act as if one does not have the full story—to be sophisticated you need to accept that you are not so.
-Next
 
 This chapter has introduced the idea of convexity effects and burden of evidence into medicine and into the assessment of risk of iatrogenics. Next, let us look at more applications of convexity effects and discuss via negativa as a rigorous approach to life.
 1 A technical comment. This is a straightforward result of convexity effects on the probability distribution of outcomes. By the "inverse barbell effect," when the gains are small to iatrogenics, uncertainty harms the situation. But by the "barbell effect," when the gains are large in relation to potential side effects, uncertainty tends to be helpful. An explanation with ample graphs is provided in the Appendix.
@@ -2875,7 +2871,6 @@ During the Great War, T. E. Lawrence, nicknamed Lawrence of Arabia, struck a dea
 Now on the other hand, a mobster's greatest asset is that "his word is gold." It was said that "a handshake from the famous mobster Meyer Lansky was worth more than the strongest contracts that a battery of lawyers could put together." In fact he held in his mind the assets and liabilities of the Sicilian mafia, and was their bank account, without a single record. Just his honor.
 As a trader I never trusted transactions with "representatives" of institutions; pit traders are bound by their bonds, and I've never known a single self-employed trader over a two-decade-long career who did not live up to his handshake.
 Only a sense of honor can lead to commerce. Any commerce.
-Next
 
 We saw how, thanks to the misunderstanding of antifragility (and asymmetry or convexity), some classes of people use hidden options and harm the collective without anyone realizing. We also saw the solution in forcing skin in the game. Next, we will look at another form of optionality: how people can cherry-pick ethical rules to fit their actions. Or how they use public office as a means to satisfy personal greed.
 1 GSE is Fannie Mae and Freddie Mac—they both blew up.

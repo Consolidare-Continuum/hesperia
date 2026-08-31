@@ -1,4 +1,3 @@
-
 This	series,	now	edited	by	Gwen	Adshead,	takes	the	currently	crystallising	field
 of	 Forensic	 Psychotherapy	 as	 its	 focal	 point,	 offering	 a	 forum	 for	 the
 presentation	 of	 theoretical	 and	 clinical	 issues.	 It	 will	 also	 embrace	 such

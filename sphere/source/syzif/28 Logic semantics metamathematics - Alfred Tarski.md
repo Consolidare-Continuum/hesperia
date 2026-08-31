@@ -324,8 +324,6 @@ I N D E X OF N A M E S OF P E R S O N S
 
 I N D E X OF S Y M B O L S
 
-I
-
 O N T H E P R I M I T I V E T E R M O F
 
 L O G I S T I C f
@@ -374,8 +372,6 @@ Whitehead', ibid., vol. 6 (1924), pp. 69-74. The present English translation
 is based partly on the Polish and partly on the French original.
 
 ON THE P R IM IT IV E TERM OF LOGISTIC
-
-I
 
 example o f Russell,1 or b y making use o f the idea o f Sheffer,2
 who adopts as the primitive term the sign o f incompatibility,
@@ -430,8 +426,6 @@ Mathematical
 b Some further developments related to this result are contained in the
 doctoral dissertation of Henry H it, ' An economic foundation for arithmetic*,
 Harvard University, 1948; see also H it, Henry (31 a).
-
-I
 
 ON TH E P R IM IT IV E TERM OF LOGISTIC
 
@@ -571,8 +565,6 @@ II!&III
 
 p ~ . p ^ q :
 
-III
-
 II!
 
 p = z p
@@ -643,8 +635,6 @@ na
 
 T¥i
 
-I
-
 .
 
 •
@@ -712,8 +702,6 @@ i—
 [ r ] :p s / ( r ) . = .q = f { r ) :
 
 II! HI
-
-III
 
 [r\.p = /(»• ). = .[r ].g = = / » : .
 On
@@ -829,8 +817,6 @@ ON TH E P R IM IT IV E TER M OF LOGISTIC
 
 Proof. H p : o : . :
 
-( 1)
-
 (a)
 
 (6'
@@ -881,8 +867,6 @@ III•
 *
 *
 >
-
-III
 
 •
 •
@@ -964,8 +948,6 @@ The converses o f Ths. 16 and 19 can easily be established.
 It is a direct conclusion that the sentence
 
 !>><?] = -P -?- = : [ / ] :P s •/ ( p ) = / ( ? )
-
-ON TH E P R IM IT I V E TERM OF LOGISTIC
 
 1, § 2
 
@@ -1063,7 +1045,6 @@ T h . 25.
 
 Proof, b ] :
 
-( 1)
 (2)
 
 (3)
@@ -1257,8 +1238,6 @@ Th, 35. 6p{tr}
 
 Proof.
 
-( 1)
-
 Th. 36.
 
 eP{as}
@@ -1320,8 +1299,6 @@ Th. 39.
 
 Proof.
 
-( 1)
-
 (a)
 
 (b)
@@ -1355,23 +1332,17 @@ q.gip).og{q} :.
 
 Cn
 
-ON TH E P R IM IT I V E TERM OF LOGISTIC
-
 1. §3
 
 T h . 40.
 
 [ / ] : == { / , tr} v = { / , ew} V = { /,
 
-V
-
 Proof.
 
 [ f ] : H p . o .
 
 = {f,M- o ¥ J )
-
-( 1)
 
 (2)
 
@@ -1410,8 +1381,6 @@ T h . 41.
 T h . 42.
 
 8h ~ . [ / ] . = { / , tr} V = { / , as} V = { / ,
-
-V
 
 T h . 43. Sb = : [ / ] :[p].f(p) ss lr(p). v . [p].f(p) s as(p).
 
@@ -1471,8 +1440,6 @@ Cn
 1 Cf. L, Couturat (14 a), § 29; Schrader, E. (62), vol. I, p. 409, 44+.
 
 1,5 4
-
-ON TH E P R IM IT I V E TERM OF LOGISTIC
 
 Th. 45.
 
@@ -1577,8 +1544,6 @@ to which all truth-functions satisfy the following conditions:
 
 U
 
-ON TH E P R IM IT I V E TERM OF LOGISTIC
-
 I, § 6
 
 or, in equivalent terms:
@@ -1663,8 +1628,6 @@ logistic. Cf. Lukasiewicz, J. (50 a).
 3 Cf. L. Couturat (14 a), $ 28; E. Schroder (62), vol. I, p. 427, 48+.
 
 I, $ 5
-
-ON TH E P R IM IT I V E TERM OF LOGISTIC
 
 Proof.
 
@@ -2256,9 +2219,6 @@ For example, if we limit ourselves to functions o f two argu­
 ments we can establish the following:
 
 In order that such a function f may be a truth-fun etioiu i.e.
-V
-
-V
 
 in order that it should satisfy the condition:
 
@@ -2294,10 +2254,6 @@ l p , q ] : f ( p , q ) = • ~ ( p ) . g : V : b . ? ] :/(2 > »?)
 ( p ) . ~ ( ? ) : V .
 
 b »?]« ~ {f(p>q))i
-
-I
-
-ON TH E P R IM IT I V E TERM OF LOGISTIC
 
 (Ci)
 
@@ -2365,8 +2321,6 @@ to prove that each of these hypotheses is equivalent to the law of substitution
 
 ON THE P R IM IT IV E TERM OF LOGISTIC
 
-I
-
 N o t e II. O n F u n c t io n s o f w h ic h t h e A r g u m e n t s
 
 a r e n o t S e n t e n c e s
@@ -2429,8 +2383,6 @@ P 2) M :[/]•#/}• s
 
 1 Whitehead and Ruasell (90), vol'. I, p. 22.
 
-I
-
 ON TH E P R IM IT I V E TER M OF LOGISTIC
 
 (Ea) M ' - m ■*{/}■ ® .<f>{tr}V 4>{a$ ) V V
@@ -2459,8 +2411,6 @@ For technical reasons I refrain from giving this law here; it
 would contain sixteen logical summands and its form ulation
 would be very laborious w ithout the help o f some auxiliary
 definitions.
-
-II
 
 F O U N D A T I O N S O F T H E G E O M E T R Y
 
@@ -2505,8 +2455,6 @@ Pierwazego Polskiego Zjazdu Matematycznego, supplement to Annalea de la
 SocietS Polonaiae de Math&natique, Krakdw 1929, pp. 29-33. The present
 article oontains a translation of this summary, with additions designed to
 clarify oertain passages of the French text.
-
-II
 
 F O U N D A T IO N S OF TH E G E O M E T R Y OF SOLIDS
 
@@ -2564,8 +2512,6 @@ The Axiomatic Method in Biology, Cambridge 1937, Appendix E (by A . Tarski),
 p. 160.
 
 F O U N D A T IO N S OF TH E G E O M E T R Y OF SOLIDS
-
-II
 
 notion o f the geom etry o f solids.1 In terms o f this notion (and
 o f the notions o f m ereology previously introduced) I shall now
@@ -2667,8 +2613,6 @@ of the second order. In or dinar/ point geometry the opposite is true,
 notions as primitive can be found in Pieri, M. (59).
 
 F O U N D A T IO N S OF TH E G E O M E T R Y OF SOLIDS
-
-II
 
 purpose establish exact connexions between notions o f the
 geom etry o f solids— those o f a solid and o f the relation of apart to a
@@ -3168,8 +3112,6 @@ the simplest deductive discipline, namely the sentential calculus, the reader
 is referred to IV . Some results concerning other deductive disciplines are
 briefly discussed in X II, § 5.
 
-IV
-
 I N V E S T I G A T I O N S I N T O T H E S E N T E N T I A L
 
 C A L C U L U S !
@@ -3317,8 +3259,6 @@ o f constructing systems is due to Tarski.
 
 IV. §1
 
-S E N T E N T IA L CALCULUS
-
 Definition 3. A (logical) matrix is an ordered quadruple
 3Wl = [A, B ,f, g\ which consists of two disjoint sets (with dements
 of any bind whatever) A and B , a function f of two variables end a
@@ -3417,8 +3357,6 @@ See also H. Hermes, *Zur Theorie der aussagenlogischen Matrizen', Math. Z.t
 vol. 53 (1951), pp. 414-18.
 
 IV, §2
-
-S E N T E N T IA L CALCULUS
 
 From this definition it follow s easily that the system L is
 
@@ -3661,8 +3599,6 @@ Ths. 12 and IS can be proved to be ^decomposable,
 
 IV, §2
 
-S E N T E N T IA L CALCULUS
-
 T heorem 16. In every basis (and in general in every axiom
 system) of the system L, as well as of every subsystem of L which
 contains the sentence ' CpCqCrp\ at least three distinct sentential
@@ -3902,8 +3838,6 @@ second a proof of Th. 24.
 
 IV, S3
 
-S E N T E N T IA L CALCULUS
-
 is axiomatizable and that the set consisting of the following five
 sentences
 
@@ -4119,8 +4053,6 @@ sentential calculus as well.
 
 IV, J 5
 
-S E N T E N T IA L CALCULUS
-
 W
 
 denoted b y 'nx{y)' in m etam athem atioal discussions. This con­
@@ -4225,8 +4157,6 @@ and
 <», = • n poccp n ppocp n pppp'-
 
 IV, J5
-
-S E N T E N T IA L CALCULUS
 
 N ow let n be a definite natural number > 1. W e choose »
 sentences called basic sentences, and denote them b y the sym bols
@@ -4336,8 +4266,6 @@ Tarski in the year 1927. Hie proof was subsequently simplified by S. Jankowski.
 
 IV, §6
 
-S E N T E N T IA L CALCULUS
-
 I t is w orthy o f note that the p roof given b y Tarski o f Th.
 22 in the extended sentential calculus makes it possible to
 construct effectively an axiom system for every system
@@ -4372,8 +4300,6 @@ as a laboratory in whioh m etam athem aticai m ethods can be
 discovered and m etam athem aticai concepts constructed which
 can then be carried over to m ore com plicated m athem atical
 systems.
-
-V
 
 F U N D A M E N T A L C O N C E P T S O F T H E
 
@@ -4416,8 +4342,6 @@ t B ibliographical N ote. This article originally appeared under the title
 in MonatshefU far Mathematik und Phyaik, vol. 37 (1930), pp. 361-404. For
 earlier publications of the author on the same topics see the bibliographical
 note to m .
-
-V
 
 M E T H O D O L O G Y O F D E D U C T I V E S C I E N C E S
 
@@ -4486,8 +4410,6 @@ tive discipline, the sentential calculus. This article was originally
 1 Whitehead, A. N., and Russell, IL (90).
 
 F U N D A M E N T A L C O N C E P T S O F
-
-V
 
 intended as the first part o f a m ore com prehensive paper. The
 discussion in the second part dealt w ith those deductive disci*
@@ -4705,8 +4627,6 @@ x e Cn(G(x)), G{x) e <£, and G(x) £ A for x e C
 
 are satisfied. (Since the set G is finite, the existence o f such a
 
-F U N D A M E N T A L CONCEPTS OF
-
 V, § 1
 
 correlation can be established w ithout using the axiom o f
@@ -4856,8 +4776,6 @@ case C ~ S). We then have:
 
 xetifto.e
 
-F U N D A M E N T A L CONCEPTS OF
-
 V, § 1
 
 {In other words, Axs. 1-4 remain valid if 'S' and 'Cn are every­
@@ -4977,8 +4895,6 @@ concepts can be established.
 In the first place an especially im portant category o f sets o f
 sentences w ill be singled out, nam ely the deductive systems.
 Every set o f sentences which contains all its consequences is
-
-F U N D A M E N T A L CONCEPTS OF
 
 V, 5 2
 
@@ -5252,8 +5168,6 @@ W e put
 
 is regarded as a sequence of type 0).
 
-F U N D A M E N T A L CONCEPTS OF
-
 V , § 3
 
 I t follow s from (2 )-(4 ) that
@@ -5402,8 +5316,6 @@ A sequence o f sentences which satisfies the condition (a ) o f
 Th. 16 could be called cardinally independent; if at the same time
 the form ula (/?) is satisfied, then this sequence is to be called an
 
-F U N D A M E N T A L CONCEPTS OF
-
 V, § 3
 
 ordered basis o f the set A o f sentences. In this term inology the
@@ -5550,8 +5462,6 @@ Theorem 4 (or of Cor. 5) and if ^ X e f t , then
 Proof. B y Th. 22 it follow s from the hypothesis that
 
 * M & * ) * ° -
-
-F U N D A M E N T A L CONCEPTS OF
 
 V , § 4
 
@@ -5700,8 +5610,6 @@ satisfies both of the formulas (a) and (ft) of Th. 16, and in addition
 i c S ; (y) there is a sequence of sentences x v of the type n < a>,
 which satisfies both of these formulas.
 
-F U N D A M E N T A L CONCEPTS OF
-
 V ,§ 4
 
 Proof. I f the condition (a) holds, then b y Th. 20 c we have
@@ -5829,19 +5737,13 @@ Consider now a sequence o f sets X v o f the kind described
 
 in (10) (with the reference to (a ') om itted). Put
 
-(11)
-
 R = E[v < a>].
 
 From (10) and (11) it follow s at once that
 
-(12)
-
 and that
 
 Xe&
-
-(13)
 
 the doss R satisfies condition (a) of Cor. 5.
 
@@ -5849,12 +5751,8 @@ Since further b y (10) and (11) 51 £ <3, we infer from (13) and
 
 (12) b y means o f Th. 12 that
 
-(14)
-
 A — T I e S .
 x3t
-
-F U N D A M E N T A L CONCEPTS OF
 
 V, $4
 
@@ -5974,8 +5872,6 @@ B y Defe. 4 and 2 it follow s that:
 A £ S.
 
 + See X II, Ths. 37 and 38 (p. 367}.
-
-F U N D A M E N T A L CONCEPTS OF
 
 V , { 5
 
@@ -6104,8 +6000,6 @@ Proof. According to Th. 32 (or else 31) the hypothesis gives
 (1)
 
 A £ S.
-
-F U N D A M E N T A L CONCEPTS OF
 
 V, § 5
 
@@ -6267,8 +6161,6 @@ S
 
 [Th. 36, Cor. 28, Th. 30]
 
-F U N D A M E N T A L CONCEPTS OF
-
 V ,§ 6
 
 I t is to be noted that within alm ost all deductive disciplines,
@@ -6399,8 +6291,6 @@ and D ef. 36, (a) follow s from (y). A ccordingly the form ulas
 
 1 Of. Tarski, A . (71), p. 49 (Def. 3).
 
-F U N D A M E N T A L CONCEPTS OF
-
 V , $ 5
 
 B y the corollary just established (or b y Th. 42) every axiom atizable set o f sentences possesses at least one basis. This result
@@ -6518,8 +6408,6 @@ and
 
 (4)
 
-F U N D A M E N T A L CONCEPTS OF
-
 V, J 6
 
 X e $tq(.4).
@@ -6622,8 +6510,6 @@ corresponds to FraenkeFs Entscheidungedefinitheit.
 
 For later developments in this, domain consult Tarski, A. (84).
 
-F U N D A M E N T A L CONCEPTS OF
-
 V , § 7
 
 widespread, perhaps intuitively plausible, bu t not always strictly
@@ -6659,8 +6545,6 @@ D efin itio n 7. (a) Cent(4 ) = Cn{A)+S. E [A + {x} g SB].
 
 (6) 35 = $ (8). E[<£ni(X) = &].
 x
-
-X
 
 1 See Fraenkel, A. (16), pp. 347-54.
 a Since this article first appeared in print, several important contributions
@@ -6728,8 +6612,6 @@ x
 
 l s . M X + { x } e 2B]).
 }
-
-X
 
 A ccording to A x. 4 we have further
 
@@ -6811,8 +6693,6 @@ From these considerations we conclude at once that
 
 b y D ef. 7 b, (a.) gives also the inclusion A £ S. I t is thus proved
 that
-
-( 1)
 
 (jS) follows from (a).
 
@@ -7036,21 +6916,15 @@ A ccordingly we have
 
 Y e 2B, or, b y (6),
 
-(11)
-
 X e 2 B .
 
 From (4 )-(6 ) we obtain the form ula
-
-(12)
 
 X ~ A + E [ i i < i r ] .
 *a^
 
 B y an indirect argum ent (analogous to the one used in refuting
 the assum ption (9) in the p roof o f Th. 16) w® easily infer from
-
-F U N D A M E N T A L CONCEPTS OF
 
 V, $ 7
 
@@ -7061,8 +6935,6 @@ num ber v < n w hich satisfies the form ula
 B y virtue o f (9) and Th. 46 a we have a fortiori X-{-{xv} e 2B.
 H ence b y ( 1) and ( 12) we obtain
 
-(13)
-
 for every x e S either x e X or
 
 e 2B.
@@ -7070,8 +6942,6 @@ e 2B.
 A ccording to (11) and (13) the set X satisfies the condition
 
 (jS) o f Th. 53 (for A = X ); consequently,
-
-(14)
 
 Z e S . 2 B . S .
 
@@ -7183,8 +7053,6 @@ x v e X v+1—X v
 f o r v < £ .
 
 (This correlation does not require the axiom o f choice since by
-
-F U N D A M E N T A L CONCEPTS OF
 
 V, 5 8
 
@@ -7462,8 +7330,6 @@ for every set X £ 8.
 B y an easy argument (which is com pletely analogous with the
 derivation o f (3) in the previous proof) we infer from Th. 6 with
 
-F U N D A M E N T A L CONCEPTS OF
-
 v,s$
 
 the help o f (1) and (2) that A xs. 1-4 as well as all their con­
@@ -7557,8 +7423,6 @@ for every it < at. A ccordingly
 
 e
 
-(10)
-
 ft = X 0.
 
 In view o f D ef. 8 a the form ulas (9) and (10) give the required
@@ -7602,8 +7466,6 @@ h U p S > y ( A )— 1 + 1 =a y { A ), which bv Def. 8 5 gives the
 formula y{A) ^ g(x4). Finally, if we have to < v(J. j <; fi. then
 y ( 2 ) - K 0 and, b y Th. 636, $(A) ^ K0; from this again the
 
-F U N D A M E N T A L CONCEPTS OF
-
 V , § 8
 
 conclusion follow s: y(A) < g(^4). Since b y Th. 61 and the hypo­
@@ -7625,8 +7487,6 @@ y(A)
 Proof. Let us suppose, in contradiction with the conclusion,
 
 that for a certain set A
-
-( 1)
 
 y ( A ) ^ 7 r + l .
 
@@ -7705,8 +7565,6 @@ m ent is based upon logically stronger (though more special)
 assumptions, various results obtained here can he supplemented
 and im proved.
 
-VI
-
 O N D E F I N A B L E S E T S O F R E A L
 
 N U M B E R S !
@@ -7754,8 +7612,6 @@ original te^t. Ths most, important addition has been made in § 2, after Th. 6 ;
 s?-e in this oormesicix footnote 7 on p. 120.
 
 ^nB^rc^ifS
-
-VI
 
 ON D E F IN A B L E SETS OF R E A L NUMBERS
 
@@ -8030,8 +7886,6 @@ bound (or apparent) variables. The precise distinction between
 these tw o kinds presents no difficulty.1 Thus in the function
 TT((* e Y) -f- (x e Z )) 5 the variables (Y 9 and (Z* are free and V is
 
-X
-
 bound. Sentential functions which are devoid o f free variables,
 like the expression 'T XI (x ^ X )\ are called sentences.
 
@@ -8169,8 +8023,6 @@ are, respectively
 
 *)•«(*)}' > etc* A relatively simple
 
-V
-
 *2 2
 V *
 
@@ -8285,8 +8137,6 @@ com posed o f the elements x ,
 
 In particular, the sym bols
 
-X
-
 the set o f all objects x which satisfy the condition <f>. The
 sym bol 'N t9 denotes the set o f all natural numbers (zero in­
 cluded) and the sym bol lRV that o f all real numbers. Further,
@@ -8301,8 +8151,6 @@ finite sequence w ill first be considered more closely.
 
 Let r be any binary relation. B y the domain of the relation r9
 in sym bols D(r), I understand the set E {there exists a y such
-
-X
 
 that xry). The counter domain (or range) d{r) is. defined b y the
 form ula <T(r) = E {there exists an x such that xry). The relation r
@@ -8599,7 +8447,7 @@ term sx whioh is a non-negative real num ber; the set
 
 i® com posed o f all sequences with tw o identical
 
-terms s1 = s2; JX Mlfi is the em pty set, and J J
+terms s1 = s2; JX Mlfiis the em pty set, and J J
 
 -?-& ■> «) is the
 
@@ -8692,7 +8540,6 @@ denoted by the symbol j-S .
 D e f i n i t i o n 8 .
 
 - S
-L
 
 Sf. E (there exists a sequence s e S such
 
@@ -8757,7 +8604,6 @@ a certain operation, which I have not had occasion to m ention
 in § 1, corresponds to the operation jS . This is the operation
 
 k
-V
 
 for the free variable 'of®' in
 o f substituting (he free variable
@@ -8767,10 +8613,7 @@ tuting in the sentential function
 
 the free variable 'y ' for the free variable V we obtain
 
-X
-
 'A y , y ) - 1 o { x , y , z ) \
-X
 
 These functions determ ine the sets o f sequences
 
@@ -8794,8 +8637,6 @@ fam ilies o f sets X which satisfy the follow ing conditions:
 and m ; (j8) if S 6 X , then 8 e X ; (y) i£ 8 e X and T e X , then
 
 S-i-T e X and S t T e X ; (8) if k e Nt and 8 e X, then f S e X
-
-V
 
 a a d ^ S e X .
 
@@ -8921,10 +8762,6 @@ I shall now give som e concrete exam ples:
 1. L et A be a set consisting o f the single number 0. W e see
 at once that A — E(x — z-f-.r), i.e. that A — Eo{x,x,x). B y
 
-X
-
-X
-
 transform ing this form ula in the way just described we obtain
 A = D(Sltl'j), so that A e 2 .
 
@@ -8934,8 +8771,6 @@ and there exists a y such
 established, we have A = E {x =£
 
 that y < x and y = y + y ) , i.e.
-
-X
 
 A = E(o { x, x, x). J,{ti(y,x).a{y,y,y))\,
 y
@@ -8954,12 +8789,9 @@ A s 2$.
 
 3. Finally let A — E (0 < x < 1). W e transform this form ula
 
-X
 successively as follow s:
 
 A — E (ithere exist y and z such that y < x, y = y + y 9
-
-X
 
 x < z, and z = 1)
 
@@ -8991,8 +8823,6 @@ ing transform ation o f this form ula
 ^ = ^ 2 2 ( a(y,x,z). o(y.y,y).v(z)) — E (there exist y
 
 X v Z
-
-X
 
 and z such that y = x-\-z, y = y + y , and z — 1).
 
@@ -9093,17 +8923,10 @@ algebra.
 
 Sets o f numbers o f the follow ing types: E (x = a), E ( x > a),
 
-X
-
 E( x < a), and E( a < x < 6),2 where a and b are tw o arbitrary
-X
 rational numbers, I shall call intervals with rational end points.
 With this convention we can easily deduce from Th. 1 the follow­
 ing corollary concerning the family
-
-X
-
-X
 
 1 Sum and produot may here be understood rather in the sense of Def. 6
 (and the condition of the common counter domain is then superfluous) than
@@ -9114,8 +8937,6 @@ in the ordinary sense of the algebra of sets.
 eto., but this is not indispensable here.
 
 *
-
-X
 
 IS4
 
@@ -9566,8 +9387,6 @@ the modified construction would have some defects from the
 standpoint of applications, and its heuristic value might pos­
 sibly be diminished.
 
-VII
-
 L O G I C A L O P E R A T I O N S A N D
 
 P R O J E C T I V E S E T S f
@@ -9652,13 +9471,9 @@ j8' ) represents the logical product o f these sentences.
 
 I f <f>(x) represents a sentential function, then 2 4>(x) 18 read
 
-X
-
 'there exists an x such that <f>(x)', J I <j>(x) is read 'for every x we
 
 have
-
-X
 
 I f A and B represent two sets (of real numbers), and A x
 represent;* a set dependent on a parameter x, then the following
@@ -9681,11 +9496,6 @@ equivalences hold:
 ( x e A ) . ( x e B ) = = x e A . B ,
 
 2 ( t e A x) = = t e ' Z A x,
-X
-
-X
-
-X
 
 =
 
@@ -9720,8 +9530,6 @@ Remembering the formula
 
 t e E<f>(x) = m
 
-X
-
 which defines the operation E, we can easily deduce, from the
 preceding formulas, the following identities:
 
@@ -9731,23 +9539,12 @@ preceding formulas, the following identities:
 
 (9)
 
-(10)
-
-(11)
-
 E(<f,(x))' =
 
-X
-
-X
 = E<f>(x) . Eiftipc),
-X
 
 E(4>(x)+>/i(x)) = E<j>{x)4-Eijj{x),
-X
 E(<f>(x)
-X
-X
 E 2 <f>(x, y) = 2
 x y
 y x
@@ -9766,21 +9563,13 @@ By (6), t e E 'Z <f>(x,y) == 2 4>(t>y)- Denoting by A y the set
 v
 
 Eif>(x,y) we have, according to (6),
-X
 whence, by (4),
 
 y) = teE<f>(x,y) = t e A y,
 
-X
-
 2,<f>(t,y) ss 2 < e d y = t e ^ A y = t e j , E<j>(x,y).
-V
 
 V X
-
-V
-
-V
 
 §2. Loqico-matsbmatioal Duality
 
@@ -9792,13 +9581,7 @@ able from the functions
 <f>k (with different variables or
 not) by applying the five logical operations, then the set E<x(x)
 
-X
-
 is obtained in the same way from the sets E<f>v ..., E<f>k.x
-
-X
-
-X
 
 1 This justifies the use of the same symbols in two senses, logical and
 mathematical, without danger of misunderstanding. We thus see that the
@@ -9883,8 +9666,6 @@ the set of non-negative numbers = E(x ^ 0) = E 2
 = y2)
 
 = the projection parallel to the Y axis o f the parabola E(x = t/2).
-
-X
 
 x y
 
@@ -9993,8 +9774,6 @@ a projective set;
 
 (c) if E<f>(x) is projective, so also is E<f>{x)-,z
 
-X
-
 X V
 
 (d) the projection o f a projective set is a projective set.
@@ -10013,13 +9792,9 @@ negation, summation, and the operation 2*
 
 Now, (1) I f the function <f>(x) is projective, the set E<f>(x) is
 
-X
-
 likewise projective; for by (a) [E<f>(x)^' is projective, from which,
 
 by (7), E(<f>(x)Y is likewise projective, that is to say the function
-
-X
 
 (<f>(x))' is projective.
 
@@ -10199,8 +9974,6 @@ By means o f implicit definitions we are able to pass out of
 the domain o f projective sets. They lead to a new class o f sets,
 implicitly protective sets which it would be interesting to study.
 
-VIII
-
 T H E C O N C E P T O F T R U T H I N
 F O R M A L I Z E D L A N G U A G E S !
 
@@ -10289,8 +10062,6 @@ Hpeatedly consulted this book and in many points adhered to the terminology
 there suggested).
 
 154 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES
-
-VIII
 
 definition in the case o f each o f these languages. In §§ 2 and 3
 I shall cany out this construction for a concrete language in full
@@ -12199,7 +11970,7 @@ the functions f t 2 *1,2 a:ad fl2*2,s
 are satisfied b y those, and on ly those, sequences / in which f t
 is the null class and / 3 the universal class (i.e. the class o f all
 individuals) respectively; finally, every infinite sequence o f
-classes satisfies the function tlfl and no such sequence satisfies
+classes satisfies the function tlfland no such sequence satisfies
 
 the function t1>2. t1>2.
 
@@ -12572,7 +12343,7 @@ D e fin itio n 24. The sequence f satisfies the sentential function x
 in the individual dom ain a if and only if a is a class of individuals,
 / an infinite sequence of subclasses of the class a and x a sentential
 function satisfying one of the following four conditions: (a) there
-exist natural numbers k and l such that x = ikfl andfk £ fy (/}) there
+exist natural numbers k and l such that x = ikflandfk £ fy (/}) there
 is a sentential function y such that x = y and the sequencef does not
 satisfy y in the individual domain a; (y) there are sentential func­
 tions y and z such that x = y-\-z and f satisfies either y or z in the
@@ -16179,8 +15950,6 @@ p . 247, footnote); it m ay be mentioned that the result so reached, which
 very much completed m y work, was the only one subsequently added
 to the otherwise already finished investigation.
 
-IX
-
 S O M E O B S E R V A T I O N S O N T H E
 
 C O N C E P T S O F ^ - C O N S I S T E N C Y A N D
@@ -16232,8 +16001,6 @@ TH E CONCEPTS OF
 
 C O N SISTE N C Y
 
-IX
-
 In our language two kinds o f signs oocur: constants and
 variables. Three constants suffice: the negation sign <N \1 the
 sign o f im plication CC' and the universal quantifier '(Q \ On
@@ -16279,8 +16046,6 @@ pline, the so-called metadiscipline♦ In order to avoid unnecessary
 1 The negation sign <jan be dispensed with and serves only to simplify the
 
 discussion, Regarding symbolism see IV .
-
-IX
 
 AN D ^-C O M P L E T E N E SS
 
@@ -16332,8 +16097,6 @@ below, Ax. 4) the omission of the brackets in expressions of the form ' (£^1 7 
 ((£^17)^ 8 ) ^ ' cannot give rise to> any misunderstandings.
 
 TH E CONCEPTS OF ^-C O N S IS T E N C Y
-
-IX
 
 be out o f place here to introduce explicitly the full system o f
 axiom s o f the second kind (although it will not be possible within
@@ -16495,8 +16258,6 @@ o » d £ = n f c ~ n f c *
 
 TH E CONCEPTS OP ^-C O N S IS T E N C Y
 
-IX
-
 D efin itio n 4. (a) £ =
 
 X *8 'Ae atom ic sentence with the
@@ -16575,8 +16336,6 @@ tence 17 e 5 encA that £ — u ? + i n ? ( 4 i o *2}, wdtere
 expression ' sentence* should be reserved for those sentential functions whioh
 contain no free variables (see below, Def. 8).
 
-IX
-
 A N D a>-COMPLETENESS
 
 The sentences w hich satisfy condition (1) in the above defini­
@@ -16639,8 +16398,6 @@ axiom system. In connexion with Ths. 2 and 3, cf. H I.
 
 T H E CONCEPTS OF «>.C O N SISTE N C Y
 
-IX
-
 T heorem 1. (a) I f X s S, then X £ Cn(X) £ 8;
 (6) if X £ 8, then Gn(Cn(X)) = On(X);
 (c) if X £ Y £ 8 or X £ Gn(Y) and Y £ 8, then
@@ -16700,8 +16457,6 @@ to the m ethodology o f the deductive sciences can b e defined by
 means o f the concepts o f m eaningful sentence and o f corn
 sequence. In particular this is the case for the concepts o f a
 deductive system and o f consistency and completeness-.
-
-IX
 
 AND a>.COMPLETENESS
 
@@ -16767,8 +16522,6 @@ o f a single elem ent; the sentence /?£ means that the set denoted
 b y the sym bol <f>% contains at m ost n elements; likewise Sk means
 
 T H E CONCEPTS OF oi-CGNSISTENCY
-
-IX
 
 that this set is finite (inductive in the sense o f Principia Mathe­
 matical).
@@ -16892,8 +16645,6 @@ obtained
 
 T H E CONCEPTS OF ^.-CON SISTENCY
 
-IX
-
 establishes a one-many correspondence between elements o f the
 set 8 and the set 8V
 
@@ -16943,8 +16694,6 @@ expansion o f the number 2—1),
 (in other words/(£
 
 17) — 0, if/(£ ) = 1 and/(i?) — 0, and in the
-
-IX
 
 AND « ' COMPLETENESS
 
@@ -17015,8 +16764,6 @@ a00 e C »^ 2o{a"})-
 individual domain of n - f 1 elements.
 
 T H E CONCEPTS OF &>-C O N SIST E N C Y
-
-IX
 
 With the help of (1 ) and (4), Def. 126 with X —
 
@@ -17092,8 +16839,6 @@ analogous to those o f T'^, it being assumed that- J7, g 33.
 
 e 3 .3 3 —2B*,,
 
-IX
-
 AND ^-C O M P LE T E N E SS
 
 The system
@@ -17155,8 +16900,6 @@ m ethods o f inference. B ut that is not all. The p roof o f con-
 
 TH E CONCEPTS OF ^-C O N S IS T E N C Y
 
-IX
-
 sistenoy for the 'potentially infinitistio' system Tu is already
 im plicit in the p ro o f o f Th. 6 a (of. Th. 4a) and so presents no
 special difficulties. B u t from G odei's investigations it follows
@@ -17209,8 +16952,6 @@ improbable.
 
 f ) f (Sj
 
-IX
-
 AND ou-COMPLETENESS
 
 and the usual consistency will coincide with co-consistency, B ut
@@ -17256,8 +16997,6 @@ remarks as originally formulated lose their validity and the whole paragraph
 requires a thorough revision. Compare, in this connexion, article VTH, Post­
 script, p p .274 ff.
 
-X
-
 S O M E M E T H O D O L O G I C A L
 
 I N V E S T I G A T I O N S O N T H E
@@ -17297,8 +17036,6 @@ nad definiowalno6c$ terminbw* in Przeglqd Fllozoficzny, vol. 37 (1934), pp. 438-
 in Erkenntnis, vol. 5 (1935), pp. 80-100. The present version is a translation
 of the German one supplemented by some passages translated from the Polish
 original. Further historical references are contained in footnote 1, p. 297.
-
-X
 
 TH E D E F IN A B I L IT Y OF CONCEPTS
 
@@ -17349,8 +17086,6 @@ o f this system does not satisfy the present-day requirements o f methodology.
 (10), pp. 98-101.
 
 M E TH O D O LO G IC AL IN V E S T IG A T IO N S ON
-
-X
 
 type. Sentential functions in which n o real variables occur are
 called sentences. A m ong sentences logically provable sentences
@@ -17498,8 +17233,6 @@ occur in this ar tiole.
 
 X , § !
 
-TH E D E F IN A B IL IT Y OF CONCEPTS
-
 T heorem: I. In order that the term 'a* should be definable by
 means of the terms of the set B on the basis of the set X of sentences,
 it is necessary and sufficient that the formula
@@ -17627,15 +17360,11 @@ yields
 
 whence
 
-(10)
-
 (x, x\ y\ y ',.." z', as',,..) z.tfi{x'i y', y ',...; 2', 2',...). 3 :
 
 d .(3s', 2V.).^(*}y', y',...; z', 2',...),
 
 From (8) and (10) we obtain step by step the formulas:
-
-(11)
 
 (*, * f, y', y ',..., 2', 2*,.-)
 jN
@@ -17676,20 +17405,14 @@ S
 • a :
 *U*
 
-V
-
 •
 0• 0
-
-(12)
 
 ( » , y , y >•••> 2 , 2 ,...) ..^ ( 2 1 y 1 y »•••> 2 , 2 ,,..). 3 :
 
 : (x) :x ***
 
 s= .(3*', z',.,.).^(as; y', y ',...; z', *',...);
-
-(13)
 
 b', 6 ',..,; o', c ',...). 3 : (x) zx = 0 .
 
@@ -17713,8 +17436,6 @@ mainder to the problem o f the derivability of sentences.
 The next theorem is essentially a transformation of Th. 1.
 
 x . ! i
-
-TH E D E F IN A B IL IT Y OF CONCEPTS
 
 T eeo bbm 2. In order that the term 'a' should be definable by
 means of the terms of the set B on (he basis of the set X of sentences,
@@ -17896,8 +17617,6 @@ the place of *X' keeping in mind the remark which follows Th. 4 in that article.
 
 X , § 1
 
-TH E D E F IN A B IL IT Y OF CONCEPTS
-
 Th. 3 constitutes the proper theoretical foundation for the
 m ethod o f P adoa. In fact, in order to establish, on the basis o f
 this theorem , that the term V is not definable b y means o f the
@@ -18049,8 +17768,6 @@ for the two conditions for a correot definition— consistency and re-tranalatab
 
 SOS
 
-M E TH O D O LO G IC AL IN V E S T IG A T IO N S ON
-
 X , § 1
 
 now easily be shown that the definition of the concept of defina­
@@ -18128,7 +17845,6 @@ so long as they are both o f the same type. The precise sense
 of the expression V T^x"' will depend upon the logical type
 o f the variables V ' and 'x *r. We shall explain it for only a
 few cases. For example, if x : and x n are individuals, then
-V
 x'ft has the same meaning as 'x'Rxni (i.e. V stands in the
 relation li to r/'), i f fx f' and V '5 denote classes o f individuals,
 then the expression has the same sense as the sentential function
@@ -18155,8 +17871,6 @@ in it. Jt as® thus be asserted th&t the meaning o f the constant jh question, i
 not at all determined by the set Y o f sentences.,
 
 8 Of. for example Yeblen, O. (86).
-
-M E TH O D O LO G IC AL IN V E S T IG A T IO N S ON
 
 X , | 3
 
@@ -18235,8 +17949,6 @@ the class o f all individuals onto itself. The sets o f sentences which are cate
 
 x , J 2
 
-TH E D E F IN A B IL IT Y OF CONCEPTS
-
 On various grounds, which will not be entered into further,
 great importance is ascribed to categorioity. A non-oategorical
 set o f sentences (especially if it is used as an axiom system o f
@@ -18282,8 +17994,6 @@ sponding f-concept can also be defined.
 3 This is only exact if the axiom system of arithmetic contains sentences
 
 to the effect that every individual is a number (cf. p. 310, note 2).
-
-M E TH O D O LO G IC AL IN V E S T IG A T IO N S ON
 
 X , § 2
 
@@ -18501,7 +18211,6 @@ From the categoricity o f 7 it follows that the form ula
 
 2 .( a s ) . jb~X ' , y , ~ ;
 
-V
 A.*
 i y »»••* ^ 5 ^
 
@@ -18537,8 +18246,6 @@ x, y,..., u , v ,...
 »
 
 3ie
-
-M E TH O D O LO G IC AL IN V E S T IG A T IO N S ON
 
 X , J 2
 
@@ -18590,8 +18297,6 @@ u", v",.
 
 Finally, it is easy to see that the sentence
 
-(11)
-
 * •«' =»
 
 is logically provable, and in fact independently of the logical
@@ -18615,8 +18320,6 @@ respect to specific terms. Hence it is impossible to construct
 for the set X a categorical set of sentences-which is essentially
 
 X , § 2
-
-TH E D E F IN A B IL IT Y OF CONCEPTS
 
 richer than X . The set X o f sentences is thus com plete with
 respect to its specific terms, which was to be proved.
@@ -18705,8 +18408,6 @@ physical theories in which the basio system o f geom etry is
 
 X , 8 2
 
-TH E D E F IN A B IL IT Y OF CONCEPTS
-
 »1«
 
 neither strictly oategorical nor categorical in the usual sense
@@ -18715,8 +18416,6 @@ ceived ju st as special chapters o f geom etry. N aturally the diffi­
 culties do not here vanish, only the centre o f gravity is shifted:
 it lies m the problem o f providing the basic geom etry w ith a
 categorical axiom system.
-
-XI
 
 O N T H E F O U N D A T I O N S O F
 
@@ -18912,19 +18611,11 @@ expressions appear in Post. 2t10.
 
 X I, I 1
 
-B O O L E A N A L G E B R A
-
 P o stu la te 3l10. I f x e B and X £ B, then
 
 (a) x . T y — y ( x . y ) ;
 
-y e X
-
-y e X
-
 (b) x + n y = IT (* + y )-
-
-y e X
 
 y e x
 
@@ -18994,8 +18685,6 @@ X I, §1
 
 include in this list one o f the following expressions: 'x < y\
 'x + y ', 'x.y \ ' T y \ or * JT y\ in order to be able to define all
-
-y e X
 
 v e x .
 
@@ -19170,8 +18859,6 @@ from the Posts. 9I1-9I10, q.e.d.
 
 X I, §1
 
-B O O L E A N A L G E B R A
-
 II, The p ro o f in the opposite direction likewise presents no
 
 great difficulties.
@@ -19301,8 +18988,6 @@ over, we rem ind ourselves that in establishing 2t8 it was proved
 
 X I, s l
 
-B O O L E A N A L G E B R A
-
 that the elem ent % which satisfies the conclusion o f P ost.
 identical w ith Y j/. W e can thus state the follow ing:
 
@@ -19326,8 +19011,6 @@ v«x
 
 for every z e X, and thus b y 3t|
 
-(12)
-
 Y > . y ) < *•
 vex
 
@@ -19336,10 +19019,6 @@ iS t
 Should the opposite inclusion n ot hold, then b y ( 10) there
 
 w ould be an elem ent z e B such that
-
-(13)
-
-(14)
 
 2 < x. T y and z . y ( x . y ) ~ 0 ;
 
@@ -19371,10 +19050,6 @@ im m ediately derive 2l£. On the other hand 2l£0 m ust be
 proved w ith the help o f a m ethod analogous to that used for
 (The inclusion x + T lV < TT \x ^rV) follow s easily
 P ost. 21J0.
-
-y e X
-
-y e X
 
 from 2l9, 2Is, and $ 2; to prove the opposite inclusion we em ploy
 an indirect m ode o f argument m aking essential use o f (10) as
@@ -19450,8 +19125,6 @@ T h e o b e m 2 . The postulate system [3 3 * -© 4] is equivalent to the
 system which consists of © 2 an& the following -sentence:
 
 X I, § 1
-
-B O O L E A N A L G E B R A
 
 P ostulate 33*. I f X £ J3, then there is exactly one element
 
@@ -19567,8 +19240,6 @@ o f Lem m a 5.
 
 X I, J1
 
-B O O L E A N A L G E B R A
-
 T o prove 33s we proceed indirectly: we assume that this postu­
 late is n ot satisfied, thus that (a) x non-< y and that never­
 theless, in view o f (1), (/3) for every z e B the form ulas z < x
@@ -19673,8 +19344,6 @@ those formulated here in Th. 3. Instead of the expression ' atom' SchrSder
 uses the term ' Individual* (in German).
 
 X I, 5 2
-
-B O O L E A N A L G E B R A
 
 In connexion w ith D ef. (£ a whole series o f questions arises:
 D o atom s exist at all? I f so, are atom s included in every
@@ -19834,8 +19503,6 @@ be derived from
 
 X I, § 2
 
-B O O L E A N A L G E B R A
-
 first be replaced b y tbe condition 'there is an element z e B such
 that x non-< z\ and sim ilarly for the form ula fy ^ O'), P ost. S *
 can also be elim inated from the system if we strengthen
@@ -19948,8 +19615,6 @@ elem ent o f the set B. F or every set X e Si we have
 ]T z = x . y + x . y f = x . ( y + y f) = x . l = x,
 
 X I, § 2
-
-B O O L E A N A L G E B R A
 
 whence we obtain at once
 
@@ -20104,8 +19769,6 @@ obtained in an analogous manner from
 
 X I, § 2
 
-B O O L E A N A L G E B R A
-
 5, and 6, and presents no difficulty. I f b y Si we understand the
 class o f all subsets o f the set E, we at once obtain ©2 from (£*.
 The derivation o f the Posts. 23-t-®4 and D from (g2 is somewhat
@@ -20144,8 +19807,6 @@ expressions. A model for such a system is provided by the family of ail regular
 open sets of a Euclidean space and the relation of set-theoretical inclusion. In
 view of the remarks made above in p. 333, footnote, this follows immediately
 from the discussion in II, in particular, from Th.
-
-XII
 
 F O U N D A T I O N S O F T H E C A L C U L U S
 
@@ -20354,8 +20015,6 @@ in Th. 1 one of the formulations of the so-called deduction theorem. In fact
 this is just the form in which the deduction theorem was first established by
 the author in 1921; see HE, p. 32, footnote
 
-F O U N D A T IO N S OF TH E
-
 XII, § 1
 
 I f the system o f logic on which we base deductive theories is
@@ -20409,8 +20068,6 @@ theorems. F inally we can thus assert that the tw o systems of
 axiom s and prim itive notions are equivalent.
 
 XII, § 2
-
-CALCULUS OF SYSTEM S
 
 § 2 . T h e C a l c u l u s o f S y s t e m s
 
@@ -20535,8 +20192,6 @@ I-V T I are satisfied.
 
 X II, § 2
 
-CALCULUS OF SYSTEM S
-
 It is to be noted in connexion with this theorem that the
 sym bols 'O' and ' T o f the algebra o f logic cannot be 'effectively'
 interpreted on our foundations, for we cannot define a single
@@ -20639,8 +20294,6 @@ Stone, M. H . (67) and (69).
 
 xn, §2
 
-CALCULUS OF SYSTEM S
-
 tion, for this last operation when applied to system s, does not
 in general yield a new deductive system ;1 the same holds for
 the operation o f com plem entation.
@@ -20697,8 +20350,6 @@ law.
 The breakdow n o f the law o f excluded m iddle has further
 
 1 Cf. I l l , p. 33, Th, 7+; V, p.. 71, Th. 12 and the remarks added to it.
-
-F O U N D A T IO N S OF TH E
 
 XII, § 2
 
@@ -20761,8 +20412,6 @@ cular $ 5 ; of. also Stone, M. H . (70).
 
 X II, § 2
 
-CALCULUS OF SYSTEM S
-
 (the set S is regarded as the product o f the em pty class). On the
 other hand the definition o f the logical sum of systems of the class
 ft, sym bolically ^ F , form s the natural generalization o f D ef. 6:
@@ -20819,8 +20468,6 @@ Theorems o f the calculus o f systems are also known which
 1 These lews are not even valid in the extended system of the algebra of
 
 logic; cf. article X I of the present work, § 2, especially pp. 337-9.
-
-F O U N D A T IO N S OF TH E
 
 X II, §2
 
@@ -20976,8 +20623,6 @@ tizable syBtems.
 
 XII, § 3
 
-CALCULUS OF SYSTEM S
-
 o f a simple characterization o f those systems which obey the
 law o f excluded m iddle is com pletely solved in Th. 17. Below
 (in Ths. 23, 24, and 26) we shall find answers to analogous
@@ -21025,8 +20670,6 @@ deductive systems, classes o f systems and relations between
 (28) (cf. p. 514, note 1):
 
 H:oV6. Vl(oV6):A:aA&.Vl(oA6): O .*Vla.\ . bV"|5.
-
-F O U N D A T IO N S OF TH E
 
 XII, 5 3
 
@@ -21095,8 +20738,6 @@ these postulates in the development of this calculus* see Tarski (80).
 
 x n , { 3
 
-CALCULUS OF SYSTEM S
-
 the follow ing postulates suifioe for the foundation o f the whole
 oalculus o f system s: Posts. la , V ill a , and X a , whioh were
 m entioned in Ths. 6 and 9, and The. 11, 13, and 19. (Post.
@@ -21156,8 +20797,6 @@ X £ X ;
 
 1 Cf. Hausdorff, F. (25), pp. 78 &
 
-F O U N D A T IO N S OF TH E
-
 XII, § 3
 
 T h e o r e m 2 0 . Let A be any deductive system; let X A = A .X
@@ -21209,8 +20848,6 @@ directions.
 and the accompanying remarks.
 
 XII, 5 3
-
-CALCULUS OF SYSTEM S
 
 A ll further theorems o f the present article are consequences o f
 
@@ -21330,8 +20967,6 @@ Def. 7 and Th. 17* and also V, pp, 88 f., especially Def. 6.
 
 X II, I 3
 
-CALCULUS OF SYSTEM S
-
 tion (y) is satisfied, then we speak o f a strictly increasing sequence
 o f sentences.
 
@@ -21382,8 +21017,6 @@ form : JT-f-jP = 8.
 I t follow s from Ths. 23, 24, and 26 that some theorems o f the
 calculus o f olasses w hich are n ot generally valid in the oaloulus
 
-F O U N D A T IO N S OF TH E
-
 XII, § 3
 
 of systems regain their validity when we assume for at least one
@@ -21429,8 +21062,6 @@ and structure of various kinds of deductive systems; in the
 formulations and proofs of these theorems two concepts occur
 
 XII, § 4
-
-CALCULUS OF SYSTEM S
 
 which have not yet been used in this article, nam ely the con­
 cepts o f an irreducible and o f a complete system . W e denote the
@@ -21556,8 +21187,6 @@ this section.
 
 xn, §4
 
-CALCULUS OF SYSTEM S
-
 T heorem 37. The following condition* are equivalent:
 ( i ) i < K0; (2) SB < N0; (3) there exists a natural number n such
 that 5 s= n and § = 2n; (4) there exists a natural number » such
@@ -21668,8 +21297,6 @@ present volume, pp. 100 ff., especially Def. 8.
 
 X II, § 4
 
-CALCULUS OF SYSTEM S
-
 trary deductive system as well. In case the degree o f com plete­
 ness o f a theory is finite, the structure o f the theory is very
 sim ple; as Th. 37 shows, all systems are then axiom atizable,
@@ -21759,8 +21386,6 @@ Fe©*.3
 
 FaCS-G*
 
-F O U N D A T IO N S OF TH E
-
 x n , § 4
 
 T o conclude this section we w ill disouse the concept o f the
@@ -21810,8 +21435,6 @@ Mostowski, A . (63c), pp. 34-68.
 
 xn, M
 
-CALCULUS OF SYSTEM S
-
 #71
 
 bers in question are subjeot to no further restrictions: given an
@@ -21854,8 +21477,6 @@ possible theories are already represented.
 
 We shall now illustrate our general discussion by examples
 o f some special deductive theories in whioh the mutual relations
-
-F O U N D A T IO N S OF TH E
 
 XII, § 5
 
@@ -21902,8 +21523,6 @@ A sentential function containing no free variables is called a
 * Cf. article TX, Def. 6, and article V III, Def. 11.
 
 X II, § 5
-
-CALCULUS OF SYSTEM S
 
 (meaningful) sentence; the set o f all sentences is denoted b y the
 sym bol 'S' .
@@ -21952,8 +21571,6 @@ as the totality of sentences which are accepted as true when we begin to develop
 the deductive theory under consideration (cf. § 1).
 
 * Cf. IX , p . 285; Y i n , p . 1 8 1 .
-
-F O U N D A T IO N S OF TH E
 
 X II, $ 5
 
@@ -22004,8 +21621,6 @@ applied to the theory of dense order by Langford, C. H . (45), pp. 16 ff. The
 facts given below concerning this theory supplement Langford's results.
 
 x n , §5
-
-CALCULUS OF SYSTEM S
 
 D x. i>2» i? i •
 and DX.D V Four others, the logical complements
@@ -22062,8 +21677,6 @@ order, we define a new sequence o f sentences in> nam ely:
 1 Langford, C. H . (45), pp, 459 ff., is concerned with a similar but more
 
 special theory, namely with the elementary theory of the ord&tr type a>.
-
-F O U N D A T IO N S OF TH E
 
 X II, § 6
 
@@ -22124,8 +21737,6 @@ in the case now discussed as it was in the previous One).
 
 x n , § s
 
-CALCULUS OF SYSTEM S
-
 natural numbers n19 n2,.-,n p form a n arbitrary finite increasing
 sequence; hence it follow s that 2t = K0. Systems ol the form
 4 1+ 4 , - r . . . + 4 , have a finite degree o f capacity equal to 2Py
@@ -22173,8 +21784,6 @@ and described in Th. 39.
 
 M any other examples o f deductive theories are known whose
 characteristic pair is (X0, 1) and which— in the sense o f the
-
-F O U N D A T IO N S OF TH E
 
 x n , § 5
 
@@ -22275,8 +21884,6 @@ Cg from the axiom system o f the general theory o f order, we
 
 K. V. ;32), and ¥111, p. 179.
 
-F O U N D A T IO N S OF TH E
-
 x n , § 5
 
 obtain a new theory with the characteristic pair (X0J 2*»), namely
@@ -22368,8 +21975,6 @@ Lowenheim ).
 1 Cf. Skolem, Th. (06), pp. 23 ff.
 * Cf. Hausdorff, F. (25), pp. 49 f.
 
-F O U N D A T IO N S OF TH E
-
 X II
 
 In a similar manner we reach the result at there can be only
@@ -22437,8 +22042,6 @@ developed in V I and V III, during the years 1929-30. The facts
 discussed in the appendix, together w ith other results o f a re­
 lated kind, were com m unicated b y me in 1932 in a lecture at
 the W arsaw Section o f the Polish M athem atical Society.
-
-XIII
 
 O N T H E L I M I T A T I O N S O F T H E
 
@@ -22918,8 +22521,6 @@ hom om orphic transform ation (o f the set x into another set a:').1
 
 1 Of. Kuratowski, C. (41), p. 13.
 
-XIV
-
 O N E X T E N S I O N S O F I N C O M P L E T E
 
 S Y S T E M S O F T H E S E N T E N T I A L C A L C U L U S f
@@ -22963,8 +22564,6 @@ mJUrgebniese eines mathematiecfien Kolloquiums, fascicule 7 (1934-6), pp. 61-07.
 
 ON E X T E N S IO N S OF IN CO M PLETE
 
-XIV
-
 o f forming an implication, b y means o f which from tw o given
 expressions a and b the im plication Gab is form ed. The inter­
 section o f all sets o f expressions which contain all the sentential
@@ -23007,8 +22606,6 @@ Various elem entary properties o f the above concepts $re
 assumed to be know n.1 In addition to the sym bols listed above
 
 1 Several such properties are established in article V of the present book.
-
-XIV
 
 SYSTEM S OP TH E S E N T E N T IA L CALCULUS
 
@@ -23183,8 +22780,6 @@ a Cf. IV , pp. 52-4.
 
 ON E X T E N S IO N S OF IN CO M PLETE
 
-XIV
-
 L emma 6. I f X 0 = { CpCqp, CpCCpqq, GCqrCCpqCpr} and
 Z = {jp}, then for every sentence a e 8bz(S) we have either
 a e Cn{X0) or both Cap e Cn(X0) and Cpa e Cn{X0).
@@ -23230,8 +22825,6 @@ for every sentence a e 8bz (S) we have either a e Cn(XQ) or
 Cap e Cn(X0); thus, if a does not belong to the set Cn(X0), then
 the set X 0+ { a} is inconsistent, since its set o f consequences
 contains both the sentences a and Cap, hence also the sentential
-
-XIV
 
 SYSTEM S OF T H E S E N T E N T IA L CALCULUS
 
@@ -23280,8 +22873,6 @@ sentential calculus, see (29a), p. 153.
 
 ON E X T E N S IO N S OF IN C O M P LE TE SYSTE M S
 
-XIV
-
 W e turn now to those system s o f the sentential calculus in
 w hich tw o constants oooux, the im plication sign and the negation
 sign. F or these we have
@@ -23324,8 +22915,6 @@ a This result was previously obtained for the many-valued systems of the
 sentential calculus by another method, cf. IV , p. 49, Th. 21 and the accom­
 panying footnote.
 
-XV
-
 T H E E S T A B L I S H M E N T O F
 
 S C I E N T I F I C S E M A N T I C S !
@@ -23367,8 +22956,6 @@ Acted du Congrla International de Philosophic Scientiflque, vol. 3 (Actuality
 Scientifiques et Induatrielles, vol. 390), Paris, 1936, pp. 1-8.
 
 E S T A B L ISH M E N T OF SC IE N T IF IC SEM AN TICS
-
-XV
 
 nom y o f the liar, the Grelling-N elson antinom y o f heterological
 terms and the R ichard antinom y o f definability.
@@ -23546,8 +23133,6 @@ is applied, bu t here it acquires a special im portance, as we see
 
 E S T A B L ISH M E N T OF S C IE N T IF IC SEM ANTICS
 
-XV
-
 from the sad experiences we have had with the semantical con­
 cepts in colloquial language. A part from the problem o f con­
 sistency, a m ethod o f constructing a theory does not seem to
@@ -23586,8 +23171,6 @@ line, the thesis just form ulated. I t can only be pointed out that
 it has been found useful, in defining the semantical concepts,
 to deal first with the concept o f satisfaction; both because a
 definition o f this concept presents relatively few difficulties, and
-
-XV
 
 E S T A B L ISH M E N T OF SC IE N T IF IC SEM ANTICS
 
@@ -23663,8 +23246,6 @@ to the present article, the second part contains polemical remarks regarding
 various objections which have been raised against my investigations in the
 field of semantics. It also includes some observations about the applicability
 of semantics to empirical sciences and their methodology.
-
-XVI
 
 O N T H E C O N C E P T O F L O G I C A L
 
@@ -24198,8 +23779,6 @@ concept o f consequence w ould— in part at least— be quite
 naturally reflected in such a com pulsory situation.
 
 1 Cf. Wittgenstein, L. (91), Carnap, R. (10), pp. 37-40.
-
-XVII
 
 S E N T E N T I A L C A L C U L U S A N D
 
@@ -24784,8 +24363,6 @@ construct a set B such that
 
 (9)
 
-(10)
-
 B e 0(8), B
 
 0, B £ A , and B ^ A,
@@ -24837,17 +24414,11 @@ the general case, m aking use o f the set B just uennad.
 
 W e first pu t, for every X £ 8,
 
-(11)
-
 X+ =
 
 Prom (11), 3.1, and 3.3, w e easily obtain the follow ing rules
 
 for calculating w ith the operation +:
-
-(12)
-
-(13)
 
 (X +)+ — X+ e <D(S) for every X £ S-,
 
@@ -24855,7 +24426,6 @@ X £ X+ and X =* X * for every X e ^ (jS);
 
 if X e 0{8), T s S and X s T , then X s
 
-(14)
 (15) if X 1+ . . . + X n £ 8 and the sets X ^ ..., X H are pair-wise
 
 disjoint, then (X 1-K » -i-X * )+ =
@@ -25204,8 +24774,6 @@ Proof. In accordance with 2.5 (and with the help o f 4.5, 4.6)
 we construct the functions F%oiS), F%0{S)9 and F$tQ(ig); we
 then have, for all sets X l9..., X n,... e @(S)9
 
-( 1)
-
 ^ FfB,o(S)(Xl9: ; X n,..>) -> F€%0(S)(Xl9.>.9 x n,...),
 
 and, since 91, 93 e ® (0 ($ )),
@@ -25434,8 +25002,6 @@ Proof. A coording to the premisses (a) and (/?), and in view
 o f 3.1, w e have B 2 B and B 2 A —B. whence B 2 A; and
 since A 2 B, we get
 
-( 1)
-
 A — B and A —A s B —B.
 
 From (y) and ({) w e obtain at once the conclusion (i):
@@ -25559,13 +25125,9 @@ I f now we com pare the premisses (e), (£) and the form ulas
 
 (4 )-(9 ) w ith 2.12 (i)-(v ), we see at once that
 
-(10)
-
 whence, b y 2.14,
 
 N = M*,
-
-(11)
 
 N is a matrix.
 
@@ -25743,8 +25305,6 @@ F (U ) a F(V)
 
 f o r U , V e 1 T « ;
 
-(11)
-
 F ( ~ nU) « - F(U) for U e #*».
 
 B
@@ -25763,8 +25323,6 @@ B
 (*))> (1)* aJid 4.17 (ii), P is thus a matrix. We also oondude—
 again from (4), (6), (9), (10), (11)—that the matrices P and Mn
 satisfy the conditions o f the definition 2.3; consequently we have
-
-(12)
 
 P is a matrix isomorphic with Mn.
 
@@ -25876,15 +25434,11 @@ B y (a), (/?), (1), (2), and (5 )-(9 ) the premisses o f 4.21 are satis­
 
 fied. Consequently we have
 
-(10)
-
 SP is a system of open sets X £ A ;
 
 ( 11)
 
 if X , Y e S* and X —Y ^ 0, then X —Y 2 B —B;
-
-(12)
 
 P is a matrix which is isomorphic with Mn.
 
@@ -25893,8 +25447,6 @@ X V H , $ 4
 S E N T E N T IA L C A L C U L U S A N D T O P O L O G Y
 
 L et
-
-(13)
 
 and N =
 
@@ -25907,8 +25459,6 @@ A
 B y (a), (l)-(4 ), and (9)—(13), the premisses o f 4.20 hold. Conse­
 
 quently,
-
-(14)
 
 (15)
 
@@ -26617,7 +26167,7 @@ bridge phU. Soc., xxix (1933), 441-6.
 
 cations X X V (revised ed.). (New York, 1948).
 
-(8) B. Carnap, Abrifi der LogisHk (Wien, 1929).
+(8) B. Carnap, Abrifider LogisHk (Wien, 1929).
 (9) B. Carnap, ' Bericht fiber Untersuchungen zur allgemeinen Axiomatik*, Erleenntnis, i (1930), 303-7.
 
 (10) B. Carnap, Logisohe Syntax der Spraehe (Wien, 1934).
@@ -26731,8 +26281,6 @@ algebra o f logic', Trans. Amer. math. Soc., v (1904), 288-309.
 (33) E. V. H untington, ' A set of postulates for abstract geometryexposed in terms of the simple relation o f inclusion ', Math. Ann.,
 lxxiii (1916), 522-59.
 
-B IB L IO G R A P H Y
-
 (34) E . V. H untington, ' New sets of independent postulates for the
 algebra of logic*, Trans. Amer. math. Soc., xxxv (1933), 274-
 304, 551-8, and 971.
@@ -26803,8 +26351,6 @@ Sd. Lett. Varsovie, Classe I II , xxiii (1930), 111-32.
 of mathematics, in Polish) Przeglqd Filozoficzny, xxx (1927),
 164-206; ibid., xxxi (1928), 261-91; ibid., xxxii (1929), 60-105;
 ibid., xxxiii (1930), 77-105; ibid., xxxiv (1931), 142-70.
-
-B IB L IO G R A P H Y
 
 (476) S. L e §n ie w s k i, ' Grundziige eines neuen Systems der Grundlagen
 der Mathemafik *, § 12, Collectanea Logica, i (1938), 61-
@@ -26880,8 +26426,6 @@ l'algebre', C. R. Deuxi&me Congrks International des Mathimaticiens (Paris, 1902
 
 (58) A. Padoa, ' Le probl6me No. 2 de M.David Hilbert', L'Enseignement Math., v (1903), 85-91.
 
-B IB L IO G R A P H Y
-
 (58a) C. S. P e ir c e , ' On the algebra o f logic: a contribution to the
 
 philosophy o f n ota tion ' , Amer. J. Math., vii (1885), 180-202.
@@ -26953,8 +26497,6 @@ wielwarto6ciowych rachunku zdah' (A p ro of o f the axiomatizability o f full sy
 Polish), C. R. Soc. Sci. Lett. Varscroit, Classe III, x x x ii (1939),
 110-28.
 
-B IB L IO G R A P H Y
-
 (666) J. SatnpECKi, ' Pefaiy tr6jwarto6ciowy rachunek zdan* (The full
 three-valued sentential calculus), Anncdes Unwersitatis Marias
 Curie-Sklodowska, i (1946), 193-209.
@@ -27023,8 +26565,6 @@ logic and the concept of truth', J. Symbolic Logic, iv (1939),
 xv (1937), 186-9.
 
 (81) A. Tabski, ' t)ber additive und multiplikative MengenkOrper und
-
-B IB L IO G R A P H Y
 
 Mengenfunktionen*, C . R . Soc. Sci. Lett. Varsovie, Classe I I I ,
 xxx (1937), 151-81.

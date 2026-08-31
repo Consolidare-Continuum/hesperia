@@ -4082,8 +4082,6 @@ PART IV
 CHAPTER XI
 THE ENLISTING OF INTEREST
 
-I
-
 BUT the human mind is not a film which registers once and for all each
 impression that comes through its shutters and lenses. The human mind
 is endlessly and persistently creative. The pictures fade or combine,
@@ -6005,8 +6003,6 @@ have nominated.
 CHAPTER XV
 LEADERS AND THE RANK AND FILE
 
-I
-
 BECAUSE of their transcendent practical importance, no successful
 leader has ever been too busy to cultivate the symbols which organize
 his following. What privileges do within the hierarchy, symbols do for
@@ -6409,8 +6405,6 @@ PART VI
 
 CHAPTER XVI
 THE SELF-CENTERED MAN
-
-I
 
 SINCE Public Opinion is supposed to be the prime mover in democracies,
 one might reasonably expect to find a vast literature. One does not
@@ -8257,8 +8251,6 @@ news, will pay for it in loyalty.
 
 CHAPTER XXII
 THE CONSTANT READER
-
-I
 
 THE loyalty of the buying public to a newspaper is not stipulated in
 any bond. In almost every other enterprise the person who expects to

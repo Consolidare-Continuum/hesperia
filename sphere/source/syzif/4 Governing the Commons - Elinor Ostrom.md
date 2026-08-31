@@ -230,7 +230,6 @@ ducers had developed in the southern California groundwater basins. Paul
 then wanted to know why I was so confident that the systems I had studied
 xiii
 
-Preface
 15 years earlier were still operating and performing well. At the time, I had
 no effective answer other than that the institutions had been so well crahed
 to fit local circumstances that I presumed they had survived and were faring
@@ -274,7 +273,6 @@ Some of those papers and some new chapters have been brought together
 in a new volume (Bromley in press).
 xiv
 
-Preface
 Reading those studies, as well as some of the studies cited by those
 authors, made me aware of two major facts: First, an extraordinarily rich
 case-study literature already existed, written by field researchers who had
@@ -318,7 +316,6 @@ The development of the coding forms was itself an exercise in theory
 development. We used the method of institutional analysis that had grown
 xv
 
-Preface
 out of our earlier work (E. Ostrom 1986a,b) as the organizing framework
 for the design of these coding forms. In addition, we paid serious attention
 to the hypotheses stated by field researchers who had conducted multiple
@@ -360,7 +357,6 @@ social settings strongly influences the way I analyze the central questions
 addreses d here. Working with Roy Gardner and Franz Weissing on two
 game-theoretical analyses of CPR situations greatly increased my appreciaxvi
 
-Preface
 tion for the power and utility of game theory as a general theoretical tool
 for scholars interested in studying the consequences of diverse institutions.
 The writing of this book was undertaken in tandem with participation in
@@ -404,7 +400,6 @@ and James Walker -and have spent hours refining concepts, developing
 models, designing instruments and experiments, and discussing how we
 xvii
 
-Preface
 can better search out variables from what we are reading and gathering.
 The help of Elizabeth Case, associate editor for this series, Sophia Prybylski
 at Cambridge University Press, and Emily Loose, editor at Cambridge
@@ -414,7 +409,6 @@ improved the quality of the manuscript. Her cheerful spirit has relieved
 pressures on many occasions.
 xviii
 
-1
 Reflections on the commons
 Hardly a week goes by without a major news story about the threatened
 destruction of a valuable natural resource. In June of 1989, for example,
@@ -445,7 +439,6 @@ natural resource systems. Further, communities of individuals have relied
 on institutions resembling neither the state nor the market to govern some
 resource systems with reasonable degrees of success over long periods of
 time.
-1
 
 Govenring the commons
 We do not yet have the neceuar)' inlellectual tools or models to under­
@@ -485,7 +478,6 @@ long ago observed that "what is common to the greatest number has the
 least caI'C bestowed upon it. Everyone thinks chiefly of his own, hudly at
 all of the common interest" (Politics. Book II, ch. 3). Hobbes's parable of
 man in a state of nature is a prototype of the tragedy of the commons: Men
-2
 
 Re{lect;olls on the commons
 seek their own good and end up fighting one another. In 18.13, William
@@ -528,7 +520,6 @@ Hardin's model has oftcn been formalized as a prisoner's dilemma (PD)
 game (Dawes 1973, 1975).1 Suppose we think of the players in a game as
 being herders using a common grazing meadow. For this meadow, there is
 an upper limit to the number of animals thar can graze on the meadow fOJ'
-3
 
 Governing the commons
 a season and be well fed at the end of the season. We all that number L
@@ -561,7 +552,6 @@ In a prisoner's dilemma game, each player has a dominant smuegy in the
 10 -I " o
 10 \I -I o
 figure 1.1. Game I: nle Hardin herder same.
-4
 
 Reflections
 on the commons
@@ -604,9 +594,7 @@ The idea that groups tend to act in support of their group interests ill suppose
 CoUow logically from thi' widely accepted prcmi� of rational, self· interested be·
 havior. In other words, if 1M members of some group have a common interest or
 0b;ect, and if they would all be bener off if that obJective were achieved, it has been
-5
 
-Governing the commons
 thought to follow logically that the individual, m that group would, If they were
 ration,,1 and sclf-intcrested, act to IIchie ..· c that objccrive. (015(," 1965. p.l)
 Olson challenged the presumption that the poSSibility of a benefit for a
@@ -688,7 +676,6 @@ prescription frequendy have achieved little more than a metaphorical usc
 of the models.
 When models are used a.\ meraphors, an author usually points «1 the
 similarit)· between one or two variables in a natural setting and one or two
-7
 
 GOlleNling the commo1ls
 variables m a model. If calling attention to similarities is all dut is intended
@@ -775,9 +762,7 @@ authority considers best for the $ituation: The cenrral authority will decide
 who can use the mcadow, when mey can usc: it, and how m;,"), animals can
 be grazed. Let us assume thiU the cenrral authority decides to impose a
 penalty of 2 profit units on anyone who is considered by that authority to
-9
 
-Governing the commons
 be using a defect strategy. Assuming that the central agency knows the
 sustainable yield of the meadow (L) and can unfailingly discover and
 pcnaIize any herder using the defect strategy, the newly restruaured game
@@ -839,9 +824,7 @@ with a probability greater than 0.75 to avoid pushing the herders to the
 10-b
 10-2lC II-ZV -I-ZX -2"
 Filur� 1.1. Game 3: The central-aurhoricy pmc with Incomplete Information.
-11
 
-Governing the commons
 94 -1 6 " ·1 4
 94 9.6 -1.6 -1.4
 Piaure 1.4. Game 4: An example of rhe central·aurhoriry pme with incomplete information.
@@ -914,7 +897,6 @@ a commons dilemma oftcn call far the imposition of a solution by an
 external actor: The "only way" to solve a commons dilemma is by doing
 1l
 
-Governing the commons
 X. Under lying such a claim is the belief that X is necessary and sufficient to
 solve the commons dilemma. But the content of X could hardly be more
 variable. One set of advocates presumes that a central authoriry must
@@ -982,7 +964,6 @@ noncooperative game theory as one thar is unfailingly enforced by an
 \I _I o 10 o 10 II -I
 IIlJUfe 1.5. Game 5: ScIf-filWlCCd conma-mlorccmc:nll'Jl'e.
 
-Governing the commons
 external actor - just as we interpreted the penalty posited earlier as being
 unfailingly enforced by the central authority.
 A simple way to represent this is to add one parameter to the payoffs and
@@ -1068,9 +1049,7 @@ carrying capacity of. CPR and the appropriate fines to induce cooperative
 behavior. I believe that simation. like that in Game 3, in which incomplete
 information leads to sanctioning errors. occur more frequently than has
 been presumed in the policy literarure. The need for external monitors and
-17
 
-Governing the commons
 enforcers IS particularly acute when what is being enforced is a decision by
 on external agent who may impose excess costs on panicipants.
 '
@@ -1111,7 +1090,6 @@ An empiricall altemat;v�
 Game _� illustrated a theoretical alternative to centralization or privatiza­
 tion as ways to solve CPR problems. let us now briefly consider a solution
 devised by pani(;ipants in it field setting -Alanya, Turke)' - that cannot be
-18
 
 Reflections 0" the commons
 characterized as either central regulation or privatization. The inshore
@@ -1153,7 +1131,6 @@ The list of fishing locations is endorsed by each fisher and deposited with
 the mayor and local gendarme once il year at the time of the lonery. The
 process of monitoring and enforcing the system is, however, accomplished
 by the fishers rhemselvn 35 :I by-product of the incentive created by the
-19
 
 Gove",i"g the commolls
 rotation sysrem. On a day when a given fisher is assigned one of the more
@@ -1198,7 +1175,6 @@ individual behavior rhat would, if unconstrained, reduce j oint returns to
 the community of users. In addition to the case studies discussed in Chap­
 ters .1. 4, and 5, productive CPR in!ltitutional arrangements have been
 ,
-20
 
 Reflections on the commons
 well documented for many farmer-managed Irrigation �ystem5, communal
@@ -1239,9 +1215,7 @@ with perve:rse problems such as the tragedy of the commons.
 Poliq prt:script;ons QS ",ttlaphors
 Policy analysts w ho would recommend a single prescription for commons
 problems have paid little attention to how diverse institutional arrange·
-21
 
-Governing the commons
 menlS operate in practice. The centrislS presume that unified authorities
 will operate in the field as they have been designed to do in the textbooks
 -determining the best policies to be adopted for a resource based on valid
@@ -1410,7 +1384,6 @@ to ascenam what problems individuals are trying to solve and what factors
 help or hinder them in these efforts. When the probleDis that I observe
 ilwnlvc lack of predictability, information, and trust, as well as high levels
 
-Governing the commons
 of complexity and transactional difficulties, then my efforts to explain
 must take these problems ovcnly into account rather than assuming them
 away. In developing an explanation for observed behavior, I draw on a rich
@@ -1495,9 +1468,7 @@ monitoring individual compliance with sets of rules. A study that focuses
 on how individuals avoid free-ridiag, achieve high levels of commitment,
 arrange for new institutions, and monitor conformity to a set of rules in
 CPR environments should conlribute to an understanding of how in-
-17
 
-Governing the commons
 dividuals address these crucial problems in some other settings as well.
 Let me now give a brief sketch of how this book is organized. In
 Chapter 2, I define what I mean by a CPR situation and individual choice
@@ -1514,9 +1485,7 @@ theory of self-organization related to CPR environments. In Chapter 6,
 I pull together the theoretical reflections contained at the ends of Chapt­
 ers 3, 4, and S and address the implications of these conjectures for the
 design of self-organizing and self-governing institutions.
-28
 
-2
 An institutional approach to the study of
 self-organization and self-governance in CPR
 situations
@@ -1549,7 +1518,6 @@ efforts to solve ePR problems should address important issues related to
 the theory of collective action and the development of better policies
 related to epRs. Many efforts to analyze collective-action problems have
 
-Governing the commons
 framed the analysis by presuming that all such problems can be represented
 as prisoner's dilemma (PO) games, that a single level of analysis is suffi­
 cient, and that transactions costs are insignificant and can be ignored. In the
@@ -1588,7 +1556,6 @@ the same time. The CPRs studied in this volume are used by multiple
 individuals or firms. Following Plott and Meyer (1975), I call the process
 of withdrawing resource units from a resource system "appropriation."
 Those who withdraw such units are called "appropriators."a One term -
-30
 
 An institutional approach to CPR self-governance
 "appropriator" - can thus be u�d to refer to herders, fishers, irrigators,
@@ -1632,9 +1599,7 @@ exclude one appropriator of a resource system from improvements made
 to the resource system itself. All appropriators benefit from maintenance
 performed on an irrigation canal, a bridge, or a computer system whether
 they contribute or not.
-31
 
-Governing the commons
 Failure to distinguish between the subtractability of the resource units
 and the jointness of the resource system has in the past contributed to
 confusion about the relationship of CPRs to public or collective goods. J
@@ -1675,9 +1640,7 @@ tion and usc: of the resource units are more closely related to the theory of
 private goods than to the theory of public goods. On the other hand, the
 process of designing, implementing, and enforcing a set of rules to co­
 ordinate provision activities is equivalent to the provision of a local collec-
-32
 
-An institutional approach to CPR self-governance
 rive good. CPR appropriators who organize themselves to govern and
 manage a CPR are faced with some problems that are similar to those of
 appropriating private goods and other problems that are similar to those of
@@ -1717,9 +1680,7 @@ resource units, and each other's o·.ltcomes must also be ascertained.7 It is
 not immediately apparent, for example. how one irrigator's forbearance in
 taking water from a canal will affect the yield obtained by that farmer or
 by other farmers. In some cases, a farmer located near the head of a system
-33
 
-Governing the commons
 may be able to curtail his water use substantially without a major impact on
 his own yield, while substanrially enhancing the yields of downstream
 farmers. In other cases, the excess water taken by the farmer located near
@@ -1760,9 +1721,7 @@ count future benefits - how severely depends on several factors. Time
 horizons are affected by whether or not individuals expect that they or
 their children will be present to reap these benefits, as well as by opportu­
 nities they may have for more rapid returns in other settings. The dis-
-34
 
-An institutional approach to CPR self-governance
 count rates applied to future yields derived from a particular CPR may
 differ substantially across various types of appropriators. In a fishery, for
 example, the discount rates of lo::al fishers who live in nearby villages will
@@ -1805,7 +1764,6 @@ attached. Actions that are strongly proscribed among a set of individuals
 will occur less frequently (even though they promise to yield high net
 3S
 
-Governing the commons
 payoffs to individuals) than will those same actions in a community that
 does not censure such actions.
 The most importanr impact that the type and extent of shared norms will
@@ -1846,7 +1804,6 @@ of the most scholarly attention is tit for tat in a two-person game in which
 an individual adopts a cooperarive action in the first round and then
 mimics the action of the opponent in future rounds (Axelrod 1981, 1984).
 There are many other contingent strategies that can be adopted; they vary
-36
 
 | An ;nstitut;o""l approach to CPR  | self-governance  |     |
 | --------------------------------- | ---------------- | --- |
@@ -1882,7 +1839,6 @@ Intlmlll world
 | --- | --------- | --- |
 |     | �anlflta  | 'I  |
 -
-I
 | �                                        |               | ' oUl omes  |
 | ---------------------------------------- | ------------- | ----------- |
 | � D..i t s . c "" oun ,  t "re,tm!J-;J/  |   C"",' .. '  | '->  �      |
@@ -1899,11 +1855,8 @@ stretegles -,
 |     | ,   | /   |
 | --- | --- | --- |
 '-____ ..1'
-I
 Fisure 2.1. The internal world of individual choice.
-37
 
-Governing the commons
 may be appropriate. In complex situations involving unstructured prob­
 lems, assuming complete preference functions of any shape is not mean­
 ingful. The most one can say is that the individuals in such situations are
@@ -1943,9 +1896,7 @@ ating scarce resource unirs, the total net benefits they obtain usually will be
 less than could have been achieved if they had coordinated their strategies
 in some way. At a minimum, the returns they receive from their appropria­
 tion efforts will be lower when decisions are made independently than they
-38
 
-An institutional approach to CPR self-governance
 would have been otherwise. At worst, they can destroy the CPR itself. As
 long as the appropriators stay "gnorganized," they cannot achieve a joint
 return as high as they could have received if they had organized in some
@@ -2027,7 +1978,6 @@ neur's contract, the organization is considered private, voluntary, and, at
 least by some individuals, nonexploitative. If there are large residuals to be
 obtained, however, it is the entrepreneur, not the agents, who receives
 them.14 When a firm is located in an open market, one can presume that
-40
 
 An institutional approach to CPR self-govemance
 external competition will pressure the enrrepreneur toward developing
@@ -2068,9 +2018,7 @@ of agents and subjects to be sure they conform to prior agreements. Both
 theories thus address how a new institutional arrangement can come about,
 how credible commitments can be made, and why monitoring must be
 supplied.·'
-11
 
-Governing the commons
 THREE PUZZLES: SUPPLY, COMMITMENT. AND
 MONITORING
 Although the theory of the firm and the theory of the state can resolve these
@@ -2097,7 +2045,6 @@ one of these equilibria, in contrast to continuing their independent actions,
 a fundamental disagreement is likely to arise among participants regarding
 which instirution to choose. "The proposed solution to coordination -or
 assurance -games thus itselE constitutes a collective dilemma" (Bates 1988,
-17
 p.394).
 Baces thcn turns to problems faced by a set of symmetric principals facing
 a collcctive dilemma in which all would benefit from a change in rules.
@@ -2111,7 +2058,6 @@ would seek to scc:ure its benefits for free. The incentives to free-ride would u
 dermine the incentives to organize a solurion to the collective dilemma. It is subject
 to the very incentive problems it is supposed to resolve.
 (Bates 1988. pp. 394-5)
-42
 
 to
 An institutional approach CPR self-governance
@@ -2153,9 +2099,7 @@ follows these rules, resource units will be allocated more predictably and
 efficiently, conflict levels will be reduced, and the resource system itself
 will be sustained over time.
 During an initial time period, an appropriator, calculating his or her
-43
 
-Governing the commons
 estimated future flow of benefits if most appropriators agree to follow a
 proposed set of rules, may agree to abide by the set of rules in order to get
 others to agree. During later time periods, the immediate return to the
@@ -2197,9 +2141,7 @@ selves (or their agents) to monitor activities and be willing to impose
 sanctions to keep conformance high.
 These puzzles cumulate. Even if one appropriator took the time and
 effon to analyze the problems they faced and to devise a set of rules that
-44
 
-An institutional approach to CPR self-governance
 could improve their joint returns, the effort at supply would be pointless
 unless the appropriators could commit :hemselves to follow the rules.
 Unless the monitoring problem can be solved, credible commitments can­
@@ -2238,7 +2180,6 @@ FRAMING INQUIRY
 Understanding how individuals solve panicular problems in field settings
 requires a strategy of moving back and forth from the world of theory to
 the world of action. Without theory, one can never understand the general
-45
 
 Governing
 the commons
@@ -2280,7 +2221,6 @@ Although some interdependent CPR situations have the structure of a PD
 game, many do not. Several scholars have shown how some simple situa­
 tions facing appropriators may be better characterized as "assurance"
 games and as the game known as "chicken" (Runge 1981, 19848; M.
-46
 
 An institutional ap�h to CPR self-governance
 Taylor 1987; M. Taylor and Ward 1982). The underlying problem facing
@@ -2326,9 +2266,7 @@ other. The structure of an appropriation problem or a provision problem
 will depend on the panicular configuration of variables related to the
 physical world, the rules in use, and the attributes of the individuals in­
 volved in a specific setting.
-47
 
-Governing the commons
 Appropriation problems. In regard to appropriation, the key problem in a
 CPR environment is how to allocate a fixed, time-independent quantity of
 resource units so as to avoid rent dissipation and reduce uncertainty and
@@ -2370,9 +2308,7 @@ are sufficiently reduced, appropriators can invest in productive enterprises
 that would not otherwise be economically viable. Physical violence occur­
 ring among the users of fisheries and irrigation systems is symptomatic of
 inadequate assignments of spatial or temporal slots to appropriators. When
-48
 
-An institutional approach to CPR self-governance
 appropriators consider the assignment of access rights and duties to be
 unfair, uneconomic, uncertain, or inappropriately enforced, that can ad­
 versely affect their willingness to invest in provision activities. The partic­
@@ -2414,7 +2350,6 @@ availability of resource units next year an:! the years thereafter.
 The underlying uniformities of all CPR situations relate to the non­
 separability of one's choice of strategy and the choices made by others, as
 well as the fact that solving provision problems depends on achieving
-49
 
 adequate solutions to appropriation problems, not the panicular game­
 theoretical representations for these commonalities. U Many factors affect
@@ -2456,7 +2391,6 @@ velopment. Given that CPR appropriators in some of the cases to be
 discussed in this volume do switch back and forth between arena... . we must
 drop the framing assumption that analysis at a single: level will be sufficient.
 It is also essential to clarify what is meant by "institutions" in the first place.
-50
 
 An institutional approach to CPR self-governa"ce
 "Institutions" can be defined a! the sets of working rules that are used
@@ -2500,9 +2434,7 @@ All rules arc nested in another set of rules that define how the first set
 of rules can be changcd.19 This nestir:.g of rules within rules at several levels
 is similar to the nesting of computer languages at several levels. What can
 be done at a higher level will depend on the capabilities and limits of the
-51
 
-Governing the commons
 software (rules) at that level, on the software (rules) at a deeper level, and
 on the: hardware (the CPR). Whenever one: addresses questions about
 institutional cha"ge, as contrasted to action within institutional con­
@@ -2543,7 +2475,6 @@ imply making the choice of collective-choice or constitutional-choice rules
 endogenous at the same time. For purposes of analysis, the theorist has to
 assume that some rules already exist and are exogenous for purposes of a
 particular analysis. The fact that they are held constant and unchanging
-52
 
 An institutiOl,al approach to CPR self-governance
 | Rules      | Constlt1ul/lonel  | C ollecllve choice  | Operalional  |
@@ -2589,9 +2520,7 @@ On the other hand, rules are changed less frequently than are the strat­
 egies that individuals adopt witrun the rules. Changing the rules at any level
 of analysis will increase the uncc:rtainty that individuals will face. Rules
 provide srability of expectations, and efforts to change rules can rapidly
-53
 
-Governing the commons
 reduce that stability. Further, it is usually the case that operational rules are
 easier to change than collective-choice rules, and collective-choice rules arc
 easier to change than c!onstitutional-choice rules. Analyses of deeper la)'ers
@@ -2676,9 +2605,7 @@ individuals are facing.
 To solve appropriation and provision problems, (or example, individuals
 must learn about the structure of the: physical s)'stem on which they jointly
 rely, about their own appropriation �nd use patterns, about the norms of
-55
 
-Governing the commons
 behavior that are followed in a community, about the incentives they will
 encourage or discourage as they change rules, and about how all of these
 factors will cumulatively affect their net benefits and costs over time.
@@ -2723,7 +2650,6 @@ erally have kept their commitments to follow their rules to a substantial
 degree, I try to understand how they have been able to do this.
 S6
 
-An institutional approach to CPR self-governance
 In Chapter 4, I use this framework again to identify the strucrure of the
 siruation that existed before a group of appropriators attempted to change
 their rules to solve several interrelated provision and appropriation prob­
@@ -2741,9 +2667,7 @@ derived from an analysis of these cases can be used to advance theoretical
 understanding of a theory of self-organized collective action (0 comple­
 ment the existing theories of externally organized collective action: the
 theory of the firm and the theor,. of the state.
-57
 
-3
 Analyzing long-enduring, self-organized, and
 self-governed CPRS
 A direct attack on several of the key questions posed in this book can be:
@@ -2772,7 +2696,6 @@ management of their CPRs, and modified their rules over time in light of
 past experience according to their own collective-choice and constitu­
 tional-choice rules.
 The cases in this chapter arc: particularl)· useful for gaining insight re-
-58
 
 Analyzing long-enduring epRs
 garding how groups of self-organized principals solve two of the major
@@ -2817,7 +2740,6 @@ tional design in a CPR environment. I do not claim that the institutions
 devised ill these settings are in any sense "optimal!' In fact, given the high
 S9
 
-Governing the commons
 levels of uncertainty involved and the difficulty of measuring benefits and
 costs, it would be exrremely difficult to obtain a meaningful measure of
 optimality.·
@@ -2859,7 +2781,6 @@ areas of arabic or grazing land, "the resource ceases to be common prop­
 erty and the problem is solved at one stroke."
 Many property-rights theorists presume that one of two undesirable
 outcomes is likely under communal ownership: (1) the commons wiu be
-60
 
 AlUllyzing long-enduring
 CPRs
@@ -2903,7 +2824,6 @@ u(1) the steepness of its slope and the wide range of microclimates demar­
 cated by altitude, (2) the prevailing paucity of precipitation, and (3) the
 exposure to sunlight." For centuries, Torbel peasants have planted their
 privately owned plots with bread grains, garden vegetables, fruit trees, and
-61
 
 Govenling the commons
 hay for winter fodder. Cheese produced by a small group of herdsmen,
@@ -2947,7 +2867,6 @@ amount of cheese the famil)' will receive at the annual distribution.
 The village statutes are voted on by all citizens and provide the general
 legal authority for an alp association to manage the alp. This association
 includes all local citizens owning cattle. The association has annual meet-
-62
 
 Analyzing IOl1g-e"d"ring CPRs
 ings to discuss generaJ rules and policies and eject officials. The ufficials
@@ -2991,7 +2910,6 @@ Communal tcnure "promotes both general access to and optimum pro­
 duction from certain types of resources while enjoining on the entire
 community the conservation measures necessary to protect these resources
 from destruction" (Netting 1976, p. 14S). Although yields are relatively
-63
 
 Governing the
 commons
@@ -3036,7 +2954,6 @@ can set up statutes and revise them. they can set limits for the use of the past
 and change them, they can adapt their organizational struaure .••.I t can also be
 said that the user organizations are nested in a sct of larger organizations (village,
 Kantone, Bund) in which they are perceived as legitimate. (picht 1987, p. 28)
-64
 
 Anal)zing long-enduring CPRs
 Thus, residents of TOrbcl and other Swiss villages who own communal land
@@ -3123,7 +3040,6 @@ sequently, households with many members had no advantage, and con­
 siderable disadvantages, in their access to the commons. Population growth
 was extremely low (0.025% for the period 1721-1846), and ownership
 patterns within villages wcrc stable (McKean 1986, p. 55'.).
-66
 
 Analyzing long-enduri1lg CPRs
 In addition to delinliting the ownership status of all lands. village as­
@@ -3168,7 +3084,6 @@ edy, or the ahsence of able-bodied adults whose labor could be spared from routi
 chores were recognized as excuses for getting out of collective labor. . . .B ut, if
 there was no acceptable excuse, punishment was in order.
 (McKean 1986. p. 559)
-67
 
 Governi1Jg the commons
 Each of the villages also devised its own monitoring and sanctioning
@@ -3212,7 +3127,6 @@ intruders but thirty. inc:luding some of the heads of leading households. It was
 yet mountain-opening day. but they had entered the commons en masse to cut a
 particular type of pole used to build trellises to support garden vegetables raised
 on private plots. If they could not cut the poles soon enough, their entire vegetable
-68
 
 Analy�ing long-endurillg epRs
 crop might be lost. and they belie'''ed that the village headman had erred in setting
@@ -3253,9 +3167,7 @@ between irrigators and their own c·fficials, and between groups of irrigators
 living in the lower reaches of the water systems and their upstream neigh­
 bors. Despite this high potential for conflict - and irs actual realization
 from time to time -the institutions devised many centuries ago for govern-
-69
 
-Governing the commons
 ing the use of warer from these rivers have proved adequate for resolving
 conflicts, allocating water predictably, and ensuring stability in a region not
 normally associated 'with high levels of stability. Maass and Anderson
@@ -3269,7 +3181,6 @@ I "
 Mediterranelln Sell
 '''"-----. 64kllcme\ers
 Ficure 3.1. Loeanon of Spanish I,,,,,as.,
-70
 
 Analyzing long-enduring CPRs
 hllertas (well-demarked irrigation areas surrounding or near towns) of
@@ -3312,9 +3223,7 @@ its traditions ha\re led sd.olars to argue that the court evolved during the
 period of Islamic rule.lllls proceedings are carried on without lawyeu, but
 with many onlookers. A presiding officer ql1estions those who are involved
 in a dispute and others who may be able to provide additional information,
-71
 
-Governing the commons
 and the members of the COU", excluding the syndic whose canal is in­
 volved, make an immediate decision regarding the facts of the case in light
 of the specific rules of the pa"icular canal. Fines and damages are assessed
@@ -3356,7 +3265,6 @@ present in the canal serving their land.
 The most frequent condition under which the canals operate is that of
 seasonal low water. When the low-water condition is in effect, water is
 distributed to specific farmers through a complex, rule-driven hydraulic
-72
 
 Analyzing long-enduri"g CPRs
 system. Each distributory canal is positioned in a rotation scheme in rela­
@@ -3400,7 +3308,6 @@ water out of rurn, or in some way obtain illegal water. As the time ap­
 proachcs for a farmer to take his turn at the water, he will tend his fields
 near to the canal so that he can be prepared to open his own gate when the
 water arrives; if not prepared, he misses his mrn entirely and must wait for
-73
 
 Govemi"g the common.s
 the next round. While waiting, it is relatively cas)' to warch whar those
@@ -3439,7 +3346,6 @@ Execully,
 Dltcn-rlders ... -. ----+ 1 Irrigators
 Figure 3.2. Parrerns uf monitoring and a"ountabilif)' among kc)' a.:ror5 in the Valencia
 h,,,"iI.
-74
 
 Anal),zitlg long-enduring CPRs
 right). The remainder of the infractions related to actions that caused harm
@@ -3483,9 +3389,7 @@ extraordinarily high. Because the fines actually assessed were kept rela­
 tively low, the guards did not deeply antagonize the farmers, who genera!:)'
 adhered to the rules. A farmer would suffer some humiliation if detected
 cheating, but the monetary :fine for cooperative farmers would be quite
-75
 
-Governing the commons
 low. Assessing harsh punishment to someone who usually follows the rules,
 but in one instance errs' in the face of a desperate situation, can engender
 considerable antagonism and resentment (Oliver 1980).
@@ -3525,7 +3429,6 @@ combined.
 The officials of the irrigation community, in consultation with cicy of­
 ficials, are responsible for declaring when there is insufficient water to
 continue the rC8ular tllnd" prCKcdurc. When extraordinary low-w;!fl!'r ("on-
-76
 
 AnaiYl.ing long-enduring CPRs
 ditions are in effect, the officials of each community post a new schedule
@@ -3569,7 +3472,6 @@ The water court in Orihuela has only a single judge, and its procedures
 differ substantially from those in Murcia and Valencia. Those who wish to
 bring charges against others do so to an officer of the court. The person
 accused is then summoned to appear before the magistrate within a few
-77
 
 Governing the
 commons
@@ -3656,9 +3558,7 @@ At that time, the ditch-rider's report of all water delivered and equivalent
 scrip must be turned in. Thus, farmers purchase scrip not only for future
 deliveries but also to covcr fully what they have uscd during the current
 rotation. The price of water is consequently higher toward the end of a
-79
 
-Governing the commons
 rotation than at the beginning of one.:u The price of water also varies in
 relation to the amount of water available. In years of abundant rainfall,
 farmers need less irtigation water, and the price of Tibi water falls. In times
@@ -3700,9 +3600,7 @@ The ditch-riders open and close all farm headgates in Alicantc. The farmers
 do this themselves in Valencia and Murcia-Orihuela. The ditch-riders of
 Alicante, however, exercise less discretion in determining who shall receive
 water and when. One employee is given the responsibility of accounting for
-80
 
-Analyzing long-enduring CPRs
 the water that has left the regulating basins umil it reaches a dit-::h-rider,
 who is again accounrable for all of the water that is assigned to :lim.
 National authorities have exerted more control over irrigation matters in
@@ -3744,7 +3642,6 @@ benefits for the farmero they serve, and all have shown an amazing capacity
 to survive. In 1887, the Murcian historian Diu Cassou concluded 6at "the
 democratic and repre:!.entative character of the agricultural comoune of
 Murcia had shown a remarkable stability, for a succession ofvery different
-81
 
 Governing the comm071S
 national political epochs had offered no serious obstacles to its continued
@@ -3786,7 +3683,6 @@ obligation of the member for labor and material inputs. Each atar-holder
 is obligated to contribute one day·s work during each work season declared
 by the zanjera, plus a share of the material required at construction time.
 The system was thus developed as a mode of acquiring long-term usc rights
-82
 
 Anal)'z.ing long-enduring CPRs
 to land and the water to irrigate it without prior accumulation of monetary
@@ -3830,7 +3726,6 @@ parts of the provinces. During the rainy season each year, the river destroys
 the federation's dam, which is constructed of bamboo poles, banana leaves,
 sand, and rock. During some years the dam will be destroyed three or four
 times.
-83
 
 Goveming
 the commoflS
@@ -3862,7 +3757,6 @@ tanjeT4 fields.
 (Allapted from Cow",d
 '979.)
 i w o t "" o a i w e T m l f r f r l n h e e e f f a . e s r d e d h o i h i s n y v m a t i v a e s i "" l b r t e t o s s h l i r i n h o s e i o h e i i n s r s r e ",i t a w d o s b o t o r e f e o i u y e d n t r . h r n k d c a d e s e e w n u pe n f d o r e r i i o l n f n n a l m e t d w g p v e c a . t t n a o . r h h r t e . m e e l i . r y o " p r n b o , i a o i v y s e n n n e d t d s e e r i . u t m n . e W t c T , r e e h i .. n s h e h c t d e s a h n o h ' r j t a m - i e o i n v s c e g e c n k r e o o ro n . s h f n . l o r t a i sr T k w y h s e w e n c a h , .. n o ruc h i a t s d a n o nge a ' , j f j h n " o o , " a d i h f d n t " e , m t cou h m l h .. y e a os a i c v f n n r e o t e ;ern t s d a n e o b e i s f n e s r t ' e e a r t t v h n t u w h i e c e o e c r e m t n u i . e r r l t e d
-84
 
 Analyzing long-enduring CPR.s
 one dam and canal. A formal agreement' dated 1906 was written when a
@@ -3906,9 +3800,7 @@ Siy computed the total obligations (including work as well as attendance
 at meetings and celebrations) of VI"jera members to their own associations
 and to the federation for 1980. The owner of a full atar share of the Santo
 Rosario zaniera was obligated to contribute 86 days during 1980 (the
-85
 
-Governing the commons
 largest obligation), whereas an owner of a full share in the Nibinib �(Jnjera
 was obligated to c:onn:ibute 32 days (the lowest). The average across the
 federation was S3 days (Siy 1982, p. 92). Given that some atars are held
@@ -3950,9 +3842,7 @@ system is more than adequate to meet the needs of the farmers, given the
 current cropping patterns and soil types involved. When water is abundant,
 water flows throughout the entire system, and anyone can irrigate at will.
 When water is scarce, rotation systems are established among the unjeras,
-86
 
-Analyzing long-enduring CPRs
 and within zan;eras amc·ng the various distributory canals. During ex­
 tremely dry periods, downstream zanjeras are allowed the full flow of the
 system for several nights in a row. After notification and agreement, the
@@ -3994,9 +3884,7 @@ efficient in the sense that water is allocated optimally to enhance crop
 production. The federation falls short in regard to this criterion, but it
 performs weU in regard to mobilization of personnel for construction and
 maintenance activities. The members of the federation perceive the albca-
-87
 
-Governing the commons
 tion of water to conform to legitimate formulas that they have themseh'es
 devised, rather than to formulas devised by external experts. As we shall see
 in Chapter 5, when external experts, working without the participation of
@@ -4079,9 +3967,7 @@ ships that exist in the setting. Without different rules. appropriators could
 not take advantage of the positive features of a local CPR or avoid potential
 pitfalls that might be encountered in one setting but not others.
 Instead of turning to the specific rules, I rurn to a set of seven des.ign
-89
 
-Governing the commons
 principles that characterize all of these robust CPR institutions, plus an
 eighth principle us�d in the larger, more complex cases. These al'e listed in
 Table 3.1. By "design principle" I mean an essential element or condition
@@ -4121,9 +4007,7 @@ For CPRs that fire parts of larger syst�ms:
 8. Nested enterprises
 Appropriation. provision. monitoring, enforcement. conflict resolution, and
 governance activities are organized In multiple layers of nested enterprises.
-90
 
-Analyzing long-enduring CPRs
 funher scholarly work is completed, it will be: possible to identify a set of
 necessary design principles and that such a set will contain the core of what
 has been identified here. J'
@@ -4162,9 +4046,7 @@ boundaries concerning who is allowed to appropriate from the CPR has
 been used as the singlE defining characteristic of "common-prope�" in­
 stitutions as contrasted to "open-access" institutions. The impression is
 sometimes given that this is all that is necessary to achieve successful
-91
 
-Governing the commons
 regulation. Making this attribute one of seven, rather than a unique attri­
 bute, puts its importance in a more realistic perspective. Simply closing the
 boundaries is not enough. It is still possible for a limited number of appro­
@@ -4202,7 +4084,6 @@ proportion of the water also pay the highest proportion of the fees. No
 single set of rules defined for all irrigation systems in the region could deal
 with the panicular problems in managing each of these broadly similar, but
 distinctly different, systems.S7
-92
 
 Ana/�;ng long-enduring CPRs
 Collective-choice arrangements
@@ -4244,9 +4125,7 @@ these models, because information is presumed to be already available.
 It is obvious from our case studies, however, that even in repeated
 settings where reputation is important and where individuals share the
 norm of keeping agreements, reputation and shared norms are insufficier.t
-93
 
-Governing the commons
 by themselves to produce stable cooperative behavior over rhe long run. If
 they had been sufficient, appropriators could have avoided investing re­
 sources in monitoring and sanctioning activities. In all of the long-enduring
@@ -4285,7 +4164,6 @@ confidence that (1) rulcrs will kcep thcir bargains and (2) the other c:onStinlc
 will keep theirs. Taxpayers are strategic actors who will cooperate only when they
 can expect others to cooperate as well. The compliance of each depends on
 the compliance of the others. No one perfers to be a "sucker." (Levi 1988a, p. 53)
-94
 
 Anaiyzing 1011g-endur;ng CPRs
 levi stresses the cOIltinge.l't nature of a commitment to comply with rules
@@ -4329,9 +4207,7 @@ first from a late ending. Neither has to invest additional resources in
 monitoring activities. Monitoring is a by-product of their own strong
 motivations to use their water rotation turns to the fullest extent. The
 fishing-site rotation s)'stem used in Alanya has the same characteristic (:lat
-95
 
-Governing the commons
 cheaters can be observed at low cost by those who most want to deter
 cheaters at that particular time and location.
 Many of the ways 'that work teams are organized in the Swiss and
@@ -4372,7 +4248,6 @@ shown to lead to optimal and stable dynamic equilibria, actors are assumed
 to have complete information about past history. They know what others
 did in the last round of decisions and how those choices affected ou tcomes.
 No consideration is given to how this information is generated. In the
-96
 
 Antrlyzing long-enduring epRs
 settings we have examined in this chapter, however, obtaining information
@@ -4415,7 +4290,6 @@ standing at that time. E.-eryone will hear about the incident. and the
 violator"s reputation for reliability will depend on complying with the rules
 in the future. If the appropriator-monitor presumes that the violator will
 follow the rules most of lhe time in the furure. the appropriator-monitor
-97
 
 Govern;"g the commons
 can safely continue a strategy of compliance:. The incident will also confirm
@@ -4459,9 +4333,7 @@ these trigger·strategy models have the attractive theoretical property of
 stable equilibria, they do not describe the beha\'ior obsen'ed in our case
 studies (or any of the other cases I have read or observed in the field).
 Acceptable quasi-voluntary compliance rates that will lead appropriators to
-98
 
-Analyzing long-enduring CPRs
 continue their own quasi-voluntary compliance will differ from one setting
 to another and will depc: nd on economic or other circumstances within the
 CPR. Tolerance for rule!! infractions may be very high during a depression,
@@ -4503,9 +4375,7 @@ and that monitoring (ind..1ding their own) will protect them against being
 suckered are willing to make a contingent self·commitment41 of the fol­
 lowing type:
 I commit myself to follow the set of rules we ha\'e devised in all instances except
-99
 
-Governing the commons
 dire emergencies if the rest of those affected make a similar commitment and act
 accordingly.
 Once appropriators have made contingent self-commitments, the)' are then
@@ -4544,9 +4414,7 @@ workers to a required labor day, others will consider themselves to be
 suckers if they send their strongest workers, who could be using that time
 to produce private goods rather than communal benefits. Should that
 continue over time, only children and old people would be sent to do work
-100
 
-Analyzing long-enduring CPRs
 that would require strong adults, and the system would break down. If
 individuals who make honest mistakes or face personal problems that
 occasionally prevent them from following a rule do not have access to
@@ -4583,9 +4451,7 @@ Nested enterprises
 and governance activities are organized in multiple layers of nested
 enterprises.
 All of the more complex, enduring CPRs meet this last design principle. In
-101
 
-Governing the commons
 the Spanish huertas, for example, irrigators are organized on the basis of
 three or four nested levels, all of which are then also nested in local,
 regional, and national governmental jurisdictions. There are two djsrinct
@@ -4605,9 +4471,7 @@ they are related. We shall continue to discuss these design principles
 throughout the remainder of this study. In the next chapter we shall
 examine how individuals supply themselves with new institutions to solve
 CPR problems.
-102
 
-4
 Analyzing institutional change
 In the preccding chapter I examined institutions for governing CPRs in
 which appropriators have devised governance systems that have survived
@@ -4636,9 +4500,7 @@ various participants? What broader institutions did participants use in
 establishing new rules? These questions are rarely answered in the ex­
 tensive case-study literature describing behavior within ongoing institu­
 tional arrangements. Once a set of rules is in place, the incentives facing
-103
 
-Governing the commons
 appropriators are enrirely different from the incentives that faced an earlier
 set of appropriators when confronted with severe appropriation or provi­
 sion suboptimalities.
@@ -4678,12 +4540,9 @@ with the cost of importing water from long distances. In 1985, the Metro­
 politan Water District charged 5240 per acre-foot (the volume of water
 that would cover one acre of land with one foot of water) as the wholesale
 price for imported water from northern California and from the Colorado
-104
 
 Analyz;"g ;nstit'ltional change
-I
 KERN
-I
 !" Sa" F.rI!"� ['lS'"
 I ® w.,. C'.oMI an"
 �e""".18""
@@ -4712,10 +4571,8 @@ Figure 4.1. Groundwater basins underlYing 1he south co�",al plain in Calil'orn
 from Lipson 1978.)
 IDS
 
-Governing the commons
 River. The cost of pumping groundwater in the Los Angeles area average:d
 around $134 per acre-foot -a saving of more than $
-100
 per acre-foot. If
 the 282,458 acre-feet of groundwater that were pumped in 1985 from the
 three basins discussed in this chapter had been replaced with surface water,
@@ -4756,9 +4613,7 @@ were defined prior to the institutional changes described in this chapter.
 Water rights in California had been defined on the basis of whether a
 producer owned the overlying land and used the water on that land (an
 overlying landowner) or used the water to serve areas other than land
-106
 
-Analyzing institutional change
 owned by the water producer (an appropriator). Under the common law,
 an overlying landowner held a riparian right to the "full flow" of the water
 supply underlying his or her land (Nunn 1985). In a region of extreme
@@ -4799,7 +4654,6 @@ resolved conflict over a scarce supply would exclude use by the most junior
 appropriator, and then the next most junior appropriator, and so forth.
 The most senior appropriators would be fully protected against encroach­
 ment on their rights by more junior appropriators. However, the rights of
-107
 
 Governing
 the commons
@@ -4843,9 +4697,7 @@ nality. The second is a strategic externality (Negri 1989). Pumping COStS
 increase as the pumping lift increases, because of falling water levels, and
 therefore each person's withdrawals increase the pumping costs for others.
 No one bears the full cost of personal actions. Each pumper is consequently
-108
 
-Analyzing institutional change
 led toward overexploitation. The srrategic externality involved in an open­
 access groundwater ',asin is aptly described by Negri (1989, p . .9 ).
 With property rights undefined and access nonexclusive, the "rule of caprure"
@@ -4883,9 +4735,7 @@ water to a basin and the quantity of water withdrawn by all of the panies .
 It was essential to know the quantities supplied and demanded from a basin
 to determine the presence or absence of a surplus. Both types of informa­
 tion were costly to obtain. Both could be obtained at the time of litigation
-109
 
-Governing the commons
 by asking the court to appoint a watermaster to make a geologic survey of
 the basin and determine its water supply and to obtain information about
 the past water uses of all producers. When determined in this manner, the
@@ -4927,15 +4777,12 @@ external authorities. Rather, the participants used public arenas to impose
 constraints on themselves. Because litigation to gain defined water rights
 was involved in all of the basins, except in Orange County, we first discuss
 this strategy to transform the pumping race.
-110
 
-Analyzing institutional change
 Tt-IE LITIGATION GAME
 The Raymond Basin neg()tiationsS
 The Raymond Basin is a small basin. with a surface area of40 square miles,
 located inland and thus protected from saltwater intrusion. The �lrea was
 already highly developed by the turn of the century. Later studies have
-1913
 revealed that the safe yield of the basin was steadily exceeded from
 onward. The cities of Pasadena, Sierra Madre, Arcadia. Altadena. La Can­
 ada-flintridge. South Pasadena. San Marino, and Monrovia are located on
@@ -4971,11 +4818,8 @@ Division of Water Resource; of tbe California Department of Public Works
 for determination of the gec·logic structure of the basin, the safe yield of che
 basin, and whether or not there was a surplus.
 That referral procedure was time-consuming and costly. The draft report
-1943
 of the referee was not completed until March of and cost about
-111
 
-Governing the commons
 S53,OOO. The referee found that the yearly withdrawals from the basin
 were 29,400 acre-feet, whereas the safe yield of the hasin was 21,900,
 leading to an annual overdraft of 8,500 acre-feet per year. The referee
@@ -5017,9 +4861,7 @@ a long time, given the conflicting legal doctrines, and the costs of litigation
 would be extremely high.
 At the instigation of the city of Pasadena, the parties held some serious
 negotiations in the shadow of the court. Within six months they had
-112
 
-Analyzing institutional change
 drafted a stipulated agreemer.t signed by all but 2 of the 32 partics involved
 in the litigation. The negotiation process was furthered in that instance by
 the unusual fa(."t that one attc·rney, Kenneth Wright, represented 16 of the
@@ -5047,9 +4889,7 @@ owners 8.760
 10.000 13.140 14,000 18.000
 Waler p"oducers with appropriative rIghts
 Figure 4.2. The bargaining situation faced by o\'erlying owners and appropriators.
-113
 
-Governing the commons
 cutback to obtain exchange rights from others willing to sell their rights on
 an annual basis.
 A short trial was held to hear the objections of the California-Michigan
@@ -5089,9 +4929,7 @@ the Raymond Basin producers. The major advantage for the West Basin
 producers was that their upland neighbors had already borne the costs of
 innovation and had developed a formula (or reaching a negotiated settle­
 ment within the California legal environment that was considered to be fair
-114
 
-Analyzing institutional change
 by many potential litigants. The disadvantages faced in West Basin in­
 cluded (1) a large number of producers (around 500 parties were named in
 the litigation), (2) the absence of a single dominant producer, and (3)
@@ -5132,9 +4970,7 @@ committee had three major rec·,mmendations:
 1 that a permanent association :>e created of all interested water producers
 so that they could continue to discuss their mutual problems and possible
 joint actions,
-115
 
-Governing the commons
 2 that a technical survey be made of alternative sources of water for the
 area, and
 3 that water producers consider initiating legal action similar to the action
@@ -5174,9 +5010,7 @@ for the California Water Service Company and had made several presenta­
 tions to West Basin producers concerning the mutual-prescription concept
 used in the Raymond Basin case. Altbough the initiators of the litigation,
 and many other water producers in the basin, strongly supported the
-116
 
-Analyzing institutional change
 concept of proportionate curbacks by all water producers, several major
 water producers vigorously opposed such a plan.
 The Dominguez. Water Corporation. a senior appropriator with over­
@@ -5217,9 +5051,7 @@ referee recommended a curtailment to the safe yield. By 1952, total
 groundwater withdrawals had reached 90,000 acre-feet per year. Even the
 supporters of mutual curtailment vigorously opposed a two-thirds reduc­
 tion in groundwater production. Imported water had just begun to trickle
-117
 
-Governing the commons
 into the basin. Many water suppliers would not be able to meet their
 customers' demands if they were to reduce the quantity of water pumped
 by two-thirds. Early experiments with injection wells provided some en­
@@ -5261,9 +5093,7 @@ portional cutback of 25% to 30%. Bccause 340 additional parties had been
 added to the case in 1949, one possibility was to use 1949 for determining
 shares, rather than the 1944 watcr year that immediately preceded the
 initiation of litigation. Using the referee's historical findings, the committee
-118
 
-Analyzing institutional change
 compiled estimates of each party's "prescriptive righo" based on the 1944
 water year versus the 1949 water year.lO Their estimates totaled 44,387
 acre-feet for 1944 and 63,728 for 1949. The committee proposed to use
@@ -5305,9 +5135,7 @@ Water Service Company, whic:, had been one of the three initiators of the
 litigation and had borne a large share of the cost of the litigation. That
 company had not increased its water production after 1944, presuming
 that the litigation had protected its interests and that it could afford to take
-119
 
-Governing the commons
 an independent action to conserve water supplies. The choice of 1949,
 rather than 1944, as the date for determining rights meant that some of the
 water producers who had increased production during the (our-year peri­
@@ -5348,7 +5176,6 @@ saltwater intrusion. Hawthorne argued that the bcach cities were giving
 away their rights.
 During most of 1957 and 1958, the Legal Settlement Committee met
 wcekly and sometimes biweekl)· trying to prepare a final agreement. The
-120
 
 institutional change
 Analyzitfg
@@ -5392,9 +5219,7 @@ ing from the Basin any water in excess of said party's Adjudicated Rights"
 a udgment, California Water 'Service Company et al. v. Cit)' of Compton et
 al., Civil Case No. 506806, Superior Court of the State of California in and
 for the County of Los Angeles, Sec. 5). Ninety-nine panics were found t:)
-121
 
-Governing the commons
 have adjudicated rights of 64,065 acre-feet. loS The city of Hawthorne, like
 all nonsignatories, was placed under legal order to reduce its groundwater
 production to that stipulated in the agreement.
@@ -5436,7 +5261,6 @@ negotiate settlements of their individual rights to water. Central Basin is
 larger and mOre diverse than West Basin. Considerable effort was ex­
 pended there to learn froln the difficulties of the West Basin case and to
 adopt the process so as to reduce both the length of rime needed to achieve
-122
 
 AnQ/yting ;nstit,d;ona/ change
 agreement and the high costs. The effort was successful on both counts. We
@@ -5478,7 +5302,6 @@ ing rules modeled on the West Basin agreement, but also reflecting the
 particular circumstance in Central Basin. Watermaster services were initi­
 ated in October 1962. A voluntary cutback of approximately 45,000 aae­
 feet was initiated immediately (Fossette and Fossette 1986, p. 182). The
-123
 
 Goveming the commons
 final settlement, signed by parties holding over 75% oC the rights, was
@@ -5522,7 +5345,6 @@ World War 11. As discussed later, water producers in the area had to turn
 to other mechanisms to increase the supply of water to the groundwater
 basins, because the control over demand that they achieved did not bring
 the basin into balance.
-124
 
 A"aIJ�;ng institutional change
 Pump�rs in Central Basin had several advantag�s in this process. Because
@@ -5564,9 +5386,7 @@ possesses a legal water right can initiate a court action to enforce com­
 pliance to the judgments. the watermaster does not need to initiate punitive
 actions against noncon(ormc:rs. As expressed by an official of the water­
 master service in 1960,
-125
 
-Governing the commons
 it is our policy not to take any affirmative actions against any part)' since this would
 place us in the position of being an active party in the action. Our policy has been
 to inform the active parties of any infringements and leave affirmative action up
@@ -5606,9 +5426,7 @@ have control over the monitoring system to ensure that it continues to be
 active, fair. and reliable. Two-thirds of the watermaster"s budget is paid for
 by those possessing water rights, and they can petition the court to appoint
 a different watermaster if they are not satisfied with performancc.31
-126
 
-Analyzing institutional change
 THE ENTREPRENEURSHIP GAME
 Immediately after the interim agreement was signed in West Basin, and
 before litigation was iniriated in Central Basin, West Basin water prcducers
@@ -5649,7 +5467,6 @@ later juncture to be withdrawn when needed. If such a barrier cOlild be
 constructed along the entire coastline, the artificial recharge of the basin
 would be greatly enhanoed, and rhe threat of the sea would be eliminated.
 Once the technical and economic feasibility had been established, the
-127
 
 Govenring the commons
 question of exactly who would pay for the barrier. and how, remained to
@@ -5693,7 +5510,6 @@ at least 25 acre-feet of groundwater per year to file notices of their annual
 extraction with a state agency. That legislation could not expedite the West
 Basin case, bur it did provide some of the information necessary for rela­
 tively rapid adjudications in Central Basin and San Gabriel Basin.
-128
 
 Analyzing i"stitut;onal change
 The second area of concern in the proposed legislation invol\'ed the
@@ -5736,9 +5552,7 @@ proposal to create a district.
 The basic issues that had to be resolved in that constitutional process
 were (1) the source of water for the barrier. (2) the exact boundaries of the
 new district, (3) how the internal elecEOral boundaries would be drawn.
-129
 
-Governing the commons
 and (4) the extent of taxing powers to be authorized. West Basin water
 producers had hoped that it would be possible to purchase reclaimed water
 from the Hyperion water-treatment plant -a sewage-disposal facility oper­
@@ -5778,9 +5592,7 @@ various state bodies.
 seawater into West Basin and probably would be included. It is doubtful
 that any of Long Beach could be included in a district comprising only
 the West Basin.
-130
 
-Analyzing institutional change
 5 The flow of groundwater across the fault from Central Basin to West
 Basin probably would be greater under the replenishment program of a
 larger district.
@@ -5819,9 +5631,7 @@ Distri� Boundary Committee, October 27, 1955. p. 2)
 Soon thereafter, members of both associations came to a working agree·
 ment that the benefits of a larger district would outweigh the costs. A;·
 surances were given to West Basin producers that they would not be
-131
 
-Governing the commons
 dominated by their eastern neighbors. Next, a joint committee of both
 associations began a series o( relatively tough negotiations with al1 of the
 public agencies that might eventually be involved in managing these two
@@ -5863,9 +5673,7 @@ ries), and in that way had formal recognition as a type of constitutional
 document. Once that constitution had been approved by the two private
 associations, all formal steps outlined within it were achie\'ed within a few
 months, and the Central and West Basin Water Replenishment District was
-132
 
-Analyzing institutional change
 supported in the election (of November of 1959 by a vote of .. to I (Los
 Angeles Times, November 18, 1959).
 THE POLYCENTRIC PUBLIC-ENTERPRISE GAME
@@ -5905,9 +5713,7 @@ among the public enterprises that currcndy managc West Basin and Central
 Basin.
 At the cote of each of thos:: relationships is the Central and West Basin
 Water Replenishment District. This district receives the funds assessed on
-133
 
-Governing the commons
 Table 4.1. Bas;n ",a"agemellt costs m.d savinRs per acre-foot result;ng
 from bas;" mal.agement ;n the three bi,s;ns (dollars)
 Cost Raymond West Celltral
@@ -5945,7 +5751,6 @@ In regard to the actual operation of the replenishment works, the re­
 plenishment district entered into an exchange agreement with the Los
 Angeles County Flood Control District (reorganized in 1987 to be the Los
 Angeles County Department of Public Works). Thus, the replenishment
-134
 
 Anal:izing ;"stitutional change
 district has maintained only a skeletal staff (an executive director and a
@@ -5988,7 +5793,6 @@ es illustrates how a governance system can evolve to remain largely ill lhe
 public sector without being a central regulator. Aspects of both private and
 governmental activities are involved in all of these basins. Some scholars
 have characterized the assignmem of well-defined rights to the flow 0: a
-135
 
 Governing the commo1ls
 CPR as "privatization." Given that the water rights held by water pro­
@@ -6030,9 +5834,7 @@ is privately profitable and to ignore the long-term consequences on water
 levels and quality. The experience in all of these groundwater basins illus­
 trates how a pumping race can continue for many years, even though water
 levels fall (raising everyone's costs of Iihing water) and salt water intrudes
-136
 
-Analyzing institutional change
 (threatening the long-run survival of the basin itself). Overdraft conditions
 continued for several decades in these basins. The best explanation for the
 actions and outcomes during that period is that individuals caught in a
@@ -6072,9 +5874,7 @@ realized before anyone needed to make larger investments. Each institu­
 tional change transformed the structure of incentives within which future
 strategic decisions would be made.
 Further, because the appropriators from several neighboring basins were
-137
 
-Governing the commons
 all involved ill similar problems, participants in one setting could learn
 from the experiences of those in similar settings. Suflicient overlap existed
 among participants across basins to ensure communication about results.
@@ -6116,7 +5916,6 @@ those costs. Maintaining a court system in which individuals have standing
 to initiate litigation in order to develop firm and transferable rights to a
 defined quantity of water is one such contribution. The state of California
 goes even further and subsidizes one-third of the cost of such litigation in
-138
 
 A,:alyz;ng institutional change
 order to encourage full exploitation of water resources and settle disputes
@@ -6158,9 +5957,7 @@ containing only required or forbidden actions and outcomes.4' With :hat
 limited conception, some recurring situations are rule-governed, and oth­
 ers arc not. By including all three deontic operators in a definition of a rule,
 it is always possible to identify the set of rules that constitute a situation.
-139
 
-Governing the commons
 One needs to ask only ['wo questions concerning the actions and outcomes
 of relevance to this situation: (l) Is this action or outcome (or its negation)
 required? (2) Is this action or outcome (or its negation) forbidden? Any
@@ -6202,9 +5999,7 @@ rion they have, or the payoffs (E. Ostrom 19863) is an institutional change.
 The costs of changing the rules vary substantially from one rule to another,
 from one political regime to another, and from one level of analysis to
 another, and they also vary over time as participants and conditions
-140
 
-Analyzing institutional change
 change. Whether or not it will be costly to achieve any institutional change
 will depend on many ·.. ariablcs (to be discussed in Chapter 6), no. simply
 on whether or not a new institutional arrangement is being created.
@@ -6246,7 +6041,6 @@ stitutional-choice situatic,n, individuals decide whether or not to change a
 set of status quo rules that determine who is eligible and how brure
 collective-choice decisior.s are to be made. Similarly, in a collective-choke
 situation, individuals decide whether or not to change a set of status quo
-141
 
 Governi1lg the commons
 rules thar determine who is eligiblc and how future operational choices arc
@@ -6272,9 +6066,7 @@ lective-choice or operational-choice situations. Before I do that, however,
 it is important to examine the failure cases discussed in Chapter 5 50 that
 these conjectures can also build on information from situations in which
 participants were not successful in changing their institutions.
-142
 
-5
 Analyzing institutional failures and fragilities
 The empirical cases presented so far have been success stories. Given the:
 presumption of failure that characterizes so much of the policy literature,
@@ -6303,9 +6095,7 @@ systems. To work successfully, these systems need the active cooperation of
 the fanners to schedule and manage water use so as to minimize wastage..
 National officials have altered the administrative structures of these sys­
 tems several times without succeeding in obtaining farmer cooperation in
-143
 
-Governing the commons
 implementing rules to allocate water to minimize overuse. The Sri Lankan
 experience with the reluctance of farmers to invest time and effort to
 enhance the productivity of a centrally managed system has been repeated
@@ -6345,9 +6135,7 @@ larger trawling vessels and "had rarely enforced the three-mile limit, much
 to the anger of the small fishermen" (Berkes 1986b, p. 79).2
 The early financial success of the trawlers lured others 10 enter the loc:al
 fishery, until the revenueS from the fleet as a whole were less than the costs
-144
 
-Analyzing institutional failures and fragilities
 of fishing in the area. As Berkes indicates, Bodrum was a "textbook ex­
 ample of rent dissipation in a fishery" (l986b, p. 79). Although the total
 annual yield of fish remained approximately the same, the catch per unit
@@ -6389,7 +6177,6 @@ than one." Consequently, there were "no operational rules in place tc
 allocate the fish, to reduce the conflicts, or to limit crowding" (Berkes
 1986b, p. 75).
 The general institutional setting within Turkey could be called "benign
-145
 
 Governing the commo"s
 neglect." National legislation required fishers to be licensed, but did not
@@ -6431,9 +6218,7 @@ dino is the largest county in the United States, and there are ninc states that
 are not as large as San Bernardino County. The combined areas of New
 Jersey, Hawaii, Connecticut, Delaware, and Rhode Island would fit into
 this one county (Blomquist 1989, p. 2). Approximately 83% of the county
-146
 
-Analyzing institutional failures and fragilities
 is part of the Mojave Desen. Fifteen different groundwater basins -some
 interconnected and some t::>tally independent -underlie the area. Some of
 these basins are fed by the Mojave Rive:r. which flows largely underground
@@ -6475,9 +6260,7 @@ who had been involved in the West Basin and Central Basin litigations, to
 initiate legal action to settle water rights for the entire region. In 1966,
 when litigation was initiated in the Superior Court of San Bernardino
 County. no consensus had developed concerning several key issues:
-147
 
-Governing the commons
 Could the region best be described as One region with a single under­
 ground river, as a series of interconnected groundwater basins, or as
 some combination of a river system, interconnected groundwater basins,
@@ -6518,7 +6301,6 @@ tween appointed personnel and elected officials. The lack of fundamental
 agreement led to acrimonious political conflict, including several recall
 elections, front-page stories in the local papers that pushed aside stories on
 the Watergate scandal, and finally the suspension of the litigation in 1974
-148
 
 Analyzing in$titutbnal failures and fragilities
 (Blomquist 1989, pp. 57-77). No action has since been taken to limit
@@ -6560,9 +6342,7 @@ the Karave caste" and are beach-sc:iners. We shall focus on this aspect of the
 local fishery.
 Beach seines (called madelia or "big net") arc half-mile-Iong nets that
 may harvest a ton of fish at one time during rhe prime period when many
-149
 
-Governing the commons
 fish are available. The peak period occurs sometime during September or
 October and can constitute as much as one-third of the carch for an entire
 year (Alexander 19.82, p. 134). A beach seine lasts for about five years
@@ -6604,7 +6384,6 @@ The harbor side produces the really big catches. but the rock side is more
 consistently productive when there are fewer fish. (2) The first catch of the
 morning is most likely to be the biggest catch of the day. and prices are
 highest in the morning. (3) The weather affects the number of hauls that
-150
 
 Analyzing institr4tional failures and fragilities
 �
@@ -6625,9 +6404,7 @@ Note: This is a stylized represenlation of how the first four nets (using letter
 alphabet co symbolize a ner) would be launched daily at each sile, bucd on Table 7.1
 of Alexander (1982). In praaice, the number of neB in use varies from day 10 dar, and
 the same number of nets may nOI be launched (rom both sites.
-151
 
-Governing the commons
 can be made in a day, and any system assigning a set hour of the day would
 be inefficient. (4) Beach-seining involves high labor inputs to prepare a net
 for use and to restack it afterward, and simple rotation systems allowing all
@@ -6669,9 +6446,7 @@ to encourage their sons-in-law to live in Mawelle and invest in one of the
 eight shares of a family net. By 1931, the second generation of this in­
 migration began to marry and wanted access to the harvest. Given that
 access was tied to the eight-share system, sons had great motivation to
-152
 
-Analyzing institutional failures and fragilities
 attempt to acquire a share in a new net. Alexander illustrates the logic of
 the situation clearly:
 If there are [Wenty nets, a man with one share will receh'e lII60th of the annual
@@ -6712,9 +6487,7 @@ received a profit only in those years when his net operated during the
 limited flush season. In earlier times, everyone had operated a net during
 the high-yield season. By 1971, however. that occurred, on the average,
 every three years. In the other two years, the income earned from a single
-153
 
-Governing the commons
 share was less than a subsistence-level income. Poorer owners of single
 shares began to sell their shares to others. A fisher who owned one share
 in each of five nets appropriately spaced throughout the sequence could
@@ -6756,9 +6529,7 @@ revenue officer refused at first, arguing that there were tOO many nets.
 When the da)' came for the annual registering of ners, four members of
 Mahattea's faction appeared with nets borrowed from a nearby village.
 Mter considerable conflict in the village, the district revenue officer or-
-154
 
-Analyzing institutional failures and fragilities
 dered those nets to be regis:ered. Further nets were added when another
 faction leader supported a candidate from the opposition party and he won
 at the next elecrion, aher agreeing that additional nets could be registered
@@ -6800,9 +6571,7 @@ appropriators do not have autonomy to make and enforce new rules.'
 Before independence in 1948, the Brirish had recognized the position of
 village headman (vidalia a"acb,) and an official responsible for all aspects
 of fishing CpatabiJndi a"ach,). The village headmen were responsible for a
-155
 
-Governing the commons
 wide variety of activities in a local village, usually were appointed from
 among the local landowners, and frequently increased their wealth sub·
 stantially as a result of holding office. They did have some real representa­
@@ -6844,9 +6613,7 @@ officials had promulgated a law that limited entry, but they failed to
 enforce it. Instead of enforcing entry rules limiting the number of nets,
 national officials could be convinced with promises of votes (and perhaps
 even bribes) to intervene and prevent the enforcement of a national rule
-156
 
-Analyzing institutional failures and fragilities
 considered desirable by most local fishers. In any effort to dose entry to a
 resource. SOme participants, or potential participants. are strongly moti­
 vated to ride free on the resrrictions imposed on others. If these partici­
@@ -6886,9 +6653,7 @@ The quantity of paddy rice produced in Sri Lanka has grown steadily in
 recent decades, particularly since the 1950s. The introduction of higher­
 yield varieties of rice has contributed to this growth,' but the amount o(
 land under irrigation is the single most important factor af(e,,-ring the
-157
 
-Governing the commons
 quantity of rice produced (Madduma Bandara 1984, pp. 298-301).' AI·
 though the: quantity of rice produced has steadily increased, the outptll is
 substantially short'of the expectations of project planners. In few of these
@@ -6931,9 +6696,7 @@ substantially less than the projections made by irrigation engineers based
 on formulas of "optimal water-usage patterns."
 A realistic estimate of actual water usc in the major project areas of Sri
 Lanka is 12-15 feet of water applied to each hectare of paddy fields: 5-6
-158
 
-Analyzing institutional failures and fragilities
 feet for the major (maha) growing season, when precipitation augments
 irrigation, and 7-9 feet for the minor (ya/a) growing season, when the� is
 little or no precipitation. l"he most effective use of water to be recorded
@@ -6975,9 +6738,7 @@ obtaining the additional food and income that would result from the design
 of an effective and enforceable set of rules for managing irrigation systems
 to increase their yields. But Ihe farmers in that system are indeed caught in
 a system that is unlikely to facilitate their achieving an improved system :)f
-159
 
-Governing the commons
 rule-()rdered relationships without outside help. And officials of the central
 government are equally trapped -given the current setting -and are also
 unable to break"the vicious circles encompassing them and the farmers they
@@ -7018,9 +6779,7 @@ supposed to be invariable each year to ensure time for two crops and for
 maintenance work on the bund and the channels. The notion of fIXed dates
 was related to "a general view of British irrigation authorities that schemes
 should operate according to standard programmes so as to be subject to as
-160
 
-Analyzing institutional failures and fragilities
 little influence from evenrs and personalities as possible" (Harriss 1977, p.
 367).
 From 1920 to 1958, the Kirindi Oya system was managed by a dual
@@ -7063,7 +6822,6 @@ Department regularly requested delays in the timing of water releases in
 order to prevent destrucrion of the first crop, which would lead to a lower
 t61
 
-Governing the commons
 tax yield on the land. The effects of such delays were failure of the second
 crop in many years and a cumulative deterioration in the maintenance of
 the system. Further, the conflict between the two agencies could be man­
@@ -7104,7 +6862,6 @@ throughout a long season, rather than at a few brief periods, would increase
 the amount of water lost to seepage.
 The administrative secretary was responsible for enforcing compl iance
 with the rules for water use, but he had fewer enforcement powers than
-162
 
 a"d
 Analyzing i"stitutional failures fragilities
@@ -7144,15 +6901,12 @@ effectively controlled the appointment (Fladby 1983; N. T. Uphoff, per­
 sonal communication). By fhe mid-1970s, connol over water theft W:i.S
 "virmally nonexistent." Although 200 reports of water poaching had been
 submitted, none had been officially pursued. In the lower portions of the
-80
 system, "about acres of paddy are irrigated by means of an unofficial
 channel which blatandy taps the main channel, and disrupts cultivation i:1
 the last yaya (tract) irrigated. ... This has been going on for about fifteen
 years" (Harris... 1977, p. 372). Those who irrigated at the tail end of this
 system, as in many systems, had the most unreliable supplies.I S
-163
 
-Governing the commons
 Several administrative secretaries indicated when interviewed that they
 did not file official actions against irrigators for water poaching even
 though they "regUlarly file cases in the event of non-payment of the acreage
@@ -7196,9 +6950,7 @@ tenance duties.
 After a detailed analysis of this personnel system. Michael Moore con­
 cludes that it impedes efficient water management in several ways: (1)
 Recruitment patterns "impede effective social interaction between public
-164
 
-Analyzing institutional failures and fragilities
 servants and cultivators," as well as "internal communication and working
 relationships which are especially imporrant for water management."
 (2) Performance in written examinations is not associated with good work
@@ -7239,7 +6991,6 @@ of farmer organizarion. The major selection criteria have been (1) being
 landless and (2) having a large family to enhance the labor supply (Harriss
 1984, p. 325). At the same time, land allotments distributed to new settlers
 are supposed (by law) to be passed along intact from one generation to the
-165
 
 Governing the commo1ls
 next. Although one can understand that altempt to avoid c:xtreme frag­
@@ -7271,7 +7022,6 @@ another,
 questionable strategies (potential leaders thus being able to take care of
 thelllliielv�lii wiliJuul having lO exen leadership to solve larger communal
 problems), and
-5
 the lack of physical control structures in the irrigation system itself.
 These are difficult problems to overcome. They are exacerbated by the
 spoils politics of a central regime unwilling to enforce rules impartiall)', no
@@ -7283,7 +7033,6 @@ The situation fadng appropriators in such systems is one of inexorable
 tragedy. Or is it? Are the farmers on large Sri Lankan irrigation settlements
 (or similar projects elsewhere) doomed to eternal conflict and lack of
 cooperation? Unless there are major changes in local institutions, a firm yes
-166
 
 A11ai),zing rnstitutiolla/ failures and fragilities
 is the only ans,,\·er. Bur then the key question is whether or not it is possible
@@ -7328,9 +7077,7 @@ The original project design called (or regimentation of the farmers and
 increased law enforcemc:-nt. That approach was modified to some degree in
 the final proposal, which called for the organization of farmers throughout
 GOlB to ensure that farmers would contribute (ree labor to rehabilitate
-167
 
-Governing the commons
 and then maintain the channels that served their fields in order to increase
 efficient use of water. The final project assigned certain funds and responsi­
 bility to the i\grarian Research and Training Institute (ARTI) for farmer
@@ -7372,9 +7119,7 @@ field channel. Further, lOs identified problems beyond those that could be
 solved by the farmers working together, problems that needed to be ar­
 ticulated to ID officials and others. Once farmers were used to working
 together and had achieved benefits from group action, the 10 would then
-168
 
-Analyzing institutional failures and fragilities
 help form a local organIzation and select, th rough consensus, a farmer­
 representative. This representative could articulate the interests of the
 other farmers on his field channel at larger meerings and report back to the
@@ -7416,9 +7161,7 @@ irrigation officials toward them and in the policies adopted by the ID.24
 Farmer behavior has changed markedly since the evolution of new in­
 stitutions for collective aaion. In those areas where FCOs and DCOs have
 been established, water rotation procedures are quite generally pract'.ced.
-169
 
-Governing the commons
 In a receor survey, 98% of the field representatives "felt that water rotation
 leads to equity in water distribution and 79 percent of the: farmers felt that
 tbey would themselves be assured of adequate water under rotation" (Ka­
@@ -7447,7 +7190,6 @@ their own land and even, at times, to clear distributory channels that were
 not cleared by officials because of lack o( (unding. Whereas 80% of the
 (:umt!r� indicared that the record for channel clearing had been poor prior
 to the establishment of FCOs, only 6% indicated that it was poor in 1986
-6
 (Kasyanathan 198 ; Perera 1986, p. 104).
 The level of conflict among farmers has also declined. "Now with the
 assured water supply and the: availability of a (orum, i.e., the FCO, to
@@ -7460,7 +7202,6 @@ organizations and the bypassing of those who had been the -elite, many
 powerful farmers in the area had originally opposed the organization of
 farmers at GOLB. By 1983, the opposition from such groups had dis­
 appeared. and some politicians had spoken publicly to praise the non-
-170
 
 Analy�i"g {ai/llres and fragilities
 institutional
@@ -7505,9 +7246,7 @@ by the increased yields resulting from successful introduction of water
 rotation procedures (Pertra 1986, p. lOS).
 On balance, the Gal O:/a project represents a dramatic turnaround in a
 system in which there once was little hope of gaining farmer cooperation
-171
 
-Governing the commons
 in the use of water and maintenance of field canals. Beyond gaining the
 coordinated effort needed to maintain the field channels and equ itably
 distribute water, thus enhancing the efficiency of the system, the project
@@ -7551,7 +7290,6 @@ duced over several generations. Such problems may be intractable froni
 "inside" the situation unless the major participants holding diverse posH
 tions can simultaneously be shown the necessity for major changes in the.j
 incentive structure facing them all.2.� The amount of external interventioD�
-172
 
 and
 Analyzing institutional failures fragilities
@@ -7598,7 +7336,6 @@ S-jQshore fishe ry is conducted from the end of March through December,
 There arc differences in value, size, and technologies between the
 ':
 ,
-173
 
 Govem;ng the commons
 inshore and offshore fishing boats, but they are not as substantial as the
@@ -7645,9 +7382,7 @@ joimly managed this resource. As expressed b}' a local fisher,
 I've fished here all my life. So did my father and his father. Men in my fami)· have
 been fishin' here for a long time. If an)'one's got a right to fish here it's me and I'm
 no different than most of the fellas fish'n here. (A. Davis 1984. p. 145)
-174
 
-Analyzing institutional failures and fragilities
 They see themselves as having exclusive rights to their lobster territory,
 which can yield up to 40% of a fisher's yearly income. In addition, 'hey
 exercise the riglu of first access (and the right to refuse access in yea:s of
@@ -7688,9 +7423,7 @@ property rights and government regulation. Ruling out private property
 leads to an official policy of federal-government regulation:
 : J'he federal government . . . ;.arries the jurisdictional responsibility for conserving
 "fisheries resources . . . and for allocating the distribution of these resources among
-175
 
-Governing the commons
 competing users. Since the establishment of private. property rights in fishery
 resources is impracticable in the great majority of cases, the state's responsibility
 for resource conservation and allocation cannot be delegated.
@@ -7731,7 +7464,6 @@ unless they currently held one and that fisheries officers would confiscate the
 unlicensed sct nets. One man exclaimed that: "Ii they touch my nets thc)" 1J get a
 surprise'" (/\. Davis 1984, p. H7)
 Protest meetings were held along the entire coast, leading federal officials
-176
 
 AnaiyzilJg ;lIstitutional failures and fragilities
 to back off long enough to allow fishers to obtain herring licenses whether
@@ -7773,9 +7505,7 @@ fishers living along the coast c·f Bahia in Brazil - tenure that is not re­
 cognized by national, regional, or local governments in Brazil. Further, the
 official policy of the Brazilian government is open access, rather than the
 limited-access system of the raft fishers. Brazilian national fishing codes
-177
 
-Governing the commons
 define all Brazilian territorial waters as public waters opellio any Brazilian
 boat registered in a Brazilian port.
 Several scholars have documented what occurred when the government
@@ -7870,7 +7600,6 @@ ough the facilities of a local co-op and partly through discussions in the
 l coffeehouse. Without a regular arena for collective choice, it would
 be difficult for the Alanya fishers to adjust their rules in the future if
 �nditions were [0 change.
-179
 
 Table 5.2. Design principles and institutional performances
 Clear
@@ -7905,7 +7634,6 @@ aNR =  not relevant.
 hWith two major exceptions, from 1739 to 1840 and 1930 to 1950.
 cMissing information.
 
-Analyzing institutional failures and fragilities
 In regard to Gal Oya, boundaries and membership have been clearly
 designated, congruent rules have been devised and monitored, and collec­
 tive-choice arenas have been set up. Until the rights of farmers are clearly
@@ -7930,9 +7658,7 @@ An initial explanation of why these design principles would be associated
 with robust institutions was presented in Chapter 3. Sufficient support for
 those initial theoretical speculations is presented in Table 5.2 that further
 theoretical and empirical analyses appear warranted.
-181
 
-6
 A framework for analysis of self-organizing and
 self-governing CPRs
 In Chapter 1, I discussed three models that are used to justify the policy
@@ -7962,7 +7688,6 @@ nothing more than shatter the convictions of many policy analysts that the
 only way to solve CPR problems is for external authorities to impose full
 private property rights or centralized regulation, it will have accomplished
 one major purpose. At the same time, no claim is made that institutional
-182
 
 framework for analysis of
 A CPRs
@@ -8007,9 +7732,7 @@ paid to the effects of one's actions, and the costs of trying to change the
 structure of the situation are high. They are far less useful for characteriz­
 ing the behavior of appropriators in the smaller-scale CPRs that are the
 focus of this inquiry. In such situations, individuals repeatedly communi-
-183
 
-Governing the commons
 cate and interact with one another in a localized physical setting. Thus, it
 is possible that they can learn whom to trust, what effects their actions will
 have on each other and on the CPR, and how to organize themselves to
@@ -8052,7 +7775,6 @@ change. We do not learn from these models what individuals will do when
 they have autonomy to craft their own institutions and can affect each
 other's norms and perceived benefits. Nor do we learn how the capacity of
 innovators to develop institutions that can lead them toward better, rather
-184
 
 A framework for analysis of CPRs
 than worse, outcomes for themselves and for others might be enhanced or
@@ -8094,9 +7816,7 @@ in complex and uncertain environments. Such individuals can be expected
 to make contingent commitments to follow rules that
 • define a set of appropriators who are authorized to use a CPR (design
 principle 1),
-185
 
-Governing the commons
 • relate to the specific attributes of the CPR and the community of
 appropriators using the CPR (design principle 2),
 • are designed, at least in part, by local appropriators (design principle 3),
@@ -8137,9 +7857,7 @@ better off in the short run. However, if one were to break the rules several
 times without discovery, one might revise one's estimate of the efficacy of
 the current monitoring system in deterring others from similar infractions.
 That would lead an occasional rule-breaker to adopt a higher rate of
-186
 
-A framework for analysis of CPRs
 rule-breaking behavior. Obviously, as undetected rule infractions become
 more frequent and CPR conditions become worse, the higher will be the
 probability that other individuals will increase their rates of rule-breaking
@@ -8181,7 +7899,6 @@ explanation for institutional supply were presented at the end of Chapter
 stitutional supply was analyzed in the context of a facilitative political
 regime. Most of the failure cases presented in Chapter 5 showed a different
 picture in which individuals were unable, because of internal and external
-187
 
 Governing the
 commons
@@ -8225,9 +7942,7 @@ similar interests and low discount rates. Neither leadership nor the type of
 production function helps to account for the differences in results.
 The most frequently used theories of collective action are too sparse and
 too difficult to interpret to be fully satisfactory as foundations for effective
-188
 
-A framework for analysis of CPRs
 policy analysis of institutional change. By "too sparse," I mean that key
 internal and external variables needed to explain self-organization are
 missing from the consideration. By "difficult to interpret," I mean that the
@@ -8269,9 +7984,7 @@ source. From there, several further enterprises were established, each built
 on the substructure that had already been created. Pumpers were able to
 call on public facilities - courts, a state department of natural resources,
 legislatures, special elections - to obtain information and to engage in
-189
 
-Governing the commons
 constitutional decision making that would be considered legitimate and
 enforceable. In Mojave, by contrast, the approach was to organize a very
 large unit and attempt to assign, all at one time, water rights for 15
@@ -8313,9 +8026,7 @@ and transactions costs are assumed away. To assume that complete in­
 formation is freely available and that transactions costs can be ignored does
 not generate theoretical explanations that can be used in a setting where
 information is scant, potentially biased, and expensive to obtain and where
-190
 
-A framework for analysis of CPRs
 most transactions are costly.2 Why individuals monitor each other's rule
 conformance would be difficult to explain using the assumption of com­
 plete information.
@@ -8356,9 +8067,7 @@ to examine how individuals in field settings obtain information, who has
 what information, and whether or not information is biased. Assuming
 independent action does not push the analyst to ask if individuals take into
 account the effects of their actions on the choices made by others. Assum-
-191
 
-Governing the commons
 ing zero-cost monitoring does not push the analyst to examine cost and
 effectiveness for various monitoring rules. Assuming fixed structure does
 not push the analyst to examine whether or not and how individuals
@@ -8398,9 +8107,7 @@ and with what weight in collective-choice decisions. Rather than examin­
 ing constitutional-choice and collective-choice processes separately, I refer
 to both when I use the term "institutional-choice situation."
 To analyze an institutional-choice situation, one needs to view it from
-192
 
-A framework for analysis of CPRs
 the perspective of the individuals making choices about future operational
 rules. Individuals who make institutional choices also make operational
 choices. When individuals face the question whether to retain or change
@@ -8436,9 +8143,7 @@ pDrtunities Expected
 CD'ts
 External .... rld
 Figure 6.1. Summary of variables affecting institutional choice.
-193
 
-Governing the commons
 quo set of rules.4 The strategies available to an individual are "to support"
 rather than "to choose" because no single individual makes institutional
 choices in other than totally monocratic systems. Whether or not a change
@@ -8479,9 +8184,7 @@ monetized costs or benefits. The Philippine farmers who invest their own
 labor to build and maintain their irrigation systems are able to judge the
 value of their labor in this activity versus the alternatives available to them.
 The costs of devoting 50 days to the zan;era are poignantly apparent to any
-194
 
-framework for analysis of
 A CPRs
 farmer trying to support a family. Further, it is also quite apparent how his
 agricultural yield responds to communal irrigation. The
@@ -8528,9 +8231,7 @@ affect the summary variable information about net benefits of alternative
 rules." For a participant or an analyst to develop a measure of the net
 benefits of an alternative set of rules, questions such as the following need
 answers:
-195
 
-Governing the commons
 1 What are the predicted average flows and the predicted values of re­
 source units in the future under a proposed set of rules, as compared
 with the status quo rules?
@@ -8571,9 +8272,7 @@ in the value of the catch over time. But if the purchaser is a monopolist,
 who has strategic reasons for withholding information, the purchaser may
 know much more than the fishers know about overall harvesting patterns.
 The establishment of an official monitor (such as the watermaster in the
-196
 
-A framework for analysis of CPRs
 Situational variables:
 1. Number of appropriators
 2. Size of CPR
@@ -8584,11 +8283,9 @@ Situational variables:
 7. AVailability of data about (1) through (6)
 6. Status QUo rules in use
 9. P�oposed rules
-1
 Information about net benef1ts
 of proposed rules
 Intemel world �
-Expected
 /bena r1tS
 }
 Support or dO
@@ -8611,7 +8308,6 @@ tors concerning the variables that will affect whether or not a change in
 rules will produce a net benefit.
 Thus, whether or not an individual perceives any benefits to be derived
 from a change in rules will depend on (1) the objective conditions of the
-197
 
 Governing the commotts
 CPR, (2) the type of information that the current institutional arrange­
@@ -8652,9 +8348,7 @@ Several variables affecting transformation costs are not included in the
 list cited earlier, however. The type of proposed rule, for example, affects
 transformation costs. The transformation costs of setting up a strictly
 private association of appropriators to discuss common problems are con-
-198
 
-framework for analysis of
 | A   |     | CPRs  |
 | --- | --- | ----- |
 I So. Figure 6.21
@@ -8667,11 +8361,10 @@ Support Dr do
 n o ,.; ;]
 | gu In   | t e r n e l                 | n o t   s u p p o rt  |
 | ------- | --------------------------- | --------------------- |
-| Fi re   | !J  "                       | c h e n g  a   In     |
+| Fire   | !J  "                       | c h e n g  a   In     |
 | 6 5   D | l s c o u n !   r o t '\.   |                       |
 S CI   ru l e .
 /
-Expected
 costs
 Extern.1 world
 Information ebout ex ante costs
@@ -8701,9 +8394,7 @@ low-cost changes, they can gain experience concerning the costs of chang­
 ing the rules in their setting before attempting changes that will require
 substantial transformation costs. If the transformation costs for changing
 some rules are low enough, one or two individuals may receive sufficiently
-199
 
-Governing the commons
 high benefits from the change to pay the entire costs themselves. Con­
 sequently, some of the steps in the process of institutional development
 may not be second-order dilemmas, even though others may have this
@@ -8745,7 +8436,6 @@ In a regime that allows substantial local autonomy to engage in con­
 stitutional and collective choices, appropriators may be authorized to select
 their own rules so long as they follow certain procedures. The required
 procedures may vary from informal mechanisms that will ensure consulta-
-200
 
 A framework for analysis of epRs
 tion to formal mechanisms including signed petitions, special elections,
@@ -8789,9 +8479,7 @@ ternal authorities and the past institutional decisions made by local appro­
 priators. The autonomy of a set of local appropriators to make their own
 rules is, of course, strongly dependent on what is allowed or forbidden by
 central authorities, modified by distance and the capacity of the external
-201
 
-Governing the commons
 authorities to enforce their rules. The rules that govern the process of
 changing the rules, the number of decision makers who must be involved,
 and the resultant heterogeneity of represented interests are affected by the
@@ -8801,7 +8489,6 @@ be strongly affected. To understand institutional-choice processes, one
 must view them as. historical processes whereby current decisions are built
 on past decisions. Prior decisions may open up some future options for
 development, and close out others. The groundwater pumpers of Ray­
-II
 mond Basin did not necessarily recognize that as soon as they allocated a
 defined quantity of water to each and every pumper, a market in water
 rights would emerge, but that is what happened. Similar markets appeared
@@ -8832,9 +8519,7 @@ time and other resources that could be devoted to other activities. Monitor­
 ing activities frequently are undertaken by the appropriators themselves,
 either as they go about their normal activities (such as fishers who watch
 for boats owned by outsiders) or as a special job into which they rotate
-202
 
-A framework for analysis of CPRs
 {such as irrigators, each of whom is responsible for inspecting an irrigation
 canal for a specified period of time}. Maintaining courts, police, and deten­
 tion facilities to enforce rules also involves the use of resources that could
@@ -8857,7 +8542,6 @@ j
 se --;j Support or do
 F 6 i .S g ure D In i l s e c r o n u o n l t n r o o r t m:J " � c S no h Q t a I'1J n s g u l e p e p s In o r t
 /
-Expected
 costs
 External world
 Information about eK post costs
@@ -8870,9 +8554,7 @@ Situational Yarlables:
 5. Proposed rules
 6. Legitimacy of rules In use
 Figure 6.4. Situational variables affecting judgments about monitoring and enforcement costs.
-203
 
-Governing the commons
 fisheries. For resources such as groundwater basins or oil pools, the re­
 source units move underground to the area that is most heavily pumped.
 Even determining the physical boundaries of such resources requires ex­
@@ -8914,9 +8596,7 @@ those who would be particularly harmed by such cheating are also easier to
 monitor than are rules that depend on accidental discovery of a rule­
 breaker by someone who may be only indirectly harmed by the infraction.
 When irrigators using a canal are assigned particular time slots, as in
-204
 
-A framework for analysis of CPRs
 Murcia and Orihuela, each is motivated to be sure to receive his full time
 slot of water and to be sure that the next irrigator does not try to take water
 too soon. At the time of a switch from one irrigator to the next, both are
@@ -8956,9 +8636,7 @@ government-supported users who do not have local property rights.
 Evaluating shared nonns and other opportunities
 How individuals weight their own assessments of benefits and costs wiII
 depend on the norms that they internalize and the discount rates that they
-205
 
-Governing the commons
 utilize. Coleman (1987a) distinguishes between norms that are internalized
 by individuals, where the sanctioning for nonconformity is an internal cost
 (e.g., guilt, anxiety, lowered conception of self-worth), and shared norms,
@@ -8985,11 +8663,9 @@ likely to adopt a high discount rate than are appropriators who presume
 that they and their children are dependent on the local CPR for major
 economic returns. It is also the case that shared norms can affect discount
 rates as much as can information about other opportunities. Individuals
-I
 See FIgure 6.2
 r
 �
-Expected
 Situational vl!lriables: /bene rt\s
 1. Appropri8tors live ne8r CPR
 2. Appropri8tors Involved In many .;;;;] Support or do
@@ -9001,13 +8677,10 @@ Excpoescttse d
 that exist elsewhere
 Externel world
 Figure 6.5. Situational variables affecting internal norms and discount rate.
-206
 
-A framework for analysis of CPRs
 living in a community where disregard for the future is censured by others
 will have a lower discount rate than will individuals living in a community
 where no opprobrium is attached to seeking short-term gain in preference
-12
 to long-term benefit.
 The process of institutional change
 One can predict that in a highly competitive environment, those who do
@@ -9044,9 +8717,7 @@ The level of uncertainty when selecting new rules is far greater than the
 level of uncertainty when selecting pricing strategies when demand and
 supply are fixed. The intended outcomes of using new rules are not auto­
 matically achieved. They depend on many future choices to be made by
-207
 
-Governing the commons
 many different individuals as to how they interpret the meaning of the rules
 and whether or not they will follow the rules, monitor each other, and
 impose sanctions on nonconformance.14
@@ -9088,9 +8759,7 @@ quality and timeliness of the information that CPR appropriators obtain
 about their resource vary according to how a resource unit is used, as well
 as across resource types. The problems of groundwater pumpers in ob­
 taining accurate and valid information about the condition of their CPR are
-208
 
-framework for analysis of
 A epRs
 more daunting than those of herders, regardless of the final products of
 herding activities.
@@ -9133,9 +8802,7 @@ In southern California, for example, groundwater pumpers in West
 Basin and Central Basin were able to learn from the experience of those in
 Raymond Basin before they adopted variants of the rules used in Raymond
 Basin. Institutional arrangements that encourage communication among
-209
 
-Governing the commons
 individuals facing similar problems, such as regionwide associations, in­
 crease the knowledge base about how different rules work in practice. The
 wrong lessons can also be learned. Some of the water users in the Mojave
@@ -9175,7 +8842,6 @@ difficult tasks, no matter how homogeneous the group, how well informed
 the members are about the conditions of their CPR, and how deeply
 ingrained are the generalized norms of reciprocity. Given the strong temp­
 tations to shirk, free-ride, and generalIy act opportunistically that usualIy
-210
 
 framework for analysis of CPRs
 A
@@ -9219,9 +8885,7 @@ can be used as initial social capital.
 These variables are weakly ordered, beginning with those that I think are
 most important in affecting the likelihood of individuals agreeing to new
 rules that will improve welfare, and ending with those that I think are
-211
 
-Governing the commons
 somewhat less important. Although considerable emphasis has been placed
 on the size of the group involved in collective-action problems, I consider
 the first five variables to be more important than the number of persons
@@ -9263,9 +8927,7 @@ California. Other generalized institutional facilities were used when local
 appropriators drafted state legislation and negotiated with others across
 the state to take their interests into account. This proposed legislation was
 then enacted by the state legislature, and it provided the foundation for
-212
 
-A framework for analysis of CPRs
 organizing several special-purpose districts and interdistrict arrangements.
 The role of the surrounding political institutions in the California
 groundwater cases did not stop simply with providing generalized facilities.
@@ -9307,9 +8969,7 @@ them to make the best case to external officials are most likely to gain rules
 (or exceptions to rules) that will advantage them the most.
 One can expect that honest, hard-working regional or national officials
 may well supply new CPR institutions well adapted to local circumstances
-213
 
-Governing the commons
 in some of the CPRs under their jurisdiction. But the tendency to try to
 impose uniform rules throughout a jurisdiction, rather than specialized
 rules that apply to localities within a jurisdiction, makes it extremely
@@ -9348,9 +9008,7 @@ lead to highly particularized models, not universal theories. It is as essential
 to map the terrain for a family of models as it is to develop specific models.
 If the social sciences are to be relevant for analyses of policy problems, the
 challenge will be to integrate efforts to map the broad terrain and efforts
-214
 
-framework for analysis of
 A CPRs
 to develop tractable models for particular niches in that terrain. Each CPR
 can be viewed as a niche in an empirical terrain.
@@ -9392,9 +9050,7 @@ source. She argues that "if the government had foreseen a future shortage
 of the resource, it might have laid claim to it in 'the beginning,' before any
 users had made investments" (Rolph 1983, p. 51). As she puzzles about
 options, she asks this:
-215
 
-Governing the commons
 As the government steps in to limit use, should it simply allocate complete property
 rights to a small sub-group of the users while stripping the rest of their limited
 communal rights? Alternatively, should it take the resource from its present users
@@ -9433,7 +9089,6 @@ of transactions costs, the new institutional economics, law and economics,
 game theory, and many related fields22 are making important contributions
 that need to be carried forward in theoretically informed empirical in­
 quiries in both laboratory and field settings.
-216
 
 Notes
 1. REFLECTIONS ON THE COMMONS
@@ -9464,7 +9119,6 @@ not always prisoner's dilemma (PD) games. Dawes (1973, 1975) was one of
 the first scholars to show the similarity of structure.
 2 Hardin's model easily translates into the prisoner's dilemma structure. Many
 problems related to the use of common-pool resources (CPRs) do not easily
-217
 
 Notes to pp. 7-11
 translate. Simple games such as "chicken" and "assurance" games are better
@@ -9516,7 +9170,6 @@ rarely heeded in the policy literature.
 10 More accurately, the sum of the two types of errors must be less than 0.50,
 given the fixed parameters of this game, for the restructured game to have a
 (C, C) equilibrium. I am grateful to Franz Weissing, who suggested this par-
-218
 
 Notes to pp. 13-18
 ticular analysis for illustrating the problem of incomplete information on the
@@ -9568,7 +9221,6 @@ Leininger, and Stephan 1990).
 19 Private orderings frequently are mistaken for no order, given the absence of an
 official formal legislative or court decision. See Galanter (1981) for a review
 of the extensive literature on private orderings.
-219
 
 Notes to pp. 19-30
 20 The formal game-theoretical structures and outcomes of this and three other
@@ -9617,7 +9269,6 @@ to do so. Some actual appropriators may have no legal claim (e.g., squatters).
 In Chapter 4, I try to indicate carefully when the term is being used as a legal
 term for right-holders and when it is being used in the more general sense that
 I have just defined.
-220
 
 Notes to pp. 32-40
 3 See, for example, the debate about the effect of group size on the provision of
@@ -9669,7 +9320,6 @@ pendently, as contrasted with a firm in which individuals agree ex ante to
 coordinate their activities ex post.
 14 This stylized version does not do full justice to the extensive work on the
 theory of the firm, and I certainly do not recommend any policy prescriptions
-221
 
 Notes to pp. 41-9
 on the basis of this sketch. Because my purpose is only to show how the theory
@@ -9721,7 +9371,6 @@ Two CPRs identical in almost all respects, except the range of variation found
 in regard to a important underlying parameter, may need quite different
 representations in terms of their strategic structures.
 25 A third appropriation problem has to do with technological externalities.
-222
 
 Notes to pp. 50-60
 Because none of the cases in this volume clearly illustrates this problem, I do
@@ -9770,7 +9419,6 @@ economic historians over the issue of whether or not long-enduring institu­
 tions are optimally efficient. The way the question is addressed in many
 instances leads to an automatic yes or no answer, depending on what variables
 are considered as constraints on the problem. If information and transactions
-223
 
 Notes to pp. 61-4
 costs are not considered, no real-world institution can ever be optimally effi­
@@ -9822,7 +9470,6 @@ because "citizenship closes access to communal resources both to members of
 neighboring communities who might be direct competitors and to national or
 colonial states attempting to wrest control from local inhabitants."
 5 Restrictions on the use of common grazing lands based on the "home feed
-224
 
 Notes to pp. 64-72
 base" of the user were common throughout most of feudal Europe. The Forest
@@ -9874,7 +9521,6 @@ term by election, lottery, or competitive bidding. The Tormos Canal, for
 example, used a competitive bidding system. At a public meeting of the her­
 eters, the person who submitted the lowest price to administer the canal was
 assigned responsiblity to administer the canal for three years at the price set in
-225
 
 Notes to pp. 72-5
 his bid. Each bidder had to estimate how large a staff he would need to employ
@@ -9926,7 +9572,6 @@ error or negligence, instead of overt illegal attempts to obtain water, rep­
 resented a slightly higher recorded infraction rate.
 19 Glick's reflection on this infraction rate is as follows: "Again, this is indicative
 of the way in which the fine structUre fine-tunes the system. In Caste1l6n the
-226
 
 Notes to pp. 76-80
 ditch rider imposed the fines summarily. The more formal, weekly court in
@@ -9978,7 +9623,6 @@ not being delivered. Another alternative is water brought by a private firm
 from the lower reaches of the Segura River delta. That firm had already
 invested in massive pumps to lift the water out of the delta and transport it to
 several nearby communities, and in 1924 the Alicante irrigation syndicate
-227
 
 Notes to pp. 81-6
 funded the extension of a canal by 25 km so that this water could be delivered
@@ -10030,7 +9674,6 @@ direct obligations (Siy 1982, p. 95).
 "voluntary" contribution. Given that there is a high probability that non­
 participation will be sanctioned by members of the zanjera and/or the federa­
 tion, calling this a voluntary contribution is misleading. What is voluntary is
-228
 
 Notes to pp. 86-95
 joining or not joining the zanjera. Those who do not want to abide by the rules
@@ -10088,7 +9731,6 @@ tory. Fikret Berkes (1987, p. 87) describes why these resource systems and the
 rules used to regulate them have survived and prospered for so long: "effective
 social mechanisms ensure adherence to rules which exist by virtue of mutual
 consent within the community. People who violate these rules suffer not only
-229
 
 Notes to pp. 96-113
 a loss of favour from the animals (important in the Cree ideology ofh unting)
@@ -10138,7 +9780,6 @@ overlying land and used water on that land, in addition to being a senior
 appropriator from the basin.
 7 A proportionate cutback is an example of a solution that conforms to Reinhard
 Selten's general equity principle (Selten 1978b), whereby some individuals (n)
-230
 
 Notes to pp. 113-16
 are allocated some acre-feet of water (s) according to a standard of distribution
@@ -10187,7 +9828,6 @@ decisions made within the association. Given the voluntary status of the asso­
 ciation, no actions were taken by the association until a consensus was reached.
 Because actions were being pursued in many different arenas at the same time,
 major water producers could coordinate activities and monitor the perfor-
-231
 
 Notes to pp. 116-18
 mances of public officials (and their fellow water producers) in the context of
@@ -10239,7 +9879,6 @@ appointed to it; he was the attorney for the Dominguez Corporation and other
 related firms. Prior to his appointment to the Settlement Committee, he had
 vigorously fought against the litigation and strongly articulated a position that
 the Dominguez rights were superior to those of the others using the basin. No
-232
 
 Notes to
 pp.  119-20
@@ -10285,7 +9924,6 @@ Overlying landowners
 | 12 industrial firms         |     |     | 16,135  | 36  25,876  |        | 41  |
 | --------------------------- | --- | --- | ------- | ----------- | ------ | --- |
 | 8 large agricultural users  |     |     | 2,061   | 5           | 1,628  | 3   |
-44
 |     |     |     | 18,196  | 41  27,.504  |     |     |
 | --- | --- | --- | ------- | ------------ | --- | --- |
 Appropriators
@@ -10306,7 +9944,6 @@ committee of attorneys, slipped from estimated ri hts of 180/0 to prescriptive
 rights of 15%.
 23  The city of EI Segundo and Standard Oil withdrew water from wells located
 to the west of Hawthorne and near to the coast. Their fields consequently lay
-233
 
 Notes to pp. 121-3
 in the path of the saltwater wedge moving at an accelerated rate toward the
@@ -10358,7 +9995,6 @@ ment District. (2) The duration of his activities. He was appointed to his first
 position in 1946 and continued an active role in all three of the basins until he
 retired in 1974. Even after retirement at age 67, he continued an active role
 as a director representing Central Basin on the board of directors of the
-234
 
 Notes to pp. 124-9
 Metropolitan Water District of Southern California, where he was vice-chair­
@@ -10410,7 +10046,6 @@ ing only would be provided and . . . n o ad valorem tax would be permitted .
 provision and . . . the present bill represents a compromise between the two
 points of view" (West Basin Water Association, minutes, April 12, 1955, p. 8).
 The president of the association had called a special meeting of the full associa-
-235
 
 Notes to pp. 129-35
 tion to consider a draft of both pieces of legislation before he acted to approve
@@ -10468,7 +10103,6 @@ over both flood control and water conservation. Once it had lined most of the
 rivers in the county, the district emphasized water conservation in an effort to
 maintain its survival as a large-scale engineering firm in the public arena.
 43 Several pr i vate firms in the area serve as the watermasters for other basins; so
-236
 
 Notes to pp. 136-49
 the Department of Water Resources does not have monoPQ. ly authority to
@@ -10519,7 +10153,6 @@ much indebted to him for his insights and analysis based on his fieldwork.
 4 The Karave caste is known for being entrepreneurial and oriented toward
 trading and other forms of acquiring wealth: "Nor was caste a significant
 barrier against the conversion of economic gains into social mobility ....Th e
-237
 
 Notes to pp. 150-7
 (Karave] lack the ranked subsections which are found among" other castes
@@ -10546,8 +10179,6 @@ lind
 costs
 �------�------���-----------MC
 �­
-I
-I
 QUllntlty of nets used
 Figure 5.2. Rent dissipation in a fishery.
 Paul Alexander's comment on reading this interpretation in an early draft of
@@ -10561,7 +10192,6 @@ quadrupling -represent a substantial challenge to the capacity of an old set of
 rules to continue to produce outcomes that are efficient and fair.
 8 Up to 1972, only Taiwan, Japan, and Korea experienced more rapid growth
 in the yield of paddy rice (N. T. Uphoff, personal communication).
-238
 
 Notes to pp. 158-63
 9 The introduction of high-yield varieties has, in some villages, been associated
@@ -10613,7 +10243,6 @@ asekera 1981). See the discussion of these institutions by Uphoff (1983).
 15 The earlier land-tenure system in some parts of Sri Lanka had greatly reduced
 the level of conflict between head-enders and tail-enders, on the smaller tanks
 at least. The fields to be irrigated from a tank were laid out and assigned in
-239
 
 Notes to pp. 164-9
 such a way that each farmer was assigned one block of land to farm in the top
@@ -10665,7 +10294,6 @@ unauthorized cultivation broke open the dosed gates" (Uphoff 198630 p. 218,
 note 18).
 23 Actually, farmer-representatives took the initiative to set up such area councils
 shortly after FCOs were formed and before many DCOs were in place. This
-240
 
 Notes to pp. 169-74
 was possible because the program was not implementing a preconceived "blue­
@@ -10717,7 +10345,6 @@ out external aid. The conservatism of fishers in regard to the use of new
 technologies may reflect an awareness that the management of complex re­
 source systems depends on a delicate balance between the technologies in use
 and the entry and authority rules used to control access and use. If the adapta-
-241
 
 Notes to pp. 175-96
 tion of new technologies is accelerated, the relationship between the rules and
@@ -10766,7 +10393,6 @@ least a minimum winning coalition (whatever that may be) in an institutional­
 choice situation.
 6 This list is the result of my effon to understand what I have read in many case
 studies at a more general level. I presume that this list will be refined over time
-242
 
 Notes to pp. 198-212
 as propositions are more rigorously developed and tested. In other words,
@@ -10818,7 +10444,6 @@ the fire hydrants for a "routine" flushing (Fossette and Fossette 1986, pp.
 considered. Recently, however, several scholars have explored the results pro­
 duced by rules that have strong distributional effects and the importance of
 "grandfathering" current appropriations in order to gain agreement to rule
-243
 
 Notes to pp. 113-16
 changes Gohnson and Libecap 1982; Karpoff 1989; Welch 1983).
@@ -10851,7 +10476,6 @@ theory.
 22 Readers are referred to the list of references for the many important recent
 works by Buchanan, Coase, North. Shepsle, and WilJiarnson that are sub­
 stantially adding to our understanding of how institutions work.
-244
 
 References
 Acheson, J. M. 1975. The Lobster Fiefs: Economic and Ecological Effects of
@@ -10886,9 +10510,7 @@ Enclosures. Economic Jounull 92:937-53.
 Alt, J. E., and A. Crystal. 1983. Political Economics. Berkeley: University of
 California Press.
 Andersen, R. 1979. Public and Private Access Management in Newfoundland
-245
 
-References
 Fishing. In North Atlantic Maritime Cultures: Anthropological Essays on Chang­
 ing Adaptations, ed. R. Andersen, pp. 299-336. The Hague: Mouton.
 Arnold,J. E. M., andJ. G. Campbell. 1986. Collective Management of Hill Forests
@@ -10938,9 +10560,7 @@ Beardsley, R. K., J. Hall, and R. E. Ward. 1959. Village japan. University of
 Chicago Press.
 Becker, G. S. 1968. Crime and Punishment: An Economic Approach. journal of
 Political Economy 76:169-217.
-246
 
-References
 Bell, F. W. 1972. Technological Externalities and Common Property Resources:
 An Empirical Study of the U.S. Lobster Industry. Journal of Political Economy
 80:148-58.
@@ -10990,9 +10610,7 @@ ton: Indiana University.
 Blomquist, W. 1988b. T h e Performance of Groundwater Management: Volume 2,
 West Basin. Workshop in Political Theory and Policy Analysis. Bloomington:
 Indiana University.
-247
 
-References
 _ /
 Blomquist, W. 1988c. The Performance of Groundwater Management: Volume 3,
 Central Basin. Workshop in Political Theory and Policy Analysis. Bloomington:
@@ -11043,9 +10661,7 @@ Resource Depletion in South Asia. American Journal of Agricultural &onomics
 Bromley, D. W., D. C. Taylor, and D. E. Parker. 1980. Water Reform and Eco­
 nomic Development: Institutional Aspects of Water Management in Developing
 Countries. Economic Development and Cultural Change 28:365-87.
-248
 
-References
 Buchanan, J. M. 1968. The Demand and Supply of Public Goods. Chicago: Rand
 McNally.
 Buchanan, J. M. 1975. The Limits of Liberty. University of Chicago Press.
@@ -11095,9 +10711,7 @@ Christy, F. T., Jr. 1982. Territorial Use Rights in Marine Fisheries: Definition
 Conditions. FAa technical paper No. 227, Food and Agricultural Organization
 of the United Nations, Rome.
 Ciriacy-Wantrup, S. V., and R. C. Bishop. 1975. "Common Property" as a Con-
-249
 
-References
 cept in Natural Resource Policy. Natural Resources Journal 15: 713-27.
 Clark, C. W. 1976. Mathematical Bioeconomics. New York: Wiley.
 Clark, C. W. 1977. The Economics of Over-exploitation. In Managing the Com­
@@ -11147,9 +10761,7 @@ Craig, J. 1981. Continuity and Change in Sri Lanka's District Administration: A
 Political Perspective. In Studies in Decentralization (issue No. 3 of Manchester
 Papers on Development). Department of Administrative Studies, University of
 Manchester.
-250
 
-References
 Cruz, M. c., L. B. Cornista, and D. C. Dayan. 1987. Legal and Institutional Issues
 of Irrigation Water Rights in the PhilifJPines. Laguna: University of the Phil­
 ippines at Los Banos, Agrarian Reform Institute.
@@ -11199,9 +10811,7 @@ de los Reyes, R. P. 1980.47 Communal Gravity Systems: Organizational Profiles.
 Quezon City: Institute of Philippine Culture.
 de Saussure, F. 1960. Course in General Linguistics. London: Peter Owen:
 de Silva, N. G. R. 1981. Farmer Participation in Water Management: The Minipe
-251
 
-References
 /
 Project in Sri Lanka. Rural Development Participation Review 3: 16-19.
 Demsetz, H. 1967. Toward a Theory of Property Rights. American Economic
@@ -11252,9 +10862,7 @@ Institute for Contemporary Studies Press.
 Field, A. J. 1979. On the Explanation of Rules Using Rational Choice Models.
 Journal of Economic Issues 13:49-72.
 Field, A. J. 1984. Microeconomics, Norms, and Rationality. Economic Develop-
-252
 
-References
 ment and Cultural Change 32:683-711.
 Field, B. C 1984. The Evolution of Individual Property Rights in Massachusetts
 Agriculture, 17th-19th Centuries. Northeastern Journal of Agricultural and Re­
@@ -11303,9 +10911,7 @@ Gilles, J. L., and K. Jamtgaard. 1981. Overgrazing in Pastoral Areas: The Com­
 mons Reconsidered. Sociologia Ruralos 21: 129-41.
 Glick, T. F. 1970. Irrigation and Society in Medieval Valencia. Cambridge, Mass.:
 Harvard University Press.
-253
 
-References
 Godwin, R. K., and W. B. Shepard. 1977. Population Issues and Commons Di­
 lemmas. Policy Studies Journal 6:231-8.
 Godwin, R. K., and W. B. Shepard. 1979. Forcing Squares, Triangles and Ellipses
@@ -11355,9 +10961,7 @@ Harriss, J. C. 1984. Social Organisation and Irrigation: Ideology, Planning and
 Practice in Sri Lanka's Settlement Schemes. In Understanding Green Revolutions,
 eds. T. P. Bayliss-Smith and S. Wanmali, pp. 315-38. Cambridge University
 Press.
-254
 
-References
 Harsanyi, J., and R. Sehen. 1988. A General Theory of Equilibrium Selection in
 Games. Cambridge, Mass.: MIT Press.
 Hayami, Y. 1975. A Century of Agricultural Growth in Japan. Minneapolis: Uni­
@@ -11407,7 +11011,6 @@ Riding: An Experimental Encameration of Possible Explanations. Public Choice
 43:113-49.
 Jacobs,]. 1961. The Death and Life of Great American Cities. New York: Random
 House.
-255
 
 References "
 Jayawardene, J. 1986. The Training of Mahaweli Turnout Group Leaders. In
@@ -11459,9 +11062,7 @@ Klein, J. 1920. The Mesta. A Study in Spanish Economic History. 1273-1836.
 Cambridge, Mass.: Harvard University Press.
 Knapp, K., and H. J. Vaux. 1982. Barriers to Effective Ground-Water Manage­
 ment: The California Case. Groundwater 20:61-6.
-256
 
-References
 Koestler, A. R. 1959. The Sleepwalkers. New York: Macmillan.
 Korten, D. C. 1980. Community Organization and Rural Development: A Learn­
 ing Process Approach. Public Administration on Review 40:480-511.
@@ -11511,16 +11112,13 @@ Lipson, A. J. 1978. Efficient Water Use in California: The Evolution of Ground­
 water Management in Southern California. Santa Monica, Calif.: Rand Corpora­
 tion.
 Lloyd, W. F. 1977. On the Checks to Population. In Managing the Commons, eds.
-257
 
-References
 G. Hardin and j. Baden, pp. 8-15. San Francisco: Freeman.
 Luce, D. R., and H. Raiffa. 1957. Games and Decisions: Introduction and Critical
 Survey. New York: Wiley.
 Lumsden, M. 1973. The Cyprus Conflict as a Prisoner's Dilemma. Journal of
 Conflict Resolution 17:7
 -
-32
 .
 Lundqvist, j. 1986. Irrigation Development and Central Control: Some Features
 of Sri Lankan Development. In Rice Societies: Asian Problems and Prospects, eds.
@@ -11566,9 +11164,7 @@ MacKenzie, W. C. 1979. Rational Fishery Management in a Depressed Region:
 The Atlantic Groundfishery. Journal of the Fisheries Research Board of Canada
 36:811-26.
 Madduma Bandara, C. M. 1984. Green Revolution and Water Department: Irriga-
-258
 
-References
 tion and Ground Water in Sri Lanka and Tamil Nadu. In Understanding Green
 Revolutions. Agrarian Change and Development Planning in South Asia, eds. T.
 P. Bayliss-Smith and S. Wanmali, pp. 296-314. Cambridge University Press.
@@ -11618,9 +11214,7 @@ Zoologist 25:483-637.
 Moore, M. P. 1979. The Management of Irrigation Systems in Sri Lanka: A Study
 in Practical Sociology. Sri Lanka Journal of Social Sciences 2:89-112.
 Moore, M. P. 1980. Approaches to Improving Water Management on Large-Scale
-259
 
-References
 Irrigation Schemes in Sri Lanka. Occasional Publication Series, No. 20, Agrarian
 Research and Training Institute, Colombo, Sri Lanka.
 Musgrave, R. A. 1959. The Theory of Public Finance: A Study in Public Economy.
@@ -11670,9 +11264,7 @@ freedom sponsored by the Liberty Fund and managed by The Fraser Institute,
 October 5-8, Napa Valley, California.
 North, D. C. 1986b. The New Institutional Economics. Journal of Institutional
 and Theoretical Economics 142:230-7.
-260
 
-References
 Nonh, D. C. 1989. Final Remarks-Institutional Change and Economic History.
 Journal of Institutional and Theoretical Economics 145:238-45.
 North, D. C., and B. R. Weingast. 1989. Constitutions and Commitment: The
@@ -11722,9 +11314,7 @@ Dilemma. American Political Science Review 72:411-21.
 Orr, D. S., and S. Hill. 1979. Leviathan, the Open Society, and the Crisis of
 Ecology. In The Global Predicament. Ecological Perspectives on World Order,
 eds. D. W. Orr and M. S. Soros, pp. 457-69. Chapel Hill: University of Nonh
-261
 
-References
 Carolina Press.
 Ostrom, E. 1965. Public Enterpreneurship: A Case Study in Ground Water Man­
 agement. Ph.D. dis.'lertation, University of California at Los Angeles.
@@ -11774,9 +11364,7 @@ Ostrom, V. 1986b. A Fallabilist's Approach to Norms and Criteria of Choice. In
 Guidance, Control, and Evaluation in the Public Sector, eds. F. X. Kaufmann,
 G. Majone, and V. Ostrom, pp. 229-49. New York: Walter de Gruyter.
 Ostrom, V. 1987. The Political Theory of a Compound Republic: Designing the
-262
 
-References
 American Experiment, rev. ed. Lincoln: University of Nebraska Press.
 Ostrom, V. 1989. The Intellectual Crisis in American Public Administration, 2nd
 rev. ed. University of Alabama Press.
@@ -11826,9 +11414,7 @@ Essais Rediges en son Honneur, ed. E. M. Classen, pp. 145-50. Paris: Payot.
 Posner, R. A. 1980. A Theory of Primitive Society, with Special Reference to Law.
 Journal of lAw and Economics 23:1-53.
 Powers. R. B. 1987. Bringing the Commons into a Large University Classroom.
-263
 
-References
 Simulation and Games 18:443-57.
 Pradhan, P.P. 1980. Loeallnstitutions and People's Participation in Rural Public
 Works in Nepal. Ithaca, N.Y.: Cornell University, Rural Development Commit­
@@ -11878,9 +11464,7 @@ Journal of Policy Analysis and Management 3:45-61.
 Rose-Ackerman , S. 1977. Market Models for Water Pollution Control: Their
 Strengths and Weaknesses. Public Policy 25:383-406.
 Rosenberg, N. 1982. Inside the Black Box: Technology and Economics. Cambridge
-264
 
-References
 University Press.
 Roumasset, J. A. 1985. Constitutional Choice for Common Property Manage­
 ment: The Case of Irrigation Associations. Paper presented at the National
@@ -11929,9 +11513,7 @@ Property Rights and Rules in Coastal Fisheries. Working paper, Workshop in
 Political Theory and Policy Analysis, Indiana University.
 Schlager, E., and E. Ostrom. 1987. Common Property, Communal Property, and
 Natural Resources: A Conceptual Analysis. Working paper, Workshop in Poli-
-265
 
-References
 tical Theory and Policy Analysis, Indiana University.
 Schmid, A. A. 1986. Neo-Institutional Economic Theory: Issues of Landlord and
 Tenant Law. In Contract and Organization: Legal Analysis in the Light of Eco­
@@ -11981,9 +11563,7 @@ vols. Cambridge, Mass.: MIT Press.
 Sinn, H. W. 1984. Common Property Resources, Storage Facilities and Ownership
 Structures: A Cournot Model of the Oil Market. Economica 51 :235-52.
 Siy, R. Y., Jr. 1982. Community Resource Management: Lessons from the unjera.
-266
 
-References
 Quezon City: University of the Philippines Press.
 Smith, R. J. 1981. Resolving the Tragedy of the Commons by Creating Private
 Propeny Rights in Wildlife. CATO Journal 1:439-68.
@@ -12033,9 +11613,7 @@ in and around Arid Lands, ed. M. H. Glantz, pp. 57-79. Boulder: Westview
 Press.
 Thomson, J. T., D. Feeny, and R. J. Oakerson. 1986. Institutional Dynamics: The
 Evolution and Dissolution of Common Propeny Resource Management. In
-267
 
-References
 Proceedings of the Conference on Common Property Resource Management,
 National Research Council, pp. 391-424. Washington, D.c': National Acad­
 emy Press.
@@ -12085,9 +11663,7 @@ Wade, R. 1986. Common Property Resource Management in South Indian Vil­
 lages. In Proceedings of the Conference on Common Property Resource Manage­
 ment, National Research Council, pp. 231-57. Washington, D.C.: National
 Academy Press.
-268
 
-References
 Wade, R. 1988. Vii/age Republics: Economic Conditions for Collective Action in
 South India. Cambridge University Press.
 Walker, J., R. Gardner, and E. Ostrom. 1990. Rent Dissipation and Balanced
@@ -12137,9 +11713,7 @@ Wittgenstein, L. 1953. Philosophical Investigations. Oxford: Basil Blackwell &
 Matt.
 Wolf, E. R. 1986. The Vicissitudes of the Closed Corporate Peasant Community.
 American Ethnologist 13:325-9.
-269
 
-References
 World Bank. 1982. Philippines Communal Irrigation Development Project. Wash­
 ington, D.G.: World Bank.
 Wynne, S. 1986. Information Problems Involved in Partitioning the Commons for
@@ -12154,7 +11728,6 @@ Yelling, J. A. 1977. Common Field and Enclosure in England, 1450-1850. Hamd­
 en, Conn.: Archon.
 Young, O. R. 1982. Resource Regimes. Natural Resources and Social Institutions.
 Berkeley: University of California Press.
-270
 
 Index
 Acheson, J. M., 220n21, 241n28 appropriators, 30-1, 33-8. 220n2. 244n18
@@ -12192,9 +11765,7 @@ appropriation, 30-3, 47-50, 55-6, Surgui, 85
 see also design principles, congruent Baden, J., 3
 rules Bahia, Brazil, 177, 241-2n29
 appropriative rights, 107-8 Bandara, M., 158
-271
 
-Index
 Bangladesh, 241n26  California Supreme Couct, 114, 117, 119,
 bargaining problems, 112, 113f, 118,  122,231n8,nlO,  232n8,235n31
 | 242n4                    |     | California Water Case, 129  |
@@ -12270,9 +11841,7 @@ Department of Public Works), 111,  City of Pasadena v. City of Alhambra et al.,
 | 114, 117, | 119, 132, 139, 147-8,  | 2311110                                   |
 | --------- | ---------------------- | ----------------------------------------- |
 | 236-7n43  |                        | Clark, C. w., 3, 13, 49, 92, 183, 219nll  |
-272
 
-Index
 Coase, R. H., 221n13, 221-2n14, 244n22  property rights, communal
 Coleman, J. S., 206, 221n9, 243n12  Commons, J. R., 51, 237n48
 | collective action  |     | commons dilemma, see commons, tragedy  |     |
@@ -12346,9 +11915,7 @@ commons tragedy of, 1-3, 9, 12-14,  design principles, 60-1, 90-102, 136,
 | 16-17, 21, | 24, 182-3  | 178-81, 185-7, 189  |     |
 | ---------- | ---------- | ------------------- | --- |
 see also common pool resource;  clear boundaries, 91-2, 99, 136,
-273
 
-Index
 design principles (continued) firm, theory of, 29,40-1, 207, 221n13,
 179-81, 185 243n13
 collective-choice arrangements, 93-4, 99, Fish Sales Union, 153
@@ -12418,9 +11985,7 @@ Field, B. C., 224n3 goods
 Field, R., 12 private theory of, 32-3
 Field Channel Organization (FCO), public, 32, 42, 45, 49, 221n5
 169-71, 240n22, 240-1n23 (see also common pool resource);
-274
 
-Index
 provision of, see provision; theory o�
 Inglewood, Calfornia, 114, 116, 232n18,
 | 32-3  | 233-4n23, 234n24  |     |
@@ -12495,9 +12060,7 @@ completeness of, 4,
 | rules, see rules, information  | Karpoff, J. M., 243-4n17    |     |
 | symmetry of, 34, 116           | Kasyanathan, N., 170-1      |     |
 | time and place, 14, 17. 177    | Katz. II. Walkinshaw, 107   |     |
-275
 
-Index
 Keesing, F. M., 82 L.uce, D. R., 217nl
 Kepler, J., 24 l.umsden, M., 3
 Kimber, R., 217nl Lundqvist, J., 159, 240n18
@@ -12552,9 +12115,7 @@ Los Angeles County Sanitation Districts, Mojave Water Agency, 147-9
 134 Moneta Water Company. 126
 lottery systems, 65, 67,77, 19-20, 173, monitoring, 10-12, 16-18, 25, 41,59, 62,
 241n27 68, 73-5, 125-6
-276
 
-Index
 | costs of, 36, 65, 122, 135, 202-5,  | optimality,                             | 223--4nl  |     |
 | ----------------------------------- | --------------------------------------- | --------- | --- |
 | 222n 16, 224n2                      | Orange County, California, 110, 230n4,  |           |     |
@@ -12630,9 +12191,7 @@ Ophuls, w., 8-9
 | -------------------------- | --------------------------------- | --- | --- |
 | Oppenheimer, J. A., 218n4  | 233n20,n22                        |     |     |
 | opportunism, 36            | l'rice, M., 225n7                 |     |     |
-277
 
-Index
 | principal-agent problem, 17              |     | open-access, 32. 175-6         |
 | ---------------------------------------- | --- | ------------------------------ |
 | prisoner's dilemma, 3-5,6-7, 11, 16,39,  |     | renewable, 30-1                |
@@ -12704,9 +12263,7 @@ Replenishment District Boundary  collective choice arrangements
 | resource                      |     | Runge, C. F., 46, 63, 221              |
 | flow, 30,47                   |     | Rural Development Committee, Cornell   |
 | nonstationary (fugitive). 13  |     | University, 168-9, 171n2, 189          |
-278
 
-Index
 | St. Julien, N., 241n25  |     | Spanish Civil War, 81  |     |
 | ----------------------- | --- | ---------------------- | --- |
 Samuelson, P. A., 221n4  Spanish huertas, 59-61, 69, 70f, 71-82,
@@ -12783,9 +12340,7 @@ Smith, R., 12, 235029
 | Snidal, D., 3     |     | Torbel, Switzerland (continued)  |     |
 | ----------------- | --- | -------------------------------- | --- |
 | Spain, 81, 228n5  |     | see also Swiss alpine commons    |     |
-279
 
-Index
 | T tirbel, Switzerland (continued)  |     | 205-7               |     |
 | ---------------------------------- | --- | ------------------- | --- |
 | see also Swiss alpine commons      |     | vel vidanes, 161-3  |     |
@@ -12850,7 +12405,6 @@ summary, 193-207; benefits, 195-8;
 | monitoring, costs of; transformation  |     | Yang, To So, 55        |     |
 | ------------------------------------- | --- | ---------------------- | --- |
 | costs); norms, 205-7; opportunities,  |     | Yelling, J. Ao, 224n3  |     |
-280
 
 The governance of natural resources used by many individuals in common is an
 issue of increasing concern to policy analysts. Both state control and privatization
@@ -12877,4 +12431,3 @@ Cover design by Dennis M. Arnold
 CAMBRIDGE
 UNIVERSITY PRESS
 ww.wcambridge.org
-9

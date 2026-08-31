@@ -30,8 +30,6 @@ Probabilism, Performance, and Probativeness
 The Current State of Play in Statistical Foundations:
 A View From a Hot-Air Balloon
 
-II
-
 Error Probing Tools versus Logics of Evidence
 The Law of Likelihood and Error Statistics
 1.4
@@ -39,10 +37,6 @@ Trying and Trying Again: The Likelihood Principle
 1.5
 
 Excursion 2 Taboos of Induction and Falsification
-
-I
-
-II
 
 Induction and Confirmation
 2.1
@@ -67,8 +61,6 @@ Excursion 3
 
 Statistical Tests and Scientific Inference
 
-I
-
 Ingenious and Severe Tests
 3.1
 
@@ -83,8 +75,6 @@ Core terms of use, available at https://www.cambridge.org/core/terms. https://do
 
 viii
 
-Itinerary
-
 3.2
 
 3.3
@@ -93,8 +83,6 @@ N-P Tests: An Episode in Anglo-Polish
 Collaboration
 How to Do All N-P Tests Do (and More) While
 a Member of the Fisherian Tribe
-
-II
 
 It's the Methods, Stupid
 3.4
@@ -161,8 +149,6 @@ Significance Tests
 Downloaded from https://www.cambridge.org/core. University Libraries - Virginia Tech, on 19 Jun 2019 at 20:02:53, subject to the Cambridge
 Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781107286184
 
-Itinerary
-
 ix
 
 4.10 Bootstrap Resampling: My Sample Is a Mirror
@@ -176,8 +162,6 @@ Statistical Account
 Excursion 5
 
 Power and Severity
-
-I
 
 Power: Pre-data and Post-data
 5.1
@@ -220,8 +204,6 @@ Bayesian Ways: From Classical to Default
 6.3 Unification or Schizophrenia: Bayesian Family Feuds
 6.4 What Happened to Updating by Bayes' Rule?
 
-II
-
 Pragmatic and Error Statistical Bayesians
 6.5
 6.6
@@ -239,8 +221,6 @@ Downloaded from https://www.cambridge.org/core. University Libraries - Virginia 
 Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/9781107286184
 
 C:/ITOOLS/WMS/CUP-NEW/14099780/WORKINGFOLDER/MAYOS/9781107054134PRE.3D xi [1–16] 31.7.2018 6:08PM
-
-Preface
 
 The Statistics Wars
 Today's "statistics wars" are fascinating: They are at once ancient and up to
@@ -282,8 +262,6 @@ methods can make it easy to uncover impressive-looking findings even if they
 C:/ITOOLS/WMS/CUP-NEW/14099780/WORKINGFOLDER/MAYOS/9781107054134PRE.3D xii [1–16] 31.7.2018 6:08PM
 
 xii
-
-Preface
 
 are false: spurious correlations and other errors have not been severely probed.
 We set sail with a simple tool: If little or nothing has been done to rule out flaws
@@ -328,8 +306,6 @@ generally concern inference after a statistical model and data statements are in
 place, when in fact the most interesting work involves the local inferences
 
 C:/ITOOLS/WMS/CUP-NEW/14099780/WORKINGFOLDER/MAYOS/9781107054134PRE.3D xiii [1–16] 31.7.2018 6:08PM
-
-Preface
 
 xiii
 
@@ -385,8 +361,6 @@ C:/ITOOLS/WMS/CUP-NEW/14099780/WORKINGFOLDER/MAYOS/9781107054134PRE.3D xiv [1–
 
 xiv
 
-Preface
-
 will be put directly to work to illuminate and solve problems of practice. I hope
 to galvanize philosophers of science and experimental philosophers to further
 engage with the burgeoning field of data science and reproducibility research.
@@ -436,10 +410,10 @@ that's what I aim to illuminate. Since Darrell Huff wrote How to Lie with
 Statistics in 1954, ways of lying with statistics are so well worn as to have
 emerged in reverberating slogans:
 
-(cid:129) Association is not causation.
-(cid:129) Statistical significance is not substantive significance.
-(cid:129) No evidence of risk is not evidence of no risk.
-(cid:129) If you torture the data enough, they will confess.
+Association is not causation.
+Statistical significance is not substantive significance.
+No evidence of risk is not evidence of no risk.
+If you torture the data enough, they will confess.
 
 Exposés of fallacies and foibles ranging from professional manuals and task
 forces to more popularized debunking treatises are legion. New evidence has
@@ -551,8 +525,6 @@ a custom-tailored cancer treatment. A cutting-edge prediction model
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 6 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 developed by Anil Potti and Joseph Nevins purported to predict your response
 to one or another chemotherapy based on large data sets correlating properties
 of various tumors and positive responses to different regimens (Potti et al.
@@ -595,8 +567,6 @@ this much, I think. We will explore how much mileage we can get from it.
 It applies at a number of junctures in collecting and modeling data, in linking
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 7 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 data to statistical inference, and to substantive questions and claims. This will
 be our linchpin for understanding what's true about statistical inference.
@@ -646,8 +616,6 @@ predictions. Statistical inference goes beyond the data – by definition that
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 8 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 makes it an inductive inference. The risk of error is to be expected. There is no
 need to be reckless. The secret is controlling and learning from error. Ideally
 we take precautions in advance: pre-data, we devise methods that make it hard
@@ -688,8 +656,6 @@ My focus will be on the issues having the most influence, and being most liable
 to obfuscation. Fortunately, that doesn't require an abundance of technicalities, but you can opt out of any daytrip that appears too technical: an idea not
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 9 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 caught in one place should be illuminated in another. Our philosophical
 excursion may well land us in positions that are provocative to all existing
@@ -735,8 +701,6 @@ non-philosophers. This is not to say they don't tread on philosophical territory
 do.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 10 [1–29] 28.7.2018 3:03AM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 preclude bias: that view is a holdover from a crude empiricism that assumes
 data are unproblematically "given," rather than selected and interpreted.
@@ -784,8 +748,6 @@ of any statistical discrepancies warranted, and the
 limits
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 11 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 substantive claims you may be entitled to infer from the statistical ones.
 Using just our minimal principle of evidence, and a sturdy pair of shoes,
@@ -835,8 +797,6 @@ a way of telling what's true about the statistics wars, and getting beyond them.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 12 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 Chutzpah, No Proselytizing
 
 Our task is twofold: not only must we analyze statistical methods; we must also
@@ -878,8 +838,6 @@ that are leaving many consumers and students of statistics in the dark about
 a crucial portion of science.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 13 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 1.2 Probabilism, Performance, and Probativeness
 
@@ -934,8 +892,6 @@ long-run performance a sufficient condition. Most obviously, there may be no
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 14 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 long-run repetitions, and our interest in science is often just the particular
 statistical inference before us. Crude long-run requirements may be met by
 silly methods. Most importantly, good performance alone fails to get at why
@@ -980,8 +936,6 @@ up on the extra 3 pounds when I'm weighed carrying three copies of my
 Returning from the UK, to my astonishment, not one but all three scales
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 15 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 show anywhere from a 4–5 pound gain. There's no difference when I place the
 three books on the scales, so I must conclude, unfortunately, that I've gained
@@ -1030,8 +984,6 @@ gained weight. Simple as that. It would be a preposterous coincidence if none of
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 16 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 the scales registered even slight weight shifts when weighing objects of known
 weight, and yet were systematically misleading when applied to my weight.
 You see where I'm going with this. This is the key – granted with a homely
@@ -1076,8 +1028,6 @@ experiment of randomly assigning milk first/tea first Fisher sought to answer
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 17 [1–29] 28.7.2018 3:03AM
 
-Tour I: Beyond Probabilism and Performance
-
 this stringently. But don't be fooled: a great deal of work goes into controlling
 biases and confounders before the experimental design can work. The main
 point just now is this: so long as lacking ability is sufficiently like the
@@ -1121,8 +1071,6 @@ seem that if a statistical account is free to ignore such fooling around then th
 problem disappears! It doesn't.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 18 [1–29] 28.7.2018 3:03AM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 Incidentally, Bristol-Roach got all the cases correct, and thereby taught her
 
@@ -1169,8 +1117,6 @@ enough to show his method did a lousy job of testing it.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 19 [1–29] 28.7.2018 3:03AM
 
-Tour I: Beyond Probabilism and Performance
-
 Texas Marksman
 
 Take an even simpler and more blatant argument of deception. It is my
@@ -1212,8 +1158,6 @@ capable of spewing out impressive looking fits even when it's just random
 noise.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 20 [1–29] 28.7.2018 3:03AM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 We appeal to the same statistical reasoning to show the problematic
 cases as to show genuine arguments from coincidence.
@@ -1259,8 +1203,6 @@ ought to have (e.g., post-data endpoints, selective reporting). I will call thos
 effects.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 21 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 So strong was the consensus-based medical
 
@@ -1310,8 +1252,6 @@ is everywhere, and the most important grain of truth is this: all the fraud-
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 22 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 busting is based on error statistical reasoning (if only on the meta-level).
 The minimal requirement to avoid BENT isn't met. It's hard to see how one
 can grant the criticisms while denying the critical logic.
@@ -1350,8 +1290,6 @@ on how severely (or inseverely) claims hold up. Here's an informal statement of
 the severity requirements (weak and strong):
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 23 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 Severity Requirement (weak): If data x agree with a claim C but the
 method was practically incapable of finding flaws with C even if they
@@ -1398,8 +1336,6 @@ wetland, and especially scratching a bit below the surface, reveals unease on al
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 24 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 sides. The false dilemma between probabilism and long-run performance lets
 us get a handle on it. In fact, the Bayesian versus frequentist dispute arises as
 a dispute between probabilism and performance. This gets to my second
@@ -1440,9 +1376,7 @@ PrðxjHÞPr Hð
 Þ
 Þ þ PrðxjeHÞPr eH
 
-(cid:2)
-
-(cid:3) ;
+;
 
 where ~H is the denial of H. It would be cashed out in terms of all rivals to H
 within a frame of reference. Some call it Bayes' Rule or inverse probability.
@@ -1463,8 +1397,6 @@ The Goal of Bayesian Inference: Quantify and manipulate your degrees of beliefs.
 words, Bayesian inference is the Analysis of Beliefs.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 25 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 At times he suggests we use B(H) for belief and F(H) for frequencies. The
 distinctions in goals are too crude, but they give a feel for what is often regarded
@@ -1508,8 +1440,6 @@ Take Jay Kadane (2008):
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 26 [1–29] 28.7.2018 3:03AM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 The growth in use and popularity of Bayesian methods has stunned many of us who
 were involved in exploring their implications decades ago. The result . . . is that there
 are users of these methods who do not understand the philosophical basis of the methods
@@ -1551,8 +1481,6 @@ Poole 2013). Others focus on long-run error control, but cede territory
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 27 [1–29] 28.7.2018 3:03AM
 
-Tour I: Beyond Probabilism and Performance
-
 wherein probability captures the epistemological ground of statistical inference. Why assume significance levels and confidence levels lack an authentic
 epistemological function? I say they do: to secure and evaluate how well probed
 and how severely tested claims are.
@@ -1592,8 +1520,6 @@ to satisfy Popperian criteria for severe tests. The idea of error statistical fo
 severe testing is sufficiently general to apply to any of the methods now in use.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 28 [1–29] 28.7.2018 3:03AM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 On the face of it, any inference, whether to the adequacy of a model or to
 a posterior probability, can be said to be warranted just to the extent that it has
@@ -1637,8 +1563,6 @@ not out there ready-made; if it was, there would be no need for our holiday
 cruise. While there are plenty of giant shoulders on which we stand, we won't
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C01.3D 29 [1–29] 28.7.2018 3:03AM
-
-Tour I: Beyond Probabilism and Performance
 
 be restricted by the pronouncements of any of the high and low priests, as
 sagacious as many of their words have been. In fact, we'll brazenly question
@@ -1748,8 +1672,6 @@ bullet holes, or around each single hole. One needn't go to such an extreme
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 32 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 rival, but it suffices to show that the LL does not control the probability of
 erroneous interpretations.
 
@@ -1793,8 +1715,6 @@ variance; we can devise data and a pair of hypotheses about the mean which will 
 the same log-likelihood ratio. I have no inclination to say that the relative support in the
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 33 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 tank case is 'exactly the same as' that in the normal distribution case, even though the
 likelihood ratios are the same. (pp. 136–7)
@@ -1848,8 +1768,6 @@ Lik(H0) = (0.2)(0.2)(0.8)(0.2) = 0.0064,
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 34 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 Lik(H1) = (0.8)(0.8)(0.2)(0.8) = 0.1024.
 
 A hypothesis that would make the data most probable would be that θ = 1, on
@@ -1896,9 +1814,8 @@ is
 
 x ¼ 9=17 ¼ :53;
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-Þ(cid:3)
-ð
-½θ 1 (cid:2) θ
+Þð
+½θ 1 θ
 
 σ ¼
 
@@ -1909,12 +1826,11 @@ p
 p
 
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-Þ(cid:3)
-½0:2 0:8ð
+Þ½0:2 0:8ð
 
 ¼ 0:4:
 
-The test statistic d(X) is √17ðX (cid:2) 0:2Þ=σ; it gets larger and larger the more the
+The test statistic d(X) is √17ðX 0:2Þ=σ; it gets larger and larger the more the
 – as is sensible for a good test
 data deviate from what is expected under H0
 statistic. Its value is
@@ -1930,8 +1846,6 @@ The significance level associated with d(x
 Pr(d(X) ≥ d(x); H0) ≃ 0.003.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 35 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 This is read, "the probability d(X) would be at least as large as the particular
 value d(x
@@ -1979,8 +1893,6 @@ hypotheses in H1 (e.g., θ = 0.2 is better supported than θ = 0.9 by a likeliho
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 36 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 LR = (0.2/0.9)9(0.8/0.1)8 = 22.2), the law of likelihood does not allow the characterization of these observations as strong evidence for H1 over H0. (Royall 1997, p. 20)
 For Royall, rejecting H0: θ ≤ 0.2 and inferring H1: θ > 0.2 is to assert every
 parameter point within H1 is more likely than every point in H0. That seems an
@@ -2024,8 +1936,6 @@ cuts short important tasks of inferential scrutiny. Since model checking concern
 checks or must go beyond the paradigm.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 37 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 Still, if the model can be taken as adequate, and the Likelihoodist gives
 a sufficiently long list of comparisons, the differences between us don't seem so
@@ -2102,8 +2012,6 @@ PrðxjH0ÞPr H0ð
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 38 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 Data Dredging: Royall Bites the Bullet
 Return now to our most serious problem: The Law of Likelihood permits finding
 evidence in favor of a hypothesis deliberately arrived at using the data, even in
@@ -2153,8 +2061,6 @@ a normal deck alone (pp. 14–15).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 39 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 may be low. Don't confuse evidence with belief! For the question of evidence,
 your beliefs have nothing to do with it, according to Royall's Likelihoodist.
 
@@ -2197,8 +2103,6 @@ we'd still want to distinguish the evidential credit H deserves in the two
 cases. Appealing to priors can't help, since here there's one and the same H.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 40 [30–56] 28.7.2018 7:30PM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 Perhaps someone wants to argue that the mode of testing alters the degree
 of belief in H, but this would be non-standard (violating the Likelihood
@@ -2243,8 +2147,6 @@ the one most likely to follow your preconceived opinions, biases, and pet
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 41 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 theories. If an account of statistical inference or evidence doesn't supply selfcritical tools, it comes up short in an essential way. So says the severe tester.
 
 Souvenir B: Likelihood versus Error Statistical
@@ -2254,32 +2156,32 @@ proffers pamphlets from these two perspectives.
 
 To the Likelihoodist, points in favor of the LL are:
 
-(cid:129) The LR offers "a precise and objective numerical measure of the strength
+The LR offers "a precise and objective numerical measure of the strength
 of statistical evidence" for one hypotheses over another; it is a frequentist account and does not use prior probabilities (Royall 2004, p. 123).
-(cid:129) The LR is fundamentally related to Bayesian inference: the LR is the factor by
+The LR is fundamentally related to Bayesian inference: the LR is the factor by
 
 which the ratio of posterior probabilities is changed by the data.
 
-(cid:129) A Likelihoodist account does not consider outcomes other than the one
+A Likelihoodist account does not consider outcomes other than the one
 observed, unlike P-values, and Type I and II errors. (Irrelevance of the
 sample space.)
 
-(cid:129) Fishing for maximally fitting hypotheses and other gambits that alter error
+Fishing for maximally fitting hypotheses and other gambits that alter error
 probabilities do not affect the assessment of evidence; they may be blocked
 by moving to the "belief" category.
 
 To the error statistician, problems with the LL include:
 
-(cid:129) LRs do not convey the same evidential appraisal in different contexts.
-(cid:129) The LL denies it makes sense to speak of how well or poorly tested a single
+LRs do not convey the same evidential appraisal in different contexts.
+The LL denies it makes sense to speak of how well or poorly tested a single
 hypothesis is on evidence, essential for model checking; it is inapplicable to
 composite hypothesis tests.
 
-(cid:129) A Likelihoodist account does not consider outcomes other than the one
+A Likelihoodist account does not consider outcomes other than the one
 observed, unlike P-values, and Type I and II errors. (Irrelevance of the
 sample space.)
 
-(cid:129) Fishing for maximally fitting hypotheses and other gambits that alter error
+Fishing for maximally fitting hypotheses and other gambits that alter error
 probabilities do not affect the assessment of evidence; they may be blocked
 by moving to the "belief" category.
 
@@ -2292,8 +2194,6 @@ The likelihood principle emphasized in Bayesian statistics implies, among
 other things, that the rules governing when data collection stops are irrelevant to data interpretation. (Edwards, Lindman, and Savage 1963, p. 193)
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 42 [30–56] 28.7.2018 7:30PM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 Several well-known gambits make it altogether easy to find evidence in support
 of favored claims, even when they are unwarranted. A responsible statistical
@@ -2327,7 +2227,7 @@ advance, n is determined by the optional stopping rule:
 
 Optional stopping rule: keep sampling until jXj ≥ ð1:96=√nÞ:
 
-Equivalently, since the test statistic d(X) ¼ ðX (cid:2) 0Þ=√n:
+Equivalently, since the test statistic d(X) ¼ ðX 0Þ=√n:
 
 Keep sampling until |d(X)| ≥ 1.96.
 
@@ -2342,8 +2242,6 @@ will stop in a finite number of trials is 1, regardless of the true value of μ.
 in one of the most seminal papers in statistical foundations, by Ward Edwards,
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 43 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 Harold Lindman, and Leonard (Jimmie) Savage (E, L, & S) tell us, "if an
 experimenter uses this procedure, then with probability 1 he will eventually
@@ -2389,8 +2287,6 @@ followers of the Stopping Rule Principle deny it makes a difference to evidence.
 On their account, it doesn't. It's easy to see why there's disagreement.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 44 [30–56] 28.7.2018 7:30PM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 Table 1.1. The effect of repeated significance tests (the "try
 and try again" method)
@@ -2442,8 +2338,6 @@ give the same inference, analysis, conclusion, decision, action or anything else
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 45 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 example, generally hold to the LP, but would insist on priors that go beyond
 the LL. Even the converse may be denied (according to Hacking) but this is not
 of concern to us.
@@ -2489,8 +2383,6 @@ Pr(y|H0) = kPr(x|H0),
 Pr(y|H1) = kPr(x|H1).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 46 [30–56] 28.7.2018 7:30PM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 (2) By definition:
 
@@ -2552,8 +2444,6 @@ important to occupy a large gallery of the Museum of Statistics (hereafter
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 47 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 Bartlett, Cox, Good, Jenkins, Lindley, Pearson, Rubin, and Smith. Savage
 announces to this eminent group of statisticians that if adjustments in significance levels are required for optional stopping, which they are, then the
 fault must be with significance levels. Not all agreed. Needling Savage on this
@@ -2605,8 +2495,6 @@ Armitage's example imposes finite additivity.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 48 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 Something more revealing is going on when the Likelihoodist sets pre-data
 bounds. Why the sudden concern with showing the rule for comparative
 evidence would very improbably find evidence in favor of the wrong hypothesis? This is an error probability. So it appears they also care about error
@@ -2648,8 +2536,6 @@ error probabilities in general. Take the subjective Bayesian philosophers
 Howson and Urbach (1993):
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 49 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 A significance test inference, therefore, depends not only on the outcome that a trial
 produced, but also on the outcomes that it could have produced but did not. And the
@@ -2697,8 +2583,6 @@ We may grant to the Bayesian that
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 50 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 [The] irrelevance of stopping rules to statistical inference restores a simplicity and
 freedom to experimental design that had been lost by classical emphasis on significance
 levels (in the sense of Neyman and Pearson). ( E, L, & S 1963, p. 239)
@@ -2744,8 +2628,6 @@ before it is observed. After it is observed, the event {d(X) > 1.96} either
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 51 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 happened or did not happen and hence has probability either one or zero"
 (ibid.).
 
@@ -2788,8 +2670,6 @@ Stay tuned.
 Bayesian at least in part because of the known evidence problem (Howson 2017, p. 670).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 52 [30–56] 28.7.2018 7:30PM
-
-Excursion 1: How to Tell What's True about Statistical Inference
 
 Souvenir C: A Severe Tester's Translation Guide
 
@@ -2837,8 +2717,6 @@ your test have found such a significant effect even if H0 is approximately true?
 we are asking about the properties of the experiment that did happen.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 53 [30–56] 28.7.2018 7:30PM
-
-Tour II: Error Probing Tools versus Logics of Evidence
 
 The counterfactual "would have" refers to how the procedure would behave in
 general, not just with these data, but with other possible data sets in the sample
@@ -2890,8 +2768,6 @@ some fixed μ = μ′, this difficulty does not arise.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 54 [30–56] 28.7.2018 7:30PM
 
-Excursion 1: How to Tell What's True about Statistical Inference
-
 could be ignored, so we have a decade of wasted microarray experiments. To view
 outcomes other than what you observed as irrelevant to what x
 0 says is also at odds
@@ -2941,8 +2817,6 @@ but to control and assess how well probed claims are.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C02.3D 55 [30–56] 28.7.2018 7:30PM
 
-Tour II: Error Probing Tools versus Logics of Evidence
-
 If we keep the presumption that the epistemic role of probability is a degree
 of belief of some sort, then we can "avoid the need for a different version of
 probability" by supposing that good/poor performance of a method warrants
@@ -2987,8 +2861,6 @@ C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 57 [57–
 Excursion 2 Taboos of Induction
 
 and Falsification
-
-Itinerary
 
 Tour I
 
@@ -3146,8 +3018,6 @@ PrðxjH1ÞPrðH1Þ þ . . . þ PrðxjHnÞPrðHnÞ
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 62 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 Conclusion: EI is rationally justified, it's a reliable rule.
 
 We need an argument for concluding EI is reliable. Using an inductive argument to justify induction lands us in a circle. We'd be using the method we're
@@ -3193,8 +3063,6 @@ positivist spirit of the 1930s–1960s, they sought evidential relationships
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 63 [57–74] 31.7.2018 2:03PM
 
-Tour I: Induction and Confirmation
-
 between statements of evidence and conclusions. I sometimes call them
 evidential-relation (E-R) logics. They didn't renounce enumerative induction,
 they sought logics that embodied it. Begin by fleshing out the full argument
@@ -3239,8 +3107,6 @@ confirmation of Bi (since it occurs in four of eight state descriptions). Nothin
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 64 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 has been learned: c† is scrapped. By apportioning initial probabilities more
 coarsely, one could learn, but there was an infinite continuum of inductive
 logics characterized by choosing the value of a parameter he called λ
@@ -3283,8 +3149,6 @@ should go beyond the premises; probability enters to qualify the overall
 Likelihood (LL), but also his earlier denial that Neyman–Pearson statistics is
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 65 [57–74] 31.7.2018 2:03PM
-
-Tour I: Induction and Confirmation
 
 inferential. "I now believe that Neyman, Peirce, and Braithwaite were on the
 right lines to follow in the analysis of inductive arguments" (Hacking 1980,
@@ -3333,8 +3197,6 @@ Data + capacities of scales |=SEV I've gained at least k pounds.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 66 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 Keeping to a deductive logic of probability, we never detach an inference.
 
 This is in sync with a probabilist such as Bruno de Finetti:
@@ -3380,8 +3242,6 @@ However, for readability, I will drop the explicit inclusion of k. More generall
 if H entails x, then assuming Pr(x) ≠ 1 and Pr(H) ≠ 0, we have Pr(H|x) > Pr(H).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 67 [57–74] 31.7.2018 2:03PM
-
-Tour I: Induction and Confirmation
 
 This is an instance of probabilistic affirming the consequent. (Note: if Pr(H|x)
 > Pr(H) then Pr(x|H) > Pr(x).)
@@ -3438,8 +3298,6 @@ So if Pr = C, (iii) and (iv) yield a contradiction. (Adapting Popper 1959, p. 39
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 68 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 Moreover, Popper continues, confirmation theorists don't use Pr(H|x) alone
 (as they would if C = Pr), but myriad functions of probability to capture how
 much x has firmed up H. A number of measures offer themselves for the job.
@@ -3448,7 +3306,7 @@ A simple B-boost would report the ratio R: PrðHjxÞ=Pr Hð
 example is 2. Or we can use the likelihood ratio of H compared to ~H. Since
 I used LR in Excursion 1, where the two hypotheses are not exhaustive, let's
 write [LR] to denote
-½LR(cid:2): PrðxjHÞ
+½LR: PrðxjHÞ
 PrðxjeHÞ
 
 ð
@@ -3489,8 +3347,6 @@ won, and it's never wrong. Then a radio, also assumed 100% reliable, announces y
 Statement y, Achinstein thinks, should still count as evidence for H: he won. I agree.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 69 [57–74] 31.7.2018 2:03PM
-
-Tour I: Induction and Confirmation
 
 confirmation measures, the components have an appropriate explanatory relationship to each other. Yet this requires an adequate way to make explanatory
 inferences before getting started. It's not clear how the formalism helped. He still
@@ -3543,8 +3399,6 @@ Thus, we also have Pr(H & J|x)/Pr(H & J)>1.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 70 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 However, it is also plausible to hold what philosophers call the "special consequence" condition: If x confirms a claim W, and W entails J, then x confirms
 J. In particular:
 
@@ -3587,8 +3441,6 @@ it with [LR].)
 the Bayesian catchall.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 71 [57–74] 31.7.2018 2:03PM
-
-Tour I: Induction and Confirmation
 
 What Does the Severity Account Say?
 Our account of inference disembarked way back at (1): that x confirms
@@ -3633,8 +3485,6 @@ therefore one must move away from R: Pr(x|H)/Pr(x) sits uneasily with the fact
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 72 [57–74] 31.7.2018 2:03PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 that R > 1 is just what confirmation boost means. Rather than "solve" the
 problem by saying we can measure boost so that (H & J) gets less confirmation
 than H, using [LR], why not see it as what's meant by an irrelevant conjunct
@@ -3677,8 +3527,6 @@ sincere attempts to overthrow h, then we shall simply deceive ourselves if we th
 interpret C(h,e) as degree of corroboration, or anything like it." (Popper 1959, p. 418).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 73 [57–74] 31.7.2018 2:03PM
-
-Tour I: Induction and Confirmation
 
 no test" (BENT) for the conjunction.7 It's not a psychological "sincerity" being
 captured; nor is it purely context free. Popper couldn't capture it as he never
@@ -3724,8 +3572,6 @@ mesh with the principle you want to defend. Here's an example. Some think
 7 The real problem is that Pr(x; H & J) = Pr(x; H & ~J).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C03.3D 74 [57–74] 31.7.2018 2:03PM
-
-Excursion 2: Taboos of Induction and Falsification
 
 that GTR got more confirmation than a rival theory (e.g., Brans-Dicke theory)
 because the latter is made to fit the data thanks to adjustable parameters
@@ -3779,20 +3625,18 @@ predesignation. These will let you revisit some thorny issues in today's statist
 Here's Popper's summary (drawing from Popper, Conjectures and Refutations,
 1962, p. 53):
 
-(cid:129) [Enumerative] induction . . . is a myth. It is neither a psychological fact . . .
+[Enumerative] induction . . . is a myth. It is neither a psychological fact . . .
 
 nor one of scientific procedure.
 
-(cid:129) The actual procedure of science is to operate with conjectures. . .
-(cid:129) Repeated observation and experiments function in science as tests of our
+The actual procedure of science is to operate with conjectures. . .
+Repeated observation and experiments function in science as tests of our
 
 conjectures or hypotheses, i.e., as attempted refutations.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 76 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
-(cid:129) [It is wrongly believed that using the inductive method can] serve as
+[It is wrongly believed that using the inductive method can] serve as
 a criterion of demarcation between science and pseudoscience. . . . None of
 this is altered in the least if we say that induction makes theories only
 probable.
@@ -3879,8 +3723,6 @@ there is no such thing. Some say that there's at most a kind of "family
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 78 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 resemblance" amongst domains people tend to consider scientific (Dupré
 1993, Pigliucci 2010, 2013). One gets the impression that the demarcation
 task is being left to committees investigating allegations of poor science or
@@ -3926,8 +3768,6 @@ necessary before giving theories up too readily, the trial and error methodology
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 79 [75–116] 28.7.2018 7:47PM
 
-Tour II: Falsification, Pseudoscience, Induction
-
 when a more dogmatic attitude would eliminate it by eliminating us" (Popper
 1962, p. 52). Despite giving lip service to testing and falsification, many
 popular accounts of statistical inference do not embody falsification – even
@@ -3972,8 +3812,6 @@ have been criticized for lacking the ability to generalize beyond observed
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 80 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 A valuable idea to take from Popper is that probability in learning attaches
 to a method of conjecture and refutation, that is to testing: it is methodological
 probability. An error probability is a special case of a methodological probability. We want methods with a high probability of teaching us (and
@@ -4014,8 +3852,6 @@ falsified, it would be required that some observable result taken together with
 H yields a logical contradiction (A & ~A). But the only theories that
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 81 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 deductively prohibit observations are of the sort one mainly finds in philosophy books: All swans are white is falsified by a single non-white swan. There
 are some statistical claims and contexts, I will argue, where it's possible to
@@ -4060,8 +3896,6 @@ a prion – for which he received much grief. He thought, at first, he'd made
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 82 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 a mistake "and was puzzled when the data kept telling me that our preparations
 contained protein but not nucleic acid" (Prusiner 1997). The anomalous
 results would not go away and, eventually, were demonstrated via experimental transmission to animals. The discovery of prions led to a "revolution" in
@@ -4103,8 +3937,6 @@ such occurrences would not be physical effects, because, on account of their imm
 improbability, they are not reproducible at will . . . If, however, we find reproducible
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 83 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 deviations from a macro effect . . . deduced from a probability estimate . . . then we must
 assume that the probability estimate is falsified. (Popper 1959, p. 203)
@@ -4157,8 +3989,6 @@ there is some discrepancy in what H claims about the phenomenon in
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 84 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 question. As with any argument, in order to detach its conclusion (without
 which there is no inference), the premises must be true or approximately true.
 But O is derived only with the help of various additional claims. In statistical
@@ -4201,8 +4031,6 @@ advise you to choose a suitable overall package of hypotheses, assumptions,
 auxiliaries, on a set of criteria: simplicity, explanatory power, unification and so
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 85 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 on. There's no agreement on which, nor how to define them. On this view, you
 can't really solve Duhem, you accept or "prefer" (as Popper said) the large-scale
@@ -4248,8 +4076,6 @@ violating an assumption of a constant mean looks very different from
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 86 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 a changing variance; despite all the causes of a sore throat, strep tests are quite
 reliable. Good research should at least be able to embark on inquiries to solve
 their Duhemian problems.
@@ -4294,8 +4120,6 @@ idea of a hierarchy of models between models of data, experiment, and theory.
 Trying to cash out a full-blown picture of inquiry that purports to represent all
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 87 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 Background
 
@@ -4354,8 +4178,6 @@ science as problem solving. A hypothesis can be seen as a potential solution to
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 88 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 a problem (Laudan 1978). For example, the theory of protein folding purports
 to solve the problem of how pathological prions are transmitted. The problem
 might be to explain, to predict, to unify, to suggest new problems, etc. When
@@ -4404,8 +4226,6 @@ Mayo (1996), following my reading of Kuhn (1970) on "normal science."
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 89 [75–116] 28.7.2018 7:47PM
 
-Tour II: Falsification, Pseudoscience, Induction
-
 She continues:
 
 On your second point, it's true that Popper talked of wanting to subject theories to
@@ -4452,8 +4272,6 @@ both statistics and philosophy of science, for example, between Mill and Peirce
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 90 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 and Popper and Keynes. Walking up the ramp from the ground floor to the
 gallery of Statistics, Science, and Pseudoscience, the novelty debate is used to
 intermix Popper and statistical testing.
@@ -4498,8 +4316,6 @@ hypothesis was erected (Popper, early); (2) theoretical novelty – the data wer
 not already predicted by an existing hypothesis (Popper, Lakatos); and (3) use-
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 91 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 novelty – the data were not used to construct or select the hypothesis. Defining
 novel success is intimately linked to defining Popperian severity.
@@ -4546,8 +4362,6 @@ the number in the room. Or, less trivially, think of confidence intervals: we
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 92 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 use the data to form the interval estimate. The estimate is really a hypothesis
 about the value of the parameter. The same data warrant the hypothesis
 constructed! Likewise, using the same data to arrive at and test assumptions
@@ -4592,8 +4406,6 @@ Worrall and I have engaged in a battle over this in numerous places (Mayo 2010d,
 2010). Related exchanges include Mayo 2008, Hitchcock and Sober 2004.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 93 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 because he was a Freudian as well as a Popperian. Meehl castigates Fisherian
 significance tests for providing a sciency aura to experimental psychology,
@@ -4640,8 +4452,6 @@ statistic, and such that the larger is d(y) the stronger is the inconsistency of
 the respect under study . . . we need to be able to compute, at least approximately,
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 94 [75–116] 28.7.2018 7:47PM
-
-Excursion 2: Taboos of Induction and Falsification
 
 pobs = Pr(d ≥ d(y
 
@@ -4690,8 +4500,6 @@ for me:
 4 This is the term used by Andrew Gelman.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 95 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 If NHST permits going from a single small P-value to a genuine effect,
 it is illicit; and if it permits going directly to a substantive research
@@ -4745,8 +4553,6 @@ exhaust the possibilities. There can be no illicit jumping of levels from
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 96 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 statistical to causal (from H to H*). Fisher didn't allow jumping either,
 but he was less explicit. Statistically significant increased yields in Fisher's
 controlled trials on fertilizers, as Gigerenzer notes, are intimately linked
@@ -4795,8 +4601,6 @@ then it
 5 Gigerenzer calls such a "no increase" hypothesis the substantive null hypothesis.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 97 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 2.6 The Reproducibility Revolution (Crisis) in Psychology
 
@@ -4847,8 +4651,6 @@ through a different phenomenon.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 98 [75–116] 28.7.2018 7:47PM
 
-Excursion 2: Taboos of Induction and Falsification
-
 our discussion. The Reproducibility Project is appealing to what most people
 have in mind in saying a key feature of science is reproducibility, namely
 replicability.
@@ -4890,8 +4692,6 @@ replication specialists, all ostensibly under the appealing banner of improving 
 a self-selected group – results that could obviously impinge rather unfavorably on them? Many say no and even liken the enterprise to a witch
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 99 [75–116] 28.7.2018 7:47PM
-
-Tour II: Falsification, Pseudoscience, Induction
 
 hunt. Kahneman (2014) called for "a new etiquette" requiring original
 authors to be consulted on protocols:
@@ -4938,8 +4738,6 @@ C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 100
 7:47PM
 
 [75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 adequacy of the leap from the statistical to the substantive. Is unscrambling
 soap-related words an adequate proxy for the intended cleanliness variable?
@@ -4990,11 +4788,6 @@ should be distinguished from the New
 Experimentalism in philosophy.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 101
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 'the assignment of numerals to objects or events according to rules'", a gambit
 he considers a deliberate and "pathological" ploy to deflect "attention from the
@@ -5035,11 +4828,6 @@ husbands and divorce or marital dissatisfaction – although it is likely the di
 from both sides.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 102
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 (as no significant results are found among women, these allude to males
 thinking about female partners):
@@ -5086,11 +4874,6 @@ regarded their research hypothesis as disconfirmed much less falsified. This is
 the nub of the problem.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 103
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 What Might a Severe Tester Say?
 I'll let her speak:
@@ -5136,11 +4919,6 @@ unaware of it. Maybe so, but this assumes what hasn't been vouchsafed. Why
 not revisit the subjects at a later date to compare their scores on implicit self-
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 104
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 esteem? If we find no difference from their score under the experimental
 manipulation, we'd have some grounds to deny it was validly measuring the
@@ -5183,11 +4961,6 @@ to a proclivity for cheating. Both the manipulation and the measured effects are
 mind any statistical issues.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 105
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 or ping pong. But be sure to include the most interesting information unreported in the study on self-esteem and partner success. Possibly it was never
 even looked at: What did the subjects write about? What kind of question
@@ -5233,11 +5006,6 @@ a woman's ovulation and how she votes. . . The story was savaged online as 'sill
 'sexist,' and 'offensive.'" (Bartlett, 2012b)
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 106
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 hypothesis, and you can then consider how many of them are statistically
 insignificant.
@@ -5282,11 +5050,6 @@ should also help neutralize P-hacking and HARKing (hypothesizing after the resul
 known) by authors, and CARKing (critiquing after the results are known) by reviewers
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 107
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 with their own investments in the research outcomes, although empirical evidence will
 be required to confirm that this is the case. (Munafò et al. 2017, p. 5)
@@ -5329,11 +5092,6 @@ the ingredients for this final leg of Tour II, including: lift-off, convergent
 arguments (from coincidence), pinpointing blame (Duhem's problem), and
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 108
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 falsification. Essentially, the updated problem is to show that there exist
 methods for controlling and assessing error probabilities. Does that seem too
@@ -5379,11 +5137,6 @@ low severity is lousy
 said, evidence requires a decent threshold be met,
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 109
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 evidence. It's still useful to point out in our travels when only weak severity
 suffices.
@@ -5429,11 +5182,6 @@ adding newly formed pD's to the ends each time (Prusiner Labs 2004). When
 the helix is long enough, it ruptures, sending more pD seeds to convert normal
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 110
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 prions. Another i-assumption to subject to the test of experiment. Trouble is,
 the process is so slow it can take years to develop. Not long ago, they found
@@ -5478,11 +5226,6 @@ In effect, Neyman says I'd never infer from observing that 150 out of 1000
 throws with this die landed on six, "nothing else being known," that future
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 111
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 throws will result in around 0.15 sixes, as Carnap alleges I would. This is
 a version of enumerative induction (or Carnap's straight rule). You need
@@ -5492,12 +5235,10 @@ model. The Binomial distribution builds on n Bernoulli trials, the success–
 failure trials (visited in Section 1.4). It just adds up all the ways that number of
 successes could occur:
 
-(cid:1) (cid:3)
-
 Prðk out of n successesÞ ¼ n
 k
 
-θkð1 (cid:2) θÞn(cid:2)k
+θkð1 θÞnk
 
 Carnapians could have formed the straight rule for the Binomial experiment,
 and argued:
@@ -5533,11 +5274,6 @@ sixes: 0, 1, or 2. Call this a paired trial. Now do this 1000 times. You'll have
 paired trials. Put these to one side for a moment. Just consider the entire set of
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 112
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 2000 tosses – first order trials Neyman calls these. Compute the relative
 frequency of sixes out of 2000. It may not be 1/6, due to the structure of
@@ -5556,11 +5292,10 @@ die. Compute f as before: it is the relative frequency of six in the 1000n first
 order trials. Then, turn to the 1000 n-fold trials, and compute the proportion
 where six occurs k times (for k < n). It will be very nearly equal to
 
-(cid:1) (cid:3)
 n
 k
 
-f kð1 (cid:2) f Þn(cid:2)k:
+f kð1 f Þnk:
 
 "In other words, the relative frequency" of k out of n successes in the n-fold
 trials "is connected with the relative frequency of the first order experiments in
@@ -5588,11 +5323,6 @@ empirical law and a mathematical law. The proofs are based on idealized
 random samples, but there are certain actual experiments that are well
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 113
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 y
 t
@@ -5658,11 +5388,6 @@ their hands off our attempts to carry out inquiry properly, to take one of
 Peirce's brilliant insights: "the supernal powers withhold their hands and
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 114
-7:47PM
-
-[75–116] 28.7.2018
-
-Excursion 2: Taboos of Induction and Falsification
 
 let me alone, and that no mysterious uniformity . . . interferes with the
 action of chance" (2.749) in order to justify induction. End of talk.
@@ -5708,11 +5433,6 @@ Likelihood (LL) is to capture this, and we appraise it according to how well it
 succeeds, and how well it satisfies the goals of statistical practice. Likewise, the
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C04.3D 115
-7:47PM
-
-[75–116] 28.7.2018
-
-Tour II: Falsification, Pseudoscience, Induction
 
 severe tester proposes, there is a pre-statistical plausibility to infer hypotheses
 to the extent that they have passed stringent tests. The error statistical methodology is the frequentist theory of induction. Here too the statistical philosophy is to be appraised according to how well it captures and supplies
@@ -5726,8 +5446,6 @@ C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 117 [117�
 Excursion 3 Statistical Tests and Scientific
 
 Inference
-
-Itinerary
 
 Tour I
 
@@ -5762,7 +5480,6 @@ Severity, Capability, and Confidence Intervals (CIs)
 Higgs' Discovery
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 119 [117–163] 31.7.2018
-11:14AM
 
 Tour I Ingenious and Severe Tests
 
@@ -5803,7 +5520,6 @@ such stars invisible, save during a total eclipse, which "by strange good
 to fit the Einstein test.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 120 [117–163] 31.7.2018
-11:14AM
 
 Excursion 3: Statistical Tests and Scientific Inference
 
@@ -5855,7 +5571,6 @@ his statistical work (he was 'sui generis,' as he later described himself)"
 (Lehmann 1994, p. 398), Polish authorities sent him to University College in
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 121 [117–163] 31.7.2018
-11:14AM
 
 Tour I: Ingenious and Severe Tests
 
@@ -5905,9 +5620,6 @@ which relevant stages of inquiry can live. Theories and laws give constraints
 but the problem at the experimental frontier has much in common with
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 122 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 research in fields where there is at most a vague phenomenon and no real
 theories to speak of.
@@ -5959,9 +5671,6 @@ together allows the tiny distances to be measured in the x and y directions
 (.1). The estimation had to take account of how the two plates are
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 123 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 Apparent star field
 during
@@ -6008,9 +5717,6 @@ to choose one of the values as H0 and define composite H1 to include alternative
 specify the H0: μ ≤ 0.87, and the H1: μ > 0.87 includes the Einsteinian value of
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 124 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 1.75. Hypothesis H0 also includes the third value of potential interest, μ = 0: no
 deflection.2 After a good deal of data analysis, the two eclipse results from
@@ -6063,9 +5769,6 @@ precise results. Nothing like a stringent estimate of the deflection effect
 arcseconds – the angle made by a right triangle 1 inch high and 1.9 miles long" (Buchen 2009).
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 125 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 emerged until the field was rescued by radioastronomical data from quasars
 (quasi-stellar radio sources). This allowed testing the deflection using radio
@@ -6110,9 +5813,6 @@ white, even though a white swan would not be taken as strong evidence for H's de
 would be that all swans are white.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 126 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 anomaly for Newton's half deflection – only one is needed. Yet not finding an
 anomaly in 1919 isn't grounds for supposing no deflection anomalies exist.
@@ -6154,9 +5854,6 @@ me to know he was the one responsible for telling Fisher that Neyman had
 converted "his" significance tests into tools for acceptance sampling, where
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 127 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 only long-run performance matters (Pearson 1955 affirms this). Pearson was
 kept out of it. The set of hypothetical repetitions used in obtaining the
@@ -6199,9 +5896,6 @@ magnitude of effect that could have been due to the conjectured factor is far to
 small to account for the eclipse effect; and were it large enough to account for
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 128 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 the eclipse effect, it would have blatantly false or contradictory implications
 elsewhere. Could the refraction of the sun's corona be responsible (as one
@@ -6246,9 +5940,6 @@ to GTR that yield that same prediction for the bending of light as GTR. (Earman 
 p. 117)
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 129 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 A similar charge is echoed by Laudan (1997), Chalmers (2010), and Musgrave
 (2010). For the severe tester, being prohibited from regarding GTR as having
@@ -6290,9 +5981,6 @@ a claim C posed after the data, identified within the predesignated parameter
 spaces.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 130 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 (B) Distance function and its distribution. A function of the sample d(X), the
 test statistic, reflects how well or poorly the data (X = x
@@ -6345,9 +6033,6 @@ museum does not show our new formulation, their apparatus is not so
 different.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 131 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 3.2 N-P Tests: An Episode in Anglo-Polish Collaboration
 
@@ -6399,9 +6084,6 @@ What pulled him back to statistics was Egon Pearson's letter in 1926.
 E. Pearson had been "suddenly smitten" with doubt about the justification of
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 132 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 tests then in use, and he needed someone with a stronger mathematical background to pursue his concerns. Neyman had just returned from his fellowship
 years to a hectic and difficult life in Warsaw, working multiple jobs in applied
@@ -6454,9 +6136,6 @@ where f(x; θ), for all x ∈ S, is the distribution (or density) of the sample.
 We don't test all features of the model at once; it's part of the test specification
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 133 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 to indicate which features (parameters) of the model are under test. The generic
 form of null and alternative hypotheses is
@@ -6521,9 +6200,6 @@ the parameter values in Θ
 0. Then the restricted likelihood in the
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 134 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 denominator is large, making the ratio Λ(X) small. Thus, a small Λ(X)
 corresponds to H0 being in accordance with the data (Wilks 1962, p. 404).
@@ -6565,13 +6241,10 @@ maximize the capability of detecting discrepancies from H0 when they exist.
 We need the sampling distribution of Λ(X), but in practice, Λ(X) is rarely in
 a form that one could easily derive this. Λ(X) has to be transformed in clever ways
 to yield a test statistic d(X), a function of the sample that has a known distribution
-under H0. A general trick to finding a suitable test statistic d(X) is tofi nd a function
+under H0. A general trick to finding a suitable test statistic d(X) is tofind a function
 h(.) of Λ(X) that is monotonic with respect to a statistic d(X). The greater d(X) is,
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 135 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 the greater the likelihood ratio; the smaller d(X) is, the smaller the likelihood ratio.
 Having transformed Λ(X) into the test statistic d(X), the rejection region becomes
@@ -6620,9 +6293,6 @@ Equivalently, he made tables of the complement to the empirical power function: 
 0 by steps of σ/√n (ibid. p. 471). He's construing the test's capabilities in terms
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 136 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 of percentage of samples. The formal probability distributions serve as shortcuts to cranking out the percentages. "While the results were crude, they show
 that our thoughts were turning towards the justification of tests in terms of
@@ -6658,21 +6328,18 @@ approach 1. Let's consider a test statistic that is unbiased yet inconsistent.
 Suppose we are testing the mean of a Normal distribution with σ known.
 The test statistic to which the Λ gives rise is
 
-dðXÞ ¼ √nðx (cid:2) θ0Þ=σ:
+dðXÞ ¼ √nðx θ0Þ=σ:
 
 Say that, rather than using the sample mean x, we use the average of the first
 ^θ ¼ 0:5ðX1 þ XnÞ. The
 and last values. This is to estimate the mean θ as
-test statistic is then √2ð^θ (cid:2) θ0Þ=σ. This is an unbiased estimator of θ. The
+test statistic is then √2ð^θ θ0Þ=σ. This is an unbiased estimator of θ. The
 ^θ is N(θ, σ2/2). Even though this is unbiased and enables control
 distribution of
 of the Type I error, it is inconsistent. The result of looking only at two
 outcomes is that the power does not increase as n increases. The power of
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 137 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 this test is much lower than a test using the sample mean for any n > 2. If you
 come across a criticism of tests, make sure consistency is not being violated.
@@ -6717,9 +6384,6 @@ Type I error probability = Pr(d(X) ≥ cα; H0) ≤ α.
 Compare the Type I error probability and the P-value:
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 138 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 P-value: Pr(d(X) ≥ d(x
 
@@ -6798,9 +6462,6 @@ cα
 .2 Type II error and power.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 139 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 A uniformly most powerful (UMP) N-P test of a hypothesis at level α is one
 that minimizes ß(θ
@@ -6857,9 +6518,6 @@ parameter values, so just picking two and ignoring the others would not be UMP.
 0, θ
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 140 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 experiments (Section 3.1): no one would consider the class of repetitions as
 referring to the hoped-for 12 photos, when in fact only some smaller number
@@ -6905,9 +6563,6 @@ Egon's fundamental paper was presented to the Royal Society by Karl Pearson, who
 hostile and skeptical of its contents, and favorably refereed by the formidable Fisher,
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 141 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 who was later to be highly critical of much of the Neyman–Pearson theory. (C. Reid
 1998, p. 103)
@@ -6921,7 +6576,7 @@ fall out of the Λ criterion (letting µ be the mean):
 
 against H1: µ > µ0.
 
-dðXÞ ¼ √nðX (cid:2) μ
+dðXÞ ¼ √nðX μ
 
 Þ=σ; RRðαÞ ¼ x: dðxÞ ≥ cαg:
 f
@@ -6945,23 +6600,20 @@ against H1: µ > µ0:
 Þ=s; RRðαÞ ¼ x: dðxÞ ≥ cαg;
 f
 
-dðXÞ ¼ √nðX (cid:2) μ
-(cid:3)X
+dðXÞ ¼ √nðX μ
 Þ
 
-n (cid:2) 1
+n 1
 
 s2 ¼
 
-(cid:2)
-
 ð
 
-ðXi (cid:2) XÞ2:
+ðXi XÞ2:
 
 Two-sided Normal test of the mean H0: µ = µ0 against H1: µ ≠ µ0:
 
-dðXÞ ¼ √nðX (cid:2) μ
+dðXÞ ¼ √nðX μ
 
 f
 Þ=s; RRðαÞ ¼ x: jdðxÞj ≥ cαg:
@@ -6988,7 +6640,7 @@ equal):
 
 H0: γ :¼ μ
 
-(cid:2) μ
+μ
 
 ¼ γ
 
@@ -7001,26 +6653,15 @@ H0: γ :¼ μ
 A Uniformly Most Powerful Unbiased (UMPU) test is defined by
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 142 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 τðZÞ ¼
 
-(cid:5)
-
-(cid:4)
-
-√n½ X n (cid:2) Y n
+√n½ X n Y n
 s√2
-√n ½ X n (cid:2) Y n
+√n ½ X n Y n
 s√2
 
-(cid:4)
-
-(cid:2) γ
-
-(cid:3)
+γ
 
 n
 
@@ -7030,14 +6671,10 @@ o
 
 :
 
-(cid:5)
-
-(cid:3)
-
-(cid:2) γ
+γ
 
 ð
-~ St 2n(cid:2)2
+~ St 2n2
 
 Þ;
 
@@ -7046,17 +6683,14 @@ Under H0: τ Zð Þ ¼
 under H1½γ ¼ γ
 
 ð
-(cid:3): τ Zð Þ~ St δ1; 2n(cid:2)2
+: τ Zð Þ~ St δ1; 2n2
 
 Þ; δ1 ¼
 
-(cid:5)
-
-(cid:4)
 √n γ
 σ√2
 
-(cid:2) γ
+γ
 
 ; for γ
 
@@ -7104,27 +6738,21 @@ since cα ¼ 1:96:
 
 p
 
-ffiffiffiffiffiffiffi
-
 ¼ 150 þ 1:96 1ð Þ ¼ 151:96;
 
 ð
 
 For simplicity, let's go to the 2-standard error cut-off for rejection:
 Reject H0 infer there's an indication that μ > 150
-ðX (cid:2) 150Þ=
+ðX 150Þ=
 The test statistic d(x) is a standard Normal variable: Z ¼
-10 ¼ X (cid:2) 150, which, for x ¼ 152, is 2. The area to the right of 2 under the
+10 ¼ X 150, which, for x ¼ 152, is 2. The area to the right of 2 under the
 standard Normal is around 0.025.
 
 Þ iff X ≥ 152:
 p
-ffiffiffiffiffiffiffi
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 143 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 Now we begin to move beyond the strict N-P interpretation. Say x is
 just significant at the 0.025 level (x ¼ 152). What warrants taking the data as
@@ -7159,9 +6787,7 @@ dðx0Þ ¼
 
 p
 
-ffiffiffiffiffiffiffi
-
-ð152 (cid:2) 150Þ=10 ¼ 2:
+ð152 150Þ=10 ¼ 2:
 
 The data reject H0 at level 0.025. We want to compute
 
@@ -7176,9 +6802,6 @@ the same result. The context indicates which is more useful. This probability
 must be high for C to pass severely; if it's low, it's BENT.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 144 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Table 3.1 Reject in test T+: H0: μ ≤ 150 vs. H1:
 μ > 150 with x = 152
@@ -7202,21 +6825,17 @@ Pr(X ≤ 152; μ = μ
 0.5
 0.16
 
-(cid:4)
-
 We need Pr X ≤ 152; μ > 153
 
 is false). To say μ > 153 is false is to say μ ≤
 153. So we want PrðX ≤ 152; μ ≤ 153). But we need only evaluate severity at the
 point μ = 153, because this probability is even greater for μ < 153:
 
-PrðX ≤ 152; μ ¼ 153Þ ¼ PrðZ ≤ (cid:2) 1Þ ¼ 0:16:
+PrðX ≤ 152; μ ¼ 153Þ ¼ PrðZ ≤ 1Þ ¼ 0:16:
 
 p
 
-ffiffiffiffiffiffiffi
-
-ð152 (cid:2) 153Þ=10 ¼ (cid:2)1. Thus SEVðT; x ¼ 152; C : μ > 153Þ
+ð152 153Þ=10 ¼ 1. Thus SEVðT; x ¼ 152; C : μ > 153Þ
 Here, Z ¼
 ¼ 0:16. Very low. Our minimal severity principle blocks μ > 153 because it's
 fairly probable (84% of the time) that the test would yield an even larger mean
@@ -7244,9 +6863,6 @@ we want to be alert to a fallacious interpretation of a "negative" result: infer
 there's no positive discrepancy from μ = 150. No (statistical) evidence of noncompliance isn't evidence of compliance; here's why. We have (S-1): the data
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 145 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 Table 3.2 Reject in test T+: H0: μ ≤ 150 vs.
 H1: μ > 150 with x = 153
@@ -7267,7 +6883,6 @@ Pr(X ≤ 153; μ = μ
 ~1
 0.999
 0.97
-0.84
 0.5
 
 Table 3.3 Non-reject in test T+: H0: μ ≤ 150 vs.
@@ -7287,10 +6902,8 @@ Pr(X > 151; μ = μ
 
 1)
 
-0.16
 0.3
 0.5
-0.84
 0.97
 
 "accord with" H0, but what if the test had little capacity to have alerted us to
@@ -7300,7 +6913,7 @@ namely, a mean x ¼ 151. Condition (S-2)
 to consider
 PrðX > 151; μ ¼ 150), which is only 0.16. To get this, standardize X to obtain
 a standard Normal variate: Z ¼
-ð151 (cid:2) 150Þ=10 ¼ 1; and PrðX > 151;
+ð151 150Þ=10 ¼ 1; and PrðX > 151;
 μ ¼ 150Þ ¼ 0:16. Thus, SEV Tþ; x ¼ 151; C: μ ≤ 150Þ ¼ low 0:16
 . Table 3.3
 gives the severity values associated with different inferences of form μ ≤ μ
@@ -7308,8 +6921,6 @@ gives the severity values associated with different inferences of form μ ≤ μ
 150 + γ, given x ¼ 151.
 
 requires us
-
-ffiffiffiffiffiffiffi
 
 p
 
@@ -7333,9 +6944,6 @@ Formally speaking, it may be seen merely as a good rule of thumb to avoid
 fallacious interpretations. What's new is the statistical philosophy behind it.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 146 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 We no longer seek either probabilism or performance, but rather using
 relevant error probabilities to assess and control severity.5
@@ -7385,9 +6993,6 @@ traveled on a freighter as a nurse for the adventure of it, and sometimes led to
 into the Soviet Union." (C. Reid 1998, p. 105).
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 147 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 "something much more substantial." De Finetti called this "the involuntarily
 destructive aspect of Wald's work" (1972, p. 176). Cox remarks:
@@ -7437,9 +7042,6 @@ distributed with parameters θ and n. The sample mean, which is just X= Y/n, is
 a natural estimator of θ with a highly desirable property: it is sufficient, i.e., it is
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 148 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 a function of the sufficient statistic Y. Intuitively, a sufficient statistic reduces
 the n-dimensional sample X into a statistic of much smaller dimensionality
@@ -7465,8 +7067,7 @@ a test statistic with maximal sensitivity to inconsistencies with the null
 hypothesis.
 
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-Þ(cid:3)
-½θ 1 (cid:2) θ
+Þ½θ 1 θ
 
 0)/σ, σ =
 
@@ -7504,9 +7105,6 @@ of Evidence (Mayo and Cox 2006), (2) the divergent interpretations growing
 out of Cox's taxonomy of test hypotheses, and (3) the links to statistical
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 149 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 inference as severe tests. As a starting point, we identified a general principle
 that we dubbed the Frequentist Principle of Evidence, FEV:
@@ -7557,9 +7155,6 @@ setting bounds to parameters to scrutinizing the capability of a method for
 finding something out. In sync with our "arguing from error" (Excursion 1),
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 150 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 we may infer a discrepancy from H0 is absent if our test very probably would
 have alerted us to its presence (by means of a more significant P-value).
@@ -7602,21 +7197,18 @@ The proper way to view significance tests acknowledges a variety of problem
 situations:
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 151 [117–163] 31.7.2018
-11:14AM
 
-Tour I: Ingenious and Severe Tests
-
-(cid:129) Are we testing parameter values within some overriding model? (fully
+Are we testing parameter values within some overriding model? (fully
 
 embedded)
 
-(cid:129) Are we merely checking if a simplification will do? (nested alternative)
-(cid:129) Do we merely seek the direction of an effect already presumed to exist?
+Are we merely checking if a simplification will do? (nested alternative)
+Do we merely seek the direction of an effect already presumed to exist?
 
 (dividing)
 
-(cid:129) Would a model pass an audit of its assumptions? (test of assumption)
-(cid:129) Should we worry about data that appear anomalous for a theory that has
+Would a model pass an audit of its assumptions? (test of assumption)
+Should we worry about data that appear anomalous for a theory that has
 
 already passed severe tests? (substantive)
 
@@ -7663,9 +7255,6 @@ POW(γ) = Pr(d ≥ cα; µ0 + γ).
 "attained power" to detect discrepancy γ (Section 5.3). The nice thing about
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 152 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 power is that it's always in relation to an observed difference from a test or null
 hypothesis, which gives it a reference. Let's agree that Π will always relate to an
@@ -7710,9 +7299,6 @@ smaller than the one observed is probable even when µ ≤ µ0 + γ, then a smal
 value of P" is poor evidence of a discrepancy from H0 in excess of γ (ibid.). That
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 153 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 is, from FEV(ia), if Π(γ) = Pr(d ≥ d0; µ0 + γ) = moderately high (greater than
 0.3, 0.4, 0.5), then there's poor grounds for inferring µ > µ0 + γ. This is
@@ -7766,9 +7352,6 @@ not at the 5% level." Next "we require that, for all α, Pr Y2wα; H0
 ð
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 154 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 3. Dividing nulls: H0: µ = µ0 vs. H1: µ > µ0 and H0: µ =µ0 vs. H1: µ < µ0. In this
 pigeonhole, we may already know or suspect the null is false and discrepancies
@@ -7813,7 +7396,6 @@ a small P-value indicates some departure, you cannot infer H1 so long as
 various alternative models, not probed by this test, could account for it.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 155 [117–163] 31.7.2018
-11:14AM
 
 e
 t
@@ -7858,7 +7440,6 @@ a
 a
 t
 a
-D
 
 e
 r
@@ -7912,7 +7493,6 @@ c
 i
 d
 n
-I
 
 d
 e
@@ -7949,7 +7529,6 @@ l
 Π
 
 f
-I
 
 H
 r
@@ -8072,7 +7651,6 @@ d
 i
 v
 i
-D
 
 .
 
@@ -8109,7 +7687,6 @@ c
 i
 d
 n
-I
 
 t
 u
@@ -8141,7 +7718,6 @@ c
 i
 d
 n
-I
 
 m
 o
@@ -8234,7 +7810,6 @@ c
 i
 d
 n
-I
 
 m
 o
@@ -8259,12 +7834,6 @@ c
 i
 d
 n
-I
-
-D
-
-I
-I
 
 r
 o
@@ -8318,7 +7887,6 @@ l
 e
 d
 o
-M
 
 .
 
@@ -8477,7 +8045,6 @@ c
 i
 d
 n
-I
 
 g
 n
@@ -8621,7 +8188,6 @@ c
 i
 d
 n
-I
 
 f
 o
@@ -8681,7 +8247,6 @@ l
 e
 d
 o
-M
 
 γ
 +
@@ -8734,7 +8299,6 @@ i
 Π
 
 f
-I
 
 w
 o
@@ -8768,7 +8332,6 @@ c
 i
 d
 n
-I
 
 e
 v
@@ -8898,11 +8461,9 @@ e
 t
 n
 
-I
 T
 S
 R
-I
 F
 
 .
@@ -8929,9 +8490,6 @@ a
 T
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 156 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 It may only give suggestions for alternative models to try. The interest may be
 in the effect of violated assumptions on the primary (statistical) inference if
@@ -8979,9 +8537,6 @@ scientists tended not to take philosophers seriously. But in this case even the 
 sufficiently worried to reanalyze the experiment.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 157 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 The mirror distortion hypothesis hadn't been predesignated, but it is altogether justified to raise it in auditing the data: It could have been chewing gum
 or spilled coffee that spoilt the results. Not only that, the same data hinting at
@@ -9028,9 +8583,6 @@ anomalous result real or spurious?
 −6 (Mignard and Klioner 2009, p. 308).
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 158 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Finding cancer clusters is sometimes compared to our Texas Marksman
 drawing a bull's-eye around the shots after they were fired into the barn. They
@@ -9071,9 +8623,6 @@ taken in turn to assess if the data are compatible with one, both, or neither of
 possibilities (Cox 1977, p. 59). Each gets its own severity assessment.
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 159 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 Who Says You Can't Falsify Alternatives in a Significance Test?
 Does the Cox–Mayo formulation of tests change the logic of significance tests
@@ -9125,9 +8674,6 @@ severity. It's a key part of test specification to indicate which claims or feat
 of a model are being tested. The charge might stand if a point null is known to
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 160 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 be false, for in those cases we can't say μ is precisely 0, say. In that case you
 wouldn't want to infer it. One can still set upper bounds for how far off an
@@ -9169,9 +8715,6 @@ parameters' being required for gravitational theories to accord with experimenta
 (Mayo 2010a, p. 48).
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 161 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 All the viable members of the zoo of GTR rivals held the equivalence
 principle (EP), roughly the claim that bodies of different composition fall
@@ -9216,9 +8759,6 @@ for its correctness, as claiming we never have such evidence. Even he says it
 lends some weight to the null (Fisher 1955). With the N-P test, the null and
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 162 [117–163] 31.7.2018
-11:14AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 alternative needn't be treated asymmetrically. In testing H0: μ ≥ μ
 0 vs. H1: μ < μ
@@ -9272,9 +8812,6 @@ R. Berger and Hsu 1996, R. Berger 2014, Wellek 2010).
 0 or μ ≤ −μ
 
 C:/ITOOLS/WMS/CUP-NEW/14096652/WORKINGFOLDER/MAYOS/9781107054134C05.3D 163 [117–163] 31.7.2018
-11:14AM
-
-Tour I: Ingenious and Severe Tests
 
 Learning from evidence turns not on appraising or probabilifying large-scale
 theories but on piecemeal tasks of data analysis: estimating backgrounds, modeling data, and discriminating signals from noise. Statistical inference is not
@@ -9316,19 +8853,19 @@ severely, post-data. Any such proposed inferential use of error probabilities
 gives considerable fodder for criticism from various tribes of Fisherians,
 Neyman–Pearsonians, and Bayesians. We can hear them now:
 
-(cid:129) N-P theorists can only report the preset error probabilities, and can't use
+N-P theorists can only report the preset error probabilities, and can't use
 
 P-values post-data.
 
-(cid:129) A Fisherian wouldn't dream of using something that skirts so close to power
+A Fisherian wouldn't dream of using something that skirts so close to power
 
 as does the "sensitivity function" Π(γ).
 
-(cid:129) Your account cannot be evidential because it doesn't supply posterior
+Your account cannot be evidential because it doesn't supply posterior
 
 probabilities to hypotheses.
 
-(cid:129) N-P and Fisherian methods preclude any kind of inference since they use
+N-P and Fisherian methods preclude any kind of inference since they use
 
 "the sample space" (violating the LP).
 
@@ -9340,7 +8877,6 @@ Only then do we have a shot at decoupling traditional philosophies from
 those tools in order to use them appropriately today. This is especially so when
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 165 [164–188] 28.7.2018
-4:59AM
 
 Tour II: It's The Methods, Stupid
 
@@ -9383,9 +8919,6 @@ be wrong in exactly 5 per cent of everything they do misses its target. (Sir
 David Cox 2006a, p. 197)
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 166 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Showing that a method's stipulations could countenance absurd or counterintuitive results is a perfectly legitimate mode of criticism. I reserve the term
 "howler" for common criticisms based on logical fallacies or conceptual misunderstandings. Other cases are better seen as chestnuts – puzzles that the
@@ -9430,9 +8963,6 @@ alternative? It's just the same as the probability it rejects, period, namely, 0
 So an N-P tester could at least complain. Now I agree that bad tests may still be
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 167 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 tests; but I'm saying Kadane's is no test at all. If you want to insist Fisher
 permits this test, fine, but I don't think that's a very generous interpretation.
@@ -9477,9 +9007,6 @@ hasn't, to my knowledge, been excised by testers: it's an old chestnut, and a ve
 revealing one.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 168 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Exhibit (v): Jeffreys' Tail Area Criticism. Did you hear the one about
 statistical hypothesis testers rejecting H0 because of outcomes it failed to predict?
@@ -9526,9 +9053,6 @@ It's worth reiterating Jeffreys' correctly pointing out that "everybody rejects"
 the idea that the improbability of data under H suffices for evidence against H.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 169 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 Shall we choose priors or tail areas? Jeffreys chooses default priors. Interestingly,
 as Jeffreys recognizes, for Normal distributions "the tail area represents the
@@ -9576,9 +9100,6 @@ Pearson shied away from: It ensures data fall in a critical region rarely under 
 and sufficiently often under alternatives in H1
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 170 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 a pre-data, performance goal (recall Birnbaum's Conf, Souvenir D). It is often
 alleged the N-P tester only reports whether or not x falls in the rejection region.
@@ -9634,9 +9155,6 @@ right 75% of the time." (She wants credit because she could have used
 a better scale, even knowing she used a lousy one.)
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 171 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 Basis for the joke: An N-P test bases error probabilities on all possible outcomes
 or measurements that could have occurred in repetitions, but did not.
@@ -9682,9 +9200,6 @@ to have the randomizer choose a far less precise tool. From the perspective of
 interpreting the specific data that are actually available, this makes no sense. (p. 296)
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 172 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 To scotch his famous example, Cox (1958) introduces a principle: weak
 conditionality.
@@ -9737,9 +9252,6 @@ Yet we are told that "there is a catch" and that WCP leads to the Likelihood
 Principle (LP)!
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 173 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 It is not uncommon to see statistics texts argue that in frequentist theory one is
 faced with the following dilemma: either to deny the appropriateness of conditioning
@@ -9785,9 +9297,6 @@ not denying there is an important difference between using error probabilities
 inferentially and behavioristically. The truth is that N-P and Fisher used
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 174 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 P-values and other error probabilities in both ways.1 What they didn't give us is
 a clear account of the former. A big problem with figuring out the "he said/they
@@ -9838,9 +9347,6 @@ probabilities (formal or informal) attached to the interpretation.
 3 Note that pobs and tobs are the same as our p0 and d0. (or d(x
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 175 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 Thus the P-value equals the corresponding Type I error probability. [I've been
 using upper case P, but it's impossible to unify the literature.] Listen to
@@ -9889,9 +9395,6 @@ Can P values be justified on the basis of how they perform in repeated use? We d
 it. For one thing, how would one measure the performance of P values? With
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 176 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 significance tests and confidence intervals, they are either right or wrong, so it is
 possible to talk about error rates. If one introduces a decision rule into the situation by
@@ -9938,9 +9441,6 @@ discounted, for inaccurate methods of estimating error have far more influence t
 particular standard of significance chosen" (pp. 504–5).
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 177 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 the dichotomous "up-down" spirit of tests as foreign to Fisher, it is not foreign
 at all. Again from Fisher (1935a):
@@ -9986,9 +9486,6 @@ rejects hypotheses; he rather gives his mind to each particular case in the ligh
 evidence and his ideas. (pp. 44–5)
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 178 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 It is assumed Fisher is speaking of N-P, or at least Neyman. But N-P do not
 recommend such habitual practice.
@@ -10033,9 +9530,6 @@ N-P testing, he says, "functions as the Superego of the hybrid logic" (ibid.,
 p. 280). It requires alternatives, significance levels, and power to be prespecified, while strictly outlawing evidential or inferential interpretations about the
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 179 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 truth of a particular hypothesis. The Fisherian "Ego gets things done . . . and
 gets papers published" (ibid.). Power is ignored, and the level of significance is
@@ -10079,9 +9573,6 @@ obey the reading that has grown out of the Incompatibilist tribe to which they
 belong. A user must round up to the predesignated α. This type of prohibition
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 180 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 gives a valid guilt trip to Gigerenzer's Ego; yet the hang-up stems from the
 Freudian metaphor, not from Neyman and Pearson, who say:
@@ -10125,9 +9616,6 @@ Two types of heavy armour-piercing naval shell of the same caliber are under
 consideration; they may be of different design or made by different firms . . . Twelve
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 181 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 shells of one kind and eight of the other have been fired; two of the former and five of
 the latter failed to perforate the plate . . . (Pearson 1947, 171)
@@ -10174,9 +9662,6 @@ theory, the latter to what they do in practice. In practice, even Neyman, so oft
 performance-oriented, was as inferential as Pearson.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 182 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 time, when opportunities existed for a fruitful fusion of ideas stemming from
 Neyman and Pearson and from Fisher" (Barnard 1985, p. 2). Lehmann
@@ -10232,9 +9717,6 @@ you shouldn't have to retrace this" he said/they said" dispute again. It's
 the methods, stupid.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 183 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 3.6 Hocus-Pocus: P-values Are Not Error Probabilities,
 
@@ -10282,9 +9764,6 @@ differentiate between the schools" (Berger 2003, p. 30). That would work
 splendidly. So let error probability2 = Bayesian error probability. Frankly, I
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 184 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 didn't think Bayeslans would want the term. In a minute, however, Berger will
 claim they alone are the true frequentist error probabilities! If you feel yourself
@@ -10336,9 +9815,6 @@ to disagree with the special posterior probability for H0, defined as error
 the criticisms and proposed reforms are in terms of them.
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 185 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 probability2. They're not called Bayesian error probabilities any more but
 frequentist conditional error probabilities (CEPs). Presto! A brilliant sleight
@@ -10399,9 +9875,6 @@ n, . . .
 1, β
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 186 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 randomly selecting a null from the urn could be seen as a Bernoulli trial with two
 outcomes: a null that is true or false. The probability of selecting a null that has the
@@ -10453,9 +9926,6 @@ alternatives].
 2, . . ., α
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 187 [164–188] 28.7.2018
-4:59AM
-
-Tour II: It's The Methods, Stupid
 
 kowtow to Jeffreys (N. Reid 2003). The surest sign that we've swapped out
 meanings are the selling points.
@@ -10499,9 +9969,6 @@ particular outcome, with the hypothesis varying. There's no consideration of
 the sampling distribution of d(X), if you've conditioned on the actual
 
 C:/ITOOLS/WMS/CUP-NEW/14061757/WORKINGFOLDER/MAYOS/9781107054134C06.3D 188 [164–188] 28.7.2018
-4:59AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 outcome. A second strategy is to consider the selling points of the new
 "compromise" construal, to gauge what it's asking you to buy.
@@ -10565,9 +10032,6 @@ the K.P. side of the aisle, rose to thank the speaker. Rubbing his hands togethe
 in gleeful anticipation of a blow against Neyman by Fisher, he declares: "I am
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 190 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 very glad Professor Fisher is present, as it is his work that Dr Neyman has
 accepted and incorporated. . . . I am not at all sure that the' confidence' is not
@@ -10589,12 +10053,11 @@ U claim to favor candidate Fisher. An estimate of the proportion of the
 population who favor Fisher, θ, at least at this point in time, is typically
 given by means of confidence limits. A 95% confidence interval for θ is
 X where x is the observed proportion and we estimate σ
-x (cid:1) 1:96σ
+x 1:96σ
 X by plugffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
 ging x in for θ to get σ
 ¼ 0:048. The 95% CI limits for
-Þ=100(cid:3)
-ð
+Þ=100ð
 ½0:60 0:40
 θ = 0.6 ± 0.09 using the Normal approximation. The lower limit is 0.51 and the
 upper limit is 0.69. Often, 0.09 is reported as the margin of error. We could just
@@ -10603,8 +10066,6 @@ as well have asked, having observed x ¼ 0:6,
 p
 
 ¼
-
-X
 
 what value of θ would 0.6 be statistically significantly greater than at
 the 0.025 level, and what value of θ would 0.6 be statistically significantly less than at the 0.025 level?
@@ -10624,7 +10085,6 @@ manner: rejecting μ values excluded from the interval, accepting (as plausible 
 the like) those included. There's the tendency, as well, to fix the confidence level
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 191 [189–218] 30.7.2018
-11:15AM
 
 Tour III: Capability and Severity: Deeper Concepts
 
@@ -10645,12 +10105,9 @@ and best properties of tests go over into good or best properties of correspondi
 test T+ corresponds to a uniformly most accurate lower confidence bound (see
 Lehmann and Romano 2005, p. 72). The (1 − α) uniformly most accurate
 (UMA) lower confidence bound for μ, which I write as ^μ
-1(cid:4)αðXÞ, corresponding to test T+ is
+1αðXÞ, corresponding to test T+ is
 
-(cid:4)
-μ > X (cid:4) cα σ=√n
-
-(cid:3)
+μ > X cα σ=√n
 
 ;
 
@@ -10664,9 +10121,6 @@ cα
 
 0.5
 
-0.16
-
-0.05
 1.65
 
 0.025
@@ -10679,46 +10133,39 @@ cα
 
 0.001
 
-(cid:3)
-
 The Duality
-"Infer: μ > X (cid:4) 2:5 σ=√n
+"Infer: μ > X 2:5 σ=√n
 " alludes to the rule for inferring; it is the CI
 estimator. Substituting x for X yields an estimate. Here are some abbreviations,
 alluding throughout to our example of a UMA estimator:
 
-(cid:4)
-
 A generic 1 − α lower confidence interval estimator is μ > ^μ
-μ > X (cid:4) cαðσ=√nÞ.
+μ > X cαðσ=√nÞ.
 A specific 1 − α lower confidence interval estimate is μ > ^μ
-μ > x (cid:4) cαðσ=√nÞ.
+μ > x cαðσ=√nÞ.
 
-1(cid:4)αðXÞ ¼
+1αðXÞ ¼
 
-1(cid:4)αðxÞ ¼
+1αðxÞ ¼
 
 The corresponding value for α is close enough to 0.005 to allow c0.005 = 2.5 (it's
 actually closer to 0.006). The impressive thing is that, regardless of the true
 value of μ, these rules have high coverage probability. If, for any observed x, in
 our example, you shout out
-μ > X (cid:4) 2:5ðσ=√nÞ;
+μ > X 2:5ðσ=√nÞ;
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 192 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 your assertions will be correct 99.5% of the time. The specific inference
 results from plugging in x for X. The specific 0.995 lower limit =
 ^μ
-ðxÞ ¼ x (cid:4) 2:5ðσ=√nÞ, and the specific 0.995 estimate is μ > ^μ
+ðxÞ ¼ x 2:5ðσ=√nÞ, and the specific 0.995 estimate is μ > ^μ
 ðxÞ.
 0:995
 This inference is qualified by the error probability of the method, namely the
 confidence level 0.995. But the upshot of this qualification is often misunderstood. Let's have a new example to show the duality between the lower
 confidence interval estimator μ > ^μ
-1(cid:4)αðXÞ and the generic (α level) test
+1αðXÞ and the generic (α level) test
 0. The "accident at the water plant"
 T+ of form: H0: μ ≤ μ
 has a nice standard error of 1, but that can mislead about the role of sample size
@@ -10732,8 +10179,6 @@ a reminder of sample size seems needed.
 
 0:995
 
-X
-
 Work backwards. Suppose we've collected the 25 samples and observed
 sample mean x ¼ 0:6. (The 0.6 has nothing to do with the polling example
 at the outset.) For what value of μ
@@ -10746,10 +10191,6 @@ estimate would be
 0 would x ¼ 0:6 exceed μ
 
 0 by 2:5σ
-
-X
-
-X
 
 μ > 0.1.
 
@@ -10789,11 +10230,8 @@ This is the same as μ
 0 as reject H0: iff X̅ ≥ μ
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 193 [189–218] 30.7.2018
-11:15AM
 
-Tour III: Capability and Severity: Deeper Concepts
-
-is mathematically the same as inferring μ > x (cid:4) cαðσ=√nÞ at level
+is mathematically the same as inferring μ > x cαðσ=√nÞ at level
 (1 − α).
 
 Hence, there's an intimate mathematical relationship between severity and
@@ -10834,22 +10272,18 @@ The rationale for the rule: infer
 
 reaches the cα cut-off: x ¼ μ
 So Prðtest Tþ does not reject H0; μ ¼ CILÞ ¼ PrðX < μ
-(cid:3)ð1=σ
+ð1=σ
 þ cασ
 get Z: Z ¼ ½ðμ
-X
 H0; μ = CIL) = Pr(Z < cα) = (1 − α).
 
-X
 Þ ¼ cα. So the severity for μ > μ
 
 þ cασ
 
 þ cασ
 
-Þ (cid:4) μ
-
-X
+Þ μ
 
 0. Suppose the observed x just
 X .
@@ -10857,19 +10291,16 @@ X .
 ; μ ¼ μ
 0 = Pr(test T+ does not reject
 
-X . The (1 − α) CI lower bound, CIL, is μ > X (cid:4) cασ
+X . The (1 − α) CI lower bound, CIL, is μ > X cασ
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 194 [189–218] 30.7.2018
-11:15AM
 
-Excursion 3: Statistical Tests and Scientific Inference
-
-μ > X (cid:4) 2:5σ=√n;
+μ > X 2:5σ=√n;
 
 is simply that you will correctly cover the true value at least 99.5% of the time in
 repeated use (we can allow the repetitions to be actual or hypothetical):
 
-Prðμ > ðX (cid:4) 2:5σ=√nÞ; μÞ ¼ 0:995:
+Prðμ > ðX 2:5σ=√nÞ; μÞ ¼ 0:995:
 
 Aside: The equation above is not treating μ as a random variable, although it
 might look that way. X is the random variable. It's the same as asserting
@@ -10886,7 +10317,7 @@ statement that gives an empirical meaning, which in principle can be checked by
 experiment, rather than a prescription for using confidence limits. In particular, we
 do not recommend or intend that a fixed value α
 0 should be chosen in advance and the
-1(cid:4)α]. (p. 209, μ is
+1α]. (p. 209, μ is
 information in the data summarized in the single assertion [μ > ^μ
 substituted for their θ)
 
@@ -10910,9 +10341,6 @@ attaches to the method of inferring. Some espouse it as an informal use of
 degree of belief of a rational person that the confidence interval covers
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 195 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 the parameter" (Schweder and Hjort 2016, p. 11). They call this "epistemic
 probability." My main gripe is that neither epistemic probability, whatever
@@ -10933,7 +10361,7 @@ The severity logic is the counterfactual reasoning: Were μ less than the 0.995
 lower limit, then it is very probable (> 0.995) that our procedure would yield
 a smaller sample mean than 0.6. This probability gives the severity. To echo
 Popper, μ > ^μ
-1(cid:4)α is corroborated (at level 0.995) because it may be presented
+1α is corroborated (at level 0.995) because it may be presented
 as a failed attempt to falsify it statistically. The severe testing philosophy
 hypothesizes that this is how humans reason. It underwrites formal error
 statistics as well as day-to-day reasoning.
@@ -10968,18 +10396,15 @@ severity reasoning. For general lower 1 − α limits, with small level α:
 The inference of interest is h: μ > ^μ
 Since Prðmethod would yield X < x; μ ¼ ^μ
 
-1(cid:4)α.
+1α.
 
 it follows that SEV(h) = (1 − α).
 
 Þ,
-1(cid:4)αÞ ¼ 1 (cid:4) α
+1αÞ ¼ 1 α
 ð
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 196 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 (Lower case h emphasizes these are typically members of the full alternative in
 a test.) Table 3.5 gives several examples.
@@ -10998,7 +10423,7 @@ severely tested is assertion μ > ^μ. (See .3.)
 The third column of Table 3.5 gives the complement to the severity assessment:
 the capability of a more extreme result, which in this case is α:
 PrðX > x; μ ¼ ^μ
-1(cid:4)αÞ ¼ α. This is the Π function – the attained sensitivity in
+1αÞ ¼ α. This is the Π function – the attained sensitivity in
 relation to μ: Π(γ) (section 3.3) – but there may be too many moving parts to
 see this simply right away. You can return to it later.
 
@@ -11012,14 +10437,11 @@ X < 0:6, the severe tester takes the outcome as a good indication of μ ≥ 0.2.
 I want to draw your attention to the fact that the probability of producing an
 X ≥ 0:6 ranges from 0.005 to 0.5 for values of μ between 0.1 and the observed
 x ¼ 0:6. It never exceeds 0.5. To see this compute PrðX ≥ 0:6; μ ¼ μ0Þ letting μ0
-(cid:4)
-range from 0.1 to 0.6. We standardize X to get Z ¼ ðX (cid:4) μ0Þ= σ=√n
+range from 0.1 to 0.6. We standardize X to get Z ¼ ðX μ0Þ= σ=√n
 which is
 N(0,1). To find PrðX ≥ 0:6; μ ¼ μ0Þ, compute Z = (0.6 − μ0)/0.2 and use the
 areas under the standard Normal curve to get Pr(Z ≥ z0), μ0 ranging from 0.1 to
 0.6.
-
-(cid:3)
 
 Do you notice it is only for negative z values that the area to the right of
 z exceeds 0.5? The test only begins to have more than 50% capability of
@@ -11036,29 +10458,22 @@ a performance-oriented justification: the inference to μ > 0.7 from x ¼ 0:6 is
 an instance of a rule that errs 31% of the time. Or we could use counterfactual,
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 197 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 Table 3.5 Lower confidence limit with x ¼ 0:6, α ranging from 0.001 to
 0.84 in T+: σ = 1, n = 25, σ
 
 ¼ ðσ=√nÞ ¼ 0:2, x ¼ 0:6
-1(cid:4)α PrðX ≥ 0:6; μ¼^μ
+1α PrðX ≥ 0:6; μ¼^μ
 
-1(cid:4)αÞ¼α
+1αÞ¼α
 
 α
 
 0.001
-0.005
-0.025
 0.07
-0.16
 0.3
 0.5
 0.69
-0.84
 
 cα
 
@@ -11070,7 +10485,7 @@ cα
 
 ^μ
 
-1(cid:4)α
+1α
 
 0.1
 0.2
@@ -11081,7 +10496,6 @@ cα
 0.7
 0.8
 
-X
 h1:μ>^μ
 (μ > 0)
 (μ > 0.1)
@@ -11094,14 +10508,10 @@ h1:μ>^μ
 (μ > 0.8)
 
 0.001
-0.005
-0.025
 0.07
-0.16
 0.3
 0.5
 0.69
-0.84
 
 SEV(h1)
 
@@ -11109,11 +10519,9 @@ SEV(h1)
 0.995
 0.975
 0.93
-0.84
 0.7
 0.5
 0.31
-0.16
 
 Capability and Severity for µ > µ
 
@@ -11177,9 +10585,6 @@ Observe that, with larger α, the argument is more forceful by emphasizing >,
 rather than ≥, but it's entirely correct either way, as it is continuous.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 198 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 In grasping the duality between tests and confidence limits we consider
 the general form of the test in question, here we considered T+. Given the
@@ -11223,9 +10628,6 @@ This interpretation of confidence intervals also scotches criticisms of examples
 due to given restrictions, it can happen that a (1 − α) estimate contains all possible
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 199 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 parameter values. Although such an inference is 'trivially true,' it is scarcely vacuous in
 our construal. That all parameter values are consistent with the data is an informative
@@ -11278,9 +10680,6 @@ the two outcomes are the same or different; second, the observed result.
 Let A be an indicator of the first part: A = 1 if both are the same
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 200 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 (unlucky); A = 2 if the sample values differ by 2 (lucky!). The full data
 may be represented as (A, x). The distribution of A is fixed independently of the parameter of interest: Pr(A = 1) = Pr(A = 2) = 0.5. It is an
@@ -11324,9 +10723,6 @@ we may adjust the error probabilities so that they do pass the audit. But what i
 the moves are so tortuous that we can't reliably make the adjustment? Or
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 201 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 perhaps we don't feel secure enough in the assumptions? Should the severity
 for μ > μ
@@ -11375,11 +10771,11 @@ The converse need not hold – given the convention we just saw in Exhibit (ix).
 At the very least, "low" would not exceed 0.5.
 A rule of thumb (for test T+ or its dual CI):
 
-(cid:129) If we are pondering a claim that an observed difference from the null seems
+If we are pondering a claim that an observed difference from the null seems
 large enough to indicate μ > μ0, we want to be sure the test was highly capable
 of producing less impressive results, were μ = μ0.
 
-(cid:129) If, by contrast, the test was highly capable of producing more impressive
+If, by contrast, the test was highly capable of producing more impressive
 results than we observed, even in a world where μ = μ0, then we block an
 inference to μ > μ0 (following weak severity).
 
@@ -11387,9 +10783,6 @@ This rule will be at odds with some common interpretations of tests. Bear with
 me. I maintain those interpretations are viewing tests through "probabilistcolored" glasses, while the correct error-statistical view is this one.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 202 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 3.8 The Probability Our Results Are Statistical Fluctuations:
 
@@ -11434,9 +10827,6 @@ community completely wedded to frequentist analysis? If so, has anyone tried
 to explain what bad science that is?" (ibid.).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 203 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 Bad science? Isn't that a little hasty? HEP physicists are sophisticated
 with their statistical methodology: they'd seen too many bumps disappear. They want to ensure that before announcing a new particle has
@@ -11477,9 +10867,6 @@ as extreme as or more extreme than 5 sigmas, under H0, is approximately 1 in
 a statistical fluke (or fluctuation) is 1 in 3,500,000.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 204 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Why such an extreme evidence requirement, Lindley asked. Given how
 often bumps disappear, the rule for interpretation, which physicists never
@@ -11526,9 +10913,6 @@ of P-value critics. Statistician Larry Wasserman playfully calls them
 the "P-Value Police"(2012a) such as Sir David Spiegelhalter (2012), a
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 205 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 professor of the Public's Understanding of Risk at the University of
 Cambridge. Their job was to examine if reports by journalists and
@@ -11578,9 +10962,6 @@ probabilities to test outcomes or values of d(X) "under the null" may be seen as
 a tautologous statement.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 206 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Since it's not just a single result, but also a dynamic test display, we might
 
@@ -11637,9 +11018,6 @@ account recommends going from improbability of a point result on
 a continuum under H to rejecting H. The Bayesian looks to the prior
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 207 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 probability in H and its alternatives. The error statistician looks to the general
 procedure. The notation {d(X) ≥ d(x)} is used to signal the latter.
@@ -11684,9 +11062,6 @@ claims are wrong. If Pr(A; H0) =p , for some assertion A, the probability of the
 complement is Pr(not-A; H0) = 1− p. In particular:
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 208 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 (1) Pr(test T would not display a P-value ≤ 0.0000003; H0) >
 0.9999993.
@@ -11735,9 +11110,6 @@ U-3. The probability that their signal would result by a chance fluctuation was
 less than one in 3.5 million.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 209 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 [Thus the signal was not due to chance.]
 
@@ -11785,9 +11157,6 @@ the underlying principle of testing explicit, some critics assume the argument i
 inductive inference that is detached.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 210 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 Members of a strict (N-P) behavioristic tribe might reason as follows:
 If you follow the rule of behavior: Interpret 5-sigma bumps as a real effect
@@ -11830,9 +11199,6 @@ P-value is assessed at a particular, data-determined, mass. But the probability 
 the particle must be shown at the second stage.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 211 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 P-value – would be greater than the local one. "The original concept of
 '5σ' in HEP was therefore mainly motivated as a (fairly crude) way to
@@ -11885,9 +11251,6 @@ episode, they arose to
 its being "Higgs-like," and various mass ranges of the particle.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 212 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 While the popular press highlighted the great success for the SM, the HEP
 physicists, at both stages, were vigorously, desperately seeking to uncover BSM
@@ -11936,9 +11299,6 @@ the wealth of papers that begin "Search for . . ." (2017, p. 412). They are
 regarded as important and informative – if only in ruling out avenues for
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 213 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 theory development. There's another idea for domains confronted with biases
 against publishing negative results.
@@ -11979,9 +11339,6 @@ their data" at a much higher energy level than the Higgs: 750 GeV
 (compared to 125 GeV) (Cartlidge 2016). "As this unexpected bump
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 214 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 could be the first hint of a new massive particle that is not predicted by
 the Standard Model of particle physics, the data generated hundreds of
@@ -12027,9 +11384,6 @@ inferred H*: Higgs particle, one may say informally, "so probably we have
 experimentally demonstrated the Higgs," or "probably, the Higgs exists."
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 215 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 "So probably" H1 is merely qualifying the grounds upon which we assert
 evidence for H1.
@@ -12089,9 +11443,6 @@ Lazar 2016, p. 131)4
 that the data were produced by random chance alone.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 216 [189–218] 30.7.2018
-11:15AM
-
-Excursion 3: Statistical Tests and Scientific Inference
 
 I insert the (a), (b), absent from the original principle 2, because, while (a) is
 true, phrases along the lines of (b) should not be equated to (a).
@@ -12142,9 +11493,6 @@ The first thing that jumps out is the absence of any mention of P-values as erro
 and should be extended and deepened.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C07.3D 217 [189–218] 30.7.2018
-11:15AM
-
-Tour III: Capability and Severity: Deeper Concepts
 
 0)} is scarcely irrelevant once d(x
 
@@ -12174,8 +11522,6 @@ C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 219 [219�
 8:02PM
 
 Excursion 4 Objectivity and Auditing
-
-Itinerary
 
 Tour I
 
@@ -12223,7 +11569,6 @@ of the Universe
 Account
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 221 [219–238] 28.7.2018
-8:02PM
 
 Tour I The Myth of "The Myth of Objectivity"
 
@@ -12262,7 +11607,6 @@ orientation. Explicit attention needs to be paid to communicating results to
 set the stage for others to check, debate, and extend the inferences reached.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 222 [219–238] 28.7.2018
-8:02PM
 
 Excursion 4: Objectivity and Auditing
 
@@ -12310,7 +11654,6 @@ and we have not learned much about kings as opposed to peasants. (Hacking
 1965, p. 211)
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 223 [219–238] 28.7.2018
-8:02PM
 
 Tour I: The Myth of "The Myth of Objectivity"
 
@@ -12357,9 +11700,6 @@ they are not. An account of inference shows itself to be objective precisely in
 how it steps up to the plate in handling potential threats to objectivity.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 224 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 Dirty Hands Argument. To give these arguments a run for their money, we
 should try to see why they look so plausible. One route is to view the reasoning
@@ -12406,9 +11746,6 @@ deny these were demanded by objectivity. They only decided that they were
 unobtainable. Genuine objectivity goes by the board, replaced by various
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 225 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 stripes of relativism and constructivism, as well as more extreme forms of
 anarchism and postmodernism.1
@@ -12454,9 +11791,6 @@ as due to an arbitrary convention, even if I wanted to.
 share in "The Sins of the Fathers."
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 226 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 How Well Have You Probed H versus How Strongly Do (or Should)
 You Believe It?
@@ -12500,9 +11834,6 @@ to guesswork. It is difficult to see how the matter could be put to experimental
 (Pearson 1962, pp. 278–9)
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 227 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 A stronger version of the argument goes on a slippery slope from the premise
 of discretion in data generation and modeling to the conclusion: statistical
@@ -12549,9 +11880,6 @@ What's Being Measured versus My Ability to Test It. You will sometimes
 hear it claimed that anyone who says their probability assignments to hypotheses are subjective must also call the use of any model subjective because it too
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 228 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 is based on my choice of specifications. It's important not to confuse two
 notions of subjective. The first concerns what's being measured, and for the
@@ -12596,9 +11924,6 @@ actually reflect their inability to do the math.
 distinct terms.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 229 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 Progress of Philosophy
 
@@ -12642,9 +11967,6 @@ Remember that a severity appraisal is always in relation to a question or
 problem, and that problem could be a decision, within a scientific inquiry or
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 230 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 wholly personal. In the land of science, we'd worry that to incorporate into an
 inference on genomic signatures, say, your expected windfall from patenting it
@@ -12689,9 +12011,6 @@ p. 387)
 think so, but you can look up "omelet Savage 1961."
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 231 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 The holy grail of truly "uninformative" priors has been abandoned – what is
 uninformative under one parameterization can be informative for another. (For
@@ -12738,9 +12057,6 @@ theorems have limited guarantees or that they depend on agents assigning
 non-zero priors to the same set of hypotheses, or that even with non-extreme
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 232 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 prior probabilities, and any body of evidence, two scientists can have posteriors
 that differ by arbitrary amounts (Kyburg 1992, p. 146); it's that appeals to
@@ -12784,9 +12100,6 @@ can understand that her selection and interpretation of facts was through the
 lens of the "GM is safe" theory. Isn't this tantamount to saying she's unable to
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 233 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 evaluate the data impartially – belying the goal of news based on "hard
 numbers"? Perhaps to some degree this is true. However, if people are inclined
@@ -12833,9 +12146,6 @@ separates it from the immediate analysis of the specific data under consideratio
 4 Silver recognizes that groupthink created an echo chamber during the 2016 election in the USA.
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 234 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 Admittedly, frequentists haven't been clear enough as to the informal uses of
 background knowledge, especially at the stage of "auditing." They leave themselves open to the kind of challenge Andrew Gelman (2012) puts to Cox, in
@@ -12884,9 +12194,6 @@ the study. This would not be a Bayesian updating to a posterior probability, but
 auditing. A background repertoire of the slings and arrows known to
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 235 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 threaten the type of inquiry may show a statistical inference fails an audit,
 or ground suspicion that it would fail an audit.
@@ -12934,9 +12241,6 @@ to its having resulted from a testing procedure with low error probabilities (Wo
 2000). (Staley and Cobb 2011, p. 482)
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 236 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 The last sentence would need to read "low error probabilities relevant for
 satisfying severity," since low error probabilities won't suffice for a good
@@ -12985,9 +12289,6 @@ There are those who would replace objectivity with the fashionable term
 "transparency." Being transparent about what was done and how one got
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 237 [219–238] 28.7.2018
-8:02PM
-
-Tour I: The Myth of "The Myth of Objectivity"
 
 from the raw data to the statistical inferences certainly promotes objectivity, provided I can use that
 information to critically appraise the
@@ -13032,9 +12333,6 @@ H may be said to be at a "higher level" than H in my horizontal "hierarchy"
 (.1). For instance, the full GTR is at a higher level than the individual
 
 C:/ITOOLS/WMS/CUP-NEW/14075547/WORKINGFOLDER/MAYOS/9781107054134C08.3D 238 [219–238] 28.7.2018
-8:02PM
-
-Excursion 4: Objectivity and Auditing
 
 hypothesis about light deflection; and current theories about prion diseases are
 at a higher level than Prusiner's initial hypotheses limited to kuru. If a higher
@@ -13087,9 +12385,6 @@ speaks for a more dramatic effect in the population . . . The question is, how c
 group of psychologists be so wrong? (Bakan 1970, p. 241)
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 240 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 (Our convention is for "discrepancy" to refer to the parametric, not the
 observed, difference. Their use of "deviation" from the null alludes to our
@@ -13137,7 +12432,6 @@ the probability of discerning any discrepancy from the null (i.e., the power)
 increases. The fact that the test would eventually uncover any discrepancy
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 241 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13147,22 +12441,16 @@ null hypotheses are false.") Let's focus on the example of Normal testing, T+
 with H0: μ ≤ 0 vs. H1: µ > 0 letting σ = 1. It's precisely to bring out the effect of
 sample size that many prefer to write the statistic as
 
-dðXÞ ¼ √nðX (cid:2) 0Þ=σ
+dðXÞ ¼ √nðX 0Þ=σ
 
 rather than
 
-dðXÞ ¼ ðX (cid:2) 0Þ=σ
+dðXÞ ¼ ðX 0Þ=σ
 X abbreviates (σ/√n).
-
-X
 
 ;
 
 where σ
-
-(cid:1)
-
-(cid:3)
 
 T+ rejects H0 (at the 0.025 level) iff the sample mean X ≥ 0 þ 1:96 σ=√n
 .
@@ -13197,16 +12485,13 @@ n ¼ 100; x0:025 ¼ 2ð1=10Þ; with n ¼ 400; x0:025 ¼ 2ð1=20Þ. So the cut-of
 for rejection are 0.4, 0.2, and 0.1, respectively.
 
 Again, alterations of the sample size change what counts as one unit. If you
-treat identical values of ðX (cid:2) μ
+treat identical values of ðX μ
 Þ=σ the same, ignoring √n, you will misinterpret your results. With large enough n, the cut-off for rejection can be so
 close to the null value as to lead some accounts to regard it as evidence for the
 null. This is the Jeffreys–Lindley paradox that we'll be visiting this afternoon
 (Section 4.4).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 242 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 f(x)
 
@@ -13266,7 +12551,6 @@ the significance test disagrees with a Law of Likelihood appraisal to a point vs
 point test: H0: µ = 0 vs. H1: µ = 0.24. We require the null and alternative
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 243 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13318,9 +12602,6 @@ estimate is. μ > 0.5(1/5) = 0.05, (ii) for n = 10,000, the inferred 0.93 lower 
 inferring μ > 0.05 when n = 25, but only µ > 0.005 when n = 10,000 Section 3.7.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 244 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 Exhibit (vi): Reforming the Reformers on Confidence Intervals. You will
 be right to wonder why some of the same tribes who raise a ruckus over Pvalues – to the extent, in some cases, of calling for a "test ban" –are cheerleading for confidence intervals (CIs), given there is a clear duality between the two
@@ -13340,17 +12621,17 @@ testing, it calls for supplements and reinterpretations as begun in Section 3.7.
 Our one-sided test T+ (H0: µ ≤ 0 vs. H1: µ > 0, and σ = 1) at α = 0.025 has as
 its dual
 interval:
-μ > X (cid:2) 2ð1=√nÞ – rounding to 2 from 1.96. So you won't have to flip back
+μ > X 2ð1=√nÞ – rounding to 2 from 1.96. So you won't have to flip back
 pages, here's a quick review of the notation we developed to avoid the common
 slipperiness with confidence intervals. We abbreviate the generic lower limit of
 a (1 − α) confidence interval as ^μ
-1(cid:2)α xð Þ.
+1α xð Þ.
 The general estimating procedure is: Infer μ > ^μ
-1(cid:2)αðXÞ. The particular estimate is μ > ^μ
-1(cid:2)α xð Þ. Letting α = 0.025 we have: μ > x (cid:2) 2ð1=√nÞ. With
-α = 0.05, we have μ > x (cid:2) 1:65ð1=√nÞ.
+1αðXÞ. The particular estimate is μ > ^μ
+1α xð Þ. Letting α = 0.025 we have: μ > x 2ð1=√nÞ. With
+α = 0.05, we have μ > x 1:65ð1=√nÞ.
 
-1(cid:2)αðXÞ and the particular limit as ^μ
+1αðXÞ and the particular limit as ^μ
 
 confidence
 
@@ -13370,7 +12651,6 @@ misleading idea that there's evidence for each value in the interval, whereas,
 in fact, the interval simply consists of values that aren't rejectable, were one
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 245 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13384,9 +12664,9 @@ Imagine the observed mean x from each test just hits the significance level
 0.025. That is, (i) x ¼ 0:4, (ii) x ¼ 0:2, and (iii) x ¼ 0:1. Form 0.975 confidence
 interval estimates for each:
 
-(i) for n = 25, the inferred estimate is μ > ^μ 0:975, that is, μ > x (cid:2) 2ð1=5Þ;
-(ii) for n = 100, the inferred estimate is μ > ^μ 0:975, that is, μ > x (cid:2) 2ð1=10Þ;
-(iii) for n = 400, the inferred estimate is μ > ^μ 0:975, that is, μ > x (cid:2) 2ð1=20Þ.
+(i) for n = 25, the inferred estimate is μ > ^μ 0:975, that is, μ > x 2ð1=5Þ;
+(ii) for n = 100, the inferred estimate is μ > ^μ 0:975, that is, μ > x 2ð1=10Þ;
+(iii) for n = 400, the inferred estimate is μ > ^μ 0:975, that is, μ > x 2ð1=20Þ.
 Substituting x in all cases, we get the same one-sided confidence interval:
 
 µ > 0.
@@ -13422,9 +12702,6 @@ increasing sample sizes:
 (iii) n = 400: (0, 0.2].
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 246 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 But we cannot just deny one-sided tests, nor does Cumming. In fact, he
 encourages their use: "it's unfortunate they are usually ignored" (2012, p. 113).
@@ -13470,7 +12747,6 @@ Several (honest) answers are possible. Here is one possibility:
 3 Subtract 1.5 SE and 0.5 SE from x = 0.2, respectively.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 247 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13517,9 +12793,6 @@ assume all schools of statistical inference embrace the minimum severity
 principle? I don't, and they don't. But by identifying when methods violate
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 248 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 severity, we can pull back the veil on at least one source of disagreement behind
 the battles.
@@ -13542,7 +12815,7 @@ J. Berger and Sellke, and Casella and R. Berger. Berger and Sellke (1987a)
 make out the conflict between P-values and Bayesian posteriors by considering
 the two-sided test of the Normal mean, H0: μ = 0 vs. H1: μ ≠ 0. "Suppose that
 X = (X1, . . ., Xn), where the Xi are IID N(μ, σ2), σ2 known" (p. 112). Then the
-test statistic dðXÞ ¼ √n jX (cid:2) μ
+test statistic dðXÞ ¼ √n jX μ
 j=σ, and the P-value will be twice the P-value of
 the corresponding one-sided test.
 
@@ -13566,7 +12839,6 @@ are "audited," so that neither selection effects nor violated model assumptions 
 arguments.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 249 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13574,9 +12846,6 @@ Table 4.1 Pr(H0|x) for Jeffreys-type prior
 
 P one-sided zα
 
-0.05
-0.025
-0.005
 0.0005
 
 1.645
@@ -13591,7 +12860,6 @@ P one-sided zα
 
 0.56
 0.42
-0.16
 0.026
 
 n (sample size)
@@ -13652,11 +12920,8 @@ so the probability we want
 µ = 151,
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 250 [239–266] 30.7.2018
-9:52AM
 
-Excursion 4: Objectivity and Auditing
-
-PrðX < 152; μ ¼ 151Þ ¼ 0:84 ðZ ¼ ð152 (cid:2) 151Þ ¼ 1Þ: The probability of
+PrðX < 152; μ ¼ 151Þ ¼ 0:84 ðZ ¼ ð152 151Þ ¼ 1Þ: The probability of
 declaring evidence for 150 degrees (with posterior of 0.6 to H0) even if the
 true increase is actually 151 degrees is around 0.84; 84% of the time they
 erroneously fail to ring the alarm, and would boost their probability of μ = 150
@@ -13699,7 +12964,6 @@ equally probable, then the 0.5 accorded to H1 is spread out over all the values
 in H1: "The net result is that all values of [μ] are far from being equally likely"
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 251 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13752,9 +13016,6 @@ procedures. In particular,
 in the location parameter problem,
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 252 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 hypothesis is more the mathematical convenience than the statistical method of
 choice. (ibid., p. 106)
@@ -13807,7 +13068,6 @@ interest in developing alternative theories, but the initial question of interes
 the precise hypothesis test" (1987, p. 136).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 253 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13856,9 +13116,6 @@ tests. Take Wagenmakers and Grünwald (2006, p. 642): "Bayesian hypothesis
 tests are often criticized because of their dependence on prior distributions
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 254 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 . . . [yet] no matter what prior is used, the Bayesian test provides substantially less evidence against H0 than" P-values, in the examples we've
 considered. Be careful in translating this. We've seen that what counts as
@@ -13901,10 +13158,9 @@ p
 under the null is
 d(x
 
-The test statistic dðXÞ ¼ ½√nðX (cid:2) 0:2Þ=σ(cid:3) ¼ 3, σ ¼
+The test statistic dðXÞ ¼ ½√nðX 0:2Þ=σ¼ 3, σ ¼
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-Þ(cid:3)
-½0:2 0:8ð
+Þ½0:2 0:8ð
 0) in this two-sided test is
 Pr(|d(X)| > |d(x
 
@@ -13916,13 +13172,10 @@ Pr(|d(X)| > |d(x
 p
 
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-½θð1 (cid:2) θÞ(cid:3)
-
-So the result x is highly significant, even though it's scarcely different from the
+½θð1 θÞSo the result x is highly significant, even though it's scarcely different from the
 point null.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 255 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -13934,13 +13187,10 @@ among the values in H1. I follow Spanos' computations:6
 
 0:2k 0:8ð
 
-Þn(cid:2)k;
-
-(cid:5) (cid:6)
+Þnk;
 
 Pr kð jH0Þ ¼ n
 k
-(cid:5) (cid:6)
 n
 k
 
@@ -13948,11 +13198,11 @@ Pr kð jH1Þ ¼
 
 ð0
 
-θk 1 (cid:2) θ
+θk 1 θ
 
 ð
 
-Þn(cid:2)kdθ ¼ 1= n þ 1
+Þnkdθ ¼ 1= n þ 1
 
 ð
 
@@ -13984,15 +13234,14 @@ max). We know
 the maximally likely value for θ, θmax ¼ x:
 
 x ¼ k=n ¼ 0:20165233 ¼ θmax;
-(cid:5) (cid:6)
 Pr kð jHmaxÞ ¼ n
 k
 Likð0:2Þ ¼ 0:000015394; and LikðθmaxÞ ¼ 0:0013694656:
 
 ð
-0:20165233k 1(cid:2)0:20165233
+0:20165233k 10:20165233
 
-Þn(cid:2)k ¼ 0:0013694656;
+Þnk ¼ 0:0013694656;
 
 Now B01 is 0.01 and B10, Lik(θ
 
@@ -14009,9 +13258,6 @@ including Lindley's own student, default Bayesian José Bernardo (2010).
 alternative.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 256 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 Presumably, the Likelihoodist concurs. There are family feuds within and
 between the diverse tribes of probabilisms.7
@@ -14060,7 +13306,6 @@ Bayes factor for the null may be arbitrarily large for sufficiently large n, how
 unlikely the data may be under H0 is, … deeply disturbing" (Bernardo 2010, p. 59).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 257 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -14105,9 +13350,6 @@ testing H0: μ = 0 vs. H0: μ ≠ 0, which was the most impressive, particularly
 n ≥ 50. It showed that a statistically significant difference from a test hypothesis
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 258 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 at familiar levels, 0.05 or 0.025, can correspond to a result that a Bayesian takes
 as evidence for H0. The prior for this case is the spike and smear, where the
@@ -14155,7 +13397,6 @@ probability, say 0.1 (1987, p. 115). A slight lowering of probability won't cut
 it. Moving from a low prior to a slightly higher one also lacks punch.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 259 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -14202,9 +13443,6 @@ Jeffreys only required H1
 up the prior belief by using the spiked prior (Senn 2015a).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 260 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 4.5 Who's Exaggerating? How to Evaluate Reforms Based
 
@@ -14246,10 +13484,7 @@ Table 4.2 Upper Bounds on the Comparative Likelihood
 
 P-value: one-sided
 
-0.05
-0.025
 0.01
-0.005
 0.0005
 
 zα
@@ -14273,10 +13508,7 @@ max)/Lik(μ
 
 P-value: one-sided
 
-0.05
-0.025
 0.01
-0.005
 0.0005
 
 zα
@@ -14296,7 +13528,6 @@ Lik(μ0)/Lik(μmax)
 0.0044
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 261 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -14318,7 +13549,7 @@ Valen Johnson (2013a,b) offers a way to bring the likelihood ratio more into
 line with what counts as strong evidence, according to a Bayes factor. He
 begins with a review of "Bayesian hypotheses tests." "The posterior odds
 between two hypotheses H1 and H0 can be expressed as"
-¼ BF10 xð Þ (cid:4) Pr H1ð
+¼ BF10 xð Þ Pr H1ð
 Pr H0ð
 
 PrðH1jxÞ
@@ -14355,9 +13586,6 @@ He's right that comparative inference, as with Bayes factors, leaves open a wide
 latitude of appraisals by dint of the alternative chosen, and any associated priors.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 262 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 Table 4.3 V. Johnson's implicit alternative analysis for T+: H0: μ ≤ 0 vs. H1:
 μ > 0
@@ -14365,10 +13593,7 @@ Table 4.3 V. Johnson's implicit alternative analysis for T+: H0: μ ≤ 0 vs. H1
 P-value
 one-sided
 
-0.05
-0.025
 0.01
-0.005
 0.0005
 
 zα
@@ -14384,7 +13609,6 @@ Lik(μmax)/Lik(μ0)
 3.87
 6.84
 
-(cid:7) (cid:8)
 √(2 log k) exp z2
 α
 
@@ -14460,7 +13684,6 @@ There's no doubt that if you reach a smaller significance level in the same
 test, the discrepancy you are entitled to infer is larger. You've made the hurdle
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 263 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -14516,9 +13739,6 @@ the variability of the estimator, and statistical inference must take this into
 account. It's true that the error statistician's inference isn't the point alternative
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 264 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 these critics want us to consider (Hmax), but they're the ones raising the
 criticism of ostensive relevance to us, and we're struggling in good faith to
@@ -14565,9 +13785,7 @@ LikðxjH0Þ
 
 ¼
 
-exp½(cid:2)z2=2(cid:3)
-
-¼ exp½z2=2(cid:3):
+exp½z2=2¼ exp½z2=2:
 
 This gives the Bayes factor: BF10. (BF01 would be exp[−z2/2].)
 
@@ -14579,7 +13797,6 @@ log k = log(exp[z2/2]) = [z2/2];
 2 log k = z2, so √(2 log k) = z.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 265 [239–266] 30.7.2018
-9:52AM
 
 Tour II: Rejection Fallacies: Who's Exaggerating What?
 
@@ -14631,9 +13848,6 @@ significant difference than d(x
 0) if µ = µ0 + γ.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C09.3D 266 [239–266] 30.7.2018
-9:52AM
-
-Excursion 4: Objectivity and Auditing
 
 N-P and Fisher tests officially give the case with γ = 0. In that case, what does a
 small P-value mean? It means the test very probably (1 − P) would have
@@ -14715,9 +13929,6 @@ had ordered his chief data analyst to "shred and dice the data into tiny
 julienne slices until he got some positive results" sounding like the adman for
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 268 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 Chop-o-Matic. The P-value computed from such a post-hoc search cannot
 be regarded as an actual P-value, yet Dr. Hack performed no adjustment of
@@ -14763,7 +13974,6 @@ scientist, have the tough job of sifting through the cacophony. Severity princip
 To limber up you might disinter the sources of claims of Round 3.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 269 [267–295] 30.7.2018
-11:20AM
 
 Tour III: Auditing: Biasing Selection Effects and Randomization
 
@@ -14815,9 +14025,6 @@ tells us:
 1 Currently a co-director of the Meta-Research Innovation Center at Stanford (METRICS).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 270 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 [I]f the sampling plan is ignored, the researcher is able to always reject the null
 hypothesis, even if it is true. This example is sometimes used to argue that any
@@ -14863,9 +14070,6 @@ multiple testing, post-data subgroups and other biasing selection effects.
 (Mayo 2016, p. 1)
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 271 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 Criticism assumes a standard. If you criticize hunting and snooping because of
 the lack of control of false positives (Type I errors), then the assumption is that
@@ -14916,9 +14120,6 @@ were no genuine discrepancy from the null, when in fact it is easy to generate i
 It is frequently brought about in a world where the null hypothesis is true.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 272 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 The American Statistical Association's statement on P-values (2016, p. 131)
 correctly warns, "[c]onducting multiple analyses of the data and reporting only
@@ -14964,9 +14165,6 @@ whether, when, or how to adjust p-values or Type I error rates for multiple test
 not settled among scientists." Rothman, Lash, and Schachtman 2013, pp. 21–2
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 273 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 Error Control is Only for Long Runs. But wait a minute. I am overlooking
 the reasons given for ignoring error control, some even in direct reply to Mayo
@@ -15013,9 +14211,6 @@ off their noses, since what they want are posterior probabilities and Bayes
 factors. Severe testers, on the other hand, appeal to statistics for protection
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 274 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 against being misled by a cluster of biases and mistakes. A method directly
 protects against a QRP only insofar as its commission is skin off its nose.
@@ -15061,9 +14256,6 @@ discrepancies of zero, the probability of attaining at least one nominally
 statistically significant outcome (in either direction) with N independent
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 275 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 tests at the α significance level is 1 − (1 − α)N. Test results are treated like
 Bernoulli trials with probability of "success" (a 0.05 rejection) equal to 0.05 on
@@ -15110,9 +14302,6 @@ hypotheses – such as effects of a drug. The concern is treating the hypotheses
 disinterred in explorations in just the same way as if they were predesignated.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 276 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 Adjustment for Selection Goes against Scientific Norms. Epidemiologist
 Kenneth Rothman denies an adjustment for selection is appropriate because it
@@ -15162,9 +14351,6 @@ argumentative role. It serves as a canonical representation of deception, or
 a blatant error scenario for which statistical models are so apt. For a severe
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 277 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 tester, the mere fact that your method doesn't distinguish a case where the high
 score is due to the efficacy of the drug and one where it's due to post hoc
@@ -15213,9 +14399,6 @@ rank the 15 P-values from lowest to highest (p. 295):
 Colquhoun (2014). There's no prior used in Benjamini and Hochberg.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 278 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 Each gets an index number i from 1 to 15: p1= 0.0001, p2 = 0.0004, . . ., p15 =
 1.000, etc. The Bonferroni correction is 0.05/15 = 0.0033. So it only allows
@@ -15266,9 +14449,6 @@ with each hypothesis and then indicate if it's rejectable according to the chose
 contrast to making personal decisions as to what leads to follow (Benjamini 2008, p. 23).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 279 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 adjustment method and level. Despite the importance I place on avoiding or
 correcting for selection effects, I do not think much weight should be attached
@@ -15313,9 +14493,6 @@ formulation is empirical Bayesian, where the relative frequency of genes of a ce
 known.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 280 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 problem at hand. We then consider if the capacity of the test to avoid such
 mistakes is compromised. The fact that our analysis depends on context should
@@ -15344,10 +14521,10 @@ that the personality adjustments and traits of children who have undergone
 varying training experiences do not differ significantly cannot be rejected."
 There were six main hypotheses. For example:
 
-(cid:129) "The personality adjustments of the children who were breast fed do not differ
+"The personality adjustments of the children who were breast fed do not differ
 [statistically] significantly from those of the children who were bottle fed
 cannot be rejected." None of the 46 tests were significant (ibid., p. 156).
-(cid:129) The personality adjustments and traits of the children who were weaned
+The personality adjustments and traits of the children who were weaned
 gradually do not differ [statistically] significantly from those of the children
 weaned abruptly cannot be rejected on the basis of the statistical evidence."
 Only two of 46 tests were significant (ibid.).
@@ -15361,9 +14538,6 @@ While recognizing the need for a more controlled study in order to falsify
 the claims, Sewell concludes:
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 281 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 [Psychologists and counselors] have strongly advocated systems of infant care which
 they believe follow logically from the Freudian position. . . . breast feeding, a prolonged
@@ -15409,9 +14583,6 @@ readers will know how to interpret the results" (Bailar 1991). I concur with Wes
 results have been selected from the 200 tests. Isn't that the purpose of a statistical analysis?
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 282 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 criminal. "Moreover, each non-match found, by the stipulations of the example, virtually excludes that person." Thus, the more such negative results, the
 stronger is the evidence against i when a match is finally found. Negative
@@ -15455,9 +14626,6 @@ She accepts the "I don't care, but you do" horn. When a Bayesian, like
 I. J. Good, says a Fisherian but not a Bayesian can cheat with optional stopping,
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 283 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 he means that error probabilities aren't the Bayesian's concern (Section 1.5).
 (Error probabilities without a subscript always refer to error probability1
@@ -15499,9 +14667,6 @@ after the first inspection. Still fewer people would adjust their p values on th
 their intended sampling plan. (Wagenmakers 2007, p. 784)
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 284 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 for
 
@@ -15549,9 +14714,6 @@ of modern statistics) in the 30's. . . The tests of goodness of fit were, again 
 again, too good" (2014). I expected that tribes who deny the evidential weight
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 285 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 that
 
@@ -15616,9 +14778,6 @@ possible combinations of n A's. The result is a population so constructed that w
 every possible n-membered sample contains at least one apparent regularity [a property
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 286 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 shared by all members of the sample] every independent property has an actual ratio of
 exactly one-half in the total population. (ibid., p. 376)8
@@ -15666,9 +14825,6 @@ because an ideal subjectivist would not need randomization at all. He would
 possible pairs. Each pair is given a property and so is one additional member.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 287 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 simply choose the specific layout that promised to tell him the most. (Savage
 1962, p. 34)
@@ -15715,9 +14871,6 @@ difference between the average response in the treated group μ
 T and the
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 288 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 average response among a control group μ
 C. With randomized control trials
@@ -15729,10 +14882,10 @@ C, one may consider what Cox calls
 T
 a strong ("no effect") null: that the average response is no different or no
 greater among the treated than among the control group H0: Δ = 0 (vs. H1: Δ ≠
-0), or a one-sided null: H0: Δ ≤ 0 vs. H1: Δ > 0. We observe xT (cid:1) xC; where xT
+0), or a one-sided null: H0: Δ ≤ 0 vs. H1: Δ > 0. We observe xT xC; where xT
 and xC are the observed sample means in the treated and control groups,
 forming the standard test statistic d* = (d – Δ)/SE, where SE is the standard
-error (d ¼ xT (cid:1) xC). Thanks to randomized assignment, we can estimate the
+error (d ¼ xT xC). Thanks to randomized assignment, we can estimate the
 standard error and the sampling distribution of d*.
 
 Under the (strong) null hypothesis, the two groups, treated and control, may
@@ -15742,7 +14895,7 @@ HRT treatment makes no difference, people in the treated group would have
 had (or not had) dementia even if they'd been assigned to the control group.
 Some will get it, others won't (of course we can also consider degrees). Under
 the null hypothesis, any observed difference would be due to the accidental
-assignment to group T or C. So, if xT (cid:1) xC exceeds 0, it's just because more of
+assignment to group T or C. So, if xT xC exceeds 0, it's just because more of
 the people who would have gotten dementia anyway happen to end up being
 assigned to the treated rather than the control group. Thanks to the random
 assignment, we can determine the probability of this occurring (under H0).
@@ -15768,9 +14921,6 @@ p. 160). No matter how close in weight the objects were, the probability of a co
 of difference differed from ½. Another example of evidence for a "no-effect" null.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 289 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 "[O]ne can do no better than . . . use an allocation which You think is unlikely
 to have important confounding effects" (Lindley and Novick 1981, p. 52).10
@@ -15814,9 +14964,6 @@ satisfy a statistical assumption, does not imply we shouldn't try to succeed, te
 and fix problems found.
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 290 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 groups (e.g., Worrall 2002, p. S324). As Stephen Senn explains (2013b,
 p. 1447), such "imbalance," which is expected, will not impugn the statistical
@@ -15863,9 +15010,6 @@ movement in development economics to employ RCTs to test the benefits of
 cry fraud." (Senn, private communication; see also Senn 1994, p. 1721)
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 291 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 various aid programs for spurring economic growth and decreasing poverty,
 from bed nets and school uniforms, to micro-loans. For those advocating
@@ -15911,9 +15055,6 @@ If a rule such as 'follow the RCTs, and do so faithfully' were a good way of dec
 about effectiveness, then certainly deliberation is second best (or worse) . . . the
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 292 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 orthodoxy, which is a rules system, discourages decision makers from thinking about
 their problems, because the aim of rules is to reduce or eliminate the use of discretion
@@ -15957,9 +15098,6 @@ rather than hiding any in file-drawers, and with the emphasis by the Cochrane
 collaboration, are clearly not going away. Meta-analytic reviews have received
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 293 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 some black eyes, but it's one of the central ways of combining results in
 frequentist statistics.12 Our itinerary got too full to visit this important topic;
@@ -16002,9 +15140,6 @@ is the most important variable to randomize" (Lambert 2010, p. 4). Then,
 12 See for example Ioannidis (2016). For applications, see Cumming (2012) and Senn (2007).
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 294 [267–295] 30.7.2018
-11:20AM
-
-Excursion 4: Objectivity and Auditing
 
 corrections due to site and data collection can be made later. But the reverse
 isn't true. As Fisher said, "To call in the statistician after the experiment is done
@@ -16050,9 +15185,6 @@ associations replicate – which is also the number expected by random chance"
 compute p-values considered genome-wide significant. This method has been
 
 C:/ITOOLS/WMS/CUP-NEW/14082594/WORKINGFOLDER/MAYOS/9781107054134C10.3D 295 [267–295] 30.7.2018
-11:20AM
-
-Tour III: Auditing: Biasing Selection Effects and Randomization
 
 propagated in publications, leading us to wonder if standard practice could
 become to publish random signals and tell a plausible biological story about
@@ -16111,7 +15243,6 @@ general propositions with probability, or that general propositions have a proba
 Newton allows in rule 4, 'very nearly true,' by which he appears to mean not 'probably
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 297 [296–320] 28.7.2018
-3:56PM
 
 Tour IV: More Auditing: Objectivity and Model Checking
 
@@ -16159,9 +15290,6 @@ one's view of scientific theories, a statistical analysis of problems of actual
 experiments involves abstraction and creative analogy.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 298 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 Testing Assumptions is Crucial. You might hear it charged that frequentist
 methods presuppose the assumptions of their statistical models, which is
@@ -16208,9 +15336,6 @@ and the underlying distribution is not
 too asymmetrical,
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 299 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 distribution gives a good approximation, and is robust for many cases where
 IID is violated. The CLT tells us that X standardized is N(0,1). The finite nonzero variance isn't much of a restriction, and even this has been capable of
@@ -16256,9 +15381,6 @@ arrive at a completely novel distribution: he called it the type A distribution 
 "contagious" distribution). Yet Neyman knows full well that even the type A
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 300 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 distribution is strictly inadequate, and a far more complex distribution would
 be required for answering certain questions. He knows it's strictly false. Yet it
@@ -16299,9 +15421,6 @@ an inferential problem is adequate in some respects. It could be a model for
 prediction, or anything besides.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 301 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 H: S is adequate for a problem
 
@@ -16350,9 +15469,6 @@ Once you have inductively arrived at an appropriate model, the move, on his
 view, "is entirely deductive and will be called estimation" (ibid., p. 56). The
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 302 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 deductive portion, he thinks, can be Bayesian, but the inductive portion
 requires frequentist significance tests, and statistical inference depends on
@@ -16398,9 +15514,6 @@ process in which the model is regarded as in doubt . . . In the criticism phase 
 considering whether, given A, the sample yd is likely to have occurred at all. To do this
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 303 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 we must consider it in relation to the other samples that could have occurred but did
 not. (Box 1983, pp. 74–5)
@@ -16422,21 +15535,17 @@ negative Binomial trials, the former Binomial. The string enters the likelihood
 
 ratio the same way,
 
-θ3 1 (cid:1) θ
+θ3 1 θ
 
 ð
 
 Þ and
 
-θ3 1 (cid:1) θ
+θ3 1 θ
 
 ð
 
 Þ respectively: the only
-
-(cid:1) (cid:3)
-
-(cid:1) (cid:3)
 
 difference is the coefficients, which cancel. But the significance tester distinguishes them, because the sample space, and corresponding error probabilities,
 differ.1 When it comes to model testing, Box contends, this LP violation is
@@ -16463,9 +15572,6 @@ Most data analysts perform some sort of 'model checking' when analyzing a set of
 success. In the Binomial case, it is X̅ (Cox and Mayo 2010, p. 286).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 304 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 measure variation in the data not accounted for by the model . . . (Of course such a
 practice directly violates the Likelihood Principle also.) Thus, before considering [the
@@ -16510,9 +15616,6 @@ design of experiments . . ., a consideration of several possible data values is 
 (Lindley 2000, p. 310)
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 305 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 This he views as a decision based on maximizing an agent's expected utility.
 But wouldn't a correct assessment of utility depend on information on model
@@ -16565,9 +15668,6 @@ give adequate frequentist guarantees or calibrations (Ghosh et al. 2006, pp. 175
 Berger 2004). But I find their rationale unclear.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 306 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 ; X b2
 
@@ -16586,8 +15686,8 @@ observed sample is a universe with mean temperature no higher than the
 temperature thought to endanger the ecosystem?
 
 Averaging the 10,000 bootstrap means, we get the overall bootstrap sample
-mean, X b. Ifn is sufficiently large, the resampling distribution of X b (cid:1) x
-mirrors the sampling distribution of X (cid:1) μ; where μ is the mean of the
+mean, X b. Ifn is sufficiently large, the resampling distribution of X b x
+mirrors the sampling distribution of X μ; where μ is the mean of the
 population. We can use the sample deviation of X b to approximate the
 standard error of X.3
 
@@ -16619,25 +15719,19 @@ Bootstrap means
 157.9
 154.8
 
-Bootstrap overall mean: xb ¼½157 þ 153 þ 157:7 þ 157:9 þ 154:8(cid:3)=5 ¼156:08;
+Bootstrap overall mean: xb ¼½157 þ 153 þ 157:7 þ 157:9 þ 154:8=5 ¼156:08;
 Bootstrap variance: [(157 − 156.08)2 + (153 − 156.08)2 + (157.7 − 156.08)2 +
 (157.9 − 156.08)2 + (154.8 − 156.08)2]/4 = 4.477;
 Bootstrap SE: √4.477 = 2.116.
 
 Note the difference between the mean of our observed sample and that of the
-(cid:4)
-¼ 155:2 (cid:1) 156:08 ¼ (cid:1)0:88.
+¼ 155:2 156:08 ¼ 0:88.
 
-overall bootstrap mean (the bias) is small: x (cid:1) xb
-
-(cid:5)
+overall bootstrap mean (the bias) is small: x xb
 
 3 The bootstrapped distribution is conditional on the observed x.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 307 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 From our toy example, we could form the bootstrap 0.95 confidence interval:
 156.08 ± 1.96 (2.116) approximately [152, 158]. You must now imagine we arrived
@@ -16679,9 +15773,6 @@ Induction – understood as severe testing – "not only corrects its conclusion
 even corrects its premises" (Peirce 3.575). In the land of statistical inference it
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 308 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 does so by checking and correcting the assumptions underlying the inference.
 It's common to distinguish "model-based" and "design-based" statistical inference, but both involve assumptions. So let's speak of the adequacy of the model
@@ -16725,9 +15816,6 @@ pairs z
 least squares fit, a purely mathematical operation.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 309 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 t
 
@@ -16746,7 +15834,6 @@ the backbone of most statistical models of interest:
 1xt + ut, t = 1, 2, . . ., n.
 
 M0: yt = β
-0 + β
 
 The term β
 1xt is viewed as the systematic component (and is the expected
@@ -16777,9 +15864,6 @@ more of its assumptions can fail. To rein in the testing, we consider specific
 departures with appropriate choices of test statistic d(y).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 310 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 y
 
@@ -16795,9 +15879,9 @@ showed Wes Salmon in relation to the Bernoulli model and justifying induction (S
 the graph of the residuals (.4), where the "hats" are the fitted values for
 the coefficients:
 
-f^ut ¼ yt (cid:1) ^β
+f^ut ¼ yt ^β
 
-(cid:1) ^β
+^β
 
 1xt; t ¼ 1; 2; …; ng:
 
@@ -16839,7 +15923,7 @@ assumption for the check. The expected number of runs, under randomness, is
 (2n − 1)/3, or in our case of n = 35 values, 23. Running out of letters, I'll use
 R again for the number of runs. The distribution of the test statistic,
 , under IID for n ≥ 20, can be approximated by
-τðyÞ ¼ ½R (cid:1) EðRÞ(cid:3)=
+τðyÞ ¼ ½R EðRÞ=
 
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffi
 VarðRÞ
@@ -16847,9 +15931,6 @@ VarðRÞ
 p
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 311 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 –2
 
@@ -16899,8 +15980,6 @@ Proposed M1: y
 
 t = β
 
-0 + β
-
 1xt + ut, ut = ρut−1 + ε
 
 t,
@@ -16908,9 +15987,6 @@ t,
 t = 1, 2, . . ., n, . . .
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 312 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 (Now it's ε
 t that is assumed to be a Normal, white noise process.) The D-W test
@@ -16962,9 +16038,6 @@ Since we are partitioning or reducing the space of models by means of the
 probabilistic assumptions, Spanos calls it the Probabilistic Reduction (PR)
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 313 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 .5 USA population (y) over time.
 
@@ -17001,9 +16074,6 @@ know how far we'll have to go. We aren't inferring anything yet, just building a
 statistical model whose adequacy for the primary statistical inference will be
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 314 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 Observations
 
@@ -17023,7 +16093,6 @@ Heterogeneity
 LRM
 Alternative
 
-Normal
 ?
 
 Independent
@@ -17049,9 +16118,6 @@ add yt−1, yt−2, . . ., as many as needed. Likewise to xt add xt–1, xt–2,
 assessment so far, just on the basis of the graphical analysis is:
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 315 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 1.0
 
@@ -17089,7 +16155,6 @@ e
 r
 t
 e
-D
 
 –1.0
 
@@ -17139,7 +16204,6 @@ r
 t
 
 e
-D
 
 –2.0
 
@@ -17148,9 +16212,6 @@ D
 Time
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 316 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 Distribution
 
@@ -17161,7 +16222,6 @@ Heterogeneity
 LRM
 Alternative
 
-Normal
 ?
 
 Independent
@@ -17189,9 +16249,6 @@ Heterogeneity
 LRM
 Alternative
 
-Normal
-Normal
-
 Independent
 Markov
 
@@ -17213,7 +16270,6 @@ M2: yt = β
 
 2yt−2)
 
-0 + β
 + (γ
 
 3xt−1 + γ
@@ -17236,9 +16292,6 @@ the parameters we get what's called an Autoregressive Model of order 2 (for the
 2 lags) with a trend
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 317 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 yt = 17 + 0.2t + 1.5yt−1
 
@@ -17284,9 +16337,6 @@ selection techniques reflect the worry of overfitting: that if you add enough
 factors (e.g., n − 1 for sample size n), the fit can be made as good as desired,
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 318 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 even if the model is inadequate for future prediction. (In our examples the
 factors took the form of trends or lags.) Thus, model selection techniques make
@@ -17300,7 +16350,6 @@ Take the Akaike Information Criterion (AIC) developed by Akaike in the
 1970s (Akaike 1973). (There are updated versions, but nothing in our discussion depends on this.) The best known defenders of this account in philosophy
 are Elliott Sober and Malcolm Forster (Sober 2008, Forster and Sober 1994).
 An influential text in ecology is by Burnham and Anderson (2002). Model
-0 + β
 selection begins with a family of models such as the LRM: yt = β
 1xt + ut.
 They ask: Do you get a better fit – smaller residual – if you add x2
@@ -17318,8 +16367,6 @@ t and x3
 t + β
 
 yt = β
-
-0 + β
 
 1xt + β
 
@@ -17350,9 +16397,7 @@ n
 
 t¼1
 
-yt (cid:1) ^β
-
-(cid:1)
+yt ^β
 
 ^β
 
@@ -17373,9 +16418,6 @@ For a comparison of the AIC using these data, and a number of related model-sele
 measures, see Spanos (2010a). None of these points change using the unbiased variant of AIC.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 319 [296–320] 28.7.2018
-3:56PM
-
-Tour IV: More Auditing: Objectivity and Model Checking
 
 no warning of the laxity is given. As noted, model selection methods don't
 hone in on models outside the initial family. By contrast, building the model
@@ -17420,9 +16462,6 @@ why judicious combinations of varied tests are called upon to ensure their
 overall error probabilities. Order matters: Tests of the distribution, e.g.,
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C11.3D 320 [296–320] 28.7.2018
-3:56PM
-
-Excursion 4: Objectivity and Auditing
 
 Normal, Binomial, or Poisson, assume IID, so one doesn't start there. The
 inference in the case of an M-S test of assumptions is not a statistical inference
@@ -17481,9 +16520,9 @@ level α) from a one-sided test T+ of the mean of a Normal distribution
 with n IID samples, and known σ: H0: µ ≤ 0 against H1: µ > 0.
 Underline the correct word, from the perspective of the (error statistical) philosophy, within which power is defined.
 
-(cid:129) If the test's power to detect µ′ is very low (i.e., POW(µ′) is low), then
+If the test's power to detect µ′ is very low (i.e., POW(µ′) is low), then
 the statistically significant x is poor/good evidence that µ > µ′.
-(cid:129) Were POW(µ′) reasonably high, the inference to µ > µ′ is reasonably/poorly warranted.
+Were POW(µ′) reasonably high, the inference to µ > µ′ is reasonably/poorly warranted.
 
 We've covered this reasoning in earlier travels (e.g., Section 4.3), but I want to
 launch our new tour from the power perspective. Assume the statistical test has
@@ -17502,7 +16541,6 @@ sense of it, without qualification. First defined in Section 3.1, the power of a
 against µ′ is the probability it would lead to rejecting H0 when μ = µ′:
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 324 [321–352] 31.7.2018
-1:04PM
 
 Excursion 5: Power and Severity
 
@@ -17553,7 +16591,6 @@ in reply to George?
 statistical procedure, e.g., is based on a study of the power function of a test and then,
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 325 [321–352] 31.7.2018
-1:04PM
 
 Tour I: Power: Pre-data and Post-data
 
@@ -17595,9 +16632,6 @@ when it is due to considering a very discrepant µ′. For our purposes, our
 one-sided T+ will do.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 326 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 Mountains out of Molehills (MM) Fallacy (second form). Test T+:
 The fallacy of taking a just statistically significant difference at level
@@ -17653,9 +16687,6 @@ a clinically relevant effect, i.e., μ ≥ μ.8 (or μ > μ.8)?
 way into one book on drug industry trials" (ibid., p. 201). The reason it is
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 327 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 nonsense, Senn explains, is that μ.8 must be in excess of the cut-off for rejection,
 in particular, μ:8 ¼ xα þ 0:85 σ
@@ -17664,8 +16695,6 @@ X (where σ
 entitled to infer μ exceeds the lower bound of the confidence interval at
 a reasonable level; whereas, μ.8 is actually the upper bound of a 0.8 (onesided) confidence interval, formed having observed x ¼ xα: All we are to infer,
 officially, from just reaching the cut-off xα, is that μ > 0.
-
-X
 
 Granted, as Senn admits, the test "lacks ambition" (ibid., p. 202), but with
 more data and with results surpassing the minimal cut-off, we may uncover
@@ -17706,9 +16735,6 @@ a 0.5 prior probability to H0, and the remaining 0.5 to H1. We will have plenty 
 occasions to return to Senn's points about what's nonsensical and ludicrous.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 328 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 Trade-offs and Benchmarks
 
@@ -17726,21 +16752,17 @@ POWðTþ; μ
 
 Þ; where xα ¼ μ
 
-X
-
 Standardizing X, we get Z ¼ ½ðμ
 
 The power at the null is Pr(Z ≥ zα; μ
 
 þ zα σ
 
-X
-
 X .
 
-(cid:3)=σ
+=σ
 
-Þ (cid:2) μ
+Þ μ
 0) = α.
 
 It's the low power against H0 that warrants taking a rejection as evidence that
@@ -17769,16 +16791,12 @@ interest: μ:9 ¼ xα þ 1:28σ
 
 it
 
-X
-
-X
-
 X . We get these shortcuts:
 Case 1: POW(T+, μ) for μ between H0 and μ ¼ xα:
 If μ
 X then POW(T+, μ
 
-¼ xα (cid:2) kσ
+¼ xα kσ
 0.5).
 
 1) = area to the right of k under N(0,1) (≤
@@ -17809,9 +16827,6 @@ else the same. There's a trade-off between the two error probabilities.
 (No free lunch.) So if someone said: As the power increases, the probability of a Type I error decreases, they'd be saying, as the Type II error
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 329 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 decreases, the probability of a Type I error decreases. That's the opposite
 of a trade-off! You'd know automatically they had made a mistake or were
@@ -17835,8 +16850,6 @@ The power of test T+ to detect an alternative that exceeds the cut-off
 xα by 1σ
 
 ¼ 0:84.
-
-X
 
 In test T+ the range of possible values of X and µ are the same, so we are able
 to set µ values this way, without confusing the parameter and sample spaces.
@@ -17872,9 +16885,6 @@ Should you hear someone say that the higher the power, the higher the
 hurdle for rejection, you'd know they are confused or using terms in an
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 330 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 y
 t
@@ -17882,7 +16892,6 @@ i
 s
 n
 e
-D
 
 2.0
 
@@ -17919,7 +16928,6 @@ i
 s
 n
 e
-D
 
 2.0
 
@@ -17958,9 +16966,6 @@ sample size means increased power, so the second disjunct is correct. The first
 disjunct is not. One might be tempted to suppose they mean "power is high
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 331 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 enough," but one would be mistaken. They mean what they wrote. Aris Spanos
 (2008a) points this out (in a review of their book), and I can't figure out why
@@ -18006,9 +17011,6 @@ They construe "little significance" as little hurdles! It explains how they woun
 up supposing high power translates into high hurdles. It's the opposite.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 332 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 The higher the hurdle, the more difficult it is to reject, and the lower the power.
 High hurdles correspond to insensitive tests, like insensitive fire alarms.
@@ -18071,9 +17073,6 @@ the evidence against the null hypothesis. Now in Section 3.4, Jeffreys' tail are
 criticism, we saw that considering the tails makes it harder, not easier, to find
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 333 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 evidence against a null. Goodman purports to show the opposite. That's the
 new twist.
@@ -18102,8 +17101,6 @@ for alternative μ.9 is smaller than if one had used the maximum likely alternat
 
 ¼ 3:24σ
 
-X
-
 I'll follow Goodman in computing the likelihood of the null over the
 alternative, although most of the authors we've considered do the reverse.
 Not that it matters so long as you keep them straight.
@@ -18125,9 +17122,6 @@ probability densities" (ibid., p. 491): Number this as (1):
 z values.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 334 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 y
 t
@@ -18135,7 +17129,6 @@ i
 s
 n
 e
-D
 
 0.4
 
@@ -18198,9 +17191,6 @@ Now for the third step: Assign priors of 0.5 to μ
 0 and to μ.9:
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 335 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 With this alternative hypothesis [μ.9], 'p ≤ 0.05' represents 11 times (= 0.33/0.03) less
 evidence in support of the null hypothesis than does 'p = 0.05.' Using Bayes' Theorem,
@@ -18248,9 +17238,6 @@ low likelihood, even given statistically significant zα supplying a small denom
 Let's have a look at (1): comparing the likelihoods of μ
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 336 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 finding little evidence against a null, and even evidence for it, by choosing an
 appropriately distant alternative. But μ.9 is a "typical choice" in epidemiology, Goodman notes (ibid., p. 491). Sure it's a discrepancy we want high
@@ -18260,7 +17247,6 @@ likelihood. As Senn remarks, it's "ludicrous" to consider just the null and
 a single statistically significant result as even decent evidence for the discrepancy we should not like to miss. μ.9 is around 1.28 standard errors from
 the one-sided cut-off: ð1:96 þ 1:28Þ σ
 X . We know right away that
-X
 any μ value in excess of the observed statistically significant zα is one we cannot
 have good evidence for. We can only have decent evidence that μ exceeds
 values that would form the CI lower bound for a confidence (or severity) level
@@ -18299,9 +17285,6 @@ inference to μ.9. She finds the data give fairly good grounds that μ is less t
 are like stew ingredients that you can jumble together into a farrago of
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 337 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 computations, but there's a danger it produces an inference at odds with error
 statistical principles. For a significance tester, the alleged criticism falls apart;
@@ -18339,14 +17322,9 @@ X then POW(T+, μ
 
 þ 1:96 σ
 
-X
-
-X
 Thus,
 
 μ:999 ¼ 4:96 σ
-
-X
 
 ¼ 4:96ð0:2Þ ¼ 0:99 ≃ 1:
 
@@ -18364,9 +17342,6 @@ likelihood this way? We can view it through their eyes as follows: take Z ≥ 1.
 3 In private conversation.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 338 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 as the lump outcome and reason along Likelihoodist lines. The probability is
 very high that Z ≥ 1.96 under the assumption that μ =1:
@@ -18429,9 +17404,6 @@ nothing about what may be inferred from negative results, when Cohen, the
 leader of power analysis, was toiling amongst them for years; and a central role
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 339 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 for power, post-data, is interpreting non-significant results. The attention to
 power, of course, is a key feature of N-P tests, but apparently the prevalence of
@@ -18475,9 +17447,6 @@ be specified, it's rare that the power to detect it is high. Two important point
 4 A key medical paper is Freiman et al. (1978).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 340 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 can still be made: First, Cohen doesn't instruct you to infer there's no discrepancy from H0, merely that it's "no more than i." Second, even if your test
 doesn't have high power to detect negligible i, you can infer the population
@@ -18516,28 +17485,23 @@ A simple example: Useμ .84 in test T+ (H0 : μ ≤ 0 vs. H1; μ > 0, α = 0.025
 σ
 to create test T−. Test T+ has 0.84 power against
 25,
-X
 μ:84 ¼ 3σ
 ¼ 0:6 (with our usual rounding). So, test T− is H0: μ ≥ 0.6 vs. H1:
 μ < 0.6, and a result is statistically significantly smaller than 0.6 at level 0.16
-whenever the sample mean X ≤ 0:6 (cid:2) 1σ
+whenever the sample mean X ≤ 0:6 1σ
 ¼ 0:4. To check, note that
-PrðX ≤ 0:4; μ ¼ 0:6Þ ¼ Pr Z ≤ (cid:2) 1
+PrðX ≤ 0:4; μ ¼ 0:6Þ ¼ Pr Z ≤ 1
 
 Þ ¼ 0:16 ¼ β.
 
 ð
-
-X
-
-X
 
 It will be useful to look at the two-sided alternative: test T±. We'd combine
 the above one-sided test with a test of H0: μ ≥ −μ1−β
 at the β
 level. This will be to test H0: μ ≥ −0.6 vs. H1: μ < −0.6, and find a result
 statistically significantly smaller than −0.6 at level 0.16 whenever the sample
-mean X ≤ (cid:2)0:8 (i.e., (cid:2)0:6 (cid:2) 1σ
+mean X ≤ 0:8 (i.e., 0:6 1σ
 X ). If both nulls are rejected (at the 0.16 level),
 we infer |μ| < 0.6 but the two-sided test has double the Type I error probability:
 0.32.
@@ -18548,9 +17512,6 @@ How high a power should be regarded as high? How low as low? A power of
 0.8 or 0.9 is common, we saw, in "clinically relevant" discrepancies. To anyone
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 341 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 who complains that there's no way to draw a cut-off, note that we merely need
 to distinguish blatantly high from rather low values. Why have the probability
@@ -18602,9 +17563,6 @@ obtaining a large value of P in cases when the [null is false . . . to a specifi
 . . .
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 342 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 Should this calculation show that the probability of detecting an appreciable error in the
 hypothesis tested was large, say 0.95 or greater, then and only then is the decision in
@@ -18624,10 +17582,6 @@ to an observed difference whose P-value just exceeds α. This is, in effect, the
 worst case of a negative result. What if the actual outcome yields an even smaller
 difference (larger P-value)?
 
-X
-
-X
-
 þ 1:96 σ
 
 ¼ ð0 þ 1:96ð0:2ÞÞ ¼ 0:392, or, with the 2 σ
@@ -18644,10 +17598,10 @@ power. It follows that no statistically insignificant result can warrant μ ≤ 
 the power analyst. Power analysis only allows ruling out values as high as μ.8,
 μ.84, μ.9, and so on. The power of a test is fixed once and for all and doesn't
 change with the observed mean x. Why consider every non-significant result as
-if it just barely missed the cut-off? Suppose, x ¼ (cid:2)0:2. This is 2σ
+if it just barely missed the cut-off? Suppose, x ¼ 0:2. This is 2σ
 X lower than
 0.2. Surely that should be taken into account? It is: 0.2 is the upper 0.975
-confidence bound and SEVðTþ; x ¼ (cid:2)0:2; μ ≤ 0:2Þ ¼ 0:975.5
+confidence bound and SEVðTþ; x ¼ 0:2; μ ≤ 0:2Þ ¼ 0:975.5
 
 What enables substituting the observed value of the test statistic, d(x
 
@@ -18668,13 +17622,10 @@ the inference to μ ≤ μ
 0 + γ is warranted with severity. (As always, whether it's
 a mere indication or genuine evidence depends on whether it passes an audit.)
 
-5 To show, as crude power analysis does not, that SEVðTþ; x ¼ (cid:2)0:2; μ ≤ 0:2Þ ¼ 0:975 when
-x ¼ (cid:2)0:2: We standardize x to get z = (−0.2 − 0.2)/0.2 = −2 and so Prðx ≥ (cid:2) 0:2; 0:2Þ ¼ 0:975.
+5 To show, as crude power analysis does not, that SEVðTþ; x ¼ 0:2; μ ≤ 0:2Þ ¼ 0:975 when
+x ¼ 0:2: We standardize x to get z = (−0.2 − 0.2)/0.2 = −2 and so Prðx ≥ 0:2; 0:2Þ ¼ 0:975.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 343 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 If you elect to use the term attained power, you'll have to avoid confusing it
 with animals given similar names; I'll introduce you to them shortly.
@@ -18738,9 +17689,6 @@ severity for inferring the denial of C! See .4 comparing SEV(µ > µ1) and
 POW(µ1).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 344 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 r
 e
@@ -18757,7 +17705,6 @@ P
 μ
 (
 
-V
 E
 S
 
@@ -18843,9 +17790,6 @@ Discrepancies
 standard deviation is 450.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 345 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 Exhibit (iv): Difference Between Means Illustration. I've been making use
 of Senn's points about the nonsensical and the ludicrous in motivating the
@@ -18865,14 +17809,10 @@ H0: δ = μ
 
 − μ
 
-(cid:1)
-
-(cid:3)
-
 He will use a one-sided test at the 2.5% level, using 200 patients in each group
 yielding the standard error (SE) for the difference between two means equal to
 ð450√2=√nÞ.6 The test has over 0.99 power for detecting δ = 200. The observed
-difference d = X (cid:2) Y
+difference d = X Y
 ¼ 90, which is statistically significant at the 0.025 level
 (90/SE = 2), but it wouldn't warrant inferring δ > 200, and we can see the
 severity for δ > 200 is extremely low. The observed difference is statistically
@@ -18884,14 +17824,11 @@ SEV(δ > 200) = Pr(d < 90; δ = 200).
 While this is strictly a Student's t distribution, given the large sample size, we
 can use the Normal distribution:7
 
-(cid:4)
-
 Z ¼
 
-(cid:5)
 Þ
 
-√200 90 (cid:2) 200
+√200 90 200
 ð
 450√2
 
@@ -18899,7 +17836,7 @@ Z ¼
 
 ð
 
-Þ=45 ¼ (cid:2)2:44:
+Þ=45 ¼ 2:44:
 
 SEV(δ > 200) = the area to the left of −2.44 (See .5) which is 0.007,
 
@@ -18911,7 +17848,6 @@ SEV(δ > 10) = 0.962 the area to the left of z = (90 − 10)/45 = 1.778.
 
 6 From the general case, we get the case where n1 = n2,
 ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
-ffiffiffiffiffiffiffi
 2σ2
 σ2
 σ2
@@ -18923,7 +17859,7 @@ ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
 σ2
 σ2
 
-σM1(cid:2)M2
+σM1M2
 
 r
 
@@ -18951,26 +17887,17 @@ p
 ffiffiffi
 σ
 p
-ffiffiffi
 n
-
-(cid:3)
 
 p
 
-(cid:1)
-ffiffiffi
 n
 
-X (cid:2) Y
+X Y
 p
-ffiffiffi
 s
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 346 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 Senn gives another way to view the severity assessment of δ > δ′, namely "adopt
 [δ = δ′], as a null hypothesis and then turn the significance test machinery on it
@@ -19019,9 +17946,6 @@ claims of form μ ≤ μ
 1 = (μ
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 347 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 Why object to applying the severity analysis by changing the null hypothesis,
 and doing a simple P-value computation? P-values, especially if plucked from
@@ -19100,9 +18024,6 @@ SEV(μ ≤ μ
 1 false).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 348 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 We look at {d(X) > d(x
 fit" with the claim of interest. That μ ≤ μ
@@ -19151,12 +18072,10 @@ Exhibit(v): Severity Curves. The severity tribes want to present severity
 using a standard Normal example, one where σ
 plant accident). For this illustration:
 
-X
-
 Test Tþ : H0 : μ ≤ 0 vs: H1 : μ > 0; σ ¼ 10; n ¼ 100; σ=√n ¼ σ
 If α = 0.025, we reject H0 iff d(X) ≥ c0.025 = 1.96.
 Suppose test T+ yields the statistically insignificant result d(x
-the alternative d(X) is N(δ, 1) where δ ¼ ðμ (cid:2) μ
+the alternative d(X) is N(δ, 1) where δ ¼ ðμ μ
 
 Þ=σ
 
@@ -19165,8 +18084,6 @@ X .
 0) = 1.5. Under
 
 ¼ 1:
-
-X
 
 Even without identifying a discrepancy of importance ahead of time, the
 
@@ -19191,9 +18108,6 @@ axis is 0.5. This could be used more generally as a discrepancy axis, as I'll
 show.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 349 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 SEV(μ <_ μ
 
@@ -19276,9 +18190,6 @@ d(x
 0) = 1.95, SEV(μ ≤ 2.95) = 0.84.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 350 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
 
 In relation to test T+ (standard Normal): If you add 1σ
 being μ
@@ -19353,7 +18264,7 @@ power analysis.
 
 1 is warranted by severity analysis but not by
 
-8 (cid:129) If you add kσ
+8 If you add kσ
 
 X to d(x
 
@@ -19366,7 +18277,7 @@ X to d(x
 −k under the standard Normal (SEV > 0.5).
 X from d(x
 
-(cid:129) If you subtract kσ
+If you subtract kσ
 
 k under the standard Normal (SEV ≤ 0.5).
 
@@ -19404,17 +18315,11 @@ X , 1σ
 
 þ d0σ
 
-X
-
-X
-
 X :
 
-Claim ðμ ≤ x (cid:2) 1σ
+Claim ðμ ≤ x 1σ
 
 Þ
-
-X
 
 ðμ ≤ xÞ
 
@@ -19422,36 +18327,23 @@ X
 
 Þ
 
-X
-
 ðμ ≤ x þ 1:65σ
 
 Þ
-
-X
 
 ðμ ≤ x þ 1:98σ
 
 Þ
 
-X
-
 SEV
 
-0.16
-
 0.5
-
-0.84
 
 0.95
 
 0.975
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 351 [321–352] 31.7.2018
-1:04PM
-
-Tour I: Power: Pre-data and Post-data
 
 Now an overview of severity for test T+: Normal testing: H0: μ ≤ μ
 
@@ -19529,8 +18421,6 @@ low.9
 
 (b) high: Here are two ways, choose your preferred:
 
-(cid:129)
-
 (b-1) If there is a very high probability that d0 would have been smaller
 than it is, if μ ≤ μ
 1, then when you observe so large a d0, it indicates μ >
@@ -19544,11 +18434,6 @@ than it is, if μ ≤ μ
 tollens argument, and find what would occur with high probability, were claim C false.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C12.3D 352 [321–352] 31.7.2018
-1:04PM
-
-Excursion 5: Power and Severity
-
-(cid:129)
 
 (b-2) If there's a very low probability that so large a d0 would have
 resulted, if μ were no greater than μ
@@ -19570,7 +18455,7 @@ severity (1 − ε)
 
 0) is not statistically significant, then μ ≤ x þ kεσ=√n passes the test T+ with
 
-0) is statistically significant, then μ > x (cid:2) kεσ=√n passes test T+ with severity
+0) is statistically significant, then μ > x kεσ=√n passes test T+ with severity
 
 where Pr(d(X) > kε) = ε (Mayo and Spanos (2006), Mayo and Cox (2006).)
 
@@ -19615,9 +18500,6 @@ Now a title like this is supposed to signal a problem, a reason for those "keep
 out" signs. His point, in relation to this example, boils down to noting that an
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 354 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 observed difference may not be statistically significant – x may fail to make it to
 the cut-off x0:025 – and yet be closer to μ.84 than to 0. This happens because the
@@ -19662,7 +18544,6 @@ The Shpower of test Tþ: PrðX ≥ xα; μ ¼ xÞ:
 1 That is, β(μ.84) = Pr(d < 0.4; μ = 0.6) = Pr(Z < −1) = 0.16.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 355 [353–370] 31.7.2018
-1:08PM
 
 Tour II: How Not to Corrupt Power
 
@@ -19717,9 +18598,6 @@ equals ordinary power for μ
 1.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 356 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 Two fallacies are being committed here. The first we dealt with in discussing
 Greenland: namely, supposing that a negative result, with high power against
@@ -19765,11 +18643,6 @@ correct principle directing you, and this we'll see is what Hoenig and Heisey ar
 missing.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 357 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
-
-X
 
 Hoenig and Heisey consider an instance of our test T+: a one-sided Normal
 test of H0: μ ≤ 0 vs. H1: μ > 0. The best way to address a criticism is to use the
@@ -19792,14 +18665,12 @@ There's one small problem:
 that
 this is not
 corresponds to test T+. The 95% confidence interval corresponding to test
-T+ is a one-sided interval: μ > x (cid:2) 1:65 σ
-ðμ > ð1:4 (cid:2) 1:65Þ ¼ (cid:2)0:25Þ, not
+T+ is a one-sided interval: μ > x 1:65 σ
+ðμ > ð1:4 1:65Þ ¼ 0:25Þ, not
 μ < 3.05. That is, it corresponds to a one-sided lower bound, not an upper
 bound.
 
 the confidence interval
-
-X
 
 From the duality between CIs and tests (Section 3.7), as Hoenig and Heisey
 correctly state, "all values covered by the confidence interval could not be
@@ -19822,9 +18693,6 @@ where x ¼ xα. But Hoenig and Heisey are at pains to declare power
 the right of −1.65 under the standard Normal curve (Section 5.1).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 358 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 analysis superfluous! They plainly cannot have it both ways – they must either
 supplement confidence intervals with an adjunct along severity lines or be left
@@ -19866,9 +18734,6 @@ to say no. Dichotomizing parameter values as rejected or not, as they do, turns
 the well-known arbitrariness in prespecifying confidence levels into an invidious distinction. Thus, we should deny Hoenig and Heisey's allegation that
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 359 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 power analysis is "logically doomed" (p. 22), while endorsing a more nuanced
 use of both tests and intervals as in a severity assessment.
@@ -19921,9 +18786,6 @@ from zero, it will have 17% power if the true effect is 1 standard error away fr
 will have 10% power if the true effect is 0.65 standard errors away from 0. (ibid., p. 4)
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 360 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 These correspond to µ =152, µ =151, and µ =150.65. It's odd to talk of an
 estimate having power; what they mean is that the test T+ has a power of 0.5 to
@@ -19956,14 +18818,12 @@ although they measure the exaggeration by a ratio.5 Is this "power analytic"
 reasoning? No, but no matter. Some remarks:
 
 First, the inferred estimate would not be 152 but rather the lower confidence
-bounds, say, μ > ð152 (cid:2) 2σ
+bounds, say, μ > ð152 2σ
 Þ, i.e., µ > 150 (for a 0.975 lower confidence
 bound). True, but suppose the lower bound at a reasonable confidence level
 is still at odds with what we assume is known. For example, a lower 0.93 bound
 is µ > 150.5. What then? Then we simply have a conflict between what these
 data indicate and assumed background knowledge.
-
-X
 
 Second, do they really want to say that the statistically significant x fails to
 warrant µ ≥ µ1 for any µ1 between 150 and 152 on grounds that the power in
@@ -19973,13 +18833,10 @@ inferred from the result.
 
 4 You can obtain these from the severity curves in Section 5.4.
 5 There are slight differences from their using a two-sided test, but we hardly add anything for the
-negative direction: For (a), PrðX < (cid:2)2; μ ¼ 2Þ ¼ PrðZ < (cid:2)4Þ ≃ 0. The severe tester would not
+negative direction: For (a), PrðX < 2; μ ¼ 2Þ ¼ PrðZ < 4Þ ≃ 0. The severe tester would not
 compute power using both directions once she knew the result.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 361 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 A way to make sense of their view is to construe it as saying the observed
 mean is so out of line with what's known that we suspect the assumptions of
@@ -20022,9 +18879,6 @@ interval [150, 154]. The latter is indicative of a larger discrepancy. Granted, 
 be large enough for the statistical assumptions to pass an audit.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 362 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 be interpreted based only on p-values. Research findings are defined here as any
 relationship reaching formal statistical significance, e.g., effective interventions,
@@ -20075,9 +18929,6 @@ hypothesis from a group with a sufficiently high proportion of true "no
 connection with the problem of multiple comparisons. (see Section 4.6).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 363 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 effect" nulls. So is the criticism a matter of transposing probabilistic conditionals, only with the twist of trying to use "prevalence" for a prior? It is, but
 that doesn't suffice to dismiss the criticism. The critics argue that the
@@ -20118,9 +18969,7 @@ jDÞPr Dð Þ
 
 j ~DÞPr ~Dð
 
-Þ(cid:3)
-
-PPV: Pr Dð jþÞ ¼
+ÞPPV: Pr Dð jþÞ ¼
 B ¼ Pr þð
 Pr þð
 
@@ -20150,9 +18999,6 @@ SENS: Pr(+|D).
 example, Dawid (1976).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 364 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 The specificity is the probability a randomly selected item lacking D will be
 found negative (−):
@@ -20209,9 +19055,6 @@ Where do his bias adjustments come from? These are just guesses he puts
 forward. It would be interesting to see if they correlate with some of the better-
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 365 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 Table 5.1 Selected entries from Ioannidis (2005)
 
@@ -20290,9 +19133,6 @@ significantly on the next try, but such a probability is to be expected (Senn 20
 such probabilities as irrelevant.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 366 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 [α/(1 – β)] Again
 
@@ -20341,9 +19181,6 @@ it could be claimed there are infinitely many hypotheses;
 parameters,
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 367 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 individuating true ones could be done in multiple ways. Even limiting the
 considerations to discrete claims (effect/no effect), will quickly land us in
@@ -20391,9 +19228,6 @@ difficult, others completely baffling. The 'easy' ones have multiple explanation
 competing, usually not. Drawing theories from a pot and associating them whimsically
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 368 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 with variable pairs would yield an impressive batch of H0-refuting 'confirmations.' (Meehl
 1990, p. 206)
@@ -20442,9 +19276,6 @@ Educational Testing Services). It coincided with a criticism by Colin Howson
 (1997a,b) to the effect that low prevalence (or "base rates") negates severity of
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 369 [353–370] 31.7.2018
-1:08PM
-
-Tour II: How Not to Corrupt Power
 
 test. Isaac is a high school student who has passed (+) a battery of tests for D:
 "college-readiness." It is given that Pr(+|~D) is 0.05, while Pr(+|D) ~1. But
@@ -20492,9 +19323,6 @@ emphasize the difference between good science and a good scorecard.
 2005, 2010c).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C13.3D 370 [353–370] 31.7.2018
-1:08PM
-
-Excursion 5: Power and Severity
 
 There are contexts in which the screening viewpoint is useful. Beyond diagnostic screening of disease, high-throughput testing of microarray data seeks to
 control the rates of genes worth following up. Nevertheless, we argue that the
@@ -20534,12 +19362,12 @@ Wearing error statistical spectacles gives a Rosetta Stone for a novel deconstru
 passage from Neyman and Pearson (1933), often taken as the essence of the
 N-P philosophy. We'll make three stops:
 
-(cid:129) First, we visit a local theater group performing "Les Miserables Citations";
-(cid:129) Next, I've planned a daytrip to Fisher's Fiducial Island for some little
+First, we visit a local theater group performing "Les Miserables Citations";
+Next, I've planned a daytrip to Fisher's Fiducial Island for some little
 
 explored insights into our passage;
 
-(cid:129) Third, we'll get a look at how philosophers of statistics have deconstructed
+Third, we'll get a look at how philosophers of statistics have deconstructed
 
 that same passage.
 
@@ -20558,9 +19386,6 @@ test based upon the theory of probability can by itself provide any valuable
 evidence of the truth or falsehood of that hypothesis.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 372 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 But we may look at the purpose of tests from another view-point. Without
 hoping to know whether each separate hypothesis is true or false, we may
@@ -20604,7 +19429,6 @@ generally be considered as an indication that . . . H was probably false, and vi
 1 The pagination is from the Selected Works of E.L. Lehmann (2012).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 373 [371–392] 31.7.2018
-1:14PM
 
 Tour III: Deconstructing the N-P versus Fisher Debates
 
@@ -20657,9 +19481,6 @@ view, is very substantial. (ibid., pp. 964–5)
 The stage fades to black, then a spotlight beams on Neyman and Pearson midstage.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 374 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 N-P: We appear to find disagreement here, but are inclined to think that . . . the two
 writers [Bertrand and Borel] are not really considering precisely the same problem.
@@ -20709,9 +19530,6 @@ was optimistic but insisted that: (a) the criterion to test a hypothesis (a 'sta
 hypothesis') using some observations must be selected not after the examination of
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 375 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 the results of observation, but before, and (b) this criterion should be a function of
 the observations 'en quelque sorte remarquable' [of a remarkable sort]. It is these
@@ -20760,9 +19578,6 @@ Isn't this taken care of by Fisher's requirement that Pr(P < p0; H0) = P0
 the test rarely rejects the null if true? It may be, in practice, Neyman and
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 376 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 Pearson thought, but only with certain conditions that were not explicitly
 codified by Fisher's simple significance tests. With just the null hypothesis, it is
@@ -20817,9 +19632,6 @@ whether it is exceptional to find a given criterion with so unfavourable a value
 need to find an answer to the more difficult question. Is it exceptional that the most
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 377 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 unfavourable criterion of the n, say, examined should have as unfavourable a value as
 this? (ibid., p. 127)
@@ -20863,9 +19675,6 @@ that there is a known statistical relationship between the characteristic of the
 data and the underlying distribution (Neyman 1977, p. 103). It must enable the
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 378 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 error probabilities to be computed under the null and also under discrepancies
 from the null, despite any unknown parameters.
@@ -20874,32 +19683,32 @@ An exemplary characteristic of this sort is the remarkable properties offered
 
 by pivotal test statistics such as Z or T, whose distributions are known:
 
-Z ¼ √nðX (cid:2) μÞ=σ;
+Z ¼ √nðX μÞ=σ;
 
-T ¼ √nðX (cid:2) μÞ=s;
+T ¼ √nðX μÞ=s;
 
 Z has the standard Normal distribution, and T the Student's t distribution,
 where σ is unknown and thus replaced by the estimator.
 
-n (cid:2) 1
+n 1
 
 Xn
 
 i¼1
 
-ðxi (cid:2) xÞ2
+ðxi xÞ2
 
 Consider the pivot Z. The probability Z > 1.96 is 0.025. But by pivoting, the
 
 Z > 1.96 is equivalent to
 
-μ < X (cid:2) 1:96 σ=√n;
+μ < X 1:96 σ=√n;
 
 too has probability 0.025. Therefore,
 
 so it
 the procedure that asserts
-μ > X (cid:2) 1:96 σ=√n asserts correctly 95% of the time!2 We can make valid
+μ > X 1:96 σ=√n asserts correctly 95% of the time!2 We can make valid
 probabilistic claims about the method that holds post-data, if interpreted
 correctly. For the severe tester, these also inform about claims that are well
 and poorly tested (Section 3.7). This leads us on a side trip to Fisher's fiducial
@@ -20924,9 +19733,6 @@ inductive inference. This is precisely what he comes to deny in his 1980
 2 To get a fiducial distribution, the case has to be continuous.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 379 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 philosophy toward the most prevalent view, even though it comes in different
 forms.
@@ -20971,9 +19777,6 @@ Pearson, acceptance and rejection of hypotheses is "the adoption of the same
 attitude towards them as one would take if one had an unqualified belief in
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 380 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 their truth or falsehood" (1993, p. 204), putting up "his entire stock of worldly
 goods" upon a single statistically significant result (p. 203). Even on the
@@ -21022,9 +19825,6 @@ which, for them, is a will o' the wisp . . . There is no such thing as allowing
 'evidence' to regulate what we believe. Rather, we must embrace a policy and
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 381 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 stick to it." Sober regards this as akin to Pascal's theological argument for
 believing in God, declaring, "Pascal's concept of prudential acceptance lives on
@@ -21072,9 +19872,6 @@ outcome x to be taken as indicating claim C? Because it's the way to design
 stringent tests and make probability claims pre-data that are highly informative post-data as to how well tested claims are.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 382 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 5.8 Neyman's Performance and Fisher's Fiducial Probability
 
@@ -21098,19 +19895,18 @@ x – zcσ=√n
 
 derived here from the probability statement
 
-Prðμ > X (cid:2) zcσ=√nÞ ¼ 1 (cid:2) c
+Prðμ > X zcσ=√nÞ ¼ 1 c
 
 is a particular instance of a hypothetical long run of statements a proportion 1 − c of
 which will be true, . . . assuming our model is sound. We can, at least in principle, make
 such a statement for each c and thereby generate a collection of statements, sometimes
-called a confidence distribution. (Cox 2006a, p. 66; x for y, X for Y , and zc for k(cid:3)
-c )
-Once x is observed, x (cid:2) zcσ=√n is what Fisher calls the fiducial c percent limit
+called a confidence distribution. (Cox 2006a, p. 66; x for y, X for Y , and zc for kc )
+Once x is observed, x zcσ=√n is what Fisher calls the fiducial c percent limit
 for μ. It is, of course, the specific 1−c lower confidence interval estimate ^μ
 ðxÞ
 (Section 3.7).
 
-1(cid:2)c
+1c
 
 Here's Fisher in the earliest paper on fiducial inference in 1930. He sets
 1 − c as 0.95. Starting from the significance test of a specific μ, he identifies
@@ -21122,13 +19918,13 @@ is the cut-off for a 0.05 one-sided test T+ (of μ ≤ μ
 
 0).
 
-[W]e have a relationship between the statistic [X] and the parameter μ, such that ½x:05(cid:4) is
+[W]e have a relationship between the statistic [X] and the parameter μ, such that ½x:05is
 the 95 per cent. value corresponding to a given μ, and this relationship implies the
 perfectly objective fact
 in 5 per cent. of
 is,
-PrðX ≤ μ þ 1:65σ=√nÞ ¼ 0:95(cid:4) (Fisher 1930, p. 533; substituting μ for θ and X for T.)
-X > x:05 occurs whenever μ < X (cid:2) 1:65σ=√n the generic ^μ:95
+PrðX ≤ μ þ 1:65σ=√nÞ ¼ 0:95(Fisher 1930, p. 533; substituting μ for θ and X for T.)
+X > x:05 occurs whenever μ < X 1:65σ=√n the generic ^μ:95
 a particular observed x, x − 1.65σ/√n is the "fiducial 5 per cent. value of μ."
 
 [X > x:05. That
@@ -21140,9 +19936,6 @@ samples
 that
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 383 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 We may know as soon as X is calculated what is the fiducial 5 per cent. value of μ, and
 that the true value of μ will be less than this value in just 5 per cent. of trials. This then is
@@ -21174,7 +19967,7 @@ discussion where σ is unknown and must be estimated. Because X and
 S (using the Student's t pivot) are sufficient statistics "we may infer, without
 any use of probabilities a priori, a frequency distribution for μ which shall
 correspond with the aggregate of all such statements . . . to the effect that the
-probability μ is less than x (cid:2) 2:145s=√n is exactly one in forty" (ibid., p. 253).
+probability μ is less than x 2:145s=√n is exactly one in forty" (ibid., p. 253).
 This uses Student's t distribution with n = 15. It's plausible, at that point, to
 suppose Fisher means for x to be a random variable.
 
@@ -21183,17 +19976,14 @@ clarify and justify Fisher's methods. 'I see what's going on,' we can imagine
 Neyman declaring. There's a method for outputting statements such as would
 take the general form
 
-μ > X (cid:2) 2:145 s=√n:
+μ > X 2:145 s=√n:
 
 Some would be in error, others not. The method outputs statements with
 a probability (some might say a propensity) of 0.975 of being correct. "We may
 
-3 It's correct that (μ ≤ X (cid:2) zc σ=√n) iff (X > μ þ zcσ=√n).
+3 It's correct that (μ ≤ X zc σ=√n) iff (X > μ þ zcσ=√n).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 384 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 look at the purpose of tests from another viewpoint": probability ensures us of
 the performance of a method (it's methodological).
@@ -21238,9 +20028,6 @@ the sense that values of μ within this region are not contradicted by the data 
 significance chosen. The remainder… is rejected" (Fisher 1935a, p. 192).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 385 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 considered just one unknown parameter, e.g., the mean of a Normal distribution. In most realistic cases there are additional parameters required to
 compute the P-value, sometimes called "nuisance" parameters λ, although
@@ -21288,9 +20075,6 @@ where v is the value of the statistic V used to estimate the nuisance parameter.
 may be found in Lehmann (1981).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 386 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 similar tests." These dual ways of generating tests reveal the underpinnings of
 a substantial part of standard, elementary statistical methods, including key
@@ -21335,9 +20119,6 @@ requirement of being able to calculate P approximately, with only minimal depend
 nuisance parameters," which could be preferable especially when best tests are absent. (Ibid.)
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 387 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 however we might disguise it, the choice of this particular a priori distribution
 for the θ is just as arbitrary as any other. . ." (ibid.).
@@ -21384,9 +20165,6 @@ to use your own notes in your class, but I hope you will use a portion of my tex
 when mentioning some of its key ideas.' Never mind. That was it. Fisher went on
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 388 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 to a meeting wherein he attempted to get others to refuse Neyman a permanent
 position, but was unsuccessful. It wasn't just Fisher who seemed to need some
@@ -21433,9 +20211,6 @@ the required character for the test statistic, the need for the alternative and
 power considerations.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 389 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 Until you disinter the underlying source of the problem – fiducial inference –
 the "he said/he said" appears to be all about something that it's not. The reason
@@ -21452,7 +20227,7 @@ Fisher, Neyman violates
 . . . the principles of deductive logic [by accepting a] general symbolical statement such
 as
 
-½1(cid:4) Pr ðx (cid:2) tsÞ < μ < ðx (cid:2) tsÞg ¼ α;
+½1Pr ðx tsÞ < μ < ðx tsÞg ¼ α;
 
 f
 
@@ -21487,9 +20262,6 @@ different populations] need not agree with Fisher's solution" in the case of
 a difference between two Normal means with different variances, "brought
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 390 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 about an avalanche of rebuttals by Fisher and by Yates" (ibid., p. 292).7 Some
 think it was only the collapse of Fisher's rebuttals that led Fisher to castigate
@@ -21533,9 +20305,6 @@ masterful historical discussion.
 8 Buehler and Feddersen (1963) showed there were recognizable subsets even for the t test.
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 391 [371–392] 31.7.2018
-1:14PM
-
-Tour III: Deconstructing the N-P versus Fisher Debates
 
 Neyman's field, not his – is a different matter. Ironically, Pearson shared
 Neyman's antipathy to "inferential theory" as Neyman (1962) defines it in
@@ -21580,9 +20349,6 @@ statistics seems to need an effective compromise between Bayesian and frequentis
 1998, p. 112).
 
 C:/ITOOLS/WMS/CUP-NEW/14095598/WORKINGFOLDER/MAYOS/9781107054134C14.3D 392 [371–392] 31.7.2018
-1:14PM
-
-Excursion 5: Power and Severity
 
 calling the piecemeal nature of error statistics. "The idea that statistical problems do not have to be solved as one coherent whole is anathema to Bayesians
 but is liberating for frequentists" (Wasserman 2007, p. 261).
@@ -21648,7 +20414,6 @@ Suppose you're appraising a recommendation that frequentist methods
 should or can be replaced by a Bayesian method. Your first question should
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 396 [393–423] 28.7.2018
-5:44PM
 
 Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
@@ -21693,7 +20458,6 @@ to run afoul of the minimal requirement for severity. The onus on those who
 declare what we really want in statistical inference are probabilities on hypotheses is to show, for existing ways of obtaining them, why?
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 397 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -21745,9 +20509,6 @@ identical as modern engineering can make them. Suppose that one ball is drawn at
 random from the urn . . . it is needful to define randomness. Imagine that the balls are
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 398 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 numbered consecutively from 1 to N and suppose that, at no cost to you, you were
 offered a prize if ball 57 were drawn . . . [and] the same prize if ball 12 were drawn. If you
@@ -21792,7 +20553,6 @@ develop incoherent concepts like confidence intervals." (p. 311) There are, howe
 of types of methods.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 399 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -21837,9 +20597,6 @@ Bayesian handle." (ibid., p. 326). He's teasing I'm sure, but let's step back.
 2 I have argued (e.g., Mayo 2014) the alleged verifications are circular. Efron, in private communication, said that he tried to argue against the result, but gave up; he was glad I did not.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 400 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 The error statistician agrees with all these criticisms. In her view, statistics is
 collecting, modeling, and using data to make inferences about aspects of what
@@ -21882,7 +20639,6 @@ agreed convention on the subject, as have Berger and Bernardo (1992, p. 57) and
 Jeffreys (1955, p. 277). (Kadane 2011, p. 445–6)
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 401 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -21936,9 +20692,6 @@ Bayesian inference among statisticians in the last half of the twentieth century
 lest I be seen as taking away an appealing name.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 402 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 lets us launch into newer battles. Finding traditional Bayesian foundations
 ripped open, coupled with invitations for Bayesian panaceas to the reproducibility crisis, we are swept into a dizzying whirlpool where deeper and more
@@ -21981,7 +20734,6 @@ data 'have to say' about some particular quantity" (1997, p. 160). The desire fo
 an inductive logic of probabilism is familiar to us. Statistician Christian Robert
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 403 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22032,9 +20784,6 @@ entropy prior of E. T. Jaynes and, for a one-dimensional parameter, the Jeffreys
 2006b, p. 6).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 404 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 [My student Churchill Eisenhart in the 1930s] attended my lectures at the University
 College, London, and witnessed my introducing a prior distribution . . . and then
@@ -22080,7 +20829,6 @@ probabilities to event statements – just what's missing when we are loath to
 assign probabilities to parameters. On the other hand, if we are limited to the
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 405 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22124,9 +20872,6 @@ Bayes' Rule or other computations with a probability on the data and assumptions
 possibility, Box and others use frequentist methods for model testing.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 406 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 subjective/default approach can avoid this, and in some cases arrive at the same
 test as the frequentist in Exhibit (i) by setting a mathematically convenient
@@ -22172,7 +20917,6 @@ put their money down now (unless they get interest). Still, cashing out
 Bayesian uncertainty with betting seems the most promising way to
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 407 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22219,9 +20963,6 @@ a general type, whereas a Bayesian can assign subjective probability to a unique
 event on November 8, 2016! Or so it is averred. But when they appeal to bets by
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 408 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 reference to events with known probabilities, aren't they viewing it as a type?
 ("That's the kind of thing I'd bet 0.9 on.")
@@ -22275,7 +21016,6 @@ this universe, the special form of induction or hypothesis would lead us right.
 The probability given by this theory is in every way different – in meaning, numerical
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 409 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22319,9 +21059,6 @@ Admitting there is no unanimity as to either the definition or goal of "objectiv
 positions" that default Bayesianism might be seen to provide:
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 410 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 1. A complete coherent objective Bayesian methodology for learning from
 
@@ -22372,7 +21109,6 @@ accurately specify a (typically) infinite number of things. In practice, only a 
 number of (never fully accurate) subjective elicitations are possible, so practical
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 411 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22420,9 +21156,6 @@ the default rule is applied. Excellent discussions are in Seidenfeld (1979) and 
 Wasserman (1996, p. 1359). Note that some consider that coherence only concerns the assignment of the prior; a violation of Bayes' Rule is called a failure of Bayesian conditionalization.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 412 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 conventional priors. You might say there's nothing really schizophrenic in this,
 even subjectivists argue that default priors are kosher as approximations to
@@ -22466,7 +21199,6 @@ the use of computer packages. Improper priors are often not problematic, but
 posteriors that are not probabilities (because they don't add to 1) are a disaster.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 413 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22516,9 +21248,6 @@ analysis when they have actually done something very different. They start and
 end with thanking the (subjective?) Bayesian account for housing all their
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 414 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 uncertainties within prior probability distributions; in between, the analysis
 immediately turns to default priors, coupled with ordinary statistical modeling
@@ -22567,7 +21296,6 @@ Finally, the "the lip service that is often paid to subjective Bayesian analysis
 as opposed to objective Bayesian analysis," far from being the "modern mystery," Berger (2006, p. 397) dubs it, might reflect the degree of schizophrenia of
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 415 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22614,9 +21342,6 @@ concepts may arise in models and receive their explication through applications.
 when the subsequent meanings shift, as happens with default probabilities.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 416 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 a degree of belief [that is inconsistent with what I now hold], I have merely
 changed my mind" (ibid.). One thought the job of Bayesian updating was to
@@ -22663,7 +21388,6 @@ non-subjective tribes living in conflict with it. Jon Williamson, a nonsubjectiv
 statistical models.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 417 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22715,9 +21439,6 @@ Lindley's answer is that it would be a lot harder to be coherent that way,
 however, he's prepared to allow: "[I]f a prior leads to an unacceptable posterior
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 418 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 then I modify it to cohere with properties that seem desirable in the inference"
 (Lindley 1971, p. 436). He resists saying the rejected prior was wrong though.
@@ -22758,7 +21479,6 @@ taken account of in the posterior: "If you see there is a problem with the
 placeholder model and replace it, it may be that you can somehow reflect this
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 419 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22805,9 +21525,6 @@ Rosenkrantz (1977). It is thought to work well in contexts where the current exp
 seen as a typical instance of a known physical θ-generating process.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 420 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 feature Bayesianism claims to provide: a method of accumulating and updating
 knowledge probabilistically. A second situation might be finding information
@@ -22857,7 +21574,6 @@ existing hypothesis set H is inadequate, she might give the catchall a high prio
 In that case, Barnard points out, it may be that none of the available hypotheses
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 421 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -22904,9 +21620,6 @@ coherent, and updated via Bayes' Rule) comes up against accepted mathematical ax
 deductive system, the issue will be soundness. Axioms can't run up against
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 422 [393–423] 28.7.2018
-5:44PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 empirical claims: they are formal stipulations of a system that gets meaning,
 and thus truth value, by interpretations. Carefully cashed out, the axioms they
@@ -22951,7 +21664,6 @@ claims statistically, and in so doing it's always from demonstrated effects to
 hypotheses, theories, or models. Neither a posterior probability nor a Bayes
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C15.3D 423 [393–423] 28.7.2018
-5:44PM
 
 Tour I What Ever Happened to Bayesian Foundations?
 
@@ -23030,7 +21742,6 @@ necessity for a degree of schizophrenia in current electic practice? That's
 where today's journey begins.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 425 [424–444] 28.7.2018
-6:05PM
 
 Tour II Pragmatic and Error Statistical Bayesians
 
@@ -23049,16 +21760,15 @@ We assume X1, X2, . . ., X49 are IID random variables from N(μ, 1). The 0.95
 two-sided confidence interval estimator, we know is:
 p
 
-μ ¼ X (cid:2) Z0:025ðσ=
+μ ¼ X Z0:025ðσ=
 
-ffiffiffi
 n
 
 Þ:
 
 Following Kass, take Z0.025 to be 2 (instead of the more accurate 1.96):
 
-μ ¼ ðX (cid:3) 2=7; X þ 2=7Þ:
+μ ¼ ðX 2=7; X þ 2=7Þ:
 
 We observe x ¼ 10:2. Plugging in 1/7 = 0.14, 2/7 = 0.28, the particular interval
 estimate I is
@@ -23070,11 +21780,11 @@ recommends:
 
 FREQUENTIST INTERPRETATION. . . Under the assumptions above, if we were
 to draw infinitely many random samples from a N(μ,1) distribution, 95% of
-the corresponding confidence intervals (X (cid:3) 2=7, X þ 2=7) would cover μ. (ibid.,
+the corresponding confidence intervals (X 2=7, X þ 2=7) would cover μ. (ibid.,
 p. 4)
 
 PRAGMATIC INTERPRETION. . . If we were to draw a random sample according to
-the assumptions above, the resulting confidence interval (X (cid:3) 2=7, X þ 2=7) would
+the assumptions above, the resulting confidence interval (X 2=7, X þ 2=7) would
 have probability 0.95 of covering μ. Because the random sample lives in the theoretical
 world, this is a theoretical statement. Nonetheless, substituting X ¼ x . . . we obtain the
 interval I, and are able to draw useful conclusions as long as our theoretical world is
@@ -23093,9 +21803,6 @@ N(μ, 1) distribution and the prior distribution of μ is N(μ
 0|. (ibid.)
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 426 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 This conjugate prior might be invoked as what Berger called a "prior completion strategy" or simply a choice of a prior enabling the data to sufficiently
 dominate. The results:
@@ -23105,9 +21812,6 @@ Posterior mean: μ ¼
 τ2
 
 1=49 þ τ2 10:2 þ 1=49
-(cid:4)(cid:3)1
-
-(cid:3)
 
 1=49 þ τ2
 
@@ -23157,9 +21861,6 @@ statistical model" (p. 2). Everything is left as a subjunctive conditional: if t
 "theoretical world is aligned well with the real world that produced the data"
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 427 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 (p. 4) then such and such follows. "Perhaps we might even say that most
 practitioners are subjunctivists" (p. 7).
@@ -23209,9 +21910,6 @@ probabilism. An informal notion of probability can work, but that's still to rob
 probability from playing its intended frequentist role.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 428 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 What about the pragmatic Bayesian? The pragmatic Bayesian infers 'I'm
 95% sure that μ is in (10.2 − 2/7, 10.2 + 2/7).' The model, Kass says, gives the
@@ -23254,9 +21952,6 @@ These may be entirely different hypotheses, even in different fields, in reasoni
 about this particular H. A reply might be that, when there's matching, the frequentist uses error probability1; the Bayesian uses error probability2 (Section 3.6).
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 429 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 The frequentist may welcome adjudication by performance, so she feels
 she's doing well by Kass. But she still must carve out a kosher epistemological
@@ -23300,9 +21995,6 @@ too (2012c). But Kass was looking for respite from conceptual confusion.
 factuals either.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 430 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 Maybe all Kass is saying is that in the special case of frequentist matching
 priors, the split personality scarcely registers, and no one will notice.
@@ -23332,11 +22024,10 @@ The identical point can be framed in terms of the corresponding 95% confidence i
 Suppose a default/non-subjective Bayesian [they call him an "objective
 conditionalist"] states that with a fixed sample size n, he would use the interval
 
-μ ¼ x (cid:2) 1:96σ=
+μ ¼ x 1:96σ=
 
 p
 
-ffiffiffi
 n
 
 He "would not interpret confidence in the frequency sense" but instead would
@@ -23360,9 +22051,6 @@ assigning a probability of 0.95 to the
 interval
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 431 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 It's hard to pin down their response; they go on to other examples.3 I take it
 they are unconcerned because they are not in the business of computing
@@ -23415,9 +22103,6 @@ informative stopping rule is one for which N carries information about θ."
 distribution in computing utilities.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 432 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 Readers are assured that the violations of the Likelihood Principle are "minor,"
 so the authors' hearts aren't in it. An error statistician wants major violations of
@@ -23460,9 +22145,6 @@ a Bayesian. This is especially so in considering their third thesis.
 that their "perspective is not new," but rather follows many other
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 433 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 statisticians in regarding "the value of Bayesian inference as an approach for
 obtaining statistical methods with good frequency properties"(p. 10), they
@@ -23502,9 +22184,6 @@ These are generally computed by simulation. Their P-value is a kind of error
 probability. Like the severe tester, I take it the concern is well-testedness, not
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 434 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 ensuring good long-run performance decisions about misspecification. So, to
 put it in severe testing terms, if the model, which now includes a series of
@@ -23550,9 +22229,6 @@ provide ways for priors to be tested. To check if something is satisfying its
 role, we had better be clear on what its intended role is. Gelman and Shalizi
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 435 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 tell us what a prior need not be: It need not be a default prior (p. 19), nor need it
 represent a statistician's beliefs. They suggest the model combines the prior
@@ -23600,9 +22276,6 @@ outcomes. I owe this point to Christian Hennig.
 Frequentist" movement.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 436 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 Bayesianism,
 in current formulations, do not falsify, although they can
@@ -23644,9 +22317,6 @@ Rival standards reflect a tension between using probability (a) to constrain
 the probability that a method avoids erroneously interpreting data in a series of
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 437 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 applications (performance), and (b) to assign degrees of support, confirmation,
 or plausibility to hypotheses (probabilism). We set sail on our journey with an
@@ -23662,10 +22332,10 @@ severe testing alters long-held conceptions of what's required for an adequate
 account of statistical inference in science. In this view, a normative statistical
 epistemology – an account of what's warranted to infer – must be:
 
-(cid:129) directly altered by biasing selection effects
-(cid:129) able to falsify claims statistically
-(cid:129) able to test statistical model assumptions
-(cid:129) able to block inferences that violate minimal severity
+directly altered by biasing selection effects
+able to falsify claims statistically
+able to test statistical model assumptions
+able to block inferences that violate minimal severity
 
 These overlapping and interrelated requirements are disinterred over the
 course of our travels. This final keepsake collects a cluster of familiar criticisms
@@ -23689,9 +22359,6 @@ battles, e.g., whether to use a pre-specified cut-off of 0.025 or 0.0025 – whe
 fact good inference is not about cut-offs altogether but about a series of smallscale steps in collecting, modeling and analyzing data that work together to
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 438 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 find things out. Still, we need to get beyond the statistics wars in their present
 form. By viewing a contentious battle in terms of a difference in goals – finding
@@ -23738,9 +22405,6 @@ the sample space, and researcher "intentions" in optional stopping. It will also
 be charged that they violate the Likelihood Principle (LP), and are incoherent
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 439 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 (Sections 1.5, 4.6, and 6.6). From the perspective of a logic of induction,
 considering what other outputs might have resulted seems irrelevant. If
@@ -23784,9 +22448,6 @@ are used to assess and control how severely tested claims are.
 charge: that Fisherian and N-P methods are an incompatible hybrid and
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 440 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 should be kept segregated. They offer distinct tools under the overarching
 umbrella of error statistics, along with other methods that employ a method's
@@ -23829,9 +22490,6 @@ on the criticism judge P-values on the standard of a comparative probabilism
 simply because they hinge on taking probabilist measures as an appropriate
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 441 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 standard for judging an error probability. The critics think their standard is
 relevant, so we go with them as far as possible, until inseverity hits. It does hit.
@@ -23876,9 +22534,6 @@ testing model assumptions – an important part of auditing – it's to signific
 control.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 442 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 tests, or the analogous graphical analysis, to which people turn (Sections 4.9,
 4.11, and 6.7). Sampling distributions are the key. Also under the heading of
@@ -23929,9 +22584,6 @@ distributions CDs. (b) We move away from the dichotomy of parameter
 10 I allude to a pin and tumbler lock.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 443 [424–444] 28.7.2018
-6:05PM
-
-Tour II Pragmatic and Error Statistical Bayesians
 
 values being inside or outside a CI estimate; points within a CI correspond to
 distinct claims, and get different severity assignments. (c) CIs receive an
@@ -23976,9 +22628,6 @@ claims pass (or fail) the tests they do. View the error statistical notions as
 11 Some will use a P-value as a degree of inconsistency with a null hypothesis.
 
 C:/ITOOLS/WMS/CUP-NEW/14071760/WORKINGFOLDER/MAYOS/9781107054134C16.3D 444 [424–444] 28.7.2018
-6:05PM
-
-Excursion 6 (Probabilist) Foundations Lost, (Probative) Foundations Found
 
 a picturesque representation of the real life, flesh and blood, capability or
 incapability to put to rest reasonable skeptical challenges. It's in the spirit of
@@ -23986,7 +22635,7 @@ Fisher's requiring you know how to bring about results that would rarely fail
 to corroborate H. It's not merely knowing, but showing you're prepared, or
 would be, to tackle skeptical challenges. I'm using "you" but it could be
 a group or a machine. It's just not all that you do in inquiry. I admitted at
-the outset that we do not always want tofi nd things out. If your goal is belief
+the outset that we do not always want tofind things out. If your goal is belief
 probabilism, or you're in a context where the aim is to assign direct probabilities to events (a deductive task), then you are better off recognizing the
 differences than trying to unify or reconcile. Let me be clear, severe testing
 isn't reserved for cases of strong evidence; it is operative at every stage of

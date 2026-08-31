@@ -79,7 +79,6 @@ Instrumental Aggression
 On the Causes of War
 The Conditions for the Reduction of Defensive Aggression
 10. Malignant Aggression: Premises
-Preliminary Remarks
 Man's Nature
 The Existential Needs of Man and the Various Character-Rooted Passions
 A Frame of Orientation and Devotion
@@ -119,7 +118,6 @@ Hypothesis on Incest and the Oedipus Complex
 The Relation of Freud's Life and Death Instincts to Biophilia and Necrophilia
 Clinical/Methodological Principles
 13. Malignant Aggression: Adolf Hitler, a Clinical Case of Necrophilia
-Preliminary Remarks
 Hitler's Parentage and Early Years
 Klara Hitler
 Alois Hitler
@@ -1039,7 +1037,6 @@ Part III:
 The Varieties of Aggression and Destructiveness and Their Respective Conditions
 
 9.   Benign Aggression
-Preliminary Remarks
 THE EVIDENCE PRESENTED in the previous chapter has led to the conclusion that defensive aggressiveness is "built in" in the animal and human brain and serves the function of defense against threats to vital interests.
 If human aggression were more or less at the same level as that of other mammals—particularly that of our nearest relative, the chimpanzee—human society would be rather peaceful and nonviolent. But this is not so. Man's history is a record of extraordinary destructiveness and cruelty, and human aggression, it seems, far surpasses that of man's animal ancestors, and man is, in contrast to most animals, a real "killer."
 How are we to explain this "hyperaggression" in man? Does it have the same source as animal aggression, or is man endowed with some other specifically human potential for destructiveness?
@@ -1184,7 +1181,6 @@ None of these conditions are independent from each other. They are part of a sys
 28I have discussed some of these problems in The Sane Society (1955a) and in The Revolution of Hope (1968a).
 
 10. Malignant Aggression: Premises
-Preliminary Remarks
 BIOLOGICALLY ADAPTIVE aggression serves life. This is understood in principle, biologically and neurophysiologically, even though much more information is still needed. It is a drive man shares with all other animals, although with certain differences that have been discussed above.
 What is unique in man is that he can be driven by impulses to kill and to torture, and that he feels lust in doing so; he is the only animal that can be a killer and destroyer of his own species without any rational gain, either biological or economic. To explore the nature of this biologically nonadaptive, malignant destructiveness is the object of the following pages.
 Malignant aggression, let us remember, is specifically human and not derived from animal instinct. It does not serve the physiological survival of man, yet it is an important part of his mental functioning. It is one of the passions that are dominant and powerful in some individuals and cultures, although not in others. I shall try to show that destructiveness is one of the possible answers to psychic needs that are rooted in the existence of man, and that its generation results, as was stated earlier, from the interaction of various social conditions with man's existential needs. This hypothesis makes it necessary to build a theoretical basis upon which we can attempt to examine the following questions: What are the specific conditions of human existence? What is man's nature or essence?
@@ -1890,7 +1886,6 @@ Consequently there is no fixed border between the necrophilous and the biophilou
 36As shown in great detail in my discussion of Freud's theory of aggression in the Appendix, in his change from the older concepts to the new polarity: Eros-death instinct, Freud actually changed his whole concept of instinct. In the older version, sexuality was a physiological, mechanistic concept aroused by excitation of various erogenous zones, and its satisfaction consisted in the reduction of the tension produced by the increasing excitation. The death and life instincts, on the contrary, are not attached to any particular bodily zone; they lack the rhythmic character of tension ———> de-tension ———> tension; they are conceived in biological, vitalistic terms. Freud never tried to bridge the gap between these two concepts; their unity was preserved semantically by the equation: life = eros = sexuality (libido). In the hypothesis proposed here, the older and the later phase of Freud's theory would be linked through the assumption that necrophilia is the malignant form of the anal character and biophilia is the fully developed form of the "genital" character. Of course, one must not forget that in my use of the terms "anal" (hoarding) and "genital" (productive) character, I have kept Freud's clinical description, but have given up the notion of the physiological roots of these passions.
 
 13. Malignant Aggression: Adolf Hitler, A Clinical Case of Necrophilia
-Preliminary Remarks
 AN ANALYTIC PSYCHOBIOGRAPHICAL study aims at answering two questions: (1) What are the driving forces that motivate a person, the passions that impel or incline him to behave as he does? (2) What are the conditions—internal and external—responsible for the development of these specific passions (character traits)? The following analysis of Hitler has these aims, but it differs from the classic Freudian method in certain significant respects.
 In the following analysis of Hitler's character I have only focused on Hitler's necrophilia and have only briefly touched upon other aspects such as his exploitative character and of Germany as a symbolic representation of the mother figure.
 One difference that has already been discussed and hence needs to be mentioned here only briefly lies in the notion that these passions are not mainly of an instinctive or, more specifically, of a sexual nature. Another difference lies in the assumption that even if we know nothing of a person's childhood, the analysis of dreams, unintended behavior, gestures, language, and behavior that is rationally not fully explainable permits one to form a picture of the essential and mostly unconscious passions ("X-ray approach"). The interpretation of such data requires the particular training and skill of psychoanalysis.

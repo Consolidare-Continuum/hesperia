@@ -1,4 +1,3 @@
-
 HOW PROPAGANDA WORKS
 
 HOW
@@ -93,10 +92,6 @@ Syracuse University, where he was for many years the director of the Center for 
 School for Citizenship and Public Affairs; Mary Stanley was
 also a professor at Syracuse, and his colleague and coconspirator in the Center. He began his career as an Africanist, with a
 
-X
-
-PREFACE
-
 dissertation in anthropology. Sometime during his early career
 as a professor, in the 1960s, he moved from East African Studies to Sociology, where he regularly taught the theory courses.
 During his career, he published one book.1
@@ -131,10 +126,6 @@ system of private property at the basis of British society; "it was
 a man's pride to own a property and his enjoyment to allow
 collective use of such property."2 The dissertation explains how
 
-PREFACE
-
-XI
-
 the British belief that their particular system of private property was universal led to unbridgeable misunderstandings
 between even well- intentioned British colonialists and the
 Gikuyu people. The moral of colonialism is that it is much
@@ -162,10 +153,6 @@ most of these, however, certain people are designated as
 more equal than others. Why? Because their mastery of a
 particular cognitive area of discourse or practice seems to
 make it socially desirable that they be granted the right,
-
-XII
-
-PREFACE
 
 under certain circumstances, to intervene in the freedom
 of other agents. Such privileged people are normally called
@@ -196,10 +183,6 @@ half of the twentieth century in the subordination of American citizens of Afric
 social scientists convinced of their own objectivity used statistical methods to give an objective covering to racial bias.
 Patricia Hill Collins has drawn our attention to the way that
 "knowledge validation processes" that privilege quantitative
-
-PREFACE
-
-XIII
 
 methods also obstruct our access to social reality: "[i]individual African- American women's narratives about being single
 mothers are often rendered invisible in quantitative research
@@ -234,10 +217,6 @@ Los Angeles routinely use the acronym 'N.H.I.' to refer to any
 case that involved a breach of the rights of young Black males
 who belonged to the jobless category of the inner city ghettos.
 
-XIV
-
-PREFACE
-
 N.H.I. means 'no humans involved.' "7 Wynter's article links
 the method of dehumanization of American citizens of African descent to the dehumanization of Armenians by Turkish
 pan- nationalists in the First World War period, and Jews by
@@ -271,10 +250,6 @@ technicist discourse that presents racist ideology in the guise
 of objective science. The neuroscientist Carl Hart explains
 how scientists colluded in a racially biased drive to exaggerate
 
-PREFACE
-
-XV
-
 the risks of certain illegal drugs to justify draconian sentencing policies, including wildly distorted sentencing policies for
 cheap versions of cocaine used in poor Black communities,
 versus versions of the same drug used in wealthy white communities.9 Hart also shows how the arguments that motivated
@@ -301,10 +276,6 @@ Post poll in September 2003 found that almost 70 percent of
 Americans believed that Saddam Hussein was personally involved in the 9/11 attacks on New York City. Yet a decade later,
 Donald Rumsfeld claimed that the administration in no way
 suggested that Iraq was involved in the terrifying terrorist
-
-XVI
-
-PREFACE
 
 attacks on my country. How is it that propaganda can thoroughly convince the majority of the country of something
 that later appears to have been obviously false at the time? The
@@ -336,10 +307,6 @@ because I am a beneficiary of it.10
 Why are we so inclined to confuse, quite sincerely, objective
 claims of reason with what turns out to be, in retrospect, biased and self- serving opinion? Why does seemingly objective
 discourse seem nevertheless to tap into bias and stereotype?
-
-PREFACE
-
-XVII
 
 And most pressingly, why, across continents and centuries, are
 the claims of oppressed and exploited groups routinely dismissed at the time, when history has subsequently revealed
@@ -375,10 +342,6 @@ The thesis was greeted with some perplexity. Epistemologists didn't know why I w
 interest- relativity of knowledge. Though my desire to make
 some sense out of the connection between the practical and
 
-XVIII
-
-PREFACE
-
 the epistemic in the political interests motivated the work in
 the book, I was not very explicit about that fact.13 But there
 were clear nonpolitical examples, which had also been noticed
@@ -411,10 +374,6 @@ the justification of slavery. But almost every society, whether or
 not it has a practice of slavery, endorses some version of it. The
 second project that has occupied me over the last fifteen years,
 
-PREFACE
-
-XIX
-
 including in my book Know How, published in 2011, has been
 a thoroughgoing repudiation of the scientific and philosophical basis of this ideology. I bring the significance of this work
 to bear in the final chapter, on the United States educational
@@ -445,10 +404,6 @@ analytic philosophy to understand the dynamics of injustice.
 These philosophers have been using the precise tools of analytic philosophy to address the traditional philosophical questions, centrally among which of course are the questions of
 social and political philosophy. As will become apparent from
 the book, I owe an enormous debt to this work, accomplished
-
-XX
-
-PREFACE
 
 mostly by analytic feminist philosophers and philosophers
 of race. They created the path upon which this book travels,
@@ -529,8 +484,6 @@ don't realize they are doing it; the remnants of linguistic
 usage from the preceding epoch confuse and seduce them.
 We spoke about the meaning of culture, or humanitarianism, of democracy and I had the impression that they were
 
-THE PROBLEM OF PROPAGANDA
-
 beginning to see the light, and that certain things were
 being straightened out in their willing minds— and then,
 it was always just round the corner, someone spoke of some
@@ -562,8 +515,6 @@ and unchangeable belief. These beliefs are the barriers to rational thought and 
 
 Group identities are the coral reefs of cognition; much
 of the beauty of the production of human intellect is due to
-
-INTRODUCTION
 
 their existence. But certain group identities are democratically
 problematic; the Teutonic identity constructed by National
@@ -597,8 +548,6 @@ I do not here provide a manual of propaganda. Instead, I explain what it is, why
 it is effective. I argue that harmful propaganda relies upon the
 existence of flawed ideologies present in a given society. Different flawed ideologies exist in different societies. Propaganda
 
-THE PROBLEM OF PROPAGANDA
-
 exploits and strengthens them. This book therefore does not
 aim at providing a manual for instilling flawed ideologies
 in others. In contrast, I will suggest that it is a multidecade
@@ -628,8 +577,6 @@ flawed ideology of the elites.
 
 Demagogic speech does not just occur under the Nazis.
 Even those of us who live in states guided by liberal democratic
-
-INTRODUCTION
 
 ideals are all familiar with the confusing effects of propaganda.
 In a recent article in the popular press, Jonathan Chait writes
@@ -663,8 +610,6 @@ the relevant theoretical apparatus that lets us understand individual cases, suc
 In his paper "The Diversity of Objections to Inequality,"
 the philosopher T. M. Scanlon characterizes five "reasons for
 
-THE PROBLEM OF PROPAGANDA
-
 pursuing greater equality."3 But none of the reasons involves
 the tendency inequality has to cause flawed ideologies. I will
 argue that there is a powerful democratic objection to inequality: inequality tends to lead to epistemic barriers to the acquisition of knowledge, ones that imperil democracy. This is not
@@ -697,8 +642,6 @@ the undermining of campaign finance reform laws has led to
 clear partiality on the side of representatives. Given the need
 to raise immense funds for reelection in campaigns that now
 feature open avenues to corporate donations, representatives
-
-INTRODUCTION
 
 are beholden to the clearly partial motives of big business and
 high- wealth individuals. So, while a great deal of this work is
@@ -736,8 +679,6 @@ begin with the topic of the nature of a democratic culture.
 
 Plato distinguishes between five forms of government: an aristocracy, a timocracy, an oligarchy, a democracy, and a tyranny.
 
-THE PROBLEM OF PROPAGANDA
-
 An aristocracy, Plato's favored form of government, is "government of the best."7 A timocracy, Plato's second- favored form, is a
 form of government whose central virtue is honor and victory
 (Sparta serves as Plato's example of a timocracy). In a timocracy, the great military general is the most admired figure. An
@@ -771,8 +712,6 @@ Plato, is that slaves have political equality with nonslaves, and
 women have political equality with men.
 
 We can take from Plato's classic discussion of the ills of democracy a characterization of the character of a democratic
-
-INTRODUCTION
 
 society. A democratic society is one that values liberty and a
 distinctive kind of equality, which I have been calling political equality. It is suffused with tolerance of difference. Since
@@ -808,8 +747,6 @@ perfectly general across different conceptions of liberty and
 different conceptions of proper democratic methods. What is
 this problem?
 
-THE PROBLEM OF PROPAGANDA
-
 The most basic problem for democracy raided by propaganda is the possibility that the vocabulary of liberal democracy is used to mask an undemocratic reality. If so, there could
 be a state that appeared to be a liberal democracy. It would be
 a state the citizens of which believed was a liberal democracy.
@@ -843,8 +780,6 @@ There are more plausible cousins of the economic theory
 of democracy. The economic theory involves the assumption that people know what is in their interests. One might
 agree that the pursuit of self- interest is at the heart of liberal
 
-INTRODUCTION
-
 democracy, but hold that "nobody can know who knows best
 and that the only way by which we can find out is through a
 social process in which everybody is allowed to try and see
@@ -876,8 +811,6 @@ policies are democratic only if they emerge from joint deliberation of this kind
 is having one's interests decided by the result of deliberation
 with peers about the common good. Another challenge propaganda poses for liberal democracy is that it undermines or
 shortcuts joint deliberation of this sort.
-
-THE PROBLEM OF PROPAGANDA
 
 Plato speaks of the democratic city as one that values liberty
 and equality. Here, Plato is not referring to a specific means of
@@ -912,8 +845,6 @@ movement in the North. Delany is thoroughly convinced that
 there are many sincere, honestly committed white members
 of the Anti- Slavery movement. He also imputes to them the
 
-INTRODUCTION
-
 very best of (at least conscious) intentions.15 Delany maintains
 never theless that even in a civil society solely with members
 of the Anti- Slavery movement, the treatment of American
@@ -946,8 +877,6 @@ show that whites fail to have equal respect for Blacks. And perhaps most powerfu
 white obstacles to Black achievement lead to a systematic loss
 of self- worth, a loss that Delany takes upon himself to counter
 
-THE PROBLEM OF PROPAGANDA
-
 at length with accounts of heroic Black attainment in the face
 of large structural obstacles. Delany's book is an argument for
 equality of attainment; its failure reveals lack of equal respect,
@@ -979,8 +908,6 @@ after the Supreme Court in Brown v. Board of Education declared "separate but eq
 
 In a Gallup poll in March 1963 in the United States, a time
 of now universally acknowledged racial inequality, 46 percent of white Americans agreed that "blacks have as good a
-
-INTRODUCTION
 
 chance as whites in your community to get any kind of job
 for which they are qualified."24 Public opinion in the United
@@ -1016,8 +943,6 @@ Burnham argues that in a managerial society "managers
 can maintain their ruling position only . . . through assuring
 for themselves control of the state," a task that is "not so simple"
 
-THE PROBLEM OF PROPAGANDA
-
 in a democracy, which guarantees "freedom for minority political expression." Burnham writes, "[T]he economic structure
 of managerial society seems to raise obstacles for democracy.
 There is no democracy without opposition groups. Opposition
@@ -1051,8 +976,6 @@ finance reform. Even before this, Lessig reports, politicians in
 Congress spent 70 percent of their time not on legislation, but
 on raising campaign funds. In order to run in elections, politicians first must be selected by members of a sliver of Americans (Lessig reports that this group is the wealthiest 1 percent
 
-INTRODUCTION
-
 of the wealthiest 1 percent). Public opinion across a range of
 issues is often radically misaligned with national policy.
 
@@ -1085,8 +1008,6 @@ heavy use of energy a reflection of the strength of our economy, of the way of l
 to enjoy.32
 
 In the case of climate change, the function of corporate propaganda has been to push the idea that climate change legislation
-
-THE PROBLEM OF PROPAGANDA
 
 is not in the service of doing anything about the climate, but
 rather in the service of changing lifestyles to accommodate
@@ -1124,8 +1045,6 @@ or national one or an allegiance to a sports team. Part of the
 identity seems to consist in allegiance to certain conclusions
 on a range of "hot button" political issues. On those issues,
 
-INTRODUCTION
-
 political party affiliation does seem to result in rigidly held
 belief and loyalty in the voting booth. Allegiance to the group
 identity forged by political party affiliation renders Americans
@@ -1161,8 +1080,6 @@ work well" (374c). There is no free choice of profession. Plato's
 ideal state is not a democracy. It is rule by experts, city planners guided by the principles of justice, who rule over skilled
 craftsmen and mere physical laborers. Whether someone is fit
 to be a philosopher, skilled craftsmen, or mere physical laborer
-
-THE PROBLEM OF PROPAGANDA
 
 is determined by their nature. The philosophers who know
 the Platonic Forms decide which pursuits are suited for which
@@ -1200,8 +1117,6 @@ and foremost about the common good. Philosophers will be
 able to make sure the state is efficient for all. In a managerial
 state, by contrast, one can expect that what "efficiency" means
 
-INTRODUCTION
-
 is efficiency for those who control the resources, or efficiency for
 the managers, or those who own the companies, rather than
 the managed. But even if there were a state controlled by Plato's ideal philosophers, who somehow manage it to be more
@@ -1233,8 +1148,6 @@ into law in December 2012.
 In March 2013, Governor Snyder appointed Kevyn Orr as
 emergency manager of Detroit. Orr claims that Detroit has
 
-THE PROBLEM OF PROPAGANDA
-
 over $18 billion in long- term debt. However, extensive independent analysis by the think tank Demos has raised troubling questions about the accuracy of the claims of financial
 exigency; the Demos report calls the figure of $18 billion "irrelevant to analysis of Detroit's insolvency and bankruptcy filing,
 highly inflated and, in large part, simply inaccurate."36 In any
@@ -1263,8 +1176,6 @@ a matter of public administration, however, rapidly cutting off
 water to such a large percentage of a city is extraordinary. Writing for the Guardian, Martin Lukacs argues that Orr's focus
 on privatizing the water utility, "a prized resource worth billions," turns the shutoffs into "a way to make the balance- sheet
 more attractive in the lead up to its privatization."37 But privatizing the water utility is a further step in removing public
-
-INTRODUCTION
 
 accountability. The discretion inherent in executive power is
 being exercised to maximize financial efficiency. But there is
@@ -1297,8 +1208,6 @@ they are efficient for the banks that are being paid back for
 what look to be ethically dubious loans, as well as for those
 who stand to benefit from the potentially huge profits of privatizing one of the world's great freshwater supplies at a time
 of increasing global water scarcity.
-
-THE PROBLEM OF PROPAGANDA
 
 But let us suppose for the sake of argument that the emergency manager, like Plato's philosopher rulers, made decisions
 that were efficient for all. For example, suppose the benefits of
@@ -1333,8 +1242,6 @@ worldview that places market efficiency at its center, rather than
 liberty, is so pervasive and important a misuse of democratic
 vocabulary that it deserves its own case study, which is the subject of the final chapter. There, we shall see that the usurpation
 of liberal democratic language to disguise an antidemocratic
-
-INTRODUCTION
 
 managerial society is at the basis of the American public school
 system as it was restructured between 1910 and 1920.
@@ -1446,8 +1353,6 @@ right, or claims that starting from the ideal is at least the
 best way of realizing it. . . . Almost by definition, it follows
 from the focus of ideal theory that little or nothing will
 
-CHAPTER 1
-
 be said on actual historic oppression and its legacy in the
 present, or current ongoing oppression, though these may
 be gestured at in a vague or promissory way (as something
@@ -1479,8 +1384,6 @@ to do if it is within the bounds of her capacity to do it. If one
 ought to obey a law, it must be possible to obey that law. Otherwise, that law sets an impossible demand. On this view, the
 normative judgments of political philosophy are bounded by
 what is within the reasonable capacity to expect of human societies. On another view of normativity, ideals can guide even
-
-IN THE HISTORY OF POLITICAL THOUGHT
 
 if they cannot be completely realized. But even this view is
 bounded by the possibility of being guided by those ideals;
@@ -1517,8 +1420,6 @@ generated the theocracy of Tibet; and the religion of Christ,
 which seemed especially made for the poor and humble,
 has generated the Roman theocracy. . . . The decline of the
 
-CHAPTER 1
-
 old elite and its increasing arrogance at the time of the Reformation can be clearly seen in the emergence of the robber barons: Sickingen and Hutten are two types of such a
 revolutionary knighthood. As usual, the new elite leaned
 on the poor and humble; as usual, these believed in the
@@ -1547,8 +1448,6 @@ regarded as an authoritarian conclusion has been presented in
 the economic language of efficiency.
 
 It is one thing to dismiss descriptions of the regular misuse of democratic political ideals when they are presented
-
-IN THE HISTORY OF POLITICAL THOUGHT
 
 alongside National Socialist ideology or the Orwellian ideology of certain branches of contemporary social science. It is
 much more difficult to dismiss such descriptions when they
@@ -1579,8 +1478,6 @@ to cast off illusions. His worry with the democratic city is that
 most of its members are not philosophers and suffer under
 the illusions that philosophers have dispelled. The liberty
 granted by democracy gives tyrants the power of illusion over
-
-CHAPTER 1
 
 the masses. Democracy suffers from "an excess of liberty" that
 "seems destined to end up in slavery" (564a).
@@ -1615,8 +1512,6 @@ possibly have such an interest."9
 Rousseau calls the freedom humans have in the state of nature natural liberty. Natural liberty, for Rousseau, is a person's
 "unlimited right to anything that [she] is tempted by and can
 
-IN THE HISTORY OF POLITICAL THOUGHT
-
 get." The problem Rousseau seeks to answer is how, in civil
 society, humans can remain free, despite losing their natural
 liberty.10 Rousseau's solution is to motivate a distinct kind of
@@ -1649,8 +1544,6 @@ compelling others via forcible coercion. He means something
 that results in the appearance of an autonomous vote but is
 not. He uses the word "deception" to describe what is occurring in such cases, cases that are instances of "acclamation"
 
-CHAPTER 1
-
 rather than "casting votes." Demagogic propaganda, in the
 form of "intimidation or flattery," leads to acclamation rather
 than "casting votes." This is a classic statement of the problem
@@ -1681,8 +1574,6 @@ social and political authority, and any authority which violates
 these rights becomes illegitimate. The rights of the citizens are
 individual freedom, religious freedom, freedom of opinion,
 which includes the freedom to express oneself openly, the enjoyment of property, a guarantee against all arbitrary power."19
-
-IN THE HISTORY OF POLITICAL THOUGHT
 
 The general conception of liberty emerging from Rousseau
 is one that may allow for laws against propaganda. After all, it
@@ -1717,8 +1608,6 @@ Catholic Church.21
 
 Here, King follows a lengthy tradition in political philosophy
 in which "propaganda" refers to something acceptable in certain conditions in states that follow liberal democratic ideals.
-
-CHAPTER 1
 
 In W.E.B. Du Bois's paper "Criteria of Negro Art," published in
 1926, he calls on the African American artist to use what Du
@@ -1800,8 +1689,6 @@ this and similar ways.
 
 In this chapter, I provide my characterization of propaganda. Since political propaganda can occur in all political
 
-PROPAGANDA DEFINED
-
 systems, my characterization is perfectly general, intended
 to capture instances of propaganda regardless of political system. The chapter is structured around arguments against two
 claims about the nature of propaganda, which one might be
@@ -1831,8 +1718,6 @@ and then presents himself as "the people's protector" (565e),
 all the while intending to exploit them. Perhaps the concept
 of a demagogue, as Plato intends it, brings insincerity with it;
 perhaps, that is, a demagogue is someone who engages in insincere propaganda. I am not here interested in this question.
-
-CHAPTER 2
 
 The threat that a demagogue poses to liberal democracy does
 not require a book- length treatise. The threat I discuss is rather
@@ -1869,8 +1754,6 @@ communicating it indirectly.
 Here are two points to make in reply, which will be developed at length at various points in the book. First, I will
 give examples of propaganda in which someone is being
 
-PROPAGANDA DEFINED
-
 misleading, rather than stating something false, or even implicating something false. One expresses a truth, and relies on the
 audience's false beliefs to communicate goals that are worthwhile.8 Falsity is implicated in such cases, but not by means of
 the expression or communication of a falsehood. I argue that
@@ -1904,8 +1787,6 @@ to make him more skeptical. "You have lived in my house
 for a number of years, you know the way I think, and you
 have often said yourself that you have learned something
 from us and that your moral values accord with ours— how,
-
-CHAPTER 2
 
 in the light of all this, can you possibly support a party
 which, on account of my origin, denies me any right to be
@@ -1941,8 +1822,6 @@ understanding of propaganda to explain what is wrong with
 the insincerity condition. Explaining what is wrong with the
 insincerity condition on propaganda will reveal the important
 
-PROPAGANDA DEFINED
-
 connection between ideology and propaganda, which any
 account of propaganda must explain. The superficial connection is that someone in the grip of a flawed ideology will
 often express it in propaganda. Since many paradigm cases of
@@ -1976,8 +1855,6 @@ health menace, and clearly did believe the analogy was apt.
 Simultaneously, even he knew that his appeal to anti- Semitism
 was meant strategically. It is one thing if Hitler did not intend
 
-CHAPTER 2
-
 many of his anti- Semitic pronouncements to be strategic political claims. But he clearly did so intend. These are paradigm
 cases of propaganda. So we should want the account of propaganda to classify them as such. On the reasonable assumption
 that propaganda is the intended subject of his book, Klemperer rejects the restriction of the notion of propaganda to
@@ -2007,8 +1884,6 @@ flawed ideology can lead to the tendency to engage in propaganda. An account of 
 Klemperer's description of life under the Third Reich reveals the distinctive dangers of propaganda in totalitarian
 societies. In totalitarian societies, there is an official ministry
 
-PROPAGANDA DEFINED
-
 of propaganda. Because of that, it is easy in such societies not
 to take propaganda seriously. But because propaganda can be
 sincere, the danger propaganda poses in totalitarian societies
@@ -2037,8 +1912,6 @@ about what makes a particular instance of propaganda an effective instance. And 
 It is natural to think of representations themselves as propaganda. But my focus is rather on claims, or arguments, and representations only insofar as they play a role in these claims or
 arguments. An image showing Saddam Hussein as a little boy
 who needs to be punished plays a role in a propagandistic argument that America should invade Iraq. The image functions
-
-CHAPTER 2
 
 propagandistically in the argument. My task is to explain when
 arguments for certain goals or certain theories are propagandistic ones. This will involve talking about representations, but
@@ -2072,8 +1945,6 @@ debate.22 This is what I will call the classical sense of propaganda.
 Lying too is a betrayal of the rational will. But it is a different kind of betrayal of the rational will than propaganda. At
 least with lying, one purports to provide evidence. Propaganda
 
-PROPAGANDA DEFINED
-
 is worse than that. It attempts to unify opinion without attempting to appeal to our rational will at all. It bypasses any
 sense of autonomous decision.
 
@@ -2105,8 +1976,6 @@ or free market exchange between equals. What will be needed
 to keep the state stable, to keep the citizens from fomenting
 dissent, is some way to hide the gap between illiberal reality
 
-CHAPTER 2
-
 and professed liberal ideals. For example, perhaps the liberal
 democratic ideals are used to refer to a political system that
 tolerates massive political inequality (as some think when "liberalism" is used to refer to neoliberalism). Propaganda in this
@@ -2135,8 +2004,6 @@ vocabulary that is responsible for many cases in which we do
 not notice gaps between ideals and reality.
 
 The classical conception of propaganda and the conception of propaganda as biased speech are too rough to help us
-
-PROPAGANDA DEFINED
 
 understand the distinctive nature of the propagandistic use of
 political concepts. We began this chapter with a discussion of
@@ -2167,8 +2034,6 @@ in the sense of this book essentially exploits an ideal. The ideal
 can be aesthetic, health- related, economic, or political. Advertising is a kind of propaganda that typically exploits an aesthetic
 ideal or an ideal of health. Given my focus in this book, I will
 concentrate on political ideals. I will characterize propaganda
-
-CHAPTER 2
 
 using political ideals, bearing in mind that the characterization is meant to be general across different domains.
 
@@ -2203,8 +2068,6 @@ eroding ideals. The first distinction between kinds of propaganda has to do with
 ideals it appears to embody. This is the distinction between
 supporting and undermining propaganda.
 
-PROPAGANDA DEFINED
-
 Supporting Propaganda: A contribution to public discourse
 that is presented as an embodiment of certain ideals, yet is
 of a kind that tends to increase the realization of those very
@@ -2237,8 +2100,6 @@ is very specific. It requires the call to action to be one that
 runs counter to the very political ideal it is explicitly represented as embodying. Daniel Putnam (in personal correspondence) suggested to me a more expansive characterization of
 propaganda, according to which one political ideal is being
 
-CHAPTER 2
-
 deployed to wear down another political ideal held within the
 same political system. Consider, for example, the political ideal
 of liberty. This is a political ideal of the United States. Another
@@ -2270,8 +2131,6 @@ A media source or a school can be a vehicle of propaganda,
 even though it never produces actual instances of propaganda.
 It can, for example, be a vehicle of propaganda in virtue of
 
-PROPAGANDA DEFINED
-
 withholding crucial information that, by its nature, it is supposed to provide. A news station that represents itself as providing all the relevant news for political decision making is,
 intuitively, a vehicle of propaganda if it regularly withholds
 highly relevant news for political decision making. A school
@@ -2298,8 +2157,6 @@ presents itself as reporting all relevant news for political decision making in 
 for decision making, it too is a vehicle of propaganda, even if
 it never produces any actual propagandistic utterances. It is a
 vehicle of propaganda in virtue of undermining the political
-
-CHAPTER 2
 
 ideal it represents itself as embodying, that of fully informing
 its audience.26
@@ -2332,8 +2189,6 @@ that product is in the normal case irrelevant to achieving that
 ideal. Effective advertisement exploits flawed ideology that
 connects, for example, material possessions to aesthetic worth.
 
-PROPAGANDA DEFINED
-
 Undermining propaganda by its nature undermines a political ideal. It undermines a political ideal by using it to communicate a message that is inconsistent with it. As I will explain below, it is able to achieve the task by exploiting already
 existing flawed ideological belief, and even contributing to the
 formation of such belief. It is flawed ideological belief that masks
@@ -2365,8 +2220,6 @@ bypass the rational will of others in the service of some goal,
 the Kantian would regard propaganda in either sense as a
 moral violation. In the Kantian sense, propaganda, regardless
 of goals, is not morally acceptable. The ethical basis of Kantian
-
-CHAPTER 2
 
 philosophy has an undeniable purchase on our intuitive moral
 judgments, and this is no doubt the source of the sense that
@@ -2402,8 +2255,6 @@ be addressed. So it is not itself part of democratic deliberation,
 properly conceived. But there are certain examples of supporting propaganda that are perfectly acceptable in a democracy.
 For example, cigarette packs in many democratic countries
 
-PROPAGANDA DEFINED
-
 carry stark warnings, such as "cigarettes kill." These are clearly
 intended to overwhelm affective capacities to further the realization of ideals, in this case, the ideal of health. But propagandistic warning labels on cigarettes seem democratically
 acceptable, in a way that Milosevic's propaganda is not. What
@@ -2438,8 +2289,6 @@ disparities between the degraded form that urban Blacks could
 afford and the purer version favored by wealthy whites. Hart
 persuasively argues that it is this flawed ideology, so explicit
 
-CHAPTER 2
-
 in the early part of the twentieth century, which operated
 tacitly during the worst days of the "drug war," when politicians convinced citizens that these sentencing disparities were
 consistent with law and order. The flawed ideology of Black
@@ -2466,8 +2315,6 @@ Here is a third example of undermining propaganda. A
 poster from the Cultural Revolution in China states: "毛主
 席的无产阶级革命胜利万岁!" Translated literally, it means
 "Chairman Mao's proletariat revolution triumphs ten thousand years!" Slightly more loosely, "Let Chairman Mao's
-
-PROPAGANDA DEFINED
 
 proletariat revolution triumph forever!" Here are the literal
 correspondences between the phrases:
@@ -2505,8 +2352,6 @@ was therefore presented as an embodiment of the principles
 of democracy. Yet the unlimited corporate donations that Citizens United gave rise to are themselves an existential threat
 to democracy, promising to hand over the mechanism of government to corporations that do the bulk of funding for political campaigns.34
 
-CHAPTER 2
-
 Here is a fifth example. In the United States, some Christian televangelists have promoted what has come to be known
 as "the Prosperity Gospel." According to this doctrine, Jesus
 shows his favor by dispensing wealth. Accepting Jesus is the
@@ -2534,8 +2379,6 @@ the "Columbia School" of historians, John Burgess and William Dunning, that the 
 about by incapacity of freed Black citizens to govern themselves. Du Bois's alternative account of the failure of Reconstruction is that white economic elites exploited the racism
 of poor whites to prevent poor whites and newly freed Blacks
 from joining together in a labor movement with unified class
-
-PROPAGANDA DEFINED
 
 interests. Though it took several decades, the accuracy of Du
 Bois's account of why Reconstruction came to an end has
@@ -2571,8 +2414,6 @@ the humanity and value of her people. Yet he argues that the
 Black artist cannot simply present the case for Black humanity
 directly:
 
-CHAPTER 2
-
 Suppose you were to write a story and put in it the kind of
 people you know and like and imagine. You might get it
 published and you might not. And the "might not" is still
@@ -2605,8 +2446,6 @@ ponies. In 1960— a year of tremendous escalation in the Civil
 Rights movement and a time of growing politicization of
 the jazz community— there was certainly the possibility that
 Coltrane looked upon the lyrics with an ironic eye.39
-
-PROPAGANDA DEFINED
 
 Monson's persuasive analysis of Coltrane's "My Favorite
 Things" represents it as an exemplar of Du Bois's call. Coltrane
@@ -2641,8 +2480,6 @@ ideals. But in focusing on those forms of deviance, it ends up
 demonstrating that the unrestricted form of the ideal must
 be rejected.
 
-CHAPTER 2
-
 The paper is presented as an attempt to justify a white ideology that we are in conditions of justice, and so the ideals of
 obedience to authority and pursuit of legitimate work can be
 exceptionless. However, what the paper in fact does is undermine the exceptionless ideal, by rejecting the presupposition
@@ -2675,8 +2512,6 @@ description of any preexisting view here). One might naturally think, in the abs
 argument for neoliberalism that, for example, appeals to the
 founding fathers' conception of liberalism to justify the view
 
-PROPAGANDA DEFINED
-
 that markets are the only legitimate way to divide goods that
 is consistent with liberty is a deformation or undermining of
 the ideals of liberalism in a way that is characteristic of undermining propaganda. Yet market exchanges are included in the
@@ -2706,8 +2541,6 @@ very particular conception of market exchange, one connected
 to political equality.43 But the system of market exchange prevalent in the United States is one that has systematically barred
 certain minorities from participation in contracts, for example, Blacks from fair mortgages.44 It also typically involves unfair exchanges between rich and poor. If so, it is undermining propaganda to represent the liberalism of Adam Smith
 as connected to market exchange as historically practiced in
-
-CHAPTER 2
 
 the United States. Market exchange as historically practiced in
 the United States does not have the connection to political
@@ -2741,8 +2574,6 @@ of this book, in the United States. The American Republican
 Party does not draw votes from Black and Hispanic voters. It
 has engaged in a multiyear, concerted, and completely successful effort to appeal to the fear of voter impersonation to justify
 
-PROPAGANDA DEFINED
-
 harsh voter registration laws that effectively disenfranchise
 Black and Hispanic voters. In 2012, a news organization undertook an "exhaustive public records search," involving "thousands of requests to elections officers in all fifty states, asking
 for every case of fraudulent activity including registration
@@ -2774,8 +2605,6 @@ would not recognize that the message is demagogic. But this
 is of course one reason why undermining demagoguery is so
 insidious.
 
-CHAPTER 2
-
 Of course, the characterization of demagoguery I have provided is obviously consistent, as any characterization of demagoguery must be, with insincere attempts at communication
 being demagogic as well. The insincere demagogue seeks to
 exploit flawed ideology that prevents the audience from recognizing the tension between the desired goal of the communicative act and the political ideal it is presented as embodying.
@@ -2803,8 +2632,6 @@ flawed ideology, in the sense I will explain in chapters 5 and 6.
 In many cases of undermining propaganda, the attempt of
 the contribution will be to make it the case, by the very act of
 making the contribution, that the political ideal should be reinterpreted to be consistent with the desired goal. If a political
-
-PROPAGANDA DEFINED
 
 ideal must be reinterpreted to fit the goal that it is being used
 to advance, what that simply means is that the goal is not consistent with the original meaning of the political ideal. The
@@ -2840,8 +2667,6 @@ the chapter:
 One might object, however, that the account I've offered is
 not helpful, for whether group membership is relevant in
 
-CHAPTER 2
-
 explaining an injustice will always be a matter of controversy. In short, the account does not help us resolve the very
 disagreements that gave us reason to develop an account of
 group oppression in the first place.49
@@ -2875,8 +2700,6 @@ not been to offer an epistemic method or criterion for distinguishing oppression
 and wrongs."50 Mutatis mutandis for this chapter's discussion
 of propaganda. But surely there remains a lingering concern.
 
-PROPAGANDA DEFINED
-
 What is then the point of producing a metaphysical account of
 fundamental political kinds, when such accounts cannot play
 a central role in resolving the relevant political debates? What
@@ -2909,8 +2732,6 @@ of the sort I have provided.
 
 Let us suppose for the sake of argument that it is unknowable whether the central claims of the Catholic Church are
 
-CHAPTER 2
-
 true. The Church has a ministry of propaganda; indeed, the
 term "propaganda" derives from it. The Sacred Congregation
 de Propaganda Fide is tasked with spreading Catholicism, in
@@ -2939,8 +2760,6 @@ could come to know that they are false, the intuitive view is
 that the productions of The Sacred Congregation de Propaganda Fide are demagoguery, albeit forever to be recognized
 as such. Suppressing other belief systems in the name of truth,
 with the goal of instilling false belief systems in their place, is
-
-PROPAGANDA DEFINED
 
 characteristically demagogic. So it is clearly possible for a sincere, well- intentioned person to engage in demagoguery unwittingly, and with no one ever recognizing it as demagoguery.
 It is, as we have just seen, possible for there to be a case in
@@ -2972,8 +2791,6 @@ claims about what falls under the category of propaganda.
 Accusations of demagoguery in particular will invariably be
 political, because many people with flawed ideologies do not
 accept that their ideologies are flawed. Some charges of demagoguery will be intentionally strategic, and others will be
-
-CHAPTER 2
 
 taken to be intentionally strategic, even when they are not. But
 this book is about the nature of propaganda and propaganda
@@ -3009,8 +2826,6 @@ about themselves. But they still believe that Christ is the Savior, and if Chris
 argue that we all have ideological beliefs, which are simply
 beliefs with certain properties. It may be, I will argue, essential for creatures limited by time and memory to have beliefs
 
-PROPAGANDA DEFINED
-
 with these properties. But beliefs with these properties, that is,
 ideological beliefs, can be true, they can be known, and they
 can be central to our best theoretical understanding. If a neutral stance means a stance without ideological belief, then the
@@ -3044,8 +2859,6 @@ reality. It is an error to try to evade the facts of our epistemic
 limitations by adopting metaphysical antirealism. We must
 come to terms with the fact of our limited perspective while
 occupying that very perspective. There is simply no other
-
-CHAPTER 2
 
 option. Some charges of demagoguery will be obviously correct: for example, a European anti- Semitic political party's
 charge that Jews are corrupting the social fabric of the nation,
@@ -3081,8 +2894,6 @@ representation that elicits feelings of nostalgia for the land,
 with the goal of motivating an audience to protect its natural
 resources, is propaganda.
 
-PROPAGANDA DEFINED
-
 Nondemagogic propaganda can also appeal to flawed ideology. Suppose for the sake of argument that the central doctrines of Christianity are false (if you are a devout Christian,
 replace "Christian" with "Muslim" in what follows). An argument about social welfare spending that appeals to, for example, the ideal of political equality, but relies on the religious
 teachings of Christianity to bring about the effect of furthering the ideal of equality, is a case of supporting propaganda
@@ -3110,8 +2921,6 @@ role in political philosophy, and its political ideals— the democratic ideals�
 
 Every political system has stability as an ideal, as well as
 law and order. Democracy adds to that the ideals of liberty
-
-CHAPTER 2
 
 and equality. If all citizens participate equally in deliberation
 about the policies that will hold for all of them, then any policy that applies to all will be at least one that, during the process of deliberation, will be forced to reckon with the perspectives and interests of all citizens. Because of one's own political
@@ -3217,8 +3026,6 @@ when discussing additional tax cuts for the wealthy, and the
 Republicans invoke deficits when confronted with additional
 entitlement programs or additional spending on existing ones.
 
-CHAPTER 3
-
 A widening government deficit also seems similar to personal
 borrowing, an excess of which leads to reduced credit scores,
 calls from bill collectors, and possibly foreclosure. So it was
@@ -3252,8 +3059,6 @@ through their private borrowing.
 
 Sadly, even many experts do not precisely understand the
 benefits and risks of government financing through deficits.
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 The short- term benefits in terms of jobs and income are clear
 (just ask any lobbyist who wants to maintain spending on
@@ -3289,8 +3094,6 @@ take nearly 1 percent of US GDP (nearly 150 billion dollars)
 and resulted in the loss of an estimated 750,000 jobs.4 This can
 be regarded as some empirical confirmation of the view evident from democratic political theory that propaganda that
 
-CHAPTER 3
-
 exploits democratic ideals, even if wielded for a good purpose,
 occludes democratic deliberation.
 
@@ -3323,8 +3126,6 @@ in a democracy, we will be in a much better position to recognize cases of propa
 United States. So my goal is to explain some basic details of
 democratic political theory, which will allow us to see both
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 why the ideals governing political speech are so important in
 a democracy and which ideals are the most plausible. This will
 take some work. But it is essential to identifying the structure
@@ -3356,8 +3157,6 @@ public political forum:
 
 the discourse of judges in their decisions, and especially
 of the judges of a supreme court; the discourse of government officials, especially chief executives and legislators;
-
-CHAPTER 3
 
 and finally, the discourse of candidates for public office and
 their campaign managers, especially in their public oratory,
@@ -3396,8 +3195,6 @@ some of the citizens.
 Suppose you are part of a group jointly deliberating about
 a policy the group intends to adopt. Perhaps it is a town hall
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 meeting about whether to allow fracking in exchange for the
 building of a school or some jobs. Suppose you are in the
 group, and the policy runs counter to your own self- interest.
@@ -3432,8 +3229,6 @@ cases. The deliberation and policy were both unfair and bad, or
 fair and good, respectively. What about the impure cases? That
 is, what about a fair deliberative process that leads, because of
 
-CHAPTER 3
-
 false beliefs due to a flawed ideology, for example, to a policy
 that is bad for the community? Or what about an unfair deliberative process that bypasses some of the community's unreasonable and irrational members to arrive at a policy that is
 good for the community? Democratic political theory divides
@@ -3463,8 +3258,6 @@ since both rightly presuppose the value of fair joint deliberation. And it is fa
 propaganda.
 
 The policies that result from discussion involving deception and trickery are not democratically legitimate. The person who loses out in a discussion subject to devious machinations is analogous to someone who has lost her freedom in an
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 unjust war. Governance by the rules that emerge from such a
 process results in domination, rather than preservation of autonomy. In order for the principles decided upon by a group
@@ -3496,8 +3289,6 @@ democratic state are typically born into a state with already existing laws. Bec
 into account the fact that the laws will apply to people who
 did not have the opportunity to participate in their formation.
 The laws therefore must be crafted via normative ideals that
-
-CHAPTER 3
 
 take into account the views of those not yet born, as well as of
 children who, while not at that point capable of deliberation,
@@ -3533,8 +3324,6 @@ Royal in Paris in 1819, "The Liberty of the Ancients Compared
 with That of the Moderns." The liberty of the moderns is what
 Plato is mocking as the chief virtue of democracy. The liberty
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 of the ancients is what Aristotle argues is the chief virtue of
 democracy.10 It is because of their different conceptions of democracy that Plato concluded that it was the least stable political system and Aristotle concluded that it was the most stable
 political system.
@@ -3565,8 +3354,6 @@ in a democracy is speech that presents itself as embodying the
 normative ideals of public reason but that in fact contributes
 content that can be expected by a rational person in the situation to erode those very ideals. Propaganda in a democracy in
 fact often takes this form: speech that inhibits, rather than furthers, the ideals of public reason. To gain more clarity on the
-
-CHAPTER 3
 
 structure of propaganda in a liberal democracy, we must have
 a better sense of plausible normative ideals of public reason.
@@ -3600,8 +3387,6 @@ be justified, and be assessed solely by its impact on the truth
 of the issue at hand. Let's say that rational contributions to a
 debate are legitimately justified claims (ones "backed up by evidence") that contribute to a rational resolution of the debate.
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 A claim contributes to a rational resolution of a debate only if
 it bears significantly on the likelihood of the issue under debate. For example, a claim would be a rational contribution to
 a debate about whether or not invading Iraq is the right thing
@@ -3634,8 +3419,6 @@ an immediate, nonrational effect on the subsequent debate
 about the legislation of child crime. Over forty states swiftly
 enacted draconian new legislation cracking down on violent
 
-CHAPTER 3
-
 child crime. One can imagine, in this context, a politician
 using the phrase "inner- city youth" in favor of such legislation.
 But the debate had been polluted by the introduction of the
@@ -3667,8 +3450,6 @@ to them. The propaganda involved in climate- science denial is
 typically of this sort.
 
 If theoretical reason is the norm of public reason, then reasons advanced in public political forums are legitimate insofar
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 as they play a role in a rational resolution of the issue. The
 issue under debate might be, for example, "Is it in the public
@@ -3704,8 +3485,6 @@ fully practically rational and have imagined themselves into
 "the original position." That is, in adjudicating the principles
 of justice, one must suspend belief about one's location in
 
-CHAPTER 3
-
 society, where society is conceived of as humanity, and employ
 one's practical rationality to decide what principles should
 govern a society in which one does not know where one is
@@ -3736,8 +3515,6 @@ the right result, because claims that have their source in selfinterest and are 
 paradigmatically the kinds of claims made in illegitimate attempts to gain power for a particular interest group.
 
 For example, a senator wishing to do a favor for an oil company or a private prison company for the sake of a campaign
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 donation might deliver a speech in favor of a piece of legislation that favors the source of the potential campaign contributor. From the perspective of people not benefiting from those
 campaign donations, the reasons the senator gives that come
@@ -3773,8 +3550,6 @@ Despite the appeal of practical rationality impartialism, it is
 not the most central ideal of public reason in democratic political theory, either historically or currently. Democratic political theory has long favored another ideal, according to which
 a democratic community is one that fosters certain kinds of
 
-CHAPTER 3
-
 attitudes toward one's fellow citizens. In The Souls of Black Folk,
 Du Bois brings our attention to this normative ideal of public
 reason by describing the consequences of its complete failure
@@ -3807,8 +3582,6 @@ writes in "Letter from a Birmingham Jail," "A law is unjust if
 it is inflicted on a minority that, as a result of being denied
 the right to vote, had no part in enacting or devising the law."
 But Du Bois is not merely making King's point. He is rather
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 bringing our attention to what he seems to regard as a more
 central reason the laws are not democratically legitimate. It
@@ -3843,8 +3616,6 @@ is this that distinguishes mere paternalism from democracy.
 The sociologist Manfred Stanley articulates the need in a
 democratic society for this kind of capacity to take the perspective of the other:
 
-CHAPTER 3
-
 When a society evolves into a condition that is so complex
 and fragmented by social class and occupational specialization that great sociopsychic distance between population
 groups becomes a normal state of affairs, then insufficient
@@ -3874,8 +3645,6 @@ situation of another. Following Darwall, let's call this capacity
 cognitive empathy. It is not completely clear how to characterize cognitive empathy, since it is not completely clear what it
 is to imagine oneself as someone in the situation of another.
 The philosopher Laurie Paul has argued recently that it is
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 not possible to imaginatively place oneself in the situation of
 others who have had dramatically different life experiences.
@@ -3908,8 +3677,6 @@ raised by Paul's work is therefore to seek a norm of public reason that captures
 a strong cognitive capacity as perspective sharing.
 
 A different strategy is to take cognitive empathy as an affective ideal, which may function to regulate mutual policymaking,
-
-CHAPTER 3
 
 without ever being actually embodied, or capable of being embodied, in practice. According to this strategy, the norms of
 public reason are ideals. But ideals can perform a regulative
@@ -3945,8 +3712,6 @@ Reasonableness requires any contribution to political discussion, for example, i
 a reason one gives as justifiable to another presupposes "taking
 the role of the other" in some relevant sense.
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 Let us set aside theoretical rationality and focus instead on
 the contrast between reasonableness and practical rationality,
 the kind of rationality exemplified in selecting the most effective means to further various ends (that are not truth or goodness). In contrast, a reasonable contribution is one that "we
@@ -3981,8 +3746,6 @@ the peace process.
 The Israel Project is an organization that promotes Israel's image abroad, particularly in the United States. During
 the war with Gaza in 2009, they commissioned the American
 
-CHAPTER 3
-
 propagandist Frank Luntz to create a pamphlet to aid in image
 repair. The 2009 Global Language Dictionary is an aid to
 Israel's public relations during a highly asymmetrical war with
@@ -4010,8 +3773,6 @@ Arafat, which is suspect," and that he "has denied the Holocaust." Luntz's advic
 that reasonableness in negotiations, undergirded by empathy for one's negotiating partners, is the expected norm of
 public discourse. His documents attempt to explain how to
 feign reasonableness while communicating a message that
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 undermines the reasonableness of one's interlocutors in the
 eyes of third parties.
@@ -4048,8 +3809,6 @@ to a debate that makes it subsequently more difficult to follow
 the dictates of theoretical reason (and this consequence is not
 made up for by its positive contribution to the settling of the
 
-CHAPTER 3
-
 debate). If the central ideal governing public debate is reasonableness, a very different picture of the analogous paradigm
 case of propaganda emerges. If reasonableness is the central
 norm governing public debate, paradigm cases of propaganda
@@ -4079,8 +3838,6 @@ the effect of eroding empathy for a targeted group.
 Suppose that reasonableness is the normative ideal governing public reason. Those who contribute policy proposals to public reason that apply to everyone, or arguments for
 such policy proposals, must hold themselves accountable to
 every one who may be subject to them. It is not reasonable to
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 propose a policy that, from the perspective of another, is unreasonable. The normative ideal of reasonableness is the demand "to live politically with others in the light of reasons all
 might reasonably be expected to endorse."32
@@ -4112,8 +3869,6 @@ of this tradition from an enterprise that would license propaganda, in the sense
 I will demonstrate, just with the points I have developed up
 to this point, that there is a kind of propaganda that is politically necessary to use to overcome fundamental obstacles to
 
-CHAPTER 3
-
 the realization of democratic ideals. This kind of propaganda
 stands in a specific structural relation to demagoguery in liberal democracy.
 
@@ -4141,8 +3896,6 @@ sin of monotony and disproportion, is that it perpetuates
 the position of group inferiority even in crying out against
 it. For it leaves and speaks under the shadow of a dominant majority whom it harangues, cajoles, threatens or
 supplicates.
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 By "propaganda," both Du Bois and Locke mean a kind of
 speech that uses "haranguing, cajoling, threatening, or supplicating" as a method to force a dominant majority to expand
@@ -4178,8 +3931,6 @@ color. Public debate in Du Bois's time obviously fell well short
 of the ideals of reasonableness, since it did not include America's Black population within the framework of mutual respect
 and mutual accountability. Du Bois calls for Black artists to
 
-CHAPTER 3
-
 use their art to increase the reasonableness of public discourse,
 by forcing the recognition that the framework of mutual respect was too narrowly drawn.
 
@@ -4208,8 +3959,6 @@ the Negro that is a classic example of aspirational speech, in
 Rogers's sense. It is a call for attention to the perspectives of
 Black women that elicits empathy for the situation in which
 they find themselves, the situation of having an unrecognized
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 perspective. In a justly famous passage, she writes, of "the
 American Negro woman,"
@@ -4247,8 +3996,6 @@ Coltrane lures the white listener into the song by appealing
 to white aesthetic ideals. Once the listener has been tempted
 into attention, Coltrane uses the song to reveal the previously
 
-CHAPTER 3
-
 invisible Black perspective. In some sense, this is misleading.
 But is it manipulation of the sort that would concern the
 Kantian?
@@ -4281,8 +4028,6 @@ that is speech that uses "haranguing, cajoling, threatening, or
 supplicating" as a method to force a dominant majority to expand the domain of respect and empathy to include a persecuted and ignored minority. There is a structural reason why
 this species of propaganda is a necessity in treating failures
 of liberal democracy. There are many times in which the perspectives of a group are invisible from the rest of the citizens.
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 This is so, for example, when there is excessive and irrational
 fear of that group, or excessive and irrational commitment to
@@ -4318,8 +4063,6 @@ by the liberal democratic ideals of autonomy, equality, and reason restrict the 
 subgroup of citizens (for example, white men). I have argued,
 following Melvin Rogers and others, that there is no obvious
 
-CHAPTER 3
-
 way of using reason, or reasonable claims, to get members of
 the dominant subgroup to extend the application of liberal
 ideals to citizens who are not included (such as, in the history
@@ -4349,8 +4092,6 @@ to whites. His method is to appeal to freedom itself, that liberal democratic id
 in which it is restricted to whites. His rhetoric undermines
 an understanding of those ideals thus restricted, by calling
 attention to the fact that those ideals are deeply cherished
-
-PROPAGANDA IN LIBERAL DEMOCRACY
 
 among nonwhites as well. The goal here is to elicit empathy,
 by drawing attention to the fact that cherished ideals among
@@ -4388,8 +4129,6 @@ been released.43 As a consequence, there is no one recognized
 by the polity who can speak from the perspective of prisoners.
 Prisoners have become dehumanized as a consequence. They
 
-CHAPTER 3
-
 now serve as a strategic instrument in politics. A politician
 summons up crime to elicit fear, and then offers himself as
 the instrument to satisfy the desire for retribution (though the
@@ -4424,8 +4163,6 @@ Amendment, which banned forced unpaid labor, allows an
 exception in the case of prison labor. This has offered a large
 opportunity for states to replace good, high- paying public service jobs with often free prison labor. The governor of the state
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 of Wisconsin in the United States, Scott Walker, in 2011 pushed
 through a law eliminating collective bargaining by public sector unions in Wisconsin, effectively destroying the unions in a
 state known for its history of union organizing. The law eliminated the ability of unions to label certain jobs as "union only"
@@ -4456,8 +4193,6 @@ and Locke's notion of propaganda is to make those contributing to public reason 
 of an oppressed group. In effect, it is to make an allegedly
 democratic state into a genuinely democratic state: to realize
 democracy. To have an official ministry of propaganda is to
-
-CHAPTER 3
 
 admit that the state is not democratic. It is to admit that there
 is still work to be done to incorporate some of those subject to
@@ -4490,8 +4225,6 @@ two examples of ideals of public reason. The first ideal of public reason centra
 On this conception, demagoguery is discourse that appears to
 make a rational contribution to the debate at hand, but instead
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 serves to cut off rational debate by enlisting the forces of passion to make an impartial reasoned stance impossible. This fits
 Victor Klemperer's description of the effects of using the word
 "heroic" around those raised under the education system and
@@ -4521,8 +4254,6 @@ in 2003, it is undeniable that appeals to passions and fear are
 often more effective when wheeled against an enemy one considers to be morally repugnant, to lack the norms of humanity.
 In such cases, the effectiveness of discourse for halting ideals of
 theoretical rationality must be explained in terms of its effectiveness for ideals of reasonableness, or ideals sufficiently like
-
-CHAPTER 3
 
 reasonableness. The reason we cut off rational debate is usually
 because of a loss of empathy. It may be, for example, that the
@@ -4557,8 +4288,6 @@ is reasonableness, then it follows that a paradigm way propaganda in a democrati
 perspectives of some of our fellow citizens as unworthy of consideration (and, in the international sphere, representing the
 perspectives of our enemies as such). But it must be acknowledged that much propaganda does not seem to be of this form.
 
-PROPAGANDA IN LIBERAL DEMOCRACY
-
 For example, in the election in 2012, in South Carolina, Mitt
 Romney accused President Barack Obama of wanting to lift
 the work requirements of welfare. This was widely acknowledged to be propaganda, for example, it was clearly deceptive,
@@ -4591,8 +4320,6 @@ the strongest predictor of the perception that welfare recipients are undeservin
 evidence that "welfare" has been connected with a flawed
 ideology of race, in addition to the studies Gilens himself
 has carried out. Gilens reports similar results from the "welfare mother" experiment from the National Race and Politics
-
-CHAPTER 3
 
 Study of 1991: "[R]espondents are asked their impressions of a
 welfare recipient described as either a Black or white woman
@@ -4716,8 +4443,6 @@ plays a role in bringing into the context false ideological beliefs
 that are apparently not part of the discussion. As we shall see,
 there is a great deal of evidence that there is such a linguistic
 
-CHAPTER 4
-
 mechanism. And perhaps there are analogous mechanisms in
 the case of images; indeed, the inspiration point in my analysis, Rae Langton and Caroline West's theory of pornography
 from 1999, employs similar formal semantic and pragmatic
@@ -4745,8 +4470,6 @@ her response to Judith Butler, it is a model from which Langton distances hersel
 at a three year old is a command to the three year old to do
 something. Pornographic speech could function as a mechanism of subordination by delivering imperative- like orders
 of some kind. The thought here is not that imperatives bring
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 about their truth. Commands must be associated with practical authority in order to have this function. But so too, as I
 will argue, does subordinating speech. The relation between
@@ -4778,8 +4501,6 @@ from debate, while simultaneously representing oneself as contributing to the de
 If reasonableness is the norm of public reason, we should
 expect there to be linguistic mechanisms, that is, expressions,
 with the following three properties:
-
-CHAPTER 4
 
 1.
 
@@ -4818,8 +4539,6 @@ The notion of a linguistic context is central in contemporary
 formal semantics and pragmatics. What a sentence of a natural
 language says depends upon the linguistic context in which
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 it is uttered. In a context in 2014 in which President Barack
 Obama utters the sentence, "I am the president of the United
 States," what he says is true. In a context in which the time is
@@ -4851,8 +4570,6 @@ According to Stalnaker's account of communication, successful communication take
 I ask you where the gas station is; you reply that it is to the
 right. You express a proposition, one true in just those possible
 worlds in which the gas station is to the right, and false in the
-
-CHAPTER 4
 
 others. When I accept your assertion, the common ground is
 updated. In the new common ground, all the possible worlds
@@ -4886,8 +4603,6 @@ course of inquiry.4 So Roberts adds to the common ground a
 record of the questions under discussion.5 Roberts thus argues
 that contexts contain not just sets of propositions, but other
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 elements as well. If so, linguistic meaning can change not just
 beliefs, but also other psychological states.
 
@@ -4917,8 +4632,6 @@ case that, when considering any given bird in context, the ordering on possible 
 which that bird flies are closer than worlds in which that bird
 doesn't fly. This reflects the bias toward situations in which a
 given bird that one encounters flies.
-
-CHAPTER 4
 
 Another notion we need, in addition to that of a linguistic
 context, is the distinction between at- issue content and not- atissue content. Christopher Potts uses the following two examples to illustrate the distinction between at- issue and not- atissue content.9 The first involves what he calls a "supplemental
@@ -4950,8 +4663,6 @@ I spent part of every summer until I was ten with my grandmother. To assert some
 something is to advance it as something the speaker knows,
 and to thereby propose that its content be added to the common ground. Subsequent argument is debate about whether
 or not to accept the proposal.
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 In contrast, the claim about my grandmother, that she lived
 in a working- class suburb of Boston, is additional material
@@ -4985,8 +4696,6 @@ that John solved the problem. Linguists generally hold that an
 utterance of (4) presupposes the proposition that the speaker
 has a wife, and asserts that she is from Chicago. One reason to
 think that this is the right account is that denying the speaker's claim is naturally understood as denying what is asserted,
-
-CHAPTER 4
 
 while agreeing with what is presupposed. So if someone asserts (3), and I respond with "that's false," the interpretation of
 my denial is as denying that John solved the problem, not as
@@ -5027,8 +4736,6 @@ epistemic "must" in English:
 If someone utters (6), she communicates that she did not
 herself experience rain, that she inferred it indirectly. Kai von
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 Fintel and Anthony Gillies have convincingly argued that this
 feature of "must" is like the evidential markings in other languages. (Von Fintel and Gillies's view is unsurprising, because
 epistemic "must" is of course by definition, like evidentials,
@@ -5063,8 +4770,6 @@ sentence following "if," namely, "the problem was solved." Similarly, (8) presup
 
 In contrast, not- at- issue content cannot be "filtered."
 
-CHAPTER 4
-
 One kind of linguistic propaganda involves repeated association between words and social meanings. Repeated association is also the mechanism by which conventional meaning
 is formed; it is because people use "dogs" to refer to dogs, repeatedly, that "dogs" comes to refer to dogs. My claim in this
 chapter is that when propagandists use repeated association
@@ -5094,8 +4799,6 @@ or not. However, I will replace their appeal to presupposition
 with the related category of not- at- issue content. The fact that
 not- at- issue content is, in Murray's words, "directly added" to
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 the common ground is what makes it rife for propagandistic
 abuse. The fact that the not- at- issue content cannot be canceled is what makes it so effective.
 
@@ -5122,8 +4825,6 @@ original notion, to be discussed in a subsequent chapter). I am
 going to use Leslie's insights, together with the mechanisms
 discussed by Veltman in his theory of generics, to explain various features of propaganda. I am thereby exploiting Leslie's
 important insight that generics are or can play the role of
-
-CHAPTER 4
 
 stereotypes, and the existence of a semantic account of at least
 one effect of generics that I find persuasive.
@@ -5157,8 +4858,6 @@ Since decreasing empathy for a group runs counter to reasonability, its not- at-
 The division in the theory of meaning between expressivist
 theories and content theories is central in twentieth- century
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 philosophy. For example, theorists of value who hold that
 there are no ethical facts treat ethical assertion as expressive,
 rather than contentful. Thus, they free themselves from commitment to a domain of moral facts. The problem facing expressivist theories has always been that they cannot explain
@@ -5188,8 +4887,6 @@ essential to us. But the basic point of Starr's paper is that it is
 possible to represent imperatives as having a perfectly formally
 articulable effect on the context set, without representing that
 effect as adding a content. In short, one can accommodate the
-
-CHAPTER 4
 
 contextual effects of an imperative without representing them
 as a proposal to add a proposition to the common ground.
@@ -5225,8 +4922,6 @@ kind; it aims to fit the world by describing it. An utterance of
 "birds fly" has the effect of leading one to think that worlds
 are more likely in which a bird one encounters flies. Langton
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 is correct that subordinating speech is not adequately characterized in terms of the preference orderings employed in the
 semantics of imperatives, because it aims to fit the world by
 describing it. But it is adequately characterized by the preference ordering in Veltman's analysis of generics. A use of the
@@ -5257,8 +4952,6 @@ himself give up when I present him with a good counterargument. Telling someone 
 is a command, not an assertion; it is what Pierre Bourdieu and
 Jean- Claude Passeron call a "game of fictitious communication."18 The social studies teacher in school is not genuinely
 proposing her claims for debate.
-
-CHAPTER 4
 
 There are many other resources in formal semantics that can
 be used to model the effects of subordinating speech. A great
@@ -5291,8 +4984,6 @@ is socializing with members of the derogated group.
 It is plausible that a word like "welfare" has, in the American political context, as its not- at- issue content, a generic content like that Blacks are lazy, as Leslie's view would perhaps
 predict. On Veltman's view, the result of using the term "welfare" would be to change the preference ordering over worlds
 in the linguistic context so that, for any given American citizen of African descent, worlds in which that person is lazy are
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 closer than worlds in which he is not lazy. In this way, uses of
 the term "welfare" change the context in ways that go beyond
@@ -5327,8 +5018,6 @@ command.
 As we saw previously, Samuel Huntington's solution to the
 problem of "an excess of democracy" in the United States in
 
-CHAPTER 4
-
 the 1960s and 1970s was to recommend "claims of expertise,
 seniority, experience, and special talents" in order to "override
 the claims of democracy as a way of constituting authority."
@@ -5360,8 +5049,6 @@ higher than managing directors on Wall Street. Nor can he
 make assertions that can function as commands; his proposals
 to add things to the common ground can never, given his lack
 of practical authority, rise to the point of being tellings. This is
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 the problem of authority, which has received much discussion in
 the literature on subordinating speech.20
@@ -5395,8 +5082,6 @@ interjection.
 
 Frege's insight is that the word "cur" means the same thing
 as "dog," but contributes a negative association. Moreover, it
-
-CHAPTER 4
 
 contributes this negative association wherever it occurs in the
 sentence. This is a general property of slurs; the negative association remains, no matter where in the sentence it occurs. For
@@ -5435,8 +5120,6 @@ in- group as unmarked by the term."23
 
 Camp argues that while slurs do involve an attitude of contempt, this is not their central function:
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 Although it is undeniable, and important, that slurs denigrate, I think an associated feeling of contempt is less important and explanatory than is usually assumed. Rather,
 I think the association with contempt largely falls out of
 a more basic one: that the perspective is distancing in the
@@ -5464,8 +5147,6 @@ It is by now clear that the topic of slurs is extremely important in understandi
 occurs. David Livingstone Smith reports a Japanese veteran of
 the Rape of Nanjing, one of history's most indescribably brutal massacres, as describing the Chinese as "chancorro," meaning like bugs or animals.24 In her paper "Genocidal Language
 Games," published in 2012, the philosopher Lynne Tirrell describes in detail how "[t]he use of derogatory terms played a
-
-CHAPTER 4
 
 significant role in laying the social groundwork for the 1994
 genocide of the Tutsi in Rwanda." Hutu extremists used two
@@ -5499,8 +5180,6 @@ The focus in the literature is on describing their special properties. But expre
 to slurs are not special. As we have seen in previous chapters,
 the distinctive danger of propaganda in a liberal democracy is
 that it goes unnoticed. It is hard to think of a better way to exhibit this distinctive danger than by reflection on the fact that
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 philosophy professors in liberal democratic societies assume
 that there is a distinctive and easily identifiable class of words
@@ -5536,8 +5215,6 @@ its citizens. But, as I argue below, not only politics but also everyday discour
 the feature of slurs, namely, that whenever the words occur
 in a sentence, they convey the problematic content. The word
 
-CHAPTER 4
-
 "welfare," in the American context, is not on any list of prohibited words. Yet the word "welfare" always conveys a problematic social meaning, whenever it is used. A sentence like "John
 believes that Bill is on welfare" still communicates a problematic social meaning.
 
@@ -5571,8 +5248,6 @@ committed to the view that Blacks were inherently lazy.28 The
 racial views of white Americans explicitly dominated political
 campaigns for the entire history of the American republic. But
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 in the 1960s, what Mendelberg calls "a norm of racial equality"
 emerged in the American body politic. Mendelberg's expression "norm of equality" is however highly misleading. What is
 true is that certain kinds of previously acceptable, very explicit
@@ -5602,8 +5277,6 @@ Americans consciously adhered to a norm that made very explicit racist expressio
 retained the racial biases that are so central to the national
 identity of the country. These facts led political strategists to
 appeal to words that were not obviously slurs, or even obviously references to Black Americans, but functioned in exactly
-
-CHAPTER 4
 
 the way Camp describes the function of slurs, by removing
 respect from Black Americans.
@@ -5637,8 +5310,6 @@ Camp, have arrived at an elegant description of how propagandistic language func
 to locate the phenomenon in the wrong place. In the presence
 of a norm of racial equality, the effects on reasonableness are
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 most dramatic in cases in which the group is only implicitly
 targeted. In the United States at least, the focus philosophers
 have placed on explicit slurs is misplaced.
@@ -5667,8 +5338,6 @@ very first decision in 2009, Justice Sonia Sotomayor introduced
 the expression "undocumented immigrant" into a decision in
 place of "illegal immigrant." In a decision by the California
 Supreme Court filed on January 2, 2014, in a long footnote,
-
-CHAPTER 4
 
 the court followed suit, making a note of its use of "undocumented immigrant," which "avoids the potential problematic
 connotations of alternative terms."33 In politics, as Carl Schmitt
@@ -5699,8 +5368,6 @@ loaded not- at- issue content of the discourse, expressions like
 "work ethic" and "food stamps." Gingrich was allowed to act
 responsible just for the at- issue content of his utterance, and
 feign ignorance of the racial overtones of the expressions.34
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 What is important to note is that even the act of raising the expressions to salience by Juan Williams conveyed the negative
 social meanings, inspiring characteristically strong emotion in
@@ -5735,8 +5402,6 @@ social meanings. As Michael Walzer writes, "[T]he words prostitution and bribery
 of goods that, given certain understandings of their meaning,
 ought never be sold or purchased."38 Propaganda characteristically involves attaching problematic social meanings to
 
-CHAPTER 4
-
 seemingly innocuous words that are used to describe policy, in
 effect making the word "welfare" like the word "prostitution."
 The social meanings of these words are not- at- issue content.
@@ -5768,8 +5433,6 @@ was, however, the least of her crimes.
 When Ronald Reagan ran for the presidency in 1976, he appropriated the expression "welfare queen" to raise the specter
 of massive Black fraud. In a campaign rally, he said, "In Chicago, they found a woman who . . . used 80 names, 30 addresses,
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 15 telephone numbers to collect food stamps, Social Security,
 veterans' benefits for four nonexistent deceased veteran husbands, as well as welfare. Her tax- free cash income alone has
 been running $150,000 a year." This was nowhere near an accurate description of the case, and welfare fraud was not a central source of Taylor's income (robbery was). But the image
@@ -5799,8 +5462,6 @@ Representative Paul Ryan said on Bill Bennett's "Morning in
 America" show, "We have got this tailspin of culture, in our
 inner cities in particular, of men not working and just generations of men not even thinking about working or learning the
 value and the culture of work. There is a real culture problem
-
-CHAPTER 4
 
 here that has to be dealt with." US Representative Barbara Lee
 responded, "My colleague Congressman Ryan's comments
@@ -5839,8 +5500,6 @@ poverty among urban Blacks is a cause of, and is caused by,
 laziness is to endorse a racial difference between poor whites
 and poor Blacks. This racial difference is the social meaning of
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 the word "welfare." In other countries, federal assistance programs have acquired similar social meanings connected to immigrant groups. This is one general mechanism by which propaganda functions, especially in situations in which there is a
 norm against the social meaning being explicitly expressed.
 
@@ -5862,8 +5521,6 @@ and the Jews for special treatment. Klemperer notes that as
 soon as "heroism" was mentioned, the people in the class lost
 all ability to grasp the concepts of liberal democracy. The reason is that the word "heroism" has a social meaning that is profoundly illiberal. Given the nature of not- at- issue content, that
 social meaning is immediately accepted by those raised under
-
-CHAPTER 4
 
 National Socialism once the word "heroism" is mentioned. Accepting the social meaning of "heroism" leaves one in a speech
 context with a common ground (in the sense explained) that
@@ -5900,8 +5557,6 @@ the control of members of the subordinated group. Successful
 challenge and reappropriation very often can take place only in
 the context of something approximating equal social footing.
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 The linguistic mechanisms at work explain why in conversations between members of the dominant group and members of the subordinate group, the members of the subordinate
 group feel pressure to accept the negative stereotypes of their
 own group. For example, when a white US citizen is speaking
@@ -5928,8 +5583,6 @@ is a flawed ideological belief, in a sense to be explained in subsequent chapter
 the employment of ideological social meanings as not- at- issue
 contents is not the only way in which propaganda that erodes
 reasonableness works.
-
-CHAPTER 4
 
 Which claims one makes with the sentences one utters vary,
 depending upon the context in which they are made. If one
@@ -5960,8 +5613,6 @@ not include some members who are subject to the laws of a nation. Eric Acton and
 "there is preliminary evidence" that Sarah Palin, the Republican vice presidential candidate in the United States in 2008, is
 a much more frequent user of the first- person plural pronoun
 than other politicians; for example, in Palin's vice presidential
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 debate with democratic vice- presidential candidate Joe Biden
 in 2008, 3.49 percent of her words were the first- person pronoun, whereas only 2.21 percent of Biden's were. Acton and
@@ -5998,8 +5649,6 @@ use of the term "Muslim" is of course related to terrorism, or
 some kind of anti- American sentiment. This is an attempt to
 challenge the president's sincerity, and thereby his epistemic
 
-CHAPTER 4
-
 trustworthiness. Similarly, descriptions of Sarah Palin as a
 "hick" and of President George Bush as a "frat boy" are attempts to impugn their competence.
 
@@ -6028,8 +5677,6 @@ or group as unreasonable, that is, as having claims that are not
 worthy of our attention. When in a liberal democracy such
 speech also exploits the norm of reasonableness, it typically
 manifests as a characteristic form of demagogic propaganda.
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 Focusing on demagogic uses of reasonableness, we have
 looked at a diversity of methods that language uses to foment
@@ -6063,8 +5710,6 @@ to one's parental nurturing."49 We can think of the effects of
 "mother" either as adding a certain content to the common
 ground or as imposing a preference relation on possible
 
-CHAPTER 4
-
 worlds that ranks worlds in which mothers have these features
 as preferable. Haslanger's point is that a great many words
 have some kind of social meaning, that is, not- at- issue content,
@@ -6090,8 +5735,6 @@ including her among those human beings in that way is also
 to do a number of other things. It is to make salient in the
 conversation a range of presuppositions about the institution
 of the university, presuppositions that may naturally lead to
-
-LANGUAGE AS A MECHANISM OF CONTROL
 
 the belief that she teaches students. It is also to convey a certain social meaning: perhaps someone with liberal political
 views, who is practically incompetent. The fact that words are
@@ -6127,8 +5770,6 @@ the bare forms of logical languages. It is folklore that David
 Lewis named one of his pioneering papers in formal semantics "General Semantics" in partial mockery of the program of
 General Semantics, by Alfred Korzybski, between the two world
 
-CHAPTER 4
-
 wars. Korzybski sought to describe how propaganda worked,
 and to devise methods to avoid it, by reflection on logic and
 psychology. But as Rae Langton, Mary Kate McGowan, and Ishani Maitra have showed, the formal tools described by Lewis,
@@ -6163,8 +5804,6 @@ we could communicate in a way in which that ideal was realized.51 But the fact t
 propaganda uses linguistic complexity with precise or simple tools does not mean that our ordinary discourse consists
 of words that are precise or simple tools. A straightforward
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 example is an ambiguous word that can be described in two
 precise, nonambiguous ways. This chapter has been an exercise
 in the use of the tools of formal semantics and pragmatics to
@@ -6195,8 +5834,6 @@ are the norms guiding the relevant speech acts:
 
 The binding and bonding relationship into which the
 speaker is willing to enter with the performance of an illocutionary act signifies a guarantee that, in consequence of
-
-CHAPTER 4
 
 her utterance, she will fulfill certain conditions— for example, regard a question as settled when a satisfactory answer
 is given; drop an assertion when it proves to be false; follow
@@ -6232,8 +5869,6 @@ level of assertion, but violate reasonableness at another level.
 There is widespread agreement that in order for a certain kind of speech act to exist in a community, there must
 be norms in place in that community, in the way Habermas
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 describes. This suggests that a parallel story can be told about
 democratic ideals, which are, after all, norms governing public
 communication. On this account, the degree to which a society satisfies a democratic ideal of rationality or reasonableness
@@ -6266,8 +5901,6 @@ common interests, but rather an appeal to emotion, a "call to
 arms." There is no interesting notion like that of a public, a
 democratic community, or a democratic society. Arguing for
 the common good is arguing for nothing at all.
-
-CHAPTER 4
 
 The problem Lippmann raises is that if there is no set of interests to be taken as the public's interests, one cannot choose
 to be bound by the result of a public deliberative procedure
@@ -6303,8 +5936,6 @@ failure to match reality. This attitude is aptly described as having faith in th
 to such language is evocative of John Dewey's contention "that
 the cure for the ailments of democracy is more democracy."55
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 As we have seen, what Dewey means is that in the face of the
 fact that "democracy [in the ideal sense] is not a fact and never
 will be," we must nevertheless have faith in democratic ideals
@@ -6339,8 +5970,6 @@ reason, the measure of a democracy can be taken by the proportion of participant
 the procedures exemplify those ideals (and hence act on that
 supposition).
 
-CHAPTER 4
-
 However, the Deweyian conception of norm guidance as
 faith is too problematic to be adopted. The problem is that
 faith in democratic ideals leads us to blindness about their violations. To simply assume that policies based on appeal to bias
@@ -6370,8 +5999,6 @@ belief, the practical possibility of deliberative ideals ultimately
 rests upon our capacity to be sensitive to the effects of flawed
 ideologies on our own belief system.
 
-LANGUAGE AS A MECHANISM OF CONTROL
-
 In the next two chapters, I turn to the topic of ideology. I
 will suggest that democratically problematic ideology is virtually inevitable in societies with substantial inequality. This
 suggests that the practical possibility of the democratic ideals
@@ -6400,8 +6027,6 @@ not view external world skepticism as a philosophical puzzle.
 The philosophical puzzle is rather that as soon as we reflect
 upon our belief in external things, we realize that it is inconsistent with the available evidence. But we nevertheless continue
 to believe that external objects exist. The philosophical puzzle
-
-IDEOLOGY
 
 Hume takes himself to be addressing is this: why is our belief
 in external things resistant to rational revision in light of available evidence? The purpose of "Of Skepticism with Regard to
@@ -6476,8 +6101,6 @@ this, my focus is not on a political or moral notion of flaw.
 It is on a purely epistemic notion of flaw. My argument will
 be that certain ideologies have epistemic flaws, in addition to
 
-IDEOLOGY
-
 what one might regard as the epistemic flaws of all ideological
 beliefs. These are flawed ideologies. Among these flawed ideologies are ones that are particularly problematic democratically
 (as I will argue in the next chapter).
@@ -6506,8 +6129,6 @@ the right way.
 
 It is a familiar point about liberalism that it requires a division between the personal and the political. Liberalism is consistent with partiality in judgments, as long as it remains in the
 so- called personal domain, examples of which are plausibly
-
-CHAPTER 5
 
 domains such as sports fandom and family relations. But liberalism condemns certain kinds of partiality that are natural and
 even desired within these domains when they are imported to
@@ -6539,8 +6160,6 @@ ideology that is partial becomes democratically problematic
 when it affects political judgment about policies that might
 address the injustices that the ideology overlooks. As long as
 
-IDEOLOGY
-
 a partial perspective is kept within its proper domain— for example, sports talk radio— it is not flawed. But as soon as it is
 imported into discourse and reasoning about the public good,
 it functions as illiberal.
@@ -6571,8 +6190,6 @@ origin: he is critiquing religious belief by arguing that it arises
 from fear and superstition, which are natural features of humans. But social practice, in the form of custom and habit,
 clearly plays a role even in the ideologies he discussed. After
 all, it is religious social practices that maintain religious belief. No doubt Hume recognized that flawed ideologies can be
-
-CHAPTER 5
 
 maintained by social practices and do not just rest on flawed
 psychology.4
@@ -6607,8 +6224,6 @@ when normalcy is pleasant, they characteristically lead to beliefs that are conn
 Marx describes. These problematic beliefs are characteristic examples, maybe the characteristic examples, of flawed ideology
 that has its source in flawed social structures.
 
-IDEOLOGY
-
 Traditionally, philosophers have spoken of ideological belief,
 and I will as well. However, focusing on belief as the nexus
 of ideology is dangerously misleading. The distinctive feature
@@ -6642,8 +6257,6 @@ one's community, to leave everyone with whom you identify
 behind. This is very difficult for an individual person to envisage; usually they can only perform the experiment of setting
 beliefs aside that are so connected to their social identities
 
-CHAPTER 5
-
 when they explicitly are asked to rationally reflect upon them.
 But as soon as they slip back into ordinary life, they reengage
 in the practices that make them who they are.
@@ -6676,8 +6289,6 @@ will emphasize that many of the interesting properties that a
 theory of ideology must explain require looking at practices.
 As a result, on my account, it is an accidental and not an intrinsic feature of ideological beliefs that they are ideological.
 
-IDEOLOGY
-
 The philosopher Tamar Gendler has argued that much of
 the philosophical role played by ideological belief is better
 played by a notion she introduces called "alief." In her work,
@@ -6708,8 +6319,6 @@ skepticism usually takes the form of the charge that theorists
 of ideology are incapable of rationally evaluating beliefs that
 have large independent plausibility. And it is the theory of ideology that studies just this. Though standard versions of skepticism about the project of ideology critique are incoherent
 in just this way, there is no denying that such skepticism is
-
-CHAPTER 5
 
 widespread. What Gendler's work shows is that the skepticism
 is misplaced, at the level of uncontroversial example. There
@@ -6746,8 +6355,6 @@ by one, because it is hard simply to abandon one's identity.
 In her rejoinder to the kind of position I defend, Gendler draws attention to its apparent incompatibility with a
 norm governing belief: "whatever belief is— it is normatively
 
-IDEOLOGY
-
 governed by the following constraint: belief aims to 'track
 truth' in the sense that belief is subject to immediate revision
 in the face of changes in our all- things- considered evidence."8
@@ -6776,8 +6383,6 @@ exposition of the safety condition on knowledge.
 
 One formulation of Williamson's safety condition is "if one
 knows, then one could not easily have been wrong in a similar
-
-CHAPTER 5
 
 case."12 Here is the kind of example that motivates it. Suppose
 that I am in a stadium with exactly 10,387 people. I can come to
@@ -6812,8 +6417,6 @@ in social ontology. Theorists such as Althusser, Bourdieu, and
 Haslanger urge that ideologies include social practices, which
 should be theorized independently of the mental states of
 
-IDEOLOGY
-
 agents embedded within them.13 A theory of ideology is there
 to explain certain puzzling behavior: in the most interesting
 cases, behavior that seems to run contrary to what is rational,
@@ -6847,8 +6450,6 @@ revolt in order that they may be equal," or "equals that they
 may be superior." Aristotle's two "universal and chief" causes
 of unjust revolutions are the two examples of democratically
 
-CHAPTER 5
-
 problematic flawed ideological belief I will discuss. They are
 precisely the flawed ideological beliefs that arise in conditions
 of substantive inequality (as Aristotle recognizes). The argument of this book is not new.
@@ -6877,8 +6478,6 @@ self- legitimations of those who control the material goods of
 society. This is a flawed ideology, in the sense I will elucidate.
 The example I will give is one in which the self- legitimation
 is clearly unjust. Consider a prosperous family in the Antebellum American South who lives on a plantation that has provided a high level of income for the family for several generations. The family owns slaves who maintain and cultivate their
-
-IDEOLOGY
 
 plantation, and slaves who work in the house doing domestic
 chores. The members of the family have grown up with the expectation that slaves will cook their meals for them, slaves will
@@ -6913,8 +6512,6 @@ daily existence. If the institution of slavery is unjust, then their
 wealth was not properly obtained. Furthermore, their ancestors, including their own parents, were the ones who built and
 maintained that wealth by exploiting the institution of slavery. So if slavery is deeply unjust, then their own immediate
 
-CHAPTER 5
-
 ancestors were perpetrators of great wrongs. If slavery is deeply
 unjust, then the comfortable aristocratic manner of living to
 which they are accustomed, relying as it does on the institution of slavery, is unjustifiable.
@@ -6946,8 +6543,6 @@ for the Black slaves as well. The philosopher Christopher  J.
 Lebron calls these expectations legitimizing myths; they have
 importance as "the means by which ascendant groups assign
 to themselves positive social value while portraying others . . .
-
-IDEOLOGY
 
 as justifiably possessing lower standing. Without legitimizing
 myths, hierarchy is merely stratification. With legitimizing
@@ -6982,8 +6577,6 @@ that guide us through the world, make sense of it, and legitimate our actions wi
 of why stereotypes are resistant to rational revision: it is emotionally unsettling, perhaps in a distinctive way, to abandon
 them. They are connected to our identity. Return to the example of the slave- owning plantation family in the Antebellum
 
-CHAPTER 5
-
 American South. Members of the family have certain beliefs,
 which arise from self- interest. They arise from the family's desire to maintain their aristocratic lifestyle, without moral condemnation of themselves or their ancestors. Insofar as their
 identity is connected to their lifestyle, the beliefs are also connected to their identity. They support that identity.
@@ -7016,8 +6609,6 @@ of as a set of practices and habits. If we think of those practices
 as external social relations between persons, it may be that the
 various social relations that make up those practices prevent
 
-IDEOLOGY
-
 the revision of certain beliefs. An individual might be habituated to a practice and, in virtue of the structure of that practice
 and the costs of breaking the habits it involves, may not easily
 abandon certain beliefs. There might be nothing in the beliefs
@@ -7048,8 +6639,6 @@ we should not think of ideological belief as a fortiori epistemologically defect
 be instances of knowledge (see Thomas Kelly, "Following the
 Argument Where It Leads"). What is puzzling are cases in
 which the available evidence suggests that the puzzles raised
-
-CHAPTER 5
 
 by ideological beliefs that philosophers have mulled over involve a subclass of ideological beliefs. It is tempting therefore
 to think that when one singles out a subclass of ideological
@@ -7083,8 +6672,6 @@ Suppose that my identity involves the false belief that the
 French are untrustworthy. My belief that the French are not
 trustworthy will be difficult to revise. This will, for example,
 
-IDEOLOGY
-
 close off French people from being sources of information,
 which will further prevent my acquiring evidence that it is
 false. An identity that involves the false belief that the French
@@ -7114,8 +6701,6 @@ South were raised with the belief from birth. Debate about it
 was prevented. If debate with others is prevented, it is hard to
 revise a belief. Structural features of a society can inhibit rational revision of belief to preserve desirable outcomes for the
 group privileged by that structure. There are many other ways
-
-CHAPTER 5
 
 in which structural features of a society can inhibit the rational revision of beliefs.21 An individual might have a flawed
 ideology, because she is a member of such a society, though
@@ -7153,8 +6738,6 @@ the concepts it contains (or fails to contain).
 In her essay "The Idea of Perfection," the philosopher Iris
 Murdoch considers the example of a mother- in- law, whom she
 
-IDEOLOGY
-
 calls M, who disapproves of her son's marriage to D.22 She regards her daughter- in- law D as "lacking in dignity and refinement," "noisy," and "vulgar." As time passes, M reconsiders her
 judgment. M decides to think about whether these judgments
 issue from M's being "old fashioned and conventional," "prejudiced and narrow minded," or "snobbish" and "jealous." She
@@ -7185,8 +6768,6 @@ new conceptual scheme enables M to see that what she regarded as vulgar is in fa
 she regarded as "noisy" and breaking the polite calm a decent
 household should have was in fact joyousness. M thus came to
 see her social world more accurately.
-
-CHAPTER 5
 
 What Murdoch is arguing is that just as self- interest can lead
 us to hold and retain beliefs in the face of contradictory evidence,
@@ -7222,8 +6803,6 @@ document, entitled "A Report about the Current Situation of
 Ideology," to university administrations. The report was leaked
 by Gao Yu and published in the German magazine Der Spiegel
 
-IDEOLOGY
-
 in August 2013. The document demands that university professors refrain from discussing seven topics. The seven topics are
 universal values, free press, civil society, civil rights, historical
 mistakes of the Chinese Communist Party, crony capitalism,
@@ -7255,8 +6834,6 @@ Iris Murdoch's discussion of M's problematic conceptual scheme, containing conce
 "descriptive- normative concepts" of persons, shows that concepts can be flawed. In Murdoch's example, the conceptual
 scheme of the mother- in- law M prevents her from recognizing
 the true nature of her daughter- in- law.
-
-CHAPTER 5
 
 One of the most famous critiques of a concept is the Black
 American intellectual Sojourner Truth's discussion of the concept of woman, in her speech "Ain't I a Woman?," delivered to
@@ -7292,8 +6869,6 @@ fall under it. The concept of being a unicorn is empty, since
 there are no unicorns, nor have there ever been unicorns.28 In
 contrast, the concept of a table is not empty, nor is the concept
 of water.
-
-IDEOLOGY
 
 I shall use the term "proposition" for the content of a belief.
 So, when someone believes that Tyrone is about to become
@@ -7331,8 +6906,6 @@ white woman" to "x is a lady," and the inference from "x is a
 lady" to "x is submissive and in need of care." This concept is
 flawed in two ways. First, it is flawed because it leads to false
 
-CHAPTER 5
-
 beliefs. Well- dressed white women are not in general submissive and in need of care. Second, it is flawed because such concepts are empty. The inferences it licenses are not valid. Therefore, a fortiori, there is no property in the world that makes
 these inferences valid. So the concept expressed by "lady," as I
 have defined it, is empty, in the sense that it does not denote
@@ -7364,8 +6937,6 @@ a concept's aptness is determined by whether or not its employment facilitates o
 concept impedes one's acquisition of knowledge, the less apt
 it is. An explanation of what it is for a concept to fail to be
 apt would explain one way in which flawed ideologies lead to
-
-IDEOLOGY
 
 flawed ideological beliefs. We have seen one model of failure
 of aptness, namely, when the concept is empty and leads to
@@ -7401,8 +6972,6 @@ could not otherwise see. But one can then easily see the possibility of definiti
 that there are patterns that are not there. To take an example
 from mathematics, the concept x is divisible only by 1 and 17 is
 
-CHAPTER 5
-
 not a particularly fruitful concept. If we thought it was mathematically central, we would be confused about the actual patterns of mathematics. The fruitful number- theoretical concept
 is x is divisible only by 1 and x, that is, the concept of a prime
 number.30
@@ -7429,8 +6998,6 @@ Stanley calls the ideology of technicism.31 This is an ideology that
 excludes (for example) narrative claims about personal experience as reasons for action or belief. The ideology of technicism
 is one that restricts genuine reasons in the public sphere to
 those whose contents contain only scientific or quantitative
-
-IDEOLOGY
 
 concepts. The ideology of technicism does not contain concepts for personal experience; it therefore consigns them, in
 Stanley's words, to the status of mere "convenient rhetoric."
@@ -7464,8 +7031,6 @@ into rigid categories and concepts without touching it; it
 polishes things and restores their original color, with their
 texture, sound and perfume; it perforates them with its luminous rays to reach the essential surreality in its innate humidity— it would be more accurate to speak of subreality.
 
-CHAPTER 5
-
 European reasoning is analytical, discursive by utilization;
 Negro- African reasoning is intuitive by participation.33
 
@@ -7493,8 +7058,6 @@ of one's fellow citizens does not have a perspective worth taking into account w
 proposals appear rational. Given that there will be the sorts of
 flawed ideologies Aristotle discusses, in the seemingly inevitable situation of substantive inequality even in democracies,
 one can see why this has been regarded as an existential problem for democracy since the Ancient Greeks.
-
-IDEOLOGY
 
 It may be easy to see how various features of society may
 lead someone to acquire a legitimation myth that prevents
@@ -7525,8 +7088,6 @@ is flawed, is found quite explicitly in Walter Lippmann's introduction of the no
 he writes, about Aristotle's description of slaves:
 
 This is the perfect stereotype. Its hallmark is that it precedes the use of reason; is a form of perception, imposes a
-
-CHAPTER 5
 
 certain character on the data of our senses before the data
 reach the intelligence. The stereotype is like the lavender
@@ -7562,8 +7123,6 @@ perceptual judgment, which is what Payne's work confirms.
 Payne's work provides strong evidence that stereotypes
 affect perceptual judgment. But there are different ways in
 
-IDEOLOGY
-
 which stereotypes could affect perceptual judgment. The most
 dramatic interpretation would be that many Americans literally see a hand tool as a handgun; on this view, the stereotype affects the content of the perception. On a less dramatic
 interpretation, bias enters in on the route between unbiased
@@ -7593,8 +7152,6 @@ guns, knives, and other crime- relevant objects greatly facilitated identificati
 to whites faces. This shows that stereotypes, as Lippmann astutely predicted, direct visual attention. It does not show that
 the experiences themselves are biased, but it shows that which
 
-CHAPTER 5
-
 experiences we have is a function of our prior beliefs, including
 our stereotypes.
 
@@ -7623,8 +7180,6 @@ perception."38
 
 There is by now a large enough body of research indicating that stereotypes affect the information we acquire via perception. The mechanism by which perceptual judgments are
 formed is itself a source of flawed ideological belief. It is furthermore a particularly nefarious source of biased belief, because of the strong pull to treat perceptual judgments as unbiased (hence "eyewitness testimony"). We do not, for example,
-
-IDEOLOGY
 
 even ordinarily think that what we pay attention to in perception is affected by our background biases. We consider ourselves as having taken in the whole scene at once.
 
@@ -7657,8 +7212,6 @@ facing the attempt to adopt an objective epistemic standpoint.
 It is psychologically hard if not impossible to avoid regarding our ordinary perceptual beliefs as yielding an objective
 picture of the world. Since what we attend to in perception is
 
-CHAPTER 5
-
 affected by our background beliefs, perception in fact does not
 give us an objective picture of the world. So we are left, perhaps unavoidably in a society with group hierarchies and large
 inequities, with beliefs that seem to be objectively grounded,
@@ -7689,8 +7242,6 @@ which are defended in the next chapter.
 Democratic society requires a culture of political equality.
 In the next chapter, I argue that inequalities, even material inequalities, give rise to flawed ideological beliefs.42 In a society
 that is meritocratic, those who fail to possess resources will
-
-IDEOLOGY
 
 tend to possess the flawed ideological belief that their failure
 to acquire resources is a social injustice. In a society that is
@@ -7724,8 +7275,6 @@ which it is a false ideological belief, part of the legitimation
 myth of the elite. I am only discussing these societies, rather
 than societies in which the larger problem is the flawed ideological beliefs of the undeserving poor. Perhaps my skepticism
 
-CHAPTER 5
-
 about the metaphysics of meritocracy is itself the product of
 my own ideological stance.
 
@@ -7755,8 +7304,6 @@ actual examples I discuss, it does not impugn my theoretical
 project of understanding examples of that kind. Empirical
 claims about actual examples are not part of my central theoretical goals in this book.
 
-IDEOLOGY
-
 One might worry, however, that my ideology does not
 just influence my choice of examples to discuss. One might
 worry that it also biases the tools I use in their analysis. However, the tools I use were developed in areas of philosophy that
@@ -7783,8 +7330,6 @@ beliefs about the prevalence and threat of illegitimate authority may do is infl
 politics. But one would have to see a completely different argument to give any credence to the thought that the objectivity
 of the results themselves is tainted. One would have to provide
 evidence that the tools of social psychology are themselves biased. And because the tools of social psychology are the same
-
-CHAPTER 5
 
 across ideologies, this would be a bias that would undermine
 the practice of social psychology itself. This would undermine
@@ -7819,8 +7364,6 @@ undermining of the self- respect are a moral harm (which they
 no doubt are). It is rather that the beliefs that enable these
 moral harms are particularly democratically problematic, because such beliefs make antidemocratic demagoguery effective.
 
-IDEOLOGY
-
 The beliefs that tend to arise in conditions of stark inequality, such as belief in the inferiority of other groups, or one's
 own, tend to undermine democratic ideals, such as reasonableness. It is natural to think that the perspectives of inferior beings, or those less worthy of equality, are not reasonable
 perspectives. But this too is not the book's argument against
@@ -7849,8 +7392,6 @@ discounting counterevidence. We have also seen how ordinary
 mechanisms of acquiring knowledge may, as part of their ordinary functioning, lead to biased beliefs that seem to be objectively grounded. I now turn to the mechanisms at work in the
 ideologies discussed by philosophers from Aristotle to Marx:
 why do highly privileged groups believe the ideology of their
-
-CHAPTER 5
 
 own superiority, and why do oppressed groups accept the ideology of their own inferiority? I will argue that inequalities
 lead to the promulgation of these ideologies, and I will show
@@ -7908,8 +7449,6 @@ or not these inequalities are justified by differences in merit.
 The sociologist Max Weber argues that members of privileged groups, by something like sociological necessity, develop
 flawed ideological beliefs:
 
-POLITICAL IDEOLOGIES
-
 The fates of human beings are not equal. Men differ in
 their states of health and wealth or social status or what
 not. Simple observation shows that in every such situation
@@ -7943,8 +7482,6 @@ paper by the Stanford psychologist Claude Steele published
 in 1988. According to self- affirmation theory, individuals are
 motivated to maintain a self- conception as a "good and appropriate person."4 There is a substantial body of results within
 this literature suggesting that "self- threatening feedback can
-
-CHAPTER 6
 
 exacerbate outgroup derogation and use of stereotypes."5 In
 other words, the large body of results that constitutes the selfaffirmation theory literature in social psychology is evidence
@@ -7981,8 +7518,6 @@ to political campaigns, and 21 percent had bundled contributions for politicians
 access to politicians: 40 percent had contacted their senator,
 and a not insignificant number were on a first- name basis with
 
-POLITICAL IDEOLOGIES
-
 national politicians of great power. Finally, their policy preferences on economic issues strongly reflected their self- interest:
 44 percent acknowledged that their political activities were focused on narrow self- interest, mostly banking policy, ensuring
 that federal funds would flow to their financial service institutions of choice, and that regulation was minimized. Ironically,
@@ -8018,8 +7553,6 @@ after winning a sizeable sum in the lottery. They also found
 year t is associated with a rise in their belief in the justice of
 the current wealth distribution in society." More evidence
 
-CHAPTER 6
-
 is of course required; if British society is in fact thoroughly
 meritocratic, perhaps the accumulation of wealth caused by a
 winning lottery ticket frees the winner from a flawed ideological belief about unjust distribution of wealth. But if British
@@ -8048,8 +7581,6 @@ disturbing. A violation of the expectation of catching a cold
 from a plane trip is welcome, rather than disturbing.13 But if
 one is raised to think of certain expectations as moral norms,
 violations of the conventions to which one has grown accustomed will again characteristically seem like a disruption of
-
-POLITICAL IDEOLOGIES
 
 normal expectations of the sort that is easily mistaken for an
 encounter with someone who should be morally condemned.
@@ -8082,8 +7613,6 @@ the other half were told that the film was of protestors outside a military recr
 ban on openly gay and lesbian members of the military. Kahan
 and colleagues discovered that political orientation strongly
 
-CHAPTER 6
-
 affected subjects' legal judgments. Subjects with diametrically
 opposed political views reacted in "strong and opposite ways
 to the experimental manipulation":17 70 percent of the political
@@ -8114,8 +7643,6 @@ cognition).
 Rawls argues that "a permanent feature of the public culture of democracy" is a "diversity of reasonable comprehensive religious, philosophical, and moral doctrines."21 In other
 words, the public culture of democracy requires distinct ideologies (this is what Rawls calls "the fact of reasonable pluralism"). Given identity protective cognition, members of a
 society with a uniform ideology will adopt flawed ideological
-
-POLITICAL IDEOLOGIES
 
 moral beliefs when confronted with novel ideologies. I will
 argue that the presence of flawed ideological beliefs is what
@@ -8148,8 +7675,6 @@ human affairs with a philosophical eye, than the easiness
 with which the many are governed by the few; and the implicit submission, with which men resign their own sentiments and passions to those of their rulers. When we enquire by what means this wonder is effected, we shall find,
 that, as force is always on the side of the governed, the
 governors have nothing to support them but opinion. It is
-
-CHAPTER 6
 
 therefore, on opinion only that government is founded; and
 this maxim extends to the most despotic and most military
@@ -8184,8 +7709,6 @@ inferiority of the negatively privileged groups. Even the most
 virulently racist groups have replaced claims of genetic inferiority with claims of cultural inferiority. The virulently racist
 and anti- Semitic Hungarian political party Jobbik is clear that
 
-POLITICAL IDEOLOGIES
-
 it regards the Roma as criminal because of their culture, not because of their genetics. In the West, therefore, Weber's "myth of
 natural and blood superiority" has been everywhere replaced
 by a myth of cultural superiority.
@@ -8215,8 +7738,6 @@ positively privileged groups to get members of negatively privileged groups to a
 That is the only use to which I put Weber's claim.
 
 I am not defending the view that Weber's claim is a complete explanation of the facts of injustice. Nevertheless, despite
-
-CHAPTER 6
 
 my modest claims for it, the view that negatively privileged
 groups acquire flawed ideologies that prevent them from recognizing their own oppression faces understandable skepticism. Here is what I think are the two most plausible sources
@@ -8249,8 +7770,6 @@ formation will be skeptical of the claim.
 However, we cannot simply decide to believe something. It
 is not up to me to decide whether or not I am on Mars now. It
 is similarly not up to me to decide about the direct evidence
-
-POLITICAL IDEOLOGIES
 
 of my senses. But testimony from authoritative sources is a primary source of evidence. This is why the school system of a
 state is the paradigm example of an ideological state apparatus,
@@ -8286,8 +7805,6 @@ of boys and masters. The heart of everything is our primary
 loyalty to Jesus Christ. This does not just mean that we
 have Chapel services and R. K. lessons and other "pious"
 
-CHAPTER 6
-
 activities, though these exist and are important. It means
 that all we do— class work, games, school life, personal relationships, as well as Chapel and the rest— should be seen
 as service we offer to our Master. Through all these we seek
@@ -8321,8 +7838,6 @@ There is a simple argument from the premise that belief is
 not under our direct voluntary control to the conclusion that
 "negatively privileged groups" will acquire the flawed ideological beliefs of the "positively privileged group." The positively
 
-POLITICAL IDEOLOGIES
-
 privileged group will control the dominant narrative. If the
 positively privileged group controls the dominant narrative,
 then the testimonial evidence of authorities will be the ideology of the positively privileged group. That is the mechanism by which the flawed ideology of the positively privileged
@@ -8352,8 +7867,6 @@ because of the control of the public dialectic by a dominant
 group. This is what Dotson calls contributory injustice.
 
 It may seem easy to adopt such changes in societies characterized by a combination of easy access to alternative
-
-CHAPTER 6
 
 information sources and a sufficiently diverse local community
 that supports entertaining and debating alternative viewpoints.
@@ -8390,8 +7903,6 @@ was becoming aware of the thing that the Jim Crow laws
 had been drafted and passed to keep out of my consciousness; I was acting on impulses that southern senators in the
 nation's capital had striven to keep out of Negro life; I was
 
-POLITICAL IDEOLOGIES
-
 beginning to dream the dreams that the state had said were
 wrong, that the schools said were taboo. . . . My classmates
 felt that I was doing something that was vaguely wrong,
@@ -8427,8 +7938,6 @@ of experiments that has given rise to a massive empirical literature. This is th
 shown to be a significant impediment to achievement by negatively privileged groups. The literature on stereotype threat
 is a distinct literature from the literature on self- affirmation
 
-CHAPTER 6
-
 theory. But taken together, they comprise the scientific explanation of the flawed ideologies of highly privileged and negatively privileged groups.
 
 Claude Steele and Joshua Aronson describe the phenomenon of stereotype threat as "the immediate situational threat
@@ -8455,8 +7964,6 @@ the negatively privileged group. Black Americans were stigmatized as less intell
 But the very prejudices that operate to oppress them work, via
 the mechanism Steele and Aronson describe, to lead them to
 adopt those prejudices as beliefs, in a form of identity protective cognition.
-
-POLITICAL IDEOLOGIES
 
 I have argued for the plausibility of Weber's claim that negatively privileged groups tend to adopt the elite ideology of
 their own inferiority. But this tells us nothing about the mechanisms by which this occurs. Two explanations are required.
@@ -8488,8 +7995,6 @@ model at work, even in the recent past, in apparently robust
 liberal democratic states. In the aftermath of the Al Qaeda
 terrorist attacks of September 11, 2001, on the United States,
 the administration of the United States undertook a massive
-
-CHAPTER 6
 
 propaganda campaign to legitimate the invasion of Iraq, a
 country that was uninvolved in the terrorist attack. Lee Artz
@@ -8529,8 +8034,6 @@ rather to trust the leader's word and provide propaganda to
 unify the masses behind the decisions, whether motivated or
 not, of the "commander- in- chief."
 
-POLITICAL IDEOLOGIES
-
 Carl Schmitt argues that the liberal conception of laws that
 justify every foreseeable application must always give way to
 what he calls "the exception."41 The exception "can at best be
@@ -8557,8 +8060,6 @@ policies that violate liberal democratic norms. In the introduction, we saw that
 Government and School District Financial Accountability Act
 is phrased in the language of emergency. It is rightly phrased
 in the language of emergency, since it violates liberal democratic principles. One might wonder whether there are in principle financial reasons to overturn democratic norms. However, many theorists do agree that in times of war, democratic
-
-CHAPTER 6
 
 norms may be set aside. For this reason, the vocabulary used in
 the United States of a "war on drugs" is a clear signal that liberal democratic norms will be violated to deal with an emergency situation.44 In general, politicians are apt to appeal to
@@ -8592,8 +8093,6 @@ the months following the attack.46
 
 In an interview with the then secretary of defense Donald
 Rumsfeld in Errol Morris's documentary film The Unknown
-
-POLITICAL IDEOLOGIES
 
 Known, released in 2014, former Secretary Rumsfeld tells Morris, "It was very clear that the direct planning for 9/11 was done
 by Osama bin Laden's people, Al Qaeda, and in Afghanistan.
@@ -8629,8 +8128,6 @@ convinced by the flawed ideology of patriotism and demonization used to motivate
 that the highly privileged group will in fact be able to exploit
 the mechanisms of the media and public schools to produce
 
-CHAPTER 6
-
 beliefs that are contrary to the interests of the majority of people who are served by them.48
 
 I must defer an explanation of the mechanisms by which
@@ -8661,8 +8158,6 @@ Here is the description Milgram provides of his experimental setup:
 
 The focus of the study concerns the amount of electric
 shock a subject is willing to administer to another person when ordered by an experiment to give the "victim"
-
-POLITICAL IDEOLOGIES
 
 increasingly more severe punishment. The act of administrating shock is set in the context of a learning experiment,
 ostensibly designed to study the effect of punishment on
@@ -8698,8 +8193,6 @@ sample shock of 45 volts to convince him of the authenticity
 of the instrument. The generator bears verbal designations
 that range from "Slight Shock" to "Danger: Severe Shock."49
 
-CHAPTER 6
-
 The original experiments were performed at Yale University.
 Milgram found that 65 percent of the subjects ended up administrating the maximum shock to the "learner." Throughout the
 1960s, Milgram performed variants on the original experiment,
@@ -8730,8 +8223,6 @@ authority figures, especially when delivered in the language of
 pseudoscientific expertise, is the norm rather than the exception. Thus, Milgram's work provides some evidence of at least
 many groups susceptibility to a technicist ideology.
 
-POLITICAL IDEOLOGIES
-
 The Milgram experiments, and to a considerably more
 limited extent previous experiments in social psychology by
 Milgram's advisor, Solomon Asch, show that the ideological
@@ -8761,8 +8252,6 @@ make it part of the dominant narrative of the society that the
 goods of society are justly distributed, according to merit
 rather than accident of birth position (this will occur even in
 conditions in which there are obvious differences in equality
-
-CHAPTER 6
 
 from birth, due, for example, to inheritance). This is, as Weber
 argues, exactly what one should expect in any society with a
@@ -8800,8 +8289,6 @@ know something about the way in which it holds them back
 from achievement. There are presumably no particular propositions the negatively privileged group needs to know in order
 to act against their oppression. They might not even have to
 
-POLITICAL IDEOLOGIES
-
 know that they are oppressed. But if they blame their lack of
 advancement on themselves rather than on the special barriers
 they face, they will be prevented from acting against the forces
@@ -8830,8 +8317,6 @@ Langton draws our attention to the fact that epistemic authority and practical a
 example, prescriptions depends upon her epistemic authority,
 or expertise. Langton emphasizes that a mixture between epistemic authority and practical authority is characteristic of hate
 speech by legal authorities. About the Nazi publications of Julius Streicher, Langton writes:
-
-CHAPTER 6
 
 They possess, not the practical authority of law, whether
 slave law or apartheid law. They possess, in the first instance, a perceived epistemic authority, given the endorsement of the ruling Nazi party, whose imprimatur enables
@@ -8865,8 +8350,6 @@ Whether one can act on a proposition is a matter of how
 much is at stake. So the knowledge- action principle entails that whether or not someone knows that p at a certain
 time depends upon the practical decisions they face at that
 time. Let's call this consequence of (Knowledge- Action) the
-
-POLITICAL IDEOLOGIES
 
 interest- relativism of knowledge (sometimes also called "pragmatic encroachment").
 
@@ -8905,8 +8388,6 @@ were asked the following question: "How many times do
 you think Peter [John] has to proofread his paper before he
 knows that there are no typos? ____ times." Subjects were told
 
-CHAPTER 6
-
 to insert an appropriate number in the blank space. Pinillos
 found a highly statistically significant distinction between the
 two cases. The median answer for (Typo- Low) was that Peter
@@ -8932,8 +8413,6 @@ Given interest- relativism about knowledge, here is the precise role the ideolog
 a society with unjust inequalities, in democratic contestation.
 Because of adherence to this ideology, members of highly privileged groups will believe that they deserve their position in
 the status hierarchy. Possession of the ideology makes them unable to recognize the presence of social injustice (since it is an
-
-POLITICAL IDEOLOGIES
 
 ideology, that is, resistant to rational revision). They will assume
 that they are not at risk of doing something that violates their
@@ -8967,8 +8446,6 @@ issue.
 My aim here is to establish that negatively privileged
 groups are epistemologically disadvantaged in debates about
 
-CHAPTER 6
-
 the justifiability of distribution of fundamental goods in a society. These are very high- stakes situations for negatively privileged groups. What is at issue in the political case are very
 high- stakes situations. So we may set aside debates about the
 scope of the phenomenon as irrelevant to our purposes. After
@@ -8994,8 +8471,6 @@ the interest- relativity of knowledge, it should be clear that it
 too results in epistemic oppression. Those who are in highstakes situations when vying for the goods of society will have
 to meet higher standards for full belief. This is an epistemic
 harm. Since it is reasonable to hold, just as above, that negatively privileged groups will have more at stake in disputes
-
-POLITICAL IDEOLOGIES
 
 over society's goods, they will be epistemically disadvantaged
 in just the ways described above, with the interest- relativity of
@@ -9029,8 +8504,6 @@ there are good effects of what Fung calls "hot deliberation."64
 Fung rightly points out that "hot deliberation— discussions in
 which participants have high stakes and affect the exercise of
 
-CHAPTER 6
-
 public power— tends to increase the rationality of processes."65
 But this does not show that the resource poor, for example,
 have a deliberative advantage. First, as Fung recognizes, "information is costly."66 The resource poor will not have the same
@@ -9057,8 +8530,6 @@ Fricker describes is what she calls testimonial injustice, which is
 any condition of knowledge that involves an "epistemic confidence" condition, "whether it comes in as part of the belief
 condition or as a part of a justification condition."72 She emphasizes in stark terms the cost that someone in this situation
 faces, that a person in this condition "literally loses knowledge."
-
-POLITICAL IDEOLOGIES
 
 She explores various consequences of persistent loss in epistemic confidence. For example, if I persistently lose knowledge
 through underconfidence, then I will come to doubt (perhaps
@@ -9089,8 +8560,6 @@ is required to act, if any of the accounts that explain the phenomenon in terms 
 source), negatively privileged groups will be prevented from
 acting to alleviate their negatively privileged status. They will
 
-CHAPTER 6
-
 not be able to act on the basis of knowledge of injustice, because their negatively privileged status may, in the presence of
 the alternative explanation provided by the ideology of elite
 superiority, as well as the prospect of retribution by those controlling the prisons and the police, prevent them from acquiring knowledge.
@@ -9120,8 +8589,6 @@ doesn't seem that this is an ideal example of a case in which
 subordinate status leads to higher epistemic standards.77 The
 framework of interest- relativity gives one a schema to see how
 power and interests can raise obstacles to knowledge of facts
-
-POLITICAL IDEOLOGIES
 
 in situations in which they have a certain kind of practical importance. The framework of interest- relativity accommodates
 the specificity of the loss of knowledge; it depends on practical features of the circumstance in which the putative knower
@@ -9157,8 +8624,6 @@ The knowledge norm of assertion, together with the
 interest- relativity of knowledge, or any of the suggested alternatives, entails that negatively privileged groups will be severely
 hindered in democratic deliberation. The assertions of members of negatively privileged groups will be taken less seriously
 
-CHAPTER 6
-
 in the formation of policy that bears heavily on their interests.
 Their claims that they face social injustice will be regarded as
 wishful thinking that functions as a justification of character
@@ -9191,8 +8656,6 @@ not be aware of the risks of performing unjust acts. If the risks
 of their actions are made salient to them, they will deny them.
 So they will not perceive themselves to face the same obstacles to knowledge as members of negatively privileged groups.
 
-POLITICAL IDEOLOGIES
-
 The oppressed will lack self- confidence, which will undermine
 knowledge. But members of the privileged group will characteristically have inappropriately high levels of confidence.79
 
@@ -9222,8 +8685,6 @@ epistemology was also one of the major topics in Black feminist philosophy for a
 The connections between knowledge, action, and assertion
 have mainly been explored separately from their political implications. But these connections show why certain ideologies
 can be democratically problematic. An exploration of the connections between knowledge, action, and assertion is thus crucial to the theory of ideology. It is in the investigation of these
-
-CHAPTER 6
 
 connections that we find an important way of elucidating the
 thought that knowledge is power.
@@ -9255,8 +8716,6 @@ cultural diversity. It is, however, not consistent with viewing
 religious and cultural diversity as laid out in an evaluable hierarchy, with thinking that being Jewish is better than being
 Catholic. Such hierarchies are the source of flawed ideology.
 
-POLITICAL IDEOLOGIES
-
 In Jean- Jacques Rousseau's Confessions, he records his recognition of the striking fact that "we were unconsciously affected in our thoughts, our feelings, and even our actions by
 the impact of . . . slight changes upon us." He reports that he
 intended to write a book about how to "prevent, change, or
@@ -9286,8 +8745,6 @@ We have seen that flawed ideologies aid the material interests of the highly pri
 led to adopt legitimizing myths is that they cannot confront
 the possibility that their actions are unjust. False ideologies
 blind even those they seem to help, by making them "untrue
-
-CHAPTER 6
 
 to themselves." The flawed ideology of the elites leads members of the elite to support policies that they would not accept
 if they knew what the real source of their support is. Flawed
@@ -9323,8 +8780,6 @@ the elite group acting against their own ethical interests. Inequality is episte
 Gross inequalities of whatever kind are not the same as ethnic differences. Ethnic differences can coexist without gross
 inequalities, as long as the cultures of the different ethnicities
 
-POLITICAL IDEOLOGIES
-
 are sufficiently democratic. We tend to think of a democratic
 identity as one that involves the presupposition of universal
 ideals.85 But it is an open question whether or not an Enlightenment model is a necessary companion to a democratic identity. For some reason, historically, the assumption of universal
@@ -9354,8 +8809,6 @@ I have suggested to what we may call, following Etienne de la
 Boétie, "the problem of voluntary servitude."89 In conditions
 of significant inequality, such as large differences in the distribution of society's resources, those who benefit, the elites,
 will have certain perceived epistemic advantages over the negatively privileged group, an advantage that will manifest, as we
-
-CHAPTER 6
 
 have seen from Langton, in practical terms. They will employ
 their epistemic and practical advantage to claim expertise over
@@ -9453,8 +8906,6 @@ equally all the diverse and disparate activities of intellectuals
 and to distinguish these at the same time and in an essential way from the activities of other social groupings? The
 most widespread error of method seems to me that of having
 
-CHAPTER 7
-
 looked for this criterion of distinction in the intrinsic nature
 of intellectual activities, rather than in the ensemble of the
 system of relations in which these activities (and therefore
@@ -9485,8 +8936,6 @@ whose activity is solely a matter of physical strength.
 Gramsci argues that "purely physical labor" does not exist,
 and so the category of a manual laborer is a sociological one,
 
-THE IDEOLOGY OF ELITES
-
 not based on any fundamental naturalistic distinction of the
 sort Aristotle tries to draw. Throughout Gramsci's famous
 Prison Notebooks, he subjects the notion of an "intellectual" to a
@@ -9515,8 +8964,6 @@ literacy, we must admit that it is a quasi- incoherent social construct whose in
 When commonsense reflection reveals the vacuity of a distinction crucial for separating society on an unjust basis into
 those who receive most of its resources and those who do
 not, there is a need for a legitimation narrative for the flawed
-
-CHAPTER 7
 
 ideology, which is often provided by science. For example,
 Khalil Muhammad tells the story of the nineteenth- and earlytwentieth- century efforts of social scientists to provide a scientific justification of the stereotype of American Blacks as prone
@@ -9547,8 +8994,6 @@ Suzanne Corkin:
 Henry was not capable of learning new information, though
 his knowledge of past events— the Wall Street Crash, Pearl
 Harbor and so on— was clear. Only a very few tiny details
-
-THE IDEOLOGY OF ELITES
 
 of TV programmes he watched repetitively ever stuck. He
 could, however, learn and retain new motor skills, which
@@ -9586,8 +9031,6 @@ What becomes apparent when considering this literature
 is that the amnestic patients could not perform any of the
 tasks unless instruction was provided on each day.
 
-CHAPTER 7
-
 Roy and Park find that medial temporal lobe patients are unable to acquire the skill of using simple novel tools without
 constant reinstruction.7 Part of the account of the uncritical
 acceptance of a flawed understanding of the distinction may
@@ -9615,8 +9058,6 @@ nevertheless "[t]he idea still prevails that a truly cultural or liberal educati
 least, with industrial affairs, and that the education which is
 fit for the masses must be a useful or practical education in a
 sense which opposes useful and practical to nurture of appreciation and liberation of thought."8 Dewey was writing at the
-
-THE IDEOLOGY OF ELITES
 
 time of a complete restructuring of the US secondary school
 system. He was not making an abstract point, but rather commenting on how the concurrently occurring restructuring of
@@ -9651,8 +9092,6 @@ their ideology in negatively privileged groups, it is clearly not a
 skepticism shared by those who self- identify as elites in liberal
 democracies. Ross was not a crank working on the fringes of
 
-CHAPTER 7
-
 educational theory at the time. His views had a deep and lasting influence on American educational policy.
 
 In 1909, in an address titled "The Meaning of Liberal Education," delivered to the High School Teachers Association,
@@ -9680,8 +9119,6 @@ the particular processes which they are to apply. One of the
 drawbacks to American industry is that we do not make
 such men because we overshoot the mark and try to make
 them something else besides. The consequence is that neither side of the task is completed or perfected, and we make
-
-THE IDEOLOGY OF ELITES
 
 neither liberally- educated men nor serviceable experts. It
 is not that we should not wish to do it, it is that no matter
@@ -9713,8 +9150,6 @@ Snedden's "strongest connection" at Stanford was with Ross.15
 In an address to alumni of Stanford in 1900, Snedden gave
 voice to the doctrine of education as social efficiency and control that became the guiding principal of American mass education. Here are two quotations, both repeated from Labaree's
 paper:
-
-CHAPTER 7
 
 I want especially to consider that education as it effects that
 rank and file of society; for if we are right in thinking that
@@ -9749,8 +9184,6 @@ King rejects a conception of education that has as a method "the
 giving to each child, as far as possible, the experience of adult
 society" and emphasizes that education has "always attempted
 
-THE IDEOLOGY OF ELITES
-
 also to train, to discipline the child."19 He notes optimistically
 that we "are only beginning to appreciate the possibilities of
 education if it may but enlarge the scope of its efforts and put
@@ -9782,8 +9215,6 @@ the whole had dominance over the parts. The latter is Plato's
 conception of the ideal state; the former is one classical conception of democracy.
 
 As we saw in chapter 1, Benjamin Constant criticized Rousseau's conception of freedom for lending itself too easily to
-
-CHAPTER 7
 
 authoritarian abuse. In his essay from 1819, "The Liberty of
 Ancients and the Liberty of the Moderns," Constant writes of
@@ -9820,8 +9251,6 @@ serving on the faculty there, Snedden went on to become the
 first state commissioner for education in Massachusetts in 1909.
 As commissioner, Snedden appointed in 1912 Clarence Darwin
 
-THE IDEOLOGY OF ELITES
-
 Kingsley to be the agent for the board to high schools.25 Kingsley was to become the national voice for Snedden's educational
 theory, views that he brought to his subsequent appointment
 as chairman of the powerful National Education Association's
@@ -9851,8 +9280,6 @@ and of society as a whole."
 
 After insisting on the importance of a clear conception
 of democracy, and defining the concept of democracy, the
-
-CHAPTER 7
 
 authors of "The Cardinal Principles of Secondary Education"
 draw some conclusions from it. The document argues that the
@@ -9887,8 +9314,6 @@ theory embraces a wide band of political systems. But there
 are some ground rules. No doubt the most basic ground rule
 of political philosophy is that democracy is not the view that
 social efficiency is the sole value of society. We philosophers grant
-
-THE IDEOLOGY OF ELITES
 
 to Plato that the system he advocates is not democracy. But
 the system described in "The Cardinal Principles of Secondary Education" describes the system of book 2 of The Republic,
@@ -9925,8 +9350,6 @@ individual development thus attained, the resources thus
 provided under all circumstances to mitigate the solitude
 that at times must come to everyone. I once asked Prince
 
-CHAPTER 7
-
 Kropotkin, the Russian nihilist, how he endured his long
 years in prison, deprived of books, pen, ink, and paper. "Ah,"
 he said, "I thought out many questions on which I had a
@@ -9962,8 +9385,6 @@ of modernity concluded about the education of women:
 In the education of every high- school girl, the household
 arts should have a prominent place because of their importance to the girl herself and to others whose welfare will be
 
-THE IDEOLOGY OF ELITES
-
 directly in her keeping. The attention now devoted to this
 phase of education is inadequate, and especially so for girls
 preparing for occupations not related to the household arts
@@ -9997,8 +9418,6 @@ to realize its ideals. A necessary part of this process is reflection on the fai
 seen, for example, in the recommended course for the twelfth
 grade, "Problems of Democracy." The "Problems of Democracy" course that is outlined in the National Education Association's report turned out to be quite radical. Harold Rugg's
 
-CHAPTER 7
-
 popular textbook for that course, An Introduction to Problems of
 American Culture, contains a unit called "Public Opinion and
 American Life," which is devoted to explaining how people
@@ -10029,8 +9448,6 @@ the latter conception is rarely acknowledged.32
 With scarcely concealed excitement, the website of The
 Eagle Forum, an organization formed by Phyllis Schlafly in 1975
 in the fight against the Equal Rights Amendment, reviews The
-
-THE IDEOLOGY OF ELITES
 
 American Citizens Handbook, the National Education Association's handbook for social studies teachers, published in 1951:
 
@@ -10064,8 +9481,6 @@ historians at UCLA. Lynne Cheney was head of the National
 Endowment for the Humanities from 1986 until 1993, and the
 wife of the politician Richard Cheney. Her fiery denunciation
 
-CHAPTER 7
-
 of the voluntary benchmarks suggested in the National Standards for United States History was published in a Wall Street
 Journal op- ed on October 20, 1994, under the title "The End
 of History." Cheney contrasted the National Standards with a
@@ -10096,8 +9511,6 @@ Street Journal article is clear that she thinks that the purpose
 of mass education in American public schools is entirely different than accurately reporting the truth. She clearly regards
 the purpose of American history to be conveying a single unified perspective, rather than "multiple perspectives." The single
 unified perspective is supposed to convey a capitalist value
-
-THE IDEOLOGY OF ELITES
 
 system and reflect the perspective of the highly privileged group,
 and not negatively privileged groups, such as women, African
@@ -10234,8 +9647,6 @@ number of versions of this book. His constant critical feedback has forced me to
 and detail (though not yet to his satisfaction). My wife Njeri
 Thande has also read and commented on many drafts. Her
 
-ACKNOWLEDGMENTS
-
 comments have made it a much better book. If I managed to
 remain grounded at any time during the writing of this book,
 I have to thank my son Emile for it.
@@ -10272,8 +9683,6 @@ Armstrong, Karen Lewis, and Carlotta Pavese were also willing
 to drop everything and help me work through ideas. Carlotta
 also read an early draft of several chapters.
 
-ACKNOWLEDGMENTS
-
 This book was written entirely at Yale University, exploiting
 the rich intellectual resources of my home institution. My Yale
 colleagues have been incredibly helpful. Despite chairing the
@@ -10305,8 +9714,6 @@ Chris. I had to stop adding footnotes to our discussions, because his contributi
 arguments were simply too numerous. Dan Greco is every
 philosopher's dream colleague; helpful suggestions from him
 
-ACKNOWLEDGMENTS
-
 that substantially improved the book continued until the
 very last moment before I had to submit it. Hélène Landemore provided me with amazing detailed and helpful commentary on an early draft of the manuscript. One of the reasons I was excited about moving to Yale was to be colleagues
 with Vesla Weaver, whose paper from 2007, "Frontlash," was the
@@ -10336,8 +9743,6 @@ be part of Yale's fantastic intellectual community.
 
 Outside of my Yale colleagues, there are some people I
 relied heavily upon in writing this book. They have inexplicably provided invaluable written comments, despite no
-
-ACKNOWLEDGMENTS
 
 professional attachment to me, and large burdens elsewhere
 in their lives. My childhood friend, the political philosopher
@@ -10375,8 +9780,6 @@ useful sounding board for my ideas, dating back several years;
 everybody's rabbi should be so philosophically gifted. Kate
 Manne, Lynne Tirrell, David Livingstone Smith, and Rebecca
 
-ACKNOWLEDGMENTS
-
 Kukla also provided incredibly helpful written comments and
 support.
 
@@ -10413,8 +9816,6 @@ chat to answer a novice's desperate pleas for help with the
 literature and the concepts of political philosophy. Rogers's
 work was an invaluable guide to Du Bois and, more generally,
 
-ACKNOWLEDGMENTS
-
 has had a major impact on this book. Late in the writing of
 this book, I met Robert Gooding- Williams, and had a lengthy
 invaluable discussion with him about Du Bois, in which he
@@ -10447,8 +9848,6 @@ as a keynote speaker at the University of Maryland's PHLINC
 conference, in January 2014. I presented an incorrect definition
 of propaganda in my paper. Georges Rey, whom I had never
 
-ACKNOWLEDGMENTS
-
 before met, would not let his objections go during the question session. Rey was right. But he was also kind of annoying,
 so I have not yet told him that. Perhaps he will discover it here.
 In January 2014, Vesla Weaver and I published a New York
@@ -10479,8 +9878,6 @@ Robert Demke was a first- rate copy editor, both in his care in
 
 reading the manuscript and in his patience with my revisions.
 
-ACKNOWLEDGMENTS
-
 My editor, Rob Tempio, has been remarkable. Without his
 constant encouragement, I would not have had the courage to
 write this book.
@@ -10492,8 +9889,6 @@ these omissions. On the topics of this book, there are simply
 too many brilliant voices that are not heard.
 
 NOTES
-
-PREFACE
 
 1. Stanley, The Technological Conscience.
 2. Kenyatta, Facing Mt. Kenya, p. 22.
@@ -11387,8 +10782,6 @@ rather than as mediating between ideology and flawed ideological belief. But thi
 my usage of "ideology," are the flawed ideological beliefs that are the
 consequences of a flawed ideology.
 
-NOTES TO CHAPTER 6
-
 7. The accidental groupings of US political parties explain the results of Gelman et al., "Rich State, Poor State, Red State, Blue State,"
 which shows that the notion of "interest" is more complicated than
 material interests.
@@ -11429,8 +10822,6 @@ distrust and recrimination that prevents culturally diverse participants
 from converging on outcomes that suit their common ends."
 
 20. "Individuals depend on select groups— from families to university faculties, from religious denominations to political parties— for
-
-NOTES TO CHAPTER 6
 
 all manner of material and emotional support. Propositions that impugn the character or competence of such groups, or that contradict
 the groups' shared commitments, can thus jeopardize their individual
@@ -11474,8 +10865,6 @@ Performance."
 39. Artz, "Political Legitimacy, Cultural Leadership, and Public
 
 Action."
-
-NOTES TO CHAPTER 6
 
 40. These quotes are from Jenson, "The Problem with Patriotism."
 41. Schmitt, Political Theology.
@@ -11523,8 +10912,6 @@ and Stanley, "Knowledge and Action."
 55. Pinillos, "Knowledge, Experiments, and Practical Interests."
 56. Mayseless and Kruglanski, "What Makes You So Sure?"
 
-NOTES TO CHAPTER 6
-
 57. Dotson, "A Cautionary Tale."
 58. Some have denied the judgments upon which the connections
 have been based. But good empirical work has been done to vindicate
@@ -11569,8 +10956,6 @@ Public Spheres," p. 359.
 70. Fricker, Epistemic Injustice.
 71. Ibid., p. 1.
 72. Ibid., p. 49.
-
-NOTES TO CHAPTER 6
 
 73. Nagel's "Epistemic Anxiety and Adaptive Invariantism" is about
 the various effects of what she calls "epistemic anxiety," which is her
@@ -11794,8 +11179,6 @@ and Row, 1956.
 Berlin, Isaiah. "Herder and the Enlightenment." In The Proper Study of
 Mankind, pp. 359– 435. New York: Farrar, Straus, and Giroux, 1997.
 
-BIBLIOGRAPHY
-
 ———. "Two Concepts of Liberty." In The Proper Study of Mankind. New
 
 York: Farrar, Straus, and Giroux, 1997.
@@ -11858,8 +11241,6 @@ History & Relationship, pp. 247– 70.
 
 The Second Person Standpoint, pp. 39– 61.
 
-BIBLIOGRAPHY
-
 ———. The Second Person Standpoint: Morality, Respect, and Accountability. Cambridge, Mass.: Harvard University Press, 2006.
 
 Delany, Martin Robison Delany. The Condition, Elevation, Emigration,
@@ -11920,8 +11301,6 @@ no. 3 (2003): 338– 67.
 
 Fung, Archon, and Erik Olin Wright. Deepening Democracy: Institutional Innovations in Empowered Participatory Government. London: Verso, 2003.
 
-BIBLIOGRAPHY
-
 Garsten, Bryan. Saving Persuasion: A Defense of Rhetoric and Judgment.
 
 Cambridge, Mass.: Harvard University Press, 2006.
@@ -11972,8 +11351,6 @@ Oxford University Press, 2012.
 ———. "Social Meaning and Philosophical Method." APA Presidential
 
 Address of 2013.
-
-BIBLIOGRAPHY
 
 Hastorf, Albert H., and Hadley Cantril. "They Saw a Game: A Case
 
@@ -12034,8 +11411,6 @@ Krause, Sharon. Civil Passions: Moral Sentiment and Democratic Deliberation. Pri
 
 Kripke, Saul. Naming and Necessity. Cambridge, Mass.: Harvard University Press, 1980.
 
-BIBLIOGRAPHY
-
 Krug, Edward. The Shaping of the American High School, 1880– 1920. 2nd
 
 ed. Madison: University of Wisconsin Press, 1969.
@@ -12091,8 +11466,6 @@ in 1922.
 Locke, Alain. "Art or Propaganda?" (1928).
 Madison, James. "Federalist 10." In The Federalist Papers.
 
-BIBLIOGRAPHY
-
 Maitra, Ishani. "Subordinating Speech." In Speech and Harm: Controversies over Free Speech, edited by Ishani Maitra and Kate McGowan, pp.
 94– 120. Oxford: Oxford University Press, 2012.
 
@@ -12145,8 +11518,6 @@ Mills, C. Wright. The Power Elite. Oxford: Oxford University Press,
 Monson, Ingrid. Saying Something: Jazz Improvisation and Interaction.
 
 Chicago: University of Chicago Press, 1997.
-
-BIBLIOGRAPHY
 
 Muhammad, Khalil. The Condemnation of Blackness. Cambridge, Mass.:
 
@@ -12204,8 +11575,6 @@ no. 1 (2012): 188– 203.
 Rosen, Michael. On Voluntary Servitude. Cambridge, Mass.: Harvard
 
 University Press, 1996.
-
-BIBLIOGRAPHY
 
 Rosenberg, Shawn, ed. Deliberation, Participation and Democracy: Can
 
@@ -12268,8 +11637,6 @@ Self- Affirmation Theory." Advances in Experimental Social Psychology
 
 Siegel, Susanna. "Epistemic Evaluability and Perceptual Farce." Afterword to Cognitive Effects on Perception: New Philosophical Perspectives,
 
-BIBLIOGRAPHY
-
 edited by J. Zeimbekis and A. Raftopoulos. Oxford: Oxford University Press, 2014.
 
 ———. The Rationality of Perception. Forthcoming.
@@ -12322,8 +11689,6 @@ Fregean Themes in the Philosophy of Mathematics." Nous 29, no. 4
 Tarski, Alfred. "The Concept of Truth in Formalized Languages."
 In Logic, Semantics, Metamathematics, pp. 152– 268. Indianapolis:
 Hackett, 1983.
-
-BIBLIOGRAPHY
 
 Tedin, K. L. "Political Ideology and the Vote." Research in Micro- Politics
 
@@ -12438,8 +11803,6 @@ Bendix, Reinhard, 333n29
 
 Chait, Jonathan, 6, 161
 Cheney, Lynne, 289–90, 333–34n35
-
-INDEX
 
 Cheney, Richard, 85, 289
 Chomsky, Noam, 49, 241, 312n17
@@ -12568,8 +11931,6 @@ Greco, Daniel, 312n18, 322n57
 Gruen, Lori, 330n83
 Gutmann, Amy, 316n29
 
-INDEX
-
 Henry, Patrick, 293
 Herder, Johann Gottfried von,
 
@@ -12645,8 +12006,6 @@ Kingsley, Clarence Darwin,
 282–83
 
 Kitidi, Katerina, 309n39
-
-INDEX
 
 Klemperer, Victor, 1–3, 43–46,
 48–49, 121, 158, 161–62, 165,
@@ -12793,8 +12152,6 @@ model, 140; expressive model,
 58–59; undermining, 52–54, 57,
 59–71, 82, 108, 110–11, 117, 129,
 
-INDEX
-
 178, 314; vehicle for the production of, 54; vehicle of, 55
 
 Public Act 4, 22
@@ -12846,8 +12203,6 @@ Ryan, Paul, 159–60
 safety condition on knowledge,
 
 189–90
-
-INDEX
 
 Saul, Jennifer, xix, 299, 311n9,
 
@@ -12944,8 +12299,6 @@ Weaver, Vesla, 294
 Weber, Max, xx, 224–26, 228, 231–
 
 34, 237, 239, 241, 249–50, 269, 291
-
-INDEX
 
 Wedgwood, Ralph, 157, 321n36
 West, Caroline, 133, 135, 138

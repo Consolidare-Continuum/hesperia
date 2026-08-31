@@ -580,8 +580,6 @@ Chapter 1: What is Security Engineering?
 many citations as in the rest of the book. I hope, however, that even experts will
 find some of the case studies of value.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 C H A P TE R
 
 What Is Security Engineering?
@@ -656,8 +654,6 @@ alarms are in constant communication with a security company's control center. C
 a Web site and facilities for customers to manage their accounts online. They
 also issue credit cards that customers use to shop online, and they acquire the
 resulting transactions from merchants. To protect this business, they use stan-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 dard Internet security technology, including the SSL/TLS encryption built into
 Web browsers, and firewalls to prevent people who hack the Web server from
@@ -741,8 +737,6 @@ their department at any time during the previous 90 days." This can be hard to
 do with traditional computer security mechanisms, as roles can change (nurses
 move from one department to another); and there are cross-system dependencies (the patient records system may end up relying on the personnel system
 for access control decisions, so any failure of the personnel system can have
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 implications for safety, for privacy, or for both). Applications such as these are
 inspiring research in role-based access control.
@@ -841,8 +835,6 @@ on).
 
 7. Any or all of the above plus the surrounding environment including the media, competitors, regulators, and politicians.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Confusion among these definitions is an extremely fertile source of errors and vulnerabilities. Broadly speaking, the vendor and evaluator communities focus on the first
 (and occasionally) the second of them, while a business will focus on the sixth (and
 occasionally the fifth). Ignoring the human components, and thus neglecting usability
@@ -931,8 +923,6 @@ source or destination of messages. Anonymity can be just as important a factor i
 refer to what I've called secrecy as message content confidentiality, and to what I've
 called anonymity as message source (or destination) confidentiality.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The meanings of authenticity and integrity can also vary subtly. In the academic literature on security protocols, authenticity means integrity plus freshness: you have
 established that you are speaking to a genuine principal, not a replay of previous messages. There is a similar idea in banking protocols. In a country whose banking laws
 state that checks are no longer valid after six months, a seven-month-old uncashed
@@ -979,10 +969,6 @@ It is important for the security engineer to develop sensitivity about the diffe
 to formalize what the security policy and target actually are. That may sometimes be
 inconvenient for clients who wish to get away with something, but, in general, robust
 security design requires that the protection goals are made explicit.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Protocols
 
@@ -1059,8 +1045,6 @@ Using a serial number as a password has a further vulnerability in that there ma
 many people who have access to it. In the case of a car, this might mean all the dealer
 staff and, perhaps, the state motor vehicle registration agency. Some burglar alarms
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 have also used serial numbers as master passwords; this is even worse, as the serial
 number may appear on the order, the delivery note, the invoice, and all the other standard paperwork.
 
@@ -1103,8 +1087,6 @@ it's too thoroughly entrenched now to change easily. Professionals often think o
 Æ G to the left of the colon as simply a hint of what the protocol designer had in mind.
 The term nonce can mean anything that guarantees the freshness of a message. A
 nonce may, according to the context, be a random number, a serial number, or a random challenge received from a third party. There are subtle differences between the
-
-Chapter 2: Protocols
 
 three approaches, such as in the level of resistance they offer to various kinds of replay
 attack. (We'll discuss these later.) But in very low-cost systems, the first two predominate, as it tends to be cheaper to have a communication channel in one direction only.
@@ -1152,8 +1134,6 @@ So designing even a simple token authentication mechanism is not straightforward
 There are many attacks that do not involve "breaking" the encryption. Such attacks are
 likely to become more common as cryptographic authentication mechanisms proliferate.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 An example that may become contentious is accessory control. It is common for the
 makers of games consoles to build in challenge-response protocols to prevent software
 cartridges or other accessories being used with their product unless a license fee is
@@ -1194,8 +1174,6 @@ agencies—issue their staff password generators that enable them to log on to c
 computer systems [808]. These may look like calculators (and even function as calculators) but their main function is as follows: When you want to log in to a machine on
 the network, you call up a logon screen and are presented with a random challenge of
 
-Chapter 2: Protocols
-
 maybe seven digits. You key this into your password generator, together with a PIN of
 maybe four digits. The device encrypts these 11 digits using a secret key shared with
 the corporate security server, and displays the first seven digits of the result. You enter
@@ -1219,8 +1197,6 @@ products, see [15, p. 211 ff].)
 The encryption in challenge-response protocols does not always need to be invertible, and so in general it can be accomplished using a "one-way function" or "cryptographic hash function," which has the property that it's less subject to export
 restrictions than are encryption algorithms. (For its technical properties, see Chapter 5,
 "Cryptology.")
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 2.2.2 The MIG-in-the-Middle Attack
 
@@ -1268,8 +1244,6 @@ I have no independent confirmation on this story from the Angolan or Cuban side.
 But the basic technique is at least as old as World War II, and illustrates the basic idea
 behind an attack known to the cryptographic community as the man-in-the-middle or
 
-Chapter 2: Protocols
-
 (more recently) the middleperson attack. We will come across it again and again in
 applications ranging from pay-TV to Internet security protocols. It even applies in online gaming. As the mathematician John Conway once remarked, it's easy to beat a
 grandmaster at postal chess: just play two grandmasters at once, one as white and the
@@ -1286,8 +1260,6 @@ it would be a lot simpler to just pick the driver's pocket or mug him.
 
 Other interesting problems arise with mutual authentication, that is, when two principals have to identify each other. Suppose, that a simple challenge-response IFF system
 designed to prevent anti-aircraft gunners attacking friendly aircraft also had to be de-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 ployed in a fighter-bomber. Now suppose that the air force simply installed one of its
 air gunners' challenge units in each aircraft and connected it to the fire-control radar.
@@ -1339,8 +1311,6 @@ Theoretically there is no need to switch off over enemy territory, but in practi
 
 There are many other aspects of IFF which are less protocol related, such as the difficulties posed by neutrals, error rates in dense operational environments, how to deal
 
-Chapter 2: Protocols
-
 with equipment failure, how to manage keys, and how to cope with multinational coalitions such as that put together for Operation Desert Storm. We'll return to IFF in
 Chapter 16. For now, the spurious challenge problem serves to reinforce an important
 point: that the correctness of a security protocol depends on the assumptions made
@@ -1379,8 +1349,6 @@ If the messages that pass between the smartcard and the decoder are the same for
 decoders (which is usually the case), then subscribers can record logs of all the keys
 sent by their cards to their decoders, and post them to the Net. Someone without a subscription, but who has video-recorded the enciphered program, can then download the
 key log and use it to decipher the tape.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Changing pay-TV protocols to prevent DDT attacks can be difficult. The base of installed equipment is huge, and many of the obvious countermeasures have an adverse
 effect on legitimate customers (such as by preventing them from videotaping movies).
@@ -1429,8 +1397,6 @@ shamed into actively investigating the claims, and noticed that many of the vict
 used their bank cards at a certain filling station near Utrecht. This was staked out and
 one of the staff was arrested. It turned out that he had tapped the line from the card
 
-Chapter 2: Protocols
-
 reader to the PC that controlled it; his tap recorded the magnetic stripe details from
 their cards while he used his eyeballs to capture their PINs [19].
 
@@ -1475,8 +1441,6 @@ proof of age. A porn site could then mount a "Mafia-in-the-middle" attack, as sh
 order something resellable (such as gold coins) from a dealer, playing the role of the
 coin dealer's customer. When the coin dealer sends them the transaction digest for signature, they relay it through their porn site to the waiting customer in the form of a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 random challenge. The customer signs it, the Mafia gets the gold coins, and when
 thousands of people suddenly complain about the huge charges to their cards at the end
 of the month, the porn site has vanished—along with the gold [446].
@@ -1514,8 +1478,6 @@ party Sam. But please don't assume that we are talking about human principals. A
 and Bob are likely to be programs, while Sam is a server; Alice might be a program in
 a taximeter, Bob the program in a gearbox sensor, and Sam the computer at the taxi
 inspection station.
-
-Chapter 2: Protocols
 
 Anyway, a simple authentication protocol could run as follows:
 
@@ -1561,8 +1523,6 @@ Message 3 A Æ B : {KAB, A}KBS
 Message 4 B Æ A : {NB}KAB
 Message 5 A Æ B : {NB–1}KAB
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Here, Alice takes the initiative, and tells Sam: "I'm Alice; I want to talk to Bob, and
 my random nonce is NA." Sam provides her with a session key, encrypted using the key
 she shares with him. This ciphertext also contains her nonce so she can confirm it's not
@@ -1601,8 +1561,6 @@ ticket-granting server that gives them tickets allowing access to various resour
 as files. This enables more scalable access management. In a university, for example,
 one might manage students through their halls of residence, but manage file servers by
 departments; in a company, the personnel people might register users to the payroll
-
-Chapter 2: Protocols
 
 system, while departmental administrators manage resources such as servers and printers.
 
@@ -1646,8 +1604,6 @@ by many mathematicians working at the theoretical end of the subject; this appea
 be less expressive than logies of belief, but can tie protocol properties down to the
 properties of the underlying encryption algorithms. Finally, a number of researchers
 have applied mainstream formal methods such as CSP and Lotos.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Some history exists of flaws being found in protocols that had been proved correct
 
@@ -1695,8 +1651,6 @@ is to be trusted on it.
 • A <| X: A sees X; that is, someone sent a message to A containing X in such a
 
 way that A can read and repeat it.
-
-Chapter 2: Protocols
 
 • #X: X is fresh; that is, X contains a current timestamp or some information
 
@@ -1760,8 +1714,6 @@ The latter, that R |≡ C |≡ X, must be deduced using the nonce verification r
 
 #X (X is fresh) and R |≡ C |~ X (R believes C uttered X).
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 #X follows from its occurrence in {C, NC, R, NR, X}K which contains the sequence
 
 number NR, while R |≡ C |~ X follows from the hardware constraint.
@@ -1806,8 +1758,6 @@ Different protection technologies are often the domain of different experts who 
 completely understand the assumptions made by the others. (That's one reason security
 engineers need a book such as this one: to help subject specialists understand each others' tools and to communicate with each other more effectively.)
 
-Chapter 2: Protocols
-
 For these reasons, people have explored alternative ways of assuring the design of
 authentication protocols, including the idea of protocol robustness. Just as structured
 programming techniques aim to ensure that software is designed methodically and that
@@ -1849,8 +1799,6 @@ At the system level, how do we manage the tension between the principle that rob
 protocols are generally those in which everything is completely specified and checked
 (principals' names, roles, security policy statement, protocol version, time, date, sequence number, security context, maker of grandmother's kitchen sink) and the system
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 engineering principle that a good specification should not overconstrain the implementer?
 
 Further Reading
@@ -1862,10 +1810,6 @@ robustness [2, 47]. There is also a survey paper which Roger and I wrote, and wh
 introduced the phrase 'programming Satan's computer' (discussed by Bruce Schneier
 in the foreword) as a metaphor for security protocol design [48]. In [449] there is an
 analysis of a defective security protocol, carried out using three different formal methods. Beyond that, the proceedings of the security protocols workshops [183, 184] provide leads to current research; and many papers appear in a wide range of conferences.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Passwords
 
@@ -1950,8 +1894,6 @@ greater length in Chapter 8, which deals with medical systems, as it is the main
 threat to medical privacy. The typical perpetrator is an insurance investigator who
 phones a hospital or doctor's office pretending to be a doctor involved in the emergency care of the target of investigation. This technique, also known as 'blagging' in
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Britain and 'pretexting' in America, is widely used to extract information from banks,
 insurance companies, and other firms that hold personal information; some people earn
 a living at it [261].
@@ -1999,8 +1941,6 @@ a receipt. He takes this receipt home and enters the numbers at a keypad in his 
 These numbers are encrypted commands, whether to dispense electricity, to change the
 tariff or whatever; the meter decrypts them and acts on them.
 
-Chapter 3: Passwords
-
 When this meter was introduced, there was concern that since about a third of the
 population was illiterate, and people might get lost halfway through entering the number, this meter might be unusable in practice. But it turned out that illiteracy was not a
 problem; even people who could not read had no difficulty with numbers ("Everybody
@@ -2047,8 +1987,6 @@ change their names on marriage). There might be no provision for changing such a
 password, so if it ever becomes known to a thief you could have to close and reopen
 bank accounts. Finally, you will be asked to give it to a lot of organizations, any one of
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 which might have a crooked employee. You could always tell "Yngstrom" to your
 bank. "Jones" to the phone company, "Geraghty" to the travel agent, and so on; but
 data are shared extensively between companies, so you could easily end up confusing
@@ -2088,8 +2026,6 @@ blue. Write these four letters down in the second, second, fifth, and sixth colu
 the card, respectively, as shown in .1. Then fill up the empty boxes with random letters.
 
 .1 A bad mnemonic system for bank PINs.
-
-Chapter 3: Passwords
 
 This is clearly a bad idea. Even if the random letters aren't written in a slightly different way, a quick check shows that a 4 by 10 matrix of random letters may yield
 about two dozen words (unless there's an "s" on the bottom row, when you can get 40
@@ -2131,8 +2067,6 @@ also had a default supervisor name of 777777, with a password of 7777. Most site
 didn't change these passwords, and many of them were hacked once the practice became widely known. Failure to change default passwords as supplied by the equipment
 vendor has affected many kinds of computer, some cryptographic equipment, and even
 mobile phones (where many users never bother to change an installed PIN of 0000).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 3.3 System Issues
 
@@ -2176,8 +2110,6 @@ tolerated. (Bear in mind that the passwords people choose are very often easy fo
 spouses or partners to guess [146], so some thought needs to be given to issues such as
 what happens when a cheated partner seeks vengeance. This is a common enough
 problem.)
-
-Chapter 3: Passwords
 
 But with many systems, it can be bad news if even one enemy gains access. Operating systems such as Unix and Windows may have been designed to protect one user
 against accidental interference by another, but they are not hardened to protect against
@@ -2223,8 +2155,6 @@ data they protect (so 'Top Secret' passwords must be sealed in an envelope, in a
 in a room that's locked when not occupied, in a building patrolled by guards). You can
 see to it that only cleared people have access to the terminals where the passwords can
 be used. You can send the guards round at night to check that no-one's left a note of a
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 password lying around. You can operate a clean desk policy so that nothing can be
 overlooked in a pile of papers in plain sight.
@@ -2281,8 +2211,6 @@ However, there are at least two cases where centrally assigned passwords may be 
 should not be able to override. Where digital signatures are used to provide evidence,
 and a user's digital signing key is protected by a password, then assigning this pass-
 
-Chapter 3: Passwords
-
 word centrally could enable the system administrator to get at the signing key and
 forge messages, which would destroy the evidential value of the signature.
 
@@ -2330,8 +2258,6 @@ them target the password entry mechanism, while others exploit the way that pass
 
 Password entry is often poorly protected.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 3.4.1.1 Interface Design
 
 Sometimes the problem is thoughtless interface design. For example, some very common models of cash machine had a vertical keyboard at head height, making it simple
@@ -2374,8 +2300,6 @@ she's talking to a genuine system is called a trusted path.
 If the whole terminal equipment is bogus, then of course all bets are off. We once
 caught a student installing modified keyboards in our public terminal room to capture
 passwords. When the attacker is prepared to take this much trouble, then all the ctrlalt-del sequence achieves is to make his software design task simpler.
-
-Chapter 3: Passwords
 
 There have also been a few cases of criminals setting up false cash machines. In one
 famous case in Connecticut in 1993, the bad guys even bought genuine cash machines
@@ -2421,8 +2345,6 @@ steal information, which they are rumored to have sold to the KGB.
 Another horrible programming error struck a U.K. bank, which issued all its customers with the same PIN by mistake. As the procedures for handling PINs were carefully controlled, no one in the bank got access to anyone's PIN other than his or her
 own, so the mistake wasn't spotted until after thousands of customer cards had been
 shipped.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 3.4.2.1 Attacks via the Audit Trail
 
@@ -2472,8 +2394,6 @@ was in use on each of several dozen machines they examined.
 
 According to one report, when users were compelled to change their passwords, and
 prevented from using the previous few choices, they changed passwords rapidly to ex-
-
-Chapter 3: Passwords
 
 haust the history list and get back to their favorite password. A response, of forbidding
 password changes until after 15 days, meant that users couldn't change compromised
@@ -2526,8 +2446,6 @@ in its lifetime is:
 
 P = LR/S
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 This equation is taken from the U.S. Department of Defense password management
 guideline [242]. There are a couple of problems with this doctrine. First (the niggle)
 the password space can be completely exhausted, in which case LR/S > 1, and P isn't
@@ -2575,10 +2493,6 @@ target a particular account, or be happy with breaking any account on a machine 
 network; and technical protection issues such as whether passwords can be snooped by
 malicious software, false terminals, or network eavesdropping.
 
-Chapter 3: Passwords
-
-Research Problems
-
 I mentioned the lack of published empirical research. Although a little has been done,
 there's a lot more to do. For example, what are the best ways of enforcing user compliance with a password policy? There are some extreme solutions—such as issuing each
 user with a printed list of random passwords, each of which can be used once
@@ -2600,16 +2514,10 @@ anything you know, it's much harder for him to find out everything you know. Aga
 such schemes need careful evaluation of their usability and effectiveness using the
 tools of applied psychology.
 
-Further Reading
-
 There isn't as much literature on passwords as one would like, despite the subject's
 importance. The papers by Bob Morris and Ken Thompson [561], Fred Grampp and
 Bob Morris [350], and Dan Klein [460], are the classics. The DoD guidelines are very
 influential [242].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Access Control
 
@@ -2674,8 +2582,6 @@ us at a slight disadvantage when discussing PCs running single-user operating sy
 such as DOS and Win95/98, which have no overt security policy: any process can
 modify any data. People do have implicit protection goals, though; you don't expect a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 shrink-wrap program to trash your hard disk. So an explicit security policy is a good
 idea, especially when products support some features that appear to provide protection,
 such as login IDs.
@@ -2710,8 +2616,6 @@ what we need. We want to ensure that transactions are well formed—that each de
 matched by a credit somewhere else—so we would not want Alice to have uninhibited
 write access to the account file. We would also prefer that Sam didn't have this access;
 so that all write access to the accounting data file was via the accounting program. The
-
-Chapter 4: Access Controls
 
 access permissions might now look like those shown in .3. (There is still an
 indirect vulnerability in that Sam could overwrite the accounts program with an unauthorised one of his own devising, but we'll leave off discussing that till Chapter 9.)
@@ -2757,8 +2661,6 @@ rank of assistant accountant." In the event of sickness, the assistant accountan
 as manager would have to get the regional head office to provide the second signature
 on a large transfer.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Until recently, some support for groups and roles existed but was not very widely
 used. Developers either implemented this kind of functionality in their application
 code, or as custom middleware (in the 1980s, I worked on two bank projects where
@@ -2796,8 +2698,6 @@ ACLs on millions of user files.
 Let's look at two important examples of ACLs: their implementation in Unix and
 
 NT.
-
-Chapter 4: Access Controls
 
 4.2.3 Unix Operating System Security
 
@@ -2852,8 +2752,6 @@ then be given the access control attributes we want for the accounts program.
 One way of looking at this is that an access control problem that is naturally modelled in three dimensions—the triples (user, program, data)—is being implemented
 using two-dimensional mechanisms. These mechanisms are much less intuitive than
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 triples, and people make many mistakes implementing them. Programmers are often
 lazy or facing tight deadlines; so they just make the application suid root, and it can do
 anything.
@@ -2901,8 +2799,6 @@ administrator couldn't do much damage outside his or her own domain. The individ
 workstations would in turn trust the department (but not vice versa) so that users could
 perform tasks that require local privilege (installing many software packages requires
 
-Chapter 4: Access Controls
-
 this). Administrators are all-powerful (so you can't create truly tamper-resistant audit
 trails without using write-once storage devices), but the damage they can do can be
 limited by suitable organization. The data structure used to manage all this, and hide
@@ -2948,8 +2844,6 @@ is a certain person, a member of some group, or the holder of some privilege.
 
 .5 A capability.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 As an example of where certificate-based capabilities can be useful, consider a hospital. If we implemented a rule stating "a nurse will have access to all the patients who
 are on her ward, or who have been there in the last 90 days," naively, each access control decision in the patient record system would require several references to administrative systems, to find out which nurses and which patients were on which ward,
 when. This means that a failure of the administrative systems can now affect patient
@@ -2985,8 +2879,6 @@ As already mentioned, Win2K uses Kerberos as its main means of authenticating us
 1In fact, it's a proprietary variant, with changes to the ticket format, which prevent
 Win2K clients from working with existing Unix Kerberos infrastructures. The documentation for the changes is released on condition that it not be used to make compatible implementations. Microsoft's goal is to get everyone to install Win2K Kerberos servers. This has
 caused an outcry in the open systems community [76].
-
-Chapter 4: Access Controls
 
 This brings us to the second way in which capabilities insinuate their way into
 Win2K: in many applications, people are likely to use the public key protocol
@@ -3027,8 +2919,6 @@ so users get more and more logons to different systems; consequently, the cost o
 logon to all the machines on the network. A crude solution is to endow their PCs with a
 menu of hosts to which a logon is allowed, and hide the necessary userids and passwords in scripts. More sophisticated solutions may involve a single security server
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 through which all logons must pass, or a smartcard to do multiple authentication protocols for different systems. Such solutions are hard to engineer properly. Whichever
 route one takes, the security of the best system can easily be reduced to that of the
 worst.
@@ -3068,8 +2958,6 @@ The idea is to base security functions on the object request broker, or ORB, a s
 focus on the Common Object Request Broker Architecture (CORBA), which is an attempt at an industry standard for object-oriented systems. The most important aspect of
 this is that an ORB is a means of controlling calls that are made across protection domains. This approach appears promising but is still under development. (A book on
 CORBA security is [112].)
-
-Chapter 4: Access Controls
 
 4.3 Hardware Protection
 
@@ -3112,8 +3000,6 @@ processors have offered more complex hardware mechanisms. Multics, an operating
 system developed at MIT in the 1960s and that inspired the development of Unix, introduced rings of protection which express differing levels of privilege: ring 0 programs had complete access to disk, supervisor states ran in ring 2, and user code at
 various less privileged levels [687]. Its features have to some extent been adopted in
 more recent processors, such as the Intel main processor line from the 80286 onward.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 There are a number of general problems with interfacing hardware and software security mechanisms. For example, it often happens that a less privileged process such as
 application code needs to invoke a more privileged process such as a device driver.
@@ -3158,8 +3044,6 @@ they are incorporated in all sorts of security-sensitive applications from mobil
 to the Capstone chips used by the U.S. government to protect secret data. A fast multiply-and-accumulate instruction and low-power consumption make the ARM very attractive for embedded applications doing public key cryptography and/or signal
 processing. (The standard reference is [325].)
 
-Chapter 4: Access Controls
-
 The ARM is licensed as a processor core, which chip designers can include in their
 products, plus a number of optional add-ons. The basic core contains separate banks of
 registers for user and system processes, plus a software-interrupt mechanism that puts
@@ -3202,8 +3086,6 @@ address, a boundary in the hardware below which only the operating system has ac
 which one can guarantee that no process will hog the CPU to the extent that other
 processes are blocked. Such mechanisms are now starting to be introduced commercially ('Quality of Service Technology is promised by Microsoft for 'the Win2K
 timeframe'.) The interaction of such features with access control and protection generally is one of the things to watch out for in the future.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 4.4 What Goes Wrong
 
@@ -3250,8 +3132,6 @@ Many of the vulnerabilities reported routinely by CERT and bugtraq are variants 
 this theme. There is really no excuse for the problem to continue, as it has been well
 known for a generation. Most of the early 1960s time-sharing systems suffered from it,
 
-Chapter 4: Access Controls
-
 instructions—verify
 
 and fixed it [349]. Penetration analysis efforts at the System Development Corporation
@@ -3291,8 +3171,6 @@ A wide variety of other bugs have enabled users to assume root status and take o
 the system. For example, the PDP-10 TENEX operating system had the bug that the
 program address could overflow into the next bit of the process state word, which was
 the privilege-mode bit; this meant that a program overflow could put a program in su-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 pervisor state. In another example, some Unix implementations had the feature that if a
 user tried to execute the command su when the maximum number of files were open,
@@ -3340,8 +3218,6 @@ of active content of various kinds such as ActiveX controls. These can be a mena
 because users have no intuitively clear way of controlling them, and they can be used
 to launch serious attacks. Even Java, for all its supposed security, has suffered a number of attacks that exploited careless implementations [226]. However, many people
 
-Chapter 4: Access Controls
-
 (and many companies) are unwilling to forgo the bells and whistles that active content
 can provide.
 
@@ -3382,8 +3258,6 @@ forgery easy. The Unix file utmp—the list of users logged in—is frequently u
 security checking of various kinds, but is also frequently world-writeable! This should
 have been built as a service rather than a file, but fixing problems like these once the
 initial design decisions have been made can be difficult.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 4.4.5 Remedies
 
@@ -3429,8 +3303,6 @@ But Unix security became a classic "success disaster." Unix was repeatedly exten
 without proper consideration being given to how the protection mechanisms also
 needed to be extended. The Berkeley extensions (rsh, rhosts, etc.) were based on an
 extension from a single machine to a network of machines that were all on one LAN
-
-Chapter 4: Access Controls
 
 and all under one management. Mechanisms such as rhosts were based on a tuple
 (username,hostname) rather than just a user name, and saw the beginning of the transfer of trust.
@@ -3479,8 +3351,6 @@ damage that can be done by particular groups, users, and programs whether throug
 error or malice. The most important fielded examples are Unix and NT, which are
 similar in many respects, though NT is more expressive. Access control is also an important part of the design of special-purpose hardware such as smartcards and other
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 encryption devices. New techniques are being developed to cope with object-oriented
 systems and mobile code. But implementation remains generally awful.
 
@@ -3490,8 +3360,6 @@ not be immediately obvious, as the underlying mechanisms can be quite different.
 example comes from public key infrastructures, which are a reimplementation of an
 old access control concept, the capability.
 
-Research Problems
-
 Most of the issues in access control were identified by the 1960s or early 1970s, and
 were worked out on experimental systems such as Multics [687] and the CAP [804].
 Much of the research in access control systems since has involved reworking the basic
@@ -3499,8 +3367,6 @@ themes in new contexts, such as object-oriented systems and mobile code.
 
 A recent thread of research is how to combine access control with the admission
 control mechanisms used to provide quality of service guaranteed in multimedia operating systems. Another topic is how to implement and manage access control efficiently in large complex systems, using techniques such as roles.
-
-Further Reading
 
 The best textbook to use for a more detailed introduction to access control issues is
 Dieter Gollmann's Computer Security [344]. A technical report from U.S. Navy Labs
@@ -3523,10 +3389,6 @@ All these topics are fast-moving; the attacks that are making the headlines chan
 significantly (at least in their details) from one year to the next. To keep up, you should
 not just read textbooks, but follow the latest notices from CERT, and mailing lists such
 as bugtraq.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Cryptography
 
@@ -3603,8 +3465,6 @@ letters. A human cryptanalyst will usually require much less.
 
 .1 Monoalphabetic substitution cipher.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 There are basically two ways to make a stronger cipher: the stream cipher and the
 block cipher. In the former, you make the encryption rule depend on a plaintext symbol's position in the stream of plaintext symbols, while in the latter you encrypt several
 plaintext symbols at once in a block. Let's look at early examples.
@@ -3645,8 +3505,6 @@ Vernam during World War I [428]; its effect is that given any ciphertext, and an
 plaintext of the same length, there is a key that decrypts the ciphertext to the plaintext.
 Regardless of the amount of computation that opponents can do, they are none the
 
-Chapter 5: Cryptography
-
 wiser, as all possible plaintexts are just as likely. This system is known as the one-time
 pad. Leo Marks' engaging book on cryptography in the Special Operations Executive
 in World War II [523] relates how one-time key material was printed on silk, which
@@ -3676,8 +3534,6 @@ secrecy [694, 695].
 .4 What the spy claimed he said.
 
 .5 Manipulating the message in .3 to entrap the spy.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 The one-time pad is still used for high-level diplomatic and intelligence traffic, but it
 consumes as much key material as there is traffic, hence is too expensive for most applications. It's more common for stream ciphers to use a suitable pseudorandom number generator to expand a short key into a long keystream. The data is then encrypted
@@ -3715,8 +3571,6 @@ It is then enciphered two letters at a time using the following rules:
 • Otherwise, the two letters stand at two of the corners of a rectangle in the table, and we replace them with the letters at the other two corners of this rectangle. For example, "lo" enciphers to "MT."
 
 .6 The Playfair enciphering tableau.
-
-Chapter 5: Cryptography
 
 .7 Example of Playfair enciphering.
 
@@ -3765,8 +3619,6 @@ To Lombard Bank, London. Please pay from our account with you no. 1234567890 the
 sum of £1000 to John Smith of 456 Chesterton Road, who has an account with HSBC
 Bank Cambridge no. 301234 4567890123, and notify him that this was for "wedding
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 present from Doreen Smith." From First Cowboy Bank of Santa Barbara, CA, USA.
 Charges to be paid by us.
 
@@ -3813,8 +3665,6 @@ two cases of fraud that exploited it: one external attempt involving cryptanalys
 which failed because the attacker didn't understand bank procedures, and one successful but small fraud involving a crooked staff member. I'll explain the systems that replaced test keys, and cover the whole issue of how to tie cryptographic authentication
 mechanisms to procedural protection such as dual control, in Chapter 9, "Banking and
 
-Chapter 5: Cryptography
-
 Bookkeeping." For now, test keys are the classic example of a one-way function used
 for authentication.
 
@@ -3855,8 +3705,6 @@ research papers on cryptography.)
 The random oracle model seeks to formalize the idea that a cipher is "good" if, when
 viewed in a suitable way, it is indistinguishable from a random function of a certain
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 type. I will call a cryptographic primitive pseudorandom if it passes all the statistical
 and other tests that a random function of the appropriate type would pass, in whichever
 model of computation we are using. Of course, the cryptographic primitive will actually be an algorithm, implemented as an array of gates in hardware or a program in
@@ -3889,8 +3737,6 @@ diskette to the cipher machine, types in a key, issues an instruction, and the d
 transformed in the appropriate way.
 
 .9 The random oracle.
-
-Chapter 5: Cryptography
 
 Let's look at this model in more detail for these different cryptographic primitives.
 
@@ -3939,8 +3785,6 @@ mobile phones, where a 16-byte challenge from the base station is concatenated w
 16-byte secret key known to the phone into a 32-byte number, and passed through a
 hash function to give an 11-byte output [138]. The idea is that the phone company also
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 knows k and can check this computation, while someone who eavesdrops on the radio
 link can only get a number of values of the random challenge x and corresponding output from h(x, k). The eavesdropper must not be able to get any information about k or
 be able to compute h(y, k) for a new input y. But the one-way function used by most
@@ -3988,8 +3832,6 @@ length of 48 to 80 bits.
 
 which is asymptotically solved by N ! m2/2 log(1/ ")[451].
 
-Chapter 5: Cryptography
-
 However, there are other applications in which collisions are unacceptable. In a
 digital signature application, if it were possible to find collisions with h(M1) = h(M2)
 but M1 ! M2, then a Mafia-owned bookstore's Web site might get you to sign a message M1 saying something like, "I hereby order a copy of Rubber Fetish volume 7 for
@@ -4032,8 +3874,6 @@ new key as input, giving it to us and keeping a copy of it on his scroll for ref
 case he's given the same input again. If we need to recover the data, we go back to the
 generator, enter the same key, get the same long file of random data, and exclusive-or
 it with our ciphertext to get our plaintext data back again. Other people with access to
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 the keystream generator won't be able to generate the same keystream unless they
 know the key.
@@ -4078,8 +3918,6 @@ Playfair, both input and output are two characters; with DES, they're both bit s
 64 bits. Whatever the number of symbols and the underlying alphabet, encryption acts
 on a block of fixed length. (If you want to encrypt a shorter input, you have to pad it,
 as with the final z in our Playfair example.)
-
-Chapter 5: Cryptography
 
 We can visualize block encryption as follows. As before, we have an elf in a box
 with dice and a scroll. On the left is a column of plaintexts, and on the right is a column of ciphertexts. When we ask the elf to encrypt a message, it checks in the lefthand column to see if has a record of it. If not, it uses the dice to generate a random
@@ -4126,8 +3964,6 @@ plaintexts. While these attacks were of great scientific importance, their pract
 They can have a commercial effect, though: the attacks on DES undermined confidence in it, and started moving people to other ciphers. In some other cases, an attack
 that started off as certificational has been developed by later ideas into an exploit.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Which sort of attacks you should be worried about depends very much on your application. With a broadcast entertainment system, for example, you can buy a decoder,
 observe a lot of material, and compare it with the enciphered broadcast signal; so a
 known-plaintext attack is the main threat to worry about. But there are surprisingly
@@ -4166,8 +4002,6 @@ permutation. This is a computation that anyone can perform, but that can be reve
 only by someone who knows a trapdoor such as a secret key. This model is like the
 one-way function model of a cryptographic hash function, but I state it formally nonetheless: a public key encryption primitive consists of a function that, given a random
 input R, will return two keys, KR (the public encryption key) and KR–1 (the private decryption key) with the properties that:
-
-Chapter 5: Cryptography
 
 • Given KR, it is unfeasible to compute KR–1 (so it's not possible to compute R
 
@@ -4222,8 +4056,6 @@ function that reduces any input message to a one-way hash value of fixed length,
 one direction, known as signature, for only one principal, while in the other direction,
 it will perform verification for anybody.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Signature verification can take two forms. In the basic scheme, the elf (or the signature verification algorithm) outputs only TRUE or FALSE, depending on whether
 the signature is good. But in a scheme with message recovery, anyone can input a signature and get back the message corresponding to it. In our elf model, this means that
 if the elf has seen the signature before, it will give the message corresponding to it on
@@ -4262,8 +4094,6 @@ to a block of input text, then shuffle subsets of the input, and continue in thi
 number of times. He described the properties of a cipher as being confusion and diffusion—adding unknown key values will confuse an attacker about the value of a plaintext symbol, while diffusion means spreading the plaintext information through the
 ciphertext. Block ciphers need diffusion as well as confusion.
 
-Chapter 5: Cryptography
-
 The earliest block ciphers were simple networks that combined substitution and
 permutation circuits, and so were called SP-networks. The diagram in .10
 shows an SP-network with 16 inputs, which we can imagine as the bits of a 16-bit
@@ -4297,8 +4127,6 @@ First, a block cipher that operated on 16-bit blocks would have rather limited a
 he or she observed them. The birthday theorem tells us that even if the input plaintexts
 were random, the opponent would expect to find a match as soon as she had seen a little over 28 blocks. So a practical block cipher will usually deal with plaintexts and ciphertexts of 64 bits, 128 bits, or even more. If we are using 4-bit to 4-bit S-boxes, we
 may have 16 of them (for a 64-bit block size) or 32 of them (for a 128 bit block size).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 5.4.1.2 Number of Rounds
 
@@ -4341,8 +4169,6 @@ recovering keybits once we have about M2 known texts. If the best linear relatio
 has an M2 greater than the total possible number of known texts (namely 2n where the
 inputs and outputs are n-bits wide), then we consider the cipher to be secure against
 linear cryptanalysis.
-
-Chapter 5: Cryptography
 
 5.4.1.5 Differential Cryptanalysis
 
@@ -4390,8 +4216,6 @@ which we first add 128 bits of key material, then pass the text through 32 S-box
 bits width, then perform a linear transformation that takes each output of one round to
 the inputs of a number of S-boxes in the next round. Rather than each input bit in one
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 round coming from a single output bit in the last, it is the exclusive-or of between two
 and seven of them. This means that a change in an input bit propagates rapidly through
 the cipher—a so-called avalanche effect that makes both linear and differential attacks
@@ -4438,8 +4262,6 @@ just two rounds.
 Dutch, so Rijndael is not pronounced anything like 'Region Deal,' and Rijmen is pronounced as
 'Raymen' not 'Ridgemen.'
 
-Chapter 5: Cryptography
-
 .11 The Rijndael linear transformation, illustrated by its effect on byte 3 of the input.
 
 The key material is added byte by byte after the linear transformation. This means
@@ -4473,8 +4295,6 @@ Federal Information processing Standard. Meanwhile, the algorithm is described i
 papers on the Rijndael home page [647]; there are also a number of implementations
 available both there and elsewhere on the net. The paper describing Rijndael's predecessor, Square, is at [213].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .12 The Feistel cipher structure.
 
 5.4.3 Feistel Ciphers
@@ -4497,19 +4317,17 @@ point of his design—is that:
 
 & –1 (f1, f2, ..., f2k – 1) = & (f2k – 1, ..., f2, f1)
 In other words, to decrypt, we just use the round functions in the reverse order.
-Thus, the round functions fi do not have to be invertible, and the Feistel structure lets
+Thus, the round functions fido not have to be invertible, and the Feistel structure lets
 us turn any one-way function into a block cipher. This means that we are less constrained in trying to choose a round function with good diffusion and confusion properties; it can more easily satisfy any other design constraints such as code size, table
 size, software speed, hardware gate count, and so on.
 
 5.4.3.1 The Luby-Rackoff Result
 
 The seminal theoretical result on Feistel ciphers was proved by Mike Luby and Charlie
-Rackoff in 1988. They showed that if fi were random functions, then & (f1, f2, f3) was
+Rackoff in 1988. They showed that if fiwere random functions, then & (f1, f2, f3) was
 indistinguishable from a random permutation under chosen plaintext attack. This result
 was soon extended to show that & (f1, f2, f3, f4) was indistinguishable under chosen
 plaintext/ciphertext attack—in other words, it was a pseudorandom permutation.
-
-Chapter 5: Cryptography
 
 I am omitting a number of technicalities. In engineering terms, the effect is that,
 given a really good round function, four rounds of Feistel are enough. So if we have a
@@ -4549,8 +4367,6 @@ DES, retorted that they would charge the U.S. government $200 million to build s
 machine. (Perhaps both were right.)
 
 .13 The DES round function.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 During the 1980s, there were persistent rumors of DES keysearch machines being
 built by various intelligence agencies, but the first successful public keysearch took
@@ -4594,8 +4410,6 @@ The reason for this design is that, by setting the three keys equal, one gets th
 result as a single DES encryption, thus giving a backward-compatibility mode with
 legacy equipment. (Some systems use two-key triple-DES, which sets k2 = k0; this gives
 an intermediate step between single- and triple-DES).
-
-Chapter 5: Cryptography
 
 5.5 Modes of Operation
 
@@ -4645,8 +4459,6 @@ However, an opponent who knows some of the plaintext may be able to cut and
 splice a message (or parts of several messages encrypted under the same key), so the
 integrity protection is not total.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .14 Cipher block chaining (CBC) mode.
 
 5.5.3 Output Feedback
@@ -4682,8 +4494,6 @@ Ki and can easily construct a modified message that instructs the receiving bank
 not $500 but $500,000! This is an example of an attack in depth; it is the price not just
 of the perfect secrecy we get from the one-time pad, but of much more humble stream
 ciphers too.
-
-Chapter 5: Cryptography
 
 5.5.4 Counter Encryption
 
@@ -4735,8 +4545,6 @@ mode and throw away all the output ciphertext blocks except the last one; this l
 block is the MAC. (The intermediate results are kept secret in order to prevent splicing
 attacks.)
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .15 Ciphertext feedback mode (CFB).
 
 This construction makes the MAC depend on all the plaintext blocks as well as on
@@ -4767,8 +4575,6 @@ The trick is to feed the message blocks one at a time to the key input of our bl
 cipher, and use it to update a hash value (which starts off at, say, H0 = 0). In order to
 make this operation noninvertible, we add feedforward: the (i – 1)st hash value is exclusive-or'ed with the output of round i. This is our final mode of operation of a block
 cipher (.16).
-
-Chapter 5: Cryptography
 
 .16 Feedforward mode (hash function).
 
@@ -4802,8 +4608,6 @@ the byte on the right, has the effect of rotating it one bit to the right. If su
 exist for each of the input bytes, then it's easy to choose key values that will leave the
 data unchanged after one round, and thus after 32 rounds. The probability that we can
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 do this depends on the S-box.3 This means that we can easily find collisions if Treyfer
 is used as a hash function. (In effect, hash functions have to be based on block ciphers
 that withstand chosen key attacks).
@@ -4830,8 +4634,6 @@ been introduced.
 3 Curiously, an S-box that is a permutation is always vulnerable, while a randomly selected one
 isn't quite so risky. In many cipher designs, S-boxes that are permutations are essential, or at
 least desirable. Treyfer is an interesting exception.
-
-Chapter 5: Cryptography
 
 Hash functions have many uses. One is to compute MACs. A naive method would
 be to simply hash the message with a key: MACk(M) = h(k, M). However, the accepted
@@ -4875,8 +4677,6 @@ some of the mechanisms used. (If you find the description assumes too much mathe
 The technique of asymmetric cryptography is to make the security of the cipher depend on the difficulty of solving a certain mathematical problem. The two problems
 used in most fielded systems are factorization (used in most commercial systems) and
 discrete logarithm (used in many military systems).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 5.7.1 Cryptography Based on Factoring
 
@@ -4927,8 +4727,6 @@ N as the public signature verification key) and checking that the message M is r
 
 M ' (Sigd(M))e modulo N
 
-Chapter 5: Cryptography
-
 Neither RSA encryption nor signature is generally safe to use on its own. The reason
 is that, encryption being an algebraic process, it preserves certain algebraic properties.
 For example, if we have a relation such as M1M2 = M3 that holds among plaintexts,
@@ -4975,8 +4773,6 @@ Small examples like this can be solved by inspection, but for a large random pri
 number p, we do not know how to do this computation. So the mapping f : x * gx (mod
 p) is a one-way function, with the additional properties that f(x + y) = f (x) f (y) and
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .18 Example of discrete logarithm calculations.
 
 f(nx) = f(x)n. In other words, it is a one-way homomorphism. As such, it can be used to
@@ -5016,8 +4812,6 @@ random number xA, calculates gxA modulo p and sends it, together with p, to Bob.
 likewise chooses a random number xB and forms gxAxB modulo p, which he passes back
 to Alice. Alice can now remove her exponentiation: using Fermat's theorem, she calculates gxB = (gxAxB) p-xA modulo p and sends it to Bob. Bob can now remove his exponentiation, too, and so finally gets hold of g. The security of this scheme depends on
 the difficulty of the discrete logarithm problem.
-
-Chapter 5: Cryptography
 
 In practice, it is tricky to encode a message to be a primitive root; but there is a
 much simpler means of achieving the same effect. The first public key encryption
@@ -5069,8 +4863,6 @@ who opens it. Caesar can even run two instances of the protocol, pretending to A
 that he's Brutus and to Brutus that he's Anthony. One fix is for Anthony and Brutus to
 apply their seals to their locks.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The same idea leads to a middleperson attack on the Diffie-Hellman protocol unless
 transient keys are authenticated. Charlie intercepts Alice's message to Bob and replies
 to it; at the same time, he initiates a key exchange with Bob, pretending to be Alice. He
@@ -5117,8 +4909,6 @@ message M using a hash function so that we can sign messages of arbitrary length
 so that an opponent can't use the algorithm's algebraic structure to forge signatures on
 messages that were never signed. Having attended to these details and applied one or
 two optimizations, we get the Digital Signature Algorithm (DSA) which is a U.S. standard and widely used in government applications.
-
-Chapter 5: Cryptography
 
 DSA (also known as DSS, for Digital Signature Standard) assumes a prime p of
 typically 1024 bits, a prime q of 160 bits dividing (p – 1), an element g of order q in
@@ -5170,8 +4960,6 @@ invented digital signatures was to have a directory of the public keys of a syst
 authorized users, such as a phone book. A more common solution, due to Loren
 Kohnfelder, is for a certification authority (CA) to sign the user's public encryption
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 and/or signature verification keys giving certificates that contain the user's name, attributes such as authorizations, and public keys. The CA might be run by the local
 system administrator; or it might be a third-party service such as Verisign whose business is to sign public key certificates after checking that they belong to the principals
 named in them.
@@ -5220,8 +5008,6 @@ prove that protocols are correct.
 
 Often, the participants' names aren't the most important things which the authentication mechanism has to establish. In the STU-III secure telephone used by the U.S.
 
-Chapter 5: Cryptography
-
 government and defense contractors, there is a protocol for establishing transient keys
 with forward and backward security; to exclude middleperson attacks, users have a
 crypto ignition key, a portable electronic device that they can plug into the phone to
@@ -5265,8 +5051,6 @@ Many ciphers fail because they're used improperly, so we need a clear model of w
 cipher does. The random oracle model is useful here: we assume that each new value
 returned by the encryption engine is random in the sense of being statistically independent of all the outputs seen before.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Block ciphers for symmetric key applications can be constructed by the careful
 combination of substitutions and permutations; for asymmetric applications such as
 public key encryption and digital signature one uses number theory. In both cases,
@@ -5279,8 +5063,6 @@ grasp, though there are some subtle things that can go wrong. In particular, it 
 measures such as access control and physical security. We'll return to this repeatedly
 in later chapters.
 
-Research Problems
-
 There are many active threads in cryptography research. Many of them are where
 crypto meets a particular branch of mathematics (number theory, algebraic geometry,
 complexity theory, combinatorics, graph theory, and information theory). The empirical end of the business is concerned with designing primitives for encryption, signature, and composite operations, and that perform reasonably well on available
@@ -5291,8 +5073,6 @@ Advanced Encryption Standard.
 
 The best way to get a flavor of what's going on is to read the last few years' proceedings of research conferences, such as Crypto, Eurocrypt, Asiacrypt and Fast Software Encryption, all published by Springer-Verlag in the Lecture Notes on Computer
 Science (LNCS) series.
-
-Further Reading
 
 The classic papers by Diffie and Hellman [248] and by Rivest, Shamir, and Adleman
 [649] are the closest to required reading on this subject. The most popular modern introduction is Bruce Schneier's Applied Cryptography [681], which covers a lot of
@@ -5306,8 +5086,6 @@ the standard reference on differential cryptanalysis; the best explanation of li
 cryptanalysis may be in a textbook by Doug Stinson [738]; the modern theory of block
 ciphers can be found developing in the papers of the Fast Software Encryption conference series during the 1990s (the proceedings are published by Springer-Verlag in the
 LNCS series). The original book on modes of operation is Carl Meyer and Steve Mat-
-
-Chapter 5: Cryptography
 
 yas [548]. Neal Koblitz has a good basic introduction to the mathematics behind public
 key cryptography [463]; the number field sieve is described in [497]; while quantum
@@ -5335,10 +5113,6 @@ Ministry of Defence did not start building electronic key distribution systems f
 main networks until 1992. It should also be noted that the classified community did not
 pre-invent digital signatures; they remain the achievement of Whit Diffie and Martin
 Hellman.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Distributed Systems
 
@@ -5417,8 +5191,6 @@ certificates belonging to principals whose credentials have changed—because th
 changed address, changed job, had their private key hacked, or whatever. Credit card
 networks are the largest existing systems that manage the global propagation of security state—which they do by assuming that most events are local, of low value, or both.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 6.1.2 Locking to Prevent Inconsistent Updates
 
 When a number of people are working concurrently on a document, they may use a
@@ -5462,8 +5234,6 @@ are moving to real-time gross settlement (RTGS), whereby transactions are booked
 order of arrival. The downside here is that the outcome can depend on network vagaries. Credit cards operate a mixture of the two strategies, with credit limits run in real
 time or near real time (each authorization reduces the available credit limit), while set-
 
-Chapter 6: Protocols
-
 tlement is run just as in a checking account. The downside of this is that by putting
 through a large preauthorization, a merchant can tie up your card.
 
@@ -5500,8 +5270,6 @@ that the books must still balance. This is common in banking systems, and is ach
 by insisting that each credit to one account is matched by an equal and opposite debit
 to another (I discuss this more in Chapter 9, "Banking and Bookkeeping"). Transactions are isolated if they look the same to each other, that is, are serializable; and they
 are durable if once done they can't be undone.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 These properties can be too much, or not enough, or both. Each of them can fail or
 be attacked in numerous obscure ways, and it's often sufficient to design the system to
@@ -5553,8 +5321,6 @@ the messages digitally signed.
 that all you care about is whether event A happened before event B, rather
 than what date it is [486]. Using challenge-response rather than timestamps in
 
-Chapter 6: Protocols
-
 security protocols is an example of this; another is given by timestamping
 services that continually hash all documents presented to them into a running
 total that's published, and can thus provide proof that a certain document existed by a certain date [364].
@@ -5593,8 +5359,6 @@ our operating environment, but there are some general issues that bear mentionin
 
 First, the failures with which we are concerned may be normal or Byzantine. The Byzantine fault model is inspired by the idea that there are n generals defending Byzantium, t of whom have been bribed by the Turks to cause as much confusion as
 possible in the command structure. The generals can pass oral messages by courier,
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 and the couriers are trustworthy. Each general can exchange confidential and authentic
 communications with each other general (we can also imagine them encrypting and
@@ -5641,8 +5405,6 @@ which cancelled each other out by chance in the simple checksum, while causing t
 crypto checksum to fail. The result was a false alarm, and a major disruption in my
 client's life.
 
-Chapter 6: Protocols
-
 6.2.2 What Is Resilience For?
 
 When introducing redundancy or other resilience mechanisms into a system, we need
@@ -5678,8 +5440,6 @@ At a still higher level, the emphasis might be on security renewability. Pay-TV 
 good example: secret keys and other subscriber management tools are typically kept in
 a cheap smartcard rather than in an expensive set-top box, so that even if all the secret
 keys are compromised, the operator can recover by mailing new cards out to the subscribers. I'll go into this in more detail in Chapter 20, "Copyright and Privacy Protection."
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 6.2.3 At What Level Is the Redundancy?
 
@@ -5728,8 +5488,6 @@ more and more errors. Neither will give much protection against attacks on data 
 data processing center burns down. Real-world recovery plans and mechanisms can get
 fiendishly complex, and involve a mixture of all of the above.
 
-Chapter 6: Protocols
-
 6.2.4 Service Denial Attacks
 
 One of the reasons we want security services to be fault-tolerant is to make service denial attacks less attractive; more difficult, or both. These attacks are often used as part
@@ -5770,8 +5528,6 @@ more to alarm bells.
 6.3 Naming
 
 Naming is a minor, if troublesome, aspect of ordinary distributed systems, but it becomes surprisingly hard in security engineering. A topical example (as of 2000) is the
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 problem of what sort of names to put on public key certificates. A certificate that says
 simply, "The person named Ross Anderson is allowed to administer system X" is of
@@ -5820,8 +5576,6 @@ that the credit card industry ever had to make was not Y2K remediation, but
 the move from 13-digit credit card numbers to 16. Issuers originally assumed
 that 13 digits would be enough; but the system ended up with tens of thousands of banks (many with dozens of products), so a 6-digit bank identification number (BIN number) was needed. Some card issuers have millions of
 
-Chapter 6: Protocols
-
 customers, so a 9-digit account number is the norm. And there's also a check
 digit (a linear combination of the other digits, which is appended to detect errors).
 
@@ -5866,8 +5620,6 @@ In payment systems, credit card numbers may be accepted while a terminal is
 offline as long as the credit card number appears valid (i.e., the last digit is a
 proper check digit of the first 15) and is not on the hot-card list. Certificates
 provide a higher-quality implementation of the same basic concept.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 It's important where the name is checked. The credit card check digit algorithm is deployed at the point of sale, so it is inevitably public. A further
 check—the card verification value (CVV) on the magnetic strip—is computed
@@ -5916,8 +5668,6 @@ Needham's principles, although very useful, are not sufficient. They were design
 a world in which naming systems could be designed and imposed at the system
 owner's convenience. When we move from distributed systems in the abstract to the
 
-Chapter 6: Protocols
-
 reality of modern Internet-based (and otherwise interlinked) service industries, there is
 quite a lot more to say.
 
@@ -5963,8 +5713,6 @@ unify two local naming systems that turn out to have incompatible assumptions. A
 electronics invade everyday life more and more, and systems become linked up, conflicts can propagate and have unexpected remote effects. For example, one of the lady
 professors in dispute over our university card is also a trustee of the British Library,
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 which issues its own admission tickets on the basis of the name on the holder's home
 university library card.
 
@@ -6006,8 +5754,6 @@ anonymous name can add commercial value. In Hong Kong, toll tokens for the Aberd
 the run-up to the transfer of power from Britain to Beijing, many people preferred to
 pay extra for the less traceable version, as they were worried about surveillance by the
 new police force.
-
-Chapter 6: Protocols
 
 Semantics of names can change. I once got a hardware store loyalty card with a random account number (and no credit checks). I was offered the chance to change this
 into a bank card after the store was taken over by the supermarket, and the supermarket
@@ -6053,8 +5799,6 @@ the departmental and organizational
 
 Authorizations have many (but not all) of the properties of addresses. Designers of
 public key infrastructures are beginning to realize that if a public key certificate con-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 tains a list of what it may be used for, then the more things on this list the shorter its
 period of usefulness. A similar problem besets systems where names are composite.
@@ -6116,8 +5860,6 @@ a
 
 The complexity is organizational and technical, as well as political. I noted in the introduction that names can refer not just to persons and machines acting on their behalf,
 
-Chapter 6: Protocols
-
 but also to organizations, roles ("the officer of the watch"), groups, and compound
 constructions: principal in role—Alice as manager; delegation—Alice for Bob; conjunction—Alice and Bob. Conjunction often expresses implicit access rules: "Alice
 acting as branch manager plus Bob as a member of the group of branch accountants."
@@ -6161,13 +5903,9 @@ revoked. The simplest solution is often to assign each principal a unique identi
 for no other purpose, such as a bank account number or a system logon name. But
 many problems arise when merging two systems that use naming schemes that are in-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 compatible for some reason. Sometimes this merging can even happen by accident—an
 example being when two systems use a common combination such as "name plus date
 of birth" to track individuals.
-
-Research Problems
 
 In the research community, secure distributed systems tend to have been discussed as a
 side issue by experts on communications protocols and operating systems, rather than
@@ -6184,8 +5922,6 @@ What interactions are there between recovery mechanisms and particular protectio
 technologies? In what respects should protection mechanisms be separated from resilience mechanisms, and in what respects should they be separated? What other pieces
 are missing from the jigsaw?
 
-Further Reading
-
 There are many books on distributed systems. I've found Sape Mullender's anthology
 [565] to be helpful and thought-provoking for graduate students, while the textbook we
 recommend to our undergraduates by Jean Bacon [64] is also worth reading. Geraint
@@ -6193,8 +5929,6 @@ Price has a survey of the literature on the interaction between fault tolerance 
 has occasional gems. But the most important practical topic for the working security
 engineer is probably contingency planning. There are many books on this topic; the
 one I have on my shelf is by Jon Toigo [749].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 PART
 
@@ -6236,10 +5970,6 @@ Finally, to keep the book manageable for readers who will use it primarily as a 
 of each chapter or section. That way, if you get lost at a first reading, you can just skip
 to the next section and carry on.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
-
 Multilevel Security
 
 At times, in the name of national security, secrecy has put that very
@@ -6271,8 +6001,6 @@ a security policy rigorously.
 find a new lease on life as platforms for firewalls and Web servers. They give
 some assurance that even although a firewall or server software might be
 hacked, the underlying operating system is not likely to be.
-
-Chapter 7: Multilevel Security
 
 • Although multilevel concepts were originally developed to support confidentiality in military systems, there are now many commercial systems that use
 multilevel integrity policies. For example, phone companies want their billing
@@ -6309,8 +6037,6 @@ does this mean they actually have to do? Must the obedience be enforced by the s
 has a specific duty to report them?
 
 .1 A typical corporate information security policy.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 We must do better than this. In fact, because the term 'security policy' is widely
 abused to mean a collection of managerialist platitudes, there are three more precise
@@ -6359,8 +6085,6 @@ opportunistically; there was also a keen and growing awareness of the threat fro
 World Wide Military Command and Control System was vulnerable to Trojan Horse
 attacks; this had the effect of restricting its use to people with a 'Top Secret' clearance,
 
-Chapter 7: Multilevel Security
-
 which was inconvenient. Finally, academic and industrial researchers were coming up
 with some interesting new ideas on protection, which we'll discuss below.
 
@@ -6399,8 +6123,6 @@ and so on. (The NSA security manual [582] gives a summary of the procedures used
 with 'Top Secret' intelligence data.)
 
 .2 Multilevel security.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 The system rapidly became more complicated. The damage criteria for classifying
 documents were expanded from possible military consequences to economic harm and
@@ -6443,8 +6165,6 @@ calls, care has to be taken to ensure that the charge for the conference call fa
 to the wiretapper, not to the target. Wiretapping requires an information flow policy in
 which the 'High' principal can see 'Low' data, but a 'Low' principal can't tell whether
 'High' is reading any data, and if so what.
-
-Chapter 7: Multilevel Security
 
 7.3.2 Information Flow Control
 
@@ -6499,8 +6219,6 @@ Multilevel security can be implemented in a number of ways. The textbook mechani
 that supervises all operating system calls and checks access permissions to decide
 whether the call can be serviced or not. In practice, things get much more complex as
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 it's hard to build systems whose trusted computing base is substantially less than the
 whole operating system kernel (plus quite a number of its utilities).
 
@@ -6547,8 +6265,6 @@ building a real MLS system).
 Multilevel security properties have been expressed in many other ways. The first multilevel security policy was a version of high water mark written in 1967–8 for the
 ADEPT-50, a mandatory access control system developed for the IBM S/360 mainframe [798]. This used triples of level, compartment and group, with the groups being
 files, users, terminals, and jobs. As programs (rather than processes) were subjects, it
-
-Chapter 7: Multilevel Security
 
 was vulnerable to Trojan horse compromises, and it was more complex than need be.
 Nonetheless, it laid the foundation for BLP, and also led to the current IBM S/390
@@ -6600,8 +6316,6 @@ attempted to model the classification of information using floating labels, as o
 to the fixed labels associated with BLP [809, 351]. It was ultimately unsuccessful, because labels tend to either float up too far too fast (if done correctly), or they float up
 more slowly (but don't block all the opportunities for malicious information flow).
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 However, CMW ideas have led to real products—albeit products that provide separation more than information sharing.
 
 The type enforcement model, due to Earl Boebert and Richard Kain [122] and later
@@ -6649,8 +6363,6 @@ to affect it (other than through a trusted interface, such as one of the control
 However, few of the people who build such systems are aware of the Biba model or
 what it might teach them.
 
-Chapter 7: Multilevel Security
-
 One interesting exception is LOMAC, an extension to Linux that implements a low
 water mark policy [313]. It is designed to deal with the problem of malicious code arriving somehow over the Net. The system provides two levels—high and low integrity—with system files at High and the network at Low. As soon as a program (such as
 a demon) receives traffic from the network, it is automatically downgraded to Low.
@@ -6690,8 +6402,6 @@ SCOMP's successor, XTS-300, supports C2G, the Command and Control Guard. This
 is used in the time-phased force deployment data (TPFDD) system whose function is to
 plan U.S. troop movements and associated logistics. Overall, military plans are developed as TPFDDs, at a high classification level, then distributed at the appropriate times
 as commands to lower levels for implementation. The deliberate downgrading of high
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 information raises a number of issues, some of which I'll deal with later. (In the case
 of TPFDD, the guard examines the content of each record before deciding whether to
@@ -6734,8 +6444,6 @@ elaborate structure. This enabled MLS properties to be introduced with minimal
 changes to the system kernel. Other products of this kind included Secure Ware (and
 its derivatives, such as SCO and HP VirtualVault) and Addamax.
 
-Chapter 7: Multilevel Security
-
 Compartmented mode workstations (CMWs) allow data at different levels to be
 viewed and modified at the same time by a human operator, and ensure that labels attached to the information are updated appropriately. The initial demand came from the
 intelligence community, whose analysts may have access to 'Top Secret' data, such as
@@ -6766,8 +6474,6 @@ services.
 The US Naval Research Laboratory (NRL) therefore developed the Pump (see Figure 7.3), a one-way data transfer device (a data diode) using buffering to allow oneway information flow while limiting the bandwidth of possible backward leakage by a
 number of mechanisms such as timing randomization of acknowledgment messages
 [434,436,437]. The attraction of this approach is that it is possible to build MLS sys-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 tems by using pumps to connect separate systems at different security levels. As these
 systems don't process data at more than one level, they can be built from cheap commercial-off-the-shelf (COTS) components [438]. As the cost of hardware falls, this
@@ -6815,8 +6521,6 @@ of BLP, displaying in the background the current security level of the device, a
 Rather than preventing users from downgrading, as a classical BLP system might do,
 it allows them to assign any security label they like to their output. However, if this
 
-Chapter 7: Multilevel Security
-
 involves a downgrade, it requires the user to confirm the release of the data using a
 trusted path interface, thus ensuring no Trojan or virus can release anything completely
 unnoticed. Of course, a really clever malicious program can piggyback classified material on stuff that the user does wish to release, so there are other tricks to make that
@@ -6855,8 +6559,6 @@ models can provide real-time performance guarantees to help prevent service deni
 attacks [552]. It's already clear that many of the lessons learned in multilevel confidentiality systems also go across. So do a number of the failure modes, which I discuss
 in the next section.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 7.5 What Goes Wrong
 
 As I've frequently pointed out, engineers learn more from the systems that fail than
@@ -6892,8 +6594,6 @@ two different security policies is harder still. This is bad enough for differen
 on the BLP theme but even worse when one of the policies is of a non-BLP type, as we
 will encounter in the following two chapters.
 
-Chapter 7: Multilevel Security
-
 7.5.2 The Cascade Problem
 
 An example of the difficulty of composing multilevel secure systems is given by the
@@ -6916,8 +6616,6 @@ must take into account.
 One of the reasons these span limits are imposed on multilevel systems emerges from a
 famous—and extensively studied—problem: the covert channel. First pointed out by
 Butler Lampson in 1973 [488], a covert channel is a mechanism that, though not designed for communication, can nonetheless be abused to allow information to be communicated down from High to Low.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 A typical covert channel arises when a High process can signal to a Low process by
 affecting some shared resource. For example, it could position the disk head at the outside of the drive at time ti to signal that the i-th bit in a High file was a 1, and position
@@ -6959,8 +6657,6 @@ and utility billing, where a programmer who has inserted Trojan code in a highin
 of behavior (in a phone system he might call three numbers in succession, for example). Code review is the only real way to block such attacks, though balancing controls
 can also help (I discuss this in Chapter 9).
 
-Chapter 7: Multilevel Security
-
 The best that developers have been able to do consistently with covert channel
 bandwidth in time-sharing multilevel operating systems is to limit it to one bit per second or so. (That is now the DoD target [241]; techniques for doing a systematic analysis may be found in [448].) One bit per second may be tolerable in an environment
 where we wish to prevent large TS/SCI files—such as satellite photographs—leaking
@@ -6999,8 +6695,6 @@ tries to do the same. If the MLS operating system prohibits this, it will have l
 information—namely, that there is a file called agents at High. But if it doesn't, it will
 now have two files with the same name.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .6 How the United States deals with classified data.
 
 .7 How Britain deals with classified data.
@@ -7034,8 +6728,6 @@ There are many sources of cost and confusion.
 
 trained Unix administrator can't just take on an MLS installation without significant further training. A USAF survey showed that many MLS systems
 were installed without their features being used [624].
-
-Chapter 7: Multilevel Security
 
 • Many applications need to be rewritten or at least greatly modified to run under MLS operating systems [655]. For example, CMWs that display information at different levels in different windows, and prevent the user from doing
 cut-and-paste operations from High to Low, often have problems with code
@@ -7084,8 +6776,6 @@ photo, but declassifying the whole collection would reveal our surveillance capa
 government payroll might not be very sensitive per se, but it is well known
 that journalists can often identify intelligence personnel working under civilian cover from studying the evolution of departmental staff lists over a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 period of a few years. (I delve into this issue—the "aggregation problem"—in more detail in Chapter 8, Section 8.3.2.)
 
 • A related problem is that the output of an unclassified program acting on
@@ -7126,8 +6816,6 @@ does a user know he or she is installing a genuine copy of the operating system?
 Trusted Facility Management (how can we be sure it's all administered correctly?). In
 effect, tackling one simplified example of protection in great detail cast light on many
 things that previously were glossed over. The resulting lessons can be applied to sys-
-
-Chapter 7: Multilevel Security
 
 tems with quite different policies. An excellent recent example comes from Cipress, a
 prototype system built by the Fraunhofer Institute to provide strict copy and usage
@@ -7170,8 +6858,6 @@ being the main motivation for the prosecution of Alger Hiss. As he writes in his
 market. Secrets become organizational assets, never to be shared save in exchange for
 another organization's assets." Moynihan reports, for example, that in 1996, the num-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 ber of original classification authorities decreased by 959 to 4,420 (following post-
 Cold-War budget cuts), but that the total of all classification actions reported for fiscal
 year 1996 increased by 62 percent to 5,789,625.
@@ -7196,18 +6882,12 @@ strengths and limitations of MLS systems, so that they can draw on the considera
 research literature when it's appropriate, and avoid being dragged into error when it's
 not.
 
-Research Problems
-
 Multilevel confidentiality appears to have been "done to death" by generations of research students. The opportunities that remain may concern multilevel integrity, and
 the interaction that multilevel systems have with other security policies: how, for example, should a military hospital combine BLP with the bookkeeping and patient privacy policies discussed in the next two chapters?
 
 1 Although senior people follow the official line when speaking on the record, in private they rail at
 the penalties imposed by the bureaucracy. My favorite quip is from an exasperated British general: "What's the difference between Jurassic Park and the Ministry of Defence? One's a theme
 park full of dinosaurs, and the other's a movie!"
-
-Chapter 7: Multilevel Security
-
-Further Reading
 
 One of the better introductions to MLS systems, and especially the problems of databases, is Gollmann's Computer Security [344]. Amoroso's Fundamentals of Computer
 Security Technology [15] is the best introduction to the formal mathematics underlying
@@ -7224,10 +6904,6 @@ Viruses [192]. Many of the classic early papers in the field can be found at the
 archive [573]. Finally, the classic on the abuse of the classification process to cover up
 waste, fraud, and mismanagement in the public sector was written by Leslie Chapman
 [176].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Multilateral Security
 
@@ -7297,8 +6973,6 @@ origin.
 For many years, it has been standard practice in the United States and allied governments to restrict access to information by the use of codewords as well as classifications. The best-documented example is the codeword Ultra used during World War II,
 to refer to British and American decrypts of German messages enciphered using the
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Enigma machine. The fact that the Enigma had been broken was so important that it
 was worth protecting at almost any cost. So Ultra clearances were given to only a small
 number of people (in addition to the cryptanalysts and their support staff, the list included the Allied leaders, their senior generals, and handpicked analysts.) No one who
@@ -7338,8 +7012,6 @@ drive security targets, implementation, and evaluation. As it happens, the Bell-
 LaPadula model appears to go across more or less unchanged. We still have information flows between High and Low as before, where High is a compartment that dominates Low. If two nodes in a lattice are incompatible—as with 'Top Secret' and 'Secret
 Crypto' in .3—then there should be no information flow between them at all.
 
-Chapter 8: Privacy
-
 .3 A lattice of security labels.
 
 In fact, the lattice and Bell-LaPadula models are essentially equivalent, and were
@@ -7370,8 +7042,6 @@ lattice model, as well as working out a lot of the problems with file and direct
 1 Walter and his colleagues deserve more credit than history has given them. They had the main
 results first [788], but Bell and LaPadula had their work heavily promoted by the U.S. Air Force.
 Fenton has also been largely ignored, not being an American.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Most products built for the multilevel secure market can be reused in compartmented
 mode. But, in practice, these products are not as effective as one might like. It is easy
@@ -7413,8 +7083,6 @@ partner who has worked recently for one company in a business sector may not hav
 access to the papers of any other company in that sector." So an advertising copywriter
 who has worked on, say, the Shell account, will not be allowed to work on any other
 oil company's account for some fixed period of time.
-
-Chapter 8: Privacy
 
 The Chinese Wall model thus features a mix of free choice and mandatory access
 control: a partner can choose which oil company to work for, but once that decision is
@@ -7466,8 +7134,6 @@ portable way, and Germans (who already have such a smartcard) are deliberating t
 pros and cons of putting emergency medical information (such as current prescriptions
 and allergies) on the card, too. The main objection here is that if data currently held on
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 a MedAlert bracelet, such as allergies, are moved to a smartcard, there is a significant
 risk to patients who fall ill in locations where there is no smartcard reader available,
 such as on an airplane or in a foreign country. Not all privacy-enhancing technologies
@@ -7512,8 +7178,6 @@ the advice they were given was that they were to always call back—and not to a
 institution where the caller claimed to work. It turned out that some 30 telephone enquiries a week were bogus. (At that time, there were about 200 health authorities; the
 advice given is described in [22].)
 
-Chapter 8: Privacy
-
 Training staff in this way is more important than most technical protection measures.
 But the best staff training in the world won't protect a system in which too many people see too much data. There will always be staff who are careless or even crooked;
 and the more records they can see, the more harm they can do.
@@ -7554,8 +7218,6 @@ fielded in England in Hampshire, where then health minister Gerry Malone had his
 parliamentary seat. The system made all lab tests performed for local doctors at the
 hospital's pathology lab visible to most of the hospital's staff. A nurse who had had a
 test done by her family doctor complained to him after she found the result on the hospital system at Basingstoke where she worked; this caused outrage among local medics, and Malone lost his seat in Parliament at the 1997 election (by two votes) [32].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 There are many ad hoc measures that hospitals can take to improve the protection of
 existing systems. One of the most effective is to keep the records of former patients in
@@ -7601,8 +7263,6 @@ state) that you're in, you may have to keep separate medical records for human f
 released to the child later without violating the mother's confidentiality). This situation
 is likely to get more complex still as genetic data start being used more widely.
 
-Chapter 8: Privacy
-
 In many countries, including all the members of the European Union, a special status
 is given to patient consent in law as well as in medical ethics. Records can be shared
 only with third parties if the patient approves, or in a limited range of statutory exceptions, such as tracing contacts of people with infectious diseases such as TB. Definitions are slightly fluid; in some countries, HIV infection is notifiable, in others it isn't,
@@ -7647,8 +7307,6 @@ notification if any person whom it is proposed to add to their access control
 list already has access to personal health information on a large number of
 people
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 9. Trusted computing base: computer systems that handle personal health information shall have a subsystem that enforces the above principles in an effective way. Its effectiveness shall be subject to evaluation by independent
 experts.
 
@@ -7691,8 +7349,6 @@ given application? The lattice model on its own isn't enough, as it shows how to
 compartments but not how to manage information flows between them. Both BMA and
 Chinese Wall tackle this problem, but BMA is as decentralized as possible, while in
 Chinese Wall the assignment of access rights is centralized, and the resulting aggrega-
-
-Chapter 8: Privacy
 
 tion risk is managed by a more explicit mechanism to prevent any one user getting
 their hands on too much data.
@@ -7737,8 +7393,6 @@ dates of birth, postal codes and so on) and so are only usable by trusted resear
 Finally there are public-access records which have been stripped of identifiers down to
 the level at which patients are identified only in general terms such as 'a white female
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 aged 70–74 living in Vermont.' Nonetheless, researchers have found that many patients can still be identified by cross-correlating the public access records with commercial databases, and following complaints by privacy advocates, a recent report from
 the General Accounting Office criticized HCFA for lax security [333].
 
@@ -7773,8 +7427,6 @@ data until the 1960s. The procedure was that one record in a thousand was made a
 added to the data to prevent people with some broader knowledge (such as of the salaries paid by the employer in a company town) from tracing individuals. In addition to
 the sample records, local averages were given for people selected by various attributes;
 and records with extreme values (such as very high incomes) were suppressed.
-
-Chapter 8: Privacy
 
 The reason for this might not be immediately obvious. But consider a wealthy family
 living in a small village. Their income might make a significant difference to the per
@@ -7816,8 +7468,6 @@ A theory of inference control was developed by Dorothy Denning and others in lat
 developers of many modern privacy systems are unaware of this work, and repeat
 many of the mistakes of the 1960s. (Inference control is not the only problem in computer security where this happens.) The following is an overview of the most important
 ideas.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 A characteristic formula is the expression (in some database query language) that
 selects a set, known as the query set, of records. An example might be "all female employees of the computer laboratory at the grade of professor." The smallest query sets,
@@ -7864,8 +7514,6 @@ or control the allowed queries in some other way.
 There are a number of alternatives to simple query set size control. The U.S. census,
 for example, uses the "n-respondent, k%-dominance rule": it will not release a statistic
 
-Chapter 8: Privacy
-
 of which k% or more is contributed by n or fewer values. Other techniques include, as
 mentioned, suppressing data with extreme values. A census bureau may deal with highnet-worth individuals in national statistics, but not in the local figures, while some
 medical databases do the same for less common diseases. For example, a U.K. prescribing statistics system suppresses sales of the AIDS drug AZT from local statistics.
@@ -7894,8 +7542,6 @@ prevent these values being worked out in turn. The remaining table is shown in .
 This process is called complementary cell suppression. If there are further attributes
 in the database schema—for example, if figures are also broken down by race and sex,
 to show compliance with anti-discrimination laws—then even more information may
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 be lost. Where a database scheme contains m-tuples, blanking a single cell generally
 means suppressing 2m – 1 other cells, arranged in a hypercube with the sensitive statistic at one vertex. Clearly, even precise protection can rapidly make the database unusable. (where a database is not homogeneous, things are even worse: there can be many
@@ -7928,8 +7574,6 @@ three would not be permissible either. Thus, the lattice divides naturally into 
 of prohibited queries and a bottom half of allowable queries, as shown in .6.
 
 .6 Table lattice for a database with three attributes.
-
-Chapter 8: Privacy
 
 8.3.3.6 Audit-Based Control
 
@@ -7974,8 +7618,6 @@ is only a small number of relevant statistics. A possible strategy here is rando
 response, where we randomly restrict the data we collect (the subjects' responses). For
 example, if the three variables under investigation are obesity, smoking, and AIDS, we
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 might ask each subject with HIV infection to record whether they smoke or whether
 they are overweight, but not both. Of course, this can limit the value of the data.
 
@@ -8013,8 +7655,6 @@ to parts of the patient record databases from which the statistical data are dra
 8.3.4.1 Active Attacks
 
 Active attacks are particularly powerful. These are where users have the ability to insert or delete records into the database. A user might add records to create a group that
-
-Chapter 8: Privacy
 
 contains the target's record, plus those of a number of nonexistent subjects created by
 himself. One (imperfect) countermeasure is to add or delete new records in batches.
@@ -8064,8 +7704,6 @@ information is often mission creep. Once an organization has access to data that
 potentially valuable, then all sorts of ways of exploiting that value will be developed.
 Some of these are likely to be highly objectionable; a topical U.S. example is the resale
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 of medical records to banks for use in filtering loan applications. However, even an
 imperfect de-identification system may destroy the value of medical data to a bank's
 loan department. If only five percent of the patients can be identified, and then only
@@ -8103,8 +7741,6 @@ buying them for cash, they prefer to use an automatic check-out facility in a su
 embarrassment of being seen with a packet of tampons is immediate, and outweighs
 the potential future embarrassment of being sent discount coupons for baby wear six
 months after the menopause.
-
-Chapter 8: Privacy
 
 Second, it is extraordinarily difficult to exclude single points of failure, no matter
 how hard you try to build watertight compartments. The CIA's Soviet assets were
@@ -8147,8 +7783,6 @@ Healthcare takes up some 3 percent of GNP in Japan, versus 7 to 8 percent for th
 Europeans, who live longer than Americans. A variant of the Japanese solution was
 adopted in Oregon in February 1994 and proved popular with Oregonians, but was resisted fiercely by health industry lobbyists as "rationing."
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 To sum up, the problem of health record privacy is fundamentally a political one.
 Whether large quantities of medical records ever accumulate in one database depends
 on how the health care system is organized, and whether these are destroyed—or at
@@ -8180,8 +7814,6 @@ researchers to make statistical enquiries without compromising individuals' priv
 The hardest problem is how to manage the interface between the two, and in the specific case of medicine, how to prevent the spread of payment information. The only
 realistic solution for this lies in regulation.
 
-Research Problems
-
 In the near future, a lot of medical treatment may involve genetic information. Your
 medical records may involve personal health information about your parents, siblings,
 cousins, and so on. How can the BMA model be extended to deal with medical records
@@ -8190,13 +7822,9 @@ that relate to multiple individuals?
 Are there any ways of linking access control policies for privacy with statistical security with (perhaps) digital cash for payment? Can there be such a thing as seamless
 privacy where everything fits neatly together?
 
-Chapter 8: Privacy
-
 What other ways of writing privacy policies are there? For example, are there useful
 ways to combine BMA and Chinese Wall? Are there any technical or semi-technical
 ways of aligning the data subject's interest with others?
-
-Further Reading
 
 The literature on compartmented mode security is somewhat scattered: most of the
 public domain papers are in the proceedings of the NCSC/NISSC and AISSAC conferences cited in detail at the end of Chapter 7. Standard textbooks such as Amoroso [15]
@@ -8212,10 +7840,6 @@ For inference control, Denning's book [234] is the classic reference, and there'
 update at [238]. A more modern textbook on database security is the one by Castano, et
 al. [172] whose chapter on statistical security is a useful update on Denning and whose
 other chapters also cover some related multilevel security and intrusion detection issues.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Banking and Bookkeeping
 
@@ -8278,8 +7902,6 @@ food they had produced, they needed a way to keep track of which village member 
 put how much in the communal warehouse. To start with, each unit of food (sheep,
 wheat, oil, . . .) was represented by a clay token, or bulla, which was placed inside a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 clay envelope and sealed by rolling it with the pattern of the warehouse keeper (see
 .1). When the farmer wanted to get his food back, the seal was broken by the
 keeper in the presence of a witness. (This is may be the oldest known security protocol.) By about 3000 BC, this had led to the invention of writing [609]; after another
@@ -8320,8 +7942,6 @@ be possible to evade the balancing controls in various ways; staff may notice bu
 the software and take advantage of them.
 
 So how can we organize and formalize our protection goals?
-
-Chapter 9: banking and Bookkeeping
 
 9.2 How Bank Computer Systems Work
 
@@ -8370,8 +7990,6 @@ an unconstrained data item, or UDI, into a constrained data item, or CDI; integr
 verification procedures (IVPs) to check the validity of any CDI (e.g., that the books
 balance); and transformation procedures (TPs), which may be thought of in the banking case as transactions that preserve balance. In the general formulation, they maintain
 the integrity of CDIs; they also write enough information to an append-only CDI (the
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 audit trail) for transactions to be reconstructed. Access control is by means of triples
 (subject, TP, CDI), which are so structured that a shared control policy is enforced. In
@@ -8431,8 +8049,6 @@ far apart for a single person to operate. (I discuss nuclear matters further in 
 a letter of guarantee, which will typically undertake to carry the losses should a loan
 made by another bank go sour. If a single manager could issue such an instrument, then
 
-Chapter 9: banking and Bookkeeping
-
 an accomplice could plunder the guaranteed loan account at the other bank, and the
 alarm might not be raised for months. I discuss this further in Section 9.3.2.
 
@@ -8476,8 +8092,6 @@ pertains to creating dual control (or in general, where there are more than two 
 Wilson says that security officers can change access rights, so what's to stop a security
 officer creating logons for two managers and using them to send all the bank's money
 to Switzerland?
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 One possible answer is to use cryptography, and split the relevant signing key between two or more principals. In an NT network, the obvious way to manage things is
 to put users in separately administered domains. With a traditional banking system,
@@ -8524,8 +8138,6 @@ Typical computer crime cases include:
 • A bank had a system of suspense accounts, which would be used temporarily if
 one of the parties to a transaction could not be identified (such as when an account number was entered wrongly on a funds transfer). This was a work-
 
-Chapter 9: banking and Bookkeeping
-
 around added to the dual control system to deal with transactions that got lost
 or otherwise couldn't be balanced immediately. As it was a potential vulnerability, the bank had a rule that suspense accounts would be investigated if
 they were not cleared within three days. One of the clerks exploited this by
@@ -8570,8 +8182,6 @@ designing an internal control system in Chapter 22, "Management Issues," Section
 
 But changing technology also has a habit of eroding controls, which therefore need
 constant attention and maintenance. For example, thanks to new systems for highspeed processing of bank checks, banks in California will no longer honor requests by
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 depositors that checks have two signatures. Even when a check has printed on it "Two
 Signatures Required," banks will honor that check with only one signature [651]. This
@@ -8623,8 +8233,6 @@ thousand dollars. No one has found an effective way of predicting which staff wi
 bad; previously loyal staff can be thrown off the rails by shocks such as divorce, or
 may over time develop a gambling or alcohol habit.
 
-Chapter 9: banking and Bookkeeping
-
 9.3 Wholesale Payment Systems
 
 Systems for transferring money electronically were one of the first applications of the
@@ -8669,8 +8277,6 @@ yet. Finally, the banks had to be able to enforce Clark-Wilson type controls ove
 The SWIFT design is summarized in .2. Authenticity of messages was assured by computing a message authentication code (MAC) at the sending bank and
 checking it at the receiving bank. Formerly, the keys for this MAC were managed endto-end: whenever a bank set up a relationship overseas, the senior manager who negotiated it would exchange keys with her opposite number, whether in a face-to-face
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 meeting or afterward by post to each other's private addresses. There would typically
 be two key components to minimize the risk of compromise, with one sent in each direction (on the grounds that even if a bank manager's mail is stolen from her mailbox
 by a criminal at one end, it's not likely to happen at the other end as well). The key
@@ -8699,8 +8305,6 @@ node, and between these nodes and the main SWIFT processing sites. Key managemen
 was straightforward. Keys were hand-carried in EEPROM cartridges between the devices at either end of a leased line. In countries where confidentiality was illegal, these
 devices could be omitted without impairing the authenticity and nonrepudiation
 mechanisms.
-
-Chapter 9: banking and Bookkeeping
 
 Dual control was provided either by the use of specialized terminals (in small banks)
 or by mainframe software packages that could be integrated with a bank's main production system. The usual method of operation is to have three separate staff to do a
@@ -8748,8 +8352,6 @@ but exploited procedural vulnerabilities, such as the following:
 
 • The classic example is a letter of guarantee. It is common enough for a company in one country to guarantee a loan to a company in another. This can be
 set up as a SWIFT message or even a paper letter. But as no cash changes
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 hands at the time, the balancing controls are inoperative. If a forged guarantee
 is accepted as genuine, the "beneficiary" can take his time borrowing money
@@ -8799,8 +8401,6 @@ from automatic teller machines (ATMs).
 ATMs, also known as cash machines, have been one of the most influential technological innovations of the twentieth century. Quite apart from their social and economic impact, they are just as important to the security engineer both as a source of
 technology and as a case study.
 
-Chapter 9: banking and Bookkeeping
-
 ATMs were the first large-scale retail transaction processing systems. They have
 been around since 1968; the world installed base is now about 500,000 machines. The
 technology developed for them is now also used in terminals for electronic funds
@@ -8847,8 +8447,6 @@ transactions that will take an encrypted PIN from one source (such as encrypted 
 entirely within the hardware security module, so that clear values of PINs are
 never available to the bank's programmers.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .3 IBM method for generating bank card PINs.
 
 During the 1980s and 1990s, the hardware security modules became more and more
@@ -8886,8 +8484,6 @@ authorization response. Network managers claim that should a fraud ever start,
 the authentication can always be turned back on. This might seem reasonable;
 attacks involving manipulated authorization responses are very rare. But such
 shortcuts—even when reasonable on grounds of risk and cost—mean that a
-
-Chapter 9: banking and Bookkeeping
 
 bank that claims, in response to a customer dispute, that its ATM network cannot possibly be attacked, and so the transaction must be the customer's fault, is
 not telling the truth. What's more, turning on the message authentication codes
@@ -8935,8 +8531,6 @@ and 1 in 100,000. One source of errors we tracked down was that a large
 bank's ATMs would send a transaction again if the network went down before
 a confirmation message was received from the mainframe; periodically, the
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 mainframe itself crashed, and "forgot" about open transactions. We also found
 customers whose accounts were debited with other customers' transactions,
 and other customers who were never debited at all for their card transactions.
@@ -8980,8 +8574,6 @@ else's. There were many more.
 • A favorite modus operandi was for villains to stand in ATM queues, observe
 customers' PINs, pick up the discarded ATM tickets, copy the account numbers from the tickets to blank cards, and use these to loot the customers' accounts. This trick was first reported in New York in the mid-1980s; it was still
 working in the San Francisco Bay Area in the mid-1990s. Yet there are many
-
-Chapter 9: banking and Bookkeeping
 
 simple countermeasures, such as incorporating extra data on the mag strip, or
 just not printing the full account number on the ticket.
@@ -9028,8 +8620,6 @@ video cameras; they ended up getting long stretches in Club Fed. The largest
 and most recent case to date took place in 1999 in Canada. This involved doctored point-of-sale terminals, and led to the arrest of dozens of alleged Eastern
 European organized-crime figures in the Toronto area and elsewhere [54, 91].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 In conclusion, the main thing we did wrong when designing ATM security systems
 in the early to mid-1980s was to worry about criminals being clever; we should rather
 have worried about our customers—the banks' system designers, implementers, and
@@ -9075,8 +8665,6 @@ before the appeal was due to be heard, the prosecution served up a fat report fr
 bank's auditors claiming that the system was secure. The defense demanded equal access to the bank's systems for its own expert. The bank refused, and the court therefore
 disallowed all the bank's computer evidence—including its bank statements. The ap-
 
-Chapter 9: banking and Bookkeeping
-
 peal succeeded, and Munden got reinstated. But this was only in July 1996—he'd spent
 the better part of four years in limbo, and his family had suffered terrible stress. Had
 the incident happened in California, he could have won enormous punitive damages, a
@@ -9120,8 +8708,6 @@ things to each transaction as it passes through the system. Designing bookkeepin
 involves input from many disciplines. Another common requirement is nonrepudiation—that principals should be able to generate, retain, and use evidence about the
 relevant actions of other principals.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The other major banking application, remote payment, is increasingly critical to ecommerce. In fact, wire transfers of money go back to the middle of the Victorian era.
 Because there is an obvious motive to attack these systems, and villains who steal large
 amounts and get caught are generally prosecuted, payment systems are a valuable
@@ -9130,8 +8716,6 @@ adequate controls to deter and detect internal fraud.
 
 Payment systems have also played a significant role in the development and application of cryptology. One innovation was the idea that cryptography could be used to
 confine a critical part of the application to a trusted computing base consisting of tamper-resistant processors—an approach since used in many other applications.
-
-Research Problems
 
 Designing transaction sets for bookkeeping applications is still pre-scientific; we could
 do with tools to help us do it in a more systematic, less error-prone way. Accountants,
@@ -9153,15 +8737,11 @@ As for robustness of cryptographic systems, the usability of security mechanisms
 and assurance generally, these are huge topics that are still only partially mapped. Robustness and assurance are partially understood, but usability is still a very gray area.
 There are many more mathematicians active in security research than applied psychologists, and it shows.
 
-Further Reading
-
 I don't know of a comprehensive book on banking computer systems, although there
 are many papers on specific payment systems available from the Bank for International
 Settlements [72]. When it comes to developing robust management controls and business processes that limit the amount of damage that any one staff member can do, there
 is a striking lack of hard material (especially given the need that new e-businesses have
 for such systems). There was one academic conference in 1997 [416]; but the business
-
-Chapter 9: banking and Bookkeeping
 
 books that touch on these issues all seem to focus on financial management and on the
 soft aspects of management control such as "tone at the top." I'll revisit this in Chapter
@@ -9172,8 +8752,6 @@ For the specifics of financial transaction processing systems, the cited article
 while [336] describes the CIRRUS network as of the mid-'80s. The most informative
 public domain source—though somewhat heavy going—is probably the huge online
 manuals for the equipment in question, such as the IBM 4758 and CCA [397].
-
-C H A P TE R
 
 Monitoring Systems
 
@@ -10129,8 +9707,6 @@ I've illustrated the problems of this exacting environment with three case studi
 burglar alarms, utility meters, and vehicle tachographs—which may be instructive now
 that denial of service attacks on the Internet such as SYN floods and DDoS have become a major issue.
 
-Research Problems
-
 We don't yet have a really general set of tools to manage keys in embedded systems.
 Although the mechanisms (and products) developed for automatic teller machine networks can be (and are) adapted, much of the design work has to be redone; the result
 often has security vulnerabilities (I'll discuss this in Chapter 14, which deals with the
@@ -10143,8 +9719,6 @@ ways in which cryptography and other mechanisms, such as anonymity and balancing
 can be built into a range of monitoring and ticketing systems. Such standards could
 save a lot of engineers a lot of effort.
 
-Further Reading
-
 The best all-round reference I know of on alarm systems is [74]; the system issues
 are discussed succinctly in [586]. Resources for specific countries are often available
 through trade societies, such as the American Society for Industrial Security [14], and
@@ -10156,10 +9730,6 @@ IEEE Carnahan conferences [399].
 Prepayment electricity meters are described in [39], and a rather similar application— postal metering machines—in [753]. Tachographs, including the Tachosmart
 project, are written up in [31]. Finally, the systems used to monitor compliance with
 nuclear arms control treaties are discussed in [702].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Nuclear Command and Control
 
@@ -10239,8 +9809,6 @@ President Kennedy's response was National Security Action Memo number 160.
 This ordered that America's 7,000 nuclear weapons then in other countries should be
 got under positive control, or got out [705].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The Department of Energy was already working on safety devices for nuclear weapons. The basic principle was that one or more unique aspects of the environment had to
 be sensed before the weapon would arm. For example, missile warheads and some
 free-fall bombs had to experience zero gravity, while artillery shells had to experience
@@ -10286,8 +9854,6 @@ Russia" and "Attack China." One of these will be encoded as an even number, and 
 other by an odd number; which is which will be part of the secret key. The authenticity
 of the message will be vouched for by making its remainder, when divided by 337,
 equal to a secret number that is the second part of the key.
-
-Chapter 11: Nuclear Command and Control
 
 Now suppose the key is that:
 
@@ -10337,8 +9903,6 @@ readiness, it wasn't sensible to assume that communications between authority an
 field commanders could be maintained, because of the possible effects of electromagnetic pulse and other attacks on communications. The solution was found in another
 branch of cryptomathematics known as secret sharing, whose development it helped to
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 inspire. The idea is that, in time of tension, a backup control system will be activated,
 whereby combinations of office holders or field commanders can jointly allow a
 weapon to be armed. Otherwise, the problems of maintaining detailed central control of
@@ -10364,8 +9928,6 @@ in a random plane and give each general a random point on the plane. Now any thr
 generals, or two generals plus a minister, can reconstruct the plane and thence the firing code C.
 
 .1 Shared control using geometry.
-
-Chapter 11: Nuclear Command and Control
 
 By generalizing this simple construction to geometries of n dimensions, or to general algebraic structures rather than lines and planes, this technique enables weapons,
 commanders, and options to be linked with a complexity limited only by the available
@@ -10410,8 +9972,6 @@ and the tritium boost; and asymmetric detonation that results in plutonium dispe
 rather than yield. It is always a priority to destroy the code. It is assumed that a renegade government prepared to deploy "terrorists" to steal a shipment of bombs would be
 prepared to sacrifice some of the bombs (and some technical personnel) to obtain a
 single serviceable weapon.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 To perform authorized maintenance, the tamper protection must be disabled, and this
 requires a separate unlock code. The devices that hold the various unlock codes—for
@@ -10462,8 +10022,6 @@ treaty (such as by testing too large a device) could be detected with high proba
 The tamper sensing here is fairly straightforward: the seismic sensors are fitted in a
 steel tube and inserted into a drill hole that is backfilled with concrete. The whole as-
 
-Chapter 11: Nuclear Command and Control
-
 sembly is so solid that the seismometers themselves can be relied upon to detect tampering events with a fairly high probability. This physical protection is reinforced by
 random challenge inspections.
 
@@ -10503,8 +10061,6 @@ many sites around the world be assured? I'll discuss these problems in Chapter 1
 
 There have also been a number of interesting high-tech security failures. One example is a possible attack, which led to the development of a new branch of cryptomathematics—the study of subliminal channels—which is relevant to later discussions
 on copyright marking and steganography.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 The story of the invention of subliminal channels is told in [707]. During the Carter
 administration, the United States proposed a deal with the Soviet Union under which
@@ -10553,8 +10109,6 @@ next-generation digital identity card. Where this is unacceptable, and the card 
 isn't sufficiently trusted not to do it, the remedy is to use a completely deterministic
 signature scheme such as RSA instead of one that uses a random session key like DSA.
 
-Chapter 11: Nuclear Command and Control
-
 11.8 Secrecy or Openness?
 
 Finally, the nuclear industry provides a nice case history of secrecy. In the 1930s,
@@ -10600,16 +10154,12 @@ to monitoring
 The quite rational decision that the relevant assets had to be protected almost regardless of the cost drove the development of a lot of mathematics and science that has
 found application elsewhere. The particular examples given in this chapter are authen-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 tication codes, shared control schemes, and subliminal channels. We also started to
 discuss tamper-resistant devices, about which I'll have more to say later.
 
 Research Problem
 
 Find interesting applications for technologies developed in this area, such as authentication codes.
-
-Further Reading
 
 Simmons was a pioneer of authentication codes, shared control schemes, and subliminal channels. His book [703] remains the best reference for most of the technical material discussed in this chapter. A more concise introduction to both authentication and
 secret sharing can be found in [738].
@@ -10621,10 +10171,6 @@ been assembled by Steve Bellovin [92].
 Control failures in nuclear installations are documented in a range of places. The
 problems with Russian installations are discussed in [401]; U.S. nuclear safety is overseen by the Nuclear Regulatory Commission [593]; and shortcomings with U.K. installations are documented in the quarterly reports posted by the Health and Safety
 Executive [375].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Security Printing and Seals
 
@@ -10701,8 +10247,6 @@ The typical seal consists of a substrate with security printing, which is then g
 tied around the object being sealed, so we must look first at security printing. If the
 whole seal can be forged easily, then no amount of glue or string is going to help.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 12.3 Security Printing
 
 The introduction of paper money into Europe by Napoleon in the early 1800s, and of
@@ -10747,8 +10291,6 @@ hard to combat as there are many of them; they mostly work on such a small scale
 their product takes a long time to come to the attention of authority, and they are less
 likely to have criminal records. The notes they produce are often not good enough to
 pass a bank teller, but are uttered in places such as dark and noisy nightclubs.
-
-Chapter 12: Security Printing and Seals
 
 The industry distinguishes three different levels of inspection that a forged banknote
 
@@ -10796,8 +10338,6 @@ printing on front and back can be accurately aligned; patterns can be printed
 partly on the front and partly on the back so that they match up perfectly when
 the note is held up to the light (see-through register). Reproducing this is believed too hard for cheap color printing equipment. The Simultan presses also
 have special ducting to make ink colors vary along the line (rainbowing).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 • Rubber stamps which are used to endorse documents, or to seal photographs to
 
@@ -10851,8 +10391,6 @@ practice, and skilled banknote forgers mimic watermarks with faint gray printing
 (though watermarks remain surprisingly effective against amateurs). Holograms and
 kinegrams can be vulnerable to people using electrochemical techniques to make mechanical copies; or villains may originate their own master copies from scratch.
 
-Chapter 12: Security Printing and Seals
-
 When a hologram of Shakespeare was introduced on U.K. check guarantee cards in
 1988, I visited the factory as the representative of a bank and was told proudly that, as
 the industry had demanded a second source of supply, they had given a spare set of
@@ -10898,8 +10436,6 @@ in the user's cognitive model of the object.
 
 • They should be standardized.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 This work deserves much wider attention, as the banknote community is one of the
 few subdisciplines of the trade to have devoted a lot of thought to security usability.
 (We'll see later in Chapter 23 that one of the main failings of current evaluation
@@ -10944,8 +10480,6 @@ counter-measure is background printing using inks that discolor and run in the p
 printer toner (and even simple things like typewriter correction ribbon). One enterprising villain even presented his victims with pens that had been specially selected to
 have easily removable ink [5].
 
-Chapter 12: Security Printing and Seals
-
 While the security literature says a lot about debit card fraud (as the encryption systems that ATMs use are interesting to techies), and a little about credit card fraud (as
 there's a lot of talk about credit card fraud on the Net), very little has been written
 about check fraud. Yet check fraud is many times greater in value than credit card
@@ -10989,8 +10523,6 @@ and recipient post codes, the serial number of the postal meter, and the date. A
 in theory, a stamp could be pulled off one envelope and put on another—or just photocopied—this arrangement is enough to stop the kind of frauds of greatest concern to
 the U.S. Postal Service, which involve junk mailers bribing postal employees to introduce large sacks of mail into the system [753]. A sample of the indicia being introduced is reproduced in .1.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .1 The new format for U.S. postal meters (courtesy of Symbol Technologies).
 
 12.4 Packaging and Seals
@@ -11020,8 +10552,6 @@ or that can be made so by eroding them with a small explosive charge. This makes
 easy to identify capital equipment such as heavy artillery, where identifying each gun
 barrel is enough to prevent either side from cheating. The surface pattern of the gun
 barrel is measured using laser speckle techniques, and either recorded in a log or attached to the device as a machine-readable digital signature [703].
-
-Chapter 12: Security Printing and Seals
 
 Similar techniques are being developed for postal systems. An alignment grid is
 printed on an envelope, and a small microscope is used to observe the paper fibers
@@ -11070,8 +10600,6 @@ has a printed pattern and serial number on one side and glue on the other; the p
 crosscut with the result that it is destroyed if you tear it off carelessly. (It's very similar
 to the luggage seals used at some airports.)
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The simplest attack is to phone up the supplier; boxes of 100 wristbands cost about
 $8. If you don't want to spend money, you can use each band once, then ease it off
 gently by pulling it alternately from different directions, giving the result shown in the
@@ -11097,8 +10625,6 @@ We've seen systems where your customer is your enemy, as in banking. In military
 systems, the enemy could be a single disloyal soldier, or the other side's special forces
 trying to sabotage your equipment. In nuclear monitoring systems it can be the host
 government trying to divert fissile materials from a licensed civilian reactor.
-
-Chapter 12: Security Printing and Seals
 
 But some of the most difficult sealing tasks arise in commerce. Their difficulty
 arises from the fact that it is the enemy who will apply the seal. A typical application is
@@ -11146,8 +10672,6 @@ the wire will loosen, instead of tightening and breaking the seal. There is abso
 need to go to amateur sculptor classes to learn to take a cast of the seal and forge a pair
 of sealing tongs out of bronze (unless you want to save on bribes, or to frame the garage).
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The people who apply seals may be careless as well as corrupt. In the last few years,
 some airports have taken to applying tape seals to passengers' checked bags after Xraying them using a machine near check-in queue. On about half of the occasions this
 has been done to my baggage, the tape has been poorly fixed: it didn't cross the fastener between the suitcase and the lid, or it came off at one end, or the case had several
@@ -11185,8 +10709,6 @@ It has for some time been an "urban myth" that the police and security services 
 has been burnished down by rubbing it with a thumbnail (I recently received some paperwork from a bank that had been sealed in just this way). This is not entirely believable [814] —even if no police lab has invented a magic solvent for sellotape glue, the
 nineteenth century Tsarist police already used forked sticks to wind up letters inside a
 sealed envelope so that they could be pulled out, read, and then put back [428].
-
-Chapter 12: Security Printing and Seals
 
 Even if sellotape were guaranteed to leave a visible mark on an envelope, one would
 have to assume that the police's envelope-steaming department has no stock of comparable envelopes, and that the recipient would be observant enough to spot a forged envelope. Given the ease with which an envelope with a company logo can be scanned
@@ -11231,8 +10753,6 @@ education. Bankers worry when new notes are being introduced—the few weeks bef
 everyone is familiar with the new notes can be a bonanza for forgers. (This is one of
 the big worries with the planned introduction of the new Euro currency notes.)
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 A related problem is the huge variety of passports, driver's licenses, letterheads,
 corporate seals, and variations in packaging. Without samples of genuine articles for
 comparison, inspection is more or less limited to the primary level, so forgery is easy.
@@ -11273,8 +10793,6 @@ successfully defeating opponents' products?
 steal supplies?
 
 • Will the person who applies the seal be careless or corrupt?
-
-Chapter 12: Security Printing and Seals
 
 • Does the way the seal will be used protect the right part (or enough) of the
 
@@ -11325,16 +10843,10 @@ application, verification, and eventual destruction; hostile testing is highly a
 critical applications. Seals often depend on security printing, about which broadly
 similar comments may be made.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-Research Problems
-
 A lot of money is currently being spent on research and product development in this
 area. The problem appears to be that much of it isn't being spent effectively, or that
 third-rate products continue to dominate the market because of low cost and user ignorance. An important contribution could be a better evaluation methodology for seals,
 and for security printing in general. More results on how specific techniques and products can be defeated might also be useful in undermining suppliers' complacency.
-
-Further Reading
 
 The definitive textbook on security printing is van Renesse [765], which goes into not
 just the technical tricks, such as holograms and kinegrams, but how they work in a variety of applications from banknote printing through passports to packaging. This is
@@ -11343,8 +10855,6 @@ very important background reading.
 I don't know of a definitive textbook on seals. Most products are proprietary, and
 depend for their success on criminals' ignorance—which is one of the shakiest foundations I know of. One of the most systematic efforts to overcome this ignorance can be
 found in a series of publications by the seal vulnerability assessment team at Los Alamos National Laboratory (e.g., [422]).
-
-C H A P TE R
 
 Biometrics
 
@@ -11941,8 +11451,6 @@ strengths and weaknesses of the human guard and the machine recognition system m
 complement one another. Finally, many biometric systems achieve most or all of their
 result by deterring criminals rather than being effective at identifying them.
 
-Research Problems
-
 Potentially profitable research problems relate to the design, or improvement, of biometric systems. Is it possible to build a system—other than iris scanning—that will
 meet the banks' goal of a 1% fraud rate and a 0.01% insult rate? Is it possible to build
 a static signature verification system that has a good enough error rate (say 1%) for it
@@ -11956,8 +11464,6 @@ fix to a control center which then calls you to check. We haven't patented this;
 can make it work, all we ask is an acknowledgment—and some thought about how to
 prevent insurance companies (and governments) demanding access to the data!
 
-Further Reading
-
 The history of fingerprints is good reading. The standard reference is Lambourne
 [485], while Block has a good collection of U.S. case histories [120]. In addition to the
 references cited for facial and handwriting recognition in the text, there's an IBM experimental system described at [433] and a survey of the literature at [181]. The standard work on iris codes is Daugman [218]. For voice recognition, there is a tutorial in
@@ -11966,10 +11472,6 @@ systems—volume 85 no 9 (September 1997) provides a very useful snapshot of the
 state of the technical art. Finally, for technical detail on a range of systems, there is a
 book by Anil Jain, Ruud Bolle, and Sharath Pankanti which contains chapters on a
 number of biometric system written by their designers [414].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-C H A P TE R
 
 Physical Tamper Resistance
 
@@ -12055,8 +11557,6 @@ the basic tools, such as key diversification, in Chapter 2, "Protocols," and I'l
 more to say on protocols later in this chapter. Let's first look at the physical defenses
 against tampering.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 14.3 High-End Physically Secure Processors
 
 An example worth studying is the IBM 4758 (.1). This is important for two
@@ -12075,8 +11575,6 @@ data—such as long-term cryptographic keys and the personal identification numb
 likely to remain insufficient.
 
 .1 The IBM 4758 cryptoprocessor (courtesy of Steve Weingart).
-
-Chapter 14: Physical Tamper Resistance
 
 .2 The 4758 partially opened, showing (from top left downward) the circuitry, aluminium electromagnetic shielding, tamper-sensing mesh and potting material (courtesy of
 Frank Stajano).
@@ -12108,8 +11606,6 @@ keys afterwards. But the managers with custodial responsibility will often give 
 PROMs to the engineer rather than bothering with them. I've even come across cases
 of the master keys for an automatic teller machine being kept in the correspondence
 file in a bank branch, where any of the staff could look them up. Thus, the goal was to
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 minimize the number of times that a reload would be necessary, such as for maintenance or following a power failure. So security modules typically have batteries to
 back up the mains power supply (at least to the key memory). This meant that in practice, the custodians had to load the keys only when the device was first installed, and
@@ -12152,8 +11648,6 @@ in the mid-1980s. This used loops of 40-gauge nichrome wire, which were wound
 loosely around the device as it was embedded in epoxy, then connected to a sensing
 circuit [795]. Bulk removal techniques such as milling, etching, and laser ablation
 break the wire, which erases the keys.
-
-Chapter 14: Physical Tamper Resistance
 
 But the wire-in-epoxy technique can be vulnerable to slow erosion using sand
 blasting; when the sensing wires become visible at the surface of the potting, shunts
@@ -12205,8 +11699,6 @@ The next set of attacks on cryptographic hardware involve either monitoring the 
 and other electromagnetic signals emitted by the device, or even injecting signals into
 it and measuring their externally visible effects. This technique, which is variously
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 known as Tempest or power analysis, is such a large subject that I devote the next
 chapter to it. As far as the 4758 is concerned, the strategy is to have solid aluminium
 shielding, and to low-pass-filter the power supply to block the egress of any signals at
@@ -12254,8 +11746,6 @@ Finally, it should be mentioned that the main constraints on the design and manu
 general alarms. There is a trade-off between the false alarm rate and the missed alarm
 rate, and thus between security and robustness. Security processors often need to be
 handled with care; if they self-destruct at temperatures of -20°C, they cannot be dis-
-
-Chapter 14: Physical Tamper Resistance
 
 tributed through normal computer industry channels, where goods are often subjected
 to –40°C in winter. Vibration, power transients, and electromagnetic interference can
@@ -12306,8 +11796,6 @@ where many of the better commercial systems are aimed. Such equipment certainly
 attempts to keep out the class 1 attack community, while making life hard for class 2,
 and expensive for class 3.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 That said, I am not convinced that the IBM classification is correct. I know of one
 large funded organization that bought chip-testing equipment, tried to break into a
 smartcard, and failed; they concluded that smartcards were completely tamper-proof.
@@ -12332,8 +11820,6 @@ or carried as a key fob. An early application was as an access token for the "El
 Red Box", a secure laptop system designed for use by U.K. government ministers. To
 access secret documents, the minister had to press his signet ring into a reader at the
 side of the laptop. (One of the design criteria had been: "Ministers shall not have to use
-
-Chapter 14: Physical Tamper Resistance
 
 passwords.") Other applications include the Istanbul mass transit system, parking meters in Argentina, and the electronic stamps for the U.S. Postal Service that I mentioned in the previous chapter [753]. The device is now being equipped with a Java
 interpreter, and marketed as the Java ring, a tamper-resistant device that users can program for their own applications.
@@ -12373,8 +11859,6 @@ could encipher and execute a short program to dump the entire memory contents.
 
 The full details are a bit more intricate. Dallas has since fixed the problem, but it is a
 good example of the completely unexpected things that go wrong when trying to implement a clever new security concept for the first time.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 14.5.3 The Capstone/Clipper Chip
 
@@ -12421,8 +11905,6 @@ remains to figure out what they mean.
 the fuse and stops it once the resistance drops, which means that the metal has
 melted and established contact; if the pulse isn't stopped, the metal might vaporize and go open-circuit again. Thus, circuits for detecting whether a fuse is
 
-Chapter 14: Physical Tamper Resistance
-
 open or short must be provided; and if they aren't sufficiently disabled after
 programming, they can be used to read the device out.
 
@@ -12465,8 +11947,6 @@ personalized for each user by means of a SIM, a smartcard which contains not jus
 personal phone book, call history and so on, but also a cryptographic key with which
 you authenticate yourself to the network.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The strategy of using a cheap smartcard to provide the authentication and other security functions of a more expensive consumer electronic device has a number of advantages. The expensive device can be manufactured in bulk, with each unit being exactly
 the same; while the smartcard, which provides subscriber-level control, can be replaced
 relatively quickly and cheaply in the event of a successful attack. This has led many
@@ -12507,8 +11987,6 @@ sale in 2000 might have 16 Kbytes of ROM, 16 Kbytes of EEPROM and 256 bytes of
 RAM. The bus is not available outside the device; the only connections supplied are
 for power, reset, a clock, and a serial port. The physical, electrical, and low-level logical connections, together with a file-system-like access protocol, are specified in ISO
 7816.
-
-Chapter 14: Physical Tamper Resistance
 
 14.6.2 Security Evolution
 
@@ -12552,8 +12030,6 @@ to validate cheaper tokens online [78]. I'll discuss these protocol failures fur
 chapter on copyright enforcement systems. There has also been a fairly full range of
 standard computer attacks, such as stack overwriting by sending too long a string of
 parameters. In the following, I concentrate on the attacks that are peculiar to smartcards.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 How to Hack a Smartcard (2)
 
@@ -12605,8 +12081,6 @@ Probing stations consist of microscopes with micromanipulators attached for land
 manufacturing industry for manual testing of production-line samples, and can be obtained second-hand for under $10,000. They may have specialized accessories, such as
 a laser to shoot holes in the chip's passivation layer (see .5).
 
-Chapter 14: Physical Tamper Resistance
-
 .4 Low-cost probing station.
 
 The usual target of a probing attack is the processor's bus. If the bus traffic can be
@@ -12622,8 +12096,6 @@ appeared on the market, a command would be issued over the air to cause the legi
 of memory. In this way, the pirates' customers would suffer a loss of service until the
 probing attack could be repeated and either new pirate cards, or updates to the existing
 ones, could somehow be distributed.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 .5 The data bus of an ST16 smartcard prepared for probing by excavating eight
 trenches through the passivation layer with laser shots (photo courtesy Oliver Kömmerling).
@@ -12645,8 +12117,6 @@ prevent memory linearization, such as hardware access control matrices which pre
 particular areas of memory being read unless some specific sequence of commands is
 presented. But such circuits can often be defeated by shooting away carefully chosen
 gates using a laser or an ion beam.
-
-Chapter 14: Physical Tamper Resistance
 
 Some cards could be attacked through their test circuitry. A typical smartcard chip
 has a self-test routine in ROM that is executed in the factory and allows-all the memory contents to be read and verified. After this has been done, a polysilicon fuse is
@@ -12688,8 +12158,6 @@ but it uses a beam of ions instead of electrons. By varying the beam current, it
 which is broken down by the ion beam, it is possible to lay down either conductors or
 insulators with a precision of a few tens of nanometers.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 FIBs are such extremely useful devices in all sorts of applications—from semiconductor testing through metallurgy and forensics to nanotechnology—that they are rapidly becoming widely available, and their prices are tumbling. Many universities and
 industrial labs now have one. FIB time can also be rented from a number of agencies
 for a few hundred dollars an hour.
@@ -12711,8 +12179,6 @@ likely to damage the chip. However, optoelectronic techniques developed in the p
 few years enable an attacker to read out a voltage directly using a laser [11]. Other
 chips have protective coatings of substances such as silicon carbide or boron nitride.
 (Chips with protective coatings are on display at the NSA Museum at Fort Meade,
-
-Chapter 14: Physical Tamper Resistance
 
 Maryland). Such coatings can force the FIB operator to go slowly, rather than damage
 the chip through a build-up of electrical charge. However, protective layers in smartcard chip packaging are, like much else in the security industry, often a matter of marketing rather than engineering. The one chip that our team has dismantled recently and
@@ -12761,8 +12227,6 @@ Technical measures on their own are not enough, though. Over the last few years 
 the twentieth century, the pay-TV industry managed to reduce piracy losses from over
 5% of revenue to an almost negligible proportion. More complex smartcards played a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 role, but much of the improvement came from legal action against pirates, and from
 making technical and legal measures work together efficiently. I'll discuss this further
 in Chapter 20, when we explore the world of copyright.
@@ -12796,8 +12260,6 @@ there are limits on the amount that can be spent using a stolen or forged card, 
 system of merchant floor limits, random online authorizations, lists of hot cards and so
 on. Here, a tamper-evident card may be a perfectly adequate solution. Even a card
 that's relatively easy to forge may be viable, as it's still harder to forge than the magnetic stripe card it replaces.
-
-Chapter 14: Physical Tamper Resistance
 
 14.7 What Goes Wrong
 
@@ -12845,8 +12307,6 @@ and thus sell unlimited numbers of tokens to the meters in the vending area. But
 would not have destroyed the whole metering system, just forced the rekeying of a few
 thousand meters.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 14.7.2 Protecting the Wrong Things: Security-by-Obscurity
 and Evaluation Errors
 
@@ -12889,8 +12349,6 @@ could possibly go wrong").
 
 The security modules provided by VISA and VISA-compatible vendors such as Racal had a transaction to generate a key component and print out its clear value on an
 attached security printer.
-
-Chapter 14: Physical Tamper Resistance
 
 They also returned its value to the calling program, encrypted under a master key
 
@@ -12945,8 +12403,6 @@ The fix adopted was to remove the offending instruction. This means that dual co
 to key material. (This has always been the case with the ATM support application,
 CCA, supplied for the 4758.) A better fix would have been to compute terminal keys
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 using a hash function, such as KMT = SHA1(KMT1,KMT2), but this would not have
 been backward-compatible. With hindsight, the choice of a combining function with
 arithmetic properties meant that all the protocols subsequently developed on this foundation should have been checked for ways in which these properties could misbehave.
@@ -12996,8 +12452,6 @@ keys shared only with the bank, and so the compromise of a single card need mean
 more than the cloning of a credit card does in the magnetic strip world. In the latter,
 each card has a key that enables it to transfer money to any other card, and the con-
 
-Chapter 14: Physical Tamper Resistance
-
 straints of centralized accounting are relaxed. A relatively low-risk environment suddenly becomes a relatively high-risk one.
 
 Another way a low-risk environment can become a high-risk one is when multiple
@@ -13039,8 +12493,6 @@ Second, tamper-resistant devices can give assurance that data are destroyed at a
 definite and verifiable time. The anti-trust case against Microsoft has highlighted the
 damage that can be done by the seizure under subpoena of email archives; many corporations would like to enforce a policy that every email be destroyed after a fixed time,
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 unless either the sender or the recipient takes positive action to preserve it. At my university, for example, we destroy exam scripts and examiners' working notes after four
 months. If we held on to them for too long, we would have to give the students access
 under data protection law, but if we destroyed them too soon, we could prejudice an
@@ -13081,8 +12533,6 @@ provide a fully engineered solution.
 Finally, it is worth noting that tamper-resistance provides little protection against legal attack. If you rely on it to keep algorithms proprietary, your competitors can bring
 a patent infringement suit (however frivolous) simply to force disclosure of your design. This actually happens!
 
-Chapter 14: Physical Tamper Resistance
-
 14.9 Summary
 
 Tamper-resistant devices and systems have a long history, and predate the development
@@ -13096,8 +12546,6 @@ smartcards that can be penetrated by an attacker with a few thousand dollars' wo
 equipment with a few weeks' work. I discussed a number of applications, and a number of failures. Very often, the failures are not the fault of the hardware barriers or
 alarms themselves, but a result of using the technology in an inappropriate way.
 
-Research Problems
-
 There are basically three strands of research in tamper-resistant processor design. The
 first concerns itself with making faster, better, cheaper processors: how can the protection offered by a high-end device be brought to products with midrange prices and
 sizes, and how can midrange protection can be brought to smartcards? The second concerns itself with pushing forward the state of the attack art. How can the latest chiptesting technologies be used to make faster, better, cheaper attacks?
@@ -13106,15 +12554,11 @@ The third strand concerns itself with the logical aspects of protection. Even as
 example, a processor in orbit around Mars—how do you design the transaction set (and
 the surrounding application) so that it can do useful work, with a high level of assurance that some simple attack won't be found?
 
-Further Reading
-
 For the early history of crypto, including things like weighted code books and watersoluble inks, the source is, of course, Kahn [428]. The IBM and Dallas products mentioned have extensive documentation available online [397]; the U.S. FIPS documents
 are also online [576]. For an introduction to chip card technology, see [632]; and for
 the gory details of tampering attacks on chip cards, see [43, 44, 470]. Noninvasive attacks on security processors, such as power analysis, are discussed in the next chapter.
 
 Chapter 15: Emission Security
-
-C H A P TE R
 
 Emission Security
 
@@ -13143,8 +12587,6 @@ the smartcards then on the market were extremely vulnerable to simple attacks, w
 required the attacker only to trick the customer into using a specially adapted terminal
 that would analyze the current it drew during a small number of transactions. These
 attacks did not involve penetrating the card (at least, once the research needed to design the attack had been carried out), and thus might leave no trace. Once fielded, they
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 were very much cheaper than probing attacks, and potentially allowed large-scale cardcloning attacks against an unsuspecting cardholder population.
 
@@ -13191,8 +12633,6 @@ During the World War II, radio engineering saw advances in radar, passive direct
 finding, and low-probability-of-intercept techniques, which I'll discuss in the next
 chapter. By the 1960s, the stray RF leaking from the local oscillator signals in domestic television sets was being targeted by direction-finding equipment in "TV detector
 
-Chapter 15: Emission Security
-
 vans," in Britain, where TV owners must pay an annual license fee that is supposed to
 support public broadcast services. Its use has since expanded to satellite and cable TV
 operators, who use detector vans to find pirate decoders. Some people in the computer
@@ -13238,8 +12678,6 @@ No matter how well it is protected by encryption and access controls while in tr
 or storage, most highly confidential information originally comes into being either as
 speech or as keystrokes on a PC. If it can be captured by the opponent at this stage,
 then no subsequent protective measures are likely to help very much.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 An extraordinary range of bugs is available on the market:
 
@@ -13294,8 +12732,6 @@ There are also expensive bugs designed not to re-radiate at all. An interesting
 variant was invented by the investigative journalist Duncan Campbell in the
 early 1970s, to detect telephone taps: the amplifier used at that time by the se-
 
-Chapter 15: Emission Security
-
 curity services re-radiated harmonics down the line. Following a raid on his
 house, the plans for this device were seized; it was then "invented" in a government laboratory, and credited to a government scientist.
 
@@ -13331,8 +12767,6 @@ large part of a new headquarters building, at a cost of about $50 million, after
 an employee of one of the building contractors was found to have past associations with the Provisional IRA.
 
 The traditional tension here is between technological defenses, which can be very effective but very expensive, and procedural controls, which are cheap but tedious.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 All that said, technological developments are steadily making life easier for the bugger and harder for the defense. As more and more devices acquire intelligence and
 short-range radio or infrared communications—as "things that think" become "things
@@ -13378,8 +12812,6 @@ as noted, the leakage has been exploited for military purposes since in 1914. Co
 supplies and signal cables suitably filtered and suppressed. This makes up a significant
 part of the cost difference between otherwise comparable military and civilian electronics.
 
-Chapter 15: Emission Security
-
 15.4.1.1 Red/Black Separation
 
 Red equipment (carrying confidential data such as plaintext) has to be isolated by filters and shields from black equipment (which can send signals directly to the outside
@@ -13423,8 +12855,6 @@ carried by an unsuspecting customer. This means that once the attacker has taken
 trouble to dismantle a card, understand its contents, and design the attack, a very large
 number of cards may be compromised at little marginal cost.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .1 Superimposed power consumption traces of a Siemens SLE44 smartcard,
 showing data dependency (courtesy of Andy Santoso). The upper half of the screen shows
 the clock signal; the lower shows the power consumption.
@@ -13446,8 +12876,6 @@ It is generally found that the correct input value—which separates the power c
 into two sets each with a different S-box output value—will result in a differential
 trace with a noticeable peak. Wrong guesses of input values, however, generally result
 in randomly sorted curves and thus in a differential trace that looks like random noise.
-
-Chapter 15: Emission Security
 
 In this way, the six keybits which go to the S-box in question can be found, followed
 by the others used in the last round of the cipher. In the case of DES, this gives 48 of
@@ -13490,8 +12918,6 @@ or UHF radio signal, modulated with a distorted version of the image currently b
 displayed—unless they have been carefully designed not to. The video signal is available at a number of places in the equipment, notably in the beam current that is modulated with it. This signal contains many harmonics of the dot rate, some of which
 radiate better than others because cables and other components resonate at their wavelength. Given a suitable broadband receiver, these emissions can be picked up and reconstituted as video. The design of suitable equipment is discussed in [259, 478].
 Contrary to popular belief, LCD displays are also generally easy for the eavesdropper.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Other researchers quickly established the possibility of remote snooping on everything from fax machines through shielded RS-232 cables to Ethernet [719, 230]. A few
 companies sprang up to sell "jammers," but these are hard to implement properly [60],
@@ -13541,8 +12967,6 @@ that scans all the keys until it encounters one that is pressed. The currently p
 the first time, a believable report of a commercial Tempest attack. Apparently, one financial institution was spied on by a private investigator retained by a rival. But the big picture remains
 military.
 
-Chapter 15: Emission Security
-
 is modulated on to the RF emissions from the keyboard. By encrypting the order in
 which the keys are scanned, this kind of attack can be completely blocked.
 
@@ -13567,8 +12991,6 @@ reradiated by the cable. This can be picked up at a distance of 50 to 100 yards.
 15.5.1 Tempest Viruses
 
 There are quite a few other active attacks possible on various systems. The phenomenon observed with our school computer in 1972—that a suitable program would cause
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 a computer to play a tune on the radio, in effect turning it into a low-grade radio
 transmitter—is easy enough to reimplement on a modern PC. Figures 15.8 and 15.9
@@ -13604,8 +13026,6 @@ and thus simulate the worst case attack in which the opponent has used a softwar
 
 Another class of active methods, called Nonstop by the U.S. military [55], is the exploitation of RF emanations that are accidentally induced by nearby radio transmitters
 and other RF sources. If equipment that is processing sensitive data is used near a mo-
-
-Chapter 15: Emission Security
 
 bile phone, the phone's transmitter may induce in it currents that get modulated with
 sensitive data by the nonlinear junction effect and reradiated.
@@ -13651,8 +13071,6 @@ systems would ask the customer for a PIN, and if it was incorrect, they would de
 multiplier circuit were charged up. On noticing this, the attacker could simply reset the
 card and try the next candidate PIN.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 15.5.6 Commercial Exploitation
 
 Not all Emsec attacks are conducted in the context of covert military surveillance or
@@ -13693,8 +13111,6 @@ based on glitching merit careful consideration.
 Technical surveillance and its countermeasures are the most important aspect of Emsec, in both government and industry; they are likely to remain so. The range of bugs
 and other surveillance devices that can be bought easily is large and growing. The motivation for people to spy on their rivals, employees, and others will continue. If anything, the move to a wired world will make electronic surveillance more important, and
 countermeasures will take up more of security budgets.
-
-Chapter 15: Emission Security
 
 Those aspects of Emsec
 
@@ -13742,8 +13158,6 @@ On the security side, attacks are likely to become easier. The advent of softwar
 demodulation and subsequent processing in software—were, until recently, an expensive military curiosity [482], but are now finding applications in places like cellular
 radio base stations. The next generation may be consumer devices, designed to function as GPS receivers, GSM phones, radio LAN basestations, and to support whatever
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 other radio-based services have been licensed locally—all with only a change in software. Once people learn how to program them, they might just as easily use them for
 Tempest attacks.
 
@@ -13758,13 +13172,9 @@ be subverted by compromising emanations, whether from implanted bugs, from unint
 that are induced in some way. Although originally a concern in the national intelligence community, Emsec is now a real issue for companies that build security products
 such as smartcards and cash machines. Many of these products can be defeated by observing stray RF or conducted signals. Protecting against such threats isn't as straightforward as it might seem.
 
-Research Problems
-
 The security industry badly needs a comprehensive set of emission security standards
 for commercial use. Military standards are classified, and the RFI/EMC standards are
 fragmented and contradictory, so a new and unified approach is overdue.
-
-Further Reading
 
 There is a shortage of open literature on Emsec. The classic van Eck article [259] is
 still worth a read; and the only book on computer security (until this one) to have a
@@ -13774,8 +13184,6 @@ see the papers by Paul Kocher [467], and by Tom Messergues, Ezzy Dabish and Robe
 Sloan [547]; more papers are appearing regularly. Finally, Joel McNamara runs a comprehensive unofficial Tempest Web site at [542].
 
 Chapter 16: Electronic and Information Warfare
-
-C H A P TE R
 
 Electronic and Information
 Warfare
@@ -13808,8 +13216,6 @@ Electronic warfare is also our main teacher when it comes to service denial atta
 topic that computer security people have largely ignored, but that is now center stage
 thanks to distributed denial-of-service attacks on commercial Web sites. As I develop
 this discussion I'll try to draw out the parallels. In general, while people say that com-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 puter security is about confidentiality, integrity and availability, electronic warfare has
 this reversed and back-to-front. The priorities are:
@@ -13849,8 +13255,6 @@ Electronic weapon systems are like other weapons in that there are sensors, such
 radar, infrared and sonar; communications links, which take sensor data to the command and control center; and output devices such as jammers, lasers, and so on. I'll
 discuss the communications system issues first, as they are the most self-contained,
 then the sensors and associated jammers, and finally other devices such as electromag-
-
-Chapter 16: Electronic and Information Warfare
 
 netic pulse generators. Once we're done with e-war, we'll look at the lessons we might
 take over to i-war.
@@ -13895,8 +13299,6 @@ a missile it has just launched, must be protected against jamming and modificati
 target aircraft's warning receiver), but that is in tension with the power levels
 needed to defeat defensive jamming systems.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The protection of communications will require some mix, depending on the circumstances, of content secrecy, authenticity, resistance to traffic analysis and radio direction finding, and resistance to various kinds of jamming. These interact in some rather
 unobvious ways. For example, one radio designed for use by dissident organizations in
 Eastern Europe in the early 1980s operated in the radio bands normally occupied by the
@@ -13932,8 +13334,6 @@ any unintentional frequency modulation, the shape of the transmitter turn-on tra
 the precise center frequency, and the final-stage amplifier harmonics. This RF fingerprinting technology was declassified in the mid-1990s for use in identifying cloned
 cellular telephones, where its makers claim a 95% success rate [341, 677]. It is the direct descendant of the World War II technique of recognizing a wireless operator by
 his fist—the way he sent Morse code [523].
-
-Chapter 16: Electronic and Information Warfare
 
 Radio direction finding (RDF) is also critical. In the old days, this involved triangulating the signal of interest using directional antennas at two monitoring stations. Spies
 might have at most a few minutes to send a message home before having to move.
@@ -13981,8 +13381,6 @@ tactical collection facilities as needed; Hager describes, for example, the disp
 Australian and New Zealand navy frigates to monitor domestic communications in Fiji
 during military coups in the 1980s. Egmont Koch and Jochen Sperber discuss U.S. and
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 German installations in Germany in [464]; David Fulghum describes airborne signals
 collection in [324]; satellites are also used to collect signals, and there are covert collection facilities that are not known to the host country.
 
@@ -14028,8 +13426,6 @@ competent way. This removes the ops/intel tension, and you switch to RDF or link
 or bombing telephone exchanges (both of which the allies did during the Gulf War),
 the soft-kill approach of jamming, or whatever combination of the two is economic.
 Jamming is a useful expedient where a link is to be disrupted for a short period, but is
-
-Chapter 16: Electronic and Information Warfare
 
 often expensive; not only does it tie up facilities, but the jammer itself becomes a target. (There are cases where it is more effective, such as against some satellite links
 where the uplink can be jammed using a tight beam from a hidden location using only
@@ -14077,8 +13473,6 @@ II, spread-spectrum has spawned a substantial industry, and the technology (espe
 DSSS) has been applied to numerous other problems, ranging from high-resolution
 ranging (in the GPS system) through copyright marks in digital images (which I'll discuss later). Let's look at each of these three approaches in turn.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 16.3.3.1 Frequency Hopping
 
 Frequency hoppers are the simplest spread-spectrum systems to understand and to implement. They do exactly as their name suggests: they hop rapidly from one frequency
@@ -14123,8 +13517,6 @@ intercept. The trick is to arrange things so that at the intercept location, the
 strength is so low that it is lost in the noise floor unless you know the spreading sequence with which to recover it. Of course, it's harder to do both at the same time,
 since an antijam signal should be high power and an LPI/LPPF signal low power; the
 
-Chapter 16: Electronic and Information Warfare
-
 usual modus operandi is to work in LPI mode until detected by the enemy (for example, when coming within radar range), then boost transmitter power into antijam mode.
 
 .1 Spreading in DSSS (courtesy of Roche and Dugelay).
@@ -14143,8 +13535,6 @@ recently been reported that the French jammed GPS in Greece in an attempt to sab
 was a competitor. This caused the British tanks to get lost during trials. When the ruse
 was discovered, the Greeks found it all rather amusing [757].) Another strategy is to
 have your users take turns at providing a reference signal.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 16.3.3.3 Burst Communications
 
@@ -14194,8 +13584,6 @@ A typical modern military system will use some combination of tight beams, DSSS,
 
 hopping and burst.
 
-Chapter 16: Electronic and Information Warfare
-
 • The Jaguar tactical radio used by U.K. armed forces hops over one of nine 6.4
 MHz bands, and has an antenna with a steerable null that can be pointed at a
 jammer or at a hostile intercept station.
@@ -14241,8 +13629,6 @@ civilian infrastructure to deny it to their opponents. Already, satellite links 
 jammed as an exercise; and there is some discussion of the systemic vulnerabilities that
 result from overreliance on it [310].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Another example of growing interdependency is given by the Global Positioning
 System, GPS. This started as a U.S. military navigation system, and had a selective
 availability feature that limited the accuracy to about a hundred yards unless the user
@@ -14279,8 +13665,6 @@ radar. Although radar was invented by Christian Hülsmeyer in 1904 as a maritime
 by all major participants in World War II [369, 424]. The electronic attack and protection techniques developed for it tend to be better developed than, and often go over to,
 systems using other sensors. In the context of radar, "electronic attack" usually means
 jamming (though in theory it also includes stealth technology), and "electronic protection" refers to the techniques used to preserve at least some radar capability.
-
-Chapter 16: Electronic and Information Warfare
 
 16.4.1 Types of Radar
 
@@ -14329,8 +13713,6 @@ drones that emit seduction RF signals, while infrared guided missiles are divert
 The passive countermeasure in which the most money has been invested is stealth,
 reducing the radar cross-section (RCS) of a vehicle so that it can be detected only at
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 very much shorter range. This means, for example, that the enemy has to place his air
 defense radars closer together, so he has to buy a lot more of them. Stealth includes a
 wide range of techniques, and a proper discussion is well beyond the scope of this
@@ -14374,8 +13756,6 @@ thus capturing the receiver, and then moving them out of phase so that the targe
 longer in the receiver's range gate. Similarly, with Doppler radars the basic trick is
 velocity gate pull-off (VGPO). With older radars, successful RGPO would cause the
 
-Chapter 16: Electronic and Information Warfare
-
 radar to break lock and the target to disappear from the screen. Modern radars can reacquire lock very quickly, so RGPO must either be performed repeatedly or combined
 with another technique—commonly, with inverse gain jamming to break angle tracking
 at the same time.
@@ -14416,8 +13796,6 @@ range/velocity and also to reduce clutter—but this can leave many blind spots.
 compromise is medium PRF—but this suffers from severe range ambiguities in airborne operations. Also, search radar requires long, diverse bursts, whereas tracking
 needs only short, tuned ones. An advantage is that pulsed Doppler can discriminate
 some very specific signals, such as modulation provided by turbine blades in jet enlow-frequency/PRF
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 gines. The main deception strategy used against pulsed Doppler is velocity gate pulloff, although a new variant is to excite multiple velocity gates with deceptive returns.
 
@@ -14462,8 +13840,6 @@ conditions. Data fusion can be harder than it seems. As discussed in Section 13.
 combining two alarm systems will generally result in improving either the false alarm
 or the missed alarm rate, while making the other worse. If you scramble your fighters
 when you see a blip on either the radar or the infrared, there will be more false alarms;
-
-Chapter 16: Electronic and Information Warfare
 
 but if you scramble only when you see both, it will be easier for the enemy to jam you
 or to sneak through.
@@ -14514,8 +13890,6 @@ as garbling. In the other direction, aircraft transponders subjected to many cha
 may be unable to decode them properly—an effect known as fruiting. Controlling these
 phenomena means minimizing the length of challenge and response signals, which
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 limits the usefulness of cryptographic protection. As a result, the Royal Air Force resisted American demands to make the Mark XII a NATO requirement and continues
 using the World-War-II-vintage Mark X, changing the codes every 30 minutes. (The
 details of Mark X and Mark XII, and the R.A.F.-U.S.A.F. debate, can be found in
@@ -14559,8 +13933,6 @@ been a test). The gamma photons can travel thousands of miles before they strike
 earth's atmosphere, which could ionize to form an antenna on a continental scale. It is
 reckoned that most electronic equipment in Northern Europe could be burned out by a
 
-Chapter 16: Electronic and Information Warfare
-
 one megaton blast at a height of 250 miles above the North Sea. For this reason, critical military systems are carefully shielded.
 
 Western concern about EMP grew after the Soviet Union started a research program
@@ -14601,8 +13973,6 @@ Since about 1995, the phrase information warfare has come into wide use. Its pop
 air power was used to degrade the Iraqi defenses before the land attack was launched;
 and one goal of NSA personnel supporting the allies was to enable the initial attack to
 be made without casualties—even though the Iraqi air defenses were at that time intact
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 and alert. The attack involved a mixture of standard e-war techniques, such as jammers
 and antiradiation missiles; cruise missile attacks on command centers; attacks by special forces, who sneaked into Iraq and dug up lengths of communications cabling from
@@ -14649,8 +14019,6 @@ win some advantage over an adversary." Its interpretation is so broad that it in
 not just hacking but all of electronic warfare and all existing intelligence-gathering
 techniques (from sigint through satellite imagery to spies), and propaganda, too. In a
 later article, she's discussed the role of the Net in the propaganda and activism surrounding the Kosovo war [236]. However the bulk of her book is given over to computer security and related topics.
-
-Chapter 16: Electronic and Information Warfare
 
 A similar view of information warfare, and from a writer whose background is defense planning rather than computer security, is by Edward Waltz [790]. He defines
 information superiority as "the capability to collect, process and disseminate an uninterrupted flow of information while exploiting or denying an adversary's ability to do
@@ -14701,8 +14069,6 @@ the attackers' leaders are likely to be portrayed as war criminals. The Pinochet
 case, in which a former head of government only escaped extradition on health
 grounds, should give pause for thought.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Having made these points, I will restrict discussion in the rest of this section to technical matters.
 
 16.7.3 Potentially Useful Lessons from Electronic Warfare
@@ -14740,8 +14106,6 @@ power; similarly, when a nonexistent credit card number is presented at your
 Web site, you might say, "Sorry, bad card number, try again," but the second
 time it happens you should take a different line (or the attacker will keep on
 trying). Something such as, "Sorry, the items you have requested are tempo-
-
-Chapter 16: Electronic and Information Warfare
 
 rarily out of stock and should be mailed within five working days" may do the
 trick.
@@ -14788,8 +14152,6 @@ coherent systems.
 Hussein's mistake of trying to fight a tank battle. Guerilla warfare will be the
 norm, and cyberspace appears to be fairly well suited for this.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 • There is no electronic warfare analogue of "script kiddies," people who
 
 download attack scripts and launch them without really understanding how
@@ -14803,13 +14165,9 @@ Electronic warfare is much more developed than most other areas of information s
 warfare evolves from a fashionable concept to established doctrine, these lessons will
 become important for practitioners.
 
-Research Problems
-
 An interesting research problem is how to port techniques and experience from the
 world of electronic warfare to the Internet. This chapter is only a sketchy first attempt
 at setting down the possible parallels and differences.
-
-Further Reading
 
 A good (although nontechnical) introduction to radar is by P. S. Hall [369]. The best
 all-round reference for the technical aspects of electronic warfare, from radar through
@@ -14827,8 +14185,6 @@ Pritchard [627], the British by Jack Gough [348], and the American by Robert Bud
 [142].
 
 Chapter 17: Telecom System Security
-
-C H A P TE R
 
 Telecom System Security
 
@@ -14859,8 +14215,6 @@ the Internet—only that history will be much speeded up.
 
 The abuse of communication services goes back centuries. In the days before postage
 stamps were invented, postage was paid by the recipient. Unsolicited mail became a
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 huge problem (especially for famous people), so recipients were allowed to inspect a
 letter and reject it if they wished rather than paying for it. People soon worked out
@@ -14909,8 +14263,6 @@ line to steal their service.
 In the 1970s, when international phone calls were very expensive, foreign students
 would clip their own phone on to a residential line in order to call home; an unsuspecting home owner could get a huge bill. Despite the fact that, in most countries, the
 cable was the phone company's legal responsibility up to the service socket in the
-
-Chapter 17: Telecom System Security
 
 house, phone companies were mostly adamant that householders should pay, and could
 threaten to blacklist them if they didn't. Now that long distance calls are cheap, the
@@ -14979,8 +14331,6 @@ sorts of tricks to get people to call them: pager messages, job ads, fake emerge
 messages about relatives, "low-cost" calling cards with 900-access numbers—you
 name it. The 809 area code for the Caribbean used to be a favorite cover for crooks
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 targeting U.S. subscribers; recently, the introduction of new area codes there, such as
 345 for the Cayman Islands, makes it even harder to spot the numbers of premium rate
 operators. Phone companies' advice is "Do not return calls to unfamiliar telephone
@@ -15030,8 +14380,6 @@ these were Unix machines on a LAN in an exchange, which also had machines with
 administrative functions such as maintenance scheduling. By hacking one of these less
 well-guarded machines, a phreak could go across the LAN and break into the switching
 
-Chapter 17: Telecom System Security
-
 equipment—or into secondary systems such as subscriber databases. For a survey of
 PacBell's experience of this, see [167]; for Bellcore's, see [462].
 
@@ -15072,8 +14420,6 @@ social engineering. His congressional testimony, quoted at the head of this chap
 sums up the problem neatly [555]. Phone company systems are vulnerable to careless
 insiders as well as to malicious insiders—just like hospital systems and many others
 I've discussed.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 17.2.4 Insecure End Systems
 
@@ -15126,8 +14472,6 @@ that many people have computers attached to their phones. A notorious case was t
 Moldova scam. In 1997, customers of a porn site were told to download a "viewer"
 program, which dropped their phone line and connected them to a phone number in
 
-Chapter 17: Telecom System Security
-
 Moldova (having turned off their modem speakers so they wouldn't notice). The new
 connection stayed up until they turned off their computers. The result was that thousands of subscribers incurred hundreds of thousands of dollars in international long
 distance charges at over $2 per minute. Their phone companies tried to collect this
@@ -15174,8 +14518,6 @@ you dialed an engaged number, you could then enter a short code; as soon as
 the called number was free, both your phone and theirs would ring. The resulting call would be billed to you. However, when it was used from a payphone, it was the phone's owner who ended up with the bill, rather than the
 caller. People with private payphones, such as pub landlords and shopkeepers,
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 lost a lot of money, which the phone company was eventually obliged to refund [412].
 
 • Call forwarding is a source of many scams. There have been cases in which
@@ -15218,8 +14560,6 @@ The first generation of mobile phones used analogue signals and no real authenti
 The handset simply sent its serial numbers in clear over the air link. (In the U.S. system, there are two of them: one for the equipment, and one for the subscriber.) So villains built devices that would capture these numbers from calls in the neighborhood.
 (I've even seen a phone that was reprogrammed to do this by a simple software hack.)
 One of the main customers was the call-sell operation, which would steal phone service and resell it cheaply, often to immigrants or students who wanted to call home. The
-
-Chapter 17: Telecom System Security
 
 call-sell operators would hang out at known pitches with cloned mobiles, and their
 customers would line up to phone home for a few dollars.
@@ -15266,8 +14606,6 @@ most handsets worldwide used the Global System for Mobile Communications, or
 GSM, which was designed from the start to facilitate international roaming, and
 launched in 1992. The United States, Japan, and Israel have different digital standards
 (although there is a competing GSM service in parts of America).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 GSM's designers set out to secure the system against cloning and other attacks; the
 goal was that it should be at least as secure as the wireline system it was to replace.
@@ -15322,8 +14660,6 @@ authentication key Ki, gives an output that is SRES concatenated with Kc:
 
 {RAND}Ki = (SRES | Kc)
 
-Chapter 17: Telecom System Security
-
 .1 GSM authentication system components.
 
 The standard way to do this encryption is using a one-way function called Comp128,
@@ -15367,8 +14703,6 @@ be preferred to the local wireline network because the local phone company is of
 competitor, and, even if not, microwave makes installation simpler and quicker.) So an
 attacker could send out an IMSI of his choice, then intercept the triplet on the microwave link back to the local base station. A German mobile operator, which offered a
 reward of 100,000 Deutschmarks to anyone who could bill a call to a mobile number
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 whose SIM card was held in its lawyer's office, backed down when we asked for the
 IMSI [30].
@@ -15414,8 +14748,6 @@ with it. The IMSI-catcher claims not to understand the TMSI, and so the handset 
 roam from one network to another without the call being dropped, and to recover from
 failures at the VLR [769].) The police can now get a warrant to intercept the traffic to
 
-Chapter 17: Telecom System Security
-
 that mobile or—if they're in a hurry—just do a middleperson attack, in which they
 pretend to be the network to the mobile and the mobile to the network.
 
@@ -15443,8 +14775,6 @@ traffic and several minutes' work on a PC, or several minutes of traffic and sev
 seconds' work [104].
 
 .3 A5 (courtesy of Alex Biryukov and Adi Shamir).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Reverse-engineering actual systems also showed that the keying of A5 was deliberately weakened. Although, in theory, A5 has a 64-bit key (the initial loads for the shift
 registers) the actual implementations set the ten least significant key bits to zero.
@@ -15492,8 +14822,6 @@ with a number of GSM's known vulnerabilities. The system is supposed to enter se
 is necessarily somewhat tentative. However, the overall security strategy is described
 in [786], and the current draft of the security architecture is at [775].
 
-Chapter 17: Telecom System Security
-
 The crypto algorithms A5 and Comp l28 are replaced by a block cipher called Kasumi [442]. This is public and is based on a design by Mitsuru Matsui, called Misty,
 which has withstood public scrutiny for some years [527]. All keys are now 128 bits.
 Cryptography will be used to protect the integrity and confidentiality of both message
@@ -15531,8 +14859,6 @@ were not defined at the time of writing.
 In first phase of 3gpp, confidentiality will be, in effect, a higher-quality implementation of what's already available in GSM: eavesdropping on the air link will be prevented as before, and the currently possible attacks on the backbone network, or by
 bogus base stations, will be excluded. Police wiretaps will still be possible at the VLR.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 In the second phase, 3gpp is proposed to have end-to-end encryption, so that the call
 content and some of the associated signalling will be protected from one handset to
 another. This has led to government demands for the use of a key escrow protocol—a
@@ -15569,8 +14895,6 @@ this call one after the other, and the advice-of-charge facility lets him know
 how much to bill them. The phone stays off-hook continuously for several
 days. As soon as it goes on-hook, a CDR for several thousand dollars is generated, and the alarm goes off. So he throws the phone in the river and starts
 using the next one. By 1996, this had become so serious that Vodafone introduced a six-hour limit on all mobile calls.
-
-Chapter 17: Telecom System Security
 
 • However, it won't be acceptable to just drop all 3gpp calls after six hours.
 
@@ -15612,8 +14936,6 @@ mean live strip shows to order on the screen of your mobile, beamed to you from 
 relaxed indecency laws. So more prudish governments will demand ways to get round the 3gpp
 privacy mechanisms so they can censor content—just as the music industry will want ways to
 prevent user-to-user copying. We'll discuss this more in Chapter 20.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 been invented by our group at Cambridge, by Pedersen, and by Rivest and Shamir, independently in 1995 [26, 605, 648].)
 
@@ -15663,8 +14985,6 @@ secure. Was this accurate? The encryption of the air link certainly did stop cas
 eavesdropping, which was an occasional nuisance with analogue phones. (There had
 been some high-profile cases of celebrities being embarrassed, including one case in
 
-Chapter 17: Telecom System Security
-
 Britain where Prince Charles was overheard talking to his mistress before his divorce,
 and one in the United States involving Newt Gingrich.) But almost all the phone tapping in the world is done by large intelligence agencies, to whom the encryption
 doesn't make much difference.
@@ -15706,8 +15026,6 @@ Another problem is slamming—the unauthorized change of a subscriber's long dis
 phone company that you have opted for their services; your phone company routes
 your long distance calls through their service; they hope you don't notice the change
 and dispute the bill; and the telephone charges can then be jacked up. Some local
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 phone companies, such as Bell Atlantic, allow their customers to freeze their chosen
 long distance carrier [13].
@@ -15754,8 +15072,6 @@ chasing people who noticed that calling an international premium number at their
 discount rate actually cost less than the amount they could get paid by operating the
 premium service. The profits they're alleged to have made have two commas rather
 
-Chapter 17: Telecom System Security
-
 than the usual one. The phone companies claim this was fraud; the defendants that it
 was honest arbitrage. We shall have to wait and see what the juries think.
 
@@ -15780,8 +15096,6 @@ threats rather than computer security threats; they also concentrated on the pho
 3gpp, looks capable of doing slightly better; but we shall have to wait and see how it
 gets implemented in practice.
 
-Research Problems
-
 Relatively little research has been done outside phone company and intelligence
 agency labs on issues related specifically to phone fraud and wiretapping. However,
 there is growing interest in protocols and other mechanisms for use with novel telecommunications services. The recently published 3gpp protocol suite is sufficiently
@@ -15793,10 +15107,6 @@ ground for both interesting research and horrendously expensive engineering erro
 there are already regular workshops on how to use system engineering techniques to
 manage feature interactions in telecommunications.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
-Further Reading
-
 There are a lot of scattered articles about phone fraud, but nothing I know of which
 brings everything together. A useful site for the fraud techniques currently being used
 in the United States is the Alliance to Outfox Phone Fraud, an industry consortium
@@ -15806,8 +15116,6 @@ UMTS can be found in [400], and the 'full Monty' in [56]. To keep up with phone
 fraud, a useful resource is the Discount Long Distance Digest [252].
 
 Chapter 18: Network Attack and Defense
-
-C H A P TE R
 
 Network Attack and Defense
 
@@ -15836,8 +15144,6 @@ his personal pollster by a private detective called Benji the Binman, who achiev
 18.1.1 The Most Common Attacks
 
 Many actual attacks involve combinations of vulnerabilities. Examples of vulnerabilities we've seen in earlier chapters include stack overflow attacks (where you pass an
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 over-long parameter to a program that carelessly executes part of it) and password
 guessing, both of which were used by the Internet worm. A common strategy is to get
@@ -15889,8 +15195,6 @@ Observe that none of these attacks is stopped by encryption, and not all of them
 firewalls. For example, vulnerable Web servers can be kept away from back-end business systems by putting them outside the firewall, but they will still be open to vandalism; and if the firewall runs on top of an operating system with a vulnerability, then
 the bad guy may simply take it over.
 
-Chapter 18: Network Attack and Defense
-
 Although some of these attacks may have been fixed by the time this book is published, the underlying pattern is fairly constant. Most of the exploits make use of program bugs, of which the majority are stack overflow vulnerabilities. The exploitation
 of protocol vulnerabilities (such as NFS) vies with weak passwords for second place.
 
@@ -15931,8 +15235,6 @@ mind here that the most important attack is the stack overwriting attack, and th
 most important is password guessing; but because I already covered the first in Chapter
 4 and the second in Chapters 2–3, we'll move down to number three: vulnerabilities in
 network protocols.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 18.2 Vulnerabilities in Network Protocols
 
@@ -15979,8 +15281,6 @@ booting, broadcast a request for a subnet mask; many of them will apply any subn
 mask they receive at any time. So by sending a suitable subnet mask, a workstation can
 be made to vanish.
 
-Chapter 18: Network Attack and Defense
-
 Another approach, if the company uses Unix systems, is to target Sun's Network
 File System (NFS), the de facto standard for Unix file sharing. This allows a number of
 workstations to use a network disk drive as if it were a local disk; it has a number of
@@ -16019,8 +15319,6 @@ simply sends out as Y an encrypted version of X. That way, it's not necessary to
 state about sessions that are half-open.
 
 .1 TCP/IP handshake.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 18.2.2.2 Smurfing
 
@@ -16063,8 +15361,6 @@ supply of automatically hackable machines to host the attack software (another e
 
 At the time of writing, the initiative being taken against DDoS attacks is to add
 ICMP traceback messages to the infrastructure. The idea is that whenever a router for-
-
-Chapter 18: Network Attack and Defense
 
 wards an IP packet, it will also send an ICMP packet to the destination with a probability of about 1 in 20,000. The packet will contain details of the previous hop, the
 next hop, and as much of the packet as will fit. System administrators will then be able
@@ -16109,8 +15405,6 @@ Alice and Bob that a convenient route between their sites passes through his. So
 underlying assumptions—that "hosts are honest" and that the best return path is the
 best source route—no longer hold, and the only short-term solution is to block source
 routing. However, it continues to be used for network diagnosis.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Another approach involves redirect messages, which are based on the same false assumption. These effectively say, "You should have sent this message to the other
 gateway instead," and are generally applied without checking. They can be used to do
@@ -16157,8 +15451,6 @@ that adhering to a philosophy of having system administrators stop all vulnerabi
 the source requires skill and care; even diligent organizations may find that it is just
 too expensive to fix all the security holes that were tolerable on a local network but not
 with an Internet connection. Another problem is that, often, an organisation's most
-
-Chapter 18: Network Attack and Defense
 
 critical applications run on the least secure machines, as administrators have not dared
 to apply operating system upgrades and patches for fear of losing service.
@@ -16208,8 +15500,6 @@ more services, such as mail, telnet, and Web. It's at this level that you can en
 rules such as stripping out macros from incoming Word documents, and removing active content from Web pages. These can provide very comprehensive protection
 against a wide range of threats.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The downside is that application relays can turn out to be serious bottlenecks. They
 
 can also get in the way of users who want to run the latest applications.
@@ -16251,8 +15541,6 @@ Since firewalls do only a small number of things, it's possible to make them ver
 system (such as the RPC and sendmail facilities in Unix). This eliminates a lot of vulnerabilities and sources of error. Organizations are also attracted by the idea of having
 only a small number of boxes to manage, rather than having to do proper system administration for a large, heterogeneous population of machines.
 
-Chapter 18: Network Attack and Defense
-
 .2 Multiple firewalls.
 
 Conversely, the appeal of simplicity can be seductive and treacherous. A firewall
@@ -16274,8 +15562,6 @@ The big trade-off remains security versus performance. Do you install a simple f
 of application relays on a DMZ, which not only will need constant reconfiguration—as
 your users demand lots of new services that must pass through it—but will also act as a
 bottleneck?
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 An example in Britain was the NHS Network, a private intranet intended for all
 health service users (family doctors, hospitals, and clinics—a total of 11,000 organizations employing about a million staff in total). Initially, this had a single firewall to the
@@ -16319,8 +15605,6 @@ An assessment of the protocol can be found in [290]; an implementation is descri
 [782]. IPsec has the potential to stop some network attacks, and to be a useful component in designing robust distributed systems, but it won't be a panacea. Many machines
 will have to connect to all comers, and if I can become the administrator of your Web
 
-Chapter 18: Network Attack and Defense
-
 server by smashing the stack, then no amount of encryption or authentication is likely
 to help you very much. Many other machines will be vulnerable to attacks from inside
 the network, where computers have been suborned somehow or are operated by dishonest insiders. There will still be problems such as service denial attacks. Also, deployment is likely to take some years.
@@ -16360,8 +15644,6 @@ computing platform. It goes back at least to the early 1960s. The machines of th
 were slow, and their CPU cycles were carefully rationed among different groups of
 users. Because students were often at the tail of the queue—they invented tricks such
 as writing computer games with a Trojan horse inside to check whether the program
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 was running as root, and if so to create an additional privileged account with a known
 password. By the 1970s, large time-sharing systems at universities were the target of
@@ -16411,8 +15693,6 @@ including a strategic nuclear strike—it was remarkable that a program written 
 
 What's less often remarked on is that the mess was cleaned up, and normal service
 was restored within a day or two; that it only affected Berkeley Unix and its derivatives (which may say something about the dangers of the creeping Microsoft
-
-Chapter 18: Network Attack and Defense
 
 monoculture today); and that people who stayed calm and didn't pull their network
 connection recovered more quickly, because they could find out what was happening
@@ -16468,8 +15748,6 @@ time this kind of damage comes to the administrator's attention, all extant gene
 of backup may be corrupted. Finally, on September 21st 2000 came a report of a virus
 with a payload that had long been awaited. Swiss bank UBS warned its customers of a
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 virus that, if it infected their machines, would try to steal the passwords used to access
 its electronic home banking system.
 
@@ -16509,8 +15787,6 @@ kind used by the checksummer and hides itself whenever a check is being done.
 
 By the late 1980s and early 1990s, PC viruses had become such a problem that they
 gave rise to a whole industry of antivirus software writers and consultants. Many people thought that this wouldn't last, as the move from DOS to "proper" operating sys-
-
-Chapter 18: Network Attack and Defense
 
 tems like Windows would solve the problem. Some of the antivirus pioneers even sold
 their companies: one of them tells his story in [720].
@@ -16555,8 +15831,6 @@ the firewall. The company had configured its mail clients so that each of them h
 entire corporate directory in their personal address book. The result was meltdown as
 85,000 mail clients all tried to send an email to each of 85,000 addresses.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 For a virus infestation to be self-sustaining, it needs to pass an epidemic threshold,
 at which its rate of replication exceeds the rate at which it's removed [452]. This depends not just on the infectivity of the virus itself, but on the number (and proportion)
 of connected machines that are vulnerable. Epidemic models from medicine can be
@@ -16599,8 +15873,6 @@ Intrusion detection in corporate and government networks is a fast-growing field
 security research; for example, U.S. military funding grew from almost nothing to millions in the last few years of the twentieth century. This growth has been prompted by
 the realization that many systems make no effective use of log and audit data. In the
 
-Chapter 18: Network Attack and Defense
-
 case of Sun's operating system Solaris, for example, we found in 1996 that the audit
 formats were not documented, and tools to read them were not available. The audit
 facility seemed to have been installed to satisfy the formal checklist requirements of
@@ -16641,8 +15913,6 @@ number generators without knowing Benford's law, are often caught using it [529]
 18.5.2 General Limitations of Intrusion Detection
 
 Some intrusions are really obvious. If what you're worried about is a script kiddie vandalizing your corporate Web site, then the obvious thing to do is to have a machine in
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 your operations room that fetches the page once a second, displays it, and rings a really
 loud alarm when it changes. (Make sure you do this via an outside proxy; and don't
@@ -16691,8 +15961,6 @@ to improve this trade-off simply by looking at lots of different indicators. In 
 we must expect that an opponent will always get past the threshold if he or she is patient enough, and either does the attack very slowly or does a large number of small
 attacks.
 
-Chapter 18: Network Attack and Defense
-
 A particularly intractable problem with commercial intrusion detection systems is
 redlining. When insurance companies used claim statistics on postcodes to decide the
 level of premiums to charge, it was found that many poor and minority areas suffered
@@ -16738,8 +16006,6 @@ HIV where the test error exceeds the organism's prevalence in the population.
 In general, where the signal is so far below the noise, an alarm system is likely
 to so fatigue the guards that even the genuine alarms get missed.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 • Many network attacks are-specific to particular versions of software, so most
 of them concern vulnerabilities in old versions. Thus, a general misuse detection tool must have a large, and constantly changing, library of attack signatures.
 
@@ -16782,8 +16048,6 @@ problem is unlikely to be solved any time soon, as so many different kinds of vu
 code on secure platforms; in real life, this won't always happen. But there is some
 hope that firewalls can keep out the worst of the attacks, that careful configuration
 
-Chapter 18: Network Attack and Defense
-
 management can block most of the rest, and that intrusion detection can catch most of
 the residue that make it through.
 
@@ -16814,20 +16078,14 @@ lists, read the advisories, and install the patches. Although hacking has, to a 
 than some of the time, and box-ticking driven by due-diligence concerns isn't likely to
 achieve more than a modest amount of operational risk reduction.
 
-Research Problems
-
 In the academic world, research is starting to center on intrusion detection. One interesting theme is to make smarter antivirus products by exploiting analogies with biology. IBM is automating its techniques for identifying and culturing viruses, with a
 view to shipping its corporate clients a complete "path lab" [452]; Stephanie Forrest
 and colleagues at the University of New Mexico mimic the immune system by generating a lot of random "antibodies," then removing those that try to "kill" the system's
 own tissue [302]. How appropriate are such biological analogies? How far can we take
 them?
 
-Further Reading
-
 The classic on Internet security was written by Steve Bellovin and Bill Cheswick [94].
 Another solid book is by Simson Garfinkel and Eugene Spafford [331], which is a
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 good reference for the detail of many of the network attacks and system administration
 issues. An update on firewalls, and a survey of intrusion detection technology, has
@@ -16839,8 +16097,6 @@ also essential reading if you want to keep up with events; and hacker sites such
 www.phrack.com and (especially) www.rootshell.com bear watching.
 
 Chapter 19: Protecting E-Commerce Systems
-
-C H A P TE R
 
 Protecting E-Commerce
 Systems
@@ -16868,8 +16124,6 @@ and, if successful at raising capital, rapidly hire a lot of new staff who're fo
 money and not very carefully screened. A survey found in October 2000, for example,
 that 37% of dot-com executives have shady pasts, compared with 10% found in due
 diligence checks on normal companies [257].
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 19.2 A Telegraphic History of E-Commerce
 
@@ -16913,8 +16167,6 @@ enabling banks to offer services such as payroll to corporate customers. In the 
 ranging from General Motors to Marks and Spencer built systems that enabled them to
 link up their computers to their suppliers', so that goods could be ordered automatically. Travel agents built similar systems to order tickets in real time from airlines.
 
-Chapter 19: Protecting E-Commerce Systems
-
 In 1985, the first retail electronic banking system was offered by the Bank of Scotland, whose customers could use Prestel, a proprietary email system operated by British Telecom, to make payments. When Steve Gold and Robert Schifreen hacked
 Prestel—as described in the chapter on passwords—it initially terrified the press and
 the bankers. They realized that the hackers could easily have captured and altered
@@ -16955,8 +16207,6 @@ system is now extremely well entrenched as the payment mechanism used on the Net
 Because of the huge investment involved in rolling out a competitor to tens of thousands of banks, millions of merchants, and billions of customers worldwide, any new
 payment mechanism is likely to take some time to get established—with a possible
 exception, which I'll discuss shortly. When you use a credit card to pay for a purchase
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 in a store, the transaction flows from the merchant to her bank (the acquiring bank),
 which pays her after deducting a merchant discount of, typically, 4–5%. If the card was
@@ -17005,8 +16255,6 @@ captured from the embossing, so crooks figured out how to re-encode the magnetic
 strip of a stolen card with the account number and expiry date of a valid card, which
 they often got by fishing out discarded receipts from the trash cans of expensive restaurants. A re-encoded card would authorize perfectly, but when the merchant submitted
 
-Chapter 19: Protecting E-Commerce Systems
-
 the draft for payment, the account number didn't match the authorization code (a sixdigit number typically generated by encrypting the account number, date, and amount).
 The merchants didn't get paid, and raised hell.
 
@@ -17051,8 +16299,6 @@ With the human out of the loop at the sales end, the only psychology from which 
 site designer can leverage is that of the villain. It has been suggested that an ecommerce site should have an unreasonably expensive "platinum" option, which few
 genuine customers will want to buy [721]. This performs two functions. First, it allows
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 you to do rudimentary purchase profiling. Second, it fits with the model of Goldilocks
 pricing, developed by online economists Shapiro and Varian, who point out that the
 real effect of airlines offering first-class fares is to boost sales of business class seats to
@@ -17091,8 +16337,6 @@ expensive technological solution doesn't necessarily work best in the field.
 We turn now from traditional credit card fraud to the online variety. There was great
 anxiety in the mid-1990s that the use of credit cards on the Internet would lead to an
 avalanche of fraud, as "Evil Hackers" intercepted emails and Web forms, and har-
-
-Chapter 19: Protecting E-Commerce Systems
 
 vested credit card numbers by the million. These fears drove banks and software vendors to devise two protocols to protect Web-based credit card transactions: SSL and
 SET, which I'll explain in the next section.
@@ -17139,8 +16383,6 @@ visited them at all [389]. (Of course, none of this should have surprised the st
 more traditional telecomms fraud, as it's just cramming in a new disguise.) If even apparently large and "respectable" Web sites such as playboy. com indulge in such practices, it's much easier for consumers to get away with fraudulently repudiating
 transactions.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The critical importance of this for online businesses is that, if more than a small percentage of your transactions are challenged by customers, your margins will be eroded;
 and in extreme cases your bank may withdraw your card acquisition service. It has
 been reported that the collapse of sportswear merchant boo.com was because it had too
@@ -17185,8 +16427,6 @@ solicit credit card numbers.
 C, a transaction serial number C#, and a random nonce NC.
 
 2. The server sends a server hello message, which contains its name S, a transaction serial number S#, a random nonce NS, and a certificate CS containing
-
-Chapter 19: Protecting E-Commerce Systems
 
 its public key KS. The client now checks the certificate CS back to a root certificate issued by a company such as Verisign and stored in the browser.
 
@@ -17238,8 +16478,6 @@ Although early versions of SSL had a number of bugs [784], the latest version
 medical privacy, where it's likely to replace proprietary networks and allow confidential patient data to be sent over the Internet [175]. SSL is also spreading from Web applications, and is now incorporated as an option in Win2K, where it can be used to set
 up secure sessions between machines in different domains. There are problems,
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 though, and some of the most glaring have to do with the nature and management of
 certificates. We'll talk about them in Section 19.5.3.
 
@@ -17287,8 +16525,6 @@ amount and an authorization code), fortified with a signature.
 C Æ S: C, NC, CC
 
 S Æ C: S, S#, CS, CB
-
-Chapter 19: Protecting E-Commerce Systems
 
 C Æ S: {Order}KC, {Payment}KB, sigKC {h(Order), h(Payment)}
 
@@ -17344,8 +16580,6 @@ to a particular company after doing appropriate due diligence.
 
 • There are many proposals to base new online services, and particularly business-to-business services, on certified digital signatures.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 • Many governments are thinking of issuing their citizens with public key certificates, probably in smartcards, as next-generation identity cards. Although
 most businesses are really only interested in whether they will be paid, governments offer a range of services (such as tax and welfare) that can be
 cheated by people who can masquerade as more than one person. So there is
@@ -17387,8 +16621,6 @@ open PKIs will be favored by network economics, which I discuss in Section 19.6:
 once a single PKI becomes dominant, the pressure on everyone to use it could lead to
 its being entrenched as a monopoly. (This is the reason for the high stock market
 valuation of VeriSign.)
-
-Chapter 19: Protecting E-Commerce Systems
 
 There are numerous issues of implementation detail. For example, the dominant certificate format (X.509) does not have the kind of flexible and globally scalable 'hot
 card' system that the credit card industry has developed over the years. It rather assumes that anyone relying on a certificate can download a certificate revocation list
@@ -17434,8 +16666,6 @@ believe. They don't tackle most of the really important issues at all.
 
 The early examples of electronic commerce given in Section 19.2, such as the telegraph and EDI, were largely business-to-business systems. These systems provide
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 many of the examples of working PKIs. We looked at an example in detail in Section
 9.3.1—the SWIFT network used since the mid-1970s to send secure payment messages
 between banks in different countries, and upgraded in the 1990s to use public key
@@ -17479,8 +16709,6 @@ looks.
 So, for a number of reasons, implementing business-to-business secure communications isn't at all straightforward. As innovative business models proliferate, there are
 bound to be expensive design errors. I'll discuss how to reduce the probability of these
 in Part 3.
-
-Chapter 19: Protecting E-Commerce Systems
 
 19.5.5 E-Purses and Micropayments
 
@@ -17528,8 +16756,6 @@ The network externalities mentioned above don't just apply to people trying to l
 new payment systems, but are of very much wider importance. Many communications
 systems, and the downstream applications they support, suffer from them. They dictate
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 not just e-commerce business models, but also many of the problems that the security
 engineer must wrestle with.
 
@@ -17572,8 +16798,6 @@ user-friendliness of both Microsoft software and the Internet is due to the fact
 Microsoft and the Internet achieved success by appealing to developers. The support
 costs that Microsoft dumps on users—and, in fact, even the cost of the time wasted
 waiting for PCs to boot up and shut down—greatly exceed its turnover [595].
-
-Chapter 19: Protecting E-Commerce Systems
 
 So there are three particularly important features of information technology markets.
 
@@ -17618,8 +16842,6 @@ users' perception of the opportunity cost of switching.
 As technology advances, even seemingly impregnable monopolies can be replaced,
 so the competition can be vicious. Extensive use is made of protection mechanisms,
 from tamper-resistant devices to proprietary encryption algorithms.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 19.7 Competitive Applications and Corporate Warfare
 
@@ -17666,8 +16888,6 @@ build. In addition, many online merchants gauge demand by discounting perhaps ev
 hundredth transaction by a random amount. This wouldn't work if shoppers had tools
 to hit the site again and again until they got a bargain. In general, there is a constant
 
-Chapter 19: Protecting E-Commerce Systems
-
 struggle between the designers of intermediaries—from Web caches to anonymous
 communication services—who wish to control a user's transactions is various ways,
 and merchant sites, that wish to break this control and "own" the user directly.
@@ -17707,8 +16927,6 @@ interesting new exploits.
 
 Computer games are another fertile field for finding hacks. An example is Quake, a
 distributed game whose source code is openly distributed. Some players have exploited
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 their access to the code to modify the Quake client so that they can cheat [633]. This
 raises a number of questions, particularly with e-commerce applications that employ
@@ -17754,8 +16972,6 @@ product liability. One critical advantage enjoyed by U.S. e-businesses is that f
 civil judgments aren't enforced by U.S. courts. So an e-business operating from the
 United States doesn't have to worry about being sued by consumers in faraway coun-
 
-Chapter 19: Protecting E-Commerce Systems
-
 tries, even if the local law lets them sue locally, because the judgments they get cannot
 be enforced. But in Europe, there are international reciprocal agreements: a U.K. retailer sued in a local Greek court can have the judgment enforced in the U.K. On the
 other hand, U.S. courts are accessible and can give punitive damages, while courts in
@@ -17775,12 +16991,8 @@ local physical transactions to one of worldwide, dematerialized ones. Credit car
 rapidly growing companies that have hired a lot of new staff but that don't have the
 traditional internal controls in place.
 
-Research Problems
-
 Most of the research behind the e-commerce protection mechanisms that are already
 deployed, or about to be, was done around 1994–1996. It may well be time for a second wave now that we can see what has worked, what can work but failed in the marketplace, and where the real problems are.
-
-Further Reading
 
 The early history of the telegraph can be found in a book by Major General RFH Nalder [569], while Tom Standage tells the story of its rapid deployment in Victorian
 times [729]. There is a survey of organized credit card counterfeiting in [592]. The official specification of SSL is hard to read; a better exposition is in [604]. The SET
@@ -17789,8 +17001,6 @@ public key certification and infrastructures are analyzed in [42, 268]. Finally,
 book I know on network economics is by Carl Shapiro and Hal Varian [696].
 
 Chapter 20: Copyright and Privacy Protection
-
-C H A P TE R
 
 Copyright and Privacy
 Protection
@@ -17821,8 +17031,6 @@ warfare is about controlling the information space of one's own nation and its c
 film, and music copyright has created another powerful interest in control.
 
 At a system level, both copyright and censorship are access control issues, concerned with limiting access to some information to people in a particular group. In the
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 former case, the group consists of people who have paid for the bits in question; in the
 latter, they meet some other criterion (such as being over 18, or nonresidents of Singapore, or whatever). Sometimes, they overlap, as with the common convention of restricting online pornography to users who can use a credit card with an "age check"
@@ -17871,8 +17079,6 @@ be used for steganography, that is for hiding messages in other messages. The fa
 snapshots that you email to your brother might actually contain a ripped-off track from
 your favorite band's latest CD. (They could also contain a message organizing demon-
 
-Chapter 20: Copyright and Privacy Protection
-
 strators to picket an international trade conference, so the government interest is never
 far away.)
 
@@ -17908,8 +17114,6 @@ using it without skilled technical support would be a fast way for a bank to los
 But when minicomputers arrived in the 1960s, software costs started to become significant. Hardware vendors began to charge extra for their operating system, and thirdparty system houses sprang up. To begin with, these mostly sold complete bespoke
 systems—hardware, software, and maintenance—so piracy was still not much of an
 issue. By the mid 1970s, some of them had turned bespoke systems into packages:
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 software originally written for one bakery would be parameterized and sold to many
 bakeries. The main type of copyright dispute in those days was when a programmer
@@ -17953,8 +17157,6 @@ chance.
 • The standard way to add hardware uniqueness was a dongle—a device, typically attached to the PC's parallel port, which could be interrogated by the
 software. The simplest just had a serial number; the most common executed a
 simple challenge-response protocol; while some top-end devices actually performed some critical part of the computation.
-
-Chapter 20: Copyright and Privacy Protection
 
 • A cheaper and very common strategy was for the software to install itself on
 
@@ -18006,8 +17208,6 @@ using predominantly technical means. There were several reasons.
 
 hardware that executes some of your critical code, the mechanisms will be de-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 feated by people for whom it's an intellectual challenge, and unprotected code
 will be anonymously published. Code that isn't protected in the first place is
 less of a challenge.
@@ -18057,8 +17257,6 @@ tried it and liked it, I went out and bought it.) 'Pile it high and sell it chea
 simply proved to be a more profitable business model—even for speciality
 products such as compilers.
 
-Chapter 20: Copyright and Privacy Protection
-
 The industry then swung to legal solutions. The main initiative was to establish antipiracy trade organizations in most countries (in the United States, the Software Publishers' Association), which brought a number of high-profile prosecutions against
 large companies that had been condoning widespread use of pirate PC software. This
 was followed by harrassing medium and even small businesses with threatening letters
@@ -18097,8 +17295,6 @@ latest exchange rates, virus signatures or security patches—then you can keep 
 everyone who uses your software. But this can be dangerous. When Microsoft tried it
 with Registration Wizard in Windows 95, it caused a storm of protest. Also, a colleague found that he couldn't upgrade Windows 98 on a machine on his yacht since it
 was always offline. But the wind appears to be blowing in this direction.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 It's also worth noting that different methods are used to counter different threats.
 Large-scale commercial counterfeiting may be detected by monitoring product serial
@@ -18146,8 +17342,6 @@ grew to 5,000,000 by 1850. Sales of books soared as people bought books they'd f
 borrowed from a library. The library movement turned out to have been the printers'
 greatest ally, and helped create a whole new market for mass-market books.
 
-Chapter 20: Copyright and Privacy Protection
-
 20.2.3 Audio
 
 Pirates have also been copying music and other audio much longer than software. Paganini was so worried that people would copy his violin concertos that he distributed
@@ -18191,8 +17385,6 @@ inside it. There have been proposals to close the platform, such as by incorpora
 direction—a processor serial number in the Pentium III—met with huge public
 resistance. Attempts to keep DVD proprietary meant preventing Linux PCs
 from using DVDs, and have led to a fight I'll discuss later. So far all we've
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 seen are hacks, such as encrypting the music stream all the way to the sound
 card driver software. The response to this is a modified sound card that grabs
@@ -18239,8 +17431,6 @@ a CD that they already have on vinyl. Because of this, it might not even be
 possible to sue "violators" in many jurisdictions. So the trick may be slightly
 keener pricing and/or packaging that appeals to the collector.
 
-Chapter 20: Copyright and Privacy Protection
-
 I also expect that Hollywood will follow the software industry and adopt a somewhat more mature attitude to copying. After all, 70% of a market worth $100 billion is
 better than 98% of a market worth $50 billion. And just as a certain amount of copying
 helped market software, it can help music sales too: the Grateful Dead encouraged
@@ -18286,8 +17476,6 @@ first-generation systems, available since the 1970s, were crude analog devices w
 used tricks such as inverting the video signal from time to time, interfering with the
 synchronization, and inserting spikes to confuse the TV's automatic gain control. They
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 were easy enough to implement, but also easy to defeat; breaking them didn't involve
 cryptanalysis, just an oscilloscope and some patience.
 
@@ -18330,8 +17518,6 @@ chip using the technology of the mid-1980s.
 
 .1 Cut-and-rotate scrambling.
 
-Chapter 20: Copyright and Privacy Protection
-
 .2 Scrambled video frame.
 
 One systemic vulnerability of systems that encrypt only one line of video at a time
@@ -18353,8 +17539,6 @@ sequences. Some of the bits of register 1 are used as address lines to a multipl
 which selects a bit from register 2; this bit becomes the next bit of the keystream sequence. Each successive byte of output becomes a control byte for the scrambler (see
 .4).
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .3 Processed video frame.
 
 .4 The multiplexer generator.
@@ -18368,8 +17552,6 @@ word are easy to deduce from interline correlations—it's the least-significant
 really have to work hard for. So you can easily get about half the bits from a segment
 of keystream, and reconstruct the control word using cryptanalysis. But this computation is still comparable with the full signal processing attack. The stream cipher, like
 the scrambling technique, may be weak, but it survived (just) long enough. So the pirates had to attack the subscriber management mechanisms.
-
-Chapter 20: Copyright and Privacy Protection
 
 20.2.4.3 Subscriber Management Techniques
 
@@ -18408,8 +17590,6 @@ Once this "low-hanging fruit" had been picked, the commercial pirates turned to 
 Chapter 14. But hardware-level fixes were limited to new card issues, and the operators
 didn't want to issue a new card more than once a year as it cost several dollars per subscriber, and the subscriptions were usually less than $20 a month. So other defensive
 techniques had to be found.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Litigation was tried, but it didn't work as well as the operators hoped. A lawsuit was
 lost against a pirate in Ireland, which for a while became a haven from which pirates
@@ -18458,8 +17638,6 @@ Psychological measures were also used. For example, one cable-TV station broadca
 800-number to call; this got it a list of the pirates' customers. Economic factors also
 made a difference. Pay-TV pirates depend for their success on time-to-market as much
 
-Chapter 20: Copyright and Privacy Protection
-
 as conventional software firms: a pirate who could produce a 99% correct forgery in
 three weeks would wipe out a competitor who produced a 99.9% forgery after three
 months. So pirate cards also have bugs, and exploiting them efficiently involves an
@@ -18484,8 +17662,6 @@ drowning them in litigation.
 
 For example, in the last big pay-TV piracy case in the twentieth century, British pirate Chris Cary was convicted of forging Sky-TV smartcards, whose design he had had
 reverse engineered by a company in Canada for $105,000. He then sold forgeries
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 through a front company in Ireland, where counterfeit cards were not illegal at the time
 [568]. Sky TV's security consultants infiltrated a spy into Cary's Dublin sales office,
@@ -18532,8 +17708,6 @@ actually give a strong cipher, if there are (say) five shift registers with copr
 greater than 70 [656]. But in CSS, there are only two registers, with lengths 17 and 25,
 so there is a 216 shortcut attack of exactly the same kind as the one discussed above.
 
-Chapter 20: Copyright and Privacy Protection
-
 Where the cipher is used to protect keys rather than data, there is a further mangling
 step; but this only increases the complexity to 225.
 
@@ -18579,8 +17753,6 @@ to a digital work. This would be disastrous for universities, public libraries, 
 However, depriving Linux users—who probably include most of the world's computer science and
 engineering students—access to the latest audio unless they mount the despised Windows operating system is guaranteed to create many capable motivated opponents. The likely watermarking scheme—echo hiding—was already broken in [610] by Fabien Petitcolas.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 other bodies, where the exploitation of fair use rights is strongly entrenched. So the
 battle referred to by Barlow in the quote at the head of this chapter has started.
 
@@ -18622,8 +17794,6 @@ rapid developments in the field of information hiding. This largely refers to te
 that enable data to be hidden in other data, such as when a secret message is hidden in
 an MP3 audio file, or a program's serial number is embedded in the order in which
 certain instructions are executed.
-
-Chapter 20: Copyright and Privacy Protection
 
 The Hollywood interest is in copyright marks, which can be hidden unobtrusively in
 digital audio, video, and artwork. These are generally either watermarks, which are
@@ -18669,8 +17839,6 @@ find one will refuse to play a track unless they are supplied with h(X), which t
 check by hashing it and comparing it with the mark. Finally, arrange things so that a
 compliant device will record a marked track only if given X, in which case only h(X) is
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 written to the new disk. In this way, a "copy once only" track in the original medium
 becomes a "copy no more" track in the new medium.
 
@@ -18714,8 +17882,6 @@ longer correlated with the rest of the image), and it's trivial to remove or rep
 and receiver had copies of a paper mask, which had holes cut out of it at random locations. The sender would place his mask over a blank sheet of paper,
 write his message in the holes, then remove it and compose a cover message
 
-Chapter 20: Copyright and Privacy Protection
-
 including the characters of the secret embedded message. This trick was reinvented in the sixteenth century by the Italian mathematician Cardan and is now
 known to cryptographers as the Cardan grille [428].
 
@@ -18750,8 +17916,6 @@ spectrum, and perceptual filtering.
 Progress in copyright marking and steganography was very rapid in the last few
 years of the twentieth century. Its history has repeated that of cryptology, but on a
 much more compressed timescale: people invented marking schemes, which other people broke, and eventually the technology became more mature and robust.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 20.3.3 Attacks on Copyright-Marking Schemes
 
@@ -18788,8 +17952,6 @@ keys may need to be disclosed, it may be necessary to protect objects with
 multiple marks. For example, one can have a mark with a secret key that is
 system wide and that serves to identify which customer re-sold protected content in violation of his license, and a second mark with a unique key that can
 be disclosed in court when he's prosecuted.
-
-Chapter 20: Copyright and Privacy Protection
 
 • There have been various attempts to develop a marking equivalent of public
 key cryptography, so that (for example) anyone could insert a mark that only
@@ -18828,14 +17990,10 @@ known. If any copy control scheme based on marking is implemented in PC software
 or low-cost tamper-resistant processors, it's only a matter of time before the algorithm
 gets out; then expect to see people writing quite effective unmarking software.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 .6 The Mosaic attack (courtesy Jet Photographic,
 http://www.jetphotographic.com).
 
 .7 The effect of Stirmark.
-
-Chapter 20: Copyright and Privacy Protection
 
 20.3.4 Applications of Copyright-Marking Schemes
 
@@ -18880,8 +18038,6 @@ In pre-technological societies, the available protection included not just crypt
 but the fact that two people could walk a short distance away from everyone else and
 have a conversation that left no hard evidence of what was said. If Alice claimed that
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Bob had tried to recruit her for an insurrection, then Bob could always claim the converse—that it was Alice who'd proposed to overthrow the king and he who'd refused
 out of loyalty. In other words, some communications were deniable. Plausible deniability remains an important feature of some communications today, from everyday life
 up to the highest reaches of intelligence and diplomacy. In some circumstances, it can
@@ -18925,8 +18081,6 @@ of the public key, presented as a hexadecimal string.
 Another mechanism to help users manage trust is that they can sign each others'
 keys. This may simply be used as an integrity protection mechanism on their public
 keyrings, but becomes more interesting if the signatures are exported. The set of pub-
-
-Chapter 20: Copyright and Privacy Protection
 
 licly visible PGP signatures makes up the web of trust: the idea is that if Alice wants a
 public key for Bob, with whom she has not corresponded before, then she might be
@@ -18982,8 +18136,6 @@ However, there are limits to what can be done with cryptography alone, and many
 conventional IT security mechanisms can even endanger privacy [296]. Encryption use
 may mark your messages for traffic analysis; authentication can identify users unambiguously, removing wriggle room in censorship, defamation, and copyright infringe-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 ment cases; and in many jurisdictions, naive encryption can be countered by what's
 called rubber hose cryptanalysis—the police simply beat the key out of you. (Countries such as Britain are slightly more civilized; there's now a law there that lets a police officer demand your key and send you to jail if you refuse. I'll discuss this in
 Chapter 21.)
@@ -19030,8 +18182,6 @@ several contexts, the opponent often gets most of his information from traffic a
 Even if the communications between Alice and Bob are encrypted, and the ciphertext
 is hidden in MP3 files, and even if on inspection neither Alice's laptop nor Bob's con-
 
-Chapter 20: Copyright and Privacy Protection
-
 tains any suspicious material—whether because it's hidden on a stego file system or
 because it was simply memorized and deleted—the mere fact that Alice communicated
 with Bob may give the game away. This is why criminals set much more store by
@@ -19075,8 +18225,6 @@ and digital cash [708]; and in the real world they can be usefully implemented b
 
 While anonymous communications based on remailers provide protection that depends on all sorts of aspects of the implementation—such as whether replay or other
 chosen-traffic attacks are possible—there is another stronger mechanism that is not so
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 dependent, and thus may be considered the anonymity equivalent of "unconditional
 security." This was also introduced by Chaum as the dining cryptographers' problem,
@@ -19122,8 +18270,6 @@ client's identity. Some of the services offer encrypted sessions, in some cases 
 pages are fetched on the user's behalf. However, that does mean that the cache will
 have some very interesting logs!
 
-Chapter 20: Copyright and Privacy Protection
-
 Implementing high-quality anonymity is hard, not just for all these reasons but also
 for those discussed in Section 19.7: merchant sites are forever dreaming up new cachebusting tricks to ensure that customers see their ads and make their identities available,
 and many of these can break anonymity in one way or another. For a survey of
@@ -19163,8 +18309,6 @@ In Chapter 6, I explained the underlying technical idea—the blind signature. T
 customer constructs a banknote according to an agreed format, and presents it to the
 bank for signature after multiplying it by a suitable random blinding factor. Things are
 arranged so that after the signature is done, the blinding factor can be removed, leaving
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 a digital coin, or, more accurately, a digital cashier's check whose serial number is not
 known to the bank. Extra features are needed to ensure that the bank can detect
@@ -19210,8 +18354,6 @@ political furor in Switzerland when people realized this was happening there). M
 countries, including the United States, have now passed laws or regulations demanding
 that this information be available on production of a warrant (or even on demand) to
 
-Chapter 20: Copyright and Privacy Protection
-
 the police; there are further requirements such as tracking mobiles which make emergency calls. Third generation mobile services will provide location information accurate to 250 m, and in Europe at least it looks like there will be a legal requirement for
 phone companies to keep this for a year in case the police want it. What's more, many
 businesses plan to offer location-based services, with marketing pitches such as "50c
@@ -19254,8 +18396,6 @@ Net, encrypted so that the people hosting them would not be able to tell which f
 
 2 For non-U.S. readers: the revolutionaries Alexander Hamilton, John Jay, and James Madison
 used the pen name Publius when they wrote the Federalist Papers, a collection of 85 articles
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 anonymous publishing mechanism [785]. Another successor system is Freenet which
 seeks to provide communications as well as file storage services [189].
@@ -19302,8 +18442,6 @@ published in New York State newspapers in 1787–1788 and which helped convince 
 voters to ratify the United States Constitution. The reference is to the U.S. right to anonymous
 political speech.
 
-Chapter 20: Copyright and Privacy Protection
-
 as [731] and [732], can bring quite a lot to this party. The field is young and vigorous;
 a collection of papers should appear shortly as 'Peer-to-peer: Harnessing the disruptive
 potential of collaborative networking', edited by Andy Oram and published by
@@ -19347,8 +18485,6 @@ that can be removed by order of a court [155].
 
 A contending view is that, given the ease with which people can get throwaway
 email addresses, and log on through cybercafes or via prepaid mobile phones, anonymity will continue to exist and will occasionally be a factor in abuse; and given our
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 experience of real-world abuse so far, other mechanisms are likely to be at least as effective as tracing the perpetrators.
 
@@ -19394,8 +18530,6 @@ use and misuse" [190]. The detailed design of these tools is likely to remain co
 Some of the most difficult security engineering problems at the beginning of the
 twenty-first century have to do with copyright and privacy. In the absence of afford-
 
-Chapter 20: Copyright and Privacy Protection
-
 able tamper-proof devices, will the enforcement of intellectual property rights necessarily mean detailed monitoring of who reads which book, who listens to which music,
 and who runs which software? If the tools are made available to enable people to prevent monitoring, will this imply large-scale piracy of copyrighted matter?
 
@@ -19417,8 +18551,6 @@ This seems an appropriate note to finish the technical part of this book. Part 3
 
 deal with issues of policy, assurance, economics, and management.
 
-Research Problems
-
 There are many interesting research problems in copyright management. Some of them
 I've already touched on, such as whether much cheaper tamper-proof hardware tokens
 can be built. Others are the subject of intense activity, such as better ways of embedding copyright marks in digital pictures and sound. There are also business modelling
@@ -19430,8 +18562,6 @@ Privacy is also an active field of research and innovation. Perhaps the most dif
 problems have to do with preventing the abuse of anonymous services, particularly by
 people whose goal is to close down an anonymous service by abusing it deliberately.
 
-Further Reading
-
 Software copy protection techniques are discussed at length in [356]; there's a brief
 history of technical protection mechanisms for audio and video in [307]; and a racy
 account of the co-evolution of attack and defense in pay-TV systems in [532]. More
@@ -19441,8 +18571,6 @@ be found at [361].
 
 There is an overview of information hiding techniques, including steganography and
 copyright marking, in a special issue of the Proceedings of the IEEE [515]; for attacks
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 on marking schemes in particular, see [610, 611]. For more detail, there's a recent
 book on the subject [443]. Kahn is, as usual, good historical background reading [428].
@@ -19483,8 +18611,6 @@ example, security engineers often work with imperfect information, and network
 externalities are particularly savage. The management of residual risk, and the retention of organizational know-how, are two of the other problems that frequently
 cause expensive failures.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Assurance is a huge political can of worms. On the face of it, it's just an engineering issue. How do you go about finding convincing answers to the questions:
 are we building the right system? and, are we building it right? These questions are
 familiar from software engineering (which can teach us a lot), but they acquire
@@ -19496,8 +18622,6 @@ engineer to set out at the start of a project not just what the objective is, bu
 criteria by which it will be judged a success or a failure.
 
 Chapter 21: E-Policy
-
-C H A P TE R
 
 E-Policy
 
@@ -19526,8 +18650,6 @@ manager to quietly add a percent or two to the agreed rate; the contempt that ma
 health insurers and hospitals had for medical privacy was exposed once family doctors
 started competing for control of the electronic health record; and wiretapping became
 an issue once ubiquitous PCs, email, and encryption software made it practical for individuals to defeat some kinds of government surveillance.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 The role of government in e-commerce and the Internet generally has become a
 source of much argument. For much of the 1990s, the debate was dominated by key
@@ -19572,8 +18694,6 @@ context, sketch the broad outlines, and provide pointers to primary sources.
 
 Although restrictions on cryptography had existed for years and greatly irritated civilian users such as the banking industry, they shot to the headlines in 1993 when the
 new administration of Bill Clinton astonished the IT industry with the Escrowed En-
-
-Chapter 21: E-Policy
 
 cryption Standard (EES), more popularly known as the Clipper chip. This was a proposed replacement for DES, with a built-in back-door key that enabled government
 agencies to decipher any traffic. (I explained the technical aspects in 14.5.3.) However,
@@ -19620,8 +18740,6 @@ Ages, many kings either granted a monopoly of postal services to a trusted noble
 or made them the property of the state. The letter-opening and code-breaking facilities
 of early modern states, the so-called Black Chambers, are described in Kahn [428].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 The invention of electronic communications brought forth a defensive and indeed
 atavistic response, one very reminiscent of the recent crypto policy debate. In most of
 Europe, the telegraph service was set up as part of the Post Office and was always
@@ -19660,8 +18778,6 @@ East Germany had some 25,000 telephone taps in place, despite having a fraction 
 U.S. population [295]. There was also extensive use of technical surveillance measures, such as room bugs and body wires. (It's hardly surprising that nudist resorts became extremely popular in that country.)
 
 It's also worth noting that the incidence of wiretapping is highly variable in the developed democracies. In the United States, for example, only about half the states use
-
-Chapter 21: E-Policy
 
 it; and for many years, the bulk of the taps were in the "Mafia" states of New York,
 New Jersey, and Florida (though recently, Pennsylvania and California have caught up)
@@ -19705,8 +18821,6 @@ calling-line ID of incoming calls, even if the caller tries to block it). In oth
 there were 11 times as many warrants for communications data as for content. This
 pattern has been stable for years, and across many countries. Why should this be?
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Wiretaps are so expensive to listen to and transcribe that most police forces with restricted budgets use them only as a weapon of last resort; in contrast, the numbers a
 suspect calls, and that call him, give a rapid overview of his pattern of contacts. Also,
 while wiretaps usually have fairly strict warrantry requirements, most countries impose
@@ -19748,8 +18862,6 @@ Other countries will use different definitions. For example, the U.S. Court of A
 require triangulation on the device (an interpretation the police had wanted) would invade privacy [760]. Also, even cell-granularity location information would not be
 available under the lower standards applied to pen register warrants. Pen register warrants were also found insufficient for post-cut-through dialed digits, as there is no way
 
-Chapter 21: E-Policy
-
 to distinguish in advance between digits dialed to route calls and digits dialed to access
 or to give information. In practice, this means that if a target of investigation in the
 United States goes to a convenience store and buys a phone card for a few dollars, the
@@ -19788,8 +18900,6 @@ thousands of employees and an acknowledged budget of £650 million (about a bill
 dollars), while for many years one single police officer at New Scotland Yard handled
 the administration of all the police wiretaps in London (and ran the computer crime
 squad, too).
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Information has steadily trickled out about the scale and effectiveness of modern
 signals intelligence operations. Kahn's influential history of cryptography laid the
@@ -19832,8 +18942,6 @@ search criteria are entered by member countries' intelligence analysts; the dict
 then collect the traffic satisfying them and ship it back to the analyst. Echelon appears
 to work very much like a Web search engine, except that instead of searching Web
 pages it searches through the world's phone and data network traffic in real time.
-
-Chapter 21: E-Policy
 
 A number of points here are worth bearing in mind.
 
@@ -19881,8 +18989,6 @@ police and intelligence agencies of continental European countries [269, 280].
 
 Signals intelligence is necessary for a nation's survival, but potentially dangerous—just like the armed forces it serves. An army can be a good servant, but is likely
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 to be an intolerable master. The issue is not whether such resources should exist, but
 how they are to be held accountable. In the United States, hearings by Senator Church
 in 1975 detailed a number of abuses, such as the illegal monitoring of U.S. citizens
@@ -19923,8 +19029,6 @@ insiders have fleshed out the details.
 Until the 1980s, almost the only makers of cryptographic equipment were companies
 selling into government markets. They could, by and large, be trusted not to sell anything overseas that would upset their major customers at home. This was reinforced by
 export controls, which were operated "in as covert a way as possible, with the mini-
-
-Chapter 21: E-Policy
 
 mum of open guidance to anyone wanting, for example, an export licence. Most things
 were done in behind-the-scenes negotiation between the officials and a trusted representative of the would-be exporter" [82].
@@ -19968,8 +19072,6 @@ it managed to stop most foreign governments adopting it. The rotor machines cont
 continued to be harvested. Intelligence targets who encrypted their important data with
 such ciphers merely solved the NSA's traffic selection problem.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 A second initiative was to undermine academic research in cryptology. In the 1970s,
 this was done directly by harassing the people involved; by the 1980s, it had evolved
 into the subtler strategy of claiming that published research work was all old hat. The
@@ -20010,8 +19112,6 @@ properly is hard. Making two-party security protocols into three-party protocols
 done with simple local mechanisms. In one army, the elegant solution is that every officer must write down her passphrase on a piece of paper, put it into an envelope,
 stamp it "Secret" and hand it to her commanding officer, who puts it in the office safe.
 That way, the keys are kept in the same place as the documents whose electronic ver-
-
-Chapter 21: E-Policy
 
 sions they protect, and there's no central database for an airplane to bomb or a spy to
 steal. (If you have been following the key escrow debate, you may have been conditioned to object, "But a soldier could deposit a false key and then desert and try to sell
@@ -20054,8 +19154,6 @@ on telecomms fraud, law enforcement access was built into the standards for thir
 Quite often, key escrow has been implemented without the knowledge of the users. The
 Swedish government got upset when it learned that the "export version" of Lotus
 Notes, which it used widely in public service, had its cryptography deliberately weakened to allow NSA access; and at least one (U.S. export approved) cipher machine has
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 broadcast its plaintext in the clear in the VHF band. But the most notorious example
 was the Bühler case.
@@ -20100,8 +19198,6 @@ crypto policy is a law enforcement one (the FBI and the National Criminal Intell
 Service, respectively), but this is simply a front for the intelligence community—as
 was admitted in an unguarded moment in 1996 by the U.K. representative on the European body responsible for crypto policy [378].
 
-Chapter 21: E-Policy
-
 21.2.5.1 Law Enforcement or Intelligence?
 
 The use of law enforcement as a cover is a source of continuing problems. The aims
@@ -20145,8 +19241,6 @@ pointed out that wiretaps were either the cheapest or the only investigative tec
 some circumstances; but he still felt that compelling disclosure of crypto key material
 to the government was likely to be ineffective. "The invocation of the principle of nonself-incrimination may well represent the polite end of the possible range of responses," he drily remarked. Among his findings were that there is "no compelling rea-
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 son or virtue to move early on regulation or legislation concerning cryptography." But
 he did recommend that police and intelligence agencies be allowed to hack into target
 computers to obtain access or evidence.1 Although there will be some policing costs
@@ -20184,8 +19278,6 @@ sale in the shops. It was then republished in redacted form. But in 1998, resear
 copies and had been insufficiently diligent in finding and returning them. These were published
 on the Web, and the redacted parts drew attention at once to the issues the government considered sensitive. As late as 1999, the Australian government was still trying to suppress the report
 [787].
-
-Chapter 21: E-Policy
 
 Britain have introduced laws requiring ISPs to attach black boxes to their networks for
 surveillance purposes, while in the United States the FBI has a device called Carnivore
@@ -20230,8 +19322,6 @@ crimes by smart crooks are precisely the minority of crimes in which wiretaps ar
 economic, the U.K. government's public arguments about police surveillance powers
 seem even thinner.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Displacement activity isn't limited to communications intelligence issues. A lot of
 noise has been made about Internet-based child sex offenses, and especially kiddieporn. Yet the number of such cases is small; and even in a high-profile case involving
 what the judge called the "very worst possible type" of material—against former pop
@@ -20274,8 +19364,6 @@ also been high-profile cases in which courts in countries with laws against hate
 such as France and Germany, have looked for ways to censor U.S. online services. As I
 write, a court in Paris has just given Yahoo three months to prevent its French subscribers having access to auctions of Nazi memorabilia, which are illegal in France.
 And at the Global Internet Project conference in Berlin, in November 2000, I heard the
-
-Chapter 21: E-Policy
 
 German federal justice minister proclaim that her greatest achievement in office was
 stopping Books Online shipping copies of "Mein Kampf" to addresses in Germany.
@@ -20324,8 +19412,6 @@ harmonize the treatment of digital copyright. The implementation in the United S
 was the Digital Millennium Copyright Act (DMCA) of 1998. This prohibits the alteration of any electronic copyright management information (CMI) bundled with digital
 content, such as details of ownership and licensing; and outlaws the manufacture, importation, sale or offering for sale of anything primarily designed to circumvent copyright protection technology. There are specific exemptions for people engaged in
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 encryption research, for libraries, and to detect and disable the kind of snitchware discussed in Section 18.3.2.4.
 
 DMCA also provides some limited protection for ISPs that unknowingly host copyright material on Web sites that has been posted by their clients or other third parties.
@@ -20368,8 +19454,6 @@ industry. It seems unreasonable to just grant copyright holders and gaming conso
 vendors any right for which they can devise a protection mechanism, and to criminalize
 defeats of such mechanisms, however ineffective or inappropriate they are.
 
-Chapter 21: E-Policy
-
 Also, existing European law allows reverse-engineering for interoperability—to ensure that the program can work with other programs—while DMCA adds the restriction that there must not be a readily available commercial alternative for that purpose.
 The general European view, following the reverse-engineering of the DVD CSS (which
 was necessary for the Linux community), is that the DMCA provisions are too tightly
@@ -20408,8 +19492,6 @@ have them changed if inaccurate, understand how they're processed, and in many c
 prevent them being passed on to other organizations without their consent. This means,
 for example, that people who have been refused credit can see not just their files but
 also the credit-scoring algorithms used to make the decision; and if a U.S. bank doesn't
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 like that, tough. There are exemptions for national security, but not for all police data.
 Most commercial data are covered, and there are particularly stringent controls on data
@@ -20454,8 +19536,6 @@ personal data had to report and who could instruct them to cease and desist from
 Over time, processing by multinational businesses became an issue, and it became
 clear that purely local or national initiatives were likely to be ineffective against them.
 
-Chapter 21: E-Policy
-
 Following a voluntary code of conduct promulgated by the OECD in 1980 [598], data
 protection was entrenched by a Council of Europe convention in January 1981, which
 entered into force in October 1985 [206]. Although, strictly speaking, this convention
@@ -20497,8 +19577,6 @@ rental history following his nomination to the U.S. Supreme Court.
 Attitudes also differ. According to Westin, about twenty-five percent of Americans
 are "privacy fundamentalists," favoring legislative standards; twenty percent are unconcerned, and will readily pass on their personal information for minor benefits;
 while the majority, fifty-five percent, are pragmatists who take privacy decisions case
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 by case. But there is a growing feeling that people have lost control of the uses to
 which their personal information is put. This still lags behind Europe, where privacy is
@@ -20546,8 +19624,6 @@ want to collect are often not the same commodity. Personal secrets tend to be lo
 (how much can I increase the probability of selling this person an airplane seat today if
 I cut the price 20%?)
 
-Chapter 21: E-Policy
-
 Perhaps part of the solution will come from tools such as online auctions. But there
 are many places where Web cams will probably always be considered unacceptable,
 such as corporate research and development labs, attorneys' offices and doctors' consulting rooms. Defining the boundary will no doubt involve a lot of pushing and shoving.
@@ -20590,8 +19666,6 @@ might converge, there is a real risk that they won't; and neither is small enoug
 In the meantime, it is prudent for the e-commerce designer to ensure that business
 processes and systems can comply with the European way of doing things as well as
 the American one.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 21.5 Evidential Issues
 
@@ -20640,8 +19714,6 @@ file formats usually aren't adequately documented, and may contain bugs or featu
 which their creators are unwilling to discuss, because they would embarrass or even
 incriminate them. New gadgets, such as palmtop computers with closed operating systems, and SIM cards for which the suspect won't divulge the password, can force the
 
-Chapter 21: E-Policy
-
 practitioner to resort to the kind of reverse-engineering tricks described in Chapter 14.
 Things are made worse by the technical incompetence of judges and other lawyers; the
 common result is that arguments (and judgments) confuse fact, conjecture, assumption,
@@ -20687,8 +19759,6 @@ wherever manuscript writing was required in the past; others, like Britain, have
 laws giving the government the power to issue regulations causing this to happen; still
 others, such as Germany, have made laws giving effect to digital signatures provided
 they meet laid-down technical standards. Such laws often suffer from multiple objec-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 tives. Britain, for example, wants to promote the use of software and systems that support key escrow, while Germany wants to support its smartcard industry.
 
@@ -20736,8 +19806,6 @@ deem products from their own smartcard or other suppliers to be adequate; and th
 insecure PC. (I'll discuss this in more detail in Section 23.3.3.1 below.) Businesses in
 other countries will then have to accept the resulting "advanced" signatures as valid.
 
-Chapter 21: E-Policy
-
 So what sort of risks will people run once we have digital signatures that are considered by judges to be totally secure even although they aren't?
 
 21.5.4 Burden of Proof
@@ -20784,8 +19852,6 @@ courts destroyed their fiction by sending ATM fraudsters to jail. The banks seem
 slow learners, and the ATM mistakes are likely to be repeated on a very much grander
 scale if digital signatures made by customers start being accepted as gospel in business-to-consumer e-commerce transactions.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Even in advance of the deployment of digital signatures, a number of banks have
 adopted electronic banking terms and conditions under which their records of a transaction are definitive; they are already getting into trouble under consumer law and
 truth-in-advertising regulations. These issues are discussed in detail in [124].
@@ -20824,8 +19890,6 @@ This clash will worsen as the growth of the Net places more severe strains on ci
 service administrative capabilities. The political leadership expects that government
 services will be delivered online, and that service levels will rise to somewhere near
 those of the private sector. The voters expect no less. Yet often automation makes
-
-Chapter 21: E-Policy
 
 problems worse. In Britain, for example, the National Health Service suppresses demand for healthcare in a number of ways that doctors have evolved over time, such as
 by making it difficult to get appointments to see a specialist. Recently, ministers have
@@ -20873,8 +19937,6 @@ Another issue is that systems designed for, and by, college-educated computer sc
 designed for the people who will actually use them. Replacing the word "user" with
 "customer" or "citizen" is a small step in the right direction.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 21.6.3 Revenue Protection
 
 One of the most high-profile concerns is that a combination of anonymous remailers,
@@ -20915,8 +19977,6 @@ the work of the security engineer. The legal controls on cryptography in many co
 number of pernicious and unobvious effects, of which the worst may be the erosion of
 the boundary between law enforcement and intelligence. Other boundaries whose ero-
 
-Chapter 21: E-Policy
-
 sion could threaten civil liberties include those between traffic analysis and wiretaps
 for content, between copyright and censorship, and between mechanisms that enforce
 copyright and those that do other things as well, such as accessory control. Working
@@ -20928,8 +19988,6 @@ social exclusion and discrimination. There are also some mechanisms that we real
 must get right, such as the integrity of the systems used to record and tally votes in
 elections.
 
-Research Problems
-
 Technopolicy issues tend to involve a complex interplay between science, engineering,
 applied psychology, law and economics. There is altogether too little serious crossdisciplinary research; the apothegm at the head of this chapter captures well the problem that people from these different disciplines often talk at cross purposes. Debates on
 issues such as key escrow are slowly building a body of people with experience in
@@ -20937,8 +19995,6 @@ talking to both computer scientists and lawyers; and electronic commerce leads c
 certainly a good thing; bringing in psychologists, historians of science, and others
 would also be positive. What's not clear is how to do this within the current structures
 of academic and industrial research organizations.
-
-Further Reading
 
 It's extraordinarily easy for technopolicy arguments to get detached at one or more
 corners from reality; and many of the nightmares conjured up to get attention and
@@ -20961,8 +20017,6 @@ airbase [722]. The Department of Justice's "Guidelines for Searching and Seizing
 Computers" also bear some attention [245]. For collections of computer crime case
 histories, see Peter Neumann [590], Dorothy Denning [235], and Donn Parker [602].
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 On the topic of data protection, there is a huge literature, but no concise guide that I
 know of. [802] Alan Westin provides a good historical overview, with a perspective on
 the coming collision between Europe and the United States. Simson Garfinkel [330]
@@ -20972,8 +20026,6 @@ There's now quite a literature on electronic voting. The issues are largely the 
 as with voting by mail or by phone, but not quite. An influential survey of the requirements, and of the things that can go wrong, is by Mike Shamos [693]; while Roy Saltman (for many years the authority at NIST) discusses things that have gone wrong in
 the United States and various NIST recommendations, in [663]. There's a report on the
 feasibility of Internet voting from the State of California at [152]. Finally, Lorrie Cranor has a useful link farm on electronic voting at [209].
-
-C H A P TE R
 
 Management Issues
 
@@ -22002,8 +21054,6 @@ right first time. Make sure that you have some institutional means of capturing 
 this back into the process of enhancing and maintaining the system. Security must be
 an integral part of how you manage the system lifecycle.
 
-Research Problems
-
 The issues discussed in this chapter are among the most important—and most difficult—of any in our field. Ironically, they tend to receive little attention, because they
 lie at the boundaries with software engineering, applied psychology, economics, and
 management. Each of these interfaces appears to be a potentially very productive area
@@ -22011,8 +21061,6 @@ management. Each of these interfaces appears to be a potentially very productive
 of research—if you have the necessary background. When building systems to be robust in the face of malice, you must also build them so that they remain robust in the
 face of normal human behavior, and hopefully are able to tell the difference between
 the two often enough to do something useful.
-
-Further Reading
 
 Literature on managing the development of information systems is large, diffuse, and
 multidisciplinary. There are classics that everyone should read, such as Fred Brooks'
@@ -22037,8 +21085,6 @@ know for material on the underlying economics are a popular synopsis by Carl Sha
 and Hal Varian [696], and a standard textbook by Hal Varian [770].
 
 Chapter 23: System Evaluation and Assurance
-
-C H A P TE R
 
 System Evaluation and
 Assurance
@@ -22068,8 +21114,6 @@ that it does indeed work (or that it did work at some particular time in the pas
 reason that evaluation is both necessary and hard is that, often, one principal carries the
 cost of protection while another carries the risk of failure. This creates an obvious tension, and third-party evaluation schemes such as the Common Criteria are marketed as
 a means of making it more transparent.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 23.2 Assurance
 
@@ -22114,8 +21158,6 @@ the security printing technologies discussed in Chapter 12 are often optimized
 to make it easier for untrained and careless people to spot forgeries. But usability concerns developers as well as users. A developer usability issue, mentioned in Chapter 4 is that the access controls provided with commodity
 operating systems often aren't used, as it's so much simpler to make code run
 with administrator privilege.
-
-Chapter 23: System Evaluation and Assurance
 
 These four factors are largely independent, and the system builder has to choose an
 appropriate combination of them to aim at. A personal computer user, for example,
@@ -22164,8 +21206,6 @@ your test procedures. So assurance can be done as a one-off project or be the su
 continuous evolution. An example of the latter is given by the huge databases of
 known computer viruses that anti-virus software vendors accumulate over the years to
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 do regression-testing of their products. Assurance can also involve a combination, as
 when a step in an evolutionary development is managed using project techniques and is
 tested as a feature before being integrated and subjected to system-level regression
@@ -22210,8 +21250,6 @@ products, such as line encryption devices and operating systems for primitive co
 head of this chapter refers to the large number of breaks of cryptographic algorithms or
 protocols that had previously been proven secure. These breaks generally occur because one of the proof's assumptions is unrealistic, or has become so over time.
 
-Chapter 23: System Evaluation and Assurance
-
 23.2.2.3 Quis Custodiet?
 
 Just as mistakes can be made by theorem provers and by testers, so they can also be
@@ -22254,8 +21292,6 @@ produce code with an order of magnitude fewer bugs than others. Also, some organ
 Some of the differences between high-quality and low-quality development teams
 are amenable to direct management intervention. Perhaps the most notable is whether
 people are responsible for correcting their own bugs. In the 1980s, many organizations
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 interpreted the waterfall model of system development to mean that one team wrote the
 specification, another wrote the code, yet another did the testing (including some bug
@@ -22306,8 +21342,6 @@ people do. Joseph Schumpeter argued that economic depressions perform a valuable
 societal function of clearing out companies that are past it or just generally unfit, in
 much the same way that fires rejuvenate forests. Successful companies become com-
 
-Chapter 23: System Evaluation and Assurance
-
 placent and bureaucratic, so that some insiders opt for the good life while others leave
 (it used to be commonly said that the only people who ever left IBM were the good
 ones). Too rapid growth also brings problems: Microsoft insiders blame many of the
@@ -22351,8 +21385,6 @@ simplicity.)
 
 While controlling the rate at which bugs are introduced will depend on the kind of
 development controls I've already described, measuring the rate at which they are re-
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 moved requires different tools—models of how the reliability of software (and systems
 in general) improves under testing.
@@ -22400,8 +21432,6 @@ the species survive future environmental shocks. For example, if a population of
 The variability in speed will remain, so if foxes arrive in the neighborhood, the rabbit
 population's average running speed will rise sharply under selective predation. More
 formally, the fundamental theorem of natural selection says that a species with a high
-
-Chapter 23: System Evaluation and Assurance
 
 genic variance can adapt to a changing environment more quickly. But when Fisher
 proved this in 1930 [297], he was also proving that complex software will exhibit the
@@ -22457,8 +21487,6 @@ all Britain's 50,000 computer science graduates to a concentration camp in Glouc
 million hours of testing done each year. After ten years, he will find Paddy's bug. But
 by then Paddy will have found nine more, and it's unlikely that Brian will know of all
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 of them. Worse, Brian's bug reports will have become such a firehose that Bill will
 have killfiled them.
 
@@ -22494,8 +21522,6 @@ wrong.
 
 Another serious and pervasive problem is that the words "assurance" and "evaluation" are often interpreted to apply only to the technical aspects of the system, and ignore usability (not to mention the even wider issues of appropriate internal controls
 and good corporate governance). Company directors also want assurance—that the di-
-
-Chapter 23: System Evaluation and Assurance
 
 rected procedures are followed, that there are no material errors in the accounts, that
 applicable laws are being complied with, and dozens of other things. But many evaluation schemes (especially the Common Criteria) studiously ignore the human and organizational elements in the system. If any thought is paid to them at all, the evaluation
@@ -22542,8 +21568,6 @@ properly structured and its interface clearly defined. Covert channel analysis m
 performed. A trusted path must be provided from the user to the TCB. Severe testing,
 including penetration testing, must be carried out.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 B3: Security domains. As B2, but the TCB must be minimal; it must mediate all access
 requests, be tamper-resistant, and be able to withstand formal analysis and testing.
 There must be real-time monitoring and alerting mechanisms, and structured techniques must be used in implementation.
@@ -22584,8 +21608,6 @@ number of different evaluation levels; and for all but the highest of these leve
 work was contracted out. However, ITSEC introduced a pernicious innovation: the
 evaluation was not paid for by the government but by the vendor seeking an evaluation
 on its product.
-
-Chapter 23: System Evaluation and Assurance
 
 This was the usual civil service idea of killing several birds with one stone: saving
 public money and at the same time promoting a more competitive market. As usual, the
@@ -22631,8 +21653,6 @@ the examination is carried out is the evaluation assurance level (EAL); it can r
 from EAL1, for which functional testing is sufficient, all the way up to EAL7, for
 which thorough testing is required as well as a formally verified design. The highest
 evaluation level commonly obtained for commercial products is EAL4, although there
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 is one smartcard operating system with an EAL6 evaluation (obtained, however, under
 ITSEC rather than under CC).
@@ -22688,8 +21708,6 @@ of things that can go wrong and things that a developer can do to control them, 
 is a useful checklist. The really important aspects of card protection, though, are found
 in O.Phys_Prot, "Physical protection: the TOE must be resistant to physical attack or be
 
-Chapter 23: System Evaluation and Assurance
-
 able to create difficulties in understanding the information derived from such an attack" [p. 24]. An inexperienced reader might not realize that this objective is the whole
 heart of the matter; and as explained in Chapter 14, it's extremely hard to satisfy.
 (There's an admission on pp. 100–101 that competent attackers will still get through,
@@ -22733,8 +21751,6 @@ technology then available, it was cheaper to train people to be modems.
 So much for the theory of what's wrong with the Criteria. As always, the practical
 
 vulnerabilities are different, and at least as interesting.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 23.3.3 What Goes Wrong
 
@@ -22784,8 +21800,6 @@ EAL4 augmented, which, as mentioned, is sufficient to keep out all attackers but
 competent ones.) But no requirements are proposed for the PC that displays to you the
 material that you think you are signing. The end result will be a "secure" (in the sense
 
-Chapter 23: System Evaluation and Assurance
-
 of non-repudiable) signature on whatever the virus or Trojan in your PC sent to your
 smartcard.
 
@@ -22828,8 +21842,6 @@ whether the sales rep is lying or mistaken, and how. The Common Criteria were su
 evaluated list, you have to ask how the protection profile was manipulated and by
 whom; whether the CLEF was dishonest or incompetent; what pressure from which
 government was applied behind the scenes; and how your rights are eroded by the certificate.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 For example, if you use an unevaluated product to generate digital signatures, then a
 forged signature turns up and someone tries to use it against you, you might reasonably
@@ -22874,8 +21886,6 @@ A more realistic approach to evaluation and assurance would look not just at the
 technical features of the product but at how it behaves in real applications. Usability is
 ignored by the Common Criteria, but is in reality all-important; a U.K. government
 
-Chapter 23: System Evaluation and Assurance
-
 email system that required users to reboot their PC whenever they changed compartments frustrated users so much that they made informal agreements to put everything
 in common compartments—in effect wasting a nine-figure investment. (Official secrecy will no doubt continue to protect the guilty parties from punishment.) The kind
 of features I described in the context of bookkeeping systems in Chapter 9, which are
@@ -22916,8 +21926,6 @@ Another, very well established, technique is what I call semi-open design. Here,
 architectural-level design is published, even though the implementation details may not
 be. Examples that I've given include the smartcard banking protocol discussed in Section 2.7.1, and the nuclear command and control systems mentioned in Chapter 11.
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 Another approach to semi-open design is to use an openly available software package, which anyone can experiment with. This can be of particular value when the main
 threat is a legal attack. It is unreasonable to expect a court to grant access to the source
 code of a spreadsheet product such as Excel, or even to accounting software sold by a
@@ -22954,8 +21962,6 @@ There have also been backdoor "maintenance passwords" in products such as sendma
 be attackers who are sufficiently motivated to spend more time finding bugs or exploitable features in the published code than the community of reviewers are. In fact, it can
 be worse than this; as noted in Section 23.2.4, different testers find different bugs, because their test focus is different, so it's quite possible that even once a product had
 withstood 10,000 hours of community scrutiny, a foreign intelligence agency that in-
-
-Chapter 23: System Evaluation and Assurance
 
 vested a mere 100 hours might find a new exploitable vulnerability. Given the cited
 reliability growth models, the probabilities are easy enough to work out.
@@ -23003,8 +22009,6 @@ of bugs as they're found—as happens on a number of mailing lists, notably bugt
 Neither approach is fully satisfactory. In the first case, you never know who saw the
 vulnerability report before you did; and in the second case, you know that anyone in
 
-Security Engineering: A Guide to Building Dependable Distributed Systems
-
 the world could see it and use it against you before a patch is shipped. Perhaps a more
 sensible solution was proposed in [631], under which a researcher who discovers a
 vulnerability should first email the software maintainer. The maintainer will have 48
@@ -23051,24 +22055,16 @@ Life is chaotic. Success means coping with it. Complaining too much about it is 
 
 path to failure.
 
-Chapter 23: System Evaluation and Assurance
-
-Research Problems
-
 We could do with some new ideas on how to manage evaluation. Perhaps it's possible
 to apply some of the tools that economists use to deal with imperfect information, from
 risk-pricing models to the theory of the firm. It would also be helpful if we had better
 statistical tools to measure and predict failure.
-
-Further Reading
 
 An entire industry is devoted to promoting the assurance and evaluation biz, supported
 by mountains of your tax dollars. Its enthusiasm can even have the flavor of religion.
 Unfortunately, there are nowhere near enough people writing heresy.
 
 Chapter 24: Conclusions
-
-C H A P TE R
 
 Conclusions
 
@@ -23099,8 +22095,6 @@ the face of service denial attacks. They will also have to be resilient in the f
 and mischance. So tolerance of human carelessness and incompetence will be at least
 as important as tolerating dishonesty, and this will mean paying close attention to economic and institutional issues as well as technical ones. The ways in which real systems will provide this dependability will be much more diverse than today: tuning the
 security policy to the application will be an essential part of the engineering art.
-
-Security Engineering: A Guide to Building Dependable Distributed Systems
 
 Ten years ago, the better information security products were the domain of government. They were designed in secret and manufactured in small quantities by cosseted
 cost-plus defense contractors. Already, commercial uses dwarf government ones, and
@@ -23209,8 +22203,6 @@ Compensating for Changes in Illumination Direction," in IEEE Transactions
 on Pattern Analysis and Machine Intelligence, v 19 no 7 (July 1997), pp
 721–732.
 
-Bibliography
-
 [11] C Ajluni, "Two New Imaging Techniques Promise to Improve IC Defect
 
 Identification," in Electronic Design, v 43 no 14 (July 10, 1995), pp 37–38.
@@ -23303,7 +22295,6 @@ Information Hiding (1996), Springer LNCS, v 1174.
 and Ethics, Springer-Verlag (1997), ISBN 3-540-63244-1.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [30] RJ Anderson, "GSM hack—Operator Flunks the Challenge," in comp.risks v
 
@@ -23392,8 +22383,6 @@ http://www.cl.cam.ac.uk/Research/Security/Trust-Register/.
 Proceedings of the Second Usenix Workshop on Electronic Commerce (Nov
 1996), pp 1–11; http://www.cl.cam.ac.uk/users/rja14/tamper.html.
 
-Bibliography
-
 [44] RJ Anderson, MG Kuhn, "Low-Cost Attacks on Tamper-Resistant Devices,"
 in Security Protocols—Proceedings of the 5th International Workshop (1997),
 Springer LNCS, v 1361, pp 125–136.
@@ -23467,7 +22456,6 @@ Compatibility, v 38 no 3 (Aug 1996), pp 334–340.
 (Apr 1994), p 5.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [62] D Austin, "Flood warnings," in Banking Technology (Jul–Aug 1999), pp
 
@@ -23540,8 +22528,6 @@ http://www.cs.uregina.ca/~bayko/cpu.html.
 [80] F Beck, Integrated Circuit Failure Analysis—A Guide to Preparation
 Techniques, New York: John Wiley & Sons, Inc. (1998), ISBN 0-471-97401-
 3.
-
-Bibliography
 
 [81] J Beck, "Sources of Error in Forensic Handwriting Examination," in Journal
 
@@ -23628,7 +22614,6 @@ Security (1997); Proceedings published by the ACM, ISBN 0-89791-912-2, pp
 Operating System," AFIPS Conference proceedings (1979).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [100] K Biba, Integrity Considerations for Secure Computer Systems, Mitre
 
@@ -23699,8 +22684,6 @@ http://www.crypto.com/papers/carnivore-risks.html.
 Proceedings of the 1996 IEEE Symposium on Security and Privacy, pp
 164–173.
 
-Bibliography
-
 [116] D Bleichenbacher, "Chosen Ciphertext Attacks against Protocols Based on
 the RSA Encryption Standard PKCS#1," in Advances in Cryptology—Crypto
 98, Springer LNCS, v 1462, pp 1–12.
@@ -23766,7 +22749,6 @@ Species, and the Limits of Software Reliability, Cambridge University
 Computer Laboratory Technical Report no. 471 (1999).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [134] S Brands, Rethinking Public Key Infrastructures and Digital
 
@@ -23836,8 +22818,6 @@ of Life-Critical Software Reliability," in ACM Symposium on Software for
 Critical Systems (1991), ISBN 0-89791-455-4, pp 66–76.
 
 [151] "Long Distance Phone Scam Hits Internet Surfers," in businessknowhow.com, at http://www.businessknowhow.com/newlong.htm.
-
-Bibliography
 
 [152] California Secretary of State, "A Report on the Feasibility of Internet
 
@@ -23928,7 +22908,6 @@ IEEE Computer Society, ISBN 0-8186-8274-4ACSAC, pp 24–33.
 15, 2000), p 13.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [171] R Carter, "What You Are . . . Not What You Have," in International
 Security Review Access Control, Special Issue (Winter 1993–1994), pp 14–16.
@@ -24003,8 +22982,6 @@ Practice—Traceability," Version 1.0
 http://www.linx.net/noncore/bcp/traceability-bcp.html.
 
 (May 18, 1999),
-
-Bibliography
 
 [191] S Clough, "Bombings 'Inspired by Atlanta Attack,'" in Daily Telegraph
 
@@ -24093,7 +23070,6 @@ Prevention of Buffer-Overflow Attacks," 7th USENIX Security Conference
 Systems Security Engineering (A Case Study in Security Run Amok)," in
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 Second ACM Conference on Computer and Communications Security (1994);
 Proceedings published by the ACM, ISBN 0-89791-732-4, pp 251–257; at
@@ -24179,8 +23155,6 @@ http://www.ex.ac.uk/***7ERDavies/arian/llyfr.html.
 
 Monitor, v 10 no 3 (Feb 1995), pp 5–8.
 
-Bibliography
-
 [224] D Davis, "Compliance Defects in Public-Key Cryptography," in Sixth
 
 USENIX Security Symposium Proceedings (July 1996), pp 171–178.
@@ -24257,7 +23231,6 @@ Wesley (1998), ISBN 0-201-43303-6.
 System Evaluation Criteria," DoD 5200.28-STD (Dec 1985).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [241] Department of Defense, "A Guide to Understanding Covert Channel
 
@@ -24340,8 +23313,6 @@ www.economist.com.
 
 Christmas special; see www.economist.com.
 
-Bibliography
-
 [262] A Edwards, "BOLERO, a TTP project for the Shipping Industry," in
 
 Information Security Technical Report, v 1 no 1 (1996), pp 40–45.
@@ -24411,7 +23382,6 @@ to the Processing of Personal Data and on the Free Movement of Such Data,"
 Directive 95/46/EC, at http://www.privacy.org/pi/intl_orgs/ec/eudp.html.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [280] European Union, "Draft Council Resolution on the Lawful Interception of
 Telecommunications in Relation to New Technologies" 6715/99 (Mar 15,
@@ -24485,8 +23455,6 @@ Security Mechanisms," in 17th National Computer Security Conference
 
 Press (1930); 2nd ed., New York: Dover Publications (1958).
 
-Bibliography
-
 [298] J Flanagan, "Prison Phone Phraud (or The RISKS of Spanish)," reporting
 University of Washington staff newspaper, in comp.risks, v 12.47; at
 http://catless.ncl.ac.uk/Risks/20.69.html.
@@ -24526,8 +23494,6 @@ http://www.newscientist.com/ns/20000108/newsstory6.html.
 S c i e n t i s t
 
 2 0 0 0 ) ,
-
-( J a n
 
 8 ,
 
@@ -24571,7 +23537,6 @@ Watch, no 1 (1996), pp 6–7.
 Fraud Watch, no 2 (1996), pp 6–9.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [318] "Widespread Card Skimming Causes European Concern," in Fraud Watch,
 
@@ -24652,8 +23617,6 @@ Communications of the ACM, v 28 no 8 (Aug 1985), pp 797–807.
 [337] AA Giordano, HA Sunkenberg, HE de Pdero, P Stynes, DW Brown, SC
 Lee, "A Spread-Spectrum Simulcast MF Radio Network," in I E E E
 Transactions on Communications, v TC-30 no 5 (May 1982), pp 1057–1070.
-
-Bibliography
 
 [ 3 3 8 ] W N
 
@@ -24736,7 +23699,6 @@ Record, Aberystwyth: Institute for Health Informatics, University of Wales
 (Mar 1995).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [356] D Grover, The Protection of Computer Software—Its Technology and
 Applications, Cambridge: British Computer Society/Cambridge University
@@ -24803,8 +23765,6 @@ the ACM, v 37 no 12 (Dec 1994), pp 13–15.
 [373] MA Harrison, ML Ruzzo, JD Ullman, "Protection in Operating Systems,"
 
 in Communications of the ACM, v 19 no 8 (Aug 1976), pp 461–471.
-
-Bibliography
 
 [374] A Hassey, M Wells, "Clinical Systems Security—Implementing the BMA
 
@@ -24883,7 +23843,6 @@ Systems," in ESORICS 98, Springer LNCS, v 1485, pp 277–293; journal
 version in Journal of Computer Security, v 8 no 2–3 (2000), pp 183–207.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [391] JD Horton, R Harland, E Ashby, RH Cooper, WF Hyslop, DG Nickerson,
 WM Stewart, OK Ward, "The Cascade Vulnerability Problem," in Journal of
@@ -24954,8 +23913,6 @@ Materials," available from ISACA, at http://www.isaca.org/certl.htm.
 [409] International Atomic Energy Authority (IAEA), "The Physical Protection
 of Nuclear Material and Nuclear Facilities," INFCIRC/225/Rev.4, at
 http://www.iaea.org/worldatom/program/protection/index.shtml.
-
-Bibliography
 
 [410] International Electrotechnical Commission, Digital Audio Interface, IEC
 
@@ -25032,7 +23989,6 @@ House, Prague, ISBN 80-01-01502-5; pp 324–336.
 [428] D Kahn, The Codebreakers, New York: Macruillan (1967).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [429] D Kahn, Seizing the Enigma, New York: Houghton Mifflin (1991), ISBN
 
@@ -25100,8 +24056,6 @@ Steganography and Digital Watermarking, Artech House (2000), ISBN 1-
 [444] C Kaufman, R Perlman, M Speciner, Network Security—Private
 Communication in a Public World, Prentice Hall 1995, ISBN 0-13-061466-1.
 
-Bibliography
-
 [445] DT Keitkemper, SF Platek, KA Wolnik, "DNA versus Fingerprints," in
 
 Journal of Forensic Sciences, v 40 (1995), p 534.
@@ -25149,8 +24103,6 @@ http://www.cl.cam.ac.uk/users/fapp2/kerckhoffs/.
 
 5 – 3 8 ;
 
-( J a n
-
 p p
 
 [455] PJ Kerry, "EMC in the New Millennium," in Electronics &
@@ -25175,7 +24127,6 @@ Services," in Computer Fraud and Security Bulletin (July 1995), pp 12–15.
 bugtraq (July 20, 2000), at http://www.L0pht.com/advisories.html.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [460] DV Klein, "Foiling the Cracker: A Survey of, and Improvements to, UNIX
 Password Security," Proceedings of the USENIX Security Workshop, Portland,
@@ -25266,8 +24217,6 @@ http://www.faqs.org/rfcs/rfc2104.html.
 
 R F C
 
-Bibliography
-
 [475] HM Kriz, "Phreaking recognized by Directorate General of France
 
 Telecom," in Chaos Digest 1.03 (Jan 1993).
@@ -25337,7 +24286,6 @@ Crypto Policy," Report of the ACM U.S. Public Policy Committee (June 1994).
 http://www.fool.com/portfolios/rulemaker/2000/rulemaker000127.htm.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [492] P Landrock, "Roles and Responsibilities in BOLERO," in TEDIS EDI
 Trusted Third Parties Workshop (1995); proceedings published as ISBN 84-
@@ -25426,8 +24374,6 @@ Television Signals," at http://silentsentry.external.lmco.com.
 
 Reference, Artech House (1998), ISBN 0-89006-992-1.
 
-Bibliography
-
 [510] PA Loscocco, SD Smalley, PA Muckelbauer, RC Taylor, SJ Turner, JF
 Farrell, "The Inevitability of Failure: The Flawed Assumption of Security in
 Modern Computing Environments," in 20th National Information Systems
@@ -25504,7 +24450,6 @@ International Workshop on Fast Software Encryption (1997), Springer LNCS,
 v 1267, pp 54–68.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [528] Gospel according to St. Matthew, Chapter 7, verse 3.
 [529] R Matthews, "The Power of One," in New Scientist (Oct 7, 1999), pp
@@ -25526,8 +24471,6 @@ C o m m u n i c a t i o n s
 C o m p u t e r
 
 S e c u r i t y
-
-a n d
 
 [532] J McCormac, "European Scrambling Systems—The Black Book," version
 
@@ -25599,8 +24542,6 @@ at http://www.cacr.math.uwaterloo.ca/hac/.
 Evaluations: Partners within the Assurance Framework," in 19th National
 Information Systems Security Conference (1996), pp 76–88.
 
-Bibliography
-
 [546] J Mercer, "Document Fraud Deterrent Strategies: Four Case Studies," in
 Optical Security and Counterfeit Deterrence Techniques II (1998), IS&T (The
 Society for Imaging Science and Technology) and SPIE (The International
@@ -25647,7 +24588,6 @@ Informationstechnik GmbH, as v 41 of GMD Report, pp 71–76.
 
 [555] K Mitnick, Congressional testimony, as reported by Associated Press (Mar
 a l s o
-a n d
 
 3 ,
 http://www.zdnet.com/zdnn/stories/news/0,4586,2454737,00.html
@@ -25682,7 +24622,6 @@ http://www.cs.berkeley.edu/~daw/security/seq-attack.html.
 [560] R Morris, Invited talk, Crypto 95.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [561] R Morris, K Thompson, "Password Security: A Case History," in
 
@@ -25763,11 +24702,7 @@ http://www.itl.nist.gov/fipspubs/0-toc.htm#cs.
 
 1 9 9 4 ) ,
 
-( J a n
-
 1 1 ,
-
-Bibliography
 
 [577] National Institute of Standards and Technology, "SKIPJACK and KEA
 Algorithms," (June 23, 1998), at http://csrc.nist.gov/encryption/skipjackkea.htm.
@@ -25861,7 +24796,6 @@ p p
 473-1.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [597] R Oppliger, Internet and Intranet Security, Artech House (1998), ISBN 0-
 
@@ -25962,8 +24896,6 @@ Survey," in Proceedings of the IEEE, v 87 no 7 (July 1999), pp 1062–1078.
 
 Information Hiding (1999), Springer LNCS, v 1768.
 
-Bibliography
-
 [614] B Pfitzmann, "Information Hiding Terminology," in Proceedings of the
 First International Workshop on Information Hiding (1996), Springer LNCS, v
 1174, pp 347–350.
@@ -26047,7 +24979,6 @@ S y s t e m s , "
 ( N o v
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [631] Rain Forest Puppy, "Issue Disclosure Policy V1.1," at
 
@@ -26128,8 +25059,6 @@ New York: Viking Books (1993), ISBN 0-1402-4548-0.
 
 [ 6 4 7 ]
 
-V
-
 R i j m e n ,
 
 T h e
@@ -26149,8 +25078,6 @@ Micropayment Schemes," in Security Protocols (1996), Springer LNCS, v
 [649] RL Rivest, A Shamir, L Adleman, "A Method for Obtaining Digital
 Signatures and Public-Key Cryptosystems," in Communications of the ACM, v
 21 no 2 (Feb 1978), pp 120–126.
-
-Bibliography
 
 [650] AR Roddy, JD Stosz, "Fingerprint Features—Statistical Analysis and
 System Performance Estimates," in Proceedings of the IEEE, v 85 no 9 (Sept
@@ -26234,7 +25161,6 @@ http://uainfo.arizona.edu/~weisband/411_511/copyright.html.
 at the rump session of Eurocrypt 2000.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [669] RS Sandhu, S Jajodia, "Polyinstantiation for Cover Stories," in Computer
 
@@ -26261,7 +25187,6 @@ Force?" in Air University Review, v 30 no 2 (Jan-Feb 1979), pp 16–33.
 [675] RR Schell, PJ Downey, GJ Popek, "Preliminary Notes on the Design of
 Secure Military Computer Systems," Electronic Systems Division, Air Force
 a t
-( J a n
 S y s t e m s
 http://seclab.cs.ucdavis.edu/projects/history/papers/sche73.pdf.
 
@@ -26324,8 +25249,6 @@ Transactions on Communications, v TC-30 no 5 (May 1982), pp 822–854.
 [687] MD Schroeder, "Cooperation of Mutually Suspicious Subsystems in a
 Computer Utility," MIT PhD Thesis (Sept 1972); also available as Project
 
-Bibliography
-
 M A C
 http://hdl.handle.net/ncstrl.mit_lcs/MIT/LCS/TR-104.
 
@@ -26378,8 +25301,6 @@ http://www.cpsr.org/conferences/cfp93/shamos.html.
 
 P r i v a c y
 
-a n d
-
 [694] CE Shannon, "A Mathematical Theory of Communication," in Bell
 
 Systems Technical Journal, v 27 (1948), pp 379–423, 623–656.
@@ -26429,7 +25350,6 @@ Schemes and Their Application," in [702], pp 441–497.
 Communications Security, Fairfax, VA (Nov 3–5, 1993).
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [706] GJ Simmons, "Subliminal Channels: Past and Present," in European
 Transactions on Telecommunications, v 5 no 4 (July/Aug 1994), pp 459–473.
@@ -26527,8 +25447,6 @@ L o n d o n
 
 ( 1 9 9 8 ) ,
 
-Bibliography
-
 [724] E Spafford, "The Internet Worm Program: An Analysis," in Computer
 
 Communications Review, v 19 no 1 (Jan 1989), pp 17–57.
@@ -26544,7 +25462,6 @@ http://joel.editthispage.com/stories/storyReader$139.
 
 [728] "Your Car Radio May Be Revealing Your Tastes," in St. Petersburg Times
 a t
-( J a n
 http://www.sptimes.com/News/013100/Technology/Your_car_radio_may_be.shtm
 
 2 0 0 0 ) ,
@@ -26609,7 +25526,6 @@ into English as History of Twelve Caesars, by Philemon Holland, 1606: Nutt
 Security Conference (1986), pp 175–183.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [744] L Sweeney, "Weaving Technology and Policy Together to Maintain
 Confidentiality," in Journal of Law, Medicine, and Ethics, v 25 nos 2–3
@@ -26716,8 +25632,6 @@ o f
 [761] United States Senate Select Committee on Intelligence, CIA Office of
 Inspector General Investigations Staff Report on the Improper Handling of
 
-Bibliography
-
 Classified Information by John M. Deutch, 106th Congress, at
 http://intelligence.senate.gov/igreport.pdf.
 
@@ -26805,7 +25719,6 @@ Summary," version 2 draft 1 (Nov 1997).
 IEEE Communications Magazine, v 17 no 3 (May 1979), pp 11–18.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [779] PR Vizcaya, LA Gerhardt, "A Nonlinear Orientation Model for Global
 Description of Fingerprints," in Pattern Recognition, v 29 no 7 (July 1996), pp
@@ -26880,8 +25793,6 @@ series 4 (1890), pp 193–195.
 
 Telegraph (Oct 31, 1997).
 
-Bibliography
-
 [794] W Webb, "High-Tech Security: The Eyes Have It," in EDN (Dec 18,
 
 1997), pp 75–78.
@@ -26949,7 +25860,6 @@ also published by the Defense Intelligence Agency as document DDS-2600-
 Computer Law and Security Report, v 14 no 6 (Nov/Dec 1994), pp 311–312.
 
 Security Engineering:
-A Guide to Building Dependable Distributed Systems
 
 [811] B Wright, The Law of Electronic Commerce: EDI, Fax and Email, New
 
@@ -26960,7 +25870,6 @@ Military Use Working Group," Appendix F to the Report of the Fundamental
 Classification Policy Review Group, U.S. Department of Energy Office of
 ( 1 9 9 7 ) ,
 T e c h n i c a l
-a n d
 S c i e n t i f i c
 http://www.osti.gov/opennet/app-f.html.
 

@@ -1,4 +1,3 @@
-
 Andrew S. Grove
 
 HIGH OUTPUT MANAGEMENT
@@ -980,8 +979,6 @@ Ben Horowitz, 2015
 selection of a candidate for a position is based on the candidate's
 performance in their current role, rather than on abilities related to the
 intended role. Thus, "managers rise to the level of their incompetence."
-
-I
 
 The Breakfast Factory
 
@@ -2182,8 +2179,6 @@ output and activity. And as noted, stressing output is the key
 to improving productivity, while looking to increase activity
 can result in just the opposite.
 
-II
-
 Management
 Is a Team Game
 
@@ -2411,7 +2406,6 @@ felt
 listened
 
 reasons
-I
 his
 (information-gathering),
 he
@@ -2640,11 +2634,9 @@ to
 employee, which
 
 a
-I
 a
 compensation
 particular
-I
 thought was way outside of the
 norm (clearly a decision). I decided
 to conduct a meeting with a group of
@@ -5304,8 +5296,6 @@ the key results that support them. Both judgment and
 common sense are also required when using MBO to guide
 you in your work from one day to the next.
 
-III
-
 Team of Teams
 
 The Breakfast Factory Goes
@@ -6571,8 +6561,6 @@ believed in the company and had faith that eventually
 things would get better. Belief and faith are not aspects of
 the market mode, but stem from adherence to cultural
 values.
-
-IV
 
 The Players
 

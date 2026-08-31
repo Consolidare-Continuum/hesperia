@@ -226,8 +226,6 @@ Bibliography
 
 Index
 
-V
-
 E I C H M A N N I N J E R U S A L E M
 
 I: The House of Justice
@@ -415,8 +413,6 @@ and Germans. The better informed among the correspondents
 were well aware of the irony, but they did not mention it in
 their reports. This, they figured, was not the time to teil the
 
-Eichm ann in Jerusalem
-
 Jews what was wrong with the laws and institutions of their own
 country.
 
@@ -509,8 +505,6 @@ Germany was responsible for the destruction of six million Jews
 1 0
 
 Eichmann
-
-in Jerusalem
 
 of Europe." Hence, again in Ben-Gurion's own words, "We want
 the nations of the world to know . . . and they should be
@@ -605,8 +599,6 @@ triumph of the S.S. demands that the tortured victim allow
 
 1 2
 
-Eichm ann in Jerusalem
-
 the point of ceasing
 
 that he
@@ -696,8 +688,6 @@ the trial, some deputies in the Knesset, the Israeli Parliament,
 succeeded in imposing certain restraints on the cultural-exchange
 
 1 4
-
-E ichm ann in Jerusalem
 
 program with West Germany, this certainly was neither foreseen
 nor hoped for by Ben-Gurion. It is more notewo'rthy that he had
@@ -790,8 +780,6 @@ very few who actually had suffered a nervous breakdown after
 
 in Poland. One of
 
-E ichm ann in Jerusalem
-
 the mass killings, had tried to protect Jews from the Ein­
 satzgruppen, and had testified for the prosecution at Nuremberg?
 He was also the only one in this category who in 1952 had
@@ -881,8 +869,6 @@ bloomed under the Hitler regime. True, if the Adenauer adminis­
 
 1 8
 
-E ichm ann in Jerusalem
-
 (A t least one German newspaper,
 
 tration had been too sensitive about employing officials with a
@@ -914,7 +900,6 @@ Mr. Hausner mentioned Eichmann's "accomplices in the crime
 who were neither gangsters nor men of the underworld," and
 promised that we should "encounter them— doctors and lawyers,
 scholars, bankers, and economists— in
-that
 resolved to exterminate the Jews." This promise was not kept,
 nor could it have been kept in the form in which it was made.
 For there never existed a "council that resolved" anything, and
@@ -969,8 +954,6 @@ basis of the fate of this people? Beyond the understanding of a
 human being?" Is not there perhaps something like "the spirit of
 
 2 0
-
-Eichm ann in Jerusalem
 
 history, which brings history forward . . . without the influence
 of men?" Is not Mr. Hausner basicaUy in agreement with "the
@@ -1034,8 +1017,6 @@ law," but
 the
 
 2 2
-
-Eichm ann in Jerusalem
 
 committed acts "for which you are decorated if you win and go
 to the gallows if you lose." (Thus Goebbels had declared in
@@ -1133,8 +1114,6 @@ required
 
 2 4
 
-E ichm ann in Jerusalem
-
 Solution in Serbia started about six months later, when women
 and children were rounded up and disposed of in mobile gas
 vans. During cross-examination, Eichmann, as usual, chose the
@@ -1187,7 +1166,6 @@ the Jews and did you say there was room to help them?" And he
 replied: "I am here under oath and must speak the truth. Not
 out of mercy did I launch this transaction"— which would have
 been fine, except that it was not Eichmann who "launched" i t
-I
 But he
 explained this morning," and they were as follows: Himmler
 had sent his own man to Budapest to deal with matters of Jewish
@@ -1226,8 +1204,6 @@ another had found that his whole psychological outlook, his
 attitude toward his wife and children, mother and father,
 
 2 6
-
-Eichm ann in Jerusalem
 
 brothers, sisters, and friends, was "not only normal but most
 desirable"— and finally the minister who had paid regulär visits
@@ -1328,8 +1304,6 @@ able to watch how in the hour of my biith the Nora of misforin
 tune, to spite the Nom of good fortune, was already spinning
 threads of grief and sorrow into my Life. But a kind, impenetrable veil kept my parents frorr, seeing into the future."
 
-Eichm ann in Jerusalem
-
 for
 
 first an accountant
@@ -1414,8 +1388,6 @@ the Austrian
 Vacuum Oil Company, a Jewish Mr. Weiss, to obtain for his
 
 the general director of
-
-Eichm ann in Jerusalem
 
 the Jews
 
@@ -1502,8 +1474,6 @@ he spoke or wrote while in prison. But this was misleading; he
 w as rather the declasse son of a solid middle-class family, and it
 
 3 2
-
-E ichm ann in Jerusalem
 
 into
 
@@ -1606,8 +1576,6 @@ he never advanced beyond the grade of S.S. Obersturmbann­
 führer (a rank equivalent to lieutenant colonel)— in short, if,
 
 3 4
-
-Eichm ann in Jerusalem
 
 with the exception of the year in Vienna, his life was beset with
 frustrations, he never forgot what the alternative would have
@@ -1749,8 +1717,6 @@ a great national statesman. In Germany itself, it was a time of
 
 to annex Austria, or
 
-E ichm ann in Jerusalem
-
 rearmament program,
 the enormous
 transition. Because of
@@ -1856,8 +1822,6 @@ association of all communities and organizations, which had been
 
 4 0
 
-Eichm ann in Jerusalem
-
 the German and
 
 founded in September, 1933, on the initiative of the Berlin
@@ -1944,8 +1908,6 @@ not steal or accept bribes,
 
 Eichm ann
 
-in Jerusalem
-
 indispensable. An "idealist" was a man who lived for his idea—
 hence he could not be a businessman— and who was prepared
 to sacrifice for his idea everything and, especially, everybody.
@@ -1984,8 +1946,6 @@ tria into the Reich), in March, 1938, he was sent to Vienna to
 organize a kind of emigration that had been utterly unknown
 in Germany, where up to the fall of 1938 the fiction was maintained that Jews if they so desired were permitted, but were not
 forced, to leave the country. Among the reasons German Jews
-
-A n E xpert on the Jewish Q uestion
 
 4 3 -
 
@@ -2027,8 +1987,6 @@ is called expulsion. Whenever Eichmann
 back to the twelve years that were his life, he singled out his
 
 4 4
-
-Eichm ann in Jerusalem
 
 year in Vienna as head of the Center for Emigration of Austrian Jews as its happiest and most successful period. Shortly
 before, he had been promoted to officer's rank, becoming an
@@ -2120,8 +2078,6 @@ mann "invited" the Jewish functionaries from Berlin to inspect
 
 4 6
 
-Eichm ann in Jerusalem
-
 it. They were appalled: "This is like an automatic factory, like a
 flour mill connected with some bakery. At one end you put in a
 Jew who still has some property, a factory, or a shop, or a bank
@@ -2204,8 +2160,6 @@ era had bestowed so much unexpected "fame" upon him.
 
 But bragging is a common vice, and a more specific, and also
 more decisive, flaw in Eichmann's character was his almost total
-
-Eichm ann in Jerusalem
 
 inability ever to look at anything from the other fellow's point of
 view. Nowhere was this flaw more conspicuous than in his
@@ -2301,8 +2255,6 @@ I said
 
 then
 
-Eichm ann in Jerusalem
-
 nominated for the Einsatzgruppen, the mobile killing units in
 the East, because when they were formed, in March, 1941, his
 office was "dead"— there was no emigration any longer and
@@ -2347,8 +2299,6 @@ representatives of the Jewish Community. Eichmann had received
 a telegram from Rudolf Hoss, Commandant of Auschwitz, telling
 him that Storfer had arrived and had urgently requested to see
 Eichmann. "I said to myself: O.K., this man has always behaved
-
-A n E xpert on the Jewish Q uestion
 
 5 1
 
@@ -2395,8 +2345,6 @@ shot.
 
 Is this a textbook case of bad faith, of lying self-deception combined with outrageous stupidity? Or is it simply the case of the
 
-Eichm ann in Jerusalem
-
 etemally unrepentant criminal (Dostoevski once mentions in his
 diaries that in Siberia, among scores of murderers, rapists, and
 burglars, he never met a single man who would adm it that he had
@@ -2435,8 +2383,6 @@ capacity for self-deception than to the aura of systematic men­
 dacity that had constituted the general, and generally accepted,
 atmosphere of the Third Reich. ''Of course" he had played a role
 in the extermination of the Jews; of course if he "had not transported them, they would not have been delivered to the butcher."
-
-A n E xpert on the Jewish Q uestion
 
 5 3
 
@@ -2479,8 +2425,6 @@ for all anti-Semites on this earth," which now, under vastly
 
 5 4
 
-Eichm ann in Jerusalem
-
 different circumstances, fulfilled exactly the same function of giving him a lift.
 
 These habits of Eichmann's created considerable difficulty dur­
@@ -2519,8 +2463,6 @@ I refuse it, I refuse it for moral reasons. Since my experience teils
 me that if one is loyal to his oath, one day he has to take the
 consequences, I have made up my mind once and for all that no
 judge in the world or any other, authority will ever be capable
-
-A n E xpert on the Jewish Q uestion
 
 5 5
 
@@ -2619,8 +2561,6 @@ himself in importance, as far as the "solution" of the Jewish
 
 5 8
 
-Eichm ann in Jerusalem
-
 question was concerned, with Müller, or Heydrich, or Himmler;
 he was no megalomaniac. But neither was he as small as the
 defense wished him to be.
@@ -2701,8 +2641,6 @@ least, engage in a certain amount of non-criminal cooperation
 with the Nazi authorities; the Zionists too believed that "dis­
 
 6 0
-
-E ichm ann in Jerusalem
 
 the emigration
 
@@ -2792,8 +2730,6 @@ Eichmann's trouble was that he remembered none of the
 
 6 2
 
-Eichm ann in Jerusalem
-
 facts that might have supported, however faintly, his incredible
 story, while the learned counsel for the defense probably did not
 even know that there was anything to remember. (Dr. Servatius
@@ -2845,7 +2781,6 @@ in Vienna, from the spring of 1938 to March, 1939, came at a
 time when the Nazi regime had abandoned its pro-Zionist attitude. It was in the nature of the Nazi movement that it kept
 moving, became more radical with each passing month, but one
 of the outstanding characteristics of its members was
-that
 psychologically they tended to be always one Step behind the
 movement—that they had the greatest difficulty in keeping up
 with it, or, as Hitler used to phrase it, that they could not
@@ -2878,8 +2813,6 @@ his best to clear things with the Palestinians. (T hat is probably
 what Eichmann had in mind when he added to his story about
 
 6 4
-
-Eichm ann in Jerusalem
 
 the cryptic
 
@@ -2983,8 +2916,6 @@ but his later greatly admired boss Heinrich Müller, another of
 Heydrich's discoveries. Heydrich had just taken Müller away
 
 6 6
-
-Eichm ann in Jerusalem
 
 from his job as a regulär Bavarian police officer (he was not
 even a member of the Party and had been an opponent until
@@ -3142,8 +3073,6 @@ ters." (Dr. Servatius is well acquainted with "medical matters"
 
 7 0
 
-Eichm ann in Jerusalem
-
 in the Third Reich. At Nuremberg he defended Dr. Karl Brandt,
 H itler's personal physician, Plenipotentiary for "Hygiene and
 Health," and chief of the euthanasia program.)
@@ -3238,8 +3167,6 @@ and to put all the blame on the R.S.H.A. Something of the
 
 7 2
 
-Eichm ann in Jerusalem
-
 same sort happened at Nuremberg, where the various accused
 presented a nauseating spectacle by accusing each other— though
 none of them blamed Hitler! Still, no one did this merely to
@@ -3324,8 +3251,6 @@ several months. This Dr. Stahlecker, as Eichmann was careful
 
 7 4
 
-Eichm ann in Jerusalem
-
 to call him, was in his opinion a very fine man, educated, full
 of reason, and "free of hatred and chauvinism of any kind"—
 in Vienna, he used to shake hands with the Jewish functionaries.
@@ -3343,7 +3268,7 @@ Polish territories, Eichmann and Dr. Stahlecker began to think
 of influence in the E ast What they needed was "an area as
 large as possible in Poland, to be carved off for the erection
 of an autonomous Jewish state in the form of a protectorate.
-. . . This could be the solution." And ofl they went, on their
+. . . This could be the solution." And oflthey went, on their
 own initiative, without Orders from anybody, to reconnoiter.
 They went to the Radom District, on the San River, not far
 from the Russian bordcr, and they "saw a huge territory, villages, market places, small towns," and "we said to ourselves:
@@ -3414,8 +3339,6 @@ this unique repatriation of Jews, clearly a temporary defeat for
 the police and the S.S., must also have taught him that the
 
 7 6
-
-Eichm ann in Jerusalem
 
 steadily increasing power of his own outfit did not amount to
 omnipotence, that the State Ministries and the other Party institutions were quite prepared to fight to maintain their own
@@ -3500,8 +3423,6 @@ preliminary "stage." But Eichmann, after reading the document
 carefully, said immediately that he was convinced that "final
 aim" could only mean "physical extermination," and concluded
 
-E ichm ann in Jerusalem
-
 that "this basic idea was already rooted in the minds of the
 higher leaders, or the men at the very top." This might indeed
 have been the truth, but then he would have had to admit
@@ -3584,8 +3505,6 @@ the Protectorate would be judenrein. After the conference, he
 discussed the matter with those who would have to make his
 word good— with Franz Stahlecker, who was then local commander of the Security Police in Prague, and with the Under-
 
-Eichm ann in Jerusalem
-
 secretary of State, Karl Hermann Frank, a former Sudeten
 leader who soon after Heydrich's death was to succeed him as
 Reichsprotektor. Frank, in Eichmann's opinion, was a low type,
@@ -3658,7 +3577,6 @@ side." A few sessions later, he mentioned a trip to Bratislava, in
 Slovakia, where he happened to be at the time when Heydrich
 was assassinated. What he remembered was that he was there
 as the guest of Sano Mach, Minister of the Interior in the
-that
 German-established Slovakian puppet govemment.
 strongly anti-Semitic Catholic govemment, Mach represented the
 German version of anti-Semitism; he refused to allow exceptions
@@ -3676,8 +3594,6 @@ Captain Less, the Israeli examiner, came back to this point, and
 (In
 
 8 2
-
-Eichm ann in Jerusalem
 
 Eichmann told the same story in nearly identical words, adding
 that this day had been "unforgettable," because his "superior
@@ -3747,8 +3663,6 @@ careful in choosing his words, and then I understood, and didn't
 say anything, because there was nothing to say any more. For I
 
 8 4
-
-E ichm ann in Jerusalem
 
 had never thought of such a thing, such a solution through
 violence. I now lost everything, all joy in my work, all initiative,
@@ -3833,8 +3747,6 @@ to show the Theresienstadt ghetto to International Red Cross
 representatives from Switzerland—he received, together with his
 
 8 6
-
-E ichm ann in Jerusalem
 
 Orders, his "language rule," which in this instance consisted of a
 lie about a nonexistent typhus epidemic in the concentration camp
@@ -4006,8 +3918,6 @@ he never actually watched the gassing process, or the selection
 
 9 0
 
-Eichm ann in Jerusalem
-
 of those fit for work— about twenty-five per cent of each shipment, on the average— that preceded it at Auschwitz. He saw just
 enough to be fully infonned of how the destruction machinery
 worked: that there were two different methods of killing, shooting
@@ -4092,8 +4002,6 @@ classical "difficult position" of a soldier who may "be liable to be
 
 9 2
 
-E ichm ann in Jerusalem
-
 shot by a court-martia! if he disobeys an order, and to be hanged
 by a judge and jury if he obeys it" —-as Dicey once put it in his
 faxnous Law of the Constitution— if only because as a member
@@ -4176,8 +4084,6 @@ with a "wish" of Hitler, who had told Himmler to m ake the
 
 9 4
 
-Eichm ann in Jerusalem
-
 Reich judenrein as quickly as possible. The first shipment contained twenty thousand Jews from the Rhineland and five
 thousand Gypsies, and in connection with this first transport a
 stränge thing happened. Eichmann, who never made a decision
@@ -4256,8 +4162,6 @@ to kill those Jews who were incapable of work through some
 quicker means. This, at any rate, would be more agreeable than
 
 9 6
-
-Eichm ann in Jerusalem
 
 to let them die of starvation." In an accompanying letter,
 addressed to "D ear Comradc E ichm ann/' the wrher admitted
@@ -4348,8 +4252,6 @@ camps. Before the outbreak of the war, the rnmates belonged
 in a great number of categories, many of which had nothing
 
 its
-
-E ichm ann in Jerusalem
 
 whatsoever to do with resistance of any kind: there were the
 wholly "innocent" ones, such as the Jews; the "asocials," such as
@@ -4442,8 +4344,6 @@ the holding of a govemment post>T [Fritz Hesse], hence it did
 
 1 0 0
 
-E ichm ann in Jerusalem
-
 not exclude from the circle of the conspirators quite a number
 of men who themselves were deeply implicated in the crimes of
 the regime— as for instance Count Helldorf, then Police Cominissioner of Berlin, who would have become Chief of the Ger­
@@ -4489,8 +4389,6 @@ the month when
 
 that was
 
-that
-
 The F in al Solution: K illin g
 
 1 0 1
@@ -4535,8 +4433,6 @@ intended to present their case to the people. There is for instance
 a draft proclamation to the Army by General Ludwig Beck,
 who was to become chief of state, in which he talks at length
 about the "obstinacy," the "incompetence and lack of moderation" of the Hitler regime, its "arrogance and vanity." But the
-
-Eichm ann in Jerusalem
 
 crucial point, "the most unscrupulous act" of the regime, was
 that the Nazis wanted to hold "the leaders of the armed forces
@@ -4629,8 +4525,6 @@ were known publicly, as were the aforementioned Reck-Mallec-
 
 1 0 4
 
-E ichm ann in Jerusalem
-
 zewen or the philosopher Karl Jaspers. Some of them were truly
 and deeply pious, like an artisan of whom I know, who pre­
 ferred having his independent existence destroved and becoming
@@ -4713,8 +4607,6 @@ in its record than any ordinary unit of the German Army,
 and their commanders had been chosen by Heydrich from the
 
 1 0 6
-
-E ichm ann in Jerusalem
 
 S.S. elite with academic degrees. Hence the problem was how
 to overcome not so much their conscience as the animal pity by
@@ -4812,8 +4704,6 @@ Lublin area, and whom Eichmann visited, did not address him-
 
 10 8
 
-E ichm ann in Jerusalem
-
 seif to Himmler or any other police or S.S. authority when he
 needed more personnel; he wrote to Viktor Brack, of the
 Führer's Chancellery, who
@@ -4902,8 +4792,6 @@ program switched to the gassing of Jews, though some of the kill­
 ing centers were located on what was then German territory and
 
 1 1 0
-
-E ichm ann in Jerusalem
 
 were surrounded by German populations. The protests, however,
 occurred ai the beginning of the war; quite apart from the effects
@@ -5039,8 +4927,6 @@ mann, who had never before mingled socially with so many
 position of those present. H e had sent out the invitations and
 
 1 1 4
-
-E ichm ann in Jerusalem
 
 had prepared some statistical material (full of incredible errors)
 for Heydrich's introductory Speech— eleven mülion Jews had to
@@ -5218,8 +5104,6 @@ now been exposed for the ßrst time in all its pathetic and
 
 1 1 8
 
-E ichm ann in Jerusalem
-
 sordid detail by Raul Hilberg, whose Standard work The Destruction of the European Jews I mentioned before. In the matter
 of cooperation, there was no distinction between the highly
 assimilated Jewish communities of Central and Western Europe
@@ -5304,8 +5188,6 @@ admitted to be "authentic, based on irrefutable sources " The
 reason for the omission was clear. The book describes in
 
 12 0
-
-E ichm ann in Jerusalem
 
 detail how the feared "transport lists" were put together by the
 Jewish Council of Theresienstadt after the S.S. had given some
@@ -5400,8 +5282,6 @@ always quite sure of the point she wished to make. Legally,
 
 12 2
 
-Eichm ann in Jerusalem
-
 the testimony of these witncsses was immaterial—-Mr. Hausner
 did not mention one of them in his last plaiäoyer— except
 insofar as it constituted proof of close contacts between Jewish
@@ -5488,8 +5368,6 @@ chief officials had been told what to do in the form of: you
 must, you have to, that woujd not have helped matters any. If
 
 1 2 4
-
-Eichm ann in Jerusalem
 
 the person in question does not like what he is doing, the whole
 works will suffer. . . . We did our best to make everything
@@ -5590,8 +5468,6 @@ into
 
 1 2 6
 
-Eichm ann in Jerusalem
-
 in
 
 tries, not only among the pers#cutors but also among the victims. Eichmann, in contrast to other elements
@@ -5679,8 +5555,6 @@ grant," he m ust have been well acquainted with many of those
 
 12 8
 
-E ichm ann in Jerusalem
-
 to be mentioned during
 
 numerous civil servants who today assert that they stayed in
@@ -5756,8 +5630,6 @@ that he had traveled to Switzerland during the war to teil his
 Christian friends how dangerous the S ituation was and to urge
 
 13 0
-
-E ichm ann in Jerusalem
 
 that more opportunities for emigration be provided. (The negotiatioos must have taken place prior to the implementing of the
 Final Solution, which coincided with Himmler's decree forbidding all emigration; they probably occurred before the invasion
@@ -5835,8 +5707,6 @@ today such matters are often treated as thougfa there existed
 a law of human nature compelling everybody to Jose his dignity
 
 1 3 2
-
-E ichm ann in Jerusalem
 
 to say, the Nazis
 
@@ -5924,8 +5794,6 @@ Heydrich at least repented of was not murder but that he had
 
 13 4
 
-Eichm ann in Jerusalem
-
 betrayed his own people.) If interventions on behalf of "promi­
 nent" Jews came from "prominent" people, they often were
 quite successful. Thus Sven Hedin, one of Hitler's most ardent
@@ -5946,8 +5814,6 @@ without realizing
 it was a much greater crime to kill
 little Hans Cohn from around the com er, even though be was
 no genius.
-
-that
 
 V I I I : Duties of a Law-Abiding Citizen
 
@@ -5978,8 +5844,6 @@ called it.
 
 the altogether unprecedented could be
 
-that
-
 The first indication of Eichmann's vague notion that there
 was more involved in this whole business than the question of
 the soldier's canym g out Orders that are clearly criminal in
@@ -5988,8 +5852,6 @@ he suddenly declared with great emphasis that he had lived his
 whole life according to Kant's moral precepts, and especially
 
 13 6
-
-Eichm ann in Jerusalem
 
 according to a Kantian defmition of duty. This was outrageous,
 on the face of it, and also incomprehensible, since K ant's moral
@@ -6074,8 +5936,6 @@ of the Final Solution. That was the moment when his caution
 broke down and he began, once more, taking initiatives— for
 
 1 3 8
-
-Eichm ann in Jerusalem
 
 instance, he organized the foot marches of Jews from Budapest
 to the Austrian border after Allied bombing had knocked out the
@@ -6174,8 +6034,6 @@ of Müller and Kaltenbrunner of the R.S.H.A. Hitler himself had
 
 1 4 0
 
-E ichm ann in Jerusalem
-
 left no doubt w hat the arrival of the three gentlemen meant; in
 a famous interview, prior to the occupation of the country, he
 had told Horthy that "Hungary had not yet introduced the steps
@@ -6272,8 +6130,6 @@ left the front to become the principal buyer of horses for the
 
 1 4 2
 
-Eichm ann in Jerusalem
-
 S.S. personnel department, a job that earned him nearly all the
 decorations that were then availabl e.
 
@@ -6365,8 +6221,6 @@ in the
 Müller and Kaltenbrunner, his
 
 immediatee superiors
-
-E ichm ann in Jerusalem
 
 R.S.H.A. In Eichmann's view, people like Becher were corrupt,
 but corruption could not very well have caused his crisis of
@@ -6463,8 +6317,6 @@ liquidating Theresienstadt before the arrival of the R ed Army,
 
 1 4 6
 
-Eichm ann in Jerusalem
-
 although we know this only through the dubious testimony of
 Dieter Wisliceny (who months, and perhaps years, before the
 end began carefully preparing an alibi for himself at the expense
@@ -6510,7 +6362,6 @@ D u ties o f a L aw -A b id in g C itizen
 
 1 4 7
 
-that
 for a short time three years before. Eichmann knew
 Himmler's orders ran directly counter to the Fiibrer's order. For
 this, he neeäed to know no factual details, though such details
@@ -6551,8 +6402,6 @@ in his Berlin bunker, in April, 1945, that the S.S. were no longer
 reliable.
 
 14 8
-
-Eichm ann in Jerusalem
 
 In Jerusalem, confronted with documentary proof of his extraordinary loyalty to Hitler and the Führer's order, Eichmann tried
 a number of times to explain that during the Third Reich "the
@@ -6638,8 +6487,6 @@ paraphemalia, far from being a mere Symptom of German
 
 1 50
 
-Eichm ann in Jerusalem
-
 pedantry or thoroughness, served most effectively to give the
 whole business its outward appearance of legality.
 
@@ -6690,8 +6537,6 @@ military men in Western countries were, on the other hand, al­
 ways reluctant to cooperate and to lend their tioops for the
 
 15 2
-
-Eichm ann in Jerusalem
 
 the
 rounding up and seizure of Jews. Finally,
@@ -6775,8 +6620,6 @@ Moreover, the old consolation no longer worked anyhow, at least
 not in Western Europe. Since Roman antiquity, that is, since
 
 1 5 4
-
-Eichm ann in Jerusalem
 
 the inception of European history, the Jews had belonged, for
 better or worse, in misery or in splendor, to the European
@@ -6866,8 +6709,6 @@ from
 
 1 56
 
-E ichm ann in Jerusalem
-
 carrying their own little valises, in the middle of the night,
 without any previous notification; what the reaction of their
 neighbors would be when they discovered the empty apartments
@@ -6947,8 +6788,6 @@ culminated in an agreement between Otto Thierack, the Minister
 
 15 8
 
-E ichm ann in Jerusalem
-
 of Justice, and Himmler whereby the former relinquished jurisdiction over "Poles, Russians, Jews, and Gypsies" in favor of
 the S.S., since "the Ministry of Justice can make only a small
 contribution to the extermination [j / c ] of these peoples." (This
@@ -7023,8 +6862,6 @@ and English Jews were intemed and held for exchange purposes,
 but the methods devised for dealing with nationals of neutral
 countries or those allied with Germany are interesting enough to
 be recorded, especially since they played a certain role in the
-
-E ichm ann in Jerusalem
 
 trial. It was in reference to these people that Eichmann was
 accused of having shown inordinate zeal lest a single Jew escape
@@ -7166,8 +7003,6 @@ matter of prestige"— not in the eyes of the French but in those
 
 16 4
 
-Eichm ann in Jerusalem
-
 of the Ministry of Transport, which might get wrong ideas about
 the efficiency of his apparatus— and that he would "have to
 consider whether France should not be dropped altogether as
@@ -7256,8 +7091,6 @@ been rather low, probably because of the high figure set for
 
 1 6 6
 
-Eichm ann in Jerusalem
-
 France. No more than ten thousand Jews from Belgium and
 fifteen thousand from Holland were to be seized and deported
 in the immediate future. In both cases the figures were later
@@ -7341,8 +7174,6 @@ documents and the report by E. Jacob, D utch correspondent
 for the Basler Nationalzeitimg, a Swiss newspaper.) The prose-
 
 16 8
-
-Eichm ann in Jerusalem
 
 cution in Jerusalem, partly because it wanted to build up Eich­
 mann at all costs and partly because it got genuinely lost in
@@ -7438,8 +7269,6 @@ an unusuaily large number of Jews living underground, at least
 
 17 0
 
-Eichm ann in Jerusalem
-
 half of them, were eventually found, no doubt through the efforts
 of professional and occasional informers. By July, 1944, a hun­
 dred and thirteen thousand Jews had been deported, most of them
@@ -7533,8 +7362,6 @@ native Danes of Jewish origin, of whom there were about sixty-
 
 1 7 2
 
-E ichm ann in Jerusalem
-
 four hundred, and the fourteen hundred German Jewish refugees
 who had found asylum in the country prior to the war and who
 now had been declared stateless by the German govemment.
@@ -7618,8 +7445,6 @@ synagogues on the occasion of the New Y ear services. H ie Jews
 had just time enough to leave their apartments and go into hiding,
 
 1 7 4
-
-Eichm ann in Jerusalem
 
 which was very easy in Denmark, because, in the words of the
 judgment, "all sections of the Danish people, from the King
@@ -7709,8 +7534,6 @@ to Denmark and
 there condemned
 
 1 7 6
-
-E ichm ann in Jerusalem
 
 I t a l y was Gennany's only real ally in Europe, treated as an
 equal and respected as a sovereign independent state. The
@@ -7807,8 +7630,6 @@ T he same thing happened when the Italians had to abandon
 
 1 7 8
 
-E ichm ann in Jerusalem
-
 their zone in Yugoslavia; the Jews left with the Italian Army
 and found refuge in Fiume,
 
@@ -7903,8 +7724,6 @@ frequently by old Fascists, and seven thousand escaped. The
 
 1 8 0
 
-E ichm ann in Jerusalem
-
 Germans, yielding, as usual, when they mct resistance, now
 agreed that Italian Jews, even if they did not belong to exempted
 categories, should not be subject to deportation but should
@@ -7956,8 +7775,6 @@ thing happened
 founded
 
 1 8 2
-
-Eichm ann in Jerusalem
 
 country, was treated as the enemy, and the Croatian minority
 was given its own national govemment. Moreoever, because the
@@ -8044,8 +7861,6 @@ noted a curious paragraph that transformed
 
 1 8 4
 
-Eichm ann in Jerusalem
-
 Aryans" all Jews who made contributions to "the Croat cause."
 The number of these Jews had of course greatly increased during
 the intervening years. The very rieh, in other words, who parted
@@ -8126,8 +7941,6 @@ about fifteen thousand— deported from the newly anncxed territories, which wer
 "resettlement in the East" actually signified. Somewhat earlier, in
 
 1 8 6
-
-Eichm ann in Jerusalem
 
 January, 1941, the govemment had also agreed to introduce
 some anti-Jewish legislation, but that, from the Nazi viewpoint,
@@ -8210,8 +8023,6 @@ had lived for too long with peoples like Armenians, Greeks, and
 
 1 8 8
 
-E ichm ann in Jerusalem
-
 Gypsies to appreciate the Jewish problem"— which, of course, was
 sheer nonsense, since the same could be said mutatis mutandis
 for all countries of Eastern and Southeastern Europe. It was
@@ -8230,7 +8041,7 @@ mysterious fire in the Berlin Parliament of February 27, 1933.
 H e was tried by the German Supreme Court and confronted with
 Göring, whom he questioned as though he were in Charge of the
 proceedings; and it was thanks to him that all those accused,
-except vafi der Lubbe, had to be acquitted. His conduct was such
+except vafider Lubbe, had to be acquitted. His conduct was such
 that it won him the admiration of the whole world, Germany not
 excluded. "There is one man left in Germany," people used to
 say, "and he is a Bulgarian."
@@ -8293,8 +8104,6 @@ defense and the prosecution, was certainly unique. He claimed
 that Eichmann had been very helpful in an attempt to save some
 
 1 9 0
-
-Eichm ann in Jerusalem
 
 twenty thousand women and children in Salonika, and that all the
 evil had come from Wisliceny. However, he eventually stated
@@ -8379,8 +8188,6 @@ concentration camps, which were established and run by the Ruin February, 1941, 
 the war
 
 1 9 2
-
-Eichm ann in Jerusalem
 
 manians themselves because deportation to the East was not
 feasible, were more elaborate and more atrocious than anything
@@ -8535,8 +8342,6 @@ called Wisliceny and Brunner from Slovakia and Greece,
 
 1 9 6
 
-E ichm ann in Jerusalem
-
 Abromeit from Yugoslavia, Dannecker from Paris and Bulgaria,
 Siegfried Seidl from his post as Commander of Theresienstadt,
 and, from Vienna, Hermann Krumey, who became his deputy
@@ -8622,8 +8427,6 @@ installments
 
 1 9 8
 
-E ichm ann in Jerusalem
-
 of previously unknown luxuries under the tutelage of his new
 friends in the Hungarian govemment.
 
@@ -8701,8 +8504,6 @@ concemed— Laszlo Endre, who because of an anti-Semitism
 that even Horthy had called "insane" had recently been appointed
 
 Eichmann
-
-in Jerusalem
 
 State Secretary in Charge of Political (Jewish) Affairs in the
 Ministry of the Interior; Läszlo Baky, also an undersccretary in
@@ -8786,8 +8587,6 @@ women under forty— to the Reich; he added in his report that
 
 2 0 2
 
-Eichm ann in Jerusalem
-
 Eichmann hoped to send fifty thousand more. Since railroad
 facilities no longer existed, this led to the foot marches of Novem­
 ber, 1944, which were stopped only by an order from Himmler.
@@ -8870,8 +8669,6 @@ he was one of the very first in the S.S. to develop '"moderate"
 tendencies.
 
 2 0 4
-
-Eichm ann in Jerusalem
 
 Nothing much happened in Slovakia during these early years,
 until March, 1942, when Eichmann appeared in Bratislava to
@@ -9021,8 +8818,6 @@ Nuremberg, took Orders from Müller, the head of Section IV of
 
 2 0 8
 
-Eichm ann in Jerusalem
-
 the R.S.H.A.; or with the dreadful conditions under which Jews
 left alive in the extermination camps were evacuated to German
 concentration camps, especially to Bergen-Belsen, during the last
@@ -9106,8 +8901,6 @@ ter Ben-Gurion, explaining to the President of Argentina, in a
 letter dated June 3, 1960, why Israel had committed a "formal
 
 2 10
-
-E ichm ann in Jerusalem
 
 violation of Argentine la w /' wrote that "it was Eichmann who
 organized the mass murder [of six million of our people], on a
@@ -9196,8 +8989,6 @@ be studied with profit by those with a historical interest in this
 period. But the judgment, so pleasantly devoid of cheap oratory,
 
 2 1 2
-
-E ichm ann in Jerusalem
 
 jneetiog, held
 
@@ -9293,8 +9084,6 @@ the mere fact
 
 2 14
 
-Eichm ann in Jerusalem
-
 shipped Jews to Auschwitz could not possibly prove that all
 Jews who arrived there had been shipped by him. In view of
 Eichmann's strenuous denials and the utter lack of corroborative
@@ -9383,8 +9172,6 @@ the future foreign nationals would be included
 
 2 1 6
 
-E ichm ann in Jerusalem
-
 possess "executive powers" there. Still less could such powers
 or authority be derived from his having been used occasionally
 by Heydrich or Himmler to transmit certain orders to local comm an der s.
@@ -9469,8 +9256,6 @@ genocide. This is no mere conjecture: the Poles in Germany were
 already being forced to wear a distinguishing badge in which the
 
 2 18
-
-Eichm ann in Jerusalem
 
 "P" replaced the Jewish star, and this, as we have seen, was
 always the first measure to be taken by the police in instituting
@@ -9601,8 +9386,6 @@ question of why he offered his services to begin with even more
 
 2 2 2
 
-E ichm ann in Jerusalem
-
 intriguing. His answer to this question was that for him this
 was "a mere business matter" and that he wished "to make
 money," but he must have known, from his Nuremberg experience, that the sum paid him by the Israeli govemment-—twenty
@@ -9685,8 +9468,6 @@ for a concentration-camp inmate— as the author of several books
 on Auschwitz that dealt with brothels, homosexuals, and other
 
 2 2 4
-
-E ichm ann in Jerusalem
 
 "human interest stories." He started off, as he had done at many
 of his public appearances, with an explanation of his adopted
@@ -9771,8 +9552,6 @@ was, for instance, a small Polish town where of six thousand
 
 2 2 6
 
-E ichm ann in Jerusalem
-
 former Jewish inhabitants fifteen had survived, and where four of
 these survivors had been murdered upon their return by the Poies.
 He described finally how he and the others had tried to forestall
@@ -9855,8 +9634,6 @@ wanted to kill two birds with one stone— create a pretext for
 pogroms in Germany and get rid of an opponent to the Nazi
 
 2 2 8
-
-E ichm ann in Jerusalem
 
 regime— without reali/ing that they could not have it both ways,
 that is, could not slander vom R ath as a homosexual having
@@ -9944,8 +9721,6 @@ innocence of heart and mind that only the righteous possess. No
 
 2 3 0
 
-Eichm ann in Jerusalem
-
 one either before or after was to equal the shining honesty of
 Zindel Grynszpan.
 
@@ -10030,8 +9805,6 @@ of them in the words of one of the few subjectively sincere memoirs of the war p
 Army physician who served at the Russian front, teils in Die
 
 2 3 2
-
-Eichm ann in Jerusalem
 
 Unsichtbare Flagge (1952) of the kiiling of Jews in Sevastopol.
 They were collected by "the others," as he calls the S.S. mobile
@@ -10170,8 +9943,6 @@ never returned to Germany from Argentina, he had never been
 
 2 3 6
 
-E ichm ann in Jerusalem
-
 to any other Latin American country, he had played no role in
 postwar Nazi activities or organizations. A t the end of the war,
 he had tried to speak once more with Kaltenbruimer, who was
@@ -10269,8 +10040,6 @@ admitted his identity. In 1955, this finally led to the interview
 
 2 3 8
 
-Eichm ann in Jerusalem
-
 with the Dutch Journalist Willem S. Sassen, a form er member
 of the Armed S.S. who had exchanged his Dutch nationality
 for a German passport during the war and had later been condemned to death in absentia in Belgium as a war crim inal
@@ -10352,8 +10121,6 @@ basic rights of the State of Argentina." The court decided that
 it did not m atter whether these Israelis were govemment agents
 
 2 4 0
-
-Eichm ann in Jerusalem
 
 or private citlzens. What neither the defense nor the court mentioned was that Argentina would not have waived her rights so
 obligingly had Eichmann been an Argentine Citizen. He had
@@ -10444,8 +10211,6 @@ and Eichmann could not very well mention it himself since, upon
 
 2 4 2
 
-E ichm ann in Jerusalem
-
 being asked a leading question by his lawyer, he confirmed,
 though somewhat reluctantly, that he had given the Statement
 under duress, while tied to the b;d in the Buenos Aires suburb.
@@ -10527,8 +10292,6 @@ Half an hour later, it occurred to him that the trial could assume
 that there were several attomeys for the prosecution, and that
 Servatius alone would hardiy be able "to digest all the material."
 H e was reminded that Servatius, in a letter asking for power of
-
-E ichm ann in Jerusalem
 
 attomey, had said that he "would lead a group of attomeys"
 (he never did), and the police officer added, "It must be
@@ -10625,8 +10388,6 @@ that Gypsies, like Jews, were shipped off
 
 .
 
-Eichm ann in Jerusalem
-
 children. The last three counts charged him with membership
 in three of the four organizations that the Nuremberg Trials
 had classified as "criminal"— the S.S.; the Security Service, or
@@ -10715,8 +10476,6 @@ low-ranking war criminals, who complained bitterly that they
 
 2 4 8
 
-Eichm ann in Jerusalem
-
 had been told never to worry about "responsibilities," and that
 they were now unable to call those responsible to account
 because these had "escaped and deserted" them— by committing
@@ -10799,8 +10558,6 @@ that same day— it was a Thursday— shortly
 hours later on
 
 2 5 0
-
-Eichm ann in Jerusalem
 
 before midnight, Eichmann was hanged, his body was cremated,
 and the ashes were scattered in the Mediterranean outside
@@ -10885,8 +10642,6 @@ that we have a common humanity with those whom we accuse
 
 2 5 2
 
-Eichm ann in Jerusalem
-
 and judge and condemn. As far as I know, Buber was the only
 philosopher to go on public record on the subject of Eichmann's
 execution (shortly before the trial started, Karl Jaspers had
@@ -10929,8 +10684,6 @@ It was as though in those last minutes he was summing up
 the lesson that this long course in h u m a n wickedness had taught
 us— the lesson of the fearsome, word-and-thougbt-defying banality o f evil.
 
-Epilogue
-
 The irregularities and abnormalities of the trial in Jerusalem
 were so many, so varied, and of such legal complexity that they
 overshadowed during the trial, as they have in the surprisingly
@@ -10963,8 +10716,6 @@ could not overstep these limits without ending "in complete failure." Not only d
 for the investigation of general questions," it speaks with an
 
 2 5 4
-
-E ichm ann in Jerusalem
 
 authority whose very weight depends upon its limitation. "No
 one has made us judges" of matters outside the realm of law,
@@ -11008,8 +10759,6 @@ not whether these laws were retroactive, which, o f course; they
 had to be, but whether they were adequate, that is, whether
 they applied only to crimes previously unknown. This prerequi-
 
-Epilogue
-
 2 5 5
 
 site for retroactive legislation had been seriously marred in the
@@ -11050,8 +10799,6 @@ appJied: Russia, which had never signed the Hague Convention
 suspected of mistreatment of prisoners, and, according to recent
 
 2 5 6
-
-E ichm ann in Jerusalem
 
 the sense of
 
@@ -11140,8 +10887,6 @@ In justification of the Eichmann trial, it has frequently been
 
 2 5 8
 
-Eichm ann in Jerusalem
-
 maintained that although the greatest crime committed during
 the last war had been against the Jews, the Jews had been only
 bystanders in Nuremberg, and the judgment of the Jerusalem
@@ -11179,8 +10924,6 @@ frequently maintained, his disappeaxance— was the reason he
 was not accused at Nuremberg; M artin Bormann, for instance,
 was accused, tried, and condemned to death in absentia.) If
 Eichmann's activities had spread all over occupied Europe, this
-
-E pilogue
 
 2 5 9
 
@@ -11225,8 +10968,6 @@ does not defend murder. The truth of the matter is that pres-
 
 2 6 0
 
-Eichm ann in Jerusalem
-
 sures outside the courtroom made it inadvisable, to put it mildly,
 to charge an Israeli citizen with the defense of Eichmann.)
 Finally, the argument that no Jewish State had existed at the
@@ -11267,8 +11008,6 @@ deliver the heinous accusation in their name." With such rhetoric
 the prosecution gave substance to the chief argument against
 the trial, that it was established not in order to satisfy the
 demands of justice but to still the victims' desire for and, perthat under certain circumstances "the
-
-Epilogue
 
 2 6 1
 
@@ -11317,8 +11056,6 @@ acknowledging obedience to no flag whatsoever" (H. Zeisel,
 
 2 6 2
 
-Eichm ann in Jerusalem
-
 Britanrüca Book of the Year, 1962), is, by definition, in business
 entirely for himself; he is an outlaw because he has chosen to
 put himself outside all organized communities, and it is for this
@@ -11360,8 +11097,6 @@ is a political and a legal concept, and not merely a geographical
 term. It relates not so much, and not primarily, to a piece of
 land as to the space between individuals in a group whose
 members are bound to, and at the same time separated and
-
-E pilogue
 
 2 6 3
 
@@ -11406,8 +11141,6 @@ BerthoM Jakob, a Leftist German Jewish Journalist, in Switzerland by Gestapo age
 of the other precedents applied, because they invariably con-
 
 Eichmann
-
-in Jerusalem
 
 cem ed a fugitive from justice who was brought back not only
 to the place of his crimes but to a court that had issued, or
@@ -11493,8 +11226,6 @@ ukrainiehs 1917-1920, 1927), just as that time it was the ac-
 
 2 6 6
 
-Eichm ann in Jerusalem
-
 cused and his lawyer who spoke in the name of the victims,
 and who, incidentally, even then raised the point about the
 Jews "who had neyer defended themselves." (See the plaidoyer
@@ -11538,8 +11269,6 @@ there is no doubt that he would have welcomed the State of
 Israel enthusiastically, for no other reason than that it would
 have provided a tribunal for crimes that had so often gone
 unpunished. His sense of justice would have been satisfied. And
-
-E pilogue
 
 2 6 7
 
@@ -11586,8 +11315,6 @@ of seriousness but in essence.
 
 2 6 8
 
-Eichm ann in Jerusalem
-
 The Nuremberg Laws of 1935 legalized the discrimination
 practiced before that by the German majority against the Jewish
 minority. According to international law, it was the privilege of
@@ -11620,8 +11347,6 @@ new crime, the crime against humanity— in the sense of a crime
 "against the human status," or against the very nature of mankind— appeared. Expulsion and genocide, though both are inter­
 national offenses, must remain distinct; the former is an offense
 against fellow-nations, whereas the latter is an attack upon human
-
-E pilogue
 
 2 6 9
 
@@ -11665,8 +11390,6 @@ crime is both more and less than common murder," and though
 
 2 7 0
 
-Eichm ann in Jerusalem
-
 it was not a "war crime," either, there was no doubt that "mankind would certainly be destroyed if states were permitted to
 perpetrate such crimes."
 
@@ -11700,8 +11423,6 @@ world over. It was thought that Jews did not have the right to
 appear as judges in their own case, but could act only as accusers; Israel should therefore hold Eichmann prisoner until a
 special tribunal could be created by the United Nations to judge
 him. Quite apart from the fact that Israel, in the proceedings
-
-Epilogue
 
 2 7 1
 
@@ -11748,8 +11469,6 @@ of "a revolutionary transformation that has taken place in the
 
 2 7 2
 
-Eichm ann in Jerusalem
-
 political position of the Jewish people'*— by Mr. Rosen on the
 occasion of the First Reading of the Law of 1950 in the Knesset.)
 It was against the background of these very vivid experiences
@@ -11785,8 +11504,6 @@ which the trial was conducted in Jerusalem But I think it is safe
 to predict that this last of the Successor trials will no more, and
 perhaps even less than its predecessors, serve as a valid precedent
 for future trials of such crimes. This might be of little import in
-
-Epilogue
 
 2 7 3
 
@@ -11831,8 +11548,6 @@ every custom has its origin in some single act. . . . Our own day
 
 2 7 4
 
-Eichm ann in Jerusalem
-
 has the right to institute customs and to conclude agreements that
 will themselves become sources of a newer and strengthened in­
 ternational law." What Justice Jackson failed to point out is that,
@@ -11872,8 +11587,6 @@ victors must judge the vanquished or we must leave the defeated
 to judge themselves," should be added the understandable feeling
 on the part of the Allies that they "who had risked everything
 could not admit neutrals" [Vabres]), it was not the same six-
-
-Epilogue
 
 2 7 5
 
@@ -11919,8 +11632,6 @@ Jerusalem trial ever mention even the possibility that extermination of whole et
 
 2 7 6
 
-Eichm ann in Jerusalem
-
 Gypsies— might be more than a crime against the Jewish or the
 Polish or the Gypsy people, that the international order, and mankind in its entirety, might have been grievously hurt and endangered,
 
@@ -11953,8 +11664,6 @@ war criminals, whose pleas of a clear conscience could be dismissed more easily 
 of obedience to "superior Orders" various boasts about occasional
 disobedience. But although the bad faith of the defendants
 was manifest, the only ground on which guilty conscience could
-
-E pilogue
 
 2 7 7
 
@@ -11999,8 +11708,6 @@ people during the war was the greatest crime in recorded history,
 
 2 7 8
 
-E ichm ann in Jerusalem
-
 and you admitted your role in iL But you said you had never acted
 from base motives, that you had never had any inclination to
 kill anybody, that you had never hated Jews, and still that you
@@ -12041,8 +11748,6 @@ of a hard-luck story, and, knowing the circumstances, we are,
 up to a point, willing to grant you that under more favorable
 circumstances it is highly unlikely that you would ever have
 
-E pilogue
-
 2 7 9
 
 come before us or before any other criminal court. Let us assume,
@@ -12058,8 +11763,6 @@ should and who should not inhabit the world— we find that no
 one, that is, no member of the human race, can be expected to
 want to share the earth with you. This is the reason, and the
 only reason, you must hang."
-
-PostScript
 
 This book contains a trial report, and its main source is the
 transcript of the trial proceedings which was distributed to the
@@ -12091,8 +11794,6 @@ with one exception— were also given to the press by the Jeru­
 salem authorities:
 1) The transcript in German of Eichmann's interrogation by
 the police, recorded on tape, then typed, and the typescript
-
-PostScript
 
 2 8 1
 
@@ -12137,8 +11838,6 @@ prominent figures in the Third Reich, which I have now added
 
 2 8 2
 
-Eichm ann in Jerusalem
-
 to my sources for background material. These are Robert
 Pendorf's Mörder und Ermordete. Eichmann und die Juden­
 politik des Dritten Reiches, which also takes into account the
@@ -12176,8 +11875,6 @@ somehow swallowed up by and drowned in the artificial noise
 of the former. This became especially clear when a stränge
 mixture of the lwo, in almost identical phraseology— as though
 the pieces written against the book (and more frequently against
-
-PostScript
 
 2 8 3
 
@@ -12232,8 +11929,6 @@ be explained by specifically Jewish factors. The suggestions
 
 2 8 4
 
-Eichm ann in Jerusalem
-
 proliferated until someone who evidently found the whole discussion too dull had the brilliant idea of evoking Freudian
 theories and attributing to the whole Jewish people a "death
 wish"— unconscious, of course. This was the unexpected conclusion certain reviewers chose to draw from the "image" of a
@@ -12272,8 +11967,6 @@ ment from the beginning of the Hitler regime on, which I
 naturally did not discuss, since the question of Eichmann's con­
 science, and that of the Situation around him, relates only to
 the period of the war and the Final Solution. But there were
-
-PostScript
 
 2 8 5
 
@@ -12322,8 +12015,6 @@ is
 
 2 8 6
 
-Eichm ann in Jerusalem
-
 conduct of the German people and other peoples, or the ideologies of the time and the governmental apparatus of the Third
 Reich, affect the trial only insofar as they form the background
 and the conditions under which the defendant committed his
@@ -12361,8 +12052,6 @@ if I had shared these views. I held and hold the opinion that
 this trial had to take place in the interests of justice and nothing
 eise. I also think the judges were quite right when they stressed
 in their verdict that "the State of Israel was established and
-
-PostScript
 
 2 8 7
 
@@ -12407,8 +12096,6 @@ stupid. It was sheer thoughtlessness— something by no means
 
 2 8 8
 
-Eichm ann in Jerusalem
-
 identical with stupidity— that predisposed him to become one
 of the greatest criminals of that period. And if this is "banal"
 and even funny, if with the best will in the world one cannot
@@ -12444,8 +12131,6 @@ with "genetically damaged" Germans (heart and lung patiem s).
 But quite aside from that, it is apparent that this sort of killing
 can be directed against any given group, that is, that the principle of selection is dependent only upon circumstantial factors.
 It is quite conceivable that in the automated economy of a not-
-
-PostScript
 
 2 8 9
 
@@ -12489,8 +12174,6 @@ slate. True, we have become very much accustomed by modern
 
 2 9 0
 
-Eichm ann in Jerusalem
-
 psychology and sociology, not to speak of modern bureaucracy,
 to explaining away the responsibility of the doer for his deed
 in terms of this or that kind of determinism. Whether such
@@ -12529,8 +12212,6 @@ took place within a "legal" order. That, indeed, was their outstanding character
 Perhaps we can approach somewhat closer to the matter if
 we realize that back of the concept of act of state stands the
 theory of raison d'etat. According to that theory, the actions of
-
-PostScript
 
 2 91
 
@@ -12576,8 +12257,6 @@ likeness? Can we apply the same principle that is applied to a
 
 2 9 2
 
-E ichm ann in Jerusalem
-
 governmental apparatus in which crime and violence are exceptions and borderline cases to a political order in which crime
 is legal and the rule?
 
@@ -12617,8 +12296,6 @@ that of other countries. No doubt in formulating these articles
 the legislators were thinking of cases in which an ofiicer who
 
 this
-
-PostScript
 
 2 9 3
 
@@ -12665,8 +12342,6 @@ were sentenced to relatively short prison terms. T o be sure,
 
 2 9 4
 
-E ichm ann in Jerusalem
-
 this case concemed an isolated act, not— as in Eichmann's
 case— an activity extending over years, in which crime followed crime. Still, it was undeniable that he had always acted
 upon "superior Orders," and if the provisions of ordinary Israeli
@@ -12708,8 +12383,6 @@ the defendants had committed *'legal"
 crimes, is that human beings be capable of telling right from
 
 trials, where
-
-PostScript
 
 2 9 5
 
@@ -12753,8 +12426,6 @@ everywhere, although it seems obvious that if it were true,
 
 2 9 6
 
-E ichm ann in Jerusalem
-
 neither the administration of justice nor the writing of history
 would ever be possible. In contrast to these confusions, the
 reproach of self-righteousness raised against those who do judge
@@ -12794,8 +12465,6 @@ this taboo applies doubly when the deeds or words of famous
 * Q uoted from the m inister A u rel v. Jüchen in an anthology o f critical
 
 reviews o f H o ch h u th 's play—Summa Iniuria, Rowobl V erlag, p. 195.
-
-PostScript
 
 2 9 7
 
@@ -12841,8 +12510,6 @@ judgments in terms of individual moral responsibility.
 Many people today would agree that there is no such thing
 
 2 9 8
-
-Eichm ann in Jerusalem
 
 for
 
@@ -13191,8 +12858,6 @@ Zaborowski, Jan, Dr. Hans Globke, the Good Clerk, Poznan,
 
 Zeisel, Hans, "Eichmann, Adolf," Britannica Book of the Year,
 
-Index
-
 A brom eit, F ranz, 183, 196
 A denauer, K onrad, 13, 16, 17-18,
 
@@ -13325,8 +12990,6 @@ Bratislava, 81, 82, 144, 203, 204,
 205,
 
 Brauchitsch, W alter von, 212
-
-Index
 
 Breslau, 200
 Briand-K eliogg pact, 255
@@ -13552,8 +13215,6 @@ G enocide C onvention (U.N.), 262
 George, Stefan, 156
 G erm an Army and H igh C om m and,
 
-Index
-
 G erm an Intelligence Service, 107,
 
 G erm an M inistry
@@ -13672,8 +13333,6 @@ G rotius, 287
 G ruber, H einrich, 129, 131, 133
 G rynszpan, H erschel, 227-28
 G rynszpan, Zindel, 227, 228-30
-
-Index
 
 G ünther, R olf, 69, 107, 146, 173,
 
@@ -13893,8 +13552,6 @@ K iilinger, M anfred von, 192*93
 K im chc, Jo n and David, 61
 K irchheim er, O tto, 127, 256, 257,
 
-Index
-
 (pseud. of
 m ann), 236, 237. 238, 240
 
@@ -13968,8 +13625,6 @@ Löw enherz, Josef, 30, 47, 63, 66,
 "K lem ent, R ichard (or R icardo),"
 
 Lubbe, M arinus van d er, 188
-
-Index
 
 L ublin, 79, 84, 86, 87, 89, 107, 155,
 
@@ -14212,8 +13867,6 @@ Rom oser, G eorge K ., 99
 Roosevelt, F ranklin D ., 201
 Rosen, Pinhas, 263, 269, 272
 
-Index
-
 Rosenberg, A lfred, 183, 193, 206
 Rothschild Palais, 64
 Rousset, David, 31
@@ -14285,8 +13938,6 @@ Servatius, R obert, 3, 4, 9. 19, 20,
 93, 94. 108, 120, 122, 131, 145,
 164, 208, 209, 221-22, 238-39,
 241, 243-44, 247-48, 250
-
-Index
 
 Sevastopol, 232
 Shimoni, Y ad, 238
@@ -14491,8 +14142,6 @@ Weiss, M anfred, steel com bine, 142
 W eizm ann, Chaim , 122, 125, 248
 W eizsäcker, Ernst von, 171
 W eltsch, Robert, 59, 297
-
-Index
 
 W est G erm any, 13-14, 15, 16, 17,
 24, 34, 58, 128, 162, 248, 250,

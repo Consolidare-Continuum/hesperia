@@ -1,4 +1,3 @@
-
 i
 
 THE DEATH OF EXPERTISE
@@ -163,8 +162,6 @@ x
 
 xi
 
-PR E FA C E
-
 of those beliefs. I was not alive in the Middle Ages, so I cannot say it
 is unprecedented, but within my living memory I've never seen anything like it.
 
@@ -202,8 +199,6 @@ xi
 
 xii
 
-PR E FA C E
-
 more obvious due to the ubiquity of the Internet, the undisciplined
 nature of conversation on social media, or the demands of the twentyfour- hour news cycle. But there is a self- righteousness and fury to this
 new rejection of expertise that suggest, at least to me, that this isn't
@@ -238,8 +233,6 @@ xii
 
 xiii
 
-PR E FA C E
-
 in places like Khe Sanh and the Ia Drang Valley in Vietnam. The public's trust, both in experts and political leaders, was not only misplaced but abused.
 
 Now, however, we've gone in the other direction. We do not have
@@ -273,8 +266,6 @@ Steve Knott, Derek Reveron, and Paul Smith, among others, provided comments and 
 xiii
 
 xiv
-
-PR E FA C E
 
 this book are mine: they do not in any way represent the views of any
 other institution, nor of any agency of the US government.
@@ -312,8 +303,6 @@ I could not have written it without them.
 xiv
 
 xv
-
-PR E FA C E
 
 I hope in some way this book helps them and other experts in their
 work. But in the end, the clients of all professionals are the people of
@@ -419,8 +408,6 @@ The antics of clownish antivaccine crusaders like actors Jim Carrey
 and Jenny McCarthy undeniably make for great television or for a
 fun afternoon of reading on Twitter. But when they and other uninformed celebrities and public figures seize on myths and misinformation about the dangers of vaccines, millions of people could once
 
-TH E DE A T H O F EX P E R T I S E
-
 again be in serious danger from preventable afflictions like measles
 and whooping cough.
 
@@ -452,8 +439,6 @@ on its armed forces.)
 All of these choices, from a nutritious diet to national defense,
 require a conversation between citizens and experts. Increasingly, it
 seems, citizens don't want to have that conversation. For their part,
-
-IN T R O DuC T I O N
 
 they'd rather believe they've gained enough information to make
 those decisions on their own, insofar as they care about making any
@@ -487,8 +472,6 @@ in a political system also means that each person's opinion about anything must 
 a fair number of people despite being obvious nonsense. It is a flat
 assertion of actual equality that is always illogical, sometimes funny,
 and often dangerous. This book, then, is about expertise. Or, more
-
-TH E DE A T H O F EX P E R T I S E
 
 accurately, it is about the relationship between experts and citizens in
 a democracy, why that relationship is collapsing, and what all of us,
@@ -525,8 +508,6 @@ Participation in political, intellectual, and scientific life until the
 early twentieth century was far more circumscribed, with debates
 about science, philosophy, and public policy all conducted by a small
 
-IN T R O DuC T I O N
-
 circle of educated males with pen and ink. Those were not exactly the
 Good Old Days, and they weren't that long ago. The time when most
 people didn't finish high school, when very few went to college, and
@@ -558,8 +539,6 @@ and affluence.
 
 In the next chapter, I'll discuss the notion of an "expert" and
 whether conflict between experts and laypeople is all that new. What
-
-TH E DE A T H O F EX P E R T I S E
 
 does it even mean to be an expert? When faced with a tough decision
 on a subject outside of your own background or experience, whom
@@ -595,8 +574,6 @@ Education is supposed to help us to recognize problems like
 that we can be better citizens. Unfortunately, the modern American
 university, and the way students and their parents treat it as a generic
 
-IN T R O DuC T I O N
-
 commodity, is now part of the problem. In chapter 3 I'll discuss why
 the broad availability of a college education— paradoxically— is
 making many people think they've become smarter when in fact
@@ -627,8 +604,6 @@ We count on the media to keep us informed, to separate fact from
 fiction, and to make complicated matters comprehensible to people
 who do not have endless amounts of time and energy to keep up with
 every development in a busy world. Professional journalists, however, face new challenges in the Information Age. Not only is there,
-
-TH E DE A T H O F EX P E R T I S E
 
 by comparison even to a half century ago, almost unlimited airtime
 and pages for news, but consumers expect all of that space to fill
@@ -661,8 +636,6 @@ experts can err, not only to make citizens better consumers of expert
 advice but also to reassure the public about the ways in which experts
 try and police themselves and their work. Otherwise, expert errors
 become fodder for ill- informed arguments that leave specialists
-
-IN T R O DuC T I O N
 
 resentful of attacks on their profession and laypeople fearful that the
 experts have no idea what they're doing.
@@ -698,8 +671,6 @@ as annoyances.
 
 Experts have a responsibility to educate. Voters have a responsibility to learn. In the end, regardless of how much advice the
 
-TH E DE A T H O F EX P E R T I S E
-
 professionals might provide, only the public can decide the direction
 of the important policy choices facing their nation. Only voters can
 resolve among the choices that affect their families and for their country, and only they bear the ultimate responsibility for those decisions.
@@ -732,8 +703,6 @@ affection for them. The 1980s television sitcom Cheers, for example,
 immortalized the character of Cliff Clavin, the Boston mailman
 and barfly who was an expert on everything. Cliff, like his real- life
 counterparts, prefaced every statement with "studies have shown" or
-
-TH E DE A T H O F EX P E R T I S E
 
 "it's a known fact." Viewers loved Cliff because everyone knew someone like him: the cranky uncle at a holiday dinner, the young student
 home from that crucial first year of college.
@@ -794,8 +763,6 @@ Some of this conflict in the public square is just so much predictable noise, no
 Internet gathers factoids and half- baked ideas, and it then splays
 all that bad information and poor reasoning all over the electronic
 
-TH E DE A T H O F EX P E R T I S E
-
 world. (Imagine what the 1920s would have sounded like if every
 crank in every small town had his own radio station.) Maybe it's not
 that people are any dumber or any less willing to listen to experts
@@ -828,8 +795,6 @@ individual, enshrines this resistance to intellectual authority even
 more than other democracies. Of course, no discussion about "how
 Americans think" is complete without an obligatory nod to Alexis de
 
-EX P E R T S A N D CI T IzE N S
-
 Tocqueville, the French observer who noted in 1835 that the denizens of the new United States were not exactly enamored of experts
 or their smarts. "In most of the operations of the mind," he wrote,
 "each American appeals only to the individual effort of his own
@@ -861,8 +826,6 @@ judgment on him when he is not in agreement with the commonplaces that the said 
 In terms that would not sound out of place in our current era, Ortega y
 Gasset attributed the rise of an increasingly powerful but increasingly
 
-TH E DE A T H O F EX P E R T I S E
-
 ignorant public to many factors, including material affluence, prosperity, and scientific achievements.
 
 The American attachment to intellectual self- reliance described
@@ -892,8 +855,6 @@ Hofstadter argued— and this was back in 1963— that this overwhelming complex
 among a citizenry that knew itself increasingly to be at the mercy of
 smarter elites. "What used to be a jocular and usually benign ridicule
 of intellect and formal training has turned into a malign resentment of
-
-EX P E R T S A N D CI T IzE N S
 
 the intellectual in his capacity as expert," Hofstadter warned. "Once
 the intellectual was gently ridiculed because he was not needed; now
@@ -927,8 +888,6 @@ No one can master that much information. We do our best, and
 when we need to find something out, we consult the best sources we
 can find. I remember asking my high school chemistry teacher (a man
 I was certain knew everything) for the atomic number of a certain
-
-TH E DE A T H O F EX P E R T I S E
 
 element off the top of his head, in part to challenge him but mostly
 because I was too lazy to look it up myself. He raised an eyebrow and
@@ -964,8 +923,6 @@ a democracy.
 It would be easy to dismiss a distrust of established knowledge
 by attributing it to the stereotype of suspicious, uneducated yokels
 
-EX P E R T S A N D CI T IzE N S
-
 rejecting the big- city ways of the mysterious eggheads. But again the
 reality is far more unsettling: campaigns against established knowledge are being led by people who should know better.
 
@@ -994,8 +951,6 @@ Francisco, said.4
 
 Chef Patterson is an expert in the preparation of food, and there's no
 arguing with his, or anyone else's, palate. But while pasteurization
-
-TH E DE A T H O F EX P E R T I S E
 
 may affect the taste of milk, it also strips away pathogens that can kill
 human beings.
@@ -1030,8 +985,6 @@ certain kinds of fats. Government experts told people to limit their
 intake of red meat, increase the role of grains in their diet, and in
 general to stay away from anything that tastes good. (That last one,
 
-EX P E R T S A N D CI T IzE N S
-
 I admit, is how I interpreted those recommendations.) Years later, it
 turned out that eggs are not only harmless, they might even be good
 for you. Margarine turned out to be worse for us than butter. And a
@@ -1063,8 +1016,6 @@ out the word "thalidomide" as though it is a self- explanatory rejoinder. It's b
 once thought safe that was given to pregnant women as a sedative.
 No one realized at the time that thalidomide also caused horrendous
 
-TH E DE A T H O F EX P E R T I S E
-
 birth defects, and pictures of children with missing or deformed
 limbs haunted the public imagination for many years afterward. The
 drug's name has become synonymous with expert failure to this day.
@@ -1095,8 +1046,6 @@ losing money, and sometimes their freedom, because of unheeded
 advice. Teachers will relate stories of parents insisting that their
 children's exam answers are right even when they're demonstrably
 
-EX P E R T S A N D CI T IzE N S
-
 wrong. Realtors tell of clients who bought houses against their experienced advice and ended up trapped in a money pit.
 
 No area of American life is immune to the death of expertise. The
@@ -1123,8 +1072,6 @@ that every opinion be treated as truth. Americans no longer distinguish the phra
 disagree is to disrespect. To correct another is to insult. And to refuse
 to acknowledge all views as worthy of consideration, no matter how
 fantastic or inane they are, is to be closed- minded.
-
-TH E DE A T H O F EX P E R T I S E
 
 The epidemic of ignorance in public policy debates has real consequences for the quality of life and well- being of every American.
 During the debate in 2009 over the Affordable Care Act, for example,
@@ -1154,8 +1101,6 @@ idea how his or her money is spent. Polls upon polls show not only
 that Americans generally feel government spends too much, and
 taxes them too highly, but also that they are consistently wrong about
 who pays taxes, how much they pay, and where the money goes. This,
-
-EX P E R T S A N D CI T IzE N S
 
 despite the fact that information about the budget of the United
 States is more accessible than the days when the government would
@@ -1189,8 +1134,6 @@ This level of ignorance can get pretty expensive. Americans tend
 to support national missile defenses against nuclear attack, for example, in part because many believe the United States already has them.
 (This is a public misconception going back decades, long before the
 United States fielded the small number of interceptors now operational in Alaska.) Whether such systems will work or whether they
-
-TH E DE A T H O F EX P E R T I S E
 
 should be built are now largely irrelevant questions. What began as a
 program aimed at the Soviet Union during the Cold War in the 1980s
@@ -1227,8 +1170,6 @@ So who's an expert? What constitutes "expertise"?
 A lot of people declare that they're experts or intellectuals, and
 sometimes they are. On the other hand, self- identification can be
 
-EX P E R T S A N D CI T IzE N S
-
 worse than misleading. People who claim to be experts are sometimes
 only about as self- aware as people who think they're good kissers.
 
@@ -1262,8 +1203,6 @@ when we need advice, education, or solutions in a particular area of
 human knowledge. Note that this does not mean that experts know
 all there is to know about something. Rather, it means that experts
 
-TH E DE A T H O F EX P E R T I S E
-
 in any given subject are, by their nature, a minority whose views are
 more likely to be "authoritative"— that is, correct or accurate— than
 anyone else's.
@@ -1295,8 +1234,6 @@ So how do we distinguish these experts among us, and how do
 we identify them? True expertise, the kind of knowledge on which
 others rely, is an intangible but recognizable combination of education, talent, experience, and peer affirmation. Each of these is a mark
 of expertise, but most people would rightly judge how all of them
-
-EX P E R T S A N D CI T IzE N S
 
 are combined in a given subject or professional field when deciding
 whose advice to trust.
@@ -1332,8 +1269,6 @@ degree, and note what most of them actually say: that the bearer has
 been examined by the faculty and admitted to the degree, which in
 turn is backed by a committee of schools in that region or a body
 
-TH E DE A T H O F EX P E R T I S E
-
 representing a particular profession. Those faculties, and the associations who accredit their courses of study, are in effect vouching
 for the graduate's knowledge of a particular subject. The name of the
 school or institution, no less than the degree holder, is on the line, at
@@ -1363,8 +1298,6 @@ good at their jobs. There are brilliant law students who freeze in front
 of a jury. Some of the high scorers on a police examination have no
 street smarts and will never develop them. A fair number of new holders of doctorates from top universities will never write another thing
 of consequence after laboring through a dissertation. These people
-
-EX P E R T S A N D CI T IzE N S
 
 may have cleared the wickets of entry to a profession, but they're not
 very good at it, and their expertise will likely never exceed the natural
@@ -1397,8 +1330,6 @@ experienced and survived multiple crises in the operating theater or
 the cockpit are less likely to be panicked by adversity than their newer
 colleagues. Veteran teachers are less intimidated by challenging or
 difficult students. Stand- up comedians who've done a lot of gigs on
-
-TH E DE A T H O F EX P E R T I S E
 
 the road do not fear hecklers, and even know how to use them as raw
 material for more laughs.
@@ -1438,8 +1369,6 @@ into the early years of my career. I read Soviet materials almost daily
 and tried to see the patterns in them that were previously invisible to
 me. Eventually, I came to understand what Shulman meant. I can't
 
-EX P E R T S A N D CI T IzE N S
-
 say that my nose ever twitched or my ears wiggled, but I realized that
 reading things from a foreign country in a foreign language was a
 specific kind of expertise. It could not be distilled into a course or a
@@ -1473,8 +1402,6 @@ society— that is, the expert's clients— that they're safe in accepting
 expert claims of competence. When you take an elevator to the top
 floor of a tall building, the certificate in the elevator does not say
 
-TH E DE A T H O F EX P E R T I S E
-
 "good luck up there"; it says that a civic authority, relying on engineers educated and examined by other engineers, have looked at
 that box and know, with as much certainty as anyone can, that you'll
 be safe.
@@ -1506,8 +1433,6 @@ put it, an expert "is someone who knows some of the worst mistakes
 that can be made in his subject and how to avoid them." (His fellow
 physicist Niels Bohr had a different take: "An expert is someone who
 has made all the mistakes which can be made in a very narrow field.")
-
-EX P E R T S A N D CI T IzE N S
 
 Both of these points should help us to understand why the pernicious idea that "everyone can be an expert" is so dangerous. It's true in
 a relative sense that almost anyone with particular skills can develop
@@ -1542,8 +1467,6 @@ the piece. Well, he answered, he did. He was a businessman, and he'd
 "read a lot." I asked if he'd had any training in the subject, visited the
 region, or read any of the languages of the Middle East. He had no
 
-TH E DE A T H O F EX P E R T I S E
-
 such background, he admitted, and then said, "But after all, you can
 become an expert reading a book a month, right?"
 
@@ -1576,8 +1499,6 @@ your own on this matter?
 You dropped 150 grand on a [expletive] education you could
 
 have got for a dollar fifty in late charges at the public library.
-
-EX P E R T S A N D CI T IzE N S
 
 Later, the young man fences with his psychotherapist about the
 works of Howard Zinn and Noam Chomsky. Stilted and silly, these
@@ -1664,8 +1585,6 @@ this means we don't want anyone to think we're dumb, and so we pretend to be sma
 Of course, there's also the basic problem that some people just
 aren't very bright. And as we'll see, the people who are the most
 
-TH E DE A T H O F EX P E R T I S E
-
 certain about being right tend to be the people with the least reason
 to have such self- confidence. But it is too facile simply to dismiss the
 exasperating nature of modern discussion as only a function of the
@@ -1695,10 +1614,6 @@ These are fighting words. No one likes to be called stupid: it's a
 judgmental, harsh word that implies not only a lack of intelligence,
 but a willful ignorance almost to the point of moral failure. (I have
 used it, more than I should. So have you, most likely.) You can call
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 people with whom you disagree misinformed, mistaken, incorrect,
 or almost anything else. But don't call them stupid.
@@ -1734,8 +1649,6 @@ This phenomenon is called "the Dunning- Kruger Effect," named
 for David Dunning and Justin Kruger, the research psychologists at
 Cornell University who identified it in a landmark 1999 study. The
 
-TH E DE A T H O F EX P E R T I S E
-
 Dunning- Kruger Effect, in sum, means that the dumber you are, the
 more confident you are that you're not actually dumb. Dunning and
 Kruger more gently label such people as "unskilled" or "incompetent." But that doesn't change their central finding: "Not only do they
@@ -1765,10 +1678,6 @@ their competence by a long shot.3
 
 Students who study for a test, older people trying to maintain their
 independence, and medical students looking forward to their careers
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 would rather be optimistic than underestimate themselves. Other
 than in fields like athletic competition, where incompetence is manifest and undeniable, it's normal for people to avoid saying they're bad
@@ -1801,8 +1710,6 @@ In our work, we ask survey respondents if they are familiar with
 certain technical concepts from physics, biology, politics, and
 geography. A fair number claim familiarity with genuine terms
 
-TH E DE A T H O F EX P E R T I S E
-
 like centripetal force and photon. But interestingly, they also claim
 some familiarity with concepts that are entirely made up, such
 as the plates of parallax, ultra- lipid, and cholarine. In one study,
@@ -1834,10 +1741,6 @@ we can do about a fundamental characteristic of human nature. Not
 everyone, however, is incompetent, and almost no one is incompetent at everything. What kinds of errors do more intelligent or agileminded people make in trying to comprehend complicated issues?
 Not surprisingly, ordinary citizens encounter pitfalls and biases that
 befall experts as well.
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 CONFIRMATION BIAS: BECAuSE YOu KNEW
 THIS ALREADY
@@ -1874,8 +1777,6 @@ the world.
 Thus, when Ray and his brother have to fly from Ohio to
 California, Ray panics. Every US airline has, at some point, suffered a
 
-TH E DE A T H O F EX P E R T I S E
-
 terrible disaster and Ray can remember the dates and body counts of
 every single one. Focused on these terrifying exceptions, Ray refuses to
 get on any of the available flights. When the exasperated brother asks
@@ -1904,10 +1805,6 @@ the one unlucky case" argument. Back in the early 1970s, I visited an
 uncle who lived in rural Greece. He was a tough, athletic man, but he
 had a terrible fear of flying, which was preventing him from going to
 London to seek medical treatment for a serious ailment. My father
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 tried to assure him with the fatalistic suggestion that while everyone
 has a time they have to leave the earth one way or another, it's likely
@@ -1941,8 +1838,6 @@ worry about these things. Instead they worry about AIDS. It's
 kind of crazy.
 
 "Ellen. Do you worry about dying in a car crash?"
-
-TH E DE A T H O F EX P E R T I S E
 
 "No, never."
 "Worry about getting murdered?"
@@ -1981,10 +1876,6 @@ Whether the question is mortal peril or one of life's daily dilemmas, confirmati
 on what they already know. They cannot approach every problem
 as though their minds are clean slates. This is not the way memory
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 works, and more to the point, it would hardly be an effective strategy
 to begin every morning trying to figure everything out from scratch.
 Scientists and researchers tussle with confirmation bias all the
@@ -2014,8 +1905,6 @@ found statistically unassailable proof that if opponents of gay marriage talked 
 were likelier to change their minds. His findings were endorsed by a
 senior faculty member at Columbia University who had signed on
 as a coauthor of the study. It was a remarkable finding that basically
-
-TH E DE A T H O F EX P E R T I S E
 
 amounted to proof that reasonable people can actually be talked out
 of homophobia.
@@ -2051,10 +1940,6 @@ influencing the review.
 This is an invaluable process. Even the most honest and self- aware
 scholar or researcher needs a reality check from someone less personally invested in the outcome of a project. (The proposal for the book
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 you're reading right now was peer- reviewed: that doesn't mean that
 the scholars who read it agreed with it, but that they were asked to
 consider the arguments and present whatever objections or advice
@@ -2089,8 +1974,6 @@ method." This is the set of steps that lead from a general question to a
 hypothesis, testing, and analysis. Although people commonly use the
 word "evidence," they use it too loosely; the tendency in conversation is to use "evidence" to mean "things which I perceive to be true,"
 
-TH E DE A T H O F EX P E R T I S E
-
 rather than "things that have been subjected to a test of their factual
 nature by agreed- upon rules."
 
@@ -2122,10 +2005,6 @@ AND CONSPIRACY THEORIES
 "Old wives' tales" and other superstitions are classic examples of
 confirmation bias and nonfalsifiable arguments. Many superstitions
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 have some kind of grounding in experience. While it's a superstition
 that you shouldn't walk under ladders, for example, it's also true that
 it's dangerous to walk under a ladder. Whether you'll have bad luck
@@ -2156,8 +2035,6 @@ Conspiracy theories, by contrast, are frustrating precisely because
 they are so intricate. Each rejoinder or contradiction only produces a
 more complicated theory. Conspiracy theorists manipulate all tangible evidence to fit their explanation, but worse, they will also point to
 the absence of evidence as even stronger confirmation. After all, what
-
-TH E DE A T H O F EX P E R T I S E
 
 better sign of a really effective conspiracy is there than a complete
 lack of any trace that the conspiracy exists? Facts, the absence of facts,
@@ -2193,10 +2070,6 @@ little- known culture in the far Canadian Arctic where people's faces
 are usually covered by parkas and they therefore express sorrow (or
 joy, or anger) by holding their feet and jumping. Or maybe he's a
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 foreigner who thinks that certain pungent Anglo- Saxon words actually mean "Help, I dropped a crate of beer on my foot."
 
 This is where the law of parsimony comes in. Any one of those
@@ -2228,8 +2101,6 @@ Queen of England is a drug dealer. The US government is spraying
 mind- controlling chemicals in the air through the exhaust ports of
 jet aircraft. The Jews control everything— except when the Saudis or
 Swiss bankers are controlling everything.
-
-TH E DE A T H O F EX P E R T I S E
 
 One reason we all love a good conspiracy thriller is that it appeals
 to our sense of heroism. A brave individual against a great conspiracy,
@@ -2264,10 +2135,6 @@ not worth such a price."
 The only way out of this dilemma is to imagine a world in which
 our troubles are the fault of powerful people who had it within their
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 power to avert such misery. In such a world, a loved one's incurable disease is not a natural event: it is the result of some larger malfeasance by
 industry or government. Revelations of the horrid behavior of a celebrity are not evidence that someone we admired is evil: it is a plot to
 smear a beloved figure. Even the loss of our favorite sports team might
@@ -2295,8 +2162,6 @@ agenda is conspiring to eventually rule the world," and 15  percent
 think media or government add secret "mind- controlling" technology to TV broadcasts. (Another 15 percent aren't quite sure about
 the television issue.) Nearly half of all respondents think it at least
 likely that Princess Diana of the United Kingdom was murdered in
-
-TH E DE A T H O F EX P E R T I S E
 
 a plot. "At these rates," as Kay rightly points out, "we can't speak of
 conspiracy thinking as a fringe phenomenon, nor one that has only a
@@ -2330,10 +2195,6 @@ every expert who contradicts the theory is ipso facto part of the conspiracy. As
 
 You have to remember that the sort of person who readily subscribes to conspiracy theories already fears that there are vast,
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 powerful forces maliciously allied against the areas of life that
 mean the most to them. Any denial of the threat increases the
 power of the threat by virtue of its being allowed to operate
@@ -2365,8 +2226,6 @@ The difference matters. Stereotyping is an ugly social habit, but
 generalization is at the root of every form of science. Generalizations
 are probabilistic statements, based in observable facts. They are not,
 however, explanations in themselves— another important difference
-
-TH E DE A T H O F EX P E R T I S E
 
 from stereotypes. They're measurable and verifiable. Sometimes generalizations can lead us to posit cause and effect, and in some cases
 we might even observe enough to create a theory or a law that under
@@ -2400,10 +2259,6 @@ Romanians are thieves except this one lady I  work with, but she's
 different.") Stereotypes are not predictions, they're conclusions. That's
 why it's called "prejudice": it relies on pre- judging.
 
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
-
 The tangle comes when we make generalizations that are negative or rooted in arguable criteria. No one can really dispute a generalization about height; it's something easily measurable in ways we
 all accept. Nor do we impute any sort of moral or political character to height. "Tall, aren't you?" a femme fatale says to the literary
 detective Phillip Marlowe in the 1939 novel The Big Sleep. "I didn't
@@ -2435,8 +2290,6 @@ element of truth in it, and it is an argument made quite often by
 actual Russians.) That's where more research comes in: to establish
 the why after confirming the what.
 
-TH E DE A T H O F EX P E R T I S E
-
 Of course, in daily conversation, none of this matters very much.
 These things may be true in some narrow, definable sense, but who
 wants to hear things that, if given without context, sound only like
@@ -2464,10 +2317,6 @@ self- image and our conceptions about who we are.
 
 In 2014, for example, an international study reached a surprising conclusion: people will go to great lengths to give each other a
 fair hearing and to weigh all opinions equally, even when everyone
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 involved in the conversation knows there are substantial differences in
 competence between them. The authors of the study (which included
@@ -2503,8 +2352,6 @@ why other people are dumber than they are?") The reality is that
 social insecurity trips up both the smart and the dumb. We all want
 to be liked.
 
-TH E DE A T H O F EX P E R T I S E
-
 In a similar vein, few of us want to admit to being lost in a conversation, especially when so much information is now so easily
 accessible. Social pressure has always tempted even intelligent, wellinformed people to pretend to know more than they do, but this
 impulse is magnified in the Information Age. Karl Taro Greenfeld, a
@@ -2531,10 +2378,6 @@ politics makes things even more complicated. Political beliefs among
 both laypeople and experts work in much the same way as confirmation bias. The difference is that beliefs about politics and other subjective matters are harder to shake, because our political views are
 deeply rooted in our self- image and our most cherished beliefs about
 who we are as people.
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 As Konnikova put it in her examination of the fraudulent gaymarriage study, confirmation bias is more likely to produce "persistently false beliefs" when it stems "from issues closely tied to our
 conception of self." These are the views that brook no opposition and
@@ -2565,8 +2408,6 @@ benefits might even encourage that laziness. Like so many examples
 of confirmation bias, this could spring from personal experience.
 Perhaps it proceeds from a lifetime of continuous employment, or
 
-TH E DE A T H O F EX P E R T I S E
-
 it may be the result of knowing someone who's genuinely averse to
 work. Every "help wanted" sign— which confirmation bias will note
 and file away— is further proof of the laziness of the unemployed.
@@ -2596,10 +2437,6 @@ way dispositive.
 There's no way to win this argument, because in the end, there
 are no answers that will satisfy everyone. Laypeople want a definitive answer from the experts, but none can be had because there is
 not one answer but many, depending on circumstances. When do
-
-HO W CO N V E R S A T I O N BE C A M E EX H A
-
-uS T I N G
 
 benefits encourage sloth? How often are people thrown out of work
 against their will, and for how long? These are nuances in a broad
@@ -2694,8 +2531,6 @@ I say this while remaining a defender of the American university
 system, including the much- maligned liberal arts. I  am personally
 a beneficiary of wider access to higher education in the twentieth
 
-TH E DE A T H O F EX P E R T I S E
-
 century and the social mobility it provided. The record of these institutions is unarguable:  universities in the United States are still the
 leading intellectual powerhouses in the world. I  continue to have
 faith in the ability of America's postsecondary schools to produce
@@ -2727,8 +2562,6 @@ Younger people, barely out of high school, are pandered to both
 materially and intellectually, reinforcing some of the worst tendencies in students who have not yet learned the self- discipline that
 once was essential to the pursuit of higher education. Colleges
 now are marketed like multiyear vacation packages, rather than as
-
-HI G H E R EDuC A T I O N
 
 a contract with an institution and its faculty for a course of educational study. This commodification of the college experience itself
 as a product is not only destroying the value of college degrees but
@@ -2762,8 +2595,6 @@ citizens. Instead, for many people college has become, in the words
 of a graduate of a well- known party school in California, "those magical seven years between high school and your first warehouse job."
 College is no longer a passage to educated maturity and instead is
 
-TH E DE A T H O F EX P E R T I S E
-
 only a delaying tactic against the onset of adulthood— in some cases,
 for the faculty as well as for the students.
 
@@ -2792,8 +2623,6 @@ are going to go to college somewhere, and so schools that are otherwise indistin
 offer better pizza in the food court, plushier dorms, and more activities besides the boring grind of actually going to class.
 
 Not only are there too many students, there are too many professors. The very best national universities, the traditional sources
-
-HI G H E R EDuC A T I O N
 
 of university faculty, are promiscuously pumping out PhDs at a rate
 far higher than any academic job market can possibly absorb. Lesser
@@ -2826,8 +2655,6 @@ educational hamster wheel, without learning very much.2
 How to solve all this is a crucial question for the future of
 American education. In 2016, a Democratic Party presidential
 
-TH E DE A T H O F EX P E R T I S E
-
 candidate, Senator Bernie Sanders, said that a college degree today
 is the equivalent of what a high school degree was fifty years ago—
 and that therefore everyone should go to college just as everyone
@@ -2859,8 +2686,6 @@ This is no longer how college is viewed in modern America either
 by the providers or by the consumers of higher education. College as
 a client- centered experience caters to adolescents instead of escorting them away from adolescence. Rather than disabusing students of
 
-HI G H E R EDuC A T I O N
-
 their intellectual solipsism, the modern university ends up reinforcing it. Students can leave campus without fully accepting that they've
 met anyone more intelligent than they are, either among their peers
 or their teachers. (This assumes that they even bother to make any
@@ -2887,8 +2712,6 @@ institutions then struggle to finish, with only half completing a bachelor's deg
 Many of these incoming students are not qualified to be in college and need significant remedial work. The colleges know it, but
 they accept students who are in over their heads, stick them in large
 (but cost- efficient) introductory courses, and hope for the best. Why
-
-TH E DE A T H O F EX P E R T I S E
 
 would schools do this and obviously violate what few admissions standards they might still enforce? As James Piereson of the Manhattan
 Institute wrote in 2016, "Follow the money." The fact of the matter is
@@ -2918,8 +2741,6 @@ they were thirty years ago, but their sense of entitlement and their
 unfounded self- confidence have grown considerably.
 
 Parenting obviously plays a major role here. Overprotective parents have become so intrusive that a former dean of first- year students at Stanford wrote an entire book in which she said that this
-
-HI G H E R EDuC A T I O N
 
 "helicopter parenting" was ruining a generation of children. These
 are the parents who defend and coddle their children even into high
@@ -2954,8 +2775,6 @@ afterthought.
 Usually, the youngsters like most of the schools, because, to
 a teenager stuck in high school, all colleges seem like pretty great
 
-TH E DE A T H O F EX P E R T I S E
-
 places. Some choices, of course, quickly drop off the radar. An ugly
 town, a dingy campus, a decrepit dormitory, and that's that. Other
 times, prospective students fall in love with a school and then spend
@@ -2985,8 +2804,6 @@ things that matter only to kids.
 Driven to compete for teenagers and their loan dollars, educational institutions promise an experience rather than an education.
 (I am leaving aside for- profit schools here, which are largely only factories that create debt and that in general I exclude from the definition of "higher education.") There's nothing wrong with creating an
 attractive student center or offering a slew of activities, but at some
-
-HI G H E R EDuC A T I O N
 
 point it's like having a hospital entice heart patients to choose it for a
 coronary bypass because it has great food.
@@ -3021,8 +2838,6 @@ idea of never eating in a dining hall, something is already wrong with
 the entire process. Many young people, of course, have made worse
 choices for even sillier reasons.
 
-TH E DE A T H O F EX P E R T I S E
-
 Students are young and parents love their kids. Fair enough. But
 when the entire carnival of applications and admissions is over, the
 faculty have to teach students who have walked into their classrooms
@@ -3050,8 +2865,6 @@ told a story about a well- known (and, at the time, still- living) member of the
 challenge it presents to experts and educators. The renowned astrophysicist Robert Jastrow gave a lecture on President Ronald Reagan's
 plan to develop space- based missile defenses, which he strongly supported. An undergraduate challenged Jastrow during the questionand- answer period, and by all accounts Jastrow was patient but held
 to his belief that such a program was possible and necessary. The
-
-HI G H E R EDuC A T I O N
 
 student, realizing that a scientist at a major university was not going
 to change his mind after a few minutes of arguing with a sophomore,
@@ -3087,8 +2900,6 @@ arms expert in California, captured and posted the exchange online.)
 someone please help me," the student tweeted. Kaszeta offered his
 help. He corrected her by noting that Sarin isn't a gas and that the
 
-TH E DE A T H O F EX P E R T I S E
-
 word should be capitalized. As Lewis later wryly noted, "Dan's help
 [met] with a welcome sigh of relief from our beleaguered student."
 
@@ -3122,8 +2933,6 @@ the informality of communication between teachers and students is
 one more example of how college life in particular now contributes
 to the eroding respect for experts and their abilities.
 
-HI G H E R EDuC A T I O N
-
 Email became common on campuses in the early 1990s, and within
 a decade, professors noticed the changes wrought by instant communications. In 2006, the New York Times asked college educators about
 their experiences with student email, and their frustration was evident.
@@ -3152,8 +2961,6 @@ with my professors was by going to their office or calling them, there
 would be some sort of ranking or prioritization taking place. Is this
 question worth going over to the office?"
 
-TH E DE A T H O F EX P E R T I S E
-
 To which a faculty member might respond: that's exactly the point.
 Professors are not intellectual valets or on- call pen pals. They do not
 exist to resolve every student question instantly— including, as one
@@ -3181,8 +2988,6 @@ Owes His Teacher." Here's a sample:
 
 Students have obligations to teachers. I  know this sounds like
 strange doctrine, but let it stand.
-
-HI G H E R EDuC A T I O N
 
 The first obligation, particularly operative during the first
 weeks of a new semester, is a moderately good will toward the
@@ -3217,8 +3022,6 @@ Just imagine how difficult things get when education isn't done
 
 skillfully.
 
-TH E DE A T H O F EX P E R T I S E
-
 THE GENERIC uNIVERSITY
 
 An administrator at a small college— excuse me, a "university"—
@@ -3248,8 +3051,6 @@ funding streams by grafting graduate programs onto small colleges.
 The competition to pull in more money and the consequent proliferation of graduate programs have thus forced these new "universities"
 into a degree- granting arms race. Not only are schools adding graduate programs in professional degrees like business administration,
 
-HI G H E R EDuC A T I O N
-
 but many of them are bloating their undergraduate programs with
 additional coursework for a master's degree.
 
@@ -3277,8 +3078,6 @@ telling the truth.
 
 Students will likely object that the demands of their major are
 a lot more work than I'm giving credit for here. Perhaps, but that
-
-TH E DE A T H O F EX P E R T I S E
 
 depends on the major itself. The requirements of a degree in a STEM
 field (science, technology, engineering, mathematics), a demanding
@@ -3314,8 +3113,6 @@ reality advocating for nothing less than turning colleges into trade
 schools. Art history majors always take the cheap shots here, even
 though many people don't realize that a lot of art history majors go
 
-HI G H E R EDuC A T I O N
-
 on to some pretty lucrative careers. In any case, I don't want to live in
 a civilization where there are no art history majors or, for that matter,
 film studies, philosophy, or sociology majors.
@@ -3346,8 +3143,6 @@ course that interests you, by all means, take it. It might be terrific.
 But students who choose majors with little thought about where
 their school stands, what academic resources it can offer in that program, or where it places graduates from those programs will risk leaving campus (whenever they finally finish) with less knowledge than
 they've been led to believe, a problem at the core of a lot of needless
-
-TH E DE A T H O F EX P E R T I S E
 
 arguments with people who are deeply mistaken about the quality of
 their own education.
@@ -3382,8 +3177,6 @@ fact remains, however, that taking a course at a regional college with
 an overworked adjunct is usually a lot different than studying at a
 top university with an accomplished scholar. It might be true, but
 
-HI G H E R EDuC A T I O N
-
 saying so immediately generates huffy cries of snobbery, and everyone walks away angry.
 
 We may not like any of these comparisons, but they matter in
@@ -3414,8 +3207,6 @@ credential, rather than an education.
 Or as a Washington Post writer Catherine Rampell describes it,
 college is now a deal in which "students pay more in tuition, and
 
-TH E DE A T H O F EX P E R T I S E
-
 expect more in return— better service, better facilities and better grades."15 Less is demanded of students now than even a few
 decades ago. There is less homework, shorter trimester and quarter
 systems, and technological innovations that make going to college
@@ -3444,8 +3235,6 @@ the United States today.) "I was a straight- A student at a university"
 does not mean what it did in 1960 or even 1980. A study of two hundred colleges and universities up through 2009 found that A was the
 most commonly given grade, an increase of nearly 30 percent since
 1960 and over 10  percent just since 1988. Grades in the A  and B
-
-HI G H E R EDuC A T I O N
 
 range together now account for more than 80 percent of all grades in
 all subjects, a trend that continues unabated.17
@@ -3479,8 +3268,6 @@ it exists and that it suffuses students with unwarranted confidence in
 their abilities. Almost every institution of higher education is complicit in what is essentially collusion on grades, driven on one side
 by market pressures to make college fun, to make students attractive
 
-TH E DE A T H O F EX P E R T I S E
-
 to employers, and to help vulnerable professors escape the wrath of
 dissatisfied students, and on the other by irresponsible notions about
 the role of self- esteem in education.
@@ -3504,8 +3291,6 @@ of shoes.
 Evaluations usually fall into a gray area, where most teachers are
 competent and most students generally like the courses. Where evaluations are most useful is in spotting trends: a multiyear look at evaluations can identify both the best and the worst teachers, especially
 if the readers are adept at decoding how students write such reports.
-
-HI G H E R EDuC A T I O N
 
 ("She's boring," for example, often means "she actually expected me
 to read the book she assigned instead of just entertaining me.") In my
@@ -3535,8 +3320,6 @@ evaluation that they would pray for me.
 
 As entertaining as these evaluations are, they all encourage students to think of themselves as the arbiters of the talent of the teachers. And when education is about making sure clients are happy, a
 
-TH E DE A T H O F EX P E R T I S E
-
 college's reliance on evaluations forces weaker or less secure teachers
 to become dancing bears, striving to be loved or at least liked, so that
 more students will read the reviews and keep the class (and the professor's contract) alive for the next term. This creates and sustains a
@@ -3564,8 +3347,6 @@ in the United States are increasingly surrendering their intellectual
 authority not only to children, but also to activists who are directly
 attacking the traditions of free inquiry that scholarly communities are
 supposed to defend.
-
-HI G H E R EDuC A T I O N
 
 I have plenty of strong opinions on what I  see as assaults on
 free inquiry, but I'm not going to air them here. There are dozens
@@ -3595,8 +3376,6 @@ when students learn that emotion trumps everything else, it is a lesson they wil
 
 Colleges are supposed to be the calm environment in which educated men and women determine what's true and what's false, and
 
-TH E DE A T H O F EX P E R T I S E
-
 where they learn to follow a model of scholarly inquiry no matter
 where it takes them. Instead, many colleges have become hostages
 to students who demand that their feelings override every other consideration. They no doubt believe in their right to make this demand
@@ -3625,8 +3404,6 @@ smallest molehills, and they descend into hysteria over pranks and
 hoaxes. In the midst of it all, the students are learning that emotion
 and volume can always defeat reason and substance, thus building
 about themselves fortresses that no future teacher, expert, or intellectual will ever be able to breach.
-
-HI G H E R EDuC A T I O N
 
 At Yale in 2015, for example, a house master's wife had the temerity to tell minority students to ignore Halloween costumes they
 thought offensive. This provoked a campuswide temper tantrum that
@@ -3662,8 +3439,6 @@ Missouri flared up after a juvenile incident in which a swastika was
 drawn on a bathroom wall with feces. Exactly what Missouri's flagship public university was supposed to do, other than to wash the
 wall, was unclear, but the campus erupted anyway. "Do you know
 
-TH E DE A T H O F EX P E R T I S E
-
 what systemic oppression is?!" a student yelled at the flustered
 Mizzou president. "Google it!" she hollered. Student journalists were
 harassed and threatened, in one case by a faculty member with a
@@ -3695,8 +3470,6 @@ expression but of sheer intolerance. "One feels for these students,"
 Friedersdorf later wrote. (I do not, but Friedersdorf is more understanding than I  am.) "But if an email about Halloween costumes
 has them skipping class and suffering breakdowns, either they need
 help from mental- health professionals or they've been grievously
-
-HI G H E R EDuC A T I O N
 
 ill- served by debilitating ideological notions they've acquired about
 what ought to cause them pain."20
@@ -3731,8 +3504,6 @@ attacks.
 
 But when students leave my classroom, I  am haunted by the
 realization that I cannot moderate their arguments forever. I cannot
-
-TH E DE A T H O F EX P E R T I S E
 
 prevent them from dismissing others, from rejecting facts, from
 denouncing well- intentioned advice, or from demanding that their
@@ -3771,8 +3542,6 @@ THE RETuRN OF STuRGEON'S LAW
 Ask any professional or expert about the death of expertise, and most
 of them will immediately blame the same culprit: the Internet. People
 who once had to ask the advice of specialists in any given field now
-
-TH E DE A T H O F EX P E R T I S E
 
 plug search terms into a browser and get answers in seconds. Why
 rely on people with more education and experience than you— or,
@@ -3830,7 +3599,7 @@ When it comes to the death of expertise, however, the law to
 bear in mind is an observation coined long before the advent of
 the personal computer:  Sturgeon's Law, named for the legendary
 science- fiction writer Theodore Sturgeon. In the early 1950s, highbrow critics derided the quality of popular literature, particularly
-American science fiction. They considered sci- fi and fantasy writing a literary ghetto, and almost all of it, they sniffed, was worthless.
+American science fiction. They considered sci- fiand fantasy writing a literary ghetto, and almost all of it, they sniffed, was worthless.
 Sturgeon angrily responded by noting that the critics were setting too
 high a bar. Most products in most fields, he argued, are of low quality,
 including what was then considered serious writing. "Ninety percent
@@ -3840,8 +3609,6 @@ Where the Internet is concerned, Sturgeon's Law of 90 percent
 might be lowballing. The sheer size and volume of the Internet, and
 the inability to separate meaningful knowledge from random noise,
 mean that good information will always be swamped by lousy data
-
-TH E DE A T H O F EX P E R T I S E
 
 and weird detours. Worse, there's no way to keep up with it all, even if
 any group or institution wanted to try. In 1994, there were fewer than
@@ -3876,8 +3643,6 @@ online floods the public square with bad information and half- baked
 thinking. The Internet lets a billion flowers bloom, and most of them
 stink, including everything from the idle thoughts of random bloggers
 and the conspiracy theories of cranks all the way to the sophisticated
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -3914,8 +3679,6 @@ I keep browser bookmarks and folders full of electronically readable
 articles at my fingertips. How can that not be better than the hours
 I spent going blind in front of a copier in the bowels of a library?
 
-TH E DE A T H O F EX P E R T I S E
-
 In some ways, the convenience of the Internet is a tremendous
 boon, but mostly for people already trained in research and who have
 some idea what they're looking for. It's much easier to subscribe to
@@ -3946,8 +3709,6 @@ popularity unfortunately count for a lot.
 
 Plugging words into a browser window isn't research:  it's asking questions of programmable machines that themselves cannot
 actually understand human beings. Actual research is hard, and for
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -3981,8 +3742,6 @@ everyone else might not always be such a good idea. Sometimes,
 human beings need to pause and to reflect, to give themselves time to
 absorb information and to digest it. Instead, the Internet is an arena
 
-TH E DE A T H O F EX P E R T I S E
-
 in which people can react without thinking, and thus in turn they
 become invested in defending their gut reactions rather than accepting new information or admitting a mistake— especially if it's a mistake pointed out by people with greater learning or experience.
 
@@ -4012,8 +3771,6 @@ oracle to confirm them in their ignorance. In 2015 a Washington Post
 writer, Caitlin Dewey, worried that fact- checking could never defeat
 myths and hoaxes because "no one has the time or cognitive capacity to reason all the apparent nuances and discrepancies out."3 In the
 end, she sighed, "debunking them doesn't do a darn thing."
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4051,8 +3808,6 @@ completely impervious to contrary evidence.
 Now, thanks to the internet … a rumor about the Antichrist can
 leap from Goths in Sweden to an extreme traditionalist Catholic
 
-TH E DE A T H O F EX P E R T I S E
-
 sect in Australia in a matter of seconds. Minority groups are
 becoming ever more tolerant of each other's eccentric doctrines.
 Contacts between black and white racists, which began tentatively decades ago, are now flourishing as the two groups swap
@@ -4082,8 +3837,6 @@ several years earlier, of actual Muslims in the US military at prayer.
 Even after objections were raised to the misleading picture (by me,
 among others), West did not pull the story. It wouldn't have mattered, since it was already archived on blogs and other sites. People
 surfing the Internet who have neither the training nor the time to
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4116,8 +3869,6 @@ women have an alternative source of information other than medical professionals
 magazine," GOOP.com, and she can discuss with you, in the privacy
 of your home or via your smartphone, the many things women can
 
-TH E DE A T H O F EX P E R T I S E
-
 do to maintain their gynecological health, including steaming their
 vaginas.
 
@@ -4149,8 +3900,6 @@ ugly wig tells me that blowing hot air up my vagina is going to cure
 everything I've ever suffered from, including a bad relationship with
 my mother, well, then, I'm gonna listen to Gwyneth Paltrow, because
 girlfriend knows science."8
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4187,8 +3936,6 @@ such situations:  they decided beforehand what they believed and
 then went looking for a source on the Internet to buttress that belief.
 As Bruni pointed out, "The anti- vaccine agitators can always find a
 
-TH E DE A T H O F EX P E R T I S E
-
 renegade researcher or random 'study' to back them up. This is erudition in the age of cyberspace: You surf until you reach the conclusion
 you're after. You click your way to validation, confusing the presence
 of a website with the plausibility of an argument."
@@ -4223,8 +3970,6 @@ others are just slammed between covers and rushed to bookstores.
 Nonetheless, books from reputable presses go through at least a
 basic process of negotiation between authors, editors, reviewers, and
 
-LE T ME GO O G L E TH A T F O R  Y
-
 Ou
 
 publishers, including the book you're reading right now. Books from
@@ -4256,8 +4001,6 @@ After enough websites fly by, they eventually lose the ability to recognize that
 just assume that they knew things about both dinosaurs and diesel
 fuel because they're just that smart. Unfortunately, people thinking
 
-TH E DE A T H O F EX P E R T I S E
-
 they're smart because they searched the Internet is like thinking
 they're good swimmers because they got wet walking through a
 rainstorm.
@@ -4287,8 +4030,6 @@ new forms of 'reading' are emerging as users 'power browse' horizontally through
 It almost seems that they go online to avoid reading in the traditional
 sense."13 This is actually the opposite of reading, aimed not so much at
 learning but at winning arguments or confirming a preexisting belief.
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4321,8 +4062,6 @@ the "search engine manipulation effect" and claimed that their tests
 showed an ability "to boost the proportion of people who favored
 any candidate by between 37 and 63  percent after just one search
 session," and that this potentially constitutes a "serious threat to the
-
-TH E DE A T H O F EX P E R T I S E
 
 democratic system of government."14 It's too early to say that search
 engines are undermining democracy— at least yet— but it's hard
@@ -4357,8 +4096,6 @@ the group. This tends to be true especially for decisions where the
 amalgamation of a lot of guesses might produce a better aggregate
 guess than any one expert's opinion. Surowiecki recounted the story,
 
-LE T ME GO O G L E TH A T F O R  Y
-
 Ou
 
 for example, of an English county fair in 1906, when the public was
@@ -4390,8 +4127,6 @@ matched those generated by Microsoft's Word software. Obviously,
 in 1971 the Air Force used typewriters. Microsoft and its programs
 didn't exist then. The documents had to be fakes.
 
-TH E DE A T H O F EX P E R T I S E
-
 Faced with this crowd- sourced challenge to the story, CBS
 ordered an investigation. The network ended up repudiating the documents and the story. The segment's producer was fired. Dan Rather,
 convinced to this day that he was right and everyone else was wrong,
@@ -4420,8 +4155,6 @@ the weight of a bull. Although many well- intentioned people have
 contributed their time as Wikipedia editors, for example, some of
 them were also employed by companies and celebrity public relations firms that had an obvious interest in how things appeared in an
 encyclopedia for the masses. (Nine out of ten Wikipedia contributors
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4459,8 +4192,6 @@ stars are comprehensive, but its pages on female novelists or places
 in sub- Saharan Africa are sketchy. Authoritative entries remain
 elusive. Of the 1,000 articles that the project's own volunteers have
 
-TH E DE A T H O F EX P E R T I S E
-
 tagged as forming the core of a good encyclopedia, most don't
 earn even Wikipedia's own middle- ranking quality scores.17
 
@@ -4495,8 +4226,6 @@ Once any kind of political agenda gets involved, things get a lot
 dicier. The Wikipedia entry on the chemical weapon Sarin, for example, became an arena for infighting among people who had conflicting
 agendas over whether the Syrian government used the substance on
 
-LE T ME GO O G L E TH A T F O R  Y
-
 Ou
 
 its own people. Even the basic science fell under attack. A Londonbased analyst, Dan Kaszeta— the Sarin expert I  mentioned in the
@@ -4528,8 +4257,6 @@ fact: "You might as well have a poll asking: 'Which number is bigger,
 
 Likewise, public policy is not a parlor game of prediction; it is
 about long- term choices rooted in thoughtful consideration of costs
-
-TH E DE A T H O F EX P E R T I S E
 
 and alternatives. Asking crowds to guess about specific events in
 short- term, mental dart– throwing matches just isn't much help when
@@ -4564,8 +4291,6 @@ A 2014 Pew research study found that liberals are more likely than
 conservatives to block or unfriend people with whom they disagreed,
 but mostly because conservatives already tended to have fewer people
 
-LE T ME GO O G L E TH A T F O R  Y
-
 Ou
 
 with whom they disagreed in their online social circles in the first
@@ -4598,8 +4323,6 @@ artist, an Amazon scholar, a cheerleader empowered by social
 media to Like and to Share. The inflated, always suspect authority of ink- stained wretches like me has been leveled by digital
 anarchy. Who needs a cranky nag when you have a friendly
 
-TH E DE A T H O F EX P E R T I S E
-
 algorithm telling you, based on your previous purchases, that
 there is something You May Also Like, and legions of Facebook
 friends affirming the wisdom of your choice?19
@@ -4630,8 +4353,6 @@ And what mainly fuels this is precisely what the Founders feared
 about democratic culture:  feeling, emotion, and narcissism,
 rather than reason, empiricism, and public- spiritedness. Online
 debates become personal, emotional, and irresolvable almost as
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4664,8 +4385,6 @@ a minefield for teachers and other experts who risk confirming a mistake merely 
 
 Then, of course, there is the problem of rampant misinformation in places that, unlike classrooms, are hard to control— like
 
-TH E DE A T H O F EX P E R T I S E
-
 the Internet and news media. In these Wild West settings, it's
 best not to repeat common misbeliefs at all. Telling people that
 Barack Obama is not a Muslim fails to change many people's
@@ -4694,8 +4413,6 @@ as they gather pretty websites as "evidence" and marshal legions of
 anonymous, like- minded social media friends with equally uninformed views for support. Meanwhile, scholars and professionals
 who insist on logic, foundational knowledge, and basic rules about
 sources risk condemnation by twenty- first- century online users as
-
-LE T ME GO O G L E TH A T F O R  Y
 
 Ou
 
@@ -4767,8 +4484,6 @@ murder, including shoot- outs with the police. They were not exactly
 the friendly staff of a day- care center. The Vox piece prompted the
 Daily Beast columnist Michael Moynihan to tweet, "Remember when
 
-TH E DE A T H O F EX P E R T I S E
-
 'explainer' writers had to know something about what they were
 explaining? Nor do I."
 
@@ -4803,8 +4518,6 @@ Except, of course, that Evelyn Waugh (who lived until 1966)
 
 was a man.
 
-TH E " NE W" NE W JOuR N A L I S M
-
 These kinds of howlers aren't just a product of the Internet era.
 A front- page story in the Washington Post from more than thirty years
 ago, for example, referred to Ireland as a member of NATO, which
@@ -4837,8 +4550,6 @@ Trust warned that disengagement from important public questions
 was actually worse among people under thirty, the group that should
 have been most receptive to then- emerging sources of information
 
-TH E DE A T H O F EX P E R T I S E
-
 like cable television and electronic media. This was a distinct change
 in American civic culture, as the Pew study noted:
 
@@ -4868,8 +4579,6 @@ point, the discussion has nowhere to go; the original issue is submerged or lost
 
 How did this happen? How can people be more resistant to
 facts and knowledge in a world where they are constantly barraged
-
-TH E " NE W" NE W JOuR N A L I S M
 
 with facts and knowledge? The short answer where journalism is
 concerned— in an explanation that could be applied to many modern innovations— is that technology collided with capitalism and
@@ -4902,8 +4611,6 @@ closely fused with entertainment.
 Today, anyone with electricity is up to their neck in news from
 every direction whenever they want it. Most newspapers and local
 
-TH E DE A T H O F EX P E R T I S E
-
 television stations in America are instantaneously available in electronic format and are updated regularly. Consumers with access to
 satellite or cable television— which is to say, almost anyone in most
 of the developed world— can take their pick of dozens of newscasts
@@ -4935,8 +4642,6 @@ to the creation of journalistic enterprises in the late twentieth and
 early twenty- first centuries, with predictable consequences. More
 media meant more competition; more competition meant dividing the audience into identifiable political and demographic niches;
 more opportunity at more outlets meant more working journalists,
-
-TH E " NE W" NE W JOuR N A L I S M
 
 regardless of whether they were competent to cover important
 issues. All of this competition was at the behest of the American
@@ -4972,8 +4677,6 @@ Not only is there more news, but there is more interactivity with
 the news. Americans no longer read whatever fits into a set number
 of newspaper columns, nor do they sit passively in front of a television and receive a digest of events. Instead, they're asked, constantly,
 
-TH E DE A T H O F EX P E R T I S E
-
 what they think of the information they're being given, often in real
 time. Twitter and Facebook are the new news tickers, crowd- sourced
 streams of information that break news and spread rumors with equal
@@ -5007,8 +4710,6 @@ but that is hard to believe. A  2010 New  York Times report tried to
 put the best face on it after describing how closely the Washington
 Post and other papers monitor their web traffic: "Rather than corrupt
 
-TH E " NE W" NE W JOuR N A L I S M
-
 news judgment by causing editors to pander to the basest reader
 interests, the availability of this technology so far seems to be leading
 to more surgical decisions about how to cover a topic so it becomes
@@ -5039,8 +4740,6 @@ This information overload isn't just overwhelming laypeople
 either. The fact is that everyone is drowning in data, including professionals who pay a lot of attention to news and who try to be discriminating consumers. In 2015 the National Journal surveyed people it
 called "Washington Insiders," mostly composed of congressional
 staff, federal government executives, and private- sector public affairs
-
-TH E DE A T H O F EX P E R T I S E
 
 professionals, and asked them how they get their news. According to
 the study, it was now easier than ever for these "insiders" to obtain
@@ -5076,8 +4775,6 @@ new scrap of information as if they were personally going to make the
 call on launching a war. (CNN even appeals to this viewer vanity by
 calling its afternoon broadcast "The Situation Room.")
 
-TH E " NE W" NE W JOuR N A L I S M
-
 This doesn't explain, however, why Americans erroneously end
 up thinking they're better informed than the experts on the myriad
 issues flooding across their screens. For this, we have to look a little
@@ -5110,8 +4807,6 @@ obvious choice for stations looking for affordable programming.
 
 Talk radio had immense political consequences, and it provided
 the foundations for attacks on established knowledge that flowered
-
-TH E DE A T H O F EX P E R T I S E
 
 later on social media. No one did more to drive the ascendance of
 talk radio than the broadcaster Rush Limbaugh, who in the late
@@ -5146,8 +4841,6 @@ find not only that millions of people were listening but that these listeners we
 President Spiro Agnew charged the press with liberal bias, hauling
 off the immortal zinger (penned by the speechwriter William Safire)
 
-TH E " NE W" NE W JOuR N A L I S M
-
 that the media was full of "nattering nabobs of negativism." Twenty
 years later, talk radio made the same case and this time made it stick.
 
@@ -5180,8 +4873,6 @@ beliefs:  they attacked everything, plunging their listeners into an
 alternate universe where facts of any kind were unreliable unless
 verified by the host. In 2011, Limbaugh referred to "government,
 
-TH E DE A T H O F EX P E R T I S E
-
 academia, science, and the media" as the "four corners of deceit,"
 which pretty much covered everyone except Limbaugh.
 
@@ -5213,8 +4904,6 @@ not have spread farther than the AM band were it not for cable television and th
 of news— and as platforms for attacks on established knowledge—
 actually reinforced each other throughout the 1990s. Even Limbaugh,
 
-TH E " NE W" NE W JOuR N A L I S M
-
 after conquering the best- seller lists with a foray into book writing,
 took a stab at syndicated television for a few years. A previously narrow media gate was now large enough to accommodate a stampede.
 Stories originating in one medium quickly bounced to another and
@@ -5244,8 +4933,6 @@ evening slot with a new program called Nightline devoted solely to
 coverage of the crisis. Each night, ABC would splash the screen with
 "America Held Hostage," followed by the number of days of captivity.
 
-TH E DE A T H O F EX P E R T I S E
-
 The anchor (usually the veteran ABC newsman Ted Koppel) would
 then fill the time by interviewing experts, journalists, and other figures associated with the crisis.
 
@@ -5274,8 +4961,6 @@ people who previously would defer to authority.12
 "opined on an ever- expanding array of issues." Producers and reporters enabled those would- be experts by asking them to speak on
 anything and everything, a temptation few people can resist. (I am
 among those who are not without sin on this.)
-
-TH E " NE W" NE W JOuR N A L I S M
 
 Nightline was a success, but broadcast networks still saw no reason to run news day and night. After all, what viewer wanted to watch
 nothing but news? In 1980, the entrepreneur Ted Turner took a
@@ -5309,8 +4994,6 @@ kind of open buffet where viewers could visit and graze all day long.
 The testimony of the law professor Anita Hill and her allegations
 of sexual harassment against Supreme Court nominee Clarence
 
-TH E DE A T H O F EX P E R T I S E
-
 Thomas in 1991 proved that Americans would not only watch crises
 and disasters, but also stay riveted to their sets for political and courtroom dramas as well— especially if they involved sex or murder or, in
 the best case, both. In 1991, after judicial rulings allowed more cameras into courtrooms, Court TV arrived on cable. Americans became
@@ -5343,8 +5026,6 @@ daughter. It was a disturbing story, a kind of rerun of the Simpson
 trial in which millions of people took sides quickly. HLN, however,
 didn't just cover Anthony's trial; Grace and others made it a staple
 
-TH E " NE W" NE W JOuR N A L I S M
-
 of HLN's "news," running some five hundred stories about it.13 By the
 time Anthony was acquitted in 2011, HLN's viewers were likely more
 versed in Florida murder statutes than in their own rights under the
@@ -5372,8 +5053,6 @@ that he's since had plenty of help:
 
 It's not just Fox. MSNBC and other networks have developed
 their own political shout shows— verbal versions of World Wide
-
-TH E DE A T H O F EX P E R T I S E
 
 Wrestling matches. Talking heads bluster, interrupt, and otherwise disport themselves in rude ways. Viewers rejoice in the
 spectacle. Advertising is sold. Money is made.14
@@ -5404,8 +5083,6 @@ grew in size and speed, opening another arena not only for established news orga
 wanted to break into the game. The Internet and the proliferation
 of news media were already problems for experts, but the synergy
 
-TH E " NE W" NE W JOuR N A L I S M
-
 created by the combination of news and the Internet is a problem
 of Gibraltarian proportions for experts trying to communicate with
 laypeople who already believe that staring at their phone while sitting
@@ -5434,8 +5111,6 @@ but among self- identified political conservatives, Fox unsurprisingly
 was the "most trusted" source at 48 percent. Self- identified moderates split their choice for "most trusted" evenly between broadcast
 news and CNN (25 and 23 percent, respectively), with Fox and public television taking second and third place. Among self- identified
 liberals, network broadcast news led as "most trusted" at 24 percent,
-
-TH E DE A T H O F EX P E R T I S E
 
 with CNN and public television essentially tied at 16 and 17 percent,
 respectively.
@@ -5470,8 +5145,6 @@ younger member of Generation X) based in Los Angeles, said in
 no one under 30 to trusting any idiot with a symmetrical face dressed
 in business casual." Stewart may be a comedian, but his younger
 
-TH E " NE W" NE W JOuR N A L I S M
-
 viewers were likely better informed than those among their peers
 who watch no news at all.
 
@@ -5504,8 +5177,6 @@ a combination of groundless confidence and deep cynicism, habits
 of thought that defeat the best attempts of experts to educate their
 fellow citizens. Experts can't respond to questions if most people
 
-TH E DE A T H O F EX P E R T I S E
-
 already think they know the answers, nor does it help them to bring
 forward messages when so many people are already prone to shoot—
 or, at best, to ignore— the messengers. It's bad enough that people
@@ -5537,8 +5208,6 @@ events and developments in the world around us, providing a reservoir of facts w
 objectivity, because their reports are usually the first encounter the
 rest of us have with previously unknown events or facts. Around the
 
-TH E " NE W" NE W JOuR N A L I S M
-
 world, journalists do their job amazingly well, often at risk to their
 own lives. And yet the majority of Americans distrust the information they provide.
 
@@ -5566,8 +5235,6 @@ is now wide open, with the same results we might expect if medicine, law enforce
 
 This is partly the fault, as so much is these days, of "academizing" what used to be a trade. Rather than apprenticeships as part of
 a career track that includes writing obituaries and covering boring
-
-TH E DE A T H O F EX P E R T I S E
 
 town meetings, journalism and communications are now undergraduate majors. These departments and programs crank out young people with little knowledge about the subjects of their correspondence.
 They are schooled in the structure of a story but not in the habits or
@@ -5597,8 +5264,6 @@ served "when 'journalists' were reporters who'd often barely graduated high scho
 These inexperienced writers can have a significant impact on the
 information available to the sizable number of people who primarily get their news through social media. Facebook, for example, uses
 news curators to decide what shows up in a reader's Facebook news
-
-TH E " NE W" NE W JOuR N A L I S M
 
 feed. According to a 2016 exposé by Gizmodo.com, Facebook treated
 these reporters as low- level contractors while giving them immense
@@ -5638,8 +5303,6 @@ sort out this issue on the kind of time frame that's generally tolerated
 these days," Saletan said after his story— which blew apart the fake
 science behind the objections to GMOs— appeared in Slate. These
 
-TH E DE A T H O F EX P E R T I S E
-
 kinds of stories require not only time but a willingness to do research
 and stay focused on dull details. As Saletan put it, "You really have
 to be a willful bastard to persist in researching a topic like [GMOs],
@@ -5666,8 +5329,6 @@ they go to cover: whether Georgia or Afghanistan, basic knowledge is critically
 reporter in Georgia told me that staff reporters were asking
 officials, "Where is Abkhazia?"). Personal experience suggests
 that the situation is largely the same in Afghanistan: "It's only a
-
-TH E " NE W" NE W JOuR N A L I S M
 
 one- week embed," the thinking seems to go, "so I don't have to
 do too much work— I can learn as I go."23
@@ -5701,8 +5362,6 @@ enable the Rolling Stone hoax, when the statistics themselves and the
 studies on which they were based should have raised concerns. As
 Slate's Emily Yoffe wrote in 2014, "the one- in- four assertion would
 
-TH E DE A T H O F EX P E R T I S E
-
 mean that young American college women are raped at a rate similar
 to women in Congo, where rape has been used as a weapon of war."25
 Another study central to this dire narrative later turned out to have
@@ -5732,8 +5391,6 @@ my students and friends; as a social scientist, I was bothered by a statistical
 
 Unfortunately, the media were no help. Indeed, they were a fundamental part of the problem. It is true, in fact, that veterans are killing
 themselves at higher rates in the twenty- first century than in earlier
-
-TH E " NE W" NE W JOuR N A L I S M
 
 years. But in part, that's because everybody has been killing themselves
 at higher rates— for reasons epidemiologists are still debating— and
@@ -5768,8 +5425,6 @@ others— would have taken some of the urgency out of the story.
 
 The bad reporting continued with a slew of companion stories about how suicides among military personnel in 2012 actually
 
-TH E DE A T H O F EX P E R T I S E
-
 outnumbered combat deaths. The message, of course, was that
 American soldiers were now more of a danger to themselves than the
 enemy. That's a grim picture, except for a small problem: it is statistically meaningless. The assertion that there were "more suicides than
@@ -5798,8 +5453,6 @@ helping them? I cannot, and will not, make recommendations here
 beyond hoping that younger journalists somehow acquire a background in the subject on which they write. That's generic advice and
 as far as I am willing to go in telling other professionals how to do
 their jobs. I say this while realizing fully that nothing can stop people
-
-TH E " NE W" NE W JOuR N A L I S M
 
 from cherry- picking their sources, no matter how high quality the
 information available to them.
@@ -5836,8 +5489,6 @@ I worked in national politics, I subscribed to a half- dozen journals at
 any given time, across the political spectrum. Don't be provincial: try
 media from other countries, as they often report stories or have a
 
-TH E DE A T H O F EX P E R T I S E
-
 view of which Americans are completely unaware. And don't say you
 "don't have the time." You do.
 
@@ -5868,8 +5519,6 @@ that prevents them from learning, about a college industry that
 affirms ignorance rather than cures it, about media who think their
 job is to entertain, and about journalists who are too lazy or too
 inexperienced to get their stories right. I've shaken my fist at most of
-
-TH E " NE W" NE W JOuR N A L I S M
 
 the groups I think bear a great responsibility for the death of expertise and for undermining established knowledge just when we need
 it most.
@@ -5942,8 +5591,6 @@ heart attacks, and heart attacks kill people. The conclusion was obvious: Ameri
 And so they did. Then something unexpected happened:
 Americans gained a lot of weight and started dying of other things.
 
-TH E DE A T H O F EX P E R T I S E
-
 Eggs, it turned out, weren't so bad, or at least they weren't as bad as
 other things. In 2015 the government decided that eggs were acceptable, perhaps even healthy. As the columnist (and resident of eggladen Vermont) Geoffrey Norman wrote at the time,
 
@@ -5972,8 +5619,6 @@ deepest difficulties. The Soviet economy, like any gigantic economy administered
 not go bankrupt. It may become less effective, it may stagnate, it
 may even experience an absolute decline for a year or two; but,
 like the political system, it will not collapse.4
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 A year later, Bialer won a Macarthur Foundation "genius grant." Two
 years after that, the Soviet Communist Party— obviously facing the
@@ -6006,8 +5651,6 @@ embarrassing," Professors Richard Ned Lebow and Thomas Risse
 Kappen wrote in 1995. "None of the existing theories of international relations recognized the possibility that the kind of change that
 did occur could occur."6
 
-TH E DE A T H O F EX P E R T I S E
-
 Experts get things wrong all the time. The effects of such errors
 range from mild embarrassment to wasted time and money; in rarer
 cases, they can result in death and even lead to international catastrophe. And yet experts regularly ask citizens to trust their judgment and
@@ -6039,8 +5682,6 @@ There are no fines or suspensions if things go wrong. Indeed, there
 is very little direct accountability at all, which is why laypeople
 understandably fear the influence of experts. In a democracy, elected
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 officials who may have accepted— or rejected— expert advice provide accountability, a subject to which we'll return in the next and
 last chapter. But accountability is something that happens after the
 fact. It might be morally satisfying to hold someone responsible,
@@ -6068,8 +5709,6 @@ why the first US attempt to launch a satellite ended in a gigantic
 explosion on the launch pad. It's why top experts in foreign policy
 assumed for decades that the peaceful reunification of Germany was
 unlikely but then had to reconsider their views as celebratory fireworks filled the skies over a free Berlin.
-
-TH E DE A T H O F EX P E R T I S E
 
 Science is also learning by doing. The United States invented the
 nuclear bomb in 1945, but it took another decade of exploding test
@@ -6099,8 +5738,6 @@ risk of ovarian cancer— but apparently some kinds of birth control pills do ex
 oral contraceptives have risks; for others, the same pills might
 extend their lives. Of course, if birth control pills only increased
 cancer risks, we'd be lamenting yet another failure of science, but
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 this positive side effect was just as unknown as many others a half
 century ago.
@@ -6136,8 +5773,6 @@ In other cases, the boundaries are less clear, and the issue is not
 expertise but relative expertise. A biologist is not a medical doctor,
 but in general terms, a biologist is likely to be relatively better able to
 
-TH E DE A T H O F EX P E R T I S E
-
 understand medical issues than a layperson. Still, this does not mean
 that anyone in the life sciences is always better informed than anyone
 else on any issue in that area. A diligent person who has taken the
@@ -6168,8 +5803,6 @@ This most extreme category is the easiest to deal with, so we will
 
 start there.
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 WHEN EXPERTS GO BAD
 
 The early twenty- first century has seen some rough years for scientists. Retractions from scientific journals have reached record proportions. Cases of fraud or misconduct now seem almost routine.
@@ -6196,8 +5829,6 @@ to scrutinize their records.
 When actual experts lie, they endanger not only their own profession but also the well- being of their client: society. Their threat to
 expertise comes in both the immediate outcome of their chicanery
 and the erosion of social trust such misconduct creates when it is discovered. This is why (aside from any legal sanctions that may exist for
-
-TH E DE A T H O F EX P E R T I S E
 
 lying and fraud) professional organizations, scholarly foundations,
 think tanks, journals, and universities reserve some of their harshest
@@ -6229,8 +5860,6 @@ on those very grounds, arguing that his plagiarism consisted of innocent mistake
 view. But this in itself is a disturbing position: does it take calling the
 people who died in the Twin Towers "little [Adolf] Eichmanns," as
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 Churchill did, before anyone takes a close look at a professor's scholarly work? To claim that plagiarism was discovered only because the
 professor managed to draw enough attention to himself with his odious comments is not much of a defense.
 
@@ -6259,8 +5888,6 @@ disclose financial conflicts of interest, and misappropriated funds."8
 Like Ward Churchill, Wakefield's supporters argued that he was
 the victim of a witch- hunt. But discredited research is not the same as
 misconduct. For example, Peter Duesberg, one of the leading AIDS
-
-TH E DE A T H O F EX P E R T I S E
 
 denialists, remains at Berkeley despite accusations from critics that
 he engaged in academic misconduct, charges against him that his university investigated and dismissed in 2010.
@@ -6294,8 +5921,6 @@ It could be due to more people checking the results, which would
 be a heartening trend. It could also happen because more people cut
 corners to get into top journals, which would be a depressing reality.
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 It could also be an effect of publishing in a prestigious journal: with
 more readers, someone is more likely to try to use the research in
 their own work and thus catch the misconduct further down the line.
@@ -6327,8 +5952,6 @@ try to replicate the experiments.
 
 This is exactly what a team of researchers set out to do in the field
 of psychology. The results were surprising, to say the least. As the
-
-TH E DE A T H O F EX P E R T I S E
 
 New York Times reported in 2015, a "painstaking" effort to reproduce
 100 studies published in three leading psychology journals found
@@ -6363,8 +5986,6 @@ further analysis.
 Are the natural sciences, then, just catching more of their own
 shoddy or faked work than the social sciences? Perhaps not. When
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 cancer researchers tried to replicate studies in their field, they ran into
 the same problems as the psychologists and others. Daniel Engber, a
 writer for Slate.com, reported in 2016 on a group of biomedical studies that suggested a "replication crisis" much like the one in psychology, and he noted that by some estimates "fully half of all results rest
@@ -6394,8 +6015,6 @@ examining the outcome of the crisis is presenting an expert analysis
 of one historical case. Such a study might be full of flawed conclusions, but it is the raw material for further discussion rather than a
 case of professional malfeasance.
 
-TH E DE A T H O F EX P E R T I S E
-
 Still, there have been some remarkable cases of outright fraud
 in the social sciences and humanities. In 2000, a historian at Emory
 University named Michael Bellesiles won Columbia University's
@@ -6424,8 +6043,6 @@ and endorsements from leading conservatives, including 2012 presidential contend
 
 Like the Bellesiles gun study, Barton's work attracted considerable attention because of its political implications as well as the
 prominence of its author. The book minced no words even in its title,
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 The Jefferson Lies: Exposing the Myths You've Always Believed about
 Thomas Jefferson. Barton's book argued that modern historians not
@@ -6461,8 +6078,6 @@ rely on the outcome of any particular project, say, in cell research.
 When a group of studies is aggregated into a drug or a treatment of
 which that one study might be a part, this itself triggers successive
 
-TH E DE A T H O F EX P E R T I S E
-
 studies looking at safety and efficacy. It is possible to fake one study.
 To fake hundreds and thus produce a completely fraudulent or dangerous result is another matter entirely.
 
@@ -6489,8 +6104,6 @@ know what they're doing in almost any field.
 
 These experts are like Eric Stratton in the classic comedy Animal
 House. When he rises to defend his unruly college fraternity in
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 student court, his friends ask him if he knows what he's doing. "Take
 it easy, I'm pre- law," he assures his brothers. "I thought you were premed?" one of them asks. "What's the difference?" Stratton answers.
@@ -6523,8 +6136,6 @@ invited the actresses Jane Fonda, Sissy Spacek, and Jessica Lange to
 testify before the House Agriculture Committee on farm problems.
 Their qualification? They had played farmers' wives in three popular
 
-TH E DE A T H O F EX P E R T I S E
-
 movies of the decade. The whole business was a stunt, of course,
 and when asked why he did it, Democrat Coelho took a shot at
 Republican President Ronald Reagan: "They probably have a better
@@ -6556,8 +6167,6 @@ impact on our lives.16
 This is not harmless. People are actually reluctant to vaccinate their
 children because of advice given by the actress Jenny McCarthy, a
 Playboy pinup who says she studied it all deeply at the "University of
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 Google." More people will see Paltrow and McCarthy and be exposed
 to their inane ideas than will ever see— or have the patience to listen
@@ -6592,8 +6201,6 @@ In fact, Pauling failed to apply the scientific standards of his own
 profession at the very start of his advocacy for vitamins. He began
 taking Vitamin C in the late 1960s on the advice of a self- proclaimed
 
-TH E DE A T H O F EX P E R T I S E
-
 doctor named Irwin Stone, who told Pauling that if he took three
 thousand milligrams of C a day— fifty times the recommended daily
 amount— that he would live twenty- five years longer. "Doctor" Stone's
@@ -6626,8 +6233,6 @@ and strokes. Pauling, in the end, hurt not only his own reputation
 but also the health of potentially millions of people. As Offit put it, a
 "man who was so spectacularly right that he won two Nobel Prizes"
 was "so spectacularly wrong that he was arguably the world's greatest
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 quack." To this day, there are people who still think a vitamin- laden
 horse pill can ward off illness, despite the fact that science worked
@@ -6664,8 +6269,6 @@ by her own recollection, stemmed from reading Nevil Shute's 1956
 postapocalyptic novel On the Beach (which was set in her native
 country). As she later put it, she saw no point in treating children
 
-TH E DE A T H O F EX P E R T I S E
-
 for their illnesses when the world around them could be reduced to
 ashes at any moment. In short order, she became a prominent voice
 in debates on arms control and nuclear policy, despite her almost
@@ -6701,8 +6304,6 @@ foreign policy. His professorial post at MIT, however, was actually as
 a professor of linguistics. Chomsky is regarded as a pioneer, even a
 giant, in his own field, but he is no more an expert in foreign policy
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 than, say, the late George Kennan was in the origins of human language. Nonetheless, he is more famous among the general public for
 his writings on politics than in his area of expertise; indeed, I have
 often encountered college students over the years who are familiar
@@ -6735,8 +6336,6 @@ have made plain that I have no particular knowledge in the matter
 at hand. It is an odd feeling indeed to assure a reporter, or especially
 a student, that despite their faith in me, it would be irresponsible of
 
-TH E DE A T H O F EX P E R T I S E
-
 me to answer their question with any pretense of authority. It is an
 uncomfortable admission, but one we can only wish linguistics professors, pediatricians, and so many others would make as well.
 
@@ -6768,8 +6367,6 @@ would expect. When unpredictable things happen, scientists have a
 new starting point for investigation. As the late science- fiction writer
 (and professor of biochemistry) Isaac Asimov said, the words that
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 have spurred the greatest scientific breakthroughs are probably not
 "Eureka," but "Gee, that's funny."
 
@@ -6798,8 +6395,6 @@ changes were making accurate polling a more challenging endeavor.
 well," the polling expert Barbara Carvalho told FiveThirtyEight (itself
 a site dedicated to polling). But the pollster Matthew Towery admitted in 2015 that, "obviously, there were several high- profile calamities
 in the past three years."21
-
-TH E DE A T H O F EX P E R T I S E
 
 The problem here is not so much with polling— whose accuracy
 is limited by the involvement of actual human beings— as it is with
@@ -6831,8 +6426,6 @@ out of a thousand," [Harvard professor Stephen] Walt says.
 
 Walt also isn't impressed by [the] C.I.A.  study showing
 Bueno de Mesquita's 90  percent hit rate. "It's one midlevel
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 C.I.A.  bureaucrat saying, 'This was a useful tool,' " Walt says.
 "It's not like he's got Brent Scowcroft saying, 'Back in the Bush
@@ -6866,8 +6459,6 @@ produce 30- year projections of social security deficits and oil
 prices without realizing that we cannot even predict these for
 next summer— our cumulative prediction errors for political
 
-TH E DE A T H O F EX P E R T I S E
-
 and economic events are so monstrous that every time I look at
 the empirical record I have to pinch myself to verify that I am
 not dreaming.23
@@ -6900,8 +6491,6 @@ Tetlock, in fact, did not measure experts against everyone in the
 world, but against basic benchmarks, especially the predictions of
 other experts. The question wasn't whether experts were no better
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 than anyone else at prediction, but why some experts seemed better at
 prediction than others, which is a very different question. Or as James
 Surowiecki (the "wisdom of crowds" writer) pointed out, saying that
@@ -6931,8 +6520,6 @@ Tetlock found, "prevented them from building up the sorts of excessive enthusias
 Technical experts, the very embodiment of the hedgehogs, had
 considerable trouble not only with prediction but with broadening their ability to process information outside their area in general.
 People with a very well- defined area of knowledge do not have many
-
-TH E DE A T H O F EX P E R T I S E
 
 tools beyond their specialization, so their instinct is to take what
 they know and generalize it outward, no matter how poorly the fit is
@@ -6964,8 +6551,6 @@ Predictive failure, however, does not retroactively strip experts
 of their claim to know more than laypeople. Laypeople should not
 jump to the assumption that a missed call by the experts therefore
 means all opinions are equally valid (or equally worthless). The polling expert Nate Silver, who made his reputation with remarkably
-
-WH E N T H E EX P E R T S AR E  WR O N G
 
 accurate forecasts in the 2008 and 2012 presidential elections, has
 since admitted that his predictions about Republican presidential
@@ -6999,8 +6584,6 @@ entirely.
 Given my own background in Russian studies, an alert reader
 at this point might be wondering if I was part of the community of
 Soviet experts who got it wrong, and whether I am just throwing spitballs from the back of the classroom. It's a fair question.
-
-TH E DE A T H O F EX P E R T I S E
 
 I did not get the Soviet collapse wrong— but only because I never
 had the chance to be wrong in the first place. I  finished graduate
@@ -7037,8 +6620,6 @@ person would be in over his or her head trying to explain the complexity of Russ
 on the subject. Why I and others were wrong is an important
 question, not least because it forces us to revisit our assumptions
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 and engage in the debate and self- correction that is the duty of an
 expert community. A great many people were pessimistic about
 Putin, but some of that was no more than reflexive Russophobia
@@ -7066,8 +6647,6 @@ This is where public intellectuals, the people who can bridge the
 gap between experts and laypeople, might shoulder more responsibility. The public is poorly served if the only people talking about a
 new medical treatment are doctors who have a hard time translating their knowledge into basic English (and who may be invested in
 a position), or journalists who have no scientific background cannot evaluate complicated scientific claims. This leaves a wide open
-
-TH E DE A T H O F EX P E R T I S E
 
 space— usually on the Internet— for amateurs, hucksters, charlatans,
 and conspiracy theorists.
@@ -7103,8 +6682,6 @@ experts to whom they listen.
 
 If a layperson really wants to believe that Vitamin C can cure cancer, experts with sterling records of research and prediction will have
 
-WH E N T H E EX P E R T S AR E  WR O N G
-
 less effect than a website with a picture of a pill on it. If an uninformed
 citizen really believes that invading a foreign country (or building a
 wall with one) will solve America's problems, reams of expert writings will not matter to them. Laypeople must take more responsibility for their own knowledge, or lack of it: it is no excuse to claim
@@ -7135,8 +6712,6 @@ Politicians, from city councils up through the White House, have the
 final say on many of the most important decisions in our lives, from
 drugs to deterrence. If laypeople refuse to take their duties as citizens
 seriously, and do not educate themselves about issues important to
-
-TH E DE A T H O F EX P E R T I S E
 
 them, democracy will mutate into technocracy. The rule of experts,
 so feared by laypeople, will grow by default.
@@ -7180,8 +6755,6 @@ But as an American writer and foreign policy expert, James Traub,
 later noted about Gove's sniping,
 
 The word "expert" is, of course, the pejorative term for someone who knows what he or she is talking about— like Gove,
-
-TH E DE A T H O F EX P E R T I S E
 
 I  imagine, who graduated from Oxford and spent years as a
 minister in Conservative Party governments. What Gove was
@@ -7245,8 +6818,6 @@ nuclear triad, the massive arsenal that would be at his disposal as
 president of the United States, Trump said, "We have to be extremely
 vigilant and extremely careful when it comes to nuclear. Nuclear
 
-TH E DE A T H O F EX P E R T I S E
-
 changes the whole ballgame." Pressed about what he meant, he
 added, "I think— I think, for me, nuclear is just the power, the devastation is very important to me."
 
@@ -7279,8 +6850,6 @@ My take would be that it's the other way around. Not seeing the
 mistakes for what they are allows any potential narcissism and
 egotism to expand unchecked.
 
-CO N C LuS I O N
-
 In voters, lack of expertise would be lamentable but perhaps
 not so worrisome if people had some sense of how imperfect
 their civic knowledge is. If they did, they could repair it. But the
@@ -7310,8 +6879,6 @@ to accept a deal with Iran on its nuclear weapons program, Deputy
 National Security Adviser Ben Rhodes told the New  York Times
 Magazine that the administration knew it would have to "discourse
 the [expletive] out of this."
-
-TH E DE A T H O F EX P E R T I S E
 
 Rhodes gave the interview to a Times reporter, David Samuels,
 whose own objectivity (on the Iran deal as well as about some of
@@ -7344,8 +6911,6 @@ reporter we talk to is 27 years old, and their only reporting experience
 consists of being around political campaigns," Rhodes said. "That's a
 sea change. They literally know nothing."
 
-CO N C LuS I O N
-
 Rhodes's implication was clear. Not only did he think the public was too stupid to understand the deal— which was not wrong,
 although Rhodes did nothing to make them any smarter— but that
 everyone else, including Congress, was too stupid to get it as well.
@@ -7377,8 +6942,6 @@ experts to do their best in serving their clients, to respect their own
 boundaries, and to demand their boundaries be respected by others,
 as part of an overall service to the ultimate client: society itself.
 
-TH E DE A T H O F EX P E R T I S E
-
 Dictatorships, too, demand this same service of experts, but they
 extract it by threat and direct its use by command. This is why dictatorships are less efficient and less productive than democracies, despite
 the historical myths many Americans continue to believe about the
@@ -7409,8 +6972,6 @@ aspect of the American march toward ignorance is "not lack of knowledge per se b
 The problem is not just the things we do not know (consider the
 one in five American adults who, according to the National Science
 
-CO N C LuS I O N
-
 Foundation, thinks the sun revolves around the Earth); it's the
 alarming number of Americans who have smugly concluded that
 they do not need to know such things in the first place… . The
@@ -7438,8 +6999,6 @@ policies that affect their lives. This is a collapse of functional citizenship, 
 
 In the absence of informed citizens, for example, more knowledgeable administrative and intellectual elites do in fact take over the daily
 direction of the state and society. In a passage often cited by Western
-
-TH E DE A T H O F EX P E R T I S E
 
 conservatives and especially loved by American libertarians, the
 Austrian economist F. A. Hayek wrote in 1960: "The greatest danger to
@@ -7470,8 +7029,6 @@ politicians, and bureaucrats for seizing control of their lives.
 THE KNOWERS AND THE DECIDERS
 
 This underscores another problem motivating the death spiral in which democracy and expertise are caught:  citizens do not
-
-CO N C LuS I O N
 
 understand, or do not choose to understand, the difference between
 experts and elected policymakers. For many Americans, all elites are
@@ -7504,8 +7061,6 @@ American soldiers who died there, not to mention the millions of
 Vietnamese."13 But as Thomas points out, those same experts and
 elites "strengthened a world order balanced precariously on the edge
 
-TH E DE A T H O F EX P E R T I S E
-
 of nuclear war. They expanded trade, deepened alliances and underwrote billions in foreign aid."
 
 None of these policies would have been popular in and of themselves, but they helped the United States and the West to survive the
@@ -7537,8 +7092,6 @@ mortals who actually run for office— are a blight on the republic.
 Like some invasive species, they infest present- day Washington,
 where their presence strangles common sense and has brought
 to the verge of extinction the simple ability to perceive reality.
-
-CO N C LuS I O N
 
 A  benign appearance— well- dressed types testifying before
 Congress, pontificating in print and on TV, or even filling key
@@ -7575,8 +7128,6 @@ acknowledges the many barriers to such solutions.
 The most daunting barrier, however, is the public's own laziness.
 None of these efforts to track and grade experts will matter very
 
-TH E DE A T H O F EX P E R T I S E
-
 much if ordinary citizens do not care enough to develop even a basic
 interest in such matters. Tetlock points out that laypeople, unfortunately, are not usually interested in finding experts with excellent
 track records:  they are mostly interested in experts who are accessible without much effort and who already agree with their views.
@@ -7607,8 +7158,6 @@ First, experts are not puppeteers. They cannot control when leaders take their a
 elected politician and an expert adviser, there is not a complete fusing
 of beliefs. Whether Nixon and Kissinger— or Obama and Rhodes—
 no leader is merely the vessel by which experts implement ideas.
-
-CO N C LuS I O N
 
 Any expert worth his or her salt has stories of defeat in the policy game. I was many years ago an aide to a senior US senator who
 treated me as a trusted adviser but who also once threw me out of his
@@ -7641,8 +7190,6 @@ whole project comes to fruition.
 Fourth, experts cannot control how much of their advice leaders will take. Experts can offer advice, but often political leaders will
 often hear only the parts they want to hear— specifically, the parts
 that will be popular with their respective constituencies. They will
-
-TH E DE A T H O F EX P E R T I S E
 
 then mobilize experts that emphasize the message they prefer. Some
 experts might, for example, advocate cutting taxes; others might call
@@ -7677,8 +7224,6 @@ engage those issues and decide what they value most, and therefore
 what they want done. Letting Boston slide into the harbor is not my
 preferred outcome, but it is not a failure of expertise if people ignore the
 
-CO N C LuS I O N
-
 experts and let it happen anyway: it is instead a failure of civic engagement. If Boston is to become Venice, it should be by choice, not by accident. When voters remain utterly unwilling to understand important
 issues because they are too difficult or discomfiting, it is unsurprising
 that experts will give up talking to them and instead rely on their positions in the policy world to advocate for their own solutions.
@@ -7705,8 +7250,6 @@ A REPuBLIC, IF YOu KNOW WHAT ONE IS
 
 The challenges of expert accountability are compounded by the fact
 that most Americans do not seem to understand their own system
-
-TH E DE A T H O F EX P E R T I S E
 
 of government. The United States is a republic, not a democracy.
 One hardly ever hears the word "republic" anymore, which reveals,
@@ -7740,8 +7283,6 @@ don't have a centralized leadership structure and clear lines of
 authority, they have real difficulty reaching consensus and setting goals. They can't think strategically; they are chronically
 prone to conflict and error.
 
-CO N C LuS I O N
-
 How do you make difficult choices about tactics or strategy
 
 or philosophical direction when everyone has an equal say?16
@@ -7773,8 +7314,6 @@ conducted by those least capable of supplanting that system. The most
 poorly informed people among us are those who seem to be the most
 dismissive of experts and are demanding the greatest say in matters
 about which they have exerted almost no effort to educate themselves.
-
-TH E DE A T H O F EX P E R T I S E
 
 Consider the fact that people change what they say they want
 based on who they think is advocating a position. The comedian
@@ -7808,8 +7347,6 @@ policies were those of Donald Trump. Democrats, for their part, went
 in the other direction: they were less supportive of their own party's
 policies if they thought they were Trump's positions.
 
-CO N C LuS I O N
-
 At least tax policy and health care are real issues with real positions attached to them. In 2015, Public Policy Polling, a liberal polling
 group, asked both Republicans and Democrats whether they would
 support bombing the country of Agrabah. Nearly a third of Republican
@@ -7835,8 +7372,6 @@ Government action is guided in part by public opinion. Public
 opinion is guided in part by perceptions of what experts think. But
 public opinion may— and often does— deviate from expert opinion, not simply, it seems, because the public refuses to acknowledge the legitimacy of experts, but also because the public may not
 be able to tell where the majority of expert opinion lies.21
-
-TH E DE A T H O F EX P E R T I S E
 
 This
 
@@ -7876,8 +7411,6 @@ well as the ignorant, the involved and the detached.
 The breakdown of trust between the public, experts, and elected
 officials in a republic goes in all directions. The public, especially,
 
-CO N C LuS I O N
-
 needs to be able to trust leaders and their expert advisers. This relationship becomes impossible to sustain, however, when laypeople
 have no idea what they're talking about or what they want.
 
@@ -7910,8 +7443,6 @@ democracy itself. This, perhaps more than anything, has corroded the
 relationship between experts and citizens. The relationship between
 experts and citizens is not "democratic." All people are not, and can
 
-TH E DE A T H O F EX P E R T I S E
-
 never be, equally talented or intelligent. Democratic societies, however, are always tempted to this resentful insistence on equality,
 which becomes oppressive ignorance if given its head.
 
@@ -7942,8 +7473,6 @@ wresting it away from its noble meaning.
 nose," Screwtape gleefully advises the graduates, and he then promises that by use of the word "purely as an incantation," human beings
 can be fooled not only into believing an obvious lie, but led to
 nurture that lie as a cherished feeling:
-
-CO N C LuS I O N
 
 The feeling I mean is of course that which prompts a man to say
 I'm as good as you.
@@ -7982,8 +7511,6 @@ on an atlas is a triumph of egalitarianism.
 Democracy, as practiced in the United States in the early twentyfirst century, has become a resentful, angry business. The fragile egos
 of narcissistic college students jostle against the outraged, wounded
 
-TH E DE A T H O F EX P E R T I S E
-
 self- identity of talk- radio addicts, all of whom demand to be taken
 with equal seriousness by everyone else, regardless of how extreme
 or uninformed their views are. Experts are derided as elitists, one of
@@ -8013,8 +7540,6 @@ Faced with the public's resolute ignorance, experts are defeated.
 aren't the public and we don't know how to school the public." A Yale
 professor, Dan Kahan, was more pessimistic:  "Bombarding people
 
-CO N C LuS I O N
-
 with knowledge doesn't help," he said in 2015. "It doesn't do anything to explain things to people, but here I am just explaining the
 facts over and over again. Maybe the joke's on me."25
 
@@ -8042,8 +7567,6 @@ humorous recent example, in 2015, Kimmel— yet again— ran a satirical public 
 in expletive- filled rants against recalcitrant patients who feared vaccinations. "Remember that time you got polio?" asked one of the
 physicians. "No, you don't. Because your parents got you [expletive]
 vaccinated." Another said, "I have to use my only day off to talk to you
-
-TH E DE A T H O F EX P E R T I S E
 
 idiots about vaccines?" as another chimed in: "Because you listened
 to some moron who read a forwarded email?"
@@ -8077,8 +7600,6 @@ West and in the United States required democracy and secular tolerance. Without 
 ideological, religious, and populist attacks. Nations that have given
 in to such temptations have suffered any number of terrible fates,
 
-CO N C LuS I O N
-
 including mass repression, cultural and material poverty, and defeat
 in war.
 
@@ -8110,8 +7631,6 @@ precious democracy from its own destabilizing excesses.27
 
 Democracy, as Lewis's Screwtape knew, denotes a system of government, not an actual state of equality. Every single vote in a democracy
 is equal to every other, but every single opinion is not, and the sooner
-
-TH E DE A T H O F EX P E R T I S E
 
 American society reestablishes new ground rules for productive
 engagement between the educated elite and the society they serve,

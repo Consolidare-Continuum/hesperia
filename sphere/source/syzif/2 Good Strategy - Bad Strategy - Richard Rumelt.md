@@ -1,4 +1,3 @@
-
 Praise for Good Strategy/Bad Strategy
 
 "Rumelt's new book clearly elevates the discussion of strategy. Using

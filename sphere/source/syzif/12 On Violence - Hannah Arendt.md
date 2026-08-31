@@ -1,4 +1,3 @@
-
 Hannah Arendt
 
 ON VIOLENCE
@@ -38,8 +37,6 @@ LMNOPQR
 For Mary
 
 in Friendship
-
-I
 
 T H E S E R E F L E CT I O N S were provoked by the
 events and debates of the last few years as seen against
@@ -1127,8 +1124,6 @@ tically and therefore predictably.
 
 8 1
 
-II
-
 I T I S against the background of these experiences that
 I propose to raise the question of violence in the political
 realm. This is not easy; what Sorel remarked sixty years
@@ -1972,8 +1967,6 @@ violence with evil ; I only want to stress that violence
 cannot be derived from its opposite, which is power, and
 that in order to understand it for what it is, we shall have
 to examine its roots and nature.
-
-III
 
 T 0 S P E A K about the nature and causes of violence in
 these terms must appear presumptuous at a moment when
@@ -3058,7 +3051,7 @@ exorable laws, compelling us to do whatever we can,
 regardless of consequences. Have the 1-will and the l-ean
 parted company? Was Valery right when he said fifty years
 ago: "On peut dire que tout ce que nous savons, c'est-a­
-dire tout ce que nous pouvons, a fi n i par s'opposer a ce
+dire tout ce que nous pouvons, a fin i par s'opposer a ce
 
 q u e nous so m m es"? ("One can say that all we know, that
 is, all we have the power to do, has finally turned against

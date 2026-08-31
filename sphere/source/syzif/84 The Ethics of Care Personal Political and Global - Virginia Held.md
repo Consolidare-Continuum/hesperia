@@ -39,7 +39,7 @@ Japan Poland Portugal
 
 Italy
 
-Copyright (cid:1) 2006 by Oxford University Press, Inc.
+Copyright 2006 by Oxford University Press, Inc.
 
 Published by Oxford University Press, Inc.
 198 Madison Avenue, New York, New York 10016
@@ -82,8 +82,6 @@ on acid-free paper
 For my grandchildren
 
 Alexander, Owen, Madeleine, Kailey, and Nicolas
-
-This page intentionally left blank
 
 Acknowledgments
 
@@ -172,11 +170,7 @@ Notes
 Bibliography
 Index
 
-This page intentionally left blank
-
 THE ETHICS OF CARE
-
-This page intentionally left blank
 
 Introduction
 
@@ -272,15 +266,9 @@ recommend what we ought to do. The ethics of care still has many weaknesses
 and lacunae, but its development is an ongoing, cooperative project. With this
 book I hope to contribute to its further improvement.
 
-This page intentionally left blank
-
 P A R T
 
-I
-
 CARE AND MORAL THEORY
-
-This page intentionally left blank
 
 The Ethics of Care as Moral Theory
 
@@ -4668,11 +4656,7 @@ satisfactory model within which to locate more familiar components.
 
 P A R T
 
-II
-
 CARE AND SOCIETY
-
-This page intentionally left blank
 
 Care and the Extension of Markets
 

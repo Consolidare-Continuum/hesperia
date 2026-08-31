@@ -1,4 +1,3 @@
-
 The Sciences of the Artificial
 
 Third edition
@@ -1577,8 +1576,6 @@ Economics (London: Macmillan Press, 1987), v. 2, pp. 69 74, under the title of "
 and the Hypothesis of Rationality," shows that to preserve the Pareto optimality properties of
 markets when there is uncertainty
 
-(footnote continued on next page)
-
 Expectations
 
 A system can generally be steered more accurately if it uses feed forward, based
@@ -1614,8 +1611,6 @@ The difficulties raised by mutual expectations appear wherever markets are not
 perfectly competitive. In perfect competition, each firm assumes that market
 prices cannot be affected by their actions: prices are as much a part of the
 external environment as are the laws of the physical world.
-
-(footnote continued from previous page)
 
 about the future, we must impose information and computational requirements on economic actors
 that are exceedingly burdensome and unrealistic.
@@ -4378,8 +4373,6 @@ theme in Karl Taylor Compton's presidential inaugural address at MIT in 1930:
 I hope . . . that increasing attention in the Institute may be given to the fundamental sciences; that they
 may achieve as never before the spirit and results of re-
 
-(footnote continued on next page)
-
 satisfactory. The older kind of professional school did not know how to educate
 for professional design at an intellectual level appropriate to a university; the
 newer kind of school nearly abdicated responsibility for training in the core
@@ -4410,8 +4403,6 @@ first edition of this book, published in 1969, was influential in its developmen
 serving as a call to action and outlining the form that the action could take. At
 Carnegie Mellon University, one of the first engineering schools to move toward
 research on the process of design, the
-
-(footnote continued from previous page)
 
 search; that all courses of instruction may be examined carefully to see where training in details has
 been unduly emphasized at the expense of the more powerful training in all-embracing fundamental
@@ -6864,8 +6855,6 @@ Press, 1975).
 15. A. W. Burks (ed.), Essays on Cellular Automata (Champaign-Urbana: University of Illinois Press,
 1970); C. G. Langton (ed.), Artificial Life. Santa Fe Insti-
 
-(footnote continued on next page)
-
 symbolic objects of various kinds and apply rules for their replication or
 destruction as a function of their environments (which include other nearby
 objects). With appropriate selection of the system parameters, such simulations
@@ -6893,8 +6882,6 @@ just what is happening, with chaos, genetic algorithms, cellular automata,
 catastrophe, and hierarchical systems serving as some of the currently visible
 focal points. In the next chapter we will examine the last-named of these more
 closely.
-
-(footnote continued from previous page)
 
 tute Studies in the Sciences of Complexity, Proceedings, vol. 6 (Redwood City, CA: Addison-
 Wesley; 1989); C. G. Langton, C. Taylor, J. D. Farmer and S. Rassmussen (eds.), Artificial Life II.
@@ -7364,8 +7351,6 @@ correct combination is involved in the former case, while in the latter the part
 order. It is not clear which of these metaphors provides the better model for biological evolution, but we
 may be sure that the watchmaker's
 
-(footnote continued on next page)
-
 A considerable amount has been learned in the past thirty years about the nature
 of the mazes that represent common human problem-solving tasks proving
 theorems, solving puzzles, playing chess, making investments, balancing
@@ -7396,8 +7381,6 @@ evolution and provides the selectivity that is essential to account for its rapi
 
 The second source of selectivity in problem solving is previous experience. We
 see this particularly clearly when the problem to be solved is
-
-(footnote continued from previous page)
 
 metaphor gives an exceedingly conservative estimate of the savings due to hierarchization. The safe
 may give an excessively high estimate because it assumes all possible arrangements of the elements
@@ -7936,10 +7919,6 @@ economically. Suppose the system is a two-dimensional array like this:
 
 A
 
-C
-
-M
-
 O
 
 R
@@ -7951,8 +7930,6 @@ H
 J
 
 B
-
-D
 
 N
 
@@ -7962,17 +7939,11 @@ S
 
 U
 
-I
-
 K
-
-M
 
 O
 
 A
-
-C
 
 H
 
@@ -7987,10 +7958,6 @@ N
 P
 
 B
-
-D
-
-I
 
 K
 
@@ -8008,23 +7975,15 @@ J
 
 A
 
-C
-
-M
-
 O
 
 S
 
 U
 
-I
-
 K
 
 B
-
-D
 
 N
 
@@ -8038,15 +7997,9 @@ R
 
 T
 
-M
-
 O
 
 A
-
-C
-
-I
 
 K
 
@@ -8059,8 +8012,6 @@ N
 P
 
 B
-
-D
 
 Let us call the array
 
@@ -8414,8 +8365,6 @@ Bartlett, F., 54, 62
 
 Baylor, George W., 127
 
-D
-
 Becker, Gary S., 164
 
 Berliner, Hans, 90
@@ -8435,8 +8384,6 @@ Bugelski, B. R., 65
 Burks, A. W., 180
 
 Bush, Vannevar, 166
-
-C
 
 Carson, Daniel F., 21
 
@@ -8507,8 +8454,6 @@ G
 
 H
 
-I
-
 J
 
 K
@@ -8572,8 +8517,6 @@ Gordon, I. I., 177
 Grason, John, xiii, 129
 
 Greenberg, Joseph H., 76
-
-L
 
 Gregg, Lee W., xiii, 59, 64, 69,
 70, 71
@@ -8679,13 +8622,9 @@ Lucas, R. E., 38
 
 Luce, R. D., 37
 
-M
-
 Madison, James, 140
 
 Maier, A. G., 177
-
-V
 
 W
 
@@ -9152,8 +9091,6 @@ like computers, 41
 
 Competition, 38
 
-C
-
 Catastrophe, 174
 
 imperfect, 37
@@ -9269,8 +9206,6 @@ and general systems theory,
 172-174
 
 of evolutionary processes, 180-
-
-D
 
 Computers, 14, 21, 23, 27, 55,
 
@@ -9658,8 +9593,6 @@ Happiness, human, 29, 160
 Heuristic search, 20, 27-28, 48,
 87, 106, 134, 194, 195-196
 
-I
-
 selectivity in, 194, 195-196
 
 Hierarchic description, 214
@@ -9768,8 +9701,6 @@ limited, 45, 177
 
 Information superhighway, 144
 
-L
-
 Learning programs, 86, 102-
 
 Levels, of explanation. See also
@@ -9836,8 +9767,6 @@ modal, 115, 117
 through pictures, 78-79
 
 Logical inference problems, 86
-
-M
 
 Magic square, 131-132
 
@@ -10651,8 +10580,6 @@ Time perspectives, changes in,
 
 Time, for fixation. See Fixation
 time
-
-V
 
 Tower of Hanoi puzzle, 85,
 

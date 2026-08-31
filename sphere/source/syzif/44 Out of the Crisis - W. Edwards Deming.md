@@ -1,4 +1,3 @@
-
 First MIT Press edition, 2000
 
 Originally published in 1982 by Massachusetts Institute of Technology, Center for
@@ -54,12 +53,8 @@ The MIT Press
 Cambridge, Massachusetts
 London, England
 
-OceanofPDF.com
-
 OUT OF
 THE CRISIS
-
-OceanofPDF.com
 
 Other works by W. Edwards Deming
 published by MIT/CAES
@@ -68,8 +63,6 @@ THE NEW ECONOMICS
 FOR INDUSTRY, GOVERNMENT, EDUCATION
 
 THE DEMING VIDEOTAPES
-
-OceanofPDF.com
 
 Contents
 
@@ -123,8 +116,6 @@ and Final Product
 
 Index
 
-OceanofPDF.com
-
 About the Author
 
 industry
@@ -154,8 +145,6 @@ Engineering, and has been awarded the doctorates LL.D. or Sc.D. honoris
 causa by the University of Wyoming, Rivier College, Ohio State
 University, University of Maryland, Clarkson College of Technology, and
 the George Washington University.
-
-OceanofPDF.com
 
 Preface
 
@@ -282,8 +271,6 @@ of business are offering courses in the transformation of the American style
 of management, based on notes for seminars conducted during the past few
 years.
 
-OceanofPDF.com
-
 Acknowledgments
 
 I am thankful for unusual privileges to work as apprentice to a number of
@@ -323,12 +310,8 @@ on scribblings written on my lap on aeroplanes one version after another of
 notes to use as text for my seminars, and finally for this book as the reader
 finds it.
 
-OceanofPDF.com
-
 OUT OF
 THE CRISIS
-
-OceanofPDF.com
 
 Chain Reaction: Quality, Productivity, Lower Costs,
 Capture the Market
@@ -878,8 +861,6 @@ provided further help on history. JUSE is the telegraphic code for the Union of 
 and Engineering, Tokyo. See the Appendix.
 
 3 A. V. Feigenbaum. "Quality and productivity," Quality Progress, November 1977.
-
-OceanofPDF.com
 
 Principles for Transformation of Western Management
 
@@ -3747,8 +3728,6 @@ service as well are one of a kind. I am indebted to him also for some of the exa
 
 section.
 
-OceanofPDF.com
-
 Diseases and Obstacles
 
 My people are destroyed for lack of knowledge.—Hosea 4:6.
@@ -5545,8 +5524,6 @@ section.
 
 Tsurumi and to the publishers of The Dial.
 
-OceanofPDF.com
-
 When? How Long?
 
 Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be
@@ -5771,8 +5748,6 @@ Actually, the problem will solve itself. The only survivors will be
 companies with constancy of purpose for quality, productivity, and service.
 
 Edward Jay Epstein, "Have you ever tried to sell a diamond?" Atlantic, February 1982, pp. 23–34.
-
-OceanofPDF.com
 
 Questions to Help Managers
 
@@ -6253,8 +6228,6 @@ The list of questions for the Deming Application Prize, page 188 in
 the book, Kaoru Ishikawa, What Is Total Quality Control? (Prentice-
 
 Hall, 1985), may be a helpful extension here.
-
-OceanofPDF.com
 
 Quality and the Consumer
 
@@ -6756,8 +6729,6 @@ Mathematics (Tokyo), vol. 16 (1964), p. 216.
 Quality Control (Graduate School Department of Agriculture, Washington, 1939; Dover, 1986), p.
 
 45.
-
-OceanofPDF.com
 
 Quality and Productivity in Service Organizations
 
@@ -8935,8 +8906,6 @@ numerous types of studies.
 
 12 The existence of this list was called to my attention by Paul T. Hertz and Miss Debra Levine.
 
-OceanofPDF.com
-
 Some New Principles of Training and Leadership
 
 Understanding is a wellspring of life unto him that hath it; but the instruction of fools is
@@ -9723,8 +9692,6 @@ Control (Graduate School, Department of Agriculture, Washington, 1939; Dover, 19
 
 (Wiley, 1960), Ch. 13.
 
-OceanofPDF.com
-
 Operational Definitions, Conformance, Performance
 
 I may express the opinion that some of the published explanations are more remarkable
@@ -10418,8 +10385,6 @@ Richards, The Meaning of Meaning (Harcourt, Brace, 1956).
 
 8 W. Edwards Deming, Sample Design in Business Research (Wiley, 1960), p. 54.
 
-OceanofPDF.com
-
 Standards and Regulations
 
 Some man holdeth his tongue because he hath not to answer; and some keepeth silence
@@ -10807,8 +10772,6 @@ Union Technique d'Electricite in Paris.
 4 George A. Codding, The Universal Postal Union (New York University Press, 1964).
 
 5 Taken from William G. Ouchi, The M-form Society (Addison-Wesley, 1984), p. 32.
-
-OceanofPDF.com
 
 Common Causes and Special Causes of Improvement.
 Stable System.
@@ -12891,8 +12854,6 @@ kindly introduced it in a seminar there.
 
 number of books. I have omitted these books from the titles shown at the end of this chapter.
 
-OceanofPDF.com
-
 More Examples of Improvement Downstream
 
 For in much wisdom is great grief; and he that increaseth knowledge increaseth sorrow.—
@@ -13357,8 +13318,6 @@ people and with no new equipment.
 
 2 I have borrowed this example from an unpublished paper written by my friend David S. Chambers.
 
-OceanofPDF.com
-
 Some Disappointments in Great Ideas
 
 The aim is admirable, but the method is madness.—Attributed to the (Republican) minority
@@ -13641,8 +13600,6 @@ design of product where possible injury or loss of life is at risk.
 edited by Elmer L. Struening and Marcia Guttentag (Sage Publications, Beverly Hills, Calif.,
 
 1975), pp. 53–68.
-
-OceanofPDF.com
 
 Two Reports to Management
 
@@ -14029,8 +13986,6 @@ of the deadly diseases.
 20. You should then establish appropriate organization for improvement
 
 of quality. (Here is appended Ch. 16.)
-
-OceanofPDF.com
 
 Plan for Minimum Average Total Cost for Test of Incoming
 Materials and Final Product
@@ -15922,8 +15877,6 @@ from large lots for enumerative purposes. See W. Edwards Deming, "On probability
 
 action," American Statistication 29, no. 4 (1975): 146–152.
 
-OceanofPDF.com
-
 Organization for Improvement of Quality and Productivity
 
 Research in statistical theory and technique is necessarily mathematical, scholarly, and
@@ -16235,8 +16188,6 @@ professional statistical practice," Annals of Mathematical Statistics 36
 
 Department of Agriculture, Washington, 1939; Dover, 1986), Ch. 7.
 
-OceanofPDF.com
-
 Some Illustrations for Improvement of Living
 
 I speak no more than everyone doth know.—Gardener, in Shakespeare's Richard II, III. iv.
@@ -16460,8 +16411,6 @@ of carelessness and will live a life liable to legal tangles.
 
 1 "Three Mile Island," The New Yorker, 6 and 13 April 1981.
 
-OceanofPDF.com
-
 Appendix Transformation in Japan
 
 Do not confuse your wits with wisdom.—Tiresius to Dionysus, in Euripedes' The Bacchae.
@@ -16673,8 +16622,6 @@ employees, not fewer.
 2 Kenichi Koyanagi, "Statistical quality control in Japanese industry," report to the Congress of the
 
 American Society for Quality Control held in Syracuse, 1952.
-
-OceanofPDF.com
 
 Index
 
@@ -18250,5 +18197,3 @@ Karen ZELAN, 174
 Zero correlation, 459
 
 Zero defects, fallacy of, 22, 34, 65, 66, 141, 142, 476, 478
-
-OceanofPDF.com

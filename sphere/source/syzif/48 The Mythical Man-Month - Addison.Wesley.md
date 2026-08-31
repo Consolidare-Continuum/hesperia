@@ -1,4 +1,3 @@
-
 Photo credit: © Jerry Markatos
 
 ABOUT THE AUTHOR
@@ -26,9 +25,9 @@ ADDISON-WESLEY
 
 Boston • San Francisco * New York « Toronto « Montreal
 London « Munich * Paris e Madrid
-Capetown (cid:127) Sydney (cid:127) Tokyo
+Capetown Sydney Tokyo
 
-(cid:127) Singapore (cid:127) Mexico City
+Singapore Mexico City
 
 Cover drawing: C. R. Knight, Mural of the La Brea Tar Pits. Courtesy
 of the George C. Page Museum of La Brea Discoveries, The Natural
@@ -524,16 +523,10 @@ own. For many, the joys far outweigh the woes, and for them the
 remainder of this book will attempt to lay some boardwalks across
 the tar.
 
-The Mythical Man-Month
-
-The Mythical Man-Month
-
 Good cooking fakes time. If you are made to wait, it is to
 serve you better, and to please you.
 
 MENU OF RESTAURANT ANTOINE. NEW ORLEANS
-
-The Mythical Man-Month
 
 More software projects have gone awry for lack of calendar time
 than for all other causes combined. Why is this cause of disaster
@@ -615,8 +608,6 @@ In a single task, the assumption that all will go well has a
 
 probabilistic effect on the schedule. It might indeed go as
 
-The Mythical Man-Month
-
 for there is a probability distribution for the delay that will be
 encountered, and "no delay" has a finite probability. A large programming effort, however, consists of many tasks, some chained
 end-to-end. The probability that each will go well becomes vanishingly small.
@@ -650,8 +641,6 @@ In tasks that can be partitioned but which require communication among the subta
 added to the amount of work to be done. Therefore the best that
 can be done is somewhat poorer than an even trade of men for
 months (.3).
-
-The Mythical Man-Month
 
 Men
 
@@ -691,8 +680,6 @@ No parts of the schedule are so thoroughly affected by sequential
 constraints as component debugging and system test. Furthermore, the time required depends on the number and subtlety of
 the errors encountered. Theoretically this number should be zero.
 Because of optimism, we usually expect the number of bugs to be
-
-The Mythical Man-Month
 
 smaller than it turns out to be. Therefore testing is usually the
 most mis-scheduled part of programming.
@@ -777,8 +764,6 @@ Regenerative Schedule Disaster
 What does one do when an essential software project is behind
 schedule? Add manpower, naturally. As Figs. 2.1 through 2.4 suggest, this may or may not help.
 
-The Mythical Man-Month
-
 Let us consider an example.3 Suppose a task is estimated at 12
 man-months and assigned to three men for four months, and that
 there are measurable mileposts A, B, C, D, which are scheduled to
@@ -807,8 +792,6 @@ Regenerative Schedule Disaster
 ,6
 
 .7
-
-The Mythical Man-Month
 
 3. Reschedule. I like the advice given by P. Fagg, an experienced
 hardware engineer, "Take no small slips." That is, allow
@@ -866,8 +849,6 @@ Adding manpower to a late software project makes it later.
 
 This then is the demythologizing of the man-month. The
 number of months of a project depends upon its sequential con-
-
-The Mythical Man-Month
 
 straints. The maximum number of men depends upon the number
 of independent subtasks. From these two quantities one can derive
@@ -1153,17 +1134,17 @@ certain anomalous features and improvements, but to reflect one
 set of design ideas, than to have one that contains many good but
 independent and uncoordinated ideas. In this chapter and the next
 two, we will examine the consequences of this theme for programming system design:
-(cid:127) How is conceptual integrity to be achieved?
-(cid:127) Does not this argument imply an elite, or aristocracy of architects, and a horde of plebeian implementers whose creative
+How is conceptual integrity to be achieved?
+Does not this argument imply an elite, or aristocracy of architects, and a horde of plebeian implementers whose creative
 talents and ideas are suppressed?
 
 Achieving Conceptual Integrity 43
 
-(cid:127) How does one keep the architects from drifting off into the
+How does one keep the architects from drifting off into the
 
 blue with unimplementable or costly specifications?
 
-(cid:127) How does one ensure that every trifling detail of an architectural specification gets communicated to the implementer,
+How does one ensure that every trifling detail of an architectural specification gets communicated to the implementer,
 properly understood by him, and accurately incorporated into
 the product?
 
@@ -1358,11 +1339,11 @@ whose deadly hazards I would now make visible.
 
 When it is proposed that a small architecture team in fact
 write all the external specifications for a computer or a programming system, the implementers raise three objections:
-(cid:127) The specifications will be too rich in function and will not
+The specifications will be too rich in function and will not
 
 reflect practical cost considerations.
 
-(cid:127) The architects will get all the crea tive fun and shut out the
+The architects will get all the crea tive fun and shut out the
 
 inventiveness of the implementers.
 
@@ -1444,8 +1425,6 @@ OVID
 Turning house for air traffic. Lithograph, Paris, 1882
 From Le Vingtiime Stecle by A. Robida
 
-The Second-System Effect
-
 If one separates responsibility for functional specification from
 responsibility for building a fast, cheap product, what discipline
 bounds the architect's inventive enthusiasm?
@@ -1473,19 +1452,17 @@ The architect has two possible answers when confronted with
 an estimate that is too high: cut the design or challenge the estimate by suggesting cheaper implementations. This latter is inherently an emotion-generating activity. The architect is now
 challenging the builder's way of doing the builder's job. For it to
 be successful, the architect must
-(cid:127)
-
 remember that the builder has the inventive and creative responsibility for the implementation; so the architect suggests,
 not dictates;
 
 Self-Discipline—The Second-System
 
-(cid:127) always be prepared to suggest a way of implementing anything he specifies, and be prepared to accept any other way
+always be prepared to suggest a way of implementing anything he specifies, and be prepared to accept any other way
 that meets the objectives as well;
 
-(cid:127) deal quietly and privately in such suggestions;
+deal quietly and privately in such suggestions;
 
-(cid:127) be ready to forego credit for suggested improvements.
+be ready to forego credit for suggested improvements.
 
 Normally the builder will counter by suggesting changes to
 the architecture. Often he is right—some minor feature may have
@@ -1517,8 +1494,6 @@ half of it was regularly used.
 
 Consider as a stronger case the architecture, implementation,
 and even the realization of the Stretch computer, an outlet for the
-
-The Second-System Effect
 
 pent-up inventive desires of many people, and a second system for
 most of them. As Strachey says in a review:
@@ -1590,8 +1565,6 @@ second system succeeding the 1410-7010 Disk Operating System,
 
 §8
 
-The Second-System Effect
-
 a batch system unmultiprogranuned except for input-output and
 intended chiefly for business applications. As such, the OS/360
 scheduler is good. But it is almost totally uninfluenced by the
@@ -1616,8 +1589,6 @@ design.
 
 Passing the Word
 
-Passing the Word
-
 Hell sit here and he'll say, "Do this! Do that!" And
 nothing will happen.
 
@@ -1625,8 +1596,6 @@ HARRYS. TRUMAN. ON PRESIDENTIAL POWER1
 
 "The Seven Trumpets" from The Wells Apocalypse, 14th century
 The Bettman Archive
-
-Passing the Word
 
 Assuming that he has the disciplined, experienced architects and
 that there are many implementers, how shall the manager ensure
@@ -1696,8 +1665,6 @@ What they lack is comprehensibility. With English prose one can
 show structural principles, delineate structure in stages or levels,
 and give examples. One can readily mark exceptions and emphasize contrasts. Most important, one can explain why. The formal
 definitions put forward so far have inspired wonder at their elegance and confidence in their precision. But they have demanded
-
-Passing the Word
 
 prose explanations to make their content easy to learn and teach.
 For these reasons, I think we will see future specifications to consist of both a formal definition and a prose definition.
@@ -1845,8 +1812,6 @@ and the programmers' and implementers' architectural representatives, but also t
 The agenda typically consisted of about 200 items, mostly minor,
 which were enumerated in charts placarded around the room. All
 
-Passing the Word
-
 sides were heard and decisions made. By the miracle of computerized text editing (and lots of fine staff work), each participant
 found an updated manual, embodying yesterday's decisions, at his
 seat every morning.
@@ -1993,14 +1958,14 @@ and weighed from a system point of view.
 How, then, shall teams communicate with one another? In as
 
 many ways as possible.
-(cid:127) Informally. Good telephone service and a clear definition of
+Informally. Good telephone service and a clear definition of
 intergroup dependencies will encourage the hundreds of calls
 upon which common interpretation of written documents depends.
 
-(cid:127) Meetings. Regular project meetings, with one team after another giving technical briefings, are invaluable. Hundreds of
+Meetings. Regular project meetings, with one team after another giving technical briefings, are invaluable. Hundreds of
 minor misunderstandings get smoked out this way.
 
-(cid:127) Workbook. A formal project workbook must be started at the
+Workbook. A formal project workbook must be started at the
 
 beginning. This deserves a section by itself.
 
@@ -2309,8 +2274,6 @@ much experienced competence as the software technology itself.
 
 Calling the Shot
 
-Calling the Shot
-
 Practice is the best of all instructors.
 
 Experience is a dear teacher, but fools will learn at no
@@ -2323,8 +2286,6 @@ POOR RICHARD'S ALMANAC
 Douglass Crockwell, "Ruth calls his shot," World Series, 1932
 Reproduced by permission of Esquire Magazine and Douglass Crockwell, © 1945
 (renewed 1973) by Esquire, Inc., and courtesy of the National Baseball Museum.
-
-Calling the Shot
 
 How long will a system programming job take? How much effort
 will be required? How does one estimate?
@@ -2386,8 +2347,6 @@ estimating error could be entirely accounted for by the fact that
 his teams were only realizing 50 percent of the working week as
 actual programming and debugging time. Machine downtime,
 higher-priority short unrelated jobs, meetings, paperwork, com-
-
-Calling the Shot
 
 pany business, sickness, personal time, etc. accounted for the rest.
 In short, the estimates made an unrealistic assumption about the
@@ -2486,8 +2445,6 @@ they are a real contribution.
 
 Figures 8.3 and 8.4 show some interesting data on programming and debugging rates as-compared to predicted rates.
 
-Calling the Shot
-
 .3 ESS predicted and actual programming rates
 
 .4 ESS predicted and actual debugging rates
@@ -2537,9 +2494,6 @@ a statement requires and the errors it may include."
 Programming productivity may be increased as much as five
 times when a suitable high-level language is used.18
 
-(cid:127)
-(cid:127)
-
 Ten Pounds
 in a Five-Pound Sack
 
@@ -2553,7 +2507,6 @@ small compass.
 SYDNEY SMITH. EDINBURGH REVIEW
 
 Engraved_ from a painting by Heywood Hardy
-The Bettman Archive
 
 Ten Pounds in a Five-Pound Sack
 
@@ -2753,7 +2706,6 @@ management revolves. These are the manager's chief
 personal tools.
 
 W. Bengough, "Scene in the old Congressional Library," 1897
-The Bettman Archive
 
 The Documentary Hypothesis
 
@@ -3124,8 +3076,6 @@ the subsidence of the system into unfixable obsolescence.
 
 Sharp Tools
 
-Sharp Tools
-
 A good workman is known by his tools.
 
 PROVERB
@@ -3133,8 +3083,6 @@ PROVERB
 A. Pisano, "Lo Scultore," from the Campanile di Santa Maria del
 Fiore, Florence, c. 1335
 Scala/Art Resource, NY
-
-Sharp Tools
 
 Even at this late date, many programming projects are still operated like machine shops so far as tools are concerned. Each master
 mechanic has his own personal set, collected over a lifetime and
@@ -3200,8 +3148,6 @@ good System/360 simulators and other vehicles. From previous
 experience we projected how many hours of S/360 time we would
 need, and began to acquire early machines from factory produc-
 
-Sharp Tools
-
 tion. But they sat idle, month after month. Then all at once all 16
 systems were fully loaded, and rationing was the problem. The
 utilization looked something like .1. Everyone began to
@@ -3264,8 +3210,6 @@ target exists. Equally important, it gives access to a dependable
 debugging vehicle even after one has a target machine available.
 Dependable is not the same as accurate. The simulator will
 surely fail in some respect to be a faithful and accurate implemen-
-
-Sharp Tools
 
 tation of the new machine's architecture. But it will be the same
 implementation from one day to the next, and the new hardware
@@ -3343,8 +3287,6 @@ programs. It is an indispensable technology.
 Program tools. As new debugging techniques appear, the old
 ones diminish but do not vanish. Thus one needs dumps, sourcefile editors, snapshot dumps, even traces.
 
-Sharp Tools
-
 Likewise one needs a full set of utilities for putting decks on
 disks, making tape copies, printing files, changing catalogs. If one
 commissions a project toolmaker early in the process, these can be
@@ -3417,8 +3359,6 @@ substitute after the former is fully debugged.5
 
 What high-level language should one use for system programming? The only reasonable candidate today is PL/I.8 It has a very
 
-Sharp Tools
-
 full set of functions; it is matched to operating system environments; and a variety of compilers are available, some interactive,
 some fast, some very diagnostic, and some producing highly optimized code. I myself find it faster to work out algorithms in APL;
 then I translate these to PL/I for matching to the system environment.
@@ -3453,8 +3393,6 @@ terminals cannot be used to debug by dumping memory. With a
 high-level language, source can be easily edited and selective
 printouts easily done. Together they make a pair of sharp tools
 indeed.
-
-The Whole and the Parts
 
 The Whole and the Parts
 
@@ -3545,8 +3483,6 @@ detail at each step.
 The process of step-wise refinement does not mean that one
 never has to go back, scrap the top level, and start the whole thing
 
-The Whole and the Parts
-
 again as he encounters some unexpectedly knotty detail. Indeed,
 that happens often. But it is much easier to see exactly when and
 why one should throw away a gross design and start over. Many
@@ -3623,8 +3559,6 @@ time use, and to serve as many programmers as possible.
 
 Snapshots. The machines on which memory dumping was developed had 2000-4000 words, or 8K to 16K bytes of memory. But
 memory sizes grew by leaps and bounds, and total memory dumping became impractical. So people developed techniques for selec-
-
-The Whole and the Parts
 
 tive dumping, selective tracing, and for inserting snapshots into
 programs. The OS/360 TESTRAN is an end-of-the-line in this
@@ -3780,8 +3714,6 @@ thought-through, tested, documented fixes.
 
 Add one component at a time. This precept, too, is obvious, but
 optimism and laziness tempt us to violate it. To do it requires
-
-The Whole and the Parts
 
 dummies and other scaffolding, and that takes work. And after all,
 perhaps all that work won't be needed? Perhaps there are no bugs?
@@ -4047,8 +3979,6 @@ early warning system against losing a year, one day at a time.
 
 The Other Face
 
-The Other Face
-
 What we do not understand we do not possess.
 
 O give me commentators plain,
@@ -4060,7 +3990,6 @@ CRABBE
 
 A reconstruction of Stonehenge, the world's largest undocumented
 computer.
-The Bettman Archive
 
 164 The Other Face
 
@@ -4148,8 +4077,6 @@ written, for it embodies basic planning decisions.
 To believe a program. The description of how it is used must be
 supplemented with some description of how one knows it is working. This means test cases.
 
-The Other Face
-
 Every copy of a program shipped should include some small
 test cases that can be routinely used to reassure the user that he
 has a faithful copy, accurately loaded into the machine.
@@ -4200,8 +4127,6 @@ is only one aspect of its structure. They show decision structure
 rather elegantly when the flow chart is on one page, but the over-
 
 .1 A program structure graph. (Courtesy of W. V. Wright)
-
-The Other Face
 
 view breaks down badly when one has multiple pages, sewed
 together with numbered exits and connectors.
@@ -4273,10 +4198,6 @@ reasonable to combine the program and the documentation.
 The use of a source program as a documentation medium
 imposes some constraints. On the other hand, the intimate availability of the source program, line by line, to the reader of the
 documentation makes possible new techniques. The time has
-
-The Other Face
-
-The Other Face
 
 come to devise radically new approaches and methods for program
 documentation.
@@ -4430,15 +4351,15 @@ to zero time will not give an order of magnitude improvement.
 Therefore it appears that the time has come to address the
 essential parts of the software task, those concerned with fashioning abstract conceptual structures of great complexity. I suggest:
 
-(cid:127) Exploiting the mass market to avoid constructing what can
+Exploiting the mass market to avoid constructing what can
 
 be bought.
 
-(cid:127) Using rapid prototyping as part of a planned iteration in establishing software requirements.
+Using rapid prototyping as part of a planned iteration in establishing software requirements.
 
-(cid:127) Growing software organically, adding more and more function to systems as they are run, used, and tested.
+Growing software organically, adding more and more function to systems as they are run, used, and tested.
 
-(cid:127) Identifying and developing the great conceptual designers
+Identifying and developing the great conceptual designers
 
 of the rising generation.
 
@@ -4553,8 +4474,6 @@ states that constitute security trapdoors.
 Not only technical problems but management problems as
 well come from the complexity. This complexity makes over-
 
-No Silver Bullet
-
 view hard, thus impeding conceptual integrity. It makes it hard
 to find and control all the loose ends. It creates the tremendous
 learning and understanding burden that makes personnel turnover a disaster.
@@ -4621,8 +4540,6 @@ general directed graphs, superimposed one upon another. The
 several graphs may represent the flow of control, the flow of
 data, patterns of dependency, time sequence, name-space relationships. These are usually not even planar, much less hierarchical. Indeed, one of the ways of establishing conceptual
 control over such structure is to enforce link cutting until one or
-
-No Silver Bullet
 
 more of the graphs becomes hierarchical.2
 
@@ -4729,8 +4646,6 @@ complexities of the machine into the more abstract statement
 of step-by-step solutions. Once those accidents have been removed, the remaining ones are smaller, and the payoff from
 their removal will surely be less.
 
-Hopes for the Silver
-
 I predict that a decade from now, when the effectiveness of
 Ada is assessed, it will be seen to have made a substantial difference, but not because of any particular language feature, nor
 indeed because of all of them combined. Neither will the new
@@ -4760,8 +4675,6 @@ sort of accidental difficulty and allow a higher-order expression
 of design.
 
 Nevertheless, such advances can do no more than to remove all the accidental difficulties from the expression of the design. The complexity of the design itself is essential; and such
-
-No Silver Bullet
 
 attacks make no change whatever in that. An order-of-magnitude gain can be made by object-oriented programming only if
 the unnecessary underbrush of type specification remaining today in our programming language is itself responsible for ninetenths of the work involved in designing a program product. I
@@ -4797,8 +4710,6 @@ used in expert systems. I have a hard time seeing how image
 recognition, for example, will make any appreciable difference
 in programming practice. The same is true of speech recogni-
 
-Hopes for the Silver
-
 tion. The hard thing about building software is deciding what to
 say, not saying it. No facilitation of expression can give more
 than marginal gains.
@@ -4821,13 +4732,11 @@ deterministic logic.
 Such systems offer some clear advantages over programmed
 algorithms for arriving at the same solutions to the same problems:
 
-(cid:127)
-
 Inference engine technology is developed in an applicationindependent way, and then applied to many uses. One can
 justify much more effort on the inference engines. Indeed,
 that technology is well advanced.
 
-(cid:127) The changeable parts of the application-peculiar materials
+The changeable parts of the application-peculiar materials
 are encoded in the rule base in a uniform fashion, and tools
 are provided for developing, changing, testing, and documenting the rule base. This regularizes much of the complexity of the application itself.
 
@@ -4835,8 +4744,6 @@ Edward Feigenbaum says that the power of such systems
 does not come from ever-fancier inference mechanisms, but
 rather from ever-richer knowledge bases that reflect the real
 world more accurately. I believe the most important advance offered by the technology is the separation of the application com-
-
-No Silver Bullet
 
 plexity from the program itself.
 
@@ -4872,8 +4779,6 @@ of our imaginary scenario is the development of easy ways to
 get from program structure specification to the automatic or
 semiautomatic generation of diagnostic rules. Even more difficult and important is the twofold task of knowledge acquisition:
 
-Hopes for the Silver
-
 finding articulate, self-analytical experts who know why they do
 things; and developing efficient techniques for extracting what
 they know and distilling it into rule bases. The essential prerequisite for building an expert system is to have an expert.
@@ -4906,11 +4811,9 @@ These applications have very favorable properties:
 
 e The problems are readily characterized by relatively few parameters.
 
-(cid:127) There are many known methods of solution to provide a library of alternatives.
+There are many known methods of solution to provide a library of alternatives.
 
-No Silver Bullet
-
-(cid:127) Extensive analysis has led to explicit rules for selecting solution techniques, given problem parameters.
+Extensive analysis has led to explicit rules for selecting solution techniques, given problem parameters.
 
 It is hard to see how such techniques generalize to the wider
 world of the ordinary software system, where cases with such
@@ -4944,8 +4847,6 @@ between two portly passengers will recognize the difference—
 one can see only a very few things at once. The true desktop
 provides overview of and random access to a score of pages.
 Moreover, when fits of creativity run strong, more than one programmer or writer has been known to abandon the desktop for
-
-Hopes for the Silver
 
 the more spacious floor. The hardware technology will have to
 advance quite substantially before the scope of our scopes is sufficient to the software design task.
@@ -5019,8 +4920,6 @@ on now, and the promise of steady, if unspectacular progress.
 
 All of the technological attacks on the accidents of the soft-
 
-Promising Attacks on the Conceptual Essence
-
 ware process are fundamentally limited by the productivity
 equation:
 
@@ -5054,8 +4953,6 @@ user. Moreover, such products tend to be much better documented and somewhat bet
 The development of the mass market is, I believe, the most
 profound long-run trend in software engineering. The cost of
 
-No Silver Bullet
-
 software has always been development cost, not replication
 cost. Sharing that cost among even a few users radically cuts the
 per-user cost. Another way of looking at it is that the use of n
@@ -5083,8 +4980,6 @@ years: electronic spreadsheets and simple database systems.
 These powerful tools, so obvious in retrospect and yet so late
 appearing, lend themselves to myriad uses, some quite unorthodox. Articles and even books now abound on how to tackle
 unexpected tasks with the spreadsheet. Large numbers of applications that would formerly have been written as custom pro-
-
-Promising Attacks on the Conceptual Essence
 
 grams in Cobol or Report Program Generator are now routinely
 done with these tools.
@@ -5117,8 +5012,6 @@ moreover, things that act, that move, that work. The dynamics
 of that action are hard to imagine. So in planning any software
 activity, it is necessary to allow for an extensive iteration between the client and the designer as part of the system definition.
 
-No Silver Bullet
-
 I would go a step further and assert that it is really impossible for clients, even those working with software engineers, to
 specify completely, precisely, and correctly the exact requirements of a modern software product before having built and
 tried some versions of the product they are specifying.
@@ -5149,8 +5042,6 @@ he broadened my whole view of the software process. The metaphor shift was power
 how like other building processes the construction of software
 is, and we freely use other elements of the metaphor, such as
 specifications, assembly of components, and scaffolding.
-
-Promising Attacks on the Conceptual Essence
 
 The building metaphor has outlived its usefulness. It is time
 to change again. If, as I believe, the conceptual structures we
@@ -5187,8 +5078,6 @@ they can build.
 The same benefits can be realized on large projects as on my
 
 small ones.12
-
-No Silver Bullet
 
 Great designers. The central question of how to improve the
 software art centers, as it always has, on people.
@@ -5231,8 +5120,6 @@ to grow great designers.
 No software organization can ignore this challenge. Good
 managers, scarce though they be, are no scarcer than good de-
 
-Promising Attacks on the Conceptual Essence
-
 Yes
 Unix
 APL
@@ -5270,24 +5157,20 @@ How to grow great designers? Space does not permit a
 
 lengthy discussion, but some steps are obvious:
 
-(cid:127) Systematically identify top designers as early as possible.
+Systematically identify top designers as early as possible.
 
 The best are often not the most experienced.
 
-(cid:127) Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
+Assign a career mentor to be responsible for the development of the prospect, and keep a careful career file.
 
-(cid:127) Devise and maintain a career development plan for each
+Devise and maintain a career development plan for each
 prospect, including carefully selected apprenticeships with
 top designers, episodes of advanced formal education, and
 short courses, all interspersed with solo design and technical leadership assignments.
 
-(cid:127) Provide opportunities for growing designers to interact with
+Provide opportunities for growing designers to interact with
 
 and stimulate each other.
-
-"No Silver Bullet" Refired
-
-"No Silver Bullet" Refired
 
 Every bullet has its billet.
 
@@ -5299,9 +5182,6 @@ Thinks what never was, nor is, nor ever shall be.
 ALEXANDER POPE, AN ESSAY ON CRITICISM
 
 Assembling a structure from ready-made parts, 1945
-The Bettman Archive
-
-"No Silver Bullet" Refired
 
 On Werewolves and Other Legendary Terrors
 
@@ -5435,8 +5315,6 @@ those kinds of ordering principles, but the burden is on you to explain why not.
 that someday the "complexity" of software will be understood in
 terms of some higher order notions (invariants to the physicist).
 
-"No Silver Bullet" Refired
-
 I have not undertaken the deeper analysis Lukasik properly
 calls for. As a discipline, we need an extended information theory that quantifies the information content of static structures,
 just as Shannon's theory does for communicated streams. That
@@ -5505,8 +5383,6 @@ it continues. Dissertations on squaring a circle are being written.
 Lotions to restore lost hair are concocted and sell well. Methods to improve software productivity are hatched and sell very
 well.
 
-"No Silver Bullet" Refired
-
 All too often we are inclined to follow our own optimism (or exploit
 the optimistic hopes of our sponsors). All too often we are willing
 to disregard the voice of reason and heed the siren calls of panacea
@@ -5517,9 +5393,9 @@ Turski and I both insist that pipe-dreaming inhibits forward progress and wastes
 "Gloom" themes. Harel perceives gloom in "NSB" to arise
 from three themes:
 
-(cid:127) Sharp separation into essence and accident
-(cid:127) Treatment of each silver bullet candidate in isolation
-(cid:127) Predicting for only 10 years, instead of a long enough time
+Sharp separation into essence and accident
+Treatment of each silver bullet candidate in isolation
+Predicting for only 10 years, instead of a long enough time
 
 in which "to expect any significant improvement."
 
@@ -5575,8 +5451,6 @@ the 1950 census with a complex program developed by about
 eight programmers.13 Other machines were doing chemical dynamics, neutron diffusion calculations, missile performance
 calculations, etc.14 Assemblers, relocating linkers and loaders,
 floating-point interpretive systems, etc. were in routine use.15
-
-"No Silver Bullet" Refired
 
 By 1955 people were building 50 to 100 man-year business programs.16 By 1956 General Electric had in operation a payroll system in its Louisville appliance plant with more than 80,000
 words of program. By 1957, the SAGE ANFSQ/7 air defense
@@ -5638,8 +5512,6 @@ and schedule disasters. I believe it. Boehm points out that productivity drops a
 IBM's space-shuttle software.
 
 Coqui similarly argues that systematic software development disciplines were developed in response to quality concerns
-
-"No Silver Bullet" Refired
 
 (especially avoidance of major disasters) rather than productivity concerns.
 
@@ -5777,8 +5649,6 @@ benefits later is what investors do every day. In many programming organizations
 administrative proficiency. I believe the extreme degree of cost
 front-loading and benefit back-loading is the largest single factor
 
-"No Silver Bullet" Refired
-
 slowing the adoption of O-O techniques. Even so, C + + seems
 to be steadily replacing C in many communities.
 
@@ -5842,8 +5712,6 @@ cases—adoption is due to organizational factors such as the reward structure, 
 
 DeMarco tells me that the availability of mass-market packages and their suitability as providers of generic functions such
 as database systems has substantially reduced both the pressure
-
-"No Silver Bullet" Refired
 
 and the marginal utility of reusing modules of one's application
 code. "The reusable modules tended to be the generic functions
@@ -5913,17 +5781,15 @@ We need research to appropriate for the software reuse
 problem the large body of knowledge as to how people acquire
 language. Some of the lessons are immediately obvious:
 
-(cid:127) People learn in sentence contexts, so we need to publish
+People learn in sentence contexts, so we need to publish
 many examples of composed products, not just libraries of
 parts.
 
-(cid:127) People do not memorize anything but spelling. They learn
+People do not memorize anything but spelling. They learn
 syntax and semantics incrementally, in context, by use.
 People group word composition rules by syntactic classes,
 
 not by compatible subsets of objects.
-
-"No Silver Bullet" Refired
 
 Net on Bullets—Position Unchanged
 
@@ -5987,13 +5853,13 @@ factor of three; and that these cost components are essentially independent of e
 built deep within us and delights sensibilities we have in
 common with all men," providing five kinds of joys:
 
-(cid:127) The joy of making things
+The joy of making things
 The joy of making things that are useful to other
 people
 
 9 The fascination of fashioning puzzle-like objects of interlocking moving parts
 
-(cid:127) The joy of always learning, of a nonrepeating task
+The joy of always learning, of a nonrepeating task
 « The delight of working in a medium so tractable—
 pure thought-stuff—which nevertheless exists, moves,
 and works in a way that word-objects do not.
@@ -6002,7 +5868,7 @@ Chapter 2. The Mythical Man-Month
 
 1.3 Likewise the craft has special woes inherent in it.
 
-(cid:127) Adjusting to the requirement of perfection is the
+Adjusting to the requirement of perfection is the
 
 hardest part of learning to program.
 
@@ -6014,7 +5880,7 @@ the authority is not equal to the responsibility.
 
 from momentum of accomplishment.
 
-(cid:127) With any creativity come dreary hours of painstaking
+With any creativity come dreary hours of painstaking
 
 labor; programming is no exception.
 
@@ -6090,12 +5956,9 @@ Chapter 4. Aristocracy, Democracy, and System Design
 "Conceptual integrity is the most important consideration
 in system design."
 
-I
-
 Chapter 5. The Second-System Effect
 
 4.2
-I
 
 "The ratio of function to conceptual complexity is the ultimate test of system design," not just the richness of
 function. [This ratio is a measure of ease of use, valid over
@@ -6132,11 +5995,11 @@ design, without blurring the clear division of responsibilities.
 5.2 How an architect can successfully influence implementation:
 
 « Remember that the builder has the creative responsibility for implementation; the architect only suggests.
-(cid:127) Always be ready to suggest a way of implementing
+Always be ready to suggest a way of implementing
 anything one specifies; be prepared to accept any
 other equally good way.
 
-(cid:127) Deal quietly and privately in such suggestions.
+Deal quietly and privately in such suggestions.
 9 Be ready to forgo credit for suggested improvements.
 
 Propositions of The Mythical Man-Month: True or False?
@@ -6264,10 +6127,10 @@ The functions of the two roles are quite distinct and require different talents.
 
 quite effective:
 
-(cid:127) The producer and director can be the same.
-(cid:127) The producer may be boss, and the director the producer's right-hand person.
+The producer and director can be the same.
+The producer may be boss, and the director the producer's right-hand person.
 
-(cid:127) The director may be boss, and the producer the director's right-hand person.
+The director may be boss, and the producer the director's right-hand person.
 
 Chapter 8. Calling the Shot
 
@@ -6802,14 +6665,14 @@ separate document.
 
 burden:
 
-(cid:127) Use parts of the program that have to be there anyway, such as names and declarations, to carry as
+Use parts of the program that have to be there anyway, such as names and declarations, to carry as
 much of the documentation as possible.
 
-(cid:127) Use space and format to show subordination and
+Use space and format to show subordination and
 
 nesting and to improve readability.
 
-(cid:127) Insert the n ecessary prose documentation into the
+Insert the n ecessary prose documentation into the
 program as paragraphs of comment, especially as
 module headers.
 
@@ -6834,10 +6697,8 @@ E.2 The tar pit of software engineering will continue to be
 
 sticky for a long time to come.
 
-The Mythical Man-Month
 after 20 Years
 
-The Mythical Man-Month
 after 20 Years
 
 I know no way of judging the future but by the past.
@@ -6849,7 +6710,6 @@ PATRICK HENRY
 EDMUND BURKE
 
 Shooting the Rapids
-The Bettman Archive
 
 The Mythical Man-Month after 20 Years
 
@@ -6920,8 +6780,6 @@ works such as books or musical compositions are so produced.
 Product-development processes in many industries cannot,
 however, afford this straightforward approach to conceptual integrity. Competitive pressures force urgency; in many modern
 
-The Mythical Man-Month after 20 Years
-
 technologies the end product is quite complex, and the design
 inherently requires many man-months of effort. Software products are both complex and fiercely competitive in schedule.
 
@@ -6950,8 +6808,6 @@ Separation of architecture from implementation and realization. To make the arch
 necessary to separate the architecture, the definition of the
 product as perceivable by the user, from its implementation. Architecture versus implementation defines a clean boundary between parts of the design task, and there is plenty of work on
 each side of it.
-
-The Second-System Effect
 
 Recursion of architects. For quite large products, one mind
 cannot do all of the architecture, even after all implementation
@@ -6984,8 +6840,6 @@ system architects now face this task.
 
 Paradoxically, it is much more difficult to design a general-
 
-The Mythical Man-Month after 20 Years
-
 purpose tool than it is to design a special-purpose tool, precisely
 because one has to assign weights to the differing needs of the
 diverse users.
@@ -7017,8 +6871,6 @@ of the expected user set, including:
 * Who they are
 * What they need
 
-The Second-System Effect
-
 * What they think they need
 * What they want
 
@@ -7045,8 +6897,6 @@ vague.
 What about the "Second-System Effect"? A perceptive student remarked that The Mythical Man-Month recommended a
 recipe for disaster: Plan to deliver the second version of any new
 system (Chapter 11), which Chapter 5 characterizes as the most
-
-The Mythical Man-Month after 20 Years
 
 dangerous system one ever designs. I had to grant him a
 "gotcha."
@@ -7117,8 +6967,6 @@ a verb and a noun. The pointing metaphor says, to specify two
 things at a time, have two distinguished cursors on the screen,
 each driven by a separate mouse—one in the right hand and one
 
-The Mythical Man-Month after 20 Years
-
 in the left. After all, on a physical desktop we normally work
 with both hands. (But, one hand is often holding things fixed in
 place, which happens by default on the computer desktop.) The
@@ -7182,8 +7030,6 @@ pick from a menu, since each will know the few short-cuts that
 make up most of his own operations. Most of us software designers are too familiar with this interface to appreciate fully its
 elegance and power.
 
-The Mythical Man-Month after 20 Years
-
 The success of direct incorporation as a device for enforcing architecture. The Mac interface is remarkable in yet another way.
 Without coercion, its designers have made it a standard interface across applications, including the vast majority that are
 written by third parties. So the user gains conceptual coherence
@@ -7232,8 +7078,6 @@ rule in Chapter 2. That rule-of-thumb allocates 1/3 of the schedule to planning,
 system test.
 
 .1 Waterfall model of software construction
-
-The Mythical Man-Month after 20 Years
 
 The basic fallacy of the waterfall model is that it assumes a
 project goes through the process once, that the architecture is excellent and easy to use, the implementation design is sound,
@@ -7294,8 +7138,6 @@ Subroutines
 
 .2
 
-The Mythical Man-Month after 20 Years
-
 Next, we flesh out a (perhaps primitive) input module and
 an output module. Voil3! A running system that does something, however dull. Now, function by function, we incrementally build and add modules. At every stage we have a running
 system. If we are diligent, we have at every stage a debugged,
@@ -7309,8 +7151,8 @@ original driving loop, and or even its module interfaces.
 
 Since we have a working system at all times
 
-(cid:127) we can begi n user testing very early, and
-(cid:127) we can adopt a build-to-budget strategy that protects absolutely against schedule or budget overruns (at the cost of
+we can begi n user testing very early, and
+we can adopt a build-to-budget strategy that protects absolutely against schedule or budget overruns (at the cost of
 possible functional shortfall).
 
 For some 22 years, I taught the software engineering laboratory
@@ -7342,8 +7184,6 @@ Such a design strategy maximizes the re-use of modules.
 More important, the same strategy can be broadened to include
 not only deliverable products but also the successive intermediate versions created in an incremental-build strategy. The
 product then grows through its intermediate stages with minimum backtracking.
-
-The Mythical Man-Month after 20 Years
 
 Microsoft's "Build Every Night" Approach
 James McCarthy described to me a product process used by his
@@ -7415,8 +7255,6 @@ This view contrasts sharply with David Parnas's teaching
 that modules of code should be encapsulated with well-defined
 interfaces, and that the interior of such a module should be the
 
-The Mythical Man-Month after 20 Years
-
 private property of its programmer, not discernible from outside. Programmers are most effective if shielded from, not exposed to, the innards of modules not their own.13
 
 I dismissed Parnas's concept as a "recipe for disaster" in
@@ -7431,10 +7269,10 @@ is more appropriate in a design-for-change philosophy.
 
 Chapter 16 argues the following:
 
-(cid:127) Most past progress in software productivity has come from
+Most past progress in software productivity has come from
 eliminating noninherent difficulties such as awkward machine languages and slow batch turnaround.
-(cid:127) There are not a lot more of these easy pickings.
-(cid:127) Radical progress is going to have to come from attacking the
+There are not a lot more of these easy pickings.
+Radical progress is going to have to come from attacking the
 essential difficulties of fashioning complex conceptual constructs.
 
 The most obvious way to do this recognizes that programs
@@ -7482,8 +7320,6 @@ results but a useful set of cost models of progressive comprehensiveness. Wherea
 different for ordinary commercial software and for aerospace
 software built to government standards, nevertheless his mod-
 
-The Mythical Man-Month after 20 Years
-
 els are backed by an immense amount of data. I think the book
 will be a useful classic a generation from now.
 
@@ -7492,7 +7328,7 @@ trade-off between men and months is far from linear, that the
 man-month is indeed mythical as a measure of productivity. In
 particular, he finds:15
 
-(cid:127) There is a cost-optimum schedule time to first shipment,
+There is a cost-optimum schedule time to first shipment,
 1 = 2.5 (MM) 1/3. That is, the optimum time in months goes
 as the cube root of the expected effort in man-months, a figure derived from the size estimate and other factors in his
 model. An optimum staffing curve is a corollary.
@@ -7505,7 +7341,7 @@ time.
 
 shorter than the optimum.
 
-(cid:127) Hardly any projects succeed in less than 3/4 of the calculated optimum schedule, regardless of the number of people applied! This
+Hardly any projects succeed in less than 3/4 of the calculated optimum schedule, regardless of the number of people applied! This
 quotable result gives the software manager solid ammunition when higher management is demanding impossible
 schedule commitments.
 
@@ -7549,8 +7385,6 @@ qualifications. On balance, I stand by the bald statement as the
 best zeroth-order approximation to the truth, a rule of thumb to
 warn managers against blindly making the instinctive fix to a
 late project.
-
-The Mythical Man-Month after 20 Years
 
 People Are Everything (Well, Almost Everything)
 
@@ -7612,8 +7446,6 @@ It is an injustice and at the same time a grave evil and disturbance
 of right order to assign to a greater and higher association what
 lesser and subordinate organizations can do. For every social activity ought of its very nature to furnish help to the members of the
 body social and never destroy and absorb them. . . . Those in command should be sure that the more perfectly a graduated order is
-
-The Mythical Man-Month after 20 Years
 
 preserved among the various associations, in observing the principle of subsidiary function, the stronger will be the social authority
 and effectiveness and the happier and more prosperous the condition
@@ -7688,12 +7520,10 @@ uses computers. Schumacher stated the challenge more than
 
 What is it that we really require from the scientists and technolo-
 
-The Mythical Man-Month after 20 Years
-
 gists? I should answer: We need methods and equipment which are
 9 cheap enough so that they are accessible to virtually everyone;
 9 suitable for small-scale application; and
-(cid:127) compatible with man's need for creativity. 21
+compatible with man's need for creativity. 21
 These are exactly the wonderful properties that the microcomputer revolution has brought to the computer industry and
 to its users, now the general public. The average American can
 now afford not only a computer of his own, but a suite of software that 20 years ago would have cost a king's salary. Each of
@@ -7758,8 +7588,6 @@ the technology advances that enabled it. Many of the accidental
 difficulties of those software building processes have been eliminated. Fast individual computers are now the routine tools of
 the software developer, so that turnaround time is an almost obsolete concept. The personal computer of today is not only faster
 
-The Mythical Man-Month after 20 Years
-
 than the supercomputer of I960, it is faster than the Unix workstation of 1985. All of this means that compilation is fast even
 on the humblest machines, and large memories have eliminated
 waits for disk-based linking. Large memories also make it reasonable to keep symbol tables in memory with object code, so
@@ -7797,7 +7625,7 @@ Shrink-Wrapped Software
 
 pilers, and utilities for their products.
 
-(cid:127) Application users, such as the MIS shops of utilities, banks,
+Application users, such as the MIS shops of utilities, banks,
 insurance companies, and government agencies, who build
 application packages for their own use.
 
@@ -7805,7 +7633,7 @@ application packages for their own use.
 in defense applications, where requirements, standards,
 and marketing procedures are peculiar.
 
-(cid:127) Commercial package developers, who at that time developed mostly large applications for specialized markets, such
+Commercial package developers, who at that time developed mostly large applications for specialized markets, such
 as statistical analysis packages and CAD systems.
 
 Tom DeMarco notes the fragmentation of the classical software industry, especially the application-user component:
@@ -7825,15 +7653,13 @@ systems abounded: each hardware vendor had at least one proprietary operating sy
 different things are today! Open systems are the watchword,
 and there are only five significant operating systems environ-
 
-The Mythical Man-Month after 20 Years
-
 ments into which people market applications packages (in
 chronological order):
 
-(cid:127) The IBM MVS and VM environments
+The IBM MVS and VM environments
 « The DEC VMS environment
 « The Unix environment, in one flavor or another
-(cid:127) The IBM PC environment, whether DOS, OS-2, or Windows
+The IBM PC environment, whether DOS, OS-2, or Windows
 The Apple Macintosh environment.
 
 The shrink-wrapped industry. For the developer in the
@@ -7886,8 +7712,6 @@ This really does attack essence. Because the build-on-package
 phenomenon does not today affect the average MIS programmer, it is not yet very visible to the software engineering discipline. Nevertheless, it will grow rapidly, because it does attack
 the essence of fashioning conceptual constructs. The shrink-
 
-The Mythical Man-Month after 20 Years
-
 wrapped package provides a big module of function, with an
 elaborate but proper interface, and its internal conceptual structure does not have to be designed at all. High-function software
 products such as Excel or 4th Dimension are big modules indeed, but they serve as known, documented, tested modules
@@ -7908,7 +7732,7 @@ shrink-wrapped packages:
 4 The as-is user, who operates the application in straightforward manner, content with the functions and the interface
 the designers provided.
 
-(cid:127) The metaprogrammer, who builds templates or functions on
+The metaprogrammer, who builds templates or functions on
 top of a single application, using the interface provided,
 principally to save work for the end user.
 
@@ -7951,8 +7775,6 @@ bread to perfume. He told how Professor Arthur D. Little
 founded a Department of Industrial Chemistry at MIT in 1918,
 to find, develop, and teach a common base of technique shared
 
-The Mythical Man-Month after 20 Years
-
 by all the processes. First came rules of thumb, then empirical
 nomograms, then formulas for designing particular components, then mathematical models for heat transport, mass transport, momentum transport in single vessels.
 
@@ -7975,10 +7797,10 @@ The distinctive concerns of software engineering are today
 
 exactly those set forth in Chapter 1:
 
-(cid:127) How to design and build a set of programs into a system
+How to design and build a set of programs into a system
 " How to design and build a program or a system into a robust, tested, documented, supported product
 
-(cid:127) How to maintain intellectual control over complexity in large
+How to maintain intellectual control over complexity in large
 
 doses.
 
@@ -8037,8 +7859,6 @@ life has seen me regretfully kissing subdiscipline interests goodbye one by one,
 beyond mastery. Too many interests, too many exciting opportunities for learning, research, and thought. What a marvelous
 predicament! Not only is the end not in sight, the pace is not
 slackening. We have many future joys.
-
-Notes and References
 
 Chapter 1
 
@@ -8103,8 +7923,6 @@ on Definition and Implementation of Universal Programming Languages. Stuttgart, 
 7. For a good discussion of the necessity for programming
 technology, see C. H. Reynolds, "What's wrong with com-
 
-Notes and References
-
 puter programming management?" in G. F, Weinwurm
 (ed.), On the Management of Computer Programming. Philadelphia: Auerbach, 1971, pp. 35-42.
 
@@ -8144,8 +7962,6 @@ New York: Wiley, 1962, Chapter 2, p. 2.
 
 1962, Chapter 2.
 
-Notes and References
-
 5. Falkoff, A. D., K. E. Iverson, E. H. Sussenguth, "A formal
 description of System/360," ZBM Systems Journal, 3, 3 (1964),
 pp. 198-261.
@@ -8181,8 +7997,6 @@ Chapel Hill, 1974.
 
 5. Portman, C., private communication.
 6. An unpublished 1964 study by E. F. Bardain shows programmers realizing 27 percent productive time. (Quoted by
-
-Notes and References
 
 D. B. Mayer and A. W. Stalnaker, "Selection and evaluation
 of computer personnel/' Proc. 23rd ACM. Con/., 1968, p.
@@ -8264,8 +8078,6 @@ techniques," IBM Sys. J., 11, 3 (1972), pp. 234-254.
 techniques used in the development of the Cambridge Multiple-Access System," Software, 1, 2 (April, 1971), pp. 167-
 173.
 
-Notes and References
-
 3. Corbatd, F. J., "PL/I as a tool for system programming," Datamation, 15, 5 (May, 1969), pp. 68-76.
 
 4. Hopkins, M., "Problems of PL/I for system programming,"
@@ -8298,8 +8110,6 @@ Methods. Englewood Cliffs, N.J.: Prentice-Hall, 1972, pp. 41-
 47.
 
 2. Wirth, N., "Program development by stepwise refinement," CACM 14, 4 (April, 1971), pp. 221-227. See also
-
-Notes and References
 
 Mills, H. "Top-down programming in large systems," in R.
 Rustin (ed.)- Debugging Techniques in Large Systems. Englewood Cliffs, N.J.: Prentice-Hall, 1971, pp. 41-55 and Baker,
@@ -8337,8 +8147,6 @@ time-sharing
 11. Brooks, F. P., and K. E. Iverson, Automatic Data Processing,
 System/360 Edition. New York: Wiley, 1969, pp. 296-299.
 
-Notes and References
-
 12. A good treatment of development of specifications and of
 system build and test is given by F. M. Trapnell, "A systematic approach to the development of system programs,"
 AFIPS Proc S/CC, 34 (1969) pp. 411-418.
@@ -8371,8 +8179,6 @@ Chapter 15
 II, Vol. 1, report prepared for the U.S. Army Ordinance Department, 1947; reprinted in J. von Neumann, Collected
 Works, A. H. Taub (ed.), Vol. v., New York: McMillan, pp.
 80-151.
-
-Notes and References
 
 2. Private communication, 1957. The argument is published in
 Iverson, K. E., "The Use of APL in Teaching," Yorktown,
@@ -8414,8 +8220,6 @@ Software Engineering, /£££ Trans, on SE, 11, 11 (Nov.,
 7. Mostow, op. cit.
 8. Parnas, 1985, op. cit.
 
-Notes and References
-
 9. Raeder, G., "A survey of current graphical programming
 techniques," in R. B. Grafton and T. Ichikawa, eds., Special
 Issue on Visual Programming, Computer, 18, 8 (Aug., 1985),
@@ -8456,8 +8260,6 @@ as an effect of other causes." Webster's New International
 Dictionary of the English Language, 2d ed., Springfield, Mass.:
 G. C. Merriam, 1960.
 
-Notes and References
-
 5. Sayers, Dorothy L., The Mind of the Maker. New York: Harcourt, Brace, 1941.
 
 6. Glass, R. L., and S. A. Conger, "Research software tasks:
@@ -8495,8 +8297,6 @@ pp. 13-20.
 15. Proceedings of the Eastern Joint Computer Conference, (Washington, Dec. 8-10, 1953). New York: Institute of Electrical Engineers, pp. 45-47.
 
 16. Proceedings of the 1955 Western Joint Computer Conference (Los
-
-Notes and References
 
 Angeles, March 1-3, 1955). New York: Institute of Electrical
 Engineers.
@@ -8577,8 +8377,6 @@ pp. 395-410.
 
 Reading, Mass.: Addison-Wesley, 1992.
 
-Notes and References
-
 7. It appears the Apple Desk Top Bus could handle two mice
 electronically, but the operating system provides no such
 function.
@@ -8613,8 +8411,6 @@ pp. 8-20.
 
 13. The seminal papers on information hiding are: Parnas,
 D. L., "Information distribution aspects of design methodology," Carnegie-Mellon, Dept. of Computer Science, Tech-
-
-Notes and References
 
 nical Report (Feb., 1971); Parnas, D. L., "A technique for
 software module specification with examples," Comm.
@@ -8664,8 +8460,6 @@ a way to get 120 lines of code, in two columns, onto his
 primitive Tektronix electron-storage tube. He clung to this
 terminal through a whole generation of small-window, fast
 tubes.
-
-Index
 
 Abdel-Hamid, T., 308
 abstract data type, 188, 220,
@@ -8736,8 +8530,6 @@ Belady, L., 122, 123, 150, 243,
 Bell Northern Research, 270
 
 Note: Bold numerals indicate a relatively substantial discussion of a topic.
-
-Index
 
 Bell Telephone Laboratories, 90,
 119, 133, 137, 142, 158, 237,
@@ -8840,8 +8632,6 @@ Clingen, C. T., 298, 299
 COBOL, 199, 203, 218
 Codd, E. R, 146, 300
 
-Index
-
 Coding War Games, 276
 coding, 20, 237
 Coggins, J. M., 220, 221, 305, viii
@@ -8939,11 +8729,8 @@ debugging, component, 144
 high-level language, 135
 interactive, 34, 136, 146, 245
 
-Index
-
 debugging (continued)
-on-machine, 145 (cid:127)
-sequential nature of, 17
+on-machine, 145 sequential nature of, 17
 system, 147
 DEC PDP-8, 64
 DEC VMS operating system, 284
@@ -9037,8 +8824,6 @@ Excel, 285, 286
 expert system, 191
 extension, 221, 268, 302
 
-Index
-
 Fagg, P., 24
 Falkoff, A. D., 296
 family, software product, 268
@@ -9124,8 +8909,6 @@ hierarchical structure, 189, 212,
 high-level language, See
 language, high-level
 Hoare, C. A. R., 300, 308
-
-Index
 
 Homer, 255
 Hopkins, M., 299
@@ -9233,8 +9016,6 @@ Internet, 306
 interpreter, for space-saving, 102
 invisibility, 185, 216, 241
 
-Index
-
 iteration, 199, 267
 Iverson, K. E., 64, 102, 170, 291,
 294, 295, 296, 297, 300, 301,
@@ -9333,8 +9114,6 @@ memory use pattern, 129, 239
 mentor, 203, 275
 menu, 260
 
-Index
-
 Merwin, R. E., 299
 Merwin-Dagget, M., 300
 metaphor, 260
@@ -9431,8 +9210,6 @@ Operating System/360, 43, 45, 47,
 optimism, 14, 212, 231
 option, 101, 165, 238
 Orbais, J. d', 41
-
-Index
 
 order-of-magnitude
 
@@ -9535,8 +9312,6 @@ productivity, programming, 21,
 program clerk, 33
 program library, 132
 program maintenance, 120
-
-Index
 
 program name, 174
 program products, 273
@@ -9645,8 +9420,6 @@ Sayderman, B. B., 210, 304
 Sayers, D. L., 15, 209, 303
 scaffolding, 34, 148, 246
 
-Index
-
 scaling up, 36,116, 240, 288
 Scalzi, C A., 300
 schedule, 79,108, 111, 154, 239,
@@ -9743,8 +9516,6 @@ testing the, 142
 speed, program, 30, 98,135
 spiral, pricing-forecasting, 109
 spreadsheet, 198, 280, 281
-
-Index
 
 staff group, 79
 staffing, project, 21, 273
@@ -9847,8 +9618,6 @@ Time-Sharing System, PDP-10,
 
 Time-Sharing System/360, 136,
 
-Index
-
 time-sharing, 187, 280, 282, 300
 tool, 125,196, 243, 258, 280
 power, for the mind, 219
@@ -9940,8 +9709,6 @@ Wilson, T. A., 301
 WIMP interface, 234, 260, 263
 window, 260
 Windows NT operating system,
-
-Index
 
 Windows operating system, 284
 Wirth, N., 143, 245, 299, 306

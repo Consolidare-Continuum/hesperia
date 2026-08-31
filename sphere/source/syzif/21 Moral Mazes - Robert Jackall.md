@@ -1,4 +1,3 @@
-
 Moral Mazes
 
 OceanofPDF.com
@@ -9,8 +8,6 @@ The World of Corporate Managers
 TWENTIETH ANNIVERSARY EDITION
 
 Robert Jackall
-
-OceanofPDF.com
 
 Oxford University Press, Inc., publishes works that further
 Oxford University's objective of excellence
@@ -73,12 +70,8 @@ are reprinted by permission of Newspaper Enterprise Association, Inc.
 Printed in the United States of America
 on acid-free paper
 
-OceanofPDF.com
-
 In Memory of Joseph Bensman,
 Arthur J. Vidich, and Robert F. Murphy
-
-OceanofPDF.com
 
 Acknowledgments
 
@@ -180,8 +173,6 @@ imagination that disregards conventional disciplinary boundaries. With
 deep affection and respect, I am happy to dedicate this work to these fine
 scholars, fine teachers, and fine men.
 
-OceanofPDF.com
-
 Contents
 
 Introduction: Business as a Social and Moral Terrain
@@ -212,11 +203,7 @@ Suggestions for Further Reading
 
 Index
 
-OceanofPDF.com
-
 Moral Mazes
-
-OceanofPDF.com
 
 Introduction: Business as a Social and Moral
 Terrain
@@ -397,11 +384,7 @@ am afraid, do I offer tips on how to find one's way onto the "fast track" to
 managerial success. This is, rather, an interpretive sociological account of
 how managers think the world works.
 
-OceanofPDF.com
-
 Moral Probations, Old and New
-
-I
 
 To understand the connections between managerial work, bureaucracy,
 success, and morality, one must look at the great transformations, both
@@ -698,8 +681,6 @@ kind of ethic bureaucracy produces in managers, one can begin to
 understand how bureaucracy shapes actual morality in our society as a
 whole.
 
-II
-
 The moral dilemmas posed by bureaucratic work are, in fact, pervasive,
 taken for granted, and, at the same time, regularly denied. Managers do,
 however, continually assess their decisions, their organizational milieux,
@@ -884,11 +865,7 @@ premiums as well and, in particular, on those men and women whose
 ambition impels them to internalize those premiums in a thorough way,
 since it is they who create and re-create their organizational milieux.
 
-OceanofPDF.com
-
 The Social Structure of Managerial Work
-
-I
 
 The hierarchical authority structure that is the linchpin of bureaucracy
 dominates the way managers think about their world and about themselves.
@@ -1264,8 +1241,6 @@ apart that one can discern what has held it together in the first place. A
 series of shake-ups that occurred in Covenant Corporation, all within a
 period of a few years, present a focused case study of political processes
 basic to all big corporations.
-
-II
 
 In 1979, a new CEO took power in Covenant Corporation. The first action
 of most new CEOs is some form of organizational change. On the one
@@ -1658,8 +1633,6 @@ helm of chemicals, Brown returned to his original home in the corporation
 as the aide-de-camp of the president of the new Energy Sector—his old
 mentor. When the latter retired, Brown assumed control of that sector.
 
-III
-
 This sequence of events is remarkable only for its compactness. One need
 only regularly read The Wall Street Journal, the business section of The
 New York Times, any of the leading business magazines, let alone more
@@ -2036,11 +2009,7 @@ constant state of probation produces a profound anxiety in managers,
 perhaps the key experience of managerial work. It also breeds, selects, or
 elicits certain traits in ambitious managers that are crucial to getting ahead.
 
-OceanofPDF.com
-
 The Main Chance
-
-I
 
 Within this complicated and ambiguous authority and social structure,
 always subject to upheaval, success and failure are meted out to those in the
@@ -2265,8 +2234,6 @@ way. And he'll always pick—as a result—his own guy when the chance to do so 
 
 The criteria that individuals in authority may apply are bounded by the
 particular style and ethos of their corporation.
-
-II
 
 One can, however, discern several criteria that are universally important in
 managerial circles. Bureaucracies not only rationalize work; they
@@ -3220,8 +3187,6 @@ selected as rising stars from the negative judgments of others; and only the
 foolhardy point out even egregious errors of those in power or those
 destined for it.
 
-III
-
 Failure is also socially defined. The most damaging failure is, as one
 middle manager in Alchemy Inc. puts it, "When your boss or someone who
 has the power to determine your fate says: 'You failed.'" Such a godlike
@@ -3647,11 +3612,7 @@ right masks, learn all the proper vocabularies of discourse, get to know all
 the right people, and cultivate the subtleties of the art of self-promotion.
 One can then sit tight and wait for things to happen.
 
-OceanofPDF.com
-
 Looking Up and Looking Around
-
-I
 
 Authority and advancement patterns come together in the decision-making
 process. The core of the managerial mystique is decision-making prowess,
@@ -4128,8 +4089,6 @@ procrastinating until total crisis voided real choices, is intrinsic to
 organizational life because the real issue in most gut decisions is: Who is
 going to get blamed if things go wrong?
 
-II
-
 There is no more feared hour in the corporate world than "blame-time."
 Somewhere, there is a cartoon of President Richard Nixon saying: "I accept
 all of the responsibility, but none of the blame." Blame is quite different
@@ -4369,8 +4328,6 @@ Of course, a less agile individual or less powerful group might get nailed as
 a consequence, but managers do not concern themselves with this. The
 fundamental rule of corporate life is to protect oneself and, if possible,
 one's own.
-
-III
 
 Although managers see few defenses against being caught in the wrong
 place at the wrong time except constant wariness and perhaps being shrewd
@@ -4649,8 +4606,6 @@ mistakes are not penalized, there seems to be a sharp decline in the
 likelihood of men and women sacrificing their own interests for others, for
 their organizations, or least of all for the common weal.2
 
-IV
-
 Sometimes managers become hostages of sorts to this "take the money and
 run" ethos of short-term gains, outrunning mistakes, and leaving problems
 for others; the ethos subverts even the best attempts at exercising
@@ -4844,11 +4799,7 @@ Young's fatal error was pausing on the track, in the middle of the race, and
 thinking about the future. Instead of outrunning his mistakes, they overran
 him.
 
-OceanofPDF.com
-
 Drawing Lines
-
-I
 
 The moral ethos of managerial circles emerges directly out of the social
 context that I have described. It is an ethos most notable for its lack of
@@ -5072,8 +5023,6 @@ pragmatism. The social rather than the purely personal origins of this
 characteristic come into sharp focus in analyzing the following case of a
 man who tried to "blow the whistle" on practices in his organization,
 contrasted with other managers' appraisals of what he did.
-
-II
 
 Brady was educated in England as a chartered public accountant, a
 profession that he values highly and one that carries considerably more
@@ -5384,8 +5333,6 @@ others. Managers' essential pragmatism stems thus not only from the
 pervasive matter-of-factness engendered by the expertise so typical of
 bureaucracies, but from the priority that managers assign to the rules and
 social contexts of their bureaucratic world.
-
-III
 
 It could scarcely be otherwise. Managers know that whatever efficacy they
 may have in their occupational world they have through their bureaucratic
@@ -5752,8 +5699,6 @@ extent do managers experience moral dilemmas in their grapplings with the
 world. In my view, this is the nub of the moral ethos of bureaucracy.
 Managers see this issue as a "trade-off" between principle and expediency.
 They usually pose the trade-off as a question: Where do you draw the line?
-
-IV
 
 Managers sometimes find lines already drawn for them depending on the
 prevailing norms of their particular corporation or even of their particular
@@ -6471,11 +6416,7 @@ actions both in their own organizational milieux and, depending on their
 positions, in the larger public arena. The truly ambitious manager must
 work therefore at attaining a certain dexterity with symbols.
 
-OceanofPDF.com
-
 Dexterity with Symbols
-
-I
 
 The density of the social structure of the corporation is matched by an
 intricate ideological complexity. At any given moment in most major
@@ -6637,8 +6578,6 @@ abstractions help obfuscate issues and thus reduce the likelihood of
 unwanted interference in one's work from some public but it also allows
 managers themselves to grapple dispassionately with problems that can
 generate high emotions.
-
-II
 
 The higher one goes in the corporate world, the more essential is the
 mastery of provisional language. In fact, advancement beyond the uppermiddle levels depends greatly on one's ability to manipulate a whole
@@ -7036,8 +6975,6 @@ maintain their occupational self-image as experts. Each group fuels the
 other's needs and self-images in an occupational drama where the needs of
 organizations get subordinated to the maintenance of professional
 identities.
-
-III
 
 The kind of "flexibility" that is required to maintain such stances can be
 confusing even to those in inner management circles. For instance, a highly
@@ -7881,11 +7818,7 @@ provisional, intentions always cloaked, and frankness simply one of many
 guises, wily discernment, being able, as managers say "to separate the
 honey from the horseshit," becomes an indispensable skill.
 
-OceanofPDF.com
-
 The Magic Lantern
-
-I
 
 The need for symbolic dexterity, particularly the ability to fashion, quickly
 and readily, appropriate legitimations for what must be done, intensifies as
@@ -7952,8 +7885,6 @@ disseminating various ideologies, the ethics that they fashion, and in
 particular the basic habit of mind that underpins all of their efforts, provide
 some insight into how moral issues get translated into issues of public
 relations.
-
-II
 
 From the modern beginnings of their occupation, men and women in public
 relations have been acutely aware that social reality and social reputations
@@ -8276,8 +8207,6 @@ comfortable air of solidity, a development that would not, of course, have
 surprised Harry Reichenbach. Paradoxically, the more artifice used in
 constructing social reality, the more does that reality come for many to
 seem commonplace, natural, and taken for granted.
-
-III
 
 Men and women in public relations are not generally taken in by their own
 artifice. Rather, the very nature of their work continually reminds them that
@@ -8962,8 +8891,6 @@ alertness to expediency. Within such a framework, public relations
 specialists usually conclude very pragmatically that one might as well "sing
 whatever song the client wants to hear."
 
-IV
-
 Public relations work both demands and fosters in its practitioners a
 characteristic occupational virtue, that is, a highly self-conscious, reflexive
 ability to "doublethink," to borrow Orwell's term, to hold in one's mind and
@@ -9270,11 +9197,7 @@ frame appropriate responses to the charges being made. As public pressure
 mounted, the public relations firm created a position and then appointed a
 director of public relations.
 
-OceanofPDF.com
-
 Invitations to Jeopardy
-
-I
 
 The ethic that emerges in bureaucratic contexts contrasts sharply in many
 respects with the original Protestant ethic. The Protestant ethic was a social
@@ -9407,8 +9330,6 @@ moral mazes that are paradigmatic of the quandaries of public life in our
 social order. Within this framework, the puzzle for many individual
 managers becomes: How does one act in such a world and maintain a sense
 of personal integrity?
-
-II
 
 Bureaucratic work itself, of course, provides powerful frameworks that can
 and often do obscure tensions between requisite actions and idealized selfimages, sometimes even for considerable periods. In particular, the
@@ -9844,8 +9765,6 @@ concrete work of one's younger years, even for fabled crisis periods when
 a society that unambiguously, it is thought, extolled work in business as
 socially honorable and personally salvific.
 
-III
-
 For most managers, especially for those who are ambitious, the real
 meaning of work—the basis of social identity and valued self-image—
 becomes keeping one's eye on the main chance, maintaining and furthering
@@ -9955,8 +9874,6 @@ create and re-create, as one unintended consequence of their personal
 striving, a society where morality becomes indistinguishable from the quest
 for one's own survival and advantage.
 
-OceanofPDF.com
-
 Moral Mazes and the Great Recession
 
 This essay was presented at the Séminaire AEGIS, École polytechnique CNRS, Paris,
@@ -9964,8 +9881,6 @@ France, March 26, 2009. My thanks to Professor Hervé Dumez for inviting me to p
 in the AEGIS seminar and to him and his students for their helpful insights. I am most
 grateful, as always, to Janice M. Hirota and Duffy Graham for their careful, critical reading
 of my work.
-
-I
 
 The guiding intellectual problem of Moral Mazes: The World of Corporate
 Managers is: how does bureaucracy shape moral consciousness? I address
@@ -9981,8 +9896,6 @@ Mazes later in this essay. Consider, first, the cataclysms that have shaken
 American economy and society in the past few decades, culminating in the
 Great Recession of 2008–2009. The leitmotif is that of organized
 irresponsibility.
-
-II
 
 Business leaders, working in conjunction with political elites, have
 outsourced American core industries to other countries, stripping our nation
@@ -10650,8 +10563,6 @@ Mae and Freddie Mac in both houses of Congress, some of them now
 chairmen of key committees, in overseeing the remediation of the
 catastrophe they had materially helped to create.
 
-III
-
 The themes of Moral Mazes resonate throughout the economic and
 financial tumult of recent decades. Happenings in the tight-knit
 occupational world of investment banking provide the classic illustration.
@@ -10840,8 +10751,6 @@ institutions that shape citizens' everyday lives, perpetuate themselves. They
 re-create the ethos of organized irresponsibility and recklessness that has
 become the disquieting hallmark of our times.
 
-OceanofPDF.com
-
 Author's Note
 
 Chapter 1 discusses some of the main dimensions and ambiguities of my
@@ -10921,8 +10830,6 @@ morality. I did this by presenting several whistleblower cases to the
 
 stratified group of twelve managers mentioned earlier, asking them to
 assess the dissenters' actions and motives by their own standards.
-
-OceanofPDF.com
 
 Notes
 
@@ -12628,8 +12535,6 @@ community. Even after years of work in such a setting, some managers still
 find their daily exposure to the drama of coordinating human toil with
 technology an exhilarating experience.
 
-OceanofPDF.com
-
 Suggestions for Further Reading
 
 There is scarcely an occupational group about which more has been written
@@ -12840,8 +12745,6 @@ profit from Walter Lippmann's ruminations on the conundrums of public
 opinion in modern democratic societies marked by increasingly centralized
 executive power. See The Phantom Public (New York: Harcourt, Brace and
 Company, 1925).
-
-OceanofPDF.com
 
 Index
 
@@ -14210,8 +14113,6 @@ Recession, 232
 
 Young (pseudonym for manager at Covenant), 101–5
 
-OceanofPDF.com
-
 * Throughout the book, I use quotation marks in the text proper to indicate words, phrases, or
 quotes actually voiced in the interviews, conversations, and discussions described in Chapter 1 and in
 the Author's Note that form the basis of my analysis. The only exceptions to this are occasional
@@ -14222,13 +14123,9 @@ quotation marks to emphasize or self-consciously bracket ideas.
 
 the author.
 
-OceanofPDF.com
-
 * See Author's Note (preceding the Notes section at the end of the book) for a description of the
 
 data on which this study is based.
-
-OceanofPDF.com
 
 * Brackets within quotations represent words or phrases changed or added by the author, either to
 
@@ -14237,7 +14134,3 @@ protect identity or to provide grammatical fluency.
 * Henceforth, I shall generally use only "he" or "his" to allow for easier reading.
 
 * All personal names in the field data throughout the book are pseudonyms.
-
-OceanofPDF.com
-
-OceanofPDF.com

@@ -152,8 +152,6 @@ Thus ainong the ancients the individual, almost always sovereign in
 public affairs, was a slave in all his private relations. As a citizen, he
 decided on peace and war; as a private individual, he was constrained,
 
-The liberty of the ancients compared with that of the moderns
-
 watched and repressed in all his movements, as a member of the
 collective body, he interrogated, dismissed, condemned, beggared,
 exiled, or sentenced to death his magistrates and superiors; as a subject
@@ -193,8 +191,6 @@ independence, their whole existence at the price of war. This was the,
 constant interest, the almost habitual occupation of the free states of
 
 г J. A. N. Caritat de Condorcet, Sur l'instruction publique, p. 47.
-
-Speech given at the Athénée Royal
 
 antiquity. Finally, by an equally necessary result of this way of being, all
 these states had slaves. The mechanical professions and even, among
@@ -244,7 +240,6 @@ ancients gave to their mores a severe and cruel imprint, which made it easy for 
 to sacrifice gentle affections to political interests.' E. Hofmann (ed.), Les 'Principes de
 Politique', vol. 2, p. 428.
 
-The liberty of the ancients compared with that of the moderns
 ee
 most able of navigators, did not risk it until very late, and their example
 for long remained without imitators. In Athens, of which we shall talk
@@ -330,8 +325,6 @@ we shall see them extending the rights of citizenship to whoever would,
 a Constant's notes to the 1806 draft show that he derived most of his illustrations and
 examples about Athens in this passage from Cornelius de Pauw, Recherches philosophiques sur les Gres, vol. 1, pp. 93ff.
 
-The liberty of the ancients compared with that of the moderns
-
 by moving among them with his family, establish some trade or industry. Finally, we shall be struck by their excessive love of individual
 independence. In Sparta, says a philosopher, the citizens quicken their
 step when they are called by a magistrate; but an Athenian would be
@@ -375,8 +368,6 @@ a Xenophon, De Republica Lacedaemonium, УШ, 2 in: J. М. Moore (ed.), Aristotl
 
 Xenophon on democracy and oligarchy (London, 1975).
 
-Speech given at the Athénée Royal
-
 It follows that we must be far more attached than the ancients to our
 individual independence. For the ancients when they sacrificed that
 independence to their political rights, sacrificed less to obtain more;
@@ -419,8 +410,6 @@ two philosophers who had themselves failed to recognize the changes
 brought by two thousand years іп the dispositions of mankind. І shall
 perhaps at some point examine the system of the most illustrious of
 
-The liberty of the ancients compared with that of the moderns
-
 these philosophers, of Jean-Jacques Rousseau, and I shall show that, by
 transposing into our modern age an extent of social power, of collective
 sovereignty, which belonged to other centuries, this sublime genius,
@@ -462,8 +451,6 @@ political liberty, he could not help admiring it. He went into ecstasies
 
 г Gabriel Bonnot де Mably, De la législation ou principes des lois.
 
-Speech given at the Athénée Royal
-
 over the Egyptians, because, as he said, among them everything was
 prescribed by the law, down to relaxations and needs: everything
 was subjected to the empire of the legislator. Every moment of the day
@@ -504,8 +491,6 @@ steeped in ancient views which are no longer valid, which the philosophers whom 
 
 « The Duke of Richelieu.
 в C, L. S. de Montesquieu, Esprit des Lois, Book 3.
-
-The liberty of the ancients compared with that of the moderns
 
 eee. ee
 
@@ -552,8 +537,6 @@ incapable even of paying attention.' E. Hofmann (ed.), Les 'Рппаре de Poli
 2, р. 432.
 
 2"
-
-Speech given at the Athénée Royal
 
 e O
 
@@ -605,7 +588,6 @@ powers oí special tribunals.
 diminishes the dependence of individuals on the nation.' E. Hofmann (ed.), Les
 'Principes de Politique', vol. 2, р. 421.
 
-The liberty of the ancients compared with that of the moderns
 ee ЕЕ а=
 he is guilty. No-one has the right to tear the citizen from his country,
 the owner away from his possessions, the merchant away from his
@@ -649,8 +631,6 @@ which antiquity is cited even more frequently and with greater emphas
 sis. As for example, education; what do we not hear of the need to allow
 the government to take possession of new generations to shape them to
 its pleasure, and how many erudite quotations are employed to support
-
-Speech given at the Athénée Royal
 
 НЕ______________-___-_____"___- __-_ а
 i
@@ -698,8 +678,6 @@ would like'to reconstitute the new social state with a small number of
 elements which, they say, are alone appropriate to the situation of the
 world today. These elements are prejudices to frighten men, egoism to
 
-The liberty of the ancients compared with that of the moderns
-
 corrupt them, frivolity to stupefy them, gross pleasures to degrade
 them, despotism to lead them; and, indispensably, constructive knowledge and exact sciences to serve despotism the more adroitly. It would
 be odd indeed if this were the outcome of forty centuries during which
@@ -740,8 +718,6 @@ it changes the nature of property, which becomes, in virtue of this
 change, almost impossible to seize.
 
 Commerce confers a new quality on property, circulation. Without
-
-Speech given at the Athénée Royal
 
 circulation, property is merely a usufruct; political authority can always
 affect usufruct, because it can prevent its enjoyment; but circulation
@@ -785,8 +761,6 @@ do herself. Poor men look after their own business; rich men hire
 + 'A deficit of 60 million caused the French revolution. Under Vespasian, a deficit of
 600 million did not produce the slightest unrest in the empire.' Е. Hofmann (ed.),
 Les 'Prinaipes de Politique', vol. 2, р. 426.
-
-The liberty of the ancients compared with that of the moderns
 
 eee
 
@@ -839,8 +813,6 @@ house itself is built on sand.
 
 This concept is derived from Sieyés: see footnote a, р. 23.
 
-Speech given at the Athénée Royal
-
 Moreover, Gentlemen, is it so evident that happiness, of whatever
 kind, is the only aim of mankind? If it were so, our course would be
 narrow indeed, and our destination far from elevated. There is not one
@@ -882,8 +854,6 @@ author of the history of the republics in the Middle Ages,* must
 ! М. de Lafayette, deputy of the department of the Sarthe.
 
 а J. С. Simonde де Sismondi.
-
-The liberty of the ancients compared with that of the moderns
 
 accomplish the destiny of the human race; they can best achieve their
 aim if they elevate the largest possible number of citizens to the highest

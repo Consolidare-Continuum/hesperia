@@ -4189,8 +4189,6 @@ feedback	from	the	condition	of	the	resource	to	the	decisions
 of	the	resource	users.	The	consequence	is	overuse	of	the
 resource,	eroding	it	until	it	becomes	unavailable	to	anyone.
 
-THE	WAY	OUT
-
 Educate	and	exhort	the	users,	so	they	understand	the
 consequences	of	abusing	the	resource.	And	also	restore	or
 strengthen	the	missing	feedback	link,	either	by	privatizing
@@ -4281,8 +4279,6 @@ performance,	especially	if	there	is	a	negative	bias	in
 perceiving	past	performance,	sets	up	a	reinforcing	feedback
 loop	of	eroding	goals	that	sets	a	system	drifting	toward	low
 performance.
-
-THE	WAY	OUT
 
 Keep	performance	standards	absolute.	Even	better,	let
 standards	be	enhanced	by	the	best	actual	performances
@@ -4399,8 +4395,6 @@ loudness,	escalating	violence.	The	escalation	is	exponential
 and	can	lead	to	extremes	surprisingly	quickly.	If	nothing	is
 done,	the	spiral	will	be	stopped	by	someone's	collapse—
 because	exponential	growth	cannot	go	on	forever.
-
-THE	WAY	OUT
 
 The	best	way	out	of	this	trap	is	to	avoid	getting	in	it.	If
 caught	in	an	escalating	system,	one	can	refuse	to	compete
@@ -4557,8 +4551,6 @@ If	the	winners	of	a	competition	are	systematically	rewarded
 with	the	means	to	win	again,	a	reinforcing	feedback	loop	is
 created	by	which,	if	it	is	allowed	to	proceed	uninhibited,	the
 winners	eventually	take	all,	while	the	losers	are	eliminated.
-
-THE	WAY	OUT
 
 Diversification,	which	allows	those	who	are	losing	the
 
@@ -4764,8 +4756,6 @@ more	of	the	solution	is	then	required.	The	system	will
 become	more	and	more	dependent	on	the	intervention	and
 less	and	less	able	to	maintain	its	own	desired	state.
 
-THE	WAY	OUT
-
 Again,	the	best	way	out	of	this	trap	is	to	avoid	getting	in.
 Beware	of	symptom-relieving	or	signal-denying	policies	or
 practices	that	don't	really	address	the	problem.	Take	the
@@ -4842,8 +4832,6 @@ Rules	to	govern	a	system	can	lead	to	rule	beating—
 perverse	behavior	that	gives	the	appearance	of	obeying	the
 rules	or	achieving	the	goals,	but	that	actually	distorts	the
 system.
-
-THE	WAY	OUT
 
 Design,	or	redesign,	rules	to	release	creativity	not	in	the
 direction	of	beating	the	rules,	but	in	the	direction	of
@@ -4954,8 +4942,6 @@ feedback	loops.	If	the	goals—the	indicators	of	satisfaction	of
 the	rules—are	defined	inaccurately	or	incompletely,	the
 system	may	obediently	work	to	produce	a	result	that	is	not
 really	intended	or	wanted.
-
-THE	WAY	OUT
 
 Specify	indicators	and	goals	that	reflect	the	real	welfare	of
 the	system.	Be	especially	careful	not	to	confuse	effort	with
@@ -7054,8 +7040,6 @@ night,	as	shown	in	graph
 Population—for	Figures	21–26
 Stock:	population(t)	=	population(t	–	dt)	+	(births	–	deaths)	×	dt
 Initial	stock	value:	population	=	6.6	billion	people
-t	=	years
-dt	=	1	year
 Run	time	=	100	years
 Inflow:	births	=	population	×	fertility
 Outflow:	deaths	=	population	×	mortality
@@ -7082,8 +7066,6 @@ Capital—for	Figures	27	and	28
 
 Stock:	capital	stock(t)	=	capital	stock(t	–	dt)	+	(investment	–	depreciation)	×	dt
 Initial	stock	value:	capital	stock	=	100
-t	=	years
-dt	=	1	year
 Run	time	=	50	years
 Inflow:	investment	=	annual	output	×	investment	fraction
 Outflow:	depreciation	=	capital	stock	/	capital	lifetime
@@ -7157,8 +7139,6 @@ Initial	stock	values:	resource	=	1000	…	for	Figures	38,	40,	and	41;	1000,	2000
 and	4000	…	for	three	comparative	model	runs	in
 
 Outflow:	extraction	=	capital	×	yield	per	unit	capital
-t	=	years
-dt	=	1	year
 Run	time	=	100	years
 Stock:	capital(t)	=	capital(t	–	dt)	+	(investment	–	depreciation)	×	dt
 Initial	stock	values:	capital	=	5
@@ -7186,8 +7166,6 @@ Stock:	resource(t)	=	resource(t	–	dt)	+	(regeneration	–	harvest)	×	dt
 Initial	stock	value:	resource	=	1000
 Inflow:	regeneration	=	resource	×	regeneration	rate
 Outflow:	harvest	=	capital	×	yield	per	unit	capital
-t	=	years
-dt	=	1	year
 Run	time	=	100	years
 
 Stock:	capital(t)	=	capital(t	–	dt)	+	(investment	–	depreciation)	×	dt

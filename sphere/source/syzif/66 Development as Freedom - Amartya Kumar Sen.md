@@ -118,8 +118,6 @@ Introduction: Development as
 
 Freedom
 
-I
-
 The Perspective of Freedom
 
 The Ends and the Means of Development
@@ -142,8 +140,6 @@ IO
 
 Cultu1·e and Human Rights
 
-II
-
 Social Choice and Individual Behavior
 
 Individual Freedom as a Social
@@ -158,15 +154,9 @@ Index by Subject
 
 .
 
-IX
-
 .
 
 Xl
-
-XV
-
-III
 
 I46
 
@@ -447,8 +437,6 @@ will make clear), this work is presented mainly for open deliberation
 
 •
 
-XIV
-
 Preface
 
 and critical scrutiny. I have, throughout my life, avoided gtving
@@ -519,8 +507,6 @@ with Angus Deaton, Meghnad Desai, James Foster and Siddiq
 Osmani. My collaboration with Martha Nussbaum during 1987-89
 
 .
-
-XVI
 
 Acknowledgments
 
@@ -599,13 +585,9 @@ know). Under her influence, the plot has thickened. This has been
 
 important for the work.
 
-DEVELOPMENT AS FREEDOM
-
 •
 
 INTRODUCTION
-
-DEVELOPMENT AS FREEDOM
 
 Development can be seen, it is argued here, as a process of expanding
 
@@ -654,8 +636,6 @@ intolerance or overactivity of repressive states. Despite unprece­
 dented increases in overall opulence, the contemporary world denies
 
 •
-
-DEVELOPMENT AS FREEDOM
 
 elementary freedoms to vast numbers-perhaps even the majority­
 
@@ -785,8 +765,6 @@ A second illustration relates to the dissonance between income
 per head (even after correction for price variations) and the freedom
 
 of individuals to live long and live well. For example, the citizens of
-
-DEVELOPMENT AS FREEDOM
 
 Gabon or South Africa or Namibia or Brazil may be much richer in
 
@@ -930,10 +908,7 @@ in either defending or chastising the market mechanism.
 
 ,
 
-I
 J
-
-DEVELOPMENT AS FREEDOM
 
 I end this list of illustrations with another that draws directly on
 
@@ -1085,8 +1060,6 @@ different positions-relying respectively on reasoned freedom and
 
 IO
 
-DEVELOPMENT AS FREEDOM
-
 economic compulsion-will be investigated later on in this study (the
 
 balance of evidence, I shall argue, is certainly more on Condorcet's
@@ -1151,13 +1124,9 @@ dationally, the evaluative importance of freedom, we aLso have to
 
 •
 
-I
-
 l
 
 Introduction
-
-II
 
 understand the remarkable empirical connection that links freedoms
 
@@ -1192,8 +1161,6 @@ passive recipients of the benefits of cunning development programs.
 There is indeed a strong rationale for recognizing the positive role of
 
 free and sustainable agency-and even of constructive impatience.
-
-II
 
 CHAPTER I
 
@@ -1250,8 +1217,6 @@ well be extremely contingent on other circumstances. The issue is
 not the ability. to live forever on which Maitreyee-bless her soul-
 
 I4
-
-DEVELOPMENT AS FREEDOM
 
 happened to concentrate, but the capability to live really long (with­
 
@@ -1327,8 +1292,6 @@ freedoms we enjoy. Expanding the freedoms that we have reason to
 
 '
 
-The Perspective of Freedom
-
 value not only makes our lives richer and more unfettered, but also
 
 allows us to be fuller social persons, exercising qur own volitions
@@ -1402,8 +1365,6 @@ firmation of this thesis, and there is little evidence that authori­
 tarian politics actually helps economic growth. Indeed, the empirical
 
 I6
-
-DEVELOPMENT AS FREEDOM
 
 evidence very strongly suggests that economic growth is more a mat­
 
@@ -1481,8 +1442,6 @@ afflictions (such as economic disasters). Since political and civil free-
 
 ,
 
-The Perspective of Freedom
-
 IJ
 
 doms are constitutive elements of human freedom, their denial is a
@@ -1548,8 +1507,6 @@ that people have). Both processes and opportunities have importance
 of their own, and each aspect relates to seeing development as
 
 freedom.
-
-DEVELOPMENT AS FREEDOM
 
 '
 
@@ -1620,8 +1577,6 @@ expression "agent" is sometimes employed in the literature of eco­
 
 nomics and game theory to denote a person who is acting on some-
 
-The Perspective of Freedom
-
 one else's behalf (perhaps being led on by a '�principal"), and whose
 achievements are to be assessed in the light of sqmeone else's (the
 principal's) goals. I am using the term "agent" not in this sense, but
@@ -1664,8 +1619,6 @@ incomes. These connections have to be fully seized. But there are also
 other influences on the basic capabilities and effective freedoms that
 
 ,
-
-DEVELOPMENT AS FREEDOM
 
 individuals enjoy, and there are good reasons to study the nature and
 
@@ -1737,8 +1690,6 @@ major European countries) entails deprivations that are not well
 
 reflected in income distribution statistics. These deprivations are
 
-The Perspective of Freedom
-
 2I
 
 often downplayed on the grounds that the European system of social
@@ -1807,8 +1758,6 @@ years.
 In fact, it turns out that men in China and in Kerala decisively
 
 outlive African American men in terms of surviving to older age
-
-DEVELOPMENT AS FREEDOM
 
 FIGURE r.I: Variations in Male Survival Rates by Region
 
@@ -1919,18 +1868,13 @@ ages) include social arrangements and community relations such as
 �-
 -�-
 
-The Perspective of Freedom
-
 .2: Variations in Female Survival Rates by Region
 
 �::::
 
 ::-+---------+�---t-----+---·
 
-I
 l
-
-I
 
 ·--" ··-�--1--.. --------
 
@@ -1960,9 +1904,7 @@ Q)
 �
 .s 85
 
-I
 !
-I
 
 '
 
@@ -1978,9 +1920,6 @@ s
 
 i
 t-----1
-I
-I
-I
 
 Q)
 
@@ -1988,33 +1927,21 @@ Q)
 
 ,
 
-I
-
 •
 
 70 -�---+---+-
 
 i
-I
 
 i
 t
 
-I
-
 !
 
-I
-
 i
-I
-I
 ;
 •
 
-I
-I
-I
 -- I
 
 -·-· .... u.s.
@@ -2022,7 +1949,6 @@ I
 h
 
 +Kerala,
-India
 
 -1
 
@@ -2034,18 +1960,11 @@ India
 
 !
 
-I
-
-I
 !
 
 ................ ,_ ...... -.... -} .. -............. _,_, __ �-·-·-.. ·-.. -
 
 ---t 1---t-
-I
-I
-I
-I
 
 ·-··-··-.. -·,··-"
 
@@ -2060,8 +1979,6 @@ i
 .
 ,
 
-I
-
 !
 
 !
@@ -2071,8 +1988,6 @@ t
 !
 i
 
-I
-I
 l
 
 ;
@@ -2207,8 +2122,6 @@ William Petty in the seventeenth century, and followed by Gregory
 
 I.
 
-The Perspective of Freedom
-
 King, Fran�ois Quesnay, Antoine-Laurent Lavoisier, Joseph-Louis
 Lagrange and others. While the national accounts devised by these
 leaders of economic analysis established the foundations of the mod­
@@ -2252,8 +2165,6 @@ compelling reasons to the contrary-something that is within their
 right to do. This point does not depend on the efficiency of the
 
 '
-
-DEVELOPMENT AS FREEDOM
 
 market mechanism or on any extensive analysis of the consequences
 
@@ -2326,8 +2237,6 @@ pens that the effects of such transactions are so bad for others that
 this prima facie presumption in favor of allowing people to trans­
 
 act as they like may be sensibly restricted, there is still something
-
-The Perspective of Freedom
 
 directly lost in imposing this restriction (even if it is outweighed by
 
@@ -2402,8 +2311,6 @@ freedom to utility has been achieved at some cost: the neglect of the
 
 .,.
 
-DEVELOPMENT AS FREEDOM
-
 central value of freedom itself. John Hicks, one of the leading econo­
 
 mists of this century, who himself was far more utility-oriented than
@@ -2469,8 +2376,6 @@ not especially low-"nearly identical with the life expectation of
 
 countries as advanced as France and Holland," and "much longer
 
-The Perspective of Freedom
-
 [than] life expectations [of] free urban industrial workers in both the
 
 United States and Europe. ,22 And yet slaves did �un away, and there
@@ -2534,8 +2439,6 @@ the real unfreedom of workers in pre-capitalist systems: "the
 freedom of workers to change employers makes him free in a
 
 way not found in earlier modes of production." The study of
-
-DEVELOPMENT AS FREEDOM
 
 the development of wage labour in agriculture is important
 
@@ -2608,8 +2511,6 @@ priorities (to be discussed in chapters 6 through II).
 
 ,.
 
-The Perspective of Freedom
-
 3I
 
 Individual freedom is quintessentially a social product, and there
@@ -2652,8 +2553,6 @@ ity (as many traditional societies have had for thousands of years),
 then it is the people directly involved who must have the opportu­
 nity to participate in deciding what should be chosen. The real con­
 flict is between
-
-DEVELOPMENT AS FREEDOM
 
 I)
 
@@ -2730,8 +2629,6 @@ Also, since participation requires knowledge and . basic educa­
 
 tional skills, denying the opportunity of schooling to any group-
 
-The Perspective of Freedom
-
 say, female children-is immediately contrary to the basic conditions
 
 of participatory freedom. While these rights have often been disputed
@@ -2802,8 +2699,6 @@ What would be damaging would be the neglect-often to be seen
 in the development literature-of centrally relevant concerns because
 
 of a lack of interest in the freedoms of the people involved. An
-
-DEVELOPMENT AS FREEDOM
 
 adequately broad view of development is sought in order to focus the
 
@@ -2878,8 +2773,6 @@ of the process is seen as exemplified by such things as mutually
 
 '
 
-DEVELOPMENT AS FREEDOM
-
 beneficial exchanges (of which Adam Smith spoke eloquently), or by
 
 the working of social safety nets, or of political liberties, or of social
@@ -2946,8 +2839,6 @@ misses the crucial understanding that political participation and dis­
 sent are constitutive parts of development itself. Even a very rich per­
 son who is prevented from speaking freely, or from participating in
 public debates and decisions, is deprived of something that she has
-
-The Ends and the Means of Development
 
 3 7
 
@@ -3016,8 +2907,6 @@ The two roles are thus linked by empirical connections, relating free­
 
 dom of one kind to freedom of other kinds.
 
-DEVELOPMENT AS FREEDOM
-
 '
 
 INSTRUMENTAL FREEDOMS
@@ -3081,8 +2970,6 @@ critique as well as voting rights and participatory selection of legisla­
 tors and executives).
 
 Economic facilities refer to the opportunities that individuals
-
-The Ends and the Means of Development
 
 3 9
 
@@ -3159,8 +3046,6 @@ expect: the freedom to deal with one another under guarantees of
 
 disclosure and lucidity. When that trust is seriously violated, the
 
-DEVELOPMENT AS FREEDOM
-
 lives of many people-both direct parties and third parties-may be
 
 adversely affected by the lack of openness. Transparency guarantees
@@ -3229,8 +3114,6 @@ and energetic press, can contribute both to economic development
 
 and to significant reductions in mortality rates. Reduction of mor-
 
-The Ends and the Means of Development
-
 4 r
 
 tality rates, in turn, can help to reduce birth rates, reinforcing the influ­
@@ -3295,8 +3178,6 @@ state actions, that help to determine the nature and reach of indi­
 vidual freedoms. Social arrangements may be decisively important in
 
 securing and expanding the freedom of the individual. Individual
-
-DEVELOPMENT AS FREEDOM
 
 freedoms are influenced, on one side, by the social safeguarding of
 
@@ -3376,14 +3257,9 @@ and China does, of course, have many other aspects (including the
 
 '
 
-I
-
 l
-I
 
 ,
-
-The Ends and the Means of Development
 
 4 3
 
@@ -3456,8 +3332,6 @@ take to worry about the discord between income achievements and
 
 '
 
-DEVELOPMENT AS FREEDOM
-
 survival chances, since-in general-the statistical connection between
 
 them is observed to be quite close. As a point about intercountry sta­
@@ -3523,8 +3397,6 @@ to see the great achievements of the East Asian and Southeast Asian
 economies over several decades, which have transformed the lives
 
 r
-
-The Ends and the Means of Development
 
 4 5
 
@@ -3596,8 +3468,6 @@ I have already commented on the first contrast (between, say,
 South Korea and Brazil), but the second contrast too deserves policy
 
 l
-I
-I
 
 DEVELOPMENT AS FREEDOA1
 
@@ -3672,8 +3542,6 @@ on the other. Since life expectancy variations relate to a variety of
 social opportunities that are central to development (including epide­
 
 miological policies, health care, educational facilities and so on), an
-
-The Ends and the Means of Development
 
 4 7
 
@@ -3838,7 +3706,6 @@ T""'
 --
 {:f.)-
 
-I
 � 5000
 � 4000
 g
@@ -3883,8 +3750,6 @@ which lies very considerably in the economics of relative costs. The
 
 ..
 ..
-
-DEVELOPMENT AS FREEDOM
 
 viability of this support-led process is dependent on the fact that the
 
@@ -3958,11 +3823,7 @@ richer (through what may be a long period of economic growth)
 
 .
 
-I
-
 r
-
-The Ends and the Means of Development
 
 4 9
 
@@ -4237,8 +4098,6 @@ Indeed, it is remarkable that interdecade comparisons, based on
 
 ,
 
-The Ends and the Means of Development
-
 5 I
 
 decadal censuses, show that by a very wide margin the most speedy
@@ -4298,8 +4157,6 @@ are extremely easy to prevent if the government tries to prevent them,
 
 and a government in a multiparty democracy with elections and free
 
-DEVELOPMENT AS FREEDOM
-
 .3: Growth of GDP (U.K.) and Decadal Increases in Life
 
 Expectancy at Birth (England and Wales), I90I-I960
@@ -4317,8 +4174,6 @@ h
 
 �
 I '\ --
-I
-I
 
 \
 
@@ -4327,7 +4182,6 @@ I
 I.
 
 1 v
-I
 \I
 1\
 I \
@@ -4342,7 +4196,6 @@ K
 \' V '�
 \ _\ /\ ...
 I ) { \
-I
 \
 \
 . '
@@ -4351,16 +4204,9 @@ I
 
 .
 
-I
-I
-
 0.2
 
 0.1
-
-I
-I
-I
 
 .... ·-- ·
 
@@ -4370,7 +4216,6 @@ I
 
 1901-11
 
-I
 1911-21
 
 1921-31
@@ -4411,14 +4256,10 @@ curity, arising from changes in the economic or other circumstances
 
 r
 
-The Ends and the Means of Development
-
 or from uncorrected mistakes of policy, can lurk behind what looks
 like a healthy state. When this connection is discussed more fully (in
 chapters 6 and 7), the political aspects of the recent "Asian economic
 crisis'' will need to be addressed.
-
-A CONCLUDING REMARK
 
 The analysis presented in this chapter develops the basic idea that
 
@@ -4519,8 +4360,6 @@ chronic ailment-borne stoically-and could use the money to be
 earned to rid herself of that terrible disease. It is not denied that
 Rogini is less poor than the others (though certainly poor} and also
 
-Freedom and the Foundations of Justice
-
 not the unhappiest since she bears her deprivation rather cheerfully,
 
 used-as she has been-to being deprived all her life (coming from a
@@ -4589,8 +4428,6 @@ principles.
 In the discussion that follows, I comment on both (I) the general
 question of the importance of the informational base for evalua­
 tive judgments and ( 2) the particular issues of the adequacy of the
-
-DEVELOPMENT AS FREEDOM
 
 respective informational bases of some standard theories of social
 ethics and justice, in particular utilitarianism, libertarianism and
@@ -4667,10 +4504,6 @@ r
 
 r
 
-I
-
-Freedom and the Foundations of Justice
-
 cannot directly swing a normative evaluation in this utilitarian struc­
 
 ture. They can have an indirect role only through their effects on util­
@@ -4736,8 +4569,6 @@ point of focus in many debates on practical policies (as will be seen
 in arguments to be taken up later).
 
 In the next few pages, the informational bases of some distinss
-
-DEVELOPMENT AS FREEDOM
 
 guished approaches to justice will be examined, beginning with
 utilitarianism. The merits and limitations of each approach can, to a
@@ -4878,26 +4709,16 @@ v\..•
 ..
 .
 
-I
-I
 l
 i
 
 '
 
-I
-
 l •
-
-I
-
-L
 
 ..
 
 6o
-
-DEVELOPMENT AS FREEDOM
 
 another, � then and only then that person has more utility from x
 
@@ -4970,11 +4791,7 @@ no restriction be placed on the ownership, inheritance and use of
 
 property, rejecting even the idea of taxing property or income. Oth-
 
-I
-
 J
-
-Freedom and the Foundations of Justice
 
 6r
 
@@ -5046,13 +4863,6 @@ of the utilitarian approach to justice relates directly to its informa­
 
 tional base.
 
-I
-
-I
-L
-
-DEVELOPMENT AS FREEDOM
-
 ,.
 
 LIMITATIONS OF THE UTILITARIAN PERSPECTIVE
@@ -5117,8 +4927,6 @@ usual underdogs in stratified societies, perennially oppressed minori­
 
 ties in intolerant communities, traditionally precarious sharecroppers
 living in a world of uncertainty, routinely overworked sweatshop
-
-Freedom and the Foundations of Justice
 
 6 3
 
@@ -5191,8 +4999,6 @@ goes) as the things that we may judge to be desirable (utilities, well-
 
 '
 
-DEVELOPMENT AS FREEDOM
-
 being, equity of outcomes or opportunities, and so on). The issue,
 then, in this formulation, is not the comparative importance of
 rights, but their absolute priority.
@@ -5264,19 +5070,14 @@ weight that the person herself would tend to give to it in judging her
 . I
 ' I
 ,
-I
 
 :. I ' '
 
 i
 
-I
-
 I I
 r I
-II
 I I
-II
 
 I I '
 
@@ -5286,8 +5087,6 @@ I I
 t
 
 r
-
-Freedom and the Foundations of Justice
 
 6 5
 
@@ -5350,8 +5149,6 @@ Utopia), the "entitlements" that people have through the exercise
 of these rights cannot, in general, be outweighed because of their
 results-no matter how nasty those results may be. A very excep�
 tional exemption is given by Nozick to what he calls "catastrophic
-
-DEVELOPMENT AS FREEDOM
 
 moral horrors," but this exemption is not very well integrated with
 
@@ -5431,8 +5228,6 @@ can hardly be an adequate basis for an acceptable evaluative system.
 
 r
 
-Freedom and the Foundations of Justice
-
 In terms of its informational basis, libertarianism as an approach
 is just too limited. Not only does it ignore those variables to which
 utilitarian and welfarist theories attach great importance, but it also
@@ -5485,8 +5280,6 @@ in using interpersonal comparison of utilities, the fuller version of the
 
 i �in_stat�_y.,.
 \ -1
-
-DEVELOPMENT AS FREEDOM
 
 utilitarian tradition soon gave way to various compromises. The par­
 ticular compromise that is extensively used now is to take utility to
@@ -5542,8 +5335,6 @@ clearly-by construction-not the same level of utility from any com­
 modity bundle. More mathematically, the numerical representation
 
 I r
-
-Freedom and the Foundations of Justice
 
 of choice behavior is not unique; each choice behavior can be represented by a wide set of possible utility functions. 21 The coincidence of
 choice behavior need not entail any congruence of utilitieS.22
@@ -5632,8 +5423,6 @@ _
 
 . . .
 
-DEVELOPMENT AS FREEDOM
-
 limit the usefulness of real-income comparisons for judging different
 persons' respective advantages. The different difficulties are briefly
 considered in the next section, before I proceed to consider an alter­
@@ -5706,8 +5495,6 @@ j
 
 ,
 
-I
-
 communities, depending on conventions and customs. For example,
 being relatively poor in a rich community can prevent a person from
 
@@ -5763,8 +5550,6 @@ income and well-being make opulence-in the sense of high real
 income a limited guide to welfare and the quality of life. I shall
 
 come back to these variations and their impact later on in this book
-
-DEVELOPMENT AS FREEDOM
 
 (particularly in chapter 4), but there must be some attempt before
 that to address the question: What is the alternative? That is the
@@ -5848,8 +5633,6 @@ is subject to much the same list of variations we considered in the last
 
 J
 
-Freedom and the Foundations of Justice
-
 section in the context of reviewing the relationship between income
 and well-being! personal heterogeneities, environmental diversities,
 variations in social climate, differences in relational perspectives and
@@ -5913,11 +5696,6 @@ the customs of the country renders it indecent for creditable
 
 !
 
-I
-I
-
-DEVELOPMENT AS FREEDOM
-
 people, even the lowest order to be without. A linen shirt, for
 
 example, is, strictly speaking, not a necessary of life. The
@@ -5980,8 +5758,6 @@ of primary goods. Similarly, an older person or a person more prone
 to illness can be more disadvantaged in a generally accepted sense
 
 even with a larger bundle of primary goods.39
-
-Freedom and the Foundations of Justice
 
 The concept of "functionings," which has distinctly Aristotelian
 
@@ -6053,8 +5829,6 @@ things a person does and the latter about the things a person is sub­
 stantively free to do. Both versions of the capability approach have
 
 been used in the literature, and sometimes they have been combined.4s
-
-DEVELOPMENT AS FREEDOM
 
 According to a well-established tradition in economics, the real
 
@@ -6128,8 +5902,6 @@ of what weight to attach to substantive freedom (the capability set)
 
 vis-a-vis the actual achievement (the chosen functioning vector).
 
-Freedom and the Foundations of Justice
-
 Finally, since it is not claimed that the capability perspective exhausts
 all relevant concerns for evaluative purposes (we might, for example,
 attach importance to rules and procedures and not just to freedoms
@@ -6177,8 +5949,6 @@ i
 f
 ,
 )
-
-DEVELOPMENT AS FREEDOM
 
 heterogeneity is explicitly admitted. For example, in Rawlsian analy­
 sis primary goods are taken to be constitutively diverse (including
@@ -6234,8 +6004,6 @@ a range of weights. This is a ''social choice"' exercise, and it requires
 ....
 
 .
-
-Freedom and the Foundations of Justice
 
 public discussion and a democratic understanding and acceptance.s:z.
 It is not a special problem that is associated only with the .use of the
@@ -6307,8 +6075,6 @@ describing exchange/' 54 is the other side of the same coin: nothing
 
 8o
 
-DEVELOPMENT AS FREEDOM
-
 about interpersonal comparison of utility is learned from observing
 
 "the metric of exchange value."
@@ -6376,8 +6142,6 @@ modity holdings. The cot'founding of welfare comparison with real­
 
 income comparison exacts a heavy price.
 
-Freedom and the Foundations of Justice
-
 8I
 
 There is thus a strong methodological case for emphasizing the
@@ -6440,8 +6204,6 @@ of directly examining what can be said about respective advantages
 by examining and comparing vectors of functionings or capabilities.
 
 In many ways, this is the most immediate and full-blooded way of
-
-DEVELOPMENT AS FREEDOM
 
 going about incorporating capability considerations in evaluation.
 
@@ -6523,8 +6285,6 @@ and the prevalence and magnitude of joblessness can add to the par-
 
 ._e­
 
-Freedom and the Foundations of Justice
-
 tial illumination provided by the traditional measures in the income
 
 space. Such extensions can enrich the overall understanding of prob­
@@ -6590,8 +6350,6 @@ Furthermore, all the issues of trade-offs between different capabilities
 approach just as much as in the direct approach, since all that is
 
 essentially altered is the unit of expression. In this sense the indirect
-
-DEVELOPMENT AS FREEDOM
 
 approach is not basically different from the direct approach in terms
 
@@ -6667,8 +6425,6 @@ Each of these approaches has contingent merit that may vary
 
 depending on the nature of the exercise, the availability of informa-
 
-Freedom and the Foundations of Justice
-
 ss
 
 tion, and the urgency of the decisions that have to be taken. Since the
@@ -6681,8 +6437,6 @@ to emphasize the catholicity that the approach has. The foundational
 affirmation of the importance of capabilities can go with various
 strategies of actual evaluation involving practical compromises. The
 pragmatic nature of practical reason demands this.
-
-CONCLUDING REMARKS
 
 Euclid is supposed to have told Ptolemy: "There is no 'royal road' to
 
@@ -6736,8 +6490,6 @@ lead lives-that they have reason to value. I have discussed this
 approach elsewhere as well, 6:r as have others, and its advantages and
 
 limitations are also reasonably clear. It does appear that not only is
-
-DEVELOPMENT AS FREEDOM
 
 this approach able to take direct note of the importance of freedom,
 
@@ -6842,8 +6594,6 @@ real poverty-other than lowness of income (income is not the only
 
 instrument in generating capabilities).
 
-DEVELOPMENT AS FREEDOM
-
 3) The instrumental relation between low income and low capa­
 bility is variable between different communities and even between
 different families and different individuals (the impact of income on
@@ -6914,8 +6664,6 @@ others (for example, if there is a systematic "boy preference" in the
 family allocation of resources), then the extent of the deprivation of
 
 j
-
-Poverty as Capability Deprivation
 
 the neglected members (girls in the example considered) may not be
 
@@ -6991,8 +6739,6 @@ tively poor person in a rich country even when that person is at a
 
 much higher level of income compared with people in less opulent
 
-DEVELOPMENT AS FREEDOM
-
 countries. :ro Indeed, the paradoxical phenomenon of hunger in rich
 
 countries-even in the United States-has something to do with the
@@ -7066,11 +6812,7 @@ l
 
 ·I
 
-I
-
 _,
-
-Poverty as Capability Deprivation
 
 of the new possibilities is not independent of the social preparation
 that different sections of the Indian community have. While the
@@ -7138,8 +6880,6 @@ land distribution for its success in reducing penury.
 
 While these connections between income poverty and capability
 poverty are worth emphasizing, it is also important not to lose sight
-
-DEVELOPMENT AS FREEDOM
 
 of the basic fact that the reduction of income poverty alone cannot
 
@@ -7213,8 +6953,6 @@ inequalities being one that others "cannot reasonably reject": a crite­
 
 rion that Thomas Scanlon has proposed-and powerfully used-for
 
-Poverty as Capability Deprivation
-
 ethical evaluation).18 Certainly, severe inequalities are not socially
 attractive, and momentous inequalities can be, some would argue,
 downright barbaric. Furthermore, the sense of inequality may also
@@ -7279,8 +7017,6 @@ efficiency are to be examined. For example, a person with high
 
 income but no opportunity of political participation is not "poor" in
 
-DEVELOPMENT AS FREEDOM
-
 the usual sense, but is clearly poor in terms of an important freedom.
 
 Someone who is richer than most others but suffers from an ailment
@@ -7344,8 +7080,6 @@ morbidity (and even mortality rates}, disruption of family relations
 
 and social life, hardening of social exclusion and accentuation of
 .racial tensions and gender asymmetries. 22
-
-Poverty as Capability Deprivation
 
 Given the massive scale of unemployment in contemporary Euro­
 
@@ -7421,8 +7155,6 @@ But the same American social ethics would find the double-digit lev­
 
 els of unemployment, common in Europe, to be quite intolerable.
 
-DEVELOPMENT AS FREEDOM
-
 Europe has continued to accept worklessness-and its increase­
 
 with remarkable equanimity. Underlying this contrast is a difference
@@ -7488,8 +7220,6 @@ past the younger ages when death from violence is common. More
 explanation is needed than violent deaths can provide.
 
 Indeed, even if we take higher age groups (say, that between
-
-Poverty as Capability Deprivation
 
 · I: Mortality Rate Ratios of Blacks to Whites
 (Aged 35-54) Actual and Adjusted for Family Income
@@ -7653,8 +7383,6 @@ poverty in quite radical ways. When we focused on the ability to be
 ��-
 --
 
-DEVELOPMENT AS FREEDOM
-
 employed and to have the associated advantages of employment, the
 
 European picture looked quite dismal, and as we turn our attention
@@ -7725,8 +7453,6 @@ basic capabilities.
 
 i
 
-Poverty as Capability Deprivation
-
 9 9
 
 POVERTY AND DEPRIVATION IN
@@ -7789,8 +7515,6 @@ temporary world.
 
 IOO
 
-DEVELOPMENT AS FREEDOM
-
 TABLE 4.I: India and Sub-Saharan Africa: Selected Comparisons (I99I)
 
 Infant mortality rate comparisons
@@ -7809,8 +7533,6 @@ INDIA
 Indian states
 
 Region
-
-India
 
 Orissa
 
@@ -7913,8 +7635,6 @@ not very different from those prevailing in these most-deprived
 
 countnes.3°
 
-Poverty as Capability Deprivation
-
 IOI
 
 Adult literacy rate comparisons
@@ -7930,8 +7650,6 @@ r
 r
 
 Region
-
-India
 
 Rajasthan
 Bihar
@@ -8011,8 +7729,6 @@ combined population of the two is larger than that of Sierra Leone,
 
 Nicaragua or Ireland. Indeed, even entire states such as Uttar Pradesh
 
-DEVELOPMENT AS FREEDOM
-
 (which has a population as large as that of Brazil or Russia) do not
 
 do much better than the worst-off among the sub-Saharan countries
@@ -8088,8 +7804,6 @@ Africans, and have a median age at death much higher than Africans
 have, nevertheless there are many more undernourished children in
 
 J
-
-Poverty as Capability Deprivation
 
 India than sub-Saharan Africa-not just in absolute terms but also as
 a proportion of all children.38 If we add to it the fact that gender bias
@@ -8278,8 +7992,6 @@ Bangladesh China
 •
 '
 
-India
-
 '
 
 i
@@ -8321,8 +8033,6 @@ number men by substantial numbers. For example, in the United
 Kingdom, France and the United States, the ratio of women to men
 
 ..
-
-Poverty as Capability Deprivation
 
 !05
 
@@ -8399,8 +8109,6 @@ mortality rates, but where life expectancy is no higher and fertility
 
 I06
 
-DEVELOPMENT AS FREEDOM
-
 rates are no lower (quite the contrary). Taking the sub-Saharan
 
 female-male ratio of r.o22 as the benchmark (used in my earlier
@@ -8476,8 +8184,6 @@ health and nutrition of female children can be found in the other
 countries as well. In China there is even some evidence that the extent
 of neglect may have increased sharply in recent years, particularly
 
-Poverty as Capability Deprivation
-
 I07
 
 since the compulsory family restrictions (such as the one-child policy
@@ -8493,8 +8199,6 @@ not induced (with new births and new deaths both going unre­
 ported). However, recently, the brunt of the antifemale bias in family
 composition seems to be in sex-selective abortion, which has become
 quite widespread in China with the progress of technology.
-
-CONCLUDING REMARKS
 
 Economists are sometimes criticized for concentrating too much on
 efficiency and too little on equity. There may be some ground for
@@ -8530,8 +8234,6 @@ effect of contributing to the neglect of other ways of seeing inequal­
 ity and equity, which has far-reaching bearing on the making of
 
 ··- -
-
-DEVELOPMENT AS FREEDOM
 
 economic policy. Policy debates have indeed been distorted by over­
 
@@ -8608,8 +8310,6 @@ Mortality differences can, in fact, serve as an indicator of very
 
 deep inequities that divide races, classes and genders, as the various
 
-Poverty as Capability Deprivation
-
 I09
 
 illustrations in this chapter bring out. For example, the estimations of
@@ -8662,8 +8362,6 @@ Also (as was discussed in chapter 3 ), interpersonal comparisons of
 real income give us no basis for interpersonal comparisons even of
 
 IIO
-
-DEVELOPMENT AS FREEDOM
 
 utility {though that hiatus is often ignored in applied welfare eco­
 nomics through the imposition of wholly arbitrary assumptions). To
@@ -8778,8 +8476,6 @@ heresy is now the new superstition.
 
 II2
 
-DEVELOPMENT AS FREEDOM
-
 The need for critical scrutiny of standard preconceptions and
 political-economic attitudes has never been stronger.1 Today's preju­
 dices (in favor of the pure market n1echanism) certainly need to be
@@ -8830,8 +8526,6 @@ role of certain behavioral rules (such as basic business ethics) in
 developed capitalist economies (with attention being focused only on
 
 aberrations when they occur). But when these values are not yet
-
-Markets, State and Social Opportunity
 
 r r 3
 
@@ -8903,8 +8597,6 @@ implemented). The situation has been more studied in India than
 
 II4
 
-DEVELOPMENT AS FREEDOM
-
 elsewhere (as discussed in chapter I), but there is enough evidence
 that similar problems are present in several other countries as well.
 Second (to turn now to a very different illustration), the failure of
@@ -8961,8 +8653,6 @@ labor (as prevalent, for example, in Pakistan, or India, or Bangladesh),
 
 there is an embedded issue of slavery and bondage, since many of the
 children working in exacting tasks are forced to perform them. The
-
-Markets, State and Social Opportunity
 
 I I 5
 
@@ -9041,8 +8731,6 @@ conformity. Sometimes there may not even be, in any clear sense, a
 
 II6
 
-DEVELOPMENT AS FREEDOM
-
 ban on women's seeking employment, and yet women reared with
 
 traditional values may be quite afraid to break with the tradition
@@ -9116,8 +8804,6 @@ mies of large scale) may influence the actual possibilities and impose
 r
 
 '
-
-Markets, State and Social Opportunity
 
 II7
 
@@ -9193,8 +8879,6 @@ ties as well as the liberty to transact have already been discussed ear­
 lier. However, for the freedom to achieve in line with what one wants
 
 II8
-
-DEVELOPMENT AS FREEDOM
 
 to achieve, we have to take note of the merits of the available
 
@@ -9336,8 +9020,6 @@ conversion of incomes into capabilities.
 The freedom-efficiency of the market mechanism, on the one
 
 hand, and the seriousness of freedom-inequality problems, on the
-
-DEVELOPMENT AS FREEDOM
 
 other hand, are worth considering simultaneously. The equity prob­
 
@@ -9489,8 +9171,6 @@ force for progressive change in the world}, had little sympathy for the
 
 I22
 
-DEVELOPMENT AS FREEDOM
-
 generally anti�market arguments of precapitalist leaders of thought.
 It is one of the ironies of the history of ideas that some who
 advocate radical politics today often fall for old economic positions
@@ -9541,8 +9221,6 @@ claims in favor of the thesis of social benefits from disallowing com­
 petition. Smith argued that the vested interests tend to win because of
 their ''better knowledge of their own interest'> (not "their knowledge
 of publick interest"}. He wrote:
-
-Markets, State and Social Opportunity
 
 I 2 3
 
@@ -9624,8 +9302,6 @@ markets cannot be predetermined on the basis of some grand, general
 
 I24
 
-DEVELOPMENT AS FREEDOM
-
 formula-or some all-encompassing attitude-either in favor of
 
 placing everything under the market, or of denying everything to the
@@ -9696,8 +9372,6 @@ market signals can be misleading, and the consequences of the free
 market may be much waste of capital, resulting from private pursuit
 
 of misguided or myopic enterprises, or private waste of social
-
-Markets, State and Social Opportunity
 
 I 2 5
 
@@ -9772,8 +9446,6 @@ to the possibility that under certain circumstances private profit
 
 I26
 
-DEVELOPMENT AS FREEDOM
-
 motives may indeed run counter to social interests. It is this general
 
 concern that remains relevant today (not just the particular example
@@ -9847,8 +9519,6 @@ process). The search for a single all-purpose remedy (such as "open
 the markets" or "get the prices right'' ) has had much hold on profes­
 
 sional thinking in the past, not least in the World Bank itself. Instead,
-
-Markets, State and Social Opportunity
 
 I 2 7
 
@@ -9925,8 +9595,6 @@ solution of every economic problem may want to inquire what the
 ,
 
 I28
-
-DEVELOPMENT AS FREEDOM
 
 limits of that mechanism may be. I have already commented on issues
 of equity and the need to go beyond efficiency considerations, and in
@@ -10005,8 +9673,6 @@ public-good component as well (and can be seen as a semipublic
 
 good). The persons receiving education do, of course, benefit from it,
 
-Markets, State and Social Opportunity
-
 I 29
 
 but in addition a general expansion of education and literacy in a
@@ -10066,12 +9732,7 @@ While these considerations provide good grounds for public expendi­
 ture in the areas crucial for economic development and social change,
 there are contrary arguments that must also be considered in the
 
-I
-I
-
 I30
-
-DEVELOPMENT AS FREEDOM
 
 same context. One issue is that of the :fiscal burden of public expen­
 
@@ -10143,8 +9804,6 @@ vices himself (and might have done so in the absence of free public
 provisioning). Those who see entitlement to these basic social provi­
 
 sions (medical attention, education and so on} as an inalienable right
-
-Markets, State and Social Opportunity
 
 I 3 I
 
@@ -10220,8 +9879,6 @@ a painful and threatening disease, it would be, in most cases, legiti­
 
 mate to conclude that she did have a capability problem.
 
-DEVELOPMENT AS FREEDOM
-
 Of course, in some cases, this will not be true. For example, a per­
 
 son may commit suicide. Or she may starve not out of necessity, but
@@ -10288,8 +9945,6 @@ relief experiences are occasional reports of some parents keeping one
 
 child in the family thoroughly famished so that the family qualifies to
 get nutritional support (e.g., in the form of take-home food rations)-
-
-Markets, State and Social Opportunity
 
 I 3 3
 
@@ -10365,8 +10020,6 @@ phasis on direct public provisioning of such facilities as health services
 
 I34
 
-DEVELOPMENT AS FREEDOM
-
 and educational programs. 47 These services are typically nonshiftable
 and nonsalable, and of not much use to a person unless he or she
 actually happens to need them. There is some "built-in matching" in
@@ -10432,8 +10085,6 @@ for that ailment), the possibility of informational distortion of the
 first kind would be substantially reduced. There is a contrast here
 
 with providing fungible money for financing medical treatment,
-
-Markets, State and Social Opportunity
 
 r 3 5
 
@@ -10503,32 +10154,13 @@ tion. But targeted support can also affect people's economic behavior.
 For example, the prospect of losing the support if one were to earn
 too much can be a deterrent for economic activities. It would be
 
-I
-I
-I
-I
-
 '
-
-I
-I
-I
-I
-I
-I
 
 '
 
 i
-I
-I
-I
-
-I
 
 I36
-
-DEVELOPMENT AS FREEDOM
 
 natural to expect that there would be some significant distorting
 
@@ -10599,8 +10231,6 @@ The point of outlining these difficulties is not to suggest that tar­
 
 geting must be pointless or always problematic, but only to note that
 
-Markets, State and Social Opportunity
-
 r 3 7
 
 there are considerations that run counter to the simple argument for
@@ -10661,8 +10291,6 @@ for the chosen system of allocation. Here the shift in attention from
 just income poverty to the deprivation of capabilities helps the task
 
 I38
-
-DEVELOPMENT AS FREEDOM
 
 of identifiability. While means-testing still requires that incomes and
 
@@ -10728,8 +10356,6 @@ What evidence do we have about the pernicious effects of infla­
 
 tion? In a powerful critical survey of international experiences in this
 
-Markets, State and Social Opportunity
-
 r 3 9
 
 area, Michael Bruno notes that "several recorded episodes of moder­
@@ -10792,8 +10418,6 @@ case made is not for eliminating inflation altogether-irrespective of
 what has to be sacrificed for that end. Rather, the lesson is to keep in
 
 I40
-
-DEVELOPMENT AS FREEDOM
 
 view the likely costs of tolerating inflation against the costs of reduc­
 
@@ -10868,8 +10492,6 @@ are currently making determined attempts to cut the levels of these
 large deficits (Italy has provided an impressive example of this in
 
 recent years).
-
-Markets, State and Social Opportunity
 
 I 4 I
 
@@ -10946,12 +10568,8 @@ the government or of the central bank. The need for scrutiny and
 
 I42
 
-DEVELOPMENT AS FREEDOM
-
 comparative assessment of alternative fields of public expenditure is
 altogether crucial.
-
-CONCLUDING REMARKS
 
 Individuals live and operate in a world of institutions. Our opportu­
 nities and prospects depend crucially on what institutions exist and
@@ -11006,8 +10624,6 @@ of resources (such as land) that can be crucial to so�e economic
 activities (such as agriculture) call for appropriate public policies
 
 (involving schooling, health care, land reform and so on). Even when
-
-Markets, State and Social Opportunity
 
 14 3
 
@@ -11086,8 +10702,6 @@ remarkable. As far as human resources are concerned, they have reaped
 
 I44
 
-DEVELOPMENT AS FREEDOM
-
 as they have sown. Indeed, the priority to human resource develop­
 ment applies particularly to the early history of Japanese economic
 
@@ -11151,8 +10765,6 @@ erment of women (through more outside employment, more school
 education and so on) so effective in reducing fertility rates, since
 
 young women have a strong reason for moderating birthrates, and
-
-Markets, State and Social Opportunity
 
 I 4 5
 
@@ -11249,8 +10861,6 @@ doms. Habeas corpus may not seem like a communicable concept in
 that context. Priority must surely be given, so the argument runs, to
 
 fulfilling economic needs, even if it involves compromising political
-
-The Importance of Democracy
 
 I47
 
@@ -11381,8 +10991,6 @@ this choice. In a different but closely related variant of this arguw
 ment, it is dahned that the real issue is not so much what people
 actually choose, but what they have reason to choose. Since people
 
-The Importance of Democracy
-
 have reason to want to eliminate, first and foremost, economic
 
 deprivation and misery, they have reason enough for not insisting
@@ -11451,8 +11059,6 @@ conclusion on the basis of the fact that the fastest-growing African
 country (and one of the fastest growers in the world), viz., Botswana,
 
 !50
-
-DEVELOPMENT AS FREEDOM
 
 has been a oasis of democracy on that troubled continent. Much
 
@@ -11526,8 +11132,6 @@ Political and civil rights give people the opportunity to draw atten ...
 
 tion forcefully to general needs, and to demand appropriate public
 
-The Importance of Democracy
-
 action. Governmental response to the acute suffering of people often
 
 depends on the pressure that is put on the government, and thi� is
@@ -11589,8 +11193,6 @@ democratic freedoms in South Korea, Thailand, Bangladesh, Paki­
 stan, Burma (or Myanmar} and elsewhere in Asia. Similarly, while
 
 1:52
-
-DEVELOPMENT AS FREEDOM
 
 political freedom is widely denied in Africa, there have been move­
 
@@ -11743,8 +11345,6 @@ process in which political and social dialogues have played a major
 
 I54
 
-DEVELOPMENT AS FREEDOM
-
 part. The high level of literacy of the Kerala population, especially
 
 female literacy, which is higher than that of every province of China,
@@ -11812,8 +11412,6 @@ of democracy.
 Inadequacy of practice applies also to some failings in more
 
 mature democracies as well. For example, the extraordinary depriva-
-
-The Importance of Democracy
 
 I55
 
@@ -11886,8 +11484,6 @@ what strength such opportunities are seized depends on a variety of
 factors, including the vigor of multiparty politics as well as the
 
 I56
-
-DEVELOPMENT AS FREEDOM
 
 dynamism of moral arguments and of value formation.9 For example,
 
@@ -11963,8 +11559,6 @@ schooling program that would extend the right to elementary educa­
 
 tion to a substantially larger group of children).
 
-The Importance of Democracy
-
 I 57
 
 In fact, it can be argued that the contribution of democracy in
@@ -12025,8 +11619,6 @@ Muslim country in the world, in which millions of Christians, along
 
 with most of the world's Sikhs, Parsees, and J ains, live.
 
-A CONCLUDING REMARK
-
 Developing and strengthening a democratic system is an essential
 
 component of the process of development. The significance of
@@ -12037,8 +11629,6 @@ structive role in the creation of values and norms. No evaluation of
 ,
 
 I58
-
-DEVELOPMENT AS FREEDOM
 
 the democratic form of governance can be complete without consid­
 
@@ -12191,8 +11781,6 @@ have to be distinguished from problems of endemic hunger and
 
 poverty that may lead to persistent suffering but do not include any
 
-Famines and Other Crises
-
 fresh explosion of extreme deprivation that suddenly engulfs a por­
 
 tion of the people. Even in analyzing endemic undernourishment .and
@@ -12202,7 +11790,6 @@ chapter 9), I shall draw on some of the concepts that the study of
 famines will yield (in this chapter).
 
 For the elimination of hunger in the modern world, it is crucial to
-I
 f understand the causation of famines in an ade_quately broad way, and
 l- not just in terms of some meehanicaL-ba.l�-n��-b.e_t_w:een .. foo.d .. and
 ) _ populatjon. Wltat is crucial in analy�.ing.lumge.r..J.s the-sub.s.taX-l:;tive
@@ -12251,8 +11838,6 @@ lar'' phenomenon of general poverty, in the same way that famines
 differ from endemic hunger.
 
 I62
-
-DEVELOPMENT AS FREEDOM
 
 ENTITLEMENT AND INTERDEPENDENCE
 
@@ -12326,8 +11911,6 @@ nology determines the production possibilities, which are influenced
 by available knowledge as well as the ability of the people to marshal
 
 that knowledge and to make actual use of it.
-
-Famines and Other Crises
 
 In generating entitlements, the endowment in the form of land
 
@@ -12403,8 +11986,6 @@ were among the worst-affected occupational groups in the I 94 3
 
 famine. Of course fish is food too, but it is high-quality food, and the
 
-DEVELOPMENT AS FREEDOM
-
 poor fishermen have to sell fish to be able to buy cheaper calories in
 
 staple foods (in Bengal, this mostly takes the form of rice) to be able
@@ -12477,8 +12058,6 @@ wage rates for wage laborers, production of other commodities and
 their prices for craftsmen and service-providers, and so on.
 
 r
-
-Famines and Other Crises
 
 I65
 
@@ -12561,8 +12140,6 @@ and related activities, and that would have given them the means to
 
 I66
 
-DEVELOPMENT AS FREEDOM
-
 .I: Food Grains Availability in Bangladesh, I97I-I975
 
 16.0
@@ -12572,8 +12149,6 @@ DEVELOPMENT AS FREEDOM
 15.9
 '
 �
-
-I
 
 '
 •
@@ -12724,7 +12299,6 @@ D Per Capita Availability
 (Oz./Day)
 
 <
-I
 ... �·
 
 .,
@@ -12766,8 +12340,6 @@ t
 
 _;'
 
-I
-
 Source: Amartya Sen, Poverty and Famines (Oxford: Oxford Univeristy Press,
 I98I), table 9·5· The famine occurred in 1974-
 
@@ -12785,8 +12357,6 @@ taken its heavy toll.
 
 Even when a famine is associated with a decline in food produc­
 tion (as it clearly was in the case of the Chinese famine of I958-r96I
-
-Famines and Other Crises
 
 or in the Irish famines in the x84os9), we still have to go beyond
 the output statistics to explain why it is that some parts of the popu­
@@ -12865,8 +12435,6 @@ conditions. Erstwhile productive workers may then be without work
 
 x68
 
-DEVELOPMENT AS FREEDOM
-
 or earnings, and in the absence of social security systems, there
 
 would not be anything else to fall back on.
@@ -12938,8 +12506,6 @@ changes. The numbers involved, while often absolutely large, are
 usually small fractions of the total population, and the minimum lev­
 
 els of purchasing power needed to ward off starvation can be quite
-
-Famines and Other Crises
 
 small. Thus the costs of such public action for famine prevention are
 
@@ -13087,10 +12653,6 @@ food, in particular causing their death from hunger, it is hard to deny
 
 r
 
-I
-
-Famines and Other Crises
-
 that there was a famine (as the term is commonly understood) in Ire­
 land at that time.
 
@@ -13163,8 +12725,6 @@ the case of Ireland, the poverty of the Irish in general and the modest
 
 I72
 
-DEVELOPMENT AS FREEDOM
-
 size of their assets made them specially vulnerable to the economic
 decline that occurred with the blight. 20 In that context, focus has to
 be placed not only on the endemic poverty of the people involved,
@@ -13229,8 +12789,6 @@ from Ireland to England during the Irish famines. The market forces
 would always encourage movement of food to places where people
 could afford to pay a higher price for it. The prosperous English
 could do just that, compared with what the impoverished Irish could
-
-Famines and Other Crises
 
 I73
 
@@ -13302,8 +12860,6 @@ Indeed, as Joel Mokyr has noted, "Ireland was considered by
 
 Britain as an alien and even hostile nation.""'$ This estrangement
 
-DEVELOPMENT AS FREEDOM
-
 affected many aspects of Irish-British relations. For one thing, as
 Mokyr notes, it discouraged British capital investment in Ireland. But
 
@@ -13374,8 +12930,6 @@ Irish famines, who saw not much wrong with British economic policy
 in Ireland (of which he was in charge), pointed to Irish habits as part
 
 of the explanation of the famines. Chief among the habitual failures
-
-Famines and Other Crises
 
 I75
 
@@ -13453,8 +13007,6 @@ W hile growth of food output is important, the main issue concerns
 
 I76
 
-DEVELOPMENT AS FREEDOM
-
 overall economic growth, since food is purchasable in the world mar­
 
 ket. A country can purchase food from abroad if it has the means to
@@ -13517,8 +13069,6 @@ tional trade. As far as lack of growth is concerned, the major feature
 
 of sub-Saharan Africa"'s problems is not the particular lack of growth
 in food output as such, but the general lack of economic growth alto-
-
-Famines and Other Crises
 
 I77
 
@@ -13589,8 +13139,6 @@ homes, close to their economic activities (like farming), so that these
 
 economic operations are not disrupted. The family life too can
 
-DEVELOPMENT AS FREEDOM
-
 continue in a normal way, rather than people being herded into emer­
 
 gency camps. There is also more social continuity, and, furthermore,
@@ -13659,8 +13207,6 @@ very poor, such as India, Botswana or Zimbabwe.
 Indeed, the democratic poor countries sometimes have had much
 
 larger declines in the production and supply of food, and also sharper
-
-Famines and Other Crises
 
 !79
 
@@ -13739,8 +13285,6 @@ into the region, the creation of income for the destitute people itself
 
 I80
 
-DEVELOPMENT AS FREEDOM
-
 helps to alleviate hunger through a better sharing of the available
 
 food.H
@@ -13813,8 +13357,6 @@ one at this stage), the approaching famines are firmly prevented.
 
 The second issue concerns information. A free press and the prac-
 
-Famines and Other Crises
-
 I8I
 
 tice of democracy contribute greatly to bringing out information that
@@ -13880,10 +13422,6 @@ nese authorities mistakenly believed that they had roo million more
 metric tons of grain than they actually did.37
 
 ,
-
-I
-
-DEVELOPMENT AS FREEDOM
 
 Interestingly enough, even Chairman Mao, whose radical hopes
 
@@ -14028,8 +13566,6 @@ or the policy regarding irrigation and agricultural research). Further,
 
 I84
 
-DEVELOPMENT AS FREEDOM
-
 even with crop failures, a famine can be averted by a careful redistri­
 bution policy (including that of employment creation). Indeed, as
 
@@ -14097,8 +13633,6 @@ from changes in the economic or other circumstances or from uncor­
 rected mistakes of policy, can lurk behind what may look very much
 
 like a healthy economy. The recent problems of East Asia and South-
-
-Famines and Other Crises
 
 east Asia bring out, among many other things, the penalty of un­
 
@@ -14178,8 +13712,6 @@ unquestioned acceptance of nonaccountability and nontransparency,
 
 ,
 
-DEVELOPMENT AS FREEDOM
-
 often reinforced by strong family links between the government and
 
 the financial bosses. In the emergence of the economic crises, the
@@ -14216,8 +13748,6 @@ protective role of democracy is strongly missed when it is most
 
 needed.
 
-CONCLUDING REMARKS
-
 The challenge of development includes both the elimination of per­
 sistent, endemic deprivation and the prevention of sudden, severe
 
@@ -14250,8 +13780,6 @@ for the two countries as a whole the comparison of general increase
 in life expectancy is entirely in favor of China. And yet China also
 
 had (as was discussed earlier in this chapter) the largest recorded
-
-Famines and Other Crises
 
 famine in history, when thirty million people perished in the famines
 that followed the failure of the Great Leap Forward, during I9 58-
@@ -14324,8 +13852,6 @@ tinuation of endemic poverty. But here too the nature of-and causal
 influences on-inequality may differ somewhat between the prob­
 
 lem of persistent deprivation and that of sudden destitution. For
-
-DEVELOPMENT AS FREEDOM
 
 example, the fact that South Korea has had economic growth with
 
@@ -14430,8 +13956,6 @@ of social transformations that can alter the lives of both women and
 men.1
 
 I90
-
-DEVELOPMENT AS FREEDOM
 
 AGENCY AND WELL .. BEING
 
@@ -14570,8 +14094,6 @@ independent income tend to have a clear impact on enhancing the
 social standing of a woman in the household and the society. Her
 
 I92
-
-DEVELOPMENT AS FREEDOM
 
 contribution to the prosperity of the family is then more visible, and
 
@@ -14723,8 +14245,6 @@ systems and conventions of intrafamily division, an important role
 
 I94
 
-DEVELOPMENT AS FREEDOM
-
 can be played by female education, female employment and female
 
 ownership rights, and these "social" features can be very crucial for
@@ -14874,8 +14394,6 @@ age group are now very similar to each other in terms of the average
 
 . ,
 
-DEVELOPMENT AS FREEDOM
-
 for the country as a whole, but a heavy disadvantage persists for
 women in regions where gender inequality is particularly pronounced,
 including most states of northern India.15
@@ -15020,8 +14538,6 @@ keeping other variables constant, an increase in the crude female lit­
 eracy rate from, say, 22. percent (the actual I98I figure for India) to
 
 1.9 8
-
-DEVELOPMENT AS FREEDOM
 
 7 5 percent reduces the predicted value of under-five mortality for
 males and females combined from :r 56 per thousand (again, the
@@ -15317,14 +14833,7 @@ Another area in which women's involvement in economic affairs
 
 .
 
-I
-
-I
-I
-
 .,
-
-DEVELOPMENT AS FREEDOM
 
 varies is that of agricultural activities related to land ownership.
 
@@ -15377,8 +14886,6 @@ of economic and social change, and its determination as well as con­
 sequences closely relate to many of the central features of the devel­
 
 opment process.35
-
-A CONCLUDING REMARK
 
 The focus on the agency role of women has a direct bearing on
 
@@ -15461,8 +14968,6 @@ food production per head is falling in the world cannot be dismissed
 
 out of hand.
 
-Population, Food and Freedom
-
 IS THERE A WORLD FOOD CRJSIS?
 
 But is the fear justified? Is the world food output falling behind world
@@ -15534,8 +15039,6 @@ The African food output has, however, declined (on which I have
 
 already commented), and the prevalence of poverty in Africa puts it in
 
-DEVELOPMENT AS FREEDOM
-
 TABLE 9.1: Indices of Food Production per Head by Regions
 
 Regions
@@ -15564,7 +15067,6 @@ I04•9
 
 Asia
 
-India
 China
 
 Europe
@@ -15579,8 +15081,6 @@ Europe
 IOO.O
 
 100.0
-
-IOO.O
 
 III.6
 
@@ -15602,8 +15102,6 @@ I77·7
 130·5
 192·3
 
-IOO.O
-
 107.2
 
 102.3
@@ -15620,8 +15118,6 @@ North and
 
 99·4
 
-IOO.O
-
 Central
 
 America
@@ -15634,8 +15130,6 @@ America
 89.8
 
 94·0
-
-IOO.O
 
 99·3
 
@@ -15683,8 +15177,6 @@ vary over time (and in some years of climatic adversity there is even
 
 a decline, giving the alarmists a field day for a year or two), but the
 trend is quite clearly upward.
-
-Population, Food and Freedom
 
 ECONOMIC INCENTIVES AND FOOD PRODUCTION
 
@@ -15777,8 +15269,6 @@ impressive that the world food output has nevertheless continued to
 grow, well ahead of population growth. In fact, had more food been
 
 produced (without curing the income shortage from which most of
-
-DEVELOPMENT AS FREEDOM
 
 .I: Food Prices in Constant I990 U.S. Dollars
 
@@ -15897,8 +15387,6 @@ produce more food (if and when the demand increases) outline very
 
 r
 
-Population, Food and Freedom
-
 substantial opportunities of making the food production per head
 
 grow much faster in per capita terms. Indeed, yield per hectare has
@@ -15964,8 +15452,6 @@ misconceived theory can kill, and the Malthusian perspective of
 food-to-population ratio has much blood on its hands.
 
 2IO
-
-DEVELOPMENT AS FREEDOM
 
 POPULATION GROWTH AND
 
@@ -16038,8 +15524,6 @@ side effects?
 
 r
 
-Population, Food and Freedom
-
 2II
 
 COERCION AND REPRODUCTIVE RIGHTS
@@ -16101,8 +15585,6 @@ seen in Benthamite terms, then whether or not coercion should be
 acceptable in this field would turn entirely on its consequences, in
 
 2I2
-
-DEVELOPMENT AS FREEDOM
 
 particular utility consequences, without attaching any indigenous
 
@@ -16178,8 +15660,6 @@ ernment, may place on this subject. In general, the case for seeing
 intrinsic importance in autonomy and liberty is not easy to escape,
 
 and this can easily conflict with no-nonsense maximization of the
-
-Population, Food and Freedom
 
 2I3
 
@@ -16259,8 +15739,6 @@ _ .,
 
 2I4
 
-DEVELOPMENT AS FREEDOM
-
 Malthus loved this analysis of Condorcet's, was inspired by it and
 
 quoted it with great approval in his famous essay on population.
@@ -16337,8 +15815,6 @@ there is no reason whatever to suppose that anything beside
 
 the difficulty of procuring in adequate plenty the necessaries of
 
-Population, Food and Freedom
-
 2I5
 
 life should either indispose this greater number of persons to
@@ -16410,8 +15886,6 @@ family planning opportunities (parts of what may be called social
 development}. We need a discriminating analysis.
 
 2I6
-
-DEVELOPMENT AS FREEDOM
 
 ,
 
@@ -16550,8 +16024,6 @@ between the different districts of India. The most recent-and the
 
 2.18
 
-DEVELOPMENT AS FREEDOM
-
 most extensive study of this connection is the important statistical
 
 contribution by Mamta Murthi, Anne-Catherine Guio and Jean
@@ -16628,8 +16100,6 @@ r
 
 •
 
-Population, Food and Freedom
-
 is relatively small (a great deal smaller than the massive all-India
 study of Murthi, Guio and Dreze), nevertheless it would be wrong to
 
@@ -16697,8 +16167,6 @@ that day when Mrs. Liao, the family-planning official, threat­
 ened to blow up their houses. Last year, in the neighboring
 
 village of Xiaoxi, a man named Huang Fuqu, along with his
-
-DEVELOPMENT AS FREEDOM
 
 wife and three children, was ordered out of his house. To the
 
@@ -16769,8 +16237,6 @@ panded education (for women as well as men), made health care more
 
 generally available, provided more job opportunities for women
 
-Population, Food and Freedom
-
 22I
 
 and-more recently-stimulated rapid economic growth. These fac­
@@ -16836,8 +16302,6 @@ Kerala, as there is in China.
 
 It is also necessary to examine the claim in support of compulsory
 
-DEVELOPMENT AS FREEDOM
-
 birth control programs that the speed with which fertility rates can
 
 be cut down through coercive means is very much higher than for
@@ -16899,8 +16363,6 @@ tent tendency in those states to use heavy-handed methods of fatnily
 planning, including some coercion (in contrast with the more volun­
 
 tary and collaborative approach used in Kerala and Tamil Nadu).35
-
-Population, Food and Freedom
 
 The regional contrasts within India strongly argue for voluntarism
 
@@ -16974,8 +16436,6 @@ take to worry too much about the unacceptability of coercion­
 
 a luxury that only the rich countries can "afford"-and that poor
 
-DEVELOPMENT AS FREEDOM
-
 people are not really bothered by coercion. It is not at all clear on
 
 what evidence this argument is based. The people who suffer most
@@ -17044,10 +16504,6 @@ duced in some regions in India were, in fact, followed by a long period
 
 of stagnation in the birthrate, which ended only around I98 5.39
 
-Population, Food and Freedom
-
-A CONCLUDING REMARK
-
 The magnitude of the population problem is often somewhat exag­
 
 gerated, but nevertheless there are good grounds for looking for ways
@@ -17112,8 +16568,6 @@ strong effect in reducing fertility rate. Indeed, it is difficult to ignore
 the policy lessons implicit in these developments. The fact that these
 
 developments are highly desired for other reasons as well (including
-
-DEVELOPMENT AS FREEDOM
 
 the reduction of gender inequity) makes them central concerns in
 
@@ -17222,8 +16676,6 @@ demands of human rights: How can human rights have any real
 -�
 
 r
-
-DEVELOPMENT AS FREEDOM
 
 status except through entitlements that are sanctioned by the state, as
 the ultimate legal authority? Human beings in nature are, in this
@@ -17372,8 +16824,6 @@ freedoms that are associated with particular rights may be the ap"
 
 propriate focal point for debate. We have to judge the plausibility of
 
-DEVELOPMENT AS FREEDOM
-
 human rights as a system of ethical reasoning and as the basis of politi­
 
 cal demands.
@@ -17439,8 +16889,6 @@ the rights involved.
 It may of course be the case that rights, thus formulated, some­
 
 times end up unfulfilled. But it is surely possible for us to distinguish
-
-Culture and Human Rights
 
 between a right that a person has which has not been fulfilled and a
 
@@ -17515,8 +16963,6 @@ primarily at East Asia as the region of particular applicability. The
 
 23 2
 
-DEVELOPMENT AS FREEDOM
-
 generalization about the contrast between the West and Asia often
 
 concentrates on the land to the east of Thailand, even though there is
@@ -17583,8 +17029,6 @@ thought in the West itself. There is clearly a tendency in America and
 Europe to assume, if only implicitly, the primacy of political free­
 
 dom and democracy as a fundamental and ancient feature of Western
-
-Culture and Human Rights
 
 culture-one not to be easily found in Asia. It is, as it were, a contrast
 
@@ -17653,8 +17097,6 @@ Another useful distinction is between (I) the value of toleration:
 that there must be toleration of diverse beliefs, commitments, and
 actions of different people; and (2) equality of tolerance: the tolera­
 tion that is offered to some must be reasonably offered to all (except
-
-DEVELOPMENT AS FREEDOM
 
 when tolerance of some will lead to intolerance for others). Again,
 
@@ -17730,8 +17172,6 @@ serve a prince," Confucius replies, "Tell him the truth even if it
 
 ,
 
-Culture and Human Rights
-
 offends him."7 Those in charge of censorship in Singapore or Beijing
 
 might take a very different view. Confucius is not averse to practical
@@ -17801,8 +17241,6 @@ dhist message to east and west, but also covered the country with
 stone inscriptions describing forms of good life and the nature of
 
 good government.
-
-DEVELOPMENT AS FREEDOM
 
 The inscriptions give a special importance to tolerance of diver­
 
@@ -17876,8 +17314,6 @@ erance were not valued in the Indian classical tradition. There are
 
 ,
 
-Culture and Human Rights
-
 two aspects of the impressively detailed account of economics and
 politics to be found in Arthashastra that might tend to suggest such a
 diagnosis. First, Kautilya is a consequentialist of quite a narrow kind.
@@ -17940,8 +17376,6 @@ seen as perfectly acceptable.xJ To be sure, we do not find in Kautilya
 anything like the clear articulation that Aristotle provides of the
 
 importance of free exercise of capability. But the focusing on freedom
-
-DEVELOPMENT AS FREEDOM
 
 is clear enough in Kautilya as far as the upper classes are concerned. It
 
@@ -18011,8 +17445,6 @@ If a Hindu, when a child or otherwise, had been made a
 Muslim against his will, he is to be allowed, if he pleased, to go
 
 back to the religion of his fathers.l:4
-
-Culture and Human Rights
 
 Again, the domain of tolerance, while religion�neutral, was not
 
@@ -18091,8 +17523,6 @@ It is easy to multiply examples. The point to be seized is that the
 
 modern advocates of the authoritarian view of "Asian values" base
 
-DEVELOPMENT AS FREEDOM
-
 .,
 
 '
@@ -18167,8 +17597,6 @@ tion, there also have to be opportunities for retraining and acquiring
 of new skills (for people who would otherwise be displaced), in addi­
 
 tion to providing social safety nets (in the form of social security
-
-Culture and Human Rights
 
 and other supportive arrangements) for those whose interests are
 
@@ -18245,8 +17673,6 @@ society attaches to the objects and the lifestyles preserved. There
 
 is, of course, no ready formula for this cost-benefit analysis, but
 
-DEVELOPMENT AS FREEDOM
-
 what is crucial for a rational assessment of such choices is the abil­
 
 ity of the people to participate in public discussions on the subject.
@@ -18313,8 +17739,6 @@ tous insularity.
 It is indeed possible to argue that there are more interrelations
 
 and more cross-cultural influences in the world than is typically
-
-Culture and Human Rights
 
 acknowledged by those alarmed by the prospect of cultural subver­
 
@@ -18454,8 +17878,6 @@ lic, July I4 and 2I, I997), the responses that I got typically included
 
 some support for my disputation of the alleged specialness of "Asian
 
-Culture and Human Rights
-
 values" (as being generally authoritarian), but then they went on to
 
 argue that the West, on the other hand, was really quite special-in
@@ -18528,8 +17950,6 @@ respect, the view that thought and intelligence are the results of mate-
 
 _ ..,
 
-DEVELOPMENT AS FREEDOM
-
 rial conditions in the body, and "when they are destroyed ,'' that
 is, "after death," "no intelligence .remains."25 Skeptical schools of
 thought survived in Indian intellectual circles over the 1nillennia, and
@@ -18559,8 +17979,6 @@ book, particularly in valuing the importance of freedom, are to be
 
 rejected, the grounds for rejection must lie elsewhere.
 
-A CONCLUDING REMARK
-
 The case for basic freedoms and for the associated formulations in
 
 terms of rights rests on:
@@ -18589,8 +18007,6 @@ As it happens, the view that Asian values are quintessen­
 tially authoritarian has tended to come, in Asia, almost exclusively
 from spokesmen of those in power (sometimes supplemented-and
 reinforced-by Western statements demanding that people endorse
-
-Culture and Human Rights
 
 what are seen as specifically "Western liberal values�'). But foreign
 ministers, or government officials, or religious leaders, do not have a
@@ -18660,8 +18076,6 @@ need for popular participation is not just sanctimonious rubbish.
 Indeed, the idea of development cannot be dissociated from it.
 
 l
-
-DEVELOPMENT AS FREEDOM
 
 As far as the authoritarian claims about "Asian values" are con­
 
@@ -18733,8 +18147,6 @@ in this context to drive the point home.2 That remarkable theorem is
 
 typically interpreted as proving the impossibility of rationally deriving
 
-DEVELOPMENT AS FREEDOM
-
 social choice from individual preferences, and it has been taken to be
 a deeply pessimistic result. The analytical content of the theorem as
 
@@ -18805,8 +18217,6 @@ impossibility of rational social choice, but the impossibility that
 
 arises when we try to base social choice on a limited class of infor-
 
-Social Choice and Individual Behavior
-
 mation. At the risk of oversimplification, let me briefly consider one
 way of seeing the Arrow theorem.
 
@@ -18858,8 +18268,6 @@ Indeed, we can continue taking away more and more of the share of
 the poorest person and dividing the loot between the richer two-all
 the time making a majority improvement. This process of "improve­
 mene, can go on until the poorest has no cake left to be taken away.
-
-DEVELOPMENT AS FREEDOM
 
 What a wonderful chain, in the majoritarian perspective, of social
 
@@ -18922,8 +18330,6 @@ of which are external facts outside the informational base of the pref­
 erence rankings of the three persons (given Arrow's conditions). In
 
 fact, in making economic judgments we tend, in general, to use much
-
-Social Choice and Individual Behavior
 
 broader types of information than is permitted in the class of mecha­
 
@@ -18992,8 +18398,6 @@ manding complete social unanimity.7
 
 .,
 
-DEVELOPMENT AS FREEDOM
-
 It can also be argued that judgments of "social justice" do not
 really call for a tremendous fine-tuning precision: such as a claim that
 
@@ -19052,8 +18456,6 @@ Nazi party caused by-but not intended in-Hitler's military over­
 confidence. One would have to take a very limited view of history to
 
 expect that consequences match expectations as a general rule.
-
-Social Choice and Individual Behavior
 
 2 55
 
@@ -19133,8 +18535,6 @@ complementary. Smith was not going to praise the rich for consciously
 
 doing any good to others. The thesis of unintended consequences
 
-DEVELOPMENT AS FREEDOM
-
 involved the continuation of Smith's skepticism of the rich. The selfish
 
 and the rapacious are led, argued Smith, "by an invisible hand/' to
@@ -19204,8 +18604,6 @@ letter. You see me. It was no part of my intention to cause that you
 see me on the street (I was just trying to post a letter), but this was a
 
 ,
-
-Social Choice and Individual Behavior
 
 result of my going out of the house to the mailbox. It is an unin­
 
@@ -19281,8 +18679,6 @@ particular institutional arrangements can be better evaluated by not­
 
 ing the likelihood of various unintended consequences.
 
-DEVELOPMENT AS FREEDOM
-
 SOME ILLUSTRATIONS FROM CHINA
 
 Sometimes the consequences that occur were not only not intended
@@ -19351,8 +18747,6 @@ of female infants (if not infanticide), and certainly many more sex­
 specific abortions, as the families have tried to conform to the gov­
 
 ernmental norms on the total number of children without giving up
-
-Social Choice and Individual Behavior
 
 2 59
 
@@ -19503,8 +18897,6 @@ tended effects (as they themselves respectively proceeded to do),
 
 and it would be a complete mistake to think that the importance of
 
-Social Choice and Individual Behavior
-
 26I
 
 unintended effects undermines the need for rational assessment of all
@@ -19573,8 +18965,6 @@ Different persons may have very different ways of interpreting
 ethical ideas including those of social justice, and they may even be
 
 far from certain about how to organize their thoughts about it. But
-
-DEVELOPMENT AS FREEDOM
 
 the basic ideas of justice are not alien to social beings, who worry
 
@@ -19645,8 +19035,6 @@ That something other than the unleashing of greed is involved in
 the emergence and development of the capitalist system was, of
 
 course, clear to the early defenders of capitalism. The Manchester
-
-Social Choice and Individual Behavior
 
 2 6 3
 
@@ -19722,8 +19110,6 @@ faced in precapitalist economies because of the underdevelopment of
 
 capitalist virtues. Capitalism's need for motivational structures that
 
-DEVELOPMENT AS FREEDOM
-
 are more complex than pure profit maximization has been acknowl­
 
 edged in various forms, over a long time, by many leading social sci­
@@ -19791,8 +19177,6 @@ function-a lesson that is currently being learned rather painfully in
 the former Soviet Union and in parts of Eastern Europe. The impor­
 
 tance of institutions and behavioral experiences was rather eclipsed
-
-Social Choice and Individual Behavior
 
 there in the first flush of enthusiasm about the magic of allegedly
 
@@ -19866,8 +19250,6 @@ profit maximizatio n . Different commentators have emphasized dis­
 
 tinct motivational features in Japan. Michio Morishima has outlined
 
-DEVELOPMENT AS FREEDOM
-
 the special characteristics of the "Japanese ethos" as emerging from
 
 particular features of the history of Japan and its tendency toward
@@ -19939,8 +19321,6 @@ market mechanism and greater use of trade and exchange, the devel­
 oping countries have to pay attention not only to the virtues of pru-
 
 ,
-
-Social Choice and Individual Behavior
 
 dential behavior, but also to the role of complementary values, such
 
@@ -20018,8 +19398,6 @@ tracting party from letting others down. Such enforcement can either
 
 come from the law and its implementation, or-alternatively-be
 
-DEVELOPMENT AS FREEDOM
-
 based on mutual trust and an implicit sense of obligation.3° Since the
 
 effective reach of the government can be limited and slow in this
@@ -20094,8 +19472,6 @@ and the hold of organized crime in such economies.
 
 r
 
-Social Choice and Individual Behavior
-
 ENVIRONMENT, REGULATIONS AND VALUES
 
 The need to go beyond market rules has been much discussed
@@ -20162,8 +19538,6 @@ ple, the development of environmental ethics can do some of the job
 
 that is proposed to be done through compelling regulation.
 
-DEVELOPMENT AS FREEDOM
-
 PRUDENCE, SYMPATHY AND COMMITMENT
 
 In some of the literature in economics and politics (but less often in
@@ -20218,8 +19592,6 @@ a destitute may make you better off if you suffer at his suffering.
 Committed behavior may, however, involve self-sacrifice, since the
 
 reason for your atternpt to help is your sense of injustice, rather than
-
-Social Choice and Individual Behavior
 
 your desire to relieve your own sympathetic suffering. Nevertheless,
 there is still an element of one's "self,, involved in the pursuit of one's
@@ -20276,8 +19648,6 @@ the butcher, the brewer or the baker wants to sell his products to us,
 and why we want to buy his products.4x Smith was clearly right to
 point out that the motivation for mutually beneficial exchange cer­
 tainly does not need anything more than what Smith called "self-
-
-DEVELOPMENT AS FREEDOM
 
 love," and this is decidedly important to note, since exchange is so
 
@@ -20351,8 +19721,6 @@ mately no individual has a direct reason to be concerned with justice
 
 and ethics, these considerations may be instrumentally important for
 
-Social Choice and Individual Behavior
-
 economic success, and may, through that advantage, survive better
 
 than their rivals, in social rules of behavior.
@@ -20425,8 +19793,6 @@ activity which is at once social, intellectual, and creative." sx In the con­
 
 text of public choice, James Buchanan has pointed out: "The definition
 
-DEVELOPMENT AS FREEDOM
-
 of democracy as 'government by discussion' implies that individual val­
 
 ues can and do change in the process of decision-making." sz.
@@ -20498,8 +19864,6 @@ illustrated earlier, but I consider now another important example: the
 
 prevalence of corruption.
 
-Social Choice and Individual Behavior
-
 27 5
 
 CORRUPTION, INCENTIVES AND BUSINESS ETHICS
@@ -20569,8 +19933,6 @@ discretionary power to the officers who can grant favor to others­
 businessmen in particular-that may be worth a lot of money to
 
 them. The overcontrolled economy (the "license Raj," as the system
-
-DEVELOPMENT AS FREEDOM
 
 is called in India) is an ideal breeding ground for corruption, as the
 experience of South Asia particularly demonstrates. Even if such
@@ -20646,8 +20008,6 @@ Plato suggested in the Laws that a strong sense of duty would
 
 ,
 
-Social Choice and Individual Behavior
-
 help to prevent corruption. But he also noted, wisely, that this would
 
 be "no easy task." What is at issue is not just the general sense
@@ -20718,8 +20078,6 @@ power and authority. This makes the behavior of senior civil servants
 
 especially important in installing norms of conduct. Indeed, writing
 
-DEVELOPMENT AS FREEDOM
-
 in China in 122 B.c., the authors of Hui-nan Tzu put the problem
 
 thus:
@@ -20786,11 +20144,7 @@ aging to bear in mind the fact that each vicious circle entails a virtu­
 
 ous circle if the direction is reversed.
 
-Social Choice and Individual Behavior
-
 2 7 9
-
-CONCLUDING REMARKS
 
 This chapter began with scrutinizing some arguments for skepticism
 
@@ -20863,8 +20217,6 @@ some demands of behavioral ethics, and capitalism is no exception.
 And values do have very considerable reach in influencing the behav­
 
 ior of individuals.
-
-DEVELOPMENT AS FREEDOM
 
 In emphasizing the possible role of values and norms in individual
 
@@ -20939,8 +20291,6 @@ It is clear that we have good reason to pay special attention to cre­
 ating conditions for more informed understanding and enlightened
 
 r
-
-Social Choice and Individual Behavior
 
 28 I
 
@@ -21143,8 +20493,6 @@ role has .first been recognized. However, the substantive freedoms that
 
 . l
 
-DEVELOPMENT AS FREEDOM
-
 we respectively enjoy to exercise our responsibilities are extremely
 
 contingent on personal, social, and environmental circumstances. A
@@ -21219,8 +20567,6 @@ arbitrarily narrow view of individual responsibility-with the indi­
 
 vidual standing on an imaginary island unhelped and unhindered by
 
-Individual Freedom as a Social Commitment
-
 2 8 5
 
 others-has to be broadened not merely by acknowledging the role
@@ -21288,8 +20634,6 @@ on the relative claims of efficiency and equity. There can be conflicts
 
 between (I) having less inequality of freedoms and (2) getting as
 
-DEVELOPMENT AS FREEDOM
-
 much freedotn as possible for all, irrespective of inequalities. The
 shared approach permits the formulation of a class of different theo­
 
@@ -21345,8 +20689,6 @@ ticipation). Foundational ideas of justice can separate out some basic
 
 issues as being inescapably relevant, but they cannot plausibly end
 up, I have argued, with an exclusive choice of some highly delineated
-
-Individual Freedom as a Social Commitment
 
 2 8 7
 
@@ -21424,8 +20766,6 @@ opment literature to be fundamentally misdirected: Do democracy
 
 and basic political and civil rights help to promote the process of
 
-DEVELOPMENT AS FREEDOM
-
 development? Rather, the emergence and consolidation of these rights
 can be seen as being constitutive of the process of development.
 
@@ -21500,8 +20840,6 @@ determine.
 
 Also, the empowerment of women, through employment oppor-
 
-Individual Freedom as a Social Commitment
-
 28 9
 
 tunities, educational arrangements, property rights and so on, can
@@ -21573,8 +20911,6 @@ protection and enhancement of liberty supplemented John Stuart
 
 Mill's utilitarian perspective very substantially, and so did his specific
 
-DEVELOPMENT AS FREEDOM
-
 outrage at the denial of substantive freedoms to women.r5 Friedrich
 
 Hayek has been emphatic in placing the achievement of economic
@@ -21641,8 +20977,6 @@ substantial difference between development analysis that focuses
 (as Lewis and many others choose to do) on "the growth of out­
 
 put per head" (such as GNP per capita), and a more foundational
-
-Individual Freedom as a Social Commitment
 
 29 r
 
@@ -21722,8 +21056,6 @@ dom require us to go well beyond the traditional view of develop­
 
 ment in terms of "the growth of output per head.'' There is also the
 
-DEVELOPMENT AS FREEDOM
-
 fundamental difference in perspective in valuing freedom only for the
 use that is to be made of that freedom, and valuing it over and above
 that. Hayek may have overstated his case (as he often did) when he
@@ -21767,8 +21099,6 @@ tive quality of human beings is integrally involved. For example,
 through education, learning, and skill formation, people can become
 
 r
-
-Individual Freedom as a Social Commitment
 
 29 3
 
@@ -21848,8 +21178,6 @@ Consider an example. If education makes a person more efficient
 
 in commodity production, then this is clearly an enhancement of
 
-DEVELOPMENT AS FREEDOM
-
 human capital. This can add to the value of production in the
 
 economy and also to the income of the person who has been edu­
@@ -21927,8 +21255,6 @@ which appears to distinguish men of different professions,
 when grown up to maturity, is not upon many occasions so
 
 r
-
-Individual Freedom as a Social Commitment
 
 2 9 5
 
@@ -22077,8 +21403,6 @@ people;
 their indirect role through influencing social change; and
 their indirect role through influencing economic production.
 
-Individual Freedom as a Social Commitment
-
 The relevance of the capability perspective incorporates each of
 
 these contributions. In contrast, in the standard literature human
@@ -22152,10 +21476,6 @@ the broader picture). The organizing principle that places all the
 different bits and pieces into an integrated whole is the overarching
 
 - r
-
-I
-
-DEVELOPMENT AS FREEDOM
 
 concern with the process of enhancing individual freedoms and the
 
@@ -22292,8 +21612,6 @@ companies; a speculator; a cheat." Giorgio Basevi has drawn my attention to some
 
 Ill"
 
-I
-
 Notes to Pages 2 6-3 5
 
 30I
@@ -22359,8 +21677,6 @@ Vito Tanzi, Ke-young Chu and Sanjeev Gupta (Washington, D.C.: International
 Monetary Fund, 1999).
 
 !
-
-I
 
 Notes to Pages 3 6-49
 
@@ -22479,8 +21795,6 @@ and Welfarism/� Journal of Philosophy 7 (September :r979)) and �'Well-Being,
 Agency and Freedom: The Dewey Lectures I984/' Journal of Philosophy 82. (Apiil
 
 I985).
-
-I
 
 '
 
@@ -22687,8 +22001,6 @@ machean Ethics). Other primary goods (such as f'the social basis of self-respect
 to which Rawls makes a n explicit reference) can include aspects of the social eli�
 mate, even though they are generalized means (in the case of "the social basis of selfM
 
-I
-
 Notes to Page 73
 
 respect'' means to achieving self-respect). Still others (such as ••liberties") can be
@@ -22797,8 +22109,6 @@ Press, I989}; and "Capability and Well-Being," i n The Quality of Life, edited b
 Martha Nussbaum and Amartya Sen (Oxford: Clarendon Press, 1993).
 
 •
-
-I
 
 Notes to Pages 74-5
 
@@ -23498,10 +22808,6 @@ on "Philosophy and Politics, in Berlin, November 1997·
 
 2. On the distinction between "culmination outcomes" and "comprehensive
 
-I
-
-I
-
 Notes to Pages II2-I7
 
 outcomes," see my "Maximization and the Act of Choice/' Econometrica 6 5 (July
@@ -24004,12 +23310,6 @@ Opportunity Forgone: Education, Growth and Inequality in Brazil (Washington,
 
 r
 
-I
-
-I
-
-I
-
 Notes to Pages I44-53
 
 D.C.: World Bank, 1993); James W. McGuire, "Development Policy and Its Deter­
@@ -24266,11 +23566,7 @@ Hopkins University Press, 1999 ).
 29. There is a large literature on this, which is discussed and critically assessed in
 Dreze and Sen, Hunger and Public Action (1989), chapter 9· See also C . K. Eicher,
 
-I
-
 l
-
-I
 
 Notes to Pages I75-88
 
@@ -24631,10 +23927,6 @@ Ratio and Violence: Spurious Results," Economic and Political Weekly, January
 
 i
 
-I
-
-I
-
 Notes to Pages zoo-2
 
 •
@@ -24887,8 +24179,6 @@ tory and Economics, King's College, Cambridge, I999·
 
 24. See particularly an important collection of papers edited by Roger Jeffery
 
-I
-
 Notes to Pages 2r8-22
 
 and Alaka Malwade Basu, Girls' Schooling, Women's Autonomy and Fertility
@@ -24961,10 +24251,6 @@ reduction, to wit, its tendency to accentuate gender bias in sex selection, in t
 sex-specific abortion as well as child mortality through neglect (both phenomena are
 much observed in China). In India, this seems to be much more pronounced in the
 northern states than in the south, and it is indeed plausible to argue that a fertility
-
-I
-
-I
 
 Notes to Pages 222-34
 
@@ -25178,8 +24464,6 @@ don Press, 1976), pp. 26-7.
 
 ro. Smith, Wealth of Nations (in the 1976 edition), pp. 453-71. On the interpre­
 tation and role of the "invisible hand, in Smith's reasoning, see Emma Rothschild,
-
-I
 
 •
 
@@ -25828,13 +25112,7 @@ Debreu, Gerard, I17-19, 321n. u:, 346n.
 
 :r6
 
-I
-I
-I
-
 •
-
-Index
 
 De Haan, Arjan, 3 :r 6n. 2.2.
 Delbono, Flavio, 3ron. 43
@@ -25970,8 +25248,6 @@ Ghosh, Atish R., 3 3 2n. 41
 Giavezzi, Francesco, 3 17n. 24
 Gibbard, Allan, 305n. r9, 3 r2n. 50
 
-Index
-
 Gilligan, Carol, 3 3 7n. 2. 5
 Gintis, Herb, 306n. 22
 Glantz, M., 3 3 2n. 29
@@ -26106,8 +25382,6 @@ Jeffery, Roger, 338n. 33, 3410. 24, 342n. 31
 Jencks, Christopher, 327n. 52
 Jevons, William Stanley, 58, 67, 3040. 7
 
-Index
-
 Johnson� Barbara, 337n. 24
 Johnson-Kuhn, Jennifer A., 3 3 7n. 22
 Jolis, Alan, 338n. 27
@@ -26236,8 +25510,6 @@ Matsuyama, K., 321n. 12
 Maxwell, Simon, 3 r6n. :z.:z.
 McCord, Colin, 3oon. 12
 
-Index
-
 McElroy, M. B., 3 34n. 6
 McGreevy, W. P., 3 34n. 5
 McGregor, Pat, 3 3 xn. :z..o
@@ -26363,8 +25635,6 @@ Pollak, Robert, 334n. 6, 3350. 7
 Proudfoot, Wayne L., 345n. 28
 Przeworski, Adam, 3 2.8n. 4
 Puppe, Clemens, 3 12n. 48
-
-Index
 
 Pumam, Robert, 3o6n. 2 5
 Putterman, Louis, 347n. 29, 348nn. 45, 48
@@ -26505,8 +25775,6 @@ capability perspective, connection to,
 Rowntree, B. S., 107
 
 24,73-4,89,90,294-5
-
-Index
 
 on ethics and values, 92, 262, 263,
 
@@ -26656,8 +25924,6 @@ van de Walle, Dominique, 299n. 7, 326n.
 Van Ness, Peter, 344n. 27
 Van Ootegem, L., 3 x6n. 21
 
-Index
-
 Van Praag, B.M.S., 305n. I.9
 Vaughan,Megan, 335n.:ro,338n.3:r
 Veum, J. R., 3 I6n. 22
@@ -26799,8 +26065,6 @@ Bangladesh, 8, 99, u:6, rsr, r6s-6, :r68,
 
 l
 l
-
-Index
 
 Bangladesh Rural Advancement Committee
 
@@ -26971,8 +26235,6 @@ facilities, I I, 38-9, 48, I11-45
 gro�h,43-6,51-2, I47-52,176-7
 need, 147-8, 153-4
 origins of, 24
-
-Index
 
 opportunities, xii, 8, 42, 111-45,
 
@@ -27150,8 +26412,6 @@ food export in, :r67, 170, 172-3
 
 134-5,I40---2,155,169,255>3020.
 
-Index
-
 health care (cont.)
 15,307D. 32,JI4Dn.3,4, 325-6nn.39,
 
@@ -27220,8 +26480,6 @@ incomplete ranking, use of, 78-9, 82-3,
 sr, 350n. 8
 
 incompleteness of justice, 286-7, 312-13,
-
-India
 
 Akbar (emperor), 23 8-9
 Ashoka (emperor), 23 s-6
@@ -27317,8 +26575,6 @@ license Raj, 90, 127, 275-6
 life expectancy, rs, 23-4, 44, 46-8,
 
 49-53, r86-7
-
-Index
 
 literacy, 42, Ioo-:r, 102., 103, 1:29, 141-2,
 I44,I54,I97,I98-9,2.I8,2I9,
@@ -27497,8 +26753,6 @@ relative deprivation, 72.-4, 89-90, 192-3,
 
 3o6n.26
 
-Index
-
 responsibility and freedom, 90--3, 216-19,
 
 225-6,282.-9
@@ -27666,5 +26920,3 @@ see also agency, role of women's; gender
 inequality
 
 Zimbabwe,r6,99,177-9,I83-4
-
-I

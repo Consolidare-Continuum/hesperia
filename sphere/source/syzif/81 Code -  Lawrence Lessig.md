@@ -1,7 +1,5 @@
 C O D E
 
-C O D E
-
 a n d o t h e r l a w s
 
 o f c y b e r s p a c e
@@ -261,8 +259,6 @@ But more significant than any of that support has been the patience, and love, o
 the pers on to wh om I've ded i c a ted my life , Bet tina Neu efei n d . Her love wi ll seem
 crazy, and wonderful, for much more than a year.
 
-C O D E
-
 P A R T O N E
 
 r e g u l a b i l i t y
@@ -293,8 +289,6 @@ completely understandable. What compromise could there be with the instrument
 of your repression?
 
 A certain American rhetoric supported much in this reaction. A rhetoric of libertarianism. Just let the market reign and keep the government out of the way, and
-
-C O D E
 
 f reedom and pro s peri ty would inevi t a bly grow. Th i n gs would take care of t h ems elve s . Th ere was no need , and could be no place , for ex ten s ive reg u l a ti on by the
 state.
@@ -374,8 +368,6 @@ Confederation, was a miserable failure of do-nothingness),so too are we beginnin
 to see in cyberspace that this building, or laying, is not the work of an invisible hand.
 There is no reason to believe that the grounding for liberty in cyberspace will simp ly em er ge . In fact , as I wi ll argue, qu i te the oppo s i te is the case. As our fra m ers
 learned,and as the Russians saw, we have every reason to believe that cyberspace,left
-
-C O D E
 
 to itself, will not fulfill the promise of freedom. Left to itself,cyberspace will become
 a perfect tool of control.5
@@ -464,8 +456,6 @@ on arbitrary power. A structural guarantee of constitutionalized liberty, it fun
 as a type of separation of powers in the American constitutional tradition. It stands
 a l on gs i de su b s t a n tive pro tecti on s , l i ke freedom of s peech or of the pre s s , but its
 
-C O D E
-
 stand is more fundamental. As I argue by the end of this book, the first intuition of
 our founders was right:structure builds substance. Guarantee the structural (a space
 in cyberspace for open code), and (much of) the substance will take care o f itself.
@@ -532,8 +522,6 @@ They were beautiful flowers,and their scent entranced. But however beautiful, th
 
 1 0
 
-C O D E
-
 flowers were also poisonous. For this was Martha's weird idea: to make flowers of extraordinary beauty which,if touched, would kill.Strange no doubt,no one said that
 Martha wasn't st range. She was unusual, as was this neighborhood. But sadly, disputes like this were not.
 
@@ -581,8 +569,6 @@ not make you a thief; indeed,not taking a few dollars might make you a chump. Bu
 stealing this book from the bookstore (even when there are so many left for others)
 marks you as a thief. Social norms make it so, and we live life subject to these norms.
 
-f o u r p u z z l e s f r o m c y b e r s p a c e
-
 1 1
 
 Some of these norms can be changed collectively, even if not individually. I can
@@ -629,8 +615,6 @@ does. You can construct objects in these spaces and have them do things, but the
 
 1 2
 
-C O D E
-
 ple, but even simple can be quite funny. One year, in a MUD that was part of my cyberl aw cl a s s , s om eone built a ch a racter named JPo s n er. If you po ked JPo s n er, h e
 mut tered , " Poking is inef f i c i en t ." An o t h er ch a racter was FEasterbroo k . Stand in a
 room with FEasterbrook and use the word "f a i r," and FEasterbrook would repe a t
@@ -674,8 +658,6 @@ land.
 
 But the idea did suggest another. "Okay," said Dank, "why not make the petals
 poi s onous on ly wh en in the po s s e s s i on of s om eone who has purch a s ed them? If
-
-f o u r p u z z l e s f r o m c y b e r s p a c e
 
 1 3
 
@@ -727,8 +709,6 @@ Let me describe a few other places, and the oddities that inhabit them.
 
 1 4
 
-C O D E
-
 G O V E R N O R S
 
 A state — c a ll it " Bora l " — doe s n't like ga m bl i n g, even though some citi zens like to
@@ -775,8 +755,6 @@ or at least of people in the world.
 
 You wouldn't have figured Jake for an author—and quite a famous short-story
 author, within his circle at least. Jake was a char acter in his own stories, yet who he
-
-f o u r p u z z l e s f r o m c y b e r s p a c e
 
 1 5
 
@@ -828,8 +806,6 @@ to these people, a constant and consistent fix. They needed these accounts of in
 
 1 6
 
-C O D E
-
 One night in Moscow, a sixteen-year-old girl read a story by Jake. She showed it
 to her father, who showed it in turn to Richard DuVal,a Michigan alum. DuVal was
 shocked at the story, and angry that it bore the tag "umich.edu" on the account. He
@@ -875,8 +851,6 @@ n et work rem oved the most important con s traint on speech in real space—the
 the ri ch can use it to re ach a broad audien ce . For the rest of u s , real space affords
 on ly the access that the publ i s h ers want to give us.
 
-f o u r p u z z l e s f r o m c y b e r s p a c e
-
 1 7
 
 But the most significant feature of this story about Jake is how cyberspace perm i t ted him to escape the con s traints of real space . Cybers p ace is not, of co u rs e , a
@@ -919,8 +893,6 @@ burden of the search fell on a reasonably chosen class.14
 
 1 8
 
-C O D E
-
 But is the worm real ly the same as the King's general search? There is one important difference: unlike the victims of the general searches that the framers of our
 Constitution were concerned about, the computer user never knows that his or her
 disk is being searched by the worm. With the general search, the police were breaking into a house and rummaging through private stuff. With the worm,it is a bit of
@@ -961,8 +933,6 @@ the qu e s ti on comes to this: Wh en the abi l i ty to search wi t h o ut bu rd
 does the government's power to search increase as well? Or more darkly, as James
 Boyle puts it:"Is freedom inversely related to the efficiency of the available means of
 surveillance? If so, we have much to fear."16
-
-f o u r p u z z l e s f r o m c y b e r s p a c e
 
 1 9
 
@@ -1008,8 +978,6 @@ can be exercised over him there—all these are questions that government must a
 
 2 0
 
-C O D E
-
 swer if it is to impose its will. But these questions are made impossibly difficult by
 the architecture of the space—at least as it was.
 
@@ -1052,8 +1020,6 @@ designs should be chosen over others.
 It is here that questions of open source software matter. Among the designs that
 enable or disable government's power to regulate, open code will hold an important
 place. It will check,as I argue more extensively later, the top-down power of government while enabling an extremely effective scope for bottom-up control.
-
-f o u r p u z z l e s f r o m c y b e r s p a c e
 
 2 1
 
@@ -1101,8 +1067,6 @@ on America Online;20 it is escape when a child predator escapes the norms of ord
 
 2 2
 
-C O D E
-
 The differen ce bet ween these two escapes is our vi ew abo ut the underlyi n g
 norm.I call the first escape liberating, and the second criminal. There are some who
 would call both escapes cri m i n a l , and some who would call both libera ti n g. Th e
@@ -1148,8 +1112,6 @@ the interpretive questions by pointing us in one direction or another, at least 
 of the time. But in the end the tools will guide us even less than they do in real space
 and time. When the gap between their guidance and what we do becomes obvious,
 
-f o u r p u z z l e s f r o m c y b e r s p a c e
-
 2 3
 
 we will be forced to do something we're not very good at doing—deciding what we
@@ -1182,7 +1144,7 @@ innate ability to resist governance in almost any form.
 Tom Steinert-Threlkeld, "Of Governance and Technology,"
 Inter@ctive WeekOnline, October 2,1998
 
-Th er e's a meme about cyber space t h at mar ks nat ives f r om it s fi r st g ener a -
+Th er e's a meme about cyber space t h at mar ks nat ives f r om it s fir st g ener a -
 tions—an idea that defines first-generation thought about the place. Cyberspace, it
 is said, cannot be regulated. It "cannot be governed"; its "innate ability" is to resist
 reg u l a ti on . That is its natu re , its essen ce , the way things are . Not that cybers p ace
@@ -1215,7 +1177,7 @@ aim of this part is to argue that it is evolving in a very particular direction:
 unregulable space to one that is highly regulable. The "nature" of the Net might once
 have been its unregulability; that "nature" is about to flip.
 
-To see the flip, you must fi rst see a contrast between two different cyber-places.
+To see the flip, you must first see a contrast between two different cyber-places.
 
 The contrast is a clue about how the Net could be made more regulable.
 
@@ -1244,8 +1206,6 @@ thinking abo ut this t h i n g that bu z zes around the en ti re worl d , t h ro
 ph one lines, a ll day and all night lon g. It's ri ght under our noses and it's invi s-
 
 2 6
-
-C O D E
 
 i bl e . It's like Na rn i a , or Ma gri t te , or Star Tre k , an en ti re god d a m n ed worl d . Except it doe s n't phys i c a lly ex i s t . It's just the co ll ective consciousness of h owever
 m a ny people are on it.
@@ -1325,8 +1285,6 @@ control behavior there. From the perspective of the regulator, these features ar
 the material he or she is using.
 
 2 8
-
-C O D E
 
 The first imperfection is information about users—in a word, credentials. Net95
 has no way to verify who someone is, or more important, to verify features or attributes of the "someone" using the Net. Indeed, there is no way to verify that it is a
@@ -1423,8 +1381,6 @@ R E A L S P A C E
 By " i den ti ty " I mean som ething more than just who you are . I mean all the fact s
 about you that are true as well. Your identity, in this sense, includes your name, your
 
-a r c h i t e c t u r e s o f c o n t r o l
-
 3 1
 
 sex, where you live, what your education is, your driver's license number, your social
@@ -1469,8 +1425,6 @@ that crime. If criminals were invisible or witnesses had no memory, crime would 
 
 3 2
 
-C O D E
-
 m ore ch a n ge a ble physical ch a racteri s tic would redu ce the abi l i ty of the po l i ce to
 track repeat of fen ders . The fact that cars have license plates and are regi s tered by
 their owners increases the likelihood that a hit-and-run driver will be caught. Without licenses,and without systems registering owners, it would be extremely difficult
@@ -1506,8 +1460,6 @@ ch a n ge . Nor do the IP pro tocols tell us mu ch abo ut the data being sen t .
 what kind of data they are . None of this is known by the sys tem , or know a ble by
 us simply by looking at the data. From the pers pective of the net work , this other
 i n form a ti on is unnece s s a ry su rp lu s . L i ke a dayd reaming postal worker, the network simply moves the data and leaves interpret a ti on of the data to the app l i c ati ons at ei t h er en d .
-
-a r c h i t e c t u r e s o f c o n t r o l
 
 3 3
 
@@ -1549,8 +1501,6 @@ are a dog and hard to prove that you are not.
 All this is true under one architecture of the Internet. Claims about the difference between real space and cyberspace depend on this difference in design. The les-
 
 3 4
-
-C O D E
 
 son of the last chapter, however, was that architectures could be different. We could
 i m a gine different arch i tectu res that would bet ter help us iden tify who indivi du a l s
@@ -1595,8 +1545,6 @@ books for you to buy, given the pattern of purchases you have made before.
 The main advantage in this system is its seamless verification. Unless you have
 your browser set to notify you of cookie exchanges, you can surf through sites that
 deposit and consume cookies with little interruption.
-
-a r c h i t e c t u r e s o f c o n t r o l
 
 3 5
 
@@ -1646,8 +1594,6 @@ Here is something that will sound very extreme but is at most,I think, a slight 
 
 3 6
 
-C O D E
-
 nuclear weapons (I hope) to the Internet—will have a more significant impact on
 social and political life. Cryptography will change everything.
 
@@ -1691,8 +1637,6 @@ A. If I want to send a message to you that I know only you will be able to read,
 can take your public key and use it to encrypt that message. Then I can send
 that message to you knowing that on ly the holder of the priva te key (presumably you) will be able to read it. But you cannot be sure it is I who sent you
 the message. Because anyone can encrypt a message using your public key and
-
-a r c h i t e c t u r e s o f c o n t r o l
 
 3 7
 
@@ -1741,8 +1685,6 @@ but an infrastructure of trust, which can provide not perfect confidence but eno
 
 3 8
 
-C O D E
-
 con fiden ce thro u gh the mu l ti p l i c a ti on of a s s erti ons abo ut aut h en ti c i ty to make it
 certain enough that the fact certified by a particular signature is true.
 
@@ -1781,8 +1723,6 @@ is,that allows people to certify any sort of fact or statement that they would w
 make. So, for example,if I am authorized to purchase computer equipment for Harvard Law School, Harvard Law School would give me a certificate that authenticates
 that fact; someone would in turn certify that the certificate I hold from Harvard Law
 School is in fact a certificate from Harvard Law School; and when MicroWarehouse
-
-a r c h i t e c t u r e s o f c o n t r o l
 
 3 9
 
@@ -1832,8 +1772,6 @@ Enterprise Server 2.0, secure servers could exchange encrypted transactional inf
 
 4 0
 
-C O D E
-
 mation with Internet browser clients. For example, you could send your credit card
 number across the Net, and neither you nor Visa would have to worry that it would
 be intercepted and republished.
@@ -1871,8 +1809,6 @@ the person you are dealing with;(2) authorization, to ensure that the person is 
 exchanges there are; (4) integrity, to ensure that the transmission is not altered en
 route; and (5) nonrepudiation, to ensure that the sender of a message cannot deny
 that he sent it.
-
-a r c h i t e c t u r e s o f c o n t r o l
 
 4 1
 
@@ -1915,8 +1851,6 @@ But this privacy comes at a cost. Users who choose this option are either unable
 to use areas of the Net wh ere cookies are requ i red or forced con s t a n t ly to ch oo s e
 
 4 2
-
-C O D E
 
 whether a cookie will be deposited. Most find the hassle too great and simply accept
 cookies on their machine.
@@ -1977,8 +1911,6 @@ not hard for the govern m ent to take steps to alter, or su pp l em en t , the a
 
 4 4
 
-C O D E
-
 of the Net . And it is those steps in tu rn that could make beh avi or on the Net more
 reg u l a bl e .
 
@@ -2021,8 +1953,6 @@ This is the case at least with one version of the architecture of a digitally sw
 telephone network. Other versions would be less difficult to tap. The question that
 reg u l a tors faced was wh i ch vers i on the tel eph one net work should adopt . And the
 difference between versions is just a choice of code. Some codes cost more than others, and some codes protect privacy better than others. So the choice among codes
-
-r e g u l a t i n g c o d e
 
 4 5
 
@@ -2071,8 +2001,6 @@ transmitters, collect information about the location of a user when she is using
 
 4 6
 
-C O D E
-
 lular phone. Beyond billing, the phone companies do not need this information for
 any other purpose. But the FBI has interests beyond those of the phone service. The
 FBI would like that data made available to it whenever it has a "legitimate law enforcement reason" for requesting it. The amendment to CALEA would require the
@@ -2103,7 +2031,7 @@ of the public in the legitimate CD market.
 
 Digital audio technology (DAT) threatened to change this balance. DAT was the
 application of digital technology to tape: a digital recording on a CD could be digitally, and hence perfectly, copied onto a tape. You could buy one CD and make many
-copies of it onto DAT tape,each copy having the same fi delity as the first. The code
+copies of it onto DAT tape,each copy having the same fidelity as the first. The code
 governing the copying of audio recordings thus changed, eliminating the old code's
 implicit protections.
 
@@ -2114,8 +2042,6 @@ recordings. Or Congress could have taxed blank tapes and then transferred the re
 
 Instead, Congress chose to regulate the code of digital reproduction.9 It required
 producers of digital recording devices to install in their systems a chip that implem ents a code - b a s ed sys tem to mon i tor the copies of a ny copy made on that mach i n e .1 0 The chip would all ow a limited nu m ber of pers onal cop i e s . On copies of
-
-r e g u l a t i n g c o d e
 
 4 7
 
@@ -2161,8 +2087,6 @@ code. An example is the government's failed attempt to secure Clipper as the sta
 
 4 8
 
-C O D E
-
 I have already sketched the Janus-faced nature of encryption: the same technology en a bles both con fiden ti a l i ty and iden ti fic a ti on . The govern m ent is con cern ed
 with the confidentiality part. Encryption allows individuals to make their conversations or data exchanges untranslatable except by someone with a key. How untranslatable is a matter of debate,17 but we can put that debate aside for the moment: it is
 too untranslatable for the government's liking. So the government sought to control
@@ -2207,8 +2131,6 @@ available,not to control directly any particular use by an individual.State regu
 of the writing of encryption code is just like state regulation of the design of automobiles: individual use is not regulated. Second, unlike the technique of subsidizing
 one market solution,this solution allows the market to compete to provide the best
 
-r e g u l a t i n g c o d e
-
 4 9
 
 encryption system, given this regulatory constraint. Finally, unlike both other solutions, this solution involves the regulation of only a relatively small number of actors , s i n ce manu f actu rers of en c rypti on tech n o l ogy are far fewer in nu m ber than
@@ -2252,8 +2174,6 @@ differently. This indirect regulation,at times quite effective, suggests a way o
 
 5 0
 
-C O D E
-
 At the start of this chapter we asked: What steps could government take, not to
 regulate a particular behavior, but to increase the regulability of behavior in cyberspace generally? My claim was that this goal could be achieved by increasing the capacity of sites on the Net to identify whom they are dealing with—to know either
 who the user is or what credentials, or features, he or she possesses.
@@ -2294,8 +2214,6 @@ and gre a ter incen tive to carry the proper creden ti a l s . The more creden t
 they carried,the easier it would be to impose regulations on them.26
 
 • The government could give a $50 tax break to anyone who filed his or her income tax sign ed by a properly certi fied aut h ori ty; it could certify these authorities based on whether they coded certificates in the way the government
-
-r e g u l a t i n g c o d e
 
 5 1
 
@@ -2346,8 +2264,6 @@ hangs on the construction of an effective PKI architecture.
 
 5 2
 
-C O D E
-
 A crucial assumption is built into all these examples. I've assumed that there are entities responsible for the code that individuals use, and that these entities can be effectively regulated. And as the open code software movement grows, it is important
 to ask whether this assumption is really true. The government can regulate the telephone companies (they are few in number, well known,and loaded with tangible assets), but how can it regulate code w riters? In particular, how can the government
 regulate code writers who are committed to resisting precisely such regulation?
@@ -2385,8 +2301,6 @@ Ci s co is a second ex a m p l e .3 3 In 1998 Ci s co announced a ro uter produ 
 would enable an ISP to encr ypt Internet traffic at the link le vel—between gateways,
 that is.34 But this router would also have a switch that would disable the encr yption
 of the router data and facilitate the collection of unencrypted Internet traffic. This
-
-r e g u l a t i n g c o d e
 
 5 3
 
@@ -2433,8 +2347,6 @@ t a ke before the power of the state to make cybers p ace reg u l a ble is com p
 
 5 4
 
-C O D E
-
 This final step links this ch a pter 's argument with the last ch a pter 's account of
 i den ti f i c a ti on .
 
@@ -2476,8 +2388,6 @@ Suppose that Minnesota then threatens to prosecute the owner of the Chicago
 server. It is relatively easy for the attorney general to persuade the courts of Illinois
 to prosecute the illegal server in Chicago (assuming it could be shown that the behavior of the server was in fact illegal). So the server simply moves from Chicago to
 Cayman, making it one step more difficult for Minnesota to prosecute but still no
-
-r e g u l a t i n g c o d e
 
 5 5
 
@@ -2525,8 +2435,6 @@ The same structure could be used to sup port local regulation of Internet behavi
 d i s c ri m i n a ting on the basis of c i ti zen s h i p, and a federal com m i tm ent to su pport
 
 5 6
-
-C O D E
 
 such local discrimination, we could easily imagine an architecture that enables local
 regulation of Internet behavior.
@@ -2613,8 +2521,6 @@ Or if not your thu m b, t h en your reti n a , or wh a tever body part tu rns ou
 
 5 8
 
-C O D E
-
 cheapest to certify? When it is easiest simply to give identity up, will anyone resist
 giving it up?
 
@@ -2657,8 +2563,6 @@ post-Communist Europe. Market forces encourage architectures of identity to faci
 all—to induce just this sort of development. The market forces are too powerful; the
 potential here is too great. If anything is certain, it is that an architecture of identity
 will develop on the Net—and thereby fundamentally transform its regulability.
-
-r e g u l a t i n g c o d e
 
 5 9
 
@@ -2706,8 +2610,6 @@ But the architecture of cyberspace is power in this sense; how it is could be di
 whom.
 
 6 0
-
-C O D E
 
 If code is law, then, as William Mitchell writes, "control of code is power": "For
 citizens of cyberspace, . . . code . . . is becoming a crucial focus of political contest.
@@ -2759,8 +2661,6 @@ com peti ti on abo ut reg u l a bi l i ty, m ed i a ted by the own ership of the
 
 6 2
 
-C O D E
-
 The aim in the end is to see what is at stake, what is possible, and what limits
 there are on what is possible. The argument is not against regulation; the argument
 is against a particularly narrow, and useless, conception of regulation. Once we have
@@ -2797,8 +2697,6 @@ likes to put it, from a "tony" address like "The WELL." For them the Net is a sp
 for conversation, connections, and exchange, a wildly promising location for making life in real space different.
 
 6 4
-
-C O D E
 
 But if you are a recent immigrant to this "space" (the old-timers call you "newbi e s" ) , you are likely to be impati ent with talk like this. Wh en people talk abo ut
 "com mu n i ty," a bo ut special ways to con n ect , or abo ut the amazing power of t h i s
@@ -2846,8 +2744,6 @@ were lucky, graphics and streaming video would have taken an unbearably long tim
 to download, if they downloaded at all. What was needed was an efficient mode of
 communication—and text is one of the most efficient.7
 
-c y b e r s p a c e s
-
 6 5
 
 Most think of this fact about the early Net as a limitation. Technically, it was. But
@@ -2892,8 +2788,6 @@ link what I believe is a disadvantage to features of a space.
 
 6 6
 
-C O D E
-
 I've told this story as if it matters only to those who in real space are "disabled."
 But of course, "disabled"is relative.8 It is more accurate to say that the space changes
 the meaning of the enabled. A friend—a strikingly beautiful and powerful woman,
@@ -2934,8 +2828,6 @@ A m e r i c a O n l i n e
 America Online (AOL) is an online service provider—the largest in the world with
 some twelve million subscribers in 1998.12 With twice the population of Massachusetts (at least), AOL describes itself as a "community." A large community perhaps,
 but a community nonetheless.
-
-c y b e r s p a c e s
 
 6 7
 
@@ -2984,8 +2876,6 @@ complete or incomplete as she wishes. It can be true or false, explicit or vague
 
 6 8
 
-C O D E
-
 stamp collectors could get her profile and read that StrayCat lives in Cleveland and
 is single and female. What happens next is anyone's guess.
 
@@ -3029,8 +2919,6 @@ writes "chatty" letters to the members.17 AOL advertises to all its members and 
 send everyone an e-mail. But only the owners and those they authorize can do so.
 The rest of the mem bers of AOL can speak to crowds on ly wh ere they noti ce a
 crowd. And never to a crowd greater than twenty-three.
-
-c y b e r s p a c e s
 
 6 9
 
@@ -3076,8 +2964,6 @@ and you "locate" him, you will be told in what chat area he is. This power, give
 ordinary users, can have complicated consequences. (Imagine sitting at work with
 
 7 0
-
-C O D E
 
 your buddy feature turned on,watching your spouse come online, enter a chat area,
 and—you get the point.) This ability to monitor is built into the space. Individuals
@@ -3125,8 +3011,6 @@ These features of the AOL space have important implications for how it is regula
 First, it has all the tools that any club, fraternity, or "community" might have. It
 can announce rules for its members (and AOL certainly does). Or it can try to stigmatize the behavior, to use the norms of the community to help regulate the problem. This AOL does as well. Alternatively, if the problem comes from the overuse of
 
-c y b e r s p a c e s
-
 7 1
 
 a particular resource, then the managers at AOL can price that resource differently,
@@ -3169,8 +3053,6 @@ David Johnson began Counsel Connect (CC) in 1992 as an online lawyers' cooperati
 convers a ti ons with each other; and thro u gh this access and these convers a ti on s ,
 
 7 2
-
-C O D E
 
 value would be created. Lawyers would give and take work; they would contribute
 i deas as they found ideas in the space . A different kind of l aw practi ce wo u l d
@@ -3218,8 +3100,6 @@ kept together; a question is asked, and the discussion begins from the question.
 you want to con tri bute to this discussion , you must first re ad thro u gh the other
 postings before responding. Of course,this is not a technical requirement—you certainly have a choice not to read. But if you do not read through the entire thread,
 
-c y b e r s p a c e s
-
 7 3
 
 you could well be repeating what another has said and so reveal that you are speaking wi t h o ut listen i n g. Aga i n , the use of real names ties mem bers' beh avi or to the
@@ -3264,8 +3144,6 @@ AOL, since it is the norms of "the people" that regulate behavior in CC. But the
 norms cannot be used against CC directly. The decisions of CC and AOL managers
 
 7 4
-
-C O D E
 
 may be affected by market forces—individuals can exit, competitors can steal customers away. But voting doesn't direct where either CC or AOL goes.
 
@@ -3353,8 +3231,6 @@ for violating rules that did not exist at the time.
 
 7 6
 
-C O D E
-
 Two ex tremes even tu a lly em er ged . One side urged vi gi l a n ti s m : Bu n gle was a
 miscreant, and something should be done about him. But what shouldn't be done,
 t h ey argued , was for LamdaMOO to re s pond by cre a ting a world of reg u l a ti on .
@@ -3401,8 +3277,6 @@ instrument of the MOO's collective will, [he surely realized that under the pres
 
 So TomTraceback acted alone.
 
-c y b e r s p a c e s
-
 7 7
 
 He told the lingering few players in the room that he had to go, and then he
@@ -3448,8 +3322,6 @@ community fought that change.
 
 7 8
 
-C O D E
-
 So too with the ch a n ges to LamdaMoo. Before the ball o ti n g, L a m d a Moo was
 regulated through norms. These regulations of social st ructures were sustained by
 the constant policing of individual citizens. They were the regulations of a commun i ty; the rise of dem oc racy marked the fall of this com mu n i ty. Al t h o u gh norm s
@@ -3487,8 +3359,6 @@ want to know who he was. He was prob a bly a stu dent in the very first class ab
 c ybers p ace that I taugh t , and I would have failed him, for I was furious abo ut wh a t
 he had don e . The class was "The Law of Cybers p ace" ; vers i on one of that class was
 at Ya l e .
-
-c y b e r s p a c e s
 
 7 9
 
@@ -3533,8 +3403,6 @@ exist without a thousand questions raised,a custom has emerged whereby an anony-
 
 8 0
 
-C O D E
-
 mous post can be signed by someone not its author ("Signed but not written by X").
 That signature gives the post the pedigree it needs to survive on the Wall.
 
@@ -3574,8 +3442,6 @@ Some things about how they spoke were immediately noticeable. First, women
 spoke more in this space than they did in class. Maybe not more in a statistically significant sen s e , but more .3 3 Secon d , h el pers qu i ck ly devel oped , and those who received their help. Soon a class developed online—a real class that id entified itself as
 such and spoke as a class in a way that a teacher dreams of in real space,and in a way
 I had never known.
-
-c y b e r s p a c e s
 
 8 1
 
@@ -3620,8 +3486,6 @@ the real IBEX, had been defamed. The class had little sympathy.)
 
 8 2
 
-C O D E
-
 But it was not just the online class that changed. As we met face to face each week
 I felt the atm o s ph ere ben d . People felt the cre a tu re in the room , t h o u gh no on e
 could believe he was a student at the Yale Law School. This was their classmate,hiding behind a smile, or a joke, in real spa ce, but vicious in cyberspace. And the very
@@ -3663,8 +3527,6 @@ If we had to simplify this divers i ty of s p aces by finding one dimen s i on a
 wh i ch we could rank them , that dimen s i on might be their amen a bi l i ty to out s i de
 control. "Community" in the sense that I've used the word means a group able to
 en force its own norms among its mem bers . In this, the groups I've discussed are
-
-c y b e r s p a c e s
 
 8 3
 
@@ -3711,8 +3573,6 @@ could resolve the conflicts of values these spaces will present.
 
 8 4
 
-C O D E
-
 Our choices in each case are two. We can try to make cyberspace the same as real
 space, investing it with the same values, or we can g ive cyberspace values and properties that are fundamentally different.
 
@@ -3733,7 +3593,7 @@ S E V E N
 
 w h a t t h i n g s r e g u l a t e
 
-Joh n St uar t Mil l was an Engl ish man, t h ough one of t h e most infl uent ial
+Joh n St uar t Mil l was an Engl ish man, t h ough one of t h e most influent ial
 po l i tical ph i l o s oph ers in Am erica in the nineteenth cen tu ry. His wri ti n gs ra n ged
 from imp ortant work on logic to a still striking text, The Subjection of Women. But
 his continuing influence comes from a relatively short book titled On Liberty. Publ i s h ed in 1859, this powerful argument for indivi dual liberty and divers i ty of
@@ -3760,8 +3620,6 @@ n i n eteenth cen tu ry; in the Un i ted States in the first two dec ades of the
 that the market is som etimes a threat to liberty—not just because of l ow wage s , but
 
 8 6
-
-C O D E
 
 also because the market form of or ga n i z a ti on itsel f d i s a bles a certain kind of f reedom .3
 In other soc i eti e s , at other ti m e s , the market is the key, not the en emy, to liberty.
@@ -3796,8 +3654,6 @@ regulate it. By describing the various constraints that might bear on this indiv
 I hope to show you something about how these constraints function together.
 
 Here then is the dot.
-
-w h a t t h i n g s r e g u l a t e
 
 8 7
 
@@ -3846,8 +3702,6 @@ consider them together.
 
 8 8
 
-C O D E
-
 So think of the four together like this:
 
 In this drawing, each oval represents one kind of constraint operating on our pathetic dot in the center. Each constraint imposes a different kind of cost on the dot
@@ -3868,8 +3722,6 @@ that,in a sense,they combine to produce the regulation to which our pathetic dot
 subject in any given area.
 
 The same model describes the regulation of behavior in cyberspace.
-
-w h a t t h i n g s r e g u l a t e
 
 8 9
 
@@ -3913,8 +3765,6 @@ we wi ll have to make and maintain similar barga i n s — t h o u gh they wi ll
 
 9 0
 
-C O D E
-
 L aws , n orm s , the market , and arch i tectu res interact to build the envi ron m en t
 
 that "Netizens" know. The code writer, as Ethan Katsh puts it, is the "architect."19
@@ -3956,8 +3806,6 @@ response. Code would be the best means to regulate.
 The costs,however, need not align so well, in this example or in others. Take the
 Supreme Court's hypothetical example of life in prison for a parking ticket.20 It is
 likely that whatever code c onstraint might match this law constraint, the law constraint would be more efficient (if reducing parking violations were the only aim).
-
-w h a t t h i n g s r e g u l a t e
 
 9 1
 
@@ -4004,8 +3852,6 @@ steps to change it.28 Paris was rebuilt, with wide boulevards and multiple passa
 
 9 2
 
-C O D E
-
 • Every schoolchild learns of Lafayette's design to make an invasion of Washi n g ton difficult. But more intere s ting is the placem ent of the Wh i te Ho u s e
 relative to the Capitol.The distance between them is one mile,and at the time
 it was a mile through difficult terrain. (The mall was a swamp.) The distance
@@ -4043,8 +3889,6 @@ L aw can ch a n ge social norms as well , t h o u gh mu ch of our con s ti tuti 
 example. As Thurgood Marshall put it, "Education is not the teaching of the three
 R's.Education is the teaching of the overall citizenship, to learn to live together with
 
-w h a t t h i n g s r e g u l a t e
-
 9 3
 
 fellow citizens,and above all to learn to obey the law."32 Education is,in part at least,
@@ -4072,8 +3916,6 @@ S e a tbel t s : The govern m ent may want citi zens to wear seatbelts more of t
 could pass a law to requ i re the we a ring of s e a tbelts (law reg u l a ting beh avi or di-
 
 9 4
-
-C O D E
 
 rectly).Or it could fund public e ducation campaigns to create a stigma against those
 who do not wear seatbelts (law regulating social norms as a means to regulating behavior). Or it could subsidize insurance companies to offer reduced rates to seatbelt
@@ -4111,8 +3953,6 @@ social norms to regulate behavior). It seizes drugs at the border, thereby reduc
 supply, increasing the price,and presumably reducing demand (regulating the market to regulate behavior). And at times it has even (and grotesquely) regulated the
 "code" of drugs (by, for example, spraying marijuana fields with paraquat), making
 
-w h a t t h i n g s r e g u l a t e
-
 9 5
 
 t h em more dangerous and thereby increasing the con s traint on their consumption.39
@@ -4147,8 +3987,6 @@ needed to take and store nuclear waste. After sufficient prodding by the governm
 a number of states formed a compact, which Congress then ratified, implementing
 
 9 6
-
-C O D E
 
 a number of requirements and incentives for states to deal with the nuclear waste
 they produce.
@@ -4195,8 +4033,6 @@ The aim of this regulation was clear: to reduce the incidence of abortion. It di
 this by using doctors to steer patients away from abortion.A doctor has a great deal
 of power over a patient in a context like this; the patient would most likely understand the doctor to be recommending against abortion.
 
-w h a t t h i n g s r e g u l a t e
-
 9 7
 
 But notice the technique. The federal government could have stated its own position about abortion. It could have put up posters and billboards saying that abortion is wrong, or it could have used space in its clinics to advertise its view. But it
@@ -4242,8 +4078,6 @@ much did.52
 
 9 8
 
-C O D E
-
 Local governments thus did something very much like what the federal government did in Rust and tried to do in New York: no longer able to effect segregation direct ly, t h ey used zoning laws — geogra phical arch i tectu re , or re a l - s p ace code — to
 effect it indirectly. They built their communities and designed their streets to make
 it hard for integration to occur. The tiny inconveniences of zoning regulations succeeded in keeping communities separate.
@@ -4280,8 +4114,6 @@ following letter was sent to the editor:
 
 Typical for a Ha rva rd Law Profe s s or. . . . Lessig misses the en ti re forest wh i l e
 dancing among the tree s . . . . While his ri f f on West Coast Code (from Si l i con
-
-w h a t t h i n g s r e g u l a t e
 
 9 9
 
@@ -4345,14 +4177,10 @@ This is a lot to convince you of in a single chapter—especially since the conc
 the point, we must back up and understand a bit more about the nature of the code
 space that government might regulate and the nature of the actors who might control that space.
 
-C O D E
-
 T H E N E T
 
 I 've spent lots of time talking abo ut the code of c ybers p ace . For those who know
 something about code in cyberspace (and who are still with me here), what I've said
-
-t h e l i m i t s i n o p e n c o d e
 
 1 0 1
 
@@ -4375,7 +4203,7 @@ handles local network interactions exclusively. More protocols exist at the next
 up—the network layer, where the IP protocol is dominant. It routes data between
 hosts and across network links, determining which path the data should take. At the
 n ext layer up—the tra n s port layer — t wo different pro tocols dom i n a te , TCP and
-UDP. These negotiate the fl ow of data between two network hosts. (The difference
+UDP. These negotiate the flow of data between two network hosts. (The difference
 between the two is reliability—UDP offers no reliability guarantee.)
 
 These three layers are the essential plumbing of the Internet, hidden in the Net's
@@ -4407,8 +4235,6 @@ These four layers of protocols, then, constitute "the Internet." Building on sim
 bl ock s , the sys tem makes po s s i ble an ex tra ord i n a ry ra n ge of i n teracti on . It is per-
 
 1 0 2
-
-C O D E
 
 haps not qu i te as amazing as natu re—think of D NA — but it is built on the same
 principle: keep the elements simple, and the compounds will astound. 6
@@ -4449,8 +4275,6 @@ Each protocol spawned many applications. Since no one had a monopoly on the
 protocol,no one had a monopoly on its implementation. There were many FTP applications and many e-mail servers. There were even a large number of browsers.11
 The protocols were open standards, gaining their blessing from the standards bodies such as the Internet Engineering Task Force (IETF) and W3C. Once a protocol
 was specified, programmers could build programs that utilized it.
-
-t h e l i m i t s i n o p e n c o d e
 
 1 0 3
 
@@ -4503,8 +4327,6 @@ located either on the Net or on the same c omputer.
 
 1 0 4
 
-C O D E
-
 wi t h o ut its source and was pro tected against mod i f i c a ti on both by the law and by
 its own code .
 
@@ -4552,8 +4374,6 @@ would come with its source code bundled alongside.15
 
 stands for "GNU's Not Unix." Cute,no?
 
-t h e l i m i t s i n o p e n c o d e
-
 1 0 5
 
 People took up the challenge, and slowly, through the early 1990s,they built this
@@ -4594,8 +4414,6 @@ open code. What would that mean for regulability? How would that affect the stor
 I've told of the increasing power of the state to order cyberspace?
 
 1 0 6
-
-C O D E
 
 In ch a pter 4, I sketch ed examples of govern m ent reg u l a ting code . But think
 
@@ -4646,8 +4464,6 @@ Net s c a pe's code is open code , u s ers take on ly what they want. Al t h o u
 could offer a feature that the French government wants,there is no reason to believe
 that users would want this same feature. Another supplier would undoubtedly provide an SSL module without the alteration demanded by the French government.
 
-t h e l i m i t s i n o p e n c o d e
-
 1 0 7
 
 The point is simple, but its implication profound. To the extent that code is open
@@ -4688,8 +4504,6 @@ within the code regulable, depends in part on the character of the code. Open co
 is less reg u l a ble than cl o s ed code ; to the ex tent that code becomes open , government's power is reduced.
 
 1 0 8
-
-C O D E
 
 This is not, obviously, an absolute claim. I am discussing relative, not absolute,
 regulability. Even with open code, if the government threatens punishments that are
@@ -4754,8 +4568,6 @@ Translation will guide in important cases. It will show us how we can go on, con
 
 1 1 0
 
-C O D E
-
 lation alone will not be enough; the past will not resolve the future. The questions
 raised by the future are issues that were not decided in the past.
 
@@ -4795,8 +4607,6 @@ searches.
 
 1 1 2
 
-C O D E
-
 Under then-existing law, it was plain that to enter the apartments of Mr. Olmstead and his accomplices and search them (at least while they were gone), the government investigators would have needed a warrant,that is,they would have needed
 the approval of a judge or magistrate before invading the defendants' privacy. This is
 what the Fo u rth Am en d m ent had come to mean—that certain places (pers on s ,
@@ -4828,8 +4638,6 @@ search was reasonable.)7
 This regime cre a ted obvious risks for an of ficer before he search ed som eon e's
 property. If he searched and found nothing, or if a jury thought later that his search
 had not been reasonable, then he paid for his illegal behavior by being held personally liable for the rights he had violated.
-
-t r a n s l a t i o n
 
 1 1 3
 
@@ -4877,8 +4685,6 @@ ti m e . The Fo u rth Am en d m ent focuses on trespass because that was the pri
 
 1 1 4
 
-C O D E
-
 mode of searching at the time. If it had been possible simply to view the contents of
 a house without going inside,the restrictions of the Fourth Amendment would have
 made little sense. But the protections of the amendment did make sense as a way to
@@ -4921,8 +4727,6 @@ The Supreme Court agreed. In an opinion written by Chief Justice William H.
 The amen d m ent does not forbid what was done here . Th ere was no search i n g.
 There was no seizure. The evidence was secured by the use of the sense of hearing and that only. . . . The language of the amendment cannot be extended and
 expanded to include telephone wires, reaching to the whole world from the defendant's house or office.12
-
-t r a n s l a t i o n
 
 1 1 5
 
@@ -4969,8 +4773,6 @@ preserved what fidelity demands should be preserved?
 
 1 1 6
 
-C O D E
-
 We might better see the point through a somewhat stylized re-creation. Imagine
 that we could quantify privacy: we could thus describe the change in the quantity of
 privacy that any change in technology might bring. (Robert Post has given an abs o lutely persu a s ive argument abo ut why privacy is not qu a n ti f i a bl e , but my purposes here are simply illu s tra tive .1 6) Im a gine then that in 1791 pro tecting aga i n s t
@@ -5013,8 +4815,6 @@ But it was Ta f t's op i n i on that became law, and his narrow vi ew of the Fo 
 Am en d m ent that preva i l ed . It took forty ye a rs for the Su preme Co u rt to em brace
 Bra n dei s's pictu re of the Fo u rth Am en d m en t — forty ye a rs before O l m s tead w a s
 overruled. The case overruling it was Katz v United States.19
-
-t r a n s l a t i o n
 
 1 1 7
 
@@ -5061,8 +4861,6 @@ where that expectation is reasonable. Where people have a reasonable expectation
 
 1 1 8
 
-C O D E
-
 privac y, the govern m ent cannot invade that space wi t h o ut sati s f ying the requ i rements of the Fourth Amendment.
 
 There is much to admire in Stewart's opinion,at least to the extent that he is willing to fashion tools for preserving the Constitution's meaning in changed circumstances—or again, to the extent that he attempts to translate the protections of the
@@ -5104,8 +4902,6 @@ years ago) decided the case.
 
 Professor Tribe describes an example in a founding article in the law of cyberspace, "The Constitution in Cyberspace."24 Tribe sketches a method of reading the
 Con s ti tuti on in cybers p ace that aims to make the Con s ti tuti on "tech n o l ogi c a lly
-
-t r a n s l a t i o n
 
 1 1 9
 
@@ -5151,8 +4947,6 @@ these ambiguities offer us a choice: How will we go on?
 
 1 2 0
 
-C O D E
-
 Choices are not terrible. It is not a disaster if we must make a decision—so long,
 that is, as we are capable of it. But here is the nub of the problem that I see. As I argue in more detail in part 4, given the current attitudes of our courts, and our legal
 c u l tu re gen era lly, con s ti tuti onal ch oi ces are co s t ly. We are bad at making these
@@ -5188,8 +4982,6 @@ judges. We have been trapped by a mode of reasoning that pretends that all the i
 we think the answers are not already there. As nations across the world struggle to
 express and embrace constitutional values, we, with the oldest written constitutional
 tradition, have lost the practice of embracing, articulating, and deciding on constitutional values.
-
-t r a n s l a t i o n
 
 1 2 1
 
@@ -5227,8 +5019,6 @@ The implication of this idea in real space is that it sometimes makes sense to s
 the burden of protection to citizens rather than the state. If, for example, a farmer
 wants to store some valuable seed on a remote part of his farm, it is better for him
 to bear the cost of fencing in the seed than to require the police to patrol the area
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 2 3
 
@@ -5278,8 +5068,6 @@ s top flower thef t ; s el ecting a disti n ctive flower might do the same. Soph
 
 1 2 4
 
-C O D E
-
 l ocks might make sto l en cars usel e s s ; s oph i s ti c a ted bank fraud might make skys c ra pers vu l n era bl e . The point is not that pro tecti ons are given , or unch a n ge a bl e ,
 but that they are multiplied and their modalities different.
 
@@ -5319,8 +5107,6 @@ But up to now, the law could respond quite easily. If photocopying machines in
 libraries posed a new threat to the right, then the law could be modified to better
 deal with photocopying machines.9 If videotape allowed TV viewers to tape a show
 to view at a different time, the law could be modified to deal with time shifting.10 In
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 2 5
 
@@ -5364,8 +5150,6 @@ of S t a l i n's ad m i n i s tra ti on . The re s t a tem ent had a ti l t , ve
 the natu ral lay of the land.
 
 1 2 6
-
-C O D E
 
 For our purposes, however, it is the recommendations that are most significant.
 The government proposed four responses to the threat presented by cyberspace. In
@@ -5452,8 +5236,6 @@ that presented the same problem; a solution to the problem was subsequently buil
 
 1 2 8
 
-C O D E
-
 i n to the tech n o l ogy.2 2 Di gital audio tech n o l ogy (DAT) tape was a threat to copyright, and a number of solutions to this threat were proposed. Some people argued
 for higher penalties for illegal copying of tapes (direct regulation by law). Some arg u ed for a tax on blank tape s , with the proceeds com pen s a ting copyri ght holders
 (indirect regulation of the market by law). Some argued for better education to stop
@@ -5498,8 +5280,6 @@ those contracts.
 
 The details of the system are not important here24 (it builds on the encryption
 architecture I described in chapter 4), but its general idea is easy enough to describe.
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 2 9
 
@@ -5547,8 +5327,6 @@ more fine-grained control over access to and use of protected material than law 
 
 1 3 0
 
-C O D E
-
 What copyri ght seeks to do using the threat of l aw and the push of n orm s ,
 trusted systems do through the code. Copyright orders others to respect the rights of
 the copyright holder before using his property. Trusted systems g ive access only if
@@ -5593,8 +5371,6 @@ of the courts to evict you if you do not get rid of the cats. These are all inst
 where contract and property, however grounded in private action, give a private person an entitlement to the state.
 
 No doubt this power is justified in many cases; to call it "law"is not to call it unjust. The greatest prosperity in history has been created by a system in which private
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 3 1
 
@@ -5645,8 +5421,6 @@ intellectual property is that its consumption,as the economists like to put it,i
 
 1 3 2
 
-C O D E
-
 wi t h o ut making it impo s s i ble for me to sing it. If I wri te a boo k , you can re ad it
 (please do) without disabling me from reading it. Ideas, at their core, can be shared
 with no reduction in the amount the "owner" can consume. This difference is fundamental, and it has been understood since the founding.
@@ -5686,8 +5460,6 @@ the same thing. That fact is given in the world,and it is that fact that makes i
 take from you without diminishing what you have.
 
 It does not fo ll ow, h owever, that there is no need for property ri ghts over expressions or inventions.36 Just because you can have what I have without lessening
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 3 3
 
@@ -5734,8 +5506,6 @@ copyri ght term at fif teen ye a rs , t h ere would be no claim that the govern 
 
 1 3 4
 
-C O D E
-
 compensation after the fifteen years were up. Intellectual property rights are a monopoly that the state gives to producers of intellectual property in exchange for their
 producing intellectual property. After a limited time, the product of their work becomes the public 's to use as it wants. This is Communism, at the core of our Constitution's protection of intellectual property. This "property"is not property in the
 ordinary sense of that term.
@@ -5775,8 +5545,6 @@ when the statute runs.42
 
 Ta ken toget h er, these rules give the cre a tor significant con trol over the use of
 what he produces, but never perfect control. They give the public some access, but
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 3 5
 
@@ -5823,8 +5591,6 @@ a l re ady we have the abi l i ty to rewri te the balance that copyri ght law cr
 
 1 3 6
 
-C O D E
-
 I agree that this race to priva ti ze copyri ght law thro u gh con tract is alre ady far
 along, fueled in particular by decisions such as Judge Frank Easterbrook's in ProCD
 v Zeidenberg44 and by the efforts in some quarters to push a new uniform code that
@@ -5867,8 +5633,6 @@ if indeed our constitutional commitment is ambiguous.
 
 A nice para ll el to this probl em exists in con s ti tuti onal law. The fra m ers gave
 Congress the power to regulate interstate commerce and commerce that affects interstate commerce.51 At the founding, that was a lot of commerce, but because of the
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 3 7
 
@@ -5917,8 +5681,6 @@ regime, then the emergence of this perfection should trouble you. From your per-
 
 1 3 8
 
-C O D E
-
 spective, there was a value latent in the imperfection of the old system that has now
 been erased.
 
@@ -5961,8 +5723,6 @@ checked out and then using this data in some monitoring way.
 
 Such tracking, however, is just what trusted systems require. And so the question
 becomes: Should there be a right against this kind of monitoring? The question is
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 3 9
 
@@ -6008,8 +5768,6 @@ will force a choice on us that we do not need to make in real space. Should the 
 
 1 4 0
 
-C O D E
-
 the architecture an incompleteness that guarantees a certain aspect of public use? Or
 a certain space for individual freedom?
 
@@ -6050,8 +5808,6 @@ from monitoring could be achieved while protecting privacy as well. It may take 
 bit more coding to build in routines for breaking traceability; it may take more planning to ensure that privacy is protected. But if those rules are embedded up front,
 the cost would not be terribly high. Far cheaper to architect privacy protections in
 now rather than retrofit for them later.
-
-i n t e l l e c t u a l p r o p e r t y
 
 1 4 1
 
@@ -6106,8 +5862,6 @@ This character (a man in real space) "was" a woman, and he proceeded to "seduce"
 room" and engage in a tinySex affair. Many famous MUDers were seduced by this
 character, who engaged in quite a bit of tinySex.
 
-p r i v a c y
-
 1 4 3
 
 We know this because the character recorded these tinySex t rysts, both the sedu cti on and the sex that fo ll owed . Af ter co ll ecting a large nu m ber of vi cti m s , h e
@@ -6154,8 +5908,6 @@ about these two ideas of monitoring and searching. What are the constraints in r
 
 1 4 4
 
-C O D E
-
 space on others' ability to monitor and search,and how do those constraints change
 as we move to cyberspace?
 
@@ -6197,8 +5949,6 @@ to protect privacy on her own.I consider that in a section that follows.
 E-mail
 
 Electronic mail is a text-based message stored in digital form. It is like a transcribed telephone call. When sent from one person to another, e-mail is copied and
-
-p r i v a c y
 
 1 4 5
 
@@ -6245,8 +5995,6 @@ plates in the Channel Tunnel11 or vehicles entering airport parking garages. 12 
 
 1 4 6
 
-C O D E
-
 these tech n o l ogi e s , and others , it wi ll become incre a s i n gly easy to mon i tor movements in public.
 
 Telephones
@@ -6287,8 +6035,6 @@ want a pro tecti on that minimizes the ex tent to wh i ch tra n qu i ll i ty is 
 Sometimes the state will have reason to search us or to interfere with our peace. But
 we want this interferen ce kept at a minimu m . The test then is the bu rden of t h e
 state's intervention; when an intervention can be made less burdensome,the protection against it decreases as well.
-
-p r i v a c y
 
 1 4 7
 
@@ -6340,8 +6086,6 @@ h ave a re a s on a ble su s p i c i on . As Ju s ti ce Scalia wro te : "I fra n
 
 1 4 8
 
-C O D E
-
 the fiercely proud men who adopted our Fo u rth Am en d m ent would have all owed
 t h em s elves to be su bj ected , on mere su s p i ci o n of being arm ed and dangero u s , to
 su ch indign i ty."1 4
@@ -6380,8 +6124,6 @@ Congress passed the Alien and Sedition Acts, which in effect punished sedition q
 d i rect ly.1 7 Ma ny thought these laws uncon s ti tuti on a l . But the Fo u rth and Fifth
 Am en d m ents would have been ef fective limits on their en forcem en t , wh et h er the
 substantive laws were constitutional or not.
-
-p r i v a c y
 
 1 4 9
 
@@ -6429,8 +6171,6 @@ po s s i ble worl d s . Th ey establ i s h ed a con s ti tuti on for their worl 
 
 1 5 0
 
-C O D E
-
 d i f fers from ours in a way that reveals a ch oi ce they did not have to make , t h en we
 n eed to make that ch oi ce .2 0
 
@@ -6471,8 +6211,6 @@ that it was hard to hide yourself from others, but that monitoring was different
 was done by people whose memories were imperfect and who were likely to notice
 on ly beh avi or out of the ord i n a ry. These mem ori e s , m oreover, could not be
 s e a rch ed , or co ll ected , or produ ced as record s . A priva te eye might intervi ew the
-
-p r i v a c y
 
 1 5 1
 
@@ -6525,8 +6263,6 @@ others using information about you, do not put it in their hands.
 
 1 5 2
 
-C O D E
-
 • Third,these data actually do some good.I do not know why Nike thinks I am
 a good person to tell about their latest sneakers, and I do not know why Keds
 does not know to call. In both cases, I suspect the reason is bad data about
@@ -6569,8 +6305,6 @@ any time, and therefore at any time demanding a justification.
 A second value follows directly from this modern capacity for archiving data. We
 all desire to live in separate communities, or among or within separate normative
 spaces. Privacy, or the ability to control data about yourself, supports this desire. It
-
-p r i v a c y
 
 1 5 3
 
@@ -6615,8 +6349,6 @@ Advertising would be more likely to go to those people for wh om it would be use
 
 1 5 4
 
-C O D E
-
 not the discri m i n a ti on of Jim Crow. It is the won derful sort of d i s c ri m i n a ti on that
 s p a res me Ni ke ad s .
 
@@ -6656,8 +6388,6 @@ is something you must buy. But zoning laws add the support of law to the segrega
 
 There was a time when we would have defined our country as a place that aimed
 to erase these distinctions. The historian Gordon Wood describes this goal as an important element of the revolution that gave birth to the United States.37 The enemy
-
-p r i v a c y
 
 1 5 5
 
@@ -6704,8 +6434,6 @@ offended a free citizen's dignity. As Viviana Zelizer describes it:
 
 1 5 6
 
-C O D E
-
 In the early 1900s, as ti pping became incre a s i n gly pop u l a r, it provo ked gre a t
 m oral and social con trovers y. In fact , t h ere were nati onwi de ef fort s , s ome su ccessful, by state legislatures to abolish tipping by turning it into a punishable misdemeanor. In countless newspaper editorials and magazine articles, in etiquette
 boo k s , and even in co u rt , tips were cl o s ely scruti n i zed with a mix of c u ri o s i ty,
@@ -6741,8 +6469,6 @@ The problems are of two sorts. The first is the question of "efficient invasion"
 technologies now enable searching with none of the burdens that searches ordinari ly en t a i l ed . Second is the qu e s ti on of m on i tori n g, and the con trol over data that
 monitoring produces. These two problems invite different solutions.I touch on the
 first, and then focus on the second.
-
-p r i v a c y
 
 1 5 7
 
@@ -6788,8 +6514,6 @@ easily encrypted. Some people therefore will demand a solution beyond code.
 
 1 5 8
 
-C O D E
-
 This soluti on should track two particular va lues pro tecting re a l - s p ace privac y.
 First,any burden must be minimal,and any search that creates more than a minimal
 burden must be justified by individualized suspicion.43 Second, any search must be
@@ -6834,8 +6558,6 @@ f rom the crowd .
 But even if everyone were scanned, there would be questions about how the system should be designed. Would the officials see the people whose bodies they were
 scanning? Im a gi n e , in one vers i on , of ficers watching people en ter a boo t h , s eei n g
 what is under their clothes, and then watching (leering) as they leave. Contrast that
-
-p r i v a c y
 
 1 5 9
 
@@ -6884,8 +6606,6 @@ that relies on code rather than good behavior. In a world where the dimensions o
 
 1 6 0
 
-C O D E
-
 decision have been so r adically multiplied, we need a more effective way to control
 what we collectively do.
 
@@ -6931,8 +6651,6 @@ sue you and you must then pay. There are two important differences between liabi
 The first difference is that a property regime requires negotiation before taking;
 a liability regime allows a taking, and payment later. The key to a property regime is
 to give control, and power, to the person holding the property right; the key in a liability regime is to protect the right but facilitate the transfer of some asset from one
-
-p r i v a c y
 
 1 6 1
 
@@ -6983,8 +6701,6 @@ view—or more important, that it ought to be.
 
 1 6 2
 
-C O D E
-
 A world where privacy is commodified in this sense might turn out to be radically inferior. Or it might be fine. My argument is not from first principles; it is intended only as a pragmatic response to an emerging issue. If the world turns out not
 to our liking, then of course we should modify the architectures.
 
@@ -7022,8 +6738,6 @@ The first is that nothing in my regime would give individuals final or complete
 control over the kinds of data they can sell, or the kinds of privacy they can buy. The
 P3P regime would in principle enable upstream control of privacy rights as well as
 individual control. If we lived, for example, in a regime that identified individuals
-
-p r i v a c y
 
 1 6 3
 
@@ -7110,8 +6824,6 @@ some no doubt would shun me. Nor would the market necessarily support me. It
 
 1 6 6
 
-C O D E
-
 would be quite difficult to buy time on television for a speech advocating such a reform. Television stations have the right to select their ads (within some limits); they
 do not like con troversial or tasteless ad s .2 Mine would most likely be deem ed too
 con trovers i a l . S t a ti ons also have the FCC—an active combatant in the war on
@@ -7152,8 +6864,6 @@ But on top of this list of protectors of speech in cyberspace is architecture. R
 tie to geogra phy, no simple sys tem to iden tify con ten t , tools of en c rypti on4— a ll
 these features and consequences of the Internet protocol make it difficult to control
 speech in cyberspace. The architecture of cyberspace is the real protector of speech
-
-f r e e s p e e c h
 
 1 6 7
 
@@ -7197,8 +6907,6 @@ ratified the Constitution,the Net has taught us what the First Amendment means. 
 we take this meaning seriously, then the First Amendment will require a fairly radical restructuring of the architectures of speech off the Net as well.
 
 1 6 8
-
-C O D E
 
 But all that is to get ahead of the story. In the balance of this chapter, I want to
 tell three stori e s — one abo ut publ i c a ti on , one abo ut acce s s , and one abo ut distribution. With each, I want to consider how "free speech" is regulated.
@@ -7244,8 +6952,6 @@ to let the American people see just what kind of a crime it was.
 For two and a half months the Times editors pored over the pap ers, working to
 verify their authenticity and accuracy. After an extensive review, the editors determined that they were authentic and resolved to publish the first of a ten-part series
 of excerpts and stories on Sunday, June 13, 1971.10
-
-f r e e s p e e c h
 
 1 6 9
 
@@ -7293,8 +6999,6 @@ the New York Times. When the cat is already out of the bag, preventing further p
 
 1 7 0
 
-C O D E
-
 This point is made clear in a case that came after New York Times—a case that
 could have been invented by a law professor. The Progressive was a left-wing magazine that in the late 1970s commissioned an article by Howard Morland about the
 workings of an H-bomb. The Progressive first submitted the manuscript to the Department of Energy, and the government in turn brought an injunction to block its
@@ -7333,8 +7037,6 @@ gives anyone the power to publish, quickly and anonymously.
 The architecture of the Net, Abrams argues, eliminates the need for the constituti onal pro tecti on ; even bet ter, the Net pro tects against pri or re s traint just as the
 Constitution did—by ensuring that strong controls on information can no longer
 be achieved. Abrams argues that the Net does what publication of the Pentagon Papers was designed to do—ensure that the truth does not remain hidden.
-
-f r e e s p e e c h
 
 1 7 1
 
@@ -7383,8 +7085,6 @@ When a new technology comes along, however, we are likely to lose our bearings.
 This is nothing new. It is said that the word phony comes from the birth of the telephone—the phony was the con artist who used the phone to trick people who were
 
 1 7 2
-
-C O D E
 
 familiar with face-to-face communication only. We should expect the same uncertainty in cyberspace,and expect that it too, at first, will shake expectations of credibility.
 
@@ -7474,8 +7174,6 @@ do in real space.
 
 1 7 4
 
-C O D E
-
 In cyberspace the regulation of porn is different. The first difference is the market . In real space porn costs mon ey, but in cybers p ace it need not—at least not
 much. If you want to distribute one million pictures of "the girl next door" in real
 space,it is not unreasonable to say that distribution will cost close to $1,000,000. In
@@ -7517,8 +7215,6 @@ then they could speak "indecently."36
 
 There were at least three problems with the CDA, any one of which should have
 doomed it to well-deserved extinction.37 The first was the scope of the speech it addressed:"indecency"is not a category of speech that Congress has the power to regulate (at least not outside the context of broadcasting.)38 As I have already described,
-
-f r e e s p e e c h
 
 1 7 5
 
@@ -7574,8 +7270,6 @@ Speakers are zoned into a space from which children are excluded. The second is 
 
 1 7 6
 
-C O D E
-
 filtering solution. Listeners are empowered to block speech they want to block. We
 could describe each as a version of the other—with zoning, people are filtered; with
 f i l teri n g, the listen er zones speech . But let's keep the kinds disti n ct and con s i der
@@ -7596,7 +7290,7 @@ would require a password. Many people could share a single machine, but if any o
 them were minors,the adult profiles would be secured with a password.
 
 Take an example from a hypothetical family. Say a family of three shares a single
-computer. One member of that family is a minor. Using this modifi ed browser, the
+computer. One member of that family is a minor. Using this modified browser, the
 adults would set up a profile for each member of the family. With the child's profile,
 the kids-ID box would be checked,and a password would be used to access that profile. Any member of the family using the system would select his or her o wn profile
 and browse according to the rules of that profile. (Netscape already provides something close to this. With Navigator Communicator 4.5, for example, you can set up
@@ -7615,8 +7309,6 @@ wanting to enter a regulable site would have their credentials checked automatic
 Those holding the right certificate would be permitted to enter; those without one
 would be denied entry. Web sites would then bear the burden of verifying that certificates were authentic, and would also bear the burden of determining which elements, if any, of their speech were regulable. But they would bear this burden only
 when the site had Ginsberg speech.
-
-f r e e s p e e c h
 
 1 7 7
 
@@ -7662,8 +7354,6 @@ Ta iwan and then easily devel op a sligh t ly different ra ting sys tem for the 
 
 1 7 8
 
-C O D E
-
 If all three assumptions held true,any number of ratings could be applied to the
 Net. As envisioned by its authors, PICS would be neutral among ratings and neutral
 among filters; the system would simply provide a language with which content on
@@ -7703,8 +7393,6 @@ block out listeners; the incentive of a speaker is to have more, not fewer, list
 The only requirements to filter out listeners would be those that may constitutiona lly be impo s ed —G i n s berg s peech requ i rem en t s . Si n ce they would be impo s ed by
 the state , these requ i rem ents could be te s ted against the Con s ti tuti on , and if t h e
 state were found to have reached too far, it could be checked.
-
-f r e e s p e e c h
 
 1 7 9
 
@@ -7755,8 +7443,6 @@ select them for us. If I read the New York Times rather than the Wall Street Jou
 
 1 8 0
 
-C O D E
-
 am selecting a filter according to my understanding of the values both newspapers
 bring to the process of filtering. Obviously, in any particular case, there cannot be a
 problem with this.
@@ -7798,8 +7484,6 @@ What wi ll it mean if a u d i en ces are incre a s i n gly fracti on a ted into 
 with special interests? What will it mean if the agenda of national fads and concerns is no lon ger ef fectively set by a few mass media to wh i ch everyone is exposed? Such a trend raises for society the reverse problems from those posed by
 mass conformism. The cohesion and effective functioning of a democratic society depends upon some sort of public agora in which everyone participates and
 where all deal with a common agenda of problems, however much they may argue over the solutions.51
-
-f r e e s p e e c h
 
 1 8 1
 
@@ -7849,8 +7533,6 @@ practices,and with PICS it is rules about content. But how, the skeptic asks,can
 
 1 8 2
 
-C O D E
-
 The answer is the same as before: the values of speech are different from the values of privacy; the control we want to vest over speech is less than the control we
 want to vest over privacy. For the same reasons that we disable some of the control
 over intellectual property, we should disable some of the control over content.A little bit of messiness, or friction, is a value, not a cost.54
@@ -7888,8 +7570,6 @@ Hoover used this to justify new federal regulation.57
 Congress then rode to the rescue by authorizing the FCC to regulate in a mass ively inva s ive way. O n ly the licen s ed could spe a k ; what they said would be contro ll ed by their licen s e ; t h ey had to speak in the public intere s t ; t h ey had to share
 their resource with their opponents. In short, Congress said, broadcasting had to be
 reg u l a ted in the same way the Sovi et Un i on reg u l a ted its econ omy.5 8 We had no
-
-f r e e s p e e c h
 
 1 8 3
 
@@ -7935,8 +7615,6 @@ of speech. Yet it is an architecture, we are told, that we are compelled to a cc
 to occur.
 
 1 8 4
-
-C O D E
 
 But what if this assumption were no longer true?64 Whatever the state of radio
 technology was in 1927, there's an emerging view that broadcasting today does not
@@ -8109,8 +7787,6 @@ Communist states. So I spent time talking to lawyers, businessmen,and managers o
 the em er ging Net in Vi etnam ("Net Na m" ) . Very qu i ck ly, a su rprising pictu re
 emerged.
 
-s o v e r e i g n t y
-
 1 8 9
 
 Though Vietnam is a "Communist" state whose ideology, as understood in the
@@ -8158,8 +7834,6 @@ should ask it about the "sovereignty" of cyberspace itself.
 
 1 9 0
 
-C O D E
-
 In the end,I want to argue that there is a sovereignty in cyberspace; that this sovereignty competes with real-space sovereigns; and that control of that sovereign is
 essential if we are to achieve democratic control over an extraordinarily important
 aspect of real-space life. Real-space life, not just cyberspace life,since in the end,and
@@ -8204,8 +7878,6 @@ the federal government with you.You do not carry along a set of rules for Americ
 while in Europe. In Germany you are generally subject to German law. The United
 S t a tes ord i n a ri ly has very little re a s on to worry abo ut reg u l a ting your beh avi or
 there—so long, at least, as you are there.
-
-s o v e r e i g n t y
 
 1 9 1
 
@@ -8253,8 +7925,6 @@ can travel; the question is about what power a state should have given that its 
 
 1 9 2
 
-C O D E
-
 How can govern m ents accept these altern a tive ways of l iving while the peop l e
 
 living them are also living within the jurisdiction of these governments?
@@ -8295,8 +7965,6 @@ mu l ti p l i c i ty of ju ri s d i cti ons in wh i ch your beh avi or is su bj 
 a nything you do in cybers p ace has an ef fect in every other con text) should mean
 that much behavior is presumptively not subject to regulation anywhere. Anywhere,
 that is, save cyberspace.9 The inconsistency of any other solution, they argue, would
-
-s o v e r e i g n t y
 
 1 9 3
 
@@ -8346,8 +8014,6 @@ not solely within the jurisdiction of a particular sovereign,then what kinds of 
 
 1 9 4
 
-C O D E
-
 should one sovereign be able to make on others, and what kinds of claims can these
 sovereigns make on cyberspace?
 
@@ -8384,8 +8050,6 @@ hackers' behavior a "crime," and the government took aggressive steps to combat 
 A few prom i n ent and well - p u bl i c i zed cases were used to redefine the hackers'
 "h a rmless beh avi or " i n to what the law would call "c ri m i n a l ." The law thus era s ed
 any ambiguity about the "good"in hacking.
-
-s o v e r e i g n t y
 
 1 9 5
 
@@ -8439,8 +8103,6 @@ a scad of other high-profile hackers as well. This was a war whose aim was to re
 
 1 9 6
 
-C O D E
-
 the hacker community into outlaws. Phiber Optik,22 David LaMaccia,23Steve Jackson Games,24 and others were the victims of this war. Real-space communities could
 not tolerate these sorts in their midst. So the hackers were banished.25
 
@@ -8477,8 +8139,6 @@ Enter cyberspace, where the architecture of interaction, or the architecture of 
 p a rticular cybers p ace , determines a host of rules abo ut con tract s . These ru l e s —
 a bo ut how an of fer is accepted , wh en it is ef fective , h ow it can be cancel ed , wh a t
 terms must be bargained for, whether terms are enforceable, whether there must be
-
-s o v e r e i g n t y
 
 1 9 7
 
@@ -8524,8 +8184,6 @@ must decide how far they will allow this conflict to reach.
 
 1 9 8
 
-C O D E
-
 Con tract and copyri ght are not the on ly laws that wi ll com pete with the code of c ybers p ace . Think abo ut the rules of access thro u gh the mail, and its equ iva l ent in cybers p ace ,e - m a i l . In real space , even in ga ted com mu n i ti e s , the mail gets thro u gh . Yo u
 can send adverti s em ents or po l i tical com m en t a ry to people within these com mu n i ti e s .
 Rules abo ut trespass and priva te property might bl ock you from en tering the com mun i ty and leafleting door to door.2 9 But in real space you can use the mail.3 0
@@ -8567,8 +8225,6 @@ They will come to see that the power of another sovereign is wired into their te
 rules and norms of this other sovereign affect the behavior of their citizens in their
 s p ace . Th ey have the tools at their disposal to resist the arch i tectu re of the Net to
 protect their regulatory power.
-
-s o v e r e i g n t y
 
 1 9 9
 
@@ -8614,8 +8270,6 @@ Po l i tical theorists have noted this probl em for some ti m e .3 5 S ch o l a 
 Richard Ford have contributed significantly to the view that we need a way to un-
 
 2 0 0
-
-C O D E
 
 derstand com mu n i ty and the ri ght to parti c i p a te in its govern a n ce that is not directly tied to geography.
 
@@ -8665,8 +8319,6 @@ Some theorists have tried to collapse these two modes into one. Some have tried
 to carry the member model into every sphere of social life—the workplace,the mall,
 the local pub.36 Others have tried to carry the consumer model into every sphere of
 
-s o v e r e i g n t y
-
 2 0 1
 
 social life—followers of Charles Tiebout, for example,have tried to explain competi ti on among govern m ents along the lines of the ch oi ces we make among too t hpastes.37 But even if we cannot articulate perfectly the justifications for treating these
@@ -8712,8 +8364,6 @@ your home. If the group you join does not t reat you as you want to be treated, 
 
 2 0 2
 
-C O D E
-
 can leave . Because com peti tive pre s su re is gre a ter in cybers p ace , govern m ents and
 other propagators of rule-sets must behave like firms in a competitive market.
 
@@ -8753,8 +8403,6 @@ more power over their citizens than real-space communities do.
 This suggests a picture of competing rule-sets in cyberspace that is more complex than Post believes. It is not clear that markets will function more competitively
 there (since it is easier to build in these loyalty programs).43 Nor is it clear that communities will function more competitively there (since it is harder to transfer social
 capital).44
-
-s o v e r e i g n t y
 
 2 0 3
 
@@ -8805,8 +8453,6 @@ First Amendment on the world. Who are we to insist on free speech as a worldwide
 
 2 0 4
 
-C O D E
-
 value? Or on free markets as the organizing structure for economies the world over?
 Isn't this just the sort of decision that local governments ought to make? Why are we
 making it for them?
@@ -8846,8 +8492,6 @@ the claim that issues like slavery were local became absurd.
 
 The very same process is hap pening to us now, internationally, and it is making
 an important cybers p ace con tri buti on . It has been slowly gaining mom en tu m , of
-
-s o v e r e i g n t y
 
 2 0 5
 
@@ -8891,8 +8535,6 @@ be inconsistent with the regulatory regime of trusted systems. My argument is th
 we should understand these to be two regulatory regimes in competition with each
 
 2 0 6
-
-C O D E
 
 o t h er. We need a way to ch oose bet ween them . We need a way to dec i de wh i ch
 should prevail.
@@ -8939,8 +8581,6 @@ could take control this way in large part because of the economies of its regula
 and the diseconomies of escaping its regulations. Borders keep people in, and hence
 governments could regulate.
 
-s o v e r e i g n t y
-
 2 0 7
 
 Cyberspace und ermines this balance. Regulation does not become more costly,
@@ -8985,8 +8625,6 @@ will push to facilitate the predicate to this architecture of regulability—cer
 
 2 0 8
 
-C O D E
-
 And when they do, we again will ha ve to decide whether this architecture of regulability is creating the cyberspace we want.
 
 A choice.
@@ -9027,8 +8665,6 @@ made possible by a particular inefficiency.
 I don't mean this as a criticism of the notion of efficiency. To identify a value that
 has been lost by efficiency is only to raise the question of whether in fact the "effic i en t" is ef f i c i en t , or ef f i c i ent to a particular en d . The qu e s ti on is what the en d
 should be. If the value that is lost is of value, then it may no longer be efficient to
-
-s o v e r e i g n t y
 
 2 0 9
 
@@ -9101,8 +8737,6 @@ balance of part 3 was that there are many such ambiguities. In four crucial area
 
 2 1 2
 
-C O D E
-
 social and political life in cyberspace, the words of the framers will not carry us far
 in making the nece s s a ry ch oi ce s . Wh ere tra n s l a ti on gives out , a ch oi ce must be
 made.
@@ -9142,8 +8776,6 @@ the Bill of Rights—was a codifying constitution. Against the background of the
 constitution, it sought to entrench certain values against future change.2 The Civil
 
 2 1 4
-
-C O D E
 
 War amendments were transformative again. They aimed to remake part of what the
 American social and legal culture had become—to rip out from the American soul
@@ -9231,8 +8863,6 @@ ified by the political process, are appropriate for judicial enforcement. (The p
 with the choices in cases of latent ambiguity is that they do not seem to have been
 
 2 1 6
-
-C O D E
 
 properly ratified by the political process. They reflect values, but the values do not
 seem to be taken from the Constitution.)
@@ -9326,8 +8956,6 @@ equivalent of law, to develop outside the scope o f constitutional review? Or to
 
 2 1 8
 
-C O D E
-
 tend constitutional review to the structures of private regulation, to preserve those
 fundamental values within our t radition?
 
@@ -9419,8 +9047,6 @@ supposed to be? A board composed of representative stakeholders? Isn't that what
 
 2 2 0
 
-C O D E
-
 Congress is? Indeed, my Georgian friend might observe that this corporate structure
 differs from government in only one salient way—there is no ongoing requirement
 of elections.
@@ -9502,8 +9128,6 @@ is deadly for action—a mix that guarantees that little good gets done.
 
 S I X T E E N
 
-r e s p o n s e s
-
 We n eed a pl a n . I 've t ol d a da r k st or y a bo ut t h e ch oi ces t h at a ch a n gi n g
 c ybers p ace wi ll pre s en t , and abo ut our inabi l i ty to re s pond to these ch oi ce s . I 've
 linked this inability to three features of our present legal and political culture. In this
@@ -9530,8 +9154,6 @@ scope.
 In cases of simple tra n s l a ti on (wh ere there are no latent ambi g u i ties and our trad i ti on seems to speak cl e a rly ) , ju d ges should firm ly adva n ce arguments that seek to
 pre s erve ori ginal va lues of l i berty in a new con tex t . In these cases there is an important space for activi s m . Ju d ges should iden tify our va lues and defend them , not nece s s a ri ly because these va lues are ri gh t , but because if we are to ign ore them , we should
 do so on ly because they have been rej ected—not by a co u rt but by the peop l e .
-
-r e s p o n s e s
 
 2 2 3
 
@@ -9577,8 +9199,6 @@ A second challenge is confronting the law in code—resolving, that is, just how
 think about the regulatory power of code. Here are a number of ideas that together
 
 2 2 4
-
-C O D E
 
 would push us toward a world where regulation imposed through code would have
 to satisfy constitutional norms.
@@ -9627,8 +9247,6 @@ should insist on for any code that regulates. If code is a lawmaker, then it sho
 The core of these values is transparency. What a code regulation does should be
 at least as apparent as what a legal regulation does. Open code would provide that
 
-r e s p o n s e s
-
 2 2 5
 
 transparency—not for everyone (not everyone reads code),and not perfectly (badly
@@ -9676,8 +9294,6 @@ would divi de the nati on , said on the floor of the Sen a te , " M r. Pre s i d
 
 2 2 6
 
-C O D E
-
 speak today, not as a Massachusetts man, nor as a Northern man, but as an American. . . . "7
 
 When Webster said this—in 1850—the words "not as a Massachusetts man" had
@@ -9714,8 +9330,6 @@ interests that reaches beyond diplomatic ties into the hearts of ordinary citize
 What will we do then? When we feel we are part of a world, and that the world
 regulates us? What will we do when we need to make choices about how that world
 regulates us, and how we regulate it?
-
-r e s p o n s e s
 
 2 2 7
 
@@ -9765,8 +9379,6 @@ good judgment, and not because democracy needs to fail, but because it is often 
 
 2 2 8
 
-C O D E
-
 produ ct of i gn ora n ce . People of ten have ill - i n form ed or parti a lly inform ed vi ews
 that they simply repeat as judgments when they know that their judgments are not
 being particularly noticed or considered.
@@ -9815,8 +9427,6 @@ Th ere is a magic in a process wh ere re a s ons count—not wh ere ex perts rul
 where only smart people have the vote, but where power gets set in the face of reason. The magic is in a process where citizens give reasons, and citizens understand
 that power is constrained by these reasons.
 
-r e s p o n s e s
-
 2 2 9
 
 This was the magic that Tocqu evi lle wro te of wh en he told the world of t h e
@@ -9857,8 +9467,6 @@ story, to persuade.
 When it works, it does something to the people who experience this persuasion. Some, for the first time in their lives, see power constrained by reason. Not
 
 2 3 0
-
-C O D E
 
 by votes, not by wealth, not by who someone knows—but by an argument that
 persuades. This is the magic of our system,however rare the miracles may be.
@@ -9908,8 +9516,6 @@ state and regulation by code—are quite consistent. Just as we should worry abo
 the bad reg u l a ti ons of l aw, so too should we worry abo ut the bad reg u l a ti ons of
 
 2 3 2
-
-C O D E
 
 code. And from the perspective of this book,Y2K is our first real crisis in code. It is
 the first time that the cultu re as a whole wi ll have to con f ront the envi ron m en t a l
@@ -9996,8 +9602,6 @@ product of something alien—something we cannot direct because we cannot direct
 a nyt h i n g. Som ething inste ad that we must simply accept , as it invades and tra n sforms our lives.
 
 2 3 4
-
-C O D E
 
 Some say this is an exc i ting ti m e . But it is the exc i tem ent of a teen a ger playi n g
 chicken,his car barreling down the highway, hands held far from the steering wheel.
@@ -10332,8 +9936,6 @@ Times Books, 1998),117–32.
 
 11. No doubt the worm would interact with the operation of the machine,as it would interact with, for example,the operating system at least.
 
-n o t e s
-
 2 4 3
 
 12. My example is drawn from Michael Adler, "Cyberspace,General Searches, and Digital
@@ -10382,7 +9984,7 @@ Knowledge in the Electronic Age, edited by Richard Holeton (Boston: McGraw-Hill,
 meaning in a practice of reading across time, founded on paradigm cases; see "Reading the
 Constitution as Spoken," Yale Law Journal 104 (1995): 1119, 1122; and "On Fidelity in Constitutional Law," Fordham Law Review 65 (1997): 1469.
 
-2 3 . See Mi n n e sota v Di ckerso n , 508 US 366, 380 (1993) (Ju s ti ce An tonin Scalia con c u rring:"I frankly doubt . . . whether the fi ercely proud men who adopted our Fourth Amendment would have allowed themselves to be subjected, on mere suspicion of being armed and
+2 3 . See Mi n n e sota v Di ckerso n , 508 US 366, 380 (1993) (Ju s ti ce An tonin Scalia con c u rring:"I frankly doubt . . . whether the fiercely proud men who adopted our Fourth Amendment would have allowed themselves to be subjected, on mere suspicion of being armed and
 dangerous, to such indignity. . . . ").
 
 C H A P T E R T H R E E
@@ -10391,8 +9993,6 @@ C H A P T E R T H R E E
 in the sense spo ken of by Ch a rles Morris and Ch a rles Fer g u s on in " How Arch i tectu re Wi n s
 
 2 4 4
-
-n o t e s
 
 Tech n o l ogy Wa rs ," Ha rva rd Business Revi ew ( Ma rch - April 1993): 8 6 . My usage is not qu i te the
 u s a ge of com p uter scien ti s t s , except in the sense of a "s tru ctu re of a sys tem" ; s ee the defin i ti on
@@ -10440,8 +10040,6 @@ C H A P T E R F O U R
 1 . Th o u gh I do think it is nece s s a ri ly the case that how com m erce is arch i tected affects fund a m ental va lu e s . In this, I agree with David Ch a u m , who argued early on that paym ent sys tem s
 would be crucial for "ach i eving el ectronic privac y " ;s ee , for ex a m p l e , "Ach i eving Electronic Privac y," S ci en ce ( August 1992): 9 6 , 9 6 – 9 7 , ava i l a ble at http : / / ga n ge s . c s . tcd . i e / m epei rce / Proj ect /
 Ch a u m / s c i a m . h tml (vi s i ted May 30, 1 9 9 9 ) . Paym ent sys tems are cru c i a l , and they can be cruc i a lly differen t .
-
-n o t e s
 
 2 4 5
 
@@ -10503,8 +10101,6 @@ gorithms,and Source Code in C, 2d ed.(New York: Wiley, 1996),4–5; Conference, 
 (1996): 327.
 
 2 4 6
-
-n o t e s
 
 15. For a comprehensive analysis of the legal issues surrounding PKI,see "Public Key Infrastructure Symposium," Jurimetrics Journal 38 (1998): 241.
 
@@ -10570,8 +10166,6 @@ Wi tness (www. key wi tness.ca) in Ca n ada and Bel Si gn In tern a ti onal (www
 Europe. Network Solutions has teamed up with VeriSign so that anyone who registers his or
 her domain name has an option to obtain a digital server certificate from VeriSign; see "Our
 
-n o t e s
-
 2 4 7
 
 Partners," available at http://www.netsol.com/partners/ (visited May 30,1999). For a more exh a u s tive list of certi f i c a te aut h ori ti e s , s ee "The PKI Pa ge ," ava i l a ble at http : / / w w w.
@@ -10629,8 +10223,6 @@ Subcommittee on Communications, Hearings on Violence on Television, 93d C ong., 
 
 2 4 8
 
-n o t e s
-
 (1974); U.S. Senate Committee on Commerce, Subcommittee on Communications, Hearings
 in Review of Policy Matters of Federal Communications Commission and Inquiry into Crime and
 Vi ol en ce on Tel evision and a Propo sed Stu dy T h ere of by the Su rgeon Gen era l , 91st Con g. , 1 s t
@@ -10681,8 +10273,6 @@ the Constitution," University of Pennsylvania Law Review 143 (1995):709,752–59
 technical discussion , s ee Bru ce Sch n ei er, Appl i ed Crypto gra p hy: Proto col s , Al go ri t h m s , a n d
 Source Code in C, 2d ed.(New York: Wiley, 1996): 591–93.
 
-n o t e s
-
 2 4 9
 
 19. See Field,"1996: Survey of the Year's Developments in Electronic Cash Law . . . ," 967,
@@ -10696,7 +10286,7 @@ Freedom Through Encryption (SAFE) Act of 1997,NR 695,105th Cong., 1st sess. Bake
 Hurst (The Limits of Trust, 21–22) note that "1997 saw remarkable change in the nature of the
 encryption debate. The beginning of the legislative session saw industry pushing for export
 l i bera l i z a ti on and the closing weeks saw indu s try defending against dom e s tic con tro l s ." In
-1996 the government implemented a policy to allow fi rms to export encryption technologies
+1996 the government implemented a policy to allow firms to export encryption technologies
 using the government's DES (digital encryption standard) so long as a key recovery system is
 built in; see EFF, Cracking DES, 1–4–1–5. As EFF's "Cracking DES" project makes clear, however, DES is an unreliable encryption standard.There was some hope for the government's enc rypti on policy after the 1996 publ i c a ti on of the Na ti onal Re s e a rch Co u n c i l 's report , t h e
 produ ct of a com m i t tee appoi n ted by the NRC to stu dy nati onal cryptogra phy po l i c y. Th e
@@ -10739,8 +10329,6 @@ recogn i zed in Reno v Am erican Civil Li berties Un i o n , 117 SCt 2329 (1997)
 "activities" on the Net that Congress could easily regulate (such as gambling). Regulation of
 
 2 5 0
-
-n o t e s
 
 these activities could require IDs before access to these activities would be permitted. To the
 extent that such regulation increases the incidence of IDs on the Net,other speech-related access conditions would become easier to justify.
@@ -10792,8 +10380,6 @@ as usual;see Steven Levy, Hackers: Heroes of the Computer Revolution (Garden Cit
 3 6 . See Minnesota Statute §§ 609.75, su b d . 2 – 3 , 609.755(1) (1994), making it a misdemeanor to place a bet unless done pursuant to an exempted,state-regulated activity, such as
 licensed charitable gambling or the state lottery. Internet gambling organizations are not exempted.
 
-n o t e s
-
 2 5 1
 
 37. See Scott M. Montpas, "Gambling Online: For a Hundred Dollars,I Bet You Government Regulation Will Not Stop the Newest Form of Gambling," University of Dayton Law Re -
@@ -10809,7 +10395,7 @@ gambling that occurs in a state in which it is illegal).
 
 4 0 . See B i o m etri cs: Personal Id en ti f i c a tion in Netwo rked Soci ety, ed i ted by Anil Ja i n ,
 Ruud Bo ll e , and Sharath Pa n k a n ti (Bo s ton : Kluwer Ac ademic Pu bl i s h ers , 1 9 9 9 ) ; s ee also
-Amanda Lang in " Mytec Braced for Lu cen t's Ch a ll en ge ," Fi n a n ci a l Post (Toron to ) , May 15,
+Amanda Lang in " Mytec Braced for Lu cen t's Ch a ll en ge ," Fin a n ci a l Post (Toron to ) , May 15,
 1 9 9 7 , 6 . At a con feren ce wh ere these tech n o l ogies were de s c ri bed , a participant rec a ll ed a
 qu e s ti on he had asked the manu f actu rer of a devi ce that iden ti f i ed people based on thei r
 h a n d :" Does it have to be a live hand?" The com p a ny repre s en t a tive tu rn ed wh i te ." No," w a s
@@ -10853,8 +10439,6 @@ ids3,October 1995), available at http://www.mids.org/ids3/index.html (visited Ma
 Ramo in part 4 of Richard Holeton, Composing Cyberspace: Identity, Community, and Knowl -
 
 2 5 2
-
-n o t e s
 
 edge in the Electronic Age (Boston: McGraw-Hill, 1998). Howard Rheingold's book (the first
 chapter of which is excerpted in Holeton's book) is also an early classic; see The Virtual Com -
@@ -10913,8 +10497,6 @@ follow our TOS no matter where you are on the Internet." Some of the other terms
 include the following rules:"Language: Mild expletives and nonsexual anatomical references
 are allowed, but strong vulgar language,crude or explicit sexual references, hate speech, etc.,
 
-n o t e s
-
 2 5 3
 
 are not. If you see it, report it at Keyword: Notify AOL.Nudity: Photos containing revealing
@@ -10957,7 +10539,7 @@ World (London: Fourth Estate, 1998).
 
 25. Ibid.,13–14.
 26. If anything, the sexuality of the space invited adolescent responses by adolescents; see
-S cott Bu k a tm a n , Terminal Id en ti ty: The Vi rtual Su bje ct in Po s tm od ern Sci en ce Fi cti o n
+S cott Bu k a tm a n , Terminal Id en ti ty: The Vi rtual Su bje ct in Po s tm od ern Sci en ce Ficti o n
 (Durham,N.C.: Duke University Press, 1993), 326. On MOOs in particular, see Dibbell, My
 Tiny Life. The challenge for the community was to construct norms that would avoid these responses without destroying the essential flavor of the space.
 
@@ -10980,8 +10562,6 @@ Law on LambdaMOO," Journal of Computer-Mediated Communication 2 (1996): 1.
 in Cyberspace, 88.
 
 2 5 4
-
-n o t e s
 
 32. Mnookin, "Virtual(ly) Law," 14.
 33. One student of mine studied this behavior and concluded that the difference was significant. That study was limited,however, by a relatively small sample.On the question more
@@ -11029,8 +10609,6 @@ Pre serving the Built Heri t a ge: Tools for Im pl em en t a ti o n , ed i ted b
 describing accords with the tradition of Andres Duany and Elizabeth Plater-Zyberk; see, for
 example, William Lennertz, "Town-Making Fundamentals," in Towns and Town-Making Prin -
 ciples, edited by Andres Duany and Elizabeth Plater-Zyberk (New York: Rizzoli, 1991): "The
-
-n o t e s
 
 2 5 5
 
@@ -11093,8 +10671,6 @@ builder, and the contractor, as well as the interior decorator."
 
 2 5 6
 
-n o t e s
-
 2 1 . In tere s ti n gly—and aga i n , a re a s on to see the futu re of reg u l a ti on talk loc a ted el s ewh ere—this is not true of a rch i tect s . An example is the work of John de Mon chaux and J.
 Mark Schuster. In their essay "Five Things to Do" and in the collection that essay introduces,
 Preserving the Built Heritage, they describe the "five and only five things that governments can
@@ -11153,8 +10729,6 @@ change norms without government having control over the norms. In this case, the
 accom m od a ting bl acks was ch a n ged by giving it a second meaning—the norm of s i m p ly
 obeying the law; see Lessig, "The Regulation of Social Meaning," 965–67.
 
-n o t e s
-
 2 5 7
 
 3 2 . Thu r good Ma rs h a ll , E s q . , oral argument on beh a l f of re s pon den t s , Cooper v Aa ro n ,
@@ -11212,8 +10786,6 @@ see "The Trolley Problem," Yale Law Journal 94 (1985): 1395,1395–96. This diff
 
 2 5 8
 
-n o t e s
-
 known as the "double effect doctrine," discussed in Philippa Foot, "The Problem of Abortion
 and the Doctrine of the Double Effect," in Virtues and Vices and Other Essays in Moral Philos -
 op hy ( Berkel ey: Un ivers i ty of Ca l i fornia Pre s s , 1 9 7 8 ) , 1 9 . See also Th omas J. Bole III, "Th e
@@ -11262,8 +10834,6 @@ to achieve a standard for encryption without adhering to the Administrative Proc
 "A stroke of bureaucratic genius lay at the heart of the Clipper strategy. Congress had not,and
 to this date has not, given the executive branch the power to control the private use of encryption. Congress has not even given the executive the power to set up an escrow system for
 
-n o t e s
-
 2 5 9
 
 keys. In the absence of any formal authority to prevent the adoption of unescrowed cryptogra phy, Cl i pper 's propon ents hit upon the idea of using the govern m en t's power as a major
@@ -11301,7 +10871,7 @@ scope, with the expectation that any of them might someday be joined or modified
 unanticipated ways. The protocol design philosophy adopted by the NWG [network working
 group] broke ground for what came to be widely accepted as the 'layered'approach to protocols"; Where Wizards Stay Up Late, 147.
 
-7. The fights over encryption at the link level, for example,are fi ghts over the TCP/IP protocols. Some within the network industry have proposed that encryption be done at the gatew ays , with a met h od for dumping plain text at the ga tew ays if t h ere were proper lega l
+7. The fights over encryption at the link level, for example,are fights over the TCP/IP protocols. Some within the network industry have proposed that encryption be done at the gatew ays , with a met h od for dumping plain text at the ga tew ays if t h ere were proper lega l
 authority—a kind of "private doorbell" for resolving the encryption controversy; see Elizabeth Kaufman and Roszel Thomsen II, "The Export of Certain Networking Encryption Produ cts Un der ELAs ," ava i l a ble at http : / / w w w. c i s co. com / w a rp / p u bl i c / 7 7 9 / gov t a f f / po l i c y / p a per /
 paper_index.html (visited May 30,1999). This has been opposed by the Internet Architectural
 Board (IAB) as inconsistent with the "end-to-end"architecture of the Internet; see IAB statement on "private doorbell" encryption, available at http://www.ietf.org/mail-archive/ietf-announce/msg01937.html (visited May 30,1999).
@@ -11310,8 +10880,6 @@ Board (IAB) as inconsistent with the "end-to-end"architecture of the Internet; s
 Broadband and Multimedia Networks (Danvers, Mass.: Boyd & F raser Publishing C o., 1996);
 
 2 6 0
-
-n o t e s
 
 Jerome H. Saltzer et al.,"End-to-End Arguments in System Design," in Integrated Broadband
 Networks, edited by Amit Bhargava (New York:Elsevier Science Publishing Co.,1991),30.
@@ -11370,8 +10938,6 @@ comments at the Berkeley Center for Law and Technology Conference, March 5–6,1
 2 0 . As I explain in more detail in ch a pter 16, tra n s p a rent modular code would do the
 
 same thing as open code. Thus,the code could be closed yet achieve these same objectives.
-
-n o t e s
 
 2 6 1
 
@@ -11438,8 +11004,6 @@ which the laissez-faire concept or principle of non-interference has withered at
 
 2 6 2
 
-n o t e s
-
 society and through expanded and strengthened governmental controls. These changed conditions often deprive precedents of reliability and cast us more than we would choose upon
 our own judgment. But we act in these matters not by authority o f our competence but by
 force of our commissions. We cannot, because of modest estimates of our competence in such
@@ -11491,8 +11055,6 @@ C H A P T E R T E N
 1. Harold Smith Reeves,"Property in Cyberspace," University of Chicago Law Review 63
 
 (1996): 761.
-
-n o t e s
 
 2 6 3
 
@@ -11548,8 +11110,6 @@ author and changes that help authors as a class. Some decreased copyright protec
 Modern Dilemma," Loyola University of Chicago Law Journal 28 (1996):189, 201–4, who discusses Congress's enactment of the Electronic Communications Privacy Act of 1986 in an effort to update ex i s ting law and keep pace with ch a n ging tech n o l ogy. But see Sa n d ra Byrd
 
 2 6 4
-
-n o t e s
 
 Petersen, "Your Life as an Open Book: Has Technology Rendered Personal Privacy Virtually
 Obsolete?," Federal Communications Law Journal 48 (1995):163, who argues that privacy laws
@@ -11636,7 +11196,7 @@ work; see, for example, Law, Legislation, and Liberty, vol. 2 (Chicago: Universi
 Press, 1978).
 
 30. Boyle, Shamans,Software, and Spleens, 174.
-31. I am hiding a great deal of philosophy in this simplifi ed utilitarian account, but for a
+31. I am hiding a great deal of philosophy in this simplified utilitarian account, but for a
 powerful economic grounding of the point,see Harold Demsetz, "Toward a Theory of Property Rights," American Economics Review 57 (1967): 347.
 
 32. For a wonderfully clear introduction to this point,as well as a complete analysis of the
@@ -11669,8 +11229,6 @@ Uneasy Case for Copyright."
 of people can use an idea without using it up—ideas are readily appropriated from the creator by other people. Hence, copyright protection attempts to balance efficiently the benefits
 
 2 6 6
-
-n o t e s
 
 of c re a ting new works with the losses from limiting access and the costs of ad m i n i s teri n g
 copyright protection; copyright protection seeks to promote the public benefit of advancing
@@ -11723,8 +11281,6 @@ contract, which he characterizes as "ubiquitous."
 
 47. An argument is raging about whether, even through law, this modification of the default copyright law should be permitted. Mark A. Lemley has catalogued the provisions of the
 Copyright Act that are arguably put at risk by contracting behavior; see "Beyond Preemption:
-
-n o t e s
 
 2 6 7
 
@@ -11780,8 +11336,6 @@ withhold it is so complete that its ideas of policy should prevail") (citations 
 
 2 6 8
 
-n o t e s
-
 5 7 . See Mi ch ael G. Frey, " Un f a i rly App lying the Fair Use Doctri n e : Pri n ceton Un ivers i ty
 Press v Michigan Document Services, 99 F3d 1381 (6th Cir 1996)," University of Cincinnati Law
 Review 66 (1998): 959, 1001; Frey asserts that "copyright p rotection exists primarily for the
@@ -11832,8 +11386,6 @@ courts should employ fair use to permit uncompensated transfers that the market 
 of ef fectu a ti n g ; s ee also Wen dy J. G ordon , "On Owning In form a ti on : In tell ectual Property
 and Restitutionary Impulse," Virginia Law Review 78 (1992):149. In "Reality as Artifact: From
 
-n o t e s
-
 2 6 9
 
 Feist to Fair Use" (Law and Contemporary Problems 55 5PG [1992]:93,96), Gordon observes
@@ -11883,8 +11435,6 @@ Law Revi ew 75 (1997): 9 8 9 , 1 0 4 8 – 6 8 ; in " In tell ectual Property an
 
 2 7 0
 
-n o t e s
-
 dors are attem pting en masse to 'opt out' of i n tell ectual property law by dra f ting license provi s i ons that com pel their custom ers to ad h ere to more re s tri ctive provi s i ons than copyri gh t
 . . . l aw would requ i re ." Jessica Litman ("The Tales That Arti cle 2B Tell s ," Berkel ey Te ch n ol o gy
 Law Jou rn a l 13 [1998]: 9 3 1 , 938) ch a racteri zes as "du bi o u s" the noti on that current law ena bles publ i s h ers to make a tra n s acti on into a license by so de s i gn a ting it. In her vi ew, a rti cl e
@@ -11928,8 +11478,6 @@ Future (Boston: Houghton Mifflin,1999) gives the story its appropriate drama.
 
 70. "We favor a move away from the author vision in two directions; first towards recogn i ti on of a limited nu m ber of n ew pro tecti ons for cultu ral heri t a ge , fo l k l oric produ cti on s ,
 and bi o l ogical 'k n ow - h ow.' Secon d , and in gen era l , we favor an incre a s ed recogn i ti on and
-
-n o t e s
 
 2 7 1
 
@@ -11987,8 +11535,6 @@ cafeteria in conjunction with an automatic till operator; in Bill Dawson,"Pollut
 
 2 7 2
 
-n o t e s
-
 Laser to Pick Out Foulest Tailpipes; Thousands of Commuters' Cars Will Be Checked As They
 Pass By" (Houston Chronicle, October 6,1998,A1), on a new Houston program to catch "gross
 po lluters" using a com bi n a ti on of l a s er tech n o l ogy and vi deo camera s ; in Tom God f rey,
@@ -12040,8 +11586,6 @@ Ca rolina Pre s s ,1 9 9 5 ) :6 9 – 1 0 8 ; Paul M. S chw a rt z ," Privacy an
 22. And they do not come from Janna Malamud Smith's "fallacy of perspective," discussed
 by David Brin (The Transparent Society, 68–70). My argument is not that privacy thrived in
 the past; it is that privacy was different in the past, and that the construction of searchable
-
-n o t e s
 
 2 7 3
 
@@ -12110,8 +11654,6 @@ Knopf,1992),5–8, 271–86.
 
 2 7 4
 
-n o t e s
-
 38. See Lynne G. Zucker, "Production of Trust: Institutional Sources of Economic Structure,1840–1920," Research in Organizational Behavior 8 (1986): 53.
 
 3 9 . Pri ce discri m i n a ti on is the abi l i ty to ch a r ge different pri ces for the same good . Ai rplane ti ckets are the best example—the same seat can cost hu n d reds of do ll a rs more for a
@@ -12170,8 +11712,6 @@ Communications of the ACM (February 1999): 48.
 5 1 . Jo s eph M. Re a gle Jr. , "P3P and Privacy on the Web FAQ , Vers i on 2.0.1," ava i l a ble at
 
 http://www.w3.org/P3P/P3FAQ.html (visited May 30, 1999).
-
-n o t e s
 
 2 7 5
 
@@ -12239,8 +11779,6 @@ free for all to use, worldwide.
 
 2 7 6
 
-n o t e s
-
 5 . John Perry Ba rl ow has put into circ u l a ti on the meme that, "in cybers p ace , the Firs t
 Am en d m ent
 local ord i n a n ce" ; " Le aving the Physical Worl d ," ava i l a ble at
@@ -12263,7 +11801,7 @@ Rudenstine, The Day the Presses Stopped, 92.
 
 12. See ibid., 105.
 13. Near v Minnes ota, 283 US 697, 716 (1931); cf. United States v Noriega, 917 F2d 1543
-(11th Cir 1990) (affi rming the prior restraint of audiotapes of the defendant's conversations
+(11th Cir 1990) (affirming the prior restraint of audiotapes of the defendant's conversations
 with his attorney on the grounds that they might impede his right to a fair trial), cert. denied,
 498 US 976 (1990) ( Justice Thurgood Marshall dissenting).
 
@@ -12275,7 +11813,7 @@ by the more cumbers ome app a ra tus of su b s equ ent punishmen t . . . . (2) C
 a profe s s i onal bias in favor of cen s ors h i p, and thus wi ll sys tem a ti c a lly overva lue governm ent interests and underva lue speech . (3) Cen s ors opera te more inform a lly than ju d ge s
 and so afford less procedu ral safeg u a rds to spe a kers . (4) Speech su ppre s s ed in adva n ce
 n ever re aches the marketp l ace of i deas at all . (5) Wh en speech is su ppre s s ed in adva n ce ,
-t h ere is no em p i rical evi den ce from wh i ch to measu re its all eged likely harm s" ; Fi rs t
+t h ere is no em p i rical evi den ce from wh i ch to measu re its all eged likely harm s" ; Firs t
 Am en d m ent Law ( New York : Fo u n d a ti on Pre s s , 1 9 9 9 ) , 3 3 9 – 4 0 , c i ting Th omas Emers on ,
 "The Doctrine of Pri or Re s tra i n t ," Law and Co n tem po ra ry Probl em s 20 (1955): 6 4 8 . Frederi ck Sch a u er of fers a nice balance to this com m on p l ace theory; s ee " Fe a r, Ri s k , and the Firs t
 Am en d m en t : Un raveling the 'Ch i lling Effect ,' " Bo s ton Un ivers i ty Law Revi ew 5 8 ( 1 9 7 8 ) :
@@ -12298,8 +11836,6 @@ tional Law (Meneola,N.Y.: Foundation Press,1978), 731; Morton H. Halperin and Da
 Hof f m a n , Top Secret: Na tional Securi ty and the Ri ght to Kn ow (Wa s h i n g ton , D. C . : New Republic Books, 1977),147 n.22; see also Alderman v Philadelphia Housing Authority, 496 F2d
 164,170 (3d Cir 1974), cert. denied,419 US 844 (1974) (prior restraint must be supported by
 "compelling proof " that it is "essential to a vital government interest").
-
-n o t e s
 
 2 7 7
 
@@ -12358,8 +11894,6 @@ by 18 USCA §2252 (Su pp 1999).
 
 2 7 8
 
-n o t e s
-
 33. See Blake T. Bilstad, "Obscenity and Indecency in a Digital Age: The Legal and Political Implications of Cybersmut, Virtual Pornography, and the Communications Decency Act
 of 1996," Santa Clara Computer and High Technology Law Journal 13 (1997): 321,336–37.
 
@@ -12380,7 +11914,7 @@ view 1997 (1997):141.
 
 38. See Federal Communications Commission v Pacifica Foundation, 438 US 726, 748–50
 (1978) (plu ra l i ty ) . Th o u gh Pa ci fica has been cri ti c i zed stron gly, s ee Steven H. S h i f f ri n , T h e
-Fi rst Am en d m en t , Dem o cra c y, and Ro m a n ce ( Ca m bri d ge , Ma s s . : Ha rva rd Un ivers i ty Pre s s ,
+First Am en d m en t , Dem o cra c y, and Ro m a n ce ( Ca m bri d ge , Ma s s . : Ha rva rd Un ivers i ty Pre s s ,
 1990), 80, as Jonathan Weinberg convincingly argues, Pacifica continues to have influence in
 the broadc a s ting con tex t ; "Ca ble TV, In decen c y, and the Co u rt ," Col u m bi a - V LA Jou rnal of
 Law and the Arts 21 (1997): 95.
@@ -12418,8 +11952,6 @@ Re ad a ble De s c ri pti on s ," O ctober 31, 1 9 9 6 , ava i l a ble at http :
 s ervi ces) (vi s i ted May 30, 1 9 9 9 ) ; Tim Kra u s kopf , Paul Re s n i ck , et al., " PICS 1.1 Label
 Di s tri buti on — L a bel Syntax and Com mu n i c a ti on Pro toco l s ," O ctober 31, 1 9 9 6 , ava i l a ble at
 h t tp : / / w w w. w 3 . or g / T R / R E C - PI C S - l a bels (vi s i ted May 30, 1 9 9 9 ) ; Ch ri s toph er Eva n s , Pa u l
-
-n o t e s
 
 2 7 9
 
@@ -12482,8 +12014,6 @@ Software, and Spleens.
 
 2 8 0
 
-n o t e s
-
 (1943). Thomas Hazlett makes a powerful critique of Frankfurter's history of the emergence
 of any necessity for FCC regulation; see Physical Scarcity.
 
@@ -12536,8 +12066,6 @@ frequency hopping (399). For a discussion of code division multiple access and f
 66. Ethernet literally functions like this. Data on an Ethernet network are st reamed into
 each machine on that network. Each machine sniffs the data and then pays attention to the
 data inten ded for it. This process cre a tes an obvious sec u ri ty hole: "s n i f fers" can be put on
-
-n o t e s
 
 2 8 1
 
@@ -12598,8 +12126,6 @@ would be another dec ade before hacking was given a bad name" ; W h ere Wi z a r
 La te, 1 9 0 .
 
 2 8 2
-
-n o t e s
 
 14. Cf. Bruce Sterling, The Hacker Crackdown: Law and Disorder on the Electronic Frontier
 
@@ -12730,8 +12256,6 @@ http://www.law.cornell.edu/jol/post.html (visited May 30, 1999).
 
 2 8 4
 
-n o t e s
-
 41. This was not quite t rue of MUDing in the past. When the communities were smaller,
 there were portals that allowed characters to move from one MUD to another. Famous MUD
 characters became well known in many different communities, and it was unethical to take
@@ -12784,8 +12308,6 @@ code . Tim Wu makes the same point in "Cybers p ace and the In tern a ti onal Sy
 t h o u gh tful account of h ow a federalist stru ctu re in cybers p ace might loo k ,s ee Dan L. Bu rk ,
 " Federalism in Cybers p ace ," Co n n e cticut Law Revi ew 28 (1996): 1 0 9 5 . Bu rk's analys i s ,m ade
 f rom the pers pective of Am erican federa l i s m , is a tem p l a te for the same qu e s ti ons ra i s ed intern a ti on a lly.
-
-n o t e s
 
 2 8 5
 
@@ -12842,8 +12364,6 @@ Books, 1978),83.
 Waite (Chapel Hill: University of North Carolina Press,1937): 82.
 
 2 8 6
-
-n o t e s
 
 15. The relationship between a c ontested ground and a political judgment is more complex than this suggests. I discuss it more extensively in Lawrence Lessig, "Fidelity and Constraint," Fordham Law Review 65 (1997): 1365.
 
@@ -12968,8 +12488,6 @@ and Economics 16 (1996):141,153. By internalization, Cooter is just describing t
 of subjectivity that happens with the child and fire: the constraint moves from being an o b-
 
 2 8 8
-
-n o t e s
 
 jectively ex post constraint to a subjectively ex ante constraint. The norm becomes a part of
 the pers on , su ch that the pers on feels its re s i s t a n ce before he act s , and hen ce its re s i s t a n ce
@@ -13198,8 +12716,6 @@ Millennium Copyright Act, 49,
 264n19; House Committee on
 Impeachment, 229; Low Level
 
-I n d e x
-
 2 9 1
 
 Radioactive Waste Policy
@@ -13326,8 +12842,6 @@ communism, 188, 209; constitutional
 courts in, 92; and free speech rights,
 167; and intellectual property issues,
 
-I n d e x
-
 2 9 2
 
 Europe (cont.)
@@ -13449,8 +12963,6 @@ Imperialism, 203
 Incentives, 41
 Independence Day (film), 58
 Indirection, problem of, 95–98
-
-I n d e x
 
 2 9 3
 
@@ -13576,8 +13088,6 @@ Litman, Jessica, 193
 
 2 9 4
 
-I n d e x
-
 Louisiana purchase, 217
 Low Level Radioactive Waste Policy
 Amendments Act, 95–96
@@ -13699,8 +13209,6 @@ On Liberty (Mill), 85
 Open code, 7, 224–25
 Open source software, 7–8, 100–108
 
-I n d e x
-
 2 9 5
 
 Originalism, one-step, 114
@@ -13810,8 +13318,6 @@ monitoring practices, 159–62; and
 protocol, 40
 
 2 9 6
-
-I n d e x
 
 Shamans, Software, and Spleens (Boyle), 141
 Shapiro, Andrew, 233
@@ -13926,8 +13432,6 @@ Virtual reality, 74–78, 83. See also MOOs
 worlds)
 Viruses, 17, 71
 
-I n d e x
-
 2 9 7
 
 Visa, 40
@@ -13987,5 +13491,3 @@ Zelizer, Viviana, 155–56
 Zoning, 28, 57, 216; and free speech rights,
 175–79, 181; and the ideal of equality,
 154; and segregation, 98
-
-C O D E

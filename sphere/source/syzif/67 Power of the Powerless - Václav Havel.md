@@ -1,56 +1,9 @@
-
 Power of the
 Powerless
 
 Václav Havel
 
 TABLE OF CONTENTS
-
-I
-
-II
-
-III
-
-IV
-
-V
-
-VI
-
-VII
-
-VIII
-
-IX
-
-X
-
-XI
-
-XII
-
-XIII
-
-XIV
-
-XV
-
-XVI
-
-XVII
-
-XVIII
-
-XIX
-
-XX
-
-XXI
-
-XXII
-
-I
 
 A specter is haunting Eastern Europe: the specter of what in the
 West is called "dissent" This specter has not appeared out of thin air.
@@ -78,8 +31,6 @@ I think that an examination of these questions-an examination of the
 potential of the "powerless-can only begin with an examination of
 the nature of power in the circumstances in which these powerless
 people operate.
-
-II
 
 Our system is most frequently characterized as a dictatorship or,
 more precisely, as the dictatorship of a political bureaucracy over a
@@ -236,8 +187,6 @@ conditional factors and a kind of phenomenal framework for the
 actual composition of power in the post-totalitarian system, several
 aspects of which I shall now attempt to identify.
 
-III
-
 The manager of a fruit-and-vegetable shop places in his window,
 among the onions and carrots, the slogan: "Workers of the world,
 unite! Why does he do it? What is he trying to communicate to the
@@ -335,8 +284,6 @@ integrity of the regime, leaving nothing to chance, would be quite
 simply unthinkable without ideology acting as its all-embracing
 excuse and as the excuse for each of its parts.
 
-IV
-
 Between the aims of the post-totalitarian system and the aims of life
 there is a yawning abyss: while life, in its essence, moves toward
 plurality, diversity, independent self-constitution, and self
@@ -401,8 +348,6 @@ reason, however, they must live within a lie. They need not accept
 the lie. It is enough for them to have accepted their life with it and in
 it. For by this very fact, individuals confirm the system, fulfill the
 system, make the system, are the system.
-
-V
 
 We have seen that the real meaning of the greengrocers slogan has
 nothing to do with what the text of the slogan actually says. Even so,
@@ -570,8 +515,6 @@ continuity as well. It is one of the pillars of the systems external
 stability. This pillar, however, is built on a very unstable foundation.
 It is built on lies. It works only as long as people are willing to live
 within the lie.
-
-VI
 
 Why in fact did our greengrocer have to put his loyalty on display in
 the shop window? Had he not already displayed it sufficiently in
@@ -741,8 +684,6 @@ modern life in general? And do we not in fact stand (although in the
 external measures of civilization, we are far behind) as a kind of
 warning to the West, revealing to it its own latent tendencies?
 
-VII
-
 Let us now imagine that one day something in our greengrocer
 snaps and he stops putting up the slogans merely to ingratiate
 himself. He stops voting in elections he knows are a farce. He begins
@@ -825,8 +766,6 @@ system, truth plays a far greater (and above all, a far different) role as
 a factor of power, or as an outright political force. How does the
 power of truth operate? How does truth as a factor of power work?
 How can its power – as power – be realized?
-
-VIII
 
 Individuals can be alienated from themselves only because there is
 something in them to alienate. The terrain of this violation is their
@@ -996,8 +935,6 @@ seems to me that not even the so-called dissident movements can
 be properly understood without constantly bearing in mind this
 special background from which they emerge.
 
-IX
-
 The profound crisis of human identity brought on by living within a
 lie, a crisis which in turn makes such a life possible, certainly
 possesses a moral dimension as well; it appears, among other things,
@@ -1043,8 +980,6 @@ political significance of morality in the post-totalitarian system is a
 phenomenon that is at the very least unusual in modern political
 history, a phenomenon that might well have – as I shall soon attempt
 to show – far-reaching consequences.
-
-X
 
 Undeniably, the most important political event in Czechoslovakia
 after the advent of the Husák leadership in 1969 was the appearance
@@ -1176,8 +1111,6 @@ typical of moments when something from the hidden sphere
 suddenly bursts through the moribund surface of 'living within a lie'.
 The more one is trapped in the world of appearances, the more
 surprising it is when something like that happens.
-
-XI
 
 In societies under the post-totalitarian system, all political life in the
 traditional sense has been eliminated. People have no opportunity to
@@ -1365,8 +1298,6 @@ may label our approach as overly legalistic, as too risky, revisionist,
 counter-revolutionary, bourgeois, communist, or as too right-wing
 or left-wing. But this is the very last thing that interests us.
 
-XII
-
 One concept that is a constant source of confusion chiefly because
 it has been imported into our circumstances from circumstances
 that are entirely different, is the concept of an opposition. What
@@ -1512,8 +1443,6 @@ Obviously, the only way to avoid misunderstanding is to say clearly –
 before one starts using them – in what sense the terms 'opposition'
 and 'member of the opposition' are being used and how they are in
 fact to be understood in our circumstances.
-
-XIII
 
 If the term 'opposition' has been imported from democratic societies
 into the post-totalitarian system without general agreement on
@@ -1685,8 +1614,6 @@ This explanation, I hope, will make clear the significance of the
 quotation marks I have put around the word 'dissident' throughout
 this essay.
 
-XIV
-
 At the time when the Czech lands and Slovakia were an integral part
 of the Austro-Hungarian Empire, and when there existed neither the
 historical nor the political, psychological or social conditions that
@@ -1814,8 +1741,6 @@ case, it contradicts the whole 'dissident' attitude – seen as an
 attempt to live within the truth – if one judges human behaviour not
 according to what it is and whether it is good or not, but according
 to the personal circumstances such an attempt has brought one to.
-
-XV
 
 Our greengrocer's attempt to live within the truth may be confined
 to not doing certain things. He decides not to put flags in his
@@ -1964,8 +1889,6 @@ imagine that even manifest 'dissent' could have any other basis than
 the service of truth, the truthful life and the attempt to make room
 for the genuine aims of life.
 
-XVI
-
 The post-totalitarian system is mounting a total assault on humans
 and humans stand against it alone, abandoned and isolated. It is
 therefore entirely natural that all the 'dissident movements' are
@@ -2039,8 +1962,6 @@ that as their greatest strength. I believe that this is precisely where
 
 these movements supercede the kind of politics from whose point of
 view their programme can seem so inadequate.
-
-XVII
 
 In the 'dissident movements' of the Soviet bloc, the defence of
 human beings usually takes the form of a defence of human and civil
@@ -2425,8 +2346,6 @@ and more like the observer who comes to conclusions about our
 system only on the basis of trial documents and is satisfied if all the
 appropriate regulations have been observed.
 
-XVIII
-
 If the basic job of the 'dissident movements' is to serve truth, that is,
 to serve the real aims of life, and if that necessarily develops into a
 defence of the individual and his or her right to a free and truthful
@@ -2565,8 +2484,6 @@ In other words, the parallel polis points beyond itself and only makes
 sense as an act of deepening one's responsibility to and for the
 whole, as a way of discovering the most appropriate locus for this
 responsibility, not as an escape from it.
-
-XIX
 
 I have already talked about the political potential of living within the
 truth and of the limitations upon predicting whether, how and when
@@ -2901,8 +2818,6 @@ speculating on the outcome of its actions or entertaining fantasies
 about the future. The purity of this struggle is the best guarantee of
 optimum results when it comes to actual interaction with the posttotalitarian structures.
 
-XX
-
 The specific nature of post-totalitarian conditions – with their
 absence of a normal political life and the fact that any far-reaching
 political change is utterly unforeseeable – has one positive aspect: it
@@ -3042,8 +2957,6 @@ form of violence. No 'dry' organizational measures in themselves can
 provide that guarantee, and we would be hard pressed to find in
 them that God who alone can save us.
 
-XXI
-
 And now I may properly be asked the question: What is to be done,
 then?
 
@@ -3137,8 +3050,6 @@ would play a role here, though not as a director, merely as a guide).
 It would be presumptuous, however, to try to foresee the structural
 expressions of this 'new spirit' without that spirit actually being
 present and without knowing its concrete physiognomy.
-
-XXII
 
 I would probably have omitted the entire preceding section as a
 more suitable subject for private meditation were it not for a certain

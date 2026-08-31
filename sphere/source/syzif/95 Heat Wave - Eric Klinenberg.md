@@ -1,4 +1,3 @@
-
 H E A T W A V E
 
 A SOCIAL AUTOPSY OF
@@ -57,7 +56,7 @@ people—Illinois—Chicago—Social conditions. 5. Heat waves (Meteorology)—
 Illinois—Chicago. I. Title.
 
 HV1471.C38K585 2015
-363.34(cid:2)92—dc23
+363.3492—dc23
 
 ♾ This paper meets the requirements of ANSI/NISO Z39.48-1992
 
@@ -167,7 +166,7 @@ ix • • •
 
 x • • • i l l u s t r a t i o n s
 
-17. Proportion of U.S. and Chicago Elderly (65(cid:2)) Living Alone
+17. Proportion of U.S. and Chicago Elderly (65) Living Alone
 
 18. A senior citizen walking in the heat
 
@@ -436,25 +435,25 @@ involvement in the event.
 Preface to the Second Edition
 
 Writing about an urban environmental disaster in 2015 is profoundly
-different than it was in 2000, when I fi nished work on the fi rst edition
-of Heat Wave. A mere fi fteen years ago, few social scientists recognized
-the signifi cance of mounting evidence that the earth was experiencing
+different than it was in 2000, when I finished work on the first edition
+of Heat Wave. A mere fifteen years ago, few social scientists recognized
+the significance of mounting evidence that the earth was experiencing
 a gradual warming trend, punctuated by period bursts of unusually
 damaging weather. Today, however, our knowledge and concern about
-climate change has given new meaning and signifi cance to extreme
+climate change has given new meaning and significance to extreme
 weather events, and their heightened frequency, intensity, and impact
 make studying disasters, as well as learning about the social dimensions
 of vulnerability and resilience, especially important. In Chicago, one
-recently published scientifi c paper predicts, heat waves even more ferocious and lethal than the 1995 inferno will be annual events by 2080 unless current climate trends change.* In the new world we are entering,
+recently published scientific paper predicts, heat waves even more ferocious and lethal than the 1995 inferno will be annual events by 2080 unless current climate trends change.* In the new world we are entering,
 the gap between the everyday and the extreme is quickly slipping away.
 I conducted most of the research for the book between 1995 and
 2000, and although I had a longstanding interest in the environment
 and environmental justice, I didn't yet see how the human experience
-of climate change fi t into the sociological tradition. Sociology began
-in nineteenth-century Europe as a scientifi c inquiry into the social dynamics of human life in the modern world. From the outset, its leading practitioners, most notably Emile Durkheim, Karl Marx, and Max
+of climate change fit into the sociological tradition. Sociology began
+in nineteenth-century Europe as a scientific inquiry into the social dynamics of human life in the modern world. From the outset, its leading practitioners, most notably Emile Durkheim, Karl Marx, and Max
 Weber, examined the most urgent and consequential issues of their
 time and place: industrialization and labor, urbanization and communities, rationalization and governance, religion and secularism, families and population growth. Had sociology been invented at the dawn
-of the twenty-fi rst century, most of these topics would still be central
+of the twenty-first century, most of these topics would still be central
 to the discipline. But among the many new developments that would
 
 *Richard Peng et al. "Toward a Quantitative Estimate of Future Heat Wave Mortality
@@ -465,15 +464,15 @@ xix • • •
 xx • • • preface to the second edition
 
 merit a place beside them, the climate crisis stands out as the most
-important. In the past decade, I've come to see it as the most signifi cant
-and diffi cult problem for our species today.
+important. In the past decade, I've come to see it as the most significant
+and difficult problem for our species today.
 
 As we now know, the uniquely human act of burning fossil fuels to
 power social innovations—from large-scale industrialization and industrial agriculture to urbanization and expanded consumption—has
 transformed the underlying conditions for all life on earth. The modern
 energy system is now deeply integrated into modern social systems, such
 as food production chains and electricity networks, and in the daily routines and practices of people throughout the world. For generations,
-the benefi ts of these systems appeared to outweigh the costs. But in
+the benefits of these systems appeared to outweigh the costs. But in
 recent years the cumulative toll of the greenhouse gasses that they have
 emitted has profoundly destabilized the climate, and with it, the social
 environment.
@@ -483,7 +482,7 @@ in the atmosphere was roughly 275 parts per million. At the time of this
 writing, the level of carbon dioxide in the atmosphere is 397 parts per
 million, and without stringent restrictions on emissions and widespread
 adoption of renewable energy sources, it should reach 500 parts per
-million by 2050, or sooner. These fi gures are signifi cantly higher than
+million by 2050, or sooner. These figures are significantly higher than
 the 350 parts per million level that would raise surface temperatures
 more than two degrees Celsius and, as prominent scientists warned in a
 landmark Nature publication, threaten "ecological life-support systems
@@ -511,18 +510,18 @@ zero. These sustained high temperatures have triggered changes in
 the ecosystems that sustain human and nonhuman life, most notably
 in warming ocean temperatures, rapidly melting polar ice caps, and
 steadily rising sea levels, which are already encroaching into densely
-settled areas. If mainstream scientifi c projections for sea level rise are
+settled areas. If mainstream scientific projections for sea level rise are
 accurate, hundreds of millions of people will be forced to move from
 low-lying coastal lands during the next century, and even more will be
-exposed to violence and deprivation related to food and water shortages. The process through which this confl ict and this mass migration
+exposed to violence and deprivation related to food and water shortages. The process through which this conflict and this mass migration
 happens will become a central object of social science research, for
 the simple reason that it will also be a central challenge for states and
 societies across the planet.
 
 The changing climate has already made life on earth more violent
-and unstable. The World Meteorological Organization reports that extreme weather events occurred nearly fi ve times more often between
-2000 and 2010 than between 1970 and 1980, with a far greater economic and human toll.† Internationally, hurricanes and fl oods are
-responsible for most disaster damage, though the young twenty-fi rst
+and unstable. The World Meteorological Organization reports that extreme weather events occurred nearly five times more often between
+2000 and 2010 than between 1970 and 1980, with a far greater economic and human toll.† Internationally, hurricanes and floods are
+responsible for most disaster damage, though the young twenty-first
 century has already produced a heat wave that killed approximately
 70,000 people across Europe in 2003 and another that killed some
 50,000 people in Russia in 2010, as well as droughts resulting in food
@@ -546,20 +545,20 @@ toll across the nation," USA Today, June 29, 2012.
 
 xxii • • • preface to the second edition
 
-how human behavior—specifi cally the production and consumption
+how human behavior—specifically the production and consumption
 of carbon-based energy sources—has caused it. But now that we understand so much about the threat of global warming, the most urgent
 challenges belong to the social sciences: How and when will citizens
 develop high levels of concern about climate change, and will they
-collectively demand that political leaders take signifi cant action to address it? What alterations in our social lives will be necessary to mitigate
+collectively demand that political leaders take significant action to address it? What alterations in our social lives will be necessary to mitigate
 the effects of global warming? What role do cultural values play in our
 efforts to address the climate crisis before the damage is irreversible,
 and how will social conditions determine which people and places are
 most vulnerable to the coming storms?
 
-Although these are unmistakably social scientifi c questions, sociology been painfully slow to address them. With notable exceptions,
+Although these are unmistakably social scientific questions, sociology been painfully slow to address them. With notable exceptions,
 sociologists have treated the climate as secondary, at best, to the key
 conditions that shape modern life, and environmental sociology has
-long been a marginal subfi eld.* The reasons for this run deep in the
+long been a marginal subfield.* The reasons for this run deep in the
 history of the behavioral sciences. Since Durkheim, the core project
 of sociology has involved establishing that "the social" determines all
 variety of outcomes, down to the most personal, individual decision of
@@ -605,7 +604,7 @@ motivated two subsequent book projects, Going Solo and Fighting for Air.
 The section of Heat Wave that contributes most directly to the sociology of climate change comes in the second chapter, on race, place,
 and vulnerability. There, I try to move the debate about the risks of
 heat mortality from the individual-level risk factors for heat death that
-epidemiologists had already identifi ed, such as having a working air
+epidemiologists had already identified, such as having a working air
 conditioner or being socially isolated, to the question of why similarly
 situated neighborhoods fared so differently during the disaster.* For
 the most part, the geography of heat-wave mortality was consistent with
@@ -617,18 +616,18 @@ dying alone during the heat wave. But that's not the whole story. Three
 of the ten neighborhoods with the lowest heat-wave death rates were
 also poor, violent, and predominantly African American. Which means
 that neither race, nor ethnic cultural practices and values, nor violence
-or poverty are suffi cient to explain who lived and who died that week.
+or poverty are sufficient to explain who lived and who died that week.
 
 Heat Wave compares the experiences of two adjacent neighborhoods
 on the West Side of Chicago, North Lawndale and South Lawndale
 
 * Semenza et al. 1996. The CDC's case-control study of the individual-level risk factors
-for heat wave mortality remains the best scientifi c analysis of this topic. The ethnographer Mitchell Duneier charged Heat Wave with committing the "ecological fallacy,"
+for heat wave mortality remains the best scientific analysis of this topic. The ethnographer Mitchell Duneier charged Heat Wave with committing the "ecological fallacy,"
 because the second chapter focuses on neighborhood-level risk factors. But I have always
 found that claim specious, because that chapter's framing explicitly states that: (i) the
 CDC already provided rigorous, reliable individual-level analysis of vulnerability, and
 (ii) given that, identifying the neighborhood-level risk factors was a more interesting and
-important scientifi c challenge. See Eric Klinenberg, "Blaming the Victims: Hearsay, Labeling, and the Hazards of Quick-Hit Disaster Ethnography," American Sociological Review
+important scientific challenge. See Eric Klinenberg, "Blaming the Victims: Hearsay, Labeling, and the Hazards of Quick-Hit Disaster Ethnography," American Sociological Review
 71, no. 4 (2006): 689–98.
 
 xxiv • • • preface to the second edition
@@ -640,7 +639,7 @@ rates of poverty, unemployment, and violent crime. Englewood, like
 North Lawndale, proved to be one of the most perilous places during
 the disaster, with thirty-three deaths per hundred thousand residents.
 But Auburn Gresham's death rate was only three per hundred thousand, making it, along with Little Village, far safer than many of the
-most affl uent neighborhoods on Chicago's North Side.
+most affluent neighborhoods on Chicago's North Side.
 
 The key difference between neighborhoods like Auburn Gresham,
 Little Village, and others that are demographically similar turned out
@@ -658,9 +657,9 @@ neighbors to knock on each other's doors—not because the heat wave
 was so exceptional, but because that's what they always do when the
 weather is extreme.
 
-The signifi cance of these local social conditions is apparent every
+The significance of these local social conditions is apparent every
 day, not only in disasters. In 1990, life expectancy in Auburn Gresham
-was fi ve years higher than it was in Englewood. And during the severe
+was five years higher than it was in Englewood. And during the severe
 heat waves that are likely to hit Chicago and other cities in the near
 future, living in a neighborhood like Auburn Gresham may be the
 rough equivalent of having a working air conditioner in each room.
@@ -668,7 +667,7 @@ rough equivalent of having a working air conditioner in each room.
 Examining the conditions that make some places more resilient and
 others more vulnerable during extreme weather events is one way that
 sociologists can deepen understanding of life and death on a warming
-planet. But the social scientifi c investigation of climate change need
+planet. But the social scientific investigation of climate change need
 not—and cannot—be an exclusively academic endeavor. In recent
 years a growing number of scholars have begun collaborating with
 planners, engineers, and architects, and together they are advancing
@@ -683,7 +682,7 @@ City, did I discover how much social science research can contribute to
 interdisciplinary climate change mitigation and adaptation projects. To
 share this experience, I'll take you on a brief ethnographic tour.
 
-Since the dawn of the twenty-fi rst century, governments around the
+Since the dawn of the twenty-first century, governments around the
 world have been investing in elaborate plans to promote "climate security"—protecting people, businesses, and critical infrastructure against
 weather-related calamities. Much of this work involves upgrading what
 engineers call "lifeline systems": the network infrastructure for power,
@@ -695,15 +694,15 @@ and slow the pace of climate change. Yet even if we managed to stop
 increasing global carbon emissions tomorrow, we would probably experience several centuries of additional warming, rising sea levels, and
 more frequent dangerous weather events. If our cities are to survive,
 we have no choice but to adapt, and social scientists must join other
-members of the scientifi c community who are guiding this process.
+members of the scientific community who are guiding this process.
 
 For most cities, genuine adaptation means preparing for the inevitable heat wave, deluge, or drought. "The ocean is going to reclaim
 what we took from it," says Klaus Jacob, a Columbia University geophysicist who has advised New York City on how to manage sea-level rise,
 and whose climate models predict a gradual erosion of densely settled
 habitats in coastal areas around the world. Long before Hurricane
-Sandy hit New York in 2012, he urged city leaders to learn from Rotterdam, which has a long history of fl ooding. After enduring a devastating
+Sandy hit New York in 2012, he urged city leaders to learn from Rotterdam, which has a long history of flooding. After enduring a devastating
 storm surge in 1953, Rotterdam began building a series of dams, barriers, and seawalls as part of a national project called Delta Works, and
-fi ve years ago the Dutch government provided funds for an upgrade,
+five years ago the Dutch government provided funds for an upgrade,
 the Rotterdam Climate Proof Program. Arnoud Molenaar, who manages it, says his team realized that they could convert the water that
 comes into the city from the skies and the sea into "blue gold." "Before,
 we saw the water as a problem," Molenaar told me. "In the Netherlands,
@@ -712,7 +711,7 @@ on evacuation, how to get people out of the way. The most interesting
 
 xxvi • • • preface to the second edition
 
-thing is fi guring out what's between these approaches: what to do with
+thing is figuring out what's between these approaches: what to do with
 the water once it's there."
 
 In 2005, Rotterdam hosted the Second International Architecture
@@ -720,10 +719,10 @@ Biennale. The theme was "The Flood." Designers from around the
 world presented plans for how cities could cope with water in the
 future, and when the exhibition ended, Molenaar's team set out to implement those that would have immediate practical value. Rotterdam
 is now experimenting with an architecture of accommodation: it has
-a fl oating pavilion in the city center, made of three silver half spheres
+a floating pavilion in the city center, made of three silver half spheres
 with an exhibition space that's equivalent to four tennis courts; a water
 plaza that serves as a playground most of the year but is converted into
-a water-storage facility on days of heavy rainfall; a fl oodable terrace and
+a water-storage facility on days of heavy rainfall; a floodable terrace and
 sculpture garden along the city's canal; and buildings whose façades,
 garages, and ground-level spaces have been engineered to be waterproof.
 
@@ -742,7 +741,7 @@ too. In Holland, the average duration of total annual power outages is
 twenty- three minutes, compared with two hundred and fourteen minutes in New Jersey, Pennsylvania, and New York—not including outages
 from disasters.
 
-After Sandy, there was a fi ve-day blackout in lower Manhattan, because the walls protecting Con Ed's substation along the East River,
+After Sandy, there was a five-day blackout in lower Manhattan, because the walls protecting Con Ed's substation along the East River,
 at twelve and a half feet above the ground, were eighteen inches too
 low to stop the storm surge and prevent the consequent equipment
 explosions. When I asked Jacob about this, he threw up his hands in
@@ -760,7 +759,7 @@ not determine whether and in what ways a city or nation invests in vital
 systems infrastructure. Governments do, and a variety of social factors,
 from the values and interests of citizens, civic groups, and corporate
 lobbies to the standing of climate science in a given polity, shape the
-political will of offi cials to update energy and transit networks for an
+political will of officials to update energy and transit networks for an
 age of global warming. In the United States, widespread demand for
 low taxes, combined with massive spending on wars abroad and the
 criminal justice system at home, has left scarce resources available for
@@ -772,27 +771,27 @@ been marked by complacency, at best, and usually by obstructionism.
 The island nation of Singapore—where 5.2 million people are
 packed into 710 square kilometers of land, much of which is perilously
 close to sea level—offers a counterexample. Singapore began adapting to dangerous weather thirty years ago, after a series of heavy rains
-during monsoon seasons caused repeated fl ooding in the low-lying city
-center. The country has always had a diffi cult relationship with water.
+during monsoon seasons caused repeated flooding in the low-lying city
+center. The country has always had a difficult relationship with water.
 Its geography makes it vulnerable to heavy seasonal rains and frequent
-fl ooding, but there is never a suffi cient supply of usable water, and in
+flooding, but there is never a sufficient supply of usable water, and in
 recent years Singapore's dependency on Malaysian water sources has
-led to political confl icts. Climate change, with its rising sea levels and
+led to political conflicts. Climate change, with its rising sea levels and
 increase in heavy rains, threatens the city-state's stability. But Singapore's government also sees this as an opportunity.
 
 The Marina Barrage and Reservoir, which opened in 2008, is at the
 heart of Singapore's two-billion-dollar campaign to improve drainage
-infrastructure, reduce the size of fl ood-prone areas, and enhance the
+infrastructure, reduce the size of flood-prone areas, and enhance the
 quality of city life. It has nine operable crest gates, a series of enormous
 pumps, and a ten-thousand-hectare catchment area that is roughly
-one-seventh the size of the country. The system not only protects lowlying urban neighborhoods from fl ooding during heavy rains; it also
+one-seventh the size of the country. The system not only protects lowlying urban neighborhoods from flooding during heavy rains; it also
 
 * The best account of this lobbying effort is Naomi Oreskes and Eric Conway, Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to
 Global Warming (New York: Bloomsbury Press, 2010).
 
 xxviii • • • preface to the second edition
 
-eliminates the tidal infl uence of the surrounding seawater, creating a
+eliminates the tidal influence of the surrounding seawater, creating a
 rain-fed supply of freshwater that currently meets 10 percent of Singapore's demand. Moreover, by stabilizing water levels in the Marina
 basin, the barriers have produced better conditions for water sports.
 The Marina's public areas, which include a sculpture garden, a water
@@ -800,10 +799,10 @@ playspace, a green roof with dramatic skyline vistas, and the Sustainable
 Singapore Gallery, bolster the city's tourist economy as well.
 
 The Marina is just one of Singapore's adaptation projects. The
-Mass Rapid Transit system has elevated the access points for the underground rail system to at least a meter above the highest recorded fl ood
+Mass Rapid Transit system has elevated the access points for the underground rail system to at least a meter above the highest recorded flood
 levels. To minimize damage, the Public Utility Board has improved its
 drainage systems. In the 1970s, thirty-two hundred hectares of land
-were fl ood prone; today, only forty-nine hectares are. Singapore is
+were flood prone; today, only forty-nine hectares are. Singapore is
 further reducing its dependence on imported water by building new
 facilities for desalinating seawater and developing technology for using
 reclaimed and treated wastewater in industrial settings. To reduce its
@@ -817,7 +816,7 @@ Sandy, New York paid the price for its lack of preparation. In recent
 decades, American utility companies have spent relatively little on research and development. One industry report estimates that, in 2009,
 research-and-development investments made by all US electrical-power
 utilities amounted to at most $700 million, compared with $6.3 billion
-by IBM and $9.1 billion by Pfi zer. In 2009, however, the Department
+by IBM and $9.1 billion by Pfizer. In 2009, however, the Department
 of Energy issued $3.4 billion in stimulus grants to a hundred smartgrid projects across the United States, including many in areas that are
 prone to heat waves and hurricanes. The previous year, Hurricane Ike
 had knocked out power to two million customers in Houston, and full
@@ -833,14 +832,14 @@ preface to the second edition • • • xxix
 
 utility providers to detect failures immediately, and sometimes also to
 identify the cause. This means that, after an outage, operators don't
-need to wait for calls from angry customers or fi eld reports from crews.
-Moreover, smart grids are fl exible, capable of being fed by disparate
+need to wait for calls from angry customers or field reports from crews.
+Moreover, smart grids are flexible, capable of being fed by disparate
 sources of energy, including systems powered by the sun and the wind.
 When the energy industry develops better technologies for storing
 power from these renewable resources, the new networks should be
 capable of integrating them.
 
-Re-engineered grids will ultimately offer other benefi ts. "The situational awareness of the system might allow operators to reconfi gure the
+Re-engineered grids will ultimately offer other benefits. "The situational awareness of the system might allow operators to reconfigure the
 system, either before or after the event, to maintain service," Leonardo
 Dueñas-Osorio, an engineering professor at Rice University who is developing resilience metrics for critical infrastructure systems, told me.
 "As a hurricane approaches, operators could 'island' areas that look
@@ -852,24 +851,24 @@ how they use energy and how much they're spending. Already there's
 evidence that customers with this information are adjusting their behavior accordingly: easing off on air conditioning, drying their clothes
 at night. But reducing individual demand through such neoliberal programming will only go so far. Only a major public investment program
 will allow the United States to create smarter, more resilient, and more
-fl exibly sourced energy systems. It will be expensive, but not as expensive as a future fi lled with recurring outages during ordinary times and
+flexibly sourced energy systems. It will be expensive, but not as expensive as a future filled with recurring outages during ordinary times and
 long-lasting failures when the weather turns menacing.
 
 The communications system, which is vital to the modern social infrastructure, is vulnerable to weather extremes; America's mobile-phone
 networks have always been less reliable than those in Europe and regularly fail in catastrophes. During Sandy, emergency workers in New
 York and New Jersey were unable to communicate with colleagues who
-came from other states, because there's no nationwide network for fi rst
+came from other states, because there's no nationwide network for first
 responders, and those from outside the region depended on cellular
 networks that were down. "Good public policies could potentially make
 these new networks much more resilient," Harold Feld, the senior
 vice-president of the digital-rights advocacy group Public Knowledge,
-says. The networks he envisages are fl exible and have redundancies:
+says. The networks he envisages are flexible and have redundancies:
 "They can back each other up." Smart phones give the networks additional capacities for emergency communications, such as reverse-911
 messaging that can be sent from government agencies to all customers
 
 xxx • • • preface to the second edition
 
-in zip codes where dangerous weather is approaching, with geographically specifi c instructions on whether to evacuate or how to stay safe.
+in zip codes where dangerous weather is approaching, with geographically specific instructions on whether to evacuate or how to stay safe.
 
 Unfortunately, the cellular industry has resisted efforts to regulate it,
 as the old telephone network is regulated, and there are no federal laws
@@ -881,30 +880,30 @@ it's clear that we're not going to get them by letting industry regulate
 itself." With communications, as with electricity and transit, public support for laissez-faire treatment of corporate operators has undermined
 our collective capacity to address emerging threats.
 
-New York City will inevitably explore ways to reduce fl ooding. There
+New York City will inevitably explore ways to reduce flooding. There
 are relatively inexpensive measures, such as restoring wetlands and
-planting oyster beds, and then there are more ambitious, capital-intensive approaches: engineers at the Dutch fi rm Arcadis have designed a
+planting oyster beds, and then there are more ambitious, capital-intensive approaches: engineers at the Dutch firm Arcadis have designed a
 $6.5-billion barrier that would go just north of the Verrazano-Narrows
-Bridge. Others have proposed a fi ve-mile gate that would stretch from
+Bridge. Others have proposed a five-mile gate that would stretch from
 Sandy Hook, New Jersey, to Rockaway, New York. Malcolm Bowman,
 who runs the Storm Surge Research Group at SUNY Stony Brook,
 is among the leading advocates for such a barrier. "We can't just sit
 around waiting for the next catastrophe," he argues. "The time is now,
 and it's really just a matter of political will."
 
-But there are debates about the long-term effi cacy of these barriers.
+But there are debates about the long-term efficacy of these barriers.
 "Barriers are at best an intermediate solution," Jacob insists. "They will
 require at least twenty years to build, because we'd need environmentalimpact reports, and buy-in from the federal government, the state
 governments of New York, New Jersey, and Connecticut, and probably
 also about three hundred municipalities. If all that happens, we'd get
 protection for perhaps a few decades. Walls will keep out storm surges,
 but not the rising ocean, and they could cause a sense of false security
-that prevents us from fi nding real solutions."
+that prevents us from finding real solutions."
 
 A strategy of resilience will involve more than changes to our physical
 infrastructure. Increasingly, governments and disaster planners are recognizing the importance of social infrastructure: the people, places,
 and institutions that foster cohesion and support. Nicole Lurie, who
-began serving as President Obama's assistant secretary for preparedness and response in 2009, told me how much her offi ce had been infl uenced by "social-science research showing how much better people
+began serving as President Obama's assistant secretary for preparedness and response in 2009, told me how much her office had been influenced by "social-science research showing how much better people
 do in disasters, how much longer they live, when they have good social
 
 preface to the second edition • • • xxxi
@@ -913,7 +912,7 @@ networks and connections. And we've had a pretty big evolution in our
 thinking, so promoting community resilience is now front and center
 in our approach."*
 
-In recent years political offi cials in Chicago have begun to take social
+In recent years political officials in Chicago have begun to take social
 factors into account when they plan for heat waves. During times of
 intense heat, the mayor has urged the local media to advise neighbors, friends, and family to check in on one another. City agencies
 have maintained a database that lists the names, addresses, and phone
@@ -937,14 +936,14 @@ basic resources.
 
 Englewood, as it happens, is just a few miles from the neighborhoods
 where Barack Obama worked as a community organizer during the late
-1980s, learning fi rsthand why social ties matter. Obama must have been
+1980s, learning firsthand why social ties matter. Obama must have been
 thinking of places like Englewood and North Lawndale when, as a US
 senator in 2005, he connected the effects of Hurricane Katrina to the
 slow-motion disaster that New Orleans's vulnerable neighborhoods
 endured every day. "I hope we realize that the people of New Orleans
 weren't just abandoned during the hurricane," he said. "They were
 
-* There is a long history of disaster sociology that identifi es the social sources of vulnerability, including pioneers such as E. L. Quarantelli and Russell Dynes and contemporary leaders such as Kathleen Tierney. This work has been infl uential in the kinds of community-preparedness programs that the Obama administration supported. For a useful
+* There is a long history of disaster sociology that identifies the social sources of vulnerability, including pioneers such as E. L. Quarantelli and Russell Dynes and contemporary leaders such as Kathleen Tierney. This work has been influential in the kinds of community-preparedness programs that the Obama administration supported. For a useful
 summary of this tradition, see Kathleen Tierney, "From the Margins to the Mainstream:
 Disaster Research at the Crossroads," Annual Review of Sociology 33 (2007): 503–25.
 
@@ -961,7 +960,7 @@ the Post-Katrina Emergency Management Reform Act, which expanded
 FEMA's authority, and the Pandemic and All Hazards Preparedness Act,
 which authorized new programs to improve public-health responses,
 ranging from risk communications to targeted support for vulnerable
-populations. During his fi rst term, President Obama introduced a new
+populations. During his first term, President Obama introduced a new
 National Health Security Strategy that emphasized preparedness and
 resilience, calling for the participation of the "whole community"—
 government agencies, civic organizations, corporations, and citizens—
@@ -974,28 +973,28 @@ Since March 2011, when Obama issued a directive on national
 preparedness, FEMA has embraced a similar approach to community
 resilience. "Community-engagement" pilot programs inspired by sociological research and funded by the Centers for Disease Control and
 Prevention have been launched in Los Angeles, Chicago, New York City,
-and Washington, DC. It's signifi cant that the federal government now
-recognizes that engineering technical fi xes to vital systems is only one
+and Washington, DC. It's significant that the federal government now
+recognizes that engineering technical fixes to vital systems is only one
 of several important ways to reduce damage during extreme weather
-events. It's even more signifi cant that it's beginning to invest in social
+events. It's even more significant that it's beginning to invest in social
 infrastructure, too.
 
-Sandy revealed serious fl aws in all forms of infrastructure in New
+Sandy revealed serious flaws in all forms of infrastructure in New
 York and New Jersey. But it also turned up surprising reserves of
 strength. When I visited Rockaway Beach a few weeks after the storm
 hit, residents complained about the slow pace of recovery. The power
-was out. The gas was off. Phone service was spotty. Trains weren't running. Sewage water from the fl ooding covered the streets. Still, there
+was out. The gas was off. Phone service was spotty. Trains weren't running. Sewage water from the flooding covered the streets. Still, there
 were some bright spots. The Rockaway Beach Surf Club, which opened
 in March, in a converted auto-repair shop beneath the El on Beach
 Eighty-Seventh Street, transformed itself into a temporary relief agency
 when two of its founders returned there after the storm, posted Facebook updates inviting friends to join them, and watched more than
-fi ve thousand volunteers come to help. It became the main commupreface to the second edition • • • xxxiii
+five thousand volunteers come to help. It became the main commupreface to the second edition • • • xxxiii
 
 nity organization, providing food, cleaning supplies, camaraderie, and
 manual labor for nearby residents. The surf club's neighbors, including
 blue-collar families and poor African Americans who, months before,
-had worried about how the club would fi t into the community, joined
-in and benefi tted from the organization.
+had worried about how the club would fit into the community, joined
+in and benefitted from the organization.
 
 Thousands of people whose homes were damaged by Sandy live in
 neighborhoods that lack strong support networks or community organizations capable of mounting a large relief effort. They tend to be
@@ -1008,9 +1007,9 @@ Resilience System, and he's convinced that—given the public sector's
 refusal to invest in climate change mitigation or infrastructure modernization—civil society will ultimately determine which people and
 places will withstand the emerging threats from climate change. In
 December 2012, I watched him chair a meeting of network participants—they included representatives from New York Cares (the city's
-largest volunteer organization), the accounting and consulting fi rm
+largest volunteer organization), the accounting and consulting firm
 PricewaterhouseCoopers, the New York City Department of Health,
-and the state Attorney General's Offi ce. "What's actually happening
+and the state Attorney General's Office. "What's actually happening
 on the ground is not under an incident command system," he told me.
 "It's the fragile, agile networks that make a difference in situations like
 these. It's the horizontal relationships like the ones we're building that
@@ -1032,8 +1031,8 @@ neglect and repeatedly build back outdated systems that break down
 xxxiv • • • preface to the second edition
 
 when the weather gets extreme. They can help develop robust social
-infrastructure in vulnerable neighborhoods, promoting health and extending life both every day and in disasters, or they can confi ne their
-heat-emergency plans to phone calls and home visits when the fl ood
+infrastructure in vulnerable neighborhoods, promoting health and extending life both every day and in disasters, or they can confine their
+heat-emergency plans to phone calls and home visits when the flood
 waters come or the temperature spikes.
 
 Whether they come from governments or from civil society, the best
@@ -1043,13 +1042,13 @@ during ordinary times. Contrast this with our approach to homeland
 security since 9/11: the checkpoints, the bollards, the surveillance cameras, the no-entry zones. We do not know whether these devices have
 prevented an attack on an American city, but, as the sociologist Harvey
 Molotch argues in Against Security, they have certainly made daily life
-less pleasant and effi cient, imposing costs that are diffi cult to measure
+less pleasant and efficient, imposing costs that are difficult to measure
 while yielding "almost nothing of value" in the normal course of things.
 "We were making some progress on climate-change adaptation in
 the late 1990s," Klaus Jacob observed. "But September 11th set us back
 a decade on extreme-weather hazards, because we started focusing
-on a completely different set of threats." Effective climate-proofi ng
-demands more intelligent design. It should provide benefi ts not just
+on a completely different set of threats." Effective climate-proofing
+demands more intelligent design. It should provide benefits not just
 when disaster strikes but day to day, like Singapore's Marina Barrage,
 which created new waterfront, parkland, and exhibition spaces, or like
 a smarter power grid, which helps reduce energy consumption in all
@@ -1061,9 +1060,9 @@ It's a cause for regret that we're not responding to the challenges of
 climate change with the same resources we've devoted to the war on
 terror. As long as the threat from global warming seemed remote and
 abstract, it was easier to ignore. Now climate change is coming to mean
-something specifi c, and scary. "Even on a clear day a hundred years
-from now, the water will be where it is today under storm-surge conditions," Jacob said. More heat waves, wildfi res, droughts, hurricanes,
-and fl oods are to be expected. We are entering an age of extremes. "We
+something specific, and scary. "Even on a clear day a hundred years
+from now, the water will be where it is today under storm-surge conditions," Jacob said. More heat waves, wildfires, droughts, hurricanes,
+and floods are to be expected. We are entering an age of extremes. "We
 can't just rebuild after every disaster," Jacob continued. "We need to
 pro-build, with a future of climate change in mind."
 
@@ -1073,7 +1072,7 @@ streets of Manhattan, where they demanded that political leaders adpreface to th
 
 dress the climate crisis with the urgency it deserves. It was the largest climate march in world history, and it was accompanied by 2,646 solidarity
 events in 162 countries across the planet. Citizens, civic organizations,
-and government offi cials took notice. The day after, an unprecedented
+and government officials took notice. The day after, an unprecedented
 portion of Americans told pollsters that climate change was caused by
 human behavior.* Even doomsayers expressed hope that the decades of
 delay and denial might soon give way to meaningful action. There was
@@ -1228,7 +1227,6 @@ h
 t
 a
 e
-D
 
 -50
 
@@ -1580,7 +1578,6 @@ h
 t
 a
 e
-D
 
 Average
 Annual
@@ -1651,8 +1648,8 @@ than whites, with a death ratio of 1.5 :1 in the total, age-adjusted population*
 specific populations are standardized so that the experience of those populations—
 in this case, heat-related mortality—can be compared in light of their age differences.
 For further information about age-adjustment in the analysis of mortality rates, see the
-National Center for Health Statistics Web site: (cid:3)www.cdc.gov/nchs/datawh/nchsdefs/
-ageadjustment.htm#Mortality(cid:4).
+National Center for Health Statistics Web site: www.cdc.gov/nchs/datawh/nchsdefs/
+ageadjustment.htm#Mortality.
 
 t h e c i t y o f e x t r e m e s • • •19
 
@@ -1660,13 +1657,10 @@ Table 1. Total Heat-Related Deaths by Age and Race/Ethnicity: Chicago
 Residents
 
 Age
-(cid:3)55
 55–64
 65–74
 75–84
-85(cid:2)
-
-Total
+85Total
 
 White
 
@@ -1684,13 +1678,10 @@ Table 2. Age-Specific and Age-Adjusted Heat-Related Death Rates per
 100,000 Population, by Race/Ethnicity: Chicago Residents, July 1995
 
 Age
-(cid:3)55
 55–64
 65–74
 75–84
-85(cid:2)
-
-Total*
+85Total*
 
 Non-Hispanic
 White
@@ -1736,7 +1727,6 @@ h
 t
 a
 e
-D
 d
 e
 
@@ -2588,9 +2578,7 @@ Source: The Statistical Abstract of the United States (1980, 1989, 1999), U.S. B
 
 U.S.
 
-Chicago
-
-. Proportion of U.S. and Chicago elderly (65(cid:2)) living alone. Source:
+. Proportion of U.S. and Chicago elderly (65) living alone. Source:
 The Statistical Abstract of the United States (1980, 1989, 1999), U.S. Bureau of the
 Census.
 
@@ -3211,8 +3199,6 @@ m
 
 i
 r
-
-C
 
 f
 o
@@ -4009,14 +3995,9 @@ Deaths per
 Population
 
 Percent
-Population
 Black
 
-Percent
-Population
-65(cid:2)
-
-Community
+65Community
 Area
 
 Fuller Park
@@ -4034,12 +4015,10 @@ West Town
 Brighton Park
 Burnside
 Near South Side
-Chicago
 
 Overall
 Violent
 
-Percent
 Population Crime, Rank,
 Lost,
 1960–90
@@ -4110,10 +4089,8 @@ North Lawndale
 
 South Lawndale
 
-Chicago
-
 Senior poverty level
-2(cid:5) below poverty level
+2below poverty level
 Poverty level
 Population aged 65 years
 
@@ -4211,8 +4188,6 @@ City rank
 11th District
 
 10th District
-
-Chicago
 
 4,714
 10/100,000
@@ -4409,15 +4384,10 @@ Table 6. Population in North Lawndale, 1950–90
 
 Year
 
-Population
-
-Population
 Change (%)
 
-Population
 White (%)
 
-Population
 Black (%)
 
 100,489
@@ -4427,10 +4397,6 @@ Black (%)
 47,296
 
 —
-(cid:2)24
-(cid:6)24
-(cid:6)35
-(cid:6)23
 
 dents abandoned their neighborhood. Roughly one hundred thousand
 blacks replaced them during the 1950s alone.
@@ -4633,7 +4599,6 @@ s
 e
 s
 a
-C
 d
 e
 t
@@ -5172,15 +5137,10 @@ Table 7. Population in South Lawndale (Little Village), 1950–90
 
 Year
 
-Population
-
-Population
 Change (%)
 
-Population
 White (%)*
 
-Population
 Hispanic (%)
 
 66,977
@@ -5190,10 +5150,6 @@ Hispanic (%)
 81,155
 
 —
-(cid:6)9
-(cid:2)3
-(cid:2)20
-(cid:2)8
 
 98%
 
@@ -5627,15 +5583,10 @@ Table 8. Chicago Community Areas with Lowest Heat Wave Death Rates
 Heat-Related
 Deaths per
 100,000
-Population
 
-Percent
-Population
 Decline,
 1960–90
 
-Percent
-Population
 Black
 
 Overall
@@ -5643,8 +5594,6 @@ Violent
 Crime Rank,
 1994–95
 (77 CAs)
-
-(cid:6)33
 
 —
 
@@ -9726,7 +9675,6 @@ t
 r
 u
 o
-C
 
 .
 
@@ -10043,10 +9991,10 @@ groups. The term is not intended to serve as a solution to the problem of classi
 
 10. See Whitman, et al. (1997) for the most comprehensive assessment of
 the death rates for different Chicago groups. In a memorandum from the Chicago Department of Health dated September 1995, city epidemiologists cautioned that the rough equivalence of African-American and Caucasian heatrelated deaths should not be interpreted as equivalent heat-related death rates:
-"The number of deaths among Non-Hispanic Black people (n (cid:7) 253) and
-Non-Hispanic White people (n (cid:7) 252) was almost identical, while there were
-very few deaths among Hispanic people (n (cid:7) 9) and people of other races
-(n (cid:7) 4). In 4 cases race was undetermined. Since non-Hispanic Black and
+"The number of deaths among Non-Hispanic Black people (n 253) and
+Non-Hispanic White people (n 252) was almost identical, while there were
+very few deaths among Hispanic people (n 9) and people of other races
+(n 4). In 4 cases race was undetermined. Since non-Hispanic Black and
 non-Hispanic White people have different age distributions in Chicago, it is
 important to take this into consideration when considering rates. . . . The rate
 for non-Hispanic Black people is almost twice as high as the rate for non-
@@ -12015,9 +11963,9 @@ Ellin, Nan, ed. 1997. Architecture of Fear. Princeton, N.J.: Princeton Architect
 
 Press.
 
-Emergency Net News Service. 1995. Caution urged during heat wave. (cid:3)www.
+Emergency Net News Service. 1995. Caution urged during heat wave. www.
 
-emergency.com.heatwave.htm(cid:4). Accessed 13 December 2000.
+emergency.com.heatwave.htm. Accessed 13 December 2000.
 
 Engels, Frederick. [1845] 1984. The condition of the working class in England. Chicago: Academy Chicago Publishers. Originally published under the title Die
 Lage der Arbeitenden Klasse in England (Leipzig: O. Wigand, 1845).

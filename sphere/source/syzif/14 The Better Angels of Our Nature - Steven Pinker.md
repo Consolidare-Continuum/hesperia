@@ -7678,8 +7678,6 @@ violence against animals in
 
 violence against women in
 
-wars in
-
 assassinations; see also regicide
 
 Astell, Mary
@@ -7970,8 +7968,6 @@ and psychopathy
 
 and revenge
 
-and self-control
-
 and violence
 
 orbitofrontal cortex, see brain, orbital cortex
@@ -7989,8 +7985,6 @@ Rage circuit
 rat
 
 Seeking circuit; see also striatum
-
-and self-control
 
 striatum, ventral
 
@@ -8120,8 +8114,6 @@ genocide of Native Americans
 
 Gold Rush
 
-homicides in
-
 self-esteem task force
 
 "Three Strikes and You're Out" law
@@ -8142,15 +8134,11 @@ Canada
 
 domestic violence in
 
-homicides in
-
 military forces in
 
 nationalism in Québec
 
 terrorism in
-
-violence in
 
 cannibalism
 
@@ -8300,8 +8288,6 @@ and great powers
 
 historical scholarship in
 
-homicide rates in
-
 immigrants from
 
 knives in
@@ -8342,13 +8328,9 @@ rise of
 
 and suburbs
 
-violence in
-
 civil defense
 
 civilization
-
-emergence of
 
 civilizing offensive
 
@@ -8377,8 +8359,6 @@ recivilization in 1990s,
 reduction in frequency of war
 
 and Rights Revolutions
-
-and self-control
 
 and sexuality
 
@@ -8508,8 +8488,6 @@ Christian ideology vs.
 
 cooperation in
 
-and genocide
-
 growth of
 
 international trade
@@ -8531,8 +8509,6 @@ communal violence, see intercommunal conflict
 communism
 
 collapse of
-
-and genocide
 
 ideology of
 
@@ -8610,8 +8586,6 @@ in commerce
 
 evolution of
 
-and intelligence
-
 norms of
 
 in Prisoner's Dilemma games
@@ -8632,8 +8606,6 @@ Cosmides, Leda
 
 cosmopolitanism
 
-and democracy
-
 and end of Cold War
 
 vs. genocidal ideologies
@@ -8645,8 +8617,6 @@ and liberalism
 vs. macho dominance
 
 opposition to
-
-and Rights Revolutions
 
 costly signaling
 
@@ -8766,11 +8736,7 @@ definition of
 
 and education
 
-emergence of
-
 free speech in
-
-and intelligence
 
 and Kantian triangle
 
@@ -8783,8 +8749,6 @@ and 1960s decivilization process
 and peace
 
 and reasoning
-
-and Rights Revolutions
 
 separation of powers in
 
@@ -8827,8 +8791,6 @@ democracy in
 economic growth in
 
 famine and disease
-
-homicide rates in
 
 liberation movements in
 
@@ -8894,8 +8856,6 @@ dominance
 
 and anarchy
 
-and the brain
-
 as cause of war
 
 circuit in brain
@@ -8907,8 +8867,6 @@ group (tribalism)
 hierarchies of
 
 and information
-
-introduction of concept
 
 and nationalism
 
@@ -8988,13 +8946,7 @@ Eastern Europe
 
 abortions in
 
-and democracy
-
-and genocide
-
 violence against women in
-
-wars in
 
 East Timor
 
@@ -9007,8 +8959,6 @@ Eden, William
 education
 
 and civil war
-
-and democracy
 
 IQ tests
 
@@ -9060,15 +9010,11 @@ emotions
 
 and armies
 
-and the brain
-
 and conflict resolution
 
 contagious
 
 control of
-
-and genocide
 
 in Middle Ages
 
@@ -9084,8 +9030,6 @@ see also anger; compassion; disgust; empathy; fear; forgiveness; guilt; sympathy
 
 empathy
 
-and the brain
-
 circle of
 
 and Civilizing Process
@@ -9093,10 +9037,6 @@ and Civilizing Process
 and counterempathy
 
 dark side of
-
-and Humanitarian Revolution
-
-introduction of concept
 
 and literacy
 
@@ -9140,8 +9080,6 @@ bobbies
 
 book production in
 
-capital punishment in
-
 Civilizing Process in
 
 Civil War
@@ -9149,8 +9087,6 @@ Civil War
 domestic violence in
 
 Glorious Revolution (1688)
-
-homicide rates in
 
 income in
 
@@ -9171,8 +9107,6 @@ Englis, Basil
 Enlightenment
 
 and autonomy
-
-and Civilizing Process
 
 counter-Enlightenment
 
@@ -9226,8 +9160,6 @@ etiquette
 
 in medieval times
 
-and self-control
-
 eunuchs
 
 euphemism
@@ -9237,8 +9169,6 @@ Europe:
 antiwar views in
 
 armed forces of
-
-capital punishment in
 
 centralized monarchies in
 
@@ -9254,8 +9184,6 @@ etiquette in
 
 explorers from
 
-homicide rates in
-
 interstate wars in Cold War
 
 literacy in
@@ -9265,8 +9193,6 @@ medieval
 national borders in
 
 states of
-
-terrorism in
 
 20th-century
 
@@ -9394,19 +9320,13 @@ FBI
 
 fear:
 
-and the brain
-
 and competition
 
 as "diffidence,"
 
-and genocide
-
 group-against-group
 
 psychology of
-
-and terrorism
 
 Fearon, James
 
@@ -9483,10 +9403,6 @@ book production in
 colonies of
 
 government in
-
-as great power
-
-homicides in
 
 romantic militarism in
 
@@ -9622,8 +9538,6 @@ participation in
 
 and political crises
 
-psychology of
-
 and rape
 
 risk factors
@@ -9640,19 +9554,13 @@ gentle commerce
 
 as antiwar measure
 
-and Civilizing Process
-
 and cooperation
-
-introduction of concept
 
 and Kant
 
 and Leviathan
 
 and Liberal Peace
-
-and Pacifist's Dilemma
 
 George, Saint
 
@@ -9673,8 +9581,6 @@ borders of
 and empire
 
 genocide in; see also Holocaust
-
-homicides in
 
 militarism in
 
@@ -9792,8 +9698,6 @@ coercive
 
 and conquest
 
-emergence of
-
 genocides by
 
 good
@@ -9854,15 +9758,9 @@ Greece, ancient
 
 Athenian democracy
 
-human sacrifice in
-
 infanticide in
 
-slavery in
-
 Greece, modern
-
-homicides in
 
 Greene, Joshua
 
@@ -10064,8 +9962,6 @@ and anarchy
 
 on causes of war
 
-and genocide
-
 influence of
 
 Leviathan
@@ -10244,8 +10140,6 @@ capital punishment
 
 civilization and enlightenment
 
-and Civilizing Process
-
 cruel punishments
 
 despotism and political violence
@@ -10257,8 +10151,6 @@ Enlightenment humanism
 and major war
 
 reduction in use of force
-
-and Rights Revolutions
 
 slavery
 
@@ -10280,8 +10172,6 @@ theories of
 
 universal
 
-and violence
-
 see also human beings
 
 human rights:
@@ -10293,8 +10183,6 @@ and corporal punishment of children
 and criminalization of homosexuality
 
 Helsinki Accords
-
-and Humanitarian Revolution
 
 vs. nationalism
 
@@ -10376,10 +10264,6 @@ decline of
 
 and enforcement
 
-and genocide
-
-introduction of concept
-
 militant
 
 and Moralization Gap
@@ -10416,8 +10300,6 @@ famine in
 
 female infanticide in
 
-human sacrifice in
-
 Muslim invaders of
 
 and nuclear capability
@@ -10427,10 +10309,6 @@ and Pakistan
 socialism in
 
 suttee in
-
-terrorism in
-
-wars in
 
 Indiana Jones and the Temple of Doom (film)
 
@@ -10462,8 +10340,6 @@ information:
 
 and dominance
 
-and morality
-
 spread of
 
 and technology
@@ -10484,8 +10360,6 @@ intelligence:
 
 and cooperation
 
-and democracy
-
 and economic literacy
 
 general (g)
@@ -10500,19 +10374,13 @@ and reason
 
 rise in, see Flynn Effect
 
-and self-control
-
 and sophistication of political discourse
-
-and violence
 
 intercommunal conflict
 
 interest:
 
 compound
-
-and self-control
 
 Intergovernmental Panel on Climate Change
 
@@ -10548,11 +10416,7 @@ Iraq Body Count
 
 Ireland
 
-human sacrifice in
-
 immigrants from
-
-wars in
 
 irredentism
 
@@ -10567,8 +10431,6 @@ autocratic
 civilization in
 
 conflicts in
-
-and genocide
 
 India invaded by
 
@@ -10586,8 +10448,6 @@ and Sharia law
 
 and slavery
 
-and terrorism
-
 women in
 
 Israel
@@ -10600,25 +10460,17 @@ and peace with Egypt
 
 and Six-Day War
 
-and terrorism
-
 Israelites, ancient
 
 Italy
 
 fascism in
 
-homicides in
-
 militant nationalism in
-
-terrorism in
 
 torture in
 
 unification
-
-violence in
 
 Jackson, Andrew
 
@@ -10638,19 +10490,13 @@ Janis, Irving
 
 Japan
 
-as great power
-
 historical amnesia in
-
-human sacrifice in
 
 kamikaze pilots
 
 militant nationalism in
 
 and nuclear power
-
-and terrorism
 
 and world wars
 
@@ -10970,8 +10816,6 @@ revolutions in
 
 terrorists in
 
-wars in
-
 Laub, John
 
 law:
@@ -10995,8 +10839,6 @@ courts, see justice system
 international
 
 and moral agitation
-
-and morality
 
 in 1960s
 
@@ -11078,19 +10920,13 @@ aggression curbed by
 
 and commerce
 
-emergence of
-
 and human nature
 
 international
 
-introduction of concept
-
 legitimate use of force by
 
 monarchies
-
-and Pacifist's Dilemma
 
 in violence triangle
 
@@ -11114,13 +10950,7 @@ and conservatism
 
 and gentle commerce
 
-and intelligence
-
-and morality
-
 and nationalism
-
-and Rights Revolutions
 
 use of term
 
@@ -11173,10 +11003,6 @@ democratic peace
 disarmament
 
 great power wars
-
-and Humanitarian Revolution
-
-introduction of concept
 
 Kantian Peace
 
@@ -11276,8 +11102,6 @@ and male domestication
 
 rape in
 
-violence in
-
 martial culture and values
 
 martyrdom; see also suicide terrorism
@@ -11341,8 +11165,6 @@ and racism
 rape depicted in
 
 rock music
-
-and terrorism
 
 totalitarian control of
 
@@ -11416,8 +11238,6 @@ Elias on
 
 etiquette books
 
-homicides in
-
 infanticide in
 
 justice systems in
@@ -11425,8 +11245,6 @@ justice systems in
 knights in
 
 sexuality in
-
-slavery in
 
 torture in
 
@@ -11445,10 +11263,6 @@ legal discrimination in
 national borders in
 
 peace efforts in
-
-slavery in
-
-wars in
 
 Midianites
 
@@ -11568,8 +11382,6 @@ themes of
 
 universalized
 
-and violence
-
 Moralization Gap
 
 moral psychology; see also morality; moral sense
@@ -11579,8 +11391,6 @@ moral sense:
 and fiction
 
 as force for evil
-
-introduction of concept
 
 of people in earlier times
 
@@ -11676,8 +11486,6 @@ and decolonization
 
 and dominance
 
-and genocide
-
 and liberalism
 
 militant
@@ -11724,8 +11532,6 @@ and Elias
 
 and face-to-face killing
 
-and genocide
-
 in Germany
 
 and Holocaust
@@ -11756,8 +11562,6 @@ Dutch War of Louis XIV
 
 and great power wars
 
-homicides in
-
 War of Independence
 
 network externalities
@@ -11784,23 +11588,13 @@ New Peace
 
 and climate change
 
-and democracy
-
-and genocide
-
-introduction of concept
-
 non-European war
-
-and terrorism
 
 Newton, Isaac
 
 New York City:
 
 draft riots (1863)
-
-homicides in
 
 police
 
@@ -11832,8 +11626,6 @@ data sources of
 
 deaths from warfare in
 
-emergence of
-
 fighting in
 
 violence rates in
@@ -11855,8 +11647,6 @@ evaluation of
 informal
 
 internalized
-
-and morality
 
 in 1960s counterculture
 
@@ -11958,8 +11748,6 @@ civilization
 
 human societies
 
-introduction of concept
-
 logic of violence
 
 use of term
@@ -11989,8 +11777,6 @@ Pakistan
 Al Qaeda in
 
 and India
-
-and terrorism
 
 Pale of Settlement
 
@@ -12194,8 +11980,6 @@ cause of war
 
 against groups
 
-introduction of concept
-
 means-end reasoning
 
 and overconfidence
@@ -12316,8 +12100,6 @@ punishment:
 
 in autocracies
 
-and the brain
-
 capital
 
 of children
@@ -12381,8 +12163,6 @@ in children
 decline of
 
 and gender
-
-psychology of
 
 as "root cause" of crime
 
@@ -12462,12 +12242,6 @@ escalator of
 
 guided
 
-and intelligence
-
-introduction of concept
-
-and Pacifist's Dilemma
-
 as pacifying force
 
 passions vs.
@@ -12489,8 +12263,6 @@ relational models
 direction of change in
 
 and humor
-
-and morality
 
 religion
 
@@ -12540,8 +12312,6 @@ theocracies
 
 traditions in
 
-and violence
-
 wars of
 
 see also Bible; God
@@ -12586,17 +12356,11 @@ fantasies of
 
 in foraging societies
 
-introduction of concept
-
 modulation of
 
 as motive for war
 
-psychology of
-
 and sadism
-
-and terrorism
 
 Reynolds, Malvina
 
@@ -12635,10 +12399,6 @@ civil rights
 and Enlightenment humanism
 
 gay rights
-
-and Humanitarian Revolution
-
-introduction of concept
 
 and technologies
 
@@ -12746,8 +12506,6 @@ Russett, Bruce
 
 Russia:
 
-capital punishment in
-
 civil war in
 
 and Cold War, see USSR
@@ -12759,8 +12517,6 @@ crime in
 peasant uprisings in
 
 retaliation in
-
-terrorism in
 
 Time of Troubles
 
@@ -12781,10 +12537,6 @@ Sadat, Anwar
 Sade, Marquis de
 
 sadism
-
-introduction of concept
-
-psychology of
 
 by serial killers
 
@@ -12833,8 +12585,6 @@ Saxe, Rebecca
 Sayers, Dorothy L.
 
 Scandinavia
-
-homicides in
 
 Scarpa, Angela
 
@@ -12888,8 +12638,6 @@ Seinfeld, Jerry
 
 self-control
 
-and Civilizing Process
-
 and counterculture
 
 and crime
@@ -12905,10 +12653,6 @@ fatigue of
 heritability of
 
 and human brain
-
-and intelligence
-
-introduction of concept
 
 language of
 
@@ -13144,10 +12888,6 @@ antiblack terrorism in
 
 culture of honor in
 
-slavery in
-
-violence in
-
 South Africa
 
 South-West Africa, genocide in
@@ -13165,8 +12905,6 @@ Spain
 commerce in
 
 Madrid train bombings
-
-wars in
 
 Spanish Inquisition
 
@@ -13210,15 +12948,9 @@ destruction of
 
 economic development of
 
-emergence of
-
 failed
 
-homicide rates in
-
 nonnuclear
-
-and Pacifist's Dilemma
 
 trust in
 
@@ -13347,8 +13079,6 @@ national borders
 nuclear
 
 and political correctness
-
-psychology of
 
 rape, in video games
 
@@ -13540,8 +13270,6 @@ and witch executions
 
 totalitarianism
 
-and genocide
-
 see also autocracy; dictatorships; theocracy
 
 total war
@@ -13688,8 +13416,6 @@ American Revolution
 
 armed forces of
 
-capital punishment in
-
 closing of the frontier
 
 and Cold War, see Cold War
@@ -13704,10 +13430,6 @@ demographics of
 
 geographical distribution of homicides in
 
-as great power
-
-homicide rates in
-
 immigrants to
 
 migration routes in
@@ -13721,8 +13443,6 @@ presidents
 racism in
 
 recivilization in 1990s,
-
-violence in
 
 war deaths in
 
@@ -13745,8 +13465,6 @@ Cuban Missile Crisis
 expansionism
 
 genocide in
-
-as great power
 
 and nuclear weapons
 

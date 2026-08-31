@@ -1,4 +1,3 @@
-
 ORDINAlty
 
 RESERVE P O L ICE BATTA LI O N 101
@@ -91,8 +90,6 @@ MASSACRE
 ix
 
 xiii
-
-VII
 
 vi ii I Contents
 
@@ -851,7 +848,7 @@ Ir:
 
 .
 
-The Order Po l i ce and the Fi nal Solu t i o n : Russia 1 941 / 1 1
+The Order Po l i ce and the Final Solu t i o n : Russia 1 941 / 1 1
 
 -£-. the 500 already assigned to the Einsatzgruppen.4 Between late
 July and mid-August, Himmler toured the eastern front, per­
@@ -1000,7 +997,6 @@ site can arise. I forbid photographing and the permitting of
 1 4 / O R D I N A R Y M E N
 
 I ·
-I
 
 spectators at the executions. Executions and grave sites are
 not to be made known.
@@ -1132,7 +1128,6 @@ The fonowing emerges from an incomplete collection of these
 reports. 24
 
 I r
-I
 '
 
 I ,I
@@ -1839,8 +1834,6 @@ guard took up their stations. The guard commando, as initially
 stipulated by me, was divided into five men in. a passenger car
 
 , ,
-
-I
 
 i
 
@@ -4303,7 +4296,6 @@ home front service and requiring strict supervision. 15 At this
 . point, in the spring of 1941, Wohlauf was .assigned to Police
 ·�.il
 "'.·'
-I
 
 energetic and bright, he noted, but ��cked all
 b
@@ -4503,10 +4495,6 @@ in late September did the killing resume in northern Lublin.
 
 ' [
 
-I
-I
-I
-
 1 1
 
 Late-September Shootings
@@ -4570,28 +4558,20 @@ was completed by 11:00 a. m. on what was turning out to be
 a warm, sunny day. Then Wohlauf "suddenly" declared that
 all the Jews were to be shot.4 Additional men from First
 
-I
 , I I
 I i
-I
 II I
 " I
 , I
 
-I
-I
-
 '
 
-I
-I
 i :
 i :
 
 I :
 ,
 , ,
-I
 
 ,
 
@@ -4650,16 +4630,10 @@ present at the killing. Subsequently, Wohlauf claimed that he
 
 Ii
 
-I
-
-I
-
 i i
 i I
 
 I , I 1
-I
-I
 iI
 I' 1
 II ,
@@ -4751,20 +4725,15 @@ did not impede those intent upon their task. The Jews who had
 been caught in the dragnet were taken out of the ghetto to a large
 house that backed onto a walled courtyard. In groups of thirty,
 
-I
-
 1:1 i
 ll , '
 i 1
 Ii
-I
 I i
 
 .
 
 !
-
-I
 
 1 02 / 0 R 0 I N A R Y M E N
 
@@ -4984,16 +4953,11 @@ clearing by hiding or had been deliberately left behind, either
 i
 : I
 '
-I
 : I
 '
 !
 
-I
-
 ,
-
-I
 
 , )
 
@@ -5099,13 +5063,8 @@ pfeiffer. * You're in for it this time, because the Jewesses must be
 shot. You've gotten yourself out of it so far, but now you must go
 to it." An execution squad of about twenty men was sent into the
 
-I
-I
-
 I I
 ! I
-
-I
 
 The Deportat i ons Res u m e 1 1 09
 
@@ -5154,8 +5113,6 @@ While Gnade was deporting Jews from Mi�dzyrzec, First
 
 . I
 
-I
-
 ,
 
 I ,
@@ -5203,21 +5160,12 @@ After the initial deportations, Steinmetz's platoon returned to
 Parczew, and the battalion headquarters was shifted from Radzyn
 to Luk6w. On November 6, Lieutenant Brand and Sergeant
 
-I
-I
 r
-
-I
 
 il
 
-I
-
 ii
 
-I
-
-I
 i
 Ii
 I"
@@ -5355,8 +5303,6 @@ I!
 
 !
 
-I
-
 I .
 
 "
@@ -5384,10 +5330,6 @@ of Third Company were stationed in the county of Pulawy. Third
 Platoon was stationed in the town of Pulawy itself, under
 Hoffmann's direct command, and Lieutenant Hoppner's Second
 Platoon nearby, first in Kur6w and then in Wandolin. In the
-
-I
-
-I
 
 1 1 4
 
@@ -5621,12 +5563,10 @@ I '
 i l! ill l
 '
 , '.1'11
-I
 , 'I
 I!II'I I
 ! ! �
 ! i i i
-II
 ,I ,
 j '
 
@@ -5634,12 +5574,7 @@ j '
 
 ll
 
-I
-
 !
-I
-
-I
 
 1 4
 
@@ -5840,7 +5775,6 @@ Gennan policeman and the Polish translator went to the second
 
 i
 
-I
 I I
 
 1 26 l O R 0 I N A R Y M E N
@@ -7221,14 +7155,11 @@ along the Siam-Burma railroad, the reprisal shooting of a
 ' attack in YugoslaVia or elsewhere in eastern Europe--these were
 the spontaneous explosions or cruel revenge of brutalized
 
-I
 i
-I
 r
 
 j
 I ,
-I
 
 f
 
@@ -7348,22 +7279,14 @@ people to be transferred from the euthanasia program in
 1:I'�·i.i ' !j;ii .
 III I "�i
 
-II
-I
 I'
 
 i
 
-I
-
 �I '
 I :
-I
-I
 .
-I
 , I
-I
 
 1 64 / 0 R 0 I N A R Y M E N
 
@@ -7406,8 +7329,6 @@ was scornfully considered both "weak" and "reactionary. " It is
 certainly revealing that despite the conscious effort of Himmler
 and Heydrich to amalgamate the SS and the police, and despite
 the fact that Trapp was a decorated World War I veteran, career
-
-I
 
 Ord i n a ry Men / 1 65
 
@@ -7491,8 +7412,6 @@ incentives and support for the full realization of their violent
 potential. After World War II, such men reverted to law-abiding
 behavior. Thus Steiner concludes that "the situation tended to
 
-II
-
 Ord i n a ry Men / 1 6 7
 
 the most immediate detenninant of SS behavior" in rousing
@@ -7538,9 +7457,7 @@ lODlOg;enleoLls "nonnal" test group into guards and prisoners and
 ·pialced them in a simulated prison. Though outright physical
 IYi<JllellCe was barred, within six days the inherent structure of
 
-I
 !I
-I
 
 I,! I
 
@@ -7720,10 +7637,6 @@ positioned hierarchically above, even to the point of performing
 
 ! '
 
-I
-
-I
-
 1 72 / 0 R D I N A R Y M E N
 
 norms.20 In a series of now famous expe'riments, Milgram tested
@@ -7853,9 +7766,6 @@ sion was the tip of the iceberg, and this factor must have been
 , I
 
 ! I
-I
-
-I
 
 Ordina ry Men 1 17 5
 
@@ -8334,8 +8244,6 @@ I!IIDbly point; not shooting on patrol if no "go-getter" was along
 
 ' I
 
-I
-
 1 86 l O R 0 I N A R Y M E N
 
 who might report such squeamishness; bringing Jews to the
@@ -8459,8 +8367,6 @@ responsibility is ultimately an individual matter.
 At the same time, however, the collective behavior of Reserve
 Police Battalion 101 has deeply disturbing implications. There
 are many societies afBicted by traditions of racism and caught in
-
-I
 
 Ordi n a ry Men / 1 89
 
@@ -8894,11 +8800,8 @@ anti-Semitic tide? Only in part, according to the detailed
 .ut:.� For the 1933-39 period, these three historians distinguish
 
 I l I
-I
-I
 
 I I
-I
 
 ·
 
@@ -9072,8 +8975,6 @@ crusade against Bolshevism and "war of destruction," were added.
 
 Is it even plausible to suggest that this wartime change in situation
 
-I
-
 Afterword I 203
 
 context did not alter the attitudes and behavior of ordinary
@@ -9119,14 +9020,9 @@ in general."36
 
 support of this interpretation, Goldhagen constantly invokes
 
-II
-I
-I
-
 I i
 I ,
 :
-I
 
 204 / Aft erword
 
@@ -10298,10 +10194,6 @@ Est. :# Jews shot (minimum)
 
 10/42
 
-10/42
-
-10/42
-
 1 1142
 
 district
@@ -10366,9 +10258,6 @@ Luk6w
 Mi�dzyrzec
 
 TOTAL
-
-10/42
-10/42
 
 10/42-11142
 
@@ -10466,10 +10355,6 @@ HW 1953, 4577; August W., HW 2041-42, 3298, 4589.
 Of'dnung."olizei 1936-1945 (Koblenz, 1957): part I, Hans-Joachim Neu­
 feldt, "Entstehung und Organisation des Hauptamtes Ordnungspolizei,"
 and part 2, Georg Tessin, "Die Stlibe und Truppeneinheiten der Ordnungs-
-
-I
-
-I
 
 Notes 1 2 29
 
@@ -12487,15 +12372,12 @@ f
 
 ,
 
-I
-
 .
 
 '
 
 �{
 �.
-I
 
 "
 
@@ -13086,6 +12968,5 @@ See Central Agency for
 
 ,
 
-I
 �
 1.'

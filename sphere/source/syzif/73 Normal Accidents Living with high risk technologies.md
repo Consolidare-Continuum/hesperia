@@ -19,7 +19,6 @@ The paper used in this publication meets the minimum requirements ofANSI/NISO Z3
 http://pup.princeton.edu
 Printed in the United States of America
 
-10
 ISBN-13: 978-0-691-00412-9 (pbk.)
 ISBN-10: 0-691-00412-9 (pbk.)
 

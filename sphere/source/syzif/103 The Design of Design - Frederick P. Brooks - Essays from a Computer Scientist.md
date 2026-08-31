@@ -53,8 +53,6 @@ Chapter 16
 Representing Designs' Trajectories
 and Rationales . ........................................................... 185
 
-IV
-
 A Computer Scientist's Dream System for Designing Houses .
 
 ............................................................ 201
@@ -398,8 +396,6 @@ About Designing. This book is the edited Papers
 Luck [2009], "Does this compromise your design?" reprinted in
 McDonnell [2008], About Designing.
 
-Notes and References
-
 5.
 
 Blaauw and Brooks [1964], "Outline of the logical structure of
@@ -667,8 +663,6 @@ experiences.
 But the Rational Model is much too simplistic, even in Simon's
 
 richly developed version. Hence we must examine its faults.
-
-Notes and References
 
 1.
 
@@ -1238,8 +1232,6 @@ Chapters 4 and 5 elaborate on the requirements problem.
 
 The Waterfall Model is wrong and harmful; we must outgrow it.
 
-Notes and References
-
 1.
 
 The engineer needs a satisficing solution; the scientist needs a discovery, and wider exploration often yields one.
@@ -1277,8 +1269,6 @@ any change in the model as proposed, although in personal conversation with me i
 to rethink and rewrite accordingly.
 
 Visser [2006], The Cognitive Artifacts of Designing, has an excellent Section 9.2, "Simon's more nuanced positions in later work,"
-
-Notes and References
 
 which examines Simon's evolution as embodied in later papers.
 Visser shares my surprise that this evolution didn't get reflected in
@@ -1370,8 +1360,6 @@ Personal communication [2008].
 Personal communication [2008].
 
 VDI-2221: Systematic Approach to the Design of Technical
-
-This page intentionally left blank
 
 Requirements, Sin, and
 Contracts
@@ -1487,8 +1475,6 @@ Generating requirements by committee, by the nature of the
 beast, tends to produce products that are too rich (Detroit cars,
 bloated software systems, unbuildable Internal Revenue and FBI
 
-4. Requirements, Sin, and Contracts
-
 systems). Perhaps committee specification is why large and superambitious software systems seem so prone to total disaster.
 
 In the building of the IBM Operating System/360, requirements were initially set by a large committee from the Marketing
@@ -1570,8 +1556,6 @@ He is contracting with a builder who sees and invariably performs his calling so
 best possible value/cost ratio, within budget and on schedule.
 All the players are honest and truthful, and communication
 among them is excellent.
-
-4. Requirements, Sin, and Contracts
 
 Then:
 
@@ -1683,8 +1667,6 @@ Close client-architect-contractor trust relationships,
 Well-understood design challenges, or
 A pressing hurry, justifying higher risks,
 
-4. Requirements, Sin, and Contracts
-
 often conflate the normal process into a concurrent, pipelined
 design-build process. The architects organize their work so that
 the detailed construction drawings are produced first for the
@@ -1698,8 +1680,6 @@ the build order and the long-lead-time components.
 Much hard thinking remains to be done here. I challenge the
 
 community to engage in this dialog.9,10
-
-Notes and References
 
 1.
 
@@ -1730,8 +1710,6 @@ integrity:
 
 An applied scientist or engineer shall display utter probity toward the
 engineered object from the moment of its conception through its commissioning for use.
-
-Notes and References
 
 3.
 
@@ -1784,8 +1762,6 @@ and a project manager's vision for the task ahead are vital starting
 points for IT projects" (McManus [2003], Information Systems Project
 Management).
 
-4. Requirements, Sin, and Contracts
-
 8.
 
 Boehm [1984], "Prototyping versus specifying," describes a classroom experiment in which one team built from lovingly crafted
@@ -1806,8 +1782,6 @@ used in public-private partnerships for public works in the UK.
 Muir Wood [2007], "Strategy for risk management," is a conference
 paper that proposes how tunneling clients and contractors should
 deal with unforeseen risk in their contracting.
-
-This page intentionally left blank
 
 Determine objectives,
 alternatives, constraints
@@ -1902,7 +1876,6 @@ o
 s
 t
 
-C
 u
 m
 u
@@ -2254,10 +2227,6 @@ Several alternative process models have been proposed. I
 find Boehm's Spiral Model the most promising. We need to
 keep developing it.
 
-Notes and References
-
-Notes and References
-
 1.
 
 Pique [1982],
@@ -2335,9 +2304,6 @@ Selby [2007],
 butions to Software Development, Management, and Research, collects
 Boehm's most important papers on risk into Chapter 5.
 
-This page intentionally left blank
-
-II
 Collaboration and
 Telecollaboration
 
@@ -2428,8 +2394,6 @@ has a lot to be said for it.
 -1 The Nautilus nuclear submarine
 U.S. Navy Arctic Submarine Laboratory/Wikimedia Commons
 
-6. Collaboration in Design
-
 Why Has Engineering Design Shifted from Solo to Teams?
 
 Technological Sophistication. The most obvious driver toward
@@ -2494,8 +2458,6 @@ Why is this competitive time pressure more intense than
 before? Global communications and global markets mean that
 any great idea anywhere propagates more quickly now.
 
-6. Collaboration in Design
-
 Costs of Collaboration
 
 "Many hands make light work"—Often
@@ -2555,9 +2517,6 @@ the consistency of its concepts. Consider Wren's masterpiece, St.
 Paul's Cathedral (-3).
 
 -3 Wren's St. Paul's Cathedral
-iStockphoto
-
-6. Collaboration in Design
 
 Such design coherence in a tool not only delights, it also yields
 ease of learning and ease of use. The tool does what one expects it to
@@ -2637,8 +2596,6 @@ must be experienced in the sort of system being designed. Most
 of all, he must have a clear vision of and for the system and must
 really care about its conceptual integrity.
 
-6. Collaboration in Design
-
 The architect serves during the entire design process as the
 agent, approver, and advocate for the user, as well as for all the
 other stakeholders. The real user is often not the purchaser. This
@@ -2717,8 +2674,6 @@ These conversations are about the objectives and constraints for
 the design. The hard task is to flush out the implicit objectives
 and constraints, the ones the stakeholders don't even recognize
 
-6. Collaboration in Design
-
 that they have. Indeed, from these conversations—what is said,
 how it is said, what is unsaid—comes the designer's first estimate of the utility function.
 
@@ -2778,8 +2733,6 @@ Paul's and the U.S. Capitol.
 Anonymous, "View of Florence from the Boboli Gardens,"
 19th Century, Watercolor, Museo di Firenze com'era, Florence, Italy/
 Scala/Art Resource, New York.
-
-6. Collaboration in Design
 
 In architecture and some major civil engineering works, there
 is a single client and multiple designers hoping to get the job. So
@@ -2868,8 +2821,6 @@ find different flaws. But joint, group review is also imperative.
 Demand Multidisciplinary Group Review. Group review has
 the power of numbers, but special power comes from the viewpoints of multiple disciplines. The review team should be much
 
-6. Collaboration in Design
-
 larger than the design team. Those who will build the design,
 those who will maintain it, sample users, those who will market
 it—all must be included. Consider the review for a new submarine design. The supply officer sees a shortcoming; his spoken
@@ -2944,8 +2895,6 @@ to choose, fuse, or strike off in some third direction.
 
 Where's Design Control? The fantasy concept has no function
 for originating designs, only refining them. The fantasy concept is
-
-6. Collaboration in Design
 
 flawed as a model for collaborative design change, too. Schedule
 gain from collaboration implies concurrent activity; and concurrent activity requires synchronization, a step totally missing from
@@ -3024,8 +2973,6 @@ rapidly among micro-sessions of proposal, review and critique,
 counterproposal, synthesis, and resolution. There is typically a
 single thread of idea development, without the maintenance of
 
-6. Collaboration in Design
-
 separate individual threads of thought as in multi-person discussions. Two pencils may move over the same paper with neither
 collision nor contradiction.
 
@@ -3068,16 +3015,12 @@ wrought.
 No amount of collaboration eliminates the need for the
 "dreariness of labor and the loneliness of thought."
 
-Notes and References
-
 For these reasons, I think we should be very leery about
 assigning graduate students with little or no real-world design
 experience dissertation topics in the field of collaborative design
 tools. Moreover, our journals should be very slow to accept such
 papers that are not based on real-world experience and/or real
 design applications.
-
-Notes and References
 
 1.
 
@@ -3127,8 +3070,6 @@ by Gabriela Goldschmidt [1995], "The designer as a team of one":
 "Detailed analysis leads to the conclusion that there are almost no
 differences between the individual and the team in the way they bring
 their work to fruition."
-
-6. Collaboration in Design
 
 Charles Eastman [1997] reviews this book in Design Studies
 
@@ -3199,8 +3140,6 @@ the solution among us (albeit sometimes with a benign dictator making final deci
 or two strong concepts of the design that won out and then drove
 all of the other decisions; we didn't design by committee and "horsetrade" the detailed decisions (personal communication [2009]).
 
-Notes and References
-
 16.
 
 17.
@@ -3255,16 +3194,12 @@ Genesis 2:18.
 Torrance [1970], "Dyadic interaction as a facilitator of gifted
 performance."
 
-6. Collaboration in Design
-
 27.
 
 See, for example, the impressive PhD dissertations by Hales [1991],
 "An analysis of the engineering design process in an industrial context" (Cambridge), or Salton [1958], "An automatic data processing
 system for public utility revenue accounting" (Harvard), for detailed
 documentation of what is involved in an actual design.
-
-This page intentionally left blank
 
 Telecollaboration
 
@@ -3344,9 +3279,6 @@ perhaps more hazardous for politically occasioned distributions.
 The French and British teams used Release 5 of CATIA CAD
 
 -1 Airbus 380
-iStockphoto
-
-7. Telecollaboration
 
 software. The German and Spanish teams used Release 4. Lo and
 behold, in part because of differences between these releases, the
@@ -3427,8 +3359,6 @@ Negotiate a complex business deal?
 Plan a family vacation?
 Fire your administrative assistant?
 
-7. Telecollaboration
-
 For some of these, you would prefer email or telephone over
 walking (and time synchronizing); for others, you would gladly
 walk quite a distance.
@@ -3506,8 +3436,6 @@ three-day face meetings.
 
 These latter were always very instructive. Inherently, they
 focused on the tough nuts that had not yet been cracked. We
-
-7. Telecollaboration
 
 found that when a text paragraph couldn't be made to work, it
 was always because we didn't know what we were talking about.
@@ -3602,8 +3530,6 @@ When organizational or national cultures are different
 High-Tech Videoconferencing. Considerable research has been
 done piloting maximum-realism teleconferencing systems. My
 
-7. Telecollaboration
-
 colleague Henry Fuchs has enhanced videoconferencing with
 depth cues and demonstrated anecdotally that the enhancement
 substantially increases one's feeling of "being there." Each participant's head is tracked, so the powerful kinetic depth effect is
@@ -3631,8 +3557,6 @@ has a real user with a real task that must be done. Buggy prototypes will not th
 and blunt. I have written extensively on this elsewhere; those
 positions have not changed.12
 
-Notes and References
-
 1.
 
 "The crowd is wise (when it's focused)," reports on
@@ -3642,8 +3566,6 @@ coalesce via the internet for major technical projects:
 
 But a look at recent cases and new research suggests that openinnovation models succeed only when carefully designed for a
 particular task and when the incentives are tailored to attract the
-
-Notes and References
 
 most effective collaborators. "There is this misconception that you can
 sprinkle crowd wisdom on something and things will turn out for the
@@ -3700,8 +3622,6 @@ computer-mediated tools. . . . Sketch Graphic Acts are used to illuminate the ph
 "thumbnail" sketches—which were commonly exploited in laboratory
 studies of face-to-face collaboratively working but were significantly
 
-7. Telecollaboration
-
 impoverished in studies of computer-mediated remote collaborative
 working.
 
@@ -3742,8 +3662,6 @@ Raskar [1998], "The office of the future"; Towles [2002], " 3D telecollaboration
 stc/inthenews/pdf/washingtonpost_2000_1128.pdf, accessed on
 August 28, 2009.
 
-Notes and References
-
 Virtual worlds such as Second Life are also being explored
 for telecollaboration. See for example, http://blog.irvingwb.com/
 blog/2008/12/serious-virtual-worlds-applications.html.
@@ -3759,9 +3677,6 @@ Computer Supported Cooperative Work (CSCW): The Journal of Collaborative Computi
 Brooks [1977], "The computer 'scientist' as toolsmith"; Brooks [1996],
 "The computer scientist as toolsmith II."
 
-This page intentionally left blank
-
-III
 Design
 Perspectives
 
@@ -3908,8 +3823,6 @@ their faults, or about spaces and their suitability.
 
 Organization design is like software design in that no material is involved. I know of no attempt to prove correctness, or
 
-Notes and References
-
 even workability, of a postulated organization. The authors of
 the The Federalist Papers, however, undertook to demonstrate the
 feasibility of the United States Constitution by closely reasoned
@@ -3941,8 +3854,6 @@ Can I, by sufficient thought alone, design a complex object
 correctly? No; testing and iteration are in practice necessary. But
 careful thought helps. The succeeding essays in Part III suggest
 some aspects of such thought.
-
-Notes and References
 
 1.
 
@@ -4010,8 +3921,6 @@ In the case of the Warsaw accident neither of the first two conditions was fulfi
 on both landing gears required to trigger the sensor was not reached.
 Point two was also not fulfilled because of a hydroplaning effect on
 the wet runway.
-
-Notes and References
 
 7.
 
@@ -4186,8 +4095,6 @@ cost to develop a better estimate.
 In the end, however, many assumptions will remain debatable and unverifiable. The chief architect must own—and make
 known—the set the team goes with.
 
-Notes and References
-
 Better Wrong than Vague!
 
 At this point the reader will object, "How can I know or even
@@ -4202,8 +4109,6 @@ were the user. But he isn't.
 Therefore, wrong explicit assumptions are much better than
 vague ones. Wrong ones will perhaps be questioned; vague
 ones won't.
-
-Notes and References
 
 1.
 
@@ -4242,8 +4147,6 @@ conceptual integrity, one should name the scarce
 resource explicitly, track it publicly, control it firmly.
 
 Apollo rocket
-
-iStockphoto
 
 10. Inches, Ounces, Bits, Dollars—The Budgeted Resource
 
@@ -4438,8 +4341,6 @@ Marissa Meyer today exerts the same total system overview,
 the same passion for consistency in design, and the same cautious stinginess in her role as the dragon guarding Google's look
 and feel.8
 
-Notes and References
-
 1.
 
 Simon [1996],
@@ -4482,8 +4383,6 @@ Blaauw [1997], "IBM System/360," Section 12.4.
 
 Holson [2009], "Putting a bolder face on Google."
 
-This page intentionally left blank
-
 Constraints Are Friends
 
 Form is liberating.
@@ -4500,11 +4399,7 @@ well than a special-purpose one.
 
 Michelangelo's David, carved from an "abandoned" block of marble
 
-iStockphoto
-
 11. Constraints Are Friends
-
-Constraints
 
 Constraints may be burdens, but they also may be friends. Constraints shrink the designer's search space. By so doing, they
 focus and speed design. Many of us disliked "Write an essay on
@@ -4576,8 +4471,6 @@ for those stunningly rich systems we still call "cell phones.")
 -1 Misperceived constraint puzzle: Run a continuous line
 of no more than four straight segments through all nine dots.
 
-11. Constraints Are Friends
-
 Misperceived Constraints. These are more subtle. -1
 shows a classic example. (See -5 for a solution.4) The
 boundary-line constraint described in Chapter 3 is another.
@@ -4601,19 +4494,13 @@ I/O CHANNEL
 
 PROCESSOR
 
-PERIPHERAL
 ADAPTER 2
 
 I/O CHANNEL
 
-PROCESSOR
-
-PERIPHERAL
 ADAPTER 3
 
 I/O CHANNEL
-
-PROCESSOR
 
 MEMORIES
 
@@ -4642,33 +4529,23 @@ MITRE system architects had mistakenly insisted on the specified topology as an 
 were actually shopping for was function and reliability, not
 topology. So IBM bid, built, and delivered the configuration
 
-PERIPHERAL
 ADAPTER 1
 
-PERIPHERAL
 ADAPTER 2
 
-PERIPHERAL
 ADAPTER 3
 
 S/360 MODEL 50
 CHANNELS
-PROCESSOR
 
-S/360 MODEL 50
 CHANNELS
-PROCESSOR
 
-S/360 MODEL 50
 CHANNELS
-PROCESSOR
 
 MEMORIES
 
 -3 FAA system as first proposed with System/360 Model 50
 computers
-
-11. Constraints Are Friends
 
 shown in -4. Unchallenged reliability analyses showed
 this configuration to be in fact considerably less reliable than
@@ -4685,38 +4562,19 @@ If implementation approaches are given as constraints, better
 solutions are cut off. For the sake of the artifact and the user, the
 designer confronted with false constraints should fight back!
 
-PERIPHERAL
 ADAPTER 1
 
-S/360 MODEL 50
-PROCESSOR
 DISABLED
 
-PERIPHERAL
 ADAPTER 2
 
-S/360 MODEL 50
-PROCESSOR
-DISABLED
-
-PERIPHERAL
 ADAPTER 3
 
-S/360 MODEL 50
-PROCESSOR
-DISABLED
-
-S/360 MODEL 50
 I/O CHANNELS
-DISABLED
 
-S/360 MODEL 50
 I/O CHANNELS
-DISABLED
 
-S/360 MODEL 50
 I/O CHANNELS
-DISABLED
 
 MEMORIES
 
@@ -4769,8 +4627,6 @@ Instruction sequencing
 Supervisory facilities
 Input-output
 
-11. Constraints Are Friends
-
 Designing the Special-Purpose Computer Architecture. On
 the other hand, designing a special-purpose computer clearly
 takes a lot of extra work up front. one must study the application. What makes it peculiar? What are the relative frequencies
@@ -4810,8 +4666,6 @@ excellent job of this, whereas they could not possibly devise an
 excellent unconstrained general-purpose architecture in the time
 available. The task is far easier than would be the in-depth analysis that a serious general-purpose design effort must make.
 
-Notes and References
-
 Software Design. The same paradox holds for software.
 Designing a special-purpose programming language is straightforward compared to the delicate balancing of expressive power,
 generality, and parsimony that one must seek in a general-purpose programming language. Restraint is so much easier to
@@ -4835,8 +4689,6 @@ desired, about the user and use models, and you will probably
 find some narrowing constraints, to the benefit of both designer
 and user.
 
-Notes and References
-
 1.
 
 Johann Sebastian Bach, 387. When not sufficiently
@@ -4856,8 +4708,6 @@ Revelations 22:16.
 
 http://www.blueridgeparkway.org/linncove.htm, accessed on
 July 18, 2009.
-
-11. Constraints Are Friends
 
 4.
 
@@ -4880,8 +4730,6 @@ For the Kenwood House in Hampstead near London, Robert Adam
 (1728–1792) designed every detail of the furnishings, down to the
 doorknobs (Kenwood Guidebook).
 
-This page intentionally left blank
-
 Esthetics and Style in
 Technical Design
 
@@ -4898,8 +4746,6 @@ like a well-dressed man, appears to great advantage.
 lord cHeSterField [1774], letter ccxl, 361
 
 Monticello: Jefferson's adaptation of Palladio's adaptation of Roman style
-
-iStockphoto
 
 12. Esthetics and Style in Technical Design
 
@@ -4981,8 +4827,6 @@ A-41, "Force to even," halves a number, floors it, and doubles it
 
 In some circles, it is even fashionable to see how much function can be packed into one line of APL, however convoluted and
 
-12. Esthetics and Style in Technical Design
-
 idiomatic. "One-liners" are traded about and published with glee
 and pride. But again, this is crossword puzzle sport, not elegant
 design. Programming languages exist to facilitate the writing—
@@ -5059,8 +4903,6 @@ the extraneous component of the user interface arises from the
 implementation of the car.
 
 An example of propriety in computers is the unique representation of zero in twos-complement notation. In contrast, both
-
-12. Esthetics and Style in Technical Design
 
 signed-magnitude and ones-complement notations attach a sign
 to zero, a distinction that is extraneous. More rules have to be
@@ -5140,8 +4982,6 @@ sense we are considering, as
 expression rather than to the substance of the thought or matter
 expressed.
 
-12. Esthetics and Style in Technical Design
-
 21. A particular mode or form of skilled construction, execution or
 production; the manner in which a work of art is executed, regarded
 as characteristic of the individual artist or of his time and place.
@@ -5218,8 +5058,6 @@ The authors of the unsigned Federalist Papers have been conclusively identified 
 can identify each other's code. C. S. Lewis argues that Jesus's
 miracles faithfully display the hallmarks of the Father's creative
 style.15,16
-
-12. Esthetics and Style in Technical Design
 
 Properties of Styles
 
@@ -5306,8 +5144,6 @@ Study Other Designers' Styles Intentionally. Practice working in another's style
 and explicit thinking. It might also produce great works—
 consider Respighi's Ancient Airs and Dances, or Fritz Kreisler's
 
-12. Esthetics and Style in Technical Design
-
 Classical Manuscripts or his Praeludium and Allegro (in the style of
 Pugnani).21
 
@@ -5321,8 +5157,6 @@ Revise. Look for stylistic inconsistencies.
 Choose Designers Carefully. Seek for your products designers
 who have clear styles and good taste, as demonstrated by their
 previous works.
-
-Notes and References
 
 1.
 
@@ -5405,8 +5239,6 @@ A Pattern Language, is an important architectural
 20.
 
 21.
-
-Notes and References
 
 Examples of clear styles that have particularly delighted me include
 some artificial and imitative ones:
@@ -5556,8 +5388,6 @@ heavily flavored by the IBM 704 and 1401; the early microcomputers are clearly i
 One can also discern corporate memory—computers,
 unlike buildings, are designed by architects working within the
 
-13. Exemplars in Design
-
 implementing companies. They are more familiar, by explicit
 training and by informal culture, with their company's predecessor machines than with those of competitors. The Intel microprocessors strongly reflect a particular corporate style.
 
@@ -5629,8 +5459,6 @@ Wilkes further says there that this paper sets forth the ideas
 generated at the University of Pennsylvania in discussions
 among Presper Eckert, John Mauchly, and John von Neumann.
 He regrets that the extremely fruitful ideas are usually credited
-
-13. Exemplars in Design
 
 to von Neumann alone and has been at some pains to correct this
 misunderstanding.
@@ -5705,8 +5533,6 @@ This time it was the minicomputer makers, quite successful at what they were doi
 They missed the microcomputer revolution. Hewlett-Packard
 survived; DEC did not. Some of the mainframe makers, notably
 IBM, got back into the game and became major suppliers of personal microcomputers.
-
-13. Exemplars in Design
 
 Again, the revolution spawned a cascade of rationales: Hoff
 [1972] (one-chip CPU), Patterson [1981] (RISC I), Radin [1982]
@@ -5786,8 +5612,6 @@ and praise the work of the systematizer? Can one get tenure for
 doing such? In many institutions this work would be valued in
 a History of Science and Technology Department, but not in an
 Engineering Department.
-
-13. Exemplars in Design
 
 Exemplars—Laziness, Originality, and Pride
 
@@ -5892,10 +5716,6 @@ works, ye Mighty, and despair."
 
 The desire to be original has degraded many a work.15
 
-13. Exemplars in Design
-
-Notes and References
-
 1.
 
 Howard [2006],
@@ -5965,8 +5785,6 @@ among 45 house types. This is a major reference with respect to the
 use of exemplars and of simplified design methods.
 I think this is a true test between godly pleasures and satanic counterfeits. For real pleasures give satisfaction (satis = "enough"). One
 gets enough food, enough sleep, enough work, enough play, enough
-
-Notes and References
 
 14.
 15.
@@ -6195,8 +6013,6 @@ Thinking of the cards as separate complete commands explains,
 I think, why none of us ever recognized that JCL was going to be
 a programming language—one interpreted and executed at schedule time. Our basic problem was a pedestrian vision.
 
-Notes and References
-
 A consequent problem was that JCL was never really
 designed—it just grew. Had it been recognized as a system language, it might perhaps have been designed as a language, using
 the expertise and experience of our language designers.
@@ -6227,8 +6043,6 @@ Think at the top level about the object you are designing
 and its assumptions about the environment in which it will
 be used. Is a paradigm shift under way? Will your assumptions still be valid a decade hence? Are you designing the
 right thing?
-
-Notes and References
 
 1.
 
@@ -6454,8 +6268,6 @@ Remedy 4: Education of Designers
 Design curricula simply must include both techniques for and
 practice at understanding users' needs and desires.6
 
-Notes and References
-
 In a classic and durable 1985 paper, Gould and Lewis enunciated three design principles, giving first place to understanding users and their tasks by "direct contact from the outset." They
 found many designers who thought they were doing this when
 in fact they were hearing or reading about them, examining user
@@ -6472,8 +6284,6 @@ but advanced methods can be self-taught when needed. Gut
 instincts are harder to acquire. Today's design curricula must
 reckon with the divorce of design and make strenuous efforts to
 introduce the young designer to the real worlds of implementation and use.
-
-Notes and References
 
 1.
 
@@ -6519,8 +6329,6 @@ student team must be allowed to fail.
 Gould [1985], "Designing for usability": "These principles are: early
 and continual focus on users; empirical measurement of usage; and
 iterative design."
-
-This page intentionally left blank
 
 Representing Designs'
 Trajectories and Rationales
@@ -6636,8 +6444,6 @@ alternative node the subordinate design decisions occasioned
 by that choice. Ideally, one would associate with each choice
 the rationale for that decision. But decisions are interrelated
 
-16. Representing Designs' Trajectories and Rationales
-
 in many complex ways, each with both simple reasons applying to it alone and reasoning that is shared with siblings and
 cousins.
 
@@ -6724,8 +6530,6 @@ decision to be made) is a node. Sibling design questions such as
 designer must answer each of them. In Blaauw [1997], these are
 called attribute branches.
 
-16. Representing Designs' Trajectories and Rationales
-
 Each design-question node has a child node for each of its
 alternative design options. In the laptop example, one must
 choose the display size from several options. These options are
@@ -6783,8 +6587,6 @@ these requirements.
 We see this pattern again and again in the log. Design work
 doesn't just satisfy requirements, it elicits them. our experience
 resonates with Schön's theory in Chapter 3. A good design process will encourage this phenomenon, rather than suppress it.
-
-16. Representing Designs' Trajectories and Rationales
 
 Design Isn't Simply Selecting from Alternatives, but Also
 Realizing Their Existence
@@ -6864,8 +6666,6 @@ is represented not by a single node in a decision tree, but rather
 by the set of leaves. From such a tree, it is difficult to visualize
 what is the best complete design so far on any given day of the
 design project.
-
-16. Representing Designs' Trajectories and Rationales
 
 The space of all possible designs is a different tree altogether,
 where each node specifies a sub-tree of products, alike in all
@@ -6950,8 +6750,6 @@ been used to get a better understanding of the Brookses' use
 cases (cooking, hosting a meeting, teaching music, and so on).
 Task Architect is neither designed nor readily adapted for reconstructing the decision tree (but we surely did try!).
 
-16. Representing Designs' Trajectories and Rationales
-
 Project Management Tools
 
 Like Task Architect, project management tools, such as Microsoft
@@ -7034,8 +6832,6 @@ DRed12—A Tantalizing Tool
 The biggest success story we've heard about in computer-aided
 design rationale documentation is the widespread use of DRed
 
-16. Representing Designs' Trajectories and Rationales
-
 at Rolls-Royce (RR). DRed was developed by Rob Bracewell at
 Cambridge University's Engineering Design Centre, under the
 sponsorship of Rolls-Royce, BAE Systems, and the UK Engineering and Physical Sciences Research Council.13
@@ -7075,8 +6871,6 @@ divisions and in RR labs across the world, have had at least
 short-course training in DRed use. New engineers learn RR engineering practice in a six-week project course, in teams of four. A
 typical project is a real problem that some group wants solved
 
-Notes and References
-
 and doesn't have the manpower to do; but not an essential project, so trainees are allowed to fail.15
 
 The largest DRed tree the Cambridge team has seen comprised 190 charts, with an average of 15 nodes per chart. There
@@ -7099,8 +6893,6 @@ Unfortunately, DRed is not generally available. RR and BAE
 Systems own the intellectual property, and they currently choose
 to keep it proprietary.
 
-Notes and References
-
 1.
 
 MacLean [1989], "Designing rationale," and Tyree [2005], "Architecture decisions," argue for rationale capture. Moran [1996], Design
@@ -7115,8 +6907,6 @@ Noble [1988], "Issue-based information systems for design"; Conklin
 [1988], "gIBIS"; Lee [1993], "The 1992 workshop on design rationale
 capture and use"; Lee [1997], "Design rationale systems"; Bracewell
 [2003], "A tool for capturing design rationale"; Burge [2008], "Software engineering using RATionale."
-
-16. Representing Designs' Trajectories and Rationales
 
 3.
 
@@ -7171,7 +6961,6 @@ is interpreted."
 UNC–Chapel Hill's software engineering project course applies
 exactly the same criteria for project selection from real users.
 
-IV
 A Computer
 Scientist's Dream
 System for
@@ -7277,8 +7066,6 @@ So one can imagine a house design sequence such as this:
 "Face it north."
 "Mirror-flip it left to right."
 
-17. Dream System for Designing Houses—Mind to Machine
-
 •
 •
 •
@@ -7363,8 +7150,6 @@ a selecting "which" adjectives, phrases, or clauses. The verb may
 have an adverbial phrase (-1). A linguistic curiosity is
 that many verbs assign adjectives to the object noun: "Make this
 door 32 inches wide." "Color the west wall green."
-
-17. Dream System for Designing Houses—Mind to Machine
 
 VERB
 
@@ -7451,8 +7236,6 @@ The library will have all objects in one scale; the frequent
 verb will be Select and Scale, where the scaling is automatically
 set by the current working scale.
 
-17. Dream System for Designing Houses—Mind to Machine
-
 Specifying Nouns
 
 What a variety of ways we use for specifying objects and regions
@@ -7529,8 +7312,6 @@ motion: "The cloud was shaped like this." That's how our Dream
 System should work. Much work has been done on widgets and
 affordances for 3-D specification.10 Much of the work aims to
 yield freehand specification; much of it just provides more awkward substitutes for it.
-
-17. Dream System for Designing Houses—Mind to Machine
 
 Specifying Text
 
@@ -7620,8 +7401,6 @@ a six-degrees-of-freedom tracker housed in a billiard ball whose
 bottom half inch has been sliced off. It is equipped with two buttons readily pushed by the forefinger and the middle finger (Figure 17-2). One glides it over a work surface to move a V-shaped
 cursor on the plan.
 
-17. Dream System for Designing Houses—Mind to Machine
-
 -2 UNC–Chapel Hill EyeBall viewpointer device
 Kelli Gaskill, University of North Carolina
 
@@ -7661,8 +7440,6 @@ as shown in -3.
 -3 Toothpick viewpoint device; copy of a UNC device made
 by Professor Charles Molnar's group at Washington University, St. Louis
 
-17. Dream System for Designing Houses—Mind to Machine
-
 This is readily manipulated, usually by the left hand, to
 specify the direction from which one is looking at the object. The
 rest position has the Toothpick pointing to the user. To give a full
@@ -7688,15 +7465,11 @@ whenever no action was being taken. The controls enabled the
 user to specify both the amplitude and the period of the rocking,
 although usually default values were used.
 
-Notes and References
-
 1.
 
 Brooks [1977], "The computer 'scientist' as toolsmith"; Britton
 [1981], The GRIP-75 Man-Machine Interface; and Brooks [1985], "Computer graphics for molecular studies," describe the system. The user
 interface was remarkable in that it had 21 degrees of freedom for
-
-Notes and References
 
 modifying the model and controlling the display, plus keyboards.
 All were in fact used. No device had more than three degrees of freedom; there was no device overloading. Users instinctively reached
@@ -8044,8 +7817,6 @@ having it featured in a magazine. It would not be too hard to
 automatically winnow a massive central library based on usage.
 If it isn't viewed, out it goes.
 
-Notes and References
-
 1.
 
 Brooks [1995],
@@ -8068,8 +7839,6 @@ view contains much more information than the other, so making
 modifications in the simpler view requires deducing and injecting
 information into the complex view.
 
-Notes and References
-
 4.
 
 5.
@@ -8086,9 +7855,6 @@ cauldron."
 
 The Cathedral and the Bazaar, Chapter 4, "The magic
 
-This page intentionally left blank
-
-V
 Great Designers
 
 Great Designs Come from
@@ -8113,8 +7879,6 @@ that they can change the world, are the ones who do.
 Steve JoBS, aPPle commercial (1997)
 
 Thomas Jefferson
-
-iStockphoto
 
 19. Great Designs Come from Great Designers
 
@@ -8220,8 +7984,6 @@ of tactics may be irrelevant. Consider the iPhone, not really the
 same thing at all as a simple mobile phone, much less the landline instrument Alexander Graham Bell invented and his AT&T
 monopolized.
 
-19. Great Designs Come from Great Designers
-
 By its very nature, a product process is veto-oriented, aimed at
 blocking bad ideas and catching oversights. The process aims to
 inhibit products that won't sell as hoped, products that cost more
@@ -8304,8 +8066,6 @@ for a more capable product, and a readiness to pay more
 for it.
 Yet simultaneously with all these drivers for change, popularity breeds lock-in; users don't want the next product to be
 "revolutionary"—they want what they know and like.
-
-19. Great Designs Come from Great Designers
 
 Thus, follow-on products are much more highly constrained
 and have less room for true innovation. At the same time, success breeds multiple opportunities and possible directions for
@@ -8396,8 +8156,6 @@ enormous.
 
 Even within a team of people of similar education and experience, gifts vary widely. I have had some team members and some
 
-19. Great Designs Come from Great Designers
-
 students who were superbly gifted designers—they glitter in my
 memory. The history of the arts is bejeweled with examples.
 
@@ -8481,10 +8239,6 @@ Fourth, he must be provided with tools and help as he sees
 
 the need. What he is doing is of prime importance.
 
-19. Great Designs Come from Great Designers
-
-Notes and References
-
 1.
 
 2.
@@ -8531,8 +8285,6 @@ delegated the task to a committee of only one person: its President,
 Sir David Davies. The report was done in record time and is crisp
 and forthright, rich with concrete recommendations (Davies [2000],
 Automatic Train Protection for the Railway Network in Britain).
-
-This page intentionally left blank
 
 Where Do Great Designers
 Come From?
@@ -9012,10 +8764,6 @@ design trajectory.
 Assessment: What are the good points in your design? The
 weaknesses?
 
-Notes and References
-
-Notes and References
-
 1.
 
 Schön [1986],
@@ -9132,7 +8880,6 @@ Blaauw and Brooks [1997],
 
 Computer Architecture, Chapters 9–16,
 
-VI
 Trips through
 Design Spaces:
 Case Studies
@@ -9220,8 +8967,6 @@ Children: Kenneth, 14; Roger, 10; Barbara, 7
 Grandmother: Octavia, 71
 Close child friend: Chandler, 10
 
-Objectives
-
 Primary Goal. Our primary goal was to build a comfortable,
 informal vacation home for family and friends that would capitalize on the natural riches of an oceanfront setting. The house
 was not intended as a rental.
@@ -9243,8 +8988,6 @@ Sleep 14 on beds and feed 22 at one seating.
 Provide a Grandmother/Guest Room, a Master Bedroom, a
 Boys' Dorm, and a Girls' Dorm—4 bedrooms.
 Provide plenty of showers and toilets.
-
-21. Case Study: Beach House "View/360"
 
 •
 
@@ -9281,8 +9024,6 @@ Breeze. The house site naturally faces 15º west of south. The
 prevailing sea breeze is south to southwest and blows most of the
 time in warm weather.
 
-Constraints
-
 Budget. There was not enough money to build a finished fourbedroom house at one time.
 
 Time. The family's available time for construction during any
@@ -9317,8 +9058,6 @@ warranty deed, to this land.
 Appearance. External appearances were not constrained, nor
 did we consider them important.
 
-Design Decisions
-
 Build the house over a relaxed period of time.
 
 •
@@ -9338,8 +9077,6 @@ Exploit the 75' lot width. Most beach lots are 50'. Most oceanfront houses are l
 55' allowable width, we turned the house sideways, so that it is
 wider than it is deep. Therefore, a custom floor plan was needed,
 not a book exemplar.
-
-21. Case Study: Beach House "View/360"
 
 Exploit the views.
 
@@ -9395,8 +9132,6 @@ Provide each of the Girls' Dorm, Boys' Dorm, and Master
 Bedroom with a private external door so early risers can slip
 out to the beach without disturbing sleepers.
 
-Design Decisions
-
 •
 
 Divide the house into a bedroom zone and a public-room
@@ -9435,8 +9170,6 @@ room, so the stairs go there.
 
 If the Living Room is to maximize its view on the south and
 be open to the other public spaces on the north, the stairs must
-
-21. Case Study: Beach House "View/360"
 
 be along the east or west wall. The east wall has windows for
 view, light, and breeze, so the stairs go on the west wall.
@@ -9515,8 +9248,6 @@ d = k l4 / w2 t
 where w is the width of the timber, t the thickness, and l the effective length. The effective length is shortened by any cantilever
 beyond the point of support. I chose 4' eaves, based on summer
 
-21. Case Study: Beach House "View/360"
-
 and winter sun angles. The whole calculation yielded a maximum horizontal span length of 16' for twinned 2 x 12s on 4' centers. This determined the depth of the front bedrooms, the Living
 Room, and the Tower.
 
@@ -9580,8 +9311,6 @@ from 8' x 16' to 16' x 16'.
 Swung the Master Bedroom screen door the other way. When
 the bathroom window was open, the screen door wouldn't
 open—a design goof discovered during construction.
-
-21. Case Study: Beach House "View/360"
 
 Design Changes after Shell Construction and Initial
 Occupancy
@@ -9664,8 +9393,6 @@ once derisively called "View/360" "the damned-logical beach
 house" because of the detailed rationale described here and
 shared with him. I've never been sure with what he was contrasting it. The rationality is a private delight for me when I'm there.
 
-21. Case Study: Beach House "View/360"
-
 Exterior. The house is interesting but not beautiful from the
 exterior—form follows function (-3). Cogswell's asymmetrical roofline for the Tower is just right; it seems to leap
 forward.
@@ -9724,8 +9451,6 @@ is often opened for breeze but rarely for passage. The Master
 Bedroom occupants have quiet access to the beach through the
 Kitchen and back door. The Master Bedroom usually gets plenty
 of breeze via its west windows and its two interior doors. Its meager ocean view doesn't matter much because it was intended as
-
-21. Case Study: Beach House "View/360"
 
 a sleeping space, not a living space. So that door could be eliminated if the deck was.
 
@@ -9808,8 +9533,6 @@ The second big lesson (Chapter 11) would be to notice that
 the early addition of the under-house showers to the plan had
 removed the desideratum/constraint of outside access to the
 
-21. Case Study: Beach House "View/360"
-
 main bathroom. Hence I would remove the west deck and reallocate its 42" of frontage.
 
 General Lessons Learned
@@ -9831,8 +9554,6 @@ Inspect often and thoroughly during construction. Even honest, competent, and co
 Think hard about all aspects of maintenance. One maintains
 any successful design a long time.
 
-This page intentionally left blank
-
 Case Study: House Wing
 Addition
 
@@ -9845,8 +9566,6 @@ The sciences of The arTificiaL
 Plan of house after 1991–1992 wing addition
 
 22. Case Study: House Wing Addition
-
-Highlights and Peculiarities
 
 Why This Case? For this design, we have some 235 pages of the
 contemporaneous log of design issues, pros and cons, and decisions made over 60 months. From this log we undertook a formal
@@ -9874,15 +9593,11 @@ chapter and the next one.
 Plenty of Design Time. Design until we were satisfied, unconstrained by any construction schedule goal. In the event, the
 design happened over some 60 months (with substantial interruptions), whereas construction took only 9.
 
-Introduction and Context
-
 Location:
 
 413 Granville Road, Chapel Hill, NC
 The house faces precisely north, so descriptions will be
 given in N, S, E, W terms.
-
-Introduction and Context
 
 Owners:
 
@@ -9922,8 +9637,6 @@ Kitchen, through which all east-west traffic flowed. Moreover,
 each room in the house was experienced as somewhat too small
 for its function.
 
-22. Case Study: House Wing Addition
-
 -1 Main floor as of 1987
 
 When in 1965 we moved in, we had two sons, aged 7 and 3,
@@ -9948,8 +9661,6 @@ Nancy's widowed father, Dr. Joseph Greenwood, had just
 come to live with us permanently, living in the Master Bedroom
 (Guest) suite at the west end. Nancy had inherited her parents'
 
-Objectives
-
 grand piano. This supplemented the one we owned, enabling
 two-piano music.
 
@@ -9963,8 +9674,6 @@ a 500 ft2 addition might be used to make the house more spacious, ideally by shu
 unsuccessful.
 
 So now we began in dead earnest to design an addition.
-
-Objectives
 
 Original Objectives
 
@@ -10004,8 +9713,6 @@ Provide a screened back porch (this became the Sun
 Porch, SP).
 Modernize and enlarge the Kitchen (K).
 
-22. Case Study: House Wing Addition
-
 •
 •
 
@@ -10043,8 +9750,6 @@ Provide storage for family goods currently in rental storage.
 -2 North part of house site
 
 Events
-
-Constraints
 
 Existing Structure. The plan, placement, and orientation of the
 existing structure determined the scope of the remodeling.
@@ -10085,8 +9790,6 @@ Several events changed the design as it proceeded:
 
 Dr. Greenwood died in late 1988.
 The architect's draftsman hired to make construction drawings misaligned the foundations drawing with respect to the
-
-22. Case Study: House Wing Addition
 
 main-floor drawing. This discrepancy was discovered after
 the foundation was poured. The fix was to enlarge the main
@@ -10141,8 +9844,6 @@ house redesign into three almost separate problems:
 •
 
 Old East: the bedroom end, perhaps including the Playroom
-
-22. Case Study: House Wing Addition
 
 •
 
@@ -10230,8 +9931,6 @@ One solution would be to enlarge the coat closet, quite substantially. Another w
 End, move into it as the Master Bedroom, and quit redesigning
 the East End. The gross cost: making the westward extension
 
-22. Case Study: House Wing Addition
-
 larger, by at least the present width of the Guest Room. The net
 cost: gross cost less the East End costs not undertaken.
 
@@ -10297,8 +9996,6 @@ Second, it neatly smooths over the joint between the old house's
 eave lines (-4).
 
 -4 View of the remodeled house from a northeast approach
-
-22. Case Study: House Wing Addition
 
 Basement Storage. A late-discovered opportunity was the possibility of putting cheap storage space under the west wing,
 because the terrain falls off so rapidly. Modest excavation and
@@ -10380,8 +10077,6 @@ so the house can feed a lot of seated people.
 Front Porch. The two facing swings make a separate conversation nook that is often used. The main entrance is now evident;
 the appearance, much improved.
 
-22. Case Study: House Wing Addition
-
 New Functions
 
 The redesigned house turned out to meet needs that we didn't
@@ -10407,8 +10102,6 @@ with broad steps and equipped with a fold-down table. This has
 proved to be a good outdoor eating and meeting space for the
 IVCF chapter. The steps provide a lot of seating.
 
-General Lessons Learned
-
 1.
 
 2.
@@ -10421,8 +10114,6 @@ benefited greatly from more design time before implementation got under way. I d
 cost more in total.
 Talk many times, lengthily, with the principal user(s), showing prototypes they can understand.
 
-Notes and References
-
 3.
 4.
 
@@ -10430,8 +10121,6 @@ Run lots of use scenarios.
 Double-check the work of professionals, such as architects,
 draftsmen, and decorators. Make sure you understand it, and
 that it's accurate.
-
-Notes and References
 
 1.
 
@@ -10456,8 +10145,6 @@ University of North Carolina at Chapel Hill
 
 23. Case Study: Kitchen Remodeling
 
-Highlights and Peculiarities
-
 Why This Case? This simple case illustrates the power of design
 tools. Drawings, computer-assisted design (CAD) software, scale
 models, full-scale mock-ups, and a virtual-environment (VE)
@@ -10470,8 +10157,6 @@ Room. Creating this door transformed all house traffic.
 
 Skylights. Two skylights transformed the dark, north-facing
 kitchen into a bright, pleasant space.
-
-Introduction and Context
 
 Location:
 
@@ -10491,18 +10176,12 @@ Dates:
 
 1995–1996
 
-Context
-
 This design was Phase II of a 1990s remodeling of a 1960s house.
 Phase I consisted of the addition of a West Wing, a Foyer, and a
 Porch. It is described in Chapter 22. Phase II was scheduled a few
 
-Objectives
-
 years later than Phase I to enable ample design time for Phase II
 and plenty of oversight for Phase I construction.
-
-Objectives
 
 Primary Goals. Our principal objectives were to enlarge, rearrange, and brighten a small, dark, north-facing kitchen–breakfast room.
 
@@ -10559,10 +10238,6 @@ Add a decorative bird mural to the dull brick chimney wall.
 Conceal miscellany in cabinets.
 Display a small amount of glassware.
 
-23. Case Study: Kitchen Remodeling
-
-Opportunities
-
 Smaller Family. The family had shrunk, due to the children
 growing up. So normal kitchen-eaten meals would be for two,
 occasionally three, exceptionally four, rather than routinely five.
@@ -10570,15 +10245,13 @@ occasionally three, exceptionally four, rather than routinely five.
 Space Available in the Playroom. Due to the 1992 construction
 of a music-teaching studio in the new West Wing, a 5' x 5' space
 formerly occupied by an organ became available, as well as a 2' x
-6' space formerly occupied by hi-fi equipment.
+6' space formerly occupied by hi-fiequipment.
 
 Three-Foot Eaves. Due to Frank Lloyd Wright's inspiration of
 1960s ranch-style houses, this house had deep eaves.
 
 Design Time and Effort Budget. These were essentially
 unlimited.
-
-Constraints
 
 User Height. The primary user of the kitchen is 5'1" tall.
 
@@ -10602,8 +10275,6 @@ Playroom Exterior Door. The function of this door was essential, but the placeme
 Back Door. Placement in the brick wall made moving it
 expensive.
 
-Constraints
-
 Existing Laundry/Toilet. This room did not need to be
 changed.
 
@@ -10624,8 +10295,6 @@ Rest of House in Use. Other rooms would be in constant use
 during construction.
 
 -1 Kitchen plan before remodeling
-
-23. Case Study: Kitchen Remodeling
 
 Rationing the Critical Width Budget
 
@@ -10733,8 +10402,6 @@ Resulting Width Design
 With an extra 24" from push-out and 9" from moving the pantry,
 the width constraint was greatly relaxed. The island was widened
 
-23. Case Study: Kitchen Remodeling
-
 from 24" to 36" to provide serving, staging, and storage space.
 The north passage was widened to 39"; the south passage, to 44".
 
@@ -10796,8 +10463,6 @@ It also provides staging for the refrigerator and an optional extension to the m
 
 Low East Work Counter. The east work counter was made
 low for the convenience of the shorter user. It also enables a tallappliance garage.
-
-23. Case Study: Kitchen Remodeling
 
 Appliance Garage. This space is embedded in the adjacent
 closet through the south wall.
@@ -10897,8 +10562,6 @@ Much effort was put into the design because
 Kitchen satisfaction accounts for much of the total satisfaction with a house.
 Kitchens are intensively used.
 
-23. Case Study: Kitchen Remodeling
-
 •
 
 •
@@ -10991,10 +10654,6 @@ seen to be effective.
 Other findings showed improvements needed in the VE
 apparatus and techniques.
 
-23. Case Study: Kitchen Remodeling
-
-General Lessons Learned
-
 1.
 
 2.
@@ -11044,14 +10703,10 @@ included a touchable mock-up as well as a visual image traversed a real maze (bl
 radically fewer errors than those trained in the same VE with
 only the visual images.
 
-Notes and References
-
 Consequently, I believe mock-ups, exercised by use scenarios, will continue to be worth their substantial effort and
 cost when one is designing an intensively used space, such
 as a kitchen, or one that will be widely replicated, such as an
 office in a multi-office building.
-
-Notes and References
 
 1.
 
@@ -11066,7 +10721,6 @@ virtual environments."
 
 Memory
 
-Memory
 Address
 
 Memory Data
@@ -11080,7 +10734,6 @@ Instruction
 Op R1 B
 
 R2
-X
 
 General Register 0
 
@@ -11113,8 +10766,6 @@ Blaauw and Brooks [1997], Computer Architecture, -78
 
 24. Case Study: System/360 Architecture
 
-Highlights and Peculiarities
-
 Boldest Decision. Drop all further development of each of
 IBM's six existing product lines in favor of one new product line,
 exposing the existing customer base to competitors' computers
@@ -11128,8 +10779,6 @@ Bob O. Evans made it a decision.
 
 Bold Decision. Base the architecture on an 8-bit byte, making
 obsolete all existing I/o and auxiliary devices, even card punches.
-
-Introduction and Context
 
 Owner:
 
@@ -11147,14 +10796,10 @@ Dates:
 
 1961–1964
 
-Context
-
 Few computer architectures have had their rationales so thoroughly discussed as the IBM System/360 product family. The
 "Notes and References" section gives some of the most important
 rationale discussions.1 This case-study essay will therefore hit
 only the high spots.
-
-Introduction and Context
 
 In 1960 it was clear that IBM's second-generation (discretetransistor technology) computer product lines were running out
 of architectural gas (memory-addressing capacity, principally).
@@ -11200,8 +10845,6 @@ June work started on a new integrated-circuit DSD product line.
 Evans put me in charge, a totally unexpected action by a very
 big-minded man.
 
-24. Case Study: System/360 Architecture
-
 Meanwhile, corporate technical staffer Donald Spaulding
 became convinced that IBM needed a unified, corporate-wide
 new product line, not just a new DSD line that addressed only
@@ -11224,8 +10867,6 @@ line authority has money and people.
 The SPREAD report called for six computers to be developed
 initially, with an ultra-low-cost machine and a super-supercomputer to come within a couple of years. The first six were christened Models 30, 40, 50, 60, 64, and 70; the later two, Models 20
 and 90. Models 20 and 30 would be GPD responsibilities; the others, DSD responsibilities.
-
-Objectives
 
 Primary Goals
 
@@ -11291,8 +10932,6 @@ existing product lines had exhausted their addressing capacities,
 one or more major architectural revisions would be necessary.
 This gave us the opportunity to apply many lessons learned from
 first- and second-generation computer uses and users. These lessons were hard to exploit within the old architectures.
-
-24. Case Study: System/360 Architecture
 
 New, Cheaper Technology.
 IBM's technology division was in
@@ -11369,8 +11008,6 @@ Amdahl proposed that we have an internal design competition.
 His idea worked brilliantly—Amdahl's team and Blaauw's team
 each independently came up with a base-register solution to the
 address-size problem. So we adopted that.
-
-24. Case Study: System/360 Architecture
 
 24-Bit Addresses. We reluctantly settled on this size, with
 addressing to the byte. We knew, and I publicly predicted in
@@ -11450,8 +11087,6 @@ for 7090, 7074, and 7080 customers.5
 
 At a crucial point in January 1964, William Harms, Gerald Ottoway, and William Wright devised almost overnight
 
-24. Case Study: System/360 Architecture
-
 a microprogrammed emulation of the 1401 on the Model 30.
 This mightily addressed the biggest single customer conversion
 problem.
@@ -11491,8 +11126,6 @@ Fall 1962. A first draft of the architecture manual is produced.
 
 Fall 1963. The architecture manual is frozen.
 
-Assessment
-
 January 1964. There is a major product fight between S/360
 Model 30 and GPD's 1401S, a six-times-faster 1401 successor
 pushed by Haanstra, now Division President of GPD. S/360 won
@@ -11508,8 +11141,6 @@ August 1972. System/370 virtual memory is announced.
 Early 1980. System/370 XA 31-bit architecture is announced.
 
 2000. z-Series 64-bit architecture is announced.6
-
-Assessment
 
 Firmness
 
@@ -11534,8 +11165,6 @@ also changed system design radically.8
 Gene Amdahl licensed S/360 architecture and implemented
 it exactly in the highly successful Amdahl Corporation computer
 family. RCA licensed the architecture and used it in its Spectra 70
-
-24. Case Study: System/360 Architecture
 
 family. Although RCA faithfully implemented all the architecture
 affecting Problem Mode, its architects chose to do an idiosyncratic
@@ -11577,8 +11206,6 @@ The new database techniques were well served by this model,
 and it and its descendant models dominated the field. It also did
 very well as the engineering computing workhorse. The serious
 
-Assessment
-
 competitors were mostly themselves computers with S/360 architecture, the so-called plug compatibles, usually running OS/360
 software.
 
@@ -11611,8 +11238,6 @@ above, Branch and Link uses high-order address bits that should
 have been reserved for the expansion to 32-bit addresses. Load
 Address cleared those same high-order bits.
 
-24. Case Study: System/360 Architecture
-
 A smaller mistake is that we initially failed to provide a
 guard digit in the definition of floating-point operations. We had
 to field-modify the first S/360 computers after delivery.
@@ -11629,11 +11254,8 @@ What was achieved by these multiple concurrent architectures was a truly general
 suitable processor, memory, and especially I/O configurations, to
 all kinds of applications and performance needs.
 
-Memory
-
 Memory Data
 
-Memory
 Address
 
 Floating Arithmetic
@@ -11667,9 +11289,6 @@ Floating Register 6
 -1 System/360 floating-point dataflow
 Blaauw and Brooks [1997], Computer Architecture, -79
 
-General Lessons Learned
-
-Memory
 Address
 
 Mem
@@ -11696,8 +11315,6 @@ Adder
 -2 System/360 byte-by-byte dataflow
 Blaauw and Brooks [1997], Computer Architecture, -80
 
-General Lessons Learned
-
 1.
 
 2.
@@ -11707,8 +11324,6 @@ much better and useful longer, and it might even make delivery sooner by reducin
 Having multiple concurrent implementations of the same
 architecture strongly protects the architecture from bad compromises, when it is discovered that an implementation has
 (usually inadvertently) departed from the architecture. With
-
-24. Case Study: System/360 Architecture
 
 only one implementation, it is always easier, cheaper, and
 faster to change the manual rather than the machine. Chapter 6 of The Mythical Man-Month treats this and other methods of ensuring conformity of implementation to architecture
@@ -11737,8 +11352,6 @@ concepts.
 
 5.
 
-Notes and References
-
 1.
 
 The most important treatments of the S/360 architecture rationale are
@@ -11756,8 +11369,6 @@ Blaauw and Brooks [1997],
 Evans [1986], "System/360: A retrospective view"
 
 Computer Architecture, Section 12.4
-
-Notes and References
 
 •
 
@@ -11882,8 +11493,6 @@ for real-time database access and batch job execution.
 Primitive Time-sharing. The system is not designed for interactive terminal programming and debugging, so it supports it in
 less efficient ways.
 
-Introduction and Context
-
 Virtual Memory Added Somewhat Later. As originally shipped,
 S/360 computers and the OS/360 package did not provide virtual memory. Both were changed in the first subsequent iteration,
 and all versions had virtual memory by 1970.
@@ -11896,8 +11505,6 @@ different macro use traditions of the scientific-computing and the
 commercial data-processing communities, was provided as one
 of the language packages. By 1966, measurements of some large
 installations showed that application programs written in assembler accounted for only about 1 percent of computer time.
-
-Introduction and Context
 
 From its inception in 1961 until mid-1965, I had the once-in-alifetime opportunity to manage the IBM System/360 Computer
 Family Project—first the hardware and then the Operating System/360 software package. This computer family, announced on
@@ -11915,8 +11522,6 @@ building a software support package of unprecedented richness
 and completeness. I shall describe the OS/360 software package
 in the present tense, since its linear descendants are still major
 players in the mainframe world.
-
-25. Case Study: IBM Operating System/360
 
 The term Operating System/360, or OS/360, is used ambiguously to describe both an entire software support package—
 operating system proper, language compilers, and utilities—and,
@@ -11953,8 +11558,6 @@ In practice, our first hardware implementations ranged from 8
 to 64 bits wide in dataflow and had various memory and circuit
 speeds.
 
-Introduction and Context
-
 Software Context as of 1961
 
 Operating Systems. First-generation operating systems were
@@ -11985,8 +11588,6 @@ converting from punched-card installations.
 
 The evolution of assembler programs was technically interesting. The classical two-pass assembler had sprouted two preliminary passes that constituted a macro-operation generator
 with rich compile-time capabilities, including branching and
-
-25. Case Study: IBM Operating System/360
 
 looping. Such macro assemblers were used in two quite different ways.
 
@@ -12063,8 +11664,6 @@ manual operator control. A corollary of OS control, pioneered in
 Stretch, and routine today, is that the keyboard or console is just
 another I/O device, with very few buttons that directly do anything (for example, Power, Restart).
 
-25. Case Study: IBM Operating System/360
-
 Teleprocessing, but Not Time-sharing. OS/360 was designed
 from the ground up as a teleprocessing system, but not really
 a terminal-based time-sharing system. This concept contrasts
@@ -12101,8 +11700,6 @@ any of the system protection mechanisms, causes an interruption,
 giving the instruction counter back to the Supervisor. Asynchronous
 event reports from I/O devices, such as operation completions,
 do the same. Moreover, the Supervisor controls a protected
-
-Design Decisions
 
 elapsed-time clock that interrupts, so it can seize control after
 any specified interval, thus stopping endless loops in buggy
@@ -12142,8 +11739,6 @@ Data Management. Although strict program compatibility was
 the most distinctive new concept of the System/360 computer
 family, the rich set of I/O devices was its most important system
 attribute in terms of application breadth, configuration flexibility, and performance enhancement. The single standard mechanical, electrical, and logical I/O interface radically reduced the
-
-25. Case Study: IBM Operating System/360
 
 engineering cost for new I/O devices, radically simplified system configuration, and radically eased configuration growth and
 change.
@@ -12189,10 +11784,6 @@ head and the sorter pocket is fixed and short. In banks' checkrouting and check-
 magnetic-ink numerals along the bottom of the check at a reading station and then route the check into one of some 24 pockets,
 at a rate of up to 40 checks/second.6
 
-Assessment
-
-Assessment
-
 The Successes
 
 Full Function, Universal Applicability. OS/360 established a
@@ -12227,8 +11818,6 @@ Featuritis is even now not yet dead in the software community.
 
 Two quite different debugging systems are provided,
 one conceived for interactive use from terminals with rapid
-
-25. Case Study: IBM Operating System/360
 
 recompilation, the other conceived for batch operation. It was the
 best batch debugging system ever designed, yet totally obsolete
@@ -12307,11 +11896,7 @@ OS/360 Assistant Project Manager: Dick Case
 
 OS/360 Manager from 1965: Fritz Trapnell
 
-25. Case Study: IBM Operating System/360
-
 The best single document is the Concepts and Facilities manual, written by Bernard Witt.9,10
-
-General Lessons Learned
 
 1.
 
@@ -12324,8 +11909,6 @@ Take the time necessary to do a sound design and prototyping, whatever the sched
 be completed sooner, not later, because of time so invested.
 Chapters 21–24 illustrate the benefits of enough design time;
 this one illustrates the opposite.
-
-Notes and References
 
 1.
 
@@ -12385,8 +11968,6 @@ concepts and approaches.
 
 Software Architecture and Design, elaborates on the design
 
-This page intentionally left blank
-
 Case Study: Book
 Design of Computer
 Architecture: Concepts
@@ -12402,8 +11983,6 @@ Book writing has logarithmic convergence.
 Dust jacket of Blaauw and Brooks [1997], Computer Architecture
 
 26. Case Study: Book Design of Computer Architecture
-
-Highlights and Peculiarities
 
 Bold Decision. Stick with a narrow but quite precise definition
 of computer architecture as the scope of the work. Although we
@@ -12437,8 +12016,6 @@ a single vast unified decision tree for computer architecture. This
 formalism, of course, treats design as problem solving by search
 of a well-defined space, which model I argue vigorously against
 
-Introduction and Context
-
 in this book! My view of design has broadened and deepened
 since we did that book.
 
@@ -12458,8 +12035,6 @@ extensive subject index leads especially to those definitions and
 their substantial treatments, as well as all occurrences. There are
 separate person-name and machine-name indexes. The bibliography contains over 500 items. The book may be useful as a reference long after the didactic material is useful for teaching.
 
-Introduction and Context
-
 Authors:
 
 Gerrit A. Blaauw and Frederick Brooks
@@ -12468,8 +12043,6 @@ Dates:
 
 ~1971–1997
 
-Context
-
 Both of us had left the practice of computer architecture and were
 teaching courses in the subject. The book grew as we needed course
 material. After about two course administrations apiece, we undertook to design a book, not principally as a text for students, but as
@@ -12477,8 +12050,6 @@ a systematic treatment for practitioners. We did include extensive
 exercises, designed for both class use and self-study.
 
 26. Case Study: Book Design of Computer Architecture
-
-Objectives
 
 From the Preface to Computer Architecture:
 
@@ -12496,8 +12067,6 @@ factors pro and con on the various known solutions to design
 problems. Each architect will then be able to provide his own set
 of weightings to these factors as dictated by his application, his
 technology, and his taste and ingenuity."
-
-Opportunities
 
 Because we had worked closely together for eight years at IBM,
 communication was easy and thought patterns familiar. This
@@ -12519,15 +12088,9 @@ Book preparation time and effort budget were essentially
 unlimited. Or so we thought. This was a major mistake. In the
 event, the book was too late to be of maximum influence and use.
 
-Assessment
-
-Constraints
-
 Each of us had active research programs and teaching schedules,
 as well as growing children. After starting this book, each of us
 published a related book. So this book often languished.
-
-Design Decisions
 
 Sequence.
 In any expository writing, sequence is the hardest
@@ -12545,8 +12108,6 @@ computer zoo."
 The "Highlights and peculiarities" section above enumerates
 
 other major design decisions that need no further elaboration.
-
-Assessment
 
 Firmness. As measured by permanence, the design is firm. After
 13 years, its usefulness is not diminished nor its treatments obsoleted, although it must be supplemented by material describing
@@ -12581,8 +12142,6 @@ easy; much of the zoo discussion assumes the concepts introduced and expounded i
 Book writing has logarithmic convergence. Checking the last
 few uncertain facts, fixing the last few glitched figures, verifying the last few obscure references—these tasks take inordinate proportions of the total effort. The hardest little tasks get
 put off until the end.
-
-This page intentionally left blank
 
 DUKE
 3 BOARD MEMBERS
@@ -12657,8 +12216,6 @@ as of 1980
 
 27. Case Study: A Joint Computer Center Organization
 
-Highlights and Peculiarities
-
 Bold Decision. Establish this as a joint center. Three universities would pool their resources, co-own, and operate a single
 high-performance computation center.
 
@@ -12693,8 +12250,6 @@ In 1964, few higher-education institutions in North Carolina (other than the TUC
 computing capability or know-how. A separate organization, the
 North Carolina Computer Orientation Project under the North
 
-Introduction and Context
-
 Carolina Board of Higher Education, rented TUCC capacity and
 offered other North Carolina universities and colleges
 
@@ -12720,8 +12275,6 @@ It was made obsolete by the minicomputer revolution, although
 the institutions operated a joint supercomputer center specialized
 for scientific applications for many years thereafter, under a different organizational model.
 
-Introduction and Context
-
 Location:
 
 Research Triangle Park, NC
@@ -12741,10 +12294,6 @@ TUCC Board of Directors
 Dates:
 
 1964–1992
-
-27. Case Study: A Joint Computer Center Organization
-
-Context
 
 Duke University, North Carolina State University, and the University of North Carolina at Chapel Hill each had first-generation computers, operated by centralized computer centers. Each
 needed to upgrade in capacity and capability. Each wanted more
@@ -12788,8 +12337,6 @@ Ensure that decisions are made efficiently and expeditiously.
 Ensure that each owner's users get a fair share of all
 resources.
 
-Opportunities
-
 •
 •
 
@@ -12802,8 +12349,6 @@ Ensure that no owner loses on an issue of critical selfinterest.
 Enable the center to operate as a single center, not three partitions, for economies of scale—one staff, one set of equipment,
 one job stream.
 Enable owners to change their contributions to the joint center and thereby get more or less service.
-
-Opportunities
 
 Economies of Scale. At the time of design, the economies of
 scale of running one big center instead of three little ones were
@@ -12829,10 +12374,6 @@ the pioneering nature of the model would also attract the attention of funders.
 Attract Industrial Support. The scale and national visibility of
 a joint center would make it a likely candidate for substantial
 support from industry.
-
-27. Case Study: A Joint Computer Center Organization
-
-Constraints
 
 Speed of Operating Decisions. Daily operations had to be
 managed crisply and efficiently.
@@ -12866,12 +12407,8 @@ be slow.
 Some Fractious and/or Stubborn Individuals. Some of the
 players had reputations of being strong-willed and stubborn.
 
-Design Decisions
-
 Careful Separation of Policy and Operations. Policy was to be
 determined by a board of directors, meeting monthly; operating
-
-Design Decisions
 
 decisions were to be made by a staff under a CEO, the Director
 of TUCC.
@@ -12925,8 +12462,6 @@ for Issues of Fundamental Importance. Note that this did not
 require all members of the board to agree even in such a case.
 Two-thirds of any owner's delegation decided its vote.
 
-27. Case Study: A Joint Computer Center Organization
-
 Escape Hatch. Any owner institution could declare any issue
 to be an Issue of Fundamental Importance, requiring unanimity
 by institutions. This procedure was made suitably onerous—the
@@ -12953,8 +12488,6 @@ Between staff and board
 Between majority and minority, by institutions and fractious
 individuals
 Between academic users and administrative users
-
-Assessment
 
 Firmness
 
@@ -13015,8 +12548,6 @@ Careful and explicit identification at the beginning of the vital
 interests of each of the three university partners and of the
 central facility's director was a big help in arriving quickly at
 agreed-upon organization mechanics.
-
-27. Case Study: A Joint Computer Center Organization
 
 2.
 

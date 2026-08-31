@@ -1,4 +1,3 @@
-
 PEACE BY
 PEACEFUL MEANS
 
@@ -30,8 +29,6 @@ Kumar Rupesinghe & Khawar M umtaz, eds: Internal Conflicts in South Asia ( \996)
 
 J"rn Gjelstad & Olav Nj"lstad, eds: Nuclear Rivalry and International Order (\996)
 
-Copyrighted Material
-
 PEACE BY
 PEACEFUL MEANS
 
@@ -46,8 +43,6 @@ International Peace Research Institute, Oslo
 
 SAGE Publications
 London • Thousand Oaks· New Delhi
-
-Copyrighted Material
 
 IC International Peace Research Institute, Oslo 1 996
 
@@ -84,8 +79,6 @@ ISBN 0 8039 7510 4
 Library of Congress catalog record available
 
 Typeset by M Rules
-
-Copyrighted Material
 
 Contents
 
@@ -134,8 +127,6 @@ Conclusion: Peace and Conflict, Development and Civilization
 
 Index
 
-VII
-
 8 1
 1 03
 1 14
@@ -147,10 +138,6 @@ VII
 
 1 96
 2 1 1
-
-Copyrighted Material
-
-Copyrighted Material
 
 Preface
 
@@ -202,8 +189,6 @@ and inter-generation violence even more so. So is intra-personal violence, both 
 pose of the whole exercise is to promote peace, not only peace studies, a non-positivistic
 epistemology is indispensable, with explicit values and therapies, rather than stopping
 once the diagnosis has been pronounced.
-
-Copyrighted Material
 
 VIll
 
@@ -271,8 +256,6 @@ Johan Galtung
 Honolulu, Hawai'i
 March 1995
 
-Copyrighted Material
-
 INTRODUCTION:
 
 VISIONS OF PEACE
@@ -322,8 +305,6 @@ tip the system into an ill-state. In the positive case the equilibrium is more s
 ing there is more capacity of Self-restoration even if the system may not be entirely
 symptom-free. Curative therapy aims at the former, preventive at the latter. Both are
 needed for health, and for peace.
-
-Copyrighted Material
 
 I NTRODUCTION
 
@@ -382,8 +363,6 @@ direct violence.
 
 Two types of therapies or remedies have been indicated above: curative and preventive,
 aiming at negative and positive peace respectively. And four types (with the two
-
-Copyrighted Material
 
 INTRODUCTION
 
@@ -484,8 +463,6 @@ ognize something; few will recognize all the points made or necessarily agree. T
 is essential if the peace movement is to grow and become at least as influential as the anti­
 slavery and anti-colonialist movements were in their time. Being against war is a good
 
-Copyrighted Material
-
 INTRODUCTION
 
 moral position, but the questions of alternatives to war and the conditions for abolition of
@@ -543,8 +520,6 @@ Bringing government closer to the people, through con federal forms of cooperati
 rather than federations and unitary states, through decentralization inside countries and
 initiatives and referenda, would also help. But these are not panaceas: people are not
 always peaceful. People, 'civil society', can also kill.
-
-Copyrighted Material
 
 INTRODUCTION
 
@@ -607,8 +582,6 @@ later in Part I, Chapter 4.
 The problem here is not only economic practice, but also economic theory with its care­
 fully nursed neglect of the side-effects of economic activity, the externalities. Some of
 
-Copyrighted Material
-
 INTRO DUCTION
 
 them are positive, like the challenge derived from taking on complex problems for which
@@ -662,11 +635,9 @@ legitimizer of violence, but also of peace. Where do we find the key carriers of
 The easy answer would be 'religion and ideology', since people are known to kill in the
 name of either. However, not all religions or ideologies are violent; some are even out­
 spoken in their advocacy of nonviolence. Or, to use the formulation preferred here:
-religions and ideologies can come in hard and sofi varieties, the harder varieties tending
+religions and ideologies can come in hard and sofivarieties, the harder varieties tending
 to focus on some abstract, transcending goal and the softer ones on empathy, even com­
 passion. Examples of the former would be the triumph of a transcendent God, for
-
-Copyrighted Material
 
 INTRODUCTION
 
@@ -730,8 +701,6 @@ transnational corporation.
 
 In the face of two potential major errors, peace can be made only by elites, or only by
 
-Copyrighted Material
-
 INTRO DUCTION
 
 non-elites, the challenge is to commit neither error, trying to use both tracks. Maybe the
@@ -791,8 +760,6 @@ A and B should cooperate in reducing these consequences wherever they appear.
 and Why?', pp. 75-97 in L. Kriesberg & D.R. Segal, Research in Social Movements. Conflicts and
 Change, vol. 14 (Greenwich, CT: JAI Press, 1 992).
 
-Copyrighted Material
-
 PART I
 
 PEACE THEORY
@@ -843,8 +810,6 @@ A suitable point of departure is the distinction between three branches of peace
 Empirical peace studies, based on empiricism: the systematic comparison of theories
 with empirical reality (data), revising the theories if they do not agrep. with the data­
 data being stronger than theory.
-
-Copyrighted Material
 
 to
 
@@ -908,8 +873,6 @@ preted. Applaudable policies can and should be applauded. Defendants are at time
 acquitted. But law rarely offers praise, and criticism rarely concludes 'neither good, nor
 bad'.
 
-Copyrighted Material
-
 PEACE STUDIES: EPISTEMOLOGICAL BASIS
 
 I I
@@ -959,8 +922,6 @@ THEORIES L---
 -� VALUES
 
 Constructivism
-
-Copyrighted Material
 
 --
 --
@@ -1030,10 +991,6 @@ more promising, approach is to explore a fully fledged empirical reality that is
 phic, structurally similar, to the potential reality one hopes to bring about, like deriving
 hypotheses about peace from healthy life.
 
-Copyrighted Material
-
-PEACE STUDIES: EPISTEMOLOGICAL BASIS
-
 1 3
 
 1.4 Science as Invariance-Seeking and -Breaking Activity
@@ -1090,8 +1047,6 @@ The core value. peace. has to be well. but not too well. defined.
 
 If the value of peace is the guiding light for peace studies, for the empirical, critical, and
 constructive branches, then this term must be defined. Much work has to be done to
-
-Copyrighted Material
 
 PART I : PEAC E T H EORY
 
@@ -1151,10 +1106,6 @@ with an additional definition of (positive) peace as the presence of symbiosis a
 in human relations; nor with the thesis that positive peace is the same as absence of
 structural and cultural violence. These and others are matters of informed dissent, with
 schools forming around different definitions and theses. Disagreement among scholars
-
-Copyrighted Material
-
-PEACE STUDIES: EPISTEMOLOGICAL BASIS
 
 1 5
 
@@ -1216,11 +1167,7 @@ much work has to be put into the values as into the data and the theories. Confe
 peace studies can safely have 'Definitions of Peace' as a permanent item on their agendas.
 In short, 'objectivity' in the sense of reflecting an underlying unchanging reality,
 
-Copyrighted Material
-
 1 6
-
-PART I : PEACE THEORY
 
 however dynamic, is rejected and is also on its way out in the natural sciences. Objectivity
 as an inter-subjective dialogue based on explicit premises is what is argued here: in other
@@ -1277,10 +1224,6 @@ The result, then, is an undulating process with an unstable equilibrium between 
 turning points. Unlike the linear Manichean process, this cyclical (or spiraling) yin/yang
 process has no final state, no ultimate triumph of good over evil (or vice versa). The per­
 spective is richer, but it impedes action, letting yin/yang run its course. By contrast,
-
-Copyrighted Material
-
-PEACE STUDIES: EPISTEMOLOGICAL BASIS
 
 1 7
 
@@ -1343,11 +1286,7 @@ a priori knowledge, only as a heuristic for hypotheses. More particularly, we sh
 the diagonals in a fourfold table because there are two, usually different, processes oper­
 ating. Thus, the static Cold War way of talking about North-South conflict and
 
-Copyrighted Material
-
 1 8
-
-PART I : PEACE THEORY
 
 East-West conflict as two separate phenomena, forgetting the inner contradictions in all
 categories, their transient nature, forgetting the Northwest-Southeast conflict, and for­
@@ -1433,8 +1372,6 @@ First, the main diagonal of same mode phenomena, starting with two sets of event
 duced in two parts or 'corners' of the system. As they mirror, topologically, human
 action in general and speech in particular, both of which are discontinuous phenomena,
 
-Copyrighted Material
-
 PEACE STUPIES: EPISTEMOLOGICAL BASIS
 
 1 9
@@ -1500,10 +1437,6 @@ A focus on diachrony, phenomena through time, should not overshadow the equally 
 nificant focus on synchrony, on phenomena in time, at the same time. If the mathematical
 language for diachronic phenomena is a time series, depicted as (interlocking) trajectories,
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 the mathematical language for synchronic phenomena would be geometrical. The over­
 arching concept is a structure, S, defined as a set of elements, E, with a set of relations,
 R. relating those elements; S = SeE, R). The relations may be divided into synchronic and
@@ -1564,10 +1497,6 @@ thing. It is only in monotheist minds that theories exclude each other.
 What would then correspond to pantheism and to atheism? Pantheism is all-permeat­
 ing: God not above, but immanent, within. Translation: the meaning is in the explicandum
 
-Copyrighted Material
-
-PEACE STUDIES: EPISTEMOLOGICAL BASIS
-
 itself; that which is to be explained is its own explanation - not derived from above, but
 derived from itself. The Buddhist wheel, interlinking insights, giving prominence to none
 of them, neglecting none, illustrates this: the meaning is in the field spun by the insights.
@@ -1626,10 +1555,6 @@ sciences. If not, they have to break their way into it, not a very easy task.
 What follows from the above section for all these eight points? In general terms,
 expand the intellectual profile so as to cover all of them. Break through that artificial
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 value barrier - by doing data, theory, and education from 9 am to 5 pm and anything
 that smacks of value from 5 pm to 9 am. Be a fully fledged student/researcher.
 
@@ -1687,15 +1612,9 @@ Peace studies demands an epistemology that sees the world as flexible, and that 
 duces equally flexible images of that world.
 ,�.
 
-Notes
-
 I . See lohan Galtung, Methodology and Ideology (Copenhagen: Ejlers, 1977), ch. 2.
 2. Actually, the name of the field, 'international relations' ('IR' for short) is a misnomer. 'Inter­
 state relations' is what is usually meant, and even so 'inter-country relations' would be better, the
-
-Copyrighted Material
-
-PEACE STUDIES: EPISTEMOLOGICAL BASIS
 
 State being only one organization inside the country with no monopoly on 'foreign affairs' in the age
 of the TNCs for Capital, and the INGOs or IPOs (international people's organizations) for Civil
@@ -1731,8 +1650,6 @@ or without the lion and the lamb.
 7. See Johan Galtung, Methodology and Development (Copenhagen: Ejlers, 1 988), ch. 1; and
 
 Essays in Peace Research, vol. VI (Copenhagen: Ejlers, 1 988), ch. 14.
-
-Copyrighted Material
 
 Peace Studies: Some B asic Paradigms
 
@@ -1783,8 +1700,6 @@ patient, on a set of diseases described in pathology texts. There are subdivisio
 egorizing strokes according to the blood-vessel affected. With the development of
 medicine as a science, the system for classifying has become more refined, with more
 descriptions (connotata) and fewer illnesses (denotata) per class and sub(sub-sub)-c1ass.
-
-Copyrighted Material
 
 PEACE STUDIES: BASIC PARADIGMS
 
@@ -1864,10 +1779,6 @@ into
 
 iIlness-wellness,
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 acceptable-unacceptable aims at being exhaustive and mutually exclusive. The problem is
 that there can be illness in wellness (a sense of superiority? carelessness? insensitivity to the
 illness of both Self and Others?) and wellness in illness (the negations of the above, and the
@@ -1924,10 +1835,6 @@ it?' that is the ultimate test of whether peace studies has come of age. A rich 
 intervention routines with an adequate correspondence to the set of diagnoses is called
 for; and we are far away from that. Or, is it mainly a question of bringing dispersed
 knowledge together? And of using several nonviolent therapies?
-
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
 
 Or a more strategic question, knowing what to do, why and how and in addition when
 and where, by whom and to or with whom, and, perhaps also against whom? What and
@@ -1994,8 +1901,6 @@ irrational in a world where the political class, owners or administrators of sta
 themselves as having monopoly both on the ultimate means of force and on the ultimate
 decisions in foreign affairs. These two find a ready combination in wars.
 
-Copyrighted Material
-
 PART I: PEACE TH EORY
 
 2 Peace Research-People. own country This is also known as peace education or popu­
@@ -2053,10 +1958,6 @@ only reinforce each other. Indeed, one insight gained from the end of the Cold W
 might be exactly that peace cannot be obtained through the action of elites alone (the
 Helsinki process, in many ways impressive, somehow ended in limbo), nor through the
 action of people's movements alone (both the dissident and the peace movements had
-
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
 
 been going on for a long time), but through the action of both combined (the dissident
 movement-peace movement-Gorbachev triangle). Here we have a point to be made
@@ -2117,10 +2018,6 @@ curative therapies. Or both - but not neither one, nor the other.
 One way of measuring the maturity of an applied science would be through the level of
 differentiation, roughly speaking the cardinal measure, in the three sets of diagnoses,
 prognoses and therapies; a second the precision of the mapping of these three sets on each
-
-Copyrighted Material
-
-PART I : PEACE THEORY
 
 other; a third the accuracy of the prognoses with or without intervention; a fourth the
 adequacy of the therapies. We are still far away from this in peace studies; and there
@@ -2216,10 +2113,6 @@ Northwest, Northeast, Southwest, Southeast;
 territorial (state-system),
 non-territorial (capital, civil society, people).
 
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
-
 3 1
 
 Culture (C):
@@ -2297,8 +2190,6 @@ Here is a typology for positive peace, also beyond sukha:
 
 Nature peace is species cooperation, not struggle.
 
-Copyrighted Material
-
 PART I: PEACE THEORY
 
 Direct positive peace would consist of verbal and physical kindness, good to the body,
@@ -2361,10 +2252,6 @@ To test the scheme, let us see how topics like militarism, ecology, democracy, a
 archy would be accommodated.
 
 Militarism would be located in the DV-SV-CV column with arms and deployment for
-
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
 
 Table 2.2 Systematization II of Peace and Conflict Studies: Some Examples of Fields of Education.
 Research. Action
@@ -2467,10 +2354,6 @@ How, then, do we classify the eighteen commissions set up by the International P
 
 Research Association, IPRA?
 
-Copyrighted Material
-
-PART I: PEACE THEORY
-
 • Communications. A form of interaction in S and W; and a study of media as carriers
 
 of peace/war culture.
@@ -2559,10 +2442,6 @@ for peace studies to take on new problems (Gulf, Eastern Europe, Somalia, Rwanda
 Chiapas), general expertise is indispensable. The end of the Cold War also meant the end
 for many a peace researcher.4 An IPRA Peace Theory Commission is emerging.
 
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
-
 2.4 Peace Studies from Peace Knowledge to Peace Skills
 
 Peace is transition from left to right in Systematizations I and I I of peace studies. Peace
@@ -2640,10 +2519,6 @@ source of structural and cultural violence (but also potentially of structural a
 peace); military power, intervention, is legitimized as a last recourse, with insufficient
 knowledge and attention to alternatives; economic power (sanctions and positive offers
 
-Copyrighted Material
-
-PART I: PEACE THEORY
-
 as sticks and carrots) is conceived of within mainstream economics, itself a major legit­
 imizer of economic structural violence; political power is seen in terms of an uncritical
 democratic theory; and cultural power is either not considered at all or increased by a pat­
@@ -2705,10 +2580,6 @@ Peace specialists could work in all six:
 in governments and intergovernmental organizations, and the UN, including the
 municipal level which has great peace potentials;
 
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
-
 • in national and transnational corporations (TNCs);
 • in national and international people's organizations (IPOs).
 
@@ -2743,19 +2614,7 @@ plexity. The discourse is very rich, as can be seen from Table 2.3:
 
 Table 2.3 A Synopsis of Paradigm I: the /2-Factor Discourse
 
-Space
-
-Nature
-
 Pers'on
-
-Social
-
-World
-
-Culture
-
-Time
 
 Intra (inner dialectic)
 
@@ -2806,10 +2665,6 @@ Three perspectives for hypotheses about violence and peace:
 Causality: violence/peace originates in one place, for instance in the intra-personal
 (Freudian) or intra-social, class (Marxist) or intra-social, 'Volk' (Hitlerite); and is
 acted out elsewhere.
-
-Copyrighted Material
-
-PART I : PEACE THEORY
 
 2 Isomorphism: each space can serve as a metaphor for the other, being sufficiently
 
@@ -2870,10 +2725,6 @@ We can now be more specific, as set out in Table 2.4, where these general hypoth
 about violence and peace can be read vertically. The problem is that no (post-)modern
 society world can be built solely with Column II elements.
 
-Copyrighted Material
-
-PEACE STUDIES: BASIC PARADIGMS
-
 Table 2.4 Paradigm [/; the 4-Factor Discourse. With Hypotheses
 
 Body
@@ -2883,8 +2734,6 @@ N:
 P:
 S,W: Structure
 C:
-
-Culture
 
 Violence-productive
 
@@ -2923,8 +2772,6 @@ system (W), will focus on political structure. Part II, on conflict, will bring 
 empathy (P); Part III, on development, deals with economic structure; and Part IV, on civ­
 ilization, spells out implications of deep culture (cosmology) for peace.
 
-Notes
-
 I. These macro-cultural categories will be defined in Part IV, Chapter 1 .. 2.
 2. Destructuration is destruction without implanting a new structure: there is no structure at all,
 
@@ -2938,8 +2785,6 @@ egocentric cost-benefit calculations.
 issue: the nuclear arms race to some, human rights to others. Considerable expertise accumulated,
 and was projected onto the Gulf War and the wars in ex-Yugoslavia as if they were only a question
 of two parties and only a military issue (see Part II, Chapter 1 .4).
-
-Copyrighted Material
 
 Woman . Man = Peace · Vi olence?
 
@@ -2990,8 +2835,6 @@ the women, making the structure very durable.3
 All this is done in countless ways, many of which have been explored in feminist stud­
 ies, mostly by women.4 This is a field which men should enter much more, especially
 exploring the male side of the equation.s
-
-Copyrighted Material
 
 WOMAN : MAN = PEACE : VIOLENCE?
 
@@ -3050,8 +2893,6 @@ correlation seriously, and what is meant here by saying the correlation is simpl
 The mechanism works both for men and for women, including researchers, but in differ­
 ent ways. Men accept biologism, not wanting change; women do not, wanting change, for
 instance in power relations.
-
-Copyrighted Material
 
 PART I : PEACE T H EORY
 
@@ -3115,8 +2956,6 @@ in an escalating spiral.
 
 Wilhelm Reich 19 explored the repression of sexuality in Nazi Germany and the use of
 
-Copyrighted Material
-
 WOMAN : MAN = PEACE : VIOLENCE?
 
 males for extreme violence as SS, as guards in concentration camps, etc. This does not
@@ -3173,8 +3012,6 @@ toward violence; they may, or may not, pull the same way.
 
 Starting with culture, and more particularly language, we may note that a word very
 frequently used in English - used by men very much more than by women - is fuck.
-
-Copyrighted Material
 
 PART I : PEACE TH EORY
 
@@ -3234,8 +3071,6 @@ not necessary to assume that the boy is trained for more risk-taking, less consi
 even for violence, in order to postulate a lower level of empathy. All we have to assume is
 less training for motherhood. Both infants transit from the same warmth of the inside to
 
-Copyrighted Material
-
 WOMAN : MAN = PEACE : VIOLENCE?
 
 the warmth of the outside of mother's body. But the girl is invited to stay, the boy will
@@ -3294,10 +3129,6 @@ But there are only 2% women on the boards of Swedish corporations; and the Swedi
 ministries of defense and foreign affairs are essentially boys' clubs, in spite of some min­
 isters.31
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 Second, there is the possibility of increasing the empathy level of males through a
 socialization pattern similar to that for women. From the point of view of reducing vio­
 lence, parity between genders should not be obtained by raising girls like boys, nor by
@@ -3345,16 +3176,12 @@ even become counter-productive. This comes easily to interdisciplinary new socia
 ences like women's studies and peace studies. Older sciences, take note: you have nothing
 to lose but your poor, mono-disciplinary discourses.
 
-Notes
-
 1 . See, for instance, Betty A. Reardon, Sexism and the War System (New York: Teachers College
 Press, 1 985); Birgit Brock-Utne, Educating for Peace. A Feminist Perspective. (Oxford: Pergamon
 Press, 1 985).
 
 2. See Riane Eisler, The Chalice and the Blade: Our History, Our Future (San Francisco, CA:
 Harper & Row, 1 987). There is a weak distributional interpretation of 'gender equality' as low or
-
-Copyrighted Material
 
 WOMAN : M AN = PEACE : VIOLENCE?
 
@@ -3439,8 +3266,6 @@ if society were horizontal. See his Massenpsychologie des Faschismus (Kaln: Kiep
 
 20. The theory of sublimation can be understood as a general theory about the displacement of
 
-Copyrighted Material
-
 PA RT I : PEACE THEORY
 
 instinctual energies to non-instinctual spheres of activity, seeking to explain the evolution of 'higher
@@ -3514,8 +3339,6 @@ Prentice-Hall, 1 983), ch. 9, for the synergism of coffee and sugar.
 
 other in a virtuous cycle.
 
-Copyrighted Material
-
 Democracy · Dictatorship
 
 Peace · War?
@@ -3563,10 +3386,6 @@ were eliminated through genocidal practices? Moreover, those Indigenous peoples 
 were kidnapped or occupied, suppressed and exploited were polities with some system of
 central governance, even if not Western-style states. And, why did democratically elected
 governments only soften, but not abolish these practices? Why did the suppressed and
-
-Copyrighted Material
-
-PART I: PEACE THEORY
 
 exploited have to stand up themselves and fight, violently or nonviolently, against all that
 democratic belligerence? Why so little support for their political will?
@@ -3625,8 +3444,6 @@ racy and belligerence, and for factors that together with democracy tend to prod
 belligerence. After that we shall identify five variables that are produced by democracies
 and in turn produce belligerence. The first two sets are external to democratic theory if
 not to the concrete hi:;toricity of democracies; the third set is internal.
-
-Copyrighted Material
 
 DEMOCRACY : DICTATORSHIP = PEACE : WAR?
 
@@ -3689,8 +3506,6 @@ knowing well what slavery is about. US values of security and freedom are the ne
 of what they did to others; they are existential, historical, not merely theoretical, and can
 be used to mobilize the population for their own violent defense. Americans know their
 
-Copyrighted Material
-
 PART I: PEACE T H EORY
 
 own existential worries. And the best defense would be to stop 'them' before they get
@@ -3749,8 +3564,6 @@ society, the genteel manners of democratic process are less easily found. Since 
 mid is peaked, there are few at the top to receive the violence from the many lower down;
 any country engaged in direct or structural colonialism tends to have more than one
 colony. Consequently, there will be more violent responses per top country than violent
-
-Copyrighted Material
 
 D E M OCRACY : D ICTATORSJiIP = PEACE : WAR?
 
@@ -3815,10 +3628,6 @@ clearly articulated. To be both democratic and truly multi-cultural (not melting
 ficult, for domestic reasons as well. But even if they should manage to contain the tension
 the threat remains: instability in other countries or in the world as a whole may inspire
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 local groups. And if the democracy has managed to co-opt the underdogs they may even
 be persuaded to fight .heir own kind in other countries.
 
@@ -3877,8 +3686,6 @@ A better candidate is national culture. And the most bellicist cultures in the w
 to be occidental Judeo-Christian-Islamic inspired cultures, with their chosenness, singu­
 larism (the only truth) and universalism (for the whole world - Judaism being the
 exception here). But the Judeo-Christian aspect is also the civilization that inspires
-
-Copyrighted Material
 
 DEMOCRACY : D ICTATO R S H I P = PEACE : WAR?
 
@@ -3940,10 +3747,6 @@ levels through popular/populist policies.
 
 The point about the theorem, then, is that democracies may do exactly the same, 'for
 
-Copyrighted Material
-
-PART I: PEACE THEORY
-
 domestic reasons' as the adage goes, deflecting attention from troublesome issues, with a
 view to the next election. The more organic and alive the democracy, the more competi­
 tion for power. Democracies are based on divisiveness. If there is little or no competition
@@ -3999,8 +3802,6 @@ sionist dictators. Or to come to the rescue of the people suffering under those 
 And those suffering people will generally have more of the ear of the world being higher
 up in society, like the victims of socialist non-democracies. To repress or even kill upwards
 brings forth international solidarity; to repress and kill downwards passes unnoticed. So
-
-Copyrighted Material
 
 DEMOCRACY : D ICTATORSHIP = PEACE : WAR?
 
@@ -4062,17 +3863,11 @@ a positive feedback, which becomes particularly dangerous since all of this can 
 verted into belligerence, particularly given the concrete, critical, historical context of
 chailenge along race, nation, class lines in the world of today.
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 Conclusion: more democracies, more belligerence, given the last five factors. The inner
 (OECD) and innermost (G7) core will probably even break the rule of not attacking
 democracies, should their power and privilege become challenged by less powerful and/or
 more recent democracies. And this may happen, as when Chile elected Communism
 ( 1 973)1 and Algeria IsIam ( 1 992).8
-
-Notes
 
 I . In no way should the skeptical tenor of this section be interpreted as an argument against
 democracy. It does not follow from 'democracies are not necessarily peaceful' that 'non-democracies
@@ -4135,8 +3930,6 @@ The outcome was a liberated Kuwait and 3 10,000 Iraquis killed (lPPNW).
 
 From that some people will draw the conclusion that democracies are peace-loving, and willing
 
-Copyrighted Material
-
 D E M OCRACY : D ICTATORS H I P = PEACE : WAR?
 
 to sacrifice to preserve or recover peace. The conclusion made here, however, would focus more on
@@ -4163,8 +3956,6 @@ The sentence added to its fame by being censored by the CIA in the first edition
 Front (FIS) won 1 88 seats and the National Liberation Front (FNL) won I S - after 30 years in
 power. The second round was slated for 16 January 1 992 but was cancelled, with no strong protests
 from the world's leading democracies.
-
-Copyrighted Material
 
 The State System: Dissociative, Associative,
 Confederal, Federal, Unitary - or a Lost Case?
@@ -4210,8 +4001,6 @@ whereupon the order is reversed and a new search for harmony is started. Concret
 ture may mean war, revolution, coup d'etat; and harmony may mean a new social contract.
 If we define harmony as absence of direct and structural violence, then how can the
 state system of today, the modern territorial system, become a peace system - or at least
-
-Copyrighted Material
 
 T H E STATE SYSTEM
 
@@ -4268,10 +4057,6 @@ than a peak experience. As will be seen later, this probably also holds for stat
 Five points will be explored on the association continuum: dissociative, associative, con­
 federal, federal, and unitary state systems (the last three being advanced forms of
 association).
-
-Copyrighted Material
-
-PART I : PEACE THEORY
 
 Dissociative state systems: anarchy/hierarchy Each state is looking out for itself, with no
 built-in associative links. This does not mean a Hobbesian bellum omnium contra omnes,
@@ -4330,8 +4115,6 @@ We can now build on this in two directions: making the relation more solid; and/
 making it more diffuse, covering more themes. A regime is a way of institutionalizing a
 system of treaties or conventions by incorporating rewards and punishments. And an
 organization regulates a broad range of themes or issues. The UN system can be seen as
-
-Copyrighted Material
 
 THE STATE SYSTEM
 
@@ -4396,10 +4179,6 @@ secretariat is defined in the preceding six points.
 Together, then, these seven points define a mature associative system, based on sym­
 biosis and diversity. Obviously, we are then spanning quite a range, from a treaty
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 regulating fishing rights in a border river to the whole UN system, and sub-typologies
 have already been indicated. Much peace and harmony in general can be created within
 this paradigm.
@@ -4457,8 +4236,6 @@ In a federation, that super-actor is supposed to be forever, like a
 couple being married 'until death do us part'. The relation is institutionalized in the
 total system, not only internalized in the parties. If confederal systems are like two-egged
 twins, then federal systems are not only one-egged but indeed Siamese twins, sharing
-
-Copyrighted Material
 
 THE STATE SYSTEM
 
@@ -4537,10 +4314,6 @@ medium
 high
 very high
 
-Copyrighted Material
-
-PART I : PEACE THEORY
-
 The dilemma is obvious: the organization of the territorial system that is most peace­
 building on the inside :nay also be the organization most peace-threatening to the outside.
 Germany obtained peace among German territorial units,6 but at what price to the rest
@@ -4573,31 +4346,18 @@ uni
 uni
 uni
 multi
-multi
-multi
-multi
-
-I
 
 Class
 uni
 uni
-multi
-multi
 uni
 uni
-multi
-multi
 
 Nation
 uni
-multi
 uni
-multi
 uni
-multi
 uni
-multi
 
 Comment:
 Gender/generation contradiction?
@@ -4625,8 +4385,6 @@ No. I uni-uni-uni. The inhabitants are, or feel like, one race and one nation, l
 what is essentially a single-class society. In principle this means that three of the fault-lines
 have been superseded (the Germans have the good expression 'aufgehoben'). But the
 Daoist thesis - let us put it in the form 'contradiction or death" O - would then yield the
-
-Copyrighted Material
 
 THE STATE SYSTEM
 
@@ -4690,8 +4448,6 @@ the middle.
 So, what is bad about a confederation? The difficulty lies in keeping it stable, pro­
 tecting it against the Scylla of the federation and the Charybdis of elementary
 
-Copyrighted Material
-
 PART I : PEACE T HEORY
 
 association. Confederation is not a very stable form; we need to develop mechanisms to
@@ -4748,11 +4504,7 @@ not necessarily a peace-rational debate along Kantian or Weberian lines; rather 
 expression of civilizational positions already taken, and for that reason difficult to coun­
 tenance. Thus, we end up with the thesis of the primacy of culture.
 
-Copyrighted Material
-
 THE STATE S YSTEM
-
-Notes
 
 I . For an exploration of the significance of 'primitivity' for the character of warfare, see Tom
 Broch and lohan Galtung, 'Belligerence Among the Primitives', pp. 25-37 in Peace. War and
@@ -4830,8 +4582,6 @@ IS. Maastricht Treaty, Title V, Article 1, particularly 1-4 and 4-1 . Title II, 
 Maastricht Treaty defined 20 activities of the European Union, making the unitary aspects very
 clear. Educated guess: the life expectancy of this multinational federation is very limited.
 
-Copyrighted Material
-
 ,�.
 
 PART II
@@ -4881,8 +4631,6 @@ alternative to creative conflict transformation. The question then becomes how t
 
 The statement 'this is a conflict' should always be taken as an hypothesis - not as some­
 thing obvious, even trivial, about which consensus is easily obtained. True, when certain
-
-Copyrighted Material
 
 CONFLICT FORMATIONS
 
@@ -4947,8 +4695,6 @@ fied with behavior, and the latent aspect with attitude and contradiction.
 
 At the manifest, empirical, observed level, conflict participants can only experience,
 
-Copyrighted Material
-
 PART I I : CONFLICT THEORY
 
 observe behavior, called B. Both A and C are at the latent, theoretical, inferred level. The
@@ -5007,8 +4753,6 @@ outer dialogues coincide, both becoming like playing a game of chess with onesel
 Training helps; but an integrated, not a split personality is the goal of that inner dialogue
 exercise.
 
-Copyrighted Material
-
 CONFLICT FOR M ATIONS
 
 We can now talk about A-, B-, and C-oriented approaches to conflict, and also of A,
@@ -5042,10 +4786,6 @@ A=O, H,
 A,
 
 H,
-
-C
-
-C
 
 total non-conflict. the state of death
 attitudes/assumptions prepared
@@ -5098,8 +4838,6 @@ or later there will be behavioral manifestations.
 A crucial distinction can now be made between direct and indirect conflict, or actor
 conflict and structural conflict, depending on the extent to which the conflict has become
 not only articulated, but manifest - meaning overt, explicit, observed, conscious. Let us
-
-Copyrighted Material
 
 PART I I : CONFLICT T H EORY
 
@@ -5159,8 +4897,6 @@ and the other party. Whether this is done by the participants or by the observer
 image will always remain an hypothesis, to be tested again and again and to be revised.
 False consciousness means a disconfirmed hypothesis, an unrealistic image, and that can
 and does happen to all of us.
-
-Copyrighted Material
 
 CONFLICT FORMATIONS
 
@@ -5230,10 +4966,6 @@ diction. But they are aware neither of the contradiction, nor the goal-states th
 Emotions may be unrelated to contradictions in their spirit, which may not even be work­
 ing on the problem. The contradiction lies in the system tying them together; or to use the
 
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
-
 homologous formulation: in the structure of the social system. Take the two genders in a
 patriarchy: obviously there is a contradiction, and it was there before Henrik Ibsen wrote
 A Doll's House and increased the collective awareness by a quantum jump. In the same
@@ -5290,15 +5022,11 @@ c = 0: one actor. one unrealized goal: frustration ( 1 , 1 )
 c = 1 : elementary conflicts: dilemmas ( 1 ,2) o r disputes (2, 1)
 c > 1 : complex conflicts (m,n)
 
-Copyrighted Material
-
 CONFLICT FOR M ATIONS
 
 .2 The Number of Actors (m), and the number of goals (n)
 
 n=n
-
-X
 
 ( 1,n)
 
@@ -5313,12 +5041,6 @@ n=3
 n=2
 
 n= 1
-
-X
-
-X
-
-X
 
 ( 1 ,3)
 
@@ -5342,12 +5064,6 @@ n=O
 
 (0,0)
 
-X
-
-X
-
-X
-
 m=O m=1 m=2 m=3
 
 (m,3)
@@ -5355,8 +5071,6 @@ m=O m=1 m=2 m=3
 (m,2)
 
 (m, 1 )
-
-X
 
 m=m
 
@@ -5405,10 +5119,6 @@ Thesis 2 is the good news and Thesis 3 the bad news.
 
 The more complex the conflict image, the more openings for transformation - as will
 
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
-
 ,
 
 be explored later. This should argue in favor of complexijication, splitting up actors and
@@ -5432,23 +5142,11 @@ to as intra/inter. This gives us the typology shown in .3.
 
 .3 A Typology of Conflict Spaces
 
-Space
-
 Intra: dilemma
 
 Inter: dispute
 
-Nature
-
-Person
-
 Society
-
-World
-
-Culture
-
-Time
 
 no cases
 
@@ -5471,8 +5169,6 @@ placing a copy of the Bible and of the Qur'an next to each other on a table, wat
 tensions to emerge, inside one or the other, or between the two of them. Do the same with
 a Christian and Islamic theologian (at rather than on the table) and the results will be con­
 siderably more dynamic. Live carriers of goals are indispensable for conflict to emerge.
-
-Copyrighted Material
 
 CONFLICT FOR M ATIONS
 
@@ -5532,8 +5228,6 @@ other. The formation has become a conflict formation.
 
 The obvious has to be stated again and again: any real-life formation has both
 
-Copyrighted Material
-
 . PART I I : CONFLICT T HEORY
 
 harmonious and disharmonious aspects. We will find conflict and cooperation, Darwin
@@ -5541,8 +5235,6 @@ and Kropotkin, side by side. In a conflict formation. the disharmonious aspect o
 mation is dominant. But in no way should that make us blind to the cooperative,
 harmonious aspects that may very well be the basis on which conflict transformation can
 build.
-
-Notes
 
 I . See Piero Giorgi, 'The Origin of Violence by Cultural Evolution in Humans', forthcoming.
 2. The classical text is John Dollard, Frustration and Aggression (Westport, CT: Greenwood
@@ -5584,8 +5276,6 @@ Region-World.
 aJter me. the flood was not a bad prediction. The French Revolution struck 1 5 years after his death
 as one of those big intra-time (kairos) contradictions that had enormous inter-time (khronos) impli­
 cations.
-
-Copyrighted Material
 
 Conflict Life-Cycles
 
@@ -5634,10 +5324,6 @@ tive/social. Using the knot-net metaphor,s which is more real, the knots or the 
 Christian soul being individual, social reality will have to be conceived of as individual
 knots and not as social nets. For Mahayana Buddhism individual connectedness is what
 is reality; separable and eternal, individual souls, an illusion. Nets are real, knots not.
-
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
 
 Again, this will affect the way conflict is viewed. Whereas Christianity would individ­
 ualize conflicts, even to the point of seeing conflict as originating in one individual who
@@ -5693,8 +5379,6 @@ leads to disharmony. Thereby conflicts arise; possibly with others, for sure wit
 and thus with themselves. In Christianity in addition with God, with the Christ; in
 Buddhism in the sense of creating bad karma, both the individual karma and the karma
 shared with others.
-
-Copyrighted Material
 
 CONFLICT LIFE-CYCLES
 
@@ -5758,8 +5442,6 @@ karma to be superseded through dialogues with words and action; through meritori
 acts, deeds. If this is the general way of viewing the human condition, then it makes lit­
 tle sense to separate conflicts from each other, sticking individual name-tags on them and
 
-Copyrighted Material
-
 PART I I : CONFLICT T HEORY
 
 bracketing them in time and space. To label one part of this holon guilty and the other
@@ -5817,8 +5499,6 @@ Kings-Assemblies-General Assemblies; producers of lesser laws, defining more or 
 explicitly the prescribed, the permitted, and the proscribed. An act detected and regis­
 tered as proscribed is a transgression: the actor is then adjudicated in accordance with the
 
-Copyrighted Material
-
 CONFLICT LIFE-CYCLES
 
 laws of due process. The verdict remains equally dichotomous: guilty or not gUilty. Then
@@ -5875,8 +5555,6 @@ the USA finally lost the war, whatever be the reason (more military talent on th
 Namese side headed by a military genius of the century; the US use of conscripts, includ­
 ing college students, some of them conscious and mobilized against the war; the US
 media coming closer to reporting accurately, not 'patriotically'). By contrast, in the Gulf
-
-Copyrighted Material
 
 PART I I : CONFLICT TH EORY
 
@@ -5938,8 +5616,6 @@ smiles (although it should be remembered that the semantics, syntax, and pragmat
 smiles in the Orient are non-Western). The basic ingredients remain the same: much
 inner dialogue (also known as meditation) within, much outer dialogue between.
 
-Copyrighted Material
-
 CONFLICT LIFE-CYCLES
 
 How does this look to the US side? First, they might see pleas for dialogues with the
@@ -5976,8 +5652,6 @@ and time to articulate and process the conflicts in the system. preceded by medi
 and without pre-conditions. Holistic and dialectic, mature: but very rarely practiced dur­
 ing conflict.
 
-Notes
-
 I . By this is meant the collectively shared, but usually only at the subconscious level, assumptions
 
 in a culture about what is natural and normal; how things simply are.
@@ -6005,10 +5679,6 @@ Diogenes, no. 1 20, 1 982, pp. 87-1 1 5.
 
 6. Right understanding, right thought, right speech, right action, right livelihood, right etTort,
 right mindfulness, right concentration. For a beautiful discussion of Buddhist ethics and practice, see
-
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
 
 Robert Aitken, The Practice of Perfection (New York and San Francisco: Pantheon, 1 995), particu­
 larly pp. 28-32. The Buddhist precepts, in the pancha shila and the pancha dhamma - like the
@@ -6045,8 +5715,6 @@ European history.
 unification with neutrality could serve as a model for Germany. If West Germany had been one-third
 or one-fourth the size of East Germany, and not the other way round, maybe that would have been
 a US and not a Soviet motive?
-
-Copyrighted Material
 
 Conflict Transformations
 
@@ -6094,8 +5762,6 @@ real acceptability or sustainability, unless one assumes that the 'mediators' ar
 conflict formation, not outside, and certainly not 'above'. But in that case their goals
 should be clearly stated and added to the conflict, which may then become a conflict
 deformation.
-
-Copyrighted Material
 
 PART I I : CONFLICT TH EORY
 
@@ -6155,8 +5821,6 @@ one super-theme. All positive, cooperative relations are within the camps and al
 relations between them (but there may be neutral relations both within and between, as
 long as there is nothing negative within, or positive between). The Cold War was the clas­
 sic example, with the inevitable consequence that conflicts within camps were
-
-Copyrighted Material
 
 CONFLICT TRANSFOR M A nONS
 
@@ -6218,8 +5882,6 @@ as the assumption that political violence has to take the form of a spatially co
 activity, now here, now there (terrorism).
 
 However, polarization is probably a necessary condition for escalation, even if not
-
-Copyrighted Material
 
 PART I I : CON FLICT THEORY
 
@@ -6285,8 +5947,6 @@ The second example is one of fruitful complexification: the Conference on Securi
 Cooperation in Europe, Helsinki, 1972 (preparatory phase), and 1 973. The Cold War had
 been simplified through reductionism down to the polarized (2, 1) formula: East (Soviet
 
-Copyrighted Material
-
 CONFLICT TRANSFORMATIONS
 
 UnionlWTO), West (USINATO) over freedom/fascism, depending on who was speaking.
@@ -6348,10 +6008,6 @@ the issue clearly, and stating the desired outcome.
 Struggle, to overcome repression and/or exploitation. The question is how that strug­
 gle is carried out. The peace research answer is obvious: by means of nonviolence,
 
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
-
 according to the general formula of 'peace by peaceful means'. The genius of a Gandhi
 consisted exactly in presenting an alternative to the stark choice between submissiveness
 (to repression and exploitation) or a violent struggle to overcome them. Such a struggle
@@ -6409,8 +6065,6 @@ their deliberations in IJarental caucus rather than in plenary sessions.
 The puberty revolt can be individual, collective with other siblings, or collective with
 other adolescents. At the very least, there is exchange of information. Individual con­
 sciousness is built through confrontation, banging of doors being an audible and defiant
-
-Copyrighted Material
 
 CONFLICT TRANSFOR M ATIONS
 
@@ -6472,10 +6126,6 @@ The unit mapped here is a conflict formation with two actors, A 1 and A2, and tw
 goals G l and G2 (A I , A2; G l , G2). If A l =A2=A the formation is a dilemma (in A; if
 in addition G I =G2, we have a frustration). If not we are dealing with a dispute; if in
 
-Copyrighted Material
-
-PART I I : CONFLICT THEORY
-
 addition G I =G2=G, the dispute is over the same, contested goal ('my brother and I
 agree on one thing: we both want Milano'). The diagram can be used to map the tra­
 jectory, i.e. the history of the conflict formation. The general hypothesis is that the five
@@ -6531,8 +6181,6 @@ goals. Key word: moderation.
 3 Withdrawal means goals have been given up, for ever or for some time; more time
 
 horizon. Key words: apathy, perseverance.
-
-Copyrighted Material
 
 CONFLICT TRANSFO RMATIONS
 
@@ -6598,8 +6246,6 @@ What would be the concrete interpretation of transcendence? Obviously not two ca
 of self-rule, but the case of 'together-rule' . 1 3 There are sever/tl possibilities between the
 Compromise and the Transcendence points in . 1 above: 14 if the compromise is a
 
-Copyrighted Material
-
 PART I I : CON FLICT THEORY
 
 dissociative, 'anarchic' system, then a first beginning would be associative cooperation
@@ -6661,8 +6307,6 @@ between the two off-diagonal corners of the conflict diagram, neither attaining 
 rity of integration, n01 the quietude of death (or so we assume). 18 Maybe mental disorders
 are desperate ways of getting out of this existential dilemma, finding no equilibria in
 
-Copyrighted Material
-
 CONFLICT TRANSFO R M ATIONS
 
 compromise or transcendence, seeking the extremes till extreme withdrawal becomes the
@@ -6719,8 +6363,6 @@ The position taken here, however, is that complex conflict formations are sui ge
 their own kind, and should be treated as such. The seven approaches developed above,
 based on the three approacltes from c=O, the two additional from c= l , and then fission
 and fusion, are equally meaningful for complex conflicts, only often more difficult (or so
-
-Copyrighted Material
 
 PART I I : CONFLICT TH EORY
 
@@ -6780,8 +6422,6 @@ lines, emerging in the early hours with their glasses raised, praising themselve
 former should not be underestimated, among other reasons because so much else hap­
 pens as khronos flows. There is a limit to how many conflicts anybody may have in mind,
 
-Copyrighted Material
-
 CONFLICT TRANSFORMATIONS
 
 1 0 1
@@ -6803,8 +6443,6 @@ needed, through the ice cap of the frustration image of reality.
 The problem is that this image may become too complex to be manageable. And the
 antidote? Some simplification, avoiding polarization, and then guiding the formation,
 gently, towards higher levels of transformation, possibly through intervention.
-
-Notes
 
 I . 'The yang having reached its climax retreats in favor of the yin; the yin having reached its cli­
 max retreats in favor of the yang' (Wang Ch'ung). This is a statement about the part(ie)s in a
@@ -6858,8 +6496,6 @@ comes.
 Theory of Conflict', pp. 77- 1 1 6 in Essays in Peace Research, vol. V (Copenhagen: Ejlers, 1 980), (orig­
 inally published in 1 971 in the Journal oj Peace Research); and the second version in lohan Galtung,
 
-Copyrighted Material
-
 1 02
 
 PART I I : CONFLICT TH EORY
@@ -6897,8 +6533,6 @@ the international community (whatever that is) at least two years of violent con
 Synchronicity. and Human Destiny (New York: Delta, 1 973) .
 
 . � .
-
-Copyrighted Material
 
 Conflict Interventi ons
 
@@ -6959,8 +6593,6 @@ derives from a fundamentum divisionis, not merely listing words floating around 
 field (mediation, arbitration, conciliation, etc.). As usual we shall include 'the zero case',
 the non-intervention, of which there may also be several types. The parties coming in
 
-Copyrighted Material
-
 PART II: CONFLICT THEORY
 
 from the outside, intervening in the conflict, will not be referred to as 'Third' parties, a
@@ -7019,8 +6651,6 @@ D. Asymmetric, imposed communication from outside parties
 Type 7: Mediation. At this point outside parties listen to the D,P,T as seen by all partici­
 pants and then communicate what they see as the solution, on a take-it-or-Ieave-it
 basis.3
-
-Copyrighted Material
 
 CONFLICT INTERVENTIONS
 
@@ -7095,8 +6725,6 @@ cognitive resources (imagination to transfer insights from work on similar, and 
 ferent, conflict formations);
 emotional resources (empathy, sympathy, compassion); and
 
-Copyrighted Material
-
 1 06
 
 PART II: CONFLICT THEORY
@@ -7156,10 +6784,6 @@ general in medias res inclination, this would make us focus on Types 3-6. Before
 that, as a contrast and to explore fundamental aspects of conflict transformation, let us
 have a closer look at Types 0-2.
 
-Copyrighted Material
-
-CONFLICT INTERVENTIONS
-
 4.3 Types 0-2: Autonomous ConfUct Transformation
 
 When are parties ready for autonomous conflict transformation? What are the precon­
@@ -7218,11 +6842,7 @@ just as the verbal presentation may be better for sequential reasoning. There sh
 paper all over, plenty of felt pens and easy access. The joint search is on, for creative ways
 out of a destructive conflict.
 
-Copyrighted Material
-
 \ 08
-
-PART I I : CONFLICT THEORY
 
 4.4 Types 3-6: Dialogical Conflict Transformation
 
@@ -7295,10 +6915,6 @@ simultan.eous work on all six combinations. But the general thrust will be as de
 and this means that there are two hurdles to overcome: too much focus on the past, and
 on the analysis.
 
-Copyrighted Material
-
-CONFLICT INTERVENTIONS
-
 To overcome both at the same time may be too ambitious, although such jumps ('now,
 how can this be avoided or solved in the future') followed by a return to analysis of the
 past, may be recommended. A safer method is probably one step at a time, from past to
@@ -7356,11 +6972,7 @@ that the conflict will take care of itself the facilitators can call it a day. I
 next question, 'how can we change the course of events so as to produce a better future'
 will come very easily. A turn to the future next door, in Table 4. 1 .
 
-Copyrighted Material
-
 1 1 0
-
-PART I I : CONFLICT THEORY
 
 The move from analysis to praxis
 In principle this should be easier: after all conflict
@@ -7422,11 +7034,7 @@ priest. The basic trait is acceptance that someone is in trouble, in need of ass
 may be some scolding related to wrong choices, but after that comes general acceptance,
 and competence. For conflict intervention this means knowledge both of general conflict
 
-Copyrighted Material
-
 -,-
-
-CONFLICT INTERVENTIONS
 
 I I I
 
@@ -7484,11 +7092,7 @@ devices,12 so there must be a lot of faith in both the wisdom and the mandate. B
 horizontalization of conflict transformation would be a major revolutionary change.
 Lawyers may be unpopular: but anti-judge revolts are still for the future.
 
-Copyrighted Material
-
 I l 2
-
-PART I I : CONFLICT THEORY
 
 4.6 Conflict Interventions and the Conflict Triangle
 
@@ -7519,8 +7123,6 @@ new formation; new structures, new institutions.
 This is the most difficult and hence most neglected part; this is where things may go
 
 wrong.
-
-Notes
 
 I . One model would be Rogers' non-directive counseling; see, for instance, W. U. Snyder, with the
 collaboration of Carl R. Rogers (and others), Case-book of Non-directive Counseling (Boston, MA:
@@ -7559,10 +7161,6 @@ helping each other out of contradictions, or on using the contradictions fruitfu
 
 9. I am indebted to Professor Svetozar Stojanovic for this felicitous formulation of an attitude
 
-Copyrighted Material
-
-CONFLICT INTERVENTIONS
-
 1 1 3
 
 found among many outsiders to the situation in ex-Yugoslavia, who neglect the shadows of the past
@@ -7582,8 +7180,6 @@ introduction to how the Hawai'ian culture tries to handle conflict.
 1 2. See lohan Galtung, 'Institutionalized Contlict Resolution', Essays in Peace Research, Vol. III
 
 (Copenhagen: Ejlers, 1 978), ch. 1 4.
-
-Copyrighted Material
 
 Nonvi olent Conflict Transformati on
 
@@ -7633,8 +7229,6 @@ scendence), compromise, deepening, broadening, integration, and disintegration t
 decoupling. In addition to this comes another family of approaches that does not pre­
 suppose resolution of the incompatibility, but tries to freeze the conflict, negate it,
 protract it, through all kinds of devices, including structural and direct violence.
-
-Copyrighted Material
 
 NONVIOLENT CONFLICT TRANSFORMATION
 
@@ -7701,11 +7295,7 @@ with equal rights and duties.
 Then: compromise. Gandhi often spoke in favor of compromise even when it looked as
 if the struggle could be won in the sense that all grievances would be redressed, all claims
 
-Copyrighted Material
-
 1 1 6
-
-PART I I : CONFLICT THEORY
 
 could be met. The point was not to win, but to proceed in the struggle so as to lay the best
 basis possible for post-conflict life. A general inclination in favor of compromise, however,
@@ -7790,8 +7380,6 @@ Fusion
 Decoupling
 Fission
 
-Copyrighted Material
-
 7. Add positive
 intra-action
 8. Add positive
@@ -7815,8 +7403,6 @@ other actors
 Incapacitation
 
 (direct violence)
-
-NONVIOLENT CONFLICT TRANSFORMATION
 
 1 1 7
 
@@ -7877,8 +7463,6 @@ I Gandhi's swaraj campaign for Indian independence from 1 920.3
 4 The anti-Viet Nam War movement, inside and outside Viet Nam.
 5 The Buenos Aires Plaza de Mayo mothers against the military.
 6 The 'People's Power' movement in the Philippines, 1 986.
-
-Copyrighted Material
 
 1 1 8
 
@@ -7948,8 +7532,6 @@ behave in such a way that the conflict becomes transformed upwards. The parties 
 emerge from the conflict not only with better social relations, but also as better persons
 than they were before, better equipped to take on new conflicts nonviolently. Those
 
-Copyrighted Material
-
 NONVIOLENT CONFLICT TRANSFOR MATION
 
 1 1 9
@@ -8014,11 +7596,7 @@ Let us explore some factors lurking in seven spaces that shape the human conditi
 more particularly in how we conceive of these spaces and how that, in turn, shapes our
 condition (to be used much more in Part IV).
 
-Copyrighted Material
-
 1 20
-
-PART I I : CONFLICT THEORY
 
 Nature The word 'natural' is obviously related to nature, taking nature as a norm. But
 nature is not an unambiguous model for what is natural and normal: there is conflict and
@@ -8076,10 +7654,6 @@ revolution currently under way. They may then try to single out a leader and int
 that person to understand what happened in terms of some of his/her characteristics. A
 good example is the East German revolt in 1 989, which shook DDR society but also
 
-Copyrighted Material
-
-NONVIOLENT CONFLICT TRANSFORMATION
-
 1 2 1
 
 Western German society, since the ideas o f the nonviolent revolutionaries were equally
@@ -8135,16 +7709,11 @@ selves holding the reins of power, yet not struggling for any position as driver
 they did not believe in the power they had exercised? Or, was the nonviolence expressive
 rather than instrumental?16
 
-Time
 In social cosmology the struggle against evil is often associated not only with a
 hero/leader, but also with a certain time cosmology. Against the darkness of the oppres­
 sion, resistance begins to mount, more and more, culminating in the final confrontation,
 
-Copyrighted Material
-
 1 22
-
-PART I I : CONFLICT THEORY
 
 crisis. There are only two possibilities - make it or break it, victory or defeat. The world
 over, traditional tales/epics of violent resistance that end with a decisive battle and the
@@ -8204,11 +7773,7 @@ of violence in the Occident will pick up the exclusive, punishing God; the nonvi
 trickle (including Quakerism and Baha'i, among others) will build on the tradition of an
 inclusive, loving God, including the ultimate violence inflicted on the Christ in the
 
-Copyrighted Material
-
 ,-
-
-NONVIOLENT CONFLICT TRANSFORMATION
 
 1 23
 
@@ -8273,11 +7838,7 @@ In other legal traditions (Roman, German, Japanese) laws or legal formulations m
 be forever, but they can be interpreted, and there can be an undercurrent of legal prac­
 tice different from legal theory. The advantage of the common-law tradition is the clear
 
-Copyrighted Material
-
 1 24
-
-PART I I : CONFLICT THEORY
 
 indication that the grievances have been redressed once a legal formulation has been
 changed. This means victory, and a stop sign for the campaign, perhaps moving on to
@@ -8306,8 +7867,6 @@ and become more effective in the future. And in that kind of study all the deep 
 factors can be turned in a positive direction by lifting them up in the daylight, and by
 making people in general (and journalists in particular) more aware of their significance
 for nonviolence in our tormented century.
-
-Notes
 
 I . This section is based on my The Way is the Goal: Gandhi Today (Ahmedabad: Gujarat
 Vidyapith, 1 992). The reader is referred to that book for more details; particularly to ch. 3.4, 'How
@@ -8350,10 +7909,6 @@ Philippines; so it should have been continued.
 7 To this South African case could be added the moral impact of economic sanctions,
 
 divestment, and the positive example of Zimbabwe.
-
-Copyrighted Material
-
-NONVIOLENT CONFLICT TRANSFORMATION
 
 1 25
 
@@ -8428,8 +7983,6 @@ meaning those with a particularly tender conscience.
 
 1 3. For what this author believes to be a more correct version, based on a study in Beijing shortly
 
-Copyrighted Material
-
 1 26
 
 PART I I I : DEVELOPMENT THEORY
@@ -8492,8 +8045,6 @@ soldiers at all).
 From Seasons of Violence (Honolulu, HI: University of Hawai'i, Matsunaga Institute for Peace,
 1 993).
 
-Copyrighted Material
-
 PART III
 
 DEVELOPMENT THEORY
@@ -8539,8 +8090,6 @@ may have been illegitimate and vice versa. At best this may leave an entire peop
 fused, at worst expose them to culturocide, the killing of their own culture, leading to
 gross alienation and possibly to physical individual and collective suicide.' One reason:
 the belief that economics is 'culture-free',6 and hence neutral.
-
-Copyrighted Material
 
 1 28
 
@@ -8589,7 +8138,6 @@ Pleasant environment
 Latrines etc.
 Clothes, shelter
 Quiet
-Space
 Privacy
 All of the above
 
@@ -8611,8 +8159,6 @@ An important cutting point in needs-deprivation can now be defined. At all level
 deprivation there is an element of suffering, as mentioned. The extreme form of suffering
 is death, individual extinction: whether from traumas inflicted on the body (direct vio­
 lence), or lack of inputs (structural violence). But before extinction of the individual,
-
-Copyrighted Material
 
 THESES ON D EVELOPMENT THEORY AND PRACTICE
 
@@ -8673,11 +8219,7 @@ is an incompatibility. And so far we have only been looking at nature. But if we
 interpret 'economic growth' as 'economic activity', meaning cycles connecting nature
 (material and energy resources, and waste deposit), production (processing of nature)
 
-Copyrighted Material
-
 1 30
-
-PART I I I : DEVELOPMENT THEORY
 
 and consumption (any end-use of products, closing the cycle, with waste back to nature),
 then economic activity does not a priori entail costs. The task is to discover how this can
@@ -8734,8 +8276,6 @@ money for basic services, and the sender gets the inner growth deriving from all
 lenges. But development means taking on the challenges, you yourself, not giving them
 away or have them taken away from you, by somebody else. 'Development assistance' is
 a contradictio in adjecto.
-
-Copyrighted Material
 
 THESES ON DEVELOPM ENT THEORY AND PRACTICE
 
@@ -8797,11 +8337,7 @@ saving/investment, making the amount of time for leisure activity a possible ind
 becoming 'soft', and as a consequence of incipient decline - whether applied to the
 Roman Empire 2000 years ago or to Japan today.
 
-Copyrighted Material
-
 1 32
-
-PART I I I : DEVELOPM ENT THEORY
 
 Thesis No. 8
 
@@ -8871,8 +8407,6 @@ and as a market place.
 
 • World space, seen mainly as an international social space.
 
-Copyrighted Material
-
 THESES ON DEVELOPMENT THEORY AND PRACTICE
 
 1 33
@@ -8933,8 +8467,6 @@ nomic growth system.
 Escape from this predicament is not impossible. But it certainly takes hard work, much
 saving and investment, greed, and possibly also some 'countervailing inconsiderateness',
 even if this is done completely nonviolently. Gandhi organized boycott of British goods,
-
-Copyrighted Material
 
 1 34
 
@@ -8998,8 +8530,6 @@ ment) to increase their share of what is offered and accepted.
 
 Level of participation in the exercise may matter more than whether the sloganized goal
 
-Copyrighted Material
-
 THESES ON DEVELOPMENT THEORY AND PRACTICE
 
 1 35
@@ -9061,11 +8591,7 @@ Are the MDCs willing to take it? Imagine what this can mean in practice. An Indi
 delegation arrives in Manhattan to study US patterns of procreation and family planning,
 firmly convinced that if 5% of the world population consumes disproportionate amounts
 
-Copyrighted Material
-
 1 36
-
-PART I I I : DEVELOPMENT THEORY
 
 of world energy resources and is responsible for disproportionate amounts of world pol­
 lution, then what is needed is drastic population reduction. Corresponding reports have
@@ -9104,8 +8630,6 @@ organizations can transmit human-level experiences from MDCs to LDCs and back ag
 even in direct cooperation with LDC volunteers. And they can more easily be faithful to
 the primacy of basic needs and solidarity with humanity and nature. And to reciprocity.
 
-Notes
-
 I . For an excellent introduction to many of these issues and the underlying thinking, see
 Wolfgang Sachs, ed., The Development Dictionary: a Guide to Knowledge as Power (Atlantic
 Highlands, NJ: ZED Books, 1 992).
@@ -9126,8 +8650,6 @@ day's work, surplus comes to the top by not making it available at the bottom. W
 massive tax reduction they decide themselves how to spend it (usually not for popular education and
 health, except for some charity). When money is spent on airports rather than on international high­
 ways (Africa being a good example) only elites will benefit.
-
-Copyrighted Material
 
 THESES ON DEVELOPMENT THEORY AND PRACTICE
 
@@ -9212,19 +8734,13 @@ new PhD degrees, at least more people trained in adequate intellectual construct
 there was the problem of how national interests, meaning those of their own rather than other
 natiQns, and not human beings in any direct sense, could be served. In other words, verbal and social
 
-Copyrighted Material
-
 1 38
-
-PART I I I : DEVELOPM ENT THEORY
 
 hierarchies of law and interest, as mentioned above. Not compassion for the needy.
 
 20. Max Weber's The Protestant Ethic and the Spirit of Capitalism, like Das Kapital by Karl Marx,
 is certainly still very much worth reading, whether the interpretation is in terms of the brilliance of
 the authors, or their relevance, because the world has not changed that much.
-
-Copyrighted Material
 
 Six Economic Schools
 
@@ -9285,10 +8801,6 @@ generalizing and abstracting. The opposite of monetization is specificity, keepi
 singular and concrete character of something, anything, everything.
 
 'Processing' is to do something to the 'natural', imprinting the natural with form, or
-
-Copyrighted Material
-
-PART I I I : DEVELOPM ENT THEORY
 
 culture. This concept would include pedagogy or education in general, imprinting the
 human brain with information. The opposite would be the state of nature, here referred
@@ -9361,8 +8873,6 @@ C: Monetization, of everything in a production function, factors as well as prod
 prices for products, rent for land (nature); wages for labor; interest for liquid capital;
 returns for fixed capital; sales value for patents and overall ownership.
 
-Copyrighted Material
-
 ECONOMIC SCHOOLS
 
 D: Processing (manufacturing), imprinting culture and information on raw nature and
@@ -9430,11 +8940,7 @@ sors (mercantilists, physiocrats, medieval economics, the Roman Empire, pre-hist
 non-Western). But for the past 200 years this school, still dominant, served as an anchor­
 ing point for theory and practice (Table 2 . 1 ).
 
-Copyrighted Material
-
 1 42
-
-PART I I I : DEVELOPMENT THEORY
 
 Table 2. 1 The Bille School: Market and Capital
 
@@ -9442,7 +8948,6 @@ Factors of
 production
 
 Relations of
-production
 
 Products
 
@@ -9451,7 +8956,6 @@ Distribution
 Individualism Private
 
 ownership of:
-Nature
 Labor
 Capital
 Technology
@@ -9499,12 +9003,9 @@ Challengemonopoly
 Center/Periphery Terms of exchange
 
 exploitation
-Future
 
 generations
-exploitation
 
-exploitation
 Competition
 Division
 of labor
@@ -9512,7 +9013,6 @@ of labor
 decides
 what products
 and how much One-way
-Products
 
 manipulation
 in marketing
@@ -9530,7 +9030,6 @@ over price
 
 Challengemonopoly
 Terms of trade
-exploitation
 Competition
 
 Monetization All factors
@@ -9579,22 +9078,17 @@ organizations
 I ncreasing
 
 differentiation
-No stop sign
 
 Increasing
 volume
 Increasing
 variety
-No stop sign
 
 World market
 products and
 factors
 
 Market share
-No stop sign
-
-Nature
 
 General
 
@@ -9605,10 +9099,8 @@ Human depletion,
 pollution
 
 I ndustrial
-pollution
 
 Household
-pollution
 
 In this scheme the logic of the Blue (Smithian, capitalist) system rests on 24 feet (with
 several toes for most). Horizontal readings are better for a total understanding of the sys­
@@ -9622,10 +9114,6 @@ school. Abolition is an anomaly, and was, indeed, very strongly resisted. Anti-s
 campaigns can also be explained in terms of Blue logic by looking further down the col­
 umn of factors for another key variable: factor (including labor) mobility. With a labor
 rather than slave market there is the additional advantage that workers themselves often
-
-Copyrighted Material
-
-ECONOMIC SCHOOLS
 
 pay the costs of moving from one production site to the other. And African labor could
 also be used in situ - meaning on plantations in Africa with less mobile factor markets.
@@ -9685,11 +9173,7 @@ Finally, 'Nature', including humans when exposed to boring, degrading, dirty, da
 ous work. The great loser, deplet�d and polJuted in an economic process that has become
 a goal in itself.
 
-Copyrighted Material
-
 1 44
-
-PART I I I : DEVELOPMENT THEORY
 
 About the Blue school and system libraries have been written. The ability to market an
 incredible volume of an equally incredible variety of products all over is clear, and a
@@ -9746,30 +9230,20 @@ massive ownership does not mean that all was owned by the same agency: the multi
 cation of ministries under Soviet socialism was an effort to parallel the branches of a Blue
 economy.
 
-Copyrighted Material
-
-ECONOMIC SCHOOLS
-
 1 45
 
 Table 2.2 The Red School: State and Power
 
 Factors of
-production
 
 Relations of
-production
-
-Products
 
 Distribution
 
 Individualism Public, state
-ownership
 of factors
 
 Public, state
-ownership
 
 Full employment
 
@@ -9782,8 +9256,6 @@ Supply for needs,
 
 only then demand
 
-Verticality
-
 State
 
 State
@@ -9794,11 +9266,9 @@ decision-making
 over factor use,
 and surplus
 
-decision-making
 over people,
 work conditions
 
-decision-making
 over products
 and how much
 
@@ -9815,17 +9285,12 @@ mobility
 Challengemonopoly
 
 Center/Periphery Terms of exchange
-exploitation
-Future
 generations
-exploitation
 
-exploitation
 Power struggle
 Division of
 labor
 
-Products
 uniform in
 quality and price No marketing
 
@@ -9879,40 +9344,28 @@ Expansion
 
 Continue
 
-production
-No stop sign
-
 General
 
 depletion
 
-Nature
-
 Expanding
 
 organizations
-No stop sign
 
 Increasing
 volume
-No stop sign
 
 National
 
 market focus
 
-No stop sign
-
 Human
 
 depletion/
-pollution
 
 Industrial
-pollution
 
 Household
-pollution
 
 2 Planned economy, planning production, distribution, and consumption, there being
 no official alternative for consumers. Like the God of religion, this secular God was
@@ -9933,8 +9386,6 @@ higher goa\.22 Many workers interpret the Red system as being soft on workers, d
 ing little work.
 
 5 Limited monetization. The state controls the production in the Red system. Factors
-
-Copyrighted Material
 
 .,.
 
@@ -9998,34 +9449,23 @@ development; and world development, which means a world setting where diverse so
 can interact symbiotically and enhance each other.28 This is a tall order, but typical of
 Green thinking, with Gandhi's sarvodaya villages and 'oceanic circles' as models.29
 
-Copyrighted Material
-
-ECONOMIC SCHOOLS
-
 Table 2.3 The Green School: Civil Society and Dialogue
 
 Factors of
-production
 
 Relations of
-production
-
-Products
 
 Distribution
 
 Collectivism Collective
 
-ownership
 of factors
 
 Private or
 
 cooperative
-ownership
 
 Individual,
-collective
 products
 
 Local market
@@ -10038,17 +9478,13 @@ Collective
 
 Collective
 
-decision-making
 over factors
 and surplus
-
-decision-making
 
 over people,
 
 work conditions
 
-decision-making
 over products
 and how much
 
@@ -10069,7 +9505,6 @@ norm
 Job rotation
 Job reconstruction
 
-Products
 diverse in
 quality and price Dialogue
 Maximize
@@ -10147,8 +9582,6 @@ and market
 focus
 Stop sign
 
-Nature
-
 Mainly
 
 renewable
@@ -10181,11 +9614,7 @@ super-rich to change their lifestyle.
 2 Organizations of human scale. The idea is to change all organizations, not only the
 economic ones, so that people feel comfortable and at home in them. This implies a
 
-Copyrighted Material
-
 1 48
-
-PART I I I : DEVELOPM ENT THEORY
 
 maximum size, and possibly also a minimum size as people work also to meet other people,
 getting out of the narrowness of the family and small villages. This does not mean reduc­
@@ -10242,8 +9671,6 @@ formula that is the secret of the phenomenal growth of Japan yesterday, China to
 tomorrow, the others all the time, more or less.36
 
 How can Blue and Red work together if each is the negation of the other? Only if the
-
-Copyrighted Material
 
 ECONOM IC SCHOOLS
 
@@ -10310,8 +9737,6 @@ Local
 Transnational,
 national markets
 
-Copyrighted Material
-
 1 50
 
 PART I I I : D EV E LOPMENT T H EORY
@@ -10356,8 +9781,6 @@ Bothl
 and
 
 Verticalityl
-
-Verticality
 
 horizontality
 
@@ -10409,8 +9832,6 @@ No stop
 Some
 stop
 
-Nature
-
 Master
 
 Master
@@ -10422,8 +9843,6 @@ Both
 Master
 
 Both
-
-Notes
 
 I . Many other variables could be used. But these variables can be used directly to describe basic
 patterns in economic systems. They can be read vertically as descriptions of 'modern' (in the usual
@@ -10464,10 +9883,6 @@ intended to be racist but, perhaps, to invoke the idea of 'yellow peril' in the 
 lenge'. 'Golden' might be more descriptive of reality, but breaks the color scheme. As the
 constituents of the Yellow school are the Blue and the Red, another term might be 'Purple', darker,
 less diluted, than Rose or Pink.
-
-Copyrighted Material
-
-ECONOMIC SCHOOLS
 
 1 5 1
 
@@ -10546,11 +9961,7 @@ highly complex and quite coherent, so let us rather use simple labels in terms o
 
 19. See Johan Galtung, 'Sobre alfa y beta y sus muchas combinaciones' pp. 19-95 in Eleonora
 
-Copyrighted Material
-
 1 52
-
-PART I I I : DEVELOPMENT THEORY
 
 Masini & Johan Galtung, eds, Visiones de sociedades deseables (Mexico: CESTEEM, 1979). Both are
 structures of interaction. Alpha is the pyramid structure, more vertical, often very large, and Beta is
@@ -10632,8 +10043,6 @@ gradients inside society, as seems to be the case in the USA.
 
 other hand, few systems have so consistently stood up against fascism as social democracy.
 
-Copyrighted Material
-
 ECONOM I C SCHOOLS
 
 1 53
@@ -10673,8 +10082,6 @@ Kingdom in the Middle for China, and fervent nationalism for Viet Nam.
 40. In Japan as graduates of a few leading universities, in South Korea the same, in China as party
 
 cadres, in North Korea the same, and in Viet Nam probably as a mix of the above.
-
-Copyrighted Material
 
 The Externalities
 
@@ -10724,8 +10131,6 @@ broader, more adequate discourse.8
 The first task is obviously to define 'externality', and the twin concept (used here),
 
 'internality'. As a point of departure consider the following definition:9
-
-Copyrighted Material
 
 THE EXTERNALITIES
 
@@ -10788,8 +10193,6 @@ any number of dimensions. The point is not a complete catalogue, but rather to i
 key variables outside mainstream economics discourse. '4 Any such list will obviously have
 to be revised, consensus being neither possible nor desirable. The point is explicitness: here
 
-Copyrighted Material
-
 1 56
 
 PART I I I : DEVELOPMENT T HEORY
@@ -10830,32 +10233,22 @@ ata above (Table 3 . 1 ).
 
 Table 3 . 1 Externalities I: Shallow and Deep Externalities
 
-Space
-
 Value-dimension
 
 Shallow
 
-Nature
-
 Ecological balance
 
-Person
-
 Basic human needs
-
-Social
 
 Development:
 
 abolish misery
 meet basic needs
 
-World
 (Space)
 
 Historyl
-Future
 (Time)
 
 Peace
@@ -10865,8 +10258,6 @@ solidarity
 Sustainability
 Diachronic
 solidarity
-
-Culture
 
 Adequatio
 
@@ -10896,28 +10287,11 @@ Deep
 Diversity
 Symbiosis
 
-Diversity
-Symbiosis
-
-Diversity
-Symbiosis
-
-Diversity
-Symbiosis
-
-Diversity
-Symbiosis
-
 Reduce and contain
 cultural violence
 
-Diversity
-Symbiosis
-
 The general philosophy behind this proposal runs as follows: Ecological balance and
 basic human needs are autotelic values, ends; development/peace/sustainability/adequacy
-
-Copyrighted Material
 
 THE EXTERNA LITIES
 
@@ -10981,33 +10355,17 @@ expansion. We shall start with externalities imputed to the Blue economy for the
 reason as we started with the Blue school above: it is the Mother of all contemporary eco­
 nomic schools.
 
-Copyrighted Material
-
 1 58
 
 �ART I I I : D EV ELOP M ENT THEORY
 
 Table 3.2 Externalities II: Externalities of the Blue Economy
 
-Space
-
 Individualism
-
-Verticality
 
 Monetization Processing
 
 Expansion
-
-Nature
-
-Person
-
-Depletion
-Pollution
-
-Depletion
-Pollution
 
 Loneliness
 Alcoholism
@@ -11021,10 +10379,7 @@ Boredom
 Misery
 Death
 
-Challenge
-
 Materialism
-Challenge
 Consumerism Uncertainty Risk-taking
 Corruption
 Creativity
@@ -11038,7 +10393,6 @@ Criminality
 
 Commodity
 
-Challenge
 Dynamism
 
 culture
@@ -11053,10 +10407,6 @@ competence
 
 Commodity
 
-Challenge
-Dynamism
-
-culture
 External arms Research
 
 race
@@ -11066,24 +10416,17 @@ General
 
 competence
 
-Challenge
-Dynamism
 Military power
 Knowledge
 General power
 
-Challenge
-Dynamism
 Military power
 Knowledge
 General power
-
-Social
 
 Fragmentation
 Marginalization
 
-World
 (Space) Marginalization
 
 Fragmentatioll
@@ -11091,7 +10434,6 @@ Fragmentatioll
 Segmentation
 Penetration
 Exploitation
-Repression
 Inequality
 Internal debt
 Violence
@@ -11099,12 +10441,9 @@ Internal war
 Verticality -
 age, gender,
 race, class,
-culture
 
-Segmentation
 Penetration
 Exploitation
-Repression
 Inequality
 External debt
 Violence
@@ -11112,7 +10451,6 @@ External war
 Verticality -
 age, gender,
 race, class,
-culture
 
 History Fragmentation
 (Time) Marginalization
@@ -11125,8 +10463,6 @@ Commodity
 Total
 
 Total revolt
-
-culture
 
 degradation
 
@@ -11152,10 +10488,6 @@ of the Blue economy, 'Smithism', as argued above.
 Is this scheme not too negative? First, it should be noted that the internalities are not
 here. There is no denial that the Blue economy produces an astounding quantity of goods
 
-Copyrighted Material
-
-THE EXTERNALITIES
-
 1 59
 
 and services with an astounding diversity and high quality, thereby making possible a
@@ -11172,20 +10504,7 @@ the Blue school remains accused. What do we seek in an alternative?
 
 Table 3.3 Externalities Ill: Positive and Negative Externalities
 
-Space
-
-Nature
-
-Person
-
-Social
-
-World
-
 Positive
-
-Diversity
-Symbiosis
 
 Survival
 Health
@@ -11212,19 +10531,14 @@ Social justice
 
 Negative
 
-Depletion
-Pollution
-
 Death, accidents
 Modernization diseases
 Misery, deprivation
 Monotony, boredom
 Alienation, self-contraction
-Repression
 
 Verticality, exploitation
 Penetration, conditioning
-Segmentation
 Fragmentation
 Marginalization
 Stasis
@@ -11232,17 +10546,12 @@ Social injustice
 
 Verticality, exploitation
 Penetration, conditioning
-Segmentation
 Fragmentation
 Marginalization
 Stasis
 Social injustice
-
-Time
 
 Sustainability
-
-Culture
 
 Pluralism
 
@@ -11259,11 +10568,7 @@ same has been done since this is also a social space, only at a higher level of 
 for Historyffime sustainability or reproducibility; and for Culture, pluralism as opposed
 to world monoculture as a cause and consequence of the Blue system. 20
 
-Copyrighted Material
-
 1 60
-
-PART I I I : DEVELOPMENT THEORY
 
 The list is still complicated. Table 3.4 is simpler. The externalities are all in Tables 3.2
 and 3.3; but this short version may serve as a check on how economic flows erode the
@@ -11271,25 +10576,12 @@ stoCk.21
 
 Table 3.4 Externalities IV: Positive and Negative Externalities
 
-Nature
-
 Human
 
-Social
-
-World
-
-Time
-
-Culture
-
 Diversity Well-being
-Symbiosis
-Challenge
 Identity
 
 Depletion Misery
-Pollution
 
 Monotony
 Alienation
@@ -11302,10 +10594,7 @@ Solidarity
 Holism
 Idealism
 
-Verticality
 Individualism Nationalism
-
-Verticality
 
 Degradation
 
@@ -11349,8 +10638,6 @@ ble of carrying the costs of that meta-externality themselves. Rather, they will
 task, do it in a haphazard manner, or redefine, change the focus of the externalities to fit
 the theory rather than vice versa. Reconstruction will probably have to come from the
 outside, by producing broader discourses and more comprehensive theories.
-
-Copyrighted Material
 
 T H E EXTER NA LITIES
 
@@ -11396,14 +10683,6 @@ Inconsiderateness
 
 Outputs
 
-Challenge
-
-Dynamism
-
-Depletion
-
-Pollution
-
 The Table serves a very simple function: to illustrate the danger in focusing on only one
 row or only one column, not to mention only one element in the Table. All these factors
 interact to constitute the totality of the economic cycles, in Myrdal's famous 'cumulative
@@ -11428,11 +10707,7 @@ economic theory based on a small number of internalities is no proof of the irre
 externalities, because self-fulfilling prophecies may have been at work. People trained in
 taking only internalities into account will act accordingly, and will register consequences
 
-Copyrighted Material
-
 1 62
-
-PART I I I : DEVELOPM ENT THEORY
 
 only in terms of internalities. If told sufficiently often 'we are in this game for profit' they
 will believe that considerateness - here interpreted as sensitivity to negative externalities ­
@@ -11459,16 +10734,6 @@ the center of global reality in this construction; the right-hand column the per
 mainstream economics is made of, for, and by the center.
 
 Table 3.6 A Division of 'he Spaces in Inner and Outer Sectors
-
-Nature
-
-Person
-
-Social
-
-World
-
-Time
 
 Inner sector
 
@@ -11501,10 +10766,7 @@ there; LDCs
 Present
 now, accounting
 
-Future
 then, discounting
-
-Culture
 
 Mainstream, ours
 
@@ -11520,10 +10782,6 @@ account. 'Internalities only' approaches are for transactions with the outer sec
 the social sciences: questionnaires are not for inner use. Asking one's spouse 'Last night,
 how did you sleep? Very well, well, badly, very badly, don't know, no answer' may back­
 fire.
-
-Copyrighted Material
-
-THE EXTERNALITIES
 
 1 63
 
@@ -11582,11 +10840,7 @@ tion to getting the better market deals the positive externality of challenge ac
 them, while the negative externality of depletion comes to the LDCs. Best of all: being
 externalities, most of this remains invisible.
 
-Copyrighted Material
-
 1 64
-
-PART I I I : DEVELOPMENT THEORY
 
 Thesis No. 9
 
@@ -11656,10 +10910,6 @@ assistance expert who finds the task stimulating, particularly if he has more po
 than at home and can use methods rejected in his home country. When he leaves, the
 side-effects leave with him, and will benefit his MDC country.2l
 
-Copyrighted Material
-
-THE EXTERNALITIES
-
 1 65
 
 • In the Fourth World, the challenge will probably come to the same people as in the
@@ -11712,11 +10962,7 @@ missing science of culturology (today split between theology, philosophy, histor
 But if economists have learnt to use mathematics without being professional mathemati­
 cians, then they should also be capable of handling other tall orders.
 
-Copyrighted Material
-
 1 66
-
-PART I I I : DEVELOPM ENT THEORY
 
 Thesis No. 12
 
@@ -11776,10 +11022,6 @@ externalities.
 
 This is where economics belongs: not with pretensions of being a natural science, some
 kind of mechanics, particularly today when not even physics pretends to be physics in the
-
-Copyrighted Material
-
-THE EXTERNALITIES
 
 1 67
 
@@ -11850,23 +11092,15 @@ by internalizing Nature's needs in all human actors; possibly by having human ac
 resent some parts of Nature.)) Regardless of answer, Nature has to be present in those
 dialogues (Table 3.8).
 
-Copyrighted Material
-
 1 68
 
-PART I I I : DEVELOPMENT THEORY
-
 Table 3.8 A Typology of Economic Dialogues
-
-Nature
 
 Producers
 
 Distributors
 
 Consumers
-
-Nature
 
 Producers
 
@@ -11878,14 +11112,10 @@ Nature as
 association
 
 Industrial
-pollution
-Depletion
 
 Marketing
-pollution
 
 Household
-pollution
 
 Producers',
 workers'
@@ -11947,10 +11177,6 @@ in its consequences. Bio-diversity decreases, challenge remains low, and some ca
 accumulates at the entry points for capital. Result: Status quo.
 The three basic reasons for ruling out monetization are:
 
-Copyrighted Material
-
-THE EXTERNALITIES
-
 1 69
 
 A nti-monetization I: to rule out comparison, preventing the relativization of values,
@@ -12010,11 +11236,7 @@ Ideally all three would be nature-conscious, and the basic dialogue would be bet
 consumers and producers, or buyers and sellers, adjusting their supplies and demands to
 each other. As mentioned, 'voting with the dollar', by buying or not buying, is not good
 
-Copyrighted Material
-
 1 70
-
-PART I I I : DEVELOPM ENT THEORY
 
 enough; to develop new ideas dialogues are needed.J7 Add to this consumers' dialogue
 within consumers' associations, producers' within producers' associations, and the three
@@ -12074,10 +11296,6 @@ ies
 ment-through-work discourse of the 1 930-40s and the anti-exploitation (in social and
 world spaces) discourse of the I 950-60s did not compensate. Solutions to Blue problems
 were not found in the Red discourse. In the Soviet Union and Eastern Europe, negative
-
-Copyrighted Material
-
-THE EXTERNALITIES
 
 1 7 1
 
@@ -12141,11 +11359,7 @@ Tanzania's ujama'a villages it is another story if it is correct that plans had 
 centrally, and that the up and down from village to center (Dar es Salaam) could take two
 years. No take-off.
 
-Copyrighted Material
-
 1 72
-
-PART I I I : DEVELOPM ENT THEORY
 
 The conclusion is the same as for Blue: Green should not carry the great human devel­
 opment project alone. There must be transfer mechanisms, for one thing, and economic
@@ -12208,13 +11422,7 @@ Conclusion: Yellow cannot carry the burden of development either, having too man
 negative externalities in its wake. None of our 'colors' can. In Chapter 4 we shall look at
 some remedies.
 
-Copyrighted Material
-
-THE EXTERNALITIES
-
 1 73
-
-Notes
 
 I . The concept is well known in medicine as 'side-effects' (German: Nebenwirkung). Today one
 can hardly buy any medicine without a long discourse on side-effects, at least when the medicine is
@@ -12291,11 +11499,7 @@ I I . As pointed out in the preceding chapter, these might be positions taken by
 
 Green schools.
 
-Copyrighted Material
-
 1 74
-
-PART I I I : DEVELOPM ENT THEORY
 
 12. Thus, insurance companies might use 'remaining earning capacity' as a price tag on human life,
 in other words highly dependent on age, gender, race, and class. A major problem is whether this has
@@ -12370,10 +11574,6 @@ addition to de.structuration there is also deculturation.
 22. If the number of axioms is n, and the number of theorems deduced is N, then one measure of
 explanatory power is \-n/ N; the higher the lower n and the higher N. This must have been very impor­
 tant also as a mnemotecl:nic device, before printing was developed. All people needed to remember
-
-Copyrighted Material
-
-THE EXTERNALITIES
 
 1 75
 
@@ -12458,11 +11658,7 @@ demonstrate where ultimate power is located.
 the workers, challenging the monopoly of engineers on the means of production. In the specific
 Chinese situation this was done by having workers repair the machinery that very often broke down.
 
-Copyrighted Material
-
 1 76
-
-PART I I I : DEVELOPMENT THEORY
 
 Given the age of that machinery there was more than enough challenge to maintain, but not to
 develop the machinery further. Result: stagnation.
@@ -12487,8 +11683,6 @@ compensated.
 4 1 . In that sense, 70 years of communism prepared them for capitalism. What they are now expe­
 
 riencing is Blue externalities on top of the old Red ones.
-
-Copyrighted Material
 
 Ten Theses on Eclectic
 Development Theory
@@ -12536,11 +11730,7 @@ Thus, there is more variety and richness available than often imagined when uni�
 dimensional discourses close the mind. The problem is how to relate to that 'window of
 opportunity' .
 
-Copyrighted Material
-
 1 78
-
-PART I I I : DEVELOPM ENT THEORY
 
 Thesis No. 2
 
@@ -12602,8 +11792,6 @@ actors, which is compatible with but not the same as privileging local economic 
 
 First, the mobilization of production factors. There is human talent anywhere. A
 
-Copyrighted Material
-
 THESES ON ECLECTIC DEVELOPMENT THEORY
 
 1 79
@@ -12664,11 +11852,7 @@ level everywhere and particularly for basic-needs production makes people less d
 for their survival on far-away factors beyond their control.4 And, any product that trav­
 els less is also a product that pollutes less.
 
-Copyrighted Material
-
 1 80
-
-PART I I I : DEVELOPM ENT THEORY
 
 Thesis No. 5
 
@@ -12727,8 +11911,6 @@ is basic-needs production as close as possible to where these products are consu
 which means 10cally,IO simply for human and nature survival. The position is not neces­
 sarily against world trade, only for reduction of its proportion of total trade, and for
 giving a role to each country in the world in a horizontal, equitable division of labor.
-
-Copyrighted Material
 
 THESES ON ECLECTIC DEVELOPMENT THEORY
 
@@ -12795,11 +11977,7 @@ into a near-depression state of that particular economic system).
 Essentially the C/N problem is a question of how scientists and high-level technicians
 are made use of. Have them work on military projects and their innovations may have
 
-Copyrighted Material
-
 1 82
-
-PART I I I : DEVELOPMENT THEORY
 
 very few civilian spillovers, moreover, they may become classified and hence non-avail­
 able. One more problem of the US economy.
@@ -12859,8 +12037,6 @@ it was sufficiently dcl:entralized. But Blue tends to centralize, potentially as
 with Yellow combining the processes. Hence, for development in nature and human
 spaces, Green and Pink elements are indispensable. Then, the distinction between jobs
 to make money and work for self-realization. Work is intrinsically creative; whenever it
-
-Copyrighted Material
 
 THESES O N ECLECTIC DEVELOPMENT THEORY
 
@@ -12922,13 +12098,7 @@ main diagonal (Chapter 2, Appendix), Green, Pink, and Yellow. Let anyone find hi
 her place at any time, weaving life trajectories in and out of the systems - and trying to
 respect the logic of all five spaces, all the time.
 
-Copyrighted Material
-
 1 84
-
-Notes
-
-PART I I I : DEVELOPM ENT THEORY
 
 I . For the idea of science as a synergistic combination of empiricism, criticism, and constructivism
 see chapter 2 with that title in lohan Galtung, Methodology and Ideology (Copenhagen: Ejlers,
@@ -13002,8 +12172,6 @@ or cantons?
 vidual variety), the basic thesis underlying his Social and Cultural Dynamics (Boston, MA: Porter &
 Sargent, 1 957).
 
-Copyrighted Material
-
 Development Theory: an Approach Across
 Spaces
 
@@ -13051,11 +12219,7 @@ more developed in basic ways than, for instance, Norway, even though the latter 
 richer per capita in conventional economic terms (but not in terms of a concept of wealth
 developed below).
 
-Copyrighted Material
-
 1 86
-
-PART I I I : DEVELOPM ENT THEORY
 
 5.2 Four Interaction Spaces and the Assumption of Isomorphism
 
@@ -13113,8 +12277,6 @@ fruitful general conceptualizations. We are too close to see ourselves, there is
 much at stake in ( ·ur subjective values and interests; Moreover: could it also be that
 natural scientists are simply better at that game, at doing science, than are human and
 social scientists? Or, as Einstein suggested, natural science is easiest?
-
-Copyrighted Material
 
 AN APPROACH ACROSS SPACES
 
@@ -13178,21 +12340,11 @@ but it leaves out a1\ international, trans-national and sub-national actors also
 in world space. The concept should be kept open. However, regardless of kind of actors,
 it makes sense to have a distinction between the world system encompassing all actors of
 
-Copyrighted Material
-
 PART III: DEVELOPM ENT THEORY
 
 Table 5. 1 Development Goals and Processes: a Systemic Approach
 
-Space
-
-Nature
-
 Human
-
-Social
-
-World
 
 Sub-space
 
@@ -13215,8 +12367,6 @@ national
 
 Regional
 
-World
-
 Code
 
 Genetic code
@@ -13225,7 +12375,6 @@ Genetic code
 Personality
 
 Structure
-Culture
 
 System
 
@@ -13236,8 +12385,6 @@ maintenance
 
 Somatic needs;
 Spiritual needs
-
-Social
 
 interests
 
@@ -13295,25 +12442,16 @@ Reconstruction
 Reconstruction
 
 Injury to
-needs
-Injury to
 
 reproduction
 capacity
 
-Injury to
-needs
-Injury to
 reproduction
 capacity
 
-Injury to
 interests
-Injury to
 
-Injury to
 interests
-Injury to
 
 reconstruction
 capacity
@@ -13347,10 +12485,6 @@ processes of that space as goal-seeking entities, with complex feedback relation
 
 Thus, each organism in the biosphere in nature space is the carrier of a genetic code
 that can be transmitted through reproduction. The genetic code gives us the upper and
-
-Copyrighted Material
-
-AN APPROACH ACROSS SPACES
 
 lower limits of the species in terms of differentiation, complexity, etc. This also goes for
 the somatic aspect of human beings. In addition human beings have deeper selves which
@@ -13409,11 +12543,7 @@ freedom needs. They are dialectically related. Identity needs demand some fixed 
 some nucleus around which the individual can build and extend unions over and above
 itself as biological organism. Freedom needs are the needs for space, for somatic,
 
-Copyrighted Material
-
 1 90
-
-PART I I I : DEVELOPMENT THEORY
 
 psychological, and spiritual mobility, for choice, in search of union or away from union.
 Maybe the freedom needs also include the needs to be able to escape from oneself - to
@@ -13473,10 +12603,6 @@ For nature space, these are the general conditions for ecological stability. But
 a brutal place. There are certainly exchange cycles, ecological cycles starting with water,
 carbon dioxide, and solar energy and ending with water and carbon dioxide (solar energy
 
-Copyrighted Material
-
-AN APPROACH ACROSS SPACES
-
 going on and on, that bountiful and seemingly endless input). But some of these cycles,
 when translated tnto rules of behavior in the human, social, and world spaces, are not
 what we are looking for. The food chain, with the 'higher' levels consuming the 'lower';
@@ -13534,11 +12660,7 @@ From here to social space there is but a short step: a strong society according 
 type of thinking would combine sociotopes and put them creatively together in exchange
 cycles. It would not be based on market mechanisms only or planning only, but on both,
 
-Copyrighted Material
-
 1 92
-
-PART I I I : DEVELOPM ENT THEORY
 
 at various levels and in various combinations. It would not be based on centralism only
 or on decentralization only, but on both. The net result would be a society with much
@@ -13594,10 +12716,6 @@ course, shared child-rearing. Precisely because this is so trivial, it bestows s
 on the scheme. The very condition for the reproduction of human space in a biological
 scene is already contained in the formula. The theory touches ground in a very basic
 sense.
-
-Copyrighted Material
-
-AN APPROACH ACROSS SPACES
 
 1 93
 
@@ -13656,11 +12774,7 @@ or structural holocaust - as it may also be called, that dying-out of people, cu
 young human flowers, infants, and small children in the Third World; the negation of
 freedom needs known as the KZ and the Gulag; and the negation of identity needs to the
 
-Copyrighted Material
-
 1 94
-
-PART I I I : DEVELOPM ENT THEORY
 
 point where the only focus of identity is one's own ego, one's own needs, not to mention
 greed - in other words, the 'spiritual death' caused by materialist individualism. Systems
@@ -13719,10 +12833,6 @@ that sense of somatic, mental, and social well-being as expressed by the World H
 Organization. Again, system maturity is a condition on which somatic, mental, and spir­
 itual health can be built, known as 'human development', or self-realization.
 
-Copyrighted Material
-
-AN APPROACH ACROSS SPACES
-
 1 95
 
 The same applies to social space, and to world space. System maturity is only a condi­
@@ -13754,13 +12864,9 @@ be afraid of holistic approaches. They are total, but they need not be totalitar
 small movements forward in all spaces in the direction of development, than giant jumps
 in only one direction.
 
-Copyrighted Material
-
 PART IV
 
 CIVILIZATION THEORY
-
-I
 
 Cultural Violence
 
@@ -13804,8 +12910,6 @@ the fact of structural violence are legitimized and thus rendered acceptable in 
 way cultural violence works is by changing the moral color of an act from red/wrong to
 green/right or at least to yellow/acceptable; an example being 'murder on behalf of the
 
-Copyrighted Material
-
 CULTURAL VIOLENCE
 
 1 97
@@ -13829,17 +12933,12 @@ meaning needs (negation: alienation); and freedom needs (negation: repression).4
 Table 1 . 1 A Typology of Violence
 
 Survival
-needs
 
 Well-being
 
-needs
-
 Identity
-needs
 
 Freedom
-needs
 
 Direct violence Killing
 
@@ -13860,9 +12959,7 @@ Desocialization
 Resocialization
 Secondary citizen
 Penetration
-Segmentation
 
-Repression
 Detention
 Expulsion
 Marginalization
@@ -13894,8 +12991,6 @@ world has experienced all of this during the last 50 years alone, closely associ
 names of Hitler, Stalin, and Reagan5, and Japanese militarism.6 In short, violence stud­
 ies, an indispensable part of peace studies, may be a cabinet of horrors; but like pathology
 they reflect a reality to be known and understood.
-
-Copyrighted Material
 
 1 98
 
@@ -13957,10 +13052,6 @@ immunity deficiencies; in the 'developed' countries, avoidably and prematurely, 
 vascular diseases and malignant tumors. All of this happens within complex structures
 and at the end of long, highly ramified causal chains and cycles.
 
-Copyrighted Material
-
-CULTURAL VIOLENCE
-
 1 99
 
 A violent structure leaves marks not only on the human body but also on the mind and
@@ -14017,10 +13108,6 @@ the other two can derive their nutrients. In the next stratum the rhythms of str
 lence are located. Patterns of exploitation are building up, wearing out, or torn down,
 with the protective accompaniment of penetration-segmentation preventing conscious-
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 ness formation, and fragmentation-marginalization preventing organization against
 exploitation and repression. And at the top, visible to the unguided eye and to barefoot
 empiricism, is the stratum of direct violence with the whole record of direct cruelty per­
@@ -14074,10 +13161,6 @@ primitive - meaning that one day they may come back and do the same to us as we 
 to them?14 Even to the point that when Germany attacked Norway in April 1 940, the offi­
 cial conclusion became that the Russians are dangerous because they may one day do the
 same. And here we see the surprise attack trauma. Could there be still a deeper stratum,
-
-Copyrighted Material
-
-CULTURAL VIOLENCE
 
 20 1
 
@@ -14134,8 +13217,6 @@ consequences follow, taken over by the other Semitic or Occidental religions, Ch
 and Islam. With god outside us, as God, even 'above' ('Our Father, who art in Heaven')
 it is not inevitable but indeed likely that some people will be seen as closer to that God
 than others, even as 'higher'. Moreover, in the general Occidental tradition of not only
-
-Copyrighted Material
 
 PART IV: CIVI LIZATION TH EORY
 
@@ -14226,11 +13307,7 @@ livelihood; there is desocialization within the theocratic state of Israel with 
 citizenship to non-Jews; there is detention, individual expulsion, and perennial threat of
 massive expulsion. There is exploitation, at least as exploitation B.
 
-Copyrighted Material
-
 '"
-
-CULTURAL VIOLENCE
 
 The four structural concomitants of exploitation are all well developed: efforts to
 make the Palestinians see themselves as born underdogs, at most heading for second-class
@@ -14290,8 +13367,6 @@ already given at birth - are hard to maintain in an achievement-oriented society
 modern society is a meritocracy, then to deny power and privilege to those on the top is
 to deny merit itself. To deny a minimum of 'modern orientation' is to open the field to any
 
-Copyrighted Material
-
 PART IV: CIVI LIZATION TH EORY
 
 belief, including denying power and privilege for the meritorious and a strict border
@@ -14350,10 +13425,6 @@ Spanish, French (and modern English), but not those with a Germanic base such as
 German and the Scandinavian languages - make women invisible by using the same
 word for the male gender as for the entire human species. The important movement for
 
-Copyrighted Material
-
-CULTURAL VIOLENCE
-
 non-sexist writing is a good example of deliberate cultural transformation away from cul­
 tural violence.24 The task must have looked impossible when some courageous women got
 started, and yet it is already bearing fruit. Then there are more subtle aspects of language
@@ -14408,8 +13479,6 @@ that prescribes that each country should enter the world market with those produ
 which that country has a comparative advantage in terms of production factors.
 
 In practice this means that countries well endowed with raw materials and unskilled
-
-Copyrighted Material
 
 PART IV: CIVI LIZATION T H EORY
 
@@ -14468,10 +13537,6 @@ it is at this level that occidental culture shows so many violent features that 
 ture starts looking violent. There is chosenness, there are strong Center-Periphery
 gradients. There is the urgency, the apocalypse now! syndrome precluding the slow, patient
 
-Copyrighted Material
-
-CULTURAL VIOLENCE
-
 building and enactment of structural and direct peace. There is atomistic, dichotomous
 thought with deductive chains counteracting the unity-of-means-and-ends. There is arro­
 gance toward nature counteracting the unity-of-life. There is a strong tendency to
@@ -14527,10 +13592,6 @@ the ends will take care of themselves'. Thus the unity-of-life doctrine is very 
 from a doctrine of 'ecological balance', since it means enhancing all life, not just human
 life; and all human life, not just the categories chosen by some (to Gandhi, distorted or
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 misunderstood) religion or ideology. And the unity-of-means-and-ends would lead to a
 doctrine of synchrony, calling for work on all issues simultaneously34 rather than the
 diachrony of one big step that is assumed to trigger the force motrice. Archetype: the
@@ -14573,8 +13634,6 @@ violence' spans the whole spectrum of social sciences. Peace research has so muc
 learn, so much to take, to receive. Perhaps we shall also in due time have some contribu­
 tions to make: in the spirit of diversity, symbiosis, and equity.
 
-Notes
-
 I . 'Cultural violence' follows in the footsteps of the concept of 'structural violence'; see my
 'Violence, Peace and Peace Research', Journal of Peace Research, vol. 6, no. 3, 1 969, pp. 167- 1 9 1 . For
 a more recent and very constructive critique and etTort to develop the idea further, see Michael Roth,
@@ -14584,10 +13643,6 @@ Saner, 'Personale, strukturelle und symbolische Gewalt', pp. 73-95 in Hoffnung u
 Ferne des Friedens (Basel: Lenos & Z. Verlag, 1 982).
 
 2. There have been many etTorts to create the 'new man' (and woman?). In the West each new
-
-Copyrighted Material
-
-CULTURAL VIOLENCE
 
 branch of Christianity is an effort, so is humanism, so is socialism. But any inculcation in others of
 any single culture is in itself an act of direct violence (meaning intended by the actor), usual1y
@@ -14670,11 +13725,7 @@ nationalist constructions in Japan. After his party's defeat in the 23 July 1989
 Prime Minister, Kaifu, did not visit the shrine on the anniversary of the capitUlation I S August 1 945,
 well knowing that the winds were blowing more from the left.
 
-Copyrighted Material
-
 2 1 0
-
-PART IV: CIVILIZATION THEORY
 
 1 8. Nowhere have I seen a clearer example of such deep integration of the military into the uni­
 versity as with the Reserve Officers Training Corps (ROTC) in the USA, which even permits the
@@ -14758,8 +13809,6 @@ will concentrate on one of these, and the rest will follow.
 
 (Copenhagen: Ejlers, 1 988), ch. 1 . 1 , especially p. 2 5 fT.
 
-Copyrighted Material
-
 Six Cosmologies:
 an Impressionistic Presentation
 
@@ -14807,8 +13856,6 @@ By 'Occident' we understand the region characterized by the Semitic-Abrahamitic
 religions (Judaism, Christianity, Islam); by 'Orient' the region spanned by Buddhism,4
 alone (Buddhic) or combined with other visions (Sinic and Nipponic);S and by 'Indic' the
 vast in-between, whether seen as cross-roads or cradle of the other two.
-
-Copyrighted Material
 
 2 1 2
 
@@ -14872,8 +13919,6 @@ ture, and cultural violence is certainly also found at that level (Chapter I). T
 together should give us a general basis for spelling out the implications we are looking for
 in terms of peace and war, conflict and development (Chapter 3). Moreover, within any
 
-Copyrighted Material
-
 S I X COSMOLOGIES
 
 2 1 3
@@ -14895,15 +13940,8 @@ Nipponic
 NATURE
 Humans
 
-Humans
-
-Humans
-
-over nature
-
 Herrschaft
 
-over nature
 Herrschaft
 
 Meatism
@@ -14920,19 +13958,6 @@ life over
 non-life
 Partnerschaft
 Vegetism
-
-Humans
-
-Humans
-
-over nature
-Mixed
-
-over nature
-
-Mixed
-
-Mixed
 
 Mixed
 
@@ -14954,67 +13979,42 @@ Knots
 
 Strong
 
-super-ego
-
 Weak ego
 Mixed id
 
-Mixed
-super-ego
 Mixed ego
 Mixed id
 
 Strong
 
-super-ego
 Weak ego
 Weak id
 
-Mixed
-super-ego
 Mixed ego
 Mixed id
 
 Strong
 
-super-ego
-
 Weak ego
 Mixed id
 
-Vertical
-
 caste and
-gender
-collective
 Knot sets
 
-Vertical
-
 caste and
-gender
 mixed
 Knot+net
 
 Horizontal
 sangha, but
-gender
-collective
 
 Nets
 
-Vertical
-
 mixed but
-gender
 mixed
 Knot+net
 
-Vertical
-
 mixed but
-gender
-collective
 Nets+sets
 
 WORLD
@@ -15029,13 +14029,11 @@ Bounded
 Unbounded
 
 unityofhumans
-Bounded
 
 Many parts:
 each
 parI a
 Center
-Bounded
 
 Three parts:
 
@@ -15056,10 +14054,6 @@ U U
 
 � � � �
 
-Bounded
-
-Bounded
-
 Unbounded
 
 Unbounded
@@ -15069,12 +14063,6 @@ Unbounded Unbounded
 Society
 
 \.X\ u"Lf � �
-
-Bounded
-
-Bounded
-
-Bounded
 
 Unbounded
 
@@ -15143,7 +14131,6 @@ Reincarnation Rebirth
 No Satan
 No soul?
 Rest
-Mixed
 
 Transc. &
 
@@ -15154,7 +14141,6 @@ people
 No Satan
 No soul?
 Rest
-Mixed
 
 Plur.luniv.
 
@@ -15164,23 +14150,13 @@ Plur.lpart
 
 Plur.lpart
 
-Eclectic
-Eclectic
-Eclectic
-
 Holistic
 Dialectic
 Contradiction
 
-Eclectic
-Eclectic
 Contradiction
 
-Eclectic
-Eclectic
 Contradiction
-
-Copyrighted Material
 
 2 1 4
 
@@ -15244,8 +14220,6 @@ that eternity, the human life-span, at their disposal for the struggle. The conc
 religion is the only Truth (singularism), valid throughout space and time (universal­
 ism),15 as expressed in the Mission Command. 16 What could be stronger?
 
-Copyrighted Material
-
 SIX COSMOLOGIES
 
 2 1 5
@@ -15305,11 +14279,7 @@ positions become frozen in a caste system, organizing Clergy, Aristocracy, Burgh
 workers/serfs in that order, continuing with outcasts (Jews, Moors, Gypsies, etc.) and then
 down to animals, plants, minerals, water, air, and space.
 
-Copyrighted Material
-
 2 1 6
-
-PART IV: CIVILIZATION THEORY
 
 All of this becomes highly compatible with a strong super-ego built into the Self, sup­
 pressing the ego (the sociologist would talk in terms of strong social control in the local
@@ -15367,8 +14337,6 @@ Buddhic structuralism, emphasizing the network as such, are at home here, an exp
 of the Indic ability to harbor so many cosmologies. The oneness of the World is basic to
 the total construction. The Sanskrit saying vasudaiva kuttumbakam (the world is my
 family), encapsulates this. However, that unity is probably seen as having a base not only
-
-Copyrighted Material
 
 SIX COSMOLOGIES
 
@@ -15431,8 +14399,6 @@ gies fail here, but Buddhism perhaps less than the others.28
 
 But the basic point in the construction of society is the net construct whereby the indi­
 vidual as something equipped with an immutable and permanent self is (almost) made
-
-Copyrighted Material
 
 2 1 8
 
@@ -15497,8 +14463,6 @@ a lot of rice, and vegetables, and soups.
 
 Confucianism left its major imprint on the construction of Society and the World.
 
-Copyrighted Material
-
 SIX COSMOLOGIES
 
 2 1 9
@@ -15561,8 +14525,6 @@ ii construction, the Greater East Asia Co-prosperity Spherei of the Pacific War 
 mology: Resourcia. Whereas the Chinese might disregard Barbaria, except as a potential
 threat, this third part of reality, also unbounded, is to the Japanese one vast Resource, a
 
-Copyrighted Material
-
 PART IV: CIVI LIZATION THEORY
 
 place to seek knowledge and raw materials and to sell products of increasing sophistica­
@@ -15602,8 +14564,6 @@ Buddhic rather nice but also withdrawn; Sinic about as arrogant as Occident I bu
 a bully; and Nipponic extremely impressive, but also arrogant and withdrawn. No good
 world citizens among them. But this is the world in which we live.
 
-Notes
-
 I . Any person (P) in any situation (S) possesses a certain culture, but not a civilization by this def­
 inition. The civilization is shared, synchronically and diachronically, and the focus here is on vast
 ranges in space and time; not only P in S. The term 'civilization' carries no connotation of high and
@@ -15629,8 +14589,6 @@ with other world-views.
 5. The Philippines (Catholic/Muslim) and Indonesia (Muslim) belong to the Occident by this def­
 
 inition in cultural rather than geographical terms.
-
-Copyrighted Material
 
 SIX COSMOLOGI ES
 
@@ -15716,10 +14674,6 @@ accommodate everybody.
 things whatsoever I have commanded you; and, 10, I am with you always, even unto the end of the
 world' (my italics).
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 1 7. From Descartes, Discourse on Method and the Meditations, translated by F. E. Sutcliffe
 
 (London: Penguin, 1 968), p. 4 1 ; originally from 1 637.
@@ -15785,8 +14739,6 @@ obedience to authority, kindness and ethical virtue toward the lower classes.
 
 33. On the other hand, there is also the element of 'knight' in the translation of shi'h.
 
-Copyrighted Material
-
 Implications: Peace, War, Conflict, Development
 
 3.1 Cosmology and the Ideas of Development and Peace
@@ -15831,8 +14783,6 @@ and world Periphery consists of those people and societies that accept the guidi
 Principle; others, who do not accept the Principle, are Evil. Peace implies their elimina­
 tion/incapacitation/marginalization, so that development can proceed unimpeded by evil
 forces. And this may have catastrophic implications for Other.
-
-Copyrighted Material
 
 PART IV: CIVI LIZATION THEORY
 
@@ -15888,8 +14838,6 @@ and Social, with its ups and downs. Again, since salvation, reincarnation, and/o
 are weakly articulated, the burden of continuity is placed on the family and society. The
 personal and social accumulation of wealth needed to bring this about would be part of
 
-Copyrighted Material
-
 I MPLICATIONS
 
 the development concept. The Episteme will have to serve this, being essentially Japan­
@@ -15909,13 +14857,10 @@ Apocalypsis, which will also 'solve' everything.
 
 Table 3. 1 Cosmologies in Terms of Time and Space Boundedness
 
-Time
 bounded
 
-Time
 unbounded
 
-Space
 unbounded
 
 Occident (
@@ -15923,7 +14868,6 @@ Occident (
 Sinic
 Nipponic
 
-Space
 bounded
 
 Occident II
@@ -15958,10 +14902,6 @@ ory: peace through deterring any potential aggressor. The aggressor will be coun
 home with defensive defense and/or abroad with offensive defense, or plain aggression.
 Mainstream Occidental thought about peace has changed little during the past 2,000
 years, apart from some Oriental-type elements during the medieval, Occident II, period.
-
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
 
 Broader definitions of peace usually include the concept of pax, but then extend it by
 asking three questions: 'What type of violence?', 'Violence by whom?', and 'Peace with
@@ -16025,8 +14965,6 @@ is to bring them together again.
 Today there is an overlayer of Occident I practically speaking everywhere, like a veil;
 maya. The other concepts are subjugated underneath, struggling like seeds under asphalt.
 
-Copyrighted Material
-
 IMPLICATIONS
 
 On top is the Occident I theory and practice of peace and security: a world with its cen­
@@ -16086,8 +15024,6 @@ Center. Hence, stay strong, stay vigilant!
 
 The Occidental episteme enters here: a couple of simple ideas on the top, and a lot of
 
-Copyrighted Material
-
 PART IV: C I V ILIZATION THEORY
 
 highly concrete and more or less logical satellites, at the bottom of the thought system.
@@ -16146,8 +15082,6 @@ Right and Left in domestic Occidental politics, or between liberalism and Marxis
 Much more is at stake: the whole military approach is an almost perfect articulation of
 cosmological assumptions, and for that reason rooted in Occidental ism itself. Preparation
 for war, and war itself, fit only too well into the general code. A change in attitude is very
-
-Copyrighted Material
 
 I M P L ICATIONS
 
@@ -16209,10 +15143,6 @@ level. At the national level, security and growth become goals in their own righ
 lective conditions for satisfying individual needs for freedom and well-being as
 understood in the Occident. 16 Peace and development are system characteristics, not
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 dependent on individual persons and nations only. But epistemological atomism is cen­
 tral to the Occident, focusing on individuals, not systems.
 
@@ -16269,10 +15199,6 @@ tural unity to the latter, except in the crucial sense which will be employed he
 relatively small-scale and part of a multi-centric network.
 
 For easy recall, let us repeat the construction of space by the six cosmologies, adding
-
-Copyrighted Material
-
-IMPLICATIONS
 
 'indigenous' at the end, in this effort to understand how much of peace and war can be
 understood as enactment of the world-space aspects of the cosmologies.
@@ -16335,8 +15261,6 @@ has been bellum omnium contra omnes. Occident I logic has been projected on all 
 taking expansionism for granted for all states as natural and normal. Empty space is filled
 and non-empty space is conquered, until the costs outrun the benefits. At that point a
 more-or-Iess stable border is drawn, if it can be adequately protected through balance-of-
-
-Copyrighted Material
 
 PART IV: CIVILIZATION TH EORY
 
@@ -16445,10 +15369,6 @@ civilization in expansion to display unconcern for its belligerent history, beli
 be the center of any peaceful construction the world can obtain. The logic is simple: only
 the good (Occident I) can be the cause of a good effect (peace).
 
-Copyrighted Material
-
-IMPLICATIONS
-
 [3] Indic - Indic A distinction has to be made between the way 'Indic' is used here, for
 the Hindu civilization, and India with its present and British raj borders, before partition.
 Within those areas inter-nation wars and threats of war have been, and are, rampant. But
@@ -16500,8 +15420,6 @@ expansionist in inclination, identifying expansion with progress, heading for cr
 own construction and seeing them as normal, inspired by simplistic theories about how
 to expand, inconsiderate to nature, eager to expand its Periphery by conquering other
 peoples, politically, militarily, economically and/or culturally driven either by Occidental
-
-Copyrighted Material
 
 PART IV: CIVI LIZATION TH EORY
 
@@ -16565,10 +15483,6 @@ more refined inter-civilizational relations. However, it also helped that Occide
 ther Occident II nor Buddhism as evil 'savages'. By contrast, the indigenous were seen as
 evil, or at least as belonging to a neighboring category to Evil, 'primitive'.
 
-Copyrighted Material
-
-IMPLICATIONS
-
 [7] Occident 1 - Indic One of the 'Chosen People' of the Occident, the British, con­
 quered India; they left behind indelible imprints and were then finally forced, largely by
 Gandhian nonviolence, to withdraw in 1 947. India, however, also absorbed from its con­
@@ -16622,8 +15536,6 @@ that Occident I is becoming increasingly associative in the West (another danger
 Occident I in tripartite Europe).
 
 [ 1 0] Multi-centric - Indic At this point another aspect of Indic. civilization is brought
-
-Copyrighted Material
 
 PART I V: CIVILIZATION TH EORY
 
@@ -16680,8 +15592,6 @@ that this, at least so far, has held true even though both countries have two in
 of Occidental expansionism, the nation-state with many of its trimmings. and powerful
 armies with atom bombs. The state of non-war is remarkable and to their honor. But this
 is negative rather than positive peace, and essentially vacuous.
-
-Copyrighted Material
 
 I MPLICATIONS
 
@@ -16742,8 +15652,6 @@ tion sign in parenthesis).
 By and large Table 3.2, based on simple assumptions in the cosmologies of the civi­
 lizations, reproduces the geopolitics of war and peace relatively well. This becomes even
 more clear when more cosmology dimensions are included (see Chapter 5).
-
-Copyrighted Material
 
 ,.
 
@@ -16807,10 +15715,6 @@ The superficiality of believing that mere transfer of ownership of means of prod
 from private to public hands should liberate humankind from the scourge of war becomes
 evident in the light of this type of exploration: whether in public or private hands, the
 
-Copyrighted Material
-
-IMPLICATIONS
-
 means of production can still be used for expansionist aims if this is in the cosmology, by
 producing means of destruction. The same applies to the superficiality of believing that
 democratization of nation-states will bring about peace. To the contrary: it may serve bet­
@@ -16823,8 +15727,6 @@ good to remember that research means re-search. Even if deep roots of violence a
 are in the cosmology, which in turn is collective and subconscious, there may be ways of
 breaking the collective crust into sub-collectives and individuals, and ways of making the
 subconscious conscious.
-
-Notes
 
 I . This is the definition from Thesis No. I, in Part III, Chapter 1 . 1 .
 2 . This is very close to the more dynamic definition o f peace in Part I , Chapter 1 . 1 , only that
@@ -16891,10 +15793,6 @@ own property, and to use property to make more property.
 1 6. See Johan Galtung, 'The Basic Needs Approach' pp. 55- 125 in K. Lederer, ed., Human Needs
 
 (Konigstein: Anton Hain, 1980).
-
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
 
 1 7. They are: the world Northwest (capitalist), the world Northeast (ex-socialist), the world
 Southwest (Third World) and the world Southeast (Japan, China, and other countries in East and
@@ -16976,8 +15874,6 @@ ation inspiring the Japanese historian Saburo lenaga to write his book The Pacif
 Occidental civilizations, witnessed, for instance, i n the acts o f nonviolence i n the Philippines i n
 1 986, i n the Civil Rights struggle i n the United States, etc.
 
-Copyrighted Material
-
 Specifications: Hitlerism,
 Stalinism, Reaganism I
 
@@ -17027,10 +15923,6 @@ Testaments: either complete catharsis, a perfect contradiction-free existence (p
 or total damnation, apocalypsis, destruction of everything (hell). Nazism stands out as
 
 .
-
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
 
 a latter-day incarnation of general Occidental time cosmology, including eschatological
 aspects. It sprang forth from the fertile soil prepared by Lutheran eschatology and
@@ -17088,8 +15980,6 @@ and less reminiscent of human civilization, ultimately becoming purely terrorist
 
 It became the right, indeed the duty, of the strong to rule over the weak; Aryans over
 Jews; men over women; the middle-aged over the young and the old; the 'normal' over the
-
-Copyrighted Material
 
 SPECIFICA nONS
 
@@ -17154,10 +16044,6 @@ particular; a people easily mobilized with a strongly vertical image of social r
 even to the point of legitimizing exterminism; and with its eschatological conclusion in
 terms of catharsis/apocalypse.
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 Result: Gotterdammerung. heaven or hell. Tausendjahriges Reich or Vernichtung. includ­
 ing Vernichtung of Self. The last point cannot be stressed enough as a key aspect of
 Nazism. There is not only the right. but even the duty to exterminate others. the vermin.
@@ -17214,8 +16100,6 @@ spaces. They mistake the real center of the world for its periphery. They do not
 stand that Russia is waiting for her time to come, the sleeping giant.
 
 Time: Russia is waiting. with tremendous patience, and time perspectives as vast as its
-
-Copyrighted Material
 
 SPECIFICATIONS
 
@@ -17277,8 +16161,6 @@ Bible becomes das Kapital; Jesus Christ the revealer/redeemer is shared between 
 revealer and Lenin the redeemer, lying in the Red Square mausoleum in 'arisen' form, the
 holy tomb; symbolic of Moscow as the capital of the Chosen People.
 
-Copyrighted Material
-
 PART IV: CIVI LIZATION THEORY
 
 Joining the church becomes joining the party; conversion remains conversion; salvation
@@ -17337,8 +16219,6 @@ independent peasanthood, nothing however faintly reminiscent of landlordism. All
 tance or impediments were lumped together as kulaks, to be exterminated. And nothing
 should stand in the way of the PMP and BCI complexes either: by 1 939, two-thirds of the
 central committee of the party in the 1 5th Congress of 1 927 had been killed. The same
-
-Copyrighted Material
 
 SPECIFICA nONS
 
@@ -17401,10 +16281,6 @@ the nation.
 
 In short, Homo americanus was and is a rather successful case of Homo occidentalis,
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 not only in his own eyes but also in the eyes of others. Starting from scratch the United
 States, the first modern nation, populated by plebeians; almost exterminating the Native
 American population through genocide; importing a new black under-class as slaves;
@@ -17460,8 +16336,6 @@ not heard of, although this might be even more correct historically; the two rel
 being more similar.
 
 The Jews and the state of Israel are on the side of the fundamentalist God of the
-
-Copyrighted Material
 
 SPECI FICATIONS
 
@@ -17522,8 +16396,6 @@ necessary and sufficient in order to understand the workings of the Devil.
 
 To see the Soviet Union as 'equal', as 'one of two superpowers', was simply blasphemy.
 How could Evil be equated with Good? Moreover, the Devil plays a game; dominoes. He
-
-Copyrighted Material
 
 PART IV: CIVI LIZATION THEORY
 
@@ -17587,8 +16459,6 @@ deserve to suffer the consequences.
 There is a certain consistency to all of this. Reaganism is an elaboration of basic US
 tenets adjusted to nuclearism and US relative economic decline. Most important are the
 
-Copyrighted Material
-
 SPECIFICATIONS
 
 guiding lights for economic, social, political, and military action, how World space is
@@ -17650,8 +16520,6 @@ icanus in extremis, is a broader category than Reaganism, and was also to a larg
 carried by his successor. It will remain as latent cosmology, and will probably manifest
 itself again, in periods of crisis.
 
-Copyrighted Material
-
 PA RT IV: CIVILIZATION T H EO RY
 
 4.7 Conclusion: What Can We Do About It?
@@ -17682,8 +16550,6 @@ noticed; internalize that one, and the next step is not perceived either. The mi
 identify extremisms only with bad periods and persons in history. The same soil may
 bring forth the same weeds again. And again.
 
-Notes
-
 I . This chapter is based on my Hitlerism, Stalinism, Reaganism: Three Variations on a Theme by
 Orwell (Norwegian edition Oslo: Gyldendal, 1 984; Spanish edition Alicante: Gil Albert, 1 985;
 German Edition, Baden-Baden: Nomos, 1987; revised English edition forthcoming (under the title
@@ -17695,8 +16561,6 @@ reader is referred to the book for more details.
 on paper should not be underestimated; that is where it usually starts.
 
 3. Much more will be said in A Theory o/ Civilizations, forthcoming.
-
-Copyrighted Material
 
 Explorations: Are There Therapies for
 
@@ -17747,10 +16611,6 @@ dimensions of a culture have been selected here:.
 ers, endowed, even anointed, to be a light unto others, even with the right and duty of
 governing them.
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 Table 5. 1 Geopolitics: Cultural Factors in a 7-Polar World
 
 The poles
@@ -17766,7 +16626,6 @@ I. US
 pole
 
 II. EU
-pole
 
 by God as
 
@@ -17808,7 +16667,6 @@ Underdevelopment
 II.
 
 Japan
-pole
 
 by Amaterasu-
 O-mikami
@@ -17816,7 +16674,6 @@ O-mikami
 dai-(o-ii
 
 IV. Moscow
-pole
 
 by History
 (betrayed)
@@ -17827,12 +16684,10 @@ Russia
 V.
 
 Beijing
-pole
 
 Simply is
 
 VI. India
-pole
 
 Cradle of
 
@@ -17841,8 +16696,6 @@ civilization
 VII. Islam
 
 by Allah
-
-pole
 
 Perfect
 autonomy
@@ -17885,8 +16738,6 @@ tion of self-fulfilling prophecies coming true.8
 
 The three parts of the syndrome reinforce each other socially, not only as ideas. People
 chosen to be a light unto others,9 even to rule them, will experience an endless chain of
-
-Copyrighted Material
 
 EXPLORATIONS
 
@@ -17946,8 +16797,6 @@ therapeutic community. Even more important is 'kicking the deviant upstairs', de
 that his deviance is competence at higher levels, like identifying the shaman.20 At the top
 of hierarchies there is no need to meet people, only words.21
 
-Copyrighted Material
-
 PART I V: C I V I LIZATION TH EORY
 
 Imagine a megalo-paranoid person in a megalo-paranoid civilization. The person suf­
@@ -18004,10 +16853,6 @@ and so forth. From one angle they can be divided into two: those that are openly
 and hence carry elements of punishment, and the others. If the therapists are instru­
 ments of social control on behalf of the social order, they will, like other authorities, tend
 to prefer apathy to revolt, and organize their 'therapies' accordingly. An apathetic
-
-Copyrighted Material
-
-EXPLORATIONS
 
 patient, like a non-crying baby, is 'good'. Lobotomy and ataraxia induce that state; as
 with killing, banishment, and institutionalization the patient is rendered powerless. and
@@ -18067,8 +16912,6 @@ on an Other-directing psychoanalyst as indispensable, as opposed to client-cente
 Self-directed therapy and humanistic psychology.35 Paradigm II is neither, but welcomes
 outer dialogues with others in the same situation.
 
-Copyrighted Material
-
 PART IV: CIVILIZATION TH EORY
 
 Third, there is the element of confrontation, of challenging those subconscious forces
@@ -18126,10 +16969,6 @@ people to eliminate another, and by the chosen persons eliminating others.
 
 Not accepted by Hitler were the marginalized communities that would let Jews
 
-Copyrighted Material
-
-EXPLORATIONS
-
 associate with themselves, defining their apartness as normal: the ghetto system in use
 since the early 1 6th century. Nor, indeed, the tolerance of assimilating Jews into society,
 the liberal approach since the 1 9th century; and certainly not allowing them leadership
@@ -18184,8 +17023,6 @@ not only mainstream overt ideology but also the covert assumptions in the cosmol
 The parallel rumblings may even be consciously shared. But this would at most lead to
 subversive subcultures within society, with a counter-cosmology gradually taking the
 shape of an ideology with transformation potential, like working-class socialism, female
-
-Copyrighted Material
 
 PART I V: C I V I LIZATION THEORY
 
@@ -18246,10 +17083,6 @@ the Soviet Union, administering the triple medicine of pluralist democracy, free
 economy, and Christianity by governmental action, corporate investment and US mis­
 sionaries respectively. But the Germans lacked the inner readiness; that was to come
 
-Copyrighted Material
-
-EXPLORATIONS
-
 26 1
 
 through the youth revolt one generation later. Japanese elites probably never underwent
@@ -18305,8 +17138,6 @@ wonder.
 Evidently something succeeds, since many of the empires driven by CMT-complexes are
 no longer with us. Probably they became exhausted, feU victim to their own success, or
 
-Copyrighted Material
-
 PART IV: CIVILIZATION TH EORY
 
 were simply beaten. Whether the latter approach leads to the kind of deep Self-reflection
@@ -18329,8 +17160,6 @@ difficult it is to practice the old admonition to know yourself, gnothi seauton.
 the condition for any therapy, whether of the Other-oriented Paradigm I (authoritarian
 and more dialogical varieties) or the Self-oriented Paradigm II varieties. Or any combi­
 nation of them, in series or parallel. At any rate, we have much to learn.
-
-Notes
 
 I . 'The Emerging Conflict Formations' in M ajid Tehranian & Katharine Tehranian,
 
@@ -18387,10 +17216,6 @@ The only countervailing force that can effectively balance monotheism is monosat
 14. The defeat in Viet Nam played into that kind of thinking for fundamentalist Americans; the
 
 Gulf War was then the confirmation that they still enjoyed God's favor.
-
-Copyrighted Material
-
-EXPLORATIONS
 
 1 5. Of the six hegemons three are global (USA, EU, Japan) and three are regional (Moscow,
 
@@ -18486,10 +17311,6 @@ scare others.
 
 how, so impure and impure belong together.
 
-Copyrighted Material
-
-PART IV: CIVILIZATION THEORY
-
 43. This is elaborated to some extent in my United States Foreign Policy as Manifest Theology (San
 
 Diego, CA: University of California, lGCC, 1 987).
@@ -18554,8 +17375,6 @@ much on tourism rather than the difficult job of sophisticated processing and in
 
 ence behind more than 200 military interventions around the world?
 
-Copyrighted Material
-
 CONCLUSION:
 
 PEACE AND CONFLICT,
@@ -18601,8 +17420,6 @@ This puts some demands on the conflict system and the actors embedded in it. The
 actors have to be nonviolent and creative. And the transformation (inside and outside
 parties, dialogues and conferences, etc.) should be peaceful in itself, meaning low on
 structural and cultural violence. When a transformation process is underway, vertical,
-
-Copyrighted Material
 
 CONCLU S I ON
 
@@ -18664,8 +17481,6 @@ favor by projecting unwarranted optimism or pessimism on reality.
 
 There is the danger of apodictic 'knowledge', the synthetic a priori, true by fiat, need­
 ing no check against empirical reality. In the West layers of 'apodicticity' can be found in
-
-Copyrighted Material
 
 CONCLUSION
 
@@ -18729,10 +17544,6 @@ peace workers. There is probably much to learn from monasteries and from militar
 schools: both take in much more of the person. Of course, the military imparts knowledge
 of how to increase suffering and decrease life, with compassion only for their own kind,
 
-Copyrighted Material
-
-CONCLUSION
-
 and hatred of the other side. But imagination and perseverance are key ingredients. Put
 a manual for soldiers - essentially teaching how to commit murder without suffering the
 same fate - next to manuals in nonviolence; identifying the dissimilarities is easy, but the
@@ -18795,10 +17606,6 @@ ment, even in the name of peace. I
 
 Concerning 'power', the critique focuses on what may lie waiting at the end of the arms
 
-Copyrighted Material
-
-CONCLUSION
-
 race spiral: war 'with all necessary means'. The subjective probability of nuclear war held
 by nuclear planners may have been low, but it was not zero lest the credibility of a second
 strike also become zero. Planners were, in fact, contemplating a holocaust, exterminating,
@@ -18854,10 +17661,6 @@ War crime tribunals, like the International Crimes Tribunal for Former Yugoslavi
 (lCTFY) in The Hague with its 24 prison cells, are also a way of creating martyrs. Actors
 are punished for ghastly deeds when they are low-class people from low-class countries
 ('the Balkans") and murder directly, face to face, often torturing and raping first - as
-
-Copyrighted Material
-
-CONCLUSION
 
 opposed to the cool killing from a distance, and as opposed to those high up who give
 orders from the outside or manipulate political situations from the inside. The fateful pre­
@@ -18918,10 +17721,6 @@ lation, and training ii 1 conflict mediation techniques, knowing what to say, wh
 when suddenly in a room with the conflict parties present, filled with mutual and well-jus­
 tified hatred.
 
-Copyrighted Material
-
-CONCLUSION
-
 27 1
 
 Then, if women are better at relating and less inclined to use hardware, make sure that
@@ -18979,10 +17778,6 @@ negotiations) are major obstacles to peace.
 'Because it leads to peace' is not good enough; we cannot know that in advance, that
 would be apodicticity. 'Because it is intended to lead to peace' is not good enough either;
 everybody can say that; even the military ready to spread death around may protest,
-
-Copyrighted Material
-
-CONCLUSION
 
 'peace is our profession'. 'Because there is a demand and we deliver the supply', or
 'because we are the supply and create the demand' are the two sides of market logic, but
@@ -19044,10 +17839,6 @@ The task of creative, positive conflict transformation is not only to avoid viol
 abstain from the irreversible, but to increase the entropy by emerging from that phase of
 conflict with more mature selves and more mature social formations around. Conflict,
 
-Copyrighted Material
-
-CONCLUSION
-
 then, becomes the Great Teacher, a spiritual gift to all of us. But conflict transformation
 may also be negative, leaving enormous irreversibilities in homosphere, biosphere, litho­
 sphere, hydrosphere, atmosphere, cosmosphere, and damage to the soul not easily
@@ -19100,10 +17891,6 @@ An alternative would be to keep the high entropy of living next to each other, b
 autonomy around one parliament for each national constituency, with a monopoly on the
 administration of the sacred points in space and time, on language, religion, ideology, and
 
-Copyrighted Material
-
-CONCLUSION
-
 idiom (meaning most of education), on policing and courts for self-policing and self­
 adjudication, and for some aspects of the economy. The way US Democrats and
 Republicans do when voting in the primaries, or the Sami in Norway do when they vote
@@ -19134,8 +17921,6 @@ right now) - to the problem of establishing a code of conduct. If they do not do
 sure somebody else will, like a state system highly jealous of its presumed monopoly on
 conflicts. This is a major task - and one to be taken on sooner rather than later.
 
-Notes
-
 1 . This is explored in some detail in my There are A lternatives! (Nottingham: Spokesman, 1 984),
 
 chs 3 & 4.
@@ -19154,8 +17939,6 @@ Essays in Peace Research, vol. I (Copenhagen: Ejlers, 1 975).
 der between Iraq and Kuwait.
 
 6. I am indebted to HAkan Wiberg for these approximate but easily remembered figures.
-
-Copyrighted Material
 
 Index
 
@@ -19296,8 +18079,6 @@ Christianity, 44, 132
 civil disobedience. I l l . 1 1 8
 civil society, 4, 23n2, 36, 146
 civilian peacekeeping, 5
-
-Copyrighted Material
 
 gradient, 67
 lower-middle-upper, 162
@@ -19549,8 +18330,6 @@ desocialization-resocialization,
 
 197, 209 n2
 
-Copyrighted Material
-
 deterrence. 6 1
 Deutschland iiber alles, 243
 development, 1 27-195
@@ -19636,8 +18415,6 @@ cost-benetit analysis, 1 83
 Daoist-Confucian-Buddhist
 
 East Asia, 1 78
-
-INDEX
 
 dynamism-replacement ethics,
 
@@ -19820,8 +18597,6 @@ for theory-building. 1 56
 and trade-offs, 166
 as value-dimensions, 1 56
 
-Copyrighted Material
-
 fault-lines, 30, 37. 38, 60, 65
 FBI-CIA-NSA-NRO, 249
 federation, 53
@@ -19904,8 +18679,6 @@ n7
 l1eintz, peter, 263 n23
 l1elsinki Process, 8. 28
 Herrenvolk- Untertanen, 24 1 . 243
-
-INDEX
 
 Herr-Knecht, 94
 
@@ -20223,10 +18996,6 @@ Mandela, Nelson, 273
 
 (NN), 93
 
-Copyrighted Material
-
-INDEX
-
 nirvana. 8 1
 Nixon. Richard. 8 6
 Nkrumah. Kwame, 94
@@ -20485,10 +19254,6 @@ quid pro quo, 54
 o f Christianity-Islam. 239 n 8
 s i vis pacem. para bellum. 26. 9 1 .
 
-Copyrighted Material
-
-INDEX
-
 slavery, 5, 49, 1 33, 142
 Smith, Adam, 140, 205
 smithism, 140-1 44, 1 70
@@ -20689,5 +19454,3 @@ Yugoslavia, 8 , 269
 
 zhong dao, 222 n29
 Zhong guo, 2 1 3, 2 1 9
-
-Copyrighted Material

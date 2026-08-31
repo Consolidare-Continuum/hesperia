@@ -1,4 +1,3 @@
-
 Lareau(E).qxd 5/7/2003 5:10 PM Page i
 
 Unequal Childhoods
@@ -138,8 +137,6 @@ Index
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page ix
 
-Acknowledgments
-
 I am very grateful to the children and their families who very graciously
 welcomed us into their lives, allowed us to follow them around, laughed
 at us and with us, and helped us understand them. Because of issues of
@@ -170,8 +167,6 @@ ix
 Lareau(E).qxd 5/7/2003 5:10 PM Page x
 
 x
-
-Acknowledgments
 
 data for all of the interviews. She also generously shared with me her
 interviews with some of the families for her dissertation and was a
@@ -211,8 +206,6 @@ the Joint Center for Policy Research at Northwestern University;
 Princeton University; the University of Pennsylvania; University of Wisconsin, Madison; and, at an early point, the University of California, Los
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page xi
-
-Acknowledgments
 
 xi
 
@@ -257,8 +250,6 @@ needed to write a book is in mutual conflict with dynamics of family
 Lareau(E).qxd 5/7/2003 5:10 PM Page xii
 
 xii
-
-Acknowledgments
 
 life. The demands of writing lead one to not be present at home, and the
 demands of family life can, at times, impede one's work. But family
@@ -350,8 +341,6 @@ and have them ready for school the next morning. But unlike middle-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 3
 
-Concerted Cultivation and Natural Growth
-
 class parents, these adults do not consider the concerted development of
 children, particularly through organized leisure activities, an essential
 aspect of good parenting. Unlike the Tallingers and Williamses, these
@@ -390,8 +379,6 @@ between adults and children, and daily interactions with kin. Workingclass and p
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 4
 
-Concerted Cultivation and Natural Growth
-
 more "childlike" lives, with autonomy from adults and control over their
 extended leisure time. Although middle-class children miss out on kin
 relationships and leisure time, they appear to (at least potentially) gain
@@ -429,8 +416,6 @@ worded recommendations about the benefits of breast feeding, displaying
 emotional warmth toward children, and using reasoning and negotiation
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 5
-
-Concerted Cultivation and Natural Growth
 
 as mechanisms of parental control. Middle-class parents appear to shift
 their behaviors in a variety of spheres more rapidly and more thoroughly
@@ -471,8 +456,6 @@ McAllister family are valuable, but they are potentially less valuable (in
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 6
 
-Concerted Cultivation and Natural Growth
-
 employment interviews, for example) than those learned by Garrett
 Tallinger and Alexander Williams.
 
@@ -510,8 +493,6 @@ another boy on the playground, even though Billy was then suspended
 from school. Parents also had trouble getting "the school" to respond to
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 7
-
-Concerted Cultivation and Natural Growth
 
 their concerns. When Ms. Yanelli complained that she "hates" the
 school, she gave her son a lesson in powerlessness and frustration in the
@@ -553,8 +534,6 @@ an interesting, well-paying, and complex job; having a good education;
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 8
 
-Concerted Cultivation and Natural Growth
-
 and owning a home, are not evenly distributed throughout the society.
 Moreover, these resources are transferred across generations: One of the
 best predictors of whether a child will one day graduate from college is
@@ -594,8 +573,6 @@ the expectations that professionals had of parents, I also interviewed the
 children's classroom teachers and other school personnel.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 9
-
-Concerted Cultivation and Natural Growth
 
 From this pool of children the research assistants and I selected twelve
 families for intensive observations.16 We generally visited each family
@@ -640,8 +617,6 @@ extended family, neighbors, and teachers. In middle-class families, chil-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 10
 
-Concerted Cultivation and Natural Growth
-
 dren routinely interacted with nonfamilial adults outside of the home
 environment or school.
 
@@ -684,8 +659,6 @@ relations in the United States, the behavior patterns described in this
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 11
 
-Concerted Cultivation and Natural Growth
-
 book might reinforce negative stereotypes of certain groups. The results
 could be taken out of context and exploited by others, particularly political conservatives. Some early readers encouraged me not to report
 results that might be used to reinforce negative images of, for example,
@@ -721,8 +694,6 @@ ways in which social class makes a difference in children's lives and family lif
 between families and institutions. In Part I, I show that middle-class chil-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 12
-
-Concerted Cultivation and Natural Growth
 
 dren had a hectic schedule of organized activities by looking at the
 white middle-class family of Garrett Tallinger (Chapter 3). Although the
@@ -763,8 +734,6 @@ neatness, order, and sense of humor. Overall, however, I identify important ways
 value these strategies are accorded as children move into the rest of the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 13
-
-Concerted Cultivation and Natural Growth
 
 world. Appendix A provides an "insider" tale of the questions and dilemmas that emerged during the study.
 
@@ -863,8 +832,6 @@ some grass and trees, and there's a parking lot and the building is clean."
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 16
 
-Social Structure and Daily Life
-
 The residential neighborhoods surrounding Lower Richmond are
 racially segregated. Many of the students come by bus from a poor Black
 housing project about ten minutes away. The school itself is located in a
@@ -909,8 +876,6 @@ undermine residents' sense of safety and security.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 17
 
-Social Structure and Daily Life
-
 Lower Richmond School has been well regarded by parents, children,
 and educators for many years. Ms. Bernstein, a fourth-grade teacher,
 calls Lower Richmond a "cream puff" compared to other city schools.
@@ -947,8 +912,6 @@ takes at least 60 days, and the school year is only 180 days, an entire academic
 later in the book, this kind of bureaucratic infrastructure sometimes
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 18
-
-Social Structure and Daily Life
 
 results in children "slipping through the cracks" as major learning problems go untreated.
 
@@ -993,8 +956,6 @@ have. Another student, Toya, is disruptive. She "gets in fights all the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 19
 
-Social Structure and Daily Life
-
 time . . . but her mother . . . [instead of reprimanding her daughter, spends
 her time] explaining to me why it's not Toya's problem." Julius is from a
 home where "there is a whole history of drug abuse and violence."
@@ -1038,8 +999,6 @@ the classrooms can be sweltering (there is no air conditioning). Outside is
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 20
 
-Social Structure and Daily Life
-
 an expanse of grass on a gently sloping hill, large enough for multiple
 games to occur at the same time. Unlike at Lower Richmond, the school
 playground has an elaborate swing set and bars, with a red-hued mulch
@@ -1081,8 +1040,6 @@ theft occur rarely in the neighborhoods near Swan, and armed robberies
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 21
 
-Social Structure and Daily Life
-
 on residential streets are almost unheard of. Generally, there is less concern about crime than in urban areas.
 
 The neighborhoods surrounding Swan School are predominantly
@@ -1120,8 +1077,6 @@ the suburban organization raises (and spends) significantly larger sums.
 For example, the Swan PTA spent around $3,000 annually to provide
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 22
-
-Social Structure and Daily Life
 
 supplemental school assemblies. They sponsored "artists in residence" as
 well as puppet shows, plays, and other professional performances. They
@@ -1161,8 +1116,6 @@ is trouble. You know, it's a close-knit little group." Parents' robust sense
 of entitlement is evident to the teachers, as this Swan teacher makes clear:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 23
-
-Social Structure and Daily Life
 
 These parents, so many of them, are so self-centered, not all of them, but some,
 and it's being transmitted to their children. And it's almost like, "You owe me
@@ -1208,8 +1161,6 @@ In sum, between the two target schools, there are important differences in key s
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 24
 
-Social Structure and Daily Life
-
 supplies, teacher salaries, and supplemental financing and volunteer
 efforts contributed by parents.9 If social class did not matter, these differences would be randomly distributed. They are not. Across the country,
 communities where the average social class position of parents is higher
@@ -1246,8 +1197,6 @@ teachers at both schools reported viewing children's organized activities
 as helpful:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 25
-
-Social Structure and Daily Life
 
 They all need some physical activity. I think the activities are good, because physical activity can stimulate the mind. The music lessons help with the concentration. I think that it is good to have outside activities.
 
@@ -1293,8 +1242,6 @@ instruction (CCD), Scouts, Little League, piano lessons, and swim team.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 26
 
-Social Structure and Daily Life
-
 Through their actions at home, teachers demonstrate their commitment
 to the logic of child rearing of concerted cultivation.
 
@@ -1335,8 +1282,6 @@ up for a parent-teacher conference as a sign that parents do not value
 schooling—even though at Lower Richmond the conferences were
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 27
-
-Social Structure and Daily Life
 
 scheduled on relatively short notice and without parents' input regarding
 their assigned time slot. In emphasizing parental intervention in education, these educators mirror practices common in the profession.13 Still,
@@ -1380,8 +1325,6 @@ being disciplined. As I show in subsequent chapters, this legal requirement
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 28
 
-Social Structure and Daily Life
-
 put working-class and poor families in the study at risk for intervention by
 school officials in a way that middle-class families were not.
 
@@ -1419,8 +1362,6 @@ during the study period, one-seventh of Black Americans were making
 over fifty thousand dollars annually.18
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 29
-
-Social Structure and Daily Life
 
 Educational accomplishments are also lopsided. In the United States,
 just under one-quarter of all adults have completed a bachelor's degree;
@@ -1461,8 +1402,6 @@ chances.27
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 30
 
-Social Structure and Daily Life
-
 Understanding Inequality
 
 Many people in the United States hold the view that the society is, in fundamental ways, open. They believe that individuals carve out their life
@@ -1497,8 +1436,6 @@ may be largely immune to class influence. In short, we need a more holis-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 31
 
-Social Structure and Daily Life
-
 Table 1. Typology of Differences
 in Child Rearing
 
@@ -1514,8 +1451,6 @@ Language Use
 Interventions
 
 in Institutions
-
-Concerted Cultivation
 
 Parent actively fosters and
 assesses child's talents,
@@ -1585,8 +1520,6 @@ social class membership, is closely tied to differences in the cultural logic
 of child-rearing. Following a well-established Western European tradition, I provide a categorical analysis, grouping families into the social
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 32
-
-Social Structure and Daily Life
 
 categories of middle class, working class, and poor. 30 (See Table C1,
 Appendix C for details on how these categories were defined in this
@@ -1702,8 +1635,6 @@ economic strain and the treatment of children's activities as inconse-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 37
 
-The Organization of Daily Life
-
 quential (Katie Brindle). Both Chapters 4 and 5 highlight the autonomy
 of children from adults. While these chapters seek to offer an in-depth
 portrait of selected families, the tables in Appendix C offer an overview
@@ -1717,7 +1648,6 @@ c h a p t e r 3
 
 The Hectic Pace of
 Concerted Cultivation:
-Garrett Tallinger
 
 (One Wednesday in May, Don Tallinger arrives home from
 work. It's about 10:00 p.m.) Don wanders over to [the] phone
@@ -1744,8 +1674,6 @@ smiling broadly.
 This chapter focuses on the organization of daily life in the middleclass Tallinger family. This family's busy schedule is not unique; it is one
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 39
-
-Garrett Tallinger
 
 we found repeated, with variations, in many middle-class homes.1 The
 Tallingers and others like them are committed to child-rearing strategies
@@ -1786,8 +1714,6 @@ seven-foot-long, fine-mesh black net is stretched immediately behind the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 40
 
-The Organization of Daily Life
-
 backboard and poles to keep errant balls from tumbling into the neighbors' bushes. A wooden gate provides access to the large, fenced backyard and swimming pool. All in all, it's a classic home in the suburbs.
 Inside, there are hardwood floors, wallpapered rooms, and an assortment of pets (a dog, Farley; a turtle, Ivan; and assorted fish). A baby
 grand piano shares the living room with color-coordinated furniture
@@ -1824,8 +1750,6 @@ combined annual income of $175,000; until near the end of the study,
 both worked for the same firm. The Tallingers have sufficiently flexible
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 41
-
-Garrett Tallinger
 
 hours to take time off for their children's school events, but they often
 work on evenings and weekends. At the time of the study, both also
@@ -1871,8 +1795,6 @@ the other players, but instead projects an image of top control.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 42
 
-The Organization of Daily Life
-
 Garrett, like his parents, enjoys sports. His bedroom dresser is jammed
 with trophies, especially from soccer. He also has many soccer patches
 from team exchanges. At school, Garrett is popular and is widely seen as
@@ -1912,8 +1834,6 @@ table doesn't include Spencer's activities; nor does it reflect the parents'
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 43
 
-Garrett Tallinger
-
 Table 2. Garrett Tallinger's Schedule
 of Activities1
 
@@ -1943,8 +1863,6 @@ Soccer I2
 
 May 16
 
-Baseball
-
 Soccer I
 
 Soccer
@@ -1952,7 +1870,6 @@ Soccer
 Piano
 Recital
 
-Baseball
 pictures
 
 Fund-raiser
@@ -1960,25 +1877,13 @@ Fund-raiser
 School fair
 (overnight)
 
-Soccer
-
-Soccer I
-
 Out of
 state
 soccer
 
-Baseball
-
 May 23
 
-Baseball
-
-Soccer
-
 Swim
-
-Soccer
 
 Spring
 concert
@@ -1997,61 +1902,28 @@ May 30
 
 Swim team Swim team
 
-Swim
-
-Swim
-
 Out of
 state soccer
 (travel)
 
-Soccer
 tryouts
 
-Soccer I
 game
 
-Baseball
-
-Soccer I
-
-Baseball
-
-Soccer I
 tournament
 (travel)
 
-Soccer I
 Tournament
 
 Swim party
 
-Soccer
-
 June 6
 
-Swim
 team
 
-Swim
-
-Swim
-
-Baseball
-
-Baseball
-
-Soccer I
 Practice
 
-Swim
-
-Soccer I
 Practice
-
-Swim
-
-Baseball
 
 Summer
 Basketball
@@ -2075,8 +1947,6 @@ Garrett has practice for swim team and for Forest soccer, Spencer has a
 baseball game at 5:45 p.m. Then, on Saturday, Spencer has another baseball game (at 9:15 a.m.) and Garrett has two soccer games, one at 10:15
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 44
-
-The Organization of Daily Life
 
 a.m. and one at 3:00 p.m. Not all middle-class families, of course, are as
 sports-oriented—or as busy—as the Tallinger family. Still, many middleclass children in the study had a hectic schedule of activities. Middle-class
@@ -2121,8 +1991,6 @@ that the boys use activities to keep track of days of the week (including
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 45
 
-Garrett Tallinger
-
 evenings). Garrett and Spencer also designate time as before, during, or
 after a given activity (e.g., soccer, practice, swimming, and piano). Moreover, like other middle-class children we observed, the boys spend a significant amount of time simply waiting for the next event. Most of their
 activities—including school—require adult-provided transportation,
@@ -2164,8 +2032,6 @@ Ms. Tallinger also enjoys being playful with her sons, as the following
 example shows:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 46
-
-The Organization of Daily Life
 
 In his bedroom, [Garrett] stands close to her, eye to eye, goofing around, looking
 right into her eyes, and then lifting his hands so his palms are pressing up against
@@ -2211,8 +2077,6 @@ one with Ms. Tallinger, described below. Notice that although Garrett
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 47
 
-Garrett Tallinger
-
 and his mother make a clear emotional connection as they talk, the subject of their conversation is drawn from an activity of Garrett's:
 
 (Louise sits on the edge of Garrett's bed; her arms are on his chest.
@@ -2257,8 +2121,6 @@ bored. I used to go to all his practices and all his games, but now that he does
 much I don't go all the time. But this was the first practice."
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 48
-
-The Organization of Daily Life
 
 Mr. Tallinger is eager for the practice to end:
 
@@ -2307,8 +2169,6 @@ Don adds, "I see we have a conflict with soccer practice and tryouts." Bill says
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 49
 
-Garrett Tallinger
-
 work together." Don says, "Yeah, but if you don't try out, you don't get on the
 team." Bill says, "That's true. I'll talk to [the tryout coach] about it." He pauses
 and then, turning to walk down the step, looks back and says, "Maybe (winking)
@@ -2351,8 +2211,6 @@ as they keep the children fed, the house organized, and the different
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 50
 
-The Organization of Daily Life
-
 deadlines of multiple schedules reconciled. As the number of women
 working outside the home continues to grow, so too does the already
 formidable pressure on parents, particularly mothers. Arlie Hochschild
@@ -2394,8 +2252,6 @@ assumed more of a leadership role in monitoring, feeding, and helping
 the children with daily life tasks. Still, Mr. Tallinger was an unusually
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 51
-
-Garrett Tallinger
 
 competent father and played an active role in child care when Ms.
 Tallinger traveled for work.
@@ -2445,8 +2301,6 @@ define children's home-related responsibilities as labor that was equally
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 52
 
-The Organization of Daily Life
-
 his. When both parents were present, most family labor fell to Ms.
 Tallinger. She was the one who found and ironed the boys' pants the day
 of the piano recital and who arranged the recital refreshments (strawberries and poppy seed muffins), who bought the children's teachers
@@ -2487,8 +2341,6 @@ bag. Garrett said, "I think I'm going to wear this." Don said, "That's what it's
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 53
 
-Garrett Tallinger
-
 for." Garrett seemed excited by the jacket. He then peered into the bag (a brown
 paper bag) and said there are two shirts, pants (which were actually bright green
 shorts) and two pairs of socks. Garrett listed aloud everything in the bag. He
@@ -2528,8 +2380,6 @@ A Cultivated Childhood: Spencer's and Sam's Views
 The organization of middle-class family life around individual children's activities shapes the experience of all family members, including
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 54
-
-The Organization of Daily Life
 
 siblings who are not themselves involved in a given activity. Both
 Spencer and Sam—but especially Sam—spend large portions of their
@@ -2574,8 +2424,6 @@ him and his family. The picture is titled, "Watching Soccer." Mr.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 55
 
-Garrett Tallinger
-
 Tallinger, affectionately running his hand over the top of his son's head,
 remarks, "We do that a lot."
 
@@ -2616,8 +2464,6 @@ and a field-worker are shooting baskets in the driveway, Spencer offers
 this observation:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 56
-
-The Organization of Daily Life
 
 "Garrett isn't really that good at basketball. He isn't." Garrett quickly refutes
 Spencer saying, "Oh yeah? I'm better than you." Spencer seems to ignore him.
@@ -2665,8 +2511,6 @@ me!" Sam begins to wail. I hear a door slam heavily upstairs and then Louise
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 57
 
-Garrett Tallinger
-
 tramps loudly down the stairs. She walks into the living room and demands,
 "What is going on here?" Spencer explains, "He keeps following me around!"
 Louise says, with rising irritation, "I don't care if he follows you." She says
@@ -2712,8 +2556,6 @@ drive away, occur only on major holidays (Mr. Tallinger sees his mother
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 58
 
-The Organization of Daily Life
-
 more frequently—about once a month, when his work brings him into
 her area).
 
@@ -2752,8 +2594,6 @@ Garrett's summer camps have varied; some have cost $200 per week.
 When, at our request, Ms. Tallinger tallied the cost of registration, uniforms, equipment for activities, camp costs, and hotel costs for one year,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 59
-
-Garrett Tallinger
 
 she reported expenditures for Garrett alone as exceeding $4,000 per year,
 a figure that other middle-class families also report.2
@@ -2797,8 +2637,6 @@ Jennings' house. They can see it's a bigger house. They have big-screen TVs. I
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 60
 
-The Organization of Daily Life
-
 mean, they notice that people live differently than they do. But they also go to
 other people's homes and see that there's a difference in the other direction.
 
@@ -2834,8 +2672,6 @@ experience that as directly.
 Young athletes get a head start on maturity:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 61
-
-Garrett Tallinger
 
 I think it makes you mentally tough. So that when things are not going your way
 you have the ability to kind of buckle down or dig down deeper, whatever it is,
@@ -2886,8 +2722,6 @@ neighborhood school the Tallinger children attend. Similarly, the "rules
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 62
 
-The Organization of Daily Life
-
 of the game" children learn on the playing field can be applied to schoolwork. Mr. Tallinger recalls, in an interview, making this point to Garrett:
 
 Last week or the week before, he came down with semi-weepy eyes [saying] that
@@ -2930,8 +2764,6 @@ father), but Garrett ignores him. He signs "Garrett Tallinger."
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 63
 
-Garrett Tallinger
-
 The Intercounty soccer team travels to out-of-state tournaments; players
 stay in hotels and eat in restaurants; during the games, they compete
 against children they have never met before. Garrett's friends and acquaintances are similarly mobile. The school's select chorus performs in the
@@ -2967,8 +2799,6 @@ In the nineteenth century, families gathered around the hearth. Today, the
 center of the middle-class home is the calendar—the middle-class homes
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 64
-
-The Organization of Daily Life
 
 we visited typically had a large, white paper monthly calendar, hung on
 the wall above or next to the kitchen telephone. Scheduled, paid, and
@@ -3007,8 +2837,6 @@ difficult to forge deep, positive bonds with siblings are largely unrecognized c
 schedule dominates family time, particularly at the expense of the sched-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 65
-
-Garrett Tallinger
 
 ules of younger siblings. Of course, sometimes parents grumble over
 the hectic schedules. Parents also note that they did not place similar
@@ -3053,8 +2881,6 @@ make getting children fed, clothed, sheltered and transported time-consuming, ar
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 67
 
-Tyrec Taylor
-
 regulating their behavior in specific areas. Within these boundaries,
 working-class and poor children are allowed to grow and to thrive. They
 are given the flexibility to choose activities and playmates and to decide
@@ -3097,8 +2923,6 @@ in working-class families and those in poor families. Compared to poor
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 68
 
-The Organization of Daily Life
-
 children, working-class children have greater stability; their lives are less
 contingent, especially in terms of the availability of food, transportation,
 money for treats, and other economic resources. There are also differences by race and by gender. Although working-class and poor children
@@ -3135,8 +2959,6 @@ next to gold butterflies. On the first floor, there is a living room, a dining
 area, and a kitchen. The kitchen is large with metal cabinets, florescent
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 69
-
-Tyrec Taylor
 
 lights, and a low table for food preparation. The living room, which is
 always tidy, has a multicolored shag rug on the floor, a dark blue velour
@@ -3179,8 +3001,6 @@ Taylor this way:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 70
 
-The Organization of Daily Life
-
 At about 6:45 Celeste walks in. She is a slightly overweight woman with . . . a
 cute face. She smiles often. Later, in the dining room, where we sit at the dining
 room table, she often looks into a wall mirror hung near the table as she is talking (occasionally touching her hair). There are remnants of red lipstick on her
@@ -3219,8 +3039,6 @@ father. He is a solid student at Lower Richmond elementary school, getting mostl
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 71
 
-Tyrec Taylor
-
 compliant at school, but on his own turf, he can be very assertive with
 peers. As one field-worker noted:
 
@@ -3258,8 +3076,6 @@ due to the fact that he has not had a beating recently. In her view, that
 kind of punishment can be helpful.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 72
-
-The Organization of Daily Life
 
 Ms. Taylor complains that Tyrec is often "hyper." But her affection
 for her son is visible and often demonstrated. Indeed, both parents regularly offer their son physical affection, rubbing his head or giving him a
@@ -3307,8 +3123,6 @@ middle-class families. Children's organized activities do not set the pace
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 73
 
-Tyrec Taylor
-
 of life. Unlike the Tallingers, who consider a weekend quiet if they have
 only one or two events to go to, the Taylors are busy if they have one
 major event scheduled. Planned events of any kind are unusual for the
@@ -3355,8 +3169,6 @@ head. All the kids laughed; then Tyrec, who had the ball, went chasing after
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 74
 
-The Organization of Daily Life
-
 Anisha. It was a close, fun moment—lots of laughter, eye contact, giggling, chasing.
 
 Soon a different game evolves. Tyrec is on restriction. He is supposed to
@@ -3400,8 +3212,6 @@ speed, prowess, athletic ability, physical strength and courage. Sometimes
 they tested each other to see how hard and how far they could throw
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 75
-
-Tyrec Taylor
 
 things and took turns trying to break something. Pretending to fight,
 chasing and threatening to fight, and actually fighting were common
@@ -3451,8 +3261,6 @@ around. There were about nine people sitting on the steps and on a bench which
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 76
 
-The Organization of Daily Life
-
 was on the [sidewalk] pavement. Three of them appeared to be teenagers or
 [even] older.
 
@@ -3491,8 +3299,6 @@ back right at the end of the show, plunking down on the couch on the other end
 from me. Anisha says, "Tyrec, get this bowl off here. It's going to fall. Take it to
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 77
-
-Tyrec Taylor
 
 the kitchen." Tyrec resists; he complains, I think, and doesn't get around to taking it. He starts to goof around with the pillows, throwing them up in the air
 above his head as he lies on his back and catches them. He does this for about a
@@ -3539,8 +3345,6 @@ so we were going to go ahead and get through it, and pray that we don't have to
 do it again.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 78
-
-The Organization of Daily Life
 
 As a single parent who worked full time and didn't get home until 6 p.m.,
 Ms. Taylor found it difficult to meet the array of demands presented by
@@ -3591,8 +3395,6 @@ around here playing football every day (laughter) . . . right out here on the st
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 79
 
-Tyrec Taylor
-
 When asked what she liked about Tyrec's involvement in football, she
 said that she thought the experience had given her son "a little bit of
 independence, and it showed that he had some [independence]." When
@@ -3634,8 +3436,6 @@ the group functions without adult monitoring, he learns how to construct and sus
 dispersing with each new season and each new organized activity. The
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 80
-
-The Organization of Daily Life
 
 only constant is the presence of adults in each setting, ensuring that the
 players all know the rules, if not one another's names.
@@ -3681,8 +3481,6 @@ point three blocks away, a public building with a small plot of grass outside. T
 continues well into the hot summer night.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 81
-
-Tyrec Taylor
 
 As they pursue their various activities, Tyrec and his friends frequently
 show genuine excitement and pleasure or, sometimes, agitation. Unlike
@@ -3789,8 +3587,6 @@ keeping appointments with health-care professionals can involve similarly compli
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 84
 
-The Organization of Daily Life
-
 chronically strained, little problems (e.g., broken washing machines, an
 unexpected delay in a cash reimbursement) can have serious, far-reaching
 consequences. Both poor and working-class children are aware of the
@@ -3829,8 +3625,6 @@ is about a twenty-minute bus ride away.
 The Brindles' apartment is not well maintained. The living room ceil-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 85
-
-Katie Brindle
 
 ing leaks; Ms. Brindle must periodically move the furniture to keep it out
 of the way of dripping water. The toilet runs constantly. The mustardcolored rag rug at the entrance to the unit has prominent dark stains on
@@ -3871,8 +3665,6 @@ as a Christmas present a few years earlier. The year of the study he did
 not send anything for the holidays or for Katie's birthday. The father of
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 86
-
-The Organization of Daily Life
 
 the youngest child, Melmel, is the most visible and active of the three
 men. He routinely takes his son for visits, often a few times per month.
@@ -3916,8 +3708,6 @@ observed do. Much of her play is more sedentary than the active move-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 87
 
-Katie Brindle
-
 ments of boys, with a stress on femininity. In the house, she enjoys her
 Barbies (she has fifteen). With a neighborhood girl, she will have long
 periods of practicing the development of herself as a beauty object (something that was never observed with the boys in the study). Katie and her
@@ -3959,8 +3749,6 @@ than live in a public housing project, where all of the families are poor,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 88
 
-The Organization of Daily Life
-
 owing to segregation, they have access to neighborhoods where nearly all
 the families are of the same racial group (in this case, white) but occupy
 different economic positions. Still, key aspects of Katie's life are racially
@@ -4000,8 +3788,6 @@ Complete outfits hang on the hangers in Katie's closet. For example, on
 one hanger, sweatpants, a matching T-shirt, and sweater are grouped
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 89
-
-Katie Brindle
 
 together. On other hangers there are similar arrangements of clothing.
 With each load of laundry, Ms. Brindle regroups and changes the outfits. She also prefers that Katie not leave things to the last moment,
@@ -4049,8 +3835,6 @@ slowly eat it . . . Her mother says, "You need to get dressed." She then asks,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 90
 
-The Organization of Daily Life
-
 Grandma's." She continues, "Do you want to wear your pink sweatsuit?" Katie
 says, "No, it makes me look fat." Her mother replies, "You aren't fat." Katie
 doesn't answer.
@@ -4096,8 +3880,6 @@ the fifteen-degree weather outside, and then say farewell:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 91
 
-Katie Brindle
-
 CiCi zips up [Katie's] coat but doesn't put on the hood. Katie doesn't have any
 mittens on her hands . . . CiCi stands and goes over to the door and opens it.
 Katie goes out first. Her mom leans over and kisses her on the lips, and says
@@ -4136,8 +3918,6 @@ women (men are vastly outnumbered) towing young children. The lines
 form outside the building, before the office opens. The day we go, it
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 92
-
-The Organization of Daily Life
 
 takes fifteen minutes of inching forward before we even get inside. Once
 we have edged into the building, we join around seventy-five people who
@@ -4183,8 +3963,6 @@ often refuse to sell rolled coins to noncustomers; she does not have a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 93
 
-Katie Brindle
-
 bank account (using money orders when necessary). The grocery store,
 which does provide quarters, is a twenty-minute bus ride away. Of much
 greater significance, however, is the fact that the three washers and two
@@ -4229,8 +4007,6 @@ Much as with transportation, poor families have few choices about
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 94
 
-The Organization of Daily Life
-
 where they live. Thus, Katie's family makes do with roaches in their
 apartment, a poorly maintained building, snow and ice on the steps,
 chronically broken appliances, and leaky plumbing. So far, though, they
@@ -4274,8 +4050,6 @@ In the meantime, Jenna decides to move to Florida to live with her
 father, and to avoid the cold northeastern winter. After she gets there,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 95
-
-Katie Brindle
 
 things do not work out as planned. Jenna's father proves to be less
 helpful than she had expected, other arrangements fall through, her
@@ -4325,8 +4099,6 @@ your face. Don't exaggerate." Katie says, "I went to school with a black eye."
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 96
 
-The Organization of Daily Life
-
 The afternoon wears on; most of the time, everyone is watching soap
 operas and Oprah. With her mother and aunt only a few feet away,
 Katie begins to hit herself. There is no mistaking that they have heard
@@ -4366,8 +4138,6 @@ These everyday sorts of dilemmas fit the definition of social structural
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 97
 
-Katie Brindle
-
 problems: they are created by the way the social structural system is
 organized. Mixed into these social structural problems are the difficulties
 that arise from the individual biographies of family members. Thus, in
@@ -4405,8 +4175,6 @@ periodically agrees to watch Katie and her cousin, Amy, perform little
 skits. Katie's mother also occasionally plays Monopoly with her.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 98
-
-The Organization of Daily Life
 
 Although in all the families we studied, adults seemed willing to take
 time occasionally to observe a child's activity or to join a child in a game,
@@ -4452,8 +4220,6 @@ everything around him.)9
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 99
 
-Katie Brindle
-
 When the girls escalate their demands for attention, Grandmom complies, but with a notable lack of enthusiasm:
 
 Katie pretends to be a child coming to Santa. Amy [Santa] sits in the chair and
@@ -4494,8 +4260,6 @@ become tightly wound around the roller. Grandmom and I work together
 to extract the tinsel. Meanwhile, the girls have finished preparing part
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 100
-
-The Organization of Daily Life
 
 three. They come back. They stand right next to Grandmom and begin
 their skit. Since I am now down on the floor, involved with the vacuum
@@ -4543,8 +4307,6 @@ There is no emphasis on providing materials Katie might use at home
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 101
 
-Katie Brindle
-
 to further develop her creativity. Moreover, because children in poor
 neighborhoods have relatively few possessions, creating entertainment
 from makeshift sources is common. For instance, all of the makeshift
@@ -4582,8 +4344,6 @@ In our observations, simple life tasks were harder to accomplish for families th
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 102
 
-The Organization of Daily Life
-
 more economic strain in their lives than did working-class mothers. In
 both social classes, children were keenly aware of their family's limited
 economic resources. Katie worried when it appeared that her mother
@@ -4620,8 +4380,6 @@ seem staid or bored. When they were playing, they were fully engaged in
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 103
 
-Katie Brindle
-
 the process; it seemed to be truly fun to them. In addition, since they
 were usually in control of their own play, children could shift to a new
 game when they felt like it—which was often. Children also were spared
@@ -4634,8 +4392,6 @@ Lareau(E).qxd 5/7/2003 5:10 PM Page 104
 Lareau(E).qxd 5/7/2003 5:10 PM Page 105
 
 Pa r t I I
-
-Language Use
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 106
 
@@ -4711,8 +4467,6 @@ Alexander's father, Terry Williams, is a tall, thin man, who stands
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 109
 
-Alexander Williams
-
 very straight and has a serious demeanor. During the week, he is usually
 dressed in a formal dark suit, with a crisply ironed white shirt and a conservative tie. During family car trips, or while waiting for Alexander's
 events to begin, he is often absorbed by the newspaper, but he will occasionally join in the conversation and make wry jokes. He often calls Alex
@@ -4753,8 +4507,6 @@ approach to life:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 110
 
-Language Use
-
 I would have to say that Alexander is a joy. He's a gift to me. He's [a] very energetic, very curious, loving, caring person, that, um . . . is outgoing and who, uh,
 really loves to be with people and who loves to explore and loves to read and . . .
 just do a lot of fun things.
@@ -4769,8 +4521,6 @@ choir, and baseball and soccer practice and/or games. He often has
 rehearsals linked to school plays and to concerts. In the winter, he plays
 basketball as well as indoor tennis. In the summer, he attends special
 sports camps.
-
-Concerted Cultivation
 
 Alex's parents fully support his involvement in extracurricular activities.
 Like other middle-class parents, they make accommodations in their own
@@ -4791,8 +4541,6 @@ advance for the doctor. Reasoning is also the mainstay of discipline and
 guidance in middle-class families. Finally, an emphasis on the use of reasoning in the home creates broad-spectrum benefits. Parent-child dialogues can boost children's vocabulary, preview or deepen knowledge of
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 111
-
-Alexander Williams
 
 subjects taught in school, and familiarize children with the patterns of
 verbal interaction that characterize the classroom and other dealings with
@@ -4830,8 +4578,6 @@ skills. Alexander sees them as opportunities for fun and as ways to stave
 off boredom. He requests to be enrolled in certain activities and he initi-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 112
-
-Language Use
 
 ates having friends come to the house to visit. Despite their number and
 variety, Alexander's commitments do not consume all of his free time.
@@ -4878,8 +4624,6 @@ the rest of the trip home.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 113
 
-Alexander Williams
-
 Both of Alexander's parents believe his activities are important for his
 development. They view the benefits as wide ranging. In discussing
 Alexander's piano lessons, Mr. Williams notes that as a result of learning
@@ -4921,8 +4665,6 @@ skills are routinely and publicly assessed on two levels—their performance dur
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 114
 
-Language Use
-
 Like other middle-class children in the study, Alexander does not seem
 uncomfortable with the idea of public performance—whether it be playing soccer or playing Mozart. In fact, he seems to enjoy performing.
 According to a field note, after his solo at a musical production in front
@@ -4962,8 +4704,6 @@ mother typically moves through these demands in a gracious and sociable fashion.
 about the time consumed by his son's events. He usually brings a news-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 115
-
-Alexander Williams
 
 paper to read while he waits for a school performance to begin, reads in
 the backseat of the car (with Alexander in the front seat) on the way to
@@ -5006,8 +4746,6 @@ schedule. In his exit interview, Mr. Williams expressed discomfort with
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 116
 
-Language Use
-
 the fact that Alexander belonged to two choirs. He seemed to be concerned that being in two choirs might compromise his son's developing
 masculinity. Eventually, Alexander did drop out of one choir (and
 immediately enrolled in Friday night basketball). In general, Mr.
@@ -5045,8 +4783,6 @@ playing this morning? Alex: "It was [called] 'Whatcha doin?' " Christina: "How
 do you play?"
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 117
-
-Alexander Williams
 
 In this exchange, Ms. Williams is doing more than eliciting information
 from Alex. She is also giving him the opportunity to develop and practice
@@ -5092,8 +4828,6 @@ He periodically glanced in the rearview mirror as he spoke. "Denny, you and
 Alexander have to start taking more shots. I don't know how many times that
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 118
-
-Language Use
 
 you guys got the ball down to the basket, just to give the ball away. It was as if all
 of you were scared to shoot."
@@ -5142,8 +4876,6 @@ to fight. There are better ways to resolve conflict. Go and tell the teacher if 
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 119
 
-Alexander Williams
-
 Terry looked at Alex and said firmly, "There are going to be times when you
 are not going to be able to run, and you are going to have to fight. You are going
 to have to take a stand and defend yourself."
@@ -5186,8 +4918,6 @@ Finally, we observed Alex and his parents, as well as other middle-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 120
 
-Language Use
-
 class families, using reasoning and negotiation to achieve specific ends.
 For example, rather than order or direct children, middle-class parents
 would offer children "choices" for decisions. But then, these parents
@@ -5229,8 +4959,6 @@ will impact on his life. The one teaching that he takes away from this is that h
 never to use discrimination as an excuse for not doing his best.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 121
-
-Alexander Williams
 
 Ms. Williams comments that racial issues help shape her decisions about
 Alex's activities. She monitors the racial composition of each activity
@@ -5279,8 +5007,6 @@ school year.10 Mr. Williams reports:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 122
 
-Language Use
-
 For some reason, this year Alexander was the only Black kid in his class —
 which was—which was very bad planning, because there were two fifth grades
 and there were . . . five (laughs lightly) Black kids in the other fifth-grade classroom, one in this classroom. Utterly ridiculous. Something that I raised holy
@@ -5327,8 +5053,6 @@ does so in a more "superficial" way than he would like. Mr. and Ms.
 Williams also appear to have different ideas about the possibility for
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 123
-
-Alexander Williams
 
 improvement and social change in race relations. Ms. Williams is the
 more hopeful of the two.
@@ -5379,8 +5103,6 @@ not. Equally important, she offered an alternative explanation that dis-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 124
 
-Language Use
-
 tracted her son. Thus, Alex seemed to process the events in the hardware
 store as nothing more than a temporary delay in the purchase of the sled
 he wanted. As the next section shows, Ms. Williams brings the same
@@ -5424,8 +5146,6 @@ They—they usually take the closest year to get that graph.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 125
 
-Alexander Williams
-
 The act of interrupting a person of authority is a display of entitlement.
 It is also indicative of middle-class child-rearing priorities: the incivility of
 interrupting a speaker is overlooked in favor of encouraging children's
@@ -5467,8 +5187,6 @@ execute a medically necessary action. She, in turn, accepts his explanation of t
 the medication for the full recommended period.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 126
-
-Language Use
 
 Like his mother, Alex also engages in a pattern of conversational give
 and take with the doctor. And, like his mother, Alexander strives to customize his time with the doctor. When he offers his prepared-in-advance
@@ -5515,8 +5233,6 @@ the next section explains, there are certain disadvantages (at least for
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 127
 
-Alexander Williams
-
 parents) attached to teaching children how to customize a situation.
 Middle-class children sometimes use their skills to customize their parents' disciplinary tactics.
 
@@ -5557,8 +5273,6 @@ His mother prompts him, "What do you say?" Alex hollers to everyone in a very
 loud voice, "Thank you!" A tone of alienation and boredom (as in, "My-motheris-making-me-do-this") is slightly detectable in his voice.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 128
-
-Language Use
 
 Occasionally, Alexander thwarts his parents by simply absenting
 
@@ -5603,8 +5317,6 @@ laughter from Alexander's parents. The Williamses were fully committed
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 129
 
-Alexander Williams
-
 to a strategy of concerted cultivation. They seemed delighted with
 Alexander's overall development and they were unperturbed when he
 periodically used the skills they taught him to challenge their authority.
@@ -5646,8 +5358,6 @@ The ability to marshal evidence to support a position is an important part
 of the repertoire of skills middle-class parents teach their children. As the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 130
-
-Language Use
 
 son of a lawyer, Alexander is expected, particularly in conversations with
 his father, to supply evidence for his opinions, even on trivial matters, as
@@ -5692,8 +5402,6 @@ school performance. After watching a musical in which Alexander sang
 from beginning to end, Mr. Williams (who dismisses musicals as a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 131
-
-Alexander Williams
 
 "ridiculous" form of entertainment) remarks that it felt as if the seasons
 had changed while the play was being performed. Laughing, he tells the
@@ -5740,8 +5448,6 @@ parents.18
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 132
 
-Language Use
-
 Alexander clearly enjoys this playful moment. In other instances
 Alexander as well as other middle-class children resist their parents'
 efforts to treat them as children. Instead, drawing on their verbal skills,
@@ -5784,8 +5490,6 @@ all-Black church, and he had regular opportunities to form friendships
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 133
 
-Alexander Williams
-
 with other Black children. His parents carefully scrutinized his social
 environment, always seeking, as Ms. Williams said, to keep him in the
 company of individuals who were also "cultured."
@@ -5817,7 +5521,6 @@ c h a p t e r 7
 
 Language as a Conduit
 for Social Life:
-Harold McAllister
 
 I ask Harold, "How is your [fifth-grade] teacher?" Harold hotly
 says, "She's mean and she lies." Ms. McAllister is washing
@@ -5846,8 +5549,6 @@ the hot summer. Wide concrete sidewalks cut through the spaces between
 the buildings; at night large floodlights shine down from the corners of
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 135
-
-Harold McAllister
 
 each unit. The ground is bare in many places and often is littered with
 paper, wrappers, and glass.
@@ -5893,8 +5594,6 @@ assistance but hopes to work again. Ms. McAllister has four children.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 136
 
-Language Use
-
 Harold (age ten) and his sister Alexis (nine) live with her full time. Their
 older brother, Lenny (seventeen), and sister Lori (sixteen) live primarily
 with Ms. McAllister's mother, who lives a few minutes away by bus.
@@ -5939,8 +5638,6 @@ laying down."
 Some weekends Harold takes the bus across town to visit Hank in the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 137
-
-Harold McAllister
 
 house he shares with his mother and two brothers. These overnight stays
 usually are not formally planned in advance; Harold "just shows up."1
@@ -6001,8 +5698,6 @@ Harold
 Alexis
 
 Table 3. Overview of McAllister Family
-
-Language Use
 
 Age
 
@@ -6104,8 +5799,6 @@ do if you had a million dollars?" Alexis said:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 139
 
-Harold McAllister
-
 Oh, boy! I'd buy my brother, my sister, my uncle, my aunt, my nieces, and my
 nephews, and my grandpop, and my grandmom, and my mom, and my dad,
 and my friends, not my friends, but mostly my best friend—I'd buy them all
@@ -6146,8 +5839,6 @@ Ms. McAllister draws between adults and children do not, however, lead
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 140
 
-Language Use
-
 her to tightly control Harold's activities. He and the other children are
 free to play, watch TV, and spend time with their nearby friends without
 specifically consulting her. In contrast to middle-class children's worlds,
@@ -6179,8 +5870,6 @@ has the look of a budding football player. This is how Alexis describes
 her older brother:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 141
-
-Harold McAllister
 
 Harold is plain old Harold. He never changes. He does the same thing over and
 over and over again. He listens to the radio. He plays basketball. He listens to the
@@ -6221,8 +5910,6 @@ their younger siblings and cousins while adults mingle and talk among
 themselves.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 142
-
-Language Use
 
 Organization of Daily Life
 
@@ -6267,8 +5954,6 @@ strikingly playful group; there is frequent laughter and joking. Even
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 143
 
-Harold McAllister
-
 when we were getting the study under way, humor was evident. The
 field-worker asked Harold what time he got up on Saturday mornings.
 When Harold said 7:00 a.m., the field-worker replied that she would
@@ -6309,8 +5994,6 @@ errands for adults (and, sometimes, to buy treats for himself), the staff
 includes whites, Asians, and some African Americans. A white workingclass residential neighborhood is within walking distance of the housing
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 144
-
-Language Use
 
 project, but Harold does not go there to play. On Halloween Ms.
 McAllister reports that she and a friend take their children across the
@@ -6354,8 +6037,6 @@ They'll [the kids] leave at nine o'clock [in the morning] and come back at four
 and not tell their parents where they went. (Shakes head, disgusted.)
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 145
-
-Harold McAllister
 
 Although Ms. McAllister does not actively intervene in her children's daily
 lives, she does meet what she identifies as her parental obligations. Thus,
@@ -6402,8 +6083,6 @@ to not mess with him or I'm going to come down."8
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 146
 
-Language Use
-
 Ms. McAllister is proud of her high school diploma, and she conveys to
 the children her expectation that they will pass each grade. Alexis reports:
 
@@ -6443,8 +6122,6 @@ themselves. They look at newspaper ads and comment on the prices of
 various things. They talk about who gave them money (for example, as
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 147
-
-Harold McAllister
 
 when a neighbor gave Runako five dollars for escorting her to the bank's
 ATM). The serious financial hardships the McAllisters contend with
@@ -6490,8 +6167,6 @@ Jane and Runako walk slightly in front of me. I'm in between the two, but
 Runako keeps curving in front of me. Jane scolds him: "Runako! Walk straight!
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 148
-
-Language Use
 
 Don't get in her way!" He laughs and moves over, then says something about
 how his friends always get on him for walking crooked. Shortly, he moves in
@@ -6539,8 +6214,6 @@ As we leave to take the bus to go to Lavina's house for a birthday party for a
 three-year-old cousin, Ms. McAllister yells out at all of us as we start across the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 149
-
-Harold McAllister
 
 road toward the bus stop: "Ya'll eat at Lavina's, and get filled up at Lavina's,
 because I ain't cooking when we come back."
@@ -6595,8 +6268,6 @@ him. Since she (along with Harold and I) had taken the bus back, while
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 150
 
-Language Use
-
 Runako had been given a ride back from the birthday party with Alexis and
 others in a car, she wonders if something might have happened in the car:
 
@@ -6640,8 +6311,6 @@ with a great deal of speech, such as the Tallingers. The following example provi
 communicate without words:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 151
-
-Harold McAllister
 
 Harold has a paper plate with a hot dog and chips in his left hand and a canned
 drink of soda in his right. With his right hand, he is trying to open the soda. And
@@ -6687,8 +6356,6 @@ middle-class counterparts. Adults often are not present, and when they
 are, they do not typically intervene in children's interactions. This is clear,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 152
-
-Language Use
 
 for instance, in the field-worker's description of Harold and his (common-law) stepfather, Keith, shooting baskets together one afternoon:
 
@@ -6739,8 +6406,6 @@ such as an enthusiastic, "Damn—did you see that!" and "Jarrad garbage—that
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 153
 
-Harold McAllister
-
 nigga can't play." . . . Harold strutted (boasting), "Yeah, nigga what? Can't
 nobody get with this! I'm breakin nigga's ankles—young bol' got skills!"
 
@@ -6784,8 +6449,6 @@ in class. Huh?
 Lavina: Didn't we have a talk about this before?
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 154
-
-Language Use
 
 (Alexis does not answer.)
 Lavina: You know, Alexis, behavior is very important. If you can't behave in
@@ -6834,8 +6497,6 @@ immune:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 155
 
-Harold McAllister
-
 Jane is angry. (Jane walks up to Lori and stands directly in front of Lori's face.
 Jane is mad and loud.) "I better not see you in none of them niggas' car down the
 hill, or I'm a slide (punch) you right upside your head, and I mean it."
@@ -6876,8 +6537,6 @@ Lenny shows up part of the way through it. The field notes capture the
 mounting tension and barely restrained violence:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 156
-
-Language Use
 
 (Jane and Jill do some serious yelling downstairs for about ten minutes.):
 Jane: You fucking bitch! You steal Harold's clothes, huh?
@@ -6926,8 +6585,6 @@ avoided.20 But, as she explains to me a few days later, she felt she had little 
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 157
 
-Harold McAllister
-
 I ask her, "Is she going to be moving?" She says firmly, "She is going to go." I say,
 "It is hard on your nerves." She says, "This is a house but it got to be a home."
 I say, "Where will she go?" She shakes her head (to indicate she doesn't
@@ -6968,8 +6625,6 @@ Jane (still no eye contact, looking down): Yeah.
 Doctor: A green vegetable?
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 158
-
-Language Use
 
 Jane (looking at the doctor): Not all the time.21
 Doctor: No. Fruit or juice?
@@ -7013,8 +6668,6 @@ when professionals define appropriate parenting as involving assertiveness and r
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 159
 
-Harold McAllister
-
 Discussion
 
 The verbal world of Harold McAllister and other poor and workingclass children offers some important advantages as well as costs. Compared to middle-class children we observed, Harold is more respectful
@@ -7049,8 +6702,6 @@ neighborhoods that Harold and Alexis negotiate.
 Still, in the world of schools, health-care facilities, and other institutional settings, these valuable skills do not translate into the same advantages as the reasoning skills emphasized in the home of Alexander
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 160
-
-Language Use
 
 Williams and other middle-class children. Compared to Alexander
 Williams, Harold does not gain the development of a large vocabulary,
@@ -7117,8 +6768,6 @@ at the relationship of social patterns and social structures. Schools,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 164
 
-Families and Institutions
-
 despite their claims to be friendly places, have a legal obligation to turn
 parents in if they suspect child abuse or neglect. In this role, they are arms
 of the state. Working-class and poor parents, as I have shown, were less
@@ -7140,9 +6789,7 @@ Lareau(E).qxd 5/7/2003 5:10 PM Page 165
 
 c h a p t e r 8
 
-Concerted Cultivation
 in Organizational Spheres:
-Stacey Marshall
 
 Suddenly, the first day in [gymnastics] class, everything that
 Stacey did, you know, uh. . . . Even, even though she was doing
@@ -7170,8 +6817,6 @@ produce a twofold advantage. The children's interactions with teachers,
 health-care professionals, and camp counselors become more personal-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 166
-
-Families and Institutions
 
 ized, more closely tailored to meet their specific needs. Just as important,
 the children learn to expect this individualization, and they begin to
@@ -7210,8 +6855,6 @@ travels with the players to out-of-state tournaments. He is disappointed
 that Stacey shows a lack of interest in basketball.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 167
-
-Stacey Marshall
 
 Both Mr. and Ms. Marshall grew up in the South. Ms. Marshall's parents live about four hours away. She sees them "three or four" times per
 year but talks to them on the phone weekly. She has two sisters; she talks
@@ -7255,8 +6898,6 @@ when Stacey uses her birthday money to buy her sister chocolates or
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 168
 
-Families and Institutions
-
 when she seeks Fern's fashion advice, explaining to the field-worker,
 "Fern usually knows what looks right."
 
@@ -7294,8 +6935,6 @@ years, racial barriers have become more prominent. For Fern, the turning
 point came in middle school; for Stacey, the shift is just occurring. Their
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 169
-
-Stacey Marshall
 
 social lives now exclusively involve other African American girls who live
 in their immediate neighborhood or just a few minutes away. The beauty
@@ -7336,8 +6975,6 @@ jet of air, and the goal is to get all the rings onto one stick. It seemed that 
 was in a real hurry to have us out of there, because she said, "Good-bye, Mom."
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 170
-
-Families and Institutions
 
 There is more chatter and more delay as additional attempts are made to
 encourage Ms. Marshall and the field-worker to stay and join the party:
@@ -7380,8 +7017,6 @@ Most middle-class mothers undertake similar labor with respect to
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 171
 
-Stacey Marshall
-
 organized activities. The way in which Stacey came to be involved in
 gymnastics, for example, is typical in that it takes effort by the mother.
 
@@ -7418,8 +7053,6 @@ needs. Stacey's mother's proactive stance reflects her belief that she has a
 duty to intervene in situations in which she perceives that her daughter's
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 172
-
-Families and Institutions
 
 needs are not being met. This perceived responsibility applies across all
 areas of her children's lives. She is no more (or less) diligent with regard
@@ -7465,8 +7098,6 @@ there a problem?"). Her purpose, however, is to alert the instructor to the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 173
 
-Stacey Marshall
-
 negative impact she has had on Stacey ("She's really upset."). Although
 her criticism is indirect ("Maybe it's not all the student . . ."), Ms.
 Marshall makes it clear that she expects her daughter to be treated differently in the future. In this case, Stacey does not hear what her mother
@@ -7505,8 +7136,6 @@ to child rearing. In large part because of that endorsement, it is the
 method favored by the middle classes. Ms. Marshall continually
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 174
-
-Families and Institutions
 
 "touches base" with Stacey's instructor, not only learning Tina's opinion
 but also providing the instructor with information about Stacey's assessment of her experience in the class:
@@ -7553,8 +7182,6 @@ further antagonize Ms. Marshall:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 175
 
-Stacey Marshall
-
 I remember Stacey came out that night from class, and she—she got in, crying.
 She said, "You were right. She did ask me." And I said, "Well, what did you
 say?" She said, "We told 'em that I just didn't think I was ready for it." And I
@@ -7598,8 +7225,6 @@ speaks with authority:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 176
 
-Families and Institutions
-
 Stacey says, "It saves like six feet of where it is now, so it's in closer . . . So that
 way they can pull out the rest of the floor . . . We're gonna end up having a
 longer vaulting runway. . . ."
@@ -7639,8 +7264,6 @@ only the first in a long series of interventions, so too with the gifted-andtale
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 177
 
-Stacey Marshall
-
 children and complaining when the math teacher did not inform her (per
 the policy of the gifted program) of a looming "C" in math. In addition,
 she consistently drew educators' attention to her daughter's slow, careful,
@@ -7676,8 +7299,6 @@ of concerted cultivation with a close monitoring of their children's
 institutional experiences.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 178
-
-Families and Institutions
 
 Race: Constant Worries, Intermittent Interventions
 
@@ -7723,8 +7344,6 @@ you eat with?" "Myself." (Deep sigh from Ms. Marshall)
 Fern sees it as a racial issue:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 179
-
-Stacey Marshall
 
 Fern said, "You know." I said, "Well, did you talk to 'em?" She said, "Yeah, I
 talked to them." . . . Apparently there was dialogue . . . about who scored in the
@@ -7775,8 +7394,6 @@ the bus.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 180
 
-Families and Institutions
-
 Near the end of the school year, there was a discussion in Fern's social
 studies class and other children—including white students—echoed her
 opinion of Art, who said, "Yeah, Art does this." The white children's validation helped Ms. Marshall overcome her hesitancy about complaining.
@@ -7818,8 +7435,6 @@ valuable to their children in adulthood. These are class-based advantages. As la
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 181
 
-Stacey Marshall
-
 by working-class and poor families differ in important ways from those
 of middle-class parents, Black and white.
 
@@ -7860,7 +7475,6 @@ Lareau(E).qxd 5/7/2003 5:10 PM Page 182
 
 c h a p t e r 9
 
-Concerted Cultivation
 Gone Awry:
 Melanie Handlon
 
@@ -7890,8 +7504,6 @@ yields few positive results. It pits mother against daughter, emotionally
 exhausting both, yet seems to yield few institutional profits.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 183
-
-Melanie Handlon
 
 The Handlon Family
 
@@ -7933,8 +7545,6 @@ playful interactions with her father, including pitching a paper airplane at
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 184
 
-Families and Institutions
-
 his belly. Thus, while accurately described as shy, Melanie can and does
 change her behavior as she moves from context to context.
 
@@ -7974,8 +7584,6 @@ Unlike most middle-class families, the Handlons have many relatives
 who live close by. Melanie's parents describe themselves as feeling emotionally close to these members of their extended family. They report see-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 185
-
-Melanie Handlon
 
 ing their relatives about once a week and note that they also spend major
 holidays with them, including Thanksgiving, at which time they had
@@ -8017,8 +7625,6 @@ breaks. This kind of concern is clearly present with the Handlons. In
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 186
 
-Families and Institutions
-
 addition to their desire to see Melanie enroll in swimming, they would
 like her to give softball a try. One winter evening, as the family is sitting
 around watching television, Melanie's mother mentions softball three
@@ -8057,8 +7663,6 @@ Handlon worries that her daughter is "intimidated" and that school is
 a "negative" experience for her. She believes that Melanie lacks self-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 187
-
-Melanie Handlon
 
 confidence and that "she needs something that [gives] her a positive feeling." She makes these opinions very clear to Melanie's teacher during a
 conference. In a parent-teacher conference with Ms. Nettles, Ms. Handlon
@@ -8099,8 +7703,6 @@ Ms. Handlon's network also provides her with information about
 what steps other parents are taking as they try to resolve school-related
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 188
-
-Families and Institutions
 
 problems, such as how to ensure that homework gets done correctly and
 on time. Her conversations with other mothers help her develop strategies for interacting with educators.
@@ -8145,8 +7747,6 @@ children's time spent doing school assignments, the amount of their time
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 189
 
-Melanie Handlon
-
 given over to their children's homework, and the useless nature of much of
 the work. These elements, alone and in combination, result in a further
 problem, namely the constant presence of tension and conflict in the
@@ -8187,8 +7787,6 @@ Once home, Melanie takes time to snack and relax before beginning
 her homework. She asks permission to put on music. Gleefully, she
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 190
-
-Families and Institutions
 
 selects "The Nutcracker" and turns the volume up loud on the stereo.
 With mother and daughter sitting together at the dining room table, the
@@ -8238,8 +7836,6 @@ Ms. Handlon: No. What's the remainder? (Melanie gives another answer.)
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 191
 
-Melanie Handlon
-
 Ms. Handlon: Right, and put that there. And then carry that to the next
 
 problem. Good.
@@ -8283,8 +7879,6 @@ Ms. Handlon: That's why I didn't understand what you were doing. (Melanie
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 192
 
-Families and Institutions
-
 reorganizes the coins, putting the pennies in groups of seven. She solves
 the next two problems. When she tries to tackle a problem that requires
 dividing twenty-seven by six, her mother again becomes heavily involved.
@@ -8325,8 +7919,6 @@ Ms. Handlon: See, you can do it. You just have to try.
 Melanie: This is hard.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 193
-
-Melanie Handlon
 
 The tensions and conflicts that arise as Ms. Handlon and Melanie try
 to work together to complete her homework assignments are exhausting
@@ -8370,8 +7962,6 @@ estimates that the work she assigns the children to do at home can be
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 194
 
-Families and Institutions
-
 completed in thirty to forty-five minutes. Garrett Tallinger, who is in
 Melanie's class, routinely finishes the homework (without his parents'
 help) in less than this amount of time. Neither do the teachers see any
@@ -8412,8 +8002,6 @@ I mean, [Melanie's] been seeing her for two years. Don't you think you'd want
 some feedback?
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 195
-
-Melanie Handlon
 
 Ms. Nettles is certain that Ms. Handlon knows Melanie sees the reading
 specialist each week; when Melanie's absences mount up, her mother
@@ -8456,8 +8044,6 @@ concerted cultivation. Mr. Handlon had a master's degree and had a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 196
 
-Families and Institutions
-
 managerial position; his wife had attended junior college. All of the children participated in many organized activities. To be sure, there were
 moments when Ms. Handlon issued directives, especially when frustrated
 while helping with Melanie with homework. But, although parent-child
@@ -8493,8 +8079,6 @@ outside those bounds are ignored or discredited. Thus, parents who
 repeatedly fail to sign and promptly return to school the forms teachers
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 197
-
-Melanie Handlon
 
 send home, for example, are considered seriously remiss, regardless of
 their social class standing. Third, even with similar levels of class
@@ -8584,8 +8168,6 @@ field-workers, when they arrive and exit. She often kisses two-month-old
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 200
 
-Families and Institutions
-
 Valerie on the head and sometimes (when her mother is out of the room)
 wakes the baby up to play with her. In an interview, Wendy describes herself this way:
 
@@ -8629,8 +8211,6 @@ and notes that Mr. Fallon "drives us places," Willie, like Wendy, misses
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 201
 
-Wendy Driver
-
 his father. He and his mother's boyfriend often clash. Mr. Fallon criticizes
 Willie's ideas, his slowness, and other aspects of his daily behavior. Still,
 there are pleasurable moments, as when Mr. Fallon and Willie wrestle
@@ -8672,8 +8252,6 @@ needed to pay her parents a share of the rent, she met her expenses by
 taking a weekend job as a waitress in addition to her other job. When she
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 202
-
-Families and Institutions
 
 became pregnant, however, she had to quit that job, and except for occasional shifts, she has not resumed it. In her leisure time, Ms. Driver
 enjoys watching television, especially talk shows and soap operas. She
@@ -8717,8 +8295,6 @@ Carrolls, the Drivers have advantages. Food is in ample supply and the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 203
 
-Wendy Driver
-
 children may ask for items when they go to the store. Also, Wendy and
 Willie are each allowed to request (and usually receive) one expensive item
 for Christmas (such as a $100 jacket). Ms. Driver squirrels money away
@@ -8759,8 +8335,6 @@ neighborhoods filled with African American poor families not far (about
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 204
 
-Families and Institutions
-
 a ten-minute car ride) from Wendy's home, most of her social interactions involve only whites. All of her relatives are white, all of her immediate neighbors are white, all of the children in her dance class and
 religious study group are white, almost all of the local shopkeepers and
 their customers are white, and even the shopping mall she visits is frequented mainly by whites. Ms. Driver reports that her ex-husband was
@@ -8798,8 +8372,6 @@ Mr. Fallon has no contact with his father, but he talks to his mother daily.
 She visits often and is willing to baby-sit her new grandchildren as
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 205
-
-Wendy Driver
 
 needed. Mr. Fallon is also in regular contact with his sisters. One, Sara,
 lives around the corner; she and her children come by the house frequently. His other sister lives in South Carolina; Mr. Fallon sends her
@@ -8841,8 +8413,6 @@ want to be like your uncles?" Willie's mother worries about "the uncles,"
 too. Watching a television talk show about "skinheads," she comments:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 206
-
-Families and Institutions
 
 "This is what I have to look forward to. Willie's thirteen now. I'll have to start
 worrying whether he'll be in a gang." I say, "Are you worried he'll join a gang?"
@@ -8887,8 +8457,6 @@ or enlarge her circle of friends. When asked what she thinks Wendy is getting fr
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 207
 
-Wendy Driver
-
 Grace. And I guess just remembering her dances. She has no one else to depend
 on but herself to memorize them, and she memorizes them.
 
@@ -8931,8 +8499,6 @@ Fallon are quite directive, even authoritarian, in their child-rearing technique
 families, Wendy and Willie rarely, if ever, argue with adults.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 208
-
-Families and Institutions
 
 Wendy asks her mother, "Can I put the sticker on? Please?" Ms. Driver says, "We
 aren't going to do that." Wendy is silent.
@@ -8981,8 +8547,6 @@ like Alexander Williams's mother does her son's. She does not attempt to
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 209
 
-Wendy Driver
-
 draw Wendy out or follow up on new information, such as the meaning
 of mortal sin. But, just like Ms. Williams, Ms. Driver cares very much
 about her child, and, just like Ms. Handlon, she wants to help her daughter succeed. Ms. Driver keeps a close and careful eye on Wendy's schooling. Unlike Melanie's mother, she is not forgetful with paperwork. She
@@ -9020,8 +8584,6 @@ especially given the formidable nature of her daughter's learning problems. From
 means doing whatever the teachers tell her to do.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 210
-
-Families and Institutions
 
 Whatever they would suggest, I would do. They suggested she go to the eye doctor, so I did that. And they checked her and said there was nothing wrong there.
 
@@ -9068,8 +8630,6 @@ Ms. Driver might have placed somewhat less faith in Wendy's teachers' expertise 
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 211
 
-Wendy Driver
-
 tors in Lower Richmond School's large urban district must contend with
 as they try to identify and resolve children's learning difficulties. One
 teacher, speaking informally, notes that "[the district administrators]
@@ -9107,8 +8667,6 @@ from the start, Wendy's reading deficiency would never have been
 When Ms. Driver asks Mr. Tier to specify what she should do to help
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 212
-
-Families and Institutions
 
 Wendy, he stresses the role of parents as leaders in developing their children's language skills.
 
@@ -9154,8 +8712,6 @@ a little Black girl that she would already have been in a special education type
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 213
 
-Wendy Driver
-
 situation. A kid in fourth grade who can't read a first-grade reader, something is
 dreadfully wrong here . . . And Wendy is so cute and so sweet. She has a smile for
 everybody, and I think somehow or other, I think they did her a terrible disservice by just letting her go forward.
@@ -9198,8 +8754,6 @@ repeatedly and eventually asks to talk to a supervisor. When the hot
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 214
 
-Families and Institutions
-
 water heater in their rental house begins leaking, she calls the landlord.
 When he instructs her to turn off the heater and wait until he can arrange
 to get the problem corrected, she refuses. Pointing out that she is home
@@ -9241,8 +8795,6 @@ with other parents about day-to-day experiences in the classroom. Nor
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 215
 
-Wendy Driver
-
 does she call Wendy's teachers or come to school to discuss homework
 assignments. Ms. Driver expects that the teachers will teach and her
 daughter will learn and that, under normal circumstances, neither
@@ -9282,8 +8834,6 @@ sent her regarding Wendy's educational progress).
 That Ms. Driver has real difficulty understanding the terms profes-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 216
-
-Families and Institutions
 
 sionals routinely employ is clear from the following episode at the dentist's office. The children's dentist, Dr. Marks, comes into the room to discuss with Ms. Driver the results of the six-month checkups she has just
 completed for Wendy and Willie.
@@ -9325,8 +8875,6 @@ and poor parents believed it was inappropriate for them to intervene in
 their children's day-to-day classroom experiences. They expected teachers to shoulder the responsibility of educating children, and they pre-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 217
-
-Wendy Driver
 
 sumed that if there were problems, the school would contact them, not
 vice versa. Still, the deference these parents exhibit in their dealings with
@@ -9370,8 +8918,6 @@ Ms. Driver explains:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 218
 
-Families and Institutions
-
 They send you this big card, and even though I'm her mother, I feel that the
 school—if you don't do something—that they will report you. And they'll come
 and take your kids away.
@@ -9412,8 +8958,6 @@ Daily life for Wendy Driver (and her brother) followed much the same
 pattern we observed with Tyrec Taylor, Katie Brindle, and Harold
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 219
-
-Wendy Driver
 
 McAllister. The Driver children had vast amounts of leisure time that
 they spent hanging out with cousins, watching television, helping with
@@ -9457,8 +9001,6 @@ nature of her daughter's educational problems. This in turn would have
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 220
 
-Families and Institutions
-
 required a familiarity and facility with terminology such as "auditory
 reception," "language arts skills," and "decoding skills," jargon far more
 specialized and complex than the term "tooth decay," whose true meaning apparently had escaped Ms. Driver. And, even had she strengthened
@@ -9487,7 +9029,6 @@ c h a p t e r 1 1
 
 Beating with a Belt,
 Fearing "the School":
-Little Billy Yanelli
 
 The therapist that day . . . he says well you realize that me being
 a therapist and working for the state or whatever that if I find
@@ -9516,8 +9057,6 @@ unmarried). They reside in a small two-bedroom brick house in the city.
 The front door is just a few steps from the curb and opens immediately
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 222
-
-Families and Institutions
 
 into a small living room. The living room is dominated by a huge television with an extra-large screen that takes up most of the wall; the television is always on. With a sofa, recliner, love seat, and coffee table, space
 is at a premium. There is not really room for two people to walk through
@@ -9562,8 +9101,6 @@ adults has health insurance; the cost of getting sick is a constant cause of
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 223
 
-Little Billy Yanelli
-
 worry.2 When they are really sick, they go to the hospital emergency
 room, which can cost hundreds of dollars, and then pay off the bill, bit
 by bit. Money is always tight, although much less so than years ago
@@ -9607,8 +9144,6 @@ that's wrong.
 Ten-year-old Little Billy is short and pudgy and often wears long Tshirts that hang down over his pants. Still, with his closely cropped blond
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 224
-
-Families and Institutions
 
 hair and a stud earring in his right earlobe he also has a stylish air to him.
 School is difficult, as he expressed when asked what he liked about his
@@ -9655,8 +9190,6 @@ neighborhood children, of whom there are quite a few. In the summer his
 one organized sport, baseball, makes the family feel that they are ex-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 225
-
-Little Billy Yanelli
 
 tremely busy, with practices in the evenings and a game on the weekend.
 He enjoys it.
@@ -9706,8 +9239,6 @@ are more appropriate] for a much younger child . . . six, seven years old.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 226
 
-Families and Institutions
-
 Because of his behavioral difficulties at school, the teachers have
 strongly recommended that Billy see the school counselor on a weekly
 basis. They have also recommended counseling for the family, which the
@@ -9746,8 +9277,6 @@ objected to the traditional division of labor, wherein Mr. Yanelli was not
 involved in child care for Billy (a very common pattern in earlier
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 227
-
-Little Billy Yanelli
 
 decades). She found the family to be deficient in this arena as well: "I certainly don't think that it [his father's lack of involvement] helps Billy at
 all. First of all, I think parents need to work together in terms of raising
@@ -9792,8 +9321,6 @@ parent-teacher conference with Mr. Tier, Billy's fourth-grade teacher:
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 228
 
-Families and Institutions
-
 I wanted to ask why he pulls Billy's hair. Why does he pick up Billy's book and
 throw it across the classroom and say, "You're too slow." . . . I didn't get to talk
 about the things that I wanted to talk about . . . I'm not very professional. I can't
@@ -9833,8 +9360,6 @@ Mom: If you started at 5:00 you should be done at 6:00.
 Mom: Billy answer me. Tell me where you're at. (She sounded upset.)
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 229
-
-Little Billy Yanelli
 
 A bit later, Little Billy finished his homework and began a game of
 Scrabble with his mother and the researcher. This became the source of a
@@ -9880,8 +9405,6 @@ with a belt at least once a week.4 In some working-class families, the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 230
 
-Families and Institutions
-
 lines were clearer. It is also important to stress that some working-class
 families in the study did not use hitting or belts. Thus, there was important variation within the class. But this form of discipline was not observed in middle-class families.5
 
@@ -9923,8 +9446,6 @@ In short, Ms. Yanelli's failure to use reasoning and her adoption of a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 231
 
-Little Billy Yanelli
-
 belt made her vulnerable, since she moved in a "field" (the school) that
 privileged reasoning. If she had lived a century earlier, the use of a belt
 would not have been so problematic. Today, however, it carries a potentially catastrophic risk: that her son could show the teacher his marks on
@@ -9964,8 +9485,6 @@ In sum, these standards are developed by professionals and encoded in
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 232
 
-Families and Institutions
-
 schools. In other words, social workers, psychologists, medical doctors,
 and other professionals have issued standards for proper child rearing
 and caution about what constitutes incorrect child rearing.8 Teachers
@@ -10003,8 +9522,6 @@ children entered in a formal march: from opposing sides of the auditorium, two c
 pause, step, pause). Some of the boys, including Harold McAllister, had
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 234
-
-Families and Institutions
 
 a pained expression on their faces when beginning the processional.
 When Harold heard family members hooting, he flashed a grin, and then
@@ -10095,8 +9612,6 @@ and income, as well as in their child-rearing practices. These scholars,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 236
 
-Families and Institutions
-
 however, see such differences within society as a matter of gradation. To
 explain unequal life outcomes, they see it as helpful to look at, for example, differences in mothers' years of education or the range of incomes by
 households in a particular city. These different threads are interwoven in
@@ -10135,8 +9650,6 @@ quite different.1 For that reason, I have described sets of paired beliefs
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 237
 
-Power and Limits of Social Class
-
 and actions as a "cultural logic" of child rearing. When children and parents move outside the home into the world of social institutions, they
 find that these cultural practices are not given equal value. There are
 signs that middle-class children benefit, in ways that are invisible to them
@@ -10173,8 +9686,6 @@ class. Nor were any families immune to life tragedies: across all social
 classes there were premature deaths due to car accidents or suicides.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 238
-
-Families and Institutions
 
 Across all social classes children and parents had different temperaments:
 some were shy and quiet; some were outgoing and talkative. Some had a
@@ -10213,8 +9724,6 @@ and children were clearly marked; parents generally used language not as
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 239
 
-Power and Limits of Social Class
-
 an aim in itself but more as a conduit for social life. Directives were common. In their institutional encounters, working-class and poor parents
 turned over responsibility to professionals; when parents did try to intervene, they felt that they were less capable and less efficacious than they
 would have liked. While working-class and poor children differed in
@@ -10251,8 +9760,6 @@ out for them, she compared her actions favorably to the behavior of
 mothers living nearby, including those who took drugs. She did not compare herself to the Ms. Tallingers or Ms. Williamses of the world.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 240
-
-Families and Institutions
 
 The Intersection of Race and Class
 
@@ -10293,8 +9800,6 @@ segregated for Black homeowners, regardless of their income.8 African
 Americans also are likely to encounter racism in their interpersonal contact with whites, particularly in employment settings. In fourth grade,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 241
-
-Power and Limits of Social Class
 
 however, in very central ways, race mattered less in children's daily lives
 than did their social class.9 Black and white middle-class children were
@@ -10339,8 +9844,6 @@ moments of glory. Middle-class children learn, as Mr. Williams noted,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 242
 
-Families and Institutions
-
 the difference between baroque and classical music. They learn to perform. They learn to present themselves. But this cultivation has a cost.
 Family schedules are disrupted. Dinner hours are very hard to arrange.
 Siblings such as Spencer and Sam Tallinger spend dreary hours waiting at
@@ -10379,8 +9882,6 @@ appeared reasonably comfortable and entitled, while working-class and
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 243
 
-Power and Limits of Social Class
-
 poor family members appeared uncomfortable and constrained. For
 example, neither Harold nor his mother seemed as comfortable as
 Alexander and his mother had been as they interacted with their physician. Alexander was used to extensive conversation at home; with the
@@ -10417,8 +9918,6 @@ who was bothering him. Similarly, when Wendy Driver complained
 about a boy who pestered her and pulled her ponytail, and the teacher
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 244
-
-Families and Institutions
 
 did not respond, her mother advised her to "punch him." Ms. Driver's
 boyfriend added, "Hit him when the teacher isn't looking." 12
@@ -10457,8 +9956,6 @@ quality than contact with cousins, aunts, and uncles, provides workrelated skill
 looks him or her in the eye, he is being groomed, in an effortless fashion,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 245
-
-Power and Limits of Social Class
 
 for job interviews he will have as an adult (employment experts stress the
 importance of good eye contact). In the McAllister home, family members have great affection and warmth toward one another, but they do
@@ -10500,8 +9997,6 @@ and into the early decades of the twentieth century, these practices were
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 246
 
-Families and Institutions
-
 accompanied by beliefs supporting the importance of children working
 hard. If anything, the concern was that without specific training in "useful work," children might grow up to be "paupers and thieves."17 In children's books and magazines, in which stories stressed "the virtues of
 work, duty, and discipline," Zelizer notes, "The standard villain . . . was
@@ -10537,8 +10032,6 @@ frozen dinners, pizza delivery, manufactured clothing, and disposable
 diapers, but also, and more critically, by the ideology behind such insti-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 247
-
-Power and Limits of Social Class
 
 tutions, persons, and products. They bring with them . . . the logic of . . .
 impersonal, competitive, contractual, commodified, efficient, profitmaximizing, self-interested relations.24
@@ -10577,8 +10070,6 @@ many middle-class parents are anxious to make sure their children perform well a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 248
 
-Families and Institutions
-
 children's activities as more than interesting and enjoyable pastimes.
 They also provide potential advantages for children in the sorting
 process.
@@ -10615,8 +10106,6 @@ and more knowledge. More education facilitated concerted cultivation,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 249
 
-Power and Limits of Social Class
-
 particularly with respect to interventions in institutions outside the
 home. As I have shown, poor and working-class parents had difficulty
 understanding key terms bantered about by professionals, such as
@@ -10651,8 +10140,6 @@ to endure food shortages, get children to doctors despite a lack of reliable
 transportation, purchase clothing, and manage other life necessities.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 250
-
-Families and Institutions
 
 Thinking back over their childhoods, these adults acknowledged periods
 of hardship but also recalled times without the kinds of worries that
@@ -10692,8 +10179,6 @@ Other parents were even more dubious. For example, during the parent interviews,
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 251
 
-Power and Limits of Social Class
-
 ules of two children (using data from the twelve families we were observing). One schedule was similar to that of Alexander Williams: restricted
 television, required reading, and many organized activities, including
 piano lessons (for analytical purposes, the child was described as disliking his piano lessons and not being permitted to quit, neither of which
@@ -10732,8 +10217,6 @@ beyond the scope of this study. These two forces are inextricably interwoven in 
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 252
 
-Families and Institutions
-
 What Is to Be Done?
 
 In his thoughtful book The Price of Citizenship, historian Michael Katz
@@ -10768,8 +10251,6 @@ likely to increase access to desirable facilities. What is far less likely, howe
 wealth. Instead, Americans, as is their wont, are likely to remain preoccupied with more individual solutions. Since, however, the problems dif-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 253
-
-Power and Limits of Social Class
 
 fer by social class, the solutions do as well. Below, I review some of the
 possibilities.
@@ -10809,8 +10290,6 @@ a frenzy of "hyper-scheduling."39 Decrying the development of children's
 appointment books, professionals call for children to have more opportunities for unstructured play.40 At the individual level, parents are
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 254
-
-Families and Institutions
 
 encouraged to set strict limits on children's activities. Some parents
 proudly announce on websites that they require their children to limit
@@ -10853,8 +10332,6 @@ of school while middle-class children's academic growth spurts ahead).41
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 255
 
-Power and Limits of Social Class
-
 Here, it is important to bear in mind the ever-changing nature of institutional standards (phonics is "in" one year, whole language the next; computers are promoted and then challenged). Providing children with the
 resources needed to comply with institutional standards may be helpful,
 but it leaves unexamined the problematic nature of class-based childrearing methods themselves. It is possible that policies could be developed to help professionals learn how to be more sensitive to differences
@@ -10886,8 +10363,6 @@ or grandson with celebrations beforehand, such as baby showers, excitement and g
 detailed conversations about who the baby looks like, and formal blessings such as christenings or "dedications" in churches of various denominations. All of these events celebrate the promise offered by this new life.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 256
-
-Families and Institutions
 
 Each person's life also unfolds in a unique way. Within the same family, brothers and sisters have different temperaments and preferences as
 well as different genetic configurations. Fern Marshall spent hours and
@@ -10926,8 +10401,6 @@ decades, of the importance of eliminating poverty or narrowing gaps in
 social inequality.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 257
-
-Power and Limits of Social Class
 
 Looking at social class differences in the standards of institutions provides a vocabulary for understanding inequality. It highlights the ways in
 which institutional standards give some people an advantage over others
@@ -11010,8 +10483,6 @@ whole, I decided to concentrate exclusively on parents who were employees
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 261
 
-Appendix A
-
 rather than employers or self-employed. The question then became how to
 differentiate within this heterogeneous group. Various criteria have been
 proposed for this purpose, but authority in the workplace and "credential
@@ -11047,8 +10518,6 @@ and white middle-class children we observed all reside with both of their
 biological parents. Although some of the poor children have regular contact with their fathers, none of the Black or white poor children in the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 262
-
-Appendix A
 
 intensive observations had their biological fathers at home. The workingclass families were in between. This pattern raises questions of whether
 the pattern of concerted cultivation depends on the presence of a twoparent marriage. The scope of the sample cannot provide a satisfactory
@@ -11090,8 +10559,6 @@ Black woman undergraduate student who was assisting me. While in the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 263
 
-Appendix A
-
 classroom, I sometimes simply observed, but other times, I helped out
 with art projects and computer lessons and lent a hand shepherding children from place to place in the school. I brought in food on various occasions, including cookies for the class on Valentine's Day.7 I got to know
 the students well; the girls would give me a hug when I got to school.
@@ -11130,8 +10597,6 @@ gaining access to families for the observation phase. Ms. Green's third-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 264
 
-Appendix A
-
 grade classroom at Lower Richmond yielded seven of the twelve children: Brindle, Taylor, Irwin, Driver, Carroll, Yanelli, and McAllister. The
 fourth-grade classroom at Swan yielded two more: Tallinger and
 Handlon. Selecting the families involved a conscious, complicated calculus. The interview phase had helped identify certain kinds of experiences
@@ -11167,8 +10632,6 @@ deviant case. Ms. Greeley, a white single mother with a live-in African
 American boyfriend, had been raised in a middle-class family. She developed a drug problem serious enough to cause her to temporarily lose custody of her children. At the time of the study, the Greeleys were living
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 265
-
-Appendix A
 
 below the poverty level in a white working-class neighborhood. Despite
 her relatively privileged childhood, most of Ms. Greeley's child-rearing
@@ -11210,8 +10673,6 @@ upbeat, comfortable, and lighthearted in all of my conversations with the
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 266
 
-Appendix A
-
 families. I stressed that unlike what television shows would have us
 believe, family life was quite difficult and that taking care of children was
 challenging. I explained that the research assistants and I were used to
@@ -11252,8 +10713,6 @@ do all of the fieldwork and interviews. I needed help. The first year, four
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 267
 
-Appendix A
-
 students—three white women and one African American woman—
 assisted me. With me, these students interviewed parents in the study of
 eighty-eight families and conducted observations for more than half of
@@ -11290,8 +10749,6 @@ assistant with a headache and a general feeling of disgust ("I wanted to
 kick his mother's butt for letting him get away with that whining . . .
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 268
-
-Appendix A
 
 Who's the parent?"). Finally, over time, some researchers developed
 "favorite" families and some families developed "favorite" researchers.
@@ -11337,8 +10794,6 @@ before the family agreed. Then we would arrange a time to get together
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 269
 
-Appendix A
-
 to sign consent forms and schedule home visits. For that meeting, two
 research assistants and I would go to the family's home. We brought calendars (one for us and one, with refrigerator magnets, for the family) and
 a bakery cake along with us.
@@ -11378,8 +10833,6 @@ We had the sense that normal family rhythms resumed over the course
 of our visits. Moreover, the key purpose of the study was to compare
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 270
-
-Appendix A
 
 how different families organized their lives. There was no particular
 evidence that some families relaxed more than others on a systematic
@@ -11424,8 +10877,6 @@ card with a five-dollar bill tucked inside. I plan to reinterview the children a
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 271
 
-Appendix A
-
 Dilemmas
 
 It would be possible to write an entire book on the methodological
@@ -11466,8 +10917,6 @@ courses I taught at Temple, and some asked questions about other col-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 272
 
-Appendix A
-
 leges in the area. Thus, despite many discussions of the study with families, many working-class and poor families maintained a limited understanding of the study, a pattern found by other ethnographers.21
 
 The question of interventions. Problems surfaced when we were in situations that clashed with our own definitions of proper parenting, definitions which (as I noted above) varied across the team. It is one thing to
@@ -11503,8 +10952,6 @@ assistant was ever to do anything she or he felt really uncomfortable
 doing. When they were in the field, the final decision was theirs.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 273
-
-Appendix A
 
 This firm commitment to respect the families and their practices did
 not make the observations easy. For example, when faced with bitter sibling rivalry, one field-worker wrote that "it was incredibly hard to resist
@@ -11546,8 +10993,6 @@ reading again the field notes from the families (for each family, there was
 a chronologically arranged file of notes). For the interviews of the par-
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 274
-
-Appendix A
 
 ents of the eighty-eight children, I coded the response data and then
 entered this information into a qualitative software program. 24For the
@@ -11740,12 +11185,8 @@ Total
 
 Middle class1
 
-Melanie Handlon
-Garrett Tallinger
 (sample total = 18)
 
-Stacey Marshall
-Alexander Williams
 (sample total = 18)
 
 Working class2 Wendy Driver
@@ -11753,18 +11194,15 @@ Working class2 Wendy Driver
 Billy Yanelli
 (sample total = 14)
 
-Tyrec Taylor
 Jessica Irwin4
 (sample total = 12)
 
 Poor3
 
-Katie Brindle
 Karl Greeley
 (sample total = 12)
 
 Tara Carroll
-Harold McAllister
 (sample total = 14)
 
 (sample total = 36)
@@ -12008,7 +11446,6 @@ c
 a
 t
 n
-I
 
 l
 a
@@ -12081,7 +11518,6 @@ s
 s
 a
 l
-C
 
 l
 a
@@ -12112,8 +11548,6 @@ a
 F
 
 .
-
-C
 
 e
 l
@@ -12380,7 +11814,6 @@ o
 r
 r
 a
-C
 a
 r
 a
@@ -12429,7 +11862,6 @@ l
 
 A
 c
-M
 
 r
 o
@@ -12464,8 +11896,6 @@ e
 v
 i
 r
-
-D
 
 )
 r
@@ -12589,7 +12019,6 @@ n
 i
 w
 r
-I
 
 a
 c
@@ -12603,7 +12032,6 @@ s
 s
 a
 l
-C
 g
 n
 i
@@ -13177,7 +12605,6 @@ e
 h
 t
 o
-M
 
 .
 
@@ -13187,8 +12614,6 @@ n
 a
 l
 e
-
-M
 
 n
 o
@@ -13241,7 +12666,6 @@ h
 s
 r
 a
-M
 
 r
 e
@@ -13257,12 +12681,10 @@ s
 s
 a
 l
-C
 e
 l
 d
 d
-M
 
 i
 
@@ -13287,25 +12709,21 @@ N
 
 Blacks
 
-Organized activities
 Items with missing data
 N
 
 Whites
 
-Organized activities
 Items with missing data
 N
 
 Girls
 
-Organized activities
 Items with missing data
 N
 
 Boys
 
-Organized activities
 Items with missing data
 N
 
@@ -13365,8 +12783,6 @@ mentioned).
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 283
 
-Appendix C
-
 Table C5. Participation in Activities
 Outside of School: Boys
 
@@ -13378,10 +12794,8 @@ Activities
 
 Middle class
 
-Garrett Tallinger
 (white)
 
-Alexander Williams
 (Black)
 
 Plays with siblings in yard
@@ -13417,60 +12831,44 @@ Guitar (through school)
 Working class
 
 Billy Yanelli
-(white)
 
 Baseball team
-
-Tyrec Taylor
-(Black)
 
 Football team
 Vacation Bible School
 Sunday school (off/on)
 
-Watches television
 Visits relatives
 Rides bike
 Plays outside in the street
 Hangs out with neighborhood kids
 
-Watches television
 Plays outside in the street
 Rides bike with neighborhood boys
-Visits relatives
 Goes to swimming pool
 
 Poor
 
 Karl Greeley
-(white)
 
 Goes to swimming pool
 Walks dog with neighbor
 
-Watches television
 Plays Nintendo
 Plays with siblings
-
-Harold McAllister
-(Black)
 
 Bible study in neighbor's
 house (occasionally)
 
 Bible camp (1 week)
 
-Visits relatives
 Plays ball with neighbor
 
 children
 
-Watches television
 Watches videos
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 284
-
-Appendix C
 
 Table C6. Participation in Activities
 Outside of School: Girls
@@ -13483,20 +12881,10 @@ Activities
 
 Middle class
 
-Melanie Handlon
-(white)
-
-Stacey Marshall
-(Black)
-
 Working class
-
-Wendy Driver
-(white)
 
 Girl Scouts
 Piano
-Sunday school
 Church
 Church pageant
 Violin (through school)
@@ -13505,7 +12893,6 @@ Softball team
 Gymnastics lessons
 Gymnastic teams
 Church
-Sunday school
 Youth choir
 
 Catholic education (CCD)
@@ -13517,14 +12904,10 @@ Jessica Irwin
 white mother)
 
 Church
-Sunday school
 Saturday art class
 School band
 
 Poor
-
-Katie Brindle
-(white)
 
 School choir
 Friday evening church
@@ -13532,10 +12915,8 @@ Friday evening church
 group (rarely)
 
 Tara Carroll
-(Black)
 
 Church
-Sunday school
 
 Restricted television
 Plays outside with children
@@ -13549,13 +12930,10 @@ mother
 Swims (not on swim team)
 Listens to music
 
-Watches television
 Plays outside
 Visits friends from school
 Rides bike
 
-Watches television
-Visits relatives
 Does housework
 Rides bike
 Plays outside in the street
@@ -13565,26 +12943,18 @@ Restricted television
 Reads
 Plays outside with neighborhood children
 
-Visits relatives
-
-Watches television
-Visits relatives
 Plays with Barbies
 Rides bike
 Plays with neighborhood
 
 children
 
-Watches television
-Visits relatives
 Plays with dolls
 Plays Nintendo
 Plays with neighborhood
 children
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 285
-
-Appendix C
 
 Table C7. Proportion Who Have
 Requested a Teacher by Social Class1
@@ -13654,8 +13024,6 @@ Lareau(E).qxd 5/7/2003 5:10 PM Page 286
 
 1993–94
 
-Appendix C
-
 Table C9. Overview of Data
 Collection Process
 
@@ -13701,8 +13069,6 @@ out exit interviews with target child, siblings, mother, and father
 or guardian
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 287
-
-Appendix C
 
 1993–94
 (continued)
@@ -14844,8 +14210,6 @@ Two Sexes.
 46. See David Halle's book, America's Working Man.
 47. Michael B. Katz, The Undeserving Poor.
 
-Appendix A
-
 1. In retrospect, the decision to forgo interviewing the children was a serious
 mistake. I did, however, carry out "exit interviews" with children in the observation study.
 
@@ -15016,8 +14380,6 @@ Lareau(E).qxd 5/7/2003 5:10 PM Page 312
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 313
 
-Bibliography
-
 Alwin, Duane F. 1984. "Trends in Parental Socialization Values." American Journal of Sociology 90 (2): 359–82.
 
 Anderson, Elijah. 1990. Streetwise. Chicago: University of Chicago Press.
@@ -15058,8 +14420,6 @@ Berlage, Gai Ingham. 1982. "Are Children's Competitive Team Sports Teaching
 Corporate Values?" ARENA Review 6 (1): 15–21.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 314
-
-Bibliography
 
 Bernstein, Basil. 1971. Class, Codes, and Control: Theoretical Studies Towards a
 
@@ -15125,8 +14485,6 @@ Their Children. Cambridge: Cambridge University Press.
 Cohen, Phil. 1997. "Laboring under Whiteness." Pp. 244–82 in Displacing
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 315
-
-Bibliography
 
 Whiteness, edited by Ruth Frankenberg. Durham, N.C.: Duke University
 Press.
@@ -15196,8 +14554,6 @@ Family Life 1st <familylife1st@wayzata.k12.mn.us>. 2002. "History." In Family
 Life 1st. www.familylife1st.org/history.html, accessed 12 December 2002.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 316
-
-Bibliography
 
 Feagin, Joe, and Melvin P. Sikes. 1994. Living with Racism: The Black Middle-
 
@@ -15274,8 +14630,6 @@ Economic Research. http://www.nber.org/papers/w8741, accessed 12 December 2002.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 317
 
-Bibliography
-
 Hart, Betty, and Todd R. Risley. 1995. Meaningful Differences in the Everyday
 
 Experiences of Young American Children. Baltimore: Paul H. Brookes.
@@ -15346,8 +14700,6 @@ the Purchase of Recreational Services." Journal of Leisure Research, 22 (2):
 2002.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 318
-
-Bibliography
 
 Imber, Jonathan B. 1991."Doctor No Longer Knows Best." Pp. 298–317 in
 America at Century's End, edited by Alan Wolfe. Berkeley: University of California Press.
@@ -15420,8 +14772,6 @@ Kozol, Jonathon. 1992. Savage Inequalities: Children in America's Schools. New
 York: HarperCollins.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 319
-
-Bibliography
 
 Kropp, Paul. 2001. I'll Be the Parent, You Be the Child. New York: Fisher.
 Ladd, Everett. 1993. "Thinking about America." The Public Perspective 4 (5):
@@ -15497,8 +14847,6 @@ Harvard University Press.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 320
 
-Bibliography
-
 Mayer, Susan E. 1997. What Money Can't Buy: Family Income and Children's
 
 Life Chances. Chicago: University of Chicago Press.
@@ -15570,8 +14918,6 @@ Community. New York: Simon & Schuster.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 321
 
-Bibliography
-
 Rainwater, Lee, and Timothy M. Smeeding. 1995. "Doing Poorly: The Real
 Income of American Children in a Comparative Perspective." Available online at http://www.lisproject.org/publications/liswps/127.pdf, accessed 12
 December 2002.
@@ -15638,8 +14984,6 @@ on Adolescence 11 (2): 177–98.
 Smith, Dorothy E. 1987. The Everyday World as Problematic: A Feminist Sociology. Boston: Northeastern University Press.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 322
-
-Bibliography
 
 Steinberg, Laurence, Susie D. Lamborn, Sanford M. Dornbusch, and Nancy Darling. 1992. "Impact of Parenting Practices on Adolescent Achievement."
 Child Development 63 (5): 1266–81.
@@ -15711,8 +15055,6 @@ Waters, Mary C. 1999. Black Identities. New York: Russell Sage Foundation.
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 323
 
-Bibliography
-
 Weininger, Elliot B. 2002. "Class and Causation in Bourdieu." Pp. 49–114 in
 Current Perspectives in Social Theory, vol. 21., edited by Jennifer M.
 Lehmann. Oxford: Elsevier.
@@ -15747,8 +15089,6 @@ of Children. New York: Basic Books.
 Lareau(E).qxd 5/7/2003 5:10 PM Page 324
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 325
-
-Index
 
 Accomplishment of natural growth
 
@@ -15837,8 +15177,6 @@ as an analysis of moments of social
 reproduction, 277
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 326
-
-Index
 
 Bourdieu, Pierre (continued)
 
@@ -15978,8 +15316,6 @@ language, 63, 116, 127–32, 169, 296n.7
 parent-child conflicts, 54, 208
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 327
-
-Index
 
 physical threats or physical, 71, 95–96,
 221, 228–32, 273, 294n.7, 305n.5,
@@ -16143,8 +15479,6 @@ economic, 28, 293n.15, 294n.16, n.17
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 328
 
-Index
-
 Inequality (continued)
 
 Kingston, Paul W.
@@ -16304,8 +15638,6 @@ The Price of Citizenship, 252
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 329
 
-Index
-
 number of children locally, 45, 74, 141,
 
 Overscheduled Child, The, 253, 307n.37,
@@ -16323,8 +15655,6 @@ Parents
 Networks. See Social connections
 
 differences between mothers and
-
-Organized activities
 
 activity-to-activity conflict, 43, 48, 49,
 
@@ -16462,8 +15792,6 @@ Weber, 305n.21
 Reasoning. See Language use
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 330
-
-Index
 
 Religious activities
 
@@ -16628,8 +15956,6 @@ concept of, 289n.3
 See also Child rearing
 
 Lareau(E).qxd 5/7/2003 5:10 PM Page 331
-
-Index
 
 Social structure
 

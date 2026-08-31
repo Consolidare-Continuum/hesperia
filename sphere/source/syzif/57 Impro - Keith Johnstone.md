@@ -1,4 +1,3 @@
-
 This page intentionally left blank
 
 Impro
@@ -448,8 +447,6 @@ spit in it. I'd left school with worse posture, and a worse voice, with
 worse movement and far less spontaneity than when I'd entered it.
 Could teaching have had a negative effect?
 
-NOTES ON MYSELF
-
 Emotion
 One day, when I was eighteen, I was reading a book
 and I began to weep. I was astounded. I'd had no idea that literature
@@ -539,8 +536,6 @@ of tricks, so the lines he leaves on your paper are very interesting .. .'
 Everyone's paper was covered with a mess of black lines--except
 mine, since I'd tried to be original by mixing up a blue. Stirling was
 scathing about my inability to mix up a black, which irritated me.
-
-NOTES ON MYSELF
 
 Then he asked us to put colours in all the shapes the clown had made.
 'What kind of colours?'
@@ -638,8 +633,6 @@ referred to them as 'poor stock', and they disliked exactly those
 children I found most inventive. If a child is creative he's likely to be
 more difficult to control, but that isn't a reason for disliking him. My
 
-NOTES ON MYSELF
-
 colleagues had a poor view of themselves: again and again I heard them
 say, 'Man among boys; boy among men' when describing their
 condition. I came to see that their unhappiness, and lack of accept
@@ -733,8 +726,6 @@ floor that he refused to walk around. I'd stuck all the art paper to
 gether and pinned it along the back wall, and when a child got bored
 he'd leave what he was doing and stick some more leaves on the burn
 ing forest.
-
-NOTES ON MYSELF
 
 My headmaster had discouraged my ambition to become a teacher:
 'You're not the right type,' he said, 'not the right type at all.' Now it
@@ -1098,8 +1089,6 @@ a terrified state, and who therefore make hardly any progress. Instead
 of seeing people as untalented, we can see them as phobic, and this
 completely changes the teacher's relationship with them.
 
-NOTES ON MYSELF
-
 Students will arrive with many techniques for avoiding the pain of
 failure. John Holt's How Children Fail (Penguin, 1969; Pitman, 1970)
 gives examples of children learning to get round problems, rather than
@@ -1287,8 +1276,6 @@ at home quietly when ...
 
 [Mr C demolishes him.]
 
-STATUS
-
 MR c: You were lucky to be sitting at home quietly. If I
 
 was able to do that I shouldn't think I had anything
@@ -1395,8 +1382,6 @@ status during the scene, and he doesn't see what's gone wrong.
 
 I ask him to try it again and suggest a different line of dialogue.
 
-STATUS
-
 A: What are you reading?
 B: War and Peace.
 A: I've always wanted to read that.
@@ -1443,8 +1428,6 @@ one will congratulate you, but will feel lowered. Say 'They said I was
 too old' and people commiserate, but cheer up perceptibly. Kings and
 great lords used to surround themselves with dwarfs and cripples so
 that they could rise by the contrast. Some modern celebrities do the
-
-STATUS
 
 same. The exception to this see-saw principle comes when you
 identify with the person being raised or lowered, when you sit on his
@@ -1504,8 +1487,6 @@ SGANARELLE: [Lowers notary.] And a curse on the cuckold of a
 notary who made me sign my name to my own ruin.
 
 MARTINE: [Raises herself.] A lot of reason you have to complain,
-
-STATUS
 
 I must say! You ought to thank Heaven every
 minute of your life that you have me for your wife.
@@ -1609,8 +1590,6 @@ mony. Elements of this can be seen in the Christ story (the robe, the
 crown of thorns, and even the eating of the 'body'). A sacrifice has to
 be endowed with high status or the magic doesn't work.
 
-STATUS
-
 3 Teaching Status
 Social animals have inbuilt rules which prevent them
 killing each other for food, mates, and so on. Such animals confront
@@ -1647,8 +1626,6 @@ by looking away, or can challenge and outstare. However, S. E.
 Poppleton, a research student at Exeter, has since shown that the
 relationship between eye-glance submission hierarchies and an inde
 pendent measure of dominance (provided by CateH's 16PF personality
-
-STATUS
 
 inventory) is an inverse one. Thus he who looks away first is the more
 dominant.'
@@ -1696,8 +1673,6 @@ every sentence with 'er', so it should be very obvious. Then I move
 the 'er' into the middle of sentences, and they say that they perceive
 me as becoming a little stronger. If I make the 'er' longer, and move it
 
-STATUS
-
 back to the beginning of sentences, then they say I look more import
 ant, more confident. When I explain what I am doing, and let them
 experiment, they're amazed at the different feelings the length and
@@ -1742,8 +1717,6 @@ conversations together, trying out different ways of changing their
 status. One student might try moving very smoothly (high status)
 while his partner moves jerkily (low status).! One might keep putting
 his hands near his face while he speaks, and the other might try
-
-STATUS
 
 keeping his hands away from his face. One might try holding his toes
 pointing inwards (low status), while one sits back and spreads himself
@@ -1850,8 +1823,6 @@ after this ... 1 was hard put to get a word in edgeways.'
 
 'I find that when 1 slow my movements down 1 go up in status.'
 
-STATUS
-
 'I felt as if all the world had suddenly been revealed to me. I
 realise that when I talk to people, my attitude of inner feeling is of
 almost talking down to them.'
@@ -1952,8 +1923,6 @@ stand that a change of status is involved. You prepare a status for one
 situation, and have to alter it when suddenly confronted by the
 unexpected one. I then set the students to predetermine the direction
 
-STATUS
-
 of the status change, and of course errors are often made. Someone
 trying to play low status may have to be told to smile, and if he smiles
 with both sets of teeth (an aggressive smile) he may have to be asked
@@ -1963,7 +1932,7 @@ nor turning your back is essential but it may help the student get the
 feeling. In difficult cases it helps to use videotape.
 
 A more complex version of this exercise is really a little play. I
-invented it at RADA when I was asked ifl could push the students into
+invented it at RADA when I was asked iflcould push the students into
 more emotional experiences. It's for one character-let's say he's a
 teacher, although he could be any profession. He arrives late carrying
 the register and a pair of glasses. He says something like 'All right,
@@ -2118,8 +2087,6 @@ sideboard. B picks it up and sees it's been opened. A is always opening
 B's letters which causes conflict between them. The scene will prob
 ably develop something like this:
 
-STATUS
-
 B: Why did you open my letter?
 A: Is it open?
 B: You always open my letters.
@@ -2174,8 +2141,6 @@ put him up to it." ,
 
 Non-defence is exploited by the wolf who exposes his neck and
 
-STATUS
-
 underbelly to a dominant wolf as a way of ending a losing battle. The
 top Wolf wants to bite, but can't. Some Congolese soldiers dragged two
 white journalists out of a jeep, shot one and were about to shoot the
@@ -2222,8 +2187,6 @@ A: It's from your mother. Some of it I thought most
 unsuitable. You'll see I crossed some paragraphs
 out ... (And so on.)
 
-STATUS
-
 4 Insults
 
 If you can get the students to insult each other play
@@ -2269,8 +2232,6 @@ in order to make the scene more 'interesting' (which it doesn't).
 I explain that I don't want them to make the scene 'interesting',
 
 that they are just to buy and sell something. They start again.
-
-STATUS
 
 'Can I help you?'
 'Just browsing.'
@@ -2324,8 +2285,6 @@ achieve as well as 'being insulted'. In my experience this game is very
 'releasing'. The status lowering is so drastic, and at the same time so
 pleasurable, that ordinary status scenes hold fewer terrors.
 
-STATUS
-
 In the average school the teachers are supposed to inhibit their
 pupils, and the kind of healing openness typical of therapy groups
 simply isn't possible, but the game is useful even with censored lists, or
@@ -2363,8 +2322,6 @@ the resistance is, and devise ways of getting it to crumble. Many
 teachers don't recognise that there's a problem 'because they only
 exploit the 'preferred' status. In a bad drama school it's possible to
 play your 'preferred' status all the time, since they cast you to type,
-
-STATUS
 
 exploiting what you can do, instead of widening your range. In the
 professional theatre actors divide up roughly into high-status and low
@@ -2463,8 +2420,6 @@ Here's Stanislavsky describing a performance by Salvini, an actor
 
 who obviously used space in the way 1" mean:
 
-STATUS
-
 'Salvini approached the platform of the Doges, thought a little
 while, concentrated himself and, unnoticed by any of us, took the
 entire audience of the great theatre into his hands. It seemed that he
@@ -2512,8 +2467,6 @@ municate a wayan actor can 'feel'. If I stand two students face to face
 and about a foot apart they're likely to feel a strong desire to change
 their body position. If they don't move they'll begin to feel love or
 
-STATUS
-
 hate as their 'space' streams into each other. To prevent these feelings
 they'll modify their positions until their space flows out relatively
 unhindered, or they'll move back so that the force isn't so powerful.
@@ -2558,8 +2511,6 @@ ency to slide into postures related to the fear crouch.
 
 When the highest-status person feels most secure he will be the
 most relaxed person, as for example in the opening scenes of Kozint-
-
-STATUS
 
 sev's film of King Lear. A solemn ceremony is arranged, the daughters
 take their places, an atmosphere of expectancy is built up, and then
@@ -2606,8 +2557,6 @@ taking deep breaths, although it's the same air as it was just below
 the brow of the hill. Trips to the sea, and our admiration of mount aim.
 are probably symptoms of overcrowding.
 
-STATUS
-
 Approach distances are related to space. If I approach someone on
 open moorland I have to raise an arm and shout 'excuse me' as soon
 as I'm within shouting distance. In a crowded street I can actually
@@ -2651,8 +2600,6 @@ decided on a location. The class will agree that the actors look as if
 they're in a hospital corridor, or in a crowded street, or passing on a
 narrow pavement. We judge this from the distance at which they
 make the first eye contact, and from the moment that they 'switch off'
-
-STATUS
 
 from each other before passing. The class may not know why they
 imagine the actors in a particular environment, but there is often a
@@ -2705,8 +2652,6 @@ Juan a servant, and so on. The master-servant scene seems to be funny
 and entertaining in all cultures-even people who have never seen a
 manservant have no difficulty in appreciating the nuances.
 
-STATUS
-
 The relationship is not necessarily one in which the servant plays
 low and the master plays high. Literature is full of scenes in which the
 servant refuses to obey the master, or even beats him and chases him
@@ -2746,8 +2691,6 @@ done to see that they're kept 'fresh' and at ease, but a servant is not a
 worker in this sense. You can work for someone without being 'their
 servant'. A servant's primary function is to elevate the status of the
 master. Footmen can't lean against the wall, because it's the master's
-
-STATUS
 
 wall. Servants must make no unnecessary noise or movement, because
 it's the master's air they're intruding on.
@@ -2799,8 +2742,6 @@ If the master and the servant agree to step out of their roles everyone
 else will be furious-as when Queen Victoria made friends with John·
 Brown.
 
-STATUS
-
 I get my students to mime dressing and undressing each other as
 masters and servants. It's very easy to see when the space is wrong,
 and they suddenly 'catch on'. I also play scenes with nice masters and
@@ -2850,8 +2791,6 @@ Or:
 This game also generates its own content.
 'Good morning, Jenkins.'
 'I'm afraid it's not morning, Sir. I forgot to wake you.'
-
-STATUS
 
 'Augh! Four o'clock in the afternoon. Don't you know what day it
 
@@ -2954,8 +2893,6 @@ I: What's happening?
 
 'Sir'?
 
-STATUS
-
 3: Yes, Sir! Number Four reports that there is no chair,
 
 Sir!
@@ -3012,8 +2949,6 @@ rage to get anything done, but it's more important that the scene is
 played than the hat game 'demonstrated'. You can't even teach this
 game unless you yourself are 'high' and expressing great drive and
 energy.
-
-STATUS
 
 Actors should become expert at each stage of a pecking order.
 There will be actors who can at first only play one role really well.
@@ -3120,8 +3055,6 @@ commit suicide. I'll have to prod the master into action because he'll
 be reluctant to exercise his power. The moment the master looks ir
 ritated I say 'Kill him!' and send in more servants until the stage is
 
-STATUS
-
 littered with bodies. Everyone laughs a lot, but often the servants
 have no idea why they're being killed. I ask the master to explain the
 reasons, but I stress that he doesn't need to be fair. The servants
@@ -3218,8 +3151,6 @@ ESTRAGON: What?
 
 POZZO: ••• In reality, he carries like a pig. It's not h.is job.
 
-STATUS
-
 VLADIMIR: You want to get rid of him?
 
 pozzo: He imagines that when I see him indefatigable I'll
@@ -3273,8 +3204,6 @@ make it 'significant', and ignore the status transactions.
 I don't myself see that an educated man in this culture necessarily
 has to understand the second law of thermodynamics, but he certainly
 
-STATUS
-
 should understand that we are pecking-order animals and that this
 affects the tiniest details of our behaviour.
 
@@ -3285,8 +3214,6 @@ suggest that you should speed the film up, but then they'd be jerking
 about like the Keystone Cops, or the bionic chicken.
 
 Spontaneity
-
-I
 
 'I was given the part of poor Armgard, so I stood
 in front of the class and as I began with "Here he cannot escape
@@ -3420,8 +3347,6 @@ You have to be a very stubborn person to remain an artist in this
 culture. It's easy to play the role of 'artist', but actually to create some
 thing means going against one's education. I read an interview once
 
-SPONTANEITY
-
 in which Grandma Moses was complaining that people kept urging
 her to improve her snow scenes by putting blue in them, but she
 insisted that the snow she saw was white, so she wouldn't do it. This
@@ -3512,8 +3437,6 @@ analysis: 'Shape ... dark ... swelling ... getting closer ... human .. .
 nose type XIS, eyes type E24B ... characteristic way of walking .. .
 look under relative •. .' and so on, in order to turn electromagnetic.
 
-SPONTANEITY
-
 radiation into the image of my father, yet I don't experience myself as
 'doing' anything at all! My brain creates a whole universe without my
 having the least sense of effort. Of course, if I say 'Hi Dad', and the
@@ -3559,8 +3482,6 @@ wearing.
 'It was a London street. Working-class. Some of the buildings have
 
 been demolished.'
-
-SPONTANEITY
 
 'Any windows boarded up?'
 'Yes. Rusty corrugated iron.'
@@ -3618,8 +3539,6 @@ teachers.
 'Just be sad. Start to weep and you'll know what's upset you.'
 The student decides to humour me.
 'That isn't very sad. You're just pretending.'
-
-SPONTANEITY
 
 'You asked me to pretend.'
 'Raise your arm. Now, why are you raising it?'
@@ -3716,8 +3635,6 @@ Mter he'd been hospitalised several times-with no effect on the fish
 it was suggested that perhaps he shouldn't tell anyone. Mter all it was
 the quarrels that were getting him put away, rather than the delusion.
 
-SPONTANEITY
-
 Once he'd agreed to keep his problem secret, he was able to lead a
 normal life. His sanity is like our sanity. We may not have a fish in our
 jaw, but we all have its equivalent.
@@ -3810,8 +3727,6 @@ that a therapeutic situation is one 'in which the patient can freely voice
 his innermost thoughts towards himself, towards any other person, and
 towards the analyst. He can be confident that he is not being judged,
 and that he is fully accepted, whatever he may be, or whatever he may
-
-SPONTANEITY
 
 disclose.' Later they add: 'We encourage the relaxation of censorship.
 We do this by letting the patient members understand that they are
@@ -3912,8 +3827,6 @@ at a really 'obvious' idea. Ordinary people asked to improvise will
 search for some 'original' idea because they want to be thought clever.
 They'll say and do all sorts of inappropriate things. If someone says
 
-SPONTANEITY
-
 'What's for supper?' a bad improviser will desperately try to think up
 something original. Whatever he says he'll be too slow. He'll finally
 drag up some idea like 'fried mermaid'. If he'd just said 'fish' the
@@ -4007,8 +3920,6 @@ A student mimes taking something off a shelf.
 'What is it?' I ask.
 'A book.'
 
-SPONTANEITY
-
 'I saw your hand reject an earlier shape. What did you want to take?'
 'A tin of sardines.'
 'Why didn't you?'
@@ -4016,7 +3927,6 @@ SPONTANEITY
 'Was it open?'
 'Yes.'
 'All messy?'
-'Yes.'
 'Maybe you were opting for a pleasanter object. Mime taking
 
 something else off a shelf.'
@@ -4052,8 +3962,6 @@ make her seem far more inventive.
 
 The first time I meet a group I might ask them to mime taking a hat
 off, or to mime taking something off a shelf, or out of their pocket. I
-
-SPONTANEITY
 
 won't watch them while they do it; I'll probably look out of the
 window. Mterwards I explain that I'm not interested in what they
@@ -4132,7 +4040,6 @@ he feels fed up. The actors are in total conflict.
 Had the answer been 'Yes', then the feeling would have been completely different.
 
 'Your name Smith?'
-'Yes.'
 'You're the one who's been mucking about with my wife then?'
 'Very probably.'
 'Take that, you swine.'
@@ -4192,8 +4099,6 @@ the other.
 
 'Good morning.'
 'Good morning.'
-
-SPONTANEITY
 
 'Yes ... shall I sit here?'
 'Oh, yes, Sir.'
@@ -4293,8 +4198,6 @@ A: My back hurts.
 B: No, it doesn't ... Yes, you're right.
 
 B has noticed his error in blocking, which resulted from his wishing to
-
-SPONTANEITY
 
 stick to the trouser idea. A then blocks his own idea by shifting to
 another.
@@ -4402,8 +4305,6 @@ A: Hallo, are you a new member?
 B: No, I've come to fix the pipes. You got a leak
 
 somewhere?
-
-SPONTANEITY
 
 A: Yes, oh, thank goodness. There's three feet of water
 
@@ -4567,8 +4468,6 @@ them and suggest that they can just hold their hands out, and see
 what the other person chooses to take. If you hold out both hands
 about three feet apart, then obviously it will be a larger present, but
 
-SPONTANEITY
-
 you don't have to determine what your gift is. The trick is to make the
 thing you are given as interesting as possible. You want to 'overaccept'
 the offer. Everything you are given delights you. Maybe you wind it up
@@ -4673,8 +4572,6 @@ can then do a five-minute 'hate' tirade: 'Forgive you? Mter the way
 you hounded her? Turning her out into the snow that Christmas Eve
 .. .' and so on.
 
-SPONTANEITY
-
 Three or four sentences can easily last ten minutes, when expanded
 a linle, and the audience are astounded and delighted. They don't
 expect improvisers, or actors for that maner, to take things to such
@@ -4771,8 +4668,6 @@ You must not treat a cripple so .. .'
 I'll sacrifice you here in old Stonehenge.'
 
 He makes no attempt to sacrifice her, I have to tell him:
-
-SPONTANEITY
 
 'Do it-it's what you said!
 Everyone wants to see her dead.'
@@ -4915,7 +4810,6 @@ Challenging:
 
 Testing:
 
-SPONTANEITY
 But how can you be President of the
 United States?
 If you're dead, why is your hean beating?
@@ -4968,8 +4862,6 @@ forces.' C'Yeasayers and Naysayers', Journal of Abnormal and Social
 Psychology, Vol. 160, No.2, 1960.)
 4. My impro group used to set up a 'say "Yes'" game using a tape
 
-SPONTANEITY
-
 recorder. We would record a one-sided dialogue, and then play the tape
 during a show, and get an actor who did not know what was on the tape to
 improvise with it. It means you have to accept the tape or fail totally,
@@ -5013,8 +4905,6 @@ lured into gagging or blocking, the audience is already on the way towards
 irritation and boredom. More than laughter they want action.
 
 Narrative Skills
-
-I
 
 Playboy: Knife in the Water was an original, and unusual
 
@@ -5200,8 +5090,6 @@ At this point a child would probably say 'And is that the end?'
 because clearly some sort of pattern has been completed. Yet at no
 time have I thought about the content of the scene. I presume it's
 
-NARRATIVE SKILLS
-
 II3
 about sexual anxieties and fear of old age, or whatever. Had I 'known'
 this, then I wouldn't have constructed that particular story, but as
@@ -5271,7 +5159,6 @@ For example, should she ask me 'Is it about a horse?' I'll answer
 'Yes' since 'horse' ends in an 'E'.
 
 'Does the horse have a bad leg?'
-'No.'
 'Does it run away?'
 'Maybe .. .'
 She can now invent a story easily, but she doesn't feel obliged to be
@@ -5281,9 +5168,7 @@ as of course we all are in this culture whenever we do anything
 spontaneously. Her first question is:
 
 'Has the story got any people in it?'
-'No.'
 'Has it got animals in it?'
-'No.'
 'Has it got buildings in it?'
 'Yes.' (I'm having to drop my rule about consonants, or she'd get
 
@@ -5292,54 +5177,34 @@ too discouraged.)
 'Does the building have a. ything to do with the story?'
 'Maybe.'
 'Does it have aeroplanes in it?'
-'No.'
 'Fish?'
-'No.'
 'Insects?'
-'Yes.'
 'Do the insects playa large part in the story?'
 'Maybe.'
 'Do they live underground?'
-'No.'
 'Do they start out as harmless?'
-'No.'
 'Do the insects take over the world?'
-'Yes.'
 'Are they as big as elephants?'
 
-NARRATIVE SKILLS
-
-'No.'
 'Do they take any poison?'
 'No!'
 'Is it a gradual process, this taking over of the world?'
-'No.'
 'Were there many insects?'
-'No.'
 'Do the insects gain anything by destroying the world?'
-'Yes.'
 'Do they reign utterly alone?'
-'Yes.'
 'Do they destroy the world in a foul manner?'
-'No.'
 'Does the story begin with their existing?'
-'No.'
 'But there aren't any people in this bloody story. So it must start
 with the insects. Have the insects been reigning alone in the world for
 a long time?'
 
-'Yes.'
 'Do they live in the buildings that used to be the people's buildings?'
-'Yes.'
 'And then they suddenly decide to destroy the world?'
-'Yes.'
 'And they don't die. And when they eat everything in sight they
 
 become larger?'
 
-'Yes.'
 'And then they can't fit into the buildings again?'
-'Yes.'
 'And is that the end of the story?'
 'It is.'
 If she got more than two 'Nos' in a row I sometimes said 'Yes' to
@@ -5398,8 +5263,6 @@ from her door ...
 
 B: ... When she heard the piano the little old lady
 began shovelling at fantastic speed. When she
-
-NARRATIVE SKILLS
 
 reached the concert hall she cried, 'That pianist is
 my son!' Wolves appeared at all the windows, and
@@ -5505,8 +5368,6 @@ down with a blank mind and draw as quickly as possible. This re
 gresses your mind to about five years of age. Curiously, each hand
 seems to draw with the same level of skill.
 
-NARRATIVE SKILLS
-
 Lists
 If I tell a student, 'Say a word', he'll probably gawp.
 He wants a context in which his answer will be 'right'. He wants his
@@ -5601,8 +5462,6 @@ of this point is therefore another method for the letters that the time
 of whoever told the problem for an unexpected .. .' and so on. This is
 not the sort of thing spewed out by the unconscious.
 
-NARRATIVE SKILLS
-
 'Characters'
 One way to trigger off narrative material is to put the
 students in groups of three, and have them invent a name for a char
@@ -5613,7 +5472,6 @@ acter, and see if they can agree on what he's like. For example:
 'Yes. A barmaid.'
 'Er .. .'
 'Well, she has worked as a barmaid .. .'
-'Yes.'
 'Lives in a room with blue curtains.'
 'A stuffed toy dog on the dresser .. .'
 'Which she keeps her nightdress in.'
@@ -5636,7 +5494,6 @@ for most people; actually I suppose I should call it 'automatic reading'.
 Here's how I coaxed a poem from a volunteer at a public lecture.
 
 'Mime taking a book from a shelf,' I said.
-'Yes.'
 'What colour is it?'
 'Blue.'
 'Did you have to think up the colour or did you see it?'
@@ -5650,7 +5507,6 @@ Here's how I coaxed a poem from a volunteer at a public lecture.
 122 NARRATIVE SKILLS
 
 'In .. . '
-'Yes.'
 'The . . .'
 'Yes ... try to spell it.'
 'C ... country.'
@@ -5692,8 +5548,6 @@ pens if you go past the point where you feel impelled to stop. I've
 learned a lot about myself this way. Again there's a great gap between
 what I would choose to write, and what actually emerges. Here's a bit
 that sounds like a statement about the imagination.
-
-NARRATIVE SKILLS
 
 The great dragon dare not stir
 The trainer watches kindly but
@@ -5753,7 +5607,6 @@ say, 'Did you experience your body?' you'll probably answer, 'I wasn't
 in my body' or 'I was in the body I had in the story.'
 
 I begin by suggesting something like 'You're on a beach?'
-'Yes.'
 'Is it sandy or stony?'
 'Sandy.'
 'Did you think that up?'
@@ -5791,8 +5644,6 @@ students while they play the game. If they start to express great alarm,
 take them out, be calm, tell them to open their eyes, rock them if
 necessary. Two people can go on a journey together, each trying to
 
-NARRATIVE SKILLS
-
 have the same fantasy. The essential thing is not that the student
 should abreact, but that he should have the experience of imagining
 something 'effortlessly', and 'choicelessly'. He should understand
@@ -5807,15 +5658,10 @@ drama student.
 'What sort of stories do you like?'
 'Science fiction. Well ... Tolkien. Stories like The Hobbit.'
 'OK. Imagine a lake surrounded by mountains.'
-'Yes.'
 'You are swimming in the lake.'
-'Yes.'
 'Can you see any fish?'
-'Yes.'
 'Large ones?'
-'No.'
 'Shoals of little ones turning and darting?'
-'Yes.'
 'There is one particular fish. What do you do with it?'
 'I catch it.'
 'You swim back to the shore and three hooded figures are waiting
@@ -5847,19 +5693,15 @@ for you. What do you give them?'
 'Was it someone from the castle?'
 'Yes, he threw her out naked into the forest.'
 'Do you help her?'
-'Yes.'
 'Do you go up the path?'
 'I put my cloak round her and we set off to the castle.'
 'It gets dark?'
-'Yes.'
 'And you are going to sleep?'
 'We cover ourselves with leaves and we lie about eight feet apart.'
 'You're fast asleep when you wake up to feel her touching you.'
-'Yes.'
 'What's she after?'
 'The stick.'
 'Does she get it?'
-'Yes.'
 'She points it at you and what happens?'
 'It goes all grey and wintry.'
 'What do you see in the mist?'
@@ -5890,8 +5732,6 @@ a fly the size of an elephant?'
 I adapted this idea to use in 'interviews'. One actor plays a TV
 interviewer, and his partner becomes an 'expert' who has to convince
 us that he's an authority on his subject.
-
-NARRATIVE SKILLS
 
 The best way to think up the questions is to start a sentence
 without knowing how it's going to end. You say: 'Good evening ...
@@ -5994,8 +5834,6 @@ in?'
 'What does the fishmonger point at you?'
 'A pistol.'
 
-NARRATIVE SKILLS
-
 'What comes out?'
 'Vinegar.'
 Again everyone laughs and is very pleased. Answering such
@@ -6048,11 +5886,8 @@ little too fast for 'normal' thought.
 
 Some questioners start doing all the work. For example:
 'You're walking along a road.'
-'Yes.'
 'You meet a giant.'
-'Yes.'
 'You fall into a pool and are eaten by crocodiles.'
-'Yes.'
 'Er ... er .. .'
 This could be rephrased, and would then work.
 'You're walking along-what?'
@@ -6087,8 +5922,6 @@ could compose a story in this way:
 'There' ... 'was' ... 'a' ... 'man' ... 'who' ... 'loved' ...
 
 'making' ... 'people' ... 'happy'.
-
-NARRATIVE SKILLS
 
 One version of the game-which I still play occasionally-involved
 telling a story around a circle as quickly as possible. Sometimes we
@@ -6193,8 +6026,6 @@ references; (2) the letters are obscene and psychotic; (3) they are full
 
 of religious feeling; (4) finally, they express vulnerability and loneli
 ness.
-
-NARRATIVE SKILLS
 
 Improvisations go through similar stages if you don't censor them,
 and if you work with the same group day after day. Here is a sequence
@@ -6383,8 +6214,6 @@ courage them from putting in adjectives, or saying 'But'. It's normal
 for them to encounter something unpleasant, and to hold it off with
 adjectives by saying 'We ... met ... a ... big ... huge ... terrifying
 
-NARRATIVE SKILLS
-
 ... angry ... black ... monster ... but ... we ... escaped.' Once
 they've mastered the basic technique of the game (which is very easy)
 then I forbid them to escape from the monsters. 'Kill it or be killed,'
@@ -6474,8 +6303,6 @@ first climb it, and then they climb down, which isn't much of a story.
 A film of a mountain climb isn't necessarily anything more than a
 documentary. If we interrupt the routine of mountain-climbing by
 having them discover a crashed plane, or if we snow them up and
-
-NARRATIVE SKILLS
 
 have them start eating each other, or whatever, then we begin story
 telling. As a story progresses it begins to establish other routines and
@@ -6575,8 +6402,6 @@ what to say next. We don't play the game in order to get 'good stories',
 although 'good stories' may emerge; the important thing is to investi
 gate exactly why the playwright 'blocks'.
 
-NARRATIVE SKILLS
-
 A playwright who gets his two students to wash up soon stops and
 says 'I can't think of anything.' If I say 'Break the routine' he has one
 student break a plate on purpose. He now has a quarrel which he can
@@ -6662,8 +6487,6 @@ ibility themselves. By that time they have a more truthful concept of
 what they are.
 
 Masks andTrance
-
-I
 
 George Devine
 George Devine gave a Mask class to the Royal Court
@@ -6845,8 +6668,6 @@ exercises in front of the audience?' said Vakhtangov. 'You haven't even
 started to act as Masks! ... You must vie with one another in captivating the audience by every possible means-talk, act, dance, sing, do
 acrobatics, do anything. Understand?'
 
-MASKS AND TRANCE
-
 Things got worse until finally Vakhtangov left, the Masks contin
 uing without him. Suddenly two of them became genuine Masks in
 the characters of Tartaglia and Pantalone. Tartaglia was eating a cake,
@@ -6939,8 +6760,6 @@ diseases, they made women sterile. Some tribes were so scared of
 their power that they carved the eye-holes so that the wearers could
 see only the ground. Some Masks were led on chains to keep them
 
-MASKS AND TRANCE
-
 from attacking the onlookers. One African Mask had a staff, the touch
 of which was believed to cause leprosy. In some cultures dead people
 are reincarnated as Masks -the back of the skull is sliced off, a stick
@@ -7031,8 +6850,6 @@ myself disguised, but this was something else. I was imprisoned in
 the flesh of an utter stranger, an unsympathetic one with whom I felt
 no kinship. All traces of the John Griffin I had been were wiped from
 existence. I looked in the mirror and saw reflected nothing of the
-
-MASKS AND TRANCE
 
 white John Griffin's past. No, the reflections led back to Mrica, back
 to the shanty and the ghetto, back to the fruitless struggles against the
@@ -7132,8 +6949,6 @@ motionless in shop windows day after day and doing the evening
 
 show. How much then are we to trust what anyone tells us about their
 state of mind?
-
-MASKS AND TRANCE
 
 We don't think of ourselves as moving in and out of trance because
 we're trained not to. It's impossible to be 'in control' all the time, but
@@ -7316,8 +7131,6 @@ is the 'controlled trance', in which permission to remain 'entranced'
 is given by other people, either by an individual or a group. Such
 trances may be rare, or may pass unrecognised in this culture, but we
 
-MASKS AND TRANCE
-
 should consider them as a normal part of human behaviour. Re
 searchers who have studied possession cults report that it is the better
 adjusted citizens who are most likely to become possessed. Many
@@ -7414,8 +7227,6 @@ certain ways of behaving. Chaplin's Tramp has always existed. Harpo,
 and Stan Laurel, and Pappa Gueda, and Ranga the Witch, and the
 Braggard Soldier, are just there, wherever there is a human brain.
 
-MASKS AND TRANCE
-
 I consider the possessed trance as a particular form of the hypnotic
 trance. Some people have denied this, but all the phenomena typical
 of possession can be induced by hypnosis. It's true that clinical
@@ -7508,8 +7319,6 @@ I would say that she was now already in light trance. She was then
 caught up in the singing until she found herself 'standing bolt upright,
 singing or perhaps even screaming the song'. She felt 'winded' and
 took no part in the dancing.
-
-MASKS AND TRANCE
 
 She describes a strong feeling of being at one with the group: 'I
 have but to rise, to step forward, to become a part of this glorious
@@ -7692,8 +7501,6 @@ I don't bounce around and wave my arms like I would for a comedy
 class. I become stiller, 'serious' and more 'adult'. The change in me
 produces a change of feeling in the students which I exploit by
 
-MASKS AND TRANCE
-
 assuring them that the Masks are not dangerous, that whatever hap
 pens I can handle it, and that all that matters is that they must take off
 the Mask when I ask them to. The more I reassure them the more
@@ -7786,8 +7593,6 @@ The Masks begin to pant, and wheeze, and howl, which freaks out the
 people watching even more, and 'pumps the atmosphere up'. In
 voodoo cults the drums throb for hours to call the gods across the
 ocean from Mrica.
-
-MASKS AND TRANCE
 
 Once one person is possessed, others usually follow almcst im
 mediately. In a beginners' Mask class there is usually a 'dead' twenty
@@ -7884,8 +7689,6 @@ first time, the Mask will do the rest.' This stops the actor from trying
 to remember what the Mask did 'last time'.
 
 Soon there are a number of recognisable 'personalities' that I can
-
-MASKS AND TRANCE
 
 put together in scenes. I usually tell each Mask that it owns all the
 props, and that it's going to meet some nice people. At first Masks are
@@ -7985,8 +7788,6 @@ nitely (if happy).'
 This student was an experienced amateur actress, and had learned
 an untruthful but effective way of presenting herself, based on strong
 'demonstrations of feeling'. She was very 'armoured' against the
-
-MASKS AND TRANCE
 
 audience, but in Mask work she was 'released', and seemed wonder
 fully gifted. My suspicion is that her extreme exhaustion may have
@@ -8088,8 +7889,6 @@ function as entertainers. You put Masks together and enjoy the scenes
 that emerge. They have their own 'world', and it's fascinating to watch
 them exploring it.
 
-MASKS AND TRANCE
-
 In normal life the personality conceals or checks impulses. Mask
 characters work on the opposite principle: they are childlike, impuls
 ive, open; their machinations are completely transparent to the
@@ -8180,8 +7979,6 @@ there was a sticky mess on it.
 
 'The Waif has a strong rapport with me, so I play scenes with her.
 
-MASKS AND TRANCE
-
 I am sweeping when she enters the acting area. She asks what I am
 doing. I say "sweeping", and offer her the broom. She takes the broom
 and holds it as if it was a baby. She hugs it as if it were alive, and
@@ -8270,8 +8067,6 @@ necessary pinpricks can be made around the hole, but the constriction
 of vision helps the actor to feel 'different'.
 
 To work this Mask you face another Executioner, and hold a grim-
-
-MASKS AND TRANCE
 
 ace that shows both sets of teeth. You must never entirely lose this
 grimace. With it you can speak 'in character' -the voice has a threaten
@@ -8367,8 +8162,6 @@ ourselves as 'somewhere'.
 
 Meditation teachers in the East have asked their students to
 practise placing the mind in different parts of the body, or in the
-
-MASKS AND TRANCE
 
 Universe, as a means of inducing trance. The author of The Cloud of
 Unknowing writes 'Where do I want you to be? Nowhere ,'10 Michael
@@ -8467,8 +8260,6 @@ If the class act as animals, playing together or clawing
 at each other, or 'mating', very regressed states occur. Playing different
 animals develops movement and voice skills, but it may also unlock
 
-MASKS AND TRANCE
-
 lSI
 
 other personalities. I gradually turn the animals into 'people'. I got
@@ -8566,8 +8357,6 @@ the most terrible instrument in the universe. Dick Kajsl1Jr, who was
 playing Death, backed off. 'I can't kill him,' he said, very upset, as we
 all were. It took about an hour before we could try the scene again.
 
-MASKS AND TRANCE
-
 When I directed the second production of the play (at Aarhus)
 everything was fine until we added the Masks. Then the actors were
 appalled. It seemed impossible that they were to present this play
@@ -8652,8 +8441,6 @@ If one of the greatest half Masks of the cinema is Chaplin, then one
 of the greatest full Masks is Garbo. Critics raved about her face:
 ' ... Her face, early called the face of the century, had an extraordin
 ary plasticity, a mirrorlike quality; people could see in it their own
-
-MASKS AND TRANCE
 
 conflicts and desires.' (Norman Zierold, Garbo, W. H. Allen, London,
 1970.) People who worked with her noticed that her face didn't change.
@@ -8751,8 +8538,6 @@ George said that learning the full Mask was as difficult as learning
 to sing; that while a half Mask could spring into existence at the first
 moment, the full Mask required a long training. The posture had to
 be right, and the body had to be fully expressive.
-
-MASKS AND TRANCE
 
 I don't think George ever wrote about his Mask work, and I'm
 embarrassed to be explaining his ideas for him, but I have found an
@@ -8858,8 +8643,6 @@ Mask, very shaken, and George would say 'Ah! You felt something',
 with approval. Such Masks he referred to as 'inhabited' -possessed
 by the tragic spirit.
 
-MASKS AND TRANCE
-
 He set exercises involving more than one actor, but the technique
 was always the same. Here are five exercises that he gave out on
 duplicated sheets to a class at the Studio.
@@ -8954,8 +8737,6 @@ has its own built-in lighting. People gasp when they see them, and get
 frightened. Sometimes I've had to stop a class because we've all felt
 sick. This happens if you work for a long time, sayan hour, during
 which the tensions can become unbearable.
-
-MASKS AND TRANCE
 
 The students wearing the Masks feel completely safe, since they are
 light, and don't even make the face feel confined. The gasps from the
@@ -9152,8 +8933,6 @@ mouthfuls of skin the Cannibal had taken from the arms of the on
 lookers, and he took emetics until he had voided them. He often did
 not swallow them at alL' (Patterns of Culture, Mentor 1946.)
 
-MASKS AND TRANCE
-
 Obviously this wasn't something the actor went into casually, but
 the cannibalism was planned. It's alarming to hear of people going
 berserk and biting chunks out of people, but such behaviour had
@@ -9246,8 +9025,6 @@ actors then operate their own controls.
 
 As for the fear of madness, I would answer that the ability to
 
-MASKS AND TRANCE
-
 become possessed is a sign of correct social adjustment, and that
 really disturbed people censor themselves out. Either they can't do it,
 or they're too afraid to even try. People who feel themselves at risk
@@ -9339,8 +9116,6 @@ animal with her eyes shut, and to let her hands just move 'by them
 selves'. Suddenly she hallucinated a real animal! It's more difficult to
 handle this sort of situation. I told her that it did sometimes happen to
 people, and that it meant she had become very absorbed. At least in
-
-MASKS AND TRANCE
 
 Mask work you can pass the responsibility over to the Mask. The
 problem is not that one's students really do go crazy, but that they
@@ -9552,8 +9327,6 @@ of the population can enter trance, one wonders if he has really tried all
 the methods.
 6. In clinical hypnosis a reluctance to perform has been observed, but
 
-MASKS AND TRANCE
-
 this is surely hecause there's no pay-off. The hypnotist isn't suggesting
 dramatic scenes to play, and there's no audience to reward them. Hilgard
 writes:
@@ -9666,8 +9439,6 @@ laxes. His body, which is made more expressive by the very immobility of
 the mask, will be brought to action by the strength of inner feeling.
 
 'Once the actor has acquired the elementary technique that is de-
-
-MASKS AND TRANCE
 
 manded by wearing a mask, he will begin to realise that masks dislike
 agitation, that they can only be animated by controlled, strong, and

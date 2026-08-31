@@ -234,8 +234,6 @@ Xl
 
 xu
 
-SENSEMAKING IN ORGANIZATIONS
-
 from the book are still fresh arethesensemaking perspective in operation. The
 sensemaking perspective is a frame of mind about frames of mind that is best
 treated as a set of heuristics rather than as an algorithm. That is why I have
@@ -289,8 +287,6 @@ Caffey, a pediatric radiologist, in an article based on six cases where parents
 gave 'histories" that were silent about how the injuries, seen in X-ray photographs, had occurred. Some cases in the article were reported 8 years after they
 had first been observed. The author speculated that the accidents may have
 been due to parents not fully appreciating the seriousness of the injuries or
-
-SENSEMAKING IN ORGANIZATIONS
 
 "intentional ill treatment." The article was published in a radiology journal
 rather than a pediatric journal, and nothing more happened until the mid-
@@ -377,12 +373,6 @@ become stronger.
 
 Organizations also have their own languages and symbols thathave important effects on sensemaking. The relevance of that to the BCS example is the
 
-I
-
-I
-
-SENSEMAKING IN ORGANIZATIONS
-
 striking difference between the phrase "intentional ill treatment" and the
 phrase "battered child." The latter phrase evokes a graphic picture of parents
 beating and killing their children. That image can mobilize outrage and action.
@@ -420,8 +410,6 @@ that maybe discrepant from predictions. Discrepant events, or surprises, trigger
 a need for explanation, or post-diction, and, correspondingly, for a process
 through which interpretations of discrepancies are developed. Interpretation,
 
-The Nature of Sensemaking
-
 or meaning, is attributed to surprises. . . . It is crucial to note that meaning is
 assigned to surprise as an output of the sense-making process, rather than
 arising concurrently with the perception or detection of differences" (Louis,
@@ -457,8 +445,6 @@ and different information about the ambiguous issue. (p. 20)
 Some investigators (e.g., Gioia & Chittipeddi, 1991, p.aa$ view sensemaking as a more private, more singular activity. Ring and Rands ( 1989), for example,
 define sensemaking as "a process in which individuals develop cognitive maPs
 of their environment' (p. 342). Having made sensemaking an individual
-
-SENSEMAKING IN ORGANIZATIONS
 
 activity, they use the term understandingto refer to mutual activity' a distinction that is clearly easier to ProPose than to implement:
 
@@ -538,8 +524,6 @@ choice situations, as well as the events themselves, reflects an interpretation
 of events by organizational actors and observers. Those interpretations are
 generated within the organization in the face of considerable perceptual
 ambiguity. (p. 19)
-
-SENSEMAKING IN ORGANIZATIONS
 
 It is the very pervasiveness of this ambiguity and of the strong discomfort
 people feel when they face it that leads March (1984, p. lE) to argue that
@@ -629,8 +613,6 @@ leadership, the crux of which is the idea that a leader is
 
 IO
 
-SENSEMAKING IN ORGANIZATIONS
-
 *mind" the
 one who alters or guides the manner in which his followers
 world by giving it a compelling "face." A leader at work is one who gives
@@ -676,8 +658,6 @@ did they decide what they did that made their decisions correct ones. When
 the outcome was in hand theywent back to find the "why," the things that
 led up to the outcome. . . . If the above description is accurate, decision
 
-The Nature of Sensemaking
-
 making in daily life would thereby have, as a critical feature, the decision
 maker's task of justtfying a course of action.. . . [Decision making in daily
 life] may be much more preoccupied with the problem of assigning outcomes their legitimate history than with questions of deciding before the
@@ -714,8 +694,6 @@ rationality and rationalization (Staw, 1980), escalation (Staw, 1981), attributi
 1983), and motivation (Staw,l977).What is shared by these diverse ideas is a
 common set of emphases that can be traced back to dissonance theory. These
 include the following:
-
-SENSEMAKING IN ORGANIZATIONS
 
 Sensemaking by justification, an idea that reflects an earlier emphasis on dissonance reduction by increasing the number of cognitive elements that are consistent with the decision;
 Choice as the event that focuses sensemaking and justification, an idea that
@@ -760,8 +738,6 @@ with scientific thinking. Sensemaking, because it was influenced by dissonance t
 as antecedents of change, rather than the current, more austere focus in cognitive
 studies on cool formation processing (Markus &Zaionc,l985' p.207).
 
-The Nature of Sensemaking
-
 What makes current thinking about sensemaking robust is that both ethnomethodol ogy (Czarniawska-|oerges, 1992, chap. 5 ; Gephart, I 993 ) and dissonance theory (Chatman, Bell, & Staw, 1985; Weick, 1993a) still inform some
 of the core ideas. Furthermore, both perspectives share common ideas. The
 emphasis in ethnomethodology on accounting for what one does in the
@@ -800,8 +776,6 @@ process is different. The act of interpreting implies that something is there, a
 iext in the world, waiting to be discovered or approximated (see Daft & Weick,
 1984). Sensemaking, however, is less about discovery than it is about invention.
 
-SENSEMAKING IN ORGANIZATIONS
-
 To engage in sensem"king is to construct, filter, frame, create facticity (Turner,
 L987),and render the subjective into something more tangible.
 
@@ -839,8 +813,6 @@ things for granted? And if the answer is no, if it has become impossible to
 continue with automatic information processing, then the question becomes,
 why is this so? And, what next? Several questions arise and have to be dealt
 with before interpretation even comes into play. The way these earlier ques-
-
-The Nature of Sensemaking
 
 tions of sensemaking are resolved determines which interpretations are possible and plausible.
 
@@ -916,8 +888,6 @@ These seven characteristics are described and then (p.76 in Chapter 3) applied
 to an important study of organizational sensemaking (Porac et al. 1989). These
 seven were chosen to organize the discussion because they are mentioned
 often in the literature on sensemaking; they have practical implications (e.g.,
-
-SENSEMAKING IN ORGANIZATIONS
 
 when identities are destabilized during downsizing' sensemakittg Processes
 are threatened and these threats can enlarge); each is a self-contained set of
@@ -997,8 +967,6 @@ While I am writing, I'm far away;
 and when I come back,I've gone.
 I would like to know if others
 go through the same things that I do,
-
-SENSEMAKING IN ORGANIZATIONS
 
 have as many selves as I have,
 and see themselves similarlY;
@@ -1084,8 +1052,6 @@ As we see our face, figure, and dress in the fiooking] glass, and are interested
 in them because they are ours, and pleased or otherwise with them according
 as they do or do not answer to what we should like them to be; so in
 
-SENSEMAKING IN ORGANIZATIONS
-
 imagination we Perceive in another's mind some thought of our aPPearmanners, aims, deeds, character, friendS, and so on' and are variously
 
 "n..,
@@ -1123,8 +1089,6 @@ own enacted "self" is not realized, however, sensemaking Proc€sses recur and
 a reenactment and representment of self follows. . . . [O]rganizational participants come to appreciate the nature and purpose of a transaction with others
 Lyreshaping or clarifringthe identityof theirown organization. Byprojecting
 
-Seven Properties of Sensemaking
-
 itself onto its environment, an organization develops a self-referential
 appreciation of its own identity, which in turn permits the organization to
 act in relation to its environment. (Ring &Van de Ven, 1989, p. 180)
@@ -1161,8 +1125,6 @@ suggests that self, rather than the environment, may be the text in need of
 interpretation. How can I know who I am until I see what they do? Something
 like that is implied in sensemaking grounded in identity. I make sense of
 whatever happens around me by asking, what implications do these events
-
-SENSEMAKING IN ORGANIZATIONS
 
 have for who I will be? What the situation will have meant to me is dictated
 by the identity I adopt in dealing with it. And that choice, in turn, is affected
@@ -1242,8 +1204,6 @@ in the past. (p. 51)
 
 Given this concept of experiencing and orperiences, several things are worth
 noting. First, the creation of meaning is an attentional process, but it is attention
-
-SENSEMAKING IN ORGANIZATIONS
 
 to that which has already occurred. Second, because the attention is directed
 baclarard from a specific point in time (a specific here and now),whatever is
@@ -1328,8 +1288,6 @@ problems, as a setting where people need more information. That is not what
 people need when they are overwhelmed by equivocality. Instead, they need
 values, priorities, and clarity about preferences to help them be clear about
 
-SENSEMAKING IN ORGANIZATIONS
-
 which projects matter. Clarity on values clarifies what is important in elapsed
 experience, which finally gives some sense of what that elapsed experience
 means.
@@ -1413,8 +1371,6 @@ Finally, Staw (1975) provides an esPeciallyclean example of how retrospect
 operates. He randomly assigned 60 students to 20 grouPs of 3 people each
 and had them study the 1969 annual rePort of a medium-sized electronics
 
-SENSEMAKING IN ORGANIZATIONS
-
 comPany to estimate its sales and earnings per share for 1970. Groups were
 given 30 minutes to complete this financial puzzle task After each group
 presented its results, it was randomly classified as either a high-performance
@@ -1492,8 +1448,6 @@ in front of passive people. Instead, the "they''is people who are more active.
 All too often people in organizations forget this. They fall victim to this
 blindspot because of an innocent sounding phrase, "the environment." The
 word fhe suggests something that is singular and fixed; the word environment
-
-SENSEMAKING IN ORGANIZAT10NS
 
 suggests that this singular, fixed something is set apart from the individual.
 Both implications are nonsense.
@@ -1666,8 +1620,6 @@ seams worth punctuating (Starbuck & Milliken,
 1988, p. 50). Czarniawska-|oerges (1992\ puts the point this way: "A stone
 exists independently of our cognition; but we enact it by a cognitivebtacketing,
 
-SENSEMAKING IN ORGANIZATIONS
-
 by concentrating our attention on it. Thus 'called to life,'or to attention, the
 stone must be socially constructed with the help of the concept of stone, its
 properties, and uses. We can base a physical action that might annihilate the
@@ -1751,8 +1703,6 @@ starts, is grounded, and rests, or we cannot escape some sort of darkness, chaos
 and confusion. Either there is an absolute ground or foundation or everything
 falls apart" (Varela et al., 1991, p. 1a0).
 
-SENSEMAKING IN ORGANIZATIONS
-
 There are alternatives to nihilism. One solution lies in accepting that
 "groundlessness is the very condition for the richly textured and interdependent world of human experience. . . . [The world is not fixed and pregiven but]
 continually shaped by the types of actions in which we engage" (Varela et al.,
@@ -1785,8 +1735,6 @@ discussing sensemaking, it is easy to forget that
 functioning . . . [are] essential aspects of one another' (Resnick, Levine, &
 Teasley, 1991, p. 3). Many scholars of organizations are mindful of the intertwining of the cognitive and the social as in this informative definition proposed
 by Walsh and Ungson (1991): An organization is "a network of intersubjectively shared meanings that are sustained through the development and use
-
-Seven Properties of Sensemaking
 
 of a common language and everydaysocial interaction" (p.60).This definition
 is social several times over in its references to *network,"
@@ -1828,8 +1776,6 @@ sensernaking and understanding processes: What is the relationship between
 one-way and two-way communication processes and sensem"kiog and understanding? Clearly, sensemaking can involve one-way communication links. A
 person tells me something, and it aids in the developmentof mycognitive map
 
-SENSEMAKING IN ORGANIZATIONS
-
 of some phenomenon. I need not respond, but if I do, is the response associated with processes of sensemaking, understanding, or both?" (p. 36a).
 
 This forced separation of individual and social contributions to sensemaking leads them to focus most of their attention on a face-to-face interaction
@@ -1867,8 +1813,6 @@ if they are seen as attempts to keep socially conditioned activity in the foregr
 For example, socialization is often the setting in which sensemaking is explored, as we saw in work of Louis (1980). More recent discussions (Lave &
 Wenger, 199 I ) of socialization as a process resembling an apprenticeship retain
 
-Seven Properties of Sensemaking
-
 this focus on a social setting. In general, socialization studies represent a
 variant of Schutz's ( l96a) analysis of the stranger, which suggests that newcomers need to learn both how to interpret and how to express themselves in
 the natives' vernacular.
@@ -1905,8 +1849,6 @@ Although it is important to conceptualize sensemaking as a social activity'
 it is also important to maintain a differentiated view of the forms social
 influence may take. This sounds obvious, but it is striking how often people
 discuss "shared meaning" or "social construction," as if that exhausts what
-
-SENSEMAKING IN ORGANIZAT10NS
 
 there is to say about social sensemaking. However, sensemaking is also social
 when people coordinate their actions on grounds other than shared meanings
@@ -1996,8 +1938,6 @@ disentangle by making, then revising, provisional assumptions."
 
 Winograd and Flores (1986) make a similar point in their gloss of Heidegger's idea that people find themselves thrown into ongoing situations and have
 
-SENSEMAKING IN ORGANIZATIONS
-
 to make do if they want to make sense of what is happening. They describe
 situations of thrownness in terms of six different properties:
 
@@ -2047,8 +1987,6 @@ choice dr solution stream, students of sensemaking may be forgiven if they
 assume fluidity even in those specifications. The same portion of a flow might
 be labeled either a problem or a solution to justify some perceived choice, as
 
-Seven Properties of Sensemaking
-
 Starbuck ( 1983) has argued. Eccles and Nohria (1992) describe the context of
 managing as the ongoing flow of actions and words in an organization, which
 is often punctuated by events such as a product launch, an off-site strategyplanning exercise, or a budget meeting. These events are important for several
@@ -2087,8 +2025,6 @@ signal suggests that one's well-being may be at stake.
 An important property of arousal is that it develops slowly. Arousal occurs
 roughly 2to 3 seconds after an interruption has occurred, and this delay gives
 time for an appropriate action to occur. Thus the autonomic system is a back-up
-
-SENSEMAKING IN ORGANIZATIONS
 
 system that is activated if direct action fails. Once heightened arousal is
 perceived, it is appraised, and people try to construct some link benreen the
@@ -2169,8 +2105,6 @@ The implications of these propositions about positive emotions for the
 development of relationships is sobering. As the other person in the relationship becomes more predictable, and as a partner et(pects that person's help,
 there should be fewer occasions for positive emotion to occur.
 
-SENSEMAKING IN ORGANIZATIONS
-
 As a relationship develops, it is also often the case that plans come more
 and more to include the partner. If this happens, it means that the partner can
 always interrupt the completion of plans and cause negative emotions, but
@@ -2211,8 +2145,6 @@ it. The longer they search, the higher the arousal, and the stronger the emotion
 If the interruption slows the accomplishment of an organized sequence, people
 are likely to experience anger. If the interruption has accelerated accomplishment, then they are likely to experience pleasure. If people find that the
 
-Seven Properties of Sensemaking
-
 interruption can be circumvented, they experience relief. If they find that the
 interruption has thwarted a higher level plan, then the anger is likely to turn
 into rage, and if they find that the interruption has thwarted a minor behavioral sequence, then they are likely to feel irritated.
@@ -2248,8 +2180,6 @@ suggests that if hewere offered apiece of cloth he mightrefuse to buyit, saying,
 "It looks as if it will fade." If that judgment were made because the person
 knew that the color of the cloth was secured by a dye that was chemically
 unstable, and that this meant the color would fade, then the notion of the dye,
-
-SENSEMAKING IN ORGANIZATIONS
 
 which is just one of many parts of the cloth, is the extracted cue from which
 the character of the cloth itself is constructed.
@@ -2293,8 +2223,6 @@ the expression of an intention is, as a process of temporal unfolding, a
 passage from an indeterminate to a more well-articulated state of affairs.
 (Shotter, 1983, p.29)
 
-Seven Properties of Sensemaking
-
 A seed is a form-producing process that captures much of the vagueness
 and indeterminary of sensemaking. The actions of a seed resemble those of
 the documentary method (Garfinkel ,1967 ,P.78;Weick, I993a,pp- 26-29). A
@@ -2330,8 +2258,6 @@ been discussed by Starbuck and Milliken, who distinguish noticing from
 sensemaking. To them, noticing refers to the activities of filtering, classifying,
 and comparing, whereas sensemaking refers more to interpretation and the
 activity of determining what the noticed cues mean.
-
-SENSEMAKING IN ORGANIZAT10NS
 
 As they put it, "sensemaking focuses on subtleties and interdependencies,
 whereas noticing pict<s up major events and gross trends' Noticing determines
@@ -2372,8 +2298,6 @@ Indexicality refers to the contextual nature of objects and events. That is to
 say, without a supplied context, objects and events have equivocal or
 multiple meanings. The indexical property of talk is the fact that people
 
-Seven Properties of Sensemaking
-
 routinely do not state the intended meaning of the expressions they use.
 The expressions are vague and equivocal, lending themselves to several
 meanings. The sense or meaning of these expressions cannot be decided
@@ -2413,8 +2337,6 @@ But regardless of the cues that become salient as a consequence of context,
 and regardless of the way those extracted cues are embellished, the point to
 be retained is that faith in these cues and their sustained use as a reference
 point are important for sensemaking. The importance lies in the fact that these
-
-SENSEMAKING IN ORGANIZATIONS
 
 cues tie elements together cognitively. These presumed ties are then given
 more substance when people act as if theyare real (Weick, 1983, pp.228-23D\.
@@ -2457,8 +2379,6 @@ This incident raises the intriguing possibility that when you are lost, any
 old map will do. For example, extended to the issue of strategy, maybe when
 you are confused, any old strategic plan will do. Strategic plans are a lot like
 
-Seven Properties of Sensemaking
-
 maps. They animate and orient people. Once people begin to act (enactment),
 theygenerate tangible outcomes (cues) in some context (social), and this helps
 them discover (retrospect) what is occurring (ongoing), what needs to be
@@ -2498,8 +2418,6 @@ invokes a realist ontology, as in the suggestion that something is out there to
 be registered and sensed accurately, and an idealist ontology, as in the suggestion that something out there needs to be agreed on and constructed plausibly.
 The sensible need not be sensable, and therein lies the trouble.
 
-SENSEMAKING IN ORGANIZATIONS
-
 A reasonable position to start from in studies of sensemaking is to argue
 that accuracy is nice, but not necessary. Isenberg's ( 1986) studies of managerial thinking show the importance of plausible reasoning, which he describes
 this way:
@@ -2532,8 +2450,6 @@ team in noticing munificence. Aside from this intriguing pazzle, Sutcliffe
 Misperceptions may be beneficial if they enable managers to overcome
 inertial tendencies and propel them to pursue goals that might look unattainable in environments assessed in utter objectivity. Because environments aren't seen accurately, managers may undertake potentially difficult
 courses of action with the enthusiasm, effort, and self-confidence necessary
-
-Seven Properties of Sensemaking
 
 to bring about success. Having an accurate environmental map maybe less
 important than having some map that brings order to the world and
@@ -2572,8 +2488,6 @@ past, that has been edited in hindsight.
 Most organizational action is time sensitive, which means that in a speed/
 accuracy trade-off (Fiske, 1992), managers favor speed. Thus a third reason
 why accuracy is secondary is that speed often reduces the necessity for accuracy in the sense that quick responses shape events before they have become
-
-SENSEMAKING IN ORGANIZATIONS
 
 crystallized into a single meaning. A fast response can be an influential response
 that enacts an environment. Aside from this, we might expect that speed rather
@@ -2618,8 +2532,6 @@ is not the sole concern in sensemaking. The criterion of accuracy makes more
 sense when investigators study object perception rather than interpersonal
 perception. The hallmark of object perception is the assumption of stimulus
 
-Seven Properties of Sensemaking
-
 constancy: "the notion that the targets of perceptual activity possess identities
 that are immutable and constant" (Swann, 1984, p. a60). Investigators and
 practitioners alike would die for pockets of stimulus constancy in the flow of
@@ -2659,8 +2571,6 @@ what rejected. (Hall, cited in Sills & Merton, 1991, p. 84)
 
 Enactment in the pursuit of projects provides the frame within which cues
 are extracted and interpreted. This same frame circumscribes the area within
-
-SENSEMAKING IN ORGANIZAT10NS
 
 which accuracy matters. And the action repertoire that lies behind the framing
 itself implies what can and cannot be known. Again, people see and find
@@ -2743,8 +2653,6 @@ how and what I think.
 
 something.
 
-SENSEMAKING IN ORGANIZATIONS
-
 4.
 
 5。
@@ -2788,8 +2696,6 @@ this question never gets raised anynrherebutatworkAnd it gets raised frequently.
 It ercmplifies how much of organizational life is fair game for continual negotiation, controlled information processing, and mindful attention and how
 much needs to be reaccomplished and how pervasive is the need for accounting, justification, and rationalizing. The only thing people do not do is take
 things for granted, which is what they spend most of their time doing everywhere else.
-
-SENSEMAKING IN ORGANIZATIONS
 
 Czarniawska-|oerges (1992) also argues that sensemaking in organizational
 life is distinctive because "the job itself is taken much more for granted than
@@ -2866,8 +2772,6 @@ for Organizational Sensemaking
 l. James, 1890/1950 (Selectivity is an essential characteristic of consciousness and
 the criterion used for selection is relevance of stimuli to ongoing goals. Ideas
 and meanings are considered valid ["truth happens to an idea"] when consequences of holding them are desirable or useful or good).
-
-SENSEMAKING IN ORGANIZATIONS
 
 2. Thomas and Thomas, 1928 (The maxim "If men define situations as real they
 arerealin their consequences" (p.572) alerts researchers that subjective bases
@@ -2986,8 +2890,6 @@ emerge from organizing).
 34. Louis, 1980 (Newcomers cope with the change, contrast, and surprise of their
 entry experience by seeking situation-specific interpretation schemes and cultural assumptions to aid sensemaking).
 
-SENSEMAKING IN ORGANIZATIONS
-
 35。
 
 36。
@@ -3094,8 +2996,6 @@ the sensem"king paradigm. Nevertheless, there are ways to talk about organizatio
 of both the organization and the environments it confronts. For example, consider Scott's (1987) superb analysis of organizations. He defines the concept
 of organization three ways. First, there is the organization as rational system
 
-SENSEMAKING IN ORGANIZATIONS
-
 such as is found in the work of weber (1947) and Simon (19s7) and defined
 by Scott as 'collectivities oriented to the pursuit of relatively specific goals and
 exhibiting relativelyhighly formalized socid structures" (p.22).Second, there
@@ -3177,8 +3077,6 @@ modify earlier understanditgr. Interactions that attempt to manage uncertainty
 are a mixture of the intersubjective and the generic subjective, which is
 something of a hallmark of organizational sensemaking in general. What
 
-SENSEMAKING IN ORGANIZATIONS
-
 varies during times of convergence and stability and times of divergence and
 turbulence (Tushman, Newman, & Romanelli, 1986) is the relative emphasis
 on generic subjectivity and scripts that ratify and intersubjectivity and scripts
@@ -3256,8 +3154,6 @@ generic subjectivity becomes sealed off from any chance for reframing, learning,
 A second description of organizationthat accommodates sensemaking and
 coordination places more emphasis on routines and generic subjectivity
 than did Smircich and Stubbart. Frances Westley (1990) focuses on what
-
-SENSEMAKING IN ORGANIZAT10NS
 
 PreciPitates out and is retained from intersubjectivity when she notes that
 "organizations do not exist and cannot be imbued with action potential all
@@ -3339,8 +3235,6 @@ These six attributes of organizing are far from exhaustive. More will be
 added as the argument develops. Nevertheless, these six are an important start
 because they introduce a way of thinking about organization that does some-
 
-SENSEMAKING IN ORGANIZATIONS
-
 thing more than simply dismiss it as a mere typified "image of reality" that
 means different things to different people (Burrell & Morgan,lg7g, p.273).
 Burrell and Morgan are right when they insist that assumptions about sensemaking must be carried to their structural limits to see if participants and
@@ -3416,8 +3310,6 @@ conveniently edits out the complex, flawed causal chains by which outcomes
 were actually produced. Furthermore, the outcomes themselves can only be
 known after the fact, which necessarily restricts these people to a backward
 glance.
-
-SENSEMAKING IN ORGANIZATIONS
 
 There is a distinct flavor of retrospective sensemaking in Porac et al.'s ( 1989)
 discussion of the "focus strategy" of these manufacturers, namely, "to sell
@@ -3588,8 +3480,6 @@ A case can be made that a cognitive oligopoly forms in the interest of
 plausibility rather than accuracy. The quest is for a stable set of transactions
 that make sense. Stabitity is achieved by marking out competitive boundaries,
 
-SENSEMAKING IN ORGANIZAT10NS
-
 consisting of a limited number of "similar" firms, which serve as the frame
 inside of which interactions now make sense. The transactions within the
 frame make sense because firms converge on a set of enacted and octracted cues
@@ -3643,8 +3533,6 @@ and contradictory hunches. The amazing thing is that A does not simply
 shrug off B's explanations as unnecessarily complicated or even absurd, but
 is impressed by their sophisticated "brilliance." . . . [T]he more complicated B's "delusions," the more likely they are to convince A. (Watzlawick,
 L976,p.49)
-
-SENSEMAKING IN ORGANIZATIONS
 
 If the experiment is resumed at this point, "B shows hardly any improvement,
 but comparatively speaking, seems to be doing better because A, who now shares
@@ -3728,8 +3616,6 @@ Occasions for sensemaking are themselves constructed, after which they
 become a platform for further construction. There were hints of this earlier
 in tohn Caffey's puzzlement over the discrepancybetween X-rays that revealed
 
-SENSEMAKING IN ORGANIZATIONS
-
 injuries to children and parental accounts that failed to mention them. Caffey
 was not sure whether to construct this as something to Pursue, or to let it pass.
 The same uncertainty occurs when people notice salient, novel, unusual, and
@@ -3803,8 +3689,6 @@ should any situation be seen, the more solutions that should be identified, and
 the more likely it should be that someone knows a great deal about what is
 happening.
 
-SENSEMAKING IN ORGANIZATIONS
-
 The final characteristic discussed by Huber and Daft ( 1987), turbulence, is
 defined as a combination of instability (frequencyof change) and randomness
 (frequency and direction of change). Turbulence has received attention recently
@@ -3875,8 +3759,6 @@ Smith cites Ashby's law of requisite variety (e.g., Conant & Ashby,1970) as an
 important guideline if problem-solving processes are to manage these variations. The importance of process variety to manage input variety has already
 featured in our discussion of enactment and processes that resemble a contour
 gauge (see p. 34). It takes a complex sensing system to register a complex
-
-SENSEMAKING IN ORGANIZATIONS
 
 object, although if enactments create simpler objects, then simpler sensing
 systems may suffice. In later discussions, I will argue that the richness of one's
@@ -3950,8 +3832,6 @@ they are ignorant of any interpretations.
 
 We look first at ambiguity and the shock of confusion. Ambiguity refers to
 an ongoing stream that supports several different interpretations at the same
-
-SENSEMAKING IN ORGANIZATIONS
 
 time. Here are three representative definitions that capture the nature of
 ambiguity.
@@ -4098,8 +3978,6 @@ the decision arena.
 
 SOURCE:McCaskey(l9Ez). TluF.ncuiveClullenge:Managingclungeandambiguity.RePnntedwithpermiseion'
 
-SENSEMAKING IN ORGANIZATIONS
-
 Here are two examples of ambiguity, one involving gasoline drums and the
 other involving jurors. Both show how the combination of a lack of clarity
 and multiple interpretations produce a shock that engages sensemaking.
@@ -4177,8 +4055,6 @@ them (response uncertainty). Different capabilities are required to detect and
 cope with each of these three (Milliken, 1990). To remind observers that they
 need to specify the locus of uncertainty, Milliken defines it as "an individual's
 perceived inability to predict something accurately'' (p. 136). That "something" may lie outside the organization, as was the case with Sutcliffe's (1994)
-
-SENSEMAKING IN ORGANIZATIONS
 
 accuracy study, or inside as one tries to become clearer either about potential
 threats that could become opportunities or about the extent to which one can
@@ -4307,7 +4183,7 @@ S,"Will l get itF")
 
 willl buy a`lemonマ ")
 
-(" Even ifl win the bid,
+(" Even iflwin the bid,
 
 5。 Group pr
 
@@ -4461,8 +4337,6 @@ uses up attention, reduces the cues that can be used in sensemaking, focuses
 attention on the interruption, and has the potential to escalate cognitive inefficiency. Loss of cues makes sensemaking harder, which raises arousal even
 higher, which leads to even more cue loss and even less sensemaking. The loss
 of cues for sensemaking in response to increased arousal has been well
-
-SENSEMAKING IN ORGANIZATIONS
 
 documented, often under the generalization that an increase in the level of
 arousal leads people to narrow and focus their attention on those aspects of
@@ -4705,8 +4579,6 @@ concept of the language used to interpret it. Observational language imposes dis
 to define concrete, individual events in that world. Such events may be
 simple, solid objects like snowballs or complex, nontactile eventslike behavior
 
-SENSEMAKING IN ORGANIZATIONS
-
 sequences. Whether simple or complex, phenomenal events possess two
 properties whose significance for scientific inquiry cannot be overstated:
 They are unique and transitory. (p. 23)
@@ -4747,8 +4619,6 @@ wars that forced changes in meaning:
 Words had to change their ordinary meaning and to take that which was
 now given them. Reckless audacity came to be considered the courage of a
 
-The Substance of Sensemaking
-
 loyal ally; prudent hesitation, specious cowardice; moderation was held to
 be a cloak for unmanliness; ability to see all sides of a question inaptness to
 act on any. Frantic violence became the attribute of manliness; cautious
@@ -4788,8 +4658,6 @@ identify, and label occurrences in their lives and world @.a5Q.Westley ( 1990)
 describes a person who is excluded from the inner circle and its strategies, yet
 is given a 2-inch stack of documents to understand. Her problem is that
 
-SENSEMAKING IN ORGANIZATIONS
-
 exclusion has left her with no frame. She is "searching for strategic generalities
 and the total picture so that she can make sense of the specific particular
 decisions that are passed along to her' (Westley, 1990, p.3a3\.
@@ -4827,8 +4695,6 @@ that have left their records in the delicate nervous structures of recall. Relat
 are simply patterns of resemblance, potential shorelines waiting to give
 definition to the land of sensation and the sea of emotion. (pp. 3l-21)
 
-The Substance of Sensemaking
-
 A related description of meaning can be found in Crovitz's (1970) discussion of the relational algorithm. Upton's analysis suggests why discussions of
 content are not common in analyses of sensemaking. Sense and meaning
 require three things: two elements and a relation. What those elements are
@@ -4861,8 +4727,6 @@ defined as a "shared, relatively coherently interrelated set of emotionally
 charged beliefs, values, and norms that bind some people together and help
 them to make sense of their worlds' (p. 33). Thus ideologies combine beliefs
 about cause-effect relations, preferences for certain outcomes, and expectations of appropriate behaviors. Typically, these sources "serve to make social
-
-SENSEMAKING IN ORGANIZATIONS
 
 situations comprehensible and meaningful. People naturally tend to simplifr
 what they perceive; ideologies act to structure that simplification" (Trice &
@@ -4899,8 +4763,6 @@ as Dutton's (1988) important work on agenda setting (see also Rogers &
 Dearing, 1988) addresses how people select from the vast pool of ideological
 substance that smaller portion that matters. Researchers need to be especially
 
-The Substance of Sensemaking
-
 mindful that they not simply assume that people internalize and adopt whatever is handed to them, an assumption that tends to be invoked more often,
 the higher the level of analysis. Institutional theorists sometimes assume that
 ideologies ("institutional systems") are more singular, homogeneous, and compelling, for larger sets of people, than close inquiry shows to be the case (see
@@ -4933,8 +4795,6 @@ and definitions that are taken as given. Third-order controls are called "premis
 diagnose situations and make decisions. Premise controls were the "professional blind spots" that masked the battered child syndrome before it became
 
 tt4
-
-SENSEMAKING IN ORGANIZATIONS
 
 a national scandal. Theyare the deep assumptions that are the foundations of
 culture in Schein's ( 1985) conceptualization.
@@ -4973,8 +4833,6 @@ uncertain factual premises:
 
 It is a purely factual question whether a particular infantry attackwill take
 its objective or fail. It is, nevertheless, a question involving judgment, since
-
-The Substance of Sensemaking
 
 the success or failure will depend on the disposition of the enemy, the
 accrlracy and strength of artillery support, the topography, the morale of
@@ -5017,8 +4875,6 @@ And these controls are more likely to operate when work is nonroutine
 
 ll6
 
-SENSEMAKING IN ORGANIZATIONS
-
 And because work near the top of an organizational hierarchy is more nonroutine than at lower levels, "premise controls are also most important near
 the top of organizations" (P. 130).
 
@@ -5059,8 +4915,6 @@ and create greater demands for sensemaking because of the way work at the
 bottom is controlled. Controlled work creates nonroutine spin-offs higher up
 that require interpretation and judgment. These spin-offs are susceptible to
 
-The Substance of Sensemaking
-
 premise and ideological control. At some location in the organization, ideological content will affect nonroutine decision making. The question of which
 issues are nonroutine and come under the control of ideological content, and
 where in the hierarchy these ideological premises are imposed on the nonroutine, are researchable issues affected by organizational design. We reach
@@ -5100,8 +4954,6 @@ in the work of people like Staw (1980) on self-justification, |anis (1982) on
 
 ll8
 
-SENSEMAKING IN ORGANIZATIONS
-
 groupthink, and Miller (1990) on the Icarus paradox. In each of these cases,
 people faced with nonroutine events come under the sway of premise controls.
 Problems arise because the premises they invoke ignore collective interest and
@@ -5139,8 +4991,6 @@ degree of consensus on a paradigm varied across seven fields (from highest
 development to lowest, the fields were physics, chemistry biology, economics,
 psychology, sociology, and political science) and that this affected the ways in
 which academic departments that housed these fields operated. Those departments with more developed paradigms had more consensus, more techno-
-
-The Substance of Sensemaking
 
 lt9
 
@@ -5181,8 +5031,6 @@ to "a given specialty," not to broad approaches. Paradigms are more plentiful
 and encompass smaller bodies of thought than is routinely recogniz.ed by
 people who use the idea (e.g., Morgan, 1980). Second, and more crucial for
 
-SENSEMAKING IN ORGANIZATIONS
-
 our focus on content, is Firestone's mention of Kuhn's emphasis on illustrations and exemplars.
 
 When people "agree" on a paradigm, they are more likely to agree on its
@@ -5220,8 +5068,6 @@ paradigm.
 
 The preceding analysis suggests that, for purposes of sensemaking, Paradigms can be defined as sets of recurrent and quasi-standard illustrations that
 show how theories of action are applied conceptually, observationally' and instrumentally to representative organizational problems. Collections of illus-
-
-The Substance of Sensemaking
 
 t2l
 
@@ -5261,8 +5107,6 @@ knowledge structures (Walsh, Henderson, & Deighton, 1988), and mental
 models (e.g., Barr, Stimpert, & Huff, Lgg2) all contain substance that provides
 a meaningful frame that facilitates meaningful noticing. The beliefs that
 
-SENSEMAKING IN ORGANIZATIONS
-
 Environment:
 
 REAL WORLD
@@ -5301,8 +5145,6 @@ sincere in speaking the students'own language), which means that the "full
 schema for a theory of action, then, would be as follows: in situation S, if you
 want to achieve consequence C, under assumptions at . . . tnr do A' (p. 5).
 
-The Substance of Sensemaking
-
 r23
 
 For Argyris, a crucial problem in effective action is that the theories of
@@ -5340,8 +5182,6 @@ distinction between the "knowledge that" of theory and the more tacit "knowledge
 assumes that the environment is malleable and that behavioral confirmation
 
 t24
-
-SENSEMAKING IN ORGANIZATIONS
 
 of theories is commonplace, and if one assumes that a little structure goes a
 long way to impose order on a sprawling problem, then the inevitable filtering
@@ -5384,8 +5224,6 @@ and over and over. There may still be quasi-generations, but they are defined
 less by longevity than by history of assignments. The length of time it takes to
 be viewed as "seasoned" and "elder" may, in the nanosecond nineties (Peters,
 
-The Substance of Sensemaking
-
 1992), have shrunk to weeks or days. Tradition may still function roughly in
 the ways Shils suggested, but the question is, with what changes and substitutions? As we will see, special attention needs to be paid to the question of how
 action is transmitted (Cook &Yanow, 1993).
@@ -5427,8 +5265,6 @@ These complex transformations mean that the contents of the images used to
 portray action are crucial because they determine what will be perpetuated.
 Images of know-how, recipes, scripts, rules of thumb, and heuristics all represent
 
-SENSEMAKING IN ORGANIZATIONS
-
 symbolic encodings of work that enable transmission across generations. The
 more attention that is paid to these descriptions, the better able successors will
 be to benefit from the experience of predecessors. ft p"ycloser attention means
@@ -5467,8 +5303,6 @@ context, the situation, the potential reactions of others, and so on. But they
 know less aboutthe details of how their predecessors functioned under similar
 conditions. And their own memory of their own prior actions is subject to the
 same constraints. Underdeveloped images lead to underdeveloped actions.
-
-The Substance of Sensemaking
 
 Traditions,like paradigms, have exemplars and custodians (Shils, 1981, p. 13),
 stories, and storytellers. It may seem like we are obsessed with stories. In a way
@@ -5511,8 +5345,6 @@ andprevailing frames in fourways (p.59): (a) the actions described are difficult
 (b) the situation poses a predicament that cannot be handled in a routine
 manner, (c) unexpected events happen in an otherwise normal sequence of
 
-SENSEMAKING IN ORGANIZATIONS
-
 events, and (d) something about the situation is unusual in the narrator's
 experience. An interesting storyof this sort is a threat to one's model of reality
 or frame, which means that interesting stories are cues that evoke a mixture
@@ -5551,8 +5383,6 @@ by subject matter and related by time. Without temporal relation we have
 only a list. Without continuity of subject matter we have another kind of
 list. A telephone directory is a list, but we can give it a strong push in the
 direction of narrative by adding the word "begat" between the first and
-
-The Substance of Sensemaking
 
 r29
 
@@ -5593,8 +5423,6 @@ controlthatworkslikeastandardoperatingprocedure;Wilkins,1983,pp.82, 84).
 Stories, in the last analysis, may be crucial for sensemaking because they
 facilitate diagnosis and reduce the disruption produced when projects are
 interrupted. Tlo see both of these possibilities, consider the following story.
-
-SENSEMAKING IN ORGANIZATIONS
 
 While several of us were conducting research at the Diabto Canyon nuclear
 Power plant, a construction worker driving a Ford Mustang on the access road
@@ -5637,8 +5465,6 @@ information is lost, which means that some interactions among task elements
 now are forgotten, misunderstood, or ignored. These oversights increase the
 probability that complex interactions will be set in motion in a system that is
 
-The Substance of Sensemaking
-
 13l
 
 becoming increasingly tightly coupled. These interactions will spread more
@@ -5679,8 +5505,6 @@ and frames that imply stories, are two basic forms in which the substance of
 sensemaking becomes meaningful.
 
 t32
-
-SENSEMAKING IN ORGANIZATIONS
 
 Summary
 
@@ -5802,8 +5626,6 @@ remains unclear is the fate of that appreciation, whether those thoughts are
 then affirmed, refuted, enlarged, used to proselytize others, discarded, or
 taken for granted. The recipe is also incomplete because it involves basically a
 
-SENSEMAKING AND ORGANIZATIONS
-
 monologue, likely to reflect self-interest. When people individually see what
 they think, this does not mean that others with other interests see the same
 things or think the same way. Nor does it mean that one's own thoughts are
@@ -5877,8 +5699,6 @@ is that it need not imply ill will or loss of temper as is often implied in ever
 usage (Billig, 1989, p. 84). Social argument is debate that expresses the contradiction implicit in any position that is articulated. The exchange of information may be heated, and often is. But "moods of anger are not a necessary
 part of argumentation, and, in fact, they may inhibit argumentation as discussion. . . . Sulks and slammed doors typically signify an end to debate, and
 thereby to argumentation" (Billig, 1989, p. 84).Anger inhibits argumentation,
-
-SENSEMAKING AND ORGANIZATIONS
 
 not simplybecause it shuts down communication butbecause it degrades the
 quatity of O. argumentation through narrowed attention as a result of heightened arousal.
@@ -6043,8 +5863,6 @@ When people pursue traces left by minority positions, this thinking ranges
 more widely. It incorporates more cues, which should result in sensemaking
 that is more stable and more plausible and less subject to disconfirmation. In
 
-SENSEMAKING AND ORGANIZATIONS
-
 a word, minority influence should result in better argument. Majority influence, by contrast, is convergent from the beginning. Unusual cues simply go
 unnoticed, which means majority definitions of a situation may make sense'
 but only in a narrow way. Flaws in that definition of the situation are missed,
@@ -6120,8 +5938,6 @@ forms that facilitate decision making or help people formulate policy. Instead,
 meeting talk may be synonymous with organizational action. . . . [D]ecisions, policies, problem solving, and so forth are not what meetings are
 
 t44
-
-SENSEMAKING AND ORGANIZATIONS
 
 about.Instead, we need to reverse this view and examine the possibility that
 meetings are what decisions, policies, problems, and crises are about' From
@@ -6211,8 +6027,6 @@ the nervous system is expecting. If all is in conformity, we adapt and may
 
 t46
 
-SENSEMAKING AND ORGANIZATIONS
-
 even stop noticing, as we stop noticing the touch sensation produced by
 our clothes or the lint on the lens of our eyeglasses. The study of human
 perception reveals how powerfully constrained our perceptual system is by
@@ -6296,8 +6110,6 @@ of error as a new set of organized cues that havebecome meaningful. This may
 qualify as "perverse social logic." But if a person goes through these motions
 and continues to interact with the target in natural situations, amid other group
 members who see things differently and say so, then these sensemaking operations have reduced uncertainty and enabled people to construct meaning.
-
-SENSEMAKING AND ORGANIZATIONS
 
 My intention is not to criticize Merton.Instead, my intention is to enlarge
 the significance of his insight. Self-fulfilling prophecies are not simply about
@@ -6386,8 +6198,6 @@ Relative to the less structured 80o/o, the 20Vo structured by their potential fo
 a growth spurt are more meaningful and predictable. But they have become
 so simply through the operation of a single exPectancy.
 
-SENSEMAKING AND ORGANIZATIONS
-
 That single expectancy, howwer, is apowerful force.It focuses the teacher's
 actions. It focuses what the teacher notices.It focuses the student's attention
 on the teacher and on what the teacherwants, rather than on other classmates.
@@ -6474,8 +6284,6 @@ With this material as background, we can now return to the parallelism
 between self-futfilling prophecies as a fundamental Process of sensemaking
 and the recent functional proposal that behavioral confirmation is most likely
 to occur during the acquisition of social knowledge. At the heart of a functional analysis is the assumption that the general interaction sequence is god
-
-SENSEMAKING AND ORGANIZATIONS
 
 driven, or at least goal interpreted (Weick, I979,p.239). "Social perception is
 rarely a process that is carried out in the abstract, in which the perceiver seeks
@@ -6595,8 +6403,6 @@ self-sustaining structure. Precisely because beliefs and actions are interrelate
 sensemaking can start at any point. Structures of mutual causality mock the
 language of independent and dependent variables. They invite, instead, description of those situations where beliefs can affect themselves through the
 
-SENSEMAKING IN ORGANIZATIONS
-
 mediation of action, and situations where actions can affect themselves through
 the mediation of beliefs. Earlier we saw how elgectations pave the waybehaviorally to their own confirmation. Here we examine how actions pave the way
 cognitively to their own continuation.
@@ -6671,8 +6477,6 @@ been very difficult for you. And the salarywe're offering, while more than you
 were making, is never enough to compensate for that" (Salancik, 1977,P. ll).
 The first sentence heightens volition by emphasizing that the Person has a
 second chance to say no ("want to be sure") and that this is the persont own
-
-SENSEMAKING IN ORGANIZATIONS
 
 choice ("because you want to"). The second sentence highlights irrevocability
 ("you have [already] given up a lot to come here") and implies that by giving
@@ -6749,8 +6553,6 @@ he or she is as a person. The same is true of organizatrons. An organizatron tha
 makes no decisions is a nonorganization; it is disorganized.It neither takes
 binding actions nor makes compelling reasons.
 
-SENSEMAKING IN ORGANIZATIONS
-
 Each person and organization chooses who it will be by first choosing what
 actions, if any, it needs to explain, and second,bychoosingwhich explanations
 for these actions it will defend. An inability or unwillingness to choose, act,
@@ -6813,12 +6615,10 @@ of manipulation complicates the assertion that commitment slows adaptation
 to change. The more complete assertion would be that commitment slows
 adaptation if environmental determinism is high (Astley &Van de Ven, 1983),
 but can hasten adaptation if determinism is low. People can cope with change
-in one of tnto ways. They can adapt to the change byweakening their commitments and changing their actions, or they can manipulate the change by reaffi rming their commitments and strengthening their actions. Weak commitments
+in one of tnto ways. They can adapt to the change byweakening their commitments and changing their actions, or they can manipulate the change by reaffirming their commitments and strengthening their actions. Weak commitments
 make it easier for the organization to accommodate to the environment; strong
 commitments make it easier for the environment to accommodate to the
 organization.
-
-SENSEMAKING IN ORGANIZATIONS
 
 Thus commitment is a liability only when environments are intractable.
 Even that qualification has its limits because the perception of intractability
@@ -6893,8 +6693,6 @@ writing about political institutions, observed that
 
 much of the richness of ecological theories of politics stems from the way
 in which the actions of each participant are part of the environments of
-
-SENSEMAKING IN ORGANIZATIONS
 
 others. The environment of each politicd actor is, therefore, partly selfdetermined as each reacts to the other. . . . When environments are created,
 the actions taken in adapting to an environment are partly responses to
@@ -6974,8 +6772,6 @@ Analogous descriptions are found in Daft and Weick"s (198a) description
 
 of interpretation systems that operate in an "enacting" mode.
 
-SENSEMAKING IN ORGANIZATIONS
-
 There is a basic entrepreneurial qualtty to manipulation. This suggests that
 the ways in which entrepreneurs create sensible niches for themselves and
 others is a good place to start in comprehending sensemaking by manipulation. We can see something of entrepreneurial sensemaking in Lanzara's
@@ -7053,8 +6849,6 @@ officers act to enlarge this area. It can be argued that the only way officers a
 able to do their job is if they have latitude to enact an environment with which
 they can cope and which makes sense to them. Once people enact an environment, controls are put in place, and these controls shape subsequent action.
 
-SENSEMAKING IN ORGANIZATIONS
-
 But action produced the controls, orderliness, and struchrre, all of which improve
 sensemaking, and not the reverse.
 
@@ -7102,8 +6896,6 @@ in search of a message, or that people are talking in different ways about the
 topic to see what they think, or perhaps his insight is simpty one person's
 informed opinion and pretty general at that (close to 50o/o of the items in the
 reference list are qualitative empirical studies and the number of such studies
-
-SENSEMAKING IN ORGANIZATIONS
 
 is increasing). Given at least those possibilities, any reader should be able to
 find some niche in next steps implied by those observations.
@@ -7183,8 +6975,6 @@ and this section discusses both.
 It is obvious that people will disagree about what we need to know if they
 disagree about where we are. This is normal, natural trouble when one works
 
-SENSEMAKING IN ORGANIZAT10NS
-
 with a low paradigm. Nevertheless, I think there are some next steps on which
 people would agree. I think they would agree with Czarniawska-Joerges ( 1992)
 that the overriding question in sensemaking research is, "how are meanings
@@ -7224,8 +7014,6 @@ characteristics.
 I . Investigators make an effort to preserve action that is situated in context. Where
 the context is simulated, attempts are made to retain the richness of the referent
 setting. Both approaches are complemented by explanations that imply Personsituation interactions or transactions.
-
-The Future of Sensemaking
 
 2. Observers rely less on researcher-specified measures and more on what participants say and do in response to minimal prodding and prestructuring.
 Participants' texts are central.
@@ -7277,8 +7065,6 @@ and Dutton (1988), Manning (1988), Mintzberg and McHugh (1985), and
 
 t74
 
-SENSEMAKING IN ORGANIZATIONS
-
 Porac et al. (1989). The person who extends any of these accomplishments
 should advance our understanding of sensemakittg.
 
@@ -7316,8 +7102,6 @@ new defining property of organizations, which in turn suggests that microdynamic
 Furthermore, less is taken for granted in interactive intersubjectivity, which
 means controlled information processing should be more common as more
 
-The Future of Sensemaking
-
 organizational sensemaking involves intersubjectivity. Because controlled information processing makes severe demands on attention, more cues should
 go unnoticed. As a result, problems could remain undetected for longer periods
 of time, meaning that once they are noticed, they are more severe and harder
@@ -7352,8 +7136,6 @@ stability should be a more mechanistic system. It is conceivable that if we
 looked at the early stages in the development of groupthink (Ianis, 1982;
 Tetlock, Peterson, McGuire, Chang, & Feld, 1992), we might see exactly this
 sequence. Once an organic system produces interpretations that stabilize the
-
-SENSEMAKING IN ORGANIZATIONS
 
 environment, stabilities that favor a more mechanistic form' there may be a
 shift toward that more mechanistic form. This mechanistic form should then
@@ -7390,8 +7172,6 @@ tend to be conspicuous by their absence. (p.276)
 
 We need to know more about sensemaking under conditions of low discretion.Potentialstudiesoflowdiscretionbylermier,Gaines,andMclntosh (1989)
 
-The Future of Sensemaking
-
 on reactions to working with toxic materials; Van Maanen (1990) on low
 discretion work at Disneyland; and Tulin (1984) on life as a machinist need
 to be reexamined to see which processes of sensemaking are used and which
@@ -7424,8 +7204,6 @@ the canary in the coal mine alerting people to potential problems.
 
 Lanir (1989) raised the issue of the relationship between human judgment
 and the reasoning of military command, control, communication, and intelligence systems (C3I) consisting of distributed decision making and expert
-
-SENSEMAKING IN ORGANIZATIONS
 
 systems. Among the problems of such systems are that theyunderestimate the
 probabilities of multiple'conditional independent" occurrences (p.489)' and
@@ -7466,8 +7244,6 @@ when that rationality is built into the technology by engineers who are true
 believers (Perrow, 1983; Winner, 1986) and when that technology is run by
 people at the top who are far removed from the action that is unfolding.
 
-The Future of Sensemaking
-
 What is interesting, in this context, are the tactics used by General Gus
 Pagonis (1992) during the Persian Gulf War to handle logistics. These logistics
 operations, regarded by many as among the most successful ever conducted,
@@ -7503,8 +7279,6 @@ their own top-management teams, which agonize over identities, financial
 performance in the last quarter, and the consequences of actions that shape
 shareholders' response. This agonizing continues to affect top-management
 sensemaking when it is mediated by information technologies. But the sense
-
-SENSEMAKING IN ORGANIZATIONS
 
 that is made may differ. What these effects are is what we need to know because
 dependence on this technology is fast becoming a constant in organizing.
@@ -7545,8 +7319,6 @@ mind and sensemaking in large entities (Sandelands & Stablein' 1987; Weick
 & Roberts, 1993). Or they may attempt to construct laboratory analogues of
 collective sensemaking (Liang, Moreland, & Argote, in press; Wegner, 1987).
 
-The Future of Sensemaking
-
 Or they may attempt to simulate collective sensemaking on computers
 (Hutchins, 1991). Yet to be attempted is sustained field observation in which
 collective operations of mind are the focus (see Kammerer & Crowston,1993,
@@ -7581,8 +7353,6 @@ my intention this way because there is a strong element of improvisation,
 bricolage, making do, and resourcefulness associated with any act of sensemaking that worls. That being the case, I am understandably wary of recipes
 and routines that could undermine the very things that make narratives,
 plausibility, and conversations work. Nevertheless, there do seem to be some
-
-SENSEMAKING IN ORGANIZATIONS
 
 implications for practice that run through my arguments, yet still give people
 lots of breathing room to adapt them to their own needs.
@@ -7626,8 +7396,6 @@ means to find things worth talking about. People discover what they thinkby
 looking at what they say, how they feel, and where they walk. The talk makes
 sense of walking, which means those best able to walk the tdk are the ones
 
-The Future of Sensemaking
-
 who actually talk the walking they find themselves doing most often, with
 most intensiry and with most satisfaction. How can I know what I value until
 I see where I walk? People make sense of their actions, their walking, their talkittg.
@@ -7667,8 +7435,6 @@ Phrases such as "windfall profits tax" and "slaughterhouse" single out distincti
 Rich vocabularies matter in a world of action where images of actions rather
 than the actions themselves are passed from Person to Person. Rich vocabularies give options for construing the meaning of action and are more likely
 
-SENSEMAKING IN ORGANIZATIONS
-
 to reveal the latent opportunities in what might otherwise seem like blatant
 threats.
 
@@ -7707,8 +7473,6 @@ visible way.
 
 The phenomenology implied here is that whenever people are said to make
 a decision, what really happens is that they are working retrospectively. When
-
-The Future of Sensemaking
 
 one feels compelled to declare that a decision has been made, the gist of that
 feeling is that there is some outcome at hand that must have been occasioned
@@ -7750,8 +7514,6 @@ Perhaps the most perverse-sounding implication of the preceding chapters
 is the suggestion that people need to meet more often. That implication arises
 from the reluctance with which people acknowledge that they face problems
 
-SENSEMAKING IN ORGANIZAT10NS
-
 of ambiguityand equivocality, ratherthan problems of uncertainty. Problems
 in organizations tend to get labeled as problems of ignorance because of large
 investments in technologies that are capable of generating more information.
@@ -7789,8 +7551,6 @@ messy. Too many cues and too many interpretations and too little closure
 persist for too long when people try to discover what they redly ought to be
 addressing and what kinds of understandings they need to negotiate. Such
 gatherings are not for the faint of heart That is why so much ambiguity persists
-
-The Future of Sensemaking
 
 and why so many people are so willing to claim that uncertainty reduction is
 the name of the game. People can always dig up more information, even if
@@ -7831,8 +7591,6 @@ once and for all. Problems do not behave that way for a simple reason. Processes
 and sequences and routines and patterns, the stuff of that world, tend to repeat
 themselves. Problems are simply moments of interruption in a process. When
 the interruption is repaired, under the guise of problem solving, the process
-
-SENSEMAKING IN ORGANIZATIONS
 
 continues to unfold and the vulnerabillty to interruption croPs up again.
 Problems keep showing up over and over because solutions seldom alter the
@@ -7877,7 +7635,7 @@ tends to be made meaningful, on the spot, with a common vocabularywhile
 ■
 
 「一一
-(cid:8270)一
+一
 ・一一
 ,
 一,
@@ -7885,8 +7643,7 @@ tends to be made meaningful, on the spot, with a common vocabularywhile
 ■
 ■
 一
-・(cid:8270)
-一
+・一
 一r一
 一
 ・
@@ -7897,8 +7654,6 @@ tends to be made meaningful, on the spot, with a common vocabularywhile
 ヽ一
 一一
 ま
-
-The Future of Sensemaking
 
 the joint experience is still fresh in everyone's mind. People construct shared
 meaning for a shared experience.
@@ -7937,8 +7692,6 @@ they usually appear in some context that questions what they mean. Furthermore,I
 than discovering. If they do discover something, it is usually something of
 their own construction. And if this imbalance of activity bothers people, I
 chalk it up to Cartesian anxiety (p.37).
-
-SENSEMAKING IN ORGANIZATIONS
 
 It can be hard to spot any referent for the word ruhnthose ideas. One message
 for practitioners is that what is real is more up for grabs than they rcalizn,
@@ -7983,8 +7736,6 @@ do this is with a trusted partneq because the partner has less of a stake in
 confirming your expectations than you do. Whenever possible, people should
 write out what they expect will happen in pending situations and why it will
 
-The Future of Sensemaking
-
 happen. After the situation unfolds, the way it played out is then compared
 with the expectations. When people do this, some relevant expectations have
 been uncovered, they are available for monitoring in the future, and once they
@@ -8020,8 +7771,6 @@ their worlds often produce unintended results, even the opposite of what
 they intended. Perceivers who understand themselves and their environments should appreciate sensemaking frameworks that reagnizethe inevitability of distortions, but such wise people should also doubt that they
 actually know what is good for themselves, and they should recognizethat
 the most beneficial errors are often the most surprising ones. Fortunately,
-
-SENSEMAKING IN ORGANIZATIONS
 
 people seem to have a good deal of latitude for discretion. People investigate
 hypotheses from the viewpoint that they are correct, and as long as results
@@ -8059,8 +7808,6 @@ topic of sensemaking is to advance. That advice recapitulates Emerson's
 
 I do not see how any man can afford, for the sake of his nerves and his nap,
 to spare any action in which he can partake. . . . Drudgery calamity, exasperation, want, are instructors in eloquence and wisdom. The true scholar
-
-The Future of Sensemaking
 
 grudges every opportunity of action passed by, as a loss of power. It is the
 raw material out of which the intellect molds her splendid products. . . . The
@@ -8103,8 +7850,6 @@ to regroup and retouch and renew
 
 L94
 
-SENSEMAKING IN ORGANIZATIONS
-
 Each one a center a critical energy (here:
 fifty years of questioning refined
 gracious in a loose brown suit and a gentle
@@ -8142,8 +7887,6 @@ had brought a trumpet shouted its joy
 full powerful questions alone there it screamed abandoned
 shaped each phrase however to
 the music in the tent had its own of course
-
-The Future of Sensemaking
 
 momentum but the trumpet joyfully could
 hear that its voice belonged to was answered by
@@ -8187,8 +7930,6 @@ and has effects beyond the time and place of its occurrence, and if that
 experience is treated as a particular in search of a prototype (see Frank, 1991,
 1992, for an example that meets all four criteria). By this latter stipulation, I
 
-SENSEMAKING IN ORGANIZATIONS
-
 have in mind Marceil's (1977) attempt to refine the distinction between
 nomothetic and idiographic inquiry. He suggested that researchers tend to
 look either at a few cases deeply or many cases broadly and assume either that
@@ -8226,8 +7967,6 @@ those models.
 The counsel here is simple. Do whatever you can to increase the variety of
 the language with which you work. William Meredith ( 1987) has put this point
 well in the following poem:
-
-The Future of Sensemaking
 
 What I Remember the Writers Telling
 Me When I Was Young (for Muriel Rukeyser)
@@ -8443,8 +8182,6 @@ Bougon, M. G., Weick, K. E., & Binkhorst, D. (1977). Cognition in organizations:
 
 the Utrecht fazz Orchesra. Administrative Science Quarterly, 22,606-639.
 
-SENSEMAKING IN ORGANIZATIONS
-
 Boulding, K. E. (1955). General s)'Btems theory: The skeleton of science. Management Science,2,
 
 t97-208.
@@ -8603,8 +8340,6 @@ Daft, R. L., & Weick, K. E. (1984). Tioward a model of organizations as interpre
 
 Academy of Management Review, 9, 284-295.
 
-SENSEMAKING IN ORGANIZATIONS
-
 Daft, R L., &Wiginton, f. C.(1979).Language and organization.
 
 of Management Revieur,
@@ -8695,8 +8430,6 @@ Eisenhardt, K. M. (1990). Speed and stratcgic choics How managers accelerate dec
 
 California Management Review, 3 2(3), 39 -5 4.
 
-Refuences
-
 Eisenhardt, K. M., & Bourgeois, L. I. ( 1988). Polities of strategic decision-making in high velocity
 environments: Toward a midrange theory. Academy of Management lournal, 31,7j7-270.
 Ellis, C., & Flaherty, M. G, (Eds.) . (1992). Investigating subjectivity: Research on livd experience.
@@ -8773,8 +8506,6 @@ connectedactions.InO.f.Harvey(Ed,.),Motivationandsocialinterartion(pp.l83-238).N
 York Ronald.
 
 Garfinkel, H. (1967). Studies in ethnomethoilology. Englewood Cliffs, NJ: Prentice Hall.
-
-SENSEMAKING IN ORGANIZATIONS
 
 Gephart, R. P.,Ir. (1992). Sensemaking, communicative distortion and the logic of public inquiry
 
@@ -8861,8 +8592,6 @@ are known. Psychological Bulletin, I 07, 3 | | -327 .
 
 Heap, I. o975). What are sense making practices? Sociological Inquiry, 45, 107-115.
 
-Refuences
-
 Hedberg,B. (1981). Howorganizationslearn andunlearn.InP. C.Nptrom &W.H.Starbuck (Eds.),
 Hanilbookof organizationaldesign (Vol. l, pp.3-27). NewYork OxfordUniversityPress.
 Hedberg, B.L.T., Nystrom, P. C., & Starbuck, W. H. (1976). Camping on seesaws: Prescriptions
@@ -8938,8 +8667,6 @@ published 1890)
 Iames, W. (1956). Is life worth living? In W. James , The will to believe (pp. 32-62), New York:
 
 Dover. (Original work published 1885)
-
-SENSEMAKING IN ORGANIZATIONS
 
 Janis, L R. (1982). Victims of groupthink(2nd ed.). Boston: Houghton Mifflin.
 faques, E. (1951). The changingculture ofafactory. London: Tavistock
@@ -9018,8 +8745,6 @@ Gu&ing (H,.), Anthropologists in the field Atlantic Highlands, NJ: Humanities Pr
 
 Leiter, K. (1980). A pimer on ethnomethoilology. New York Oxford University Press.
 
-Refuences
-
 Levine, D. N. (1985) . The flight from ambiguity. Chicago: University of Chicago Press.
 Levitt, B., & Nass, C. (1989). The lid on the garbage can: Institutional constraints on decision
 making in the technical care of college-text publishers. Administratiye Science Quarterly, 34,
@@ -9053,7 +8778,7 @@ thinking. Human Relations, 44, 55-7 6.
 
 Maass, A., & Clark, R. D., III. (1984). Hidden impact of minorities: Fifteen years of minority
 
-infl uence research. Psychological Bulletin, 95, 428-450.
+influence research. Psychological Bulletin, 95, 428-450.
 
 Maass,A.,West,S. G., &Cialdini, R. B. (1987). Minorityinfluenceand conversion.In C.Hendrick
 
@@ -9101,8 +8826,6 @@ Martin, l. (lgg2). cultures in organimtions. New York oxford university Press'
 Martin, J., Feldman, M. S., Hatch, M. I., & Sitkin, S. B. (1983)' The uniqueness paradox in
 
 organizational stories. Administrative Science Quartetly, 28, 438'452'
-
-SENSEMAKING IN ORGANIZATIONS
 
 Martin, f., & Meyerson, D. ( l9S8). Organizational cultures and the denid, channeling, and acknowledgment of ambiguity. In L. R. Pondy, R. J. Boland, Ir., & H. Thomas (Eds.), Managing
 ambiguity and change (pp. 93-125). NewYork: fohn Wiley.
@@ -9252,8 +8975,6 @@ London: Sage.
 
 Pagonis, W. G. (1992) , Movingmountains. Cambridge, MA: Harvard Business School Press.
 
-SENSEMAKING IN ORGANIZATIONS
-
 Parsons, T. ( 1960). Structure and process in modern societies. Glcncoe, IL: Free Press.
 Pentland, B. T. (1992). Organizing moves in software supPort lines. Administrative Science
 
@@ -9329,8 +9050,6 @@ Reason, J. ( l9E8). Stress and cognitive failure. In S. Fisher & J. Reason (Eds.
 stress, cognition and health (pp.405-421). Chichester, UK: Wiley.
 
 Reason, J. (1990). Human enor. C.ambridge, UK: Cambridge University Press'
-
-Refuences
 
 Resnick, L. B., Levine, J. M., & Teasley, S. D. (Eds.). (1991). Perspectiyes on socially shared cognition.
 
@@ -9409,8 +9128,6 @@ N. DiTimaso (Eds.), Research in the sociology of organizations (Vol. 5, pp' 135-
 
 ||
 
-SENSEMAKING IN ORGANIZATIONS
-
 Schall, M. S. (1983). A communication-rules approach to organizational culture. Administrative
 
 Science Quarterly, 28, 557 -58I.
@@ -9463,7 +9180,7 @@ Shotter,I.(1983)."Dualityofstructure"and"intentionality''inanecologicalpsycholog
 
 for the Theory of Social Behaviour, 13, 19-43.
 
-Shotter, I. ( 1993). Convercational realitia: Construcrtng ffi through language. London: Sage.
+Shotter, I. ( 1993). Convercational realitia: Construcrtng ffithrough language. London: Sage.
 Sills, D. L., & Merton, R. K. (Eds.). (1991). International encyclopeilia of the social sciences: Social
 
 science quotations (Vol. l9). NewYork Macmillan.
@@ -9569,8 +9286,6 @@ Staw, B. M. (1991). Dressing up like an organization: When psychological theorie
 
 organizational action. Journal of Management, 77, 805-8 I 9.
 
-SENSEMAKING IN ORGANIZATIONS
-
 Staw, B. M., McKechnie, P. I., & Puffer, S. M. ( 1993). The justification of organizational performance. Administrative Science Quarterly, 28, 582'600.
 
 Staw, B. M., & Ross, I. (1987). Behavior in escalation situations: Antecedents, PrototyPes and
@@ -9648,8 +9363,6 @@ Thoits, P. A. (1984). C.oping, social support, and psychological outcomes: The c
 emotion.InP. Shaver (FA.),Revint of personality andsocialpsychology (Vol.5, pp.219-238).
 Beverly Hills, CA: Sage.
 
-Refuences
-
 2t5
 
 Thomas, J. 8., Clark, S. M., & Gioia, D. A. (1993). Strategic sensemaking and organizational
@@ -9719,8 +9432,6 @@ Management Review, 2, 62-63.
 Varadarajan, P. J., Clark, T., & Pride, W. M. (1992, Winter). Controlling the uncontrollable:
 
 Managing your market environmen t. Sloan Management Review' pp' 39-47 '
-
-SENSEMAKING IN ORGANIZATIONS
 
 Varela, F. f., Thompson, E., & Rosch, E. ( 1991). The emboilied mind: Cognitive science and human
 
@@ -9805,8 +9516,6 @@ Weick, K. E., Gilfillan, D. P., & Keith, T, (1973). The effect of composercredib
 performance . S ociometry, 35, 435 -452.
 
 ‐
-
-Refuences
 
 Weick, K. E., & McDaniel, R. R., Jr. (1989). How professional organizations work: Implications
 for school organization and management. In T. f. Sergiovanni & I. H. Moore (Eds.), Schooling
@@ -10043,8 +9752,6 @@ Feld,175
 Fcldman,5,68,172,177
 Festingeら 11,66,79
 Finc,41
-
-SENSEMAKING IN ORGANIZATIONS
 
 Fineman,172
 Flol,172
@@ -10485,8 +10192,6 @@ Weick,11,12,13,18,24,29,32,34,41,51,
 
 54,67,68,69,87,90,95,102,105,111,
 
-SENSEMAKING IN ORGANIZAT10NS
-
 112,114,127,140,152,164,165,172,
 173,177,179,180,181,187,190,192
 
@@ -10581,8 +10286,6 @@ Complexity, E7,l3l. See also Interactive complexity
 Compliance, 140
 Comprchension, | 12, 129
 Confidence, 56,60, 184
-
-SENSEMAKING IN ORGANIZATIONS
 
 Conflict, I18, 136
 Confusion, 27,95,99,187, See ako Equivocaliry Ambiguit),
@@ -10814,8 +10517,6 @@ Iuvenile delinquency, 151
 Narratives, 127,I40
 NASA,39
 Natural dialectic, 136
-
-SENSEMAKING IN ORGANIZATIONS
 
 Near miss, 130
 Networks,33

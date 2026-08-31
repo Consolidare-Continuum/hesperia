@@ -203,13 +203,9 @@ xvii
 xvii
 xix
 
-XX
-
 xxi
 xxii
 xxiv
-
-XXV
 
 xxvi
 xxvii
@@ -4381,7 +4377,7 @@ themselves Averroan for a long time. Many thinkers blame the Arabs'
 
 later abandonment of scientific method on Algazel's huge influence. He
 
-ended up fueling Sufi mysticism, in which the worshipper attempts to
+ended up fueling Sufimysticism, in which the worshipper attempts to
 
 enter into communion with God, severing all connections with earthly
 
@@ -4473,7 +4469,7 @@ drawal and extreme skepticism, I take here the exact opposite direction. I
 
 am interested in deeds and true empiricism. So, this book was not written
 
-by a Sufi mystic, or even by a skeptic in the ancient or medieval sense, or
+by a Sufimystic, or even by a skeptic in the ancient or medieval sense, or
 
 even (we will see) in a philosophical sense, but by a practitioner whose
 
@@ -14207,14 +14203,10 @@ A series of a seemingly growing bacterial population (or of sales records, or of
 any variable observed through time—such as the total feeding of the turkey in
 Chapter 4).
 
-Y E A RS
-
 Easy to fit the trend—there is one and only one linear model that fits the data. You
 can project a continuation into the future
 
 H OW TO L O OK F OR B I RD P O OP 1 87
-
-Y E A RS
 
 We look at a broader scale. Hey, other models also fit it rather well.
 
@@ -14238,8 +14230,6 @@ Q.
 
 •
 1.5 ;
-
-Y E A RS
 
 And the real "generating process" is extremely simple but it had nothing to do with
 a linear model! Some parts of it appear to be linear and we are fooled by extrapo­
@@ -17131,8 +17121,6 @@ two, and only two, possible paradigms: nonscalable (like the Gaussian) and other
 (such as Mandebrotian randomness). The rejection of the application of the nonscalable is sufficient, as we will see later, to eliminate a certain vision of the world.
 This is like negative empiricism: I know a lot by determining what is wrong.
 
-T HE B E LL C U R V E, T H AT G R E AT
-
 I N T E L L E C T U AL F R A UD
 
 2 33
@@ -17269,8 +17257,6 @@ gate was the heaviest: some form of equality prevailed among the very heavy
 that at the NARA convention, the National Association for Rich Acceptance, one
 person would dwarf the others, and, even among the superrich, a very small per­
 centage would represent a large section of the total wealth.
-
-T HE B E LL C U R V E, T H AT G R E AT
 
 I N T E L L E C T U AL
 
@@ -17430,8 +17416,6 @@ allows you to treat economic phenomena as Gaussian.
 
 Note that I am not telling you that the Mediocristan type of random-
 
-T HE B E LL C U R V E, T H AT G R E AT
-
 I N T E L L E C T U AL F R A UD 2 37
 
 ness does not allow for some extremes. But it tells you that they are so rare
@@ -17555,8 +17539,6 @@ to sleep at night. So the variations in the casino's returns are going to be
 ridiculously small, no matter the total gambling activity. You will not see
 
 anyone leaving the casino with $1 billion—in the lifetime of this universe.
-
-T HE B E LL C U R V E, T H AT G R E AT
 
 I N T E L L E C T U AL F R A UD 2 39
 
@@ -17699,8 +17681,6 @@ matics).
 As I mentioned earlier, the bell curve was mainly the concoction of a
 
 gambler, Abraham de Moivre ( 1 6 6 7 - 1 7 5 4 ), a French Calvinist refugee
-
-T HE B E LL C U R V E, T H AT G R E AT
 
 I N T E L L E C T U AL
 
@@ -17864,8 +17844,6 @@ wonder M a rx fell for Quételet's ideas.
 
 This concept took off very quickly. The ought was confused with the
 
-T HE B E LL C U R V E, T H AT G R E AT
-
 I N T E L L E C T U AL
 
 F R A UD
@@ -18010,8 +17988,6 @@ you are not, et cetera. Degrees of deadness or pregnancy are not relevant
 
 gates, where magnitudes do matter, such as income, your wealth, return
 
-T HE B E LL C U R V E, T H AT G R E AT
-
 I N T E L L E C T U AL F R A UD 2 45
 
 on a portfolio, or book sales, then you will have a problem and get the
@@ -18129,8 +18105,6 @@ We now have eight cases, all equally likely. Note that again you can
 group the middling outcomes where a win cancels out a loss. (In Galton's
 
 quincunx, situations where the ball falls left and then falls right, or vice
-
-T HE B E LL C U R V E, T H AT G R E AT
 
 I N T E L L E C T U AL F R A UD 2 47
 
@@ -18264,8 +18238,6 @@ namely eighty plot points. The next one would bring that up to 8,000
 
 points.
 
-T HE B E LL C U R V E, T H AT G R E AT
-
 I N T E L L E C T U AL F R A UD 2 49
 
 : A MORE ABSTRACT VERSION: PLATO'S CURVE
@@ -18395,8 +18367,6 @@ cumulative advantage. Both theories assert that winning today makes you
 more likely to win in the future. Therefore, probabilities are dependent on
 
 history, and the first central assumption leading to the Gaussian bell curve
-
-T HE B E LL C U R V E, T H AT G R E AT
 
 I N T E L L E C T U AL
 
@@ -20066,8 +20036,6 @@ to aggressively pursue my Black Swan idea. Right after the crash, when I
 
 o
 
-Y E A RS
-
 By removing the ten biggest one-day moves from the U.S. stock market over the
 past fifty years, we see a huge difference in returns—and yet conventional finance
 sees these one-day jumps as mere anomalies. (This is only one of many such tests.
@@ -20115,8 +20083,6 @@ solete [or] meaningless." I propose two corrections to Cootner's state­
 ment. First, I would replace almost all with all. Second, I disagree with the
 
 blood and sweat business. I find Mandelbrot's randomness considerably
-
-L O C K E 'S M A D M E N, OR B E LL C U R V ES
 
 IN T HE W R O NG P L A C ES 2 77
 
@@ -20263,8 +20229,6 @@ GARCH, but while these methods represent a good effort, they fail to address the
 bell curve's fundamental flaws. Such methods are not scale-invariant. This, in my
 opinion, can explain the failures of sophisticated methods in real life as shown by
 the Makridakis competition.
-
-L O C K E 'S M A D M E N, OR B E LL C U R V ES
 
 IN T HE W R O NG P L A C ES 2 79
 
@@ -20421,8 +20385,6 @@ I had trouble getting the message about the difference between Medioc­
 
 ristan and Extremistan through—many arguments presented to me were
 
-L O C K E 'S M A D M E N, OR B E LL C U R V ES
-
 IN T HE W R O NG P L A C ES 2 81
 
 about how society has done well with the bell curve—just look at credit
@@ -20565,8 +20527,6 @@ threatening seven-page letter he sent me that gave me the impression that he was
 not too familiar with how we trade options, his very subject matter. He seemed to
 be under the impression that traders rely on "rigorous" economic theory—as if
 birds had to study (bad) engineering in order to fly.
-
-L O C K E 'S M A D M E N, OR B E LL C U R V ES
 
 IN T HE W R O NG P L A C ES 2 83
 
@@ -20746,8 +20706,6 @@ a broad set of eventualities
 
 Seeks to be perfectly right in a narrow
 model, under precise assumptions
-
-L O C K E 'S M A D M E N, OR B E LL C U R V ES
 
 IN T HE W R O NG P L A C ES 2 85
 
@@ -23996,8 +23954,6 @@ of Clyde Coombs. Bern, Switzerland: Huber.
 
 3 38
 
-B I B L I O G R A P HY
-
 , 1 9 8 9, "Measurement Models for Rating and Comparing Risks: The Context of AIDS."
 Conference Proceedings Health Services Research Methodology: A Focus on AIDS, Septem­
 ber 1989.
@@ -24195,8 +24151,6 @@ sity Press.
 Flyvbjerg, Bent, Mette Skamris Holm, and Soren Buhl, 2 0 0 2, "Underestimating Costs in Public
 
 3 40
-
-B I B L I O G R A P HY
 
 Works Projects—Error or Lie." American Journal of Planning 68(3), http://home.planet.nl/
 -vissl 197/japaflyvbjerg.pdf.
@@ -24699,8 +24653,6 @@ Its Applications 326(1-2): 2 5 6 - 2 6 4.
 
 Kaizoji, Taisei, and Michiyo Kaizoji, 2 0 0 4, "Power Law for Ensembles of Stock Prices." Physica
 
-B I B L I O G R A P HY
-
 3 45
 
 A: Statistical Mechanics and Its Applications 344(1-2), Applications of Physics in Financial
@@ -25176,8 +25128,6 @@ Pareto, Vilfredo, 1896, Cours d'économie politique. Geneva: Droz.
 
 3 50
 
-B I B L I O G R A P HY
-
 Park, David, 2005, The Grand Contraption: The World as Myth, Number, and Chance. Prince­
 
 ton, N.J.: Princeton University Press.
@@ -25460,8 +25410,6 @@ Sieff, E. M., R. M. Dawes, and G. Loewenstein, 1999, "Anticipated Versus Actual 
 
 HIV Test Results." American Journal of Psychology 122: 2 9 7 - 3 1 1.
 
-B I B L I O G R A P HY
-
 3 53
 
 Silverberg, Gerald, and Bart Verspagen, 2 0 0 4, "The Size Distribution of Innovations Revisited: An
@@ -25561,8 +25509,6 @@ Error and Ecological Structure." Organizational Behavior and Human Decision Proc
 65: 117-137.
 
 3 54
-
-B I B L I O G R A P HY
 
 Sornette, D., F. Deschâtres, T. Gilbert, and Y. Ageon, 2 0 0 4, "Endogenous Versus Exogenous
 
@@ -25965,8 +25911,6 @@ sity Press.
 
 3 58
 
-B I B L I O G R A P HY
-
 , 2 0 0 2, The Future of Life. New York: Knopf.
 
 Wilson, T. D., J. Meyers, and D. Gilbert, 2 0 0 1, "Lessons from the Past: Do People Learn from
@@ -26199,8 +26143,6 @@ Cournot, Augustin, 242
 Cowan, David, 177
 
 cumulative advantage, 217, 218, 250, 324
-
-D
 
 Darwin, Charles, 167, 244, 256
 
@@ -26568,8 +26510,6 @@ Krasnova, Yevgenia Nikolayevna
 
 92, 93-94, 95-96, 122, 223, 299,
 
-L
-
 Hume, David, 45, 48, 60
 
 languages, 4, 24, 72, 181, 219, 255
@@ -26579,8 +26519,6 @@ Hussein, Saddam, 74
 lasers, 135, 169-70, 322
 
 law of large numbers, 238, 244, 259-60,
-
-I
 
 269, 287
 
@@ -26633,8 +26571,6 @@ ludic fallacy, 122-37, 207, 225n, 257,
 Menodotus of Nicomedia, 46, 182, 199,
 
 268, 275, 279, 281, 2 8 6 - 8 9, 309,
-
-M
 
 Merton, Robert C, 278, 279, 279n, 280,
 
@@ -27015,8 +26951,6 @@ uncertainty of the deluded, 239, 310
 uncertainty of the nerd, 127-29, 309
 
 unknowledge, 138, 185, 198, 329
-
-V
 
 variance, defined, 250
 

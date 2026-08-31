@@ -181,8 +181,6 @@ end * Chaco's message
 
 Chaco's decline and
 
-X
-
 Contents
 
 Chapter 5: The Maya Collapses
@@ -426,8 +424,6 @@ Environmental Trouble Spots of the Modern World
 182-183
 
 C O L L A P S E
-
-I
 
 P R O L O G U E
 
@@ -2908,7 +2904,6 @@ Pat would die before me. That's because, when we got married, I promised to
 love, honor, and take care of her, and if she died first, I would know that I had
 fulfilled my promise. Also, I have no life insurance to support her, so it
 would be hard if she outlived me. After Pat died my fantasy continues
-I
 would turn over the deed of the house to my son Cody, then I would go
 trout-fishing every day as long as I was physically in condition to do it. When
 I became no longer capable of fishing, I would get hold of a large supply of
@@ -8176,7 +8171,7 @@ elevations below 700 feet above sea level) to develop as a productive infield,
 because lowlands have the warmest climate and longest snow-free growing
 season, and because grass growth is poorer on steeper slopes. Among
 Greenland Norse farms, the cathedral farm of Gardar was preeminent in its
-expanse of flat lowlands, followed by some of the Vatnahverfi farms.
+expanse of flat lowlands, followed by some of the Vatnahverfifarms.
 
 2. Complementary to this requirement for a large lowland infield is a
 large area of outfield at mid-elevations (up to 1,300 feet above sea level) for
@@ -8198,7 +8193,7 @@ valley off of which come cold strong winds that decrease grass growth and
 increase soil erosion on heavily grazed pastures. Glacial winds were a curse
 that ensured the poverty of farms at Narssaq and in Sermilik Fjord, and that
 eventually forced the abandonment of farms at the head of Qoroq Valley
-and at higher elevations in the Vatnahverfi district.
+and at higher elevations in the Vatnahverfidistrict.
 
 6. If possible, place your farm directly on a fjord with a good harbor for
 
@@ -8283,7 +8278,7 @@ even though the Greenland Norse were descended from Norwegians and
 Icelanders who spent much time fishing and happily ate fish. Fish bones account for much less than 0.1% of animal bones recovered at Greenland
 Norse archaeological sites, compared to between 50 and 95% at most contemporary Iceland, northern Norway, and Shetland sites. For instance, the
 archaeologist Thomas McGovern found the grand total of three fish bones
-in Norse garbage from Vatnahverfi farms next to lakes teeming with fish,
+in Norse garbage from Vatnahverfifarms next to lakes teeming with fish,
 while Georg Nygaard recovered only two fish bones from a total of 35,000
 animal bones in the garbage of the Norse farm 034. Even at the GUS site,
 which yielded the largest number of fish bones 166, representing a mere
@@ -8395,7 +8390,7 @@ instance, seal bones remain abundant in the garbage of the highest-elevation
 inland farms, to which the carcasses must have been carried dozens of miles
 from the fjord
 
-mouths. At Vatnahverfi farms far inland, seal bones are as common in the garbage
+mouths. At Vatnahverfifarms far inland, seal bones are as common in the garbage
 as are the bones of sheep and goats. Conversely, caribou bones are even
 commoner at big rich lowland farms than at the poorer uphill farms where the
 animals must have been killed.
@@ -9195,7 +9190,7 @@ and then sand by wind and running water into lakes. For instance, at the site
 of an abandoned Norse farm that I passed at the mouth of the Qoroq Fjord,
 downwind of a glacier, so much soil was blown away by high-velocity winds
 that only stones remained. Wind-blown sand is very common at Norse
-farms: some abandoned ones in the Vatnahverfi area are covered by sand ten
+farms: some abandoned ones in the Vatnahverfiarea are covered by sand ten
 feet deep.
 
 The other means besides soil erosion by which the Norse inadvertently
@@ -9733,8 +9728,8 @@ they
 These five factors all developed gradually or operated over long times.
 Hence we should not be surprised to discover that various Norse farms were
 abandoned at different times before the final catastrophes. On the floor of a
-large house on the largest farm of the Vatnahverfi district of Eastern Settlement was found a skull of a 25-year-old man with a radiocarbon date
-around A.D. 1275. That suggests that the whole Vatnahverfi district was
+large house on the largest farm of the Vatnahverfidistrict of Eastern Settlement was found a skull of a 25-year-old man with a radiocarbon date
+around A.D. 1275. That suggests that the whole Vatnahverfidistrict was
 abandoned then, and that the skull was of one of the last inhabitants, because any survivors would surely have buried the dead man rather than just
 leave his body on the floor. The last radiocarbon dates from farms of
 Qor-lortoq Valley of Eastern Settlement cluster around A.D. 1300. Western
@@ -10716,8 +10711,6 @@ and even the members of his family are all imbued with the same values, and
 advise and criticize his actions." Thus, that role of Tikopian chiefs represents
 much less top-down management than does the role of the leaders of the
 remaining society that we shall now discuss.
-
-I
 
 Our other success story resembles Tikopia in that it too involves a densely
 populated island society isolated from the outside world, with few economically significant imports, and with a long history of a self-sufficient
@@ -19912,7 +19905,7 @@ Henry Press, 1997).
 
 Some recent papers on coral reef destruction are: T. P. Hughes, "Climate
 change, human impacts, and the resilience of coral reefs" {Science 301:929-933
-(2003)); J. M. Pandolfi et al., "Global trajectories of the long-term decline of coral
+(2003)); J. M. Pandolfiet al., "Global trajectories of the long-term decline of coral
 reef ecosystems" {Science 301:955-958 (2003)); and D. R. Bellwood et al, "Confronting the coral reef crisis" {Nature 429:827-833 (2004)).
 
 Books on soil problems include the classic Vernon Gill Carter and Tom Dale,

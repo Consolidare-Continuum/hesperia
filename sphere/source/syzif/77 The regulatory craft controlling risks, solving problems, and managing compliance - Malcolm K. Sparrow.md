@@ -119,14 +119,6 @@ Innovations
 
 v
 
-VII
-
-XI
-
-XIII
-
-XIX
-
 VI CONTENTS
 
 12. The Boston Gun Project
@@ -193,8 +185,6 @@ orous safety testing. So has the mattress he sleeps on.
 
 As you tuck Johnny in for the night, the regulated airplane following
 a prescribed path in regulated airspace carrying Aunt Mabel home flies
-
-VII
 
 VIII FOREWORD BY FRANK KEATING
 
@@ -302,8 +292,6 @@ tory task. The regulatory function routinely involves use of the coercive
 power of the state against individuals or corporations. The satisfaction
 of those individuals or companies, although important, is perhaps less
 important in that moment than the broader public purposes that regula­
-
-XI
 
 XII FOREWORD BY PATRICIA MCGINNIS
 
@@ -2068,8 +2056,6 @@ trines of reinvention has produced a dominant prescription for reform
 
 34 THE challenges
 
-of regulation
-
 of regulatory behavior, with which practitioners are familiar but by
 which many remain puzzled or troubled. This prescription pushes the
 development of cooperative relationships between regulators and the
@@ -2866,8 +2852,6 @@ viewed the intervention in the same positive light. The vast majority of
 
 54 THE challenges
 
-of regulation
-
 defendants do not view enforcement actions taken against them as a
 service, even in retrospect. Many are sorry only that they got caught.
 
@@ -3308,8 +3292,6 @@ space between the decisionmaker and the victim of the decision.17
 
 64 the challenges
 
-of regulation
-
 With these cautions in place, regulators should feel better able to
 apply customer service ideals and methods where appropriate, confident
 that they are not crippling their enforcement capacity or turning their
@@ -3727,8 +3709,6 @@ In the fall of 1991, IRS Commissioner Fred Goldberg convened IRS
 senior managers, including regional commissioners and heads of the
 
 74 THE challenges
-
-of regulation
 
 major functional branches, and asked them to list the major noncompli­
 ance problems in the federal tax system. It took them less than half an
@@ -4455,10 +4435,6 @@ multiple 911 calls from particular addresses. The application states that
 
 94 THE emergence
 
-of regulatory
-
-craftsmanship
-
 "the program is part of an innovative approach to policing called 'prob­
 lem-solving,' which aims at accomplishing clear goals rather than just
 processing cases or answering calls." The RECAP unit rank-ordered all
@@ -4851,10 +4827,6 @@ ships would serve: "I direct you to promptly convene groups consisting
 of frontline regulators and the people affected by their regulations.
 
 104 the emergence
-
-of regulatory
-
-craftsmanship
 
 These conversations should take place around the country—at our
 cleanup sites, our factories, our ports. I further direct you to submit a
@@ -5737,10 +5709,6 @@ tive estimates of tip income are developed from business volume, not
 from counting the tips. Tax liabilities are clearly established, and
 
 124 THE emergence
-
-of regulatory
-
-craftsmanship
 
 employees benefit from increased social security benefits, unemployment
 benefits, retirement plan contributions, and worker's compensation ben­
@@ -6727,10 +6695,6 @@ sure mechanism, projects tend to run on forever without any rigorous
 
 144 THE emergence
 
-of regulatory
-
-craftsmanship
-
 evaluation, or they just fizzle out as staff lose interest and turn to some­
 thing newer. Including closure as the final stage (stage 6) and requiring
 all projects to undergo managerial review every two months until they
@@ -6822,10 +6786,6 @@ isolated or individual instances)
 — and which fall within the agency's role and jurisdiction.
 
 I4<S the emergence
-
-of regulatory
-
-craftsmanship
 
 Initial descriptions of problems need only be brief (no more than three
 or four sentences) but should be reasonably specific. The most useful
@@ -7542,10 +7502,6 @@ making these choices. Even if regulators take up this practical challenge,
 society might still pursue more exhaustive risk-based reassessments at
 the national level as a way of reordering its macrolevel regulatory prioril62 the emergence
 
-of regulatory
-
-craftsmanship
-
 ties. But we do not need to wait for such high-level changes, or rely
 upon them, in order to obtain more effective regulatory protection.
 
@@ -8041,10 +7997,6 @@ gang networks. So the working group devised what came to be known
 as the Ceasefire strategy, which involved artfully crafting news that the
 
 174 the emergence
-
-of regulatory
-
-craftsmanship
 
 working group wanted to travel over the gang network—and then delib­
 erately communicating it to the gang members.
@@ -9682,8 +9634,6 @@ strategic innovation: risk control, problem solving, and compliance
 
 214 the elusive
 
-art of risk control
-
 management. Each of these terms has its drawbacks, and none of them
 adequately conveys the complexity of the business.
 
@@ -9777,8 +9727,6 @@ usefulness of risk management as an orienting framework. Commander
 
 216 the elusive
 
-art of risk control
-
 Rick Kowalewski (describing the early experience of the Coast Guard's
 Office of Marine Safety, Security and Environmental Protection under
 the pilot program) states bluntly, "Our business is risk management."12
@@ -9864,8 +9812,6 @@ continue to answer that way, because I want regulators to keep their
 minds open to a much broader range of possibilities. They must also
 
 218 the elusive
-
-art of risk control
 
 learn that any pragmatic choices they make, given the dynamic nature of
 the business, may not be relevant for long and may not be relevant for
@@ -10777,8 +10723,6 @@ case and a local culture, could envisage in advance.3
 
 240 THE elusive
 
-art of risk control
-
 So why does the idea of discretion-free regulation persist? Why is this
 idea still available for critics to attack, when the practical reality is so
 obviously different? Mostly, I believe, because regulators like this idea,
@@ -11413,8 +11357,6 @@ by half."
 
 254 THE elusive
 
-art of risk control
-
 Over a year later, in April 1999, the Court issued its final verdict.
 The structuring of discretion had, in the Court's view, the practical
 effect of a rule, and therefore OSHA should have provided a public
@@ -11496,8 +11438,6 @@ generally do not have a mind of their own and do not adapt or mutate
 2-55
 
 254 THE elusive
-
-art of risk control
 
 Over a year later, in April 1999, the Court issued its final verdict.
 The structuring of discretion had, in the Court's view, the practical
@@ -15634,7 +15574,6 @@ INDEX 339
 
 Gaebler, Ted, 31-32, 45, 183
 Gang violence, risk reduction. See
-Operation Ceasefire (Boston)
 
 Garment industry, sweatshops, 86, 258
 Goldberg, Fred, 57, 73-74
@@ -15679,8 +15618,6 @@ Graham, John, 190
 Great Britain, policing study, 209-10
 Green, Kirby, 300
 Guns, risk reduction, 85-86. See also
-
-Operation Ceasefire (Boston)
 
 Hammer, Michael, 70, 71
 Harm control strategies. See Risk
@@ -15807,7 +15744,6 @@ Kelly, Raymond, 113
 Kennedy, David M., 172, 173, 177,
 
 Massachusetts, 93, 242. See also
-Operation Ceasefire (Boston)
 
 Matthews, J. B. R., 140, 215
 Measurement. See Performance
@@ -15995,7 +15931,6 @@ gency, 107-08; Minnesota's pollu­
 tion control, 88-89; and regulatory
 reform progress, 99-100, 102-03.
 See also Maine 200 program;
-Operation Ceasefire (Boston)
 Passenger service representatives, 55
 Pension Benefit Guaranty Corpora­
 tion, 91-92, 106, 188, 217
@@ -16036,7 +15971,6 @@ tems, 168; SARA model, 138-39;
 STAC project, 92; Virginia, 93,
 138. See also Goldstein, Herman
 (on problem-oriented policing);
-Operation Ceasefire (Boston)
 
 Policing, watchman style (Wilson), 36
 Pollution control. See Environmental

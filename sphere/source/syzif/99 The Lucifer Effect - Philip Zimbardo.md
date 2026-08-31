@@ -82,10 +82,6 @@ without a break.
 
 As an expert witness testifying at his trial to the situational forces that con-
 
-X
-
-Preface
-
 tributed to the specific abuses he had perpetrated, I was given access to all of the
 many hundreds of digitally documented images of depravity. That was an ugly
 and unwelcomed task. In addition, I was provided with all of the then-available
@@ -131,8 +127,6 @@ quires an understanding of what strengths, virtues, and vulnerabilities they
 bring into a given situation. Then, we need to recognize more fully the complex of
 situational forces that are operative in given behavioral settings. Modifying them,
 or learning to avoid them, can have a greater impact on reducing undesirable in-
-
-Preface
 
 xi
 
@@ -182,8 +176,6 @@ Spalding rubber ball). Without offering any reason, they would confiscate our
 stickball bats and force us to stop playing in the street. Since there was not a play
 ground within a mile of where we lived, streets were all we had, and there was litxii
 
-Preface
-
 tle danger posed to citizens by our pink rubber ball. I recall a time when we hid the
 bats as the police approached, but the cops singled me out to spill the beans as to
 their location. When I refused, one cop said he would arrest me and as he pushed
@@ -230,8 +222,6 @@ of ordinary, normal people into indifferent or even wanton perpetrators of evil.
 Dehumanization is like a cortical cataract that clouds one's thinking and fosters
 the perception that other people are less than human. It makes some people come
 to see those others as enemies deserving of torment, torture, and annihilation.
-
-Preface
 
 xiii
 
@@ -282,8 +272,6 @@ the "banality of evil," which posits that ordinary people can be responsible for
 
 xiv
 
-Preface
-
 most despicable acts of cruelty and degradation of their fellows, I posit the "ba
 nality of heroism," which unfurls the banner of the heroic Everyman and Everywoman who heed the call to service to humanity when their time comes to act.
 When that bell rings, they will know that it rings for them. It sounds a call to up
@@ -321,7 +309,6 @@ fering they endured during and following this research.
 
 Contents
 
-Preface
 Acknowledgments
 List of Illustrations
 
@@ -592,8 +579,6 @@ through the thick lens of personal invulnerability when we should also look
 down to the slippery slope beneath our feet. Such egocentric biases are more com
 monly found in societies that foster independent orientations, such as Euro-
 
-The Lucifer Effect
-
 American cultures, and less so in collectivist-oriented societies, such as in Asia,
 Africa, and the Middle East.5
 
@@ -640,8 +625,6 @@ well-being of our children.
 
 Upholding a Good-Evil dichotomy also takes "good people" off the responsi
 bility hook. They are freed from even considering their possible role in creating,
-
-The Psychology of Evil
 
 sustaining, perpetuating, or conceding to the conditions that contribute to delin
 quency, crime, vandalism, teasing, bullying, rape, torture, terror, and violence.
@@ -691,8 +674,6 @@ sponsible? Who caused it? Who gets the blame? and Who gets the credit?
 Social psychologists (such as myself) tend to avoid this rush to dispositional
 judgment when trying to understand the causes of unusual behaviors. They pre-
 
-The Lucifer Effect
-
 fer to begin their search for meaning by asking the "What questions": What con
 ditions could be contributing to certain reactions? What circumstances might be
 involved in generating behavior? What was the situation like from the perspective
@@ -740,8 +721,6 @@ One of the first documented sources of the widespread use of the dispositional
 view to understand evil and rid the world of its pernicious influence is found in a
 text that became the bible of the Inquisition, the Malleus Maleficarum, or "The
 
-The Psychology of Evil
-
 Witches' Hammer."8 It was required reading for the Inquisition judges. It begins
 with a conundrum to be solved: How can evil continue to exist in a world gov
 erned by an all-good, all-powerful God? One answer: God allows it as a test of
@@ -787,8 +766,6 @@ how institutions create mechanisms that translate ideology—say, the causes of
 evil—into operating procedures, such as the Inquisition's witch hunts. In other
 words, my focus has widened considerably through a fuller appreciation of the
 ways in which situational conditions are created and shaped by higher-order
-
-The Lucifer Effect
 
 factors—systems of power. Systems, not just dispositions and situations, must be
 taken into account in order to understand complex behavior patterns.
@@ -837,8 +814,6 @@ The Power to Create "The Enemy"
 The powerful don't usually do the dirtiest work themselves, just as Mafia dons
 leave the "whackings" to underlings. Systems create hierarchies of dominance
 
-The Psychology of Evil
-
 with influence and communication going down—rarely up—the line. When a
 power elite wants to destroy an enemy nation, it turns to propaganda experts to
 fashion a program of hate. What does it take for the citizens of one society to hate
@@ -882,8 +857,6 @@ with the use of rape as a weapon against humanity. Then I will show how one as
 pect of this complex psychological process, the dehumanization component, can
 be studied in controlled experimental research that isolates its critical features for
 systematic analysis.
-
-The Lucifer Effect
 
 CRIMES AGAINST HUMANITY: GENOCIDE, RAPE, AND TERROR
 
@@ -931,8 +904,6 @@ of the entire Tutsi population were exterminated.
 Hutu neighbors were slaughtering former friends and next-door neighbors—
 on command. A Hutu murderer said in an interview a decade later that "The
 worst thing about the massacre was killing my neighbor; we used to drink to-
-
-The Psychology of Evil
 
 gether, his cattle would graze on my land. He was like a relative." A Hutu mother
 described how she had beaten to death the children next door, who looked at her
@@ -983,8 +954,6 @@ her relatives slaughtered.
 
 A U.N. report estimated that at least 200,000 women were raped during this
 
-The Lucifer Effect
-
 brief period of horror, many of them killed afterward. "Some were penetrated
 with spears, gun barrels, bottles or the stamens of banana trees. Sexual organs
 were mutilated with machetes, boiling water and acid; women's breasts were cut
@@ -1033,8 +1002,6 @@ spire such monstrous crimes, Nicole Bergevin, Pauline's lawyer in her genocide
 trial, reminds us, "When you do murder trials, you realize that we are all suscep
 tible, and you wouldn't even dream you would ever commit this act. But you come
 
-The Psychology of Evil
-
 to understand that everyone is [susceptible]. It could happen to me, it could hap
 pen to my daughter. It could happen to you" (p. 130).
 
@@ -1082,8 +1049,6 @@ quaintances, cutters of neighbors, just plan cutters."
 "Our Tutsi neighbors, we knew they were not guilty of no misdoing, but
 we thought all Tutsis at fault for our constant troubles. We no longer looked
 
-The Lucifer Effect
-
 at them one by one, we no longer stopped to recognize them as they had
 been, not even as colleagues. They had become a threat greater than all we
 had experienced together, more important than our way of seeing things in
@@ -1128,8 +1093,6 @@ death desirable. The author Iris Chang's investigation of that horror revealed t
 Chinese men were used for bayonet practice and in decapitation contests. An esti
 mated 20,000 to 80,000 women were raped. Many soldiers went beyond rape to
 disembowel women, slice off their breasts, and nail them to walls alive. Fathers
-
-The Psychology of Evil
 
 were forced to rape their daughters and sons their mothers as other family mem
 bers watched.17
@@ -1178,8 +1141,6 @@ You don't realize that it is part of the experimental script, but you "acciden
 tally" overhear the assistant complaining over the intercom to the experimenter
 that the other students "seem like animals." You don't know it, but in two other
 
-The Lucifer Effect
-
 conditions to which other students like you have been randomly assigned, the as
 sistant describes the other students as "nice guys" or does not label them at all.
 
@@ -1226,8 +1187,6 @@ engaged in unimaginable forms of torture against civilians they were supposed to
 be guarding. The tormentors and the tormented were captured in an extensive
 display of digitally documented depravity that the soldiers themselves had made
 during their violent escapades.
-
-The Psychology of Evil
 
 Why did they create photographic evidence of such illegal acts, which if
 found would surely get them into trouble? In these "trophy photos," like the proud
@@ -1276,8 +1235,6 @@ oner abuse in the Abu Ghraib "Little Shop of Horrors" was that I had seen some
 thing similar before. Three decades earlier, I had witnessed eerily similar scenes as
 they unfolded in a project that I directed, of my own design: naked, shackled pris-
 
-The Lucifer Effect
-
 oners with bags over their heads, guards stepping on prisoners' backs as they did
 push-ups, guards sexually humiliating prisoners, and prisoners suffering from ex
 treme stress. Some of the visual images from my experiment are practically inter
@@ -1323,8 +1280,6 @@ intendent at that time in that special place. Although the research is widely kn
 from media sound bites and some of our research publications, the full story has
 never before been told. I will narrate the events as they unfold in first person, pres
 ent tense, re-creating the highlights of each day and night in chronological
-
-The Psychology of Evil
 
 sequence. After we consider the implications of the Stanford Prison Experiment—
 ethical, theoretical, and practical—we will expand the bases of the psychological
@@ -1373,8 +1328,6 @@ are capable of becoming a hero. My final argument introduces the concept of the
 "banality of heroism." I believe that any one of us is a potential hero, waiting for
 the right situational moment to make the decision to act to help others despite
 
-The Lucifer Effect
-
 personal risk and sacrifice. But we have far to travel before we get to that happy
 conclusion, so andiamo!
 
@@ -1387,8 +1340,6 @@ The world gave it the freedom of her house.
 —Rabindranath Tagore, Stray Birds22
 
 CHAPTER TWO
-
-Sunday's Surprise Arrests
 
 Little did this band of young strangers realize that Palo Alto's church bells were
 tolling for them, that their lives would soon be transformed in totally unexpected
@@ -1420,8 +1371,6 @@ land, the Black Panther Party is promoting black pride, backed by black power, t
 resist racist practices "by all means necessary." Prisons are becoming centers for
 recruiting a new breed of political prisoners, inspired by George Jackson, who is
 about to go on trial with his "Soledad Brothers" for the alleged murder of a prison
-
-The Lucifer Effect
 
 guard. The women's liberation movement is picking up steam, dedicated to end
 ing women's secondary citizenship and fostering new opportunities for them. The
@@ -1467,8 +1416,6 @@ well-dressed adults who, under other circumstances, might demand more police
 protection and less coddling of criminals and would "very definitely agree" with
 the opinion poll item about the necessity for more law and order. Contrary to ex
 pectation, only one of these acts was performed by kids simply delighting in the
-
-Sunday's Surprise Arrests
 
 joys of destruction. Even more surprising, all this destruction took place in broad
 daylight, so we had no need for our infrared film. Internalized anonymity needs
@@ -1516,8 +1463,6 @@ off when the city budget is in the red. At rare times, however, even the best of
 them can let authority rule over their humanity. That doesn't happen often in a
 place like Palo Alto, but it did in a curious way that forms the back story of how
 the Stanford Prison Experiment started off with a big bang.
-
-The Lucifer Effect
 
 TOWN-GOWN CONFRONTATIONS AT
 STANFORD AND BEYOND
@@ -1567,8 +1512,6 @@ cers, were hurt.
 Hard feelings arose between the Stanford college community, on the one side,
 and the Palo Alto police and hard-line, "hawk" townies, on the other. This was
 
-Sunday's Surprise Arrests
-
 a strange conflict because there had never been the same kind of love-hate,
 town-gown relationship that existed between the townies in New Haven and Yale
 University students that I had experienced as a graduate student.
@@ -1615,8 +1558,6 @@ DISASTER: MISSION ABOUT TO ABORT BEFORE TAKEOFF
 
 My mistake was not getting this confirmation in writing. Reality checks demand
 written documents (when an agreement is not filmed or taped). When I realized
-
-The Lucifer Effect
 
 this truth on Saturday and called the station for a confirmation, Chief Zurcher
 was already away for the weekend. Bad omen.
@@ -1665,8 +1606,6 @@ we would. We have a TV cameraman right here from Channel 4 all ready to film
 the arrests for tonight's evening news. It would have been good public relations
 for the department, but maybe the chief won't be too upset that you decided not
 to permit us to go ahead as planned."
-
-Sunday's Surprise Arrests
 
 "Look, I didn't say I was against it, it's only that I'm not sure any of our men
 
@@ -1717,8 +1656,6 @@ want him to see us or know exactly where he is headed. Craig, with my other as
 sistant, Curt Banks, and one of our guards, Vandy, will do the transport."
 
 "Sounds fine, Professor, Bob and I can handle it just fine, no problem."
-
-The Lucifer Effect
 
 NOW COMES THE MAIN STORY LINE9
 
@@ -1773,8 +1710,6 @@ pay the salaries myself."
 
 prisoner's role."
 
-Sunday's Surprise Arrests
-
 "How come? Seems like being a guard would be more fun and less hassle
 than being a prisoner, at least to me it does. Another thing is that fifteen bucks for
 twenty-four hours' work as a prisoner is peanuts. It's better pay for the guards if
@@ -1827,8 +1762,6 @@ Joe had hit the nail right on the head. Instantly I was into my college profes
 sor role, eager to profess to curious listeners: "I'm interested in discovering what
 it means psychologically to be a prisoner or a prison guard. What changes does a
 
-The Lucifer Effect
-
 person undergo in the process of adapting to that new role? Is it possible in the
 short time of only a few weeks to take on a new identity that is different from one's
 usual self?
@@ -1876,8 +1809,6 @@ stabbing each other or a guard smashing an inmate—we can't determine the
 extent to which the particular person or the particular situation is responsible.
 There are indeed some prisoners who are violent sociopaths, and there are
 some guards who are sadistic. But do their personalities account for all or even
-
-Sunday's Surprise Arrests
 
 most of what goes on in prison? I doubt it. We have to take the situation into ac
 count."
@@ -1932,8 +1863,6 @@ the kind the guard wore in the movie Cool Hand Luke, the kind that prevents any
 one from seeing your eyes. I grinned, as did Craig, knowing that all our guards
 would also be donning the same anonymity-inducing goggles as part of our at-
 
-The Lucifer Effect
-
 tempt to create a sense of deindividuation. Art, life, and research were beginning
 to merge.
 
@@ -1968,8 +1897,6 @@ and Hubbie's downstairs being arrested by a policeman!"
 
 "Hubbie Whittlow, you're wanted on a violation of Penal Code number 459,
 residential burglary. I'm going to take you to police headquarters for booking. Be-
-
-Sunday's Surprise Arrests
 
 fore I search and handcuff you, I must warn you of your rights as a citizen."
 (Mindful of the TV camera grinding away, recording for posterity this classic ar
@@ -2029,8 +1956,6 @@ Now it's the Whittlow boy who's committed a crime!"
 
 At the station, the booking procedure was dispatched with customary effi-
 
-The Lucifer Effect
-
 ciency, given the cooperativeness of the suspect. Officer Bob took charge of Hubbie while Joe discussed with us how this first arrest had gone. I thought it had
 taken a little too long, considering that there were eight more to go. However, the
 cameraman wanted it to move more slowly so he could get positioned better since
@@ -2076,8 +2001,6 @@ The next arrest scenario played itself out in a small Palo Alto apartment.
 your pants on, will you."
 
 "What d'ya mean, the police? What do they want with us? Look, Suzy, don't
-
-Sunday's Surprise Arrests
 
 get uptight, act cool, we haven't done anything they can prove. Let me do the talk
 ing to the pigs. I know my rights. The fascists can't push us around."
@@ -2134,8 +2057,6 @@ America.
 The booking officer ignored Doug's flippant comments as his height, weight,
 and fingerprints were efficiently recorded. He was all business. Joe easily rolled
 
-The Lucifer Effect
-
 each finger to get a clear set of fingerprints even when Doug tried to make his
 hand rigid. Doug was a bit surprised at how strong the pig was, or maybe he was
 just a little weak from hunger since he hadn't had any breakfast yet. Out of
@@ -2186,8 +2107,6 @@ weeks as a paid vacation.
 He had not been doing squats for long on the porch at 450 Kingsley Street,
 where he was waiting to start his stint in our experiment, before the squad car
 pulled up behind his '65 Chevy. At a distance was Haney's Fiat with the un-
-
-Sunday's Surprise Arrests
 
 daunted cameraman filming what was to be the last outside arrest. After this,
 he'd get more interior footage in the station, then over at our mock prison. Bill
@@ -2253,8 +2172,6 @@ folds so that the prisoners can reflect on their new look in the full-length mir
 propped against the wall. A Polaroid photo documents each prisoner's identity on
 an official booking form, where an ID number replaces "Name" on the form. The
 
-Let Sunday's Degradation Rituals Begin
-
 humiliation of being a prisoner has begun, much as it does in many institutions
 from military boot camps to prisons, hospitals, and low-level jobs.
 
@@ -2275,8 +2192,6 @@ outfitted, and made to join their fellows standing against the wall for indoctri
 tion. The guards are trying to be very serious. "Some of you prisoners already
 know the rules, but others of you have shown you don't know how to act, so you
 need to learn them." Each rule is read slowly, seriously, and authoritatively. The
-
-The Lucifer Effect
 
 prisoners are slouching, shuffling, gazing around this strange new world. "Stand
 up straight, number 7258. Hands at your sides, prisoners."
@@ -2328,8 +2243,6 @@ arrived just yesterday, in time for the guard orientation. Jaffe felt a little o
 loop, especially since Craig and Curt were graduate students, while he was only
 an undergraduate. Perhaps he also felt uneasy because he was the littlest one
 
-Let Sunday's Degradation Rituals Begin
-
 among our otherwise all six-foot-plus-tall staff. But he stiffens his spine and
 comes on as strong and serious.
 
@@ -2356,8 +2269,6 @@ The time has come to impose some formality on the situation by exposing to the
 new prisoners the set of rules that will govern their behavior for the next few
 weeks. With all the guards giving some input, Jaffe worked out these rules in an
 intense session yesterday at the end of the guard orientation.2
-
-The Lucifer Effect
 
 Guard Arnett talks it over with Warden Jaffe, and they decide that Arnett will
 read the full set of the rules aloud—his first step in dominating the day shift. He
@@ -2418,8 +2329,6 @@ prison are supreme.
 
 16. Prisoners must report all rule violations to the guards.
 
-Let Sunday's Degradation Rituals Begin
-
 "Last, but the most important, rule for you to remember at all times is num
 
 ber seventeen," adds Guard Arnett in an ominous warning:
@@ -2468,8 +2377,6 @@ quainted with their new cellmates. The cells, designed to emphasize the ambient
 anonymity of prison living conditions, are actually reconstructed small offices,
 ten by twelve feet in size. For the office furniture we substituted three cots, pushed
 together side by side. The cells are totally barren of any other furniture, except for
-
-The Lucifer Effect
 
 Cell 3, which has a sink and faucet, which we have turned off but which the
 guards can turn back on at will to reward designated good prisoners put into that
@@ -2520,8 +2427,6 @@ It takes a while for the guards to get into their roles. From the Guard Shift Re
 made at the end of each of the three different shifts, we learn that Guard Vandy
 feels uneasy, not sure what it takes to be a good guard, wishes he had been given
 
-Let Sunday's Degradation Rituals Begin
-
 some training, but thinks it is a mistake to be too nice to the prisoners. Guard
 Geoff Landry, kid brother of J. Landry, reports feeling guilty during the humiliat
 ing degradation rituals in which the prisoners had to stand naked for a long time
@@ -2568,8 +2473,6 @@ offices of the warden and the superintendent, each with his own sign printed on
 the door. There the day shift guards greet their new buddies, tell them that every
 thing is under control and everything is in place, but add that some prisoners are
 not yet fully with the program. They deserve watching, and pressure should be
-
-The Lucifer Effect
 
 applied to get them into line. "We're gonna do that just fine, you'll see a straight
 line when you come back tomorrow," boasts one of the newcomer guards.
@@ -2620,8 +2523,6 @@ counterparts would eventually escalate into tormenting experiences.
 
 "Okay, boys, now we are going to have a little count! Going to be a lot of fun,"
 
-Let Sunday's Degradation Rituals Begin
-
 Guard Hellmann tells them with a big grin. Guard Geoff Landry quickly adds,
 "The better you do it, the shorter it'll be." As the weary prisoners file out into the
 yard, they are silent and sullen, not looking at one another. It has already been a
@@ -2671,8 +2572,6 @@ ers count off by their prison ID numbers and not just their lineup numbers from
 one to nine, as they had been doing, which of course, made no official sense. Now
 Hellmann insists that they can't look at their numbers when they count since by
 
-The Lucifer Effect
-
 now they should have memorized them. If anyone of the prisoners gets his num
 ber wrong, the punishment is a dozen push-ups for everyone. Still competing with
 Landry for dominance in the guards' pecking order, Hellmann becomes ever more
@@ -2721,8 +2620,6 @@ your blankets." Landry tries to continue: "Wait, wait, hold it. Hands against th
 wall." But Hellmann will have none of that and, in a most authoritative fashion,
 ignores Landry's last order and dismisses the prisoners to get sheets and blankets,
 
-Let Sunday's Degradation Rituals Begin
-
 make their beds, and stay in their cells until further notice. Hellmann, who has
 taken charge of the keys, locks them in.
 
@@ -2770,8 +2667,6 @@ guards wishes to be a prisoner.
 Another rebellious prisoner, 819, showed his stuff in his letter to his family,
 asking them to come to Visiting Night. He signed it, 'All power to the oppressed
 
-The Lucifer Effect
-
 brothers, victory is inevitable. No kidding, I am as happy here as a prisoner can
 be!"9 While playing cards in their quarters, the night shift guards and the warden
 decide on a plan for the first count of the morning shift that will distress the pris
@@ -2816,8 +2711,6 @@ port prisoners from the County Jail to our jail, so he starts out rather tired. 
 Burdan, he sports a full head of long, sleek hair. The third guard, Mike Varnish, is
 built like an offensive lineman, sturdy and muscular but shorter than the other
 two. When the warden tells them that there will be a surprise wake-up notice to
-
-Let Sunday's Degradation Rituals Begin
 
 announce that their shift is at work, all three are delighted to start off with such
 a big bang.
@@ -2865,8 +2758,6 @@ morning shift's style be like?
 
 It is evident that it has taken a while for these students to take on their new
 
-The Lucifer Effect
-
 roles, and with considerable hesitation and some awkwardness. There is still a
 clear sense that it is an experiment on prison life and not really much like an ac
 tual prison. They may never transcend that psychological barrier of feeling as
@@ -2911,8 +2802,6 @@ gang-raped, and sometimes even killed. I made it clear that we couldn't physical
 abuse the "prisoners" in any way.
 
 I also made it evident that, despite these constraints, we wanted to create a
-
-Let Sunday's Degradation Rituals Begin
 
 psychological atmosphere that would capture some of the essential features char
 acteristic of many prisons I had learned about recently.
@@ -2959,8 +2848,6 @@ became evident to us that the behavior of the guards was as interesting as, or
 sometimes even more interesting than, that of the prisoners. Would we have got
 ten the same outcome without this orientation, had we allowed only the behav
 ioral context and role-playing to operate? As you will see, despite this biasing
-
-The Lucifer Effect
 
 guidance, the guards initially did little to enact the attitudes and behaviors that
 were needed to create such negative mind-sets in the prisoners. It took time for
@@ -3011,8 +2898,6 @@ Cell #3
 
 CHAPTER FOUR
 
-Monday's Prisoner Rebellion
-
 Monday, Monday, dreary and weary for all of us after a much too long first day
 and a seemingly endless night. But there go the shrill whistles again, rousing the
 prisoners from sleep promptly at 6 A.M. They drift out of their cells bleary-eyed,
@@ -3043,8 +2928,6 @@ funny, 819."
 
 Throughout, Guard Markus alternates with Ceros in reading the rules.
 Ceros: "Louder on that one! Prisoners must report all rule violations to the
-
-The Lucifer Effect
 
 guards." Prisoners are made to sing the rules, and after so many repetitions they
 have obviously learned all of them. Next come instructions regarding proper mili
@@ -3099,8 +2982,6 @@ Vandy.
 
 "You call that neat, 8612? It's a mess, remake it right." With that, he rips off
 
-Monday's Prisoner Rebellion
-
 the blanket and sheets and throws them on the floor. 8612 reflexively lunges at
 him, screaming, "You can't do that, I just made it!"
 
@@ -3150,8 +3031,6 @@ outside the building, and drag them through the underbrush until the blankets
 are covered with stickers or burrs. Unless prisoners don't mind being stuck by
 these sharp pins, they must spend an hour or more picking out each of them if
 they want to use their blankets. Prisoner 5704 goes ballistic, screaming at the
-
-The Lucifer Effect
 
 senseless stupidity of this chore. But that is exactly the point. Senseless, mindless
 arbitrary tasks are the necessary components of guard power. The guards want to
@@ -3206,8 +3085,6 @@ The ringleader of the revolt is Paul-5704, who got his buddies in Cell 1,
 
 Hubbie-7258 and Glenn-3401, to agree that it was time to react against the vio
 lation of the original contract they made with the authorities (me). They push
-
-Monday's Prisoner Rebellion
 
 6]
 
@@ -3270,8 +3147,6 @@ betrayed.
 
 "Cell 3, what's going on? We told you to barricade the doors!"
 
-The Lucifer Effect
-
 "What kind of solidarity is that? Was it the 'sergeant'? 'Sergeant' (2093), if it
 was your fault, that's all right because we all understand that you're impossible."
 
@@ -3327,8 +3202,6 @@ The guards now drag 1037 into solitary by the feet, putting him in a far cor
 ner of the hall closet that has become a makeshift second Hole. Meanwhile, 8612
 continues yelling for the prison superintendent: "Hey, Zimbardo, get your ass over
 
-Monday's Prisoner Rebellion
-
 6 3
 
 here!" I decide not to intervene at this point but to watch the confrontation and
@@ -3378,8 +3251,6 @@ is being stretched to two hours now for 1037, and also for occupant 8612.
 
 Meanwhile in Cell 1, two prisoners are quietly executing the first stage of
 their new escape plan. Paul-5704 will use his long fingernails, strengthened from
-
-The Lucifer Effect
 
 guitar picking, to loosen the screws in the faceplate of the power outlet. Once that
 is accomplished, they plan to use the edge of the plate as a screwdriver to unscrew
@@ -3431,8 +3302,6 @@ Arnett responds, "People out on the street don't have to have numbers! You
 
 have to have numbers because of your status here!"
 
-Monday's Prisoner Rebellion
-
 Landry gives specific instructions about how to sing their scales: sing up a
 scale, like "do re mi." All of the prisoners conform and sing the ascending scale to
 the best of their ability, then the descending scale, except for 819, who doesn't at
@@ -3481,8 +3350,6 @@ three prisoners naked, take away their beds, and threaten to deprive them of din
 ner if they show any further disobedience. Already hungry from missing lunch,
 the prisoners melt into a sullen, quiet blob.
 
-The Lucifer Effect
-
 The Stanford County Jail Prisoners' Grievance Committee
 
 Realizing that the situation is becoming volatile, I have the warden announce
@@ -3507,8 +3374,6 @@ Behind my silver reflecting sunglasses, I slip into the superintendent role
 automatically. I start out by saying I am sure we can resolve any disagreements
 amicably, to our mutual satisfaction. I note that this Grievance Committee is a fine
 first step in that direction. I am willing to work directly with them as long as they
-
-Monday's Prisoner Rebellion
 
 represent the will of all the others. "But you have to understand that a lot of the
 guards' hassling and physical actions have been induced by your bad behavior.
@@ -3558,8 +3423,6 @@ teen years there, as well as time served at Folsom and Vacaville Prisons, mostly
 for convictions on armed robbery felonies. I had met him a few months before
 during one of the course projects that my social psychology students organized
 around the theme of individuals in institutional settings. Carlo had been invited
-
-The Lucifer Effect
 
 by one of the students to give the class an insider's view of the realities of
 prison life.
@@ -3613,8 +3476,6 @@ yelling at you? Is that what you mean by 'hassling'? Don't interrupt me. And
 you're crying about being put in that closet for a few hours? Let me straighten you
 out, white boy. You would not last a day at San Quentin. We would all smell your
 
-Monday's Prisoner Rebellion
-
 fear and weakness. The guards would be banging you upside your head, and be
 fore they put you in their real solitary concrete barren pit that I endured for weeks
 at a time, they'd throw you to us. Snuffy, or some other bad gang boss, would've
@@ -3664,8 +3525,6 @@ the lowest form of animal life and is often kept in solitary by the authorities 
 cause if his informer role became known, he would be murdered. Later, Carlo and
 I retreat to Ricky's restaurant, where I try to put this ugly image behind me for a
 short time while enjoying Carlo's new stories over a plate of lasagna.
-
-The Lucifer Effect
 
 The Prisoner Tells Everyone That No One Can Quit
 
@@ -3720,8 +3579,6 @@ sertion: "He said you can't get out. You felt like you were really a prisoner. M
 you were a prisoner in Zimbardo's experiment and maybe you were getting paid
 for it, but damn it, you were a prisoner. You were really a prisoner."10
 
-Monday's Prisoner Rebellion
-
 He begins to fantasize some worst-case scenarios: "The thought that we had
 signed our lives away for two weeks, body and soul, was exceptionally frightening.
 The actual belief that 'we are really prisoners' was real—one couldn't escape
@@ -3771,8 +3628,6 @@ quest. It's somebody's birthday tonight. Can we sing 'Happy Birthday'?"
 
 Before Landry can answer, Hellmann replies from the background, "We'll
 
-The Lucifer Effect
-
 sing 'Happy Birthday' at lineup. Now it is dinner time, three at a time." The pris
 oners now sit around a table laid out in the middle of the yard to eat their skimpy
 dinner. No talking allowed.
@@ -3820,8 +3675,6 @@ assertive, as if to stand in for former rebel leader Doug-8612. "You don't look 
 happy, 5704," Landry says, as Hellmann starts running his club against the bars
 of the cell door, making a loud clanging sound. Burdan adds, "You think they'd
 like that [the loud bar clanging] after lights out, maybe tonight?"
-
-Monday's Prisoner Rebellion
 
 5704 attempts a joke, but the guards are not laughing, although some of the
 prisoners are. Landry says, "Oh, that's good, that's real good. Keep it up, really.
@@ -3878,8 +3731,6 @@ Landry hands Hellman some blankets coated with a new collection of stick
 ers. "Oh, isn't that a beauty?" He continues his monologue: "Just look at that
 blanket, ladies and gentleman! Look at that blanket! Isn't that a masterpiece? I
 
-The Lucifer Effect
-
 want you to take each and every one of those stickers out of that blanket, because
 that's what you're gonna have to sleep on." A prisoner tells him, "We'll just sleep
 on the floor," to which Landry replies simply, "Suit yourself, suit yourself."
@@ -3933,8 +3784,6 @@ What are you smiling about?" His sidekick, Burdan, chimes in, 'Are you smiling,
 person smile it's going to be jumping jacks for everyone for a long time!" Hell
 mann assures them.
 
-Monday's Prisoner Rebellion
-
 Picking up on the prisoners' need to lighten their grim surroundings, Hellmann tells Burdan a joke for the benefit of the grim prisoners: "Officer, did you
 hear the one about the dog with no legs? Every night, his owner would take him
 out for a drag." He and Burdan laugh but note that the prisoners do not laugh.
@@ -3985,8 +3834,6 @@ to work. "Do you feel like having a pillow? Why should I give you a pillow if yo
 didn't feel like working?" "Good karma," answers 5704, feeling a bit playful.
 
 "I'll ask you again, why should I give you a pillow?"
-
-The Lucifer Effect
 
 "Because I'm asking you to, Mr. Correctional Officer."
 "But you didn't get to work until ten minutes after everyone else did,"
@@ -4041,8 +3888,6 @@ once a year." This prisoner-initiated break in routine to share some positive fe
 ings among themselves is turned into another occasion of learning routinized
 dominance and submission.
 
-Monday's Prisoner Rebellion
-
 The Final Breakdown and Release of 8612
 
 After lights out, and after Doug-8612 is finally turned out of solitary for the nth
@@ -4095,8 +3940,6 @@ us had expected any of the participants to be even by the end of 2 weeks. So
 I decided to release Prisoner 8612, going with the ethical/humanitarian
 decision over the experimental one.13
 
-The Lucifer Effect
-
 Craig contacted 8612's girlfriend, who quickly came by and collected him
 and his belongings. Craig reminded the two of them that if this distress contin
 ued, he could visit Student Health in the morning because we had arranged for
@@ -4145,8 +3988,6 @@ Shortly after 8612 was terminated, one of the guards overheard the prison
 ers in Cell 2 discussing a plot in which Doug would return the next day with a
 band of his buddies to trash our prison and liberate the prisoners. It sounded to
 me like a far-fetched rumor until a guard reported seeing 8612 sneaking around
-
-Monday's Prisoner Rebellion
 
 the hallways of the Psychology Department the next morning. I ordered the
 guards to capture him and return him to the prison since he had probably been
@@ -4220,8 +4061,6 @@ up the boss with firm, no-nonsense orders.
 The prisoners are all about the same average height, about five-eight to fiveten, except for Glenn-3401, who is the shortest of all, around five-two, and tall
 Paul-5 704, who is tallest at maybe six feet two. Interestingly, 5704 is moving into
 
-The Lucifer Effect
-
 the leadership position among the prisoners. He appears more self-confident
 lately and assured in his rebelliousness. His mates have noticed this change in
 him, as was evidenced by their electing him spokesperson for the Stanford County
@@ -4270,8 +4109,6 @@ this next shift? He walks around with his hands in his pockets, more like an uni
 ing to hang around after a long, tedious night? They should be on their way to bed
 now. Their presence is causing confusion and uncertainty about who should be
 giving orders. The counts follow the same formerly clever routines that are now
-
-Tuesday's Double Trouble
 
 becoming tedious: by twos, by ID numbers, backward, and singsong variations.
 Hellmann, having decided that this is not his cup of tea, says nothing, watches for
@@ -4324,8 +4161,6 @@ cept for Geoff L., whose continued presence makes no sense at all. As Varnish
 leads the prisoners in reciting the rules, Vandy, Ceros, and Burdan move into and
 out of the cells, in and around the prisoners, looking for the missing handcuff
 keys, weapons, or anything suspicious.
-
-The Lucifer Effect
 
 Ceros forces Sarge out of line and forces him to stand with his hands against
 the opposite wall, legs spread, as he blindfolds him. He then handcuffs Sarge, or
@@ -4382,8 +4217,6 @@ any more. Varnish relents and allows the prisoners to stand up against the wall.
 unable to find your stocking cap, put a towel on your head.
 
 "819, what kind of a day was it?"
-
-Tuesday's Double Trouble
 
 "A wonderful day, Mr. Correctional Officer."
 "Okay, make your beds, without any wrinkles whatsoever, then sit on them."
@@ -4442,8 +4275,6 @@ cheerleader style, each prisoner cheering his number:
 and down the line, each prisoner steps forward to give this cheerleader rendition
 of his number. And on and on and . ..
 
-The Lucifer Effect
-
 Identity and Role Boundaries Are Becoming Permeable
 
 After less than three days into this bizarre situation, some of the students roleplaying prison guards have moved far beyond mere playacting. They have inter
@@ -4488,8 +4319,6 @@ Blaming the victims for their sorry condition—created by our failure to pro
 vide adequate shower and sanitation facilities—became common among the
 staff. We see this victim blame in operation as Vandy complains, "I got tired of see
 ing the prisoners in rags, smelling bad, and the prison stink."4
-
-Tuesday's Double Trouble
 
 SAFEGUARDING THE SECURITY OF MY INSTITUTION
 
@@ -4539,8 +4368,6 @@ Shortly after my celebratory staff briefing about our transfer plans, a dis
 heartening call comes in from the Police Department: No go! The city manager is
 worried about getting sued if someone gets hurt while they are on the city prop-
 
-The Lucifer Effect
-
 erty. Issues of false imprisonment are also raised. I beg the sergeant to allow me to
 try to persuade the city manager that his fears were unwarranted. I urge institu
 tional cooperation, reminding him of my connection with Chief Zurcher. I plead
@@ -4588,8 +4415,6 @@ staff offices on some pretext so he can spill the beans.
 Dave quickly discovers the guards' new doctrine, which one of them makes
 explicit: "Good prisoners will have no cares, troublemakers will have no peace."
 Most of the prisoners are in the process of deciding that it does not make sense to
-
-Tuesday's Double Trouble
 
 accept their prisoner role in its most contentious form by constantly opposing the
 guards. They are beginning to accept their fate and to cope day by day with what
@@ -4641,8 +4466,6 @@ two days in our jail, he was no different from the others, "with the exception t
 I had knowledge of when I would get out, but even that knowledge became less
 and less certain since I was depending on people on the outside to get me out. I al-
 
-The Lucifer Effect
-
 ready hated this situation." And at the end of his first day in the Stanford County
 Jail, David, the informer, tells us, "I fell asleep that night feeling dirty, guilty,
 scared."
@@ -4690,8 +4513,6 @@ The Prisoners Make Contact with the Outside World
 
 The prisoners' first letters were invitations to potential visitors, some of whom
 would be coming by tonight, on this, the third day of the experiment. The second
-
-Tuesday's Double Trouble
 
 round of letters could be to visitors invited for the next visitor night or to any
 friend or family member who was too far away to visit. After the prisoners com
@@ -4744,8 +4565,6 @@ ley Barb [alternative free radical newspapers] to carry the story when I get out
 have gotten together a grievance committee of which I am chairman. Tomorrow
 I am organizing a Credit Union for our collective wages." He goes on to describe
 
-The Lucifer Effect
-
 that he is benefiting from this experience: "I am learning a lot about revolution
 ary incarceration tactics. Guards accomplish nothing because you just can't keep
 the old freak morale down. Most of us here are freaks and I don't really think any
@@ -4792,8 +4611,6 @@ create the appearance to parents of a well-oiled, benevolent system that is taki
 good care of their children while we are in charge of them. He makes it clear,
 however, that we must convince these middle-class, white parents to believe in
 the good we are doing with the study and, like their sons, make them comply with
-
-Tuesday's Double Trouble
 
 9 3
 
@@ -4847,8 +4664,6 @@ inmate he or she will visit. Susie informs them of the procedure that must be fo
 lowed tonight. First, each visitor or group sees the warden for a briefing, after
 which they can go into the prison when their relative or friend has finished his
 dinner. On the way out, they are to meet with the superintendent to discuss any
-
-The Lucifer Effect
 
 concerns they may have or to share their reactions. They agree to these terms and
 then sit and wait while they listen to music piped in over the intercom.
@@ -4905,8 +4720,6 @@ over 819 as this little familial triad pretends to ignore him and carry on a nor
 conversation. However, 819 knows that he has no chance to say anything bad
 about the prison or he will suffer later. His parents cut their visit short to only five
 
-Tuesday's Double Trouble
-
 minutes so that 819's brother and sister can share some of the limited visiting.
 They shake hands again as they say their good-byes.
 
@@ -4962,8 +4775,6 @@ leges.
 The guards all perk up when they spy Hubbie-7258's attractive girlfriend
 enter the yard. She is carrying a box of cupcakes, which she wisely shares with
 
-The Lucifer Effect
-
 them. The guards eagerly munch them down, making hearty sounds for the bene
 fit of their captives. 7258 is allowed to eat one cupcake while he and his girl get
 into an animated conversation. They seem to be trying hard to be oblivious of the
@@ -5018,8 +4829,6 @@ none have escaped. Doesn't that make sense to you?"
 
 "Yes, but I'm not sure that—"
 
-Tuesday's Double Trouble
-
 She is still primed to make trouble, so I move on to another more potent tac
 tic and engage Dad, who has been silent. Looking him straight in the eye, I put his
 masculine pride at risk.
@@ -5070,8 +4879,6 @@ threat was not over! Now it was time to swing into counterinsurgency mode. Our
 plan was for some guards to dismantle the jail props, to give the appearance of dis
 array. Other guards would chain the prisoners' legs together, put bags over their
 
-The Lucifer Effect
-
 heads, and escort them in the elevator from our basement to a rarely used, large
 fifth-floor storage room, safe from invasion. When the conspirators charged in to
 liberate the jail, I would be sitting there all alone and would tell them that the ex
@@ -5119,8 +4926,6 @@ We resurrected the prison props and then moved the prisoners back down
 from the hot, stuffy windowless storage room where they had been stored for
 three mindless hours. What humiliation I suffered. Craig, Curt, Dave, and I could
 
-Tuesday's Double Trouble
-
 barely make eye contact for the rest of that evening. We tacitly agreed to keep it all
 to ourselves and not declare it "Dr. Z's Folly."
 
@@ -5152,8 +4957,6 @@ prisoners who were going to pay the price for our failure and embarrassment.
 
 CHAPTER SIX
 
-Wednesday Is Spiraling Out of Control
-
 On this fourth day of the experiment, I am looking forward to a less frenetic time
 than Tuesday's endless troubles had created. Our daily schedule seems filled with
 enough interesting events to contain the volatility that has been bursting the
@@ -5181,8 +4984,6 @@ A PRIESTLY PUZZLE
 Father McDermott is a big man, about six feet, two inches tall. He is slim and trim;
 looks as if he does regular gym time. His receding hairline gives his face more ter
 ritory to show off his big smile, finely crafted nose, and ruddy complexion. He
-
-Wednesday Is Spiraling Out of Control
 
 stands straight, sits erect, and has a good sense of humor. McDermott is an Irish
 Catholic priest in his late forties who has had experience as a pastoral counselor
@@ -5232,8 +5033,6 @@ spond with their names; the rest just give him their numbers instead of their
 names. Curiously, the priest does not flinch; I am very surprised. Socialization into
 the prisoner role is clearly taking effect.
 "What are you charged with?"
-
-The Lucifer Effect
 
 "Burglary" or "armed robbery" or "breaking and entering" or "459 Code
 
@@ -5299,8 +5098,6 @@ Prisoner Paul-5704 slickly exploits this opportunity to bum a cigarette from
 the priest, knowing that he is not allowed to smoke. As he lights up and takes a
 deep puff, he gives me a shit-eating grin and a big "victory" sign—his nonverbal
 
-Wednesday Is Spiraling Out of Control
-
 "Gotcha." The head of the Grievance Committee is making the most of this pleas
 ant respite from the prison routine. I expect him next to ask for another smoke for
 later. However, I notice that Guard Arnett is duly taking note of this affront and
@@ -5352,8 +5149,6 @@ I take this as a vote of confidence, register his homily for the day, but am no
 less confused.
 
 Prisoner Stew-819 is looking terrible, to say the least: dark circles under his
-
-The Lucifer Effect
 
 eyes, uncombed hair going in every direction but down. This morning, Stew-819
 did a bad thing: In a rage, he messed up his cell, tearing open the pillow and
@@ -5408,8 +5203,6 @@ study is working like a real prison and specifically that he is seeing the typic
 "first-offender syndrome"—one filled with confusion, irritability, rage, depres
 sion, and overemotionalization. He assures me that such reactions change after a
 
-Wednesday Is Spiraling Out of Control
-
 week or so because it does not aid a prisoner's survival to be so effeminate. He
 adds that he thinks this situation is more real for 819 than the boy is willing to
 admit. We agree that he needs counseling. I note that although 819's lips were
@@ -5463,8 +5256,6 @@ Arnett: "He's being punished. From the top, 3401."
 3401 repeats the mantra, as 1037 adds even louder, "Prisoner 819 is being
 
 punished, Mr. Correctional Officer."
-
-The Lucifer Effect
 
 1037 and each of the other prisoners is asked the same question in turn, and
 
@@ -5528,8 +5319,6 @@ Mr. Correctional Officer."
 
 The precise unison of the prisoners would be the envy of any choirmaster or
 
-Wednesday Is Spiraling Out of Control
-
 Hitler Youth rally leader, I think to myself. Moreover, how far have they—or we—
 come since Sunday's giggling counts and the playful antics of the new prisoners?
 
@@ -5556,8 +5345,6 @@ eyes. He looks like a small child awakening from a nightmare, assured by his par
 ent that it is not a real monster and that everything will be fine once he fully ac
 cepts that truth. "Ok, Stew, let's go." (I have broken through his illusion, but mine
 is still clinging on.)
-
-The Lucifer Effect
 
 On the way to getting his civilian clothes and mustering Stew out of service,
 I recall that his day started out with a lot of trouble that set the stage for this emo
@@ -5608,8 +5395,6 @@ some occasions. At these times, I was not as tough as I should have been."3
 tally at the mercy of other people who are trying to make things as difficult and
 unenjoyable for you as possible," Stew-819 later told me. "I simply can't stand
 
-Wednesday Is Spiraling Out of Control
-
 being abused by other people. I developed a strong resentment of the fascist
 guards and a strong liking for the compassionate ones. I was pleased with the re
 belliousness of some prisoners and angered at the complacency and total obedi
@@ -5656,8 +5441,6 @@ to keep their arms lifted in collective punishment for 819's mess-up. Their arms
 dropped down eventually, but from fatigue, not disobedience. David's frustrations
 at not being an effective labor organizer are evident in his report to us:
 
-The Lucifer Effect
-
 Communication lines are severely limited when everybody's screaming so
 loudly, you can't stop it. But during silent periods I try to talk with my cell
 mates, but 819 is always in the Hole, and the other guy, 4325 [Jim] is a
@@ -5703,8 +5486,6 @@ waiting, a guard came out and after I told him my name, he immediately
 handcuffed me, put a paper bag over my head, brought me down a flight of
 stairs and I had to stand for a while with my hands on the wall, spread ea-
 
-Wednesday Is Spiraling Out of Control
-
 gled. I had no idea what was going on. I think that I accepted being miser
 able, but it was much worse than I had expected. I didn't expect to come in
 and right off be stripped and deloused and struck on my legs with a baton.
@@ -5749,8 +5530,6 @@ Boy Scout merit badge for knot tying. He whistles the "Blue Danube Waltz" as he
 rings the rope around the bars of one cell and back to the other cell to prevent
 either from being opened from inside. Arnett whistles well. John Landry comes
 into view, using his billy club to twist the rope taut. The two guards smile approv-
-
-The Lucifer Effect
 
 ingly at each other for a job well done. Now no one can go in to or out of those two
 cells until the guards have figured out how to fix that defective lock, which 5 704
@@ -5808,8 +5587,6 @@ once was blind, but now I see, in the first hour since God, I'm free.' "
 
 Arnett resists the correction about "in the first hour since God" that Paul-
 
-Wednesday Is Spiraling Out of Control
-
 5704 offers him from the floor. "That's the way you're going to do it. That line
 might not be exactly it, but that's the way you're going to do it." Then he inex
 plicably changes the last line to "since the first hour I've seen God, I'm free."
@@ -5860,8 +5637,6 @@ Sometime this afternoon we had a visit from the TV cameraman from local San
 Francisco station KRON. He was sent down to do a brief follow-up on his Sunday
 shoot, which had sparked some interest at the station. I restricted him to shooting
 
-The Lucifer Effect
-
 from behind our observation window and to talking only with the warden and me
 about the progress of the study. I did not want to have external interference upset
 ting the dynamic that was emerging between the prisoners and the guards. I
@@ -5909,8 +5684,6 @@ the vaguest possibility of it. And this was a real prison, run by psycholo
 gists and not by the State. I met this challenge by going on a hunger strike,
 to refuse to eat anything, to get sick and they would have to release 416.
 That is the plan that I stuck to no matter what the consequences.8
-
-Wednesday Is Spiraling Out of Control
 
 At dinner, although he was now very hungry, 416 followed his plan to refuse
 
@@ -5970,8 +5743,6 @@ substance:
 
 treatment and contract violations.
 
-The Lucifer Effect
-
 "What the hell has that got to do with the sausages? Well, what?" Burdan is
 furious and slams his club down on the table with such a resounding thud that it
 echoes around the Yard walls in menacing reverberations.
@@ -6021,8 +5792,6 @@ A few of them obey, but not Sarge. As a matter of principle, Sarge refuses to
 use any obscenity. Now, with two of them defying Hellmann at the same time,
 Hellman turns his wrath against Sarge, harassing him mercilessly, yelling at him
 that he is an "asshole" and, worse, insisting that he call 416 a "bastard."
-
-Wednesday Is Spiraling Out of Control
 
 The harsh count continues unabated for an hour, stopping only when visi
 tors are at the door. I come on the Yard and make it clear to the guards that visit
@@ -6076,8 +5845,6 @@ Dad: "Well, I think that they do, maybe . . ." (We can't hear clearly his argu
 
 ment to Burdan, who is not afraid of this civilian.)
 
-The Lucifer Effect
-
 Burdan: "People in prison have no civil rights."
 Dad (exasperated): "Anyway, how long do we have to talk here?"
 "Only ten minutes," Burdan replies.
@@ -6130,8 +5897,6 @@ it like a hat. The prisoner answers meekly that he is simply following orders. H
 looks dejected; all of the old spunk seems to have drained away from 5704. Bur
 dan tells him not to look so stupid and to put the chair away. Then Burdan bangs
 on the Hole door with his club. "You having a good time in there, 416?"
-
-Wednesday Is Spiraling Out of Control
 
 It is time for Hellmann to take over as director of tonight's drama. He literally
 moves Burdan aside. (No sight of Good Guard Geoff Landry on the Yard following
@@ -6195,8 +5960,6 @@ groans.
 
 The homoerotic game is having a perverse impact on Hellmann.
 
-The Lucifer Effect
-
 "That's the way dogs do it, isn't it? Isn't that the way dogs do it? He's all ready,
 
 ain't he, standing behind you, doggy style? Why don't you make like a dog?"
@@ -6255,8 +6018,6 @@ Hellmann scoffs and turns away, only to spin about and turn on a new vic
 tim. As he opens the door to the Hole, Hellmann, like a carnival pitchman, shouts,
 "I got something right here for everyone. Why don't you take a look at this man?
 416, don't you go anywhere!"
-
-Wednesday Is Spiraling Out of Control
 
 416 blinks out of the darkness at the assembled prisoners and guards who
 
@@ -6323,8 +6084,6 @@ Hellmann is steaming. He paces a few steps away and then turns back toward
 Sarge, as though he were going to whack him for his insubordination in front of
 this entire audience.
 
-The Lucifer Effect
-
 Good Guard Geoff Landry sensing the eruption, offers a compromise: "Go
 
 over and say you're gonna kick him in the end, then."
@@ -6386,8 +6145,6 @@ torious subordination: "Are you a bastard?"
 "If you say so, Mr. Correctional Officer."
 "If I say so? I want you to say it."
 
-Wednesday Is Spiraling Out of Control
-
 Sarge is steadfast: "I'm sorry sir, I object to the use of the language, Sir. I can
 
 not say it."
@@ -6442,8 +6199,6 @@ They all say, "Yes, sir!"
 Hellmann: "Well, I think we gonna wait a little bit, to let 2093 think about
 just what a bastard he is. And then maybe he'll tell the rest of us that he thinks so."
 (This is an unexpected power struggle between the most controlling, powerhungry guard and the prisoner who until now has been a totally obedient pris-
-
-The Lucifer Effect
 
 oner, so much so that he is ridiculed as "Sarge," whom most prisoners and guards
 dislike as they all have considered him to be nothing more than a military robot.
@@ -6502,8 +6257,6 @@ Sarge is emerging as a man of considerable principle, not the blindly obedient
 toady he initially seemed to be. Later, he tells us something interesting about the
 mind-set he adopted as a prisoner in this setting:
 
-Wednesday Is Spiraling Out of Control
-
 When I entered the prison I determined to be myself as closely as I know
 myself. My philosophy of prison was not to cause or add to the deteriora
 tion of character on the part of fellow prisoners or myself, and to avoid
@@ -6555,8 +6308,6 @@ Landry awakening from his dormant state adds, "We told him to do push
 ups."
 
 Hellmann is screaming: "Are those push-ups, 5486?"
-
-The Lucifer Effect
 
 The prisoner answers, "I guess so, Mr. Correctional Officer."
 "No way. They are not push-ups."
@@ -6616,8 +6367,6 @@ Getting close to his face, Hellmann goes back to attacking Sarge: "You think
 
 you're a self-righteous, pious asshole?"
 
-Wednesday Is Spiraling Out of Control
-
 Sarge replies: "If you wish to think so."
 "Well, think about that. You are a self-righteous, pious asshole."
 We are back on the not so merry-go-round, with Sarge replying "I will be one
@@ -6673,8 +6422,6 @@ They do so, one by one, banging on the door, as they recite, "Thank you,
 416!" As they do, a loud, resonating noise booms through the Hole, to further ter
 rify pitiable 416, alone in there.
 
-The Lucifer Effect
-
 Burdan: "That's the way, with real spirit."
 (It's difficult to determine the extent to which the other prisoners are angry
 with 416 for causing them all this unnecessary grief, or are just following orders,
@@ -6724,8 +6471,6 @@ continue with showtime.
 "Now, there are several ways to do this, depending on what you want to do.
 Now, if 416 does not want to eat his sausages, then you can give me your blankets
 
-Wednesday Is Spiraling Out of Control
-
 and sleep on the bare mattress. Or you can keep your blankets and 416 will stay
 in there another day. Now what will it be?"
 
@@ -6764,8 +6509,6 @@ a hard day's night for these guards, but they can now enjoy the sweet taste of v
 tory in this battle of wills and wits.
 
 CHAPTER SEVEN
-
-The Power to Parole
 
 Technically speaking, our Stanford Prison was more like a county jail filled with
 
@@ -6821,8 +6564,6 @@ who had been in their place pleading for parole?
 
 The Parole Board hearings were held on the first floor of Stanford's Psy-
 
-The Power to Parole
-
 chology Department, in my laboratory, a carpeted, large room that included pro
 visions for hidden videotaping and observation from behind a specially designed
 one-way window. The four members of the Board sat around a six-sided table.
@@ -6842,8 +6583,6 @@ they deserved parole at this time. Some of the others would have a hearing an
 other day. However, the guards insisted that Prisoner 416 not be granted such op
 portunity because of his persistent violation of Rule 2, "Prisoners must eat at
 mealtimes and only at mealtimes."
-
-The Lucifer Effect
 
 A CHANCE TO REGAIN FREEDOM
 
@@ -6893,8 +6632,6 @@ assertiveness is receding in the wake of Carlo's dominating demeanor.)
 Carlo Prescott: "In that case, you've just verified that there must be some
 
 thing to what they say."
-
-The Power to Parole
 
 4325: "Well, obviously there must be something to what they say if they
 
@@ -6954,8 +6691,6 @@ past.)
 
 After a few more questions from other Board members, Prescott asks the cor-
 
-The Lucifer Effect
-
 rectional officer to take the inmate back to his cell. The prisoner stands and
 thanks the board. He then automatically extends his arms, palms facing each
 other, as the attending guard locks on the handcuffs. Jim-4325 is escorted out, rebagged, and made to sit in silence in the hallway while the next prisoner has his
@@ -7005,8 +6740,6 @@ Signed by Guard John Landry.
 
 Prisoner 3401 is then brought in with the paper bag still over his head,
 which Carlo wants removed so he can see the face of this "little punk." He and the
-
-The Power to Parole
 
 other board members react with surprise when they discover that 3401, Glenn, is
 Asian American, the only non-Caucasian in the mix. Glenn is playing against
@@ -7059,8 +6792,6 @@ doctor, whether he has gone on sick call or done anything constructive to take
 care of his problem. When the prisoner says that he has not, Carlo reminds him
 that this is a parole board and not a medical board, and then dismisses his con-
 
-The Lucifer Effect
-
 cern: "We try to find some reason to parole any man who comes in, and once you
 come into this particular prison it's up to you to maintain a record, a kind of de
 meanor which indicates to us that you can make an adjustment to society.... I
@@ -7106,8 +6837,6 @@ member of the correctional staff is only interested in the well-being of my
 self and the other prisoners. Despite my horrible disrespect for them and
 their wishes, the prison staff has treated and is treating me well. I deeply
 respect their ability to turn the other cheek and I believe that because of
-
-The Power to Parole
 
 their own goodness I have been rehabilitated and transformed into a better
 human being. Sincerely, 1037.
@@ -7157,8 +6886,6 @@ Prisoner 1037 is not prepared for this personal attack on his character. He
 mumbles an incoherent explanation for being able to "walk away" from a situa
 tion that might tempt him to behave violently. He goes on to say that this prison
 
-The Lucifer Effect
-
 experience has helped him: "Well, I've gotten to see a lot of people's different reac
 tions to different situations, how they handled themselves with respect to other
 people, such as speaking with various cellmates, their reactions to the same situa
@@ -7207,8 +6934,6 @@ My first reason for parole is that my woman is going away on vacation
 very soon and I would like to see her a little bit more before she goes, see
 ing that when she gets back is just about the same time I leave for college.
 If I get back only after the full two weeks here, I will only see her for a total
-
-The Power to Parole
 
 time of one-half hour. Here we can't say good-bye and talk, with the cor
 rectional officer and the chaperone, the way we'd like to. Another reason
@@ -7264,8 +6989,6 @@ glary; Curt nods "first."
 
 "First, huh, just as I thought." It is time to teach this Young Turk some of
 
-The Lucifer Effect
-
 life's lessons, starting with reminding him of what happens to prisoners who are
 caught in an escape attempt. You're eighteen years old, and look what you've
 done with your life! You sit here in front of us and tell us that you'd even be will
@@ -7317,8 +7040,6 @@ of the rhetorical frame in which this question is put. Recall that the primary m
 tivation of virtually all the volunteers was financial, the chance to make fifteen
 dollars a day for up to two weeks at a time when they had no other source of in-
 
-The Power to Parole
-
 come, just before school was to start in the fall. Now, despite all their suffering as
 prisoners, despite the physical and psychological abuse they have
 
@@ -7369,8 +7090,6 @@ stone. To me, he was like a stone."
 
 In summation, Prescott offers the following advice: "I join the rest of the
 
-The Lucifer Effect
-
 group and propose letting a couple of prisoners out at different times, to try to get
 the prisoners trying to figure out what they have to begin to do in order to get out.
 Also, releasing a few prisoners soon would give some hope to the rest of them, and
@@ -7419,8 +7138,6 @@ compliantly, into their highly structured roles in our prison. They refer to the
 selves by their identification numbers and answer immediately to questions put to
 their anonymous identities. They answer what should be ridiculous questions
 
-The Power to Parole
-
 with full seriousness, for example inquiries into the nature of their crimes and
 their rehabilitation efforts. With few exceptions, they have become completely
 subservient to the authority of the Parole Board as well as to the domination of
@@ -7466,8 +7183,6 @@ files are not even his but are those of the next prisoner in line, and reading t
 now will save time. If you are asked questions about your conviction or anything
 negative in your rap sheet, you know immediately that parole will be delayed for
 at least another year because defending the past prevents you from envisioning
-
-The Lucifer Effect
 
 anything positive in your future. Carlo's tales enlightened me about the kind of
 rage that such arbitrary indifference generates in the vast majority of prisoners
@@ -7517,8 +7232,6 @@ Similarly, history is filled with accounts showing that many of those escaping r
 ligious persecution show intolerance of people of other religions once they are
 safe and secure in their new power domain.
 
-The Power to Parole
-
 Back to Brown-Eyed Carlo
 
 This is a long side trip around the issue surrounding my colleague's dramatic
@@ -7561,8 +7274,6 @@ our Ampex video recorder. Another variation from yesterday is that we do not
 have the prisoners sit around the same table with the Board but separately in high
 chairs, on a pedestal, so to speak—all the better to observe them as in police detec
 tive interrogations.
-
-The Lucifer Effect
 
 A Hunger Striker Strikes Out
 
@@ -7614,8 +7325,6 @@ Finally, when asked the loaded question—Would he be willing to forfeit all
 the money he has earned as a prisoner if a parole were granted?—416 immedi
 ately and defiantly replies, "Yes, of course. Because I don't feel that the money is
 worth the time."
-
-The Power to Parole
 
 Carlo has had enough of him. "Take him away." 416 then does exactly what
 the others before him have done like automatons; without instruction he stands
@@ -7669,8 +7378,6 @@ ther, it was this same 5704 who had volunteered for this experiment under false
 pretenses. He signed up with the intention of being a spy who was going to expose
 this research in articles he planned to write for several alternative, liberal, "un-
 
-The Lucifer Effect
-
 derground" newspapers, on the assumption that this experiment was no more
 than a government-supported project for learning how to deal with political dissi
 dents. Where had all that former bravado gone? Why had he suddenly become in
@@ -7723,8 +7430,6 @@ But Arnett does not let up. He reads his report to the Board: "5486 has been
 on a gradual downhill slide . .. he has become something of a jokester and minor
 cutup."
 
-The Power to Parole
-
 "You find that funny?" Carlo challenges him.
 "Everybody [in the room] was smiling. I wasn't smiling till they smiled,"
 
@@ -7775,8 +7480,6 @@ quested parole the first time only if not enough other prisoners requested it." 
 felt that other prisoners were having a harder time in the prison than he was, and
 he didn't want his request to be placed above another's. Carlo gently rebukes him
 for this show of shining nobility, which he thinks is a crass attempt to influence
-
-The Lucifer Effect
 
 the Board's judgment. Sarge's show of surprise makes it evident that he meant
 what he said and was not attempting to impress the Board or anyone else.
@@ -7832,8 +7535,6 @@ Prescott is clearly upset at this display. He tells 5486 that if the Board were
 going to make any recommendations, "I would see to it personally that you were
 here until the last day. Nothing against you personally, but we're here to protect
 
-The Power to Parole
-
 society. And I don't think that you can go out and do a constructive job, do the
 kinds of things that will make you an addition to the community. You went out
 side that door and you realized that you had talked to us like we were a couple of
@@ -7882,8 +7583,6 @@ member, the chairman of the board—the Adult Authority Board—to say to one
 of the prisoners, 'How is it'—in the face of his arrogance and his defiant attitude—
 'how is it that Orientals seldom come to prison, seldom find themselves in this
 kind of a situation? What did you do?'
-
-The Lucifer Effect
 
 "It was at that particular point in the study that his whole orientation
 changed. He begin to react to me as an individual, he began to talk to me about
@@ -7935,8 +7634,6 @@ It is strange indeed that a man can find anything to laugh at in here.
 Everyone is locked up twenty-four hours a day. They have no past, no fu
 ture, no goal other than the next meal. They're afraid, confused and con-
 
-The Power to Parole
-
 founded by a world they know that they did not make, that they feel they
 cannot change, so they make those loud noises so they won't hear what
 their mind is trying to tell them. They laugh to assure themselves and
@@ -7945,8 +7642,6 @@ individual who will whistle or sing a happy number as he passes the grave
 yard.6
 
 CHAPTER EIGHT
-
-Thursday's Reality Confrontations
 
 Thursday's prison is full of woe, yet we have miles to go before our exploration is
 complete.
@@ -7980,8 +7675,6 @@ assorted punishments for memory lapses.
 Guard Ceros would like the whole experience to be more like a tightly run
 military prison, so he has the prisoners march in place repeatedly, as though they
 
-Thursday's Reality Confrontations
-
 were in the Army. After a brief discussion, the two comrades decide that these
 young men need to be more fully disciplined and to understand the importance of
 making their beds in the best military fashion. The prisoners are ordered to strip
@@ -8008,8 +7701,6 @@ this incident and the hostility festering within him:
 "I've got lousy thigh muscles, and I'm not supposed to stretch them. I told
 them that, but they said, 'shut up and do them anyway' 'Fuck you, you little
 punk,' I said, while still laying on the ground. As I was getting up to be put in the
-
-The Lucifer Effect
 
 Hole once again, He [Ceros] pushed me against the wall. We scuffled, pushing
 each other hard and yelling. I wanted to swing at him and hit him in the face, but
@@ -8061,8 +7752,6 @@ realized later that we were all slaves to something in this environment.
 Thinking of it as "just an experiment" meant no harm could be done with
 reality. That was the illusion of freedom. I knew I could quit, but I didn't,
 because I couldn't as a slave to something there.3
-
-Thursday's Reality Confrontations
 
 Prisoner Jim-4325 agreed about the slavish nature of his condition: "The
 worst thing about this experience is the super structured life and the absolute obe
@@ -8116,8 +7805,6 @@ The way in which roles can come to rule not only one's emotions but also
 one's reason is interestingly revealed in Varnish's self-reflective analysis after the
 study:
 
-The Lucifer Effect
-
 I started out in the experiment thinking that I would probably be able to
 act in a manner appropriate to the experiment, but as the experiment pro
 gressed, I was rather surprised to find out that the feelings I had sought to
@@ -8165,8 +7852,6 @@ day for a disciplinary hearing.
 
 5704's riotous actions finally break through the appearance of equanimity
 
-Thursday's Reality Confrontations
-
 that Guard Arnett has carefully cultivated. As one of the older guards, a graduate
 student in sociology, who has tutored in three juvenile jails and who has been
 charged (and acquitted) for "illegal assembly" in a civil rights protest, Arnett has
@@ -8211,8 +7896,6 @@ Prisoner 5704 wasn't the only disciplinary concern. The madness of this place, t
 which we have become accustomed over the few days since we began last Sunday,
 had also struck Prisoner 416 when he arrived yesterday as a replacement pris
 oner for first-to-be-released prisoner Doug-8612. He could not believe what he
-
-The Lucifer Effect
 
 was witnessing and wanted to quit the experiment immediately. However, he was
 told by his cellmates that he could not quit. His cellmates passed along the false
@@ -8263,8 +7946,6 @@ probably collapse, and then what can they do? They'll have to give in." Arnett
 found him nothing more than a "sassy and back talkin' " prisoner. He sees noth
 ing noble in this hunger strike.
 
-Thursday's Reality Confrontations
-
 Here was a new prisoner embarking on a daring plan of disobedience, di
 rectly challenging the guards' power. His act could potentially make him a nonvio
 lent hero around whom the prisoners could rally, someone to rouse them from
@@ -8312,8 +7993,6 @@ noon he abruptly broke down.
 came hopeful of getting released. But I fell a long way down when Rich [1037]
 was paroled and I was not. That one act worked its way into me and brought
 about an even heavier feeling of desperation. I 'broke' as a result. I learned that
-
-The Lucifer Effect
 
 my emotions are much more present than I thought and realized what a great life
 I actually have. If prison is anything like what I went through here, I don't know
@@ -8364,8 +8043,6 @@ Carlo had to return to the city for urgent business. I was glad that I did not h
 take him to dinner because I wanted to be present for the early visiting hours
 scheduled for right after the prisoners had their dinner. I had to apologize to
 
-Thursday's Reality Confrontations
-
 Mrs. Y., Prisoner 1037's mother, for my insensitive behavior the other night.
 However, I also wanted to have a more relaxed dinner that night with the new
 comer to those deliberations, Christina Maslach.
@@ -8411,8 +8088,6 @@ growing ever more unreal. Our little drama, it would appear, is now being rewrit
 ten by Franz Kafka as a surreal supplement to The Trial, or perhaps by Luigi Piran
 dello as an update of his Il fu Mattia Pascal, or his better-known play Six Characters
 in Search of an Author.
-
-The Lucifer Effect
 
 A Hero in the Rearview Mirror
 
@@ -8498,8 +8173,6 @@ the beginning. He would have had a definite effect on the events that followed."
 
 In his later reflections, 5 4 86 added:
 
-Thursday's Reality Confrontations
-
 It was interesting that when Clay-416, who was the first real example of
 an obstinate person who had made up his mind when he absolutely re
 fused to eat his sausages, people went against him. Earlier in the study,
@@ -8548,8 +8221,6 @@ ishment of the others did not concern me. I was gambling on the limits of the
 situation. I knew, I calculated, that visitors' privileges could not be removed. I pre
 pared myself to stay in the Hole until probably ten the next morning. In the Hole
 
-The Lucifer Effect
-
 I was furthest from experiencing myself as 'Clay.' I was '416,' willing and proud
 even to be '416.' The number had an identity to me because 416 had found his
 own response to the situation. I felt no need to cling to the former manhood I had
@@ -8596,8 +8267,6 @@ stand the idea of him [416] being in the Hole any longer," he says. "It seems da
 gerous [since the rules limit solitary to one hour]. I argue with Dave, and then
 quietly put the new prisoner, 416, back in his cell." He adds, "but with a touch of
 malice, I order him to take the sausages to bed with him."18
-
-Thursday's Reality Confrontations
 
 A validation of this positive take on Burdan comes from a comment by Jerry-
 5486, who was the only prisoner to volunteer to give up his blanket for Clay-416:
@@ -8648,8 +8317,6 @@ ish behavior.
 The best example of this was when Clay [416] was in the closet with
 his sausages. . . . Clay and I were friends, he knew I was on his side during
 
-The Lucifer Effect
-
 the fasting incident, and I felt I had helped him some at the supper table
 when the other prisoners were trying to make him eat. But when he went
 in the closet and we were told to yell things and pound on the door, I did it
@@ -8693,8 +8360,6 @@ we were even considering the possibility of marriage. Although I had
 heard from Phil and other colleagues about the plans for their prison sim
 ulation study, I had not participated in either the preparatory work or the
 initial days of the actual simulation. Ordinarily I would have been more
-
-Thursday's Reality Confrontations
 
 interested and maybe become involved in some way, but I was in the
 process of moving, and my focus was on preparing for my first teaching
@@ -8741,8 +8406,6 @@ I was shocked by her seeming indifference.
 "What do you mean? Don't you understand that this is a crucible of human
 behavior, we are seeing things no one has witnessed before in such a situation.
 What is the matter with you?" Curt and Jaffe also joined me against her.
-
-The Lucifer Effect
 
 She couldn't reply because she was so emotionally distressed. Tears ran down
 
@@ -8793,8 +8456,6 @@ tirade by Phil (and other staff there) about what was the matter with me.
 Here was fascinating human behavior unfolding, and I, a psychologist,
 couldn't even look at it? They couldn't believe my reaction, which they
 
-Thursday's Reality Confrontations
-
 may have taken to be a lack of interest. Their comments and teasing made
 me feel weak and stupid—the out-of-place woman in this male world—in
 addition to already feeling sick to my stomach by the sight of these sad
@@ -8841,8 +8502,6 @@ I returned to the dungeon relieved and even exhilarated by the decision to abort
 the mission. I couldn't wait to share the news with Curt Banks, who had done
 yeoman's duty servicing the video patrol at various times of the day and night,
 despite having a family to tend to as well. He too was delighted and told me that
-
-The Lucifer Effect
 
 he was going to recommend ending the study as soon as possible after what he
 had witnessed while I was gone. We were sorry Craig was not here tonight to
@@ -8891,8 +8550,6 @@ Still other normal, healthy young men as prisoners have broken down under
 the situational pressures, while the remaining surviving prisoners have become
 zombie-like followers.24
 
-Thursday's Reality Confrontations
-
 The power of this situation ran swiftly and deeply through most of those
 on this exploratory ship of h u m an nature. Only a few were able to resist the
 situational temptations to yield to power and dominance while maintaining
@@ -8900,8 +8557,6 @@ some semblance of morality and decency. Obviously, I was not among that noble
 class.
 
 CHAPTER NINE
-
-Friday's Fade to Black
 
 We have so much to do to take down our prison in a matter of hours. Curt, Jaffe,
 and I are already exhausted from the hectic day and night we have just endured.
@@ -8933,8 +8588,6 @@ to be added, but not this abrupt end to their jobs.
 If all goes as planned, there will be an hour of prisoner debriefing around one
 o'clock, then the same for the guards for an hour, and finally all the guards and
 prisoners will come together for a full encounter. While each group is engaged,
-
-Friday's Fade to Black
 
 the other group will complete our final evaluation forms, be paid, and have the
 opportunity either to keep their uniforms as souvenirs or to turn them in. If they
@@ -8984,8 +8637,6 @@ eat. I hated him for not eating. I hated the reality of human behavior."2
 
 The day shift came on at ten as usual. I told the lead guard, Arnett, to keep it
 
-The Lucifer Effect
-
 cool and mellow in light of the coming legal representation. His day shift critical
 incident report indicated that Clay-416 was undergoing some strange changes in
 spite of his Zen meditation and earlier surface calm. Arnett's incident report
@@ -9030,8 +8681,6 @@ Issues about bail?
 
 Hubbie-7258 answers the questions in a good-humored way. I think he is as
 suming that his cousin was going through this standard routine prior to escorting
-
-Friday's Fade to Black
 
 him out of the jail. The prisoner tells his public defender that they have been told
 that there is no way for them to leave the prison, no way to break the contract.
@@ -9084,8 +8733,6 @@ directly at me, but he was right on target: I was guilty.
 
 When the public defender completes his note taking, he thanks them for this
 
-The Lucifer Effect
-
 information, and says he would file a formal report on Monday and try to arrange
 for their bail. As he rises to leave, Hubbie-7258 loses it: "You can't go away and
 leave us here! We want to leave now with you. We can't stand another week or
@@ -9135,8 +8782,6 @@ ment is over. You are free to leave today."
 
 There is no immediate reaction, no change in their facial expressions or body
 
-Friday's Fade to Black
-
 language. I have the sense that they are confused, skeptical, maybe even suspi
 cious, and feel that this is another test of their reactions. I continue slowly and
 as clearly as possible, "I and the rest of the research staff have decided to termi
@@ -9184,8 +8829,6 @@ that run situations that create behavioral contexts that influence the human ac
 tion of those under their control. At some point, the System may become an
 autonomous entity, independent of those who initially started it or even of those
 
-The Lucifer Effect
-
 in apparent authority within its power structure. Each System comes to develop a
 culture of its own, as many Systems collectively come to contribute to the culture
 of a society.
@@ -9230,8 +8873,6 @@ invulnerability. Paradoxically, maintaining that illusion only serves to make on
 more vulnerable to manipulation by failing to be sufficiently vigilant against at
 tempts of undesired influence subtly practiced on them.
 
-Friday's Fade to Black
-
 ALL HANDS ON DECK FOR DEBRIEFING
 
 It was evident that we had to use the short but vital debriefing time for several
@@ -9275,8 +8916,6 @@ also helped detach them from that sordid situation. For the prisoners, the main
 issue was coping with the shame inherent in the submissive role they had played.
 They needed to establish a sense of personal dignity, to rise above the constraints
 of their submissive position that had been externally imposed on them.
-
-The Lucifer Effect
 
 However, Doug-8612, the first to be arrested and first to be released because
 of his deteriorating mental condition, was still angry with me in particular for
@@ -9325,8 +8964,6 @@ John Landry played a vacillating role, at times as tough sidekick to Arnett
 and always as the one attacking rebellious prisoners with the skin-chilling, fire
 extinguisher carbon dioxide spray. At other times, he went by the book, and most
 prisoners reported that they liked him. John, a mature eighteen-year-old, was
-
-Friday's Fade to Black
 
 rather ruggedly handsome, and aspired to write fiction, live on a California beach,
 and continue dating a lot.
@@ -9378,8 +9015,6 @@ top-down surveillance.
 
 It was easy for most guards to point to the prisoner rebellion on Day 2 as the
 
-The Lucifer Effect
-
 turning point in their perception of the prisoners, who suddenly appeared to
 them as "dangerous" and needing to be suppressed. They also resented the nega
 tive personal references and cursing that some prisoners made to them during the
@@ -9426,8 +9061,6 @@ power grid had been deactivated. It also helped that a few of the guards openly
 apologized for submerging themselves too deeply into their role and taking it too
 seriously. Their apologies eased the tension and stood as proxy for the tougher
 guards who did not apologize openly, like Hellmann.
-
-Friday's Fade to Black
 
 At this debriefing session, former Tough Guard Arnett, our sociology gradu
 
@@ -9478,8 +9111,6 @@ lected over the six days of study and to reflect on the serious ethical issues r
 by the experiment, I think it would be useful to review some of the insights we
 gathered from a selection of our participants.
 
-The Lucifer Effect
-
 On Being in the Role of Prisoner
 
 Clay-416: "A good prisoner is one who knows how to strategically unify himself
@@ -9528,8 +9159,6 @@ lated imprisonment had an enormous impact on Dave:
 I at times felt some guilt at being sent in to fink on these great guys—
 I was somewhat relieved that there was really nothing to tell about the
 escape. . . . And when the opportunity to fink did come up—I knew where
-
-Friday's Fade to Black
 
 the handcuff key was after a while—I didn't tell. . . . I fell asleep that night
 feeling dirty, guilty, scared. When we were taken to the boiler room (in an
@@ -9581,8 +9210,6 @@ had caught himself bossing his mother around at home.")
 
 Guard Arnett: "Being superficially tough came easily to me. For one thing, I
 
-The Lucifer Effect
-
 am an authoritarian person in some ways (even though I strongly dislike the trait
 in myself and others). Further, I felt that the experiment was important and my
 being 'guard-like' was part of finding out how people react to real oppression. . . .
@@ -9630,8 +9257,6 @@ pen, and the slightest indication of anxiety and breakdown is the beginning of
 the worst possible effects. Specifically, the experience became more than just an
 experiment when 1037 started acting as though he was breaking down. At this
 time I was afraid and apprehensive and thought of quitting. And I also was think-
-
-Friday's Fade to Black
 
 ing of asking to become a prisoner. I felt as though I didn't want to become part of
 the machine that beats down on other men and forces them to conform and con
@@ -9684,8 +9309,6 @@ I had to defend myself, not as me but as me the guard. . .. He hated me as the
 guard. He was reacting to the uniform. I had no choice but to defend myself as
 a guard. It shocked me. . .. I realized that I was just as much a prisoner as they
 
-The Lucifer Effect
-
 were. I was just a reaction to their feelings.. .. We were both crushed by the op
 pressiveness, but we, the guards, had an illusion of freedom. That's just what it
 was, an illusion. . . . We all went in slaves to the money. The prisoners soon be
@@ -9731,8 +9354,6 @@ stupid."
 
 Second Day: "Walking from my car I suddenly wanted people to notice my
 uniform, 'hey look what I'm doing'. . . . 5704 asked for a cigarette and I ignored
-
-Friday's Fade to Black
 
 him—because I am a non-smoker and could not empathize.... Meanwhile since
 I was feeling empathetic towards 1037, I determined NOT to talk with him. Later
@@ -9782,8 +9403,6 @@ Weeks later: "The absolute cruelty of this event (Hellmann's decision to leave
 Phil [Zimbardo] hard along with many other things at this point [that he decided
 to end the study].27
 
-The Lucifer Effect
-
 Another curious character transformation of someone only tangentially as
 sociated with our study is found among "additional anecdotes" in the Warden's
 Log. Recall my serious psychologist colleague who challenged me in the midst of
@@ -9831,8 +9450,6 @@ testing people's capabilities, pushing them to the breaking point under the guis
 of a correctional officer. It was not pleasant but I felt compelled out of my own fas
 cination to test their reactions. I was conducting experiments on my own on
 many occasions."29
-
-Friday's Fade to Black
 
 "The best thing about the experiment was that I seemed to be the catalyst
 that brought out some startling results that gained interest from TV and the
@@ -9890,8 +9507,6 @@ Hellmann: "Yes, I—"
 Clay [interrupting and seeming to enjoy his new sense of power]: "I think I
 
 would have been a guard, I don't think it would have been such a masterpiece!"
-
-The Lucifer Effect
 
 Hellmann: "I didn't see where it was really harmful. It was degrading, and
 
@@ -9954,8 +9569,6 @@ unique experiment and to establish the ways in which humanity can be trans
 formed by power and by powerlessness. Underlying those meanings are signifi
 cant messages about the nature of human nature and the conditions that can
 diminish or enrich it.
-
-The Lucifer Effect
 
 SUMMING UP BEFORE DIGGING INTO THE DATA
 
@@ -10050,8 +9663,6 @@ experiment to establish causal associations. We imagined doing such controlversu
 interesting findings from this first exploratory investigation. Thus, our simple
 independent variable was only the main effect of the treatment of guard-versusprisoner status.
 
-The Lucifer Effect
-
 Nevertheless, some clear patterns emerged that amplify the qualitative nar
 rative I have presented thus far. These findings offer some interesting insights into
 the nature of this psychologically compelling environment and of the young men
@@ -10094,8 +9705,6 @@ on this trait of manipulating others might be relevant in their daily interactio
 in this setting, but while two of the prisoners with the highest Machiavellian
 score were those we judged to have adjusted best to the prison, two others we
 evaluated as also adjusting well had the lowest Machiavellian scores.
-
-The SPE's Meaning and Messages
 
 The Comrey Personality Scales.5 This self-report inventory consists of eight subscales that we used to predict dispositional variations between the guards and
 prisoners. These personality measures are: Trustworthiness, Orderliness, Confor
@@ -10143,8 +9752,6 @@ Among the guards, there were only a few individual profile scores that were
 interesting as being "atypical" compared to their peers'. First, we see that the
 "good guard" John Landry, not his brother Geoff, was highest on Empathy. Guard
 
-The Lucifer Effect
-
 Varnish was lowest on Empathy and Trustworthiness but highest on concern for
 neatness and orderliness. He also had the highest Machiavellian score of any
 guard. Packaged together, that syndrome characterizes the coolly efficient, me
@@ -10190,8 +9797,6 @@ esting difference between the two groups is the greater fluctuation in the priso
 ers' mood states. Over the course of the study, they showed two to three times as
 much variation in their moods as did the relatively stable guards. On the dimen
 sion of activity-passivity, the prisoners tended to score twice as high, indicating
-
-The SPE's Meaning and Messages
 
 twice as much internal "agitation" as the guards. While the prison experience
 had a negative emotional impact upon both guards and prisoners, the adverse ef
@@ -10241,8 +9846,6 @@ their failure to stop abuse, as we noted earlier in their postexperiment reactio
 and retrospective diaries.
 
 2 02
-
-The Lucifer Effect
 
 Video Analysis. There were twenty-five relatively discrete incidents identifiable on
 
@@ -10306,8 +9909,6 @@ Resistance
 
 Frequency
 
-The SPE's Meaning and Messages
-
 situations we recorded were the following responses: giving commands, insulting
 prisoners, deindividualizing prisoners, showing aggression toward prisoners,
 threatening, and using instruments against them.
@@ -10355,8 +9956,6 @@ reliably.
 In addition to asking questions, giving information, making requests and de
 mands and ordering commands, other categories focused on criticism; positive/
 negative outlook; positive/negative self-evaluation; individuating/deindividuating
-
-The Lucifer Effect
 
 references; desire to continue in the study or abort; and intention to act in the fu
 ture in positive or negative ways.
@@ -10406,8 +10005,6 @@ of self was under surveillance or free from its glare.
 By not sharing their pasts and future expectations, the only thing each pris
 oner knew about the other prisoners was based on observations of how they were
 
-The SPE's Meaning and Messages
-
 behaving in the present. We know that what they had to see during counts and
 other menial activities was usually a negative image of one another. That image
 was all they had upon which to build a personality impression of their peers. Be
@@ -10452,8 +10049,6 @@ Life is the art of being well-deceived; and in order that the
 deception may succeed it must be habitual and uninterrupted.
 
 —William Hazlitt, "On Pedantry," The Round Table, 1817
-
-The Lucifer Effect
 
 THE SPE'S LESSONS AND MESSAGES
 
@@ -10501,8 +10096,6 @@ We must acknowledge, however, that all research is "artificial," being only
 an imitation of its real-world analogue. Nevertheless, despite the artificiality of
 controlled experimental research like the SPE, or that of the social psychological
 studies we will encounter in later chapters, when such research is conducted in
-
-The SPE's Meaning and Messages
 
 sensitive ways that capture essential features of "mundane realism," the results
 can have considerable generalizability.9
@@ -10552,8 +10145,6 @@ allel between the Nazi SS doctors involved in the death camp at Auschwitz and
 our SPE guards. Like our guards, those doctors could be categorized as falling into
 three groups. According to Robert Jay Lifton in Nazi Doctors, there were "zealots
 
-The Lucifer Effect
-
 who participated eagerly in the extermination process and even did 'extra work'
 on behalf of killing; those who went about the process more or less methodically
 and did no more or no less than they felt that they had to do; and those who par
@@ -10599,8 +10190,6 @@ summer enmeshed in the psychology of imprisonment course I had just cotaught at 
 with vivid tales of abuse and degradation at the hands of guards. From other for
 mer prisoners, we heard firsthand the horror stories of prisoners sexually abusing
 other prisoners and gang wars. Thus, Craig, Curt, and I were privately pulling for
-
-The SPE's Meaning and Messages
 
 the prisoners, hoping that they would resist any pressures the guards could
 muster against them and maintain their personal dignity despite the external
@@ -10649,8 +10238,6 @@ rience in the Stanford Prison than any of us had expected. . . . So, I decided
 to release Prisoner 8612, going with the ethical, humanitarian decision
 over the experimental one.
 
-The Lucifer Effect
-
 How did we explain this violation of our expectations that no one could have
 such a severe stress reaction so quickly? Craig remembers our wrong-headed
 causal attribution:
@@ -10695,8 +10282,6 @@ many decades comes, I think, from the experiment's startling revelation of
 "transformation of character"—of good people suddenly becoming perpetrators
 of evil as guards or pathologically passive victims as prisoners in response to
 situational forces acting on them.
-
-The SPE's Meaning and Messages
 
 Good people can be induced, seduced, and initiated into behaving in evil
 ways. They can also be led to act in irrational, stupid, self-destructive, antisocial,
@@ -10747,8 +10332,6 @@ and mental functioning of individuals, groups, and national leaders than we
 might believe possible. Some situations can exert such powerful influence over us
 
 2 12
-
-The Lucifer Effect
 
 that we can be led to behave in ways we would not, could not, predict was possible
 
@@ -10832,8 +10415,6 @@ invented. Consider also the misuse of Rule 2 about eating at mealtimes to punish
 
 Clay-416 for refusing to eat his filthy sausages.
 
-The SPE's Meaning and Messages
-
 2 13
 
 Some rules are essential for the effective coordination of social behavior,
@@ -10916,8 +10497,6 @@ to follow the period's rigidly hierarchical standards of behavior, he was "frigh
 
 2 14
 
-The Lucifer Effect
-
 ened" by the ease with which he became an autocratic master. This sixty-fiveyear-old architect was not prepared to slip so readily into a role that allowed him
 
 to exercise absolute power over a household of underservants whom he bossed:
@@ -10999,8 +10578,6 @@ Role Transitions from Healer to Killer
 The worst-case scenario was the Nazi SS doctors who were assigned the role of se
 lecting concentration camp inmates for extermination or for "experiments." They
 
-The SPE's Meaning and Messages
-
 2 15
 
 were socialized away from their usual healing role into the new role, assisting
@@ -11079,8 +10656,6 @@ easily into their roles as the nature of the power differential at the base of t
 guard-prisoner symbiosis became clearer.
 
 2 16
-
-The Lucifer Effect
 
 The initial script for guard or prisoner role-playing came from the partici
 
@@ -11164,8 +10739,6 @@ diary: "The psychologist rebukes me for handcuffing and blindfolding a
 
 prisoner before leaving the (counseling) office, and I resentfully reply that
 
-The SPE's Meaning and Messages
-
 it is both necessary (for) security and my business anyway." Indeed, he had
 
 told me off. In a bizarre turn of events. I was put in my place for failing to
@@ -11248,8 +10821,6 @@ mother of Prisoner R i c h - 1 0 37 complained about his sad state. I spontaneou
 
 2 18
 
-The Lucifer Effect
-
 activated my Institutional Authority role and challenged her observation, imply
 
 ing that there must have been a personal problem with 1 0 3 7, not an operational
@@ -11325,8 +10896,6 @@ both offered the same reasoning for why they acted as they did, the one being
 "cruel," the other "crazy"—they were merely acting those roles to please Zimbardo.21 Could be? Maybe they were acting new parts in the Japanese movie
 
 Roshomon, where everyone has a different view of what really happened.
-
-The SPE's Meaning and Messages
 
 2 19
 
@@ -11412,8 +10981,6 @@ one's private views in efforts to reduce the dissonance. People will go to remar
 
 2 22
 
-The Lucifer Effect
-
 performance. Thus, this group of ordinary pupils proved the "Pygmalion Effect"
 
 by becoming what they were expected to be—academically outstanding. Sadly,
@@ -11491,8 +11058,6 @@ them of their humanity, render them worthless by exercising the psychological
 process of dehumanization. This occurs when the "others" are thought not to
 
 possess the same feelings, thoughts, values, and purposes in life that we do. Any
-
-The SPE's Meaning and Messages
 
 2 23
 
@@ -11580,8 +11145,6 @@ In institutional settings, the expression of human emotions is contained to
 
 2 24
 
-The Lucifer Effect
-
 the extent that they represent impulsive, often unpredictable individual reactions
 
 when uniformity of mass reactions is the expected norm. Our prisoners were de
@@ -11655,8 +11218,6 @@ warden decided to do a documentary on the SPE on national television (NBC's
 Chronolog, November 1 9 7 1 ). A Life magazine feature soon followed, and the SPE
 
 was off and running.
-
-The SPE's Meaning and Messages
 
 2 25
 
@@ -11742,8 +11303,6 @@ those assigned to be guards to be abusive or domineering in the ways they later
 
 2 26
 
-The Lucifer Effect
-
 were. They did not bring into the Stanford Prison Experiment any tendencies to
 
 harm, abuse, or dominate others. If anything, we might say they brought in ten
@@ -11825,8 +11384,6 @@ security" allegedly posed by socialists or Communists. Eliminating that threat n
 cessitated state-sanctioned torture by the military and civil police. It also legiti
 
 mized assassination by death squads of all suspected "enemies of the state."
-
-The SPE's Meaning and Messages
 
 2 27
 
@@ -11918,8 +11475,6 @@ A new language had to be developed with innocuous-sounding words con-
 
 2 28
 
-The Lucifer Effect
-
 cealing the truth of human cruelty and destruction, such as: Sonderbehandlung
 
 (special treatment); Sonderaktion (special action), Umsiedlung (resettlement), and
@@ -11959,8 +11514,6 @@ work. He became integrated into a large, brutal, highly functional system. . . .
 Auschwitz was a collective effort."30
 
 CHAPTER ELEVEN
-
-The SPE: Ethics and Extensions
 
 We've traveled
 move
@@ -12032,8 +11585,6 @@ Earth because of our remarkable capacity for learning, for language, for reason
 ing, for inventing, and for imagining new and better futures. Every human being
 
 2 30
-
-The Lucifer Effect
 
 has the potential to perfect the skills, talents, and attributes we need to go beyond
 
@@ -12112,8 +11663,6 @@ we saw with the SPE night shift guards to have fun with their "playthings."
 However, let me make clear one critical point: understanding the "why" of
 
 what was done does not excuse "what" was done. Psychological analysis is not
-
-The SPE: Ethics and Extensions
 
 2 31
 
@@ -12199,8 +11748,6 @@ sensitivity to ethical safeguards that the SPE highlighted. Without being defen-
 
 2 32
 
-The Lucifer Effect
-
 sive or rationalizing my role in this study, I will use this research as a vehicle for
 
 outlining the complexity of ethical judgments involved in research that entails in
@@ -12280,8 +11827,6 @@ he used monetary reinforcement or social approval instead of this dubious tech
 nique? Is it his goal or his means that some might find ethically offensive? Would
 
 it be preferable instead for this anxious father to rely upon the more subtle indoc-
-
-The SPE: Ethics and Extensions
 
 2 33
 
@@ -12364,8 +11909,6 @@ when they volunteered for an academic study of "prison life" that was being con
 ducted at a prestigious university. Moreover, that suffering escalated over time
 
 2 34
-
-The Lucifer Effect
 
 and resulted in such extreme stress and emotional turmoil that five of the sample
 
@@ -12453,8 +11996,6 @@ In retrospect, I believe that the main reason I did not end the study sooner,
 
 when it began to get out of hand, resulted from the conflict created in me by my
 
-The SPE: Ethics and Extensions
-
 2 35
 
 dual roles as principal investigator, and thus guardian of the research ethics of
@@ -12541,8 +12082,6 @@ and restrictions on all medical and nonmedical human research.
 
 2 36
 
-The Lucifer Effect
-
 At the core of the ethical dilemma for social scientists is: Can a given re
 
 searcher create a balance between what he or she believes is necessary for the
@@ -12624,8 +12163,6 @@ Maybe help would have come from one of the many professional psychologists,
 graduate students, secretaries, or staff of the Psychology Department, some of
 
 whom watched live-action videos of parts of the study, took part in Parole Board
-
-The SPE: Ethics and Extensions
 
 hearings, or spoke to participants during interviews or when they were in the
 
@@ -12713,8 +12250,6 @@ Recall that the data from the mood adjective checklist showed that both pris-
 
 2 38
 
-The Lucifer Effect
-
 oners and guards had returned to a more balanced emotional state following the
 
 debriefing session, to reach levels comparable to their emotional conditions at the
@@ -12796,8 +12331,6 @@ human subjects research. (For an example of how this can be achieved in one
 of my experiments on induced psychopathology. see n o t e s .1 1) But such gains
 
 cannot be assumed or hoped for: they must be demonstrated empirically as out-
-
-The SPE: Ethics and Extensions
 
 come measures of any study conducted with a prior sense of its "questionable
 
@@ -12881,8 +12414,6 @@ ternship at San Quentin State Prison, rather than in the usual medical/clinical
 
 2 40
 
-The Lucifer Effect
-
 setting, and has been a forensic psychologist in the San Francisco and California
 
 corrections systems for more than twenty years. It was his moving testimony that
@@ -12961,8 +12492,6 @@ Carlo Prescott, our prison consultant, was released from San Quentin State Priso
 only six months before his involvement in the SPE. He had been incarcerated in
 several California prisons as well as in a California Youth Authority facility for
 
-The SPE: Ethics and Extensions
-
 2 41
 
 more than seventeen years of his life. The changes in his professional status and
@@ -13040,8 +12569,6 @@ from my personal experience and how that helped to shape my own subse
 quent professional contributions to psychology. What I learned about
 most directly was the psychology of dehumanization—how basically good
 
-The Lucifer Effect
-
 people can come to perceive and treat others in such bad ways; how easy
 
 it is for people to treat others who rely on their help or good will as less
@@ -13117,8 +12644,6 @@ so inexorable as one's self?
 In our basement jail, prisoners surrendered their basic freedoms in response to
 
 the coercive control of the guards. Yet in real life beyond the laboratory, many
-
-The SPE: Ethics and Extensions
 
 people voluntarily give up their freedoms of speech, action, and association with
 
@@ -13201,8 +12726,6 @@ situation and rarely about their past or future lives. Interestingly, after each
 prisoners who was released early was gone, the remaining prisoners made virtu-
 
 2 44
-
-The Lucifer Effect
 
 ally no references to them. They were gone and forgotten, pushed out of immedi
 
@@ -13290,8 +12813,6 @@ other. Each day that comes and goes is exactly like the one that went
 
 before.23
 
-The SPE: Ethics and Extensions
-
 2 45
 
 Madness in Normal People
@@ -13376,8 +12897,6 @@ the elderly may be a contributor to their development of paranoid disorders—an
 
 2 46
 
-The Lucifer Effect
-
 thus can be prevented or treated with hearing aids rather than psychotherapy or
 
 institutionalization.
@@ -13455,8 +12974,6 @@ curred as the result of my invited appearance before a subcommittee of the U.S.
 House of Representatives: suddenly, I was transformed from an academic re
 
 searcher to an advocate for social change. In its hearings on prison reform in
-
-The SPE: Ethics and Extensions
 
 October 1 9 7 1, the subcommittee wanted not only analysis but also recommenda
 
@@ -13540,8 +13057,6 @@ Because the SPE was such a visual experience, we used its images to spread the
 message of situational power. First, I created a slide show of eighty images that
 
 2 48
-
-The Lucifer Effect
 
 were synchronized to my audiotaped narration, with the help of Gregory White
 
@@ -13627,8 +13142,6 @@ was even more dramatic in this real jail setting—given that these guards
 
 realized that they were under public scrutiny, they behaved rather kindly.
 
-The SPE: Ethics and Extensions
-
 2 49
 
 A reporter noted some of the extreme reactions: "A housewife exhibited
@@ -13711,8 +13224,6 @@ and to even "whisper" to the man in the next cell resulted in being beaten
 
 2 50
 
-The Lucifer Effect
-
 by guards, sprayed with chemical mace, black-jacked, stomped, and
 
 thrown into a "strip-cell" naked to sleep on a concrete floor without
@@ -13790,8 +13301,6 @@ point it is sufficient simply to outline these replications and extensions. A fu
 presentation of this material, with detailed commentary and references, is avail
 
 able at www.lucifereffect.com.
-
-The SPE: Ethics and Extensions
 
 2 51
 
@@ -13875,8 +13384,6 @@ and staff in unwelcome ways, and then in more constructive ways.
 
 2 52
 
-The Lucifer Effect
-
 A Seeming Replication Failure in a TV Pseudoexperiment
 
 An experiment was conducted for a BBC-TV show based on the SPE model. Its re
@@ -13957,8 +13464,6 @@ used by the Pentagon. They argue that top officials have "flipped the switch" fr
 
 focusing on ways to increase resistance by captured American soldiers to develop-
 
-The SPE: Ethics and Extensions
-
 2 53
 
 ing effective interrogation techniques to use against captured "enemy combat
@@ -14036,8 +13541,6 @@ ture of this information, these statements are of course only reasonable infer
 ences based on reports from various knowledgeable sources.
 
 2 54
-
-The Lucifer Effect
 
 Is it possible that the SPE's main message of situational power was co-opted
 
@@ -14120,8 +13623,6 @@ Although some viewers found the film exciting, the movie was panned in
 critical reviews, such as these by two well-known British film critics. The Ob
 
 server's reviewer concluded, " 'The Experiment' is an improbable thriller of no
-
-The SPE: Ethics and Extensions
 
 2 55
 
@@ -14207,8 +13708,6 @@ not only to public interest in psychological research but to the need many peopl
 
 2 56
 
-The Lucifer Effect
-
 feel to understand the dynamics of imprisonment or, more generally, the dynam
 
 ics of power and oppression. The data may also reflect the now-legendary status
@@ -14290,8 +13789,6 @@ In short, Dr. Zimbardo, thank you.
 A full, graphic depiction of the making of a Marine can be found in William
 
 Mares, The Marine Machine.48
-
-The SPE: Ethics and Extensions
 
 2 57
 
@@ -14492,8 +13989,6 @@ drink or a cup of coffee, disguised as a triviality and sandwiched between
 
 2 60
 
-The Lucifer Effect
-
 two jokes, from the lips of a man, or woman, whom you have recently
 
 been getting to know rather better and whom you hope to know better
@@ -14573,8 +14068,6 @@ It is a classic experiment about which you have probably heard because of its
 that we will extract to aid in our quest to understand why good people can be
 
 induced to behave badly. We will review replications and extensions of this clas-
-
-Investigating Social Dynamics
 
 2 61
 
@@ -14662,8 +14155,6 @@ modestly, "I really don't know."
 
 2 62
 
-The Lucifer Effect
-
 It is only through recognizing that we are all subject to the same dynamic
 
 forces in the human condition, that humility takes precedence over unfounded
@@ -14741,8 +14232,6 @@ ject's autokinetic experience mirrored that of the judgments of this devious con
 federate rather than sticking to his previously established personal perceptual
 
 standard.
-
-Investigating Social Dynamics
 
 2 63
 
@@ -14830,8 +14319,6 @@ along with the others. For others the discrepancy created a conflict that was re
 
 2 64
 
-The Lucifer Effect
-
 solved by coming to believe that the group was right and their perception was
 
 wrong! All those who yielded underestimated how much they had conformed, re
@@ -14913,8 +14400,6 @@ of one another, and chatting. (They are really actors—"confederates," as they 
 called in psychology—who will soon be faking their answers on the test trials so
 
 that they are in agreement with one another but not with the correct responses
-
-Investigating Social Dynamics
 
 2 65
 
@@ -15000,8 +14485,6 @@ ary between blue and green toward the green of the color spectrum.13
 
 2 66
 
-The Lucifer Effect
-
 Researchers have also studied minority influence in the context of simulated
 
 jury deliberations, where a disagreeing minority prevents unanimous acceptance
@@ -15083,8 +14566,6 @@ experimenter's orders?"
 These musings, from a former teaching and research assistant of Solomon
 
 Asch, started a remarkable series of studies by a social psychologist, Stanley Mil-
-
-Investigating Social Dynamics
 
 2 67
 
@@ -15191,8 +14672,6 @@ this study of m e m o ry and learning. I am b e t w e en the ages of 20 and
 
 2 68
 
-The Lucifer Effect
-
 A researcher whose serious demeanor and gray laboratory coat convey
 
 scientific importance greets you and another applicant at your arrival at a Yale
@@ -15210,8 +14689,6 @@ who gives the "learner" a set of word pairings to memorize. During the test,
 the teacher gives each key word, and the learner must respond with the
 
 correct association. When right, the teacher gives a verbal reward, such as
-
-Investigating Social Dynamics
 
 2 69
 
@@ -15252,8 +14729,6 @@ plays the learner.) He is a mild-mannered, middle-aged man whom you help es
 cort to the next chamber. "Okay, now we are going to set up the learner so he can
 
 get some punishment," the researcher tells you both. The learner's arms are
-
-The Lucifer Effect
 
 strapped down and an electrode is attached to his right wrist. The shock genera
 
@@ -15339,8 +14814,6 @@ Now try to imagine fully what your participation as the teacher would be. I
 
 am sure you are saying, "No way would I ever go all the way!" Obviously, you
 
-Investigating Social Dynamics
-
 2 71
 
 would have dissented, then disobeyed and just walked out. You would never sell
@@ -15425,8 +14898,6 @@ the experimenter did not let them out, continually coming up with reasons why
 
 2 72
 
-The Lucifer Effect
-
 they had to stay and prodding them to continue testing their suffering learner.
 
 Usually protests work and you can get out of unpleasant situations, but nothing
@@ -15507,8 +14978,6 @@ the learner. They were more likely to shock when the learner was remote than in
 
 proximity. In each of the other variations on this diverse range of ordinary Ameri-
 
-Investigating Social Dynamics
-
 2 73
 
 can citizens, of widely varying ages and occupations and of both genders, it was
@@ -15586,8 +15055,6 @@ the same semantic framing at work in advertising, where, for example,
 bad-tasting mouthwash is framed as good for you because it kills germs
 
 and tastes like medicine is expected to taste.)
-
-The Lucifer Effect
 
 5. Creating opportunities for the diffusion of responsibility or abdication of
 
@@ -15675,8 +15142,6 @@ which Hitler and other dictators have long used to gain and maintain
 
 power: namely, the claim that they will be able to provide security in
 
-Investigating Social Dynamics
-
 exchange for citizens giving up their freedoms, which will give them the
 
 ability to control things better.22
@@ -15757,8 +15222,6 @@ both the "experimenter-teacher" and the "learner" were "authentic." That is, col
 
 lege students acted as the teacher, attempting to condition a cuddly little puppy,
 
-The Lucifer Effect
-
 the learner, in an electrified apparatus. The puppy was supposed to learn a task,
 
 and shocks were given when it failed to respond correctly in a given time inter
@@ -15836,8 +15299,6 @@ central arguments, that it is difficult for people to appreciate fully the power
 situational forces acting on individual behavior when they are viewed outside the
 
 behavioral context.
-
-Investigating Social Dynamics
 
 Physicians' Power over Nurses to Mistreat Patients
 
@@ -15919,8 +15380,6 @@ wrong orders.
 
 2 78
 
-The Lucifer Effect
-
 Deadly Obedience to Authority
 
 This potential for authority figures to exercise power over subordinates can have
@@ -16000,8 +15459,6 @@ him the test. These fifteen graded remarks were critical of his test performance
 and also denigrated his personality, such as "That was really stupid of you." As
 
 the participant-administrators delivered these ever-more-hostile remarks, they
-
-Investigating Social Dynamics
 
 "placed the applicant under such intense psychological strain that he did not per
 
@@ -16087,8 +15544,6 @@ is believed to have contraband on her now. He wants her to be isolated in the re
 
 room and held until he or his men can pick her up. The employee is detained there
 
-The Lucifer Effect
-
 and is given the option by the "Sir, Officer," who talks to her on the phone, of
 
 either being strip-searched then and there by a fellow employee or brought down
@@ -16173,8 +15628,6 @@ don't."31
 
 In her book Making Fast Food: From the Frying Pan into the Fryer, the Canadian
 
-Investigating Social Dynamics
-
 sociologist Ester Reiter concludes that obedience to authority is the most valued
 
 trait in fast-food workers. "The assembly-line process very deliberately tries to
@@ -16252,8 +15705,6 @@ mode.
 He began by telling the class that they would simulate some aspects of the
 
 German experience in the coming week. Despite this forewarning, the roleplaying "experiment" that took place over the next five days was a serious matter
-
-The Lucifer Effect
 
 for the students and a shock for the teacher, not to mention the principal and the
 
@@ -16337,8 +15788,6 @@ sembled students for this simulation, which had gone way beyond his initial in
 
 tention. He told them that the new slogan for them should be "Strength through
 
-Investigating Social Dynamics
-
 understanding." Jones went on to conclude, "You have been manipulated.
 
 Shoved by your own desires into the place you now find yourselves."
@@ -16418,8 +15867,6 @@ like being a black person, like a Negro." Within one day, the brown-eyed childre
 began to do more poorly in their schoolwork and became depressed, sullen, and
 
 angry. They described themselves as "sad," "bad," "stupid," and "mean."
-
-The Lucifer Effect
 
 The next day was turnabout time. Mrs. Elliott told the class that she had been
 
@@ -16502,8 +15949,6 @@ Regarding killing of the unfit: 79 percent wanted one person to be responsi
 ble for the killing and another to carry out the act; 64 percent preferred
 
 anonymity for those who pressed the button with only one button causing death
-
-Investigating Social Dynamics
 
 2 85
 
@@ -16589,8 +16034,6 @@ Initially, their commander told them that this was a difficult mission that
 
 must be obeyed by the battalion. However, he added that any individual could
 
-The Lucifer Effect
-
 refuse to execute these men, women, and children. The records indicate that at
 
 first about half the men refused and let the other police reservists engage in the
@@ -16674,8 +16117,6 @@ practice evil acts that are demanded by higher-level authority systems: "Being
 part of a system shapes views, rewards adherence to dominant views, and makes
 
 deviation psychologically demanding and difficult."40
-
-Investigating Social Dynamics
 
 Having lived through the horrors of Auschwitz, John Steiner (my dear friend
 
@@ -16763,8 +16204,6 @@ racial fanaticism and the particular situations created by the authorities, like
 
 concentration camps, which mechanized genocide. It was the interaction of per-
 
-The Lucifer Effect
-
 sonal variables of German citizens with situational opportunities provided by a
 
 System of fanatical prejudice that combined to empower so many to become will
@@ -16838,8 +16277,6 @@ cide has been unleashed around the world and torture and terrorism continue to
 be common features of our global landscape. We prefer to distance ourselves from
 such a fundamental truth, seeing the madness of evildoers and senseless violence
 of tyrants as dispositional characters within their personal makeup. Arendt's
-
-Investigating Social Dynamics
 
 analysis was the first to deny this orientation by observing the fluidity with which
 
@@ -16925,8 +16362,6 @@ ers? Or is it conceivable that they could be ordinary people, programmed to carr
 
 out their deplorable acts by means of some identifiable and replicable training
 
-The Lucifer Effect
-
 programs? Could we identify a set of external conditions, situational variables,
 
 that had contributed to the making of these torturers and killers? If their evil
@@ -17010,8 +16445,6 @@ time in any nation when there is an obsession with threats to national security.
 Before the fears and excesses engendered by the recent "war against terrorism,"
 
 there was the nearly perpetual "war against crime" in many urban centers. In
-
-Investigating Social Dynamics
 
 2 91
 
@@ -17097,8 +16530,6 @@ trade from their elders: bomb making, disguise, and selecting and timing targets
 
 Finally, they make public their private commitment by making a videotape,
 
-The Lucifer Effect
-
 declaring themselves to be "the living martyr" for Islam ("al-shahid-al-hai"). In
 
 one hand they hold the Koran, in the other a rifle; the insignia on their headband
@@ -17179,8 +16610,6 @@ be considered a form of evil that transcends local politics and expedient strate
 
 Two final examples of the "ordinariness" of mass murderers are worth mention
 ing. The first comes from an in-depth study of the 9 / 11 hijackers, whose suicidal
-
-Investigating Social Dynamics
 
 2 93
 
@@ -17266,8 +16695,6 @@ and its corollary—how well do we know ourselves to be certain of how we would
 
 behave in novel situations under intense situational pressures?
 
-The Lucifer Effect
-
 T HE ULTIMATE T E ST OF B L I ND O B E D I E N CE TO A U T H O R I T Y:
 
 K I L L I NG Y O UR C H I L D R EN ON C O M M A ND
@@ -17341,8 +16768,6 @@ ture some of our children here. They'll torture our people. They'll torture
 our seniors. We cannot have t h i s . . .. Please, can we hasten? Can we has
 ten with that medication? You don't know what you've done. I tried. . . .
 Please. For God's sake, let's get on with it. We've lived—we've lived as no
-
-Investigating Social Dynamics
 
 2 95
 
@@ -17427,8 +16852,6 @@ away the humanity of potential victims, rendering them as animallike, or as
 nothing. We will also inquire about conditions that make bystanders to evil be
 
 come passive observers and not active intruders, helpers, or whistle-blowing he-
-
-The Lucifer Effect
 
 roes. That slice of the evil of inaction is really a cornerstone of evil because it al
 
@@ -17535,8 +16958,6 @@ coming virtually any kind of cell or tissue and ordinary skin cells can be turne
 
 into embryonic stem cells. It is tempting to expand these biological concepts and
 
-The Lucifer Effect
-
 what is now known about the developmental plasticity of the human brain to the
 
 "plasticity" of human nature.2
@@ -17612,8 +17033,6 @@ nicknamed "Piggy." Might makes right, and all hell breaks loose as Ralph, the
 good-boy leader, is hunted down by the herd.
 
 Is there any psychological validity to the notion that disguising one's exter-
-
-Investigating Social Dynamics
 
 nal appearance can drastically infect behavioral processes? I attempted to answer
 
@@ -17696,8 +17115,6 @@ nal appeared. Their decision was not whether to press the shock switch but how
 quickly to pull their finger off the switch or to keep pressing it down and deliver
 
 3 00
-
-The Lucifer Effect
 
 longer shocks to the victims. Of course, they could choose not to follow the in
 
@@ -17783,8 +17200,6 @@ energizing sense of one's domination and control over others at that moment in
 
 time.
 
-Investigating Social Dynamics
-
 3 01
 
 This basic paradigm has been repeated with comparable results in a host of
@@ -17862,8 +17277,6 @@ on costumes and are given permission by their teacher to play aggressive games
 for prizes? Will anonymity plus opportunity to aggress lead children to engage in
 
 more aggression over time?
-
-The Lucifer Effect
 
 Elementary school children attended a special, experimental Halloween
 
@@ -17951,8 +17364,6 @@ parable to the initial A phase. The percentage of aggressive acts dropped to 36
 
 percent, and the number of tokens won soared to 7 9. Thus, we can conclude that
 
-Investigating Social Dynamics
-
 the behavior change brought on by anonymity did not create a dispositional, in
 
 ternal change, but only an outward response change. Change the situation, and
@@ -18036,8 +17447,6 @@ A cultural anthropologist. R. J. Watson,9 posed that question after reading my
 earlier work on deindividuation. His data source was the Human Relations Area
 
 Files, where information on cultures around the world is archived in the form of
-
-The Lucifer Effect
 
 reports of anthropologists, missionaries, psychologists, and others. Watson found
 
@@ -18123,8 +17532,6 @@ anonymity of the Bronx setting, several dozen passersby, on the street or in car
 
 stopped to vandalize the car within forty-eight hours. Most were reasonably well-
 
-Investigating Social Dynamics
-
 dressed adults, who stripped the car of any valuable items or simply destroyed it—
 
 all in the daytime. By contrast, over a week's time, not a single passerby engaged
@@ -18209,8 +17616,6 @@ tions where typical response habits and character traits are nullified. One's
 
 3 06
 
-The Lucifer Effect
-
 vulnerability to social models and situational cues is heightened; therefore, it be
 
 comes as easy to make love as to make war—it all depends on what the situation
@@ -18292,8 +17697,6 @@ this celebration is transitory, soon to be replaced by even greater than usual l
 its on personal pleasures and vices with the advent of Lent. "The Mardi Gras
 
 effect" involves temporarily giving up the traditional cognitive and moral con-
-
-Investigating Social Dynamics
 
 straints on personal behavior when part of a group of like-minded revelers bent
 
@@ -18377,8 +17780,6 @@ fact that they're human beings and see them as enemies," said Sergeant Mejia,
 
 3 08
 
-The Lucifer Effect
-
 who refused to return to action in what he considered an abominable war. "You
 
 call them 'hajis', you know? You do all the things that make it easier to deal with
@@ -18460,8 +17861,6 @@ brief aside that the personal qualities exhibited by this group confirmed the op
 ion of the person by whom they had been recruited. In the dehumanized condition,
 
 the decision makers were characterized as "an animalistic, rotten bunch." By
-
-Investigating Social Dynamics
 
 3 09
 
@@ -18547,8 +17946,6 @@ was being administered? Significantly higher levels of shock were given when
 
 participants believed that the shock level was an average response of their team
 
-The Lucifer Effect
-
 rather than when it was the direct level of each individual's personal decision. As
 
 we have seen before, diffusion of responsibility, in any form it takes, lowers the in
@@ -18628,8 +18025,6 @@ First, we can redefine our harmful behavior as honorable. Creating moral
 justification for the action, by adopting moral imperatives that sanctify violence,
 
 does this. Creating advantageous comparisons that contrast our righteous behav-
-
-Investigating Social Dynamics
 
 ior to the evil behavior of our enemies also does this. (We only torture them; they
 
@@ -18717,8 +18112,6 @@ of grievance. This is an effort to destroy, rather than to build. And until ever
 
 3 12
 
-The Lucifer Effect
-
 in the world calls it by name—the evil that it is—stops making excuses for them,
 
 then I think we're going to have a problem."
@@ -18798,8 +18191,6 @@ In Faces of the Enemy, Sam K e e n21 shows how archetypes of the enemy are
 created by visual propaganda that most nations use against those judged to be the
 
 dangerous "them," "outsiders," "enemies." These visual images create a consen-
-
-Investigating Social Dynamics
 
 sual societal paranoia that is focused on the enemy who would do harm to the
 
@@ -18881,8 +18272,6 @@ participant in its evil.
 
 3 14
 
-The Lucifer Effect
-
 Our usual take on evil focuses on the violent, destructive actions of perpetrators,
 
 but the failure to act can also be a form of evil, when helping, dissent, disobedi
@@ -18958,8 +18347,6 @@ her back upstairs to continue his abuse. No one came to her aid! Only the chance
 arrival of passing police prevented her further abuse and possible murder {The
 
 New York Times, May 6, 1 9 6 4 ).
-
-Investigating Social Dynamics
 
 Researching Bystander Intervention
 
@@ -19040,8 +18427,6 @@ stopped the criminal in his tracks and prevented the crime. What made the differ
 ence?
 
 In the first case, the woman merely asked the person nearby for the time,
-
-The Lucifer Effect
 
 making minimal social contact, before leaving the scene temporarily. However, in
 
@@ -19124,8 +18509,6 @@ tle time or a lot more time to get to the taping center. But why should time pre
 sure on you (or the others) make a difference if you are a good person, a holy
 
 person, a person thinking about the virtue of intervening to help strangers in dis-
-
-Investigating Social Dynamics
 
 3 17
 
@@ -19210,8 +18593,6 @@ periment it was the good guards who never intervened on behalf of the suffering
 prisoners to get the bad guards to lighten up, thereby implicitly condoning their
 
 continually escalating abuse. It was I, who saw these evils and limited only physi-
-
-The Lucifer Effect
 
 cal violence by the guards as my intervention while allowing psychological vio
 
@@ -19299,8 +18680,6 @@ homes marked for destruction, but little help has been forthcoming. Touring
 
 these desolate areas was heartbreaking for me. Critics contend that the systems'
 
-Investigating Social Dynamics
-
 failed response can be traced to class and racial issues, because most of the sur
 
 vivors who could not evacuate were lower-class African Americans. This evil of
@@ -19375,8 +18754,6 @@ both products of their different environments and producers of the environments
 they encounter.34 Human beings are not passive objects simply buffeted about by
 
 3 20
-
-The Lucifer Effect
 
 environmental contingencies. People usually select the settings they will enter or
 
@@ -19464,8 +18841,6 @@ of current research on what goes wrong, as well as right, in how the mind and
 
 body work:
 
-Investigating Social Dynamics
-
 The workings of the criminal justice system should not continue to be
 
 guided by illusions about cross-situational consistency in behavior, by er
@@ -19550,8 +18925,6 @@ fact that you complained to him about "hearing voices," nothing more. You be
 
 lieve that you do not deserve to be there and realize that the way to be released is
 
-The Lucifer Effect
-
 to act as normal and as pleasant as you can. Obviously the staff will soon realize
 
 there has been some mistake, you are not a mentally ill patient, and send you back
@@ -19635,8 +19008,6 @@ How important is situational power? A recent review of 1 00 years of social
 psychological research compiled the results of more than 2 5 , 0 00 studies includ
 
 ing 8 million people.40 This ambitious compilation used the statistical technique
-
-Investigating Social Dynamics
 
 of meta-analysis, which is a quantitative summary of findings across a variety of
 
@@ -19825,8 +19196,6 @@ this authoritative military spokesperson, fully 9 9 .9 percent of American soldi
 
 were performing in exemplary fashion overseas—meaning that there was no
 
-The Lucifer Effect
-
 need to be alarmed at the less than 1 percent of them who were defective soldiers
 
 carrying out these abominable abuses.
@@ -19876,8 +19245,6 @@ Secretary of Defense Donald Rumsfeld denounced the acts as "terrible" and
 "inconsistent with the values of our nation." "The photographic depictions of
 
 U.S. military personnel that the public has seen have unquestionably offended
-
-Abu Ghraib's Abuses and Tortures
 
 and outraged everyone in the Department of Defense," he said. "Any wrongdoers
 
@@ -19965,8 +19332,6 @@ Torture as emotional release? Catharsis for the stressed soldiers? Having a
 
 good time by just blowing off a little steam? Those were the justifications by this
 
-The Lucifer Effect
-
 influential celebrity for terrible acts of torture. One slight difference between the
 
 fraternity "hell night" scene and the Abu Ghraib torture scene is, of course, that
@@ -20052,8 +19417,6 @@ just as in our study, the worst abuses had occurred during the night shift! More
 over, in both cases the prisoners were being held in pretrial detention.
 
 It was as though the worst-case scenario of our prison experiment had been
-
-Abu Ghraib's Abuses and Tortures
 
 3 29
 
@@ -20141,8 +19504,6 @@ ers, namely, banning any actions that are cruel, inhuman, and degrading in the
 
 3 30
 
-The Lucifer Effect
-
 treatment of them? Those regulations provide the most basic standards of con
 
 duct in the treatment of prisoners in any democracy whether in times of war or
@@ -20224,8 +19585,6 @@ So on that day in January 2 0 0 4, Joe Darby made a giant leap for moral
 mankind by first handing over a copy of the CD, with an anonymous note in a
 
 manila envelope, to an agent at the Criminal Investigation Division (CID). He later
-
-Abu Ghraib's Abuses and Tortures
 
 confided to Special Agent Tyler Pieron (U.S. Army Criminal Investigation Com
 
@@ -20309,8 +19668,6 @@ to offer appropriate assistance to Myers's client. However, I made it clear that
 
 sympathies were more with Joe Darby, who had been brave enough to expose the
 
-The Lucifer Effect
-
 abuses, than with anyone involved in perpetrating t h e m .11 Under these condi
 
 tions, I then joined Staff Sergeant Frederick's defense team and embarked on a
@@ -20392,8 +19749,6 @@ After the U.S. forces overthrew Saddam's government in March 2 0 0 3, the
 name of the prison was changed from Abu Ghraib—to dissociate it from its unsa
 
 vory past—to the Baghdad Central Confinement Facility (BCCF)—initials seen in
-
-Abu Ghraib's Abuses and Tortures
 
 3 33
 
@@ -20481,8 +19836,6 @@ they were usually sleeping in small prison cells, just like those of the prisone
 
 Stories of their comrades' deaths and the constant continuing sniper.
 
-The Lucifer Effect
-
 grenade, and mortar attacks created an ambient sense of fear among everyone
 
 assigned to the prison, which came under hostile attack as many as twenty times
@@ -20564,8 +19917,6 @@ of Abu Ghraib. soldiers assigned to duty there were obliged to eat T-Rations and
 *Abu Ghraib Prison was officially closed as of August 15, 2 0 0 6, and all remaining prisoners
 shipped to Camp Cropper, near the Baghdad airport.
 
-Abu Ghraib's Abuses and Tortures
-
 MREs (Meals Ready to Eat) out of containers. A mess hall was finally constructed
 
 in December 2 0 0 3. In summary. I cannot express the scene better than did a war
@@ -20645,8 +19996,6 @@ attitudes among the soldiers that led to a breakdown in ordinary military disci
 pline and order. "General Karpinski's subordinates at Abu Ghraib at times disre
 
 garded her commands and didn't enforce codes on wearing uniforms and
-
-The Lucifer Effect
 
 saluting superiors, which added to the lax standards that prevailed at the prison,"
 
@@ -20736,8 +20085,6 @@ being so soft on these suspected insurgents, and to start using tactics that wou
 
 get "actionable intelligence" needed in the war against terrorists and insurgents.
 
-Abu Ghraib's Abuses and Tortures
-
 Miller also insisted that the official name of the prison cease to be the Baghdad
 
 Central Confinement Facility (BCCF) and return to its original designation, which
@@ -20817,8 +20164,6 @@ but did not finish his degree. He was an average-C student, never failed a cours
 and liked to learn new skills. Chip, however, is more a jock than an intellectual; he
 
 played basketball, baseball, football, and soccer in high school. As an adult, he
-
-The Lucifer Effect
 
 continued to play softball as a left fielder, hitting for a good average rather than
 
@@ -20902,8 +20247,6 @@ Growing up with Chip was a delight for me. I am 3 months shy of being 11
 
 years older than he is. Chip was a quiet person. He was considerate of his
 
-Abu Ghraib's Abuses and Tortures
-
 peers. Chip always was thoughtful of others' feelings and was never a
 
 vengeful type person. Chip was ornery and liked practical jokes. He would
@@ -20943,8 +20286,6 @@ is a reprimand he received for once wearing the wrong uniform. However, that is
 balanced by a citation he received for preventing an inmate's suicide. Before becom
 
 ing a correctional officer, Frederick worked making eyeglasses at Bausch & Lomb.
-
-The Lucifer Effect
 
 I was able to review many of his performance evaluations, which had been
 
@@ -21032,8 +20373,6 @@ It is obvious that Chip Frederick became a valuable corrections officer who
 
 was highly effective when he had explicit procedures and written policies to fol-
 
-Abu Ghraib's Abuses and Tortures
-
 low. He clearly learned on the job and benefited from the surveillance and feed
 
 back of his supervisors. He is also someone for whom appearance and grooming
@@ -21118,8 +20457,6 @@ ceive a Bronze Star for the effective way he had dealt with a shooting incident
 
 with a Syrian detainee in Abu Ghraib, but which was not awarded after the abuse
 
-The Lucifer Effect
-
 revelations surfaced. These are some rather impressive credentials as far as I am
 
 concerned, especially for someone later alleged to be a "rogue soldier."
@@ -21199,8 +20536,6 @@ However. Dr. Beutler also says that in his considered opinion a syndrome of
 underlying psychological traits raises concerns about Chip's leadership in com
 
 plex, demanding situations, such as those he encountered at Abu Ghraib:
-
-Abu Ghraib's Abuses and Tortures
 
 These symptoms [of Frederick's] are likely to impede his ability to respond
 
@@ -21284,8 +20619,6 @@ the defining quality of burnout. Specifically, the assessment indicates a
 
 person who is emotionally drained and chronically tired. His recovery cy-
 
-The Lucifer Effect
-
 cles are not providing sufficient rest or relief from work to permit him to
 
 replenish his energy, leading to a condition of chronic weariness. It is evi
@@ -21367,8 +20700,6 @@ pared with them in starting out as a tabula rasa, a clean slate, which would soo
 become boldly etched upon by a pathological prison setting. What was the Situa
 
 tion that brought out the worst in this otherwise good soldier? How could it have
-
-Abu Ghraib's Abuses and Tortures
 
 indelibly etched itself on him, distorting his usual mental and behavioral func
 
@@ -21452,8 +20783,6 @@ well as children as young as ten years old and seniors in their sixties—all ho
 
 together in huge cells. Female prisoners, prostitutes, and the wives of generals and
 
-The Lucifer Effect
-
 men who had been important leaders in Saddam's party were housed in Tier 1B
 
 (Bravo). Each of the Alpha and Bravo tiers held about fifty prisoners at any one
@@ -21536,8 +20865,6 @@ At other times, Chip said that he would be scoffed at or reprimanded by
 
 higher-ups for complaining. Given the combat zone conditions, they told him, he
 
-Abu Ghraib's Abuses and Tortures
-
 \
 
 would have to make do as best possible. He was surely not in Kansas or the Dillwyn, Virginia, Prison. There would never be any clear written procedures, no for
@@ -21617,8 +20944,6 @@ around his prison supervision and the MP Reservists working there under his
 command. They soon became what social psychologists refer to as his "reference
 
 group," a new in-group that would come to have a big influence on him. He was
-
-The Lucifer Effect
 
 enmeshed in a "total situation," of the kind that the psychologist Robert Jay Lifton
 
@@ -21701,8 +21026,6 @@ personnel to fulfill roles previously handled by military intelligence.
 Chip's letters and e-mail messages home clearly told that a key function that
 
 he and the other MP reservists on Tier 1 Alpha served was to help the interroga-
-
-Abu Ghraib's Abuses and Tortures
 
 tors do their job more effectively. "Military intelligence has encouraged and told
 
@@ -21792,8 +21115,6 @@ those by Chip Frederick's MP night shift crew.
 
 3 50
 
-The Lucifer Effect
-
 "I hope the investigation [of inmate abuses] is including not only the people
 
 who committed the crimes, but some of the people that might have encouraged
@@ -21878,8 +21199,6 @@ in drugs to the detainees. Although Frederick was nominally in charge of these
 
 guards, they would refuse to make rounds of the tiers, and usually they just sat
 
-Abu Ghraib's Abuses and Tortures
-
 around on tables outside the tier smoking and talking. This must be added to all
 
 the other sources of Chip Frederick's constant frustrations and stress in running
@@ -21961,8 +21280,6 @@ of prisoners, wearing orange jumpsuits or totally naked, were also indistinguish
 able from one another. It was as extreme a setting for creating deindividuation as
 
 I can imagine.
-
-The Lucifer Effect
 
 Parallels with the Guards in the Stanford Prison Experiment
 
@@ -22046,8 +21363,6 @@ forces at Abu Ghraib—as in the Stanford prison—that created freedom from the
 
 usual social and moral constraints on abusive actions. It became apparent to both
 
-Abu Ghraib's Abuses and Tortures
-
 sets of night shift guards that they could get away with many taboo behaviors be
 
 cause responsibility was diffused; no one challenged them when newly emergent
@@ -22125,8 +21440,6 @@ viduation. dehumanization, enemy image, groupthink, moral disengagement,
 and social facilitation. We have discussed all of these processes earlier with regard
 
 to the Stanford Prison Experiment, and they were operating as well in Abu
-
-The Lucifer Effect
 
 Ghraib, with the exception of "groupthink." I do not believe that this biased way
 
@@ -22210,8 +21523,6 @@ investigated and when appropriate, violators were punished. Detention
 
 missions are dehumanizing for everyone involved. I think I went numb
 
-Abu Ghraib's Abuses and Tortures
-
 after the first two weeks. Active involvement by our leaders kept us from
 forgetting who we were and why we were there. Anyhow. I enjoyed read
 ing the summary of your experiment; it brought more clarity to my
@@ -22289,8 +21600,6 @@ like Animal House" (the movie). It was a Situation spiraling out of the control 
 
 any person.
 
-The Lucifer Effect
-
 Chip Frederick remembers that the abuses occurred in the following clus
 
 tered chronological order:
@@ -22326,8 +21635,6 @@ izes a long set of abuses and torture practices attributed to various members of
 this MP unit on Tiers 1A and 1B. The charges in his damning report include the
 
 following:
-
-Abu Ghraib's Abuses and Tortures
 
 a. Breaking chemical lights and pouring the phosphoric liquid on detainees;
 
@@ -22397,8 +21704,6 @@ eral of the suspects, written statements provided by detainees, and witness stat
 
 ments." concludes General T a g u b a .40
 
-The Lucifer Effect
-
 Cautionary Notes
 
 It would seem that such a list of military infractions and crimes would close the
@@ -22438,8 +21743,6 @@ made to crawl on the floor naked, chained together, and forced into simulated
 sexual acts. One of the abuse photos shows this cluster of prisoners surrounded
 by about seven soldiers looking down on them. The key protagonists were an in
 terrogator, Ramon Kroll, and MI Specialist Armin Cruz. Among those identified
-
-Abu Ghraib's Abuses and Tortures
 
 as a passive observer was MP Ken Davis. He watched it all and just walked away
 
@@ -22524,8 +21827,6 @@ prisoners was averted solely by field commanders who took charge and directed
 the unit's well-disciplined soldiers to take over.
 
 A longtime neighbor who had known Graner for thirty years added to the
-
-The Lucifer Effect
 
 positive evaluation: "He was a real good guy. I have nothing but good things to say
 
@@ -22613,8 +21914,6 @@ usually fears being rejected by others, and so in any disagreement, he often giv
 
 way in order to be accepted; he changes his mind to accommodate others so that
 
-Abu Ghraib's Abuses and Tortures
-
 they will not be "mad at me or hate me." Others can influence him even when he
 believes that he has made up his mind. Sadly, his mind was undermined by stress,
 fear, exhaustion, and Graner's influence.
@@ -22693,8 +21992,6 @@ He is then cautioned to wear his military uniform and to maintain proper
 
 military appearance (which no one on that tier had been doing). A second cau-
 
-The Lucifer Effect
-
 tion recognizes the high stress level that he and others have been operating under
 
 on that tier. Graner is asked to be aware of effects that such stress might have on
@@ -22771,8 +22068,6 @@ their "enemies," suspects, or captives. Such actions are to be expected (but not
 cepted) in war zones, when lives are risked in the line of duty and when "foreign
 ers" conduct the abuse against our soldiers. We do not expect or accept such
 
-Abu Ghraib's Abuses and Tortures
-
 behavior by agents of democratic governments when there is no imminent threat
 
 to their lives and when captives are vulnerable and unarmed.
@@ -22848,8 +22143,6 @@ tographer. It provides immediate feedback and no development waiting time, and
 its images can easily be readily shared online without being censored by filmdeveloping laboratories. Because these cameras are conveniently small in size,
 large in capacity, and relatively inexpensive, they are so ubiquitous that it is easy
 for anyone to take hundreds of photos on the spot. Just as Web logs (blogs) and
-
-The Lucifer Effect
 
 personal webcasts allow ordinary people to experience unedited moments of
 
@@ -22935,8 +22228,6 @@ battle against formidable adversaries. In a sense, they pose like the young Davi
 
 with his slingshot before the fallen giant Goliath.
 
-Abu Ghraib's Abuses and Tortures
-
 3 65
 
 Exhibitionists Performing for Voyeurs
@@ -22982,8 +22273,6 @@ Complex Motives and Social Dynamics
 Human behavior is complex, so there is often more than one reason for any given
 
 act, and in Abu Ghraib, I believe these digital images were the product of multiple
-
-The Lucifer Effect
 
 motives and interpersonal dynamics in addition to the sexuality and exhibition
 
@@ -23059,8 +22348,6 @@ course to authorities who cared enough to check out what was going on there.
 The only ones on the scene with lower status were the prisoners themselves.
 
 Therefore, the nature of the abuses as well as their documentation served to
-
-Abu Ghraib's Abuses and Tortures
 
 establish the unequivocal social dominance of every guard over all of their pris
 
@@ -23146,8 +22433,6 @@ Just as I did not encourage my guards to act sadistically, neither did the
 
 military encourage its guards to engage in sexual abuse against prisoners. Never-
 
-The Lucifer Effect
-
 theless, in both situations a general norm of permissiveness prevailed that created
 
 a sense that the guards could do pretty much whatever they felt like doing be
@@ -23232,8 +22517,6 @@ captives were temporarily imprisoned before being shipped off to Abu Ghraib.
 
 "The murderous maniacs" is what they [Fallujah citizens] called us because they
 
-Abu Ghraib's Abuses and Tortures
-
 knew that if they got caught by us and detained by us before they went to Abu
 
 Ghraib then it would be hell to pay." This sergeant's account goes on to describe
@@ -23272,8 +22555,6 @@ Ghraib] were getting in trouble for the same things we were told to do, so we de
 
 stroyed the pictures.' "61
 
-The Lucifer Effect
-
 We will meet the captain again in the next chapter, where his detailed de
 
 scription of the abuses perpetrated by his unit matches those in Tier 1 A. with the
@@ -23311,8 +22592,6 @@ also admissible in evidence:
 Conspiracy to Maltreat Detainees. Conspiracy charges are usually difficult to prove
 
 in civilian courts without hard evidence, in writing or in audio- or videotape of
-
-Abu Ghraib's Abuses and Tortures
 
 the planning. However, in this case the MPs' conspiracy consisted of entering into
 
@@ -23385,8 +22664,6 @@ were being photographed. "Under the circumstances, the conduct of the accused
 was of a nature to bring discredit upon the armed forces and was prejudicial to
 good order and discipline." the stipulation goes on. "These photographs and other
 images captured by the accused and his co-conspirators were taken for personal
-
-The Lucifer Effect
 
 reasons. The images were saved on personal computers and not for official pur
 
@@ -23472,8 +22749,6 @@ known its constraints. That is not true, as we will see in the next chapter: Pre
 
 dent George Bush and his legal advisers changed the definition of these detainees
 
-Abu Ghraib's Abuses and Tortures
-
 and of torture in a set of legal memos that rendered the Geneva Conventions ob
 solete during this "war on terror."
 
@@ -23555,8 +22830,6 @@ publicly exposed them for the first time a year later.
 
 Only one soldier was found guilty for these crimes. Lieutenant William Cal-
 
-The Lucifer Effect
-
 ley, Jr. His senior officer. Captain Ernest Medina, who was on site during this
 
 "search-and-destroy mission," and reported to be personally firing at the civil
@@ -23631,8 +22904,6 @@ Private Brand was found guilty of assault, maltreatment, false swearing, and
 maiming. Maximum sentence: 16 years in prison, DD, and E l, Received: only
 reduction in rank to E l.
 
-Abu Ghraib's Abuses and Tortures
-
 3 75
 
 Sergeant (name withheld) was found guilty of assault, unlawful discharge of
@@ -23704,8 +22975,6 @@ Chip had been given medications for the insomnia, depression, and anxiety
 attacks that he suffered in the year since the scandal broke. However, in the
 
 Kansas prison he was denied all meds, forced to "go cold turkey." That meant not
-
-The Lucifer Effect
 
 sleeping and being under constant stress. "I don't think I can do it, I don't think
 
@@ -23795,8 +23064,6 @@ what they were looking for. but it is classified so they can never tell us how m
 
 the coercive interrogations helped in their war on terror and secondary war on
 
-Abu Ghraib's Abuses and Tortures
-
 insurgents. They are not immune to lying to cover their tracks. However, most ex
 perts on torture and on police interrogations agree that such physical abuse com
 mitted with humiliating and degrading tactics rarely yields trustworthy evidence.
@@ -23874,8 +23141,6 @@ such torture in Guantanamo Bay Prison and then transporting it to Abu Ghraib
 and beyond.
 
 I will shift roles from behavioral scientist turned pyschological investigative
-
-The Lucifer Effect
 
 reporter in the current chapter to that of prosecutor in the next. I will charge se
 
@@ -23962,8 +23227,6 @@ that matter but the basic psychological dynamics that are comparable in b o t h 
 would point out further that several independent investigators have made such
 
 comparisons, as in the Schlesinger report (quoted at the start of this chapter) and
-
-Abu Ghraib's Abuses and Tortures
 
 3 79
 
@@ -24138,8 +23401,6 @@ abuses and tortures.3 Both public and private organizations, because they operat
 
 within a legal framework, not an ethical framework, can inflict suffering, even
 
-The Lucifer Effect
-
 death, on people by following cold rationality for achieving the goals of their ide
 
 ology, a master plan, a cost-benefit equation, or the bottom line of profit. Under
@@ -24217,8 +23478,6 @@ intelligence (MI) teams assigned to interrogate prisoners. It noted that the Mis
 tried to enlist the MPs to engage in activities that would "prepare" detainees for
 
 interrogation.
-
-Putting the System on Trial
 
 This MI-MP tension dated back to the Afghanistan War, during which MPs
 
@@ -24304,8 +23563,6 @@ and OGAs [other government agencies] "actively requested that MP guards set
 
 physical and mental conditions for favorable interrogation of witnesses."
 
-The Lucifer Effect
-
 In support of this assertion, Taguba cited sworn statements from several
 
 guards about the complicity of the military intelligence personnel and of the in
@@ -24383,8 +23640,6 @@ nally,' and Keep up the good work. Stuff like that."
 Reminiscent of my SPE guards' taking away the prisoners' mattresses,
 sheets, clothes, and pillows for rule violations is the statement made to Taguba by
 Specialist Jason Kennel, 3 72nd MP Company:
-
-Putting the System on Trial
 
 "I saw them nude, but MI would tell us to take away their mattresses,
 
@@ -24466,8 +23721,6 @@ which BG [Brigadier General] Karpinski supported. Despite this docu
 
 mented abuse, there is no evidence that BG Karpinski ever attempted to re-
 
-The Lucifer Effect
-
 mind 8 0 0 th MP Soldiers of the requirements of the Geneva Conventions
 
 regarding detainee treatment or took any steps to ensure that such abuse
@@ -24545,8 +23798,6 @@ in the detainee area. Having civilians in various outfits (civilian and DCUs
 sion and may have contributed to the difficulties in the accountability
 
 process and with detecting escapes.
-
-Putting the System on Trial
 
 3 87
 
@@ -24630,8 +23881,6 @@ aware of this deficiency, ever requested specific corrections training
 
 from the Commandant of the Military Police School, the US Army Con-
 
-The Lucifer Effect
-
 finement Facility at Mannheim, Germany, the Provost Marshal General of
 
 the Army, or the US Army Disciplinary Barracks at Fort Leavenworth,
@@ -24713,8 +23962,6 @@ The 3 2 0 th MP Battalion was stigmatized as a unit due to previous de
 tainee abuse which occurred in May 2 0 03 at the Bucca Theater Intern
 
 ment Facility (TIF), while under the command of LTC (P) Phillabaum.
-
-Putting the System on Trial
 
 Despite his proven deficiencies as both a commander and leader, BG
 
@@ -24800,8 +24047,6 @@ tions in Tier 1 A. They include: First Lieutenant Lewis C. Raeder, Platoon Leade
 
 Sergeant First Class Shannon K. Snider, platoon sergeant, 3 7 2 nd MP Company.
 
-The Lucifer Effect
-
 The Taguba Report issued a common justification for reprimanding those
 
 who should have been in charge of operations at Tier 1A: Reese, Raeder, Emerson,
@@ -24881,8 +24126,6 @@ yet been tried, or even charged, for the abuses at Abu Ghraib:
 Several US Army Soldiers have committed egregious acts and grave
 breaches of international law at Abu Ghraib/BCCF and Camp Bucca, Iraq.
 
-Putting the System on Trial
-
 Furthermore, key senior leaders in both the 8 0 0 th MP Brigade and the
 
 2 0 5 th MI Brigade failed to comply with established regulations, policies,
@@ -24960,8 +24203,6 @@ and this led to the use of 'high risk' interrogation techniques that left consid
 le
 
 room for misapplication, particularly under high-stress combat conditions."
-
-The Lucifer Effect
 
 The Fay/Jones Report Scales the Blame Upward and Outward?
 
@@ -25047,8 +24288,6 @@ The joint report of these generals summarizes multiple factors that they
 found as having contributed to the abuses at Abu Ghraib. Seven factors are iden
 tified as primary contributors to the abuses:
 
-Putting the System on Trial
-
 • "Individual criminal propensities" (the alleged dispositions of the reserve
 
 MPs)
@@ -25120,8 +24359,6 @@ how this matter of the military's links with the CIA was resolved. Fay/Jones not
 that "When COL Pappas raised the issue of CIA use of Abu Ghraib with COL Blotz.
 
 *We will have more to say about this detainee. Manadel al-Jamadi. later on.
-
-The Lucifer Effect
 
 COL Blotz encouraged COL Pappas to cooperate with the CIA because everyone
 
@@ -25196,8 +24433,6 @@ Decent Dogs Doing Dirty Deeds
 The Fay/Jones Report was one of the first to detail and fault some of the "ac
 cepted" tactics used to facilitate effective interrogations. For example, it notes that
 the use of dogs was imported by Major General Geoffrey Miller from Gitmo prison
-
-Putting the System on Trial
 
 3 95
 
@@ -25284,8 +24519,6 @@ Interpreters, Translators, and Medics
 The Fay/Jones Report concludes by declaring as culpable all those its investigation
 found responsible for detainee abuse at Abu Ghraib—fully twenty-seven indi-
 
-The Lucifer Effect
-
 viduals by name or identity code. What is significant to me is the number of peo
 
 ple who knew of the abuses, witnessed them, even participated in them in various
@@ -25369,8 +24602,6 @@ scious)
 • Soldier 2 4, intelligence analyst (present during abuse of detainees in
 
 many photographs)
-
-Putting the System on Trial
 
 • Soldier 2 5, interrogator (who "thought it was funny" when dog handlers
 
@@ -25456,8 +24687,6 @@ wordplay: General Sanchez is not "culpable" but merely "responsible for" every
 
 thing! We will not be as charitable to this officer.
 
-The Lucifer Effect
-
 Next we turn to a special investigation ordered by Rumsfeld and headed not
 
 by another general, but by former defense secretary James Schlesinger. This com
@@ -25533,8 +24762,6 @@ context of the abuses. They are:
 • Pressure on interrogators to produce "actionable intelligence" (with inex
 perienced, untrained personnel and detainees who were in custody for as
 long as ninety days before being interrogated)
-
-Putting the System on Trial
 
 • Leadership that was "weak," inexperienced, and operating within a con
 
@@ -25612,8 +24839,6 @@ would have been avoided with proper training, leadership, and oversight.
 These abuses . . . represent deviant behavior and a failure of leader
 
 ship and discipline.
-
-The Lucifer Effect
 
 There were other abuses not photographed during interrogation ses
 
@@ -25695,8 +24920,6 @@ meaning and significance of this damning photographic evidence of torture and
 
 abuse:
 
-Putting the System on Trial
-
 "The officials who saw the photos on January 1 4 , 2 0 0 4, not realizing their
 
 likely significance, did not recommend the photos be shown to more senior
@@ -25774,8 +24997,6 @@ conditions neither excuse nor absolve the individuals who engaged in deliberate
 immoral or illegal behaviors" even though "certain conditions heightened the
 
 possibility of abusive treatment."
-
-The Lucifer Effect
 
 The Lessons of the Stanford Prison Experiment
 
@@ -25859,8 +25080,6 @@ largest such organization that works to defend human rights worldwide. (See
 
 www.hrw.org.)
 
-Putting the System on Trial
-
 H U M AN R I G H TS W A T CH R E P O R T:
 
 " G E T T I NG AWAY W I TH T O R T U R E ? " '3
@@ -25940,8 +25159,6 @@ and military leaders—including Secretary of Defense Donald Rumsfeld,
 former CIA Director George Tenet, Lieutenant General Ricardo Sanchez, for
 
 merly the top commander in Iraq, and Major General Geoffrey Miller, the
-
-The Lucifer Effect
 
 former commander of the prison camp at Guantânamo Bay, Cuba—made
 
@@ -26023,8 +25240,6 @@ ders to soften up prisoners for interrogation." He is also reported to have said
 
 "Soldiers are not supposed to be soft and cuddly," and he was not t h a t .17
 
-Putting the System on Trial
-
 As of April 1 0, 2 0 0 6, there was no evidence that the military has even
 
 attempted to prosecute a single officer under the doctrine of command respon
@@ -26104,8 +25319,6 @@ Indeed, when a government as dominant and influential as the United
 States openly defies laws against torture, it virtually invites others to do
 
 the same. Washington's much-needed credibility as a proponent of human
-
-The Lucifer Effect
 
 rights was damaged by the torture revelations and will be further dam
 
@@ -26187,8 +25400,6 @@ warned that the mistreatment of prisoners must stop. Had he done so,
 
 many of the crimes committed by forces could have been avoided.
 
-Putting the System on Trial
-
 An investigation would also determine whether the illegal interroga
 
 tion techniques that Secretary Rumsfeld approved for Guantânamo were
@@ -26266,8 +25477,6 @@ serious injury
 • Physical or psychological coercion during interrogation to secure infor
 
 mation
-
-The Lucifer Effect
 
 • Prolonged solitary confinement in cells devoid of light
 
@@ -26433,8 +25642,6 @@ ordered (by this anonymous civilian) to shackle the prisoner to the wall, even
 
 4 10
 
-The Lucifer Effect
-
 though he was by now totally passive. They were told to hang him from his arms
 
 in a torture position known as "Palestine Hanging." (First practiced during the
@@ -26482,8 +25689,6 @@ exonerated for their part in manhandling al-Jamadi, the medic was not identified
 and, several years later, Mark Swanner continues to work for the CIA, with no
 
 criminal charge against him! Case almost closed.
-
-Putting t he System on Trial
 
 Among all the other horror images in Corporal Graner's digital camera were
 
@@ -26567,8 +25772,6 @@ Sanchez authorized interrogation methods that violate the Geneva Con
 
 ventions and the Convention against Torture. According to Human Rights
 
-The Lucifer Effect
-
 Watch, he knew, or should have known, that torture and war crimes were
 
 committed by troops under his direct command, but failed to take effective
@@ -26646,8 +25849,6 @@ hour period, not to exceed 72 continuous hours.
 Yelling, Loud Music and Light Control: Used to create fear, disorient
 detainee and prolong capture shock. Volume controlled to prevent in
 jury.
-
-Putting the System on Trial
 
 4 13
 
@@ -26728,8 +25929,6 @@ manding general of Detention Operations in Iraq, the position he held until 2 0 
 He was sent to Gitmo to replace General Rick Baccus, who higher-ups considered
 
 was "coddling" prisoners by insisting that the Geneva Conventions guidelines be
-
-The Lucifer Effect
 
 strictly followed. In short order, "Camp X-Ray" was transformed into "Camp
 
@@ -26815,8 +26014,6 @@ eral Paul Kern made evident the problems created by such application of Gitmoapp
 
 computers in Abu Ghraib SECDEF [Secretary of Defense Rumsfeld's] memos that
 
-Putting the System on Trial
-
 4 15
 
 were written for Guantanamo, not for Abu Ghraib. And that caused confusion."38
@@ -26901,8 +26098,6 @@ told the government that its treatment of detainees in many of its military pris
 
 has involved psychological and physical coercion that is "tantamount to torture."
 
-The Lucifer Effect
-
 Further, it reports that such methods being used by interrogators at Abu Ghraib
 
 "appeared to be part of the standard operating procedures by military intelligence
@@ -26983,8 +26178,6 @@ Marines Murder Iraqi Civilians in Cold Blood
 
 I have focused on understanding the nature of the bad barrel of prisons that can
 corrupt good guards, but there is a larger, more deadly barrel, that of war. In all
-
-Putting the System on Trial
 
 wars, at all times, in every country, wars transform ordinary, even good men into
 
@@ -27072,8 +26265,6 @@ Time magazine bureau in Baghdad. That prompted a more serious investigation
 
 into the murders of twenty-four civilians by that Marine battalion. It appears that
 
-The Lucifer Effect
-
 the Marines entered three homes and methodically killed most of the occupants,
 
 including seven children and four women, by gunshots and grenades. They also
@@ -27159,8 +26350,6 @@ among soldiers in combat zones is not limited to the U.S. military. British sold
 were videotaped as they beat up Iraqi youths. The cameraman, a corporal in that
 
 unit, can be heard laughing as he urges his comrades to enjoy their abuses. Obvi-
-
-Putting the System on Trial
 
 ously, the prime minister, Tony Blair, has promised a probe into what one of his
 
@@ -27248,8 +26437,6 @@ A lot of frustration arose from expending so much effort for so few solid
 
 4 20
 
-The Lucifer Effect
-
 results. That frustration also led to a lot of aggression, as the old frustrationaggression hypothesis would predict. Time was running; the insurgency was
 
 growing; pressure was building from the military commanders, who were feeling
@@ -27333,8 +26520,6 @@ and some of them had to be treated for bad abrasions on legs and arms."
 Just how far were MIs and MPs allowed to go in their quest for information?
 
 Lagouranis: "Part of it is, they were trying to get information, but part of it is
-
-Putting t he System on Trial
 
 also just pure sadism. You just kept wanting to push and push and push and see
 
@@ -27424,8 +26609,6 @@ for want of a better word, this delusion about what you're doing there. And what
 
 becomes OK as you look around gets broken down, you know? And I mean, I felt
 
-The Lucifer Effect
-
 it myself. I remember being in that shipping container in Mosul. You know, I'd
 
 been with a guy [an interrogated prisoner] all night long. And you just feel so iso
@@ -27510,8 +26693,6 @@ To FBIHQ. I entered interview rooms to find a detainee chained hand and
 
 foot in the fetal position to the floor, with no chair, food, or water. Most
 
-Putting t he System on Trial
-
 times, they had urinated or defecated on themselves, and had been left
 there for 18 to 24 hours or more.
 
@@ -27593,8 +26774,6 @@ gation teams, and had become generally accepted interrogation tactics being
 
 practiced throughout the war zones. But no photography allowed!
 
-The Lucifer Effect
-
 Elite Soldiers Do It: 82nd Airborne Break Bones, Burn Photos
 
 Perhaps the most impressive witness for my case against the entire command
@@ -27666,8 +26845,6 @@ must be complied with and conformed to.)
 
 One of Fishback's sergeants testified, "Everyone in camp knew if you wanted
 to work out your frustration you show up at the PUC tent [prisoners were called
-
-Putting t he System on Trial
 
 PUCs, "persons under control"]. In a way, it was sport. One day [another
 
@@ -27748,8 +26925,6 @@ translate for the prisoner what the official interrogator asked and said and the
 repeat the prisoner's replies to the interrogator in English. He was in a "Cyranotype role" demanding that he use precisely the proper words to convey the exact
 
 4 26
-
-The Lucifer Effect
 
 meaning of both the interrogator's and prisoner's intentions to each other. The
 
@@ -27837,8 +27012,6 @@ The prisoner resists, spitting at her. Unfazed, the interrogator turns up the
 
 screw another notch. As she unbuttons her pants, she asks the prisoner:
 
-Putting the System on Trial
-
 "Fareek, did you know that I am having my period?. . . How do you feel
 
 about me touching you now?" [As she withdrew her hand from her
@@ -27919,8 +27092,6 @@ tion booth at the time when the V.I.P. would be visiting and sitting in the
 
 observation room. Essentially, they were to find someone who had been
 
-The Lucifer Effect
-
 cooperative, who they were able to sit across a table with and have a regu
 
 lar dialogue, and someone who would also had in the past provided ade
@@ -27999,8 +27170,6 @@ The president of the Center for Constitutional Rights, Michael Ratner, said of
 
 this program:
 
-Putting the System on Trial
-
 I call it outsourcing torture. What it really means is that in the so-called
 
 war on terror, the C.I.A. picks up people anywhere in the world that it
@@ -28078,8 +27247,6 @@ torture sat on their hands and those who created and endorsed these policies
 must be held accountable."68
 
 4 30
-
-The Lucifer Effect
 
 T A K I NG IT TO T HE T O P: H O L D I NG D I CK C H E N EY
 
@@ -28160,8 +27327,6 @@ sional vote on the Iraq War resolution, President Bush told the nation and
 Congress that Iraq was an "evil nation" that threatened America's security.
 
 "Knowing these realities," Bush remarked, "Americans must not ignore the
-
-Putting t he System on Trial
 
 threat gathering against us. Facing clear evidence of peril, we cannot wait for the
 final proof—the smoking gun—that could come in the form of a mushroom
@@ -28246,8 +27411,6 @@ alleged "credible sources." Mobilizing national forces for each rise in threat l
 
 costs at least a billion dollars a month and creates unnecessary anxiety and stress
 
-The Lucifer Effect
-
 in the population. In the end. broadcasting the color-coded threat levels was less
 
 a valid warning system than the government's costly way of ensuring and sus
@@ -28330,8 +27493,6 @@ Intelligence Interrogation (FM 3 4 - 5 2 ). Not only was the bill passed 90 to 9
 
 Senate, it was endorsed strongly in a personal letter to McCain by more than a
 
-Putting the System on Trial
-
 dozen top military commanders from the Marines, Army, and Navy. They asserted
 
 that the Army field manual is the tried and true "gold standard" that should be
@@ -28406,8 +27567,6 @@ some ways you can probably get it.
 
 Wilkerson also referred to David Addington, Cheney's counsel, as "a staunch
 advocate of allowing the president in his capacity as commander in chief to devi-
-
-The Lucifer Effect
 
 ate from the Geneva Conventions."79 This leads us right up to the pinnacle of
 
@@ -28488,8 +27647,6 @@ therefore not granted any of the legal protections to which a prisoner of war is
 titled. As "enemy noncombatants," they could be held indefinitely at any facility
 
 in the world, without counsel or specific charges leveled against them. In addi-
-
-Putting the System on Trial
 
 tion, the president apparently approved the CIA's program of "disappearing"
 
@@ -28572,8 +27729,6 @@ Convention with respect to the treatment of persons seized in the context
 of armed hostilities; and (3) the desire to absolve those implementing the
 
 policies of any liability for war crimes under U.S. and international law.
-
-The Lucifer Effect
 
 Indeed, any claim of good faith—that those who formulated the poli
 
@@ -28659,8 +27814,6 @@ of this task force: "What makes me intensely proud of all these individuals was
 
 that they said, 'We will not be party to this, even if we are ordered to do so.' They
 
-Putting the System on Trial
-
 are heroes, and there's no other way to describe them. They demonstrated enor
 
 mous personal courage and personal integrity in standing up for American val
@@ -28744,8 +27897,6 @@ Paradoxically, in its desire to rid the world of the evil of terrorism, the Bush
 administration has itself become a glaring exemplar of "administrative evil." It is
 
 an organization that inflicts pain and suffering unto death while willingly using
-
-The Lucifer Effect
 
 formal, rational, and efficient procedures to disguise the substance of what it
 
@@ -28831,8 +27982,6 @@ the rule of power and tyranny. The Military Commissions Act is "a tyrannical law
 
 that will be ranked with the low points in American democracy, our generation's
 
-Putting the System on Trial
-
 version of the Alien and Sedition Acts," according to a New York Times editorial
 (September 2 8, 2 0 0 6 ). Where is the outrage by citizens and freedom loving peo
 ple everywhere?94
@@ -28908,8 +28057,6 @@ the Bush administration for its "crimes against humanity."9 6)
 While you are deliberating, consider this final section about a positive attempt by
 
 the military system to acknowledge the necessity of proper guard training and ef-
-
-The Lucifer Effect
 
 fective institutional constraints on abuses of power in interrogating prisoners.
 
@@ -28987,8 +28134,6 @@ Next, he established some basic ground rules for himself:
 
 2. Keep everything safe: physically and psychologically: health care should
 mirror the standards adopted by the American Correctional Association.
-
-Putting the System on Trial
 
 3. Keep everything legal; meet all principles of the Uniformed Code of Mili
 
@@ -29074,8 +28219,6 @@ two military psychologists to be his "roving ambassadors" in this way.)
 
 inspection of each prisoner interviewed, pre- and again postinterview, to
 
-The Lucifer Effect
-
 report any signs of changed medical status as a consequence of the inter
 
 view procedure. Similarly, a military attorney must review all procedures,
@@ -29152,8 +28295,6 @@ Well, we've made it to the end of our long journey together. I appreciate your s
 ing power to continue on despite these confrontations with some of what is worse
 in human nature. It has been especially difficult for me to revisit the scenes of
 abuse in the Stanford Prison Experiment. It has also been tough to face up to my
-
-Putting the System on Trial
 
 ineffectiveness in helping achieve a better resolution in the case of Chip Frederick.
 
@@ -29265,8 +28406,6 @@ tutional power. I tried to convey a sense of the unfolding processes by which a
 
 host of seemingly minor situational variables, such as social roles, rules, norms,
 
-Resisting Situational Influences and Celebrating Heroism
-
 and uniforms, came to have so powerful an impact on all those caught up in its
 
 system.
@@ -29351,8 +28490,6 @@ actor on the stage of life whose behavioral freedom is informed by his or her
 
 makeup—genetic, biological, physical, and psychological. The Situation is the be-
 
-The Lucifer Effect
-
 havioral context that has the power, through its reward and normative functions,
 
 to give meaning and identity to the actor's roles and status. The System consists of
@@ -29432,8 +28569,6 @@ this same hoax was effective in getting many other fast-food restaurant personne
 to follow that false authority blindly. How many? Recall in a dozen different restau
 
 rant chains in nearly seventy different establishments, in thirty-two states!2 We
-
-Resisting Situational Influences and Celebrating Heroism
 
 noted that one assistant manager in a McDonald's restaurant, who was totally
 duped by the phony caller-con man, asks us all, "Unless you are in that situation,
@@ -29516,8 +28651,6 @@ stances, behavioral scientists can predict what the majority of people will do
 
 knowing nothing about the particular people who comprise a group, only the
 
-The Lucifer Effect
-
 nature of their behavioral context. It should be clear that not even the best psy
 
 chology can predict how each and every individual will behave in a given situa
@@ -29597,8 +28730,6 @@ Let us first imagine a "Reverse-Milgram" authority experiment. Our goal is to cr
 ate a setting in which people will comply with demands that intensify over time
 
 to do good. The participants would be guided gradually to behave in ever-morealtruistic ways, slowly but surely moving further than they could have imagined
-
-Resisting Situational Influences and Celebrating Heroism
 
 toward ever-more-positive, prosocial actions. Instead of the paradigm arranged
 
@@ -29684,8 +28815,6 @@ As noted, this reverse-Milgram experiment has never been done. Suppose we ac
 
 tually attempted to perform such an experiment in the laboratory or, better yet. in
 
-The Lucifer Effect
-
 our homes and communities. Would it work? Could we use the power of authority
 
 and of the situation to produce virtue? Based on what I know about human be
@@ -29770,8 +28899,6 @@ duce littering; and to increase donating money to poor children and a willingnes
 
 to share one's resources with others.13 But one word of advice: Remember to
 
-Resisting Situational Influences and Celebrating Heroism
-
 4 51
 
 practice what you preach. Models persuade far more effectively than words. For
@@ -29849,8 +28976,6 @@ tailor resistance to each type. Combating wrong dissonant commitments requires
 different tactics from opposing compliance-gaining strategies used on us. Con
 fronting persuasive speeches and powerful communicators forces us to use differ
 ent principles than we need for dealing with those who would dehumanize us or
-
-The Lucifer Effect
 
 deindividuate us. Ways of undercutting groupthink are also different from ways
 
@@ -29931,8 +29056,6 @@ to attend to key features in the words or actions of influence agents and fail t
 tice obvious situational clues. Too often we function on automatic pilot, using
 outworn scripts that have worked for us in the past, never stopping to evaluate
 
-Resisting Situational Influences and Celebrating Heroism
-
 whether they are appropriate in the here and now.17 Following the advice of the
 
 Harvard researcher Ellen Langer, we must transform our usual state of mindless
@@ -30004,8 +29127,6 @@ mon ground with dominant others in influence situations and use it to enhance
 similarities. Anonymity and secrecy conceal wrongdoing and undermine the
 human connection. They can become the breeding grounds that generate dehumanization, and, as we now know, dehumanization provides the killing ground for
 bullies, rapists, torturers, terrorists, and tyrants. Go a step beyond self-individuation.
-
-The Lucifer Effect
 
 Work to change whatever social conditions make people feel anonymous. In
 
@@ -30086,8 +29207,6 @@ without our being conscious of them, and they shape our orientation toward the
 ideas or issues they promote. For example, voters who favored reducing estate tax
 
 benefits for the rich were urged to vote against a "death tax"; the tax was exactly
-
-Resisting Situational Influences and Celebrating Heroism
 
 455 55
 
@@ -30173,8 +29292,6 @@ freedoms for the promise of security because the sacrifices are real and immedia
 
 and the security is a distant illusion. This is as true in traditional marital arrange-
 
-The Lucifer Effect
-
 ments as it is in the commitment of good citizens to the interests of their nation
 
 when its leader promises personal safety and national security at the cost of a col
@@ -30250,8 +29367,6 @@ appreciate the wonder of human variety and its variability. Assuming such a per
 spective will help you to reduce group biases that lead to derogating others, to
 
 prejudice and stereotyping, and to the evils of dehumanization.
-
-Resisting Situational Influences and Celebrating Heroism
 
 4 57
 
@@ -30337,8 +29452,6 @@ consultants, family, and friends) got so completely sucked into it. The
 
 4 58
 
-The Lucifer Effect
-
 power of the situation to overwhelm personality and the best of intentions
 
 is the key story line here.
@@ -30418,8 +29531,6 @@ tion without changing it in any meaningful way. Christina's take on what the
 heroic minority should have done after they opposed the authority figure has
 
 never been framed so eloquently:
-
-Resisting Situational Influences and Celebrating Heroism
 
 4 59
 
@@ -30507,8 +29618,6 @@ by bringing other dissidents on board.
 
 4 60
 
-The Lucifer Effect
-
 Another aspect of heroism is raised by their example. Heroism and heroic
 
 status are always social attributions. Someone other than the actor confers that
@@ -30590,8 +29699,6 @@ analyses of human virtues by positive psychologists is a set of six major catego
 of virtuous behavior that enjoy almost universal recognition across cultures. The
 
 classification includes: wisdom and knowledge, courage, humanity, justice, tern-
-
-Resisting Situational Influences and Celebrating Heroism
 
 perance, and transcendence. Of these, courage, justice, and transcendence are
 the central characteristics of heroism. Transcendence includes beliefs and actions
@@ -30677,8 +29784,6 @@ Achilles, commander of Greek forces in the Trojan War, is often held up as an
 
 4 62
 
-The Lucifer Effect
-
 archetypal war h e r o .33 Achilles' engagement in combat was based on his commit
 
 ment to a military code that defined his actions as gallant. Yet, while his acts were
@@ -30761,8 +29866,6 @@ British Victoria Cross, and from 1 9 19 to 1 9 42 in the U.S. Navy's version of 
 
 Medal of Honor, the Tiffany Cross.
 
-Resisting Situational Influences and Celebrating Heroism
-
 4 63
 
 Civilian Heroes
@@ -30812,8 +29915,6 @@ seventeen oncoming tanks that were aimed at smashing the freedom rally of the
 Chinese Democracy Movement at Tiananmen Square, Peking, on June 5, 1 9 8 9.
 
 4 64
-
-The Lucifer Effect
 
 This young man stopped the deadly advance of a column of tanks for thirty min
 
@@ -30897,8 +29998,6 @@ ity component of heroism that betokens the Aristotelian hero among the prole
 
 tariat.42
 
-Resisting Situational Influences and Celebrating Heroism
-
 Senator John McCain, himself a hero who resisted giving any military infor
 
 mation in spite of being subjected to extreme torture, believes that the concept of
@@ -30980,8 +30079,6 @@ that might, in fact, not be heroic but "pseudoheroic."
 In his book The Guide to Pseudo-Events in America, Daniel Boorstin
 
 deflates the modern confluence of heroism with celebrity. "Two centuries ago
-
-The Lucifer Effect
 
 when a great man appeared, people looked for God's purpose in him; today we
 
@@ -31069,8 +30166,6 @@ oned because the cost of his or her actions had become too burdensome, yet they
 
 did not. Each of these individuals risked their quality of life on many levels. Their
 
-Resisting Situational Influences and Celebrating Heroism
-
 activities had serious consequences: arrest, imprisonment, torture, and risk to
 
 family members, and even assassination.
@@ -31143,8 +30238,6 @@ l
 
 a
 
-V
-
 ,
 
 y
@@ -31181,8 +30274,6 @@ a
 
 G
 
-The Lucifer Effect
-
 Subtype
 
 Definition
@@ -31211,7 +30302,6 @@ Adm. James
 Stockdale
 
 Serious Injury
-Death
 
 Carnegie
 heroes
@@ -31304,7 +30394,6 @@ e
 r
 t
 n
-I
 
 ,
 e
@@ -31313,7 +30402,6 @@ a
 r
 u
 o
-C
 
 m
 
@@ -31328,7 +30416,6 @@ l
 i
 v
 i
-C
 
 —
 m
@@ -31346,8 +30433,6 @@ t
 i
 l
 i
-
-M
 
 .
 
@@ -31377,8 +30462,6 @@ i
 c
 o
 S
-
-Resisting Situational Influences and Celebrating Heroism
 
 4 69
 
@@ -31410,7 +30493,6 @@ e
 r
 t
 n
-I
 
 ,
 e
@@ -31419,7 +30501,6 @@ a
 r
 u
 o
-C
 
 ,
 e
@@ -31550,8 +30631,6 @@ survival
 
 4 70
 
-The Lucifer Effect
-
 Subtype
 
 Definition
@@ -31579,8 +30658,6 @@ Physical
 health
 
 Serious injury
-
-Death
 
 unproven
 transportation
@@ -31659,9 +30736,6 @@ Arrest
 
 Torture
 
-Death
-Death
-
 Opportunity
 costs
 
@@ -31702,7 +30776,6 @@ e
 r
 t
 n
-I
 
 ,
 e
@@ -31711,7 +30784,6 @@ a
 r
 u
 o
-C
 
 ,
 e
@@ -31739,8 +30811,6 @@ i
 c
 o
 S
-
-Resisting Situational Influences and Celebrating Heroism
 
 Subtype
 
@@ -31772,7 +30842,6 @@ e
 r
 t
 n
-I
 
 ,
 e
@@ -31781,7 +30850,6 @@ a
 r
 u
 o
-C
 
 ,
 e
@@ -31934,8 +31002,6 @@ Joe Darby
 Sherron
 Watkins
 
-The Lucifer Effect
-
 A Sampling of Hero Profiles
 
 Putting some flesh on the bare bones of heroism both humanizes the conception
@@ -32015,8 +31081,6 @@ racy. Those who defused the anti-Communist hysteria propelled by Senator Joe
 McCarthy and the House Un-American Activities Committee in the United States
 
 never received the enduring, universal recognition that Gandhi or Mandela
-
-Resisting Situational Influences and Celebrating Heroism
 
 enjoyed. Nevertheless, their opposition to injustice meets our definitional cri
 teria.
@@ -32103,8 +31167,6 @@ political injustice and to support efforts for global peace.52
 
 4 74
 
-The Lucifer Effect
-
 Vietnam War Heroes
 
 Two very different kinds of military heroism under conditions of extreme duress
@@ -32189,8 +31251,6 @@ bunker, a lieutenant countered that they would be taken out with grenades. Re
 
 fusing to back down, Thompson replied, "I can do better than that. Keep your peo-
 
-Resisting Situational Influences and Celebrating Heroism
-
 ple in place. My guns are on you." He then ordered two other helicopters to fly in
 
 for medical evacuation of the eleven wounded Vietnamese. His plane returned to
@@ -32272,8 +31332,6 @@ findings fill four volumes of the Peers Report, released on March 1 4, 1 9 7 0. 
 though up to twenty officers and enlisted men were identified as in various ways
 
 being involved in this massacre, only Lieutenant William Calley. Jr., was convicted
-
-The Lucifer Effect
 
 and sentenced for the crimes. Although given a life sentence, his punishment was
 
@@ -32361,8 +31419,6 @@ The revelations led to a host of formal investigations into abuses in that
 
 prison and at all other military facilities where detainees were being held. Darby's
 
-Resisting Situational Influences and Celebrating Heroism
-
 actions stopped much of the torture and abuse and led to significant changes in
 
 the way the Abu Ghraib Prison was r u n .62
@@ -32444,8 +31500,6 @@ involved "cooking the books" to give the appearance of great success to cover up
 failure. The formerly reputable Arthur Andersen accounting firm was also impli
 
 cated in the huge scandal.65 An FBI staff attorney, Colleen Rowley, blew the whis-
-
-The Lucifer Effect
 
 tle on the FBI for its failure to follow up on pleas from her office that they check
 
@@ -32530,8 +31584,6 @@ Guyana."
 Six months later, her Cassandra-like prediction was eerily validated. Sadly,
 
 her pleas for aid were met by the skepticism of government officials who refused to
-
-Resisting Situational Influences and Celebrating Heroism
 
 accept that such a bizarre tale could be true. However, some concerned relatives
 
@@ -32621,8 +31673,6 @@ pretending they were off on a picnic, led them through the jungle to safety. By 
 
 4 80
 
-The Lucifer Effect
-
 time they reached the capital at Georgetown, every one of their friends and other
 
 family members was dead.
@@ -32668,8 +31718,6 @@ Hale, Mother Teresa, and Richard Rescorla. The American Revolutionary War
 hero Nathan Hale had been operating as a spy in the British ranks for some time,
 
 RISK TYPE / SACRIFICE
-
-Resisting Situational Influences and Celebrating Heroism
 
 before he was caught. While his activities were patriotic, they were not in them
 
@@ -32757,8 +31805,6 @@ because the dramatic quality of heroism that is demonstrated in perilous situa
 
 tions is not as easily evident in the civic sphere. Among civic heroes we might con-
 
-The Lucifer Effect
-
 Richard Rescorla
 (active, preservation of life, physical sacrifice)
 
@@ -32820,8 +31866,6 @@ Their concerted action prevented the plane from reaching its intended target,
 either the White House or the Capitol. That field now stands as a memorial to col
 
 lective heroism of the highest order.72
-
-Resisting Situational Influences and Celebrating Heroism
 
 H E R O IC C O N T R A S T S: T HE E X T R A O R D I N A RY
 
@@ -32901,8 +31945,6 @@ cieties. Eichmann's defense was that he was simply following orders. Of this mas
 
 murderer's motives and conscience, Arendt notes:
 
-The Lucifer Effect
-
 As for his base motives, he was perfectly sure that he was not what he
 
 called an innerer Schweinehund, a dirty bastard in the depths of his heart;
@@ -32980,8 +32022,6 @@ camps of thousands more. Yet Browning contends in his book that they were all
 everyday life. As the story of Reserve Battalion 10 demonstrates, mass murder and
 
 routine had become one. Normality itself had become exceedingly abnormal."77
-
-Resisting Situational Influences and Celebrating Heroism
 
 The psychologist Ervin Staub holds a similar view. His extensive research led
 
@@ -33066,8 +32106,6 @@ tional forces play a compelling role in moving particular individuals across a d
 cisional line from inaction to action. There is a decisive decisional moment when
 
 a person is caught up in a vector of forces that emanate from a behavioral con-
-
-The Lucifer Effect
 
 text. Those forces combine to increase the probability of one's acting to harm oth
 
@@ -33155,8 +32193,6 @@ power and the SPE's institutional power, reveals the extent to which normal, ord
 
 nary people can be led to engage in cruel acts against innocent others.85 However,
 
-Resisting Situational Influences and Celebrating Heroism
-
 in those studies and many others, while the majority obeyed, conformed, com
 
 plied, were persuaded, and were seduced, there was always a minority who re
@@ -33237,8 +32273,6 @@ in. For that, we have to join him in the jungles of Bataan." In short, we have t
 
 derstand the Person in the Situation.88
 
-The Lucifer Effect
-
 H E R O I SM VALIDATES T HE H U M AN C O N N E C T I ON
 
 For reasons we do not yet fully understand, thousands of ordinary people in every
@@ -33317,8 +32351,6 @@ M. C. Escher's "Circle Limit IV" © 2 0 06 The M. C. Escher Company-Holland.
 
 All rights reserved, www.mcescher.com.
 
-Notes
-
 CHAPTER ONE: The Psychology of Evil: Situated Character Transformations
 
 1. John Milton, Paradise Lost, in John Milton: Complete Poems and Major Prose, ed. M. Y. Hughes
@@ -33365,8 +32397,6 @@ ing Compassion After Columbine (New York: Worth, 2 0 0 0 ).
 
 8. Heinrich Kramer and Jakob Sprenger, The Malleus Maleficarum of Kramer and Sprenger
 ("The Witches' Hammer"), edited and translated by Rev. Montague Summers (New York:
-
-Notes
 
 Dover, 1 4 8 6 / 1 9 4 8 ). Written by German Dominican monks. An interesting summary is
 available online in the commentary of Stephanie du Barry ( 1 9 9 4 ), http://users.bigpond
@@ -33438,8 +32468,6 @@ those prison personnel associated with death penalty executions. Benedict Casey,
 the Execution Chamber the Moral Compass Wavers," The New York Times, February 7,
 2 0 0 6.
 
-Notes
-
 See M. J. Osofsky, A. Bandura, & P. G. Zimbardo, "The Role of Moral Disengagement in
 
 2 1.
@@ -33507,8 +32535,6 @@ remark set in place the conceptual groundwork for extreme reactions by the Guard
 toward the students who were creating the problem—to be "eradicated," without negotia
 tion or reconciliation.
 
-Notes
-
 When a group of unarmed students gathered on May 4 and was moving toward a
 group of seventy Guardsmen with bayonets readied on their rifles, one of the soldiers pan
 icked and fired directly at them. In a blind flash, there was a sudden volley by most other
@@ -33567,8 +32593,6 @@ CHAPTER THREE: Let Sunday's Degradation Rituals Begin
 of video footage made during the experiment. The names of prisoners and guards have
 been modified to conceal their true identities. Stanford Prison Experiment materials re
 ferred to in this book, and all original data and analyses, are preseved{sic} at the Archives of the
-
-Notes
 
 4 95
 
@@ -33641,8 +32665,6 @@ Stanford Prison Experiment.
 
 4 96
 
-Notes
-
 CHAPTER FOUR: Monday's Prisoner Rebellion
 
 1. The quotes in this and the other chapters on the Stanford Prison Experiment come from a
@@ -33703,8 +32725,6 @@ CHAPTER FIVE: Tuesday's Double Trouble: Visitors and Rioters
 of video footage made during the experiment.
 
 2. Guard's Shift Report.
-
-Notes
 
 3. NBC Chronolog interview ( November 1 9 7 1 ).
 4. Guard's retrospective diary.
@@ -33768,8 +32788,6 @@ their hopes up. "Maximum security" must mean they are in the Hole.
 out his version of the role made famous by Strother Martin as the cruel warden in Cool
 Hand Luke, actually looks and moves more like actor Powers Boothe playing the infamous
 
-Notes
-
 Rev. Jim Jones in the movie Guyana Tragedy. That monstrous tragedy would occur only six
 years later. Cool Hand Luke ( 1 9 6 7 ), screenplay by Donn Pearce, directed by Stuart Rosen
 berg, featuring Paul Newman as Luke Jackson. Guyana Tragedy ( 1 9 8 0 ), directed by William
@@ -33828,8 +32846,6 @@ mistic potential.
 
 4. Jane Elliott's blue-eyes/brown-eyes demonstration is told in: W. Peters, A Class Divided, Then
 and Now (Expanded Edition) (New Haven, CT: Yale University Press, 1 9 7 1 / 1 9 8 5 ).
-
-Notes
 
 Peters was involved in the filming of both prizewinning documentaries, the ABC News
 documentary "The Eye of the Storm" (available from Guidance Associates, New York)
@@ -33891,8 +32907,6 @@ no. 4, September 1 9 4 4 ).
 Howard to the first-ever hunger striker, Terence MacSwiney, MP (Member of Parliament).
 He was a newly elected lord mayor of Cork, who died during a hunger strike in 1 9 20 in
 
-Notes
-
 search of political status as a prisoner. Gerry Adams (the leader of Sinn Fein) notes that
 MacSwiney directly inspired Mahatma Gandhi (see Foreword in Bobby Sands's book). Be
 tween 1 9 76 and 1 9 81 there were various periods of such hunger strikes among Irish po
@@ -33950,8 +32964,6 @@ mined to go on living, so as to be able someday to defeat the enemy.
 . .. All this worked only up to a point. If there was no or only little indication that
 someone, or the world at large, was deeply concerned about the fate of the prisoner, his
 ability to give positive meaning to signs from the outside world eventually vanished and he
-
-Notes
 
 felt forsaken, usually with disastrous consequences for his will and with it his ability to sur
 vive. Only a very clear demonstration that one was not abandoned—and the SS saw to it
@@ -34013,8 +33025,6 @@ and guards.
 25. NBC Chronolog interview, November 1 9 7 1.
 
 5 02
-
-Notes
 
 2 6. Guard's retrospective diary.
 2 7. Guard's retrospective diary.
@@ -34078,8 +33088,6 @@ and Life, 14th ed., (New York: HarperCollins, 1996), p. 587.
 
 7. B. Bettelheim. The Informed Heart: Autonomy in a Mass Age (Glencoe, IL: Free Press, 1 9 6 0 ).
 8. J. Frankel. "Exploring Ferenczi's Concept of Identification with the Aggressor: Its Role in
-
-Notes
 
 5 03
 
@@ -34156,8 +33164,6 @@ Character (as told to Ralph Leighton) (New York: Norton, 1 9 8 8 ).
 
 5 04
 
-Notes
-
 29. E. Kogon, J. Langbein, and A. Ruckerl, eds., Nazi Mass Murder: A Documentary History of the
 
 Use of Poison Gas (New Haven, CT: Yale University Press, 1 9 9 3 ), pp. 5, 6.
@@ -34225,8 +33231,6 @@ ior 17 ( 1 9 9 3 ): 3 7 1 - 9 8; C. Haney, "Infamous Punishment: The Psychologic
 lation," National Prison Project Journal 8 ( 1 9 9 3 ): 3 - 2 1; C. Haney, "The Social Context of
 Capital Murder: Social Histories and the Logic of Capital Mitigation," Santa Clara Law Re
 view 35 ( 1 9 9 5 ): 5 4 7 - 6 0 9; C. Haney. Reforming Punishment: Psychological Limits to the Pain
-
-Notes
 
 5 05
 
@@ -34296,8 +33300,6 @@ no. 15. October 2 5, 1 9 7 1, Hearings Before Subcommittee No. 3 of the Committe
 Judiciary, House of Representatives, Ninety-Second Congress, First Session on Corrections,
 
 5 06
-
-Notes
 
 Part II, Prisons, Prison Reform and Prisoner's Rights: California (Washington, DC: U.S.
 Government Printing Office, 1 9 7 1 ).
@@ -34372,8 +33374,6 @@ pp.Cl.C5.
 
 4 8. W. Mares, The Marine Machine: The Making of the United States Marine (New York: Doubleday, 1 9 7 1 ).
 
-Notes
-
 CHAPTER TWELVE: Investigating Social Dynamics: Power, Conformity, and
 Obedience
 
@@ -34444,8 +33444,6 @@ Review 93 ( 1 9 8 6 ): 2 3 - 3 2.
 
 5 08
 
-Notes
-
 16. S. Moscovici, "Social Influence and Conformity." in The Handbook of Social Psychology, 3rd.
 ed.. eds. G. Lindzey and E. Aronson (New York: Random House, 1 9 8 5 ). pp. 3 4 7 - 4 1 2.
 17. T. Blass, Obedience to Authority: Current Perspectives on the Miligram Paradigm (Mahwah, NJ:
@@ -34511,8 +33509,6 @@ national Journal of Psychiatry 6 ( 1 9 6 8) 2 8 2 - 9 3.
 27. C. K. Hofling, E. Brotzman. S. Dalrymple, N. Graves, and C. M. Pierce, "An Experimental
 Study in Nurse-Physician Relationships," Journal of Nervous and Mental Disease 143
 (1966): 1 7 1 - 8 0.
-
-Notes
 
 5 09
 
@@ -34592,8 +33588,6 @@ Murders Reconstruct Brazilian Atrocities (Berkeley: University of Califrornia Pr
 
 ical site: www.soaw.org/new/.
 
-Notes
-
 4 8. F. Morales, "The Militarization of the Police," Covert Action Quarterly 67 (Spring-Summer
 
 1999): 67.
@@ -34663,8 +33657,6 @@ edu/Aboutjonestown/Tapes/Tapes/Deathtape/Q042.maaga.html.
 
 p. 1 5.
 
-Notes
-
 CHAPTER THIRTEEN: Investigating Social Dynamics: Deindividuation,
 Dehumanization, and the Evil of Inaction
 
@@ -34730,8 +33722,6 @@ Prentice-Hall, 1 9 6 3 ).
 
 5 12
 
-Notes
-
 12. See C. Maslach and P. G. Zimbardo. "Dehumanization in Institutional Settings: 'Detached
 Concern' in Health and Social Service Professions; The Dehumanization of Imprison
 ment," paper presented at the American Psychological Association Convention, Montreal,
@@ -34796,8 +33786,6 @@ America's Quest for Racial Purity (New York: Knopf, 2 0 0 6 ).
 2 3. See: F. Galton. Hereditary Genius: An Inquiry into Its Laws and Consequences, 2nd ed. (Lon
 don: Macmillan, 1 8 9 2; Watts and Co. 1 9 5 0 ); R. A. Soloway, Democracy and Denigration: Eu
 genics and the Declining Birthrate in England, 1877-1930 (Chapel Hill: University of North
-
-Notes
 
 5 13
 
@@ -34872,8 +33860,6 @@ search collaborator Craig Haney has written extensively on the need for greater 
 
 5 14
 
-Notes
-
 of contextual factors in legal justice; see, e. g., C. Haney, "Making Law Modern: Toward a
 Contextual Model of Justice," Psychology, Public Policy and Law 8 ( 2 0 0 2 ): 3 - 6 3.
 
@@ -34940,8 +33926,6 @@ at www.washingtonpost.com/wp-dyn/articles/Al 7 8 1 2 - 2 0 0 4 M a y l l . h t m
 
 9. Joseph Darby gave his first interview about his role in exposing the abuses to Wil S. Hylton,
 
-Notes
-
 in GQ magazine, September 2 0 0 6, entitled "Prisoner of Conscience." (Darby quotes are
 from this source.) Available online at http://men.styIe.com/gq/features/landing?id=
 content_4785/.
@@ -35006,8 +33990,6 @@ on May 4, 2 0 0 6.
 
 5 16
 
-Notes
-
 19. The psychological assessment consisted of an interview with the military psychologist, Dr.
 Alvin Jones, on August 31 and September 2, 2 0 0 4, followed by a battery of psychological
 tests. They included the Minnesota Multiphasic Inventory, Second Edition (MMPI-2); the
@@ -35070,8 +34052,6 @@ transcript of the program can be accessed at: http://news.bbc.co.Uk/2/hi/program
 The Washington Post: S. Coll, "Barrage of Bullets Drowned Out Cries of Comrades: Commu
 nication Breakdown, Split Platoon Among Factors of 'Friendly Fire,' " The Washington Post,
 December 4, 2 0 0 4, p A01; S. Coll, "Army Spun Tale Around Ill-Fated Mission," The Wash-
-
-Notes
 
 5 17
 
@@ -35149,8 +34129,6 @@ bles," Pittsburgh Post-Gazette, May 8, 2 0 0 4.
 
 5 18
 
-Notes
-
 4 6. Personal written communication from Chip Frederick to me from Fort Leavenworth,
 
 June 12, 2 0 0 5.
@@ -35174,8 +34152,6 @@ www.nowthatsfuckedup.com/bbs/ftopic41640.html.)
 56. www.armenocide.am.
 57. For more on Teddy Roosevelt's trophy photos with his son Kermit, see "On Safari with
 Theodore Roosevelt, 1 9 0 9 ," available at www.eyewitnesstohistory.com/tr/htm. Interest-
-
-Notes
 
 ingly, although the expedition was billed as "collecting" a variety of animal species, it was
 actually a hunt-and-kill safari in which 512 animals were slain, among them 17 lions, 11
@@ -35234,8 +34210,6 @@ thinking, and behavior; see Robert M. Sapolsky, "Why Stress Is Bad for Your Brai
 6 5. E. Aronson and J. Mills, "The Effect of Severity of Initiation on Liking for a Group," Journal
 
 of Abnormal and Social Psychology 59 ( 1 9 5 9 ): 1 7 7 - 8 1.
-
-Notes
 
 6 6. Personal communication, February 2 5, 2 0 0 5.
 67. Personal communication, June 15, 2 0 0 5.
@@ -35299,8 +34273,6 @@ ourname.net/war/torture-5may04.htm.
 
 6. Available at http://news.findlaw.com/nytimes/docs/iraq/tagubarpt.html#ThRl.14.
 7. Part of the Fay/Jones Report is presented in Steven Strasser and Craig R. Whitney eds., The
-
-Notes
 
 Abu Ghraib Investigations: The Officiai Reports of the Independent Panel and the Pentagon on the
 Shocking Prisoner Abuse in Iraq (New York: PublicAffairs, 2 0 0 4 ). The full report is available
@@ -35382,8 +34354,6 @@ Coalition Forces of Prisoners of War and Other Protected Persons by the Geneva C
 
 5 22
 
-Notes
-
 tions in Iraq During Arrest, Internment and Interrogation," February 2 0 0 4. See
 http://download.repubbIica.it/pdf/rapporto_crocerossa.pdf.
 
@@ -35453,8 +34423,6 @@ Post, May 9, 2 0 0 4. Also see Janis Karpinski, One Woman's Army (New York: Hype
 37. Jeffrey R. Smith, "General Is Said to Have Urged Use of Dogs," The Washington Post, May 26,
 
 2 0 0 4.
-
-Notes
 
 38. General Kern in "A Question of Torture," PBS Frontline, October 18, 2 0 0 5.
 39. Major General Geoffrey Miller retired from the military on July 31, 2 0 0 6. He elected to re
@@ -35527,8 +34495,6 @@ August 2, 2 0 0 6. available at www.msnbc.com/id/14150285.
 
 5 24
 
-Notes
-
 5 1. T. Whitmore, "Ex-Soldier Charged with Rape of Iraqi Woman, Killing of Family," June 3,
 2 0 0 6, available at http://news.flndlaw.com/ap/0/51/07-04-2006/d493003212d3/
 a9c.html; Julie Rawe and Aparisim Ghosh, "A Soldier's Shame," Time, July 17, 2 0 0 6,
@@ -35596,8 +34562,6 @@ United States, and to question those held in them with unprecedented harshness."
 6 6.
 
 Ibid.
-
-Notes
 
 5 25
 
@@ -35673,8 +34637,6 @@ profile in courage." Some of them have paid a high price for defending the princ
 tion of laws and not men—being ostracized, denied promotions, and encouraged to leave
 the service.
 
-Notes
-
 8 4. Joshua Dratel, "The Legal Narrative," in The Torture Papers, p. xxi.
 8 5. B. Minutaglio, The President's Counselor: The Rise to Power of Alberto Gonzales (New York:
 
@@ -35740,8 +34702,6 @@ In January 2 0 0 6, a tribunal was held in New York City by The International Co
 of Inquiry on Crimes Against Humanity Committed by the Bush Administration of the
 
 9 6.
-
-Notes
 
 United States. Among other charges this tribunal leveled at the Bush administration were
 the following six counts that are in accordance with the command complicity charges I
@@ -35815,8 +34775,6 @@ ments," Jigsaw productions, Sundance TV, June 1, 2 0 0 6.
 
 5 28
 
-Notes
-
 portrayed by Anthony Quinn in the 1 9 64 movie of the same name, directed by Michael Cacoyannis, and co-starring Alan Bates as the shy, intellectual boss who is the foil to Zorba's
 boundless extroversion and devotion to living life with unbridled passion.
 
@@ -35876,8 +34834,6 @@ Technique: Initial Request and Organ Donation," Basic and Applied Social Psychol
 plication of the Foot in the Door Technique to Organ Donation," Journal of Business and
 Psychology 4 ( 1 9 8 9 ): 2 4 5 - 4 9; R. D. Katzev and T. R. Johnson, "Comparing the Effects of
 Monetary Incentives and Foot-in-the-Door Strategies in Promoting Residential Electricity
-
-Notes
 
 Conservation," Journal of Applied Social Psychology 14 ( 1 9 8 4 ): 1 2 -2 7; T. H. Wang and R. D.
 Katsev, "Group Commitment and Resource Conservation: Two Field Experiments on Pro
@@ -35944,8 +34900,6 @@ ed. (Chicago: University of Chicago Press, 2 0 0 3 ).
 2 3. P. G. Zimbardo and J. N. Boyd, "Putting Time in Perspective: A Valid, Reliable Individual Dif
 
 ferences Metric," Journal of Personality and Social Psychology 77 ( 1 9 9 9 ): 1 2 7 1 - 8 8.
-
-Notes
 
 2 4. Andre Stein, Quiet Heroes: True Stories of the Rescue of Jews by Christians in Nazi-Occupied
 
@@ -36021,8 +34975,6 @@ sense, evil though he is and is known to be. The tragic hero must fall because h
 4 1. S. Becker and A. Eagly, "The Heroism of Women and Men," American Psychologist 59
 
 ( 2 0 0 4 ): 1 6 3 - 7 8; quote, p. 1 6 4.
-
-Notes
 
 4 2. Peter Martens, "Definitions and Omissions of Heroism," American Psychologist 60 (2005)-
 
@@ -36101,8 +35053,6 @@ Lai: Moving Beyond the Massacre (Lawrence: University of Kansas Press; quote, pp
 
 5 32
 
-Notes
-
 59. Joe Darby spoke out publicly for the first time since exposing the Abu Ghraib atrocities in an
 interview with Wil S. Hylton in GQ magazine, September 2 0 0 6, entitled "Prisoner of Con
 science." (Darby quotes are from this source.) Available online at http://men.style.com/gq
@@ -36179,8 +35129,6 @@ bridge University Press, 1 9 8 9 ), p. 1 2 6.
 
 79. Z. Bauman, Modernity and the Holocaust (Ithaca, NY: Cornell University Press, 1 9 8 9 ).
 
-Notes
-
 5 33
 
 80. J. Conroy, Unspeakable Acts, Ordinary People: The Dynamics of Torture (New York: Knopf,
@@ -36240,8 +35188,6 @@ eldoradotimes.com/articles/2006/01/17/news/news6.txt.
 9 1. Aleksandr I. Solzhenistyn, The Gulag Archipelago, 1918-1956 (New York: Harper & Row,
 
 1 9 7 3 ).
-
-Index
 
 Abu Ghraib Prison, 6, 9, 46
 
@@ -36353,8 +35299,6 @@ original purpose of, 4 6, 3 3 2, 3 63
 accountability. See personal responsibility
 
 5 36
-
-Index
 
 Achilles, as archetypal war hero, 4 6 1 - 6 2,
 
@@ -36501,8 +35445,6 @@ dispositional vs. situational causes of, ix-x,
 
 xiv, 5 - 1 1, 1 4 - 2 2, 78. 1 9 5, 2 1 0 - 1 2,
 
-Index
-
 5 37
 
 2 1 7 - 1 8, 2 2 7, 2 2 9 - 3 1, 2 5 4, 2 5 7, 2 7 1,
@@ -36645,8 +35587,6 @@ People's Temple cult and, 4 79
 "renditions" and, 4 0 3, 4 0 8, 4 2 8 - 29
 
 5 38
-
-Index
 
 Central Intelligence Agency (CIA) (cont.)
 torture and, 2 9 0 , 4 0 8 - 1 1, 4 1 5 , 4 2 3,
@@ -36801,8 +35741,6 @@ as psychological process, 4 - 5 , 1 7 - 1 8, 2 1,
 
 2 2 2 - 2 4, 2 4 1 - 4 2, 2 9 5, 3 5 3, 3 54
 
-Index
-
 resistance to, 4 5 1, 4 5 3 - 54
 suicide bombing and, 2 92
 wartime atrocities and, 17
@@ -36955,8 +35893,6 @@ series), 2 1 3 - 14
 
 5 40
 
-Index
-
 F-Scale (personality measure), 1 9 8 , 2 87
 Faces of the Enemy (Keen), 3 1 2 - 13
 Fay, George R. 3 58
@@ -37095,8 +36031,6 @@ groupthink, 3 5 3 - 5 4, 4 0 2, 4 5 2, 4 56
 Guantanamo Bay Prison ("Gitmo")
 
 calls for shutdown of, 4 42
-
-Index
 
 5 41
 
@@ -37244,8 +36178,6 @@ frustration of, 2 91
 perversion of, 2 3 0, 2 58
 
 5 42
-
-Index
 
 Human Rights Watch
 
@@ -37395,8 +36327,6 @@ Joiner, Thomas, 2 91
 Jones, Alvin, 3 37
 Jones, Anthony R. See Fay/Jones Report
 
-Index
-
 Jones, Jim (cuit leader), 2 1 1, 2 9 4 - 9 5, 4 4 8,
 
 learning, experiential. See experiential
@@ -37539,8 +36469,6 @@ See also genocide; Holocaust
 Mayer, Jane, 2 5 3 , 4 09
 
 5 44
-
-Index
 
 McCain, John, 4 2 4, 4 2 5, 4 3 2, 4 65
 McCain Amendment, 4 3 2 - 3 3, 4 37
@@ -37685,8 +36613,6 @@ collaborators with, 2 8 1, 2 8 5, 2 8 7 - 88
 legal advisors to, 4 36
 war crimes trials of, 2 1 8, 2 88
 See also anti-Semitism; concentration
-
-Index
 
 5 45
 
@@ -37837,8 +36763,6 @@ Pitzer, Kenneth, 26
 
 5 46
 
-Index
-
 Plakias, Terrence, 3 5 4 - 55
 Plous, Scott, 2 4 8, 2 55
 Pohl, James, 3 73
@@ -37981,8 +36905,6 @@ Rehov, Pierre, 2 92
 Reiter, Ester, 2 8 0 - 81
 Rejali, Darius, 3 77
 
-Index
-
 5 47
 
 rejection, fear of, 2 5 9 - 60
@@ -38124,8 +37046,6 @@ research on, xii, 2 6 0 - 6 1, 2 6 2 - 7 9.
 resistance to unwanted, xiii, 7, 2 1 , 1 6 4,
 
 5 48
-
-Index
 
 situational forces (cont.)
 
@@ -38275,8 +37195,6 @@ evil of inaction in, ix, 3 1 7 - 1 8, 4 5 7 - 58
 1 0 9 - 1 0, 1 8 6 - 87
 
 interpretation of, xii, 78, 9 9, 1 6 9 - 7 1,
-
-Index
 
 5 49
 
@@ -38437,8 +37355,6 @@ See also suicide bombings
 
 5 50
 
-Index
-
 Thich Nhat Hanh, 2 19
 "Third Wave" fascism simulation, 2 8 1 - 83
 Thompson, Hugh, Jr., 4 7 4 - 75
@@ -38586,8 +37502,6 @@ women
 4 4 4 - 45
 
 as Abu Ghraib prisoners, 3 4 5 - 4 6, 3 55
-
-Index
 
 abuse of, 2 5 2, 2 74
 as "Gitmo" interrogators, 4 1 9, 4 2 3,

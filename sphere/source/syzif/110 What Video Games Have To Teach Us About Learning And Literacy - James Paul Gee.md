@@ -147,8 +147,6 @@ Appendix: The 36 Learning Principles
 References
 Index
 
-This page intentionally left blank
-
 02 gee ch 1 3/13/03 12:05 PM Page 1
 
 I N T R O D U C T I O N :
@@ -258,8 +256,6 @@ as theology, as literature, and as a religious skeptic, thanks to different expe
 
 02 gee ch 1 3/13/03 12:05 PM Page 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 person," a way of taking on a certain sort of identity. In that sense, each of us
 has multiple identities. Even a priest can read the Bible "as a priest," "as a literary critic," "as a historian," even "as a male" or " as an African American"
 (priest, literary critic, historian, or ethnic group member), even if he chooses
@@ -297,8 +293,6 @@ boat, which is afraid of water, can feel free to go "boating" on the water and
 take Pajama Sam where he needs to go. I decided to play through the game
 
 02 gee ch 1 3/13/03 12:05 PM Page 5
-
-v INTRODUCTION v
 
 by myself so I could "coach" my child as he played. (Now he charges me a
 dollar any time I attempt to "coach" him when he is playing a video game—
@@ -341,8 +335,6 @@ Oddly enough, then, confronting what was, for me, a new form of learning and thi
 
 02 gee ch 1 3/13/03 12:05 PM Page 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 that I could remember from my days in graduate school and earlier in my career (and when I changed careers midstream). Having long routinized my
 ways of learning and thinking, however, I had forgotten this state. It brought
 back home to me, forcefully, that learning is or should be both frustrating
@@ -379,8 +371,6 @@ this: the theory of human learning built into good video games.
 
 02 gee ch 1 3/13/03 12:05 PM Page 7
 
-v INTRODUCTION v
-
 Of course, there is an academic field devoted to studying how human beings learn best and well, namely the field of cognitive science. So we can,
 then, compare the theory of learning in good video games to theories of
 learning in cognitive science. Who's got the best theory? Well, it turns out
@@ -415,8 +405,6 @@ games—are inherently social, though, in video games, sometimes the other
 players are fantasy creatures endowed, by the computer, with artificial intelligence and sometimes they are real people playing out fantasy roles.
 
 02 gee ch 1 3/13/03 12:05 PM Page 8
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 However, this book has another goal as well. It seeks to use the discussion of video games to introduce the reader to three important areas of current research and to relate these areas together. One of these areas is work on
 "situated cognition" (i.e., thinking as tied to a body that has experiences in
@@ -455,8 +443,6 @@ highly selective. People who know little about these areas will pick up only
 the big picture. People who know a lot about them will quickly realize that I
 
 02 gee ch 1 3/13/03 12:05 PM Page 9
-
-v INTRODUCTION v
 
 am developing my own perspectives in each of these areas, while many other
 perspectives exist as well. Nonetheless, I believe that these three areas capture central truths about the human mind and human learning and that these
@@ -497,8 +483,6 @@ find the games too hard and frustrating, without the personal payoff that
 
 1 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 makes for continued practice. Nonetheless, we can learn a lot from those
 young people who play games, if only we take them and their games seriously. And, indeed, I am always struck by how many people, even some of the
 liberal advocates of multiculturalism, readily decry and seek to override people's cultures when these cultures are popular peer-based ones centered
@@ -530,8 +514,6 @@ Furthermore, there are many categories of very sophisticated video
 games—simulations and some strategy games—that do not involve any violence at all. Nonetheless, I base my arguments in this book in part on shooter
 
 02 gee ch 1 3/13/03 12:05 PM Page 11
-
-v INTRODUCTION v
 
 1 1
 
@@ -575,8 +557,6 @@ the role of learning and thinking in video games. King 2002, prepared for a
 02 gee ch 1 3/13/03 12:05 PM Page 12
 
 1 2
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 museum exhibit on video games, contains a wide array of interesting articles on all
 aspects of the games.
@@ -627,8 +607,6 @@ usual in the past.
 03 gee ch 2 3/13/03 12:06 PM Page 14
 
 1 4
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 In such multimodal texts (texts that mix words and images), the images
 often communicate different things from the words. And the combination of
@@ -712,8 +690,6 @@ make better readers (people who can understand texts from or about a given
 
 1 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 social practice). Note that by "writers" here I do not mean people who can
 just write down words appropriate to a particular practice such as field biology. I mean people who can write a text that field biologists would recognize
 as an acceptable text within their family of social practices.
@@ -752,8 +728,6 @@ For example, consider once again our sentence about basketball: "The
 guard dribbled down court, held up two fingers, and passed to the open
 
 03 gee ch 2 3/13/03 12:06 PM Page 17
-
-v SEMIOTIC DOMAINS v
 
 1 7
 
@@ -797,8 +771,6 @@ these things are signs (symbols, representations, whatever term you want to
 
 1 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 use) that "stand for" (take on) different meanings in different situations, contexts, practices, cultures, and historical periods. For example, the image of a
 cross means Christ (or Christ's death) in the context of Christian social practices, and it means the four points of the compass (north, south, west, and
 east) in the context of other social practices (e.g., in some African religions).
@@ -831,8 +803,6 @@ can read and/or write a language like English or Russian, though here, still,
 we will want to insist that there are different ways to read and write different
 
 03 gee ch 2 3/13/03 12:06 PM Page 19
-
-v SEMIOTIC DOMAINS v
 
 1 9
 
@@ -874,8 +844,6 @@ about the size of an American quarter), bald, big-eared, bulbous-nosed spaceman 
 
 2 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Captain Olimar (i.e., the player) must collect the spaceship's lost parts, scattered throughout the planet, while relying on his spacesuit to protect him
 from the planet's poisonous atmosphere. Thus, the player must carefully
 monitor the damage done to Captain Olimar's suit and repair it when
@@ -914,8 +882,6 @@ The problem of content is, I believe, based on common attitudes toward
 school, schooling, learning, and knowledge. These attitudes are compelling,
 
 03 gee ch 2 3/13/03 12:06 PM Page 21
-
-v SEMIOTIC DOMAINS v
 
 2 1
 
@@ -957,8 +923,6 @@ answer it directly.
 
 2 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 A N A LT E R N AT I V E P E R S P E C T I V E
 O N L E A R N I N G A N D K N O W I N G
 
@@ -995,8 +959,6 @@ So these students have entered the semiotic domain of physics as passive
 content but not as something in terms of which they can actually see and operate on their world in new ways. There may be nothing essentially wrong with
 
 03 gee ch 2 3/13/03 12:06 PM Page 23
-
-v SEMIOTIC DOMAINS v
 
 2 3
 
@@ -1043,8 +1005,6 @@ forming new affiliations, and preparation for future learning a bit more.
 
 2 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 M O R E O N S E M I O T I C D O M A I N S :
 S I T U AT E D M E A N I N G S
 
@@ -1079,8 +1039,6 @@ symbol, image, or artifact within embodied experiences of action, interaction, o
 person has actually had or ones he or she can imagine, thanks to reading, dialogue with others, or engagement with various media. This is what our col-
 
 03 gee ch 2 3/13/03 12:06 PM Page 25
-
-v SEMIOTIC DOMAINS v
 
 2 5
 
@@ -1125,8 +1083,6 @@ influential." Of course, you don't have to be an academic to imagine academic li
 
 2 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 in your mind (in this case, the sorts of experiences, attitudes, values, and feelings an academic might have), however unconsciously you do this. And, perhaps, you can do this because of your reading or other vicarious experiences.
 Perhaps you can do it through analogies to other domains with which you are
 more familiar (e.g., you might equate your hobby as an artist with the academic's research and understand how "work" can mean, in a certain sort of situation, efforts connected to a vocation).
@@ -1157,8 +1113,6 @@ content we find in first-person shooter games. This is to view the semiotic
 domain internally.
 
 03 gee ch 2 3/13/03 12:06 PM Page 27
-
-v SEMIOTIC DOMAINS v
 
 2 7
 
@@ -1201,8 +1155,6 @@ semiotic domain of theoretical linguistics. If history had been different, perha
 
 2 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 piece of content. But given how history did happen, and how we therefore now
 define the nature of science and academic fields, this is not a possible piece of
 content in the semiotic domain of theoretical linguistics.
@@ -1238,8 +1190,6 @@ Do the internal and external aspects of a semiotic domain have anything
 to do with each other? Of course, if we are talking about academic disciplines
 
 03 gee ch 2 3/13/03 12:06 PM Page 29
-
-v SEMIOTIC DOMAINS v
 
 2 9
 
@@ -1277,8 +1227,6 @@ linguistics would converge on the "true" one. But you and I won't be here for
 03 gee ch 2 3/13/03 12:06 PM Page 30
 
 3 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 "the end" of time, so we are stuck with the fact that the internal and external
 aspects of semiotic domains—even academic fields and areas of science—
@@ -1321,8 +1269,6 @@ languages are equal" (in one specific meaning) and "The basic syntactic rules
 
 03 gee ch 2 3/13/03 12:06 PM Page 31
 
-v SEMIOTIC DOMAINS v
-
 3 1
 
 in the core grammar of any language are optimal" count as possible claims in
@@ -1360,8 +1306,6 @@ connection between linguistic work and religion. They would not see translating 
 
 3 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Today the external design grammar of the field does not readily allow for a
 connection between work as a linguist and religion, for identities as a linguist
 that are formed around this connection or for social practices germane to it.
@@ -1396,8 +1340,6 @@ practices and identities, since that content shapes and transforms those practic
 Just the same things can be said about those who design the semiotic domain of theoretical linguistics, internally and externally. Linguists who write
 
 03 gee ch 2 3/13/03 12:06 PM Page 33
-
-v SEMIOTIC DOMAINS v
 
 3 3
 
@@ -1443,8 +1385,6 @@ don't realize that doing this would "break the rules." It would be a serious dep
 
 3 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 wants, and values. Many platform-game players think keyboards are a bad
 way to play video games, while some computer-game players think they are a
 good way. In turn, these matters are connected to their identities as game
@@ -1482,8 +1422,6 @@ repetition in the way in which I do. They see it an opportunity to perfect
 their skills and get more play out of a game they enjoy.
 
 03 gee ch 2 3/13/03 12:06 PM Page 35
-
-v SEMIOTIC DOMAINS v
 
 3 5
 
@@ -1524,8 +1462,6 @@ will rebound on and change the internal design grammar. Designers and producers 
 
 3 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 platform features to design new games. Hybrids between typical platform
 games and typical computer games will arise. The distinction in content between platform games (which tended to stress fast action) and computer
 games (which can store more information and stress deeper stories) may blur.
@@ -1559,8 +1495,6 @@ groups have, more or less, different ways of being, doing, feeling, valuing,
 and talking as "everyday people." Thus there are many lifeworld domains,
 
 03 gee ch 2 3/13/03 12:06 PM Page 37
-
-v SEMIOTIC DOMAINS v
 
 3 7
 
@@ -1602,8 +1536,6 @@ word "light" in everyday interactions in these sentences: Turn the light on.
 
 3 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 This light isn't giving much light. I can see a far off light. I am just bathing in
 this light. The effects of light in this part of the county are wonderful. The
 last thing I saw was a bright light. Of course, when we consider, in the context of lifeworld domains, words like "truth," "good," "democracy," "fairness," "honesty," and so forth, things get yet more variable, more deeply
@@ -1638,8 +1570,6 @@ learned through the Internet and television more about stock trading or even
 law than many of the adults around them could ever imagine knowing. (One
 
 03 gee ch 2 3/13/03 12:06 PM Page 39
-
-v SEMIOTIC DOMAINS v
 
 3 9
 
@@ -1682,8 +1612,6 @@ good science classrooms and when I discuss the notion of precursor domains.
 
 4 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 However, as I said earlier, critical learning involves yet another step. For
 active learning, the learner must, at least unconsciously, understand and operate within the internal and external design grammars of the semiotic domain
 he or she is learning. But for critical learning, the learner must be able consciously to attend to, reflect on, critique, and manipulate those design grammars at a metalevel. That is, the learner must see and appreciate the semiotic
@@ -1717,8 +1645,6 @@ bring together (by moving Captain Olimar and his Pikmin) the combination
 of Pikmin, a rock wall, and a small tin can laying near the wall, containing lit-
 
 03 gee ch 2 3/13/03 12:06 PM Page 41
-
-v SEMIOTIC DOMAINS v
 
 4 1
 
@@ -1759,8 +1685,6 @@ learning, but they are not yet critical learning that leverages the design gramm
 
 4 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 this as well—that is, his process of learning the game is not only active, it is
 increasingly critical.
 
@@ -1797,8 +1721,6 @@ by critical learning and thinking. Of course, the six-year-old is only beginning
 games, but he is well begun.
 
 03 gee ch 2 3/13/03 12:06 PM Page 43
-
-v SEMIOTIC DOMAINS v
 
 4 3
 
@@ -1840,8 +1762,6 @@ ways. They attempt through their content and social practices to recruit people
 
 4 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 to think, act, interact, value, and feel in certain specific ways. In this sense, they
 attempt to get people to learn and take on certain sorts of new identities, to become, for a time and place, certain types of people. In fact, society as a whole is
 simply the web of these many different sorts of identities and their characteristic associated activities and practices.
@@ -1875,8 +1795,6 @@ At the same time, the boy is encouraged to see himself as solving problems from 
 and his faithful helpers (the Pikmin) and, thus, to get outside his "real" identity and play with the notions of perspectives and identities themselves. He is
 
 03 gee ch 2 3/13/03 12:06 PM Page 45
-
-v SEMIOTIC DOMAINS v
 
 4 5
 
@@ -1924,8 +1842,6 @@ semiotic domains to which the game is related
 
 4 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 4. Learning how to think about semiotic domains as design spaces that
 engage and manipulate people in certain ways and, in turn, help create certain relationships in society among people and groups of people, some of which have important implications for social justice
 
@@ -1958,8 +1874,6 @@ metatalk, thinking, and actions in regard to the design of the game, of video
 games more generally, and of other semiotic domains and their complex interrelationships, then this, too, can encourage and facilitate active and critical
 
 03 gee ch 2 3/13/03 12:06 PM Page 47
-
-v SEMIOTIC DOMAINS v
 
 4 7
 
@@ -2003,8 +1917,6 @@ mastered the Dungeons and Dragons semiotic domain (as make-believe play or
 
 4 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 with books and cards) are advantaged when they play fantasy role-playing
 games, since such games developed out of Dungeons and Dragons, though they
 now contain a good many additional elements.
@@ -2040,8 +1952,6 @@ and people get wildly entertained to boot. No wonder it is hard for today's
 schools to compete.
 
 03 gee ch 2 3/13/03 12:06 PM Page 49
-
-v SEMIOTIC DOMAINS v
 
 4 9
 
@@ -2092,14 +2002,10 @@ connected to them.
 
 5 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 5. Metalevel Thinking about Semiotic Domains Principle
 
 Learning involves active and critical thinking about the relationships
 of the semiotic domain being learned to other semiotic domains.
-
-B I B L I O G R A P H I C A L N O T E
 
 See Kress 1985, 1996, and Kress & van Leeuwen 1996, 2001 for insightful discussions
 on reading images and multimodal texts, that is, texts that mix words and images. For
@@ -2170,8 +2076,6 @@ in school would be more successful and powerful because it would become
 04 gee ch 3 3/13/03 12:07 PM Page 52
 
 5 2
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 the sorts of active and critical learning discussed in the last chapter. To make
 the discussion concrete, I base it on one particular video game, a fantasy roleplaying game called Arcanum: Of Steamworks and Magick Obscura.
@@ -2257,8 +2161,6 @@ carrying out the dead man's wishes, a quest that eventually leads to a great
 
 5 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 many sub-quests that are part of the main quest. It also has lots of side quests,
 given to you by characters you meet throughout Arcanum, which you can
 choose to do or ignore. (Though you can gain experience and, thus, more experience points to distribute to your character if you do them.) By the time
@@ -2295,8 +2197,6 @@ praise—are part of my virtual identity as Bead Bead.
 The successes and failures of the virtual being Bead Bead (me in my virtual identity) are a delicious blend of my doing and not my doing. After all, I
 
 04 gee ch 3 3/13/03 12:07 PM Page 55
-
-v LEARNING AND IDENTITY v
 
 5 5
 
@@ -2338,8 +2238,6 @@ Bead Bead," where the word "as" is italicized to indicate that, in this identity
 
 5 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 the stress is on the interface between—the interactions between—the realworld person and the virtual character.
 
 A game like Arcanum allows me, the player, certain degrees of freedom
@@ -2380,8 +2278,6 @@ be Bead Bead. Of course, I can mediate on what it feels like—in my role as
 Bead Bead—to be unable to get what I need or want at a certain point because I am physically too powerless to get it.
 
 04 gee ch 3 3/13/03 12:07 PM Page 57
-
-v LEARNING AND IDENTITY v
 
 5 7
 
@@ -2427,8 +2323,6 @@ Bead as my project—I am attributing feelings and motives to Bead Bead that
 
 5 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 go beyond the confines of the game world and enter the realm of a world of
 my own creation.
 
@@ -2471,8 +2365,6 @@ of—my real-world self (selves), if I am playing the game reflectively.
 
 04 gee ch 3 3/13/03 12:07 PM Page 59
 
-v LEARNING AND IDENTITY v
-
 5 9
 
 I D E N T I T Y A N D L E A R N I N G
@@ -2512,8 +2404,6 @@ identity is at stake. Learners need to be able to engage in words, interactions,
 
 6 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 and actions that allow them to take on the identity of a "scientist." But what
 does this mean? There are many different sciences and types of scientists. The
 teacher must put into motion, in his or her classroom, a set of values, beliefs,
@@ -2549,8 +2439,6 @@ learners in a science classroom bring to that room their real-world identities.
 As was the case with me playing Arcanum, each learner has multiple realworld identities: A given child might be middle-class, male, African Ameri-
 
 04 gee ch 3 3/13/03 12:07 PM Page 61
-
-v LEARNING AND IDENTITY v
 
 6 1
 
@@ -2596,8 +2484,6 @@ grounds to be afraid to try.
 
 6 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 2. The learner must be enticed to put in lots of effort even if he or she begins with little motivation to do so.
 
 3. The learner must achieve some meaningful success when he or she has
@@ -2639,8 +2525,6 @@ in which the learner can take risks where real-world consequences are lowered.
 
 04 gee ch 3 3/13/03 12:07 PM Page 63
 
-v LEARNING AND IDENTITY v
-
 6 3
 
 After all, you can save the game and start back at the save point when you fail.
@@ -2680,8 +2564,6 @@ that is earned, not given away, but nonetheless ensured, given the effort?
 
 6 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Good computer games are designed so that they adjust to different levels
 of play and reward each sort of player, if the player is putting in effort, with
 some appropriate degree of success. For example, in a shooter game, after
@@ -2719,8 +2601,6 @@ Of course this is true of all good learning—we gain a new valued identity
 that gives us new powers; it's the final hook where the repair work is finally done.
 
 04 gee ch 3 3/13/03 12:07 PM Page 65
-
-v LEARNING AND IDENTITY v
 
 6 5
 
@@ -2762,8 +2642,6 @@ The learner's hopes, values, and aspirations for the "character" (the virtual sc
 
 6 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 he or she builds for that character—have their source not just in the learner's
 real-world identities, though they most certainly partially have their source
 there as the learner reflects on his or her values, desires, aspirations, and goals.
@@ -2802,11 +2680,7 @@ scientist and person and not that type.")
 
 04 gee ch 3 3/13/03 12:07 PM Page 67
 
-v LEARNING AND IDENTITY v
-
 6 7
-
-L E A R N I N G P R I N C I P L E S
 
 The discussion has suggested more learning principles that are built into
 good video games. In this section, I bring these together to continue the list
@@ -2857,8 +2731,6 @@ not to, is that learning for human beings is, in large part, a practice effect.
 
 6 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Humans need to practice what they are learning a good deal before they
 master it. Furthermore, they tend to lose a good deal of their learning—
 including school learning—when they cease to practice the skills associated with this learning in their daily lives. This is why it is easy to discover
@@ -2895,8 +2767,6 @@ contexts. However, in my experience, these children do find this sort of instruc
 lead them to accomplish their goals and have success later in life. In turn,
 
 04 gee ch 3 3/13/03 12:07 PM Page 69
-
-v LEARNING AND IDENTITY v
 
 6 9
 
@@ -2940,8 +2810,6 @@ through practice, rethinking this automatization when faced with new conditions 
 
 7 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 these new skills through further practice that once again leads to automatization is the very foundation of intelligent practice in the world. Automatization
 is good and necessary if one is to engage in fluent and masterful practice.
 However, it gets in the way of new learning if it does not change and adapt in
@@ -2982,8 +2850,6 @@ beyond video games as well.
 
 04 gee ch 3 3/13/03 12:07 PM Page 71
 
-v LEARNING AND IDENTITY v
-
 7 1
 
 12. Practice Principle
@@ -3007,8 +2873,6 @@ The learner gets ample opportunity to operate within, but at the
 outer edge of, his or her resources, so that at those points things are
 felt as challenging but not "undoable."
 
-B I B L I O G R A P H I C A L N O T E
-
 There is a massive amount of work on socially situated identities and how they are
 changing in the modern world. For work compatible with my approach in this chapter, see Alvermann, Moon, & Hagood 1999; Bauman 2000; Beck, Giddens, & Lash
 1994; Castells 1996; Foucault 1980; Gee 2000–2001; Gee, Hull, & Lankshear 1996;
@@ -3031,8 +2895,6 @@ Scribner and Cole's famous 1981 study. The regime of competence is discussed in
 diSessa 2000 and is related to Vygotsky's well-known notion of the zone of proximal
 development; see Vygotsky 1978. diSessa 2000 also discusses amplification of input
 and contains an extended and important discussion of committed learning.
-
-This page intentionally left blank
 
 05 gee ch 4 3/13/03 12:08 PM Page 73
 
@@ -3066,8 +2928,6 @@ they have had in the past. They use these elements of past experience to think
 05 gee ch 4 3/13/03 12:08 PM Page 74
 
 7 4
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 about the new situation. Sometimes they can just apply past experience pretty
 much as is to the new situation. Other times they have to adapt past experience, more or less, to apply it, in the process learning something new that
@@ -3152,8 +3012,6 @@ vicarious) embodied experiences is itself connected to another sort of computer:
 
 7 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 One of several sources of rich evidence that human thinking is deeply
 rooted in embodied experience of the world comes from studies of human
 languages. In all human languages, very often abstract notions are encoded in
@@ -3193,8 +3051,6 @@ and develop your character. Before you start playing the game, you choose
 the name and look of your character. (Your character can be black or white,
 
 05 gee ch 4 3/13/03 12:08 PM Page 77
-
-v SITUATED MEANING AND LEARNING v
 
 7 7
 
@@ -3237,8 +3093,6 @@ about to face a great many powerful robots and other enemies, I found a very
 
 7 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 large gun in a dark corner of a military base, quite suitable for blowing robots
 off the face of the earth. Alas, I did not have any great skill at Heavy
 Weapons, so stealth and more subtle fighting strategies were the order of the
@@ -3278,8 +3132,6 @@ When you start the game, you enter a futuristic world that has fallen on
 hard times. Crime, terrorism, and disease are out of all control. No single
 
 05 gee ch 4 3/13/03 12:08 PM Page 79
-
-v SITUATED MEANING AND LEARNING v
 
 7 9
 
@@ -3325,8 +3177,6 @@ story; if you don't, he doesn't, though you later see his body in one of your
 
 8 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 enemies' bases. When I played Deus Ex, I let Paul die and have regretted it
 ever since. (At the time, I didn't feel I had the requisite game-playing skills to
 save him—but perhaps that was just a lame self-exonerating excuse.)
@@ -3365,8 +3215,6 @@ elite? Return to small villages? Rational rule by artificial intelligence? I mus
 admit, I was thrilled at the end of Deus Ex as I (J. C. Denton) ran from the
 
 05 gee ch 4 3/13/03 12:08 PM Page 81
-
-v SITUATED MEANING AND LEARNING v
 
 8 1
 
@@ -3412,8 +3260,6 @@ The story line in a video game is a mixture of four things:
 
 8 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 3. The actions you as one of the central characters in the story carry out
 (since in good video games there is a good deal of choice as to what to
 do, when to do it, and in what order to do it)
@@ -3453,8 +3299,6 @@ in a sense, as deep or rich as stories in good books and movies. For example, a
 video game must work out different futures based on choices different players
 
 05 gee ch 4 3/13/03 12:08 PM Page 83
-
-v SITUATED MEANING AND LEARNING v
 
 8 3
 
@@ -3497,8 +3341,6 @@ video games, meaning (sense, significance) is itself situation-specific and
 
 8 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 embodied. In the chapter 2 I argued that this is how meaning operates when
 people actually know what they are doing in a domain and can do more than
 mindlessly repeat words and other symbols that they cannot situate inside
@@ -3532,8 +3374,6 @@ utter the code word and experience a delicious moment of wonderfully embodied an
 equations lead to marvelous patterns when you feed them into a computer or
 
 05 gee ch 4 3/13/03 12:08 PM Page 85
-
-v SITUATED MEANING AND LEARNING v
 
 8 5
 
@@ -3583,8 +3423,6 @@ what that person can do with the object, event, or sentence.
 
 8 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 While video games actively encourage such situated and embodied
 thinking and doing, school often does not. In school, words and meanings
 usually float free of material conditions and embodied actions. They take on
@@ -3623,8 +3461,6 @@ well as you'd expect, which is not well at all.) But we do routinely try to teac
 children things like science and math this way in our schools.
 
 05 gee ch 4 3/13/03 12:08 PM Page 87
-
-v SITUATED MEANING AND LEARNING v
 
 8 7
 
@@ -3668,8 +3504,6 @@ the early grades said to me once, "Kids are coming to college unable to read
 
 8 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 the books I assign." He blamed this situation on a lack of early phonics instruction. (The students were victims, he claimed, of Whole Language.)
 Thus, he was giving the word "read" the situated meaning: able to decode print,
 that is, translate letters into sounds.
@@ -3703,8 +3537,6 @@ the speed of the moving object after each movement the object has taken (let
 us just say, for convenience, that a adds one more meter per second at each
 
 05 gee ch 4 3/13/03 12:08 PM Page 89
-
-v SITUATED MEANING AND LEARNING v
 
 8 9
 
@@ -3747,8 +3579,6 @@ it in an active and critical way, not just as a set of symbols to be repeated in
 05 gee ch 4 3/13/03 12:08 PM Page 90
 
 9 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 passive and rote manner on tests. As diSessa puts it: "Programming turns
 analysis into experience and allows a connection between analytic forms and
@@ -3795,8 +3625,6 @@ you started. In a good video game you have to try lots of different things and
 
 05 gee ch 4 3/13/03 12:08 PM Page 91
 
-v SITUATED MEANING AND LEARNING v
-
 9 1
 
 then you have to think about the results you get, try to make sense of what
@@ -3841,8 +3669,6 @@ are two types of book. Indeed, the child may already have another subpattern
 
 9 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 for book that is something like: book—cardboard—bends, doesn't break, exemplifying yet another category of book.
 
 As the child forms more associations around the node book (e.g., with
@@ -3880,8 +3706,6 @@ can transform their mental associations when sufficiently powerful learning
 experiences encourage them to do so. What I am referring to here is a certain
 
 05 gee ch 4 3/13/03 12:08 PM Page 93
-
-v SITUATED MEANING AND LEARNING v
 
 9 3
 
@@ -3922,8 +3746,6 @@ people think schools should operate. If you believe the traditional view, you
 
 9 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 think schools should teach children to memorize facts and should overtly tell
 them important generalizations. If you believe the other view, you think
 schools must give children embodied experiences in and through which they
@@ -3958,8 +3780,6 @@ can reflect on how this pattern can be revised to cover the new situation.
 Now they have a new and more powerful pattern in mind, one that might actually cover novel situations the person has not yet encountered.
 
 05 gee ch 4 3/13/03 12:08 PM Page 95
-
-v SITUATED MEANING AND LEARNING v
 
 9 5
 
@@ -4005,8 +3825,6 @@ and refrigerator, but now one used by a working adult, you will find that your
 
 9 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 college student bedroom picture, by and large, fits. You need revise it only a
 bit to be the picture of a financially strapped person, rather than just a college
 student. You will then also revise your picture of the typical bedroom of a
@@ -4040,8 +3858,6 @@ Children can determine what they "like," what is a "good" result, only in
 terms of an appreciative system, that is, their set of goals, desires, feelings, and
 
 05 gee ch 4 3/13/03 12:08 PM Page 97
-
-v SITUATED MEANING AND LEARNING v
 
 9 7
 
@@ -4082,8 +3898,6 @@ rote way. On the other hand, the learner can be actively enough involved in
 
 9 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 learning the domain to form an appreciative system that norms and guides
 his or her thought and action in the domain, but this system can remain
 largely unconscious and not reflected on in any very overt way. This is active
@@ -4120,8 +3934,6 @@ saw how others talked and felt about playing it and games like it. I eventually
 read magazines devoted to video games as well. I consulted several different
 
 05 gee ch 4 3/13/03 12:08 PM Page 99
-
-v SITUATED MEANING AND LEARNING v
 
 9 9
 
@@ -4167,8 +3979,6 @@ build their own extensions to games, will actually design new things. Others,
 
 1 0 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 like me, will design in thought and talk and let it inform their play. But there
 is no design and designing, in the sense I am talking about, without forming
 an appreciative system for a given semiotic domain. And no appreciative system is formed without probing, hypothesizing, reprobing, and rethinking
@@ -4208,8 +4018,6 @@ for Deus Ex is 20 pages). They also often come with a booklet, written as a
 diary, or notes, or otherwise set as part of the virtual world of the game, that
 
 05 gee ch 4 3/13/03 12:08 PM Page 101
-
-v SITUATED MEANING AND LEARNING v
 
 1 0 1
 
@@ -4251,8 +4059,6 @@ like manuals but just start playing games. To the extent that this is true, it i
 
 1 0 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 partly because, I explain in the next chapter, video games are so good at
 teaching people to play them by actually starting to play them. Yet I would
 argue that these young people are reading and using print in the way it is and
@@ -4290,8 +4096,6 @@ cannot visualize this verbal information in any way that makes sense or makes
 them want to read on. I tell them that that is how their students often feel
 
 05 gee ch 4 3/13/03 12:08 PM Page 103
-
-v SITUATED MEANING AND LEARNING v
 
 1 0 3
 
@@ -4335,8 +4139,6 @@ play by hitting F1 to get to the Inventory screen or F2 to get to the
 
 1 0 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Goals/Notes screen. Once you have accessed your information screens, you
 
 can move between the screens by clicking on the tabs at the top of the
@@ -4375,8 +4177,6 @@ But once you have one set of links relating various items and actions in mind,
 another drops out just as you need it and you're back to turning pages. Is the
 
 05 gee ch 4 3/13/03 12:08 PM Page 105
-
-v SITUATED MEANING AND LEARNING v
 
 1 0 5
 
@@ -4424,8 +4224,6 @@ print, they cannot handle the progressively more complex demands school language
 
 1 0 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 School requires, in respect to both oral and written language, forms or
 styles of language that are different from and, in some respects, more complex than everyday oral language used in informal face-to-face conversations.
 The forms of language used in texts and discussions in science, math, social
@@ -4465,8 +4263,6 @@ that this is the subject of the first sentence. But, then, I would have thought
 that producing "rock waste" was a way of building, not just destroying, land,
 
 05 gee ch 4 3/13/03 12:08 PM Page 107
-
-v SITUATED MEANING AND LEARNING v
 
 1 0 7
 
@@ -4508,8 +4304,6 @@ Learning is a cycle of probing the world (doing something); reflecting in and on
 
 1 0 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 16. Multiple Routes Principle
 
 There are multiple ways to make progress or move ahead. This allows learners to make choices, rely on their own strengths and styles
@@ -4549,8 +4343,6 @@ actions, sounds, etc.) and not just to words. Sometimes, at a particular point i
 a game, multiple modalities support each other to communicate similar mean-
 
 05 gee ch 4 3/13/03 12:08 PM Page 109
-
-v SITUATED MEANING AND LEARNING v
 
 1 0 9
 
@@ -4594,8 +4386,6 @@ them to think about other things and solve other problems that, when combined wi
 
 1 1 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 environments that guide learners and surround them with empowering objects that extend their individual efforts.
 
 For example, just staring at and playing with pendulums in the real world
@@ -4629,8 +4419,6 @@ group associated with a domain. The child learning science who has built up
 no tacit knowledge—no "craft knowledge"—cannot really feel competent either. But the child who has built up such knowledge is liable to be turned off
 
 05 gee ch 4 3/13/03 12:08 PM Page 111
-
-v SITUATED MEANING AND LEARNING v
 
 1 1 1
 
@@ -4680,10 +4468,6 @@ and is honored. Not just verbal and conscious knowledge is rewarded.
 05 gee ch 4 3/13/03 12:08 PM Page 112
 
 1 1 2
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
-B I B L I O G R A P H I C A L N O T E
 
 The discussion in this chapter about thinking as founded in pattern recognition from
 our embodied experiences of the world draws broadly on so-called connectionist
@@ -4744,8 +4528,6 @@ The dilemma then is this: For efficacious learning, humans need overt informatio
 06 gee ch 5 3/13/03 12:09 PM Page 114
 
 1 1 4
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 in actual contexts of practice, but they can find such contexts confusing without overt information and guidance. This is just the dilemma between overt
 telling versus immersion in practice that has characterized educational debates
@@ -4831,8 +4613,6 @@ we breech the sanctum of the ancients, the first footfalls in this tomb for cent
 
 1 1 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 around in awe, and hear her say, "This place gives me the creeps, [pause]
 after you." This sort of not-so-respectful patter is typical of Lara, a rather
 spoiled and self-satisfied young girl.
@@ -4867,8 +4647,6 @@ below, due to my ineptness in controlling her (via the computer's keys).
 She can climb back up again and try the jump again (indeed, she needs to
 
 06 gee ch 5 3/13/03 12:09 PM Page 117
-
-v TELLING AND DOING v
 
 1 1 7
 
@@ -4910,8 +4688,6 @@ ledges than to run up to them.) When Von Croy continues with "now
 06 gee ch 5 3/13/03 12:09 PM Page 118
 
 1 1 8
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 push forward," he means for the player, who is now holding down the
 Shift key, to press the Arrow key pointing up on the computer, which is
@@ -4957,8 +4733,6 @@ certain dangers.
 
 06 gee ch 5 3/13/03 12:09 PM Page 119
 
-v TELLING AND DOING v
-
 1 1 9
 
 L A R A A N D L E A R N I N G
@@ -5001,8 +4775,6 @@ they have not yet considered but for which they are ready and ripe. And, indeed,
 
 1 2 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 and are ready for lectures. They are now able to give a good many of the
 words and phrases in the lecture situated and embodied meanings through
 the their own mental simulations of former and future actions.
@@ -5040,8 +4812,6 @@ race against him through unfamiliar territory to grab a sacred stone in another 
 Iris, on the count of three: one, two," he takes off without saying "three," giving himself a good head start.
 
 06 gee ch 5 3/13/03 12:09 PM Page 121
-
-v TELLING AND DOING v
 
 1 2 1
 
@@ -5083,8 +4853,6 @@ similar items, something I have done on more than one occasion).
 
 1 2 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Once the game proper starts, the first episode (sometimes several early
 episodes) is almost always something of a training module, even though it
 may not be labeled explicitly as such. In this episode, things are less hectic
@@ -5120,8 +4888,6 @@ what I had said. Were the sorts of learning principles I had talked about really
 aware that such principles were at work when they were playing video and
 
 06 gee ch 5 3/13/03 12:09 PM Page 123
-
-v TELLING AND DOING v
 
 1 2 3
 
@@ -5165,8 +4931,6 @@ Soldiers up close without taking too much damage.
 
 1 2 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 At the end of Return to Castle Wolfenstein, the player (playing U.S. Office
 of Secret Actions' Agent Major B. J. Blazkowitz—a very famous video-game
 character, because he originally appeared in one of early first-person shooter
@@ -5206,8 +4970,6 @@ That is, it requires thinking at a design level, thinking about how two problems
 be obscured by the more superficial features of the problems or domains.
 
 06 gee ch 5 3/13/03 12:09 PM Page 125
-
-v TELLING AND DOING v
 
 1 2 5
 
@@ -5251,8 +5013,6 @@ to do? There is, of course, only one way to proceed: Think and try something. If
 
 1 2 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 I figured that I had to do my wild moving-around strategy from Alice, but
 closer in to Heinrich. If I stayed close, the flying spirits flew over my head for
 the most part (since they are really a device to stop people from trying to kill
@@ -5291,8 +5051,6 @@ failure to Hitler. The aide pushes him: "Sir, the Fuehrer is expecting your arri
 finished off Heinrich and to have pissed off Himmler at one and the same time.
 
 06 gee ch 5 3/13/03 12:09 PM Page 127
-
-v TELLING AND DOING v
 
 1 2 7
 
@@ -5337,8 +5095,6 @@ Nominate (UNN). The UNN has struggled to control the megacorporations
 
 1 2 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 that have held power for a long time—the largest of which, the TriOptimum
 Corporation, was responsible for SHODAN's creation. This power struggle
 between government and the corporations has resulted in an uneasy truce in
@@ -5375,8 +5131,6 @@ Overall there are nine different skills and five different statistics in System
 Shock 2. Each character type starts with some of these and not others, differ-
 
 06 gee ch 5 3/13/03 12:09 PM Page 129
-
-v TELLING AND DOING v
 
 1 2 9
 
@@ -5422,8 +5176,6 @@ cryo-slumber on the Von Braun with no memory of recent events. You immediately s
 
 1 3 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 over the floor. Bodies are scattered across the ground and you hear crashing
 noises and screams everywhere.
 
@@ -5466,8 +5218,6 @@ differently and seemingly intelligently.
 
 06 gee ch 5 3/13/03 12:09 PM Page 131
 
-v TELLING AND DOING v
-
 1 3 1
 
 There are many different ways to approach the many fights and problems you face in System Shock 2. And, of course, you can play the game as different characters—Marine, Navy, or OSA—each of which can be designed in
@@ -5505,8 +5255,6 @@ you, a real person, are playing the game. You begin to learn to play the game
 06 gee ch 5 3/13/03 12:09 PM Page 132
 
 1 3 2
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 by engaging in a language that already fuses your real-world identity and
 your virtual identity. The training modules continue this way until you know
@@ -5546,8 +5294,6 @@ and the needed code. During the early episodes, you gain a wide variety of
 such situated information from these kiosks, though you can pass them by if
 
 06 gee ch 5 3/13/03 12:09 PM Page 133
-
-v TELLING AND DOING v
 
 1 3 3
 
@@ -5594,8 +5340,6 @@ are challenging, but not undoable. And, of course, you learn to save the
 
 1 3 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 game at crucial points, so when you do die, you don't have to start all over
 again, just from the last saved point.
 
@@ -5630,8 +5374,6 @@ the crowbar to kill easier enemies, saving better weapons (and weapons wear
 out in this game) and ammunition for more powerful ones.
 
 06 gee ch 5 3/13/03 12:09 PM Page 135
-
-v TELLING AND DOING v
 
 1 3 5
 
@@ -5675,8 +5417,6 @@ setting a good foundation for later learning and learning in the real world.
 
 1 3 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 To take one simple example: Finding and using health kits, or otherwise
 getting healed, is an important part of many shooter games. These kits heal
 the damage the player's character has sustained thus far in the game, returning the character to full health or, at least, giving back health. Shooter games
@@ -5717,8 +5457,6 @@ But basic skills can be learned by playing the game—and not through decontextu
 
 06 gee ch 5 3/13/03 12:09 PM Page 137
 
-v TELLING AND DOING v
-
 1 3 7
 
 ways in which they construct their training modules and early episodes and in
@@ -5731,8 +5469,6 @@ And the real world—that is, the world without game designers or good
 teachers, themselves designers of virtual worlds in classrooms—is not in and
 of itself well designed for learning. Leaving children to the mercies of the
 real world by just letting them loose to think and explore is not education.
-
-L E A R N I N G P R I N C I P L E S
 
 The discussion has suggested a variety of learning principles that are built
 into good video games. Here I bring these principles together. As in earlier
@@ -5768,8 +5504,6 @@ are genre elements of a given type of game/domain.
 
 1 3 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 27. Explicit Information On-Demand and Just-in-Time Principle
 
 The learner is given explicit information both on-demand and justin-time, when the learner needs it or just at the point where the information can best be understood and used in practice.
@@ -5784,8 +5518,6 @@ opportunity for the learner to experiment and make discoveries.
 Learners are given ample opportunity to practice, and support for,
 transferring what they have learned earlier to later problems, including problems that require adapting and transforming that earlier
 learning.
-
-B I B L I O G R A P H I C A L N O T E
 
 On the issue of telling versus immersion, see the discussion and citations in Gee 2001.
 For further discussion of this issue in relation to learning in real domains and subdomains of real domains, see Beaufort 1999; Coe, Lingard, & Teslenko 2001; Dias,
@@ -5828,8 +5560,6 @@ of this perspective, either.
 07 gee ch 6 3/13/03 12:10 PM Page 140
 
 1 4 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 On the other hand, through their creation of new and different worlds
 and characters, video games can challenge players' taken-for-granted views
@@ -5915,8 +5645,6 @@ two different models of what counts as being or doing "good." In one model,
 
 1 4 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 what counts as being or doing good is determined by a character's own goals,
 purposes, and values, as these are shared with a particular social group to
 which he or she belongs. Shadow and his group (Rouge and Dr. Eggman)
@@ -5953,8 +5681,6 @@ that their group interests and values are or ought to be the general good.
 Others think that general conceptions of good really just hide the narrow interests of particular groups in a society that has cloaked them as general
 
 07 gee ch 6 3/13/03 12:10 PM Page 143
-
-v CULTURAL MODELS v
 
 1 4 3
 
@@ -6001,8 +5727,6 @@ them, people will put them into different words in different situations. The
 
 1 4 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 best researchers can do, then, is study people's behavior and words when they
 are acting as members of a certain sort of group and acting within certain
 sorts of situations and eventually conclude that, given what they do and say,
@@ -6037,8 +5761,6 @@ hurry to get your chores done, open a heavy car door that he or she wants to
 try to open, no matter how long it takes? Perhaps you apply a cultural model
 
 07 gee ch 6 3/13/03 12:10 PM Page 145
-
-v CULTURAL MODELS v
 
 1 4 5
 
@@ -6080,8 +5802,6 @@ other media all around us represent many cultural models. The models also
 
 1 4 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 are represented and acted out in the words and deeds of the people with
 whom we interact and share memberships in various groups.
 
@@ -6122,8 +5842,6 @@ sometimes conflict with each other. For example, the anthropological psychologis
 in their daily lives according to what she called a bread-winner model. This
 
 07 gee ch 6 3/13/03 12:10 PM Page 147
-
-v CULTURAL MODELS v
 
 1 4 7
 
@@ -6170,8 +5888,6 @@ constitutes being and doing "good." Of course, this realization was only beginni
 
 1 4 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 child other opportunities to think more about these two models. And, indeed, they are models that bear a good deal of thinking about, since they have
 done and have the potential to do a lot of harm in the world.
 
@@ -6210,8 +5926,6 @@ Human's conducts [sic] since the beginning of creation." I got Salim's views
 from Google's (a search engine) cache of www.underash.com/emessage.htm.
 
 07 gee ch 6 3/13/03 12:10 PM Page 149
-
-v CULTURAL MODELS v
 
 1 4 9
 
@@ -6270,8 +5984,6 @@ a union under whose authority none is harmed and every one benefits."
 
 1 5 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 One cultural model that seems to be at work here is something like this:
 "The experience of violence will make people seek peace." In terms of this
 model, we can see the guerrilla fighter as trying to push more powerful entities (i.e., states), entities that the guerrilla cannot defeat outright, to settle
@@ -6310,8 +6022,6 @@ fighting off the Aliens and Predator or either an Alien or Predator trying to
 survive by killing the Marines? My guess is that if you had taken on both the
 
 07 gee ch 6 3/13/03 12:10 PM Page 151
-
-v CULTURAL MODELS v
 
 1 5 1
 
@@ -6354,8 +6064,6 @@ than such passive media. But if they are, then they are potentially more powerfu
 
 1 5 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Whether we like it or not, new technologies make it easy to design realistic and sophisticated video games that allow players to be almost any sort of
 person or being living in almost in sort of world that any designer can imagine. Eventually this capacity will be used to allow people to live and interact
 in worlds where violence plays no role and is replaced by conversation and
@@ -6390,8 +6098,6 @@ involved as a U.S. soldier representing NATO in a war against a resistance
 movement on an island nation.
 
 07 gee ch 6 3/13/03 12:10 PM Page 153
-
-v CULTURAL MODELS v
 
 1 5 3
 
@@ -6436,8 +6142,6 @@ overtly reflected on.
 
 1 5 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Some modern shooter games have begun to play against these sorts of
 pervasive models in interesting ways. Games like Thief: The Dark Project and
 Metal Gear Solid 2: Sons of Liberty, in their entirety, and parts of Deus Ex and
@@ -6474,8 +6178,6 @@ or disable you pretty fully. Opposing soldiers can shoot at you from far away,
 can snipe you from hiding places that are hard to discover, and often appear
 
 07 gee ch 6 3/13/03 12:10 PM Page 155
-
-v CULTURAL MODELS v
 
 1 5 5
 
@@ -6517,8 +6219,6 @@ optimism. After all, we were the "good guys," weren't we? We were in a welltrain
 
 1 5 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 private), weren't we? But time and again, things did not go as planned. We
 had to change plans, retreat and regroup, or even be evacuated in defeat.
 Winning was no simple matter, and every step forward seemed to portend
@@ -6558,8 +6258,6 @@ Enough said; this is not war as romantic and heroic. Here are some of
 the cultural models I was beginning to pick up about warfare from playing
 
 07 gee ch 6 3/13/03 12:10 PM Page 157
-
-v CULTURAL MODELS v
 
 1 5 7
 
@@ -6607,8 +6305,6 @@ Cultural models play a crucial role in school. Let me give you a specific exampl
 
 1 5 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 were having a discussion about whether a ball rolling on a level plane would
 keep moving at constant speed. They had previously heard from their
 teacher Galileo's arguments that under ideal conditions (i.e., leaving out friction and assuming no force acts to accelerate or retard the ball's progress) the
@@ -6647,8 +6343,6 @@ instance a world with no friction between surfaces and nothing in the environmen
 
 07 gee ch 6 3/13/03 12:10 PM Page 159
 
-v CULTURAL MODELS v
-
 1 5 9
 
 to be rolling horizontally on level plane to make the force of gravity irrelevant to the problem. (If the ball were falling down it would be accelerating,
@@ -6686,8 +6380,6 @@ with daily life. Furthermore, scientific models and cultural models exist for di
 
 1 6 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 world works as an answer to a formal and consciously formulated question, and
 sometimes the aspects of the world that they deal with are not ones we experience in our everyday lives (e.g., atoms). Cultural models exist to help us get on
 with our "everyday," less specialized and often less consciously reflected on social and cultural business and our everyday lives in the material world.
@@ -6723,8 +6415,6 @@ well and, thus, is also a social model. In fact, it is really just a cultural mo
 that applies both to the physical and the social world. We assume that students keep working because something is motivating them or that relationships last because people put effort into them. In general, people do what
 
 07 gee ch 6 3/13/03 12:10 PM Page 161
-
-v CULTURAL MODELS v
 
 1 6 1
 
@@ -6770,8 +6460,6 @@ subject matter (e.g., what "physics" as a school subject is) and about learning
 
 1 6 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 (e.g., what learning is or should be like in school). For example, in regard to
 physics or other academic domains, many students bring with them a cultural
 models that say: "Learning is a matter of mastering a set of facts." They may
@@ -6809,8 +6497,6 @@ met. As Solid Snake goes about infiltrating the military base and ultimately
 trying to destroy Metal Gear, he finds out a great deal about himself and
 
 07 gee ch 6 3/13/03 12:10 PM Page 163
-
-v CULTURAL MODELS v
 
 1 6 3
 
@@ -6854,8 +6540,6 @@ This and other games have brought home to me that I hold cultural models about l
 
 1 6 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 learning, and good learners move toward it without being distracted by other
 things" and "Good learners move quickly and efficiently toward their goal." I
 also hold other models: "There is one right way to get to the goal that the good
@@ -6888,8 +6572,6 @@ your character. Players regularly spend lots of time and effort trying to kill
 these bosses. They have to discover new strategies in their various failed attempts and not give up.
 
 07 gee ch 6 3/13/03 12:10 PM Page 165
-
-v CULTURAL MODELS v
 
 1 6 5
 
@@ -6931,10 +6613,6 @@ in physics: "Aren't you lucky you have the time and opportunity to do science?" 
 
 1 6 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
-L E A R N I N G P R I N C I P L E S
-
 A variety of learning principles are built into good video games, yet there is
 still immense potential for future developments. Certain areas—for example,
 the ways in which video games allow for the free creation of virtual identities
@@ -6969,8 +6647,6 @@ themselves as learners, without denigration of their identities, abili-
 
 07 gee ch 6 3/13/03 12:10 PM Page 167
 
-v CULTURAL MODELS v
-
 1 6 7
 
 ties, or social affiliations, and juxtapose them to new models of learning and themselves as learners.
@@ -6979,8 +6655,6 @@ ties, or social affiliations, and juxtapose them to new models of learning and t
 
 Learning is set up in such a way that learners come to think consciously and reflectively about their cultural models about a particular
 semiotic domain they are learning, without denigration of their identities, abilities, or social affiliations, and juxtapose them to new models about this domain.
-
-B I B L I O G R A P H I C A L N O T E
 
 Major sources in the literature on cultural models include D'Andrade 1995; D'Andrade
 & Strauss 1992; Holland, Lachicotte, Skinner, & Cain 1998; Holland & Quinn 1987;
@@ -6993,8 +6667,6 @@ Minstrell 2000.
 The review of Operation Flashpoint is dated March 18, 2002 at www.gamezilla.com/
 
 reviews/o/ofp.asp.
-
-This page intentionally left blank
 
 08 gee ch 7 3/13/03 12:11 PM Page 169
 
@@ -7032,8 +6704,6 @@ can only be played in single-player mode.)
 08 gee ch 7 3/13/03 12:11 PM Page 170
 
 1 7 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 When online play first began, players moved through dungeons roleplaying as different types of characters, but the universe through which they
 moved was composed entirely of text. Each player read text that told him or
@@ -7116,8 +6786,6 @@ playing in, rendering money nearly worthless.
 
 1 7 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 When people started games like EverQuest, they thought the players
 would police themselves and create an ideal world of good behavior. However, the players created virtual worlds that contained many of the same flaws
 our real human worlds do. Game designers have thought up lots of ways to
@@ -7160,8 +6828,6 @@ Now, to exemplify the centrally social nature of game play and some key
 issues in this chapter, let a young man whom I will call Adrian (a pseudonym)
 
 08 gee ch 7 3/13/03 12:11 PM Page 173
-
-v THE SOCIAL MIND v
 
 1 7 3
 
@@ -7232,8 +6898,6 @@ was like pacing around the room, and I said, "I'm gonna die. I'm gonna die."
 
 1 7 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 I mean, I'd invested like tons of time in the character. "I'm gonna die, I'm
 
 gonna die, I'm gonna die." And then one of my partners—a guy in his 30s—
@@ -7300,8 +6964,6 @@ this stuff by taking a class on it. It's just like here and there you pick stuff
 
 08 gee ch 7 3/13/03 12:11 PM Page 175
 
-v THE SOCIAL MIND v
-
 1 7 5
 
 You may not be able to learn it all from one place, there's many sources [e.g.,
@@ -7366,8 +7028,6 @@ these people both inside the game and outside of it: about the game, about
 
 1 7 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 games in general, and about a wide variety of other issues. Players have told
 us that the people they play with range in age from the early teens to their
 30s. One U.S. 15-year-old regularly plays StarCraft with, among others, two
@@ -7405,8 +7065,6 @@ When we asked Adrian why he was interested in how hackers could "undermine" the 
 he inspected their programming for the game, especially how they fixed various bugs that arose from time to time, he found their programming "inele-
 
 08 gee ch 7 3/13/03 12:11 PM Page 177
-
-v THE SOCIAL MIND v
 
 1 7 7
 
@@ -7448,8 +7106,6 @@ each system (e.g., the one standing for beds) more or less strongly activates
 
 1 7 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 the others (e.g., the systems standing for chests of drawers, night tables,
 lamps, etc.).
 
@@ -7487,8 +7143,6 @@ world that go beyond our actual experiences. For example, let's say I have exper
 being a professor, with tenure, in the field of physics, in a prestigious college,
 
 08 gee ch 7 3/13/03 12:11 PM Page 179
-
-v THE SOCIAL MIND v
 
 1 7 9
 
@@ -7529,8 +7183,6 @@ such a discussion leads us to an important paradox: If the human mind is a
 
 1 8 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 powerful pattern recognizer—and the evidence very much suggests it is—
 then what it most important about thinking is not that it is "mental," something happening inside our heads, but rather that it is social, something
 attuned to and normed by the social groups to which we belong or seek to
@@ -7568,8 +7220,6 @@ members, so that they will share some common patterns and ways of completing the
 members can make lists of all the birds around in the winter in a given part of
 
 08 gee ch 7 3/13/03 12:11 PM Page 181
-
-v THE SOCIAL MIND v
 
 1 8 1
 
@@ -7610,8 +7260,6 @@ ways of filling them out that count are not really the ones inside the heads of
 
 1 8 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 the members (though they are there, of course). All the members, as individual human beings, have a myriad of patterns about birds, and ways of filling
 them out in the field, in their heads. But the club, as a social group, has a set
 of norms and values that determines certain sorts of patterns and ways of filling them out in the field as "ideal" (central). This ideal might actually not be
@@ -7646,8 +7294,6 @@ heads contain patterns in terms of which there are a great many different
 types of sparrows, many of which look quite a bit a like. They associate a
 
 08 gee ch 7 3/13/03 12:11 PM Page 183
-
-v THE SOCIAL MIND v
 
 1 8 3
 
@@ -7691,8 +7337,6 @@ out? As Wittgenstein pointed out long ago, in a different context, such people w
 
 1 8 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 on it in terms of their patterns. But this would just be more experience of the
 world in terms of which their patterns were formed in the first place. Only
 when others have normed our patterns and ways of filling them out, so that
@@ -7727,8 +7371,6 @@ they can do all by themselves. But in the modern world—and this is certainly t
 important to know what people can think and do with others and with various tools and technologies.
 
 08 gee ch 7 3/13/03 12:11 PM Page 185
-
-v THE SOCIAL MIND v
 
 1 8 5
 
@@ -7771,8 +7413,6 @@ much. Most of your fellow scientists and the security guards at the plant are
 
 1 8 6
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 dead. The others are terrified and stunned, though they will open various secured doors for you. As you seek to escape the sprawling underground complex,
 you see destruction everywhere and run into aliens, including your fellow scientists turned into zombies by alien head-crabs having fallen on them, trying to
 kill you. In the beginning you have no weapon, save a crowbar you have found.
@@ -7808,8 +7448,6 @@ The boss sent out waves of light that could kill me in seconds. Further,
 he was surrounded by smaller flying aliens that shot destructive rays at me.
 
 08 gee ch 7 3/13/03 12:11 PM Page 187
-
-v THE SOCIAL MIND v
 
 1 8 7
 
@@ -7854,8 +7492,6 @@ A cheat is a fairly simple procedure that encodes a great deal of knowledge abou
 
 1 8 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 have. For example, here is a cheat code for gaining infinite life (you can't die)
 in the game Star Wars Jedi Knight II: Jedi Outcast: When the game is running,
 press the Shift key and the tilde ("~") key together. A screen will come up
@@ -7898,8 +7534,6 @@ one to get into DOS (the operating system that PCs used before Windows),
 
 08 gee ch 7 3/13/03 12:11 PM Page 189
 
-v THE SOCIAL MIND v
-
 1 8 9
 
 find the right directory, and type in DOS commands. These particular players were probably all young—too young to remember DOS or to have ever
@@ -7939,8 +7573,6 @@ view of learning that fits well with all I have said here. She argues that learn
 
 1 9 0
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 is not best judged by a change in minds (the traditional school measure), but
 by "changing participation in changing practices." Most important, learning is
 a change not just in practice, but in identity—for Lave, "crafting identities in
@@ -7976,8 +7608,6 @@ interpretation when necessary. Attempts to clarify any comprehension problems oc
 future content. In this way the core components of successful reading com-
 
 08 gee ch 7 3/13/03 12:11 PM Page 191
-
-v THE SOCIAL MIND v
 
 1 9 1
 
@@ -8020,8 +7650,6 @@ that can be accomplished in collaboration with people or powerful artifacts."
 
 1 9 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 The core idea is that novices, largely unconsciously, "internalize" or accommodate to the goals, values, and understandings of those more expert than themselves through scaffolded joint activity with those others and their associated
 tools and technologies. The beauty of Brown and Campione's classrooms is
 that the other students, the various technologies in the classroom, and the very
@@ -8055,8 +7683,6 @@ from their outside experiences and various sociocultural affiliations
 4.
 
 08 gee ch 7 3/13/03 12:11 PM Page 193
-
-v THE SOCIAL MIND v
 
 1 9 3
 
@@ -8096,8 +7722,6 @@ advantaged ones with more economically advantaged learners—would prepare futur
 
 1 9 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 advantaged ones with the less economically advantaged learners—would prepare service workers and the remaining industrial and manual workers in the
 new capitalism via skill and drill on the "basics."
 
@@ -8134,8 +7758,6 @@ and game players are both insiders and producers—if players so choose—and
 there need be no outsiders.
 
 08 gee ch 7 3/13/03 12:11 PM Page 195
-
-v THE SOCIAL MIND v
 
 1 9 5
 
@@ -8174,8 +7796,6 @@ with the skills of Tony Hawk, a legendary (but real) skateboard professional, or
 08 gee ch 7 3/13/03 12:11 PM Page 196
 
 1 9 6
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 as one of a number of other professional skaters. Players skate through many
 different urban and nonurban environments, filled with other people and various obstacles, engaging in wild leaps and tricks. Max is explaining how he
@@ -8234,15 +7854,11 @@ and drill-and-skill schools that they do not in many cases—then they are ex-
 
 08 gee ch 7 3/13/03 12:11 PM Page 197
 
-v THE SOCIAL MIND v
-
 1 9 7
 
 periencing a much more powerful view of learning when they are playing
 video games, an enterprise that many in our culture think is a "waste of
 time," than they are in school.
-
-L E A R N I N G P R I N C I P L E S
 
 As in previous chapters next I list learning principles implicated in our discussion in this chapter that are built into good video games. Again, each principle is relevant both to learning in video games and to learning in content
 areas in classrooms. Again, too, there is no order to the principles; they are
@@ -8270,8 +7886,6 @@ shared race, gender, nation, ethnicity, or culture.
 The learner is an "insider," "teacher," and "producer" (not just a "consumer") able to customize the learning experience and domain/game
 from the beginning and throughout the experience.
 
-B I B L I O G R A P H I C A L N O T E
-
 The literature on sociocultural approaches to learning is immense; for a sampling of a
 variety of different perspectives, see: Bereiter 1994; Brown 1994; Cobb, Yackel, &
 McClain 2000; Delpit 1995; Engestrom, Miettinen, & Punamaki 1999; Kirshner &
@@ -8286,8 +7900,6 @@ For Lave's work, see Lave 1988, 1996 (pp. 161, 157); and Lave & Wenger 1991. For
 08 gee ch 7 3/13/03 12:11 PM Page 198
 
 1 9 8
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 Brown and Campione's classrooms, see Brown 1994; Brown & Campione 1994; and
 Brown, Ash, Rutherford, Nakagawa, Gordon, & Campione 1993 (p. 191). On reciprocal teaching, see Brown & Palincsar 1989. On the jigsaw method, see Aronson
@@ -8335,8 +7947,6 @@ the virtual identity of the character he or she is playing in the game. In turn,
 09 gee ch 8 3/13/03 12:12 PM Page 200
 
 2 0 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 this projective identity helps speak to, and possibly transform, the player's
 hopes, values, and fears.
@@ -8418,8 +8028,6 @@ to my vague but true enthusiasm."
 
 2 0 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Of course, the left wing will say that Mary Smith was a hegemonic dupe
 moving to the dictates of the elites in her society without knowing it and mistakenly taking their values to be her own. But the only people who were
 duped by the canon were the right wing who thought it uncritically represented their viewpoints and the left wing who agreed with them. Mary Smith
@@ -8500,8 +8108,6 @@ these books. In fact, her society felt it inappropriate for a shoemaker's
 
 2 0 4
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 daughter to be reading such books (which hardly comports well with the
 left's view that elites thought canonical literature would make people like
 Mary Smith quiescently accept their status). She picked them up anyway
@@ -8569,10 +8175,6 @@ good and fair.
 
 The quotes from Jonathan Rose's book can both be found on p. 45.
 
-B I B L I O G R A P H I C A L N O T E
-
-This page intentionally left blank
-
 10 gee append 3/13/03 12:13 PM Page 207
 
 A p p e n d i x
@@ -8615,8 +8217,6 @@ Learners can take risks in a space where real-world consequences are lowered.
 10 gee append 3/13/03 12:13 PM Page 208
 
 2 0 8
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 7 . C o m m i t t e d L e a r n i n g P r i n c i p l e
 
@@ -8705,8 +8305,6 @@ learner make sense of such texts.
 10 gee append 3/13/03 12:13 PM Page 210
 
 2 1 0
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 2 0 . M u l t i m o d a l P r i n c i p l e
 
@@ -8803,8 +8401,6 @@ technologies, and the environment.
 
 2 1 2
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 3 4 . D i s p e r s e d P r i n c i p l e
 
 Meaning/knowledge is dispersed in the sense that the learner shares it with
@@ -8886,8 +8482,6 @@ Brown, A. L. (1994). The advancement of learning. Educational Researcher 23: 4�
 11 gee biblio 3/13/03 12:14 PM Page 214
 
 2 1 4
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 Brown, A. L., Ash, D., Rutherford, M., Nakagawa, K., Gordon, A., & Campione, J.
 (1993). Distributed expertise in the classroom. In G. Salomon, Ed., Distributed cognitions: Psychological and educational considerations. New York: Cambridge University
@@ -9041,8 +8635,6 @@ Giddens, A. (1991). Modernity and self-identity. Cambridge: Polity Press.
 11 gee biblio 3/13/03 12:14 PM Page 216
 
 2 1 6
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 Giddens, A. (1992). The transformation of intimacy. Cambridge: Polity Press.
 Glenberg, A. M. (1997). What is memory for? Behavioral and Brain Sciences 20:
@@ -9204,8 +8796,6 @@ classroom. Buckingham, U. K.: Open University Press.
 
 2 1 8
 
-v WHAT VIDEO GAMES HAVE TO TEACH US v
-
 Pearson, P. D. (1999). A historically based review of Preventing Reading Difficulties in
 
 Young Children. Reading Research Quarterly 34: 231–246.
@@ -9300,8 +8890,6 @@ Wertsch, J. V. (1998). Mind as action. Oxford: Oxford University Press.
 Wertsch, J. V., Del Rio, P., & Alvarez, A., Eds. (1995). Sociocultural studies of mind.
 
 Cambridge: Cambridge University Press.
-
-This page intentionally left blank
 
 12 gee index 3/14/03 10:39 AM Page 221
 
@@ -9414,8 +9002,6 @@ domains, 13–50, 79, 84, 87, 97–100,
 12 gee index 3/14/03 10:39 AM Page 222
 
 2 2 2
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 see also semiotic domains
 
@@ -9700,8 +9286,6 @@ psychosocial moratorium, 62, 65, 67, 71,
 12 gee index 3/14/03 10:39 AM Page 224
 
 2 2 4
-
-v WHAT VIDEO GAMES HAVE TO TEACH US v
 
 see also Erickson, Eric
 punishment, 57, 163, 181

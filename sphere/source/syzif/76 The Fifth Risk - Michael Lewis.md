@@ -1,4 +1,3 @@
-
 MICHAEL
 LEWIS
 THE	FIFTH
@@ -407,8 +406,6 @@ Donald	Trump	into	the	garbage	can.	Trump	was	going	to	handle	the	transition
 more	or	less	by	himself.	Not	even	Steve	Bannon	thought	this	was	a	good	idea.	"I
 was	fucking	nervous	as	shit,"	Bannon	later	told	friends.	"I	go,"	Holy	fuck,	this
 guy	[Trump]	doesn't	know	anything.	And	he	doesn't	give	a	shit.'"
-
-I
 
 TAIL	RISK
 
@@ -1519,8 +1516,6 @@ this	desire.	He	was	just	its	ultimate	expression.
 †	Which	is	exactly	what	he	did.
 ‡	As	President	Trump	has	proposed	to	do.
 
-II
-
 PEOPLE	RISK
 
 ALI	ZAIDI	WAS	five	years	old	when	his	parents	moved	him	from	Pakistan	to	the
@@ -2576,8 +2571,6 @@ of	community	members.	But	government	was	less	visible.	You	need	to	work
 really	hard	to	appreciate	it."
 
 And	who	wants	to	do	that?
-
-III
 
 ALL	THE	PRESIDENT'S	DATA
 

@@ -1,4 +1,3 @@
-
 Moral DisengageMent
 
 Bandura_1e_FM.indd 1
@@ -18,8 +17,6 @@ Stanford University
 New York
 
 Bandura_1e_FM.indd 3
-
-04/11/15 9:34 AM
 
 Publisher: Rachel Losh
 Associate Publisher: Jessica Bayne
@@ -65,8 +62,6 @@ www.worthpublishers.com
 
 Bandura_1e_FM.indd 4
 
-04/11/15 9:34 AM
-
 Dedication
 
 This book is dedicated to the memory of my wife Virginia and
@@ -75,8 +70,6 @@ the betterment of people's lives is very much in keeping with the
 moral issues this book addresses.
 
 Bandura_1e_FM.indd 5
-
-04/11/15 9:34 AM
 
 v
 
@@ -119,8 +112,6 @@ Subject Index
 SI-1
 
 Bandura_1e_FM.indd 7
-
-04/11/15 9:34 AM
 
 vii
 
@@ -166,8 +157,6 @@ The Constitutional Phase of the Gun Battle 201
 ix
 
 Bandura_1e_FM.indd 9
-
-04/11/15 9:34 AM
 
 x Contents
 
@@ -220,8 +209,6 @@ SI-1
 
 Bandura_1e_FM.indd 10
 
-04/11/15 9:34 AM
-
 PreFaCe
 
 This book addresses the moral dimension of people's lives. Societies devise
@@ -258,8 +245,6 @@ into play in the flow of everyday life. Micro-level analysis of how people manag
 xi
 
 Bandura_1e_FM.indd 11
-
-04/11/15 9:34 AM
 
 xii Preface
 
@@ -307,8 +292,6 @@ Michael Osofsky, a Stanford student at the time, contributed importantly
 
 Bandura_1e_FM.indd 12
 
-04/11/15 9:34 AM
-
 Preface xiii
 
 to research on the influential role of moral disengagement in executioners
@@ -351,8 +334,6 @@ Publishers; Lawrence Erlbaum Associates; Oxford University Press; Prentice
 Hall; Sage Publications; and Springer Science + Business Media.
 
 Bandura_1e_FM.indd 13
-
-04/11/15 9:34 AM
 
 this page left intentionally blank
 
@@ -432,8 +413,6 @@ humanity from it. These three mechanisms at the behavior locus are especially po
 
 Bandura_1e_ch01.indd 2
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 3
 
 Moral justification
@@ -493,8 +472,6 @@ enables people to retain their positive self-regard while doing harm.
 
 Bandura_1e_ch01.indd 3
 
-04/11/15 9:33 AM
-
 4 The Nature of Moral Agency
 
 SOCIAL COGNITIVE THEORY
@@ -536,8 +513,6 @@ morality is stripped from profitable transgressive activities, wrongdoers find
 creative ways of circumventing legal penalties. If social norms regarding
 
 Bandura_1e_ch01.indd 4
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 5
 
@@ -587,8 +562,6 @@ self-debilitating ways. These beliefs play a role in the self-regulation of
 
 Bandura_1e_ch01.indd 5
 
-04/11/15 9:33 AM
-
 6 The Nature of Moral Agency
 
 motivation by influencing the goals and challenges people set for themselves, their commitment to those goals, the effort they invest in activities
@@ -629,8 +602,6 @@ forms. In the transactions of everyday life, behavior alters environmental condi
 (Patterson, 1976). Individuals can evoke stereotypic reactions from their
 
 Bandura_1e_ch01.indd 6
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 7
 
@@ -679,8 +650,6 @@ the sources and patterns of social influences across broad social networks
 
 Bandura_1e_ch01.indd 7
 
-04/11/15 9:33 AM
-
 8 The Nature of Moral Agency
 
 technologies, which enable instant communication worldwide, have transformed the nature, reach, speed, and loci of human influence (Bandura,
@@ -723,8 +692,6 @@ and the courses their lives take. In her philosophical analysis of causation,
 Ismael (2006, 2007) builds a strong case that deliberative and self-referent
 
 Bandura_1e_ch01.indd 8
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 9
 
@@ -770,8 +737,6 @@ policies are freer than those that allow authoritative power to be used to
 
 Bandura_1e_ch01.indd 9
 
-04/11/15 9:33 AM
-
 10 The Nature of Moral Agency
 
 silence critics or their means of expression. Societies that possess a judiciary
@@ -812,8 +777,6 @@ whereas northern states had already begun a process of gradual emancipation. The
 South would have more representatives in the House. Southern states, with a
 
 Bandura_1e_ch01.indd 10
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 11
 
@@ -859,8 +822,6 @@ earthly inducements to emerge."
 
 Bandura_1e_ch01.indd 11
 
-04/11/15 9:33 AM
-
 12 The Nature of Moral Agency
 
 Although the Thirteenth Amendment abolished slavery, the fight for
@@ -903,8 +864,6 @@ others can do it better. They do not want to saddle themselves with heavy
 task demands and stressors. Or they do not want to bear the moral responsibility for harmful activities they perform.
 
 Bandura_1e_ch01.indd 12
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 13
 
@@ -951,8 +910,6 @@ They also promote their sponsors' interests at conferences, in the scientific
 
 Bandura_1e_ch01.indd 13
 
-04/11/15 9:33 AM
-
 14 The Nature of Moral Agency
 
 literature, and in testimony before government agencies. Think tanks are
@@ -996,8 +953,6 @@ Italian government prohibited its export for executions. Great Britain had
 
 Bandura_1e_ch01.indd 14
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 15
 
 done so earlier, and the European Union collectively banned export. Prohibition of the offshore proxy arrangement upended execution schedules. In an
@@ -1036,8 +991,6 @@ but they are causally unconnected until they intersect, at which point the
 encounter creates a unique confluence of influences that can alter life
 
 Bandura_1e_ch01.indd 15
-
-04/11/15 9:33 AM
 
 16 The Nature of Moral Agency
 
@@ -1081,8 +1034,6 @@ mutations and reproductive recombinations. This nonteleological process is
 
 Bandura_1e_ch01.indd 16
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 17
 
 devoid of deliberate plans or purposes. In this view, human nature is shaped
@@ -1121,8 +1072,6 @@ preside over these biological mechanisms. The difference between biological
 and sociostructural levels of control is strikingly illustrated in studies of primate aggression in social contexts that add ecological validity to the research.
 
 Bandura_1e_ch01.indd 17
-
-04/11/15 9:33 AM
 
 18 The Nature of Moral Agency
 
@@ -1169,8 +1118,6 @@ against enemy ambushes. Much of Dani life was organized around warfare,
 
 Bandura_1e_ch01.indd 18
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 19
 
 including such activities as extended guard duty, making weapons, cutting
@@ -1215,8 +1162,6 @@ who punished aggressors by causing illnesses and other harmful outcomes.
 Because Tahitian culture provided few opportunities to learn aggressive
 
 Bandura_1e_ch01.indd 19
-
-04/11/15 9:33 AM
 
 20 The Nature of Moral Agency
 
@@ -1263,8 +1208,6 @@ past is the colorful uniforms of the Swiss-born Vatican guards.
 
 Bandura_1e_ch01.indd 20
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 21
 
 For centuries, the Swedes plundered other nations. People prayed for
@@ -1304,8 +1247,6 @@ bidirectional biology–culture coevolution is acknowledged, but then biological
 determinism is also often clothed in language of changeability. The malleability of evolved dispositions is acknowledged, but determinative potency
 
 Bandura_1e_ch01.indd 21
-
-04/11/15 9:33 AM
 
 22 The Nature of Moral Agency
 
@@ -1347,8 +1288,6 @@ developing reproductive technologies to separate sex even from fertilization.
 
 Bandura_1e_ch01.indd 22
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 23
 
 Through genetic engineering, humans are creating biological natures,
@@ -1388,8 +1327,6 @@ provides an alternative conceptual framework for clarifying the interplay of
 biological and psychosocial factors in human self-development, adaption,
 
 Bandura_1e_ch01.indd 23
-
-04/11/15 9:33 AM
 
 24 The Nature of Moral Agency
 
@@ -1434,8 +1371,6 @@ captive, a vivid example of the conditionality of morality based on selective
 
 Bandura_1e_ch01.indd 24
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 25
 
 inclusion and exclusion from the category of humanity. In moral disengagement, people use reasoning to sanctify harmful activities and to dismiss personal responsibility for them.
@@ -1474,8 +1409,6 @@ for good ends, virtues conflict. Inflicting harm is morally reprehensible but
 improving peoples' well-being is morally laudatory. The theory of moral
 
 Bandura_1e_ch01.indd 25
-
-04/11/15 9:33 AM
 
 26 The Nature of Moral Agency
 
@@ -1521,8 +1454,6 @@ fact, moral mandates are often overridden by emotions, enticing incentives,
 
 Bandura_1e_ch01.indd 26
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 27
 
 and coercive social pressures. Kant's contemporary David Hume, who
@@ -1565,8 +1496,6 @@ and disputing its harmfulness.
 
 Bandura_1e_ch01.indd 27
 
-04/11/15 9:33 AM
-
 28 The Nature of Moral Agency
 
 Attending to what one is doing is the first step toward exercising influence over one's behavior. But such information in itself provides little basis
@@ -1608,8 +1537,6 @@ for disavowing responsibility, attributing blame to victims, and marshaling
 extenuating circumstances.
 
 Bandura_1e_ch01.indd 28
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 29
 
@@ -1656,8 +1583,6 @@ There are some individuals, however, whose sense of self-worth is so
 strongly invested in certain convictions that they submit to prolonged
 
 Bandura_1e_ch01.indd 29
-
-04/11/15 9:33 AM
 
 30 The Nature of Moral Agency
 
@@ -1706,8 +1631,6 @@ was caught between loyalty and self-censure. Loyalty overruled morality.
 
 Bandura_1e_ch01.indd 30
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 31
 
 "I felt bound by a sense of loyalty to do it, even though I knew it was wrong."
@@ -1749,8 +1672,6 @@ Critics judged Armstrong's admission of doping harshly as nothing new
 (WFAA Staff, 2013). They dismissed it as a ploy for redemption and for getting a reduction in his ban that would allow him to compete again. The problem, from his perspective, was getting caught in a pervasive practice, not an
 
 Bandura_1e_ch01.indd 31
-
-04/11/15 9:33 AM
 
 32 The Nature of Moral Agency
 
@@ -1800,8 +1721,6 @@ a thing of the past. Whatever officials and enforcers ban, some enterprising
 
 Bandura_1e_ch01.indd 32
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 33
 
 athletes will not only devise a way around it but will find even more sophisticated biochemical enhancers that are better at eluding detection. Sports are
@@ -1845,8 +1764,6 @@ of their self-exonerations to neutralize their own negative self-sanctions, not
 
 Bandura_1e_ch01.indd 33
 
-04/11/15 9:33 AM
-
 34 The Nature of Moral Agency
 
 just to persuade others. If they intentionally use the exonerative means manipulatively, they have the dual problem of being cynical deceivers as well
@@ -1889,8 +1806,6 @@ class, level of transgressiveness, and religious affiliation (Elliott & Rhinehar
 1998; Pastorelli, Caprara, Barbaranelli, Rola, Rozsa, & Bandura, 2001). These
 
 Bandura_1e_ch01.indd 34
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 35
 
@@ -1963,8 +1878,6 @@ not act on their feelings. However, when freed from the restraint of moral
 
 Bandura_1e_ch01.indd 35
 
-04/11/15 9:33 AM
-
 36 The Nature of Moral Agency
 
 self-sanctions, they are more likely to act out their resentments. Dehumanization weakens moral self-restraints by undermining prosocialness, blunting empathy for others' suffering, and excluding devalued individuals from
@@ -2005,8 +1918,6 @@ Adolescents who repudiated moral-disengagement practices when younger
 and continued to do so into early adulthood refrained from harmful behavior.
 
 Bandura_1e_ch01.indd 36
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 37
 
@@ -2053,8 +1964,6 @@ from moral restraints, belief in one's efficacy to exercise control by abusive
 
 Bandura_1e_ch01.indd 37
 
-04/11/15 9:33 AM
-
 38 The Nature of Moral Agency
 
 behavior fosters bullying (Barchia & Bussey, 2011). Bullying occurs in the
@@ -2097,8 +2006,6 @@ aggression over the course of an academic year. The higher the childrens'
 and teachers' collective efficacy in working collaboratively to reduce aggression the lower the peer aggression at the end of the school year. Collective
 
 Bandura_1e_ch01.indd 38
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 39
 
@@ -2143,8 +2050,6 @@ things that they would never dare say publicly. In a particularly tragic example
 
 Bandura_1e_ch01.indd 39
 
-04/11/15 9:33 AM
-
 40 The Nature of Moral Agency
 
 hateful campaign against her neighbor's daughter, Megan Meier. Hiding behind the mask of anonymity and a fake identity as a teenage boy, the mother
@@ -2186,8 +2091,6 @@ Agentic and Subpersonal Theories of Morality
 Neuroscientists who favor the philosophical theory of epiphenomenalism regard mental events, such as thoughts, consciousness, and cognitive activities,
 
 Bandura_1e_ch01.indd 40
-
-04/11/15 9:33 AM
 
 The Nature of Moral Agency 41
 
@@ -2234,8 +2137,6 @@ without having the foggiest idea of how the subserving neurophysiological
 
 Bandura_1e_ch01.indd 41
 
-04/11/15 9:33 AM
-
 42 The Nature of Moral Agency
 
 mechanisms they have enlisted work mechanically. Moreover, by endurance
@@ -2277,8 +2178,6 @@ them. They are agents of experiences, not just passive undergoers of experiences
 
 Bandura_1e_ch01.indd 42
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 43
 
 are generative, creative, proactive, and reflective, not simply reactive to external input. The sensory, motor, and cerebral systems are tools people use to
@@ -2319,8 +2218,6 @@ accountability. Libet (1985) conducted research reporting that a voluntary
 movement of a finger was initiated by unconscious neural events before the
 
 Bandura_1e_ch01.indd 43
-
-04/11/15 9:33 AM
 
 44 The Nature of Moral Agency
 
@@ -2366,8 +2263,6 @@ skeptical of the relevance of neuroscience to morality. He is not of one mind
 
 Bandura_1e_ch01.indd 44
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 45
 
 on this issue, however (Carey, 2011). On one hand, he argues that neuroscientific data cannot tell us whether a given behavior is right or wrong
@@ -2407,8 +2302,6 @@ measure of control over how situations influence them and how they shape
 their situations. In the triadic interplay of intrapersonal, behavioral, and
 
 Bandura_1e_ch01.indd 45
-
-04/11/15 9:33 AM
 
 46 The Nature of Moral Agency
 
@@ -2455,8 +2348,6 @@ images does not explain the endless variety of programs it transmits. Human
 
 Bandura_1e_ch01.indd 46
 
-04/11/15 9:33 AM
-
 The Nature of Moral Agency 47
 
 creative neuronal activities must be distinguished from the biomechanical
@@ -2484,8 +2375,6 @@ the service of inhumane practices. The subsequent chapters document how
 this occurs in diverse spheres of life.
 
 Bandura_1e_ch01.indd 47
-
-04/11/15 9:33 AM
 
 Chapter 2
 
@@ -2559,8 +2448,6 @@ force is morally justified. However, given people's dexterous facility for justi
 
 Bandura_1e_ch02.indd 49
 
-04/11/15 9:40 AM
-
 50 Mechanisms of Moral Disengagement
 
 in the context of national discord over the morality of the cause, they pay
@@ -2603,8 +2490,6 @@ nuclear bombing of Japan at the end of World War II and the toll of sanctions on
 "When people at the ends of the earth, Japan, were killed by their hundreds of thousands, young and old, it was not considered a war crime, it is
 
 Bandura_1e_ch02.indd 50
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 51
 
@@ -2651,8 +2536,6 @@ to eradicate harmful social practices. Those who run the institutional systems
 
 Bandura_1e_ch02.indd 51
 
-04/11/15 9:40 AM
-
 52 Mechanisms of Moral Disengagement
 
 condemn coercive means as unjustified and unnecessary, because lawful
@@ -2697,8 +2580,6 @@ financiers are advancing the common good.
 
 Bandura_1e_ch02.indd 52
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 53
 
 The production and marketing of products that cause harm are often justified on constitutional grounds. The use of such products is regarded as an
@@ -2739,8 +2620,6 @@ masking of detrimental activities takes the form of convoluted language.
 Doublespeak disguises by piling on inflated words and opaque professional
 
 Bandura_1e_ch02.indd 53
-
-04/11/15 9:40 AM
 
 54 Mechanisms of Moral Disengagement
 
@@ -2789,8 +2668,6 @@ Illegal wiretapping was "electronic surveillance." Spying on people was
 
 Bandura_1e_ch02.indd 54
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 55
 
 The agentless passive form is a linguistic device for creating the appearance
@@ -2832,8 +2709,6 @@ faithfully executing a game plan against a political foe will rouse weaker selfr
 committing criminal acts.
 
 Bandura_1e_ch02.indd 55
-
-04/11/15 9:40 AM
 
 56 Mechanisms of Moral Disengagement
 
@@ -2878,8 +2753,6 @@ against them" (Bernstein, 1984).
 
 Bandura_1e_ch02.indd 56
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 57
 
 Exonerating comparison relies heavily on moral justification by utilitarian standards. Making violence morally acceptable from a utilitarian perspective is facilitated by two sets of judgments. First, nonviolent options are depicted as ineffective for achieving desired changes, thus removing them from
@@ -2918,8 +2791,6 @@ that even sensible restrictions are the first step toward banning guns altogethe
 violating the Second Amendment to the Constitution.
 
 Bandura_1e_ch02.indd 57
-
-04/11/15 9:40 AM
 
 58 Mechanisms of Moral Disengagement
 
@@ -2966,8 +2837,6 @@ is most gruesomely revealed in institutionally sanctioned genocide. Nazi
 
 Bandura_1e_ch02.indd 58
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 59
 
 concentration-camp commandants and their functionaries absolved themselves of personal responsibility for their unprecedented atrocities (Andrus,
@@ -3009,8 +2878,6 @@ Sanctioning by indirection enables them to protect themselves against the
 
 Bandura_1e_ch02.indd 59
 
-04/11/15 9:40 AM
-
 60 Mechanisms of Moral Disengagement
 
 s
@@ -3048,22 +2915,18 @@ compiant
 peers
 
 Authority
-commands
 directly
 
 Authority
-commands
 remotely
 
 Nonauthority
-commands
 
 Conflicting
 authorities
 command
 
 Authority
-commands
 +
 defiant
 peers
@@ -3088,8 +2951,6 @@ going on: "He indicated he didn't particularly want to know the details. He
 said, just tell me what I need to know." Schultz did not agree with this
 
 Bandura_1e_ch02.indd 60
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 61
 
@@ -3133,8 +2994,6 @@ It requires a strong sense of responsibility, rooted in ideology, to be a good
 functionary. It is therefore important to distinguish between two levels of
 
 Bandura_1e_ch02.indd 61
-
-04/11/15 9:40 AM
 
 62 Mechanisms of Moral Disengagement
 
@@ -3181,7 +3040,6 @@ l
 e
 v
 e
-L
 
 Group Responsibility
 Individual Responsibility
@@ -3193,8 +3051,6 @@ Responsibility and Dehumanization of Victims," by A. Bandura, B.
 Journal of Research in Personality, 9, 253–269, . Reprinted with permission from Elsevier.
 
 Bandura_1e_ch02.indd 62
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 63
 
@@ -3240,8 +3096,6 @@ they hold themselves accountable for the effects of their actions. However,
 
 Bandura_1e_ch02.indd 63
 
-04/11/15 9:40 AM
-
 64 Mechanisms of Moral Disengagement
 
 enmeshment in group action does not completely eliminate self-awareness:
@@ -3285,8 +3139,6 @@ distress and self-censure become self-restraining influences (Bandura,
 becomes more evident and personalized (Milgram, 1974). Even a high sense
 
 Bandura_1e_ch02.indd 64
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 65
 
@@ -3362,8 +3214,6 @@ physically, people can bring intrapsychic processes into play to diminish the
 
 Bandura_1e_ch02.indd 65
 
-04/11/15 9:40 AM
-
 66 Mechanisms of Moral Disengagement
 
 perceived extent and severity of the harm done. These cognitive processes
@@ -3409,8 +3259,6 @@ reassuring himself that he made the right decisions: "There was good reason
 for killing the people that I did." However, the drone strikes continued to
 
 Bandura_1e_ch02.indd 66
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 67
 
@@ -3460,8 +3308,6 @@ Before his shooting rampage at Fort Hood, the army psychiatrist Nidal Hasan
 
 Bandura_1e_ch02.indd 67
 
-04/11/15 9:40 AM
-
 68 Mechanisms of Moral Disengagement
 
 consulted al-Awlaki on the religious legitimacy of killing American soldiers.
@@ -3502,8 +3348,6 @@ their functional properties. The hacker is the initiator rather than the sole
 author of the outcomes. This complex mediation blurs the link between actions and outcomes. If the computer crimes are not widely publicized, the
 
 Bandura_1e_ch02.indd 68
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 69
 
@@ -3546,8 +3390,6 @@ one's conduct caused little or no harm and that one is merely exercising the
 constitutionally protected right of free speech.
 
 Bandura_1e_ch02.indd 69
-
-04/11/15 9:40 AM
 
 70 Mechanisms of Moral Disengagement
 
@@ -3595,8 +3437,6 @@ who sexually abused children. The children's trauma included not only sexual ass
 
 Bandura_1e_ch02.indd 70
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 71
 
 into silence. For example, while brandishing a gun a molesting priest threatened to hurt the child's family if he told anyone about the assault. Given
@@ -3637,8 +3477,6 @@ legal liabilities for child molestation by priests. For example, Ireland drafted
 a law requiring church officials to report suspected child sexual abuse to
 
 Bandura_1e_ch02.indd 71
-
-04/11/15 9:40 AM
 
 72 Mechanisms of Moral Disengagement
 
@@ -3687,8 +3525,6 @@ shorten the deadline for bringing charges of child sexual abuse (Goodstein &
 
 Bandura_1e_ch02.indd 72
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 73
 
 Eckholm, 2012). Patrick Brannigan, the director of a New Jersey Catholic
@@ -3730,8 +3566,6 @@ were brought against priests in the United States alone (Warner, 2012b).
 Monsignor Lynn was sentenced to a six-year prison term for priest reassignments that endangered children and for lying to unwary parishioners
 
 Bandura_1e_ch02.indd 73
-
-04/11/15 9:40 AM
 
 74 Mechanisms of Moral Disengagement
 
@@ -3779,8 +3613,6 @@ offending priest photographed close-ups of girl's genitals. At a parishioner's
 
 Bandura_1e_ch02.indd 74
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 75
 
 dinner in the new parish the priest was caught photographing under their
@@ -3826,8 +3658,6 @@ treatment to New Mexico, which lacked a legal requirement to report evidence of 
 families of illegal immigrants, knowing that they would be fearful of filing
 
 Bandura_1e_ch02.indd 75
-
-04/11/15 9:40 AM
 
 76 Mechanisms of Moral Disengagement
 
@@ -3878,8 +3708,6 @@ criminal prosecution were violations beyond evasive therapeutic referrals. To
 
 Bandura_1e_ch02.indd 76
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 77
 
 reduce his personal responsibility further, Cardinal Mahony complained that
@@ -3928,8 +3756,6 @@ abusers were homosexuals, not pedophiles, thereby stereotyping individuals
 
 Bandura_1e_ch02.indd 77
 
-04/11/15 9:40 AM
-
 78 Mechanisms of Moral Disengagement
 
 who are homosexually oriented as child predators (Butt & Asthana, 2009).
@@ -3975,8 +3801,6 @@ What is disconcertingly ironic about the church's response to the sexualabuse ca
 
 Bandura_1e_ch02.indd 78
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 79
 
 public superseded attention to the harm inflicted on children, as well as the
@@ -4021,8 +3845,6 @@ accountable for their actions. At the civil level, they incurred no penalties
 for breaking the law.
 
 Bandura_1e_ch02.indd 79
-
-04/11/15 9:40 AM
 
 80 Mechanisms of Moral Disengagement
 
@@ -4073,8 +3895,6 @@ like a pedophile sweet shop," according to Toni Townsend, a former student
 
 Bandura_1e_ch02.indd 80
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 81
 
 (Pettifor, 2012). "He used to take the pick of the mix," she said when he
@@ -4123,8 +3943,6 @@ With rumors of sexual abuse floating around, it is difficult not to entertain th
 
 Bandura_1e_ch02.indd 81
 
-04/11/15 9:40 AM
-
 82 Mechanisms of Moral Disengagement
 
 confirmed, one has to deal with the morality of children being harmed. The
@@ -4164,8 +3982,6 @@ might signify a broader abuse problem. In a note he wrote to himself, "[I]s
 this opening of Pandora's box? Other children?" (Belson, 2012). However,
 
 Bandura_1e_ch02.indd 82
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 83
 
@@ -4215,8 +4031,6 @@ the encounter was described to him as boisterous "horseplay." It strains
 
 Bandura_1e_ch02.indd 83
 
-04/11/15 9:40 AM
-
 84 Mechanisms of Moral Disengagement
 
 credibility that Spanier and his two colleagues decided to report Sandusky
@@ -4238,8 +4052,6 @@ rules to which the university often accommodated when they conflicted.
 
 THE VICTIM LOCUS
 
-Dehumanization
-
 The final set of disengagement practices operates on the victims of detrimental practices. The strength of moral self-censure for harmful practices depends on how the perpetrators regard the people they mistreat.
 To perceive another as a sentient human being with the same basic needs
 as one's own arouses empathy and compassion for the plight of others
@@ -4257,8 +4069,6 @@ eliminated by attributing demonic or bestial qualities to them. They become
 "satanic fiends," "rats," and other bestial creatures. It is easier to brutalize
 
 Bandura_1e_ch02.indd 84
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 85
 
@@ -4283,7 +4093,6 @@ l
 e
 v
 e
-L
 
 Dehumanized
 Neutral
@@ -4323,8 +4132,6 @@ of punitive actions.
 
 Bandura_1e_ch02.indd 85
 
-04/11/15 9:40 AM
-
 86 Mechanisms of Moral Disengagement
 
 s
@@ -4348,7 +4155,6 @@ l
 e
 v
 e
-L
 
 Group responsibility
 Individual responsibility
@@ -4389,8 +4195,6 @@ any feelings of guilt over the degrading activities. "To be honest, the whole
 time I never really felt guilty because I was following orders and I was doing
 
 Bandura_1e_ch02.indd 86
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 87
 
@@ -4435,8 +4239,6 @@ at the Guantánamo Bay prison and in Iraq to force detainees to divulge informat
 
 Bandura_1e_ch02.indd 87
 
-04/11/15 9:40 AM
-
 88 Mechanisms of Moral Disengagement
 
 mental abuse kept changing. Rumsfeld also trivialized the infliction of pain in
@@ -4477,8 +4279,6 @@ manipulated to get things done, and had less desire to associate with them.
 Many conditions of contemporary life are conducive to depersonalization and dehumanization. Bureaucratization, automation, urbanization,
 
 Bandura_1e_ch02.indd 88
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 89
 
@@ -4521,8 +4321,6 @@ Blaming those who are maltreated is another means operating within the
 victim locus that can serve self-exonerative purposes. Conflictful transactions
 
 Bandura_1e_ch02.indd 89
-
-04/11/15 9:40 AM
 
 90 Mechanisms of Moral Disengagement
 
@@ -4569,8 +4367,6 @@ as the stereotype.
 
 Bandura_1e_ch02.indd 90
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 91
 
 In moral disengagement in the corporate world, some products and
@@ -4612,8 +4408,6 @@ humanity.
 
 Bandura_1e_ch02.indd 91
 
-04/11/15 9:40 AM
-
 92 Mechanisms of Moral Disengagement
 
 Dehumanized
@@ -4641,7 +4435,6 @@ l
 e
 v
 e
-L
 
 Functional
 
@@ -4675,8 +4468,6 @@ with the capacity for vicarious arousal, learning experiences largely determine 
 whose emotional experiences are vicariously arousing for given individuals.
 
 Bandura_1e_ch02.indd 92
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 93
 
@@ -4718,8 +4509,6 @@ will be cooperative or competitive elicit empathetic or counterempathetic
 reactions, respectively, to those others' emotional experiences. Much of people's perceived connectedness is linked to membership in groups of people
 
 Bandura_1e_ch02.indd 93
-
-04/11/15 9:40 AM
 
 94 Mechanisms of Moral Disengagement
 
@@ -4765,8 +4554,6 @@ William Calley had killed about 500 Vietnamese women, children, and
 elderly men in the village of My Lai. Detailed analyses of this event have
 
 Bandura_1e_ch02.indd 94
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 95
 
@@ -4814,8 +4601,6 @@ during which they personalized their lives. The combatants climbed out of
 
 Bandura_1e_ch02.indd 95
 
-04/11/15 9:40 AM
-
 96 Mechanisms of Moral Disengagement
 
 their trenches and joined in a host of social activities in festive comradeship. They shared their rations, cigarettes, and "liberated cognac" from the
@@ -4860,8 +4645,6 @@ his daughter to "the mirror that made me see your face as a human person
 
 Bandura_1e_ch02.indd 96
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 97
 
 in escalative cycles of violence turned into mutual compassion. At a national
@@ -4902,8 +4685,6 @@ some twinges of guilt. After their self-reproof has been diminished through
 repeated enactments, the level of ruthlessness increases until eventually acts
 
 Bandura_1e_ch02.indd 97
-
-04/11/15 9:40 AM
 
 98 Mechanisms of Moral Disengagement
 
@@ -4946,8 +4727,6 @@ many of which were poverty ridden. In this brutal transformation, the military j
 torturers. Having embraced the ideology of the junta, the newly fledged
 
 Bandura_1e_ch02.indd 98
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 99
 
@@ -4993,8 +4772,6 @@ The process of radicalization involves a gradual disengagement of moral selfsanc
 
 Bandura_1e_ch02.indd 99
 
-04/11/15 9:40 AM
-
 100 Mechanisms of Moral Disengagement
 
 particular social policies deemed detrimental or contrary to the common
@@ -5039,8 +4816,6 @@ Chemists who discovered that ammonia increases the nicotine "kick" by
 speeding the body's absorption of nicotine
 
 Bandura_1e_ch02.indd 100
-
-04/11/15 9:40 AM
 
 Mechanisms of Moral Disengagement 101
 
@@ -5098,8 +4873,6 @@ the paradox of how one can be a deceiver fooling oneself while knowing
 
 Bandura_1e_ch02.indd 101
 
-04/11/15 9:40 AM
-
 102 Mechanisms of Moral Disengagement
 
 the falsehood have met with little success (Bandura, 1986). These efforts
@@ -5147,8 +4920,6 @@ into believing that harmful means are morally right because the means will
 
 Bandura_1e_ch02.indd 102
 
-04/11/15 9:40 AM
-
 Mechanisms of Moral Disengagement 103
 
 reduce human suffering and promote the common good. The persuasive
@@ -5175,8 +4946,6 @@ outcomes of their activities and have the benefit of social arrangements that
 obscure any sense of personal responsibility.
 
 Bandura_1e_ch02.indd 103
-
-04/11/15 9:40 AM
 
 Chapter 3
 
@@ -5254,8 +5023,6 @@ airliners. Airplanes do not flap their wings as do flying creatures in nature.
 
 Bandura_1e_ch03.indd 105
 
-04/11/15 9:39 AM
-
 106 The Entertainment Industry
 
 The early inventors who tried to fly with flapping wings ended up in
@@ -5296,8 +5063,6 @@ so there is no ambiguity about the source of behavior. There is a temporal
 conjunction in which viewers exhibit the same style of behavior after the
 
 Bandura_1e_ch03.indd 106
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 107
 
@@ -5340,8 +5105,6 @@ workings of the cognitive processing of modeled events and the functional
 use of that information.
 
 Bandura_1e_ch03.indd 107
-
-04/11/15 9:39 AM
 
 108 The Entertainment Industry
 
@@ -5388,8 +5151,6 @@ it was rewarded or punished (Bandura, 1973). Seeing modeled aggression
 punished discouraged them from performing it. However, the observed
 
 Bandura_1e_ch03.indd 108
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 109
 
@@ -5438,8 +5199,6 @@ extortionist was apprehended.
 
 Bandura_1e_ch03.indd 109
 
-04/11/15 9:39 AM
-
 110 The Entertainment Industry
 
 Modeling novel ways to blow up airliners was irresponsible, but so was
@@ -5487,8 +5246,6 @@ behavior. The first imitator of Cooper's extortion strategy was apprehended
 as he parachuted over Colorado because, unknown to him, the air force had
 
 Bandura_1e_ch03.indd 110
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 111
 
@@ -5546,8 +5303,6 @@ by A. Bandura, in T. B. Brazelton & V. C. Vaughan III (E
 
 Bandura_1e_ch03.indd 111
 
-04/11/15 9:39 AM
-
 112 The Entertainment Industry
 
 hijackings. The first hijacker to try it was overpowered by the money courier, who was an FBI agent. This led to further refinements of the hijackingextortion procedure. Hijackers insisted that the money couriers be nude!
@@ -5590,8 +5345,6 @@ and trivialize human violence. Televised violence not only glamorizes gun
 violence, it even boosts sales of the types of gun that TV heroes favor (Diaz,
 
 Bandura_1e_ch03.indd 112
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 113
 
@@ -5640,8 +5393,6 @@ TV sets. A critical opportunity was lost to evaluate the psychosocial impact
 
 Bandura_1e_ch03.indd 113
 
-04/11/15 9:39 AM
-
 114 The Entertainment Industry
 
 of television at the outset. With anticipatory ingenuity, Williams (1986)
@@ -5682,8 +5433,6 @@ emotional reactions to them (Bandura, 1986). The emotional blunting by
 exposure to violent events takes two forms. In emotional desensitization to
 
 Bandura_1e_ch03.indd 114
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 115
 
@@ -5731,8 +5480,6 @@ for the triumph of evil is for good men to do nothing."
 
 Bandura_1e_ch03.indd 115
 
-04/11/15 9:39 AM
-
 116 The Entertainment Industry
 
 Social Construction of Reality
@@ -5776,8 +5523,6 @@ period of time that contained either light or heavy doses of violence. This
 controlled experimental research further verified that heavy doses of televised violence increase fear of becoming a victim of a violent assault. The extensive overreporting of violent crimes in daily newscasts further reinforces
 
 Bandura_1e_ch03.indd 116
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 117
 
@@ -5825,8 +5570,6 @@ for dramatizing the rape of a young girl with the handle of a toilet plunger in
 
 Bandura_1e_ch03.indd 117
 
-04/11/15 9:39 AM
-
 118 The Entertainment Industry
 
 the TV movie Born Innocent (Zane, 1981). Four days after the film was aired,
@@ -5871,8 +5614,6 @@ containing violent activity involving either commiters or victims of violence.
 
 Bandura_1e_ch03.indd 118
 
-04/11/15 9:39 AM
-
 The Entertainment Industry 119
 
 Violence rates fluctuate somewhat for different networks and program categories, but there is no overall decline in this figure. The patterns of victimization are also quite stable over time. Children's programming, which consists
@@ -5915,8 +5656,6 @@ analysis by Baldwin and Lewis (1972) of televised violence from the broadcast in
 and directors who put the violence in the programs and by enforcers of the
 
 Bandura_1e_ch03.indd 119
-
-04/11/15 9:39 AM
 
 120 The Entertainment Industry
 
@@ -5961,8 +5700,6 @@ plot and violence and damn little character. I go for character. Let the violenc
 
 Bandura_1e_ch03.indd 120
 
-04/11/15 9:39 AM
-
 The Entertainment Industry 121
 
 explained the demand for more violent content: "It now develops that Martin wants to concentrate on the slam-bang stuff and that isn't my cup of tea"
@@ -6005,8 +5742,6 @@ In the justification of gratuitous violence there is much talk about
 freedom of speech, but silence about public access to the media. With the
 
 Bandura_1e_ch03.indd 121
-
-04/11/15 9:39 AM
 
 122 The Entertainment Industry
 
@@ -6052,8 +5787,6 @@ The use of gratuitous violence eventually became an occupational
 norm that no longer required explicit orders. Like other commodities, its
 
 Bandura_1e_ch03.indd 122
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 123
 
@@ -6101,8 +5834,6 @@ aggressive behavior. Catharsis theory is founded on a hydraulic model in
 
 Bandura_1e_ch03.indd 123
 
-04/11/15 9:39 AM
-
 124 The Entertainment Industry
 
 which aroused aggressive impulses remain active unless discharged by vicarious or enacted aggression. Actually, anger arousal dissipates over time
@@ -6135,8 +5866,6 @@ for theatre showing" (Baldwin & Lewis, 1972). If TV producers believe that
 exposure to televised violence is therapeutic despite evidence to the contrary,
 they have no need for moral concern.
 
-Advantageous Comparison
-
 The contrast principle is enlisted in whitewashing televised violence. One
 form of comparative vindication is to sanctify brutalizing excesses on television by pointing to violent episodes in literary classics and the Bible: "There
 is in Oedipus, Hamlet, and it permeates in [sic] the Bible." The TV film
@@ -6147,8 +5876,6 @@ play that would be considered a classic—or even worthwhile reading—that
 doesn't extend human emotion to the point of violence on the part of its
 
 Bandura_1e_ch03.indd 124
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 125
 
@@ -6191,8 +5918,6 @@ itself makes heavy use of violent excerpts. These include "teasers" that highlig
 violence in next week's episode, and "promotionals" that show the excerpted
 
 Bandura_1e_ch03.indd 125
-
-04/11/15 9:39 AM
 
 126 The Entertainment Industry
 
@@ -6240,8 +5965,6 @@ authorizer. Here is a liaison person from NBC conveying the directive to Tors
 to inject sex into his plotlines: "New York has indicated to me recently their
 
 Bandura_1e_ch03.indd 126
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 127
 
@@ -6291,8 +6014,6 @@ The program favored character-driven plotlines rather than physical violence.
 
 Bandura_1e_ch03.indd 127
 
-04/11/15 9:39 AM
-
 128 The Entertainment Industry
 
 In the series, the Cartwright pioneer family fought injustice, bigotry, and
@@ -6339,8 +6060,6 @@ by shifting blame elsewhere is almost boundless.
 
 Bandura_1e_ch03.indd 128
 
-04/11/15 9:39 AM
-
 The Entertainment Industry 129
 
 Denial and Dispute of Negative Media Effects
@@ -6384,8 +6103,6 @@ the mass media to effect a revolution in people's religious beliefs" (Baker
 fosters cooperativeness and sharing (Johnston & Ettema, 1986). Prosocial
 
 Bandura_1e_ch03.indd 129
-
-04/11/15 9:39 AM
 
 130 The Entertainment Industry
 
@@ -6434,8 +6151,6 @@ negligence in the evaluation of effects. As long as the effects of one's product
 
 Bandura_1e_ch03.indd 130
 
-04/11/15 9:39 AM
-
 The Entertainment Industry 131
 
 Industries bear the responsibility of measuring the effects of their products.
@@ -6483,8 +6198,6 @@ effects of televised violence. Some of the critiques were directed at me persona
 
 Bandura_1e_ch03.indd 131
 
-04/11/15 9:39 AM
-
 132 The Entertainment Industry
 
 sought to clarify the nature of observational learning and the mechanisms
@@ -6525,8 +6238,6 @@ all of his colleagues" in the critique of experimental studies of aggressive
 modeling. In a concluding statement, Efron enlightened the viewing public
 
 Bandura_1e_ch03.indd 132
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 133
 
@@ -6575,8 +6286,6 @@ miserable for the screenwriter's family with telephone calls at odd hours
 
 Bandura_1e_ch03.indd 133
 
-04/11/15 9:39 AM
-
 134 The Entertainment Industry
 
 and mailings of photos of her deceased son. Through a morally disengaged
@@ -6618,8 +6327,6 @@ We enlisted the help of Senator Lee Metcalf to obtain information on
 the selection procedure. Health, Education, and Welfare Secretary Robert
 
 Bandura_1e_ch03.indd 134
-
-04/11/15 9:39 AM
 
 The Entertainment Industry 135
 
@@ -6666,8 +6373,6 @@ difficult to conduct. We do little of it.
 
 Bandura_1e_ch03.indd 135
 
-04/11/15 9:39 AM
-
 136 The Entertainment Industry
 
 Attribution of Blame to Viewers
@@ -6710,8 +6415,6 @@ will be triggered. . . . To remove what might adversely affect a few would be
 like prohibiting medications because of a side effect which they may have on
 
 Bandura_1e_ch03.indd 136
-
-04/11/15 9:40 AM
 
 The Entertainment Industry 137
 
@@ -6760,8 +6463,6 @@ children watch.
 
 Bandura_1e_ch03.indd 137
 
-04/11/15 9:40 AM
-
 138 The Entertainment Industry
 
 Dehumanization of Viewers and Disparagement
@@ -6805,8 +6506,6 @@ violence deleted. These findings provide no empirical support for the myth
 that violence sells. Nor does the annual viewership for the top-ranked series
 
 Bandura_1e_ch03.indd 138
-
-04/11/15 9:40 AM
 
 The Entertainment Industry 139
 
@@ -6857,8 +6556,6 @@ scarred forever by the murder of their father. Moreover, the violent characters
 
 Bandura_1e_ch03.indd 139
 
-04/11/15 9:40 AM
-
 140 The Entertainment Industry
 
 are stripped of a mental life. They do not struggle with inner conflicts over
@@ -6902,8 +6599,6 @@ time, say the broadcasters, for reflective thought. It only slows things down.
 "To have a person wrestle with a problem before acting may be objected to
 
 Bandura_1e_ch03.indd 140
-
-04/11/15 9:40 AM
 
 The Entertainment Industry 141
 
@@ -6952,8 +6647,6 @@ society than that of television" (Baldwin & Lewis, 1972). Broadcasters viewed
 
 Bandura_1e_ch03.indd 141
 
-04/11/15 9:40 AM
-
 142 The Entertainment Industry
 
 Congress as having no business infringing on the constitutional rights of the
@@ -7000,8 +6693,6 @@ creativity marred by meddlesome overseers of limited talent, and resent
 
 Bandura_1e_ch03.indd 142
 
-04/11/15 9:40 AM
-
 The Entertainment Industry 143
 
 being unfairly chastised by those they regard as opportunistic politicians
@@ -7046,8 +6737,6 @@ There is little danger, however, that a television station would ever lose its
 
 Bandura_1e_ch03.indd 143
 
-04/11/15 9:40 AM
-
 144 The Entertainment Industry
 
 license due to commercial overuse of violence. Not only would such rulings
@@ -7090,8 +6779,6 @@ would subvert enforcement of the law, the Federal Communications Commission, und
 of the obligation of providing some programs for children by allowing them
 
 Bandura_1e_ch03.indd 144
-
-04/11/15 9:40 AM
 
 The Entertainment Industry 145
 
@@ -7136,8 +6823,6 @@ which it judges what may be appropriate for given ages. The broadcasters'
 
 Bandura_1e_ch03.indd 145
 
-04/11/15 9:40 AM
-
 146 The Entertainment Industry
 
 rating system provides a summary judgment about age appropriateness but
@@ -7179,8 +6864,6 @@ aspects of the television entertainment industry was provided by two sets
 of cultural events in the 1960s. The first was concerned parents' persistent
 
 Bandura_1e_ch03.indd 146
-
-04/11/15 9:40 AM
 
 The Entertainment Industry 147
 
@@ -7226,8 +6909,6 @@ which incur minimal production costs, are a gift from television heaven.
 
 Bandura_1e_ch03.indd 147
 
-04/11/15 9:40 AM
-
 148 The Entertainment Industry
 
 They have no expensive superstars and no writers, expensive staging, filming in pricey locations, or union representation to urge improvements in
@@ -7262,8 +6943,6 @@ vehicle for human understanding and betterment. Chapter 8 reviews mediabased soc
 force for good.
 
 Bandura_1e_ch03.indd 148
-
-04/11/15 9:40 AM
 
 Chapter 4
 
@@ -7300,8 +6979,6 @@ opposes any sensible gun regulations. The Supreme Court's affirmation of
 gun ownership as a constitutional, individual right amplified the conflict
 
 Bandura_1e_ch04.indd 149
-
-04/11/15 9:39 AM
 
 150 The Gun Industry
 
@@ -7341,8 +7018,6 @@ over time. In his richly documented book Making a Killing: The Business of
 Guns in America, Tom Diaz, a senior policy analyst at the Violence Policy
 
 Bandura_1e_ch04.indd 150
-
-04/11/15 9:39 AM
 
 The Gun Industry 151
 
@@ -7387,8 +7062,6 @@ is demanding," as do the stockholders: "We supply dollars to our stockholders. F
 (Albright, 1981). After the interview, Oberg revised his statement in which
 
 Bandura_1e_ch04.indd 151
-
-04/11/15 9:39 AM
 
 152 The Gun Industry
 
@@ -7436,8 +7109,6 @@ suicides. The presence of a gun in the home is a significant risk factor for
 
 Bandura_1e_ch04.indd 152
 
-04/11/15 9:39 AM
-
 The Gun Industry 153
 
 adolescent suicides in part because young people tend to act impulsively. A
@@ -7480,8 +7151,6 @@ toward a complete ban on guns is a major obstacle to striking a balance
 between gun rights and public safety.
 
 Bandura_1e_ch04.indd 153
-
-04/11/15 9:39 AM
 
 154 The Gun Industry
 
@@ -7528,8 +7197,6 @@ where the government need not fear the wrath of an armed people.
 
 Bandura_1e_ch04.indd 154
 
-04/11/15 9:39 AM
-
 The Gun Industry 155
 
 country where the basic human right of self-defense is guaranteed by
@@ -7575,8 +7242,6 @@ more effective weapon" (Butterfield, 1999). The escalation of firepower is
 
 Bandura_1e_ch04.indd 155
 
-04/11/15 9:39 AM
-
 156 The Gun Industry
 
 of the industry's own making. Recall that police were forced to adopt deadlier firearms because they were being outgunned by criminals. Some fringe
@@ -7619,8 +7284,6 @@ The point at issue is not the marketplace of ideas but rather the marketplace of
 "gun nut," nor do advocates of gun regulation like to be called "loony leftists." However, both sides are free to say whatever they want about each
 
 Bandura_1e_ch04.indd 156
-
-04/11/15 9:39 AM
 
 The Gun Industry 157
 
@@ -7674,8 +7337,6 @@ on high-powered, semiautomatic rifles because of their enormous killing
 
 Bandura_1e_ch04.indd 157
 
-04/11/15 9:39 AM
-
 158 The Gun Industry
 
 power. This type of firearm was styled after the military's automatic M-16,
@@ -7709,8 +7370,6 @@ assault weapon "California Legal." As this failed effort shows, whatever gun
 features are banned or altered the gun industry finds a way around them,
 mechanically and linguistically.
 
-Advantageous Comparison
-
 Reducing moral self-sanctions by means of advantageous comparisons is
 typically achieved by contrasting one's harmful activity with more egregious
 inhumanities. John Risdall, president of the gun manufacturer Magnum
@@ -7720,8 +7379,6 @@ who were making components for nuclear weapons feel they could be doing
 something immoral? I don't think so. It was a business" (Diaz, 1999).
 
 Bandura_1e_ch04.indd 158
-
-04/11/15 9:39 AM
 
 The Gun Industry 159
 
@@ -7766,8 +7423,6 @@ lives begin to end the day we become silent about things that matter.'
 Martin Luther King said that.
 
 Bandura_1e_ch04.indd 159
-
-04/11/15 9:39 AM
 
 160 The Gun Industry
 
@@ -7815,8 +7470,6 @@ dealers sold guns to an obvious straw purchaser. In a similar sting operation
 
 Bandura_1e_ch04.indd 160
 
-04/11/15 9:39 AM
-
 The Gun Industry 161
 
 in the online gun market, in over 60% of the cases, sellers were willing to
@@ -7861,8 +7514,6 @@ of gun dealers from reporting and accounting for missing guns in their
 
 Bandura_1e_ch04.indd 161
 
-04/11/15 9:39 AM
-
 162 The Gun Industry
 
 inventory, unregulated sales at gun shows, and the absence of a national
@@ -7902,8 +7553,6 @@ gun sales in the criminal market, corrupt dealers will figure out ways of gettin
 understaffed and underfunded external regulators. The societal problem of
 
 Bandura_1e_ch04.indd 162
-
-04/11/15 9:39 AM
 
 The Gun Industry 163
 
@@ -7954,8 +7603,6 @@ conduct" (Clark, 2003). The bill passed the House with a sizable majority,
 
 Bandura_1e_ch04.indd 163
 
-04/11/15 9:39 AM
-
 164 The Gun Industry
 
 and 56 senators added their names to it. However, progun supporters had
@@ -7999,8 +7646,6 @@ largest gun wholesalers refused to distribute Smith & Wesson guns. Some
 shooting-match organizers told the firm to stay away from their events.
 
 Bandura_1e_ch04.indd 164
-
-04/11/15 9:39 AM
 
 The Gun Industry 165
 
@@ -8047,8 +7692,6 @@ lethal firearms. Changes in fashions have no injurious public consequences.
 
 Bandura_1e_ch04.indd 165
 
-04/11/15 9:39 AM
-
 166 The Gun Industry
 
 Sandra Froman (2007) argued, by minimization through advantageous
@@ -8092,8 +7735,6 @@ entirely on the shooter. This is apparent in the NRA's exonerative causal
 
 Bandura_1e_ch04.indd 166
 
-04/11/15 9:39 AM
-
 The Gun Industry 167
 
 slogan "Guns don't kill people. People kill people." Removal of the gun from
@@ -8136,8 +7777,6 @@ guns" (Ayres, 1994). Professed helplessness to do anything about mass killings i
 gun industry. One lobbyist used this type of evasion in opposing a community's effort to ban bullets that can penetrate police body armor. In his
 
 Bandura_1e_ch04.indd 167
-
-04/11/15 9:39 AM
 
 168 The Gun Industry
 
@@ -8186,8 +7825,6 @@ own petard. If a society faces the threat of repeated massacres of innocent peop
 
 Bandura_1e_ch04.indd 168
 
-04/11/15 9:39 AM
-
 The Gun Industry 169
 
 of regulation can prevent, society has a moral obligation to protect its
@@ -8233,8 +7870,6 @@ on how governmental resources are spent. Higher education and prisons
 
 Bandura_1e_ch04.indd 169
 
-04/11/15 9:39 AM
-
 170 The Gun Industry
 
 compete for money from the same general fund. The public demands that
@@ -8275,8 +7910,6 @@ violence is better reduced by investment in education than investment in
 incarceration.
 
 Bandura_1e_ch04.indd 170
-
-04/11/15 9:39 AM
 
 The Gun Industry 171
 
@@ -8325,8 +7958,6 @@ Rather, it is just one aspect of the larger cultural war construed by progun
 
 Bandura_1e_ch04.indd 171
 
-04/11/15 9:39 AM
-
 172 The Gun Industry
 
 advocates as between arrogant elitists and rank-and-file Americans who love
@@ -8369,8 +8000,6 @@ moral order, including feminists, homosexuals, African Americans, and
 new age religionists:
 
 Bandura_1e_ch04.indd 172
-
-04/11/15 9:39 AM
 
 The Gun Industry 173
 
@@ -8415,8 +8044,6 @@ and easily concealable street crime guns; requiring safety trigger locks; limiti
 
 Bandura_1e_ch04.indd 173
 
-04/11/15 9:39 AM
-
 174 The Gun Industry
 
 shows; requiring gun dealers to examine their inventories for lost or stolen
@@ -8458,8 +8085,6 @@ through criminal gun use or accidental shootings. However, the law granted
 major cities and suburban counties the right to ban guns from these public
 
 Bandura_1e_ch04.indd 174
-
-04/11/15 9:39 AM
 
 The Gun Industry 175
 
@@ -8503,8 +8128,6 @@ Department as well.
 
 Bandura_1e_ch04.indd 175
 
-04/11/15 9:39 AM
-
 176 The Gun Industry
 
 Thousands of gun dealers along the Mexican border are running a brisk
@@ -8546,8 +8169,6 @@ guns were not the problem. It was the failure of the mental health systems
 and the kin of the assailant who were at fault in the Tucson massacre. The
 
 Bandura_1e_ch04.indd 176
-
-04/11/15 9:39 AM
 
 The Gun Industry 177
 
@@ -8594,8 +8215,6 @@ absolute right to carry concealed guns anywhere at any time. In a growing assert
 
 Bandura_1e_ch04.indd 177
 
-04/11/15 9:39 AM
-
 178 The Gun Industry
 
 bills proclaiming that federal regulation of firearms is invalid if the guns are
@@ -8639,8 +8258,6 @@ and suicides. These findings indicate that carrying concealed weapons risks
 lethal violence rather than preventing it.
 
 Bandura_1e_ch04.indd 178
-
-04/11/15 9:39 AM
 
 The Gun Industry 179
 
@@ -8690,8 +8307,6 @@ public places more dangerous, not safer.
 
 Bandura_1e_ch04.indd 179
 
-04/11/15 9:39 AM
-
 180 The Gun Industry
 
 Martin's tragic death sparked massive public outrage, demonstrations,
@@ -8731,8 +8346,6 @@ also are being marketed. Turning a lethal device into normative gear is a
 significant change in cultural values and morality.
 
 Bandura_1e_ch04.indd 180
-
-04/11/15 9:39 AM
 
 The Gun Industry 181
 
@@ -8780,8 +8393,6 @@ Nevertheless, enough well-established incumbents have been defeated
 
 Bandura_1e_ch04.indd 181
 
-04/11/15 9:39 AM
-
 182 The Gun Industry
 
 in primary elections to make the NRA politically intimidating. Extreme
@@ -8826,8 +8437,6 @@ divided society that cannot find common ground even on modest gun reforms, anyon
 
 Bandura_1e_ch04.indd 182
 
-04/11/15 9:39 AM
-
 The Gun Industry 183
 
 The NRA has a wide reach well beyond the legislative arena. A number of
@@ -8868,8 +8477,6 @@ Sandy Hook Elementary School in Newtown, Connecticut. Before committing suicide,
 with 154 bullets fired in under 5 minutes. The death toll would have been
 
 Bandura_1e_ch04.indd 183
-
-04/11/15 9:39 AM
 
 184 The Gun Industry
 
@@ -8915,8 +8522,6 @@ found reason to be optimistic: "It's different because no decent human being
 can look at a tragedy like this and not be outraged by the fact that it can happen in our nation." The collective outrage, he reasoned, would force change,
 
 Bandura_1e_ch04.indd 184
-
-04/11/15 9:39 AM
 
 The Gun Industry 185
 
@@ -8964,8 +8569,6 @@ news conference, which he received while leaving the funeral of one of the
 
 Bandura_1e_ch04.indd 185
 
-04/11/15 9:39 AM
-
 186 The Gun Industry
 
 children, as "the most revolting tone deaf statement I've ever seen" (Briand,
@@ -9010,8 +8613,6 @@ Obama's reelection, Keene announced, "We have to be prepared to fight him
 on each front, rally friendly elected officials, persuade those in the middle
 
 Bandura_1e_ch04.indd 186
-
-04/11/15 9:39 AM
 
 The Gun Industry 187
 
@@ -9061,8 +8662,6 @@ guns, kill people. This disjointed view of causation continues to be recited.
 
 Bandura_1e_ch04.indd 187
 
-04/11/15 9:39 AM
-
 188 The Gun Industry
 
 congressman (Shear, 2012). Another House member also claimed that the
@@ -9103,8 +8702,6 @@ and driven by demons that no sane person can even possibly comprehend
 them." In point of fact, over 90% of those with serious mental illness are
 
 Bandura_1e_ch04.indd 188
-
-04/11/15 9:39 AM
 
 The Gun Industry 189
 
@@ -9151,8 +8748,6 @@ to anybody—except bad people . . ." However, guns differ in their inherent
 
 Bandura_1e_ch04.indd 189
 
-04/11/15 9:39 AM
-
 190 The Gun Industry
 
 lethality. Consequently, a "bad" person will kill many more people with a
@@ -9196,8 +8791,6 @@ sales (Siddiqui, 2014). The NRA promoted an opposing initiative barring
 
 Bandura_1e_ch04.indd 190
 
-04/11/15 9:39 AM
-
 The Gun Industry 191
 
 background checks unless required by federal law, which is replete with
@@ -9240,8 +8833,6 @@ priorities would rapidly change if communities had to tax themselves to pay
 for them.
 
 Bandura_1e_ch04.indd 191
-
-04/11/15 9:39 AM
 
 192 The Gun Industry
 
@@ -9288,8 +8879,6 @@ is. This extremism is so frightening and so over the line" (Moore, 2013).
 
 Bandura_1e_ch04.indd 192
 
-04/11/15 9:39 AM
-
 The Gun Industry 193
 
 However, ardent gun advocates defended it with exonerative justifications.
@@ -9333,8 +8922,6 @@ hard, but the time is now," she said haltingly. "Be courageous. Americans
 are counting on you."
 
 Bandura_1e_ch04.indd 193
-
-04/11/15 9:39 AM
 
 194 The Gun Industry
 
@@ -9381,8 +8968,6 @@ were the gun-safety measures roundly defeated, but progun lawmakers
 
 Bandura_1e_ch04.indd 194
 
-04/11/15 9:39 AM
-
 The Gun Industry 195
 
 also turned the effort for gun safety into a further expansion of gun rights.
@@ -9425,8 +9010,6 @@ defeat in the Senate spares the House representatives from having to address
 the gun issue at all.
 
 Bandura_1e_ch04.indd 195
-
-04/11/15 9:39 AM
 
 196 The Gun Industry
 
@@ -9473,8 +9056,6 @@ to be and the role of guns within it.
 
 Bandura_1e_ch04.indd 196
 
-04/11/15 9:39 AM
-
 The Gun Industry 197
 
 No society can either prevent or predict mass killings with certainty.
@@ -9518,8 +9099,6 @@ they perceive as scheming to take their guns away from them. With the Supreme Co
 rights, gun advocates have little basis for fearing that the government will
 
 Bandura_1e_ch04.indd 197
-
-04/11/15 9:39 AM
 
 198 The Gun Industry
 
@@ -9566,8 +9145,6 @@ gun business is a peculiar one. Gun manufacturers face a major challenge to
 
 Bandura_1e_ch04.indd 198
 
-04/11/15 9:39 AM
-
 The Gun Industry 199
 
 economic growth because they sell a product that does not wear out. They
@@ -9609,8 +9186,6 @@ shooting. The public opinion researcher group that was commissioned to do
 the study recommended that the ambassador peer models use social media
 
 Bandura_1e_ch04.indd 199
-
-04/11/15 9:39 AM
 
 200 The Gun Industry
 
@@ -9657,8 +9232,6 @@ The human toll in mass shootings is not a perception problem.
 
 Bandura_1e_ch04.indd 200
 
-04/11/15 9:39 AM
-
 The Gun Industry 201
 
 In another form of comparative exoneration, proponents of the generational program argued that cheerleading and playing softball are more
@@ -9702,8 +9275,6 @@ on the battlefield and banned gun magazines with more than 10 rounds of
 
 Bandura_1e_ch04.indd 201
 
-04/11/15 9:39 AM
-
 202 The Gun Industry
 
 ammunition. This ruling, if upheld by the Supreme Court, places some limits
@@ -9733,8 +9304,6 @@ divisions. Its future rulings on the constitutionality of particular gun restric
 is played out in the factional gun battle.
 
 Bandura_1e_ch04.indd 202
-
-04/11/15 9:39 AM
 
 Chapter 5
 
@@ -9819,8 +9388,6 @@ high stakes in the system. They act in the belief that they can outsmart the
 
 Bandura_1e_ch05.indd 204
 
-04/11/15 9:37 AM
-
 The Corporate World 205
 
 system and that their privileged status puts them above the law. Power holders wield their influence to build their privileges and immunity into laws
@@ -9862,8 +9429,6 @@ industry because competitors were undercutting each other. In a massive
 conspiracy to control the price and bidding war, fourteen electrical manufacturers divided the market for lucrative contracts, rigged the prices of the
 
 Bandura_1e_ch05.indd 205
-
-04/11/15 9:37 AM
 
 206 The Corporate World
 
@@ -9914,8 +9479,6 @@ they were to survive the fierce competition: "You are a little fellow in a
 
 Bandura_1e_ch05.indd 206
 
-04/11/15 9:37 AM
-
 The Corporate World 207
 
 big industry, and you have to go along" (Herling, 1962). One need not feel
@@ -9963,8 +9526,6 @@ and that operational managers were participating in price-fixing meetings
 
 Bandura_1e_ch05.indd 207
 
-04/11/15 9:37 AM
-
 208 The Corporate World
 
 with their competitive counterparts. With decentralization into divisions
@@ -10006,8 +9567,6 @@ bureaucracies. Weak regulatory oversight creates fertile ground for faulty
 management, exploitive practices, and outright fraud.
 
 Bandura_1e_ch05.indd 208
-
-04/11/15 9:37 AM
 
 The Corporate World 209
 
@@ -10056,8 +9615,6 @@ Keating enlisted the help of five prominent senators, known as the
 
 Bandura_1e_ch05.indd 209
 
-04/11/15 9:37 AM
-
 210 The Corporate World
 
 Dennis DeConcini of Arizona, John Glenn of Ohio, and Donald Riegle of
@@ -10105,8 +9662,6 @@ and "shameless." Others were cynical about lawmakers investigating themselves. I
 
 Bandura_1e_ch05.indd 210
 
-04/11/15 9:37 AM
-
 The Corporate World 211
 
 Keating was a notable example of the selective exercise of moral agency.
@@ -10152,8 +9707,6 @@ use. . . . I prefer the word 'unethical'" (Stewart, 1991).
 
 Bandura_1e_ch05.indd 211
 
-04/11/15 9:37 AM
-
 212 The Corporate World
 
 Ayn Rand (1966), who attained a sizable following in libertarian, neoconservative, and corporate circles, championed the secular morality of
@@ -10197,8 +9750,6 @@ few months. The fraudsters recruited the entire set of moral disengagement
 
 Bandura_1e_ch05.indd 212
 
-04/11/15 9:37 AM
-
 The Corporate World 213
 
 mechanisms in the service of self-exoneration. They trivialized lying about
@@ -10240,8 +9791,6 @@ raters know that Enron's real innovation was fraudulent accounting. Enron
 executives sold their shares in the company while telling their investors to
 
 Bandura_1e_ch05.indd 213
-
-04/11/15 9:37 AM
 
 214 The Corporate World
 
@@ -10285,8 +9834,6 @@ Andersen's managing partner and chief executive officer, shifted the blame for
 not warning the public about Enron's financial condition to the constraints of
 
 Bandura_1e_ch05.indd 214
-
-04/11/15 9:37 AM
 
 The Corporate World 215
 
@@ -10334,8 +9881,6 @@ terrible in this thing." Chairmen of major banks were paying him visits,
 seeking to invest with him. "All of a sudden, these banks which wouldn't
 
 Bandura_1e_ch05.indd 215
-
-04/11/15 9:37 AM
 
 216 The Corporate World
 
@@ -10387,8 +9932,6 @@ the suicide of a son he admired.
 
 Bandura_1e_ch05.indd 216
 
-04/11/15 9:37 AM
-
 The Corporate World 217
 
 Rajaratnam: Big-Time insider Trading
@@ -10434,8 +9977,6 @@ their friendship.
 
 Bandura_1e_ch05.indd 217
 
-04/11/15 9:37 AM
-
 218 The Corporate World
 
 Some of the tipsters got caught up in the intensely competitive culture of
@@ -10480,8 +10021,6 @@ member. In handing down the sentence, the presiding judge noted, "He is
 a good man. But the history of this country and the history of the world is
 
 Bandura_1e_ch05.indd 218
-
-04/11/15 9:37 AM
 
 The Corporate World 219
 
@@ -10531,8 +10070,6 @@ prosecutor's request to reconsider the ruling (Goldstein & Protess, 2015).
 
 Bandura_1e_ch05.indd 219
 
-04/11/15 9:37 AM
-
 220 The Corporate World
 
 This partial legitimization is likely to spawn creative insider trading,
@@ -10578,8 +10115,6 @@ the debt on them exceeded their value and the houses were said to be
 
 Bandura_1e_ch05.indd 220
 
-04/11/15 9:37 AM
-
 The Corporate World 221
 
 to plummet. Financial institutions found themselves saddled with mounting
@@ -10624,8 +10159,6 @@ Sachs fraud case was settled with a hefty fine. However, a federal jury
 found Tourre liable on six counts of civil securities fraud. Jurors wondered
 
 Bandura_1e_ch05.indd 221
-
-04/11/15 9:37 AM
 
 222 The Corporate World
 
@@ -10675,8 +10208,6 @@ to people's lives worldwide. Sales of derivatives containing subprime mortgages 
 
 Bandura_1e_ch05.indd 222
 
-04/11/15 9:37 AM
-
 The Corporate World 223
 
 financial practices were disconnected from corrective consequences. This disconnect undermined the rational market system. Because banks borrowed
@@ -10718,8 +10249,6 @@ and talking about "ripping eyeballs out," and analysts of derivatives asking,
 firm when he could "no longer in good conscience" compromise his values.
 
 Bandura_1e_ch05.indd 223
-
-04/11/15 9:37 AM
 
 224 The Corporate World
 
@@ -10766,8 +10295,6 @@ want to keep their jobs.
 
 Bandura_1e_ch05.indd 224
 
-04/11/15 9:37 AM
-
 The Corporate World 225
 
 Shifting blame was used for exonerative purposes in the collapse of the
@@ -10809,8 +10336,6 @@ Legislative initiatives designed to remedy problems are often subverted
 or neutralized by opposing interest groups using the 4D strategy: defeat,
 
 Bandura_1e_ch05.indd 225
-
-04/11/15 9:37 AM
 
 226 The Corporate World
 
@@ -10861,8 +10386,6 @@ interests are eager to recruit them because they know how Congress works
 
 Bandura_1e_ch05.indd 226
 
-04/11/15 9:37 AM
-
 The Corporate World 227
 
 and how to use their congressional connections to influence the polices being legislated. Eisinger (2014) describes government work for those seeking
@@ -10905,8 +10428,6 @@ little hole, and they'll run through it" (Stewart, 2011). All those exemptions
 can result in a law that is essentially unenforceable.
 
 Bandura_1e_ch05.indd 227
-
-04/11/15 9:37 AM
 
 228 The Corporate World
 
@@ -10951,8 +10472,6 @@ supporting lawmakers, was also highly skeptical of the effectiveness of this
 effort to prevent future bank failures requiring costly taxpayer bailouts: "[W]e
 
 Bandura_1e_ch05.indd 228
-
-04/11/15 9:37 AM
 
 The Corporate World 229
 
@@ -10999,8 +10518,6 @@ significant players among this diverse cast of enablers.
 Individual and institutional change requires accountability, with consequences for harmful practices. Without personal consequences, people
 
 Bandura_1e_ch05.indd 229
-
-04/11/15 9:37 AM
 
 230 The Corporate World
 
@@ -11051,8 +10568,6 @@ investigate mortgage fraud, but the amount was insufficient to do the job.
 
 Bandura_1e_ch05.indd 230
 
-04/11/15 9:37 AM
-
 The Corporate World 231
 
 Partisan lawmakers who side with Wall Street tried to curb the independence of the Consumer Finance Protection Bureau and to water down
@@ -11095,8 +10610,6 @@ Silver-Greenberg, 2013a). The bank reluctantly admitted wrongdoing but
 shielded upper-level wrongdoers. Bart Naylor of Public Citizen criticized the
 
 Bandura_1e_ch05.indd 231
-
-04/11/15 9:37 AM
 
 232 The Corporate World
 
@@ -11145,8 +10658,6 @@ to "subsidizing bad behavior" (Cohen, 2015). Taxpayers bear the dual costs
 
 Bandura_1e_ch05.indd 232
 
-04/11/15 9:37 AM
-
 The Corporate World 233
 
 of corporate wrongdoings. They pay the losses from reckless corporate practices and lose tax revenues because the fines are deductible. Under the sway
@@ -11189,8 +10700,6 @@ their subsidiaries." To escape criminal charges and penalties bank, officials
 predictably turn to fear control. Guilty pleas, they argue, will wreak widespread havoc in financial markets. The threat of catastrophic financial consequences intimidates prosecutors into settling for lesser charges and penalties.
 
 Bandura_1e_ch05.indd 233
-
-04/11/15 9:37 AM
 
 234 The Corporate World
 
@@ -11235,8 +10744,6 @@ them out.
 
 Bandura_1e_ch05.indd 234
 
-04/11/15 9:37 AM
-
 The Corporate World 235
 
 With a new Congress that is more sympathetic to Wall Street, the Dodd-
@@ -11277,8 +10784,6 @@ the banks: "In some cases there have been interviews of our people taking
 place in auditoriums because there are so many different agencies involved"
 
 Bandura_1e_ch05.indd 235
-
-04/11/15 9:37 AM
 
 236 The Corporate World
 
@@ -11325,8 +10830,6 @@ harm caused by shielding chief executives from personal consequences for
 
 Bandura_1e_ch05.indd 236
 
-04/11/15 9:37 AM
-
 The Corporate World 237
 
 corporate crimes: "But when the attorney general says, 'I don't want to
@@ -11369,8 +10872,6 @@ industries. Cigarette smoking causes almost half a million deaths annually
 in the United States alone. Lead poisoning can cause neurological disorders,
 
 Bandura_1e_ch05.indd 237
-
-04/11/15 9:37 AM
 
 238 The Corporate World
 
@@ -11421,8 +10922,6 @@ findings are used. This section draws on the findings of this study, and broaden
 
 Bandura_1e_ch05.indd 238
 
-04/11/15 9:37 AM
-
 The Corporate World 239
 
 The Tobacco industry
@@ -11471,8 +10970,6 @@ diseases as well as impairing immune function. Evidence indicates that the
 
 Bandura_1e_ch05.indd 239
 
-04/11/15 9:37 AM
-
 240 The Corporate World
 
 cigarette design makes them more addictive by requiring smokers to inhale
@@ -11520,8 +11017,6 @@ memo on how to prepare a kit for distribution to smokers for the Great
 
 Bandura_1e_ch05.indd 240
 
-04/11/15 9:37 AM
-
 The Corporate World 241
 
 American Smokeout held annually on the third Thursday of November
@@ -11564,8 +11059,6 @@ In addition to these health benefits, smoking brings feelings of satisfaction
 and pleasure: "people gain considerable satisfaction from smoking, satisfaction that in their eyes exceeds the expected costs" (Bennett & Di Lorenzo,
 
 Bandura_1e_ch05.indd 241
-
-04/11/15 9:37 AM
 
 242 The Corporate World
 
@@ -11612,8 +11105,6 @@ health care, child immunization—instead of wasting more Federal dollars
 
 Bandura_1e_ch05.indd 242
 
-04/11/15 9:37 AM
-
 The Corporate World 243
 
 on anti-smoking programs" (Slavitt, 1992). Bennett and Di Lorenzo, (1997)
@@ -11659,8 +11150,6 @@ This is NOT [sic] a project that should be funded by CIAR [Center
 for Indoor Air Research, an industry research group], although there
 
 Bandura_1e_ch05.indd 243
-
-04/11/15 9:37 AM
 
 244 The Corporate World
 
@@ -11709,8 +11198,6 @@ the troublesome results of commissioned research regarding cardiovascular
 
 Bandura_1e_ch05.indd 244
 
-04/11/15 9:37 AM
-
 The Corporate World 245
 
 disease: "Finch agrees submission Battelle or Griffith developments to surgeon
@@ -11756,8 +11243,6 @@ annoyance issue which can be handled by courtesy and tolerance
 It is unclear whether or not Philip Morris adopted the proposed strategy.
 
 Bandura_1e_ch05.indd 245
-
-04/11/15 9:37 AM
 
 246 The Corporate World
 
@@ -11809,8 +11294,6 @@ and nonsmokers. These were the remedies proposed in Proposition 188,
 
 Bandura_1e_ch05.indd 246
 
-04/11/15 9:37 AM
-
 The Corporate World 247
 
 (Scott, 1994), a deceptive California smoking initiative that was misleadingly titled "Californians for Statewide Smoking Restrictions" and heavily
@@ -11854,8 +11337,6 @@ Germany, objected to corporate criticisms of the landmark Hirayama study
 on the health effects of secondhand smoke (Hirayama, 1981):
 
 Bandura_1e_ch05.indd 247
-
-04/11/15 9:37 AM
 
 248 The Corporate World
 
@@ -11903,8 +11384,6 @@ American tobacco companies mount vigorous advertising campaigns abroad
 
 Bandura_1e_ch05.indd 248
 
-04/11/15 9:37 AM
-
 The Corporate World 249
 
 depicting smoking with this positive imagery. Through the power of social
@@ -11946,8 +11425,6 @@ this movement, the tobacco industry mounted campaigns to revoke local
 regulatory ordinances and to ward off new ones. Pseudograssroots organizations (dubbed "astroturfers") and business coalitions were often used as
 
 Bandura_1e_ch05.indd 249
-
-04/11/15 9:37 AM
 
 250 The Corporate World
 
@@ -11991,8 +11468,6 @@ example, Ukraine was paid to file a complaint with the World Trade Organization 
 
 Bandura_1e_ch05.indd 250
 
-04/11/15 9:37 AM
-
 The Corporate World 251
 
 The peculiarity of this exercise of proxy control is that there is virtually
@@ -12032,8 +11507,6 @@ peculiar exemption given that nicotine, which is extracted almost entirely
 from tobacco, is almost the sole ingredient in e-cigarettes. These rulings say
 
 Bandura_1e_ch05.indd 251
-
-04/11/15 9:37 AM
 
 252 The Corporate World
 
@@ -12076,8 +11549,6 @@ was actually written by an undercover astroturfer, a London lobbyist hired
 by an e-cigarette firm. The European Union eventually adopted much tighter
 
 Bandura_1e_ch05.indd 252
-
-04/11/15 9:37 AM
 
 The Corporate World 253
 
@@ -12126,8 +11597,6 @@ changes are designed to intensify the nicotine rush. In one innovation,
 
 Bandura_1e_ch05.indd 253
 
-04/11/15 9:37 AM
-
 254 The Corporate World
 
 rather than filling the e-cigarette with liquid nicotine, creative smokers are
@@ -12170,8 +11639,6 @@ Project, a national tour of bands with e-cigarette linkage. Young people are
 again being recruited as lifelong smokers in the name of freedom. Associating drug addiction with freedom is an oxymoronic linkage.
 
 Bandura_1e_ch05.indd 254
-
-04/11/15 9:37 AM
 
 The Corporate World 255
 
@@ -12220,8 +11687,6 @@ for Disease Control and Prevention (CDC) found that traditional smoking had
 
 Bandura_1e_ch05.indd 255
 
-04/11/15 9:37 AM
-
 256 The Corporate World
 
 declined, but e-cigarette smoking had tripled within a year (Tavernise, 2015b).
@@ -12263,8 +11728,6 @@ instead of lead for their gasoline additive, following a number of deadly
 accidents in lead-manufacturing plants: "Midgely told me his Company had
 
 Bandura_1e_ch05.indd 256
-
-04/11/15 9:37 AM
 
 The Corporate World 257
 
@@ -12309,8 +11772,6 @@ until the 1960s (Markowitz & Rosner, 2002). Throughout his lengthy career,
 Kehoe never publicly acknowledged that lead posed any public health risk.
 
 Bandura_1e_ch05.indd 257
-
-04/11/15 9:37 AM
 
 258 The Corporate World
 
@@ -12358,8 +11819,6 @@ had partially suppressed evidence of adverse effects through editing: "Getting w
 
 Bandura_1e_ch05.indd 258
 
-04/11/15 9:37 AM
-
 The Corporate World 259
 
 water supplies in preparation at the University of Michigan, we arranged to
@@ -12401,8 +11860,6 @@ outsourced production to countries with weak safety standards and deficient
 enforcement of those they have.
 
 Bandura_1e_ch05.indd 259
-
-04/11/15 9:37 AM
 
 260 The Corporate World
 
@@ -12455,8 +11912,6 @@ of the Manufacturing Chemists' Association, Richard Henderson suggested
 
 Bandura_1e_ch05.indd 260
 
-04/11/15 9:37 AM
-
 The Corporate World 261
 
 "the terminology for vinyl chloride as 'hazardous chemical agent,' rather
@@ -12505,8 +11960,6 @@ workers over 50 years of age to work with carcinogens." In this depersonalized v
 
 Bandura_1e_ch05.indd 261
 
-04/11/15 9:37 AM
-
 262 The Corporate World
 
 Amid these exonerative machinations, there were some acts of principled objection. Zeb G. Bell of PPG Industries argued that employees should
@@ -12549,8 +12002,6 @@ disability: "[T]he body is normally equipped with considerably more lung
 capacity than it needs" (Just, 1939). He also minimized functional impairment even in advanced stages of the disease: "Only in very advanced cases is
 
 Bandura_1e_ch05.indd 262
-
-04/11/15 9:37 AM
 
 The Corporate World 263
 
@@ -12596,8 +12047,6 @@ The silica industry also used the threshold of harm as another way of
 minimizing the health hazard of silica dust. Measurement instruments available during the 1930s were crude, resulting in dust concentration readings
 
 Bandura_1e_ch05.indd 263
-
-04/11/15 9:37 AM
 
 264 The Corporate World
 
@@ -12646,8 +12095,6 @@ in the open this could be arranged. (Weidlein, 1935)
 
 Bandura_1e_ch05.indd 264
 
-04/11/15 9:37 AM
-
 The Corporate World 265
 
 The use of respiratory masks as the first line of defense against silicosis has
@@ -12687,8 +12134,6 @@ defendant, or testimony "couched in such language as to be wholly unintelligible
 profession was bewildered by this lung disease, and testimony was unintelligible even to the court, then disputes over possible injury from chronic
 
 Bandura_1e_ch05.indd 265
-
-04/11/15 9:37 AM
 
 266 The Corporate World
 
@@ -12730,8 +12175,6 @@ Shortly after the disaster, Massey Energy, the owner of the mine,
 was bought by Alpha Natural Resources. Alpha agreed to a $210 million
 
 Bandura_1e_ch05.indd 266
-
-04/11/15 9:37 AM
 
 The Corporate World 267
 
@@ -12775,8 +12218,6 @@ lifestyles were invoked as the causes of health problems. The complexity of
 
 Bandura_1e_ch05.indd 267
 
-04/11/15 9:37 AM
-
 268 The Corporate World
 
 variables contributing to health status provides fertile ground for attributing
@@ -12801,8 +12242,6 @@ to conduct research on their behalf under a cloak of independence and credibilit
 the proxy agents.
 
 Bandura_1e_ch05.indd 268
-
-04/11/15 9:37 AM
 
 Chapter 6
 
@@ -12885,8 +12324,6 @@ of executions may not differ from those of its southern brethren. Liberally
 
 Bandura_1e_ch06.indd 270
 
-04/11/15 9:38 AM
-
 Capital Punishment 271
 
 oriented states also adopted the death penalty, mainly for electoral expediency, but practice a de facto moratorium on executions.
@@ -12925,8 +12362,6 @@ to Christian ministers who tolled bells as the time for execution neared, Reagan
 mind if you do it every time the state executes a killer" (Ashcroft, 1998).
 
 Bandura_1e_ch06.indd 271
-
-04/11/15 9:38 AM
 
 272 Capital Punishment
 
@@ -12973,8 +12408,6 @@ the American public has conflicting views regarding state executions (Gross
 & Ellsworth, 2003). Although at a lower but still majority level, the public
 
 Bandura_1e_ch06.indd 272
-
-04/11/15 9:38 AM
 
 Capital Punishment 273
 
@@ -13023,8 +12456,6 @@ restored death penalty, Governor Pataki issued a press release describing the
 
 Bandura_1e_ch06.indd 273
 
-04/11/15 9:38 AM
-
 274 Capital Punishment
 
 many benefits of the law he sponsored. He concluded, "I have every confidence that it will continue to deter murders, will continue to enhance public
@@ -13068,8 +12499,6 @@ the death penalty. Those who favor the death penalty are far removed from
 its implementation in the execution chamber. Moral disengagement can
 
 Bandura_1e_ch06.indd 274
-
-04/11/15 9:38 AM
 
 Capital Punishment 275
 
@@ -13117,8 +12546,6 @@ the adage "an eye for an eye." Immanuel Kant was the foremost proponent
 
 Bandura_1e_ch06.indd 275
 
-04/11/15 9:38 AM
-
 276 Capital Punishment
 
 of retributive justice. He argued that society has a duty to execute those guilty
@@ -13158,8 +12585,6 @@ American Catholic scholars who analyze the morality of the death penalty are div
 the death penalty as a violation of the sanctity of life. Mandatory lifetime
 
 Bandura_1e_ch06.indd 276
-
-04/11/15 9:38 AM
 
 Capital Punishment 277
 
@@ -13204,8 +12629,6 @@ the murderer metaphorically with a diseased limb threatening the body,
 which represented the common good, and the death penalty with amputation of the limb to save the body (Kaczor, 2010). Pro-life advocates of capital
 
 Bandura_1e_ch06.indd 277
-
-04/11/15 9:38 AM
 
 278 Capital Punishment
 
@@ -13252,8 +12675,6 @@ depriving a murderer of life is a deserved punishment. Citing Immanuel
 Kant, Van Den Haag contends that executing an egregious offender confirms his humanity by affirming his rationality and responsibility for his
 
 Bandura_1e_ch06.indd 278
-
-04/11/15 9:38 AM
 
 Capital Punishment 279
 
@@ -13302,12 +12723,9 @@ remains to be explained (McGuire, 2013).
 
 Bandura_1e_ch06.indd 279
 
-04/11/15 9:38 AM
-
 280 Capital Punishment
 
 Euphemistic Language and
-Advantageous Comparison
 
 A correctional record at an old Massachusetts state prison referred to the
 death penalty as "judicial homicide" (Moseley, 2014). That designation has
@@ -13347,8 +12765,6 @@ States refuse to supply the necessary drugs, and states find their supplies
 running low or depleted. Unable to conduct executions, officials searched for
 
 Bandura_1e_ch06.indd 280
-
-04/11/15 9:38 AM
 
 Capital Punishment 281
 
@@ -13399,8 +12815,6 @@ abolitionists. Armed with a DNA testing mandate, they are "saboteurs" hiding in 
 
 Bandura_1e_ch06.indd 281
 
-04/11/15 9:38 AM
-
 282 Capital Punishment
 
 of innocent people on death row who have been exonerated by DNA tests
@@ -13449,8 +12863,6 @@ play when in unfortunate cases, innocent people are executed. The first part
 
 Bandura_1e_ch06.indd 282
 
-04/11/15 9:38 AM
-
 Capital Punishment 283
 
 of the defense begins with minimizing the scope of the problem. Scheidegger
@@ -13493,8 +12905,6 @@ divine authority (St. Augustine, 2011). He explained that God temporarily
 suspends the commandment "Thou shall not kill" and permits civil authorities to carry out particular executions for a just reason. Construing the execution as performing God's bidding absolves the executioners of any sense of
 
 Bandura_1e_ch06.indd 283
-
-04/11/15 9:38 AM
 
 284 Capital Punishment
 
@@ -13542,8 +12952,6 @@ executioners of any agentic responsibility in the execution process. By placing 
 
 Bandura_1e_ch06.indd 284
 
-04/11/15 9:38 AM
-
 Capital Punishment 285
 
 themselves as agents of their actions through displacement of responsibility.
@@ -13585,8 +12993,6 @@ is complicated by the fact that a host of social factors that can affect homicid
 rates change concurrently. This makes it difficult to disentangle the independent effects of a society's death-penalty policy. Moreover, it is necessary
 
 Bandura_1e_ch06.indd 285
-
-04/11/15 9:38 AM
 
 286 Capital Punishment
 
@@ -13631,8 +13037,6 @@ executed; income and employment; and expenditures in law enforcement.
 
 Bandura_1e_ch06.indd 286
 
-04/11/15 9:38 AM
-
 Capital Punishment 287
 
 He concluded from his economic analysis that each execution spares several
@@ -13675,8 +13079,6 @@ effect on the individual dynamics of homicidal behavior. These personal
 factors reduce the restraint of self-sanctions over homicidal behavior
 
 Bandura_1e_ch06.indd 287
-
-04/11/15 9:38 AM
 
 288 Capital Punishment
 
@@ -13723,8 +13125,6 @@ they persuade themselves of the morality of their homicidal actions. Viewing
 
 Bandura_1e_ch06.indd 288
 
-04/11/15 9:38 AM
-
 Capital Punishment 289
 
 their victims as blameworthy and heinous also makes it easier to kill them.
@@ -13766,8 +13166,6 @@ participants from telephone exchanges were drawn from different regions of
 Texas. They rated their views on items representing moral disengagement.
 
 Bandura_1e_ch06.indd 289
-
-04/11/15 9:38 AM
 
 290 Capital Punishment
 
@@ -13819,7 +13217,6 @@ l
 a
 r
 o
-M
 
 0.4
 
@@ -13855,8 +13252,6 @@ Region
 characteristics. From Bandura and McAllister (2015).
 
 Bandura_1e_ch06.indd 290
-
-04/11/15 9:38 AM
 
 Capital Punishment 291
 
@@ -13902,8 +13297,6 @@ penalty phase, in which they determine the severity of punishment. Jurors
 in such trials face two vexing moral problems. The first is rendering a verdict of guilty or not guilty. The second problem—in the penalty phase of the
 
 Bandura_1e_ch06.indd 291
-
-04/11/15 9:38 AM
 
 292 Capital Punishment
 
@@ -13952,8 +13345,6 @@ phase can color how jurors view the convicted inmate during the sentencing
 
 Bandura_1e_ch06.indd 292
 
-04/11/15 9:38 AM
-
 Capital Punishment 293
 
 phase, when jurors consider aggravating factors that enhance the gravity of
@@ -14000,8 +13391,6 @@ and who should die. However, rewriting sentencing instructions in more
 
 Bandura_1e_ch06.indd 293
 
-04/11/15 9:38 AM
-
 294 Capital Punishment
 
 understandable language produced little improvement in level of comprehension (Haney, 2005). These findings indicate that the comprehension
@@ -14046,8 +13435,6 @@ prison. They call for the death penalty to ensure that dangerous criminals
 
 Bandura_1e_ch06.indd 294
 
-04/11/15 9:38 AM
-
 Capital Punishment 295
 
 remain imprisoned. As one juror put it, "The only way I can guarantee [that
@@ -14091,8 +13478,6 @@ Their record of judicial activism seems to bear this out (Editoral, 2013).
 
 Bandura_1e_ch06.indd 295
 
-04/11/15 9:38 AM
-
 296 Capital Punishment
 
 In over 90% of their decisions, judges override jury verdicts of life imprisonment in favor of death sentences. In an earlier dissent, then Supreme Court
@@ -14134,8 +13519,6 @@ the execution process by stripping them of any personhood. "He was a craftsman, 
 took pride in his job but he wasn't a callous man" (Associated Press, 1994).
 
 Bandura_1e_ch06.indd 296
-
-04/11/15 9:38 AM
 
 Capital Punishment 297
 
@@ -14184,8 +13567,6 @@ to disengage moral self-restraints.
 
 Bandura_1e_ch06.indd 297
 
-04/11/15 9:38 AM
-
 298 Capital Punishment
 
 The various forms of moral disengagement regarding executions were measured with a multifaceted scale completed anonymously by every participant.
@@ -14229,8 +13610,6 @@ construed as operational proficiency performed dutifully without vengeance:
 
 Bandura_1e_ch06.indd 298
 
-04/11/15 9:38 AM
-
 Capital Punishment 299
 
 A constellation of factors is necessary to enable a state to execute a convicted inmate. Scriptural and societal justifications provide moral support.
@@ -14271,8 +13650,6 @@ who participated in 126 executions but did not regard himself as an executioner 
 personnel regardless of whether they provided emotional supportive services or carried out the executions.
 
 Bandura_1e_ch06.indd 299
-
-04/11/15 9:38 AM
 
 300 Capital Punishment
 
@@ -14315,8 +13692,6 @@ not killers," heightens the emotional problem. Executioners try to block the
 perturbing thoughts by suppressing them. This strategy only exacerbates the
 
 Bandura_1e_ch06.indd 300
-
-04/11/15 9:38 AM
 
 Capital Punishment 301
 
@@ -14362,8 +13737,6 @@ sense of agentic responsibility in the executions. In their view, society had
 
 Bandura_1e_ch06.indd 301
 
-04/11/15 9:38 AM
-
 302 Capital Punishment
 
 t
@@ -14390,7 +13763,6 @@ m
 n
 a
 e
-M
 
 0.6
 
@@ -14446,8 +13818,6 @@ inmates. One of the support members described the struggle to counteract
 
 Bandura_1e_ch06.indd 302
 
-04/11/15 9:38 AM
-
 Capital Punishment 303
 
 t
@@ -14474,7 +13844,6 @@ m
 n
 a
 e
-M
 
 0.5
 
@@ -14537,8 +13906,6 @@ and prefer a maximum penalty of life imprisonment.
 
 Bandura_1e_ch06.indd 303
 
-04/11/15 9:38 AM
-
 304 Capital Punishment
 
 THE fUTUrE of THE DEATH PENALTY
@@ -14585,8 +13952,6 @@ Supreme Court upheld some of these statutes but struck down others, arguing that
 
 Bandura_1e_ch06.indd 304
 
-04/11/15 9:38 AM
-
 Capital Punishment 305
 
 and torture, which increase the reprehensibility of a crime, and mitigating circumstances, which reduce culpability. The nation's death rows were
@@ -14629,8 +13994,6 @@ aggravating circumstances. The law is both mandatory and discretionary.
 The Supreme Court acknowledged the contradictory nature of the statute in
 
 Bandura_1e_ch06.indd 305
-
-04/11/15 9:38 AM
 
 306 Capital Punishment
 
@@ -14680,8 +14043,6 @@ of this one. If the judgment is overturned, a lesser conviction or sentence will
 
 Bandura_1e_ch06.indd 306
 
-04/11/15 9:38 AM
-
 Capital Punishment 307
 
 This process costs millions of dollars per case. The authors ask why American
@@ -14729,8 +14090,6 @@ on the changing times regarding political opposition to the death penalty:
 
 Bandura_1e_ch06.indd 307
 
-04/11/15 9:38 AM
-
 308 Capital Punishment
 
 used to get pilloried, is a sign of the changing views on the death penalty"
@@ -14775,8 +14134,6 @@ its use and misuse, are in our hands" (Levs, Payne, & Botelho, 2014). As a
 
 Bandura_1e_ch06.indd 308
 
-04/11/15 9:38 AM
-
 Capital Punishment 309
 
 nation with the death penalty, the United States forfeits its moral authority
@@ -14792,8 +14149,6 @@ with a constitutionally permissible lethal punishment that no one wants to
 carry out any longer.
 
 Bandura_1e_ch06.indd 309
-
-04/11/15 9:38 AM
 
 Chapter 7
 
@@ -14825,8 +14180,6 @@ for assassination and can create apprehension about the social aftermath
 of such acts. However, these threats do not necessarily terrify the general
 
 Bandura_1e_ch07.indd 310
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 311
 
@@ -14870,8 +14223,6 @@ improvised weapons, terrorists can wreak destruction on a massive scale.
 
 Bandura_1e_ch07.indd 311
 
-04/11/15 9:37 AM
-
 312 Terrorism and Counterterrorism
 
 The third feature is the sense of uncontrollability that they instill. People feel
@@ -14912,8 +14263,6 @@ modes of self-defense. Later, we will see how politicians have manipulated
 Americans' fear to gain support for the war on terrorism.
 
 Bandura_1e_ch07.indd 312
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 313
 
@@ -14956,8 +14305,6 @@ For example, examination of Indonesian Islamic terrorists found them to be
 
 Bandura_1e_ch07.indd 313
 
-04/11/15 9:37 AM
-
 314 Terrorism and Counterterrorism
 
 imbued with al Qaeda's ideology and trained to fight for it, but they "were
@@ -14996,8 +14343,6 @@ faces the moral problem of having to kill innocent people. Skill in disengagemen
 suffering with equanimity (Haritos-Fatouros, 2003).
 
 Bandura_1e_ch07.indd 314
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 315
 
@@ -15041,8 +14386,6 @@ to "smash monogamy," desecrating cemeteries by tumbling gravestones,
 engaging in revolting activities such as eating tomcats, and disparaging what
 
 Bandura_1e_ch07.indd 315
-
-04/11/15 9:37 AM
 
 316 Terrorism and Counterterrorism
 
@@ -15090,8 +14433,6 @@ turning to terroristic means, as well as the related claim that under extreme
 
 Bandura_1e_ch07.indd 316
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 317
 
 power imbalance, terrorism is the only option available. A good share of terrorism involves indiscriminate retaliation rather than acts carried out in the
@@ -15135,8 +14476,6 @@ laws. A good example is the "war on terror," which has involved a great
 deal of linguistic camouflage. To begin with, the term itself is a misnomer.
 
 Bandura_1e_ch07.indd 317
-
-04/11/15 9:37 AM
 
 318 Terrorism and Counterterrorism
 
@@ -15186,8 +14525,6 @@ City and Washington, D.C. The suicidal hijackers were affiliated with and
 
 Bandura_1e_ch07.indd 318
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 319
 
 trained by al Qaeda, but its leader, Osama bin Laden, at first denied any
@@ -15236,8 +14573,6 @@ army forces and the Royal Ulster Constabulary. The British government
 
 Bandura_1e_ch07.indd 319
 
-04/11/15 9:37 AM
-
 320 Terrorism and Counterterrorism
 
 denounced "this pathetic excuse," because no scanning equipment was in
@@ -15283,8 +14618,6 @@ and can be more or less grave. They may include racial, ethnic, religious,
 
 Bandura_1e_ch07.indd 320
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 321
 
 economic, and social persecution. Governments may wield coercive and
@@ -15303,8 +14636,6 @@ the battle for social change in a war metaphor, seeing themselves as "freedom fi
 on behalf of the marginalized and maltreated (Cordes, 1987). In her analysis, Cordes notes that terrorist groups are not monolithic but have internal disputes over the justification of violence, the forms it should take, and
 whether to target the foe discriminately or indiscriminately. Sometimes they
 split over the disagreement, as in the case of the Weathermen, with one faction taking the more violent route (Sprinzak, 1990).
-
-Dehumanization
 
 Rival extremist groups on both sides of conflicts resort to inflammatory
 metaphors cast mainly in terms of bestiality and disease. This practice has
@@ -15326,8 +14657,6 @@ of animals would not descend to" (Ludlow, 2001). He labeled allied nations
 "slaves" to the United States.
 
 Bandura_1e_ch07.indd 321
-
-04/11/15 9:37 AM
 
 322 Terrorism and Counterterrorism
 
@@ -15371,8 +14700,6 @@ his resolve to continue criticism of radical Islam. "There is no question of
 giving in to Islamists (if [they are] behind the bombing)" (Samuel, 2011).
 
 Bandura_1e_ch07.indd 322
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 323
 
@@ -15421,8 +14748,6 @@ safety again" (Black, 2015).
 
 Bandura_1e_ch07.indd 323
 
-04/11/15 9:37 AM
-
 324 Terrorism and Counterterrorism
 
 The few surviving members of the newspaper staff published the next
@@ -15466,8 +14791,6 @@ Terpil masked his destructive operations in euphemisms suggesting a legitimate b
 atrocities, he actively avoided knowing the purposes to which his weapons
 
 Bandura_1e_ch07.indd 324
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 325
 
@@ -15514,8 +14837,6 @@ Terpil skipped bail and fled to a foreign sanctuary after he was caught trying t
 
 Bandura_1e_ch07.indd 325
 
-04/11/15 9:37 AM
-
 326 Terrorism and Counterterrorism
 
 convicted in absentia. The district attorney confronted Mike Wallace, the
@@ -15556,8 +14877,6 @@ of political impotence, impoverished living conditions, exploitation of labor
 and natural resources, and the destruction of the Celtic culture by repressive British rule. Their enmity, transmitted through many generations, has
 
 Bandura_1e_ch07.indd 326
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 327
 
@@ -15609,8 +14928,6 @@ over three decades. Sarma (2007) provides an insightful analysis of how
 
 Bandura_1e_ch07.indd 327
 
-04/11/15 9:37 AM
-
 328 Terrorism and Counterterrorism
 
 members exploited the methods of moral disengagement in a media campaign to persuade people to suspend moral reactions to behavior they would
@@ -15652,8 +14969,6 @@ Perpetrators of sacred terror believe that they are on a divine mission to
 do God's bidding. Examples of how they sanctify violent means for religious ends were presented in chapter 2. Pope Urban II declared that Christ
 
 Bandura_1e_ch07.indd 328
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 329
 
@@ -15702,8 +15017,6 @@ oppressed people to resort to unconventional methods of self-protection.
 
 Bandura_1e_ch07.indd 329
 
-04/11/15 9:37 AM
-
 330 Terrorism and Counterterrorism
 
 Until his death, Ayatollah Muhammad Hussein Fadlallah, a senior Shiite
@@ -15746,8 +15059,6 @@ Because of the shaky moral logic and questionable reinterpretations,
 clerics sanction terrorism indirectly and vindicate successful ventures
 
 Bandura_1e_ch07.indd 330
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 331
 
@@ -15792,8 +15103,6 @@ of the sect perished in the flames of their Waco, Texas compound.
 
 Bandura_1e_ch07.indd 331
 
-04/11/15 9:37 AM
-
 332 Terrorism and Counterterrorism
 
 Another route to domestic radicalization is through Islamic extremism.
@@ -15836,8 +15145,6 @@ Unconventional modes of terrorism are also used to alarm the populace. Poisoning
 
 Bandura_1e_ch07.indd 332
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 333
 
 Arab Revolutionary Army sent letters to European and Middle Eastern health
@@ -15879,8 +15186,6 @@ More and more, terrorists use electronic media to legitimize and gain
 support for their causes and to discredit those of their foes. For example,
 
 Bandura_1e_ch07.indd 333
-
-04/11/15 9:37 AM
 
 334 Terrorism and Counterterrorism
 
@@ -15930,8 +15235,6 @@ brothers and sisters coming from the West to consider attacking America
 
 Bandura_1e_ch07.indd 334
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 335
 
 in its own backyard," was a typical exhortation. He went on to explain the
@@ -15979,8 +15282,6 @@ rules include necessity, justness of the cause, rightness of intention, proporti
 
 Bandura_1e_ch07.indd 335
 
-04/11/15 9:37 AM
-
 336 Terrorism and Counterterrorism
 
 justification for the use of military force. Others address moral justification
@@ -16022,8 +15323,6 @@ At the geopolitical level, nations increase their vulnerability to terrorism by
 making foreign marriages of convenience to prop up oppressive regimes, as in
 
 Bandura_1e_ch07.indd 336
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 337
 
@@ -16068,8 +15367,6 @@ nationwide study on selective disengagement of moral agency in support of
 lethal military force (McAlister, Bandura, & Owen, 2006). The nationwide
 
 Bandura_1e_ch07.indd 337
-
-04/11/15 9:37 AM
 
 338 Terrorism and Counterterrorism
 
@@ -16127,7 +15424,6 @@ l
 
 a
 e
-M
 
 0.7
 
@@ -16154,8 +15450,6 @@ MJ
 
 DH
 
-MC
-
 NR
 
 .1 Mean level of moral disengagement before and after the September 11 terrorist
@@ -16164,8 +15458,6 @@ NR = nonresponsibility. From McAlister, Bandura, and Owen (2006), with permissio
 Guilford Press.
 
 Bandura_1e_ch07.indd 338
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 339
 
@@ -16208,8 +15500,6 @@ consequences
 
 Nonresponsibility
 
-Dehumanization
-
 .25
 
 .29
@@ -16224,8 +15514,6 @@ support of the use of military force. From McAlister, Bandura, and Owen (2006), 
 Guilford Press.
 
 Bandura_1e_ch07.indd 339
-
-04/11/15 9:37 AM
 
 340 Terrorism and Counterterrorism
 
@@ -16269,8 +15557,6 @@ moral standards for a justifiable war, a nation has to invest its military campa
 
 Bandura_1e_ch07.indd 340
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 341
 
 citizens that intervention will prevent more harm than it causes. Knowing
@@ -16309,8 +15595,6 @@ The justification for going to war with Iraq took varied forms. The initial
 justification was that Saddam Hussein had stockpiled biological and chemical weapons of mass destruction (WMD) and was building a nuclear bomb.
 
 Bandura_1e_ch07.indd 341
-
-04/11/15 9:37 AM
 
 342 Terrorism and Counterterrorism
 
@@ -16357,8 +15641,6 @@ was taken out of context and posted the complete transcript of the interview
 
 Bandura_1e_ch07.indd 342
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 343
 
 online; Wolfowitz, 2003; Deputy Secretary Wolfowitz interview, 2003.) With
@@ -16401,8 +15683,6 @@ the invasion of Iraq (Risen, 2003; Tyler, 2004).
 
 Bandura_1e_ch07.indd 343
 
-04/11/15 9:37 AM
-
 344 Terrorism and Counterterrorism
 
 Groupthink theory focuses heavily on the psychological processes that
@@ -16441,8 +15721,6 @@ this was an uncharacteristically clear, unequivocally bold statement. Were
 it not for oil, this region would have little that is vital to U.S. interests.
 
 Bandura_1e_ch07.indd 344
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 345
 
@@ -16484,15 +15762,11 @@ presumed dead, resurfaced on Al Jazeera to praise recent terrorist attacks,
 trumpet the evil intentions of the infidels poised to invade, and call "true
 Muslims" worldwide to action against the enemy (Whitaker, 2003).
 
-Advantageous Comparison
-
 The rightness of going to war with Iraq was further boosted with various
 advantageous comparisons. Gilovich (1981) demonstrated the importance
 of how military operations are framed when enlisting support for military
 
 Bandura_1e_ch07.indd 345
-
-04/11/15 9:37 AM
 
 346 Terrorism and Counterterrorism
 
@@ -16538,8 +15812,6 @@ about the program to the press (Greenwald, MacAskill, & Poitras, 2013).
 
 Bandura_1e_ch07.indd 346
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 347
 
 Law-abiding citizens were taken aback to find themselves in the secret
@@ -16583,8 +15855,6 @@ One must distinguish between justification of self-defense by military
 means and justification of the military means used in that self-defense.
 
 Bandura_1e_ch07.indd 347
-
-04/11/15 9:37 AM
 
 348 Terrorism and Counterterrorism
 
@@ -16633,8 +15903,6 @@ for the times (Packer, 2002). Overthrowing the autocratic regime in Bosnia
 
 Bandura_1e_ch07.indd 348
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 349
 
 with a finite military operation did not incite a worldwide Serbian network
@@ -16675,8 +15943,6 @@ had obstructed arms inspections but also was producing chemical and biological w
 international threat. The utilitarian justification presented stark alternatives:
 
 Bandura_1e_ch07.indd 349
-
-04/11/15 9:37 AM
 
 350 Terrorism and Counterterrorism
 
@@ -16720,8 +15986,6 @@ reconstruction. The U.S. administration countered these sobering predictions
 
 Bandura_1e_ch07.indd 350
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 351
 
 with a more optimistic consequential scenario: (1) Saddam rules through
@@ -16761,8 +16025,6 @@ by private companies as security guards and armed escorts were called "mercenari
 employment was called "greenbacking" (What is a euphemism? n.d.).
 
 Bandura_1e_ch07.indd 351
-
-04/11/15 9:37 AM
 
 352 Terrorism and Counterterrorism
 
@@ -16805,8 +16067,6 @@ an ethics code that placed no additional constraints on the DoD interrogation
 practices. In a weekend meeting, one of the few nonmilitary psychologists
 
 Bandura_1e_ch07.indd 352
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 353
 
@@ -16851,8 +16111,6 @@ Mitchell and Jessen were named as contractors for the interrogation program (Sen
 
 Bandura_1e_ch07.indd 353
 
-04/11/15 9:37 AM
-
 354 Terrorism and Counterterrorism
 
 outrage to the graphic images of prisoner abuse at Abu Ghraib served as the
@@ -16894,8 +16152,6 @@ unintentionally and unknowingly. Freed from having to speak for the APA,
 Nadine Kaslow led the fight for a stringent code of ethics (Risen, 2015b).
 
 Bandura_1e_ch07.indd 354
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 355
 
@@ -16941,8 +16197,6 @@ behavior, unambiguousness about the authorizers, and sanctions for violating rul
 
 Bandura_1e_ch07.indd 355
 
-04/11/15 9:37 AM
-
 356 Terrorism and Counterterrorism
 
 breaking any rules. In the aftermath of the September 11 attacks, conflicts
@@ -16976,8 +16230,6 @@ Attorney General John Ashcroft, who later rescinded them (Associated
 Press, 2008). In testimony at a congressional hearing, Ashcroft refused to
 
 Bandura_1e_ch07.indd 356
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 357
 
@@ -17026,8 +16278,6 @@ actions taken by a few individuals" (White & Higham, 2004).
 
 Bandura_1e_ch07.indd 357
 
-04/11/15 9:37 AM
-
 358 Terrorism and Counterterrorism
 
 In his review of Mark Danner's book Torture and Truth and The Abu Ghraib
@@ -17074,8 +16324,6 @@ center for al Qaeda, was downgraded by the diversionary war with Iraq.
 
 Bandura_1e_ch07.indd 358
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 359
 
 The Afghan feuding warlords regained control over their fiefdoms. Some
@@ -17083,8 +16331,6 @@ resumed the lucrative international heroin trade, and others even restored
 the medieval tyranny, especially toward women, that was the Taliban so brutally practiced. Generous payments to the warlords, allies of convenience, to
 fight the war and to hunt al Qaeda and its Taliban patrons nourished a state
 of anarchy.
-
-Dehumanization
 
 Most of the analysis of dehumanization in military contexts focuses on each
 side's need to portray its enemies as subhuman and bestial creatures to make
@@ -17117,8 +16363,6 @@ used bestial dehumanization when he characterized Americans as "lowly
 people" committing acts that "the most ravenous of animals would not
 
 Bandura_1e_ch07.indd 359
-
-04/11/15 9:37 AM
 
 360 Terrorism and Counterterrorism
 
@@ -17163,8 +16407,6 @@ with explosives in laptops and toothpaste undetectable by existing security
 
 Bandura_1e_ch07.indd 360
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 361
 
 systems (Baker, 2014). After his death in an airstrike, another terrorist cell
@@ -17203,8 +16445,6 @@ presence would never have been needed had the Shiite majority there not
 "squandered an opportunity" to share power with Sunnis and Kurds. "Had
 
 Bandura_1e_ch07.indd 361
-
-04/11/15 9:37 AM
 
 362 Terrorism and Counterterrorism
 
@@ -17247,8 +16487,6 @@ Drawing on the Crusader justification, ISIS portray their military mission as th
 caliphate in the Arabian Peninsula. Muslim scholars have vigorously disputed the group's claim that sexual enslavement of infidel women is justified
 
 Bandura_1e_ch07.indd 362
-
-04/11/15 9:37 AM
 
 Terrorism and Counterterrorism 363
 
@@ -17298,8 +16536,6 @@ was suspended. Glorification of the child-committed atrocities was exploited
 
 Bandura_1e_ch07.indd 363
 
-04/11/15 9:37 AM
-
 364 Terrorism and Counterterrorism
 
 on social media as a recruitment device and to frighten people from resisting
@@ -17345,8 +16581,6 @@ the aerial campaign to spare civilians also did not leave much to bomb. Neither 
 
 Bandura_1e_ch07.indd 364
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 365
 
 attack ISIS forces in Syria. Aircraft missions therefore had to fly from aircraft
@@ -17388,8 +16622,6 @@ on congressional approval for the Iraq war. He also argued that Congress
 granted presidents broad authority to take military action against al Qaeda
 
 Bandura_1e_ch07.indd 365
-
-04/11/15 9:37 AM
 
 366 Terrorism and Counterterrorism
 
@@ -17437,8 +16669,6 @@ by lack of experienced military forces to fight the enemy on the ground.
 
 Bandura_1e_ch07.indd 366
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 367
 
 The United States has focused on its military campaign against ISIS but
@@ -17483,8 +16713,6 @@ might eventually end up in the hands of ISIS. In the debate on whether
 to arm the Syrian rebels, the CIA questioned the wisdom of doing so. The
 
 Bandura_1e_ch07.indd 367
-
-04/11/15 9:37 AM
 
 368 Terrorism and Counterterrorism
 
@@ -17531,8 +16759,6 @@ soldiers are on the ground as advisors. There has been some "mission creep,"
 
 Bandura_1e_ch07.indd 368
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 369
 
 with more advisers being deployed. Were any of them to be captured, helicopters would be used in rescue missions, with high risk of deepening the
@@ -17575,8 +16801,6 @@ allied forces in the battle against ISIS.
 
 Bandura_1e_ch07.indd 369
 
-04/11/15 9:37 AM
-
 370 Terrorism and Counterterrorism
 
 With this political realignment the allies could use nearby bases in Turkey to launch their aerial campaign. By closing major supply lines and the
@@ -17618,8 +16842,6 @@ and Sunni factions, which dislike and distrust each other.
 
 Bandura_1e_ch07.indd 370
 
-04/11/15 9:37 AM
-
 Terrorism and Counterterrorism 371
 
 If terrorism is to be defeated worldwide, societies must address the life
@@ -17649,8 +16871,6 @@ how to integrate the benefits of modernization with humanistic principles
 that uphold human rights, equality, and dignity.
 
 Bandura_1e_ch07.indd 371
-
-04/11/15 9:37 AM
 
 Chapter 8
 
@@ -17726,8 +16946,6 @@ Genesis 1:28, for example, the Lord commands prolific reproduction and
 
 Bandura_1e_ch08.indd 373
 
-04/11/15 9:36 AM
-
 374 Environmental Sustainability
 
 unmerciful domination of nature and its varied species: "Be fruitful, and
@@ -17768,8 +16986,6 @@ a deeply spiritual worldview that environmental and biological diversity are
 God's creations and as such must be protected.
 
 Bandura_1e_ch08.indd 374
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 375
 
@@ -17813,8 +17029,6 @@ to a conservative ethic, however. It comes in all types of ideological forms.
 The locus of influence, which is becoming increasingly megacorporate and
 
 Bandura_1e_ch08.indd 375
-
-04/11/15 9:36 AM
 
 376 Environmental Sustainability
 
@@ -17862,8 +17076,6 @@ host of developing countries with increasing economic means to adopt highconsump
 
 Bandura_1e_ch08.indd 376
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 377
 
 natural resources. Some of them wield powerful technologies that have a
@@ -17907,8 +17119,6 @@ trees, but the logging will bring jobs and modernize their lives. As he put it,
 mangrove forests in this region have already been converted to cropland.
 
 Bandura_1e_ch08.indd 377
-
-04/11/15 9:36 AM
 
 378 Environmental Sustainability
 
@@ -17958,8 +17168,6 @@ over development policies that affect property and other rights. However,
 
 Bandura_1e_ch08.indd 378
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 379
 
 support for local developments that improve the quality of community life
@@ -18006,8 +17214,6 @@ is needed to succeed. To ensure their political survival, politicians cater to
 
 Bandura_1e_ch08.indd 379
 
-04/11/15 9:36 AM
-
 380 Environmental Sustainability
 
 parochial interest and lobby for local projects that are not always environmentally friendly. The media tend to focus on crises of the day rather
@@ -18047,8 +17253,6 @@ the soaring global population is critical for an environmentally sustainable
 future. To reduce continued destruction of the planet both problems of overpopulation and unsustainable consumption must be addressed.
 
 Bandura_1e_ch08.indd 380
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 381
 
@@ -18095,8 +17299,6 @@ whereas population growth is soaring in developing countries, which have
 high rates of unplanned childbearing. Among the developing countries,
 
 Bandura_1e_ch08.indd 381
-
-04/11/15 9:36 AM
 
 382 Environmental Sustainability
 
@@ -18201,8 +17403,6 @@ Population Reference Bureau.
 
 Bandura_1e_ch08.indd 382
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 383
 
 Reports of falling fertility rates, at least in developed countries (see
@@ -18244,8 +17444,6 @@ borders (Brown, 2007).
 
 Bandura_1e_ch08.indd 383
 
-04/11/15 9:36 AM
-
 384 Environmental Sustainability
 
 Compare the claim that the population bomb has fizzled with actual
@@ -18281,8 +17479,6 @@ Most of this increase stems from immigration (Wang, 2013). After a grueling inte
 of its racial implications, the Sierra Club, a leading environmental group,
 
 Bandura_1e_ch08.indd 384
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 385
 
@@ -18327,8 +17523,6 @@ the European Union, India, the Russian Federation, Japan, and Canada. All
 other regions combined account for about 28% (U.S. Environmental Protection Agency, 2008). Targeting poor countries that suffer ecological harm
 
 Bandura_1e_ch08.indd 385
-
-04/11/15 9:36 AM
 
 386 Environmental Sustainability
 
@@ -18375,8 +17569,6 @@ nationhood (Catholics for Choice, 2012). The UN requirement for consensus on res
 that resolutions take. At UN conferences on environmental sustainability,
 
 Bandura_1e_ch08.indd 386
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 387
 
@@ -18426,8 +17618,6 @@ global warming is a moral issue that should be part of their agenda (Goodstein,
 
 Bandura_1e_ch08.indd 387
 
-04/11/15 9:36 AM
-
 388 Environmental Sustainability
 
 followers, had declared that humans are stewards of God's creation and thus
@@ -18467,8 +17657,6 @@ it. Slowing population growth and family planning became branded "coercive contr
 family planning from foreign agencies were slashed. Talk of human rights
 
 Bandura_1e_ch08.indd 388
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 389
 
@@ -18513,8 +17701,6 @@ who held several positions at the U.S. Fish and Wildlife Service, published her
 ground-breaking book Silent Spring. This volume, written in a graceful, readable style, provided a rich synthesis of evidence on the environmental and
 
 Bandura_1e_ch08.indd 389
-
-04/11/15 9:36 AM
 
 390 Environmental Sustainability
 
@@ -18563,8 +17749,6 @@ the evidence upheld Carson's scientific credibility. Silent Spring became the
 
 Bandura_1e_ch08.indd 390
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 391
 
 inspiration for important initiatives in the environmental movement. Laws
@@ -18606,8 +17790,6 @@ The preceding section addressed many of the key issues concerning degradation of
 anything, to do about it. Current generations are engaging in environmentally degrading practices that will make life worse for future generations.
 
 Bandura_1e_ch08.indd 391
-
-04/11/15 9:36 AM
 
 392 Environmental Sustainability
 
@@ -18652,8 +17834,6 @@ professionals and government workers at age 60. Women are required to
 
 Bandura_1e_ch08.indd 392
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 393
 
 retire even earlier (French, 2007). Allowing capable people who are good
@@ -18696,8 +17876,6 @@ However, countries also seek the educated and skilled from abroad and use
 migrants from disadvantaged countries to do menial jobs cheaply that homegrown workers won't do. Families in developed countries who are paid to
 
 Bandura_1e_ch08.indd 393
-
-04/11/15 9:36 AM
 
 394 Environmental Sustainability
 
@@ -18743,8 +17921,6 @@ needed to support an aging population. This remedy may provide some
 
 Bandura_1e_ch08.indd 394
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 395
 
 short-term benefits but at the cost of worsening the economic and environmental problems in the long term. Enlarging a young cohort creates a new
@@ -18788,8 +17964,6 @@ curbing accelerating ecological destruction. Moreover, its benefits are immediat
 
 Bandura_1e_ch08.indd 395
 
-04/11/15 9:36 AM
-
 396 Environmental Sustainability
 
 and vulnerable to the vagaries of competing influences, may have unintended adverse consequences, and usually involves long time lags before
@@ -18823,8 +17997,6 @@ which those activities depend. Such practices are likely to take a heavier toll
 on the environment if the transnational forces adhere to an ethic of unbridled economic self-interest aimed at maximizing profits with little regard for
 the ecological costs they incur.
 
-Advantageous Comparison
-
 How lifestyle and industrial practices are viewed is colored by what they
 are compared against. Through exploitation of the contrast principle, proponents can make detrimental practices seem righteous. If used skillfully,
 framing the issue by advantageous comparison can make the lesser of two
@@ -18832,8 +18004,6 @@ evils not only socially acceptable but even morally right. In the battle over
 pesticides, Edwin Diamond (1963) made extensive use of advantageous
 
 Bandura_1e_ch08.indd 396
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 397
 
@@ -18876,8 +18046,6 @@ Through comparative exoneration, the contending parties freed themselves
 of restraint over their polluting practices and felt righteous about it.
 
 Bandura_1e_ch08.indd 397
-
-04/11/15 9:36 AM
 
 398 Environmental Sustainability
 
@@ -18924,8 +18092,6 @@ regarded as fringe players in energy generation. In a surprising development
 
 Bandura_1e_ch08.indd 398
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 399
 
 reviewed later in this chapter, rooftop solar is on the rise. Prices are plummeting to the point where solar energy is becoming competitive with fossil fuels.
@@ -18966,8 +18132,6 @@ reduced by cloaking harmful activities in sanitized, convoluted, and innocuous
 language. Doublespeak renders them benign and socially acceptable (Lutz,
 
 Bandura_1e_ch08.indd 399
-
-04/11/15 9:36 AM
 
 400 Environmental Sustainability
 
@@ -19016,8 +18180,6 @@ suggestive of an animal feed processing plant. Its radioactive waste contaminate
 
 Bandura_1e_ch08.indd 400
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 401
 
 Officials at Tokyo Electric Power announced that "a big sound and white
@@ -19062,8 +18224,6 @@ deposited in the atmosphere, it remains there as a heat-trapping agent for
 thousands of years. The public is energized to collective action by aversive
 
 Bandura_1e_ch08.indd 401
-
-04/11/15 9:36 AM
 
 402 Environmental Sustainability
 
@@ -19111,8 +18271,6 @@ blame the government for the residential zoning was not credible, because
 
 Bandura_1e_ch08.indd 402
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 403
 
 some of the worst affected communities were in existence before the factory was built in their midst, near the train station for convenient shipping.
@@ -19156,8 +18314,6 @@ endangered species law. A host of polluters joined forces under the benevolently
 estate and gas and oil companies formed the National Wetlands Coalition,
 
 Bandura_1e_ch08.indd 403
-
-04/11/15 9:36 AM
 
 404 Environmental Sustainability
 
@@ -19203,8 +18359,6 @@ reflect the natural historical cycle of colder or warmer phases or that earth
 just happens to be in a hot phase. They claim that we must evaluate global
 
 Bandura_1e_ch08.indd 404
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 405
 
@@ -19256,8 +18410,6 @@ The evidence available at the time of the 2007 IPCC report probably underestimat
 
 Bandura_1e_ch08.indd 405
 
-04/11/15 9:36 AM
-
 406 Environmental Sustainability
 
 of greenhouse gases from the thawing permafrost. There is every reason to
@@ -19301,8 +18453,6 @@ human activity is driving up the earth's temperature (Gillis, 2010).
 
 Bandura_1e_ch08.indd 406
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 407
 
 The science historian Spencer Weart, formerly at the American Institute
@@ -19345,8 +18495,6 @@ intended to reduce emissions from power plants 32% nationwide by 2030
 Mitch McConnell, the Senate majority leader, wrote to all 50 state governors, calling on them not to comply with it (Malloy & Serfaty, 2015). Fifteen
 
 Bandura_1e_ch08.indd 407
-
-04/11/15 9:36 AM
 
 408 Environmental Sustainability
 
@@ -19392,8 +18540,6 @@ carbon market based on the cap-and-trade system. In this market incentive
 
 Bandura_1e_ch08.indd 408
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 409
 
 approach, manufacturers and utilities can purchase carbon emissions credits from more environmentally efficient industries that sell their unused
@@ -19434,8 +18580,6 @@ and it is highly flexible in implementation (Nordhaus, 2009). Whether an
 outright carbon tax can ever be enacted into law is another matter. The
 
 Bandura_1e_ch08.indd 409
-
-04/11/15 9:36 AM
 
 410 Environmental Sustainability
 
@@ -19482,8 +18626,6 @@ on this matter. When informed of the overwhelming scientific consensus
 
 Bandura_1e_ch08.indd 410
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 411
 
 become more accepting that the climate is getting warmer and that humans
@@ -19528,8 +18670,6 @@ one or more of them is absent, the event would not occur. Global warming
 
 Bandura_1e_ch08.indd 411
 
-04/11/15 9:36 AM
-
 412 Environmental Sustainability
 
 operates in intricate interaction with other factors that influence the severity
@@ -19572,8 +18712,6 @@ Dehumanization and Disparagement
 Repudiation of the messengers of unwelcome ecological news takes a variety of forms. Antienvironmentalists portray them as mentally unstable, acting on suspect motives masquerading as environmental protection, doing
 
 Bandura_1e_ch08.indd 412
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 413
 
@@ -19618,8 +18756,6 @@ feed growing populations has already obliterated some fish species and has
 decreased the numbers of others. Undoubtedly other crises are in the making through the extinction of other species lower in the food chain. People
 
 Bandura_1e_ch08.indd 413
-
-04/11/15 9:36 AM
 
 414 Environmental Sustainability
 
@@ -19672,8 +18808,6 @@ invested billions of dollars in ethanol and other biofuels as a partial solution
 
 Bandura_1e_ch08.indd 414
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 415
 
 to the heavy dependence on fossil fuels. However, the government-subsidized
@@ -19718,8 +18852,6 @@ Crichton debunks global warming by portraying environmentalists as ecoterrorists
 personal view, likening the zeal of environmentalists to that of the eugenicists of the Nazi regime.
 
 Bandura_1e_ch08.indd 415
-
-04/11/15 9:36 AM
 
 416 Environmental Sustainability
 
@@ -19766,8 +18898,6 @@ thinking and behavior evolve at a believable pace, inspiring and enabling
 viewers to improve their own lives. The flexibility of this format allows
 
 Bandura_1e_ch08.indd 416
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 417
 
@@ -19817,8 +18947,6 @@ The second component is a translational and implemental model. It converts
 
 Bandura_1e_ch08.indd 417
 
-04/11/15 9:36 AM
-
 418 Environmental Sustainability
 
 theoretical principles into an innovative operational model. It specifies the
@@ -19863,8 +18991,6 @@ modeling, enhancement of personal and collective efficacy, vicarious motivation,
 
 Bandura_1e_ch08.indd 418
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 419
 
 Social Modeling
@@ -19907,8 +19033,6 @@ through social modeling of prototypical problem situations and effective
 ways of overcoming them. They also teach people how to manage setbacks
 
 Bandura_1e_ch08.indd 419
-
-04/11/15 9:36 AM
 
 420 Environmental Sustainability
 
@@ -19957,8 +19081,6 @@ sent letters supporting, advising, or criticizing the various models in the
 
 Bandura_1e_ch08.indd 420
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 421
 
 drama. After a serial in Tanzania, women spotted a negative model at a market and drove him out under a rain of tomatoes and mangoes. In Brazil,
@@ -20002,8 +19124,6 @@ opportunities into desired futures requires perseverant effort and mastery
 
 Bandura_1e_ch08.indd 421
 
-04/11/15 9:36 AM
-
 422 Environmental Sustainability
 
 of difficulties along the way. The process of personal and social change is
@@ -20046,8 +19166,6 @@ As people develop a sense of efficacy and competencies that enable them
 to exercise better control over their lives, they can become models, motivators, and even tutors for others in the circles in which they travel. Such exponential second-order influences can amplify the direct impact of televised
 
 Bandura_1e_ch08.indd 422
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 423
 
@@ -20113,11 +19231,9 @@ year
 
 During
 broadcast
-year
 
 Post
 broadcast
-year
 
 .3  Enrollments in the national literacy program in the year prior to, during, and following the televised serial drama drawn from data in Sabido (Institute for Communication, 1981). With kind permission
 from Springer Science+Business Media.
@@ -20143,8 +19259,6 @@ liberty and dignity. Women's social and economic development requires
 eliminating cultural barriers to their education.
 
 Bandura_1e_ch08.indd 423
-
-04/11/15 9:36 AM
 
 424 Environmental Sustainability
 
@@ -20193,8 +19307,6 @@ how to pass the family farm to the next generation. At the time the series
 was broadcast, only sons could inherit property. The monogamous brother
 
 Bandura_1e_ch08.indd 424
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 425
 
@@ -20249,14 +19361,11 @@ i
 0%
 
 Prebroadcast
-year
 
 During
 broadcast
-year
 
 Postbroadcast
-year
 
 .4  National sales of contraceptives in the two years preceding the serial drama promoting
 family planning and during the year it was broadcast. Drawn from data in Sabido (Institute for
@@ -20282,8 +19391,6 @@ a host of socioeconomic factors such as ethnicity, religion, education, occupati
 contributor to adoption of contraception after applying the multiple statistical
 
 Bandura_1e_ch08.indd 425
-
-04/11/15 9:36 AM
 
 426 Environmental Sustainability
 
@@ -20342,8 +19449,6 @@ decreased the desired number of children, increased the ideal age of marriage fo
 
 Bandura_1e_ch08.indd 426
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 427
 
 spousal communication about family size, and increased use of familyplanning services and adoption of contraceptive methods (Rogers et al., 1999).
@@ -20399,7 +19504,6 @@ n
 n
 a
 e
-M
 
 i
 
@@ -20434,8 +19538,6 @@ line are the adoption levels when the serial was aired in 
 control region. Drawn from data in Rogers et al. (1999).
 
 Bandura_1e_ch08.indd 427
-
-04/11/15 9:36 AM
 
 428 Environmental Sustainability
 
@@ -20527,8 +19629,6 @@ into account other possible influences.
 
 Bandura_1e_ch08.indd 428
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 429
 
 Serial dramas promote a variety of environmental conservation practices
@@ -20575,8 +19675,6 @@ It is easier to achieve educational development in egalitarian societies that
 have expanded human rights to include equal-gender educational rights.
 
 Bandura_1e_ch08.indd 429
-
-04/11/15 9:36 AM
 
 430 Environmental Sustainability
 
@@ -20625,8 +19723,6 @@ of competing influences, and may have unintended adverse consequences.
 
 Bandura_1e_ch08.indd 430
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 431
 
 The correlation between education and fertility does not mean that families with little or no education cannot be helped to make informed decisions about the number and spacing of children. Serial dramas enable such
@@ -20672,8 +19768,6 @@ that affect them and of planning for small families (Brown & Cody, 1991;
 Rogers et al., 1999).
 
 Bandura_1e_ch08.indd 431
-
-04/11/15 9:36 AM
 
 432 Environmental Sustainability
 
@@ -20722,8 +19816,6 @@ behavior, and the more likely they are to adopt contraceptive methods.
 
 Bandura_1e_ch08.indd 432
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 433
 
 Addressing Overconsumption Early
@@ -20769,8 +19861,6 @@ disadvantage (Greenstone & Looney, 2012). An underpriced but polluting
 
 Bandura_1e_ch08.indd 433
 
-04/11/15 9:36 AM
-
 434 Environmental Sustainability
 
 competitor impedes transition to a clean energy economy. If we monetize
@@ -20813,8 +19903,6 @@ consumption. The depletion of nonrenewable resources has been a cause for
 great concern. However, this problem applies to many renewable resources
 
 Bandura_1e_ch08.indd 434
-
-04/11/15 9:36 AM
 
 Environmental Sustainability 435
 
@@ -20862,8 +19950,6 @@ for demanding that other nations cut their fossil fuel emissions while refusing,
 
 Bandura_1e_ch08.indd 435
 
-04/11/15 9:36 AM
-
 436 Environmental Sustainability
 
 The three top polluters—China, the United States, and India—are impediments in any path to environmental salvation. To avert further harm to the
@@ -20910,8 +19996,6 @@ at the cost of a less livable environment and a heavy toll on public health.
 
 Bandura_1e_ch08.indd 436
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 437
 
 If successful, China's declaration of "war on pollution" could become a
@@ -20949,8 +20033,6 @@ Programs designed to control global warming have a better chance of succeeding i
 The main emitters and activities that spew greenhouse gases into the
 
 Bandura_1e_ch08.indd 437
-
-04/11/15 9:36 AM
 
 438 Environmental Sustainability
 
@@ -20999,8 +20081,6 @@ exonerations that strip morality from environmentally destructive practices.
 
 Bandura_1e_ch08.indd 438
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 439
 
 In collaboration with local governments worldwide, ICLEI—Local Governments for Sustainability USA (ICLEI-USA) developed a standardized
@@ -21045,8 +20125,6 @@ case in point. Glacial and ice sheet melting caused by global warming is
 raising sea levels. By measuring land elevation one can pinpoint low-lying
 
 Bandura_1e_ch08.indd 439
-
-04/11/15 9:36 AM
 
 440 Environmental Sustainability
 
@@ -21095,8 +20173,6 @@ which are becoming economically competitive with fossil fuels, are filling a
 
 Bandura_1e_ch08.indd 440
 
-04/11/15 9:36 AM
-
 Environmental Sustainability 441
 
 sizable share of the social demand for energy. Even Al Gore, who was dubbed
@@ -21139,8 +20215,6 @@ reduce population growth than to persuade people to consume less.
 
 Bandura_1e_ch08.indd 441
 
-04/11/15 9:36 AM
-
 442 Environmental Sustainability
 
 The success of societies is being judged, in large part, by overall output
@@ -21182,8 +20256,6 @@ individual behavior affect the well-being of others worldwide, lifestyle practic
 for future generations, we must restore moral self-sanctions for environmentally destructive practices.
 
 Bandura_1e_ch08.indd 442
-
-04/11/15 9:36 AM
 
 EPILOGUE
 
@@ -21528,8 +20600,6 @@ The New York Times, p. A8.
 
 Bandura_1e_Ref.indd 2
 
-04/11/15 9:26 AM
-
 References R-3
 
 Baker, P. (2012, December 30). Biden is back for a 2nd run at gun limits. The New
@@ -21619,8 +20689,6 @@ New York: Plenum.
 
 Bandura_1e_Ref.indd 3
 
-04/11/15 9:26 AM
-
 R-4 References
 
 Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Freeman.
@@ -21702,8 +20770,6 @@ Bandura, A., Ross, D., & Ross, S. A. (1963). Imitation of film-mediated aggressi
 models. Journal of Abnormal and Social Psychology, 66, 3–11.
 
 Bandura_1e_Ref.indd 4
-
-04/11/15 9:26 AM
 
 References R-5
 
@@ -21788,8 +20854,6 @@ Health Standards. 35890–35898.
 
 Bandura_1e_Ref.indd 5
 
-04/11/15 9:26 AM
-
 R-6 References
 
 Bell, Z. G. (1976, April 15). [Memo to F. C. Ludden]. Retrieved from
@@ -21848,7 +20912,6 @@ http://www.washingtonpost.com
 Berman, M. (2014b, April 29). Inmate dies following botched Oklahoma execution,
 
 second execution delayed. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Bernard, V., Ottenberg, P., & Redl, F. (1965). Dehumanization: A composite
 psychological defense in relation to modern war. In M. Schwebel (Ed.),
@@ -21862,7 +20925,6 @@ p. A4.
 Bernstein, R., & Weisman, S. R. (2003, February 17). NATO settles rift over aid
 
 to Turks in case of a war. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Bero, L. A., Oostvogel, F., Bacchetti, P., & Lee, K. (2007). Factors associated with
 
@@ -21874,8 +20936,6 @@ Beschloss, M. (2011, February 12). Book discussion on Known and unknown: A memoi
 Best, G. (1973, March 6). [Memo to John D. Bryan, Conoco Chemicals and Continental Oil]. Retrieved from http://www.deceitanddenial.org
 
 Bandura_1e_Ref.indd 6
-
-04/11/15 9:26 AM
 
 References R-7
 
@@ -21896,12 +20956,10 @@ on free speech. The New York Times. Retrieved from http://www.nytimes.com
 Bilefsky, D., & de la Baume, M. (2015a, January 29). French video tries to blunt
 
 Jihad's allure among youth. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Bilefsky, D., & de la Baume, M. (2015b, January 7). Terrorists strike Charlie Hebdo
 
 newspaper in Paris, leaving 12 dead. The New York Times. Retrieved from
-http://www.nytimes.com
 
 [bin Laden interview]. (2001, November 10). 'Muslims have the right to attack
 
@@ -21967,8 +21025,6 @@ victims "collateral damage." (2013, May 16). CBS News. Retrieved from
 http://www.cbsnews.com
 
 Bandura_1e_Ref.indd 7
-
-04/11/15 9:26 AM
 
 R-8 References
 
@@ -22040,8 +21096,6 @@ The New York Times. Retrieved from http://www.nytimes.com
 
 Broder, J. M. (2010, October 20). Climate change doubt is tea party article of faith.
 
-The New York Times. Retrieved from http://www.nytimes.com
-
 Broder, J. M. (2011, August 18). Bashing EPA is new theme in GOP race. The New
 
 York Times, p. A1.
@@ -22052,8 +21106,6 @@ but unclear, actions. The New York Times, p. A13.
 
 Broder, J. M. (2012b, November 26). U.N. climate talks promise little drama. The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Broder, J. M., & Galbraith, K. (2011). EPA is longtime favorite target for Perry. The
 
 New York Times, p. A13.
@@ -22063,8 +21115,6 @@ Brody, R. (2015, June 18). Views you can use: Cool to Francis' climate views. U.
 News & World Report. Retrieved from http://www.usnews.com
 
 Bandura_1e_Ref.indd 8
-
-04/11/15 9:26 AM
 
 References R-9
 
@@ -22158,8 +21208,6 @@ Vatican. The Guardian. Retrieved from http://www.guardian.co.uk
 
 Bandura_1e_Ref.indd 9
 
-04/11/15 9:26 AM
-
 R-10 References
 
 Butterfield, F. (1998, November 28). New data point blame at gun makers. The New
@@ -22168,7 +21216,6 @@ York Times, p. A9.
 
 Butterfield, F. (1999, February 14). To rejuvenate gun sales, critics say, industry
 started making more powerful pistols. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Butterfield, F. (2003, February 4). Gun industry ex-official describes bond of
 silence. The New York Times. Retrieved from http://www.nytimes.com
@@ -22246,8 +21293,6 @@ Carney, J. (2015, May 16). Senators struggle with ISIS war bill. The Hill. Retri
 from http://thehill.com
 
 Bandura_1e_Ref.indd 10
-
-04/11/15 9:26 AM
 
 References R-11
 
@@ -22336,8 +21381,6 @@ study warns. The Guardian. Retrieved from http://www.theguardian.com
 
 Bandura_1e_Ref.indd 11
 
-04/11/15 9:26 AM
-
 R-12 References
 
 Clark, S. J. (2003). Protection of Lawful Commerce in Arms Act. Congressional
@@ -22367,7 +21410,6 @@ Clymer, A. (1997, May 20). Child insurance bill opposed as threat to cigarette r
 Clymer, A., & Elder, J. (2002, September 8). Poll finds unease on terror fight and
 
 concerns about war on Iraq. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Codrea, D. (2013, February 4). Newtown father defies legislators on "gun control."
 
@@ -22416,8 +21458,6 @@ Cook, J. (2015). Global warming & climate change myths. Skeptical Science.
 Retrieved from https://www.skepticalscience.com
 
 Bandura_1e_Ref.indd 12
-
-04/11/15 9:26 AM
 
 References R-13
 
@@ -22504,8 +21544,6 @@ San Francisco Chronicle, p. A7.
 
 Bandura_1e_Ref.indd 13
 
-04/11/15 9:26 AM
-
 R-14 References
 
 Dalby, D., & Donadio, R. (2011, July 13). Irish report finds abuse persisting in
@@ -22531,15 +21569,11 @@ says. The New York Times. Retrieved from http://www.nytimes.com
 
 Davenport, C. (2014c, April 30). Justices back rule limiting coal pollution. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Davenport, C. (2014d, December 13). Nations plod forward on climate change
 
 accord. The New York Times. Retrieved from http://www.nytimes.com
 
 Davenport, C. (2014e, December 11). Strange climate event: Warmth toward U.S.
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Davis, J. H., & Davenport, C. (2015, September 25). U.S. says China will announce
 
@@ -22595,8 +21629,6 @@ Diaz, T. (1999). Making a killing: The business of guns in America. New York: Ne
 Diener, E., & DeFour, D. (1978). Does television violence enhance program popularity? Journal of Personality and Social Psychology, 36, 333–341.
 
 Bandura_1e_Ref.indd 14
-
-04/11/15 9:26 AM
 
 References R-15
 
@@ -22662,8 +21694,6 @@ http://www.phoenixnewtimes.com
 
 Drape, J. (2012, June 22). Sandusky convicted of sexual abuse of 10 young boys.
 
-The New York Times. Retrieved from http://www.nytimes.com
-
 Dretzin, R. (Writer), & Goodman, B. (Director). (2001). The merchants of cool.
 
 [Television documentary]. In A. Collins (Director), Frontline. United States: PBS
@@ -22687,8 +21717,6 @@ through social suggestion. Journal of Abnormal Social Psychology, 33, 489–507.
 
 Bandura_1e_Ref.indd 15
 
-04/11/15 9:26 AM
-
 R-16 References
 
 Dwyer, D. (2013, January 16). NRA President defends ad attacking Obama, vows
@@ -22708,8 +21736,6 @@ Eavis, P. (2013, December 11). "Long and arduous process" to ban a single Wall
 Street activity. The New York Times, p. B1.
 
 Eavis, P. (2014, May 21). In Credit Suisse settlement, a question of justice. The New
-
-York Times. Retrieved from http://www.nytimes.com
 
 Eavis, P. (2015, May 12). Judge's ruling against 2 banks finds misconduct in '08
 
@@ -22761,8 +21787,6 @@ The New York Times, p. 24.
 
 Editorial: Father Greeley, defender of the faithful. [Editorial]. (2013, May 31). The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Effron, D., Cameron, J. S., & Monin, B. (2009). Endorsing Obama licenses favoring
 
 whites. Journal of Experimental Social Psychology, 45, 590–593.
@@ -22783,8 +21807,6 @@ answer to the human dilemma. New Haven, CT: Yale University Press.
 
 Bandura_1e_Ref.indd 16
 
-04/11/15 9:26 AM
-
 References R-17
 
 Eilperin, J. (2010, July 1). Penn State clears Mann in Climate-gate probe. The
@@ -22794,7 +21816,6 @@ Washington Post. Retrieved from http://views.washingtonpost.com
 Eilperin, J., & Mufson, S. (2014, June 2). Everything you need to know about the
 
 EPA's proposed rule on coal plants. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Eisenberg, T., & Wells, M. T. (1993). Deadly confusion: Juror instructions in capital
 
@@ -22828,7 +21849,6 @@ University of Colorado.
 Ellis, C. (1962, May 29). The smoking and health problem. University of California,
 
 San Francisco, Legacy Tobacco Documents Library. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Ellis, E. C. (2013, September 13). Overpopulation is not the problem. The New York
 
@@ -22844,7 +21864,6 @@ examination of the views of abolitionists and retentionists. Crime and Delinquen
 Emord, J. W. (1992, July 10). Project "ASSIST": Federal funds for speech and
 behavior control. Washington, DC: Legal Backgrounder, 7(19). University of
 California, San Francisco, Legacy Tobacco Documents Library. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Englis, B. G., Vaughan, K. B., & Lanzetta, J. T. (1982). Conditioning of counterempathic emotional response. Journal of Experimental Social Psychology, 18, 375–391.
 Enron warned, auditor insists (2001, December 13). Chicago Tribune. Retrieved from
@@ -22872,8 +21891,6 @@ Evelyn, S. R., & Esterle, J. G. (1977, December 6). Biological research meeting:
 Minutes of the meeting held at Chelwood on 27th November 1977. University
 
 Bandura_1e_Ref.indd 17
-
-04/11/15 9:26 AM
 
 R-18 References
 
@@ -22962,8 +21979,6 @@ deterrent effect of the death penalty. Loyola of Los Angeles Law Review, 23(1), 
 
 Bandura_1e_Ref.indd 18
 
-04/11/15 9:26 AM
-
 References R-19
 
 Fram, A. (2013a, March 13). Assault weapons ban approved by Senate Judiciary
@@ -23034,7 +22049,6 @@ New York Times, p. A19.
 
 Fuller, J. (2014, September 28). John Boehner on combating the Islamic State:
 "Somebody's boots have to be there." The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Furman v. Georgia, 408 U.S. 238 (1972). Retrieved from http://www.oyez.org
 
@@ -23051,8 +22065,6 @@ Garamone, J. (2002, October 22). Rumsfeld draws lessons from Cuban missile crisi
 to today. DoD News. http://www.defense.gov
 
 Bandura_1e_Ref.indd 19
-
-04/11/15 9:26 AM
 
 R-20 References
 
@@ -23086,8 +22098,6 @@ Gerbner, G., Gross, L., Morgan, M., & Signorielli, N. (1980). The "mainstreaming
 of America: Violence profile No. 11. Journal of Communication, 30, 10–29.
 German, M. (2005, June 3). Behind the lone terrorist, a pack mentality. The
 
-Washington Post. Retrieved from http://www.washingtonpost.com
-
 Germany, Brazil to propose anti-spying resolution at UN. (2013, October 25).
 
 Reuters. Retrieved from http://www.reuters.com
@@ -23116,8 +22126,6 @@ Today, 20, 50–58.
 
 Gillis, J. (2010, July 7). British panel clears scientists. The New York Times. Retrieved
 
-from http://www.nytimes.com
-
 Gillis, J. (2012, August 7). Study finds more of earth is hotter and says global
 
 warming is at work. The New York Times, p. A13.
@@ -23141,13 +22149,10 @@ New York Times, p. D1.
 
 Bandura_1e_Ref.indd 20
 
-04/11/15 9:26 AM
-
 References R-21
 
 Gillis, J., & Broder, J. M. (2012, December 2). With carbon dioxide emissions at
 record high, worries on how to slow warming. The New York Times. Retrieved
-from http://www.nytimes.com
 
 Gillis, J., & Fleur, N. S. (2015, September 23). Global companies joining climate
 
@@ -23217,7 +22222,6 @@ University, Ithaca, NY.
 Goldstein, B. (2012, December 22). The NRA's school safety plan: Round up the
 
 sick and arm the children. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Goldstein, J. (2011, December 15). In its latest gun inquiry, city faults online sellers.
 
@@ -23230,8 +22234,6 @@ Gomez, G. (2002). Problems in the timing of conscious experience. Consciousness 
 Cognition, 11, 191–197.
 
 Bandura_1e_Ref.indd 21
-
-04/11/15 9:26 AM
 
 R-22 References
 
@@ -23261,14 +22263,12 @@ http://www.cnsnews.com
 Goodstein, L. (2002, October 5). Evangelical figures oppose religious leaders'
 
 broad antiwar sentiment. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Goodstein, L. (2003, May 27). Seeing Islam as "evil" faith, evangelicals seek converts. The New York Times. Retrieved from http://www.nytimes.com
 
 Goodstein, L. (2005, March 10). Evangelical leaders swing influence behind effort
 
 to combat global warming. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Goodstein, L. (2007, March 12). Evangelical's focus on climate draws fire of
 
@@ -23293,7 +22293,6 @@ Los Angeles Cardinal. The New York Times, p. A11.
 Goodstein, L., Cumming-Bruce, N., & Yardley, J. (2014, February 5). U.N. panel
 
 criticizes the Vatican over sexual abuse. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Goodstein, L., & Eckholm, E. (2012, June 12). Church battles efforts to ease sex
 
@@ -23326,8 +22325,6 @@ Times, p. 1.
 
 Bandura_1e_Ref.indd 22
 
-04/11/15 9:26 AM
-
 References R-23
 
 Gould, S. J. (1987). An urchin in the storm: Essays about books and ideas. New York:
@@ -23359,8 +22356,6 @@ of Jews. The New York Times. Retrieved from http://www.nytimes.com
 Greenberg, J. (2000, March 1). Eichmann memoirs released to assist a libel defendant. The New York Times, p. A6.
 
 Greenhouse, L. (1994, February 23). Death penalty is renounced by Blackmun. The
-
-New York Times. Retrieved from http://www.nytimes.com
 
 Greenspan, A. (2007). The age of turbulence: Adventures in a new world. New York:
 
@@ -23413,8 +22408,6 @@ Guyer, P. E. (1998). Kant's groundwork of the metaphysics of morals: Critical es
 Lantham, MD: Rowman and Littlefield.
 
 Bandura_1e_Ref.indd 23
-
-04/11/15 9:26 AM
 
 R-24 References
 
@@ -23495,8 +22488,6 @@ http://www.deceitanddenial.org
 
 Bandura_1e_Ref.indd 24
 
-04/11/15 9:26 AM
-
 References R-25
 
 Hartocollis, A. (2013, December 5). Vapors and emotions rise at hearing on
@@ -23570,7 +22561,6 @@ Herrmann, T. (2012, June 20). Abortion proponents admit defeat at Rio UN confere
 
 Hersh, J. (2012, December 23). Wayne LaPierre: Schools with armed guards "the
 one thing that would keep people safe." The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 Hersh, S. M. (2004, May 12). Torture at Abu Ghraib. The New Yorker.
 Heston, C. (1997, December 7). Speech by National Rifle Association First Vice
@@ -23580,8 +22570,6 @@ anniversary gala. Violence Policy Center. Retrieved from
 http://www.vpc.org
 
 Bandura_1e_Ref.indd 25
-
-04/11/15 9:26 AM
 
 R-26 References
 
@@ -23662,8 +22650,6 @@ already been lost. The New York Times. Retrieved from http://www.nytimes.com
 
 Bandura_1e_Ref.indd 26
 
-04/11/15 9:26 AM
-
 References R-27
 
 Huesmann, L. R., Moise, J., Podolski, C. P., & Eron, L. D. (2003). Longitudinal relations between childhood exposure to media violence and adult aggression and
@@ -23677,7 +22663,6 @@ Senate hearing. NBC. Retrieved from http://nbcpolitics.nbcnews.com
 Hurdle, J. (2013, December 30). Philadelphia monsignor to be released on bail
 
 pending appeal in abuse case. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Hursthouse, R. (2012). Virtue ethics. In E. N. Zalta (Ed.), The Stanford encyclopedia
 
@@ -23742,8 +22727,6 @@ Ivie, R. L. (1980). Images of savagery in American justifications for war. Commu
 
 Bandura_1e_Ref.indd 27
 
-04/11/15 9:26 AM
-
 R-28 References
 
 Jackson, D. (2015, August 3). Obama climate change plan affects 2016 race.
@@ -23765,8 +22748,6 @@ prison rules. The New York Times, p. A10.
 Jehl, D., & Sanger, D. E. (2004, June 2). Powell presses C.I.A. on faulty intelligence
 on Iraq arms. The New York Times. Retrieved from http://www.nytimes.com
 Jennings, N. (2013, January 10). NRA "disappointed" by meeting with Biden. The
-
-Washington Post. Retrieved from http://www.washingtonpost.com
 
 John, S. (2015, July 11). World Population Day 2015: Top 10 inspirational quotes
 
@@ -23804,8 +22785,6 @@ effects (pp. 143–164). Hillsdale, NJ: Erlbaum.
 
 Jolly, D. (2011, November 2). Satirical magazine is firebombed in Paris. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Jolly, D. (2014, February 26). European Parliament approves tough rules on electronic
 
 cigarettes. The New York Times. Retrieved from http://www.nytimes.com
@@ -23833,8 +22812,6 @@ Just, E. (1940, April 23). Proceedings, Tri-State Conference, National Archives,
 Record Group 100, 7-0-4(3), 13–19.
 
 Bandura_1e_Ref.indd 28
-
-04/11/15 9:26 AM
 
 References R-29
 
@@ -23920,8 +22897,6 @@ Kleypas, J. A., Feely, R. A., Fabry, V. J., Langdon, C., Sabine, C. L., & Robbin
 
 Bandura_1e_Ref.indd 29
 
-04/11/15 9:26 AM
-
 R-30 References
 
 for future research; Report of a workshop sponsored by NSF, NOAA, and the U.S.
@@ -23965,12 +22940,8 @@ Record Searchlight. Retrieved from http://www.redding.com
 
 Kristof, N. (2003, June 10). Giving God a break. The New York Times. Retrieved from
 
-http://www.nytimes.com
-
 Krugman, P. (2011, May 9). The unwisdom of elites. The New York Times, p. A23.
 Krugman, P. (2014, April 17). Salvation gets cheap. The New York Times. Retrieved
-
-from http://www.nytimes.com
 
 Krugman, P. R. (2009). The return of depression economics and the crisis of 2008. New
 
@@ -23982,11 +22953,8 @@ to BBC. The New York Times, p. A1.
 
 Kunkle, F. (2008, September 26). Last N.Y. suits against Va. dealers settled. The
 
-Washington Post. Retrieved from http://www.washingtonpost.com
-
 Kuntz, T. (1995, September 24). Conversations/Paul Hill; From thought to deed: In
 the mind of a killer who says he served God. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Kwak, K., & Bandura, A. (1998). Role of perceived self-efficacy and moral disengagement
 
@@ -24010,8 +22978,6 @@ University of Chicago Press.
 
 Bandura_1e_Ref.indd 30
 
-04/11/15 9:26 AM
-
 References R-31
 
 Lam, T. H., Ho, S. Y., Hedley, A. J., Mak, K. H., & Peto, R. (2001). Mortality and
@@ -24029,8 +22995,6 @@ Lance Armstrong 'sold his soul' to doping, says former masseuse Emma O'Reilly.
 Lance Armstrong comes face to face with whistleblower Emma O'Reilly. (2013,
 November 17). The Guardian. Retrieved from http://www.theguardian.com/
 Landler, M. (2014). U.S. and China reach climate accord after months of talks. The
-
-New York Times. Retrieved from http://www.nytimes.com
 
 Landrigan, P. J. (2000). Pediatric lead poisoning: Is there a threshold? Public Health
 
@@ -24100,8 +23064,6 @@ equitable world. Washington, DC: Population Action International.
 
 Bandura_1e_Ref.indd 31
 
-04/11/15 9:26 AM
-
 R-32 References
 
 Legacy Tobacco Documents Library, Brown & Williamson Collection. Bates no.
@@ -24130,12 +23092,9 @@ Communication. Retrieved from http://environment.yale.edu
 
 Lelyveld, J. (2001). All suicide bombers are not alike. The New York Times Magazine.
 
-Retrieved from http://www.nytimes.com
-
 Leo Burnett. (1993, March 23). Project Brass: A plan of action for the ETS issue.
 University of California, San Francisco, Legacy Tobacco Documents Library,
 Philip Morris Collection. Bates No. 2023329411-2023329457. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Leon, M. (1980). Integration of intent and consequences information in children's
 moral judgments. In F. Wilkening, J. Becker, & T. Trabasso (Eds.), Information
@@ -24177,8 +23136,6 @@ Lewandowsky, S., Gignac, G. E., & Vaughan, S. (2013). The pivotal role of percei
 scientific consensus in acceptance of science. Nature Climate Change, 3, 399–404.
 
 Bandura_1e_Ref.indd 32
-
-04/11/15 9:26 AM
 
 References R-33
 
@@ -24227,15 +23184,9 @@ controls, experts say. The New York Times, p. A32.
 
 Liptak, A. (2013, April 15). Justices refuse case on gun law in New York. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Liptak, A. (2014, May 5). Justices turn away case about carrying guns in public. The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Liptak, A. (2015, June 29). Supreme Court allows use of execution drug. The New
-
-York Times. Retrieved from http://www.nytimes.com
 
 Lipton, E., & Lichtblau, E. (2010, July 15). Fund-raising before House vote draws
 
@@ -24270,8 +23221,6 @@ Washington. The New York Times, p. A12.
 
 Bandura_1e_Ref.indd 33
 
-04/11/15 9:26 AM
-
 R-34 References
 
 Lowe, W. (2011). The death penalty in the United States. Retrieved from
@@ -24297,7 +23246,6 @@ York Times, p. A1.
 Luo, M., McIntire, M., & Palmer, G. (2013, April 17). Seeking gun or selling one,
 
 Web is a land of few rules. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Lutz, W. (1996). The new doublespeak: Why no one knows what anyone's saying anymore.
 
@@ -24319,7 +23267,6 @@ York Times, p. A9.
 Lyman, R. (2014, January 16). Ohio execution using untested drug cocktail renews
 
 the debate over lethal injections. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Lynch, B. S., & Bonnie, R. J. (Eds.) (1994). Growing up tobacco free: Preventing nicotine
 addiction in children and youths. Institute of Medicine, Washington, DC: National
@@ -24345,8 +23292,6 @@ Climate Central. Retrieved from http://www.climatecentral.org
 
 Maguire, D. C. (2012, June 27). Church abuse case. [Letter to the editor]. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Mahony, R. (2013, February 1). Historical evolution of dealing with the
 
 sexual abuse of minors. Retrieved from
@@ -24358,8 +23303,6 @@ the record straight: There is a scientific consensus that human-caused climate
 change is happening. Earth's Future, 2, 295–298.
 
 Bandura_1e_Ref.indd 34
-
-04/11/15 9:26 AM
 
 References R-35
 
@@ -24382,12 +23325,10 @@ http://www.infowars.com
 
 Markoe, L. (2014, September 25). Islamic scholars release open letter to Islamic
 State meticulously blasting its ideology. The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 Markon, J. (2012, December 21). NRA's Wayne LaPierre: The force behind the
 
 nation's gun lobby. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Markowitz, G., & Rosner, D. (2002). Deceit and denial: The deadly politics of industrial
 
@@ -24420,12 +23361,10 @@ mine explosion. Pittsburgh Post-Gazette. Retrieved from
 http://www.post-gazette.com
 
 Mazza, E. (2014, September 2). Scalia once pushed death penalty for nowexonerated inmate Henry Lee McCollum. The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 Mazzetti, M. (2014, October 14). C.I.A. study of covert aid fueled skepticism
 
 about helping Syrian rebels. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Mazzetti, M., & Apuzzo, M. (2014, December 12). C.I.A. director defends use of
 interrogation tactics, avoiding issue of torture. The New York Times, p. A1.
@@ -24439,8 +23378,6 @@ Minority Psychology, 6, 363–373.
 
 Bandura_1e_Ref.indd 35
 
-04/11/15 9:26 AM
-
 R-36 References
 
 McAlister, A., Bandura, A., & Owen, S. (2006). Mechanisms of moral disengagement in support of military force: The impact of September 11. Journal of Social
@@ -24448,7 +23385,6 @@ and Clinical Psychology, 25, 141–166.
 
 McAuliff, M., & Graves, L. (2011, October 9). War on the EPA: Republican bills
 would erase decades of protection. The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 McAvoy, A. (2003, July 4). Japanese officials' remarks anger women. Associated
 
@@ -24478,7 +23414,6 @@ Journal of the American Medical Association, 270, 2207–2212.
 McGuire, A. E. (2013, May 14). Why the pro-life movement must reject the death
 
 penalty for Kermit Gosnell. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 McHugo, G. J., Smith, C. A., & Lanzetta, J. T. (1982). The structure of self-reports of
 
@@ -24531,8 +23466,6 @@ Hispanic parishioners in Los Angeles. The New York Times, p. A11.
 
 Bandura_1e_Ref.indd 36
 
-04/11/15 9:26 AM
-
 References R-37
 
 Meier, B. (1998a, January 12). U.S. brings its first charges in the tobacco investigation. The New York Times, p. A17.
@@ -24552,8 +23485,6 @@ York Times, p. A14.
 Meier, B. (2000, August 2). W.H.O. says files show tobacco companies fought antismoking efforts. The New York Times, p. A8.
 
 Memos highlight importance of "younger adult smokers." (1998, January 15). The
-
-Washington Post. Retrieved from http://www.washingtonpost.com
 
 MEMRI (Middle East Media Research Institute). (2015, January 7). Online jihad
 
@@ -24617,8 +23548,6 @@ Science and Practice, 1, 228–236. Retrieved from http://www.ghspjournal.org
 
 Bandura_1e_Ref.indd 37
 
-04/11/15 9:26 AM
-
 R-38 References
 
 Moerk, E. (1995). Acquisition and transmission of pacifist mentalities in Sweden.
@@ -24642,7 +23571,6 @@ influence of tobacco money on the U.S. Congress; A report by Public Citizen's He
 Research Group. Washington, DC: Public Citizen's Health Research Group.
 University of California, San Francisco, Legacy Tobacco Documents Library,
 Bates no. 2058462252-2058462267. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Morgenson, G. (2013, December 15). Wake up the banking police. The New York
 
@@ -24676,7 +23604,6 @@ Moynihan, C., & Cohen, M. (2010, May 2). Bomb scare reveals another side of
 Times Square. The New York Times. Retrieved from http://www.nytimes.com
 Mufson, S., & Marte, J. (2015, May 20). Five big banks agree to pay more than
 $5 billion to settle regulatory charges. The Washington Post. Retrieved from
-http://www.washingtonpost.com
 
 Muller, E. (2012). 250 years of global warming: Berkeley Earth releases new
 analysis. Berkeley Earth Surface Surface Temperature. Retrieved from
@@ -24702,8 +23629,6 @@ Muslims angered by Baptist criticism. (2002, June 13). CNN.com. Retrieved from
 http://edition.cnn.com
 
 Bandura_1e_Ref.indd 38
-
-04/11/15 9:26 AM
 
 References R-39
 
@@ -24792,8 +23717,6 @@ judgment. Englewood Cliffs, NJ: Prentice Hall.
 
 Bandura_1e_Ref.indd 39
 
-04/11/15 9:26 AM
-
 R-40 References
 
 Nordhaus, W. D. (2009, March 10–12). Climate change: Global risks, challenges, and
@@ -24818,8 +23741,6 @@ Retrieved from http://www.nbcnews.com
 
 O'Callaghan, S. (1998). The informer. London: Transworld Publishers Limited.
 O'Keefe, E. (2013, January 29). NRA chief: Gun owners will resist new laws. The
-
-Washington Post. Retrieved from http://www.washingtonpost.com
 
 O'Keefe, E., & Fahrenthold, D. (2013, January 30). Gabrielle Giffords speaks at
 
@@ -24881,8 +23802,6 @@ Owen, R. (2010, March 11). Chief exorcist Father Gabriele Amorth says devil is i
 the Vatican. The Telegraph. Retrieved from http://www.telegraph.co.uk
 
 Bandura_1e_Ref.indd 40
-
-04/11/15 9:26 AM
 
 References R-41
 
@@ -24955,7 +23874,6 @@ Erlbaum.
 Paulson, H. M. Jr. (2014, June 21). The coming climate crash: Lessons for climate
 
 change in the 2008 recession. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Pavao, E. (2014). Slavery and the founding fathers. Retrieved from
 
@@ -24965,8 +23883,6 @@ Pavlo, W. (2011, December 21). Primary Global's James Fleishman gets 30 months
 in prison. Forbes. Retrieved from http://www.forbes.com
 
 Bandura_1e_Ref.indd 41
-
-04/11/15 9:26 AM
 
 R-42 References
 
@@ -25021,7 +23937,6 @@ Philip Morris USA Inc. (1989). ETS Strategy. University of California, San
 
 Francisco, Legacy Tobacco Documents Library, Philip Morris Collection. Bates
 no. 2021159323- 2021159333. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Phillips, D. P. (1985). Natural experiments on the effects of mass media violence on
 fatal aggression: Strengths and weaknesses of a new approach. In L. Berkowitz
@@ -25057,8 +23972,6 @@ Pollitt, K. (2007, April 8). Europeans do it better. The Nation. Retrieved from
 http://www.truth-out.org
 
 Bandura_1e_Ref.indd 42
-
-04/11/15 9:26 AM
 
 References R-43
 
@@ -25118,12 +24031,10 @@ for an admission of wrongdoing. The New York Times, p. B1.
 Protess, B., & Silver-Greenberg, J. (2014a, July 1). BNP admits guilt and agrees to
 
 pay $8.9 billion fine to U.S. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Protess, B., & Silver-Greenberg, J. (2014b, January 7). JPMorgan is penalized
 
 $2 billion over Madoff. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Protess, B., & Silver-Greenberg, J. (2014c, May 11). 2 Banking giants implore U.S.
 
@@ -25144,11 +24055,7 @@ chief's role. The New York Times, p. A8.
 
 Rabin, R. C. (2009, January 2). A new cigarette hazard: "Third-hand smoke." The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Bandura_1e_Ref.indd 43
-
-04/11/15 9:26 AM
 
 R-44 References
 
@@ -25157,8 +24064,6 @@ Rabin, R. C. (2012, August 3). Big cigars offer way for smokers to save. The New
 York Times, p. A10.
 
 Rachel Carson dies of cancer; "Silent Spring" author was 56. (1964, April 15). The
-
-New York Times. Retrieved from http://www.nytimes.com
 
 Raghavan, A. (2013, May 19). Rajat Gupta's lust for zeros. The New York Times Magazine, p. 30.
 
@@ -25223,23 +24128,17 @@ Retrieved from http://www.reuters.com
 
 Reuters. (2015, August 13). Fifteen U.S. states seek to block EPA carbon rule. The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Richinick, M. (2015, February 15). Pennsylvania governor puts hold on death
 
 penalty. MSNBC. Retrieved from http://www.msnbc.com
 
 Richtel, M. (2013, October 26). The e-cigarette industry, waiting to exhale. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Richtel, M. (2014a, March 5). E-cigarettes, by other names, lure young and worry
 
 experts. The New York Times, p. 1.
 
 Bandura_1e_Ref.indd 44
-
-04/11/15 9:26 AM
 
 References R-45
 
@@ -25323,8 +24222,6 @@ moral self (pp. 28–55). Cambridge, MA: MIT Press.
 
 Bandura_1e_Ref.indd 45
 
-04/11/15 9:26 AM
-
 R-46 References
 
 Rose, D. (2008, December). Tortured reasoning. Vanity Fair. Retrieved from
@@ -25345,7 +24242,6 @@ problem. The New York Times, p. A1.
 Rosenthal, E., & Lehren, A. W. (2012a, August 9). Profits on carbon credits drive
 
 output of a harmful gas. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Rosenthal, E., & Lehren, A. W. (2012b, June 20). Relief in every window, but global
 
@@ -25358,8 +24254,6 @@ in Cognitive Sciences, 10, 419–423.
 Rosner, D., & Markowitz, G. (1991). Deadly dust: Silicosis and the politics of occupational
 disease in twentieth-century America. Princeton, NJ: Princeton University Press.
 Rotella, C. (2011, August 11). Can Jeremy Grantham profit from ecological mayhem?
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Rothwell, J. D. (1982). Telling it like it isn't: Language misuse and malpractice. Englewood
 
@@ -25378,8 +24272,6 @@ Rubinstein, E. A., & Comstock, G. A. (1972). Television and Social Behavior: Vol
 Media content and control. Washington, DC: U.S. Government Printing Office.
 
 Rudalevige, A. (2010, September 10). War powers and the White House. The
-
-Washington Post. Retrieved from http://www.washingtonpost.com
 
 Rutenberg, J. (2007, July 12). Bush evokes Revolutionary War to bolster the U.S.
 
@@ -25413,8 +24305,6 @@ Retrieved from http://www.gallup.com
 
 Bandura_1e_Ref.indd 46
 
-04/11/15 9:26 AM
-
 References R-47
 
 Sabatino, P. (1986). Great American Smokeout. University of California, San Francisco,
@@ -25423,15 +24313,11 @@ tid/vmh42e00;jsessionid=87CA596C85137DCBE0FADB4A83E17553.tobacco04
 
 Sabin, P. (2013, September 8). Betting on the apocalypse. The New York Times.
 
-Retrieved from http://www.nytimes.com
-
 Sackett, G. P. (1966). Monkeys reared in isolation with pictures as visual input:
 
 Evidence for an innate releasing mechanism. Science, 154, 1468–1473.
 
 Salant, J. D. (2003, October 18). Presidential ecospeak. The New York Times. Retrieved
-
-from http://www.nytimes.com
 
 Salant, J. D. (2013, January 13). Gun anger often fades as NRA plays waiting
 
@@ -25491,7 +24377,6 @@ illegal. The New York Times, p. A1.
 Sayare, S., & Clark, N. (2012, September 19). French magazine runs cartoons
 
 that mock Muhammad. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Schauer, F. F., & Sinnott-Armstrong, W. (1996). The philosophy of law: Classic and
 contemporary readings with commentary. Fort Worth: Harcourt Brace College
@@ -25503,8 +24388,6 @@ of U.S. consumption on the environment. Scientific American. Retrieved from
 http://www.scientificamerican.com
 
 Bandura_1e_Ref.indd 47
-
-04/11/15 9:26 AM
 
 R-48 References
 
@@ -25526,8 +24409,6 @@ Schmitt, E. (2003, February 28). Pentagon contradicts general on Iraq occupation
 force's size. The New York Times. Retrieved from http://www.nytimes.com
 
 Schmitt, E. (2014, November 9). Obstacles limit targets and pace of strikes on ISIS.
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Schmitt, E. (2015, February 17). U.S. intensifies effort to blunt ISIS' message. The
 
@@ -25563,15 +24444,11 @@ Schwartz, J. (2014, May 15). Report says fewer bees perished over the winter, bu
 reason is a mystery. The New York Times. Retrieved from http://www.nytimes.com
 Schwartz, J. (2015, March 16). The new optimism of Al Gore. The New York Times.
 
-Retrieved from http://www.nytimes.com
-
 Schwarz, A. (2015, February 19). A bid for guns on campuses to deter rape. The
 
 New York Times, p. A1.
 
 Scott, A. O. (2012, November 9). A president engaged in a great Civil War. The New
-
-York Times. Retrieved from http://www.nytimes.com
 
 Scott, P. D. (2007). The road to 9/11: Wealth, empire and the future of America. Berkeley:
 
@@ -25596,8 +24473,6 @@ Segal, D. (2015, June 21). The people v. the coal baron. The New York Times, p. 
 
 Bandura_1e_Ref.indd 48
 
-04/11/15 9:26 AM
-
 References R-49
 
 Selinger, E. (2012, July 23). The philosophy of the technology of the gun. The
@@ -25614,7 +24489,6 @@ closer to home. The New York Times. Retrieved from http://www.nytimes.com
 Semple, K., & al-Jawoshy, O. (2014, October 8). ISIS militants shoot down
 
 Iraqi helicopter, killing 2. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Senate Hearings. (1962). Hearings before the Subcommittee to Investigate Juvenile
 Delinquency, Part 10: Effects on young people of violence and crime portrayed
@@ -25631,7 +24505,6 @@ Sengupta, S. (2014b, September 17). A host of possible objections to extended ai
 Sengupta, S. (2015, July 6). Global poverty drops sharply, with China making
 
 big strides, U.N. report says. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Serrano, R. A. (2004, June 9). Prison interrogators' gloves came off before Abu
 
@@ -25642,8 +24515,6 @@ Shane, S. (2013a, May 22). Debate aside, drone strikes drop sharply. The New Yor
 Times, p. A1.
 
 Shane, S. (2013b, May 5). A homemade style of terror: Jihadists push new tactics.
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Shane, S. (2015, February 19). Faulted for avoiding 'Islamic' labels to describe
 terrorism, White House cites a strategic logic. The New York Times, p. A1.
@@ -25656,8 +24527,6 @@ Shanker, T. (2002, July 12). Rumsfeld calls civilian deaths relatively low. The 
 York Times, p. A9.
 
 Shanker, T. (2007, January 12). New strategy vindicates ex-army chief Shinseki.
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Shapiro, A. (2008, July 17). Ashcroft defends actions on torture memos. NPR.
 
@@ -25673,12 +24542,9 @@ appeal. The New York Times, p. A1.
 
 Shenon, P. (2006, August 18). New limits set over marketing for cigarettes. The New
 
-York Times. Retrieved from http://www.nytimes.com
-
 Sheppard, K. (2015, February 26). Jim Inhofe brings a snowball to the Senate
 
 floor to prove climate change is a "hoax." The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 Shifrel, S., & McShane, L. (2010, October 5). Defiant Faisal Shahzad, Pakistani
 
@@ -25686,8 +24552,6 @@ immigrant who tried to bomb Times Square, sentenced to life. The Daily News.
 Retrieved from http://www.nydailynews.com
 
 Bandura_1e_Ref.indd 49
-
-04/11/15 9:26 AM
 
 R-50 References
 
@@ -25709,7 +24573,6 @@ ABC-CLIO.
 
 Siddiqui, S. (2014, November 5). Voters in Washington State just approved
 universal background checks. The Huffington Post. Retrieved from
-http://www.huffingtonpost.com
 
 Signorielli, N. (1985). Role portrayal on television: An annotated bibliography of studies
 
@@ -25723,7 +24586,6 @@ Human Sciences Press.
 Silver-Greenberg, J., & Protess, B. (2013, December 11). Criminal action is expected
 
 for JPMorgan in Madoff case. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Simon, J. L. (1998). The ultimate resource 2 (Rev. ed.). Princeton, NJ: Princeton
 
@@ -25770,8 +24632,6 @@ Peace Psychology, 8, 249–258.
 
 Smith, R. J., & White, J. (2004, June 12). General granted latitude at prison. The
 
-Washington Post. Retrieved from http://www.washingtonpost.com
-
 Smoking biggest killer in France. (2004, January 4). Medical News Today. Retrieved
 
 from www.medicalnewstoday.com
@@ -25780,8 +24640,6 @@ Snyder, M. (1980). Seek, and ye shall find: Testing hypotheses about other peopl
 E. T. Higgins, C. P. Herman, & M. P. Zanna (Eds.), Social cognition: The Ontario Symposium on Personality and Social Psychology (pp. 105–130). Hillsdale, NJ: Erlbaum.
 
 Bandura_1e_Ref.indd 50
-
-04/11/15 9:26 AM
 
 References R-51
 
@@ -25849,7 +24707,6 @@ escalate battle over rape ad. Los Angeles Times. Retrieved from
 http://articles.latimes.com
 
 Steinhauer, J. (2013a, March 13). Congressional committees make some gunrights provisions permanent. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Steinhauer, J. (2013b, March 13). Senate panel approves two gun control bills. The
 
@@ -25870,8 +24727,6 @@ Media Journal: Canadian Edition, 2, 7–24.
 Stewart, J. B. (1991). Den of thieves. New York: Simon & Schuster.
 
 Bandura_1e_Ref.indd 51
-
-04/11/15 9:26 AM
 
 R-52 References
 
@@ -25901,8 +24756,6 @@ to cause. The New York Times, p. A1.
 
 Story, L., & Morgenson, G. (2011a, May 12). Naming culprits in the financial crisis.
 
-The New York Times. Retrieved from http://www.nytimes.com
-
 Story, L., & Morgenson, G. (2011b, May 31). S.E.C. case stands out because it
 stands alone. The New York Times. Retrieved from http://www.nytimes.com
 Strauss, B. H. (2015, July 9). How 2˚C of warming could reshape the U.S. Climate
@@ -25924,8 +24777,6 @@ neighborhood near you. American Thinker. Retrieved from
 http://www. americanthinker.com
 
 Sullivan, A. (2005, January 23). Atrocities in plain sight. The New York Times.
-
-Retrieved from http://www.nytimes.com
 
 Sum, A., Khatiwada, I., McLaughlin, J., & Palma, S. (2009, October). The consequences of dropping out of high school: Joblessness and jailing for high school dropouts
 and the high cost for taxpayers. Boston: Center for Labor Market Studies Publications, Northeastern University. Retrieved from http://www.northeastern.edu
@@ -25959,8 +24810,6 @@ Tavernise, S. (2013b, December 13). Tobacco industry tactics limit poorer nation
 smoking laws. The New York Times, p. A1.
 
 Bandura_1e_Ref.indd 52
-
-04/11/15 9:26 AM
 
 References R-53
 
@@ -26014,7 +24863,6 @@ Thornton, R. (1977, January 26). Some "benefits" of smoking. BAT Group Research
 and Development Centre, publication RD1461, unclassified. University of
 California, San Francisco, Legacy Tobacco Documents Library, Brown & Williamson
 Collection. File No. 1223.01. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Tilker, H. A. (1970). Socially responsible behavior as a function of observer responsibility and victim feedback. Journal of Personality and Social Psychology, 14,
 95–100.
@@ -26038,8 +24886,6 @@ Retrieved from http://www.reuters.com
 
 Bandura_1e_Ref.indd 53
 
-04/11/15 9:26 AM
-
 R-54 References
 
 Tseng, N. (2014, January 8). JPMorgan could have ratted out Madoff but didn't.
@@ -26053,7 +24899,6 @@ Cambridge: Cambridge University Press.
 Turnbull, C. M. (1961). The forest people. New York: Simon & Schuster.
 Tyler, P. E. (2004, February 5). Blair tells Commons that results in Iraq are more
 important than faulty intelligence. The New York Times. Retrieved from
-http://www.nytimes.com
 
 U. S. Environmental Protection Agency (1993, January 7). EPA designates passive
 smoking a "Class A" or known human carcinogen. Press release. Retrieved from
@@ -26120,8 +24965,6 @@ New York: Knopf.
 Valls, A. (2010). Can terrorism be justified? In L. Vaughn (Ed.), Contemporary moral arguments: Readings in ethical issues (pp. 446–456). New York: Oxford University Press.
 
 Bandura_1e_Ref.indd 54
-
-04/11/15 9:26 AM
 
 References R-55
 
@@ -26202,11 +25045,8 @@ D. Gold (Eds.), Terrornomics (pp. 129–144). Aldershot, UK: Ashgate.
 Wells, J. (1981, July 24). Re: Smoking and health—Tim Finnegan. University
 of California, San Francisco, Legacy Tobacco Documents Library, Brown &
 Williamson Collection. Bates no. 1825-1901. Retrieved from
-https://industrydocuments.library.ucsf.edu
 
 Bandura_1e_Ref.indd 55
-
-04/11/15 9:26 AM
 
 R-56 References
 
@@ -26294,8 +25134,6 @@ Wolfe, T. (1996). Sorry, but your soul just died. Forbes, 158, 210.
 
 Bandura_1e_Ref.indd 56
 
-04/11/15 9:26 AM
-
 References R-57
 
 Wolfowitz: WMD chosen as reason for Iraq War for 'bureaucratic reasons.'
@@ -26330,8 +25168,6 @@ the American Medical Association, 141, 1218–1222.
 
 Wyatt, E. (2012, February 24). Settlements without admissions get scrutiny.
 
-The New York Times. Retrieved from http://www.nytimes.com
-
 Wyatt, E., & Protess, B. (2011, May 12). Foes revise plan to curb new agency.
 
 The New York Times, p. B1.
@@ -26351,11 +25187,9 @@ Wisconsin. The New York Times, p. A13.
 Yardley, J., & Schwartz, J. (2002, January 15). Enron's collapse: The law firm;
 
 Legal counsel in many ways mirrors client. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Yardley, J., Y Goodstein, L. (2015, June 18). Pope Francis, in sweeping encyclical,
 calls for swift action on climate change. The New York Times. Retrieved from
-http://www.nytimes.com
 
 Yardley, W. (2011, November 23). Oregon governor says he will not allow executions. The New York Times, p. A14.
 
@@ -26386,8 +25220,6 @@ The New York Times, p. A39.
 
 Bandura_1e_Ref.indd 57
 
-04/11/15 9:26 AM
-
 R-58 References
 
 Zane, M. (1981, December 8 ). Court rejects girl's rape suit that blames TV. San
@@ -26398,11 +25230,7 @@ Zernike, K. (2004, May 12). Prison guard calls abuse routine and sometimes amusi
 
 Zernike, K. (2006, February 12). Violent crime rising sharply in some cities. The
 
-New York Times. Retrieved from http://www.nytimes.com
-
 Zernike, K., & Kaufman, M. T. (2011, May 2). The most wanted face of terrorism.
-
-The New York Times. Retrieved from http://www.nytimes.com
 
 Zganjar, L. (1998, March 12). Forgotten hero of My Lai to be honored after 30 years.
 
@@ -26440,8 +25268,6 @@ Zmirak, J. (2013, May 15). When justice demands the hangman. First Things.
 Retrieved from http://www.firstthings.com
 
 Bandura_1e_Ref.indd 58
-
-04/11/15 9:26 AM
 
 Name INdex
 
@@ -26523,8 +25349,6 @@ Bandura, A., 3, 5, 6, 7, 8, 9, 10, 12, 13,
 NI-1
 
 Bandura_1e_Index.indd 1
-
-04/11/15 9:34 AM
 
 NI-2 Name Index
 
@@ -26643,8 +25467,6 @@ Bunge, M., 13
 
 Bandura_1e_Index.indd 2
 
-04/11/15 9:34 AM
-
 Name Index NI-3
 
 Burnett, L., 245
@@ -26660,7 +25482,6 @@ Butterfield, F., 154, 155, 160, 161, 162,
 165, 171
 Byrd, L. D., 18
 
-C
 Cadet, D., 294, 296
 Cafaro, P., 390
 Caldwell, L. A., 366
@@ -26760,8 +25581,6 @@ Craig, D. C., 352, 353, 354
 
 Bandura_1e_Index.indd 3
 
-04/11/15 9:34 AM
-
 NI-4 Name Index
 
 Craig, S., 222
@@ -26777,7 +25596,6 @@ Cuomo, M. M., 273
 Curiel, J., 335
 Currier, C., 361
 
-D
 Dahlburg, J.-T., 51
 Daily, G. C., 380
 Dalby, D., 71
@@ -26873,8 +25691,6 @@ Emord, J. W., 240
 Endresen, K., 53
 
 Bandura_1e_Index.indd 4
-
-04/11/15 9:34 AM
 
 Englis, B. G., 93
 Erdbrink, T., 393
@@ -26988,8 +25804,6 @@ Goldstein, B., 184
 Goldstein, J., 161, 173
 
 Bandura_1e_Index.indd 5
-
-04/11/15 9:34 AM
 
 NI-6 Name Index
 
@@ -27105,8 +25919,6 @@ Hilsenrath, J., 409
 
 Bandura_1e_Index.indd 6
 
-04/11/15 9:34 AM
-
 Hilts, P. J., 100
 Hirayama, T., 243, 247
 Hirth, A. C., 265
@@ -27135,7 +25947,6 @@ Hursthouse, R., 25, 26
 Hurtado, P., 222
 Hymel, S., 37, 38
 
-I
 Iha, K., 439
 Ingle, G. W., 261
 Innis, J., 430
@@ -27229,7 +26040,6 @@ Kuntz, T., 329
 Kwak, K., 34
 Kydd, A. H., 318, 334
 
-L
 Lacey, M., 176
 Lakoff, G., 372, 401
 Lam, T. H., 239
@@ -27324,15 +26134,12 @@ Lyle, J., 134
 Lyman, R., 281, 308
 Lynch, B. S., 239, 248, 249
 
-M
 MacAskill, E., 342, 346, 347
 Maccoby, E. E., 33
 MacGillis, A., 175
 MacNab, B. R., 70
 
 Bandura_1e_Index.indd 8
-
-04/11/15 9:34 AM
 
 Magill, B., 408, 411
 Maguire, D., 74
@@ -27447,8 +26254,6 @@ Nathanson, S., 276
 
 Bandura_1e_Index.indd 9
 
-04/11/15 9:34 AM
-
 NI-10 Name Index
 
 Nayyar, P., 97
@@ -27559,8 +26364,6 @@ Prentice, R. L., 240
 Preston, S. D., 92
 
 Bandura_1e_Index.indd 10
-
-04/11/15 9:34 AM
 
 Prial, D., 220
 Price, F., 109
@@ -27677,8 +26480,6 @@ Samuels, B., 250
 
 Bandura_1e_Index.indd 11
 
-04/11/15 9:34 AM
-
 NI-12 Name Index
 
 Sanday, P. R., 20
@@ -27794,8 +26595,6 @@ Steinhauer, J., 191, 194, 195, 198
 
 Bandura_1e_Index.indd 12
 
-04/11/15 9:34 AM
-
 Stempel, J., 223
 Steuter, E., 359
 Stevenson, A., 222
@@ -27862,7 +26661,6 @@ Upton, J., 410
 Urbina, I., 178
 Urofsky, M. I., 11
 
-V
 Vaillancourt, T., 37, 38
 Valls, A., 311
 Van Den Haag, E., 278, 307
@@ -27907,8 +26705,6 @@ Wells, J., 248
 Wells, M. T., 293
 
 Bandura_1e_Index.indd 13
-
-04/11/15 9:34 AM
 
 NI-14 Name Index
 
@@ -27986,8 +26782,6 @@ Zsolnai, L., 402
 
 Bandura_1e_Index.indd 14
 
-04/11/15 9:34 AM
-
 Subject Index
 
 A
@@ -28032,8 +26826,6 @@ transformative, 21
 Airline hijacking, 110–112
 Al Qaeda, 313, See also Terrorism and
 
-Counterterrorism
-
 Amir, Yigal, 51
 Armstrong, Lance, 30–32
 Astroturfers, 13–14
@@ -28060,7 +26852,6 @@ multiple controls in, 108
 
 Bosnian war model, 343, 348–349,
 358, 364, See also Terrorism and
-Counterterrorism
 
 Bullying
 
@@ -28074,7 +26865,6 @@ self-efficacy in, 38–39
 Burnout syndrome, 89
 Bystander intervention, 38–39
 
-C
 Capital punishment
 
 aversion to execution, 308
@@ -28259,8 +27049,6 @@ Compartmentalization, 299–300
 
 Bandura_1e_subIndex.indd 2
 
-04/11/15 9:27 AM
-
 Compassion
 
 definition, 92
@@ -28281,7 +27069,6 @@ financial transgressions in
 
 Subject Index SI-3
 
-D
 Dani, 18–19
 Delancey Street Foundation, 94
 Deniability, 60–61, 233, 236
@@ -28314,7 +27101,6 @@ tobacco industry, 239–256
 
 insider-trading, 211–213, 217–220
 international Ponzi scheme, 215–216
-moral disengagement by
 
 advantageous comparison, 158–160,
 177–178, 186, 191, 194, 200–201,
@@ -28417,8 +27203,6 @@ motivational and self-regulatory,
 
 Bandura_1e_subIndex.indd 3
 
-04/11/15 9:27 AM
-
 SI-4 Subject Index
 
 Entertainment industry (continued)
@@ -28438,8 +27222,6 @@ direct experience, 104
 social modeling, 104, 107–112,
 
 131–132, 137
-
-moral disengagement by
 
 advantageous comparison, 115,
 
@@ -28568,7 +27350,6 @@ cap-and-trade, 408–410, 436
 carbon tax, 408–410, 436
 
 mass migration, 384, 386, 395
-moral disengagement by
 
 advantageous comparison,
 
@@ -28579,8 +27360,6 @@ dehumanization, 374, 377–378,
 390–391, 394, 412–414, 441
 
 Bandura_1e_subIndex.indd 4
-
-04/11/15 9:27 AM
 
 Subject Index SI-5
 
@@ -28731,8 +27510,6 @@ rigging foreign currency prices,
 
 Bandura_1e_subIndex.indd 5
 
-04/11/15 9:27 AM
-
 SI-6 Subject Index
 
 Finance industry (continued)
@@ -28873,7 +27650,6 @@ modification of violent lifestyle
 
 adolescent youth, 170
 hard-core criminals, 95
-moral disengagement by
 
 blaming mental illness, 187–192
 causal agency in shootings
@@ -28894,8 +27670,6 @@ dehumanization, 171–174, 186, 188
 
 Bandura_1e_subIndex.indd 6
 
-04/11/15 9:27 AM
-
 Subject Index SI-7
 
 diffusion of responsibility, 160–165,
@@ -28904,13 +27678,10 @@ diffusion of responsibility, 160–165,
 
 euphemistic language, 156–160, 168,
 
-I
 Iran-Contra affair, 55, 60, 311
 Iraq, 338, See also Terrorism and
 
 173, 181, 200
-
-Counterterrorism
 
 minimization of effects, 165–166,
 
@@ -28976,8 +27747,6 @@ Hamilton, Alexander, 12
 Henry, Patrick, 11
 Hezbollah, 319, See also Terrorism and
 
-Counterterrorism
-
 Hill, Paul, 51
 Human nature
 
@@ -28990,7 +27759,6 @@ theological conception, 16
 Humanization
 
 362, See also Terrorism and
-Counterterrorism
 
 J
 Jefferson, Thomas, 11
@@ -29016,7 +27784,6 @@ stages as social and moral
 
 justifications, 25
 
-L
 Lead industry, 256–259,
 See also Corporate world
 Learning by
@@ -29035,7 +27802,6 @@ first-order, 41–43
 second-order, 41–43
 Lincoln, Abraham, 11
 
-M
 Mandela, Nelson, 30
 Mason, George, 11
 Milgram studies
@@ -29047,8 +27813,6 @@ generalizability of, 59, 61–62
 of obedient aggression, 58–60
 
 Bandura_1e_subIndex.indd 7
-
-04/11/15 9:27 AM
 
 SI-8 Subject Index
 
@@ -29186,8 +27950,6 @@ in social cognitive theory, 4, 10–12,
 29–30, 38, 112
 
 Bandura_1e_subIndex.indd 8
-
-04/11/15 9:27 AM
 
 P
 Polynesian society, 19
@@ -29406,7 +28168,6 @@ McVeigh, Timothy, 331–332
 modeling in, 315, 317, 333, 343,
 
 348–349, 358, 362–364
-moral disengagement by
 
 sexual enslavement, 362
 Snowden, Edward, 346–347
@@ -29487,8 +28248,6 @@ weapons of mass destruction,
 Weathermen, 315–316
 
 Bandura_1e_subIndex.indd 10
-
-04/11/15 9:27 AM
 
 white supremacists, 331
 Wolfowitz, Paul, 342–343
@@ -29578,7 +28337,6 @@ dismantle placemeal, 226, 227
 
 Utilitarianism, 26
 
-V
 Vinyl chloride, 260–262, See also
 Corporate world or Chemical
 industry
@@ -29601,5 +28359,3 @@ Y
 York, Alvin, 49
 
 Bandura_1e_subIndex.indd 11
-
-04/11/15 9:27 AM

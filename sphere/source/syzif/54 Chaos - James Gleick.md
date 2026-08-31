@@ -1,4 +1,3 @@
-
 CHAOS
 MAKING A NEW SCIENCE
 
@@ -12796,7 +12795,7 @@ in the lobby of a Boston hotel, where they were attending a conference on
 general relativity. "Hey, I've just been listening to the Lorenz attractor,"
 Spiegel said. Spiegel had transmuted this emblem of chaos, using some
 
-impromptu circuitry connected to a hi-fi set, into a looping slide-whistle
+impromptu circuitry connected to a hi-fiset, into a looping slide-whistle
 antimelody. He brought Burke into the bar for a drink and explained.
 
 Spiegel knew Lorenz personally, and he had known about chaos since
@@ -19130,7 +19129,6 @@ Brown, Norman O., 243
 Burke, William, 244–45, 262, 267
 Butterfly Effect, 8, 20–23, 246–47, 261, 328, 329
 
-C
 calculators, 69, 79, 170–71
 calculus, see equations, differential California Institute of Technology, 243
 
@@ -19308,7 +19306,6 @@ in economics, 68
 
 cyclones, 12
 
-D
 Dartmouth College, 13
 
 Darwin, Charles, 111, 201
@@ -19708,7 +19705,6 @@ Hudson's Bay Company, 79
 
 Huygens, Christian, 40, 292
 
-I
 Ice Ages, 170
 
 Ideker, Raymond E., 288–89
@@ -19786,7 +19782,6 @@ concept of paradigms, 37, 39, 42, 52, 107, 269
 
 problem–solving vs. scientific revolutions, 36–37
 
-L
 Lamont–Doherty Geophysical Observatory (Columbia University), 103
 
 Landau, Lev D., 123–24, 130–32, 137, 152, 194
@@ -19869,7 +19864,6 @@ Lyapunov exponent, 247, 253, 255, 262, 268, 316
 
 lynx, 79
 
-M
 MacArthur, Robert, 315
 
 Magellan, Ferdinand, 226
@@ -20551,7 +20545,6 @@ unpredictability, 44, 253, 258, 261, 319
 
 Updike, John, 53
 
-V
 van der Pol, Balthasar, 49, 51, 332
 
 van Gogh, Vincent, 186
@@ -20593,7 +20586,6 @@ wind, 5, 11, 15–16
 
 Winfree, Arthur, 284–86, 288–89, 291–92, 307
 
-X
 Xerox Palo Alto Research Center, 269, 275
 
 Y

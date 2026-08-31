@@ -1,4 +1,3 @@
-
 UPHEAVALS	OF	THOUGHT
 
 they
@@ -1005,8 +1004,6 @@ PART	I
 
 NEED	AND
 RECOGNITION
-
-I
 
 EMOTIONS	AS
 JUDGMENTS	OF	VALUE
@@ -2328,8 +2325,6 @@ thus	invest	it	with	a	significance	that	seems	peculiar	-	as	one	might	do
 with	a	sports	star	or	one's	favorite	team.	But	once	again,	it	is	the	nature
 of	the	eudaimonistic	evaluation	that	explains	the	intensity	of	the	emotion.5-
 
-that
-
 To	the	extent	that	the	emotional	response	seems	out	of	line	with	the
 person's	own	view	of	the	object,	or	with	her	own	assessment	of	what	has
 occurred,	we	typically	suppose	that	she	really	had	a	deeper	concern	for
@@ -2793,8 +2788,6 @@ rest.	 In	many	 cases	 several	 different	 levels	 will	 be	 salient.	 While
 grieving	for	my	mother	in	a	way	that	emphasized	her	particularity	and
 the	particularity	of	my	history	with	her,	I	grieved	also	for	the	fact	that	I
 now	had	no	parent.
-
-that
 
 But	 sometimes	 it	 is	 important	 to	 ask	 which	 level	 of	 generality°"	 is
 most	 salient,	 in	 grief	 and	 in	 other	 emotions:	 for	 if	 one	 loves	 a	 person
@@ -3713,8 +3706,6 @@ concessions	to	lingering	reductionism."
 research,
 
 research
-
-that
 
 is
 
@@ -6921,8 +6912,6 @@ informed
 and	Daniel	 Stern,	 with	 his	 experimentally
 loss,"
 
-that
-
 reconstructions	 of	 the	earliest	stages	of	infancy	and	the	infant's	object
 world.	14
 
@@ -7199,7 +7188,6 @@ to	trust.	Winnicott	plausibly	argues	that	this	balance	can	be	best	struck
 by	a	person	who	has	a	good	imagination	and	who	is	able	to	identify	with
 the	 child	 in	 fantasy."	 Stern's	 photographic	 studies	 of	 mother	 child
 interactions	 reveal
-that
 characterize	 most	 such	 relationships	 -	 and	 also	 show	 how	 the
 
 interplay	 of	 eyes	 and	 face
@@ -7246,8 +7234,6 @@ imaginative	activity.
 intense	 stimulation
 
 their	 world
-
-that
 
 in
 
@@ -7557,8 +7543,6 @@ reunited	with	its	ideal.
 for	 omnipotence,	 grandiosity)
 
 (demand
-
-that
 
 is
 
@@ -12144,7 +12128,6 @@ account,	unlike	his,	compassion	does	not	entail	personal	vulnerability,
 al t hough	the	 recognition	 of	 personal	 vulnerability	 is	 extremely
 important,	 psychologically,	 in	 getting	 imperfect	 humans	 to	 have
 compassion	 for	 another	 person's	 plight.	 This	 means,
-that
 compassion	 is	 not	 linked	 to	personal	 fear	 in	 my	 account,	 as	 it	 is	 in
 Aristotle's:	 one	 may	 have	compassion	 for	 another	 without	 having
 anything	at	all	to	fear	for	oneself	-	although,	again,	in	imperfect	humans
@@ -14110,7 +14093,6 @@ point.	 But,	once	 again,	 as	 a	 general	 objection	 to	 central	 cases	 of
 compassion	it	is	far	too	crude.	It	is	true	that	only	a	bad	parent	will	give
 a	 child	 everything	 she	 asks	 for,	 since	 that	 would	 undermine	 the
 development	of	effort	and	strength	of	purpose.	In	Chapter	4,	we	insisted
-that
 inevitable	 parts	 of	 appropriate
 development.	 On	 the	other	 hand,	 there	 are	 many	 things	 that	 no	 good
 parent	would	expect	a	child	to	get	on	her	own.	It	may	well	be	true	that
@@ -15071,8 +15053,6 @@ experimental
 consensus
 
 these
-
-that
 
 omnipotence	and	shame,	and	with	the	victory	that	love	and	compassion
 might	possibly	win	over	both	shame	and	disgust.	If	that	is	so,	it	gives	us
@@ -19879,8 +19859,6 @@ philosophical	 education	 that	 lifts	 her	 beyond	 shame,	 beyond	 revenge,
 beyond	 instability	 -	 but	 also,	 beyond	 politics,	 friendship,	 and	 human
 love.
 
-II
-
 THE	CHRISTIAN
 ASCENT:	AUGUSTINE
 
@@ -20323,8 +20301,6 @@ be	a	total	loss	of	the	self	-	and	thus	of	all	the	activities	to	which	a	sense
 of	one's	own	identity	is	important.	"I	cannot	comprehend	the	power	of
 my	memory,"	Augustine	writes,	"since	I	cannot	even	call	myself	myself
 apart	from	it"	(X.	16).
-
-that
 
 But	 this	 means	 that	 without	 memory,	 which	 with	 its	 links	 to	 sin
 makes	perfection	impossible,	the	soul	cannot	progress	at	all.	The	search
@@ -24219,8 +24195,6 @@ individual	 heart	 take	 precedence	 over	 conventional	 authority;	 worldly
 striving	 for	 justice	 and	 brotherhood	 is	 given	 its	 full	 weight	 in	 the
 context	of	eternity	-	indeed,	permitted	to	define	the	context	of	eternity.
 
-that
-
 this	 musical
 
 idea	 prefers	 -
@@ -24237,8 +24211,6 @@ realm,	called	by	Mahler	the	realm	"where	the	dark	feelings	hold	sway,"
 does	not	in	the	end	suffice	to	tell	us	all	that	a	social	and	philosophical
 view	needs	to	tell	us,	although	in	some	ways	it	gets	at	the	depths	of	a
 political	vision	more	powerfully	than	most	verbal	representations	can.
-
-that
 
 is
 

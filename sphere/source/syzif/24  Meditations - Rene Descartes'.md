@@ -45,10 +45,6 @@ reason, but also that it may be inferred from the Holy Scriptures, that
 knowledge about Him is much clearer than that which we have of many
 created things, and, as a matter of fact, is so easy to acquire, that those
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-2
 
 who have it not are culpable in their ignorance. This indeed appears
@@ -136,10 +132,6 @@ case is different in philosophy where everyone believes that all is
 problematical, and few give themselves to the search after truth; and the
 greater number, in their desire to acquire a reputation for boldness of
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-3
 
 thought, arrogantly combat the most important of truths2.
@@ -220,10 +212,6 @@ matter (as to which I was not then dealing), but only in accordance with
 the order of my thought [perception]; thus my meaning was that so far
 as I was aware, I knew nothing clearly as belonging to my essence,
 excepting that I was a thing that thinks, or a thing that has in itself the perception.
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-4
 
@@ -315,10 +303,6 @@ Edition) interpolates an Index which is not found in the Amsterdam Edition
 its author. Mersenne probably composed it himself, adjusting it to the
 paging of the first Edition. (Note in Adam and Tannery's Edition.)
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-5
 
 itself from the senses; and finally it makes it impossible for us ever to
@@ -409,10 +393,6 @@ In the fourth Meditation it is shown that all these things which we
 very clearly and distinctly perceive are true, and at the same time it is
 explained in what the nature of error or falsity consists. This must of
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-6
 
 necessity be known both for the confirmation of the preceding truths
@@ -496,10 +476,6 @@ undertaking; for owing to the fact that the destruction of the foundations
 In place of this long title at the head of the page the first Edition had
 immediately after the Synopsis, and on the same page 7, simply "First
 Meditation." (Adam's Edition.)
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-7
 
@@ -594,10 +570,6 @@ Nevertheless I have long had fixed in my mind the belief that an
 all-powerful God existed by whom I have been created such as I am.
 But how do I know that He has not brought it to pass that there is no
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-8
 
 earth, no heaven, no extended body, no magnitude, no place, and that
@@ -685,10 +657,6 @@ The Meditation of yesterday filled my mind with so many doubts
 that it is no longer in my power to forget them. And yet I do not see in
 what manner I can resolve them; and, just as if I had all of a sudden
 fallen into very deep water, I am so disconcerted that I can neither make
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-9
 
@@ -780,10 +748,6 @@ to find that faculties similar to them existed in some bodies.
 
 But what am I, now that I suppose that there is a certain genius
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-10
 
 which is extremely powerful, and, if I may say so, malicious, who
@@ -871,10 +835,6 @@ since in truth I see light, I hear noise, I feel heat. But it will be said that
 these phenomena are false and that I am dreaming. Let it be so; still it
 is at least quite certain that it seems to me that I see light, that I hear
 noise and that I feel heat. That cannot be false; properly speaking it is
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-11
 
@@ -966,10 +926,6 @@ same wax, if it is present, and not that we simply judge that it is the insensib
 11 entendement F., mens L.
 12 inspectio.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-12
 
 same from its having the same colour and figure. From this I should
@@ -1058,10 +1014,6 @@ inasmuch only as they are modes of thought, certainly reside [and are
 met with] in me.
 
 And in the little that I have just said, I think I have summed up all
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-13
 
@@ -1153,10 +1105,6 @@ for although I may desire evil things, or even things that never existed,
 
 mon esprit" replaces "mea cogitatio."
 16 In the Latin version "similitudinem."
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-14
 
@@ -1251,10 +1199,6 @@ only taken as certain modes of thought, I recognize amongst them no
 difference or inequality, and all appear to proceed from me in the same
 manner; but when we consider them as images, one representing one
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-15
 
 thing and the other another, it is clear that they are very different one
@@ -1345,10 +1289,6 @@ men similar to myself.
 As regards the ideas which represent to me other men or animals,
 or angels, I can however easily conceive that they might be formed by
 an admixture of the other ideas which I have of myself, of corporeal
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-16
 
@@ -1442,10 +1382,6 @@ and desire, that is to say, that something is lacking to me, and that I am
 not quite perfect, unless I had within me some idea of a Being more
 perfect than myself, in comparison with which I should recognize the
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-17
 
 deficiencies of my nature?
@@ -1537,10 +1473,6 @@ the things which are the more easy to acquire [to wit, many branches of
 knowledge of which my nature is destitute]; nor should I have deprived
 myself of any of the things contained in the idea which I form of God,
 because there are none of them which seem to me specially difficult to
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-18
 
@@ -1636,10 +1568,6 @@ is innate in me, just as the idea of myself is innate in me.
 
 And one certainly ought not to find it strange that God, in creating
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-19
 
 me, placed this idea within me to be like the mark of the workman
@@ -1725,10 +1653,6 @@ mind wholly to Him],17 I discover [in myself] no cause of error, or
 falsity; yet directly afterwards, when recurring to myself, experience
 
 I have been well accustomed these past days to detach my mind
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-20
 
@@ -1820,10 +1744,6 @@ might be yet greater and more perfect. For, to take an example, if I
 
 18 percipio.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-21
 
 consider the faculty of comprehension which I possess, I find that it is
@@ -1913,10 +1833,6 @@ act rightly and am not deceived. But if I determine to deny or affirm, I
 no longer make use as I should of my free will, and if I affirm what is
 not true, it is evident that I deceive myself; even though I judge
 according to truth, this comes about only by chance, and I do not escape
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-22
 
@@ -2009,10 +1925,6 @@ attention sufficiently to those things which I perfectly understand; and if
 
 19 perceptio.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-23
 
 I separate from these that which I only understand confusedly and with
@@ -2104,10 +2016,6 @@ existence of God would pass with me as at least as certain as I have
 ever held the truths of mathematics (which concern only numbers and
 figures) to be.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-24
 
 This indeed is not at first manifest, since it would seem to present
@@ -2197,10 +2105,6 @@ clearly and distinctly that have the power of persuading me entirely.
 And although amongst the matters which I conceive of in this way,
 some indeed are manifestly obvious to all, while others only manifest
 themselves to those who consider them closely and examine them
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-25
 
@@ -2292,10 +2196,6 @@ Meditation VI. Of the Existence of Material Things, and of the real
 
 distinction between the Soul and Body of Man.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-26
 
 Nothing further now remains but to inquire whether material things
@@ -2386,10 +2286,6 @@ and the foundations on which my belief has rested; in the next place I
 
 25 intellectionem.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-27
 
 shall examine the reasons which have since obliged me to place them in
@@ -2477,10 +2373,6 @@ think that these things which I seem to feel in sleep, proceed from
 objects outside of me, I do not see any reason why I should have this
 belief regarding objects which I seem to perceive while awake. The
 other was that being still ignorant, or rather supposing myself to be
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-28
 
@@ -2570,10 +2462,6 @@ they are perhaps not exactly what we perceive by the senses, since this
 comprehension by the senses is in many instances very obscure and
 confused; but we must at least admit that all things which I conceive in
 them clearly and distinctly, that is to say, all things which, speaking
-
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
 
 1-29
 
@@ -2666,10 +2554,6 @@ it is mind alone, and not mind and body in conjunction, that is requisite
 to a knowledge of the truth in regard to such things. Thus, although a
 star makes no larger an impression on my eye than the flame of a little
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-30
 
 candle there is yet in me no real or positive propensity impelling me to
@@ -2760,10 +2644,6 @@ prevent the nature of man so regarded from being fallacious.
 
 In order to begin this examination, then, I here say, in the first
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-31
 
 place, that there is a great difference between mind and body, inasmuch
@@ -2853,10 +2733,6 @@ case there is nothing more useful to us than to become aware that we
 27 Latin version only.
 28 spini dorsae medullam.
 
-RENE DESCARTES
-
-MEDITATIONS ON FIRST PHILOSOPHY
-
 1-32
 
 have need to drink for the conservation of our health; and the same
@@ -2926,7 +2802,5 @@ Unaltered copies of this computer text file may be freely
 distributed for personal and classroom use. Alterations to this file are
 permitted only for purposes of computer printouts, although altered
 computer text files may not circulate.
-
-RENE DESCARTES
 
 MEDITATIONS ON FIRST PHILOSOPHY33

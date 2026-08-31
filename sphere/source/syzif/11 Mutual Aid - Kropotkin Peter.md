@@ -1,4 +1,3 @@
-
 Mutual Aid
 
 In ancient Greek philosophy, kairos signifies the right time or the "moment of transition." We believe that
@@ -75,14 +74,12 @@ Bob Ostertag
 
 For more information visit www.pmpress.org/blog/kairos/
 
-Mutual Aid
 An Illuminated Factor
 of Evolution
 Peter Kropotkin
 Illustrated by N.O. Bonzo
 
 Mutual Aid: An Illuminated Factor of Evolution
-Peter Kropotkin
 Illustrated by N.O. Bonzo
 
 This edition © 2021 PM Press
@@ -958,7 +955,6 @@ are gifted to people in hospice care, exiting
 prisons, or accessing domestic violence shelters.
 
 chapter i
-Mutual Aid
 among Animals
 
 Struggle for existence.—Mutual aid—a law of Nature and chief factor of progressive evolution.—Invertebrates.—Ants and bees.—Birds: Hunting and fishing
@@ -1668,7 +1664,6 @@ foods. Collectives provide support for caretakers
 and parents through no-cost childcare.
 
 chapter ii
-Mutual Aid
 among Animals
 (continued)
 
@@ -2643,7 +2638,6 @@ their cooking and distribution to fill those needs
 and ensure that everyone has access to hot meals.
 
 chapter iii
-Mutual Aid
 among Savages
 
 Supposed war of each against all.—Tribal origin of human society.—Late
@@ -11946,15 +11940,14 @@ San Francisco, California
 www.ciis.edu/academics/graduate-programs/anthropology-and-socialchange
 
 Words of a Rebel
-Peter Kropotkin
 Translated and edited by Iain McKay
 with a Preface by Elisée Reclus
 
 ISBN: 978–1–62963–877–5
-$24.95(cid:21)320 pages
+$24.95320 pages
 
 Peter Kropotkin remains one of the best-known anarchist thinkers, and
-Words of a Rebel was his fi rst libertarian book. Published in 1885 while he
+Words of a Rebel was his first libertarian book. Published in 1885 while he
 was in a French jail for anarchist activism, this collection of articles from the
 newspaper Le Revolté sees Kropotkin criticise the failings of capitalism and
 those who seek to end it by means of its main support, the state. Instead, he
@@ -11963,16 +11956,16 @@ property and destroy the state, replacing their centralised hierarchies with
 federations of self-governing communities and workplaces.
 
 Kropotkin's instant classic included discussions themes and ideas he
-returned to repeatedly during his fi ve decades in the anarchist movement.
+returned to repeatedly during his five decades in the anarchist movement.
 Unsurprisingly, Words of a Rebel was soon translated into numerous
 languages—including Italian, Spanish, Bulgarian, Russian, and Chinese—and
-reprinted time and time again. But despite its infl uence as Kropotkin's fi rst
+reprinted time and time again. But despite its influence as Kropotkin's first
 anarchist work, it was the last to be completely translated into English.
 
 This is a new translation from the French original by Iain McKay except
 for a few chapters previously translated by Nicolas Walter. Both anarchist
 activists and writers, they are well placed to understand the assumptions
-within and infl uences on Kropotkin's revolutionary journalism. It includes
+within and influences on Kropotkin's revolutionary journalism. It includes
 all the original 1885 text along with the preface to the 1904 Italian as well
 as the preface and afterward to the 1919 Russian editions. In addition, it
 includes many articles on the labour movement written by Kropotkin for
@@ -11980,9 +11973,9 @@ Le Revolté which show how he envisioned getting from criticism to a social
 revolution. Along with a comprehensive glossary and an introduction by
 Iain McKay placing this work within the history of anarchism as well as
 indicating its relevance to radicals and revolutionaries today, this is the
-defi nitive edition of an anarchist classic.
+definitive edition of an anarchist classic.
 
-"Peter Kropotkin was a giant of socialist history whose tireless scientifi c,
+"Peter Kropotkin was a giant of socialist history whose tireless scientific,
 historical, and political scholarship and agitational writing united and fueled
 the transnational anarchist movement of the turn of the twentieth century.
 But this aristocrat turned revolutionary didn't start there. Words of a Rebel
@@ -11995,11 +11988,10 @@ years to come."
 Anarchist Education and the Modern School
 
 The Great French Revolution, 1789–1793
-Peter Kropotkin
 with an Introduction by David Berry
 
 ISBN: 978–1–62963–876–8
-$29.95(cid:21)448 pages
+$29.95448 pages
 
 The Great French Revolution, 1789–1793 is Peter Kropotkin's most substantial
 historical work. In it he presents a people's history of the world-shaking
@@ -12029,7 +12021,7 @@ well-being of all by transforming the economy from the start.
 "The French Revolution erupted out of the remnants of the old world and
 set a dynamic precedent for new centuries of resistance. Multifaceted,
 contradictory, and compelling, the French Revolution cast an enormous
-shadow that infl uenced every radical faction of 19th century politics. Peter
+shadow that influenced every radical faction of 19th century politics. Peter
 Kropotkin was perhaps the preeminent anarchist intellect of his generation,
 and so his book The Great French Revolution, 1789–1793 provides us
 with a fascinating exploration into the late 19th century anarchist vision of
@@ -12041,19 +12033,18 @@ Anarchist Education and the Modern School: A Francisco Ferrer Reader
 
 "In this classic text, Kropotkin demonstrates how even struggles that falter can
 lay the groundwork for subsequent upheavals. The French Revolution may
-have succumbed to reaction, but it also gave birth to ideas that would defi ne
+have succumbed to reaction, but it also gave birth to ideas that would define
 revolutions to come. A must-read for anyone struggling to put insurgency on
 the agenda once again."
 —AK Thompson, author of Black Bloc, White Riot
 
 Anarchism, Anarchist Communism, and
 The State: Three Essays
-Peter Kropotkin
 with an Introduction by Brian Morris
 and bibliographic notes by Iain McKay
 
 ISBN: 978–1–62963–575–0
-$14.95(cid:21)160 pages
+$14.95160 pages
 
 Amid the clashes, complexities, and political personalities of world politics
 in the late nineteenth and early twentieth centuries, Peter Kropotkin stands
@@ -12072,7 +12063,7 @@ became a founding name—anarchist communism.
 
 With a detailed and rich introduction from Brian Morris, and accompanied
 by bibliographic notes from Iain McKay, this collection contextualises and
-contemporises three of Kropotkin's most infl uential essays.
+contemporises three of Kropotkin's most influential essays.
 
 "In this collection of essays, Kropotkin excels in his grasp of the state, its
 dynamics, and the social relations out of which it emerges, dovetailed with his
@@ -12093,20 +12084,20 @@ Kropotkin: The Politics of Community
 Brian Morris
 
 ISBN: 978–1–62963–505–7
-$24.95(cid:21)320 pages
+$24.95320 pages
 
 The nineteenth century witnessed the growth of anarchist literature, which
 advocated a society based on voluntary cooperation without government
 authority. Although his classical writings on mutual aid and the philosophy
 of anarchism are still published today, Peter Kropotkin remains a neglected
-fi gure. A talented geographer and a revolutionary socialist, Kropotkin was
+figure. A talented geographer and a revolutionary socialist, Kropotkin was
 one of the most important theoreticians of the anarchist movement.
 
-In Kropotkin: The Politics of Community, Brian Morris reaffi rms with an
+In Kropotkin: The Politics of Community, Brian Morris reaffirms with an
 attitude of critical sympathy the contemporary relevance of Kropotkin as a
 political and moral philosopher and as a pioneering social ecologist. Wellresearched and wide-ranging, this volume not only presents an important
 contribution to the history of anarchism, both as a political tradition and as
-a social movement, but also off ers insightful refl ections on contemporary
+a social movement, but also off ers insightful reflections on contemporary
 debates in political theory and ecological thought. After a short biographical
 note, the book analyzes in four parts Kropotkin's writings on anarchist
 communism, agrarian socialism, and integral education; modern science
@@ -12120,7 +12111,7 @@ social anarchism and in alternatives to neoliberal doctrines.
 
 "Peter Kropotkin has been largely ignored as a utopian crackpot, but Brian
 Morris demonstrates in this wide-ranging and detailed analysis that Kropotkin
-addressed signifi cantly and perceptively the major issues of the present day."
+addressed significantly and perceptively the major issues of the present day."
 —Harold B. Barclay, author of People without Government: An Anthropology of
 Anarchy
 
@@ -12130,7 +12121,7 @@ for Adults of All Ages
 Illustrated by N.O. Bonzo
 
 ISBN: 978–1–62963–859–1
-$10.00(cid:21)24 pages
+$10.0024 pages
 
 A coloring book that brings back the whimsy and delight of the olden days,
 when more often than not it was the maiden who slayed the dragon, and
@@ -12141,7 +12132,6 @@ Illustrated by N.O. Bonzo
 
 All We Have
 is Each Other/
-Mutual Aid
 
 Yellow ink on a Black
 union-made, unionprinted shirt.
@@ -12174,16 +12164,16 @@ History
 Staughton Lynd and Andrej Grubačić
 
 ISBN: 978–1–60486–041–2
-$20.00(cid:21)300 pages
+$20.00300 pages
 
 Wobblies and Zapatistas off ers the reader an encounter between two
 generations and two traditions. Andrej Grubačić is an anarchist from the
-Balkans. Staughton Lynd is a lifelong pacifi st, infl uenced by Marxism. They
+Balkans. Staughton Lynd is a lifelong pacifist, influenced by Marxism. They
 meet in dialogue in an eff ort to bring together the anarchist and Marxist
 traditions, to discuss the writing of history by those who make it, and to
 remind us of the idea that "my country is the world." Encompassing a Left
 libertarian perspective and an emphatically activist standpoint, these
-conversations are meant to be read in the clubs and affi nity groups of the
+conversations are meant to be read in the clubs and affinity groups of the
 new Movement.
 
 The authors accompany us on a journey through modern revolutions,
@@ -12201,7 +12191,7 @@ indeed be possible.
 "There's no doubt that we've lost much of our history. It's also very clear that
 those in power in this country like it that way. Here's a book that shows us
 why. It demonstrates not only that another world is possible, but that it already
-exists, has existed, and shows an endless potential to burst through the artifi cial
+exists, has existed, and shows an endless potential to burst through the artificial
 walls and divisions that currently imprison us. An exquisite contribution to the
 literature of human freedom, and coming not a moment too soon."
 —David Graeber, author of Fragments of an Anarchist Anthropology and Direct
@@ -12220,7 +12210,7 @@ Edited by Alex Prichard, Ruth Kinna, Saku Pinta, and
 David Berry
 
 ISBN: 978–1–62963–390–9
-$26.95(cid:21)368 pages
+$26.95368 pages
 
 The history of anarchist-Marxist relations is usually told as a history of
 factionalism and division. These essays, based on original research and
@@ -12233,7 +12223,7 @@ formation, the overlaps and creative tensions that shaped left-libertarian
 theory and practice, and the stumbling blocks to movement cooperation.
 Bringing together specialists working from a range of political perspectives,
 the book charts a history of radical twentieth-century socialism, and opens
-new vistas for research in the twenty-fi rst. Contributors examine the
+new vistas for research in the twenty-first. Contributors examine the
 political and social thought of a number of leading socialists—Marx, Morris,
 Sorel, Gramsci, Guérin, C.L.R. James, Hardt and Negri—and key movements
 including the Situationist International, Socialisme ou Barbarie and Council
@@ -12271,10 +12261,10 @@ Trantraal, and Ashley E. Marais, and with a Foreword by
 Robin D.G. Kelley
 
 ISBN: 978–1–62963–835–5
-$20.00(cid:21)168 pages
+$20.00168 pages
 
 Drawn by South African political cartoonists the Trantraal brothers and
-Ashley Marais, Crossroads: I Live Where I Like is a graphic nonfi ction history
+Ashley Marais, Crossroads: I Live Where I Like is a graphic nonfiction history
 of women-led movements at the forefront of the struggle for land, housing,
 water, education, and safety in Cape Town over half a century. Drawing on
 over sixty life narratives, it tells the story of women who built and defended
@@ -12283,7 +12273,7 @@ apartheid bulldozers in Cape Town. The story follows women's organized
 resistance from the peak of apartheid in the 1970s to ongoing struggles
 for decent shelter today. Importantly, this account was workshopped with
 contemporary housing activists and women's collectives who chose the
-most urgent and ongoing themes they felt spoke to and clarifi ed challenges
+most urgent and ongoing themes they felt spoke to and clarified challenges
 against segregation, racism, violence, and patriarchy standing between the
 legacy of the colonial and apartheid past and a future of freedom still being
 fought for.
@@ -12291,7 +12281,7 @@ fought for.
 Presenting dramatic visual representations of many personalities and
 moments in the daily life of this township, the book presents a thoughtful
 and thorough chronology, using archival newspapers, posters, photography,
-pamphlets, and newsletters to further illustrate the signifi cance of
+pamphlets, and newsletters to further illustrate the significance of
 the struggles at Crossroads for the rest of the city and beyond. This
 collaboration has produced a beautiful, captivating, accessible, forgotten,
 and in many ways uncomfortable history of Cape Town that has yet to be
@@ -12299,7 +12289,7 @@ acknowledged.
 
 "Crossroads is, quite simply, beautiful. It is intellectual and appealing and
 everything one could hope for from this kind of project. It is a meaningful
-engagement with a deeply troubling and enormously signifi cant past. Not only
+engagement with a deeply troubling and enormously significant past. Not only
 does it weave text and images together to their best eff ect, but this is also one
 of the most insightful studies of urban history and social movements in any
 medium."
@@ -12320,7 +12310,7 @@ Silvia Federici
 with a Foreword by Peter Linebaugh
 
 ISBN: 978–1–62963–569–9
-$19.95(cid:21)240 pages
+$19.95240 pages
 
 Silvia Federici is one of the most important contemporary theorists of
 capitalism and feminist movements. In this collection of her work spanning
@@ -12360,7 +12350,7 @@ Dylan Eldredge Fitzwater
 with a Foreword by John P. Clark
 
 ISBN: 978–1–62963–580–4
-$19.95(cid:21)224 pages
+$19.95224 pages
 
 Following the Zapatista uprising on New Year's Day 1994, the EZLN
 communities of Chiapas began the slow process of creating a system of
@@ -12371,7 +12361,7 @@ language of Tsotsil, a Mayan language indigenous to the highland Zapatista
 communities of Chiapas.
 
 The words "Freedom," "Justice," and "Democracy" emblazoned on the
-Zapatista fl ags are only approximations of the aspirations articulated in the
+Zapatista flags are only approximations of the aspirations articulated in the
 six indigenous languages spoken by the Zapatista communities. They are
 rough translations of concepts such as ichbail ta muk' or "mutual recognition
 and respect among equal persons or peoples," a'mtel or "collective work
@@ -12407,22 +12397,22 @@ Havin Guneser with an Introduction by Andrej Grubačić
 and Interview by Sasha Lilley
 
 ISBN: 978–1–62963–781–5
-$15.95(cid:21)192 pages
+$15.95192 pages
 
 The Revolution in Rojava captured the imagination of the Left sparking a
 worldwide interest in the Kurdish Freedom Movement. The Art of Freedom
-demonstrates that this explosive movement is fi rmly rooted in several
+demonstrates that this explosive movement is firmly rooted in several
 decades of organized struggle.
 
 In 2018, one of the most important spokespersons for the struggle of
 Kurdish Freedom, Havin Guneser, held three groundbreaking seminars on
 the historical background and guiding ideology of the movement. Much to
 the chagrin of career academics, the theoretical foundation of the Kurdish
-Freedom Movement is far too fl uid and dynamic to be neatly stuff ed into
-an ivory-tower fi ling cabinet. A vital introduction to the Kurdish struggle,
-The Art of Freedom is the fi rst English-language book to deliver a distillation
+Freedom Movement is far too fluid and dynamic to be neatly stuff ed into
+an ivory-tower filing cabinet. A vital introduction to the Kurdish struggle,
+The Art of Freedom is the first English-language book to deliver a distillation
 of the ideas and sensibilities that gave rise to the most important political
-event of the twenty-fi rst century.
+event of the twenty-first century.
 
 The book is broken into three sections: "Critique and Self-Critique: The
 rise of the Kurdish freedom movement from the rubbles of two world
@@ -12435,9 +12425,9 @@ the most vibrant and successful feminist movement in the Middle East.
 Against Societycide" deals with the attacks on the fabric of society and new
 concepts beyond national liberation to counter it. Centering on notions of "a
 shared homeland" and "a nation made up of nations," these rousing ideas
-fi nd deep international resonation.
+find deep international resonation.
 
-Havin Guneser has provided an expansive defi nition of freedom and
+Havin Guneser has provided an expansive definition of freedom and
 democracy and a road map to help usher in a new era of struggle against
 capitalism, imperialism, and the State.
 

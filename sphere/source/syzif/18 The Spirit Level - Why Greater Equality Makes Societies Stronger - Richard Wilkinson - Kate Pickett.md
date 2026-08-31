@@ -1,17 +1,9 @@
 E
 
-I
-
 THE
 
 SPIRIT
 l E E L
-
-D
-
-D
-
-I
 
 RICHARD WILKINSON
 AND KATE PICKETT
@@ -185,8 +177,6 @@ poor person would diminish the rich person's happiness only slightly, they
 
 v
 
-THE SPIRIT LEVEL
-
 argue, but greatly increase the happiness of the poor person. Others ground
 their arguments in terms of hypothetical consent. John Rawls defends
 redistribution on the grounds that most people would be in favor of it if they
@@ -232,8 +222,6 @@ benefits of the typical GM worker at the time. In 2005, the CEO of Wal
 Mart-by then the largest U.S. company-took home 900 times the pay and
 benefits of the typical Wal-Mart worker.
 
-VI
-
 FOREWORD
 
 What explains this trajectory? Have top executives become greedier?
@@ -276,10 +264,6 @@ million per film. Movie studios and baseball teams find it profitable to pay
 these breathtaking sums because they're still relatively small compared to
 the money these stars bring in and the profits they generate. Today's big
 companies are paying their CEOs mammoth sums for much the same reason.
-
-VII
-
-THE SPIRIT LEVEL
 
 In the world of finance, the numbers are yet greater. Top investment
 bankers and traders take horne even more than CEOs or most Hollywood
@@ -325,8 +309,6 @@ so is a vital one for the health of our society.
 Berkeley, California
 July 2009
 
-VIII
-
 Preface
 
 People usually exaggerate the importance of their own work and
@@ -360,8 +342,6 @@ and peer-reviewed research reports have been published in academic,
 scientific journals.
 
 lX
-
-THE SPIRIT LEVEL
 
 This does not mean that there is no guesswork. Results always
 have to be interpreted, but there are usually good reasons for favour
@@ -403,8 +383,6 @@ strong views on rival theories in particle physics. But they do have
 views on how society works. Social theories are partly theories about
 ourselves; indeed, they might almost be regarded as part of our self
 awareness or self-consciousness of societies. While natural scientists
-
-X
 
 PREFACE
 
@@ -512,8 +490,6 @@ that the health or social outcome becomes more common in more
 
 Xlll
 
-THE SPIRIT LEVEL
-
 unequal societies. This pattern tends to occur with problems that we
 think of as bad, such as violence:
 
@@ -533,8 +509,6 @@ other important influences on the outcome. It may not mean that
 inequality is not a powerful influence, simply that other factors
 matter as well:
 
-XIV
-
 NOTE ON GRAPHS
 
 y-axis
@@ -553,8 +527,6 @@ equalitytrust.org. uk
 
 X-aXIS
 
-XV
-
 PART ONE
 
 Material Success,
@@ -566,8 +538,6 @@ CUT •.• I LOVE
 THIS COUNTR'-1!
 ... BUT WHY \S lT
 SUCH A DUMP?!
-
-I
 
 The end of an era
 
@@ -600,8 +570,6 @@ Research from the Harwood Institute for Public Innovation
 that people feel that 'materialism' somehow comes between them
 and the satisfaction of their social needs. A report entitled Yearning
 for Balance, based on a nationwide survey of Americans, concluded
-
-THE SPIRIT LEVEL
 
 that they were 'deeply ambivalent about wealth and material gain'. 1*
 A large majority of people wanted society to 'move away from greed
@@ -684,8 +652,6 @@ more. And, for the first time in history, the poor are - on average -
 fatter than the rich. Economic growth, for so long the great engine
 of progress, has, in the rich countries, largely finished its work. Not
 only have measures of wellbeing and happiness ceased to rise with
-
-THE SPIRIT LEVEL
 
 economic growth but, as affluent societies have grown richer, there
 have been long-term rises in rates of anxiety, depression and numer
@@ -950,8 +916,6 @@ National income per person($)
 
 .1 Only in its early stages does economic development boost life expectancy. 2
 
-THE SPIRIT LEVEL
-
 is a point made strongly by the economist, Richard Layard, in his
 book on happiness. 3 Figures on happiness in different countries are
 probably strongly affected by culture. In some societies not saying
@@ -1122,11 +1086,7 @@ Bulgaria•
 
 JOOOO
 
-National income per person($)
-
 .2 Happiness and average incomes (data for UK unavailable).5
-
-THE SPIRIT LEVEL
 
 more loaves don't particularly help you and might become a
 nuisance as they go stale.
@@ -1207,8 +1167,6 @@ across both rich and poor countries as in Figure r.r, look just at
 
 I I
 
-THE SPIRIT LEVEL
-
 the richest countries. Figure r.3 shows just the rich countries and
 confirms that among them some countries can be almost twice as
 rich as others without any benefit to life expectancy. Yet within
@@ -1255,7 +1213,7 @@ Germany •• UK • Ncthrr!J nds
 
 • Smgaporr
 
-• Fi nhtnd
+• Finhtnd
 
 Ireland •
 
@@ -1271,7 +1229,6 @@ Ireland •
 3 5 000
 
 25 000
-National income per person($)
 
 )0000
 
@@ -1401,8 +1358,6 @@ social ladder and the unhealthy end up at the bottom.
 
 This issue will be resolved in the next chapter. We shall see
 
-THE SPIRIT LEVEL
-
 whether compressing, or stretching out, the income differences in a
 society matters. Do more and less equal societies suffer the same
 overall burden of health and social problems?
@@ -1460,7 +1415,6 @@ Finland
 Norwa y
 Swede n
 Denmark
-Belgium
 Austri a
 German y
 Netherland s
@@ -1501,8 +1455,6 @@ measures include one called the Gini coefficient. It measures in
 equality across the whole society rather than simply comparing the
 extremes. If all income went to one person (maximum inequality)
 and everyone else got nothing, the Gini coefficient would be equal
-
-THE SPIRIT LEVEL
 
 to r. If income was shared equally and everyone got exactly the same
 (perfect equality), the Gini would equal o. The lower its value, the
@@ -1621,8 +1573,6 @@ Low
 
 • J:1pan
 
-THE SPIRIT LEVEL
-
 Income inequality
 
 High
@@ -1651,8 +1601,6 @@ problems is much higher in more unequal societies.
 
 POVERTY OR INEQUALITY?
 
-Worse
-
 •USA
 
 •Portugal
@@ -1673,8 +1621,6 @@ Italy•
 ~ustria
 •Gc:rma:y •Canad:Dc:nmark
 
-Belgium
-
 Finland •
 
 •
@@ -1687,8 +1633,6 @@ Switzerland •
 Norway •
 
 Better L----,----------,---------,----------,---------,~
-
-National income per person($)
 
 .3 Health and social problems are only weakly related to national
 average income among rich countries.
@@ -1711,10 +1655,6 @@ data for ten different health and social problems is so closely related
 to inequality is that combining them tends to emphasize what they
 have in common and downplays what they do not. In Chapters
 4-12 we will examine whether each problem- taken on its own- is
-
-THE SPIRIT LEVEL
-
-Worse
 
 •MS
 
@@ -1746,8 +1686,6 @@ M l •
 
 MO •
 
-Better
-
 Low
 
 •l A
@@ -1762,21 +1700,13 @@ MN
 
 • MA
 
-Income inequality
-
 NY •
 
-High
-
 .4 Health and social problems are related to inequality in US states.
-
-Worse
 
 •MS
 
 •LA
-
-• AL
 
 AR•
 
@@ -1809,8 +1739,6 @@ KS•
 WY•
 
 •NE
-
-Better
 
 SD •
 
@@ -1846,8 +1774,6 @@ MN•
 
 •NH
 
-National income per person($)
-
 .5 Health and social problems are only weakly related to average
 income in US states.
 
@@ -1873,8 +1799,6 @@ covering many different aspects of child wellbeing. (We removed the
 measure of child relative poverty from it because it is, by definition,
 closely related to inequality.) .6 shows that child wellbeing is
 
-Better
-
 • Sweden
 
 • Netherlands
@@ -1888,18 +1812,11 @@ USA
 • New Zea land
 
 Worse ' - , - - - - - - - - - - - - - - - - - - - - - - - - - - - . '
-High
 
 Low
 
-Income inequality
-
 .6 The UNICEF index of child wellbeing in rich countries is
 related to inequality.
-
-Better
-
-THE SPIRIT LEVEL
 
 Sweden•
 
@@ -1921,7 +1838,6 @@ Denmark•
 
 Italy•
 
-Belgium
 •
 
 •Canada
@@ -1943,8 +1859,6 @@ oUK
 •USA
 
 Worse L - - - - - - , - - - - - , - - - - - - - , - - - - - - - - - - , - - - - - - - - , - '
-
-National income per person($)
 
 .7 The UNICEF index of child wellbeing is not related to Gross
 National Income per head in rich countries.
@@ -2010,8 +1924,6 @@ stigma of apparent poverty.
 
 However, just as the gradient in health ran right across society
 from top to bottom, the pressures of inequality and of wanting to
-
-THE SPIRIT LEVEL
 
 keep up are not confined to a small minority who are poor. Instead,
 the effects are - as we shall see - widespread in the population.
@@ -2093,8 +2005,6 @@ substantially. Some had calculated how much inequality there was in
 local neighbourhoods and looked to see if it was related to average
 death rates in those neighbourhoods. Others had used whole towns
 
-THE SPIRIT LEVEL
-
 and cities as the units in which inequality and health were measured.
 Still others had looked at regions and states, or done international
 studies comparing whole countries. When we reviewed all this
@@ -2175,8 +2085,6 @@ standards of health, and of other important outcomes which we
 shall discuss in later chapters, are substantially determined by the
 amount of inequality in a society. If you want to know why one
 country does better or worse than another, the first thing to look
-
-THE SPIRIT LEVEL
 
 at is the extent of inequality. There is not one policy for reduc
 ing inequality in health or the educational performance of school
@@ -2289,8 +2197,6 @@ found in a study recorded against the date it was undertaken. The
 rising trend across so many studies is unmistakable. Whether she
 looked at college students or at children, Twenge found the same
 
-THE SPIRIT LEVEL
-
 Men
 
 •
@@ -2311,8 +2217,6 @@ Men
 •
 
 •
-
-I
 
 •
 
@@ -2417,8 +2321,6 @@ the 1950s.
 
 This evidence comes from the administration of standardized
 
-HOW INEQUALITY GETS UNDER THE SKIN
-
 anxiety measures to samples of the population. It cannot be ex
 plained away by saying that people have become more aware of
 anxiety. The worsening trend also fits what we know has been
@@ -2453,8 +2355,6 @@ sion seem to start well before the increases in inequality which in
 many countries took place during the last quarter of the twentieth
 century. (It is possible, however, that the trends between the 1970s
 and 1990s may have been aggravated by increased inequality.)
-
-THE SPIRIT LEVEL
 
 SELF-ESTEEM AND SOCIAL
 INSECURITY
@@ -2495,8 +2395,6 @@ self-esteem went with positive outcomes and was associated with
 happiness, confidence, being able to accept criticism, an ability to
 make friends, and so on. But as well as positive outcomes, studies
 
-HOW INEQUALITY GETS UNDER THE SKIN
-
 repeatedly found that there was another group who scored well on
 self-esteem measures. They were people who showed tendencies to
 violence, to racism, who were insensitive to others and were bad at
@@ -2534,8 +2432,6 @@ Both are caused by an increase in what has been called 'social
 evaluative threat'. There are now good pointers to the main sources
 of stress in modern societies. As living with high levels of stress is
 now recognized as harmful to health, researchers have spent a lot of
-
-THE SPIRIT LEVEL
 
 time trying to understand both how the body responds to stress and
 what the most important sources of stress are in society at large.
@@ -2576,8 +2472,6 @@ negative social comparison such as scoring worse than someone else,
 or having your performance videoed or recorded, so creating the
 potential for later evaluation. The highest cortisol responses came
 
-HOW INEQUALITY GETS UNDER THE SKIN
-
 when a social evaluative threat was combined with a task in which
 participants could not avoid failure - for instance because the task
 was designed to be impossible, or because there was too little time,
@@ -2616,8 +2510,6 @@ you. If, in contrast, we lack friends and feel avoided by others, then
 few of us are thick-skinned enough not to fall prey to self-doubts, to
 worries that people find us unattractive and boring, that they think
 we are stupid or socially inept.
-
-THE SPIRIT LEVEL
 
 PRIDE, SHAME AND STATUS
 
@@ -2658,8 +2550,6 @@ looked down on and disrespected. By playing on our fears of being
 seen as of less worth, advertisers may even contribute to the level of
 violence in a society.
 
-HOW INEQUALITY GETS UNDER THE SKIN
-
 It was Thomas Scheff, emeritus professor of sociology at the
 University of California, Santa Barbara, who said that shame was
 the social emotion. 17 He meant almost exactly what Dickerson and
@@ -2699,8 +2589,6 @@ consciousness - when her patients gave an embarrassed laugh or
 hesitated at particular points while speaking in a way suggesting
 slight nervousness. 18
 
-THE SPIRIT LEVEL
-
 FROM COMMUNITY
 TO MASS SOCIETY
 
@@ -2738,8 +2626,6 @@ whatever, and constantly trying to manage the impressions we make.
 And at the core of our interactions with strangers is our concern at
 the social judgements and evaluations they might make: how do they
 rate us, did we give a good account of ourselves? This vulnerability
-
-HOW INEQUALITY GETS UNDER THE SKIN
 
 is part of the modern psychological condition and feeds directly into
 consumerism.
@@ -2780,8 +2666,6 @@ social position as a more important feature of a person's identity.
 Between strangers it may often be the dominant feature. As Ralph
 Waldo Emerson, the nineteenth-century American philosopher, said,
 
-THE SPIRIT LEVEL
-
 ''Tis very certain that each man carries in his eye the exact indi
 cation of his rank in the immense scale of men, and we are always
 learning to read it.' 19 Indeed, psychological experiments suggest that
@@ -2819,8 +2703,6 @@ evidence of the more self-serving pattern of attributions common in
 the USA. In Japan people tended to pass their successes off as if they
 were more a reflection of luck than of judgement, while suggest
 ing their failures are probably attributable to their own lack of
-
-HOW INEQUALITY GETS UNDER THE SKIN
 
 ability. This Japanese pattern was also found in Taiwan and China.
 Rather than getting too caught up in psychological terminology,
@@ -2897,8 +2779,6 @@ was what seemed like the complete breakdown of civilization in
 the city. There were numerous arrests and shoot-outs throughout
 the week following the hurricane. Television news screens showed
 desperate residents begging for help, for baby food, for medicine,
-
-THE SPIRIT LEVEL
 
 and then switched to images of troops, cruising the flooded streets in
 boats - not evacuating people, not bringing them supplies, but, fully
@@ -2984,8 +2864,6 @@ Native Americans from the liberty and equality enjoyed by other
 Americans.23 Slavery, he thought, could only be maintained because
 African-Americans were viewed as 'other', so much so that 'the
 
-THE SPIRIT LEVEL
-
 European is to other races what man himself is to the animals'
 (p. 3 71 ). Empathy is only felt for those we view as equals, 'the same
 feeling for one another does not exist between the different classes'
@@ -3066,16 +2944,11 @@ Greece •
 • Ponugal
 
 0 ~---------------------------------------------,~
-High
 
 Low
 
-Income inequality
-
 .1 The percentage of people agreeing that 'most people can be
 trusted' is higher in more equal countries.
-
-COMMUNITY LIFE AND SOCIAL RELATIONS
 
 • NO
 
@@ -3090,10 +2963,6 @@ Low
 • A L
 
 •M S
-
-High
-
-Income inequality
 
 .2 In more equal states more people agree that 'most people can
 be trusted'. (Data available for only forty-one US states.)
@@ -3116,8 +2985,6 @@ levels of inequality.
 
 The data on trust within the USA, shown in .2, are taken
 from the federal government's General Social Survey, which has
-
-THE SPIRIT LEVEL
 
 been monitoring social change in America for more than a quarter of
 a century.24 In this survey, just as in the international surveys, people
@@ -3157,8 +3024,6 @@ community life.25 He says:
 Community and equality are mutually reinforcing ... Social capital and
 
 economic equality moved in tandem through most of the twentieth
-
-COMMUNITY LIFE AND SOCIAL RELATIONS
 
 century. In terms of the distribution of wealth and income, America in the
 
@@ -3207,8 +3072,6 @@ not thrive in an unequal world' and that income inequality is the
 of unemployment, inflation or economic growthP It is not average
 levels of economic wellbeing that create trust, but economic equality.
 Uslaner's graph showing that trust has declined in the USA during a
-
-THE SPIRIT LEVEL
 
 6o
 
@@ -3263,8 +3126,6 @@ order.
 
 Trust affects the wellbeing of individuals, as well as the wellbeing
 
-COMMUNITY LIFE AND SOCIAL RELATIONS
-
 of civic society. High levels of trust mean that people feel secure,
 they have less to worry about, they see others as co-operative rather
 than competitive. A number of convincing studies in the USA have
@@ -3303,8 +3164,6 @@ are vehicles for the 'urban jungle', not the real thing.
 Not only did the popularity of SUVs suggest a preoccupation with
 looking tough, it also reflected growing mistrust, and the need to feel
 safe from others. Josh Lauer, in his paper, 'Driven to extremes',
-
-THE SPIRIT LEVEL
 
 asked why military ruggedness became prized above speed or sleek
 ness, and what the rise of the SUV said about American society. 32
@@ -3346,8 +3205,6 @@ measures for each US state and relate them to state levels of income
 
 ss
 
-High
-
 "'
 
 "' a s
@@ -3356,8 +3213,6 @@ High
 ~
 :><
 j
-
-COMMUNITY LIFE AND SOCIAL RELATIONS
 
 •MD
 
@@ -3368,8 +3223,6 @@ VT•
 WA• • CO
 
 •DE
-
-• AK
 
 • CT
 
@@ -3384,8 +3237,6 @@ ME •
 MO t VA
 
 JL•
-
-NY •
 
 IN •
 
@@ -3416,11 +3267,8 @@ WV•
 •M S
 
 Low ~------------------------------------------------~
-High
 
 Low
-
-Income inequality
 
 ·4 Women's status and inequality in US states.
 
@@ -3445,10 +3293,6 @@ inequality; Italy also has worse women's status than expected, and
 Sweden does better. As with the scattering of points on the American
 graph above, this shows that other factors are also influencing
 
-THE SPIRIT LEVEL
-
-High
-
 • Sweden
 
 •Denmark
@@ -3458,10 +3302,6 @@ High
 Low ~-------------------------------------------,----~
 
 Low
-
-High
-
-Income inequality
 
 ·5 Women's status and inequality in rich countries.
 
@@ -3485,8 +3325,6 @@ to poorer countries. The United Nations' target for spending on
 foreign development aid is 0.7 per cent of Gross National Income.
 
 6o
-
-COMMUNITY LIFE AND SOCIAL RELATIONS
 
 I.O
 
@@ -3517,10 +3355,6 @@ d: 0.2
 
 Low
 
-High
-
-Income inequality
-
 .6 Spending on foreign aid and inequality in rich countries.
 
 Only Norway, Sweden, Denmark and the Netherlands meet that
@@ -3541,8 +3375,6 @@ connected to income inequality, but of course showing a correlation
 is not the same thing as showing causality.
 
 There are several reasons why we believe that equality is the
-
-THE SPIRIT LEVEL
 
 precondition for greater trust (although almost certainly there is
 a feedback loop between the two). One factor is the strength of
@@ -3642,8 +3474,6 @@ genetic vulnerability may underlie some mental illness, this can't by
 itself explain the huge rises in illness in recent decades - our genes
 can't change that fast.
 
-THE SPIRIT LEVEL
-
 APPLES AND ORANGES?
 
 Can we really compare levels of mental illness in different countries?
@@ -3699,11 +3529,8 @@ OS 15.0 1
 ~ 10.0
 
 5·0 ' - r - - - - - - - - - - - - - - - - - - - - - - - - - - - , - '
-High
 
 Low
-
-Income inequality
 
 .I More people suffer from mental illnesses in more unequal
 countries.
@@ -3727,8 +3554,6 @@ percentage of people with mental illness in different countries.
 For our nine countries with data from the WHO surveys, we can
 also look at sub-types of mental illness, specifically anxiety dis
 orders, mood disorders, impulse-control disorders and addictions, as
-
-THE SPIRIT LEVEL
 
 well as a measure of severe mental illness. Anxiety disorders,
 impulse-control disorders and severe illness are all strongly corre
@@ -3832,8 +3657,6 @@ ruining extended stretches of our lives'. When we fail to maintain our
 position in the social hierarchy we are 'condemned to consider the
 successful with bitterness and ourselves with shame'. 55
 
-THE SPIRIT LEVEL
-
 Economist Robert Frank observes the same phenomenon and calls
 it 'luxury fever' .56 As inequality grows and the super-rich at the top
 spend more and more on luxury goods, the desire for such things
@@ -3871,8 +3694,6 @@ unequal states. 58
 
 MENTAL HEALTH AND DRUG USE
 
-High
-
 • Australia
 
 USA
@@ -3882,11 +3703,8 @@ USA
 • Sw eden
 
 Low ~---------------------------------------------,~
-High
 
 Low
-
-Income inequality
 
 . 3 The use of illegal drugs is more common in more unequal
 countries.
@@ -3908,8 +3726,6 @@ housed them for a while in individual cages.59 They next housed the
 animals in groups of four and observed the social hierarchies which
 developed in each group, noting which animals were dominant and
 which subordinate. They scanned the monkey's brains before and
-
-THE SPIRIT LEVEL
 
 after they were put into groups. Next, they taught the monkeys that
 they could administer cocaine to themselves by pressing a lever -
@@ -4008,8 +3824,6 @@ ill-health - low social status has a clear impact on physical health,
 and not just for people at the very bottom of the social hierarchy. As
 well as highlighting the importance of social status, this is the other
 
-THE SPIRIT LEVEL
-
 important message from the Whitehall studies. There is a social
 gradient in health running right across society, and where we are
 placed in relation to other people matters; those above us have better
@@ -4052,8 +3866,6 @@ relationships with their intimate partners.73
 
 Social status and social integration are now well established as
 
-PHYSICAL HEALTH AND LIFE EXPECTANCY
-
 important determinants of population health and, increasingly,
 researchers are also recognizing that stress in early life, in the womb
 as well as in infancy and early childhood, has an important influence
@@ -4092,8 +3904,6 @@ causes as well. Something about these neighbourhoods seemed to be
 affecting both health and violence.
 
 In Chapter 4 we showed how different developed countries and
-
-THE SPIRIT LEVEL
 
 •
 
@@ -4171,8 +3981,6 @@ rates in thirty-nine states in which the General Social Surveys had
 been conducted in the late 198os.79 These surveys allowed them to
 count how many people in each state were members of voluntary
 
-PHYSICAL HEALTH AND LIFE EXPECTANCY
-
 organizations, such as church groups and unions. This measure of
 group membership turned out to be a strong predictor of deaths
 from all causes combined, as well as deaths from coronary heart dis
@@ -4212,8 +4020,6 @@ Greece, where average income is not much more than half that of
 the USA. Whereas America spends about $6,ooo per person per
 year on health care, Greece spends less than $3,000. This is in real
 terms, after taking into account the different costs of medical care.
-
-THE SPIRIT LEVEL
 
 And Greece has six times fewer high-tech scanners per person than
 the USA.
@@ -4290,8 +4096,6 @@ countries (currencies converted to reflect purchasing power).
 
 So
 
-PHYSICAL HEALTH AND LIFE EXPECTANCY
-
 shows that spending on health care and the availability of high-tech
 medical care are not related to population health. .2 shows
 that, in rich countries, there is no relationship between the amount
@@ -4335,17 +4139,11 @@ the lowest and highest social class groups was 7·3 years for men and
 
 8r
 
-THE SPIRIT LEVEL
-
 •Sweden
 
 •Jrda nd
 
 Low
-
-High
-
-Income inequality
 
 .3 Life expectancy is related to inequality in rich countries.
 
@@ -4370,15 +4168,9 @@ Finland•
 
 Low
 
-Income inequality
-
 Singapore•
 
-High
-
 .4 Infant mortality is related to inequality in rich countries.
-
-PHYSICAL HEALTH AND LIFE EXPECTANCY
 
 HI•
 
@@ -4396,8 +4188,6 @@ NH •
 
 • OR
 
-• MA
-
 CA • • Cf
 
 Rl•
@@ -4406,13 +4196,9 @@ NY•
 
 AZ •
 
-• NJ
-
 NM•
 
 • FL
-
-• AK
 
 D E•
 
@@ -4424,13 +4210,7 @@ M l •
 
 • OH
 
-MO •
-
-• NV
-
 • NC
-
-• AR
 
 • GA
 •
@@ -4441,17 +4221,11 @@ TN
 
 SC •
 
-• AL
-
 • MS
 
 8o
 
 Low
-
-High
-
-Income inequality
 
 .5 Life expectancy is related to inequality in US states.
 
@@ -4463,11 +4237,7 @@ SC •
 
 • \Y/V
 
-• AL
-
 • GA
-
-MO •
 
 NC •
 
@@ -4475,14 +4245,10 @@ Ml•
 
 • OH
 
-• AR
-
 • OK
 
 MD•• MT
 HI•
-
-• KY
 
 DE•
 
@@ -4493,8 +4259,6 @@ DE•
 • WI
 
 • AK liT •
-
-MN •
 
 lA•
 
@@ -4512,23 +4276,9 @@ NM•
 
 • TX
 
-• CT
-
-NY •
-
-• NJ
-
 CA•
 
-• MA
-
-Income inequality
-
-High
-
 .6 Infant mortality is related to inequality in US states.
-
-THE SPIRIT LEVEL
 
 7 years for women. 84 Studies in the USA often report even larger dif
 ferences, such as a 28-year difference in life expectancy at age r6
@@ -4570,8 +4320,6 @@ whereas in the decades before, between and after, life expectancy
 increased by between r and 4 years. Although the nation's
 nutritional status improved with rationing in the Second World War,
 
-PHYSICAL HEALTH AND LIFE EXPECTANCY
-
 this was not true for the First World War, and material living stan
 dards declined during both wars. However, both wartimes were
 characterized by full employment and considerably narrower income
@@ -4609,8 +4357,6 @@ and protective, but when we go on worrying for weeks or months
 and stress becomes chronic, then our bodies are in a constant state of
 anticipation of some challenge or threat, and all those fight-or-flight
 responses become damaging.
-
-THE SPIRIT LEVEL
 
 The human body is superb at responding to the acute stress of a physical challenge, such as chasing
 down prey or escaping a predator. The circulatory, nervous and immune systems are mobilized
@@ -4674,8 +4420,6 @@ our immune system, chronic continuing stress suppresses immunity
 and can lead to growth failure in children, ovulation failure in
 women, erectile dysfunction in men and digestive problems for all of
 
-PHYSICAL HEALTH AND LIFE EXPECTANCY
-
 us. Neurons in some areas of the brain are damaged and cognitive
 function declines. We have trouble sleeping. Chronic stress wears us
 down and wears us out.
@@ -4734,8 +4478,6 @@ keeping track in the nineteenth century. 101
 Apart from the health consequences, obesity reduces emotional
 
 *BMI = weight in kg!(height in m)2
-
-THE SPIRIT LEVEL
 
 and social wellbeing: overweight and obese adults and children suffer
 terribly. A 17-year-old from Illinois, weighing 409 lb (29 stone)
@@ -4814,8 +4556,6 @@ than Japan, where only 2.4 per cent of adults are obese. Because
 these figures are for BMI, not just weight, they're not due to differ
 ences in average height.
 
-THE SPIRIT LEVEL
-
 • G rcc:cc
 
 Q,) 20
@@ -4834,11 +4574,8 @@ Q,)
 •J apan
 
 0 ~---------------------------------------------.~
-High
 
 Low
-
-Income inequality
 
 .1 More adults are obese in more unequal countries.
 
@@ -4861,8 +4598,6 @@ inequality.)
 Within the USA, there are no states with levels of adult obesity
 lower than 20 per cent. Colorado has the lowest obesity prevalence,
 
-OBESITY: WIDER INCOME GAPS, WIDER WAISTS
-
 • USA
 
 • Sw irurland
@@ -4870,8 +4605,6 @@ OBESITY: WIDER INCOME GAPS, WIDER WAISTS
 Netherlands •
 
 Low
-
-Income inequality
 
 H igh
 
@@ -4897,8 +4630,6 @@ Majid Ezzati from Harvard University School of Public Health. Professor Ezzati
 bases his calculations of the prevalence of obesity in each state on actual measures
 of height and weight.
 
-THE SPIRIT LEVEL
-
 • TX
 
 MS •
@@ -4907,29 +4638,17 @@ IL •
 
 • LA
 
-• AL
-
 VT •
-
-MN •
 
 NV •
 
 • MT
 
-• CO
-
 2 0
 
 Low
 
-Income inequality
-
-High
-
 ·3 More adults are obese in more unequal US states. 113
-
-• KY
 
 MS •
 
@@ -4951,17 +4670,7 @@ UT o
 
 Low
 
-MN •
-
-• CO
-
-Income inequality
-
-High
-
 ·4 More children are overweight in more unequal US states.
-
-OBESITY: WIDER INCOME GAPS, WIDER WAISTS
 
 relationship with inequality is even stronger for children than for
 adults.
@@ -5001,8 +4710,6 @@ weight, or under-eat and lose weight. In a study in Finland, people
 whose eating was driven by stress ate sausages, hamburgers, pizza
 and chocolate, and drank more alcohol than other people. 121
 Scientists are starting to understand how comfort eating may be a
-
-THE SPIRIT LEVEL
 
 way we cope with particular changes in our physiology when we are
 chronically stressed, changes that go with feelings of anxiety.l22
@@ -5045,8 +4752,6 @@ complicated cultural reasons - sometimes we like foods we grew
 up eating, which represent home to us, sometimes we want foods
 that represent a lifestyle we're trying to achieve. We offer food to
 other people to show that we love them, or to show that we're
-
-OBESITY: WIDER INCOME GAPS, WIDER WAISTS
 
 sophisticated, or that we can afford to be generous. Food has prob
 ably always played this role; it's the necessary component of the
@@ -5096,8 +4801,6 @@ nods off for a moment and then adds: 'ain't no hip-hop, ain't no profanity.
 The picture, the plants, the way people keep things neat here, it makes you
 feel like you're in civilization.'
 
-THE SPIRIT LEVEL
-
 A member of a Hispanic street gang eats all his meals at fast-food
 restaurants, boasting that he hasn't eaten a meal at home since he
 was r6:
@@ -5139,8 +4842,6 @@ to women, a recent survey of more than 2,ooo Human Resource
 professionals found that 93 per cent would favour a normal-weight
 job applicant over an equally qualified overweight candidate. Nearly
 
-OBESITY: WIDER INCOME GAPS, WIDER WAISTS
-
 so per cent of these professionals felt that overweight people were
 less productive; almost 3 3 per cent felt that obesity was a valid
 reason not to hire somebody; and 40 per cent felt that overweight
@@ -5181,8 +4882,6 @@ Her words are a reminder of the ways in which social class is related
 to being overweight in the developing world, where only the affluent
 can afford to be fat. In wealthy countries, it looks as if women in
 
-THE SPIRIT LEVEL
-
 higher social classes are more likely to have aspirations to thinness
 and be more able to achieve them.
 
@@ -5217,8 +4916,6 @@ type may well be contributing to the high prevalence of obesity in
 them.
 
 IOO
-
-OBESITY: WIDER INCOME GAPS, WIDER WAISTS
 
 THE EQUALITY DIET
 
@@ -5262,8 +4959,6 @@ Health and social policies for obesity treatment and prevention
 tend to focus on the individual; these policies try to educate people
 
 IOI
-
-THE SPIRIT LEVEL
 
 about the risks associated with being overweight, and try to
 coach them into better habits. But these approaches overlook the
@@ -5360,10 +5055,6 @@ Each survey gives tests in reading, mathematical and scientific
 literacy. The goal is to test how well children can apply knowledge
 and skills.
 
-THE SPIRIT LEVEL
-
-High
-
 •FinLmd
 
 • Canada
@@ -5397,14 +5088,8 @@ Low
 
 Low
 
-Income inequality
-
-High
-
 .1 Maths and literacy scores of 15-year-olds are lower m more
 unequal countries.148-9
-
-High
 
 • MN
 
@@ -5418,41 +5103,23 @@ SD •
 
 • MT
 
-• MA
-
 • lA
 
 WY •
 
 KS •
 
-• CO
-
 oOH
 
 • VA
 
-• NJ
-
-• CT
-
 liT •
-
-• AK
-
-MO •
 
 PA
 
 • I L
 
-• KY
-
-NY •
-
 ME •
-
-• NV
 
 HI •
 
@@ -5463,8 +5130,6 @@ AZ •
 GA•
 
 TN •
-
-• AR
 
 • CA
 
@@ -5502,14 +5167,10 @@ Low
 
 Low
 
-Income inequality
-
 H igh
 
 .2 Maths and literacy scores of eighth-graders are lower in more
 unequal US states.
-
-EDUCATIONAL PERFORMANCE
 
 For consistency with the data available for the US, we combine
 national average scores for reading and maths only and plot them
@@ -5534,10 +5195,6 @@ much more likely to drop out of school in more unequal states. The
 
 MS •
 
-• KY
-
-• AR
-
 WV •
 
 TN •
@@ -5547,16 +5204,6 @@ SC •
 NC •
 
 • FL
-
-• NJ
-
-• CT
-
-• MA
-
-NY •
-
-• NV
 
 IN •
 
@@ -5581,15 +5228,10 @@ e ...
 " c..
 
 ~---------------------------------------------.~
-High
 Low
-
-Income inequality
 
 .3 More children drop out of high school in more unequal US
 states.
-
-THE SPIRIT LEVEL
 
 states with the lowest drop-out rates are Alaska, Wyoming, Utah,
 Minnesota and New Hampshire, with drop-out rates around 12 per
@@ -5631,8 +5273,6 @@ these four countries, is the steepness of the social gradient - steepest
 in the USA and the UK where inequality is high, flatter in Finland
 
 ro8
-
-EDUCATIONAL PERFORMANCE
 
 34°.--------------------------------------------------,
 
@@ -5678,8 +5318,6 @@ PISA 2ooo. 152 They found that countries with a long history of wel
 fare state provision did better and, like Willms, report that countries
 with higher average scores have smaller social differences in reading
 
-THE SPIRIT LEVEL
-
 literacy. Finland and Sweden have high average reading scores and
 low levels of inequality in reading scores; Greece and Portugal
 have low average scores and a high degree of inequality in reading
@@ -5720,8 +5358,6 @@ need opportunities to play, talk and explore their world, and they
 need to be encouraged within safe limits, rather than restricted in
 
 IIO
-
-EDUCATIONAL PERFORMANCE
 
 their activities or punished. All of these things are harder for parents
 and other care-givers to provide when they are poor, or stressed, or
@@ -5766,8 +5402,6 @@ to support early childhood development. From the very start of life,
 
 I I I
 
-THE SPIRIT LEVEL
-
 some societies do more than others to promote a secure attachment
 between mother and infant through the provision of paid maternity
 leave for mothers who work. Using data on the duration of paid
@@ -5803,8 +5437,6 @@ adds up to a substantial return on government investments in such
 programmes.
 
 II2
-
-EDUCATIONAL PERFORMANCE
 
 UNEQUAL LEARNING OPPORTUNITIES
 
@@ -5846,8 +5478,6 @@ black students performed much worse when they thought their abil
 ity was being judged. Steele and Aronson labelled this effect 'stereo
 type threat' and it's now been shown that it is a general effect, which
 applies to sex differences as well as racial and ethnic differences. 165
-
-THE SPIRIT LEVEL
 
 D H igh caste
 0 Low caste
@@ -5898,8 +5528,6 @@ had got the information mixed up and that actually it was brown
 eyes that indicated superiority. The classroom situation rapidly
 reversed.
 
-EDUCATIONAL PERFORMANCE
-
 New developments in neurology provide biological explanations
 for how our learning is affected by our feelings. 167 We learn best in
 stimulating environments when we feel sure we can succeed. When
@@ -5937,8 +5565,6 @@ because becoming educated would require them to give up ways of
 being that they value. One woman tells Evans that being 'common'
 means 'knowin' 'ow to 'ave a good laugh 'cos you're not stuck up'.
 The things that the women she describes like to talk about are their
-
-THE SPIRIT LEVEL
 
 families, their health, work and ways to get money, housework,
 relationships, shopping, sex and gossip. Talking about abstract
@@ -5988,17 +5614,10 @@ G reece •
 c:
 e ...
 ~ I O ,_---------------------------------------------,~
-High
 
 Low
 
-• USA
-
 .6 Aspirations of IJ-year-olds and inequality in rich countries.
-
-Income inequality
-
-EDUCATIONAL PERFORMANCE
 
 in comparison to more unequal societies where career choices are
 dominated by rather star-struck ideas of financial success and images
@@ -6066,8 +5685,6 @@ from the fathers of their babies, their futures were bleak. Media
 commentators and members of the public were quick to condemn
 the sisters and their mother, portraying them as feckless scroungers.
 'Meet the kid sisters ... benefit bonanza' ... 'Girls' babies are the
-
-THE SPIRIT LEVEL
 
 real victims,' exclaimed the newspapers.t?0-71 Their mother blamed
 the lack of sex education in school.
@@ -6149,8 +5766,6 @@ stronger, for the I 5- I 7-year-olds.
 
 I2I
 
-THE SPIRIT LEVEL
-
 ~ 5
 Ol
 ....
@@ -6197,15 +5812,12 @@ quarter
 .1 There is a gradient in teenage birth rates by household income,
 from poorest to richest.181
 
-• USA
-
 "' ....
 Ol
 Q,)
 >-
 0"\
 ><
-I
 "' ><
 " Q,)
 
@@ -6232,10 +5844,6 @@ i:i5
 I O
 
 Low
-
-Income inequality
-
-High
 
 .2 Teenage birth rates are higher in more unequal countries. 185
 
@@ -6265,7 +5873,6 @@ teenage births in the USA, and shown that teen birth rates are
 "' ...
 "' ~ro o
 ...
-I
 "" ...
 " "' 00
 "'
@@ -6288,8 +5895,6 @@ i:i3
 
 4 0
 
-• NV
-
 D E•
 
 a MD
@@ -6297,15 +5902,11 @@ HI
 
 \YJY •
 
-• AK
-
 • NE
 
 • MT
 
 NH•
-
-MN •
 
 VT o
 
@@ -6315,13 +5916,7 @@ ME t SO
 
 Low
 
-Income inequality
-
-High
-
 Fgure 9·3 Teenage pregnancy rates are higher in more unequal US states.
-
-THE SPIRIT LEVEL
 
 highest in the most unequal, as well as the most relatively deprived
 counties. She also reported that the effect of inequality was strongest
@@ -6403,8 +5998,6 @@ imposes on life chances for young people, there seem to be additional
 reasons why teenage motherhood is sensitive to degrees of inequality
 in society.
 
-THE SPIRIT LEVEL
-
 EARLY MATURITY AND
 ABSENT FATHERS
 
@@ -6482,8 +6075,6 @@ born. The boy named by the middle sister as the father of her little
 girl denied having sex with her and demanded a paternity test. And
 the 3 8-year-old father of the oldest sister's baby already had at least
 four other children.
-
-THE SPIRIT LEVEL
 
 Sociologists Graham and McDermott discuss what has been
 learned from studies where researchers talk at length to young
@@ -6611,8 +6202,6 @@ t: c..
 t:
 -<
 
-THE SPIRIT LEVEL
-
 England
 and Wales
 
@@ -6655,8 +6244,6 @@ mothers, it is poor young men from disadvantaged neighbourhoods
 who are most likely to be both victims and perpetrators of violence.
 Why?
 
-VIOLENCE: GAINING RESPECT
-
 'IF YOU AIN'T GOT PRIDE,
 YOU GOT NOTHING. ' 201·P· 29
 
@@ -6696,8 +6283,6 @@ escalate into violent acts?
 Here the work of evolutionary psychologists Margo Wilson and
 Martin Daly helps to make sense of these patterns of violence. In
 
-THE SPIRIT LEVEL
-
 their I988 book Homicide 204 and a wealth of books, chapters and
 articles since, they use statistical, anthropological and historical
 data to show how young men have strong incentives to achieve and
@@ -6736,8 +6321,6 @@ chapters. Many similar graphs have been published by other
 researchers, for other time periods or sets of countries, including
 one covering more than fifty countries between I 970 and I 994 from
 
-VIOLENCE: GAINING RESPECT
-
 researchers at the World Bank.207• 210 A large body of evidence shows
 a clear relationship between greater inequality and higher homicide
 rates. As early as 1993, criminologists Hsieh and Pugh wrote a
@@ -6760,18 +6343,13 @@ between some countries in the first graph are very large. The USA is
 
 6o
 
-• USA
-
 • P o rtu g~1l
 
 • Japan
 
 0 L,------------------------------------------------,J
-High
 
 Low
-
-Income inequality
 
 . 2 Homicides are more common in more unequal countries.
 
@@ -6786,8 +6364,6 @@ j 8o
 ::r:
 
 6o
-
-THE SPIRIT LEVEL
 
 • LA
 
@@ -6809,11 +6385,7 @@ NC • • SC
 
 OK •
 
-MO •
-
 • \Y/V
-
-• CT
 
 2 0
 
@@ -6825,15 +6397,7 @@ NH •
 
 • ND
 
-• MA
-
 Low
-
-Income inequality
-
-NY •
-
-High
 
 .3 Homicides are more common in more unequal US states.
 
@@ -6856,8 +6420,6 @@ well established.
 In the USA, although no data were available for Wyoming, the
 relationship between inequality and homicides is still significant and
 the differences between states are almost as great as the differences
-
-VIOLENCE: GAINING RESPECT
 
 between countries. Louisiana has a murder rate of 107 per million,
 more than seven times higher than that of New Hampshire and
@@ -6897,8 +6459,6 @@ ships that we described in relation to teenage mothers in Chapter 9·
 The absence of a father may predispose some boys to a different
 reproductive strategy: shifting the balance away from long-term
 relationships and putting more emphasis on status competition.
-
-THE SPIRIT LEVEL
 
 Fathers can, of course, act as positive role models for their sons.
 Fathers can teach boys, just by being present in the family, the
@@ -6950,8 +6510,6 @@ The increased family breakdown and family stress in unequal
 societies leads to inter-generational cycles of violence, just as much
 as inter-generational cycles of teenage motherhood.
 
-VIOLENCE: GAINING RESPECT
-
 Of course it isn't just the family environment that can breed
 shame, humiliation and violence. Children experience things in their
 schools and in their neighbourhoods that influence the probability
@@ -6985,8 +6543,6 @@ Belgium •
 
 • Austri;l
 
-• USA
-
 Portuga l •
 
 No rway •
@@ -7005,15 +6561,9 @@ Finland •
 
 • Sweden
 
-Income inequality
-
-High
-
 .4 There is more conflict between children in more unequal
 countries (based on percentages reporting fighting, bullying and finding
 peers not kind and helpful).
-
-THE SPIRIT LEVEL
 
 recognized for a long time. In the r 94os, sociologists of the Chicago
 School described how some neighbourhoods had persistent reputa
@@ -7088,8 +6638,6 @@ c::
 
 Low
 
-VIOLENCE: GAINING RESPECT
-
 WV•
 
 •LA
@@ -7111,12 +6659,7 @@ NC
 
 • MS
 
-• KY
 FL • CA
-
-• MA
-
-NY •
 
 lJT •
 
@@ -7125,8 +6668,6 @@ VT •
 ID •
 
 MT •
-
-• CO
 
 NV •
 
@@ -7141,10 +6682,6 @@ l A• MN•
 ME•
 
 SD •
-
-Income inequality
-
-High
 
 .5 In less equal states more people think they would do better
 than average in a fist fight.
@@ -7165,8 +6702,6 @@ more important, status competition increases and more people are
 deprived of access to markers of status and social success. And if
 your source of pride is your immaculate lawn, you're going to be
 more than a bit annoyed when that pride gets trampled on.
-
-THE SPIRIT LEVEL
 
 PEAKS AND TROUGHS
 
@@ -7207,8 +6742,6 @@ incomes of people at the very bottom of the income distribution. The
 distribution of income can be more stretched out over some parts of
 its range than others. A society may get more unequal because the
 poor are getting left further behind the middle, or because the rich
-
-VIOLENCE: GAINING RESPECT
 
 are pulling further ahead. And who suffers from low social status
 may also vary from one society to another. Among societies with the
@@ -7252,8 +6785,6 @@ There is no natural level of murder ... For murder rates to rise in par
 ticular places ... people have to be made to feel more worthless. Then
 
 there are more fights, more brawls, more scuffles, more bottles and more
-
-THE SPIRIT LEVEL
 
 knifes and more young men die ... These are the same young men who
 
@@ -7360,8 +6891,6 @@ Canada, West Germany and England and Wales. For example, in the
 USA burglars received average sentences of sixteen months, whereas
 in Canada the average sentence was five months. And variations in
 
-THE SPIRIT LEVEL
-
 crime rates didn't explain more than a small amount of the variation
 in rates of imprisonment when researchers looked at Australia,
 New Zealand and a number of European countries. If crime rates
@@ -7395,8 +6924,6 @@ c..
 ~ ·;::: 50
 c..
 
-• USA
-
 • Portugal
 
 Spa in • • Ca nada
@@ -7405,8 +6932,6 @@ qcrmany France
 •
 
 Austna •
-
-Belgium
 
 Swirurl.l!ld • It.ll)'
 
@@ -7418,11 +6943,8 @@ Finland
 Grcccc •
 
 20 ~------------------------------------------------~
-High
 
 Low
-
-Income inequality
 
 Figure rr.r More people are imprisoned in more unequal countries. 149
 
@@ -7431,8 +6953,6 @@ q8
 8oo
 
 6oo
-
-IMPRISONMENT AND PUNISHMENT
 
 + TX
 
@@ -7455,7 +6975,6 @@ OM I MO +
 DE +
 
 + OH +
-MD
 
 OAK
 
@@ -7492,10 +7011,7 @@ o abolished death penalty
 • retained death penalty
 
 0 ~--------------------~============~
-High
 Low
-
-Income inequality
 
 Figure I I .2 More people are imprisoned in more unequal US states. 149
 
@@ -7522,8 +7038,6 @@ sent to prison than people higher up the social scale. The rarity of
 middle-class people being imprisoned is highlighted by the fact that
 
 I49
-
-THE SPIRIT LEVEL
 
 two sociologists at California State Polytechnic thought it worth
 while to publish a research paper describing a middle-class inmate's
@@ -7562,8 +7076,6 @@ There are other indicators of this in the ways that offenders are
 treated in different penal systems. First, as Figure I I .2 shows, more
 unequal US states are more likely to retain the death penalty.
 Second, how prisoners are treated seems to differ.
-
-IMPRISONMENT AND PUNISHMENT
 
 Discussing the Netherlands, David Downes describes how a group
 of criminal lawyers, criminologists and psychiatrists came together
@@ -7609,8 +7121,6 @@ Prisoners work a forty-hour week and have access to training and
 recreational activities. Discipline is strict, with exact rules of con
 duct, but this seems to serve to maintain a calm atmosphere rather
 
-THE SPIRIT LEVEL
-
 than provoke an aggressive reaction. Prison staff are expected to act
 as moral educators and lay counsellors as well as guards.
 
@@ -7654,8 +7164,6 @@ these are facilities where prisoners are kept in solitary confinement
 for twenty-three hours out of every day. Inmates leave their cells
 only for solitary exercise or showers. Medical anthropologist Lorna
 
-IMPRISONMENT AND PUNISHMENT
-
 Rhodes, who has worked in a supermax, describes prisoners' lives
 as characterized by 'lack of movement, stimulation and social
 contact'.259 Prisoners kept in such conditions often are (or become)
@@ -7694,8 +7202,6 @@ worldwide seems to be that it doesn't work very well.261 - 4 Prison
 'official' purposes - retribution for crimes committed, deterrence, incapacitation of
 dangerous criminals and tbe rehabilitation of criminals, in fact three otber purposes
 have shaped America's rates and conditions of imprisonment. These 'unofficial'
-
-THE SPIRIT LEVEL
 
 psychiatrist James Gilligan says that the 'most effective way to
 turn a non-violent person into a violent one is to send him to
@@ -7739,8 +7245,6 @@ the dangerous criminal underclass; scapegoating - diverting attention away from
 more serious social problems (and here he singles out growing inequalities in wealth
 and income); and using the threat of the dangerous class for political gain. 256
 
-IMPRISONMENT AND PUNISHMENT
-
 less harsh environments (Sweden and Japan are reported to have
 recidivism rates between 3 5 and 40 per cent).
 
@@ -7779,8 +7283,6 @@ Our impression is that, in more equal countries and societies,
 legal and judicial systems, prosecution procedures and sentencing, as
 well as penal systems, are developed in consultation with experts -
 criminologists, lawyers, prison psychiatrists and psychologists, etc.,
-
-THE SPIRIT LEVEL
 
 and so reflect both theoretical and evidence-based considerations of
 what works to deter crime and rehabilitate offenders. In contrast,
@@ -7892,16 +7394,9 @@ social mobility over time, public spending on education, changes in
 geographical segregation, the work of sociologists on matters of
 taste and psychologists on displaced aggression, and so-called group
 
-THE SPIRIT LEVEL
-
-High
-
 Low ~----------------------------------------------~
-High
 
 Low
-
-Income inequality
 
 Figure I 2.I Social mobility is lower in more unequal countries. 149
 
@@ -7928,8 +7423,6 @@ and among children whose parents were in the top fifth for wealth,
 the top can maintain their wealth and status, those at the bottom
 
 I6o
-
-SOCIAL MOBILITY: UNEQUAL OPPORTUNITIES
 
 ""' ..,
 c
@@ -8011,8 +7504,6 @@ the spending on school education is public money. This is likely to
 have a substantial impact on social differences in access to higher
 education.
 
-THE SPIRIT LEVEL
-
 MOVING UPWARDS, MOVING OUT
 
 A third type of evidence that may confirm the correlation between
@@ -8053,8 +7544,6 @@ the ghetto and the barrio in the USA.
 Researchers on both sides of the Atlantic are clear that increased
 income inequality is responsible for increasing the segregation of rich
 
-SOCIAL MOBILITY: UNEQUAL OPPORTUNITIES
-
 and poor.281 - 3 The concentration of poor people in poor areas in
 creases all kinds of stress, deprivation and difficulty - from increased
 commuting times for those who have to leave deprived communities
@@ -8093,8 +7582,6 @@ their advantages. They pass all of this on to their children, so that
 they in turn will succeed in school and work, make good marriages,
 find high-paying jobs, etc. This is how elites become established and
 maintain their elite status.
-
-THE SPIRIT LEVEL
 
 People can use markers of distinction and class, their 'good taste',
 to maintain their position, but throughout the social hierarchy
@@ -8136,8 +7623,6 @@ pretensions and the poor taste of others.
 In the UK, for example, you can tell if someone is working class,
 middle class or upper class by whether they call their evening meal
 'tea', 'dinner' or 'supper'. By whether they call their mother 'mam',
-
-SOCIAL MOBILITY: UNEQUAL OPPORTUNITIES
 
 'mum' or 'mummy', by whether they go out to a 'do', a 'function' or
 a 'party', and so on.
@@ -8187,8 +7672,6 @@ look at you like they're disgusted ... they look at you like you're invading
 
 their area ... you know, straight away ... you feel 'I shouldn't be there'
 
-THE SPIRIT LEVEL
-
 ... it makes you not want to go out. What it is, it's a form of violence ...
 right, it's like a barrier saying 'listen low-life, don't even [voice rises with
 
@@ -8233,8 +7716,6 @@ When people react to a provocation from someone with higher
 status by redirecting their aggression on to someone of lower status,
 psychologists label it displaced aggression. 291 Examples include: the
 man who is berated by his boss and comes home and shouts at his
-
-SOCIAL MOBILITY: UNEQUAL OPPORTUNITIES
 
 wife and children; the higher degree of aggression in workplaces
 where supervisors treat workers unfairly;292 the ways in which
@@ -8289,8 +7770,6 @@ Displaced aggression among non-human primates has been
 
 labelled
 
-THE SPIRIT LEVEL
-
 explains that the image being conjured up is of someone on a racing
 bicycle, bowing to their superiors, while kicking down on those
 beneath. He was describing how animals living in strict social
@@ -8329,8 +7808,6 @@ less healthy is surprising. The probable explanation is that, through
 the eyes of the majority community, they become more aware of be
 longing to a low-status minority group and perhaps encounter more
 frequent prejudice and discrimination and have less support. That
-
-SOCIAL MOBILITY: UNEQUAL OPPORTUNITIES
 
 the psychological effects of stigma are sometimes strong enough
 to override the health benefits of material advantage tells us a lot
@@ -8377,8 +7854,6 @@ for some countries to do well on just about everything and others to
 do badly. You can predict a country's performance on one outcome
 from a knowledge of others. If - for instance - a country does badly
 
-THE SPIRIT LEVEL
-
 on health, you can predict with some confidence that it will also
 imprison a larger proportion of its population, have more teenage
 pregnancies, lower literacy scores, more obesity, worse mental
@@ -8399,23 +7874,16 @@ Figure I 3. I summarizes our findings. It is an exact copy of
 our combined Index of Health and Social Problems. This graph also
 shows that the relationship is not dependent on any particular group
 
-Worse
-
 •J apan
 
 Better ' - r - - - - - - - - - - - - - - - - - - - - - - - - - - - , r - '
-High
 
 Low
-
-Income inequality
 
 Figure I 3 . I Health and social problems are more common zn more
 unequal countries.
 
 I74
-
-DYSFUNCTIONAL SOCIETIES
 
 of countries - for instance those at either end of the distribution.
 Instead it is robust across the range of inequality found in the
@@ -8455,8 +7923,6 @@ OTHER EXPLANATIONS?
 It is clear that there is something which affects how well or badly
 societies do across a wide range of social problems, but how sure
 can we be that it is inequality? Before discussing whether inequality
-
-THE SPIRIT LEVEL
 
 plays a causal role, let us first see whether there might be any quite
 different explanations.
@@ -8499,8 +7965,6 @@ and benefits. Yet despite the differences, both countries do well - as
 their narrow income differences, but almost nothing else, would lead
 us to expect.
 
-DYSFUNCTIONAL SOCIETIES
-
 This leads us to another important point: greater equality can be
 gained either by using taxes and benefits to redistribute very unequal
 incomes or by greater equality in gross incomes before taxes and
@@ -8538,8 +8002,6 @@ account for the relationship between inequality and the higher
 frequency of health and social problems. There are two reasons for
 thinking that there might be a link. First is the idea that some ethnic
 groups are inherently less capable and more likely to have problems.
-
-THE SPIRIT LEVEL
 
 This must be rejected because it is simply an expression of racial
 prejudice. The other, more serious, possibility is that minorities often
@@ -8582,8 +8044,6 @@ that the two involve most of the same processes and should not be
 seen as alternative explanations. The prejudice which often attaches
 to ethnic divisions may increase inequality and its effects. Where
 
-DYSFUNCTIONAL SOCIETIES
-
 ethnic differences have become strongly associated with social status
 divisions, ethnic divisions may provide almost as good an indicator
 of the scale of social status differentiation as income inequality. In
@@ -8620,8 +8080,6 @@ of course these different backgrounds are important: there is no
 doubt that there are, in each case, specific historical explanations of
 why some countries, states or regions are now more or less unequal
 than others. But the prevalence of ill-health and of social problems in
-
-THE SPIRIT LEVEL
 
 those soctetles is not simply a patternless reflection of so many
 unique histories. It is instead patterned according to the amount of
@@ -8660,8 +8118,6 @@ people to say they are obvious, and then perhaps to add a little
 scornfully, that there was no need to do all that expensive work to
 tell us what we already knew. Very often, however, that sense of
 knowing only seeps in with the benefit of hindsight, after research
-
-DYSFUNCTIONAL SOCIETIES
 
 results have been made known. Try asking people to predict the
 results in advance and it is clear that all sorts of different things
@@ -8704,8 +8160,6 @@ most other developed countries.
 
 r8r
 
-THE SPIRIT LEVEL
-
 Comparisons of health in different groups of the population in
 more and less equal societies show that the benefits of greater equal
 ity are very widespread. Most recently, a study in the Journal of the
@@ -8740,8 +8194,6 @@ Lung disease Heart disease
 
 .2 Rates of illness are lower at both low and high educational
 levels in England compared to the USA. 315
-
-DYSFUNCTIONAL SOCIETIES
 
 In that comparison, England was the more equal and the healtheir
 of the two countries. But there have also been similar comparisons of
@@ -8824,8 +8276,6 @@ c..
 .lS
 ..s
 
-THE SPIRIT LEVEL
-
 ; -
 
 -
@@ -8903,11 +8353,7 @@ benefits of greater equality were largest in the poorer counties, but
 still existed even in the richest counties. In its essentials the picture is
 much like that shown in Figures 13.3 and 13.4 comparing Sweden
 
-DYSFUNCTIONAL SOCIETIES
-
 Deaths from all causes among men and women of working age
-
-High
 
 ........................
 
@@ -8954,8 +8400,6 @@ UK or USA.
 
 A question which is often asked is whether even the rich benefit
 
-THE SPIRIT LEVEL
-
 from greater equality. Perhaps, as John Donne said, 'No man is an
 Island' even from the effects of inequality. The evidence we have
 been discussing typically divides the population into three or four
@@ -8997,8 +8441,6 @@ can see how the two sets of findings are consistent. Smaller income
 
 r86
 
-DYSFUNCTIONAL SOCIETIES
-
 differences improve health for everyone, but make a bigger difference
 to the health of the poor than the rich. If smaller income differences
 lead to roughly the same percentage reduction in death rates across
@@ -9037,8 +8479,6 @@ and what is effect.
 
 The graphs we have shown have all been cross-sectional- that is,
 they have shown relationships at a particular point in time rather
-
-THE SPIRIT LEVEL
 
 than as they change in each country over time. However these cross
 sectional relationships could only keep cropping up if somehow they
@@ -9080,8 +8520,6 @@ of the social problems be caused by some other unknown factor?
 
 Weak relationships may sometimes turn out to be a mere mirage
 
-DYSFUNCTIONAL SOCIETIES
-
 reflecting the influence of some underlying factor, but that is much
 less plausible as an explanation of relationships as close as these. The
 fact that our Index is not significantly related to average incomes
@@ -9121,8 +8559,6 @@ not have a major influence on income inequality among adults.
 Nor could higher homicide rates be considered as a major cause
 of inequality even if the numbers were much higher. Nor for that
 matter could expanding prison populations lead to wider income
-
-THE SPIRIT LEVEL
 
 rather the reverse, because measures of inequality
 differences -
@@ -9165,8 +8601,6 @@ does look as if neo-liberal policies widened income differences (see
 Chapter r 6) there was no government intention to lower social
 cohesion or to increase violence, teenage births, obesity, drug abuse
 
-DYSFUNCTIONAL SOCIETIES
-
 and everything else. So while changes in government ideology may
 sometimes be among the causes of changes in income distribution,
 this is not part of a package of policies intended to increase the
@@ -9207,8 +8641,6 @@ beings can be shown to be causal in animal experiments. For
 instance, studies of civil servants show cardiovascular health declines
 with declining social status. But how can we tell whether the damage
 
-THE SPIRIT LEVEL
-
 is caused by low social status rather than by poorer material con
 ditions? Experiments with macaque monkeys make the answer clear.
 Macaques form status hierarchies but with captive colonies it is
@@ -9248,8 +8680,6 @@ discovery that social relationships (as measured by social cohesion,
 trust, involvement in community life and low levels of violence) are
 better in more equal societies. This happened at a time when the
 importance of social relationships to health was beginning to be
-
-DYSFUNCTIONAL SOCIETIES
 
 more widely recognized. Third, the theory that poor health might be
 one of a range of problems with social gradients related to inequality
@@ -9306,8 +8736,6 @@ democracy than some people - at either end of the political spectrum
 - would like to believe.
 
 Some may still feel hesitant to take the evidence at face value.
-
-THE SPIRIT LEVEL
 
 From the vantage point of more unequal countries, it may seem
 genuinely perplexing and difficult to understand how some, appar
@@ -9389,8 +8817,6 @@ of cock fighting: in each case the conflicts are within the species.
 
 Human beings have to deal with the same problem. Writing in the
 
-THE SPIRIT LEVEL
-
 seventeenth century, Thomas Hobbes made the danger of conflict,
 caused by rivalry for scarce resources, the basis of his political
 philosophy. 325 As we all have the same needs, competition for scarce
@@ -9431,8 +8857,6 @@ societies it is clear that our ancestors did not live in a state of con
 tinuous conflict. Instead, as Sahlins pointed out, they had other ways
 of keeping the peace. 324 To avoid the 'warre of each against all',
 social and economic life was based on systems of gift exchange, food
-
-OUR SOCIAL INHERITANCE
 
 sharing, and on a very high degree of equality. These served to
 minimize animosity and keep relations sweet. Forms of exchange
@@ -9477,8 +8901,6 @@ Responders tend to reject offers below about 20 per cent. Rejected
 offers are money which the responder chooses to lose in order to
 punish the proposer and prevent them benefiting from making a
 
-THE SPIRIT LEVEL
-
 mean offer. The human desire to punish even at some personal cost
 has been called 'altruistic punishment', and it plays an important
 role in reinforcing co-operative behaviour and preventing people
@@ -9517,8 +8939,6 @@ ary tree from which we have emerged split from that which led to
 two different species of ape: chimpanzees and bonobos. Genetically
 we are equally closely related to both of them, yet there are striking
 differences in their social behaviour and they illustrate sharply
-
-OUR SOCIAL INHERITANCE
 
 contrasting ways of solving the Hobbesian problem of the potential
 for conflict over scarce resources.
@@ -9565,8 +8985,6 @@ resources is dealt with in the same way.
 
 Although sexual activity is not a preliminary to feeding among
 
-THE SPIRIT LEVEL
-
 humans, eating is a peak of sociality- whether in the form of shared
 family meals, meals with friends, feasts and banquets, or even in the
 religious symbolism of sharing bread and wine at communion.
@@ -9607,8 +9025,6 @@ ship, first pointed out by the primatologist Robin Dunbar, between
 the normal group size of each species of primate (whether they are
 solitary, go about in pairs, or in smaller or larger troupes) and the
 
-OUR SOCIAL INHERITANCE
-
 proportion of the brain made up of the neocortex. 331 The larger the
 group size, the more neocortex we seem to need to cope with social
 life. Our Palaeolithic ancestors usually lived in larger communities
@@ -9646,8 +9062,6 @@ may not be so in another. As a result, human beings have had to
 develop different mental tool-kits which equip them to operate both
 in dominance hierarchies and in egalitarian societies. Dominance
 and affiliative strategies are part of our deep psychological make-up.
-
-THE SPIRIT LEVEL
 
 Through them we know how to make and keep friends, how to
 compete for status, and when each of these two contrasting social
@@ -9690,8 +9104,6 @@ ity of inequality, in the time-scale of human history and prehistory, it
 is the current highly unequal societies which are exceptional. For
 over 90 per cent of our existence as human beings we lived, almost
 
-OUR SOCIAL INHERITANCE
-
 exclusively, in highly egalitarian societies. For perhaps as much as
 the last two million years, covering the vast majority of the time we
 have been 'anatomically modern' (that is to say, looking much as
@@ -9731,8 +9143,6 @@ makes it easier for people to reach agreement without conflict when
 sharing scarce resources. Visible even in young children, our concern
 for fairness sometimes seems so strong that we might wonder how it
 is that social systems with great inequality are tolerated. Similarly,
-
-THE SPIRIT LEVEL
 
 the sense of indebtedness (now recognized as universal in human
 societies) which we experience after having received a gift, serves to
@@ -9774,8 +9184,6 @@ appreciated. Nowadays, whether it is cooking a nice meal, telling
 jokes or providing for people's needs in other ways, it can give rise to
 a sense of self-worth. It is this capacity- now most visible in parent-
 
-OUR SOCIAL INHERITANCE
-
 ing - which, long before the development of market mechanisms
 and wage labour, enabled humans - almost uniquely- to gain the
 benefits of a division of labour and specialization within co
@@ -9814,8 +9222,6 @@ humans, stress responses and processes shaping our emotional and
 mental characteristics go through a kind of tuning, or programming,
 process which starts in the womb and continues through early
 childhood. The levels of stress which women experience in pregnancy
-
-THE SPIRIT LEVEL
 
 are passed on to affect the development of babies before birth. Stress
 hormones cross the placental barrier and affect the baby's hormone
@@ -9858,8 +9264,6 @@ the parent simply feels short-tempered, depressed or at their wit's
 end, it is sometimes also conscious. In a recent court case, three
 women were found to have encouraged their toddlers to fight -
 
-OUR SOCIAL INHERITANCE
-
 goading them to hit each other in the face and to kick a sibling who
 had fallen to the ground. 337 The children's grandmother showed
 no remorse, insisting that it 'would harden them up'. Given their
@@ -9895,8 +9299,6 @@ important part of the reason why countries such as Sweden, Finland
 and Norway score well on the UNICEF index of child wellbeing is
 that their welfare systems have kept rates of relative poverty low
 among families.
-
-THE SPIRIT LEVEL
 
 MIRROR NEURONS AND EMPATHY
 
@@ -9936,8 +9338,6 @@ OXYTOCIN AND TRUST
 Another example of how our biology dovetails with the nature of
 social relations involves a hormone called oxytocin and its effects on
 our willingness to trust each other. In Chapter 4 we saw that people
-
-OUR SOCIAL INHERITANCE
 
 in more unequal societies were much less likely to trust each other.
 Trust is of course an important ingredient in any society, but it
@@ -9979,8 +9379,6 @@ brain scans have shown that the pain of social exclusion involves the
 same areas of the brain as are stimulated when someone experiences
 physical pain. Naomi Eisenberger, a psychologist at UCLA, got
 
-THE SPIRIT LEVEL
-
 volunteers to play a computer bat-and-ball game with, as it seemed
 on the screen, two other participants. 342 The program was arranged
 so that after a while the other two virtual participants would start to
@@ -10020,8 +9418,6 @@ American students told they were doing tests of ability) indicated the
 social pain related to exclusion. Part of the same picture is the social
 pain which sometimes triggers violence (Chapter ro) when people
 feel they are put down, humiliated or suffer loss of face.
-
-OUR SOCIAL INHERITANCE
 
 For a species which thrives on friendship and enjoys co-operation
 and trust, which has a strong sense of fairness, which is equipped
@@ -10069,8 +9465,6 @@ that just when the human species discovers that the environment
 cannot absorb further increases in emissions, we also learn that fur
 ther economic growth in the developed world no longer improves
 
-THE SPIRIT LEVEL
-
 health, happiness or measures of wellbeing. On top of that, we have
 now seen that there are ways of improving the quality of life in rich
 countries without further economic growth.
@@ -10100,8 +9494,6 @@ the ecological footprint per head of population. 345 To measure the
 e Sierra Leone
 
 leAngola
-
-I
 
 ~ eiraq
 t: ..
@@ -10254,8 +9646,6 @@ B~rswa na e • • • . - . .. • 1
 -~
 Cu la
 
-I
-
 -
 M.lli
 
@@ -10291,8 +9681,6 @@ to the greenest and most fuel-efficient technology means it could be
 done more easily in countries with access to more advanced tech
 nology than Cuba has. With the advantages of power generation
 from renewables, environmentally friendly new technologies and
-
-THE SPIRIT LEVEL
 
 greater equality, we can be confident that it is possible to combine
 sustainability with a high quality of life. Before leaving Figure r 5.2 it
@@ -10334,8 +9722,6 @@ bought by richer people wanting to use more than their allocation of
 
 2!8
 
-EQUALITY AND SUSTAINABILITY
-
 fuel and power. Under such a system of 'tradeable carbon quotas'
 high consumers would be compensating low consumers, and income
 would be redistributed from rich to poor. In 2oo6 the then Minister
@@ -10373,8 +9759,6 @@ doesn't matter so much leaving them on.
 
 Because energy-saving innovations mean that we can buy more,
 they are like economic growth. Though they give us higher material
-
-THE SPIRIT LEVEL
 
 living standards for any level of carbon emissions, much of the
 carbon savings get swallowed up by higher living standards. The
@@ -10415,8 +9799,6 @@ poor countries differently. India, producing r.6 tonnes of carbon per
 person annually, cannot be treated the same as the USA, producing
 24.0 per person. Any regulatory system has to include policies for
 
-EQUALITY AND SUSTAINABILITY
-
 'contraction and convergence' or 'cap and share'. Both approaches
 propose a year-on-year contraction in permitted emissions levels,
 leading to an eventual convergence on equal per capita emissions
@@ -10455,8 +9837,6 @@ stitute for equality of income. So long as there is growth there is
 hope, and that makes large income differentials tolerable.' 350 But
 this relation holds both ways round. It is not simply that growth is
 a substitute for equality, it is that greater equality makes growth
-
-THE SPIRIT LEVEL
 
 much less necessary. It is a precondition for a steady-state economy.
 A great deal of what drives consumption is status competition. For
@@ -10497,8 +9877,6 @@ at the London School of Economics, treated this dissatisfaction
 as a cost which the rich impose on the rest of society.3 Rather as if it
 were smoke from a factory chimney, he estimated the cost that
 the rich should pay for it. He was, however, unaware of the effects
-
-EQUALITY AND SUSTAINABILITY
 
 of inequality on the health and social problems which we have
 outlined. He based his calculations solely on the loss of satisfaction,
@@ -10547,8 +9925,6 @@ weeks' holiday is a high price to pay for inequality.
 :§
 ....
 ~
-
-THE SPIRIT LEVEL
 
 •
 
@@ -10662,8 +10038,6 @@ continue to pursue economic growth despite its apparent lack of
 benefits. If everyone wants more money because it improves self
 image and status in relation to others, then each person's desire to be
 
-EQUALITY AND SUSTAINABILITY
-
 richer does not add up to a societal desire for economic growth.
 How much people's desire for more income is really a desire for
 higher status has been demonstrated in a simple experiment. People
@@ -10707,8 +10081,6 @@ human material self-interest and possessiveness. That, however,
 could hardly be further from the truth. Our almost neurotic need to
 shop and consume is instead a reflection of how deeply social we are.
 
-THE SPIRIT LEVEL
-
 Living in unequal and individualistic societies, we use possessions to
 show ourselves in a good light, to make a positive impression, and
 to avoid appearing incompetent or inadequate in the eyes of others.
@@ -10748,8 +10120,6 @@ contribution of biofuel crops to rising world food prices had been
 clearly recognized.) The task of responding adequately to the threat
 of global warming needs to be seen as bigger and more important
 than any of us. But if everyone - individuals, corporations, whole
-
-EQUALITY AND SUSTAINABILITY
 
 nations - feels it is almost their duty to get round regulations, to
 exploit whatever loopholes they can (as has long been taken as the
@@ -10791,17 +10161,11 @@ to another. At the most fundamental level, what reducing inequality
 is about is shifting the balance from the divisive, self-interested
 consumerism driven by status competition, towards a more socially
 
-THE SPIRIT LEVEL
-
 IO
 
 Japan
 
 Low
-
-Income inequality
-
-High
 
 5 ·4 More equal countries recycle a higher proportion of their
 waste.
@@ -10884,8 +10248,6 @@ what making change is really about. Rather than simply waiting for
 government to do it for us, we have to start making it in our lives
 and in the institutions of our society straight away. What we need is
 
-THE SPIRIT LEVEL
-
 not one big revolution but a continuous stream of small changes
 in a consistent direction. And to give ourselves the best chance of
 making the necessary transformation of society we need to remem
@@ -10927,8 +10289,6 @@ in twenty-nine teams over a nine-year period found that major
 league baseball teams with smaller income differences among players
 do significantly better than the more unequal ones. 360 And we saw in
 
-BUILDING THE FUTURE
-
 earlier chapters that more equal countries have higher overall levels
 of attainment in many different fields.
 
@@ -10968,8 +10328,6 @@ Take health inequalities, for example. For ten years Britain has
 had a government committed to narrowing the health gap between
 rich and poor. In an independent review of policy in different
 
-THE SPIRIT LEVEL
-
 countries, a Dutch expert said Britain was ahead of other countries
 in implementing policies to reduce health inequalities. 361 However,
 health inequalities in Britain have shown little or no tendency to
@@ -11008,8 +10366,6 @@ both countries inequality remains at levels almost unprecedented
 since records began - certainly higher than it has been for several
 generations. Few other developed countries have shown quite such
 dramatic increases in inequality over this period, but only a very few
-
-BUILDING THE FUTURE
 
 ~
 ~ !.6,-----------------------------------------------------------------,
@@ -11065,8 +10421,6 @@ u
 .2 The widening gap between the incomes of the richest and
 poorest IO per cent in the USA I975 (=I) to 2004.
 
-THE SPIRIT LEVEL
-
 -such as Denmark- seem to have avoided them entirely. Others,
 like Sweden, which avoided them initially, have had steep rises since
 the early r 990s.
@@ -11105,8 +10459,6 @@ through a large welfare state, countries like Japan manage to achieve
 low levels of inequality before taxes and benefits. Japanese differ
 ences in gross earnings (before taxes and benefits) are smaller, so
 there is less need for large-scale redistribution. This is how Japan
-
-BUILDING THE FUTURE
 
 manages to be so much more equal than the US, even though its
 social security transfers were a smaller proportion of GD P than
@@ -11149,8 +10501,6 @@ cope with social harm where inequality is high, or to pay for real
 social benefits where it is low. An example of this balance shifting in
 the wrong direction can be seen in the USA during the period since
 
-THE SPIRIT LEVEL
-
 1980, when income inequality increased particularly rapidly. During
 that period, public expenditure on prisons increased six times as fast
 as public expenditure on education, and a number of states have
@@ -11188,8 +10538,6 @@ precede action, what is best will differ from one country to another.
 The historical evidence confirms the primacy of political will.
 Rather than greater equality waiting till well-meaning governments
 think they can afford to make societies more equal, governments
-
-BUILDING THE FUTURE
 
 have usually not pursued more egalitarian policies until they thought
 their survival depended on it. In the early 1990s a World Bank
@@ -11240,8 +10588,6 @@ support for the war effort by making people feel the burden of war
 was equally shared. As Richard Titmuss put it: 'If the cooperation of
 the masses was thought to be essential [to the war effort], then
 
-THE SPIRIT LEVEL
-
 inequalities had to be reduced and the pyramid of social stratifica
 tion had to be flattened.' 368
 
@@ -11284,8 +10630,6 @@ For several decades progressive politics have been seriously
 weakened by the loss of any concept of a better society. People have
 argued for piecemeal improvements in different areas of life,
 
-BUILDING THE FUTURE
-
 campaigned against new environmental threats or for better treat
 ment of asylum seekers, and have demonstrated against military
 interventions. But nowhere is there a popular movement capable of
@@ -11325,8 +10669,6 @@ The rapid widening of income differences which took place from
 the early r98os onwards was made possible partly by the declining
 power of trade unions. A study which analysed trends in inequality
 
-THE SPIRIT LEVEL
-
 during the I98os and I990S in Australia, Canada, Germany, Japan,
 Sweden, the United Kingdom and the United States, found that
 the most important single factor was trade union membership. 370
@@ -11365,8 +10707,6 @@ that we are most explicitly placed in a rank-ordered hierarchy,
 superiors and inferiors, bosses and subordinates.
 
 In 2007 chief executives of 3 6 5 of the largest US companies
-
-BUILDING THE FUTURE
 
 received well over soo times the pay of their average employee, and
 these differences were getting bigger. In many of the top companies
@@ -11409,8 +10749,6 @@ the privatization of large numbers of friendly societies, mutuals,
 building societies, provident societies and credit unions, which had
 been controlled by their members, may have made a substantial con
 tribution to the widening income differences shown in Figures r6.r
-
-THE SPIRIT LEVEL
 
 and r6.2. It was common practice for CEOs and other senior
 managers to receive huge salary increases shortly after conversion
@@ -11458,8 +10796,6 @@ craftsmen, would remain small-scale, fairly egalitarian, and so com
 patible with democracy. Had he foreseen how the development of
 huge multinational corporations would surpass the concentrations
 
-BUILDING THE FUTURE
-
 of wealth and undemocratic power of his day, he would surely have
 included them in his sights. It is not possible to discuss ways of
 reducing income differences without discussing what can be done
@@ -11497,8 +10833,6 @@ level, he discusses organizations like the 4,ooo or so Community
 Development Corporations which support local communities by
 setting up low-income housing schemes, providing finance for local
 businesses which they sometimes own and control. There are 48,ooo
-
-THE SPIRIT LEVEL
 
 co-ops in the US and some I20 million people are members of them.
 There are around Io,ooo credit unions, with assets totalling $6oo
@@ -11540,8 +10874,6 @@ way people can work together to provide important services. It is a
 truism - but nevertheless an important one - to say that the key
 difference between the kinds of organization we have listed and
 
-BUILDING THE FUTURE
-
 profit-making corporations is simply whether or not their primary
 purpose is to make money or to provide a service while remaining
 economically viable. Although some profit-making businesses have
@@ -11579,8 +10911,6 @@ were devised and introduced, a new government with different
 political allegiances could simply reverse them all. Given the import
 ance of keeping inequality down, we need to find ways of ensuring
 that greater equality is more deeply rooted in the fabric of our
-
-THE SPIRIT LEVEL
 
 societies and less vulnerable to the whim of successive governments.
 We need to address the concentrations of power at the heart of the
@@ -11623,8 +10953,6 @@ employees to have a significant input into decision making.
 
 To make a reliable difference to company performance, share
 ownership has to be combined with more participative management
-
-BUILDING THE FUTURE
 
 methods. 384- 5 There have now been a number of large and well
 controlled studies - including those using before-and-after perform
@@ -11672,8 +11000,6 @@ ings, equipment and marketable assets. It is instead the value of its
 employees. When companies are bought and sold, what is actually
 being bought and sold is, above all, its staff as a group of people,
 
-THE SPIRIT LEVEL
-
 with their assembled skills, abilities, and knowledge of company
 systems and production methods. Only they have the ability to make
 the company tick. And of course the concept of a group of people
@@ -11714,8 +11040,6 @@ experimental evidence using race and caste to show how attributions
 of inferior status can affect performance.
 
 This process of adjustment and emancipation is described in Local
-
-BUILDING THE FUTURE
 
 Heroes, David Erdal's account of the employee buy-out of Loch
 Fyne Oysters in Scotland. 392 It is in part a process of undoing
@@ -11758,8 +11082,6 @@ For most of the employed population it is at work that they inter
 act most closely with people other than family and have the potential
 to feel part of a community. In Chapter 3 we saw evidence of the
 
-THE SPIRIT LEVEL
-
 huge rises in anxiety which have taken place over the last fifty or so
 years as community life has weakened under the impact of growing
 geographical and social mobility. While greater equality is associated
@@ -11799,8 +11121,6 @@ recruit. However, as the employee-owned sector became larger,
 people's norms and values about what are appropriate rates of pay
 for different jobs, and what differentials are acceptable, would
 change. We might at least move towards the norms of the public and
-
-BUILDING THE FUTURE
 
 non-profit sector. And if there was no longer a set of hugely wealthy
 private sector bosses inviting comparisons and making people think
@@ -11843,8 +11163,6 @@ ment and work organization, employee-ownership is highly flexible.
 It merely puts ultimate authority in the hands of employees to
 develop whatever systems they find work best. This enables systems
 
-THE SPIRIT LEVEL
-
 to evolve to suit any situation. Systems of work teams, of directors
 elected for longer or shorter periods, of departmental represen
 tatives, of company trustees, of anything from weekly to annual
@@ -11886,8 +11204,6 @@ environment, giving to local communities, etc., there are, at the same
 time, also companies trying to expand markets for tobacco in the
 developing world in the sure knowledge that they will cause millions
 
-BUILDING THE FUTURE
-
 of extra deaths. There are companies which have caused needless
 deaths by encouraging mothers in developing countries to buy
 powdered baby milk instead of breast feeding, despite lack of access
@@ -11928,8 +11244,6 @@ However, within a framework of employee-ownership and con
 trol, people specifically regain ownership and control of the purposes
 of their work. If, for instance, you get to know that some aspect of a
 
-THE SPIRIT LEVEL
-
 design or manufacturing process is harming children's health, you
 would want to change it and would probably start by finding out
 what colleagues thought about it. There would not be the same pres
@@ -11962,8 +11276,6 @@ philosopher L. T. Hobhouse, who believed that liberty depended,
 in all its domains, on equality- equality before the law, equality of
 opportunity, equality of parties to a contract. 395 Employee-ownership
 provides a way of increasing liberty and equality together.
-
-BUILDING THE FUTURE
 
 RUNNING WITH THE
 TECHNOLOGICAL TIDE
@@ -12003,8 +11315,6 @@ change is rapidly reducing variable costs. For everything that can be
 copied digitally, additional copies cost little or nothing either to
 produce or to distribute over the internet. This applies to all music,
 to all computer software and games, to films, to all books and to the
-
-THE SPIRIT LEVEL
 
 written word in any form, to all information and to pictures. That
 covers a large part of what is produced for entertainment and
@@ -12048,8 +11358,6 @@ variable costs puts a rapidly widening gap between the maximization
 of profit and the maximization of public benefit. In this situation it is
 important that governments use their powers to aid the development
 
-BUILDING THE FUTURE
-
 of new institutional structures, not to prop up and defend the
 restrictions of the old ones.
 
@@ -12090,8 +11398,6 @@ do not restrict access to their products.
 
 The question for politicians and the public is whether it is possible
 
-THE SPIRIT LEVEL
-
 to find ways of paying corporations for their research and develop
 ment without trying to police a pricing system which restricts access
 to the benefits of what they have produced - benefits which may
@@ -12129,8 +11435,6 @@ So too is the growing agitation for greater equality of opportunity
 regardless of race, class, gender, sexual orientation and religion.
 We see it also in the increasing attention paid by lobby groups,
 social research and government statistical agencies to poverty and
-
-BUILDING THE FUTURE
 
 inequality over the last fifty years; and most recently we see it in the
 attempt to create a culture of mutual respect.
@@ -12174,8 +11478,6 @@ go. To help with this we provide- and will continue to provide- our
 research findings, graphs and other information on the Equality
 Trust's web site (www.equalitytrust.org.uk).
 
-THE SPIRIT LEVEL
-
 The initial task is to gain a widespread public understanding of
 what is at stake. But rather than allowing this to be just one more
 idea that briefly gains attention before fashionable opinion moves
@@ -12216,8 +11518,6 @@ by the growth of consumers' expenditure. Increased inequality
 led people to reduce their savings, increase their bank overdrafts
 and credit card debt, and arrange second mortgages to fund con-
 
-BUILDING THE FUTURE
-
 sumption. By adding to the speculative element in the cycles of
 economic boom and bust, great inequality shifts our attention from
 the pressing environmental and social problems and makes us worry
@@ -12257,8 +11557,6 @@ education policies, the management of the national economy,
 whether unemployment is kept to low levels, whether different rates
 of VAT and sales taxes are applied to necessities and luxuries, pro
 vision of public services, pension policies, inheritance taxes, negative
-
-THE SPIRIT LEVEL
 
 income tax, basic income policies, child support, progressive con
 sumption taxes, 351 industrial policy, retraining schemes, and many
@@ -12301,8 +11599,6 @@ sense that there is no alternative to the social and environmental
 failure of modern societies, we can now regain the sense of optimism
 which comes from knowing that the problems can be solved. We
 
-BUILDING THE FUTURE
-
 know that greater equality will help us rein in consumerism and ease
 the introduction of policies to tackle global warming. We can see
 how the development of modern technology makes profit-making
@@ -12338,7 +11634,6 @@ That left us with 23 rich countries:
 
 Australia
 Austria
-Belgium
 Canada
 Denmark
 Finland
@@ -12367,8 +11662,6 @@ HEALTH AND SOCIAL PROBLEMS
 
 Not all of the countries in our data set had data for all the health and
 social problems listed on p. 19, but 2r of them had data on at least 8
-
-THE SPIRIT LEVEL
 
 of the 9· We include all these countries in our Index of Health and
 Social Problems (IHSP). Israel had only 6 and Singapore only 5 indi
@@ -12420,8 +11713,6 @@ DE
 FL
 GA
 HI
-ID
-IL
 IN
 
 IOWA
@@ -12444,9 +11735,7 @@ KS
 KY
 LA
 ME
-MD
 MA
-MI
 MN
 MS
 MO
@@ -12577,8 +11866,6 @@ social trust', World Politics (2005) 58:41-72.
 K. Hooker and I. C. Siegler, 'Trust, health, and longevity', Journal of
 Behavioral Medicine (1998) 21 (6): 517-26.
 
-REFERENCES
-
 30. S. V. Subramanian, D. J. Kim and I. Kawachi, 'Social trust and self
 rated health in US communities: a multilevel analysis', Journal of Urban
 Health (2002) 79 (4, Suppl. I): S2I-34.
@@ -12619,8 +11906,6 @@ Living in Private Households, zooo. London: HMSO, 2001.
 45· Hansard (House of Commons Daily Debates). Written answers to
 questions. (2005) 439: 22 Nov. 2005: Column I798W.
 46. R. C. Kessler, W. T. Chiu, 0. Demler, K. R. Merikangas and
-
-REFERENCES
 
 E. E. Walters, 'Prevalence, severity, and comorbidity of 12-month DSM
 IV disorders in the National Comorbidity Survey Replication', Archives of
@@ -12663,8 +11948,6 @@ mental distress among adults - United States, 1993-2001' (2004) 53:
 Vienna: UN Office on Drugs and Crime, 2007.
 58. Centers for Disease Control and Prevention. Compressed Mor-
 
-REFERENCES
-
 tality Files 1999-2002. http://wonder.cdc.gov/mortSQL.html (accessed
 9 September 2008)
 59· D. Morgan, K. A, Grant, H. D. Gage, R. H. Mach, J. R. Kaplan,
@@ -12704,8 +11987,6 @@ Regional Office for Europe, 2006.
 70. L. Berkman and T. Glass, 'Social integration, social networks, social
 support, and health', in L. Berkman and I. Kawachi, (eds), Social
 Epidemiology. New York: Oxford University Press, 2000.
-
-REFERENCES
 
 71. S. A. Stansfeld, 'Social support and social cohesion', in M. Marmot
 and R. G. Wilkinson (eds), Social Determinants of Health. Oxford:
@@ -12749,8 +12030,6 @@ sta tistics.gov .uk/Sta tBase/Product.asp ?vlnk=84 6o& More= Y
 85. C. J. Murray, S. C. Kulkarni, C. Michaud, N. Tomijima, M. T.
 Bulzacchelli, T. J. Iandiorio and M. Ezzati, 'Eight Americas: investigating
 
-REFERENCES
-
 mortality disparities across races, counties, and race-counties in the United
 States', Public Library of Science Medicine (2oo6) 3 (9 ): e26o.
 86. A. T. Geronimus, J. Bound, T. A. Waidmann, C. G. Colen and
@@ -12791,8 +12070,6 @@ Medical Association (2002) 288: 1723-7.
 98. International Obesity TaskForce, Obesity in Europe. London:
 International Obesity TaskForce in collaboration with the European
 Association for the Study of Obesity Task Forces, 2002.
-
-REFERENCES
 
 99· World Health Organization, Report of a Joint WHO/FAO Expert
 Consultation. Diet, nutrition and the prevention of chronic diseases.
@@ -12835,8 +12112,6 @@ analysis of income inequality and cardiovascular disease risk factors',
 Social Science and Medicine (2ooo) 50 (5): 673-87.
 IIJ. M. Ezzati, H. Martin, S. Skjold, S. vander Hoorn and C. J. Murray,
 
-REFERENCES
-
 'Trends in national and state-level obesity in the USA after correction
 for self-report bias: analysis of health surveys', Journal of the Royal
 Society of Medicine (2oo6) 99 (5): 250-7.
@@ -12877,8 +12152,6 @@ II696-701.
 M. S. Gold, 'Adolescent drug addiction treatment and weight gain',
 Journal of Addictive Diseases (2004) 23 (3): 55-65.
 125. G. A. James, M. S. Gold and Y. Liu, 'Interaction of satiety and
-
-REFERENCES
 
 reward response to food stimulation', Journal of Addictive Diseases
 (2004) 23 (3): 23-37·
@@ -12921,8 +12194,6 @@ at NHS breast cancer screening clinics in the UK', Health Promotion
 International (2007) 22 (2): 137-45.
 138. J. R. Speakman, H. Walker, L. Walker and D. M. Jackson,
 
-REFERENCES
-
 'Associations between BMI, social strata and the estimated energy content
 of foods', Journal of Obesity and Related Metabolic Disorders (2005)
 29 (Io): I28I-8.
@@ -12963,8 +12234,6 @@ of families, schools, and communities', in D.P. Keating and C. Hertzman
 (eds), Developmental Health and the Wealth of Nations. New York:
 Guilford Press, I999·
 I5I. J.D. Willms, 'Literacy proficiency of youth: evidence of converging
-
-REFERENCES
 
 stress, and
 
@@ -13010,8 +12279,6 @@ test performance of African-Americans', Journal of Personality and Social
 Psychology (1995) 69: 797-811.
 r6s. S. J. Spencer, C. M. Steele and D. M. Quinn, 'Stereotype threat and
 
-REFERENCES
-
 women's math performance', Journal of Experimental Social Psychology
 (1999) 3 5 (1 ): 4-28.
 166. W. Peters, A Class Divided: Then and now. New Haven: Yale
@@ -13055,8 +12322,6 @@ Cambridge, MA: Harvard University Press, 1996.
 Working Papers, Number 2003-30. Institute for Economic and Social
 Research, University of Essex, 2003.
 
-REFERENCES
-
 182. UNICEF Innocenti Research Centre, A League Table of Teenage
 Births in Rich Nations. Florence: Innocenti Report Card, 2001.
 183. S. J. Ventura, T. J. Mathews and B. E. Hamilton, 'Teenage births in
@@ -13098,8 +12363,6 @@ Child Development (I992) 63 (I): 47-58.
 I95· 'American Academy of Pediatrics Committee on Adolescence:
 Adolescent pregnancy', Pediatrics (I989) 83 (I): I32-4.
 
-REFERENCES
-
 196. B. J. Ellis, J. E. Bates, K. A. Dodge, D. M. Fergusson, L. J. Horwood,
 G. S. Pettit and L. Woodward, 'Does father absence place daughters
 at special risk for early sexual activity and teenage pregnancy?' Child
@@ -13140,8 +12403,6 @@ Review (1993) 18: 182-202.
 212. United Nations Crime and Justice Information Network, Survey on
 Crime Trends and the Operations of Criminal Justice Systems (Fifth,
 Sixth, Seventh, Eighth). New York: United Nations, 2000.
-
-REFERENCES
 
 the United States.
 
@@ -13187,8 +12448,6 @@ class, and public policy. Chicago: University of Chicago Press, 1987.
 226. Federal Bureau of Investigation, Crime in the United States zoo6.
 Washington, DC: US Government Printing Office, zoo6.
 
-REFERENCES
-
 lessons
 
 227. H. Boonstra, Teen Pregnancy: Trends and
@@ -13233,8 +12492,6 @@ Sentencing and the prison population. Rethinking crime and punishment.
 London: Prison Reform Trust, 2003.
 241. D. Downes, 'The buckling of the shields: Dutch penal policy
 
-REFERENCES
-
 1985-1995', in R. P. Weiss and N. South (eds), Comparing Prison
 Systems: Towards a comparative and international penology. Amsterdam:
 Gordon & Breach Publishers, 1998.
@@ -13276,8 +12533,6 @@ confinement in Indiana. New York: Human Rights Watch, 1997·
 254· Human Rights Watch, Red Onion State Prison: Super-maximum
 security confinement in Virginia. New York: Human Rights Watch, 1999·
 255· United Nations Committee against Torture, Conclusions and
-
-REFERENCES
 
 Recommendations of the Committee against Torture: United States of
 America. Geneva: United Nations, 2006.
@@ -13321,8 +12576,6 @@ Delinquency (1999) 45:419-37.
 Europe and North America. London: Centre for Economic Performance,
 London School of Economics, 2005.
 
-REFERENCES
-
 272. L. Mishel, J. Bernstein and S. Allegretto, The State of Working
 America 2oo6/7. An Economic Policy Institute Book. Ithaca, NY: ILR
 Press, an imprint of Cornell University Press, 2007.
@@ -13363,8 +12616,6 @@ London: Routledge, 1984.
 iour. London: Hodder & Stoughton, 2004.
 288. J. Epstein, Snobbery: The American version. New York: Houghton
 Mifflin Company, 2002.
-
-REFERENCES
 
 289. R. Sennett and J. Cobb, The Hidden Injuries of Class. New York:
 Alfred A. Knopf, 1972.
@@ -13407,8 +12658,6 @@ and Medicine (1998) 47 (4): 469-76.
 inequalities in years of life lost to heart disease in Texas, USA', Social
 Science and Medicine (2003) 57 (1o): 1847-61.
 
-REFERENCES
-
 304. C. M. Masi, L. C. Hawkley, Z. H. Piotrowski and K. E. Pickett,
 'Neighborhood economic disadvantage, violent crime, group density, and
 pregnancy outcomes in a diverse, urban population', Social Science and
@@ -13449,8 +12698,6 @@ disadvantage in the United States and in England', Journal of the
 American Medical Association (2oo6) 295 (I?): 2037-45.
 316. J. Banks, M. Marmot, Z. Oldfield and J.P. Smith, 'TheSES Health
 
-REFERENCES
-
 Gradient on Both Sides of the Atlantic'. NBER Working Paper 12674.
 Cambridge, MA: National Bureau of Economic Research, 2007.
 3I7· D. Vagero and 0. Lundberg, 'Health inequalities in Britain and
@@ -13490,8 +12737,6 @@ diversity in brain and sociobehavioral traits', Science (2005) 308 (5728):
 reactors to asocial stress also reactors to social stress?' Journal of
 Personality and Social Psychology (1994) 66 (1): 69-77.
 331. R. I. M. Dunbar, 'Brains on two legs: group size and the evolution
-
-REFERENCES
 
 of intelligence', in F. B. de Waal (ed.), Tree of Origin: What primate
 behavior can tell us about human social evolution. Cambridge, MA:
@@ -13535,8 +12780,6 @@ Mimas.
 Switzerland: WWF International, 2007.
 346. R. M. Titmuss, Essays on the Welfare State. London: Unwin, 1958.
 
-REFERENCES
-
 347· H. Daly, Steady-state Economics. Washington, DC: Island Press,
 199!.
 348. M. Bookchin, The Ecology of Freedom. Oakland, CA: AK Press,
@@ -13577,8 +12820,6 @@ US States, L970-2007. Washington, DC: Tax Foundation, 2007.
 364. Justice Policy Institute, Cellblocks or Classrooms? Washington, DC:
 Justice Policy Institute, 2002.
 365. L. J. Schweinhart and D. P. Weikart, 'Success by empowerment:
-
-REFERENCES
 
 the High/Scope Perry Preschool Study through age z7', Young Children
 (1993) 49: 54-8.
@@ -13622,8 +12863,6 @@ Demos Quarterly (1996) 8: 8-10.
 Journal of Economic Issues (1988) XXII (z): 451-8.
 
 'Portfolio workforce', People
-
-REFERENCES
 
 384. J. L. Cotton, Employee Involvement: Methods for improving
 performance and work attitudes. Newbury Park, CA: Sage, 1993.
@@ -13844,8 +13083,6 @@ and stress in pregnancy I oo
 
 Bismarck 2 3 9
 
-INDEX
-
 black Americans see African-
 
 Americans
@@ -13947,8 +13184,6 @@ ownership 25
 as status markers 40, 57-8
 SUVs 57-8
 
-INDEX
-
 Carver, George Washington 97
 caste:
 
@@ -14022,7 +13257,6 @@ development 5, IIO-II,
 and fairness 205
 and family breakdown 6 3, 9 6,
 
-III
 growth 77
 imprisonment of 152
 infectious diseases 10
@@ -14063,8 +13297,6 @@ China:
 
 Communist government 239
 2008 earthquake 50
-
-INDEX
 
 inequality 142, I79
 modesty 45
@@ -14177,8 +13409,6 @@ and resources I99, 20I
 
 conflict - cont.
 
-INDEX
-
 crrme:
 
 see also status, competition
@@ -14279,8 +13509,6 @@ and inequality I49, I 5o, I 53
 death rates:
 
 economic segration and I 63
-
-INDEX
 
 and inequality 27, 6o, I83-5,
 
@@ -14394,8 +13622,6 @@ disadvantage see deprivation;
 
 neighbourhoods
 
-INDEX
-
 disasters, reactions to:
 
 Chicago 57
@@ -14501,8 +13727,6 @@ benefits and costs of 8-Io,
 
 as determinant I 8o
 end of benefits of 5-14, 247,
-
-INDEX
 
 environmental issues 8, 226
 and inequality 223
@@ -14618,8 +13842,6 @@ ethical standards in 254-6
 and local communities 254
 regulating sale of shares 254
 types of 253-4
-
-INDEX
 
 employment see unemployment;
 
@@ -14745,8 +13967,6 @@ exercise/physical activity, lack of
 
 feudalism 4 5
 
-INDEX
-
 and low status 7 5
 and obesity 90, 95, I02
 experiments II3-I4, I9I
@@ -14820,7 +14040,6 @@ literacy I o8-I o, I 8 5
 penal policies 145, I 56
 stress and eating 9 5
 teenage births I 2 5
-see also Scandinavian countries
 
 food:
 
@@ -14852,8 +14071,6 @@ and inequality 6o-6I, 227, 229
 
 Fortune 500 companies 243
 Fox, Kate I 64
-
-INDEX
 
 France 145
 franchise, extension of 260
@@ -14967,8 +14184,6 @@ governments:
 and corporations 25 5
 and early childhood programmes
 
-INDEX
-
 and employee ownership 254
 as employers 263
 and global warming 22I,
@@ -14977,7 +14192,6 @@ and global warming 22I,
 
 cultural differences S
 economic growth and 6-Io
-and health 76
 and incomes see income
 
 and moves for equality 23I-2,
@@ -15086,14 +14300,11 @@ Health Survey for England 9S
 
 3II
 
-INDEX
-
 heart disease:
 
 and class or status Io, 73-6, 85,
 
 and inequality I35-7, 142, I89
-international comparisons
 
 I82
 
@@ -15193,14 +14404,11 @@ factors affecting I45-8, I 55,
 
 I89,237
 
-international comparisons
 I45-50,I54-5,I8I
 
 limited effectiveness of I54-5,
 
 3I2
-
-INDEX
 
 purposes of I 5 3-4n.
 rates of see prison populations
@@ -15315,8 +14523,6 @@ international comparisons 8o,
 
 8I-4, I83-4, 2I7
 
-INDEX
-
 Iowa I37
 Ireland:
 
@@ -15429,8 +14635,6 @@ I23-5
 
 women's status 59-60, I76
 
-INDEX
-
 Jargowsky, Paul I62
 job status:
 
@@ -15483,7 +14687,6 @@ and health care 8o-8I
 and homicide rates 78-9
 and income differences I 8 8
 and inequality 79-85, I8I
-international comparisons
 
 79-84,2I7
 
@@ -15535,8 +14738,6 @@ see also consumption and
 
 consumensm
 
-INDEX
-
 MacArthur, General239
 McCord, Colin, and Harold
 
@@ -15561,7 +14762,6 @@ choices 29, 44
 and class I25, I63
 in equal and less equal societies
 
-and health 76
 and obesity 99
 romantic vs. financial
 
@@ -15648,10 +14848,6 @@ equality in I 53
 humane prison regime I 53
 imprisonment rate I49
 
-INDEX
-
-inequality and health and social
-
 National Survey of Children's
 
 problems I74
@@ -15670,8 +14866,6 @@ Health 68
 
 nationalized industries 246
 Native Americans, de Tocqueville
-
-inequality and health and social
 
 and 51
 
@@ -15744,7 +14938,6 @@ New Brunswick, University of Io8
 New Hampshire:
 
 homicide rate I 3 7
-inequality and health and social
 
 nanotechnology 258
 National Center for Education
@@ -15764,8 +14957,6 @@ New York I37
 
 see also Harlem
 
-INDEX
-
 New Zealand:
 
 advertising 223
@@ -15784,11 +14975,7 @@ pay in 252-3
 
 Nordic countries I 9 5
 
-see also Scandinavian countries
-
 North Dakota:
-
-inequality and health and social
 
 problems I74
 trust, levels of 53-4
@@ -15844,7 +15031,6 @@ people
 
 teenage births I 2 5
 trust, levels of 54
-see also Scandinavian countries
 
 nutrition see diet
 
@@ -15878,8 +15064,6 @@ childhood see children
 foreign aid comparisons 6I
 imprisonment rates in I 55
 
-INDEX
-
 public social expenditure data
 
 I77
@@ -15887,7 +15071,6 @@ I77
 working hours in 223-4
 
 others, attitudes to:
-and health 76
 and low social status 76
 and stressors 38-9, 42-3, 57-8
 
@@ -15990,8 +15173,6 @@ politicians:
 and a better society 4
 and 'change' 24I
 and crime I54n., I 56
-
-INDEX
 
 politicians - cont.
 
@@ -16103,11 +15284,8 @@ prison populations I9, I45-50
 
 and fatherlessness I 3 7
 
-INDEX
-
 fluctuations I45, I89
 and inequality 148-50, I89-90
-international comparisons
 
 145-50
 juveniles I 67
@@ -16223,8 +15401,6 @@ rejection see social exclusion
 
 32I
 
-INDEX
-
 religion:
 
 and death rates 79
@@ -16232,7 +15408,6 @@ decline of discrimination 43,
 
 and equality 262
 and food sharing 202
-and health 76
 and psychosocial wellbeing 233
 sharing in 206
 and social mobility I 57
@@ -16330,8 +15505,6 @@ Sampson, Robert I40
 Sanitary Movement 73
 Sartre, Jean-Paul 202
 satisfaction see happiness
-
-INDEX
 
 savings, decline in 223, 262
 Scandinavian countries:
@@ -16444,8 +15617,6 @@ I44
 8I
 
 share-ownership schemes 248-9
-
-INDEX
 
 shared values 4· 56
 shareholders, external:
@@ -16562,8 +15733,6 @@ and health I 3, 2 52
 and income mobility I 57-9
 and inequality I59-6I, I63-9
 
-INDEX
-
 inter- and intra-generational
 
 see also status
@@ -16571,8 +15740,6 @@ see also status
 157-9
 
 social strategies see social
-
-international comparisons
 
 organization
 
@@ -16684,8 +15851,6 @@ social see social status
 
 steady-state economies 220-21,
 
-INDEX
-
 Steele, Claude, and Joshua
 
 Aronson II3
@@ -16791,7 +15956,6 @@ welfare and redistributive taxes
 I76
 
 women's status 59-60, I76
-see also Scandinavian countries
 
 Taiwan 45, 239
 taste I64
@@ -16802,8 +15966,6 @@ and employee ownership 248,
 
 inheritance 263
 progressive 2I 8, 263-4
-
-INDEX
 
 and redistribution 176-7, 191,
 
@@ -16901,8 +16063,6 @@ policies 263
 and weight gain I oo
 see also employment
 unfairness 206, 249, 263
-
-INDEX
 
 UNICEF see United Nations
 
@@ -17029,8 +16189,6 @@ happiness levels 8
 health 79-8I, I88
 high-school massacres I39
 
-INDEX
-
 historical explanations for
 
 US National Vital Statistics System
@@ -17095,8 +16253,6 @@ effect 225
 Venezuela 244
 Vermont:
 
-inequality and health and social
-
 problems I74, 237
 
 phone calls for prisoners I 53
@@ -17121,8 +16277,6 @@ and inequality 4 5, I 34-7,
 I40-4I,I42,I43-4,I87,
 I92, I96
 
-international comparisons
-
 I3I-2,I34-7,I39-40,I50
 preventing or controlling I34-6,
 
@@ -17145,8 +16299,6 @@ random shootings I 29
 and self-esteem 3 7
 symbolic I 64
 triggers of 40, 2I 2
-
-INDEX
 
 virtual systems 22I
 Visions of Humanity 229
@@ -17254,8 +16406,6 @@ feelings of failure and inferiority
 I6s-6
 
 and middle-class values I I 5-I 6
-
-INDEX
 
 and parenting I I I
 in world wars 8 5

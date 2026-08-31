@@ -94,8 +94,6 @@ Bibliography
 • •
 Vil
 
-V
-
 Pref ace to the Second Edition
 
 The Digniry of Di.ff erence is a plea - the most forceful I could make -
@@ -171,7 +169,6 @@ imagination. I pray that this affirmation will be echoed by many
 voices from many faiths.
 
 • • •
-VIII
 
 Chapter 1
 
@@ -202,8 +199,6 @@ destruction. I found myself wondering at the contrast between
 the religious fervour of the hijackers and the no less intense
 longing for peace among the religious leaders who were there. The
 juxtaposition of good and evil, harmony and conflict, global peace
-
-I
 
 The Digniry of Difference
 
@@ -247,8 +242,6 @@ and thus meet and reason with their opponents. Today, we can
 target those who agree with us and screen out the voices of dissent.
 Those who wish to make their views known, do so by ways that
 
-Prologue
-
 catch the attention of the news - usually by some for111 of violence
 or protest, an event that can be captured by a dramatic image, a
 soundbite, and scenes of confrontation. Television news especially,
@@ -291,8 +284,6 @@ like September 11 happen, and there will be more.
 My argument will be twofold. Firstly, the economics and politics
 of globalization have an inescapable moral dimension. Their aim
 
-The Dignity of Difference
-
 must be to enhance, not compromise, human dignity. Markets
 serve those who pay, but what of those who cannot pay? Politics is
 about the balance of power, but what of those who have no
@@ -333,8 +324,6 @@ force for peace and for the justice and compassion on which peace
 ultimately depends. That will require great courage, and perhaps
 something more than courage: a candid admission that, more
 
-Prologue
-
 than at any time in the past, we need to search - each faith in its
 own way - for a way of living with, and acknowledging the
 integrity of, those who are not of our faith. Can we make space for
@@ -346,7 +335,6 @@ emerged with immense and sometimes destructive force. That is
 what lay behind an unusual assembly - and my first encounter
 with globalization - as the new millennium began.
 
-• • •
 On 28 August 2000, more than 2,000 religious leaders gathered in
 the United Nations building in New York. It was a dazzling sight.
 There were the saffron robes of the Tibetan monks, the grey
@@ -373,8 +361,6 @@ overarching confrontation between Soviet communism and the
 West had given rise not to peace but to a proliferating number of
 local conflicts between peoples who had previously lived together,
 if not in peace, then at least without bloodshed. Often, religion
-
-The Dignity of Difference
 
 was a factor in the conflict - rarely as the cause, which was usually
 political or economic, but still as the fault line along which sides
@@ -417,8 +403,6 @@ two fully laden jumbo jets crashed into the World Trade Center
 and changed our world. The tragedy was freighted with
 symbolism. Two icons of global capitalism, the jet and the
 
-Prologue
-
 skyscraper, were turned into instruments of destruction. Office
 workers going about their daily routine found themselves
 suddenly implicated in a conflict whose epicentre was thousands
@@ -433,8 +417,6 @@ unresolved tensions it contains. Suddenly, religion seemed less like
 a melting glacier than like a conflagration burning out of control.
 Far from being too much, too soon, our deliberations a year
 earlier seemed, if anything, too little, too late.
-
-• • •
 
 In the weeks and months that have passed, it has become ever
 more clear that we face great dangers in the coming_century, and
@@ -458,8 +440,6 @@ pursuit of peace, even heroes are often afraid to take the risk.
 Those who show courage in the heat of battle are celebrated.
 Those who take risks for peace are all too often assassinated -
 among them Lincoln, Gandhi, Martin Luther King, Anwar El-
-
-The Dignity of Difference
 
 Sadat and Yitzhak Rabin. The pursuit of peace can come to seem
 to be a kind of betrayal. It involves compromise. It means settling
@@ -501,8 +481,6 @@ combatant, innocent or guilty, young or old, involved or
 disengaged. Within the foreseeable future they may have access
 to weapons of mass destruction. They have understood that the
 
-Prologue
-
 very interconnectedness of global societies - their openness and
 anonymity - constitute their vulnerability. This is not war in the
 conventional sense. In method it is something new. In motivation
@@ -542,8 +520,6 @@ ter111s'. The argument was this: 'Our faith speaks of peace; our
 holy texts praise peace; therefore, if only the world shared our
 faith and our texts there would be peace.' Tragically, that path
 does not lead to peace. In this not-yet-fully-redeemed world,
-
-The Dignity of Difference
 
 peace means living with those who have a different faith and other
 texts. There is a fundamental difference between the end-of-days
@@ -585,8 +561,6 @@ another way. The secularization of Europe, first in the sciences,
 then in the arts, then in politics and the structure of society, grew
 directly out of the failure of religion to meet the challenge of
 
-Prologue
-
 change. As one who deeply believes in the humanizing power of
 faith, and the stark urgency of coexistence at a time when
 weapons of mass destruction are accessible to extremist groups, I
@@ -596,7 +570,6 @@ European Enlightenment thought it would become: mute,
 marginal and mild. It is fire - and like fire, it warms but it also
 burns. And w e are the guardians of the flame.
 
-• • •
 Two conversations are now necessary. One is between religious
 leaders on the one hand, and politicians and business leaders on
 the other, as to the direction globalization must take. Technology
@@ -627,8 +600,6 @@ best that can be done is to deliver the maximum possible freedom
 to individuals to make their own choices, and the means best
 
 I I
-
-The Dignity of Difference
 
 suited to this is the unfettered market where we can buy whatever
 lifestyle suits us, this year, this month. Beyond the freedom to do
@@ -670,8 +641,6 @@ Judaism is one of those voices. The prophets of ancient Israel
 were the first to think globally, to conceive of a God transcending
 place and national boundaries and of humanity as a single moral
 
-Prologue
-
 community linked by a covenant of mutual responsibility (the
 covenant with Noah after the Flood). Equally, they were the first
 to conceive of society as a place where 'justice rolls down like
@@ -711,8 +680,6 @@ effective recent programmes of debt relief to developing economies
 bringing together faith leaders and politicians. Religious leaders
 should never seek power, but neither may they abdicate their task
 of being a counter-voice in the conversation of mankind.
-
-The Dignity of Difference
 
 Globalization has led to a series of major public protests, in
 Seattle, Washington, Prague, London, Davos and wherever else
@@ -754,8 +721,6 @@ indeed of society itself. It is precisely because we are not the same
 as individuals, nations or civilizations that our exchanges are non­
 zero-sum encounters. Because each of us has something someone
 
-Prologue
-
 else lacks, and we each lack something someone else has, we gain
 by interaction. That is what makes trade the most compelling
 counterforce to war.
@@ -796,8 +761,6 @@ exceeds its proper bounds and colonizes areas that have a different
 logic and dynamic. There were times - the Middle Ages - when
 this was true of religion. In the eighteenth century it became true
 of science. I n the nineteenth and twentieth centuries it was true of
-
-The Dignity of Difference
 
 .
 
@@ -916,8 +879,6 @@ we are all affected by these ·developments. - and the politicians,
 economy. Single-issu1e ca·mpaign.s ,and. global protests a.re im­
 porta:nt but not enoug·h, because the unfolding w·orl,d or·d 1er is not
 
-Prologue
-
 a single issue, and because protest is only a prelude to, not a
 substitute for, nuanced argument and the building of consensus
 between conflicting interests.
@@ -961,8 +922,6 @@ has turned our world into a society of strangers. That should not
 be a threat to our identity but a call to a moral and spiritual
 generosity more demanding than we had sometimes supposed it to
 be. Can I, a Jew, recognize God's image in one who is not in my
-
-The Dignity of Difference
 
 i1nage: in a. Hin.du or 1Sikh 1or Chri:stian ,or Muslim or an .Eskim.o
 from Gre,enland spea.king a·bout a melting glacier?· Can I do s.o
@@ -1044,8 +1003,6 @@ I I
 .
 
 .·i
-
-I
 
 .
 
@@ -1157,10 +1114,6 @@ i_ - • .: :· •• i
 
 l
 
-I
-
-I
-
 d
 
 od
@@ -1218,8 +1171,6 @@ b
 
 ill!
 
-Prologue
-
 Relativism is too weak to resist the storm winds of religious
 fervour. Only an equal and opposite fervour can do that. I do not
 believe that the sanctity of human life and the inalienable
@@ -1260,8 +1211,6 @@ great crimes of history and much human blood.
 
 Western civilization has known five universalist cultures:
 ancient Greece, ancient Rome, medieval Christianity and Islam,
-
-The Dignity of Difference
 
 and the Enlightenment. Three were secular, two religious. They
 brought inestimable gifts to the world, but they also brought great
@@ -1304,8 +1253,6 @@ is that unity is worshipped in diversity. The glory of the created world
 is its astonishing multiplicity: the thousands of different languages
 spoken by mankind, the proliferation of cultures, the sheer variety
 
-Prologue
-
 of the imaginative expressions of the human spirit, in most of
 which, if we listen carefully, we will hear the voice of wisdom
 telling us something we need to know. That is what I mean by the
@@ -1347,8 +1294,6 @@ I have constructed in the chapters that follow. To a remarkable
 degree, modernity was meant to be the triumphal march of a
 single cluster of interrelated ideas. Its model was science, its
 
-The Dignity of Difference
-
 discourse, reason shorn of the accretions of tradition. Via market
 exchange and the division of labour it would generate wealth.
 Through industrialization and technology it would conquer
@@ -1388,8 +1333,6 @@ leads to mutual enrichment, both sides gain.
 Crises happen when we attempt to meet the challenges of today
 with the concepts of yesterday. That is why nothing less than a
 paradigm shift may be needed to prevent a global age becoming
-
-Prologue
 
 the scene of intermittent but destructive wars. I speak from within
 the Jewish tradition, but I believe that each of us within our own
@@ -1501,8 +1444,6 @@ confidence.
 
 Already in the early twentieth century Alfred North White-
 
-The Dignity of Difference
-
 head noted a qualitative change in our experience of time. In the
 past, he said, 'the time-span of important change was consider­
 ably longer than that of a single human life'. Most people
@@ -1547,8 +1488,6 @@ a map, in a car that is out of control?
 The concept of globalization is not new. Almost 400 years ago,
 John Donne gave it one of its most memorable expressions:
 
-Globalization and its Discontents
-
 All mankinde is of one Author, and is one volume ... No
 man is an lland, in tire of it selfe; every man is a peece of the
 Continent, a part of the maine; if a Clod bee washed away
@@ -1586,8 +1525,6 @@ them with incredible ease ... [T]hought is communicated
 with the rapidity, and even by the power, of lightning ...
 The products of all quarters of the globe are placed at our
 disposal, and we have only to choose which is the best and
-
-The Dignity of Difference
 
 cheapest for our purposes, and the powers of production are
 entrusted to the stimulus of competition and capitalism.
@@ -1628,8 +1565,6 @@ expectancy. The average supermarket in the West sets before
 consumers a range of choices that, a century ago, would have
 been beyond the reach of kings.
 
-Globalization and its Discontents
-
 But globalization has immensely differential and destabilizing
 effects. Its benefits are not spread evenly. There are winners and
 losers, within and between countries. The 'digital divide' has
@@ -1669,8 +1604,6 @@ careers to part-time, temporary and provisional employment.
 Meanwhile, under the pressure of open markets, financial
 deregulation and international competition, the welfare �ervices
 and safety-nets that in the post-war years protected people in
-
-The Dignity of Difference
 
 Britain and America from the effects of unemployment have been
 reduced. The economic climate has become harsher and social
@@ -1713,8 +1646,6 @@ presence of megacorporations have brought about a huge
 internationalization of images and artefacts - what Benjamin
 Barber calls McWorld. 15 The same jeans, T-shirts, trainers, soft
 
-Globalization and its Discontents
-
 drinks, fast-food stores, music and films can be seen on the streets
 of almost every major city on earth, and in many remote villages
 also. The world they represent is overwhelmingly American, and
@@ -1755,8 +1686,6 @@ was between different economic classes and age groups, and with
 it a breakdown of that hard-to-define element of social solidarity
 known as 'trust'. The well-to-do are less likely to use public
 
-The Digniry of Difference
-
 services and have thus ceased to be campaigners for their
 improvement. Robert Reich's description was telling: he called
 it 'the secession of the successful'. 18
@@ -1796,8 +1725,6 @@ redefining the parameters of human action and choice. 21
 Traditional ethics saw action in terms of its immediate effect on
 others who were usually close to hand. Nowadays we are aware of
 the long-term effects of human behaviour on those who are distant
-
-Globalization and its Discontents
 
 from us, whether in space or time (generations not yet born). We
 also face the problem of thinking about actions, insignificant in
@@ -1882,8 +1809,6 @@ They do not live in the same country as those who produce their
 goods. They may have little if any contact with those who buy
 them, especially when purchasing is done through the Internet. This
 
-Globalization and its Discontents
-
 is imJX>rtant because moral responsibility is no mere abstraction. It
 grows out of face-to-face relationships. We see how what we do
 affects others. That is how we learn what to do and what not to do.
@@ -1919,11 +1844,8 @@ ought'. By replacing a hierarchy of collective obligations with a
 superrnarket of personalized lifestyle preferences, it has under­
 mined our ability to talk of public goods - the things (from parks
 to public services to loyalties) we do not buy or own but share.
-• • •
 The most unexpected phenomenon in our time, however, has not
 been the direct effect of globalization but an indirect consequence:
-
-The Dignity of Difference
 
 the resurgence of religion as a significant factor in many parts of
 the world.
@@ -1966,8 +1888,6 @@ public role was at an end.
 
 The strange fact was, however, that religion refused to die.
 
-Globalization and its Discontents
-
 Already in the 1830s a French visitor to the United States, Alexis de
 Tocqueville, noted its surprising tenacity in the New World.
 'Eighteenth-century philosophers', he wrote, 'had a very simple
@@ -2006,8 +1926,6 @@ Hegelian synthesis. Something remained over and above the
 instrumentalities of production and consumption, power and its
 distribution. That something was culture, or at its most general
 level, civilization: the habits of language, history, religion, custom
-
-The Dignity of Difference
 
 and tradition that divided and would continue to divide
 humanity. The more international conflict became global, the
@@ -2050,8 +1968,6 @@ now realized:
 
 Glob,ali,zation and its Discontents
 
-I
-
 .
 
 i
@@ -2089,7 +2005,6 @@ foolishly, th.at the pre,carious civ:ility and order or· th.e, states]
 in which I Uve mus't 'be what all people r·ationally 1desire·�
 No¥! I aRJ. not so sure .. I began the journey as a liberal,, an,d I
 en . as one, ut
-I
 l''b
 b ·
 1 . er.a
@@ -2146,8 +2061,6 @@ h
 
 . .
 
-I
-
 . .-
 
 '
@@ -2203,7 +2116,6 @@ epitomizes what Schumpeter called capitalism's 'perennial gale
 · -h - - --
 d·· -
 . ,ace, , wit
-I
 -
 c .. ange, t .-_ .ose, w . o 1ee,
 . · h
@@ -2226,8 +2138,6 @@ c.-
 
 39 ..
 . . '· �-·
-
-The Dignity of Difference
 
 Most importantly, no other system does what religion has
 traditionally undertaken to do, namely to offer an explanation of
@@ -2269,8 +2179,6 @@ augury. The collapse of the Soviet Union was another. What this
 overlooked, then as now, is that homo sapiens is not only, or even
 primarily, a maximizing animal, choosing rationally between
 
-Globalization and its Discontents
-
 options. We are uniquely a meaning-seeking animal. Our most
 fundamental questions are Who am I? and To which narrative do I
 belong? The great hope of the liberal imagination, that politics
@@ -2310,8 +2218,6 @@ who had come in ships to buy and sell or stay and work. In
 contrast to a village, a city was a place of difference where you
 could hear many languages and accents and meet people from
 different faiths and cultures. To this day, politics retains its link
-
-The Dignity of Difference
 
 with the city as the art of reconciling difference - mediating
 conflict, adjudicating conflicting claims, providing frameworks of
@@ -2353,8 +2259,6 @@ into a religion, when the nation ( in the case of fascism) or system
 greatest risk of the twenty-first century is that the opposite may
 occur: not when politics is religionized but when religion is
 
-Globalization and its Discontents
-
 politicized. What makes religion incapable of being a politics is what
 led Aristotle to criticize the republic of Plato. 33 Plato in The Republic
 sought to invest the state with the characteristics of a religion.
@@ -2393,8 +2297,6 @@ The question is: can they make space for those who are not its
 adherents, who sing a different song, hear a different music, tell a
 different story? On that question, the fate of the twenty-first
 century may turn.
-
-The Dignity of Difference
 
 NOTES
 
@@ -2465,8 +2367,6 @@ do not share my faith - or my race or my ideology - do not share
 my humanity. At best they are second-class citizens. At worst they
 forfeit the sanctity of life itself. They are the unsaved, the
 unbelievers, the infidel, the unredeemed; they stand outside the
-
-The Dignity of Difference
 
 circle of salvation. If faith is what makes us human, then those
 who do not share my faith are less than fully human. From this
@@ -2551,8 +2451,6 @@ instance of a type. That is what makes us persons, not merely
 organisms or machines. If our commonalities are all that ultimately
 matter, then our differences are distractions to be overcome.
 
-The Dignity of Difference
-
 1'his view, I will argue, is profoundly mistaken. It is a mistake
 that has been made several times in the history of the West, and
 we are in the process of making it again in the form of
@@ -2566,8 +2464,6 @@ connection between the tragedy of September 11 and a Greek
 philosopher who lived almost 2,500 years ago, but that is what I
 am going to suggest. I call it Plato's ghost, and it has haunted the
 Western imagination ever since.
-
-* * *
 
 In the Stanza della Segnatura in the Vatican hangs one of the
 supreme artistic achievements of the Renaissance: Raphael's vast
@@ -2634,8 +2530,6 @@ of the tribal cultures and local deities of the ancient world on the
 one hand, and on the other the universalistic cultures such as
 those of Greece and Rome, and their religious successors,
 Christianity and Islam. Judaism was, as it were, born in media
-
-The Dignity of Difference
 
 res. It was able to conceive of a universal God, but not yet of a
 universal faith. Here and there in its sacred texts there appeared
@@ -2727,8 +2621,6 @@ face of the whole earth. (Genesis 11: l -9)
 
 --
 
-The Dignity of Difference
-
 The men on the plain at Shinar make a technological
 discovery. They learn how to make bricks by drying clay. As
 after so many other technological advances, they immediately
@@ -2759,7 +2651,6 @@ exemplary fate. They will be a people who are different. Indeed
 the word kadosh, 'holy', in the Bible means just that - being
 different, set apart, distinctive. The question is, Why?
 
-• • •
 Judaism has a structural peculiarity so perplexing and profound
 that though its two daughter monotheisms, Christianity and
 Islam, took much else from it, they did not adopt this: it is a
@@ -2798,7 +2689,6 @@ o t .1s
 
 f'
 .· O--, t. e creator o
-I
 G--, dhumanity, having made a covenant with all hu·manity., th.en t·urns
 t10 one people and comm.an,ds it to be different, teachi:ng, humaniry to
 make space for difference. God may at time.s· be found i'n human other, the one'
@@ -2834,8 +2724,6 @@ h
 h
 
 h
-
-I
 
 I •·•. 1 .· . I.
 
@@ -2899,8 +2787,6 @@ every creature. CGA means arginine and GCG means
 alan.ine - in bats, in be:etles, in b.acteria. Th.ey eve·n m.ean
 the sa.:me in the tnisleadingly na·med a:rchaeb.a.cteria .living
 at boiling temperatures in sulphurous springs thousands of
-
-The Dignity of Difference
 
 feet beneath the surface of the Atlantic ocean or in those
 microscopic capsules of deviousness called viruses. Wher­
@@ -2983,8 +2869,6 @@ identical p roducts. The answer given by the film is that they
 cannot, which is almost certainly true and a reason why we should
 never go down the road of reproductive cloning or anything else
 
-The Digniry of Difference
-
 that threatens to reduce persons to types. The essential irreplace­
 ability of persons is what gives love its vulnerability, its openness
 to loss and grief, its fragility and pathos. It is what separates
@@ -3014,8 +2898,6 @@ languages. Just as a loving parent is pained by sibling rivalry, so
 God asks us, his children, not to fight or seek to dominate one
 another. God, author of diversity, is the unifying presence within
 diversity.
-
-* * *
 
 This gives biblical ethics a different character from philosophical
 ethics. Philosophical ethics, true to its Platonic origins, focuses on
@@ -3067,8 +2949,6 @@ reciprocity and altruism. Michael Walzer explains why it is that
 
 Societies are necessarily particular because they have
 members and memories, members with memories not only
-
-The Dignity of Difference
 
 of their own but also of their c.ommon li·fc. HuDlanity, by
 contrast, has ·members but no memory·, and so it ·has no
@@ -3257,8 +3137,6 @@ the one who does not fit our svstem, race or creed.
 
 ,
 
-• • •
-
 We can now state what Judaism represents in the history of
 Western thought. The story of the covenantal people begins with
 two journeys: Abraham and Sarah's from Mesopotamia, and
@@ -3321,8 +3199,6 @@ resurgent tribalism that rejects Western 'decadence' and reasserts
 primordial identities, some religious, some ethnic, often a
 combination of both. When the two meet and collide, as they
 
-The Dignity of Difference
-
 did on September 11, the world trembles. To hold the two in
 balance, to recognize and give due weight to our commonalities
 and differences, the universal and the particular, is one of the
@@ -3353,8 +3229,6 @@ understand that just as the natural environment depends on
 biodiversity, so the human environment depends on cultural
 diversity, because no one civilization encompasses all the
 spiritual, ethical and artistic expressions of mankind.
-
-* * *
 
 In 1981 Isaiah Berlin wrote some notes for a friend who was about
 to deliver a lecture and turned to him for help. Berlin was due to
@@ -3407,8 +3281,6 @@ falsehood.'
 Righteousness said, 'Let him be created, for he will do
 
 righteous deeds.'
-
-The Dignity of Difference
 
 Peace said, 'Let him not be created, for he will never cease
 
@@ -3696,8 +3568,6 @@ time to change. So do people.
 
 ..
 
-I
-
 h
 
 d
@@ -3778,8 +3648,6 @@ h
 
 . . .
 
-I
-
 .
 
 .· .
@@ -3807,7 +3675,6 @@ h h
 ·
 rea -. own 10·,· t 1.e 1.nst1tut1ons o soc1.a
 
-• • •
 But this is 1only part 01f the story. Anothe·r, n1ore significant facto·r,
 ·
 1,e. n. t 1 1e past,
@@ -3869,8 +3736,6 @@ frustrated by one government's ban on reproductive cloning or
 the purchase of organs for transplantation, they can travel to some
 other country where it is not yet prohibited. When nation-states
 become ever more limited in their ability to shape events, we
-
-The Dignity of Difference
 
 begin to feel as if the car carrying us forward has no driver at the
 wheel.
@@ -3938,10 +3803,6 @@ d
 
 -
 
-I
-
-I
-
 *
 
 .•
@@ -3992,8 +3853,6 @@ f
 .
 
 ...
-
-The Dignity of Difference
 
 predicted without reference to individual intention. Beneath the
 surface of apparently rational behaviour, said Freud, lie buried
@@ -4079,8 +3938,6 @@ She'd tried all that life could offer. Nothing else was left.1°
 
 This kind of existential burnout is a hazard of our times. Michelle
 
-The Digniry of Difference
-
 is at the lower end of the economic spectrum, but a similar fate
 awaits her jet-setting counterpart in the upper echelons of the
 corporate world - flying from hotel to hotel, constantly in touch
@@ -4132,7 +3989,6 @@ oug. _.t 1s. one t at
 ·ue - va ue an
 1 d
 d
-I
 b
 h
 •
@@ -4179,7 +4035,6 @@ structors, exercise c. ras,s ea. ers
 t e w _o e spect.rum o w ... at
 Robert Reich calls 'paying for .attention'., 14
 
-I
 h
 h · l
 
@@ -4188,8 +4043,6 @@ I d
 .. .
 
 h
-
-I
 
 '·.' �
 
@@ -4256,8 +4109,6 @@ a,
 
 .
 
-I
-
 .
 
 -
@@ -4295,8 +4146,6 @@ h
 
 h
 
-I
-
 c
 
 .,
@@ -4308,8 +4157,6 @@ c
 -
 
 Ii
-
-The Dignity of Difference
 
 recalling that it was none other than Adam Smith who wrote that
 the 'disposition to admire, and almost to worship, the rich and the
@@ -4328,8 +4175,6 @@ wrong, as at times they must, we are liable to despair, because our
 destiny now rests in other hands, not our own. That is the
 weakness of contracting out large aspects of our lives, as against
 assuming personal and moral responsibility.
-
-• • •
 
 The word 'moral' is crucial here. Morality has had a hard time of
 it in the past half-century. It has come to represent everything we
@@ -4394,8 +4239,6 @@ within ourselves. It restores the dignity of agency and responsi­
 bility. It leads us to see our lives not as the blind play of external
 causes - the genome, the free market, economic interests, social
 
-The Dignity of Difference
-
 forces and advertising-induced fashions - but as a series of choices
 in pursuit of the right and good, choices in which we are not left
 unguided but for which a vast store of historical experience lies at
@@ -4438,8 +4281,6 @@ It had little if anything to do with the values of a market society
 Control: The lmpera'livt 1ef Responsibility
 
 .
-
-I
 
 ·11i·
 
@@ -4495,8 +4336,6 @@ the. mor,ally valuable, the holy. This its1elfma.y ·be a .. reason why, in
 large parts of the world, religion has had such a revival. The idea
 that happiness is to be found in getting and spending, the fiction
 
-The Dignity of Difference
-
 sustained by advanced economies, has never been seriously
 entertained by any thinker, religious or philosophical, who has
 pondered the question. Wealth, fame, success - these things are
@@ -4543,11 +4382,7 @@ environtnental or human rights issues, no publi,c moral d.ebate at
 aU. Yet the questio.n. is r,eal and urgent: how do w.e live with moral
 differ,en,ce and yet sustain an ove·rarching co·mmun.ity?
 
-I
-
 ,'
-
-I
 
 .
 
@@ -4577,12 +4412,9 @@ I
 
 .
 
-I
-
 .
 
 '
-I
 
 '
 
@@ -4770,21 +4602,15 @@ I. '
 
 '
 
-I
-
 '
 
 '
-
-I
 
 '
 
 ,
 
 -
-
-The Dignity of Difference
 
 to let the 'We' of our community be constrained by the need to
 make space for other communities and their deeply held beliefs.
@@ -4795,8 +4621,6 @@ wind of economic forces. Conversation - respectful, engaged,
 reciprocal, calling forth some of our greatest powers of empathy
 and understanding - is the moral forrn of a world governed by the
 dignity of difference.
-
-* * *
 
 There is no way of eliminating the objective conditions that create
 insecurity. We are entering on a century whose trajectory is
@@ -4867,8 +4691,6 @@ that way. The environmental movement in the 1970s changed
 public opinion and patterns of consumption. The anti-globalization
 protests of the late 1990s made governments and international
 
-The Dignity of Difference
-
 financial institutions think again about their responsibilities to the
 developing world. Campaigns against corporations have led them
 to take greater care that their goods are not produced under
@@ -4885,8 +4707,6 @@ collective consent. Our aim must be to settle for nothing else than
 an economic system that maximizes human dignity. We must hand
 on to future generations a more gracious, less capricious and
 inequitable world.
-
-NOTES
 
 1. Maimonides, Guide for the Perplexed, I I I: 32.
 2. Wright 2000, p. 50.
@@ -4935,8 +4755,6 @@ not only for individuals but for 'the wealth of nations'. But every
 system has limits. The market is good at creating wealth but not
 at distributing it. It encourages certain virtues but undermines
 others. It has social consequences that are not always benign and
-
-The Dignity of Difference
 
 sometimes disastrous. Markets are the best way we know of
 structuring exchanges ·- goods to be bought or sold. They are far
@@ -5004,28 +4822,17 @@ I ute. wit water,
 
 II! d•'I-.
 
-I
 di
 
 ' '.
 
 :
 
-I
-
 .
-
-I
-
-I
 
 'Ii
 
 .
-
-I
-
-I
 
 The perennial temptations of th.e market - to pursue gain at
 SOD1eone else'',s expen,se, to take adv,antag,e of ignorance, to, treat
@@ -5072,8 +4879,6 @@ h. h .
 *
 
 *
-
-The Dignity of Difference
 
 We owe to Max Weber the insight that economic orders are
 influenced by religious ones. His view, famously, is that the 'spirit
@@ -5156,8 +4961,6 @@ example, is why the industrial revolution took place in Europe,
 not China. In the Middle Ages, China was far in advance of the
 West. It was the first country to witness the invention of printing,
 paper, porcelain and explosives. Why then was it Europe that
-
-The Digniry of Difference
 
 leapt ahead in the nineteenth century? Landes' answer has been
 challenged by some scholars, but it is broadly this: that culture, not
@@ -5246,8 +5049,6 @@ Noah that he will be saved from the flood, but it is Noah who has
 to build the ark. The high value Judaism sets on work is well
 brought out in the following passage:
 
-The Dignity of Difference
-
 Rabbi Shimon hen Elazar said: Great is work because even
 Adam did not taste food until he had perforrned work, as it
 is said, 'The Lord God took the man and placed him in the
@@ -5328,8 +5129,6 @@ believed that there should be a scholarly elite relieved of the
 burden of having to work for a living. Maimonides, though, saw
 the dangers of such an arrangement. It compromised the
 independence of the scholar. 'Better', he told his disciple Joseph
-
-The Dignity of Difference
 
 ibn Aknin, 'to earn a penny as a tailor, carpenter or weaver than
 to depend on the income of the Exilarch.'27 It removed the rabbi
@@ -5416,8 +5215,6 @@ Poverty is not a blessed or divinely ordained condition. It is, the
 rabbis said, 'a kind of death' and 'worse than 50 plagues'. They
 added:
 
-The Dignity of Difference
-
 Nothing is harder to bear than poverty, because he who is
 crushed by poverty is like one to whom all the troubles of the
 world cling and upon whom all the curses of Deuteronomy
@@ -5483,8 +5280,6 @@ d. · ·
 
 I h
 
-I
-
 ·
 
 What is therefore mor,ally una.cceptable a.bout the new
@@ -5508,8 +5303,6 @@ comm.unrty, wea '
 
 e
 
-I
-
 The rabbis favoured markets and ,co111petition because they
 gener·ated ·wealth , lower,ed. p1ri,ce·s, in,c.reased choice, reduced
 absolute lev·els of poverty, and in the course ,of time extended
@@ -5524,8 +5317,6 @@ also tinies when the rabbis intervened to lower prices of· essential
 conitnodi ties.. Provided.,, therefore, that the free market went hand
 
 9- 9·-,1 '
-
-The Digniry of Difference
 
 in hand with strong communities and their attendant responsi­
 bilities, they welcomed its positive features, nowhere more so than
@@ -5618,8 +5409,6 @@ This means that human interaction is not inescapably tragic. It is
 
 1 0 1
 
-The Dignity of Difference
-
 not destined to be agonistic, conflictual, a matter of victory for
 some and defeat for others. I suspect that this is what
 differentiated biblical sensibility from that of ancient Greece.
@@ -5704,8 +5493,6 @@ l O. See Buber 1 996.
 
 1 03
 
-The Dignity of Difference
-
 30. Mid rash 1·anchuma, T azria to Leviticus 1 2: 3.
 3 1 . Quoted in Acton l 993, p. 45.
 32. Weber 1952. See also Berger 1967.
@@ -5768,8 +5555,6 @@ human consequences. Our world is getting less equal by the year.
 That inequality exists both within and between countries. In
 
 1 05
-
-The Dignity of Difference
 
 the second half of the twentieth century, worldwide consumption
 of goods and services grew six-fold. But according to a United
@@ -5852,8 +5637,6 @@ married mothers worked for pay. Thirty years later this figure had
 risen to 70 per cent. Making a living is at the top of young people's
 concerns. In 1968, 7 5 per cent of college freshmen listed
 'developing a meaningful philosophy of life' as very important,
-
-The Dignity of Difference
 
 'being well-off
 while only 4 1 per cent said the same for
@@ -6031,8 +5814,6 @@ a political structure, a language or culture? What proportion of
 
 I I I
 
-The Dignity of Difference
-
 our wealth, if any, are we duty-bound to share? The language of
 rights is not always helpful here, because rights presuppose a
 network of law and obligation that can implement them. A right
@@ -6120,8 +5901,6 @@ both.
 
 1 1 3
 
-The Dignity of Difference
-
 I t arises from the theology of Judaism, which insists on the
 difference between possession and ownership. Ul tima tely, all
 things are owned by God, creator of the world. What we possess,
@@ -6170,8 +5949,6 @@ him by sunset, because his cloak is the only covering he has
 
 1 1 4
 
-Compassion: The Idea of Tzedakah
-
 for his body. What else will he sleep in? When he cries out to
 Me, I will hear, for I am compassionate. (Exodus 22: 21-7)
 
@@ -6210,8 +5987,6 @@ herself and for others - that she may wish to do as a
 responsible human being. The bonded labourer born into
 semi-slavery, the subjugated girl child stifled by a repressive
 
-The Dignity of Difference
-
 society, the helpless landless labourer without substantial
 means of earning an income are all deprived not only in
 terms of well-being, but also in terms of the ability to lead
@@ -6233,7 +6008,6 @@ poor economic opportunities as well as systematic social depriva­
 tion, neglect of public facilities as well as intolerance or
 overactivity of repressive states' . 13
 
-• • •
 How was this achieved? The Bible is set in the context of a
 predominantly agrarian society, and its provisions are designed to
 address the kinds of poverty that arise in that environment. No
@@ -6307,7 +6081,6 @@ corrective to the market by restoring a level playing field to those
 who have been forced to sell either their labour or their land.
 They break the cycle of poverty and dependence.
 
-• • •
 With the transition, some 2,000 years ago, from biblical to post­
 biblical Judaism, we find a greater emphasis on t;:,edakah, the
 direct provision of financial aid, as opposed to agricultural
@@ -6334,8 +6107,6 @@ maintain him, but you are not commanded to make him
 rich. That which he lacks - means even a horse to ride on and
 a slave to run before him. It is told of Hillel the elder (head
 of the Jewish community in the first century BCE] that he
-
-Compassion: The Idea of Tzedakah
 
 bought for a certain poor man of good family a horse to ride
 on and a slave to run before him. On one occasion he could
@@ -6374,8 +6145,6 @@ The highest degree, exceeded by none, is that of one who
 assists a poor person by providing him with a gift or a loan
 or by accepting him into a business partnership or by
 helping him find employment- in a word by putting him in
-
-The Dignity of Difference
 
 a situation where he can dispense with other people's aid.
 With reference to such aid it is said, 'You shall strengthen
@@ -6418,8 +6187,6 @@ phrase is kavod habriyot, 'human honour' - to each of its members.
 This is a constant theme of the prophets. Amos, one of the first
 literary prophets, says in his most famous oracle, 'They sell the
 righteous for silver, and the needy for a pair of shoes. They
-
-Compassion: The Idea of Tzedakah
 
 trample o n the heads of the poor as upon the dust of the ground,
 and deny justice to the oppressed. ' Isaiah says:
@@ -6505,8 +6272,6 @@ which you dig from it.
 David proposed redistribution. His sages told him that the cake
 was not big enough, however it was sliced. Economic growth is
 
-Compassion: The Idea of Tzedakah
-
 more powerful than simple redistribution. But that is true only if
 there is a genuine willingness on the part of those who gain to
 ensure that the losers also benefit; and that does not happen
@@ -6532,8 +6297,6 @@ The globalization of communications, trade and culture, globa­
 lizes human responsibility likewise. The freedom of the few may
 not be purchased at the price of the enslavement of the many to
 poverty, ignorance and disease.
-
-NOTES
 
 l . Financial Times, 6 N ovem her 200 l .
 2. Micklethwait and Woolridge 200 l, p. 256.
@@ -6598,8 +6361,6 @@ hope.
 There have been three great information revolutions in the
 
 1 25
-
-The Dignity of Difference
 
 past, and we are living through the fourth. Because the impact of
 the present transformation will not be known for decades, even
@@ -6680,8 +6441,6 @@ end of the next century, that number had multiplied tenfold.
 Print was a huge boost to literacy. The more books were
 available, the more people learned to read, and the more they
 read, the more books they bought. The press provided new
-
-The Dignity of Difference
 
 channels of communication for governments and new ways of
 spreading artistic and architectural ideas. It enhanced the growth
@@ -6772,8 +6531,6 @@ scope of unaided memory. Few things have been more significant
 
 1 29
 
-The Dignity of Difference
-
 for the development of homo sapiens, the being whose period of
 dependency is longer, and whose genetically encoded instincts are
 fewer, than any other. Humanity's uniqueness lies in the fact that
@@ -6816,8 +6573,6 @@ average twenty years. The first forms of writing therefore
 
 1 30
 
-Creativity: The Imperative of Education
-
 exemplify Bacon's famous observation that knowledge is power.
 With literacy available only to the few - an administrative class,
 usually the priesthood - the result was a series of stratified societies
@@ -6856,8 +6611,6 @@ that for the first time symbols were added to represent vowels
 origin of the alphabet is still evident in the word itself: a
 combination of the first two Hebrew letters, aleph and bet (alpha­
 beta in Greek).
-
-The Dignity of Difference
 
 *
 
@@ -6902,8 +6655,6 @@ one in which everyone has claim to citizenship under the
 
 1 3 2
 
-Creativity: The Imperative of Education
-
 sovereignty of God. That is the significance of the most
 revolutionary of all religious utterances, the declaration in the
 first chapter of Genesis that not only kings and pharaohs but every
@@ -6947,8 +6698,6 @@ you will be my treasured possession. Although the whole
 
 13 3
 
-The Digniry of Difference
-
 earth is mine, you will be for me a kingdom of priests and a
 holy nation." These are the words you are to speak to the
 Israelites.' . . . The people all responded together, 'We will
@@ -6990,8 +6739,6 @@ citizenship. I would go further. There is, in the passage quoted
 above, a strange and not immediately intelligible phrase. Israel is
 
 1 34
-
-Creativity: The Imperative of Education
 
 called on to be 'a kingdom of priests'. In fact, in any literal sense,
 this never happened. The priesthood in ancient Israel was
@@ -7039,8 +6786,6 @@ an analogy with other technological transformations. Changes in
 
 1 35
 
-The Digniry of Difference
-
 the way we record and transmit information have deep effects, few
 of which are apparent at the time, but which are among the most
 potent in the history of civilization. They transform habits of the
@@ -7080,8 +6825,6 @@ write. Compared to North America, Latin America suffers a 50
 per cent higher poverty rate and a 70 per cent greater high school
 
 1 36
-
-Creativity: The Imperative of Education
 
 drop-out rate. Within the United States itself, Hispanics are
 significantly poorer and less educated than other groups. 12 There
@@ -7169,8 +6912,6 @@ schooling. The assembly ordained
 
 1 38
 
-Creativity: The Imperative of Education
-
 that every community of fifteen householders [ or more] shall
 be obliged to maintain a qualified elementary teacher to
 instruct their children in Scripture. They shall provide him
@@ -7213,8 +6954,6 @@ education; and it worked.
 That, I have argued, was itself the result of a revolution in
 information technology almost four millennia ago: the invention
 
-The Dignity of Difference
-
 of the alphabet. The revolution we are living through - of
 personal computers, modems, e-mails, interactive CD-ROMs and
 the Internet - should be understood in the same tertns. Their
@@ -7256,8 +6995,6 @@ ities but also deep ethical implications. Worldwide, the number of
 children - girls especially - who lack adequate education is a
 scandal. It means that most will remain disadvantaged through-
 
-Creativity: The Imperative of Education
-
 out their lives. Schools, curricula, the training of teachers, the
 provision of computers, and low cost downloading of information
 should be key for111s of international aid and voluntary assistance
@@ -7265,8 +7002,6 @@ to developing countries. No other single intervention offers greater
 prospects of enhancing economic opportunities for everyone, and
 for moving us forward in the long, hard journey to universal
 human dignity.
-
-NOTES
 
 l . See Hill 1994; Wright 2000, pp. l 7 4--94.
 2. Hill 1 994, pp. 12- 1 6.
@@ -7367,8 +7102,6 @@ society thus causes civil happiness to emerge.
 
 1 43
 
-The Digniry of Difference
-
 Private vice would become public virtue when society was so
 organized as to turn passions into interests.2 Thus was economics
 born.
@@ -7408,8 +7141,6 @@ public benefit. Like divine providence itself, it points to a larger
 pattern in events beyond the intentions of individual agents. Out
 of the seemingly disconnected decisions of millions of people, each
 
-Co-operation: Civil Society and its Institutions
-
 pursuing his or her own advantage, something vast, benign and
 unexpected emerges: economic growth. To promote the gain of
 all, all we have to do is concentrate on ourselves. The 'invisible
@@ -7421,7 +7152,6 @@ democratic capitalism was winning its battle against rival
 economic systems, though, another challenge was taking shape
 from a quite different, unexpected direction.4
 
-• • •
 It began in I 944 with the invention of a new branch of
 mathematics, games theory, devised by one of the twentieth
 century's most formidable intelligences: John von Neumann
@@ -7448,8 +7178,6 @@ prove them guilty of a lesser offence. The aim of the police,
 therefore, is to get at least one to inform on the other. They put
 them in separate rooms with no possibility of communication.
 They then offer each of the suspects a deal. If one informs and the
-
-The Dignity of Difference
 
 other stays silent, the informant will go free and the other will
 receive a jail sentence of ten years. If they both infot 1n on one
@@ -7496,8 +7224,6 @@ repeatedly? Might they not eventually work out that there was a
 better strategy, namely co-operation: 'I will stay silent if you do'?
 I would then be acting in your interest because it was in my
 
-Co-operation: Civil Society and its Institutions
-
 interest to do so. This pattern, though, would only emerge once I
 had a chance to learn; if, in other words, I found myself
 repeatedly in the same situation, the so-called Iterated Prisoner's
@@ -7538,8 +7264,6 @@ recall that it seemed to be contradicted by the Prisoner's
 Dilemma, which showed that self-regarding action often failed to
 produce optimal outcomes. The conflict was resolved when the
 game was played many times by the same participants.
-
-The Dignity of Difference
 
 Eventually they learn to co-operate; and co-operation is
 predicated on trust, the belief that you will reciprocate, now
@@ -7582,8 +7306,6 @@ say that they are not that sort of thing at all, but you would be
 wrong. Houses of worship, congregations and communities do
 create and distribute something, but it is significantly different
 from wealth or power.
-
-Co-operation: Civil Society and its Institutions
 
 Political and economic relationships are contractual. They
 presuppose the coming together of self-interested parties, both of
@@ -7666,8 +7388,6 @@ the earth, adamah) signifies man, the biological species. /sh means
 roughly the same as the English word, 'person'. The subtle point
 of the biblical text is that this verse is the first in which the word
 
-Co-operation: Civil Society and its Institutions
-
 ish appears. Adam must pronounce the name of his wife before he
 c a n pronounce his own. He must say 'Thou' before he can say 'I'.
 It is this conception of personal identity that lies behind the
@@ -7706,8 +7426,6 @@ Fukuyama is therefore correct when he observes:
 If the institutions of democracy and capitalism are to work
 properly, they must coexist with certain premodern cultural
 habits that ensure their proper functioning. Law, contract,
-
-The Dignity of Difference
 
 and economic rationality provide a necessary but not
 sufficient basis for both the stability and prosperity of
@@ -7748,8 +7466,6 @@ belonging become ever more tenuous. We begin to feel vulnerable
 and alone. We can now say what houses of worship and their
 attendant communities once created and is now in danger of
 being lost - that covenantal dimension of life that generates trust.
-
-Co-operation: Civil Society and its Institutions
 
 It was Harvard political scientist Robert Putnam who in 1995
 gave the phenomenon a metaphor and name. Noting that more
@@ -7796,7 +7512,6 @@ benign only when counterbalanced by habits of co-operation. A
 purely competitive world begins by being creative but ends by
 becoming self-destructive.
 
-• • •
 The new economy has an adverse effect on trust, and it does so in
 multiple ways. One is what Robert Reich strikingly calls 'the
 The sheer pres.,ure of change means that
@@ -7831,8 +7546,6 @@ ual is paramount. From the point of view of the individual it
 is not necessary to be morally upright to be successful;
 indeed it can be a hindrance ... In a society where stable
 relationships prevail, this is much less of a problem because
-
-Co-operation: Civil Society and its Institutions
 
 it is difficult to be successful if you violate the prevailing
 social nor1ns. But when you can move around freely, social
@@ -7873,8 +7586,6 @@ computer screen. The result is, as Jeremy Rifkin puts it:
 [W]hen most relationships become commercial relationships
 and every individual's life is commodified twenty-four hours
 
-The Dignity of Difference
-
 a day, what is left for relationships of a non-commercial
 nature - relationships based on kinship, neighbourliness,
 shared cultural interests, religious affiliation, ethnic identi­
@@ -7914,8 +7625,6 @@ giving up part of what makes us human.19
 *
 
 * *
-
-Co-operation: Civil Society and its Institutions
 
 These things matter, and I have tried in this chapter to say why.
 Sociologists speak about trust, economists about social capital,
@@ -7998,8 +7707,6 @@ market-place, making it sacred and unexchangeable. Under
 the jurisdiction of religion our deeper feelings are sacralized,
 so as to become raw material for the ethical life: the life lived
 
-Co-operation: Civil Society and its Institutions
-
 in judgement. When faith declines, however, the sacred is
 unprotected from marauders; the heart can be captured and
 put on sale. 21
@@ -8036,10 +7743,6 @@ who make and buy, work and consume, are people, and creating
 an environment that respects people and the relationships they
 need to sustain respect, is an essential part of what Samuel Brittan
 calls 'capitalism with a human face' .22
-
-The Digniry of Difference
-
-NOTES
 
 I. Hobbes 1991, p. 70.
 2. Hirschman 1997.
@@ -8102,8 +7805,6 @@ volcanic quarries, over 300 statues had been transported miles and
 raised upright on platfonns by the island inhabitants, despite the fact
 that they had no metal or wheels or any power source other than their
 own energy. Hundreds more lay unfinished in the quarries or
-
-The Dignity of Difference
 
 abandoned before reaching their destination. The whole scene was a
 mystery, unfathomed until recently.
@@ -8306,8 +8007,6 @@ And crow.ned him. ·with glory and ho.nour. ( Psalm 8: 3-5 )
 
 1 64
 
-Conservation: Environmental Sustainability
-
 It was Max Weber, the nineteenth-century sociologist, who
 argued that it was here that lay the roots of Western rationalism
 and the 'disenchantment' or demythologization of nature. For the
@@ -8350,8 +8049,6 @@ of the phrase in Genesis 1 : 'Let us make man in our image after
 our own likeness.' The passage has always been puzzling, for at
 
 1 65
-
-The Dignity of Difference
 
 that stage, prior to the creation of man, God was alone. The 'us',
 says Hirsch, refers to the rest of creation. Because man alone
@@ -8401,7 +8098,6 @@ And plants for people to use. (Psalm 104: l(}-14)
 
 Creation has its own dignity as God's masterpiece, and though we
 have the mandate to use it, we have none to destroy or despoil it.
-• • •
 Though we must exercise caution when reading twenty-first
 century concerns into ancient texts, there seems little doubt that
 much biblical legislation is concerned with what we would
@@ -8435,8 +8131,6 @@ Tiu Dignity of Difference
 
 land', says God, 'is Mine; you are but strangers resident with Me'
 (Leviticus 25: 23) . We are guests on earth.
-
-• • •
 
 Another group of commandments is directed against interference
 with nature. The Bible forbids crossbreeding livestock, planting a
@@ -8475,8 +8169,6 @@ animal rights, a campaign which led to the creation of the
 organization now known as the Royal Society for the Prevention
 
 1 68
-
-Conservation: Environmental Sustainability
 
 of Cruelty to Animals (RSPCA). Peter Singer, the philosopher
 who has done more to argue this case than any other in our time,
@@ -8563,8 +8255,6 @@ see the earth as belonging to the source of being, and us as its
 
 1 1
 
-Conservation: Environmental Sustainability
-
 trustees, charged with conserving and if possible beautifying it for
 the sake of our grandchildren not yet born.
 
@@ -8607,8 +8297,6 @@ modernity was that science and technology would unlock the
 bounties of nature and lead to open-ended progress toward
 
 1 7 1
-
-The Dignity of Difference
 
 unlimited abundance. In the words of Christopher Lasch,
 'Progressive optimism rests, at bottom, on a denial of the natural
@@ -8696,8 +8384,6 @@ mentally benign. No other system has offered more genuine
 
 1 73
 
-The Dignity of Difference
-
 prospects for the alleviation of suffering, poverty, ignorance and
 disease for more people since civilization began.
 
@@ -8741,8 +8427,6 @@ excuse for ignoring the moral dimension; and if we do that, we are
 
 1 74
 
-Conservation: Environmental Sustainability
-
 lost. Freedom means restraint. It means not doing everything we
 can do, nor doing something on the grounds that if we do not,
 someone else will. The free market is a wondrous device, but to
@@ -8766,8 +8450,6 @@ ago. Is there a key to conflict resolution? Is there anything that
 has the power to generate hope in regions of despair? Can we ever
 turn enemies into friends?
 
-NOTES
-
 l . See Diamond 1992, pp. 31 7-62.
 2. Ibid., p. 365.
 3. Mary Midgley, 'Individualism and the concept of Gaia', in Booth, et
@@ -8787,8 +8469,6 @@ nature, see Brown 1999.
 1 1 . Hilary Putnam, 'Cloning People', in Burley 1999, pp. 1-13.
 
 1 75
-
-The Dignity of Difference
 
 12. Scruton 1996, p. l 08.
 13. Sec, for exam pie, the series of books on World Religions and Ecology:
@@ -8834,8 +8514,6 @@ The conflict had started more than six centuries earlier, in the
 Battle of Kosovo of 1 389. Both sides retained strong memories of
 
 1 77
-
-The Digniry of Difference
 
 that event. I t had been a recurring theme in their history ever
 since. If Serbs and Albanians could forgive one another and act so
@@ -8919,8 +8597,6 @@ destroys the hater.
 
 1 79
 
-The Dignity of Difference
-
 Forgiveness is, in origin, a religious virtue. There is no such
 thing as forgiveness in nature. The elements are blind, a n d the
 laws of nature inexorable. Famine, drought, disease, starvation
@@ -8961,8 +8637,6 @@ person will change. Freedom - the ability to act in unpredictable
 ways - is the refutation of tragedy.
 
 The paradigm of forgiveness is the love between pare nt and
-
-Conciliation: The Power of a Word to Change the World
 
 child. A parent knows that a child will make mistakes. True
 parenthood is the willingness, at a certain stage, to empower a
@@ -9010,8 +8684,6 @@ defectors. Nowak called his program Generous. What he had
 
 1 8 1
 
-The Dignity of Difference
-
 done was essentially to create a computer simulation of
 reconciliation. Forgetting is as close as a computer gets to forgiving.5
 Recall that the original Tit-for-Tat was a model of retributive
@@ -9054,8 +8726,6 @@ mankind.
 
 The second act - the Bible's most extended essay on the
 
-Conciliation: The Power of a Word to Change the World
-
 concept of forgiveness - is about the relationship between human
 beings. Joseph, eleventh of Jacob's sons, is envied by his brothers.
 They resent his dreams and airs of grandeur. They are jealous of
@@ -9094,8 +8764,6 @@ grievance. With Joseph, forgiveness enters the scene and heralds a
 new way forward. Sibling rivalry is not fated to end in tragedy as
 long as one of the partners is able to say, 'You intended to harm
 me, but God intended it for good.'
-
-The Dignity of Difference
 
 The Joseph story does more than bring the concept of
 forgiveness from God to mankind. I t also establishes the
@@ -9137,8 +8805,6 @@ atonement. Not only individuals, but a people, can be forgiven.
 The fourth stage takes forgiveness into the arena of interna-
 
 1 84
-
-Conciliation: The Power of a Word to Change the World
 
 tional relations. In one of his speeches to the next generation,
 Moses instructs the Israelites: 'Do not despise an Egyptian, for you
@@ -9319,8 +8985,6 @@ ii,
 
 1 86
 
-Conciliation: The Power of a Word to Change the World
-
 retribution. Forgiveness is the further acknowledgement that
 justice alone may not be enough to silence the feelings of th.e
 affiicted. Even when the evidence has been taken, the verdict
@@ -9359,8 +9023,6 @@ of the dead, a dire and absolute expression of respect. 1 2
 How then is forgiveness possible? It is possible because, once
 the impartial processes of law have taken their course, justice
 done, sentences served, amends made and apologies expressed, a
-
-The Dignity of Difference
 
 halt must be called to the otherwise endless voice of implacable
 grief. Forgiveness does not mean forgetting, nor does it mean
@@ -9402,8 +9064,6 @@ family so that they can put a personal face to the family of the
 injured man and understand that there is no such thing as an
 impersonal victim of violence. In the middle of her cross­
 examination, she is interrupted by another voice:
-
-Conciliation: The Power of a Word to Change the World
 
 A woman stood up at the back of the courtroom. She
 blurted out in English, in a loud, shaking voice, ' I forgive
@@ -9448,8 +9108,6 @@ momentum of suspicion, distrust and cumulative grievance.
 Yet in the end peace is made, if at all, then by people who
 acknowledge the personhood of their opponents. Until Israelis
 
-The Digniry of Difference
-
 and Palestinians are able to listen to one another, hear each
 other's anguish and anger and make cognitive space for one
 another's hopes, there is no way forward. One of the great stories
@@ -9489,10 +9147,6 @@ violence with peace, resentment with generosity of spirit and
 conflict with reconciliation.
 
 1 90
-
-Conciliation: The Power of a Word to Change the World
-
-NOTES
 
 I . On forgiveness and conciliation, see Johnston and Sampson 1994;
 Shriver 1995; Baum and Wells 1997; Etzioni and Camey 1997;
@@ -9544,8 +9198,6 @@ potentially benign. They herald the alleviation of poverty, the
 defeat of ignorance and the treatment of disease on an
 unprecedented scale. The risks, however, are immense.
 
-A Covenant of Hope
-
 There is a real and present danger that the market, left to its
 own devices, will continue to concentrate wealth in fewer and
 fewer hands, leaving whole nations destitute and significant
@@ -9575,7 +9227,6 @@ ethnic wars and the capacity of highly decentralized groups,
 sometimes no more than a few individuals, to put security of life at
 risk. We have a global economy. We do not yet have a global
 culture, global governance or a coherent vision of global concern.
-* * *
 
 The wisdom of the world's religions may seem at best irrelevant,
 at worst dangerous, to a world driven by economic forces. In the
@@ -9583,8 +9234,6 @@ West, especially Wes tern Europe, society has become secularized.
 In the Middle East and parts of Asia it has witnessed a growth of
 fundamentalism that threatens economic development and
 political freedom alike. Whatever therefore the prospects for the
-
-The Dignity of Difference
 
 future, religion seems too powerless to effect change or too
 powerful to be constrained by it. Either way, it seems destined to
@@ -9627,8 +9276,6 @@ That was a noble aspiration and much of it remains valid
 today. But mankind is now older, sadder and wiser. Reason did
 not dispel prejudice. Technology, whether in the form of weapons
 
-A Covenant of Hope
-
 of mass destruction, over-exploitation of natural resources,
 pollution of the atmosphere, or genetic manipulation, threatens
 the sustainability of nature itself. Representative democracy
@@ -9670,8 +9317,6 @@ dignity - the dignity of all human beings, equally, as children of
 the creative, redeeming God.
 
 Is this a 'religious' insight? Yes and no. There have been
-
-The Dignity of Difference
 
 secular humanists who have affi1111ed it; there have been religious
 zealots who have denied it. What matters most is not why we hold
@@ -9717,8 +9362,6 @@ The very thing that first commended capitalism to its
 advocates - the fact that it took people's minds away from war
 and led them instead to the pursuit of trade - constitutes, to its
 
-A Covenant of Hope
-
 critics, its shortcomings. The virtues of a liberal democratic order
 are, from another perspective, its vices. People turn away from
 public life to private devices and desires. They become self­
@@ -9757,8 +9400,6 @@ depends.
 
 It is far easier to monitor and defend oneself against states than
 to do so for 'super-empowered individuals'. Such individuals -
-
-The Digniry of Difference
 
 Osama bin Laden is the paradigm, but there are many others - fit
 Fukuyama's description. They come from well-to-do, even affluent
@@ -9799,8 +9440,6 @@ indiscriminately, shooting out the legs of not only the
 'absolutisms', dogmas, and certainties of the Western
 tradition, but that tradition's emphasis on tolerance,
 
-A Covenant of Hope
-
 diversity, and freedom of thought as well. If nothing can be
 true absolutely, if all values are culturally determined, then
 cherished principles like human equality have to go by the
@@ -9839,8 +9478,6 @@ coerced is not faith; that religious worship must be free if it is to be
 a genuine assent of the soul. 'Liberty of conscience', Plamenatz
 writes, 'was born, not of indifference, not of scepticism, not of
 mere open-mindedness, but of faith.'6 That is what differentiates
-
-The Dignity of Difference
 
 the seventeenth-century approach to liberty from twentieth­
 century advocates such as Friedrich Hayek, Karl Popper and
@@ -9883,8 +9520,6 @@ continue to rise.
 
 There is nothing relativist about the idea of the dignity of
 
-A Covenant of Hope
-
 difference. It is based on the radical transcendence of God from
 the created universe, with its astonishing diversity of life forms -
 all of which, as we now know through genetic research, derive
@@ -9926,11 +9561,8 @@ human understanding that passes between people who, knowing
 
 20 1
 
-The Digniry of Difference
-
 how important their attachments are to them, understand how
 deeply someone else's different attachments matter to them also.
-• • •
 With this I return to a concept that has underlain much of what I
 have argued - the concept of covenant. Initially a form of treaty
 between neighbouring powers in the ancient Near East, it
@@ -9965,8 +9597,6 @@ They form the matrix of mutuality within which contractual
 relationships can exist. As Philip Selznick notes:
 
 Every genuine covenant restates and reaffirms the basic
-
-A Covenant of Hope
 
 features of morality: deference to a source of judgement
 beyond autonomous will; constructive self-regard; concern
@@ -10008,8 +9638,6 @@ the peace that is predicated on diversity, not on uniformity.
 
 Covenant tells me that my faith is a form of relationship with
 
-The Dignity of Difference
-
 God - and that one relationship dots not exclude others. God's 'tender
 care rests upon all his works' in ways that transcend our
 understanding. Nowhere is this more magnificently set out than
@@ -10050,8 +9678,6 @@ Finally, covenants are intergenerational. 'Not with you alone
 who are standing here today in the presence of the Lord our God,
 am I making this covenant with its oath, but also with those who
 
-A Covenant of Hope
-
 are not here today', says Moses at the end of his life (Deuteronomy
 29: 14-15). A covenant is, in Edmund Burke's phrase, a partnership
 'between those who are living, those who are dead, and those who
@@ -10065,7 +9691,6 @@ te1111 creates hazard in the long term. Covenant means extended
 responsibility, horizontally across space, vertically across time, to
 and for the totality of which we are a part.
 
-• • •
 Our global situation today is not unlike the condition of European
 nations during the great wars of religion of the sixteenth and
 seventeenth centuries in the wake of the Reformation. Then, as
@@ -10134,8 +9759,6 @@ to all configurations of culture. It is born in the belief that the
 sources of action lie within ourselves. We are not unwitting
 products of blind causes: the selfish gene, the Darwinian struggle
 
-A Covenant of Hope
-
 for survival, the Hegelian dialectic of history, the Marxist war of
 classes, the Nietzschean clash of wills, a Durkheim set of
 sociological trends, or a Freudian complex of psychological drives
@@ -10175,8 +9798,6 @@ that emphasize kinship with the stranger, empathy with the
 outsider, the courage that leads people to extend a hand across
 boundaries of estrangement or hostility. The choice is ours. Will
 the generous texts of our tradition serve as interpretive keys to the
-
-The Dignity of Difference
 
 rest, or will the abrasive passages deter111ine our ideas of what we
 are and what we are called on to do? No tradition is free from the
@@ -10219,8 +9840,6 @@ of the two understands what he is now to carry? The man who is
 used to diamonds knows that stones can be precious, even those
 that are not diamonds. But the man who has carried only rocks
 
-A Covenant of Hope
-
 thinks of stones as a mere burden. They have weight but not
 worth. Rubies are beyond his comprehension.
 
@@ -10244,8 +9863,6 @@ we realize the danger of wishing that everyone should be the same
 - will we prevent the clash of civilizations, born of the sense of
 threat and fear. We will learn to live with diversity once we
 understand the God-given, world-enhancing dignity of difference.
-
-NOTES
 
 l . Novak 1991.
 2. Fukuyama 1992, p. 328.
@@ -10441,7 +10058,7 @@ E tz i o n i. , Ami t a i a nd
 
 Compa rativ.e .Pe rspective. La nh, am ,,. M D : ,R.o,wman & Li t tlefield .
 
-Fi nk i e l k ra u t, Alai n (' 200 1 ) ,. In tkt .Nam,, of Hamanit, . Lon.d o.n : 'Pim lico .
+Fink i e l k ra u t, Alai n (' 200 1 ) ,. In tkt .Nam,, of Hamanit, . Lon.d o.n : 'Pim lico .
 
 F ra:n k. , Thom as (. 200'2 } ,, Ont Market Undtr Godl Lond,on :: V i n t age .
 
@@ -10478,7 +10095,7 @@ ton .
 ___
 -- ( 1 99 5 ) , Tru�st. Lo nd o1n � H am i s h H am.ilto1n .
 ___
-�� ( 1 99 9 ) , The Great Disruption . Lond on : P:ro·fi le .
+�� ( 1 99 9 ) , The Great Disruption . Lond on : P:ro·file .
 ,G a l. bra i t h ,I J 1oh n K en ne th
 
 ( 1 99 2 ) ,1 The Cu lturr, � of. Con,tentment. Lo.nd on :

@@ -32,7 +32,6 @@ title
 
 		publication date
 		:
-		1990
 
 		lcc
 		:
@@ -109,24 +108,16 @@ Page 7
 
  Preface
 
- 11
-
  PART I:
 The Experience of Crime
 
- 13
-
  Chapter 1
 A Vignette
-
- 15
 
  The Story
 
  Chapter 2
 The Victim
-
- 19
 
  The Experience
 
@@ -139,8 +130,6 @@ The Victim
  Chapter 3
 The Offender
 
- 33
-
  The Prison Experience
 
  What Needs to Happen?
@@ -149,8 +138,6 @@ The Offender
 
  Chapter 4
 Some Common Themes
-
- 45
 
  Repentance and Forgiveness
 
@@ -163,12 +150,8 @@ Page 8
  PART II:
 The Justice Paradigm
 
- 61
-
  Chapter 5
 Retributive Justice
-
- 63
 
  Fixing Blame
 
@@ -183,8 +166,6 @@ Retributive Justice
  Chapter 6
 Justice as Paradigm
 
- 83
-
  The Importance of Paradigms
 
  Applying the Paradigm
@@ -194,12 +175,8 @@ Justice as Paradigm
  PART III:
 Roots And Signposts
 
- 95
-
  Chapter 7
 Community Justice: The Historical Alternative
-
- 97
 
  Community Justice
 
@@ -222,8 +199,6 @@ Community Justice: The Historical Alternative
  Chapter 8
 Covenant Justice: The Biblical Alternative
 
- 126
-
  What Does the Bible Say?
 
  Shalom: A Unifying Vision
@@ -245,8 +220,6 @@ Page 9
  Chapter 9
 VORP: An Experimental Plot
 
- 158
-
  The VORP Concept
 
  What Has Been Learned?
@@ -258,12 +231,8 @@ VORP: An Experimental Plot
  PART IV:
 A New Lens
 
- 175
-
  Chapter 10
 A Restorative Lens
-
- 177
 
  Crime: Violation of People and Relationships
 
@@ -288,8 +257,6 @@ A Restorative Lens
  Chapter 11
 Where from Here?
 
- 215
-
  System Possibilities
 
  In the Meantime
@@ -300,39 +267,23 @@ Where from Here?
 
  Afterword
 
- 228
-
  Appendix 1
 A Restorative Justice Yardstick
-
- 230
 
  Appendix 2
 The Subversion of Visions
 
- 232
-
  Appendix 3
 Suggestions for Group Study
-
- 237
 
  Appendix 4
 Lessons from Sentencing Circles and Family Group Conferences
 
- 256
-
  Select Bibliography
-
- 263
 
  Sources of Additional Information
 
- 276
-
  The Author
-
- 279
 
 Page 11
 
@@ -2665,15 +2616,7 @@ Page 184
 
  Crime defined by harm to people and relationships (i.e., broken relationships)
 
- (table continued on next page)
-
 Page 185
-
- (table continued from previous page)
-
- Retributive Lens
-
- Restorative Lens
 
  Harms defined abstractly
 
@@ -2927,10 +2870,6 @@ Page 202
 
  Understandings of Accountability
 
- Retributive Lens
-
- Restorative Lens
-
  Wrongs create guilt
 
  Wrongs create liabilities and obligations
@@ -2963,11 +2902,7 @@ Page 202
 
  Recognizes difference between potential and actual realization of human freedom
 
- (table continued on next page)
-
 Page 203
-
- (table continued from previous page)
 
  Free will or social determinism
 
@@ -3091,10 +3026,6 @@ Page 211
 
  Understandings of Justice
 
- Retributive Lens
-
- Restorative Lens
-
  Blame-fixing central
 
  Problem-solving central
@@ -3107,15 +3038,7 @@ Page 211
 
  Needs primary
 
- (table continued on next page)
-
 Page 212
-
- (table continued from previous page)
-
- Retributive Lens
-
- Restorative Lens
 
  Emphasizes differences
 
@@ -3165,15 +3088,7 @@ Page 212
 
  Victim, offender, and community roles recognize
 
- (table continued on next page)
-
 Page 213
-
- (table continued from previous page)
-
- Retributive Lens
-
- Restorative Lens
 
  Offender has no responsibility for resolution
 
@@ -3223,15 +3138,7 @@ Page 213
 
  Process aims at reconciliatio
 
- (table continued on next page)
-
 Page 214
-
- (table continued from previous page)
-
- Retributive Lens
-
- Restorative Lens
 
  Response based on offender's past behavior
 
@@ -3688,8 +3595,6 @@ Page 240
  Chapter 3
 The Offender
 
- Questions
-
  1. What do you think of the outcome for the offender in the beginning "vignette" case? If you were asked to develop an alternate proposal, what would you propose?
 
  2. What does the author suggest about concepts of self-worth and personal power and their relationships to offending? Do you agree? (See also chapter 4.)
@@ -3705,8 +3610,6 @@ The Offender
 Page 241
 
  behavior grow out of abuse at home or restricted educational and employment opportunities? How should this affect their responsibility? How does it affect society's responsibility?
-
- Activities
 
  1. As in the suggestions for chapter 2, list a series of words on the board. Have the group call out their associations. After they have run out of ideas, analyze their responses.
 
@@ -3735,8 +3638,6 @@ Page 241
  Chapter 4
 Some Common Themes
 
- Questions
-
  1. What does repentance and forgiveness mean to you?
 
  2. Is forgiveness compatible with the legal system? Is it an appropriate concern in relation to crime? If so, how can it be encouraged? What dangers do you see?
@@ -3761,8 +3662,6 @@ Page 242
 
  11. What can we do as individuals, society, and the church to "demystify" crime?
 
- Activities
-
  1. Examine news clippings of crime coverage from a local paper. List and discuss ways news coverage of crime encourages fear as well as stereotypes and misconceptions about crime, victims, offenders, officials, and the justice process.
 
  2. Invite a reporter who covers crime to talk to your group about how this news is obtained and reported.
@@ -3773,8 +3672,6 @@ Page 243
 
  Chapter 5
 Retributive Justice
-
- Questions
 
  1. List and evaluate the six assumptions identified in this chapter. Are these in fact our assumptions? Are there others? Are they the ''right" ones?
 
@@ -3808,8 +3705,6 @@ Page 244
 
  15. Did you realize before this that the state, not the individual, is the legal victim of a crime? What are some of the implications for you if you were (or have been) a victim?
 
- Activities
-
  1. Make up a case. Ask a variety of criminal justice officials (judges, probation officers, lawyers, prosecutors) to say what they think should be the sentence or outcome. Report back and compare the results.
 
  2. Ask the group to take positions on a series of statements. Ask those who wish to register disagreement to stand at one end of the room, those registering agreement at the other, and those undecided to stand in the center. They will need to rearrange themselves after each statement. Pause to discuss the reasons for your opinions between each statement.
@@ -3828,8 +3723,6 @@ Page 245
 
  Chapter 6
 Justice as Paradigm
-
- Questions
 
  1. What does the author mean by paradigm?
 
@@ -3851,16 +3744,12 @@ Page 246
 
  tent do they point in new directions? To what extent are they simply patches in the paradigm?
 
- Activities
-
  Suppose two children get into a fight at school and one knocks a tooth from the other. This could be treated as a problem requiring punishment, a conflict needing resolution, or a damage requiring restitution. It could be seen as something to settle within the school, as a criminal case, or it could be taken to civil court. All these and other responses can and do occur in such situations.
 
  Discuss what governs the response to such a situation. What are the likely consequences of each? Which is likely to be most satisfactory and why? How does the response chosen affect the eventual understanding of the original fight?
 
  Chapter 7
 Community Justice: The Historical Alternative
-
- Questions
 
  1. What have you heard or been taught about the way crime was handled in the past? How does this compare with the author's portrayal?
 
@@ -3884,8 +3773,6 @@ Page 247
 
  Chapter 8
 Covenant Justice: The Biblical Alternative
-
- Questions
 
  1. The author argues that the law in the Old Testament had a different meaning and function than law today. What are some of the differences? What are the implications?
 
@@ -3915,8 +3802,6 @@ Page 248
 
  12. Modern justice is usually imaged as a blindfolded goddess holding a scales. What are the meanings of this image? In what ways is this a healthy image? In what ways might it be a dangerous image? What might be an appropriate image for restorative justice?
 
- Activities
-
  1. Note some biblical examples of vengeance. Now seek out examples of forgiveness and reconciliation. Which theme seems more important to you in the Old
 
 Page 249
@@ -3934,8 +3819,6 @@ Page 249
  Chapter 9
 VORP:
 An Experimental Plot
-
- Questions
 
  1. What are some potential benefits of the VORP approach? What are some potential problems?
 
@@ -3955,8 +3838,6 @@ Page 250
 
  8. How can and should the church be involved in VORP? What are the possibilities and responsibilities of the church here? What form should this involvement take? (You may wish to use the handbook, VORP Organizing: A Foundation in the Church, available from Mennonite Central Committee. (Address is in the appendix.)
 
- Activities
-
  1. Role-play a victim-offender reconciliation meeting. Divide into groups of three or four, with people playing the parts of victim, offender, mediator, and possibly observer. (For role play suggestions, see The Role Play Book designed for use in mediation training. It is available from Mennonite Conciliation Service, whose address is in the appendix.)
 
  2. View and discuss an audiovisual about VORP. Try the slide sets, "Crime: The Broken Community" and "Crime: Mediating the Conflict" or the video, "Going Straight." See the resource lists from MCC and the PACT Institute of Justice listed in the appendix.
@@ -3967,8 +3848,6 @@ Page 251
 
  Chapter 10
 A Restorative Lens
-
- Questions
 
  1. What are the primary differences between the retributive and restorative "lenses"? List and evaluate the differences.
 
@@ -4034,8 +3913,6 @@ Page 253
 
  28. Is there a legitimate role for punishment? If so, in what circumstances and to what end? How can its misuse be minimized?
 
- Activities
-
  1. Ignoring for the moment the questions of how to implement it, try to design an approach to ''crime" which is thoroughly restorative. What would it look like?
 
  2. Take a case example. Design a restorative process and outcome for the case. Keep in mind the "four di-
@@ -4050,8 +3927,6 @@ Page 254
 
  Chapter 11
 Where from Here?
-
- Questions
 
  1. What is the proper role of the state in the justice process? How would it change in a restorative model?
 
@@ -4068,8 +3943,6 @@ Page 255
  6. What would happen if we "civilized" the law, treating "criminal" offenses much like other harms and conflicts? What special procedures and safeguards, if any, might be needed?
 
  7. How will you respond differently to crime and other harms or conflicts now that you have read this book?
-
- Activities
 
  1. Starting with the author's discussions of the early-modern and the Japanese systems, imagine and discuss what a "two-track" system might look like in our society today. What would the two systems look like? How would it be decided which track is to be used when?
 

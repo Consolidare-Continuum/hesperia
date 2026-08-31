@@ -1,4 +1,3 @@
-
 CAUSALITY
 
 Models, Reasoning, and Inference
@@ -185,8 +184,6 @@ vii
 
 viii
 
-Contents
-
 2.7 Local Criteria for Inferring Causal Relations
 2.8 Nontemporal Causation and Statistical Time
 2.9 Conclusions
@@ -247,8 +244,6 @@ for Control Queries
 
 4.4.1 Motivation
 4.4.2 Plan Identification: Notation and Assumptions
-
-Contents
 
 4.4.3 Plan Identification: The Sequential Back-Door Criterion
 4.4.4 Plan Identification: A Procedure
@@ -316,8 +311,6 @@ ix
 
 x
 
-Contents
-
 6.3.3 Failing Necessity via Barren Proxies
 6.3.4 Failing Necessity via Incidental Cancellations
 
@@ -381,8 +374,6 @@ Imperfect Experiments: Bounding Effects and Counterfactuals
 
 8.1.1 Imperfect and Indirect Experiments
 8.1.2 Noncompliance and Intent to Treat
-
-Contents
 
 8.2 Bounding Causal Effects with Instrumental Variables
 
@@ -469,8 +460,6 @@ xi
 
 xii
 
-Contents
-
 10.3.4 Path-Switching Causation
 10.3.5 Temporal Preemption
 
@@ -540,8 +529,6 @@ The Calculus of Counterfactuals
 11.7.2 The Meaning of Counterfactuals
 11.7.3 d-Separation of Counterfactuals
 
-Contents
-
 11.8
 
 Instrumental Variables and Noncompliance
@@ -564,8 +551,6 @@ Name Index
 Subject Index
 
 xiii
-
-Preface to the First Edition
 
 The central aim of many studies in the physical, behavioral, social, and biological sciences
 is the elucidation of cause–effect relationships among variables or events. However, the
@@ -597,8 +582,6 @@ provides useful ways of abbreviating and organizing intricate patterns of probab
 xv
 
 xvi
-
-Preface to the First Edition
 
 fundamental building blocks both of physical reality and of human understanding of that
 reality, and I regard probabilistic relationships as but the surface phenomena of the causal
@@ -639,8 +622,6 @@ of bounding causal relationships and illustrate applications to imperfect experi
 legal responsibility, and the probability of necessary, sufficient, and single-event causation. We end this book (Epilogue) with a transcript of a public lecture that I presented at
 UCLA, which provides a gentle introduction to the historical and conceptual aspects of
 causation.
-
-Preface to the First Edition
 
 xvii
 
@@ -686,8 +667,6 @@ Pearl, "An Axiomatic Characterization of Causal Counterfactuals," pp. 151–82, 
 1998, with permission from Kluwer Academic Publishers. Chapter 7 also includes material reprinted from Artificial Intelligence, vol. 97, David Galles and Judea Pearl, "Axioms
 
 xviii
-
-Preface to the First Edition
 
 of Causal Relevance," pp. 9–43, Copyright 1997, with permission from Elsevier Science.
 Chapter 8 includes material modified from Journal of the American Statistical Association, vol. 92, Alexander Balke and Judea Pearl, "Bounds on Treatment Effects from
@@ -785,8 +764,6 @@ If I hose my roof it will get wet.
 Taken literally, these two premises imply the implausible conclusion that my neighbor's
 roof gets wet whenever I hose mine.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 Such paradoxical conclusions are normally attributed to the finite granularity of our
 language, as manifested in the many exceptions that are implicit in premise 1. Indeed, the
 paradox disappears once we take the trouble of explicating those exceptions and write,
@@ -829,13 +806,11 @@ some of its elements).
 
 In the Bayesian formalism, belief measures obey the three basic axioms of probability calculus:
 
-1.1 Introduction to Probability Theory
+0 P(A) 1,
 
-0 (cid:5) P(A) (cid:5) 1,
+P (sure proposition) 1,
 
-P (sure proposition) (cid:2)1,
-
-P(A or B) (cid:2) P(A) (cid:3) P(B) if A and B are mutually exclusive.
+P(A or B) P(A) P(B) if A and B are mutually exclusive.
 
 (1.1)
 
@@ -854,20 +829,20 @@ B) and (A
 
 ¿
 
-P(A) (cid:2) P(A, B) (cid:3) P(A, ¬ B),
+P(A) P(A, B) P(A, ¬ B),
 
 (1.4)
-More generally, if Bi, i (cid:2) 1, 2,…, n, is a set
+More generally, if Bi, i 1, 2,…, n, is a set
 where P(A, B) is short for
 ¿
 of exhaustive and mutually exclusive propositions (called a partition or a variable), then
-P(A) can be computed from P(A, Bi), i (cid:2) 1, 2,…, n, by using the sum
+P(A) can be computed from P(A, Bi), i 1, 2,…, n, by using the sum
 
 P(A
 
 B).
 
-P(A) (cid:2) a
+P(A) a
 i
 
 P(A, Bi),
@@ -877,7 +852,7 @@ P(A, Bi),
 which has come to be known as the "law of total probability." The operation of summing
 up probabilities over all Bi is also called "marginalizing over B"; and the resulting probability, P(A), is called the marginal probability of A. For example, the probability of A,
 "The outcomes of two dice are equal," can be computed by summing over the joint
-i (cid:2) 1, 2,…, 6, where Bi stands for the proposition "The outcome of
+i 1, 2,…, 6, where Bi stands for the proposition "The outcome of
 events
 Bi),
 the first die is i." This yields
@@ -886,12 +861,10 @@ the first die is i." This yields
 
 ¿
 
-P(A) (cid:2) a
+P(A) a
 i
 
-P(A, Bi) (cid:2) 6 (cid:4) 1
-
-(cid:2) 1
+P(A, Bi) 6 1
 
 .
 
@@ -901,23 +874,23 @@ A direct consequence of (1.2) and (1.4) is that a proposition and its negation m
 
 assigned a total belief of unity,
 
-P(A) (cid:3) P(¬ A) (cid:2) 1,
+P(A) P(¬ A) 1,
 
 (1.7)
 
 because one of the two statements is certain to be true.
 
 The basic expressions in the Bayesian formalism are statements about conditional
-probabilities – for example, P(A ƒ B) – which specify the belief in A under the assumption that B is known with absolute certainty. If P(A ƒ B) (cid:2) P(A), we say that A and B
+probabilities – for example, P(A ƒ B) – which specify the belief in A under the assumption that B is known with absolute certainty. If P(A ƒ B) P(A), we say that A and B
 are independent, since our belief in A remains unchanged upon learning the truth of B.
-If P(A ƒ B, C) (cid:2) P(A ƒ C), we say that A and B are conditionally independent given
+If P(A ƒ B, C) P(A ƒ C), we say that A and B are conditionally independent given
 C; that is, once we know C, learning B would not change our belief in A.
 
 Contrary to the traditional practice of defining conditional probabilities in terms of
 
 joint events,
 
-P(A (cid:2) B) (cid:2) P(A, B)
+P(A B) P(A, B)
 P(B)
 
 ,
@@ -936,8 +909,6 @@ P(B)
 
 denote the logical connectives and, or, not, and implies, respectively.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 Bayesian philosophers see the conditional relationship as more basic than that of joint
 events – that is, more compatible with the organization of human knowledge. In this
 view, B serves as a pointer to a context or frame of knowledge, and A ƒ B stands for an
@@ -945,84 +916,70 @@ event A in the context specified by B (e.g., a symptom A in the context of a dis
 Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from
 those statements via the product
 
-P(A, B) (cid:2) P(A (cid:2) B) P(B),
+P(A, B) P(A B) P(B),
 
 (1.9)
 
 which is equivalent to (1.8). For example, it was somewhat unnatural to assess
 
-P(A, Bi) (cid:2) 1
+P(A, Bi) 1
 
 directly in (1.6). The mental process underlying such assessment presumes that the two
 outcomes are independent, so to make this assumption explicit the probability of the joint
 event (equality, Bi) should be assessed from the conditional event (equality ƒ Bi) via the
 product
 
-P(equality ƒ Bi) P(Bi) (cid:2) P(outcome of second die is i ƒ Bi)P(Bi)
-
-(cid:2) 1
-
-(cid:4) 1
-
-(cid:2) 1
+P(equality ƒ Bi) P(Bi) P(outcome of second die is i ƒ Bi)P(Bi)
 
 .
 
 As in (1.5), the probability of any event A can be computed by conditioning it on any
 
-set of exhaustive and mutually exclusive events Bi, i (cid:2) 1, 2,…, n, and then summing:
+set of exhaustive and mutually exclusive events Bi, i 1, 2,…, n, and then summing:
 
-P(A) (cid:2) a
+P(A) a
 i
 
-P(A (cid:2) Bi)P(Bi).
+P(A Bi)P(Bi).
 
 (1.10)
 
 This decomposition provides the basis for hypothetical or "assumption-based" reasoning. It states that the belief in any event A is a weighted sum over the beliefs in all the
 distinct ways that A might be realized. For example, if we wish to calculate the probability that the outcome X of the first die will be greater than the outcome Y of the second,
-we can condition the event A : X (cid:6) Y on all possible values of X and obtain
+we can condition the event A : X Y on all possible values of X and obtain
 
-P(Y (cid:8) X (cid:2) X (cid:2) i)P(X (cid:2) i)
+P(Y X X i)P(X i)
 
-P(A) (cid:2) a
-i(cid:2)1
-(cid:2) a
-i(cid:2)1
+P(A) a
+i1
 a
-i(cid:2)2
+i1
+a
+i2
 
-(cid:2) 1
-
-P(Y (cid:8) i)
-
-(cid:2) 5
+P(Y i)
 
 .
 
-i (cid:7) 1
+i 1
 
-(cid:2) a
-i(cid:2)1
-
-i(cid:7)1
 a
-j(cid:2)1
+i1
 
-P(Y (cid:2) j)
+i1
+a
+j1
+
+P(Y j)
 
 It is worth reemphasizing that formulas like (1.10) are always understood to apply in
 some larger context K, which defines the assumptions taken as common knowledge (e.g.,
 the fairness of dice rolling). Equation (1.10) is really a shorthand notation for the statement
 
-1.1 Introduction to Probability Theory
-
-P(A (cid:2) K) (cid:2) a
+P(A K) a
 i
 
-P(A (cid:2) Bi, K)P(Bi
-
-(cid:2)
+P(A Bi, K)P(Bi
 
 K).
 
@@ -1034,9 +991,8 @@ a genuine probability function; hence it satisfies (1.10).
 Another useful generalization of the product rule (equation (1.9)) is the chain rule formula. It states that if we have a set of n events, E1, E2,…, En, then the probability of
 the joint event (E1, E2,…, En) can be written as a product of n conditional probabilities:
 
-En(cid:7)1, p , E2, E1) p P(E2 (cid:2) E1) P(E1).
-(cid:2)
-P(E1, E2, p , En) (cid:2) P(En
+En1, p , E2, E1) p P(E2 E1) P(E1).
+P(E1, E2, p , En) P(En
 
 (1.12)
 
@@ -1044,9 +1000,7 @@ This product can be derived by repeated application of (1.9) in any convenient o
 
 The heart of Bayesian inference lies in the celebrated inversion formula,
 
-P(H (cid:2) e) (cid:2)
-
-P(e (cid:2) H)P(H)
+P(H e) P(e H)P(H)
 P(e)
 
 ,
@@ -1061,18 +1015,18 @@ P(e) of (1.13) hardly enters into consideration because it is merely a normalizi
 which can be computed by requiring
 that P(H ƒ e) and
 
-P(e) (cid:2) P(e (cid:2) H)P(H) (cid:3) P(e (cid:2) ¬ H)P(¬ H),
+P(e) P(e H)P(H) P(e ¬ H)P(¬ H),
 
 sum to unity.
 
-P( ¬ H (cid:2) e)
+P( ¬ H e)
 
 Whereas formally (1.13) might be dismissed as a tautology stemming from the definition of conditional probabilities,
 
-P(A (cid:2) B) (cid:2) P(A, B)
+P(A B) P(A, B)
 P(B)
 
-and P(B (cid:2) A) (cid:2) P(A, B)
+and P(B A) P(A, B)
 P(A)
 
 ,
@@ -1086,7 +1040,7 @@ person attributes to B after discovering A is never lower than that attributed t
 before discovering A. Also, the ratio between these two beliefs will increase proportionally
 with the degree of surprise [P(A)]
 
-(cid:7)1 one associates with the discovery of A.
+1 one associates with the discovery of A.
 
 A
 
@@ -1100,8 +1054,6 @@ outcome "twelve," and we wish to know whether he was rolling a pair of dice or s
 P(twelve ƒ dice) and P(twelve ƒ roulette): 1/36 for the former and 1/38 for the latter.
 Similarly, we can judge the prior probabilities P(dice) and P(roulette) by estimating the
 number of roulette wheels and dice tables at the casino. Issuing a direct judgment of
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 P(dice ƒ twelve) would have been much more difficult; only a specialist in such judgments, trained at the very same casino, could do it reliably.
 
@@ -1121,7 +1073,7 @@ that the eight weights sum to 1.
 
 B ¬C), p , (¬ A
 
-S (cid:2) (A
+S (A
 
 C), (A
 
@@ -1175,19 +1127,15 @@ this book. Their use and formal characterization will be discussed in the next f
 1.1.3 Combining Predictive and Diagnostic Supports
 
 The essence of Bayes's rule (equation 1.13)) is conveniently portrayed using the odds and
-P(¬ H (cid:2) e),
+P(¬ H e),
 likelihood ratio parameters. Dividing (1.13) by the complementary form for
 we obtain
 
-1.1 Introduction to Probability Theory
+P(H e)
+P( ¬ H e)
 
-P(H (cid:2) e)
-P( ¬ H (cid:2) e)
-
-(cid:2)
-
-P(e (cid:2) H)
-P(e (cid:2) ¬ H)
+P(e H)
+P(e ¬ H)
 
 P(H)
 P(¬ H)
@@ -1196,32 +1144,28 @@ P(¬ H)
 
 Defining the prior odds on H as
 
-O(H) (cid:2) P(H)
+O(H) P(H)
 P( ¬ H)
 
-(cid:2) P(H)
+P(H)
 
-1 (cid:7) P(H)
+1 P(H)
 
 and the likelihood ratio as
 
-L(e (cid:2) H) (cid:2)
-
-P(e (cid:2) H)
-P(e (cid:2) ¬ H)
+L(e H) P(e H)
+P(e ¬ H)
 
 ,
 
 the posterior odds
 
-O(H (cid:2) e) (cid:2)
-
-P(H (cid:2) e)
-P(¬ H (cid:2) e)
+O(H e) P(H e)
+P(¬ H e)
 
 are given by the product
 
-O(H (cid:2) e) (cid:2) L(e (cid:2) H)O(H).
+O(H e) L(e H)O(H).
 
 (1.15)
 
@@ -1261,45 +1205,36 @@ glar alarm. What is your degree of belief that a burglary attempt has taken plac
 called the "risk ratio" (Rothman and Greenland 1998, p. 50). Equation (1.18) would then give the
 odds that a person with disease e had been exposed to H.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 illustrative purposes we make the following judgments: (a) There is a 95% chance
-that an attempted burglary will trigger the alarm system – P(alarm ƒ burglary) (cid:2)
-0.95; (b) based on previous false alarms, there is a slight (1%) chance that the alarm
+that an attempted burglary will trigger the alarm system – P(alarm ƒ burglary) 0.95; (b) based on previous false alarms, there is a slight (1%) chance that the alarm
 will be triggered by a mechanism other than an attempted burglary – P (alarm ƒ
-no burglary) (cid:2) 0.01; (c) previous crime patterns indicate that there is a one in ten thousand chance that a given house will be burglarized on a given night – P(burglary) (cid:2)
-
-(cid:7)4.
+no burglary) 0.01; (c) previous crime patterns indicate that there is a one in ten thousand chance that a given house will be burglarized on a given night – P(burglary) 4.
 
 Putting these assumptions together using (1.19), we obtain
-O(burglary ƒ alarm) (cid:2) L(alarm ƒ burglary) O(burglary)
+O(burglary ƒ alarm) L(alarm ƒ burglary) O(burglary)
 
-(cid:2) 0.95
+0.95
 0.01
 
 So, from
 
-P(A) (cid:2) O(A)
+P(A) O(A)
 
-1 (cid:3) O(A)
+1 O(A)
 
 we have
 
-(cid:7)4
+1 10
 
-1 (cid:7) 10
-
-(cid:7)4
-
-(cid:2) 0.0095.
+0.0095.
 
 (1.20)
 
-P(burglary (cid:2) alarm) (cid:2) 0.0095
+P(burglary alarm) 0.0095
 
-1 (cid:3) 0.0095
+1 0.0095
 
-(cid:2) 0.00941.
+0.00941.
 
 Thus, the retrospective support imparted to the burglary hypothesis by the alarm
 evidence has increased its degree of belief almost a hundredfold, from one in ten thousand to 94.1 in ten thousand. The fact that the belief in burglary is still below 1%
@@ -1316,7 +1251,7 @@ probabilities) attached to the possible values that a variable may attain, we wi
 variable a random variable.3 For example, the color of the shoes that I will wear tomorrow is a random variable named "color," and the values it may take come from the domain
 yellow, green, red,…
 
-Most of our analysis will concern a finite set V of random variables (also called partitions) where each variable X (cid:2) V may take on values from a finite domain DX. We
+Most of our analysis will concern a finite set V of random variables (also called partitions) where each variable X V may take on values from a finite domain DX. We
 will use capital letters (e.g., X, Y, Z) for variable names and lowercase letters (x, y, z)
 
 .
@@ -1325,21 +1260,18 @@ will use capital letters (e.g., X, Y, Z) for variable names and lowercase letter
 a mapping from the sample space (e.g., the set of elementary events) to the real line. In our definition, the mapping is from the sample space to any set of objects called "values," which may or
 may not be ordered.
 
-1.1 Introduction to Probability Theory
-
 as generic symbols for specific values taken by the corresponding variables. For example, if X stands for the color of an object, then x will designate any possible choice of an
-. Clearly, the proposition X (cid:2) yellow deelement from the set
+. Clearly, the proposition X yellow deelement from the set
 yellow, green, red,…
 scribes an event, namely, a subset of possible states of affair that satisfy the proposition
-"the color of the object is yellow." Likewise, each variable X can be viewed as a partition of the states of the world, since the statement X (cid:2) x defines a set of exhaustive and
+"the color of the object is yellow." Likewise, each variable X can be viewed as a partition of the states of the world, since the statement X x defines a set of exhaustive and
 mutually exclusive sets of states, one for each value of x.
 
 In most of our discussions, we will not make notational distinction between variables
 and sets of variables, because a set of variables essentially defines a compound variable
 whose domain is the Cartesian product of the domains of the individual constituents in
-, then z stands for pairs (x, y) such that x (cid:2)
-the set. Thus, if Z stands for the set
-DX and y (cid:2) DY. When the distinction between variables and sets of variables requires
+, then z stands for pairs (x, y) such that x the set. Thus, if Z stands for the set
+DX and y DY. When the distinction between variables and sets of variables requires
 special emphasis, indexed letters (say, X1, X2,…, Xn or V1, V2,…, Vn) will be used to
 represent individual variables.
 
@@ -1352,31 +1284,29 @@ Dx . Likewise, if Z stands for the set
 
 X, Y
 
-P(X (cid:2) x),
+P(X x),
 
-x (cid:2)
-
-P(z) (cid:2) P(Z (cid:2) z) (cid:2) P(X (cid:2) x, Y (cid:2) y), x (cid:2) DX, y (cid:2) DY.
+x P(z) P(Z z) P(X x, Y y), x DX, y DY.
 
 When the values of a random variable X are real numbers, X is called a real random
 
 variable; one can then define the mean or expected value of X as
 
-E(X) (cid:2) a
+E(X) a
 x
 
 xP(x)
 
-and the conditional mean of X, given event Y (cid:2) y, as
+and the conditional mean of X, given event Y y, as
 
-E(X (cid:2) y) (cid:2) a
+E(X y) a
 x
 
-xP(x (cid:2) y).
+xP(x y).
 
 The expectation of any function g of X is defined as
 
-E[g(X)] (cid:2) a
+E[g(X)] a
 x
 
 g(x)P(x).
@@ -1387,43 +1317,38 @@ g(x)P(x).
 
 (1.23)
 
-In particular, the function g(X) (cid:2) (X – E(X))2 has received much attention; its expecs2
+In particular, the function g(X) (X – E(X))2 has received much attention; its expecs2
 X;
 tation is called the variance of X, denoted
 
-X (cid:2) E[(X (cid:7) E(X))2].
+X E[(X E(X))2].
 s2
 
-The conditional mean E(X ƒ Y (cid:2) y) is the best estimate of X, given the observation
-Y (cid:2) y, in the sense of minimizing the expected square error
+The conditional mean E(X ƒ Y y) is the best estimate of X, given the observation
+Y y, in the sense of minimizing the expected square error
 over
 all possible
 
-g x(x (cid:7) x(cid:9))2P(x (cid:2) y)
+g x(x x)2P(x y)
 
-x(cid:9).
+x.
 
 The expectation of a function g(X, Y) of two variables, X and Y, requires the joint
 
 probability P(x, y) and is defined as
 
-E[g(X, Y)] (cid:2) a
+E[g(X, Y)] a
 x, y
 
 g(x, y)P(x, y)
 
-Introduction to Probabilities, Graphs, and Causal Models
-
-(cf. equation (1.23)). Of special importance is the expectation of the product (g(X, Y) (cid:2)
-(X (cid:3) E(X))(Y (cid:3) E(Y)), which is known as the covariance of X and Y,
+(cf. equation (1.23)). Of special importance is the expectation of the product (g(X, Y) (X E(X))(Y E(Y)), which is known as the covariance of X and Y,
 
 sXY
 
-(cid:2) E [(X (cid:3) E(X))(Y (cid:3) E(Y))],
+E [(X E(X))(Y E(Y))],
 
 and which is often normalized to yield the correlation coefficient
-
-(cid:2)
 
 rXY
 
@@ -1434,12 +1359,10 @@ and the regression coefficient (of X on Y)
 
 rXY
 
-(cid:2) rXY
+rXY
 
 sX
 sY
-
-(cid:2)
 
 sXY
 s2
@@ -1447,15 +1370,13 @@ Y
 
 .
 
-The conditional variance, covariance, and correlation coefficient, given Z (cid:2) z, are
-defined in a similar manner, using the conditional distribution P(x, y ƒ z) in taking expectations. In particular, the conditional correlation coefficient, given Z (cid:2) z, is defined as
+The conditional variance, covariance, and correlation coefficient, given Z z, are
+defined in a similar manner, using the conditional distribution P(x, y ƒ z) in taking expectations. In particular, the conditional correlation coefficient, given Z z, is defined as
 
-rXY(cid:2)z
+rXYz
 
-(cid:2)
-
-sXY(cid:2)z
-sX(cid:2)z sY(cid:2)z
+sXYz
+sXz sYz
 
 .
 
@@ -1468,18 +1389,17 @@ The foregoing definitions apply to discrete random variables – that is, variab
 take on finite or denumerable sets of values on the real line. The treatment of expectation
 and correlation is more often applied to continuous random variables, which are characterized by a density function f(x) defined as follows:
 
-P(a (cid:6) X (cid:6) b) (cid:2) 1
+P(a X b) 1
 a
 
 b
 
 f(x) dx
 
-for any two real numbers a and b with a (cid:4) b. If X is discrete, then f (x) coincides with
+for any two real numbers a and b with a b. If X is discrete, then f (x) coincides with
 the probability function P(x), once we interpret the integral through the translation
 
-(cid:5)
-(cid:3)(cid:5) f (x)dx 3 a
+f (x)dx 3 a
 x
 
 P(x).
@@ -1489,10 +1409,9 @@ P(x).
 Readers accustomed to continuous analysis should bear this translation in mind whenever summation is used in this book. For example, the expected value of a continuous
 random variable X can be obtained from (1.21), to read
 
-E(X) (cid:2) 1
+E(X) 1
 
-(cid:5)
-(cid:3)(cid:5) xf (x) dx,
+xf (x) dx,
 
 with analogous translations for the variance, correlation, and so forth.
 
@@ -1500,19 +1419,16 @@ We now turn to define conditional independence relationships among variables, a
 
 central notion in causal modelling.
 
-1.1 Introduction to Probability Theory
-
 1.1.5 Conditional Independence and Graphoids
 
 Definition 1.1.2 (Conditional Independence)
-Let V (cid:2)
-be a finite set of variables. Let P(.) be a joint probability function
+Let V be a finite set of variables. Let P(.) be a joint probability function
 over the variables in V, and let X, Y, Z stand for any three subsets of variables in V. The
 sets X and Y are said to be conditionally independent given Z if
 
 V1, V2,…
 
-P(x (cid:2) y, z) (cid:2) P(x (cid:2) z) whenever P(y, z) (cid:7) 0.
+P(x y, z) P(x z) whenever P(y, z) 0.
 
 (1.26)
 
@@ -1520,35 +1436,35 @@ In words, learning the value of Y does not provide additional information about 
 we know Z. (Metaphorically, Z "screens off" X from Y.)
 
 Equation (1.26) is a terse way of saying the following: For any configuration x of the
-variables in the set X and for any configurations y and z of the variables in Y and Z satisfying P(Y (cid:2) y, Z (cid:2) z) (cid:7) 0, we have
+variables in the set X and for any configurations y and z of the variables in Y and Z satisfying P(Y y, Z z) 0, we have
 
-P(X (cid:2) x (cid:2) Y (cid:2) y, Z (cid:2) z) (cid:2) P(X (cid:2) x (cid:2) Z (cid:2) z).
+P(X x Y y, Z z) P(X x Z z).
 
 (1.27)
 
 We will use Dawid's (1979) notation
 
-(X(cid:2)(cid:2)Y (cid:2) Z)P
+(XY Z)P
 the conditional independence of X and Y given Z; thus,
 
 or simply
 
-(X(cid:2)(cid:2)Y (cid:2) Z)
+(XY Z)
 
 to denote
 
-(X(cid:2)(cid:2)Y (cid:2) Z)P iff P(x (cid:2) y, z) (cid:2) P(x (cid:2) z)
+(XY Z)P iff P(x y, z) P(x z)
 
 (1.28)
 
-for all values x, y, z such that P(y, z) (cid:7) 0. Unconditional independence (also called
+for all values x, y, z such that P(y, z) 0. Unconditional independence (also called
 marginal independence) will be denoted by
 
-(X(cid:2)(cid:2)Y (cid:2) 0);
+(XY 0);
 
 that is,
 
-(X(cid:2)(cid:2)Y (cid:2) 0) iff P(x (cid:2) y) (cid:2) P(x) whenever P(y) (cid:7) 0
+(XY 0) iff P(x y) P(x) whenever P(y) 0
 
 (1.29)
 
@@ -1557,14 +1473,12 @@ independence of all pairs of variables
 Vj
 sarily true.
 
-(cid:2) X
-
 and
 
 Vi
 
-(X(cid:2)(cid:2)Y (cid:2) Z)
-(cid:2) Y,
+(XY Z)
+Y,
 
 implies the conditional
 but the converse is not neces-
@@ -1573,27 +1487,27 @@ The following is a (partial) list of properties satisfied by the conditional ind
 
 relation
 
-(X(cid:2)(cid:2)Y (cid:2) Z).
+(XY Z).
 
 Symmetry:
 
-(X(cid:2)(cid:2)Y (cid:2) Z) 1 (Y(cid:2)(cid:2)X (cid:2) Z).
+(XY Z) 1 (YX Z).
 
 Decomposition:
 
-(X(cid:2)(cid:2)YW (cid:2) Z) 1 (X(cid:2)(cid:2)Y (cid:2) Z).
+(XYW Z) 1 (XY Z).
 
 Weak union:
 
-(X(cid:2)(cid:2)YW (cid:2) Z) 1 (X(cid:2)(cid:2)Y (cid:2) ZW).
+(XYW Z) 1 (XY ZW).
 
 Contraction:
 
-(X(cid:2)(cid:2)Y (cid:2) Z) & (X(cid:2)(cid:2)W (cid:2) ZY) 1 (X(cid:2)(cid:2)YW (cid:2) Z).
+(XY Z) & (XW ZY) 1 (XYW Z).
 
 Intersection:
 
-(X(cid:2)(cid:2)W (cid:2) ZY) & (X(cid:2)(cid:2)Y (cid:2) ZW) 1 (X(cid:2)(cid:2)YW (cid:2) Z).
+(XW ZY) & (XY ZW) 1 (XYW Z).
 
 (Intersection is valid in strictly positive probability distributions.)
 
@@ -1604,15 +1518,13 @@ the basic axioms of probability theory.4 These properties were called graphoid a
 form, and were independently proposed by Pearl and Paz (1987) to characterize the relationships
 between graphs and informational relevance. Geiger and Pearl (1993) present an in-depth analysis.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 Pearl and Paz (1987) and Geiger et al. (1990) and have been shown to govern the concept
 of informational relevance in a wide variety of interpretations (Pearl 1988b). In graphs,
 for example, these properties are satisfied if we interpret
 to mean "all paths
 from a subset X of nodes to a subset Y of nodes are intercepted by a subset Z of nodes."
 
-(X(cid:2)(cid:2)Y (cid:2) Z)
+(XY Z)
 
 The intuitive interpretation of the graphoid axioms is as follows (Pearl 1988b, p. 85).
 The symmetry axiom states that, in any state of knowledge Z, if Y tells us nothing new
@@ -1659,8 +1571,6 @@ the two in .1) that contains no directed cycles is called acyclic. A graph that 
 X S Y, Y S X),
 X S X).
 
-1.2 Graphs and Probabilities
-
 (a) A graph containing both di-
 .1
 rected and bidirected edges. (b) A directed acyclic graph (DAG) with the same skeleton as (a).
@@ -1684,8 +1594,6 @@ Y, Z, X
 Z, W
 
 W
-
-X
 
 ,
 
@@ -1722,8 +1630,6 @@ coherently to answer questions of a global nature. Graphs play an essential role
 decomposition, for they provide a vivid representation of the sets of variables that are
 relevant to each other in any given state of knowledge.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 Both directed and undirected graphs have been used by researchers to facilitate such
 decomposition. Undirected graphs, sometimes called Markov networks (Pearl 1988b),
 are used primarily to represent symmetrical spatial relationships (Isham 1981; Cox and
@@ -1741,10 +1647,10 @@ as follows. Suppose we have a distribution P defined on n discrete variables, wh
 may order arbitrarily as X1, X2,…, Xn. The chain rule of probability calculus (equation
 (1.12)) always permits us to decompose P as a product of n conditional distributions:
 
-P(x1, p , xn) (cid:2) q
+P(x1, p , xn) q
 j
 
-P(xj (cid:2) x1, p , xj(cid:7)1).
+P(xj x1, p , xj1).
 
 (1.30)
 
@@ -1753,13 +1659,13 @@ the predecessors of Xj but only to a small subset of those predecessors. In othe
 suppose that Xj is independent of all other predecessors, once we know the value of a
 select group of predecessors called PAj. We can then write
 
-P(xj (cid:2) x1, p , xj(cid:7)1) (cid:2) P(xj (cid:2) paj)
+P(xj x1, p , xj1) P(xj paj)
 
 (1.31)
 
 in the product of (1.30), which will considerably simplify the input information required.
 Instead of specifying the probability of Xj conditional on all possible realizations of its
-predecessors X1,…, Xj(cid:7)1, we need only concern ourselves with the possible realizations
+predecessors X1,…, Xj1, we need only concern ourselves with the possible realizations
 of the set PAj. The set PAj is called the Markovian parents of Xj, or parents for short.
 The reason for the name becomes clear when we build graphs around this concept.
 
@@ -1774,9 +1680,9 @@ predecessors. In other words, PAj is any subset of
 
 satisfying
 
-X1,…, Xj(cid:7)16
+X1,…, Xj16
 
-P(xj (cid:2) paj) (cid:2) P(xj (cid:2) x1, p , xj(cid:7)1)
+P(xj paj) P(xj x1, p , xj1)
 
 (1.32)
 
@@ -1785,8 +1691,6 @@ and such that no proper subset of PAj satisfies (1.32).5
 5 Lowercase symbols (e.g., xj, paj) denote particular realizations of the corresponding variables
 
 (e.g., Xj, PAj).
-
-1.2 Graphs and Probabilities
 
 .2 A Bayesian network representing
 dependencies among five variables.
@@ -1831,17 +1735,15 @@ conditional independence relationships along the order of construction. Clearly,
 .
 X1, X2, X36
 
-Introduction to Probabilities, Graphs, and Causal Models
-
-P(x1, p , xn) (cid:2) q
+P(x1, p , xn) q
 i
 
-P(xi (cid:2) pai).
+P(xi pai).
 
 (1.33)
 
 For example, the DAG in .2 induces the decomposition
-P(x1, x2, x3, x4, x5) (cid:2) P(x1)P(x2 (cid:2) x1)P(x3 (cid:2) x1)P(x4 (cid:2) x2, x3)P(x5 (cid:2) x4).
+P(x1, x2, x3, x4, x5) P(x1)P(x2 x1)P(x3 x1)P(x4 x2, x3)P(x5 x4).
 The product decomposition in (1.33) is no longer order-specific since, given P and
 G, we can test whether P decomposes into the product given by (1.33) without making
 any reference to variable ordering. We therefore conclude that a necessary condition for
@@ -1888,8 +1790,6 @@ A path p is said to be d-separated (or blocked) by a set of nodes Z if and only 
 6 The latter expression seems to gain strength in recent literature (e.g., Spirtes et al. 1993; Lauritzen
 
 1996). Pearl (1988b, p. 116) used "G is an I-map of P."
-
-1.2 Graphs and Probabilities
 
 1. p contains a chain
 
@@ -1938,13 +1838,7 @@ X36
 
 X26
 
-and Y (cid:2)
-
-In .2, X (cid:2)
-
-are d-separated by Z (cid:2)
-
-, because both
+and Y In .2, X are d-separated by Z , because both
 X16
 S X3
 paths connecting X2 and X3 are blocked by Z. The path
@@ -1972,11 +1866,9 @@ S X4
 
 S X4
 
-Z(cid:9) (cid:2)
+ZZ.
 
-Z(cid:9).
-
-Z(cid:9),
+Z,
 
 X2
 
@@ -2011,8 +1903,6 @@ X.
 S
 
 S
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 .3 Graphs illustrating d-separation. In (a), X and Y are d-separated given Z2 and dconnected given Z1. In (b), X and Y cannot be d-separated by any set of nodes.
 
@@ -2081,27 +1971,27 @@ In order to distinguish between the probabilistic notion of conditional independ
 and the graphical notion of d-separation, for the latter we will use the no-
 We can thereby express Theorem 1.2.4 more succinctly as follows.
 
-(X(cid:2)(cid:2)Y (cid:2) Z)P
+(XY Z)P
 tation
 
-(X(cid:2)(cid:2)Y (cid:2) Z)G.
+(XY Z)G.
 
 Theorem 1.2.5
 For any three disjoint subsets of nodes (X, Y, Z) in a DAG G and for all probability functions P, we have:
 
 (i)
 
-(X(cid:2)(cid:2)Y (cid:2) Z)G
+(XY Z)G
 
-1 (X(cid:2)(cid:2)Y (cid:2) Z)P
+1 (XY Z)P
 
 whenever G and P are compatible; and
 
 (ii) if
 
-(X(cid:2)(cid:2)Y (cid:2) Z)P
+(XY Z)P
 
-(X(cid:2)(cid:2)Y (cid:2) Z)G.
+(XY Z)G.
 
 holds in all distributions compatible with G, it follows that
 
@@ -2111,16 +2001,14 @@ delete from G all nodes except
 and their ancestors, connect by an edge every pair of nodes that share
 those in
 
-(X(cid:2)(cid:2)Y (cid:2) Z)G,
+(XY Z)G,
 
 X, Y, Z
-
-1.2 Graphs and Probabilities
 
 a common child, and remove all arrows from the arcs. Then
 only if Z intercepts all paths between X and Y in the resulting undirected graph.
 
-(X(cid:2)(cid:2)Y (cid:2) Z)G
+(XY Z)G
 
 holds if and
 
@@ -2175,8 +2063,6 @@ X2
 
 graphs, where strict positivity is assumed.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 by temporal information, can constrain the directionality of some arrows in the graph.
 The precise meaning of such directionality constraints – and the possibility of using
 these constraints for inferring causal relationships from data – will be formalized in
@@ -2195,9 +2081,7 @@ Given a joint distribution P, the computation of P(y ƒ x) is conceptually trivi
 
 invokes straightforward application of Bayes's rule to yield
 
-P(y (cid:2) x) (cid:2)
-
-g s P(y, x, s)
+P(y x) g s P(y, x, s)
 g y,sP(y, x, s)
 
 ,
@@ -2246,7 +2130,7 @@ In the cut-set conditioning method, a set of variables is instantiated (given sp
 values) such that the remaining network forms a tree. The propagation is then performed
 on that tree, and a new instantiation chosen, until all instantiations have been exhausted;
 the results are then averaged. In .2, for example, if we instantiate X1 to any spe-
-(cid:2) summer), then we break the pathway between X2 and X3 and the
+summer), then we break the pathway between X2 and X3 and the
 cific value (say, X1
 remaining network becomes tree-structured. The main advantage of the cut-set conditioning method is that its storage-space requirement is minimal (linear in the size of the
 network), whereas that of the join-tree method might be exponential. Hybrid combinations of these two basic algorithms have also been proposed (Shachter et al. 1994; Dechter
@@ -2278,8 +2162,6 @@ of X2 and X3 once we know X4 (i.e., whether the pavement is wet) is defensible b
 we can easily translate the assertion into one involving causal relationships: that the influence of rain and sprinkler on slipperiness is mediated by the wetness of the pavement.
 Dependencies that are not supported by causal links are considered odd or spurious and
 are even branded "paradoxical" (see the discussion of Berkson's paradox, Section 1.2.3).
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 We will have several opportunities throughout this book to demonstrate the primacy
 of causal over associational knowledge. In extreme cases, we will see that people tend
@@ -2347,9 +2229,9 @@ X1
 
 PX3
 
-(cid:2)On (x1, x2, x4, x5) (cid:2) P(x1) P(x2 (cid:2) x1) P(x4 (cid:2) x2, X3
+On (x1, x2, x4, x5) P(x1) P(x2 x1) P(x4 x2, X3
 
-(cid:2) On) P(x5 (cid:2) x4),
+On) P(x5 x4),
 
 (1.36)
 
@@ -2365,15 +2247,13 @@ of the sprinkler.
 
 Note the difference between the action do(X3
 
-(cid:2) On) and the observation X3
-
-(cid:2)
+On) and the observation X3
 
 ƒ X3
 S X3
 
 On. The effect of the latter is obtained by ordinary Bayesian conditioning, that is,
-(cid:2) On), while that of the former by conditioning a mutilated graph,
+On), while that of the former by conditioning a mutilated graph,
 P(x1, x2, x4, x5
 X1
 with the link
@@ -2389,11 +2269,9 @@ are encapsulated in the following definition of causal Bayesian networks.
 
 Definition 1.3.1 (Causal Bayesian Network)
 Let P(y) be a probability distribution on a set V of variables, and let Px(v) denote the
-distribution resulting from the intervention do(X (cid:2) x) that sets a subset X of variables
+distribution resulting from the intervention do(X x) that sets a subset X of variables
 
-Introduction to Probabilities, Graphs, and Causal Models
-
-Px (y), X (cid:4) V,
+Px (y), X V,
 to constants x.10 Denote by P* the set of all interventional distributions
 A DAG G is said to be a
 including
@@ -2402,30 +2280,27 @@ hold for every
 
 which represents no intervention (i.e.,
 
-X (cid:2) f).
+X f).
 
 P(y),
 
 Px
 
-(cid:2) P*:
+P*:
 
 (i) Px(y) is Markov relative to G;
-(ii) Px(yi) (cid:2) 1 for all
-ƒ pai) (cid:2) P(yi
+(ii) Px(yi) 1 for all
+ƒ pai) P(yi
 (iii) Px(yi
 
-(cid:2) X
 Vi
 ƒ pai) for all
 
-whenever yi is consistent with X (cid:2) x;
+whenever yi is consistent with X x;
 
 Vi
 
-(cid:3) X
-
-whenever pai is consistent with X (cid:2) x,
+whenever pai is consistent with X x,
 
 i.e., each P(yi
 
@@ -2433,14 +2308,14 @@ i.e., each P(yi
 
 Definition 1.3.1 imposes constraints on the interventional space P* that permit us to encode this vast space economically, in the form of a single Bayesian network G. These
 constraints enable us to compute the distribution Px(y) resulting from any intervention
-do(X (cid:2) x) as a truncated factorization
+do(X x) as a truncated factorization
 
-Px(y) (cid:2) q
-{i (cid:2) Vi
+Px(y) q
+{i Vi
 
-(cid:3)X}
+X}
 
-P(yi (cid:2) pai) for all y consistent with x,
+P(yi pai) for all y consistent with x,
 
 (1.37)
 
@@ -2451,7 +2326,7 @@ network with respect to P*, the following two properties must hold.
 Property 1
 For all i,
 
-P(yi (cid:2) pai) (cid:2) Ppai
+P(yi pai) Ppai
 
 (yi).
 
@@ -2462,7 +2337,7 @@ Vi, PAi6
 
 , we have
 
-Ppai, s(yi) (cid:2) Ppai
+Ppai, s(yi) Ppai
 
 (yi).
 
@@ -2476,7 +2351,7 @@ coincides with the effect (on Vi) of setting PAi to
 pai by external control. Property 2 expresses the notion of invariance; once we control
 its direct causes PAi, no other interventions will affect the probability of Vi.
 
-P(yi (cid:2) pai)
+P(yi pai)
 
 1.3.2 Causal Relationships and Their Stability
 
@@ -2486,7 +2361,7 @@ on another variable Xj, we compute (using the truncated factorization formula of
 the (marginal) distribution of Xj under the actions do(Xi
 for all
 
-(cid:2) xi) – namely,
+xi) – namely,
 
 (xj)
 
@@ -2496,7 +2371,7 @@ Pxi
 
 facilitate algebraic manipulations.
 
-P(y (cid:2) xˆ)
+P(y xˆ)
 
 to
 
@@ -2518,7 +2393,7 @@ compare it to its probabilistic counterpart S2, "The state of the sprinkler is i
 of (or unassociated with) the state of the rain." .2 illustrates two obvious ways in
 which S2 will change while S1 remains intact. First, S2 changes from false to true when
 we learn what season it is (X1). Second, given that we know the season, S2 changes from
-(cid:2) true). On the other hand, S1
+true). On the other hand, S1
 true to false once we observe that the pavement is wet (X4
 remains true regardless of what we learn or know about the season or about the pavement.
 The example reveals a stronger sense in which causal relationships are more stable than the corresponding probabilistic relationships, a sense that goes beyond their
@@ -2545,8 +2420,6 @@ behavior under intervention but instead aim primarily to provide an "explanation
 11 Elements of this explanatory account can be found in the writings of Dempster (1990), Cox (1992),
 
 and Shafer (1996); see also King et al. (1994, p. 75).
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 of our "understanding" of things, we surely would prefer an understanding in terms of
 durable relationships, transportable across situations, over those based on transitory relationships. The sense of "comprehensibility" that accompanies an adequate explanation
@@ -2587,8 +2460,6 @@ that physicists give up deeply entrenched intuitions about locality and causalit
 
 12 The often heard argument that human intuitions belong in psychology and not in science or philosophy is inapplicable when it comes to causal intuition – the original authors of causal thoughts
 
-1.4 Functional Causal Models
-
 Finally, certain concepts that are ubiquitous in human discourse can be defined only
 in the Laplacian framework. We shall see, for example, that such simple concepts as "the
 probability that event B occured because of event A" and "the probability that event B
@@ -2602,7 +2473,7 @@ In its general form, a functional causal model consists of a set of equations of
 
 xi
 
-(cid:2) fi (pai, ui), i (cid:2) 1, p , n,
+fi (pai, ui), i 1, p , n,
 
 (1.40)
 
@@ -2612,14 +2483,12 @@ equation models (SEMs)
 
 xi
 
-(cid:2) a
-k(cid:11)1
-
-(cid:2)
+a
+k1
 
 ik xk
 
-(cid:3) ui, i (cid:2) 1, p , n,
+ui, i 1, p , n,
 
 (1.41)
 
@@ -2637,8 +2506,8 @@ equations is that any subset of structural equations is, in itself, a valid stru
 one that represents conditions under some set of interventions.
 
 To illustrate, .5 depicts a canonical econometric model relating price and demand through the equations
-q (cid:2) b1p (cid:3) d1i (cid:3) u1,
-p (cid:2) b2q (cid:3) d2w (cid:3) u2,
+q b1p d1i u1,
+p b2q d2w u2,
 
 (1.42)
 
@@ -2653,8 +2522,6 @@ accurate interpretation of causal judgment.
 13 Formal treatment of causal models, structural equations, and error terms are given in Chapter 5
 
 (Section 5.4.1) and Chapter 7 (Sections 7.1 and 7.2.5).
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 .5 Causal diagram illustrating the relationship between price (P), demand (Q), income (I),
 and wages (W).
@@ -2672,8 +2539,8 @@ the assumption that the background quantities, U1 and U2, remain constant.
 The two equations are considered to be "autonomous" relative to the dynamics of
 changes in the sense that external changes affecting one equation do not imply changes
 to the others. For example, if government decides on price control and sets the price P
-at p0, then (1.43) will be modified to read p (cid:2) p0 but the relationships in (1.42) will
-(cid:3) d1i (cid:3) u1. We thus see that b1, the "demand elasticremain intact, yielding q = b1 p0
+at p0, then (1.43) will be modified to read p p0 but the relationships in (1.42) will
+d1i u1. We thus see that b1, the "demand elasticremain intact, yielding q = b1 p0
 ity," should be interpreted as the rate of change of Q per unit controlled change in P.
 This is different, of course, from the rate of change of Q per unit observed change in
 P (under uncontrolled conditions), which, besides b1, is also affected by the parameters of (1.43) (see Section 7.2.1, equation (7.14)). The difference between controlled and
@@ -2687,8 +2554,8 @@ To illustrate the workings of nonlinear functional models, consider again the ca
 relationships depicted in .2. The causal model associated with these relationships
 will consist of five functions, each representing an autonomous mechanism governing
 one variable:
-(cid:2) u1,
-(cid:2) f2(x1, u2),
+u1,
+f2(x1, u2),
 
 x1
 
@@ -2698,17 +2565,15 @@ x2
 (Lucas 1976). Such phenomena are not foreign to structural models, though; they simply call for
 more elaborate equations to capture consumers' expectations.
 
-1.4 Functional Causal Models
-
 x3
 
 x4
 
 x5
 
-(cid:2) f3(x1, u3),
-(cid:2) f4(x3, x2, u4),
-(cid:2) f5(x4, u5).
+f3(x1, u3),
+f4(x3, x2, u4),
+f5(x4, u5).
 
 (1.44)
 
@@ -2744,51 +2609,45 @@ u2]
 x3
 x4
 
-(cid:2) fall)
+fall)
 
 ¿
 u3]
 
-(cid:2) spring)
+spring)
 
-(cid:2) winter)
+winter)
 
 x3 ¡
 u5)
 
 (X1
 ¡
-¬ u(cid:9)
-4,
+¬ u4,
 
-¬ u(cid:9)
-2,
-¬ u(cid:9)
+¬ u2,
+¬ u¡
+summer)
 
-¡
-(cid:2) summer)
-
-(cid:2) [(X1
-(cid:2) [(X1
-(cid:2) (x2 ¡
-(cid:2) (x4 ¡
+[(X1
+[(X1
+(x2 ¡
+(x4 ¡
 ¿
 where xi stands for Xi
 stand for triggering and inhibiting
 abnormalities, respectively. For example, u4 stands for (unspecified) events that might
 and it does not rain
 cause the pavement to get wet (X4) when the sprinkler is off
-u(cid:9)
-(¬ x2)
+u(¬ x2)
 stands for (unspecified) events that would
 keep the pavement dry in spite of the rain (x2), the sprinkler (x3), and u4 (e.g., pavement
 covered with a plastic sheet).
 
 u4)
 ¿
-¬ u(cid:9)
-5,
-(cid:2) true and where ui and
+¬ u5,
+true and where ui and
 
 (e.g., a broken water pipe), while
 
@@ -2796,17 +2655,16 @@ u4)
 
 (1.45)
 
-u(cid:9)
-i
+ui
 
 It is important to emphasize that, in the two models just described, the variables
 placed on the left-hand side of the equality sign (the dependent or output variables) act
 distinctly from the other variables in each equation. The role of this distinction becomes
 clear when we discuss interventions, since it is only through this distinction that we can
 identify which equation ought to be modified under local interventions of the type "fix
-the price at p0" (do(P (cid:2) p0)) or "turn the sprinkler On" (do(X3
+the price at p0" (do(P p0)) or "turn the sprinkler On" (do(X3
 
-(cid:2) true)).15
+true)).15
 
 We now compare the features of functional models as defined in (1.40) with those of
 causal Bayesian networks defined in Section 1.3. Toward this end, we will consider the
@@ -2828,11 +2686,9 @@ different types of problems, demanding knowledge with increasing levels of detai
 15 Economists who write the supply–demand equations as
 
 , with q appearing on the l.h.s. of both equations, are giving up the option of analyzing price control policies unless additional symbolic machinery is used to identify which equation will be modified by
-the do(P (cid:2) p0) operator.
+the do(P p0) operator.
 
-q (cid:2) ap (cid:3) u1, q (cid:2) bp (cid:3) u26
-
-Introduction to Probabilities, Graphs, and Causal Models
+q ap u1, q bp u26
 
 1.4.2 Probabilistic Predictions in Causal Models
 Given a causal model (equation (1.40)), if we draw an arrow from each member of PAi
@@ -2884,8 +2740,6 @@ the factorization of (1.33). This implication, however, is purely probabilistic 
 first devise a model for causation, either in terms of manipulations (as in Definition 1.3.1) or in
 terms of functional relationships in structural equations (as in Theorem 1.4.1).
 
-1.4 Functional Causal Models
-
 fi6
 
 of the error distributions P(ui). Thus, we need not specify in advance the functional
@@ -2900,7 +2754,7 @@ encoding joint distribution functions.
 
 Nonetheless, the causal–functional specification has several advantages over the probabilistic specification, even in purely predictive (i.e., nonmanipulative) tasks. First and
 foremost, all the conditional independencies that are displayed by the causal diagram
-G are guaranteed to be stable – that is, invariant to parametric changes in the mechanisms represented by the functions fi and the distributions P(ui). This means that agents
+G are guaranteed to be stable – that is, invariant to parametric changes in the mechanisms represented by the functions fiand the distributions P(ui). This means that agents
 who choose to organize knowledge using Markovian causal models can make reliable
 assertions about conditional independence relations without assessing numerical probabilities – a common ability among humanoids19 and a useful feature for inference. Second, the functional specification is often more meaningful and natural, and it yields a
 small number of parameters. Typical examples are the linear structural equations used
@@ -2926,13 +2780,11 @@ number of functional models with this property.
 information in the form of conditional independence statements would probably be shocked to
 realize that such statements acquire their validity from none other than the causal Markov condition (Theorem 1.4.1). See note 9.
 
-Introduction to Probabilities, Graphs, and Causal Models
-
 the corresponding symbolic change is also local, involving just a few parameters, than to
 reestimate the entire model from scratch.20
 
 1.4.3 Interventions and Causal Effects in Functional Models
-(cid:2) fi( pai, ui), like its stochastic counterpart, provides
+fi( pai, ui), like its stochastic counterpart, provides
 The functional characterization xi
 a convenient language for specifying how the resulting distribution would change in response to external interventions. This is accomplished by encoding each intervention as
 an alteration on a select set of functions instead of a select set of conditional probabilities.
@@ -2941,8 +2793,8 @@ function. Thus, all features of causal Bayesian networks (Section 1.3) can be em
 in Markovian functional models.
 
 For example, to represent the action "turning the sprinkler On" in the model of (1.44),
-(cid:2) On. The modified model
-(cid:2) f3(xl, u3) and replace it with x3
+On. The modified model
+f3(xl, u3) and replace it with x3
 we delete the equation x3
 will contain all the information needed for computing the effect of the action on other variables. For example, the probability function induced by the modified model will be equal
 to that given by (1.36), and the modified diagram will coincide with that of .4.
@@ -2963,7 +2815,7 @@ with equations and not with conditional probabilities. Conditional probabilities
 causal effects in non-Markovian models will be greatly simplified using functional mod-
 ƒ pai) but only
 els. The reason is: there are infinitely many conditional probabilities P(xi
-(cid:2) fi(pai, ui) among discrete variables Xi and PAi. This
+fi(pai, ui) among discrete variables Xi and PAi. This
 a finite number of functions xi
 fact will enable us in Chapter 8 (Section 8.2.2) to use linear-programming techniques to
 obtain sharp bounds on causal effects in studies involving noncompliance.
@@ -2978,8 +2830,6 @@ suggested here as a research topic for students of adaptive systems.
 
 absent from econometric textbooks (see Chapter 5).
 
-1.4 Functional Causal Models
-
 Finally, functional models permit the analysis of context-specific actions and policies. The notion of causal effect as defined so far is of only minor use in practical policy
 making. The reason is that causal effects tell us the general tendency of an action to
 bring about a response (as with the tendency of a drug to enhance recovery in the overall population) but are not specific to actions in a given situation characterized by a set
@@ -2989,7 +2839,7 @@ affected by the treatment. Likewise, an economist is concerned with the effect o
 (again) will be affected by taxation if applied. Such context-specific causal effects cannot be computed by simulating an intervention in a static Bayesian network, because the
 ƒ pai)
 context itself varies with the intervention and so the conditional probabilities P(xi
-(cid:2) fi(pai, ui) remain
+fi(pai, ui) remain
 are altered in the process. However, the functional relationships xi
 invariant, which enables us to compute context-specific causal effects as outlined in the
 next section (see Sections 7.2.1, 8.3, and 9.3.4 for full details).
@@ -3001,8 +2851,8 @@ of counterfactuals. Certain counterfactual sentences, as we remarked before, can
 defined in the framework of stochastic causal networks. To see the difficulties, let us consider the simplest possible causal Bayesian network consisting of a pair of independent
 (hence unconnected) binary variables X and Y. Such a network ensues, for example, in a
 controlled (i.e., randomized) clinical trial when we find that a treatment X has no effect
-on the distribution of subjects' response Y, which may stand for either recovery (Y (cid:2) 0)
-or death (Y (cid:2) 1). Assume that a given subject, Joe, has taken the treatment and died; we
+on the distribution of subjects' response Y, which may stand for either recovery (Y 0)
+or death (Y 1). Assume that a given subject, Joe, has taken the treatment and died; we
 ask whether Joe's death occurred because of the treatment, despite the treatment, or regardless of the treatment. In other words, we ask for the probability Q that Joe would
 have died had he not been treated.
 
@@ -3010,7 +2860,7 @@ To highlight the difficulty in answering such counterfactual questions, let us t
 extreme case where 50% of the patients recover and 50% die in both the treatment and
 the control groups; assume further that the sample size approaches infinity, thus yielding
 
-P(y (cid:2) x) (cid:2) 1
+P(y x) 1
 
 >
 
@@ -3025,8 +2875,6 @@ whom we have only one data point. Rephrasing the question in terms of population
 recovered had they not taken the treatment – will encounter the same difficulties because
 none of those subjects was tested under the no-treatment condition. Such difficulties have
 prompted some statisticians to dismiss counterfactual questions as metaphysical and to
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 advocate the restriction of statistical analysis to only those questions that can be answered
 by direct tests (Dawid 2000).
@@ -3046,13 +2894,11 @@ the counterfactual quantity Q implies not merely a speculation about the hypothe
 under subsequent treatment. We leave it as an exercise for the reader to prove that, based
 on (1.46) and barring sampling variations, the percentage Q of deceased subjects from
 the treatment group who would have recovered had they not taken the treatment precisely
-Q(cid:9)
-of surviving subjects in the nontreatment group who will die if
+Qof surviving subjects in the nontreatment group who will die if
 equals the percentage
 given treatment.23 Whereas Q is hypothetical,
 
-Q(cid:9)
-Having sketched the empirical interpretation of counterfactuals, our next step in this
+QHaving sketched the empirical interpretation of counterfactuals, our next step in this
 introductory chapter is the question of representation: What knowledge is required to answer questions about counterfactuals? And how should this knowledge be formulated so
 that counterfactual queries can be answered quickly and reliably? That such representation
 exists is evident by the swiftness and consistency with which people distinguish plausible from implausible counterfactual statements. Most people would agree that President
@@ -3070,8 +2916,6 @@ is unquestionably testable.
 23 For example, if Q equals 100% (i.e., all those who took the treatment and died would have recovered had they not taken the treatment), then all surviving subjects from the nontreatment group
 will die if given treatment (again, barring sampling variations). Such exercises will become routine when we develop the mathematical machinery for analyzing probabilities of causes (see
 Chapter 9, Theorem 9.2.12, equations (9.11)–(9.12)).
-
-1.4 Functional Causal Models
 
 (a) A causal Bayesian net-
 .6
@@ -3102,39 +2946,37 @@ example of the controlled randomized experiment (equation (1.46)), which corresp
 to an edgeless Bayesian network (.6(a)) with two independent binary variables
 and a joint probability:
 
-P(y, x) (cid:2) 0.25 for all x and y.
+P(y, x) 0.25 for all x and y.
 
 (1.47)
 
 We now present two functional models, each generating the joint probability of (1.47)
-yet each giving a different value to the quantity of interest, Q (cid:2) the probability that a
-subject who died under treatment (x (cid:2) 1, y (cid:2) 1) would have recovered (y (cid:2) 0) had he
-or she not been treated (x (cid:2) 0).
+yet each giving a different value to the quantity of interest, Q the probability that a
+subject who died under treatment (x 1, y 1) would have recovered (y 0) had he
+or she not been treated (x 0).
 
 Model 1 (.6(b))
 Let
-x (cid:2) u1,
-y (cid:2) u2,
+x u1,
+y u2,
 
 where U1 and U2 are two independent binary variables with P(u1
 
 (e.g., random coins).
 
-(cid:2) 1) (cid:2) P(u2
+1) P(u2
 
-(cid:2) 1) (cid:2)
-
-Introduction to Probabilities, Graphs, and Causal Models
+1) Introduction to Probabilities, Graphs, and Causal Models
 
 .7 Contingency tables showing the distributions P(x, y, u2) and P(x, y) for the two models
 discussed in the text.
 
 Model 2 (.6(c))
 Let
-x (cid:2) u1,
-y (cid:2) xu2
+x u1,
+y xu2
 
-(cid:3) (1 (cid:7) x)(1 (cid:7) u2),
+(1 x)(1 u2),
 
 (1.48)
 
@@ -3142,18 +2984,18 @@ where, as before, U1 and U2 are two independent binary variables.
 
 Model 1 corresponds to treatment (X) that has no effect on any of the subjects; in model 2,
 every subject is affected by treatment. The reason that the two models yield the same dis-
-(cid:2) 1), each
+1), each
 tribution is that model 2 describes a mixture of two subpopulations. In one (u2
-(cid:2) 0), each subject recovers
-subject dies (y (cid:2) 1) if and only if treated; in the other (u2
-(y (cid:2) 0) if and only if treated. The distributions P(x, y, u2) and P(x, y) corresponding
+0), each subject recovers
+subject dies (y 1) if and only if treated; in the other (u2
+(y 0) if and only if treated. The distributions P(x, y, u2) and P(x, y) corresponding
 to these two models are shown in the tables of .7.
 
 The value of Q differs in these two models. In model 1, Q evaluates to zero, be-
-(cid:2) 1 and, since the treatment has no effect on
+1 and, since the treatment has no effect on
 cause subjects who died correspond to u2
-y, changing X from 1 to 0 would still yield y (cid:2) 1. In model 2, however, Q evaluates to
-(cid:2) 1 (i.e., those
+y, changing X from 1 to 0 would still yield y 1. In model 2, however, Q evaluates to
+1 (i.e., those
 unity, because subjects who died under treatment must correspond to u2
 who die if treated), meaning they would recover if and only if not treated.
 
@@ -3161,13 +3003,13 @@ The first lesson of this example is that stochastic causal models are insufficie
 computing probabilities of counterfactuals; knowledge of the actual process behind P(y ƒ
 x) is needed for the computation.24 A second lesson is that a functional causal model
 constitutes a mathematical object sufficient for the computation (and definition) of such
-probabilities. Consider, for example, model 2 of (1.48). The way we concluded that a deceased treated subject (y (cid:2) 1, x (cid:2) 1) would have recovered if not treated involved three
+probabilities. Consider, for example, model 2 of (1.48). The way we concluded that a deceased treated subject (y 1, x 1) would have recovered if not treated involved three
 , to the model and
 mental steps. First, we applied the evidence at hand, e :
-(cid:2) 1,
+1,
 concluded that e is compatible with only one realization of U1 and U2 – namely,
 
-y (cid:2) 1, x (cid:2) 1
+y 1, x 1
 
 u1
 
@@ -3177,38 +3019,34 @@ potential response of an individual to treatment and no treatment, respectively.
 variables play a role similar to the functions fi(pai, ui) in our model; they represent the deterministic assumption that every individual possesses a definite response to treatment, regardless of
 whether that treatment was realized.
 
-1.4 Functional Causal Models
-
-(cid:2) 1
-
 . Second, to simulate the hypothetical condition "had he or she not been treatu2
-ed," we substituted x (cid:2) 0 into (1.48) while ignoring the first equation x (cid:2) u1. Finally,
-(cid:2) 1) and obtained y (cid:2) 0, from which we
-we solved (1.48) for y (assuming x (cid:2) 0 and u2
-concluded that the probability of recovery (y (cid:2) 0) is unity under the hypothetical condition considered.
+ed," we substituted x 0 into (1.48) while ignoring the first equation x u1. Finally,
+1) and obtained y 0, from which we
+we solved (1.48) for y (assuming x 0 and u2
+concluded that the probability of recovery (y 0) is unity under the hypothetical condition considered.
 
-These three steps can be generalized to any causal model M as follows. Given evidence e, to compute the probability of Y (cid:2) y under the hypothetical condition X (cid:2) x
+These three steps can be generalized to any causal model M as follows. Given evidence e, to compute the probability of Y y under the hypothetical condition X x
 (where X is a subset of variables), apply the following three steps to M.
 
 Step 1 (abduction): Update the probability P(u) to obtain P(u ƒ e).
 
-Step 2 (action): Replace the equations corresponding to variables in set X by the equations X (cid:2) x.
+Step 2 (action): Replace the equations corresponding to variables in set X by the equations X x.
 
-Step 3 (prediction): Use the modified model to compute the probability of Y (cid:2) y.
+Step 3 (prediction): Use the modified model to compute the probability of Y y.
 
 In temporal metaphors, this three-step procedure can be interpreted as follows. Step 1
 explains the past (U) in light of the current evidence e; step 2 bends the course of history
-(minimally) to comply with the hypothetical condition X (cid:2) x; finally, step 3 predicts the
-future (Y) based on our new understanding of the past and our newly established condition, X (cid:2) x.
+(minimally) to comply with the hypothetical condition X x; finally, step 3 predicts the
+future (Y) based on our new understanding of the past and our newly established condition, X x.
 
 Recalling that for each value u of U there is a unique solution for Y, it is clear that
 step 3 always gives a unique solution for the needed probability; we simply sum up the
-probabilities P(u ƒ e) assigned to all those u that yield Y (cid:2) y as a solution. Chapter 7
+probabilities P(u ƒ e) assigned to all those u that yield Y y as a solution. Chapter 7
 develops effective procedures for computing probabilities of counterfactuals, procedures
 that are based on probability propagation in "twin" networks (Balke and Pearl 1995a):
 one network represents the actual world; the other, the counterfactual world.
 
-Note that the hypothetical condition X (cid:2) x always stands in contradiction to the prevailing values u of U in the model considered (else X (cid:2) x would actually be realized
+Note that the hypothetical condition X x always stands in contradiction to the prevailing values u of U in the model considered (else X x would actually be realized
 and thus would not be considered hypothetical). It is for this reason that we invoke (in
 step 2) an external intervention (alternatively, a "theory change" or a "miracle"; Lewis
 1973b), which modifies the model and thus explains the contradiction away. In Chapter 7
@@ -3225,13 +3063,11 @@ Because the U variables do not appear explicitly in stochastic models, we cannot
 step 1 so as to update P(u) with the evidence e at hand. This implies that several ubiquitous notions based on counterfactuals – including probabilities of causes (given the
 effects), probabilities of explanations, and context-dependent causal effect – cannot be
 defined in such models. For these, we must make some assumptions about the form of
-the functions fi and the probabilities of the error terms. For example, the assumptions of
-
-Introduction to Probabilities, Graphs, and Causal Models
+the functions fiand the probabilities of the error terms. For example, the assumptions of
 
 linearity, normality, and error independence are sufficient for computing all counterfactual queries in the model of .5 (see Section 7.2.1). In Chapter 9, we will present
 conditions under which counterfactual queries concerning probability of causation can be
-inferred from data when fi and P(u) are unknown, and only general features (e.g., monotonicity) of these entities are assumed. Likewise, Chapter 8 (Section 8.3) will present
+inferred from data when fiand P(u) are unknown, and only general features (e.g., monotonicity) of these entities are assumed. Likewise, Chapter 8 (Section 8.3) will present
 methods of bounding probabilities of counterfactuals when only stochastic models are
 available.
 
@@ -3267,7 +3103,7 @@ existence or nonexistence of unobserved variables.
 Examples: the conditional expectation E(Y ƒ x),
 
 the regression coefficient rYX,
-the value of the density function at y (cid:2) 0, x (cid:2) 1.
+the value of the density function at y 0, x 1.
 
 A causal parameter is any quantity that is defined in terms of a causal model (as in
 
@@ -3282,7 +3118,7 @@ Examples:
 
 the coefficients aik in (1.41),
 whether X9 has influence on X3 for some u,
-the expected value of Y under the intervention do(X (cid:2) 0),
+the expected value of Y under the intervention do(X 0),
 the number of parents of variable X7.
 
 Remark: The exclusion of unmeasured variables from the definition of statistical
@@ -3295,7 +3131,7 @@ additional assumptions beyond the data.
 A statistical assumption is any constraint on a joint distribution of observed variable;
 for example, that f is multivariate normal or that P is Markov relative to a given DAG D.
 A causal assumption is any constraint on a causal model that cannot be realized by
-imposing statistical assumptions; for example, that fi is linear, that Ui and Uj (unobserved)
+imposing statistical assumptions; for example, that fiis linear, that Ui and Uj (unobserved)
 are uncorrelated, or that x3 does not appear in f4(pa4, u4). Causal assumptions may or may
 not have statistical implications. In the former case we say that the assumption is "testable"
 or "falsifiable." Often, though not always, causal assumptions can be falsified from experimental studies, in which case we say that they are "experimentally testable.'' For example, the assumption that X has no effect on E(Y) in model 2 of .6 is empirically
@@ -3308,8 +3144,7 @@ and simplification of these assumptions will occupy a major part of this book.
 
 Remark: Temporal precedence among variables may furnish some information
 about (the absence of) causal relationships – a later event cannot be the cause of
-ƒ yt(cid:7)1, xt), t (cid:2)
-an earlier event. Temporally indexed distributions such as P(yt
+ƒ yt1, xt), t an earlier event. Temporally indexed distributions such as P(yt
 1,…, which are used routinely in economic analysis, may therefore be regarded
 as borderline cases between statistical and causal models. We shall nevertheless
 classify those models as statistical because the great majority of policy-related
@@ -3323,12 +3158,10 @@ with "causal"; we will use the latter two, keeping in mind that some structural
 models may not be causal (see Section 7.2.5).
 
 26 Caution must also be exercised in labeling as a "data-generating model" the probabilistic sequence
-ƒ yt(cid:7)1 xt), t (cid:2) 1,… (e.g., Davidson and MacKinnon 1993, p. 53; Hendry 1995). Such sequences
+ƒ yt1 xt), t 1,… (e.g., Davidson and MacKinnon 1993, p. 53; Hendry 1995). Such sequences
 P(yt
 are statistical in nature and, unless causal assumptions of the type developed in Chapter 2 (see
 Definitions 2.4.1 and 2.7.4) are invoked, they cannot be applied to policy-evaluation tasks.
-
-Introduction to Probabilities, Graphs, and Causal Models
 
 Causal versus Statistical Concepts
 
@@ -3374,8 +3207,6 @@ based on symbiosis of graphical and algebraic approaches.
 
 C H A P T E R T W O
 
-A Theory of Inferred Causation
-
 I would rather discover one causal law
 than be King of Persia.
 
@@ -3404,8 +3235,6 @@ The basic idea of automating the discovery of causes – and the specific implem
 (Cartwright 1995a; Humphreys and Freedman 1996; Cartwright 1999; Korb and Wallace
 1997; McKim and Turner 1997; Robins and Wasserman 1999). Selected aspects of this
 debate will be addressed in the discussion section at the end of this chapter (Section 2.9.1).
-
-A Theory of Inferred Causation
 
 Acknowledging that statistical associations do not logically imply causation, this
 chapter asks whether weaker relationships exist between the two. In particular, we ask:
@@ -3488,8 +3317,6 @@ scientist attempts to identify from the available observations.
 1 Some of the popular quotes are: "No causation without manipulation" (Holland 1986), "No causes in, no causes out" (Cartwright 1989), "No computer program can take account of variables that
 are not in the analysis" (Cliff 1983). My favorite: "Causation first, Manipulation second."
 
-A Theory of Inferred Causation
-
 Definition 2.2.1. (Causal Structure)
 A causal structure of a set of variables V is a directed acyclic graph (DAG) in which each
 node corresponds to a distinct element of V, and each link represents a direct functional
@@ -3499,19 +3326,16 @@ A causal structure serves as a blueprint for forming a "causal model" – a prec
 equation model of (1.40). Here we assume that Nature is at liberty to impose arbitrary
 functional relationships between each effect and its causes and then to perturb these relationships by introducing arbitrary (yet mutually independent) disturbances. These disturbances reflect "hidden" or unmeasurable conditions that Nature governs by some undisclosed probability function.
 
-M (cid:2) (cid:2)D, ®
+M D, ®
 
 Definition 2.2.2 (Causal Model)
 A causal model is a pair
 consisting of a causal structure D and a set of pa-
 ®
 ®
-(cid:2) fi (pai, ui)
+fi (pai, ui)
 assign a function xi
 rameters
-D
-D
-(cid:3) V
 and a probability measure P(ui) to each ui, where PAi are the parents
 to each
 Xi
@@ -3519,9 +3343,6 @@ of Xi in D and where each Ui is a random disturbance distributed according to P(
 independently of all other u.
 
 compatible with D. The parameters
-
-(cid:3)
-D
 
 As we have seen in Chapter 1 (Theorem 1.4.1), the assumption of independent disturbances renders the model Markovian in the sense that each variable is independent of all
 its nondescendants, conditional on its parents in D. The ubiquity of the Markov assumption in human discourse may be reflective of the granularity of the models we deem useful for understanding Nature. We can start in the deterministic extreme, where all variables are explicated in microscopic detail and where the Markov condition certainly
@@ -3546,7 +3367,7 @@ of its parents). Nature then permits the scientist to inspect a select subset
 of
 "observed" variables and to ask questions about P[O], the probability distribution over
 
-O (cid:2) V
+O V
 
 2.3 Model Preference (Occam's Razor)
 
@@ -3562,7 +3383,7 @@ the observed variables through different causal relationships. Therefore, with n
 assertions about the structure underlying the phenomena. For example, every probability
 distribution P[O] can be generated by a structure in which no observed variable is a cause
 of another but instead all variables are consequences of one latent common cause, U.3
-Likewise, assuming V (cid:2) O but lacking temporal information, the scientist can never
+Likewise, assuming V O but lacking temporal information, the scientist can never
 rule out the possibility that the underlying structure is a complete, acyclic, and arbitrarily ordered graph – a structure that (with the right choice of parameters) can mimic the
 behavior of any model, regardless of the variable ordering. However, following standard
 norms of scientific induction, it is reasonable to rule out any theory for which we find
@@ -3581,29 +3402,24 @@ the concept of minimality to structures with unobserved variables.
 
 Definition 2.3.2 (Latent Structure)
 A latent structure is a pair
-O (cid:2) V
+O V
 
-L (cid:2) (cid:2)D, O(cid:3),
+L D, O,
 is a set of observed variables.
 
 where D is a causal structure over V and where
 
 Definition 2.3.3 (Structure Preference)
-L(cid:3) (cid:2) (cid:2)D(cid:3), O(cid:3)
-One latent structure
-if and only if D(cid:3) can mimic D over O – that is, if and only if for every
+LD, OOne latent structure
+if and only if Dcan mimic D over O – that is, if and only if for every
 
 is preferred to another
 
-L (cid:2) (cid:2)D, O(cid:3)
-
-(written
+L D, O(written
 ®
 
-L (cid:2) L(cid:3))
+L L)
 there exists a
-
-D
 
 2 This formulation invokes several idealizations of the actual task of scientific discovery. It assumes,
 for example, that the scientist obtains the distribution directly, rather than events sampled from
@@ -3611,31 +3427,22 @@ the distribution. Additionally, we assume that the observed variables actually a
 which we do not discuss in this chapter.
 
 3 This can be realized by letting U have as many states as O, assigning to U the prior distribution
-P(u) (cid:2) P(o(u)) (where o(u) is the cell of O corresponding to state u), and letting each observed
+P(u) P(o(u)) (where o(u) is the cell of O corresponding to state u), and letting each observed
 variable Oi take on its corresponding value in o(u).
 
-A Theory of Inferred Causation
-
-®(cid:3)
-
-D(cid:3)
-written
+®Dwritten
 
 such that
-L(cid:3) (cid:5) L,
+LL,
 
-P[O]((cid:2)D(cid:3), ®(cid:3)
-if and only if
+P[O](D, ®if and only if
 
-D(cid:3)(cid:3)) (cid:2) P[O]((cid:2)D, ®
+D) P[O](D, ®
 
-L (cid:2) L(cid:3)
+L Land
 
-and
-
-(cid:3)).
-D
-L (cid:3) L(cid:3).4
+).
+L L.4
 
 Two latent structures are equivalent,
 
@@ -3660,27 +3467,22 @@ inferred causation (Definition 2.3.1) to latent structures.
 Definition 2.3.4 (Minimality)
 A latent structure L is minimal with respect to a class L of latent structures if and only
 if there is no member of L that is strictly preferred to L – that is, if and only if for every
-L(cid:3) (cid:3) L we have
+LL we have
 
 whenever
 
-L(cid:3) (cid:2) L.
+LL.
 
-L (cid:5) L(cid:3)
-
-Definition 2.3.5 (Consistency)
+L LDefinition 2.3.5 (Consistency)
 A latent structure
 commodate some model that generates – that is, if there exists a parameterization
 such that
 
 is consistent with a distribution
 
-L (cid:2) (cid:4)D, O(cid:4)
+L D, OP[O](D, ®
 
-P[O]((cid:2)D, ®
-
-(cid:3)) (cid:2) Pˆ .
-D
+) Pˆ .
 
 over O if D can ac-
 
@@ -3694,8 +3496,6 @@ Clearly, a necessary (and sometimes sufficient) condition for L to be consistent
 is that L can account for all the dependencies embodied in
 
 Pˆ
-
-D
 
 Pˆ
 
@@ -3736,8 +3536,8 @@ dependent of b" and "d is independent of
 given c." Assume further that the data
 a, b
 reveals no other independence besides those that logically follow from these two. This
-dependence pattern would be typical, for example, of the following variables: a (cid:2) having
-a cold, b (cid:2) having hay fever, c (cid:2) having to sneeze, d (cid:2) having to wipe one's nose.
+dependence pattern would be typical, for example, of the following variables: a having
+a cold, b having hay fever, c having to sneeze, d having to wipe one's nose.
 It is not hard to see that structures (a) and (b) in .1 are minimal, for they entail
 the observed independencies and none other.5 Furthermore, any structure that explains
 the observed dependence between c and d by an arrow from d to c, or by a hidden common cause (*) between the two, cannot be minimal, because any such structure would be
@@ -3762,11 +3562,9 @@ imply unambiguous causal
 without making any assumption about the presence
 dependencies (in our case,
 
-(a (cid:2)(cid:2) b)
+(a b)
 
-(d (cid:2)(cid:2)
-
-a, b
+(d a, b
 
 c S d)
 
@@ -3780,8 +3578,6 @@ a d *
 impose equality between the two variables. Conversely, (a) can mimic (b), since it is capable of
 generating every distribution that possesses the independencies entailed by (b). (For theory and
 methods of "reading off" conditional independencies from graphs, see Section 1.2.3 or Pearl 1988b.)
-
-A Theory of Inferred Causation
 
 or absence of latent variables.6 The only assumption invoked in this implication is minimality – models that overfit the data are ruled out.
 
@@ -3813,45 +3609,37 @@ A S C d B)
 
 Definition 2.4.1 (Stability)
 Let I (P) denote the set of all conditional independence relationships embodied in P.
-(cid:3))
+)
 A causal model
-D
-(cid:3))) (cid:2)
-contains no extraneous independences – that is, if and only if
-D
-(cid:3)))
-I(P((cid:2)D, ®(cid:3)
-D
+)) contains no extraneous independences – that is, if and only if
+))
+I(P(D, ®D
 
 generates a stable distribution if and only if
 
 for any set of parameters
 
-M (cid:2) (cid:2)D, ®
+M D, ®
 
-I(P((cid:2)D, ®
+I(P(D, ®
 
-P((cid:2)D, ®
+P(D, ®
 
-®(cid:3)
-D.
-
-(cid:3)
-D
+®D.
 
 The stability condition states that, as we vary the parameters from
 no independence in P can be destroyed; hence the name "stability." Succinctly, P is a stable
-3 (X (cid:2)(cid:2) Y | Z)D
+3 (X Y | Z)D
 distribution of M if it "maps" the structure D of M, that is,
 for any three sets of variables X, Y, and Z (see Theorem 1.2.5).
 
-(X (cid:2)(cid:2) Y | Z)P
+(X Y | Z)P
 
 to
 
 ®
 
-®(cid:3),
+®,
 
 The relationship between minimality and stability can be illustrated using the following analogy. Suppose we see a picture of a chair and that we need to decide between two
 theories as follows.
@@ -3885,7 +3673,7 @@ which stands for the relations
 
 Z d X S Y,
 
-z (cid:2) f1(x, u1), y (cid:2) f2(x, u2),
+z f1(x, u1), y f2(x, u2),
 
 (2.1)
 
@@ -3895,8 +3683,8 @@ In contrast, if we add an arrow
 to the structure and use a linear model
 
 Z S Y
-z (cid:2) gx (cid:5) u1, y (cid:2) (cid:2)x (cid:5) (cid:3)z (cid:5) u2,
-(cid:2) (cid:2) (cid:4)(cid:3)g
+z gx u1, y x z u2,
+g
 
 with
 , then Y and X will be independent. However, the independence between
@@ -3905,7 +3693,7 @@ Y and X is unstable because it disappears as soon as the equality
 The stability assumption presumes that this type of independence is unlikely to occur in
 the data, that all independencies are structural.
 
-(cid:2) (cid:2) (cid:4)(cid:3)g
+g
 
 To further illustrate the relations between stability and minimality, consider the causal
 structure depicted in .1(c). The minimality principle rejects this structure on the
@@ -3920,9 +3708,9 @@ the association produced by the arrow
 
 a d c S b.
 
-(a(cid:2)(cid:2)b)),
+(ab)),
 
-(a(cid:2)(cid:2)b)
+(ab)
 
 is stable.
 
@@ -3939,8 +3727,6 @@ down to reconstructing the structure of a DAG D from queries about conditional i
 undisclosed underlying DAG D0. Naturally, since D0 may have equivalent structures,
 the reconstructed DAG will not be unique, and the best we can do is to find a graphical
 representation for the equivalence class of D0. Such graphical representation was introduced in Verma and Pearl (1990) under the name pattern. A pattern is a partially directed
-
-A Theory of Inferred Causation
 
 DAG, in particular, a graph in which some edges are directed and some are nondirected.
 The directed edges represent arrows that are common to every member in the equivalence class of D0, while the undirected edges represent ambivalence; they are directed
@@ -3972,7 +3758,7 @@ compatible with
 Pˆ .
 
 1. For each pair of variables a and b in V, search for a set Sab such that
-(a(cid:2)(cid:2) b | Sab)
+(ab | Sab)
 holds in – in other words, a and b should be independent in
 Pˆ ,
 conditioned on Sab. Construct an undirected graph G such that vertices
@@ -3983,7 +3769,7 @@ Pˆ
 
 check if
 
-c (cid:3) Sab.
+c Sab.
 
 If it is, then continue.
 If it is not, then add arrowheads pointing at c (i.e.,
@@ -4025,8 +3811,6 @@ b S c
 
 whenever there is an arrow
 
-a S b
-
 such that a and c
 
 are nonadjacent.
@@ -4038,13 +3822,9 @@ R4: Orient a — b into
 
 a —
 
-a S b
-
 whenever there is chain
 
 a S c S b.
-
-a S b
 
 whenever there are two chains a —
 
@@ -4053,8 +3833,6 @@ c S b
 and
 
 such that c and d are nonadjacent.
-
-a S b
 
 whenever there are two chains a —
 
@@ -4090,8 +3868,6 @@ of uniquely orientable arrows constitutes the desired maximally oriented pattern
 
 a d b,
 
-a S b
-
 and
 
 Latent structures, however, require special treatment, because the constraints that a
@@ -4115,17 +3891,13 @@ Pˆ ,
 
 Pˆ
 
-A Theory of Inferred Causation
-
 Definition 2.6.1 (Projection)
 A latent structure
 only if:
 
 L[O]
 
-(cid:2) (cid:2)D[O], O(cid:3)
-
-is a projection of another latent structure L if and
+D[O], Ois a projection of another latent structure L if and
 
 1.
 
@@ -4134,9 +3906,7 @@ is a projection of another latent structure L if and
 every unobservable variable of D[O] is a parentless common cause of exactly two
 nonadjacent observable variables; and
 for every stable distribution P generated by L, there exists a stable distribution
-P(cid:3) generated by L[O] such that I (P[O]) (cid:2) I (P(cid:3)
-
-[O]).
+Pgenerated by L[O] such that I (P[O]) I (P[O]).
 
 Theorem 2.6.2 (Verma 1993)
 Any latent structure has at least one projection.
@@ -4201,8 +3971,6 @@ in the underlying model.8
 a d b
 
 or
-
-a S b
 
 or
 
@@ -4296,17 +4064,9 @@ b, c
 
 , Sae
 
-(cid:2)
-
-(cid:2)
-
 d
 
-A Theory of Inferred Causation
-
 .4 Latent structures equivalent to those of .3(a).
-
-(cid:2)
 
 , Sbe
 Sbc
@@ -4316,11 +4076,7 @@ d
 
 a
 
-(cid:2)
-
 , and Sce
-
-(cid:2)
 
 d
 
@@ -4385,14 +4141,14 @@ if the following conditions hold.
 (i) X and Z are independent given S (i.e.,
 (ii) Z and Y are dependent given S (i.e.,
 
-Z(cid:2)(cid:2)/ Y (cid:6) S).
+Z/ Y S).
 
-X(cid:2)(cid:2) Z (cid:6) S)
+XZ S)
 
 and
 
-By "context" we mean a set of variables tied to specific values. In .3(a), for example, variable b qualifies as a potential cause of d by virtue of variable Z (cid:2) c being
-dependent on d and independent of b in context S (cid:2) a. Likewise, c qualifies as a potential cause of d (with Z (cid:2) b and S (cid:2) a). Neither b nor c qualifies as a genuine cause of
+By "context" we mean a set of variables tied to specific values. In .3(a), for example, variable b qualifies as a potential cause of d by virtue of variable Z c being
+dependent on d and independent of b in context S a. Likewise, c qualifies as a potential cause of d (with Z b and S a). Neither b nor c qualifies as a genuine cause of
 d, because this pattern of dependencies is also compatible with a latent common cause,
 shown as bidirected arcs in Figures 2.4(a)–(b). However, Definition 2.7.1 disqualifies
 d as a cause of b (or c), and this leads to the classification of d as a genuine cause of
@@ -4406,20 +4162,19 @@ A variable X has a genuine causal influence on another variable Y if there exist
 
 (i) Z is a potential cause of X (per Definition 2.7.1),
 (ii) Z and Y are dependent given S (i.e.,
-(iii) Z and Y are independent given S (cid:4) X (i.e.,
+(iii) Z and Y are independent given S X (i.e.,
 or
 
-Z(cid:2)(cid:2)/ Y (cid:6) S),
+Z/ Y S),
 
 and
-Z (cid:2)(cid:2) Y (cid:6) S
+Z Y S
 
-(cid:4) X);
+X);
 
 2. X and Y are in the transitive closure of the relation defined in criterion 1.
 
-S (cid:2)
-Conditions (i)–(iii) are illustrated in .3(a) with X (cid:2) d, Y (cid:2) e, Z (cid:2) b, and
+S Conditions (i)–(iii) are illustrated in .3(a) with X d, Y e, Z b, and
 0.
 The destruction of the dependence between b and e through conditioning on d cannot be attributed to spurious association between d and e; genuine causal influence is the
 only explanation, as shown in the structures of .4.
@@ -4434,9 +4189,7 @@ with the added condition
 Suppes 1970). This refinement is applicable to any of the definitions in this section, but it will not
 be formulated explicitly.
 
-P(Y (cid:6) X) (cid:6) P(Y )
-
-A Theory of Inferred Causation
+P(Y X) P(Y )
 
 .5 Illustration of how temporal information
 permits the inference of genuine causation and spurious
@@ -4450,14 +4203,12 @@ independencies displayed in (a) and (b), respectively.
 
 Z1
 
-(cid:2)(cid:2)/ X (cid:6) S1);
-(cid:2)(cid:2)Y (cid:6) S1);
+/ X S1);
+Y S1);
 Z1
-Z2 (cid:2)(cid:2)/ Y (cid:6) S2);
-(cid:2)(cid:2)
-
+Z2 / Y S2);
 and
-X (cid:6) S2).
+X S2).
 
 Z2
 
@@ -4479,8 +4230,8 @@ both occurring before X, such that:
 1.
 2.
 
-(Z (cid:2)(cid:2)/ Y (cid:6) S);
-(Z (cid:2)(cid:2) Y (cid:6) S(cid:4)X).
+(Z / Y S);
+(Z Y SX).
 
 The intuition behind Definition 2.7.4 is the same as for Definition 2.7.2, except that temporal precedence is now used to establish Z as a potential cause of X. This is illustrated
 in .5(a): If conditioning on X can turn Z and Y from dependent to independent
@@ -4496,21 +4247,20 @@ if X precedes Y, and if there exists a variable Z satisfying:
 1.
 2.
 
-(Z(cid:2)(cid:2)Y (cid:6) S);
-(Z (cid:2)(cid:2)/ X (cid:6) S).
+(ZY S);
+(Z / X S).
 
 .5(b) illustrates the intuition behind Definition 2.7.5. Here the dependence between X and Y cannot be attributed to causal connection between the two because such
 a connection would imply dependence between Z and Y, which is ruled out by condition 1.10
 
 and
 
-(b (cid:2)(cid:2)/ c (cid:6) 0).
+(b / c 0).
 
 Examining the definitions just presented, we see that all causal relations are inferred
 from at least three variables. Specifically, the information that permits us to conclude that
 one variable is not a causal consequence of another comes in the form of an "intransitive
-(a(cid:2)(cid:2) b (cid:6) 0), (a (cid:2)(cid:2)/ c (cid:6)
-triplet" – for example, the variables a, b, c in .1(a) satisfying
+(ab 0), (a / c triplet" – for example, the variables a, b, c in .1(a) satisfying
 0),
 The argument goes as follows. If we find conditions (Sab) where
 the variables a and b are each correlated with a third variable c but are independent of
@@ -4553,8 +4303,6 @@ Z S X S Y
 construct causal chains
 not be sustained for all parameterizations of the chain.
 
-A Theory of Inferred Causation
-
 or 2.7.4 ever clash with the available temporal information (say, by a subsequent discovery that Y precedes X)? Since the rationale behind Definition 2.7.4 is based on strong
 intuitions about the statistical aspects of causal relationships (e.g., no correlation without some causation), it is apparent that such clashes, if they occur, are rather rare. The
 question then arises: Why should orientations determined solely by statistical dependencies have anything to do with the flow of time?
@@ -4585,25 +4333,25 @@ Xt
 
 Yt
 
-(cid:2) (cid:2)Xt(cid:4)1
-(cid:2) gXt(cid:4)1
+Xt1
+gXt1
 
-(cid:5) (cid:3)Yt(cid:4)1
-(cid:5) dYt(cid:4)1
+Yt1
+dYt1
 
-(cid:5) jt,
-(cid:5) ht,
+jt,
+ht,
 
 (2.3)
 
 has only one statistical time – the one coinciding with the physical time.12 Indeed, running the IC algorithm on samples taken from such a process – while suppressing all
-temporal information – quickly identifies the components of Xt(cid:4)1 and Yt(cid:4)1 as genuine
+temporal information – quickly identifies the components of Xt1 and Yt1 as genuine
 
 11 This expectation, known as Reichenbach's "conjunctive fork" or "common-cause" criterion (Reichenbach 1956; Suppes and Zaniotti 1981; Sober and Barrett 1992) has been criticized by Salmon
 (1984a), who showed that some events qualify as causal explanations though they fail to meet
 Reichenbach's criterion. However, Salmon's examples involve incomplete explanations, as they
 leave out variables that mediate between the cause and its various effects (see Section 2.9.1).
-(cid:2) (cid:7) d
+d
 
 are assumed to be two independent, white-noise time series. Also,
 
@@ -4614,21 +4362,19 @@ and
 and
 
 jt
-g (cid:7) (cid:3).
+g .
 
 ht,
 
 2.9 Conclusions
 
-causes of Xt and Yt. This can be seen from Definition 2.7.1 (where Xt(cid:4)2 qualifies as a
-potential cause of Xt(cid:4)1 using Z (cid:2) Yt(cid:4)2 and S (cid:2)
-) and Definition 2.7.2
-(where Xt(cid:4)1 qualifies as a genuine cause of Xt using Z (cid:2) Xt(cid:4)2 and S (cid:2)
-).
-Yt(cid:4)16
+causes of Xt and Yt. This can be seen from Definition 2.7.1 (where Xt2 qualifies as a
+potential cause of Xt1 using Z Yt2 and S ) and Definition 2.7.2
+(where Xt1 qualifies as a genuine cause of Xt using Z Xt2 and S ).
+Yt16
 The temporal bias postulated earlier can be expressed as follows.
 
-Xt(cid:4)3, Yt(cid:4)36
+Xt3, Yt36
 
 Conjecture 2.8.2 (Temporal Bias)
 In most natural phenomenon, the physical time coincides with at least one statistical
@@ -4644,32 +4390,24 @@ say, using a linear transformation
 
 ht
 
-(cid:3) (cid:2) aXt
+aXt
 Xt
-(cid:3) (cid:2) cXt
+cXt
 Yt
 
-(cid:5) bYt,
-(cid:5) dYt
+bYt,
+dYt
 
-(X(cid:3)
+(Xt1 and Yt and Yt1)
 
-t(cid:5)1 and Y(cid:3)
-
-t and Y(cid:3)
-t(cid:5)1)
-
-– it is possible to make the statistical time in the (X(cid:3), Y(cid:3)) representation run contrary to
-the physical time; that is, X(cid:3)
-t will be independent of each other conditional on
+– it is possible to make the statistical time in the (X, Y) representation run contrary to
+the physical time; that is, Xt will be independent of each other conditional on
 their future values
 rather than their past values. This suggests that the
 consistent agreement between physical and statistical times is a by-product of the human
 choice of linguistic primitives and not a feature of physical reality. For example, if Xt
-and Yt stand for the positions of two interacting particles at time t, with X(cid:3)
-t the position
-of their center of gravity and Y(cid:3)
-t their relative distance, then describing the particles' motion in the (X, Y) versus (X(cid:3), Y(cid:3)) coordinate system is (in principle) a matter of choice.
+and Yt stand for the positions of two interacting particles at time t, with Xt the position
+of their center of gravity and Yt their relative distance, then describing the particles' motion in the (X, Y) versus (X, Y) coordinate system is (in principle) a matter of choice.
 Evidently, however, this choice is not entirely whimsical; it reflects a preference toward
 in (2.3)) are orthogocoordinate systems in which the forward disturbances (
 nal to each other, rather than the corresponding backward disturbances (
@@ -4683,11 +4421,9 @@ interesting.
 
 and
 
-h(cid:3)
-t
+ht
 
-j(cid:3)
-t
+jt
 
 ht
 
@@ -4699,8 +4435,6 @@ The theory presented in this chapter shows that, although statistical analysis c
 cases it can. Under the assumptions of model minimality (and/or stability), there are
 
 13 I am grateful to Seth Lloyd for this observation.
-
-A Theory of Inferred Causation
 
 patterns of dependencies that should be sufficient to uncover genuine causal relationships. These relationships cannot be attributed to hidden causes lest we violate one of
 the basic maxims of scientific methodology: the semantical version of Occam's razor.
@@ -4723,8 +4457,6 @@ as genuine if in
 fact a has no causal influence on b and if the observed distribution is stable relative to
 its underlying causal model.
 
-a S b
-
 On the practical side, we have shown that the assumption of model minimality,
 together with that of "stability" (no accidental independencies) lead to an effective
 algorithm for structuring candidate causal models capable of generating the data, transparent as well as latent. Simulation studies conducted at our laboratory in 1990 showed
@@ -4737,7 +4469,7 @@ scheme on real-life data, we have examined the observations reported in Sewal
 Wright's seminal paper "Corn and Hog Correlations" (Wright 1925). As expected, corn
 price (X) can clearly be identified as a cause of hog price (Y) but not the other way
 around. The reason lies in the existence of the variable corn crop (Z), which satisfies
-S (cid:2) 0).
+S 0).
 the conditions of Definition 2.7.2 (with
 Several applications of the principles
 and algorithms discussed in this chapter are described in Glymour and Cooper (1999,
@@ -4794,8 +4526,6 @@ conceivable intervention in advance.
 
 been reported in Spirtes et al. (1995) and Richardson (1996).
 
-A Theory of Inferred Causation
-
 .6 (a) Interactive fork. (b) Latent structure equivalent to (a).
 
 It is not surprising, therefore, that criticisms of the Markov assumption, most notably those of Cartwright (1995a, 1997) and Lemmer (1993), have two characteristics in
@@ -4822,7 +4552,7 @@ condition insist that certain alleged counterexamples must be modeled as P(bc ƒ
 not as
 would be gained by leaving the dependency between b and c unexplained.
 
-d P(b (cid:6) d, a)P(c (cid:6) d, a)
+d P(b d, a)P(c d, a)
 
 ©
 
@@ -4840,13 +4570,13 @@ through latent variables.
 I now address the assumption of stability. The argument usually advanced to
 justify stability (Spirtes et al. 1993) appeals to the fact that strict equalities among
 products of parameters have zero Lebesgue measure in any probability space in which
-parameters can vary independently of one another. For example, the equality a (cid:2)(cid:4)bg
+parameters can vary independently of one another. For example, the equality a bg
 in the model of (2.2) has zero probability if we consider any continuous joint density
-over the parameters a, (cid:4)b, and g, unless that density somehow embodies the constraint
+over the parameters a, b, and g, unless that density somehow embodies the constraint
 
 2.9 Conclusions
 
-a (cid:2)(cid:4)bg on a priori grounds. Freedman (1997), in contrast, claimed that there is no
+a bg on a priori grounds. Freedman (1997), in contrast, claimed that there is no
 reason to assume that parameters are not in fact tied together by equality constraints
 of this sort, which would render the resulting distribution unstable (using Definition 2.4.1).
 
@@ -4856,15 +4586,15 @@ Y S X S Z,
 none other than equality constraints on the joint distribution. The chain model
 for example, entails the equality
 
-rYZ (cid:2) rXZ (cid:8) rYX,
+rYZ rXZ rYX,
 
 where rXY is the correlation coefficient between X and Y; this equality constraint ties the
 three correlation coefficients in a permanent bond. What, then, gives equalities among
 correlation coefficients a privileged status over equalities among another set of parameters – say, a, b, and g? Why do we consider the equality
 "stable" and
-the equality a (cid:2) (cid:4)bg "accidental"?
+the equality a bg "accidental"?
 
-rYZ (cid:2) rXZ (cid:8) rYX
+rYZ rXZ rYX
 
 The answer, of course, rests on the notion of autonomy (Aldrich 1989), a notion at
 the heart of all causal concepts (see Sections 1.3 and 1.4). A causal model is not just
@@ -4873,7 +4603,7 @@ distinctive feature of causal models is that each variable is determined by a se
 variables through a relationship (called "mechanism") that remains invariant when other
 mechanisms are subjected to external influences. This invariance means that mechanisms can vary independently of one another, which in turns implies that the set of structural coefficients (e.g., a, b, g in our example of (2.2)) – rather than other types of
 parameters (e.g., rYZ, rXZ, rYX) – can and will vary independently when experimental
-conditions change. Consequently, equality constraints of the form a (cid:2)(cid:4)bg are contrary
+conditions change. Consequently, equality constraints of the form a bg are contrary
 to the idea of autonomy and will rarely occur under natural conditions. It is people's quest
 for stability that explains why they find it impossible to exemplify intransitive patterns of
 dependencies except by envisioning a common effect of two independent causes (see
@@ -4894,8 +4624,6 @@ It is important to stress that elements of the principles of minimality and stab
 underlie causal discovery in the Bayesian approach. In this approach, one assigns prior
 probabilities to a set of candidate causal networks, based on their structures and parameters, and then uses Bayes's rule to score the degree to which a given network fits the
 data (Cooper and Herskovits 1991; Heckerman et al. 1999). A search is then conducted
-
-A Theory of Inferred Causation
 
 over the space of possible structures to seek the one(s) with the highest posterior score.
 Methods based on this approach have the advantage of operating well under small-sample
@@ -4949,8 +4677,6 @@ The eye obeys exactly
 the action of the mind.
 Emerson (1860)
 
-Preface
-
 In the previous chapter we dealt with ways of learning causal relationships from raw data.
 In this chapter we explore the ways of inferring such relationships from a combination
 of data and qualitative causal assumptions that are deemed plausible in a given domain.
@@ -4974,8 +4700,6 @@ of observed distributions; otherwise, the diagrams can be queried to suggest add
 observations or auxiliary experiments from which the desired inferences can be obtained.
 Another tool that emerges from the graphical analysis of causal effects is a calculus of interventions – a set of inference rules by which sentences involving interventions
 and observations can be transformed into other such sentences, thus providing a syntactic method of deriving (or verifying) claims about interventions and the way they interact
-
-Causal Diagrams and the Identification of Causal Effects
 
 with observations. With the help of this calculus the reader will be able to (i) determine
 mathematically whether a given set of covariates is appropriate for control of confounding, (ii) deal with measurements that lie on the causal pathways, and (iii) trade one set
@@ -5057,18 +4781,16 @@ the diagram of .1 and make the following immediate conclusions.
 
 the formula1
 
-P(y (cid:2) xˆ ) (cid:4) a
+P(y xˆ ) a
 a
 z2
 z1
-(cid:2) a
-x(cid:3)
-
-P (y (cid:2) z2, z3, x) P(z2 (cid:2) z1, x)
+a
+xP (y z2, z3, x) P(z2 z1, x)
 
 a
 z3
-P(z3 (cid:2) z1, z2, x(cid:3)) P(z1, x(cid:3)),
+P(z3 z1, z2, x) P(z1, x),
 
 (3.1)
 
@@ -5078,13 +4800,11 @@ P(z3 (cid:2) z1, z2, x(cid:3)) P(z1, x(cid:3)),
 xˆ
 because of the inconvenience in handling subscripts. The reader need not be intimidated if, at this
 point, (3.1) appears unfamiliar. After reading Section 3.4, the reader should be able to derive such
-formulas with greater ease than solving algebraic equations. Note that x(cid:3) is merely an index of
+formulas with greater ease than solving algebraic equations. Note that xis merely an index of
 summation that ranges over the values of X.
 
-Causal Diagrams and the Identification of Causal Effects
-
-where P(y ƒ ) stands for the probability of achieving a yield level of Y (cid:4) y, given
-that the treatment is set to level X (cid:4) x by external intervention.
+where P(y ƒ ) stands for the probability of achieving a yield level of Y y, given
+that the treatment is set to level X x by external intervention.
 
 xˆ
 
@@ -5116,10 +4836,10 @@ other words, each child–parent family in a DAG G represents a deterministic fu
 
 xi
 
-(cid:4) fi( pai, ei), i (cid:4) 1, p , n,
+fi( pai, ei), i 1, p , n,
 
 (3.2)
-where pai are the parents of variable Xi in G; the ei (1 (cid:5) i (cid:5) n) are jointly independent,
+where pai are the parents of variable Xi in G; the ei (1 i n) are jointly independent,
 arbitrarily distributed random disturbances. These disturbance terms represent independent background factors that the investigator chooses not to include in the analysis. If
 any of these factors is judged to be influencing two or more variables (thus violating the
 independence assumption), then that factor must enter the analysis as an unmeasured (or
@@ -5135,18 +4855,16 @@ Z2
 
 Z3
 
-(cid:4) f0 (e0),
-(cid:4) f1 (Z0, e1),
-(cid:4) f2 (X, Z1, e2),
-(cid:4) f3 (B, Z2, e3).
+f0 (e0),
+f1 (Z0, e1),
+f2 (X, Z1, e2),
+f3 (B, Z2, e3).
 
-B (cid:4) fB (Z0, eB),
-X (cid:4) fX (Z0, eX),
-Y (cid:4) fY (X, Z2, Z3, eY),
+B fB (Z0, eB),
+X fX (Z0, eX),
+Y fY (X, Z2, Z3, eY),
 
 (3.3)
-
-3.2 Intervention in Markovian Models
 
 More generally, we may lump together all unobserved factors (including the ei,) into a
 set U of background variables and then summarize their characteristics by a distribution
@@ -5154,9 +4872,9 @@ function P(u) – or by some aspects (e.g., independencies) of P(u). Thus, a ful
 
 xi
 
-(cid:4) fi (pai, ui),
+fi (pai, ui),
 
-i (cid:4) 1, . . . , n,
+i 1, . . . , n,
 
 (3.4)
 
@@ -5189,18 +4907,18 @@ Recalling our discussion in Section 1.4, the functional characterization of each
 parent relationship leads to the same recursive decomposition of the joint distribution that
 characterizes Bayesian networks:
 
-P(x1, p , xn) (cid:4) q
+P(x1, p , xn) q
 i
 
-P(xi (cid:2) pai),
+P(xi pai),
 
 which, in our example of .1, yields
 
 (3.5)
 
-P(z0, x, z1, b, z2, z3, y) (cid:4) P(z0) P(x (cid:2) z0)P(z1 (cid:2) z0) P(b (cid:2) z0)
+P(z0, x, z1, b, z2, z3, y) P(z0) P(x z0)P(z1 z0) P(b z0)
 
-(cid:2) P(z2 (cid:2) x, z1) P(z3 (cid:2) z2, b) P(y (cid:2) x, z2, z3).
+P(z2 x, z1) P(z3 z2, b) P(y x, z2, z3).
 
 (3.6)
 
@@ -5209,23 +4927,21 @@ This is accomplished by encoding each intervention as an alteration on a select 
 of functions while keeping the other functions intact. Once we know the identity of the
 mechanisms altered by the intervention and the nature of the alteration, the overall effect
 
-Causal Diagrams and the Identification of Causal Effects
-
 of the intervention can be predicted by modifying the corresponding equations in the
 model and using the modified model to compute a new probability function.
 
 The simplest type of external intervention is one in which a single variable, say Xi,
 is forced to take on some fixed value xi. Such an intervention, which we call "atomic,"
-(cid:4) fi(pai, ui)
+fi(pai, ui)
 amounts to lifting Xi from the influence of the old functional mechanism xi
 and placing it under the influence of a new mechanism that sets the value xi while keeping
 all other mechanisms unperturbed. Formally, this atomic intervention, which we denote
-(cid:4) xi), or do(xi) for short,2 amounts to removing the equation xi
-(cid:4) fi( pai, ui)
+xi), or do(xi) for short,2 amounts to removing the equation xi
+fi( pai, ui)
 by do(Xi
-(cid:4) xi in the remaining equations. The new model
+xi in the remaining equations. The new model
 from the model and substituting Xi
-(cid:4) xi) and,
+xi) and,
 thus created represents the system's behavior under the intervention do(Xi
 when solved for the distribution of Xj, yields the causal effect of Xi on Xj, which is de-
 ). More generally, when an intervention forces a subset X of variables
@@ -5242,16 +4958,16 @@ Definition 3.2.1 (Causal Effect)
 Given two disjoint sets of variables, X and Y, the causal effect of X on Y, denoted either
 ) or as P( y ƒ do(x)), is a function from X to the space of probability distribuas P( y ƒ
 xˆ
-) gives the probability of Y (cid:4) y induced
+) gives the probability of Y y induced
 tions on Y. For each realization x of X, P( y ƒ
 by deleting from the model of (3.4) all equations corresponding to variables in X and
-substituting X (cid:4) x in the remaining equations.
+substituting X x in the remaining equations.
 
 xˆ
 
 Clearly, the graph corresponding to the reduced set of equations is a subgraph of G
-from which all arrows entering X have been pruned (Spirtes et al. 1993). The difference E(Y ƒ do(x(cid:3))) – E(Y ƒ do(x(cid:3)(cid:3))) is sometimes taken as the definition of "causal effect"
-(Rosenbaum and Rubin 1983), where x(cid:3) and x(cid:3)(cid:3) are two distinct realizations of X. This
+from which all arrows entering X have been pruned (Spirtes et al. 1993). The difference E(Y ƒ do(x)) – E(Y ƒ do(x)) is sometimes taken as the definition of "causal effect"
+(Rosenbaum and Rubin 1983), where xand xare two distinct realizations of X. This
 difference can always be computed from the general function P(y ƒ do(x)), which is defined
 for every level x of X and provides a more refined characterization of the effect of interventions.
 
@@ -5261,15 +4977,15 @@ An alternative (but sometimes more appealing) account of intervention treats the
 responsible for the intervention as a variable within the system (Pearl 1993b). This is
 
 2 An equivalent notation, using set (x) instead of do(x), was used in Pearl (1995a). The do(x) notation was first used in Goldszmidt and Pearl (1992) and is gaining in popular support. Lauritzen
-(cid:4) y) in the
+y) in the
 (2001) used
 potential-outcome model introduced by Neyman (1923) and Rubin (1974) and to the expression
-P[(X (cid:4) x) (cid:2)S (Y (cid:4) y)] in the counter-factual theory of Lewis (1973b). The semantical bases of
+P[(X x) S (Y y)] in the counter-factual theory of Lewis (1973b). The semantical bases of
 these notions are discussed in Section 3.6.3 and in Chapter 7.
 
 The expression P(y ƒ do(x)) is equivalent in intent to P(Yx
 
-P ( y (cid:2) X d x).
+P ( y X d x).
 
 3 The basic view of interventions as equation modifiers originates with Marschak (1950) and Simon
 (1953). An explicit translation of interventions to "wiping out" equations from the model was first
@@ -5277,9 +4993,7 @@ proposed by Strotz and Wold (1960) and later used in Fisher (1970) and Sobel (19
 ramifications of this translation were explicated first in Spirtes et al. (1993) and later in Pearl
 (1993b). Balke and Pearl (1994a,b) proposed it as the basis for defining counterfactuals; see (3.51).
 
-3.2 Intervention in Markovian Models
-
-.2 Representing external intervention Fi by an augmented network G(cid:2) (cid:4) G ´
+.2 Representing external intervention Fiby an augmented network GG ´
 
 Fi
 
@@ -5287,41 +5001,37 @@ S Xi6
 
 .
 
-facilitated by representing the function fi itself as a value of a variable Fi and then writing (3.2) as
+facilitated by representing the function fiitself as a value of a variable Fiand then writing (3.2) as
 
 xi
 
-(cid:4) I(pai, fi, ui),
+I(pai, fi, ui),
 
 where I is a three-argument function satisfying
 
-I(a, b, c) (cid:4) fi(a, c)
+I(a, b, c) fi(a, c)
 
-whenever b (cid:4) fi.
+whenever b fi.
 
 (3.7)
 
-This amounts to conceptualizing the intervention as an external force Fi that alters the
-function fi between Xi and its parents. Graphically, we can represent Fi as an added
+This amounts to conceptualizing the intervention as an external force Fithat alters the
+function fibetween Xi and its parents. Graphically, we can represent Fias an added
 parent node of Xi, and the effect of such an intervention can be analyzed by standard
 conditionalization – that is, by conditioning our probability on the event that variable Fi
 attains the value fi.
 
 The effect of an atomic intervention do(Xi
-S Xi (see .2), where Fi is a new variable taking values in
+S Xi (see .2), where Fiis a new variable taking values in
 
 i) is encoded by adding to G a link
-, x(cid:3)
-Fi
+, xFi
 i
-ranges over the domain of Xi, and "idle" represents no intervention. Thus, the new parent set of Xi in the augmented network is PA(cid:3)
-, and it is related to Xi by
+ranges over the domain of Xi, and "idle" represents no intervention. Thus, the new parent set of Xi in the augmented network is PA, and it is related to Xi by
 i
 the conditional probability
 
-do(x(cid:3)
-
-(cid:4) PAi
+do(xPAi
 
 i), idle
 
@@ -5329,17 +5039,9 @@ Fi6
 
 ´
 
-(cid:4) x(cid:3)
+xP(xi
 
-P(xi
-
-pa(cid:3)
-(cid:2)
-
-i) (cid:4)
-
-(cid:2)
-P(xi
+pai) P(xi
 
 •
 
@@ -5349,75 +5051,62 @@ if F1
 if Fi
 if Fi
 
-(cid:4) idle,
-(cid:4) do(x(cid:3)
-(cid:4) do(x(cid:3)
-
-i) and xi
+idle,
+do(xdo(xi) and xi
 i) and xi
 
-(cid:6) x(cid:3)
-i,
-(cid:4) x(cid:3)
-i.
+xi,
+xi.
 
 (3.8)
 
-The effect of the intervention do(x(cid:3)
-P(x1, …, xn) into a new probability function P(x1, …, xn
-i) (cid:4) P(cid:3)(x1, p , xn (cid:2) Fi
+The effect of the intervention do(xP(x1, …, xn) into a new probability function P(x1, …, xn
+i) P(x1, p , xn Fi
 
-P(x1, p , xn (cid:2) xˆ(cid:3)
-
-(cid:4) do(x(cid:3)
-
-i)),
+P(x1, p , xn xˆdo(xi)),
 
 i) is to transform the original probability function
 
 ƒ
 
-xˆ(cid:3)
-i
+xˆi
 
 ), given by
 
 (3.9)
 
-where P(cid:3) is the distribution specified by the augmented network G(cid:3) (cid:4) G ´
+where Pis the distribution specified by the augmented network GG ´
 Xi6
 and (3.8), with an arbitrary prior distribution on Fi. In general, by adding a hypothetical
 S Xi to each node in G, we can construct an augmented probability
 intervention link Fi
-function P(cid:3)(x1, … , xn; F1, … , Fn) that contains information about richer types of
-interventions. Multiple interventions would be represented by conditioning P(cid:3) on a sub-
-(cid:3)) domains), and the preintervention
+function P(x1, … , xn; F1, … , Fn) that contains information about richer types of
+interventions. Multiple interventions would be represented by conditioning Pon a sub-
+) domains), and the preintervention
 set of the Fi (taking values in their respective do(xi
-probability function P would be viewed as the posterior distribution induced by conditioning each Fi in P(cid:3) on the value "idle."
+probability function P would be viewed as the posterior distribution induced by conditioning each Fiin Pon the value "idle."
 
 Fi
 
 S
 
 One advantage of the augmented network representation is that it is applicable to any
-change in the functional relationship fi and not merely to the replacement of fi by a
-
-Causal Diagrams and the Identification of Causal Effects
+change in the functional relationship fiand not merely to the replacement of fiby a
 
 constant. It also displays clearly the ramifications of spontaneous changes in fi, unmediated by external control. .2 predicts, for example, that only descendants of Xi
-would be effected by changes in fi and hence the marginal probability P(z) will remain
+would be effected by changes in fiand hence the marginal probability P(z) will remain
 unaltered for every set Z of nondescendants of Xi. Likewise, .2 dictates that the
-conditional probability P(y ƒ xi) remains invariant to changes in fi for any set Y of descendants of Xi, provided Xi d-separates Fi from Y. Kevin Hoover (1990, 2001) used
+conditional probability P(y ƒ xi) remains invariant to changes in fifor any set Y of descendants of Xi, provided Xi d-separates Fifrom Y. Kevin Hoover (1990, 2001) used
 such invariant features to determine the direction of causal influences among economic
 variables (e.g., employment and money supply) by observing the changes induced by
 sudden modifications in the processes that govern these variables (e.g., tax reform, labor
 dispute). Indeed, whenever we obtain reliable information (e.g., from historical or institutional knowledge) that an abrupt local change has taken place in a specific mechanism
-fi that constrains a given family (Xi, PAi) of variables, we can use the observed changes
+fithat constrains a given family (Xi, PAi) of variables, we can use the observed changes
 in the marginal and conditional probabilities surrounding those variables to determine
 whether Xi is indeed the child (or dependent variable) of that family, thus determining
 the structure of causal influences in the domain (Tian and Pearl, 2001a). The statistical
 features that remain invariant under such changes, as well as the causal assumptions
-underlying this invariance, are displayed in the augmented network G(cid:3).
+underlying this invariance, are displayed in the augmented network G.
 
 3.2.3 Computing the Effect of Interventions
 
@@ -5429,33 +5118,25 @@ distributions. In the case of an atomic intervention do(Xi
 be expressed in a simple truncated factorization formula that follows immediately from
 (3.2) and Definition 3.2.1:4
 
-(cid:4) x(cid:3)
+xP(x1, p , xn xˆi) q ji
 
-P(x1, p , xn (cid:2) xˆ(cid:3)
-
-i) (cid:4)
-
-q j(cid:6)i
-
-P(xj (cid:2) paj) if xi
+P(xj paj) if xi
 if xi
 
-(cid:4) x(cid:3)
-i,
-(cid:6) x(cid:3)
-i.
+xi,
+xi.
 
 (3.10)
 
 ƒ pai) from the product of (3.5),
 Equation (3.10) reflects the removal of the term P(xi
-since pai no longer influences Xi. For example, the intervention do(X (cid:4) x(cid:3)) will transform the preintervention distribution given in (3.6) into the product
+since pai no longer influences Xi. For example, the intervention do(X x) will transform the preintervention distribution given in (3.6) into the product
 
 b
 
-P (z0, z1, b, z2, z3, y (cid:2) xˆ(cid:3)) (cid:4) P(z0) P(z1 (cid:2) z0) P(b (cid:2) z0)
+P (z0, z1, b, z2, z3, y xˆ) P(z0) P(z1 z0) P(b z0)
 
-(cid:2) P(z2 (cid:2) x(cid:3), z1)P(z3 (cid:2) z2, b) P(y (cid:2) x(cid:3), z2, z3).
+P(z2 x, z1)P(z3 z2, b) P(y x, z2, z3).
 
 ƒ pai) is equivalent to removing the links
 Graphically, the removal of the term P(xi
@@ -5468,42 +5149,29 @@ source, this formula was "independently conjectured by Fienberg in a seminar in 
 Additional properties of the transformation defined in (3.10) and (3.11) are given in Goldszmidt
 and Pearl (1992) and Pearl (1993b).
 
-3.2 Intervention in Markovian Models
-
-Multiplying and dividing (3.10) by P(x(cid:3)
-i
+Multiplying and dividing (3.10) by P(xi
 tion distribution becomes more transparent:
 
 ƒ pai), the relationship to the preinterven-
 
-P(x1, p , xn (cid:2) xˆ(cid:3)
-
-i) (cid:4) •
+P(x1, p , xn xˆi) •
 
 P(x1, p , xn)
-i (cid:2) pai)
-P(x(cid:3)
-
-if xi
+i pai)
+P(xif xi
 if xi
 
-(cid:4) x(cid:3)
-i,
+xi,
 
-(cid:6) x(cid:3)
-i.
+xi.
 
 (3.11)
 
-(cid:2)
-
 (Xi
 
-P(x(cid:3)
-i
+P(xi
 
-(cid:4) x(cid:3)
-i)
+xi)
 
 If we regard a joint distribution as an assignment of mass to a collection of abstract points
 (x1, . . . , xn), each representing a possible state of the world, then the transformation described in (3.11) reveals some interesting properties of the change in mass distribution
@@ -5514,53 +5182,35 @@ the conditional probability
 corresponding to that point. Points for which this
 conditional probability is low would boost their mass value substantially, while those possessing a pai value that anticipates a natural (noninterventional) realization of
 (i.e.,
-ƒ pai) (cid:3) 1) will keep their mass unaltered. In standard Bayes conditionalization,
+ƒ pai) 1) will keep their mass unaltered. In standard Bayes conditionalization,
 P(
-(cid:6) ) transfers its mass to the entire set of preserved points
+) transfers its mass to the entire set of preserved points
 each excluded point (xi
 through a renormalization constant. However, (3.11) describes a different transforma-
-(cid:6) ) transfers its mass to a select set of points that share
+) transfers its mass to a select set of points that share
 tion: each excluded point (xi
 the same value of pai. This can be seen from the constancy of both the total mass assigned to each stratum pai and the relative masses of points within each such stratum:
 
 pai)
 
-x(cid:3)
-i
+xi
 
-x(cid:3)
-i
+xi
 
-x(cid:3)
-i
+xi
 
-x(cid:3)
-i
+xi
 
 P( pai
-(cid:2)
-(cid:2)
-P(si, pai, x(cid:3)
-i
-i, pai, x(cid:3)
-P(s(cid:3)
-i
+P(si, pai, xi
+i, pai, xP(si
 
-do(x(cid:3)
-i)) (cid:4) P( pai);
-do(x(cid:3)
-i))
-do(x(cid:3)
-(cid:2)
-i))
+do(xi)) P( pai);
+do(xi))
+do(xi))
 
-P(si, pai, x(cid:3)
-i)
-i, pai, x(cid:3)
-P(s(cid:3)
-i)
-
-(cid:4)
+P(si, pai, xi)
+i, pai, xP(si)
 
 .
 
@@ -5578,30 +5228,19 @@ pai) as conditionalization on
 
 and pai:
 
-x(cid:3)
-i
+xi
 
-x(cid:3)
-i
+xi
 
 ƒ
 
-P(x1, p , xn (cid:2) xˆ(cid:3)
+P(x1, p , xn xˆi ) P(x1, p , xn
 
-i ) (cid:4)
-
-P(x1, p , xn
-
-x(cid:3)
-(cid:2)
-
-i, pai) P(pai) if xi
+xi, pai) P(pai) if xi
 if xi
 
-(cid:4) x(cid:3)
-i,
-(cid:6) x(cid:3)
-i.
+xi,
+xi.
 
 e
 
@@ -5613,10 +5252,7 @@ on a set of variables Y disjoint from (Xi
 do(Xi
 variables except Y ´ Xi yields the following theorem.
 
-x(cid:3)
-i)
-
-(cid:4)
+xi)
 
 Theorem 3.2.2 (Adjustment for Direct Causes)
 Let PAi denote the set of direct causes of variable Xi and let Y be any set of variables
@@ -5626,52 +5262,42 @@ disjoint of
 
 ) on Y is given by
 
-x(cid:3)
-i
+xi
 
 Xi
 
 ´ PAi6
 
-P(y (cid:2) xˆ(cid:3)
-
-i) (cid:4) a
+P(y xˆi) a
 pai
 
-P(y (cid:2) x(cid:3)
-
-i, pai) P(pai),
+P(y xi, pai) P(pai),
 
 where P(y ƒ
 
-x(cid:3)
-i
+xi
 
 , pai) and P(pai) represent preintervention probabilities.
 
 (3.13)
 
-Causal Diagrams and the Identification of Causal Effects
-
 Equation (3.13) calls for conditioning P(y ƒ
 the result, weighted by the prior probability of PAi
 conditioning and averaging is known as "adjusting for PAi."
 
-x(cid:3)
-i
+xi
 
 ) on the parents of Xi and then averaging
-(cid:4) pai. The operation defined by this
+pai. The operation defined by this
 
 Variations of this adjustment have been advanced by many philosophers as probabilistic definitions of causality and causal effect (see Section 7.5). Good (1961), for example,
 calls for conditioning on "the state of the universe just before" the occurrence of the
 cause. Suppes (1970) calls for conditioning on the entire past, up to the occurrence of
 the cause. Skyrms (1980, p. 133) calls for conditioning on "maximally specific specifications of the factors outside of our influence at the time of the decision which are causally
 relevant to the outcome of our actions . . .". The aim of conditioning in these proposals
-(cid:4) x(cid:3)
-i)
+xi)
 is, of course, to eliminate spurious correlations between the cause (in our case, Xi
-and the effect (Y (cid:4) y); clearly, the set of parents PAi can accomplish this aim with great
+and the effect (Y y); clearly, the set of parents PAi can accomplish this aim with great
 economy. In the structural account that we pursue in this book, causal effects are defined
 in a radically different way. The conditioning operator is not introduced into (3.13) as a
 remedial "adjustment" aimed at suppressing spurious correlations. Rather, it emerges
@@ -5679,20 +5305,18 @@ formally from the deeper principle represented in (3.10) – that of preserving 
 
 The transformation of (3.10) can easily be extended to more elaborate interventions
 in which several variables are manipulated simultaneously. For example, if we consider
-the compound intervention do(S (cid:4) s) where S is a subset of variables, then (echoing
+the compound intervention do(S s) where S is a subset of variables, then (echoing
 ƒ pai) corresponding
 (1.37)) we should delete from the product of (3.5) all factors P(xi
 to variables in S and obtain the more general truncated factorization
 
-P(x1, p , xn (cid:2) sˆ) (cid:4)
-
-q i (cid:2) Xi
+P(x1, p , xn sˆ) q i Xi
 
 e
 
-(cid:2)S
+S
 
-P(xi (cid:2) pai) for x1, p , xn consistent with s,
+P(xi pai) for x1, p , xn consistent with s,
 
 otherwise.
 
@@ -5705,8 +5329,7 @@ that determines the value of Xi by another equation, one that involves perhaps a
 * of variables, then the resultant distribution would obtain by replacing the facset PAi
 *) induced by the new
 tor P(xi
-equation. The modified joint distribution would then be given by P*(x1, … , xn) (cid:4)
-P(x1, . . . , xn) P*(xi
+equation. The modified joint distribution would then be given by P*(x1, … , xn) P(x1, . . . , xn) P*(xi
 
 ƒ pai) with the conditional probability P*(xi
 
@@ -5728,11 +5351,9 @@ in the plant, and Xk could stand for the rate at which various chemicals are per
 flow in strategic conduits. Assume that data are gathered while the process is controlled
 by a strategy S in which each Xk is determined by (i) monitoring three previous variables
 ƒ xk – 1, zk, zk – 1).
-(Xk(cid:7)1, Zk, and Zk(cid:7)1) and (ii) choosing Xk
+(Xk1, Zk, and Zk1) and (ii) choosing Xk
 
-(cid:4) xk with probability P(xk
-
-3.2 Intervention in Markovian Models
+xk with probability P(xk
 
 .3 Dynamic causal diagram illustrating typical dependencies among the control variables
 X1, . . . , Xn, the state variables Z1, . . . , Zn, and the outcome variable Y of a sequential process.
@@ -5752,80 +5373,69 @@ strategy S* will be governed by the distribution
 
 P*( y, z1, z2, p , zn, x1, x2, p , xn)
 
-(cid:4) P*(y (cid:2) z1, z2, p , zn, x1, x2, p , xn)
+P*(y z1, z2, p , zn, x1, x2, p , xn)
 
 n
-(cid:2) q
-k(cid:4)1
+q
+k1
 
-(cid:2)
 P*(zk
 
 n
-zk(cid:7)1, xk(cid:7)1) q
-k(cid:4)1
+zk1, xk1) q
+k1
 
 P*(xk
 
-(cid:2)
-
-xk(cid:7)1, zk, zk(cid:7)1).
+xk1, zk, zk1).
 
 (3.15)
 
 Because the first two terms remain invariant and the third one is known, we have
 
-P*(y) (cid:4)
-
-a
+P*(y) a
 z1, p , zn, x1, p , xn
 
 P*(y, z1, z2, p , zn, x1, x2, p , xn)
 
-(cid:4)
-
 a
 z1, p , zn, x1, p , xn
 
-P(y (cid:2) z1, z2, p , zn, x1, x2, p , xn)
+P(y z1, z2, p , zn, x1, x2, p , xn)
 
 n
-(cid:2) q
-k(cid:4)1
+q
+k1
 
-(cid:2)
 P(zk
 
 n
-zk(cid:7)1, xk(cid:7)1) q
-k(cid:4)1
+zk1, xk1) q
+k1
 
-(cid:2)
-xk(cid:7)1, zk, zk(cid:7)1).
+xk1, zk, zk1).
 P*(xk
 
 (3.16)
 
 In the special case where S* is deterministic and time-invariant, Xk becomes a
 
-function of Xk(cid:7)1, Zk, and Zk(cid:7)1:
-(cid:4) g (xk(cid:7)1, zk, zk(cid:7)1).
+function of Xk1, Zk, and Zk1:
+g (xk1, zk, zk1).
 
 xk
 
 Then the summation over x1, . . . , xn can be performed, yielding
 
-P*(y) (cid:4) a
+P*(y) a
 
 z1, p , zn
 
 n
-P(y (cid:2) z1, z2, p , zn, g1, g2, p , gn) q
-k(cid:4)1
+P(y z1, z2, p , zn, g1, g2, p , gn) q
+k1
 
-P(zk (cid:2)
-
-zk(cid:7)1, gk(cid:7)1),
+P(zk zk1, gk1),
 
 (3.17)
 
@@ -5833,15 +5443,13 @@ where gk is defined recursively as
 
 g1
 
-(cid:4) g(z1)
+g(z1)
 
 and
 
 gk
 
-(cid:4) g(gk(cid:7)1, zk, zk(cid:7)1).
-
-Causal Diagrams and the Identification of Causal Effects
+g(gk1, zk, zk1).
 
 In the special case of a strategy S* composed of elementary actions do(Xk
 
@@ -5849,27 +5457,27 @@ the function g degenerates into a constant, xk, and we obtain
 
 p , xˆn)
 
-P*(y) (cid:4) P(y (cid:2) xˆ1, xˆ2,
-(cid:4) a
+P*(y) P(y xˆ1, xˆ2,
+a
 z1,p,zn
 
-P(y (cid:2) z1, z2, p , zn, x1, x2, p , xn) q
+P(y z1, z2, p , zn, x1, x2, p , xn) q
 k
 
-P(zk (cid:2) zk(cid:7)1, xk(cid:7)1),
+P(zk zk1, xk1),
 
-(cid:4) xk),
+xk),
 
 (3.18)
 
 which can also be obtained from (3.14).
 
 The planning problem illustrated by this example is typical of Markov decision processes (MDPs) (Howard 1960; Dean and Wellman 1991; Bertsekas and Tsitsiklis 1996),
-(cid:4) xk), given the curwhere the target of analysis is finding the best next action do(Xk
+xk), given the curwhere the target of analysis is finding the best next action do(Xk
 rent state Zk and past actions. In MDPs, we are normally given the transition functions
 xˆ
 k) and the cost function to be minimized. In the problem we have just ana-
-P(zk(cid:8)1
+P(zk1
 lyzed, neither function is given; instead, they must be learned from data gathered under
 past (presumably suboptimal) strategies. Fortunately, because all variables in the model
 were measured, both functions were identifiable and could be estimated directly from the
@@ -5877,13 +5485,13 @@ corresponding conditional probabilities as follows:
 
 ƒ zk,
 
-P(zk(cid:8)1 (cid:2) zk, xˆk) (cid:4) P(zk(cid:8)1 (cid:2) zk, xk);
-P( y (cid:2) z1,z2, p , zn, xˆ1, xˆ2, p , xˆn) (cid:4) P( y (cid:2) z1, p z2, p , zn, x1, x2, p , xn).
+P(zk1 zk, xˆk) P(zk1 zk, xk);
+P( y z1,z2, p , zn, xˆ1, xˆ2, p , xˆn) P( y z1, p z2, p , zn, x1, x2, p , xn).
 
 In Chapter 4 (Section 4.4) we will deal with partially observable Markov decision processes (POMDPs), where some states Zk are unobserved; learning the transition and cost
 functions in those problems will require a more intricate method of identification.
 
-It is worth noting that, in this example, to predict the effect of a new strategy it is necessary first to measure variables (Zk) that are affected by some control variables (Xk(cid:7)1).
+It is worth noting that, in this example, to predict the effect of a new strategy it is necessary first to measure variables (Zk) that are affected by some control variables (Xk1).
 Such measurements are generally shunned in the classical literature on experimental design (Cox 1958, p. 48), because they lie on the causal pathways between treatment and outcome and thus tend to confound the desired effect estimate. However, our analysis shows
 that, when properly processed, such measurements may be indispensable in predicting the
 effect of dynamic control programs. This will be especially true in semi-Markovian models (i.e., DAGs involving unmeasured variables), which are analyzed in Section 3.3.2.
@@ -5896,8 +5504,7 @@ one can infer postintervention distributions from preintervention distributions;
 under such assumptions we can estimate the effects of interventions from passive (i.e.,
 nonexperimental) observations, using the truncated factorization formula of (3.14). Yet
 the more challenging problem is to derive causal effects in situations like .1,
-where some members of PAi are unobservable and so prevent estimation of P(x(cid:3)
-ƒ pai).
+where some members of PAi are unobservable and so prevent estimation of P(xƒ pai).
 i
 ƒ
 xˆi
@@ -5906,8 +5513,6 @@ In Sections 3.3 and 3.4 we provide simple graphical tests for deciding when P(xj
 estimable in such models. But first we need to define more formally what it means for a
 causal quantity Q to be estimable from passive observations, a question that falls under
 the technical term identification.
-
-3.2 Intervention in Markovian Models
 
 3.2.4 Identification of Causal Quantities
 
@@ -5924,17 +5529,15 @@ PM1
 
 PM2
 
-(y) (cid:4)
-
-(cid:4) FM2.
+(y) FM2.
 
 Definition 3.2.3 (Identifiability)
 Let Q(M) be any computable quantity of a model M. We say that Q is identifiable in
-a class M of models if, for any pairs of models M1 and M2 from M, Q(M1) (cid:4) Q(M2)
+a class M of models if, for any pairs of models M1 and M2 from M, Q(M1) Q(M2)
 (y). If our observations are limited and permit only a partial
 whenever
 set FM of features (of PM(y)) to be estimated, we define Q to be identifiable from FM if
-Q(M1) (cid:4) Q(M2) whenever FM1
+Q(M1) Q(M2) whenever FM1
 Identifiability is essential for integrating statistical data (summarized by P(y)) with incomplete causal knowledge of
 , as it enables us to estimate quantities Q consistently
 from large samples of P(y) without specifying the details of M; the general characteristics of the class M suffice. For the purpose of our analysis, the quantity Q of interest is
@@ -5949,25 +5552,21 @@ fi6
 xˆ
 
 (i) they share the same parent–child families (i.e., the same causal graph G); and
-(ii) they induce positive distributions on the observed variables (i.e., P(y) (cid:9) 0).
+(ii) they induce positive distributions on the observed variables (i.e., P(y) 0).
 
 Relative to such classes, we now have the following.
 
 Definition 3.2.4 (Causal Effect Identifiability)
 The causal effect of X on Y is identifiable from a graph G if the quantity P(y ƒ ) can be
 computed uniquely from any positive probability of the observed variables – that is, if
-(y) (cid:9)
-(y ƒ ) for every pair of models M1 and M2 with
+(y) (y ƒ ) for every pair of models M1 and M2 with
 PM1
 PM2
-0 and G(M1) (cid:4) G(M2) (cid:4) G.
+0 and G(M1) G(M2) G.
 
-(y ƒ ) (cid:4)
-xˆ
+(y ƒ ) xˆ
 
-(y) (cid:4)
-
-PM1
+(y) PM1
 
 PM2
 
@@ -5976,7 +5575,7 @@ xˆ
 xˆ
 
 The identifiability of P(y ƒ ) ensures that it is possible to infer the effect of action do(X
-(cid:4) x) on Y from two sources of information:
+x) on Y from two sources of information:
 
 xˆ
 
@@ -5986,11 +5585,8 @@ xˆ
 stable mechanisms in the domain or, alternatively, which variables participate
 in the determination of each variable in the domain.
 
-Causal Diagrams and the Identification of Causal Effects
-
-Restricting identifiability to positive distributions assures us that the condition X (cid:4) x(cid:3)
-is represented in the data in the appropriate context, thus avoiding a zero denominator in (3.11). It would be impossible to infer the effect of action do(X (cid:4) x(cid:3)) from data
-in which X never attains the value x(cid:3) in the context wherein the action is applied. Extensions to some nonpositive distributions are feasible but will not be treated here. Note that,
+Restricting identifiability to positive distributions assures us that the condition X xis represented in the data in the appropriate context, thus avoiding a zero denominator in (3.11). It would be impossible to infer the effect of action do(X x) from data
+in which X never attains the value xin the context wherein the action is applied. Extensions to some nonpositive distributions are feasible but will not be treated here. Note that,
 to prove nonidentifiability, it is sufficient to present two sets of structural equations that
 induce identical distributions over observed variables but have different causal effects.
 Using the concept of identifiability, we can now summarize the results of Section
@@ -6057,7 +5653,7 @@ Finally, Section 3.3.3 illustrates the use of these criteria in an example.
 3.3.1 The Back-Door Criterion
 
 Assume we are given a causal diagram G, together with nonexperimental data on a subset
-V of observed variables in G, and suppose we wish to estimate what effect the interventions do(X (cid:4) x) would have on a set of response variables Y, where X and Y are two
+V of observed variables in G, and suppose we wish to estimate what effect the interventions do(X x) would have on a set of response variables Y, where X and Y are two
 subsets of V. In other words, we seek to estimate P(y ƒ ) from a sample estimate of
 P(y), given the assumptions encoded in G.
 
@@ -6081,10 +5677,6 @@ the back-door criterion relative to (X, Y) if it satisfies the criterion relativ
 
 X and Xj
 
-(cid:3)
-
-(cid:3)
-
 Y.
 
 The name "back-door" echoes condition (ii), which requires that only paths with arrows pointing at Xi be blocked; these paths can be viewed as entering Xi through the
@@ -6102,19 +5694,11 @@ and Z2
 
 X46
 
-(cid:4)
-
-(cid:4)
-
-(cid:4)
-
 Theorem 3.3.2 (Back-Door Adjustment)
 If a set of variables Z satisfies the back-door criterion relative to (X, Y), then the causal
 effect of X on Y is identifiable and is given by the formula
 
 5 This criterion may also be obtained from Theorem 7.1 of Spirtes et al. (1993). An alternative criterion, using a single d-separation test, is established in Section 3.4 (see (3.37)).
-
-Causal Diagrams and the Identification of Causal Effects
 
 .4 A diagram representing the back-door criterion; adjusting for variables
 ) yields a consistent
@@ -6135,10 +5719,10 @@ X66
 
 ƒ
 
-P(y (cid:2) xˆ) (cid:4) a
+P(y xˆ) a
 z
 
-P(y (cid:2) x, z)P(z).
+P(y x, z)P(z).
 
 (3.19)
 
@@ -6156,42 +5740,42 @@ deconfounding set is a better term.
 
 Proof of Theorem 3.3.2
 The proof originally offered in Pearl (1993b) was based on the observation that, when
-Z blocks all back-door paths from X to Y, setting (X (cid:4) x) or conditioning on X (cid:4) x
-has the same effect on Y. This can best be seen from the augmented diagram G(cid:3) of Fig-
+Z blocks all back-door paths from X to Y, setting (X x) or conditioning on X x
+has the same effect on Y. This can best be seen from the augmented diagram Gof Fig-
 S X were added. If all back-door paths from X
 ure 3.2, to which the intervention arcs FX
 to Y are blocked, then all paths from FX to Y must go through the children of X, and those
 would be blocked if we condition on X. The implication is that Y is independent of FX
 given X,
 
-P(y (cid:2) x, FX
+P(y x, FX
 
-(cid:4) do(x)) (cid:4) P(y (cid:2) x, FX
+do(x)) P(y x, FX
 
-(cid:4) idle) (cid:4) P(y (cid:2) x),
+idle) P(y x),
 
 (3.20)
 
-which means that the observation X (cid:4) x cannot be distinguished from the intervention
+which means that the observation X x cannot be distinguished from the intervention
 FX
 
-(cid:4) do(x).
-Formally, we can prove this observation by writing P(y ƒ ) in terms of the augmented probability function P(cid:3) in accordance with (3.9) and conditioning on Z to obtain
+do(x).
+Formally, we can prove this observation by writing P(y ƒ ) in terms of the augmented probability function Pin accordance with (3.9) and conditioning on Z to obtain
 
 xˆ
 
-P( y (cid:2) xˆ) (cid:4) P(cid:3)( y (cid:2) Fx) (cid:4) a
+P( y xˆ) P( y Fx) a
 z
-(cid:4) a
+a
 z
 
-P(cid:3)( y (cid:2) z, Fx) P(cid:3)(z (cid:2) Fx)
+P( y z, Fx) P(z Fx)
 
-P(cid:3)(y (cid:2) z, x, Fx) P(cid:3)(z (cid:2) Fx).
+P(y z, x, Fx) P(z Fx).
 
 (3.21)
 
-X (cid:4) x.
+X x.
 The addition of x to the last expression is licensed by the implication Fx
 To eliminate Fx from the two terms on the right-hand side of (3.21), we invoke the two
 
@@ -6205,7 +5789,7 @@ conditions of Definition 3.3.1. Since Fx consists of root nodes with children re
 to X, it must be independent of all nondescendants of X, including Z. Thus, condition (i)
 yields
 
-P(cid:3)(z (cid:2) Fx) (cid:4) P(cid:3)(z) (cid:4) P(z).
+P(z Fx) P(z) P(z).
 
 Invoking now the back-door condition (ii), together with (3.20), permits us to eliminate
 n
@@ -6231,31 +5815,28 @@ Xi, X6, Xj6
 
 are relabeled
 
-P(y (cid:2) xˆ)
-
 X, Z, Y
 
 The joint distribution associated with .5 can be decomposed (equation (3.5))
 
 into
 
-P(x, y, z, u) (cid:4) P(u) P(x (cid:2) u) P(z (cid:2) x) P(y (cid:2) z, u).
+P(x, y, z, u) P(u) P(x u) P(z x) P(y z, u).
 
 (3.22)
 
 From (3.10), the intervention do(x) removes the factor P(x ƒ u) and induces the post-intervention distribution
 
-P(y, z, u (cid:2) xˆ) (cid:4) P(y (cid:2) z, u) P(z (cid:2) x) P(u).
+P(y, z, u xˆ) P(y z, u) P(z x) P(u).
 
 Summing over z and u then gives
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(z (cid:2) x) a
+P(z x) a
 u
 
-P(y (cid:2) z, u) P(u).
+P(y z, u) P(u).
 
 (3.23)
 
@@ -6264,44 +5845,38 @@ P(y (cid:2) z, u) P(u).
 In order to eliminate u from the r.h.s. of (3.24), we use the two conditional independence
 assumptions encoded in the graph of .5:
 
-Causal Diagrams and the Identification of Causal Effects
+P(u z, x) P(u x),
 
-P(u (cid:2) z, x) (cid:4) P(u (cid:2) x),
-
-P(y (cid:2) x, z, u) (cid:4) P(y (cid:2) z, u).
+P(y x, z, u) P(y z, u).
 
 This yields the equalities
 
 a
 u
 
-P(y (cid:2) z, u) P(u) (cid:4) a
+P(y z, u) P(u) a
 x
-(cid:4) a
+a
 x
-(cid:4) a
+a
 x
 
-P(y (cid:2) z, u) P(u (cid:2) x) P(x)
+P(y z, u) P(u x) P(x)
 
 a
 u
 
-P(y (cid:2) x, z, u) P(u (cid:2) x, z) P(x)
+P(y x, z, u) P(u x, z) P(x)
 
 a
 u
-P(y (cid:2) x, z) P(x)
+P(y x, z) P(x)
 
 and allows the reduction of (3.24) to a form involving only observed quantities:
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(z (cid:2) x) a
-x(cid:3)
-
-P(y (cid:2) x(cid:3), z) P(x(cid:3)).
+xP(y x, z) P(x).
 
 (3.25)
 
@@ -6320,31 +5895,27 @@ xˆ
 Equation (3.28) can be interpreted as a two-step application of the back-door formula. In the first step, we find the causal effect of X on Z; since there is no unblocked
 back-door path from X to Z in .5, we simply have
 
-P(z (cid:2) xˆ) (cid:4) P(z (cid:2) x).
+P(z xˆ) P(z x).
 
 Next, we compute the causal effect of Z on Y, which we can no longer equate with the
 conditional probability P(y ƒ z) because there is a back-door path Z
 Y
 from Z to Y. However, since X blocks (d-separates) this path, X can play the role of a
 concomitant in the back-door criterion, which allows us to compute the causal effect of
-Z on Y in accordance with (3.19), giving P(y ƒ ) (cid:4)
-. Finally, we
+Z on Y in accordance with (3.19), giving P(y ƒ ) . Finally, we
 combine the two causal effects via
 
-g x(cid:3)P(y (cid:2) x(cid:3), z) P(x(cid:3))
+g xP(y x, z) P(x)
 
 Sdd
 
 U
 
-X
-
 zˆ
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(y (cid:2) zˆ) P(z (cid:2) xˆ),
+P(y zˆ) P(z xˆ),
 
 which reduces to (3.28).
 
@@ -6363,16 +5934,12 @@ of variables (X, Y) if:
 3.3 Controlling Confounding Bias
 
 Theorem 3.3.4 (Front-Door Adjustment)
-If Z satisfies the front-door criterion relative to (X, Y) and if P(x, z) (cid:9) 0, then the causal
+If Z satisfies the front-door criterion relative to (X, Y) and if P(x, z) 0, then the causal
 effect of X on Y is identifiable and is given by the formula
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(z (cid:2) x) a
-x(cid:3)
-
-P(y (cid:2) x(cid:3), z) P(x(cid:3)).
+xP(y x, z) P(x).
 
 (3.29)
 
@@ -6414,22 +5981,20 @@ two groups (tar and no-tar), smokers show a much higher percentage of cancer tha
 
 Table 3.1
 
-Causal Diagrams and the Identification of Causal Effects
-
 Group Type
 
 P(x, z)
 Group Size
 (% of Population)
 
-P(Y (cid:4) 1 ƒ x, z)
+P(Y 1 ƒ x, z)
 % of Cancer Cases
 in Group
 
-X (cid:4) 0, Z (cid:4) 0
-X (cid:4) 1, Z (cid:4) 0
-X (cid:4) 0, Z (cid:4) 1
-X (cid:4) 1, Z (cid:4) 1
+X 0, Z 0
+X 1, Z 0
+X 0, Z 1
+X 1, Z 1
 
 Nonsmokers, No tar
 Smokers, No tar
@@ -6452,23 +6017,23 @@ deposits.
 
 To settle the dispute between the two interpretations, we now apply the front-door
 formula (equation (3.29)) to the data in Table 3.1. We wish to calculate the probability
-that a randomly selected person will develop cancer under each of the following two actions: smoking (setting X (cid:4) 1) or not smoking (setting X (cid:4) 0).
+that a randomly selected person will develop cancer under each of the following two actions: smoking (setting X 1) or not smoking (setting X 0).
 
 Substituting the appropriate values of P(z ƒ x), P(y ƒ x, z), and P(x), we have
 
-P(Y (cid:4) 1 ƒ do(X (cid:4) 1)) (cid:4) .05(.10 (cid:2) .50 (cid:8) .90 (cid:2) .50)
+P(Y 1 ƒ do(X 1)) .05(.10 .50 .90 .50)
 
-(cid:8).95(.05 (cid:2) .50 (cid:8) .85 (cid:2) .50)
+.95(.05 .50 .85 .50)
 
-(cid:4) .05 (cid:2) .50 (cid:8) .95 (cid:2) .45 (cid:4) .4525,
+.05 .50 .95 .45 .4525,
 
 (3.30)
 
-P(Y (cid:4) 1 ƒ do(X (cid:4) 0)) (cid:4) .95(.10 (cid:2) .50 (cid:8) .90 (cid:2) .50)
+P(Y 1 ƒ do(X 0)) .95(.10 .50 .90 .50)
 
-(cid:8).05(.05 (cid:2) .50 (cid:8) .85 (cid:2) .50)
+.05(.05 .50 .85 .50)
 
-(cid:4) .95 (cid:2) .50 (cid:8) .05 (cid:2) .45 (cid:4) .4975.
+.95 .50 .05 .45 .4975.
 
 Thus, contrary to expectation, the data prove smoking to be somewhat beneficial to one's
 health.
@@ -6514,10 +6079,9 @@ the graph obtained by deleting from G all arrows pointing to nodes in X. Likewis
 denote by
 the graph obtained by deleting from G all arrows emerging from nodes
 in X. To represent the deletion of both incoming and outgoing arrows, we use the no-
-(cid:2)
 tation
-P(y, z ƒ ) /P(z ƒ ) stands for the probability of Y (cid:4) y given that X is held constant at x
-and that (under this condition) Z (cid:4) z is observed.
+P(y, z ƒ ) /P(z ƒ ) stands for the probability of Y y given that X is held constant at x
+and that (under this condition) Z z is observed.
 
 (see .6 for an illustration). Finally, the expression P(y ƒ
 
@@ -6542,11 +6106,9 @@ subsets of variables X, Y, Z, and W, we have the following rules.
 
 Rule 1 (Insertion/deletion of observations):
 
-P(y (cid:2) xˆ, z, w) (cid:4) P(y (cid:2) xˆ, w)
+P(y xˆ, z, w) P(y xˆ, w)
 
 if (Y
-
-(cid:3)(cid:3)
 
 Z) ƒ X, W)
 
@@ -6556,11 +6118,9 @@ GX
 
 Rule 2 (Action/observation exchange):
 
-P(y (cid:2) xˆ, zˆ, w) (cid:4) P(y (cid:2) xˆ, z, w)
+P(y xˆ, zˆ, w) P(y xˆ, z, w)
 
 if (Y
-
-(cid:3)(cid:3)
 
 Z) ƒ X, W)
 
@@ -6572,15 +6132,11 @@ GXZ
 
 (3.32)
 
-Causal Diagrams and the Identification of Causal Effects
-
 Rule 3 (Insertion/deletion of actions):
 
-P(y (cid:2) xˆ, zˆ, w) (cid:4) P(y (cid:2) xˆ, w)
+P(y xˆ, zˆ, w) P(y xˆ, w)
 
 if (Y
-
-(cid:3)(cid:3)
 
 Z ƒ X, W)
 
@@ -6595,10 +6151,10 @@ GX.
 
 Each of these inference rules follows from the basic interpretation of the "hat"
 operator as a replacement of the causal mechanism that connects X to its preaction parents by
-a new mechanism X (cid:4) x introduced by the intervening force. The result is a submodel
+a new mechanism X x introduced by the intervening force. The result is a submodel
 (named "manipulated graph" in Spirtes et al. 1993).
 characterized by the subgraph
-Rule 1 reaffirms d-separation as a valid test for conditional independence in the distribution resulting from the intervention do(X (cid:4) x), hence the graph
+Rule 1 reaffirms d-separation as a valid test for conditional independence in the distribution resulting from the intervention do(X x), hence the graph
 . This rule follows
 from the fact that deleting equations from the system does not introduce any dependencies among the remaining disturbance terms (see (3.2)).
 
@@ -6608,16 +6164,16 @@ GX
 
 xˆ
 
-effect on Y as the passive observation Z (cid:4) z. The condition amounts to
+effect on Y as the passive observation Z z. The condition amounts to
 ing all back-door paths from Z to Y (in
 
-Rule 2 provides a condition for an external intervention do(Z (cid:4) z) to have the same
-X (cid:4) W
+Rule 2 provides a condition for an external intervention do(Z z) to have the same
+X W
 blockretains all (and only) such paths.
 ), since
 Rule 3 provides conditions for introducing (or deleting) an external intervention
-do(Z (cid:4) z) without affecting the probability of Y (cid:4) y. The validity of this rule stems, again,
-from simulating the intervention do(Z (cid:4) z) by the deletion of all equations corresponding
+do(Z z) without affecting the probability of Y y. The validity of this rule stems, again,
+from simulating the intervention do(Z z) by the deletion of all equations corresponding
 ). The reason for limiting the deletion to
 to the variables in Z (hence the graph
 GX Z
@@ -6628,7 +6184,7 @@ GXZ
 GX
 
 Corollary 3.4.2
-A causal effect q (cid:4) P(y1, … , yk
+A causal effect q P(y1, … , yk
 xˆm
 ) is identifiable in a model characterized
 by a graph G if there exists a finite sequence of transformations, each conforming to one
@@ -6665,9 +6221,7 @@ Z in
 
 GX
 
-(cid:3)(cid:3)
-
-P(z (cid:2) xˆ) (cid:4) P(z (cid:2) x).
+P(z xˆ) P(z x).
 
 (3.34)
 
@@ -6686,10 +6240,10 @@ summing over all values of X:
 
 GZ
 
-P(y (cid:2) zˆ) (cid:4) a
+P(y zˆ) a
 x
 
-P(y (cid:2) x, zˆ) P(x (cid:2) zˆ).
+P(y x, zˆ) P(x zˆ).
 
 (3.35)
 
@@ -6702,11 +6256,9 @@ zˆ
 ) and P(x ƒ ). The latter
 zˆ
 
-P(x (cid:2) zˆ) (cid:4) P(x)
+P(x zˆ) P(x)
 
 if
-
-(cid:3)(cid:3)
 
 (Z
 
@@ -6729,11 +6281,9 @@ GZ
 
 zˆ
 
-P(y (cid:2) x, zˆ) (cid:4) P(y (cid:2) x, z)
+P(y x, zˆ) P(y x, z)
 
 if (Z
-
-(cid:3)(cid:3)
 
 Y ƒ X)
 
@@ -6747,16 +6297,14 @@ GZ
 
 . This allows us to write (3.35) as
 
-P(y (cid:2) zˆ) (cid:4) a
+P(y zˆ) a
 x
 
-P(y (cid:2) x, z) P(x) (cid:4) Ex P(y (cid:2) x, z),
+P(y x, z) P(x) Ex P(y x, z),
 
 (3.37)
 
 (3.38)
-
-(cid:3)(cid:3)
 
 which is a special case of the back-door formula (equation (3.19)). The legitimizing con-
 , offers yet another graphical test for a set X to be sufficient for
@@ -6772,14 +6320,11 @@ xˆ
 Task 3: Compute P( y | )
 Writing
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(y (cid:2) z, xˆ) P(z (cid:2) xˆ),
+P(y z, xˆ) P(z xˆ),
 
 (3.39)
-
-Causal Diagrams and the Identification of Causal Effects
 
 we see that the term P(z ƒ ) was reduced in (3.34) but that no rule can be applied to eliminate the hat symbol ^ from the term P(y ƒ z,
 xˆ
@@ -6788,45 +6333,39 @@ symbol via Rule 2:
 
 xˆ
 
-P(y (cid:2) z, xˆ) (cid:4) P(y (cid:2) zˆ, xˆ),
+P(y z, xˆ) P(y zˆ, xˆ),
 
 (3.40)
 
 since the applicability condition
 delete the action
 zˆ, xˆ
-we have
 
 from P(y ƒ
 
 xˆ
 
-(Y (cid:3)(cid:3)Z (cid:2) X)GXZ
+(Y Z X)GXZ
 ) using Rule 3, since Y
 
 holds (see .6). We can now
 X ƒ Z holds in
 . Thus,
 
-(cid:3)(cid:3)
-
 GX Z
 
-P(y (cid:2) z, xˆ) (cid:4) P(y (cid:2) zˆ),
+P(y z, xˆ) P(y zˆ),
 
 (3.41)
 
 which was calculated in (3.38). Substituting (3.38), (3.41), and (3.34) back into (3.39)
 finally yields
 
-P(y (cid:2) xˆ) (cid:4) a
 z
 
-P(z (cid:2) x) a
-x(cid:3)
-which is identical to the front-door formula of (3.28).
+xwhich is identical to the front-door formula of (3.28).
 
-P(y (cid:2) x(cid:3), z) P(x(cid:3)),
+P(y x, z) P(x),
 
 (3.42)
 
@@ -6834,25 +6373,22 @@ xˆ
 Task 4: Compute P(y, z | )
 We have
 
-P( y, z (cid:2) xˆ) (cid:4) P( y (cid:2) z, xˆ) P(z (cid:2) xˆ(cid:3)).
+P( y, z xˆ) P( y z, xˆ) P(z xˆ).
 
 The two terms on the r.h.s. were derived before in (3.34) and (3.41), from which we
 obtain
 
-P(y, z (cid:2) xˆ) (cid:4) P(y (cid:2) zˆ) P(z (cid:2) x)
+P(y, z xˆ) P(y zˆ) P(z x)
 
-(cid:4) P(z (cid:2) x) a
-x(cid:3)
-
-P(y (cid:2) x(cid:3), z) P(x(cid:3)).
+xP(y x, z) P(x).
 
 zˆ
 Task 5: Compute P(x, y | )
 We have
 
-P(x, y (cid:2) zˆ) (cid:4) P(y (cid:2) x, zˆ) P(x (cid:2) zˆ)
+P(x, y zˆ) P(y x, zˆ) P(x zˆ)
 
-(cid:4) P(y (cid:2) x, z) P(x).
+P(y x, z) P(x).
 
 (3.43)
 
@@ -6896,9 +6432,7 @@ GZ
 
 (i) X intercepts all directed paths from Z to Y; and
 (ii) P(y ƒ ) is identifiable in
-Indeed, if condition (i) holds, then we can write P(y ƒ ) (cid:4) P(y ƒ
-(cid:3)(cid:3)
-
+Indeed, if condition (i) holds, then we can write P(y ƒ ) P(y ƒ
 ), because
 ) stands for the causal effect of X on Y in a model gov-
 (Y
@@ -6924,10 +6458,8 @@ Figures 3.9(e) and 3.9(h) (in Section 3.5.2) illustrate models in which both con
 
 hold. With .9(e), for example, we obtain this estimand
 
-P(y (cid:2) xˆ) (cid:4) P(y (cid:2) x, zˆ) (cid:4)
-
-P(y, x (cid:2) zˆ)
-P(x (cid:2) zˆ)
+P(y xˆ) P(y x, zˆ) P(y, x zˆ)
+P(x zˆ)
 
 .
 
@@ -6936,11 +6468,9 @@ P(x (cid:2) zˆ)
 zˆ
 This can be established directly by first applying Rule 3 to add ,
 
-P(y (cid:2) xˆ) (cid:4) P(y (cid:2) xˆ, zˆ)
+P(y xˆ) P(y xˆ, zˆ)
 
 because (Y
-
-(cid:3)(cid:3)
 
 Z ƒ X)
 
@@ -6952,11 +6482,9 @@ and then applying Rule 2 to exchange with x:
 
 xˆ
 
-P(y (cid:2) xˆ, zˆ) (cid:4) P(y (cid:2) x, zˆ)
+P(y xˆ, zˆ) P(y x, zˆ)
 
 because (Y
-
-(cid:3)(cid:3)
 
 X ƒ Z)
 
@@ -6969,18 +6497,15 @@ any values of y and x. In other words, Z need not be varied at all; it can simpl
 constant by external means and, if the assumptions embodied in G are valid, the r.h.s. of
 (3.45) should attain the same value regardless of the (constant) level at which Z is being held. In practice, however, several levels of Z will be needed to ensure that enough
 samples are obtained for each desired value of X. For example, if we are interested in
-), where x and x(cid:3) are two treatment levels, then we
+), where x and xare two treatment levels, then we
 the difference E(Y ƒ ) – E(Y ƒ
-should choose two values z and z(cid:3) of Z that maximize the number of samples in x and x(cid:3)
-(respectively) and then estimate
+should choose two values z and zof Z that maximize the number of samples in x and x(respectively) and then estimate
 
-xˆ(cid:3)
-
-xˆ
+xˆxˆ
 
 xˆ
 
-E(Y (cid:2) xˆ) (cid:7) E(Y (cid:2) xˆ(cid:3)) (cid:4) E(Y (cid:2) x, zˆ) (cid:7) E(Y (cid:2) x(cid:3), zˆ(cid:3)).
+E(Y xˆ) E(Y xˆ) E(Y x, zˆ) E(Y x, zˆ).
 
 3.5 GRAPHICAL TESTS OF IDENTIFIABILITY
 
@@ -6988,8 +6513,6 @@ E(Y (cid:2) xˆ) (cid:7) E(Y (cid:2) xˆ(cid:3)) (cid:4) E(Y (cid:2) x, zˆ) (ci
 presence of a "bow" pattern – a confounding arc (dashed) embracing a causal link between X and Y. A confounding arc represents the existence in the diagram of a back-door
 
 xˆ
-
-Causal Diagrams and the Identification of Causal Effects
 
 .7 (a) A bow pattern: a confounding arc embracing a causal link X S Y, thus preventing
 the identification of P(y ƒ ) even in the presence of an instrumental variable Z, as in (b). (c) A
@@ -7000,7 +6523,7 @@ bowless graph that still prohibits the identification of P(y ƒ
 xˆ
 
 path that contains only unobserved variables and has no converging arrows. For example, the path X, Z0, B, Z3 in .1 can be represented as a confounding arc between
-X and Z3. A bow pattern represents an equation y (cid:4) fY (x, u, eY), where U is unobserved and dependent on X. Such an equation does not permit the identification of causal
+X and Z3. A bow pattern represents an equation y fY (x, u, eY), where U is unobserved and dependent on X. Such an equation does not permit the identification of causal
 effects, since any portion of the observed dependence between X and Y may always be
 attributed to spurious dependencies mediated by U.
 
@@ -7009,9 +6532,7 @@ xˆ
 The presence of a bow pattern prevents the identification of P(y ƒ ) even when it is
 found in the context of a larger graph, as in .7(b). This is in contrast to linear
 models, where the addition of an arc to a bow pattern can render P(y ƒ ) identifiable
-(see Chapter 5, .9). For example, if Y is related to X via a linear relation y (cid:4)
-bx (cid:8) u, where U is an unobserved disturbance possibly correlated with X, then b (cid:4)
-E(Y ƒ ) is not identifiable. However, adding an arc Z → X to the structure (i.e.,
+(see Chapter 5, .9). For example, if Y is related to X via a linear relation y bx u, where U is an unobserved disturbance possibly correlated with X, then b E(Y ƒ ) is not identifiable. However, adding an arc Z → X to the structure (i.e.,
 0x
 finding a variable Z that is correlated with X but not with U) would facilitate the computation of E(Y ƒ ) via the instrumental variable formula (Bowden and Turkington 1984;
 see also Chapter 5):
@@ -7022,16 +6543,10 @@ xˆ
 
 xˆ
 
-b (cid:2)
+b 0x
 
-0x
-
-E(Y (cid:2) xˆ) (cid:4)
-
-E(Y (cid:2) z)
-E(X (cid:2) z)
-
-(cid:4)
+E(Y xˆ) E(Y z)
+E(X z)
 
 rYZ
 rXZ
@@ -7115,16 +6630,16 @@ xˆ
 
 GX Z2
 
-P(y (cid:2) xˆ, zˆ2) (cid:4) a
+P(y xˆ, zˆ2) a
 z1
-(cid:4) a
+a
 z1
 
-P(y (cid:2) z1, xˆ, zˆ2) P(z1
+P(y z1, xˆ, zˆ2) P(z1
 
-(cid:2) xˆ, zˆ2)
+xˆ, zˆ2)
 
-P(y (cid:2) z1, x, z2) P(z1 (cid:2) x).
+P(y z1, x, z2) P(z1 x).
 
 (3.47)
 
@@ -7149,14 +6664,12 @@ in these diagrams; rather, such variables are implicit in the confounding arcs (
 Every causal diagram with latent variables can be converted to an equivalent diagram
 involving measured variables interconnected by arrows and confounding arcs. This conversion corresponds to substituting out all latent variables from the structural equations
 of (3.2) and then constructing a new diagram by connecting any two variables Xi and Xj
-by (i) an arrow from Xj to Xi whenever Xj appears in the equation for Xi, and (ii) a confounding arc whenever the same e term appears in both fi and fj. The result is a diagram
+by (i) an arrow from Xj to Xi whenever Xj appears in the equation for Xi, and (ii) a confounding arc whenever the same e term appears in both fiand fj. The result is a diagram
 in which all unmeasured variables are exogenous and mutually independent.
 
 Several features should be noted from examining the diagrams in .8.
 
 6 This was brought to my attention by James Robins, who has worked out many of these computations in the context of sequential treatment management (Robins 1986, p. 1423).
-
-Causal Diagrams and the Identification of Causal Effects
 
 .8 Typical models in which the effect of X on Y is identifiable. Dashed arcs represent confounding paths, and Z represents observed covariates.
 
@@ -7186,7 +6699,7 @@ xˆ
 
 4. Diagrams (a) and (b) in .8 contain no back-door paths between X and
 Y and thus represent experimental designs in which there is no confounding bias
-between the treatment (X) and the response (Y); hence, P(y ƒ ) (cid:4) P(y ƒ x).
+between the treatment (X) and the response (Y); hence, P(y ƒ ) P(y ƒ x).
 Likewise, diagrams (c) and (d) in .8 represent designs in which observed
 covariates Z block every back-door path between X and Y (i.e., X is "conditionally ignorable" given Z, in the lexicon of Rosenbaum and Rubin 1983); hence,
 P(y ƒ ) is obtained by standard adjustment for Z (as in (3.19)):
@@ -7194,10 +6707,10 @@ P(y ƒ ) is obtained by standard adjustment for Z (as in (3.19)):
 xˆ
 
 xˆ
-P( y (cid:2) xˆ) (cid:4) a
+P( y xˆ) a
 z
 
-P( y (cid:2) x, z) P(z).
+P( y x, z) P(z).
 
 5. For each of the diagrams in .8, we readily obtain a formula for P(y ƒ ) by
 using symbolic derivations patterned after those in Section 3.4.3. The derivation
@@ -7208,9 +6721,8 @@ xˆ
 
 is often guided by the graph topology. For example, diagram (f) in .8
 dictates the following derivation. Writing
-P(y (cid:2) z1, z2, xˆ) P(z1, z2
+P(y z1, z2, xˆ) P(z1, z2
 
-P(y (cid:2) xˆ) (cid:4) a
 z1, z2
 we see that the subgraph containing
 of diagram (e), with (Z1, Z2) replacing (Z, Y), respectively. Thus, P(z1, z2
@@ -7229,35 +6741,27 @@ X, Z1, Z26
 
 X ƒ Z1, Z2)
 
-(cid:2) xˆ),
-
-(cid:3)(cid:3)
+xˆ),
 
 GX
 
-P(y (cid:2) xˆ) (cid:4) a
 z1, z2
 
-P(y (cid:2) z1, z2, x) P(z1 (cid:2) x) a
-x(cid:3)
-
-P(z2 (cid:2) z1, x(cid:3)) P(x(cid:3)).
+P(y z1, z2, x) P(z1 x) a
+xP(z2 z1, x) P(x).
 
 (3.48)
 
 Applying a similar derivation to diagram (g) of .8 yields
 
-P(y (cid:2) xˆ) (cid:4) a
 z1
-(cid:2) P(z1 (cid:2) z2, x) P(z2).
+P(z1 z2, x) P(z2).
 
 a
 z2
 
 a
-x(cid:3)
-
-P(y (cid:2) z1, z2, x(cid:3)) P(x(cid:3) (cid:2) z2)
+xP(y z1, z2, x) P(xz2)
 
 (3.49)
 
@@ -7296,8 +6800,6 @@ xˆ
 
 1. All graphs in .9 contain unblockable back-door paths between X and Y,
 that is, paths ending with arrows pointing to X that cannot be blocked by observed nondescendants of X. The presence of such a path in a graph is, indeed,
-
-Causal Diagrams and the Identification of Causal Effects
 
 .9 Typical models in which P(y ƒ
 
@@ -7354,8 +6856,6 @@ tested in nonexperimental studies, unless they impose constraints on the observe
 type of constraints takes the form of numerical inequalities. In Chapter 8, for example,
 we show that the assumptions associated with instrumental variables (.7(b)) are
 
-3.6 Discussion
-
 subject to falsification tests in the form of inequalities on conditional probabilities (Pearl
 1995b). Still, such constraints permit the testing of merely a small fraction of the causal
 assumptions embodied in the diagrams; the bulk of those assumptions must be substantiated from domain knowledge as obtained from either theoretical considerations (e.g., that
@@ -7372,7 +6872,7 @@ significance levels, as in traditional analysis of controlled experiments. We sh
 though, that having obtained nonparametric estimands for causal effects does not imply
 that one should refrain from using parametric forms in the estimation phase of the study.
 For example, if the assumptions of Gaussian, zero-mean disturbances and additive interactions are deemed reasonable, then the estimand given in (3.28) can be converted to the
-product E(Y ƒ ) (cid:4) rZX rYZ . X x, where rYZ . X is the standardized regression coefficient
+product E(Y ƒ ) rZX rYZ . X x, where rYZ . X is the standardized regression coefficient
 (Section 5.3.1); the estimation problem then reduces to that of estimating regression coefficients (e.g., by least squares). More sophisticated estimation techniques can be found
 in Rosenbaum and Rubin (1983), Robins (1989, sec. 17), and Robins et al. (1992, pp.
 331–3). For example, the "propensity score" method of Rosenbaum and Rubin (1983) was
@@ -7386,10 +6886,10 @@ ordinary least squares. This method is especially advantageous in longitudinal s
 with time-varying covariates, as in the problems discussed in Sections 3.2.3 (see (3.18))
 and 4.4.3.
 
-P(y (cid:2) xˆ) (cid:4) az
+P(y xˆ) az
 
 P(x, y, z)
-P(x (cid:2) z)
+P(x z)
 
 0x
 
@@ -7410,8 +6910,6 @@ A second extension concerns the use of the intervention calculus (Theorem 3.4.1)
 nonrecursive models, that is, in causal diagrams involving directed cycles or feedback
 loops. The basic definition of causal effects in terms of "wiping out" equations from
 the model (Definition 3.2.1) still carries over to nonrecursive systems (Strotz and Wold
-
-Causal Diagrams and the Identification of Causal Effects
 
 xˆ
 
@@ -7453,8 +6951,6 @@ provide a natural way for scientists to communicate experience and organize know
 
 7 Remarkably, many readers of this chapter (including two referees of this book) classified the methods presented here as belonging to the "Bayesian camp" and as depending on a "good prior." This
 
-3.6 Discussion
-
 It can be anticipated, therefore, that the language of causal graphs will find applications
 in problems requiring substantial domain knowledge.
 
@@ -7468,9 +6964,8 @@ misinterpretations (Whittaker 1990, p. 302; Wermuth 1992; Cox and Wermuth 1993).
 
 To a large extent, this history of controversy and miscommunication stems from the
 absence of an adequate mathematical notation for defining basic notions of causal modeling. For example, standard probabilistic notation cannot express the empirical content
-of the coefficient b in the structural equation y (cid:4) bx (cid:8) eY, even if one is prepared to
-Y (an unobserved quantity) is uncorrelated with X.8 Nor can any probabilisassume that (cid:10)
-tic meaning be attached to the analyst's excluding from the equation variables that do
+of the coefficient b in the structural equation y bx eY, even if one is prepared to
+Y (an unobserved quantity) is uncorrelated with X.8 Nor can any probabilisassume that tic meaning be attached to the analyst's excluding from the equation variables that do
 not "directly affect" Y.9
 
 xˆ
@@ -7482,14 +6977,14 @@ interpretation, because it permits one to specify precisely what is being held c
 what is merely measured in a given experiment. (The need for this distinction was recognized by many researchers, most notably Pratt and Schlaifer 1988 and Cox 1992.) The
 meaning of b is simply E(Y ƒ ), that is, the rate of change (in x) of the expectation
 of Y in an experiment where X is held at x by external control. This interpretation holds
-regardless of whether eY and X are correlated (e.g., via another equation x (cid:4) ay + ex).
+regardless of whether eY and X are correlated (e.g., via another equation x ay + ex).
 Likewise, the analyst's decision as to which variables should be included in a given equation can be based on a hypothetical controlled experiment: A variable Z is excluded from
 the equation for Y if (for every level of eY) Z has no influence on Y when all other variables
 (SYZ) are held constant; this implies P(y ƒ
 zˆ
 ). Specifically, variables
 ,
-that are excluded from the equation y (cid:4) bx (cid:8) eY are not conditionally independent of Y
+that are excluded from the equation y bx eY are not conditionally independent of Y
 given measurements of X but instead are causally irrelevant to Y given settings of X. The
 operational meaning of the "disturbance term" eY is likewise demystified: eY is defined as
 ). Two disturbance terms, eX and eY, are correlated if P(y ƒ
@@ -7498,13 +6993,13 @@ P(y ƒ x,
 xˆ
 ,
 
-(cid:6)sˆXY
+sˆXY
 )
 The distinctions provided by the hat notation clarify the empirical basis of structural equations and should make causal models more acceptable to empirical researchers.
 
 ), and so on (see Chapter 5, Section 5.4, for further elaboration).
 
-) (cid:4) P(y ƒ
+) P(y ƒ
 
 sˆXY
 
@@ -7524,8 +7019,6 @@ probabilities on parameters of joint distributions.
 9 The bitter controversy between Goldberger (1992) and Wermuth (1992) revolves around Wermuth's
 insistence on giving a statistical interpretation to the zero coefficients in structural equations (see
 Section 5.4.1).
-
-Causal Diagrams and the Identification of Causal Effects
 
 Moreover, since most scientific knowledge is organized around the operation of "holding
 X fixed" rather than "conditioning on X," the notation and calculus developed in this
@@ -7549,21 +7042,21 @@ equations models. Consider a structural model M that contains a set of equations
 
 xi
 
-(cid:4) fi(pai, ui),
+fi(pai, ui),
 
-i (cid:4) 1, . . ., n,
+i 1, . . ., n,
 
 (3.50)
 
 as in (3.4). Let U stand for the vector (U1, . . ., Un) of background variables, let X and Y
-be two disjoint subsets of observed variables, and let Mx be the submodel created by replacing the equations corresponding to variables in X with X (cid:4) x, as in Definition 3.2.1.
+be two disjoint subsets of observed variables, and let Mx be the submodel created by replacing the equations corresponding to variables in X with X x, as in Definition 3.2.1.
 The structural interpretation of Y(x, u) is given by
 
-Y(x, u) (cid:2) YMx(u).
+Y(x, u) YMx(u).
 
 (3.51)
 
-That is, Y(x, u) is the (unique) solution of Y under the realization U (cid:4) u in the submodel
+That is, Y(x, u) is the (unique) solution of Y under the realization U u in the submodel
 Mx of M. Although the term unit in the potential-outcome literature normally stands for
 the identity of a specific individual in a population, a unit may also be thought of as the
 set of attributes that characterize that individual, the experimental conditions under study,
@@ -7576,8 +7069,6 @@ deterministic and (ii) that the data consist of independent samples drawn from P
 regression" (Manski 1995, p. 38), which Heckman (1996) attributed to Roy (1951) and Quandt
 (1958); but lacking the formal semantics of (3.51), did not progress beyond a "framework."
 
-3.6 Discussion
-
 identity of an individual person in an experiment is often sufficient for this purpose because it represents the anatomical and genetic makings of that individual, which are often
 sufficient for determining that individual's response to treatments or other programs of
 interest.
@@ -7585,7 +7076,7 @@ interest.
 Equation (3.51) defines the key formal connection between the opaque English
 phrase "the value that Y would obtain in unit u, had X been x" and the physical processes
 that transfer changes in X into changes in Y. The formation of the submodel Mx explicates precisely how the hypothetical phrase "had X been x" could be realized, as well as
-what process must give in to make X (cid:4) x a reality.
+what process must give in to make X x a reality.
 
 Given this interpretation of Y(x, u), it is instructive to contrast the methodologies
 of causal inference in the potential-outcome versus structural frameworks. If U is treated
@@ -7595,11 +7086,11 @@ imagining the observed distribution P(x1, . . ., xn) as the marginal distributio
 Queries about causal effects (written P(y ƒ ) in our structural analysis) are phrased as
 xˆ
 queries about the marginal distribution of the counterfactual variable of interest, written
-P*(Y(x) (cid:4) y). The new hypothetical entities Y(x) are treated as ordinary random variables; for example, they are assumed to obey the axioms of probability calculus, the laws
+P*(Y(x) y). The new hypothetical entities Y(x) are treated as ordinary random variables; for example, they are assumed to obey the axioms of probability calculus, the laws
 of conditioning, and the axioms of conditional independence. Moreover, these hypothetical entities are assumed to be connected to observed variables via consistency constraints
 (Robins 1986) such as11
 
-X (cid:4) x 1 Y(x) (cid:4) Y,
+X x 1 Y(x) Y,
 
 (3.52)
 
@@ -7619,18 +7110,13 @@ the understanding that – in a randomized clinical trial with imperfect complia
 of the treatment assignment (Z), the potential-outcome analyst would write Y(x)
 Z.
 Likewise, to convey the understanding that the assignment is randomized and hence independent of how subjects comply with the assignment, the potential-outcome analyst
-(cid:3)(cid:3)
 would use the independence constraint Z
 
 X (z).
 
-(cid:3)(cid:3)
-
 11 Gibbard and Harper (1976, p. 156) expressed this constraint as A ) [(A nS S)
 
-S].(cid:4)
-
-Causal Diagrams and the Identification of Causal Effects
+S].Causal Diagrams and the Identification of Causal Effects
 
 A collection of constraints of this type might sometimes be sufficient to permit a
 unique solution to the query of interest; in other cases, only bounds on the solution can
@@ -7639,32 +7125,30 @@ the conditional independence
 
 Y(x)
 
-(cid:2)(cid:2)
-
 X ƒ Z
 
 (3.53)
 
 (an assumption that was termed "conditional ignorability" by Rosenbaum and Rubin
-1983), then the causal effect P*(Y(x) (cid:2) y) can readily be evaluated, using (3.52), to
+1983), then the causal effect P*(Y(x) y) can readily be evaluated, using (3.52), to
 yield12
 
-P*(Y(x) (cid:2) y) (cid:2) a
+P*(Y(x) y) a
 z
-(cid:2) a
+a
 z
-(cid:2) a
+a
 z
-(cid:2) a
+a
 z
 
-P* (Y(x) (cid:2) y (cid:2) z) P(z)
+P* (Y(x) y z) P(z)
 
-P*(Y(x) (cid:2) y (cid:2) x, z) P(z)
+P*(Y(x) y x, z) P(z)
 
-P*(Y (cid:2) y (cid:2) x, z) P(z)
+P*(Y y x, z) P(z)
 
-P(y (cid:2) x, z) P(z).
+P(y x, z) P(z).
 
 (3.54)
 
@@ -7672,7 +7156,7 @@ The last expression contains no counterfactual quantities (thus permitting us to
 asterisk from P*) and coincides precisely with the adjustment formula of (3.19), which
 obtains from the back-door criterion. However, the assumption of conditional ignorability (equation (3.53)) – the key to the derivation of (3.54) – is not straightforward to
 comprehend or ascertain. Paraphrased in experimental metaphors, this assumption reads:
-The way an individual with attributes Z would react to treatment X (cid:2) x is independent
+The way an individual with attributes Z would react to treatment X x is independent
 of the treatment actually received by that individual.
 
 Section 3.6.2 explains why this approach may appeal to traditional statisticians, even
@@ -7690,31 +7174,21 @@ Graphs encode substantive information in both the equations and the probability 
 
 12 Gibbard and Harper (1976, p. 157) used the "ignorability assumption" Y(x)
 
-(cid:2)(cid:2)
-
 X to derive the
 
-equality P(Y(x) (cid:2) y) (cid:2) P(y ƒ x).
+equality P(Y(x) y) P(y ƒ x).
 
 13 A typical oversight in the example of .7(b) has been to write Z
 
-(cid:2)(cid:2)
-
 Y (x) and Z
-
-(cid:2)(cid:2)
 
 X (z)
 
 instead of Z
 
-(cid:2)(cid:2)
-
 Y (x), X(z)
 
 , as dictated by (3.56).
-
-3.6 Discussion
 
 Each parent–child family (PAi, Xi) in a causal diagram G corresponds to an equation
 in the model M of (3.50). Hence, missing arrows encode exclusion assumptions, that is,
@@ -7739,7 +7213,7 @@ second, the missing dashed arcs.
 
 set of variables S disjoint of PAY, we have
 
-Y(paY) (cid:4) Y(paY, s).
+Y(paY) Y(paY, s).
 
 (3.55)
 
@@ -7749,8 +7223,6 @@ Independence restrictions: If Z1, . . ., Zk is any set of nodes not connected to
 via dashed arcs, we have14
 
 Y(paY)
-
-(cid:3)(cid:3)
 
 .
 )
@@ -7768,12 +7240,9 @@ in functional relationships to the U terms in their corresponding equations.
 
 As an example, the model shown in .5 displays the following parent sets:
 
-(cid:4)
-
 PAX
 
 , PAY
-X
 Consequently, the exclusion restrictions translate into:
 
 , PAZ
@@ -7783,15 +7252,11 @@ Z
 
 5 6
 
-(cid:4)
+Z(x) Z(y, x),
 
-(cid:4)
+X(y) X(x, y) X(z) X,
 
-Z(x) (cid:4) Z(y, x),
-
-X(y) (cid:4) X(x, y) (cid:4) X(z) (cid:4) X,
-
-Y(z) (cid:4) Y(z, x);
+Y(z) Y(z, x);
 
 (3.57)
 
@@ -7810,8 +7275,6 @@ translates into the independence re-
 
 Z(x)
 
-(cid:3)(cid:3)
-
 Y(z), X
 
 .
@@ -7819,35 +7282,19 @@ Y(z), X
 (3.61)
 
 Given a sufficient number of such restrictions on P*, the analyst attempts to compute
-causal effects P*(Y(x) (cid:4) y) using standard probability calculus together with the logical
+causal effects P*(Y(x) y) using standard probability calculus together with the logical
 constraints (e.g., (3.52)) that couple counterfactual variables with their measurable counterparts. These constraints can be used as axioms, or rules of inference, in attempting to
 
 14 The restriction is in fact stronger, jointly applying to all instantiations of the PA variables. For
 , where
 
-Y(pa(cid:3)
-
-(cid:3)(cid:3)
-
-Z), Y(pa(cid:3)(cid:3)
-
-Z), Y(pa(cid:3)(cid:3)(cid:3)
-
-Y (paZ) should be interpreted as X
+Y(paZ), Y(paZ), Y(paY (paZ) should be interpreted as X
 Z ), . . . are the values that the set PAZ may take on.
 
 example, X
-(pa(cid:3)
-Z), (pa(cid:3)(cid:3)
+(paZ), (paZ), (paZ ), . . .
 
-(cid:3)(cid:3)
-Z), (pa(cid:3)(cid:3)(cid:3)
-
-Z ), . . .
-
-Causal Diagrams and the Identification of Causal Effects
-
-transform causal effect expressions of the form P*(Y(x) (cid:4) y) into expressions involving
+transform causal effect expressions of the form P*(Y(x) y) into expressions involving
 only measurable variables. When such a transformation is found, the corresponding
 causal effect is identifiable, since P* then reduces to P.
 
@@ -7885,36 +7332,31 @@ the potential of Neyman's counterfactual notation Y(x) as a general mathematical
 treatment" model to studies with direct and indirect effects and time-varying treatments,
 concomitants, and outcomes.
 
-Robins considered a set V (cid:4)
-
-of temporally ordered discrete random
+Robins considered a set V of temporally ordered discrete random
 variables (as in .3) and asked under what conditions one can identify the effect
-of control policy g : X (cid:4) x on outcomes Y 8 V (cid:11) X, where X (cid:4)
-8 V are
+of control policy g : X x on outcomes Y 8 V X, where X 8 V are
 
 V1, . . . , VM6
 
 X1, . . . , XK6
 
-3.6 Discussion
-
 the temporally ordered and potentially manipulable treatment variables of interest. The
-causal effect of X (cid:4) x on Y was expressed as the probability
+causal effect of X x on Y was expressed as the probability
 
-P(y (cid:2) g (cid:4) x) (cid:2) P
+P(y g x) P
 
-Y(x) (cid:4) y
+Y(x) y
 ,
 
 where the counterfactual variable Y(x) stands for the value that outcome variables Y
 would take had the treatment variables X been x.
 
-Robins showed that P(y ƒ g (cid:4) x) is identified from the distribution P(y) if each component Xk of X is "assigned at random, given the past," a notion explicated as follows.
-Let Lk be the variables occurring between Xk-1 and Xk, with L1 being the variables preceding X1, Write (cid:4) (L1, . . . , Lk), L (cid:4) , and (cid:4) (X1, . . . , Xk), and define
+Robins showed that P(y ƒ g x) is identified from the distribution P(y) if each component Xk of X is "assigned at random, given the past," a notion explicated as follows.
+Let Lk be the variables occurring between Xk-1 and Xk, with L1 being the variables preceding X1, Write (L1, . . . , Lk), L , and (X1, . . . , Xk), and define
 X0
 LK
 ,
-(cid:4) xk is said to be assigned at random,
+xk is said to be assigned at random,
 L0
 to be identically zero. The treatment Xk
 given the past, if the following relation holds:
@@ -7929,15 +7371,13 @@ Lk
 
 (Y (x)
 
-(cid:3)(cid:3)
-
 ƒ
 
 Xk
 
-Lk, Xk(cid:7)1
+Lk, Xk1
 
-(cid:4) xk(cid:7)1
+xk1
 ).
 
 (3.62)
@@ -7946,14 +7386,14 @@ Robins further proved that, if (3.62) holds for every k, then the causal effect 
 
 by
 
-P(y (cid:2) g (cid:4) x) (cid:4) a
+P(y g x) a
 lk
 
 K
-P(y (cid:2) lK, xK) q
-k(cid:4)1
+P(y lK, xK) q
+k1
 
-P(lk (cid:2) lk(cid:7)1, xk(cid:7)1),
+P(lk lk1, xk1),
 
 (3.63)
 
@@ -7961,10 +7401,10 @@ an expression he called the "G-computation algorithm formula." This expression c
 derived by applying condition (3.62) iteratively, as in the derivation of (3.54). If X is
 univariate, then (3.63) reduces to the standard adjustment formula
 
-P(y (cid:2) g (cid:4) x) (cid:4) a
+P(y g x) a
 l1
 
-P(y (cid:2) x, l1) P(l1),
+P(y x, l1) P(l1),
 
 paralleling (3.54). Likewise, in the special structure of .3, (3.63) reduces to (3.18).
 To place this result in the context of our analysis in this chapter, we need to focus attention on condition (3.62), which facilitated Robins's derivation of (3.63), and ask whether
@@ -7975,7 +7415,7 @@ avoiding back-door path from Xk to Y is blocked by some subset Lk of nondescenda
 of Xk. (By "action-avoiding" we mean a path containing no arrow entering an X variable
 later than Xk.) Chapter 11 (Section 11.4.2) shows by examples that this "sequential backdoor" criterion is more general than that given in (3.62).
 
-P(y (cid:2) g (cid:4) x)
+P(y g x)
 
 The structural analysis introduced in this chapter supports and generalizes Robins's
 result from a new theoretical perspective. First, on the technical front, this analysis offers
@@ -7985,8 +7425,6 @@ Second, on the conceptual front, the structural framework represents a fundament
 to the vocabulary of
 
 shift from the vocabulary of counterfactual independencies,
-
-Causal Diagrams and the Identification of Causal Effects
 
 processes and mechanisms, in which human knowledge is encoded. The former requires
 humans to affirm esoteric relationships such as (3.62), while the latter expresses those
@@ -8001,7 +7439,7 @@ Personal Remarks and Acknowledgments
 The work recounted in this chapter sprang from two simple ideas that totally changed my
 attitude toward causality. The first idea arose in the summer of 1990, while I was working with Tom Verma on "A Theory of Inferred Causation" (Pearl and Verma 1991; see
 also Chapter 2). We played around with the possibility of replacing the parents–child
-(cid:4) fi (pai, ui) and, suddenly,
+fi (pai, ui) and, suddenly,
 relationship P(xi
 everything began to fall into place: we finally had a mathematical object to which we
 could attribute familiar properties of physical mechanisms instead of those slippery epi-
@@ -8033,8 +7471,6 @@ still trying to decide if it was do(x) that they have been meaning to say all al
 Encouraging colleagues receive far too little credit in official channels, considering
 the immense impact they have on the encouraged. I must take this opportunity to acknowledge four colleagues who saw clarity shining through the do(x) operator before it
 gained popularity: Steffen Lauritzen, David Freedman, James Robins, and Philip Dawid.
-
-3.6 Discussion
 
 Phil showed special courage in printing my paper in Biometrika (Pearl 1995a), the journal founded by causality's worst adversary – Karl Pearson.
 
@@ -8068,7 +7504,7 @@ These results constitute a complete characterization of causal effects in graphi
 models. They provide us with polynomial time algorithms for determining whether an
 arbitrary quantity invoking the do(x) operator is identified in a given semi-Markovian
 model and, if so, what the estimand of that quantity is. Remarkably, one corollary of these
-results also states that the do-calculus is complete, namely, a quantity Q (cid:2) P(y ƒ do(x), z)
+results also states that the do-calculus is complete, namely, a quantity Q P(y ƒ do(x), z)
 is identified if and only if it can be reduced to a do-free expression using the three rules
 of Theorem 3.4.1.16 Tian and Shpitser (2010) provide a comprehensive summary of
 these results.
@@ -8081,8 +7517,6 @@ and (Pearl 2009a). Applications of causal graphs in epidemiology are reported in
 15 Before applying this criterion, one may delete from the causal graph all nodes that are not ancestors of Y.
 
 16 This was independently established by Huang and Valtorta (2006).
-
-Causal Diagrams and the Identification of Causal Effects
 
 (2001), Hernán et al. (2002), Hernán et al. (2004), Greenland and Brumback (2002),
 Greenland et al. (1999a,b) Kaufman et al. (2005), Petersen et al. (2006), Hernández-Díaz
@@ -8131,15 +7565,11 @@ assessing causal pathways in nonlinear models.
 
 C H A P T E R F O U R
 
-Actions, Plans, and Direct Effects
-
 He whose actions exceed his wisdom,
 his wisdom shall endure.
 
 Rabbi Hanina ben Dosa
 (1st century A.D.)
-
-Preface
 
 So far, our analysis of causal effects has focused on primitive interventions of the form
 do(x), which stood for setting the value of variable X to a fixed constant, x, and asking for
@@ -8165,8 +7595,6 @@ Finally, in Section 4.5 we address the question of distinguishing direct from in
 effects. We show that direct effects can be identified by the graphical method developed
 in Section 4.4. An example using alleged sex discrimination in college admission will
 serve to demonstrate the assumptions needed for proper analysis of direct effects.
-
-Actions, Plans, and Direct Effects
 
 4.1 INTRODUCTION
 
@@ -8196,18 +7624,18 @@ Commonsensical decision theory1 instructs rational agents to choose the option x
 
 that maximizes expected utility,2
 
-U(x) (cid:2) a
+U(x) a
 y
 
-P(y (cid:2) do(x))u(y),
+P(y do(x))u(y),
 
 where u(y) is the utility of outcome y; in contrast, "evidential decision theory" calls for
 maximizing the conditional expectation
 
-Uev(x) (cid:2) a
+Uev(x) a
 y
 
-P(y (cid:2) x)u(y),
+P(y x)u(y),
 
 in which x is (improperly) treated as an observed proposition.
 
@@ -8219,7 +7647,7 @@ workers should never hurry to work, to reduce the probability of having overslep
 
 hint that any alternative, noncausal theory can be used to guide decisions.
 2 Following a suggestion of Stalnaker (1972), Gibbard and Harper (1976) used
-x (cid:2)S y
+x S y
 
 in U(x),
 rather than P(y ƒ do(x)), where
@@ -8228,7 +7656,7 @@ The semantics of the two operators are closely related (see Section 7.4), but th
 interpretation of the do(x) operator is less ambiguous and clearly suppresses inference from effect
 to cause.
 
-P(x (cid:2)S y)
+P(x S y)
 
 4.1 Introduction
 
@@ -8272,8 +7700,6 @@ he treated a chain of decisions, one leading to another, as a single decision. H
 3 Such evidence is rendered irrelevant within the actor's own probability space; in multiagent decision situations, however, each agent should definitely be cognizant of how other agents might
 interpret each of his pending "would-be" acts.
 
-Actions, Plans, and Direct Effects
-
 ¿
 
 B
@@ -8305,9 +7731,8 @@ that takes P(s) and transforms it to PA(s), then P(s) tells us nothing about the
 PA(s), even when A is an elementary event for which P(A) is well defined (e.g., "raise
 the temperature by 1 degree" or "turn the sprinkler on"). With the exception of the trivial requirement that PA (s) be zero if s implies
 , a requirement that applies uniformly
-to every P(s), probability theory does not tell us how PA(s) should differ from P(cid:3)
-A(s),
-where P(cid:3)(s) is some other preaction probability function. Conditioning on A is clearly
+to every P(s), probability theory does not tell us how PA(s) should differ from PA(s),
+where P(s) is some other preaction probability function. Conditioning on A is clearly
 inadequate for capturing this transformation, as we have seen in many examples in Chapters 1 and 3 (see, e.g., Section 1.3.1), because conditioning represents passive observations
 in an unchanging world, whereas actions change the world.
 
@@ -8323,8 +7748,6 @@ required for describing the transformation from P(s) to PA(s) should identify th
 is provided by causal knowledge, and the do( ) operator enables us to capture the invariant elements (thus defining PA(s)) by locally modifying the graph or the structural
 equations. The next section will compare this device to the way actions are handled in
 standard decision theory.
-
-(cid:4)
 
 4.1.2 Actions in Decision Analysis
 
@@ -8370,8 +7793,6 @@ equations. Instead, the effects of such interventions can be deduced from the st
 
 4 The ID literature's insistence on divorcing the links in the ID from any causal interpretation
 (Howard and Matheson 1981; Howard 1990) is at odds with prevailing practice. The causal interpretation is what allows us to treat decision variables as root nodes and construct the proper decision trees for analysis; see Section 11.6 for a demonstration.
-
-Actions, Plans, and Direct Effects
 
 interpretation of those equations, if only we can tie the immediate effects of each policy
 to the corresponding variables and parameters in the equations. The compound action
@@ -8428,90 +7849,86 @@ The interventions considered in our analysis of identification (Sections 3.3–3
 limited to actions that merely force a variable or a group of variables X to take on some
 specified value x. In general (see the process control example in Section 3.2.3), interventions may involve complex policies in which a variable X is made to respond in a
 specified way to some set Z of other variables – say, through a functional relationship
-x (cid:2) g(z) or through a stochastic relationship whereby X is set to x with probability
+x g(z) or through a stochastic relationship whereby X is set to x with probability
 P*(x ƒ z). We will show, based on Pearl (1994b), that identifying the effect of such policies is equivalent to identifying the expression
 
-P(y (cid:2) xˆ, z).
+P(y xˆ, z).
 
-Let P(y ƒ do(X (cid:2) g(z))) stand for the distribution (of Y) prevailing under the policy
+Let P(y ƒ do(X g(z))) stand for the distribution (of Y) prevailing under the policy
 
-do(X (cid:2) g(z)). To compute P(y ƒ do(X (cid:2) g(z))), we condition on Z and write
+do(X g(z)). To compute P(y ƒ do(X g(z))), we condition on Z and write
 
-P(y (cid:2) do(X (cid:2) g(z))) (cid:2) a
+P(y do(X g(z))) a
 z
-(cid:2) a
+a
 z
 
-P(y (cid:2) do(X (cid:2) g(z)), z) P(z (cid:2) do(X (cid:2) g(z)))
+P(y do(X g(z)), z) P(z do(X g(z)))
 
-P(y (cid:2) xˆ, z)(cid:2) x(cid:2)g(z) P(z)
+P(y xˆ, z)xg(z) P(z)
 
-(cid:2) Ez [P(y (cid:2) xˆ, z)(cid:2) x(cid:2)g(z)].
+Ez [P(y xˆ, z)xg(z)].
 
 The equality
 
-P(z (cid:2) do(X (cid:2) g(z))) (cid:2) P(z)
+P(z do(X g(z))) P(z)
 
 stems, of course, from the fact that Z cannot be a descendant of X; hence, any control exerted on X can have no effect on the distribution of Z. Thus, we see that the causal effect
-P(y (cid:2) xˆ, z)
-of a policy do(X (cid:2) g (z)) can be evaluated directly from the expression of
+P(y xˆ, z)
+of a policy do(X g (z)) can be evaluated directly from the expression of
 simply by substituting g(z) for x and taking the expectation over Z (using the observed
 distribution P(z)).
 
 This identifiability criterion for conditional policy is somewhat stricter than that for
-unconditional intervention. Clearly, if a policy do(X (cid:2) g (z)) is identifiable, then the simple intervention do(X (cid:2) x) is identifiable as well, since we can always obtain the latter
-by setting g(z) (cid:2) x. The converse does not hold, however, because conditioning on Z
+unconditional intervention. Clearly, if a policy do(X g (z)) is identifiable, then the simple intervention do(X x) is identifiable as well, since we can always obtain the latter
+by setting g(z) x. The converse does not hold, however, because conditioning on Z
 might create dependencies that will prevent the successful reduction of
 to a
 hat-free expression. Kuroki and Miyakawa (1999a, 2003) present graphical criteria.
 
-P(y (cid:2) xˆ, z)
+P(y xˆ, z)
 
 A stochastic policy, which imposes a new conditional distribution P*(x ƒ z) for x,
 can be handled in a similar manner. We regard the stochastic intervention as a random
-process in which the unconditional intervention do(X (cid:2) x) is enforced with probability
-P*(x ƒ z). Thus, given Z (cid:2) z, the intervention do(X (cid:2) x) will occur with probability
-
-Actions, Plans, and Direct Effects
+process in which the unconditional intervention do(X x) is enforced with probability
+P*(x ƒ z). Thus, given Z z, the intervention do(X x) will occur with probability
 
 P*(x ƒ z) and will produce a causal effect given by
 z gives the effect (on Y) of the stochastic policy P*(x ƒ z):
 
-P(y (cid:2) xˆ, z).
+P(y xˆ, z).
 
 Averaging over x and
 
-P(y) (cid:2) P*(x (cid:2) z)
+P(y) P*(x z)
 
-(cid:2) a
+a
 x
 
 a
 z
 
-P(y (cid:2) xˆ, z)P*(x (cid:2) z)P(z).
+P(y xˆ, z)P*(x z)P(z).
 
-P(y (cid:2) xˆ, z)
+P(y xˆ, z)
 Because P*(x ƒ z) is specified externally, we see again that the identifiability of
 is a necessary and sufficient condition for the identifiability of any stochastic policy that
 shapes the distribution of X by the outcome of Z.
 
 Of special importance in planning is a STRIPS-like action (Fikes and Nilsson 1971)
-whose immediate effects X (cid:2) x depend on the satisfaction of some enabling precondition C(w) on a set W of variables. To represent such actions, we let
+whose immediate effects X x depend on the satisfaction of some enabling precondition C(w) on a set W of variables. To represent such actions, we let
 and
 set
 
-Z (cid:2) W (cid:2) PAX
+Z W PAX
 
-P*(x (cid:2) z) (cid:2)
-
-P(x (cid:2) paX)
+P*(x z) P(x paX)
 
 •
 
-if C(w) (cid:2) false,
-if C(w) (cid:2) true and X (cid:2) x,
-if C(w) (cid:2) true and X (cid:5) x.
+if C(w) false,
+if C(w) true and X x,
+if C(w) true and X x.
 
 4.3 WHEN IS THE EFFECT OF AN ACTION IDENTIFIABLE?
 
@@ -8520,28 +7937,22 @@ of one variable on another, P(y ƒ do(x)), is identifiable in the presence of un
 variables. These criteria, like the back-door (Theorem 3.3.2) and front-door (Theorem
 3.3.4), are special cases of a more general class of semi-Markovian models for which
 repeated application of the inference rules of do-calculus (Theorem 3.4.1) will reduce
-P(y (cid:2) xˆ)
 to a hat-free expression, thus rendering it identifiable. In this section we characis identifiable. This class
 terize a wider class of models in which the causal effect
 is subsumed by the one established by Tian and Pearl (2002a) in Theorem 3.7 and the
 complete characterization given later in Shpitser and Pearl (2006b). It is brought here for
 its intuitive appeal.
 
-P(y (cid:2) xˆ)
-
 4.3.1 Graphical Conditions for Identification
 
 Theorem 4.3.1 characterizes a class of models in the form of four graphical condiwhen X and Y are
 tions, any one of which is sufficient for the identification of
 singleton nodes in the graph. Theorem 4.3.2 then states that at least one of these four
-P(y (cid:2) xˆ)
 conditions must hold in the model for
 to be identifiable in do-calculus. In
 view of the completeness of do-calculus, we conclude that one of the four conditions
 is necessary for any method of identification compatible with the semantics of
 Definition 3.2.4.
-
-P(y (cid:2) xˆ)
 
 Theorem 4.3.1 (Galles and Pearl 1995)
 Let X and Y denote two singleton variables in a semi-Markovian model characterized by
@@ -8549,19 +7960,17 @@ graph G. A sufficient condition for the identifiability of
 is that G satisfy one of
 the following four conditions.
 
-P(y (cid:2) xˆ)
-
 4.3 When is the Effect of an Action Identifiable?
 
 B1, B26
-P(b1, b2 (cid:2) xˆ) (cid:2) P(b1, b2).
+P(b1, b2 xˆ) P(b1, b2).
 
 .1 Condition 3 of Theorem 4.3.1. In (a), the
 set
 blocks all back-door paths from X to Y,
 the node B
 and
-P(b (cid:2) xˆ)
+P(b xˆ)
 blocks all back-door paths from X to Y, and
 is identifiable using Condition 4.
 
@@ -8573,13 +7982,13 @@ In (b),
 is identifiable. (A special case of this condition occurs when B consists
 reduces immediately to
 
-P(b (cid:2) xˆ)
+P(b xˆ)
 entirely of nondescendants of X, in which case
 P(b).)
 
-P(b (cid:2) xˆ)
+P(b xˆ)
 
-(X(cid:3)(cid:3) Y)GX
+(XY)GX
 .
 
 4. There exist sets of nodes Z1 and Z2 such that:
@@ -8588,29 +7997,26 @@ P(b (cid:2) xˆ)
 (ii) Z2 blocks all back-door paths between Z1 and Y (i.e.,
 (iii) Z2 blocks all back-door paths between X and Z1 (i.e.,
 
-(Y(cid:3)(cid:3) X (cid:2) Z1)GZ1X
+(YX Z1)GZ1X
 );
-(Y(cid:3)(cid:3)Z1 (cid:2) Z2)GXZ1
+(YZ1 Z2)GXZ1
 
 );
 
-(X(cid:3)(cid:3) Z1 (cid:2) Z2)GX
+(XZ1 Z2)GX
 ;
 
 and
 
 (iv) Z2 does not activate any back-door paths from X to Y (i.e.,
 
-(X(cid:3)(cid:3)Y (cid:2)
-(This condition holds if (i)–(iii) are met and no member
+(XY (This condition holds if (i)–(iii) are met and no member
 
 Z1, Z2)
 ).
 of Z2 is a descendant of X.)
 
 GZ1X(Z2)
-
-(cid:2) 0
 
 Z2
 
@@ -8624,9 +8030,7 @@ Proof
 Condition 1. This condition follows directly from Rule 2 (see Theorem 3.4.1). If
 to P (y ƒ x), so the query is identhen we can immediately change
 
-P(y (cid:2) xˆ)
-
-(Y(cid:3)(cid:3) X)GX
+(YX)GX
 ,
 tifiable.
 
@@ -8634,16 +8038,16 @@ Condition 2. If there is no directed path from X to Y in G, then
 
 by Rule 3,
 
-P(y (cid:2) xˆ) (cid:2) P(y)
+P(y xˆ) P(y)
 
 and so the query is identifiable.
 
-(Y(cid:3)(cid:3) X)GX
+(YX)GX
 .
 
 Hence,
 
-(Y(cid:3)(cid:3) X (cid:2) B)GX
+(YX B)GX
 
 Condition 3. If there is a set of nodes B that blocks all back-door paths from X to Y
 and, by
@@ -8653,35 +8057,33 @@ is identifiable, then the
 Rule 2, rewrite
 original query must also be identifiable. See examples in .1.
 
-g b P(y (cid:2) xˆ, b) P(b (cid:2) xˆ)
-(b (cid:2) xˆ)
+g b P(y xˆ, b) P(b xˆ)
+(b xˆ)
 
-P(y (cid:2) xˆ)
 as
 . If the query
 
 ), then we can expand
 
-P(y (cid:2) xˆ, b)
+P(y xˆ, b)
 
-P(y (cid:2) x, b)
+P(y x, b)
 
 as
 
-P(y (cid:2) xˆ) (cid:2) g Z1
+P(y xˆ) g Z1
 
 Condition 4. If there is a set of nodes Z1 that block all directed paths from X to Y
 and a set of nodes Z2 that block all back-door paths between Y and Z1 in
 then we
-(cid:2) xˆ)
-, Z2 P(y (cid:2) xˆ, z1, z2)P(z1, z2
+xˆ)
+, Z2 P(y xˆ, z1, z2)P(z1, z2
 expand
 as
-P(y (cid:2) xˆ, zˆ1, z2)
+P(y xˆ, zˆ1, z2)
 using Rule 2, since all back-door paths between Z1 and Y are blocked by
-P(y (cid:2) zˆ1, z2)
-(Y(cid:3)(cid:3) X (cid:2)
-GX.
+P(y zˆ1, z2)
+(YX GX.
 Z2 in
 as P(y ƒ z1, z2) if
 Z1, Z2)GZ1X(Z2)
@@ -8693,16 +8095,15 @@ However, we can block this path by conditioning and
 X, since
 
 using Rule 3, since
-(cid:2)
-(Y (cid:3)(cid:3) Z1
+(Y Z1
 
 GX,
-P(y (cid:2) xˆ, z1, z2)
+P(y xˆ, z1, z2)
 
 to
-P(y (cid:2) zˆ1, z2)
+P(y zˆ1, z2)
 
-P(y (cid:2) xˆ, zˆ1, z2)
+P(y xˆ, zˆ1, z2)
 
 We can rewrite
 
@@ -8714,11 +8115,8 @@ Z2)GZ1
 
 .
 
-(Y(cid:3)(cid:3) Z1
-(cid:2)
+(YZ1
 Z2)GXZ1
-
-Actions, Plans, and Direct Effects
 
 .2 Condition 4 of Theorem 4.3.1. In (a), Z1 blocks all directed paths from X to Y, and the
 empty set blocks all back-door paths from Z1 to Y in
@@ -8732,55 +8130,53 @@ GX
 
 GX
 
-as P(y ƒ z1, z2, x(cid:3)) using Rule 2. The
+as P(y ƒ z1, z2, x) using Rule 2. The
 
-g x(cid:3)P(y (cid:2) zˆ1, z2, x(cid:3))P(x(cid:3) (cid:2) zˆ1, z2).
-P(x(cid:3) (cid:2) zˆ1, z2)
+g xP(y zˆ1, z2, x)P(xzˆ1, z2).
+P(xzˆ1, z2)
 
 Now we can rewrite
 summing over X and so derive
-P(y (cid:2) zˆ1, z2, x(cid:3))
-term can be rewritten as P(x(cid:3) ƒ z2) using Rule 3, since Z1 is a child of X and the graph is acyclic. The query
+P(y zˆ1, z2, x)
+term can be rewritten as P(xƒ z2) using Rule 3, since Z1 is a child of X and the graph is acyclic. The query
 and
 can therefore be rewritten as
-we have
 Since Z2 consists of nondescendants of
 P(z1, z2
 as P(z2) using Rule 3. Since Z2 blocks all back-door paths
 X, we can rewrite
 ƒ x, z2) using Rule 2. The entire
 from X to Z1. we can rewrite
-(cid:2) x, z2)P(z2).
+x, z2)P(z2).
 query can thus be rewritten as
 n
 See examples in .2.
 
-g x(cid:3) P(y (cid:2) z1, z2, x(cid:3))P(x(cid:3) (cid:2) z2)P(z1, z2
+g xP(y z1, z2, x)P(xz2)P(z1, z2
 
-g x(cid:3) P(y (cid:2) z1, z2, x(cid:3))P(x(cid:3) (cid:2) z2)P(z1
+g xP(y z1, z2, x)P(xz2)P(z1
 
-(cid:2) xˆ) (cid:2) P(z2
-(cid:2) xˆ)
+xˆ) P(z2
+xˆ)
 P(z2
 
 g z1, z2
-(cid:2) xˆ, z2).
+xˆ, z2).
 
-(cid:2) xˆ, z2)
+xˆ, z2)
 g z1, z2
 
-(cid:2) xˆ)P(z1
+xˆ)P(z1
 
 as P(z1
 
 P(z1
 
-(cid:2) xˆ),
+xˆ),
 
 Theorem 4.3.2
 At least one of the four conditions of Theorem 4.3.1 is necessary for identifiability. That
 is, if all four conditions of Theorem 4.3.1 fail in a graph G, then there exists no finite
-P(y (cid:2) xˆ)
 sequence of inference rules that reduces
 
 to a hat-free expression.
@@ -8795,7 +8191,7 @@ exist. Fortunately, the following theorems allow us to significantly prune the s
 so as to render the test tractable.
 
 Theorem 4.3.3
-(cid:2) xˆ)
+xˆ)
 If
 other minimal set Bj.
 
@@ -8805,7 +8201,7 @@ is identifiable for one minimal set Bi, then
 
 P(bj
 
-(cid:2) xˆ)
+xˆ)
 
 is identifiable for any
 
@@ -8817,34 +8213,33 @@ meets the requirements of Condition 3, then the query is identifiable; otherwise
 .3 Theorem 4.3.1 ensures a reducing sequence for
 and
 
-although none exists for P(y1 (cid:2) xˆ, y2).
+although none exists for P(y1 xˆ, y2).
 
 P(y1
 
-(cid:2) xˆ),
+xˆ),
 
-P(y2 (cid:2) xˆ, y1)
+P(y2 xˆ, y1)
 
 Lemma 4.3.4
-P(y (cid:2) xˆ)
 If the query
 to Y, then the query
 
 is identifiable and if a set of nodes Z lies on a directed path from X
-P(z (cid:2) xˆ)
+P(z xˆ)
 
 is identifiable.
 
 Theorem 4.3.5
 Let Y1 and Y2 be two subsets of nodes such that either (i) no nodes Y1 are descendants of
 X or (ii) all nodes Y1 and Y2 are descendants of X and all nodes Y1 are nondescendants
-(cid:2) xˆ)
+xˆ)
 exists (per Corollary 3.4.2) if and only if
 of Y2. A reducing sequence for
-P(y1 (cid:2) xˆ)
+P(y1 xˆ)
 there are reducing sequences for both
 
-(cid:2) xˆ, y1).
+xˆ, y1).
 
 P(y1, y2
 
@@ -8852,25 +8247,24 @@ P(y2
 
 and
 
-(cid:2) xˆ)
+xˆ)
 
 and
 
 P(y2
 
 P(y1, y2
-(cid:2) xˆ, y1)
+xˆ, y1)
 
 The probability
 might pass the test in Theorem 4.3.1 if we apply the proce-
-(cid:2) xˆ, y2)
+xˆ, y2)
 dure to both
 but if we try to apply the test to
 then we will not find a reducing sequence of rules. .3 shows just such an exam-
-(cid:2) xˆ),
+xˆ),
 ple. Theorem 4.3.5 guarantees that, if there is a reducing sequence for
-(cid:2) xˆ)
-(cid:2)
+xˆ)
 P(y2
 then we should always be able to find such a sequence for both
 xˆ, y1)
@@ -8886,7 +8280,7 @@ P(y1
 
 P(y1
 
-(cid:2) xˆ),
+xˆ),
 
 Theorem 4.3.6
 If there exists a set Z1 that meets all of the requirements for Z1 in Condition 4, then the
@@ -8902,72 +8296,66 @@ The algorithm defined by Theorem 4.3.1 not only determines the identifiability o
 in terms of the observed
 probability distribution (when such a closed form exists) as follows.
 
-P(y (cid:2) xˆ)
-
 Function: ClosedForm (
 
-P(y (cid:2) xˆ)).
+P(y xˆ)).
 
 Input:
 
 Control query of the form
 
-P(y (cid:2) xˆ).
+P(y xˆ).
 
 Output:
 
 Either a closed-form expression for
 only, or FAIL when the query is not identifiable.
-(X(cid:3)(cid:3)Y)GX
+(XY)GX
 2. Otherwise, if
 
 then return P(y).
-(X(cid:3)(cid:3)Y)GX
+(XY)GX
 
-then return P(y (cid:2) x).
+then return P(y x).
 
 1. If
 
-P(y (cid:2) xˆ),
+P(y xˆ),
 
 in terms of observed variables
 
-Actions, Plans, and Direct Effects
+3. Otherwise, let B BlockingSet (X, Y) and Pb ClosedForm
 
-3. Otherwise, let B (cid:2) BlockingSet (X, Y) and Pb (cid:2) ClosedForm
-
-(P(b (cid:2) xˆ));
+(P(b xˆ));
 
 if
 
-Pb (cid:5)
-
-FAIL then return
+Pb FAIL then return
 
 g
 
-P(y (cid:2) b, x)*
+P(y b, x)*
 
 Pb.
 
 b
-4. Otherwise, let Z1 (cid:2) Children(X) ¨ (Y ª Ancestors(Y)),
-Z3 (cid:2) BlockingSet(X, Z1), Z4 (cid:2) BlockingSet (Z1, Y), and
-Y (cid:3) Z1
+4. Otherwise, let Z1 Children(X) ¨ (Y ª Ancestors(Y)),
+Z3 BlockingSet(X, Z1), Z4 BlockingSet (Z1, Y), and
+Y Z1
 then return
 if
-g x(cid:3) P(y (cid:2) z1, z2, x(cid:3))P(x(cid:3) (cid:2) z2)P(z1 (cid:2) x, z2)P(z2).
+g xP(y z1, z2, x)P(xz2)P(z1 x, z2)P(z2).
 g z1, z2
 
-X (cid:3) Z2
+X Z2
 
 and
 
 Z2
 
-(cid:2) Z3
+Z3
 
-(cid:2) Z4;
+Z4;
 
 5. Otherwise, return FAIL.
 
@@ -8977,9 +8365,9 @@ itself, in order to obtain an
 contains a recursive call to the algorithm ClosedForm
 expression for causal effect
 
-P(b (cid:2) xˆ).
+P(b xˆ).
 
-(b (cid:2) xˆ)
+(b xˆ)
 
 4.3.4 Summary
 
@@ -8990,9 +8378,7 @@ control queries of the type
 gives a closed-form expression for the causal effect
 in terms of estimable probabilities.
 
-P(y (cid:2) xˆ),
-
-P(y (cid:2) xˆ)
+P(y xˆ),
 
 Although the completeness results of Shpitser and Pearl (2006a) now offer a precise
 characterization of the boundary between the identifying and nonidentifying models (see
@@ -9052,15 +8438,13 @@ remarked in Chapter 3, one of the deadliest sins in the design of statistical ex
 stands between an action and its consequence interferes with the very quantity we wish
 to estimate – the total effect of that action. The identification method presented will circumvent such difficulties.
 
-Actions, Plans, and Direct Effects
-
 Two other features of .4 are worth noting. First, the quantity
 
-P(y (cid:2) xˆ1, xˆ2)
+P(y xˆ1, xˆ2)
 cannot be computed if we treat the control variables X1 and X2 as a single compound
 variable X. The graph corresponding to such compounding would depict X as connected
 to Y by both an arrow and a curved arc (through U) and thus would form a bow pattern (see .9), which is indicative of nonidentifiability. Second, the causal effect
-P(y (cid:2) xˆ1)
+P(y xˆ1)
 in isolation is not identifiable because U1 creates a bow pattern around the link
 X S Z,
 which lies on a directed path from X to Y (see the discussion in Section 3.5).
@@ -9070,8 +8454,8 @@ which lies on a directed path from X to Y (see the discussion in Section 3.5).
 The feature that facilitates the identifiability of
 
 is the identifiability of
-P(y (cid:2) x1, z, xˆ2)
-(cid:2) x2) alone, conditioned on the
+P(y x1, z, xˆ2)
+x2) alone, conditioned on the
 observations available at the time of this action. This can be verified using the back-door
 blocks all back-door paths between X2 and Y. Thus, the
 criterion, observing that
@@ -9081,20 +8465,20 @@ can be readily proven by writing
 
 X1, Z
 
-P(y (cid:2) xˆ1, xˆ2)
+P(y xˆ1, xˆ2)
 
-P(y (cid:2) xˆ1, xˆ2)
+P(y xˆ1, xˆ2)
 
-P(y (cid:2) xˆ1, xˆ2) (cid:2) P(y (cid:2) x1, xˆ2)
+P(y xˆ1, xˆ2) P(y x1, xˆ2)
 
-(cid:2) a
+a
 z
-(cid:2) a
+a
 z
 
-P(y (cid:2) z, x1, xˆ2)P(z (cid:2) x1)
+P(y z, x1, xˆ2)P(z x1)
 
-P(y (cid:2) z, x1, x2)P(z (cid:2) x1),
+P(y z, x1, x2)P(z x1),
 
 (4.1)
 
@@ -9108,36 +8492,35 @@ that permit the application of these rules are shown in .5 (in Section 4.4.3).
 This derivation also highlights how conditional plans can be evaluated. Assume we
 . Following the
 
-(cid:2) x1), do (X2
+x1), do (X2
 
-(cid:2) g(x1, z))
+g(x1, z))
 
 wish to evaluate the effect of the plan
 analysis of Section 4.2, we write
 
 do(X1
 
-P(y (cid:2) do(X1
+P(y do(X1
 
-(cid:2) x1), do(X2
+x1), do(X2
 
-(cid:2) g(x1, z))) (cid:2) P(y (cid:2) x1, do(X2
+g(x1, z))) P(y x1, do(X2
 
-(cid:2) g(x1, z)))
+g(x1, z)))
 
-(cid:2) a
+a
 z
-(cid:2) a
+a
 z
 
-P(y (cid:2) z, x1, do(X2
+P(y z, x1, do(X2
 
-(cid:2) g(x1, z)))P(z (cid:2) x1)
+g(x1, z)))P(z x1)
 
-P(y (cid:2) z, x1, x2)P(z (cid:2) x1)(cid:2)
-x2
+P(y z, x1, x2)P(z x1)x2
 
-(cid:2)g(x1, z).
+g(x1, z).
 
 Again, the identifiability of this conditional plan rests on the identifiability of the exblocks all
 pression
@@ -9145,7 +8528,7 @@ back-door paths between X2 and Y. (See also Section 11.4.1.)
 
 which reduces to P(y ƒ z, x1, x2) because
 
-P(y (cid:2) z, x1, xˆ2),
+P(y z, x1, xˆ2),
 
 X1, Z
 
@@ -9170,20 +8553,18 @@ Notation
 
 , where
 
-(j (cid:8) 0)
+(j 0)
 
-A control problem consists of a directed acyclic graph (DAG) G with vertex set V, partitioned into four disjoint sets V (cid:2)
-
-X, Z, U, Y
-X (cid:2) the set of control variables (exposures, interventions, treatments, etc.);
-Z (cid:2) the set of observed variables, often called covariates;
-U (cid:2) the set of unobserved (latent) variables; and
-Y (cid:2) an outcome variable.
-We let the control variables be ordered X (cid:2) X1, X2,…, Xn such that every Xk is a nonin G, and we let the outcome Y be a descendant of Xn. Let Nk
-descendant of Xk (cid:6) j
+A control problem consists of a directed acyclic graph (DAG) G with vertex set V, partitioned into four disjoint sets V X, Z, U, Y
+X the set of control variables (exposures, interventions, treatments, etc.);
+Z the set of observed variables, often called covariates;
+U the set of unobserved (latent) variables; and
+Y an outcome variable.
+We let the control variables be ordered X X1, X2,…, Xn such that every Xk is a nonin G, and we let the outcome Y be a descendant of Xn. Let Nk
+descendant of Xk j
 Xk,
 stand for the set of observed nodes that are nondescendants of any element in the set
-Xk (cid:6) 1, … , Xn6
+Xk 1, … , Xn6
 of value assignments to
 the control variables, where means "Xk is set to xk." A conditional plan is an ordered
 where each gk is a function from a set Zk
@@ -9202,19 +8583,17 @@ are descendants of Xk in G.
 Our problem is to evaluate an unconditional plan6 by computing
 
 which represents the impact of the plan
-P(y (cid:2) xˆ1, xˆ2, p , xˆn)
+P(y xˆ1, xˆ2, p , xˆn)
 expression
 (xˆ1, xˆ2, p , xˆn),
 ment
 bution of the observables
 xˆ1, xˆ2, p , xˆn)
 
-P(y (cid:2) xˆ1, xˆ2, p , xˆn),
+P(y xˆ1, xˆ2, p , xˆn),
 on the outcome variable Y. The
 is said to be identifiable in G if, for every assignthe expression can be determined uniquely from the joint distri-
-P(y (cid:2)
-
-(xˆ1, p , xˆn)
+P(y (xˆ1, p , xˆn)
 
 . A control problem is identifiable whenever
 X, Y, Z
@@ -9231,12 +8610,12 @@ GX
 by deleting from G all arrows pointing to (emerging from) nodes in X. To represent the
 deletion of both incoming and outgoing arrows, we use the notation
 Finally, the
-P(z (cid:2) xˆ)
-P(y (cid:2) xˆ, z) (cid:2) P(y, z (cid:2) xˆ)
-stands for the probability of Y (cid:2) y given that
+P(z xˆ)
+P(y xˆ, z) P(y, z xˆ)
+stands for the probability of Y y given that
 expression
 >
-Z (cid:2) z is observed and X is held constant at x.
+Z z is observed and X is held constant at x.
 
 GXZ.
 
@@ -9252,27 +8631,25 @@ Zk of covariates satisfying the following (sequential back-door) conditions:
 
 is identifiable if, for every
 
-P(y (cid:2) xˆ1, p , xˆn)
+P(y xˆ1, p , xˆn)
 
-1 (cid:7) k (cid:7) n,
+1 k n,
 
 there exists a set
 
 Zk
 
-(cid:4) Nk,
+Nk,
 
 (4.4)
 
 (i.e., Zk consists of nondescendants of
 
-Xk, Xk (cid:6) 1, … , Xn6
+Xk, Xk 1, … , Xn6
 
 ) and
 
 6 Conditional plans are analyzed in Section 11.4.1, using repeated applications of Theorem 4.4.1.
-
-Actions, Plans, and Direct Effects
 
 .5 The two subgraphs of G used in testing the identifiability of the plan
 ure 4.4.
@@ -9281,61 +8658,55 @@ ure 4.4.
 
 in Fig-
 
-(Y(cid:3)(cid:3) Xk (cid:2) X1, p , Xk(cid:10)1, Z1, Z2, p , Zk)
+(YXk X1, p , Xk1, Z1, Z2, p , Zk)
 
-GX k, Xk (cid:6) 1,p Xn
+GX k, Xk 1,p Xn
 
 .
 
 When these conditions are satisfied, the effect of the plan is given by
 
-P(y (cid:2) xˆ 1, p , xˆ n) (cid:2) a
+P(y xˆ 1, p , xˆ n) a
 
-P(y (cid:2) z1, p , zn, x1, p , xn)
+P(y z1, p , zn, x1, p , xn)
 
 z1, ..., zn
 n
-(cid:9) q
-k(cid:2)1
+q
+k1
 
-P(zk (cid:2) z1, p , zk(cid:10)1, x1, p , xk(cid:10)1).
+P(zk z1, p , zk1, x1, p , xk1).
 
 (4.5)
 
 (4.6)
 
 Before presenting its proof, let us demonstrate how Theorem 4.4.1 can be used to test the
-P(y (cid:2)
-identifiability of the control problem shown in .4. First, we will show that
-(cid:2)
+P(y identifiability of the control problem shown in .4. First, we will show that
 xˆ1, xˆ2)
 Z1
 cannot be identified without measuring Z; in other words, that the sequence
-(cid:2) 0
 0, Z2
 in (4.5) are
 
 would not satisfy conditions (4.4)–(4.5). The two d-separation tests encoded
 
-(Y(cid:3)(cid:3) X1)GX1, X2
+(YX1)GX1, X2
 
 and
 
-(Y(cid:3)(cid:3)X2 (cid:2) X1)GX2
+(YX2 X1)GX2
 .
 
 GX1, X2
 
 but that
-(cid:2)
-
 The two subgraphs associated with these tests are shown in .5. We see that
-(Y(cid:3)(cid:3)X1)
-(Y(cid:3)(cid:3)X2 (cid:2) X1)
+(YX1)
+(YX2 X1)
 fails to hold in
 . Thus, in order to pass the
 holds in
-(cid:2)
 ; since Z is a descendant of X1, only the
 or Z2
 test, we must have either Z1
@@ -9343,12 +8714,12 @@ Z
 Z
 second alternative satisfies (4.4). The tests applicable to the sequence
 Z
-(Y(cid:3)(cid:3) X2 (cid:2) X1, Z)GX2
+(YX2 X1, Z)GX2
 .5 shows that both tests are now
 are
 X1, Z
 
-(Y(cid:3)(cid:3) X1)GX1, X2
+(YX1)GX1, X2
 satisfied, because
 (4.4)–(4.5), equation (4.6) provides a formula for the effect of plan
 
@@ -9357,7 +8728,7 @@ on Y:
 
 d-separates Y from X2 in
 
-(cid:2) 0,
+0,
 
 GX2
 
@@ -9369,18 +8740,16 @@ Z2
 
 Z1
 
-(cid:2)
-
 .
 
 .
 
 (xˆ1, xˆ2)
 
-P(y (cid:2) xˆ1, xˆ2) (cid:2) a
+P(y xˆ1, xˆ2) a
 z
 
-P(y (cid:2) z, x1, x2)P(z (cid:2) x1),
+P(y z, x1, x2)P(z x1),
 
 which coincides with (4.3).
 
@@ -9395,9 +8764,7 @@ Z
 
 Z1
 
-(cid:2) 0, Z2
-
-(cid:2)
+0, Z2
 
 4.4 The Identification of Plans
 
@@ -9411,21 +8778,21 @@ Therefore, we have
 
 for all
 
-j (cid:11) k.
+j k.
 
-(cid:4) Nj
+Nj
 Zk
 Step 1. The condition
-P(zk (cid:2) z1, p , zk(cid:10)1, x1, p , xk(cid:10)1, xˆk, xˆk(cid:6)1, p , xˆn)
+P(zk z1, p , zk1, x1, p , xk1, xˆk, xˆk1, p , xˆn)
 
-(cid:4) Nk
+Nk
 
 Zk
 
-(cid:2) P(zk (cid:2) z1, p , zk(cid:10)1, x1, p , xk(cid:10)1).
+P(zk z1, p , zk1, x1, p , xk1).
 
 This is so because no node in
-Z1, … , Zk, X1, … , Xk(cid:10)16
+Z1, … , Zk, X1, … , Xk16
 in
 
 can be a descendant of any node
@@ -9433,35 +8800,35 @@ can be a descendant of any node
 
 Xk, …, Xn6
 Step 2. The condition in (4.5) permits us to invoke Rule 2 and write:
-P(y (cid:2) z1, p , zk, x1, p , xk(cid:10)1, xˆk, xˆk(cid:6)1, p , xˆn)
+P(y z1, p , zk, x1, p , xk1, xˆk, xˆk1, p , xˆn)
 
-(cid:2) P(y (cid:2) z1, p , zk, x1, p , xk(cid:10)1, xk, xˆk(cid:6)1, p , xˆn).
+P(y z1, p , zk, x1, p , xk1, xk, xˆk1, p , xˆn).
 
 Thus, we have
 
-P(y (cid:2) xˆ1, p , xˆn)
+P(y xˆ1, p , xˆn)
 
-(cid:2) a
+a
 z1
 
-(cid:2) a
+a
 z1
 
-P(y (cid:2) z1, xˆ1, xˆ2, p , xˆn)P(z1 (cid:2) xˆ1, p , xˆn)
+P(y z1, xˆ1, xˆ2, p , xˆn)P(z1 xˆ1, p , xˆn)
 
-P(y (cid:2) z1, x1, xˆ2, p , xˆn)P(z1)
+P(y z1, x1, xˆ2, p , xˆn)P(z1)
 
-P(y (cid:2) z1, z2, x1, xˆ2, p , xˆn)P(z1)P(z2) (cid:2) z1, x1, xˆ2, p , xˆn)
+P(y z1, z2, x1, xˆ2, p , xˆn)P(z1)P(z2) z1, x1, xˆ2, p , xˆn)
 
-P(y (cid:2) z1, z2, x1, x2, xˆ3, p , xˆn)P(z1)P(z2) (cid:2) z1, x1)
+P(y z1, z2, x1, x2, xˆ3, p , xˆn)P(z1)P(z2) z1, x1)
 
-(cid:2) a
+a
 z2
 
 a
 z1
 
-(cid:2) a
+a
 z2
 
 a
@@ -9472,24 +8839,24 @@ o
 L a
 z2
 
-P(y (cid:2) z1, p , zn, x1, p , xn)
+P(y z1, p , zn, x1, p , xn)
 
-(cid:2) a
+a
 zn
-(cid:9) P(z1)P(z2 (cid:2) z1, x1) L P(zn (cid:2) z1, x1, z2, x2, p , zn(cid:10)1, xn(cid:10)1)
+P(z1)P(z2 z1, x1) L P(zn z1, x1, z2, x2, p , zn1, xn1)
 
 a
 z1
 
-(cid:2) a
+a
 
 z1, p, zn
 
 n
-P(y (cid:2) z1, p , zn, x1, p , xn) q
-k(cid:2)1
+P(y z1, p , zn, x1, p , xn) q
+k1
 
-P(zk (cid:2) z1, p , zk(cid:10)1, x1, p , xk(cid:10)1).
+P(zk z1, p , zk1, x1, p , xk1).
 
 n
 
@@ -9499,29 +8866,25 @@ called admissible, and any expression
 that is identifiable by the
 criterion of Theorem 4.4.1 will be called G-identifiable.7
 
-P(y (cid:2) xˆ1, xˆ2, p , xˆn)
+P(y xˆ1, xˆ2, p , xˆn)
 
 7 Note that admissibility (4.5) requires that each subsequence
 
-X1, p , Xk(cid:10)1, Z1, p , Zk
+X1, p , Xk1, Z1, p , Zk
 
 blocks every
 
 "action-avoiding" back-door path from Xk to Y (see page 103).
 
-Actions, Plans, and Direct Effects
-
-(cid:2) W that rules out
+W that rules out
 .6 An admissible choice Z1
-(cid:2) 0
 any admissible choice for Z2. The choice
 would
-(cid:2)
 (Z1
 permit the construction of an admissible sequence
 0, Z2
 
-(cid:2) 0).
+0).
 
 Z1
 
@@ -9534,7 +8897,7 @@ Note that, despite the completeness of do-calculus, the property of G-identifiab
 sufficient but not necessary for general plan identifiability as defined in Section 4.4.2.
 The reason is that the kth step in the reduction of (4.6) refrains from conditioning on
 variables Zk that are descendants of Xk – namely, variables that may be affected by the
-(cid:2) xk). In certain causal structures, the identifiability of causal effects
+xk). In certain causal structures, the identifiability of causal effects
 action do(Xk
 requires that we condition on such variables, as demonstrated by the front-door criterion
 (Theorem 3.3.4).
@@ -9553,37 +8916,34 @@ reduction sequence is feasible.
 
 Z1
 
-(cid:2) Z2
+Z2
 
 This is illustrated in .6. Here W is an admissible choice for Z1, but if we
 make this choice then we will not be able to complete the reduction, since no set Z2
 can be found that satisfies condition (4.5):
 In this example it
-(cid:2) 0,
+0,
 would be wiser to choose
 and
-(Y(cid:3)(cid:3) X2 (cid:2) X1, 0)GX2
+(YX2 X1, 0)GX2
 
-(Y(cid:3)(cid:3)X2 (cid:2) X1, W, Z2)GX2
+(YX2 X1, W, Z2)GX2
 which satisfies both
 
-(Y(cid:3)(cid:3) X1 (cid:2) 0)GX1, X2
+(YX1 0)GX1, X2
 
 The obvious way to avoid bad choices of covariates, like the one illustrated in Figure 4.6, is to insist on always choosing a "minimal" Zk, namely, a set of covariates satisfying (4.5) that has no proper subset satisfying (4.5). However, since there are usually
 many such minimal sets (see .7), the question remains of whether every choice
 of a minimal Zk is "safe": Can we be sure that no choice of a minimal subsequence
-Z1, … , Zk will ever prevent us from finding an admissible Zk(cid:6)1 when some admissible
+Z1, … , Zk will ever prevent us from finding an admissible Zk1 when some admissible
 sequence Z1*, … , Zn* exists?
 
 4.4 The Identification of Plans
 
 .7 Nonuniqueness of minimal admissible sets: Z1 and
-Z(cid:3)
-and
+Zand
 1 are each minimal and admissible, since
-(Y(cid:3)(cid:3)X1 (cid:2) Z(cid:3)
-
-(Y (cid:3)(cid:3) X1 (cid:2) Z1)
+(YX1 Z(Y X1 Z1)
 
 both hold in
 
@@ -9599,7 +8959,7 @@ hence provides an effective test for G-identifiability.
 
 Theorem 4.4.4
 If there exists an admissible sequence Z 1*…, Zn* then, for every minimally admissible
-subsequence Z1, … , Zk(cid:10)1 of covariates, there is an admissible set Zk.
+subsequence Z1, … , Zk1 of covariates, there is an admissible set Zk.
 
 A proof is given in Pearl and Robins (1995).
 
@@ -9610,19 +8970,19 @@ as follows.
 Corollary 4.4.5
 A control problem is G-identifiable if and only if the following algorithm exits with success.
 
-1. Set k (cid:2) 1.
+1. Set k 1.
 2. Choose any minimal
 3.
 4.
 
 Zk
 
-(cid:4) Nk
+Nk
 
 satisfying (4.5).
 
-If no such Zk exists then exit with failure; else set k (cid:2) k (cid:6) 1.
-If k (cid:2) n (cid:6) 1 then exit with success; else return to step 2.
+If no such Zk exists then exit with failure; else set k k 1.
+If k n 1 then exit with success; else return to step 2.
 
 A further variant of Theorem 4.4.4 can be stated that avoids the search for minimal sets Zk.
 This follows from the realization that, if an admissible sequence exists, we can rewrite
@@ -9633,18 +8993,18 @@ Theorem 4.4.6
 The probability
 holds for every
 
-P(y (cid:2) xˆ1, p , xˆn)
-1 (cid:7) k (cid:7) n:
+P(y xˆ1, p , xˆn)
+1 k n:
 
 is G-identifiable if and only if the following condition
 
-(Y(cid:3)(cid:3) Xk (cid:2) X1, p , Xk (cid:10) 1, W1, W2, p , Wk)
+(YXk X1, p , Xk 1, W1, W2, p , Wk)
 
-GX k, Xk (cid:6) 1,p , Xn
+GX k, Xk 1,p , Xn
 
 ,
 
-Xk, Xk(cid:6)1, … ,
+Xk, Xk1, … ,
 where Wk is the set of all covariates in G that are both nondescendants of
 Moreover, if this condition
 Xn6
@@ -9652,24 +9012,22 @@ is satisfied then the plan evaluates as
 
 and have either Y or Xk as descendant in
 
-GX k, Xk(cid:6)1,p, Xn
+GX k, Xk1,p, Xn
 
 .
 
-P(y (cid:2) xˆ 1, p , xˆ n) (cid:2) a
+P(y xˆ 1, p , xˆ n) a
 
-P(y (cid:2) w1, p , wn, x1, p , xn)
+P(y w1, p , wn, x1, p , xn)
 
 w1, p , wn
 n
-(cid:9) q
-k(cid:2)1
+q
+k1
 
-P(wk (cid:2) w1, p , wk(cid:10)1, x1, p , xk(cid:10)1).
+P(wk w1, p , wk1, x1, p , xk1).
 
 (4.8)
-
-Actions, Plans, and Direct Effects
 
 .8 Causal diagram G in which proper ordering of the control variables X1 and X2 is
 important.
@@ -9687,7 +9045,7 @@ as before, but no admissible sequence can be found for the
 admissible sequence
 in which (according
 ordering (X2, X1). This can be seen immediately from the graph
-to (4.5) with k (cid:2) 1) we need to find a set Z such that
+to (4.5) with k 1) we need to find a set Z such that
 d-separates Y from X1. No
 such set exists.
 
@@ -9716,7 +9074,7 @@ plan is not G-identifiable. The graphical criteria of Shpitser and Pearl (2006b)
 
 4.5.1 Direct versus Total Effects
 
-P(y (cid:2) xˆ),
+P(y xˆ),
 
 measures the total effect of a vari-
 The causal effect we have analyzed so far,
@@ -9773,7 +9131,7 @@ Definition 4.5.1 (Direct Effect)
 The direct effect of X on Y is given by
 nous variables except X and Y in the system.
 
-P(y (cid:2) xˆ, sˆXY),
+P(y xˆ, sˆXY),
 
 where SXY is the set of all endoge-
 
@@ -9782,25 +9140,17 @@ diagram or of which variables are truly intermediaries between X and Y. Much of 
 For one thing, there is no need to actually hold all other variables constant; holding constant the direct parents of Y (excluding X) should suffice. Thus, we obtain the following
 equivalent definition of a direct effect.
 
-Actions, Plans, and Direct Effects
-
 Corollary 4.5.2
 The direct effect of X on Y is given by
 realization of the parents of Y, excluding X.
 
-P(y (cid:2) xˆ, paY \ X)
-
-(cid:3)
+P(y xˆ, paY \ X)
 
 where paY\X stands for any
 
-(cid:3)
+P(y paY)
 
-(cid:3)
-
-P(y (cid:2) paY)
-
-P(y (cid:2) xˆ, paY \ X)
+P(y xˆ, paY \ X)
 
 Clearly, if X does not appear in the equation for Y (equivalently, if X is not a parent of Y),
 then
@@ -9812,8 +9162,6 @@ corresponds to a plan in which the parents of Y are the control variables, we co
 that a direct effect is identifiable whenever the effect of the corresponding parents' plan
 is identifiable. We can now use the analysis of Section 4.4 and apply the graphical criteria of Theorems 4.4.1 and 4.4.6 to the analysis of direct effects. In particular, we can
 state our next theorem.
-
-(cid:2)
 
 Theorem 4.5.3
 Let PAY
@@ -9863,14 +9211,14 @@ discrimination study. Adjusting for department choice (X2)
 or career objective (Z) (or both) would be inappropriate in
 estimating the direct effect of gender on admission. The appropriate adjustment is given in (4.10).
 
-(cid:2) applicant's gender;
-(cid:2) applicant's choice of department;
+applicant's gender;
+applicant's choice of department;
 
 X1
 X2
-Z (cid:2) applicant's (pre-enrollment) career objectives;
-Y (cid:2) admission outcome (accept/reject);
-U (cid:2) applicant's aptitude (unrecorded).
+Z applicant's (pre-enrollment) career objectives;
+Y admission outcome (accept/reject);
+U applicant's aptitude (unrecorded).
 
 Note that U affects applicant's career objective and also the admission outcome Y (say,
 through verbal skills (unrecorded)).
@@ -9879,17 +9227,17 @@ Adjusting for department choice amounts to computing the following expression:
 
 Ex2
 
-P(y (cid:2) xˆ1, x2) (cid:2) a
+P(y xˆ1, x2) a
 x2
 
-P(y (cid:2) x1, x2)P(x2).
+P(y x1, x2)P(x2).
 
 In contrast, the direct effect of X1 on Y, as given by (4.7), reads
 
-P(y (cid:2) xˆ1, xˆ2) (cid:2) a
+P(y xˆ1, xˆ2) a
 z
 
-P(y (cid:2) z, x1, x2)P(z (cid:2) x1).
+P(y z, x1, x2)P(z x1).
 
 (4.9)
 
@@ -9911,13 +9259,11 @@ be accused of sex discrimination.
 
 8 Hint: Factorize
 
-P(y, u, z (cid:2) xˆ1, xˆ2)
+P(y, u, z xˆ1, xˆ2)
 
 using the independencies in the graph and eliminate u as in the
 
 derivation of (3.27). Cole and Hernán (2002) present examples in epidemiology.
-
-Actions, Plans, and Direct Effects
 
 Table 4.1. Admission Rate among Males and Females in Each Department
 
@@ -9957,7 +9303,7 @@ male applicants apply to department A, while all females apply to department B (
 Table 4.1).
 
 We see from the table that adjusting for department would falsely indicate a bias of
-37.5:25 ((cid:2) 3:2) in favor of female applicants. An unadjusted (sometimes called "crude")
+37.5:25 (3:2) in favor of female applicants. An unadjusted (sometimes called "crude")
 analysis happens to give the correct result in this example – a 50% admission rate for males
 and females alike – thus exonerating the school from charges of sex discrimination.
 
@@ -9970,9 +9316,7 @@ same relation to Q as Z stands to U in .9.
 
 4.5.4 Natural Direct Effects
 
-(cid:3)
-
-E(Y (cid:2) xˆ, paY \ X)
+E(Y xˆ, paY \ X)
 
 Readers versed in structural equation models (SEMs) will note that, in linear systems,
 the direct effect
@@ -9990,18 +9334,14 @@ without reference to specific departments, we should replace the controlled diff
 
 4.5 Direct and Indirect Effects
 
-P(admission (cid:2) male, dept) (cid:10) P(admission (cid:2) female, dept)
-
-(cid:3)(cid:3)
-
-(cid:3)(cid:3)
+P(admission male, dept) P(admission female, dept)
 
 with some average of this difference over all departments. This average should measure
 the increase in admission rate in a hypothetical experiment in which we instruct all
 female candidates to retain their department preferences but change their gender identification (on the application form) from female to male.
 
-Conceptually, we can define the average direct effect DEx, x(cid:3)(Y) as the expected
-change in Y induced by changing X from x to x(cid:3) while keeping all mediating factors constant at whatever value they would have obtained under do(x). This hypothetical change,
+Conceptually, we can define the average direct effect DEx, x(Y) as the expected
+change in Y induced by changing X from x to xwhile keeping all mediating factors constant at whatever value they would have obtained under do(x). This hypothetical change,
 which Robins and Greenland (1991) called "pure" and Pearl (2001c) called "natural," is
 precisely what lawmakers instruct us to consider in race or sex discrimination cases:
 "The central question in any employment-discrimination case is whether the employer
@@ -10013,21 +9353,21 @@ Using the parenthetical notation of equation 3.51, Pearl (2001c) gave the follow
 
 definition for the "natural direct effect":
 
-DEx,x(cid:3)(Y ) (cid:2) E[(Y(x(cid:3), Z(x))) (cid:10) E(Y(x)].
+DEx,x(Y ) E[(Y(x, Z(x))) E(Y(x)].
 
 (4.11)
 
-Here, Z represents all parents of Y excluding X, and the expression Y(x(cid:3), Z(x)) represents
-the value that Y would attain under the operation of setting X to x(cid:3) and, simultaneously,
-setting Z to whatever value it would have obtained under the setting X (cid:2) x. We see that
-DEx, x(cid:3)(Y), the natural direct effect of the transition from x to x(cid:3), involves probabilities of
+Here, Z represents all parents of Y excluding X, and the expression Y(x, Z(x)) represents
+the value that Y would attain under the operation of setting X to xand, simultaneously,
+setting Z to whatever value it would have obtained under the setting X x. We see that
+DEx, x(Y), the natural direct effect of the transition from x to x, involves probabilities of
 nested counterfactuals and cannot be written in terms of the do(x) operator. Therefore,
 the natural direct effect cannot in general be identified, even with the help of ideal, controlled experiments (see Robins and Greenland 1992 and Section 7.1 for intuitive explanation). Pearl (2001c) has nevertheless shown that, if certain assumptions of "no confounding" are deemed valid,9 the natural direct effect can be reduced to
 
-DEx, x(cid:3)(Y ) (cid:2) a
+DEx, x(Y ) a
 z
 
-[E(Y (cid:2) do(x(cid:3), z)) (cid:10) E(Y (cid:2) do(x, z))] P(z (cid:2) do(x)).
+[E(Y do(x, z)) E(Y do(x, z))] P(z do(x)).
 
 (4.12)
 
@@ -10038,30 +9378,28 @@ control-specific plans,
 
 , become applicable.
 
-P( y (cid:2) xˆ1, xˆ2, p , xˆn)
+P( y xˆ1, xˆ2, p , xˆn)
 
 In particular, expression (4.12) is both valid and identifiable in Markovian models,
 
 where all do-operators can be eliminated using Corollary 3.2.6; for example,
 
-P(z (cid:2) do(x)) (cid:2) a
+P(z do(x)) a
 t
 
-P(z (cid:2) x, paX
+P(z x, paX
 
-(cid:2) t) P( paX
+t) P( paX
 
-(cid:2) t)
+t)
 
 (4.13)
 
 9 One sufficient condition is that
-Z(x) (cid:3)(cid:3) Y(x(cid:3), z) (cid:2) W
+Z(x) Y(x, z) W
 See details and graphical criteria in Pearl (2001c, 2005a) and in Petersen et al. (2006).
 
 holds for some set W of measured covariates.
-
-Actions, Plans, and Direct Effects
 
 4.5.5 Indirect Effects and the Mediation Formula
 
@@ -10070,10 +9408,10 @@ and provide an operational definition for the indirect effect – a concept shro
 mystery and controversy, because it is impossible, using the do(x) operator, to disable
 the direct link from X to Y so as to let X influence Y solely via indirect paths.
 
-The natural indirect effect, IE, of the transition from x to x(cid:2) is defined as the expected
-change in Y affected by holding X constant, at X (cid:3) x, and changing Z to whatever value
-it would have attained had X been set to X (cid:3) x(cid:2). Formally, this reads (Pearl 2001c):
-IEx, x(cid:2)(Y ) (cid:2) E[(Y(x, Z(x(cid:2)))) (cid:4) E(Y(x))],
+The natural indirect effect, IE, of the transition from x to xis defined as the expected
+change in Y affected by holding X constant, at X x, and changing Z to whatever value
+it would have attained had X been set to X x. Formally, this reads (Pearl 2001c):
+IEx, x(Y ) E[(Y(x, Z(x))) E(Y(x))],
 
 (4.14)
 
@@ -10081,16 +9419,16 @@ We see that, in general, the total effect TE of a transition is equal to the dif
 
 between the direct effect of that transition and the indirect effect of the reverse transition:
 
-TEx, x(cid:2)(Y ) (cid:2) E(Y(x(cid:2)) (cid:4) Y(x))
+TEx, x(Y ) E(Y(x) Y(x))
 
-(cid:3) DEx, x(cid:2)(Y ) (cid:4) IEx(cid:2), x(Y ).
+DEx, x(Y ) IEx, x(Y ).
 
 (4.15)
 
 In linear models, where reversal of transitions amounts to negating the signs of their
 effects, (4.15) provides a formal justification for the standard additive formula
 
-TEx, x(cid:2)(Y ) (cid:3) DEx, x(cid:2)(Y) (cid:5) IEx, x(cid:2)(Y ).
+TEx, x(Y ) DEx, x(Y) IEx, x(Y ).
 
 (4.16)
 
@@ -10098,15 +9436,15 @@ In the simple case of unconfounded mediators, the natural direct and indirect ef
 
 are estimable through two regression equations called the Mediation Formula:
 
-DEx, x(cid:2)(Y ) (cid:3) a
+DEx, x(Y ) a
 z
 
-[E(Y |x(cid:2), z) (cid:4) E(Y| x, z)]P(z|x).
+[E(Y |x, z) E(Y| x, z)]P(z|x).
 
-IEx, x(cid:2)(Y ) (cid:3) a
+IEx, x(Y ) a
 z
 
-E(Y|x , z) [P(z|x(cid:2)) (cid:4) P(z|x)]
+E(Y|x , z) [P(z|x) P(z|x)]
 
 (4.17)
 
@@ -10142,8 +9480,6 @@ unless they have agreed?
 
 Amos 3:3
 
-Preface
-
 Structural equation modeling (SEM) has dominated causal analysis in economics and
 the social sciences since the 1950s, yet the prevailing interpretation of SEM differs substantially from the one intended by its originators and also from the one expounded in
 this book. Instead of carriers of substantive causal information, structural equations are
@@ -10169,8 +9505,6 @@ the statistical content of a structural model can be fully characterized by a se
 off the graph using the d-separation criterion, which in linear models applies to graphs
 with cycles and correlated errors as well (Section 5.2). The application of this criterion
 to model testing is discussed in Section 5.2.2, which advocates local over global testing
-
-Causality and Structural Models in Social Science and Economics
 
 strategies. Section 5.2.3 provides simple graphical tests of model equivalence and thus
 clarifies the nontestable part of structural models.
@@ -10244,19 +9578,15 @@ relationship between x and can ever change this interpretation of Amazingly, thi
 basic understanding of SEM has all but disappeared from the literature, leaving modern
 econometricians and social scientists in a quandary over
 
-y (cid:2) (cid:2)x (cid:3) e
+y x e
 
-(cid:2).
+.
 
-(cid:2).
-
-(cid:2)
+.
 
 e
 
-y (cid:2) (cid:2)x (cid:3) e
-
-cov(x, e) (cid:2) 0.
+cov(x, e) 0.
 
 Most SEM researchers today are of the opinion that extra ingredients are necessary
 for structural equations to qualify as carriers of causal claims. Among social scientists,
@@ -10275,17 +9605,11 @@ is neither necessary nor sufficient for the causal interpretation
 condition
 
 is defined in terms of
-cov(x, e) (cid:2) 0
+cov(x, e) 0
 
-(cid:2),
-
-(cid:2)
+,
 
 e
-
-Causality and Structural Models in Social Science and Economics
-
-(cid:2)
 
 (see Sections 3.6.2 and 5.4.1).2 It is therefore not surprising that many SEM textof
 books have given up on causal interpretation altogether: "We often see the terms
@@ -10304,25 +9628,20 @@ information superfluous. Hendry (1995, p. 62), for instance, explicitly tied the
 
 to the orthogonality condition, stating as follows:
 
-(cid:2)
-
-(cid:2)
-
 the status of may be unclear until the conditions needed to estimate the postulated model
 are specified. For example, in the model:
 
 yt
 
-(cid:2) zt (cid:2) (cid:3) ut
+zt ut
 
 where
 
 ut
 
-(cid:2) IN[0, s2
+IN[0, s2
 u],
 
-(cid:2)
 until the relationship between zt and ut is specified the meaning of
 E[zt ut] could be either zero or nonzero on the information provided.
 
@@ -10347,22 +9666,14 @@ in the regression equation
 causal meaning and endeavors to prove that the assumptions she proposes are indeed
 sufficient. What is revealing in Cartwright's analysis is that she does not consider the answer Haavelmo would have provided – namely, that the assumptions needed for drawing
 
-y (cid:2) (cid:2)x (cid:3) e
-
-(cid:2)
-
 2 In fact, this condition is not necessary even for the identification of
 in Figures 5.7 and 5.9).
 
 the identification of
 
-(cid:3)
-
-(cid:2),
+,
 
 once
-
-(cid:2)
 
 is interpreted (see
 
@@ -10383,7 +9694,7 @@ What does it mean? The only meaning I
 have ever determined for such an equation is that it is a shorthand way of describing the
 conditional distribution of
 
-5 y (cid:2) a (cid:3) bx (cid:3) e
+5 y a bx e
 
 given
 
@@ -10424,14 +9735,12 @@ is testable in experimental settings, where interventions are feasible (Section 
 x
 y
 "In an ideal experiment where we control X to x and any other set Z of variables (not containing X
-a (cid:3) bx (cid:3) e,
-where (cid:4) is a random variable that is (pointor Y) to z, Y will attain a value y given by
+a bx e,
+where is a random variable that is (pointor Y) to z, Y will attain a value y given by
 wise) independent of the settings x and z" (see Section 5.4.1). This statement implies that E[Y ƒ
-do(x), do(z)] (cid:2) a (cid:3) bx (cid:3) c but says nothing about E(Y ƒ X (cid:2) x).
+do(x), do(z)] a bx c but says nothing about E(Y ƒ X x).
 
 given
-
-Causality and Structural Models in Social Science and Economics
 
 1. SEM practitioners have sought to gain respectability for SEM by keeping causal
 assumptions implicit, since statisticians, the arbiters of respectability, abhor assumptions that are not directly testable.
@@ -10514,8 +9823,6 @@ necessary nor sufficient, as readers can verify from the discussion in Chapter 3
 
 reading to the associations involved; see Section 6.1.
 
-Causality and Structural Models in Social Science and Economics
-
 5.2 GRAPHS AND MODEL TESTING
 
 In 1919, Wright developed his "method of path coefficients," which allows researchers
@@ -10558,7 +9865,7 @@ The graphs we discuss in this chapter represent sets of structural equations of 
 
 xi
 
-(cid:2) fi ( pai, ei), i (cid:2) 1, p , n,
+fi ( pai, ei), i 1, p , n,
 
 (5.1)
 
@@ -10570,18 +9877,14 @@ ei
 
 xi
 
-(cid:2) a
-k(cid:5)i
-
-(cid:3)
+a
+ki
 
 ik xk
 
-(cid:3) ei, i (cid:2) 1, p , n,
+ei, i 1, p , n,
 
 (5.2)
-
-5.2 Graphs and Model Testing
 
 in which pai correspond to those variables on the r.h.s. of (5.2) that have nonzero coefficients. A set of equations in the form of (5.1) will be called a causal model if each
 equation represents the process by which the value (not merely the probability) of variable Xi is selected. The graph G obtained by drawing an arrow from every member of
@@ -10612,10 +9915,9 @@ are multivariate normal (a common assumption in the SEM literature), then
 the Xi in (5.2) will also be multivariate normal and will be fully characterized by the cor-
 A useful property of multivariate normal distributions is that the
 relation coefficients
-X (cid:3) z ,
+X z ,
 conditional variance
-and conditional correlation coefficient (cid:4)
-XY|z are all independent of the value z. These are known as partial variance,
+and conditional correlation coefficient XY|z are all independent of the value z. These are known as partial variance,
 covariance, and correlation coefficient and are denoted by
 (respectively), where X and Y are single variables and Z is a set of variables. Moreover, the partial
 correlation coefficient
@@ -10626,7 +9928,7 @@ conditional covariance
 
 sX# Z, sX Y# Z,
 
-(X (cid:2)(cid:2) Y (cid:3) Z)
+(X Y Z)
 
 rXY#Z
 is zero if and only if
@@ -10634,13 +9936,13 @@ The partial regression coefficient is given by
 
 rX Y# Z
 
-sXY (cid:3) z,
+sXY z,
 
 and
 
 rYX#Z
 
-(cid:2) rYX#Z
+rYX#Z
 
 sY#Z
 sX#Z
@@ -10650,13 +9952,13 @@ sX#Z
 it is equal to the coefficient of X in the linear regression of Y on X and Z (the order of
 the subscripts is essential). In other words, the coefficient of x in the regression equation
 
-y (cid:2) ax (cid:3) b1z1
+y ax b1z1
 
-(cid:3) L (cid:3) bk zk
+L bk zk
 
 is given by
 
-a (cid:2) rYX # Z1 Z2
+a rYX # Z1 Z2
 
 p
 
@@ -10671,8 +9973,6 @@ Markovian models (the parallel term in the SEM literature is recursive models;7 
 1989) satisfy the Markov property of Theorem 1.2.7; as a result, the statistical parameters
 
 7 The term recursive is ambiguous; some authors exclude correlated errors, but others do not.
-
-Causality and Structural Models in Social Science and Economics
 
 of Markovian models can be estimated by ordinary regression analysis. In particular, the
 d-separation criterion is valid in such models (here we restate Theorem 1.2.4).
@@ -10703,8 +10003,7 @@ moreover, that the validity is preserved when the network contains cycles (Spirt
 
 Theorem 5.2.3 (d-Separation in General Linear Models)
 For any linear model structured according to a diagram D, which may include cycles
-and bidirected arcs, the partial correlation (cid:4)
-XY . Z vanishes if the nodes corresponding to
+and bidirected arcs, the partial correlation XY . Z vanishes if the nodes corresponding to
 the set of variables Z d-separate node X from node Y in D. (Each bidirected arc i > – – N j
 is interpreted as a latent common parent
 
@@ -10720,12 +10019,8 @@ and scoring those estimates for fit to the data, we can directly test for each z
 correlation implied by the free model. The advantages of using such tests were noted by
 Shipley (1997), who also devised implementations of these tests.
 
-(cid:3)
-
 However, the question arises of whether it is feasible to test for the vast number of
 zero partial correlations entailed by a given model. Fortunately, these partial correlations
-
-5.2 Graphs and Model Testing
 
 .1 Model testable with two regressors for each missing link
 (equation (5.3)).
@@ -10738,12 +10033,10 @@ Let S be a set of partial correlations. A basis B for S is a set of zero partial
 where (i) B implies (using the laws of probability) the zero of every element of S and
 (ii) no proper subset of B sustains such implication.
 
-B (cid:2)
-
-rij # pai
+B rij # pai
 
 An obvious choice of a basis for the zero partial correlations entailed by a DAG D is the
-(cid:2) 0 (cid:3) i (cid:6) j
+0 i j
 set of equalities
 where i ranges over all nodes in D and j
 ,
@@ -10757,7 +10050,7 @@ select a more economical basis, as shown in the next theorem.8
 Theorem 5.2.5 (Graphical Basis)
 Let (i, j) be a pair of nonadjacent nodes in a DAG D, and let Zij be any set of nodes that
 are closer to i than j is to i and such that Zij d-separates i from j. The set of zero partial
-(cid:2) 0 (cid:3) i (cid:6) j
+0 i j
 ,
 correlations
 consisting of one element per nonadjacent pair,
@@ -10765,9 +10058,7 @@ constitutes a basis for the set of all zero partial correlations entailed by D.
 
 rij # Z ij
 
-B (cid:2)
-
-Theorem 5.2.5 states that the set of zero partial correlations corresponding to any separation between nonadjacent nodes in the diagram encapsulates all the statistical information
+B Theorem 5.2.5 states that the set of zero partial correlations corresponding to any separation between nonadjacent nodes in the diagram encapsulates all the statistical information
 conveyed by a linear Markovian model. A proof of Theorem 5.2.5 is given in Pearl and
 Meshkat (1999).
 
@@ -10775,35 +10066,27 @@ Examining .1, we see that each of following two sets forms a basis for the
 
 model in the figure:
 
-(cid:2)
-
-(cid:2)
-
 B1
 
 r32#1
 r32#1
 
-(cid:2) 0, r41#3
-(cid:2) 0, r41#3
+0, r41#3
+0, r41#3
 
-(cid:2) 0, r52#43
-(cid:2) 0, r42#3
-(cid:2) 0, r52#1
-(cid:2) 0, r42#1
+0, r52#43
+0, r42#3
+0, r52#1
+0, r42#1
 The basis B1 employs the parent set PAi for separating i from j
 Basis B2, on
 the other hand, employs smaller separating sets and thus leads to tests that involve fewer
 
-(cid:2) 0, r51#43
-(cid:2) 0, r51#3
+0, r51#43
+0, r51#3
 
 .
-(i (cid:6) j).
-
-(cid:2) 0
-
-(cid:2) 0
+(i j).
 
 (5.3)
 
@@ -10813,9 +10096,7 @@ B2
 
 8 The possibility that linear models may possess more economical bases came to my awareness during a conversation with Rod McDonald.
 
-Causality and Structural Models in Social Science and Economics
-
-.2 A testable model containing unidentified parameter ((cid:3)).
+.2 A testable model containing unidentified parameter ().
 
 regressors. Note that each member of a basis corresponds to a missing arrow in the DAG;
 therefore, the number of tests required to validate a DAG is equal to the number of missing arrows it contains. The sparser the graph, the more it constrains the covariance matrix
@@ -10850,7 +10131,6 @@ method may fail to find a suitable estimate for
 the test. Still, this model is no less testable than the one in which
 is
 identifiable, and the test can proceed. These models impose the same restrictions on the
-(cid:2)
 covariance matrix – namely, that the partial correlation
 rXY rYZ)
 not be tested for this restriction.
@@ -10859,22 +10139,16 @@ by virtue of being nonidentifiable, can-
 
 – yet the model with free
 
-cov(e1, e2) (cid:2) 0,
+cov(e1, e2) 0,
 
 should vanish (i.e.,
 
 cov(e1, e2),
 
 rXZ# Y
-(cid:3)
-
 rXZ
 
-(cid:3),
-
-(cid:3)
-
-(cid:3)
+,
 
 .3 illustrates the weakness associated with model diagnosis. Suppose the
 true data-generating model has a direct causal connection between X and W, as shown
@@ -10888,18 +10162,16 @@ fitness tests will not be able to isolate the discrepancy easily. Even multiple 
 
 rXW# Z,
 
-5.2 Graphs and Model Testing
-
 .3 Models differing in one local test, rXW#Z
 
-(cid:2) 0.
+0.
 
 on various local modifications of the model (such tests are provided by LISREL) may not
 help much, because the results may be skewed by other discrepancies in different parts
 of the model, such as the subgraph rooted at Y. Thus, testing for global fitness is often of
 only minor use in model debugging.
 
-(cid:2) 0,
+0,
 
 rXW#Z
 
@@ -10918,7 +10190,7 @@ and direct tests for those restrictions are more reliable than global tests, sin
 errors. The missing edges approach described in Section 5.2.1 provides a systematic way
 of detecting and enumerating the local tests needed for testing a given model.
 
-(cid:2) 0,
+0,
 
 5.2.3 Model Equivalence
 
@@ -10940,8 +10212,6 @@ reveals. It also provides a simple test for equivalence that requires, instead o
 all the d-separation conditions, merely a comparison of corresponding edges and their
 directionalities.
 
-Causality and Structural Models in Social Science and Economics
-
 In semi-Markovian models (DAGs with correlated errors), the d-separation criterion
 is still valid for testing independencies (see Theorem 5.2.3), but independence equivalence no longer implies observational equivalence.9 Two models that entail the same set
 of zero partial correlations among the observed variables may yet impose different inequality constraints on the covariance matrix. Nevertheless, Theorems 5.2.3 and 5.2.6
@@ -10961,21 +10231,18 @@ can be replaced by
 
 X d Y
 
-X S Y
-
 X d L S Y,
 
 In semi-Markovian models, the rules for generating equivalent models are more complicated. Nevertheless, Theorem 5.2.6 yields convenient graphical principles for testing
 the correctness of edge-replacement rules. The basic principle is that if we regard each
-bidirected arc X (cid:3)– –(cid:4) Y as representing a latent common cause
+bidirected arc X – –Y as representing a latent common cause
 then the
 "if" part of Theorem 5.2.6 remains valid; that is, any edge-replacement transformation
 that does not destroy or create a y-structure is allowed. Thus, for example, an edge
-X S Y
-can be replaced by a bidirected arc X (cid:3)– –(cid:4) Y whenever X and Y have no other
+can be replaced by a bidirected arc X – –Y whenever X and Y have no other
 can be replaced by a bidirected
 parents, latent or observed. Likewise, an edge
-arc X (cid:3)– – (cid:4) Y whenever (1) X and Y have no latent parents and (2) every parent of X
+arc X – – Y whenever (1) X and Y have no latent parents and (2) every parent of X
 or Y is a parent of both. Such replacements do not introduce new y-structures. However, since y-structures may now involve latent variables, we can tolerate the creation
 or destruction of some y-structures as long as this does not affect partial correlations
 among the observed variables. .4(a) demonstrates that the creation of certain
@@ -10983,13 +10250,9 @@ y-structures can be tolerated. By reversing the arrow
 we create two converging
 arrows
 whose tails are connected, not directly, but through a latent common cause. This is tolerated because, although the new convergence at X blocks the path
-(Z, X, Y), the connection between Z and Y (through the arc Z (cid:3)– –(cid:4) Y) remains unblocked and, in fact, cannot be blocked by any set of observed variables.
+(Z, X, Y), the connection between Z and Y (through the arc Z – –Y) remains unblocked and, in fact, cannot be blocked by any set of observed variables.
 
 Z S X d Y
-
-X S Y
-
-X S Y
 
 We can carry this principle further by generalizing the concept of y-structure. Whereas
 in Markovian models a y-structure is defined as two converging arrows whose tails are
@@ -11003,15 +10266,11 @@ as follows.
 
 9 Verma and Pearl (1990) presented an example using a nonparametric model, and Richardson devised an example using linear models with correlated errors (Spirtes and Richardson 1996).
 
-5.2 Graphs and Model Testing
-
 .4 Models permitting ((a) and (b)) and forbidding (c) the reversal of X S Y.
-
-X S Y
 
 Rule 1: An arrow
 
-is interchangeable with X (cid:3)– –(cid:4) Y only if every neighbor
+is interchangeable with X – –Y only if every neighbor
 or parent of X is inseparable from Y. (By neighbor we mean a node connected (to
 X) through a bidirected arc.)
 
@@ -11025,26 +10284,17 @@ can be reversed into
 
 X d Y
 
-X S Y
+For example, consider the model Z – –X
 
-For example, consider the model Z (cid:3)– –(cid:4) X
-
-cannot be replaced with a bidirected arc X (cid:3)– – (cid:4) Y because Z (a neighbor of X) is separable from
-Y by the set S (cid:2)
-. Indeed, the new y-structure created at X would render Z and Y
+cannot be replaced with a bidirected arc X – – Y because Z (a neighbor of X) is separable from
+Y by the set S . Indeed, the new y-structure created at X would render Z and Y
 marginally independent, contrary to the original model.
 
 . The arrow
 
-X
-
-X S Y
-
 S Y
 
-X S Y
-
-with X (cid:3)– – (cid:4) Y or with a reversed arrow
+with X – – Y or with a reversed arrow
 
 As another example, consider the graph in .4(a). Here, it is legitimate to
 because X has no
@@ -11055,10 +10305,8 @@ the paths going from Z to Y through W cannot be blocked.
 
 X d Y
 
-X S Y
-
 A more complicated example, one that demonstrates that rules 1 and 2 are not sufficient to ensure the legitimacy of a transformation, is shown in .4(c). Here, it
-with X (cid:3)– –(cid:4) Y would be legitimate because the (latent)
+with X – –Y would be legitimate because the (latent)
 appears that replacing
 Z S Y.
 y-structure at X is shunted by the arrow
@@ -11094,8 +10342,6 @@ feedback cycles. However, we should keep in mind that, because two semi-Markovia
 10 This example was brought to my attention by Jin Tian, and a similar one by two anonymous
 
 reviewers.
-
-Causality and Structural Models in Social Science and Economics
 
 models can be zero-partial-correlation equivalent and yet not covariance equivalent,
 criteria based on d-separation can provide merely the necessary conditions for model
@@ -11141,8 +10387,6 @@ test any major part of it against the data" (Freedman 1987, p. 112), Bollen (198
 can test and reject structural models.… Thus the assertion that these models cannot be falsified
 has little basis."
 
-5.3 Graphs and Identifiability
-
 .5 Untestable model displaying quantitative causal information derived.
 
 The move from the qualitative causal premises represented by the structure of a path diagram (see note 3) to the quantitative causal conclusions advertised by the coefficients
@@ -11179,41 +10423,31 @@ can be decomposed into the sum
 
 sX
 
-X S Y
-
-(cid:3)
-
-(cid:2) rXY sY>
+rXY sY>
 rYX
 
-(cid:2) (cid:3) (cid:3) IYX,
+IYX,
 
 where IYX is not a function of
 since it is computed (e.g., using Wright's rules) from
 X S Y.
 (Such paths traverse both
 other paths connecting X and Y excluding the edge
-X S Y
 unidirected and bidirected arcs.) Thus, if we remove the edge
 from the path diagram and find that the resulting subgraph entails zero correlation between X and Y, then
 
-(cid:3),
-
-Causality and Structural Models in Social Science and Economics
+,
 
 .6 Test of whether structural parameter
 
-(cid:3)
-
 can be equated with regression coefficient rYX.
 
-(cid:2) 0 and
+0 and
 
-(cid:3) (cid:2) rYX;
+rYX;
 
 is identified. Such entailment can be es-
-Z (cid:2)
-in the subgraph. .6 illustrates this simple test for identification: all paths
+Z in the subgraph. .6 illustrates this simple test for identification: all paths
 can imhence,
 we know that IYX
 tablished graphically by testing whether X is d-separated from Y (by the empty set
@@ -11222,23 +10456,16 @@ mediately be equated with rYX.
 
 are blocked by converging arrows, and
 
-G(cid:3)
-
-)
-
-(cid:3)
-
-(cid:3)
+G)
 
 We can extend this basic idea to cases where IYX is not zero but can be made zero by
-adjusting for a set of variables Z (cid:2)
-that lie on various d-connected paths
+adjusting for a set of variables Z that lie on various d-connected paths
 sX# Z,
 between X and Y. Consider the partial regression coefficient
 which represents the residual correlation between Y and X after Z is "partialled out." If
 Z contains no descendant of Y, then again we can write12
 
-(cid:2) rYX# Z sY# Z >
+rYX# Z sY# Z >
 
 Z1, Z2, …, Zk6
 
@@ -11246,31 +10473,21 @@ rYX#Z
 
 rYX# Z
 
-(cid:2) (cid:3) (cid:3) IYX# Z,
+IYX# Z,
 
-(cid:3)
 where IYX.Z represents the partial correlation between X and Y resulting from setting
-X S Y
-to zero, that is, the partial correlation in a model whose graph G(cid:7) lacks the edge
+to zero, that is, the partial correlation in a model whose graph Glacks the edge
 then IYX.Z would inbut is otherwise identical to G. If Z d-separates X from Y in
 is
 deed be zero in such a model, and so we can conclude that, in our original model,
 identified and is equal to rYX.Z. Moreover, since rYX.Z is given by the coefficient of x in
 the regression of Y on X and Z,
-1 z1 (cid:3) p (cid:3) (cid:2)
+1 z1 p can be estimated using the regression
+e.
 
-can be estimated using the regression
-(cid:3) e.
-
-y (cid:2) (cid:3)x (cid:3) (cid:2)
-
-G(cid:3),
+y x G,
 
 k zk
-
-(cid:3)
-
-(cid:3)
 
 This result provides a simple graphical answer to the questions, alluded to in Section
 5.1.3, of (i) what constitutes an adequate set of regressors and (ii) when a regression coefficient provides a consistent estimate of a path coefficient. The answers are summarized
@@ -11278,9 +10495,7 @@ in the following theorem.13
 
 Theorem 5.3.1 (Single-Door Criterion for Direct Effects)
 Let G be any path diagram in which
-G(cid:3)
-and let
-(cid:3)
+Gand let
 ficient
 
 X S Y,
@@ -11290,10 +10505,6 @@ is the path coefficient associated with link
 
 denote the diagram that results when
 
-X S Y
-
-(cid:3)
-
 12 This can be seen when the relation between Y and its parents,
 
 is substituted into the expression for rYX.Z, which yields plus an expression IYX.Z involving partial
@@ -11301,18 +10512,15 @@ Because Y is assumed not to be an ancescorrelations among the variables
 tor of any of these variables, their joint density is unaffected by the equation for Y; hence, IYX.Z
 is independent of
 
-(cid:3)
 X, W1, p , Wk, Z, e
 
-Y (cid:2) (cid:3)x (cid:3) ©
+Y x ©
 
-(cid:3) e,
+e,
 
 i wi
 
-(cid:3).
-
-(cid:2)
+.
 
 i
 
@@ -11320,17 +10528,11 @@ i
 
 13 This result is presented in Pearl (1998a) and Spirtes et al. (1998).
 
-5.3 Graphs and Identifiability
+.7 The identification of with rYX.Z (Theorem 5.3.1) is confirmed by G.
 
-.7 The identification of with rYX.Z (Theorem 5.3.1) is confirmed by G(cid:3).
-
-(cid:3)
-
-.8 Graphical identification of the total effect of X on Y, yielding (cid:3) (cid:3) (cid:2)g (cid:2) rYX# Z2
+.8 Graphical identification of the total effect of X on Y, yielding g rYX# Z2
 
 .
-
-(cid:3)
 
 descendant of Y and (ii) Z d-separates X from Y in
 tions, then
@@ -11340,23 +10542,13 @@ measure zero).
 If Z satisfies these two condiis equal to the regression coefficient rYX.Z. Conversely, if Z does not satisfy
 (except in rare instances of
 
-(cid:3)
+G.
 
-G(cid:3).
+G0)
 
-G(cid:3)
+Gand thus
 
-(cid:3)
-
-(cid:2)
-
-0)
-
-G(cid:3)
-
-and thus
-
-(cid:2) (cid:2) rXZ.
+rXZ.
 
 is identifiable and is given by
 is identifiable, of course, since Z is d-separated from X in
@@ -11365,10 +10557,9 @@ in
 The use of Theorem 5.3.1 can be illustrated as follows. Consider the graphs G and
 is the one traversing Z, and since
 .7. The only path connecting X and Y in
-(cid:3) (cid:2) rYX#Z.
+rYX#Z.
 that path is d-separated (blocked) by Z,
-G(cid:2)
-(by the
+G(by the
 The coefficient
 empty set
 Note that this "single-door" test differs slightly from the
@@ -11379,7 +10570,7 @@ of total effects (rather than direct effects). Consider the graph G in .8. If we
 we observe that there is no set Z of nodes
 the graph
 that d-separates all paths from X to Y. If Z contains Z1, then the path
-(cid:3)– –(cid:4) Y
+– –Y
 will be unblocked through the converging arrows at Z1. If Z does not contain Z1, the
 path
 cannot be identified using
@@ -11397,15 +10588,13 @@ is unblocked. Thus we conclude that
 
 by removing the link
 
-and X (cid:3)– – (cid:4)
+and X – – X S Z1
 
 X S Z1
 
-X S Z1
+g.
 
-(cid:3) (cid:3) (cid:2)g.
-
-(cid:3) (cid:3) (cid:2)g
+g
 
 X S Y,
 
@@ -11415,17 +10604,11 @@ S Y
 
 S Y
 
-G(cid:3)
+GZ2
 
-Z2
-
-(cid:3)
-
-(cid:3) (cid:3) (cid:2)g (cid:2) rYX# Z2
+g rYX# Z2
 
 .
-
-Causality and Structural Models in Social Science and Economics
 
 This line of reasoning is captured by the back-door criterion of Definition 3.3.1, which
 
@@ -11466,63 +10649,54 @@ does not meet the back-door criterion, yet this effect can be determined from
 Y
 its constituents and which meet the back-door criterion individually and evaluate to
 
-((cid:2) (cid:3)(cid:2))
+()
 
-(cid:2),
+,
 
-(cid:3)
+rYX# Z.
 
-(cid:3) (cid:2) rYX# Z.
-
-(cid:2) (cid:2) rXZ,
+rXZ,
 There is yet a third kind of causal parameter: one that cannot be determined either
 directly or through its constituents but rather requires the evaluation of a broader causal
 effect of which it is a part. The structure shown in .9 represents an example of
 cannot be identified either directly or from its constituents (it
 this case. The parameter
-(cid:3)(cid:2)
 has none), yet it can be determined from
 and which represent the effect of Z on
 Y and of Z on X, respectively. These two effects can be identified directly, since there
 are no back-door paths from Z to either Y or X; therefore,
 It
 follows that
-(cid:3) (cid:2) rYZ >
+rYZ >
 
-(cid:3)(cid:2) (cid:2) rYZ
+rYZ
 
-(cid:2) (cid:2) rXZ.
+rXZ.
 
 rXZ,
 
 and
 
-(cid:2),
-
-(cid:3)
-
-5.3 Graphs and Identifiability
+,
 
 .9 Graphical identification of using instrumental variable Z.
 
-(cid:3)
-
 .10 Graphical identification of
 
-(cid:3), (cid:2),
+, ,
 
 and g.
 
 which is familiar to us as the instrumental variable formula (Bowden and Turkington
 1984; see also Section 3.5, equation (3.46)).
 
-(cid:3)(cid:2) (cid:3) gd,
+gd,
 
 The example shown in .10 combines all three methods considered thus far.
 which is not identifiable because it does
 The total effect of X on Y is given by
 not meet the back-door criterion and is not part of another identifiable structure. How-
-(cid:2).
+.
 ever, suppose we wish to estimate By conditioning on Z, we block all paths going
 which is the effect of X on Y mediated by W. Because
 through Z and obtain
@@ -11531,20 +10705,18 @@ itself evaluates directly to
 there are no back-door paths from X to W,
 therefore obtain
 
-(cid:3)(cid:2) (cid:2) rYX#Z,
+rYX#Z,
 
-(cid:3) (cid:2) rWX.
+rWX.
 
-(cid:3)
-
-(cid:2) (cid:2) rYX#Z > rWX.
+rYX#Z > rWX.
 g
 On the other hand,
 back-door paths from Z to Y through X), which gives
 
 can be evaluated directly by conditioning on X (thus blocking all
 
-g (cid:2) rYZ#X.
+g rYZ#X.
 The methods that we have been using suggest the following systematic procedure for
 
 recognizing identifiable coefficients in a graph.
@@ -11570,15 +10742,11 @@ the determinant
 `
 
 d,
-(cid:3) g
-(cid:3)(cid:8) g(cid:8) `
-
-Causality and Structural Models in Social Science and Economics
+g
+g`
 
 .11 Identifying
 variables.
-
-(cid:2)
 
 and
 
@@ -11591,30 +10759,26 @@ using two instrumental
 5. List all labeled coefficients; these are identifiable.
 
 The process just described is not complete, because our insistence on labeling coefficients one at a time may cause us to miss certain opportunities. This is shown in
-.11. Starting with the pairs (X, Z), (X, W ), (X(cid:8), Z), and
+.11. Starting with the pairs (X, Z), (X, W ), (X, Z), and
 we discover
-(cid:3), g, (cid:3)(cid:8),
-g(cid:8)
-are identifiable. Going to (X, Y), we find that
+, g, ,
+gare identifiable. Going to (X, Y), we find that
 that
 is identifi-
-(cid:3)(cid:8)(cid:2) (cid:3) g(cid:8)d
-(X(cid:8), Y)
+gd
+(X, Y)
 able; likewise, from
 is identifiable. This does not yet enable
-(cid:2)
 and as long as
 but we can solve two equations for the unknowns
 us to label or
 
-(X(cid:8), W),
-(cid:3)(cid:2) (cid:3) dg
+(X, W),
+dg
 
 we see that
 
 and
-
-(cid:2)
 
 d
 
@@ -11646,10 +10810,7 @@ The identification results of the previous section are significantly more powerf
 those obtained in Chapters 3 and 4 for nonparametric models. Nonparametric models
 should nevertheless be studied by parametric modelers for both practical and conceptual
 
-5.3 Graphs and Identifiability
-
 .12 Path diagram corresponding to equations (5.4)–(5.6),
-where
 
 are observed and
 
@@ -11673,9 +10834,9 @@ Parametric versus Nonparametric Models: An Example
 
 Consider the set of structural equations
 
-x (cid:2) f1(u, e1),
-z (cid:2) f2(x, e2),
-y (cid:2) f3(z, u, e3),
+x f1(u, e1),
+z f2(x, e2),
+y f3(z, u, e3),
 
 (5.4)
 
@@ -11701,9 +10862,9 @@ the greatest extent possible.
 
 To clarify the scope of the problem, we consider its linear version, which is given by
 
-x (cid:2) u (cid:3) e1,
-z (cid:2) (cid:3)x (cid:3) e2,
-y (cid:2) (cid:2)z (cid:3) gu (cid:3) e3,
+x u e1,
+z x e2,
+y z gu e3,
 
 (5.7)
 
@@ -11711,39 +10872,31 @@ y (cid:2) (cid:2)z (cid:3) gu (cid:3) e3,
 
 (5.9)
 
-Causality and Structural Models in Social Science and Economics
-
 .13 Diagram representing model
 
-M(cid:8)
-
-of (5.12)–(5.14).
+Mof (5.12)–(5.14).
 
 e1, e2, e3
-(cid:3), (cid:2)
-
-are uncorrelated, zero-mean disturbances.14 It is not hard to show
+, are uncorrelated, zero-mean disturbances.14 It is not hard to show
 where U,
 that parameters
 can be determined uniquely from the correlations among
-, and
 the observed quantities X, Z, and Y. This identification was demonstrated already in the
 example of .7, where the back-door criterion yielded
 
 g
 
-(cid:2) (cid:2) rYZ# X,
+rYZ# X,
 
-(cid:3) (cid:2) rZX,
+rZX,
 
 and hence
 
 (5.10)
 
-(cid:9) (cid:3)(cid:2)
 .
 
-g (cid:2) rYX
+g rYX
 Thus, returning to the nonparametric version of the model, it is tempting to generalize that, for the model to be identifiable, the functions
 must be determined
 uniquely from the data. However, the prospect of this happening is unlikely, because
@@ -11772,11 +10925,9 @@ all of the same dimensionality. For example, the correlations among X, Y, and Z 
 (.13):
 linear model M of (5.7)–(5.9) might well be represented by the model
 
-M(cid:8)
-
-x (cid:2) e1,
-z (cid:2) (cid:3)(cid:8)x (cid:3) e2,
-y (cid:2) (cid:2)(cid:8)z (cid:3) dx (cid:3) e3.
+Mx e1,
+z x e2,
+y z dx e3.
 
 (5.12)
 
@@ -11794,19 +10945,16 @@ e3
 
 to be correlated, as in .7.
 
-5.3 Graphs and Identifiability
-
 This model is as compact as (5.7)–(5.9) and is covariance equivalent to M with respect
-M(cid:8)
-to the observed variables X, Y, Z. Upon setting
+Mto the observed variables X, Y, Z. Upon setting
 will yield the same probabilistic predictions as those of the model of (5.7)–(5.9). Still,
 when viewed as data-generating mechanisms, the two models are not equivalent. Each
 tells a different story about the processes generating X, Y, and Z, so naturally their predictions differ concerning the changes that would result from subjecting these processes
 to external interventions.
 
-(cid:3)(cid:8) (cid:2) (cid:3), (cid:2)(cid:8) (cid:2) (cid:2),
+, ,
 
-d (cid:2) g,
+d g,
 
 model
 
@@ -11815,36 +10963,32 @@ and
 5.3.3 Causal Effects: The Interventional Interpretation of Structural
 Equation Models
 
-M(cid:8)
-
-illustrate precisely where the structural read-
+Millustrate precisely where the structural read-
 The differences between models M and
 ing of simultaneous equation models comes into play, and why even causally shy researchers consider structural parameters more "meaningful" than covariances and other
 statistical parameters. Model
 defined by (5.12)–(5.14), regards X as a direct participant in the process that determines the value of Y, whereas model M, defined by
 (5.7)–(5.9), views X as an indirect factor whose effect on Y is mediated by Z. This difference is not manifested in the data itself but rather in the way the data would change in
 response to outside interventions. For example, suppose we wish to predict the expectation of Y after we intervene and fix the value of X to some constant x; this is denoted
-E(Y ƒ do(X (cid:2) x)). After X (cid:2) x is substituted into (5.13) and (5.14), model
+E(Y ƒ do(X x)). After X x is substituted into (5.13) and (5.14), model
 
 yields
 
-M(cid:8),
+M,
 
-M(cid:8)
+ME[Y do(X x)] E [x e2
 
-E[Y (cid:3) do(X (cid:2) x)] (cid:2) E [(cid:2)(cid:8)(cid:3)(cid:8)x (cid:3) (cid:2)(cid:8)e2
+dx e3]
 
-(cid:3) dx (cid:3) e3]
-
-(cid:2) ((cid:2)(cid:8)(cid:3)(cid:8) (cid:3) d)x;
+(d)x;
 
 model M yields
 
-E [Y (cid:3) do(X (cid:2) x)] (cid:2) E [(cid:2)(cid:3)x (cid:3) (cid:2)e2
+E [Y do(X x)] E [x e2
 
-(cid:3) gu (cid:3) e3]
+gu e3]
 
-(cid:2) (cid:2)(cid:3)x.
+x.
 
 (5.15)
 
@@ -11854,7 +10998,7 @@ E [Y (cid:3) do(X (cid:2) x)] (cid:2) E [(cid:2)(cid:3)x (cid:3) (cid:2)e2
 
 (5.18)
 
-(cid:3)(cid:8) (cid:2) (cid:3), (cid:2)(cid:8) (cid:2) (cid:2),
+, ,
 
 Upon setting
 (as required for covariance equivalence; see
@@ -11866,81 +11010,73 @@ puts this amount at
 
 whereas model
 
-(cid:2)(cid:3),
+,
 
 and
 
-M(cid:8)
-
-d (cid:2) g
+Md g
 
 At this point, it is tempting to ask whether we should substitute
 
 for u in (5.9)
 prior to taking expectations in (5.17). If we permit the substitution of (5.8) into (5.9), as
-we did in deriving (5.17), why not permit the substitution of (5.7) into (5.9) as well? Afu (cid:2)
-ter all (the argument runs), there is no harm in upholding a mathematical equality,
-x (cid:9) e1,
+we did in deriving (5.17), why not permit the substitution of (5.7) into (5.9) as well? Afu ter all (the argument runs), there is no harm in upholding a mathematical equality,
+x e1,
 that the modeler deems valid. This argument is fallacious, however.15 Structural
 equations are not meant to be treated as immutable mathematical equalities. Rather, they
 are meant to define a state of equilibrium – one that is violated when the equilibrium is
 perturbed by outside interventions. In fact, the power of structural equation models is
 
-(cid:2)(cid:3) (cid:3) g.
-x (cid:9) e1
+g.
+x e1
 
 15 Such arguments have led to Newcomb's paradox in the so-called evidential decision theory (see
 
 Section 4.1.1).
 
-Causality and Structural Models in Social Science and Economics
-
-x (cid:2) u (cid:3) e1,
+x u e1,
 
 that they encode not only the initial equilibrium state but also the information necessary
 for determining which equations must be violated in order to account for a new state of
 equilibrium. For example, if the intervention consists merely of holding X constant at
 which represents the preintervention process determinx, then the equation
-ing X, should be overruled and replaced with the equation X (cid:2) x. The solution to the
+ing X, should be overruled and replaced with the equation X x. The solution to the
 new set of equations then represents the new equilibrium. Thus, the essential characteristic of structural equations that sets them apart from ordinary mathematical equations is
 that the former stand not for one but for many sets of equations, each corresponding to
 a subset of equations taken from the original model. Every such subset represents some
 hypothetical physical reality that would prevail under a given intervention.
-
-(cid:2)
 
 If we take the stand that the value of structural equations lies not in summarizing distribution functions but in encoding causal information for predicting the effects of policies
 (Haavelmo 1943; Marschak 1950; Simon 1953), it is natural to view such predictions as
 the proper generalization of structural coefficients. For example, the proper generalization of the coefficient
 in the linear model M would be the answer to the control query,
 "What would be the change in the expected value of Y if we were to intervene and change
-the value of Z from z to z (cid:3) 1?", which is different, of course, from the observational
+the value of Z from z to z 1?", which is different, of course, from the observational
 query, "What would be the difference in the expected value of Y if we were to find Z
-at level z (cid:3) 1 instead of level z?" Observational queries, as we discussed in Chapter 1,
+at level z 1 instead of level z?" Observational queries, as we discussed in Chapter 1,
 can be answered directly from the joint distribution P(x, y, z), while control queries require causal information as well. Structural equations encode this causal information in
 their syntax by treating the variable on the left-hand side of the equality sign as the effect
 and treating those on the right as causes. In Chapter 3 we distinguished between the two
 types of queries through the symbol do(.). For example, we wrote
 
-E(Y (cid:3) do(x)) (cid:2) E [Y (cid:3) do(X (cid:2) x)]
+E(Y do(x)) E [Y do(X x)]
 
 for the controlled expectation and
 
-E(Y (cid:3) x) (cid:2) E(Y (cid:3) X (cid:2) x)
+E(Y x) E(Y X x)
 
 (5.19)
 
 (5.20)
 
 for the standard conditional or observational expectation. That E(Y ƒ do(x)) does not
-E(Y (cid:3) do(x)) (cid:2)
-equal E(Y ƒ x) can easily be seen in the model of (5.7)–(5.9), where
-(cid:3)(cid:2)x
-Indeed, the passive observation X (cid:2) x should
+E(Y do(x)) equal E(Y ƒ x) can easily be seen in the model of (5.7)–(5.9), where
+x
+Indeed, the passive observation X x should
 not violate any of the equations, and this is the justification for substituting both (5.7) and
 (5.8) into (5.9) before taking the expectation.
 
-E(Y (cid:3) x) (cid:2) rYX x (cid:2) ((cid:3)(cid:2) (cid:3) y) x.
+E(Y x) rYX x (y) x.
 
 but
 
@@ -11949,25 +11085,23 @@ that is, x times the product of the path coefficients along the path
 In linear models, the answers to questions of direct control are encoded in the path
 (or structural) coefficients, which can be used to derive the total effect of any variable on
 another. For example, the value of E(Y ƒ do(x)) in the model defined by (5.7)–(5.9) is
-(cid:3)(cid:2)x,
+x,
 X S Z S Y.
 Computation of E(Y ƒ do(x)) would be more complicated in the nonparametric case,
 even if we knew the functions f1, f2, and f3. Nevertheless, this computation is well
 defined; it requires the solution (for the expectation of Y) of a modified set of equations
 in which f1 is "wiped out" and X is replaced by the constant x:
 
-z (cid:2) f2(x, e2),
-y (cid:2) f3(z, u, e3).
+z f2(x, e2),
+y f3(z, u, e3).
 
 (5.21)
 
 (5.22)
 
-5.4 Some Conceptual Underpinnings
-
 Thus, computation of E(Y ƒ do(x)) requires evaluation of
 
-E(Y (cid:3) do(x)) (cid:2) E
+E(Y do(x)) E
 
 f3 [ f2 (x, e2), u, e3]
 ,
@@ -11975,11 +11109,7 @@ e2,
 and
 
 where the expectation is taken over U,
-this computation without knowledge of f2, f3, and P((cid:5)
-
-2, (cid:5)
-
-e3.
+this computation without knowledge of f2, f3, and P(2, e3.
 
 3, u) (Section 3.3.2).
 
@@ -12000,27 +11130,18 @@ career. If we interpret the coefficient
 
 in the equation
 
-(cid:2)
-
-y (cid:2) (cid:2)x (cid:3) e
-
 as the change in E(Y ) per unit change of X, then, after rewriting the equation as
 
-(cid:2),
-x (cid:2) (y (cid:9) e)
+,
+x (y e)
 >
 
-(cid:2)
 >
 
 as the change in E(X) per unit change of Y. But this conflicts
 we ought to interpret
 both with intuition and with the prediction of the model: the change in E(X) per unit
 change of Y ought to be zero if Y does not appear as an independent variable in the original, structural equation for X.
-
-(cid:2)
-
-(cid:2)
 
 Teachers of SEM generally evade this dilemma via one of two escape routes. One
 route involves denying that has any causal reading and settling for a purely statistical
@@ -12030,12 +11151,9 @@ uncorrelated with both X and Y (or so the argument goes),
 cannot both have
 causal meaning, and the paradox dissolves.
 
-(cid:2)
 >
 
 and
-
-(cid:2)
 
 e
 
@@ -12044,39 +11162,32 @@ function as an aid to policy making and clashes with the intuition of most SEM u
 The second is vulnerable to attack logically. It is well known that every pair of bivariate
 normal variables, X and Y, can be expressed in two equivalent ways,
 
-y (cid:2) (cid:2)x (cid:3) e1
+y x e1
 
 and
 
-x (cid:2) (cid:3)y (cid:3) e2,
+x y e2,
 
-cov(X, e1) (cid:2) cov(Y, e2) (cid:2) 0
+cov(X, e1) cov(Y, e2) 0
 
-where
-cov(X, e1) (cid:2) 0
+cov(X, e1) 0
 with causal meaning as well. But this too conflicts with both intuition and the intentions
 
 Thus, if the condition
-(cid:3)
-
 endows with causal meaning, then
 
 s2
 Y.
-cov(Y, e2) (cid:2) 0
+cov(Y, e2) 0
 
 ought to endow
 
-(cid:2) (cid:2)s2
+s2
 X>
 
-(cid:3) (cid:2) rXY
+rXY
 
 and
-
-(cid:2)
-
-Causality and Structural Models in Social Science and Economics
 
 behind SEM; the change in E(X) per unit change of Y ought to be zero, not rXY, if there
 is no causal path from Y to X.
@@ -12089,16 +11200,13 @@ operational meaning of structural equations and thus should end, I hope, an era 
 Structural Equations: Operational Definition
 
 Definition 5.4.1 (Structural Equations)
-y (cid:2) (cid:2)x (cid:3) e
 is said to be structural if it is to be interpreted as follows: In
 An equation
 an ideal experiment where we control X to x and any other set Z of variables (not containing X or Y) to z, the value y of Y is given by
 is not a function of the
 settings x and z.
 
-(cid:2)x (cid:3) e,
-
-where
+x e,
 
 e
 
@@ -12109,7 +11217,7 @@ we wish to observe from the little we actually can observe.
 
 Note that the operational reading just given makes no claim about how X (or any
 other variable) will behave when we control Y. This asymmetry makes the equality signs
-in structural equations different from algebraic equality signs; the former act symmetrically in relating observations on X and Y (e.g., observing Y (cid:2) 0 implies
+in structural equations different from algebraic equality signs; the former act symmetrically in relating observations on X and Y (e.g., observing Y 0 implies
 but
 they act asymmetrically when it comes to interventions (e.g., setting Y to zero tells us
 nothing about the relation between x and
@@ -12117,7 +11225,7 @@ The arrows in path diagrams make this dual
 role explicit, and this may account for the insight and inferential power gained through
 the use of diagrams.
 
-(cid:2)x (cid:2) (cid:9)e),
+x e),
 
 e).
 
@@ -12128,13 +11236,11 @@ variables from the r.h.s. of the equation, thus proclaiming X the only immediate
 of Y. This translates into a testable claim of invariance: the statistics of Y under condition do(x) should remain invariant to the manipulation of any other variable in the model
 (see Section 1.3.2).16 This claim can be written symbolically as
 
-y (cid:2) (cid:2)x (cid:3) e
-
-P(y (cid:3) do(x), do(z)) (cid:2) P(y (cid:3) do(x))
+P(y do(x), do(z)) P(y do(x))
 
 (5.23)
 
-X(cid:2)Y
+XY
 for all Z disjoint of
 .
 whatsoever.
@@ -12150,12 +11256,10 @@ instead of x, then Y would attain
 
 a dynamic or counterfactual claim: If we were to control X to
 
-x(cid:8)
-
-5.4 Some Conceptual Underpinnings
+x5.4 Some Conceptual Underpinnings
 
 Note that this invariance holds relative to manipulations, not observations, of Z. The
-statistics of Y under condition do(x) given the measurement Z (cid:2) z, written P(y ƒ
+statistics of Y under condition do(x) given the measurement Z z, written P(y ƒ
 do(x), z), would certainly depend on z if the measurement were taken on a consequence
 (i.e., descendant) of Y. Note also that the ordinary conditional probability P(y ƒ x) does
 not enjoy such a strong property of invariance, since P(y ƒ x) is generally sensitive to
@@ -12181,17 +11285,11 @@ meaning of
 
 in the equation
 
-y (cid:2) (cid:2)x (cid:3) e
-
 is simply
-
-(cid:2)
-
-(cid:2) (cid:2)
 
 0x
 
-E[Y (cid:3) do(x)],
+E[Y do(x)],
 
 (5.24)
 
@@ -12200,37 +11298,24 @@ X is held at x by external control. This interpretation holds regardless of whet
 X are correlated in nonexperimental studies (e.g., via another equation
 
 e
-x (cid:2) (cid:3)y (cid:3) d).
+x y d).
 
-(cid:2)
 We hardly need to add at this point that has nothing to do with the regression coefficient rYX or, equivalently, with the conditional expectation E(Y ƒ x), as suggested in
 many textbooks. The conditions under which coincides with the regression coefficient
 are spelled out in Theorem 5.3.1.
-
-(cid:2)
-
-(cid:2)
 
 It is important nevertheless to compare the definition of (5.24) with theories that acknowledge the invariant character of but have difficulties explicating which changes
 is
 invariant to. Cartwright (1989, p. 194), for example, characterizes as an invariant of naremains constant under change
 ture that she calls "capacity." She states correctly that
 E(X2)]
-[(cid:2) (cid:2) E(YX)
+[E(YX)
 but explains that, as the statistics of X changes, "it is the ratio
 >
 which remains fixed no matter how the variances shift." This characterization is imprecise on two accounts. First, may in general not be equal to the stated ratio nor to any
 other combination of statistical parameters. Second – and this is the main point of Definition 5.4.1 – structural parameters are invariant to local interventions (i.e., changes in
 
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)x(cid:8) (cid:3) e.
+xe.
 
 In other words, plotting the value of Y under various hypothetical controls of X,
 the value
@@ -12245,24 +11330,22 @@ should result in a straight line with slope
 
 (e),
 
-x(cid:8).
+x.
 
-(cid:2).
+.
 
 e,
 
-Causality and Structural Models in Social Science and Economics
-
-cov(X, e) (cid:2) 0
+cov(X, e) 0
 
 specific equations in the system) and not to general changes in the statistics of the variables. If we start with
 and the variance of X changes because we (or
 Nature) locally modify the process that generates X, then Cartwright is correct; the rawill remain constant. However, if the variance of X changes for
 tio
-any other reason – say, because we observed some evidence Z (cid:2) z that depends on both
+any other reason – say, because we observed some evidence Z z that depends on both
 X and Y or because the process generating X becomes dependent on a wider set of variables – then that ratio will not remain constant.
 
-(cid:2) (cid:2) E(YX)
+E(YX)
 >
 
 E(X2)
@@ -12272,26 +11355,25 @@ The Mystical Error Term: Operational Definition
 The interpretations given in Definition 5.4.1 and (5.24) provide an operational definition
 for that mystical error term
 
-e (cid:2) y (cid:9) E[Y (cid:3) do(x)],
+e y E[Y do(x)],
 
 (5.25)
 
 which, despite being unobserved in nonmanipulative studies, is far from being metaphysical or definitional as suggested by some researchers (e.g. Richard 1980; Holland 1988,
-p. 460; Hendry 1995, p. 62). Unlike errors in regression equations, (cid:4) measures the deviation of Y from its controlled expectation E[Y ƒ do(x)] and not from its conditional
-expectation E[Y ƒ x]. The statistics of (cid:4) can therefore be measured from observations on
-(cid:2)
+p. 460; Hendry 1995, p. 62). Unlike errors in regression equations, measures the deviation of Y from its controlled expectation E[Y ƒ do(x)] and not from its conditional
+expectation E[Y ƒ x]. The statistics of can therefore be measured from observations on
 remains the same regardless of whether
 Y once X is controlled. Alternatively, because
-e (cid:2) y (cid:9) (cid:2)x
+e y x
 can be measured in observa-
 X is manipulated or observed, the statistics of
 tional studies if we know
 
-(cid:2).
+.
 
 Likewise, correlations among errors can be estimated empirically. For any two nonadjacent variables X and Y, (5.25) yields
 
-E[eY eX] (cid:2) E[YX (cid:3) do( paY, paX)] (cid:9) E[Y (cid:3) do(paY)]E[X (cid:3) do(paX)].
+E[eY eX] E[YX do( paY, paX)] E[Y do(paY)]E[X do(paX)].
 
 (5.26)
 
@@ -12314,7 +11396,7 @@ eY
 
 E[eYeX]
 
-E[Y (cid:3) x, do(sXY)] (cid:2) E[Y (cid:3) do(x), do(sXY)]
+E[Y x, do(sXY)] E[Y do(x), do(sXY)]
 
 (5.27)
 
@@ -12326,8 +11408,6 @@ The Mystical Error Term: Conceptual Interpretation
 
 The authors of SEM textbooks usually interpret error terms as representing the influence
 of omitted factors. Many SEM researchers are reluctant to accept this interpretation,
-
-5.4 Some Conceptual Underpinnings
 
 however, partly because unspecified omitted factors open the door to metaphysical speculations and partly because arguments based on such factors were improperly used as a
 generic, substance-free license to omit bidirected arcs from path diagrams (McDonald
@@ -12369,8 +11449,6 @@ because it rests on structural knowledge, is a more useful guide than the operat
 Structural equation modeling prides itself, and rightly so, on providing principled methodology for distinguishing direct from indirect effects. We have seen in Section 4.5 that such
 distinction is important in many applications, ranging from process control to legal disputes, and that SEM indeed provides a coherent methodology of defining, identifying, and
 
-Causality and Structural Models in Social Science and Economics
-
 estimating direct and indirect effects. However, the reluctance of most SEM researchers
 to admit the causal reading of structural parameters – coupled with their preoccupation
 with algebraic manipulations – has resulted in inadequate definitions of direct and indirect
@@ -12398,9 +11476,7 @@ yield the correct value:
 Section 4.5.3 (Table 4.1) provides another
 such example, one that involves dichotomous variables.
 
-X ((cid:2)w (cid:3) gz) (cid:2) 0.
-
-X
+X (w gz) 0.
 
 Second, there is no need to limit control only to intermediate variables; all variables
 in the system may be held constant (except for X and Y). Hypothetically, the scientist controls for all possible conditions SXY, and measurements may commence without
@@ -12408,24 +11484,20 @@ knowing the structure of the diagram. Finally, our definitions differ from conve
 interpreting total and direct effects independently of each other, as outcomes of two different experiments. Textbook definitions (e.g., Bollen 1989, p. 376; Mueller 1996, p. 141;
 Kline 1998, p. 175) usually equate the total effect with a power series of path coefficient
 matrices. This algebraic definition coincides with the operational definition (Definition
-5.4.2) in recursive (semi-Markovian) systems, but it yields erroneous expressions in mody (cid:2) (cid:2)x (cid:3) e, x (cid:2) (cid:3)y (cid:3) d
+5.4.2) in recursive (semi-Markovian) systems, but it yields erroneous expressions in mody x e, x y d
 els with feedback. For instance, given the pair of equations
 ,
-the total effect of X on Y is simply (cid:2), not
+the total effect of X on Y is simply , not
 as stated in Bollen (1989, p. 379).
 The latter has no operational significance worthy of the phrase "effect of X."18
 
-(cid:2)(1 (cid:9) (cid:3)(cid:2))
-
-(cid:9)1
+(1 )
 
 We end this section of effect decomposition with a few remarks that should be of
 interest to researchers dealing with dichotomous variables. The relations among such
 
 18 This error was noted by Sobel (1990) but, perhaps because constancy of path coefficients was presented as a new and extraneous assumption, Sobel's correction has not brought about a shift in
 practice or philosophy.
-
-5.4 Some Conceptual Underpinnings
 
 variables are usually nonlinear, so the results of Section 4.5 should be applicable. In particular, the direct effect of X on Y will depend on the levels at which we hold the other
 parents of Y. If we wish to average over these values, we obtain the expression given in
@@ -12469,14 +11541,12 @@ certain relationships under policy intervention.
 
 Aldrich (1993).
 
-Causality and Structural Models in Social Science and Economics
-
 l
 
 l
 
 Suppose that we consider intervening on a set of variables X and that we wish to characterize the statistical behavior of a set Y of outcome variables under the intervention
-do(X (cid:2) x). Denote the postintervention distribution of Y by the usual expression P(y ƒ
+do(X x). Denote the postintervention distribution of Y by the usual expression P(y ƒ
 do(x)). If we are interested in a set of parameters of that distribution, then our task is to
 [P(y ƒ do(x)] from the available data. However, the data available is typically
 estimate
@@ -12510,13 +11580,13 @@ l
 
 PM1
 
-(y (cid:3) x) (cid:2) PM2
+(y x) PM2
 
-(y (cid:3) x) 1 l[PM1
+(y x) 1 l[PM1
 
-(y (cid:3) do(x))] (cid:2) l[PM2
+(y do(x))] l[PM2
 
-(y (cid:3) do(x))]
+(y do(x))]
 
 (5.28)
 
@@ -12531,13 +11601,13 @@ constitutes a complete specification of the postintervention
 
 PM1
 
-(y (cid:3) x) (cid:2) PM2
+(y x) PM2
 
-(y (cid:3) x) 1 PM1
+(y x) 1 PM1
 
-(y (cid:3) do(x)) (cid:2) PM2
+(y do(x)) PM2
 
-(y (cid:3) do(x)).
+(y do(x)).
 
 (5.29)
 
@@ -12545,13 +11615,13 @@ If we further assume that, for every P(y ƒ x), our theory T does not a priori e
 20 then (5.29) reduces to the equality
 model M2 satisfying
 
-(Y (cid:3) do(x)) (cid:2) PM2
+(Y do(x)) PM2
 
-(y (cid:3) x),
+(y x),
 
 PM2
 
-P(y (cid:3) do(x)) (cid:2) P(y (cid:3) x),
+P(y do(x)) P(y x),
 
 (5.30)
 
@@ -12567,8 +11637,6 @@ l
 20 For example, if T stands for all models possessing the same graph structure, then such M2 is not
 
 a priori excluded.
-
-5.4 Some Conceptual Underpinnings
 
 permits us to predict the effect of interventions (in X) directly from passive observations,
 without even adjusting for confounding factors. Our analyses in Sections 3.3 and 5.3 further provide a graphical test of exogeneity: X is exogenous for Y if there is no unblocked
@@ -12614,10 +11682,8 @@ l
 
 exogeneity applicable to time-series analysis.
 
-Causality and Structural Models in Social Science and Economics
-
 Definition 5.4.5 (General Exogeneity)
-Let X and Y be two sets of variables, and let (cid:10) be any set of parameters defined on a
+Let X and Y be two sets of variables, and let be any set of parameters defined on a
 structural model M in a theory T. We say that X is exogenous relative to
 is
 identifiable from the conditional distribution P(y ƒ x), that is, if
@@ -12630,9 +11696,9 @@ l
 
 PM1
 
-(y (cid:3) x) (cid:2) PM2
+(y x) PM2
 
-(y (cid:3) x) 1 l(M1) (cid:2) l(M2)
+(y x) 1 l(M1) l(M2)
 
 (5.31)
 
@@ -12641,26 +11707,25 @@ for any two models, M1 and M2, satisfying theory T.
 l
 
 When consists of structural parameters, such as path coefficients or causal effects, (5.31)
-expresses invariance to a variety of interventions, not merely do(X (cid:2) x). Although the
-l(M1) (cid:2)
-interventions themselves are not mentioned explicitly in (5.31), the equality
+expresses invariance to a variety of interventions, not merely do(X x). Although the
+l(M1) interventions themselves are not mentioned explicitly in (5.31), the equality
 l(M2)
 In particular, if
 reflects such interventions through the structural character of
-(cid:10) stands for the values of the causal effect function P(y ƒ do(x)) at selected points of x
+stands for the values of the causal effect function P(y ƒ do(x)) at selected points of x
 and y, then (5.31) reduces to the implication
 
 l.
 
 PM1
 
-(y (cid:3) x) (cid:2) PM2
+(y x) PM2
 
-(y (cid:3) x) 1 PM1
+(y x) 1 PM1
 
-(y (cid:3) do(x)) (cid:2) PM2
+(y do(x)) PM2
 
-(y (cid:3) do(x)),
+(y do(x)),
 
 (5.32)
 
@@ -12674,9 +11739,9 @@ into consideration; we have
 
 and so (5.31) reduces to
 
-l(M) (cid:2) l(PM),
+l(M) l(PM),
 
-P1(y (cid:3) x) (cid:2) P2(y (cid:3) x) 1 l(P1) (cid:2) l(P2)
+P1(y x) P2(y x) 1 l(P1) l(P2)
 
 (5.33)
 
@@ -12690,7 +11755,7 @@ l
 Finally, if
 
 consists of causal effects among variables in Y (excluding X), we obtain a generalized definition of instrumental variables. For example, if our interest lies in
-the causal effect (cid:10) (cid:2) P(w ƒ do(z)), where W and Z are two sets of variables in Y, then
+the causal effect P(w ƒ do(z)), where W and Z are two sets of variables in Y, then
 the exogeneity of X relative to this parameter ensures the identification of P(w ƒ do(z))
 from the conditional probability P(z, w ƒ x). This is indeed the role of an instrumental variable – to assist in the identification of causal effects not involving the instrument.
 (See .9, with Z, X, Y representing X, Z, W, respectively.)
@@ -12706,24 +11771,22 @@ l.
 24 Engle et al. (1983) further imposed a requirement called "variation-free," which is satisfied by default when dealing with genuinely structural models M in which mechanisms do not constrain one
 another.
 
-5.4 Some Conceptual Underpinnings
-
 if X and Y are dichotomous and the parameter of interest is
 ginal probability P(x) certainly "involves" parameters such as
 
-l (cid:3) P(y0
+l P(y0
 
-(cid:2) x0),
+x0),
 
 then the marl1
 
-(cid:3) P(x0, y0) (cid:4) P(x0, y1) and l2
+P(x0, y0) P(x0, y1) and l2
 
-(cid:3) P(x0, y0),
+P(x0, y0),
 
-and (cid:2) "involves" their ratio:
+and "involves" their ratio:
 
-l (cid:3) l2 > l1.
+l l2 > l1.
 Therefore, writing
 are involved in the marginal
 shows that both and
@@ -12738,12 +11801,12 @@ than P(y0
 
 ƒ x0) as required by (5.33).25
 
-P(x0) (cid:3) l2>
+P(x0) l2>
 l
 
 because the ratio
 
-l (cid:3) l2>
+l l2>
 
 l1
 
@@ -12768,7 +11831,7 @@ Definition 5.4.6 (Error-Based Exogeneity)
 A variable X is exogenous (relative to
 that influence Y, except those mediated by X.
 
-l (cid:3) P(y (cid:2) do(x)))
+l P(y do(x)))
 
 if X is independent of all errors
 
@@ -12787,8 +11850,6 @@ become increasingly fashionable. For example, Hendry and Morgan (1995) wrote tha
 
 25 Engle et al. (1983, p. 281) and Hendry (1995, pp. 162–3) overcome this ambiguity by using selective "reparameterization" – a necessary step which textbooks tend to ignore.
 
-Causality and Structural Models in Social Science and Economics
-
 "the concept of exogeneity rapidly evolved into a loose notion as a property of an observable variable being uncorrelated with an unobserved error," and Imbens (1997) readily
 agreed that this notion "is inadequate."26
 
@@ -12800,7 +11861,7 @@ that embodied in more complicated and less communicable definitions of exogeneit
 am therefore convinced that the standard definition will eventually regain the acceptance
 and respectability that it has always deserved.
 
-Z (cid:2) 0).
+Z 0).
 
 Relationships between graphical and counterfactual definitions of exogeneity and instrumental variables will be discussed in Chapter 7 (Section 7.4.5).
 
@@ -12888,8 +11949,6 @@ those discussed in this chapter. They first proved that identification is ensure
 
 27 Though the SEM basis of counterfactuals is unfortunately not articulated.
 
-Causality and Structural Models in Social Science and Economics
-
 graphs that do not contain bow-arcs, that is, no error correlation is allowed between a
 cause and its direct effect, while no restrictions are imposed on errors associated with
 indirect causes (Brito and Pearl 2002b). Subsequently, generalizing the concept of
@@ -12901,21 +11960,20 @@ and Brito (2010) for a gentle introduction and a survey of results.
 
 Causal claims in SEM are established through a combination of data and the set of
 causal assumptions embodied in the model. For example, the claim that the causal effect
-E(Y ƒ do(x)) in .9 is given by (cid:5)x (cid:3) rYZ >
+E(Y ƒ do(x)) in .9 is given by x rYZ >
 rXZ x is based on the assumptions:
-cov(eZ, eY) (cid:3) 0 and E(Y ƒ do(x, z)) (cid:3) E(Y ƒ do(x)); both are shown in the graph. A claim is
+cov(eZ, eY) 0 and E(Y ƒ do(x, z)) E(Y ƒ do(x)); both are shown in the graph. A claim is
 robust when it is insensitive to violations of some of the assumptions in the model. For
-example, the claim above is insensitive to the assumption cov(eZ, eX) (cid:3) 0, which is
+example, the claim above is insensitive to the assumption cov(eZ, eX) 0, which is
 shown in the model.
 
 When several distinct sets of assumptions give rise to k distinct estimands for a
-parameter (cid:5), that parameter is called k-identified; the higher the k, the more robust are
-claims based on (cid:5), because equality among these estimands imposes k (cid:6) 1 constraints
+parameter , that parameter is called k-identified; the higher the k, the more robust are
+claims based on , because equality among these estimands imposes k 1 constraints
 on the covariance matrix which, if satisfied in the data, indicate an agreement among k
 distinct sets of assumptions, thus supporting their validity. A typical example emerges
 when several (independent) instrumental variables are available Z1, Z2,…, Zk for a single
-(cid:2) (cid:3) rYZ1
-X S Y
+rYZ1
 .
 rXZk
 link
@@ -12924,12 +11982,12 @@ graphical conditions for quantifying the degree of robustness of a given causal 
 k-identification generalizes the notion of degree of freedom in standard SEM analysis;
 the latter characterizes the entire model, while the former applies to individual parameters and, more generally, to individual causal claims.
 
-(cid:3) L (cid:3) rYZk
+L rYZk
 >
 
 , which yield the equalities
 
-(cid:3) rYZ2
+rYZ2
 
 rXZZ
 
@@ -12961,8 +12019,6 @@ exposes himself to reality.
 
 Friedrick Durrenmatt (1962)
 
-Preface
-
 Confounding represents one of the most fundamental impediments to the elucidation of
 causal inferences from empirical data. As a result, the consideration of confounding
 underlies much of what has been written or said in areas that critically rely on causal inferences; this includes epidemiology, econometrics, biostatistics, and the social sciences.
@@ -12990,8 +12046,6 @@ existence of either instability or bias in a given effect estimate (Section 6.4.
 Section 6.5 clarifies distinctions between collapsibility and no-confounding, confounders
 and confounding, and between the structural and exchangeability approaches to representing problems of confounding.
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 6.1 SIMPSON'S PARADOX: AN ANATOMY
 
 The reversal effect known as Simpson's paradox has been briefly discussed twice in this
@@ -13010,11 +12064,11 @@ are two complementary properties describing two subpopulations, we might well en
 
 ¬ F
 
-P(E (cid:2) C) (cid:2) P(E (cid:2) ¬ C),
+P(E C) P(E ¬ C),
 
-P(E (cid:2) C, F) (cid:4) P(E (cid:2) ¬ C, F),
+P(E C, F) P(E ¬ C, F),
 
-P(E (cid:2) C, ¬ F) (cid:4) P(E (cid:2) ¬ C, ¬ F).
+P(E C, ¬ F) P(E ¬ C, ¬ F).
 
 (6.1)
 
@@ -13040,17 +12094,13 @@ in probability calculus stands for the evidential conditional "given that we see
 the do( ) operator was devised to represent the causal conditional "given that we do."
 Accordingly, the inequality
 
-(cid:3)
-
-P(E (cid:2) C) (cid:2) P(E (cid:2) ¬ C)
+P(E C) P(E ¬ C)
 
 is not a statement about C having a positive effect on E, properly written
 
-P(E (cid:2) do(C)) (cid:2) P(E (cid:2) do(¬ C)),
+P(E do(C)) P(E do(¬ C)),
 
 but rather about C being positive evidence for E, which may be due to spurious confounding factors that cause both C and E. In our example, the drug appears beneficial
-
-6.1 Simpson's Paradox: An Anatomy
 
 .1 Recovery rates under treatment (C) and control
 
@@ -13092,8 +12142,6 @@ relevant to E (p. 37); the correct (back-door) criterion is somewhat more involv
 
 ¬F
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 statisticians, however, are reluctant to entertain the idea that Simpson's paradox emerges
 from causal considerations. The general attitude is as follows: The reversal is real and disturbing, because it actually shows up in the numbers and may actually mislead statisticians
 into incorrect conclusions. If something is real, then it cannot be causal, because causality is a mental construct that is not well defined. Thus, the paradox must be a statistical
@@ -13109,7 +12157,7 @@ artificial mixture of the two closely allied races, must come as rather a shock.
 
 Influenced by Pearson's life-long campaign, statisticians have refrained from causal
 talk whenever possible and, for over half a century, the reversal phenomenon has been
-treated as a curious mathematical property of 2 (cid:5) 2 tables, stripped of its causal origin.
+treated as a curious mathematical property of 2 2 tables, stripped of its causal origin.
 Finally, Lindley and Novick (1981) analyzed the problem from a new angle, and made
 the second published connection to causality:
 
@@ -13132,8 +12180,6 @@ In so denying any attention to causal intuition, researchers often had no choice
 
 3 Pearson et al. (1899) and Yule (1903) reported a weaker version of the paradox in which (6.2)–(6.3)
 are satisfied with equality. The reversal was discovered later by Cohen and Nagel (1934, p. 449).
-
-6.1 Simpson's Paradox: An Anatomy
 
 by scrupulous researchers. Dozens of papers have been written since the 1950s on the statistical aspects of Simpson's reversal; some dealt with the magnitude of the effect (Blyth
 1972; Zidek 1984), some established conditions for its disappearance (Bishop et al. 1975;
@@ -13173,8 +12219,6 @@ tables and not use the drug.
 The next step was to ask whether some additional statistical information could in general point us to the right table. This question Lindley and Novick answered in the negative
 by showing that, with the very same data, we sometimes should decide the opposite and
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 .2 Three causal models capable of generating the data in .1. Model (a) dictates use
 of the gender-specific tables, whereas (b) and (c) dictate use of the combined table.
 
@@ -13210,16 +12254,14 @@ mortality records of a class of persons most closely resembling the characterist
 
 the adequacy of a certain statistical method.
 
-6.1 Simpson's Paradox: An Anatomy
-
 new customer. De Finetti gave this question a formal twist by translating judgment about
-resemblance into judgment of probabilities. According to this criterion, an (n (cid:6) 1)th unit
+resemblance into judgment of probabilities. According to this criterion, an (n 1)th unit
 is exchangeable in property X, relative to a group of n other units, if the joint probability
-distribution P (X1, . . . , Xn, Xn(cid:6)1) is invariant under permutation. To De Finetti, the question of how such invariance can be established was a psychological question of secondary
+distribution P (X1, . . . , Xn, Xn1) is invariant under permutation. To De Finetti, the question of how such invariance can be established was a psychological question of secondary
 importance; the main point was to cast the target of this psychological exercise in the form
 of mathematical expression so that it could be communicated and discussed in scientific
 terms. It is this concept that Lindley and Novick tried to introduce into Simpson's reversal phenomenon and with which they hoped to show that the appropriate subpopulations
-in the F (cid:7) gender example are the male and female whereas, in the F (cid:7) blood pressure
+in the F gender example are the male and female whereas, in the F blood pressure
 example, the whole population of patients should be considered.
 
 Readers of Lindley and Novick's article would quickly realize that, although these
@@ -13250,8 +12292,6 @@ determine whether exchangability holds under the new circumstances. And once cau
 mechanisms are considered, separate judgment of exchangeability is not needed.
 
 But why did Lindley and Novick choose to speak so elliptically (via exchangeability) when they could have articulated their ideas directly by talking openly about causal
-
-Simpson's Paradox, Confounding, and Collapsibility
 
 relations? They partially answered this question as follows: "[causality], although widely
 used, does not seem to be well-defined." One may naturally wonder how exchangeability can be more "well-defined" than the very considerations by which it is judged! The
@@ -13292,19 +12332,15 @@ to show, formally, that this logic precludes the existence of such a miracle dru
 The logic of the do (.) operator is perfectly suitable for this purpose. Let us first translate the statement that our miracle drug C has a harmful effect on both males and females
 into formal statements in causal calculus:
 
-(cid:3)
-
 6 Lindley and Novick (1981, p. 50) did try to express this fact in probabilistic notation. But not having the do ( ) operator at their disposal, they improperly wrote P(F ƒ C) instead of P(F ƒ do (C))
 and argued unconvincingly that we should equate P(F ƒ C) and P(F): "Instead you might judge that
 the decision to use the treatment or the control is not affected by the unknown sex, so that F and
 C are independent." Oddly, this decision is also not affected by the unknown blood pressure, and
-yet, if we write P(F ƒ C) (cid:7) P(F) in the example of .2(b), we obtain the wrong result.
+yet, if we write P(F ƒ C) P(F) in the example of .2(b), we obtain the wrong result.
 
-6.1 Simpson's Paradox: An Anatomy
+P(E do(C), F) P(E do(¬ C), F),
 
-P(E (cid:2) do(C), F) (cid:4) P(E (cid:2) do(¬ C), F),
-
-P(E (cid:2) do(C), ¬ F) (cid:4) P(E (cid:2) do(¬ C), ¬ F).
+P(E do(C), ¬ F) P(E do(¬ C), ¬ F).
 
 (6.4)
 
@@ -13313,7 +12349,7 @@ P(E (cid:2) do(C), ¬ F) (cid:4) P(E (cid:2) do(¬ C), ¬ F).
 We need to demonstrate that C must be harmful to the population at large; that is, the
 inequality
 
-P(E (cid:2) do(C)) (cid:2) P(E (cid:2) do(¬ C))
+P(E do(C)) P(E do(¬ C))
 
 (6.6)
 
@@ -13324,21 +12360,20 @@ An action C that increases the probability of an event E in each subpopulation m
 increase the probability of E in the population as a whole, provided that the action does
 not change the distribution of the subpopulations.
 
-Proof
 We will prove Theorem 6.1.1 in the context of our example, where the population is partitioned into males and females; generalization to multiple partitions is straightforward.
 In this context, we need to prove that the reversal in the inequalities of (6.4)–(6.6) is inconsistent with the assumption that drugs have no effect on gender:
 
-P(F (cid:2) do(C)) (cid:7) P(F (cid:2) do(¬ C)) (cid:7) P(F).
+P(F do(C)) P(F do(¬ C)) P(F).
 
 (6.7)
 
 Expanding P(E ƒ do(C)) and using (6.7) yields
 
-P(E (cid:2) do(C)) (cid:7) P(E (cid:2) do(C), F) P (F (cid:2) do(C))
+P(E do(C)) P(E do(C), F) P (F do(C))
 
-(cid:6) P(E (cid:2) do(C), ¬ F) P (¬ F (cid:2) do(C))
+P(E do(C), ¬ F) P (¬ F do(C))
 
-(cid:7) P(E (cid:2) do(C), F) P(F) (cid:6) P(E (cid:2) do(C), ¬ F) P(¬ F).
+P(E do(C), F) P(F) P(E do(C), ¬ F) P(¬ F).
 
 (6.8)
 
@@ -13348,9 +12383,9 @@ Similarly, for do
 
 we obtain
 
-P(E (cid:2) do(¬ C)) (cid:7) P(E (cid:2) do(¬ C), F) P (F)
+P(E do(¬ C)) P(E do(¬ C), F) P (F)
 
-(cid:6) P(E (cid:2) do(¬ C), ¬ F) P (¬ F).
+P(E do(¬ C), ¬ F) P (¬ F).
 
 (6.9)
 
@@ -13364,9 +12399,7 @@ structural equations (or mechanisms). See Gibbard and Harper (1976) for a counte
 Note that the no-change provision is probabilistic; it permits the action to change the classification
 of individual units as long as the relative sizes of the subpopulations remain unaltered.
 
-Simpson's Paradox, Confounding, and Collapsibility
-
-P(E (cid:2) do (C)) (cid:4) P (E (cid:2) do ( ¬ C)),
+P(E do (C)) P (E do ( ¬ C)),
 
 proving Theorem 6.1.1.
 
@@ -13379,17 +12412,17 @@ by the drug, as in .2(b). In this case, our intuitive logic tells us that it is 
 consistent to find a drug satisfying the three inequalities of (6.4)–(6.6) and, moreover,
 that it would be inappropriate to adjust for F. If F is affected by the C, then (6.8) canmay be positive or
 not be derived, and the difference
-P(F (cid:2) do ( ¬ C)).
+P(F do ( ¬ C)).
 negative, depending on the relative magnitudes of P (F ƒ do (C)) and
 Provided C and E have no common cause, we should then assess the efficacy of C directly
 from the combined table (equation (6.1)) and not from the F-specific tables (equations
 (6.2)–(6.3)).
 
-P(E (cid:2) do (C)) (cid:8) P (E (cid:2) do ( ¬ C))
+P(E do (C)) P (E do ( ¬ C))
 
 Note that nowhere in our analysis have we assumed either that the data originate from
-a randomized study (i.e., P(E ƒ do(C)) (cid:7) P(E ƒ C)) or from a balanced study (i.e.,
-P (C (cid:2) F) (cid:7) P (C (cid:2) ¬ F)).
+a randomized study (i.e., P(E ƒ do(C)) P(E ƒ C)) or from a balanced study (i.e.,
+P (C F) P (C ¬ F)).
 On the contrary, given the tables of .1, our causal
 logic accepts gracefully that we are dealing with an unbalanced study but nevertheless
 refuses to accept the consistency of (6.4)–(6.6). People, likewise, can see clearly from
@@ -13432,8 +12465,6 @@ conditions were to change – say, from observational to controlled studies. Suc
 are not discernible from density functions (see Sections 1.3 and 1.4). The do( ) operator used in this book was devised specifically for distinguishing and managing this extra
 information.
 
-(cid:3)
-
 These difficulties notwithstanding, epidemiologists, biostatisticians, social scientists,
 and economists9 have made numerous attempts to define confounding in statistical terms,
 partly because statistical definitions – free of theoretical terms of "effect" or "influence" –
@@ -13465,8 +12496,6 @@ far as to state that the change-in-parameter method, a derivative of the associa
 only fundamental definition of confounding (see Greenland et al. 1989 for critiques of Grayson's
 position).
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 neither ensures unbiased effect estimates nor follows from the requirement of unbiasedness. After demonstrating, by examples, the absence of logical connections between the
 statistical and the causal notions of confounding, we will define a stronger notion of unbiasedness, called "stable" unbiasedness, relative to which a modified statistical criterion
 will be shown necessary and sufficient. The necessary part will then yield a practical
@@ -13483,9 +12512,9 @@ of no-confounding in mathematical forms.11
 Definition 6.2.1 (No-Confounding; Causal Definition)
 Let M be a causal model of the data-generating process – that is, a formal description
 of how the value of each observed variable is determined. Denote by P (y ƒ do (x)) the
-probability of the response event Y (cid:7) y under the hypothetical intervention X (cid:7) x, calculated according to M. We say that X and Y are not confounded in M if and only if
+probability of the response event Y y under the hypothetical intervention X x, calculated according to M. We say that X and Y are not confounded in M if and only if
 
-P (y (cid:2) do (x)) (cid:7) P (y (cid:2) x)
+P (y do (x)) P (y x)
 
 (6.10)
 
@@ -13495,23 +12524,23 @@ generated by M. If (6.10) holds, we say that P (y ƒ x) is unbiased.
 For the purpose of our discussion here, we take this causal definition as the meaning of
 the expression "no confounding." The probability P (y ƒ do (x)) was defined in Chapter 3
 (Definition 3.2.1, also abbreviated
-it may be interpreted as the conditional probability P* (Y (cid:7) y ƒ X (cid:7) x) corresponding to a controlled experiment in which X is randomized. We recall that this probability can be calculated from a causal model M either
-directly, by simulating the intervention do (X (cid:7) x), or (if
+it may be interpreted as the conditional probability P* (Y y ƒ X x) corresponding to a controlled experiment in which X is randomized. We recall that this probability can be calculated from a causal model M either
+directly, by simulating the intervention do (X x), or (if
 via the adjustment
 formula (equation (3.19))
 
-P (x, s) (cid:2) 0)
+P (x, s) 0)
 
-P(y (cid:2) xˆ));
+P(y xˆ));
 
-P(y (cid:2) do(x)) (cid:7) a
+P(y do(x)) a
 s
 
-P(y (cid:2) x, s) P(s),
+P(y x, s) P(s),
 
 where S stands for any set of variables, observed as well as unobserved, that satisfy the
 back-door criterion (Definition 3.3.1). Equivalently, P (y ƒ do (x)) can be written
-P(Y (x) (cid:7) y), where Y (x) is the potential-outcome variable as defined in (3.51) or in
+P(Y (x) y), where Y (x) is the potential-outcome variable as defined in (3.51) or in
 
 11 For simplicity, we will limit our discussion to unadjusted confounding; extensions involving measurement of auxiliary variables are straightforward and can be obtained from Section 3.3. We also
 use the abbreviated expression "X and Y are not confounded," though "the effect of X on Y is not
@@ -13523,8 +12552,6 @@ Rubin (1974). We bear in mind that the operator do ( ), and hence also effect es
 and confounding, must be defined relative to a specific causal or data-generating model
 M because these notions are not statistical in character and cannot be defined in terms of
 joint distributions.
-
-(cid:3)
 
 Definition 6.2.2 (No-Confounding; Associational Criterion)
 Let T be the set of variables in a problem that are not affected by X. We say that X and
@@ -13561,10 +12588,7 @@ situation may well be present where two factors, Z1 and Z2, jointly confound X a
 This may occur because statistical independence between X and individual members of
 T does not guarantee the independence of X and groups of variables taken from T. For
 example, let Z1 and Z2 be the outcomes of two independent fair coins, each affecting
-both X and Y. Assume that X occurs when Z1 and Z2 are equal and that Y occurs whenever Z1 and Z2 are unequal. Clearly, X and Y are highly confounded by the pair T (cid:7)
-(Z1, Z2); they are, in fact, perfectly correlated (negatively) without causally affecting
-
-Simpson's Paradox, Confounding, and Collapsibility
+both X and Y. Assume that X occurs when Z1 and Z2 are equal and that Y occurs whenever Z1 and Z2 are unequal. Clearly, X and Y are highly confounded by the pair T (Z1, Z2); they are, in fact, perfectly correlated (negatively) without causally affecting
 
 .3 X and Y are not confounded, though Z is associated with both.
 
@@ -13606,7 +12630,7 @@ exposure or disease and is merely one among many irrelevant properties that are 
 indeed, (6.10) is satisfied in this model12 and that, moreover, adjustment for Z would
 generally yield a biased result:
 
-P(Y (cid:7) y (cid:2) X (cid:7) x, Z (cid:7) z) P(Z (cid:7) z) (cid:9) P(Y (cid:7) y (cid:2) do(x)).
+P(Y y X x, Z z) P(Z z) P(Y y do(x)).
 
 a
 z
@@ -13635,8 +12659,6 @@ let T remain the set of all variables unaffected by X,13 requiring instead that 
 (U1*) T1 is unassociated with X and
 (U2*) T2 is unassociated with Y given X and T1.
 
-(cid:7)
-
 In the model of .3, for instance, conditions ((U1*) and (U2*) are satisfied by the
 choice T1
 , because (using the d-separation test) A is independent
@@ -13649,7 +12671,7 @@ with marginality (see Section 6.3.1) because (U1*) and (U2*) treat T1 and T2 as 
 Z, E
 is independent of Y, given
 
-(cid:7) A and T2
+A and T2
 E, Z
 
 .
@@ -13664,21 +12686,19 @@ is blocked by the colliding arrows at Z
 
 13 Alternatively, T can be confined to any set S of variables sufficient for control of confounding:
 
-P(y (cid:2) do(x)) (cid:7) a
+P(y do(x)) a
 s
 
-P(y (cid:2) x, s)P(s).
+P(y x, s)P(s).
 
 Again, however, we can never be sure if the measured variables in the model contain such a set,
 or which of T's subsets possess this property.
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 .4 Z is associated with both X and Y, yet the effect of X on Y is not
-confounded (when r (cid:7) (cid:8)(cid:2)g).
+confounded (when r g).
 
 variables. However, the modification falls short of restoring necessity. Because the set
-T (cid:7) (T1, T2) must include all variables unaffected by X (see note 13) and because practical tests are limited to proper subsets of T, we cannot conclude that confounding is
+T (T1, T2) must include all variables unaffected by X (see note 13) and because practical tests are limited to proper subsets of T, we cannot conclude that confounding is
 present solely upon the failure of (U1*) and (U2*), as specified in Section 6.3.2. This criterion too is thus inadequate as a basis for practical detection of confounding.
 
 We now discuss another fundamental limitation on our ability to detect confounding
@@ -13692,8 +12712,8 @@ Here we present a case that is devoid of barren proxies and in which the effect 
 
 Example 6.3.3 Consider a causal model defined by the linear equations
 
-x (cid:7) (cid:2)z (cid:6) e1,
-y (cid:7) (cid:3)x (cid:6) gz (cid:6) e2,
+x z e1,
+y x gz e2,
 
 (6.11)
 
@@ -13709,43 +12729,41 @@ are correlated unmeasured variables with
 1 or
 
 and where
-where
-Z is an exogenous variable that is uncorrelated with (cid:10)
-The diagram associated
+Z is an exogenous variable that is uncorrelated with The diagram associated
 with this model is depicted in .4. The effect of X on Y is quantified by the
 path coefficient which gives the rate of change of E (Y ƒ do (x)) per unit change
 in x.14
 
-cov(e1, e2) (cid:7) r
+cov(e1, e2) r
 e2.
 
-(cid:3),
+,
 
 It is not hard to show (assuming standardized variables) that the regression of Y on X
 gives
 
-y (cid:7) ((cid:3) (cid:6) r (cid:6) (cid:2)g) x (cid:6) e,
+y (r g) x e,
 
-(cid:7) (cid:3) (cid:6) r (cid:6) (cid:2)g
+r g
 
-(x, e) (cid:7) 0.
+(x, e) 0.
 rYX
 
 Thus, whenever the equality
 
-r (cid:7) (cid:8)(cid:2)g
+r g
 holds, the regression cowhere cov
-(cid:3),
+,
 is an unbiased estimate of meaning that the effect of
 efficient of
 X on Y is unconfounded (no adjustment is necessary). Yet the associational conditions
-(cid:2) (cid:9) 0)
+0)
 (U1) and (U2) are both violated by the variable Z; Z is associated with X (if
 for which
 and conditionally associated with Y, given X (except for special values of
 ryz#x
 
-(cid:7) 0).
+0).
 
 g
 
@@ -13764,7 +12782,7 @@ for the false confounder (Z in our example) will introduce bias into the effect 
 
 The failure of the associational criterion in the previous example calls for a reexamination
 of the notion of confounding and unbiasedness as defined in (6.10). The reason that X
-r (cid:7) (cid:8)(cid:2)g,
+r g,
 and Y were classified as unconfounded in Example 6.3.3 was that, by setting
 we were able to make the spurious association represented by r cancel the one mediated
 by Z. In practice, such perfect cancellation would be an incidental event specific to a peculiar combination of study conditions, and it would not persist when the parameters of
@@ -13776,7 +12794,7 @@ between education and exposure and regardless on how education and age influence
 type of car that a patient owns. We call this type of unbiasedness stable, since it is robust to change in parameters and remains intact as long as the configuration of causal
 connections in the model remains the same.
 
-(cid:2), g,
+, g,
 
 In light of this distinction between stable and incidental unbiasedness, we need to
 reexamine whether we should regard a criterion as inadequate if it misclassifies (as confounded) cases that are rendered unconfounded by mere incidental cancellation and, more
@@ -13803,8 +12821,6 @@ and
 
 e2.
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 Chapter 3 describes a graphical criterion, called the "back-door criterion," for identifying conditions of unbiasedness in a causal diagram.17 In the simple case of no adjustment (for measured covariates), the criterion states that X and Y are unconfounded
 if every path between X and Y that contains an arrow pointing into X must also contain
 a pair of arrows pointing head-to-head (as in .3); this criterion is valid whenever the missing links in the diagram represent absence of causal connections among the
@@ -13823,9 +12839,8 @@ it is clear that (X, Y) will continue to be classified as unconfounded regardles
 strength or type of causal relationships that are represented by the arrows in the diagram.
 In contrast, consider .4 in Example 6.3.3, where two paths end with arrows into
 X. Since none of these paths contains head-to-head arrows, the back-door criterion will
-r (cid:7)
-fail to classify the effect of X on Y as unconfounded, acknowledging that an equality
-(cid:8)(cid:2)g
+r fail to classify the effect of X on Y as unconfounded, acknowledging that an equality
+g
 
 (if it prevails) would not represent a stable case of unbiasedness.
 
@@ -13863,7 +12878,7 @@ To formally distinguish between stable and incidental unbiasedness, we use the f
 Definition 6.4.1 (Stable Unbiasedness)
 Let A be a set of assumptions (or restrictions) on the data-generating process, and let
 CA be a class of causal models satisfying A. The effect estimate of X on Y is said to be
-stably unbiased given A if P(y ƒ do(x)) (cid:7) P(y ƒ x) holds in every model M in CA.
+stably unbiased given A if P(y ƒ do(x)) P(y ƒ x) holds in every model M in CA.
 Correspondingly, we say that the pair (X, Y) is stably unconfounded given A.
 
 The assumptions commonly used to specify causal models can be either parametric or
@@ -13876,7 +12891,7 @@ remain undetermined. We now explore the statistical ramifications of these nonpa
 
 Definition 6.4.2 (Structurally Stable No-Confounding)
 Let AD be the set of assumptions embedded in a causal diagram D. We say that X and Y
-are stably unconfounded given AD if P(y ƒ do(x)) (cid:7) P(y ƒ x) holds in every parameterization of D. By "parameterization" we mean an assignment of functions to the links of
+are stably unconfounded given AD if P(y ƒ do(x)) P(y ƒ x) holds in every parameterization of D. By "parameterization" we mean an assignment of functions to the links of
 the diagram and prior probabilities to the background variables in the diagram.
 
 Explicit interpretation of the assumptions embedded in a causal diagram are given in
@@ -13906,14 +12921,11 @@ between X and Y (i.e., the correlation between
 
 and e2).
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 Theorem 6.4.3 (Common-Cause Principle)
 Let AD be the set of assumptions embedded in an acyclic causal diagram D. Variables X
 and Y are stably unconfounded given AD if and only if X and Y have no common ancestor
 in D.
 
-Proof
 The "if" part follows from the validity of the back-door criterion (Theorem 3.3.2). The
 "only if" part requires the construction of a specific model in which (6.10) is violated
 whenever X and Y have a common ancestor in D. This is easily done using linear modn
@@ -13936,7 +12948,6 @@ Let AZ denote the assumptions that (i) the data are generated by some (unspecifi
 acyclic model M and (ii) Z is a variable in M that is unaffected by X but may possibly
 affect Y.20 If both of the associational criteria (U1) and (U2) of Definition 6.2.2 are violated, then (X, Y) are not stably unconfounded given AZ.
 
-Proof
 Whenever X and Y are stably unconfounded, Theorem 6.4.3 rules out the existence of a
 common ancestor of X and Y in the diagram associated with the underlying model. The
 absence of a common ancestor, in turn, implies the satisfaction of either (U1) or (U2)
@@ -13979,9 +12990,9 @@ Definition 6.5.1 (Collapsibility)
 Let g [P (x, y)] be any functional23 that measures the association between Y and X in the
 joint distribution P(x, y). We say that g is collapsible on a variable Z if
 
-Ezg[P(x, y (cid:2) z)] (cid:7) g[P(x, y)].
+Ezg[P(x, y z)] g[P(x, y)].
 
-It is not hard to show that if g stands for any linear functional of P (y ƒ x) – for example, the risk difference P(y ƒ x1) (cid:8) P(y ƒ x2) – then collapsibility holds whenever Z
+It is not hard to show that if g stands for any linear functional of P (y ƒ x) – for example, the risk difference P(y ƒ x1) P(y ƒ x2) – then collapsibility holds whenever Z
 is either unassociated with X or unassociated with Y given X. Thus, any violation of
 collapsibility implies violation of the two statistical criteria of Definition 6.2.2, and that
 is probably why many believed noncollapsibility to be intimately connected with confounding. However, the examples in this chapter demonstrate that violation of these two
@@ -13991,7 +13002,7 @@ and confounding are in general two distinct notions; neither implies the other.
 Some authors tend to believe that this distinction is a peculiar property of nonlinear effect measures g, such as the odds or likelihood ratios, and that "when the effect
 measure is an expectation over population units, confounding and noncollapsibility are
 algebraically equivalent" (Greenland 1998, p. 906). This chapter shows that confounding and noncollapsibility need not correspond even in linear functionals. For example,
-the effect measure P (y ƒ x1) (cid:8) P (y ƒ x2) (the risk difference) is not collapsible over Z
+the effect measure P (y ƒ x1) P (y ƒ x2) (the risk difference) is not collapsible over Z
 in .3 (for almost every parameterization of the graph) and yet the effect measure
 is unconfounded (for every parameterization).
 
@@ -13999,14 +13010,12 @@ is unconfounded (for every parameterization).
 23 A functional is an assignment of a real number to any function from a given set of functions. For
 is a functional, since it assigns a real number E(X) to each
 
-E(X) (cid:7) ©
+E(X) ©
 
 xxP(x)
 
 example, the mean
 probability function P(x).
-
-Simpson's Paradox, Confounding, and Collapsibility
 
 The logical connection between confounding and collapsibility is formed through the
 notion of stable no-confounding, as formulated in Definition 6.4.2 and Theorem 6.4.4.
@@ -14080,7 +13089,6 @@ claim can be given a necessary statistical test: S as a compound variable must b
 ciated both with X and with Y (given X). In .5, for example, S1
 S2
 
-(cid:7)
 are sufficient and nontrivial; both must satisfy the condition stated.
 Note, however, that although this test can screen out some obviously bad sets S
 claimed to be sufficient, it has nothing to do with sufficiency or confounding; it merely
@@ -14090,22 +13098,20 @@ adjustment.
 
 A, Z
 
-(cid:7)
-
 Proof of Necessity
 To prove that (U1) and (U2) must be violated whenever Z stands for a nontrivial sufficient set S, consider the case where X has no effect on Y. In this case, confounding
 amounts to a nonvanishing association between X and Y. A well-known property of con-
-X(cid:2)(cid:2) S,
+XS,
 ditional independence, called contraction (Section 1.1.5), states that (U1),
 together with sufficiency,
 
 implies violation of nontriviality,
 
-X(cid:2)(cid:2) Y:
+XY:
 
-X(cid:2)(cid:2) Y (cid:2) S,
+XY S,
 
-X(cid:2)(cid:2) S & X(cid:2)(cid:2)Y (cid:2) S 1 X(cid:2)(cid:2)Y.
+XS & XY S 1 XY.
 
 Likewise, another property of conditional independence, called intersection, states that
 (U2),
@@ -14113,19 +13119,17 @@ also implies violation of nontriviality,
 
 together with sufficiency,
 
-S(cid:2)(cid:2)Y (cid:2) X,
+SY X,
 
-X(cid:2)(cid:2)Y (cid:2) S,
+XY S,
 
-X(cid:2)(cid:2) Y.
+XY.
 
-S(cid:2)(cid:2)Y (cid:2) X & X(cid:2)(cid:2) Y (cid:2) S 1 X(cid:2)(cid:2)Y.
+SY X & XY S 1 XY.
 
 Thus, both (U1) and (U2) must be violated by any nontrivial sufficient set S.
 
 Note, however, that intersection holds only for strictly positive probability distributions, which means that the Rothman–Greenland condition may be violated if deterministic
-
-Simpson's Paradox, Confounding, and Collapsibility
 
 relationships hold among some variables in a problem. This can be seen from a simple
 example in which both X and Y stand in a one-to-one functional relationship to
@@ -14205,25 +13209,23 @@ and
 
 and
 
-(mA1, mB0) (cid:7) (mB1, mA0).
+(mA1, mB0) (mB1, mA0).
 
-CE (cid:7) mA1
+CE mA1
 
-(cid:8) mA0,
+mA0,
 
 mA0
 
 mB0
 
-with
+mB0,
 
-(cid:8) mB0,
-
-(cid:7) mB0.
+mB0.
 
 and so obtain
 
-CE (cid:7) mA1
+CE mA1
 
 then ex-
 In particular, if we define the causal effect by the difference
@@ -14233,7 +13235,7 @@ is measurable because both quantities are observed. Greenland and Robins thus de
 the causal effect CE to be unconfounded if
 
 mA0
-If we compare this definition to that of (6.10), P(y ƒ do(x)) (cid:7) P(y ƒ x), we find that
+If we compare this definition to that of (6.10), P(y ƒ do(x)) P(y ƒ x), we find that
 m
 the two coincide if we rewrite the latter as
 is the parameter of interest in the response distribution. However, the major difference
@@ -14241,9 +13243,7 @@ between the structural and the GR approaches lies in the level of analysis. Stru
 is not submitted to direct human judgment but is derived mathematically from more elementary judgments concerning causal processes.25 Second, the input judgments needed
 for the structural model are both qualitative and stable.
 
-m[P(y (cid:2) do(x))] (cid:7) m[P(y (cid:2) x)],
-
-where
+m[P(y do(x))] m[P(y x)],
 
 A simple example will illustrate the benefits of these features. Consider the following
 
@@ -14257,16 +13257,9 @@ the above phenomenon – noncollapsibility without confounding – cannot occur,
 We have seen in this chapter that statement (Q*) should be qualified in several ways
 and that, in general, noncollapsibility and confounding are two distinct notions – neither implying the other, regardless of the effect measure (Section 6.5.1). However, the
 
-(cid:3)
-
-24 In do( ) notation, we would write PA1(y) (cid:7) PA(y ƒ do (X (cid:7) 1)).
+24 In do( ) notation, we would write PA1(y) PA(y ƒ do (X 1)).
 25 Recall that the do ( ) operator is defined mathematically in terms of equation deletion in structural
-equation models; consequently, the verification of the nonconfounding condition P (y ƒ do (x)) (cid:7)
-P (y ƒ x) in a given model is not a matter of judgment but a subject of mathematical analysis.
-
-(cid:3)
-
-Simpson's Paradox, Confounding, and Collapsibility
+equation models; consequently, the verification of the nonconfounding condition P (y ƒ do (x)) P (y ƒ x) in a given model is not a matter of judgment but a subject of mathematical analysis.
 
 question we wish to discuss here is methodological: What formalism would be appropriate for validating, refuting, or qualifying statements of this sort? Clearly, since (Q*)
 makes a general claim about all instances, one counterexample would suffice to refute
@@ -14319,13 +13312,11 @@ and Y and that Z has no causal effect on Y, and almost every such parameterizati
 generate a counterexample to claim (Q*). Moreover, we can also disprove (Q*) by a
 casual inspection of the diagram and without generating numerical counterexamples.
 
-(cid:3)
-
 26 Readers who attempt to construct a counterexample to statement (Q*) using counterfactual contingency tables will certainly appreciate this difficulty.
 
 6.6 Conclusions
 
-.3, for example, shows vividly that the risk difference P (y ƒ x1) (cid:8) P (y ƒ x2) is
+.3, for example, shows vividly that the risk difference P (y ƒ x1) P (y ƒ x2) is
 not collapsible on Z and, simultaneously, that X and Y are (stably) unconfounded.
 
 The difference between the two formulations is even more pronounced when we come
@@ -14367,8 +13358,6 @@ effect estimates; most prefer to analyze the more manageable phenomenon of colla
 stand-alone target. Some go as far as naming collapsibility "nonconfoundedness" (Grayson 1987;
 Steyer et al. 1997).
 
-Simpson's Paradox, Confounding, and Collapsibility
-
 (Pearl and Verma 1991), and faithfulness (Spirtes et al. 1993), which assist in the elucidation of causal diagrams from sparse statistical associations (see Chapter 2). The same
 conception has evidently been shared by authors who aspired to connect associational
 criteria with confounding.
@@ -14380,8 +13369,6 @@ that the structural framework overcomes basic cognitive and methodological barri
 have made confounding one of the most confused topics in the literature. It is therefore
 natural to predict that this framework will become the primary mathematical basis for
 future studies of confounding.
-
-Acknowledgments
 
 Discussions with James Robins and Sander Greenland were extremely valuable. Sander,
 in particular, gave many constructive comments on two early drafts and helped to keep
@@ -14402,14 +13389,10 @@ causation, we should look to epidemiologists for guidance and wisdom.
 
 C H A P T E R S E V E N
 
-The Logic of Structure-Based Counterfactuals
-
 And the Lord said,
 "If I find in the city of Sodom fifty good men,
 I will pardon the whole place for their sake."
 Genesis 18:26
-
-Preface
 
 This chapter provides a formal analysis of structure-based counterfactuals, a concept
 introduced briefly in Chapters 1 and 3 that will occupy the rest of our discussion in this
@@ -14436,8 +13419,6 @@ The axiomatic characterization developed in Section 7.3 enables us to compare st
 based on Lewis's closest-world semantics (Sections 7.4.1–7.4.4). The formal equivalence of the structural approach and the Neyman–Rubin potential-outcome framework is
 discussed in Section 7.4.4. Finally, we revisit the topic of exogeneity and extend our discussion of Section 5.4.3 with counterfactual definitions of exogenous and instrumental
 variables in Section 7.4.5.
-
-The Logic of Structure-Based Counterfactuals
 
 The final part of this chapter (Section 7.5) compares the structural account of causality with that based on probabilistic relationships. We elaborate our preference toward the
 structural account and highlight the difficulties that the probabilistic account is currently
@@ -14478,9 +13459,7 @@ function, as another example, is a model in probability logic; it assigns a trut
 
 philosophers to illustrate chains of causal processes.
 
-7.1 Structural Model Semantics
-
-P(A (cid:4) B) (cid:3) p,
+P(A B) p,
 
 any sentence of the form
 where A and B are Boolean expressions representing events. A causal model, naturally, should encode the truth values of sentences
@@ -14495,7 +13474,7 @@ such changes.
 Definition 7.1.1 (Causal Model)
 A causal model is a triple
 
-M (cid:2) (cid:2)U, V, F(cid:3),
+M U, V, F,
 
 where:
 
@@ -14506,22 +13485,22 @@ where:
 by variables in the model – that is, variables in
 
 of variables, called endogenous, that are determined
-U (cid:2) V;
+U V;
 
 and
-such that each fi is a mapping from (the
+such that each fiis a mapping from (the
 and the
 
-(cid:3) U
+U
 
-(cid:3) V \Vi
+V \Vi
 
 (iii) F is a set of functions
 respective domains of)
-entire set F forms a mapping from U to V. In other words, each fi in
+entire set F forms a mapping from U to V. In other words, each fiin
 
 f1, f2,…, fn6
-Ui (cid:2) PAi
+Ui PAi
 
 to Vi, where
 
@@ -14533,10 +13512,10 @@ Ui
 
 vi
 
-(cid:2) fi (pai, ui), i (cid:2) 1, p , n,
+fi (pai, ui), i 1, p , n,
 
 assigns a value to Vi that depends on (the values of) a select set of variables in
-V (cid:2) U,
+V U,
 
 and the entire set F has a unique solution V (u).3,4
 
@@ -14557,74 +13536,63 @@ of which variables Nature must consult before deciding the value of Vi.
 
 4 Uniqueness is ensured in recursive (i.e., acyclic) systems. Halpern (1998) allows multiple solutions in nonrecursive systems.
 
-The Logic of Structure-Based Counterfactuals
-
 Definition 7.1.2 (Submodel)
 Let M be a causal model, X a set of variables in V, and x a particular realization of X.
 A submodel Mx of M is the causal model
 
 Mx
 
-(cid:3),
-(cid:2) (cid:2)U, V, Fx
-
-where
-
-(cid:2)
+,
+U, V, Fx
 
 Fx
 
 fi : Vi
 
-(cid:4) X
-
-(cid:2)
-
-X (cid:2) x
+X x
 .
 
 (7.1)
 
-In words, Fx is formed by deleting from F all functions fi corresponding to members of
-set X and replacing them with the set of constant functions X (cid:2) x.
+In words, Fx is formed by deleting from F all functions ficorresponding to members of
+set X and replacing them with the set of constant functions X x.
 
 Submodels are useful for representing the effect of local actions and hypothetical
 changes, including those implied by counterfactual antecedents. If we interpret each
-function fi in F as an independent physical mechanism and define the action do(X (cid:2) x)
-as the minimal change in M required to make X (cid:2) x hold true under any u, then Mx
+function fiin F as an independent physical mechanism and define the action do(X x)
+as the minimal change in M required to make X x hold true under any u, then Mx
 represents the model that results from such a minimal change, since it differs from M
 by only those mechanisms that directly determine the variables in X. The transformation from M to Mx modifies the algebraic content of F, which is the reason for the name
 "modifiable structural equations" used in Galles and Pearl (1998).5
 
 Definition 7.1.3 (Effect of Action)
 Let M be a causal model, X a set of variables in V, and x a particular realization of X.
-The effect of action do(X (cid:2) x) on M is given by the submodel Mx.
+The effect of action do(X x) on M is given by the submodel Mx.
 
 Definition 7.1.4 (Potential Response)
-Let X and Y be two subsets of variables in V. The potential response of Y to action do(X (cid:2)
-x), denoted Yx(u), is the solution for Y of the set of equations Fx,6 that is,
+Let X and Y be two subsets of variables in V. The potential response of Y to action do(X x), denoted Yx(u), is the solution for Y of the set of equations Fx,6 that is,
 (u).
-We will confine our attention to actions in the form of do(X (cid:2) x). Conditional actions
-of the form "do(X (cid:2) x) if Z (cid:2) z" can be formalized using the replacement of equations
-by functions of Z, rather than by constants (Section 4.2). We will not consider disjunctive actions of the form "do(X (cid:2) x or Z (cid:2) z)," since these complicate the probabilistic
+We will confine our attention to actions in the form of do(X x). Conditional actions
+of the form "do(X x) if Z z" can be formalized using the replacement of equations
+by functions of Z, rather than by constants (Section 4.2). We will not consider disjunctive actions of the form "do(X x or Z z)," since these complicate the probabilistic
 treatment of counterfactuals.
 
-Yx(u) (cid:2) YMx
+Yx(u) YMx
 
 Definition 7.1.5 (Counterfactual)
 Let X and Y be two subsets of variables in V. The counterfactual sentence "Y would be
 with Yx(u)
 y (in situation u), had X been x" is interpreted as the equality
-being the potential response of Y to X (cid:2) x.
+being the potential response of Y to X x.
 
-Yx(u) (cid:2) y,
+Yx(u) y,
 
 5 Structural modifications date back to Haavelmo (1943), Marschak (1950), and Simon (1953). An
 explicit translation of interventions into "wiping out" equations from the model was first proposed
 by Strotz and Wold (1960) and later used in Fisher (1970), Sobel (1990), Spirtes et al. (1993), and
 Pearl (1995a). A similar notion of submodel was introduced by Fine (1985), though not specifically
 for representing actions and counterfactuals.
-Y (cid:2) (Y1, Y2, p ),
+Y (Y1, Y2, p ),
 
 then Yx(u) stands for a vector of functions (
 
@@ -14638,14 +13606,12 @@ Y1x
 
 Y2x
 
-7.1 Structural Model Semantics
-
 Definition 7.1.5 thus interprets the counterfactual phrase "had X been x" in terms of a hypothetical modification of the equations in the model; it simulates an external action (or
 spontaneous change) that modifies the actual course of history and enforces the condition
-"X (cid:2) x" with minimal change of mechanisms. This is a crucial step in the semantics of
+"X x" with minimal change of mechanisms. This is a crucial step in the semantics of
 counterfactuals (Balke and Pearl 1994b), as it permits x to differ from the current value of
 X(u) without creating logical contradiction; it also suppresses abductive inferences (or
-backtracking) from the counterfactual antecedent X (cid:2) x.7 In Chapter 3 (Section 3.6.3)
+backtracking) from the counterfactual antecedent X x.7 In Chapter 3 (Section 3.6.3)
 we used the notation Y(x, u) to denote the unit-based conditional "the value that Y would
 obtain in unit u, had X been x," as used in the Neyman–Rubin potential-outcome model.
 Throughout the rest of this book we will use the notation Yx(u) to denote counterfactuals tied specifically to the structural model interpretation of Definition 7.1.5 (paralleling
@@ -14655,7 +13621,7 @@ any specific semantics.
 Definition 7.1.5 endows the atomic mechanisms
 
 themselves with interventional–
-(cid:2) fi(pai, ui) is the value of Vi in the submodel
+fi(pai, ui) is the value of Vi in the submodel
 counterfactual interpretation, because yi
 My\yi. In other words, ƒi(pai, ui) stands for the potential response of Vi when we intervene on all other variables in V.
 
@@ -14666,7 +13632,7 @@ This formulation generalizes naturally to probabilistic systems as follows.
 Definition 7.1.6 (Probabilistic Causal Model)
 A probabilistic causal model is a pair
 
-(cid:2)M, P(u)(cid:3),
+M, P(u),
 
 where M is a causal model and P(u) is a probability function defined over the domain of
 U.
@@ -14675,15 +13641,13 @@ The function P(u), together with the fact that each endogenous variable is a fun
 U, defines a probability distribution over the endogenous variables. That is, for every set
 of variables
 
-we have
+Y V,
 
-Y (cid:3) V,
-
-P(y) (cid:2) P(Y (cid:2) y) (cid:2) a
+P(y) P(Y y) a
 
 P(u).
 
-u(cid:4)Y(u)(cid:2)y
+uY(u)y
 
 (7.2)
 
@@ -14692,46 +13656,34 @@ function Yx(u) induced by the submodel Mx:
 
 P(Yx
 
-(cid:2) y) (cid:2) a
-u (cid:4) Yx(u)(cid:2)y
+y) a
+u Yx(u)y
 
 P(u).
 
 (7.3)
 
 Likewise, a causal model defines a joint distribution on counterfactual statements.
-(cid:2) z) is defined for any (not necessarily disjoint) sets of variare well
+z) is defined for any (not necessarily disjoint) sets of variare well
 and
 
-(cid:2) y, X (cid:2) x(cid:5))
+y, X x)
 
-(cid:2) y, Zw
+y, Zw
 That is, P(Yx
 ables Y, X, Z, and W. In particular,
 and are given by
 defined for
 
-(cid:2) y, Yx(cid:5) (cid:2) y(cid:5))
+y, Yxy)
 
-x (cid:4) x(cid:5)
-
-P(Yx
-
-P(Yx
+x xP(Yx
 
 7 Simon and Rescher (1966, p. 339) did not include this step in their account of counterfactuals and
 noted that backward inferences triggered by the antecedents can lead to ambiguous interpretations.
 
-The Logic of Structure-Based Counterfactuals
-
-P(Yx
-
-(cid:2) y, X (cid:2) x(cid:5)) (cid:2)
-
-a
-u (cid:4) Yx(u)(cid:2)y & X(u)(cid:2)x(cid:5)
-
-P(u)
+y, X x) a
+u Yx(u)y & X(u)xP(u)
 
 (7.4)
 
@@ -14739,50 +13691,40 @@ and
 
 P(u).
 
-P(Yx
-
-(cid:2) y, Yx(cid:5) (cid:2) y(cid:5)) (cid:2)
-
-a
-u(cid:4)Yx(u)(cid:2)y &Yx(cid:5)(u)(cid:2)y(cid:5)
-If x and x(cid:5) are incompatible then Yx and Yx' cannot be measured simultaneously, and
+y, Yxy) a
+uYx(u)y &Yx(u)yIf x and xare incompatible then Yx and Yx' cannot be measured simultaneously, and
 it may seem meaningless to attribute probability to the joint statement "Y would be y if
-X (cid:2) x and Y would be
-if X (cid:2) x(cid:5)." Such concerns have been a source of recent objections to treating counterfactuals as jointly distributed random variables (Dawid 2000).
+X x and Y would be
+if X x." Such concerns have been a source of recent objections to treating counterfactuals as jointly distributed random variables (Dawid 2000).
 The definition of Yx and
 in terms of the solution for Y in two distinct submodels, governed by a standard probability space over U, neutralizes these objections by interpreting the contradictory joint statement as an ordinary event in U-space.
 
-(cid:5)
 Yx
 
-y(cid:5)
+y(7.5)
 
-(7.5)
-
-Of particular interest to us would be probabilities of counterfactuals that are conditional on actual observations. For example, the probability that event X (cid:2) x "was the
-cause" of event Y (cid:2) y may be interpreted as the probability that Y would not be equal
-to y had X not been x, given that X (cid:2) x and Y (cid:2) y have in fact occurred (see Chapter 9 for an in-depth discussion of the probabilities of causation). Such probabilities are
+Of particular interest to us would be probabilities of counterfactuals that are conditional on actual observations. For example, the probability that event X x "was the
+cause" of event Y y may be interpreted as the probability that Y would not be equal
+to y had X not been x, given that X x and Y y have in fact occurred (see Chapter 9 for an in-depth discussion of the probabilities of causation). Such probabilities are
 well defined in the model just described; they require the evaluation of expressions of
-with x(cid:5) and y(cid:5) incompatible with x and y, rethe form
+with xand yincompatible with x and y, rethe form
 spectively. Equation (7.4) allows the evaluation of this quantity as follows:
 
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) X (cid:2) x, Y (cid:2) y),
+P(YxyX x, Y y),
 
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) X (cid:2) x, Y (cid:2) y) (cid:2)
+P(YxyX x, Y y) P(Yxy, X x, Y y)
+P(X x, Y y)
 
-P(Yx(cid:5) (cid:2) y(cid:5), X (cid:2) x, Y (cid:2) y)
-P(X (cid:2) x, Y (cid:2) y)
-
-(cid:2) a
+a
 u
 
-P(Yx(cid:5)(u) (cid:2) y(cid:5))P(u (cid:4) x, y).
+P(Yx(u) y)P(u x, y).
 
 (7.6)
 
 In other words, we first update P(u) to obtain P(u ƒ x, y) and then use the updated distribution P(u ƒ x, y) to compute the expectation of the equality
 
-Yx(cid:5)(u) (cid:2) y(cid:5).
+Yx(u) y.
 
 This substantiates the three-step procedure introduced in Section 1.4, which we now
 
@@ -14794,20 +13736,16 @@ Given model
 tence "If it were A then B," given evidence e, can be evaluated using the following three
 steps.
 
-(cid:2)M, P(u)(cid:3),
+M, P(u),
 
 1. Abduction – Update P(u) by the evidence e to obtain P(u ƒ e).
 
 2. Action – Modify M by the action do(A), where A is the antecedent of the counterfactual, to obtain the submodel MA.
 3. Prediction – Use the modified model
 
-(cid:2)MA, P(u (cid:4) e)(cid:3)
-
-of B, the consequence of the counterfactual.
+MA, P(u e)of B, the consequence of the counterfactual.
 
 to compute the probability
-
-7.1 Structural Model Semantics
 
 .1 Causal relationships in the example of the twoman firing squad.
 
@@ -14820,11 +13758,11 @@ alization of the background variables U. A causal theory is a set of causal worl
 
 where M is a causal model and u is a particular re-
 
-(cid:2)M, u(cid:3),
+M, u,
 
-A world w can be viewed as a degenerate probabilistic model for which P(u) (cid:2) 1. Causal
+A world w can be viewed as a degenerate probabilistic model for which P(u) 1. Causal
 theories will be used to characterize partial specifications of causal models, for example,
-models sharing the same causal diagram or models in which the functions fi are linear
+models sharing the same causal diagram or models in which the functions fiare linear
 with undetermined coefficients.
 
 7.1.2 Evaluating Counterfactuals: Deterministic Analysis
@@ -14836,11 +13774,11 @@ be answered formally using structural model semantics.
 Example 1: The Firing Squad
 Consider a two-man firing squad as depicted in .1, where A, B, C, D, and U
 stand for the following propositions:
-U (cid:2) court orders the execution;
-C (cid:2) captain gives a signal;
-A (cid:2) rifleman A shoots;
-B (cid:2) rifleman B shoots;
-D (cid:2) prisoner dies.
+U court orders the execution;
+C captain gives a signal;
+A rifleman A shoots;
+B rifleman B shoots;
+D prisoner dies.
 
 Assume that the court's decision is unknown, that both riflemen are accurate, alert,
 and law-abiding, and that the prisoner is not likely to die from fright or other extraneous
@@ -14848,8 +13786,6 @@ causes. We wish to construct a formal representation of the story, so that the f
 sentences can be evaluated mechanically.
 
 8 Adnan Darwiche called my attention to the importance of this object.
-
-The Logic of Structure-Based Counterfactuals
 
 S1 Prediction – If rifleman A did not shoot, then the prisoner is alive:
 
@@ -14919,8 +13855,6 @@ logic programming), where the implication sign dictates the direction of inferen
 even contraposition is not licensed, metalogical inference machinery must be invoked to
 perform abduction (Eshghi and Kowalski 1989).
 
-7.1 Structural Model Semantics
-
 Second, the feature that renders S1–S3 manageable in standard logic is that they all
 deal with epistemic inference – that is, inference from beliefs to beliefs about a static
 world. Sentence S2, for example, can be explicated to state: If we find that the prisoner
@@ -14940,10 +13874,10 @@ our story is as follows.
 
 Model M
 
-C (cid:2) U
-A (cid:2) C
-B (cid:2) C
-D (cid:2) A
+C U
+A C
+B C
+D A
 
 B
 
@@ -14961,14 +13895,14 @@ specifically violated. We further use parenthetical symbols next to each equatio
 to identify explicitly the dependent variable (on the l.h.s.) in the equation, thus representing the causal asymmetry associated with the arrows in .1.
 
 To evaluate S4, we follow Definition 7.1.3 and form the submodel MA, in which the
-equation A (cid:2) C is replaced by A (simulating the decision of rifleman A to shoot regardless of signals).
+equation A C is replaced by A (simulating the decision of rifleman A to shoot regardless of signals).
 
 Model MA
 
-C (cid:2) U
+C U
 A
-B (cid:2) C
-D (cid:2) A
+B C
+D A
 
 B
 
@@ -15002,11 +13936,8 @@ and thus confirm the validity
 It is important to note that "problematic" sentences like S4, whose antecedent violates one of the basic premises in the story (i.e., that both riflemen are law-abiding) are
 handled naturally in the same deterministic setting in which the story is told. Traditional
 
-The Logic of Structure-Based Counterfactuals
-
 logicians and probabilists tend to reject sentences like S4 as contradictory and insist on
-reformulating the problem probabilistically so as to tolerate exceptions to the law A (cid:2)
-C.9 Such reformulations are unnecessary; the structural approach permits us to process
+reformulating the problem probabilistically so as to tolerate exceptions to the law A C.9 Such reformulations are unnecessary; the structural approach permits us to process
 commonplace causal statements in their natural deterministic habitat without first immersing them in nondeterministic decor. In this framework, all laws are understood to
 represent "defeasible" default expressions – subject to breakdown by deliberate intervention. The basic laws of physics remain immutable, of course, but their applicability to any
 given scenario is subject to modification by agents' actions or external intervention.
@@ -15047,10 +13978,10 @@ Step 1
 
 Model M
 
-C (cid:2) U
-A (cid:2) C
-B (cid:2) C
-D (cid:2) A
+C U
+A C
+B C
+D A
 
 B
 
@@ -15068,10 +13999,10 @@ Model
 
 M¬A
 
-C (cid:2) U
+C U
 ¬ A
-B (cid:2) C
-D (cid:2) A
+B C
+D A
 
 B
 
@@ -15094,8 +14025,6 @@ Conclusions: U, ¬ A, C, B, D
 (D)
 
 9 This problem, I speculate, was one of the primary forces for the emergence of probabilistic causality in the 1960s (see Section 7.5 for review).
-
-7.1 Structural Model Semantics
 
 Note that it is only the value of U, the background variable, that is carried over from
 step 1 to step 2; all other propositions must be reevaluated subject to the new modification
@@ -15122,19 +14051,19 @@ D 1 D*¬A*
 
 Combined Theory
 
-C* (cid:2) U
+C* U
 ¬ A*
-B* (cid:2) C*
-D* (cid:2) A*
+B* C*
+D* A*
 
 B*
 
 ¡
 
-C (cid:2) U
-A (cid:2) C
-B (cid:2) C
-D (cid:2) A
+C U
+A C
+B C
+D A
 
 B
 
@@ -15187,8 +14116,6 @@ attributable to the modification do
 We should also emphasize that most counterfactual utterances in natural language
 presume, often implicitly, knowledge of facts that are affected by the antecedent. For
 
-The Logic of Structure-Based Counterfactuals
-
 example, when we say that "B would be different were it not for A," we imply knowledge of what the actual value of B is and that B is susceptible to A. It is this sort of
 relationship that gives counterfactuals their unique character – distinct from action
 sentences – and, as we saw in Section 1.4, it is this sort of sentence that would require
@@ -15205,7 +14132,7 @@ let us modify the firing-squad story slightly, assuming that:
 
 3.
 
-there is a probability P(U) (cid:2) p that the court has ordered the execution;
+there is a probability P(U) p that the court has ordered the execution;
 rifleman A has a probability q of pulling the trigger out of nervousness; and
 
 rifleman A's nervousness is independent of U.
@@ -15217,15 +14144,14 @@ in fact dead.
 
 D)
 
-(cid:4)
 P( ¬ D¬A
 
 Intuitively, we can figure out the answer by noting that
 
 is true if and only if the
-P( ¬ U (cid:4) D),
+P( ¬ U D),
 court has not issued an order. Thus, our task amounts to that of computing
-which evaluates to q(1 (cid:6) p)/[1 (cid:6) (1 (cid:6) q)(1 (cid:6) p)]. However, our aim is to demonstrate
+which evaluates to q(1 p)/[1 (1 q)(1 p)]. However, our aim is to demonstrate
 a general and formal method of deriving such probabilities, based on (7.4), that makes
 little use of intuition.
 
@@ -15236,14 +14162,12 @@ This model is given as follows.
 
 Model
 
-(cid:2)M, P(u, w)(cid:3)
+M, P(u, w)(U, W) ~ P (u, w)
 
-(U, W) ~ P (u, w)
-
-C (cid:2) U
-A (cid:2) C
-B (cid:2) C
-D (cid:2) A
+C U
+A C
+B C
+D A
 
 W
 
@@ -15259,19 +14183,17 @@ B
 ¡
 In this model, the background variables are distributed as
 
-P(u, w) (cid:2)
-
-pq
-p(1 (cid:6) q)
-(1 (cid:6) p)q
-(1 (cid:6) p)(1 (cid:6) q)
+P(u, w) pq
+p(1 q)
+(1 p)q
+(1 p)(1 q)
 
 μ
 
-if u (cid:2) 1, w (cid:2) 1,
-if u (cid:2) 1, w (cid:2) 0,
-if u (cid:2) 0, w (cid:2) 1,
-if u (cid:2) 0, w (cid:2) 0.
+if u 1, w 1,
+if u 1, w 0,
+if u 0, w 1,
+if u 0, w 0.
 
 (7.7)
 
@@ -15279,19 +14201,15 @@ Following Theorem 7.1.7, our first step (abduction) is to compute the posterior 
 accounting for the fact that the prisoner is found dead. This is easily
 evaluated to:
 
-P(u, w (cid:4) D),
-
-7.1 Structural Model Semantics
+P(u, w D),
 
 .2 Twin network representation of the firing squad.
 
-P(u, w (cid:4) D) (cid:2)
+P(u, w D) p(u, w)
+1(1p)(1q)
 
-p(u, w)
-1(cid:6)(1(cid:6)p)(1(cid:6)q)
-
-if u (cid:2) 1 or w (cid:2) 1,
-if u (cid:2) 0 and w (cid:2) 0.
+if u 1 or w 1,
+if u 0 and w 0.
 
 (7.8)
 
@@ -15306,14 +14224,12 @@ while retaining the posterior
 
 Model
 
-(cid:2)M¬A, P(u, w (cid:4) D)(cid:3)
+M¬A, P(u, w D)(U, W)~P(u, w D)
 
-(U, W)~P(u, w (cid:4) D)
-
-C (cid:2) U
+C U
 ¬ A
-B (cid:2) C
-D (cid:2) A
+B C
+D A
 
 B
 
@@ -15333,10 +14249,8 @@ P( ¬ D)
 
 in this probabilistic model. Noting that
 
-P( ¬ D¬A (cid:4) D) (cid:2) P( ¬ U (cid:4) D) (cid:2)
-
-q(1 (cid:6) p)
-1 (cid:6) (1 (cid:6) q)(1 (cid:6) p)
+P( ¬ D¬A D) P( ¬ U D) q(1 p)
+1 (1 q)(1 p)
 
 .
 
@@ -15362,36 +14276,29 @@ distinctly, because they may obtain different values in the hypothetical versus 
 
 M¬A.
 
-The Logic of Structure-Based Counterfactuals
-
 .3 Twin network representation of the counterfactual Yx in the
 model X S Z S Y.
 
 world. The task of computing
-P( ¬ D* (cid:4) D)
+P( ¬ D* D)
 that of computing
 
 P( ¬ D)
 in the twin network shown, setting A* to false.
 
-(cid:2)M¬A, P(u, y (cid:4) z)(cid:3)
-
-in the model
+M¬A, P(u, y z)in the model
 
 thus reduces to
 
-(cid:2) y (cid:4) z),
-
-P(Yx
+y z),
 
 In general, if we wish to compute the counterfactual probability
 
-where
 X, Y, and Z are arbitrary sets of variables (not necessarily disjoint), Theorem 7.1.7
-(cid:2)Mx, P(u (cid:4) z)(cid:3),
+Mx, P(u z),
 which reduces to computing
 instructs us to compute P(y) in the submodel
-P(y* (cid:4) z)
+P(y* z)
 in an augmented Bayesian network. Such
 an ordinary conditional probability
 computation can be performed by standard evidence propagation techniques. The advantages of delegating this computation to inference in a Bayesian network are that the disneed not be explicated, conditional independencies can be exploited,
@@ -15399,16 +14306,13 @@ tribution
 and local computation methods can be employed (such as those summarized in Section
 1.2.4).
 
-P(u (cid:4) z)
-
-(cid:2)
-(cid:2)
+P(u z)
 
 Yx
 
-X (cid:4) Z
+X Z
 
-X (cid:4) Z
+X Z
 
 X S Z S Y,
 
@@ -15416,10 +14320,9 @@ The twin network representation also offers a useful way of testing independenci
 among counterfactual quantities. To illustrate, suppose that we have a chainlike causal
 and that we wish to test whether Yx is independent of X given Z
 diagram,
-(cid:2)(cid:2) X (cid:4) Z).
+X Z).
 (i.e., Yx
 The twin network associated with this chain is shown in .3.
-(cid:2)(cid:2)
 To test whether
 holds in the original model, we test whether Z d-separates X
 Yx
@@ -15433,7 +14336,7 @@ tween Y* and X; hence, Yx and X are not independent conditional on those variabl
 The connection is disrupted, however, if we do not condition on either Y or Z, in which
 case
 
-Yx (cid:2)(cid:2) X.
+Yx X.
 The twin network reveals an interesting interpretation of counterfactuals of the form
 ZpaZ
 stands for the set of Z's parents. Consider the ques-
@@ -15441,7 +14344,7 @@ stands for the set of Z's parents. Consider the ques-
 tion of whether Zx is independent of some given set of variables in the model of .3.
 The answer to this question depends on whether Z* is d-separated from that set of variables. However, any variable that is d-separated from Z* would also be d-separated from
 UZ, so the node representing UZ can serve as a one-way proxy for the counterfactual variable Zx. This is not a coincidence, considering that Z is governed by the equation
-z (cid:2) fZ (x, uZ)
+z fZ (x, uZ)
 . By definition, the probability of Zx is equal to the probability of Z under
 the condition where X is held fixed at x. Under such condition, Z may vary only if UZ
 varies. Therefore, if UZ obeys a certain independence relationship, then Zx (more generally,
@@ -15449,8 +14352,6 @@ varies. Therefore, if UZ obeys a certain independence relationship, then Zx (mor
 PAZ
 
 Y, Z
-
-7.2 Applications and Interpretation of Structural Models
 
 .4 Causal diagram illustrating the relationship between price (P) and demand (Q).
 
@@ -15465,21 +14366,15 @@ and
 
 both hold in the twin-network and, therefore,
 
-(UY (cid:2)(cid:2) X (cid:4)
-
-Y*, Z*
+(UY X Y*, Z*
 
 ZpaZ
 
-(UY (cid:2)(cid:2) UZ (cid:4)
-Yz (cid:2)(cid:2) X (cid:4)
-Yx, Zx6
+(UY UZ Yz X Yx, Zx6
 
 )G
 Y, Z
-and Yz (cid:2)(cid:2) Zx (cid:4)
-
-Y, Z
+and Yz Zx Y, Z
 must hold in the model. Additional considerations involving twin networks, including
 generalizations to multi-networks (representing counterfactuals under different anticedants)
 are reported in Shpitser and Pearl (2007). See Sections 11.3.2 and 11.7.3.
@@ -15494,8 +14389,8 @@ Policy Analysis in Linear Econometric Models: An Example
 In Section 1.4 we illustrated the nature of structural equation modeling using the canonical economic problem of demand and price equilibrium (see .4). In this chapter,
 we use this problem to answer policy-related questions.
 To recall, this example consists of the two equations
-q (cid:2) b1 p (cid:7) d1i (cid:7) u1,
-p (cid:2) b2 q (cid:7) d2w (cid:7) u2,
+q b1 p d1i u1,
+p b2 q d2w u2,
 
 (7.10)
 
@@ -15507,13 +14402,10 @@ u2 represent error terms – omitted factors that affect quantity and price, res
 
 Q, P
 
-and U (cid:2)
-
-U1, U2, I, W
+and U U1, U2, I, W
 
 This system of equations constitutes a causal model (Definition 7.1.1) if we define
-V (cid:2)
-and assume that each equation represents an autonomous process in the sense of Definition 7.1.3. It is normally assumed that I and W
+V and assume that each equation represents an autonomous process in the sense of Definition 7.1.3. It is normally assumed that I and W
 are observed, while U1 and U2 are unobservable and independent of I and W. Since the
 error terms U1 and U2 are unobserved, a complete specification of the model must include
 the distribution of these errors, which is usually taken to be Gaussian with the covariance
@@ -15525,7 +14417,7 @@ permit consistent estimation of all model parameters, including the covariance m
 g ij.
 However, the focus of this book is not the estimation of parameters but rather their
 
-(cid:2) cov(ui, uj).
+cov(ui, uj).
 
 I, W
 
@@ -15533,19 +14425,15 @@ g ij
 
 and
 
-The Logic of Structure-Based Counterfactuals
-
 utilization in policy predictions. Accordingly, we will demonstrate how to evaluate the
 following three queries.
 
-1. What is the expected value of the demand Q if the price is controlled at P (cid:2) p0?
-2. What is the expected value of the demand Q if the price is reported to be P (cid:2)
+1. What is the expected value of the demand Q if the price is controlled at P p0?
+2. What is the expected value of the demand Q if the price is reported to be P p0?
 
-p0?
+3. Given that the current price is P p0, what would be the expected value of the
 
-3. Given that the current price is P (cid:2) p0, what would be the expected value of the
-
-demand Q if we were to control the price at P (cid:2) p1?
+demand Q if we were to control the price at P p1?
 
 The reader should recognize these queries as representing (respectively) actions, predictions, and counterfactuals – our three-level hierarchy. The second query, representing
 prediction, is standard in the literature and can be answered directly from the covariance
@@ -15553,24 +14441,21 @@ matrix without reference to causality, structure, or invariance. The first and t
 rest on the structural properties of the equations and, as expected, are not treated in the
 standard literature of structural equations.10
 
-In order to answer the first query, we replace (7.10) with p (cid:2) p0, leaving
+In order to answer the first query, we replace (7.10) with p p0, leaving
 
-p (cid:2) b1 p (cid:7) d1i (cid:7) u1,
-p (cid:2) p0,
+p b1 p d1i u1,
+p p0,
 
 (7.11)
 
 (7.12)
 
-with the statistics of U1 and I unaltered. The controlled demand is then q (cid:2) b1p0
-u1, and its expected value (conditional on I (cid:2) i) is given by
+with the statistics of U1 and I unaltered. The controlled demand is then q b1p0
+u1, and its expected value (conditional on I i) is given by
 
-(cid:7) d1i (cid:7)
+d1i E[Q do(P p0), i] b1 p0
 
-E[Q (cid:4) do(P (cid:2) p0), i] (cid:2) b1 p0
-
-(cid:4)
-(cid:7) d1i (cid:7) E(U1
+d1i E(U1
 i).
 
 (7.13)
@@ -15579,24 +14464,21 @@ Since U1 is independent of I, the last term evaluates to
 
 E(U1
 
-(cid:4)
-
-i) (cid:2) E(U1) (cid:2) E(Q) (cid:6) b1E(P) (cid:6) d1E(I)
+i) E(U1) E(Q) b1E(P) d1E(I)
 
 and, substituted into (7.13), yields
 
-E[Q (cid:4) do(P (cid:2) p0), i] (cid:2) E(Q) (cid:7) b1(p0
+E[Q do(P p0), i] E(Q) b1(p0
 
-(cid:6) E(P)) (cid:7) di (i (cid:6) E(I)).
+E(P)) di (i E(I)).
 
 The answer to the second query is obtained by conditioning (7.9) on the current observation
 
-P (cid:2) p0, I (cid:2) i, W (cid:2) w
-(cid:4)
-(cid:7) d1i (cid:7) E(U1
+P p0, I i, W w
+d1i E(U1
 p0, i, w).
 
-E(Q (cid:4) p0, i, w) (cid:2) b1 p0
+E(Q p0, i, w) b1 p0
 
 and taking the expectation,
 
@@ -15605,7 +14487,7 @@ and taking the expectation,
 is given (Whittaker
 The computation of
 1990, p. 163). Note that, although U1 was assumed to be independent of I and W, this
-independence no longer holds once P (cid:2) p0 is observed. Note also that (7.9) and (7.10)
+independence no longer holds once P p0 is observed. Note also that (7.9) and (7.10)
 
 is a standard procedure once
 
@@ -15613,7 +14495,6 @@ p0, i, w]
 
 gij
 
-(cid:4)
 E[U1
 
 10 I have presented this example to well over a hundred econometrics students and faculty across
@@ -15621,10 +14502,8 @@ the United States. Respondents had no problem answering question 2, one person w
 solve question 1, and none managed to answer question 3. Chapter 5 (Section 5.1) suggests an
 explanation, and Section 11.5.4 a more recent assessment based on Heckman and Vytlacil (2007).
 
-7.2 Applications and Interpretation of Structural Models
-
 both participate in the solution and that the observed value p0 will affect the expected
-(cid:2) 0, which is not the case in query 1.
+0, which is not the case in query 1.
 even when b1
 demand Q (through
 , con-
@@ -15632,20 +14511,20 @@ demand Q (through
 
 The third query requires the expectation of the counterfactual quantity
 
-E(U1 (cid:4) p0, i, w))
+E(U1 p0, i, w))
 
-Qp(cid:2)p1
+Qpp1
 
 ditional on the current observations
 According to Definition 7.1.5,
 
-Qp(cid:2)p1
+Qpp1
 
-P (cid:2) p0, I (cid:2) i, W (cid:2) w
+P p0, I i, W w
 is governed by the submodel
 
-q (cid:2) b1p (cid:7) d1i (cid:7) u1,
-p (cid:2) p1;
+q b1p d1i u1,
+p p1;
 
 the density of u1 should be conditioned on the observations
 We therefore obtain
@@ -15653,15 +14532,13 @@ We therefore obtain
 (7.15)
 
 (7.16)
-P (cid:2) p0, I (cid:2) i, W (cid:2) (cid:8)
+P p0, I i, W .
 
-.
+E(Qpp1
 
-E(Qp(cid:2)p1
+p0, i, w) b1p1
 
-(cid:4) p0, i, w) (cid:2) b1p1
-
-(cid:7) d1i (cid:7) E(U1 (cid:4) p0, i, w).
+d1i E(U1 p0, i, w).
 
 (7.17)
 
@@ -15669,7 +14546,7 @@ The expected value
 is the same as in the solution to the second query;
 the latter differs only in the term b1p1. A general matrix method for evaluating counterfactual queries in linear Gaussian models is described in Balke and Pearl (1995a).
 
-E(U1 (cid:4) p0, i, w)
+E(U1 p0, i, w)
 
 At this point, it is worth emphasizing that the problem of computing counterfactual
 expectations is not an academic exercise; it represents in fact the typical case in almost
@@ -15677,7 +14554,7 @@ every decision-making situation. Whenever we undertake to predict the effect of 
 in economics, pressure and temperature in process control) are rarely exogenous. Policy
 variables are endogenous when we observe a system under operation; they become exogenous in the planning phase, when we contemplate actions and changes. Second, policies
 are rarely evaluated in the abstract; rather, they are brought into focus by certain eventualities that demand remedial correction. In troubleshooting, for example, we observe
-undesirable effects e that are influenced by other conditions X (cid:2) x and wish to predict
+undesirable effects e that are influenced by other conditions X x and wish to predict
 whether an action that brings about a change in X would remedy the situation. The information provided by e is extremely valuable, and it must be processed (using abduction)
 before we can predict the effect of any action. This step of abduction endows practical
 queries about actions with a counterfactual character, as we have seen in the evaluation of
@@ -15688,51 +14565,42 @@ decision, and these conditions are presumed to be changeable by the policies con
 Thus, the price P represents an endogenous decision variable (as shown in .4)
 . The hypothat becomes exogenous in deliberation, as dictated by the submodel
 thetical mood of query 3 translates into a practical problem of policy analysis: "Given
-that the current price is P (cid:2) p0, find the expected value of the demand (Q) if we change
-the price today to P (cid:2) p1." The reasons for using hypothetical phrases in practical
+that the current price is P p0, find the expected value of the demand (Q) if we change
+the price today to P p1." The reasons for using hypothetical phrases in practical
 decision-making situations are discussed in the next section, as well as 11.7.2.
 
-Mp(cid:2)p1
+Mpp1
 
 7.2.2 The Empirical Content of Counterfactuals
 
 The word "counterfactual" is a misnomer, since it connotes a statement that stands contrary to facts or, at the very least, a statement that escapes empirical verification. Counterfactuals are in neither category; they are fundamental to scientific thought and carry
 as clear an empirical message as any scientific law.
 
-The Logic of Structure-Based Counterfactuals
-
-Consider Ohm's law, V (cid:2) IR. The empirical content of this law can be encoded in
+Consider Ohm's law, V IR. The empirical content of this law can be encoded in
 
 two alternative forms.
 
 1. Predictive form: If at time t0 we measure current I0 and voltage V0 then, ceteris
 if the current flow is I(t) then the voltage will
 
-t (cid:9) t0,
+t t0,
 
 paribus, at any future times
 be
 
-V(t) (cid:2)
-
-I(t).
+V(t) I(t).
 
 V0
 I0
 
 2. Counterfactual form: If at time t0 we measure current I0 and voltage V0 then, had
 
-I(cid:5)
-
-instead of I0, the voltage would have been
+Iinstead of I0, the voltage would have been
 
 the current flow at time t0 been
-V0 I(cid:5)
-I0
+V0 II0
 
-V(cid:5) (cid:2)
-
-.
+V.
 
 On the surface, it seems that the predictive form makes meaningful and testable empirical claims, whereas the counterfactual form merely speculates about events that have
 not (and could not have) occurred, since it is impossible to apply two different currents
@@ -15762,9 +14630,7 @@ conditions that prevailed in our laboratory at time t0. The statement also impli
 do not really mean for anyone to hold the reading on the voltmeter constant; variables
 should run their natural course, and the only change we should envision is in the mechanism that (according to our causal model) is currently determining the current.
 
-I(cid:5)
-
-7.2 Applications and Interpretation of Structural Models
+I7.2 Applications and Interpretation of Structural Models
 
 To summarize, a counterfactual statement might well be interpreted as conveying a
 set of predictions under a well-defined set of conditions – those prevailing in the factual
@@ -15800,7 +14666,7 @@ to, say, state inspectors who come every so often to calibrate the gambling mach
 ensure the state's take of the profit. More significantly, it may be useful to us players,
 too, if we venture to cheat slightly – say, by manipulating the trajectory of the coin, or
 by installing a tiny transmitter to tell us which way the coin landed. For such cheating to
-work, we should know the payoff policy y (cid:2) f(x, u), and the statement "Had I bet
+work, we should know the payoff policy y f(x, u), and the statement "Had I bet
 differently I would have lost a dollar" reveals important aspects of that policy.
 
 Is it far-fetched to argue for the merit of counterfactuals by hypothesizing unlikely
@@ -15810,8 +14676,6 @@ rather over novel settings that require innovative manipulations of the standard
 from the ability to repair a TV set when it breaks down. Recall that every causal model
 advertises not one but rather a host of submodels, each created by violating some laws.
 The autonomy of the mechanisms in a causal model thus stands for an open invitation to
-
-The Logic of Structure-Based Counterfactuals
 
 remove or replace those mechanisms, and it is only natural that the explanatory value of
 sentences be judged by how well they predict the ramifications of such replacements.
@@ -15828,14 +14692,14 @@ mechanism f(x, u) persists unaltered.
 These conclusions raise interesting questions regarding the use of counterfactuals in
 microscopic phenomena, as none of these conditions holds for the type of uncertainty
 that we encounter in quantum theory. Heisenberg's die is rolled afresh billions of times
-each second, and our measurement of U will never be fine enough to remove all uncertainty from the response equation y (cid:2) f(x, u). Thus, when we include quantum-level
+each second, and our measurement of U will never be fine enough to remove all uncertainty from the response equation y f(x, u). Thus, when we include quantum-level
 processes in our analysis we face a dilemma: either dismiss all talk of counterfactuals (a
 strategy recommended by some researchers, including Dawid 2000) or continue to use
 counterfactuals but limit their usage to situations where they assume empirical meaning.
 This amounts to keeping in our analysis only those U that satisfy conditions (1) and (2)
 of the previous paragraph. Instead of hypothesizing U that completely remove all uncertainties, we admit only those U that are either (1) persistent or (2) potentially observable.
 Naturally, coarsening the granularity of the background variables has its price: the
-mechanism equations ui, (cid:2) fi(pai, ui) lose their deterministic character and hence should
+mechanism equations ui, fi(pai, ui) lose their deterministic character and hence should
 be made stochastic. Instead of constructing causal models from a set of deterministic
 , where
 , we should consider models made up of stochastic functions
@@ -15847,29 +14711,28 @@ the states of Vi. This option leads to a causal Bayesian network (Section 1.3) i
 the conditional probabilities
 represent intrinsic nondeterminism (sometimes called "objective chance"; Skyrms 1980) and in which the root nodes represent
 background variables U that are either persistent or potentially observable. In this rep-
-P(Yx
 can still be evaluated using the
 resentation, counterfactual probabilities
 three steps (abduction, action, and prediction) of Theorem 7.1.7. In the abduction phase,
 we condition the prior probability P(u) of the root nodes on the evidence available, e,
 and so obtain
 In the action phase, we delete the arrows entering variables in set
-X and instantiate their values to X (cid:2) x. Finally, in the prediction phase, we compute the
-probability of Y (cid:2) y resulting from the updated manipulated network.
+X and instantiate their values to X x. Finally, in the prediction phase, we compute the
+probability of Y y resulting from the updated manipulated network.
 
-P*(yi (cid:4) pai, ui)
+P*(yi pai, ui)
 
-P(u (cid:4) e).
+P(u e).
 
-(cid:2) y (cid:4) e)
+y e)
 
-V(cid:2)U
+VU
 
 fi*
 
 This evaluation can, of course, be implemented in ordinary causal Bayesian networks
 (i.e., not only in ones that represent intrinsic nondeterminism), but in that case the re-
-(cid:2) y. Such
+y. Such
 sults computed would not represent the probability of the counterfactual Yx
 evaluation amounts to assuming that units are homogeneous, with each possessing the
 stochastic properties of the population – namely,
@@ -15877,9 +14740,7 @@ Such an
 assumption may be adequate in quantum-level phenomena, where units stands for specific experimental conditions, but it will not be adequate in macroscopic phenomena,
 where units may differ appreciably from each other. In the example of Chapter 1 (Section 1.4.4, .6), the stochastic attribution amounts to assuming that no individual
 
-P(yi (cid:4) pai, u) (cid:2) P(yi (cid:4) pai).
-
-7.2 Applications and Interpretation of Structural Models
+P(yi pai, u) P(yi pai).
 
 is affected by the drug (as dictated by model 1) while ignoring the possibility that some
 individuals may, in fact, be more sensitive to the drug than others (as in model 2).
@@ -15901,11 +14762,10 @@ network (Section 1.3) in which the events to be explained (explanadum) consist o
 combination e of instantiated nodes in the network, and where the task is to find an instantiation c of a subset of e's ancestors (i.e., causes) that maximizes some measure of
 "explanatory power," namely, the degree to which c explains e. However, the proper
 choice of this measure is unsettled. Many philosophers and statisticians argue for the
-L (cid:2) P(e (cid:4) c)
+L P(e c)
 as the proper measure of the degree to which c is a betlikelihood ratio
-P(e (cid:4) c(cid:5))
-c(cid:5)
-ter explanation of e than
+P(e c)
+cter explanation of e than
 . In Pearl (1988b, chap. 5) and Peng and Reggia (1986),
 Both
 the best explanation is found by maximizing the posterior probability
@@ -15916,9 +14776,9 @@ have been suggested, none of which seems to
 parameters
 capture well the meaning people attach to the word "explanation."
 
-[P(e (cid:4) c), P(e (cid:4) c(cid:5)), P(c), P(c(cid:5))]
+[P(e c), P(e c), P(c), P(c)]
 
-P(c (cid:4) e).
+P(c e).
 
 The problem with probabilistic measures is that they cannot capture the strength of
 a causal connection between c and e; any proposition h whatsoever can, with a small
@@ -15927,11 +14787,9 @@ This would then qualify h as an ancestor of e in the causal network and would pe
 to compete and win against genuine explanations by virtue of h having strong spurious
 association with e.
 
-x(cid:5)
+xP(y do(x))
 
-P(y (cid:4) do(x))
-
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) x, y),
+P(Yxyx, y),
 
 To rid ourselves of this difficulty, we must go beyond probabilistic measures and
 and counterconcentrate instead on causal parameters, such as causal effects
@@ -15940,33 +14798,26 @@ factual probabilities
 range over the set of alternative explanations, and Y is the set of response varix and
 is read as: the
 ables observed to take on the value y. The expression
-y(cid:5)
-probability that Y would take on a different value,
+yprobability that Y would take on a different value,
 , had X been
 (instead of the actual
-(cid:2) y).)
+y).)
 The developments of computational
 values x). (Note that
 models for evaluating causal effects and counterfactual probabilities now make it possible to combine these parameters with standard probabilistic parameters and so synthesize
 a more faithful measure of explanatory power that may guide the selection and generation of adequate explanations.
 
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) x, y)
-x(cid:5)
-
-P(y (cid:4) do(x)) (cid:2) P(Yx
-
-The Logic of Structure-Based Counterfactuals
+P(Yxyx, y)
+xP(y do(x)) P(Yx
 
 These possibilities trigger an important basic question: Is "explanation" a concept
 based on general causes (e.g., "Drinking hemlock causes death") or singular causes (e.g.,
-P(y (cid:4) do(x))
+P(y do(x))
 "Socrates' drinking hemlock caused his death")? Causal effect expressions
 belong
 belong to the first category, whereas counterfactual expressions
 to the second, since conditioning on x and y narrows down world scenarios to those
-compatible with the most specific information at hand: X (cid:2) x and Y (cid:2) y.
-
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) x, y)
+compatible with the most specific information at hand: X x and Y y.
 
 The classification of causal statements into general and singular categories has been
 the subject of intensive research in philosophy (see, e.g., Good 1961; Kvart 1986; Cartwright
@@ -15978,18 +14829,16 @@ demarcation line between two types of causal queries, those that are answerable 
 (the probability and diagram, respectively, associated with model
 pair
 M) and those that require additional information in the form of functional specifica-
-(e.g., P(y (cid:4) do(x)))
+(e.g., P(y do(x)))
 often fall into the first category
 tion. Generic causal statements
-(e.g., P(Yx(cid:5) (cid:2) y (cid:4) x, y))
+(e.g., P(Yxy x, y))
 (as in Chapter 3), whereas counterfactual expressions
 fall
 into the second, thus demanding more detailed specifications and higher computational
 resources.
 
-(cid:2)P(M), G(M)(cid:3)
-
-The proper classification of explanation into a general or singular category depends
+P(M), G(M)The proper classification of explanation into a general or singular category depends
 on whether the cause c attains its explanatory power relative to its effect e by virtue of c's
 general tendency to produce e (as compared with the weaker tendencies of c's alternatives) or by virtue of c being necessary for triggering a specific chain of events leading to
 e in the specific situation at hand (as characterized by e and perhaps other facts and observations). Formally, the difference hinges on whether, in evaluating explanatory powers
@@ -16006,31 +14855,26 @@ utterances used in explanatory discourse and their associated semantics within t
 
 • "X is a cause of Y" if there exist two values x and
 
-x(cid:5)
-
-of X and a value u of U such
+xof X and a value u of U such
 
 that
 
-Yx(u) (cid:4) Yx(cid:5)(u).
+Yx(u) Yx(u).
 
-• "X is a cause of Y in the context Z (cid:2) z" if there exist two values x and
-Yxz(u) (cid:4) Yx(cid:5)z(u).
+• "X is a cause of Y in the context Z z" if there exist two values x and
+Yxz(u) Yxz(u).
 
 a value u of U such that
 
-x(cid:5)
-
-of X and
+xof X and
 
 • "X is a direct cause of Y" if there exist two values x and
 
-x(cid:5)
-where r is some realization of
+xwhere r is some realization of
 
 such that
 
-Yxr(u) (cid:4) Yx(cid:5)r(u),
+Yxr(u) Yxr(u),
 
 of X and a value u of U
 V \
@@ -16040,50 +14884,45 @@ X, Y
 
 • "X is an indirect cause of Y" if X is a cause of Y and X is not a direct cause of Y.
 
-7.2 Applications and Interpretation of Structural Models
+• "Event X x always causes Y y" if:
 
-• "Event X (cid:2) x always causes Y (cid:2) y" if:
-
-(i) Yx(u) (cid:2) y for all u; and
-u(cid:5)
-(ii) there exists a value
+(i) Yx(u) y for all u; and
+u(ii) there exists a value
 
 of U such that
-• "Event X (cid:2) x may have caused Y (cid:2) y" if:
+• "Event X x may have caused Y y" if:
 
-Yx(u(cid:5)) (cid:4) y
+Yx(u) y
 
 for some
 
-x(cid:5) (cid:4) x.
+xx.
 
-(i) X (cid:2) x and Y (cid:2) y are true; and
-(ii) there exists a value u of U such that X(u) (cid:2) x, Y(u) (cid:2) y, and
+(i) X x and Y y are true; and
+(ii) there exists a value u of U such that X(u) x, Y(u) y, and
 
 some
 
-x(cid:5) (cid:4) x.
+xx.
 
-Yx(cid:5)(u) (cid:4) y
+Yx(u) y
 
 for
 
-• "The unobserved event X (cid:2) x is a likely cause of Y (cid:2) y" if:
+• "The unobserved event X x is a likely cause of Y y" if:
 
-(i) Y (cid:2) y is true; and
+(i) Y y is true; and
 (ii)
 
-P(Yx
-
-(cid:2) y, Yx(cid:5) (cid:4) y (cid:4) Y (cid:2) y)
-• "Event Y (cid:2) y occurred despite X (cid:2) x" if:
+y, Yxy Y y)
+• "Event Y y occurred despite X x" if:
 
 is high for all
 
-x(cid:5) (cid:4) x.
+xx.
 
-(i) X (cid:2) x and Y (cid:2) y are true; and
-(cid:2) y) is low.
+(i) X x and Y y are true; and
+y) is low.
 (ii) P(Yx
 
 The preceding list demonstrates the flexibility of modifiable structural models in formalizing nuances of causal expressions. Additional nuances (invoking such notions as
@@ -16114,12 +14953,10 @@ variables), then we should also be able to understand what the effect of any giv
 would be: simply respecify those few mechanisms that are perturbed by the action; then
 let the mechanisms in the modified assembly interact with one another and see what state
 
-The Logic of Structure-Based Counterfactuals
-
 will evolve at equilibrium. If the specification is complete (i.e., if M and U are given),
 then a single state will evolve. If the specification is probabilistic (i.e., if P(u) is given),
 then a new probability distribution will emerge; if the specification is partial (i.e., if some
-fi are not given), then a new, partial theory will be created. In all three cases we should
+fiare not given), then a new, partial theory will be created. In all three cases we should
 be able to answer queries about postaction states of affair, albeit with decreasing levels of
 precision.
 
@@ -16155,10 +14992,8 @@ stems from its representational uniformity and syntactic invariance, where no se
 commands special status. Probabilists were much less reluctant to embrace the distinction between laws and facts, because this distinction has already been programmed into
 probability language by Reverend Bayes in 1763: Facts are expressed as ordinary propositions and hence can obtain probability values and can be conditioned on; laws, on
 the other hand, are expressed as conditional probability sentences (e.g., P(accident ƒ
-careless driving) (cid:2) high) and hence should not be assigned probabilities and cannot be
+careless driving) high) and hence should not be assigned probabilities and cannot be
 conditioned on. It is because of this tradition that probabilists have always attributed nonpropositional character to conditional sentences (e.g., birds fly), refused to allow nested
-
-7.2 Applications and Interpretation of Structural Models
 
 conditionals (Levi 1988), and insisted on interpreting one's confidence in a conditional
 sentence as a conditional probability judgment (Adams 1975; see also Lewis 1976). Remarkably, these constraints, which some philosophers view as limitations, are precisely
@@ -16201,10 +15036,8 @@ broader support as a necessary requirement for formulating actions in artificial
 12 The word "needed" connotes minimality and can be translated as: ". . . if every minimal perturbation realizing A entails B." The necessity and sufficiency aspects of this entailment relationship
 are formalized in Chapter 9 (Section 9.2).
 
-The Logic of Structure-Based Counterfactuals
-
 between events or variables. We say, for example: "If tile i is tipped to the right, it causes
-tile i (cid:7) 1 to tip to the right as well"; we do not communicate such knowledge in terms of
+tile i 1 to tip to the right as well"; we do not communicate such knowledge in terms of
 the tendencies of each domino tile to maintain its physical shape, to respond to gravitational pull, and to obey Newtonian mechanics.
 
 7.2.5 Simon's Causal Ordering
@@ -16216,7 +15049,7 @@ formal definition of causal models given in Section 7.1.1 assumes that each equa
 designated a distinct privileged variable, situated on its left-hand side, that is considered
 "dependent" or "output." In general, however, a mechanism may be specified as a functional constraint
 
-Gk(x1, p , xl ; u1, p , um) (cid:2) 0
+Gk(x1, p , xl ; u1, p , um) 0
 
 without identifying any "dependent" variable.
 
@@ -16249,14 +15082,12 @@ all changes in the system (generated by ak)
 the domain of Xk to the domain of
 can be attributed to changes in Xk. It would make sense, in such a case, to designate Xk
 as a "representative" of the mechanism Gk, and we would be justified in replacing the
-sentence "action ak caused event Y (cid:2) y" with "event Xk
-(cid:2) xk caused Y (cid:2) y" (where Y
+sentence "action ak caused event Y y" with "event Xk
+xk caused Y y" (where Y
 is any variable in the system). The invariance of Xk to the choice of ak is the basis for
-(cid:2) xk) (Definition 7.1.3). It provides a license for
+xk) (Definition 7.1.3). It provides a license for
 treating an action as a modality do(Xk
 characterizing an action by its immediate consequence(s), independent of the instrument
-
-7.2 Applications and Interpretation of Structural Models
 
 that actually brought about those consequences, and it defines in fact the notion of "local
 action" or "local surgery."
@@ -16270,9 +15101,7 @@ of dependent variable in each equation is unique and the directionality induced 
 choice defines a directed acyclic graph (DAG). In .1, for example, the directionality of the arrows need not be specified externally; it can be determined mechanically
 from the set of symmetrical constraints (i.e., logical propositions)
 
-S (cid:2)
-
-G1(C, U), G2(A, C), G3(B, C), G4(A, B, D)
+S G1(C, U), G2(A, C), G3(B, C), G4(A, B, D)
 
 (7.18)
 
@@ -16312,8 +15141,6 @@ the information needed for classifying (7.9) as the "demand" equation (and, resp
 income directly affects household demand (and not prices) plays a major role in this
 classification.
 
-The Logic of Structure-Based Counterfactuals
-
 In cases where we tend to assert categorically that the flow of causation in a feedback loop goes clockwise, this assertion is normally based on the relative magnitudes of
 forces. For example, turning the faucet would lower the water level in the water tank, but
 there is practically nothing we can do to the water in the tank that would turn the faucet.
@@ -16343,7 +15170,7 @@ familiar problem of scientific induction.
 Axioms play important roles in the characterization of formal systems. They provide a
 parsimonious description of the essential properties of the system, thus allowing comparisons among alternative formulations and easy tests of equivalence or subsumption among
 such alternatives. Additionally, axioms can often be used as rules of inference for deriving (or verifying) new relationships from a given set of premises. In the next subsection,
-we will establish a set of axioms that characterize the relationships among counterfactual sentences of the form Yx(u) (cid:2) y in both recursive and nonrecursive systems. Using
+we will establish a set of axioms that characterize the relationships among counterfactual sentences of the form Yx(u) y in both recursive and nonrecursive systems. Using
 these axioms, we will then demonstrate (in Section 7.3.2) how the identification of causal
 effects can be verified by symbolic means, paralleling the derivations of Chapter 3 (Section 3.4). Finally, Section 7.3.3 establishes axioms for the notion of causal relevance,
 contrasting those that capture informational relevance.
@@ -16352,18 +15179,16 @@ contrasting those that capture informational relevance.
 
 We present three properties of counterfactuals – composition, effectiveness, and reversibility – that hold in all causal models.
 
-7.3 Axiomatic Characterization
-
 Property 1 (Composition)
 For any three sets of endogenous variables X, Y, and W in a causal model, we have
 
-Wx(u) (cid:2) w 1 Yxw(u) (cid:2) Yx(u).
+Wx(u) w 1 Yxw(u) Yx(u).
 
 (7.19)
 
 Composition states that, if we force a variable (W) to a value w that it would have had
 without our intervention, then the intervention will have no effect on other variables in
-the system. That invariance holds in all fixed conditions do(X (cid:2) x).
+the system. That invariance holds in all fixed conditions do(X x).
 
 Since composition allows for the removal of a subscript (i.e., reducing Yxw(u) to
 Yx(u)), we need an interpretation for a variable with an empty set of subscripts, which
@@ -16371,16 +15196,15 @@ Yx(u)), we need an interpretation for a variable with an empty set of subscripts
 
 Definition 7.3.1 (Null Action)
 
-Y0(u) (cid:2) Y(u).
+Y0(u) Y(u).
 
 Corollary 7.3.2 (Consistency)
 For any set of variables Y and X in a causal model, we have
 
-X(u) (cid:2) x 1 Y(u) (cid:2) Yx(u).
+X(u) x 1 Y(u) Yx(u).
 
 (7.20)
 
-Proof
 Substituting X for W and
 Null action (Definition 7.3.1) allows us to drop the
 Yx(u).
@@ -16389,13 +15213,12 @@ The implication in (7.20) was called "consistency" by Robins (1987).13
 for X in (7.19), we obtain
 0,
 
-Y0 (u) (cid:2) x 1 Y0 (u) (cid:2) Yk(u).
-X(u) (cid:2) x 1 Y(u) (cid:2)
-leaving
+Y0 (u) x 1 Y0 (u) Yk(u).
+X(u) x 1 Y(u) leaving
 n
 
 Property 2 (Effectiveness)
-For all sets of variables X and W, Xxw(u) (cid:2) x.
+For all sets of variables X and W, Xxw(u) x.
 Effectiveness specifies the effect of an intervention on the manipulated variable itself –
 namely, that if we force a variable X to have the value x, then X will indeed take on the
 value x.
@@ -16403,7 +15226,7 @@ value x.
 Property 3 (Reversibility)
 For any two variables Y and W and any set of variables X,
 
-(Yxw (u) (cid:2) y) & (Wxy (u) (cid:2) w) 1 Yx (u) (cid:2) y.
+(Yxw (u) y) & (Wxy (u) w) 1 Yx (u) y.
 
 (7.21)
 
@@ -16415,23 +15238,21 @@ statistics (Rosenbaum 1995) within the potential-outcome framework (Section 3.6.
 was stated formally by Gibbard and Harper (1976, p. 156) and Robins (1987) (see equation (3.52)).
 Composition is stated in Holland (1986, p. 968) and was brought to my attention by J. Robins.
 
-The Logic of Structure-Based Counterfactuals
-
 value w, then W and Y will naturally obtain the values w and y (respectively), without
-any external setting. In recursive systems, reversibility follows directly from composition. This can easily be seen by noting that, in a recursive system, either Yxw(u) (cid:2) Yx(u)
-(Yxw (u) (cid:2) y) & (Wx(u) (cid:2) w) 1
-or Wxy(u) (cid:2) Wx(u). Thus, reversibility reduces to
-(Yx(u) (cid:2) y) & (Wxy(u) (cid:2) w) 1
-Yx(u) (cid:2) y (another form of composition) or to
-Yx(u) (cid:2) y (which is trivially true).
+any external setting. In recursive systems, reversibility follows directly from composition. This can easily be seen by noting that, in a recursive system, either Yxw(u) Yx(u)
+(Yxw (u) y) & (Wx(u) w) 1
+or Wxy(u) Wx(u). Thus, reversibility reduces to
+(Yx(u) y) & (Wxy(u) w) 1
+Yx(u) y (another form of composition) or to
+Yx(u) y (which is trivially true).
 
 Reversibility reflects "memoryless" behavior: the state of the system, V, tracks the
 state of U regardless of U's history. A typical example of irreversibility is a system of
 two agents who adhere to a "tit-for-tat" strategy (e.g., the prisoners' dilemma). Such a
 system has two stable solutions – cooperation and defection – under the same external
 conditions U, and thus it does not satisfy the reversibility condition; forcing either one of
-the agents to cooperate results in the other agent's cooperation (Yw(u) (cid:2) y, Wy(u) (cid:2) w),
-yet this does not guarantee cooperation from the start (Y(u) (cid:2) y, W(u) (cid:2) w). In such
+the agents to cooperate results in the other agent's cooperation (Yw(u) y, Wy(u) w),
+yet this does not guarantee cooperation from the start (Y(u) y, W(u) w). In such
 systems, irreversibility is a product of using a state description that is too coarse, one
 where not all of the factors that determine the ultimate state of the system are included
 in U. In a tit-for-tat system, a complete state description should include factors such as
@@ -16462,7 +15283,7 @@ existence and uniqueness – that are implicit in the definition of causal model
 Property 4 (Existence)
 For any variable X and set of variables Y,
 
-Ex H X s.t. Xy(u) (cid:2) x.
+Ex H X s.t. Xy(u) x.
 
 (7.22)
 
@@ -16470,11 +15291,9 @@ Ex H X s.t. Xy(u) (cid:2) x.
 
 respectively.
 
-7.3 Axiomatic Characterization
-
 Property 5 (Uniqueness)
 For every variable X and set of variables Y,
-Xy(u) (cid:2) x & Xy(u) (cid:2) x(cid:5) 1 x (cid:2) x(cid:5).
+Xy(u) x & Xy(u) x1 x x.
 
 (7.23)
 
@@ -16483,25 +15302,21 @@ Let X and Y be singleton variables in a model, and let
 ity
 sequence
 
-Yxw(u) (cid:4) Yw(u)
+Yxw(u) Yw(u)
 
 X1, X2, p , Xk,
 
-we have
-
 stand for the inequalfor some values of x, w, and u. A model M is recursive if, for any
-
-X S Y
 
 X1
 
 S X2, X2
 
-S X3, p , Xk(cid:6)1
+S X3, p , Xk1
 
 S Xk
 
-1 Xk (cid:10)S X1.
+1 Xk S X1.
 
 (7.24)
 
@@ -16531,18 +15346,12 @@ decomposition as inference rules.
 We revisit the smoking–cancer example analyzed in Section 3.4.3. The model associated
 with this example is assumed to have the following structure (see .5):
 
-V (cid:2)
-
-U (cid:2)
-
-,
+V U ,
 X (smoking), Y (lung cancer), Z (tar in lungs)
 
 U1, U26
 
 , U1
-
-(cid:2)(cid:2)
 
 U2,
 
@@ -16551,13 +15360,11 @@ knows which of the two (if any) is an ancestor of the other. Halpern (1998) prov
 in the model. Halpern further provided a set of axioms for cases where the solution of Yx(u) is not
 unique or does not exist.
 
-The Logic of Structure-Based Counterfactuals
-
 .5 Causal diagram illustrating the effect of smoking on lung cancer.
 
-x (cid:2) f1(u1),
-z (cid:2) f2(x, u2),
-y (cid:2) f3(z, u1).
+x f1(u1),
+z f2(x, u2),
+y f3(z, u1).
 This model embodies several assumptions, all of which are represented in the diagram
 of .5. The missing link between X and Y represents the assumption that the effect of smoking cigarettes (X) on the production of lung cancer (Y) is entirely mediated
 through tar deposits in the lungs. The missing connection between U1 and U2 represents
@@ -16568,12 +15375,12 @@ estimable expression for the causal effect
 that is based on
 the joint distribution P(x, y, z).
 
-P(Y (cid:2) y (cid:4) do(x)) (cid:2) P(Yx
+P(Y y do(x)) P(Yx
 
-(cid:2) y)
+y)
 
 This problem was solved in Section 3.4.3 by a graphical method, using the axioms of
-(cid:2) y)
+y)
 do-calculus (Theorem 3.4.1). Here we show how the counterfactual expression P(Yx
 can be reduced to ordinary probabilistic expression (involving no counterfactuals) by
 purely symbolic operations, using only probability calculus and two rules of inference:
@@ -16586,7 +15393,7 @@ Rule 1 (exclusion restrictions): For every variable Y having parents PAY and for
 set of variables
 
 Z ( V
-(u) (cid:2) YpaY, z(u).
+(u) YpaY, z(u).
 
 YpaY
 
@@ -16599,8 +15406,6 @@ Rule 2 (independence restrictions): If
 Z1, p , Zk
 
 is any set of nodes in V not connected to Y via paths containing only U variables, we have
-
-(cid:2)(cid:2)
 
 Z1paZ1
 
@@ -16620,27 +15425,24 @@ independent of UY.
 are jointly
 
 Rule 1 reflects the insensitivity of Y to any manipulation in V, once its direct causes PAY
-(cid:2) fi(pai, ui) in Definition 7.1.1. Rule 2
+fi(pai, ui) in Definition 7.1.1. Rule 2
 are held constant; it follows from the identity yi
 interprets independencies among U variables as independencies between the counterfactuals of the corresponding V variables, with their parents held fixed. Indeed, the statistics
 
-7.3 Axiomatic Characterization
-
-of YpaY is governed by the equation Y (cid:2) fy(paY, uY); therefore, once we hold PAY
+of YpaY is governed by the equation Y fy(paY, uY); therefore, once we hold PAY
 fixed, the residual variations of Y are governed solely by the variations in UY.
 
 Applying these two rules to our example, we see that the causal diagram in .5
 
 encodes the following assumptions:
 
-Zx(u) (cid:2) Zyx(u),
-Xy(u) (cid:2) Xzy(u) (cid:2) Xz(u) (cid:2) X(u),
+Zx(u) Zyx(u),
+Xy(u) Xzy(u) Xz(u) X(u),
 
-Yz(u) (cid:2) Yzx(u),
+Yz(u) Yzx(u),
 
 Zx
 
-(cid:2)(cid:2)
 .
 Yz, X
 
@@ -16656,17 +15458,12 @@ Equations (7.27)–(7.29) follow from the exclusion restrictions of (7.25), usin
 
 PAX
 
-(cid:2) 0, PAY
-
-(cid:2)
+0, PAY
 
 , and PAZ
 Z
 
-(cid:2)
-
 .
-X
 
 Equation (7.27), for instance, represents the absence of a causal link from Y to Z, while
 (7.28) represents the absence of a causal link from Z or Y to X. In contrast, (7.30) follows from the independence restriction of (7.26), since the lack of a connection between
@@ -16680,51 +15477,46 @@ We now use these assumptions (which embody recursiveness), together with the pro
 Task 1
 Compute P(Zx
 
-(cid:2) z) (i.e., the causal effect of smoking on tar).
+z) (i.e., the causal effect of smoking on tar).
 
 P(Zx
 
-(cid:2) z) (cid:2) P(Zx
+z) P(Zx
 
-(cid:2) z (cid:4) x)
+z x)
 
 from (7.30)
 
-(cid:2) P(Z (cid:2) z (cid:4) x)
-(cid:2) P(z (cid:4) x).
+P(Z z x)
+P(z x).
 
 by composition
 
 Task 2
 Compute P(Yz
 
-(cid:2) y) (i.e., the causal effect of tar on cancer).
+y) (i.e., the causal effect of tar on cancer).
 
 P(Yz
 
-(cid:2) y) (cid:2) a
+y) a
 x
 
-P(Yz
-
-(cid:2) y (cid:4) x)P(x).
+y x)P(x).
 
 Since (7.30) implies
 
-Yz (cid:2)(cid:2) Zx (cid:4) X,
+Yz Zx X,
 
 we can write
 
-P(Yz
+y x) P(Yz
+P(y x, z).
 
-(cid:2) y (cid:4) x) (cid:2) P(Yz
-(cid:2) P(Yz
-(cid:2) P(y (cid:4) x, z).
+y x, Zx
+y x, z)
 
-(cid:2) y (cid:4) x, Zx
-(cid:2) y (cid:4) x, z)
-
-(cid:2) z)
+z)
 
 from (7.30)
 
@@ -16734,12 +15526,10 @@ by composition
 
 Substituting (7.33) into (7.32) yields
 
-P(Yz
-
-(cid:2) y) (cid:2) a
+y) a
 x
 
-P(y (cid:4) x, z) P(x).
+P(y x, z) P(x).
 
 (7.31)
 
@@ -16752,69 +15542,61 @@ P(y (cid:4) x, z) P(x).
 Task 3
 Compute P(Yx
 
-The Logic of Structure-Based Counterfactuals
-
-(cid:2) y) (i.e., the causal effect of smoking on cancer).
+y) (i.e., the causal effect of smoking on cancer).
 
 For any variable Z, by composition we have
 
-Yx(u) (cid:2) Yxz (u) if Zx(u) (cid:2) z.
+Yx(u) Yxz (u) if Zx(u) z.
 
 Since
 
-Yxz (u) (cid:2) Yz(u)
+Yxz (u) Yz(u)
 
 (from (7.29)),
 
-YX(u) (cid:2) Yxzx
+YX(u) Yxzx
 
-(u) (cid:2) Yz (u),
+(u) Yz (u),
 
 where zx
 
-(cid:2) Zx(u).
+Zx(u).
 
 (7.35)
 
 Thus,
 
-P(Yx
-
-(cid:2) y) (cid:2) P(Yzx
-(cid:2) a
+y) P(Yzx
+a
 z
-(cid:2) a
+a
 z
-(cid:2) a
+a
 z
 
-(cid:2) y)
+y)
 
 from (7.35)
 
 P(Yzx
 
-(cid:2) y (cid:4) Zx
+y Zx
 
-(cid:2) z) P(Zx
+z) P(Zx
 
-(cid:2) z)
+z)
 
-P(Yz
+y Zx
 
-P(Yz
+z) P(Zx
 
-(cid:2) y (cid:4) Zx
-
-(cid:2) z) P(Zx
-
-(cid:2) z)
+z)
 
 by composition
 
-(cid:2) y) P(Zx
+y) P(Zx
 
-(cid:2) z).
+z).
 
 from (7.30)
 
@@ -16823,26 +15605,21 @@ from (7.30)
 The probabilities P(Yz
 tively. Substituting gives us
 
-(cid:2) y) and P(Zx
+y) and P(Zx
 
-(cid:2) z) were computed in (7.34) and (7.31), respec-
+z) were computed in (7.34) and (7.31), respec-
 
-P(Yx
-
-(cid:2) y) (cid:2) a
+y) a
 z
 
-P(z (cid:4) x) a
-x(cid:5)
-
-P(y (cid:4) z, x(cid:5)) P(x(cid:5)).
+xP(y z, x) P(x).
 
 (7.37)
 
 The right-hand side of (7.37) can be computed from P(x, y, z) and coincides with the
 front-door formula derived in Section 3.4.3 (equation (3.42)).
 
-(cid:2) y) can be reduced to expressions involving probabilities of observed vari-
+y) can be reduced to expressions involving probabilities of observed vari-
 Thus, P(Yx
 ables and is therefore identifiable. More generally, our completeness result (Theorem
 7.3.5) implies that any identifiable counterfactual quantity can be reduced to the correct expression by repeated application of composition and effectiveness (assuming
@@ -16857,8 +15634,6 @@ the observer–reasoner. Informational relevance is concerned with questions of 
 "Given that we know Z, would gaining information about X give us new information
 
 16 "Relevance" will be used primarily as a generic name for the relationship of being relevant or irrelevant. It will be clear from the context when "relevance" is intended to negate "irrelevance."
-
-7.3 Axiomatic Characterization
 
 about Y?" Causal relevance is concerned with questions of the form: "Given that Z is
 fixed, would changing X alter Y?" We show that causal relevance complies with all the
@@ -16900,42 +15675,36 @@ causal irrelevance.
 
 Definition 7.3.7 (Causal Irrelevance)
 A variable X is causally irrelevant to Y, given Z (written
-we have
 disjoint of
 
-X (cid:2) Y (cid:2) Z,
+X Y Z,
 
-X (cid:10)S Y (cid:4) Z
+X S Y Z
 
 ) if, for every set W
 
-(cid:11) (u, z, x, x(cid:5), w), Yxzw(u) (cid:2) Yx(cid:5)zw(u),
+(u, z, x, x, w), Yxzw(u) Yxzw(u),
 
 where x and
 
-x(cid:5)
-
-are two distinct values of X.
+xare two distinct values of X.
 
 (7.38)
-
-The Logic of Structure-Based Counterfactuals
 
 .6 Example of a causal model that requires the examination of submodels to determine
 causal relevance.
 
 This definition captures the intuition "If X is causally irrelevant to Y, then X cannot affect Y under any circumstance u or under any modification of the model that includes
-do(Z (cid:2) z)."
+do(Z z)."
 
-To see why we require the equality Yxzw(u) (cid:2) Yx(cid:5)zw(u) to hold in every context W (cid:2)
-w, consider the causal model of .6. In this example,
+To see why we require the equality Yxzw(u) Yxzw(u) to hold in every context W w, consider the causal model of .6. In this example,
 W follows X, and
-hence Y follows X; that is, Yx(cid:2)0(u) (cid:2) Yx(cid:2)1(u) (cid:2) u2. However, since y(x, w, u2)
+hence Y follows X; that is, Yx0(u) Yx1(u) u2. However, since y(x, w, u2)
 is a nontrivial function of x, X is perceived to be causally relevant to Y. Only holding W
 constant would reveal the causal influence of X on Y. To capture this intuition, we must
-consider all contexts W (cid:2) w in Definition 7.3.7.
+consider all contexts W w in Definition 7.3.7.
 
-Z (cid:2) 0,
+Z 0,
 
 With this definition of causal irrelevance, we have the following theorem.
 
@@ -16944,23 +15713,23 @@ For any causal model, the following sentences must hold.
 
 Weak Right Decomposition:17
 
-(X (cid:10) S YW (cid:4) Z) & (X (cid:10) S Y (cid:4) ZW) 1 (X (cid:10) S Y (cid:4) Z).
+(X S YW Z) & (X S Y ZW) 1 (X S Y Z).
 
 Left Decomposition:
 
-(XW (cid:10)S Y (cid:4) Z) 1 (X (cid:10)S Y (cid:4) Z) & (W (cid:10)S Y (cid:4) Z).
+(XW S Y Z) 1 (X S Y Z) & (W S Y Z).
 
 Strong Union:
 
-(X (cid:10)S Y (cid:4) Z) 1 (X (cid:10)S Y (cid:4) ZW) (cid:11) W.
+(X S Y Z) 1 (X S Y ZW) W.
 
 Right Intersection:
 
-(X (cid:10)S Y (cid:4) ZW) & (X (cid:10)S W (cid:4) ZY) 1 (X (cid:10)S YW (cid:4) Z).
+(X S Y ZW) & (X S W ZY) 1 (X S YW Z).
 
 Left Intersection:
 
-(X (cid:10)S Y (cid:4) ZW) & (W (cid:10) S Y (cid:4) ZX) 1 (XW (cid:10)S Y (cid:4) Z).
+(X S Y ZW) & (W S Y ZX) 1 (XW S Y Z).
 
 This set of axioms bears a striking resemblance to the properties of path interception in a
 directed graph. Paz and Pearl (1994) showed that the axioms of Theorem 7.3.8, together
@@ -16968,15 +15737,13 @@ with transitivity and right decomposition, constitute a complete characterizatio
 
 17 Galles and Pearl (1997) used a stronger version of right decomposition:
 
-(X (cid:10)S YW (cid:4) Z) 1
+(X S YW Z) 1
 But Bonet (2001) showed that it must be weakened to render the axiom system
 
-(X (cid:10)S Y (cid:4) Z).
+(X S Y Z).
 sound.
 
-7.3 Axiomatic Characterization
-
-(X (cid:10)S Y (cid:4) Z)G
+(X S Y Z)G
 
 relation
 a directed graph G contains at least one node in Z (see also Paz et al. 1996).
@@ -17004,51 +15771,48 @@ X influences Y and Y influences Z but where X does not have a direct influence o
 With this qualification, transitivity for binary variables can be proven immediately from
 composition (equation (7.19)) as follows.
 
-Let the sentence "X (cid:2) x causes Y (cid:2) y," denoted
-X(u) (cid:2) x, Y(u) (cid:2) y, Yx(cid:5) (u) (cid:2) y(cid:5) (cid:4) y
+Let the sentence "X x causes Y y," denoted
+X(u) x, Y(u) y, Yx(u) yy
 
 be interpreted as the joint
 condition
-(in words, x and y hold, but changx(cid:5)5
+(in words, x and y hold, but changx5
 ing x to would change y to We can now prove that if X has no direct effect on Z,
 that is, if
 
 x S y,
 
-y(cid:5)).
+y).
 
-Zy(cid:5)x(cid:5) (cid:2) Zy(cid:5),
+ZyxZy,
 
 then
 
 x S y & y S z 1 x S z.
 
-Proof
 The l.h.s. of (7.40) reads
 
 (7.39)
 
 (7.40)
 
-X(u) (cid:2) x, Y(u) (cid:2) y, Z(u) (cid:2) z, Yx(cid:5)(u) (cid:2) y(cid:5), Zy(cid:5)(u) (cid:2) z(cid:5).
+X(u) x, Y(u) y, Z(u) z, Yx(u) y, Zy(u) z.
 
 From (7.39) we can rewrite the last term as
 mits us to write
 
-Zy(cid:5)x(cid:5)(u) (cid:2) z(cid:5).
+Zyx(u) z.
 
 Composition further per-
 
-Yx(cid:5)(u) (cid:2) y(cid:5) & Zy(cid:5)x(cid:5)(u) (cid:2) z(cid:5) 1 Zx(cid:5)(u) (cid:2) z(cid:5),
-which, together with X(u) (cid:2) x and Z(u) (cid:2) z, implies
+Yx(u) y& Zyx(u) z1 Zx(u) z,
+which, together with X(u) x and Z(u) z, implies
 
 x S z.
 
 n
 
 Weaker forms of causal transitivity are discussed in Chapter 9 (Lemmas 9.2.7 and 9.2.8).
-
-The Logic of Structure-Based Counterfactuals
 
 7.4 STRUCTURAL AND SIMILARITY-BASED
 COUNTERFACTUALS
@@ -17093,8 +15857,6 @@ standards of coherence and plausibility?
 existence of one species of objects; and also remember, that the individuals of another species of
 objects have always attended them, and have existed in a regular order of contiguity and succession with regard to them" (Hume 1739, p. 156).
 
-7.4 Structural and Similarity-Based Counterfactuals
-
 .7 Graphical representation of Lewis's closest-world
 semantics. Each circular region corresponds to a set of worlds
 that are equally similar to w. The shaded region represents the set
@@ -17124,15 +15886,13 @@ and still yield counterintuitive inferences (J. Woodward, personal communication
 
 Such difficulties do not enter the structural account. In contrast with Lewis's theory, counterfactuals are not based on an abstract notion of similarity among hypothetical
 worlds; instead, they rest directly on the mechanisms (or "laws," to be fancy) that produce those worlds and on the invariant properties of those mechanisms. Lewis's elusive
-"miracles" are replaced by principled minisurgeries, do(X (cid:2) x), which represent the
-minimal change (to a model) necessary for establishing the antecedent X (cid:2) x (for all u).
+"miracles" are replaced by principled minisurgeries, do(X x), which represent the
+minimal change (to a model) necessary for establishing the antecedent X x (for all u).
 
 19 Related possible-world semantics were introduced in artificial intelligence to represent actions and
 database updates (Ginsberg 1986; Ginsberg and Smith 1987; Winslett 1988; Katsuno and Mendelzon 1991).
 
 20 In this respect, Lewis's reduction of causes to counterfactuals is somewhat circular.
-
-The Logic of Structure-Based Counterfactuals
 
 Thus, similarities and priorities – if they are ever needed – may be read into the do(.)
 operator as an afterthought (see discussion following (3.11) and Goldszmidt and Pearl
@@ -17166,13 +15926,13 @@ A 1 B
 
 (2) If
 
-(A (cid:2)S C).
+(A S C).
 
 are theorems, then so is B.
 
 is a theorem, then so is
 
-((A (cid:2)S B1) p ) 1
+((A S B1) p ) 1
 
 Axioms
 
@@ -17184,14 +15944,14 @@ Axioms
 
 (4)
 
-A (cid:2)S A.
-(A (cid:2)S B) & (B (cid:2)S A) 1 (A (cid:2)S C) (cid:2) (B (cid:2)S C).
+A S A.
+(A S B) & (B S A) 1 (A S C) (B S C).
 ((A
 
-B) (cid:2)S A)
-B) (cid:2)S C) (cid:2) (A (cid:2)S C) & (B (cid:2)S C)).
+B) S A)
+B) S C) (A S C) & (B S C)).
 
-B) (cid:2)S B)
+B) S B)
 
 ((A
 
@@ -17206,18 +15966,16 @@ B) (cid:2)S B)
 ¡
 
 (((A
-A (cid:2)S B) 1 A 1 B.
+A S B) 1 A 1 B.
 
 (5)
-(6) A & B) 1 A (cid:2)S B.
+(6) A & B) 1 A S B.
 
 21 Ginsberg and Smith (1987) and Winslett (1988) have also advanced theories of actions based on
 closest-world semantics; they have not imposed any special structure for the distance measure to
 reflect causal considerations. Pearl (2010c) discusses the counterfactual interpretation of do (A or B).
 
-7.4 Structural and Similarity-Based Counterfactuals
-
-A (cid:3)S B
+A S B
 
 The statement
 
@@ -17230,49 +15988,49 @@ stand for the conjunction
 and let B stand for the conjunction
 Y1
 
-(cid:2) x1, p , Xn
+x1, p , Xn
 
-(cid:2) y1, p , Ym
+y1, p , Ym
 
 X1
 Then
 
-(cid:2) ym.
+ym.
 
-(cid:2) xn,
+xn,
 
-A (cid:3)S B (cid:5) Y1x1,p, xn
+A S B Y1x1,p, xn
 
-(u) (cid:2) y1
+(u) y1
 
 & Y2x1,p, xn
 o
 
-(u) (cid:2) y2
+(u) y2
 
 Ymx1,p, xn
 
-(u) (cid:2) ym.
+(u) ym.
 
 (7.41)
 
-Conversely, we need to translate causal statements such as Yx(u) (cid:2) y into Lewis's
-notation. Let A stand for the proposition X (cid:2) x and B for the proposition Y (cid:2) y. Then
+Conversely, we need to translate causal statements such as Yx(u) y into Lewis's
+notation. Let A stand for the proposition X x and B for the proposition Y y. Then
 
-Yx(u) (cid:2) y (cid:5) A (cid:3)S B.
+Yx(u) y A S B.
 
 (7.42)
 
-w(cid:5) (cid:4) w
+ww
 
 Axioms (1)–(6) follow from the closest-world interpretation without imposing any
 restrictions on the distance measured, except for the requirement that each world w be
 . Because structural semantics defines
 no further from itself than any other world
-d(w, w(cid:5))
+d(w, w)
 , given by the minimal number
 an obvious distance measure among worlds,
-w(cid:5),
+w,
 of local interventions needed for transforming w into
 all of Lewis's axioms should
 hold in causal models and must follow logically from effectiveness, composition, and
@@ -17289,7 +16047,7 @@ turn.
 
 (2) This axiom is the same as effectiveness: If we force a set of variables X to have
 
-the value x, then the resulting value of X is x. That is, Xx(u) (cid:2) x.
+the value x, then the resulting value of X is x. That is, Xx(u) x.
 
 (3) This axiom is a weaker form of reversibility, which is relevant only for nonrecursive causal models.
 
@@ -17304,14 +16062,12 @@ this axiom is irrelevant.
 To show that composition and effectiveness follow from Lewis's axioms, we note that
 composition is a consequence of axiom (5) and rule (1) in Lewis's formalism, while effectiveness is the same as Lewis's axiom (2).
 
-The Logic of Structure-Based Counterfactuals
-
 In sum, for recursive models, the causal model framework does not add any restrictions to counterfactual statements beyond those imposed by Lewis's framework; the very
 general concept of closest worlds is sufficient. Put another way, the assumption of recursiveness is so strong that it already embodies all other restrictions imposed by structural
 semantics. When we consider nonrecursive systems, however, we see that reversibility is
 not enforced by Lewis's framework. Lewis's axiom (3) is similar to but not as strong as
-reversibility; that is, even though Y (cid:2) y may hold in all closest w-worlds and W (cid:2) w in
-all closest y-worlds, Y (cid:2) y still may not hold in the actual world. Nonetheless, we can
+reversibility; that is, even though Y y may hold in all closest w-worlds and W w in
+all closest y-worlds, Y y still may not hold in the actual world. Nonetheless, we can
 safely conclude that, in adopting the causal interpretation of counterfactuals (together
 with the representational and algorithmic machinery of modifiable structural equation
 models), we are not introducing any restrictions on the set of counterfactual statements
@@ -17324,7 +16080,7 @@ every such transformation corresponds to an action, or if there are some constra
 are peculiar to those transformations that originate from actions. Lewis's (1976) formulation of counterfactuals indeed identifies such constraints: the transformation must be
 an imaging operator.
 
-P(s (cid:4) e)
+P(s e)
 
 Whereas Bayes conditioning
 
@@ -17340,11 +16096,9 @@ set of nonexcluded states that shared the same value of pai. This simple charact
 of the set S*(s) of closest states is valid for Markovian models, but imaging generally
 permits the selection of any such set.
 
-(cid:2) x(cid:5)
-i)
+xi)
 
-(cid:4) x(cid:5)
-i
+xi
 
 (Xi
 
@@ -17357,11 +16111,10 @@ an imaging operator if and only if it preserves mixtures; that is,
 
 P(s) S PA (s)
 
-[(cid:2)P(s) (cid:7) (1 (cid:6) (cid:2)) P(cid:5)(s)]A
-1 (cid:9) (cid:2) (cid:9) 0,
+[P(s) (1 ) P(s)]A
+1 0,
 
-(cid:2) (cid:2)PA(s) (cid:7) (1 (cid:6) (cid:2))P(cid:5)
-all propositions A, and all probability functions P and
+PA(s) (1 )Pall propositions A, and all probability functions P and
 
 A(s)
 
@@ -17370,8 +16123,7 @@ In other words, the update of any mixture is the mixture of the updates.22
 
 (7.43)
 
-P(cid:5)
-.
+P.
 
 This property, called homomorphy, is what permits us to specify actions in terms of
 transition probabilities, as is usually done in stochastic control and Markov decision
@@ -17379,12 +16131,10 @@ processes. Denoting by
 the probability resulting from acting A on a known
 state
 
-PA(s (cid:4) s(cid:5))
+PA(s s)
 , the homomorphism (7.43) dictates that
 
-s(cid:5)
-
-22 Property (7.43) is reflected in the (U8) postulate of Katsuno and Mendelzon (1991):
+s22 Property (7.43) is reflected in the (U8) postulate of Katsuno and Mendelzon (1991):
 where o is an update operator, similar to our do (.) operator.
 
 (K2om),
@@ -17395,35 +16145,31 @@ where o is an update operator, similar to our do (.) operator.
 
 (K1 ¡
 
-K2)om (cid:2)
+K2)om 7.4 Structural and Similarity-Based Counterfactuals
 
-7.4 Structural and Similarity-Based Counterfactuals
-
-PA(s) (cid:2) a
-s(cid:5)
-
-PA(s (cid:4) s(cid:5)) P(s(cid:5));
+PA(s) a
+sPA(s s) P(s);
 
 (7.44)
 
 this means that, whenever s' is not known with certainty, PA(s) is given by a weighted
 sum of
 
-over s(cid:5), with the weight being the current probability function P(s(cid:5)).
+over s, with the weight being the current probability function P(s).
 
-PA(s (cid:4) s(cid:5))
+PA(s s)
 
 This characterization, however, is too permissive; although it requires any actionbased transformation to be describable in terms of transition probabilities, it also accepts
 any transition probability specification, howsoever whimsical, as a descriptor of some
 action. The valuable information that actions are defined as local surgeries is ignored in
 this characterization. For example, the transition probability associated with the atomic
-(cid:2) xi) originates from the deletion of just one mechanism in the
+xi) originates from the deletion of just one mechanism in the
 action Ai
 assembly. Hence, the transition probabilities associated with the set of atomic actions
 would normally constrain one another. Such constraints emerge from the axioms of effectiveness, composition, and reversibility when probabilities are assigned to the states
 of U (Galles and Pearl 1997).
 
-(cid:2) do(Xi
+do(Xi
 
 7.4.4 Relations to the Neyman–Rubin Framework
 A Language in Search of a Model
@@ -17431,18 +16177,18 @@ The notation Yx(u) that we used for denoting counterfactual quantities is borrow
 the potential-outcome framework of Neyman (1923) and Rubin (1974), briefly introduced
 in Section 3.6.3, which was devised for statistical analysis of treatment effects.23 In that
 framework, Yx(u) (often written Y(x, u)) stands for the outcome of experimental unit
-u (e.g., an individual or an agricultural lot) under a hypothetical experimental condition X (cid:2) x. In contrast to the structural modeling, however, this variable is not derived
+u (e.g., an individual or an agricultural lot) under a hypothetical experimental condition X x. In contrast to the structural modeling, however, this variable is not derived
 from a causal model or from any formal representation of scientific knowledge, but is
 taken as a primitive – that is, an unobserved variable that reveals its value only when x
 coincides with the treatment actually received, as dictated by the consistency rule
-X (cid:2) x 1 Yx
+X x 1 Yx
 (equation (7.20)). Consequently, the potential-outcome framework
 does not provide a mathematical model from which such rules could be derived or on
 the basis of which an axiomatic characterization could be attempted in order to decide,
 for example, whether additional rules should be deployed, or whether a given collection
 of potential-outcome expressions is redundant or contradictory.
 
-(cid:2) Y
+Y
 
 The structural equation model formulated in Section 7.1 provides in fact the formal
 semantics lacking in the potential-outcome framework, since each such model assigns
@@ -17456,8 +16202,6 @@ The variable U represents any set of background factors relevant to the analysis
 23 A related (if not identical) framework that has been used in economics is the switching regression.
 For a brief review of such models, see Heckman (1996; see also Heckman and Honoré 1990 and
 Manski 1995). Winship and Morgan (1999) provided an excellent overview of the two schools.
-
-The Logic of Structure-Based Counterfactuals
 
 Using this semantics, in Section 7.3 we established an axiomatic characterization
 of the potential-response function Yx(u) and its relationships with the observed variables X(u) and Y(u). These basic axioms include or imply restrictions such as the consistency rule (equation (7.20)), which were taken as given by potential-outcome
@@ -17495,8 +16239,6 @@ U2
 
 fi6
 
-(cid:2)(cid:2)
-
 24 This equivalence was anticipated in Holland (1988), Pratt and Schlaifer (1988), Pearl (1995a), and
 Robins (1995) and became a mathematical fact through the explicit translation of equation (3.51)
 followed by the completeness result of Theorem 7.3.6.
@@ -17507,20 +16249,11 @@ Researchers who are knowledgeable in their respective subjects have a very clear
 disturbances represent, and those who don't would certainly not be able to make realistic judgments about counterfactual dependencies. Indeed, researchers who shun structural equations or
 graphs tend to avoid subject matter knowledge in their analyses (e.g., Rubin 2009).
 
-7.4 Structural and Similarity-Based Counterfactuals
-
-(cid:2)(cid:2)
-
-(cid:2)(cid:2)
-
 Z).
 
 (Yz
 
-Zx (cid:4)
-
-Zx (cid:4)
-)
+Zx Zx )
 Z, X
 
 A happy symbiosis between graphs and counterfactual notation was demonstrated in
@@ -17550,7 +16283,7 @@ and for any assignment of prior probabilities to
 for any substitution of functions in
 U1 and U2.
 
-(X (cid:2)(cid:2) Y (cid:4) Z, U1),
+(X Y Z, U1),
 
 fi6
 
@@ -17569,11 +16302,9 @@ unwarranted commitment to a particular functional form (Angrist et al. 1996). Th
 The analysis of this chapter provides a counterfactual interpretation of the error terms in
 structural equation models, supplementing the operational definition of (5.25). We have
 
-The Logic of Structure-Based Counterfactuals
-
 YpaY
 
-seen that the meaning of the error term uY in the equation Y (cid:2) fY(paY, uY) is captured
+seen that the meaning of the error term uY in the equation Y fY(paY, uY) is captured
 by the counterfactual variable
 . In other words, the variable UY can be interpreted
 as a modifier of the functional mapping from PAY to Y. The statistics of such modifications is observable when paY is held fixed. This translation into counterfactual notation
@@ -17588,7 +16319,6 @@ In clarifying the relationships among error-based, counterfactual, and graphical
 organized in a simple hierarchy. Since graph separation implies independence, but independence does not imply graph separation (Theorem 1.2.4), definitions based on graph
 separation should imply those based on error-term independence. Likewise, since for
 implies the counterfacany two variables X and Y the independence relation
-(cid:2)(cid:2)
 tual independence
 (but not the other way around), it follows that definitions based on error independence should imply those based on counterfactual independence. Overall, we have the following hierarchy:
 
@@ -17600,8 +16330,6 @@ UX
 
 Uy
 
-(cid:2)(cid:2)
-
 graphical criteria 1 error-based criteria 1 counterfactual criteria.
 
 The concept of exogeneity may serve to illustrate this hierarchy. The pragmatic definition of exogeneity is best formulated in counterfactual or interventional terms as follows.
@@ -17610,13 +16338,11 @@ Exogeneity (Counterfactual Criterion)
 A variable X is exogenous relative to Y if and only if the effect of X on Y is identical to
 the conditional probability of Y given X – that is, if
 
-P(Yx
-
-(cid:2) y) (cid:2) P(y (cid:4) x)
+y) P(y x)
 
 or, equivalently,
 
-P(Y (cid:2) y (cid:4) do (x)) (cid:2) P(y (cid:4) x);
+P(Y y do (x)) P(y x);
 
 (7.45)
 
@@ -17625,7 +16351,7 @@ P(Y (cid:2) y (cid:4) do (x)) (cid:2) P(y (cid:4) x);
 this in turn is equivalent to the independence condition
 bility" in Rosenbaum and Rubin (1983).26
 
-Yx (cid:2)(cid:2) X,
+Yx X,
 
 named "weak ignora-
 
@@ -17637,13 +16363,9 @@ refer to (7.46) as "no-confounding" (see (6.10)). We also postpone discussion of
 
 to Chapter 9 (Definition 9.2.3).
 
-(cid:2)(cid:2)
-
-Yx, Yx(cid:5)6
+Yx, Yx6
 
 X,
-
-7.4 Structural and Similarity-Based Counterfactuals
 
 verifying, from substantive knowledge of the domain, whether this independence condition holds in any given system, especially when many equations are involved (see Section
 11.3.2). To facilitate such judgments, economists (e.g., Koopmans 1950; Orcutt 1952)
@@ -17686,26 +16408,22 @@ p. 169), but this is obviously too strong.
 28 As in Chapter 6 (note 19), the expression "common ancestors" should exclude nodes that have no
 other connection to Y except through X and should include latent nodes for every pair of dependent errors. Generalization to conditional exogeneity relative to observed covariates is straightforward in all three definitions.
 
-The Logic of Structure-Based Counterfactuals
-
 .8 Z is a proper instrumental variable in the models of (a), (b), and (c), since it satisfies
-Z (cid:2)(cid:2) UY.
+Z UY.
 It is not an instrument in (d) because it is correlated with W, which influences Y.
 
 The counterfactual definition29 replaces condition (i) with ( ): Z is independent of
-Yx. The graphical definition replaces condition (i) with (i(cid:5)(cid:5)): every unblocked path con-
-(Z (cid:2)(cid:2) Y)GX
+Yx. The graphical definition replaces condition (i) with (i): every unblocked path con-
+(Z Y)GX
 necting Z and Y must contain an arrow pointing into X (alternatively,
 ).
 .8 illustrates this definition through examples.
 
-i(cid:5)
-
-When a set S of covariates is measured, these definitions generalize as follows.
+iWhen a set S of covariates is measured, these definitions generalize as follows.
 
 Definition 7.4.1 (Instrument)
 A variable Z is an instrument relative to the total effect of X on Y if there exists a set
-of measurements S (cid:2) s, unaffected by X, such that either of the following criteria
+of measurements S s, unaffected by X, such that either of the following criteria
 holds.
 
 1. Counterfactual criterion:
@@ -17714,9 +16432,8 @@ holds.
 
 (ii)
 
-Z (cid:2)(cid:2) Yx (cid:4)
-S (cid:2) s;
-Z (cid:10)(cid:2)(cid:2) X (cid:4) S (cid:2) s.
+Z Yx S s;
+Z X S s.
 
 2. Graphical criterion:
 
@@ -17724,8 +16441,8 @@ Z (cid:10)(cid:2)(cid:2) X (cid:4) S (cid:2) s.
 
 (ii)
 
-(Z (cid:2)(cid:2) Y (cid:4) S)GX
-(Z (cid:10)(cid:2)(cid:2) X (cid:4) S)G.
+(Z Y S)GX
+(Z X S)G.
 
 ;
 
@@ -17779,8 +16496,6 @@ must also infer, by symmetry, that Y is a cause of X. In Chapter 2 we demonstrat
 indeed, at least three variables are needed for determining the directionality of arrows
 in a DAG and, more serious yet, no arrow can be oriented from probability information
 
-The Logic of Structure-Based Counterfactuals
-
 alone – that is, without the added (causal) assumption of stability or minimality. By
 imposing the constraint that an effect never precede its cause, the symmetry is broken
 and causal inference can commence.
@@ -17812,7 +16527,7 @@ Definition 7.5.1
 An event C is causally relevant to E if there is at least one condition F in some background
 context K such that
 
-P(E (cid:4) C, F) (cid:9) P(E (cid:4) ¬ C, F).
+P(E C, F) P(E ¬ C, F).
 
 But what kind of conditions should we include in the background context? On the one
 hand, insisting on a complete description of the physical environment would reduce probabilistic causality to deterministic physics (barring quantum-level considerations). On
@@ -17822,8 +16537,6 @@ would introduce spurious correlations and other confounding effects. A natural c
 30 The reader can interpret K to be a set of variables and F a particular truth-value assignment to
 
 those variables.
-
-7.5 Structural Versus Probabilistic Causality
 
 is to require that the background context itself be "causally relevant" to the variables in
 question, but this very move is the source of circularity in the definition of probabilistic
@@ -17867,11 +16580,7 @@ and with
 the doctrine that causes should both precede and increase the probability of their
 effects.
 
-(cid:2)P, O(cid:3)
-
-Currently, the most advanced consistency test is the one based on Eells's (1991) criterion of relevance, which may be translated as follows.
-
-The Logic of Structure-Based Counterfactuals
+P, OCurrently, the most advanced consistency test is the one based on Eells's (1991) criterion of relevance, which may be translated as follows.
 
 Consistency Test
 For each pair of variables labeled R(X, Y), test whether
@@ -17880,11 +16589,9 @@ For each pair of variables labeled R(X, Y), test whether
 
 (ii) there exist x,
 
-x(cid:5)
+x, y such that
 
-, y such that
-
-P(y (cid:4) x, z) (cid:9) P(y (cid:4) x(cid:5), z)
+P(y x, z) P(y x, z)
 for some z in Z, where Z is
 a set of variables in the background context K such that I (X, Z) and R
 (Z, Y).
@@ -17893,9 +16600,7 @@ This now raises additional questions.
 
 (a) Is there a consistent label for every pair
 
-(cid:2)P, O(cid:3)
-
-?
+P, O?
 
 (b) When is the label unique?
 
@@ -17915,11 +16620,11 @@ structural account, in contrast, defines causation directly in terms of Nature's
 
 with epistemic conditionalization
 
-P(E (cid:4) do(C))
+P(E do(C))
 
-P(E (cid:4) C, F).
+P(E C, F).
 
-P(E (cid:4) C)
+P(E C)
 
 7.5.3 Challenging the Closed-World Assumption, with Children
 
@@ -17939,8 +16644,6 @@ This raises the question of how people ever acquire causal information from the 
 The proponents of probabilistic causality who attempt to explain this phenomenon through
 statistical theories of learning cannot ignore the fact that the child never operates in a
 closed, isolated environment. Unnoticed external conditions govern the operation of
-
-7.5 Structural Versus Probabilistic Causality
 
 every learning environment, and these conditions often have the potential to confound
 cause and effect in unexpected and clandestine ways.
@@ -17982,8 +16685,6 @@ In Section 7.2.3 we saw that the distinction between general causes (e.g., "Drin
 death") plays an important role in understanding the nature of explanations. We have
 also remarked that the notion of singular causation (also known as "token" or "singleevent" causation) has not reached an adequate state of conceptualization or formalization in the probabilistic account of causation. In this section we elaborate the nature of
 
-The Logic of Structure-Based Counterfactuals
-
 these difficulties and conclude that they stem from basic deficiencies in the probabilistic
 account.
 
@@ -17999,13 +16700,12 @@ the probability of the effect. It is often the case, however, that we judge an e
 the cause of y when the conditional probability
 For example, a vaccine (x) usually decreases the probability of the disease (y), and yet we often
 say (and can medically verify) that the vaccine itself caused the disease in a given person u. Such reversals would not be problematic to students of structural models, who can
-(x(cid:5))
+(x)
 interpret the singular statement as saying that "had person u not taken the vaccine
 ." The probability of this counterfactual statement
 then u would still be healthy
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) x, y)
 as well as
-P(y (cid:4) do(x)),
+P(y do(x)),
 is low, with all probabilities evaluated from the same structural model
 (Section 9.2 provides precise relationships between the three quantities). However, this
 reversal is traumatic to students of probabilistic causation, who mistrust counterfactuals for various reasons – partly because counterfactuals carry an aura of determinism
@@ -18017,19 +16717,17 @@ can be high while the conditional probability
 
 is lower than
 
-P(y (cid:4) x(cid:5)).
+P(y x).
 
-P(y (cid:4) x)
+P(y x)
 
-P(y (cid:4) x)
-
-(y(cid:5))
+(y)
 
 In order to reconcile the notion of probability increase with that of singular causation, probabilists claim that, if we look hard enough at any given scenario in which x is
-judged to be a cause of y, then we will always be able to find a subpopulation Z (cid:2) z in
+judged to be a cause of y, then we will always be able to find a subpopulation Z z in
 which x raises the probability of y – namely,
 
-P(y (cid:4) x, z) (cid:9) P(y (cid:4) x(cid:5), z).
+P(y x, z) P(y x, z).
 
 (7.47)
 
@@ -18045,8 +16743,6 @@ of the birth-control pill (Hesslow 1976), discussed in Section 4.5.1. Suppose we
 Mrs. Jones is not pregnant and ask whether taking a birth-control pill was the cause of
 her suffering from thrombosis. The population of nonpregnant women turns out to be
 
-7.5 Structural Versus Probabilistic Causality
-
 too coarse for answering this question unequivocally. If Mrs. Jones belongs to the class
 of women who would have become pregnant but for the pill, then the pill might actually have lowered the probability of thrombosis in her case by preventing her pregnancy.
 If, on the other hand, she belongs to the class of women who would not have become
@@ -18061,11 +16757,11 @@ Thus we see that there is no escape from counterfactuals when we deal with token
 causal claims has led to subpopulations delineated by none other than counterfactual expressions: "adversely susceptible" in the vaccine example and "would not have become
 pregnant" in the case of Mrs. Jones.31
 
-Probabilists can argue, of course, that there is no need to refine the subclasses Z (cid:2) z
+Probabilists can argue, of course, that there is no need to refine the subclasses Z z
 down to deterministic extremes, since one can stop the refinement as soon as one finds a
 subclass that increases the probability of y, as required in (7.47). This argument borders
 on the tautological, unless it is accompanied by formal procedures for identifying the
-test subpopulation Z (cid:2) z and for computing the quantities in (7.47) from some reasonable model of human knowledge, however hypothetical. Unfortunately, the probabilistic
+test subpopulation Z z and for computing the quantities in (7.47) from some reasonable model of human knowledge, however hypothetical. Unfortunately, the probabilistic
 causality literature is silent on questions of procedures and representation.32
 
 In particular, probabilists face a tough dilemma in explaining how people search for
@@ -18089,19 +16785,13 @@ of increasing probabilities in the actual trajectory of the world leading to y, 
 information is needed either to select the appropriate trajectory or to compute the probabilities
 associated with a given trajectory.
 
-The Logic of Structure-Based Counterfactuals
-
 (2) It must depend on x and y. For, surely, a different conditioning set would
 be necessary in (7.47) if we were to test whether the limb caused an alternative
 consequence
 
 – say, that the ball stopped two yards short of the hole.
 
-y(cid:5)
-
-z(cid:5)
-
-And this brings us to a major methodological inconsistency in the probabilistic approach to causation: If ignorance of x and y leads to the wrong z and if awareness of x
+yzAnd this brings us to a major methodological inconsistency in the probabilistic approach to causation: If ignorance of x and y leads to the wrong z and if awareness of x
 and y leads to the correct selection of z, then there must be some process by which people incorporate the occurrence of x and y into their awareness. What could that process
 be? According to the norms of probabilistic epistemology, evidence is incorporated into
 one's corpus of knowledge by means of conditionalization. How, then, can we justify excluding from z the very evidence that led to its selection – namely, the occurrence of x
@@ -18110,8 +16800,8 @@ and y?
 undefined and make
 
 Inspection of (7.47) shows that the exclusion of x and y from z is compelled on syn-
-P(y (cid:4) x(cid:5), z)
-P(y (cid:4) x, z) (cid:2) 1.
+P(y x, z)
+P(y x, z) 1.
 tactic grounds, since it would render
 Indeed, in the syntax of probability calculus we cannot ask what the probability of event
 y would be, given that y has in fact occurred – the answer is (trivially) 1. The best we can
@@ -18123,8 +16813,6 @@ ern the evaluation of
 (in our example) and correctly qualifies the tree limb (x) as the cause of making the hole
 (y). As we see, the desired quantity can be expressed and evaluated by ordinary conditionalization on x and y, without explicitly invoking any subpopulation z.33
 
-P(Yx(cid:5) (cid:2) y(cid:5) (cid:4) x, y)
-
 Ironically, by denying counterfactual conditionals, probabilists deprived themselves
 of using standard conditionals – the very conditionals they were trying to preserve – and
 were forced to accommodate simple evidential information in roundabout ways. This
@@ -18134,9 +16822,7 @@ separate analyses. The two types of causes differ merely in the level of scenari
 information that is brought to bear on a problem, that is, in the specificity of the evidence
 e that enters the quantity
 
-(cid:2) y (cid:4) e).
-
-P(Yx
+y e).
 
 7.5.5 Summary
 
@@ -18146,11 +16832,9 @@ counterfactual approach to causation:
 [the counterfactual approach] requires us to evaluate the probability of counterfactuals for
 which we have only the beginnings of a semantics (via the device of measures over possible worlds) and no methodology, much less an account of why the methodology is suited
 
-33 The desired subpopulation z is equal to the set of all u that are mapped into X(u) (cid:2) x, Y(u) (cid:2) y,
+33 The desired subpopulation z is equal to the set of all u that are mapped into X(u) x, Y(u) y,
 
-and Yx(u) (cid:2) y(cid:5).
-
-7.5 Structural Versus Probabilistic Causality
+and Yx(u) y.
 
 to the semantics. How do we test claims about probabilities of counterfactuals? We have no
 answer, much less an answer that fits with our nascent semantics. It would be preferable
@@ -18171,7 +16855,7 @@ claims testable was given up in the probabilistic framework as soon as unmeasure
 allowed to infiltrate the analysis, and methodologies for answering questions of testability have moved over to the structural–counterfactual framework (see Chapter 9 and
 Section 11.9).
 
-P(Yx(cid:5) (cid:4) y (cid:4) x, y)
+P(Yxy x, y)
 
 The ideal of remaining compatible with the teachings of nondeterministic physics
 seems to be the only viable aspect remaining in the program of probabilistic causation,
@@ -18187,8 +16871,6 @@ I would venture to predict that robots programmed to emulate the quasi-determini
 macroscopic approximations of Laplace and Einstein would far outperform those built
 on the correct but counterintuitive theories of Born, Heisenberg, and Bohr.
 
-Acknowledgments
-
 Sections of this chapter are based on the doctoral research of Alex Balke and David
 Galles. This research has benefitted significantly from the input of Joseph Halpern.
 
@@ -18200,8 +16882,6 @@ Counterfactuals
 Would that I could discover truth
 as easily as I can uncover falsehood.
 Cicero (44 B.C.)
-
-Preface
 
 In this chapter we describe how graphical and counterfactual models (Sections 3.2 and
 7.1) can combine to elicit causal information from imperfect experiments: experiments
@@ -18230,8 +16910,6 @@ Indirect experiments are studies in which randomized control is either unfeasibl
 but members of each group are simply encouraged (rather than forced) to participate
 in the program associated with the group; it is up to the individuals to select among
 the programs.
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
 
 Recently, use of strict randomization in social and medical experimentation has been
 
@@ -18312,8 +16990,6 @@ have changed treatment status if given a different assignment. Unfortunately, th
 
 1 This approach is currently used by some FDA agencies to approve new drugs.
 
-Imperfect Experiments: Bounding Effects and Counterfactuals
-
 .1 Graphical representation of causal dependencies in a randomized clinical trial with partial compliance. Z serves as Instrumental Variable.
 
 involving the entire population because it is instrument-dependent: individuals who are
@@ -18341,9 +17017,9 @@ To facilitate the notation, we let z, x, y represent (respectively) the values t
 
 the variables Z, X, Y, with the following interpretation:
 
-z (cid:2) {z0, z1}, z1
-x (cid:2) {x0, x1}, x1
-y (cid:2) {y0, y1}, y1
+z {z0, z1}, z1
+x {x0, x1}, x1
+y {y0, y1}, y1
 
 asserts that treatment has been assigned (z0, its negation);
 asserts that treatment has been administered (x0, its negation); and
@@ -18366,17 +17042,17 @@ randomization of Z, which rules out a common cause for both Z and U.
 
 These assumptions impose on the joint distribution the decomposition
 
-P( y, x, z, u) (cid:2) P( y (cid:2) x, u) P(x (cid:2) z, u) P(z) P(u),
+P( y, x, z, u) P( y x, u) P(x z, u) P(z) P(u),
 
 (8.1)
 
 which, of course, cannot be observed directly because U is unobserved. However, the
 marginal distribution P(y, x, z) and, in particular, the conditional distributions
 
-P( y, x (cid:2) z) (cid:2) a
+P( y, x z) a
 u
 
-P( y (cid:2) x, u) P(x (cid:2) z, u) P(u), z (cid:2) {z0, z1}
+P( y x, u) P(x z, u) P(u), z {z0, z1}
 
 (8.2)
 
@@ -18387,10 +17063,10 @@ Treatment effects are governed by the distribution P(y ƒ do(x)), which – usin
 
 truncated factorization formula of (3.10) – is given by
 
-P( y (cid:2) do(x)) (cid:2) a
+P( y do(x)) a
 u
 
-P( y (cid:2) x, u) P(u);
+P( y x, u) P(u);
 
 (8.3)
 
@@ -18402,12 +17078,12 @@ average causal effect,
 
 ACE(X S Y )
 
-ACE(X S Y ) (cid:2) P( y1 (cid:2) do(x1)) (cid:3) P(y1 (cid:2) do(x0))
+ACE(X S Y ) P( y1 do(x1)) P(y1 do(x0))
 
-(cid:2) a
+a
 u
 
-[P( y1 (cid:2) x1, u) (cid:3) P( y1 (cid:2) x0, u)]P(u).
+[P( y1 x1, u) P( y1 x0, u)]P(u).
 
 (8.4)
 
@@ -18415,7 +17091,7 @@ Our task is then to estimate or bound the expression in (8.4) given the observed
 constrained optimization exercise of finding the highest and lowest values of (8.4) subject to the equality constraint in (8.2), where the maximization ranges over all possible
 functions
 
-P(u), P(y1 (cid:2) x0, u), P(y1 (cid:2) x1, u), P(x1 (cid:2) z0, u), and P(x1 (cid:2) z1, u)
+P(u), P(y1 x0, u), P(y1 x1, u), P(x1 z0, u), and P(x1 z1, u)
 
 that satisfy those constraints.
 
@@ -18428,7 +17104,7 @@ observations and manipulations of Z, X, and Y (Pearl 1994a).
 
 2 In practice, of course, only a finite sample of
 
-P( y, x (cid:2) z)
+P( y, x z)
 
 identification, not estimation, so we make the large-sample assumption and consider
 given.
@@ -18436,23 +17112,21 @@ given.
 will be observed. But our task is one of
 as
 
-P( y, x (cid:2) z)
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
+P( y, x z)
 
 .2 The canonical partition of U into four equivalence classes, each inducing a distinct functional mapping
-from X to Y for any given function y (cid:2) f(x, u).
+from X to Y for any given function y f(x, u).
 
 Consider the structural equation that connects two binary variables, Y and X, in a
 
 causal model:
 
-y (cid:2) f (x, u).
+y f (x, u).
 
 For any given u, the relationship between X and Y must be one of four functions:
 
-f0 : y (cid:2) 0, f1 : y (cid:2) x,
-f2 : y (cid:4) x, f3 : y (cid:2) 1.
+f0 : y 0, f1 : y x,
+f2 : y x, f3 : y 1.
 
 (8.5)
 
@@ -18461,7 +17135,7 @@ can have on the model is to switch the relationship between X and Y among these 
 functions. This partitions the domain of U into four equivalence classes, as shown in Figure 8.2, where each class contains those points u that correspond to the same function. We
 can thus replace U by a four-state variable, R(u), such that each state represents one of
 the four functions. The probability P(u) would automatically translate into a probability
-function P(r), r (cid:2) 0, 1, 2, 3, that is given by the total weight assigned to the equivalence
+function P(r), r 0, 1, 2, 3, that is given by the total weight assigned to the equivalence
 class corresponding to r. A state-minimal variable like R is called a "response" variable by Balke and Pearl (1994a,b) and a "mapping" variable by Heckerman and Shachter
 (1995), yet "canonical partition" would be more descriptive.3
 
@@ -18478,20 +17152,18 @@ seemingly "fatalistic'' response function has met with some objections (Dawid 20
 inherent unobservability of the many factors that might govern an individual response to treatment.
 The equivalence-class formulation of R(u) mitigates those objections (Pearl 2000) by showing that
 R(u) evolves naturally and mathematically from any complex system of stochastic latent variables,
-provided only that we acknowledge their existence through the equation y (cid:2) f(x, u). Those who
+provided only that we acknowledge their existence through the equation y f(x, u). Those who
 invoke quantum-mechanical objections to the latter step as well (e.g., Salmon 1998) should regard
-the functional relationship y (cid:2) f(x, u) as an abstract mathematical construct, representing the
+the functional relationship y f(x, u) as an abstract mathematical construct, representing the
 extreme points (vertices) of the set of conditional probabilities
 satisfying the constraints
 of (8.1) and (8.2).
 
-P( y (cid:2) x, u)
+P( y x, u)
 
 8.2 Bounding Causal Effects
 
-x (cid:2) fX (z, rx) (cid:2)
-
-x0
+x fX (z, rx) x0
 x0
 x1
 x1
@@ -18499,31 +17171,24 @@ x0
 x1
 
 if rx
-if rx
-if rx
-if rx
-if rx
-if rx
 
-(cid:2) 0;
-(cid:2) 1 and z (cid:2) z0,
-(cid:2) 1 and z (cid:2) z1,
-(cid:2) 2 and z (cid:2) z0,
-(cid:2) 2 and z (cid:2) z1;
-(cid:2) 3.
+0;
+1 and z z0,
+1 and z z1,
+2 and z z0,
+2 and z z1;
+3.
 
 f
 
 (8.6)
 
-(cid:2) 0, 1, 2, 3 (respec-
+0, 1, 2, 3 (respec-
 Imbens and Rubin (1997) call a subject with compliance behavior rx
 tively) a never-taker, a compiler, a defier, and an always-taker. Similarly, the variable
 Ry determines the response behavior of a subject through the mapping:
 
-y (cid:2) fY (x, ry) (cid:2)
-
-y0
+y fY (x, ry) y0
 y0
 y1
 y1
@@ -18531,18 +17196,13 @@ y0
 y1
 
 if ry
-if ry
-if ry
-if ry
-if ry
-if ry
 
-(cid:2) 0;
-(cid:2) 1 and x (cid:2) x0,
-(cid:2) 1 and x (cid:2) x1,
-(cid:2) 2 and x (cid:2) x0,
-(cid:2) 2 and x (cid:2) x1;
-(cid:2) 3.
+0;
+1 and x x0,
+1 and x x1,
+2 and x x0,
+2 and x x1;
+3.
 
 f
 
@@ -18551,7 +17211,7 @@ f
 Heckerman and Shachter (1995) call the response behavior ry
 never-recover, helped, hurt, and always-recover.
 
-(cid:2) 0, 1, 2, 3 (respectively)
+0, 1, 2, 3 (respectively)
 
 The correspondence between the states of variable Ry and the counterfactual vari-
 , defined in Section 7.1 (Definition 7.1.4) is as follows:
@@ -18564,11 +17224,7 @@ Yx0
 
 Yx1
 
-(cid:2)
-
 Yx1
-
-(cid:2)
 
 Yx0
 
@@ -18582,56 +17238,52 @@ e
 
 e
 
-(cid:2) 1 or ry
+1 or ry
 
-if ry
 otherwise;
 
-(cid:2) 3,
+3,
 
-(cid:2) 2 or ry
+2 or ry
 
-if ry
 otherwise.
 
-(cid:2) 3,
+3,
 
 In general, response and compliance may not be independent, hence the double arrow
-(cid:5) Ry requires 15 independent
+Ry requires 15 independent
 > – – N Ry in .3. The joint distribution over Rx
 Rx
 parameters, and these parameters are sufficient for specifying the model of .3,
-P(y, x, z, rx, ry) (cid:2) P(y ƒ x, ry) P(x ƒ rx, z) P(z) P(rx, ry), because Y and X stand in
+P(y, x, z, rx, ry) P(y ƒ x, ry) P(x ƒ rx, z) P(z) P(rx, ry), because Y and X stand in
 fixed functional relations to their parents in the graph. The causal effect of the treatment
 can now be obtained directly from (8.7), giving
 
-P(y1 (cid:2) do(x1)) (cid:2) P(ry
+P(y1 do(x1)) P(ry
 
-(cid:2) 1) (cid:6) P(ry
+1) P(ry
 
-(cid:2) 3),
+3),
 
-P(y1 (cid:2) do(x0)) (cid:2) P(ry
+P(y1 do(x0)) P(ry
 
-(cid:2) 2) (cid:6) P(ry
+2) P(ry
 
-(cid:2) 3),
+3),
 
 and
 
-ACE(X S Y) (cid:2) P(ry
+ACE(X S Y) P(ry
 
-(cid:2) 1) (cid:3) P(ry
+1) P(ry
 
-(cid:2) 2).
+2).
 
 (8.8)
 
 (8.9)
 
 (8.10)
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
 
 .3 A structure equivalent to that of .1
 but employing finite-state response variables Rz, Rx, and
@@ -18640,7 +17292,6 @@ Ry.
 8.2.3 Linear Programming Formulation
 By explicating the relationship between the parameters of P(y, x ƒ z) and those of
 P(rx, ry), we obtain a set of linear constraints needed for minimizing or maximizing
-ACE(X S Y )
 
 given P(y, x ƒ z).
 
@@ -18656,31 +17307,29 @@ p10.0
 
 p11.0
 
-(cid:2) P(y0, x0 (cid:2) z0), p00.1
-(cid:2) P(y0, x1 (cid:2) z0), p01.1
-(cid:2) P(y1, x0 (cid:2) z0), p10.1
-(cid:2) P(y1, x1 (cid:2) z0), p11.1
+P(y0, x0 z0), p00.1
+P(y0, x1 z0), p01.1
+P(y1, x0 z0), p10.1
+P(y1, x1 z0), p11.1
 
-(cid:2) P(y0, x0 (cid:2) z1),
-(cid:2) P(y0, x1 (cid:2) z1),
-(cid:2) P(y1, x0 (cid:2) z1),
-(cid:2) P(y1, x1 (cid:2) z1).
+P(y0, x0 z1),
+P(y0, x1 z1),
+P(y1, x0 z1),
+P(y1, x1 z1).
 
 The probabilistic constraints
 
 a
-n(cid:2)00
+n00
 
 pn.0
 
-(cid:2) 1 and a
-n(cid:2)00
+1 and a
+n00
 
 pn.1
 
-(cid:2) 1
-
-S (cid:2) (p00.0, p , p11.1)
+S (p00.0, p , p11.1)
 further imply that
 p
 space. This space will be referred to as P.
@@ -18691,27 +17340,25 @@ The joint probability P(rx, ry) has 16 parameters:
 
 qjk
 
-(cid:2) P(rx
+P(rx
 
-(cid:2) j, ry
+j, ry
 
-(cid:2) k),
+k),
 
 (8.11)
 
 where j,
 
-k (cid:2) {0, 1, 2, 3}.
+k {0, 1, 2, 3}.
 
 The probabilistic constraint
 
 a
-j(cid:2)0
+j0
 
 a
-k(cid:2)0
-
-(cid:2) 1
+k0
 
 qjk
 
@@ -18726,21 +17373,21 @@ specifies a point in 15-dimensional space. This space will be referred to
 
 Equation (8.10) can now be rewritten as a linear combination of the Q parameters:
 
-ACE(X S Y) (cid:2) q01
+ACE(X S Y) q01
 
-(cid:6) q11
+q11
 
-(cid:6) q21
+q21
 
-(cid:6) q31
+q31
 
-(cid:3) q02
+q02
 
-(cid:3) q12
+q12
 
-(cid:3) q22
+q22
 
-(cid:3) q32.
+q32.
 
 (8.12)
 
@@ -18760,56 +17407,51 @@ S
 p
 
 in P:
-(cid:2) q00
-(cid:2) q20
-(cid:2) q02
-(cid:2) q21
+q00
+q20
+q02
+q21
 
-p00.0
-p01.0
-p10.0
-p11.0
+q01
+q22
+q03
+q23
 
-(cid:6) q01
-(cid:6) q22
-(cid:6) q03
-(cid:6) q23
+q10
+q30
+q12
+q31
 
-(cid:6) q10
-(cid:6) q30
-(cid:6) q12
-(cid:6) q31
+q11, p00.1
+q32, p01.1
+q13, p10.1
+q33, p11.1
 
-(cid:6) q11, p00.1
-(cid:6) q32, p01.1
-(cid:6) q13, p10.1
-(cid:6) q33, p11.1
+q01
+q12
+q03
+q13
 
-(cid:6) q01
-(cid:6) q12
-(cid:6) q03
-(cid:6) q13
-
-(cid:2) q00
-(cid:2) q10
-(cid:2) q02
-(cid:2) q11
-S (cid:2) R q
+q00
+q10
+q02
+q11
+S R q
 p
 
 .
 
 S
 
-(cid:6) q20
-(cid:6) q30
-(cid:6) q22
-(cid:6) q31
+q20
+q30
+q22
+q31
 
-(cid:6) q21,
-(cid:6) q32,
-(cid:6) q23,
-(cid:6) q33,
+q21,
+q32,
+q23,
+q33,
 
 which can also be written in matrix form as
 
@@ -18827,42 +17469,42 @@ can be determined by solving the following linear programming problem.
 
 Minimize q01
 
-(cid:6) q11
+q11
 
-(cid:6) q21
+q21
 
-(cid:6) q31
+q31
 
-(cid:3) q02
+q02
 
-(cid:3) q12
+q12
 
-(cid:3) q22
+q22
 
-(cid:3) q32
+q32
 
 subject to:
 
 a
-j(cid:2)0
+j0
 
 a
-k(cid:2)0
+k0
 
-(cid:2) 1,
+1,
 
 qjk
 
 R q
 
-S (cid:2) p
+S p
 ,
 
 S
 
 qjk
 
-(cid:8) 0 for j, k H
+0 for j, k H
 
 0, 1, 2, 3
 
@@ -18874,112 +17516,38 @@ For problems of this size, procedures are available for deriving symbolic expres
 for the solution of this optimization exercise (Balke 1995), leading to the following lower
 bound on the treatment effect:
 
-ACE(X S Y) (cid:8) max
+ACE(X S Y) max
 
-p11.0
 p11.1
 
 h
 
 p00.1
-p00.0
 
-p11.1
-p11.0
-(cid:3) p11.1
-(cid:3) p11.0
+p10.1
 
-(cid:6) p00.0
-(cid:6) p00.1
-(cid:3) p10.1
-(cid:3) p10.0
-
-(cid:3) 1
-(cid:3) 1
-(cid:3) p01.0
-(cid:3) p01.1
-
-(cid:3)p01.1
-(cid:3)p01.0
-
-(cid:3) p10.1
-(cid:3) p10.0
-
-(cid:3) p01.1
-(cid:3) p01.0
-
-(cid:3) p10.1
-(cid:3) p10.0
-
-(cid:3) p01.0
-(cid:3) p01.1
+p01.1
 
 .
 
 (8.14a)
 
-(cid:3) p10.0
-(cid:3) p10.1
-
-(cid:3) p00.0
 x
-(cid:3) p00.1
 
 Similarly, the upper bound is given by
 
-ACE(X S Y) (cid:7) min
-
-(cid:3)p01.0
-(cid:3)p01.1
-
-(cid:3)p10.1
-(cid:3)p10.0
+ACE(X S Y) min
 
 h
 
-1 (cid:3) p01.1
-1 (cid:3) p01.0
-
-(cid:3) p10.0
-(cid:3) p10.1
-
-(cid:6) p01.1
-(cid:6) p11.1
-
-(cid:6) p00.1
-(cid:6) p00.1
-
-(cid:6) p11.0
-(cid:6) p01.0
-
-p11.1
-p11.0
-
-(cid:6) p00.1
-(cid:3) p00.0
-
-(cid:6) p11.1
-(cid:6) p11.0
-
-(cid:6) p00.1
-(cid:6) p00.0
-
-(cid:6) p11.0
-(cid:6) p11.1
-
-(cid:6) p00.0
-(cid:6) p00.0
+1 p01.1
+1 p01.0
 
 .
 
 (8.14b)
 
-(cid:6) p10.0
-(cid:6) p10.1
-
 x
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
 
 We may also derive bounds for (8.8) and (8.9) individually (under the same linear
 
@@ -18987,30 +17555,15 @@ constraints), giving:
 
 P( y1
 
-(cid:2) do(x0)) (cid:8) max
+do(x0)) max
 
 P( y1
 
-(cid:2) do(x0)) (cid:7) min
-
-p10.0
-
-p01.0
-
-p01.0
-
-p10.0
+do(x0)) min
 
 μ
 
 μ
-
-(cid:3) p11.1
-
-(cid:3) p01.1
-(cid:6) p11.1
-
-(cid:6) p10.1
 
 ,
 
@@ -19020,69 +17573,31 @@ p10.0
 
 ∂
 
-(cid:6) p11.0
-
-(cid:3) p00.1
-p10.1
-p10.0
-(cid:3) p00.1
-(cid:6) p10.1
-1 (cid:3) p00.1
-1 (cid:3) p00.0
-(cid:6) p01.1
-p11.0
-p11.1
-
-(cid:6) p10.0
-(cid:6) p10.0
-
-(cid:6) p11.0
+1 p00.1
+1 p00.0
 
 P( y1
 
-(cid:2) do(x1)) (cid:8) max
+do(x1)) max
 
 μ
-
-(cid:3)p00.0
-(cid:3)p01.0
-
-(cid:3) p01.0
-(cid:3) p10.0
-
-(cid:6) p00.1
-(cid:6) p10.1
 
 ,
 
 ∂
 
-(cid:6) p11.1
-(cid:6) p11.1
-
 P( y1
 
-(cid:2) do(x1)) (cid:7) min
+do(x1)) min
 
-1 (cid:3) p01.0
-1 (cid:3) p01.0
-(cid:6) p10.1
-(cid:6) p00.1
-
-(cid:6) p11.0
-(cid:6) p11.0
+1 p01.0
+1 p01.0
 
 μ
-
-p00.0
-p10.0
 
 .
 
 ∂
-
-(cid:6) p11.1
-(cid:6) p11.1
 
 (8.15)
 
@@ -19093,22 +17608,20 @@ sought.
 
 8.2.4 The Natural Bounds
 
-ACE(X S Y)
-
 The expression for
 (equation (8.4)) can be bounded by two simple formulas, each made up of the first two terms in (8.14a) and (8.14b) (Robins 1989; Manski
 1990; Pearl 1994a):
 
-ACE(X S Y) (cid:8) P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0) (cid:3) P(y1, x0 (cid:2) z1) (cid:3) P(y0, x1 (cid:2) z0),
+ACE(X S Y) P(y1 z1) P(y1 z0) P(y1, x0 z1) P(y0, x1 z0),
 
-ACE(X S Y) (cid:7) P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0) (cid:6) P(y0, x0 (cid:2) z1) (cid:6) P(y1, x1 (cid:2) z0).
+ACE(X S Y) P(y1 z1) P(y1 z0) P(y0, x0 z1) P(y1, x1 z0).
 
 (8.17)
 
 Because of their simplicity and wide range of applicability, the bounds given by (8.17)
 were named the natural bounds (Balke and Pearl 1997). The natural bounds guarantee
-that the causal effect of the actual treatment cannot be smaller than that of the encouragement (P(y1 ƒ z1) (cid:3) P(y1 ƒ z0)) by more than the sum of two measurable quantities,
-P(y1, x0 ƒ z1) (cid:6) P(y0, x1 ƒ z0); they also guarantee that the causal effect of the treatment
+that the causal effect of the actual treatment cannot be smaller than that of the encouragement (P(y1 ƒ z1) P(y1 ƒ z0)) by more than the sum of two measurable quantities,
+P(y1, x0 ƒ z1) P(y0, x1 ƒ z0); they also guarantee that the causal effect of the treatment
 cannot exceed that of the encouragement by more than the sum of two other measurable
 
 4 "Assumption-transparent" might be a better term; we make no assumptions about factors that determine subjects' compliance, but we rely on the assumptions of (i) randomized assignment and
@@ -19116,15 +17629,13 @@ cannot exceed that of the encouragement by more than the sum of two other measur
 
 8.2 Bounding Causal Effects
 
-quantities, P(y0, x0 ƒ Z1) (cid:6) P(y1, x1 ƒ z0). The width of the natural bounds, not surprisingly, is given by the rate of noncompliance: P(x1 ƒ z0) (cid:6) P(x0 ƒ z1).
+quantities, P(y0, x0 ƒ Z1) P(y1, x1 ƒ z0). The width of the natural bounds, not surprisingly, is given by the rate of noncompliance: P(x1 ƒ z0) P(x0 ƒ z1).
 
 The width of the sharp bounds in (8.14ab) can be substantially narrower, though. In
 Balke (1995) and Pearl (1995b), it is shown that – even under conditions of 50% noncompliance – these bounds may collapse to a point and thus permit consistent estimation
 of
 . This occurs whenever (a) the percentage of subjects complying with
 assignment z0 is the same as those complying with z1 and (b) Y and Z are perfectly correlated in at least one treatment arm x (see Table 8.1 in Section 8.5).
-
-ACE(X S Y)
 
 Although more complicated than the natural bounds of (8.17), the sharp bounds of
 (8.14ab) are nevertheless easy to assess once we have the frequency data in the eight cells
@@ -19138,48 +17649,45 @@ binary events
 of Y. Equations (8.15) and (8.16) would then provide bounds on the entire distribution of
 the treatment effect
 
-P(Y (cid:9) t (cid:2) do(x)).
+P(Y t do(x)).
 
-Y (cid:7) t
+Y t
 
-Y (cid:10) t
+Y t
 
 and
 
 8.2.5 Effect of Treatment on the Treated (ETT)
 
-ACE(X S Y )
-
 Much of the literature assumes that
 is the parameter of interest, because
-ACE(X S Y )
 predicts the impact of applying the treatment uniformly (or randomly)
 over the population. However, if a policy maker is not interested in introducing new
 treatment policies but rather in deciding whether to maintain or terminate an existing program under its current incentive system, then the parameter of interest should measure
 the impact of the treatment on the treated, namely, the mean response of the treated subjects compared to the mean response of these same subjects had they not been treated
 (Heckman 1992). The appropriate formula for this parameter is
 
-ETT(X S Y ) (cid:2) P(Yx1
+ETT(X S Y ) P(Yx1
 
-(cid:2) y1
+y1
 
-(cid:2) x1) (cid:3) P(Yx0
+x1) P(Yx0
 
-(cid:2) y1
+y1
 
-(cid:2) x1)
+x1)
 
-(cid:2) a
+a
 u
 
-[P(y1 (cid:2) x1, u) (cid:3) P(y1 (cid:2) x0, u)] P(u (cid:2) x1),
+[P(y1 x1, u) P(y1 x0, u)] P(u x1),
 
 (8.18)
 
 which is similar to (8.4) except for replacing the expectation over u with the conditional
-expectation given X (cid:2) x1.
+expectation given X x1.
 The analysis of
-(cid:2) z0) (cid:2) 0,
+z0) 0,
 
 reveals that, under conditions of no intrusion (i.e.,
 P(x1
@@ -19197,28 +17705,20 @@ ETT(X S Y )
 
 ETT(X S Y )
 
-ETT(X S Y ) (cid:8)
-
-ETT(X S Y ) (cid:7)
-
-P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0)
+ETT(X S Y ) ETT(X S Y ) P(y1 z1) P(y1 z0)
 
 P(z1)
 P(x1)
 >
-P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0)
+P(y1 z1) P(y1 z0)
 
 P(z1)
 P(x1)
 >
 
-(cid:3)
-
-(cid:6)
-
-P(y0, x1 (cid:2) z0)
+P(y0, x1 z0)
 P(x1)
-P(y1, x1 (cid:2) z0)
+P(y1, x1 z0)
 P(x1)
 
 ,
@@ -19227,18 +17727,12 @@ P(x1)
 
 (8.19)
 
-Imperfect Experiments: Bounding Effects and Counterfactuals
+The sharp bounds are presented in Balke (1995, p. 113). Clearly, in situations where treatment may be obtained only by those encouraged (by assignment), we have P(x1 ƒ z0) 0 and
 
-The sharp bounds are presented in Balke (1995, p. 113). Clearly, in situations where treatment may be obtained only by those encouraged (by assignment), we have P(x1 ƒ z0) (cid:2)
-0 and
-
-ETT(X S Y) (cid:2)
-
-.
+ETT(X S Y) .
 
 (8.20)
 
-ACE(X S Y)
 ,
 
 Unlike
@@ -19246,13 +17740,11 @@ is not an intrinsic property of the treatment, since
 it varies with the encouraging instrument. Hence, its significance lies in studies where it
 is desired to evaluate the efficacy of an existing program on its current participants.
 
-P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0)
-P(x1 (cid:2) z1)
+P(y1 z1) P(y1 z0)
+P(x1 z1)
 ETT(X S Y)
 
 8.2.6 Example: The Effect of Cholestyramine
-
-ACE(X S Y )
 
 To demonstrate by example how the bounds for
 can be used to provide
@@ -19269,15 +17761,15 @@ consumption was selected as roughly the midpoint between minimum and maximum
 consumption; the threshold for cholesterol level reduction was set at 28 units. After this
 "thresholding" procedure, the data samples give rise to the following eight probabilities:5
 
-P(y0, x0 (cid:2) z0) (cid:2) 0.919, P(y0, x0 (cid:2) z1) (cid:2) 0.315,
+P(y0, x0 z0) 0.919, P(y0, x0 z1) 0.315,
 
-P(y0, x1 (cid:2) z0) (cid:2) 0.000, P(y0, x1 (cid:2) z1) (cid:2) 0.139,
+P(y0, x1 z0) 0.000, P(y0, x1 z1) 0.139,
 
-P(y1, x0 (cid:2) z0) (cid:2) 0.081, P(y1, x0 (cid:2) z1) (cid:2) 0.073,
+P(y1, x0 z0) 0.081, P(y1, x0 z1) 0.073,
 
-P(y1, x1 (cid:2) z0) (cid:2) 0.000, P(y1, x1 (cid:2) z1) (cid:2) 0.473.
+P(y1, x1 z0) 0.000, P(y1, x1 z1) 0.473.
 These data represent a compliance rate of
-P(x1 (cid:2) z1) (cid:2) 0.139 (cid:6) 0.473 (cid:2) 0.61,
+P(x1 z1) 0.139 0.473 0.61,
 
 5 We make the large-sample assumption and take the sample frequencies as representing P(y, x ƒ z).
 To account for sample variability, all bounds should be supplemented with confidence intervals and
@@ -19285,32 +17777,28 @@ significance levels, as in traditional analyses of controlled experiments. Secti
 
 8.3 Counterfactuals and Legal Responsibility
 
-a mean difference (using P(z1) (cid:2) 0.50) of
+a mean difference (using P(z1) 0.50) of
 
-P(y1 (cid:2) x1) (cid:3) p(y1 (cid:2) x0) (cid:2)
+P(y1 x1) p(y1 x0) 0.473
+0.473 0.139
 
-0.473
-0.473 (cid:6) 0.139
+0.073 0.081
 
-(cid:3) 0.073 (cid:6) 0.081
+1 0.315 0.073
 
-1 (cid:6) 0.315 (cid:6) 0.073
-
-(cid:2) 0.662,
+0.662,
 
 and an encouragement effect (intent to treat) of
 
-P(y1 (cid:2) z1) (cid:3) P(y1 (cid:2) z0) (cid:2) 0.073 (cid:6) 0.473 (cid:3) 0.081 (cid:2) 0.465.
+P(y1 z1) P(y1 z0) 0.073 0.473 0.081 0.465.
 
 According to (8.17),
 
-ACE(X S Y )
-
 can be bounded by
 
-ETT(X S Y ) (cid:8) 0.465 (cid:3) 0.073 (cid:3) 0.000 (cid:2) 0.392,
+ETT(X S Y ) 0.465 0.073 0.000 0.392,
 
-ETT(X S Y ) (cid:7) 0.465 (cid:6) 0.315 (cid:6) 0.000 (cid:2) 0.780.
+ETT(X S Y ) 0.465 0.315 0.000 0.780.
 
 These are remarkably informative bounds: although 38.8% of the subjects deviated
 from their treatment protocol, the experimenter can categorically state that, when applied
@@ -19321,12 +17809,12 @@ The impact of treatment "on the treated" is equally revealing. Using equation (8
 
 ETT(X S Y )
 
-can be evaluated precisely (since P(x1 ƒ z0) (cid:2) 0):
+can be evaluated precisely (since P(x1 ƒ z0) 0):
 
-ETT(X S Y ) (cid:2) 0.465
+ETT(X S Y ) 0.465
 0.610
 
-(cid:2) 0.762.
+0.762.
 
 In words, those subjects who stayed in the program are much better off than they would
 have been if not treated: the treatment can be credited with reducing cholesterol levels
@@ -19349,25 +17837,23 @@ given by .1, where z1 asserts that PeptAid was received from the marketer, x1
 asserts that PeptAid was consumed, and y1 asserts that peptic ulceration occurred. The
 data showed the following distribution:
 
-Imperfect Experiments: Bounding Effects and Counterfactuals
+P(y0, x0 z0) 0.32, P(y0, x0 z1) 0.02,
 
-P(y0, x0 (cid:2) z0) (cid:2) 0.32, P(y0, x0 (cid:2) z1) (cid:2) 0.02,
+P(y0, x1 z0) 0.32, P(y0, x1 z1) 0.17,
 
-P(y0, x1 (cid:2) z0) (cid:2) 0.32, P(y0, x1 (cid:2) z1) (cid:2) 0.17,
+P(y1, x0 z0) 0.04, P(y1, x0 z1) 0.67,
 
-P(y1, x0 (cid:2) z0) (cid:2) 0.04, P(y1, x0 (cid:2) z1) (cid:2) 0.67,
-
-P(y1, x1 (cid:2) z0) (cid:2) 0.32, P(y1, x1 (cid:2) z1) (cid:2) 0.14.
+P(y1, x1 z0) 0.32, P(y1, x1 z1) 0.14.
 
 These data indicate a high correlation between those who consumed PeptAid and those
 who developed peptic ulcers:
 
-P(y1 (cid:2) x1) (cid:2) 0.50, P(y1 (cid:2) x0) (cid:2) 0.26.
+P(y1 x1) 0.50, P(y1 x0) 0.26.
 
 In addition, the intent-to-treat analysis showed that those individuals who received the
 PeptAid samples had a 45% greater chance of developing peptic ulcers:
 
-P(y1 (cid:2) z1) (cid:2) 0.81, P(y1 (cid:2) z0) (cid:2) 0.36.
+P(y1 z1) 0.81, P(y1 z0) 0.36.
 The plaintiff (Mr. Smith), having heard of the study, litigated against both the marketing firm and the PeptAid producer. The plaintiff's attorney argued against the producer,
 claiming that the consumption of PeptAid triggered his client's ulcer and resulting medical expenses. Likewise, the plaintiff's attorney argued against the marketer, claiming
 that his client would not have developed an ulcer if the marketer had not distributed the
@@ -19384,7 +17870,7 @@ Indeed, the application of (8.14a,b) results in the following bounds on the aver
 
 causal effect of PeptAid consumption on peptic ulceration:
 
-(cid:3)0.23 (cid:7) ETT(X S Y) (cid:7) (cid:3)0.15;
+0.23 ETT(X S Y) 0.15;
 
 this proves that PeptAid is beneficial to the population as a whole.
 
@@ -19405,16 +17891,14 @@ terms of the parameters q13, q31, and q33 as
 
 P(Yz0
 
-(cid:2) y1 (cid:2) y1, x1, z1) (cid:2)
+y1 y1, x1, z1) P(rz
 
-P(rz
+1)(q13
 
-(cid:2) 1)(q13
-
-(cid:6) q31
+q31
 P(y1, x1, z1)
 
-(cid:6) q33)
+q33)
 
 ,
 
@@ -19422,79 +17906,51 @@ since only the combinations
 isfy the joint event
 
 rx
-X (cid:2) x1, Y (cid:2) y1,
+X x1, Y y1,
 
-(cid:2) 1, ry
+1, ry
 Yz0
 
-(cid:2) 3, ry
+3, ry
 
 satrx
 rx
 (see (8.6), (8.7), and (8.11)). Therefore,
 
-, and
+3, ry
 
-(cid:2) 3, ry
-
-(cid:2) 3
-
-(cid:2) 1
-
-(cid:2) 3
 ,
-(cid:2) y16
-(cid:6) q33
+y16
+q33
 
 .
 
 q13
 
-(cid:6) q31
-P( y1, x1 (cid:2) z1)
+q31
+P( y1, x1 z1)
 
 P(Yz0
 
-(cid:2) y1 (cid:2) y1, x1, z1) (cid:2)
-
-This expression is linear in the q parameters and may be bounded using linear programming to give
+y1 y1, x1, z1) This expression is linear in the q parameters and may be bounded using linear programming to give
 
 P(Yz0
 
-(cid:2) y1 (cid:2) z1, x1, y1) (cid:8) 1
-p11.1
+y1 z1, x1, y1) 1
 
 max
 
 P(Yz0
 
-(cid:2) y1 (cid:2) z1, x1, y1) (cid:7) 1
-p11.1
+y1 z1, x1, y1) 1
 
 min
 
-(cid:3) p00.0
-
-p11.1
-(cid:3) p00.1
-(cid:3) p01.1
-p11.1
-(cid:6) p11.0
-
-p11.0
-p10.0
-
 d
 
-p10.0
-1 (cid:3) p00.0
-
-(cid:3) p10.1
+1 p00.0
 
 ,
-
-(cid:3) p10.1
-(cid:3) p10.1
 
 t
 
@@ -19508,12 +17964,9 @@ ing the bounds on the counterfactual probability
 
 P(Yx0
 
-(cid:2) y1 (cid:2) y1, x1, z1) (cid:2)
+y1 y1, x1, z1) q13
 
-q13
-
-(cid:6) q33
-p11.1
+q33
 
 .
 
@@ -19521,40 +17974,24 @@ If we minimize and maximize the numerator (subject to (8.13)), we obtain
 
 P(Yx0
 
-(cid:2) y1 (cid:2) y1, x1, z1) (cid:8) 1
-p11.1
+y1 y1, x1, z1) 1
 
 max
 
-p11.1
-p10.0
-
 ,
-
-(cid:3) p11.0
-(cid:3) p10.1
 
 P(Yx0
 
-(cid:2) y1 (cid:2) y1, x1, z1) (cid:7) 1
-p11.1
+y1 y1, x1, z1) 1
 
 min
 
 c
-p10.0
-1 (cid:3) p00.0
-
-(cid:3) p10.1
+1 p00.0
 
 s
 
 .
-
-(cid:3) p00.0
-(cid:3) p01.1
-p11.1
-(cid:6) p11.0
 
 Substituting the observed distribution P(y, x ƒ z) into these formulas, the following
 
@@ -19564,16 +18001,14 @@ c
 
 bounds were obtained:
 
-0.93 (cid:7) P(Yz0
-0.93 (cid:7) P(Yx0
+0.93 P(Yz0
+0.93 P(Yx0
 
-(cid:2) y0 (cid:2) z1, x1, y1) (cid:7) 1.00,
-(cid:2) y0 (cid:2) z1, x1, y1) (cid:7) 1.00.
+y0 z1, x1, y1) 1.00,
+y0 z1, x1, y1) 1.00.
 
 Thus, at least 93% of the people in the plaintiff's category would not have developed ulcers had they not been encouraged to take PeptAid (z0) or, similarly, had they not taken
 PeptAid (x0). This lends very strong support for the plaintiff's claim that he was adversely affected by the marketer and producer's actions and product.
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
 
 In Chapter 9 we will continue the analysis of causal attribution in specific events,
 and we will establish conditions under which the probability of correct attribution can be
@@ -19599,10 +18034,10 @@ instruments.
 By insisting that each upper bound in (8.14b) be higher than the corresponding lower
 bound in (8.14a), we obtain the following testable constraints on the observed distribution:
 
-P( y0, x0 (cid:3) z0) (cid:3) P( y1, x0 (cid:3) z1) (cid:2) 1,
-P( y0, x1 (cid:3) z0) (cid:3) P( y1, x1 (cid:3) z1) (cid:2) 1,
-P( y1, x0 (cid:3) z0) (cid:3) P( y0, x0 (cid:3) z1) (cid:2) 1,
-P( y1, x1 (cid:3) z0) (cid:3) P( y0, x1 (cid:3) z1) (cid:2) 1.
+P( y0, x0 z0) P( y1, x0 z1) 1,
+P( y0, x1 z0) P( y1, x1 z1) 1,
+P( y1, x0 z0) P( y0, x0 z1) 1,
+P( y1, x1 z0) P( y0, x1 z1) 1.
 
 (8.21)
 
@@ -19624,10 +18059,10 @@ x
 a
 y
 
-(cid:2)max
+max
 z
 
-P(y, x (cid:3) z)(cid:4) (cid:2) 1,
+P(y, x z)1,
 
 (8.22)
 
@@ -19645,9 +18080,7 @@ inequality becomes
 max
 z
 
-f(y (cid:2) x, z) P(x (cid:2) z)(cid:4) dy (cid:7) 1 (cid:11) x.
-(cid:3)
-
+f(y x, z) P(x z)dy 1 x.
 (8.23)
 
 However, the transition to a continuous X signals a drastic change in behavior, and led
@@ -19669,13 +18102,13 @@ The instrumental inequality can be tightened appreciably if we are willing to ma
 additional assumptions about subjects' behavior – for example, that no individual can be
 discouraged by the encouragement instrument or (mathematically) that, for all u, we have
 
-P(x1 (cid:2) z1, u) (cid:8) P(x1 (cid:2) z0, u).
+P(x1 z1, u) P(x1 z0, u).
 
 Such an assumption amounts to having no contrarians in the population, that is, no subjects who will consistently choose treatment contrary to their assignment. Under this
 assumption, the inequalities in (8.21) can be tightened (Balke and Pearl 1997) to yield
 
-P( y, x1 (cid:2) z1) (cid:8) P( y, x1 (cid:2) z0),
-P( y, x0 (cid:2) z0) (cid:8) P( y, x0 (cid:2) z1)
+P( y, x1 z1) P( y, x1 z0),
+P( y, x0 z0) P( y, x0 z1)
 .
 y0, y16
 
@@ -19702,15 +18135,12 @@ The method, developed by Chickering and Pearl (1997),7 is applicable within the 
 
 (1997).
 
-Imperfect Experiments: Bounding Effects and Counterfactuals
-
-.4 Model used to represent the independencies in P({x})(cid:3){vR}(cid:3){ACE(X S Y)}).
+.4 Model used to represent the independencies in P({x}){vR}{ACE(X S Y)}).
 
 framework, according to which (i) any unknown statistical parameter can be assigned
 prior probability and (ii) the estimation of that parameter amounts to computing its posterior distribution, conditioned on the sampled data. In our case the parameter in question is
 the probability P(rx, ry) (or P(r) for short), from which we can deduce
 
-ACE(X S Y)
 .
 
 If we think of P(r) not as a probability but rather as the fraction vr of individuals in the
@@ -19729,12 +18159,9 @@ xi
 
 x
 
-ACE(X S Y)
-
 Given the observed data
 
 from the experiment and a prior distribution over the un-
-ACE(X S Y)
 known fractions vr, our problem is to derive the posterior distribution for
 .
 The posterior distributions of both vR and
@@ -19760,15 +18187,9 @@ the domain once these fractions are known.
 
 x, vR, ACE(X S Y)
 
-ACE(X S Y)
-
-ACE(X S Y)
-
-(cid:2) (vr1
+(vr1
 
 .
-
-ACE(X S Y)
 
 In principle, then, estimating
 
@@ -19781,10 +18202,6 @@ model, even with the given independencies. To obtain an estimate of the posterio
 , an approximation technique known as Gibbs sampling can be
 bution of
 
-ACE(X S Y)
-
-ACE(X S Y)
-
 zi, xi yi
 
 8.5 Causal Inference From Finite Samples
@@ -19793,9 +18210,7 @@ zi, xi yi
 VCR. (b) The distribution of
 
 (a) The prior distribution of
-ACE(X S Y)
 
-ACE(X S Y)
 induced by skewed priors over the parameters.
 
 induced by flat priors over the parameters
@@ -19819,8 +18234,6 @@ posterior distribution of
 
 , expressed in a histogram.
 
-ACE(X S Y)
-
 To show the effect of the prior distribution on the output, we present all the results using two different priors. The first is a flat (uniform) distribution over the 16-vector vR that
 is commonly used to express ignorance about the domain. The second prior is skewed to
 represent a strong dependency between the compliance and response characteristics of
@@ -19828,21 +18241,17 @@ the subjects. .5 shows the distribution of
 induced by these two
 prior distributions (in the absence of any data). We see that the skewed prior of .5(b) assigns almost all the weight to negative values of
 
-ACE(X S Y)
-
-ACE(X S Y)
 .
 
 To illustrate how increasing sample size washes away the effect of the prior distribution, we apply the method to simulated data drawn from a distribution P(x, y ƒ z) for
 which ACE is known to be identified. Such a distribution is shown Table 8.1. For this
 distribution, the resulting upper and lower bounds of (8.14a,b) collapse to a single point:
-ACE(X S Y) (cid:2) 0.55.
+ACE(X S Y) 0.55.
 
 .6 shows the output of the Gibbs sampler when applied to data sets of various
 sizes drawn from the distribution shown in Table 8.1, using both the flat and the skewed
 prior. As expected, as the number of cases increases, the posterior distributions become
 increasingly concentrated near the value 0.55. In general, because the skewed prior for
-ACE(X S Y)
 is concentrated further from 0.55 than the uniform prior, more cases are
 needed before the posterior distribution converges to the value 0.55.
 
@@ -19850,16 +18259,11 @@ needed before the posterior distribution converges to the value 0.55.
 
 In this section we analyze two clinical data sets obtained under conditions of imperfect compliance. Consider first the Lipid Research Clinics Coronary Primary Prevention
 data described in Section 8.2.6. The resulting data set (after thresholding) is shown
-0.39 (cid:7)
-in Table 8.2. Using the large-sample assumption, (8.14a,b) gives the bounds
-ACE(X S Y) (cid:7) 0.78.
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
+0.39 in Table 8.2. Using the large-sample assumption, (8.14a,b) gives the bounds
+ACE(X S Y) 0.78.
 
 Table 8.1. Distribution Resulting
 in an Identifiable
-
-ACE(X S Y)
 
 z
 
@@ -19878,8 +18282,6 @@ P(x, y, z)
 0.0
 0.275
 
-ACE(X S Y )
-
 .6 Output histograms for identified treatment effect using two priors,
 (a), (b), (c), and (d) show the posteriusing the flat prior
 ors for
@@ -19888,17 +18290,13 @@ and data sets that consisted of 10, 100,
 (e), (f), (g), and (h) show the posteriors
 for
 using the skewed prior
-with the same respective data sets. (Horizontal lines span the interval ((cid:3)1, (cid:6)1).)
-
-ACE(X S Y )
+with the same respective data sets. (Horizontal lines span the interval (1, 1).)
 
 .7 shows posterior densities for
 
 , based on these data. Rather
 remarkably, even with only 337 cases in the data set, both posterior distributions are
 highly concentrated within the large-sample bounds of 0.39 and 0.78.
-
-ACE(X S Y)
 
 As a second example, we consider an experiment described by Sommer et al. (1986)
 that was designed to determine the impact of vitamin A supplementation on childhood
@@ -19935,15 +18333,12 @@ of deaths y0 were counted for both groups. The results of this study are also sh
 Table 8.2.
 
 Under the large-sample assumption, the inequalities of (8.14a,b) yield the bounds
-(cid:3)0.19 (cid:7) ACE(X S Y) (cid:7) 0.01.
-ACE(X S Y)
+0.19 ACE(X S Y) 0.01.
 ,
 given the data, for two priors. It is interesting to note that, for this study, the choice of
 the prior distribution has a significant effect on the posterior. This suggests that if the clinician is not very confident in the prior, then a sensitivity analysis should be performed.
 
 .8 shows posterior densities for
-
-Imperfect Experiments: Bounding Effects and Counterfactuals
 
 .9 Prior ((a) and (b)) and posterior ((c) and (d)) distributions for a subpopulation f(vR)
 specified by the counterfactual query: "Would Joe have improved had he taken the drug, given that
@@ -19962,8 +18357,6 @@ have had an improved cholesterol reading had he taken cholestyramine, given that
 was in the control group of the Lipid study; (2) Joe took the placebo as prescribed; and
 (3) Joe's cholesterol level did not improve.
 
-ACE(X S Y)
-
 This query can be answered by running the Gibbs sampler on a model identical to
 that shown in .4, except that the function
 (equation (8.10)) is
@@ -19971,21 +18364,21 @@ replaced by another function of vR, one that represents our query. If Joe was in
 Furthermore, because Joe's cholesterol level did not improve, Joe's response behavior
 is either never-recover or helped. Consequently, he must be a member of one of the
 four compliance-response populations:
-(cid:2) 0), (rx
+0), (rx
 
-(cid:2) 1), (rx
+1), (rx
 
-(cid:2) 0), (rx
+0), (rx
 
-(cid:2) 0, ry
+0, ry
 
-(cid:2) 0, ry
+0, ry
 
-(cid:2) 1, ry
+1, ry
 
-(cid:2) 1, ry
+1, ry
 
-(cid:2) 1)
+1)
 
 (rx
 
@@ -19993,19 +18386,17 @@ four compliance-response populations:
 
 Joe would have improved had he taken cholestyramine if and only if his response behavior is helped (ry
 
-(cid:2) 1). It follows that the query of interest is captured by the function
+1). It follows that the query of interest is captured by the function
 
-f (vR) (cid:2)
+f (vR) v01
+v02
 
-v01
-(cid:6) v02
-
-(cid:6) v11
-(cid:6) v11
+v11
+v11
 
 .
 
-(cid:6) v12
+v12
 
 v01
 
@@ -20014,14 +18405,14 @@ prior and the skewed prior, respectively. Figures 8.9(c) and (d) show the poster
 
 8.6 Conclusion
 
-P( f(vR (cid:2) x))
+P( f(vR x))
 
 distribution
 obtained from the Lipid data when using the flat prior and the
 skewed prior, respectively. For reference, the bounds computed under the large-sample
 assumption are
 
-0.51 (cid:7) f(vR (cid:2) x) (cid:7) 0.86.
+0.51 f(vR x) 0.86.
 
 Thus, despite 39% noncompliance in the treatment group and despite having just 337
 subjects, the study strongly supports the conclusion that – given his specific history – Joe
@@ -20055,8 +18446,6 @@ interest. The canonical partition further allows us to supplement structural ass
 with prior beliefs about the population under study and invite Gibbs sampling techniques
 to facilitate Bayesian estimation of the target quantities.
 
-Acknowledgments
-
 This chapter is based on collaborative works with Alex Balke and David Chickering, and
 has benefited from discussions with Phil Dawid, James Heckman, Guido Imbens, Steve
 Jacobsen, Steffen Lauritzen, Charles Manski, and James Robins.
@@ -20070,8 +18459,6 @@ Come and let us cast lots to find out
 who is to blame for this ordeal.
 
 Jonah 1:7
-
-Preface
 
 Assessing the likelihood that one event was the cause of another guides much of what
 we understand about (and how we act in) the world. For example, according to common judicial standard, judgment in favor of the plaintiff should be made if and only if
@@ -20098,8 +18485,6 @@ the structural account (Sections 7.1.3 and 8.3).
 1 The limitations of the probabilistic account are discussed in Section 7.5; those of the logical account
 
 will be discussed in Section 10.1.4.
-
-Probability of Causation: Interpretation and Identification
 
 In this chapter we explore the counterfactual interpretation of necessary and sufficient
 causes, illustrate the application of structural model semantics to the problem of identifying probabilities of causes, and present, by way of examples, new ways of estimating
@@ -20187,8 +18572,6 @@ basic relationships between these two components.
 Greenland (1989). These conditions, however, are too restrictive for the identification of PN, which
 is oblivious to the temporal aspects associated with etiological fractions.
 
-Probability of Causation: Interpretation and Identification
-
 9.2 NECESSARY AND SUFFICIENT CAUSES: CONDITIONS OF
 IDENTIFICATION
 
@@ -20199,55 +18582,43 @@ the introduction.
 
 Definition 9.2.1 (Probability of Necessity, PN)
 Let X and Y be two binary variables in a causal model M. Let x and y stand (respectively)
-for the propositions X (cid:2) true and Y (cid:2) true, and let
+for the propositions X true and Y true, and let
 denote their complements.
 The probability of necessity is defined as the expression
 
 and
 
-x(cid:3)
+xyPN P(Yxfalse X true, Y true)
 
-y(cid:3)
-
-PN (cid:2) P(Yx(cid:3) (cid:2) false (cid:2) X (cid:2) true, Y (cid:2) true)
-
-(cid:2)
-(cid:2) P(y(cid:3)
-x(cid:3)
-
-x, y).
+P(yxx, y).
 
 (9.1)
 
 In other words, PN stands for the probability of
 in the absence of event x), given that x and y did in fact occur.
 
-y(cid:3)
-x(cid:3)
-
-(that event y would not have occurred
+yx(that event y would not have occurred
 
 Observe the slight change in notation relative to that used in Section 7.1. Lowercase
 letters (e.g., x and y) denoted values of variables in Section 7.1 but now stand for propo-
-(cid:2) false.4
-(cid:2) true and
+false.4
+true and
 sitions (or events). Note also the abbreviations yx for Yx
 Readers accustomed to writing "
 " for the counterfactual "B if it were A" can
 translate (9.1) to read
 
-PN (cid:2) P(x(cid:3) (cid:4) y(cid:3) (cid:2) x, y).
+PN P(xyx, y).
 
-A (cid:4) B
+A B
 
 for Yx
 
-y(cid:3)
-x
+yx
 
 Definition 9.2.2 (Probability of Sufficiency, PS)
 
-PS (cid:2) P(yx (cid:2) y(cid:3), x(cid:3)).
+PS P(yx y, x).
 
 (9.2)
 
@@ -20258,9 +18629,7 @@ and y are in fact absent.
 
 Definition 9.2.3 (Probability of Necessity and Sufficiency, PNS)
 
-PNS (cid:2) P(yx, y(cid:3)
-
-x(cid:3)).
+PNS P(yx, yx).
 
 (9.3)
 
@@ -20268,11 +18637,7 @@ x(cid:3)).
 
 derivations.
 
-and y (cid:5)
-
-5 Definition 9.2.1 generalizes naturally to cases where X and Y are multivalued, say x (cid:5)
-
-xk6
+and y 5 Definition 9.2.1 generalizes naturally to cases where X and Y are multivalued, say x xk6
 sary" for
 C. Accordingly, the probability that C was a necessary cause of E is defined as
 C, E). For simplicity, however, we will pursue the analysis in the binary case.
@@ -20281,20 +18646,13 @@ C, E). For simplicity, however, we will pursue the analysis in the binary case.
 , written
 
 x1, x2, . . . ,
-C (cid:2) (cid:3)
-is "counterfactually necesif Yx falls outside E whenever X (cid:2) x is outside
-PN (cid:2) P(C (cid:4) E (cid:2)
+C is "counterfactually necesif Yx falls outside E whenever X x is outside
+PN P(C E y1, y2, . . . , yl6
+jJ (Y yj)
 
-y1, y2, . . . , yl6
-j(cid:2)J (Y (cid:2) yj)
+iI (X xi)
 
-i(cid:2)I (X (cid:2) xi)
-
-E (cid:2) (cid:3)
-
-C (cid:4) E,
-
-9.2 Necessary and Sufficient Causes: Conditions of Identification
+E C E,
 
 PNS stands for the probability that y would respond to x both ways, and therefore measures both the sufficiency and necessity of x to produce y.
 
@@ -20305,10 +18663,7 @@ PS, and PNS.
 
 Definition 9.2.4 (Probability of Disablement, PD)
 
-PD (cid:2) P(y(cid:3)
-x(cid:3)
-
-(cid:2) y).
+PD P(yxy).
 
 (9.4)
 
@@ -20317,14 +18672,14 @@ therefore of interest to policy makers who wish to assess the social effectivene
 
 Definition 9.2.5 (Probability of Enablement, PE)
 
-PE (cid:2) P(yx (cid:2) y(cid:3)).
+PE P(yx y).
 
 PE is similar to PS, save for the fact that we do not condition on
 It is applicable, for
 example, when we wish to assess the danger of an exposure on the entire population of
 healthy individuals, including those who were already exposed.
 
-x(cid:3).
+x.
 
 Although none of these quantities is sufficient for determining the others, they are not
 
@@ -20333,51 +18688,45 @@ entirely independent, as shown in the following lemma.
 Lemma 9.2.6
 The probabilities of causation (PNS, PN, and PS) satisfy the following relationship:
 
-PNS (cid:2) P(x, y)PN (cid:6) P(x(cid:3), y(cid:3))PS.
+PNS P(x, y)PN P(x, y)PS.
 
 (9.5)
 
-Proof
 The consistency condition of (7.20),
 
-X (cid:2) x 1 Yx
+X x 1 Yx
 
-(cid:2) Y,
+Y,
 
 translates in our notation into
 
-(cid:2) y), x(cid:3) 1 (yx(cid:3) (cid:2) y).
+y), x1 (yxy).
 
 x 1 (yx
 Hence we can write
-x(cid:3) (cid:2) (yx ¿
-y(cid:3)
-(cid:2) (y
+x(yx ¿
+y(y
 ¿
 
 yx ¿
 
-y(cid:3)
-x(cid:3))
+yx)
 
 (x
 
-x(cid:3))
+x)
 
 ¡
 (yx ¿
 Taking probabilities on both sides and using the disjointness of x and
 
 ¿
-y(cid:3)
-x(cid:3))
+yx)
 
-x(cid:3))
+x)
 .
 
-y(cid:3)
-
-¡
+y¡
 
 ¿
 
@@ -20385,23 +18734,13 @@ y(cid:3)
 
 x
 
-x(cid:3)
+x, we obtain
 
-, we obtain
+P(yx, yx) P(yx, x, y) P(yx, x, y)
 
-P(yx, y(cid:3)
-
-x(cid:3)) (cid:2) P(y(cid:3)
-
-x(cid:3), x, y) (cid:6) P(yx, x(cid:3), y(cid:3))
-
-(cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) x, y)P(x, y) (cid:6) P(yx (cid:2) x(cid:3), y(cid:3))P(x(cid:3), y(cid:3)),
+P(yxx, y)P(x, y) P(yx x, y)P(x, y),
 
 which proves Lemma 9.2.6.
-
-Probability of Causation: Interpretation and Identification
 
 To put into focus the aspects of causation captured by PN and PS, it is helpful to characterize those changes in the causal model that would leave each of the two measures
 invariant. The next two lemmas show that PN is insensitive to the introduction of potential inhibitors of y, while PS is insensitive to the introduction of alternative causes of y.
@@ -20410,13 +18749,11 @@ Lemma 9.2.7
 Let PN(x, y) stand for the probability that x is a necessary cause of y. Let
 a consequence of y that is potentially inhibited by
 
-q(cid:2)(cid:2)
-
-q(cid:3).
+qq.
 
 If
 
-z (cid:2) y
+z y
 
 q
 
@@ -20424,16 +18761,12 @@ be
 
 ¿
 
-X, Y, Yx(cid:3)6
+X, Y, Yx6
 ,
 
 then
 
-PN(x, z) (cid:2) P(z(cid:3)
-
-x(cid:3) (cid:2) x, z) (cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) x, y) (cid:2) PN(x, y).
+PN(x, z) P(zxx, z) P(yxx, y) PN(x, y).
 
 amounts to inhibiting the output
 Cascading the process Yx(u) with the link
@@ -20442,40 +18775,25 @@ Lemma 9.2.7 asserts that, if q is randomized, we
 can add such a link without affecting PN. The reason is clear; conditioning on x and z
 implies that, in the scenario considered, the added link was not inhibited by
 
-P(q(cid:3)).
+P(q).
 
-q(cid:3).
+q.
 
 ¿
 
 q
 
-z (cid:2) y
+z y
 
 Proof of Lemma 9.2.7
 We have
 
-PN(x, z) (cid:2) P(z(cid:3)
-
-(cid:2)
-x(cid:3)
-
-x, z) (cid:2)
-
-P(z(cid:3)
-
-x(cid:3), x, z)
+PN(x, z) P(zxx, z) P(zx, x, z)
 P(x, z)
 
-(cid:2)
+P(zx, x, z q)P(q) P(zx, x, z q)P(q)
 
-P(z(cid:3)
-
-x(cid:3), x, z (cid:2) q)P(q) (cid:6) P(z(cid:3)
-
-x(cid:3), x, z (cid:2) q(cid:3))P(q(cid:3))
-
-P(z, x, q) (cid:6) P(z, x, q(cid:3))
+P(z, x, q) P(z, x, q)
 
 .
 
@@ -20483,59 +18801,41 @@ P(z, x, q) (cid:6) P(z, x, q(cid:3))
 
 Using
 
-z (cid:2) y
+z y
 
 q,
 it follows that
-q 1 (z (cid:2) y), q 1 (z(cid:3)
+q 1 (z y), q 1 (z¿
 
-¿
-
-x(cid:3) (cid:2) y(cid:3)
-
-x(cid:3)), and q(cid:3) 1 z(cid:3);
+xyx), and q1 z;
 
 therefore,
 
-PN(x, z) (cid:2)
+PN(x, z) P(yx, x, y q)P(q) 0
+P(y, x, q) 0
 
-P(y(cid:3)
-
-x(cid:3), x, y (cid:2) q)P(q) (cid:6) 0
-P(y, x, q) (cid:6) 0
-
-(cid:2)
-
-P(y(cid:3)
-
-x(cid:3), x, y)
+P(yx, x, y)
 
 P(y, x)
 
-(cid:2)
-(cid:2) P(y(cid:3)
-x(cid:3)
-
-x, y) (cid:2) PN(x, y).
+P(yxx, y) PN(x, y).
 
 Lemma 9.2.8
 Let PS(x, y) stand for the probability that x is a sufficient cause of y, and let
 then
 be a consequence of y that may also be triggered by r. If
 
-r(cid:2)(cid:2)
-
-,
+r,
 
 X, Y, Yx6
 
-z (cid:2) y
+z y
 
 r
 
 ¡
 
-PS(x, z) (cid:2) P(zx (cid:2) x(cid:3), z(cid:3)) (cid:2) P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2) PS(x, y).
+PS(x, z) P(zx x, z) P(yx x, y) PS(x, y).
 
 Lemma 9.2.8 asserts that we can add alternative (independent) causes (r) without affecting PS. The reason again is clear; conditioning on the event
 implies that
@@ -20544,11 +18844,7 @@ Lemma 9.2.7.
 
 and
 
-x(cid:3)
-
-y(cid:3)
-
-9.2 Necessary and Sufficient Causes: Conditions of Identification
+xy9.2 Necessary and Sufficient Causes: Conditions of Identification
 
 Since all the causal measures defined so far invoke conditionalization on y, and since
 y is presumed to be affected by x, we know that none of these quantities is identifiable
@@ -20562,18 +18858,16 @@ exogeneity.
 Definition 9.2.9 (Exogeneity)
 A variable X is said to be exogenous relative to Y in model M if and only if
 
-Yx, Yx(cid:3)6
+Yx, Yx6
 
-(cid:2)(cid:2) X.
+X.
 
 In other words, the way Y would potentially respond to conditions x or
 of the actual value of X.
 
 (9.7)
 
-x(cid:3)
-
-is independent
+xis independent
 
 Equation (9.7) is a strong version of those used in Chapter 5 (equation (5.30)) and in
 This definition
@@ -20585,7 +18879,7 @@ sufficient for all the results in this chapter except equations (9.11), (9.12), 
 which strong exogeneity (9.7) is needed.
 
 .
-Yx, Yx(cid:3)6
+Yx, Yx6
 
 The importance of exogeneity lies in permitting the identification of
 
@@ -20593,17 +18887,17 @@ the causal effect of X on Y, since (using
 
 x 1 (yx
 
-P(yx) (cid:2) P(yx (cid:2) x) (cid:2) P(y (cid:2) x),
+P(yx) P(yx x) P(y x),
 
 with similar reduction for
 
-P(yx(cid:3))
+P(yx)
 
 .
 
-(cid:2) y))
+y))
 
-P(yx), P(yx(cid:3))
+P(yx), P(yx)
 ,
 
 (9.8)
@@ -20611,33 +18905,26 @@ P(yx), P(yx(cid:3))
 Theorem 9.2.10
 Under condition of exogeneity, PNS is bounded as follows:
 
-max [0, P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3))] (cid:8) PNS (cid:8) min [P(y (cid:2) x), P(y(cid:3) (cid:2) x(cid:3))].
+max [0, P(y x) P(y x)] PNS min [P(y x), P(yx)].
 
 (9.9)
 
 Both bounds are sharp in the sense that, for every joint distribution P(x, y), there exists
-a model y (cid:2) f(x, u), with u independent of x, that realizes any value of PNS permitted
+a model y f(x, u), with u independent of x, that realizes any value of PNS permitted
 by the bounds.
 
-Proof
 For any two events A and B, we have the sharp bounds
 
-max [0, P(A) (cid:6) P(B) (cid:7) 1] (cid:8) P(A, B) (cid:8) min [P(A), P(B)].
+max [0, P(A) P(B) 1] P(A, B) min [P(A), P(B)].
 
 (9.10)
-
-Probability of Causation: Interpretation and Identification
 
 Equation (9.9) follows from (9.3) and (9.10) using
 and
 
-x(cid:3)) (cid:2) P(y(cid:3) (cid:2) x(cid:3)).
+x) P(yx).
 
-P(y(cid:3)
-
-A (cid:2) yx, B (cid:2) y(cid:3)
-
-x(cid:3), P(yx) (cid:2) P(y (cid:2) x),
+P(yA yx, B yx, P(yx) P(y x),
 
 Clearly, if exogeneity cannot be ascertained, then PNS is bound by inequalities similar
 to those of (9.9), with P(yx) and
@@ -20646,23 +18933,17 @@ replacing P(y ƒ x) and
 
 respectively.
 
-P(y(cid:3) (cid:2) x(cid:3)),
-
-P(y(cid:3)
-
-x(cid:3))
+P(yx),
 
 Theorem 9.2.11
 Under condition of exogeneity, the probabilities PN, PS, and PNS are related to each
 other as follows:
 
-PN (cid:2) PNS
-P(y (cid:2) x)
+PN PNS
 
 ,
 
-PS (cid:2) PNS
-P(y(cid:3) (cid:2) x(cid:3))
+PS PNS
 
 .
 
@@ -20670,13 +18951,9 @@ Thus, the bounds for PNS in (9.9) provide corresponding bounds for PN and PS.
 
 The resulting bounds for PN,
 
-max [0, P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3))]
-P(y (cid:2) x)
+max [0, P(y x) P(y x)]
 
-(cid:8) PN (cid:8)
-
-min [P(y (cid:2) x), P(y(cid:3) (cid:2) x(cid:3))]
-P(y (cid:2) x)
+PN min [P(y x), P(yx)]
 
 ,
 
@@ -20692,42 +18969,34 @@ Corollary 9.2.12
 If x and y occur in an experimental study and if P(yx) and
 measured in that study, then for any point p in the range
 
-P(yx(cid:3))
-
 are the causal effects
 
-max [0, P(yx) (cid:7) P(yx(cid:3))]
-P(yx)
+max [0, P(yx) P(yx)]
 
-(cid:8) p (cid:8)
+p min [P(yx), P(yP(yx)
 
-min [P(yx), P(y(cid:3)
-P(yx)
-
-x(cid:3))]
+x)]
 
 (9.14)
 
 there exists a causal model M that agrees with P(yx) and
 
-P(yx(cid:3))
-
-and for which PN (cid:2) p.
+and for which PN p.
 
 Other bounds can be established for nonexperimental events if we have data from both experimental and observational studies (as in Section 9.3.4). The nonzero widths of these
 bounds imply that probabilities of causation cannot be defined uniquely in stochastic
-(non-Laplacian) models where, for each u, Yx(u) is specified in probability P(Yx(u) (cid:2) y)
+(non-Laplacian) models where, for each u, Yx(u) is specified in probability P(Yx(u) y)
 instead of a single number.6
 
 Proof of Theorem 9.2.11
 x 1 (yx
 Using
 
-(cid:2) y),
+y),
 
 we can write
 
-(cid:2) x
+x
 
 yx
 
@@ -20745,40 +19014,21 @@ and so obtain
 
 causation as
 
-P(y (cid:2) x, u)
-PN(u) (cid:2) [P(y (cid:2) x, u) (cid:7) P(y (cid:2) x(cid:3), u)]
+P(y x, u)
+PN(u) [P(y x, u) P(y x, u)]
 >
 
 instead of the counterfactual definition in (9.1).
 
-9.2 Necessary and Sufficient Causes: Conditions of Identification
-
-PN (cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) x, y) (cid:2)
-
-(cid:2)
-
-(cid:2)
-
-P(y(cid:3)
-
-x(cid:3), x, y)
+PN P(yxx, y) P(yx, x, y)
 
 P(x, y)
 
-P(y(cid:3)
+P(yx, x, yx)
 
-x(cid:3), x, yx)
-P(x, y)
+P(yx, yx)P(x)
 
-P(y(cid:3)
-
-x(cid:3), yx)P(x)
-P(x, y)
-
-(cid:2) PNS
-P(y (cid:2) x)
+PNS
 
 ,
 
@@ -20793,14 +19043,14 @@ which establishes (9.11). Equation (9.12) follows by identical steps.
 (9.18)
 
 For completeness, we write the relationship between PNS and the probabilities of enablement and disablement:
-PD (cid:2) P(x)PNS
+PD P(x)PNS
 
 (9.19)
 
 .
 
-, PE (cid:2) P(x(cid:3))PNS
-P(y(cid:3))
+, PE P(x)PNS
+P(y)
 
 P(y)
 
@@ -20815,14 +19065,13 @@ Definition 9.2.13 (Monotonicity)
 A variable Y is said to be monotonic relative to variable X in a causal model M if and
 only if the function Yx(u) is monotonic in x for all u. Equivalently, Y is monotonic relative to X if and only if
 
-y(cid:3)
-x ¿
+yx ¿
 
-yx(cid:3) (cid:2) false.
+yxfalse.
 
 (9.20)
 
-Monotonicity expresses the assumption that a change from X (cid:2) false to X (cid:2) true cannot, under any circumstance, make Y change from true to false.7 In epidemiology, this
+Monotonicity expresses the assumption that a change from X false to X true cannot, under any circumstance, make Y change from true to false.7 In epidemiology, this
 assumption is often expressed as "no prevention," that is, no individual in the population
 can be helped by exposure to the risk factor.
 
@@ -20830,26 +19079,22 @@ Theorem 9.2.14 (Identifiability under Exogeneity and Monotonicity)
 If X is exogenous and Y is monotonic relative to X, then the probabilities PN, PS, and
 PNS are all identifiable and are given by (9.11)–(9.12), with
 
-PNS (cid:2) P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3)).
+PNS P(y x) P(y x).
 
 (9.21)
 
 7 Our analysis remains invariant to complementing x or y (or both); hence, the general condition of
-yx(cid:3) (cid:2) false or y(cid:3)
-For simplicity, however, we
+yxfalse or yFor simplicity, however, we
 monotonicity should read: Either
 will adhere to the definition in (9.20). Note: monotonicity implies that (5.30) entails (9.7).
 
-(cid:2) false.
+false.
 
-y(cid:3)
-x ¿
+yx ¿
 
-x(cid:3) ¿
+x¿
 
 yx
-
-Probability of Causation: Interpretation and Identification
 
 The r.h.s. of (9.21) is called "risk difference" in epidemiology, and is also misnomered
 "attributable risk" (Hennekens and Buring 1987, p. 87).
@@ -20858,10 +19103,7 @@ From (9.11) we see that the probability of necessity is identifiable and given b
 
 excess risk ratio
 
-PN (cid:2)
-
-P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3))
-P(y (cid:2) x)
+PN P(y x) P(y x)
 
 ,
 
@@ -20882,14 +19124,12 @@ assumption is too weak to permit such identification; in fact, it yields the sam
 in (9.13). This indicates that stochastic monotonicity imposes no constraints whatsoever
 on the functional mechanisms that mediate between X and Y.
 
-P(Yx(u) (cid:2) y) (cid:4) P(Yx(cid:3)(u) (cid:2) y))
+P(Yx(u) y) P(Yx(u) y))
 
 The expression for PS (equation (9.12)) is likewise quite revealing,
 
-PS (cid:2)
-
-P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3))
-1 (cid:7) P(y (cid:2) x(cid:3))
+PS P(y x) P(y x)
+1 P(y x)
 
 ,
 
@@ -20912,53 +19152,43 @@ the effect of x on y after suppressing "all other causes of y." The counterfactu
 suggests another interpretation of this quantity. It measures the
 of PS,
 
-P(yx (cid:2) x(cid:3), y(cid:3)),
+P(yx x, y),
 
 8 Monotonicity is not mentioned in Khoury et al. (1989), but it must have been assumed implicitly to
 
 make their derivations valid.
-
-9.2 Necessary and Sufficient Causes: Conditions of Identification
 
 probability that setting x would produce y in a situation where x and y are in fact absent.
 Conditioning on
 amounts to selecting (or hypothesizing) only those worlds in which
 "all other causes of y" are indeed suppressed.
 
-y(cid:3)
-
-It is important to note, however, that the simple relationships among the three notions
+yIt is important to note, however, that the simple relationships among the three notions
 of causation (equations (9.11)–(9.12)) hold only under the assumption of exogeneity; the
 weaker relationship of (9.5) prevails in the general, nonexogenous case. Additionally,
 all these notions of causation are defined in terms of the global relationships Yx(u) and
-Yx(cid:3)(u),
+Yx(u),
 which are too crude to fully characterize the many nuances of causation; the detailed structure of the causal model leading from X to Y is often needed to explicate more
 refined notions, such as "actual cause" (see Chapter 10).
 
 Proof of Theorem 9.2.14
-x(cid:3) (cid:2) true,
-y(cid:3)
-yx(cid:3) ¡
+xtrue,
+yyx¡
 Writing
-(cid:2) yx ¿
+yx ¿
 
-(yx(cid:3) ¡
+(yx¡
 
 yx
 
-we have
-
-x(cid:3)) (cid:2) (yx ¿
-y(cid:3)
-
-yx(cid:3))
+x) (yx ¿
+yyx)
 
 (yx ¿
 
 ¡
 
-y(cid:3)
-x(cid:3))
+yx)
 
 (9.24)
 
@@ -20966,7 +19196,7 @@ x(cid:3))
 
 and
 
-yx(cid:3) (cid:2) yx(cid:3) ¿
+yxyx¿
 
 (yx ¡
 
@@ -20974,30 +19204,25 @@ since monotonicity entails
 
 yx
 
-(cid:2) yx(cid:3) ¡
+yx¡
 
 (yx ¿
 
-y(cid:3)
-x(cid:3)).
+yx).
 
-x) (cid:2) (yx(cid:3) ¿
-y(cid:3)
-y(cid:3)
-yx(cid:3) ¿
+x) (yx¿
+yyyx¿
 x
 
 yx)
 
 ¡
-(cid:2) false.
+false.
 
-(yx(cid:3) ¿
+(yx¿
 
-x) (cid:2) yx(cid:3) ¿
-y(cid:3)
-
-yx,
+x) yx¿
+yyx,
 
 Substituting (9.25) into (9.24) yields
 
@@ -21005,23 +19230,17 @@ Substituting (9.25) into (9.24) yields
 
 Taking the probability of (9.26) and using the disjointness of
 
-yx(cid:3)
+yxand
 
-and
-
-y(cid:3)
-x(cid:3),
+yx,
 
 we obtain
 
-P(yx) (cid:2) P(yx(cid:3)) (cid:6) P(yx, y(cid:3)
-x(cid:3))
+P(yx) P(yx) P(yx, yx)
 
 or
 
-P(yx, y(cid:3)
-
-x(cid:3)) (cid:2) P(yx) (cid:7) P(yx(cid:3)).
+P(yx, yx) P(yx) P(yx).
 
 (9.27)
 
@@ -21037,7 +19256,7 @@ estimated by auxiliary means (e.g., through adjustment of certain covariates or 
 experimental studies), and the question is whether this added information can render the
 probability of causation identifiable. The answer is affirmative.
 
-P(yx) (cid:9) P(y (cid:2) x).
+P(yx) P(y x).
 
 Theorem 9.2.15
 If Y is monotonic relative to X, then PNS, PN, and PS are identifiable whenever the
@@ -21045,29 +19264,15 @@ causal effects P(yx) and
 
 are identifiable:
 
-P(yx(cid:3))
-
-Probability of Causation: Interpretation and Identification
-
-PNS (cid:2) P(yx, y(cid:3)
-
-PN (cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) x, y) (cid:2)
-
-x(cid:3)) (cid:2) P(yx) (cid:7) P(yx(cid:3)),
-P(y) (cid:7) P(yx(cid:3))
-P(x, y)
-P(yx) (cid:7) P(y)
-P(x(cid:3), y(cid:3))
+PNS P(yx, yPN P(yxx, y) x) P(yx) P(yx),
+P(y) P(yx)
+P(yx) P(y)
 
 ,
 
 .
 
-PS (cid:2) P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2)
-
-(9.28)
+PS P(yx x, y) (9.28)
 
 (9.29)
 
@@ -21076,20 +19281,12 @@ PS (cid:2) P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2)
 In order to appreciate the difference between equations (9.29) and (9.22), we can expand
 P(y) and write
 
-PN (cid:2)
+PN P(y x)P(x) P(y x)P(x) P(yx)
+P(y x)P(x)
 
-P(y (cid:2) x)P(x) (cid:6) P(y (cid:2) x(cid:3))P(x(cid:3)) (cid:7) P(yx(cid:3))
-P(y (cid:2) x)P(x)
+P(y x) P(y x)
 
-(cid:2)
-
-P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3))
-P(y (cid:2) x)
-
-(cid:6)
-
-P(y (cid:2) x(cid:3)) (cid:7) P(yx(cid:3))
-P(x, y)
+P(y x) P(yx)
 
 .
 
@@ -21099,7 +19296,7 @@ The first term on the r.h.s. of (9.31) is the familiar excess risk ratio (as in 
 represents the value of PN under exogeneity. The second term represents the correction
 needed to account for confounding, that is,
 
-P(yx(cid:3)) (cid:9) P(y (cid:2) x(cid:3)).
+P(yx) P(y x).
 
 Equations (9.28)–(9.30) thus provide more refined measures of causation, which can
 be used in situations where the causal effect P(yx) can be identified through auxiliary
@@ -21111,24 +19308,18 @@ Remarkably, since PS and PN must be nonnegative, (9.29)–(9.30) provide a simpl
 
 necessary test for the assumption of monotonicity:
 
-P(yx) (cid:10) P(y) (cid:10) P(yx(cid:3)),
+P(yx) P(y) P(yx),
 
 which tightens the standard inequalities (from
-x) (cid:10) P(x, y(cid:3)).
+x) P(x, y).
 
-P(yx(cid:3)) (cid:10) P(x(cid:3), y), P(y(cid:3)
+P(yx) P(x, y), P(yx(9.32)
 
-x(cid:3)
-
-(9.32)
-
-y 1 yx(cid:3)
-
-and
+y 1 yxand
 
 x
 
-y(cid:3) 1 yx(cid:3))
+y1 yx)
 
 ¿
 
@@ -21147,85 +19338,55 @@ of the target population as characterized by the joint distribution P(x, y).
 Proof of Theorem 9.2.15
 Equation (9.28) was established in (9.27). To prove (9.30), we write
 
-P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2)
+P(yx x, y) P(yx, x, y)
 
-P(yx, x(cid:3), y(cid:3))
-P(x(cid:3), y(cid:3))
-
-(cid:2)
-
-P(yx, x(cid:3), y(cid:3)
-x(cid:3))
-P(x(cid:3), y(cid:3))
+P(yx, x, yx)
 
 ,
 
 (9.34)
 
-9.2 Necessary and Sufficient Causes: Conditions of Identification
-
-x(cid:3)
-because
+xbecause
 conjoin (9.26) with
 
-y(cid:3) (cid:2) x(cid:3)
-x(cid:3)
-
-¿
+yxx¿
 
 (by consistency). To calculate the numerator of (9.34), we
 
-y(cid:3)
-x(cid:3)
-¿
+yx¿
 to obtain
 
-x(cid:3)
-
-(cid:2) (x(cid:3)
-
-¿
+x(x¿
 
 yx
 
 (yx ¿
 We then take the probability on both sides, which gives (since
 
-yx(cid:3))
+yx)
 
 ¿
 
 ¡
 
-y(cid:3)
-x(cid:3) ¿
+yx¿
 
-x(cid:3)).
+x).
 
-yx(cid:3)
+yxand
 
-and
+yxare disjoint)
 
-y(cid:3)
-x(cid:3)
-
-are disjoint)
-
-P(yx, y(cid:3)
-
-x(cid:3), x(cid:3)) (cid:2) P(x(cid:3), yx) (cid:7) P(x(cid:3), yx(cid:3))
-(cid:2) P(x(cid:3), yx) (cid:7) P(x(cid:3), y)
-(cid:2) P(yx) (cid:7) P(x, yx) (cid:7) P(x(cid:3), y)
-(cid:2) P(yx) (cid:7) P(x, y) (cid:7) P(x(cid:3), y)
-(cid:2) P(yx) (cid:7) P(y).
+P(yx, yx, x) P(x, yx) P(x, yx)
+P(x, yx) P(x, y)
+P(yx) P(x, yx) P(x, y)
+P(yx) P(x, y) P(x, y)
+P(yx) P(y).
 
 Substituting into (9.34), we finally obtain
-P(yx) (cid:7) P(y)
-P(x(cid:3), y(cid:3))
+P(yx) P(y)
 
-P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2)
-
-,
+P(yx x, y) ,
 
 which establishes (9.30). Equation (9.29) follows via identical steps.
 
@@ -21234,10 +19395,10 @@ of nonexogeneity was exemplified in Chapter 3. It was shown in Section 3.2 (equa
 (3.13)) that, for every two variables X and Y in a positive Markovian model M, the causal
 effect P(yx) is identifiable and is given by
 
-P(yx) (cid:2) a
+P(yx) a
 paX
 
-P(y (cid:2) paX, x)P(paX),
+P(y paX, x)P(paX),
 
 (9.35)
 
@@ -21258,8 +19419,6 @@ Corollary 9.2.17
 Let GP be the class of semi-Markovian models that satisfy the graphical criterion of
 Theorem 3.6.1. If Yx(u) is monotonic, then the probabilities of causation PNS, PS, and
 
-Probability of Causation: Interpretation and Identification
-
 PN are identifiable in GP and are given by (9.28)–(9.30), with P(yx) determined by the
 topology of G(M) through the algorithm of Tian and Pearl (2002a).
 
@@ -21278,7 +19437,7 @@ This example is isomorphic to the clinical trial discussed in Section 1.4.4 (.6)
 Let x stand for "we bet on heads," y for "we win a dollar," and u for "the coin turned up
 heads." The functional relationship between y, x, and u is
 
-y (cid:2) (x
+y (x
 
 u)
 
@@ -21286,24 +19445,19 @@ u)
 
 ¿
 
-(x(cid:3)
+(x¿
 
-¿
-
-u(cid:3)),
+u),
 
 (9.36)
 
 which is not monotonic but, since the model is fully specified, permits us to compute the
 probabilities of causation from their definitions, (9.1)–(9.3). To exemplify,
 
-PN (cid:2) P(y(cid:3)
+PN P(yxx, y) P(yy 1 u
 
-x(cid:3) (cid:2) x, y) (cid:2) P(y(cid:3)
-y 1 u
-
-x(cid:3) (cid:2) u) (cid:2) 1,
-Yx(cid:3)(u) (cid:2) false.
+xu) 1,
+Yx(u) false.
 
 x
 
@@ -21317,25 +19471,20 @@ which we can further deduce that betting tails
 instead of heads would have resulted
 in a loss. Similarly,
 
-(x(cid:3))
+(x)
 
 (because
 
-x(cid:3)
+xand
 
-and
-
-PS (cid:2) P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2) P(yx (cid:2) u) (cid:2) 1
-y(cid:3) 1 u)
+PS P(yx x, y) P(yx u) 1
+y1 u)
 
 ¿
-PNS (cid:2) P(yx, y(cid:3)
-x(cid:3))
-x(cid:3) (cid:2) u)P(u) (cid:6) P(yx, y(cid:3)
-(cid:2) P(yx, y(cid:3)
-(cid:2) 1(0.5) (cid:6) 0(0.5) (cid:2) 0.5.
+PNS P(yx, yx)
+xu)P(u) P(yx, yP(yx, y1(0.5) 0(0.5) 0.5.
 
-x(cid:3) (cid:2) u(cid:3))P(u(cid:3))
+xu)P(u)
 
 We see that betting heads has 50% chance of being a necessary and sufficient cause of
 winning. Still, once we win, we can be 100% sure that our bet was necessary for our win,
@@ -21350,7 +19499,7 @@ This can be seen, for instance, from the conditional probabilities and causal ef
 
 9.3 Examples and Applications
 
-P(y (cid:2) x) (cid:2) P(y (cid:2) x(cid:3)) (cid:2) P(yx) (cid:2) P(yx(cid:3)) (cid:2) P(y) (cid:2) 1
+P(y x) P(y x) P(yx) P(yx) P(y) 1
 
 ,
 
@@ -21364,7 +19513,7 @@ the three probabilities of causation cannot be determined from statistical data 
 Y alone, not even in a controlled experiment; knowledge of the functional mechanism is
 required, as in (9.36).
 
-0 (cid:8) PNS (cid:8) 1
+0 PNS 1
 2,
 
 It is interesting to note that whether the coin is tossed before or after the bet has no
@@ -21390,14 +19539,12 @@ of causation."
 
 Consider again the firing squad of Section 7.1.2 (see .1); A and B are riflemen, C
 is the squad's captain (who is waiting for the court order, U), and T is a condemned prisoner. Let u be the proposition that the court has ordered an execution, x the proposition
-P(u) (cid:2) 1
+P(u) 1
 stating that A pulled the trigger, and y that T is dead. We assume again that
 ,
 that A and B are perfectly accurate marksmen who are alert and law-abiding, and that T
 is not likely to die from fright or other extraneous causes. We wish to compute the probability that x was a necessary (or sufficient, or both) cause for y (i.e., we wish to calculate
 PN, PS, and PNS).
-
-Probability of Causation: Interpretation and Identification
 
 .1 Causal relationships in the twoman firing-squad example.
 
@@ -21405,48 +19552,35 @@ Definitions 9.2.1–9.2.3 permit us to compute these probabilities directly from
 given causal model, since all functions and all probabilities are specified, with the truth
 value of each variable tracing that of U. Accordingly, we can write9
 
-P(yx) (cid:2) P(Yx(u) (cid:2) true)P(u) (cid:6) P(Yx(u(cid:3)) (cid:2) true)P(u(cid:3))
+P(yx) P(Yx(u) true)P(u) P(Yx(u) true)P(u)
 
-(cid:2) 1
-
-2(1 (cid:6) 1) (cid:2) 1.
+2(1 1) 1.
 
 Similarly, we have
 
-P(yx(cid:3)) (cid:2) P(Yx(cid:3)(u) (cid:2) true)P(u) (cid:6) P(Yx(cid:3)(u(cid:3)) (cid:2) true)P(u(cid:3))
+P(yx) P(Yx(u) true)P(u) P(Yx(u) true)P(u)
 
-(cid:2) 1
-
-2(1 (cid:6) 0) (cid:2) 1
+2(1 0) 1
 
 .
 
 In order to compute PNS, we must evaluate the probability of the joint event
 
-Given that these two events are jointly true only when U (cid:2) true, we have
+Given that these two events are jointly true only when U true, we have
 
-PNS (cid:2) P(yx, y(cid:3)
+PNS P(yx, yx)
 
-x(cid:3))
-
-(cid:2) P(yx, y(cid:3)
-
-x(cid:3) (cid:2) u)P(u) (cid:6) P(yx, y(cid:3)
-
-x(cid:3) (cid:2) u(cid:3))P(u(cid:3))
+P(yx, yxu)P(u) P(yx, yxu)P(u)
 
 (9.37)
 
 (9.38)
 
-y(cid:3)
-x(cid:3) ¿
+yx¿
 
 yx.
 
-(cid:2) 1
-
-2(0 (cid:6) 1) (cid:2) 1
+2(0 1) 1
 
 .
 
@@ -21456,11 +19590,7 @@ The calculation of PS and PN is likewise simplified by the fact that each of the
 
 for PN and
 
-x(cid:3)
-
-y(cid:3)
-
-y
+xyy
 
 x
 
@@ -21471,36 +19601,30 @@ have
 
 ¿
 
-PN (cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) x, y) (cid:2) P(y(cid:3)
-
-x(cid:3) (cid:2) u) (cid:2) 0.
+PN P(yxx, y) P(yxu) 0.
 
 reflecting that, once the court orders an execution (u), T will die (y) from the shot of
 rifleman B, even if A refrains from shooting
 Indeed, upon learning of T 's death,
 we can categorically state that rifleman A's shot was not a necessary cause of the death.
 
-(x(cid:3)).
+(x).
 
 Similarly,
-PS (cid:2) P(yx (cid:2) x(cid:3), y(cid:3)) (cid:2) P(yx (cid:2) u(cid:3)) (cid:2) 1,
+PS P(yx x, y) P(yx u) 1,
 
 9 Recall that
 
-P(Yx(u(cid:3)) (cid:2) true)
+P(Yx(u) true)
 of U. Thus, although under condition
-Yx(u(cid:3))
+Yx(u)
 
 calls for hypothesizing that rifleman A pulls the trigger (x) unlawfully.
 
 involves the submodel Mx, in which X is set to "true" independently
 the captain has not given a signal, the potential outcome
 
-u(cid:3)
-
-9.3 Examples and Applications
+u9.3 Examples and Applications
 
 Table 9.1
 
@@ -21510,12 +19634,12 @@ High (x)
 
 Low
 
-(x(cid:3))
+(x)
 
 Deaths (y)
 Survivals
 
-(y(cid:3))
+(y)
 
 69,130
 
@@ -21530,39 +19654,25 @@ not exogenous; events x and y have a common cause (the captain's signal), which 
 to compute PNS, PS, and PN from the joint distribution P(x, y) and the causal effects
 (using (9.28)–(9.30)), instead of consulting the functional model. Indeed, writing
 
-P(y (cid:2) x(cid:3)) (cid:2) 0 (cid:9) P(yx(cid:3)) (cid:2) 1
+P(y x) 0 P(yx) 1
 
-P(x, y) (cid:2) P(x(cid:3), y(cid:3)) (cid:2) 1
+P(x, y) P(x, y) 1
 
 and
 
-P(x, y(cid:3)) (cid:2) P(x(cid:3), y) (cid:2) 0,
+P(x, y) P(x, y) 0,
 
 we obtain
 
-PN (cid:2)
-
-P(y) (cid:7) P(yx(cid:3))
-P(x, y)
-
-(cid:2)
-
-(cid:7) 1
-
-(cid:2) 0
+PN P(y) P(yx)
 
 and
 
-PS (cid:2)
-
-P(yx) (cid:7) P(y)
-P(x(cid:3), y(cid:3))
+PS P(yx) P(y)
 
 as expected.
 
-(cid:2) 1(cid:7) 1
-
-(cid:2) 1,
+1,
 
 (9.40)
 
@@ -21581,12 +19691,10 @@ both) cause of death due to leukemia.
 10 The data in Finkelstein and Levin (1990) are given in "person-year" units. For the purpose of illustration we have converted the data to absolute numbers (of deaths and nondeaths) assuming a
 ten-year observation period.
 
-Probability of Causation: Interpretation and Identification
-
 Assuming monotonicity – that exposure to nuclear radiation had no remedial effect
 on any individual in the study – the process can be modeled by a simple disjunctive mechanism represented by the equation
 
-y (cid:2) f(x, u, q) (cid:2) (x
+y f(x, u, q) (x
 
 q)
 
@@ -21607,45 +19715,34 @@ Under this assumption, (9.21)–(9.23) further permit us to compute the probabil
 causation from frequency data. Taking fractions to represent probabilities, the data in
 Table 9.1 imply the following numerical results:
 
-PNS (cid:2) P(y (cid:2) x) (cid:7) P(y (cid:2) x(cid:3)) (cid:2)
+PNS P(y x) P(y x) 30 69,130
 
-30 (cid:6) 69,130
+16 59,010
 
-(cid:7)
-
-16 (cid:6) 59,010
-
-(cid:2) 0.0001625,
+0.0001625,
 
 (9.45)
 
-PN (cid:2) PNS
-P(y (cid:2) x)
-
-(cid:2)
+PN PNS
 
 PNS
 
-(30 (cid:6) 69,130)
+(30 69,130)
 >
 
-(cid:2) 0.37535,
+0.37535,
 
-PS (cid:2)
-
-PNS
-1 (cid:7) P(y (cid:2) x(cid:3))
-
-(cid:2)
+PS PNS
+1 P(y x)
 
 PNS
-(16 (cid:6) 59,010)
+(16 59,010)
 
-1 (cid:7) 16
+1 16
 
 >
 
-(cid:2) 0.0001625.
+0.0001625.
 
 (9.46)
 
@@ -21697,21 +19794,17 @@ effect of X on Y would be to adjust for W, that is, to calculate P(yx) and
 using
 the standard adjustment formula (equation (3.19))
 
-P(yx(cid:3))
-
-P(yx(cid:3))
-
-P(yx) (cid:2) a
+P(yx) a
 w
 
-P(y (cid:2) x, w)P(w), P(yx(cid:3)) (cid:2) a
+P(y x, w)P(w), P(yx) a
 w
 
-P(y (cid:2) x(cid:3), w)P(w)
+P(y x, w)P(w)
 
 (9.48)
 
-P(y (cid:2) x(cid:3))),
+P(y x)),
 
 (instead of P(y ƒ x) and
 where the summation runs over levels of W. This
@@ -21736,9 +19829,7 @@ Table 9.2
 Deaths (y)
 Survivals
 
-(y(cid:3))
-
-Probability of Causation: Interpretation and Identification
+(y)
 
 Experimental
 
@@ -21746,13 +19837,9 @@ Nonexperimental
 
 x
 
-x(cid:3)
+xx
 
-x
-
-x(cid:3)
-
-9.3.4 Example 4: Legal Responsibility from Experimental and
+x9.3.4 Example 4: Legal Responsibility from Experimental and
 Nonexperimental Data
 
 A lawsuit is filed against the manufacturer of drug x, charging that the drug is likely to
@@ -21776,25 +19863,25 @@ The (hypothetical) data associated with the two studies are shown in Table 9.2. 
 
 experimental data provide the estimates
 
-P(yx) (cid:2) 16
+P(yx) 16
 
-1000 (cid:2) 0.016,
+1000 0.016,
 >
-P(yx(cid:3)) (cid:2) 14
+P(yx) 14
 
-1000 (cid:2) 0.014;
+1000 0.014;
 
 >
 
 the nonexperimental data provide the estimates
 
-P(y) (cid:2) 30
+P(y) 30
 
-P(y, x) (cid:2) 2
+P(y, x) 2
 
-2000 (cid:2) 0.015,
+2000 0.015,
 >
-2000 (cid:2) 0.001.
+2000 0.001.
 >
 
 (9.49)
@@ -21809,15 +19896,13 @@ Substituting these estimates in (9.29), which provides a lower bound on PN (see
 
 (11.42)), we obtain
 
-PN (cid:10)
-
-P(y) (cid:7) P(yx(cid:3))
+PN P(y) P(yx)
 P(y, x)
 
-(cid:2) 0.015 (cid:7) 0.014
+0.015 0.014
 0.001
 
-(cid:2) 1.00.
+1.00.
 
 (9.53)
 
@@ -21828,20 +19913,18 @@ assurance that drug x was in fact responsible for the death of Mr. A. Note that 
 
 forward use of the experimental excess risk ratio would yield a much lower (and incorrect) result:
 
-P(yx) (cid:7) P(yx(cid:3))
-P(yx)
+P(yx) P(yx)
 
-(cid:2) 0.016 (cid:7) 0.014
+0.016 0.014
 0.016
 
-(cid:2) 0.125.
+0.125.
 
 (9.54)
 
 Evidently, what the experimental study does not reveal is that, given a choice, terminal patients avoid drug x. Indeed, if there were any terminal patients who would choose
 would have included some such pax (given the choice), then the control group
 tients (due to randomization) and so the proportion of deaths among the control group
-P(yx(cid:3))
 the population proportion of terminal pawould have been higher than
 tients avoiding x. However, the equality
 tells us that no such patients
@@ -21849,11 +19932,11 @@ were included in the control group; hence (by randomization) no such patients ex
 the population at large, and therefore none of the patients who freely chose drug x was a
 terminal case; all were susceptible to x.
 
-P(yx(cid:3)) (cid:2) P(y, x(cid:3))
+P(yx) P(y, x)
 
-P(x(cid:3), y),
+P(x, y),
 
-(x(cid:3))
+(x)
 
 The numbers in Table 9.2 were obviously contrived to represent an extreme case
 and so facilitate a qualitative explanation of the validity of (9.29). Nevertheless, it is
@@ -21877,8 +19960,6 @@ which no inference would be possible from experimental studies to general behavi
 the population. The invariance of these quantities implies the inequalities of (9.33) and,
 if monotonicity holds, (9.32) ensues.
 
-P(yx(cid:3))
-
 9.3.5 Summary of Results
 
 We now summarize the results from Sections 9.2 and 9.3 that should be of value to practicing epidemiologists and policy makers. These results are shown in Table 9.3, which
@@ -21886,8 +19967,6 @@ lists the best estimand of PN (for a nonexperimental event) under various assump
 various types of data – the stronger the assumptions, the more informative the estimates.
 We see that the excess risk ratio (ERR), which epidemiologists commonly equate
 with the probability of causation, is a valid measure of PN only when two assumptions
-
-Probability of Causation: Interpretation and Identification
 
 Table 9.3. PN as a Function of Assumptions and Available Data
 
@@ -21907,22 +19986,6 @@ Observational
 
 Combined
 
-(cid:6)
-(cid:6)
-(cid:7)
-
-(cid:7)
-
-(cid:7)
-
-(cid:6)
-(cid:7)
-(cid:6)
-
-(cid:6)
-
-(cid:7)
-
 covariate
 control
 
@@ -21935,7 +19998,6 @@ bounds
 —
 
 ERR
-bounds
 corrected
 ERR
 —
@@ -21943,18 +20005,16 @@ ERR
 —
 
 ERR
-bounds
 corrected
 ERR
 corrected
 ERR
-bounds
 
 Note: ERR stands for the excess risk ratio,
 
-1 (cid:7) P(y (cid:2) x(cid:3))
+1 P(y x)
 
-P(y(cid:3) (cid:2) x(cid:3));
+P(yx);
 
 >
 
@@ -21971,12 +20031,12 @@ However, confounding results only from association between
 bias
 exposure and other factors that affect the outcome; one need not be concerned with associations between such factors and susceptibility to exposure (see .2).
 
-[P(y (cid:2) x(cid:3)) (cid:7) P(yx(cid:3))]
+[P(y x) P(yx)]
 >
 
-P(y (cid:2) x(cid:3)) (cid:7) P(yx(cid:3)).
+P(y x) P(yx).
 
-0 (cid:8) PN (cid:8) 1).
+0 PN 1).
 
 The last row in Table 9.3, corresponding to no assumptions whatsoever, leads to vacuous bounds for PN, unless we have combined data. This does not mean, however, that
 justifiable assumptions other than monotonicity and exogeneity could not be helpful in
@@ -21991,15 +20051,13 @@ not observed, their distribution is not known and the model specification is not
 Our first step would be to study under what conditions the function P(u) can be identified, thus rendering the entire model identifiable. If M is Markovian, then the problem
 can be analyzed by considering each parents–child family separately. Consider any arbitrary equation in M,
 
-y (cid:2) f (paY, uY)
+y f (paY, uY)
 
-(cid:2) f (x1, x2, p , xk, u1, p , um),
+f (x1, x2, p , xk, u1, p , um),
 
 (9.55)
 
 9.4 Identification in Nonmonotonic Models
-
-(cid:2)
 
 U1, . . . , Um6
 
@@ -22011,7 +20069,7 @@ appear in the equation for Y. In general, the domain of UY can be arbitrary, dis
 continuous, since these variables represent unobserved factors that were omitted from the
 model. However, since the observed variables are binary, there is only a finite number
 (2(2k))
-(cid:2) u, only one of those functions is realized. This defines a canonical partition of the domain of UY into a set S of
+u, only one of those functions is realized. This defines a canonical partition of the domain of UY into a set S of
 induces the same function f (s)
 equivalence classes, where each equivalence class
 from PAY to Y (see Section 8.2.2). Thus, as u varies over its domain, a set S of such functions is realized, and we can regard S as a new background variable whose values corof functions from PAY to Y that are realizable in UY. The
@@ -22019,7 +20077,7 @@ respond to the set
 .11
 number of such functions will usually be smaller than
 
-f (s) : s (cid:2) S
+f (s) : s S
 
 s H S
 
@@ -22028,35 +20086,31 @@ s H S
 For example, consider the model described in .2. As the background variables (Q, U) vary over their respective domains, the relation between X and Y spans
 three distinct functions:
 
-f (1) : Y (cid:2) true,
+f (1) : Y true,
 
-f (2) : Y (cid:2) false,
+f (2) : Y false,
 
 and
 
-f (3) : Y (cid:2) X.
+f (3) : Y X.
 
 The fourth possible function,
 cells (q, u) and
 the same equivalence class.
 
-(q(cid:3), u)
+(q, u)
 
-Y (cid:9) X,
+Y X,
 
 is never realized because fY( ) is monotonic. The
 induce the same function between X and Y; hence they belong to
-
-(cid:12)
 
 If we are given the distribution P(uY), then we can compute the distribution P(s),
 and this will determine the conditional probabilities P(y ƒ paY) by summing P(s) over
 all those functions f (s) that map paY into the value true,
 
-P(y (cid:2) paY) (cid:2)
-
-a
-s : f (s)(paY)(cid:2)true
+P(y paY) a
+s : f (s)(paY)true
 
 P(s).
 
@@ -22090,7 +20144,7 @@ S
 
 S
 
-S (cid:2) Rq
+S Rq
 p
 
 S
@@ -22099,16 +20153,14 @@ S
 
 (9.57)
 
-2k (cid:11) (cid:2)S(cid:2)
-
-where R is a
+2k Swhere R is a
 for identification is simply that R, together with the normalizing equation
 invertible.
 
 matrix whose entries are either 0 or 1. Thus, a sufficient condition
 be
 
-(cid:2) 1,
+1,
 
 g j q
 
@@ -22131,7 +20183,7 @@ S
 . However, in many cases, such as the "noisy OR" mechanism
 p
 
-Y (cid:2) U0 —i(cid:2)1,p, k
+Y U0 —i1,p, k
 
 (Xi ¿
 
@@ -22141,19 +20193,17 @@ Ui),
 
 11 Balke and Pearl (1994a,b) called these S variables "response variables," as in Section 8.2.2; Heckerman and Shachter (1995) called them "mapping variables."
 
-Probability of Causation: Interpretation and Identification
-
 S
 
 q
 
 to be identified from P(y ƒ paY) even when the exogenous varisymmetry permits
 ables U0, U1, . . . , Uk are not independent. This can be seen by noting that every point u
-(cid:2) false defines a unique function f (s) because, if T is the set of indices i
+false defines a unique function f (s) because, if T is the set of indices i
 for which U0
 for which Ui is true, the relationship between PAY and Y becomes
 
-Y (cid:2) U0 —i(cid:2)T
+Y U0 —iT
 
 Xi
 
@@ -22163,9 +20213,9 @@ S
 
 q
 
-(cid:2) false, this equation defines a distinct function for each T. The number of
+false, this equation defines a distinct function for each T. The number of
 and, for U0
-induced functions is 2k (cid:6) 1, which (subtracting 1 for normalization) is exactly the number
+induced functions is 2k 1, which (subtracting 1 for normalization) is exactly the number
 of distinct realizations of PAY. Moreover, it is easy to show that the matrix connecting
 p
 and
@@ -22180,11 +20230,7 @@ To generalize this result to mechanisms other than noisy OR and noisy AND, we
 note that – although fY( ) in this example was monotonic (in each Xi) – it was the redundancy of fY( ) and not its monotonicity that ensured identifiability. The following is
 an example of a monotonic function for which the R matrix is not invertible:
 
-(cid:12)
-
-(cid:12)
-
-Y (cid:2) (X1 ¿
+Y (X1 ¿
 
 ¡
 
@@ -22198,38 +20244,34 @@ U1)
 
 (X2 ¿
 X2 ¿
-(cid:2) false; it becomes a noisy AND gate
+false; it becomes a noisy AND gate
 This function represents a noisy OR gate for U3
-(cid:2) false. The number of equivalence classes induced is six,
-(cid:2) U2
+false. The number of equivalence classes induced is six,
+U2
 for U3
 which would require five independent equations to determine their probabilities; the data
 P(y ƒ paY) provide only four such equations.
 
-(cid:2) true and U1
+true and U1
 
 U3).
 
 In contrast, the mechanism governed by the following function, although nonmonotonic, is invertible:
 
-Y (cid:2) XOR(X1, XOR(U2, p , XOR(Uk(cid:7)1, XOR(Xk, Uk)))),
-
-(cid:12)
+Y XOR(X1, XOR(U2, p , XOR(Uk1, XOR(Xk, Uk)))),
 
 where XOR( ) stands for exclusive OR. This equation induces only two functions from
 PAY to Y:
 
-Y (cid:2)
-
-XOR (X1, p , Xk)
+Y XOR (X1, p , Xk)
 ¬ XOR (X1, p , Xk)
 
 e
 
-if XOR (U1, p , Uk ) (cid:2) false,
-if XOR (U1, p , Uk) (cid:2) true.
+if XOR (U1, p , Uk ) false,
+if XOR (U1, p , Uk) true.
 
-A single conditional probability, say P(y ƒ x1,…, xk), would therefore suffice for computing the one parameter needed for identification: P[XOR(U1 , . . . , Uk) (cid:2) true].
+A single conditional probability, say P(y ƒ x1,…, xk), would therefore suffice for computing the one parameter needed for identification: P[XOR(U1 , . . . , Uk) true].
 
 We summarize these considerations with a theorem.
 
@@ -22239,14 +20281,12 @@ equations
 
 H V,
 
-the set of 2k (cid:6) 1
+the set of 2k 1
 
 Vi
 
-P(y (cid:2) pai) (cid:2)
-
-a
-s : f (s)(pai)(cid:2)true
+P(y pai) a
+s : f (s)(pai)true
 
 qi(s),
 
@@ -22254,7 +20294,7 @@ qi(s),
 
 9.5 Conclusions
 
-qi (s) (cid:2) 1
+qi (s) 1
 
 a
 s
@@ -22274,36 +20314,31 @@ of every counterfactual sentence is identifiable from the joint probability P(y)
 
 in which the functions
 
-M (cid:2) (cid:4)U, V,
+M U, V,
 
-(cid:5)
 5 fi6
 
 fi6
 
-Proof
 If (9.60) has a unique solution for qi(s), then we can replace U with S and obtain an
 equivalent model as follows:
 
-M(cid:3) (cid:2) (cid:4)S, V,
+MS, V,
 
-(cid:5), where f(cid:3)
-i
+, where fi
 
-(cid:2) fi
+fi
 
 (s)( pai).
 
-f(cid:3)
-i 6
+fi 6
 
-M(cid:3),
+M,
 together with qi(s), completely specifies a probabilistic causal model
 (owing to the Markov property), from which probabilities of counterfactuals
 
 The model
-(cid:4)M(cid:3), P(s)(cid:5)
-are derivable by definition.
+M, P(s)are derivable by definition.
 
 Theorem 9.4.2 provides a sufficient condition for identifying probabilities of causation,
 but of course it does not exhaust the spectrum of assumptions that are helpful in achieving
@@ -22326,8 +20361,6 @@ probability of causes (Theorem 9.2.14). It shows how data from both experimental
 nonexperimental studies can be combined to yield information that neither study alone
 can reveal (Theorem 9.2.15 and Section 9.3.4). Finally, it provides tests for the commonly
 
-Probability of Causation: Interpretation and Identification
-
 made assumption of "no prevention" and for the often asked question of whether a clinical study is representative of its target population (equation (9.32)).
 
 On the conceptual side, we have seen that both the probability of necessity (PN) and
@@ -22344,7 +20377,7 @@ are necessary for the fire, each will command a PN of unity. (In fact, the PN is
 must be the sufficiency component that endows the match with greater explanatory power
 than the oxygen. If the probabilities associated with striking a match and the presence of
 oxygen are denoted pm and po, respectively, then the PS measures associated with these
-explanations evaluate to PS(match) (cid:2) po and PS(oxygen) (cid:2) pm, clearly favoring the
+explanations evaluate to PS(match) po and PS(oxygen) pm, clearly favoring the
 match when
 Thus, a robot instructed to explain why a fire broke out has no
 choice but to consider both PN and PS in its deliberations.
@@ -22363,8 +20396,6 @@ component of causation? This question obviously lies beyond the scope of our inv
 legal system would be prepared to implement the recommendation. I am hopeful, however, that whoever undertakes to consider such questions will find the analysis in this
 chapter to be of some use. The next chapter combines aspects of necessity and sufficiency in explicating a more refined notion: "actual cause."
 
-Acknowledgments
-
 I am indebted to Sander Greenland for many suggestions and discussions concerning the
 treatment of attribution in the epidemiological literature and the potential applications of
 our results in practical epidemiological studies. Donald Michie and Jack Good are responsible for shifting my attention from PN to PS and PNS. Clark Glymour and Patricia
@@ -22375,15 +20406,11 @@ tight bounds.
 
 C H A P T E R T E N
 
-The Actual Cause
-
 And now remains
 That we find out the cause of this effect,
 Or rather say, the cause of this defect,
 For this effect defective comes by cause.
 Shakespeare (Hamlet II.ii. 100–4)
-
-Preface
 
 This chapter offers a formal explication of the notion of "actual cause," an event recognized as responsible for the production of a given outcome in a specific scenario, as
 in: "Socrates drinking hemlock was the actual cause of Socrates death." Human intuition is extremely keen in detecting and ascertaining this type of causation and hence is
@@ -22412,8 +20439,6 @@ CAUSATION
 Statements of the type "a car accident was the cause of Joe's death," made relative to a
 specific scenario, are classified as "singular," "single-event," or "token-level" causal
 
-The Actual Cause
-
 statements. Statements of the type "car accidents cause deaths," when made relative to a
 type of events or a class of individuals, are classified as "generic" or "type-level" causal
 claims (see Section 7.5.4). We will call the cause in a single-event statement an actual
@@ -22439,13 +20464,12 @@ fi6
 claims. These functions are type-level in the sense of representing generic, counterfactual relationships among variables that are applicable to every hypothetical scenario, not
 just ones that were realized. At the same time, any specific instantiation of those relationships represents a token-level claim. The ingredients that distinguish one scenario from
 another are represented in the background variables U. When all such factors are known,
-U (cid:2) u, we have a "world" on our hands (Definition 7.1.8) – an ideal, full description
+U u, we have a "world" on our hands (Definition 7.1.8) – an ideal, full description
 of a specific scenario in which all relevant details are spelled out and nothing is left to
 chance or guessing. Causal claims made at the world level would be extreme cases of
-token causal claims. In general, however, we do not possess the detailed knowledge necessary for specifying a single world U (cid:2) u, and we use a probability P(u) to summarize
+token causal claims. In general, however, we do not possess the detailed knowledge necessary for specifying a single world U u, and we use a probability P(u) to summarize
 our ignorance of those details. This takes us to the level of probabilistic causal models
-(cid:2)M, P(u)(cid:4)
-(Definition 7.1.6). Causal claims made on the basis of such models, with no
+M, P(u)(Definition 7.1.6). Causal claims made on the basis of such models, with no
 reference to the actual scenario, would be classified as type-level claims. Causal effects
 assertions, such as
 are examples of such claims, for they express the
@@ -22458,13 +20482,9 @@ dence" (e) and can be used to update P(u) into
 model
 represent token claims of varying shades, depending on the specificity of e.
 
-(cid:2)M, P(u (cid:3) e)(cid:4)
+M, P(u e)y) p,
 
-(cid:2) y) (cid:2) p,
-
-P(u (cid:3) e).
-
-P(Yx
+P(u e).
 
 1 Occasionally, causal effect assertions can even be made on the basis of an incomplete probabilistic
 model, where only G(M) and P(y) are given – this is the issue of identification (Chapter 3). But
@@ -22512,8 +20532,6 @@ dependence chain of intermediate variables between x to y; that is, the output o
 link in the chain is counterfactually dependent on its input. Such a chain does not exist
 for switch 2 because, given the current state of affairs (i.e., both switches being on), no
 
-The Actual Cause
-
 .2 Causal relationships in the desert traveler example.
 
 part of the circuit would be affected (electrically) by turning switch 2 on or off. This can
@@ -22531,10 +20549,10 @@ water," and let y denote " T is dead." In addition to these events we will also 
 presumed to determine the value of each child variable from those of its parent variables
 in the graph, in accordance with the usual understanding of the story:2
 
-c (cid:2) px(cid:3),
+c px,
 
-d (cid:2) x,
-y (cid:2) c
+d x,
+y c
 
 d.
 
@@ -22544,11 +20562,11 @@ d.
 
 When we substitute c and d into the expression for y, we obtain a simple disjunction
 
-y (cid:2) x
+y x
 
 ¡
 
-px(cid:3) (cid:5) x
+pxx
 
 p,
 
@@ -22560,7 +20578,7 @@ which is deceiving in its symmetry.
 
 ¡
 
-x(cid:3)p
+xp
 
 is logically equivalent to
 
@@ -22578,7 +20596,7 @@ us that, when x is true, p has no effect whatsoever – not only on y, but also 
 intermediate conditions that could potentially affect y. It is this asymmetry that makes
 us proclaim x and not p to be the cause of death.
 
-x(cid:3)p
+xp
 
 p,
 
@@ -22644,8 +20662,6 @@ though from a different perspective.
 The problems we encountered in the previous section are typical of many attempts by
 philosophers to give a satisfactory logical explication to the notion of single-event causation (here, "actual causation"). These attempts seem to have started with Mill's observation that no cause is truly sufficient or necessary for its effect (Mill 1843, p. 398). The
 
-The Actual Cause
-
 numerous accounts subsequently proposed – based on more elaborate combinations of
 sufficiency and necessity conditions – all suffer from insurmountable difficulties (Sosa
 and Tooley 1993, pp. 1–8). Mackie's treatment (1965) appears to be the earliest attempt
@@ -22663,7 +20679,7 @@ considered a cause of E if C is an INUS condition for E and if, under the circum
 C was sufficient for one of those Si. Thus, for example, if E can be written in disjunctive
 normal form as
 
-E (cid:2) AB
+E AB
 
 CD,
 
@@ -22708,16 +20724,16 @@ Another set of problems stems from syntax sensitivity. Suppose we apply Mackie's
 INUS condition to the firing squad story of .1. If we write the conditions for the
 prisoner's death as:
 
-D (cid:2) A
+D A
 
 B,
 
 ¡
 
 then A satisfies the INUS criterion, and we can plausibly conclude that A was a cause of
-D. However, substituting A (cid:2) C, which is explicit in our model, we obtain
+D. However, substituting A C, which is explicit in our model, we obtain
 
-D (cid:2) C
+D C
 
 B,
 
@@ -22733,15 +20749,15 @@ Finally, let us consider the desert traveler example, where the traveler's death
 
 expressed in (10.2) as
 
-y (cid:2) x
+y x
 
-x(cid:3)p.
+xp.
 
 ¡
 
 This expression is not in minimal disjunctive normal form because it can be rewritten as
 
-y (cid:2) x
+y x
 
 p,
 
@@ -22751,17 +20767,16 @@ from which one would obtain the counterintuitive result that x and p are equal p
 causing y. If, on the other hand, we permit nonminimal expressions like
 , then
 ¡
-y (cid:2) xp(cid:3)
-from which we would
+y xpfrom which we would
 we might as well permit the equivalent expression
-(p(cid:3))
+(p)
 would be a cause for our traveler's
 absurdly conclude that not poisoning the water
 misfortune, provided someone shoots the canteen (x).
 
-y (cid:2) x
+y x
 
-x(cid:3)p
+xp
 
 p,
 
@@ -22769,12 +20784,11 @@ p,
 
 We return now to structural analysis, in which such syntactic problems do not arise.
 Dispositional information is conveyed through structural or counterfactual expressions
-(cid:2) fi(pai, u)) in which u is generic, whereas circumstantial information is con-
+fi(pai, u)) in which u is generic, whereas circumstantial information is con-
 (e.g., yi
-veyed through prepositional expressions (e.g., X(u) (cid:2) x)) that refer to one specific world
-U (cid:2) u. Structural models do not permit arbitrary transformations and substitutions, even
-y (cid:2)
-when truth values are preserved. For example, substituting the expression for c in
+veyed through prepositional expressions (e.g., X(u) x)) that refer to one specific world
+U u. Structural models do not permit arbitrary transformations and substitutions, even
+y when truth values are preserved. For example, substituting the expression for c in
 would not be permitted if c (cyanide intake) is understood to be governed by a sepd
 arate mechanism, independent of that which governs y.
 
@@ -22784,17 +20798,15 @@ c
 
 Using structural analysis, we will now propose a formal setting that captures the intuitions of Mackie and Lewis. Our analysis will be based on an aspect of causation called
 
-The Actual Cause
-
 sustenance, which combines elements of sufficiency and necessity and also takes structural information into account.
 
 10.2 PRODUCTION, DEPENDENCE, AND SUSTENANCE
 
 The probabilistic concept of causal sufficiency, PS (Definition 9.2.2), suggests a way of
 rescuing the counterfactual account of causation. Consider again the symmetric overdetermination in the firing-squad example. The shot of each rifleman features a PS value
-of unity (see (9.43)), because each shot would cause the prisoner's death in a state u(cid:3) in
+of unity (see (9.43)), because each shot would cause the prisoner's death in a state uin
 which the prisoner is alive. This high PS value supports our intuition that each shot is an
-actual cause of death, despite a low PN value (PN (cid:2) 0). Thus, it seems plausible to argue
+actual cause of death, despite a low PN value (PN 0). Thus, it seems plausible to argue
 that our intuition gives some consideration to sufficiency, and that we could formulate an
 adequate criterion for actual causation using the right mixture of PN and PS components.
 Similar expectations are expressed in Hall (2004). In analyzing problems faced by
@@ -22814,38 +20826,33 @@ seen from the following considerations.
 The dependence aspect of causation appeals to the necessity of a cause x in maintaining the effect y in the face of certain contingencies, which otherwise will negate y
 (Definition 9.2.1):
 
-X(u) (cid:2) x, Y(u) (cid:2) y, Yx(cid:3)(u) (cid:2) y(cid:3).
+X(u) x, Y(u) y, Yx(u) y.
 
 (10.3)
 
 The production aspect, on the other hand, appeals to the capacity of a cause (x) to bring
-about the effect (y) in a situation (u(cid:3)) where both are absent (Definition 9.2.2):
+about the effect (y) in a situation (u) where both are absent (Definition 9.2.2):
 
-X(u(cid:3)) (cid:2) x(cid:3), Y(u(cid:3)) (cid:2) y(cid:3), Yx(u(cid:3)) (cid:2) y.
+X(u) x, Y(u) y, Yx(u) y.
 Comparing these two definitions, we note a peculiar feature of production: To test
 production, we must step outside our world momentarily, imagine a new world with
 x and y absent, apply x, and see if y sets in. Therefore, the sentence "x produced y"
 can be true only in worlds where x and y are false, and thus it appears (a) that nothing
 could possibly explain (by consideration of production) any events that did materialize
 in the actual world and (b) that evidence gathered about the actual world u could not be
-u(cid:3)
-brought to bear on the hypothetical world
+ubrought to bear on the hypothetical world
 
 in which production is defined.
 
 (10.4)
 
-u(cid:3)
-
-u(cid:3)
-
-To overcome this hurdle, we resort to an aspect of causation called sustenance, which
+uuTo overcome this hurdle, we resort to an aspect of causation called sustenance, which
 enriches the notion of dependence with features of production while remaining in a world
 
 10.2 Production, Dependence, and Sustenance
 
 u in which both x and y are true. Sustenance differs from dependence in the type of contingencies against which x is expected to protect y. Whereas the contingencies considered
-in (10.3) are "circumstantial" – that is, evolving from a set of circumstances U (cid:2) u that
+in (10.3) are "circumstantial" – that is, evolving from a set of circumstances U u that
 are specific to the scenario at hand – we now insist that x will maintain y against contingencies that evolve from structural modification of the model itself (Pearl 1998b).
 
 Definition 10.2.1 (Sustenance)
@@ -22854,45 +20861,40 @@ We say that x causally sustains y in u relative to contingencies in W if and onl
 
 be specific realizations of these variables.
 
-w(cid:3)
-
-X(u) (cid:2) x ;
+wX(u) x ;
 (i)
-(ii) Y(u) (cid:2) y;
-(iii) Yxw(u) (cid:2) y for all w; and
+(ii) Y(u) y;
+(iii) Yxw(u) y for all w; and
 (iv)
 
-Yx(cid:3)w(cid:3) (u) (cid:2) y(cid:3) (cid:4) y for some x(cid:3) (cid:4) x and some w(cid:3).
+Yxw(u) yy for some xx and some w.
 
 (10.5)
 
-The sustenance feature of (10.5) is expressed in condition (iii), Yxw(u) (cid:2) y, which requires that x alone be sufficient for maintaining y. It reads: If we set X to its actual value
+The sustenance feature of (10.5) is expressed in condition (iii), Yxw(u) y, which requires that x alone be sufficient for maintaining y. It reads: If we set X to its actual value
 (x) in u then, even if W is set to any value (w) that is different from the actual, Y will
-attributes to X (cid:2) x
+attributes to X x
 still retain its actual value (y) in u. Condition (iv),
-the "responsibility" for sustaining Y (cid:2) y under such adverse conditions; if we set X to
+the "responsibility" for sustaining Y y under such adverse conditions; if we set X to
 some other value
 , then Y will relinquish its current value (y) under at least one set-
-W (cid:2) w(cid:3)
-ting
+W wting
 in
 which x is both necessary and sufficient for y.
 
 . Put together, (iii) and (iv) imply that there exists a setting
 
-Yx(cid:3)w(cid:3) (u) (cid:2) y(cid:3),
+Yxw(u) y,
 
-W (cid:2) w(cid:3)
-
-(x(cid:3))
+W w(x)
 
 Is sustenance a reasonable requirement to impose on an "actual cause"? Consider
 again the two bullets that caused the prisoner's death in .1. We consider A to be
 an actual cause of D in this scenario, because A would have sustained D "alone," even
 in the absence of B. But how do we express, formally, the absence of B in our scenario
-U (cid:2) u, given that B did in fact occur? If we wish to (hypothetically) suppress B within
+U u, given that B did in fact occur? If we wish to (hypothetically) suppress B within
 the context created by u, then we must use a structural contingency and imagine that B
-is made false by some external intervention (or "miracle") that violates the rule B (cid:2) C;
+is made false by some external intervention (or "miracle") that violates the rule B C;
 for example, that rifleman B was prevented from shooting by some mechanical failure.
 We know perfectly well that such failure did not occur, yet we are committed to contemplating such failures by the very act of representing our story in the form of a multistage
 causal model, as in .1.
@@ -22910,15 +20912,9 @@ risk of removing genuine preemptions and turning noncauses into causes. For exam
 in the desert traveler story (.2), we turn
 by choosing
 
-w(cid:3) (cid:2) 0
+w0
 
-W (cid:2)
-
-and
-
-X
-
-The Actual Cause
+W and
 
 enemy 1 into the actual cause of death, contrary to intuition and contrary to the actual
 scenario (which excludes cyanide intake). The notion of "causal beam" (Pearl 1998b) is
@@ -22933,21 +20929,20 @@ fi6
 We start by considering a causal model M, as defined in Section 7.1, and selecting a subset S of sustaining parent variables for each family and each u. Recall that the arguments
 in a causal model were assumed to be minimal in some sense, since
 of the functions
-we have pruned from each fi all redundant arguments and retained only those called pai
+we have pruned from each fiall redundant arguments and retained only those called pai
 that render fi(pai, u) nontrivial (Definition 7.1.1). However, in that definition we were
 concerned with nontriviality relative to all possible u; further pruning is feasible when
-we are situated at a particular state U (cid:2) u.
+we are situated at a particular state U u.
 To illustrate, consider the function
 
-(cid:2) ax1
+ax1
 because
-there is always some value of u that would make fi sensitive to changes in either x1 or
-x2. However, given that we are in a state for which u (cid:2) 0, we can safely consider X2 to
-(cid:2) ax1,
-be a trivial argument, replace fi with
+there is always some value of u that would make fisensitive to changes in either x1 or
+x2. However, given that we are in a state for which u 0, we can safely consider X2 to
+ax1,
+be a trivial argument, replace fiwith
 and consider X1 as the only essential
-(cid:3)
-the projection of fi on u (cid:2) 0; more generally, we will
+the projection of fion u 0; more generally, we will
 argument of We shall call
 fi
 .
@@ -22958,7 +20953,7 @@ to a new model, which we call causal beam.
 
 X1, X26
 
-(cid:5) bux2.
+bux2.
 
 Here
 
@@ -22972,34 +20967,28 @@ i
 f 0
 i
 
-(cid:2)
-
 fi
 
 ,
 
 Definition 10.3.1 (Causal Beam)
-M (cid:2) (cid:2)U, V,
-(cid:4)
+M U, V,
 For model
 5 fi6
 5 f u
-(cid:4)
-(cid:2)u, V,
+u, V,
 in which the set of functions fi
 i 6
 
-and state U (cid:2) u, a causal beam is a new model
+and state U u, a causal beam is a new model
 
-Mu (cid:2)
-
-u is constructed from
+Mu u is constructed from
 
 as follows.
 
 fi6
 
-(cid:2) V,
+V,
 
 Vi
 
@@ -23007,18 +20996,17 @@ Vi
 
 partition PAi into two subsets,
 (connoting "sustaining") is any subset of PAi satisfying6
-fi (S(u), s, u) (cid:2) fi (S(u), s(cid:3), u) for all s(cid:3).
+fi (S(u), s, u) fi (S(u), s, u) for all s.
 
 PAi
 
-(cid:2) S (cid:3) S,
+S S,
 
 where S
 
 (10.6)
 
 In words, S is any set of PAi sufficient to entail the actual value of Vi(u), regardless of how we set the other members of PAi.
-(cid:2) V
 
 , find a subset W of
 
@@ -23032,23 +21020,23 @@ for which there exists some renontrivial in s; that
 
 fi (s, Sw (u), u)
 
-alization W (cid:2) w that renders the function
+alization W w that renders the function
 is,
 
-fi (s(cid:3), Sw (u), u) (cid:4) Vi (u) for some s(cid:3).
+fi (s, Sw (u), u) Vi (u) for some s.
 
-5 Halpern and Pearl (1999) permit the choice of any set W such that its complement, Z (cid:2) V (cid:6) W, is
+5 Halpern and Pearl (1999) permit the choice of any set W such that its complement, Z V W, is
 
 sustained by x; that is,
 
-Zxw (u) (cid:2) Z(u)
+Zxw (u) Z(u)
 
 for all w.
 
 6 Pearl (1998b) required that S be minimal, but this restriction is unnecessary for our purposes (though
 all our examples will invoke minimally sufficient sets). As usual, we use lowercase letters (e.g.,
 s,
-and use Sx(u) to denote the realization of S under U (cid:2) u and do(X (cid:2) x). Of course, each parent set PAi would have
+and use Sx(u) to denote the realization of S under U u and do(X x). Of course, each parent set PAi would have
 a distinct partition
 
 to denote specific realizations of the corresponding variables (e.g., S,
@@ -23061,7 +21049,7 @@ s)
 
 PAi
 
-(cid:2) Si (cid:3) Si,
+Si Si,
 
 10.3 Causal Beams and Sustenance-Based Causation
 
@@ -23069,7 +21057,7 @@ S
 
 Here,
 should not intersect the sustaining set of any other variable
-(Likewise, setting W (cid:2) w should not contradict any such setting elsewhere.)
+(Likewise, setting W w should not contradict any such setting elsewhere.)
 f u
 i (s),
 
@@ -23079,7 +21067,7 @@ by its projection
 
 fi(s, s, u)
 
-Vj, j (cid:4) i.
+Vj, j i.
 
 (10.7)
 and every f u function is responsive to
@@ -23087,22 +21075,22 @@ and every f u function is responsive to
 PAu
 i
 
-(cid:2) S,
+S,
 
 3. Replace
 f u
-i (s) (cid:2) fi (s, Sw (u), u).
+i (s) fi (s, Sw (u), u).
 
 Thus the new parent set of Vi becomes
 its new parent set S.
 
 Definition 10.3.2 (Natural Beam)
 A causal beam Mu is said to be natural if condition 2 of Definition 10.3.1 is satisfied with
-W (cid:2) 0
+W 0
 
 for all
 
-(cid:2) V.
+V.
 
 Vi
 
@@ -23112,25 +21100,25 @@ at their actual values,
 thus yielding the projection
 
 f u
-i (s) (cid:2) fi (s, S(u), u).
+i (s) fi (s, S(u), u).
 
 S(u),
 
 Definition 10.3.3 (Actual Cause)
-We say that event X (cid:2) x was an actual cause of Y (cid:2) y in a state u (abbreviated "x
+We say that event X x was an actual cause of Y y in a state u (abbreviated "x
 caused y") if and only if there exists a natural beam Mu such that
 
 Yx
 
-(cid:2) y in Mu
+y in Mu
 
 and
 
-Yx(cid:3) (cid:4) y in Mu for some x(cid:3) (cid:4) x.
+Yxy in Mu for some xx.
 
 Note that (10.8) is equivalent to
 
-Yx (u) (cid:2) y,
+Yx (u) y,
 
 (10.8)
 
@@ -23138,14 +21126,13 @@ Yx (u) (cid:2) y,
 
 (10.10)
 
-which is implied by X(u) (cid:2) x and Y(u) (cid:2) y. But (10.9) ensures that, after "freezing the
-x(cid:3)
-trivial surroundings" represented by
+which is implied by X(u) x and Y(u) y. But (10.9) ensures that, after "freezing the
+xtrivial surroundings" represented by
 of X.
 
 would not be sustained by some value
 
-S, Y (cid:2) y
+S, Y y
 
 Definition 10.3.4 (Contributory Cause)
 We say that x is a contributory cause of y in a state u if and only if there exists a causal
@@ -23154,11 +21141,11 @@ beam, but no natural beam, that satisfies (10.8) and (10.9).
 (S)
 
 In summary, the causal beam can be interpreted as a theory that provides a sufficient and
-nontrivial explanation for each actual event Vi(u) (cid:2) yi under a hypothetical freezing of
+nontrivial explanation for each actual event Vi(u) yi under a hypothetical freezing of
 by the do(.) operator. Using this new theory, we subject the event
 some variables
-X (cid:2) x to a counterfactual test and check whether Y would change if X were not x. If
-S (i.e., W (cid:2) 0)
+X x to a counterfactual test and check whether Y would change if X were not x. If
+S (i.e., W 0)
 a change occurs in Y when freezing takes place at the actual values of
 ,
 we say that "x was an actual cause of y." If changes occur only under a freeze state that
@@ -23166,29 +21153,24 @@ is removed from the actual state
 we say that "x was a contributory cause
 of y."
 
-(i.e., W (cid:4) 0),
+(i.e., W 0),
 
 Remark: Although W was chosen to make Vi responsive to S, this does not guarantee that S(u) is necessary and sufficient for Vi(u) because local responsiveness
 
-The Actual Cause
-
-s– (cid:4) S(u)
+s– S(u)
 
 f u
-i (s–) (cid:2)
-does not preclude the existence of another state
+i (s–) does not preclude the existence of another state
 Vi(u)
 . Thus, (10.8) does not guarantee that x is both necessary and sufficient for
 y. That is the reason for the final counterfactual test in (10.9). It would be too restrictive to require that w render f u nontrivial for every s of S; such a W may
-not exist. If (10.8)–(10.9) are satisfied, then W (cid:2) w represents some hypothetical
+not exist. If (10.8)–(10.9) are satisfied, then W w represents some hypothetical
 modification of the world model under which x is both sufficient and necessary
 for y.
 
 for which
 
-Y (cid:2)
-
-instead of
+Y instead of
 
 Remarks on Multivariate Events: Although Definitions 10.3.3 and 10.3.4 apply
 to univariate as well as multivariate causes and effects, some refinements are in
@@ -23203,13 +21185,11 @@ reasonable to demand that X be minimal – in other words, to demand that no sub
 from irrelevant, overspecified details. For example, if drinking poison qualifies
 as the actual cause of Joe's death then, awkwardly, drinking poison and sneezing
 would also pass the test of (10.8)–(10.9) and qualify as the cause of Joe's death.
-Minimality removes "sneezing" from the causal event X (cid:2) x.
+Minimality removes "sneezing" from the causal event X x.
 
-Yx(cid:3) (cid:4) y.
+Yxy.
 
-Yx(cid:3)
-
-Incorporating Probabilities and Evidence
+YxIncorporating Probabilities and Evidence
 
 Suppose that the state u is uncertain and that the uncertainty is characterized by the probability P(u). If e is the evidence available in the case, then the probability that x caused
 y can be obtained by summing up the weight of evidence P(u ƒ e) over all states u in
@@ -23221,11 +21201,9 @@ Let Uxy be the set of states in which the assertion "x is an actual cause of y" 
 probability that x caused y in light of evidence e, denoted P(caused(x, y ƒ e)), is given
 by the expression
 
-P(caused (x, y (cid:3) e)) (cid:2)
+P(caused (x, y e)) P(Ux y
 
-P(Ux y
-
-(cid:4) Ue)
+Ue)
 
 P(Ue)
 
@@ -23246,36 +21224,33 @@ Pearl (1999).
 
 10.3 Causal Beams and Sustenance-Based Causation
 
-E (cid:2) A1 ¡
+E A1 ¡
 actions through a simple disjunction:
 There exists no natural beam to
 qualify either A1 or A2 as an actual cause of E. If we fix either A1 or A2 at its current
 value (namely, true), then E will become a trivial function of the other action. However,
 if we deviate from the current state of affairs and set A2 to false (i.e., forming a beam
 and setting W to false), then E would then become responsive to A1 and
-with
 so pass the counterfactual test of (10.9).
 
-W (cid:2)
-
-A26
+W A26
 
 A2.
 
 This example illustrates the sense in which the beam criterion encapsulates Lewis's
 notion of quasi-dependence. Event E can be considered quasi-dependent on A1 if we
-(cid:2) false)
+false)
 agree to test such dependence in a hypothetical submodel created by the do(A2
 operator. In Section 10.2 we argued that such a hypothetical test – though it conflicts with
 the current scenario u – is implicitly written into the charter of every causal model. A
 causal beam may thus be considered a formal explication of Lewis's notion of a quasidependent process, and the combined sets W represent the "peculiar surroundings" of
-the process that (when properly modified) renders X (cid:2) x necessary for Y (cid:2) y.
+the process that (when properly modified) renders X x necessary for Y y.
 
 Disjunctive Normal Form
 
 Consider a single mechanism characterized by the Boolean function
 
-y (cid:2) f (x, z, r, h, t, u) (cid:2) xz
+y f (x, z, r, h, t, u) xz
 
 rh
 
@@ -23289,49 +21264,36 @@ where (for simplicity) the variables X, Z, R, H, T are assumed to be causally in
 next illustrate conditions under which x would qualify as a contributory or an actual cause
 for y.
 
-First, consider a state U (cid:2) u where all variables are true:
+First, consider a state U u where all variables are true:
 
-X(u) (cid:2) Z (u) (cid:2) R(u) (cid:2) H(u) (cid:2) T (u) (cid:2) Y (u) (cid:2) true.
+X(u) Z (u) R(u) H(u) T (u) Y (u) true.
 
-S (cid:2)
-
-X, Z,
+S X, Z,
 
 we find that the projection
 
 In this state, every disjunct represents a minimal set of sustaining variables. In particular,
-f u (x, z) (cid:2) f (x, z, R(u), H(u), T(u))
+f u (x, z) f (x, z, R(u), H(u), T(u))
 taking
 becomes trivially true. Thus, there is no natural beam Mu, and x could not be the actual
-h(cid:3), t(cid:3)
-,
+h, t,
 cause of y. Feasible causal beams can be obtained by using
 where primes denote complementation. Each of these two choices yields the projection
-f u(x, z) (cid:2) xz. Clearly, Mu meets the conditions of (10.8) and (10.9), thus certifying x
+f u(x, z) xz. Clearly, Mu meets the conditions of (10.8) and (10.9), thus certifying x
 as a contributory cause of y.
 
-r(cid:3), t(cid:3)
-
-w (cid:2)
-
-w (cid:2)
-
-or
+r, tw w or
 
 Using the same argument, it is easy to see that, at a state
 
-u(cid:3)
+ufor which
 
-for which
-
-X(u(cid:3)) (cid:2) Z(u(cid:3)) (cid:2) true
+X(u) Z(u) true
 
 and
 
-R(u(cid:3)) (cid:2) T(u(cid:3)) (cid:2) false,
-f u(cid:3)
-
-a natural beam exists; that is, a nontrivial projection
+R(u) T(u) false,
+f ua natural beam exists; that is, a nontrivial projection
 the redundant
 an actual cause of y.
 
@@ -23339,19 +21301,14 @@ variables R, H, and T to their actual values in
 
 (S)
 
-(x, z) (cid:2) xz
-u(cid:3)
-
-is realized by setting
+(x, z) xz
+uis realized by setting
 . Hence, x qualifies as
 
 This example illustrates how Mackie's intuition for the INUS condition can be explicated in the structural framework. It also illustrates the precise roles played by structural
-(X(u) (cid:2)
-(or "dispositional") knowledge (e.g., fi (pai, u)) and circumstantial knowledge
+(X(u) (or "dispositional") knowledge (e.g., fi (pai, u)) and circumstantial knowledge
 which were not clearly distinguished by the strictly logical account.
 true),
-
-The Actual Cause
 
 The next example illustrates how the INUS condition generalizes to arbitrary Boolean
 
@@ -23361,69 +21318,61 @@ Single Mechanism in General Boolean Form
 
 Consider the function
 
-y (cid:2) f (x, z, h, u) (cid:2) xz(cid:3)
-
-x(cid:3)z
+y f (x, z, h, u) xzxz
 
 ¡
 
 ¡
 
-xh(cid:3),
+xh,
 
 which has the equivalent form
 
-y (cid:2) f (x, z, h, u) (cid:2) xz(cid:3)
-
-x(cid:3)z
+y f (x, z, h, u) xzxz
 
 ¡
 
 ¡
 
-zh(cid:3).
+zh.
 
 (10.12)
 
 (10.13)
 
 Assume, as before, that (a) we consider a state u in which X, Z, and H are true and
-(b) we inquire as to whether the event x : X (cid:2) true caused the event y : Y (cid:2) false. In
+(b) we inquire as to whether the event x : X true caused the event y : Y false. In
 because no choice of two variables
 this state, the only sustaining set is
-(valued at this u) would entail Y (cid:2) false regardless of the third. Since
+(valued at this u) would entail Y false regardless of the third. Since
 is empty, the
-y (cid:2) f
-xh(cid:3).
+y f
+xh.
 choice of beam is unique: Mu
 This
 we therefore
 Mu passes the counterfactual test of (10.9), because
-conclude that x was an actual cause of y. Similarly, we can see that the event H (cid:2) true
-was an actual cause of Y (cid:2) false. This follows directly from the counterfactual test
+conclude that x was an actual cause of y. Similarly, we can see that the event H true
+was an actual cause of Y false. This follows directly from the counterfactual test
 
 S
-x(cid:3)z
-f u(x(cid:3), z, h) (cid:2) true;
+xz
+f u(x, z, h) true;
 
-(cid:2) M, for which
+M, for which
 
-u(x, z, h) (cid:2) xz(cid:3)
-
-,
+u(x, z, h) xz,
 X, Z, R
 
-S (cid:2)
+S ¡
 
 ¡
 
-¡
-
-Yh(u) (cid:2) false
+Yh(u) false
 
 and
 
-Yh(cid:3) (u) (cid:2) true.
+Yh(u) true.
 
 Because Definitions 10.3.3 and 10.3.4 rest on semantical considerations, identical
 conclusions would be obtained from any logically equivalent form of f (not necessarily
@@ -23440,7 +21389,7 @@ the actual cause of another," given a set of observations.
 Consider a modification of the desert traveler example in which we do not know
 whether the traveler managed to drink any of the poisoned water before the canteen was
 emptied. To model this uncertainty, we add a bivalued variable U that indicates whether
-poison was drunk (u (cid:2) 0) or not (u (cid:2) 1). Since U affects both D and C, we obtain the
+poison was drunk (u 0) or not (u 1). Since U affects both D and C, we obtain the
 structure shown in .3. To complete the specification of the model, we need to
 assign functions fi (pai, u) to the families in the diagram and a probability distribution
 P(u). To formally complete the model, we introduce the dummy background variables
@@ -23452,15 +21401,13 @@ UX and UP, which represent the factors behind the enemies' actions.
 
 The usual understanding of the story yields the following functional relationships:
 
-x(cid:3)),
+x),
 
-p(cid:3)),
+p),
 
-c (cid:2) p(u(cid:3)
+c p(ud x(u
 
-d (cid:2) x(u
-
-y (cid:2) c
+y c
 
 ¡
 
@@ -23471,111 +21418,104 @@ d,
 
 together with the evidential information
 
-X(uX) (cid:2) 1,
+X(uX) 1,
 
-P(u P) (cid:2) 1.
+P(u P) 1.
 
 (We assume that T will not survive with an empty canteen (x) even after drinking unpoisoned water before the shot
 
-(p(cid:3)u(cid:3)).)
+(pu).)
 
 In order to construct the causal beam Mu, we examine each of the three functions and
-form their respective projections on u. For example, for u (cid:2) 1 we obtain the functions
+form their respective projections on u. For example, for u 1 we obtain the functions
 shown in (10.1), for which the (minimal) sustaining parent sets are: X (for C), X (for
 D), and D (for Y). The projected functions become
 
-c (cid:2) x(cid:3),
+c x,
 
-d (cid:2) x,
-y (cid:2) d,
+d x,
+y d,
 
 (10.14)
 
-and the beam model Mu(cid:2)1 is natural; its structure is depicted in .4. To test
+and the beam model Mu1 is natural; its structure is depicted in .4. To test
 whether x (or p) was the cause of y, we apply (10.8)–(10.9) and obtain
 
 Yx
 
 Yp
 
-(cid:2) 1 and Yx(cid:3) (cid:2) 0 in Mu(cid:2)1,
-(cid:2) 1 and Yp(cid:3) (cid:2) 1 in Mu(cid:2)1.
+1 and Yx0 in Mu1,
+1 and Yp1 in Mu1.
 
 (10.15)
 
 Thus, enemy 2 shooting at the container (x) is classified as the actual cause of T's death
 (y), whereas enemy 1 poisoning the water (p) was not the actual cause of y.
 
-Next, consider the state u (cid:2) 0, which denotes the event that our traveler reached for
-a drink before enemy 2 shot at the canteen. The graph corresponding to Mu(cid:2)0 is shown
+Next, consider the state u 0, which denotes the event that our traveler reached for
+a drink before enemy 2 shot at the canteen. The graph corresponding to Mu0 is shown
 in .5 and gives
 
-The Actual Cause
+.4 Natural causal beam representing the state u 1.
 
-.4 Natural causal beam representing the state u (cid:2) 1.
-
-.5 Natural causal beam representing the state u (cid:2) 0.
+.5 Natural causal beam representing the state u 0.
 
 Yx
 
 Yp
 
-(cid:2) 1 and Yx(cid:3) (cid:2) 1 in Mu(cid:2)0,
-(cid:2) 1 and Yp(cid:3) (cid:2) 0 in Mu(cid:2)0.
+1 and Yx1 in Mu0,
+1 and Yp0 in Mu0.
 
 (10.16)
 
 Thus, in this state of affairs we classify enemy 1's action to be the actual cause of T's
 death, while enemy 2's action is not considered the cause of death.
 
-If we do not know which state prevailed, u (cid:2) 1 or u (cid:2) 0, then we must settle for the
+If we do not know which state prevailed, u 1 or u 0, then we must settle for the
 probability that x caused y. Likewise, if we observe some evidence e reflecting on the
 probability P(u), such evidence would yield (see (10.11))
 
-P(caused(x, y (cid:3) e)) (cid:2) P(u (cid:2) 1 (cid:3) e)
+P(caused(x, y e)) P(u 1 e)
 
 and
 
-P(caused(p, y (cid:3) e)) (cid:2) P(u (cid:2) 0 (cid:3) e).
+P(caused(p, y e)) P(u 0 e).
 
 For example, a forensic report confirming "no cyanide in the body" would rule out state
-u (cid:2) 0 in favor of u (cid:2) 1, and the probability of x being the cause of y becomes 100%.
+u 0 in favor of u 1, and the probability of x being the cause of y becomes 100%.
 More elaborate probabilistic models are analyzed in Pearl (1999).
 
 10.3.4 Path-Switching Causation
 
-Example 10.3.6 Let x be the state of a two-position switch. In position 1 (x (cid:2) 1),
-the switch turns on a lamp (z (cid:2) 1) and turns off a flashlight (w (cid:2) 0). In position 0
-(x (cid:2) 0), the switch turns on the flashlight (w (cid:2) 1) and turns off the lamp (z (cid:2) 0).
-Let Y (cid:2) 1 be the proposition that the room is lighted.
+Example 10.3.6 Let x be the state of a two-position switch. In position 1 (x 1),
+the switch turns on a lamp (z 1) and turns off a flashlight (w 0). In position 0
+(x 0), the switch turns on the flashlight (w 1) and turns off the lamp (z 0).
+Let Y 1 be the proposition that the room is lighted.
 
 The causal beams Mu and
 associated with the states in which the switch is in position 1 and 2 (respectively) are shown in the graphs of .6. Once again, Mu entails
 
-Mu(cid:3)
-
-10.3 Causal Beams and Sustenance-Based Causation
+Mu10.3 Causal Beams and Sustenance-Based Causation
 
 .6 Natural beams that represent
 path switching in Example 10.3.6.
 
-Yx(cid:3)
-
-(cid:2) 1 and (cid:2) 0. Likewise Mu(cid:3) entails Yx
+Yx1 and 0. Likewise Muentails Yx
 
 Thus "switch in posi-
 Yx
 tion 1" and "switch in position 2" are both considered actual causes for "room is lighted,"
 although neither is a necessary cause.
 
-(cid:2) 1 and
+1 and
 
-Yx(cid:3) (cid:2) 0.
+Yx0.
 
 This example further highlights the subtlety of the notion of "actual cause"; changing X from 1 to 0 merely changes the course of the causal pathway while keeping its
-source and destination the same. Should the current switch position (X (cid:2) 1) be considered the actual cause of (or an "explanation of") the light in the room? Although X (cid:2)
-1 enables the passage of electric current through the lamp and is in fact the only mechanism currently sustaining light, one may argue that it does not deserve the title "cause"
-in ordinary conversation. It would be odd to say, for instance, that X (cid:2) 1 was the cause
+source and destination the same. Should the current switch position (X 1) be considered the actual cause of (or an "explanation of") the light in the room? Although X 1 enables the passage of electric current through the lamp and is in fact the only mechanism currently sustaining light, one may argue that it does not deserve the title "cause"
+in ordinary conversation. It would be odd to say, for instance, that X 1 was the cause
 of spoiling an attempted burglary. However, recalling that causal explanations earn their
 value in the abnormal circumstances created by structural contingencies, the possibility
 of a malfunctioning flashlight should enter our mind whenever we designate it as a separate mechanism in the model. Keeping this contingency in mind, it should not be too
@@ -23587,7 +21527,7 @@ Consider the example mentioned in the preface of this chapter, in which two fire
 fire A "the actual cause" of the damage, even though fire B would have done the same
 were it not for A. If we simply write the structural model as
 
-H (cid:2) A
+H A
 
 B,
 
@@ -23608,17 +21548,13 @@ in .3), in which variables are time-indexed. Indeed, it is impossible to capture
 temporal relationships such as "arriving first" by using the static causal models defined
 in Section 7.1; instead, dynamic models must be invoked.
 
-The Actual Cause
-
 .7 (a) Causal diagram associated with the dynamic model of (10.17). (b) Causal beam associated with starting fire A and fire B at different times, showing no connection between fire B and
-the state of the house at x (cid:2) x*.
+the state of the house at x x*.
 
 Let the state of the fire V(x, t) at location x and time t take on three values: g (for
 green), f (for on fire), and b (for burned). The dynamic structural equations characterizing the propagation of fire can then be written (in simplified form) as:
 
-V(x, t) (cid:2)
-
-f
+V(x, t) f
 
 f
 
@@ -23626,11 +21562,11 @@ b
 
 g
 
-if V(x, t (cid:6) 1) (cid:2) g and V(x (cid:6) 1, t (cid:6) 1) (cid:2) f,
+if V(x, t 1) g and V(x 1, t 1) f,
 
-if V(x, t (cid:6) 1) (cid:2) g and V(x (cid:5) 1, t (cid:6) 1) (cid:2) f,
+if V(x, t 1) g and V(x 1, t 1) f,
 
-if V(x, t (cid:6) 1) (cid:2) b and V(x, t (cid:6) 1) (cid:2) f,
+if V(x, t 1) b and V(x, t 1) f,
 
 otherwise.
 
@@ -23638,13 +21574,13 @@ otherwise.
 
 e
 
-V(x, t (cid:6) 1)
+V(x, t 1)
 
-V(x (cid:5) 1, t (cid:6) 1)
+V(x 1, t 1)
 
-V(x (cid:6) 1, t (cid:6) 1)
+V(x 1, t 1)
 
-(V(x* (cid:6) 2, t* (cid:6) 1) (cid:2) f ))
+(V(x* 2, t* 1) f ))
 
 The causal diagram associated with this model is illustrated in .7(a), desof
 ignating three parents for each variable V(x, t): the previous state
@@ -23661,13 +21597,13 @@ family. The state of the parent set S that this beam assigns to each variable co
 event that is both necessary and sufficient for the actual state of that variable (assuming
 variables in are frozen at their actual values).
 
-(V(x* (cid:5) 2, t* (cid:6) 2) (cid:2) f )
+(V(x* 2, t* 2) f )
 
 S
 
-V(x*, t), t (cid:7) t*
+V(x*, t), t t*
 
-V(x* (cid:6) 2, t* (cid:6) 2) (cid:2) f
+V(x* 2, t* 2) f
 
 Applying the test of (10.9) to this beam, we find that a counterfactual dependence
 (representing the start of fire A) and
@@ -23682,26 +21618,24 @@ spatiotemporal representation of the story. However, this intuition cannot serve
 10.4 Conclusions
 
 defining principle for actual causation, as suggested by Paul (1998). In our story, for example, each fire alone did not hasten (or delay, or change any property of) the following
-event: E (cid:2) the owner of the house did not enjoy breakfast the next day. Yet we still
+event: E the owner of the house did not enjoy breakfast the next day. Yet we still
 consider fire A, not B, to be the actual cause of E, as predicted by the beam criterion.
 
-V(x* (cid:5) 1, t* (cid:6) 1) and V(x*, t* (cid:6) 1)
+V(x* 1, t* 1) and V(x*, t* 1)
 
 The conceptual basis of this criterion can be illuminated by examining the construction of the minimal beam shown in .7(b). The pivotal step in this construction
 lies in the space–time region (x*, t*), which represents the house at the arrival of fire.
 The variable representing the state of the house at that time, V(x*, t*), has a two-parent
-sustaining set, S (cid:2)
-, with values f and g, respectively. Using (10.17), we see that the south parent V(x* (cid:6) 1, t* (cid:6) 1) is redundant, because
+sustaining set, S , with values f and g, respectively. Using (10.17), we see that the south parent V(x* 1, t* 1) is redundant, because
 the value of V(x*, t*) is determined (at f ) by the current values of the other two parents.
 Hence, this parent can be excluded from the beam, rendering V(x*, t*) dependent on
 fire A. Moreover, since the value of the south parent is g, that parent cannot be part of
 any minimally sustaining set, thus ensuring that V(x*, t*) is independent of fire B. (We
 could, of course, add this parent to S, but V(x*, t*) would remain independent of fire B.)
-The next variable to examine is V(x*, t* + 1), with parents V(x* (cid:6) 1, t*), V(x*, t*), and
-V(x* (cid:6) 1, t*) valued at b, f, and f, respectively. From (10.17), the value f of the middle
+The next variable to examine is V(x*, t* + 1), with parents V(x* 1, t*), V(x*, t*), and
+V(x* 1, t*) valued at b, f, and f, respectively. From (10.17), the value f of the middle
 parent is sufficient to ensure the value b for the child variable; hence this parent qualifies
-as a singleton sustaining set, S (cid:2)
-, which permits us to exclude the other two
+as a singleton sustaining set, S , which permits us to exclude the other two
 V(x*, t*)
 parents from the beam and so render the child dependent on fire A (through S) but not
 on fire B. The north and south parents are not, in themselves, sufficient for sustaining
@@ -23710,11 +21644,11 @@ to catch fire but not to become immediately "burned"); hence we must keep the mi
 independent of
 fire B.
 
-V(x*, t), t (cid:7) t*,
+V(x*, t), t t*,
 
 We see that sustenance considerations lead to the intuitive results through two crucial
 steps: (1) permitting the exclusion (from the beam) of the south parent of every variable
-V(x*, t), t (cid:7) t*,
+V(x*, t), t t*,
 thus maintaining the dependence of V(x*, t) on fire A; and (2) requiring
 the inclusion (in any beam) of the middle parent of every variable
 thus
@@ -23722,7 +21656,7 @@ preventing the dependence of V(x*, t) on fire B. Step (1) corresponds to selecti
 intrinsic process from cause to effect and then suppressing the influence of its nonintrinsic surrounding. Step (2) prevents the growth of causal processes beyond their intrinsic
 boundaries.
 
-V(x*, t), t (cid:7) t*,
+V(x*, t), t t*,
 
 10.4 CONCLUSIONS
 
@@ -23735,9 +21669,7 @@ with structural contingencies suppressed (i.e.,
 We have argued that (a) it is
 the structural rather than circumstantial contingencies that convey the true meaning of
 
-W (cid:2) 0).
-
-The Actual Cause
+W 0).
 
 causal claims and (b) these structural contingencies should therefore serve as the basis
 for causal explanation. We further demonstrated how explanations based on such contingencies resolve difficulties that have plagued the counterfactual account of single-event
@@ -23746,7 +21678,7 @@ causation – primarily difficulties associated with preemption, overdeterminati
 Sustenance, however, does not totally replace production, the second component of
 sufficiency – that is, the capacity of the putative cause to produce the effect in situations
 where the effect is absent. In the match–oxygen example (see Section 9.5), for instance,
-W (cid:2) 0
+W 0
 oxygen and a lit match each satisfy the sustenance test of Definition 10.3.3 (with
 hence, each factor would qualify as an actual cause of the observed fire.
 and
@@ -23755,11 +21687,9 @@ fire against contingencies (the contingency set W is empty) but rather its inabi
 , in which a match
 is not struck (and a fire does not break out).
 
-S (cid:2) 0);
+S 0);
 
-U (cid:2) u(cid:3)
-
-(U (cid:2) u(cid:3))
+U u(U u)
 
 This argument still does not tell us why we should consider such hypothetical cirin the match–oxygen story and not, say, in any of the examples
 cumstances
@@ -23770,27 +21700,23 @@ are nevertheless contrary-to-fact worlds, since a fire did break out. Why, then,
 one travel to such a would-be world when issuing an explanation for events (fire) in the
 actual world?
 
-U (cid:2) u(cid:3)
-
-The answer, I believe, lies in the pragmatics of the explanation sought. The tacit target of explanation in the match–oxygen story is the question: "How could the fire have
+U uThe answer, I believe, lies in the pragmatics of the explanation sought. The tacit target of explanation in the match–oxygen story is the question: "How could the fire have
 been prevented?" In view of this target, we have no choice but abandon the actual world
 (in which fire broke out) and travel to one
 in which agents are still capable of
 preventing this fire.8
 
-(U (cid:2) u(cid:3))
+(U u)
 
 A different pragmatics motivates the causal explanation in the switch–light story of
 Example 10.3.6. Here one might be more concerned with keeping the room lit, and the
 target question is: "How can we ensure that the room remains lit in the face of unforeseen contingencies?" Given this target, we might as well remain in the comfort of our
-factual world, U (cid:2) u, and apply the criterion of sustenance rather than production.
+factual world, U u, and apply the criterion of sustenance rather than production.
 
 It appears that pragmatic issues surrounding our quest for explanation are the key to
 deciding which facet of causation should be used, and that the mathematical formulation
 of this pragmatics is a key step toward the automatic generation of adequate explanations.
 Unfortunately, I must now leave this task for future investigation.
-
-Acknowledgments
 
 My interest in the topic of actual causation was kindled by Don Michie, who spent many
 e-mail messages trying to convince me that (1) the problem is not trivial and (2) Good's
@@ -23806,8 +21732,6 @@ the one who had the last clear chance of avoiding it.
 V1
 
 V2
-
-M
 
 Y
 
@@ -23836,74 +21760,70 @@ if at least one of them votes in favor. In fact, both of them vote in favor, and
 measure passes.
 
 This version of the story is identical to the disjunctive scenario discussed in Section 10.1.3,
-(cid:2) 1, a contributing cause
+1, a contributing cause
 where we wish to proclaim each favorable vote, V1
-of Y (cid:2) 1.
+of Y 1.
 
-(cid:2) 1 and V2
+1 and V2
 
 However, suppose there is a voting machine that tabulates the votes. Let M represent
-(cid:5) V2 and Y (cid:2) 1 iff
+V2 and Y 1 iff
 
-the total number of votes recorded by the machine. Clearly M (cid:2) V1
-M (cid:8) 1. .8 represents this more refined version of the story.
+the total number of votes recorded by the machine. Clearly M V1
+M 1. .8 represents this more refined version of the story.
 
 In this scenario, the beam criterion no longer qualifies V1
 
-(cid:2) 1 as a contributing cause
-of P (cid:2) 1, because V2 cannot be labeled "inactive" relative to M, hence we are not at lib-
-(cid:2) 0 and test the counterfactual dependency of Y on V1 as
+1 as a contributing cause
+of P 1, because V2 cannot be labeled "inactive" relative to M, hence we are not at lib-
+0 and test the counterfactual dependency of Y on V1 as
 erty to set the contingency V2
 we did in the simple disjunctive case.
 
 A refinement that properly handles such counterexamples was proposed in Halpern
 and Pearl (2001a,b) but, unfortunately, Hopkins and Pearl (2002) showed that the
 
-The Actual Cause
-
 constraints on the contingencies were too liberal. This led to a further refinement (Halpern
 and Pearl 2005a,b) and to the definition given below:
 
 Definition 10.4.2 (Actual Causation) (Halpern and Pearl 2005)
-X (cid:2) x is an actual cause of Y (cid:2) y in a world U (cid:2) u if the following three conditions
+X x is an actual cause of Y y in a world U u if the following three conditions
 hold:
 
-AC1. X(u) (cid:2) x, Y(u) (cid:2) y
+AC1. X(u) x, Y(u) y
 AC2. There is a partition of V into two subsets, Z and W, with
 
 and a setting
-x(cid:3) and w of the variables in X and W, respectively, such that if Z(u) (cid:2) z*, then
+xand w of the variables in X and W, respectively, such that if Z(u) z*, then
 both of the following conditions hold:
 
 X 8 Z
 
-(cid:4)
-
-(a) Yx(cid:3),w
+(a) Yx,w
 (b) Yx,w,z*
 
 y.
-(cid:2) y for all subsets W(cid:3) of W and all subsets Z(cid:3) of Z, with the setting w of W(cid:3) and z* of Z(cid:3) equal to the setting of those variables in W (cid:2) w
-and Z (cid:2) z*, respectively.
+y for all subsets Wof W and all subsets Zof Z, with the setting w of Wand z* of Zequal to the setting of those variables in W w
+and Z z*, respectively.
 
 AC3. W is minimal; no subset of X satisfies conditions AC1 and AC2.
 
-The assignment W = w acts as a contingency against which X (cid:2) x is given the counterfactual test, as expressed in AC2(a).
+The assignment W = w acts as a contingency against which X x is given the counterfactual test, as expressed in AC2(a).
 
-AC2 (b) limits the choice of contingencies. Roughly speaking, it says that if the variables in X are reset to their original values, then Y (cid:2) y must hold, even under the contingency W (cid:2) w and even if some variables in Z are given their original values (i.e., the
+AC2 (b) limits the choice of contingencies. Roughly speaking, it says that if the variables in X are reset to their original values, then Y y must hold, even under the contingency W w and even if some variables in Z are given their original values (i.e., the
 values in z*).
 
-In the case of the voting machine, if we identify W (cid:2) w with V2
+In the case of the voting machine, if we identify W w with V2
 
-(cid:2) 0, and Z (cid:2) z*
-(cid:2) 1 qualifies as a cause under AC2; we no longer require that
+0, and Z z*
+1 qualifies as a cause under AC2; we no longer require that
 
-(cid:2) 1, we see that Vi
+1, we see that Vi
 
 with V1
 M remains invariant to the contingency V2
 
-(cid:2) 0; the invariance of Y (cid:2) 1 suffices.
+0; the invariance of Y 1 suffices.
 
 This definition, though it correctly solves most problems posed in the literature
 (Hiddleston 2005; Hall 2007; Hitchcock 2007, 2008), still suffers from one deficiency;
@@ -23954,8 +21874,6 @@ causal concepts apart, I would consider it a success." Here, I would dare go eve
 many others. I am not satisfied with any of these surrogates, partly because they were not as crisply
 defined, partly because their boundaries got blurred through the years, and partly because the concatenation "nonstatistical" triggers openness to new perspectives.
 
-Reflections, Elaborations, and Discussions with Readers
-
 "If I am remembered for no other contribution except for insisting on the causal–statistical
 distinction, I would consider my scientific work worthwhile."
 
@@ -23999,7 +21917,7 @@ As a related example, very few statistics teachers today can write down a formul
 
 11.1 Causal, Statistical, and Graphical Vocabulary
 
-Of course, they can write: P( y ƒ x1)/P(y ƒ x2) (cid:2) 2 (y being the desirable outcome), but then
+Of course, they can write: P( y ƒ x1)/P(y ƒ x2) 2 (y being the desirable outcome), but then
 they must keep in mind that this ratio applies to a specific randomized condition, and
 should not be confused with likelihood ratios prevailing in observational studies.
 Scientific progress requires that such distinctions be expressed mathematically.2
@@ -24039,18 +21957,16 @@ anchored in regression techniques, and only recently have confessed, with great 
 means and conditional variances" (Berk 2004, p. 237). Economists have gone through a
 
 2 The potential-outcome approach of Neyman (1923) and Rubin (1974) does offer a notational
-for the former, and P(y ƒ x1)/P(y ƒ x2) (cid:2) 2 for the
+for the former, and P(y ƒ x1)/P(y ƒ x2) 2 for the
 distinction, by writing
 latter. However, the opaqueness of this notation and the incomplete state of its semantics (see Sections
 3.6.3 and 11.3.2) have prevented it from penetrating classrooms, textbooks, and laboratories.
 
-(cid:2) y)/P(Yx2
+y)/P(Yx2
 
-(cid:2) y) (cid:2) 2
+y) 2
 
 P(Yx1
-
-Reflections, Elaborations, and Discussions with Readers
 
 similar trauma with the concept of exogeneity (Section 5.4.3). Even those who recognized
 that a strand of exogeneity (i.e., superexogeneity) is of a causal variety came back to define
@@ -24082,12 +21998,11 @@ How Does One Recognize Causal Expressions in the Statistical Literature?
 Those versed in the potential-outcome notation (Neyman 1923; Rubin 1974; Holland
 1988) can recognize such expressions through the subscripts that are attached to counterfactual events and variables, e.g., Yx (u) or Zxy. (Some authors use parenthetical expressions, e.g., Y(x, u) or Z(x, y).) (See Section 3.6.3 for semantics.)
 
-Alternatively, this book also uses expressions of the form P(Y (cid:2) y ƒ do(X (cid:2) x)) or
-(cid:2) y) to denote the probability (or frequency) that event (Y (cid:2) y) would occur if
-P(Yx
-treatment condition X (cid:2) x were enforced uniformly over the population. (Clearly,
-(cid:2) y).) Still a third formal notation is provided
-P(Y (cid:2) y ƒ do(X (cid:2) x)) is equivalent to P(Yx
+Alternatively, this book also uses expressions of the form P(Y y ƒ do(X x)) or
+y) to denote the probability (or frequency) that event (Y y) would occur if
+treatment condition X x were enforced uniformly over the population. (Clearly,
+y).) Still a third formal notation is provided
+P(Y y ƒ do(X x)) is equivalent to P(Yx
 by graphical models, where the arrows represent either causal influences, as in
 Definition 1.3.1, or functional (i.e., counterfactual) relationships, as in .6(c).
 
@@ -24162,8 +22077,6 @@ x
 
 x
 
-Reflections, Elaborations, and Discussions with Readers
-
 r
 
 s
@@ -24176,8 +22089,7 @@ v
 
 y
 
-.2 The set Z (cid:2)
-from t and t from y.
+.2 The set Z from t and t from y.
 
 r, y
 
@@ -24256,14 +22168,12 @@ some more intricate graphs, such as those shown in Chapter 1, .3.
 Typical application: Consider Example 11.1.3. Suppose we form the regression of y
 
 on p, r, and x,
-y (cid:2) c1p (cid:4) c2r (cid:4) c3x (cid:4) P
+y c1p c2r c3x P
 ,
 and wish to predict which coefficient in this regression is zero. From the discussion above we can conclude immediately that c3 is zero, because y and x are dseparated given p and r, hence y is independent of x given p and r, or, x cannot
 offer any information about y once we know p and r. (Formally, the partial correlation between y and x, conditioned on p and r, must vanish.) c1 and c2, on the other
-hand, will in general not be zero, as can be seen from the graph: Z (cid:2)
-does not
-d-separate y from p, and Z (cid:2)
-p, x
+hand, will in general not be zero, as can be seen from the graph: Z does not
+d-separate y from p, and Z p, x
 
 does not d-separate y from r.
 
@@ -24273,8 +22183,7 @@ Remark on correlated errors: Correlated exogenous variables (or error terms) nee
 special treatment. These are represented by bi-directed arcs (double-arrowed), and
 their arrowheads are treated as any other arrowheads for the purpose of path tracing.
 For example, if we add to the graph in .3 a bi-directed arc between x and t,
-then y and x will no longer be d-separated (by Z (cid:2)
-), because the path x – t –
+then y and x will no longer be d-separated (by Z ), because the path x – t –
 r, p
 u – y – y is d-connected – the collider at t is unblocked by virtue of having a descendant, p, in Z.
 
@@ -24293,8 +22202,8 @@ budget, and so on.
 
 Assume that temporal variation of X(t) and Y(t) is governed by the equations:
 
-X(t) (cid:2) (cid:2)X(t (cid:3) 1) (cid:4) (cid:3)Y(t (cid:3) 1) (cid:4) P(t)
-Y(t) (cid:2) gX(t (cid:3) 1) (cid:4) dY(t (cid:3) 1) (cid:4) h(t)
+X(t) X(t 1) Y(t 1) P(t)
+Y(t) gX(t 1) dY(t 1) h(t)
 ,
 
 (11.1)
@@ -24303,31 +22212,26 @@ h(t)
 
 and
 
-with
-
 P(t)
 being mutually and serially uncorrelated noise terms.
 In this coordinate system, we find that the two components of the current state, X(t)
-and Y(t), are uncorrelated conditioned on the components of the previous state, X(t (cid:3) 1)
-and Y(t (cid:3) 1). Simultaneously, the components of the current state, X(t) and Y(t), are correlated conditioned on the components of the future state, X(t (cid:4) 1) and Y(t (cid:4) 1). Thus,
+and Y(t), are uncorrelated conditioned on the components of the previous state, X(t 1)
+and Y(t 1). Simultaneously, the components of the current state, X(t) and Y(t), are correlated conditioned on the components of the future state, X(t 1) and Y(t 1). Thus,
 according to Definition 2.8.1 (p. 58), the statistical time coincides with the physical time.
 
 Now let us rotate the coordinates using the transformation
 
-X(cid:5)(t) (cid:2) aX(t) (cid:4) bY(t)
-Y(cid:5)(t) (cid:2) cX(t) (cid:4) dY(t)
+X(t) aX(t) bY(t)
+Y(t) cX(t) dY(t)
 .
 
 (11.2)
 
-Reflections, Elaborations, and Discussions with Readers
-
 The governing physical equations remain the same as equation (11.1), but, written in the
 new coordinate system, they read
 
-X(cid:5)(t) (cid:2) (cid:2)(cid:5)X(cid:5)(t (cid:3) 1) (cid:4) (cid:3)(cid:5)Y(t (cid:3) 1) (cid:4) P(cid:5)(t)
-Y(cid:5)(t) (cid:2) g(cid:5)X(cid:5)
-i(t (cid:3) 1) (cid:4) d(cid:5)Y(cid:5)(t (cid:3) 1) (cid:4) h(cid:5)(t)
+X(t) X(t 1) Y(t 1) P(t)
+Y(t) gXi(t 1) dY(t 1) h(t)
 .
 
 (11.3)
@@ -24335,8 +22239,8 @@ i(t (cid:3) 1) (cid:4) d(cid:5)Y(cid:5)(t (cid:3) 1) (cid:4) h(cid:5)(t)
 The primed coefficients can be obtained from the original (unprimed) coefficients by
 matrix multiplication. Likewise, we have:
 
-P(cid:5)(t) (cid:2) aP(t) (cid:4) bh(t)
-h(cid:5)(t) (cid:2) cP(t) (cid:4) dh(t)
+P(t) aP(t) bh(t)
+h(t) cP(t) dh(t)
 .
 
 P(t)
@@ -24350,55 +22254,53 @@ are uncorrelated,
 Since
 longer have the condition that the components of the current state,
 uncorrelated conditioned on the components of the previous state,
-Y(cid:5)(t (cid:3) 1).
+Y(t 1).
 time.
 
 will be correlated, and we no
-X(cid:5)(t)
+X(t)
 are
 and
 Thus, the statistical time (if there is one) no longer runs along the physical
 
-Y(cid:5)(t),
+Y(t),
 and
-X(cid:5)(t (cid:3) 1)
+X(t 1)
 
 and
 
-P(cid:5)(t)
+P(t)
 
-h(cid:5)(t)
+h(t)
 
 Now we need to show that we can choose the parameters a, b, c, and d in such a way
 as to have the statistical time run opposite to the physical time, namely, to make the components of the current state,
 uncorrelated conditioned on the components
-X(cid:5)(t (cid:4) 1)
+X(t 1)
 of the future state,
 
-Y(cid:5)(t),
+Y(t),
 and
-Y(cid:5)(t (cid:4) 1).
+Y(t 1).
 
-X(cid:5)(t)
+X(t)
 and
 
-X(cid:5)(t (cid:3) 1)
-Y(cid:5)(t (cid:3) 1)
+X(t 1)
+Y(t 1)
 By inverting equation (11.3) we can express
-in terms of linh(cid:5)(t).
+in terms of linh(t).
 Clearly, since e(t) and h(t) are uncorreear combinations of
 lated, we can choose a, b, c, d in such a way that the noise term appearing in the
-X(cid:5)(t (cid:3) 1)
+X(t 1)
 equation.
 (This is better demonstrated in matrix calculus.)
 
 equation is uncorrelated with the one appearing in the
 
-X(cid:5)(t), Y(cid:5)(t), P(cid:5)(t)
+X(t), Y(t), P(t)
 
-Y(cid:5)(t (cid:3) 1)
-
-, and
+Y(t 1)
 
 and
 
@@ -24432,11 +22334,7 @@ neither want nor need descendants of X in Z.
 
 e0
 
-X
-
 e0
-
-X
 
 e1
 
@@ -24535,8 +22433,6 @@ Note that a descendant Z of X that is not also a descendant of some Si (or some 
 i > 0) escapes this exclusion; it can safely be conditioned on without introducing bias
 (though it may decrease the efficiency of the associated estimator of the causal effect of
 
-Reflections, Elaborations, and Discussions with Readers
-
 X on Y). Section 11.3.3 provides an alternative proof of the back-door criterion where the
 need to exclude descendants of X is even more transparent.
 
@@ -24566,9 +22462,7 @@ It does not address cases such as
 X d C S Y S F
 ,
 
-which occur frequently in epidemiology, and where tradition permits the adjustment for Z (cid:2)
-
-.
+which occur frequently in epidemiology, and where tradition permits the adjustment for Z .
 
 C, F
 
@@ -24578,11 +22472,10 @@ few decades. Can we find something in graph theory that is closer to their tradi
 
 Author's Answer
 
-1. Epidemiological tradition permits the adjustment for Z (cid:2) (C, F) for the task of
+1. Epidemiological tradition permits the adjustment for Z (C, F) for the task of
 testing whether X has a causal effect on Y, but not for estimating the magnitude
 of that effect. In the former case, while conditioning on F creates a spurious path
-between C and the noise factor affecting Y, that path is blocked upon conditioning on C. Thus, conditioning on Z (cid:2)
-leaves X and Y independent. If we
+between C and the noise factor affecting Y, that path is blocked upon conditioning on C. Thus, conditioning on Z leaves X and Y independent. If we
 happen to measure such dependence in any stratum of Z, it must be that the
 model is wrong, i.e., either there is a direct causal effect of X on Y, or some other
 paths exist that are not shown in the graph.
@@ -24590,17 +22483,10 @@ paths exist that are not shown in the graph.
 C, F
 
 Thus, if we wish to test the (null) hypothesis that there is no causal effect of X
-on Y, adjusting for Z (cid:2)
-is perfectly legitimate, and the graph shows it
+on Y, adjusting for Z is perfectly legitimate, and the graph shows it
 (i.e., C and F are nondescendant of X). However, adjusting for Z is not legitimate for assessing the causal effect of X on Y when such effect is suspected,
 
 C, F
-
-11.3 Estimating Causal Effects
-
-C
-
-X
 
 Y
 
@@ -24646,18 +22532,16 @@ condition of "zero bias" or "no-confounding" using an independence relationship 
 they had to resort to the "black-box" language of "exchangeability" to define "bias," which discouraged intuitive interpretations of confounding (see Section 6.5.3). Indeed, it took epidemiologists another six years (Weinberg 1993) to discover that adjusting for factors affected by the exposure
 (as in .5) would introduce bias.
 
-Reflections, Elaborations, and Discussions with Readers
-
 "strong ignorability" (Rosenbaum and Rubin 1983). Formally, if X is a binary treatment
 (or action), strong ignorability is written as:
 
-(cid:2)(cid:2) X (cid:2) Z
+X Z
 Y(0), Y(1)
 ,
 
 (11.4)
-where Y(0) and Y(1) are the (unobservable) potential outcomes under actions do(X (cid:2) 0)
-and do(X (cid:2) 1), respectively (see equation (3.51) for definition), and Z is a set of measured covariates. When "strong ignorability" holds, Z is admissible, or deconfounding,
+where Y(0) and Y(1) are the (unobservable) potential outcomes under actions do(X 0)
+and do(X 1), respectively (see equation (3.51) for definition), and Z is a set of measured covariates. When "strong ignorability" holds, Z is admissible, or deconfounding,
 that is, treatment effects can be estimated without bias using the adjustment estimand,
 as shown in the derivation of equation (3.54).
 
@@ -24667,10 +22551,10 @@ in this book, hardly anyone knows how to apply it in practice, because the count
 form that allows reliable judgment about conditional independence of counterfactuals. It
 is not surprising, therefore, that "strong ignorability" is used almost exclusively as a surrogate for the assumption "Z is admissible," that is,
 
-P(y (cid:2) do(x)) (cid:2) a
+P(y do(x)) a
 z
 
-P(y (cid:2) z, x)P(z),
+P(y z, x)P(z),
 
 (11.5)
 
@@ -24690,7 +22574,7 @@ sum total of all exogenous variables, latent as well as observed, which can infl
 through paths that avoid X. The reason is as follows: according to the structural definition
 of
 (equation (3.51)), Y(0) (similarly Y(l)) represents the value of Y under a
-condition where all arrows entering X are severed, and X is held constant at X (cid:2) 0.
+condition where all arrows entering X are severed, and X is held constant at X 0.
 Statistical variations of Y(0) would therefore be governed by all exogenous ancestors of
 Y in the mutilated graphs with the arrows entering X removed.
 
@@ -24705,7 +22589,6 @@ will be represented by the
 e1, e2, e3, e46
 noise factors (not shown in the graph) that affect variables X4, X1, X2, X5, and X6. However,
 
-Y(0), Y(l)
 . In .4, as another example,
 
 Y(0), Y(1)
@@ -24715,21 +22598,15 @@ guidelines issued are wrong or inaccurate, perpetuating myths such as: "there is
 adjustment for a variable describing subjects before treatment," "a confounder is any variable associated with both treatment and disease," and "strong ignorability requires measurement of all
 covariates related to both treatment and outcome" (citations withheld to spare embarrassment).
 
-11.3 Estimating Causal Effects
-
 W
 
 {Y(0), Y(1)}
-
-X
 
 S
 
 (a)
 
 Y
-
-X
 
 S
 
@@ -24740,19 +22617,14 @@ Y
 .7 Graphical interpretation of counterfactuals
 condition.
 
-Y(0), Y(l)
-
 in the "strong ignorability"
 
-Y(0), Y(l)
 In summary, the potential outcomes
 
 since variables X4 and X5 summarize (for Y) the variations of their ancestors, a sufficient set
 for representing
 
 would be X4, X1 and the noise factors affecting Y and X6.
-
-Y(0), Y(l)
 
 are represented by the observed and
 unobserved parents5 of all nodes on paths from X to Y. Schematically, we can represent these
@@ -24767,10 +22639,6 @@ confirming conditional independencies (e.g., equation (11.4)) in the causal grap
 is given in .7(b),
 d-separation.) A more accurate allocation of
 where they are shown as (dummy) parents of Y that are functions of, though not identical to, the actual (observable) parents of Y and S.
-
-Y(0), Y(l)
-
-Y(0), Y(l)
 
 Readers versed in structural equation modeling would recognize the graphical
 as a refinement of the classical economentric notion of "dis-
@@ -24798,36 +22666,32 @@ the probability that a treated person would recover if not treated, or the rate 
 disease among the exposed, had the exposure been avoided) is not easily analyzed in the
 do-calculus notation. The counterfactual notation, however, allows us to derive a
 
-P(Yx(cid:5) (cid:2) y (cid:2) x)
+P(Yxy x)
 
 5 The reason for explicitly including latent parents is explained in Section 11.3.1.
-
-Reflections, Elaborations, and Discussions with Readers
 
 useful conclusion: Whenever a set of covariates Z exists that satisfies the back-door
 criterion, ETT can be estimated from observational studies. This follows directly from
 
-1 Yx(cid:2) (cid:1)(cid:1) X (cid:1) Z,
+1 YxX Z,
 
-(Y (cid:1)(cid:1) X (cid:1) Z)GX
+(Y X Z)GX
 which allows us to write
-ETT (cid:1) P(Yx(cid:2) (cid:1) y (cid:1) x)
+ETT P(Yxy x)
 
-(cid:1) a z P(Yx(cid:2) (cid:1) y (cid:1) x, z)P(z (cid:1) x)
+a z P(Yxy x, z)P(z x)
 
-(cid:1) a z
+a z
 
-P(Yx(cid:2) (cid:1) y (cid:1) x(cid:2), z)P(z (cid:1) x)
+P(Yxy x, z)P(z x)
 
-(cid:1) a z
+a z
 
-P(y (cid:1) x(cid:2), z)P(z (cid:1) x).
+P(y x, z)P(z x).
 
 The graphical demystification of "strong ignorability" also helps explain why the probability of causation
 and, in fact, any counterfactual expression conditioned on y, would not permit such a derivation and is, in general, non-identifiable (see
 Chapter 9 and Shpitser and Pearl 2007).
-
-P(Yx(cid:2) (cid:1) y(cid:2)(cid:1) x, y)
 
 11.3.3 Alternative Proof of the Back-Door Criterion
 
@@ -24838,10 +22702,9 @@ Proof of the Back-Door Criterion
 
 Consider a Markovian model G in which T stands for the set of parents of X. From equation (3.13), we know that the causal effect of X on Y is given by
 
-P(y (cid:1) xˆ) (cid:1) a
-t(cid:1)T
+tT
 
-P(y (cid:1) x, t)P(t)
+P(y x, t)P(t)
 
 .
 
@@ -24850,10 +22713,9 @@ P(y (cid:1) x, t)P(t)
 Now assume some members of T are unobserved. We seek another set Z of observed
 variables, to replace T so that
 
-P(y (cid:1) xˆ) (cid:1) a
-z(cid:1)Z
+zZ
 
-P(y (cid:1) x, z)P(z)
+P(y x, z)P(z)
 
 .
 
@@ -24865,20 +22727,19 @@ It is easily verified that (11.7) follow from (11.6) if Z satisfies:
 
 (ii)
 
-(Y (cid:1)(cid:1) T (cid:1) X, Z)
-(X (cid:1)(cid:1) Z (cid:1) T).
+(Y T X, Z)
+(X Z T).
 
 Indeed, conditioning on Z, (i) permits us to rewrite (11.6) as
 
-P(y (cid:1) xˆ) (cid:1) a
 t
 
 P(t) a
 z
 
-P(y (cid:1) z, x)P(z (cid:1) t, x),
+P(y z, x)P(z t, x),
 
-and (ii) further yields P(z ƒ t, x) (cid:1) P(z ƒ t), from which (11.7) follows.
+and (ii) further yields P(z ƒ t, x) P(z ƒ t), from which (11.7) follows.
 
 It is now a purely graphical exercise to prove that the back-door criterion implies (i)
 and (ii). Indeed, (ii) follows directly from the fact that Z consists of nondescendants of X,
@@ -24889,9 +22750,7 @@ can
 X, Z
 be extended to a back-door path from Y to X, unblocked by Z.
 
-(Y(cid:1)(cid:1)T (cid:1) X, Z)G,
-
-11.3 Estimating Causal Effects
+(YT X, Z)G,
 
 W1
 
@@ -24901,11 +22760,7 @@ Z1
 
 Z2
 
-X
-
 Y
-
-X
 
 (a)
 
@@ -24919,21 +22774,13 @@ Z2
 
 Y
 
-V
-
 (b)
 
 (a) S1
 .8
-(b) No subset of C (cid:2)
-
-(cid:2)
-
-and S2
+(b) No subset of C and S2
 Z1, W26
 Z1, Z2, W1, W2, V
-
-(cid:2)
 
 Z2, W16
 is admissible.
@@ -24962,10 +22809,10 @@ following equality holds:
 a
 s1
 
-P(y (cid:2) x, s1)P(s1) (cid:2) a
+P(y x, s1)P(s1) a
 s2
 
-P(y (cid:2) x, s2)P(s2).
+P(y x, s2)P(s2).
 
 (11.8)
 
@@ -24975,15 +22822,14 @@ C2 :
 This equality guarantees that, if adjusted for, sets S1 and S2 would produce the same bias
 relative to estimating the causal effect of X on Y.
 Claim: A sufficient condition for c-equivalence of S1 and S2 is that either one of the following two conditions holds:
-X (cid:2)(cid:2) S2 (cid:2)
-S1
-X (cid:2)(cid:2) S1 (cid:2) S2
+X S2 S1
+X S1 S2
 
-Y (cid:2)(cid:2) S1 (cid:2) S2, X
-Y (cid:2)(cid:2) S2 (cid:2) S1, X.
+Y S1 S2, X
+Y S2 S1, X.
 C1 permits us to derive the right-hand side of equation (11.8) from the left-hand side,
 while C2 permits us to go the other way around. Therefore, if S1 is known to be admissible, the admissibility of S2 can be confirmed by either C1 or C2. This broader condi-
-(cid:2) PAX as admissible from any other admissition allows us, for example, to certify S2
+PAX as admissible from any other admissition allows us, for example, to certify S2
 ble set S1, since condition C2 would be satisfied by any such choice.
 
 and
@@ -24994,13 +22840,7 @@ and
 
 For example, consider the graph in .8(a), in which each of S1
 
-(cid:2)
-
 Z1, W26
-
-Reflections, Elaborations, and Discussions with Readers
-
-(cid:1)
 
 S2
 and S2 are c-equivalent. Yet neither C1 nor C2 holds in this case.
@@ -25008,8 +22848,6 @@ and S2 are c-equivalent. Yet neither C1 nor C2 holds in this case.
 is admissible (by virtue of satisfying the back-door criterion), hence S1
 
 Z2, W26
-
-(cid:1)
 
 S2
 
@@ -25031,8 +22869,7 @@ The graph depicted in .8(b) demonstrates the difficulties commonly faced
 by social and health scientists. Suppose our target is to estimate P(y ƒ do(x)) given
 measurements on
 , but having no idea of the underlying graph
-structure. The conventional wisdom is to start with all available covariates C (cid:1)
-Z1, Z2,
+structure. The conventional wisdom is to start with all available covariates C Z1, Z2,
 W1, W2, V
 , and test if a proper subset of C would yield an equivalent estimand upon
 adjustment. Statistical methods for such reduction are described in Greenland et al.
@@ -25053,13 +22890,13 @@ plausible graph, based on one's understanding of the domain, and check if the da
 any of the statistical claims implied by that graph. In our case, the graph of .8(b) advertises several such claims, cast as conditional independence constraints, each
 associated with a missing arrow in the graph:
 
-V (cid:1)(cid:1) {W1, W2}
-Z1 (cid:1)(cid:1) {W2, Z2}(cid:1){V, W1}
-Z2 (cid:1)(cid:1) {W1, Z1, X}(cid:1){V, W2}
+V {W1, W2}
+Z1 {W2, Z2}{V, W1}
+Z2 {W1, Z1, X}{V, W2}
 
-X (cid:1)(cid:1) {V, Z2}(cid:1){Z1, W2, W1}
-V (cid:1)(cid:1) Y(cid:1){X, Z2, W2, Z1, W1}
-V (cid:1)(cid:1) Y(cid:1){Z2, W2, Z1, W1}
+X {V, Z2}{Z1, W2, W1}
+V Y{X, Z2, W2, Z1, W1}
+V Y{Z2, W2, Z1, W1}
 
 Satisfying these constraints does not establish, of course, the validity of the causal
 model postulated because, as we have seen in Chapter 2, alternative models may exist
@@ -25069,15 +22906,9 @@ example would be a complete graph, with arbitrary orientation of arrows which, w
 clever choice of parameters, can emulate any other graph. A less trivial example, one
 that is not sensitive to choice of parameters, lies in the class of equivalent structures, in
 
-11.3 Estimating Causal Effects
-
-V
-
 Z 1
 
 W1
-
-X
 
 2Z
 
@@ -25090,12 +22921,11 @@ from that of .8(b), save for advertising one
 It deems
 additional independency
 three sets to be admissible (hence c-equivalent):
-, and
 {V, W1, W2},
 would be rejected therefore if any pair of them fails the
 c-equivalence test.
 
-(cid:1)(cid:1)Y (cid:1)X, W1, W2, Z2.
+Y X, W1, W2, Z2.
 
 {Z1, W1, W2},
 
@@ -25117,15 +22947,13 @@ to be admissible, hence
 c-equivalent; testing for the c-equivalence of the three sets should decide between the two
 contesting models.
 
-(cid:1)(cid:1)Y(cid:1)X, W1, W2, Z2,
+YX, W1, W2, Z2,
 Z1, W1, W26
 ,
 
 Z2, W1, W26
 
 V, W1, W26
-
-, and
 
 Substantive causal knowledge may provide valuable information for such decisions.
 For example, the model of .9 can be ruled out if we have good reasons to
@@ -25142,7 +22970,7 @@ In addition to serving as carriers of substantive judgments, graphs also offer o
 ability to reject large classes of models without testing each member of the class. For
 example, all models in which V and W1 are the sole parents of X, thus rendering
 V, W16
-X(cid:1)(cid:1)Z1 (cid:1) V, W1
+XZ1 V, W1
 (as well as C) admissible, could be rejected at once if the condition
 does
 not hold in the data.
@@ -25152,19 +22980,17 @@ variable, mediating between X and Y, was sufficient for identifying the causal e
 X on Y. This facility can also be demonstrated in .8(b); measurement of a variable Z judged to be on the pathway between X and Y would render
 identifiable and estimable through equation (3.29). This is predicated, of course, on Figure 11.8(b) being the correct data-generating model. If, on the other hand, it is .9
 that represents the correct model, the causal effect would be given by
-P(y (cid:1) paX, x)P(paX)
+P(y paX, x)P(paX)
 
-P(y (cid:1) do(x))
+P(y do(x))
 
-P(y (cid:1) do(x)) (cid:1) a paX
+P(y do(x)) a paX
 
-(cid:1) a z1, w1, w2 P(y (cid:1) x, z1, w1, w2) P(z1, w1, w2),
+a z1, w1, w2 P(y x, z1, w1, w2) P(z1, w1, w2),
 
 6 Semi-Markovian models may also be distinguished by functional relationships that are not
 expressible as conditional independencies (Verma and Pearl 1990; Tian and Pearl 2002b; Shpitser
 and Pearl 2008). We do not consider these useful constraints in this example.
-
-Reflections, Elaborations, and Discussions with Readers
 
 which might or might not agree with equation (3.29). In the latter case, we would have
 good reason to reject the model in .9 as inconsistent, and seek perhaps additional measurements to confirm or refute .8(b).
@@ -25200,10 +23026,10 @@ reduction, and the statistical vs. causal dichotomy.
 
 The method of propensity score is based on a simple, yet ingenious, idea of purely
 statistical character. Assuming a binary action (or treatment) X, and an arbitrary set S of
-measured covariates, the propensity score L(s) is the probability that action X (cid:2) 1 will
-be chosen by a participant with characteristics S (cid:2) s, or
+measured covariates, the propensity score L(s) is the probability that action X 1 will
+be chosen by a participant with characteristics S s, or
 
-L(s) (cid:2) P(X (cid:2) 1 (cid:2) S (cid:2) s).
+L(s) P(X 1 S s).
 
 (11.9)
 
@@ -25214,17 +23040,14 @@ all units that map into the same value of L(s) are comparable, or "balanced," in
 that, within each stratum of L, treated and untreated units have the same distribution of
 characteristics S.7
 
-X(cid:2)(cid:2)S (cid:2) L(s).
+XS L(s).
 
 7 This independence emanates from the special nature of the function L(s) and is not represented in
 
 the graph, i.e., if we depict L as a child of S, L would not in general d-separate S from X.
 
-11.3 Estimating Causal Effects
-
 To see the significance of this result, let us assume, for simplicity, that L(s) can be
-estimated separately and approximated by discrete strata L (cid:2)
-. The conditional independence
+estimated separately and approximated by discrete strata L . The conditional independence
 , renders
 S and L c-equivalent in the sense defined in Section 11.3.3, equation (11.8), namely, for
 any Y,
@@ -25233,29 +23056,29 @@ together with the functional mapping
 
 l1, l2,…, lk6
 
-X(cid:2)(cid:2)S (cid:2) L(s),
+XS L(s),
 
 S S L
 
 a
 s
 
-P( y (cid:2) s, x)P(s) (cid:2) a
+P( y s, x)P(s) a
 t
 
-P( y (cid:2) l, x)P(l).
+P( y l, x)P(l).
 
 This follows immediately by writing:8
-g l P(y (cid:2) l, x)P(l) (cid:2) g s g l P(y (cid:2) l, s, x)P(l)P(s (cid:2) l, x)
+g l P(y l, x)P(l) g s g l P(y l, s, x)P(l)P(s l, x)
 
-(cid:2) g s g l P(y (cid:2) s, x)P(l)P(s (cid:2) l)
-(cid:2) g sP(y (cid:2) s, x)P(s).
+g s g l P(y s, x)P(l)P(s l)
+g sP(y s, x)P(s).
 
 (11.10)
 
 Thus far we have not mentioned any causal relationship, nor the fact that Y is an outcome variable and that, eventually, our task would be to estimate the causal effect of X
 on Y. The c-equivalence of S and L merely implies that, if for any reason one wishes to
-g s P(y (cid:2) s, x)P(s),
+g s P(y s, x)P(s),
 estimate the "adjustment estimand"
 with S and Y two arbitrary sets of
 variables, then, instead of summing over a high-dimensional set S, one might as well
@@ -25275,7 +23098,7 @@ regarding the appropriateness of S, nor does it promise to correct for any confo
 bias, or to refrain from creating new bias where none exists.
 
 In the special case where S is admissible, that is,
-P(y (cid:2) do(x)) (cid:2) EsP(y (cid:2) s, x)
+P(y do(x)) EsP(y s, x)
 ,
 
 (11.11)
@@ -25283,7 +23106,7 @@ P(y (cid:2) do(x)) (cid:2) EsP(y (cid:2) s, x)
 L would be admissible as well, and we would then have an unbiased estimand of the
 causal effect,9
 
-P(y (cid:2) do(x)) (cid:2) El P(y (cid:2) l, x)
+P(y do(x)) El P(y l, x)
 ,
 
 accompanied by an efficient method of estimating the right-hand side. Conversely, if
@@ -25292,13 +23115,11 @@ the bias produced by the former would be faithfully and efficiently reproduced b
 latter.
 
 8 This also follows from the fact that condition C2 is satisfied by the substitution S1
-(cid:2) L(s).
+L(s).
 9 Rosenbaum and Rubin (1983) proved the c-equivalence of S and L only for admissible S, which is
 unfortunate; it gives readers the impression that the propensity score matching somehow contributes to bias reduction.
 
-(cid:2) S and S2
-
-Reflections, Elaborations, and Discussions with Readers
+S and S2
 
 The Controversy Surrounding Propensity Score
 
@@ -25331,7 +23152,7 @@ But why would anyone play down the cautionary note of Rosenbaum and Rubin
 when doing so would violate the golden rule of causal analysis: No causal claim can be
 established by a purely statistical method, be it propensity scores, regression, stratification, or any other distribution-based design. The answer, I believe, rests with the language that Rosenbaum and Rubin used to formulate the condition of admissibility, i.e.,
 equation (11.11). The condition was articulated in the cryptic language of potential-
-X (cid:2) S.
+X S.
 outcome, stating that the set S must render X "strongly ignorable," i.e.,
 As stated several times in this book, the opacity of "ignorability" is the Achilles' heel of
 the potential-outcome approach – no mortal can apply this condition to judge whether it
@@ -25340,13 +23161,9 @@ in partially specified problems that involve dozens of variables.10
 
 Y1, Y06
 
-(cid:2)(cid:2)
-
 10 Advocates of the potential outcome tradition are invited to inspect .8(b) (or any model,
 or story, or toy-example of their choice) and judge whether any subset of C renders X "strongly
 ignorable." This could easily be determined, of course, by the back-door criterion, but, unfortunately, graphs are still feared and misunderstood by some of the chief advocates of the potentialoutcome camp (e.g., Rubin 2004, 2008b, 2009).
-
-11.3 Estimating Causal Effects
 
 The difficulty that most investigators experience in comprehending what "ignorability"
 means, and what judgment it summons them to exercise, has tempted them to assume
@@ -25393,8 +23210,6 @@ analysis." (p. xvii)
 analysis can reach the same conclusion as an exactly parallel randomized experiment, see Shadish
 and Clark (2006, unpublished)" (Rubin 2007).
 
-Reflections, Elaborations, and Discussions with Readers
-
 I believe that a similar cultural phenomenon has evolved around propensity scores.
 It is not that Rosenbaum and Rubin were careless in stating the conditions for success. Formally, they were very clear in warning practitioners that propensity scores work
 only under "strong ignorability" conditions. However, what they failed to realize is that
@@ -25410,7 +23225,7 @@ Question to Author Regarding Theorem 3.4.1:
 
 In the inference rules of do-calculus (p. 85), the subgraph
 represents the distribution
-prevailing under the operation do(X (cid:2) x), since all direct causes of X are removed. What
+prevailing under the operation do(X x), since all direct causes of X are removed. What
 distribution does the submodel
 
 represent, with the direct effects of X removed?
@@ -25435,24 +23250,22 @@ confoundings.
 11.3.7 The Validity of G-Estimation
 
 In Section 3.6.4 we introduced the G-estimation formula (3.63), together with the coun-
-(Y(x) (cid:2)(cid:2) Xk (cid:2) Lk, Xk(cid:3)1
+(Y(x) Xk Lk, Xk1
 terfactual independency (3.62),
 which Robins proved to
 be a sufficient condition for (3.63). In general, condition (3.62) is both overrestrictive
 and lacks intuitive basis. A more general and intuitive condition leading to (3.63) is
 derived in (4.5) (p. 122), which reads as follows:
 
-(cid:2) xk(cid:3)1),
+xk1),
 
 (3.62*) General Condition for g-Estimation (Sequential Deconfounding)
-P(y ƒ g (cid:2) x) is identifiable and is given by (3.63) if every action-avoiding back-door
+P(y ƒ g x) is identifiable and is given by (3.63) if every action-avoiding back-door
 path from Xk to Y is blocked by some subset Lk of nondescendants of Xk. (By "actionavoiding" we mean a path containing no arrows entering an X variable later than Xk.)
 This condition bears several improvements over (3.62), as demonstrated in the following three examples.
 
 Example 11.3.1 .10 demonstrates cases where the g-formula (3.63) is valid
 with a subset Lk of the past but not with the entire past. Assuming U1 and U2 are
-
-11.3 Estimating Causal Effects
 
 U1
 
@@ -25475,7 +23288,7 @@ U2
 .10 Conditioning on the entire past L1
 invalidate g-estimation.
 
-(cid:2) Z would
+Z would
 
 .11
 non-predecessor S.
@@ -25483,20 +23296,20 @@ non-predecessor S.
 g-estimation is rendered valid by including a
 
 unobserved, and temporal order: U1, Z, X1, U2, Y, we see that both (3.62) and (3.62*),
-(cid:2) Z would
+Z would
 hence (3.63), are satisfied with L1
 violate both.
 
-(cid:2) 0, while taking the whole past L1
+0, while taking the whole past L1
 
 Example 11.3.2 .11 demonstrates cases where defining Lk as the set of
 "nondescendants" of Xk (as opposed to temporal predecessors of Xk) broadens (3.62).
 Assuming temporal order: U1, X1, S, Y, both (3.62) and (3.62*) are satisfied with
 L1
 
-(cid:2) S, but not with L1
+S, but not with L1
 
-(cid:2) 0.
+0.
 
 Example 11.3.3 (constructed by Ilya Shpitser in response to Eliezer Yudkowsky)
 .12 demonstrates cases where (3.62) is not satisfied even with the new interpretation of Lk, but the graphical condition (3.62*) is. It is easy to see that (3.62*) is
@@ -25538,8 +23351,6 @@ Y
 
 X1
 
-Reflections, Elaborations, and Discussions with Readers
-
 .12 A graph for which g-estimation is valid while
 Robins' condition (3.62) is violated.
 
@@ -25549,8 +23360,8 @@ Robins' condition (3.62) is violated.
 Question to Author:
 
 Section 4.2 of the book (p. 113) gives an identification condition and estimation formula
-for the effect of a conditional action, namely, the effect of an action do(X (cid:2) g(z)) where
-Z (cid:2) z is a measurement taken prior to the action. Is this equation generalizable to the
+for the effect of a conditional action, namely, the effect of an action do(X g(z)) where
+Z z is a measurement taken prior to the action. Is this equation generalizable to the
 case of several actions, i.e., conditional plan?
 
 The difficulty seen is that this formula was derived on the assumption that X does
@@ -25579,11 +23390,9 @@ preceding Xi.
 
 For a given Xi, we denote
 
-i (cid:6) j.
+i j.
 
-(cid:6)i
-
-X
+i
 
 We are interested in the probability distribution of a set of outcome variables Y, under
 to the output of functions gi (known in
@@ -25598,59 +23407,52 @@ The inductive case is
 
 Xi H X
 
-(cid:6)i.
+i.
 
-(cid:6)i, X
+i, X
 
-(cid:2) g1(Z1).
+g1(Z1).
 
 X1
 g
 
-X
-
-(cid:6)i
+i
 g ).
 
 X i
 g
 
-(cid:2) gi(Zi
+gi(Zi
 Xg
 
 11.4 Policy Evaluation and the do-Operator
 
-subscript g represents the policy we use, in other words, g (cid:2)
-now write the quantity of interest:
+subscript g represents the policy we use, in other words, g now write the quantity of interest:
 
 gi
 
-ƒ i (cid:2) 1, 2,…, K
+ƒ i 1, 2,…, K
 
 . We can
 
 P(YXg
 
-(cid:2) y) (cid:2) P(Y (cid:2) y (cid:2) do(X1 (cid:2) X1
+y) P(Y y do(X1 X1
 
-g), do(X2 (cid:2) X2
+g), do(X2 X2
 
-g), p , do(XK (cid:2) XK
+g), p , do(XK XK
 
 g )).
 
 Zg
-
-(cid:2) (cid:3)
 
 i Z
 
 i
 Xg
 
-(cid:6)i.
-
-(cid:2)
+i.
 
 xz
 
@@ -25662,8 +23464,7 @@ z, p , xK
 be the values attained by Xg in the situation where Zg has been
 let
 z 6
-observed to equal z (cid:2)
-. We note here that if we know z, we can compute xz in
+observed to equal z . We note here that if we know z, we can compute xz in
 z1,…, zK6
 advance, because the functions gi are fixed in advance and known to us. However, we
 don't know what values Zg might obtain, so we use case analysis to consider all possible
@@ -25671,29 +23472,29 @@ value combinations. We then obtain:
 
 P (YXg
 
-(cid:2) y) (cid:2) (cid:3)z1, p , zKP(Y (cid:2) y (cid:2) do(X (cid:2) xz), Z1 (cid:2) z1, p , ZK
+y) z1, p , zKP(Y y do(X xz), Z1 z1, p , ZK
 xz
 
-(cid:6)K
+K
 
-(cid:2) zK)
+zK)
 
-P(Z1 (cid:2) z1, p , ZK
+P(Z1 z1, p , ZK
 xz
 
-(cid:6)K
+K
 
-(cid:2) zK (cid:2) do(X (cid:2) xz)).
+zK do(X xz)).
 
 Here we note that Zi cannot depend on subsequent interventions. So we obtain
 
-P(Y (cid:2) y (cid:2) do(X (cid:2) xz), Z1
+P(Y y do(X xz), Z1
 xz
 
-(cid:2) z1, p , ZK
+z1, p , ZK
 xz
 
-(cid:2) zK)P(Z1 (cid:2) z1, p , ZK (cid:2) zK (cid:2) do(X (cid:2) xz)).
+zK)P(Z1 z1, p , ZK zK do(X xz)).
 
 a
 z
@@ -25702,14 +23503,14 @@ Now we note that the subscripts in the first and second terms are redundant, sin
 do(xz) already implies such subscripts for all variables in the expression. Thus we can
 rewrite the target quantity as
 
-P(Y (cid:2) y (cid:2) do(X (cid:2) xz), Z1 (cid:2) z1, p , ZK (cid:2) zK)P(Z1 (cid:2) z1, p , ZK (cid:2) zKdo(X (cid:2) xz))
+P(Y y do(X xz), Z1 z1, p , ZK zK)P(Z1 z1, p , ZK zKdo(X xz))
 
 a
 z
 
 or, more succinctly,
 
-P(y (cid:2) do(xz), z)P(z (cid:2) do(xz)).
+P(y do(xz), z)P(z do(xz)).
 
 a
 z
@@ -25733,10 +23534,6 @@ I showed how to calculate indirect effects by taking the product of direct paths
 a student asked about how to interpret the indirect effect, and I gave the answer that I
 always give, that the indirect effect ab (in the simple model of .13) is the effect
 that a change in X has on Y through its relationship with Z.
-
-Reflections, Elaborations, and Discussions with Readers
-
-X
 
 c
 
@@ -25786,8 +23583,6 @@ of the interpretation of structural parameters as effect coefficients, this inte
 taken very seriously by authors, teachers, and students. Writing in 2008, I find that the bulk
 of SEM education still focuses on techniques of statistical estimation and model fitting, and
 
-11.4 Policy Evaluation and the do-Operator
-
 one can hardly find a serious discussion of what the model means, once it is fitted and
 estimated (see Section 11.5.3 for SEM survival kit).13
 
@@ -25835,8 +23630,6 @@ I set out to formalize the legal definition of hiring discrimination given on pa
 
 have examined.
 
-Reflections, Elaborations, and Discussions with Readers
-
 was led to the results of Sections 4.5.4 and 4.5.5, some already anticipated by Robins
 and Greenland (1992), and to the Mediation Formula of equations (4.12), (4.17), and
 (4.18). Enlightened by these results, I was compelled and delighted to retract an earlier
@@ -25863,7 +23656,7 @@ covaries with do(x) that is the cause and not the do(x) per se."
 Author's Reply:
 
 Mathematics deals with ideal situations, and it is the experimenter's job to make sure
-that the experimental conditions approximate the mathematical ideal as closely as possible. The do(x) operator stands for doing X (cid:2) x in an ideal experiment, where X and X
+that the experimental conditions approximate the mathematical ideal as closely as possible. The do(x) operator stands for doing X x in an ideal experiment, where X and X
 alone is manipulated directly, not any other variable in the model.
 
 In your example of the vitamin E injection, there is another variable being manipulated together with X, namely, the incubator cover, Z, which turns the experiment into a
@@ -25879,8 +23672,6 @@ ramifications of such specifications, assuming they are executed faithfully, ass
 have a valid causal model of the environment, and assuming we have data from other
 experiments conducted under well-specified conditions. See Section 11.4.6.
 
-11.4 Policy Evaluation and the do-Operator
-
 11.4.4 Is the do(x) Operator Universal?
 Question to Author (from Bill Shipley)
 
@@ -25892,9 +23683,9 @@ causes of the manipulated variable still exert effects, but a new variable (M) i
 The problem that I see with the do(x) operator as a general operator of external
 manipulation is that it requires two things: (1) removing any preexisting causes of x and
 (2) setting x to some value. This corresponds to some types of external manipulation, but
-not to all (or even most) external manipulations. I would introduce an add(x (cid:1) n) operator, meaning "add, external to the preexisting causal process, an amount 'n' to x."
+not to all (or even most) external manipulations. I would introduce an add(x n) operator, meaning "add, external to the preexisting causal process, an amount 'n' to x."
 Graphically, this consists of augmenting the preexisting causal graph with a new edge,
-M (cid:4) n S X.
+M n S X.
 namely,
 Algebraically, this would consist of adding a new term -n- as a
 cause of X (Shipley 2000b).
@@ -25903,10 +23694,10 @@ Author's Answer:
 
 In many cases, your "additive intervention" indeed represents the only way we can intervene on a variable X; in others, it may represent the actual policy we wish evaluated. In
 fact, the general notion of intervention (p. 113) permits us to replace the equation of X
-by any other equation that fits the circumstances, not necessarily a constant X (cid:1) x.
+by any other equation that fits the circumstances, not necessarily a constant X x.
 
-What you are proposing corresponds to replacing the old equation of X, x (cid:1) f (paX),
-with a new equation: x (cid:1) f( paX) (cid:3) n. This replacement can be represented using "instrumental variables," since it is equivalent to writing x (cid:1) f (paX) (cid:3) I (where I is an instrument) and varying I from 0 to n.
+What you are proposing corresponds to replacing the old equation of X, x f (paX),
+with a new equation: x f( paX) n. This replacement can be represented using "instrumental variables," since it is equivalent to writing x f (paX) I (where I is an instrument) and varying I from 0 to n.
 
 There are three points to notice:
 
@@ -25920,22 +23711,19 @@ is shown below, the effect on Y may be different.
 
 In many cases, scientists are not satisfied with estimating the effect of the instrument on Y, but are trying hard to estimate the effect of X itself, which is often
 more meaningful or more transportable to other situations. (See p. 261 for discussion of the effect of "intention to treat," and p. 363 for an example.)
-y (cid:1) bx (cid:3) e1
+y bx e1
 
-(cid:3) I, x (cid:1)
-ay (cid:3) e2,
+I, x ay e2,
 (p. 164). If we interpret "total effects" as the response of Y to a unit
 change of the instrument I, then LISREL's formula obtains: The effect of I on Y
-is b/(1 (cid:4) ab). However, if we adhere to the notion of "per unit change in X," we
-get back the do-formula: The effect of X on Y is b, not b/(1 (cid:4) ab), even though
+is b/(1 ab). However, if we adhere to the notion of "per unit change in X," we
+get back the do-formula: The effect of X on Y is b, not b/(1 ab), even though
 the manipulation is done through an instrument. In other words, we change I
 from 0 to 1 and observe the changes in X and in Y; if we divide the change in Y
-by the change in X, we get b, not b/(1 (cid:4) ab).
+by the change in X, we get b, not b/(1 ab).
 
 To summarize: Yes, additive manipulation is sometimes what we need to model, and
 it can be done in the do(x) framework using instrumental variables. We still need to
-
-Reflections, Elaborations, and Discussions with Readers
 
 distinguish, though, between the effect of the instrument and the effect of X. The former
 is not stable (p. 261), the latter is. Shpitser and Pearl (2009) provide a necessary and sufficient graphical condition for identifying the effect of the "add n to X" operator.
@@ -25952,12 +23740,11 @@ dependent on some other variable in the graph.
 
 Author's Reply:
 
-x (cid:2) f(paX)
+x f(paX)
 
 The method you are proposing,
-with
 to replace the current equation
-x (cid:2) g( f(paX), I, z),
+x g( f(paX), I, z),
 requires that we know the functional forms of f and g, as in linear
 systems or, alternatively, that the parents of X are observed, as in the Process Control
 example on page 74. These do not hold, however, in the non-parametric, partially
@@ -25967,9 +23754,9 @@ is identifiable while
 is not; each case must be analyzed on its own
 merits. It is important, therefore, to impose certain standards on this vast space of potential interventions, and focus attention on those that could illuminate others.
 
-P(y (cid:2) do(x (cid:2) g( f (paX), I, z)))
+P(y do(x g( f (paX), I, z)))
 
-P(y (cid:2) do(x))
+P(y do(x))
 
 Science thrives on standards, because standards serve (at least) two purposes: communication and theoretical focus. Mathematicians, for example, have decided that the
 derivative operator "dy/dx" is a nice standard for communicating information about
@@ -25988,13 +23775,11 @@ can be constructed. Again, the "do-operator" is the basis for defining this stan
 2. Theoretical focus: Many of the variants of manipulations can be reduced to
 "do," or to several applications of "do." Theoretical results established for "do"
 
-11.4 Policy Evaluation and the do-Operator
-
 are then applicable to those variants. Example: your "add n" manipulation is
 expressible as "do" on an instrument. Another example: questions of identification for expressions involving "do" are applicable to questions of identification
 for more sophisticated effects. On page 113, for example, we show that if the
 expression P(y ƒ do(x), z) is identifiable, then so also is the effect of conditional
-actions P(y ƒ do(x (cid:2) g(z) if Z (cid:2) z)). The same goes for many other theoretical
+actions P(y ƒ do(x g(z) if Z z)). The same goes for many other theoretical
 results in the book; they were developed for the "do"-operator, they borrow from
 each other, and they are applicable to many variants.
 
@@ -26030,14 +23815,10 @@ The purpose of the "hat" symbol in Definition 4.5.1 is not to stimulate thoughts
 possible ways of changing applicants' gender, but to remind us that any definition concerned with "effects" should focus on causal links and filter out spurious associations
 from the quantities defined. True,
 in the case of gender, one can safely replace
-P(y (cid:2) do( female))
-P(y (cid:2) female)
+P(y do( female))
+P(y female)
 , because the mechanism determining gender can
 safely be assumed to be independent of the background factors that influence Y (thus
-
-with
-
-Reflections, Elaborations, and Discussions with Readers
 
 ensuring no confounding). But as a general definition, and even as part of an instructive
 example, mathematical expressions concerned with direct effects and sex discrimination
@@ -26090,8 +23871,6 @@ changes in other variables in the system, some envisaged and some not."
 atomic semantics of the do(x) calculus even if we could envisage the variables
 that are affected by the policy.
 
-11.4 Policy Evaluation and the do-Operator
-
 Let us start with claim (2) – the easiest one to disprove. This objection is identical to
 the one discussed in Section 11.4.3, the answer to which was: "There is no way a model
 can predict the effect of an action unless one specifies correctly what variables in the
@@ -26141,8 +23920,6 @@ essential for the understanding of manipulations on positive numbers.
 The broad set of problems tackled (and solved) in this book testifies that, invariably,
 questions about interventions and experimentation, ideal as well as non-ideal, practical
 
-Reflections, Elaborations, and Discussions with Readers
-
 as well as epistemological, can be formulated precisely and managed systematically
 using the atomic intervention as a primitive notion.
 
@@ -26173,7 +23950,7 @@ of the central tricks for an engineer in designing a carburetor is to ensure tha
 the same physical design – for example, the design of the chamber – can underwrite or
 ensure a number of different causal connections that we need all at once.
 
-a(cid:5),
+a,
 
 Just look back at my diagrammatic equations, where we can see a large number of
 laws all of which depend on the same physical features – the geometry of the carburetor. So no one of these laws can be changed on its own. To change any one requires
@@ -26193,8 +23970,6 @@ symbolic operation which makes no claims about the physical means available to t
 experimenter, or about invisible connections that might exist between the mechanisms
 involved.
 
-11.4 Policy Evaluation and the do-Operator
-
 Symbolically, one can surely change one equation without altering others and proceed to define quantities that rest on such "atomic" changes. Whether the quantities
 defined in this manner correspond to changes that can be physically realized is a totally
 different question that can only be addressed once we have a formal description of the
@@ -26206,8 +23981,8 @@ Assume we have two objects under free-fall conditions. The respective accelerati
 
 a1 and a2, of the two objects are given by the equations:
 
-(cid:2) g
-(cid:2) g
+g
+g
 ,
 
 a1
@@ -26221,8 +23996,6 @@ appear to be nonmodular in Cartwright's sense; there is indeed no physical way o
 changing the gravitational force on one object without a corresponding change on the
 other. However, this does not mean that we cannot intervene on object 1 without touching object 2. Assume we grab object 1 and bring it to a stop. Mathematically, the intervention amounts to replacing equation (11.12) by
 
-(cid:2) 0
-
 a1
 
 (11.14)
@@ -26234,13 +24007,11 @@ equation (11.14) is a result of two forces:
 
 a1
 
-(cid:2) g (cid:4) f
+g f
 ,
 m1
 >
-f (cid:2) (cid:3)gm1,
-
-where
+f gm1,
 
 which is identical to (11.14).
 
@@ -26261,8 +24032,6 @@ ruthless invasion of statistical thinking in the early 1970s.
 
 More on the confusion in econometrics and the reluctance of modern-day econometricians to reinstate Haavelmo's wisdom is to be discussed in Section 11.5.4.
 
-Reflections, Elaborations, and Discussions with Readers
-
 11.5 CAUSAL ANALYSIS IN LINEAR STRUCTURAL MODELS
 
 11.5.1 General Criterion for Parameter Identification (Chapter 5, pp. 149–54)
@@ -26281,24 +24050,18 @@ Lemma 11.5.1 (Graphical identification of direct effects)
 in a causal graph G.
 Let c stand for the path coefficient assigned to the arrow
 Parameter c is identified if there exists a pair (W, Z), where W is a single node in G (not
-excluding W (cid:2) X), and Z is a (possibly empty) set of nodes in G, such that:
-
-X S Y
+excluding W X), and Z is a (possibly empty) set of nodes in G, such that:
 
 1. Z consists of nondescendants of Y,
 2. Z d-separates W from Y in the graph Gc formed by removing
 3. W and X are d-connected, given Z, in Gc.
 
-X S Y
-
 from G,
 
 Moreover, the estimand induced by the pair (W, Z) is given by:
 
-c (cid:2)
-
-coy(Y, W (cid:2) Z)
-coy(X, W (cid:2) Z)
+c coy(Y, W Z)
+coy(X, W Z)
 
 .
 
@@ -26347,13 +24110,13 @@ ordinary regression equations like
 
 X0
 
-(cid:2) a (cid:4) b1X1
+a b1X1
 
-(cid:4) b2X2
+b2X2
 
-(cid:4) b 3 X 3
+b 3 X 3
 
-(cid:4) e
+e
 
 for the effects of variables X1, X2, and X3 on variable X0. We can interpret the estimate
 of bi as the magnitude of the change in X0 that would be predicted to accompany a
@@ -26376,13 +24139,13 @@ equations like
 
 X0
 
-(cid:2) a (cid:4) b1X1
+a b1X1
 
-(cid:4) b2X2
+b2X2
 
-(cid:4) b 3 X3
+b 3 X3
 
-(cid:4) e
+e
 .
 
 (11.16)
@@ -26390,14 +24153,12 @@ X0
 If (11.16) is a regression equation, then b1 stands for the change in X0 that would be
 predicted to accompany a unit change in X1 in those situations where X2 and X3 remain
 
-Reflections, Elaborations, and Discussions with Readers
-
 constant at their original values. We formally express this interpretation using conditional expectations:
-(cid:2) E(X0 (cid:2) x1
+E(X0 x1
 #X2 X3
-(cid:2) RX0 X1
+RX0 X1
 
-(cid:4) 1, x2, x3) (cid:3) E(X0 (cid:2) x1, x2, x3)
+1, x2, x3) E(X0 x1, x2, x3)
 .
 
 (11.17)
@@ -26420,9 +24181,9 @@ Formally, these two modifications are expressed as:
 
 b1
 
-(cid:2) E(X0 (cid:2) do(x1
+E(X0 do(x1
 
-(cid:4) 1, x2, x3)) (cid:3) E(X0 (cid:2) do(x1, x2, x3))
+1, x2, x3)) E(X0 do(x1, x2, x3))
 .
 
 (11.18)
@@ -26432,15 +24193,15 @@ Leaving variables untouched permits those variables to vary (e.g., in response t
 increase in X1 or other influences), in which case the change in X0 would correspond to
 the total effect
 
-E(X0 (cid:2) do(x1
+E(X0 do(x1
 
-(cid:4) 1)) (cid:3) E(X0 (cid:2) do(x1))
+1)) E(X0 do(x1))
 
 or to the marginal conditional expectation
 
-E(X0 (cid:2) x1
+E(X0 x1
 
-(cid:4) 1) (cid:3) E(X0 (cid:2) x1),
+1) E(X0 x1),
 
 (11.19)
 
@@ -26462,8 +24223,6 @@ Question to Author:
 J. Wilson from Surrey, England, asked about ways of defending his Ph.D. thesis before
 examiners who do not approve of the causal interpretation of structural equation models
 (SEM). He complained about "the complete lack of emphasis in PhD programmes on
-
-11.5 Causal Analysis in Linear Structural Models
 
 x
 
@@ -26505,28 +24264,26 @@ SEM Survival Kit
 
 For simplicity, let us assume that the model in your thesis consists of just two-equations,
 
-y (cid:2) bx (cid:4) e1
-z (cid:2) cy (cid:4) e2
+y bx e1
+z cy e2
 ,
 
 (11.21)
 
 (11.22)
 
-with e2 uncorrelated with x. The associated diagram is given in .14. Let us further assume that the target of your thesis was to estimate parameter c, that you have estimated c satisfactorily to be c (cid:2) 0.78 using the best SEM methods, and that you have
+with e2 uncorrelated with x. The associated diagram is given in .14. Let us further assume that the target of your thesis was to estimate parameter c, that you have estimated c satisfactorily to be c 0.78 using the best SEM methods, and that you have
 given a causal interpretation to your finding.
 
 Now your nasty examiner, Dr. EX, arrives and questions your interpretation.
 Dr. EX: What do you mean by "c has a causal interpretation"?
 You: I mean that a unit change in y will bring about a c units change in E(Z).
 Dr. EX: The words "change" and "bring about" make me uncomfortable; let's be
-scientific. Do you mean E(Z ƒ y) (cid:2) cy (cid:4) a??? I can understand this last expression,
+scientific. Do you mean E(Z ƒ y) cy a??? I can understand this last expression,
 because the conditional expectation of Z given y, E(Z ƒ y), is well defined mathematically, and I know how to estimate it from data. But "change" and "bring about" is jargon to me.
 
 You: I actually mean "change," not "an increase in conditional expectation," and by
 "change" I mean the following: If we had the physical means of fixing y at some
-
-Reflections, Elaborations, and Discussions with Readers
 
 constant y1, and of changing that constant from y1 to y2, then the observed change in
 E(Z) would be c(y2 – y1).
@@ -26538,9 +24295,8 @@ Dr. EX: Well, well, aren't we getting a bit metaphysical here? I never heard abo
 You: Oh, sorry, I did not realize you have statistics background. In that case, let me
 rephrase my interpretation a bit, to read as follows: If we had the means of conducting
 a controlled randomized experiment, with y randomized, then if we set the control group
-to y1 and the experimental group to y2, the observed difference in E(Z) would be E(Z2) (cid:3)
-E(Z1) (cid:2) c(y2
-(cid:3) y1) regardless of what values y1 and y2 we choose. (Z1 and Z2 are the
+to y1 and the experimental group to y2, the observed difference in E(Z) would be E(Z2) E(Z1) c(y2
+y1) regardless of what values y1 and y2 we choose. (Z1 and Z2 are the
 measurements of z under the control and experimental groups, respectively.)14
 
 Dr. EX: That sounds much closer to what I can understand. But I am bothered by a
@@ -26575,29 +24331,25 @@ the population under various randomized experiments.
 Dr. EX: Wait a minute! Now that I begin to understand what your causal assumptions
 are, I am even more puzzled than before. If you allow yourself to make assumptions about
 the behavior of the population under randomized experiments, why go through the trouble of conducting a study? Why not make the assumption directly that in a randomized
-(cid:3) y1),
+y1),
 experiment, with y randomized, the observed difference in E(Z) should be
 just any convenient number, and save yourself agonizing months of data collecwith
 tion and analysis. He who believes your other untested assumptions should also believe
 your
 
-E(Z2) (cid:3) E(Z1) (cid:2) c(cid:5)(y2
+E(Z2) E(Z1) c(y2
 
 assumption.
 
-(cid:3) y1)
+y1)
 
-c(cid:5)(y2
+c(y2
 
-c(cid:5)
-
-14 Just in case Dr. EX asks: "Is that the only claim?" you should add: Moreover, I claim that the distribution of the random variable Z1 – cy1 will be the same as that of the variable Z2 – cy2.
-
-11.5 Causal Analysis in Linear Structural Models
+c14 Just in case Dr. EX asks: "Is that the only claim?" you should add: Moreover, I claim that the distribution of the random variable Z1 – cy1 will be the same as that of the variable Z2 – cy2.
 
 You: Not so, Dr. EX. The modeling assumptions with which my program begins are
-much milder than the assertion E(Z2) (cid:3) E(Z1) (cid:2) 0.78(y2
-(cid:3) y1) with which my study concludes. First, my modeling assumptions are qualitative, while my conclusion is quantitative, making a commitment to a specific value of c (cid:2) 0.78. Second, many researchers
+much milder than the assertion E(Z2) E(Z1) 0.78(y2
+y1) with which my study concludes. First, my modeling assumptions are qualitative, while my conclusion is quantitative, making a commitment to a specific value of c 0.78. Second, many researchers
 (including you, Dr. EX) would be prepared to accept my assumptions, not my conclusion,
 because the former conforms to commonsense understanding and general theoretical
 knowledge of how the world operates. Third, the majority of my assumptions can be
@@ -26626,15 +24378,15 @@ with b unknown
 x2 and x1, respectively.) Also, by excluding z from the equation, I assumed that the
 score z would not affect y, because z is not known at the time y is decided.
 
-E(Y2) (cid:3) E(Y1) (cid:2) b(x2
+E(Y2) E(Y1) b(x2
 
-(cid:3) x1),
+x1),
 
 2. Linearity and exclusion for z:
 
-E(Z2) (cid:3) E(Z1) (cid:2) c(y2
+E(Z2) E(Z1) c(y2
 
-(cid:3) y1)
+y1)
 
 for all x, with c
 
@@ -26644,8 +24396,8 @@ In addition, I made qualitative assumptions about unmeasured factors that govern
 nonexperimental conditions; I assumed that there are no common causes for x and z.
 
 Do you, Dr. EX, see any objection to any of these assumptions?
-Dr. EX: Well, I agree that these assumptions are milder than a blunt, unsupported declaration of your thesis conclusion, E(Z2) (cid:3) E(Z1) (cid:2) 0.78(y2
-(cid:3) y1), and I am somewhat
+Dr. EX: Well, I agree that these assumptions are milder than a blunt, unsupported declaration of your thesis conclusion, E(Z2) E(Z1) 0.78(y2
+y1), and I am somewhat
 amazed that such mild assumptions can support a daring prediction about the actual
 effect of homework on score (under experimental setup). But I am still unhappy with
 your common cause assumption. It seems to me that a teacher who emphasizes the
@@ -26656,8 +24408,6 @@ assumption.
 You: Dr. EX, now you begin to talk like an SEM researcher. Instead of attacking the
 method and its philosophy, we are beginning to discuss substantive issues – e.g., whether
 it is reasonable to assume that a teacher's effectiveness is uncorrelated with the weight
-
-Reflections, Elaborations, and Discussions with Readers
 
 x
 
@@ -26710,7 +24460,7 @@ to make are too weak to produce statistical implications. Such a conservative at
 should be commended, not condemned. Admittedly, I would be happy if my model
 were not saturated – say, if e1 and e2 were uncorrelated. But this is not the case at hand;
 common sense tells us that e1 and e2 are correlated, and it also shows in the data. I tried
-assuming coy(e1, e2) (cid:2) 0, and I got terrible fit. Am I going to make unwarranted
+assuming coy(e1, e2) 0, and I got terrible fit. Am I going to make unwarranted
 assumptions just to get my model "knighted" as "nonsaturated"? No! I would rather
 make reasonable assumptions, get useful conclusions, and report my results side by
 side with my assumptions.
@@ -26718,24 +24468,22 @@ side with my assumptions.
 Dr. EX: But suppose there is another saturated model, based on equally plausible
 assumptions, yet leading to a different value of c. Shouldn't you be concerned with the
 possibility that some of your initial assumptions are wrong, hence that your conclusion
-c (cid:2) 0.78 is wrong? There is nothing in the data that can help you prefer one model over
+c 0.78 is wrong? There is nothing in the data that can help you prefer one model over
 the other.
 
 You: I am concerned indeed, and, in fact, I can immediately enumerate the structures
 of all such competing models; the two models in .15 are examples, and many
 
-11.5 Causal Analysis in Linear Structural Models
-
 more. (This too can be done using the d-separation criterion; see pp. 145–8.) But note
 that the existence of competing models does not in any way weaken my earlier stated
 claim: "Researchers who accept the qualitative assumptions of model M are compelled
-to accept the conclusion c (cid:2) 0.78." This claim remains logically invincible. Moreover,
+to accept the conclusion c 0.78." This claim remains logically invincible. Moreover,
 the claim can be further refined by reporting the conclusions of each contending model,
 together with the assumptions underlying that model. The format of the conclusion will
 then read:
 
-If you accept assumption set A1, then c (cid:2) c1 is implied,
-If you accept assumption set A2, then c (cid:2) c2 is implied,
+If you accept assumption set A1, then c c1 is implied,
+If you accept assumption set A2, then c c2 is implied,
 
 and so on.
 
@@ -26763,7 +24511,7 @@ you explain your SEM strategy to a nonstatistician?
 
 You: I would use plain English and say: "If we have the physical means of fixing y
 at some constant y1, and of changing that constant from y1 to y2, then the observed
-(cid:3) y1)." Most people understand what "fixing" means,
+y1)." Most people understand what "fixing" means,
 change in E(Z) would be c(y2
 because this is on the mind of policy makers. For example, a teacher interested in the
 effect of homework on performance does not think in terms of randomizing homework.
@@ -26771,12 +24519,10 @@ Randomization is merely an indirect means for predicting the effect of fixing.
 
 Actually, if the person I am talking to is really enlightened (and many statisticians
 are), I might even resort to counterfactual vocabulary and say, for example, that a student who scored z on the exam after spending y hours on homework would have scored
-z (cid:4) c had he/she spent y (cid:4) 1 hours on homework. To be honest, this is what I truly had
-in mind when writing the equation z (cid:2) cy (cid:4) e2, where e2 stood for all other characteristics of the student that were not given variable names in our model and that are not
+z c had he/she spent y 1 hours on homework. To be honest, this is what I truly had
+in mind when writing the equation z cy e2, where e2 stood for all other characteristics of the student that were not given variable names in our model and that are not
 affected by y. I did not even think about E(Z), only about z of a typical student.
 Counterfactuals are the most precise linguistic tool we have for expressing the meaning
-
-Reflections, Elaborations, and Discussions with Readers
 
 of scientific relations. But I refrain from mentioning counterfactuals when I talk to statisticians because, and this is regrettable, statisticians tend to suspect deterministic concepts,
 or concepts that are not immediately testable, and counterfactuals are such concepts
@@ -26826,8 +24572,6 @@ which readers can easily reapply to deconstruct Heckman's arguments. It is impor
 reemphasize, though, that, as in the case of Cartwright, these objections emanate from
 conflating the task of definition (of counterfactuals) with those of identification and
 
-11.5 Causal Analysis in Linear Structural Models
-
 practical estimation, a frequent confusion among researchers which Heckman (2005)
 sternly warns readers to avoid.
 
@@ -26850,7 +24594,7 @@ difficult to decipher. The following is my extrapolation of HV's definition as i
 to multi-equations and nonlinear systems.
 
 Given a system of equations:
-(cid:2) fi (Y, X, U) i (cid:2) 1, 2, p , n
+fi (Y, X, U) i 1, 2, p , n
 ,
 
 Yi
@@ -26865,7 +24609,7 @@ If Xt appears in any other equation as well, consider excluding it from that equ
 
 3. Solve for the reduced form
 
-(cid:2) gi(X, U) i (cid:2) 1, 2, p , n
+gi(X, U) i 1, 2, p , n
 
 Yi
 of the resulting system of equations.
@@ -26873,7 +24617,7 @@ of the resulting system of equations.
 4. The causal effect of Yj on Yk is given by the partial derivative:
 .
 
-(cid:2) dgk>
+dgk>
 
 dXt : dgj>
 
@@ -26888,58 +24632,56 @@ dYj
 (11.24)
 
 Example 11.5.2 Consider a system of three equations:
-(cid:4) eX (cid:4) U1
+eX U1
 
 Y1
 Y2
 Y3
 
-(cid:2) aY2
-(cid:2) bY1
-(cid:2) dY1
+aY2
+bY1
+dY1
 
-(cid:4) cY3
-(cid:4) X (cid:4) U2
-(cid:4) U3
+cY3
+X U2
+U3
 .
 
-15 It is not clear what conditions (if any) would forbid one from setting e (cid:2) 0, in example 11.5.2,
+15 It is not clear what conditions (if any) would forbid one from setting e 0, in example 11.5.2,
 or ignoring X altogether and adding a dummy variable
 to the second equation. HV give the
 impression that deciding on whether e can be set to 0 requires deep understanding of the problem
 at hand; if this is their intention, it need not be.
 
-X(cid:5)
-
-Reflections, Elaborations, and Discussions with Readers
+XReflections, Elaborations, and Discussions with Readers
 
 Needed: the causal effect of Y2 on Y1.
 
 The system has one external variable, X, which appears in the first two equations. If
-we can set e (cid:2) 0, x will appear in the equation of Y2 only, and we can then proceed to
+we can set e 0, x will appear in the equation of Y2 only, and we can then proceed to
 Step 3 of the "external variation" procedure. The reduced form of the modified model
 yields:
 
 dY1>
 
-dX (cid:2) a
+dX a
 
-(1 (cid:3) ba (cid:3) cd)
+(1 ba cd)
 >
 
 dY2>
 
-(1 (cid:3) ab (cid:3) cd)
-dX (cid:2) (1 (cid:3) cd)
+(1 ab cd)
+dX (1 cd)
 ,
 >
 
 and the causal effect of Y1 on Y2 calculates to:
-(1 (cid:3) cd)
+(1 cd)
 .
 >
 
-(cid:2) a
+a
 
 dY2
 
@@ -26952,15 +24694,15 @@ Y1
 Y2
 Y3
 
-(cid:2) aY2
-(cid:2) y2
-(cid:2) dY1
+aY2
+y2
+dY1
 
-(cid:4) cY3
+cY3
 
-(cid:4) eX (cid:4) U1
+eX U1
 
-(cid:4) U3
+U3
 ,
 
 from which we obtain for the causal effect of Y2 on Y1;
@@ -26969,9 +24711,9 @@ dY1>
 
 dy2
 
-(cid:2) a
+a
 
-(1 (cid:3) cd)
+(1 cd)
 ,
 >
 
@@ -27008,8 +24750,6 @@ cause–effect relationships has its roots in the literature on identification (
 as in the studies of "instrumental variables") when such variables act as
 "nature's experiments." This restriction, however, is unjustified in the context
 
-11.5 Causal Analysis in Linear Structural Models
-
 of defining causal effect, since "causal effects" are meant to quantify effects
 produced by new external manipulations, not necessarily those shown explicitly
 in the model and not necessarily those operating in the data-gathering phase of
@@ -27019,27 +24759,27 @@ surgery.
 
 Indeed, most policy evaluation tasks are concerned with new external manipulations which exercise direct control over endogenous variables. Take, for
 example, a manufacturer deciding whether to double the current price of a given
-product after years of letting the price track the cost, i.e., price (cid:2) f(cost). Such
-a decision amounts to removing the equation price (cid:2) f(cost) from the model at
+product after years of letting the price track the cost, i.e., price f(cost). Such
+a decision amounts to removing the equation price f(cost) from the model at
 hand (i.e., the one responsible for the available data) and replacing it with a constant equal to the new price. This removal emulates faithfully the decision under
 evaluation, and attempts to circumvent it by appealing to "external variables" are
 artificial and hardly helpful.
 
 As another example, consider the well-studied problem (Heckman 1992) of evaluating the impact of terminating an educational program for which students are
-admitted based on a set of qualifications. The equation admission (cid:2) f (qualifications) will no longer hold under program termination, and no external variable can
-simulate the new condition (i.e., admission (cid:2) 0) save for one that actually neutralizes (or "ignores," or "shuts down") the equation admission (cid:2) f (qualifications).
+admitted based on a set of qualifications. The equation admission f (qualifications) will no longer hold under program termination, and no external variable can
+simulate the new condition (i.e., admission 0) save for one that actually neutralizes (or "ignores," or "shuts down") the equation admission f (qualifications).
 It is also interesting to note that the method used in Haavelmo (1943) to define
 causal effects is mathematically equivalent to surgery, not to external variation.
-(cid:2) yj, as would be
+yj, as would be
 Instead of replacing the equation Yj
-(cid:2) fj (Y, X, U) (cid:4) xj, where Xj is chosen
+fj (Y, X, U) xj, where Xj is chosen
 required by surgery, Haavelmo writes Yj
-(cid:2) yj. Thus, since Xj liberates Yj from any residual
+yj. Thus, since Xj liberates Yj from any residual
 so as to make Yj constant, Yj
 influence of fj (Y, X, U), Haavelmo's method is equivalent to that of surgery.
 Heckman's method of external variation leaves Yj under the influence fj.
 
-(cid:2) fj(Y, X, U) with Yj
+fj(Y, X, U) with Yj
 
 3. Definitions based on external variation have the obvious flaw that the target
 equation may not contain any observable external variable. In fact, in many
@@ -27056,8 +24796,6 @@ to define causal effects in a manner similar to the steps in equations (11.23) a
 (11.24) (assuming continuous variables). This brings us closer to surgery, with
 the one basic difference of leaving Yj under the influence of fj (Y, X, U).
 
-Reflections, Elaborations, and Discussions with Readers
-
 Having argued that definitions based on "external variation" are conceptually illmotivated, we now explore whether they can handle noncausal systems of equations.
 
 Equation Ambiguity in Noncausal Systems
@@ -27072,9 +24810,9 @@ resource constraints; they impose equality between the two sides of the equation
 endow the variable on the left-hand side with the special status of an "outcome" variable.
 The presence of nondirectional equations creates ambiguity in the surgical definition
 of the counterfactual Yx, which calls for replacing the equation determining X with the
-constant equation X (cid:2) x. If X appears in several equations, and if the position of X in the
+constant equation X x. If X appears in several equations, and if the position of X in the
 equation is arbitrary, then each one of those equations would be equally qualified for
-replacement by X (cid:2) x, and the value of Yx (i.e., the solution for Y after replacement)
+replacement by X x, and the value of Yx (i.e., the solution for Y after replacement)
 would be ambiguous.
 
 Note that symmetrical equalities differ structurally from reciprocal causation in
@@ -27091,25 +24829,25 @@ variable to exclude from which equation to get the right causal effect.
 For example: Consider a nonrecursive system of two equations that is discussed in
 
 HV, p. 75:
-(cid:2) a1
-(cid:2) a2
+a1
+a2
 
 Y2
 
 Y1
 
-(cid:4) c12Y2
-(cid:4) c21Y1
+c12Y2
+c21Y1
 
-(cid:4) b11X1
-(cid:4) b21X1
+b11X1
+b21X1
 Suppose we move Y1 to the l.h.s. of (11.26) and get:
 
-(cid:4) b12 X2
-(cid:4) b22 X2
+b12 X2
+b22 X2
 
-(cid:4) U1
-(cid:4) U2
+U1
+U2
 .
 
 (11.25)
@@ -27118,15 +24856,15 @@ Suppose we move Y1 to the l.h.s. of (11.26) and get:
 
 Y1
 
-(cid:3) Y2
+Y2
 
-(cid:2) [a2
+[a2
 
-(cid:4) b21X1
+b21X1
 
-(cid:4) b22 X2
+b22 X2
 
-(cid:4) U2]
+U2]
 c21
 >
 To define the causal effect of Y1 on Y2, we now have a choice of excluding X2 from
@@ -27139,8 +24877,6 @@ choosing an equation and an external variable for exclusion.
 .
 
 Methods of breaking this ambiguity were proposed by Simon (1953) and are discussed on pages 226–8.
-
-11.5 Causal Analysis in Linear Structural Models
 
 Summary – Economic Modeling Reinvigorated
 
@@ -27187,8 +24923,6 @@ a theorem in the other, and vice versa. Economists will do well resurrecting the
 is almost disjoint from those of economists Angrist (2004) and Imbens (2004) – the cleavage is
 culturally deep.
 
-Reflections, Elaborations, and Discussions with Readers
-
 ideas of Haavelmo (1943), Marschak (1950), and Strotz and Wold (1960) and reinvigorating them with the logic of graphs and counterfactuals presented in this book.
 
 For completeness, I reiterate here explicitly (using parenthetical notation) the two
@@ -27197,16 +24931,16 @@ fundamental connections between counterfactuals and structural equations.
 
 1. The structural definition of counterfactuals is:
 
-YM(x, u) (cid:2) YMx
+YM(x, u) YMx
 
 (u).
 
 Read: For any model M and background information u, the counterfactual conditional "Y if X had been x" is given by the solution for Y in submodel Mx (i.e.,
-the mutilated version of M with the equation determining X replaced by X (cid:2) x).
+the mutilated version of M with the equation determining X replaced by X x).
 
-2. The empirical claim of the structural equation y (cid:2) f (x, e(u)) is:
+2. The empirical claim of the structural equation y f (x, e(u)) is:
 
-Y (x, z, u) (cid:2) f (x, e(u)),
+Y (x, z, u) f (x, e(u)),
 
 for any set Z not intersecting X or Y.
 
@@ -27235,7 +24969,7 @@ years, but, to the best of my knowledge, it has not dealt seriously with the pro
 above: "What information do we use to guide us into setting up the correct decision tree?"
 We agree that giving a robot the frequency tables alone would not be sufficient for
 the task. But what else would Mr. Robot (or a statistician) need? Changing the story
-from F (cid:2) "female" to F (cid:2) "blood pressure" seems to be enough for people, because
+from F "female" to F "blood pressure" seems to be enough for people, because
 people understand informally the distinct roles that gender and blood pressure play in the
 scheme of things. Can we characterize these roles formally, so that our robot would be
 able to construct the correct decision tree?
@@ -27243,21 +24977,11 @@ able to construct the correct decision tree?
 My proposal: give the robot (or a statistician or a decision-tree expert) a pair (T, G),
 where T is the set of frequency tables and G is a causal graph, and, lo and behold, the
 
-11.6 Decisions and Confounding (Chapter 6)
-
 Male
 0.5
 
 Female
 0.5
-
-C
-
-C
-
-C
-
-C
 
 E
 0.6
@@ -27296,24 +25020,19 @@ E
 
 0.35
 
-.16(a) Decision tree corresponding to .17(a). Given Male, (cid:3)C is better than C
-(0.35 (cid:7) 0.3).
-Given Female, (cid:3)C is also better
+.16(a) Decision tree corresponding to .17(a). Given Male, C is better than C
+(0.35 0.3).
+Given Female, C is also better
 Unconditionally, with any probability
-C (0.35p (cid:4) 0.15(1 (cid:3) p) (cid:7) 0.3p (cid:2)
-p for Male and 1 (cid:3) p for Female, again, (cid:3)C is better than
-0.1(1 (cid:3) p))
+C (0.35p 0.15(1 p) 0.3p p for Male and 1 p for Female, again, C is better than
+0.1(1 p))
 
-(0.15 (cid:7) 0.1).
+(0.15 0.1).
 
 .
 
-C
-
 HBP
 0.25
-
-C
 
 −HBP
 0.25
@@ -27362,15 +25081,11 @@ E
 .16(b) Decision tree corresponding to .17(b). The tree can be compressed as
 shown in .16(c).
 
-C
-
 E
 0.5
 
 E
 0.5
-
-C
 
 E
 0.4
@@ -27378,17 +25093,15 @@ E
 E
 0.6
 
-.16(c) Compressed decision tree. Obviously, C is better than (cid:3)C (since
+.16(c) Compressed decision tree. Obviously, C is better than C (since
 
-0.5 (cid:7) 0.4)
+0.5 0.4)
 .
 
 robot would be able to set up the correct decision tree automatically. This is what I mean
 in saying that the resolution of the paradox lies in causal considerations. Moreover, one
 can go further and argue: "If the information in (T, G) is sufficient, why not skip the construction of a decision tree altogether, and get the right answer directly from (T, G)?"
 This is the gist of Chapters 3–4 in this book. Can the rich literature on decision analysis
-
-Reflections, Elaborations, and Discussions with Readers
 
 benefit from the more economical encoding of decision problems in the syntax of (T,
 G)? The introduction of influence diagrams (Howard and Matheson 1981; Pearl 2005)
@@ -27435,22 +25148,14 @@ occurs before C), yet (c) calls for a different decision tree (and yields a diff
 conclusion), because the dependence between F and Y is "causal" in (a) and
 associational in (c). Thus, causal considerations must supplement chronological
 
-11.6 Decisions and Confounding (Chapter 6)
-
 Treatment
 
-C
-
 Treatment
-
-C
 
 F
 Gender
 
 Treatment
-
-C
 
 F
 
@@ -27458,8 +25163,6 @@ Blood
 pressure
 
 F
-
-C
 
 F
 
@@ -27491,20 +25194,20 @@ The program is given the empirical frequency tables and is allowed to ask us
 questions about chronological and dependence relationships among C, E, and F,
 but is not allowed to use any causal vocabulary. Would the program be able to
 distinguish between (a) and (c)? The answer is: No. If one ignores causal considerations and attends, as you suggest, to chronological and dependence information alone, then the decision tree constructed for .17(c) would be
-identical to the one drawn for F (cid:2) gender (.16(a)), and the wrong conclusion would ensue, namely, that the drug (C) is harmful for both F (cid:2) true and
-F (cid:2) false patients. This is wrong, because the correct answer is that the drug is
+identical to the one drawn for F gender (.16(a)), and the wrong conclusion would ensue, namely, that the drug (C) is harmful for both F true and
+F false patients. This is wrong, because the correct answer is that the drug is
 beneficial to the population as a whole (as in the blood pressure example), hence
-it must be beneficial for either F (cid:2) true or F (cid:2) false patients (or both). The decision tree hides this information and yields the wrong results.
+it must be beneficial for either F true or F false patients (or both). The decision tree hides this information and yields the wrong results.
 
-P(E (cid:2) C, ¬ F) (cid:2) 0.6
+P(E C, ¬ F) 0.6
 
 The error stems from attributing the wrong probabilities to the branches of the
 decision tree. For example, the leftmost branch in the tree is assigned a probability
 , which is wrong; the correct probability should be
-P(E (cid:2) do(C), ¬ F)
+P(E do(C), ¬ F)
 , which, in the case of .17(c), cannot be determined
-from the graph and the tables. We do know, however, that P(E ƒ do(C)) (cid:2) 0.5 and
-P(E (cid:2) do( ¬ C)) (cid:2) 0.4,
+from the graph and the tables. We do know, however, that P(E ƒ do(C)) 0.5 and
+P(E do( ¬ C)) 0.4,
 so either equation (6.4) or equation (6.5) must be violated.
 The conventional wisdom in decision analysis is to assign the tree branches conditional probabilities of the type P(E ƒ action, Z), where Z is the information available
 at decision time. Practitioners should be warned against following this convention
@@ -27519,8 +25222,6 @@ I do not agree that in order to define precisely what causal graphs mean, we mus
 no decision trees (at least not explicitly). Thus, a causal graph has meaning of its
 own, independent of the many decision trees that the graph may help us construct. By analogy, it would be awkward (though not mathematically wrong) to
 
-Reflections, Elaborations, and Discussions with Readers
-
 say that the meaning of a differential equation (say, for particle motion) lies in
 the set of trajectories that obey that equation; the meaning of each term in a differential equation can be defined precisely, from first principles, without having
 a clue about the solution to the equation.
@@ -27529,7 +25230,7 @@ a clue about the solution to the equation.
 Question to Author (from Dennis Lindley):
 
 If your assumption, that controlling X at x is equivalent to removing the function for X
-and putting X (cid:2) x elsewhere, is applicable, then it makes sense. What I do not understand at the moment is the relevance of this to decision trees. At a decision node, one
+and putting X x elsewhere, is applicable, then it makes sense. What I do not understand at the moment is the relevance of this to decision trees. At a decision node, one
 conditions on the quantities known at the time of the decision. At a random node, one
 includes all relevant uncertain quantities under known conditions. Nothing more than the
 joint distributions (and utility considerations) are needed. For example, in the medical
@@ -27563,8 +25264,6 @@ for deriving this assessment from the tabulated belief summaries, hence, we cann
 "causal" information and you choose to call "exchangeability" – I would not quarrel about
 nomenclature except to note that, if we trust human beings to provide us with reliable information, we should also respect the vocabulary in which they cast that information, and,
 much to the disappointment of prudent academics, that vocabulary is unmistakably causal.
-
-11.6 Decisions and Confounding (Chapter 6)
 
 Update Question to Author:
 
@@ -27613,8 +25312,6 @@ experiment while the latter involves the mental envisioning of passive observati
 minor significance, because Bayesians are preoccupied with the distinction between
 probability as belief and probability as frequency.
 
-Reflections, Elaborations, and Discussions with Readers
-
 This preoccupation renders them less sensitive to the fact that beliefs come from
 a variety of sources and that it is important to distinguish beliefs about outcomes of
 experiments from beliefs about outcomes of passive observations (Pearl 2001a,
@@ -27655,16 +25352,14 @@ whimsical, and that compel beliefs to conform to the calculus of probability.
 
 We can ask the Bayesian philosopher to tell us whether judgments about joint probabilities, say P(x, y), should in some way cohere with judgments about decision-based
 probabilities, say P(y ƒ do(x)), which quantify the branch emanating from a decision node
-do(X (cid:2) x(cid:5)).
-with two alternatives do(X (cid:2) x) and
+do(X x).
+with two alternatives do(X x) and
 We can then ask the Bayesian whether
 these probabilities should bear any connection to the usual conditional probabilities,
-P(y ƒ x), namely, the probability assessed for outcome Y (cid:2) y that emanates (in some
-other decision tree) from a chance event X (cid:2) x.
+P(y ƒ x), namely, the probability assessed for outcome Y y that emanates (in some
+other decision tree) from a chance event X x.
 
-11.6 Decisions and Confounding (Chapter 6)
-
-P(y (cid:2) do(x)) (cid:8) P(y, x)
+P(y do(x)) P(y, x)
 
 It should not be too hard to convince our Bayesian that these two assessments
 could not be totally arbitrary, but must obey some restrictions of coherence. For examshould be obeyed for all events x and y.17
@@ -27715,9 +25410,7 @@ dictates:
 causal graph is known, the conditions of Definition 1.3.1 constitute a complete characterization
 of all coherence requirements.
 
-P(y (cid:2) do(x, z)) (cid:3) P(y, x (cid:2) do(z)) (cid:3) P(y, z (cid:2) do(x)) (cid:4) P(x, y, z) (cid:8) 0
-
-Reflections, Elaborations, and Discussions with Readers
+P(y do(x, z)) P(y, x do(z)) P(y, z do(x)) P(x, y, z) 0
 
 Author's Response:
 
@@ -27780,7 +25473,7 @@ the usual analysis fails."
 11.7 THE CALCULUS OF COUNTERFACTUALS
 
 11.7.1 Counterfactuals in Linear Systems
-(cid:2) y ƒ e) may or may
+y ƒ e) may or may
 We know that, in general, counterfactual queries of the form P(Yx
 not be empirically identifiable, even in experimental studies. For example, the probabil-
 , is in general not identifiable from either observaity of causation,
@@ -27788,9 +25481,7 @@ tional or experimental studies (p. 290, Corollary 9.2.12). The question we addre
 section is whether the assumption of linearity renders counterfactual assertions more
 empirically grounded. The answer is positive:
 
-(cid:2) y (cid:2) x(cid:5), y(cid:5))
-
-P(Yx
+y x, y)
 
 Claim A. Any counterfactual query of the form E(Yx
 
@@ -27807,13 +25498,12 @@ Claim C. E(Yx
 
 E(Yx
 
-e) (cid:2) E(Y (cid:2) e) (cid:4) T [x (cid:3) E(X (cid:2) e)]
-(cid:2)
+e) E(Y e) T [x E(X e)]
 ,
 where T is the total effect coefficient of X on Y, i.e.,
 
-dx (cid:2) E(Y (cid:2) do(x (cid:4) 1)) (cid:3) E(Y (cid:2) do(x))
-T (cid:2) dE[Yx]
+dx E(Y do(x 1)) E(Y do(x))
+T dE[Yx]
 .
 >
 
@@ -27840,17 +25530,11 @@ Claim C offers an intuitively compelling interpretation of E(Yx
 thetical assumption that X were x, rather than its current value), first calculate the best
 estimate of Y conditioned on the evidence e, E(Y ƒ e), then add to it whatever change is
 expected in Y when X undergoes a forced transition from its current best estimate,
-E(X ƒ e), to its hypothetical value X (cid:2) x. That last addition is none other than the effect
-coefficient T times the expected change in X, i.e., T [x (cid:3) E(X ƒ e)].
-
-Reflections, Elaborations, and Discussions with Readers
+E(X ƒ e), to its hypothetical value X x. That last addition is none other than the effect
+coefficient T times the expected change in X, i.e., T [x E(X ƒ e)].
 
 Note: Equation (11.28) can also be written in do(x) notation as
-e) (cid:2) E(Y (cid:2) e) (cid:4) E(Y (cid:2) do(x)) (cid:3) E(cid:4)Y (cid:2) do(X (cid:2) E(X (cid:2) e))(cid:5)
-(cid:2)
-.
-
-E(Yx
+e) E(Y e) E(Y do(x)) EY do(X E(X e)).
 
 (11.30)
 
@@ -27862,7 +25546,7 @@ Assume, without loss of generality, that we are dealing with a zero-mean model.
 
 Since the model is linear, we can write the relation between X and Y as:
 
-Y (cid:2) TX (cid:4) I (cid:4) U
+Y TX I U
 
 ,
 
@@ -27879,7 +25563,7 @@ the path costs originating from X and ending in Y (Wright 1921).
 
 From (11.31) we can write:
 
-(cid:2) Tx (cid:4) I (cid:4) U
+Tx I U
 
 ,
 
@@ -27887,12 +25571,9 @@ Yx
 
 (11.32)
 
-since I and U are not affected by the hypothetical change from X (cid:2) x, and, moreover,
+since I and U are not affected by the hypothetical change from X x, and, moreover,
 
-E(Yx
-
-e) (cid:2) Tx (cid:4) E(I (cid:4) U (cid:2) e)
-(cid:2)
+e) Tx E(I U e)
 ,
 
 since x is a constant.
@@ -27903,15 +25584,12 @@ The last term in (11.33) can be evaluated by taking expectations on both sides o
 
 (11.31), giving:
 
-E(I (cid:4) U (cid:2) e) (cid:2) E(Y (cid:2) e) (cid:3) TE(X (cid:2) e)
+E(I U e) E(Y e) TE(X e)
 ,
 
 which, substituted into (11.33), yields
-e) (cid:2) Tx (cid:4) E(Y (cid:2) e) (cid:3) E(X (cid:2) e)
-(cid:2)
+e) Tx E(Y e) E(X e)
 and proves our target formula (11.28).
-
-E(Yx
 
 Three special cases of e are worth noting:
 
@@ -27924,14 +25602,9 @@ n
 Example 11.7.1 e :
 sation, Chapter 9). From (11.28) we obtain directly
 
-X (cid:2) x(cid:5), Y (cid:2) y(cid:5)
+X x, Y y(the linear equivalent of the probability of cau-
 
-(the linear equivalent of the probability of cau-
-
-E(Yx
-
-Y (cid:2) y(cid:5), X (cid:2) x(cid:5)) (cid:2) y(cid:5) (cid:4) T(x (cid:3) x(cid:5))
-(cid:2)
+Y y, X x) yT(x x)
 .
 
 This is intuitively compelling. The hypothetical expectation of Y is simply the
@@ -27940,22 +25613,16 @@ observed value,
 
 plus the anticipated change in Y due to the change
 
-x (cid:3) x(cid:5)
-
-y(cid:5),
+x xy,
 
 Example 11.7.2 e :
 
-X (cid:2) x(cid:5)
-X (cid:2) x(cid:5)) (cid:2) E(Y (cid:2) x(cid:5)) (cid:4) T(x (cid:3) x(cid:5))
-(cid:2)
-
-E(Yx
+X xX x) E(Y x) T(x x)
 
 (the effect of treatment on the treated, Chapter 8.2.5).
 
-(cid:2) rx(cid:5) (cid:4) T(x (cid:3) x(cid:5))
-(cid:2) rx(cid:5) (cid:4) E(Y (cid:2) do(x)) (cid:3) E(Y (cid:2) do(x(cid:5)))
+rxT(x x)
+rxE(Y do(x)) E(Y do(x))
 ,
 
 (11.36)
@@ -27965,67 +25632,52 @@ where r is the regression coefficient of Y on X.
 11.7 The Calculus of Counterfactuals
 
 Example 11.7.3 e :
-Y (cid:1) y(cid:2)
+Y yif we were to mandate x hours of training each month).
 
-if we were to mandate x hours of training each month).
+Y y(e.g., the expected income Y of those who currently earn
 
-Y (cid:1) y(cid:2)
-
-(e.g., the expected income Y of those who currently earn
-
-E(Yx (cid:1)
-
-Y (cid:1) y(cid:2)) (cid:1) y(cid:2) (cid:3) T (cid:2)x (cid:4) E(X (cid:1) y(cid:2))(cid:3)
-
-(cid:1) y(cid:2) (cid:3) E(Y (cid:1) do(x)) (cid:4) E (cid:2)Y (cid:1) do(X (cid:1) r(cid:2)y(cid:2))(cid:3)
-
-,
+E(Yx Y y) yT x E(X y)yE(Y do(x)) E Y do(X ry),
 
 (11.37)
 
-where
-
-r(cid:2)
-
-is the regression coefficient of X on Y.
+ris the regression coefficient of X on Y.
 
 Example 11.7.4 Consider the nonrecursive price-demand model of p. 215, equations (7.9)–(7.10):
 
-q (cid:1) b1p (cid:3) d1i (cid:3) u1
-p (cid:1) b2q (cid:3) d2w (cid:3) u2
+q b1p d1i u1
+p b2q d2w u2
 
 .
 
 (11.38)
-Our counterfactual problem (p. 216) reads: Given that the current price is P (cid:1) p0,
+Our counterfactual problem (p. 216) reads: Given that the current price is P p0,
 what would be the expected value of the demand Q if we were to control the price at
-P (cid:1) p1?
+P p1?
 
-Making the correspondence P (cid:1) X, Q (cid:1) Y, e (cid:1)
-, we see that this problem
-is identical to Example 11.7.2 above (effect of treatment on the treated), subject to conditioning on i and w. Hence, since T (cid:1) b1, we can immediately write
+Making the correspondence P X, Q Y, e , we see that this problem
+is identical to Example 11.7.2 above (effect of treatment on the treated), subject to conditioning on i and w. Hence, since T b1, we can immediately write
 
-P (cid:1) p0, i, w
+P p0, i, w
 
 E(Qp1
 
-(cid:1) p0, i, w) (cid:1) E(Y (cid:1) p0, i, w) (cid:3) b1( p1
+p0, i, w) E(Y p0, i, w) b1( p1
 
-(cid:4) p0)
+p0)
 
-(cid:1) rpp0
+rpp0
 
 (11.39)
 where rp, ri, and rw are the coefficients of P, i and w, respectively, in the regression of Q
 on P, i, and w.
 
-(cid:3) ri i (cid:3) rww (cid:3) b1(p1
+ri i rww b1(p1
 
-(cid:4) p0)
+p0)
 ,
 
 Equation (11.39) replaces equation (7.17) on page 217. Note that the parameters of the
-price equation, p (cid:1) b2q (cid:3) d2w (cid:3) u2, enter (11.39) only via the regression coefficients.
+price equation, p b2q d2w u2, enter (11.39) only via the regression coefficients.
 Thus, they need not be calculated explicitly in cases where they are estimated directly by
 least square.
 
@@ -28041,7 +25693,7 @@ constant-effect model, i.e.,
 
 Yx1
 
-(u) (cid:4) Yx2
+(u) Yx2
 
 ƒ e) is empirically identifiable in every
 
@@ -28059,8 +25711,6 @@ so let me tackle these separately:
 
 1. Legal questions of responsibility. From your text, I infer that the American
 legal system says that a defendant is guilty if he or she caused the plaintiff's
-
-Reflections, Elaborations, and Discussions with Readers
 
 misfortune. But in my mind, the law is clearly flawed. Responsibility should
 rest with the predicted outcome of the defendant's action, not with what actually happened. A doctor should not be held responsible if he administers, for a
@@ -28115,19 +25765,18 @@ is P( future ƒ do(action), see(context))."
 The problem is that, to make this prediction properly, we need a sequential, timeindexed model, where "future" variables are clearly distinct from the "context"
 variables. Often, however, we are given only a static model, in which the "context" variable are shown as consequences of the "action," and then using the
 expression P(y ƒ do(x), z) would be inappropriate; it represents the probability of
-Y (cid:2) y given that we do X (cid:2) x and later observe Z (cid:2) z, while what is needed is
-the probability of Y (cid:2) y given that we first observe Z (cid:2) z and then do
-X (cid:2) x. Counterfactuals give us a way of expressing the desired probability, by
+Y y given that we do X x and later observe Z z, while what is needed is
+the probability of Y y given that we first observe Z z and then do
+X x. Counterfactuals give us a way of expressing the desired probability, by
 writing
 
-(cid:2)
-P (cid:2) P(yx
+P P(yx
 
 z),
 
-which stands for the probability that Y (cid:2) y would occur had X been x, given that
-ƒ z) (cid:2) P(y ƒ do(x), z) if Z is a non-
-Z (cid:2) z is currently observed. Note that P (cid:2) P(yx
+which stands for the probability that Y y would occur had X been x, given that
+ƒ z) P(y ƒ do(x), z) if Z is a non-
+Z z is currently observed. Note that P P(yx
 descendant of X in the static model.
 
 X S Y S Z.
@@ -28140,8 +25789,7 @@ model M and assign each time slot ti, a model Mi, showing the relationships amon
 as well as to previous variables, then compute P(y(t3) ƒ do(x(t2)),
 X(ti), Y(ti), Z(ti)
 z(t1)). But we can do it much better in the static model, using the counterfactuals
-(cid:2) y ƒ z). The static model saves us miles and miles of drawing the sequential
-P(Yx
+y ƒ z). The static model saves us miles and miles of drawing the sequential
 model equivalent, and counterfactuals enable us to take advantage of this savings.
 It is an admirable invention. One can argue, of course, that if counterfactual claims
 are merely "conversational shorthand" (p. 118) for scientific predictions in the
@@ -28165,10 +25813,6 @@ our model, so "causes of events" may be a useful way of registering our experien
 Question to Author:
 
 I am trying to generalize the twin network method of .3 to cases where counterfactuals involve more than two possible worlds. Consider the causal model X S Z S Y,
-
-Reflections, Elaborations, and Discussions with Readers
-
-X
 
 Z
 
@@ -28202,8 +25846,6 @@ W
 
 U2
 
-X
-
 U4
 
 Y
@@ -28213,24 +25855,24 @@ Y
 .19 Graph in which
 the equality Wx*
 
-(cid:2) W.
+W.
 
-Yxz (cid:2)(cid:2) Zx*
+Yxz Zx*
 
-(cid:2) W
+W
 
 holds by virtue of
 
 and assume we wish to test whether the assertion
 
-Yx (cid:2)(cid:2) X (cid:2) Yz, Zx, Y
+Yx X Yz, Zx, Y
 
 (11.40)
 
 is true in the model. I would naively construct the following "triple network":
 
 The left part corresponds to a world in which no intervention is imposed; the middle
-part to a world in which do(X (cid:2) x) is imposed; and in the right part, do(Z (cid:2) z) is
+part to a world in which do(X x) is imposed; and in the right part, do(Z z) is
 imposed. In this network (11.40) does not follow from d-separation, since the path from
 Yx to X is open by conditioning on Y. Is there anything wrong with this way of generalizing the twin network method?
 
@@ -28251,7 +25893,7 @@ draws a "triple network," it is obvious that the path between Yxz and
 is not blocked
 by W; the latter is situated in a totally different world.
 
-Yxz (cid:2)(cid:2) Zx* (cid:2) W
+Yxz Zx* W
 
 Zx*
 
@@ -28261,9 +25903,9 @@ Author's Second Reply:
 
 The independence
 
-Yxz (cid:2)(cid:2) Zx*
+Yxz Zx*
 
-(cid:2) W
+W
 
 actually holds in the graph shown in .19.
 
@@ -28277,7 +25919,7 @@ This is because Yxz is separated from
 
 , in the "triple network"
 is obtained from rule 3 of dothat you mentioned. The license to replace W with
-(cid:2) W, since X is a nondescendant of X. This points to an
+W, since X is a nondescendant of X. This points to an
 Wx*
 calculus, which implies
 important refinement needed in the twin network generalization: causal axioms may
@@ -28324,8 +25966,6 @@ that such effects are "ill-defined" and "more deceptive than helpful." I believe
 this book, guided by the structural roots of potential-outcome analysis, will reach more
 positive conclusions (see Sections 4.5 and 11.4.2).
 
-Reflections, Elaborations, and Discussions with Readers
-
 11.9 MORE ON PROBABILITIES OF CAUSATION
 
 Looking back, eight years past the first publication of Causality, I consider the results
@@ -28341,7 +25981,7 @@ astonishing.
 
 11.9.1 Is "Guilty with Probability One" Ever Possible?
 
-PN (cid:8) 1
+PN 1
 
 I have presented the example of Section 9.3.4 in dozens of talks at conferences and universities, and, invariably, the result
 of equation (9.53) meets with universal disbelief; how can we determine, from frequency data, that the defendant is guilty with
@@ -28375,31 +26015,24 @@ determined exactly.
 This benefit of formal counterfactual analysis can in fact be demonstrated in a much
 (Section
 simpler example. Consider the effect of treatment on the treated,
-stands for the chances that a treated patient, X (cid:2) x, would
+stands for the chances that a treated patient, X x, would
 8.2.5). In words,
-survive for a time period Y (cid:2) y had he/she not been treated
+survive for a time period Y y had he/she not been treated
 This counterfactual quantity too seems to defy empirical measurement, because we can never rerun history and deny treatment for those who received it. Yet, for binary X, we can write
 
-P( yx(cid:5) (cid:2) x)
+P( yxx)
 
-P( yx(cid:5) (cid:2) x)
+P( yxx)
 
-(X (cid:2) x(cid:5)).
+(X x).
 
-P(yx(cid:5)) (cid:2) P(yx(cid:5) (cid:2) x(cid:5))P(x(cid:5)) (cid:4) P(yx(cid:5) (cid:2) x)P(x)
+P(yx) P(yxx)P(x) P(yxx)P(x)
 
 11.9 More on Probabilities of Causation
 
 and derive
 
-P(yx(cid:5)
-
-x) (cid:2) (cid:4)P(yx(cid:5)) (cid:3) P(y, x(cid:5))(cid:5)
-(cid:2)
-(cid:2)
-P(yx(cid:5)
-
-x)
+P(yxx) P(yx) P(y, x)P(yxx)
 
 P(x)
 .
@@ -28407,9 +26040,8 @@ P(x)
 
 is reducible to empirically estimable quantities;
 
-P(yx(cid:5)) (cid:2)
-In other words,
-P(y (cid:2) do(x(cid:5)))
+P(yx) In other words,
+P(y do(x))
 is estimable in experimental studies and the other quantities in observational studies. Moreover, if data support the equality
 we can safely
 conclude that a treated patient would have zero chance of survival had the treatment not
@@ -28417,7 +26049,7 @@ been taken. Those who mistrust counterfactual analysis a priori, as a calculus d
 with undefined quantities, would never enjoy the discovery that some of those quantities
 are empirically definable. Logic, when gracious, can rerun history for us.
 
-P(yx(cid:5)) (cid:2) P(y, x(cid:5)),
+P(yx) P(y, x),
 
 The second puzzle was given intuitive explanation in the paragraph following
 
@@ -28448,20 +26080,16 @@ subpopulations. However, in the absence of such data, and knowing in advance tha
 will never be able to match all the idiosyncratic properties of Mr. A, the lawmakers'
 specification must be interpreted relative to the properties at hand.
 
-Reflections, Elaborations, and Discussions with Readers
-
 11.9.2 Tightening the Bounds on Probabilities of Causation
 
 Systematic work by Jin Tian (Tian and Pearl 2000) has improved on the results of
 Chapter 9 in several ways. First, Tian showed that for most of these results, the assumption of strong exogeneity, equation (9.10), can be replaced by weak exogeneity:
 
-Yx (cid:2)(cid:2) X
+Yx X
 
 and
 
-Yx(cid:5) (cid:2)(cid:2)
-
-X
+YxX
 
 .
 
@@ -28475,17 +26103,16 @@ nonexperimental studies are available, and no other assumptions are made. These 
 
 max
 
-P( yx) (cid:3) P( yx(cid:5))
-P( y) (cid:3) P( yx(cid:5))
-P( yx) (cid:3) P( y)
+P( yx) P( yx)
+P( y) P( yx)
+P( yx) P( y)
 
-(cid:9) PNS (cid:9) min
+PNS min
 
 P( yx)
-P( y(cid:5)
-x(cid:5))
-P(x, y) (cid:4) P(x(cid:5), y(cid:5))
-P( yx) (cid:3) P( yx(cid:5)) (cid:4) P(x, y(cid:5)) (cid:4) P(x(cid:5), y)
+P( yx)
+P(x, y) P(x, y)
+P( yx) P( yx) P(x, y) P(x, y)
 
 d
 
@@ -28495,30 +26122,24 @@ d
 
 max
 
-P( y) (cid:3) P( yx(cid:5))
-P(x, y)
+P( y) P( yx)
 
 c
 
 max
 
-P( yx) (cid:3) P( y)
-P(x(cid:5), y(cid:5))
+P( yx) P( y)
 
-(cid:9) PN (cid:9) min
+PN min
 
 s
 
-(cid:9) PS (cid:9) min
+PS min
 
-P( y(cid:5)
-
-x(cid:5)) (cid:3) P(x(cid:5), y(cid:5))
-P(x, y)
+P( yx) P(x, y)
 
 c
-P( yx) (cid:3) P(x, y)
-P(x(cid:5), y(cid:5))
+P( yx) P(x, y)
 
 s
 
@@ -28548,13 +26169,9 @@ properties of PNS, PN, and PS.
 
 Also noteworthy is the fact that in tasks of abduction, i.e., reasoning to the best
 explanation, PN is the most reasonable measure to use in deciding among competing
-explanations of the event Y (cid:2) y. In such applications, the bounds given in (11.42) can
+explanations of the event Y y. In such applications, the bounds given in (11.42) can
 be computed from a causal Bayesian network model, where P(yx) and
 are computable through equation (9.48).
-
-P(yx(cid:5))
-
-Acknowledgments
 
 I thank all readers who sent in questions and contributed in this way to this chapter.
 These include: David Bessler, Nimrod Megiddo, David Kenny, Keith A. Markus, Jos
@@ -28704,8 +26321,6 @@ sailors said: 'Come and let us cast lots to find out
 who is to blame for this ordeal.' So they cast lots
 and the lot fell on Jonah."
 
-The Art and Science of Cause and Effect
-
 this
 
 Obviously, on
@@ -28764,8 +26379,6 @@ Aristotle regarded explanation
 in terms of a purpose to be the only
 complete and satisfactory explanation for why a thing is what it is.
 
-Epilogue
-
 He even called it a final cause – namely, the final
 aim of scientific inquiry.
 
@@ -28822,8 +26435,6 @@ Moreover, said Galileo, do not attempt to answer such questions in the qualitati
 nuances of human language; say it in the form of
 mathematical equations [13].
 
-The Art and Science of Cause and Effect
-
 It is hard for us to appreciate today how strange
 that idea sounded in 1638, barely 50 years after
 the introduction of algebraic notation by Vieta. To
@@ -28877,8 +26488,6 @@ search for the origin and justification of those successful Galilean equations.
 
 For example, Descartes ascribed cause to eternal truth.
 
-Epilogue
-
 Liebniz made cause a self-evident logical law.
 
 Finally, about one hundred years after Galileo,
@@ -28928,8 +26537,6 @@ knowledge of causation?
 
 We saw in the rooster example that regularity of succession is not sufficient; what would be
 sufficient?
-
-The Art and Science of Cause and Effect
 
 What patterns of experience would justify calling a connection "causal"?
 
@@ -28982,8 +26589,6 @@ Such bilingual activity would be forgiven if
 causality was used merely as a convenient communication device – a shorthand for expressing complex patterns of physical relationships that would
 otherwise take many equations to write.
 
-Epilogue
-
 After all! Science is full of
 abbreviations: We use "multiply x
 by 5" instead of "add x to itself 5
@@ -29001,7 +26606,7 @@ effect."
 
 Take, for instance, Newton's law:
 
-f (cid:2) ma.
+f ma.
 
 The rules of algebra permit us to write this law in a wild variety of syntactic forms,
 all meaning the same thing – that if we know any two of the three quantities, the third
@@ -29033,8 +26638,6 @@ very explicit.
 This arena is statistics.
 
 The story begins with the discovery of correlation, about one hundred years ago.
-
-The Art and Science of Cause and Effect
 
 Francis Galton [20], inventor of fingerprinting
 and cousin of Charles Darwin, quite understandably set out to prove that talent and virtue run in
@@ -29082,8 +26685,6 @@ a category broader than causation, namely correlation, of which causation was on
 that this new conception of correlation brought
 psychology, anthropology, medicine, and sociology in large parts into the field of mathematical
 treatment."
-
-Epilogue
 
 Now, Pearson has been described as a man "with the kind of
 drive and determination that took
@@ -29133,8 +26734,6 @@ causal relations from data, and to this day, the one
 and only causal concept permitted in mainstream
 statistics.
 
-The Art and Science of Cause and Effect
-
 And that is roughly where things stand today.
 
 If we count the number of doctoral theses, research papers, or textbook pages written on
@@ -29180,8 +26779,6 @@ But how else can we explain why statistics,
 the field that has given the world such powerful
 concepts as the testing of hypothesis and the
 
-Epilogue
-
 design of experiment, would give up so early on
 causation?
 
@@ -29222,8 +26819,6 @@ therefore may offer a useful perspective on the problem.
 When researchers began to encode causal relationships using
 computers, the two riddles of causation were awakened with renewed
 vigor.
-
-The Art and Science of Cause and Effect
 
 Put yourself in the shoes of this robot [26] who
 is trying to make sense of what is going on in a
@@ -29279,8 +26874,6 @@ of causation can be solved by combining equations with graphs, and
 how this solution makes the first
 riddle less formidable.
 
-Epilogue
-
 The overriding ideas in this solution are:
 
 First – treating causation as a summary of behavior under interventions; and
@@ -29321,8 +26914,6 @@ independent mechanisms – it is
 easy to change one without changing the other. The diagram takes
 advantage of this independence and
 
-The Art and Science of Cause and Effect
-
 describes the normal functioning of the circuit using precisely those building blocks that will remain
 unaltered under intervention.
 
@@ -29354,8 +26945,6 @@ provides a blueprint for hypothetical control. We can predict the effect on tida
 new events – say, the moon being
 hit by a meteor or the gravitational
 constant suddenly diminishing by a
-
-Epilogue
 
 factor of 2 – and, just as important,
 the gravitational theory gives us the
@@ -29397,19 +26986,17 @@ Clearly, when we set Y to 0,
 the relation between X and Y is no
 longer given by the multiplier – a
 
-The Art and Science of Cause and Effect
-
 new mechanism now controls Y, in
 which X has no say. In the equational representation, this amounts
-to replacing the equation Y (cid:2) 2X
-by a new equation Y (cid:2) 0 and solving a new set of equations, which
-gives Z (cid:2) 1. If we perform this
+to replacing the equation Y 2X
+by a new equation Y 0 and solving a new set of equations, which
+gives Z 1. If we perform this
 surgery on the lower pair of equations,
 lower
 model, we get of course a different
 solution. The second equation will
 need to be replaced, which will
-yield X (cid:2) 0 and leave Z unconstrained.
+yield X 0 and leave Z unconstrained.
 
 representing
 
@@ -29444,8 +27031,6 @@ the way we write the equations.
 Before expounding on the properties of this new mathematical operation, let me demonstrate how
 useful it is for clarifying concepts
 in statistics and economics.
-
-Epilogue
 
 Why do we prefer controlled
 experiment over uncontrolled studies? Assume we wish to study the
@@ -29489,8 +27074,6 @@ of some policy – say, taxation. A deliberate decision to raise or lower taxes 
 model of the economy because it modifies the conditions prevailing when the model was built. Economic models are built on the basis of data taken
 over some period of time, and during this period
 
-The Art and Science of Cause and Effect
-
 of time taxes were lowered and raised in response
 to some economic conditions or political pressure.
 However, when we evaluate a policy, we wish to
@@ -29525,8 +27108,6 @@ this point and ask: "How can you talk about two
 world models when in fact there is only one world
 model, given by all the equations of physics put
 together?" The answer is: yes. If you wish to
-
-Epilogue
 
 include the entire universe in the
 model, causality disappears because interventions disappear – the
@@ -29563,8 +27144,6 @@ conditions. The causal model, however, contains
 three additional ingredients: (i) a distinction between the in and the out; (ii) an assumption that
 each equation corresponds to an independent
 mechanism and hence must be preserved as a
-
-The Art and Science of Cause and Effect
 
 separate mathematical sentence;
 and (iii) interventions that are interpreted as surgeries over those mechanisms. This brings us closer to
@@ -29609,8 +27188,6 @@ know intuitively what
 the answer
 should be: P (Rain), because making
 
-Epilogue
-
 the grass wet does not change the
 chance of rain. But can this intuitive
 answer, and others like it, be derived
@@ -29653,8 +27230,6 @@ This brings us to part three of
 the lecture, where I will demonstrate how the ideas presented thus
 far can be used to solve new problems of practical importance.
 
-The Art and Science of Cause and Effect
-
 Consider the century-old debate
 concerning the effect of smoking on
 lung cancer [46]. In 1964, the Surgeon General issued a report linking cigarette smoking to death,
@@ -29671,7 +27246,7 @@ These studies came under severe attacks from the tobacco industry, backed by som
 very prominent statisticians, among them Sir Ronald Fisher. The claim was that the
 observed correlations can also be explained by a model in which there is no causal connection between smoking and lung cancer. Instead, an unobserved genotype might exist
 that simultaneously causes cancer and produces an inborn craving for nicotine. Formally,
-this claim would be written in our notation as: P(Cancer | do (Smoke)) (cid:2) P(Cancer),
+this claim would be written in our notation as: P(Cancer | do (Smoke)) P(Cancer),
 meaning that making the population smoke or stop smoking would have no effect on the
 rate of cancer cases. Controlled experiments could decide between the two models, but
 these are impossible (and now also illegal) to conduct.
@@ -29690,8 +27265,6 @@ one of these two extreme models. So they give
 up and decide to continue the political battle as
 usual. Before parting, a suggestion comes up: perhaps we can resolve our differences if we measure
 some auxiliary factors. For example, since the
-
-Epilogue
 
 causal-link model is based on the
 understanding that smoking affects
@@ -29730,8 +27303,6 @@ between smoking and lung cancer
 unmediated by tar deposits. The
 model would need to be refined
 
-The Art and Science of Cause and Effect
-
 then, and we might end up with a
 graph containing twenty variables
 or more. There is no need to panic
@@ -29765,8 +27336,6 @@ which factors should be included
 in the analysis. Such factors can
 now be identified by simple graphical means. The classical case demonstrating Simpson's paradox took
 place in 1975, when UC-Berkeley
-
-Epilogue
 
 was investigated for sex bias in
 graduate admission. In this study,
@@ -29810,8 +27379,6 @@ women. The moral is that all conclusions are extremely sensitive to
 which variables we choose to hold
 constant when we are comparing,
 
-The Art and Science of Cause and Effect
-
 and that is why the adjustment problem is so critical in the analysis of
 observational studies.
 
@@ -29854,8 +27421,6 @@ communicate results. I am convinced that many
 discoveries have been delayed in our century for
 lack of a mathematical language that can handle
 
-Epilogue
-
 causation. For example, I am sure that Karl Pearson could have thought up the idea of randomized
 experiment in 1901 if he had allowed causal diagrams into his mathematics.
 
@@ -29871,8 +27436,6 @@ I hope the combination amplifies each of these
 components.
 
 Thank you.
-
-Acknowledgments
 
 Slide 1 (Dürer, Adam and Eve, 1504 engraving) courtesy of the Fogg Art Museum, Harvard University Art Museums, Gift of William Gray from the collection of Francis Calley
 Gray. Photo by Rick Stafford; image copyright © President and Fellows of Harvard College, Harvard University. Slide 2 (Doré, The Flight of Lot) copyright William H. Wise
@@ -29896,9 +27459,7 @@ Ruprecht and The MIT Press.
 
 NOTE: Color versions of slides 19, 26, 28–29, 32–35, and 43–56 may be downloaded
 
-from (cid:2)http://www.cs.ucla.edu/~judea/(cid:3).
-
-Bibliography
+from http://www.cs.ucla.edu/~judea/.
 
 Abbring, 2003 J.H. Abbring. Book reviews: Causality: Models, Reasoning, and Inference. Economica,
 
@@ -29954,8 +27515,6 @@ pages 357–363, Edinburgh, UK, 2005.
 
 Bagozzi and Burnkrant, 1979 R.P. Bagozzi and R.E. Burnkrant. Attitude organization and the
 attitude-behavior relationship. Journal of Personality and Social Psychology, 37:913–929, 1979.
-
-Bibliography
 
 Balke and Pearl, 1994a A. Balke and J. Pearl. Counterfactual probabilities: Computational methods,
 bounds, and applications. In R. Lopez de Mantaras and D. Poole, editors, Uncertainty in Artificial
@@ -30034,8 +27593,6 @@ on Uncertainty in Artificial Intelligence, pages 40–47. Morgan Kaufmann, San F
 Boumans, 2004 M. Boumans. Book reviews: Causality: Models, Reasoning, and Inference. Review
 
 of Social Economy, LXIII:129–135, 2004.
-
-Bibliography
 
 Bowden and Turkington, 1984 R.J. Bowden and D.A. Turkington. Instrumental Variables.
 
@@ -30128,8 +27685,6 @@ Cheng, 1997 P.W. Cheng. From covariation to causation: A causal power theory. Ps
 
 Review, 104(2):367–405, 1997.
 
-Bibliography
-
 Chickering and Pearl, 1997 D.M. Chickering and J. Pearl. A clinician's tool for analyzing noncompliance. Computing Science and Statistics, 29(2):424–431, 1997.
 
 Chickering, 1995 D.M. Chickering. A transformational characterization of Bayesian network structures. In P. Besnard and S. Hanks, editors, Uncertainty in Artificial Intelligence 11, pages 87–98.
@@ -30218,8 +27773,6 @@ Dawid, 2002 A.P. Dawid. Influence diagrams for causal modelling and inference. I
 
 Statistical Review, 70:161–189, 2002.
 
-Bibliography
-
 De Kleer and Brown, 1986 J. De Kleer and J.S. Brown. Theories of causal ordering. Artificial
 
 Intelligence, 29(1):33–62, 1986.
@@ -30305,8 +27858,6 @@ Fikes and Nilsson, 1971 R.E. Fikes and N.J. Nilsson. STIRPS: A new approach to t
 
 of theorem proving to problem solving. Artificial Intelligence, 2(3/4):189–208, 1971.
 
-Bibliography
-
 Fine, 1975 K. Fine. Review of Lewis' counterfactuals. Mind, 84:451–458, 1975.
 Fine, 1985 K. Fine. Reasoning with Arbitrary Objects. B. Blackwell, New York, 1985.
 Finkelstein and Levin, 1990 M.O. Finkelstein and B. Levin. Statistics for Lawyers. Springer-Verlag,
@@ -30391,8 +27942,6 @@ Journal of the Royal Statistical Society, 54(2):585–593, 1992.
 Gibbard and Harper, 1976 A. Gibbard and L. Harper. Counterfactuals and two kinds of expected utility.
 In W.L. Harper, R. Stalnaker, and G. Pearce (Eds.), Ifs, pages 153–169. D. Reidel, Dordrecht, 1976.
 
-Bibliography
-
 Gillies, 2001 D. Gillies. Critical notice: Judea Pearl, Causality: Models, Reasoning, and Inference.
 
 British Journal of Science, 52:613–622, 2001.
@@ -30474,8 +28023,6 @@ Greenland and Neutra, 1980 S. Greenland and R. Neutra. Control of confounding in
 
 of medical technology. International Journal of Epidemiology, 9(4):361–367, 1980.
 
-Bibliography
-
 Greenland and Robins, 1986 S. Greenland and J.M. Robins. Identifiability, exchangeability, and epidemiological confounding. International Journal of Epidemiology, 15(3):413–419, 1986.
 
 Greenland and Robins, 1988 S. Greenland and J.M Robins. Conceptual problems in the definition and
@@ -30533,7 +28080,7 @@ University of California Los Angeles, Cognitive Systems Lab, Los Angeles, 1999.
 
 Halpern and Pearl, 2000 J.Y. Halpern and J. Pearl. Causes and explanations. Technical Report
 R-266, Cognitive Systems Laboratory, Department of Computer Science, University of California,
-Los Angeles, CA, March 2000. Online at (cid:2)www.cs.ucla.edu/~judea/(cid:3).
+Los Angeles, CA, March 2000. Online at www.cs.ucla.edu/~judea/.
 
 Halpern and Pearl, 2001a J.Y. Halpern and J. Pearl. Causes and explanations: A structural-model
 approach—Part I: Causes. In Proceedings of the Seventeenth Conference on Uncertainty in
@@ -30552,8 +28099,6 @@ approach—Part II: Explanations. British Journal of Philosophy of Science, 56:8
 Halpern, 1998 J.Y. Halpern. Axiomatizing causal reasoning. In G.F. Cooper and S. Moral, editors,
 Uncertainty in Artificial Intelligence, pages 202–210. Morgan Kaufmann, San Francisco, CA,
 1998. Also, Journal of Artificial Intelligence Research 12:3, 17–37, 2000.
-
-Bibliography
 
 Halpern, 2008 J.Y. Halpern. Defaults and normality in causal structures. In G. Brewka and J. Lang,
 editors, Proceedings of the Eleventh International Conference on Principles of Knowledge
@@ -30630,8 +28175,6 @@ Hendry, 1995 David F. Hendry. Dynamic Econometrics. Oxford University Press, New
 Hennekens and Buring, 1987 C.H. Hennekens and J.E. Buring. Epidemiology in Medicine. Little,
 
 Brown, Boston, 1987.
-
-Bibliography
 
 Hernán et al., 2002 M.A. Hernán, S. Hernández-Díaz, M.M. Werler, and A.A. Mitchell. Causal
 knowledge as a prerequisite for confounding evaluation: An application to birth defects epidemiology. American Journal of Epidemiology, 155(2):176–184, 2002.
@@ -30723,8 +28266,6 @@ Howard and Matheson, 1981 R.A. Howard and J.E. Matheson. Influence diagrams. Pri
 Applications of Decision Analysis, 1981. Strategic Decisions Group, Menlo Park, CA. Reprinted
 in Decision Analysis 2(3): 129–143, 2005.
 
-Bibliography
-
 Howard, 1960 R.A. Howard. Dynamic Programming and Markov Processes. MIT Press, Cambridge,
 
 MA, 1960.
@@ -30805,8 +28346,6 @@ Kennedy, 2003 P. Kennedy. A Guide to Econometrics. MIT Press, Cambridge, MA, 5th
 
 2003.
 
-Bibliography
-
 Khoury et al., 1989 M.J. Khoury, W.D Flanders, S. Greenland, and M.J. Adams. On the measurement of susceptibility in epidemiologic studies. American Journal of Epidemiology,
 129(1):183–190, 1989.
 
@@ -30881,8 +28420,6 @@ Kvart, 1986 I. Kvart. A Theory of' Counterfactuals. Hackett Publishing, Co., Ind
 Kyburg Jr., 2005 H.E. Kyburg Jr. Book review: Judea Pearl, Causality, Cambridge University Press,
 
 2000. Artificial Intelligence, 169:174–179, 2005.
-
-Bibliography
 
 Laplace, 1814 P.S. Laplace. Essai Philosophique sure les Probabilités. Courcier, New York, 1814.
 
@@ -30972,8 +28509,6 @@ Meltzer, editors, The Phillips Curve and Labor Markets, Vol. 1 of the Carnegie-R
 Conferences on Public Policy, supplementary series to the Journal of Monetary Economics, pages
 19–46. North-Holland, Amsterdam, 1976.
 
-Bibliography
-
 Luellen et al., 2005 J.K. Luellen, W.R. Shadish, and M.H. Clark. Propensity scores: An introduction
 
 and experimental test. Evaluation Review, 29(6):530–558, 2005.
@@ -31062,8 +28597,6 @@ Moore and McCabe, 2005 D.S. Moore and G.P. McCabe. Introduction to the Practice 
 
 W.H. Freeman and Co., Gordonsville, VA, 2005.
 
-Bibliography
-
 Morgan and Winship, 2007 S.L. Morgan and C. Winship. Counterfactuals and Causal Inference:
 Methods and Principles for Social Research (Analytical Methods for Social Research). Cambridge
 University Press, New York, NY, 2007.
@@ -31147,8 +28680,6 @@ Intelligence 11, pages 444–453. Morgan Kaufmann, San Francisco, 1995.
 Pearl and Verma, 1987 J. Pearl and T. Verma. The logic of representing dependencies by directed
 acyclic graphs. In Proceedings of the Sixth National Conference on AI (AAAI-87), pages 374–379,
 Seattle, WA, July 1987.
-
-Bibliography
 
 Pearl and Verma, 1991 J. Pearl and T. Verma. A theory of inferred causation. In J.A. Allen, R. Fikes,
 and E. Sandewall, editors, Principles of Knowledge Representation and Reasoning: Proceedings of
@@ -31234,8 +28765,6 @@ and J. Williamson, editors, Foundations of Bayesianism, Applied Logic Series, Vo
 Pearl, 2001b J. Pearl. Causal inference in the health sciences: A conceptual introduction. Health
 Services and Outcomes Research Methodology, 2:189–220, 2001. Special issue on Causal Inference.
 
-Bibliography
-
 Pearl, 2001c J. Pearl. Direct and indirect effects. In Proceedings of the Seventeenth Conference on
 Uncertainty in Artificial Intelligence, pages 411–420. Morgan Kaufmann, San Francisco, CA, 2001.
 Pearl, 2003a J. Pearl. Comments on Neuberg's review of Causality. Econometric Theory,
@@ -31315,8 +28844,6 @@ Oxford University Press, New York, 1996.
 Program, 1984 Lipid Research Clinic Program. The Lipid Research Clinics Coronary Primary
 Prevention Trial results, parts I and II. Journal of the American Medical Association,
 251(3):351–374, January 1984.
-
-Bibliography
 
 Rebane and Pearl, 1987 G. Rebane and J. Pearl. The recovery of causal poly-trees from statistical data. In Proceedings of the Third Workshop on Uncertainty in AI, pages 222–228, Seattle,
 WA, 1987.
@@ -31400,8 +28927,6 @@ Biometrika, 82(4):695–698, 1995.
 Robins, 1997 J.M. Robins. Causal inference from complex longitudinal data. In M. Berkane, editor,
 Latent Variable Modeling and Applications to Causality, pages 69–117. Springer-Verlag, New
 York, 1997.
-
-Bibliography
 
 Robins, 1999 J.M. Robins. Testing and estimation of directed effects by reparameterizing directed
 acyclic with structural nested models. In C.N. Glymour and G.F. Cooper, editors, Computation,
@@ -31492,8 +29017,6 @@ Serrano and Gossard, 1987 D. Serrano and D.C. Gossard. Constraint management in 
 design. In D. Sriram and R.A. Adey, editors, Knowledge Based Expert Systems in Engineering:
 Planning and Design, pages 211–224. Computational Mechanics Publications, 1987.
 
-Bibliography
-
 Shachter et al., 1994 R.D. Shachter, S.K. Andersen, and P. Szolovits. Global conditioning for
 probabilistic inference in belief networks. In R. Lopez de Mantaras and D. Poole, editors,
 Uncertainty in Artificial Intelligence, pages 514–524. Morgan Kaufmann, San Francisco, CA,
@@ -31572,8 +29095,6 @@ Shrier, 2009 I. Shrier. Letter to the Editor: Propensity scores. Statistics in M
 
 2009.
 
-Bibliography
-
 Simon and Rescher, 1966 H.A. Simon and N. Rescher. Cause and counterfactual. Philosophy and
 
 Science, 33:323–340, 1966.
@@ -31651,8 +29172,6 @@ Report CMU-PHIL-72, Carnegie-Mellon University, Department of Philosophy, Pittsb
 Spirtes et al., 1998 P. Spirtes, T. Richardson, C. Meek, R. Scheines, and C.N. Glymour. Using path
 diagrams as a structural equation modelling tool. Sociological Methods and Research, 27(2):
 182–225, November 1998.
-
-Bibliography
 
 Spirtes et al., 2000 P. Spirtes, C.N. Glymour, and R. Scheines. Causation, Prediction, and Search.
 
@@ -31740,8 +29259,6 @@ Tian and Pearl, 2001b J. Tian and J. Pearl. Causal discovery from changes: A Bay
 
 Technical Report R-285, Computer Science Department, UCLA, February 2001.
 
-Bibliography
-
 Tian and Pearl, 2002a J. Tian and J. Pearl. A general identification condition for causal effects. In
 Proceedings of the Eighteenth National Conference on Artificial Intelligence, pages 567–573.
 AAAI Press/ The MIT Press, Menlo Park, CA, 2002.
@@ -31816,8 +29333,6 @@ Wermuth, 1992 N. Wermuth. On block-recursive regression equations. Brazilian Jou
 
 Probability and Statistics (with discussion), 6:1–56, 1992.
 
-Bibliography
-
 Whittaker, 1990 J. Whittaker. Graphical Models in Applied Multivariate Statistics. John Wiley,
 
 Chichester, England, 1990.
@@ -31883,11 +29398,9 @@ Zelterman, 2001 D. Zelterman. Book reviews: Causality: Models, Reasoning, and In
 
 Technometrics, 32(2):239, 2001.
 
-Zidek, 1984 J. Zidek. Maximal Simpson disaggregations of 2 (cid:2) 2 tables. Biometrika, 71:187–190,
+Zidek, 1984 J. Zidek. Maximal Simpson disaggregations of 2 2 tables. Biometrika, 71:187–190,
 
 1984.
-
-Name Index
 
 Abbring, J. H., 399
 Adams, E., 225
@@ -31975,8 +29488,6 @@ Cliff, N., 43
 Cochran, W. G., 66
 Cohen, M. R., 176
 Cole, P., 285, 292
-
-Name Index
 
 Cole, S. R., 129
 Cook, E. F., 196, 388
@@ -32116,8 +29627,6 @@ Hausman, D. M., 254, 310
 Haussler, D., 46
 Hautaniemi, S., 399
 
-Name Index
-
 Hayduk, L. A., 172, 335, 366–7, 399
 Heckerman, D., 21, 41, 60, 64, 211, 264–5, 305
 Heckman, J. J., 98, 106, 139, 165, 171–2, 229, 243,
@@ -32246,8 +29755,6 @@ Mamdani, A., 21
 Manski, C. F., 90, 98, 229, 243, 268, 281, 395
 Markus, K. A., 398
 Marschak, J., 70, 137, 158, 160, 171, 204, 374, 380
-
-Name Index
 
 Matheson, J. E., 19, 111, 382
 Maudlin, T., 26
@@ -32380,8 +29887,6 @@ Rubin, J., 95
 Rucai, A. A., 183
 Rücker, G. R., 200
 Russell, B., 407–8, 413, 419
-
-Name Index
 
 Salmon, W. C., 58, 62, 235, 249, 264
 Sandewall, E., 225
@@ -32520,8 +30025,6 @@ Wold, H. O. A., 32, 70, 95–6, 204, 257, 374, 380,
 
 Woodward, J., 109, 160, 221, 239, 310, 329, 399
 
-Name Index
-
 Wright, P. G., 215
 Wright, R. W., 309, 314
 Wright, S., 26, 60, 67, 69, 134–5, 137–8, 140, 148,
@@ -32541,8 +30044,6 @@ Yule, G. U., 176, 424
 Zaniotti, M., 58
 Zelterman, D., 399
 Zidek, J., 177
-
-Subject Index
 
 abduction, 20, 205n, 206, 208
 actions
@@ -32641,8 +30142,6 @@ definition, 23–4
 examples, 23, 35, 67, 75
 properties, 24
 
-Subject Index
-
 Bayesian networks, probabilistic, 13–21
 
 construction, 15
@@ -32652,7 +30151,6 @@ inference with, 20
 Bell's inequality, 275
 Berkson's paradox, 17, 21, 163
 blocking, 16
-bounds
 
 on causal effects, 262–70, 395
 on counterfactual probability, 271–3
@@ -32790,8 +30288,6 @@ stable no-confounding, 191–2
 teaching about, 196, 199
 see also exogeneity; ignorability; deconfounders
 consistency constraints (on counterfactuals), 99, 229
-
-Subject Index
 
 control for covariates
 
@@ -32946,8 +30442,6 @@ excess risk ratio (ERR), 303–4
 and attribution, 292
 corrected for confounding, 294, 304
 
-Subject Index
-
 exchangeability
 
 causal understanding and, 179, 384
@@ -33096,8 +30590,6 @@ recovery of, 52
 
 Lewis's counterfactuals, 238–40
 
-Subject Index
-
 likelihood ratio, 7
 Lucas's critique, 28, 137
 
@@ -33245,8 +30737,6 @@ screening off, 4, 10, 58, 251n
 see also conditional independence
 
 selection bias, 17, 163
-
-Subject Index
 
 SEM (structural equation modeling), 133–72, 356–7,
 

@@ -1,4 +1,3 @@
-
 Exit,
 
 Voice,
@@ -224,8 +223,6 @@ Philip G. Zimbardo and Mark Snyder)
 
 Index
 
-X
-
 Exit,
 
 Voice,
@@ -341,8 +338,6 @@ alarm approaching that of the political scientist who sees
 
 his polity's integrity being threatened by strife, corrup-
 
-Introduction and Doctrinal Background
-
 tion, or boredom. But even where vigorous competition
 prevails, unconcern with the possibility of restoring tem­
 porarily laggard firms to vigor is hardly justified. Pre­
@@ -380,8 +375,6 @@ to be largely-and, at times, principally-applicable to
 organizations (such as voluntary associations, trade
 unions, or political parties) that provide services to their
 members without direct monetary counterpart. The per-
-
-Exit, Voice, and Loyalty
 
 formance of a firm or an organization is assumed to be
 subject to deterioration for unspecified, random causes
@@ -428,8 +421,6 @@ troubles. It is perhaps because the whole range of phenomena here
 described has no place in the perfectly competitive model that it has
 not been paid attention to by economists.
 
-Introduction and Doctrinal Background
-
 comparative analysis of these two options and to their
 interplay. I will investigate questions such as : Under
 what conditions will the exit option prevail over the voice
@@ -469,8 +460,6 @@ these young interlopers mature and the overlord ages, the
 younger animal starts initiating group movements al­
 though the direction of eventual movement is dependent
 upon the older animal's choice. A highly complex relation-
-
-Exit, Voice, and Loyalty
 
 ship develops between the two animals which, by paying
 close attention to one another and by reciprocal "notifica­
@@ -520,8 +509,6 @@ search by Hans Kummer, "Social Organization of Hamadryas
 Baboons," Bibliotheca Primatologica, no. 6 (Basle : S. Karger,
 1968) .
 
-Introduction and Doctrinal Background
-
 would wholly eliminate any sort of deterioration of poli­
 ties and of their various constituent entities. Because of
 the surplus and the resulting latitude, any homeostatic
@@ -562,8 +549,6 @@ sure) , it will at length come to resemble the delicacy of the
 watch, which is good for no other purpose than to mark
 the progression of time, and which is immediately de­
 stroyed, if put to any other use, or touched with any but
-
-Exit, Voice, and Loyalty
 
 modern oeconomy, therefore, is
 the gentlest hand .
@@ -613,8 +598,6 @@ before the outbreak of the sanguinary civil disturbances known as
 la violencia, just as Sir James Steuart wrote about the definitive
 conquest of despotism not long before the rise of Napoleon.
 
-Introduction and Doctrinal Background
-
 but tolerable consequences would now be so clearly dis­
 astrous that they will be more securely barred than before.
 As a result society is, and then again it is not, in a sur­
@@ -653,8 +636,6 @@ of all other living creatures was frequently sensed, though
 it can hardly ever have been avowed, as a fall; and a radi­
 cal but basically simple act of the imagination may well
 have metamorphosed this condition which one was really
-
-Exit, Voice, and Loyalty
 
 yearning for into its exact opposite, the Garden of Eden.5
 But we must leave paradise and return to social thought,
@@ -696,8 +677,6 @@ fed and is at rest. I am hungry or thirsty like him, but when thirst
 or hunger cease, I am not at rest; I am like him pained with want,
 but am not, like him, satisfied with fulness." (Samuel Johnson, Ras­
 selas, II.)
-
-Introduction and Doctrinal Background
 
 Here again the difference between actual and potential
 
@@ -766,8 +745,6 @@ Journal of Political Economy, 52 : 1-13 ( February 1962) .
 
 ciency," American Economic Review, 56:392-415 (June 1966).
 
-Exit, Voice, and Loyalty
-
 .
 
 .
@@ -820,8 +797,6 @@ ary 1968), p. 44.
 Making : Son1e Converging Views," Behavioral Science, 7 : 211-212
 ( April 1962 ) .
 
-Introduction and Doctrinal Background
-
 of managerial and other skills. Cyert and March :a:efer pri­
 marily to the bargaining process that takes place among
 the various parties whose (shaky) coalition is required
@@ -867,8 +842,6 @@ ment and Cultural Change, 18 ( October 1969 ) .
 
 Growth ( New York: Monthly Review Press, 1957) .
 
-Exit, Voice, and Loyalty
-
 Quite a different reaction to the discovery of slack oc­
 curs when the discoverer asks himself, after having got
 over his initial shock, whether slack may not after all be
@@ -907,8 +880,6 @@ assumes not only that slack has somehow come into the
 
 18. See below, pp. 31-32.
 
-Introduction and Doctrinal Background
-
 world and exists in given amounts, but that it is con­
 tinuously being generated as a result of some sort of
 entropy characteristic of human, surplus-producing socie­
@@ -943,8 +914,6 @@ of the firm that has declined in comparative performance.
 This is the sort of mechanism economics thrives on. It is
 neat-one either exits or one does not; it is impersonal
 -any face-to-face confrontation between custonter and
-
-Exit, Voice, and Loyalty
 
 firm 'vith its imponderable and unpredictable elements is
 avoided and success and failure of the organization are
@@ -986,8 +955,6 @@ Rutgers University Press, 195 5 ) , p. 129. A revised form of this essay
 was included in Friedman's Capitalism and Freedom ( Chicago: Uni­
 versity of Chicago Press, 1962 ) as ch. 6 and the cited passage ap­
 pears unchanged on p. 91. The italics are mine.
-
-Introduction and Doctrinal Background
 
 I am not interested here in discussing the merits of the
 Friedman proposal. 20 Rather, I am citing the above pas­
@@ -1031,8 +998,6 @@ Clearly, passions and preconceptions must be reduced
 Public Schools and the Free Market Remedy," The Urban Review,
 2:32-37 (June 1968).
 
-Exit, Voice, and Loyalty
-
 on both sides if advantage is to be taken of an exceptional
 opportunity to observe how a typical market mechanism
 and a typical nonmarket, political mechanism work side
@@ -1073,8 +1038,6 @@ least, recognize the gap, and nonmarket social institutions
 
 21. Hirschman, Strategy, p. 63. Italics in the original.
 
-Introduction and Doctrinal Background
-
 will arise attempting to bridge it . . . this process is not
 necessarily conscious.22
 
@@ -1113,8 +1076,6 @@ and have often actively joined the invaders. Perhaps it
 22. "Uncertainty and the Welfare Economics of Medical Care,"
 
 American Economic Review, 53 : 947 ( December 1963 ) .
-
-Exit, Voice, and Loyalty
 
 takes an economist to reawaken feelings of identity and
 pride among our oppressed colleagues and to give them a
@@ -1161,8 +1122,6 @@ by the young and the vigorous," as Galbraith puts it mock-
 
 1. \Vh i ch was carried out by David S. French.
 
-Exit, Voice, and Loyalty
-
 ingly,2 does not leave room for showing how competition
 helps to cure the temporary and remediable lapses whose
 importance is stressed here. It would seem that the apolo­
@@ -1208,8 +1167,6 @@ primarily with the "unpleasant services demanded of competition"
 in seeing to it that faltering firms are liquidated rather than re­
 stored to health.
 
-Exit
-
 familiar demand function, with the difference that quan­
 tity bought is made to depend on changes in quality rather
 than on price. Just as quality is normally assumed to re­
@@ -1254,8 +1211,6 @@ measure of quality and money-are divided into one another. Hence,
 any numerical measure other than zero and infinity is the result of
 arbitrary scaling. )
 
-Exit, Voice, and Loyalty
-
 enue, full recovery follows upon a drop of i11termediate
 size ; and, then again, if the revenue decline exceeds a cer­
 tain large percentage of normal sales volume, no recupera­
@@ -1298,8 +1253,6 @@ stringency would compound quality deterioration and thus hasten
 the firm's downfall. Such a shape of the reaction function would not
 change materially the points that will be made in the text.
 
-Exit
-
 of course, the more alert the customers the better for the
 functioning of competitive 1narkets. Consideratio11 of com­
 petition as a recuperation mechanism reveals tl1at, al­
@@ -1335,8 +1288,6 @@ rather far removed from it ; and incremental moves in the
 direction of perfect competition are not necessarily im­
 provements-the argument of the second best applies here
 in full force.
-
-Exit, Voice, and Loyalty
 
 Competition as Collusive Behavior
 
@@ -1374,8 +1325,6 @@ with alternate brands, all equally faulty, and hence for de­
 lay in bringing pressure on manufacturers for effective
 improvements in the product. Competition in this situa­
 tion is a considerable convenience to the manufacturers
-
-Exit
 
 because it keeps consumers from complaining ; it diverts
 their energy to the hunting for the inexistent improved
@@ -1442,8 +1391,6 @@ At home we have a Chevrolet b us and a C hevrolet van. You may be
 
 .
 
-Exit, Voice, and Loyalty
-
 on the relevance of the preceding notions for organiza­
 tions other than business firms. The basic point is that
 competition may result merely in the mutual luring over
@@ -1475,7 +1422,6 @@ A less speculative illustration of the issue under discus­
 sion can be drawn from the history of the trade union
 movement in this country. A preliminary step to the CIOsure that after all of this trouble and inconvenience and wasted time
 I shall never own a General Motors product again .
-I
 have had a G.M. auto and wagon for many years now but maybe
 F ORD has a better idea. I'll try to put up with this LEMON till the
 '70 models come out, but you can be sure there will be no G . l\1.
@@ -1494,8 +1440,6 @@ product of any kind on my drive\vay . . ."
 Copies of the letters from which these excerpts are taken were
 n1ailed by their authors to Ralph Nader who has kindly made them
 available to me.
-
-Exit
 
 AFL merger of 1 9 55 was the No-Raiding Agreement
 which was concluded between the two organizations two
@@ -1569,8 +1513,6 @@ times also as "interest articulation." 1 Political scientists
 Almond. and G. B . Powell, Jr., Co1nparative Politics : A Developmen­
 tal Approach ( Boston : Little, Bro\vn and Co., 1966 ) , ch . 4.
 
-Voice
-
 have long dealt systematically with this function and its
 various manifestations. But in doing so they have ordi­
 narily confined their attention to situations in which the
@@ -1609,8 +1551,6 @@ the more elastic demand is ( that is, the more rapidly exit
 ensues whenever deterioration occurs ) the better for the
 functioning of the economic system, so it has long been an
 article of faith of political theory that the proper function-
-
-Exit, Voice, and Loyalty
 
 ing of democracy requires a maximally alert, active, and
 vocal public. In the United States, this belief was shal{en
@@ -1658,8 +1598,6 @@ different political roles to the political activists and the indifferents
 and that a balance between the two can achieve beneficient results."
 Political Life ( New York : Free Press of Glencoe, Inc., 1959 ) , p. 345.
 
-Voice
-
 The essential reasoning behind this thesis is quite simi­
 lar to the argument made earlier 011 the need for exit to
 stay within certai11 bounds. Voice has the function of alert­
@@ -1697,8 +1635,6 @@ mixture of monopolistic and competitive elements charac­
 teristic of most real n1arket situations should make it pos­
 sible to observe the voice option in its interaction with
 the exit option.
-
-Exit, Voice, and Loyalty
 
 We return to the simple relationship between deteriora­
 tion of a product and declining sales, but look now at those
@@ -1741,8 +1677,6 @@ eling from one point of the country to another, as in an
 5. The relationship between the volumes of exit and voice that is
 
 indicated here is spelled out in more formal terms in Appendix A.
-
-Voice
 
 advanced economy. Therefore, the atmosphere in the for­
 mer countries is more suffused with loud, often politically
@@ -1832,8 +1766,6 @@ one implicitly assumes that customers who are faced by
 
 treated in this section.
 
-Voice
-
 a decline in quality first decide whether to shift to another
 firm or product regardless of their ability to influ ence the
 behavior of the firm from which they usually buy ; only if
@@ -1872,8 +1804,6 @@ organization ) , for it will presumably be taken only by
 those who wish for a11d expect A to recover its original
 superiority over B, and not necessarily by all of them.
 Ordinarily, a customer or member will undergo the sac-
-
-Exit, Voice, and Loyalty
 
 rifice of staying with A because he feels that he wants and
 is able to "do something" about A and because only by
@@ -1915,8 +1845,6 @@ now. That will hardly ever be the case if A and B are very
 close substitutes. But given a minimum of nonsubstituta-
 
 9. See ch. 7, below.
-
-Voice
 
 bility, voice will depend also on the willingness to take the
 chances of the voice option as against the certainty of the
@@ -1962,8 +1890,6 @@ beginning of this chapter, is much wider than Banfield's "influence,"
 which appears to exclude any expression of opinion or discontent
 that is not addressed directly to the officeholding deci sionmaker.
 
-Exit, Voice, and Loyalty
-
 bought in the market-although some allowance should be
 made for the possible loss of loyalty discounts and for the
 cost of obtaining information about substitute products
@@ -2004,8 +1930,6 @@ requirement that a customer must expect that he himself
 12. When loyalty is present, however, the cost of exit may be sub­
 
 stantial. The point will be discussed in ch . 7, below.
-
-Voice
 
 or other mnmber-customers will be able to marsl1al some
 influence or bargaining power. Obviously, this is not the
@@ -2050,8 +1974,6 @@ bridge, Mass. : Harvard University Press, 1965 ) .
 Kenneth Galbraith , American Capitalism : The Concept of Counter­
 vailing Power ( Boston : Houghton Mifflin Co., 1956) , pp. 117-123.
 
-Exit, Voice, and Loyalty
-
 of standardized durable consumer goods requiring large
 outlays works in the opposite direction.
 
@@ -2091,8 +2013,6 @@ entrepreneurship a Ia Nader, through revitalization of
 15. The broad range of Nader's work, with respect to both prod­
 ucts and action, is brought out in his article ''The Great American
 Gyp," The New York Review of Books, November 21, 1968.
-
-Voice
 
 official regulatory agencies, and through stepped-up pre­
 ventive activities on the part of the more important firms
@@ -2226,8 +2146,6 @@ fice for the sake of improving the children' s education differs widely
 come. In its pure form, the phenomenon here described is best visual­
 ized for a school di strict with many middle-class parents for whom
 
-Exit, Voice, and Loyalty
-
 pulse is far less significant than the loss to the public
 schools of those member-customers who would be most
 motivated and determined to put u.P a fight against the
@@ -2315,8 +2233,6 @@ enon." The discussion in the following pages should be read in con­
 j unction with Appendixes C and D by those who find diagrams
 clearer than language.
 
-Exit, Voice, and Loyalty
-
 through the concept of the equivalent price or quantity
 change. An article of poor quality can often be considered
 to be simply less in quantity than the same article of stan­
@@ -2397,8 +2313,6 @@ the policies pursued by the organization to which he be-
 5. Insight and Responsibility ( New York : W. W. Norton & Co.,
 
 Inc . , 1964 ) , p. 86.
-
-Exit, Voice, and Loyalty
 
 longs. To make that kind of consumer and member
 "actively stay put" for a while should be a matter of con­
@@ -2482,8 +2396,6 @@ their children there for much longer than was the case
 7 . See Appendix D, which also discusses in more technical terms
 
 a number of other points made in this section.
-
-Exit, Voice, and Loyalty
 
 when the public schools deteriorated. Hence, when public
 and private schools coexist, with the quality of education
@@ -2572,8 +2484,6 @@ own station. That cleavages between the upper and lower
 classes tend to widen and to become more rigid in up­
 wardly mobile societies has become increasingly obvious ;
 
-Exit, Voice, and Loyalty
-
 but it has not been an easy observation to make in a cul­
 ture in which it had long been taken for granted that
 equality of opportunity combined with upward social mo­
@@ -2637,8 +2547,6 @@ even more sharply the princip al point of the chapter : On certain
 assumption s about the existence and inten sity of voice, competition
 can afford an even quieter life than does monopoly.-A . O . H . , Sep­
 tember 30, 1 9 7 1 .
-
-Exit, Voice, and Loyalty
 
 less, it is often possible to make probabilistic statements
 such as : considering the authority structure and respon­
@@ -2729,8 +2637,6 @@ of business, he did single out incompetence and "abandon"
 "The large Brazilian landholding is an evil not b ecause it is inhuman
 and b rutal, but because it is inefficient. " Jacques Lambert, Os dois Brasis
 (Rio de Janeiro : IN EP-M inisterio da Edu ca!;aO e C ultura, 1 96 3 ) , p. 1 2 0 .
-
-Exit, Voice, and Loyalty
 
 on the part of faltering corporate management as an im­
 portant problem. a
@@ -2832,8 +2738,6 @@ no longer afford the periodic breakdowns and will move
 out or install their own independent power supply.
 
 The United States Post Office can serve as another
-
-Exit, Voice, and Loyalty
 
 example of the lazy monopolist vvho thrives on the limited
 exit possibilities existing for its most fastidious and well­
@@ -3008,8 +2912,6 @@ distribution of consumers' tastes is assumed, as was done in the text,
 a further condition must be imposed if it is to be concluded that the
 midpoint will be chosen. This is the plausible idea that discontent
 
-Exit, Voice, and Loyalty
-
 preting the firm's decision to minimize discontent as a
 sovereign act on which it has decided out of enlightened
 self-interest,4 it would have been possible and perhaps
@@ -3096,8 +2998,6 @@ thus "punish" the firm which does not pay heed to his
 preferences, but we see now that another kind of power
 resides in the consumer who cannot take his business else­
 where and who has therefore the maximum incentive to
-
-Exit, Voice, and Loyalty
 
 cajole, threaten, and otherwise induce the firm to pay at­
 tention to his needs and tastes. 5
@@ -3194,8 +3094,6 @@ jectionable from the point of vie'v of the community as a whole, as
 would seem to be implied by the Davis-Hinch analysis, which sets
 up the hypothetical policies pursued by a "beneficent dictator" as
 some sort of optimal solution. See n. 4, above.
-
-Exit, Voice, and Loyalty
 
 failure to predict correctly the actual course of events-a
 fine illustration of the Streeten-Kuhn maxim that a model
@@ -3374,8 +3272,6 @@ p. 309.
 Myths and Reality : 'rhe 1964 Election ," A 1nerican Political Science
 Revie'w, 5 9 : 3 2 1-336 ( June 1965 ) .
 
-Exit, Voice, and Loyalty
-
 roaders. The writing of letters to public officials or to
 newspapers and magazines was investigated as a particu­
 lar type of intense political activity and it was shown that
@@ -3459,8 +3355,6 @@ indi­
 vidual candidate s . S e e S tanley Kel ley, J r . , R. E . Ayres . and W. G .
 Bowen, "Registration and Voting : Putting First T hings First , 'T American
 Political Science Review, 6 1 :359-3 7 9 (June 1 9 67) .
-
-Exit, Voice, and Loyalty
 
 fortable ; only a few of these ways, and not necessarily the
 most important ones, will result in a loss of sales or votes,
@@ -3603,8 +3497,6 @@ tion , the two factors are far from independent. A 1nember
 witl1 a considerable attachment to a product or organiza­
 tioll will often search for ways to make himself influential,
 
-Exit, Voice, and Loyalty
-
 especially when the organization moves in what he be­
 lieves is the wrong direction ; conversely, a member who
 wields ( or thinks he wields) considerable power in an
@@ -3645,8 +3537,6 @@ opt for voice rather than exit, he will normally require the certain
 availability of the competing product to be matched by the near-cer­
 tainty of recuperation for the traditional variety.
 
-A Theory of Loyalty
-
 to that act of pure faith, the most loyalist behavior retains
 an enormous dose of reasoned calculation.
 
@@ -3683,8 +3573,6 @@ complication of divorce procedures and for the expendi­
 ture of time, money, and nerves that they necessitate . . Sim­
 ilarly the American labor law sets up a· fairly complex and
 time-consuming procedure for one trade union to take
-
-Exit, Voice, and Loyalty
 
 over from another as the sole certified bargaining agent at
 the plant level . Consequently, when workers are dissatis­
@@ -3727,8 +3615,6 @@ price or quality, there is much scope for voice to come into
 
 stitution, 1967 ) , ch. 1 .
 
-A Theory of Loyalty
-
 play in the course of progressive deterioration of one of
 them before exit will assume massive proportions. Thus,
 loyalty is hardly needed here, whereas its role as a barrier
@@ -3766,8 +3652,6 @@ ter 5 ) .
 
 Finally, what was said in Chapter 4 about the danger of
 losing influential customers when a higher-quality, higher-
-
-Exit, Voice, and Loyalty
 
 price product is available "nearby," points to another
 
@@ -3832,8 +3716,6 @@ In the absence of feelings of loyalty, exit per se is essen­
 
 tially costless, except for the cost of gathering informa-
 
-A Theory of Loyalty
-
 tion about alternative products and organizations. Also,
 when loyalty is not present, the individual member is
 likely to have a low estimate of his influence on the orga­
@@ -3872,8 +3754,6 @@ does not get much of a chance to develop either because,
 with many parties in the field, members will usually find
 it tempting to go over to some other party in case of dis­
 agreement. Thus they will not fight for "change from
-
-Exit, Voice, and Loyalty
 
 \vithin." In this connection it may be significant that
 Michels's "Iron Law of Oligarchy" according to which
@@ -3919,8 +3799,6 @@ easier it appears to be for organizations to resist, evade, and post­
 pone the introduction of internal democracy even though they func­
 tion in a democratic environment.
 
-A Theory of Loyalty
-
 suit of a member or group of members of one party going
 over to the other, but because it is always possible to
 launch a third party. Hence, if voice is to be given a fair
@@ -3962,8 +3840,6 @@ ment can be made from the point of view of achieving
 
 mentary ( December 1968 ) , p. 51.
 
-Exit, Voice, and Loyalty
-
 party responsiveness to its members tl1rough the most
 effective mix of voice and exit.
 
@@ -4003,8 +3879,6 @@ It may be helpful to set up a more formal 1nodel of what
 happens when choice between two competing goods or
 organizations is a ffected by loyalty. For the purpose of
 
-A Theory of Loyalty
-
 this inquiry, it will be assumed once again that the nor­
 mally bought product or the organization to which one
 belongs begins to deteriorate. The focus will now be on
@@ -4029,9 +3903,6 @@ behav ior
 /
 
 l
-I
-I
-I
 
 Loyalist behavior
 
@@ -4058,7 +3929,7 @@ agreement
 
 W i den i ng d i sag reement
 
-Fi gure 1 . Loyalist behavior in the face of increasing disagree­
+Figure 1 . Loyalist behavior in the face of increasing disagree­
 ment with an organization
 
 organization which is moving from the point where the
@@ -4066,8 +3937,6 @@ member finds himself in complete agreement with its poli­
 cies to the point of total disagreement. The vertical axis
 measures the amount of effective voice that is forthcoming
 in response to various degrees of disagreement.
-
-Exit, Voice, and Loyalty
 
 At some point in the process of the organization's head­
 ing in the ��wrong" direction, members will begin attempts
@@ -4105,8 +3974,6 @@ condition as member. The distance between XAL and XWL
 represents a more inclusive concept of loyalist behavior.
 The distance TX-XWL represents the portion of the
 process of deterioration during which the member thinks
-
-A Theory of Loyalty
 
 about exit and is liable to use the threat of exit for the pur­
 pose of changing the policies of the organization. This
@@ -4148,8 +4015,6 @@ lot investor who typically sells stocks cheap to stop his
 losses and buys back dear after stock values have risen
 considerably beyond those at which they were sold. Unlike
 
-Exit, Voice, and Loyalty
-
 such investors, however, the loyalist is not necessarily a
 "sucker" ; his sticking with the deteriorating product or
 organization should have as counterpart an increase in the
@@ -4186,8 +4051,6 @@ Curve ABC then shows the demand schedule for the deterioration
 phase while curve CDA portrays demand for the recovery phase.
 Depending on the phase of the decline-recovery cycle, demand for
 quality Q2 is either Q� or Q2D.
-
-A Theory of Loyalty
 
 Demand is of course always likely to be a function not only
 
@@ -4251,8 +4114,6 @@ Psychology, 2 : 1-9 ( June 1965 ) , and literature there noted.
 ment, Obstacles to the Perception of Change, and Leadership,"
 Daedalus ( Summer 1968) , pp. 925-936.
 
-Exit, Voice, and Loyalty
-
 ULB ( Unconscious Loyal Behavior) is loyalist only from
 the point of view of an outside observer who feels that
 voice- or exit-justifying deterioration has indeed set in.
@@ -4293,8 +4154,6 @@ Studies in Philosophy, Politics, and Economics ( Chicago : Univer­
 sity of Chicago Press, 1967 ) , is traced by him to Adam Ferguson's
 Essay on the History of Civil Society ( 1767 ) .
 
-A Theory of Loyalty
-
 nization managers, their short-run interest is to entrench
 themselves and to enhance their freedom to act as they
 wish, unmolested as far as possible by either desertions
@@ -4334,8 +4193,6 @@ were right after all in paying that high entrance fee. Thus
 while the onset of voice will be delayed by severe initia­
 tion, resort to it is likely to be more active than is ordi­
 narily the case during a subsequent phase of loyalist
-
-Exit, Voice, and Loyalty
 
 behavior. The high cost of entry will change the time­
 pattern of voice, but may well not reduce its aggregate
@@ -4380,8 +4237,6 @@ E for a fuller statement on these papers.
 
 1 1 . In spite of superficial resemblance, the hypothesis here pro­
 posed is fundamentally different from the one put forward and
-
-A Theory of Loyalty
 
 This hypothesis is to be tested experimentally by Pro­
 fessor Philip Zimbardo of Stanford University and his
@@ -4433,8 +4288,6 @@ vigorous when those responsible for the project are fully committed
 to it as a result of prior expenditures. Hence the later the difficulty
 appears the better, provided of course that it can be successfully
 solved. See Hirschman, Development Projects O bserved, pp. 18-21.
-
-Exit, Voice, and Loyalty
 
 Payment of a high price of entry thus does not lead neces­
 
@@ -4502,8 +4355,6 @@ tion) ahead of XWL.
 see Gabriel A. Almond, The Appeals of Communism ( Princeton,
 195 4 ) , ch. 12.
 
-A Theory of Loyalty
-
 and the threat will not be uttered for fear that the sanc­
 tion will apply to the threat as well as to the act itself. I11
 terms of the model, point TX will be moved to the left and
@@ -4545,8 +4396,6 @@ tenns of the flow of information to the powerholders. See his Politics
 of Modernization ( Chicago : University of Chicago Press, 1965 ) ,
 p. 40.
 
-Exit, Voice, and Loyalty
-
 compensate for the virtual unavailability of the threat of
 exit. By itself, the high price or the "unthinkability" of
 exit may not only fail to repress voice but may stimulate
@@ -4584,8 +4433,6 @@ exit, but by the anticipation that the organization to which
 they b elong would go from bad to worse if they left.
 
 This sort of behavior is the opposite of the one discussed
-
-A Theory of Loyalty
 
 in Chapter 4. It was shown there that under certain condi­
 tions the most influential members might be the nrst to
@@ -4627,8 +4474,6 @@ direction of the relationship : In the usual price-making
 action if I hear that a firm which has disappointed me and with
 which I have stopped doing business comes to grief.
 
-Exit, Voice, and Loyalty
-
 situation, withdrawal of a buyer ( a downward shift of the
 demand curve ) will lead to price being lowered or, corre­
 spondingly, to quality being improved because the supply
@@ -4669,8 +4514,6 @@ prospective effect of their decision they may end up by
 11ot taking it, for reasons of general wel fare or even as a
 
 1 0 0
-
-A Theory of Loyalty
 
 result of a private cost-benefit calculation : the lives of both
 
@@ -4741,8 +4584,6 @@ real exit from a good or an organization so that the
 
 1 0 1
 
-Exit, Voice, and Loyalty
-
 decision to exit in the partial sense in vvhich this may be
 possible must take into account any further deterioration
 in the good that may result. What becomes difficult to
@@ -4784,8 +4625,6 @@ product quality, or of disagreement with the party line.
 
 1 02
 
-A Theory of Loyalty
-
 Now it can be shown that an invariant or even inverse
 relationship between these variables is possible. In the
 case of public goods, the member will compare, at any one
@@ -4824,8 +4663,6 @@ breaks out. It will be argued later that in these situations
 we are likely to suffer from an excess rather than from a
 shortage of spinelessness. It is nevertheless worth noting
 
-Exit, Voice, and Loyalty
-
 that the magnitude of public evils that can today be visited
 upon all of us by the centers of world power has bestowed
 "functionality" or social usefulness on protracted spine­
@@ -4863,8 +4700,6 @@ tion from vvithout instead of working for change from
 within. In other words, the alternative is now not so much
 between voice and exit as between voice from within and
 voice from without ( after exit) . The exit decision then
-
-A Theory of Loyalty
 
 hinges on a totally new question : At what point is one
 more effective ( besides being more at peace with oneself)
@@ -4993,8 +4828,6 @@ Safety-Valve Theory," A gricultural History, 1 9 : 31-37
 1945 ) , reprinted in George R. Taylor, ed., The Turner Thesis ( Bos­
 ton : D. C. Heath & Co., 1949 ) .
 
-Exit, Voice, and Loyalty
-
 Americans, noted by observers ever since Tocqueville, may
 also be explained in this fashion. Why raise your voice in
 contradiction and get yourself into trouble as long as you
@@ -5079,8 +4912,6 @@ of "leadership potential" is also argued in Stokely Carmichael and
 Charles V. Hamilton, Black Power ( New York : Vintage Books,
 1967) ' p. 53.
 
-Exit, Voice, and Loyalty
-
 voice \Vas fatally weakened by exit of the most quality­
 conscious customers of a firm or of the most valuable mem­
 bers of an organization.
@@ -5129,8 +4960,6 @@ nual of the American A cademy of Political and Social Sciences,
 8. Ibid.
 
 1 10
-
-Exit and Voice in American Ideology and Practice
 
 A similar preference for the "colle ctive thrust" approach
 over the "flight" or "melting pot" pattern of upward social
@@ -5197,8 +5026,6 @@ Books, 1968 edition ) , p. 184.
 
 1 1 1
 
-Exit, Voice, and Loyalty
-
 status not only through the cumulative effect of individ­
 ual success stories, but also because they formed interest
 groups, turned into outright maj orities in some political
@@ -5236,8 +5063,6 @@ result is a strong psychological compulsion to like that for
 • For some forceful and well documented remarks along these
 lines, see Christopher Lasch, The Agony of the American Left ( New
 York : Alfred A. Knopf, 1969 ) , pp. 134-141.
-
-Exit and Voice in American Ideology and Practice
 
 which so large a payment has been made. In retrospect,
 the "old country" will appear more abominable than ever
@@ -5299,8 +5124,6 @@ Canzoniere ( Rome : Giulio Einaudi, 1945 ) , p. 220.
 
 1 13
 
-Exit, Voice, and Loyalty
-
 ( 2 ) Since clearly the country cannot be at fault, re­
 sponsibility for unhappiness, qualms, and so forth is
 assumed to lie with the person experiencing these sensa­
@@ -5342,8 +5165,6 @@ Bird! where the "Egg of Head" weighs exit and voice and
 finds exit \vanting in attractiveness :
 
 1 14
-
-Exit and Voice in American Ideology and Practice
 
 I11 speaking out one loses influence.
 The chance for change by pleas and prayer is gone.
@@ -5395,8 +5216,6 @@ out convincingly by Michel Crozier, The Bureaucratic Phenontenon
 ( Chicago : University of Chicago Press, 1964 ) , ch. 6.
 
 1 1 5
-
-Exit, Voice, and Loyalty
 
 "role-play ing" as "a member of the team." In tl1is \Vay,
 l1e is made to give up in advance his strongest weapon :
@@ -5481,8 +5300,6 @@ the club of top Democratic politicians, a breaking of the
 
 1 17
 
-Exit, Voice, and Loyalty
-
 rules of the game as traditionally played within tl1e gov­
 erning party ( the rule being that one does not oppose
 the President's bid for reelection ) . But there was to occur
@@ -5547,8 +5364,6 @@ dition is of interest : The letter, with its original mixture of exit and
 voice, was largely due to Daniel Ell sberg, one of the six signers.
 
 1 1 8
-
-Exit and Voice in American Ideology and Practice
 
 But the moral condemnation or exhortation implicit in
 this kind of writing is not likely to be very effective, given
@@ -5618,8 +5433,6 @@ whose members
 react strongly
 via
 
-Exit
-
 Yes
 
 No
@@ -5633,8 +5446,6 @@ ing output to a few
 buyers
 
 Yes
-
-Voice
 
 Family, tribe, nation,
 church, parties in non­
@@ -5677,8 +5488,6 @@ that the organizations which are equipped with both feed­
 back mechanisms are necessarily more advanced or via­
 ble than those which rely primarily on one alone. All
 
-Exit, Voice, and Loyalty
-
 depends on the responsiveness of the organization to
 whatever mechanism or combination of mechanisms it is
 equipped with. If an organization equipped with exit is
@@ -5695,12 +5504,6 @@ another table.
 
 Decline arouses primarily :
 
-Exit
-
-Voice
-
-Exit
-
 Competitive business
 enterprise ( for qualifications see Chapter 2 )
 
@@ -5711,8 +5514,6 @@ is "institutionalized"
 Organization
 is sensitive
 primarily to :
-
-Voice
 
 Public enterprise sub­
 ject to competition
@@ -5779,8 +5580,6 @@ given both to making exit more easy and attractive by
 appropriately redesigned institutions and to making the
 orga11ization more responsive to voice. The approach to
 the improvement of institutional designs that is advocated
-
-Exit, Voice, and Loyalty
 
 here widens the spectrum of policy choices that are usually
 considered and it avoids the strong opposite biases in
@@ -5865,8 +5664,6 @@ dominant and almost exclusive mode. In the opposite case,
 ilarly g�alvanizing. It may be asked why this should be so,
 why exit, an act of withdrawal, should suddenly prove
 
-Exit, Voice, and Loyalty
-
 to be influential when the returns from "working from
 within" via voice have been decli11ing. Exit is not usually
 undertaken for the purpose of gaining more influence than
@@ -5907,8 +5704,6 @@ point, Moscovici quotes experimental results of Muzafer Sherif and
 Carl I. Hovland.
 
 Appendixes
-
-Index
 
 A Simple Diagrammatic Representation
 
@@ -6009,18 +5804,11 @@ Q u a n t i t y
 Ql
 
 l
-I
-I
-I
 i
 
 r'
 
 Oo l
-I
-I
-I
-I
 
 p' 0
 
@@ -6028,7 +5816,7 @@ p' 0
 
 E
 
-Fi gure 2. Voice and exit when demand is a function of quality
+Figure 2. Voice and exit when demand is a function of quality
 
 Q uant i t y
 
@@ -6203,8 +5991,6 @@ would be won by the former while the area southwest of QE V2
 
 1. See below, Appendix D, n. 4.
 
-Appendix B
-
 shows combinations that are inferior to E and would therefore
 lead to exit.
 
@@ -6278,8 +6064,6 @@ the extent to which recovery of normal quality is achieved ) . The
 resulting probability distribution results in an "influence curve"
 such as Q0V1 which shows for every improvement of quality
 
-Appendix B
-
 over Q0 the probability that at least this improvement will ac­
 tually be attained as a result of voice. The influence curve is a
 
@@ -6341,8 +6125,6 @@ about and the position of this point in relation to the indifference
 curve going through QE will yield a clearcut decision.
 
 1 35
-
-Appendix B
 
 as costly because of loyalty to the deteriorating product or
 
@@ -6409,8 +6191,6 @@ some customers will choose exit and others voice because they
 have different preference maps, entertain different estimates of
 
 their influence and of the cost of using that influence, and even
-
-Appendix B
 
 make different evaluations of the extent to which the competing
 
@@ -6540,8 +6320,6 @@ G)
 
 �
 
-I
-
 -
 
 0 �
@@ -6555,8 +6333,6 @@ or
 B
 
 A
-
-C
 
 Qua nti ty
 
@@ -7087,8 +6863,6 @@ initiation of reading obscene material liked both the group and
 
 1. See ch. 7, n. 1 0, above.
 
-Appendix E
-
 its memb ers more than either girls who u nderwent a mild i n itia­
 
 tion or no initiation at all. The latter two groups did not differ
@@ -7151,8 +6925,6 @@ natu re of the discuss ion b ecau s e one has not suffered for the ex­
 p ress pu rpose of ach i evi ng m embership i n that boring group.
 
 2. See ch. 7, n. 10, above.
-
-Appendix E
 
 Hence one would not predict increased l iking in this case. The
 
@@ -7224,8 +6996,6 @@ that there are s imilar groups available ( groups , that i s , which
 serve the same functional goals ) , thi s switching of allegiance
 
 will be more likely. When exit is costly or otherwise difficult,
-
-Appendix E
 
 one will probably attempt to reduce the exit-generated disso­
 
@@ -7304,8 +7074,6 @@ When taking action either to improve the group or to exit
 from it, the severe initiates are likely to j u stify this action to
 themselves and others by depicting the present state of the
 
-Appendix E
-
 group as even more urotten'' than it really i s ; and they will at
 
 that point have a poorer op inion of the group than the mild
@@ -7372,8 +7140,6 @@ pectations about the group, its activities, and its members :
 100-point continuous scales measuring liking, interest, dullness,
 
 1 5 1
-
-Appendix E
 
 p roductivity, educational value, intelligence, entertainment, at­
 
@@ -7450,8 +7216,6 @@ will be introduced to the other members of the group. Each
 group will consist of seven subj ects-t,vo severe initiates, two
 
 mild initiates, two control subj ects, and a confederate of the
-
-Appendix E
 
 experimenter ( "blind'' to the others ) whose role will be de­
 
@@ -7532,8 +7296,6 @@ serves as the third measure of creative innovative behavior.
 
 Session 3 : After a short b reak, the third session reconvenes,
 
-Appendix E
-
 without the experimenter present. A graduate student enters
 
 the room and informs the group that the group leader asked
@@ -7608,8 +7370,6 @@ b. after initiation
 
 c. after each session
 
-Appendix E
-
 2. Measures of exit
 
 a. spontaneous
@@ -7681,8 +7441,6 @@ subj ected to low exit costs, will proselytize to actively under­
 mine the group. They ought to seek social support for the exit
 
 action, preferably by convi ncing others to exit.
-
-Index
 
 Activism, 94 ; political, 32, 71-
 72, 74 ; and severity of initia­
@@ -7801,8 +7559,6 @@ sensitivity
 
 Converse, P. E., 71n
 Cooper, Duff, 118
-
-Index
 
 "Cop-out" movement, 105, 108
 Costs, 23, 39-40
@@ -8005,8 +7761,6 @@ Hayek, F. A., 92n
 Hicks, John, 55n
 Hinch, Melvin, 64n, 67n
 
-Index
-
 Hippies, 108
 Hofstadter, Rich ard, 108n
 Hotelling, Harold, 66, 68-73
@@ -8069,8 +7823,6 @@ Lasch, Christopher, 112n
 Latin America, 60-61, 8 1
 Leach, Edmund, 76n
 Leadership, 83 ; succession, 5-6
-
-Index
 
 Leibenstein, Harvey, 1 1-13
 Lerner, A. P., 68n, 73n
@@ -8266,8 +8018,6 @@ Recuperation
 15 ; and efficiency of voice op­
 tion, 5, 30 , 35-36, 120 ; effi-
 
-Index
-
 Recuperation ( Cont. )
 
 ciency of exit option, 5 ; and
@@ -8333,8 +8083,6 @@ quiry into the Principles of
 Political Oeconomy
 ( 1767 ) ,
 7-8
-
-Index
 
 Stevenson, Adlai E ., 114
 Stock market, 46

@@ -1989,30 +1989,23 @@ No improvement in safety measures, despite six prior accidents.
 Government/Management
 
 Storing 10 times more methyl isocyanate (MIC) than was needed daily.
-Management
 
 Poor evacuation measures.
 Government/Management
 
 Safety measures not upgraded when plant switched to large scale storage of MIC.
-Management
 
 Heavy reliance on inexperienced operators and supervisors.
-Management
 
 Factory inspector's warning on washing MIC lines neglected.
-Management
 
 Failure to release telex message on MIC treatment.
-Management
 
 2. Operator errors
 
 Reduction in operating and maintenance staff.
-Management
 
 Using a nontrained superintendent for the MIC plant.
-Management
 
 Repressurising the tank when it failed to get pressurized once.
 Management/Operator
@@ -2021,10 +2014,8 @@ Issuing orders for washing when MIC tank failed to repressurise.
 Management/Operator
 
 Not operating warning siren until leak became severe.
-Management
 
 Switching off siren immediately after starting it.
-Management
 
 Failure to recognise that pressure rise was abnormal.
 Management/Operator
@@ -2047,16 +2038,13 @@ Pressure and temperature indicators did not work.
 Management/Maintenance
 
 Insufficient gas masks available.
-Management
 
 Flare tower was disconnected.
 Management/Maintenance
 
 Vent gas scrubber was in inactive mode.
-Management
 
 Iron pipelines were used for transporting MIC.
-Management
 
 A manual mechanism for switching off scrubber.
 Design/Management
@@ -2078,10 +2066,8 @@ Case Study No. 3: Challenger
 Date
 Actions and latent failures
 
-1977
 During test firings of solid – rocket booster, Thiokol engineers discover that casing joints expanded (instead of tightening as designed). Thiokol persuades NASA that this is "not desirable but acceptable." It was also discovered that one of the two O – ring joint seals frequently became unseated, thus failing to provide the back – up for which it was designed.
 
-1981
 NASA plans two lightweight versions of the boosters in order to increase payload. One is to be of steel, the other made of carbon filament. Hercules submits an improved design for the latter, incorporating a lip at the joint to prevent the O – ring from unseating (termed a "capture feature"). Thiokol continues to use unmodified joints for its steel boosters.
 
 November 1981
@@ -2171,19 +2157,14 @@ At 1805 on 6 March 1987, the Herald goes astern from the berth, turns to starboa
 The most immediate cause is that the assistant bosun (whose job it was to close the doors) was asleep in his cabin, having just been relieved from maintenance and cleaning duties.
 (Supervisory failure and unsuitable rostening)
 The bosun, his immediate superior, was the last man to leave G deck. He noticed that the bow doors were still open, but did not close them, since he did not see that as part of his duties.
-(Management failure)
 
 Chief officer checks that there are no passengers on G deck, and thinks he sees assistant bosun going to close doors (though testimony is confused on this point).
 The chief officer, responsible for ensuring door closure, was also required (by company orders) to be on the bridge 15 minutes before sailing time.
-(Management failure)
 Because of delays at Dover, there was great pressure on crews to sail early. Memo from operations manager: "put pressure on your first officer if you dont think he's moving fast enough...sailing late out of Zeebrugge isn't on. It's 15 minutes early for us."
-(Management failure)
 Company standing orders (ambiguously worded) appear to call for "negative reporting" only. If not told otherwise, the master should assume that all is well. Chief officer did not make a report, nor did the master ask him for one.
-(Management failure)
 
 On leaving harbour, master increases speed. Water enters open bow doors and foods into G deck. At around 1827, Herald capsizes to port.
 Despite repeated requests from the masters to the management, no bow door indicators were available on the bridge, and the master was unaware that he had sailed with bow doors open. Estimated cost of indicators was £400 – 500.
-(Management failure)
 Ship had chronic list to port.
 (Management and technical failure)
 Scuppers inadequate to void water from flooded G deck.
@@ -2206,11 +2187,9 @@ Smoking permitted on London Underground trains and premises.
 
 At 1930, passenger alerts booking clerk to small fire on escalator 4. Booking clerk rings Relief Station Inspector (RSI), but does not specify precise location of fire.
 Inadequate fire and emergency training given to staff. It was accepted by LU that the quality of staff training at its White City training centre had been inadequate. Only 4 of the 21 station staff on duty had had any training in evacuation or fire drills.
-(Management failure)
 
 At 1934, railway police evacuate passengers via Victoria Line escalator. They are unaware of the layout of the station.
 No evacuation plan existed for King's Cross underground station. No joint exercises between LU and the emergency services had been conducted.
-(Management failure)
 
 Between 1935 to 1938, RSI enters lower machine room, but fails to detect fire. He enters upper machine room and sees smoke and flames. Fetches fire extinguisher, but cannot get close enough to use it. He is too preoccupied to activate water fog equipment.
 Inadequate training. RSI was not regularly based at King's Cross, nor did he have any fire training. He had not so far informed either the station manager (located some distance away due to refurbishment of station) or the line controller of the fire. Trains were still arriving.

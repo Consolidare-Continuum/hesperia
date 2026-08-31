@@ -79,8 +79,6 @@ various versions of this important and celebrated work.
 
 2002).
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 I N A U G U R A L L E C T U R E: T W O C O N C E P T S O F L I B ER T Y
 
 [166] Mr Vice-Chancellor, the studies to which the Chichele Chair
@@ -121,8 +119,6 @@ unchecked momentum and a power over multitudes of men that
 may grow to be too great and violent to be affected by rational
 criticism, which could certainly have altered them at an earlier
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 stage. Over a hundred years ago the German poet Heine warned
 the French, among whom he lived, not to underestimate the
 power of ideas: philosophical concepts nurtured in the stillness of
@@ -162,8 +158,6 @@ human values. To neglect the field of political thought because its
 historically changing, unstable subject matter is not to be caught by
 the fixed concepts, abstract models and minute methods of
 analysis suitable to logic, or the philosophy of science, or linguistic
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 analysis or epistemology – to demand a unity of method in
 philosophy and reject whatever the method cannot make much of,
@@ -209,8 +203,6 @@ whom? How and why? Why do they think they must obey? Do
 
 predecessor in his chair, G. D. H. Cole.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 they obey without knowing it, and what are the forms of the
 delusion and are there inevitable consequences or conditions of
 human nature, or history, or the government of the universe? And
@@ -247,8 +239,6 @@ word 'freedom', but two criteria for its determination, seems to me
 a confusion. The two questions are clearly different, even though
 the answers to them may overlap.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 1. (a)6 Negative Freedom
 I am normally said to be free to the degree to which no human
 being interferes with my activity. This is the sense of liberty in
@@ -278,8 +268,6 @@ here. The number may be not 1 but I
 what he has a will to.' Law is always a 'fetter' [De cive, chapter 14], even if
 it protects you from being bound in chains that are heavier than the law's
 – arbitrary despotism or chaos. Bentham says the same.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 there is a sense in which he is not free; and this sense is of the
 greatest importance, as I hope presently to make clear. But
@@ -320,7 +308,6 @@ desire by a deliberate plan on the part of certain other human
 beings which I consider unjust or unfair, I speak of oppression.
 The nature of things does not madden us, only ill will does, said
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 Rousseau.8 The criterion of whether I am justified in speaking of
 myself as deprived of liberty is the part that I believe to be played
 by other human beings, directly or indirectly, with our without
@@ -362,8 +349,6 @@ nécessité des choses, mais non la mauvaise volonté d'autrui' ('It is in the
 nature of man patiently to endure the necessity of things, but not the ill
 will of others'): Émile, book 2; Oeuvres complètes, ed. Bernard Gagnebin,
 Marcel Raymond and others (Paris, 1959–95), iv 320.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 such value as they possess upon the various ends which men hold
 good or right or sacred. Consequently a frontier must be drawn
@@ -412,8 +397,6 @@ our nature'. No doubt we cannot remain absolutely free, and must
 give up some of our liberty to preserve the rest. But total selfsurrender is self-defeating, for if we give all there will be nothing
 left to preserve.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 What then must the minimum be? That which a man cannot
 give up without offending against the essence of his human nature.
 But, it may be objected, that 'nature' is the vaguest of vague terms,
@@ -454,8 +437,6 @@ and the institutions which themselves preserve freedom were in
 peril, individual liberty could be, at any rate temporarily, curtailed
 or suspended. Moreover, since justice demands that all individuals
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 be entitled to this minimum degree of freedom, all other
 individuals were of necessity to be restrained, if need be by force,
 from depriving anyone of it. Indeed the whole function of law was
@@ -495,8 +476,6 @@ however lofty the principle, however conducive to his own wellbeing – and even
 not have rejected it, or rebelled against it, he is not a fully human
 
 9 On Liberty, chapter 2.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 being, his human essence has been ignored, or degraded or
 destroyed. To face a man with the choice of extermination or
@@ -540,8 +519,6 @@ another illustration of the natural tendency of all but a few thinkers
 
 10 Liberty, Equality, Fraternity (London, 1873).
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 to believe that all things they hold good must be intimately
 connected or at least compatible with one another. The history of
 thought, like the history of nations, is strewn with examples of
@@ -584,8 +561,6 @@ importance: it is that liberty in this sense is compatible with some
 11 See the very valuable discussion of this in M. Villey, Leçons de'histoire
 de la philosophie du droit, who traces the embryo of the notion of individual
 rights and liberty to Occam.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 kinds of autocracy, or at any rate the absence of self-government.
 Liberty in this sense is concerned with the area of control, not with
@@ -631,8 +606,6 @@ torture, perhaps even if I act from fear of losing my job, I can reasonably
 say that I did not act freely. Nevertheless I did of course make a choice,
 and could, at any rate in theory, have chosen to be tortured or dismissed.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 an answer to the question not 'What am I free to do or be?' but
 'By whom am I ruled? Who is to say what I [178] am, and what I
 am not, to be or do?' It may appear at first as if there exists the
@@ -674,8 +647,6 @@ today than the average citizen of the Republic of Romania today. The
 total patterns of life can be directly compared as wholes, although the
 truth of the conclusion may be difficult to demonstrate.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 For it is this – the 'positive' conception of liberty: not freedom
 from, but freedom to – which the adherents of the 'negative'
 concept represent as being, at times, no better than a specious
@@ -713,8 +684,6 @@ into direct conflict with each other. This will become clear when
 one considers the two major forms which the desire to be selfdirected has, historically, taken: the first that of self-denial in order
 
 13 [A section number is present here, but it has been crossed out.]
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 to attain independence; the second that of the conquest of
 obstacles, to attain the selfsame end.
@@ -756,8 +725,6 @@ two methods of freeing myself from pain. One is to heal the
 
 14 [There are no further numbers in this series.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 wound. But if the cure is precarious and uncertain, there is another
 method. I can get rid of the wound by cutting off my leg; and must
 train myself to want nothing to which the possession of my leg
@@ -797,8 +764,6 @@ only to remark that the notion of freedom as autonomy in this
 15 'A wise man, though he be a slave, is at liberty, and from this it
 follows that though a fool rule, he is in slavery', said St Ambrose: but
 this might equally well have been said by Epictetus or Kant.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 sense has played a central role in politics no less than ethics or
 metaphysics.
@@ -841,8 +806,6 @@ which there is no greater sin. There is only one author of ends who
 can never be the means to a further end, and that is the individual
 himself, who creates all values, wills all ends. In the name of what
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 am I justified in forcing men to do what they have not willed?
 Only in the name of some value higher than themselves. But there
 is no value higher than themselves if all values are the creations of
@@ -883,8 +846,6 @@ himself – his 'inner self' – independent of chance and causality and
 the malice and stupidity of men, by withdrawing, rising above it,
 making himself unassailable, impermeable, as it were, to anything
 that might deflect him.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 The notion of slavery to the passions is to those who think in
 these terms is more than a metaphor. To rid myself of fear, or
@@ -928,8 +889,6 @@ where the Stoic ideal cannot be wholly unconnected with the fall
 
 Sophocles to this effect. Corrected in later versions.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 of the democracies before Macedonian despotism. It was certainly
 so in Rome, for analogous reasons, after the end of the Republic.
 It is not far-fetched to assume that the quietism of the Eastern
@@ -972,8 +931,6 @@ was a proud and powerful nation where the real political power
 was not beyond the grasp of men of talent, and where the
 withdrawal from battle into some untroubled heaven above it,
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 whence it could be surveyed dispassionately by the self-sufficient
 philosopher, was not the only way out.17
 
@@ -1013,8 +970,6 @@ because they follow from the laws that govern the thought of the
 17 [Here Berlin inserts a section heading ('III'), but the section break
 
 after the next paragraph is the one that appears in the published text.]
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 rational mind, or because I have invented them for myself, then it
 no longer presents itself to me as an external obstacle which I
@@ -1069,8 +1024,6 @@ therefore
 
 is
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 exact sciences of nature, and of society on the model of these
 sciences, would make the operation of such causes transparently
 clear, and thus enable individuals to [189] choose whether to be
@@ -1114,8 +1067,6 @@ formulated social and economic laws which, he maintained, made
 such misunderstanding inevitable: and led to the illusion that the
 man-made arrangements were so many independent forces, as
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 inexorable as those of nature, to be obeyed as slaves obey a master;
 and gave instances of such pseudo-objective forces – the laws of
 supply and demand, or property as an unalterable human category,
@@ -1156,8 +1107,6 @@ rational. Whatever I can demonstrate to myself as being necessary,
 as unable to be otherwise in a rational world, that is in a world
 directed by rational minds towards goals such as a rational being
 might have, I cannot, being rational, wish to sweep out of the way.
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 I assimilate it into my substance as I do the laws of mathematics,
 the rules of art or of whatever I understand the purpose of, and
@@ -1209,8 +1158,6 @@ word 'reason' led them to it) that moral and political problems, like
 problems in mathematics or physics or in any other field, were in
 principle soluble, that is to say, that there was one true solution to
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 any problem, as opposed to the many false ones, and that the truth
 could be discovered by a rational thinker, and demonstrated so
 clearly that all other rational men could not but accept it (as was
@@ -1251,8 +1198,6 @@ that there is one, otherwise the problem is no problem, for all true
 problems must have solutions, whether they have been discovered
 or not) has not been reached.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 This can be put in another way. Freedom is self-mastery, the
 elimination of obstacles to my will, whatever these obstacles may
 be – the resistance of nature, of my own ungoverned passions, of
@@ -1291,8 +1236,6 @@ laws are directions to his proper interests or 'general good' and
 what 'hedges us from bogs and precipices' 'ill deserves the name of
 confinement', and calls any desire outside this irrational – 'license'
 or 'brutish' etc.; when Montesquieu, forgetting his 'negative'
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 moments, speaks of political liberty as a power of doing what we
 [194] ought to will', and Kant comes near to echoing this; they
@@ -1335,8 +1278,6 @@ wicked persons, because they abuse it?'
 
 20 [The latter wording does not appear in the 1793 Declaration.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 If the underlying assumption were correct – if solutions to
 social problems were like the solutions to those of the natural
 sciences, and if a society of wholly rational men could be
@@ -1376,8 +1317,6 @@ about to collapse, for I know that he cannot wish to fall into the
 water, whatever his behaviour indicates. I, the sage, know your
 wishes better than you can know them yourself, for you are the
 victim of your passions, a slave living the heteronomous life,
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 purblind, unable to understand your true goals. You want to be a
 human being. It is the aim of the State to satisfy your wish. Let me
@@ -1421,8 +1360,6 @@ there is no case for freedom for its own sake, either for men or
 groups, or for any conduct unauthorised by scientific experts.
 Comte put bluntly what had been implicit in the rationalist theory
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 of politics from its ancient Greek beginnings: there can, in
 principle, be only one correct way of life; the wise lead it
 spontaneously, else they would not be [198] wise; the unwise must
@@ -1461,8 +1398,6 @@ There is another approach to this topic, often adopted today,
 which can, by confounding liberty with her sisters, equality and
 [201] fraternity, be made to yield a very similar conclusion. Ever
 since the issue was raised by Burke and Herder towards the end of
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 the eighteenth century it has been persistently, and with increasing
 effect, asked: What is meant by an 'individual'? In so far as I live in
@@ -1503,8 +1438,6 @@ recognised, from being classed as a member of some featureless
 amalgam, a statistical unit without identifiable, specifically human,
 features of my own. This is the degradation that I am fighting
 against – not equality of legal rights, nor liberty to do as I wish
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 (although I may want these too), but for a condition in which I can
 feel that I am, [202] because I am treated as, a responsible agent
@@ -1551,8 +1484,6 @@ poorest he that is in England hath a life to live, as the greatest he' is cited
 by Mortimer J. Adler, The Idea of Freedom: A Dialectical Examination of the
 Conceptions of Freedom (New York, 1958), 336.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 opportunity, still less assignment of a place in a frictionless organic
 State devised by the rational lawgiver, but simply recognition of
 themselves (or their class or nation, or colour or race) as an [203]
@@ -1594,8 +1525,6 @@ them; and this understanding creates within me the sense of being
 somebody in the world. It is this desire for reciprocal recognition
 that leads the most authoritarian democracies to be, at times,
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 consciously preferred by their members to the most enlightened
 oligarchies, or sometimes causes a member of some [204] newly
 liberated Asian or African State to complain less if he is unjustly
@@ -1636,8 +1565,6 @@ free: but if I have restrained you from doing so, no juggling with
 words can show that your freedom has not been curtailed. But it is
 perhaps more important to note that the analogy between
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 individual and group has been so successful a source of fallacies,
 and in its consequences so disastrous, precisely because solidarity
 and fraternity are basic human cravings, and, when they are
@@ -1675,8 +1602,6 @@ what Mill called 'Pagan self-assertion', but in a collective, socialised
 form. Indeed much of what he says, with excellent insight, about
 what it is that makes men desire liberty – the craving for nonconformity, for the assertion of their own values in the face of the
 prevailing opinion, for bold self-reliant personalities, for liberation
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 from the leading-strings of the official [206] lawgivers and
 instructors of society – has little enough to do with his conception
@@ -1719,8 +1644,6 @@ classify him as a man. But Mill and Constant want more than the
 minimum: they demand the maximum degree of non-interference
 compatible with the minimum demands of social life.
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 It seems unlikely that this demand for liberty has ever been
 made by any but a small minority of highly civilised and selfconscious human beings. The bulk of humanity has certainly at
 most times been prepared to sacrifice this to other goals: security,
@@ -1758,8 +1681,6 @@ The French Revolution – as indeed al great revolutions – was just
 such an eruption of the desire for the 'positive' freedom of
 collective self-direction by a large body of Frenchmen, who felt
 liberated as a nation even though the result was the restriction of
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 individual liberty. Rousseau had spoken exultantly of the fact that
 the laws of liberty might prove to be more austere than the yoke of
@@ -1802,8 +1723,6 @@ right not to be arrested, detained, killed, maltreated by the arbitrary
 will of one or several individuals; the right to express one's
 opinion, choose one's profession and exercise it; to dispose of
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 one's property, even to abuse it as one pleases; to go and come
 without having to account for one's motives or moods, or having
 to ask permission beforehand; the right to unite with others in the
@@ -1844,8 +1763,6 @@ absorbed in private life, we let our political rights – without which
 our private liberties may slip away – go too cheaply and be
 captured by adventurers. The danger to the liberty of the Ancients
 is that in pursuit of political control they allowed their private
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 freedom to go almost completely. The two types of freedom are
 plainly not compatible with each other, and if I barter my private
@@ -1888,8 +1805,6 @@ my liberties by an assembly in which I am a perpetual minority. It
 may give me an opportunity, one day, of persuading others to do
 for me that to which I feel that I am entitled. But to be deprived of
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 my liberty at the hands of everyone save myself deprives me of it
 just as effectively. But, of course, in practice it is not 'everybody'
 who rules, but its agent, i.e. a power which can rob you of all you
@@ -1929,8 +1844,6 @@ from me so widely in their conception of mean and human
 relationships that I am bound to look on them – according to our
 standards, that I am living by – as being abnormal, morally
 deficient, deranged. It seems clear that unless some such stand is
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 taken, individual liberty will be endangered. Democracy as such
 can never be sufficient to protect it. For, historically at least, no
@@ -1973,8 +1886,6 @@ without being so'). Die Wahlverwandtschaften (Tübingen, 1809) ii 202 (part
 2, chapter 5, 'From Ottilie's Diary'). I am indebted to Jaap Engelsman
 for this hypothesis.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 irreconcilable attitudes to the ends of life. It is as well to recognise
 this, even if it is necessary to strike a compromise between them.
 Each of them makes absolute claims: just as each has an equal
@@ -2013,8 +1924,6 @@ must be possible for all these values to live together, otherwise the
 universe is not a cosmos, not a harmony. Unless this is so the
 conflicts of values – tragedy – is an intrinsic element in human life
 and perhaps beyond it. But – so every rationalist metaphysician
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 from Plato to the last disciples of Hegel and Marx has maintained
 or implied – reason rejects the possibility that conflict cannot be
@@ -2055,8 +1964,6 @@ conviction in the minds of some of most bloodstained tyrants and
 persecutors in history that what they did was fully justified by its
 purpose. I do not say that the ideal of self-perfection for
 themselves or other nations or Churches or classes which
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
 
 consciously animated some of these men, and their followers, is to
 be despised as such, or that the language of freedom which they
@@ -2099,8 +2006,6 @@ economic, and must be retrained. This maxim must be respected
 
 23 [The last page of the manuscript, reproduced on p. 51, begins here.]
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 not because of some Kantian maxim whereby the respect for
 liberty for one logically entails respect for the liberty of others, but,
 like him, because respect for the principles of justice or equality is
@@ -2140,8 +2045,4 @@ from a barbarian.' I see no reason to wish to go further.
 
 © The Isaiah Berlin Literary Trust and Henry Hardy 2013
 
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T
-
 Posted 23 November 2013
-
-T W O C O N C E P T S O F L I B ER T Y : F I R S T C O R R E C T E D D R A F T

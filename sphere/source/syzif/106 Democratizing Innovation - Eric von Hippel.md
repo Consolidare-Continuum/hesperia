@@ -2,31 +2,18 @@ Democratizing Innovation
 
 Eric von Hippel
 
-Democratizing Innovation
-
 Copyright © 2005 Eric von Hippel. Exclusive rights to publish and sell this book in
 print form in English are licensed to The MIT Press. All other rights are reserved by
 the author. An electronic version of this book is available under a Creative Commons
 license.
 
-Eric von Hippel
-
 a
 
 a
-
-Democratizing Innovation
-Eric von Hippel
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Attribution
 
 Acknowledgements
-
-Democratizing Innovation
 
 1 Introduction and Overview
 
@@ -62,21 +49,13 @@ Index
 
 a
 
-Eric von Hippel
-
 i
 
 i
-
-Democratizing Innovation
 
 Attribution
 
 Dedicated to all who are building the information commons.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Acknowledgements
 
@@ -126,21 +105,9 @@ look deeply happy. Dad, I noticed the smile!
 Finally my warmest thanks to my MIT colleagues and students and also to MIT as an
 institution. MIT is a really inspiring place to work and learn from others. We all under-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 stand the requirements for good research and learning, and we all strive to contribute
 to a very supportive academic environment. And, of course, new people are always
 showing up with new and interesting ideas, so fun and learning are always being renewed!
-
-Eric von Hippel
-
-Democratizing Innovation
-
-Eric von Hippel
-
-Democratizing Innovation
 
 1 Introduction and Overview
 
@@ -188,10 +155,6 @@ The user-centered innovation process just illustrated is in sharp contrast to th
 closed way, the manufacturers using patents, copyrights, and other protections to prevent imitators from free riding on their innovation investments. In this traditional model,
 a user's only role is to have needs, which manufacturers then identify and fill by designing and producing new products. The manufacturer-centric model does fit some
 
-Eric von Hippel
-
-Democratizing Innovation
-
 fields and conditions. However, a growing body of empirical work shows that users
 are the first to develop many and perhaps most new industrial and consumer products.
 Further, the contribution of users is growing steadily larger as a result of continuing
@@ -237,10 +200,6 @@ services. When this is done, it may turn out that different parties are associat
 different attributes of a particular product or service. For example, householders are
 the users of the switching attribute of a household electric light switch—they use it
 
-Eric von Hippel
-
-Democratizing Innovation
-
 to turn lights on and off. However, switches also have other attributes, such as "easy
 wiring" qualities, that may be used only by the electricians who install them. Therefore, if an electrician were to develop an improvement to the installation attributes of
 a switch, it would be considered a user-developed innovation.
@@ -281,10 +240,6 @@ di_evh_f1-1.png,w640h434
 .1 User-innovators with stronger "lead user" characteristics develop innovations having higher appeal in the general marketplace. Estimated OLS function: Y =
 2.06 + 0.57x, where Y represents attractiveness of innovation and x represents leaduser-ness of respondent. Adjusted R2 = 0.281; p = 0.002; n = 30. Source of data:
 Franke and von Hippel 2003.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Why Many Users Want Custom Products (Chapter 3)
 
@@ -335,10 +290,6 @@ does exist: the user wants to get precisely what it needs, to the extent that it
 to do so. In contrast, the custom manufacturer wants to lower its development costs
 by incorporating solution elements it already has or that it predicts others will want in
 
-Eric von Hippel
-
-Democratizing Innovation
-
 the future—even if by doing so it does not serve its present client's needs as well as it
 could.
 
@@ -380,10 +331,6 @@ Users' Low-Cost Innovation Niches (Chapter 5)
 
 An exploration of the basic processes of product and service development show that
 
-Eric von Hippel
-
-Democratizing Innovation
-
 users and manufacturers tend to develop different types of innovations. This is due
 in part to information asymmetries: users and manufacturers tend to know different
 things. Product developers need two types of information in order to succeed at their
@@ -422,10 +369,6 @@ means: they often "freely reveal" what they have developed. When we say that an
 innovator freely reveals information about a product or service it has developed, we
 mean that all intellectual property rights to that information are voluntarily given up
 by the innovator, and all interested parties are given access to it—the information be-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 comes a public good.
 
@@ -475,10 +418,6 @@ to find ways to combine and leverage their efforts. Users achieve this by engagi
 many forms of cooperation. Direct, informal user-to-user cooperation (assisting others
 to innovate, answering questions, and so on) is common. Organized cooperation is
 
-Eric von Hippel
-
-Democratizing Innovation
-
 also common, with users joining together in networks and communities that provide
 useful structures and tools for their interactions and for the distribution of innovations.
 Innovation communities can increase the speed and effectiveness with which users
@@ -518,10 +457,6 @@ to increase the amount of innovation investment. Instead, it now appears that th
 are economies of scope in both patenting and copyright that allow firms to use these
 forms of intellectual property law in ways that are directly opposed to the intent of policy makers and to the public welfare. Major firms can invest to develop large portfolios
 of patents. They can then use these to create "patent thickets"—dense networks of
-
-Eric von Hippel
-
-Democratizing Innovation
 
 patent claims that give them plausible grounds for threatening to sue across a wide
 range of intellectual property. They may do this to prevent others from introducing a
@@ -569,10 +504,6 @@ electronics. These information-based tools can be run on a personal computer, an
 they are rapidly coming down in price. As a consequence, innovation by users will
 continue to grow even if the degree of heterogeneity of need and willingness to invest
 
-Eric von Hippel
-
-Democratizing Innovation
-
 in obtaining a precisely right product remains constant.
 
 Equivalents of the innovation resources described above have long been available 55
@@ -617,10 +548,6 @@ users' innovation-related tasks. (3) Sell products or services that are compleme
 to user-developed innovations. Firms in fields where users are already very active in
 product design are experimenting with all these possibilities.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Application: Searching for Lead User Innovations (Chapter 10)
 
 Manufacturers design their innovation processes around the way they think the process works. The vast majority of manufacturers still think that product development
@@ -664,10 +591,6 @@ space offered by a particular toolkit cheaper for users.
 to the toolkit and so influences what they develop and how they develop it. The custom semiconductor industry was an early adopter of toolkits. In 2003, more than $15
 billion worth of semiconductors were produced that had been designed using this approach.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Manufacturers that adopt the toolkit approach to supporting and channeling user innovation typically face major changes in their business models, and important changes in
 industry structure may also follow. For example, as a result of the introduction of toolkits to the field of semiconductor manufacture, custom semiconductor manufacturers—
 formerly providers of both design and manufacturing services to customers—lost much
@@ -700,10 +623,6 @@ Social Construction of Technology (Pinch and Bijker 1987).
 I conclude this introductory chapter by reemphasizing that user innovation, free revealing, and user innovation communities will flourish under many but not all conditions.
 What we know about manufacturer-centered innovation is still valid; however, leaduser-centered innovation patterns are increasingly important, and they present major
 new opportunities and challenges for us all.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 2 Development of Products by Lead Users
 
@@ -745,10 +664,6 @@ are developing and modifying products.
 
 Table 2.1 Many respondents reported developing or modifying products for their own 76
 use in the eight product areas listed here.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Number and type of Users Sampled
 
@@ -847,10 +762,6 @@ nearly all the most important innovations in oil refining were developed by user
 Freeman (1968) found that the most widely licensed chemical production processes
 were developed by user firms. Von Hippel (1988) found that users were the developers
 
-Eric von Hippel
-
-Democratizing Innovation
-
 of about 80 percent of the most important scientific instrument innovations, and also
 the developers of most of the major innovations in semiconductor processing. Pavitt
 (1984) found that a considerable fraction of invention by British firms was for in-house
@@ -894,10 +805,6 @@ Evidence of Innovation by Lead Users
 Several studies have found that user innovation is largely the province of users that
 have lead user characteristics, and that products lead users develop often form the
 basis for commercial products. These general findings appear robust: the studies
-
-Eric von Hippel
-
-Democratizing Innovation
 
 have used a variety of techniques and have addressed a variety of markets and innovator types. Brief reviews of four studies will convey the essence of what has been
 found.
@@ -944,10 +851,6 @@ concept containing lead user features was significantly preferred at even twice 
 price (p < 0.01).
 
 Innovation in Libraries
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Morrison, Roberts, and von Hippel (2000) explored user modifications made by Australian libraries to computerized information search systems called Online Public Access systems ("OPACs"). Libraries might not seem the most likely spot for technological innovators to lurk. However, computer technologies and the Internet have had a
 major effect on how libraries are run, and many libraries now have in-house programming expertise. Computerized search methods for libraries were initially developed by
@@ -1014,10 +917,6 @@ of innovation.
 
 The libraries in the sample were asked to rank themselves on a number of character-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 istics, including "leading edge status" (LES). (Leading edge status, a construct developed by Morrison, is related to and highly correlated with the lead user construct (in this
 sample, (LES,CLU) = 0.904, p = 0.000). 1 Self-evaluation bias was checked for by asking
 respondents to name other libraries they regarded as having the characteristics of lead
@@ -1076,10 +975,6 @@ users might engage: they "suggest new applications," they "pioneer those applica
 they have needs or problems earlier than their peers) they may be "used as a test site" (Morrison,
 Midgely, and Roberts 2004).
 
-Eric von Hippel
-
-Democratizing Innovation
-
 "Consumer" Innovation in Sports Communities
 
 Franke and Shah (2003) studied user innovation in four communities of sports enthusiasts. The communities, all located in Germany, were focused on four very different
@@ -1124,10 +1019,6 @@ improvements in cockpit ventilation. Snowboarders invented such things as improv
 boots and bindings. Canyoners' inventions included very specialized solutions, such
 as a way to cut loose a trapped rope by using a chemical etchant. With respect to
 commercial potential,
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Franke and Shah found that 23 percent of the user-developed innovations reported 111
 were or soon would be produced for sale by a manufacturer. Franke and Shah found
@@ -1244,10 +1135,6 @@ medicine, the "contextual barrier" of concerns about legal problems and liabilit
 was found to have a strongly significant negative correlation with the likelihood of user
 invention by surgeons (p < 0.01).
 
-Eric von Hippel
-
-Democratizing Innovation
-
 With respect to the commercial value of the innovations the lead user surgeons had 117
 developed, Lüthje reported that 48 percent of the innovations developed by his lead
 user respondents were or soon would be marketed by manufacturers of medical equipment.
@@ -1279,10 +1166,6 @@ and so local lead users really may be the world's lead users with respect to the
 top with respect to lead users' characteristics, local lead users might still have reasons
 to (re)develop innovations locally. For example, it might be cheaper, faster, more interesting, or more enjoyable to innovate than to search for a similar innovation that a
 "global top" lead user might already have developed.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 3 Why Many Users Want Custom Products
 
@@ -1334,10 +1217,6 @@ individual or firm. Of course, many will be willing to satisfice—make compromi
 many items because of limits on the money or time they have available to get exactly
 what they want. Thus, a serious mountain biker may be willing to simply buy almost any
 
-Eric von Hippel
-
-Democratizing Innovation
-
 couch on sale even if he or she is not fully happy with it. On the other hand, that same
 biker may be totally unwilling to compromise about getting mountain biking equipment
 that is precisely right for his or her specific needs. In terms of industrial products, NASA
@@ -1383,10 +1262,6 @@ provide secure attachment points for a carrying strap, then I modified a very pl
 and durable mountaineering sling to serve as the over-shoulder strap. Because the
 strap sits up high, I only need to bend my knees a little bit to lift the bike onto my
 shoulders, yet it is just high enough to keep the front wheel from hitting when I am
-
-Eric von Hippel
-
-Democratizing Innovation
 
 climbing a steep hill. Eventually, I came up with a quick-release lateral strap to keep
 the main strap from sliding off my shoulder, but it will easily break away if I fall or
@@ -1498,10 +1373,6 @@ means of cluster analysis (Green 1971; Green and Schaffer 1998). After cluster a
 needs, a measure of within-segment need variation is determined. This is the proportion of total variation that is within each cluster, and it shows how much users' needs
 deviate from the averages in "their" respective segments. If within-segment variation
 
-Eric von Hippel
-
-Democratizing Innovation
-
 is low, users within the segment will have fairly homogeneous needs, and so may be
 reasonably satisfied with a standard product designed to serve all customers in their
 segment. If it high, many users are likely to be dissatisfied—some seriously so.
@@ -1549,10 +1420,6 @@ within-cluster heterogeneity, it can lead to solutions with a large amount of wi
 homogeneity relative to the between-cluster heterogeneity. It suggests choosing the number of clusters
 where this value peaks (Milligan and Cooper 1985). However, this method appears to be rarely used:
 Ketchen and Shook (1996) found it used in only 5 of 45 segmentation studies they examined.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 to the client. Web server software began by offering relatively simple functionality.
 Over time, however, Apache and other web server software programs have evolved into
@@ -1603,10 +1470,6 @@ needs. This means that heterogeneity of need is high when many standard products
 
 3 ⌜ http://groups-beta.google.com/group/comp.infosystems.www.servers.unix ⌟
 4 ⌜ http://modules.apache.org/ ⌟
-
-Eric von Hippel
-
-Democratizing Innovation
 
 necessary to satisfy the needs of i individuals and low when the needs can be satisfied
 by a few standard products. The higher the coefficient the more heterogeneous are
@@ -1665,10 +1528,6 @@ product for two reasons: (1) delivering all possible physical options to everyon
 would be expensive for physical goods (while costing nothing extra in the case of information products);
 (2) some options are mutually exclusive (an automobile cannot be both red and green at the same time).
 
-Eric von Hippel
-
-Democratizing Innovation
-
 much they are willing to pay for a product or service (Mitchell and Carson 1989). Results obtained by that method often overestimate WTP significantly. Empirical studies
 that compare expressed WTP with actual cash payments on average showed actual
 spending behavior to be somewhat smaller than expressed WTP in the case of private
@@ -1717,10 +1576,6 @@ a study of WTP for a public urban greenway, found the expressed WTP to be 2-10 t
 Neil et al. (1994) found the expressed WTP for conserving an original painting in the desert to be 9 times
 the actual WTP. Seip and Strand (1992) found that less than 10 percent of those who expressed interest
 in paying to join an environmental organization actually joined.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Satisfaction with basic web server functionality
 Satisfaction with authentication of client
@@ -1773,8 +1628,6 @@ and I concluded from this that skilled users do not improve their respective Apa
 versions to the point where they are perfectly satisfied because the costs of doing so
 would exceed the benefits.
 
-Discussion
-
 Heterogeneity of user need is likely to be high for many types of products. Data are 162
 still scanty, but high heterogeneity of need is a very straightforward explanation for
 why there is so much customization by users: many users have "custom" needs for
@@ -1795,17 +1648,9 @@ taken the precaution of wrapping them in plastic." Next, I ask whether any stude
 have modified their backpacks to better meet their needs. Interestingly enough, one
 or two typically have. Since backpacks are not products of very high professional or
 
-Eric von Hippel
-
-Democratizing Innovation
-
 hobby interest to most users, the presence of even some user innovation to adapt to
 individual users' unmet needs in such small, casual samples is an interesting intuition
 builder with respect to the findings discussed in this chapter.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 4 Users' Innovate-or-Buy Decisions
 
@@ -1854,10 +1699,6 @@ the development of a custom product often differ significantly.
 
 Preferences Regarding Solutions
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Individual products and services are components of larger user solutions. A user therefore wants a product that will make the best overall tradeoff between solution quality
 and price. Sometimes the best overall tradeoff will result in a willingness to pay a
 surprisingly large amount to get a solution component precisely right. For example,
@@ -1901,10 +1742,6 @@ of chemicals on a small scale, and it needs the equipment, expertise and regulat
 approvals to package that kind of product in a way that is convenient to the customer
 and also in line with regulatory safeguards. In contrast, manufacturers specializing in
 
-Eric von Hippel
-
-Democratizing Innovation
-
 standard or custom metal fastening solutions need none of these things. What they
 need instead are mechanical design engineers, a machine shop to build product prototypes and production tooling, specialized metal-forming production equipment such
 as screw machines, and so on.
@@ -1947,10 +1784,6 @@ Users typically expect a solution they have purchased to work correctly and reli
 the manufacturer's site and routine, trouble-free usage at the purchaser's site. When
 the user builds a product for itself, however, both the development and the use functions are in the same organization and may explicitly be overlapped. Repeated tests
 and repeated repairs and improvements during early use are then more likely to be
-
-Eric von Hippel
-
-Democratizing Innovation
 
 understood and tolerated as an acceptable part of the development process.
 
@@ -2002,10 +1835,6 @@ Differing Legal and Regulatory Requirements
 Users that innovate do not generally face legal risk if the product they develop fails
 and causes costs to themselves but not to others. In contrast, manufacturers that de-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 velop and sell new products are regarded under US law as also providing an implied
 warranty of "fitness for the intended use." If a product does not meet this criterion,
 and if a different, written warranty is not in place, manufacturers can be found liable
@@ -2049,10 +1878,6 @@ instead.
 
 The contrasting incentives of users and manufacturers with respect to generality of
 need being served—and also with respect to the solution choice issue discussed earlier—
-
-Eric von Hippel
-
-Democratizing Innovation
 
 can result in a very frustrating and cloudy interaction in which each party hides its best
 information and attempts to manipulate others to its own advantage. With respect to
@@ -2100,10 +1925,6 @@ then till 1989, the time of Slaughter's study, 34 innovations were made in 12 fu
 Slaughter studied the history of each of these innovations and found that 82 percent
 had been developed by users of the stressed-skin panels—residential builders—and
 only 18 percent by manufacturers of stressed-skin panels. Sometimes more than one
-
-Eric von Hippel
-
-Democratizing Innovation
 
 user developed and implemented different approaches to the same functional problem
 (table 4.1). Builders freely revealed their innovations rather than protecting them for
@@ -2179,22 +2000,13 @@ $1,400
 $1,400
 $28,000
 $2,800
-$2,800
-$2,800
-$2,800
-$2,800
 $70,000
 $1,400
-$2,800
 $28,000
 $12,367
 
 N represents number of innovations developed by users to carry out each listed function. Source: Slaughter 1993, tables 4 and 5. Costs and times shown are averaged
 for all user-developed innovations in each functional category. (The six manufacturerdeveloped innovations in Slaughter's sample are not included in this table.)
-
-Eric von Hippel
-
-Democratizing Innovation
 
 The builder-innovator reported that the total time to develop the innovation was only 201
 an hour, and that the total cost for time and materials equaled $40. How could it cost
@@ -2239,10 +2051,6 @@ delay times, she assumed that a manufacturer would always be willing to supply t
 special item a user requested. She also assumed that no time elapsed while the manufacturer learned about the need, contracted to do the job, designed a solution, and
 obtained needed regulatory approvals. She then asked panel manufacturers to estimate how long it would take them to simply construct a panel with the solution needed
 and deliver it to the construction site. Delay times computed in this manner ranged
-
-Eric von Hippel
-
-Democratizing Innovation
 
 from 5 days for some innovations to 250 days for the longest-term one and averaged
 44 days.
@@ -2292,10 +2100,6 @@ having problem j. Let Whj be the cost of solving problem j, where W = hourly wag
 and hj = hours required to solve it. Let Pj be the price charged by a manufacturer for
 a solution to problem j. Let T be fixed or "setup" transaction costs, such as writing a
 general contract for buyers of a solution to problem j. Let t be variable or "frictional"
-
-Eric von Hippel
-
-Democratizing Innovation
 
 transaction costs, such as tailoring the general contract to a specific customer.
 
@@ -2347,10 +2151,6 @@ Nj > Whj / (Whj - t) > 1.
 
 Again, users will not call on upstream manufacturers to solve problems unique to one 227
 
-Eric von Hippel
-
-Democratizing Innovation
-
 user.
 
 The findings from the simplified model, then, are the following: Problems unique to 228
@@ -2401,10 +2201,6 @@ Benefiting from the Innovation Process
 
 Some individual users (not user firms) may decide to innovate for themselves rather
 
-Eric von Hippel
-
-Democratizing Innovation
-
 than buy even if a traditional accounting evaluation would show that they had made a
 major investment in time and materials for an apparently minor reward in product functionality. The reason is that individual users may gain major rewards from the process
 of innovating, in addition to rewards from the product being developed. Make-or-buy
@@ -2446,19 +2242,11 @@ a product or a service.
 
 In sum, to the extent that individual user-innovators benefit from the process of developing or modifying a product as well as from the product actually developed, they are
 
-Eric von Hippel
-
-Democratizing Innovation
-
 likely to innovate even when the benefits expected from the product itself are relatively
 low. (Employees of a firm may wish to experience this type of intrinsic reward in their
 work as well, but managers and commercial constraints may give them less of an opportunity to do so. Indeed, "control over my own work" is cited by many programmers
 as a reason that they enjoy creating code as volunteers on open source projects more
 than they enjoy coding for their employers for pay.)
-
-Eric von Hippel
-
-Democratizing Innovation
 
 5 Users' Low-Cost Innovation Niches
 
@@ -2507,10 +2295,6 @@ spark plug electrodes will improve this." In phase 2, the engineer builds a spar
 incorporating her new idea. In phase 3, she inserts the new spark plug into a lab test
 engine equipped with the elaborate instrumentation needed to measure the very rapid
 
-Eric von Hippel
-
-Democratizing Innovation
-
 propagation of a flame in the cylinders of an auto engine and runs the test. In phase
 4, she feeds the data into a computer and analyzes the results. She asks: "Did the
 change in spark plug design change the flame front as expected? Did it change fuel
@@ -2558,10 +2342,6 @@ over and over to test changes and detect errors.
 Sometimes designers will test a real experimental object in a real experimental context only after experimenting with several generations of models that isolate different
 aspects of the real and/or encompass increasing amounts of the complexity of the real.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Developers of pharmaceuticals, for example, might begin by testing a candidate drug
 molecule against just the purified enzyme or receptor it is intended to affect, then test
 it again and again against successively more complex models of the human organism
@@ -2606,10 +2386,6 @@ attributes of the information itself to access fees charged by an information ow
 Consider tacitness—a lack of explicit encoding. Polanyi (1958, pp. 49–53) noted that
 many human skills are tacit because "the aim of a skilful performance is achieved by
 the observance of a set of rules which are not known as such to the person following
-
-Eric von Hippel
-
-Democratizing Innovation
 
 them." For example, swimmers are probably not aware of the rules they employ to
 keep afloat (e.g., in exhaling, they do not completely empty their lungs), nor are medical experts generally aware of the rules they follow in order to reach a diagnosis of a
@@ -2656,10 +2432,6 @@ group had functioned properly in their lab when tested with sample boards from t
 user factory. However, the field investigation showed that in the factory it failed when
 boards that were light yellow in color were being processed.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 The fact that some of the boards being processed were sometimes light yellow was a 261
 surprise to the machine developers. The factory personnel who had set the specifications for the machine knew that the boards they processed varied in color; however,
 they had not volunteered the information, because they did not know that the developers would be interested. Early in the machine-development process, they had simply
@@ -2702,10 +2474,6 @@ item has low stickiness—from one site to another.
 How Information Asymmetries Affect User Innovation vs. Manufacturer Innovation
 
 An important consequence of information stickiness is that it results in information 265
-
-Eric von Hippel
-
-Democratizing Innovation
 
 asymmetries that cannot be erased easily or cheaply. Different users and manufacturers will have different stocks of information, and may find it costly to acquire information they need but do not have. As a result, each innovator will tend to develop
 innovations that draw on the sticky information it already has, because that is the
@@ -2765,10 +2533,6 @@ control for profitability of innovation opportunities. He too found the sticky-i
 effect—this time visible in the division of labor within product-development projects.
 He studied patterns in the development of a sample of 24 inventory-management innovations. All were jointly developed by a Japanese equipment manufacturer, NEC,
 
-Eric von Hippel
-
-Democratizing Innovation
-
 and by a user firm, Seven-Eleven Japan (SEJ). SEJ, the leading convenience-store company in Japan, is known for its inventory management. Using innovative methods and
 equipment, it is able to turn over its inventory as many as 30 times a year, versus 12
 times a year for competitors (Kotabe 1995). An example of such an innovation jointly
@@ -2809,10 +2573,6 @@ users of mountain bikes began to also build bikes for others. A tiny cottage ind
 developed, and by 1976 a half-dozen small assemblers existed in Marin County, California. In 1982, a small firm named Specialized, an importer of bikes and bike parts
 that supplied parts to the Marin County mountain bike assemblers, took the next step
 and brought the first mass-produced mountain bike to market. Major bike manufacturers then followed and started to produce mountain bikes and sell them at regular
-
-Eric von Hippel
-
-Democratizing Innovation
 
 bike shops across the United States. By the mid 1980s the mountain bike was fully
 integrated in the mainstream bike market, and it has since grown to significant size.
@@ -2871,12 +2631,6 @@ agreement
 Source: Lüthje et al. 2003. N = 61. Responses were rated on a seven-point scale, with 283
 1 = not at all true and 7 = very true.
 
-Eric von Hippel
-
-Democratizing Innovation
-
-Discussion
-
 To the extent that users have heterogeneous and sticky need and solution information,
 they will have heterogeneous low-cost innovation niches. Users can be sophisticated
 developers within those niches, despite their reliance on their own need information
@@ -2921,10 +2675,6 @@ understanding of the problems relevant to practitioners of that skill, and acqui
 "field laboratory" appropriate to developing and testing possible solutions to those new
 problems.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Of course, these same considerations apply to user firms as well as to individual users.
 A firm that is in the business of polishing marble floors is a user of marble polishing
 equipment and techniques.
@@ -2938,10 +2688,6 @@ is getting paid for that work (Foray 2004). The low cost innovation niche of the
 polishing firm may be narrow. For example, it is unlikely to have any special advantage
 with respect to innovations in the polishing of wood floors, which requires different
 equipment and techniques.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 6 Why Users Often Freely Reveal Their Innovations
 
@@ -2987,10 +2733,6 @@ iron production—a very important matter for producers. Allen noted the surpris
 that employees of competing firms publicly revealed information on their furnace design improvements and related performance data in meetings of professional societies
 and in published material.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 After Allen's initial observation, a number of other authors searched for free revealing 296
 among profit-seeking firms and frequently found it. Nuvolari (2004) studied a topic and
 time similar to that studied by Allen and found a similar pattern of free revealing in the
@@ -3033,10 +2775,6 @@ their entire community free of charge—and strongly disagreed with the statemen
 they sold their innovations (p < 0.001, t-test for dependent samples). Interestingly, two
 of the four communities they studied engaged in activities involving significant competition among community members. Innovators in these two communities reported high
 but significantly less willingness to share, as one might expect in view of the potentially
-
-Eric von Hippel
-
-Democratizing Innovation
 
 higher level of competitive loss free revealing would entail.
 
@@ -3082,10 +2820,6 @@ Others Often Know Something Close to "Your" Secret
 Innovators seeking to protect innovations they have developed as their intellectual
 property must establish some kind of monopoly control over the innovation-related information. In practice, this can be done either by effectively hiding the information as
 
-Eric von Hippel
-
-Democratizing Innovation
-
 a trade secret, or by getting effective legal protection by patents or copyrights. (Trademarks also fall under the heading of intellectual property, but we do not consider those
 here.) In addition, however, it must be the case that others do not know substitute
 information that skirts these protections and that they are willing to reveal. If multiple
@@ -3129,10 +2863,6 @@ help-line websites. These sites enable users having problems with Apache softwar
 to post questions, and others to respond with answers. The authors asked those who
 provided answers how many other help-line participants they thought also knew a solution to specific and often obscure problems they had answered on the Apache online
 forum. Information providers generally were of the opinion that some or many other
-
-Eric von Hippel
-
-Democratizing Innovation
 
 help-line participants also knew a solution, and could have provided an answer if they
 themselves had not done so (table 6.1).
@@ -3192,10 +2922,6 @@ and/or a method and/or a use. They may not be granted for ideas per se, mathemat
 formulas, laws of nature, and anything repugnant to morals and public policy. Within
 subject matters potentially protectable by patent, protection will be granted only when
 
-Eric von Hippel
-
-Democratizing Innovation
-
 the intellectual property claimed meets additional criteria of usefulness, novelty, and
 non-obviousness to those skilled in the relevant art. (The tests for whether these criteria have been met are based on judgement. When a low threshold is used, patents are
 easier to get, and vice-versa (Hall and Harhoff 2004).)
@@ -3237,10 +2963,6 @@ license to use the software, not buying the intellectual property itself. Howeve
 itself is protected, not the underlying invention or ideas. As a consequence, copyright
 protections can be circumvented. For example, those who wish to imitate the function
 of a copyrighted software program can do so by writing new software code to implement that function.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Given the above, we may conclude that in practice little profit is being sacrificed by 320
 many user-innovator firms or individuals that choose to forgo the possibility of legally
@@ -3286,10 +3008,6 @@ If, as Allen
 velopment and/or commercialization of other versions of the innovation.
 suggested, the innovation that is revealed is designed in a way that is especially appropriate to conditions unique to the innovator, this can result in creating a permanent
 
-Eric von Hippel
-
-Democratizing Innovation
-
 source of advantage for that innovator.
 
 Being first to reveal a certain type of innovation increases a user firm's chances of
@@ -3330,10 +3048,6 @@ code without fear of direct competitive repercussions: it was applicable mainly 
 same time, all would jointly benefit from free revealing of improvements to the underlying embedded Linux code base, upon which they all build their proprietary products.
 After all, the competitive advantages of all their products depended on this code base's
 being equal to or better than the proprietary software code used by other manufacturers of similar products. Additionally, Linux software was a complement to hardware
-
-Eric von Hippel
-
-Democratizing Innovation
 
 that many of the manufacturers in Henkel's sample also sold. Improved Linux software
 would likely increase sales of their complementary hardware products. (Complement
@@ -3378,10 +3092,6 @@ invest in the creation of new knowledge (Arrow 1962; Dam 1995).
 
 The second major model for inducing innovation is termed the collective action model.
 It applies to the provision of public goods, where a public good is defined by its non-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 excludability and non-rivalry: if any user consumes it, it cannot be feasibly withheld
 from other users, and all consume it on the same terms (Olson 1967). The collective
@@ -3432,10 +3142,6 @@ project. By the early 1992, several skilled programmers contributed to Linux and
 increased by the day. Today, Linux is the largest open source development project extant in terms of
 number of developers.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 or seek help from project websites, and no apparent form of moral pressure is applied
 to make a compensating contribution (e.g., "If you benefit from this code, please also
 contribute . . .").
@@ -3468,10 +3174,6 @@ conditions. A private-collective model of innovation incentives can explain why 
 when knowledge created by private funding may be offered freely to all. When the
 conditions are met, society appears to have the best of both worlds—new knowledge
 is created by private funding and then freely revealed to all.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 7 Innovation Communities
 
@@ -3520,10 +3222,6 @@ to identify and fix some bugs. Under these conditions, Raymond says, "given a la
 enough beta tester and co-developer base, almost every problem will be characterized
 quickly and the fix obvious to someone. Or, less formally, 'given enough eyeballs, all
 bugs are shallow."' He explains: "More users find more bugs because adding more
-
-Eric von Hippel
-
-Democratizing Innovation
 
 users adds more ways of stressing the program. . . . Each [user] approaches the task
 of bug characterization with a slightly different perceptual set and analytical toolkit,
@@ -3579,10 +3277,6 @@ Innovation Communities
 User-innovators may be generally willing to freely reveal their information. However,
 as we have seen, they may be widely distributed and each may have only one or a
 
-Eric von Hippel
-
-Democratizing Innovation
-
 few innovations to offer. The practical value of the "freely revealed innovation commons" these users collectively offer will be increased if their information is somehow
 made conveniently accessible. This is one of the important functions of "innovation
 communities."
@@ -3626,10 +3320,6 @@ In the early days of computer programming, commercial "packaged" software was a 
 9When they do not incorporate these qualities, they would be more properly referred to as
 
 networks—but communities is the term commonly used, and I follow that practice here.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 rarity—if you wanted a particular program for a particular purpose, you typically wrote
 the code yourself or hired someone to write it for you. Much of the software of the 1960s
@@ -3681,10 +3371,6 @@ modifying their code will release only binary versions of the software. In contr
 that wish to enable others to understand and update and modify their software will provide them with its
 source code. (Moerke 2000, Simon 1996).
 
-Eric von Hippel
-
-Democratizing Innovation
-
 sponse, he founded the Free Software Foundation and set about to develop and diffuse
 a legal mechanism that could preserve free access for all to the software developed
 by software hackers. Stallman's pioneering idea was to use the existing mechanism
@@ -3728,10 +3414,6 @@ developed: the term denotes only the type of license under which it is made avai
 12See www.gnu.org/licenses/licenses.html#GPL
 13 ⌜ http://www.sourceforge.net ⌟
 
-Eric von Hippel
-
-Democratizing Innovation
-
 However, the fact that open source software is freely accessible to all has created some
 typical open source software development practices that differ greatly from commercial software development models—and that look very much like the "hacker culture"
 behaviors described above.
@@ -3773,10 +3455,6 @@ standard open source licenses, all parties are equal in the evolutionary game. B
 very well-recognized distinction between 'official' patches [changes to the software], approved and
 integrated into the evolving software by the publicly recognized maintainers, and 'rogue' patches by
 third parties. Rogue patches are unusual and generally not trusted." (Raymond 1999, p. 89)
-
-Eric von Hippel
-
-Democratizing Innovation
 
 by contributors who do not have such access (von Krogh and Spaeth 2002).
 
@@ -3825,10 +3503,6 @@ of the world's millions of websites. Modification and updating of Apache by user
 others continues, with the release of new versions being coordinated by a central group
 of 22 volunteers.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Fetchmail—An Internet Email Utility Program
 
 Fetchmail is an Internet email utility program that "fetches" email from central servers
@@ -3874,10 +3548,6 @@ sports, Franke and Shah's study illustrates relatively simple community infrastr
 Thus, the boardercross community they studied consisted of semi-professional athletes
 from all over the world who meet in up to 10 competitions a year in Europe, North Amer-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 ica, and Japan. Franke and Shah report that community members knew one another
 well, and spent a considerable amount of time together. They also assisted one another
 in developing and modifying equipment for their sport. However, the community had
@@ -3918,10 +3588,6 @@ The example of the kitesurfing group's methods of sharing design information ill
 in the group exchanged design ideas by means of simple sketches transferred over the
 Internet. Then group members learned that computerized cutters used by sail lofts to
 cut sails from large pieces of cloth are suited to cutting cloth for surfing kites. They
-
-Eric von Hippel
-
-Democratizing Innovation
 
 also learned that sail lofts were interested in their business. Accordingly, innovation
 group members began to exchange designs in the form of CAD files compatible with
@@ -3975,19 +3641,11 @@ Source: Franke and Shah 2003, table 7.
 
 Such helping activity is clearly important to the value contributed by innovation communities to community participants. Why people might voluntarily offer assistance is
 
-Eric von Hippel
-
-Democratizing Innovation
-
 a subject of analysis. The answers are not fully in, but the mysteries lessen as the
 research progresses. An answer that appears to be emerging is that there are private
 benefits to assistance providers, just as there are for those who freely reveal innovations (Lakhani and von Hippel 2003). In other words, provision of free assistance may
 be explicable in terms of the private-collective model of innovation-related incentives
 discussed earlier.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 8 Adapting Policy to User Innovation
 
@@ -4029,10 +3687,6 @@ pair was a commercial success (which showed that there was a market for the prod
 type); the other was a commercial failure. The development process for each successful
 and failing product was then studied in detail. The primary factor found to distinguish
 success from failure was that a deeper understanding of the market and the need was
-
-Eric von Hippel
-
-Democratizing Innovation
 
 associated with successful projects (Achilladelis et al. 1971; Rothwell et al. 1974). A
 study by Mansfield and Wagner (1975) came to the same conclusion. More recent
@@ -4077,10 +3731,6 @@ expectations. Monitoring of field use of user-built prototypes and of their adop
 by other users can give manufacturers rich data on precisely these matters and so
 should improve manufacturer's commercial success. In net, user innovation helps to
 reduce information asymmetries between users and manufacturers and so increases
-
-Eric von Hippel
-
-Democratizing Innovation
 
 the efficiency of the innovation process.
 
@@ -4127,10 +3777,6 @@ Henkel and I also explored a few special situations where social welfare might b
 effect of reduced pricing power on manufacturers that create "platform" products. Often, a manufacturer of such a product will want to sell the platform—a razor, an inkjet printer, a video-game player—at a low margin or a loss, and then price necessary
 add-ons (razor blades, ink cartridges, video games) at a much higher margin. If the
 
-Eric von Hippel
-
-Democratizing Innovation
-
 possibility of freely revealed add-ons developed by users makes development of a platform unprofitable for a manufacturer, social welfare can thereby be reduced. However,
 it is only the razor-vs.-blade pricing scheme that may become unprofitable. Indeed, if
 the manufacturer makes positive margins on the platform, then the availability of userdeveloped add-ons can have a positive effect: it can increase the value of the platform
@@ -4174,10 +3820,6 @@ innovation investments in most fields. Recall also that patent protection is cos
 being minor. We also saw that in practice it was often difficult for innovators to protect
 their innovations via trade secrecy: it is hard to keep a secret when many others know
 
-Eric von Hippel
-
-Democratizing Innovation
-
 similar things, and when some of these information holders will lose little or nothing
 from freely revealing what they know.
 
@@ -4220,10 +3862,6 @@ the anticommons—when multiple owners each have a right to exclude others and n
 one has an effective privilege of use. The nature of the patent grant can lead to precisely this type of situation. Patent law is so arranged that an owner of a patent is not
 granted the right to practice its invention—it is only granted the right to exclude others
 
-Eric von Hippel
-
-Democratizing Innovation
-
 from practicing it. For example, suppose you invent and patent the chair. I then follow
 by inventing and patenting the rocking chair—implemented by building rockers onto
 a chair covered by your patent. In this situation I cannot manufacture a rocking chair
@@ -4265,10 +3903,6 @@ These types of innovation-discouraging effects can affect innovation by users es
 users each of whom might have only a few innovations and a small amount of intellectual property. Such innovators are clearly hurt differentially by a system that gives
 advantage to the owners of large shares of the intellectual property in a field.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 What can be done? A solution approach open to policy makers is to change intellectual
 property law so as to level the playing field. But owners of large amounts of intellectual
 property protected under the present system are often politically powerful, so this type
@@ -4309,10 +3943,6 @@ at MIT, illustrates this with an anecdote regarding an open source software comp
 called ipfilter. The author of ipfilter attempted to "lock" the program by changing licensing terms of his program to disallow the distribution of modified versions. His reasoning
 was that Ipfilter, a network-security filter, must be as bug-free as possible, and that this
 could best be ensured by his controlling access. His actions ignited a flame war in which
-
-Eric von Hippel
-
-Democratizing Innovation
 
 the author was generally argued to be selfish and overreaching. His program, then an
 essential piece of BSD operating systems, was replaced by newly written code in some
@@ -4359,10 +3989,6 @@ Control over Distribution Channels
 Users that innovate and wish to freely diffuse innovation-related information are able 438
 to do so cheaply in large part because of steady advances in Internet distribution capa-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 bilities. Controls placed on such infrastructural factors can threaten and maybe even
 totally disable distributed innovation systems such as the user innovation systems documented in this book. For example, information products developed by users are commonly distributed over the Internet by peer-to-peer sharing networks. A firm that owns
 both a channel and content (e.g., a cable network) may have a strong incentive to shut
@@ -4408,17 +4034,9 @@ creating policy and legislation. Leveling the playing field for user-innovators 
 15See also Bresnahan and Greenstein 1996b; Bresnahan and Saloner 1997; Saloner and Steinmueller
 1996.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 innovators will doubtless force more rapid change onto manufacturers. However, as
 will be seen in the next chapter, manufacturers can adapt to a world in which user
 innovation is at center stage.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 9 Democratizing Innovation
 
@@ -4464,10 +4082,6 @@ in my mind and the crude prototype that I could realize was discouragingly large
 
 Today, in sharp contrast, user firms and increasingly even individual hobbyists have 450
 
-Eric von Hippel
-
-Democratizing Innovation
-
 access to sophisticated design tools for fields ranging from software to electronics to
 musical composition. All these information-based tools can be run on a personal computer and are rapidly coming down in price. With relatively little training and practice,
 they enable users to design new products and services—and music and art—at a satisfyingly sophisticated level. Then, if what has been created is an information product,
@@ -4511,10 +4125,6 @@ to create.
 Democratization of the opportunity to create is important beyond giving more users
 the ability to make exactly right products for themselves. As we saw in a previous
 
-Eric von Hippel
-
-Democratizing Innovation
-
 chapter, the joy and the learning associated with creativity and membership in creative
 communities are also important, and these experiences too are made more widely
 available as innovation is democratized. The aforementioned Chris Hanson, a Principal
@@ -4556,10 +4166,6 @@ when challenged by a user innovation community that freely reveals leading-edge 
 manufacturing only, specializing in modifying user-developed designs for producibility
 and manufacturing these in volume.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Recall that equipment for kitesurfing was initially developed and built by user-enthusiasts 461
 who were inventing both kitesurfing techniques and kitesurfing equipment interdependently. Around 1999, the first of several small manufacturers began to design and sell
 kitesurfing equipment commercially. The market for kitesurfing equipment then began
@@ -4600,10 +4206,6 @@ on the web (Kollock 1999). In contrast, production and diffusion of physical pro
 involves activities with significant economies of scale. For this reason, while product
 development and early diffusion of copies of physical products developed by users can
 be carried out by users themselves and within user innovation communities, mass pro-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 duction and general diffusion of physical products incorporating user innovations are
 usually carried out by manufacturing firms.
@@ -4648,10 +4250,6 @@ found innovating users commonly engaging in these activities. It is also possibl
 course, for innovating lead users to become manufacturers and produce the products
 they developed for general commercial sale. This has been shown to occur fairly frequently in the field of sporting goods (Shah 2000; Shah and Tripsas 2004; Hienerth
 
-Eric von Hippel
-
-Democratizing Innovation
-
 2004).
 
 Manufacturers can also elect to provide custom production or "foundry" services to 475
@@ -4689,10 +4287,6 @@ of interest to many users. They then bring the most popular tests into their pro
 portfolio as Stata modules. To do this, they rewrite the user's software code while adhering to the principles pioneered by the user-innovator. They then subject the module to
 extensive validation testing—a very important matter for statisticians. The net result is
 a symbiotic relationship. User-innovators are publicly credited by Stata for their ideas,
-
-Eric von Hippel
-
-Democratizing Innovation
 
 and benefit by having their modules professionally tested. StataCorp gains a new commercial test module, rewritten and sold under its own copyright. Add-ons developed
 by users that are freely revealed will increase StataCorp's profits more than will equivalent add-ons developed and sold by manufacturers (Jokisch 2001). Similar strategies
@@ -4734,10 +4328,6 @@ Harsh (GE's Director of R&D in the division that produces MRI machines) and his 
 these machines are developed by leading-edge users rather than by GE or by competing machine producers. They also knew that commercialization of user-developed
 improvements would be easier and faster for GE if the users had developed their innovations using a GE MRI machine as a platform rather than a competitor's machine. Since
 
-Eric von Hippel
-
-Democratizing Innovation
-
 MRI machines are expensive, GE developed a policy of selectively supplying machines
 at a very low price to scientists GE managers judged most likely to develop important
 improvements. These machines are supplied with restrictive interlocks removed so
@@ -4760,8 +4350,6 @@ glance, and providers often reap benefits without being aware of the user innova
 for which they are providing a complement. Hospital emergency rooms, for example,
 certainly gain considerable business from providing medical care to the users and userdevelopers of physically demanding sports, but may not be aware of this.
 
-Discussion
-
 All the examples above explore how manufacturers can integrate themselves into a 487
 user-centered innovation system. However, manufacturers will not always find user
 innovations based on or related to their products to be in their interest. For example,
@@ -4780,10 +4368,6 @@ successfully selling a proprietary statistical software package. User-developed 
 be downloaded at no charge. Which ownership model will prove more robust under
 what circumstances remains to be seen. Ultimately, since users are the customers,
 they get to choose.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 10 Application: Searching for Lead User Innovations
 
@@ -4834,10 +4418,6 @@ entirely new from the perspective of the target market.
 As an example, consider the relationship between the braking requirements faced by 499
 users of automobiles (let's call auto users the target market) and the braking require-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 ments faced by large commercial airplanes as they land on an airport runway (the
 advanced analog market). Clearly, the braking demands on large airplanes are much
 more extreme. Airplanes are much heavier than autos and land at higher speeds: their
@@ -4882,10 +4462,6 @@ identify users in advanced analog fields. Screening for users with lead user cha
 automatically and rapidly "pumping" the brakes. The result is that the wheels continue to revolve rather
 than "locking up," and the operator continues to have control over steering.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 istics can be used. When the desired type of lead user is so rare as to make screening
 impractical—often the case—pyramiding can be applied.
 In addition, manufacturers
@@ -4929,10 +4505,6 @@ compare the performance of lead user idea-generation projects with traditional i
 company records and to members of the product-development teams, the firm did not
 offer a controlled experimental setting. Rather, we as researchers were required to
 account for any naturally occurring differences after the fact.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Our study methodology required a pre-post/test-control situation, with at least quasirandom assignments to treatment cells (Cook and Campbell 1979). In other words, our
 goal was to compare samples of development projects in 3M divisions that differed
@@ -4979,10 +4551,6 @@ markets users but not from lead users.
 Findings
 
 Our research compared all funded product concepts generated by LU and non-LU meth-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 ods from February 1999 to May 2000 in each of the five 3M divisions that had funded
 one or more lead-user-developed product concepts. During that time, five ideas generated by lead user projects were being funded, along with 42 ideas generated by non-LU
@@ -5084,10 +4652,6 @@ indicates that sales forecasts are generally optimistic, but that that upward bi
 magnitude of the sales forecast increases. Coller and Yohn (1998) review the literature on bias in
 accuracy of management earnings forecasts and find that little systematic bias occurs. Tull's (1967)
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Rather strikingly, all five of the funded 3M lead user projects created the basis for major
 new product lines for 3M (table 10.2). In contrast, 41 of 42 funded product concepts
 generated by non-LU methods were improvements or extensions of existing product
@@ -5135,10 +4699,6 @@ Even if LU project personnel were for some reason more likely to be optimistic w
 projections than non-LU project personnel, that would not significantly affect our findings. Over 60
 percent of the total dollar value of sales forecasts made for LU projects were actually made by personnel
 not associated with those projects (outside consulting firms or business analysts from other divisions).
-
-Eric von Hippel
-
-Democratizing Innovation
 
 other vehicles with advertising or decorative graphics.) The LU team's solutions involved technical innovations plus related channel and business model changes to
 help diffuse the innovation rapidly.
@@ -5235,10 +4795,6 @@ Significance
 0.53
 0.32
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Source: Lilien et al. 2002, table 4. a. Measured on a scale from 1 to 10.
 
 b. Five-year sales forecasts for all major product lines commercialized in 1994 or later
@@ -5247,8 +4803,6 @@ historical forecast error experience (see text). Five-year sales figures for maj
 lines commercialized before 1994 are actual historical sales data. This data has been
 converted to 1999 dollars using the Consumer Price Index from the Economic Report
 of the President (Council of Economic Advisors 2000).
-
-Discussion
 
 The performance comparison between lead user and "find a need and fill it" ideageneration projects at 3M showed remarkably strong advantages associated with searching for ideas among lead users in advanced analog fields with needs similar to, but even
 more extreme than, needs encountered in the intended target market. The direction
@@ -5278,10 +4832,6 @@ line has become a major commercial success for Hilti.
 Olson and Bakke (2001) report on two lead user studies carried out by Cinet, a leading 545
 IT systems integrator in Norway, for the firm's two major product areas, desktop
 personal computers, and Symfoni application GroupWare. These projects were very
-
-Eric von Hippel
-
-Democratizing Innovation
 
 successful, with most of the ideas incorporated into next-generation products having
 been collected from lead users.
@@ -5327,10 +4877,6 @@ As was discussed in chapter 4, manufacturers have an incentive to develop innova
 that utilize their existing capabilities—that are "sustaining" for them. Customers know
 this and, when considering switching to a new technology, are unlikely to request it
 
-Eric von Hippel
-
-Democratizing Innovation
-
 from a manufacturer that would consider it to be disruptive: they know that such a
 manufacturer is unlikely to respond positively. The net result is that manufacturers'
 inputs from their existing customers may indeed be biased towards requests for sustaining innovations.
@@ -5350,10 +4896,6 @@ rate of progress is determined by the rate at which solution technologies improv
 time. This means that sticky solution information rather than sticky need information is
 central to development of dimension-of-merit improvements. Manufacturers will tend
 to have the information they need to develop dimension of merit innovations internally.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 11 Application: Toolkits for User Innovation and Custom 551
 Design
@@ -5394,10 +4936,6 @@ supplier of specialty flavors to the food industry, has built a toolkit that ena
 customers to modify flavors for themselves, which IFF then manufactures. In the materials field, GE provides customers with Web-based tools for designing better plastic
 products. In software, a number of consumer product companies provide toolkits that
 allow people to add custom-designed modules to their standard products. For exam-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 ple, Westwood Studios provides its customers with toolkits that enable them to design
 important elements of their own video games (Jeppesen 2005).
@@ -5446,10 +4984,6 @@ and more meaningful" (Connell and Shafer 1989).
 
 Even with careful management, however, iterative shifts in problem solving between 565
 
-Eric von Hippel
-
-Democratizing Innovation
-
 users and manufacturer-based developers involve significant coordination costs. For
 example, a manufacturer's development team may be assigned to other tasks while
 it waits for user feedback, and so will not be immediately able to resume work on a
@@ -5494,10 +5028,6 @@ Learning by doing via trial and error still occurs, of course, but the cycle tim
 faster because the complete cycle of need-related learning is carried out at a single
 (user) site earlier in the development process.
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Repartitioning of Development Tasks
 
 To create the setting for a toolkit, one must partition the tasks of product development
@@ -5538,10 +5068,6 @@ tasks so that only a few draw on need-related information, and these can then be
 easily transferred to users.
 
 The architecture of the pizza pie illustrates how this can be done. Many aspects of the 575
-
-Eric von Hippel
-
-Democratizing Innovation
 
 design of a pizza, such as the dough and the sauce, have been made standard. User
 choice has been restricted to a single task: the design of toppings.
@@ -5587,10 +5113,6 @@ test or a simulation) and see what happened. She might discover that the solutio
 worked perfectly. Or she might find that the new rule caused some unexpected form of
 trouble—for example, Joe might be flooded with too many calls—in which case it would
 be "back to the drawing board" for another design and another trial.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 In the same way, toolkits for innovation in the semiconductor design field allow users
 to design a circuit that they think will meet their needs and then test the design by
@@ -5638,10 +5160,6 @@ Economical production of custom products and services is achievable only when a 
 particular manufacturer's production system. My colleagues and I call this the solution space offered by that system. A solution space may vary from very large to small,
 and if the output of a toolkit is tied to a particular production system, then the design
 
-Eric von Hippel
-
-Democratizing Innovation
-
 freedom that a toolkit can offer a user will be accordingly large or small. For example,
 the solution space offered by the production process of a manufacturer of custom integrated circuits offers a huge solution space to users—it will produce any combination
 of logic elements interconnected in any way that a user-designer might desire, with
@@ -5681,10 +5199,6 @@ their own customary and well-practiced design language. This means that users do
 have to learn the—typically different—design skills and language customarily used by
 manufacturer-based designers, and so they will require much less training to use the
 toolkit effectively.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 For example, in the case of custom integrated circuit design, the users of toolkits are 591
 typically electrical engineers who are designing electronic systems that will incorporate
@@ -5732,10 +5246,6 @@ in this instance.
 
 In general, steady improvements in computer hardware and software are enabling 595
 
-Eric von Hippel
-
-Democratizing Innovation
-
 toolkit designers to provide information to users in increasingly friendly ways. In earlier
 days, information was often provided to users in the form of specification sheets or
 books. The user was then required to know when a particular bit of information was
@@ -5782,10 +5292,6 @@ its head.
 
 There is no error-free way to translate a recipe expressed in the language of a traditional
 
-Eric von Hippel
-
-Democratizing Innovation
-
 restaurant-style culinary toolkit into the language required by a food-manufacturing facility. Food factories must use ingredients that can be obtained in quantity at consistent
 quality. These are not the same as, and may not taste quite the same as, the ingredients used by the executive chef during recipe development. Also, food factories use
 volume production equipment, such as huge-steam-heated retorts. Such equipment
@@ -5826,13 +5332,7 @@ be immediately and precisely reproduced by Nestlé factories— because now the 
 Food Product Development Department researchers showed that adding the error-free
 translation feature to toolkit-based design by users reduced the time of custom food development from 26 weeks to 3 weeks by eliminating repeated redesign and refinement
 
-Eric von Hippel
-
-Democratizing Innovation
-
 interactions between Nestlé and purchasers of its custom food products.
-
-Discussion
 
 A toolkit's success in the market is significantly correlated with that toolkit's quality 606
 and with industry conditions. Thus, Prügl and Franke (2005) studied the success of 100
@@ -5872,10 +5372,6 @@ with toolkits such as those used to design custom integrated circuits, users can
 innovate, creating anything implementable in digital electronics, from a dishwasher
 controller to a novel supercomputer or form of artificial life. At the low end, the product
 configurators commonly offered by manufacturers of mass-customized products enable, for example, a watch purchaser to create a custom watch by selecting from lists
-
-Eric von Hippel
-
-Democratizing Innovation
 
 of pre-designed faces, hands, cases, and straps. (Mass-customized production systems
 can manufacture a range of product variations in single-unit quantities at near massproduction costs (Pine 1993). In the United States, production systems used by these
@@ -5921,15 +5417,7 @@ for user innovation and design will not necessarily have the luxury of declining
 its use, customers will tend to migrate to it, forcing competitors to follow. Therefore, a
 firm's only real choice in a field where conditions are favorable to the introduction of
 
-Eric von Hippel
-
-Democratizing Innovation
-
 toolkits may be whether to lead or to follow.
-
-Eric von Hippel
-
-Democratizing Innovation
 
 12 Linking User Innovation to Other Phenomena and
 Fields
@@ -5973,10 +5461,6 @@ same reasons that user innovation communities are: the costs of diffusing inform
 are getting steadily lower as computing and communication technologies improve. As
 a result, information communities may have a rapidly increasing impact on the econ-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 omy and on the landscape of industry. They are and will be especially empowering
 to fragmented groups, whose members may for the first time gain low-cost access to
 a great deal of rich and fresh information of mutual interest. As is the case for user
@@ -6013,10 +5497,6 @@ that collected by surveys of representative samples of respondents. This emergin
 new approach to data aggregation will clearly affect the established business models of
 firms specializing in information collection, with websites like www.ciao.co.uk illustrating new possibilities. If the quality of information available to transaction participants
 goes up and the information price is low, transaction quality should go up. With the aid
-
-Eric von Hippel
-
-Democratizing Innovation
 
 of online product-evaluation sites, it is likely that consumers will be able to apply much
 better information even to small buying decisions, such as the choice of a restaurant
@@ -6056,10 +5536,6 @@ and is by no means restricted to R&D laboratories: we are in the age of the know
 economy. He makes a central distinction between R&D that is conducted in laboratories
 remote from doing, and learning by doing at the site of production. He argues that
 both are important, and have complementary advantages and drawbacks. Laboratory
-
-Eric von Hippel
-
-Democratizing Innovation
 
 research can ignore some of the complexities involved in production in search of basic
 understanding. Learning by doing has the contrasting advantage of being in the full
@@ -6110,10 +5586,6 @@ want and need to do becomes more fine-grained, more individually differentiated,
 harder to communicate, the incentives grow to shift the locus of innovation closer to
 them by empowering them with freely modifiable tools. (ibid., pp. 265–267)
 
-Eric von Hippel
-
-Democratizing Innovation
-
 National Competitive Advantage
 
 Understanding national innovation systems and the competitive advantage of a nation's firms is an important matter for national policy makers (Nelson 1993). Can what
@@ -6157,10 +5629,6 @@ pattern Porter describes in some studies of lead user innovation. For example, e
 in the history of the US semiconductor industry, AT&T, the inventor of the transistor
 and an early innovator, developed a number of novel types of production equipment
 
-Eric von Hippel
-
-Democratizing Innovation
-
 as a user organization. AT&T engineers went to local machine shops to have these
 machines produced in volume to meet AT&T's in-house production needs. A side effect
 of this procurement strategy was to put many of these previously undistinguished firms
@@ -6202,10 +5670,6 @@ who had a negative view of the bicycle in its early days and wanted it to fail (
 1995).
 
 When one takes the views of all relevant groups into account, one gets a much richer
-
-Eric von Hippel
-
-Democratizing Innovation
 
 view of the "socially constructed" evolution of a technology. As a relatively recent
 example, consider the supersonic transport plane (SST) planned in the United States
@@ -6252,10 +5716,6 @@ communities of sports innovators.
 Research on brand communities is still another related research thread (Muniz and 648
 O'Guinn 2001). Brand communities form around commercial brands and products (e.g.,
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Lego construction toys) and even around products discontinued by their manufacturers
 e.g., Apple's Newton personal digital assistant). Brand communities can be intensely
 meaningful to participants and can involve user innovation. In Newton groups, for example, users develop new applications and exchange information about how to repair
@@ -6291,10 +5751,6 @@ the manufacturers' innovation processes must be working as expected.
 
 In fact, however, important, functionally novel innovations are often brought into manufacturers by informal channels. Product-development engineers may attend conferences and learn about important user innovations, salesmen and technical service personnel discover user-modified equipment on field visits, and so on. Once the basic
 innovation-related information is in house, the operating principles of a user's proto-
-
-Eric von Hippel
-
-Democratizing Innovation
 
 type will often be adopted, but the detailed design of the device will be changed and
 improved for production. After a while, the user's prototype, if remembered at all,
@@ -6339,10 +5795,6 @@ These conditions may well vary predictably over product life cycles. Utterback a
 Abernathy (1975) proposed that innovation by users is likely to be more important in
 the early stages of such cycles. Early in the life of a new product, there is a "fluid" stage
 
-Eric von Hippel
-
-Democratizing Innovation
-
 in which the nature and the use of a product are unclear. Here, Utterback and Abernathy
 say, users play a big part in sorting the matter out, in part through innovation. Later,
 a dominant product design will emerge—a shared sense of exactly what a particular
@@ -6365,10 +5817,6 @@ democratization of innovation. This welfare-enhancing shift is forcing major cha
 in user and manufacturer innovation practices, and is creating the need for change in
 government policies. It also, as I noted at the start of the book, presents major new
 opportunities for us all. Other Phenomena and Fields 177
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Notes
 
@@ -6422,10 +5870,6 @@ to form clusters the heterogeneity coefficient is lower than if they are evenly 
 To make the coefficient comparable across different populations, we calibrate it using
 a bootstrapping technique (Efron 1979) involving dividing the coefficient by the ex-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 pected value (this value is generated by averaging the heterogeneity of many random
 distributions of heterogeneity of the same kind). The average random heterogeneity
 coefficient is then an appropriate value for calibration purposes: it assumes that there
@@ -6471,10 +5915,6 @@ machine-readable format of the latest posix-rules? Ftp-sites would be nice. In r
 Torvalds got several return messages with Posix rules and people expressing a general
 interest in the project. By the early 1992, several skilled programmers contributed to
 Linux and the number of users increased by the day. Today, Linux is the largest open
-
-Eric von Hippel
-
-Democratizing Innovation
 
 source development project extant in terms of number of developers.
 
@@ -6527,10 +5967,6 @@ and Steinmueller 1996.
 
 Chapter 10
 
-Eric von Hippel
-
-Democratizing Innovation
-
 1. ABS braking is intended to keep a vehicle's wheels turning during braking. ABS 682
 works by automatically and rapidly "pumping" the brakes. The result is that the wheels
 continue to revolve rather than "locking up," and the operator continues to have control
@@ -6550,8 +5986,6 @@ projects were actually made by personnel not associated with those projects (out
 consulting firms or business analysts from other divisions).
 
 Endnotes
-
-Eric von Hippel
 
 Bibliography
 
@@ -6607,8 +6041,6 @@ B. Behlendorf "Open Source as a Business Strategy"Dibona C.S. Ockman, M. Stone,
 Y. Benkler "Intellectual Property and the Organization of Information Production", International Review of Law and Economics, 2002, 81-107.
 
 J. Bessen "Patent Thickets", 2003.
-
-Eric von Hippel
 
 J. Bessen, R. M. Hunt "An Empirical Look at Software Patents", 2004.
 
@@ -6670,8 +6102,6 @@ Opportunism", Organization Science, 1996, 477-501.
 T. D. Cook, D. T. Campbell "Quasi-Experimentation", 1979, Houghton Mifflin.
 
 M. Csikszentmihalyi "Beyond Boredom and Anxiety", 1975, Jossey-Bass.
-
-Eric von Hippel
 
 M. Csikszentmihalyi "Flow", 1990, Harper and Row.
 
@@ -6738,8 +6168,6 @@ D. Friedman, D. McAdam "Collective Identity and Activism: Networks, Choices, and
 
 Life of a Social Movement"A. D. Morris, C. McClurg, 1992.
 
-Eric von Hippel
-
 N. Gallini, S. Scotchmer "Intellectual Property: When Is It the Best Incentive System?",
 Innovation Policy and the EconomyA. Jaffe, J. Lerner, S. Stern, 2002, MIT Press.
 
@@ -6793,8 +6221,6 @@ Lead User Method", Journal of Product Innovation Management, 1992, 213-222.
 G. Hertel, S. Niedner, S. Herrmann "Motivation of Software Developers in Open Source 763
 Projects: An Internet-Based Survey of Contributors to the Linux Kernel", Research
 Policy, 2003, 1159-1177.
-
-Eric von Hippel
 
 C. Hienerth "The Commercialization of User Innovations: Sixteen Cases in an Extreme 764
 Sporting Industry", Proceedings of the 26th R&D Management Conference, Sesimbra, Portugal, 2004.
@@ -6855,8 +6281,6 @@ K. Lakhani "Distributed Coordination Practices in Free and Open Source Communiti
 
 2005.
 
-Eric von Hippel
-
 J. Lerner, J. J. Tirole "Some Simple Economics of Open Source", Journal of Industrial
 
 Economics, 2002, 197-234.
@@ -6914,8 +6338,6 @@ E. Mansfield "How Rapidly Does New Industrial Technology Leak Out?", Journal of 
 D. L. Marples "The Decisions of Engineering Design", 1961-06, 55-71.
 
 J. Martin "Rapid Application Development", 1991, Macmillan.
-
-Eric von Hippel
 
 J. Matthews "Public Access to Online Catalogs", 1985, Neal-Schuman.
 
@@ -6985,8 +6407,6 @@ R. R. Nelson "National Innovation Systems: A Comparative Analysis", 1993, Oxford
 
 University Press.
 
-Eric von Hippel
-
 A. Nuvolari "Collective Invention during the British Industrial Revolution: The Case of
 the Cornish Pumping Engine", Cambridge Journal of Economics, 2004, 347-363.
 
@@ -7050,8 +6470,6 @@ E. Raymond "The New Hacker's Dictionary", 1996, MIT Press.
 
 E. Raymond "The Cathedral and the Bazaar", 1999, O'Reilly..
 
-Eric von Hippel
-
 W. H. Redmond "An Ecological Perspective on New Product Failure: The Effects of Competitive Overcrowding", Journal of Product Innovation Management, 1995, 200-213.
 
 W., and E. von Hippel. Riggs "Incentives to Innovate and the Sources of Innovation: The 847
@@ -7114,8 +6532,6 @@ M. Spence "Product Differentiation and Welfare", American Economic Review, 1976,
 
 C. T. Taylor, Z. A. Silberston "The Economic Impact of the Patent System", 1973, Cambridge University Press.
 
-Eric von Hippel
-
 M. Taylor, S. Singleton "The Communal Resource: Transaction Costs and the Solution 867
 
 of Collective Action Problems", Politics and Society, 1993, 195-215.
@@ -7175,8 +6591,6 @@ Y. Wind "Issues and Advances in Segmentation Research", Journal of Marketing Res
 S. G. Winter, G. Szulanski "Replication as Strategy", Organization Science, 2001, 730-
 
 743.
-
-Eric von Hippel
 
 G. Young, K. G. Smith, C. M. Grimm "Austrian and Industrial Organization Perspectives
 on Firm Level Competitive Activity and Performance", Organization Science, 1996,
@@ -7240,13 +6654,7 @@ G. von Krogh, S. Haefliger, S. Spaeth "The Practice of Knowledge Reuse in Open S
 
 Software", 2004.
 
-Eric von Hippel
-
 Book Index
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Index
 
@@ -7331,10 +6739,6 @@ Eisenberg, R. 423-424
 Elrod, T. 404
 Enos, J. 79
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Ettrich, M. 431
 Fetchmail 377-381
 Finkelstein, S. 40, 297, 506
@@ -7417,10 +6821,6 @@ Information commons 5, 51, 67, 290-
 303, 321-328, 354-357, 615, 616-624,
 640-648, See also Information communi-
 
-Eric von Hippel
-
-Democratizing Innovation
-
 ties, 5, See also Innovation communities,
 Information communities 67, 615, 616-
 624, See also Innovation communities, 67
@@ -7499,10 +6899,6 @@ Lessig, L. 51, 426, 429, 438
 Lettl, C. 474, 656
 Levin, R. 316
 Levine, D. 426
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Levinthal, D. 257
 Levy, S. 363, 569
@@ -7588,10 +6984,6 @@ Pavitt, K. 79
 Penning, C. 276
 Perens, B. 365
 Pinch, T. 68, 642-646
-
-Eric von Hippel
-
-Democratizing Innovation
 
 Pine, J. 609
 Pipe hanger hardware 76-77, 544
@@ -7684,10 +7076,6 @@ Thies, S. 479
 Thomke, S. 241, 249-251, 475, 502, 513,
 556, 565
 
-Eric von Hippel
-
-Democratizing Innovation
-
 Tirole, J. 176, 323, 413
 Toolkits 54, 59, 63-65, 64, 371, 476-483,
 478, 483, 488, 551-613, 552, 555, 556,
@@ -7763,5 +7151,3 @@ Young, G. 369
 Zeroprestige.com 385, 462-463
 Zhang, X. 622
 Ziedonis, R. 425
-
-Eric von Hippel

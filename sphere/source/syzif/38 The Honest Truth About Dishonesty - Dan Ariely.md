@@ -1,4 +1,3 @@
-
 THE (HONEST) TRUTH
 ABOUT DISHONESTY
 
@@ -5641,7 +5640,6 @@ Tim Harford, The Logic of Life: The Rational Economics of an Irrational World (N
 Random House, 2008).
 
 Chapter 1. Testing the Simple Model of Rational Crime (SMORC)
-Based on
 Jerome K. Jerome, Three Men in a Boat (to Say Nothing of the Dog) (1889; reprint, New York: Tom
 
 Doherty Associates, 2001).
@@ -5663,7 +5661,6 @@ Nina Mazar and Dan Ariely, "Dishonesty in Everyday Life and Its Policy Implicati
 Public Policy and Marketing (2006).
 
 Chapter 2. Fun with the Fudge Factor
-Based on
 Nina Mazar, On Amir, and Dan Ariely, "The Dishonesty of Honest People: A Theory of Self-concept
 
 Maintenance," Journal of Marketing Research (2008).
@@ -5689,7 +5686,6 @@ Maurice Schweitzer and Chris Hsee, "Stretching the Truth: Elastic Justification 
 Communication of Uncertain Information," The Journal of Risk and Uncertainty (2002).
 
 Chapter 2b. Golf
-Related readings
 Robert L. Goldstone and Calvin Chin, "Dishonesty in Self-report of Copies Made—Moral Relativity
 
 and the Copy Machine," Basic and Applied Social Psychology (1993).
@@ -5699,14 +5695,12 @@ Robert A. Wicklund, "The Influence of Self-awareness on Human Behavior," America
 (1979).
 
 Chapter 3. Blinded by Our Own Motivations
-Based on
 Daylian M. Cain, George Loewenstein, and Don A. Moore, "The Dirt on Coming Clean: The
 Perverse Effects of Disclosing Conflicts of Interest," Journal of Legal Studies (2005).
 
 Ann Harvey, Ulrich Kirk, George H. Denfield, and P. Read Montague, "Monetary Favors and Their
 Influence on Neural Responses and Revealed Preference," The Journal of Neuroscience (2010).
 
-Related readings
 James Bader and Daniel Shugars, "Agreement Among Dentists' Recommendations for Restorative
 
 Treatment," Journal of Dental Research (1993).
@@ -5730,7 +5724,6 @@ Carl Elliot, White Coat, Black Hat: Adventures on the Dark Side of Medicine (Bos
 Press, 2010).
 
 Chapter 4. Why We Blow It When We're Tired
-Based on
 Mike Adams, "The Dead Grandmother/Exam Syndrome and the Potential Downfall of American
 
 Society," The Connecticut Review (1990).
@@ -5751,7 +5744,6 @@ Visceral Urges," Journal of the European Economic Association (2011).
 Baba Shiv and Alexander Fedorikhin, "Heart and Mind in Conflict: The Interplay of Affect and
 Cognition in Consumer Decision Making," The Journal of Consumer Research (1999).
 
-Related readings
 Roy F. Baumeister and John Tierney, Willpower: Rediscovering the Greatest Human Strength (New
 
 York: The Penguin Press, 2011).
@@ -5778,12 +5770,10 @@ Janet Polivy and C. Peter Herman, "Dieting and Binging, A Causal Analysis," Amer
 (1985).
 
 Chapter 5. Why Wearing Fakes Makes Us Cheat More
-Based on
 Francesca Gino, Michael I. Norton, and Dan Ariely, "The Counterfeit Self: The Deceptive Costs of
 
 Faking It," Psychological Science (2010).
 
-Related readings
 Dan Ariely and Michael L. Norton, "How Actions Create—Not Just Reveal—Preferences," Trends
 
 in Cognitive Sciences (2008).
@@ -5798,12 +5788,10 @@ C. Peter Herman and Deborah Mack, "Restrained and Unrestrained Eating," Journal 
 
 Chapter 6. Cheating Ourselves
 
-Based on
 Zoë Chance, Michael I. Norton, Francesca Gino, and Dan Ariely, "A Temporal View of the Costs and
 
 Benefits of Self-Deception," Proceedings of the National Academy of Sciences (2011).
 
-Related readings
 Ziva Kunda, "The Case for Motivated Reasoning," Psychological Bulletin (1990).
 Danica Mijovic´-Prelec and Dražen Prelec, "Self-deception as Self-Signalling: A Model and
 
@@ -5814,7 +5802,6 @@ Robert Trivers, "The Elements of a Scientific Theory of Self-Deception," Annals 
 Academy of Sciences (2000).
 
 Chapter 7. Creativity and Dishonesty: We Are All Storytellers
-Based on
 Edward J. Balleisen, "Suckers, Swindlers, and an Ambivalent State: A History of Business Fraud in
 
 America," manuscript.
@@ -5842,13 +5829,11 @@ Yaling Yang, Adrian Raine, Todd Lencz, Susan Bihrle, Lori Lacasse, and Patrick C
 
 White Matter in Pathological Liars," The British Journal of Psychiatry (2005).
 
-Related readings
 Jesse Preston and Daniel M. Wegner, "The Eureka Error: Inadvertent Plagiarism by Misattributions of
 
 Effort," Journal of Personality and Social Psychology (2007).
 
 Chapter 8. Cheating as an Infection: How We Catch the Dishonesty Germ
-Based on
 Nicholas A. Christakis and James H. Fowler, Connected: The Surprising Power of Our Social
 
 Networks and How They Shape Our Lives (New York: Little, Brown, 2009).
@@ -5867,14 +5852,12 @@ Nina Mazar, Kristina Shampanier, and Dan Ariely, "Probabilistic Price Promotions
 and Las Vegas Meet," working paper, Rotman School of Management, University of Toronto
 (2011).
 
-Related readings
 Ido Erev, Paul Ingram, Ornit Raz, and Dror Shany, "Continuous Punishment and the Potential of
 
 Gentle Rule Enforcement," Behavioural Processes (2010).
 
 Chapter 9. Collaborative Cheating: Why Two Heads Aren't Necessarily Better
 than One
-Based on
 Melissa Bateson, Daniel Nettle, and Gilbert Roberts, "Cues of Being Watched Enhance Cooperation
 
 in a Real-World Setting," Biology Letters (2006).
@@ -5887,7 +5870,6 @@ Janet Schwartz, Mary Frances Luce, and Dan Ariely, "Are Consumers Too Trusting? 
 
 Relationships with Expert Advisers," Journal of Marketing Research (2011).
 
-Related readings
 Francesca Gino and Lamar Pierce, "Dishonesty in the Name of Equity," Psychological Science
 
 (2009).
@@ -5902,7 +5884,6 @@ Scott S. Wiltermuth, "Cheating More When the Spoils Are Split," Organizational B
 Human Decision Processes (2011).
 
 Chapter 10. A Semioptimistic Ending: People Don't Cheat Enough!
-Based on
 Rachel Barkan and Dan Ariely, "Worse and Worst: Daily Dishonesty of Business-men and
 
 Politicians," working paper, Ben-Gurion University of the Negev, Israel (2008).
@@ -5914,8 +5895,6 @@ Physical Self-punishment," working paper (2009).
 Azim Shariff and Ara Norenzayan, "Mean Gods Make Good People: Different Views of God Predict
 
 Cheating Behavior," International Journal for the Psychology of Religion (2011).
-
-Related readings
 
 Keri L. Kettle and Gerald Häubl, "The Signature Effect: How Signing One's Name Influences
 

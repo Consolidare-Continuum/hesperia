@@ -1,5 +1,32 @@
 # Chiron-tweaks backlog
 
+## 2026-08-31 — default/core (not TFP): Stage 2, wire syzif book corpus in — sequenced after a text-quality grind pass
+
+Candidate, not started. This session (2026-08-31) recovered and committed `sphere/source/
+syzif/` (120 books, canonical per `docs/foundations/genesis_taxonomy_provenance.md`), via
+`markitdown` conversion + a reconstructed `repair_text.py` (CRLF normalize, `ftfy` mojibake fix,
+hyphen line-joins, blank-run collapse — mechanical cleanup only). The underlying OCR scans carry
+real word-level errors that mechanical cleanup doesn't catch — spot-checked in `4 Governing the
+Commons - Elinor Ostrom.md`: "Bditors" (Editors), "Ulliversity" (University), "I.ouis" (Louis).
+**Before Stage 2 starts**: a real grind pass across all 120 files fixing OCR word errors — not
+scoped or started this session.
+
+**Stage 2 itself** (named in `genesis_taxonomy_provenance.md`, unbuilt since 2026-07-30, still
+unbuilt as of this note — no extraction/attribution tooling exists anywhere in either repo,
+confirmed by search both dates):
+
+1. Extract real text from the 120 books in `sphere/source/syzif/` — done 2026-08-31, grind pass
+   above still owed before this is a trustworthy source.
+2. Attribute terms/passages from that text to specific families (the 288-row `AREA_FAMILY_MAP`
+   in `core/topology/invariant_catalog.py` — currently only the family *names* came from the
+   genesis corpus, not real term-level content).
+3. Compute weights from that attribution and rebuild Dict A → Dict C → Dict B (the calibration
+   `.jsonl` packs the default-core lane, `hesperia-analyze-dev.service` :18880, actually runs on).
+
+This is sealed-pipeline-adjacent (new attribution/weighting logic feeding the live dictionaries,
+not a documented-parameter toggle) — Chiron proposes per spec §5b, does not implement alone.
+Hand to Felix/Gena once the grind pass is done and this is Grace-triaged.
+
 ## 2026-08-20 — correction: the 8 disambiguation renames below broke live scoring, reverted
 
 While starting the corpus-calibration-parameters pass right after shipping the renames below,

@@ -42,8 +42,6 @@ This paper meets the requirements of ANSI/NISO Z39.48-1992
 
 To Eve and Vera
 
-This page intentionally left blank
-
 Contents
 
 Note to Reader
@@ -86,11 +84,7 @@ of those entities, which would be lost if one were to use the singular "it."
 
 ix
 
-This page intentionally left blank
-
 The Misinformation Age
-
-This page intentionally left blank
 
 I n t r o d u c t i o n
 The Vegetable Lamb of Tartary
@@ -110,8 +104,6 @@ had learned of them on his travels from "persons worthy of credit."3
 These reports of lamb-plants, which came to be known as the
 Vegetable Lamb of Tartary, captured the medieval imagination.
 The Vegetable Lamb was reported as fact by leading naturalists and
-
-Introduction
 
 botanical scholars, several of whom claimed to have studied it and
 to have seen its wool. These claims persisted into the seventeenth
@@ -143,8 +135,6 @@ simply absurd, nonetheless persist for centuries?
 More important, are the mechanisms by which such beliefs were
 formed and spread, even among so-called experts, still present?
 
-Introduction
-
 What are today's Vegetable Lambs, and how many of us believe in
 them?
 
@@ -170,8 +160,6 @@ perhaps ten times higher.)8 It was the single most-shared election-related news 
 to the election.9 By contrast, the most-shared article from a reputable news source during the same period was a Washington Post opinion piece titled "Trump's History of Corruption Is Mind-Boggling.
 So Why Is Clinton Supposedly the Corrupt One?" It was shared
 849,000 times. (Of course, this piece, too, was nakedly partisan and
-
-Introduction
 
 hardly "news" in the standard sense—though the reporting in the
 article met much higher journalistic standards than the ETF News
@@ -202,8 +190,6 @@ had sold weapons directly to the Islamic State, that US federal law
 disqualified her from holding office, that former FBI director James
 Comey had received millions of dollars from the Clinton Founda-
 
-Introduction
-
 tion, and that President Barack Obama had cut the pay of US military personnel.
 
 In one noteworthy case, an ETF News story about the television
@@ -231,8 +217,6 @@ United States and the European Union (EU), and billions more are
 affected by the military, trade, and immigration policies of those
 nations. Whatever one thinks about the merits of Trump's election,
 or of the UK's exit from the EU ("Brexit"), it is profoundly troubling to think that these momentous political events were under-
-
-Introduction
 
 written by falsehoods. And it raises a deep and unsettling question:
 Can democracy survive in an age of fake news?16
@@ -263,8 +247,6 @@ that large ocean fish contain much mercury, or do not believe that
 mercury is harmful, then you may eat sushi while pregnant—and
 perhaps increase the chance of fetal mercury poisoning. If you be-
 
-Introduction
-
 lieve that high government debt is a drain on the economy, even
 when interest rates are low, you will vote for policies that reduce
 debt, even at the cost of government services or stimulus spending.
@@ -294,8 +276,6 @@ presumably indicate that a person is not drawing the right sorts of
 inferences.
 Surely factors of this sort play a role in explaining how false beliefs form. But to focus on individual psychology, or intelligence, is
 
-Introduction
-
 to badly misdiagnose how false beliefs persist and spread. It leads
 us to the wrong remedies. Many of our beliefs—perhaps most of
 them—have a more complex origin: we form them on the basis of
@@ -323,8 +303,6 @@ that the Pope endorsed Donald Trump—do you believe that person? What if every 
 in the Vegetable Lamb? What if your friends post articles about the
 Vegetable Lamb on social media and loudly joke about the ignorance of Vegetable Lamb Deniers? For most people, most of the
 
-Introduction
-
 time, this will be enough to convince them that, yes, there is probably more truth in the matter than they supposed.
 When we open channels for social communication, we immediately face a trade-off. If we want to have as many true beliefs as
 possible, we should trust everything we hear. This way, every true
@@ -350,8 +328,6 @@ sophistication of those who would mislead us.22
 Much of this misinformation takes the form of propaganda. This
 is material produced, often by a government or political organization, to promote a particular viewpoint—or to challenge one.
 
-Introduction
-
 Mass-media propaganda has long been a tool of governments to
 control their own citizens and to influence the political fortunes of
 their competitors, both domestically and abroad. American and European media consumers are regularly exposed to propaganda instruments produced by foreign adversaries such as the Russiangovernment-funded, English-language RT media organization and
@@ -375,8 +351,6 @@ by cigarette makers have been emulated by the energy industry and
 allied scientists and politicians to create an impression of uncertainty concerning the severity and causes of climate change.24
 All of these sources of deliberately partial, misleading, and inaccurate information—from political propaganda, to politically moti-
 
-Introduction
-
 vated media, to scientific research shaped by industrial interests—
 play an important role in the origins and spread of false beliefs. Just
 as it was Mandeville's fake memoirs that led to the widespread acceptance of the Vegetable Lamb, fake news and fake science remain
@@ -399,8 +373,6 @@ In this book we argue that social factors are essential to understanding the spr
 We describe important mechanisms by which false beliefs spread
 and discuss why, perhaps counterintuitively, these very same mechanisms are often invaluable to us in our attempts to reach the truth.
 It is only through a proper understanding of these social effects that
-
-Introduction
 
 one can fully understand how false beliefs with significant, realworld consequences persist, even in the face of evidence of their
 falsehood. And during an era when fake news can dominate real
@@ -431,8 +403,6 @@ There is another reason to focus on scientists. Ultimately, all of
 us, individually and collectively, need to act in the world, and the
 success of those actions depends on facts about how the world ac-
 
-Introduction
-
 tually is. If we want to correctly anticipate what the consequences
 of our actions will be—which, surely, we do—then we want to carefully attend to the body of available evidence. When we do this, we
 often act like scientists: we try to learn what has happened in the
@@ -456,8 +426,6 @@ and space and often involve hundreds or thousands of people. It is
 hard to intervene or to ask questions about how things would have
 turned out under slightly different circumstances in the way scientists usually do. This is one reason that simulations and modeling
 can help: by building simple computer programs that can mimic
-
-Introduction
 
 groups of people sharing ideas, it is possible to test hypotheses about
 what sorts of factors can matter to how such groups of people learn.
@@ -488,8 +456,6 @@ beliefs. Humans are animals that evolved to have the abilities they
 needed to thrive in their evolutionary environments. Most important, we are social animals. We have evolved to live in social groups,
 and to use these groups to share and create knowledge and under-
 
-Introduction
-
 standing about the world. Our ability to successfully evaluate evidence and form true beliefs has as much to do with our social conditions as our individual psychology.
 Taken together, these models, supplemented with evidence from
 other disciplines, provide a startling picture of our (in)ability to process information and make decisions. They help explain the Vegetable Lamb—but also explain how far more dangerous beliefs can
@@ -511,8 +477,6 @@ but in many cases they are actively supported by members of the
 current US administration, members of Congress, and some leading politicians in the UK, EU, and elsewhere. And as we have already noted, fake news and widespread false beliefs seem to have
 played significant roles in the 2016 US election, the UK Brexit vote,
 and other recent elections in Europe.
-
-Introduction
 
 Of course, as we have already argued, to some degree the persistence of false beliefs is simply part of the human condition. The
 core structures of human knowledge and belief are such that social
@@ -537,8 +501,6 @@ Propagandistic tools are especially effective in this environment.
 Social commentators have long noted the emergence of online
 "echo chambers" in political discourse; models of social learning
 allow us to say why these changes matter so much.31 People like to
-
-Introduction
 
 conform with those around them, and when we are surrounded by
 peers who hold identical beliefs, the forces of conformity become
@@ -566,8 +528,6 @@ them, but we also need to trust them enough to believe what they
 share. In a polarized political environment, that sort of trust is hard
 to come by.
 There is, of course, no silver bullet for preventing the spread of
-
-Introduction
 
 lies and misinformation. We think the interventions most likely to
 succeed involve radical and unlikely changes, such as the development of new regulatory frameworks to penalize the intentional creation and distribution of fake news, similar to laws recently adopted
@@ -1366,8 +1326,6 @@ well established, and its use was heavily regulated in the United
 States, Europe, Japan, China, and elsewhere.4 Mercury poisoning
 should have been under control.
 
-Polarization and Conformity
-
 And yet beginning around 2000, an American physician named
 Jane Hightower began to notice a distinctive cluster of symptoms
 in her patients: hair loss, nausea, weakness, brain fog. These are all
@@ -1398,8 +1356,6 @@ A local news station ran a story on Hightower's suspicions.7 Then
 mercury levels in fish at local supermarkets and discovered that
 some of them, especially shark and swordfish, were well above levels
 
-Polarization and Conformity
-
 deemed safe by the US Food and Drug Administration (FDA). Their
 coverage of Hightower's claims reached a wide audience—and soon
 more doctors were monitoring their patients for fish-related mercury poisoning, gradually accumulating a larger and larger body of
@@ -1426,8 +1382,6 @@ influencing the beliefs and behaviors of those around her—obstetricians, other
 more evidence and further links. Ultimately, the discovery of a new
 link between mercury poisoning and seafood consumption occurred
 
-Polarization and Conformity
-
 when a community, or network, of scientists and doctors, all sharing
 ideas and evidence, adopted a new consensus.
 
@@ -1453,8 +1407,6 @@ Still, Hightower pushed forward with a year-long survey documenting the fish int
 group of patients. She published these results and shared them with
 a contact at the EPA, who invited her to present her work at a meeting of mercury experts. At the suggestion of another colleague she
 wrote a resolution about the dangers of methylmercury and how to
-
-Polarization and Conformity
 
 tackle them, which was passed by the California Medical Association and San Francisco Medical Society.
 With time and ever more evidence, she gradually convinced more
@@ -1485,8 +1437,6 @@ The kind of reasoning Watson and Crick did with their building
 blocks is ubiquitous in the sciences. They built a model as an aid to
 understanding and inference. Models can take many different forms:
 
-Polarization and Conformity
-
 physical structures developed in labs, computer programs, mathematical constructions of various sorts. Usually, a model is some sort
 of simplified or otherwise tractable system that scientists can manipulate and intervene on, to better learn about a messier or more
 complex system that we ultimately care about.13 Watson and Crick
@@ -1514,8 +1464,6 @@ about anything—and whether we should care.
 Bayesian belief updating gives us a model of how individual beliefs change. But as we have just seen in the case of methylmercury,
 science often needs to be understood on the level of a community,
 
-Polarization and Conformity
-
 not an individual. How do groups of scientists—such as the one
 Jane Hightower was part of—share knowledge, evidence, and belief? How do they reach consensus? What do these processes tell us
 about science?
@@ -1541,8 +1489,6 @@ involved large networks of researchers. Models can help fill the gaps
 in our understanding of how beliefs spread in communities of scientists, and knowledge seekers more generally.
 Of course, a model of scientists gathering evidence and communicating with one another cannot capture every detail of how scientific ideas develop and spread. For example, we will not attempt
 to model the "Eureka moment"—the dawning of that brilliant idea
-
-Polarization and Conformity
 
 that moves a field forward. (Though, again, we are skeptical that
 such moments play the significant role history tends to grant them.)
@@ -1571,8 +1517,6 @@ action yields. These outcomes are the evidence they use to update
 their beliefs. Importantly, each scientist develops beliefs based not
 only on the outcomes of their own actions, but also on those of
 their colleagues and friends.
-
-Polarization and Conformity
 
 A clinician like Hightower, for example, might observe what happens to her own patients and also hear about her colleagues' patients. She will use all of these observations in deciding whether she
 thinks her patients' symptoms are due to mercury poisoning. Similarly, while at the casino you might favor one slot machine, but
@@ -1603,8 +1547,6 @@ will happen.
 But in many types of science, evidence is not so dependable.
 Again, think of methylmercury. Individual sensitivity to the toxin
 varies widely, meaning that two people eating the same amounts of
-
-Polarization and Conformity
 
 swordfish might show very different symptoms. To make matters
 worse, the symptoms take time to develop. In retrospect, it is easy
@@ -1637,8 +1579,6 @@ and no minds that could hold beliefs. Instead, we have an abstract
 network consisting of a collection of "nodes," each of which may or
 may not be connected to other nodes by what is called an "edge."
 
-Polarization and Conformity
-
 . A collection of communication networks. In each network, the nodes
 represent individuals, or agents, and the connections between them, called edges,
 represent social ties. Some networks, like the complete, are more densely connected, and others, like the cycle, are more sparse. The clumpy network involves
@@ -1654,8 +1594,6 @@ the wheel have one central node, with the rest of the individuals
 in the wheel loosely connected and in the star not connected at all.
 Real human networks are not so neat. They often have substructures that mimic the more regular ones, but they are also "clumpy,"
 with random links between well-connected cliques.18 As we will see,
-
-Polarization and Conformity
 
 these structures are often important in determining how information and ideas flow through a group.
 How does a node make decisions or take actions? In the model,
@@ -1685,8 +1623,6 @@ shows an example of what this process might look like.
 First, in (a) we see a network of six nodes (scientists) and edges
 (their connections). Each scientist has a credence ranging from 0 to
 
-Polarization and Conformity
-
 . An example of updating and experimentation in a Bala and Goyal–style
 model. Scientists start with initial credences (a) and use these to decide how
 they will test the world (b). Light nodes represent those taking action A,
@@ -1710,8 +1646,6 @@ This process continues stepwise (try actions, update credences,
 try actions, update credences) until the scientists have converged on
 a consensus. This can happen if all of the scientists have sufficiently
 high credence—greater than .99—that action B is better; or all of
-
-Polarization and Conformity
 
 them have sufficiently low credence, less than .5, so that no one in
 the network ever performs action B, in which case they will not
@@ -1743,8 +1677,6 @@ each. But then, in 1954, the bacterial theory suffered a devastating
 setback. Gastroenterologist E. D. Palmer biopsied the stomachs of
 more than one thousand patients and found no evidence of bacteria
 
-Polarization and Conformity
-
 at all.25 The conclusion seemed to be that bacteria could not live
 in the human stomach, meaning that they could not possibly cause
 ulcers.
@@ -1769,8 +1701,6 @@ it), we would expect some of them to end up with the right theory
 and some with the wrong one. For instance, scientists who play the
 better slot machine and happen to lose all their money may give up
 on that machine for good. But with no communication, we should
-
-Polarization and Conformity
 
 not expect much correlation between the various scientists' beliefs.
 Some scientists would have good luck and stick with the better machine; others would not. Each conclusion would be independent
@@ -1801,8 +1731,6 @@ the scientist gets positive results).
 shows what this might look like. It is a simplified image
 (showing just the updating of credences, but not the successes) of
 
-Polarization and Conformity
-
 . An example of a network that achieves convergence on true beliefs.
 Light nodes represent belief in A and dark nodes belief in B. In each time step
 agents are testing their beliefs and updating their credences on the basis of their
@@ -1820,8 +1748,6 @@ false belief. We see this in the models as well: especially when scientists tack
 thing. This happens when a few scientists get a string of misleading
 results and share them with their colleagues. Scientists who might
 have been on track to believe the true thing can be derailed by their
-
-Polarization and Conformity
 
 peers' misleading evidence. When this happens, the scientists would
 have been better off not getting input from others.
@@ -1849,8 +1775,6 @@ maintain this diversity of beliefs for a long enough time is to limit
 communication, so that researchers' beliefs do not influence one
 another too much while they test different theories.30
 
-Polarization and Conformity
-
 As Zollman himself points out, the Zollman effect can help explain how Palmer's results finding no bacteria in the stomach had
 such a dramatic effect—and why the medical establishment held
 fast to a false theory for so long.31 Physicians were tightly connected
@@ -1874,8 +1798,6 @@ joint pain so severe that she struggled to move.33 She had seen
 doctors, but none of them had managed to help her. Many, in fact,
 hinted that her symptoms might by psychosomatic—or to put it
 more bluntly, they thought she was a nut. But as Murray meticulously documented, she was not the only one with these symptoms.
-
-Polarization and Conformity
 
 Many of her friends and their children, all living in the small town
 of Lyme, Connecticut, suffered from the same strange cluster of
@@ -1905,8 +1827,6 @@ like a spiral or helix, like those that cause syphilis. And like syphilis,  the
 symptoms: fever, headache, joint aches, and often, but not always,
 a distinctive rash in the shape of a bull's-eye.37 As the spirochetes
 spread throughout the body, some patients develop more alarming
-
-Polarization and Conformity
 
 symptoms: meningitis, encephalitis, facial paralysis, and mental disturbances.38
 As with any infection, the human immune system responds by
@@ -1938,8 +1858,6 @@ doctor movement, Steere grew concerned that the diagnosis of
 Lyme disease had become a catchall for other diseases such as fibromyalgia and chronic fatigue syndrome (themselves both poorly
 understood and controversial). After investigating patients referred
 
-Polarization and Conformity
-
 to him for Lyme, he formed the opinion that many did not have the
 disease. Knowing that long-term antibiotic use has serious side effects, he began to publicly advocate for greater caution in Lyme
 diagnosis and treatment.
@@ -1968,8 +1886,6 @@ At stake in this debate is the well-being of thousands of suffering
 patients. They vilify Steere and others who maintain that those with
 chronic Lyme should not be treated indefinitely. Some argue that
 
-Polarization and Conformity
-
 these doctors are conspiring to hide the truth about chronic Lyme—
 possibly because they are in cahoots with insurance companies that
 do not want to pay for long-term treatment.46
@@ -1992,8 +1908,6 @@ of his wounds.
 The shots were fired by a left-wing extremist named James
 Thomas Hodgkinson. Hodgkinson reportedly belonged to Facebook groups with names like "The Road to Hell Is Paved with Republicans," where he posted vitriolic anti-Trump comments daily.49
 Two months later, white supremacists, neo-Nazis, and other nationalist and nativist extremists marched through Charlottesville,
-
-Polarization and Conformity
 
 Virginia, carrying torches and chanting anti-Semitic, racist, and
 pro-Trump slogans.50 Violence broke out between the "Unite the
@@ -2020,8 +1934,6 @@ scientific community has polarized over a set of scientific beliefs in
 much the way that some communities polarize over political beliefs. Here, too, the situation has progressed to threats of violence.
 This situation may seem surprising. We tend to think of political stances and scientific beliefs as importantly different. Political
 stances are motivated by social values: moral norms, religious beliefs, and beliefs about social and economic justice. We adopt political positions because we want to promote something we value in
-
-Polarization and Conformity
 
 our country and our lives. Scientific beliefs, on the other hand, are
 supposed to be value-free (arguments from Chapter 1 notwithstanding). In an ideal science, thinkers adopt beliefs that are supported by evidence, regardless of their social consequences.
@@ -2051,8 +1963,6 @@ observations.
 So how have things gotten so polarized? The models of scientific
 networks we have described in this chapter suggest that scientific
 
-Polarization and Conformity
-
 communities should tend strongly toward consensus as they gather
 and share evidence. Eventually, influence and data flowing between
 researchers should sway the whole group one way or another.
@@ -2079,8 +1989,6 @@ beliefs in light of new evidence. The rule we have used so far, Bayes'
 rule, takes for granted that we are certain that the evidence we are
 considering was really observed: there were no errors, no subterfuge, no miscommunications. This is a highly idealized case. Usually, when we encounter evidence, it is not perfectly certain. In such
 cases, there is a different rule that can be used to update your be-
-
-Polarization and Conformity
 
 liefs, called "Jeffrey's rule," after Princeton philosopher Dick Jeffrey, who proposed it. Jeffrey's rule takes into account an agent's
 degree of uncertainty about some piece of evidence when determining what the agent's new credence should be.55
@@ -2109,8 +2017,6 @@ Such a model does not capture the moral anger we see in the case
 of chronic Lyme, or in political polarization. But we do see that
 under fairly minimal assumptions, entire scientific communities can
 
-Polarization and Conformity
-
 . A complete, that is, fully connected, network in which agents are
 polarized in that they have stable, opposing beliefs. Light nodes represent those
 taking action A, and dark nodes, B. The weights of the connections between the
@@ -2130,8 +2036,6 @@ connection represents the degree of trust the agents give to each
 other's evidence. As you can see, there are two groups with opposing beliefs who do not listen to each other.
 We also find that the greater the distrust between those with
 different beliefs, the larger the fraction of the scientific community
-
-Polarization and Conformity
 
 that eventually ends up with false beliefs. This happens because those
 who are skeptical of the better theory are precisely those who do
@@ -2157,8 +2061,6 @@ because she trusts Joe's data less than Joe does. This means that
 both their credences are higher than before, but also farther apart.
 Now Joe gathers more evidence, and his beliefs again jump up.
 Sally is also more convinced, but since the distance between her
-
-Polarization and Conformity
 
 and Joe is even greater now, her credence changes even less than
 the first time.
@@ -2186,8 +2088,6 @@ typical psychological experiment on polarization might give participants two set
 and see how they change their beliefs. Political scientists Charles
 Taber, Damon Cann, and Simona Kucsova, for example, presented
 
-Polarization and Conformity
-
 subjects with conflicting evidence on issues ranging from the legalization of marijuana to the Electoral College. They found that those
 who started with strong beliefs about these issues became only more
 entrenched during the study—irrespective of what their starting
@@ -2214,8 +2114,6 @@ are affecting the climate, or they are not.
 Of course, there is little question that industrial interests have
 obscured the scientific consensus on the causes of climate change,
 
-Polarization and Conformity
-
 by spreading misinformation and creating a sense of controversy.
 But the models we have discussed suggest that even without industrial interference, a community of people trying to choose scientific
 beliefs to guide their votes or policy choices can end up with this
@@ -2241,8 +2139,6 @@ the first obstetrical clinic of the Vienna General Hospital. He soon
 noticed a troubling pattern. The hospital's two clinics provided free
 care for poor women if they were willing to be treated by students—
 doctors in the first clinic, where Semmelweis was stationed, and
-
-Polarization and Conformity
 
 midwives in the second. But things were not going well in the first
 clinic.60
@@ -2273,8 +2169,6 @@ hands were unclean, and they questioned the scientific basis of his
 disease. Shortly thereafter Semmelweis was replaced at the Vienna
 General Hospital. In his new position, at a small hospital in Buda-
 
-Polarization and Conformity
-
 pest, his methods brought the death rate from childbed fever down
 to less than 1 percent.
 Over the remaining eighteen years of his life, Semmelweis's revolutionary techniques languished. He grew increasingly frustrated
@@ -2298,8 +2192,6 @@ the size of Trump's inauguration crowd.
 
 In his first White House press conference, Sean Spicer, then the
 Trump Administration press secretary, declared that Trump had had
-
-Polarization and Conformity
 
 the "largest audience to ever witness an inauguration." But counts
 of Washington, D.C., Metro ridership and crowd estimates based
@@ -2325,8 +2217,6 @@ participants a card with one line on the left and three lines of varying length 
 line on the right was as long as the line on the left. Unbeknownst
 to his subjects, seven members of the group were confederates who
 
-Polarization and Conformity
-
 . The prompt for Solomon Asch's conformity experiment. Even though
 (a) matches the length of the line on the left, confederates would all choose the
 same, incorrect line (b or c). Subjects then had to choose whether to conform
@@ -2342,8 +2232,6 @@ While conformity seems to vary across cultures and over time, it
 reflects two truths about human psychology: we do not like to disagree with others, and we often trust the judgments of others over
 our own.66
 Notice that sometimes, the latter is a reasonable strategy. No one
-
-Polarization and Conformity
 
 is perfect, and so it can be a good idea to doubt ourselves in the face
 of disagreement, especially if many others seem to independently
@@ -2376,8 +2264,6 @@ has a tip—usually dependable, but sometimes wrong—about which
 of two stocks will perform better during the next month. Say that
 in a group of fifty people, forty-eight have secret information sug-
 
-Polarization and Conformity
-
 gesting that Nissan will perform best, and just two have information suggesting that General Motors stock will outperform Nissan.
 Suppose that those two people publicly buy GM stock. The next
 investor sees this and, perfectly reasonably, infers that the first two
@@ -2403,8 +2289,6 @@ in a case where conforming might seem like a generally good thing—
 because others might have information we lack—the whole group
 can end up behaving in a highly irrational way when our actions or
 statements of belief come under social influence.
-
-Polarization and Conformity
 
 Conformity bias, meanwhile, reflects the fact that completely separately from our rational judgments, we simply do not like to stick
 out from a pack. It makes us feel bad. The transcripts of the Asch
@@ -2433,8 +2317,6 @@ just the best action. At least in some settings, it seems we also care
 about agreeing with other people. In fact, in some cases we are prepared to deny our beliefs, or the evidence of our senses, to better fit
 in with those around us.
 How might an effect like conformity bias influence communities
-
-Polarization and Conformity
 
 of scientists?73 Suppose we begin with the basic Bala-Goyal model
 that we have already described. The scientists in the model update
@@ -2466,8 +2348,6 @@ actually better, because no one is willing to buck the consensus.
 Those without peers to worry about, on the other hand, are unhampered by a desire to conform and are willing to try out a new,
 promising theory.75
 
-Polarization and Conformity
-
 Of course, the assumption that scientists care only about conforming is too strong. As the Asch experiment shows, people care about
 conformity but also about truth. What about models in which we
 combine the two elements? Even for these partially truth-seeking
@@ -2496,8 +2376,6 @@ which scientists are clustered in small, tight-knit groups that are
 weakly connected to each other.
 This is not such an unusual arrangement. Philosopher of science
 
-Polarization and Conformity
-
 Mike Schneider points out that in many cases, scientists are closely
 connected to those in their own country, or who are part of their
 racial or ethnic group. He shows that when scientists care about
@@ -2521,8 +2399,6 @@ Within the A group, some individuals have accurate credences, that is, they
 believe B is better. Because they conform with the actions of their clique,
 this accurate belief is not transmitted to colleagues in that clique.
 
-Polarization and Conformity
-
 . A network in which all agents have correct beliefs, but one clique takes
 the worse action because of conformity bias. Although individuals get information
 about the success of B from other colleagues, this is not enough for them to
@@ -2538,8 +2414,6 @@ the network have led them to believe that B is better.
 So, we see that the desire to conform can seriously affect the
 ability of scientists, or other people gathering knowledge, to arrive
 at good beliefs. Worse, as philosopher Aydin Mohseni and economist Cole Williams argue, knowing about conformity can also hurt
-
-Polarization and Conformity
 
 scientists' ability to trust each other's statements.78 If physicians say
 they are completely certain their hands do not carry cadaverous particles, it is hard to know whether they are convinced of this because
@@ -2569,8 +2443,6 @@ have ignored the reputational risks of admitting that their hands
 were unclean and listened to Semmelweis. Likewise, if we offered
 Trump supporters one thousand dollars to choose the photo with
 
-Polarization and Conformity
-
 more people in it, more of them might get it right. (Relatedly, social
 psychologists have shown that when monetary incentives are offered to those who get the correct answer in the Asch test, conformity is less prevalent.)80
 The difference between cases in which beliefs really matter and
@@ -2594,8 +2466,6 @@ membership among new-age, elite, or left-wing social groups, and
 thus bring social benefits. These same communities sometimes promote wackier ideas—such as the recent fad of "grounding," based
 on claims that literally touching the ground provides health benefits as a result of electron transfer between the body and earth. Again,
 people are not going to be hurt by putting their feet on the ground
-
-Polarization and Conformity
 
 (in fact walking barefoot is often relaxing and pleasant), and so such
 a belief should be easily stabilized by social influences.82
@@ -2621,8 +2491,6 @@ explanations for false belief.
 
 We have seen in this chapter that the effects of social engagement
 on our beliefs and behaviors are myriad and complex. Our social
-
-Polarization and Conformity
 
 networks are our best sources of new evidence and beliefs. But they
 also open us up to negative social effects. Friends and colleagues can
@@ -2658,8 +2526,6 @@ of the dangers of smoking.
 The article was a public relations doomsday scenario for the tobacco industry. At the time, Reader's Digest had a circulation of tens of
 millions of copies and was one of the most widely read publications
 
-The Evangelization of Peoples
-
 in the world.2 The dramatic headline, clear and concise prose, and
 unambiguous assessment of the scientific evidence made a greater
 impact than any public health campaign could have done. The article left no uncertainty: smokers were slowly killing themselves.
@@ -2684,8 +2550,6 @@ the pages of medical journals. Today it is a common topic of discussion, apparen
 The tobacco industry panicked. Recognizing an existential threat,
 the major US firms banded together to launch a public relations
 campaign to counteract the growing—correct—perception that their
-
-The Evangelization of Peoples
 
 product was killing their customers. Over the two weeks following
 the market sell-off, tobacco executives held a series of meetings at
@@ -2712,8 +2576,6 @@ At the core of the new strategy was the Tobacco Industry Research Committee (TIR
 1954, a document titled "A Frank Statement to Cigarette Smokers."10
 Signed by the presidents and chairmen of fourteen tobacco companies, the "Frank Statement" ran as an advertisement in four hundred newspapers across the United States. It responded to general
 allegations that tobacco was unsafe—and explicitly commented on
-
-The Evangelization of Peoples
 
 the Sloan Kettering report that tobacco tar caused cancer in mice.
 The executives asserted that this widely reported study was "not regarded as conclusive in the field of cancer research" and that "there
@@ -2744,8 +2606,6 @@ In other words, the Tobacco Strategy worked.
 
 •
 
-The Evangelization of Peoples
-
 The term "propaganda" originated in the early seventeenth century, when Pope Gregory XV established the Sacra Congregatio de
 Propaganda Fide—the Sacred Congregation for the Propagation
 of the Faith. The Congregation was charged with spreading Roman
@@ -2773,8 +2633,6 @@ a systematic campaign to sell US participation in the war to the
 American public.17 The CPI produced films, posters, and printed
 publications, and it had offices in ten countries, including the United
 
-The Evangelization of Peoples
-
 States. In some cases it fed newspapers outright lies about American activities in Europe—and occasionally got caught, leading the
 New York Times to run an editorial calling it the Committee on Public Misinformation. One member of the group later described its
 activities as "psychological warfare."18
@@ -2799,8 +2657,6 @@ Did (or do) you believe that fat is unhealthy—and the main contributor to obes
 heavily in supporting and promoting research on the health risks
 of fat, to deflect attention from the greater risks of sugar.19 Who is
 behind the long-term resistance to legalizing marijuana for recrea-
-
-The Evangelization of Peoples
 
 tional use? Many interests are involved, but alcohol trade groups
 have taken a particularly strong and effective stand.20 There are
@@ -2830,8 +2686,6 @@ leaders.
 Perhaps Bernays overstated his case, but his ideas have deeply
 troubling consequences. If he is right, then the very idea of a democratic society is a chimera: the will of the people is something to
 
-The Evangelization of Peoples
-
 be shaped by hidden powers, making representative government
 meaningless. Our only hope is to identify the tools by which our
 beliefs, opinions, and preferences are shaped, and look for ways to
@@ -2856,8 +2710,6 @@ Hepburn with an arm-length cigarette holder? Smoking was culturally ubiquitous d
 imagine changing this aspect of American society by government
 order. Worse, many would-be regulators of the tobacco industry
 were smokers themselves. Clear conflicts of interest arise, independently of any industry intervention, when the users of an addictive
-
-The Evangelization of Peoples
 
 product attempt to regulate the industry that produces it. And in
 addition to funding research, the tobacco industry poured millions
@@ -2885,8 +2737,6 @@ We begin with the basic Bala-Goyal model we described in the
 last chapter. This, remember, involves a group of scientists who
 communicate with those in their social network. They are all trying
 to figure out whether one of two actions—A or B—will yield better
-
-The Evangelization of Peoples
 
 results on average. And while they know exactly how often A leads
 to good outcomes, they are unsure about whether B is better or
@@ -2918,8 +2768,6 @@ policy maker who listens to a single scientist, one who listens to
 two, and one who listens to three.
 With just this modification to the framework, we find that policy
 
-The Evangelization of Peoples
-
 . An epistemic network with policy makers and scientists. Although both
 groups have beliefs about whether action A (light nodes) or action B (dark nodes)
 is better, only scientists actually test these actions. Policy makers observe results
@@ -2944,8 +2792,6 @@ and they communicate with every policy maker.
 The Tobacco Strategy was many faceted, but there are a handful of
 specific ways in which the TIRC and similar groups used science to
 
-The Evangelization of Peoples
-
 . An epistemic network with scientists, policy makers, and a propagandist.
 The propagandist does not hold beliefs of their own. Instead, their goal is to
 communicate only misleading results to all the policy makers. Light nodes
@@ -2964,8 +2810,6 @@ in industry newsletters and pamphlets; in press releases sent to
 journalists, politicians, and medical professionals; and even in testimony to Congress.
 Funding research benefited the industry in several ways. It provided concrete (if misleading) support for tobacco executives' claims
 that they cared about smokers' health. It gave the industry access to
-
-The Evangelization of Peoples
 
 doctors who could then appear in legal proceedings or as industryfriendly experts for journalists to consult. And it produced data that
 could be used to fight regulatory efforts.
@@ -2996,8 +2840,6 @@ credences are omitted from the figure for simplicity's sake). In (b)
 both the propagandist and the scientists test their beliefs. Scientists
 "flip the coin" ten times each. The propagandist, in this example,
 
-The Evangelization of Peoples
-
 . An example of policy-maker belief updating in a model in which a
 propagandist engages in biased production. In (a) we see the initial credences of
 the policy makers. In (b) the scientists test their beliefs, and the propagandist tests
@@ -3017,8 +2859,6 @@ that the wrong action is better. Their credence goes in precisely the
 wrong direction. Worse, this behavior is often stable, in the sense
 that no matter how much evidence the scientific community produces, as long as the propagandist remains active, the policy makers
 will never be convinced of the truth.
-
-The Evangelization of Peoples
 
 Notice that in this model, the propagandist does not fabricate
 any data. They are performing real science, at least in the sense that
@@ -3046,8 +2886,6 @@ On the other hand, since the propagandist shares only those results that support
 policy makers' beliefs the other way. This effect always slows the
 policy makers' march toward truth, and if the propagandist manages to pull hard enough, they can reverse the direction in which
 the policy makers' credences move. Which side can pull harder de-
-
-The Evangelization of Peoples
 
 pends on the details of the scientific community and the problem
 that scientists tackle.
@@ -3077,8 +2915,6 @@ this coin sixty times, the chances are very high that there will be
 more heads overall. Your study is quite likely to point you in the
 right direction. But if you flip the coin just once, there is a 30 per-
 
-The Evangelization of Peoples
-
 . Breaking one large study into many smaller ones can provide fodder
 for propagandists. On the left we see a trial with sixty data points, which reflects
 the underlying superiority of action B (dark). On the right, we see the same data
@@ -3099,8 +2935,6 @@ these three and make it look as if the total data collected involved
 nineteen failures of B and only eleven successes.
 Likewise, in an extreme case the propagandist could use their
 money to run sixty studies, each with only one data point. They
-
-The Evangelization of Peoples
 
 would then have the option to report all and only the studies in which
 action B failed—without indicating how many times they flipped
@@ -3129,8 +2963,6 @@ For instance, in response to the Sloan Kettering study showing
 that cigarette tar produced skin cancer in mice, Tobacco and Health
 pointed to later studies by the same group that yielded lower cancer
 
-The Evangelization of Peoples
-
 incidences, implying that the first study was flawed but not giving
 a complete account of the available data. The newsletter ran headlines such as "Five Tobacco-Animal Studies Report No Cancers
 Induced" without mentioning how many studies did report induced
@@ -3158,8 +2990,6 @@ elsewhere. Doll was in fact drawing precise distinctions, but industry painted h
 In our model, the propagandist implements selective sharing by
 searching through the results produced by the scientific community
 and then passing along all and only those that happen to support
-
-The Evangelization of Peoples
 
 their agenda. In many ways this ends up looking like biased production, in that the propagandist is sharing only favorable results, but
 with a big difference. The only results that get shared in this model
@@ -3193,8 +3023,6 @@ the scientists themselves.
 The basic mechanism behind selective sharing is similar to that
 behind biased production: there is a tug-of-war. Results shared by
 
-The Evangelization of Peoples
-
 . An example of policy-maker belief updating under selective sharing by
 a propagandist. In (a) we see the initial credences of the policy makers. In (b)
 scientists test their preferred actions. (Light nodes represent individuals taking
@@ -3209,8 +3037,6 @@ how much money they can devote to running their own studies, but
 only on the rate at which spurious results appear in the scientific
 community.
 For this reason, the effectiveness of selective sharing depends on
-
-The Evangelization of Peoples
 
 the details of the problem in question. If scientists are gathering
 data on something where the evidence is equivocal—say, a disease in
@@ -3237,8 +3063,6 @@ with a situation in which each scientist flips their coin, say, five
 times. The lower the scientific community's standards, the easier it
 is for the propagandist in the tug-of-war for public opinion.40
 Of course, the more data you demand, the more expensive each
-
-The Evangelization of Peoples
 
 study becomes, and this sometimes makes doing studies with more
 data prohibitive. But consider the difference between a case in which
@@ -3268,8 +3092,6 @@ along with an assessment of the total body of evidence.
 Most disciplines recognize the importance of studies in which
 more data are gathered. (All else being equal, studies with more data
 
-The Evangelization of Peoples
-
 are said to have higher statistical power, which is widely recognized
 as essential to rigorous science.)41 Despite this, low-powered studies
 seem to be a continuing problem.42 The prevalence of such studies
@@ -3291,8 +3113,6 @@ saying that we want our scientific communities to follow the practices most like
 standards.
 The success of selective sharing is striking because, given that it
 is such a minimal intervention into the scientific process, arguably
-
-The Evangelization of Peoples
 
 it is not an intervention at all. In fact, in some ways it is even more
 effective than biased production, for two reasons. One is that it is
@@ -3319,8 +3139,6 @@ mercury in fish was not harmful to people. This new directive never
 actually materialized—but somehow the mere rumor of new evidence was enough to derail the hearing. Rather than vote on the
 resolution, the committee responsible passed it along to the AMA's
 
-The Evangelization of Peoples
-
 Council for Scientific Affairs for further investigation, meaning at
 least a year's wait before the resolution could be brought to the floor
 again.46
@@ -3344,8 +3162,6 @@ group named Philip Davidson gave a presentation on the group's
 research. A friend of Hightower's faxed her a copy of the presentation, noting that the acknowledgments thanked the Electric Power
 Research Institute (EPRI)—a lobbying entity for the power industry, including the coal power industry responsible for the methylmercury in fish.49
 Hightower discovered that the EPRI had given a $486,000 grant
-
-The Evangelization of Peoples
 
 to a collaborative research project on methylmercury that included
 the Seychelles study. The same project had received $10,000 from
@@ -3371,8 +3187,6 @@ process.
 Holman and Bruner contend that industry can influence science
 without biasing scientists themselves by engaging in what they call
 "industrial selection." Imagine a community of scientists working
-
-The Evangelization of Peoples
 
 on a single problem where they are trying to decide which of two
 actions is preferable. (They work in the same Bala-Goyal modeling
@@ -3403,8 +3217,6 @@ influencing early-career researchers.52
 Holman and Bruner also add a propagandist to the model. This
 time, however, the propagandist can do only one thing: dole out re-
 
-The Evangelization of Peoples
-
 search money. The propagandist finds the scientist whose methods
 are most favorable for the theory they wish to promote and gives
 that scientist enough money to increase his or her productivity. This
@@ -3432,8 +3244,6 @@ Notice also that if industrial propagandists are present and using
 selective sharing, they will disproportionately share the results of
 those scientists whose methods favor action A. In this sense, selective sharing and industrial selection can produce a powerful synergy.
 
-The Evangelization of Peoples
-
 Industry artificially increases the productivity of researchers who
 happen to favor A, and then widely shares their results. They do
 this, again, without fraud or biased production.
@@ -3460,8 +3270,6 @@ antiarrhythmic drugs for people at risk of heart attack.
 The problem was that far from preventing heart attack death,
 antiarrhythmics had the opposite effect. It has since been estimated
 
-The Evangelization of Peoples
-
 that their usage may have caused hundreds of thousands of premature deaths.56 The Cardiac Arrhythmia Suppression Trial, conducted
 by the National Heart, Lung, and Blood Institute, began in 1986
 and, unlike previous studies, used premature death as the endpoint.
@@ -3487,8 +3295,6 @@ be .7 for real scientists but only .4 for the propagandist.
 shows the structure of this sort of community.
 An embedded propagandist of this sort can permanently prevent
 
-The Evangelization of Peoples
-
 . The structure of a model in which the propagandist directly shares
 biased research with scientists. Notice that unlike the network structures in
 figures 9, 10, and 12, the propagandist here does not focus on policy-maker belief,
@@ -3509,8 +3315,6 @@ own results and those of their neighbors, scientists can under some
 circumstances identify agents whose results are consistently outliers and begin to discount those agents' results. Unfortunately, this
 is a difficult and time-consuming process—and it takes for granted
 that there are not too many propagandists in one's network. On the
-
-The Evangelization of Peoples
 
 other hand, it highlights an important moral. In Chapter 2, we considered a model in which scientists chose whom to trust on the basis
 of their beliefs, under the assumption that successful scientists would
@@ -3535,8 +3339,6 @@ because in cases where the problem we are trying to solve is difficult, individu
 matters.
 But manipulating the evidence we use is not the only way to manipulate our behavior. For instance, propagandists can play on our
 emotions, as advertising often does. Poignancy, nostalgia, joy, guilt,
-
-The Evangelization of Peoples
 
 and even patriotism are all tools for manipulation that have nothing to do with evidence.
 The famous Marlboro Man advertising campaign, for instance,
@@ -3566,8 +3368,6 @@ of society and principles of mass psychology, would first ask:
 answer, obviously, is: "The physicians." The new salesman will
 then suggest to physicians to say publicly that it is wholesome
 
-The Evangelization of Peoples
-
 to eat bacon. He knows as a mathematical certainty, that large
 numbers of persons will follow the advice of their doctors.60
 
@@ -3592,8 +3392,6 @@ directly assaulting the scientists via accusations of bias or illegitimacy.
 We emphasized in Chapter 1 that the perception of authority
 is not the right reason to pay attention to the best available science. Ultimately, what we care about is taking action, both individual or collective, that is informed by the best available evidence and
 therefore most likely to realize our desired ends. Under ideal circumstances, invoking—or undermining—the authority of science
-
-The Evangelization of Peoples
 
 or medicine should not make any difference. What should matter is
 the evidence.
@@ -3622,8 +3420,6 @@ Physicists had recognized since the mid-nineteenth century that
 carbon dioxide is what we now call a "greenhouse gas": it absorbs
 infrared light. This means it can trap heat near the earth's surface,
 which in turn raises surface temperatures. You have likely experi-
-
-The Evangelization of Peoples
 
 enced precisely this effect firsthand, if you have ever compared the
 experience of spending an evening in a dry, desert environment with
@@ -3654,8 +3450,6 @@ ocean absorbed more carbon dioxide, its ability to hold the carbon
 dioxide would degrade, causing it to evaporate out at higher rates.
 When they combined these results, they realized that carbon diox-
 
-The Evangelization of Peoples
-
 ide levels would steadily rise over time, even if rates of emissions
 stayed constant. Things would only get worse if emissions rates continued to increase—as indeed they have done over the sixty years
 since the Revelle and Suess article appeared.
@@ -3683,8 +3477,6 @@ they adopted a different strategy—one that went through Revelle.
 
 In February 1990, Revelle gave a lecture at the annual meeting
 
-The Evangelization of Peoples
-
 of the American Association for the Advancement of Science, the
 world's largest general scientific society. The session in which he
 spoke was specifically devoted to policy issues related to climate
@@ -3711,8 +3503,6 @@ the earlier piece. Among the passages that were lifted verbatim was
 the one quoted above.
 Singer claimed that Revelle had been a full coauthor, contributing ideas to the final manuscript and endorsing the message. But
 others disagreed. Both Revelle's personal secretary and his long-
-
-The Evangelization of Peoples
 
 term research assistant claimed that Revelle had been reluctant to
 be involved and that he contributed almost nothing to the text. And
@@ -3744,8 +3534,6 @@ respond to those criticisms of that sort?" he asked Gore.69 Gore
 tried to respond—first over laughter from the audience, but then,
 when he claimed Revelle had "had his remarks taken completely
 
-The Evangelization of Peoples
-
 out of context just before he died," to boos and jeers. He was made
 to look foolish, and his environmental activism naïve.
 
@@ -3772,8 +3560,6 @@ this sort of argument, since it is precisely them who would have
 given special credibility to Revelle's opinion.
 The details of how Singer and others used Revelle's reputation
 to amplify their message may seem like a special case. But this extreme case shows most clearly a pattern that has played a persistent
-
-The Evangelization of Peoples
 
 role in the history of industrial propaganda in science.70 It shows
 that how we change our beliefs in light of evidence depends on the
@@ -3803,8 +3589,6 @@ course, reaching precisely the opposite conclusions. The IPCC is
 a distinguished international collaboration that includes the world's
 most renowned climate scientists. The NIPCC looks superficially
 the same, but of course has nothing like the IPCC's stature. Such
-
-The Evangelization of Peoples
 
 efforts surely mislead some people—including journalists who are
 looking for the "other side" of a story about a politically sensitive
@@ -3837,8 +3621,6 @@ distinguished scientists, but the "convening lead author," responsible for colle
 chapter, was an American climate scientist named Ben Santer.
 Santer was relatively junior when he took on this position—
 
-The Evangelization of Peoples
-
 though he had already made major contributions to fingerprinting
 methods and in many ways was ideally situated to convene that
 chapter. After the report was published, however, Seitz and others
@@ -3863,8 +3645,6 @@ is often all the propagandist needs to do.
 
 The weaponization of reputation is deeply connected to the polarization models we discussed in the last chapter. Recall that in those
 models, the key factor was trust. It was the people whose opinions
-
-The Evangelization of Peoples
 
 we trusted who could exert the most influence over us; and as we
 came to trust some people more and others less, groups began to
@@ -3895,8 +3675,6 @@ between actions A and B; for the other, unrelated problem, they
 need to choose between actions Y and Z. Now suppose that for each
 problem, when deciding whom to trust, they consider their beliefs
 
-The Evangelization of Peoples
-
 about both problems. The basic dynamics of the model are the same
 as before: each scientist uses Jeffrey's rule, which, remember, specifies how to update beliefs when you are not certain about evidence,
 but now the uncertainty they assign to a person's evidence depends
@@ -3924,8 +3702,6 @@ scientists present new evidence and arguments—even on topics that
 are completely unrelated to the field in which they established their
 reputations—you have good reason to trust them. In fact, philoso-
 
-The Evangelization of Peoples
-
 phers of science Jeffrey Barrett, Brian Skyrms, and Aydin Mohseni
 have used network epistemology models to show that paying attention to this sort of past reliability can drastically improve the accuracy of a community's beliefs, on the assumption, of course, that no
 one is using reputation as a weapon.77 These sorts of results can also
@@ -3947,8 +3723,6 @@ Shortly thereafter, Lady Mary traveled to Turkey when her husband, Edward Wortle
 Persian carpets, bathhouses where naked women drank coffee and
 juice. None of this could be found in Britain.
 During her travels, Lady Mary encountered another strange practice: smallpox variolation. A version of modern-day inoculation,
-
-The Evangelization of Peoples
 
 this typically involved scratching a person's arm and rubbing a scab,
 or fluid, from a smallpox pustule into the wound. Although a small
@@ -3976,8 +3750,6 @@ of the safety of variolation, but perhaps more important, it showed
 the citizenry of England that they would be in good company should
 they adopt it. The practice spread quickly among the English no-
 
-The Evangelization of Peoples
-
 bility, especially those with personal connections to Lady Mary or
 Princess Caroline.
 The spread of variolation had little to do with new knowledge
@@ -4003,8 +3775,6 @@ have substructures that look like the star in the wheel's center. Some
 individuals are connected to disproportionately many people and
 therefore have outsized social influence. Their actions tend to affect what the many people will do.
 There is also a close connection here to some of the examples of
-
-The Evangelization of Peoples
 
 the manipulation of reputation we described above. Princess Caroline was not a distinguished scientist, but she lived in a time when
 the inherent superiority of nobles, especially royalty, was taken as
@@ -4033,8 +3803,6 @@ best-connected. She found the centers of the stars and got those
 people to adopt the new practice, wisely thinking that once that
 happened, variolation would spread on its own.
 
-The Evangelization of Peoples
-
 . The spread of a belief in a star network. Dark nodes represent one
 action, and light nodes, another. Notice that the central individual is connected
 to many agents who are not connected to each other. This central individual
@@ -4059,8 +3827,6 @@ In 2017, a tight-knit Somali-American community in Minnesota
 experienced the state's worst measles outbreak since the 1980s.85
 After learning that rates of severe autism were particularly high in
 this group, anti-vaccine advocates posted fliers and ads throughout
-
-The Evangelization of Peoples
 
 the Somali community center cautioning against vaccination. They
 also distributed pamphlets at community health meetings. Andrew
@@ -4090,8 +3856,6 @@ the group change practices, there is pressure on the rest to change,
 and once they all agree, conformity should keep the whole group
 there.
 
-The Evangelization of Peoples
-
 . The spread of belief in a complete, that is, fully connected, network
 with conformity. Dark nodes represent one action, and light nodes, another.
 When multiple individuals in this network change actions, there is pressure on
@@ -4113,8 +3877,6 @@ have special influence. In the cases of Roger Revelle, Ben Santer,
 and others, part of this method involved identifying figures who
 were especially trusted by the community. For instance, scientists
 whose record of success on other problems has been very high may
-
-The Evangelization of Peoples
 
 persuade others who have been influenced by these scientists' earlier work. A related method is to use conformity as a weapon by
 targeting individuals with particularly connected positions in the
@@ -4142,8 +3904,6 @@ was there to investigate the pizza parlor—and if possible, save the
 children.
 A little over a month earlier, shortly before the 2016 election,
 FBI director James Comey had announced that he was reopening
-
-The Social Network
 
 an investigation into Hillary Clinton's use of a private email server
 while secretary of state. (Recall that it was the fact that Comey had
@@ -4174,8 +3934,6 @@ and new claims of inside sources. One website, called Subject: Politics, claimed
 found further damaging material. (No such raid occurred.)
 On the heels of these articles, online sleuths began investigating
 
-The Social Network
-
 other publicly available materials—including a slew of emails that
 were apparently stolen from Clinton campaign chair (and former
 Bill Clinton chief of staff) John Podesta and released on the website
@@ -4205,8 +3963,6 @@ spreading the rumors, Jones vastly increased their reach. (He later
 apologized for his role in the whole affair.)5 Soon the pizzeria was
 flooded with phone calls threatening violence, and hundreds of obscene restaurant "reviews" appeared online, echoing the allegations.
 
-The Social Network
-
 By the end of November, the story had gotten so much attention
 that mainstream news sources, including the New York Times and
 the Washington Post, ran articles debunking the claims—which, predictably, only led to more attention for the conspiracy theory, along
@@ -4233,8 +3989,6 @@ of as an extreme case of something we are all trying to do in our
 daily lives. Most of us are not trained as scientists, and even fewer
 have jobs in which they are paid to do research. But we are often
 trying to figure stuff out about the world—and to do this, we use the
-
-The Social Network
 
 same basic kinds of reasoning that scientists do. We learn from our
 experience—and, crucially, we learn from the experiences of others.
@@ -4265,8 +4019,6 @@ Heartland Institute, whereas others look to the Southern Poverty
 Law Center, the Brookings Institution, or the Center for American
 Progress. Some point to less dependable sources such as Breitbart
 
-The Social Network
-
 News, Infowars, AlterNet, and the Palmer Report—or even worse,
 RT or Sputnik.
 When friends, family members, colleagues, and especially strangers disagree with our views, it is easy to attribute this disagreement
@@ -4294,8 +4046,6 @@ several US newspapers, most notably the New York World and New
 York Journal, began to run sensational articles blaming Spain for
 the explosion and demanding a war of revenge.9 (The actual cause
 of the explosion was and remains controversial, but concrete evi-
-
-The Social Network
 
 dence has never been produced that Spain was involved.)10 Ultimately, spurred in part by pressure from the news media, the US
 government gave Spain an ultimatum that it surrender Cuba or
@@ -4326,8 +4076,6 @@ aggregate circulation for New York dailies in 1900, according to
 the U.S. Census that year, was more than 2.7 million.) But their
 audiences consisted almost exclusively of New Yorkers—and not
 even all New Yorkers, as the better-respected Times, Herald Tribune,
-
-The Social Network
 
 and Sun also had wide readerships. Regional newspapers outside
 New York generally did not pick up the World and Journal articles
@@ -4362,8 +4110,6 @@ some sort of social status or engagement.19 Is fake news the same?
 Perhaps. But some people do believe fake news. Clearly Edgar
 Welch, for instance, believed that the Comet Ping Pong pizzeria
 
-The Social Network
-
 harbored trafficked children. And he is not alone. In a survey conducted by the polling firm Ipsos Public Affairs for BuzzFeed News,
 3,015 US adults were shown six headlines, three of which were real
 news and three of which were fake.20 The headlines were drawn
@@ -4393,8 +4139,6 @@ not harm us, the shareholder meetings that are uneventful, or the
 scientific studies that confirm widely held assumptions.
 For many issues, focusing on novel or unexpected events is un-
 
-The Social Network
-
 problematic. Novelty makes things salient, and salience sells papers
 and attracts clicks. It is what we care about. But for some subjects,
 including science as well as politics and economics, a novelty bias
@@ -4423,8 +4167,6 @@ looked at a variation of the propagandist models described in Chapter 3. Now, in
 scientists and also connected to a propagandist, we imagine that we
 have a collection of policy makers who receive all of their informa-
 
-The Social Network
-
 tion from a single third party: a journalist, who scours the scientific
 results and shares the evidence that she judges to be most novel.
 We suppose that the journalist is updating her beliefs in light of
@@ -4450,8 +4192,6 @@ false beliefs. Journalism has legal and ethical frameworks that seek
 to promote "fairness" by representing all sides of a debate. From
 1949 until 1987 the US Federal Communications Commission even
 maintained a policy called the Fairness Doctrine that required media
-
-The Social Network
 
 with broadcast licenses to offer contrasting views on controversial
 topics of public interest. The rule no longer applies—and even if
@@ -4482,8 +4222,6 @@ appear more often. Sharing equal proportions of results going in
 both directions puts a strong finger on the scale in the wrong direction. Indeed, norms of fairness have long been recognized as a tool
 for propagandists: the tobacco industry, for instance, often invoked
 
-The Social Network
-
 . Communication in a model with a "fair" journalist who chooses two
 results to report to policy makers. Upon observing results from scientists, the
 journalist communicates one that supports theory B and one that spuriously
@@ -4505,8 +4243,6 @@ have pointed to cases in which "consensus" views of experts have
 turned out to be false. What if journalists had reported only the
 views of those gentleman physicians who insisted that their hands
 could not possibly transmit disease, dismissing Semmelweis as a
-
-The Social Network
 
 habitual contrarian? Indeed, something very much like this occurred
 in the lead-up to the Iraq War in 2003: foreign-policy experts in the
@@ -4539,8 +4275,6 @@ for apparent controversy. We do not wish to rule out the possibility
 that today's Semmelweis is laboring in obscurity, or that a talented
 reporter could not find him and bring his ideas to public attention.
 
-The Social Network
-
 This, after all, is precisely what 20/20 did with Hightower and
 methylmercury in fish. Our point, rather, is that the mere existence
 of contrarians or (apparent) controversy is not itself a story, nor
@@ -4570,8 +4304,6 @@ of these organizations should be given special weight, as compared
 with self-appointed experts claiming that the "official" figures are
 faulty, misleading, or biased. Reports from the United Nations, particularly when they involve serious peer review, as with the IPCC,
 
-The Social Network
-
 are also often more reliable than those from the governments of
 individual nations. Such institutions can certainly be manipulated
 for partisan ends,29 but they are far more likely to be reliable than
@@ -4599,8 +4331,6 @@ Schultz, then head of the DNC, to cover up election fraud during
 the primary campaigns. Commentators on the thread speculated
 that through his job at the DNC, Rich had learned of efforts to
 suppress Sanders voters or otherwise tilt the primary toward Clin-
-
-The Social Network
 
 ton, and that this information had made him dangerous to the
 Clinton campaign.
@@ -4630,8 +4360,6 @@ Two months later, the FBI again contacted the DNC, this time to
 say that one of its servers was routinely sending data to Russia. Once
 again, the DNC's IT staff decided that the computers had not been
 
-The Social Network
-
 breached and did not communicate the FBI's warnings to the DNC
 leadership. The DNC apparently did nothing to stop the hack.
 That Russian hackers had compromised DNC computers was
@@ -4655,8 +4383,6 @@ asserted, following a question about Rich, that "our sources take
 risks"—before adding that WikiLeaks has a policy of never revealing or otherwise commenting on its sources.38
 The story's lack of evidence, or even coherence, did not stop
 some media outlets from reporting these allegations. Some of this
-
-The Social Network
 
 coverage came from RT, the English-language Russian propaganda
 site, which seemed to like having Rich as an alternative culprit for
@@ -4688,8 +4414,6 @@ never has been, any reason to believe that Rich had any involvement in the DNC e
 personalities, including Fox's own Sean Hannity, have continued to
 repeat variations on these claims. Hannity, in particular, has refused
 
-The Social Network
-
 to issue a retraction over the Wheeler remarks—even after Wheeler
 himself disavowed them.
 
@@ -4718,8 +4442,6 @@ and MSNBC. What makes them different is that Fox, CNN, and
 MSNBC generally retract false stories in light of new evidence. A
 self-correcting editorial process is at work.45 One can quibble about
 
-The Social Network
-
 how long it takes to make the retractions, and whether whatever
 damage was going to be done had already happened. But in the cases
 where the facts are simply and demonstrably wrong, these media
@@ -4745,8 +4467,6 @@ there is something to it. Were it not for the conspiracy theories,
 Assange would never have been asked about Seth Rich, the Washington Post would not have covered his remarks (or refuted them),
 private investigators would not have been funded by Republican
 lobbyists for Fox News to quote, and so on.
-
-The Social Network
 
 Here is another manifestation of a theme that has come up
 throughout this book. Individual actions that, taken on their own,
@@ -4775,8 +4495,6 @@ stories.
 
 •
 
-The Social Network
-
 There is overwhelming evidence that foreign actors, apparently associated with Russian intelligence services, attempted to interfere
 in the 2016 US election—initially to weaken Hillary Clinton's candidacy, and later to promote Donald Trump.48 As we noted, for instance, the US intelligence community has determined that Russian
 intelligence services hacked the DNC's email servers and then released embarrassing emails, particularly related to the treatment of
@@ -4801,8 +4519,6 @@ DNC emails has led to lasting divisions and sustained controversies
 within the Democratic Party, which in turn have affected Democrats' ability to effectively govern. In other words, the emails have
 produced discord and mistrust—and in doing so, they have eroded
 an American political institution. Perhaps this was the point.
-
-The Social Network
 
 The idea that Russia's goal was to create social division and undermine democratic (small d) institutions is supported by the ways
 Russia-backed groups appear to have used social media during the
@@ -4830,8 +4546,6 @@ Pokémon Go users to capture Pokémon near real-world sites of
 police brutality and name them after the victims.52
 
 In none of these cases were group members pushed to accept
-
-The Social Network
 
 views far from those they already held. The LGBTQ group, for
 instance, did not advocate for Trump; instead, social influence was
@@ -4861,8 +4575,6 @@ things you see are the posts created by the group itself, identified as
 "LGBT United" posts; the posts directed at the group from other
 members of the community can be found only by following a further series of links. In other words, the community page mimics a
 
-The Social Network
-
 star network, with the page creator at the center. Rather than try to
 influence people already at the center of star networks, the Russian
 accounts appear to have created star networks by creating affinity
@@ -4888,8 +4600,6 @@ the role that shared beliefs in one domain could play in influencing
 beliefs in other domains. We described how, in a model in which
 each agent considers agreement on a range of issues when determining how much to trust another agent on any particular issue,
 we found that different beliefs influenced one another: populations
-
-The Social Network
 
 would become polarized on multiple different beliefs but would do
 so in a strongly correlated way.
@@ -4920,8 +4630,6 @@ the political, economic, and human costs that resulted. But assigning culpabilit
 
 If it was algorithms on social media sites that amplified and spread
 
-The Social Network
-
 fake news, one might hope that algorithms could also help to identify fake news and prevent it from being amplified on these sites—or
 even prevent fake news from being shared on such sites at all. But
 many sites that produce or distribute fabricated stories—including
@@ -4949,8 +4657,6 @@ becomes a target, it ceases to be a good measure."54 In other words,
 whenever there are interests that would like to game an instrument
 of measurement, they will surely figure out how to do it—and once
 
-The Social Network
-
 they do, the measurement is useless. A classic example occurred in
 Hanoi, Vietnam, under French colonial rule. In the early 1900s, the
 city was so overrun with rats that the colonial government offered
@@ -4976,8 +4682,6 @@ better we should expect propagandists to get at producing and disseminating it. 
 
 The idea that our search for truth in public discourse is an endless
 arms race between highly motivated, well-funded political and in-
-
-The Social Network
 
 dustrial forces attempting to protect or advance their interests, and
 a society trying to adapt to an ever-changing media and technological landscape, suggests that would-be propagandists and others who
@@ -5008,8 +4712,6 @@ legislation on mercury contamination in a town's fishing areas that
 has observable effects on the day-to-day lives of those who would
 vote on the bill. This generates a situation better matched by mod-
 
-The Social Network
-
 els in which there is a notable difference between the success rates
 of actions A and B, and where conformity is less significant. We
 should expect in such cases that social effects will not matter as
@@ -5034,8 +4736,6 @@ that all members of the site are exposed to material that is widely
 shared and discussed among subgroups (rather than limiting exposure to just those subgroups).57 Remember that in our conformity
 models, dissenting opinions were bolstered and protected by cliquish, clumpy social networks. When individuals are mostly connected within one small group, outside influences matter less than
 those within the clique, and conformity effects can buffer the group
-
-The Social Network
 
 from evidence that conflicts with their false beliefs. Even if some
 members gather this evidence, they are unwilling to share it for fear
@@ -5062,8 +4762,6 @@ networks to hold a minority belief, their statements of this belief
 can be especially powerful. Because other people expect them to
 conform, it is easy to infer that they must have good reasons for
 taking such a socially risky position.58 We might call this the "maverick effect"—such as when Arizona senator (and self-styled maverick) John McCain says that climate change is real, his statement
-
-The Social Network
 
 has much more impact on the right than the same one made by Al
 Gore. This same mechanism, of course, worked in the opposite direction in the case of Roger Revelle.
@@ -5094,8 +4792,6 @@ We do not want to limit free speech, but we do want to strongly
 advocate that those in positions of power or influence see their
 speech for what it is—an exercise of power, capable of doing real
 
-The Social Network
-
 harm. It is irresponsible to advocate for unsupported views, and
 doing so needs to be thought of as a moral wrong, not just a harmless addition to some kind of ideal "marketplace."
 This is as true for scientists as it is for political and social leaders.
@@ -5121,8 +4817,6 @@ book, we have pointed out that low-powered studies are especially
 likely to generate spurious results. One solution is for scientific
 communities to raise their standards. Another is for groups of scientists to band together, when public interest is on the line, and combine their results before publishing. This generates one extremely
 strong piece of research with a clear consensus, rather than many
-
-The Social Network
 
 disjointed, weaker studies with disparate results. This strategy has
 the downside of suppressing contrary views, but that is also the point.
@@ -5153,8 +4847,6 @@ in this book indicates that journalists should instead try to give to
 the public an unbiased sampling of available evidence. If there are
 ninety-nine studies indicating that smoking is dangerous for every
 
-The Social Network
-
 one study indicating the opposite, journalists should talk to ninetynine scientists who think smoking is harmful for every one who does
 not. ( John Oliver, on his satirical news show, recently did just this
 in real time, by bringing ninety-seven climate scientists and three
@@ -5184,8 +4876,6 @@ to promote their products. We also have defamation and libel laws
 that prohibit certain forms of (inaccurate) claims about individuals.
 We think these legislative frameworks should be extended to cover
 
-The Social Network
-
 more general efforts to spread misinformation. In an era of global
 warming, websites like Breitbart News and Infowars are more damaging to public health than Joe Camel and the Marlboro Man were
 in the past, and they should be treated as such.67
@@ -5209,8 +4899,6 @@ they are also compatible with regulating damaging lies dressed up as
 reported fact on matters of public consequence. Lying media should
 be clearly labeled as such, for the same reason that we provide the
 number of calories on a package of Doritos or point out health effects on a cigarette box. And social media sites should remain vigi-
-
-The Social Network
 
 lant about stopping the spread of fake news on their platforms or, at
 the very least, try to ensure that this "news" is clearly labeled as such.
@@ -5242,8 +4930,6 @@ also what it means to have a democracy that is suitably responsive
 to the facts uncovered by that science.
 We wish to extract from Kitcherism an idea about what it means
 
-The Social Network
-
 to have a democratic society that is responsive to fact. When it
 comes to decisions about and informed by science—which we may
 think of, broadly, as everything from clearly scientific subjects such
@@ -5270,8 +4956,6 @@ ideals of democracy. Well-ordered science is the science we would
 have if decisions about research priorities, methodological protocols, and ethical constraints on science were made via considered
 and informed deliberation among ideal and representative citizens
 able to adequately communicate and understand both the relevant
-
-The Social Network
 
 science and their own preferences, values, and priorities.75 But as
 Kitcher is the first to admit, there is a strong dose of utopianism
@@ -5301,8 +4985,6 @@ that capture the ideals of democracy, without holding us all hostage
 to ignorance and manipulation.
 
 Notes
-
-Introduction
 
 1. This text has been translated into modern English; see, for example, Mandeville (1900), or, for more context, see Higgins (2011).
 
@@ -5707,7 +5389,6 @@ science in particular are well-positioned to help expose science built on misgui
 58. Again, see note 17 in the Introduction. This is where we close out the promissory note.
 
 TWO
-Polarization and Conformity
 
 1.
 2.
@@ -6093,7 +5774,6 @@ See, for example, Zucker et al. (2017).
 82.
 
 THREE
-The Evangelization of Peoples
 
 1.
 
@@ -6454,7 +6134,6 @@ same effect. Since "likes" can sell a product, it pays to be savvy about the eff
 to see the same ads (Yeung and Wyer 2005).
 
 FOUR
-The Social Network
 
 1.
 
@@ -6710,8 +6389,6 @@ middle path.) We are strongly sympathetic with much of what Kitcher says.
 
 75.
 
-This page intentionally left blank
-
 Bibliography
 
 ABC News. 2006. "20/20: Health Risks of Mercury in Fish." January 6, 2006.
@@ -6739,8 +6416,6 @@ Agents." Journal of Artificial Societies and Social Simulation 13 (4). https://d
 Aisch, Gregor, Jon Huang, and Cecilia Kang. 2016. "Dissecting the #PizzaGate
 Conspiracy Theories." New York Times, December 10, 2016. https://www.ny
 times.com/interactive/2016/12/10/business/media/pizzagate.html.
-
-Bibliography
 
 Allcott, Hunt, and Matthew Gentzkow. 2017. "Social Media and Fake News in the
 2016 Election." Journal of Economic Perspectives 31 (2): 211–236. https://doi.org
@@ -6789,8 +6464,6 @@ Bailey, Christopher J. 2016. US Climate Change Policy. New York: Routledge.
 Baker, Monya. 2016. "1,500 Scientists Lift the Lid on Reproducibility." Nature News
 
 533 (7604): 452. https://doi.org/10.1038/533452a.
-
-Bibliography
 
 Bala, Venkatesh, and Sanjeev Goyal. 1998. "Learning from Neighbours." Review of
 
@@ -6842,8 +6515,6 @@ Bikhchandani, Sushil, David Hirshleifer, and Ivo Welch. 1992. "A Theory of Fads,
 Fashion, Custom, and Cultural Change as Informational Cascades." Journal of
 Political Economy 100 (5): 992–1026. https://doi.org/10.1086/261849.
 
-Bibliography
-
 Bird, Alexander. 2014. Thomas Kuhn. New York: Routledge.
 Bloch, Matthew, Joseph Keller, and Haeyoun Park. 2015. "Vaccination Rates for
 Every Kindergarten in California." New York Times, February 6, 2015. https://
@@ -6888,8 +6559,6 @@ Alex Fields, Driver Charged in Charlottesville Killing." New York Times, August
 13, 2017. https://www.nytimes.com/2017/08/13/us/james-alex-fields-charlottes
 ville-driver-.html.
 
-Bibliography
-
 Bruner, Justin, and Cailin O'Connor. 2017. "Power, Bargaining, and Collaboration." In Scientific Collaboration and Collective Knowledge: New Essays, edited by
 T. Boyer-Kassem, C. Mayo-Wilson, and M. Weisberg. Cambridge: Oxford University Press.
 
@@ -6930,8 +6599,6 @@ Candia, Julián, and Karina Mazzitello. 2008. "Mass Media Influence Spreading in
 Social Networks with Community Structure." Journal of Statistical Mechanics:
 Theory and Experiment 2008 (7). http://iopscience.iop.org/article/10.1088/1742
 -5468/2008/07/P07007/meta.
-
-Bibliography
 
 Carter, K. Codell. 2017. Childbed Fever: A Scientific Biography of Ignaz Semmelweis.
 
@@ -6981,8 +6648,6 @@ Ozone Destruction by Man-Made Chlorofluoromethanes." Science 185 (4157):
 
 Cillizza, Chris. 2017. "The Tragic Death and Horrible Politicization of Seth Rich,
 
-Bibliography
-
 Explained." CNN Politics, August 2, 2017. http://www.cnn.com/2017/08/02
 /politics/seth-rich-death-fox-news-trump/index.html.
 
@@ -7031,8 +6696,6 @@ https://doi.org/10.1002/qj.49709640815.
 
 Cummings, K. M., C. P. Morley, and A. Hyland. 2002. "Failed Promises of the
 
-Bibliography
-
 Cigarette Industry and Its Effect on Consumer Misperceptions About the
 Health Risks of Smoking." Tobacco Control 11 (suppl 1): i110–i117. https://doi
 .org/10.1136/tc.11.suppl_1.i110.
@@ -7079,8 +6742,6 @@ http://jasss.soc.surrey.ac.uk/9/3/8.html.
 Deffuant, Guillaume, Frédéric Amblard, Gérard Weisbuch, and Thierry Faure.
 2002. "How Can Extremism Prevail? A Study Based on the Relative Agreement
 Interaction Model." Journal of Artificial Societies and Social Simulation 5 (4). October 31, 2002. http://jasss.soc.surrey.ac.uk/5/4/1.html.
-
-Bibliography
 
 Deffuant, Guillaume, Sylvie Huet, and Frédéric Amblard. 2005. "An Individual-
 Based Model of Innovation Diffusion Mixing Social Value and Individual Benefit." American Journal of Sociology 110 (4): 1041–1069. https://doi.org/10
@@ -7134,8 +6795,6 @@ Easley, David, and Jon Kleinberg. 2010. Networks, Crowds, and Markets: Reasoning
 
 About a Highly Connected World. Cambridge: Cambridge University Press.
 
-Bibliography
-
 Easterbrook, Gregg. 1992. "Green Cassandras." New Republic, July 6, 1992: 23–25.
 Economist. 2007. "The Summer of Acid Rain." Economist, December 19, 2007. http://
 
@@ -7188,8 +6847,6 @@ American Journal of Psychiatry 151 (11): 1571–1583. https://doi.org/10.1176/aj
 
 Fan, Fangqi, and Witold Pedrycz. 2016. "Opinion Evolution Influenced by Informed Agents." Physica A: Statistical Mechanics and Its Applications 462: 431–441.
 
-Bibliography
-
 Fandos, Nicholas. 2017. "White House Pushes 'Alternative Facts.' Here Are the
 Real Ones." New York Times, January 22, 2017. https://www.nytimes.com/2017
 /01/22/us/politics/president-trump-inauguration-crowd-white-house.html.
@@ -7235,8 +6892,6 @@ https://www.washingtonpost.com/local/pizzagate-from-rumor-to-hashtag-to
 Folkenflik, David. 2017. "No Apology, No Explanation: Fox News and the Seth
 Rich Story." National Public Radio, September 15, 2017. http://www.npr.org
 
-Bibliography
-
 /2017/09/15/551163406/fox-news-has-yet-to-explain-what-what-wrong-in
 -seth-rich-story.
 
@@ -7278,8 +6933,6 @@ to_Evaluate_Science_Policies_Intended_to_Manage_Industry_Bias.
 Gelfert, Axel. 2014. A Critical Introduction to Testimony. London: A & C Black.
 Gilbert, Margaret. 1992. On Social Facts. Princeton, NJ: Princeton University Press.
 Glaberson, William. 1988. "Behind Du Pont's Shift on Loss of Ozone Layer." New
-
-Bibliography
 
 York Times, March 26, 1988. http://www.nytimes.com/1988/03/26/business/be
 hind-du-pont-s-shift-on-loss-of-ozone-layer.html.
@@ -7331,8 +6984,6 @@ Grice, Andrew. 2017. "Fake News Handed Brexiteers the Referendum—and Now
 They Have No Idea What They're Doing." Independent, January 18, 2017.
 http://www.independent.co.uk/voices/michael-gove-boris-johnson-brexit-eu
 rosceptic-press-theresa-may-a7533806.html.
-
-Bibliography
 
 Grim, Ryan. 2010. "California Pot Initiative Opposed by Beer Industry." HuffPost,
 September 21, 2010. https://www.huffingtonpost.com/2010/09/21/this-buds
@@ -7393,8 +7044,6 @@ of the Reader's Digest. New York: W. W. Norton.
 Hersch, Erika I., and Patrick C. Phillips. 2004. "Power and Potential Bias in Field
 Studies of Natural Selection." Evolution; International Journal of Organic Evolution 58 (3): 479–485.
 
-Bibliography
-
 Higgins, Iain Macleod. 2011. The Book of John Mandeville: With Related Texts. Indianapolis, IN: Hackett.
 
 Hightower, Jane M. 2011. Diagnosis: Mercury: Money, Politics, and Poison. Washington, DC: Island Press.
@@ -7443,8 +7092,6 @@ December 31, 2013. https://www.iraqbodycount.org/analysis/reference/anno
 uncements/5/.
 
 Isaac, Mike, and Scott Shane. 2017. "Facebook's Russia-Linked Ads Came in Many
-
-Bibliography
 
 Disguises." New York Times, October 2, 2017. https://www.nytimes.com/2017
 /10/02/technology/facebook-russia-ads-.html.
@@ -7496,8 +7143,6 @@ Keller, Allan. 1969. The Spanish-American War: A Compact History. Portland, OR:
 
 Hawthorne Books.
 
-Bibliography
-
 Kennedy, David M. 1980. Over Here: The First World War and American Society. New
 
 York: Oxford University Press.
@@ -7545,8 +7190,6 @@ Krimsky, Sheldon. 2004. Science in the Private Interest: Has the Lure of Profits
 
 Kuhn, Deanna, and Joseph Lao. 1996. "Effects of Evidence on Attitudes: Is Polarization the Norm?" Psychological Science 7 (2): 115–120. https://doi.org/10.1111
 /j.1467-9280.1996.tb00340.x.
-
-Bibliography
 
 Kummerfeld, Erich, and Kevin J. S. Zollman. 2015. "Conservatism and the Scientific
 State of Nature." British Journal for the Philosophy of Science 67 (4): 1057–1076.
@@ -7598,8 +7241,6 @@ doi.org/10.1080/00139157.1972.9933001.
 
 Lipton, Eric. 2016. "Man Motivated by 'Pizzagate' Conspiracy Theory Arrested in
 
-Bibliography
-
 Washington Gunfire." New York Times, December 5, 2016. https://www.nytimes
 .com/2016/12/05/us/pizzagate-comet-ping-pong-edgar-maddison-welch.html.
 Longino, Helen E. 1990. Science as Social Knowledge: Values and Objectivity in Scientific Inquiry. Princeton, NJ: Princeton University Press.
@@ -7643,8 +7284,6 @@ C. H. Kerr.
 
 Mäs, Michael, and Andreas Flache. 2013. "Differentiation Without Distancing.
 Explaining Bi-Polarization of Opinions Without Negative Influence." PLOS
-
-Bibliography
 
 ONE 8 (11). http://journals.plos.org/plosone/article?id=10.1371/journal.pone
 .0074516#pone.0074516-Myers1.
@@ -7693,8 +7332,6 @@ Merton, Robert K. 1942. "A Note on Science and Democracy." Journal of Legal and
 Political Sociology 1: 115–126.
 
 ———. 1968. "The Matthew Effect in Science." Science 159 (3810): 56–63.
-
-Bibliography
 
 ———. 1973. The Sociology of Science: Theoretical and Empirical Investigations. Chicago: University of Chicago Press.
 
@@ -7746,8 +7383,6 @@ Murray, Polly. 1996. The Widening Circle: A Lyme Disease Pioneer Tells Her Story
 
 York: St. Martin's.
 
-Bibliography
-
 Myers, G. J., D. O. Marsh, P. W. Davidson, C. Cox, C. F. Shamlaye, M. Tanner,
 A. Choi, E. Cernichiari, O. Choisy, and T. W. Clarkson. 1995. "Main Neurodevelopmental Study of Seychellois Children Following in Utero Exposure to
 Methylmercury from a Maternal Fish Diet: Outcome at Six Months." Neurotoxicology 16 (4): 653–664.
@@ -7790,8 +7425,6 @@ Snopes.com, July 10, 2016. https://www.snopes.com/pope-francis-donald
 
 Norr, Roy. 1952. "Cancer by the Carton." Reader's Digest, December 1952.
 Nowak, Andrzei, Jacek Szamrei, and Bibb Latané. 1990. "From Private Attitude to
-
-Bibliography
 
 Public Opinion: A Dynamic Theory of Social Impact." Psychological Review 97
 (3): 362–376.
@@ -7837,8 +7470,6 @@ Synthese Library. Dordrecht: Springer. https://doi.org/10.1007/978-94-007
 -5357-0_6.
 
 Olsson, Erik J., and Aron Vallinder. 2013. "Norms of Assertion and Communica-
-
-Bibliography
 
 tion in Social Networks." Synthese 190 (13): 2557–2571. https://doi.org/10.1007
 /s11229-013-0313-1.
@@ -7890,8 +7521,6 @@ Physica A: Statistical Mechanics and Its Applications 458: 378–390.
 Poe, Edgar Allan. 1844. The Balloon-Hoax. Booklassic, 2015.
 "Pope Francis Shocks World, Endorses Donald Trump for President, Releases
 
-Bibliography
-
 Statement." 2016. ETF News, September 26, 2016. https://web.archive.org
 /web/20160929104011/http://endingthefed.com/pope-francis-shocks-world
 -endorses-donald-trump-for-president-releases-statement.html.
@@ -7939,8 +7568,6 @@ Schuster.
 
 Romero, Felipe. 2016. "Can the Behavioral Sciences Self-Correct? A Social Epistemic Study." Studies in History and Philosophy of Science Part A 60 (Supplement
 C): 55–69. https://doi.org/10.1016/j.shpsa.2016.10.002.
-
-Bibliography
 
 Rosenberg, Eli. 2017. "Alex Jones Apologizes for Promoting 'Pizzagate' Hoax."
 New York Times, March 25, 2017. https://www.nytimes.com/2017/03/25/busi
@@ -7990,8 +7617,6 @@ Post, January 25, 2017. https://www.washingtonpost.com/news/monkey-cage
 
 Schiffrin, Anya. "How Europe Fights Fake News." 2017. Columbia Journalism Review, October 26, 2017. https://www.cjr.org/watchdog/europe-fights-fake-news
 -facebook-twitter-google.php.
-
-Bibliography
 
 Schmidt, Anja, Thorvaldur Thordarson, Luke D. Oman, Alan Robock, and Stephen
 Self. 2012. "Climatic Impact of the Long-Lasting 1783 Laki Eruption: Inapplicability of Mass-Independent Sulfur Isotopic Composition Measurements."
@@ -8049,8 +7674,6 @@ Was Spread." BuzzFeed News, November 4, 2016. https://www.buzzfeed.com
 
 ———. 2016b. "This Analysis Shows How Viral Fake Election News Stories Out-
 
-Bibliography
-
 performed Real News on Facebook." BuzzFeed News, November 16, 2016.
 https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outper
 formed-real-news-on-facebook.
@@ -8105,8 +7728,6 @@ Champaign: University of Illinois Press.
 
 Smith, Philip J., Susan Y. Chu, and Lawrence E. Barker. 2004. "Children Who Have
 
-Bibliography
-
 Received No Vaccines: Who Are They and Where Do They Live?" Pediatrics
 114 (1): 187–195. https://doi.org/10.1542/peds.114.1.187.
 
@@ -8157,8 +7778,6 @@ Children and Adults in Three Connecticut Communities." Arthritis and Rheumatolog
 
 Stein, Sam. 2016. "The RNC Is Hosting Its Christmas Party This Year at Donald
 
-Bibliography
-
 Trump's Hotel." HuffPost, December 8, 2016. https://www.huffingtonpost.com
 /entry/rnc-donald-trump-party_us_5848cf6ee4b0f9723d003c70.
 
@@ -8205,8 +7824,6 @@ News Story." Rolling Stone, August 1, 2017. http://www.rollingstone.com/culture
 
 Sun, Lena H. 2017a. "Anti-Vaccine Activists Spark a State's Worst Measles Out-
 
-Bibliography
-
 break in Decades." Washington Post, May 5, 2017. https://www.washingtonpost
 .com/national/health-science/anti-vaccine-activists-spark-a-states-worst-mea
 sles-outbreak-in-decades/2017/05/04/a1fac952-2f39-11e7-9dec-764dc78
@@ -8252,8 +7869,6 @@ Laki Eruption: A Review and Reassessment." Journal of Geophysical Research 108
 (D1). https://doi.org/10.1029/2001JD002042.
 
 Thornton, Brian. 2000. "The Moon Hoax: Debates About Ethics in 1835 New
-
-Bibliography
 
 York Newspapers." Journal of Mass Media Ethics 15 (2): 89–100. https://doi.org
 /10.1207/S15327728JMME1502_3.
@@ -8306,8 +7921,6 @@ Vallinder, Aron, and Erik J. Olsson. 2014. "Trust and the Value of Overconfidenc
 A Bayesian Perspective on Social Network Communication." Synthese 191 (9):
 1991–2007. https://doi.org/10.1007/s11229-013-0375-0.
 
-Bibliography
-
 Vann, Michael G. 2003. "Of Rats, Rice, and Race: The Great Hanoi Rat Massacre,
 an Episode in French Colonial History." French Colonial History 4 (1): 191–203.
 https://doi.org/10.1353/fch.2003.0027.
@@ -8350,8 +7963,6 @@ Warren, J. Robin, and Barry Marshall. 1983. "Unidentified Curved Bacilli on Gast
 Watson, James D. 2011. The Double Helix: A Personal Account of the Discovery of the
 
 Structure of DNA. New York: Simon and Schuster.
-
-Bibliography
 
 Watts, Duncan J., and Steven H. Strogatz. 1998. "Collective Dynamics of 'Small-
 World' Networks." Nature 393 (6684): 440–442. http://dx.doi.org/10.1038
@@ -8407,8 +8018,6 @@ A23.
 
 Wilson, Andy Abrahams, dir. 2008. Under Our Skin: The Untold Story of Lyme Disease. Open Eye Pictures. http://underourskin.com/film/.
 
-Bibliography
-
 Winkle, R. A. 1978. "Antiarrhythmic Drug Effect Mimicked by Spontaneous Variability of Ventricular Ectopy." Circulation 57 (6): 1116–1121. https://doi.org/10
 .1161/01.CIR.57.6.1116.
 
@@ -8456,8 +8065,6 @@ pnas.1100973108.
 
 Zadronsky, Brandy, Kelly Weill, Katie Zavadski, and Emma Kerr. 2017. "Congressional Shooter Loved Bernie, Hated 'Racist' Republicans, and Beat His Daughter." Daily Beast, June 14, 2017. https://www.thedailybeast.com/congressional
 -shooter-loved-bernie-sanders-hated-racist-and-sexist-republicans.
-
-Bibliography
 
 Zhao, Hai-Lu, Xun Zhu, and Yi Sui. 2006. "The Short-Lived Chinese Emperors."
 Journal of the American Geriatrics Society 54 (8): 1295–1296. https://doi.org/10
@@ -8590,8 +8197,6 @@ atmospheric science, 19–22, 24, 36,
 depletion
 atomism, 192n27
 
-Index
-
 authority, 44, 126–128, 134, 136
 autism, 143–144
 
@@ -8685,8 +8290,6 @@ BuzzFeed News, 4, 155, 165
 
 Calendar, Guy, 129
 California Medical Association, 50
-
-Index
 
 Campbell, Donald, 211n54
 Canada, acid rain in, 37
@@ -8785,8 +8388,6 @@ Charity, 68–69
 Congressional Budget Office, 161
 Conley, S. T., 202n81
 
-Index
-
 consensus: on acid rain, 39; and conformity bias, 58, 63; and polarization,
 69, 71–72, 74–75; and propaganda,
 106; scientific, 26, 29, 31, 37, 52, 55,
@@ -8882,8 +8483,6 @@ ETF News (endingthefed.com), 3–5,
 
 148, 166, 173, 174, 188n12
 
-Index
-
 eugenics, 33
 European Union: East StratCom
 created by, 183; fake news as
@@ -8978,8 +8577,6 @@ genetically modified organisms
 (GMOs), 202n81
 
 Gentzkow, Matthew, 4, 187n8
-
-Index
 
 George C. Marshall Institute, 38, 135
 Germany: hate speech on social media
@@ -9078,8 +8675,6 @@ information cascades, 82–83, 200n69,
 
 201n70, 201n74
 
-Index
-
 Infowars, 149, 152, 153, 166, 183
 Intergovernmental Panel on Climate
 Change (IPCC), 134–136, 161
@@ -9168,8 +8763,6 @@ Its Quarrels with Science, 41–42
 Lewontin, Richard, 42
 LGBT United, 169, 171–172
 Liggett & Myers, 203n11
-
-Index
 
 Likens, Gene, 36–37, 38
 Lippmann, Walter, 204n18
@@ -9266,8 +8859,6 @@ motivated reasoning, 75
 MSNBC, 151, 166
 Murray, Polly, 64–65
 Myers, Gary, 119
-
-Index
 
 National Academy of Sciences, 21, 37,
 
@@ -9377,8 +8968,6 @@ Olsson, Erik J., 199n54
 Onnela, J.-P., 197n18
 opinion dynamics, 196n14
 
-Index
-
 opinion leaders, 138, 142, 207n70
 Oreskes, Naomi, 39, 43, 95, 110,
 
@@ -9464,8 +9053,6 @@ cancer, 93–94
 PolitiFact, 168, 183
 
 Reagan, Ronald, 38–40, 43
-
-Index
 
 realism, 191n19
 Reddit, 149, 162
@@ -9563,8 +9150,6 @@ Semmelweis, Ignaz, 77–79, 83, 84, 86,
 
 89, 141, 159–160, 200n60
 
-Index
-
 Seychelles, and research on mercury
 
 social networks, 147–186; and
@@ -9654,8 +9239,6 @@ Surowiecki, James: The Wisdom of
 
 Crowds, 200n69
 
-Index
-
 Suskind, Ron, 25
 Sweden, acid rain in, 37
 Szucs, Denes, 206n39
@@ -9743,8 +9326,6 @@ interference in, 17
 
 United Nations, 24, 161–162
 United Nations Economic Commission for Europe, 37–38
-
-Index
 
 United States: acid rain legislation
 

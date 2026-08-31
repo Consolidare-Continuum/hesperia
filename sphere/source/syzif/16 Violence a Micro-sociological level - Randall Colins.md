@@ -1,6 +1,3 @@
-
-Violence
-
 Violence
 
 A MICRO-SOCIOLOGICAL THEORY
@@ -439,8 +436,6 @@ environment for discussions of multiple aspects of conflict, as have the
 Jerry Lee Center for Criminology and the Department of Criminology
 at the University of Pennsylvania.
 
-Violence
-
 C H A P T E R 1
 
 The Micro-sociology of Violent Confrontations
@@ -606,8 +601,6 @@ combination of technology and sociological method. The ethnomethodologists of th
 tandem with the use of newly portable cassette tape recorders; this made
 it possible to record at least the audio part of real-life social interactions,
 
-Violent Confrontations
-
 • 5
 
 and to play it back repeatedly, slowing it down and subjecting it to analysis in a way that had been barely possible with fleeting observations in
@@ -678,8 +671,6 @@ occasions on which police are violent by techniques such as video recordings and
 analysis of the trajectories of bullets, how many hit intended and unintended targets, and how many missed entirely. Old-fashioned ethnographies have helped too; ride-alongs by sociologists in police cars, dating to the 1960s, preceded some of these technological advances and
 provided some key theoretical components. Technologies by themselves
 rarely provide real insight; it is their combination with analytical viewpoints that is crucial.
-
-Violent Confrontations
 
 • 7
 
@@ -754,8 +745,6 @@ barrier of tension and fear that rises up whenever people come into antagonistic
 The military model also fits police violence during arrests and handling
 prisoners. Police and military confrontations lead to atrocities by the same
 path: the sequence of emotional events that, in chapter 3, I call "forward
-
-Violent Confrontations
 
 • 9
 
@@ -843,8 +832,6 @@ another patron, and in the next frames everyone is hitting everyone
 around them. This fighting of all against all, I am quite certain, has never
 occurred as a serious matter in real life. The typical response of bystanders when a fight breaks out in a crowded place is to back away to a safe
 
-Violent Confrontations
-
 • 11
 
 distance and watch. Polite middle-class crowds react with more unease
@@ -900,8 +887,6 @@ Another apparent exception to the non-contagiousness of fighting is
 the friendly free-for-all such as pillow fights or food fights. Pillow fights
 at a festive occasion such as a children's sleep-over typically have an allagainst-all character; this both promotes and enhances a mood of hilarity,
 implying that the situation is very unusual, framed as an exceptionally
-
-Violent Confrontations
 
 • 13
 
@@ -964,8 +949,6 @@ Arizona, in 1881 took less than thirty seconds (see reprint of Tombstone
 Epitaph, Oct. 1881); the 1957 movie version took seven minutes. Crimes
 involving the use of guns almost never take the form of gunfights between
 sides both armed and firing at each other. The vast majority of murders
-
-Violent Confrontations
 
 • 15
 
@@ -1058,8 +1041,6 @@ fighting. According to the professional lore of the sword instructors,
 deadly fights should be very brief, consisting of a sudden decisive stroke;
 in reality, most fighters were probably not this accomplished, although
 
-Violent Confrontations
-
 • 17
 
 the ideology may have justified the brevity of actual fights. Vastly more
@@ -1147,8 +1128,6 @@ Real fights are generally short; participants do not appear to have reserves of 
 with another individual. Fights are kept short because participants are
 good at finding stopping points that they regard as dramatically appro-
 
-Violent Confrontations
-
 • 19
 
 priate. Fights can take longer when they are deliberately staged as not
@@ -1227,8 +1206,6 @@ the contrary, shows that violence is hard. No matter how motivated someone may b
 overtly expressed conflict, is not the same as violence, and taking the last
 step is not at all automatic. This holds as well for a frustration that crops
 up immediately in the situation: someone may become angry at the frustration and at the person held responsible for it, but that still is not enough
-
-Violent Confrontations
 
 • 21
 
@@ -1314,8 +1291,6 @@ audiences, and battening on the emotionally weak. Micro-situational conditions f
 much more than its ostensible class oppressors. Resistance theory often
 has a twisted quality: as an interpretation put forward by altruistic outsid-
 
-Violent Confrontations
-
 • 23
 
 ers bending over backward to be sympathetic, it heroizes and justifies
@@ -1391,8 +1366,6 @@ they hit someone unintentionally. Where do we draw the boundaries? Are
 threats a form of violence? Clearly they are close enough to it that we
 have to put them into the model of situational dynamics. And this is so
 even though there is a good deal of cursing which does not lead to violence. By the same token, we will study the situational dynamics of quar-
-
-Violent Confrontations
 
 • 25
 
@@ -1472,8 +1445,6 @@ hard-wired to get caught in a mutual focus of intersubjective attention,
 and to resonate emotions from one body to another in common rhythms.
 This is an evolved biological propensity; humans get situationally caught
 up in the momentary nuances of each other's nervous and endocrinologi-
-
-Violent Confrontations
 
 • 27
 
@@ -1556,8 +1527,6 @@ What has evolved have been the organizational techniques for keeping
 soldiers in line where they could do some damage (or at least to stand up
 to long-distance weapons that would do damage to them). These techniques have evolved through such devices as the close-ranked phalanx;
 
-Violent Confrontations
-
 • 29
 
 parade-ground drilled troops surrounded by an officer corps concerned
@@ -1635,8 +1604,6 @@ Interviewing has ranged from highly structured (but open-ended) questioning, to 
 in lengthy and repeated discussions. It has been particularly useful to ask
 for observational detail from other ethnographic researchers, who have
 told me things that go beyond their published reports—not because they
-
-Violent Confrontations
 
 • 31
 
@@ -1723,8 +1690,6 @@ confrontation is suddenly resolved in favor of one side, which takes overwhelmin
 famous atrocities (including many in the headline news) come about in
 this way.
 
-Violent Confrontations
-
 • 33
 
 Chapters 4 and 5 examine the pathways around confrontational tension/fear that consist in attacking a weak victim. Here we look at the
@@ -1803,8 +1768,6 @@ to what has been left out. Among other things, it considers what we
 know about institutionalized violence, or rather, that which is repetitive,
 structured, and thus organized into meso- and macro-organizations that
 provide a regular flow of resources for specialists in violence. It will
-
-Violent Confrontations
 
 • 35
 
@@ -3702,8 +3665,6 @@ of extreme, conflicting emotions. Claustrophobia plagues him in the
 small space: the sense of being trapped and powerless in a machine is
 unbearable, and yet he has to bear it. Bearing it, he begins to feel a
 
-Forward Panic
-
 • 85
 
 blind fury toward the forces that have made him powerless, but he has
@@ -3784,8 +3745,6 @@ The whole incident is a version of forward panic, truncated at the
 end because the target has disappeared. The undertone throughout is
 tension/fear, transmuted at times into detachment, clarity, flickers of
 panic/suffocation; there are moments of elation, when something works
-
-Forward Panic
 
 • 87
 
@@ -3878,8 +3837,6 @@ character of forward panic. The Rodney King beating in Los Angeles,
 1991, is an archetypal instance (www.law.umke.edu/ faculty/projects/
 ftrial/lapd). Police chased a speeding car at up to 115 miles an hour for
 
-Forward Panic
-
 • 89
 
 eight miles on a freeway and city streets; radio calls for backup brought
@@ -3944,8 +3901,6 @@ in a position to disarm individuals of weapons or overpower them, to
 brushing against them in casual searches. At minimum, police exercise
 more subtle control by aggressive use of eyes in observing the other person in a prolonged and deliberate fashion contrary to normal civilities
 of interpersonal looking and eye contact. Thus the police in a chase are
-
-Forward Panic
 
 • 91
 
@@ -4036,8 +3991,6 @@ described by conventional labels. The composite mood of a forward panic
 comes from the transformation of tension/fear into aggressive frenzy, usually centered on rage. Troops in close combat have historically made a
 great deal of noise, a mixture of jeering, cursing, roaring, or whooping
 
-Forward Panic
-
 • 93
 
 (Keegan 1976; Holmes 1985; Caputo 1977 mentions this in each of his
@@ -4126,8 +4079,6 @@ was documented widely in World War II, on the part of American, British,
 German, Russian, Japanese, Chinese, and other troops, and against all of
 these as victims.
 
-Forward Panic
-
 • 95
 
 Some of this killing of surrenderers has had a deliberate component,
@@ -4175,8 +4126,6 @@ the defeated legions attempted to surrender; under the military politics of
 
 .3 A, B Killing surrenderers: Afrikaner resistance fighters, already
 wounded, are killed after a failed attack (South Africa, 1994). Reuters.
-
-Forward Panic
 
 • 97
 
@@ -4261,8 +4210,6 @@ even taking on its atmosphere of mutilation, torture, and grotesque killing
 games. Photos in Chang (1997) show Chinese women killed while bound
 in pornographic poses or with a bayonet thrust in the vagina. These are
 
-Forward Panic
-
 • 99
 
 similar to other photos taken of severed heads of Chinese soldiers, for
@@ -4343,8 +4290,6 @@ in their prior campaign, now confronted with the total collapse of resistance fr
 After the defeat of Japan in World War II, the Tokyo War Crimes Trial
 found the commanding general of all Japanese forces in central China
 
-Forward Panic
-
 • 101
 
 guilty of the Nanking massacres, along with the prime minister, and condemned them to death. The general who actually issued the order to kill
@@ -4413,8 +4358,6 @@ in the broadest possible sense. The emotional mood is interactional; it is
 shared on both sides. The domination is emotional even more than physical; the victorious side feels ebullient, charged up; the losing side feels
 despairing, helpless, frozen, suffocated. These emotions circulate and reinforce each other: in a pair of feedback loops within each body of troops,
 the victors pumping each other up into the frenzy of destruction and the
-
-Forward Panic
 
 • 103
 
@@ -4495,8 +4438,6 @@ only if they could actually be brought up close to the enemy where they
 could strike at him. The English chose their position in a meadow a few
 hundred yards wide between two woods. The much larger French forces
 attacked into this funnel; their front line could be at most about as numerous as the front line of the English, even though a much larger group
-
-Forward Panic
 
 • 105
 
@@ -4579,8 +4520,6 @@ ratios were equal, and the momentum went to the attackers. Keegan
 the battle through a species of psychological warfare, inferring that the
 Persians took up defensive positions because they were afraid of them.
 
-Forward Panic
-
 • 107
 
 Alexander did everything possible to increase that fear by encouraging
@@ -4657,8 +4596,6 @@ Caesar's troops sweep forward in a killing frenzy against a now-helpless
 target, continuing onward to find new victims in the main body of Pompey's infantry, who are now becoming disorganized from the flight of
 their own cavalry, and are encircled from behind. The result is a general
 
-Forward Panic
-
 • 109
 
 panic retreat, with defeated soldiers throwing away their weapons, and a
@@ -4733,8 +4670,6 @@ victory over the royalists. Both sides began with their infantry in the
 middle of the line, consisting of musketeers and pikesmen, and cavalry
 on the flanks. Seen from the parliamentary point of view, Prince Rupert's
 royal cavalry attacks on the left wing, dominating the momentum and
-
-Forward Panic
 
 • 111
 
@@ -4820,8 +4755,6 @@ less than seven feet, but half of their bullets missed.20 This situation has
 all the marks of a forward panic: tension/fear by the police, a sudden
 retreat of the apparent enemy, a triggering gesture of apparent resistance,
 a hot rush of attack, more ferocious than accurate. The police are entrained in their own firing, unable to stop.
-
-Forward Panic
 
 • 113
 
@@ -4910,8 +4843,6 @@ people were in the late twentieth century; as a Southerner in the North
 around the 1910s, he felt affronted whenever a black person refused to
 defer to him. Several of his ferocious assaults occurred against black ser-
 
-Forward Panic
-
 • 115
 
 vice personnel in a hotel, butcher shop, or stadium. But Cobb's fights with
@@ -4964,8 +4895,6 @@ do not occur every day but on very special occasions.
 An ethnic riot is a sequence of events with a rising dramatic intensity,
 monopolizing attention and impelling participation. The plot of this
 drama, in the largest sense, is always the same: upon the background of
-
-Forward Panic
 
 • 117
 
@@ -5034,8 +4963,6 @@ another feature that makes the lull a period of growing tension.
 Rumor also begins to look forward, first in wondering what will happen next; in fear of what the enemy will do; and increasingly in a plan to
 do something to preempt, to stop the enemy before they can commit great
 evil upon us. Rumor-mongering becomes planning, shifting from atrocity-
-
-Forward Panic
 
 • 119
 
@@ -5119,8 +5046,6 @@ they will attack. Houses where the enemy live, shops that they own, are
 noted and marked out by signs or spots of paint. This kind of activity,
 along with the ability of attackers to calculate realistically on the behavior
 
-Forward Panic
-
 • 121
 
 of the police and of their victims, tends to support the side in the debate
@@ -5186,8 +5111,6 @@ resumption of participation in the world war. .8 shows the moment
 that troops suddenly fired on the marchers; we see some of the crowd scattered in all directions away from the fire, some have fallen, while most of
 the crowd huddles against the buildings. The armed forces undergo a for-
 
-Forward Panic
-
 • 123
 
 .7 Two rock-throwers in front of crowd of demonstrators; rear part of
@@ -5226,8 +5149,6 @@ violence provides the coup de the´aˆ tre. But the violence must be dramaticall
 fired and dispersed the unruly crowd, preserving order; or authorities attacked peaceful marchers, causing indiscriminate carnage. In either case,
 it is the image of the crowd breaking up in terror that becomes the socially
 propagated reality, not the actual casualties.28
-
-Forward Panic
 
 • 125
 
@@ -5289,8 +5210,6 @@ becomes the denouement of a forward panic: First, a period of tension,
 building up during the massed confrontation; the emotions are initially
 just anticipation, waiting for something to happen; or in case of police,
 simmering outrage at the affront to their authority; these can be mixed
-
-Forward Panic
 
 • 127
 
@@ -5373,8 +5292,6 @@ tendency for forward panic. Thus most instances of police atrocities—
 overkill, prolonged beatings—occur where there is a considerable group
 of officers involved. The Rodney King beating took place with twentyone officers in on the arrest; it is quite likely that it would not have hap-
 
-Forward Panic
-
 • 129
 
 pened, or not to the same extent of prolonged violence, if there were only
@@ -5453,8 +5370,6 @@ was stomped, kicked and struck with a wine bottle on the head. . . .
 Detectives say Williams would likely have lived if not for the crowd . . .
 who tripped and corralled her, then encouraged Lee with shouts of "Kill
 her!" and "Beat her ass!" Lee initially told detectives the crowd's exhor-
-
-Forward Panic
 
 • 131
 
@@ -5542,8 +5457,6 @@ most, if we count all the banal incipient conflicts—become standoffs, with
 much posturing but petering out with little damage done. Sometimes, in
 rather rare situations, the violence is not hot but cold; instead of a hot
 emotional rush (or indeed hot harmless posturing), there is cool execution
-
-Forward Panic
 
 • 133
 
@@ -5677,8 +5590,6 @@ currently existing situational conditions that overcome tension/fear. The
 pathway to abuse has to go through one of the pathways that all violence
 has to take.
 
-Domestic Abuse
-
 • 137
 
 ABUSING THE EXCEPTIONALLY WEAK: TIME-PATTERNS
@@ -5764,8 +5675,6 @@ the chances of abuse (Fulmer and O'Malley 1987; Fulmer and Ashley
 Pillemer (1993) summarizes evidence that there is no important difference
 in health and functional status of abused and nonabused elders. What
 
-Domestic Abuse
-
 • 139
 
 seems to be going on is a building up of a pattern of conflict, with moves
@@ -5849,8 +5758,6 @@ be a dangerous weapon to use, but a weapon nevertheless. The link between weakne
 victimhood is mediated by a time-process of conflict in which one side's
 moves are entirely communicative and emotional. These are hard to ig-
 
-Domestic Abuse
-
 • 141
 
 nore, because they are among the most interpersonally entraining of all
@@ -5924,8 +5831,6 @@ is likely to be at its height; and since this is early career stage, male advant
 to set them in a fair balance of power with their prospective partners.
 This is one reason why considerable routine quarreling exists at this age
 in the form of restricted, gender-symmetrical violence.
-
-Domestic Abuse
 
 • 143
 
@@ -6010,8 +5915,6 @@ common spousal fights, are isolated from one another and soon forgotten;
 severe abuse in either kind of relationship has a continuing dramatic
 buildup. The one is like a series of short stories; the other is like a Kafka
 novel or a Shakespearean tragedy.
-
-Domestic Abuse
 
 • 145
 
@@ -6098,8 +6001,6 @@ the battering would start. Bill would call her names, insults would escalate to 
 by Bill. This would be followed by Barbara expressing sorrow, and
 continued attempts of reassurance. . . . More recently, the threats of
 
-Domestic Abuse
-
 • 147
 
 abuse were accompanied by the presence of a large hunting knife. The
@@ -6184,8 +6085,6 @@ What are the differences in micro-mechanisms among these? They are
 variants on the mutual focus/emotional entrainment model that encompasses all interaction. Let us take up again the most contentious point. I
 have argued that people are not good at violence; the big barrier that any
 violence must find a way around is confrontational tension/fear. This is
-
-Domestic Abuse
 
 • 149
 
@@ -6273,8 +6172,6 @@ and increasingly angry; it is a self-perpetuating loop since the aggressor
 feels drawn into continuing the attack just because of his anger at the
 other's cringing. The effect is that attacker and victim are tied together
 
-Domestic Abuse
-
 • 151
 
 in the moment of violence, the two organisms sending out bodily and
@@ -6360,8 +6257,6 @@ way of feeling comfortable in the zone of being a habitual abuser of some
 other person, much like an addict feels comfortable in the zone of his
 drug addiction.
 
-Domestic Abuse
-
 • 153
 
 We have launched into this micro-analysis of the gruesome details of
@@ -6439,8 +6334,6 @@ There may be other pathways. But all involve the coincidence of two
 lines of learning: a learning of abusive skills on the part of the aggressor,
 and a learning of victim roles, or at least a failure to learn violence limitation skills, on the side of the victim. These two roles will come out very
 clearly in the case of bullying, which takes a combination of a skilled
-
-Domestic Abuse
 
 • 155
 
@@ -6570,8 +6463,6 @@ bully's pleasure in frightening the victim, keeping him/her in suspense,
 enjoying the victim's palpable humiliation, indeed more of this than actual violence. Bullying differs from domestic abuse by being embedded in
 a more complex social hierarchy. Bullies have a recognized position in the
 
-Bullying, Mugging, and Holdups
-
 • 159
 
 status hierarchy of a community: they are not part of the elite, but rank
@@ -6655,8 +6546,6 @@ others and those who fight back episodically and unsuccessfully (no. 5 in
 figure 5.1, aggressive and dominated, and/or A, fluctuating) in Montagner's
 networks. Thus some studies (Espelage and Holt 2001) report that bullies
 
-Bullying, Mugging, and Holdups
-
 • 161
 
 have the same number of friends as non-bullies; these are probably the true
@@ -6732,8 +6621,6 @@ organize their own gangs, violent or quasi-violent. Racial and ethnic minorities
 also a large group of average kids, not especially noticeable in any respect.
 Low status is marked in several ways: as being unfashionable in dress
 (which may be deliberate alternate clothing cults, or just lack of following
-
-Bullying, Mugging, and Holdups
 
 • 163
 
@@ -6813,8 +6700,6 @@ physical torture on victims whom they have cultivated into long-standing
 relationships. Once established, bullying relationships tend to persist for
 several years (Olweus 1993: 28).
 
-Bullying, Mugging, and Holdups
-
 • 165
 
 .2 The Faces of Bullying and Playing the Victim. In lieu of good microsituational pictures of school or prison bullying, the following may be illustrative.
@@ -6881,8 +6766,6 @@ cohorts graduate or move out, thus guaranteeing upward mobility over
 time. The other structural feature for hazing is high ritual density in the
 group, with a strong sense of boundaries and hence of symbolic and
 moral differences between insiders and outsiders. Thus quasi-total institutions, such as fraternities, which make up totally encompassing situations for collective living, sociability, and entertainment (members going
-
-Bullying, Mugging, and Holdups
 
 • 167
 
@@ -6964,8 +6847,6 @@ The situation in prisons is more complex. Although there is considerable violenc
 bullying, or is ambiguous enough so that inmates themselves are unclear
 whether to call it bullying (O'Donnell and Edgar 1998b). Prisons generally have an underground economy: buying or trading illicit goods smuggled in, including drugs; legitimate possessions (such as phone cards, per-
 
-Bullying, Mugging, and Holdups
-
 • 169
 
 sonal items, and cigarettes), which may be borrowed, also stolen; on the
@@ -7046,8 +6927,6 @@ a ritual of passage:
 
 I was in the box waiting for my legal visit. We were all reading newspapers. A friend from the street saw a girl in the paper and said she looked
 
-Bullying, Mugging, and Holdups
-
 • 171
 
 like my missus. A guy grabbed the paper and said, "I know your missus.
@@ -7127,8 +7006,6 @@ and thus would choose a different object of retaliation.6
 Violent gang members may seem like bullies, in the sense of predatory
 tough guys, to those outside the group; but within the gang, there are no
 
-Bullying, Mugging, and Holdups
-
 • 173
 
 regularized relationships of bullies and bullying-victims (Jankowski 1991;
@@ -7207,8 +7084,6 @@ surprise by coming up out of their field of vision, and avoiding having to
 look them in the face. One might argue that this is in order to avoid being
 recognized, but there is also an avoidance of confrontational tension/fear;
 as we have seen in the case of close military combat, and in executionkillings, seeing the victim's eyes is a deterrent to attack.8
-
-Bullying, Mugging, and Holdups
 
 • 175
 
@@ -7293,8 +7168,6 @@ they face if they do not treat the situation in the most favorable light;
 they are forced into keeping up a frontstage performance of polite normalcy although any degree of sophistication would indicate it is far from
 being such.11
 
-Bullying, Mugging, and Holdups
-
 • 177
 
 .3 Situational dominance in a street confrontation (New York, 1997).
@@ -7355,8 +7228,6 @@ I barely got to the door in time, but I waited a few seconds before I
 walked in since I didn't want her to see me. When I went in, I heard
 her going up the stairs and I followed her. As soon as I got to the top
 of the stairs, I spotted her walking down the hallway, and I crept up
-
-Bullying, Mugging, and Holdups
 
 • 179
 
@@ -7456,8 +7327,6 @@ center while people are doing their Christmas shopping:
 I wanted to find a broad with a nice full ass walking alone to her car. I
 figured that I'd jump into her car with her and then make her drive out
 
-Bullying, Mugging, and Holdups
-
 • 181
 
 to a deserted area nearby that I knew about. I was watching people
@@ -7542,8 +7411,6 @@ the same is true for the number of cops.) This is very much like the audience ef
 own emotional zone, pump each other up with enthusiasm, and produce
 more serious violence than one-on-one fights.
 
-Bullying, Mugging, and Holdups
-
 • 183
 
 A notable feature of the London study is that robbers could be divided
@@ -7627,8 +7494,6 @@ them, and regard them as important for their own sake.
 
 Katz (1988: 195–236) points out that persisting in stickups is not in itself
 a very rational choice, if one is concerned only with material ends. Not
-
-Bullying, Mugging, and Holdups
 
 • 185
 
@@ -7716,8 +7581,6 @@ aggravated assault: (with weapons whether or not injury, or without
 weapons but with serious injury): peak 12 per 1,000, low 6 per 1,000.
 robbery: peak 8 per 1,000, low 2 per 1,000. [The category "robbery"
 here includes both muggings and armed robberies, since it does
-
-Bullying, Mugging, and Holdups
 
 • 187
 
@@ -7813,8 +7676,6 @@ condition. It is not simply a matter of some persons being smaller or
 less muscular than others. Victims are generally weak in a social sense:
 ongoingly, as low-status persons, social isolates, those who have swallowed their humiliation and adapted themselves to their tormenters, or
 who fight against them in ineffective ways that provoke without deter-
-
-Bullying, Mugging, and Holdups
 
 • 189
 
@@ -7924,8 +7785,6 @@ Consider the following, from the Iliad, the oldest canonical work of
 literature of the European tradition (ca. 750 B.C.). The very first event of
 the first day of battle described in the poem, before anything else happens,
 
-Staging Fair Fights
-
 • 195
 
 is a duel. The Trojan prince, Paris, stands in front of the army of his city
@@ -8010,8 +7869,6 @@ has finally learned to follow the ritual proprieties.
 Battles of this kind, which resolve into a series of single combats, are
 common in particular social formations. Celtic warriors at the time of the
 
-Staging Fair Fights
-
 • 197
 
 Roman conquests of Europe would seek out an individual enemy; they
@@ -8095,8 +7952,6 @@ a thread of contact holds beneath all the action at cross-purposes. The
 fight, of course, breaks normal interactional entrainment; but a fair fight
 hedged round by rituals and limitations simultaneously imposes another
 
-Staging Fair Fights
-
 • 199
 
 level on which both sides are strongly entrained, strongly intersubjective.
@@ -8179,8 +8034,6 @@ not clump together or say anything to each other. The only attempt at
 intervening is by the driver of a delivery truck, parked just behind the
 taxi; he asks the bicyclist to take his bike to the sidewalk, but the latter
 ignores him, and the driver (a fairly big workman) shies away and does
-
-Staging Fair Fights
 
 • 201
 
@@ -8277,14 +8130,10 @@ laughing, amused), one leads to a serious fight (8 percent), and eight result
 in prolonged but mild scuffles, blustering, or other extended but limited
 violence (67 percent); three have very brief fights (25 percent). In twenty-
 
-Staging Fair Fights
-
 • 203
 
 TABLE 6.1
 Seriousness of fight affected by audience behavior
-
-Violence
 
 Serious
 fight
@@ -8343,8 +8192,6 @@ Intervenes
 
 5 (46%)
 
-Total
-
 one cases the crowd is silent, uneasy, embarrassed, tense, or afraid: here
 there is one serious fight (5 percent); four cases of prolonged but mild
 scuffles (19 percent); four brief and mild episodes of violence (e.g., one
@@ -8378,14 +8225,10 @@ fight
 Prolonged/
 mild
 
-Violence
-
 Mild/
 stops
 
 Aborts
-
-Total
 
 Size of
 belligerent
@@ -8394,8 +8237,6 @@ groups
 1–3
 
 5–100s
-
-Total
 
 1 (6%)
 
@@ -8440,8 +8281,6 @@ answer, but we will return to the point.
 
 Social limits on fighting come in a package, including not only what
 fighters do to each other, but what the audience will and will not do to
-
-Staging Fair Fights
 
 • 205
 
@@ -8526,8 +8365,6 @@ from very punishing violence by shared rituals, is now being allowed to
 creep back in. Thus the aftermath of the 1997 Tyson-Holyfield fight was
 also unusual: The crowd spilling out of the arena in a Las Vegas casino
 
-Staging Fair Fights
-
 • 207
 
 became hysterical; scuffles and rumors of gunfire (later found to be unsubstantiated) set off panicky rushes through the lobbies and gaming areas,
@@ -8606,8 +8443,6 @@ be able to break wooden boards, and to kill a human opponent; in training fights
 smashing their target; and skilled fighters are supposed to evade and block
 these deadly attacks. The deadliness is at the same time an artificial game,
 kept within precise bounds.14
-
-Staging Fair Fights
 
 • 209
 
@@ -8689,8 +8524,6 @@ by single combats, but by private armies or entourages of followers maintained b
 
 This is not to say that all forms of artificial single combat were archaisms; they might be invented comparatively recently, or without drawing
 upon class precedents. Boxing became a favorite form of exercise among
-
-Staging Fair Fights
 
 • 211
 
@@ -8778,8 +8611,6 @@ wearing a rapier was chiefly an item of self-presentation; one rarely fought
 on the spot, but arranged an occasion on which to fight, safely out of
 view of the authorities.20 Sword duels thus became fencing matches, accompanying a vogue of upper-class fencing schools and private fencing
 masters, which were the above-ground and indeed the most typical manifestation of the dueling culture. The first fencing school in England was
-
-Staging Fair Fights
 
 • 213
 
@@ -8873,8 +8704,6 @@ limiting the damage also developed. The pattern was repeated again as
 sword fighting gave way to pistol dueling in the mid-eighteenth century:
 between 1762 and 1821, the fatality rate was 40 percent; in the years
 
-Staging Fair Fights
-
 • 215
 
 leading up to the abolition of dueling in 1840, fatalities were down to 7
@@ -8966,8 +8795,6 @@ up to the barrier and take careful aim before he shot.
 Another variant, the "signal duel," generally put the duelists closer but
 gave them little time to aim; they began with pistols down, until the signal
 
-Staging Fair Fights
-
 • 217
 
 was given. Within the count of three, each was required to raise his gun,
@@ -9035,8 +8862,6 @@ less important to win than to display courage; an honorable defeat was
 better than a dishonorable victory, indeed in terms of reputation, it might
 be better even than an honorable victory. The height of bravado (at least
 in England and France) was to let one's opponent fire first, then fire one's
-
-Staging Fair Fights
 
 • 219
 
@@ -9119,8 +8944,6 @@ years before the Civil War. In contrast to the haughtiness of dueling aristocrat
 reaction, the wealthiest and most cultivated Southern landowners began
 to turn away from dueling, seeing it as merely an expression of boisterous
 and uncultivated plebeians (Wyatt-Brown 1982: 351).25 Eventually, the
-
-Staging Fair Fights
 
 • 221
 
@@ -9207,8 +9030,6 @@ The importance of the elite fighting school or club for the ethos of
 honorific, staged fair fights is demonstrated by comparing what happened
 to such schools in the twentieth century, as honorific dueling with weap-
 
-Staging Fair Fights
-
 • 223
 
 ons disappeared. Training schools for fighting carried over into the twentieth century and beyond, but transmuted into a new form: the gym or
@@ -9290,8 +9111,6 @@ fired by both sides. In part this is due to normal tension/fear; in part to
 the lack of training in the use of guns, and the frequently low quality of
 the weapons. In contemporary gangs, gun-buyers are often quite ignorant
 about guns; they are often sold poor-quality or malfunctioning weapons,
-
-Staging Fair Fights
 
 • 225
 
@@ -9378,8 +9197,6 @@ side leaving to procure heavier weapons.
 
 Leap-frog escalations of this sort may be described as including an element of honor, insofar as both sides take themselves as having been insulted; but the honor is purely personal and self-centered. It is not the
 
-Staging Fair Fights
-
 • 227
 
 honor of mutually participating in a fair fight, and thereby enacting one's
@@ -9458,8 +9275,6 @@ the qualities of the sacred object of what I have called the gun cult (Collins
 practices of adulating weapons give it emotional resonance, provide him
 with a vicarious charge of emotional energy; the man who was insulted
 and degraded now feels superior. His superiority depends on the knowl-
-
-Staging Fair Fights
 
 • 229
 
@@ -9540,8 +9355,6 @@ process, motivated by fear and lack of security, but an aggressively proactive o
 with everyone else, a rationalistic tit-for-tat egalitarian self-help security
 enforcement, but an inegalitarian move to raise oneself above others. I
 offer two sources of evidence:
-
-Staging Fair Fights
 
 • 231
 
@@ -9634,8 +9447,6 @@ for providing future security. What it does accomplish is two things: it
 elevates (or attempts to elevate) the perpetrator as a tough guy, one of the
 elite; here again we see that the code of "honor" is merely a claim to be
 
-Staging Fair Fights
-
 • 233
 
 superior to other people. And it provides a scene of action—excitement,
@@ -9722,8 +9533,6 @@ persons and over the banality of ordinary lifestyles precisely because one
 takes risks others will not take, and takes them with aplomb, showing
 that one is a denizen of this world and not merely a tourist in it. "When
 
-Staging Fair Fights
-
 • 235
 
 people party all night or for days on end, they don't have fun, as they
@@ -9791,8 +9600,6 @@ Unscheduled situation
 
 16 (41%)
 
-Total
-
 We are finally in a position to answer the question that I left dangling
 earlier: given that audiences have a huge effect on whether a fight will be
 serious, mild, or abortive, how can we explain when the audience will
@@ -9823,8 +9630,6 @@ highly unlikely to know who each other is. In the other direction, where
 the audience already has a network of relationships, their likelihood of
 taking a definitive stand on the fight goes up; this is all the more so where
 the audience has a collective identity, either long-term (e.g., as members
-
-Staging Fair Fights
 
 • 237
 
@@ -9910,8 +9715,6 @@ hit one or another member (or friend or relative) of the opposing gang. It
 does not even matter if it is some bystander who is hit, since this serves
 as a generalized attack on the other's community and shows that the rival
 
-Staging Fair Fights
-
 • 239
 
 gang is not capable of defending its territory. Even if not that, it shows
@@ -9996,8 +9799,6 @@ groupings that have become rarer in American life, and in satirical or
 serious treatments of their real family tribulations. Mafia families make
 for soap opera melodrama as well as for suspense thrillers. In either di-
 
-Staging Fair Fights
-
 • 241
 
 mension, they turn the ordinary details of everyday life into something of
@@ -10035,8 +9836,6 @@ of an admiring crowd—the key feature that brings the concern for fairness—bu
 of egalitarian saturnalia; carousing zones create a widely shared atmosphere of ebullience that violence brings to a peak. Similarly, the varieties
 of violence in and around sports and entertainment events develop as
 crowds become emotionally entrained in the staging of the show; and
-
-Violence as Fun and Entertainment
 
 • 243
 
@@ -10123,8 +9922,6 @@ from the women in this scene of violence; this led to more antinomian
 outbursts, but generally restrained short of physical assault. Finally the
 police reappeared with superior force, resulting in one last flurry of con-
 
-Violence as Fun and Entertainment
-
 • 245
 
 centrated resistance, which dispersed in a few minutes as the surrounding
@@ -10210,8 +10007,6 @@ an invitation to enter, whoever it may have been once regarded as belonging to. 
 specific targets (such as the hated ethnic group) to adjacent buildings,
 turning everything into a part of the free zone (Tilly 2003: 143–48).
 
-Violence as Fun and Entertainment
-
 • 247
 
 Looting develops in a spontaneous form of organization similar to
@@ -10291,8 +10086,6 @@ day. In these outlying areas, riot activity consisted largely of looting; in
 the core area, there was both massive looting and massive violence in
 fighting with police and military forces.
 
-Violence as Fun and Entertainment
-
 • 249
 
 The 1960s American race riots followed a similar geographical pattern
@@ -10367,8 +10160,6 @@ The best detail available on the sequential dynamics of looting comes,
 not from a protest riot, but from the blackout of the electric grid in New
 York City for one night in July 1977 (Curvin and Porter 1979). This looting had more utilitarian aspects than others, since it did not start with an
 atmosphere of heightened racial antagonism, nor in an escalating confrontation with police.9 From hour-by-hour arrest data, as well as interviews, we find three waves of looters. The first wave were professional
-
-Violence as Fun and Entertainment
 
 • 251
 
@@ -10457,8 +10248,6 @@ rapes of women of the targeted enemy; breaking into houses of the ethnic
 enemy can involve both looting and raping (Horowitz 2001; Kaldor
 1999). What makes the difference between riots in which sexual restraint
 
-Violence as Fun and Entertainment
-
 • 253
 
 is the norm, and those in which sexual violence is featured along with
@@ -10540,8 +10329,6 @@ piling on not only stolen firewood but also college furniture; college authoriti
 sometimes pelted. Authorities usually confined their intervention to fines
 levied in the aftermath; these fines went to college treasuries, where they
 served to stock the wine for equally elite but more discretely private dinners by the college Fellows (i.e., the bachelor faculty residing in college).
-
-Violence as Fun and Entertainment
 
 • 255
 
@@ -10626,8 +10413,6 @@ cultural capital in the conversational circuits of subsequent parties.
 
 A carousing zone is a place where the ritualism of generating antinomian excitement prevails and may even be institutionalized. It can consist
 
-Violence as Fun and Entertainment
-
 • 257
 
 of just the place where a party is going on, or more widely a region where
@@ -10709,8 +10494,6 @@ sense of what they are trying to get into. Boundary-exclusion violence
 almost always is started by the intruder, responding to the status insult.
 Exclusion from parties and carousing scenes, of course, is quite common, indeed usual. What then makes the difference in those instances
 where it is violently contested? High school sociable elites, as we have
-
-Violence as Fun and Entertainment
 
 • 259
 
@@ -10798,8 +10581,6 @@ on the weekend after their senior prom go to a mountain resort, where
 they rent six nearby houses. They spend their time with music, dancing,
 hot tubs, watching movies and hanging out; the mood is friendly and
 happy. On the last night, a group of boys in one of the houses has a toga
-
-Violence as Fun and Entertainment
 
 • 261
 
@@ -10890,8 +10671,6 @@ as a coordinated mass of spectators; their fighting enables the crowd to
 turn from a mere traffic jam of small groups at cross-purposes into a
 larger emotional entrainment, raising their collective spirit.
 
-Violence as Fun and Entertainment
-
 • 263
 
 In another instance (from a student report), a large audience at a street
@@ -10972,8 +10751,6 @@ aspects of interaction rituals.
 
 Although the connection between intoxication and violence seems obvious, it is a very partial picture. A large proportion of violence is not caused
 by alcohol, and indeed intoxication can be antithetical to effective violence. And as we shall see shortly, in those particular kinds of circum-
-
-Violence as Fun and Entertainment
 
 • 265
 
@@ -11064,8 +10841,6 @@ of these young men binged more than once per month, and some males
 younger than eighteen or older than twenty-four also binged. Thus the
 total number of binges could be several times higher, and the percentage
 of drunken incidents leading to violence correspondingly lower (calcu-
-
-Violence as Fun and Entertainment
 
 • 267
 
@@ -11159,8 +10934,6 @@ alcohol and drugs when they are working; this includes military snipers
 (Wilkinson 2003: 202), and burglars.23 A black teenage thug describes
 how he beat a long-standing opponent:
 
-Violence as Fun and Entertainment
-
 • 269
 
 So I seen him the next weeks, right. . . . I got a couple of peoples with
@@ -11244,8 +11017,6 @@ that another such event cannot happen again, until the first one dissipates.
 This is the ideal type. Consider now the variations and exceptions. My
 collection of cases includes some where one fight is chained to the next;
 a shoving match at a fraternity beer keg results in ejection of one partisan,
-
-Violence as Fun and Entertainment
 
 • 271
 
@@ -11336,8 +11107,6 @@ percent majority in this school—began jeering at the black fighters in a
 mood of scorn and perhaps amusement, for preempting their own attention space.30 In effect this began as a struggle over who was to control the
 dramatic attention space of the lunchroom.
 
-Violence as Fun and Entertainment
-
 • 273
 
 Ethnographic detail from a student report shows the obverse case,
@@ -11426,8 +11195,6 @@ couple steps later I turned around and he was looking back at me. So
 I gave him this "come on outside" kind of smile. He never came out
 though. (Jackson-Jacobs and Garot 2003)
 
-Violence as Fun and Entertainment
-
 • 275
 
 Staring, making hostile jokes, and provoking quarrels were other ways
@@ -11513,8 +11280,6 @@ fights are needed in order to feed materials into the narrative ritual, but
 constant fights are unnecessary. Too many fights might well overwhelm
 the group's narrative consciousness; there is likely a "law of small numbers" operating in this attention space as well.32
 
-Violence as Fun and Entertainment
-
 • 277
 
 Fighting for fun also existed in nineteenth-century Ireland (Conley
@@ -11596,8 +11361,6 @@ the surrounding audience, it follows that the circle has the strongest sense
 of its unity and its role in sustaining the moshing when it is compact
 enough so that its members can see each other and move together in the
 same rhythm. Other ways in which mosh pits break down are when outsiders intervene, whether these be police or external groups with a preex-
-
-Violence as Fun and Entertainment
 
 • 279
 
@@ -11682,8 +11445,6 @@ Although records of popular bands were sold from the 1920s onward, it
 was in the 1960s and thereafter that bands and their star musicians became known above all as media figures, dominating their audiences in
 money, honor, and in the situational attention space.
 
-Violence as Fun and Entertainment
-
 • 281
 
 Slam-dancers and mosh pits, appearing around 1980, revived dancing
@@ -11752,8 +11513,6 @@ which becomes totally disconnected from the rhythms of the game; yet
 even here, the dramatic structure of what happens in the arena helps explain violence outside it.
 
 My method throughout this chapter, wherever possible, is direct observation of the details of action. The emphasis is not on the background
-
-Sports Violence
 
 • 283
 
@@ -11838,8 +11597,6 @@ aging veterans; injuries and recoveries; players moving from team to team
 and recasting old rivalries; quarrels with teammates, coaches, and officials. Knowledgeable fans participate in an ongoing serial melodrama, a
 real-life soap opera; this material makes both for a continuous flow of
 
-Sports Violence
-
 • 285
 
 news copy and for conversational capital for sociable ties among fans.
@@ -11923,8 +11680,6 @@ mock-fight that constitutes the game has now escalated into a real fight;
 the dramatic form of boxing, which pretends to be a real fight, precludes
 this, or at any rate leaves little dramatic resources for framing one's dispute and one's anger as above and beyond the normal.5
 
-Sports Violence
-
 • 287
 
 .1 Masculine athlete in unviolent sport: pole-vault champion (2004).
@@ -11956,8 +11711,6 @@ are protected from being hurt.
 Systematic data on player violence is comparatively rare.7 In the absence of other direct observational counts of fights during games, I offer
 the following from my own checking of news reports and televised games,
 and from questioning experienced fans: Hockey fights occur at a rate of
-
-Sports Violence
 
 • 289
 
@@ -12040,8 +11793,6 @@ The influence of penalty regimes can be seen by comparing games that
 have quite severe penalties. Soccer is normally a low-scoring game, because of the presence of a goalie (as compared to games with an open
 goal and prohibitions on goal-tending) and off-sides rules that favor the
 defense. Rather draconian rules against tackling by body contact set up
-
-Sports Violence
 
 • 291
 
@@ -12130,8 +11881,6 @@ than physical.15 Baseball is not a body contact sport (with a few exceptions), s
 players are generally unprotected by equipment; they wear gloves on defense, but these are usually discarded during a fight. Batters wear helmets,
 although these do not protect the face, and sometimes elbow and shin
 
-Sports Violence
-
 • 293
 
 .3 Limiting the scuffle by use of protective equipment (July 2004). Reuters.
@@ -12193,8 +11942,6 @@ a dozen players who came near to breaking the record, several of whom
 successively raised the record to 81 (Eddie Collins), 83 (Ty Cobb), 88
 (Clyde Milan), and finally 96 (Cobb again) (Thorn et al. 2001: 543, 547).
 It was during this time that Cobb acquired the reputation for sharpening
-
-Sports Violence
 
 • 295
 
@@ -12262,8 +12009,6 @@ aim to destroy the opponent emotionally rather than physically.
 Players' techniques for blocking and fighting through blocks, for
 knocking the other player down, for causing him to miss a catch or a
 running man, are what wins the game as well as the little segments within
-
-Sports Violence
 
 • 297
 
@@ -12351,8 +12096,6 @@ pitch in 105 games, but only two fights (forty-two games had at least one
 HBP, and twenty-two games had multiple incidents); that is, 40 percent
 of games had an incident, but only 3 percent of these resulted in a fight
 (calculated from San Diego Union-Tribune and Los Angeles Times, Aug.
-
-Sports Violence
 
 • 299
 
@@ -12445,8 +12188,6 @@ collective attention and producing emotional entrainment. It is a common
 cliche´ to complain that fights in hockey are more important than the
 game; this is not strictly true (since goal scoring and saves are the apex of
 
-Sports Violence
-
 • 301
 
 the game), but fights are often the moments that are most successful in
@@ -12533,8 +12274,6 @@ umpire, the pitcher says something, quoted by Sweeney afterward in an
 interview: "He said, 'You (expletive expletive), (expletive) you. [i.e., something like 'You fucking asshole, fuck you.'] For me, I wish it never happened, but in the same breath, he called me out." Weaver is 6 ft. 5, a big
 macho guy. Sweeney is the clean-up hitter, a fairly big muscular guy, too
 (6 ft. 1, over 200 pounds). Sweeney had a reputation as mild-mannered,
-
-Sports Violence
 
 • 303
 
@@ -12631,8 +12370,6 @@ Having finally broken the 49ers' momentum, the Giants move the ball
 for five minutes but cannot score. SF gets the ball back with three minutes
 to go, and mounts a drive. During this last drive, only one NY player—
 
-Sports Violence
-
 • 305
 
 defensive safety Shaun Williams—hustles to make plays, and temporarily
@@ -12702,8 +12439,6 @@ recording a crucial strike-out: jaw thrust forward, fist punching the air.
 Basketball fights often happen in a climax of frustration when a team
 blows a lead and loses momentum. This may take the form of especially
 rough play rather than a frame-breaking fight. In the final game of the
-
-Sports Violence
 
 • 307
 
@@ -12786,8 +12521,6 @@ true across different sports: psychological testing has shown that fans'
 belligerence increases after (and presumably during) football and hockey
 games, but not after attending gymnastics or swimming meets (Goldstein
 and Arms, 1971; Arms, Russell, and Sandilands 1979). Fans go with the
-
-Sports Violence
 
 • 309
 
@@ -12874,8 +12607,6 @@ when they jeer and sometimes physically attack. Fans and players are
 both emotionally and symbolically involved in the same conflict; but they
 operate on two quite different status levels: fans as shameless and ignominiously tribalistic partisans;36 players as heroes in evenly matched contests under honorific traditions. Fans in their moments of enthusiasm
 
-Sports Violence
-
 • 311
 
 abase themselves before the players like the most primitive religious fanatics in the presence of their cult objects. Fans also act like would-be carousers on the outskirts of a well-publicized party. Players react to fans' incursions of their turf, like an elite repelling boundary incursions by plebeians.
@@ -12955,8 +12686,6 @@ is a version of playful violence and authority role reversal, which the
 coach is expected to take in good humor. A championship team in American professional sports generally opens bottles of champagne in the locker
 room, which they do not drink but pour over each other. This is similar
 to a wild party, but with rather restricted destruction.
-
-Sports Violence
 
 • 313
 
@@ -13047,8 +12776,6 @@ in the university neighborhood, cars were overturned and burned, one
 store looted, windows smashed, and street signs torn down. In keeping
 with the celebratory mood, the looting took place at a liquor store. By
 
-Sports Violence
-
 • 315
 
 the time police got there, the windows had been smashed and the looters
@@ -13126,8 +12853,6 @@ are in the center of the action when hooligan violence is shaping up or
 under way. Buford (1993: 29–30, 81–93, 119–20), a participant-observer
 with the Manchester United supporters and other English hooligans for
 five years during the 1980s, found that each leader had his personal fol-
-
-Sports Violence
 
 • 317
 
@@ -13212,8 +12937,6 @@ match, supporters vandalize the cars, throw bottles out of windows, taunt
 and threaten any respectable middle-class persons who are trapped in
 with them (Buford 1993: 13–15, 62–66). Police are usually concerned to
 speed them through, get them out of their own area, and hence do not
-
-Sports Violence
 
 • 319
 
@@ -13305,8 +13028,6 @@ the violent crowd, walking, without hesitation, straight into the congested traf
 And another occasion, this time in London, as Manchester supporters
 leave their gathering place:
 
-Sports Violence
-
 • 321
 
 The pub is evacuated, glass breaking as pints of beer are simply
@@ -13389,8 +13110,6 @@ When sizable numbers of opposing firms meet (which happens chiefly
 when the English firms invade each other's home turf at the time of a
 game), they usually confine themselves to ritual taunts and bottle-throwing from a distance, but back away from a full-scale fight. Another participant observer notes,
 
-Sports Violence
-
 • 323
 
 .6 Soccer hooligans gang up on isolated fans of opposing team (Munich,
@@ -13455,8 +13174,6 @@ I have been arguing that the situational techniques of the hooligan groups
 are the key to their behavior, and the source of its attraction. A widespread
 line of explanation, to the contrary, emphasizes features of the cultural
 background: a culture of aggressive masculinity, grounded in the machismo of patriarchal societies; nationalism; regionalism (e.g., Dunning
-
-Sports Violence
 
 • 325
 
@@ -13545,8 +13262,6 @@ yelling that Africa begins at Rome; Liverpool fans chant "I'd rather be a
 Paki [Pakistanian] than a Scouse [nickname for rival fans]." In these verbal tactics they draw upon a background convention of racial hierarchy,
 which their instrumental behavior unconsciously reinforces.
 
-Sports Violence
-
 • 327
 
 I suggest a stronger thesis: the experiences and practices of being a football fan create or at least expand the amount of racial antagonism in the
@@ -13630,8 +13345,6 @@ these incidents took place in the grounds (i.e., the stadiums); since there
 were minimal barriers between the spectator area and the playing area,
 chiefly these were mass incursions onto the field of play.47
 
-Sports Violence
-
 • 329
 
 An accidental feature of the configuration of British stadiums may have
@@ -13711,8 +13424,6 @@ noted above in which American security forces preventing onsite victory
 celebrations tend to displace them into more violent celebrations outside.
 One more pathway toward the sophisticated techniques of soccer hooligans came in the area of transportation. The earliest instances of fighting
 around soccer games at the turn of the twentieth century involved groups
-
-Sports Violence
 
 • 331
 
@@ -13797,8 +13508,6 @@ Here we may note a parallel between the concluding topics of this
 chapter and chapter 7. There I noted the invention of the mosh pit at
 popular concerts was a way of taking back the center of attention from
 the band; a counter-move by the audience from its position of passivity
-
-Sports Violence
 
 • 333
 
@@ -13942,8 +13651,6 @@ of polite middle-class quarreling; its archetype is masculine, indeed
 macho, working-class/lower-class youth; or historically, the realm of
 warriors, specialists in fighting. It might seem obvious that boasting
 
-How Fights Start, or Not
-
 • 339
 
 leads to violence because it is part of the culture of those who habitually
@@ -14029,8 +13736,6 @@ that requires the willingness of everyone to accept tactful remedies for
 offenses. Perfunctory apologies and excuses are usually taken at face
 value, but if the person who feels offended does not accept them, the only
 
-How Fights Start, or Not
-
 • 341
 
 alternative is to "make a scene." This means to insist explicitly on the
@@ -14110,8 +13815,6 @@ friends—are implicitly backstage; the fact that complaints are not
 intended to be heard by their targets implies a sense of intimacy
 among those who carry out the conversation. This is a variant on
 the principle that conflict with outsiders generates solidarity in the
-
-How Fights Start, or Not
 
 • 343
 
@@ -14197,8 +13900,6 @@ evidenced in fine-grained patterns of tension in postures and speech.
 The accumulated tension of shame, especially as intensified by
 shame about shame, becomes transformed into rage when it finally
 
-How Fights Start, or Not
-
 • 345
 
 bursts out in verbal action. Shamed persons continue to break interactional attunement in subtle or not-so-subtle ways, using Goffmanian aggressive face work. This in turn generates further shame on
@@ -14280,8 +13981,6 @@ certain borderline, insults and boasts turn into bluster. Instead of generalized
 threatens to turn into a violent struggle. The person who escalates to violence always wins at least a momentary victory: he successfully claims
 attention and generally wipes away all other topics of conversation. This
 victory may be short-lived and its costs (whether physical or social) may
-
-How Fights Start, or Not
 
 • 347
 
@@ -14376,8 +14075,6 @@ protection by displaying his willingness to use violence. This propensity
 is reinforced by long-standing conditions of poverty and racial discrimination that foster an alienated and distrustful attitude toward mainstream
 white society.
 
-How Fights Start, or Not
-
 • 349
 
 Nevertheless, as Anderson indicates, a majority of people in these essentially unpoliced areas want to lead normal lives, with regular jobs, family
@@ -14454,8 +14151,6 @@ as "trash talking."
 These forms of talking make up an ongoing claim to dominate the interactional space, or at least to keep up with the level of challenge and avoid
 being dominated. In Goffmanian terms, an aggressive talking style is a
 frontstage presentation of self; in Anderson's analysis, it is an attempt to
-
-How Fights Start, or Not
 
 • 351
 
@@ -14540,8 +14235,6 @@ a socially institutionalized way of presenting a show of aggressiveness,
 might be expected to stabilize behavior at just that point where it stops
 short of actual violence. But this also means that the street code, as a
 
-How Fights Start, or Not
-
 • 353
 
 graduated continuum of degrees of aggressiveness and threat, also allows
@@ -14621,8 +14314,6 @@ forward panic, as the situation of sudden shock is turned into one where
 overwhelming advantage is on one side; clearly the counter-attackers become entrained in their own repetitive motions, engaging in overkill, with
 one man (a forty-four-year-old brother of the victim) described as stomping and kicking both victims "until he was out of breath." The unrestrained violence of a forward panic is always shocking to everyone obis that the
 serving from a distance. The analytical point, however,
-
-How Fights Start, or Not
 
 • 355
 
@@ -14713,8 +14404,6 @@ So far I have been listing kinds of fights that involve efforts to maintain
 membership, to be part of the group on a par with others. Some individuals aim higher than this; they want not just to hold their own but to dominate others and be recognized as one of the dominants, the true tough
 guys. The reasons why a particular individual will take this path may well
 
-How Fights Start, or Not
-
 • 357
 
 be more emergent than predispositional, arising from a chain of opportunities that opens up in that direction. An individual who finds success
@@ -14800,8 +14489,6 @@ even better than actual violence.
 Drug business violence and stickups. Connected to the street code are
 two other forms of violence. These are serious, often deadly, and not regarded as entertaining. They do not attract enthusiastic audiences, and
 
-How Fights Start, or Not
-
 • 359
 
 typically are carried out in as much privacy as possible. Drug business
@@ -14877,8 +14564,6 @@ violence in full-bore rhythm are like being in a tunnel; at this point the
 dynamics of the fight have taken over, the actors caught up in them until
 the fight winds down of its own accord. The forward panic type of asymmetrical entrainment of the momentarily dominant and the passive defeated is the most spectacular version, the deep pit inside the tunnel of
 violence. But there are other kinds of things that can happen in the tunnel
-
-How Fights Start, or Not
 
 • 361
 
@@ -14965,8 +14650,6 @@ Blustering, too, can follow the same four micro-pathways flowing into
 or away from the tunnel of violence. Someone may lose to a perfectly
 delivered insult, victory being decided by an appreciative audience. Someone may break off the encounter, leaving the scene; this is similar to leaving an argument in a huff, except that a huff implies the moral onus is on
 
-How Fights Start, or Not
-
 • 363
 
 the one who broke up the normal scene of civility and the normal ties of
@@ -15048,8 +14731,6 @@ a contest of loudness; but the content becomes repetitive, and if the intensity 
 to emotional de-escalation and a path away from fighting. Insults, too,
 can become repetitive and boring and thereby de-escalating; but that depends upon the absence of paralinguistic escalation. Thus we may expect
 
-How Fights Start, or Not
-
 • 365
 
 .1 Angry confrontation, momentarily stabilized by repetitious gesturing
@@ -15119,8 +14800,6 @@ you are a liar and a thief.' The third man grabbed Lewis and suggested
 that Dreiser leave. Lewis said again, 'I still say you are a liar and a thief.'
 'Do you want me to hit you again?' Dreiser demanded. 'If you do, I'll
 turn the other cheek.' Dreiser said, 'Aw, Lewis, you shit!' The third man
-
-How Fights Start, or Not
 
 • 367
 
@@ -15206,8 +14885,6 @@ but the fine-grained micro-details of how the confrontation is managed
 from the point at which it has become a conscious matter of dispute. Thus
 it also sometimes happens—indeed, may well happen most of the time—
 that antagonists find ways of altering the rhythm and focus of their hostile
-
-How Fights Start, or Not
 
 • 369
 
@@ -17105,8 +16782,6 @@ hoods, ski masks, balaclavas, or other masks to cover the head or face.
 In an Associated Press photo (July 21, 2001; not shown here) of a demonstration against a world economic summit in Genoa, Italy, we see two
 young men in the middle of the street throwing rocks; behind them, near
 
-Dominance in Attention Space
-
 • 417
 
 .3. Single demonstrator confronts police line while crowd remains unfocused (Genoa, July 2001). AP/World Wide Photos.
@@ -17177,8 +16852,6 @@ emotionally necessary so that some can be the few who are violent.
 
 In Shanghai, three young Chinese men are throwing rocks at the Japanese consulate, while eleven others are visible three rows deep in the background (April 17, 2005, China Photos/Getty Images, not shown). Here
 
-Dominance in Attention Space
-
 • 419
 
 .4 (four-photo sequence) Lone demonstrator, energized by small group
@@ -17242,8 +16915,6 @@ On the borderline of a victory gathering is a forward panic type of attack;
 we have seen photos of these in chapter 3, where a group of attackers has
 gotten the upper hand, having isolated or knocked down a single victim.
 As in the Rodney King beating tape, most of the beating may be carried
-
-Dominance in Attention Space
 
 • 421
 
@@ -17309,8 +16980,6 @@ in Arab culture. Earlier, a ten-year-old boy was seen grinding his heel into
 a burned head. In both these instances, there is widespread participation,
 a higher level than in actual fighting. There are also a few whom we may
 
-Dominance in Attention Space
-
 • 423
 
 .6 Ritual solidarity gestures between violent front line and supporters.
@@ -17345,8 +17014,6 @@ that only a tiny number took part in the symbolic destruction.
 Are the demonstrative extremists the same as the violent few, the most
 active fighters, the ones who actually carry out the killing and beating
 at the peak of confrontation? Data is lacking, since we can rarely track
-
-Dominance in Attention Space
 
 • 425
 
@@ -17434,8 +17101,6 @@ it is the faces in the front that include the few most likely to be shouting,
 taunting, or engaged in stare-downs with their opponents (March 3, 2002
 Agence-France Presse; Oct. 31, 1990, Associated Press; March 10, 2001,
 
-Dominance in Attention Space
-
 • 427
 
 European Pressphoto Agency). Often visible off to the side of the barricade where it comes up against a building, there is the familiar crowd of
@@ -17501,8 +17166,6 @@ missiles from the midst of their cluster.12
 
 Like most individual confrontations, it is likely that most crowds that
 threaten violence do not actually carry it out. Our research is largely con-
-
-Dominance in Attention Space
 
 • 429
 
@@ -17586,8 +17249,6 @@ best evidence comes from professional contract killers.16
 The most typical technique is a clandestine quick-hit. The killer waits
 in his car for the victim to arrive at some habitual spot, preferably on a
 dark street without passersby; he then rapidly approaches and shoots as
-
-Dominance in Attention Space
 
 • 431
 
@@ -17674,8 +17335,6 @@ businesses, or in prison; all the hitmen in my sources were proud of their
 reputations for never backing away from a fight, and doing whatever
 necessary to win. Some started by building a repertoire of dirty fighting
 
-Dominance in Attention Space
-
 • 433
 
 tactics; or by psychological tricks such as smiling and acting deceptively
@@ -17731,8 +17390,6 @@ in ambush as the time approaches for a killing, Joey feels excitement and
 a sense of power building up: "The adrenaline just flowed right through
 my whole body, putting me in a super-sensitive state. I was attuned to
 everything. . . . I could hear sounds the average person can't hear and
-
-Dominance in Attention Space
 
 • 435
 
@@ -17815,8 +17472,6 @@ decomposed with lime; similarly a body dumped in a river will float to
 the surface if the lungs are not punctured. Some of the gruesome aspects
 of the post-killing routine come from sophistication about these processes. The DeMeo crew, which worked in Brooklyn during the 1970s
 and 1980s, killing between seventy-five and two hundred victims, developed a technique of cutting bodies to pieces and disposing of them separately (Mustain and Capeci 1993: 222–23). They evolved refined techniques such as the gunman wrapping himself in a towel to avoid blood
-
-Dominance in Attention Space
 
 • 437
 
@@ -17906,8 +17561,6 @@ killers have a reputation in the criminal community. In part, this is their
 reputation for efficiency and reliability; it also has a moral dimension,
 strange as this may sound from the point of view of conventional moral-
 
-Dominance in Attention Space
-
 • 439
 
 ity. Both "Joey" and Tony the Greek make a point of emphasizing that
@@ -17983,8 +17636,6 @@ attack; like hitmen, they use a pretense of normalcy to penetrate defenses
 and get very close to their victims, so that the attack is highly reliable and
 does not miss its target as so often happens given the normal incompetence of most violence. Both use the tactic of sudden, confrontationminimizing attacks on unaware victims. The tactic not only makes for
 effective violence; it also gives psychological support to the killer. In deceiving others, one also deceives oneself; the clandestine killer does not
-
-Dominance in Attention Space
 
 • 441
 
@@ -18062,8 +17713,6 @@ from enemy authorities but also from their own families and acquaintances. The e
 about finishing high school and getting married in the summer. The next
 morning on her way to meet the driver who would take her to the Israeli
 
-Dominance in Attention Space
-
 • 443
 
 .10 Suicide bomber poses for photo shortly before attack. Her emotionless face is part of the clandestine, confrontation-avoiding approach (March
@@ -18114,8 +17763,6 @@ also carry a penumbra of their hidden agenda.34
 
 Closeups of three of the men, made later after they have split up, show
 very slight emotion, none of it expressing anger or determination. One
-
-Dominance in Attention Space
 
 • 445
 
@@ -18182,8 +17829,6 @@ boisterous or criminal violence. As a generalization, the more clandestine
 and confrontation-avoiding the technique of violence, the more its practitioners are from the respectable middle class, and indeed from its nonboisterous, well-behaved sector.39 Terrorist bombing is, so to speak, the
 violence of the meek.
 
-Dominance in Attention Space
-
 • 447
 
 .12 Suicide bomber escaping after a failed attack. He looks away from
@@ -18233,8 +17878,6 @@ group becomes embodied in them.
 This is not a metaphor. What I am arguing can be seen directly as we
 closely examine the micro-interactional features of violent interactions,
 including their surrounding onlookers.
-
-Dominance in Attention Space
 
 • 449
 
@@ -18313,8 +17956,6 @@ in the sense of successfully destroying the enemy. We lack detailed enough
 descriptions to know just how widespread is the participation in a forward panic violence. In police chases, where we have recordings, a small
 proportion of the officers present—rarely above 20 percent except in very
 small groups—act out the forward panic, as if on behalf of the larger
-
-Dominance in Attention Space
 
 • 451
 
@@ -18399,8 +18040,6 @@ far more than the segment they become famous for. Subjectively, these
 intellectual leaders are more self-reliant, able to operate in longer periods
 of isolation from companions, absorbed in their own work. But they are
 by no means isolated from their community. They begin their careers in
-
-Dominance in Attention Space
 
 • 453
 
@@ -18487,8 +18126,6 @@ less of this self-reliant character.
 
 A fourth point of analogy is the network pattern. Eminent intellectuals
 emerge from networks where the action previously has been, and reorga-
-
-Dominance in Attention Space
 
 • 455
 
@@ -18578,8 +18215,6 @@ in the field; in using their techniques they are enacting their sense of interac
 thinking I have described in Collins (2004: chap. 5), these intellectuals
 are engaged in internal interaction rituals, loops of emotional self-entrain-
 
-Dominance in Attention Space
-
 • 457
 
 ment that give them both confidence in what they are doing and a sense
@@ -18660,8 +18295,6 @@ certain few will work at the point of attack and get the brunt of the action.
 They become both even further action-trained, while others fall into a
 habit of relying on them. Similarly in military combat, the initially gungho eventually find that emotionally they are content to let someone else
 do it. We lack good detailed evidence of this sort for criminal groups; but
-
-Dominance in Attention Space
 
 • 459
 
@@ -18748,8 +18381,6 @@ always relative to that of someone else; one's quickness, naturalness, intuitive
 being faster than one's rivals. Thus it is a technique that is always on the
 edge, always being tested; it is not a quality of the individual, an immutable possession, but an interactional relationship. The winnowing effect of
 a chain of violent encounters is always to build up some and wear down
-
-Dominance in Attention Space
 
 • 461
 
@@ -21883,8 +21514,6 @@ PRACTICAL CONCLUSIONS
 hand in his pocket during the encounter, leaving an ambiguous impression
 whether he had a gun.
 
-References
-
 Abbott, Andrew, and Emanuel Gaziano. 1995. "Transition and Tradition: Departmental Faculty in the Era of the Second Chicago School." In A Second Chicago
 School?, edited by Gary Alan Fine. Chicago: University of Chicago Press.
 
@@ -22014,8 +21643,6 @@ Bishop, S. J., and B. J. Leadbeater. 1999. "Maternal Social Support Patterns and
 Child Maltreatment: Comparison of Maltreating and Nonmaltreating Mothers." American Journal of Orthopsychiatry, no. 2:69, 172–81.
 
 Black, Donald. 1980. The Manners and Customs of the Police. San Diego: Academic Press.
-
-References
 
 • 529
 
@@ -22147,8 +21774,6 @@ Cleaver, Eldridge. 1968. Soul on Ice. New York: Random House.
 Clum, George A., and Jack L. Mahan. 1971. "Attitudes Predictive of Marine
 
 Combat Effectiveness." Journal of Social Psychology 83: 53–62.
-
-References
 
 • 531
 
@@ -22285,8 +21910,6 @@ Dynes, Russell R., and E. L. Quarantelli. 1968. "What Looting in Civil Disturban
 Eamon, M. K., and R. M. Zuehl. 2001. "Maternal Depression and Physical Punishment as Mediators of the Effect of Poverty on Socioemotional Problems of
 Children in Single-Mother Families." American Journal of Orthopsychiatry 71,
 no. 2: 218–26.
-
-References
 
 • 533
 
@@ -22430,8 +22053,6 @@ Gabriel, Richard, and Karen Metz. 1991. From Sumer to Rome. New York:
 Greenwood.
 
 Gambetta, Diego. 1993. The Sicilian Mafia. Cambridge, Mass.: Harvard University Press.
-
-References
 
 • 535
 
@@ -22582,8 +22203,6 @@ Grimshaw, Allen D., ed. 1990. Conflict Talk. New York: Cambridge University
 
 Press.
 
-References
-
 • 537
 
 Grinin, Leonid E. 2003. "The Early State and Its Analogues." Social Evolution
@@ -22719,8 +22338,6 @@ Johnston, Lynne. 2000. "Riot by Appointment: An Examination of the Nature
 and Structure of Seven Hard-Core Football Hooligan Groups." In The Social
 Psychology of Crime: Groups, Teams and Networks, edited by David Canter
 and Laurence Alison. Aldershot, England: Ashgate.
-
-References
 
 • 539
 
@@ -22875,8 +22492,6 @@ Reveal about the Mind. Chicago: University of Chicago Press.
 Lang, A. R. 1983. "Drinking and Disinhibition: Contributions from Psychological
 Research." In Alcohol and Disinhibition: Nature and Meaning of the Link,
 
-References
-
 • 541
 
 edited by R. Room, and G. Collins. NIAAA Research Monograph No. 12.
@@ -23017,8 +22632,6 @@ McNeill, William H. 1982. The Pursuit of Power: Technology, Armed Force, and
 
 Society since A.D. 1000. Chicago: University of Chicago Press.
 
-References
-
 • 543
 
 . 1995. Keeping Together in Time: Dance and Drill in Human History.
@@ -23156,8 +22769,6 @@ Osgood, D. Wayne, Janet K. Wilson, Patrick M. O'Malley, J. Wilson, Jerald G.
 Bachman, and Lloyd D. Johnston. 1996. "Routine Activities and Individual
 Deviant Behavior." American Sociological Review 61: 635–55.
 
-References
-
 • 545
 
 Ostvik, Kristina, and Floyed Rudmin. 2001. "Bullying and Hazing among Norwegian Army Soldiers: Two Studies of Prevalence, Context, and Cognition." Military Psychology 13: 17–39.
@@ -23265,8 +22876,6 @@ edited by Michael Rutter. Cambridge: Cambridge University Press.
 Quarantelli, E. L. 1954. "The Nature and Conditions of Panic." American Journal of Sociology 60: 267–75.
 
 . 1980. Evacuation Behavior and Problems. Columbus, Ohio: Disaster Research Center, Ohio State University.
-
-References
 
 • 547
 
@@ -23411,8 +23020,6 @@ Shields, Jr., Edgar W. 1999. "Intimidation and Violence by Males in High School
 
 Athletics." Adolescence, 34, no. 135: 503–21.
 
-References
-
 • 549
 
 Shils, Edward, and Morris Janowitz. 1948. "Cohersion and Disintegration in the
@@ -23555,8 +23162,6 @@ Mifflin.
 Summers-Effler, Erika. 2004. Humble Saints and Moral Heroes: Ritual and Emotional Commitment in High-risk Social Movements. Ph.D. diss., University of
 Pennsylvania.
 
-References
-
 • 551
 
 Sun Tzu. ca. 400–300 B.C./1963. The Art of War, translated and edited by Samuel
@@ -23694,8 +23299,6 @@ New York: Warner Books.
 Whiting, Robert. 1999. Tokyo Underworld. New York: Random House.
 Wikstrom, Per-Olof H. 1985. Everyday Violence in Contemporary Sweden: Situational and Ecological Aspects. Stockholm: National Council for Crime Prevention, Sweden, Research Division.
 
-References
-
 • 553
 
 Wilkinson, Deanna L. 2003. Guns, Violence and Identity among African American and Latino Youth. New York: LFB Scholarly Publishing.
@@ -23725,8 +23328,6 @@ Japan)." British Journal of Sociology of Education 24: 315–30.
 Zillman, D., J. Bryant, and B. S. Sapolsky. 1979. "The Enjoyment of Watching
 Sports Contests." In Sports, Games, and Play, edited by Jeffrey H. Goldstein.
 New York: Wiley.
-
-Index
 
 Abu Ghraib, 482n8
 abuse, domestic, 20, 134–55; of children,
@@ -23837,8 +23438,6 @@ bravery, 39–40
 Brooklyn, 257, 436
 
 556 •
-
-Index
 
 Brooks, Scott, 500n9
 Budd, Zola, 498n4
@@ -24106,8 +23705,6 @@ Genovese family, 455
 Germany, 54, 209, 213, 214, 220, 216,
 
 558 •
-
-Index
 
 Germany (cont'd)
 
@@ -24378,8 +23975,6 @@ Mediterranean, 53–54, 484n4
 
 560 •
 
-Index
-
 Menelaos, 195, 484n2
 Mensur (German student duel), 217, 292
 Mercutio, 212
@@ -24646,8 +24241,6 @@ social class, 22, 135–36, 162, 171, 175–
 511n15
 
 562 •
-
-Index
 
 Somerville, Massachusetts, 17–18, 39, 200
 Somme, battle of, 78

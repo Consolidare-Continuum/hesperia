@@ -1,4 +1,3 @@
-
 The
 
 Innovator's
@@ -1231,8 +1230,6 @@ systems, the solid-line trajectories in .7, as I state in the text, represent th
 technological availability. Rather, it represents the selection of hard disk capacity by computer users,
 given the prevailing cost.
 
-NOTES
-
 1. A more complete history of the disk drive industry can be found in Clayton M. Christensen, "The
 
 Rigid Disk Drive Industry: A History of Commercial and Technological Turbulence," Business History
@@ -2041,8 +2038,6 @@ These considerations apply not simply to firms grappling with the most modern te
 the fast-paced, complex advanced electronic, mechanical, and magnetics technologies covered in this
 chapter. Chapter 3 examines them in the context of a very different industry: earthmoving equipment.
 
-NOTES
-
 1. See Rebecca M. Henderson and Kim B. Clark, "Architectural Innovation: The Reconfiguration of
 Existing Systems and the Failure of Established Firms" Administrative Science Quarterly (35), 1990,
 9–30.
@@ -2460,8 +2455,6 @@ technologies confront innovators with such a dilemma. Working harder, being smar
 aggressively, and listening more astutely to customers are all solutions to the problems posed by new
 sustaining technologies. But these paradigms of sound management are useless—even
 counterproductive, in many instances—when dealing with disruptive technology.
-
-NOTES
 
 1. A summary of how this same mechanism might have affected a broader range of industries can be
 found in Richard S. Rosenbloom and Clayton M. Christensen, "Technological Discontinuities,
@@ -3052,8 +3045,6 @@ customers, and record profits. It is the same innovator's dilemma that confounde
 of disk drives and mechanical excavators: Sound managerial decisions are at the very root of their
 impending fall from industry leadership.
 
-NOTES
-
 1. This process of moving to higher tiers of the market and then adding the costs to support business at
 that level was described by Professor Malcom P. McNair, of the Harvard Business School, in a way
 that strikingly parallels the disk drive story. Writing in a history of retailing, McNair describes how
@@ -3204,8 +3195,6 @@ consistent across industries.
 Chapter 10 shows how these principles can be used by illustrating how managers might apply them in a
 case study of a particularly vexing technology—the electric vehicle. Chapter 11 then reviews the
 principal findings of the book.
-
-NOTES
 
 1. The notion that we exercise power most effectively when we understand the physical and
 psychological laws that define the way the world works and then position or align ourselves in
@@ -3687,8 +3676,6 @@ upmarket retreat.16
 .4 Speed Improvements in InkJet and LaserJet Printers
 
 Source: Hewlett-Packard product brochures, various years.
-
-NOTES
 
 1. The theory of resource dependence has been most thoroughly argued by Jeffrey Pfeffer and Gerald
 R. Salancik in The External Control of Organizations: A Resource Dependence Perspective (New
@@ -4217,8 +4204,6 @@ company.
 This recommendation is not new, of course; a host of other management scholars have also argued that
 smallness and independence confer certain advantages in innovation. It is my hope that chapters 5 and
 6 provide deeper insight about why and under what circumstances this strategy is appropriate.
-
-NOTES
 
 1. The benefits of persistently pursuing incremental improvements versus taking big strategic leaps
 have been capably argued by Robert Hayes in "Strategic Planning: Forward in Reverse?" Harvard
@@ -4780,8 +4765,6 @@ others have defined the market. Given the powerful first-mover advantages at sta
 managers confronting disruptive technologies need to get out of their laboratories and focus groups and
 directly create knowledge about new customers and new applications through discovery-driven
 expeditions into the marketplace.
-
-NOTES
 
 1. What follows is a summary of the fuller history recounted in "Hewlett-Packard: The Flight of the
 Kittyhawk," Harvard Business School, Case No. 9-697-060, 1996.
@@ -5458,8 +5441,6 @@ facilitate success with the task at hand. Ensuring that capable people are ensco
 organizations is a major management responsibility in an age such as ours, when the ability to cope
 with accelerating change has become so critical.
 
-NOTES
-
 1. See C. K. Prahalad, and Gary Hamel, "The Core Competence of the Corporation," Harvard Business
 Review, 1990.
 2. Many of these ideas emerged from wonderful, stimulating discussions with doctoral students in the
@@ -5950,8 +5931,6 @@ supply. Understanding these trajectories is the key to their success thus far. B
 have consistently done this is disturbingly short. Most well-run companies migrate unconsciously to the
 northeast, setting themselves up to be caught by a change in the basis of competition and an attack from
 below by disruptive technology.
-
-NOTES
 
 1. In disk drive industry convention, a mean time between failure measure of one million hours means
 that if one million disk drives were turned on simultaneously and operated continuously for one hour,
@@ -6476,8 +6455,6 @@ structure cannot guarantee the success of our electric vehicle program, but it w
 team to work in an environment that accounts for, rather than fights, the principles of disruptive
 innovation.
 
-NOTES
-
 1. In 1996, the state government delayed implementation of this requirement until the year 2002, in
 response to motor vehicle manufacturers' protests that, given the performance and cost of the vehicles
 they had been able to design, there was no demand for electric vehicles.
@@ -6692,8 +6669,6 @@ understand what these intrinsic conflicts are. They then need to create a contex
 organization's market position, economic structure, developmental capabilities, and values are
 sufficiently aligned with the power of their customers that they assist, rather than impede, the very
 different work of sustaining and disruptive innovators. I hope this book helps them in this effort.
-
-NOTES
 
 1. By things I mean barriers such as proprietary technology; ownership of expensive manufacturing
 plants with large minimum efficient manufacturing scales; pre-emption of the most powerful

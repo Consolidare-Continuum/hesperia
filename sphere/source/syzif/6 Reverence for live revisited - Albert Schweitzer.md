@@ -119,7 +119,6 @@ Bibliography ...................................................................
 Contributors .....................................................................................................181
 Index ................................................................................................................185
 
-
 CHAPTER ONE
 
 REASON FOR HOPE
@@ -161,8 +160,6 @@ extraordinary person; Albert Schweitzer would've loved her.
 I grew up loving animals and when I was just one and a half years old my
 mother came up to my bedroom and found that I'd taken a whole handful of
 earthworms to bed with me. Instead of getting mad at me and saying "put those
-
-
 
 dirty things out," she said very quietly "Jane, they need the earth, they will die if
 you leave them here." So, I picked them up and brought them back into the
@@ -207,8 +204,6 @@ write books about them, and everyone laughed at me. Remember, we are now
 going back sixty years to a very different world, we're going back to a world
 which at the time of my dream was part of war-torn Europe, during the Second
 World War. Africa was still thought of as the 'Dark Continent.' There were
-
-Reasons for Hope
 
 pioneers like Albert Schweitzer, but we hadn't heard of him. We didn't have
 any money, and there were no 747's going back and forth—so no wonder
@@ -256,8 +251,6 @@ which doesn't see very well. Luckily, the wind was blowing the smell of the
 rhino to us, and he trotted back and forth with his tail up. He knew there was
 something peculiar, and luckily he trotted away in the other direction.
 
-
-
 One evening it was a young male lion: two years old, full size, little wisps of
 mane coming out between his shoulders, intensely curious—he'd never seen
 anything like me and Julian before. He followed us for at least the length of this
@@ -300,8 +293,6 @@ amazing cures: using an old fashioned saline drip for tropical ulcers where you
 could see the bone; I bet Doctor Schweitzer knew about that. And so she
 became known as a white witch doctor because she practiced white medicine.
 She established a wonderful relationship with all the local people.
-
-Reasons for Hope
 
 So, how sad that she left just before the breakthrough, just before I saw that
 one exciting thing which was necessary for Louis to get more money for me to
@@ -346,8 +337,6 @@ dangerous as they possibly can.
 We now know that the young males that have the most dramatic imaginary
 displays are the ones likely to get to the top with the least fighting. Mike began
 to incorporate empty four gallon kerosene cans from my camp into his displays.
-
-
 
 By this time, the chimps were coming for bananas. They all were passing back
 and forth through the camp, and Mike learned to keep three of these cans ahead
@@ -394,8 +383,6 @@ humans and the world of the chimpanzees.
 It was soon after that that I went to Cambridge University. Louis Leakey
 said I had to get a degree in order to stand on my own two feet; he wouldn't
 
-Reasons for Hope
-
 always be around to get money for me, but we didn't have time to mess with the
 B.A. He said I had to go straight for a Ph.D. So there I was sitting in Gombe and
 I got this letter and it said I would be getting a Ph.D. in ethology. I didn't even
@@ -428,19 +415,17 @@ shocked but realized these chimpanzees were very different from the kinds of
 birds and rodents that most people were studying at Cambridge. He taught me
 how to express myself in ways that wouldn't leave me wide open to attacks
 from other scientists. I remember one day I had written on my report for him, a
-chapter in my thesis that Flo had a baby and Fifi was always sitting close to that
+chapter in my thesis that Flo had a baby and Fifiwas always sitting close to that
 baby. When any other youngster came up, Fifi, who was by then about six years
 old, would get absolutely furious and stick her hair out and stamp her feet and
 chase the other youngster away. I had said that "she was jealous," well Robert
 said "you can't say that; you can't prove it." So I said "well I know she was
-jealous, so what shall I say?" He said, "I suggest you say, Fifi behaved in such a
+jealous, so what shall I say?" He said, "I suggest you say, Fifibehaved in such a
 way that had she been human we would say she was jealous." Now that is very
 clever, and that was a lesson that I really took to heart.
 
 As the years went on, we learned more and more about how like us
 chimpanzees are. We know today how similar they are biologically; we didn't
-
-
 
 really know very much about that then. Many of you will have read that the
 chimpanzee genome is being unraveled and that's led us to believe that they are
@@ -484,8 +469,6 @@ extended to many groups right across Africa, and studies that have been carried
 out on other large-brained creatures—have served to show that we are not
 separated as used to be thought by a very sharp line from the rest of the animal
 kingdom: humans on one side; everyone else on the other. This line has become
-
-Reasons for Hope
 
 increasingly blurry, giving us a new respect, not only for the chimpanzees, but
 the other amazing animals with whom we share this planet.
@@ -533,8 +516,6 @@ equal to just a middle class American, we would need four additional planets
 because of the number of us on this planet. We haven't got four additional
 planets, and our numbers are still growing. What's gone wrong, why have so
 
-
-
 many decisions been made that seem to lead to more and more destruction, why
 are we having wars, why is there so much poverty, why is there so much
 distribution of wealth that is so desperately unfair, why do we have hunger in
@@ -580,8 +561,6 @@ worship the mysteries of nature? I think it might.
 Then people ask about the soul; chimpanzees don't have souls they say.
 Well, a lot of people would say that humans don't have souls as well. It all
 
-Reasons for Hope
-
 depends on what we believe. But you know, from spending all these months and
 months alone in the forest just with the animals, I got this tremendous sense
 which I've had as a child in the old cathedrals, this great sense of a great
@@ -624,8 +603,6 @@ environmentally sustainable ways—ways in which they choose. The program
 concentrates on tree nurseries, on reclaiming sterile over-farmed land so it can
 be reused, it's preventing and controlling soil erosions, it's working particularly
 with groups of women and is lending small-business loans through nine microcredit banks. These programs are aimed at empowering. We are trying to
-
-
 
 increase woman's education through scholarships for gifted girls; we provide
 family planning and HIV/AIDS education; and we do this because all around
@@ -671,8 +648,6 @@ Gabon because President Bongo, having seen some film and some slides taken
 in the forests of Gabon, got tears in his eyes, and he set aside thirteen national
 parks that are in the constitution of the country. If he gets the right help for the
 
-Reasons for Hope
-
 infrastructure, many, many chimpanzees, gorillas, and other creatures will be
 saved. Rhena (Schweitzer) was telling me earlier that even in the old days when
 she knew him there, he refused to let the animals of Gabon be sent out of the
@@ -716,8 +691,6 @@ world can break through these brick walls and make this a better world. The
 main message is that every individual makes a difference everyday. Everyday
 you impact the world around you, and we have a choice as to what sort of
 impact we want to make. It's a roll-up-your-sleeve and take action kind of a
-
-
 
 program, and every group chooses between three different kinds of projects to
 make the world around them a better place for the human community, for
@@ -763,8 +736,6 @@ tackle impossible tasks and won't give up. Nelson Mandela, who labored for
 twenty-three years using a pick in the limestone off the prison on Robin Island,
 emerged from captivity with the amazing ability to forgive so that he could lead
 
-Reasons for Hope
-
 his nation from apartheid without a bloodbath. These amazing people are not
 just the leaders like Nelson Mandela that we all know about; they are people all
 around us, people in the little shops who struggled to bring their families from
@@ -808,8 +779,6 @@ have such power because we don't have to buy products that have been made
 with child slave labor or in sweat shops. We don't have to buy cosmetics tested
 on animals. We don't have to buy goods that have been made unethically and
 without respect for the environment. If we don't buy them in this consumer-
-
-
 
 driven society, then they are not going to get made, at least not that way. So the
 business or the company will either go out of business or start making things in
@@ -865,8 +834,6 @@ them into practice. It is thrilling to discover firsthand the legacy left by Alb
 Schweitzer, not in the many written philosophical or theological works but in
 the buildings, orchards, gardens, plantation, water reservoir, and houses at
 Lambaréné.
-
-
 
 In 1952, Norman Cousins interviewed Schweitzer about nuclear weapons,
 long before he had delivered his 1957 and 1958 appeals over Radio Oslo for
@@ -958,8 +925,6 @@ In 1924, wood was chosen for the village hospital. Soon, Schweitzer would
 realize that this was a preferable material to concrete and bricks, which were
 difficult to ventilate and regulate from the point of view of heat dispersion.
 Furthermore, Schweitzer could not see how arriving patients, in a state of
-
-
 
 distress, could have endured this additional handicap to their recovery, lodging
 in a place constructed so differently from their own village buildings. Also, the
@@ -1673,8 +1638,6 @@ which is in and through all."10
 
 In the future, the Reverence for Life needs to be engraved in all our hearts.
 
-Notes
-
 1. Albert Schweitzer, "The Ethics of Reverence for Life," Christendom 1.2 (Winter
 1936): 230.
 2. Albert Schweitzer, Out of My Life and Thought (New York: Henry Holt, 1948), 188.
@@ -1829,8 +1792,6 @@ Soviets and their gulags to Hitler's "thousand-year Reich" and its death camps
 to Mao's brutal "Cultural Revolution" to Pol Pot and his Cambodian "Killing
 Fields," have collapsed or been discredited leaving only a trail of destruction
 
-Chapter Six
-
 and misery in their wake. Meanwhile, we tend to comfort ourselves with the
 quasi-biological evolutionary idea that some mechanism in the natural order of
 things is, one way or another, gradually bringing about the changes or
@@ -1877,8 +1838,6 @@ throughout history.
 It may be tempting at first to downplay or dismiss Schweitzer's way of
 characterizing civilization as some, such as Pitirim Sorokin, have done; to them,
 
-Reverence and The Emerging Global Civilization
-
 it seems too simplistic, too vague and fuzzy, too wedded to 18th century
 "Western" attitudes about progress and the value of the individual to have much
 to offer us. Even as he was writing, Schweitzer himself was aware that his
@@ -1920,8 +1879,6 @@ his great theme of civilization at the beginning of his very last chapter, "The
 Civilizing Power of Reverence for Life." As he puts it, "defined from outside
 and quite empirically, complete civilization consists in realizing all possible
 progress in discovery and invention and in the arrangements of human society,
-
-Chapter Six
 
 and seeing that they work together for the spiritual perfecting of individuals
 which is the real and final object of civilization."14
@@ -1968,8 +1925,6 @@ complete ethics. In carrying out this enterprise his approach was, as usual,
 relentlessly systematic, as will become clear to anyone who takes the trouble to
 follow his train of thought.
 
-Reverence and The Emerging Global Civilization
-
 In this section I will offer a sort of Ariadne's thread through what for many
 may have been a labyrinth, and in so doing will, I hope, make clearer the
 tremendous scope and significance of Schweitzer's accomplishment.
@@ -2014,8 +1969,6 @@ in Theology (Intuitionism), Philosophy
 (Rationalism) and Medicine (Empiricism). He was therefore in a position to
 question boldly the long-standing assumption that any serious consideration of
 the mystical and intuitional was off-limits.
-
-Chapter Six
 
 "Why assume that the road to thought must suddenly stop at the frontier of
 mysticism?" he asks pointedly in chapter five of The Philosophy of
@@ -2063,8 +2016,6 @@ The "extensive gamut of notes" that makes up a complete ethics, then,
 consists of six specific "tones" or elements: Passive and Active Self-Perfecting,
 Social Ethics, and the three methods of philosophy—Intuitionism, Rationalism
 
-Reverence and The Emerging Global Civilization
-
 and Empiricism. Only Reverence for Life, Schweitzer showed, contains all of
 these in their right relation. Any ethical system other than Reverence for Life is
 partial, merely a fragment of the whole and is doomed to be merely arbitrary.
@@ -2110,8 +2061,6 @@ Reverence for Life with its emphasis on showing all Will-to-Live the same
 reverence as one does to one's own (equal/impartial consideration of interests)
 and on regarding all life as sacred (the value or quality of life). These two
 
-Chapter Six
-
 Rationalist themes, in other words, can be described as a "first differentiation"
 from the original "inchoate mass" of Reverence for Life and are deeply implicit
 in it.
@@ -2156,8 +2105,6 @@ example of a sustainable worldview,25 which means that it will continue to be a
 reliable base for ethics even if our planet experiences a wrenching shift to
 conditions of scarcity at some time in the near or distant future.
 
-Reverence and The Emerging Global Civilization
-
 Even this short survey makes clear beyond doubt that Schweitzer's ethics of
 Reverence for Life is not simply one more ethical opinion or theory among
 many that one is free to accept or reject. Rather it is the single ethical idea that
@@ -2200,8 +2147,6 @@ But is all this of any more than theoretical significance? Does it have any
 practical implications for us in the early years of the 21st century? It is here that
 we forge a link with the theme of this conference, "Albert Schweitzer's
 Relevance Today," for what we have seen concerning Reverence for Life and its
-
-Chapter Six
 
 intimate connection with civilization speaks powerfully to our present historical
 and planetary situation.
@@ -2247,8 +2192,6 @@ Civilization he compares the greening of civilization to the greening of the fie
 in the spring, which is brought about by "the millions of young shoots which
 sprout up freshly from the old roots. In like manner, the revival of thought
 
-Reverence and The Emerging Global Civilization
-
 which is essential for our time can only come through a transformation of the
 opinions and ideals of the many brought about by individual and universal
 reflection about the meaning of life and of the world."30 Without this "new
@@ -2292,8 +2235,6 @@ nutritional elements are present in every one of the planet's disparate cuisines
 Even further, Schweitzer's precise characterization of the way in which this
 complete ethics interlocks exactly with the requirements for a complete
 
-Chapter Six
-
 civilization provides us also with the template or pattern for a truly civil society,
 one that has shifted from being centered on a love of money to being centered
 on a love of life itself. David Korten, near the end of his book When
@@ -2320,8 +2261,6 @@ is ingenious, but with what is true."]35 The ethics of Reverence for Life is
 neither glittery, merely clever, nor ephemeral. It is the genuine article, the truth
 which will last down the ages and on which so much now depends.
 
-Notes
-
 1. Albert Schweitzer, J. S. Bach (Boston: Bruce Humphries Publishers, 1962), 1: 294-
 320.
 2. Ibid., 388-91.
@@ -2341,8 +2280,6 @@ and the Meanings of Life (New York: Simon & Schuster/Touchstone, 1995), 494-510.
 Somervell. (New York: Oxford University Press, 1947), 189.
 11. Kenneth Clark, Civilisation: A Personal View (New York: Harper and Row
 Publishers, 1969), 3-4.
-
-Reverence and The Emerging Global Civilization
 
 12. Herbert J. Muller, The Uses of the Past: Profiles of Former Societies (New York:
 New American Library/Mentor, 1954), 60.
@@ -2426,8 +2363,6 @@ saw as the declining state of "civilization"—at the time (turn of the nineteen
 century) the adjective "European" would have been considered tautological. At
 first he had planned a book on this theme and what he saw as its dire likely
 consequences. The First World War seemed a confirmation of all Schweitzer
-
-Schweitzer, Teilhard, and the Human Future
 
 had feared, and made such a book unnecessary. He refocused. He would write
 something "constructive . . . a work dealing with the restoration of civilization."
@@ -2520,8 +2455,6 @@ While Schweitzer was concerned with life, Reverence for Life, and the
 restoration of civilization, Teilhard focused on matter, consciousness, and the
 future of evolution. Writing initially from the front lines during the First World
 
-Schweitzer, Teilhard, and the Human Future
-
 War and then in the years between it and the Second, Teilhard had come to
 believe that in and through us—humankind—and our science, invention, and
 technology, evolution had reached a crucial point of decision. We can affirm a
@@ -2610,8 +2543,6 @@ less he could see "any possible biological result" other than its "active and
 conscious unity," the only fully natural and real form of which is the gradually
 dawning "Sense" or "Spirit of Earth, the passionate concern for our common
 destiny, which draws the thinking part of life ever forward."24 He concludes:
-
-Schweitzer, Teilhard, and the Human Future
 
 The resources we enjoy today, the powers and secrets of science we have
 discovered, cannot be absorbed by the narrow system of individual and national
@@ -2704,8 +2635,6 @@ discussion.
 As for my own view, I find a valuable, even necessary complementarity in
 the thinking of the two men. Like so many of the Biblical prophets they both
 
-Schweitzer, Teilhard, and the Human Future
-
 somewhat resemble. Schweitzer and Teilhard begin in a note of urgency about
 what each saw as the situation facing us as a whole people, a species, and facing
 us precisely because of the dimension of consciousness that is so much more
@@ -2763,8 +2692,6 @@ of exclusion but of proportion. Both visions are needed—but if I had to, I wou
 say that my commitment would be to Reverence for Life—in the context of the
 further evolution of The Cosmic Phenomenon.
 
-Notes
-
 1. Cf. e.g. Christiane Roederer, "Teilhard and Schweitzer: Deux prophetes des temps
 nouveaux," in Roederer, ed., Le Réenchantement du Monde (Paris: Editions PubliSud,
 1994).
@@ -2797,8 +2724,6 @@ Harper and Row, 1969), 44.
 16. Ibid., 29-36; 40.
 17. Pierre Teilhard de Chardin, The Human Phenomenon, Tr. Sarah Appleton-Weber,
 (Portland, Or.: Sussex Academic Press, 1999), 223.
-
-Schweitzer, Teilhard, and the Human Future
 
 18. Teilhard de Chardin, How I Believe, 35. The case of life is similar: like
 consciousness, it too is "understood and experienced as a function of matter." Pierre
@@ -2964,8 +2889,6 @@ archetypal ethic is familiar even to atheists and evolutionary humanists. I am
 referring, of course, to the ethic of Divine Dominion, which can be found in the
 Priestly version of Genesis.1
 
-'A Boundless Ethic'
-
 And God made the beast . . . and cattle . . . and everything that creepeth upon the
 earth: and God saw that it was good. And God said, Let us make man in our
 image … and let them have dominion . . . over all the earth (1:24-26)
@@ -3008,8 +2931,6 @@ boundless relation between human ignorance, contempt, and Schweitzer's ethic
 of reverence that would somehow deliver us from "the lordship of the spirit," it
 is now. This essay would have us rationally reflect on the possibility that
 Reverence for Life might be beyond human capacity—beyond the bounds, as it
-
-Chapter Eight
 
 were, of an even greater legacy—the ethic of Divine Dominion. The Genesis
 passage should now represent to us the actual performance and legacy of that
@@ -3061,8 +2982,6 @@ reflection on the limits of human respect and duty and Schweitzer's very curious
 conclusion to Decay and Restoration of Civilization, some reflection is due on
 Jane Goodall's work to advance Schweitzer's legacy in the real terms of our
 
-'A Boundless Ethic'
-
 "genetic" communion with—not dominion over—all that creepeth over the
 earth. Steven Best reminds us that Goodall's legacy is one equal to, if not
 greater than Schwietizer's: "Until Jane Goodall's work, the identity of Homo
@@ -3106,8 +3025,6 @@ ignorance—is reducing us, as she says, "to yahoos soiling our own nest." And
 yet for all of her deeply informed, and therefore righteous, indignation with
 human dominance and trespass upon the rest of the natural world, I can't help
 but to be struck by the construction of one of her "Four Reasons for Hope"
-
-Chapter Eight
 
 described in her essay in this volume. Goodall believes that human imbecility as
 contempt for life can be somehow mitigated by what she calls "the indomitable
@@ -3155,8 +3072,6 @@ I have always been impressed by Schweitzer's "heretical" commitment to
 methodological rationality, as demonstrated in this statement from Christianity
 and the Religions of the World. It is why I trust that by putting Schweitzer's
 
-'A Boundless Ethic'
-
 own ethic of reverence to the same test to which he put Christianity—"as
 something that stands to reason"—I will not be dismissed as an atheist-cynicnihilist.
 
@@ -3198,8 +3113,6 @@ responsibilities.
 It was quite remarkable to me—this was before I began going to school—why in
 my evening prayers I should pray for human beings only . . . I used to add
 silently a prayer that I had composed myself for all living creatures. It ran thus:
-
-Chapter Eight
 
 "O, heavenly father, protect and bless all things that have breath; guard them all
 from evil, and let them sleep in peace" (40).
@@ -3248,8 +3161,6 @@ much would already be accomplished towards our salvation from our present
 circumstances if only we would all give up three minutes every evening to gazing
 into the infinite world of the starry heavens and meditating on it, or if in taking
 
-'A Boundless Ethic'
-
 part in a funeral procession we would reflect on the enigma of life and death,
 instead of engaging in thoughtless conversation as we follow behind the coffin!
 (102-3)
@@ -3290,8 +3201,6 @@ Perhaps we shall have to look elsewhere than we have done hitherto for the real
 basis of that theory of the universe which carries with it affirmation of the world
 and of life. Previous thought imagined that it could deduce the meaning of life
 from its interpretation of the universe. It may be that we shall be obliged to resign
-
-Chapter Eight
 
 ourselves to abandon the problem of the interpretation of the universe and to find
 the meaning of our life in the will-to-live as this exists in ourselves (105).
@@ -3358,8 +3267,6 @@ New York: Doran Co., 1923.
 
 Part One) trans. C.T Campion. London: A&C Black, 1923.
 
-'A Boundless Ethic'
-
 —. Memoirs of Childhood and Youth. New York: Macmillan, 1931.
 —. Out of My Life and Thought. New York: Holt, 1948.
 —. The Spiritual Life: Selected Writings of Albert Schweitzer. Ed., Charles R.
@@ -3375,8 +3282,6 @@ Scully, Martin. Dominion: The Power of Man, the Suffering of Animals, and the
 Call to Mercy. New York: St. Martin's Press, 2002.
 
 Stuart, Ian. The Animals Bible. 2001 http://www.all-creatures.org/book/ranbible-1.1.html
-
-Notes
 
 1. There's no need for reminding readers of the "cutting room floor" reality of this sacred
 Word of God document, perhaps, but one never knows, and so, as Ian Stuart so
@@ -3409,8 +3314,6 @@ dominant carnivores of yore should lead us to reexamine "the roots of our obsess
 violence and domination in the natural world, which has turned us into the most
 psychologically disturbed and self-destructive of the species." Although he does not link
 "the roots of our obsession with . . . domination" to the myth of Divine Dominion, he
-
-Chapter Eight
 
 does remind us that, "In trying to grasp the powerful myths underlying scientific
 civilization's fascination with "violent" prehistoric creatures, the current dinosaur craze
@@ -3588,8 +3491,6 @@ a more complex clock in which the parts exist as a chain of cause and effect.
 Therefore, the mechanisms of the body could be studied in similar animal
 species, such as dogs, cats, primates, and rats. The ideas that the body is a
 
-Chapter Nine
-
 machine and consciousness and emotional states are separate from the body, and
 thus have very little or no effect upon physiological processes, are assumed by
 some who engage in animal research today.
@@ -3683,8 +3584,6 @@ inappropriate neglect of empathy. The neglect of empathy is caused by the
 limitations in the current method of accepted thinking, which tends to involve
 pure analysis. As Bergson points out, analysis is based upon moving around an
 
-Chapter Nine
-
 object and observing the object, in which the observer is outside and detached
 from the object (or at least has that perception). Since analysis is based upon
 movement around an object, the observation is thus dependent upon the point of
@@ -3776,8 +3675,6 @@ exist and we are capable of pursuing the interconnections of all life in their
 contexts, rather than viewing them as separate, isolated parts. If we were to use
 both analysis and empathy we would understand the parts in isolation, but more
 
-Chapter Nine
-
 importantly, we would first understand the contexts and relationships of those
 parts, and how they interact with each other. There is a synergy in the contexts
 of parts that can only be understood if we were to use empathy as we would be
@@ -3859,16 +3756,12 @@ research in not harming the environment, but it also is a process of healing tha
 forms balance and harmony within the person. More importantly, it promotes
 harmony with the surrounding environment that permeates through all of life.
 
-Works Cited or Consulted
-
 Anon. Environmental Causes of Breast Cancer. Harvard University, 1999.
 
 http://courses.dce.harvard.edu/~environment/Breast/12Facts.html#top-ofpage. Retrieved 17 Jul. 2005
 
 Bergson, H. An Introduction to Metaphysics. New York: Bobbs-Merrill, 1903.
 Bohm, D. Wholeness and the Implicate Order. New York: Routledge, 2002.
-
-Chapter Nine
 
 Capra, F. The Web of Life: A New Scientific Understanding of Living Systems.
 
@@ -4027,8 +3920,6 @@ Posokhova Ludmila. Ethical Views of Albert Schweitzer in the Context of
 
 Modern Problems of Humanization of Education. Sochi: 2003.
 
-Chapter Ten
-
 There are also a number of PhD dissertations in which Albert Schweitzer's
 
 views have been mentioned:
@@ -4078,8 +3969,6 @@ and Axiology in Religion" in Russia: students in theology workshops are
 supposed to compare thoughts of different Western specialists in ethics,
 including Albert Schweitzer, with Orthodox tradition because "it makes obvious
 
-Schweitzer's Influence on Eastern Slavic Countries
-
 futile attempts to transfer Western system of moral and social values onto the
 Russian soil" (Ehtika I Aksiologija v Religii).
 
@@ -4095,14 +3984,14 @@ Schweitzer with life and work of Saint Ljuka Vojno-Yaseneckij, canonized by
 Russian Orthodox Church in 2000. His life at many points is similar to the life
 of Albert Schweitzer and at the same time is different. Similarities:
 
-(cid:120) Period of life: Schweitzer—1875-1965; Saint Ljuka—1877-1961;
-(cid:120) Profession—both were doctors and worked in hospitals;
-(cid:120) Both had highly acknowledged works in theology and science;
-(cid:120) Both were repressed—Schweitzer during the First World War got in a
+Period of life: Schweitzer—1875-1965; Saint Ljuka—1877-1961;
+Profession—both were doctors and worked in hospitals;
+Both had highly acknowledged works in theology and science;
+Both were repressed—Schweitzer during the First World War got in a
 French camp, Saint Ljuka during Stalinist repressions got in the GULAG
 camp;
 
-(cid:120) Both received the highest possible awards for their time and place—
+Both received the highest possible awards for their time and place—
 
 Schweitzer the Nobel Peace Prize, and Saint Ljuka the Stalin Prize.
 
@@ -4125,8 +4014,6 @@ Such an attitude on the side of many Orthodox priests does not mean that
 Albert Schweitzer's ideas are futile from the viewpoint of the Orthodox Church.
 Partial understanding of this rejection can be found in protest of the Orthodox
 Church against intensive agitation of ideas of Catholicism and Protestantism at
-
-Chapter Ten
 
 its territory after the collapse of the Soviet Union. After the end of the
 Communist regime, the Orthodox Church found itself exhausted and weak after
@@ -4173,8 +4060,6 @@ Arkhangelskaja speaks of the importance of Schweitzer's ideas in the
 development of the new ecological culture for the 21st century. The importance
 of this lies in understanding the necessity of interplay between Oriental and
 
-Schweitzer's Influence on Eastern Slavic Countries
-
 European cultures (Arkhangelskaja). P. Bachinskij from Dnepropetrovskij
 National University in the Ukraine, stated that Schweitzer's ideas formed the
 basis for the newly created and rapidly expanding field of bioethics
@@ -4218,8 +4103,6 @@ The Russian magazine "Ethics' Education" has noted that as society is going
 through moral decay, social relations and value priorities fall out of harmony.
 Thus, it is necessary to find a basis to restore the moral forces of society and the
 ethical landmarks for the education of children. Ethics should be introduced in
-
-Chapter Ten
 
 schools for this aim, with Albert Schweitzer's relation to man and life as the
 main values to be taught in the ethics course (Nravstvennoe Vospitanie v
@@ -4265,8 +4148,6 @@ Exploitation of Schweitzer's Fame
 It is a pity, but there are always people who try to exploit the reputations of
 really great men. In 1999, the mass media of Turkmenistan announced that
 
-Schweitzer's Influence on Eastern Slavic Countries
-
 Father of all Turkmen, President Niyazov, was awarded an international prize
 named in honor of Albert Schweitzer, and founded by the Academy of Medicine
 of Poland to award heads of states and public figures for outstanding
@@ -4309,8 +4190,6 @@ Orthodox priest Alexander Men'. His moral influence on the people is often
 considered the equal of Schweitzer's. As written in one article, people that tried
 to find moral perfection came to both of them (Naumova, Belova, 2005).
 Alexander Men' was killed by an unknown murderer in September 1990.
-
-Chapter Ten
 
 Jurij Bandazhevskij is another figure who might be considered to be
 continuing the work of Schweitzer (Posokhova, 2003: 96). A talented musician,
@@ -4361,8 +4240,6 @@ Bandazhevskij, Jurij. http://www.belarustoday.info/?pid=447 (last visited Oct.
 
 10, 2005).
 
-Schweitzer's Influence on Eastern Slavic Countries
-
 Borejko, V.E. Prilozhenie 9. Uchebnaja Programma Fakul'tativnogo Kursa po
 
 Ehologicheskoj Ehtike dlja Shkol (8-11 klassy).
@@ -4386,7 +4263,7 @@ Al'manakh. Moskva: 1999.
 http://www.philosophy.ru/library/lang/filolog.html (last visited Oct. 12,
 2005).
 
-Efremov, Kirill. Kak Istoriki Ob'jasnjajut Istoriju? Znanie-sila. (cid:651) 3, 2001.
+Efremov, Kirill. Kak Istoriki Ob'jasnjajut Istoriju? Znanie-sila. 3, 2001.
 Ehsenov, M. Kak Nijazov Stal Laureatom Mezhdunarodnoj Premii im. A.
 
 Shweitcera.
@@ -4403,15 +4280,15 @@ Gusejnov, A.A.
 
 Filosofii.
 http://www.philosophy.ru/library/vopros/20.html (last visited Oct. 10, 2005).
-Karpinskaja, (cid:586).(cid:587). Biologija I Gumanizm. Filosofija Biologii. Vchera, Segodnja,
+Karpinskaja, .. Biologija I Gumanizm. Filosofija Biologii. Vchera, Segodnja,
 
 Ljubite Vragov Nashikh. Voprosy
 
-Zavtra (Pamjati Reginu Semenovnu Karpinskoj). (cid:582)oskva, 1996.
+Zavtra (Pamjati Reginu Semenovnu Karpinskoj). oskva, 1996.
 
 Karpinskaja, R. S. Biophilosophy — new investigation trend // XIX World
-Congress of Philosophy. Moscow, 22–28 Aug. 1993. Vol. 1. Sec. (cid:651) 14.
-Khen, J.V. Biofilija I Problema Smerti. In. Biofilofija. (cid:582)oskva: Rossijskaja
+Congress of Philosophy. Moscow, 22–28 Aug. 1993. Vol. 1. Sec. 14.
+Khen, J.V. Biofilija I Problema Smerti. In. Biofilofija. oskva: Rossijskaja
 
 Akademija Nauk (Institut Filosofii), 1997.
 
@@ -4426,14 +4303,12 @@ Mezhdunarodnoj Nauchnoj Konferencii (18-19 ijunja 1998 g.). Moskva,
 I Okruzhajashchaja
 
 Kuzhecova, I.D. Razdel 5. / Filosofija: Uchebnik. Ed. by V.G. Kuznecov, I.D.
-Kuzhecova, V.V. Mironov, K.K. Momdzjahn. (cid:582)oskva: INFRA-M, 2004.
+Kuzhecova, V.V. Mironov, K.K. Momdzjahn. oskva: INFRA-M, 2004.
 Makarcev, V.P. Mezhdunarodnaja Tvorcheskaja Organizacija "Samosozidanie".
 http://www.oreola.org/edinom/edinom2/val_petr/sozn_kult.htm (last visited
 Oct. 2, 2005).
 
-Mamontov, S.P. Osnovu Kulturologii. (cid:582)oskva: Olimp, 1999.
-
-Chapter Ten
+Mamontov, S.P. Osnovu Kulturologii. oskva: Olimp, 1999.
 
 Men', A. A. Men' Otvechaet na Voprosu Slushatelej. Moskva: Fond Imeni
 Aleksandra Menja. 1999. http://www.philosophy.ru/library/men/otvety.html
@@ -4471,10 +4346,10 @@ Severnuj Medicinskij Gosudarstvennyj Universitet.
 
 http://www.nsmu.ru/services/?catalogid=435 (last visited Oct. 1, 2005).
 Shatalov, A.T., Oleinikov, U.V. K Probleme Stanovlenija Biofilosofii. In.
-Biofilosofija. (cid:582)oskva: Rossijskaja Akademija Nauk (Institut Filosofii),
+Biofilosofija. oskva: Rossijskaja Akademija Nauk (Institut Filosofii),
 1997.
 
-Sidorina, T.J. Filosofija Krizisa: Uchebnoje Posobie. (cid:582)oskva: Flinta, 2003.
+Sidorina, T.J. Filosofija Krizisa: Uchebnoje Posobie. oskva: Flinta, 2003.
 Shulgin, N.N. Po "Gamburgskomu Schetu". Intervju s Akademikom V.S.
 
 Stepinym (iz zhurnala "Voprosy Filosofii".
@@ -4630,8 +4505,6 @@ degree on the spiritual side, is like a ship with a defective steering gear, whi
 becomes more unsteerable from moment to moment and so rushes on to
 catastrophe. (Civilization and Ethics, 1929: 2)
 
-Chapter Eleven
-
 Amidst our "hyperconsumption" the balance between the material and
 spiritual has been lost in contemporary America; Americans frequently incur
 high levels of debt to obtain their material desires (Ritzer, 2004). Ironically,
@@ -4724,8 +4597,6 @@ as unrecollected men who merely aim at being good (43).
 
 Schweitzer (1929) argued that "the mere setting up of lists of virtues and
 vices is like vamping on the keyboard and calling the ensuing noise (25)." Much
-
-Chapter Eleven
 
 of what is offered through school-based character curricula seems to resonate
 with his statement. At face value, character education offers our children a set of
@@ -4821,8 +4692,6 @@ constraint—an imposed way of thinking about character that may ultimately
 limit the outcome. During our trip to Nicaragua, I saw both wisdom and wonder
 in our Quinnipiac student delegation. The wonder of observing something new,
 
-Chapter Eleven
-
 and the sense of wisdom that a place which offered so little in a material sense,
 could provide them with so much more in other ways.
 
@@ -4849,8 +4718,6 @@ inwardness, and to tolerate restless. In character education, we must offer our
 children what consumer culture does not: opportunities for silence and
 independent thinking. In teaching character, it will be necessary to defy the
 norms of our consumer culture in order to combat its effects.
-
-Works Cited or Consulted
 
 Anonymous. "The big picture: Give me your TV, your vacation home."
 
@@ -4950,8 +4817,6 @@ Steele, Margaret Farley. "What I Did on My Summer Vacation." New York
 
 Times. June 12, 2005.
 
-Chapter Eleven
-
 Sutherland, Anne and Beth Thompson. Kidinfluence. New York: McGraw-Hill,
 
 2003.
@@ -4959,8 +4824,6 @@ Sutherland, Anne and Beth Thompson. Kidinfluence. New York: McGraw-Hill,
 U.S. Department of Commerce. Statistical Abstract of the United States: 2004-
 
 2005. 124th Edition. Washington, D.C.
-
-Notes
 
 1. A revised version of this paper was published in Encounter: Education for Meaning
 and Social Justice 18(4) Winter 2005.
@@ -5059,8 +4922,6 @@ Encouraging nuclear development in India, which refuses to join the Nuclear
 Nonproliferation Treaty (NPT), while denying such development to Iran
 replaces setting universal legal standards with an ad hoc regime based on who is
 
-Nuclear Weapons and Reverence for Life
-
 seasonally friendly to the US. Iran might have a terrible government with
 antiquated ideas about the role of religion and the state and deeply offensive
 attitudes toward the rest of the world. But, with respect to nuclear weapons, it
@@ -5113,8 +4974,6 @@ any nuclear weapons, while it fills its own arsenals . . . If we do not give up 
 double standards, we will have even more nuclear powers. We are at a turning
 point now.2
 
-Chapter Twelve
-
 The steady, albeit slow, progress in building peaceful relations based on the
 rule of law has been stopped. Fear and uncertainty have been emphasized.
 Various arguments are used to rationalize this intentional process: fighting
@@ -5164,8 +5023,6 @@ surface temperature of the fireball was about 7,000 degrees C, and the heat rays
 that reached the ground were over 3,000 degrees C. The explosion instantly
 killed or injured people within a two-kilometer radius of the hypocenter, leaving
 innumerable corpses charred like clumps of charcoal and scattered in the ruins
-
-Nuclear Weapons and Reverence for Life
 
 near the hypocenter. In some cases, not even a trace of the person's remains
 could be found. A wind (over 680 miles per hour) slapped down trees and
@@ -5218,8 +5075,6 @@ by this threatening violence. This ultimate violence is idolatry without
 boundary, exalting human ideas and force above the creator's gift and the very
 life of the creation.
 
-Chapter Twelve
-
 The violence of threatening to unleash the Apocalypse represents an
 immorality of vast proportion and calls us to an affirmation of faith of vaster
 proportion. We cannot be passive in pursuing this capacity. Dr. Martin Luther
@@ -5265,8 +5120,6 @@ that we can be guided by and have confidence in our love of life, should we not
 commit to cause our country to disavow its unlawful, immoral policy of failing
 to negotiate the elimination of nuclear weapons. Will you join this call from the
 conscience of humanity?
-
-Nuclear Weapons and Reverence for Life
 
 We have the choice to respond to this call of conscience. With the help of
 each, which is a gift in our hands to choose, and the help of God, which is a gift
@@ -5317,8 +5170,6 @@ working in a new spirit of global cooperation. This is the first time in human
 history where the spiritual guidance of the wise fully reinforces the practical
 analysis of the worldly realists.
 
-Chapter Twelve
-
 As long as several countries claim a right to excesses in weapons and the
 right to threaten everyone else with annihilation, the necessary cooperation for a
 sustainable future will not be obtained. Nuclear weapons threaten all life and for
@@ -5338,8 +5189,6 @@ will have sought and found how to serve."
 Let us be amongst those who know the secret of service. Life's blessings
 
 abound upon those who serve life's blessings. May we be so blessed.
-
-Nuclear Weapons and Reverence for Life
 
 Appendix
 
@@ -5388,8 +5237,6 @@ traffic injuries as a major cause for this increase. 23
 US$518 billion per year. In developing countries, the costs are estimated to be US$100
 billion, twice the annual amount of development assistance to developing countries.24
 
-Chapter Twelve
-
 Military Spending
 *World military expenditures in 2001 were conservatively estimated at $839 billion—
 almost $100 million every hour or $2.3 billion each day. 25
@@ -5432,8 +5279,6 @@ these conflicts have occurred in poor countries where a particular ethnic group 
 economic elite has gained control of resources at the expense of the poor majority.35
 * The U.N. Environment Programme projects 50 million environmental refugees
 worldwide by 2010. 36
-
-Nuclear Weapons and Reverence for Life
 
 Death by Preventable Causes (For Perspective)
 *Almost 11 million children die every year from preventable and treatable causes,
@@ -5481,8 +5326,6 @@ infected during unprotected vaginal sex.48
 from HIV/AIDS annually by 2010—more people than have died of AIDS in the U.S.
 since 1981. 50
 
-Chapter Twelve
-
 Over-Fishing & Species Extinction
 *Nearly 75% of the world's fisheries are classified as overexploited, depleted or in a state
 of collapse:
@@ -5515,8 +5358,6 @@ carbon emitter.57
 chemicals.58
 *23 percent of the world's Carbon Dioxide Emissions come from the United States
 alone. Per capita that's 19.8 metric tons.59
-
-Nuclear Weapons and Reverence for Life
 
 * Carbon emissions from U.S. motor gasoline use in 2002—at 1,139 million tons—
 surpassed those of the entire Japanese economy. 60
@@ -5553,8 +5394,6 @@ fell to just 2.9 million barrels a day in 2004. 71
 Portions of this paper have been previously published as "Power Over the Ultimate Evil"
 in Tikkun: A Bimonthly Jewish Critique of Culture, Politics, and Society Nov/Dec 2003
 
-Notes
-
 1. Albert Schweitzer, Reverence for Life: An Anthology of Selected Writing, ed. Thomas
 Kiernan, (New York: Philosophical Library, 1965), 34; Albert Schweitzer, The
 Teachings of Reverence for Life, trans. Richard and Clara Winston (New York: Holt,
@@ -5563,8 +5402,6 @@ Rinehart and Winston, 1965), 27.
 http://www.wagingpeace.org/articles/2003/08/28_elbaradei_interview.htm.
 3. International Court of Justice. The Legality of the Threat or Use of Nuclear Weapons,
 available at http://www.dfat.gov.au/intorgs/icj_nuc/koroma_a.html.
-
-Chapter Twelve
 
 4. George F. Kennan, "A Christian's View of the Arms Race," Theology Today 39:2.
 5. Martin Luther King, Jr., "Peace Prize Lecture" in Frederick W. Haberman, ed. Nobel
@@ -5611,8 +5448,6 @@ http://worldwatch.org/press/news/2005/05/12/.
 32. Wolfensohn, James. Brandeis University Graduation Commencement Address.
 President, World Bank. May 23, 2004.
 
-Nuclear Weapons and Reverence for Life
-
 http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,contentMDK:20214844~me
 nuPK:34472~pagePK:34370~piPK:34424~theSitePK:4607,00.html.
 33. Weiner, Tom. Arms Fiascoes Lead to Alarm Inside Pentagon. New York Times.
@@ -5658,8 +5493,6 @@ http://worldwatch.org/press/news/2005/05/12/.
 http://news.bbc.co.uk/1/hi/sci/tech/702388.stm.
 56. Carbon Emissions and Temperatures Climb. Vital Signs 2003. Worldwatch Institute.
 May 2003, 40-41. http://worldwatch.org/pubs/download/EVS301/.
-
-Chapter Twelve
 
 57. Fossil Fuel Use Up and Vehicle Production Inches Up. Vital Signs 2003.
 Worldwatch Institute. May 2003, 34-35 and 56-57.
@@ -5900,8 +5733,6 @@ leaders to action like seeing that their people have taken action themselves. If
 many people do something wonderful, who knows. Their governments may just
 imitate it.
 
-Notes
-
 1. SIPRI Yearbook 2005. Oxford University Press, 2005. p307. "$5.1 billion would save
 6 million children." The Nation's Health. September 2005. [online]
 http://www.apha.org/tnh/index.cfm?fa=Adetail&id=1236
@@ -6080,8 +5911,6 @@ action to fight these scourges on humanity. Let us follow his lead and let our l
 be our argument. In doing so, we will truly celebrate and honor the life of this
 great man.
 
-Notes
-
 1. Joy, C. R., and M. Arnold. The Africa of Albert Schweitzer, 2nd ed., (London: Adam
 and Charles Black, 1958), 4.
 2. Marshall, G., and D. Poling. Schweitzer: A biography. (Garden City, NY: Doubleday
@@ -6249,8 +6078,6 @@ business ethos, and the patient assumes the role of consumer. Within this ethos,
 the telos and ethics of business are applied to medicine. These now contractually
 defined parameters of services and fees are subject to increasing pressures of a
 
-Chapter Fifteen
-
 litigious environment, and become both determined by this environment and
 reactive to it. Herein, the good of the patient is instrumentalized within a context
 of fiscal and legal ends. The internal morality of medicine, and perhaps the very
@@ -6293,8 +6120,6 @@ toward a defined end with skill and art (techne) and practical wisdom
 should be done for a particular patient. As Reiser (1993) has suggested, "true"
 medicine may begin where technology leaves off. Thus, it is not the impersonal
 use of technology, but techne, the art and skill of the physician, as an expression
-
-A Moral Philosophy of Medicine
 
 of intellectual and moral traits of character in interaction with another person,
 that is the core of the act of medicine.
@@ -6342,8 +6167,6 @@ theological perspective (and
 
 thus perhaps failing
 
-Chapter Fifteen
-
 Individual moral commitment is the basis of his virtue ethics. He maintained
 that personal morality is a reflection of character as the critical element in the
 active promotion of the good. "Ethics is the activity of man directed to secure
@@ -6390,8 +6213,6 @@ If we apply Schweitzer's work to a moral philosophy of medicine, it might
 be able to stand alone as an account of those infused virtues that fulfill a
 dimension of the act of medicine. Conversely, if we frame Schweitzer's virtue
 
-A Moral Philosophy of Medicine
-
 ethics within a larger metaphysical context of medicine as described by
 Pellegrino, and relate this to other (i.e. Aristotelian and Thomist) intellectual
 and moral virtues inherent to that philosophy, we develop an enhanced
@@ -6436,8 +6257,6 @@ Aristotelian notion of virtue was focal to both the underlying conditions of
 character (i.e.- opinion, logos, feeling, pathe) and its habitual expression (ethos;
 Aristotle, trans. Irwin, 1999). The relationship of virtue to action is direct and
 
-Chapter Fifteen
-
 reciprocal: actions arise from choice, and the elements of choice are disposed by
 virtue (Aristotle, trans. Irwin, 1999). Thus the physician who acts as a moral
 agent exercises virtue in the representation of the moral identity of medicine as
@@ -6466,8 +6285,6 @@ Foundation (JG), Center for Clinical Bioethics, Georgetown University,
 Washington, DC (JG) and the Department of Philosophy, Williams College,
 Williamstown, MA (JP).
 
-Works Cited or Consulted
-
 Aristotle. Nicomachean Ethics 2nd Ed. (Irwin T, trans), Indianapolis: Hackett
 
 Publishing, 1999.
@@ -6491,8 +6308,6 @@ Cambridge University Press, 2002.
 Engelhardt, HT. The Foundations of Bioethics, 2nd Ed. New York: Oxford
 
 Univ. Pr, 1996.
-
-A Moral Philosophy of Medicine
 
 Fielding, HA. "The finitude of nature: Re-thinking the ethics of biotechnology."
 
@@ -6556,8 +6371,6 @@ Stempsey, WE. "The philosophy of medicine: Development of a discipline."
 
 Medicine, Healthcare and Philosophy, 2004, 7: 243-251.
 
-Chapter Fifteen
-
 Svenaeus, F. The Hermeneutics of Medicine and Phenomenology of Disease.
 
 Dordrecht, Kluwer, 2000.
@@ -6565,8 +6378,6 @@ Dordrecht, Kluwer, 2000.
 Veatch, RM. "The impossibility of a morality internal to medicine." Journal of
 
 Medicine and Philosophy, 2001, 26 (6): 621-642.
-
-Notes
 
 1. Funk and Wagnall's Standard College Dictionary (Pleasantville, NY: Readers'
 Digest Publishing, 1966), 772.
@@ -6608,8 +6419,6 @@ person. This respect generates an obligation to honor and preserve self-determin
 part of a fundamental good and is therefore consistent with intentions and acts of
 
 In this sense, we characterize practice not as a simple repetition of acts but as an act
-
-A Moral Philosophy of Medicine
 
 beneficence. In relating Schweitzer's Ehrfurcht (i.e.- qua respect) to dignity and
 beneficence, we can see how active (i.e.- doing what is good) and passive (i.e.- not doing
@@ -6995,8 +6804,6 @@ experience the awe and wonder of life itself, enhanced through learning about
 Albert Schweitzer. Hopefully they too will exercise curiosity and reason,
 develop self-reliance, be spiritual, and set a good example.
 
-Works Cited or Consulted
-
 Bähr, Hans Walter, ed. Albert Schweitzer Letters 1905–1965. Translated by
 
 Joachim Neugroschel. New York: Macmillan, 1992.
@@ -7012,8 +6819,6 @@ and Alice R. Bergel, Syracuse: Syracuse University Press, 1997.
 Schweitzer, Albert. Out of My Life and Thought, translated by C. T Campion.
 
 New York: Henry Holt and Co., 1949.
-
-Notes
 
 1. Out of My Life and Thought, Campion translation p.16
 2. Memoirs of Childhood and Youth, Bergel translation p.53
@@ -7427,8 +7232,6 @@ will be the way" is in educational thought, and more importantly, in the
 enactment of this thought in the lives of teachers and students in the schools of
 today and tomorrow.
 
-Works Cited or Consulted
-
 Abrell, R. "Albert Schweitzer: Educator for a season." Contemporary Education
 
 XLVI (1), 28-33, 1974.
@@ -7520,7 +7323,7 @@ Bähr, Hans Walter, ed. Albert Schweitzer Letters 1905 – 1965. Translated by
 
 Joachim Neugroschel. New York: Macmillan, 1992.
 
-Bandazhevskij, Jurij. (cid:571)(cid:602)(cid:615)(cid:606)(cid:602)(cid:608)(cid:607)(cid:604)(cid:619)(cid:612)(cid:610)(cid:611) (cid:600).(cid:578).
+Bandazhevskij, Jurij. ..
 
 http://www.belarustoday.info/?pid=447 (accessed 10 Oct. 10 2005).
 
@@ -7615,8 +7418,6 @@ Culturologija. http://www.philosophy.ru/edu/ref/enc/re.html (accessed 12 Oct.
 
 2005).
 
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
-
 Cvetkov, Igor. Zakljuchenie. http://kds.eparhia.ru/bibliot/shveicer/5/ (accessed
 
 10 Oct. 2005).
@@ -7638,7 +7439,7 @@ Droshneva, Natal'ja. A. Blok - Sovremennik? Filolog. Literaturno-filosofskij
 Al'manakh. Moskva: 1999.
 http://www.philosophy.ru/library/lang/filolog.html (Accessed 12 Oct. 2005).
 
-Efremov, Kirill. Kak Istoriki Ob'jasnjajut Istoriju? Znanie-sila. (cid:651) 3, 2001.
+Efremov, Kirill. Kak Istoriki Ob'jasnjajut Istoriju? Znanie-sila. 3, 2001.
 Ehsenov, M. Kak Nijazov Stal Laureatom Mezhdunarodnoj Premii im. A.
 
 Shweitcera. (Accessed 1 Oct.2005)
@@ -7684,8 +7485,6 @@ Gusejnov, A.A. Ljubite Vragov Nashikh. Voprosy Filosofii.
 http://www.philosophy.ru/library/vopros/20.html (Accessed 10 Oct. 2005).
 Hinrichsen, D and R. Bryant. "Population and the Environment: The Global
 Challenge." Action Bio Science. American Institute of Biological Sciences,
-
-Bibliography
 
 2000. http://www.actionbioscience.org/environment/hinrichsen_robey.html
 (accessed 27 Jul. 2005)
@@ -7761,18 +7560,16 @@ Kaufmann, Walter tr. Goethe's Faust: The Original German and a New
 Translation and Introduction. Garden City, NY: Doubleday Anchor Books,
 1963.
 
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
-
 Kant, Immanuel. The Critique of Practical Reason. Translated by Thomas
 Kingsmill Abbot. http://philosophy.eserver.org/kant/critique-of-practicalreaso.txt (Accessed 2 March 2007).
 
-Karpinskaja, (cid:586).(cid:587). Biologija I Gumanizm. Filosofija Biologii. Vchera, Segodnja,
+Karpinskaja, .. Biologija I Gumanizm. Filosofija Biologii. Vchera, Segodnja,
 
-Zavtra (Pamjati Reginu Semenovnu Karpinskoj). (cid:582)oskva, 1996.
+Zavtra (Pamjati Reginu Semenovnu Karpinskoj). oskva, 1996.
 
 Karpinskaja, R. S. Biophilosophy — new investigation trend // XIX World
 Congress of Philosophy. Moscow, 22–28 Aug. 1993. Vol. 1. Sec. No. 14.
-Khen, J.V. Biofilija I Problema Smerti. In. Biofilofija. (cid:582)oskva: Rossijskaja
+Khen, J.V. Biofilija I Problema Smerti. In. Biofilofija. oskva: Rossijskaja
 
 Akademija Nauk (Institut Filosofii), 1997.
 
@@ -7789,7 +7586,7 @@ Mezhdunarodnoj Nauchnoj Konferencii (18-19 ijunja 1998 g.). Moskva,
 I Okruzhajashchaja
 
 Kuzhecova, I.D. Razdel 5. / Filosofija: Uchebnik. Ed. by V.G. Kuznecov, I.D.
-Kuzhecova, V.V. Mironov, K.K. Momdzjahn. (cid:582)oskva: INFRA-M, 2004.
+Kuzhecova, V.V. Mironov, K.K. Momdzjahn. oskva: INFRA-M, 2004.
 MacCormack, C. "Medicine and anthropology." In Companion Encyclopedia of
 History of Medicine. Edited by W. F. Bynum and R. Porter. London:
 Routledge, 1993.
@@ -7810,7 +7607,7 @@ Makarcev, V.P. Mezhdunarodnaja Tvorcheskaja Organizacija "Samosozidanie."
 http://www.oreola.org/edinom/edinom2/val_petr/sozn_kult.htm (Accessed 2
 Oct. 2005).
 
-Mamontov, S.P. Osnovu Kulturologii. (cid:582)oskva: Olimp, 1999.
+Mamontov, S.P. Osnovu Kulturologii. oskva: Olimp, 1999.
 May, W. F. The Physicians' Covenant, Revised Edition. Philadelphia:
 
 Westminster Press, 2000.
@@ -7826,8 +7623,6 @@ Cambridge: Harvard University Press, 2001.
 Men', A. A. Otvechaet na Voprosu Slushatelej. Moskva: Fond Imeni
 Aleksandra Menja. 1999. http://www.philosophy.ru/library/men/otvety.html
 (Accessed 3 Oct. 3).
-
-Bibliography
 
 Meyer, Marvin and Kurt Bergel. Reverence for Life: The Ethics of Albert
 Schweitzer for the 21st Century. Syracuse, NY: Syracuse University Press,
@@ -7896,8 +7691,6 @@ Oxford University Press, 1981.
 Petrinovich, Lewis. Darwinian Dominion: Animal Welfare and Human
 
 Interests. Cambridge: MIT Press, 2001.
-
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
 
 Phillips, J. "Understanding/explanation." In The Philosophy of Psychiatry: A
 Companion. Edited by J. Radden. New York: Oxford University Press,
@@ -7973,8 +7766,6 @@ Part One) Translted by C.T Campion. London: A&C Black, 1923.
 —. J. S. Bach. Boston: Bruce Humphries Publishers, 1962.
 —. Kultur und Ethik. Munich: C. H. Beck, 1996.
 
-Bibliography
-
 —. "The Ethics of Reverence for Life." In Reverence for Life. Edited by M.
 
 Meyer and K. Bergel. Syracuse University Press, Syracuse, 2002.
@@ -8008,7 +7799,7 @@ Severnuj Medicinskij Gosudarstvennyj Universitet.
 http://www.nsmu.ru/services/?catalogid=435 (Accessed 1 Oct. 2005).
 
 Shatalov, A.T., Oleinikov, U.V. K Probleme Stanovlenija Biofilosofii. In.
-Biofilosofija. (cid:582)oskva: Rossijskaja Akademija Nauk (Institut Filosofii),
+Biofilosofija. oskva: Rossijskaja Akademija Nauk (Institut Filosofii),
 1997.
 
 Sheehan, Helena. "Portrait of a Marxist as a Young Nun." In Marxism and
@@ -8027,7 +7818,7 @@ Sidel, V. W. "Health care in exploited societies." In: The Relevance of Albert
 Schweitzer at the Dawn of the 21st Century. Edited by D. C. Miller and J.
 Pouilliard. Lanham, MD: University Press of America, Inc., 1972.
 
-Sidorina, T.J. Filosofija Krizisa: Uchebnoje Posobie. (cid:582)oskva: Flinta, 2003.
+Sidorina, T.J. Filosofija Krizisa: Uchebnoje Posobie. oskva: Flinta, 2003.
 Silber, K. Pestalozzi.: The man and his work, 2nd ed. London: Routledge and
 
 Kegan Paul, 1965.
@@ -8039,8 +7830,6 @@ Koehler Publishers, 2002.
 State of the World 2004: Consumption By the Numbers. World Watch Institute.
 http://www.worldwatch.org/press/news/2004/01/07/ (accessed 7 January
 2004).
-
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
 
 Steele, Margaret Farley. "What I Did on My Summer Vacation." New York
 
@@ -8113,8 +7902,6 @@ Wilson, E. O. Biophilia. Cambridge: Harvard University Press, 1984.
 —. Consilience: The Unity of Knowledge. New York: Random House/Vintage,
 
 1998.
-
-Bibliography
 
 Wolfensohn, James. Brandeis University Graduation Commencement Address.
 
@@ -8206,8 +7993,6 @@ Sergey A. Kizima is a professor at the Academy of Public Administration under
 the aegis of the President of the Republic of Belarus. He previously served as a
 lecturer at the Minsk Institute of Management and a research fellow at the
 Belarusian State University in the History Department.
-
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
 
 Nikki Lindberg is the former director of programs for the Albert Schweitzer
 Institute for the Humanities and a founder of the Albert Schweitzer Educational
@@ -8481,8 +8266,6 @@ environmental sustainability, 13, 20–
 
 Esquipulas II Accords, 131
 
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
-
 Ethic of Divine Dominion, 70–72, 74–
 
 75, 79nn2–3
@@ -8697,8 +8480,6 @@ Niyazov, Saparmurat, 100–101
 Nobel Peace Prize
 Arias, 131
 ElBaradei, 117, 134
-
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
 
 Sakharov, 101
 Schweitzer, 23, 58, 97, 167
@@ -8918,8 +8699,6 @@ solar energy, 23
 Sorokin, Pitirim, 46
 Spengler, Oswald, 163
 spirituality
-
-Reverence for Life Revisited: Albert Schweitzer's Relevance Today
 
 . see religion
 Straw, Jack, 134

@@ -236,8 +236,6 @@ Index
 
 Introduction
 
-REEF, CITY, WEB
-
 ...as imagination bodiesforth
 
 Theforms of things unknown, thepoet's pen
@@ -277,8 +275,6 @@ don, Darwin is on the precipice, standing on an underwater peak
 ascending over an unfathomable sea. He is on the edge of an idea
 
 about the forcesthat built that peak, an idea that will prove to be the
-
-STEVEN JOHNSON
 
 first great scientific insight of his career. And he has just begun
 
@@ -336,8 +332,6 @@ reef waters, an epic diversity, rivaled only by that of the rain forests,
 
 thrives. This is a true mystery. Why should the waters at the edge
 
-REEF, CITY, WEB
-
 of an atoll support so many different livelihoods? Extract ten thou
 
 sand cubic feet of water from just about anywhere in the Indian
@@ -389,8 +383,6 @@ ate regions, and never cease to rage.") But Darwin has his eye on
 something else—not the violent surge of water but the force that
 
 resists it: the tiny organisms that have built the reef itself.
-
-STEVEN JOHNSON
 
 The ocean throwing its waters over the broad reef appears an
 
@@ -448,8 +440,6 @@ beach, watching the breakers crash against the coral, he knows that
 
 his mentor is wrong about the origin of the atolls. It is not a story
 
-REEF, CITY, WEB
-
 of simple geology, he realizes. It is a story about the innovative
 
 persistence of life. And as he mulls the thought, there is a hint of
@@ -497,8 +487,6 @@ had enough of the restrictions of Zurich society. And so Max
 Kleiber charted a path that would be followed by countless sandalwearing, nonconformist war protesters in the decades to come. He
 
 moved to California.
-
-STEVEN JOHNSON
 
 Kleiber set up shop at the agricultural college run by the Uni
 
@@ -558,8 +546,6 @@ was a rarity in the comparativelymessy world of biology. But the
 
 more species Kleiberand his peersanalyzed, the clearer the equation
 
-REEF, CITY, WEB
-
 became: metabolism scales to mass to the negative quarter power.
 
 The math is simple enough:youtake the square root of 1,000, which
@@ -617,8 +603,6 @@ When they finally crunched the numbers, West and his team
 
 were delighted to discover that Kleiber's negative quarter-powerseal-
 
-STEVEN JOHNSON
-
 ing governed the energy and transportation growth of city living.
 
 The number of gasolinestations, gasolinesales, road surfacearea, the
@@ -675,8 +659,6 @@ average resident of a metropolis with a population of five million
 
 people was almost three times more creative than the average resi-
 
-REEF, CITY, WEB
-
 dent of a town of a hundred thousand. "Great cities are not like
 
 towns only larger," Jane Jacobs wrote nearly fifty years ago. West's
@@ -731,8 +713,6 @@ In the mid-1980s, a number of influential media and technol-
 
 '12
 
-STEVEN JOHNSON
-
 ogy executives, along with a few visionary politicians, had the emi
 
 nently good idea that it was time to upgrade the video quality of
@@ -782,8 +762,6 @@ to keep the committee from anointing a new heir apparent, and so the ACATS group
 that the remaining candidates collaborate ona single standard. Thisgroup—called the Grand
 Alliance—reached agreement on specificationsfor digital high-definition video and audio in
 1995, which the FCC embraced the following year.
-
-REEF, CITY, WEB
 
 mainstream consumer phenomenon for another five years. Even
 
@@ -840,8 +818,6 @@ first commercial AM station began broadcasting in 1920, but it
 wasn't until the late 1920s that radios became a fixture in American
 
 households. Sony inaugurated research into the first consumer videocassette recorder in 1969, but didn't ship its first Betamax for
-
-STEVEN JOHNSON
 
 another seven years, and VCRs didn't become a household necessity
 
@@ -901,8 +877,6 @@ YouTube brought Web video into the mainstream.
 
 Now compare the way these two ideas—HDTV and YouTube—
 
-REEF, CITY, WEB
-
 changed the basic rules of engagement for their respective plat
 
 forms. Going from analog televisionto HDTV is a change in degree,
@@ -961,8 +935,6 @@ by the Macintosh in 1984, the first graphical user interface to reach
 
 a mainstream, if niche, audience. But it wasn't until the release of
 
-STEVEN JOHNSON
-
 Windows 3.0 in 1990-—almost exactly ten years after the Xerox Star
 
 hit the market—that graphical user interfaces became the norm.
@@ -1017,8 +989,6 @@ environments that are powerfully suited for the creation, diffusion,
 
 and adoption of good ideas. Neither environment is perfect, by any
 
-REEF, CITY, WEB
-
 means. (Think of crimerates in big cities, or the explosion of spam
 online.) But both the city and the Webpossess an undeniable track
 
@@ -1068,8 +1038,6 @@ relevant for an understaffed nonprofit, or auto-parts manufacturer, or city gove
 one way to think about the pages that followis as an argument that the particular magic that
 we have seen on the Web has a long history that predates the Web and can be reproduced in
 other environments.
-
-STEVEN JOHNSON
 
 These patterns turn out to have a long history, much older
 
@@ -1131,8 +1099,6 @@ using a metaphor of economic competition to describe the struggles
 
 of ,those sperm cells: the meaning of the word "competition" is
 
-REEF, CITY, WEB
-
 wide (or perhaps deep) enough to encompass sperm cells and cor
 
 porations. The same principle applies to the seven patterns I have
@@ -1191,8 +1157,6 @@ different scales reveals patterns that single-scale observations easily
 
 miss or undervalue.
 
-STEVEN JOHNSON
-
 I call that vantage point the long zoom. It can be imagined as
 
 a kind of hourglass:
@@ -1242,8 +1206,6 @@ diversity of the coral reef by simply studying the genetics of the
 coral itself. The reef generates and sustains so many different forms
 
 of life because of patterns that recur on the scales of cells, organ-
-
-REEF, CITY, WEB
 
 isms, and the wider ecosystem itself. The sources of innovation in
 
@@ -1302,8 +1264,6 @@ cal. I have deliberately chosen the broadest possible phrasing—good
 ideas—to suggest the cross-disciplinary vantage point I am trying
 
 to occupy. The good ideas in this survey range from software plat-
-
-STEVEN JOHNSON
 
 forms to musical genres to scientific paradigms to new models for
 
@@ -1384,8 +1344,6 @@ infants alive, and he knew that the French medical establishment
 had a deep-seated obsession with statistics. And so as soon as his
 
 newborn incubator had been installed at Maternite, the fragile in-
-
-STEVEN JOHNSON
 
 fants warmed by hot water bottles below the wooden boxes, Tarnier
 
@@ -1503,8 +1461,6 @@ You couldn't guarantee a steady supply of spare parts, or trained
 
 repair technicians. So instead, Prestero and his team decided to
 
-STEVEN JOHNSON
-
 build an incubator out of parts that were already abundant in the
 
 developing world. The idea had originated with a Boston doctor
@@ -1563,8 +1519,6 @@ tradition. But ideas are works of bricolage; they're built out of that
 
 detritus. We take the ideas we've inherited or that we've stumbled
 
-THE ADJACENT POSSIBLE
-
 across, and we jigger them together into some new shape. We like
 
 to think of our ideas as $40,000 incubators, shipped direct from the
@@ -1617,8 +1571,6 @@ of life's origins. Some believe life originated in the boiling, metallic
 vents of undersea volcanoes; others suspect the open oceans; others
 
 point to the tidal ponds where Darwin believed life first took hold.
-
-STEVEN JOHNSON
 
 Many respected scientists think that life may have arrived from outer
 
@@ -1673,8 +1625,6 @@ novations that wouldn't evolve on earth for billions of years: chloroplasts to c
 resources through the plant, DNA molecules to pass on sunflowerbuilding instructions to the next generation.
 
 The scientist Stuart Kauffman has a suggestive name for the
-
-THE ADJACENT POSSIBLE
 
 set of all those first-order combinations: "the adjacent possible."
 
@@ -1734,8 +1684,6 @@ to form those bounded spheres, a new wing of the adjacent possible
 
 opens up, because those molecules implicitly create a fundamental
 
-STEVEN JOHNSON
-
 divisionbetween the inside and outside of the sphere. This division
 
 is the very essence of a cell. Once you have an "inside," you can put
@@ -1788,8 +1736,6 @@ history: this relentless pushing back against the barricades of the
 adjacent possible. "Something has obviously happened in the past
 
 4.8 billion years," he writes. "The biosphere has expanded, indeed,
-
-THE ADJACENT POSSIBLE
 
 more or less persistently exploded,into the ever-expanding adjacent
 
@@ -1844,8 +1790,6 @@ more commercial exploration of the adjacent possible than towns
 or villages, allowing tradesmen and entrepreneurs to specialize in
 
 fields that would be unsustainable in smaller population centers.
-
-STEVEN JOHNSON
 
 '
 
@@ -1905,8 +1849,6 @@ while the impact of X-rays on mutation rates was independently
 
 uncovered by two scholars in 1927.The telephone, telegraph, steam
 
-THE ADJACENT POSSIBLE
-
 engine, photograph vacuum tube, radio—just about every essential
 
 technological advance of modern life has a multiple lurking some
@@ -1962,8 +1904,6 @@ the saying goes, "in the air," but only because a specific set of prior
 
 discoveries and inventions had made that experiment thinkable.
 
-STEVEN JOHNSON
-
 FTlhe adjacent possibleis asmuch aboutlimits asit is about open-
 JL ings. At every moment in the timeline of an expanding bio
 sphere, there are doors that cannot be unlocked yet. In human
@@ -2015,8 +1955,6 @@ his lifetime. The first was his Difference Engine, a fantastically
 complex fifteen-ton contraption, with over25,000mechanical parts,
 
 designed to calculate polynomial functions that were essential to
-
-THE ADJACENT POSSIBLE
 
 creating the trigonometric tables crucial to navigation. Had Bab
 
@@ -2073,8 +2011,6 @@ was so complicated that it never got past the blueprint stage, save a
 small portion that Babbage built shortly before his death in 1871.
 
 The Analytical Engine was—on paper, at least—the world's first
-
-STEVEN JOHNSON
 
 programmable computer. Bemgprogrammablemeant that the ma
 
@@ -2134,8 +2070,6 @@ say it is that his ideas had escapedthe bounds of the adjacent possible.
 
 But it is perhaps better put in more prosaic terms: Babbage simply
 
-THE ADJACENT POSSIBLE
-
 \
 
 didn't have the right spare parts.Even if Babbagehad built a machine
@@ -2185,8 +2119,6 @@ the vast majority of Web users were on painfully slow dial-up con
 
 nections that could sometimes take minutes to download a small
 image. (The average two-minute-long YouTube clip would have
-
-STEVEN JOHNSON
 
 taken as much as an hour to download on the then-standard 14.4
 
@@ -2239,8 +2171,6 @@ thing magical, something new. It need not be the epic advances of
 biological diversity, or the invention of programmable computing.
 
 Unlocking a new door can lead to a world-changing scientificbreak-
-
-THE ADJACENT POSSIBLE
 
 through, but it can alsolead to a more effectivestrategy for teaching
 
@@ -2300,8 +2230,6 @@ bers" on board, but these filters were designed for the original,
 
 damaged spacecraft, and don't fit the air ventilation system of the
 
-STEVEN JOHNSON
-
 lunar module they are using as a lifeboat to return home. Mission
 
 Control quickly assembles what it calls a "tiger team" of engineers
@@ -2360,8 +2288,6 @@ thoughts. The trick is to get more parts on the table.
 
 II.
 
-LIQUID NETWORKS
-
 sH'
 
 PTlhere are a dozen different metaphors we use colloquially to
@@ -2396,8 +2322,6 @@ ing line for a novel, or a feature for a software application. If we're
 going to try to explain the mystery of where ideas come from, we'll
 
 46 v
-
-STEVEN JOHNSON
 
 have to start by shaking ourselves free of this common misconcep
 
@@ -2453,8 +2377,6 @@ experience: some connections help regulate our heartbeat and trig
 ger reflex reactions; others conjure up vivid sense memories of the
 
 cookies we ate as children; others help us invent the concept of a
-
-LIQUID NETWORKS
 
 programmable computer. The connections are the key to wisdom,
 
@@ -2512,8 +2434,6 @@ astrobiologists—scientists who study the possibility of life else
 
 where in the universe—believe that if we are ever to discover con-
 
-STEVEN JOHNSON
-
 vincing evidence of extraterrestrial life, be it on Mars or in some
 
 distant galaxy, it, too, will turn out to be carbon-based.
@@ -2569,8 +2489,6 @@ imagine how the first organisms would have evolved. Those four
 valence electrons allowed the prebiotic earth to explore its own ad
 
 jacent possible, sifting through the long list of potential molecular
-
-LIQUID NETWORKS
 
 combinations until it hit upon a series of stable chemical reactions
 
@@ -2692,8 +2610,6 @@ connector, but without a medium that allows it to collide randomly
 
 with other elements, those connective powers are likely to go to
 
-LIQUID NETWORKS
-
 SI
 
 waste. All those spectacular polymer chains would remain unreal
@@ -2757,8 +2673,6 @@ t
 
 S2
 
-STEVEN JOHNSON
-
 which chemistry and physics gave way to biology. When the first
 
 lipids self-assembled, they unlocked a door that would ultimately
@@ -2810,8 +2724,6 @@ capableof preserving useful structures for long periods of time.
 There is a prediction (albeit retroactive) lurking in this idea
 
 of the liquid network, as well as in the premise that innovative
-
-LIQUID NETWORKS
 
 S3
 
@@ -2874,8 +2786,6 @@ change, we need to put it in some kind of perspective, by measuring
 the speed of innovation before the first cities were settled. So let us
 
 S4
-
-STEVEN JOHNSON
 
 condense seventy thousand years of innovation Into a single time
 
@@ -2942,18 +2852,18 @@ m£&-^::'o:^
 ^^^A
 
 en Nft
-(cid:127)-&•(cid:127)•'(cid:127)•*
+-&••'•*
 
 ^
 
 :.£;
 
-.(cid:127)•(cid:127)J&.-:;>"-.-
+.•J&.-:;>"-.-
 
 o
 in
-(cid:127):©(cid:127);
-(cid:127)-p.'.'
+:©;
+-p.'.'
 
 "-CD: '
 
@@ -2968,17 +2878,15 @@ o
 Wm^ o
 :<t::m- -
 ;::;:-,$L" ,' ::v;<N
-* (cid:127)
-(cid:127)>='<-0
-,;.V:;(cid:127);(cid:127)
-#§0&&;-
+* >='<-0
+,;.V:;;#§0&&;-
 §8K-":V:
 O
 ais®^ '^S?
 rO^'-,,.:
-;:£*-(cid:127)*'
+;:£*-*'
 fei^iU :: V.^O
-M£llM<:v,;.. '(cid:127)VO-
+M£llM<:v,;.. 'VO-
 £fc<2^ .
 o
 :pf>-?^: . •:-:':"'0
@@ -2986,23 +2894,20 @@ o
 CO
 
 &=-£r\
-(cid:127)**•
--(cid:127)
-7'-vO-.-
-.(cid:127);•::=-'•(cid:127)
-
-(cid:127)'.(cid:127),..
+**•
+-7'-vO-.-
+.;•::=-'•'.,..
 
 #^;:
 VSIWtJV>-V>
-<(cid:127)v;<'v';C ' VI
+<v;<'v';C ' VI
 Wm?c.:^:
 
 «>^::.\%f'-.:<:-'^
 vmm^-'
 W^lf:
 
-(cid:127):-::Y-X>-:-
+:-::Y-X>-:-
 ^/.m: :
 
 O
@@ -3010,43 +2915,24 @@ DQ
 
 o
 
--(cid:127)
+-•'©
 
-(cid:127)•'©
-
-CD
 A-:-.o
 
 o
-CD
 
 o
-CD
 
-(cid:127) OY
+OY
 
 m
 v;o'-;-
 
-(cid:127).©
+.©
 
 O
 
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-
 S6
-
-STEVEN JOHNSON
 
 flow of good ideas. It is not a coincidence that Northern Italy was
 
@@ -3105,8 +2991,6 @@ Now the cornerstone of all financial bookkeeping, double-entry's
 innovation of recording every financial event in two ledgers (one
 
 reflecting a debit, the other a credit) allowed merchants to track
-
-LIQUID NETWORKS
 
 S7
 
@@ -3168,8 +3052,6 @@ most elemental math: no matter how smart the "authorities" may
 
 S8
 
-STEVEN JOHNSON
-
 be, if they are outnumbered a thousand to one by the marketplace,
 
 there will be more good ideas lurking in the market than in the
@@ -3221,8 +3103,6 @@ explain how breakthrough ideas in science and art come about.
 lieved was closely related to the more erudite inspiration of the
 
 poets and physicists.) Koestler's survey extends from Archimedes to
-
-LIQUID NETWORKS
 
 S9
 
@@ -3283,8 +3163,6 @@ Kevin Dunbar decided to take another approach: instead of reading
 
 biographies or theorizing in the lab or listening to scientists recount
 
-STEVEN JOHNSON
-
 their greatest hits, he would actually watch them as they worked.
 
 Dunbar's research style was closer to the reality show Big Brother
@@ -3341,8 +3219,6 @@ scientists working on different projects who recognize a surprising
 and important connection between their work.
 
 The most striking discovery in Dunbar's study turned out to
-
-LIQUID NETWORKS
 
 be the physical location where most of the important breakthroughs
 
@@ -3456,8 +3332,6 @@ backs as working entirely in your private lab. A better model might
 
 be MIT's legendary Building 20, the temporary structure built dur-
 
-LIQUID NETWORKS
-
 ing World War II that somehow managed to last fifty-five years, in
 
 part because it had an extraordinary track record for cultivating
@@ -3516,8 +3390,6 @@ structures.
 
 In November of 2007, Microsoft opened the doors to the new
 
-STEVEN JOHNSON
-
 Redmond, Washington—basedheadquarters of its research division:
 
 Building 99. Created by a Microsoft designer named Martha Clarkson after deep collaboration with the tinkerers and multidisciplinarians of the research division, Building 99 was created from the
@@ -3569,8 +3441,6 @@ to think that this space was designed to conjure up a different kind
 of flow: the collective flow of energized minds forming liquid net
 
 works in their mixing spaces and situation rooms. Building 99—like
-
-LIQUID NETWORKS
 
 . 6S
 
@@ -3645,8 +3515,6 @@ the New York Times ran an op-ed titled "The Declining Terrorist
 
 Threat.") Williamshad been inspiredto write the memo by a pattern
 
-STEVEN JOHNSON
-
 he had detected over the preceding year: an "inordinate number" of
 
 people of "investigative interest" who had registered for various
@@ -3700,8 +3568,6 @@ other aviation institutions around the country, and flag anyone at
 tempting to obtain a visa to attend one of these schools.
 
 Though it had been addressed to several high-level offices,
-
-THE SLOW HUNCH
 
 including that of David Frasca, the head of the Radical Fundamen
 
@@ -3758,8 +3624,6 @@ one that emerged three weeks later and five hundred miles away
 the Phoenix memo might well have transformed the history of the
 
 early twenty-first century.
-
-STEVEN JOHNSON
 
 You can learn a great deal about the history of innovation by
 
@@ -3871,8 +3735,6 @@ he claimed no interest in ever flying a real plane. The Pan Am
 
 employees contacted the FBI, and after a quick background check,
 
-STEVEN JOHNSON
-
 Moussaoui was arrested on immigration violations at a motel on
 
 August 16. An interrogation convinced the field agents, led by
@@ -3930,8 +3792,6 @@ have certainly supplied enough probable cause to justify examining
 the contents of Zacarias Moussaoui's laptop. And had the agents
 
 examined his belongings, they would have uncovered direct connec-
-
-THE SLOW HUNCH
 
 7S
 
@@ -3991,8 +3851,6 @@ thing more sublime: they help complete ideas.
 
 The real problem with Ken Williams's hunch was not that it
 
-STEVEN JOHNSON
-
 failed to envision the exact details or the imminence of the 9/11
 
 plot, or even that his recommendations would have failed to prevent
@@ -4044,8 +3902,6 @@ intuitive snap judgments produced startlingly irrational behavior.
 Malcolm Gladwell's bestseller Blink focused almost exclusively on
 
 the power (and the occasional danger) of the instant hunch: the art
-
-THE SLOW HUNCH
 
 historian who knows in a second that the ancient sculpture is a
 
@@ -4105,8 +3961,6 @@ one of the founding discoveries of modern ecosystem science—he
 
 was building on a hunch that he'd been cultivating for twenty years,
 
-STEVEN JOHNSON
-
 dating back to his boyhood obsessionwith trapping spiders in" glass
 
 jars. He'd had a hunch that there was something interesting in the
@@ -4159,8 +4013,6 @@ his great moment of insight as a young man struggling to under
 
 stand the evolution of life:
 
-THE SLOW HUNCH
-
 In October 1838, that is, fifteen months after I had begun my
 
 systematic enquiry, I happened to read for amusement Malthus on Population, and being well prepared to appreciate the
@@ -4210,8 +4062,6 @@ chologist and intellectual historian named Howard Gruber decided
 to revisit Darwin's copious notebooks from the period, reconstruct
 
 ing the elaborate dance of speculation, fact-marshaling, and inter-
-
-STEVEN JOHNSON
 
 nal debate that led to Darwin's breakthrough in the fall of 1838.
 
@@ -4273,8 +4123,6 @@ journal entries on September 28 are suitably excited, and do seem
 
 to grapple with the fundamental elements of the theory:
 
-THE SLOW HUNCH
-
 Population is increase at geometrical ratio in FAR SHORTER
 
 time than 25 ... The final causeof all this wedging,must be to
@@ -4330,8 +4178,6 @@ incapable of fully thinking it. This is how slow hunches often ma
 ture: by stealth, in small steps. They fade into view.
 
 This pattern recurs with the other iconographic story of Dar-
-
-STEVEN JOHNSON
 
 win's intellectual journey: his formative months observing the
 
@@ -4391,8 +4237,6 @@ it with a precision that no human had ever attempted before. But it
 
 took him five months to realize why it was important.
 
-THE SLOW HUNCH
-
 Keeping a slow hunch alive poseschallenges on multiple scales.
 
 For starters, you have to preserve the hunch in your own
@@ -4447,8 +4291,6 @@ whole new set of notes that will onlymake complete senseto Darwin
 
 two years later, after the Malthus episode.
 
-STEVEN JOHNSON
-
 Darwin's notebooks lie at the tail end of a long and fruitful
 
 tradition that peaked in Enlightenment-era Europe, particularly in
@@ -4502,8 +4344,6 @@ When I meet with any thing, that I think fit to put into my
 common-place-book, I first find a proper head. Suppose for
 
 example that the head be EPISTOLA, I look unto the index
-
-THE SLOW HUNCH
 
 8S
 
@@ -4563,8 +4403,6 @@ The tradition of the commonplace book contains a central ten
 
 sion between order and chaos, between the desire for methodical
 
-STEVEN JOHNSON
-
 arrangement, and the desire for surprising new links of associa
 
 tion. For some Enlightenment-era advocates, the systematic index
@@ -4617,8 +4455,6 @@ activities. They belonged to a continuous effort to make sense
 
 of things, for the world was full of signs: you could read your
 
-THE SLOW HUNCH
-
 %. way through it; and by keeping an accountof your readings, you
 
 made a book of your own, one stamped with your personality.
@@ -4668,8 +4504,6 @@ memorable title EnquireWithin UponEverything. The frontispiece
 text for the book, first published in 1865, hints at the immense col
 
 lection of domestic resources it contained:
-
-STEVEN JOHNSON
 
 Whetheryou wish tomodel a,flower in wax; tostudytherules of
 
@@ -4725,8 +4559,6 @@ tion about people or projects as nodes in a connected network. It was
 
 easy to attach two-way pointers between nodes, so if you pulled up
 
-THE SLOW HUNCH
-
 a person's name, you could instantly see all the projects he or she
 
 was working on. The application proved to be genuinely informa
@@ -4780,8 +4612,6 @@ tell them there was no "Eureka!" moment . . . Inventing the
 World Wide Web involved my growing realization that there was
 
 a power in arranging ideas in an unconstrained, weblike way.
-
-STEVEN JOHNSON
 
 And that awareness came to me through precisely that kind of
 
@@ -4837,8 +4667,6 @@ and refine his ideas by conversing with other early hypertext in
 
 novators. That combination of flexibility and connection gave Ber-
 
-THE SLOW HUNCH
-
 ners-Lee critical support for his idea. He needed a work environment
 
 that carved out a space for slow hunches, cordoned off from all the
@@ -4892,8 +4720,6 @@ human brain.
 The failure of those two networks to connect the Phoenix and
 
 Minnesota hunches was partly attributable to the practically medi-
-
-STEVEN JOHNSON
 
 eval information technology employed by the FBI. But even if the
 
@@ -4951,8 +4777,6 @@ mated Case Support system wasn't just incompetent at creative
 
 tangle; the system was explicitly designed to eliminate it.
 
-THE SLOW HUNCH
-
 9)
 
 ""n 1980, to allude to Enquire Within Upon Everything in the
@@ -5009,8 +4833,6 @@ in India and Brazil, originated in the Innovation Time Off of a
 
 Turkish Google engineer named Orkut Biiyukkokten. Google's pop-
 
-STEVEN JOHNSON
-
 ular mail platform, Gmail, has roots in an Innovation Time Off
 
 project as well. Marissa Mayer, Google's vice president of Search
@@ -5066,8 +4888,6 @@ system that could have connected the dots between the Phoenix
 
 memo and the Moussaoui investigation. Bharat had a hunch in his
 
-THE SLOW HUNCH
-
 mind that there was a better way to organize the information net
 
 work of news, and what he built turned out to be a tool that could
@@ -5117,8 +4937,6 @@ senger—a neurotransmitter, like dopamine or serotonin-—that floats
 across to the receiving neuron and ultimately triggers another elec
 
 trical charge, which travels out to other neurons in the brain.
-
-STEVEN JOHNSON
 
 The hybrid electrochemical nature of nerve communication
 
@@ -5175,8 +4993,6 @@ in the morning that during the night I had written down some
 thing most important, but I was unable to decipher the scrawl.
 
 The next night, at three o'clock, the idea returned. It was the
-
-SERENDIPITY
 
 i
 
@@ -5236,8 +5052,6 @@ this sense, Freud had it backward with his notion of dreamwork:
 
 the dream is not somehow unveiling a repressed truth. Instead, it is
 
-STEVEN JOHNSON
-
 exploring, trying to find new truths by experimenting with novel
 
 combinations of neurons.
@@ -5296,8 +5110,6 @@ seventeen years. In part, his epiphany was made possible by the
 
 random connections of REM sleep. Yet it was also made possible by
 
-SERENDIPITY
-
 a slow hunch that had been lingering in the back of his mind for
 
 almost two decades.
@@ -5349,8 +5161,6 @@ derstanding the original innovations of life itself.
 FIT!he waking brain, too, has an appetite for the generative chaos
 -L that rules in the dream state. Neurons share information by
 passing chemicals across the synaptic gap that connects them, but
-
-STEVEN JOHNSON
 
 they also communicate via a more indirect channel: they synchro
 
@@ -5405,8 +5215,6 @@ as twenty IQ points. Longer spells in phase-lock deducted IQ points,
 though not as dramatically.
 
 Thatcher's study suggests a counterintuitive notion: the more
-
-SERENDIPITY
 
 10S
 
@@ -5510,8 +5318,6 @@ evolution is not just a game of sheer quantity. Overpopulation, after
 all, poses its own dangers, and a community of organisms with
 identical DNAmakes a prime target for parasites or predators. For
 
-SERENDIPITY
-
 these reasons, natural selection also rewards innovation, life's ten
 
 dency to discovernew ecologicalniches, new sources of energy. This
@@ -5563,8 +5369,6 @@ ing times, an organism needs new ideas to meet those new chal
 lenges. Reproducing asexually makes perfect sense during pros
 perous periods: if life is good, keep doing what you're doing. Don't
 
-STEVEN JOHNSON
-
 mess with success by introducing new genetic combinations. But
 when the worldgetsmore challenging—scarce resources, predators,
 parasites—you need toinnovate. Andthequickest path toinnovation
@@ -5601,8 +5405,6 @@ bearings serendipitously."
 But serendipity is not just about embracing random encoun
 ters for the sheerexhilaration of it. Serendipity is built out of happy
 accidents, to be sure, but what makes them happy is the fact that
-
-SERENDIPITY
 
 the discovery you've made is meaningful to you. It completes a
 
@@ -5656,8 +5458,6 @@ inside your own mind seems like a contradiction in terms. Wouldn't
 
 that be like losing your bearings in your own driveway? Yet that's
 
-STEVEN JOHNSON
-
 exactly what Kekule was doing by the fire. He was connecting two
 distinct thoughts that each occupied a slot in his memory banks:
 the riddle of benzene's molecular structure, andthe tail-swallowing
@@ -5696,8 +5496,6 @@ tions do not exist; for fifteen days he struggles at his desk with no
 
 success. Then one evening he breaks from his ordinary routine and
 drinks black coffee. Unable tosleep, hismindseethes withpromising
-
-SERENDIPITY
 
 hunches. "Ideas rose in crowds," Poincare writes. "I felt them collide
 until pairs interlocked, soto speak, makinga stablecombination. By
@@ -5745,8 +5543,6 @@ desk, the innovations seem to grind to a halt. But on foot, his ideas
 
 reaches for an atomic metaphor, with each partial idea or hunch
 
-STEVEN JOHNSON
-
 represented by an atom hooked to a wall. In normal situations, the
 
 atoms remain in place,lockedinto a stable configuration. But when
@@ -5785,10 +5581,6 @@ sions between the ideas of multiple authors. One way around this
 limitation is to carve out dedicated periods where you read a large
 and varied collection of books and essaysin a condensed amount of
 time. Bill Gates (and his successor at Microsoft, Ray Ozzie) are fa-
-
-SERENDIPITY
-
-ID
 
 mous for taking annual reading vacations. During the year they
 
@@ -5839,8 +5631,6 @@ discoveries, hunches waiting to make a connection. Some of them
 
 are passagesthat I've transcribed from booksor articles; others were
 
-STEVEN JOHNSON
-
 clipped directly from Web pages. (In the past few years, thanks to
 Google Books and the Kindle, copying and storinginterestingquotes
 from a book has grown far simpler.) I keep all these quotes in a da
@@ -5883,8 +5673,6 @@ each other. This can create almost lyrical connections between ideas.
 
 Several years ago,I was working on a book about cholera in London
 and queried DEVONthink for information about Victorian sewage
-
-SERENDIPITY
 
 systems. Because the software had detected that the word "waste"
 
@@ -5936,8 +5724,6 @@ remarkable facility for interpreting facial expressions. I then plug
 that paragraph into the software, and ask DEVONthink to find
 other passages in my archive that are similar. Instantly, a list of
 
-STEVEN JOHNSON
-
 quotes appears on my screen: some delving into the neural architec
 
 ture that triggers facial expressions, others exploringthe evolution
@@ -5982,8 +5768,6 @@ evitably something tantalizing catchesyour eye. "Jumbled" and "dis
 
 connected" is of course also how we describe the strange explorations
 of our dreams, and the comparison is an apt one.DEVONthink takes
-
-SERENDIPITY
 
 the strange but generative combinations of the dream stateandturns
 
@@ -6032,8 +5816,6 @@ looking for—is one of life's great pleasures, and so far no soft
 
 ware exists that can duplicate that experience.
 
-STEVEN JOHNSON
-
 In a similar piece, the New York Times technology editor,
 Damon Darlin, complained that the "digital age is stamping out
 serendipity." Darlin acknowledged the vast influx of suggested
@@ -6077,8 +5859,6 @@ ity involves the physical limitations of the print newspaper, whicrr
 forces you to pass by a collection of artfully curated stories on a
 
 variety of topics, before you open up the section that most closely
-
-SERENDIPITY
 
 matches your existing passions and knowledge. The legal scholar
 
@@ -6133,8 +5913,6 @@ nections while scanning the front page, then the Web is more than
 
 ten times as serendipitous as the classic print newspaper.
 
-STEVEN JOHNSON
-
 Sunstein would no doubt argue that many people bypass the
 front door of their online newspaper, going directlyto the sports or
 
@@ -6181,8 +5959,6 @@ fully slowto follow in the age of print media. Ironically, the problem
 with the Web is that there's too much noise, too much chaos—that's
 
 why the filters were invented in the first place. We have filters be-
-
-SERENDIPITY
 
 cause the Web has unleashed too much diversity and surprise, not
 
@@ -6298,8 +6074,6 @@ for the search term "global warming." And you would instantly have
 
 more information (and more perspectives) at your fingertips than
 
-SERENDIPITY
-
 would have been imaginable when you were thumbing through the
 
 Britannica in 1980. Yes, these results are targeted to your expressed
@@ -6351,8 +6125,6 @@ rights management, intellectual property, trade secrets, proprietary
 technology. But they share a founding assumption: that in the long
 
 run, innovation will increase if you put restrictions on the spread of
-
-STEVEN JOHNSON
 
 new ideas, because those restrictions will allow the creators to collect
 
@@ -6407,8 +6179,6 @@ enforce the restrictions in cases of patent infringement, but it was also intend
 goodideasto spreadmore freely, bymakingthem part of the publicrecord. Unfortunately, the
 modern emergence of patent trolls and squatters, supported by overzealousintellectual property
 lawyers, means that the protective side of patent law has dominated the connective side.
-
-SERENDIPITY
 
 ing movement in some forward-thinking companies to turn their
 
@@ -6465,8 +6235,6 @@ to a sustainable future. In collaboration with Creative Commons,
 Nike released its patents under a modified license permitting use in
 
 "non-competitive" fields. (They also created a standardized, pre-
-
-STEVEN JOHNSON
 
 negotiated contract for the patents, thereby reducing the transaction
 
@@ -6526,8 +6294,6 @@ gether, but the odds are against it. Imagine some kind of alternate
 
 reality where the FBI holds a corporate retreat in late August of
 
-SERENDIPITY
-
 2001, and invites the field agents from Arizona and Minnesota to
 
 sit in a room together and brainstorm new potential threats against
@@ -6585,8 +6351,6 @@ visible to everyone else in the organization, not just management.
 Other employees can comment or expand on those ideas, connecting
 
 them with their own hunches about new products or priorities or
-
-STEVEN JOHNSON
 
 internal organizational changes. Some systems even allow employ
 
@@ -6678,8 +6442,6 @@ the century,the spark gap transmitter wasthe most essential of gad
 
 gets. Hertz and Marconi's original explorations of the electromag-
 
-STEVEN JOHNSON
-
 netic spectrum had relied on spark gaps. The device employed two
 
 electrodes separated by a small gap. A battery attached to the elec
@@ -6736,8 +6498,6 @@ radio, television, and the first digital computers possible. In 1903,
 he began a series of failed experiments with placing two electrodes
 
 in gas-filled glass bulbs. He continued tinkering with the model,
-
-ERROR
 
 until, several years later, he hit upon the idea of placing a third
 
@@ -6797,8 +6557,6 @@ a slow hunch, until he hits upon a contraption that changes the
 
 world. But telling the story that way misses one crucial fact: that at
 
-STEVEN JOHNSON
-
 almost every step of the way, de Forest was flat-out wrong about
 
 what he was inventing. The Audion was not so much an invention
@@ -6854,8 +6612,6 @@ the 1830s,Louis Daguerre spent years trying to coax images out of
 iodized silver plates. One night, after another futile attempt, he
 
 stored the plates in a cabinet packed with chemicals; to his wonder
-
-ERROR
 
 the next morning, the fumes from a spilled jar of mercury produced
 
@@ -6915,8 +6671,6 @@ to replace the vacuum tube. One day, while working on the device,
 
 Greatbatch happened to grab the wrong resistor. When he plugged
 
-STEVEN JOHNSON
-
 it into the oscillator it began to pulse in a familiar rhythm. Thanks
 
 to Greatbatch's error, the device was simulating the beat of a human
@@ -6972,8 +6726,6 @@ hand experience as an inventor himself, described the prominence
 
 of error in his Principles of Science, first published in 1874:
 
-ERROR
-
 It would be an errorto suppose that the great discoverer seizes
 
 at once upon the truth, or has any unerring method of divining
@@ -7025,8 +6777,6 @@ Thomas Kuhn makes a comparable argument for the role of
 errorin The Structure of Scientific Revolutions. Paradigm shifts, in
 
 Kuhn's argument, begin with anomalies in the data, when scientists
-
-STEVEN JOHNSON
 
 find that their predictions keep turning out to be wrong. When
 
@@ -7086,8 +6836,6 @@ Transforming error into insight turned out to be one of the key
 
 functions of the lab conference. In Dunbar's research, outsiders
 
-ERROR
-
 working on different problems were much less likely to dismiss the
 
 apparent error as useless noise. Coming at the problem from a dif
@@ -7139,8 +6887,6 @@ Nemeth asked them to free-associate on the color they had per
 ceived in the slides.
 
 There are few actionsas commonly connectedto the pursuit of
-
-STEVEN JOHNSON
 
 creativity as free-associating. Trying to come up with a new slogan
 
@@ -7194,8 +6940,6 @@ when tested.
 CharlanNemeth's experiment wasa perfectembodiment of this
 
 predictability. Blue slides triggered utterly conventional word asso-
-
-ERROR
 
 ciations: "sky" and "green" and "color" dominated, while the more
 
@@ -7253,10 +6997,6 @@ rooms in the adjacent possible, even though they were, technically
 
 speaking, adding incorrect data to the environment.
 
-STEVEN JOHNSON
-
-I
-
 Nemeth has gone on to document the same phenomenon at
 
 work in dozens of different environments: mock juries, boardrooms,
@@ -7306,8 +7046,6 @@ to say "to err is human.".Error is what made humans possible in the
 first place.
 
 The prominence of random mutation in our evolutionary his-
-
-ERROR
 
 tory has long been associated with Darwin's original theory, but the
 
@@ -7367,8 +7105,6 @@ of error.
 
 Too much error is deadly, of course, which is why your cells
 
-STEVEN JOHNSON
-
 contain elaborate mechanisms for repairing damaged DNA and for
 
 ensuring that the transcoding process is accurate down to the last
@@ -7426,8 +7162,6 @@ base pairs, which means each time parents pass their DNA on to a
 child, that genetic inheritance comes with roughly 150 mutations.
 
 Much of the machinery in our cells is devoted to preserving and
-
-ERROR
 
 reproducing the signal of the genetic code. But evolution has still
 
@@ -7487,8 +7221,6 @@ teria have less of a need for high mutation rates, because their
 
 current strategies are well adapted to their environment. But when
 
-STEVEN JOHNSON
-
 the environment grows more hostile, the pressure to innovate—to
 
 stumble across some new way of eking out a living in a resourcepoor setting—shifts the balance of risk versus reward involved in
@@ -7544,8 +7276,6 @@ its genes on to the next generation. The trouble is, that next gen
 eration gets a mixed inheritance: it inherits the new scavenging
 
 gene, but it also inherits the gene that produces higher mutation
-
-ERROR
 
 rates. Because negative mutations are much more likely than posi
 
@@ -7606,8 +7336,6 @@ on free association and jury deliberation. When one of our peers
 calls the blue painting green, or comes to the defense of a suspect
 
 who is clearly guilty, he or she is, technically speaking, introducing
-
-STEVEN JOHNSON
 
 more inaccurate information to the environment. But that noise
 
@@ -7695,8 +7423,6 @@ that it survived intact through the Dark Ages. When the Renais
 
 sance finally blossomed, more than a millennium after Pliny's de-
 
-STEVEN JOHNSON
-
 mise, Europe had to rediscover Ptolemaic astronomy and the se
 
 crets of building aqueducts. But they didn't have to relearn how to
@@ -7754,8 +7480,6 @@ press itself—had been developed separately well before Gutenberg
 
 printed his first Bible. Movable type, for instance, had been inde-
 
-EXAPTATION
-
 pendently conceived by a Chinese blacksmith named Pi Sheng four
 
 centuries before. But the Chinese (and, subsequently, the Koreans)
@@ -7804,8 +7528,6 @@ engine for mass communication.
 "" HP volutionary biologists have a word for this kind of borrowing,
 -I—Jfirst proposed in an influential 1971 essay by Stephen Jay
 Gould and Elisabeth Vrba: exaptation. An organism developsa trait
-
-STEVEN JOHNSON
 
 optimized for a specific use, but then the trait gets hijacked for a
 
@@ -7865,8 +7587,6 @@ erty with major implications for survival, those asymmetrical vanes
 
 turn out to be extremely useful. Where asymmetry had previously
 
-EXAPTATION
-
 drifted in and out of the gene pool, natural selection now begins
 
 sculpting those feathers to make them more aerodynamic. A feather
@@ -7923,8 +7643,6 @@ exaptations become possible because other exaptations are happen
 
 ing within the species: the wing itself is thought to be an exaptation
 
-STEVEN JOHNSON
-
 of a dinosaur wrist bone originally adapted for greater flexibility.
 
 When Gould offered up his tires-to-sandals metaphor, he was es
@@ -7976,8 +7694,6 @@ ancient swim-fan origins, as in the flippers of seals and sea lions.
 new possibilities that lurk behind those doors. A match you light to
 
 illuminate a darkened room turns out to have a completely different
-
-EXAPTATION
 
 use when you open a doorway and discover a room with a pile of
 
@@ -8034,8 +7750,6 @@ tubes inside ENIAC, doing the math on the physics of a hydrogen
 bomb—they were serving a function that never crossed de Forest's
 
 mind, however imaginative it might have been. Today, emerging
-
-STEVEN JOHNSON
 
 patent marketplaces like Nike's GreenXchange are enabling com
 
@@ -8095,8 +7809,6 @@ the device turns out to have a different function, far removed from
 
 its original use. The French novelist Edouard Dujardin first uses
 
-EXAPTATION
-
 the "stream of consciousness" technique in his 1888novel LesLaurierssontcoupes; in Dujardin's rendition, the technique is restricted
 
 to short periods of introspection between the main events of the
@@ -8153,8 +7865,6 @@ ported from religion; he imagined the sun, stars, and the dark space
 
 between them as the celestial equivalents of the Father, Son, and
 
-STEVEN JOHNSON
-
 Holy Ghost. When computer science pioneers like Doug Engelbart
 
 and Alan Kay invented the graphical interface, they imported a
@@ -8208,8 +7918,6 @@ critical mass to survive; they atrophy in smaller communities not
 because those communities are more repressive, but rather because
 
 the odds of finding like-minded people are much lower with a
-
-EXAPTATION
 
 smaller pool of individuals. If one-tenth of one percent of the
 
@@ -8267,8 +7975,6 @@ strange, the large with the small. Wherever lively and popular
 
 parts of cities are found, the small much outnumber the large.
 
-STEVEN JOHNSON
-
 Both Fischer and Jacobs emphasize the fertile interactions that
 
 occur between subcultures in a dense city center, the inevitable
@@ -8325,8 +8031,6 @@ Wednesday nights at 19 Berggasse in Vienna, where physicians, phi
 
 losophers, and scientists gathered to help shape the emerging field
 
-EXAPTATION
-
 of psychoanalysis. Think, too, of the Paris cafes where so much of
 
 modernism was born; or the legendary Homebrew Computer Club
@@ -8378,8 +8082,6 @@ nadir—of its rioting, Son of Sam—fearing, bankruptcy-flirting mad
 ness. Still, having spent time in 1970s London and Berlin, Eno was
 
 well acclimated to urban anarchy. In fact, the most jarring contrast
-
-STEVEN JOHNSON
 
 to his European past was the turbulent mix of voices on the radio.
 
@@ -8437,8 +8139,6 @@ exaptation: words designed in one medium to spread the word
 
 of Jesus, or to thunder against the military-industrial complex,
 
-EXAPTATION
-
 migrated over into a new environment and became, against all odds,
 
 music.
@@ -8492,8 +8192,6 @@ LMartin Ruef decided to investigate the relationship between
 business innovation and diversity. Ruef was interested in the cof
 
 feehouse model of diversity, not the "melting pot" political kind:
-
-STEVEN JOHNSON
 
 the diversity of professions and disciplines, not of race or sexual
 
@@ -8551,8 +8249,6 @@ business school professor named Ronald Burt, looked at the origin
 of good ideas inside the organizational network of the Raytheon
 
 Corporation. Burt found that innovative thinking was much more
-
-EXAPTATION
 
 likely to emerge from individuals who bridged "structural holes"
 
@@ -8668,8 +8364,6 @@ sive grasp of biochemistry. But DNA was not a problem that could
 
 be solved within a single discipline. Watson and Crick had to borrow
 
-EXAPTATION
-
 from other domains to make sense of the molecule. As Ogle puts it,
 
 "Once key ideas from idea-spaces that otherwise had little contact
@@ -8723,8 +8417,6 @@ has enabled the company to ship such a reliable stream of revolu
 tionary products. No doubt both men are immensely talented at
 
 what they do, but neither of them can design, build, program, and
-
-STEVEN JOHNSON
 
 market a product as complex as the iPhone on their own, the way
 
@@ -8783,8 +8475,6 @@ ure out how to build it in large numbers—after which it gets sent
 to the marketing and sales people, who figure out how to persuade
 
 people to buy it. This model is so ubiquitous because it performs
-
-EXAPTATION
 
 well in situations where efficiency is key, but it tends to have disas
 
@@ -8902,8 +8592,6 @@ frenetic, digital-age mode; the individual tasks themselves
 
 might linger on for days or weeks before giving way to the next
 
-EXAPTATION
-
 project. But there is steady variation nonetheless, not just in the
 
 subject matter but in the kind of work performed in. each task. For
@@ -8962,8 +8650,6 @@ the way that gases diffused through the atmosphere. Snow reasoned
 
 that a disease transmitted by poisonous gas would leave a distinct
 
-STEVEN JOHNSON
-
 pattern in the geographic spread of mortality: massive death in the
 
 immediate proximity of the bad smells, tapering off very quickly as
@@ -9000,8 +8686,6 @@ exaptations. Chance favors the connected mind.
 
 VII.
 
-PLATFORMS
-
 ln April 12, 1836, HMS Beagle took leave of the Keeling Is
 
 lands, after a two-week idyll that had given Darwin the cru
@@ -9033,8 +8717,6 @@ mentor Charles Lyell's theory of atoll formation had a critical flaw
 that revolved around the statistical likelihood that a mountain
 
 would just happen to settle only a few feet above sea level. The el-
-
-STEVEN JOHNSON
 
 evation variation in volcanicislands was immense; some tapered off
 
@@ -9152,8 +8834,6 @@ another landmass? To solve that mystery, Darwin drew on Lyell's
 
 original theory, but he added an essential twist. He turned a still
 
-STEVEN JOHNSON
-
 frame into a moving picture. To understand atoll formation, Dar
 
 win realized, you had to imagine a volcanicisland slowly subsiding
@@ -9211,8 +8891,6 @@ ence, and it has largely stood the test of time. The idea itself drew
 
 on a coffeehouse of different disciplines: to solve the mystery, he
 
-PLATFORMS
-
 had to think like a naturalist, a marine biologist, and a geologist all
 
 at once. He had to understand the life cycle of coral colonies, and
@@ -9269,8 +8947,6 @@ reefs around the world, despite the fact that those reefs only occupy
 
 one-tenth of one percent of the planet's surface. This is the Darwin
 
-STEVEN JOHNSON
-
 Paradox: that such nutrient-poor waters could generate so much
 
 marvelous, improbable, heterogeneous life.
@@ -9322,8 +8998,6 @@ higher-level system emerges. What had been a largely desolate
 stretch of nutrient-poor seawater is transformed into a glittering
 
 hub of activity. The beaver builds a dam t6 better protect itself
-
-PLATFORMS
 
 against its predators, but that engineering has the emergent effect
 
@@ -9378,8 +9052,6 @@ ally accessible signal: an unbroken tone broadcast within 1 kHz of
 20 MHz. By the end of the afternoon, Weiffenbach and Guier had
 
 a clear lock on it. The sound itself was a staccato pulse of electronic
-
-STEVEN JOHNSON
 
 bleeps, blut the context transformed it into the most marvelous
 
@@ -9441,8 +9113,6 @@ concept: it has been used to detect the expansion of the universe, to
 
 track thunderstorms, and to perform ultrasounds. Because Sputnik
 
-PLATFORMS
-
 was emitting a signal at a steady frequency, and because the micro
 
 wave receiver was stationary, Guier and Weiffenbach realized that
@@ -9498,8 +9168,6 @@ you calculate the location of a receiver on the ground if you knew
 the exact orbit of the satellite? Guier and Weiffenbach ran the logic
 
 through their heads for a few minutes, and then answered in the
-
-STEVEN JOHNSON
 
 affirmative. In fact, deducing the location from a known orbit—
 
@@ -9559,8 +9227,6 @@ Global Positioning System, or GPS. Half a century later, roughly
 
 thirty GPS satellites blanket the earth with navigational signals,
 
-PLATFORMS
-
 providing guidance for everything from mobile phones to digital
 
 cameras to Airbus A380s.
@@ -9617,8 +9283,6 @@ task problems, and one in which inquisitive kids felt free to
 
 follow their curiosity.Equally important, it was an environment
 
-STEVEN JOHNSON
-
 wherein kids, with an initial success, could turn to colleagues
 
 who were broadly expert in relevant fields, andparticularly be
@@ -9669,8 +9333,6 @@ publishing industry or the insurance business; they weren't at all
 
 interested in fostering scientific advancement or political turmoil.
 
-PLATFORMS
-
 They were just businessmen, trying to make enough sterling to
 
 feed their families, just like those beavers constructing lodges to
@@ -9720,8 +9382,6 @@ form, which handled all the video playback, and the programming
 language Javascript, which allowed end users to embed video clips
 
 on their own sites. Their ability to build on top of these existing
-
-STEVEN JOHNSON
 
 platforms explains why three guys could build YouTube in six
 
@@ -9780,8 +9440,6 @@ Even the creative arts evolve via stacked platforms. This may
 
 seem surprising, given how readily we draw upon the image of the
 
-PLATFORMS
-
 private artistic genius, holed up in his study, conjuring a whole new
 
 world in his head from scratch. For understandable reasons, we like
@@ -9837,8 +9495,6 @@ themselves built on top of more stable conventions and technolo
 gies. When Miles Davis announced his break with the chord-andimprov conventions of bebop jazz in "So What?"—the opening
 
 track of Kind of Blue—he was nonetheless working within the
-
-STEVEN JOHNSON
 
 conventions of the D Dorian scale the song employs, a mode that,
 
@@ -9898,8 +9554,6 @@ that did not occur to the founders when they dreamed up the service
 
 in 2006. This is not just a case of cultural exaptation: people finding
 
-PLATFORMS
-
 a new use for a tool designed to do something else. In Twitter's case,
 
 the users have been redesigning the tool itself. The convention of
@@ -9957,8 +9611,6 @@ everywhere else.
 The diversity of the Twitter platform is no accident. It derives
 
 from a deliberate strategy that Dorsey, Williams, and Stone em-
-
-STEVEN JOHNSON
 
 braced from the outset: they built an emergent platform first, and
 
@@ -10018,8 +9670,6 @@ The way for-profit companies like Twitter and Google have
 
 used open APIs to spur innovation has been fascinating to watch.
 
-PLATFORMS
-
 But the more intriguing developments lie in the public sector. In
 
 the fall of 2008, Vivek Kundra, chief technology officer for the
@@ -10075,8 +9725,6 @@ for a good reason: he had been appointed the nation's chief informa
 tion officer by President Obama, helping to create the ambitious
 
 Data.gov program, along with an Apps for America contest run by
-
-STEVEN JOHNSON
 
 the Sunlight Foundation. What these initiatives share is a willingr
 
@@ -10138,8 +9786,6 @@ that they do not feel any competitive pressure to keep their data
 
 proprietary.
 
-PLATFORMS
-
 Since the supernova that was the Howard Dean campaign in
 
 2004, it has been clear that network technology can be harnessed to
@@ -10200,8 +9846,6 @@ zero cost to Twitter itself.
 
 Though they are not measured in monetary units, natural plat-
 
-STEVEN JOHNSON
-
 forms display similar patterns of economic efficiency. Pileated
 
 woodpeckers make their homes by drilling large holes in dead trees.
@@ -10251,8 +9895,6 @@ overthe past decade. The trains have been planted off the Delaware
 shore to create an artificial reef, providing a durable shelter for
 
 mussels and sponges that are otherwise challenged by the sandy
-
-PLATFORMS
 
 floors of the northeast seaboard. Artificial reefs create significant
 
@@ -10307,8 +9949,6 @@ the traditional urban fabric, where buildings, blocks, and whole
 neighborhoods lose their original inhabitants and industries, some
 
 times to catastrophic effects. (The closest suburban approximation
-
-STEVEN JOHNSON
 
 is the marginal space of the garage, where Hewlett-Packard, Apple,
 
@@ -10368,8 +10008,6 @@ Old ideas can sometimes use new buildings. New ideas must use
 
 old buildings.
 
-PLATFORMS
-
 Platforms recycle much more than just architecture. Marine
 
 ecologists who have studied the flow of energy through coral reef
@@ -10422,8 +10060,6 @@ expel waste products that the coral can use as nutrients. Those longhidden spong
 
 co-opting the abandoned space of the coral skeleton, they reduce
 
-STEVEN JOHNSON
-
 the costs of fortifying themselves against predators. And in return,
 
 they expel nutrients that allow their host to excrete even more aragonite, creating new habitats for more sponges.
@@ -10473,8 +10109,6 @@ ploitingeverytiny nicheof the nutrient cycle. That efficiency is one of the reas
 ing the rain forests is such a shortsighted move: the nutrient cycles in rain-forest ecosystems are
 so tight that the soil is usually very poor for farming—-all the available energy has been captured
 on the way down to the earth.
-
-PLATFORMS
 
 gets lost, assimilated only by the few succulents that can survive in
 
@@ -10529,8 +10163,6 @@ U.C. Santa Cruz, and had become an expert in the techniques of
 biomineralization. On his way to a research expedition funded by a
 
 NSF grant, he stopped over for a few days to see his parents at their
-
-STEVEN JOHNSON
 
 home near Palo Alto. Watching a football game with his father, a
 
@@ -10590,8 +10222,6 @@ used them for building highway overpasses instead of repairing hip
 
 fractures?
 
-PLATFORMS
-
 The slow hunch he had been nurturing for twenty-five years
 
 had finally found the right connection.He took his vision of a "green"
@@ -10650,8 +10280,6 @@ isms. Two things we have in abundance on this planet right now are
 
 pollution and seawater. Why not try to build a city out of them?
 
-STEVEN JOHNSON
-
 rTlhe stacked platform of the Web depends on recycling as well.
 JL The word "ecosystem" hasbecome a fashionable term to de
 
@@ -10704,8 +10332,6 @@ The question is, what happened to that information once you
 added it to the system? You could link to the home page of the
 
 restaurant itself, if you were lucky enough to find one in those early
-
-PLATFORMS
 
 days. From that point on, your site would be connected to that other
 
@@ -10765,8 +10391,6 @@ vichyssoise tweet to all its users who have recently visited nearby
 
 bars, restaurants, or other public spaces. (Even coffeehouses!) The
 
-STEVEN JOHNSON
-
 tweet pops up immediately as a pushpin on the countless Twittermaps that developers have created over the past few years. The hyperlocal news platform Outside.in(which I helped create a few years
 
 ago) parses the geo-data and detects the name of the restaurant in
@@ -10820,8 +10444,6 @@ and put to new uses, transformed by a diverse network of other
 species in the ecosystem, each with its own distinct function. You
 
 write a tweet about what you had for lunch—the original sin of
-
-PLATFORMS
 
 Twitter banality—and within minutes that information is being
 
@@ -10881,8 +10503,6 @@ the Soviet Union, it never occurred to them that someday someone
 
 would use their platform to rave abput a bowl of potato and leek soup
 
-STEVEN JOHNSON
-
 to nearby strangers. Stacked platforms are like that: you think you're
 
 fighting the Cold War, and it turns out you're actually helping people
@@ -10917,8 +10537,6 @@ know how to tweet.
 
 Conclusion
 
-THE FOURTH QUADRANT
-
 in the somewhat desolate corner of Grand Street and Morgan
 
 Avenue in the Williamsburg neighborhood of Brooklyn, a
@@ -10950,8 +10568,6 @@ do more to transform the settlement patterns of human beings than
 any other twentieth-century invention, with the possible exception
 
 of the automobile.
-
-STEVEN JOHNSON
 
 In 1902, the Sackett-Wilhelm company had a profitable and
 
@@ -11008,8 +10624,6 @@ named Willis Carrier and created a "research program" where Car
 rier could take on more speculative projects. Carrier's lab was the
 
 perfect place to tackle a problem like dehumidifying air, and Car-
-
-THE FOURTH QUADRANT
 
 21$
 
@@ -11071,8 +10685,6 @@ was granted. Before long, Carrier and a band of entrepreneurial
 
 engineers from Buffalo Forge broke off and formed the Carrier
 
-STEVEN JOHNSON
-
 Engineering Corporation, devoted exclusively to the manufacture
 
 of air-conditioning systems. The business made Carrier a wealthy
@@ -11125,8 +10737,6 @@ an anomaly or not?
 
 '
 
-THE FOURTH QUADRANT
-
 The question has real political and social stakes, because the
 
 doxa of market capitalism as an unparalleled innovation engine has
@@ -11178,8 +10788,6 @@ mies had a better track record of long-term increases in GDP; economic actors ha
 to make individual choices; economic self-interest is an undeniable motivating force for human
 beings. But few defenses of capitalism's economic virtues failed to mention its protean force.
 Even its critics acknowledged the market's drive for novelty and innovation, as in Joseph Schumpeter's famous theory of "creative destruction."
-
-STEVEN JOHNSON
 
 Entire institutions and legal frameworks—not to mention a
 
@@ -11237,15 +10845,13 @@ important innovations and scientific breakthroughs from the past
 
 six hundred years, starting with Gutenberg's press: everything from
 
-THE FOURTH QUADRANT
-
 Einstein's theory of relativity to the invention of air conditioning
 
 to the birth of the World Wide Web. Plot each breakthrough some
 
 where in one of the four quadrants of this diagram:
 
-(cid:127)Fl
+Fl
 
 r
 
@@ -11272,8 +10878,6 @@ dividual." Classify as "networked" all the innovations that evolved
 through collective, distributed processes, with a large number of
 
 groups working on the same problem. Inventors who planned to
-
-STEVEN JOHNSON
 
 capitalize directly from the sale or licensing of their invention
 
@@ -11329,8 +10933,6 @@ bination that does not easily fit into the standard boxes of capitalism and soci
 years, this quadrant has been a hothouse of innovation, thanks in large part to the open archi
 
 tecture of the Internet.
-
-THE FOURTH QUADRANT
 
 creation of the World Wide Web belongs to the individual, nonmarket quadrant, while the Internet itself belongs to the fourth
 
@@ -11388,8 +10990,6 @@ ment of subjectivity. But I think that, seen together as a group, they
 
 reveal an interesting pattern—interesting enough, I would argue,
 
-STEVEN JOHNSON
-
 for us to tolerate a little noise in the data. We are accustomed to
 
 looking at certain historical developments—mostly demographic—
@@ -11444,8 +11044,6 @@ gular talents or a politicized deconstruction—you can read the text
 closely to reveal the genius of the author, or his latent homophobia,
 
 but in each case you're doing close reading, where every sentence is
-
-THE FOURTH QUADRANT
 
 British NovelistiC Genres, ly^o-iqoo
 
@@ -11607,7 +11205,7 @@ i
 
 >
 
-(cid:127)'>.
+'>.
 
 j
 
@@ -11622,14 +11220,6 @@ Courtship novel
 crzzzzzzzzzzzzzzzzzi
 
 ZZ3
-
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-
-STEVEN JOHNSON
 
 a potential datapoint in your analysis. ("At bottom," Moretti writes,
 
@@ -11687,8 +11277,6 @@ personal computer. As valuable as those approaches can be, they have
 
 their limitations. Close reading leaves you with the idiosyncrasies of
 
-THE FOURTH QUADRANT
-
 each individual or invention, the local color—but not the general
 
 laws. When you view the history of innovation from a distance, what
@@ -11730,7 +11318,7 @@ Jf- Flush Toilet
 
 li-ST
 
-Parachute '.:,._.;(cid:127);:
+Parachute '.:,._.;;:
 
 Sql^e Root and Plusand
 
@@ -11738,28 +11326,21 @@ Sql^e Root and Plusand
 Mlirbscope
 .. Cubic.:||ption|||om:plex-
 JlNumbellp
-(cid:127)':'
-:(cid:127)"(cid:127)
+':'
+:"":-.;::-':;.-';;^<^;^:'. :
 
-":-.;::-':;.-';;^<^;^:'. :
-
-: (cid:127)
-
-(cid:127);
+: ;
 
 :
 
-Jk?:-V:\X-'<\:..:(cid:127)
-(cid:127)'''(cid:127)
-(cid:127):(cid:127)
-',.(cid:127)-.
+Jk?:-V:\X-'<\:..:''':',.-.
 ^1ISS^H--::::-''':;:^"/'
 
 .:.;v •
 
 ':
 
-(cid:127)'
+'
 
 ...
 
@@ -11768,16 +11349,6 @@ Jk?:-V:\X-'<\:..:(cid:127)
 Ether
 
 U00-1600
-
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-(cid:127)
-
-STEVEN JOHNSON
 
 you lose in detail you gain in perspective. Classifying two hundred
 
@@ -11837,13 +11408,9 @@ posed a significant security threat to the established powers of the
 
 day. The few innovations that did emerge out of networks—^the
 
-THE FOURTH QUADRANT
-
 Pressurfpooker
 Manned Ho^Air Balloon
 Lithog%(phy
-
-(cid:127) 1
 
 Balance Sprjng Watches
 Steam Engj||'
@@ -11922,8 +11489,6 @@ Discovery ofOxygen
 
 1600-1800
 
-STEVEN JOHNSON
-
 portable, spring-loaded watches that first appeared in Nuremberg in
 
 1480, the double-entry bookkeeping system developed by Italian
@@ -11981,8 +11546,6 @@ Jefferson, Locke, Lavoisier, Linnaeas—had little hope of financial
 reward for their ideas, and did everything in their power to encour
 
 age their circulation. A vertical movement toward market incentives
-
-THE FOURTH QUADRANT
 
 Airplane
 
@@ -12235,8 +11798,6 @@ capital willing to finance speculative ventures. If the competitive
 
 marketplace of modern capitalism is the great innovation engine of
 
-THE FOURTH QUADRANT
-
 our time, the first quadrant should by rights dominate the last two
 
 centuries of activity.
@@ -12357,8 +11918,6 @@ terns of innovation can easily take hold and multiply.
 
 Like any complex social reality, creating innovation environ-
 
-THE FOURTH QUADRANT
-
 ments is a matter of trade-offs. All other things being equal, finan
 
 cial incentives will indeed spur innovation. The problem is, all other
@@ -12416,8 +11975,6 @@ between suing for patent infringement and asking for a footnote.
 Academics are paid salaries, of course, and successful ideas can lead
 
 to much-sought-after tenured professorships, but the economic re-
-
-STEVEN JOHNSON
 
 wards are minuscule compared to those of the private sector. And,
 
@@ -12477,8 +12034,6 @@ was almost entirely developed by a decentralized group of aca
 
 demic scientists working outside the private sector in the 1960s and
 
-THE FOURTH QUADRANT
-
 seventies. This is a pattern we see again and again in the modern
 
 era: fourth-quadrant innovation creates a new open platform that
@@ -12537,8 +12092,6 @@ ration that have developed around the open-source community. Be
 
 cause these open systems operate outside the conventional incentives
 
-STEVEN JOHNSON
-
 of capitalism and resist the usual strictures of intellectual property,
 
 the mind reflexively wants to put them on the side of socialism.
@@ -12592,8 +12145,6 @@ few months after Darwin published On the Origin of Species
 . in 1859, Karl Marx wrote Friedrich Engels a letter that in
 
 cluded a few lines endorsing Darwin's biological radicalism. "Al-
-
-THE FOURTH QUADRANT
 
 though it is developed in the crude English style, this is the book
 
@@ -12653,8 +12204,6 @@ ries were invoked countless times in the twentieth century as a de
 
 fense of the free-market system. Aligning them with the animal
 
-STEVEN JOHNSON
-
 world didn't discredit markets, as Engels had predicted. It made
 
 markets look natural If Mother Nature made such a splendidly di
@@ -12706,8 +12255,6 @@ the tangled bank, and the war of nature; the symbiotic connections
 of an ecosystem and the survival of the fittest. The popular carica
 
 ture of Darwin's theory emphasizes competitive struggle above ev-
-
-THE FOURTH QUADRANT
 
 erything else. Yet so many of the insights his theory made possible
 
@@ -12769,8 +12316,6 @@ censing agreements to restrict the flow.
 
 '
 
-STEVEN JOHNSON
-
 n 1813, a Boston mill owner, Isaac McPherson, found him
 
 self immersed in a long and frustrating patent dispute with a
@@ -12825,8 +12370,6 @@ the sharp eye of a legal scholar, opining on the sections that he
 
 thinks are fundamentally flawed. But the most stirring passages
 
-THE FOURTH QUADRANT
-
 arise when Jefferson waxes philosophical on the nature of ideas
 
 themselves:
@@ -12880,8 +12423,6 @@ Ideas, Jefferson argues, have an almost gravitational attraction
 toward the fourth quadrant. The natural state of ideas is flow and
 
 spillover and connection. It is society that keeps them in chains.
-
-STEVEN JOHNSON
 
 Does this mean we have to do away with intellectual property
 
@@ -12941,8 +12482,6 @@ rations alike—can better harness the innovation turbine of fourthquadrant syst
 
 the success of
 
-THE FOURTH QUADRANT
-
 companies like Google and Twitter and Amazon—all of whom
 
 have, in different ways, contributed to and benefited from fourthquadrant innovation—has made it clear that, in the software world,
@@ -12999,8 +12538,6 @@ cal mass are not unheard of—Microsoft Windows has had a good
 
 run, for instance, and Apple's iPhone platform has been extraordi-
 
-STEVEN JOHNSON
-
 narily innovative in its first three years—but they are rarities. Gen
 
 erative platforms require all the patterns of innovation we have
@@ -13050,8 +12587,6 @@ see that competition for resources abounds in this space, as Darwin
 lightly observed. But that is not the source of its marvelous biodi
 
 versity. The struggle for existence is universal in nature. The few
-
-THE FOURTH QUADRANT
 
 residents of a desert ecosystem are every bit as competitive as their
 
@@ -13108,8 +12643,6 @@ and not fall back on the easy assumptions that competitive mar
 kets are the only reliable source of good ideas. Yes, the market has
 
 been a great engine of innovation. But so has the reef.
-
-STEVEN JOHNSON
 
 Most of us, I realize, don't have a direct say in what macro
 
@@ -13340,8 +12873,6 @@ Nicolaus Copernicus first wrote out his "heliocentric" theory of the solar
 
 system as a small pamphlet around 1514, but did not formally publish the
 
-APPENDIX
-
 idea for more than twenty years, for fear of the controversy it would un
 
 leash. Word of his radical theory leaked out and began spreading through
@@ -13394,8 +12925,6 @@ German botanist Valerius Cordus discovered and described a radically new
 
 method forthe synthesis of ether in 1540,calling it "the sweet oil of vitriol."
 
-APPENDIX
-
 At around the same time, Swiss physician Paracelsus discovered the anaes
 
 thetizing properties of ether.
@@ -13443,8 +12972,6 @@ the heavens were incapable of change. Several years later, Brahe's equally
 precise observations of a comet showed that the object was farther away from
 
 the moon, and thus not part of earth's atmosphere.
-
-APPENDIX
 
 STOCKING FRAME (1589)
 
@@ -13498,8 +13025,6 @@ compass to aid navigators. The nature of magnets had been studied by Aris
 
 totle and the ancient Chinese among others throughout history. *
 
-APPENDIX
-
 TELESCOPE (1600-1610)
 
 A classic example of collectiveinvention, the first telescopes and spyglasses
@@ -13552,8 +13077,6 @@ Sunspots, darkened, magnetic spots on the surface of the sun, were first ob
 
 served almost simultaneously by a number of astronomers with the use of
 
-APPENDIX
-
 telescopes. Credit is alternately attributed to Galileo Galilei, Thomas Har
 
 riot, and Johannes and David Fabricius.
@@ -13605,8 +13128,6 @@ SLIDE RULE (1632)
 William Oughtred is commonly credited with inventing the earliest version of
 
 the slide rule, two parallel logarithmic scalesthat one could slide in relation to
-
-APPENDIX
 
 each other to conductadvanced calculations easilyand quickly. Oughtred im
 
@@ -13662,8 +13183,6 @@ years earlier.
 
 '
 
-APPENDIX
-
 MECHANICAL CALCULATOR (1645)
 
 French mathematician and philosopher Blaise Pascal invented what is now
@@ -13714,8 +13233,6 @@ help of a regulator, which ensured that the whole mechanism remained as
 
 consistent as possible. Robert Hooke and Christiaan Huygens are both cred-
 
-APPENDIX
-
 ited with the invention—Thomas Tompion engineered the most effective
 
 regulator of the time around 1680.
@@ -13763,8 +13280,6 @@ SPEED OF LIGHT (FIRST QUANTITATIVE MEASURE)
 While Galileo had been ableto establishthat light traveled faster than sound,
 
 Danish astronomer Olaus Roemer, trying to account for disparities in his
-
-APPENDIX
 
 observations of eclipses, realized that the culprit was the amount of time
 
@@ -13816,8 +13331,6 @@ arrived at many of the same conclusionsindependently, though with differ
 
 ent systems of notation.
 
-APPENDIX
-
 LAW OF UNIVERSAL GRAVITATION (1686)
 
 Whilethe storyof Newton's apple maybe the canonical example of private
@@ -13856,8 +13369,6 @@ Expandingupon the earlier, more primitive inventions of Denis Papin and
 
 Thomas Savery, Thomas Newcomen, an English blacksmith, utilized atmo
 spheric pressure to propel a piston upward and downward by condensing
-
-APPENDIX
 
 steam,allowing an engineto pump water out of wells. It wasthe first com
 
@@ -13902,8 +13413,6 @@ naeus did make several essential additions, most importantly the practice of
 
 naming each organism using a binomial structure, as in homo sapiens.
 
-APPENDIX
-
 CHRONOMETER (1735)
 
 Though countless versions of a chronometer had been developed since the
@@ -13938,8 +13447,6 @@ with carbon dioxide, he could create an effervescent beverage, known today
 asseltzer. Though Priestley nevercapitalized on the business opportunities,
 
 many inventors after him did.
-
-APPENDIX
 
 PHOTOSYNTHESIS (1770-1800)
 
@@ -13987,8 +13494,6 @@ Robert Fulton is conventionally heralded as the inventor of the steam
 
 boat, but in fact Fulton was merely the first to turn the steamboat into
 
-APPENDIX
-
 a commercial success. A number of working steamboats had been built by
 
 engineers like John Fitch and James Rumsey overthe preceding two decades.
@@ -14034,8 +13539,6 @@ China, Persia, and Africa after 1500. But the British scientist Edward Jenner
 was the first to design a vaccine based on a related cowpoxvirus that pro
 
 duced immunity to smallpox with much lower mortality.
-
-APPENDIX
 
 LITHOGRAPHY (1796)
 
@@ -14085,8 +13588,6 @@ transport humans and horses was the Jacob'sCreek Bridge, built in the early
 
 1800s by the American judge and amateur engineer James Finley.
 
-APPENDIX
-
 STEAM LOCOMOTIVE (1805)
 
 A number of engineers built working steam-powered vehicles, some de
@@ -14134,8 +13635,6 @@ named Karl von Drais, and mimicked by dozens of entrepreneurs through
 out Europe in the following decade. But it wasn't until the 1860s that pedals
 
 and rotary cranks were added to the device.
-
-APPENDIX
 
 BRAILLE (1821)
 
@@ -14187,8 +13686,6 @@ Chloroform, a colorless, organic compound, was discovered at about the
 
 same time by three different scientists in three different countries—Eugene
 
-APPENDIX
-
 Soubeiran, Samuel Guthrie, and Justus von Liebig. It was used as a treatment
 
 for asthma and as a powerful alternative to ether as an anesthetic.
@@ -14235,8 +13732,6 @@ used electric signals to shift an electromagnet in a patterned print across
 
 paper, known as Morse code.
 
-APPENDIX
-
 PHOTOGRAPHY (1839)
 
 Most historians credit French chemist Louis Daguerre with developing the
@@ -14282,8 +13777,6 @@ covered and synthesized nitroglycerine—aware of its explosive potential,
 Sobrero warned against incautious use of the chemical and at times even
 
 seemed to regret its discovery.
-
-APPENDIX
 
 ABSOLUTE ZERO (1848)
 
@@ -14333,8 +13826,6 @@ German chemist Robert Bunsen developed the burner in order to carry out
 
 experiments on spectral emissions of elements, for which the technology did
 
-APPENDIX
-
 not yet exist. Stymied by the weak gas burners of the day,Bunsen produced
 
 a burner with an incredibly hot and nearly invisible flame, and it became
@@ -14378,8 +13869,6 @@ bloodshed on battlefields by reducing the number of soldiers needed, inven
 tor Richard Gatling created the Gatling gun, a hand-cranked continuously
 
 and rapidlyfiring weapon drawn on two wheels.
-
-APPENDIX
 
 VACUUM CLEANER (1861)
 
@@ -14433,8 +13922,6 @@ in a pattern according to their atomic masses, providing a more comprehen
 
 sive chart with a focus on recurring trends in properties.
 
-APPENDIX
-
 DISCOVERY OF BENZENE STRUCTURE (1865)
 
 Following the discovery of benzene in 1825, German chemists Joseph
@@ -14485,8 +13972,6 @@ First named by German doctor Wilhelm Kiihne in 1878, enzymes—proteins
 
 that act as catalysts for chemical reactions by speeding up the process—were
 
-APPENDIX
-
 more fully understood due to the studies of German chemist Eduard Buchner and French chemist Louis Pasteur.
 
 LIGHTBULB (1879)
@@ -14532,8 +14017,6 @@ newborns—into regular practice in hospitals. The original designs for the
 infant incubator were created by French surgeon Jean-Louis-Paul Denuce
 
 and German gynecologist Carl Crede.
-
-APPENDIX
 
 WELDING MACHINE (1885)
 
@@ -14581,8 +14064,6 @@ American inventor William Seward Burroughs created a "calculating machine"
 
 in 1885 that formed the basis for all further improvements in calculators.
 
-APPENDIX
-
 CONTACT LENSES (1887)
 
 Though Leonardo da Vinci is said to have sketched the first designs, for cor
@@ -14628,8 +14109,6 @@ chemical energy—for postulating that they were fundamental units of cell
 ' activity. Numerous scientists continued to make large strides in their under
 
 standing of mitochondria throughout the twentieth century.
-
-APPENDIX
 
 TESLA COIL (1891)
 
@@ -14679,8 +14158,6 @@ In 1901, Austrian physician Karl Landsteiner published results of studies in
 
 which he argued that four distinct blood types existed—distinguished by the
 
-APPENDIX
-
 presence of particular antibodies and antigens—and that blood transfusion
 
 between two individuals could be successful only if they shared the same
@@ -14728,8 +14205,6 @@ ease, the English doctor William Fletcher discovered in 1905 that unpolished
 white rice was instrumental in creating immunity to beriberi disease, while
 
 other kinds of rice were not, leading him to believe there were nutrients in
-
-APPENDIX
 
 the unpolished rice whose absence in a person's diet would increase their
 
@@ -14779,8 +14254,6 @@ why earthquake waves moved slower through the earth's core than through
 
 the mantle.
 
-APPENDIX
-
 NEUROTRANSMITTERS (1906)
 
 Spanish physician Santiago Ramon y Cajal revolutionized the theories of the
@@ -14826,8 +14299,6 @@ liquid helium temperatures, and discovered that they lost all resistance
 when cooled to cryogenic levels. This quality became known as supercon
 
 ductivity.
-
-APPENDIX
 
 COSMIC RAYS (1913)
 
@@ -14881,8 +14352,6 @@ for the assembly line came from nineteenth-century midwestern meatpack
 
 ing factories.
 
-APPENDIX
-
 THEORY OF GENERAL RELATIVITY (1915)
 
 Theoretical physicist Albert Einstein argued in 1915that matter warps time
@@ -14932,8 +14401,6 @@ UNCERTAINTY PRINCIPLE (1927)
 First presented in a letter in 1927,' German physicist Werner Heisenberg's
 
 uncertainty principle stated that the more precisely the position of a sub-
-
-APPENDIX
 
 atomic particle position was known, the less precisely one could know the
 
@@ -14987,8 +14454,6 @@ The credit for the invention of the jet engine is shared between German
 
 engineer Hans von Ohain and RAF officer Frank Whittle, who both inde-
 
-APPENDIX
-
 pendently developed the engine model, propelled by ignited, compressed air
 
 and based on the principles of Newton's third law of physics.
@@ -15030,8 +14495,6 @@ lace Carothers developed nylon—"the miracle fiber," a man-made synthetic
 rubber—in part to create an alternative to silk, which at that time was dif
 
 ficult to obtain because of shaky trade relations with Japan.
-
-APPENDIX
 
 ECOSYSTEM (1935)
 
@@ -15081,8 +14544,6 @@ to play a major role in hereditary transfer and the passing of genes from one
 
 generation to the next.
 
-APPENDIX
-
 MICROWAVE OVEN (1946)
 
 Percy Spencer, an American engineer, discovered the possibility of creating
@@ -15131,8 +14592,6 @@ A group of loosely connected scientists, most prominently Harvard professor
 
 John Rock, developed the birth control pill in the early 1950s, funded in part
 
-APPENDIX
-
 by the American birth control advocateMargaret Sanger. Leading a research
 
 group at the pharmaceutical company Syntex, American chemist Carl Djerassiworked on developing a steroid hormone, cortisone,which eventually led
@@ -15176,8 +14635,6 @@ to the American engineer Charles Paulson Ginsburg, who developed the
 device while at the Ampex Corporation by applying high-frequency signals
 
 onto magnetic tape.
-
-APPENDIX
 
 LASER (1958)
 
@@ -15231,8 +14688,6 @@ Mirroring previous discoveries that DNA carried genetic material, American
 
 microbiologist Carl Woese theorized in 1967 that RNA, ribonucleic acid,
 
-APPENDIX
-
 could store information such as genes, and may have played a role in the
 
 development of early and precellular life.
@@ -15278,8 +14733,6 @@ Services, British electrical engineer Godfrey Hounsfield conceived and
 designed the first CT scan (computerized axial tomography), which sent
 
 multiple X-ray beams through the human body, providing a near threedimensional image.
-
-APPENDIX
 
 MRI
 
@@ -15328,8 +14781,6 @@ RNA SPLICING (1977)
 British biochemist Richard J. Roberts and American Phillip A. Sharp share
 
 both the credit and the Nobel Prize for their independent discoveries of
-
-APPENDIX
 
 gene-splicing—the removal of introns—though some controversy arose over
 
@@ -15382,8 +14833,6 @@ their genetic code. Dozens of other scientists refined Jeffreys's approach be
 fore it could be used in criminal cases.
 
 *•
-
-APPENDIX
 
 UNIVERSE ACCELERATING (1988)
 
@@ -15509,8 +14958,6 @@ the adjacent possible is outlined in his book Investigations. The social causes 
 
 multiple simultaneous discoveryareoutlined in Ogburn and Thomas's "Are Inventions
 
-NOTES AND FURTHER READING
-
 Inevitable?" The phenomenonis alsodiscussed at length in Dean Keith Simonton's
 Creativity in Science. For more on the discovery of oxygen, see Kuhn's Structure of
 Scientific Revolutions, Joe Jackson's World on Fire, and my own Invention of Air.
@@ -15564,8 +15011,6 @@ includes reminiscences about the building at http://libraries.mit.edu/archives/
 
 mithistory/building20/quotes.html.
 
-NOTES AND FURTHER READING
-
 CHAPTER 3: THE SLOW HUNCH
 
 The intelligence failures surrounding the Phoenix Memo and the Moussaoui
@@ -15613,8 +15058,6 @@ Ouroboros. Ullrich Wagner's experiment is documented in the Nature essay "Sleep
 Inspires Insight." Robert Thatcher's study of different phase states can be found in
 
 "Intelligence and EEG Phase Reset" from the journal Neurolmage. For more on
-
-NOTES AND FURTHER READING
 
 neurological serendipity, seeDavidRobson's NewScientist essay "DisorderlyGenius."
 William James'squote on the chaoticnature of "higher mind" appearsin GreatMen,
@@ -15684,8 +15127,6 @@ overview of how the human genetic mutation rate was calculated can be found in
 
 Elie Dolgin's Nature News article "Human Mutation Rate Revealed." For more on
 
-NOTES AND FURTHER READING
-
 SusanRosenberg's research on stress andmutationrates, seeher essay "Microbiology
 and Evolution: Modulating Mutation Rates in the Wild" in Science. Formore on the
 "fail fast" movement, seeDougHall's BusinessWeek essay "FailFast, FailCheap"and
@@ -15732,8 +15173,6 @@ Approach to Creative Work." For more on John Snow's diverse intellectual interes
 see Peter Vinten-Johansen's Cholera, Chloroform, and theScience of Medicine and my
 
 Ghost Map.
-
-NOTES AND FURTHER READING
 
 CHAPTER 7: PLATFORMS
 
@@ -15797,8 +15236,6 @@ also draws on the histriometric approach to innovation developed by Dean Keith
 Simonton in Genius, Creativity, and Leadership and Creativity in Science. Yochai
 
 Benkler includes a more complex chart of potential innovation frameworks in Wealth
-
-NOTES AND FURTHER READING
 
 of Networks. For more on the notion of collective invention, see Peter B; Meyer's
 "Episodes of Collective Invention." Marx and Engels's reaction'to Darwin'swork is
@@ -15927,8 +15364,6 @@ of EconomicBehaviorand Organization 52, no. 4 (2003): 513—32.
 Csikszentmihalyi, Mihaly. Creativity: Flow and the Psychology of Discovery and In
 
 vention. New York: HarperPerennial, 1997.
-
-BIBLIOGRAPHY
 
 . Flow: The Psychology of OptimalExperience. New York: HarperPerennial,
 
@@ -16076,8 +15511,6 @@ Guier, William H., and George C. Weiffenbach. "Genesis of Satellite Navigation."
 
 JohnsHopkins APL TechnicalDigest 19, no. 1 (1998): 15.
 
-BIBLIOGRAPHY
-
 Hall, Doug. "Fail Fast, Fail Cheap." BusinessWeek (June 25, 2007). http://www
 
 .businessweek.com/magazine/content/07_26/b4040436.htm_.
@@ -16145,8 +15578,6 @@ covermagazine.com/2005/oct/emerging-technology.
 . Emergence: The ConnectedLives of Ants, Brains, Cities, and Software. New
 
 York: Scribner, 2002.
-
-BIBLIOGRAPHY
 
 . Interface Culture: HowNew Technology Transforms theWayWeCreate and
 
@@ -16220,8 +15651,6 @@ Maclaurin, W. Rupert. "The Process of Technological Innovation: The Launching of
 
 a New Scientific Industry." American Economic Review 40, no. 1 (1950): 90—112.
 
-BIBLIOGRAPHY
-
 MacLeod, Christine, and Alessandro Nuvolari. "'The Ingenious Crowd': A Critical
 
 Prosopography of British Inventors, 1650—1850." Journalof EconomicHistory
@@ -16294,8 +15723,6 @@ ductivity: A Reduction of Failures Explanation." European Journal of Social
 
 Psychology36, no. 1 (January/February 2006): 31—48.
 
-BIBLIOGRAPHY
-
 . "Differential Contributions of Majority and Minority Influence." Psycho
 
 logical Review 93, no. 1 (1986): 23-32.
@@ -16366,8 +15793,6 @@ Branches of Natural Philosophy, Connected with the Subject. . . : Being the
 Former Six Volumes Abridged and Methodized, with Many Additions. Bir
 
 mingham, UK: Thomas Pearson, 1790.
-
-BIBLIOGRAPHY
 
 Prigogine, Ilya, and Gregoire Nicolis. Exploring Complexity. New York: W. H. Free
 
@@ -16441,8 +15866,6 @@ University Press, 1999.
 
 . Greatness: Who Makes History and Why. New York: Guilford, 1994.
 
-BIBLIOGRAPHY
-
 . Genius, Creativity, and Leadership: Historiometric Inquiries. Cambridge,
 
 Mass.: Harvard University Press, 1984.
@@ -16513,8 +15936,6 @@ Wright, Robert. NonZero:The Logic of Human Destiny. New York: Pantheon Books,
 Yu, Peter K. Intellectual Property and Information Wealth Issues and Practices in the
 
 Digital Age. Westport, Conn.: Praeger Publishers, 2007.
-
-BIBLIOGRAPHY
 
 Zimmer, Carl. The Tangled Bank- An Introduction to Evolution.Greenwood Village,
 
@@ -16717,8 +16138,6 @@ CERN (European Laboratory for Particle
 
 Physics), 90-93, 294
 
-INDEX
-
 Chadwick, James, 286
 
 Chaos, 52, 62-63, 85, 103-6,120,148
@@ -16849,8 +16268,6 @@ Copernicus, Nicolaus, 226, 252-53, 256
 
 Dennett, Daniel, 190
 
-INDEX
-
 Denuce, Jean-Louis-Paul, 276
 Deoxyribonucleic acid, see DNA
 Descartes, Rene, 258
@@ -16963,8 +16380,6 @@ Automated Case Support system, 69, 76;
 91, 92, 95,127
 
 Counterterrorism, 72
-
-INDEX
 
 Radical Fundamentalist Unit (RFU), 71,
 
@@ -17095,8 +16510,6 @@ Guthrie, Samuel, 270
 Hadley, John, 263
 Halley, Edmund, 262
 
-INDEX
-
 Hancock, Thomas, 271
 Hanjour, Hani, 70
 Hargreaves, James, 264
@@ -17207,8 +16620,6 @@ Jeffreys, Alex, 293'
 Jenner, Edward, 266
 Jet engines, 285—86
 Jevons, William Stanley, 136-37
-
-INDEX
 
 Jobs, Steve, 169, 170,292
 Johns Hopkins University, 291
@@ -17342,8 +16753,6 @@ Marx, Karl, 236-37
 Mason, John, 86
 Mason jars, 272
 
-INDEX
-
 Massachusetts Institute of Technology
 
 (MIT), 27
@@ -17456,8 +16865,6 @@ Orbits
 of comets, 262
 of electron around nucleus of atom, 283
 
-INDEX
-
 of man-made satellites, 183, 185-86,
 
 Platforms, 21, 40, 93, 125,177-210, 234
@@ -17531,9 +16938,7 @@ Plastic, 33, 48, 156, 274
 city as, 245
 emergent, 187-88, 194, 196, 197, 232,
 
-234 (cid:127)
-
-generative, 189, 243-44
+234 generative, 189, 243-44
 open, 125, 178, 194, 198, 210, 221, 235,
 
 stacked, 189-94, 206, 209, 210
@@ -17584,8 +16989,6 @@ Refrigerators, 270
 Relativity theory, 219, 281, 284
 REM sleep, 101, 102
 Renaissance, 54, 56, 151, 226, 228, 234,
-
-INDEX
 
 Reproductive strategies, 106-8,146-47
 Research and development (R&D) labs,
@@ -17702,8 +17105,6 @@ Starling, Ernest Henry, 281
 Steamboats, 265—66
 Steam engines, 34—35, 230,254, 262-63
 
-INDEX
-
 Steam locomotives, 268
 Steelmaking, 272
 Stocking frames, 85, 255
@@ -17815,8 +17216,6 @@ Waller, Augustus, 278
 Walpole, Horace, 108
 Washing machines, 282
 
-INDEX
-
 Washington, D.C., 195-97
 Watches, 228,252,259-60
 Watson, James, 167-68,190,289
@@ -17880,8 +17279,6 @@ Zuckerman, Ethan, 119
 Zuse, Konrad, 287
 
 ALSO AVAILABLE FROM NATIONAL BESTSELLER
-
-STEVEN JOHNSON
 
 J HE
 GHO ST ITA^

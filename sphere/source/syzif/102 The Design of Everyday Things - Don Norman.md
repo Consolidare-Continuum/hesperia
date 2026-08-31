@@ -1,4 +1,3 @@
-
 THE
 
 DESIGN
@@ -11820,7 +11819,6 @@ Shingo,	 S.	 (1986).	 Zero	 quality	 control:	 Source	 inspection	 and	 the	 pok
 Productivity	Press.
 
 Smith,	 P.	 (2007).	 Ask	 the	 pilot:	 A	 look	 back	 at	 the	 catastrophic	 chain	 of	 events	 that	 caused	 history's
-from
 
 deadliest
 http://www.salon.com/2007/04/06/askthepilot227/on	February	7,	2013.
@@ -11890,16 +11888,12 @@ error).
 
 Retrieved
 
-from
-
 http://wikiofscience.wikidot.com/quasiscience:error	on	February	6,	2013.
 
 Wikipedia	 contributors.	 (2013a).	 Air	 Inter	 Flight	 148.	 Wikipedia,	 The	 Free	 Encyclopedia.	 Retrieved
 http://en.wikipedia.org/w/index.php?
 
 2103,
-
-from
 
 13,
 
@@ -11915,7 +11909,6 @@ http://en.wikipedia.org/w/index.php?
 
 2,
 
-from
 February
 title=Stigler%27s_law_of_eponymy&oldid=531524843
 
@@ -11939,8 +11932,6 @@ Retrieved
 February
 
 2013,
-
-from
 
 8,
 

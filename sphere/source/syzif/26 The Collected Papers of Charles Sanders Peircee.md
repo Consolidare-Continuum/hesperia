@@ -21,33 +21,12 @@ Volume 3
 Volume 5
 Volume 7
 Contents
-Contents
-Contents
-Contents
 Text
-Text
-Text
-Text
-Footnotes
-Footnotes
-Footnotes
 Footnotes
 Volume 2
 Volume 4
 Volume 6
 Volume 8
-Contents
-Contents
-Contents
-Contents
-Text
-Text
-Text
-Text
-Footnotes
-Footnotes
-Footnotes
-Footnotes
 All text only
 All footnotes only
 All text authored by Peirce
@@ -66,7 +45,6 @@ publisher, 1958)
 
 1 June 1994
 
-Peirce: CP Editorial Introduction to Electronic Edition
 Charles S. Peirce (the "S" stands for "Sanders" by Baptism and later for "Santiago"
 as Charles' way of honoring William James) has so far best been known in academia
 at large as some kind of a background figure to the rise of Pragmatism, as mentor to
@@ -76,7 +54,6 @@ the understanding of Peirce in the established framework of modern philosophy,
 particularly with its opposition of "realism" to "idealism" such as the works of
 Buchler, Goudge, Manley Thompson already belong to the genre of depassé
 interpretation.
-Peirce: CP Editorial Introduction to Electronic Edition
 It is not merely a question of the curiously underassessed fact (excepting Apel's
 pioneering 1970 study, Der Denkweg von Charles S. Peirce: Eine Einführung in
 den amerikanischen Pragmatismus [Frankfurt am Main: Suhrkamp Verlag],
@@ -93,7 +70,6 @@ Soto (with his Summulae or Introductory Logic of 1529), Pedro da Fonseca (1564)
 and the Conimbricenses (1607) he started, Francisco Araujo (1617), and the
 culminating synthesis of John Poinsot's Tractatus de Signis (Treatise on Signs) of
 1632 (also a full-text data-base in this Past Masters series).
-Peirce: CP Editorial Introduction to Electronic Edition
 I first came to take Peirce seriously as a result of Thomas A. Sebeok's 1978 NEH
 Summer Seminar on semiotics as a new foundation for the sciences. In that group of
 seminarians there were three expert Peirceans, Jarrett E. Brock, H. William
@@ -115,7 +91,6 @@ Littlefield, 1993) stands out as the first introduction to give semiotic a co-or
 billing with such traditional aspects of Peircean thought as his metaphysics (yet even
 in this ground-breaking over-all introduction, arguably the best so far, Corrington told
 me that "piety toward the elders" inhibited him in annotating his bibliography).
-Peirce: CP Editorial Introduction to Electronic Edition
 The story of the Harvard edition titled CP, which we here re-present in electronic
 form, is a story fairly well known, and a sad one. Hartshorne and Weiss, along with
 Burks later, deserve our thanks for getting the volumes out, but we must at the same
@@ -129,7 +104,6 @@ University Press, 1993). This publication is a tribute in equal parts to the wri
 and historical tenacity of its author, to the editorial genius (to say nothing of the
 detective skills) of Thomas A. Sebeok, and to the publishing genius of John Gallman,
 the Director of the Indiana University Press.
-Peirce: CP Editorial Introduction to Electronic Edition
 But why re-publish the CP now, just when the chronological edition of the
 Writings (henceforward W) may be getting up steam? There are several answers to
 this question. The first reason is that the CP is not in competition with W. The
@@ -141,12 +115,10 @@ it might have been shepherded, cannot be rushed: it needs to be done rightly, an
 critical editing takes time. Still, those of us alive today and interested in Peirce would
 like to have access to as much of his work as possible as soon as possible. At present,
 as far as published writings go, that still means the CP.
-Peirce: CP Editorial Introduction to Electronic Edition
 A second reason is that CP contains some material which, at least according to
 current plans, will not be included in W. That means that, for the foreseeable future,
 the CP will remain an independent, and at least minor, source for Peircean
 scholarship.
-Peirce: CP Editorial Introduction to Electronic Edition
 The third reason, however, is the main reason for this edition. By bringing out the
 CP in electronic form, we not only keep available the so-far primary published source
 of Peirce material, but we present it in a form that enables the user in principle to
@@ -160,7 +132,6 @@ been devoted to undoing that dismemberment), we have created hypertext links whi
 
 will enable the users of the electronic edition to reconstruct and print out for
 themselves Peirce's manuscripts in something like their original integrity.
-Peirce: CP Editorial Introduction to Electronic Edition
 An illustration of this advantage of the electronic CP may be given using Peirce's
 c.1895 essay "That Categorical and Hypothetical Propositions Are One in Essence".
 According to Burks (p. 286), paragraphs CP 2.332-339, 2.278-28, 1.564-567 (c.1899),
@@ -169,7 +140,6 @@ this whole and print it out as such for scholarly or classroom use. Thus the "bo
 parts" of the Peircean corpus, so far as they are included in the CP, may be easily
 rearrayed in proper order so as to appear in something closer to the light under which
 Peirce left them.
-Peirce: CP Editorial Introduction to Electronic Edition
 This illustration brings out the fourth reason for this electronic edition, namely, to
 stimulate self-appointed scholarly caretakers of the manuscript materials to hasten the
 making available of the whole of the Peirce documents in electronic form even while
@@ -227,13 +197,11 @@ First, groups have been created from the divisions of Hartshorne, Weiss, and Bur
 the search
 [Group: CP3] abnumeral
 would find all paragraphs in volume 3 containing the word abnumeral.
-Peirce: Collected Papers Groups
 A group exists for every book, chapter and section division as well. Thus the
 search
 [Group: cp4.i.ii] good
 would find all paragraphs from Volume 4, Book I, Lecture II containing the word
 "good."
-Peirce: Collected Papers Groups
 Secondly, every paragraph of the Collected Papers has been placed in a group
 which identifies the year in which the paragraph was authored. Thus the [Group:
 Peirce.1888] group contains all paragraphs identified in the bibliography as having
@@ -244,7 +212,6 @@ would find all paragraphs written by Peirce in 1888, which are in the CP. The se
 
 would find all paragraphs written by Peirce in 1888 (in the CP) which contain the
 word "abnumeral" (if any).
-Peirce: Collected Papers Groups
 This chronological grouping also exists at the 5-year and 10-year level. The
 [Group: Peirce5.1875] and [Group: Peirce10.1880] groups contain every paragraph
 authored by Peirce (in the CP, identified in the bibliography) in the years 1871-1875,
@@ -254,7 +221,6 @@ and 1871-1880 respectively. Thus the search
 
 would find every paragraph containing abnumeral authored by Peirce between the
 years 1881-1895 (in the CP).
-Peirce: Collected Papers Groups
 A group has been created from the text only and footnotes only of each
 volume. These groups are accessible from the opening screen of the database. Thus
 [Group: cp1.text] contains all paragraphs of the text of volume 1, and [Group:
@@ -1696,8 +1662,6 @@ necessary, or probable, truth. For example, let the premiss be that there are fo
 marked points upon a line which has neither extremity nor furcation. Then, by means
 of a diagram,
 
-[Click here to view]
-
 we may conclude that there are two pairs of points such that in passing along the line
 in any way from one to the other point of either pair, one point of the second pair will
 be passed an odd number of times and the other point an even (or zero) number of
@@ -1892,7 +1856,6 @@ units to tenths were somehow peculiar, while what was logically called for was
 simply some mark attached to the units place, so that instead of 3.14159 [what]
 
 should have been written [was]
-[Click here to view]
 314159, seems very surprising. That Descartes should have thought it necessary to
 work problems in analytical geometry four times over, according to the different
 quadrants between the axes of coördinates in which the point to be determined might
@@ -3222,7 +3185,6 @@ book by a collection of his old papers with additions, as he was urged to do, he
 preferred to write it entirely anew, as if he had never before set pen to paper.†1
 
 Peirce: CP 1.180 Cross-Ref:††
-CHAPTER 1
 
 AN OUTLINE CLASSIFICATION OF THE SCIENCES †1
 
@@ -3410,7 +3372,6 @@ but will not here be touched upon.†1 No classification of the science of revie
 been attempted.
 
 Peirce: CP 1.203 Cross-Ref:††
-CHAPTER 2
 
 A DETAILED CLASSIFICATION OF THE SCIENCES†1
 
@@ -3669,11 +3630,9 @@ weight, he would be just as likely to grind below his maximum by any one fractio
 the amount taken off at a grinding as by any other; so that his error curve would be a
 
 horizontal line cut off by vertical ordinates; thus,
-[Click here to
 view]. But since there would be a variability in the amount taken off between the
 trials, the curve would show a contrary flexure; thus,
 
-[Click here
 to view]. It must be admitted that the distribution of Petrie's kets is suggestive of this
 sort of curve, or rather of a modification of it due to a middling degree of skill.
 Peirce: CP 1.211 Cross-Ref:††
@@ -4045,24 +4004,18 @@ scientific observation.
 Peirce: CP 1.230 Cross-Ref:††
 230. It would be useless for our purpose to copy the definitions of Agassiz
 †P1 had he not expressed them in the briefest terms, as follows:
-Peirce: CP 1.230 Cross-Ref:††
 Branches are characterized by the plan of structure;
-Peirce: CP 1.230 Cross-Ref:††
 Classes, by the manner in which that plan is executed, as far as ways and
 means are concerned; (" Structure is the watch-word for the recognition of classes."
 Page 145.)
-Peirce: CP 1.230 Cross-Ref:††
 Orders, by the degrees of complication of that structure; (" The leading idea . .
 . is that of a definite rank among them." Page 151.)
-Peirce: CP 1.230 Cross-Ref:††
 Families, by their form, as determined by structure; ("When we see new
 animals, does not the first glance, that is, the first impression made upon us by their
 form, give us a very correct idea of their nearest relationship? . . . So form is
 characteristic of families; . . . I do not mean the mere outline, but form as determined
 by structure." Pages 159, 160.)
-Peirce: CP 1.230 Cross-Ref:††
 Genera, by the details of the execution in special parts;
-Peirce: CP 1.230 Cross-Ref:††
 Species, by the relations of individuals to one another and to the world in
 which they live, as well as by the proportions of their parts, their ornamentation, etc.
 Peirce: CP 1.231 Cross-Ref:††
@@ -4952,8 +4905,6 @@ whole gamut of numbers twice or more times. The single projection from a point
 
 within the circle gives one repetition.
 
-[Click here to view]
-
 Peirce: CP 1.276 Cross-Ref:††
 276. The question, however, is, What is the natural mode of measuring time?
 Has it absolute beginning and end, and does it reach or traverse infinity? Take time in
@@ -5109,8 +5060,6 @@ Peirce: CP 1.284 Cross-Ref:††
 BOOK III
 
 PHENOMENOLOGY
-
-CHAPTER 1
 
 INTRODUCTION†1
 
@@ -5331,7 +5280,6 @@ Peirce: CP 1.299 Cross-Ref:††
 Now let us turn to the phaneron and see what we find in fact.
 
 Peirce: CP 1.300 Cross-Ref:††
-CHAPTER 2
 
 THE CATEGORIES IN DETAIL
 
@@ -6255,8 +6203,6 @@ Peirce: CP 1.347 Cross-Ref:††
 made out of graphs each with two or one tail, yet combinations of graphs of three tails
 each will suffice to build graphs with every higher number of tails.
 
-[Click here to view]
-
 And analysis will show that every relation which is tetradic, pentadic, or of any
 greater number of correlates is nothing but a compound of triadic relations. It is
 therefore not surprising to find that beyond the three elements of Firstness,
@@ -6368,14 +6314,12 @@ accurately and sharply to distinguish each from other conceptions so as to hold 
 its purity and yet in its full meaning.
 
 Peirce: CP 1.354 Cross-Ref:††
-CHAPTER 3
 
 A GUESS AT THE RIDDLE†1P
 
 PLAN OF THE WORK
 
 354. Section 1. One, Two, Three. Already written.
-Peirce: CP 1.354 Cross-Ref:††
 Section 2. The triad in reasoning. Not touched. It is to be made as follows. 1.
 Three kinds of signs; as best shown in my last paper in the Am. Jour. Math.†2 2.
 Term, proposition, and argument, mentioned in my paper on a new list of
@@ -6391,17 +6335,12 @@ numerical quantity. For example, the particular proposition: Some A is B, means 
 least one A is B." But we can also say: At least 2 A's are B's. Also, All the A's but one
 are B's, etc., etc., ad infinitum. We pass from dual quantity, or a system of quantity
 such as that of Boolian algebra, where there are only two values, to plural quantity.
-Peirce: CP 1.354 Cross-Ref:††
 Section 3. The triad in metaphysics. This chapter, one of the best, is to treat of
 the theory of cognition.
-Peirce: CP 1.354 Cross-Ref:††
 Section 4. The triad in psychology. The greater part is written.
-Peirce: CP 1.354 Cross-Ref:††
 Section 5. The triad in physiology. The greater part is written.
-Peirce: CP 1.354 Cross-Ref:††
 Section 6. The triad in biology. This is to show the true nature of the
 Darwinian hypothesis.
-Peirce: CP 1.354 Cross-Ref:††
 Section 7. The triad in physics. The germinal section. 1. The necessity of a
 natural history of the laws of nature, so that we may get some notion of what to
 expect. 2. The logical postulate for explanation forbids the assumption of any
@@ -6410,12 +6349,10 @@ absolute. That is, it calls for the introduction of Thirdness. 3. Metaphysics is
 imitation of geometry; and mathematicians having declared against axioms, the
 metaphysical axioms are destined to fall too. 4. Absolute chance. 5. The universality
 of the principle of habit. 6. The whole theory stated. 7. Consequences.
-Peirce: CP 1.354 Cross-Ref:††
 Section 8. The triad in sociology or, shall I say, pneumatology. That the
 consciousness is a sort of public spirit among the nerve-cells. Man as a community of
 cells; compound animals and composite plants; society; nature. Feeling implied in
 Firstness.
-Peirce: CP 1.354 Cross-Ref:††
 Section 9. The triad in theology. Faith requires us to be materialists without
 flinching.†1
 
@@ -6843,7 +6780,6 @@ road without a fork; it only connects two termini. Now, no combination of roads
 without forks can have more than two termini; but any number of termini can be
 connected by roads which nowhere have a knot of more than three ways. See the
 
-[Click here
 to view] figure, where I have drawn the termini as self-returning roads, in order to
 introduce nothing beyond the road itself. Thus, the three essential elements of a
 network of roads are road about a terminus, roadway-connection, and branching;
@@ -7462,7 +7398,6 @@ Peirce: CP 1.397 Cross-Ref:††
 purposes of natural selection, in a power of continuing to exist, that is to say, in the
 power of one generation to bring forth another; for as long as another generation
 
-[Click here
 to view]†1
 
 is brought forth the species will continue and as soon as this ceases it is doomed after
@@ -8616,7 +8551,6 @@ distinctions concerning the subjects, while the second pair of each pair of pair
 from distinctions concerning the mode of connection of the subjects. The whole series
 of species of dyads are related like the phrases of a melody, as follows:
 
-[Click here
 to view]
 
 {Essential dyads
@@ -9195,7 +9129,6 @@ body is rigid, that is, has only six degrees of freedom, so that all its radifor
 filaments are fixed when six of its particles are restricted to lying in fixed planes, or
 when six of its plane films are restricted to passing through fixed points, then, all its
 possible displacements are subject to the following conditions:
-Peirce: CP 1.504 Cross-Ref:††
 First, if two particles, A and B, of the rigid solid be situated in points [A[1]]
 and [B[1]] such that the ray {A[1]B[1]} has two points in the firmament, say [C[1]]
 and [D[1]], then A and B, however displaced, must lie in a ray that has two points in
@@ -9207,7 +9140,6 @@ point [{[{C[1]C[2]}{D[1]D[2]}] B[1]}{C[2]D[2]}] or the point
 [{[{C[1]D[2]}{C[2]D[1]}]B[1]}{C[2]D[2]}]; but A and B can occupy simultaneously
 no pair of points which they are not necessarily able to occupy by virtue of this
 statement.
-Peirce: CP 1.504 Cross-Ref:††
 Second, if two particles, A and B, of the rigid solid are situated at points
 [A[1]] and [B[1]] such that the ray {A[1]B[1]} has no point in the firmament, [then]
 in any plane containing [A[1]] and [B[1]] let [C] and [D] be the points of tangency of
@@ -9216,16 +9148,13 @@ rays tangent to the firmament and passing through [A[1]]. Then through
 [Click
 here to view] [A[1]] take any ray {r} whatever, then [{[{CB[1]}r]D}{[{DB[1]}
 r]C}] will be a point where the particle B may be while A is at [A[1]].
-Peirce: CP 1.504 Cross-Ref:††
 Third, if two particles, A and B, of the rigid solid are situated at points [A[1]]
 and [B[1]] such that the ray {A[1]B[1]} has one
 
-[Click here
 to view] point in the firmament [C[1]], [then] in any plane through {A[1]B[1]} take
 any other point [C[2]] on the firmament, and take any point [E] on the ray,
 {C[1]C[2]}. Then, if {t} is the ray tangent to the firmament at [C[2]], A and B may be
 simultaneously at [t{EA[1]} ] and [t{EB[1]}].
-Peirce: CP 1.504 Cross-Ref:††
 Every radial filament of a rigid body (supposed to fill all space) has its polar
 conjugate radial filament. Namely, one of these rays is the intersection of two planes
 tangent to the firmament, while the other passes through the two points of tangency.
@@ -9707,19 +9636,15 @@ Peirce: CP 1.543 Cross-Ref:††
 We begin by asking what is the mode of being of the subject of inquiry, that is, what
 is its absolute and most universal Firstness? The answer comes, that it is either the
 Firstness of Firstness, the Firstness of Secondness, or the Firstness of Thirdness.
-Peirce: CP 1.543 Cross-Ref:††
 We then ask what is the universal Secondness, and what the universal
 Thirdness, of the subject in hand.
-Peirce: CP 1.543 Cross-Ref:††
 Next we say that Firstness of Firstness, that Firstness of Secondness and that
 Firstness of Thirdness, that have been described, have been the Firstness of the
 Firstness in each case. But what is the Secondness that is involved in it and what is
 the Thirdness?
-Peirce: CP 1.543 Cross-Ref:††
 So the Secondnesses as they have been first given are the Firstnesses of those
 Secondnesses. We ask what Secondness they involve and what Thirdness. And so we
 have endless questions, of which I have only given you small scraps.
-Peirce: CP 1.543 Cross-Ref:††
 The answers to these questions do not come of themselves. They require the
 most laborious study, the most careful and exact examination. The system of
 questions does not save that trouble in the least degree. It enormously increases it by
@@ -9985,35 +9910,27 @@ It
 Peirce: CP 1.558 Cross-Ref:††
 558. A quality may have a special determination which prevents its being
 prescinded from reference to a correlate. Hence there are two kinds of relation.
-Peirce: CP 1.558 Cross-Ref:††
 First. That of relates whose reference to a ground is a prescindible or internal
 quality.
-Peirce: CP 1.558 Cross-Ref:††
 Second. That of relates whose reference to a ground is an unprescindible or
 relative quality.
-Peirce: CP 1.558 Cross-Ref:††
 In the former case, the relation is a mere concurrence of the correlates in one
 character, and the relate and correlate are not distinguished. In the latter case the
 correlate is set over against the relate, and there is in some sense an opposition.
-Peirce: CP 1.558 Cross-Ref:††
 Relates of the first kind are brought into relation simply by their agreement.
 But mere disagreement (unrecognized) does not constitute relation, and therefore
 relates of the second kind are only brought into relation by correspondence in fact.
-Peirce: CP 1.558 Cross-Ref:††
 A reference to a ground may also be such that it cannot be prescinded from a
 reference to an interpretant. In this case it may be termed an imputed quality. If the
 reference of a relate to its ground can be prescinded from reference to an interpretant,
 its relation to its correlate is a mere concurrence or community in the possession of a
 quality, and therefore the reference to a correlate can be prescinded from reference to
 an interpretant. It follows that there are three kinds of representations.
-Peirce: CP 1.558 Cross-Ref:††
 First. Those whose relation to their objects is a mere community in some
 
 quality, and these representations may be termed likenesses.†1
-Peirce: CP 1.558 Cross-Ref:††
 Second. Those whose relation to their objects consists in a correspondence in
 fact, and these may be termed indices or signs.†2
-Peirce: CP 1.558 Cross-Ref:††
 Third. Those the ground of whose relation to their objects is an imputed
 character, which are the same as general signs, and these may be termed symbols.
 Peirce: CP 1.559 Cross-Ref:††
@@ -10048,22 +9965,17 @@ formal grammar;†1 the second, logic,†2 would treat of the formal conditions 
 truth of symbols; and the third would treat of the formal conditions of the force of
 symbols, or their power of appealing to a mind, that is, of their reference in general to
 interpretants, and this might be called formal rhetoric.†3
-Peirce: CP 1.559 Cross-Ref:††
 There would be a general division of symbols, common to all these sciences;
 namely, into,
-Peirce: CP 1.559 Cross-Ref:††
 1•. Symbols which directly determine only their grounds or imputed qualities,
 and are thus but sums of marks or terms;
-Peirce: CP 1.559 Cross-Ref:††
 2•. Symbols which also independently determine their objects by means of
 
 other term or terms, and thus, expressing their own objective validity, become capable
 of truth or falsehood, that is, are propositions; and,
-Peirce: CP 1.559 Cross-Ref:††
 3•. Symbols which also independently determine their interpretants, and thus
 the minds to which they appeal, by premissing a proposition or propositions which
 such a mind is to admit. These are arguments.
-Peirce: CP 1.559 Cross-Ref:††
 And it is remarkable that, among all the definitions of the proposition, for
 example, as the oratio indicativa, as the subsumption of an object under a concept, as
 the expression of the relation of two concepts, and as the indication of the mutable
@@ -10071,7 +9983,6 @@ ground of appearance, there is, perhaps, not one in which the conception of refe
 to an object or correlate is not the important one. In the same way, the conception of
 reference to an interpretant or third, is always prominent in the definitions of
 argument.
-Peirce: CP 1.559 Cross-Ref:††
 In a proposition, the term which separately indicates the object of the symbol
 is termed the subject, and that which indicates the ground is termed the predicate. The
 objects indicated by the subject (which are always potentially a plurality -- at least, of
@@ -10082,15 +9993,12 @@ which are usually considered in logic; but I have shown in a paper upon the
 classification of arguments †1 that it is also necessary to consider separately
 propositions of opposition, if we are to take account of such arguments as the
 following:
-Peirce: CP 1.559 Cross-Ref:††
 Whatever is the half of anything is less than that of which it is the half:
 
 A is half of B;
 A is less than B.
-Peirce: CP 1.559 Cross-Ref:††
 The subject of such a proposition is separated into two terms, a "subject
 nominative" and an "object accusative."
-Peirce: CP 1.559 Cross-Ref:††
 In an argument, the premisses form a representation of the conclusion, because
 they indicate the interpretant of the argument, or representation representing it to
 represent its object. The premisses may afford a likeness, index, or symbol of the
@@ -10103,7 +10011,6 @@ M is, for instance, PI, PII, PIII, and PIV;
 
 S is PI, PII, PIII, and PIV:
 .·. S is M.
-Peirce: CP 1.559 Cross-Ref:††
 Here the first premiss amounts to this, that "PI, PII, PIII, and PIV" is a likeness
 of M, and thus the premisses are or represent a likeness of the conclusion. That it is
 different with induction another example will show.
@@ -10111,10 +10018,8 @@ different with induction another example will show.
 SI, SII, SIII, and SIV are taken as samples of the collection M;
 SI, SII, SIII, and SIV are P:
 .·. All M is P.
-Peirce: CP 1.559 Cross-Ref:††
 Hence the first premiss amounts to saying that "SI, SII, SIII, and SIV" is an
 index of M. Hence the premisses are an index of the conclusion.
-Peirce: CP 1.559 Cross-Ref:††
 The other divisions of terms, propositions, and arguments arise from the
 distinction of extension and comprehension. I propose to treat this subject in a
 subsequent paper.†1 But I will so far anticipate that as to say that there is, first, the
@@ -10129,7 +10034,6 @@ comprehension of a term are in an inverse relation, as long as the information r
 the same, and that every increase of information is accompanied by an increase of one
 or other of these two quantities. It may be observed that extension and comprehension
 are very often taken in other senses in which this last proposition is not true.
-Peirce: CP 1.559 Cross-Ref:††
 This is an imperfect view of the application which the conceptions which,
 according to our analysis, are the most fundamental ones find in the sphere of logic. It
 is believed, however, that it is sufficient to show that at least something may be
@@ -10404,8 +10308,6 @@ BOOK IV
 
 THE NORMATIVE SCIENCES
 
-CHAPTER 1
-
 INTRODUCTION†1
 
 573. Normative Science†2 forms the mid-portion of coenoscopy and its most
@@ -10473,7 +10375,6 @@ precisely the lines of separation between them are to be drawn is quite secondar
 clear, however, that esthetics relates to feeling, practics to action, logic to thought.
 
 Peirce: CP 1.575 Cross-Ref:††
-CHAPTER 2
 
 ULTIMATE GOODS†1
 
@@ -10711,7 +10612,6 @@ reason enough for the creation of heaven and earth that it put you, or any other
 individual, into this condition of working for your living?†1
 
 Peirce: CP 1.585 Cross-Ref:††
-CHAPTER 3
 
 AN ATTEMPTED CLASSIFICATION OF ENDS†1
 
@@ -10732,24 +10632,19 @@ designed to show what the essential elements of the different ends appear to me 
 Peirce: CP 1.586 Cross-Ref:††
 586. A. A man may act in a quasi-hypnotic response to an instant command. I
 indicate this by the letter A.
-Peirce: CP 1.586 Cross-Ref:††
 B. A man may act from obedience, although not to a concrete command. I
 indicate this by B. In this case, he may still act as purely on the impulse of the
 moment as in case A. Only if he does so, while still acting from pure obedience, not
 from any impulse of his own, it must be a Mrs. Grundy, a vague personification of
 the community, which he obeys. I will indicate an end into which such
 personification enters as an element by a letter z following the capital letter.
-Peirce: CP 1.586 Cross-Ref:††
 Is there any way in which a man can act from pure obedience when there is no
 concrete command without the element z? Undoubtedly, provided he acts in
 obedience to a law. I will indicate that an end involves a conscious reference to a law,
 or general reason, by writing the before the capital letter. We find, then,
 under B,
-Peirce: CP 1.586 Cross-Ref:††
 Bz. Acting under dread of Mrs. Grundy, without generalizing her dictum.
-Peirce: CP 1.586 Cross-Ref:††
 1B. Acting under awe of a law, without criticizing its obligation.
-Peirce: CP 1.586 Cross-Ref:††
 But cannot the elements 1 and z be combined? Cannot a man act under the
 influence of a vague personification of the community and yet according to a general
 rule of conduct? Certainly: he so acts when he conforms to custom. Only if it is mere
@@ -10757,13 +10652,11 @@ custom and not law, it is not a case of obedience, but of conformity to norm, or
 exemplar. (I never use the word norm in the sense of a precept, but only in that of a
 pattern which is copied, this being the original metaphor.) I indicate an end which
 presents a norm to be conformed to by the capital letter C.
-Peirce: CP 1.586 Cross-Ref:††
 Conformity to a norm may take place by an immediate impulse. It then
 becomes instinctive imitation. But here the man does not vaguely personify the
 community, but puts himself in the shoes of another person, as we say. I call this
 putting of oneself in another's place, retroconsciousness. I indicate that an end
 essentially involves retroconsciousness by writing the letter y after the capital.
-Peirce: CP 1.586 Cross-Ref:††
 Conformity to a norm may also take place without either the y or the z
 element. Only in this case the norm must be a definite ideal which is regarded as in
 itself {kalos k' agathos}. I indicate an end which essentially involves the recognition
@@ -10827,7 +10720,6 @@ the end the same kind of being that a law of nature has, making it lie in the
 rationalization of the universe.†1
 
 Peirce: CP 1.591 Cross-Ref:††
-CHAPTER 4
 
 IDEALS OF CONDUCT†1
 
@@ -11222,7 +11114,6 @@ of reasoning will be to follow such methods as must develope knowledge the most
 speedily. . . .
 
 Peirce: CP 1.616 Cross-Ref:††
-CHAPTER 5
 
 VITALLY IMPORTANT TOPICS
 
@@ -12702,28 +12593,16 @@ and in Milford, Pa., most of his life. For a time, however, he gave private inst
 in logic at New York.
 
 Peirce: CP 2 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
-EDITED BY
-CHARLES HARTSHORNE
 AND
-PAUL WEISS
 
 VOLUME II
 ELEMENTS OF LOGIC
-CAMBRIDGE
-HARVARD UNIVERSITY PRESS
 
 Peirce: CP 2 Copyright Page
 COPYRIGHT, 1932
-BY THE PRESIDENT AND FELLOWS OF
-HARVARD COLLEGE
-PRINTED IN UNITED STATES OF AMERICA
-THE MURRAY PRINTING COMPANY
-CAMBRIDGE, MASSACHUSETTS
 
 Peirce: CP 2 Introduction p iii
-INTRODUCTION
 
 Peirce liked to call himself a logician. For over fifty years he gave his best
 efforts to the development of logic, and there is justice in his contention that his point
@@ -12790,25 +12669,16 @@ Peirce: CP 2 Introduction p v
 Wherever possible Peirce's punctuation and spelling have been retained. Titles
 supplied by the editors for papers previously published are marked with an E, while
 Peirce's titles for unpublished papers are marked with a P. Peirce's titles for
-previously published papers and the editors' titles for unpublished papers are not
 marked. Remarks and additions by the editors are enclosed in light-face square
-brackets. The editors' footnotes are indicated by various typographical signs, while
-Peirce's are indicated by numbers. Paragraphs are numbered consecutively throughout
 the volume. At the top of each page the numbers signify the volume and the first
-paragraph of that page. All references in the indices are to the numbers of the
 
 paragraphs.
 
-HARVARD UNIVERSITY
 FEBRUARY, 1932.
 
 Peirce: CP 2 Contents Book 1 Chapter 1 p vi
-CONTENTS
 
-Introduction
 BOOK I. GENERAL AND HISTORICAL SURVEY OF LOGIC
-Paragraph
-Numbers
 CHAP. 1. CRITICAL ANALYSIS OF LOGICAL THEORIES
 1. Logic's Promises
 
@@ -13103,13 +12973,10 @@ suppose has been written down; but no human being could ever put together the
 fragments. I could not myself do so.--1903
 
 Peirce: CP 2.1 Cross-Ref:††
-BOOK I
 
 GENERAL AND HISTORICAL SURVEY OF LOGIC
 
 ELEMENTS OF LOGIC
-
-CHAPTER 1
 
 CRITICAL ANALYSIS OF LOGICAL THEORIES†1
 
@@ -14282,7 +14149,6 @@ There are reasons why I think this somewhat objectionable; but it seems to me to
 depend upon the same kind of observation.
 
 Peirce: CP 2.79 Cross-Ref:††
-CHAPTER 2
 
 PARTIAL SYNOPSIS OF A PROPOSED WORK IN LOGIC†1
 
@@ -15047,7 +14913,6 @@ Only it is very infantile. Our final view of logic will exhibit it (on one side 
 faith come to years of discretion.
 
 Peirce: CP 2.119 Cross-Ref:††
-CHAPTER 3
 
 WHY STUDY LOGIC?P†1
 
@@ -16903,11 +16768,8 @@ a broader conception of logic. It is hardly necessary to say that upon some larg
 subjects his views are controverted. . . .
 
 Peirce: CP 2.219 Cross-Ref:††
-BOOK II
 
 SPECULATIVE GRAMMARP
-
-CHAPTER 1
 
 THE ETHICS OF TERMINOLOGY†1
 
@@ -17041,22 +16903,17 @@ me, I proceed to state the rules which I find to be binding upon me in this fiel
 Peirce: CP 2.226 Cross-Ref:††
 226. First. To take pains to avoid following any recommendation of an
 arbitrary nature as to the use of philosophical terminology.
-Peirce: CP 2.226 Cross-Ref:††
 Second. To avoid using words and phrases of vernacular origin as technical
 terms of philosophy.
-Peirce: CP 2.226 Cross-Ref:††
 Third. To use the scholastic terms in their anglicised forms for philosophical
 conceptions, so far as they are strictly applicable; and never to use them in other than
 their proper senses.
-Peirce: CP 2.226 Cross-Ref:††
 Fourth. For ancient philosophical conceptions overlooked by the scholastics,
 to imitate, as well as I can, the ancient expression.
-Peirce: CP 2.226 Cross-Ref:††
 Fifth. For precise philosophical conceptions introduced into philosophy since
 
 the middle ages, to use the anglicised form of the original expression, if not positively
 unsuitable, but only in its precise original sense.
-Peirce: CP 2.226 Cross-Ref:††
 Sixth. For philosophical conceptions which vary by a hair's breadth from those
 for which suitable terms exist, to invent terms with a due regard for the usages of
 philosophical terminology and those of the English language but yet with a distinctly
@@ -17068,14 +16925,12 @@ hereafter be introduced into philosophy. Having once introduced a symbol, to
 consider myself almost as much bound by it as if it had been introduced by somebody
 else; and after others have accepted it, to consider myself more bound to it than
 anybody else.
-Peirce: CP 2.226 Cross-Ref:††
 Seventh. To regard it as needful to introduce new systems of expression when
 new connections of importance between conceptions come to be made out, or when
 such systems can, in any way, positively subserve the purposes of philosophical
 study.
 
 Peirce: CP 2.227 Cross-Ref:††
-CHAPTER 2
 
 DIVISION OF SIGNS
 
@@ -17776,7 +17631,6 @@ distinguish between that which represents and the act or relation of representin
 former may be termed the "representamen," the latter the "representation."
 
 Peirce: CP 2.274 Cross-Ref:††
-CHAPTER 3
 
 THE ICON, INDEX, AND SYMBOL
 
@@ -18318,7 +18172,6 @@ between sign and object. If this was the meaning of Burgersdicius, his thema is 
 same as the present writer's "symbol." (See Sign.)
 
 Peirce: CP 2.309 Cross-Ref:††
-CHAPTER 4
 
 PROPOSITIONS†1
 
@@ -19416,12 +19269,10 @@ other hypothetical proposition, in the same sense that some recognized range of
 experience or thought is referred to.
 Peirce: CP 2.361 Cross-Ref:††
 361. A few of the most frequently recurring scholastic phrases follow.
-Peirce: CP 2.361 Cross-Ref:††
 . . . Analogical predication; a rather favourite expression of Aquinas:
 predication in which the predicate is taken neither in its strict sense nor in an
 unrelated sense, but in a peculiar sense for which there is a good reason, as when a
 statue is said to be a man.
-Peirce: CP 2.361 Cross-Ref:††
 . . . Denominative predication: predication in which that whose nature it is to
 be a subject is taken as the subject, and something whose nature it is to be predicated
 is taken as the predicate; a predication of an accident of a substance. (It is well
@@ -19433,17 +19284,14 @@ term of its own subject; in a broad sense, it is the predication of any concrete
 suppositum, or of any subject of less breadth; in the widest sense, it is predication of
 any predicate of any subject. Denominative predication may be a posteriori or a
 priori, as homo est albus, rationale est substantia, homo est animal.
-Peirce: CP 2.361 Cross-Ref:††
 . . . Dialectic predication, as defined by Aristotle (I. Top., x): the predication
 of a general term in a proposition which may result from an argument in a probable
 place, and not reducible to anything prior.
-Peirce: CP 2.361 Cross-Ref:††
 Direct predication: predication in the usual sense of representing that the
 breadth of the subject belongs to the predicate, and the depth of the predicate to the
 subject; or, in scholastic language, it is predication of a higher term of a lower one, of
 a passion of a subject, of an accident of a subject, of a mode of a quiddity, of a
 difference of a genus.
-Peirce: CP 2.361 Cross-Ref:††
 . . . Essential predication: in which the predicate is wholly contained in the
 essence of the subject. It is, therefore, in Kant's sense, an analytical judgment. But
 neither Kant nor the scholastics provide for the fact that an indefinitely complicated
@@ -19465,7 +19313,6 @@ necessary consequence, and a very recondite one, of a mere definition, quite con
 to what either Kant or the scholastics supposed and built upon. Cf. Scotus (In univ.
 Porph., 9. 12), who makes essential predication the predication of genus, species, or
 difference.
-Peirce: CP 2.361 Cross-Ref:††
 Exercised predication. The distinction between exercised and signate
 predication belongs to Scotus. (The passage which Prantl attributes to Antonius
 Andreas †1 is a quotation verbatim from Scotus, as often naturally happens in Prantl's
@@ -19479,11 +19326,9 @@ correctly.) S, nego; E, non. E, tantum; S, excludo. The abstract definition of S
 is: "Esse in rebus primae intentionis, illud exercet, quod praedicari signat in secundis
 intentionibus.†3 Exercised predication is distinguished into praedicatio de proprio
 supposito and praedicatio de subiecto; the former is essential, the latter accidental.
-Peirce: CP 2.361 Cross-Ref:††
 Formal predication: predication where the predicate is in the concept of the
 subject, independent of any extrinsic cause or of any particular matter in qua. The
 difference between formal and essential predication is somewhat trivial and confused.
-Peirce: CP 2.361 Cross-Ref:††
 . . . Natural predication: when the subject and predicate ought to be so related
 according to their nature. This is substantially the definition given in many books; but
 it conveys little idea of how the expression is used. Natural predication is always
@@ -19926,13 +19771,11 @@ Peirce: CP 2.379 Cross-Ref:††
 379. (1) In its logical sense, negation is opposed to affirmation, although,
 when it is used relatively, this is perhaps not a convenient contrary term; in its
 metaphysical sense, negative is opposed to positive (fact, etc.)
-Peirce: CP 2.379 Cross-Ref:††
 The conception of negation, objectively considered, is one of the most
 important of logical relations; but subjectively considered, it is not a term of logic at
 all, but is prelogical. That is to say, it is one of those ideas which must have been fully
 developed and mastered before the idea of investigating the legitimacy of reasonings
 could have been carried to any extent.
-Peirce: CP 2.379 Cross-Ref:††
 The treatment of the doctrine of negation affords a good illustration of the
 effects of applying the principle of Pragmatism (q. v.)†1 in logic. The pragmatist has
 in view a definite purpose in investigating logical questions. He wishes to ascertain
@@ -19951,7 +19794,6 @@ result) syllogistic. At all times this part of logic has been recognized as a ne
 preliminary to further investigation. Deductive and inductive or methodological logic
 have always been distinguished; and the former has generally been called by that
 name.
-Peirce: CP 2.379 Cross-Ref:††
 In order to trace these relations between propositions, it is necessary to dissect
 the propositions to a certain extent. There are different ways in which propositions
 can be dissected. Some of them conduce in no measure to the solution of the present
@@ -19973,12 +19815,10 @@ Every priest marries some woman to --,
 -- marries -- to some man,
 -- marries -- to --.
 
-Peirce: CP 2.379 Cross-Ref:††
 It may be that there is some language in which the blanks in such forms cannot
 be filled with proper names so as to make perfect propositions, because the syntax
 may be different for sentences involving proper names. But it does not matter what
 the rules of grammar may be.
-Peirce: CP 2.379 Cross-Ref:††
 The last of the above blank forms is distinguished by containing no selective
 word such as some, every, any, or any expression equivalent in force to such a word.
 It may be called a Predicate (q.v. [358]) or {rhéma}. Corresponding to every such
@@ -20006,7 +19846,6 @@ marries. It so happens that both in Latin and in English this convention agrees 
 the usage of the language. There is probably but a small minority of languages of the
 globe in which this very artificial rule prevails. Of two contradictory propositions
 each is said to result from the negation of the other.
-Peirce: CP 2.379 Cross-Ref:††
 The relation of negation may be regarded as defined by the principles of
 contradiction and excluded middle. See Laws of Thought [bk. III, ch. 4, §15]. That is
 an admissible, but not a necessary, point of view. Out of the conceptions of
@@ -20020,12 +19859,10 @@ properly copulas or assertions of the relation between the several individual su
 and the predicate, but mere signs of the logical relations between different
 components of the predicate. The logical doctrine connected with those signs is of
 considerable importance to the theory of pragmatism.
-Peirce: CP 2.379 Cross-Ref:††
 . . . Negant or negative negation is the negation effected by attaching the
 negative particle to the copula in the usual Latin idiom, "Socrates non est stultus," in
 contradistinction to infinite ({aoristé}), or infinitant, negation, which is effected by
 attaching the negative particle to the predicate, "Socrates est non stultus."
-Peirce: CP 2.379 Cross-Ref:††
 Kant revived this distinction in order to get a triad to make out the symmetry
 of his table of categories; and it has ever since been one of the deepest and dearest
 [Elec. editor: sic] studies of German logicians. No idea is more essentially dualistic,
@@ -20081,7 +19918,6 @@ Peirce: CP 2.382 Cross-Ref:††
 but it is the logical qualification of a proposition or its copula, or the corresponding
 qualification of a fact or its form, in the ways expressed by the modes possibile,
 impossibile, contingens, necessarium.
-Peirce: CP 2.382 Cross-Ref:††
 Any qualification of a predication is a mode; and Hamilton says (Lects. on
 Logic, xiv) that "all logicians" call any proposition affected by a mode a modal
 proposition. This, however, is going much too far; for not only has the term usually
@@ -20090,7 +19926,6 @@ been restricted in practice, from the age of Abelard, when it first appeared,†
 now, to propositions qualified by the four modes "possible," "impossible,"
 "necessary," and "contingent," with only occasional extension to any others, but
 positive testimonies to that effect might be cited in abundance.
-Peirce: CP 2.382 Cross-Ref:††
 The simplest account of modality is the scholastic, according to which the
 necessary (or impossible) proposition is a sort of universal proposition; the possible
 (or contingent, in the sense of not necessary) proposition, a sort of particular
@@ -20111,7 +19946,6 @@ the actual state of the speaker. The necessary proposition asserts that, in the 
 state of knowledge, there is no case in the whole range of ignorance in which the
 proposition is false. In this sense it may be said that an impossibility underlies every
 necessity. The possible proposition asserts that there is a case in which it is true.
-Peirce: CP 2.382 Cross-Ref:††
 Various subtleties are encountered in the study of modality. Thus, when the
 thinker's own state of knowledge is the one whose range of ignorance is in question,
 the judgments "A is true" and "A must be true," are not logically equivalent, the latter
@@ -20120,7 +19954,6 @@ affords direct and conclusive evidence of its truth. The two are analogous to "A
 true" and "A is true, and I say so"; which are readily shown not to be logically
 equivalent by denying each, when we get "A is false" and "If A is true, I do not say
 so."
-Peirce: CP 2.382 Cross-Ref:††
 In the necessary particular proposition and the possible universal proposition
 there is sometimes a distinction between the "composite" and "divided" senses.
 "Some S must be P," taken in the composite sense, means that there is no case, in the
@@ -20182,18 +20015,14 @@ the old distinction between logical and real possibility and necessity he applie
 new pairs of terms, analytic and synthetic, and subjective and objective. The
 following definitions (where every word is studied) certainly advanced the subject
 greatly:
-Peirce: CP 2.385 Cross-Ref:††
 "1. Was mit den formalen Bedingungen der Erfahrung (der Anschauung und
 den Begriffen nach) übereinkommt, ist möglich.
 
-Peirce: CP 2.385 Cross-Ref:††
 "2. Was mit den materialen Bedingungen der Erfahrung (der Empfindung)
 zusammenhängt, ist wirklich.
-Peirce: CP 2.385 Cross-Ref:††
 "3. Dessen Zusammenhang mit dem Wirklichen nach allgemeinen
 Bedingungen der Erfahrung bestimmt ist, ist (existirt) nothwendig" (Krit. d. reinen
 Vernunft, 1st ed., 219).
-Peirce: CP 2.385 Cross-Ref:††
 Kant holds that all the general metaphysical conceptions applicable to
 experience are capable of being represented as in a diagram, by means of the image of
 time. Such diagrams he calls "schemata." The schema of the possible he makes to be
@@ -20319,7 +20148,6 @@ here again see," he says, "how spatial intuition, just as in geometry, verifies
 (begründet) a priority and necessity."
 
 Peirce: CP 2.391 Cross-Ref:††
-CHAPTER 5
 
 TERMS†1E
 
@@ -20508,14 +20336,11 @@ Peirce: CP 2.399 Cross-Ref:††
 399. In the use of the term "extension" the want of a definite convention is still
 more marked. The Port Royalists define it as "those subjects to which the idea
 applies."†7 It would appear, therefore, that it might include mere fictions.
-Peirce: CP 2.399 Cross-Ref:††
 Others limit the term to real species, and at the same time extend it to single
 beings. This is the case with Watts,†8 and also with Friedrich Fischer.†9
-Peirce: CP 2.399 Cross-Ref:††
 Others are most emphatic in declaring that they mean by it things, and not
 species, real or imaginary. This is the case with Bachmann,†10 Esser,†11 and
 Schulze.†12
-Peirce: CP 2.399 Cross-Ref:††
 Others make it include neither concepts nor things, but singular
 representations. This is the case with the strict Kantian. The following table exhibits
 this diversity:
@@ -20535,19 +20360,15 @@ General terms, according to Spalding.†17
 Psychical concepts, according to Strümpell.†18
 Variable marks, according to Ritter.†19
 
-Peirce: CP 2.399 Cross-Ref:††
 Again, logicians differ as to whether by extension they mean the concepts,
 species, things, or representations to which the term is habitually applied in the
 judgment, or all to which it is truly applicable. The latter position is held by Herbart,
 Kiesewetter, etc.; the former by Duncan, Spalding, Vorländer, Überweg, etc.
-Peirce: CP 2.399 Cross-Ref:††
 Some logicians include only actual things, representations, etc., under
 extension (Bachmann, Fries, Herbart); others extend it to such as are merely possible
 (Esser, Ritter, Gerlach).
-Peirce: CP 2.399 Cross-Ref:††
 Finally, some few logicians speak of the two quantities as numerical, while
 most writers regard them as mere aggregates of diverse objects or marks.
-Peirce: CP 2.399 Cross-Ref:††
 [Dressler, following a hint from Beneke, distinguishes real and ideal extension
 and comprehension.--1893.]
 
@@ -20775,15 +20596,11 @@ references to an interpretant, are those of which logic must principally make us
 there also introduced the term "symbol," to include both concept and word. Logic
 treats of the reference of symbols in general to their objects. A symbol, in its
 reference to its object, has a triple reference:
-Peirce: CP 2.418 Cross-Ref:††
 First, Its direct reference to its object, or the real things which it represents;
-Peirce: CP 2.418 Cross-Ref:††
 Second, Its reference to its ground through its object, or the common
 characters of those objects;
-Peirce: CP 2.418 Cross-Ref:††
 Third, Its reference to its interpretant through its object, or all the facts known
 about its object.
-Peirce: CP 2.418 Cross-Ref:††
 What are thus referred to, so far as they are known, are:
 
 First, The informed breadth of the symbol;
@@ -21110,7 +20927,6 @@ Antoninus Pius. Cf. also Thurot, Notices et Extraits des MSS. xxii. Pt. II, and 
 Scotus, Works, Lyons edit. 1.
 
 Peirce: CP 2.435 Cross-Ref:††
-CHAPTER 6
 
 THE GRAMMATICAL THEORY OF JUDGMENT AND INFERENCE†1
 
@@ -21255,7 +21071,6 @@ our mind. The three essential elements of inference are, then, colligation, obse
 and the judgment that what we observe in the colligated data follows a rule.†P1
 
 Peirce: CP 2.445 Cross-Ref:††
-BOOK III
 
 CRITICAL LOGIC
 
@@ -21263,8 +21078,6 @@ A. EXPLICATIVE REASONING
 B. AMPLIATIVE REASONING
 
 A. EXPLICATIVE REASONING
-
-CHAPTER 1
 
 THE ARISTOTELIAN SYLLOGISTIC†1†P1P
 
@@ -21491,8 +21304,6 @@ between Affirmatives and Negatives. Universal propositions do not, while particu
 propositions do, imply the existence of their subjects. The following figure illustrates
 the precise sense here assigned to the four forms A, E, I, O.
 
-[Click here to view]
-
 Peirce: CP 2.456 Cross-Ref:††
 In the quadrant marked 1 there are lines which are all vertical; in the quadrant
 marked 2 some lines are vertical and some not; in quadrant 3 there are lines none of
@@ -21575,7 +21386,6 @@ No S is P, and Some S is not P, are true and false together under precisely the
 opposite circumstances. . . .
 
 Peirce: CP 2.461 Cross-Ref:††
-CHAPTER 2
 
 ON THE NATURAL CLASSIFICATION OF ARGUMENTS†1
 
@@ -21838,11 +21648,7 @@ is not
 
 Any S is
 
-M
-
 Some
-
-Any S is
 
 P
 
@@ -21850,8 +21656,6 @@ Some is not
 
 Peirce: CP 2.481 Cross-Ref:††
 481. Then its two apagogical modifications are the second and third figures.
-
-Any M is
 
 P
 
@@ -21871,7 +21675,6 @@ Any
 is
 
 Any S is M
-Some
 
 Some M is not P
 is
@@ -21888,21 +21691,15 @@ result, infers the denial of the case; the third figure, from the denial of the 
 assertion of the case, infers the denial of the rule. Hence we write the moods as
 follows, by allowing inferences only on the straight lines:
 
-[Click here
-
-to view]
 Assertion of Rule,
 Assertion of Case;
 Assertion of Result.
 
-[Click here to view]
 Assertion of Rule,
 Denial of Result;
 Denial of Case.
 
 view]
-
-[Click here to
 
 Denial of Result,
 Assertion of Case;
@@ -21917,8 +21714,6 @@ the proposition asserting or denying the case; find in the body of the table the
 proposition asserting or denying the result. In the body of the table, propositions
 indicated by italics belong to the first figure, those by black-letter to the second
 figure, and those by script to the third figure.
-
-[Click here to view]
 
 Peirce: CP 2.485 Cross-Ref:††
 485. If, as the denial of the result in the second and third figures, we put the
@@ -22050,7 +21845,6 @@ some-S is or is not P; while the second premiss, All S is M, can be contraposed 
 "Some M is some-S"; and thus the forms:
 
 Some S is (or is not) P,
-Any S is
 
 M;
 
@@ -22059,7 +21853,6 @@ M;
 are reduced to the following:
 
 Anysome-S is (or is not) P,
-Some
 
 M is
 
@@ -22104,8 +21897,6 @@ Any not-P is not some-S,
 
 Some S is P;
 
-Any M is
-
 (.·. Some S is not M;)
 
 not-P;
@@ -22129,8 +21920,6 @@ Any M is P,
 Any P is not some-S,
 
 Some S is not P;
-
-Any M is
 
 (.·. Some S is not M;)
 
@@ -22157,7 +21946,6 @@ Some S is M;
 
 .·. Some
 
-Some
 P is
 
 M,
@@ -22193,7 +21981,6 @@ be obtained by a substitution whose possibility is expressed syllogistically thu
 Any not-P is not P,
 
 Some not-P is M;
-.·.Some
 
 M is not P.
 
@@ -22201,7 +21988,6 @@ Peirce: CP 2.495 Cross-Ref:††
 495. Bocardo and its long reduction are
 
 Some S is not P,
-Any S is
 (.·.Some M is not P;)
 
 Any
@@ -22404,7 +22190,6 @@ inferences; and omitting them we have:
 P
 Any M
 
-not P
 .·.Any P is not M.
 
 S
@@ -22543,8 +22328,6 @@ Any some-Z is
 
 Some Y is Z;
 
-Some
-
 .·.Some X is Y.
 
 .·. Some
@@ -22568,10 +22351,7 @@ Some Y is Z,
 Any X is not Y;
 .·.Some Z is not X.
 
-Peirce: CP 2.504 Cross-Ref:††
 Let some-Y be that Y which is Z when some Y is Z; and then we have:
-
-Some
 
 Y is
 
@@ -22586,7 +22366,6 @@ Y;
 
 X.
 
-Peirce: CP 2.504 Cross-Ref:††
 Then let not-X be that which any Y is when some Y is not X, and we have,
 
 Some some-Y is not-X,
@@ -22606,13 +22385,11 @@ Some not-X is some-Y;
 
 Z.
 
-Peirce: CP 2.504 Cross-Ref:††
 From the conclusion of this reduction, the conclusion of Frisesomorum is
 justified as follows:
 
 Some not-X is
 Any
-.·.Some
 
 Z is not
 
@@ -22621,23 +22398,18 @@ Z,
 X is not not-X;
 X.
 
-Peirce: CP 2.504 Cross-Ref:††
 Another mode of effecting the short reduction of Frisesomorum is this: Let
 not-Y be that which any X is when no X is Y, and we have:
-
-Some
 
 Y is
 
 Any not-Y is not
-.·.Some
 
 Z,
 Y;
 
 Z is not not-Y.
 
-Peirce: CP 2.504 Cross-Ref:††
 Let some-Z be that Z which is not not-Y when some Z is not-Y, and we have,
 
 Any some-Z is not not-Y,
@@ -22646,7 +22418,6 @@ and by conversion,
 
 Any not-Y is not some-Z.
 
-Peirce: CP 2.504 Cross-Ref:††
 Thus we obtain as the reduced form:
 
 Any not-Y is not some-Z,
@@ -22659,12 +22430,10 @@ not-Y;
 
 X is some-Z.
 
-Peirce: CP 2.504 Cross-Ref:††
 From the conclusion of this reduction, we get that of Frisesomorum thus:
 
 Some some-Z is
 Any
-.·.Some
 
 Z is not
 
@@ -22756,7 +22525,6 @@ Peirce: CP 2.509 Cross-Ref:††
 509. In a similar way, from the syllogism:
 
 Any M is π'P',
-Any S is
 
 M;
 
@@ -22795,22 +22563,17 @@ owing to the establishment of more and more secure premisses.
 Peirce: CP 2.511 Cross-Ref:††
 511. The rules for valid induction and hypothesis deducible from this theory
 are as follows:
-Peirce: CP 2.511 Cross-Ref:††
 1. The explaining syllogism, that is to say, the deductive syllogism, one of
 whose premisses is inductively or hypothetically inferred from the other and from its
 conclusion, must be valid.
-Peirce: CP 2.511 Cross-Ref:††
 2. The conclusion is not to be held as absolutely true, but only until it can be
 shown that, in the case of induction, S' was taken from some narrower class than M,
 or, in the case of hypothesis, that P' was taken from some higher class than M.
-Peirce: CP 2.511 Cross-Ref:††
 3. From the last rule it follows as a corollary that in the case of induction the
 subject of the premisses must be a sum of subjects, and that in the case of hypothesis
 the predicate of the premisses must be a conjunction of predicates.
-Peirce: CP 2.511 Cross-Ref:††
 4. Also, that this aggregate must be of different objects or qualities and not of
 mere names.
-Peirce: CP 2.511 Cross-Ref:††
 5. Also, that the only principle upon which the instanced subjects or predicates
 can be selected is that of belonging to M.†P1
 
@@ -22930,7 +22693,6 @@ Among probable inferences, it is obvious that hypothesis corresponds to the seco
 figure, induction to the third, and analogy to the second-third.
 
 Peirce: CP 2.517 Cross-Ref:††
-CHAPTER 3
 
 EXTENSION OF THE ARISTOTELIAN SYLLOGISTICP
 
@@ -23397,19 +23159,16 @@ Hamilton's scholars were perfect know-nothings, could not say what he had taught
 all, but thought it must have been something very different from what he and Baynes,
 for him, had most distinctly said, and which anybody with a head can see necessarily
 follows from the initial assumption.
-Peirce: CP 2.534 Cross-Ref:††
 The first of the sixteen requirements for the prize essay was that it should state
 "what logic postulates as a condition of its applicability." Note the tone of classroom
 question. No answer will gain the prize, one feels sure, unless it most precisely
 reproduces the author's opinion, without subtraction nor addition. Baynes' statement is
 admirably clear. The postulate is "that we be allowed to state in language what is
 contained in thought."†1
-Peirce: CP 2.534 Cross-Ref:††
 That the doctrine of the paragraphs was really Hamilton's doctrine, is shown,
 not only by all the evidences above, but by the further testimony of Archbishop
 Thomson and Dean Mansel, two of his foremost pupils. The very style apes Hamilton.
 ...
-Peirce: CP 2.534 Cross-Ref:††
 But though Hamilton was surer than sure that the true propositional forms
 were those eight, he never did succeed, nor have any of the repeaters of the shibboleth
 succeeded, in satisfying their own minds as to the meaning of those eight formulæ!!
@@ -23429,13 +23188,10 @@ only 3 nonmetrical situations which two conics can have relatively to one anothe
 
 Each conic may be regarded as representing the division of the universe into those
 things to which a term applies and those to which it does not apply. Then:
-Peirce: CP 2.534 Cross-Ref:††
 1. Coincidence gives two relations, between two terms, according as the two
 terms are on the same or opposite sides of the line. But Hamilton only recognizes the
 former.
-Peirce: CP 2.534 Cross-Ref:††
 2. Intersection gives only one relation.
-Peirce: CP 2.534 Cross-Ref:††
 3. Non-intersection gives four relations, two of which, however, are of the
 same form (the terms only being transposed). These cases Hamilton recognizes
 (considering them as one only), and also the case of S, P, and what is neither S nor P,
@@ -23487,7 +23243,6 @@ qualities it gives four, for the assertion may be that an object wants some char
 common to all non-men; a point made by ancient writers. . . .
 
 Peirce: CP 2.537 Cross-Ref:††
-CHAPTER 4
 
 NOTES ON EXPLICATIVE REASONING
 
@@ -24342,16 +24097,13 @@ Peirce: CP 2.584 Cross-Ref:††
 
 584. (1)Instrumenta novem sunt, guttur, lingua, palatum
 Quattuor et dentes, et duo labra simul.†3
-Peirce: CP 2.584 Cross-Ref:††
 The following mnemonic verses are contained in the Summulae Logicales of
 Petrus Hispanus, but were older, perhaps very much older.
-Peirce: CP 2.584 Cross-Ref:††
 (2) "Quae?" ca. vel hyp., "Qualis?" ne. vel aff., u. "Quanta?" univ. par. in. vel
 sing.†4 (What is the substance of a proposition? categorical or hypothetical. What is
 its quality? negative or affirmative. What is its quantity? universal, particular,
 indefinite, or singular.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (3)Simpliciter F~ec~i, convertitur ~Ev$a per acci,
 ~Ast~o per contra: sic fit conversio tota.
 Asserit ~A, negat ~E, s~ed universaliter ambae;
@@ -24360,7 +24112,6 @@ Asserit ~I, negat ~O, sed particulariter ambo.†5
 (E and I are converted simply; E and A, per accidens; A and O, per
 contrapositionem.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (4)Prae, contradic.; post, contra.; prae postque, subalter.
 Non omnis, quidam non; omnis non, quasi nullus;
 Non nullus, quidam; sed "nullus non" valet "omnis";
@@ -24370,7 +24121,6 @@ Non alter, neuter; "neuter non" praestat "uterque."
 (Non placed before omnis or nullus gives the contradictory proposition; placed after,
 the contrary; both before and after, the subalternate.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (5)Primus, $Am~ab~im~us; ~Ed~ent~ul~i que, secundus;
 Tertius, ~Ill$i$ac~e; P~urp$ur$e~a, reliquus.
 Destruit ~u totum, s~ed ~a confirmat utrumque;
@@ -24386,7 +24136,6 @@ impossible; the fourth for the necessary. The vowel a signifies that both mode a
 mode is to be denied; u, that both mode and dictum are to be denied. Each word refers
 to a line or order of equipollent modal forms.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (6)Tertius est quarto semper contrarius ordo.
 Sit tibi linea subcontraria prima secundae.
 Tertius est primo contradictorius ordo.
@@ -24402,12 +24151,10 @@ impossibile est currere" is that of contradictories. The relation of "Sortem pos
 est non currere" and "Sortem necesse est currere" is likewise that of contradictories.
 "Sortem possibile est currere" follows from "Sortem necesse est currere," as does
 "Sortem possibile est non currere" from "Sortem impossibile est currere.")
-Peirce: CP 2.584 Cross-Ref:††
 (7) Sub. prae. prima, secund~a prae. bis, tertia sub. bis.
 (The first figure contains the middle term as subject and predicate; the second, the
 middle as predicated twice; the third, the middle twice as subject.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (8)B~arb$ar$a, C~el~ar~ent, D$ar$i~i, F$er$i~o, B$ar$al~ipton,
 C~el~ant~es, D$ab$it~is, F~ap~esm~o, Fr~is$es$om~orum.
 C~es$ar$e, C~am~estr~es, F~est~in$o, B$ar~ok$o, D$ar~apti,
@@ -24430,7 +24177,6 @@ introduces an m into the name of a mood containing an s or p only after its thir
 vowel, or who omits m from the name of a mood having s or p after the first and
 second vowels, uses the fourth figure.)
 
-Peirce: CP 2.584 Cross-Ref:††
 (9)Simpliciter vult s, verti p vero per acci.
 M vult transponi, k per imposs~ibile duci.
 Servat maiorem variatque secunda minorem;
@@ -24443,7 +24189,6 @@ preferred reduction is by reduction of the contradictory of the conclusion to an
 absurdity, this contradictory of the conclusion being, in the second figure, put in place
 of the minor premiss--the major being retained--and in the third figure in the place of
 the major--the minor being retained.)
-Peirce: CP 2.584 Cross-Ref:††
 A great number of other memorial words and verses have been proposed by
 logicians.
 
@@ -25115,8 +24860,6 @@ are given by Paulus Venetus, loc. cit.†3
 Peirce: CP 2.619 Cross-Ref:††
 B. AMPLIATIVE REASONING
 
-CHAPTER 5
-
 DEDUCTION, INDUCTION, AND HYPOTHESIS†1
 
 §1. RULE, CASE, AND RESULTE
@@ -25701,7 +25444,6 @@ synthetic inference given in 623, I can promise him that he will find his advant
 it, in various ways.
 
 Peirce: CP 2.645 Cross-Ref:††
-CHAPTER 6
 
 THE DOCTRINE OF CHANCES†1
 
@@ -25975,7 +25717,6 @@ intellectual relation. It must reach, however vaguely, beyond this geological ep
 beyond all bounds. He who would not sacrifice his own soul to save the whole world,
 is, as it seems to me, illogical in all his inferences, collectively. Logic is rooted in the
 social principle.
-Peirce: CP 2.654 Cross-Ref:††
 To be logical men should not be selfish; and, in point of fact, they are not so
 selfish as they are thought. The willful prosecution of one's desires is a different thing
 from selfishness. The miser is not selfish; his money does him no good, and he cares
@@ -25987,14 +25728,12 @@ with anxiety the possible exhaustion of coal in some hundreds of years, or the
 cooling-off of the sun in some millions, and show in the most popular of all religious
 tenets that we can conceive the possibility of a man's descending into hell for the
 salvation of his fellows.
-Peirce: CP 2.654 Cross-Ref:††
 Now, it is not necessary for logicality that a man should himself be capable of
 the heroism of self-sacrifice. It is sufficient that he should recognize the possibility of
 it, should perceive that only that man's inferences who has it are really logical, and
 should consequently regard his own as being only so far valid as they would be
 accepted by the hero. So far as he thus refers his inferences to that standard, he
 becomes identified with such a mind.
-Peirce: CP 2.654 Cross-Ref:††
 This makes logicality attainable enough. Sometimes we can personally attain
 to heroism. The soldier who runs to scale a wall knows that he will probably be shot,
 but that is not all he cares for. He also knows that if all the regiment, with whom in
@@ -26007,7 +25746,6 @@ was to happen in all possible cases of the sort could act logically, and would d
 from the pack with the most red cards, and thus, though incapable himself of such
 sublimity, our logician would imitate the effect of that man's courage in order to share
 his logicality.
-Peirce: CP 2.654 Cross-Ref:††
 But all this requires a conceived identification of one's interests with those of
 an unlimited community. Now, there exist no reasons, and a later discussion will
 show that there can be no reasons, for thinking that the human race, or any intellectual
@@ -26472,7 +26210,6 @@ be described as an excessively irregular oscillation, back and forth, from one s
 1/3 to the other. . . .
 
 Peirce: CP 2.669 Cross-Ref:††
-CHAPTER 7
 
 THE PROBABILITY OF INDUCTION†1
 
@@ -26603,8 +26340,6 @@ Then (the questions being always such as are to be answered by yes or no), those
 reference to which their answers agree are the same as those which both answer
 correctly together with those which both answer falsely, or
 
-93 x 81
-
 7 x 19
 
 --------- + --------- of all. The proportion of those which
@@ -26614,13 +26349,9 @@ both answer correctly out of those their answers to which
 
 agree is, therefore--
 
-93 x 81
 --------100 x 100
 
-93 x 81
-
 ------------------ or --------------------.
-93 x 81
 
 7 x 19
 
@@ -26971,26 +26702,20 @@ half the time within
 9 times out of 10 within
 
 1.163√2p(1-p)
-------s
 
 99 times out of 100 within
 
 1.821√2p(1-p)
 
-------s
-
 999 times out of 1,000 within
 
 2.328√2p(1-p)
-------s
 
 9,999 times out of 10,000 within
 
 2.751√2p(1-p)
-------s
 
 9,999,999,999 times out of 10,000,000,000 within 4.77√2p(1-p)
-------s
 
 Peirce: CP 2.687 Cross-Ref:††
 The use of this may be illustrated by an example. By the census of 1870, it
@@ -27178,7 +26903,6 @@ Peirce: CP 2.696 Cross-Ref:††
 696. The analogy between syllogism and what is here called probable
 deduction is certainly genuine and important; yet how wide the differences between
 the two modes of inference are, will appear from the following considerations:
-Peirce: CP 2.696 Cross-Ref:††
 (1) The logic of probability is related to ordinary syllogistic as the quantitative
 to the qualitative branch of the same science. Necessary syllogism recognizes only the
 inclusion or non-inclusion of one class under another; but probable inference takes
@@ -27186,7 +26910,6 @@ inclusion or non-inclusion of one class under another; but probable inference ta
 account of the proportion of one class which is contained under a second. It is like the
 distinction between projective geometry, which asks whether points coincide or not,
 and metric geometry, which determines their distances.
-Peirce: CP 2.696 Cross-Ref:††
 (2) For the existence of ordinary syllogism, all that is requisite is that we
 should be able to say, in some sense, that one term is contained in another, or that one
 object stands to a second in one of those relations: "better than," "equivalent to," etc.,
@@ -27199,7 +26922,6 @@ But probable inference could not be made in such a universe, because no signific
 would attach to the words "quantitative ratio." For that there must be counting; and
 consequently units must exist, preserving their identity and variously grouped
 together.
-Peirce: CP 2.696 Cross-Ref:††
 (3) A cardinal distinction between the two kinds of inference is, that in
 demonstrative reasoning the conclusion follows from the existence of the objective
 facts laid down in the premisses; while in probable reasoning these facts in
@@ -27207,7 +26929,6 @@ themselves do not even render the conclusion probable, but account has to be tak
 various subjective circumstances--of the manner in which the premisses have been
 obtained, of there being no countervailing considerations, etc.; in short, good faith
 and honesty are essential to good logic in probable reasoning.
-Peirce: CP 2.696 Cross-Ref:††
 When the partial rule that the proportion {r} of the M's are P's is applied to
 show with probability {r} that S is a P, it is requisite, not merely that S should be an
 M, but also that it should be an instance drawn at random from among the M's. Thus,
@@ -27238,14 +26959,12 @@ the time to be interested. In such a case, it is our interest that fulfills the 
 apparatus for random selection; and no better need be desired, so long as we have
 reason to deem the premiss "the proportion {r} of the M's are P's" to be equally true
 in regard to that part of the M's which are alone likely ever to excite our interest.
-Peirce: CP 2.696 Cross-Ref:††
 Nor is it a matter of indifference in what manner the other premiss has been
 obtained. A card being drawn at random from a piquet pack, the chance is one-eighth
 that it is an ace, if we have no other knowledge of it. But after we have looked at the
 card, we can no longer reason in that way. That the conclusion must be drawn in
 advance of any other knowledge on the subject is a rule that, however elementary,
 will be found in the sequel to have great importance.
-Peirce: CP 2.696 Cross-Ref:††
 (4) The conclusions of the two modes of inference likewise differ. One is
 necessary; the other only probable. Locke, in the Essay Concerning Human
 Understanding, hints at the correct analysis of the nature of probability. After
@@ -27436,8 +27155,6 @@ with each of these quantities enter the table below, and take out 1/2Θt[1] and 
 and give each the same sign as the t from which it is derived. Then
 
 Σq = 1/2 Θt[2] - 1/2 Θt[1].
-
-[Click here to view]
 
 Peirce: CP 2.701 Cross-Ref:††
 In rough calculations we may take Θt equal to t for t less than 0.7, and as
@@ -28205,10 +27922,8 @@ leaves a remainder of one.
 by three, leaves a remainder of one.
 3. The sum of the prime factors of each age, including one as a prime factor, is
 divisible by three.
-Peirce: CP 2.738 Cross-Ref:††
 Yet there is not the smallest reason to believe that the next poet's age would
 possess these characters.
-Peirce: CP 2.738 Cross-Ref:††
 Here we have a conditio sine qua non of valid induction which has been
 singularly overlooked by those who have treated of the logic of the subject, and is
 very frequently violated by those who draw inductions. So accomplished a reasoner
@@ -28222,9 +27937,6 @@ Charcoal, 1.88.
 
 He now seeks to find a uniformity connecting these three instances; and he discovers
 that the atomic weight of carbon, being 12,
-
-[Click here
-to view]
 
 Sp. gr. diamond nearly = 3.46 = 2√12
 
@@ -28242,12 +27954,10 @@ specific gravities--
 Diamond silicon, 2.47
 Graphite silicon, 2.33.†P1
 
-Peirce: CP 2.738 Cross-Ref:††
 Now, the atomic weight of silicon, that of carbon being 12, can only be taken
 as 28. But 2.47 does not approximate to any root of 28. It is, however, nearly the cube
 
 root of 14,
-[Click here to
 view]( √1/2 x 28 = 2.41), while 2.33 is nearly the fourth root of 28
 
 [Click here to view](4√28 = 2.30). Dr.
@@ -28271,7 +27981,6 @@ tellurium, 1 for bromine, and 1 for iodine. The law holds for 4 of these, and th
 inference is that about half the specific gravities of metalloids are roots of some
 
 simple ratio of their atomic weights.
-Peirce: CP 2.738 Cross-Ref:††
 Having thus determined this ratio, we proceed to inquire whether an
 agreement half the time with the formula constitutes any special connection between
 the specific gravity and the atomic weight of a metalloid. As a test of this, let us
@@ -28313,8 +28022,6 @@ specific gravities as many as seven are in Playfair's relation with the atomic w
 not of the same element, but of the one paired with it. Now, taking the original
 formula of Playfair we find
 
-[Click here
-to view]
 Sp. gr. boron
 
 = 2.68 5√Te = 2.64
@@ -28327,8 +28034,6 @@ Sp. gr. boron
 or five such relations without counting that of sulphur to itself. Next, with the
 modification introduced by Playfair, we have
 
-[Click here
-to view]
 Sp. gr. silicon = 2.47 4√1/2 x Br = 2.51
 2d Sp. gr. silicon = 2.33 6√2 x Br = 2.33
 Sp. gr. iodine = 4.95 3√2 x C = 4.90
@@ -28429,19 +28134,14 @@ school of thought, we shall readily conclude that he fully adheres to that schoo
 Peirce: CP 2.743 Cross-Ref:††
 743. There are thus four different kinds of uniformity and non-uniformity
 which may influence our ampliative inferences:
-Peirce: CP 2.743 Cross-Ref:††
 (1) The members of a class may present a greater or less general resemblance
 as regards a certain line of characters.
-Peirce: CP 2.743 Cross-Ref:††
 (2) A character may have a greater or less tendency to be present or absent
 throughout the whole of whatever classes of certain kinds.
-Peirce: CP 2.743 Cross-Ref:††
 (3) A certain set of characters may be more or less intimately connected, so as
 to be probably either present or absent together in certain kinds of objects.
-Peirce: CP 2.743 Cross-Ref:††
 (4) An object may have more or less tendency to possess the whole of certain
 sets of characters when it possesses any of them.
-Peirce: CP 2.743 Cross-Ref:††
 A consideration of this sort may be so strong as to amount to demonstration of
 the conclusion. In this case, the inference is mere deduction--that is, the application of
 a general rule already established. In other cases, the consideration of uniformities
@@ -28488,9 +28188,6 @@ event might occur. Then there would be 16 "constitutions of the universe," or po
 distributions of occurrences and non-occurrences. They are shown in the following
 table, where Y stands for an occurrence and N for a non-occurrence.
 
-[Click here
-to view]
-
 Peirce: CP 2.745 Cross-Ref:††
 It will be seen that different frequencies result some from more and some from
 fewer different "constitutions of the universe," so that it is a very different thing to
@@ -28507,9 +28204,6 @@ of the event whose occurrence is represented by Y in the above table are equally
 probable. Then consider the event which consists in a Y following a Y or an N
 following an N. The possible ways in which this event may occur or not are shown in
 the following table:
-
-[Click here
-to view]
 
 Peirce: CP 2.746 Cross-Ref:††
 It will be found that assuming the different frequencies of the first event to be
@@ -29727,8 +29421,6 @@ sign
 [Click here to view] has its broad end towards a proposition
 which implies another, and its point toward the proposition implied.
 
-[Click here to view]
-
 Peirce: CP 2.794 Cross-Ref:††
 RULE, CASE, AND RESULT.
 
@@ -29831,8 +29523,6 @@ asserting or denying the result. In the body of the table, propositions indicate
 italics belong to the first figure, those by black letter to the second figure, and those
 by script to the third figure.
 
-[Click here to view]
-
 Peirce: CP 2.796 Cross-Ref:††
 Two moods of the third figure, namely, A A I and E A O, are omitted, for two
 reasons. The first is that they correspond by contraposition to two moods in the first
@@ -29870,11 +29560,6 @@ For example, the result in the first figure has four forms: any or some S is or 
 not P; but if Some has been read in the Case, Some must also be read in the Result.
 So, in the second figure, where a variation is possible in the quality of either premiss;
 but the same line of the third part of both propositions must be taken.
-
-[Click here to view]
-
-[Click here to view]
-[Click here to view]
 
 Peirce: CP 2.798 Cross-Ref:††
 At the top of the diagram are given the formulæ of the first figure, and of the
@@ -30032,7 +29717,6 @@ Some S is M;
 .·.Some M is S.
 
 Some S is some-S,
-Any S is
 
 M;
 
@@ -30047,10 +29731,6 @@ any M belongs which is not P. Hence we can substitute "Any M is not-P" for "Any 
 is not P." Some-S is defined as in the short reduction of the third figure. Hence, for
 "Some S is or is not P," we can say "Any Some-S is or is not P." Then, we use the
 inferences which are expressed syllogistically, thus:
-
-Some
-
-Some
 
 Any S is not P,
 
@@ -30084,7 +29764,6 @@ M.
 some-S;
 
 Any M is not S,
-Any S is
 
 S;
 
@@ -30113,14 +29792,7 @@ Some S is P;
 
 Some S is some-S,
 
-not P
-Any S is
-
 P;
-
-not P
-
-not P
 
 .·.Some P is S .·. Some P is some S.
 
@@ -30130,8 +29802,6 @@ Peirce: CP 2.804 Cross-Ref:††
 Then, the premisses being transposed, we have the premisses of the reduction.
 The conclusion of the reduction justifies that of the third figure by inferences which
 are expressed syllogistically thus:
-
-.·.Some
 
 Any not-P is
 
@@ -30183,7 +29853,6 @@ Whatever (S) is M is
 
 not P;
 
-not P
 .·.Whatever (S) is P is not M.
 
 .
@@ -30200,9 +29869,6 @@ nature of the inferences, we have:
 .
 
 P;
-Any M is
-
-not P
 
 not P;
 
@@ -30231,13 +29897,9 @@ some S,
 
 Any not-M is not some S,
 
-not P
-
 some P
 
 Any P is not-M;
-
-not P
 
 Any some-M is S,
 
@@ -30613,56 +30275,28 @@ Third
 
 Possibility
 
-Possibility
-
 (II)2. Existent
 (III)3. Existent
 
-Possibility
-
-Possibility
-
 Existent
-
-Possibility
 
 (V)4. Law
 
-Possibility
-
-Possibility
-
 (VI)5. Law
 
-Existent
-
-Possibility
-
 Law
-
-Possibility
 
 (VIII)6. Law
 
 If the Second is an existent, then also
 (IV)7. Existent
 
-Existent
-
-Existent
-
 (VII)8. Law
-
-Existent
-
-Existent
 
 If the First is a law, then also
 (IX)9. Law
 
 Law
-
-Existent
 
 (X)10. Law
 
@@ -32314,28 +31948,16 @@ simpiciter . . . et ubicunque ponitur m debet fieri transpositio in præmnissis.
 Hisp.
 
 Peirce: CP 3 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
-EDITED BY
-CHARLES HARTSHORNE
 AND
-PAUL WEISS
 VOLUME III
 EXACT LOGIC
 (Published Papers)
 
-CAMBRIDGE
-HARVARD UNIVERSITY PRESS
 Peirce: CP 3 Copyright Page
 COPYRIGHT, 1933
-BY THE PRESIDENT AND FELLOWS OF
-HARVARD COLLEGE
-PRINTED IN UNITED STATES OF AMERICA
-THE MURRAY PRINTING COMPANY
-CAMBRIDGE, MASSACHUSETTS
 
 Peirce: CP 3 Introduction p iii
-INTRODUCTION
 
 In the editing of the present volume Peirce's punctuation and spelling have,
 wherever possible, been retained. Titles supplied by the editors have been marked E;
@@ -32349,7 +31971,6 @@ Peirce: CP 3 Introduction p iii
 The department and the editors desire to express their gratitude to Dr. Henry
 S. Leonard, who has assisted with the proofs, references and editorial footnotes.
 
-HARVARD UNIVERSITY
 February, 1933
 
 Peirce: CP 3 Editorial Note p v
@@ -32536,13 +32157,8 @@ BRYN MAWR COLLEGE
 December, 1932.
 
 Peirce: CP 3 Contents p xi
-CONTENTS
-
-INTRODUCTION
-EDITORIAL NOTE
 
 Paper Paragraph
-Numbers
 Peirce: CP 3 Contents Paper 1 p xi
 I. ON AN IMPROVEMENT IN BOOLE'S CALCULUS OF LOGIC (1867)
 
@@ -33117,10 +32733,8 @@ p,q =, r
 
 Then by (29), r =, p,q = p q[p]=q p[q].
 
-Peirce: CP 3.15 Cross-Ref:††
 Answer. The required proportion is an unknown fraction of the least of the
 two proportions given.
-Peirce: CP 3.15 Cross-Ref:††
 By p might have been denoted the probability of the major, and by q that of
 the minor premiss of a hypothetical syllogism of the following form:
 
@@ -33128,7 +32742,6 @@ If a noise is heard, an explosion always takes place;
 If a match is applied to a barrel of gunpowder, a noise is heard;
 .·. If a match is applied to a barrel of gunpowder, an explosion always takes
 place.
-Peirce: CP 3.15 Cross-Ref:††
 In this case, the value given for r would have represented the probability of
 the conclusion. Now Boole (page 284) solves this problem by his unmodified method,
 and obtains the following answer:
@@ -33142,16 +32755,13 @@ forced to the conclusion that "propositions which, when true, are equivalent, ar
 necessarily equivalent when regarded only as probable." This is absurd, because
 probability belongs to the events denoted, and not to forms of expression. The
 probability of an event is not altered by translation from one language to another.
-Peirce: CP 3.15 Cross-Ref:††
 Boole, in fact, puts the problem into equations wrongly (an error which it is
 the chief purpose of a calculus of logic to prevent), and proceeds as if the problem
 
 were as follows:
-Peirce: CP 3.15 Cross-Ref:††
 It being known what would be the probability of Y, if X were to happen, and
 what would be the probability of Z, if Y were to happen; what would be the
 probability of Z, if X were to happen?
-Peirce: CP 3.15 Cross-Ref:††
 But even this problem has been wrongly solved by him. For, according to his
 solution, where
 
@@ -33160,7 +32770,6 @@ p = Y[X] q = Z[Y] r = Z[X],
 r must be at least as large as the product of p and q. But if X be the event that a certain
 man is a negro, Y the event that he is born in Massachusetts, and Z the event that he is
 a white man, then neither p nor q is zero, and yet r vanishes.
-Peirce: CP 3.15 Cross-Ref:††
 This problem may be rightly solved as follows:
 
 Let p' =, Y[p] =, X,Y
@@ -33319,7 +32928,6 @@ but the illustration puts in a clear light the advantage of ceasing to speak of
 probability, and of speaking only of the relative frequency of this event to that.†P1
 
 Peirce: CP 3.20 Cross-Ref:††
-II
 
 UPON THE LOGIC OF MATHEMATICS†1
 
@@ -33375,17 +32983,13 @@ proofs of most of which are omitted on account of their ease and want of interes
 Peirce: CP 3.23 Cross-Ref:††
 THEOREMS
 
-I
-
 23. If a =, b, then b =, a.
 
 Peirce: CP 3.24 Cross-Ref:††
-II
 
 24. If a =, b, and b =, c, then a =, c.
 
 Peirce: CP 3.25 Cross-Ref:††
-III
 
 25. If a +, b =, c, then b +, a =, c.
 
@@ -33395,7 +32999,6 @@ Peirce: CP 3.26 Cross-Ref:††
 Corollary. These last two theorems hold good also for arithmetical addition.
 
 Peirce: CP 3.27 Cross-Ref:††
-V
 
 27. If a + b =, c and a'+b =, c, then a =, a', or else there is nothing not b.
 Peirce: CP 3.27 Cross-Ref:††
@@ -33427,35 +33030,28 @@ Scholium. In arithmetic this proposition is limited by the supposition that b is
 finite.†1 The supposition here though similar to that is not quite the same.
 
 Peirce: CP 3.28 Cross-Ref:††
-VI
 
 28. If a,b =, c, then b,a =, c.
 
 Peirce: CP 3.29 Cross-Ref:††
-VII
 
 29. If a,b =, m and b,c =, n and a,n =, x, then m,c =, x.
 
 Peirce: CP 3.30 Cross-Ref:††
-VIII
 
 30. If m,n =, b and a +, m =, u and a +, n =, v and a +, b =, x, then u,v =, x.
 
 Peirce: CP 3.31 Cross-Ref:††
-IX
 
 31. If m +, n =, b and a,m =, u and a,n =, v and a,b =, x, then u +, v =, x.
-Peirce: CP 3.31 Cross-Ref:††
 The proof of this theorem may be given as an example of the proofs of the
 rest.
-Peirce: CP 3.31 Cross-Ref:††
 
 It is required then (by definition 3) to prove three propositions, viz.
 First. That any u is x.
 Second. That any v is x.
 Third. That any x not u is v.
 
-Peirce: CP 3.31 Cross-Ref:††
 FIRST PROPOSITION
 
 Since u =, a,m, by definition 3
@@ -33470,11 +33066,9 @@ But since a,b =, x, by definition 3
 Whatever is both a and b is x
 whenceAny u is x.
 
-Peirce: CP 3.31 Cross-Ref:††
 SECOND PROPOSITION
 This is proved like the first.
 
-Peirce: CP 3.31 Cross-Ref:††
 THIRD PROPOSITION
 Since a,m =, u, by definition 3,
 Whatever is both a and m is u.
@@ -33497,20 +33091,16 @@ whence
 
 Any x not u is not u and is a,
 
-whence
-
 Any x not u is not m.
 
 But since a,b =, x, by definition 3
 Any x is b,
-whence
 
 Any x not u is b,
 Any x not u is b, not m.
 
 But since m +, n =, b, by definition 2
 Any b not m is n,
-whence
 
 Any x not u is n,
 
@@ -33518,7 +33108,6 @@ and therefore Any x not u is both a and n.†1
 
 But since a,n =, v, by definition 3
 Whatever is both a and n†2 is v,
-whence
 
 Any x not u is v.
 
@@ -33595,7 +33184,6 @@ to be sufficient. The reader should be careful not to confound a proof which nee
 itself to be experienced with one which requires experience of the object of proof.)
 
 Peirce: CP 3.36 Cross-Ref:††
-X
 
 36. If a b =, c and a'b =, c, then a =, a', or no b exists.
 This does not hold with logical, but does with arithmetical multiplication.
@@ -33612,7 +33200,6 @@ or all a is a'; but since a,b =, a',b =, (a,a'),b+(~a,a'),b, this term does vani
 therefore, only a is a', and in a similar way it could be shown that only a' is a.
 
 Peirce: CP 3.37 Cross-Ref:††
-XI
 
 37. 1 +, a =, 1.
 This is not true of arithmetical addition, for since by definition 7,
@@ -33629,7 +33216,6 @@ Whence x a =, 0, while neither x nor a is zero, which, as will appear directly,
 is impossible.
 
 Peirce: CP 3.38 Cross-Ref:††
-XII
 
 38. 0,a =, 0.
 Proof. For call 0, a =, x. Then by definition 3
@@ -33647,12 +33233,10 @@ Corollary 2. From theorem x and the last corollary it follows that if a b =, 0,
 either a =, 0 or b =, 0.
 
 Peirce: CP 3.39 Cross-Ref:††
-XIII
 
 39. a,a =, a.†1
 
 Peirce: CP 3.40 Cross-Ref:††
-XIV
 
 40. a +, a =, a.†1
 
@@ -33744,7 +33328,6 @@ These considerations, together with those advanced [in 1.556], will, I hope,
 put the relations of logic and arithmetic in a somewhat clearer light than heretofore.
 
 Peirce: CP 3.45 Cross-Ref:††
-III
 
 DESCRIPTION OF A NOTATION FOR THE LOGIC OF RELATIVES,
 RESULTING FROM AN AMPLIFICATION OF THE CONCEPTIONS OF
@@ -33822,7 +33405,6 @@ determinative. The last two formulæ hold good for it, and also the consequence 
 
 If x + y = z,
 and
-then
 
 x + y' = z,
 y = y'.†2
@@ -33851,7 +33433,6 @@ consequence holds that
 
 If x.y = z,
 and x.y'= z,
-then
 
 y = y'.†3
 
@@ -33920,7 +33501,6 @@ Peirce: CP 3.61 Cross-Ref:††
 there are certain other characters which it is highly desirable that relations and
 operations should possess, if the ordinary signs of algebra are to be applied to them.
 These I will here endeavour to enumerate.
-Peirce: CP 3.61 Cross-Ref:††
 1. It is an additional motive for using a mathematical sign to signify a certain
 operation or relation that the general conception of this operation or relation should
 resemble that of the operation or relation usually signified by the same sign. In
@@ -33929,7 +33509,6 @@ conception of one member being in the other; addition, that of taking together;
 multiplication, that of one factor's being taken relatively to the other (as we write 3 X
 2 for a triplet of pairs, and Dφ for the derivative of φ); and involution, that of the base
 being taken for every unit of the exponent.
-Peirce: CP 3.61 Cross-Ref:††
 2. In the second place, it is desirable that, in certain general circumstances,
 determinate numbers should be capable of being substituted for the letters operated
 upon, and that when so substituted the equations should hold good when interpreted
@@ -33937,7 +33516,6 @@ in accordance with the ordinary definitions of the signs, so that arithmetical a
 should be included under the notation employed as a special case of it. For this end,
 there ought to be a number known or unknown, which is appropriately substituted in
 certain cases, for each one of, at least, some class of letters.
-Peirce: CP 3.61 Cross-Ref:††
 3. In the third place, it is almost essential to the applicability of the signs for
 addition and multiplication, that a zero and a unity should be possible. By a zero I
 mean a term such that
@@ -33951,7 +33529,6 @@ x1 = x
 
 holds good. On the other hand, there ought to be no term a such that ax=x,
 independently of the value of x.
-Peirce: CP 3.61 Cross-Ref:††
 4. It will also be a strong motive for the adoption of an algebraic notation, if
 other formulæ which hold good in arithmetic, such as
 
@@ -34596,22 +34173,17 @@ the numbers of classes, are:
 (3) x +, y = y +, x.
 
 (Jevons)
-(Jevons)
 
 (4) (x +, y)z = x z +, y z.
 (5) x(y +, z) = x y +, x z.
 (6) (x y)z = x(y z).
 (7) x,(y +, z) = x,y +, x,z.
 
-(Jevons)
-
 (8) (x,y),z = x,(y,z).
 
 (Boole)
 
 (9) x,y, = y,x.
-
-(Boole)
 
 (10) (xy)z = x(y z).
 (11) xy +, z = xy,xz.
@@ -34622,28 +34194,17 @@ the numbers of classes, are:
 (13) (x,y)z = xz,yz.
 (14) x + 0 = x.
 
-(Boole)
-
 (15) x1 = x.
 (16) (x + y) + z = x + (y + z).
 
-(Boole)
-
 (17) x + y = y + x.
-
-(Boole)
 
 (18) x + y - y = x.
 
-(Boole)
-
 (19) x,(y + z) = x,y + x,z.
-
-(Boole)
 
 (20) (x + y)z = x + [[z]].xz-†1,y†1 + etc.
 
-Peirce: CP 3.81 Cross-Ref:††
 We have also the following, which are involved implicitly in the explanations
 which have been given.
 
@@ -34653,9 +34214,6 @@ This, I suppose, is the principle of identity, for it follows from this that x =
 
 (22) x +, x = x.
 (23) x,x = x.
-
-(Jevons)
-(Boole)
 
 (24) x +, y = x + y - x,y.
 
@@ -34673,28 +34231,21 @@ It is an identical proposition, that, if φ be determinative, we have
 
 φx = φy.
 
-Peirce: CP 3.81 Cross-Ref:††
 The six following are derivable from the formulæ already given:
 
 (28) (x +, y),(x +, z) = x +, y,z.
 (29) (x - y) +, (z - w) = (x +, z)-(y +, w) + y,z,(1-w) + x,(1 - y),w.
 
-Peirce: CP 3.81 Cross-Ref:††
 In the following, φ is a function involving only the commutative operations
 and the operations inverse to them.
 
 (30) φx = (φ1),x + (φ0),(1 - x).
 
-(Boole)
-
 (31) φx = (φ1+,(1-x)),(φ0+,x).
 (32) If φx = 0 (φ1),(φ0) = 0.
 
-(Boole)
-
 (33) If φx = 1 φ1 +, φ0 = 1.
 
-Peirce: CP 3.81 Cross-Ref:††
 The reader may wish information concerning the proofs of formulæ (30) to
 (33). When involution is not involved in a function nor any multiplication except that
 for which x,x=x, it is plain that φx is of the first degree, and therefore, since all the
@@ -34707,7 +34258,6 @@ We shall find, hereafter, that when y has a still more general character, we hav
 φx = φ0 + (φ1 - φ0)x.
 
 The former of these equations by a simple transformation gives (30).
-Peirce: CP 3.81 Cross-Ref:††
 If we regard (φ1), (φ0) as a function of x and develop it by (30), we have
 
 (φ1),(φ0) = x,(φ1),(φ0) + (φ1),(φ0),(1-x).
@@ -34778,7 +34328,6 @@ Peirce: CP 3.83 Cross-Ref:††
 that there is but one individual to which anything is X, but one to which anything is
 X', etc. Thus, if x denote "cause of," X,X',X'' would denote different kinds of causes,
 the causes being divided according to the differences of the things they are causes of.
-Then we have
 
 X y = X(y +, 0) = X y +, X0,
 
@@ -34821,8 +34370,6 @@ Y'''Z''' = 1, etc.,
 
 where Z',Z'',Z''' are individual terms which depend for what they denote on Y',Y'',Y'''.
 
-Then we have
-
 1 = Y'Z' = Y'Z' = Y'(Z' +, 0) = Y'Z',Y'0 = Y'Z',Y'0,
 or
 
@@ -34847,8 +34394,6 @@ Then if X is any individual X,1 =X,1[0] = X,1X.
 But
 
 1X = X.
-
-Hence
 
 X,1 = X,X;
 
@@ -34930,17 +34475,11 @@ Collecting together all the formulæ relating to zero and
 unity, we have
 (34) x +, 0 = x.
 
-(Jevons)
-
 (35) x +, 1 = 1.
-
-(Jevons)
 
 (36) x0 = 0.
 (37) 0x = 0.
 (38) x,0 = 0.
-
-(Boole)
 
 (39) x0 = 1.
 (40) 0x = 0, provided x > 0.†1
@@ -34951,8 +34490,6 @@ unity, we have
 (45) q1 = 1, where q is the converse of an unlimited relative.
 (46) 1x = 1, provided x > 0.†1
 (47) x,1 = x.
-
-(Boole)
 
 (48) p1 = 0, where p is a limited relative.
 (49) 1x = 1.
@@ -35270,7 +34807,6 @@ investigate the logical relations between "benefactor of a lover of every servan
 every woman," "that which stands to every servant of some woman in the relation of
 benefactor of a lover of him," "benefactor of every lover of some servant of a
 woman," "benefactor of every lover of every servant of every woman," etc.
-Peirce: CP 3.97 Cross-Ref:††
 In the first place, then, we have by (95)
 
 sw = s(W' =, W'' +, W''' +, etc.) = sW' +, sW'' +, sW''' +, etc.
@@ -35295,7 +34831,6 @@ used. From this it follows that
 sw -< sw.†2
 
 If w vanishes, this equation fails, because in that case (95) does not hold.
-Peirce: CP 3.97 Cross-Ref:††
 From (102) we have
 
 (l s)w -< l sw.†3
@@ -35307,7 +34842,6 @@ Since
 a = a,b +, etc.,
 
 b = a,b +, etc.,
-we have
 
 la = l(a,b +, etc.) = l(a,b) +, l (etc.),
 
@@ -35336,7 +34870,6 @@ l sw -< (l s)w,
 or every lover of a servant of all women stands to every woman in the relation of
 lover of a servant of hers.
 
-Peirce: CP 3.97 Cross-Ref:††
 From (102) we have
 
 (106)
@@ -35371,7 +34904,6 @@ lsw -< lsw.
 
 That is, every lover of every servant of any particular woman is a lover of every
 servant of all women.
-Peirce: CP 3.97 Cross-Ref:††
 By (102) we have
 
 (108)
@@ -35439,7 +34971,6 @@ is itself an infinitesimal, and is 1. If the higher powers of 1 did not vanish, 
 should get the ordinary development of .
 Peirce: CP 3.103 Cross-Ref:††
 103. Positive powers of
-we have
 
 (111)
 
@@ -35998,8 +35529,6 @@ x
 
 =
 
-we have
-
 x.
 
 Exponents with a dot may also be put upon either side of the letters which they affect.
@@ -36028,12 +35557,10 @@ length.
 ---|x |
 φx = ----|
 |dx |
-----
 
 ---|0 |
 ----| ((1/0!).d0+(1/1!).d1+(1/2!).d2+(1/3!).d3+etc.)φx
 |y |
-----
 
 Peirce: CP 3.119 Cross-Ref:††
 The proof of these theorems is very simple. The (p+q)th differential of pxq is
@@ -36046,12 +35573,10 @@ may write these theorems in the form
 ---|y |
 (152) ----|
 |dx |
-----
 
 ---|0 |
 ----| ⎧d = 1,
 |y |
-----
 
 provided we assume that when the first differential is positive
 
@@ -36337,7 +35862,6 @@ q
 |0
 |0
 |0
-----------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -36355,7 +35879,6 @@ q
 |0
 |0
 |0
-----------------------------------------------------------------------------|0
 |0
 |0
 |l
@@ -36364,7 +35887,6 @@ q
 |0
 |0
 |0
-----------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -36382,7 +35904,6 @@ q
 |0
 |0
 |0
-----------------------------------------------------------------------------|0
 |0
 |0
 |o
@@ -36391,7 +35912,6 @@ q
 |0
 |0
 |0
-----------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -36410,8 +35930,6 @@ i = u[1]:u[2] + u[2]:u[3] + u[3]:u[4],
 j = u[1]:u[3] + u[2]:u[4],
 
 k = 2.u[1]:u[4],
-
-we have
 
 i
 j
@@ -36457,8 +35975,6 @@ l = u[6]:u[8] + a.u[5]:u[7] + 2b.u[1]:u[9] + u[9]:u[4] + c.u[5]:u[6],
 
 m = u[5]:u[8],
 
-we have
-
 i
 j
 k
@@ -36492,7 +36008,6 @@ m
 |
 |
 |c.m |
-------------------------------------------| 0
 | 0
 | 0
 | 0
@@ -36522,55 +36037,34 @@ ______
 
 _______
 
-_______
-
 i'= √1-b2 ⎭i - (√1-a2b + a b
 
 )j + (√1-a2b -
 
-______
 )k - √1-b2 ⎭l.
 
 ab
-
-______
 
 ______ ______ ______ ______
 
 j' = -b√1-c2 ⎭i+(a c-√1-a2√1-b2√1-c2-(√1-a2c
 ______ ______
 + a√1-b2√1-c2)
-______
 
 ______ ______ ______
 
 )j-(a c-√1-a2√1-b2√1-c2
 
-______ ______
-
 + (√1-a2c+a√1-b2√1-c2)
-______ ______
-
-______
 
 )k+b√1-c2⎭l.
-______
-
-______
 
 k' = b c⎭i + (√1-a2√1-b2c+a√1-c2+(a√1-b2c
-______ ______
 - √1-a2√1-c2)
-
-______ ______
-
-______
 
 )j-(√1-a2√1-b2c+a√1-c2
 
-______
 -(a√1-b2c
-______ ______
 -√1-a2√1-c2)
 
 )k-b c⎭l.
@@ -36725,7 +36219,6 @@ conjugatives. The most fundamental divisions of simple relatives are based on th
 distinction between elementary relatives of the form (A:A), and those of the form
 (A:B). These are divisions in regard to the amount of opposition between relative and
 correlative.
-Peirce: CP 3.136 Cross-Ref:††
 a. Simple relatives are in this way primarily divisible into relatives all of
 whose elements are of the form (A:A) and those which contain elements of the form
 (A:B). The former express a mere agreement among things, the latter set one thing
@@ -36737,7 +36230,6 @@ without a comma, such as (w); and is evidently of the highest importance. The
 character which is signified by a concurrent relative is an absolute character, that
 signified by an opponent is a relative character, that is, one which cannot be
 prescinded from reference to a correlate.
-Peirce: CP 3.136 Cross-Ref:††
 b. The second division of simple relatives with reference to the amount of
 opposition between relative and correlative is into those whose elements may be
 arranged in collections of squares, each square like this,
@@ -36765,19 +36257,16 @@ are, "equal to --," "similar to --") may be called copulatives,†P2 the latter
 non-copulatives. A copulative multiplied into itself gives itself. Professor Peirce calls
 letters having this property, idempotents.†2 The present distinction is of course very
 important in pure algebra. All concurrents are copulatives.
-Peirce: CP 3.136 Cross-Ref:††
 c. Third, relatives are divisible into those which for every element of the form
 (A:B) have another of the form (B:A), and those which want this symmetry. This is
 the old division into equiparants†P1 and disquiparants,†P2 or in Professor De
 Morgan's language, convertible and inconvertible relatives.†1 Equiparants are their
 own correlatives. All copulatives are equiparant.
-Peirce: CP 3.136 Cross-Ref:††
 d. Fourth, simple relatives are divisible into those which contain elements of
 the form (A:A) and those which do not. The former express relations such as a thing
 may have to itself, the latter (as cousin of --, hater of --) relations which nothing can
 have to itself. The former may be termed self-relatives,†P3 the latter alio-relatives.
 All copulatives are self-relatives.
-Peirce: CP 3.136 Cross-Ref:††
 e. The fifth division is into relatives some power (i.e. repeated product) of
 which contains †P4 elements of the form (A:A), and those of which this is not true.†2
 The former I term cyclic, the latter non-cyclic†P5 relatives. As an example of the
@@ -36807,17 +36296,14 @@ The sixth power is
 
 where all the terms are of the form (A:A). Such relatives, as cousin of --, are cyclic.
 All equiparants are cyclic.
-Peirce: CP 3.136 Cross-Ref:††
 f. The sixth division is into relatives no power of which is zero, and relatives
 some power of which is zero. The former may be termed inexhaustible, the latter
 exhaustible. An example of the former is "spouse of --," of the latter, "husband of --."
 All cyclics are inexhaustible.
-Peirce: CP 3.136 Cross-Ref:††
 g. Seventh, simple relatives may be divided into those whose products into
 themselves are not zero, and those whose products into themselves are zero. The
 former may be termed repeating, the latter, non-repeating relatives. All inexhaustible
 relatives are repeating.
-Peirce: CP 3.136 Cross-Ref:††
 h. Repeating relatives may be divided (after De Morgan) into those whose
 products into themselves are contained under themselves, and those of which this is
 not true. The former are well named by De Morgan †1 transitive, the latter
@@ -36825,7 +36311,6 @@ intransitive. All transitives are inexhaustible; all copulatives are transitive;
 transitive equiparants are copulative. The class of transitive equiparants has a
 
 character, that of being self-relatives, not involved in the definitions of the terms.†2
-Peirce: CP 3.136 Cross-Ref:††
 i. Transitives are further divisible into those whose products by themselves are
 equal to themselves, and those whose products by themselves are less than
 themselves; the former may be termed continuous,†P1 the latter discontinuous. An
@@ -36833,7 +36318,6 @@ example of the second is found in the pure mathematics of a continuum, where if 
 greater than b it is greater than something greater than b; and as long as a and b are
 not of the same magnitude, an intervening magnitude always exists. All concurrents
 are continuous.
-Peirce: CP 3.136 Cross-Ref:††
 j. Intransitives may be divided into those the number of the powers (repeated
 products) of which not contained in the first is infinite, and those some power of
 which is contained in the first. The former may be called infinites, the latter finites.
@@ -37173,8 +36657,6 @@ then, if we were to substitute for
 
 the operational sign
 
-we have
-
 x (y z) = (x y) z,
 
 which is the expression of the associative principle. So, if
@@ -37263,7 +36745,6 @@ definitions and divisions; and the only facts which it contains relate to the id
 the conceptions resulting from those processes with certain familiar ones.
 
 Peirce: CP 3.150 Cross-Ref:††
-IV
 
 ON THE APPLICATION OF LOGICAL ANALYSIS TO MULTIPLE
 ALGEBRA.†1
@@ -37321,7 +36802,6 @@ m
 | l
 | 0
 | 0
-------------------------------------------| 0
 | 0
 | 0
 | 0
@@ -37330,7 +36810,6 @@ m
 | 0
 | 0
 | bj+cl
-------------------------------------------| 0
 | 0
 | 0
 | 0
@@ -37338,7 +36817,6 @@ m
 ------------------------------------------|a'j+b'l | 0
 |c'j+d'l | 0
 | 0
--------------------------------------------
 
 |
 |
@@ -37370,7 +36848,6 @@ m
 | l
 | 0
 | 0
-------------------------------------------| 0
 | 0
 | 0
 | 0
@@ -37378,7 +36855,6 @@ m
 ------------------------------------------| j+rl | 0
 | i+m | 0
 | -j-rl
-------------------------------------------| 0
 | 0
 | j
 | 0
@@ -37387,7 +36863,6 @@ m
 | -l
 | 0
 |-r2j
--------------------------------------------
 
 i = A:D+D:F+B:E+C:F.
 
@@ -37506,7 +36981,6 @@ m
 |
 |
 |
--------------------------------------------
 
 i = A:B+B:C
 j = A:C.
@@ -37523,7 +36997,6 @@ m = D:F.
 k = D:B+D:E+E:F.
 
 Peirce: CP 3.152 Cross-Ref:††
-V
 
 NOTE ON GRASSMANN'S CALCULUS OF EXTENSION.†1
 
@@ -37589,7 +37062,6 @@ be represented linearly. I have therefore thought of the nine-fold algebra thus
 resulting.
 
 Peirce: CP 3.154 Cross-Ref:††
-VI
 
 ON THE ALGEBRA OF LOGIC†1
 
@@ -37932,8 +37404,6 @@ do not, while particular propositions do, imply the existence of their subjects.
 following figure illustrates the precise sense here assigned to the four forms A, E, I,
 O.
 
-[Click here to view]
-
 Peirce: CP 3.179 Cross-Ref:††
 179. In the quadrant marked 1 there are lines which are all vertical; in the
 quadrant marked 2 some lines are vertical and some not; in quadrant 3 there are lines
@@ -38042,8 +37512,6 @@ Peirce: CP 3.184 Cross-Ref:††
 true. Hence, the inference is valid
 
 x
-
-x -< y
 
 y -< z
 
@@ -38496,7 +37964,6 @@ x and ~y
 
 Peirce: CP 3.198 Cross-Ref:††
 In like manner,
-x -< y
 
 is equivalent to
 
@@ -38695,8 +38162,6 @@ b+c = q,
 
 where pXq = c,
 
-we have
-
 (c -< a+b) -< (p -< a)X(q -< b), where p+q = c
 (aXb -< c) -< (a -< p)X(b -< q), where c = pXq,
 
@@ -38798,8 +38263,6 @@ be constant, we have, putting successively, ∞, and 0, for x.
 φ∞ = i = i k
 φ0 = j = l
 
-so that
-
 φx = (φ∞Xx)+(φ0X~x) φx = (φ0+x)X(φ∞+~x). (26)
 
 The first of these formulæ was given by Boole for his addition. I showed (1867)†1
@@ -38818,8 +38281,6 @@ The distributive principle and (3) applied to (26) give
 φ0 X φ∞ -< φx φx -< φ∞ + φ0.
 
 (28)
-
-Hence
 
 (φx=0) -< (φ0Xφ∞=0) (φx=∞)-<(φ0+φ∞=∞). (29)
 
@@ -39043,7 +38504,6 @@ given by Boole.†1 The data are
 ~vXxXw -< (yXz)+(~yX~z)
 (xXy)+(vXxX~y) = (zX~w)+(~zXw).
 
-Peirce: CP 3.213 Cross-Ref:††
 The quæsita are: first, to find those predicates of x which involve only y, z,
 
 and w; second, to find any relations which may be implied between y, z, w; third, to
@@ -39071,7 +38531,6 @@ zX~w -< x
 zX~w -< x
 ~zXw -< v+y.
 
-Peirce: CP 3.213 Cross-Ref:††
 We must first eliminate v, about which we want to know nothing. We have, on
 the one hand, the propositions
 
@@ -39086,7 +38545,6 @@ and, on the other, the propositions
 zX~w -< v+y
 ~zXw -< v+y.
 
-Peirce: CP 3.213 Cross-Ref:††
 The conclusions from these propositions are obtained by taking one from each
 set, multiplying their subjects, adding their predicates, and omitting v. The result will
 be a merely empty proposition if the same letter in the same quality as to being
@@ -39105,7 +38563,6 @@ or
 xXw -< y+~z,
 
 which is therefore to be used in place of all the premisses containing v.
-Peirce: CP 3.213 Cross-Ref:††
 One of the other propositions, namely, ~xX~z -< ~y+~w is obviously
 contained in another, namely: ~zXw -< x. Rejecting it, our premisses are reduced to
 six, namely:
@@ -39136,7 +38593,6 @@ we find
 
 It is obvious that the conclusion from the last two propositions is a merely identical
 proposition, and therefore no independent relation is implied between y, z, and w.
-Peirce: CP 3.213 Cross-Ref:††
 To find the predicates of y we combine the second and third propositions. This
 gives
 
@@ -39145,7 +38601,6 @@ or
 
 y -< xXzX~w + xX~zXw + ~x.
 
-Peirce: CP 3.213 Cross-Ref:††
 Two relations between x, z, and w are given in the premisses, namely: zX~w
 -< x and ~zXw -< x. To find whether any other is implied, we eliminate y between the
 above proposition and the first and sixth premisses. This gives
@@ -39155,7 +38610,6 @@ xXw -< xXzX~w + ~x + ~z.
 
 The first conclusion is empty. The second is equivalent to xXw -< ~z, which is a third
 relation between x, z, and w.
-Peirce: CP 3.213 Cross-Ref:††
 Everything implied in the premisses in regard to the relations of x, y, z, w may
 be summed up in the proposition
 
@@ -39211,7 +38665,6 @@ A ~-< 0,
 but such that if
 
 x<A
-then
 
 x -< 0.
 
@@ -39222,7 +38675,6 @@ And in the same way, we may define the simple, α, as such a term that
 but such that if
 
 α<x
-then
 
 ∞ -< x.
 
@@ -39318,15 +38770,11 @@ Thus, since
 
 A = A:A+A:B+A:C+A:D+etc.,
 
-we have
-
 A:B = (A:A):B+(A:B):B+(A:C):B+(A:D):B+etc.
 
 But
 
 B = B:A+B:B+B:C+B:D+etc.;
-
-so that
 
 A:B = A:(B:A)+A:(B:B)+A:(B:C)+A:(B:D)+etc.†1
 
@@ -39397,8 +38845,6 @@ K = a:c+b:b+c:a
 L = a:b+b:c+c:a
 M = a:c+b:a+c:b
 1 = a:a+b:b+c:c.
-
-Then we have
 
 I+J+K = 1+L+M,
 
@@ -39572,7 +39018,6 @@ $(A:B)($||)B:C = A:C.
 Peirce: CP 3.238 Cross-Ref:††
 238. Then any combination of the relatives a and e, in this order, is equivalent
 to others formed from this by making any of the following changes:
-Peirce: CP 3.238 Cross-Ref:††
 First. Putting a straight or curved mark over a and changing the first mark of
 the sign of operation in the corresponding way; that is,
 
@@ -39580,13 +39025,10 @@ for $a, from | to $ or from - to $- or conversely,
 for ~a, from | to - or from $ to $- or conversely,
 for $~a, from | to $- or from - to $ or conversely.
 
-Peirce: CP 3.238 Cross-Ref:††
 Second. Making similar simultaneous modifications of e and of the second
 mark.
-Peirce: CP 3.238 Cross-Ref:††
 Third. Changing the third mark from | to - or from $ to $- or conversely, and
 simultaneously writing the mark of negation over the whole expression.
-Peirce: CP 3.238 Cross-Ref:††
 Fourth. Changing the third mark from | to $ or from - to $- or conversely, and
 interchanging a and e and also the first and second marks.
 Peirce: CP 3.239 Cross-Ref:††
@@ -40005,7 +39447,6 @@ operation is a line in Class 1 and a hyphen in Class 3. In the second half, the 
 mark in the sign of the interior operation is a hyphen in Class 2 and a line in Class 4.
 
 Peirce: CP 3.252 Cross-Ref:††
-VII
 
 ON THE LOGIC OF NUMBER†1
 
@@ -40485,14 +39926,10 @@ by.
 Peirce: CP 3.285 Cross-Ref:††
 285. Since the number of numbers as small as x is in some count y, we have, c
 being some relative of simple correspondence,
-Peirce: CP 3.285 Cross-Ref:††
 First. Every number as small as x is c'd by a number.
-Peirce: CP 3.285 Cross-Ref:††
 Second. Every number as small as a number that is c of a number as small as x
 is itself c of a number as small as x.
-Peirce: CP 3.285 Cross-Ref:††
 Third. The number y is c of a number as small as x.
-Peirce: CP 3.285 Cross-Ref:††
 Fourth. Whatever is not as great as a number that is c of a number as small as
 x is not y.
 Peirce: CP 3.286 Cross-Ref:††
@@ -40570,7 +40007,6 @@ Texan is killed by a Texan. This mode of reasoning †1 is frequent in the theor
 numbers.
 
 Peirce: CP 3.289 Cross-Ref:††
-VIII
 
 ASSOCIATIVE ALGEBRAS †1E
 
@@ -40752,17 +40188,14 @@ j
 k
 l
 m
-------------------------------------------| 0
 | 0
 | 0
 |0
 | j
-------------------------------------------| 0
 | 0
 | 0
 |0
 | 0
-------------------------------------------| 0
 | 0
 | i
 |j
@@ -40857,7 +40290,6 @@ two vectors,†P1 if
 i j = s+v
 
 where s is a scalar and v a vector, we cannot determine three real scalars a, b, c, such
-that
 
 v = a+b i+c j.
 
@@ -40966,8 +40398,6 @@ Let us substitute for j
 
 j[1] = s i+j.
 
-Then we have
-
 i j[1] = v, j[1]i = -v,
 j[1]v = j[1]i j[1] = -j[1]2i = i, v j[1] = i j[1]2 = -i,
 i v = i2j[1] = -j[1], v i = i j[1]i = -j[1]i2 = j[1]
@@ -41003,11 +40433,7 @@ k[1]j[1] = -j[1]k[1], k[1]i = -i k[1],
 
 because both products are vectors.
 
-Hence
-
 i.j[1]k[1] = -i.k[1]j[1] = -i k[1].j[1] = k[1]i.j[1] = k[1].i j[1].
-
-Hence
 
 s'''+v''' = s'''-v'''
 
@@ -41018,7 +40444,6 @@ algebra with imaginaries, and real quaternions are the only associative algebras
 which division by finites always yields an unambiguous quotient.
 
 Peirce: CP 3.306 Cross-Ref:††
-IX
 
 BRIEF DESCRIPTION OF THE ALGEBRA OF RELATIVES†1
 
@@ -41291,14 +40716,11 @@ Peirce: CP 3.317 Cross-Ref:††
 be arranged in a square block, so the different triplets of them may be conceived to be
 arranged in a cube, and the algebraical sum of all such triplets, each affected with a
 numerical coefficient, may be called a triple relative.
-Peirce: CP 3.317 Cross-Ref:††
 Every dual relative may be regarded as equivalent to a triple relative, just as
 every absolute term is equivalent to a dual relative.
-Peirce: CP 3.317 Cross-Ref:††
 Every triple relative may be regarded as a sum of five parts, each being a
 linear expression in terms of one of the five forms,
 (A:A):A (A:B):A (A:A):B (B:A):A (A:B):C
-Peirce: CP 3.317 Cross-Ref:††
 The sign of a dual relative followed by a comma denotes that part of the
 equivalent triple relative which consists of terms in one of the forms
 
@@ -41306,21 +40728,17 @@ equivalent triple relative which consists of terms in one of the forms
 
 (A:B):(A:B).
 
-Peirce: CP 3.317 Cross-Ref:††
 The multiplication of triple relatives is not perfectly associative and the
 multiplication of two triple relatives yields a quadruple relative.
-Peirce: CP 3.317 Cross-Ref:††
 The modes of combination of a triple relative followed by two dual relatives
 are the same as the modes of combination of three dual relatives. This ceases to be
 true for quadruple and higher relatives.
-Peirce: CP 3.317 Cross-Ref:††
 Corresponding to the operation of taking the converse of a dual relative, there
 are five operations upon triple relatives. They are defined as follows:
 
 (I x)[i j k] = (x)[j i k], (J x)[i j k] = (x)i k j, (K x)[i j k] = (x)[k j i],
 (L x)[i j k] = (x)[j k i], (M x)[i j k] = (x)[k i j].
 
-Peirce: CP 3.317 Cross-Ref:††
 Every quadruple or higher relative may be conceived as a product of triple
 relatives.
 Peirce: CP 3.318 Cross-Ref:††
@@ -41369,7 +40787,6 @@ directed toward the essential elements of the algebra, not towards the solution 
 problems.
 
 Peirce: CP 3.323 Cross-Ref:††
-X
 
 ON THE RELATIVE FORMS OF QUATERNIONS †1
 
@@ -41383,7 +40800,6 @@ i = (X:W)-(W:X)-(Y:Z)+(Z:Y)
 j = (Y:W)-(W:Y)-(Z:X)+(X:Z)
 k = (Z:W)-(W:Z)-(X:Y)+(Y:X).
 
-Peirce: CP 3.323 Cross-Ref:††
 In the language of logic (Y:Z) is a relative term whose relate is a Y component,
 and whose correlate is a Z component. The law of multiplication is plainly (Y:Z)(Z:X)
 = (Y:X), (Y:Z)(X:W) = 0, and the application of these rules to the above values of 1, i,
@@ -41391,7 +40807,6 @@ j, k gives the quaternion relations
 
 i2 = j2 = k2 = -1, i j k = -1, etc.
 
-Peirce: CP 3.323 Cross-Ref:††
 The symbol a(Y:Z) denotes the changing of Y to Z and the multiplication of
 the result by a. If the relatives be arranged in the block
 
@@ -41459,11 +40874,9 @@ x
 
 w.
 
-Peirce: CP 3.323 Cross-Ref:††
 The multiplication of such matrices follows the same laws as the
 multiplication of quaternions. The determinant of the matrix = the fourth power of the
 tensor of the quaternion.
-Peirce: CP 3.323 Cross-Ref:††
 The imaginary x+y√-1 may likewise be represented by the matrix
 
 x y
@@ -41472,8 +40885,6 @@ x y
 and the determinant of the matrix = the square of the modulus.
 
 Peirce: CP 3.324 Cross-Ref:††
-
-XI
 
 ON A CLASS OF MULTIPLE ALGEBRAS †1
 
@@ -41603,7 +41014,6 @@ l
 |0
 |k
 |l
--------------------------------------------
 
 |
 |
@@ -41753,7 +41163,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41763,7 +41172,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41773,7 +41181,6 @@ q
 |i
 |j
 |k
----------------------------------------------------------------------------------|0
 |l
 |m
 |n
@@ -41783,7 +41190,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41793,7 +41199,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41803,7 +41208,6 @@ q
 |l
 |m
 |n
----------------------------------------------------------------------------------|0
 |o
 |p
 |q
@@ -41813,7 +41217,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41823,7 +41226,6 @@ q
 |0
 |0
 |0
----------------------------------------------------------------------------------|0
 |0
 |0
 |0
@@ -41857,16 +41259,7 @@ interchanged be the coördinates x, y, z, of a point in space. Then, as above, l
 {a} = (x,y,z) {b} = (z,x,y) {g} = (y,z,x)
 (x,y,z)
 
-(x,y,z)
-
-(x,y,z)
-
 {d} = (x,z,y) {e} = (y,x,z) {z} = (z,y,z)
-(x,y,z)
-
-(x,y,z)
-
-(x,y,z)
 
 Thus, {b} and {g} represent the operations of rotation through one-third of a
 circumference, the one forward, the other backward, about an axis passing through
@@ -41925,7 +41318,6 @@ to the line through the origin that bisects the angle between x = 0 and x = z an
 changes it to blue.
 
 Peirce: CP 3.328 Cross-Ref:††
-XII
 
 THE LOGIC OF RELATIVES †1
 
@@ -42280,7 +41672,6 @@ Peirce: CP 3.344 Cross-Ref:††
 344. When we have only to deal with universal propositions, it will be found
 convenient so to transpose everything from subject to predicate as to make the subject
 1. Thus, if we have given l -< b, we may relatively add $~l to both sides; whereupon
-we have
 
 1 -< l†$~l -< b†$~l.
 
@@ -42337,11 +41728,9 @@ Convert one of the premisses and multiply,
 1 -< ($a†p†β)($~β†$p†c) -< $a†p†β$~β†$p†c
 -< $a†p†n†$p†c -< $a†p†$p†c.
 
-Peirce: CP 3.346 Cross-Ref:††
 The treatment would be the same if one or both of the premisses were
 negative: that is, contained ~p in place of p.
 
-Peirce: CP 3.346 Cross-Ref:††
 2. Premisses: 1 -< $a†p†β 1 -< $c(p†~β).
 We have
 
@@ -42349,13 +41738,11 @@ We have
 
 The same with negatives.
 
-Peirce: CP 3.346 Cross-Ref:††
 3. Premisses: 1 -< $a(p†β) 1 -< $c(p†~β).
 1 -< $a(p†β)($~β†$p)c -< $a(p†$p)c.
 
 The same with negatives.
 
-Peirce: CP 3.346 Cross-Ref:††
 4. Premisses: 1 -< $a†p†β 1 -< ($c†p)~β.
 
 1 -< ($a†p†β)$~β($p†c) -< ($a†p†β$~β)($p†c) -< ($a†p)($p†c)
@@ -42369,7 +41756,6 @@ but from this again p could be eliminated, giving
 
 1 -< $a†c, or ~a -< c.
 
-Peirce: CP 3.346 Cross-Ref:††
 5. Premisses: 1 -< $a†(p†β) 1 -< ($c†p)~β.
 
 1 -< $a†(p†β)β($p†c) -< $a p($p†c).
@@ -42377,34 +41763,28 @@ Peirce: CP 3.346 Cross-Ref:††
 If either premiss were negative, p could be eliminated, giving 1 -< $a c, or some a is
 c.
 
-Peirce: CP 3.346 Cross-Ref:††
 6. Premisses: 1 -< ($a†p)β 1 -< ($c†p)~β.
 
 1 -< ($a†p)β$~β($p†c) -< ($a†p)n($p†c).
 
-Peirce: CP 3.346 Cross-Ref:††
 7. Premisses: 1 -< $a†p†β 1 -< ($c p†~β.
 
 1 -< ($a†p†β)($~β†$p c) -< $a†p†$p c.
 
-Peirce: CP 3.346 Cross-Ref:††
 8. Premisses: 1 -< $a(p†β) 1 -< $c p†~β.
 
 1 -< $a(p†β)($~β†$p c) -< $a(p†$p c).
 
-Peirce: CP 3.346 Cross-Ref:††
 9. Premisses: 1 -< ($a†p)β 1 -< $c p†~β.
 
 1 -< ($a†p)β($~β†$p c) -< ($a†p)$p c.
 
 If one premiss is negative, we have the further conclusion 1 -< $a c.
 
-Peirce: CP 3.346 Cross-Ref:††
 10. Premisses: 1 -< $a p†β 1 -< $c p†~β.
 
 1 -< ($a p†β)($~β†$p c) -< $a p†$p c.
 
-Peirce: CP 3.346 Cross-Ref:††
 11. Premisses: 1 -< $a†p†β
 
 1 -< $c†p~β
@@ -42421,7 +41801,6 @@ but this conclusion is an immediate inference from the other; for
 
 If one premiss is negative, we have the further conclusion 1 -< $a†c.
 
-Peirce: CP 3.346 Cross-Ref:††
 12. Premisses: 1 -< $a(p†β)
 
 1 -< $c†p~β.
@@ -42430,14 +41809,12 @@ Peirce: CP 3.346 Cross-Ref:††
 
 If one premiss is negative, we have the further inference 1 -< $a c.
 
-Peirce: CP 3.346 Cross-Ref:††
 13. Premisses: 1 -< ($a†p)β
 
 1 -< $c†p~β.
 
 1 -< ($a†p)β($~β†c) -< ($a†p)(n$p†c).
 
-Peirce: CP 3.346 Cross-Ref:††
 14. Premisses: 1 -< $a p†β
 
 1 -< $c†p~β.
@@ -42446,7 +41823,6 @@ Peirce: CP 3.346 Cross-Ref:††
 
 If one premiss is negative, we have the further spurious †1 inference 1 -< $an†c.
 
-Peirce: CP 3.346 Cross-Ref:††
 15. Premisses: 1 -< $a†pβ
 
 1 -< $c†p~β.
@@ -42455,7 +41831,6 @@ Peirce: CP 3.346 Cross-Ref:††
 
 We can also infer 1 -< ($a†pn)$p†c.
 
-Peirce: CP 3.346 Cross-Ref:††
 16. Premisses: 1 -< $a†p†β
 
 1 -< $c p~β.
@@ -42464,7 +41839,6 @@ Peirce: CP 3.346 Cross-Ref:††
 
 If one premiss is negative, we can further infer 1 -< $a c.
 
-Peirce: CP 3.346 Cross-Ref:††
 17. Premisses: 1 -< $a(p†β)
 
 1 -< $c p~β.
@@ -42473,14 +41847,12 @@ Peirce: CP 3.346 Cross-Ref:††
 
 If one premiss is negative, we have the further spurious conclusion 1 -< $anc.
 
-Peirce: CP 3.346 Cross-Ref:††
 18. Premisses: 1 -< ($a†p)β
 
 1 -< $c p~β.
 
 1 -< ($a†p)β$~β$p c -< ($a†p)n$p c.
 
-Peirce: CP 3.346 Cross-Ref:††
 19. Premisses: 1 -< $a p†β
 
 1 -< $c p~β.
@@ -42489,14 +41861,12 @@ Peirce: CP 3.346 Cross-Ref:††
 
 If one premiss is negative, we further conclude 1 -< $anc.
 
-Peirce: CP 3.346 Cross-Ref:††
 20. Premisses: 1 -< $a†pβ
 
 1 -< $c p~β.
 
 1 -< ($a†pβ)$~β$p c -< ($a†pn)$p c.
 
-Peirce: CP 3.346 Cross-Ref:††
 21. Premisses: 1 -< $a pβ
 
 1 -< $c p~β.
@@ -42548,8 +41918,6 @@ by the application of the formulæ
 
 l s,(b†~s) -< (l,b)s
 s l,(~s†b) -< s(l,b),
-
-we have
 
 {∞(f†0)},(0†g∞) -< ∞{(f†0),g∞} -< ∞(f,g)∞.
 
@@ -42703,7 +42071,6 @@ appropriated. But having examined these productions, I find no thought in them t
 ever did, or ever should be likely to put forth as my own.
 
 Peirce: CP 3.359 Cross-Ref:††
-XIII
 
 ON THE ALGEBRA OF LOGIC
 
@@ -43154,12 +42521,10 @@ Peirce: CP 3.383 Cross-Ref:††
 
 is seen to justify the inference
 
-x -< y
 .·. ~y -< ~x.
 
 The same formuLa justifies the modus tollens,
 
-x -< y
 ~y
 .·. ~x.
 
@@ -43233,8 +42598,6 @@ Peirce: CP 3.387 Cross-Ref:††
 may dispense with them altogether, as well as with one of the indices of tokens used
 in them, by the use of the following rules. A proposition of the form
 
-x -< y
-
 is true if x = f or y = v. It is only false if y = f and x = v. A proposition written in the
 form
 
@@ -43260,7 +42623,6 @@ The last gives
 Substituting these values in
 
 (x -< y) = v (y -< z) = v
-we have
 
 (v -< y) = v (y -< f) = v,
 
@@ -43395,8 +42757,6 @@ Any (~k+h)
 to mean that this is true of any individual in the (limited) universe, or
 (~k+h)
 
-Some
-
 to mean that an individual exists who is either not a king or is happy. So
 h)
 
@@ -43518,7 +42878,6 @@ the fifteen young ladies,†1 and others relating to synthemes.†2 I shall, how
 content myself here with showing how, when a set of premisses are given, they can be
 united and certain letters eliminated. Of the various methods which might be pursued,
 I shall here give the one which seems to me the most useful on the whole.
-Peirce: CP 3.396 Cross-Ref:††
 First, the different premisses having been written with distinct indices (the
 same index not used in two propositions) are written together, and all the π's and Σ's
 are to be brought to the left. This can evidently be done, for
@@ -43527,7 +42886,6 @@ are to be brought to the left. This can evidently be done, for
 Σ[i]x[i] . π[j]x[j] = Σ[i]π[j]x[i]x[j]
 Σ[i]x[i] . Σ[j]x[j] = Σ[i]Σ[j]x[i]x[j]
 
-Peirce: CP 3.396 Cross-Ref:††
 Second, without deranging the order of the indices of any one premiss, the π's
 and Σ's belonging to different premisses may be moved relatively to one another, and
 as far as possible the Σ's should be carried to the left of the π's. We have
@@ -43553,7 +42911,6 @@ we can unite them in either of the two orders
 
 and shall usually obtain different conclusions accordingly. There will often be room
 for skill in choosing the most suitable arrangement.
-Peirce: CP 3.396 Cross-Ref:††
 Third, it is next sometimes desirable to manipulate the Boolian part of the
 expression, and the letters to be eliminated can, if desired, be eliminated now. For this
 purpose they are replaced by relations of second intention, such as "other than," etc.
@@ -43568,7 +42925,6 @@ this may evidently be replaceable by
 where, as usual, n means not or other than. This third step of the process is frequently
 quite indispensable, and embraces a variety of processes; but in ordinary cases it may
 be altogether dispensed with.†1
-Peirce: CP 3.396 Cross-Ref:††
 Fourth, the next step, which will also not commonly be needed, consists in
 making the indices refer to the same collections of objects, so far as this is useful. If
 the quantifying part, or Quantifier, contains Σ[x] and we wish to replace the x by a
@@ -43589,7 +42945,6 @@ by i, standing for any object, and to write the proposition
 
 π[i](~a[i]+v[i])
 
-Peirce: CP 3.396 Cross-Ref:††
 Fifth,†2 the next step consists in multiplying the whole Boolian part, by the
 modification of itself produced by substituting for the index of any π any other index
 standing to the left of it in the Quantifier. Thus, for
@@ -43599,22 +42954,18 @@ we can write
 
 Σ[i]π[j]l[i j]l[i i].
 
-Peirce: CP 3.396 Cross-Ref:††
 Sixth, the next step consists in the re-manipulation of the Boolian part,
 consisting, first, in adding to any part any term we like; second, in dropping from any
 part any factor we like, and third, in observing that
 
 x~x = f,
-so that
 
 x+~x = v,
 
 x~x y+z = z, (x+~x+y)z = z.
 
-Peirce: CP 3.396 Cross-Ref:††
 Seventh, π's and Σ's in the Quantifier whose indices no longer appear in the
 Boolian are dropped.
-Peirce: CP 3.396 Cross-Ref:††
 The fifth step will, in practice, be combined with part of the sixth and seventh.
 Thus, from Σ[i]π[j]l[i j] we shall at once proceed to Σ[i]l[i i] if we like.
 Peirce: CP 3.397 Cross-Ref:††
@@ -43878,8 +43229,6 @@ But the definition of identity is
 
 v -< 1[i i] ~1[i i] -< f;
 
-whence
-
 a[i]~a[i] -< f v -< a[i] + ~a[i].
 
 Peirce: CP 3.403B Cross-Ref:††
@@ -43974,11 +43323,9 @@ and Σ[i]a[i]a[i] = a[1]a[1]+a[2]a[2]+a[3]a[3] + etc.
 
 The first two expressions are equivalent by the distribution principle. The third is
 equivalent to Σ[i]a[i] because a a = a, and thus all three are equivalent to one another.
-Peirce: CP 3.403E Cross-Ref:††
 The theorem enunciated having thus been proved true of every proposition
 having a single index, it only remains to show that if it be true of every proposition
 having n indices, it is true for every proposition having n + 1 indices.
-Peirce: CP 3.403E Cross-Ref:††
 Now let Φ and * stand either for Σ and + or for π and X respectively, so that
 
 Φ[i]u[i] = u[1] * u[2] * u[3] * etc.
@@ -44003,13 +43350,9 @@ of them is identified in the two factors. But according to the rule, the first c
 diversified unless all are diversified; and all may be diversified, by an obvious
 extension of the formulæ relating to propositions in a single index. The theorem is
 therefore proved.
-Peirce: CP 3.403E Cross-Ref:††
 If the proposition is raised to a higher power, the diversifications toward the
 right may be represented as branchings from a stem, thus,
 
-[Click here to view]
-
-Peirce: CP 3.403E Cross-Ref:††
 After the involution has once been performed, further identification and
 diversification of indices may be effected by applying the following formulæ.
 
@@ -44069,7 +43412,6 @@ in special cases -- that what is called "the general case" is in truth a mere fo
 speciality -- and that the truly general method of elimination is by performing a direct
 operation which will give a constant result whatever the value of the variable. Thus,
 in ordinary algebra, it happens to be the case that every quantity has a reciprocal so
-that
 
 (1/x) · x = 1.
 
@@ -44242,8 +43584,6 @@ Boolian becomes
 y[b]y[e]y[h]r[{k}a b]r[{k}d e]r[{k}c h] (~r[{k}c b] + 1[a c])(~r[{k}a e] + 1[a
 d])(~r[{k}d h] + 1[c d])
 
-whence
-
 y[b]y[e]y[h] (~1[b h] + 1[a c])(~1[b e] + 1[a d])(1[e h] + 1[c d]),
 
 whence again
@@ -44264,7 +43604,6 @@ It is plain that by raising to the n! power we should get any proposition of thi
 form, and that no others could be obtained.
 Peirce: CP 3.403L Cross-Ref:††
 403L. Let us now seek all the propositions deducible, by elimination of {k},
-from
 
 π[{k}]Σ[a]π[b]Σ[c] u[a](~w[b] + ~r[{k}a b] + r[{k}c b]~1[a c]).
 
@@ -44377,7 +43716,6 @@ single index
 π[i](Σ[j]a[i j]) = π[i]π[k](Σ[j]a[i j])(Σ[j]a[k j])
 
 Peirce: CP 3.404 Cross-Ref:††
-XIV
 
 THE CRITIC OF ARGUMENTS†1
 
@@ -44803,10 +44141,8 @@ resulting may be termed a relative rhema. It differs from a relative term only i
 retaining the "copula," or signal of assertion. If only one demonstrative or
 prodemonstrative is erased, the result is a non-relative rhema. For example, "-- buys
 -- from -- for the price --," is a relative rhema; it differs in a merely secondary way
-from
 
 "-- is bought by -- from -- for --,"
-from
 and from
 
 "-- sells -- to -- for --,"
@@ -44916,7 +44252,6 @@ intrinsic transmutation of that algebra. What that mutation was I had already sh
 before Mr. Kempe's memoir appeared.
 
 Peirce: CP 3.425 Cross-Ref:††
-XV
 
 THE REGENERATED LOGIC†1
 
@@ -45422,7 +44757,6 @@ proposition is false" is meaningless; and another example is, "the weather will 
 soon as there is enough sky to cut a pair of trousers." Third, the supposition of
 negation is forced upon us in the study of hypotheticals, never in that of categoricals.
 Such are Schröder's arguments, to which I proceed to reply.
-Peirce: CP 3.446 Cross-Ref:††
 As to the idea of time, it may be introduced; but to say that the range of
 possibility in hypotheticals is always a unidimensional continuum is incorrect. "If you
 alone trump a trick in whist, you take it." The possibilities are that each of the four
@@ -45431,7 +44765,6 @@ the universe in hypotheticals is far more frequently finite than in categoricals
 Besides, it is an ignoratio elenchi to drag in time, when no logician of the English
 camp has ever alleged anything about propositions involving time. That is not the
 question.
-Peirce: CP 3.446 Cross-Ref:††
 Every proposition is either true or false, and something not a proposition,
 when considered as a proposition, is, from the Philonian point of view, true. To be
 objectionable, a proposition must assert something; if it is merely neutral, it is not
@@ -45447,14 +44780,12 @@ it explicitly asserts is true. But what it tacitly implies (its own truth) is fa
 difficulty about the proposition concerning the piece of blue sky is not a logical one,
 at all. It is no more senseless than any proposition about a "red odor" which might be
 a term of a categorical.
-Peirce: CP 3.446 Cross-Ref:††
 The fact stated about negation is only true of the sorts of propositions which
 are commonly put into categorical and hypothetical shapes, and has nothing to do
 with the essence of the propositions. In a paper "On the Validity of the Laws of
 Logic" in the Journal of Speculative Philosophy, Vol. II.,†2 I have given a
 sophistical argument that black is white, which shows in the domain of categoricals
 the phenomena to which Professor Schröder refers as peculiar to hypotheticals.
-Peirce: CP 3.446 Cross-Ref:††
 The consequentia de inesse is, of course, the extreme case where the
 conditional proposition loses all its proper signification, owing to the absence of any
 range of possibilities. The conditional proper is, "In any possible case, i, either A[i] is
@@ -45616,7 +44947,6 @@ confess that where he had not yet been able to apply that method he has fallen i
 error.
 
 Peirce: CP 3.456 Cross-Ref:††
-XVI
 
 THE LOGIC OF RELATIVES†1
 
@@ -45877,12 +45207,6 @@ As, Sb, Bi, etc. Tetradic relatives are, as we shall see, a superfluity; they co
 to the series C, Si, Ti, Sn, Ta, etc. The proposition "John gives John to John"
 corresponds in
 
-[Click here to
-
-view]
-
-[Click here to view]
-
 its constitution, as Figs. 1 and 2 show, precisely to ammonia.
 Peirce: CP 3.470 Cross-Ref:††
 470. But beyond this point the analogy ceases to be striking. In fact, the
@@ -45926,8 +45250,6 @@ that every relative has a definite number of blanks, or loose ends, yet it would
 at first sight, that there is no need of each of these joining no more than one other. For
 instance, taking the triad
 
-[Click here to view]
-
 "-- kills -- to gratify --," why may not the three loose ends all join in one node and
 then be connected with the loose end of the monad "John is --" as in making
 the proposition "John it is that kills what is John to gratify what is John"? The answer
@@ -45935,13 +45257,10 @@ is, that a little exercise of generalising power will show that such a four-way 
 really a tetradic relative, which may be expressed in words thus, "-- is identical with
 -- and with -- and with --"; so that the medad is
 
-[Click
 here to view]
 
 really equivalent to that of , which corresponds to prussic acid as shown in
 .
-
-[Click here to view]
 
 Thus, it becomes plain that every node of bonds is equivalent to a relative; and the
 doctrine of valency is established for us in logic.
@@ -46028,10 +45347,6 @@ corresponding to each bond of the encircled letter. Chemists sometimes write abo
 atoms Roman numerals to indicate their adinities; but I do not think this necessary.
 shows, in a complete medad, my sign of the
 
-[Click here to view]
-
-[Click here to view]
-
 relative copula. Here, h is the monad "-- is a man," and d is the monad "-- is mortal."
 The antecedent is completely enclosed, and the meaning is "Anything whatever, if it
 be a man, is mortal." If the circle encloses a dyadic or polyadic relative, it must, of
@@ -46056,8 +45371,6 @@ Thus the whole means, "Whoever loves only the virtuous is wise."
 Peirce: CP 3.475 Cross-Ref:††
 As another example, take the graph of , where l has
 
-[Click here to view]
-
 the same meaning as before and m is the dyad "-- is mother of --." Suppose we start
 with the left hand bond. We begin with saying "Whatever." Since cutting this bond
 does not sever the medad, we proceed at once to read the whole as an unconditional
@@ -46079,8 +45392,6 @@ Peirce: CP 3.476 Cross-Ref:††
 have the same significations as before; r is the monad, "-- is a reward," and g is the
 triad "-- gives | to --." It can be read either
 
-[Click here to view]
-
 "Whatever is wise gives every reward to every virtuous person," or "Every virtuous
 person has every reward given to him by everybody that is wise," or "Every reward is
 given by everybody who is wise to every virtuous person."
@@ -46089,12 +45400,6 @@ Peirce: CP 3.477 Cross-Ref:††
 proper name "Alexander" means "Alexander loves only the virtuous," i.e., "Take
 anybody you please; then, if he be Alexander and if he loves anybody, this latter is
 virtuous."
-
-[Click here to view]
-
-[Click here to view]
-
-[Click here to view]
 
 Peirce: CP 3.477 Cross-Ref:††
 If you attempt, in reading this medad, to start to the right of l, you fall into
@@ -46112,10 +45417,6 @@ to the above principles, in the several ways following:
 benefits him."
 "Every person stands only to a person benefited by him in the relation of a
 lover only of a servant of that person."
-
-[Click here to view]
-
-[Click here to view]
 
 "Every person, M, is benefactor of everybody who stands to M in the relation
 of being served by everybody loved by him."
@@ -46148,8 +45449,6 @@ represented by a bond from the right of p and the third by a bond from below p. 
 mean "-- would betray -- to --," the arrangement of bonds being the same as with p.
 Then, means that "whoever loves only persons who prevent every servant
 
-[Click here to view]
-
 of any person, A, from communicating with any person, B, would betray B to A." I
 will only notice one equivalent statement, viz.: "Take any three persons, A, B, C, no
 matter who. Then, either C betrays B to A, or else two persons, M and N, can be
@@ -46159,11 +45458,9 @@ Peirce: CP 3.479 Cross-Ref:††
 479. This last interpretation is an example of the method which is, by far, the
 plainest and most unmistakable of any in complicated cases. The rule for producing it
 is as follows:
-Peirce: CP 3.479 Cross-Ref:††
 1. Assign a letter of the alphabet to denote the hecceity represented by each
 bond.†P1
 
-Peirce: CP 3.479 Cross-Ref:††
 2. Begin by saying: "Take any things you please, namely," and name the
 letters representing bonds not encircled; then add, "Then suitably select objects,
 namely," and name the letters representing bonds each once encircled; then add,
@@ -46174,7 +45471,6 @@ named; and each hecceity corresponding to a letter encircled odd times is to be
 suitably chosen according to the intent of the assertor of the medad proposition, while
 each hecceity corresponding to a bond encircled even times is to be taken as the
 interpreter or the opponent of the proposition pleases.†1
-Peirce: CP 3.479 Cross-Ref:††
 3. Declare that you are about to make statements concerning certain
 propositions, to which, for the sake of convenience, you will assign numbers in
 advance of enunciating them or stating their relations to one another. These numbers
@@ -46185,7 +45481,6 @@ one letter; and the first figure of that number is to be a 1 or a 2, according a
 or the circle is in the principal antecedent or the principal consequent; the second
 figure is to be 1 or 2, according as the letter or the circle belongs to the antecedent or
 the consequent of the principal antecedent or consequent, and so on.
-Peirce: CP 3.479 Cross-Ref:††
 Declare that one or other of those propositions whose numbers contain no 1
 before the last figure is true. Declare that each of those propositions whose numbers
 contain an odd number of 1's before the last figure consists in the assertion that some
@@ -46198,7 +45493,6 @@ propositions whose numbers commence with its number is true. Thus, 12 consists i
 the assertion that 121, 1221, 1222 are all true, provided those are the only
 propositions whose numbers commence with 12. The process described in this clause
 will be abridged except in excessively complicated cases.
-Peirce: CP 3.479 Cross-Ref:††
 4. Finally, you are to enunciate all those numbered propositions which
 correspond to single letters. Namely, each proposition whose number contains an
 even number of 1's, will consist in affirming the relative of the spot-letter to which
@@ -46211,61 +45505,50 @@ Peirce: CP 3.480 Cross-Ref:††
 Figures 7-16, in all the formality of the rule; although such formality is uncalled for
 and awkward, except in far more complicated cases.
 
-Peirce: CP 3.480 Cross-Ref:††
 . Let A be anything you please. There are two propositions, 1 and 2,
 one of which is true. Proposition 1 is, that A is not a man. Proposition 2 is, that A is
 mortal. More simply, Whatever A may be, either A is not a man or A is mortal.
-Peirce: CP 3.480 Cross-Ref:††
 . Let A be anybody you please. Then, I will find a person, B, so that
 either proposition 1 or proposition 2 shall be true. Proposition 1 asserts that both
 propositions 11 and 12 are true. Proposition 11 is that A loves B. Proposition 12 is
 that B is not virtuous. Proposition 2 is that A is wise. More simply, Take anybody, A,
 you please. Then, either A is wise, or else a person, B, can be found such that B is not
 virtuous and A loves B.
-Peirce: CP 3.480 Cross-Ref:††
 . Let A and B be any persons you please. Then, either proposition 1 or
 proposition 2 is true. Proposition 1 is that A is not a mother of B. Proposition 2 is that
 A loves B. More simply, whatever two persons A and B may be, either A is not a
 mother of B or A loves B.
-Peirce: CP 3.480 Cross-Ref:††
 . Let A, B, C be any three things you please. Then, one of the
 propositions numbered, 1, 21, 221, 222 is true. Proposition 1 is that A is not wise.
 Proposition 21 is that B is not a reward. Proposition 221 is that C is not virtuous.
 Proposition 222 is that A gives B to C. More simply, take any three things, A, B, C,
 you please. Then, either A is not wise, or B is not a reward, or C is not virtuous, or A
 gives B to C.
-Peirce: CP 3.480 Cross-Ref:††
 . Take any two persons, A and B, you please. Then, one of the
 propositions 1, 21, 22 is true. 1 is that A is not Alexander. 21 is that A does not love
 B. Proposition 3 is that B is virtuous.
-Peirce: CP 3.480 Cross-Ref:††
 . Take any two persons, A and B. Then, one of the propositions 1,
 21, 22 is true. 1 is that A is not wise. 21 is that B is not virtuous. 22 is that A loves B.
-Peirce: CP 3.480 Cross-Ref:††
 . Take any two persons, A and C. Then a person, B can be found
 such that one of the propositions 1, 21, 22 is true. Proposition 21 asserts that both 211
 and 212 are true. Proposition 1 that A is not Alexander. Proposition 211 is that A
 loves B. Proposition 212 is that B does not benefit C. Proposition 22 is that C is
 virtuous. More simply, taking any two persons, A and C, either A is not Alexander, or
 C is virtuous, or there is some person, B, who is loved by A without benefiting C.
-Peirce: CP 3.480 Cross-Ref:††
 . Take any two persons, A and B, and I will then select a person C.
 Either proposition 1 or proposition 2 is true. Proposition 1 is that both 11 and 12 are
 true. Proposition 11 is that A loves C. Proposition 12 is that C is not a servant of B.
 Proposition 2 is that A benefits B. More simply, of any two persons, A and B, either
 A benefits the other, B, or else there is a person, C, who is loved by A but is not a
 servant of B.
-Peirce: CP 3.480 Cross-Ref:††
 
 . Take any three persons, A, B, C. Then one of the propositions 1,
 21, 22 is true. 1 is that A is not a servant of B; 21 is that B is not a lover of C; 22 is
 that A benefits C.
-Peirce: CP 3.480 Cross-Ref:††
 . Take any three persons, A, B, C. Then I can so select D and E, that
 one of the propositions 1 or 2 is true. 1 is that 11 and 121 and 122 are all true. 11 is
 that A loves D, 121 is that E is a servant of C, 122 is that D does not prevent E from
 communicating with B. 2 is that A betrays B to C.
-Peirce: CP 3.480 Cross-Ref:††
 I have preferred to give these examples rather than fill my pages with a dry
 abstract demonstration of the correctness of the rule. If the reader requires such a
 proof, he can easily construct it. This rule makes evident the reversing effect of the
@@ -46316,18 +45599,10 @@ Peirce: CP 3.483 Cross-Ref:††
 
 483. That out of triads all polyads can be constructed is made plain by .
 
-[Click here to view]
-
 Peirce: CP 3.484 Cross-Ref:††
 484. shows that from two triads a dyad can be made.
 shows that from one triad a monad can be made. shows that from any even
 number of triads
-
-[Click here to view]
-
-[Click here to view]
-
-[Click here to view]
 
 a medad can be made. In general, the union of a {m}-ad and a {n}-ad gives a ({m} +
 {n} - 2{l})-ad, where {l} is the number of bonds of union. This formula shows that
@@ -46347,8 +45622,6 @@ Peirce: CP 3.486 Cross-Ref:††
 such triad as "-- is coexistent with | and a lover of --." If, then, we make -w- to signify
 "-- is coexistent with | and with --," that which we have hitherto written as in will be written as in . But having once recognised that such a mode of
 writing is possible,
-
-[Click here to view]
 
 we can continue to use our former methods, provided we now consider them as
 abbreviations.
@@ -46402,36 +45675,18 @@ Peirce: CP 3.491 Cross-Ref:††
 
 Then means
 
-[Click here to view]
-
-[Click here
-to view]
-
-[Click here to view]
-
 that taking any two things whatever, either the one is neither itself nor the other
 (putting it out of the question as an absurdity), or the other is a non-giver of
 something to that thing. That is, nothing gives all things, each to itself. Thus, the
 existence of any general description of thing can be denied.
-
-[Click here
-to view]
 
 Either medad of means no wise men are virtuous. is equivalent to
 . means "each wise man is a lover of something virtuous." Thus we
 see that this mode of junction -- lover of some virtuous -- which seems so simple -- is
 really complex. means "some one
 
-[Click here
-to view]
-
 thing is loved by all wise men." means that every man is either wise or
 virtuous. means that every man is both wise and virtuous.
-
-[Click here to view]
-
-[Click here
-to view]
 
 Peirce: CP 3.491 Cross-Ref:††
 These explanations need not be carried further to show that we have here a
@@ -46480,10 +45735,6 @@ Peirce: CP 3.494 Cross-Ref:††
 494. The relative "-- stands to everything which is a benefactor of -- in the
 relation of servant of every lover of his," shows,
 
-[Click here to view]
-
-[Click here to view]
-
 as written in , an unencircled bond between s and l. The junction of the l and
 the b may therefore be regarded as direct. Stating the relative so as to make this direct
 junction prominent, it is "-- is servant of everything that is a lover of a benefactor of
@@ -46518,8 +45769,6 @@ non-lover only of benefactors of B," is the same as to say that A is not a non-l
 a non-benefactor of B.
 Peirce: CP 3.495 Cross-Ref:††
 495. To express in the algebra the relative of .
-
-[Click here to view]
 
 or "-- is both a lover and a benefactor of --," I write
 
@@ -47079,23 +46328,7 @@ filled that are void in a, and vice versa. Consequently ~a = 0~AΩΩ . Τηισ
 
 = α • (∼α
 
-) • (α
-
-= α • (∼α
-
-) • (α
-
 •
-
-= α • (∼α
-
-) • (α
-
-) • (α
-
-= α • (∼α
-
-) • (α
 
 )
 
@@ -47112,8 +46345,6 @@ filled that are void in a, and vice versa. Consequently ~a = 0~AΩΩ . Τηισ
 (σινχε ∼α • α = 0)
 
 ]]
-
-= α • (∼α
 
 = α • (∼α • α
 
@@ -47427,8 +46658,6 @@ f u = u · (u
 
 $~u)
 
-we have
-
 x = f∞ u.
 
 Here,
@@ -47436,8 +46665,6 @@ Here,
 fu
 
 u;
-
-so that
 
 f∞ u
 
@@ -48077,7 +47304,6 @@ concerning individuals and individual pairs; but owing to the length this paper 
 already reached, I must remit that to some future occasion.†2
 
 Peirce: CP 3.553 Cross-Ref:††
-XVII
 
 THE LOGIC OF MATHEMATICS IN RELATION TO EDUCATION†1
 
@@ -48304,14 +47530,11 @@ in a manner I proceed to define. It will be convenient to use this following loc
 shall say, A is R to B, meaning that A stands to B in the relation R, and with the same
 meaning I shall also say, B is R'd by A. Then the sequence is defined by these two
 precepts:
-Peirce: CP 3.562B Cross-Ref:††
 Precept I. If A is any object of the sequence whatever and B is any object of
 the sequence whatever, either A is not R to B or else B is not R to A.
-Peirce: CP 3.562B Cross-Ref:††
 Precept II. If A is any object of the sequence whatever, B is any such object,
 and C is any such object, then, so far as Precept I permits, either A is R to B, or B is R
 to C, or C is R to A.
-Peirce: CP 3.562B Cross-Ref:††
 Certain corollaries are easily deduced from these precepts. First, if, in
 applying Precept I, we choose for B the same object represented by A, that precept
 leads to the conclusion that no object of the sequence is R itself. This, then, shows the
@@ -48330,7 +47553,6 @@ by B and B is R'd by C, C is R to A, that is, A is R'd by C. Fifthly, whatever o
 the sequence A, B, and C may be, either A is not R'd by B or B is not R'd by C, or C
 is not R'd by A. For, by the fourth corollary, either A is not R'd by B, or B is not R'd
 by C, or A is R'd by C. But in the last case, by Precept I, C is not R'd by A.†2
-Peirce: CP 3.562B Cross-Ref:††
 This defines a sequence in general. The description of the relation R agrees
 with that of a relation which is familiar to us, namely, that of following in sequence.
 Of course, it equally agrees with the relation of preceding. Substituting "following"
@@ -48346,7 +47568,6 @@ by B and B by C, then A is followed by C. The fifth becomes, that whatever membe
 A, B, and C may be, either A is not followed by B, or B is not followed by C, or C is
 not followed by A.
 
-Peirce: CP 3.562B Cross-Ref:††
 A sequence may nor may not have an absolute end; that is, a member which is
 followed by no member; and it may or may not have an absolute beginning; that is, a
 member which follows no member. These distinctions are not mathematically
@@ -48481,7 +47702,6 @@ collecting the conceptions of the subject. I shall pass next to the application 
 number to the counting of collections.†1
 
 Peirce: CP 3.563 Cross-Ref:††
-XVIII
 
 INFINITESIMALS†1
 
@@ -48636,7 +47856,6 @@ infinite multitude in a finite space, the infinitesimals must be actual real dis
 and not the mere mathematical conceptions, like √-1, which is all that I contend for.
 
 Peirce: CP 3.571 Cross-Ref:††
-XIX
 
 NOMENCLATURE AND DIVISIONS OF DYADIC RELATIONS†1
 
@@ -48790,20 +48009,16 @@ Peirce: CP 3.581 Cross-Ref:††
 perlation, if, and only if, there is some individual that stands in this relation to every
 individual of the universe. A contralation is to be termed an extraperlation, if, and
 only if, there is nothing which stands in this relation to everything.
-Peirce: CP 3.581 Cross-Ref:††
 A contralation is to be termed a contraperlation, if, and only if, there is
 something which does not stand in this relation to anything. A contralation is to be
 termed a juxtalation,†1 if, and only if, everything stands to something or other in this
 relation.
-Peirce: CP 3.581 Cross-Ref:††
 A contralation is to be termed a reperlation, if, and only if, there is something
 to which everything stands in this relation. An extrareperlation is any contralation in
 which there is nothing to which something does not stand.†2
-Peirce: CP 3.581 Cross-Ref:††
 A contrareperlation is a contralation such that there is something to which
 nothing stands in it. If everything has something or other in a given relation to it, that
 relation (and none other than such) is a juxtareperlation.
-Peirce: CP 3.581 Cross-Ref:††
 Every perlation is necessarily a juxtareperlation; although not every
 juxtareperlation is a perlation; and similarly, every reperlation is a juxtaperlation.†1
 So, every contraperlation is an extrareperlation; and every contrareperlation is an
@@ -48811,10 +48026,8 @@ extraperlation.†2 The converse of none of these propositions is true. Conseque
 the eight classes of contralations named divide all contralations into nine classes, as
 shown in this table:
 
-[Click here to view]
 †1
 
-Peirce: CP 3.581 Cross-Ref:††
 It is a little puzzling to find that a relation may be at once in a class and in the
 contra-class. Thus, taking the citizens of a town as a universe of discourse, if there is
 one of them who is helpful to himself and to all the others, helpfulness becomes for
@@ -48861,10 +48074,6 @@ relation to every other.
 Peirce: CP 3.584 Cross-Ref:††
 584. Every suilation is a juxtasuilation and every ambilation a juxtambilation.
 Consequently, there will result nine classes of relations as shown in this table:
-
-[Click
-
-here to view]
 
 .†1
 
@@ -49056,8 +48265,6 @@ Since the first, fourth, and fifth squares of the dexter diagonals (or say, dext
 squares) have blank ranks, they need no consideration; and the same is true of the
 second and sixth dexter squares, which have blank columns. It is thus only necessary
 to consider the third and seventh dexter squares.
-
-[Click here to view]
 
 The third will require dyads for the squares marked 3, after which, the seventh will
 require dyads in the squares marked 7; and, as it happens, these do not make any new
@@ -49808,7 +49015,6 @@ for the most part, underlie them; and indeed almost a complete treatise upon the
 †2 of the three divisions of logic would be required.†3
 
 Peirce: CP 3.609 Cross-Ref:††
-XX
 
 NOTES ON SYMBOLIC LOGIC AND MATHEMATICSE
 
@@ -50537,7 +49743,6 @@ b = Some b is a). The usual discussion in the logics of the doctrine of the equi
 of propositions is greatly simplified by taking this more general view of the subject.
 
 Peirce: CP 3.646 Cross-Ref:††
-APPENDIX
 
 ON NONIONSE†1
 
@@ -50577,7 +49782,6 @@ Peirce: CP 3.647 Cross-Ref:††
 647. I will now explain what the system of Nonions consists in and how I have
 been concerned with it.
 
-Peirce: CP 3.647 Cross-Ref:††
 The calculus of Quaternions, one of the greatest of all mathematical
 discoveries, is a certain system of algebra applied to geometry. A quaternion is a
 four-dimensional quantity; that is to say, its value cannot be precisely expressed
@@ -50626,7 +49830,6 @@ k
 |
 |
 
-Peirce: CP 3.647 Cross-Ref:††
 As long as x, y, z, and w in Hamilton's standard tetranomial form are confined
 to being real numbers, as he usually supposed them to be, no simpler or more
 advantageous form of conceiving the measurement of a quaternion can be found. But
@@ -50672,12 +49875,10 @@ l
 |
 |
 
-Peirce: CP 3.647 Cross-Ref:††
 A quaternion does not cease to be a quaternion by being measured upon one
 system rather than another. Any quantity belonging to the algebra is a quaternion; the
 algebra itself is "quaternions." The usual formulae of the calculus have no reference
 to any tetranomial form, and such a form might even be dispensed with altogether.
-Peirce: CP 3.647 Cross-Ref:††
 While my father was making his investigations in multiple algebra I was, in
 my humble way, studying the logic of relatives and an algebraic notation for it; and in
 the ninth volume of the Memoirs of the American Academy of Arts and Sciences,†2
@@ -50714,7 +49915,6 @@ These forms, in their multiplication, follow these rules:
 
 (u[a]:u[b]) (u[b]:u[c]) = (u[a]:u[c]) (u[a]:u[b]) (u[c]:u[d]) = 0.
 
-Peirce: CP 3.647 Cross-Ref:††
 I said, "I can assert, upon reasonable inductive evidence, that all such algebras
 can be interpreted on the principles of the present notation in the same way,"†1 and
 consequently can be put into this form. I afterwards published a proof of this.†2 I
@@ -50727,11 +49927,9 @@ Professor Clifford) which present so close an analogy with quaternions that they
 all be considered as mere complications of that algebra. Of these algebras, I gave as
 an example, the multiplication table of that one which Professor Clifford afterward
 named nonions.†P1 This is the passage:†4
-Peirce: CP 3.647 Cross-Ref:††
 It will be seen that the system of nonions is not a group but an algebra; that
 just as the word "quaternion" is not restricted to the three perpendicular vectors and
 unity, so a nonion is any quantity of this nine-fold algebra.
-Peirce: CP 3.647 Cross-Ref:††
 So much was published by me in 1870; and it then occurred either to my
 father or to me (probably in conversing together) that since this algebra was thus
 shown (through his form of quaternions) to be the strict analogue of quaternions, there
@@ -52175,8 +51373,6 @@ convertibility, and to speak of simply convertible modes of junction as "symmetr
 Such an example of wanton disregard of the admirable traditional terminology of
 logic, were it widely followed, would result in utter uncertainty as to what any
 
-[Click here to view]
-
 writer on logic might mean to say, and would thus be utterly fatal to all our efforts to
 render logic exact. Professor Schröder denies that the mode of junction in "lover of a
 servant" is "symmetrical," which word in practice he makes synonymous with
@@ -52652,7 +51848,6 @@ Peirce: CP 3.581 Fn 2 p 372
 Peirce: CP 3.581 Fn 1 p 373
 
 †1
-[Click here to view]
 Peirce: CP 3.583 Fn 1 p 374
 †1 The following schedule may be of aid in this section:
 
@@ -52708,7 +51903,6 @@ Peirce: CP 3.583 Fn 1 p 374
 Peirce: CP 3.584 Fn 1 p 375
 
 †1
-[Click here to view]
 Peirce: CP 3.585 Fn 1 p 376
 †1 See 136.
 Peirce: CP 3.587 Fn 2 p 376
@@ -52881,46 +52075,29 @@ Peirce: CP 3.647 Fn 4 p 414
 Peirce: CP 4 Title-Page
 THE COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
-EDITED BY
-CHARLES HARTSHORNE
 AND
-PAUL WEISS
 VOLUME IV
 THE SIMPLEST MATHEMATICS
-CAMBRIDGE
-HARVARD UNIVERSITY PRESS
 Peirce: CP 4 Copyright Page
 
 COPYRIGHT 1933
-BY THE PRESIDENT AND FELLOWS OF
-HARVARD COLLEGE
-PRINTED IN UNITED STATES OF AMERICA
-THE MURRAY PRINTING COMPANY
-CAMBRIDGE, MASSACHUSETTS
 
 Peirce: CP 4 Introduction p iii
-INTRODUCTION
 
 Peirce's punctuation and spelling have, wherever possible, been retained.
 Titles supplied by the editors for papers previously published are marked with an E,
 while Peirce's titles for unpublished papers are marked with a P. Peirce's titles for
-previously published papers and the editors' titles for unpublished papers are not
 marked. Remarks and additions by the editors are enclosed in light-face square
-brackets. The editors' footnotes are indicated by various typographical signs, while
-Peirce's are indicated by numbers. Paragraphs are numbered consecutively throughout
 the volume. At the top of each page the numbers signify the volume and the first
-paragraph of that page. All references in the indices are to the numbers of the
 paragraphs.
 Peirce: CP 4 Introduction p iii
 The department and the editors desire to express their gratitude to Dr. Henry
 S. Leonard and Miss Isabel Stearns for their assistance with the proofs, references and
 editorial footnotes.
 
-HARVARD UNIVERSITY
 September, 1933
 
 Peirce: CP 4 Editorial Note p v
-EDITORIAL NOTE
 
 In addition to his published papers on exact logic and the foundations of
 mathematics (see vol. III), Peirce wrote a great number of others which he seems
@@ -52958,15 +52135,8 @@ BRYN MAWR COLLEGE
 September, 1933
 
 Peirce: CP 4 Contents p vii
-CONTENTS
-
-INTRODUCTION
-
-EDITORIAL NOTE
 
 Peirce: CP 4 Contents Book 1 Paper 1 p vii
-Paragraph
-Numbers
 BOOK I. LOGIC AND MATHEMATICS
 PREFACE
 Paper
@@ -53118,7 +52288,6 @@ Peirce: CP 4 Contents Book 3 Chapter 3 p x
 2. Cardinal and Ordinal Numbers
 
 Peirce: CP 4.1 Cross-Ref:††
-BOOK I
 
 LOGIC AND MATHEMATICS
 (UNPUBLISHED PAPERS)
@@ -53151,20 +52320,17 @@ element of being. Such was and is the question. It is as pressing today as ever 
 Ernst Mach,†1 for example, holding that generality is a mere device for economising
 labor while Hegeler,†2 though he extols Mach to the skies, thinks he has said that
 man is immortal when he has only said that his influence survives him.
-Peirce: CP 4.1 Cross-Ref:††
 According to the nominalistic view, the only value which an idea has is to
 represent the fact, and therefore the only respect in which a system of ideas has more
 value than the sum of the values of the ideas of which it is composed is that it is
 compendious; while, according to the realistic view, this is more or less incorrect
 depending upon how far the realism be pushed.
-Peirce: CP 4.1 Cross-Ref:††
 Dr. [F.E.] Abbot in his Scientific Theism [1885] has so clearly and with such
 admirable simplicity shown that modern science is realistic that it is perhaps
 injudicious for me to attempt* to add anything upon the subject. Yet I shall try to put
 it into such a light that it may reflect some rays upon the worth or worthlessness of
 detached ideas. But I warn you that I shall not argue the question, but only indicate
 what my line of reasoning would be were I to enter upon it in detail.
-Peirce: CP 4.1 Cross-Ref:††
 The burden of proof is undoubtedly upon the realists, because the nominalistic
 hypothesis is the simpler. Dr. Carus †3 professes himself a realist and yet accuses me
 of inconsistency in admitting Ockham's razor although I am a realist, thus, implying
@@ -53184,7 +52350,6 @@ continue in that opinion until he is driven out of it by the force majeure of
 irreconcilable facts. Still he ought to be all the time on the lookout for these facts,
 considering how many other powerful minds have found themselves compelled to
 come over to realism.
-Peirce: CP 4.1 Cross-Ref:††
 Nor has the wealth of thought that has been expended upon the defenses of
 nominalism especially by four great English philosophers who have engineered the
 works, I mean Ockham, Hobbes, Berkeley, and James Mill, by any means been
@@ -53195,7 +52360,6 @@ he reminds me of the blind spot on the retina, so wonderfully does he unconsciou
 smooth over his field of vision and omit facts that stare him in the face, while seeing
 all round them without perceiving any gap in his view of the world. That any man not
 demented should be a realist is something he cannot conceive.
-Peirce: CP 4.1 Cross-Ref:††
 My plan for defeating nominalism is not simple nor direct; but it seems to me
 sure to be decisive, and to afford no difficulties except the mathematical toil that it
 requires. For as soon as you have once mounted the vantage-ground of the logic of
@@ -53203,7 +52367,6 @@ relatives, which is related to ordinary logic precisely as the geometry of three
 dimensions is to the geometry of points on a line, as soon as you have scaled this
 height, I say, you find that you command the whole citadel of nominalism, which
 must thereupon fall almost without another blow.
-Peirce: CP 4.1 Cross-Ref:††
 I am going to describe in general terms what this logic of relatives is, so far as
 it bears upon this great controversy. And in doing so I can at the same time, without
 lengthening the lecture by more than three or four minutes, make my account of this
@@ -53425,7 +52588,6 @@ sufficiently so to be called a portraiture of Thought.
 
 Peirce: CP 4.12 Cross-Ref:††
 THE SIMPLEST MATHEMATICS
-I
 A BOOLIAN ALGEBRA WITH ONE CONSTANT†1
 
 12. Every logical notation hitherto proposed has an unnecessary number of
@@ -53557,7 +52719,6 @@ for "nothing" unnecessary. It is true, that a 0 has been used, but it has only b
 as the sign of an erasure.†2
 
 Peirce: CP 4.21 Cross-Ref:††
-II
 THE ESSENCE OF REASONINGP†1
 
 §1. SOME HISTORICAL NOTES
@@ -54528,7 +53689,6 @@ must represent the state of things considered in a direct imaginative way.
 Peirce: CP 4.76 Cross-Ref:††
 76. A large part of logic will consist in the study of the different monstrative
 signs, or icons, serviceable in reasoning.
-Peirce: CP 4.76 Cross-Ref:††
 Suppose we reason
 
 Enoch was a man,
@@ -54560,23 +53720,19 @@ From being Enoch follows being a man, and from being a man follows being
 subject to death;
 Hence, from being Enoch follows being subject to death.
 
-Peirce: CP 4.76 Cross-Ref:††
 If this reasoning is called in question, the reasoner searches his mind for the
 leading principle and may state it thus:
 
 If one truth, A, makes another truth, B, certain, and if this truth, B, makes a
 third truth, C, certain; then, the truth, A, makes the truth, C, certain.
 
-Peirce: CP 4.76 Cross-Ref:††
 This is the logical principle called the Nota notæ, because one statement of it
 is, nota notæ est nota rei ipsius.†1
-Peirce: CP 4.76 Cross-Ref:††
 Now shall the reader add this as a premiss to the compound premiss already
 adopted? He gains nothing by doing so. For he cannot reason at all without a
 monstrative sign of illation; and this sign is not really monstrative unless it makes
 clear the proposition here proposed to be abstractly stated. Nor could any use of that
 statement be made without using the truth which it expresses.
-Peirce: CP 4.76 Cross-Ref:††
 That if the fact A is certain evidence of the fact B and the fact B is certain
 evidence of the fact C, then the fact A is certain evidence of the fact C, appears to us
 perfectly clear. That appearance of evidence may be an argument that the proposition
@@ -54587,7 +53743,6 @@ Peirce: CP 4.77 Cross-Ref:††
 77. Now although the reader does not really doubt that the proposition is true,
 it may be instructive to feign such a doubt, and see what the nature of the source of
 knowledge is.
-Peirce: CP 4.77 Cross-Ref:††
 A common form of the maxim is this: The word mortal is applicable to
 everything to which the word man is applicable, and the word man is applicable to
 everything to which the word Enoch is applicable. Hence, the word mortal is
@@ -54600,17 +53755,13 @@ relation; that is, if the things to which A is applicable are wholly included am
 things to which B is applicable, and the things to which B is applicable are wholly
 included among the things to which C is applicable, then the things to which A is
 applicable are wholly included among the things to which C is applicable.
-Peirce: CP 4.77 Cross-Ref:††
 Here we have a mental diagram representing receptacles or spaces
 successively included in one another; and the question of the truth of the maxim may
 be divided into two parts:
-Peirce: CP 4.77 Cross-Ref:††
 First: Is the maxim certainly true of the mental diagram; and if so how do we
 know it?
-Peirce: CP 4.77 Cross-Ref:††
 Second: Does the mental diagram represent the relations of truths of nature to
 one another, in fact?
-Peirce: CP 4.77 Cross-Ref:††
 As to the first question, there would seem to be no reason to doubt that we
 know it is true of our mental diagram, just as we know of our idea of numbers that 2
 and 3 make 5. And no line can be drawn between this case and knowing that
@@ -54626,7 +53777,6 @@ everything he says is false. For this very thing is one of the things he says; a
 be false then in what it says of itself it is true, and therefore false.†1 But this remark
 does not clear up the matter; and we shall leave the problem for the present, to return
 to it later.†2
-Peirce: CP 4.77 Cross-Ref:††
 As to the second question, it is important to remark that the Nota notæ does
 not declare that there is any infallible mark of anything, or any rule without
 exceptions. If, as we have seen, the Nota notæ itself is not absolutely certain, nothing
@@ -54687,7 +53837,6 @@ assumptions of logic differ from those of geometry, not merely in not being
 assertorically held, but also in being much less definite.
 
 Peirce: CP 4.80 Cross-Ref:††
-III
 SECOND INTENTIONAL LOGIC†1P
 
 80. Second intentional, or, as I also call it, Objective Logic, is much the larger
@@ -54790,7 +53939,6 @@ which is as much as to say that everything is identical with everything. So that
 universe of more than one object this proposition is false.
 
 Peirce: CP 4.85 Cross-Ref:††
-IV
 THE LOGIC OF QUANTITY†1P
 
 §1. ARITHMETICAL PROPOSITIONS
@@ -55022,7 +54170,6 @@ Peirce: CP 4.95 Cross-Ref:††
 95. I am now going to allow myself to be led aside out of the main channel of
 thought upon this subject merely to show how little interest there is in transitive
 relationship apart from the logical form (l†~$l).
-Peirce: CP 4.95 Cross-Ref:††
 Let us use the zodiacal sign of Leo to signify a transitive relation, such that
 not everything is in that relation to itself. The inference holds,
 x y, y z,
@@ -55040,7 +54187,6 @@ x L
 .·. L~ x.
 
 We may, therefore, divide all other individuals into three classes; first, K, J, etc. such
-that
 K L
 J L, etc.;
 second, M, N, etc., such that
@@ -55056,70 +54202,54 @@ L~ {D}, etc.
 Taking any one of the first class, K, and any one of the second,
 M, we have
 M~ K.
-Peirce: CP 4.95 Cross-Ref:††
 Let G be a letter of the first class which is a non-Leo of itself; then
 G~ G,
 and the first class may be subdivided into three with reference to G, just as all were
 divided relatively to L. So, if R be a letter of the second class which is non-Leo of
 itself, or
 R~ R.
-Peirce: CP 4.95 Cross-Ref:††
 We can then divide all possible individuals other than G, L, and R into ten
 classes, viz.:
-Peirce: CP 4.95 Cross-Ref:††
 First, Those which, as B, C, etc. are Leos of G; as
 B G;
-Peirce: CP 4.95 Cross-Ref:††
 Second, Those which, as r, are neither Leos of nor Leo'd by G, but are Leos of
 L; as
 Γ~ G, G~∩Γ, Γ Λ;
 
-Peirce: CP 4.95 Cross-Ref:††
 Third, Those which, as H, K, etc., are Leo'd by G and are Leos of L; as
 G K, K L;
-Peirce: CP 4.95 Cross-Ref:††
 Fourth, Those which, as {D}, are not Leo'd by G, nor are Leos of L, but are
 Leos of R; as
 G~ {D}, {D}~ L, {D} R;
-Peirce: CP 4.95 Cross-Ref:††
 Fifth, Those which, as Θ, are Leo'd by G, are neither Leos of nor Leo'd by L,
 and are Leos of R; as
 G∩Θ, L~∩Θ, Θ~ L, Θ Ρ;
-Peirce: CP 4.95 Cross-Ref:††
 Sixth, Those which, as P, Q, etc. are Leo'd by L and are Leos of R; as
 L P, P R;
-Peirce: CP 4.95 Cross-Ref:††
 Seventh, Those which as {X} are not Leo'd by G nor are Leos of R; as
 G~ {X}, {X}~ R;
-Peirce: CP 4.95 Cross-Ref:††
 Eighth, Those which as π are Leo'd by G, are not Leo'd by L, and are not Leos
 of R;
 G∩π, L~∩π, π~ R;
-Peirce: CP 4.95 Cross-Ref:††
 Ninth, Those as Σ which are Leo'd by L but are neither Leos of nor Leo'd by
 R;
 L∩Σ, R~∩Σ, Σ~ R;
-Peirce: CP 4.95 Cross-Ref:††
 Tenth, Those as X, Y, etc. which are Leo'd by R; as
 R X.
 Peirce: CP 4.96 Cross-Ref:††
 96. The above gives some idea what the further doctrine of transitive relations
 not including identity would be like. It is evidently more interesting to consider
 further the study of relatives of the form (l†~$l) and others allied to them.
-Peirce: CP 4.96 Cross-Ref:††
 The converse of l†~$l is ~l†$l,†1 which is, of course, also transitive. The
 negative is ~l$l,†2 which is not transitive, but which has the property,
 ~l$l -< ~l$l†~l$l.
 For ~l$l = ~l1$l -< ~l($l†~l)$l -< ~l$l†~l$l.
 
-Peirce: CP 4.96 Cross-Ref:††
 This is a property allied to transitiveness.
-Peirce: CP 4.96 Cross-Ref:††
 If A is a lover of something not loved by B, which is, in its turn, a lover of
 something not loved by C, the conclusion is, that A is a lover of something different
 from something not loved by C. That is,
 (l~$l)(l~$l) -< lT~$l.
-Peirce: CP 4.96 Cross-Ref:††
 The natural current of thought next carries us to the hypothesis that the
 relation expressed by l be such that
 l~$l -< l†~$l.
@@ -55129,10 +54259,8 @@ Such a relation may well be termed a comparative relation. If Samson can lift
 something Ajax cannot lift, then Samson can lift everything Ajax can lift. Such a
 relation underlies all measurement; and the propriety of the designation I propose will
 be allowed.
-Peirce: CP 4.96 Cross-Ref:††
 With this conception, quantitative science begins. Note well how it has been
 suggested to us.
-Peirce: CP 4.96 Cross-Ref:††
 A trial of strength must begin by young Ajax, the challenger, doing various
 things which he "stumps" the champion, Samson, to imitate. If Samson cannot
 perform all of Ajax's feats, that settles it. But if it seems that Samson can do all that
@@ -55140,7 +54268,6 @@ Ajax can do then he will, in his turn, do something which he proposes that Ajax 
 imitate. If Ajax cannot do all that Samson can do, that again settles it. But if it seems
 that each can repeat all the performances of the other, we conclude that they are
 equally strong. Thus equality is a complex relation.†3
-Peirce: CP 4.96 Cross-Ref:††
 In a universe of quantities of one dimension (where are only quantities, not
 quanta) things equal are identical; so that, not only,
 l~$l -< T,
@@ -55153,7 +54280,6 @@ T -< l~$l
 
 That is, if A and B are not identical, either A can do something that B cannot, or B can
 do something that A cannot.
-Peirce: CP 4.96 Cross-Ref:††
 
 We have thus analyzed the conception of quantity; and we see that nothing but
 logical conceptions enter into its constitution. The idea of being able, especially in the
@@ -55165,7 +54291,6 @@ Peirce: CP 4.97 Cross-Ref:††
 intentional logic, yet it will be indispensible to look upon quantity somewhat in that
 way; for quantitative thought, like the traditional "chimæra bombinans in vacuo,"
 feeds upon second intentions.
-Peirce: CP 4.97 Cross-Ref:††
 That l is a comparative relation in a universe of quantity, may be expressed by
 the formula,
 0†(1 l~$l
@@ -55177,12 +54302,10 @@ among the indices. Thus, let us use the three symbols, u, v, w.
 w[ij] means that i is an individual relation of which j is the general character,
 u[ij] means that i is an individual relation of which j is the first relate,
 v[ij] means that i is an individual relation of which j is the correlate.
-Peirce: CP 4.97 Cross-Ref:††
 Then, we shall have
 l[ij] = Σ[k]u[ki]v[kj]w[kl],
 that is, there is an individual relation of which i is the relate, j the correlate, and l the
 general character.
-Peirce: CP 4.97 Cross-Ref:††
 That being premissed, the proposition that l is a comparative relation may be
 written,
 π[h]π[k]Σ[i]Σ[j]Σ[p]π[q]π[r]Σ[s]
@@ -55193,7 +54316,6 @@ written,
 
 that is, of any two different objects, h and k, one or other is l to something to which
 the other is not l.
-Peirce: CP 4.97 Cross-Ref:††
 More simply, if
 r[ijk]
 means that i is a relation in which j stands to k; we may write,
@@ -55282,22 +54404,16 @@ a[0]$a[0]l~$l·~l$l.
 
 ~l$l
 
-Peirce: CP 4.102 Cross-Ref:††
 This is an aggregate of four relations, viz.:
-Peirce: CP 4.102 Cross-Ref:††
 First, That having for its relate any A, superior (l~$l) or inferior (~l$l) to a[0],
 and for its correlate a[0],
-Peirce: CP 4.102 Cross-Ref:††
 Second, That having for both relate and correlate A's superior to a[0], the
 relate being superior to the correlate,
-Peirce: CP 4.102 Cross-Ref:††
 Third, That having for relate any A inferior to a[0], and for correlate any A
 
 superior to a[0],
-Peirce: CP 4.102 Cross-Ref:††
 Fourth, That having for both relate and correlate A's inferior to a[0], the relate
 being inferior to the correlate.
-Peirce: CP 4.102 Cross-Ref:††
 This, I say, will be a quantitative relation. That is, it will be transitive,
 included under its own negative converse, and including negation under the aggregate
 of itself and its converse. That it is transitive, that is, that, if X is in this relation to Y,
@@ -55314,7 +54430,6 @@ for if U could be in this relation to V and in the converse relation, too, that 
 relation to U, then, since the relation is transitive, U would be in this relation to itself,
 which, it is easy to see, the definition excludes. That of any pair of different A's, one
 is in this relation to the other, is easily seen by running over the definition.
-Peirce: CP 4.102 Cross-Ref:††
 We will call this relation "second-superior." Now, I say, if the class of A's has
 no maximum for the relation l~$l, then that A which is next inferior to a[0] is not next
 second-superior to any A. Will it be objected that I have not proved that there is an A
@@ -55330,7 +54445,6 @@ superior to a[0], and any other A superior to it is second-superior to it and
 second-inferior to the next inferior to a[0]. Thus, that to which the next inferior to
 a[0] is next second-superior, is the superior of all other A's superior to a[0]; that is, it
 is the maximum. The proof that there will be a minimum is altogether similar.
-Peirce: CP 4.102 Cross-Ref:††
 Hence, any class of things in which whatever is anywise superior to another of
 the class is next superior to some one can be enumerated. For in enumeration, the
 objects of a class are singly told, and "told later than" evidently satisfies the three
@@ -55379,14 +54493,12 @@ For every non-Z there is something neither X nor Y,
 Some Y is not Z;
 .·.Some Z is not X.
 
-Peirce: CP 4.103 Cross-Ref:††
 We might also have such a reasoning as this:
 
 For every Z there is an X that is Y,
 For every X not Z there is an X not Y;
 .·.Every Z is X.
 
-Peirce: CP 4.103 Cross-Ref:††
 This is not one of De Morgan's Forms. He gives, however such as these:
 
 For every Z an X is Y,
@@ -55397,7 +54509,6 @@ For every not Z is an X not Y,
 For every X is a Y not Z;
 .·.Every Z is X.
 
-Peirce: CP 4.103 Cross-Ref:††
 De Morgan termed these "syllogisms of transposed quantity," because they
 transfer the lexis from one term to another. His point of view was this: Take Baroko,
 
@@ -55413,7 +54524,6 @@ does not follow; but if there are as many M's as there are S's, then this does f
 "For if M's, as many as there are S's, be among the P's, and some of the S's be not
 among the P's, though all the rest were, there would not be enough to match all the
 M's, or some M's are not S's."
-Peirce: CP 4.103 Cross-Ref:††
 The rank and file of old-fashioned logicians were not pleased with the
 syllogisms of transposed quantity. They belonged to that class of minds who decry
 originality, who dread novelty, who hate discoveries, and who will go to some trouble
@@ -55421,7 +54531,6 @@ to inflict any personal injury on those who perpetrate them, provided they can i
 it without serious injury to themselves. They circulated an unfounded innuendo that
 De Morgan was a drunkard; their spitefulness was only bounded by their prudence.
 The idea of so lifeless a subject as formal logic -- too abstract to be philosophical -exciting such passions is laughable. Yet such was the fact.
-Peirce: CP 4.103 Cross-Ref:††
 But they could not find anything better to say against those syllogisms of
 transposed quantity than that they were "extralogical." If it had only occurred to them
 that they were not sound reasoning, that is, not universally valid, they would have
@@ -55430,7 +54539,6 @@ seem to have remarked the circumstance; although it ought to have been evident f
 the line of thought which led him to those forms. By the logic of relatives, we at once
 find that the statement that such a syllogism is necessary implies that a certain
 collection is enumerable.
-Peirce: CP 4.103 Cross-Ref:††
 The following is the first form De Morgan adduced:
 
 Some X is Y,
@@ -55512,7 +54620,6 @@ or every b is a, while
 ∞ -< $a~b,
 or some a is not b; if, further, k is such a relative that
 $k b k -< 1,
-then
 ∞ -< $a(~$k†~b).
 Peirce: CP 4.106 Cross-Ref:††
 This is a good statement of the kind of inference peculiar to enumerable
@@ -55601,7 +54708,6 @@ sequences already formed we proceed to form a next succeeding linear sequence, a
 so on indefinitely. The multitude of linear sequences may be inenumerable; but as
 necessary consequences of the rule for the formation of these sequences, the
 following propositions hold.
-Peirce: CP 4.108 Cross-Ref:††
 First, The linear sequences are formed successively. If we take
 t
 to signify "already formed at a time --", then
@@ -55615,14 +54721,11 @@ included under "formed only at times at which X was already formed." Moreover
 t~$t)†0.
 
 That is, of two linear sequences not the same one was formed earlier than the other.
-Peirce: CP 4.108 Cross-Ref:††
 Second, None of the linear sequences was ~t$t to the first.
-Peirce: CP 4.108 Cross-Ref:††
 Third, Every sequence ~t$t, that is formed subsequent to another, was formed
 on the occasion of its having been found that some a's were left over not included in
 the previous sequences, and thus was not ~t$t~t$t, or was formed next subsequent to
 some other.
-Peirce: CP 4.108 Cross-Ref:††
 Fourth, All the sequences formed previous to a given sequence, have a first
 and last, and are an enumerable collection.
 Peirce: CP 4.109 Cross-Ref:††
@@ -55717,22 +54820,18 @@ between these the first two are
 
 3/7 0.4285742857;
 
-between these the first two are
 7/17 .4117647059
 
 5/12 0.4166666667;
 
-between these the first two are
 12/29 .4137931034
 
 17/41 0.4146341463;
 
-between these the first two are
 41/99 .4141414141
 
 29/70 0.4142857143;
 
-between these the first two are
 70/169 .4142011834 99/239 0.4142259414.
 
 All these are found in both parallel rows; but they are converging toward
@@ -55949,16 +55048,13 @@ other. Thus,
 u = 32.174118529821685238548599709435 . . . . will mean
 x = 3.141592653589793 . . .
 y = 2.718281828459045 . . .
-Peirce: CP 4.121 Cross-Ref:††
 This method would break down if the number of dimensions were
 dinumerable; but even then another method could be found. But if the number of
 dimensions were innumerable, it is difficult to say without more study than I have
 given, how to proceed. The idea of space with innumerable dimensions does not, at
 first blush, at least, strike one as presenting great difficulty.
-Peirce: CP 4.121 Cross-Ref:††
 But if bn when n is dinumerable gives a new grade of multitude, we might
 expect that when n was innumerable, a still higher grade would be given.
-Peirce: CP 4.121 Cross-Ref:††
 Yet, on the other hand, looking at the matter from the point of view of the
 original definitions given above, the three classes of multitude seem to form a closed
 system. Still, nothing in those definitions prevents there being many grades of
@@ -55966,7 +55062,6 @@ multiplicity in the third class. I leave the question open, while inclining to t
 that there are such grades.†1 Cantor's theory of manifolds appears to me to present
 certain difficulties; but I think they may be removed.
 
-Peirce: CP 4.121 Cross-Ref:††
 Let us now consider what is meant by saying that a line, for example, is
 continuous. The multitude of points, or limiting values of approximations upon it, is
 of course innumerable. But that does not make it continuous. Kant †2 defined its
@@ -56013,7 +55108,6 @@ limit.†2
 Peirce: CP 4.123 Cross-Ref:††
 
 123.
-[Click here to
 view] If we consider a line (which, for rhetoric's sake, we will consider as returning
 into itself, though if it did not, it would give no difficulty further than an intolerably
 tedious complexity) it consists in a connection of points, such that by virtue of it, if
@@ -56159,7 +55253,6 @@ incommensurable numbers taken by themselves do not form a continuum.
 Peirce: CP 4.127 Cross-Ref:††
 
 127.
-[Click
 here to view] A drop of ink has fallen upon the paper and I have walled it round. Now
 every point of the area within the walls is either black or white; and no point is both
 black and white. That is plain. The black is, however, all in one spot or blot; it is
@@ -56167,15 +55260,11 @@ within bounds. There is a line of demarcation between the black and the white. N
 ask about the points of this line, are they black or white? Why one more than the
 other? Are they (A) both black and white or (B) neither black nor white? Why A more
 than B, or B more than A? It is certainly true,
-Peirce: CP 4.127 Cross-Ref:††
 First, that every point of the area is either black or white,
-Peirce: CP 4.127 Cross-Ref:††
 Second, that no point is both black and white,
-Peirce: CP 4.127 Cross-Ref:††
 Third, that the points of the boundary are no more white than black, and no
 more black than white.
 
-Peirce: CP 4.127 Cross-Ref:††
 The logical conclusion from these three propositions is that the points of the
 boundary do not exist. That is, they do not exist in such a sense as to have entirely
 determinate characters attributed to them for such reasons as have operated to produce
@@ -56190,10 +55279,8 @@ exactly true unless we mean the parts in the immediate neighborhood of the
 boundary. These are the parts we have described. They are the parts which must be
 considered if we attempt to state the properties at precise points of a surface, these
 points being considered, as they must be, in their connection of continuity.
-Peirce: CP 4.127 Cross-Ref:††
 One begins to see that the phrase "immediate neighborhood," which at first
 blush strikes one as almost a contradiction in terms, is, after all, a very happy one.
-Peirce: CP 4.127 Cross-Ref:††
 What is the velocity of a particle at any instant? I answer it is the ratio of
 space traversed to time of traversing, in the moment, or time in the immediate
 neighborhood, of that instant, or point of time. Some logicians object to this. They
@@ -56221,7 +55308,6 @@ valueless in reasoning except so far as they aid us to construct diagrams. The s
 of the opinion I am combating seem, on the contrary, to suppose that reasoning is
 performed with abstract "judgments," and that an icon is of use only as enabling me to
 frame abstract statements as premisses.
-Peirce: CP 4.127 Cross-Ref:††
 The idea of "immediate neighborhood" is an exceedingly easy one, into which
 everybody is continually slipping, though he fancies it unjustifiable. Klein says of his
 
@@ -56231,14 +55317,12 @@ strip, which he says makes the curve in the naïve intuition, makes two parallel
 with a region between. But the simple idea is that of a blurred outline, to which we
 all, wise and simple, append the mental note that its breadth is such that an
 innumerable number would be contained in any surface.
-Peirce: CP 4.127 Cross-Ref:††
 Those who, finding themselves betrayed into the use of the expression
 "immediate neighborhood" or something equivalent, seek to justify it by the
 exigencies of speech, are mistaken. It is not English grammar which forces these
 words upon them, but it is the very grammar of thought -- formal grammar -- which
 forces the idea upon them. The idea of supposing that they can think about motion
 without an image of something moving!
-Peirce: CP 4.127 Cross-Ref:††
 We must return to this subject after having considered the nature of
 measurement.
 
@@ -56287,7 +55371,6 @@ logical property of the straight line distinguishing it from other curves. I fea
 however, there is none, if we are to leave its shortness out of account. We can
 perfectly well conceive of a cubic curve, such as is shown in the figure,
 
-[Click here
 to view] moving about with modifications of its shape, so as in any position to cut any
 other position once and once only (in real space). A mathematician will easily write
 down the conditions for this. Namely, the equation of the serpentine is
@@ -56304,30 +55387,23 @@ Peirce: CP 4.129 Cross-Ref:††
 by lower case italic letters. Let capitals denote points. Let Greek minuscules denote
 certain marks of lines. All these letters are treated as indices; but they will be written
 on the line.
-Peirce: CP 4.129 Cross-Ref:††
 Let aB (or any similar pair of letters) mean that the line a is considered as
 having the point B, which lies on it. If the point B is not on the line a, then ~(a B); but
 even if B be on a, it does not necessarily follow that B is regarded as belonging to the
 line a, and if not, again ~(a B). A point may belong to two lines, at once.
-Peirce: CP 4.129 Cross-Ref:††
 Let ab (or any similar pair of letters) signify that the line b has the mark a, the
 
 nature of which will appear in the sequel.
-Peirce: CP 4.129 Cross-Ref:††
 Let aB, etc., signify that the point B belongs to some line that has the mark a.
-Peirce: CP 4.129 Cross-Ref:††
 Let us now endeavor to sum up in a series of propositions the fundamental
 truths about the intersections of lines.
-Peirce: CP 4.129 Cross-Ref:††
 First proposition.
 πAπBΣc cA·cB
 that is, any two points may be regarded as belonging to one straight line.
-Peirce: CP 4.129 Cross-Ref:††
 Second proposition.
 παπβπc αc·βc,
 that is, given any two marks, an unlimited straight line having them both may be
 drawn.
-Peirce: CP 4.129 Cross-Ref:††
 Third proposition.
 πaπbπCπD ~(a C)
 
@@ -56341,7 +55417,6 @@ Third proposition.
 
 that is, if two points are regarded as belonging to two lines, either the two points or
 the two lines coincide.
-Peirce: CP 4.129 Cross-Ref:††
 Fourth proposition.
 παπβπcπd ~(αc)
 
@@ -56357,17 +55432,14 @@ Fourth proposition.
 
 τηατ ισ, ιφ τωο μαρκσ βελονγ το τωο λινεσ, ειτηερ τηε τωο μαρκσ αρε
 χοεξτενσιϖε ορ τηε τωο λινεσ χοινχιδε.
-Peirce: CP 4.129 Cross-Ref:††
 Fifth proposition.
 πAπbΣ{g} {g}b·{g}A,
 that is, given any line, any point may be regarded as belonging to a line having a mark
 in common with the given line.
-Peirce: CP 4.129 Cross-Ref:††
 Sixth proposition.
 παπbΣC αb·αC,
 that is, given any mark and any line, it is always possible to find a point which may be
 regarded as belonging to the given line and to some line having the given mark.
-Peirce: CP 4.129 Cross-Ref:††
 
 Seventh proposition.
 παπβπcπD ~(αc)
@@ -56383,7 +55455,6 @@ cD 1αβ,
 that is, if two marks belong to a given line and to lines to which a given point is
 regarded as belonging, that point must be regarded as belonging to that line, unless
 the two marks are coextensive.
-Peirce: CP 4.129 Cross-Ref:††
 Eighth proposition.
 παπbπCπD ~(αC)
 
@@ -56397,7 +55468,6 @@ Eighth proposition.
 
 that is, if two points are regarded as belonging to a given line and to lines having a
 given mark, that line has that mark unless the two points coincide.
-Peirce: CP 4.129 Cross-Ref:††
 Ninth proposition.
 παπbπcπdπE ~(αb)
 
@@ -56418,7 +55488,6 @@ Ninth proposition.
 1cd,
 
 that is, any three lines either have no common point or no common mark.
-Peirce: CP 4.129 Cross-Ref:††
 Tenth proposition.
 πbπcπdΣαΣE αb·αc·αd
 
@@ -56708,7 +55777,6 @@ j2+1 = 0
 Then it is plain that
 (iji)(iji) = (ij)ii(ji) = -(ij)(ji) = -i·jj·i = ii = -1,
 so that iji and jij are also square roots of negative unity.
-Peirce: CP 4.138 Cross-Ref:††
 Five cases may be studied:
 
 First, iji = i
@@ -56720,17 +55788,14 @@ Third, iji = j
 Fourth,iji = -j
 Fifth, iji = k (a third unit).
 
-Peirce: CP 4.138 Cross-Ref:††
 First Case. iji = i. Then,
 i·iji = -ji = ii
 -j = i.
 
-Peirce: CP 4.138 Cross-Ref:††
 Second Case. iji= -i. Then,
 i·iji = -ji = -ii
 j = i.
 
-Peirce: CP 4.138 Cross-Ref:††
 Third Case. iji = j. Then,
 
 ijij = jj = - 1
@@ -56757,7 +55822,6 @@ kj = ijj = -i
 jk = -jji = i
 This is the algebra of quaternions.†1
 
-Peirce: CP 4.138 Cross-Ref:††
 Fourth Case.iji = -j. Then,
 iji.i = -ij = -ji
 orji = ij.
@@ -56765,7 +55829,6 @@ Hence, sincei2 = j2
 (i-j)(i+j) = 0
 j = ±i.
 
-Peirce: CP 4.138 Cross-Ref:††
 Fifth Case.iji=k.
 The multiplication cannot be commutative. We may then have four infinite series of
 units
@@ -56816,7 +55879,6 @@ j[n] = jkn-1 = ln-1j
 i[m]j[n] = km+n-1
 j[m]i[n] = lm+n-1
 It is possible to suppose these all different.
-Peirce: CP 4.138 Cross-Ref:††
 If, on the other hand, any two are equal, there are but a finite number of
 different units. For example, if
 ijijiji = jij
@@ -56839,7 +55901,6 @@ Then,
 or, every expression, upon subtraction of a real number from it, can be converted, in
 one way only, into a square root, of a negative number. Let us call such a square root,
 the vector of the first expression, and the real number subtracted, the scalar of it.
-Peirce: CP 4.139 Cross-Ref:††
 Let v2 = -1, j2 = -1, and ij = s+v,
 where s is scalar, and v vector. Then it is impossible to find three real numbers, a, b,
 c, such that
@@ -56851,7 +55912,6 @@ ij.j = -i,
 Whence,
 b2 = -1,
 and b could not be real.
-Peirce: CP 4.139 Cross-Ref:††
 Moreover, we shall have
 ji = r(s-v),
 where v is a real number. For write
@@ -56870,7 +55930,6 @@ v'' = 0.
 
 That is,
 sv' = 1-ss'-s''-s'v.
-Peirce: CP 4.139 Cross-Ref:††
 But it has just been shown that a quantity can be separated into a scalar and a
 vector part in only one way. Hence
 sv' = -s'v
@@ -56895,7 +55954,6 @@ Whence,
 s'' = 1-s2.
 But s'' being the negative of the square of v is positive. Hence,
 s2⎥1.
-Peirce: CP 4.139 Cross-Ref:††
 We know that ai+bj cannot be a scalar; for then a quantity could in two ways
 be resolved into a scalar and vector part. Now
 (ai+bj)2 = -a2-b2+2abs.
@@ -56904,34 +55962,21 @@ This must therefore be negative. For (ai+bj) = S+V, and V does not vanish. Hence
 
 and since, by comparison, it appears the vector part 2SV vanishes, it follows that S =
 0, and the sum, or linear function, of two vectors is a vector.
-Peirce: CP 4.139 Cross-Ref:††
 The same thing is evident because S2⎥1; whence
 -a2-b2+2abs = -p(a+b)2-(1-p)(a-b)2,
 where p = (1+s)/2 and 1-p = (1-s)/2, both of which are positive, or zero.
-Peirce: CP 4.139 Cross-Ref:††
 Let us then assume a vector j, such that
-_______
 j[1] = (si+j)/√(1-s2)
 
 j[1]2 = (-s2-1+2s2)/(1-s2) = -1
-_______
-
-_______
 
 ij[1] = (-s+s+v)/(√(1-s2) = v/√(1-s2)
-_______
 j[1]i = -(v/√(1-s2))
-_______
 j[1] = v/√(1-s2) = j[1]ij[1] = -j[1]2i = i
-_______
 v/√(1-s2)·j[1] = ij[1]j[1] = -i
-_______
 i·v/√(1-s2) = iij[1] = -j[1]
-_______
 v/√(1-s2)·i = -j[1]ii = j[1]
-_______
 (v/√(1-s2))2 = -ij[1]j[1]i = -1
-Peirce: CP 4.139 Cross-Ref:††
 Writing j for j[1] and k for v/√(1-s2) and the above formulæ define the algebra
 of real quaternions.
 Peirce: CP 4.140 Cross-Ref:††
@@ -57052,7 +56097,6 @@ Peirce: CP 4.143 Cross-Ref:††
 143. If we look at the field of imaginary quantity, what we shall see is shown
 in the diagram.
 
-[Click here
 to view] Here we have a stereographic projection of the globe. At the south pole is
 β-B; at the north pole, α-B. The parallels are not at equal intervals of latitude but are
 crowded together infinitely about the pole. Now an increase of t by unity carries a
@@ -57186,7 +56230,6 @@ are of equal area. Then all triangles having the sum of their angles null are of
 area. Call this T. Then the area of an ordinary polygon of V vertices all on the
 absolute is (V-2)T. The area of the absolute is therefore infinite.
 
-[Click
 here to view] If a triangle has two angles null and the third 1/N part of 180•, what is
 its area? Let ABD be the triangle, AB being on the absolute. Continue BD the
 absolute at C. Let ADE, EDF, etc., be N-1 triangles having their angles at D all equal
@@ -57194,7 +56237,6 @@ to ADB. Then these N triangles are all equal, because their sides and angles are
 They make a polygon of N+1 vertices on the absolute, the area of which is (N-1)T.
 Hence, the area of each triangle is (1-1/N)T.
 
-[Click
 here to view] What is the area of a triangle having one angle zero and the others
 mX180• and nX180•? Let AMN be such a triangle; extend MN on the side of N to the
 absolute at B. Then the area of ABM is (1-m)T and that of ABN is nT. Hence the area
@@ -57240,14 +56282,12 @@ their logic, or who, like many men who pride themselves on their soundness of
 reason, are totally destitute of it, and who substitute for reasoning an associational
 rule of thumb, are naturally afraid of ideas that are unfamiliar, and which might lead
 them they know not whither.
-Peirce: CP 4.151 Cross-Ref:††
 As compared with imaginaries, with the absolute, and with other conceptions
 with which the mathematician works fearlessly -- because good logicians, the
 Cauchys and the like,†P1 have led the way -- as compared with these, the idea of an
 infinitesimal is exceedingly natural and facile. Yet men are afraid of infinitesimals,
 and resort to the cumbrous method of limits. This timidity is a psychological
 phenomenon which history explains. But I will not occupy space with that here.†1
-Peirce: CP 4.151 Cross-Ref:††
 It was Fermat, a wonderful logical and still more wonderful mathematical
 genius, whose light was almost extinguished by the bread-and-butter difficulties
 which the secret plotting of worldlings forced upon him, who first taught men the
@@ -57271,16 +56311,12 @@ But a-2x-e is "adequal" to a-2x; and the e may consequently be "elided." Thus we
 0 = a-2x,
 or
 x = (1/2)a.
-Peirce: CP 4.151 Cross-Ref:††
 
 The peculiar properties of e, which we now call, after Leibniz, the
 infinitesimal, are:
-Peirce: CP 4.151 Cross-Ref:††
 First, that if pe = qe, then p = q, contrary to the property of zero; while
-Peirce: CP 4.151 Cross-Ref:††
 Second, that, under certain circumstances, we treat e as if zero, writing
 p+e = p.
-Peirce: CP 4.151 Cross-Ref:††
 Of course, we cannot adopt the last equation without reservation. For it would
 follow that
 e = 0,
@@ -57289,7 +56325,6 @@ whence, since
 4e = 5e,
 and then by the first property,
 4 = 5.
-Peirce: CP 4.151 Cross-Ref:††
 The method of indivisibles †P1 had recognized that infinitely large numbers
 may have definite ratios, so that division is applicable to them.
 Peirce: CP 4.152 Cross-Ref:††
@@ -57300,7 +56335,6 @@ contradiction is involved in this has been shown in the former part of this chap
 In the sense of measurement, then, p+e = p, while from a formally logical point of
 view, it is assumed that e>0. This is the most natural way, a perfectly logical way, and
 the way the most consonant with modern mathematics.
-Peirce: CP 4.152 Cross-Ref:††
 It is also possible to conceive the reasoning to represent the following. (The
 problem is the same as above.) Let x be the unknown. Then, since x(a-x) is a
 maximum,
@@ -57309,7 +56343,6 @@ for all neighboring values of e. That is
 0>e(a-2x-e).
 Then the sign of a-2x-e is opposite to that of e no matter what the value of e. It
 follows that 2x differs from a by less than any assignable quantity.
-Peirce: CP 4.152 Cross-Ref:††
 The great body of modern mathematicians repudiate infinitesimals in the
 above literal sense, because it is not clear that such quantities are possible, or because
 
@@ -57325,7 +56358,6 @@ for every positive quantity e sufficiently small, there be a positive quantity {
 that for all values of n greater than {n}
 Modulus (x[n]-c)<e
 then c is said to be the limit of x.
-Peirce: CP 4.152 Cross-Ref:††
 Upon this definition is raised quite an imposing theory about limits which I
 can only regard with admiration, when it is erected with modern accuracy. Only, I
 wish to point out that the need for such a definition is not limited to its application to
@@ -57333,7 +56365,6 @@ n = ∞, nor because infinity presents peculiar difficulties. It is only because
 assignable number with which we can perform arithmetical processes. Let the
 function x[n] = n2, then the same difficulty arises when n = π, and the same definition
 of a limit is called for.
-Peirce: CP 4.152 Cross-Ref:††
 The differential calculus deals with continuity, and in some shape or other, it
 is necessary to define continuity. I accept the above definition, with unimportant
 modifications, as a good definition of continuity. From it, as it appears to me, the idea
@@ -57345,7 +56376,6 @@ reason with, and if they be admitted into our reasoning apparatus (which is the
 algebra) that is all we need care for.
 
 Peirce: CP 4.153 Cross-Ref:††
-V
 A THEORY ABOUT QUANTITY†1P
 
 §1. THE CARDINAL NUMERALS
@@ -57525,27 +56555,22 @@ Peirce: CP 4.164 Cross-Ref:††
 164. In order to illustrate the theory, I will show how the leading elementary
 propositions of pure arithmetic are deduced, and how it is subsequently applied to
 counting collections.
-Peirce: CP 4.164 Cross-Ref:††
 Corollary 1. No number is G of more than one number. For every number
 necessitated by the first precept is G to a single number, and the only number
 necessitated by the second precept, by itself, is G to no number. Hence, by the third
 precept, there is no number that is G to two numbers.
-Peirce: CP 4.164 Cross-Ref:††
 Corollary 2. No number is G'd by two numbers. For were there a number to
 which two numbers were G, one of the latter could be destroyed without any violation
 of the first two precepts, since the destruction would leave no number without a G
 which before had one, nor would it destroy 0, since that is not G. Hence, by the third
 precept, there is no number which is G to a number to which another number is G.
-Peirce: CP 4.164 Cross-Ref:††
 Corollary 3. No number is G to itself. For every number necessitated by the
 first precept is G to a different number, and to that alone; and the only number
 necessitated by the second precept, by itself, is G to no number.
-Peirce: CP 4.164 Cross-Ref:††
 Corollary 4. Every number except zero is G of a number. For every number
 necessitated by the first precept is so, and the only number directly necessitated by the
 second is zero.
 
-Peirce: CP 4.164 Cross-Ref:††
 Corollary 5. There is no class of numbers every one of which is G of a number
 of that class. For were there such a class, it could be entirely destroyed without
 conflict with precepts 1 and 2. For such destruction could only conflict with the first
@@ -57573,44 +56598,30 @@ Peirce: CP 4.166 Cross-Ref:††
 166. Definition 1. Any number, M, is, or is not, said to be greater than, a
 number, N, and N to be, or not to be, less than M, according to [whether] the
 following conditions are, or are not, fulfilled:
-Peirce: CP 4.166 Cross-Ref:††
 First, Every number G to another is greater than that other;
-Peirce: CP 4.166 Cross-Ref:††
 Second, Every number greater than a second, itself greater than a third, is
 greater than that third;
-Peirce: CP 4.166 Cross-Ref:††
 Third, No number is greater than another unless the above two conditions
 necessitate its being so.
-Peirce: CP 4.166 Cross-Ref:††
 Theorem II. Every cardinal number except zero is greater than zero.†1
-Peirce: CP 4.166 Cross-Ref:††
 Theorem III. No cardinal number L is greater than any number, M, unless L
 is G to a cardinal number, N, which either is greater than [or equal to] M.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 1. By the same reasoning (substituting everywhere less for "greater"
 and G'd by for "G of") no number M is less than any number L unless L be G to M or
 
 be greater than the number that is G to M.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 2. Hence, by the first and second conditions of the definition, if a
 cardinal number, L is greater than a cardinal number, M, then the number that is G to
 L is greater than the number that is G to M.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 3. Zero is greater than no number.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 4. Every number greater than a number is G of some number.
-Peirce: CP 4.166 Cross-Ref:††
 Theorem IV. No cardinal number is both greater and less than the same
 cardinal number.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 1. No number is either greater or less than itself.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary 2. No cardinal number, M, is greater than a cardinal number, N, and
 less than GN.
-Peirce: CP 4.166 Cross-Ref:††
 Theorem V. Of any two different cardinal numbers, one is greater than the
 other.
-Peirce: CP 4.166 Cross-Ref:††
 Corollary. If the cardinal number, GL, that is G to L, be greater than the
 cardinal number, GM, that is G to M, by Theorem IV it cannot be less. Hence by
 Corollary 2 from Theorem III, L cannot be less than M. But by the first corollary from
@@ -57640,215 +56651,147 @@ to suppose any exception.
 Peirce: CP 4.168 Cross-Ref:††
 168. Definition 2. A sum of a cardinal number, M, added to a cardinal
 number, N, is a cardinal number which fulfills the following conditions:
-Peirce: CP 4.168 Cross-Ref:††
 First, A sum of zero added to zero is zero;
-Peirce: CP 4.168 Cross-Ref:††
 Second, A sum of zero added to a cardinal number which is G to any cardinal
 number, N, is a number which is G to a sum of zero added to N;
-Peirce: CP 4.168 Cross-Ref:††
 Third, A sum of a cardinal number that is G to any cardinal number, M, added
 to any cardinal number, N, is a cardinal number which is G to a cardinal number
 which is a sum of M added to N;
-Peirce: CP 4.168 Cross-Ref:††
 Fourth, No cardinal number is a sum of a cardinal number added to a cardinal
 number unless it is necessitated to be so by the above conditions.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem VII. There is one cardinal number, and but one, which is a sum of
 a cardinal number, M, added to a cardinal number, N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. Whatever cardinal numbers M and N may be, M+N>0 unless M
 = N = 0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. Whatever cardinal numbers M and N may be M+N>N unless M
 = 0, and M+N>M unless N = 0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. Whatever cardinal numbers M and N may be, M+GN = G(M+N).
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. Whatever cardinal number N may be, 0+N = N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 5. Whatever cardinal number N may be, N+0 = N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 6. Whatever cardinal numbers M and N may be, M+N = N+M.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 7. Whatever cardinal numbers L, M, and N may be, L+(M+N) =
 (L+M)+N.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem VIII. The sum of a greater cardinal number, L, added to any
 cardinal number, N, is greater than the sum of a lesser cardinal number, M, added
 to the same cardinal number, N.
 
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. Whatever cardinal numbers L, M, and N may be if L>M, then
 N+L>N+M.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. Whatever cardinal numbers A, B, C, D may be, if A>C and B>D
 then A+B>C+D.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. Whatever cardinal numbers L, M, and N may be unless L = M,
 L+N or N+L is not M+N or N+M.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. If L+N>M+N then L>M.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 5. If A+B>C+D, either A or B is greater than C and than D or else
 either C or D is less than A and than B.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem IX. Whatever cardinal numbers L and M may be, there is one and
 only one cardinal number, N, such that either N+M = L or N+L = M.
-Peirce: CP 4.168 Cross-Ref:††
 Definition 3. The difference between two cardinal numbers, L and M, is such
 a number, N, that either N+M = L or N+L = M. It is said to be the remainder after
 subtracting the smaller as subtrahend, from the larger, as minuend. It is best denoted
 by the "minus sign" written after the larger of L and M and before the smaller.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. L-M is no cardinal number unless L>M.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. If L>M, then (L-M)+M = L.
-Peirce: CP 4.168 Cross-Ref:††
 Definition 4. The product of a cardinal number, M, multiplied into a cardinal
 number, N, or the product of the multiplicand, N, multiplied by the multiplier, M, is a
 cardinal number, written MXN, or M.N, or MN, subject to the following conditions:
-Peirce: CP 4.168 Cross-Ref:††
 First, zero is a product of any cardinal number multiplied by 0;
-Peirce: CP 4.168 Cross-Ref:††
 Second, a product of a cardinal number, N, multiplied by the cardinal number,
 GM, that is G to any cardinal number, M, is the sum, N+M.N, of N added to the
 product of M multiplied into N;
-Peirce: CP 4.168 Cross-Ref:††
 Third, no cardinal number is a product of cardinal numbers unless necessitated
 to be so by the foregoing conditions.
-Peirce: CP 4.168 Cross-Ref:††
 A product is said to be a multiple of its multiplicand.
 
-Peirce: CP 4.168 Cross-Ref:††
 Theorem X. There is one cardinal number and but one which is M.N a
 product of one cardinal number, M, multiplied into a given cardinal number, N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. The product of any cardinal number, N, multiplied into zero is
 zero.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. Whatever cardinal numbers M and N may be MXN>0 unless M =
 0 or N = 0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. The product of any cardinal number, N, multiplied by the
 cardinal number that is G to zero (which is called 1, one) is N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. The product of any cardinal number, N, multiplied into G0, or 1,
 is N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 5. Whatever cardinal numbers M and N may be, MXGN = M+M.N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 6. Whatever cardinal numbers M and N may be, MXN>M unless M
 = 0 or N = 0 or N = G0, and MXN>N unless N = 0 or M = 0 or M = G0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 7. Whatever cardinal numbers L, M, and N may be, L.(M+N) =
 L.M+L.N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 8. Whatever cardinal numbers L, M, N may be L.(M.N) = (L.M).N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 9. Whatever cardinal numbers M and N may be M.N = N.M.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem XI. Of two products of the same multiplicand not zero, that by the
 greater multiplier is the greater.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. If L>M, N.L>N.M unless N = 0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. If A>C and B>D, AXB>CXD in all cases.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. Unless L = M, LXN is not MXN, unless N = 0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. If LXN>MXN, then L>M in all cases.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 5. If AXB>CXD, either A or B is greater than C and than D, or C or
 
 D is less than A and than B.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 6. If either B or C is greater than A or than D, then B.C>A.D, unless
 A+D>B+C.
-Peirce: CP 4.168 Cross-Ref:††
 Definition 5. A divisor of a cardinal number, N, is a cardinal number which
 multiplied by a cardinal number gives N as product. The number, N, is said to be
 exactly divisible by its divisor.
-Peirce: CP 4.168 Cross-Ref:††
 Abbreviations. We may write N N' (mod M) where M is any cardinal number,
 not zero, to express that N and N' are cardinal numbers leaving the same remainder
 after division by M. We may denote the remainder and quotient of N divided by M by
 R[m]N and Q[m]N, respectively. Then N = R[m]N+(Q[m]N)·M.
-Peirce: CP 4.168 Cross-Ref:††
 We may denote GG0 by Q.
-Peirce: CP 4.168 Cross-Ref:††
 Scholium. The number Q is logically and mathematically peculiar. In old
 arithmetics multiplication and division by Q are considered as peculiar operations,
 Duplation and Mediation. We have need of an arithmetic of two, even in reasonings
 which do not concern quantity in the ordinary sense.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem XII. Every cardinal number, N, has with reference to every
 cardinal number, M, except zero, a remainder, R[m]N, and a quotient, Q[m]N; and
 only one number is remainder or quotient.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. If the cardinal number, N, is less than the modulus, M, its
 remainder, R[m]N = N.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. The remainder of the sum of two numbers, N and N', is the
 remainder of the sum of their remainders.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. The remainder of the product of two numbers, N and N', is the
 remainder of the product of the remainders.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. The quotient of the sum of two numbers is the sum of the
 quotient of the sum of the remainders added to the sum of the quotients of the
 numbers.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 5. The quotient of the product of two numbers, N and N', is the sum
 of the product of N by Q[m]N', the quotient of the other, added to the quotient of the
 product of N by R[m]N', the remainder of the other. Or Q[m](N.N') =
 N.Q[m]N'+Q[m](N.R[m]N').
-Peirce: CP 4.168 Cross-Ref:††
 
 Corollary 6. Given any cardinal number, N, and any modular number, M,
 there is a multiple of M greater than N. For (GQ[m]N).M is such a multiple.
-Peirce: CP 4.168 Cross-Ref:††
 Definition 6. The powers of any cardinal number, B, called the base of the
 powers, are a class of cardinal numbers, each having a cardinal number, E, connected
 with it, called its exponent; and the power is written, BE, and powers and exponents
 are defined by the following conditions:
-Peirce: CP 4.168 Cross-Ref:††
 First, G0 is a power of B whose exponent is zero;
-Peirce: CP 4.168 Cross-Ref:††
 Second, The product of the power BE, of B with exponent E, multiplied by B
 is BGE, a power of B with exponent GE;
-Peirce: CP 4.168 Cross-Ref:††
 Third, No cardinal number is a power of a cardinal number, unless
 necessitated to be so by the foregoing conditions.
 Corollary. BG0 = BXB0 = BXG0 = B.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem XIII. Given any two cardinal numbers, B and E, there is one, and
 but one cardinal number which is a power, BE, of B with exponent, E.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. Hence, 00 = G0 and is not indeterminate. In this respect, the
 definition here assumed differs from the usual one, which substitutes for the first
 condition B1 = B and adds the condition that BE = P if BGE = B.P. But practically
 the present definition is just as useful, if not more so, than the usual one.
-Peirce: CP 4.168 Cross-Ref:††
 Theorem XIV. A given exponent of two powers with the same exponent
 greater than zero, that with the greater base is the greater, and two powers of the
 same base greater than G0, that with the greater exponent is the greater.
-Peirce: CP 4.168 Cross-Ref:††
 Definition 7. An even number is a cardinal number whose remainder, relative
 to GG0 as modulus, is zero.
-Peirce: CP 4.168 Cross-Ref:††
 An odd number is a cardinal number whose remainder, relative to GG0 as
 modulus, is G0.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 1. Every cardinal number, N, is even or odd; and if N be even, GN
 is odd and vice versa.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 2. The double of a cardinal number, N, is N+N, the sum of N added
 to itself.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 3. If a number is even, it has a cardinal number that is half of it, but
 
 if it is odd, it has not.
-Peirce: CP 4.168 Cross-Ref:††
 Corollary 4. If the difference of two cardinal numbers, M and N, is even,
 those two numbers have a cardinal number as their arithmetical mean, and the
 difference between this mean and either M or N is half the difference between M and
@@ -57860,7 +56803,6 @@ mean, if it belongs to the numbers themselves, then it belongs to every cardinal
 number except 0.
 
 Peirce: CP 4.170 Cross-Ref:††
-VI
 MULTITUDE AND NUMBER†1P
 
 §1. THE ENUMERABLE
@@ -58004,33 +56946,22 @@ been defined after Cantor, philosophy can not avoid the question which instantly
 springs up: must every two collections be either equal or the one greater than the
 other, or can they be so multitudinous that the units of neither can be in one-to-one
 relation to units of the other?
-Peirce: CP 4.177 Cross-Ref:††
 To say that the collection of M's and the collection of N's are equal is to say:
-Peirce: CP 4.177 Cross-Ref:††
 There is a one-to-one relation, c, such that every M is c to an N; and there is a
 one-to-one relation, d, such that every N is d to an M.
-Peirce: CP 4.177 Cross-Ref:††
 To say that the collection of M's is less than the collection of N's is to say:
-Peirce: CP 4.177 Cross-Ref:††
 There is a one-to-one relation, c, such that every M is c to an N; but whatever
 one-to-one relation d may be, some N is not d to any M.
-Peirce: CP 4.177 Cross-Ref:††
 To say the collection of M's is greater than the collection of N's is to say:
-Peirce: CP 4.177 Cross-Ref:††
 Whatever one-to-one relation c may be, some M is not c to any N; but there is
 a one-to-one relation d such that every N is d to an M.
-Peirce: CP 4.177 Cross-Ref:††
 Now, formal logic suggests the fourth relation:
-Peirce: CP 4.177 Cross-Ref:††
 Whatever one-to-one relation c may be, some M is not c to any N, and
 whatever one-to-one relation d may be, some N is not d to any M.
-Peirce: CP 4.177 Cross-Ref:††
 Or this last may be stated more simply thus:
-Peirce: CP 4.177 Cross-Ref:††
 Whatever one-to-one relation c may be, some M is not c to any N and some N
 is not c'd by any M.
 
-Peirce: CP 4.177 Cross-Ref:††
 How shall we proceed in order to find out whether this last relation is a
 possible one, or not? . . .
 Peirce: CP 4.178 Cross-Ref:††
@@ -58141,27 +57072,22 @@ On those two theorems, I build the whole doctrine of collections.
 Peirce: CP 4.181 Cross-Ref:††
 181. I will now run over the different grades of multitude of discrete
 collections, and point out the most remarkable properties of those multitudes.
-Peirce: CP 4.181 Cross-Ref:††
 The lowest grade of multitude is that of a collection which does not exist, or
 the multitude of none. A collection of this multitude has obvious logical peculiarities.
 Namely, nothing asserted of it can be false. For of it alone contradictory assertions are
 true. It is a collection and it is not a collection. Given the premisses that all the X's are
 black and that all the X's are pure white, what is the conclusion? Simply that the
 multitude of the X's is zero.
-Peirce: CP 4.181 Cross-Ref:††
 The least difference by which one multitude can exceed another is by a single
 unit. But I do not say that the multitude next greater than a given multitude always
 exceeds it by a single unit.
-Peirce: CP 4.181 Cross-Ref:††
 The multitude of ways of distributing nothing into two abodes is one. This is
 the next grade of multitude. This again has certain logical peculiarities. Namely, in
 order to prove that every individual of it possesses one character, it suffices to prove
 that every individual of it does not possess the negative of that character.
-Peirce: CP 4.181 Cross-Ref:††
 The multitude of ways of distributing a single individual into two houses is
 two. This is the next grade of multitude. This again has certain logical peculiarities
 which have been noted in Schröder's Logik.
-Peirce: CP 4.181 Cross-Ref:††
 The multitude of combinations of two things is four, which is not the next
 grade of multitude. The multitude of combinations of four things is 16. The multitude
 of combinations of 16 things is 65,536. The multitude of combinations of 65,536
@@ -58459,16 +57385,12 @@ unit and but one for each of the {n} units of each of the {m} collections, these
 are in one-to-one correspondence with the possible descriptions of single units each
 of which pairs a unit of a multitude of {n} with a unit of a multitude of {m}; and the
 multitude of such pairs is the product of {m} and {n}.
-Peirce: CP 4.195 Cross-Ref:††
 The {m} power of {n} is equal to the product of {m} mutually exclusive
 collections each of {n} units.
-Peirce: CP 4.195 Cross-Ref:††
 The product of two enumerable multitudes is an enumerable multitude.
-Peirce: CP 4.195 Cross-Ref:††
 The product of an enumerable multitude and the denumerable multitude is the
 
 denumerable multitude.
-Peirce: CP 4.195 Cross-Ref:††
 An enumerable power of the denumerable multitude is the denumerable
 multitude.
 Peirce: CP 4.196 Cross-Ref:††
@@ -58476,7 +57398,6 @@ Peirce: CP 4.196 Cross-Ref:††
 multitude is easily seen by aggregating a denumerable series of collections, each a
 denumerable series of units.
 
-[Click
 here to view] Now we can start at the corner and proceeding from each unit we reach
 to a single next one and can reach any unit whatever in time without completing the
 proceeding. Hence, the whole forms one denumerable series. This proof is
@@ -58485,32 +57406,23 @@ extends itself to any enumerable multitude of factors. Of course, there is not t
 slightest difficulty in expressing this idea so as to construct the most rigidly formal
 demonstration. Let ℵ denote the denumerable multitude. Then, I am to show that ℵ2
 = ℵ. Let the M's be a denumerable collection. That is, suppose
-Peirce: CP 4.196 Cross-Ref:††
 
 First: a certain object M[0] is an M;
-Peirce: CP 4.196 Cross-Ref:††
 Second: there is a certain non-identical one-to-one relation, r, such that every
 M is r'd by an M;
-Peirce: CP 4.196 Cross-Ref:††
 Third: whatever is not necessitated to be an M by the above statements is not
 an M.
-Peirce: CP 4.196 Cross-Ref:††
 Let A and B constitute a collection of two objects not M's. Let us define the
 relation {s} as follows:
-Peirce: CP 4.196 Cross-Ref:††
 First: the pair of attachments of A to M[0] and B to M[0] is {s}'d by nothing;
-Peirce: CP 4.196 Cross-Ref:††
 Second: every pair of attachments of A to an M which we may call M[i] other
 than M[0] and of B to an M, which we may call M[j], is {s} to the pair of attachments
 of A to that M which is r'd by M[i], and of B to that M which is r of M[j];
-Peirce: CP 4.196 Cross-Ref:††
 Third: every pair of attachments of A to M[0] and of B to an M, which we
 may call M[k], is {s} to the pair of attachments of A †1 to that M which is r of M[k],
 and of B †2 to M[0];
-Peirce: CP 4.196 Cross-Ref:††
 Fourth: if one thing is not necessitated by the above rules to be {s} to another,
 it is not {s} to that other.
-Peirce: CP 4.196 Cross-Ref:††
 It is evident, then, that {s} is a one-to-one relation; and it is evident that every
 pair of attachments of A to any M, say M[x], and of B to any M, say M[y], is {s} of
 another such pair of attachments, that one such pair of attachments is {s}'d by
@@ -58569,7 +57481,6 @@ designated there would be no contradiction in supposing a list of them all to be
 That list would be complete, for that is the meaning of all. There would therefore be a
 last name on the list. But that is directly contrary to the definition of the denumerable
 multitude.
-Peirce: CP 4.198 Cross-Ref:††
 The same truth may be stated thus: It is impossible that all the units of a
 denumerable collection should have the same general properties. For the existence of
 the primal arrangement is essential to it, being involved in the very definition of the
@@ -58577,7 +57488,6 @@ denumerable collection as that of smallest multitude greater than every enumerab
 collection. Now, this primal arrangement is an arrangement according to a general
 rule, and its statement constitutes, therefore, general differences between the units of
 the denumerable collection.
-Peirce: CP 4.198 Cross-Ref:††
 On the other hand any unit whatever of a denumerable collection may be
 individually designated, as well as all those which precede it in the primal
 
@@ -58585,11 +57495,9 @@ arrangement. And these can be all exactly alike in their general qualities. Yet 
 must always be a latter part of the collection which is not individually designated but
 is only generally described. In this part we recognize an element of ideal being as
 opposed to the brute and surd existence of the individual.
-Peirce: CP 4.198 Cross-Ref:††
 The denumerable collection of whole numbers, for example, constitutes a
 discrete series, in the sense that there is not one which may not be distinguished
 completely and individually from its neighbors.
-Peirce: CP 4.198 Cross-Ref:††
 But we cannot with any clearness of thought carry these reflections further
 until we are in possession of an instance of a greater collection.
 Peirce: CP 4.199 Cross-Ref:††
@@ -58758,51 +57666,41 @@ thereby mean to exclude both.
 Peirce: CP 4.207 Cross-Ref:††
 207. I will now describe a certain collection A, whose units I will call the P's
 [π's?].
-Peirce: CP 4.207 Cross-Ref:††
 First, The π's can be arranged in linear order. That is, there is a relation, p,
 such that taking as you will any π's, individually designable as π[1], π[2], and π[3],
 either π[3] is not p to π[2] or π[2] is not p to π[1] or (if π[3] is p to π[2] and π[2] is p
 to π[1]), π[3] is p to π[1];
-Peirce: CP 4.207 Cross-Ref:††
 
 Second, The line of arrangement of the π's can be taken so as not to branch.
 That is, taking as you will π's, individually designable as π[4] and π[5], either π[4] is
 p to π[5] or π[5] is p to π[4]; (of course this permits both to be true, but that I proceed
 to forbid).
-Peirce: CP 4.207 Cross-Ref:††
 Third, The line of arrangement of the π's can further be so taken as not to
 return into itself, circularly. That is, taking as you will any π, individually designable
 as π[6], π[6] is not p to π[6];
-Peirce: CP 4.207 Cross-Ref:††
 Fourth, There are certain parts of A called "packs" of π, which are mutually
 exclusive. That is, taking any pack whatever and any unit of that pack, that unit is a π;
 and taking as you will any packs individually designable as P[7]†1 and P[8], and any
 π's individually designable as π[7] and π[8], either P[7] is identical with P[8] or π[7]
 is not a unit of P[7], or π[8] is not a unit of P[8], or else π[7] is not identical with
 π[8];
-Peirce: CP 4.207 Cross-Ref:††
 Fifth, The packs can be arranged in linear order. That is, there is a relation, s,
 such that taking as you will any P's, individually designable as P[1], P[2], and P[3],
 either P[3] is not s to P[2], or P[2] is not s to P[1], or P[3] is s to P[1];
-Peirce: CP 4.207 Cross-Ref:††
 Sixth, The line of arrangement of the packs can be taken so as not to branch.
 That is, taking as you will any P's, individually designable as P[4] and P[5], either
 P[4] is s to P[5] or P[5] is s to P[4];
-Peirce: CP 4.207 Cross-Ref:††
 Seventh, The line of arrangement of the packs can be further taken so as not to
 return into itself. That is, taking as you will any pack individually designable as P[6],
 P[6] is not s to P[6];
-Peirce: CP 4.207 Cross-Ref:††
 Eighth, The arrangement of the packs can further be such that each pack is
 immediately succeeded by a next following pack. That is, taking as you will any pack
 individually designable as P[9], a pack individually designable as P[10] can be found
 such that P[10] is s to P[9]; and such that taking thereafter as you will any pack
 individually designable as P[11], either P[11] is not p to P[9], or P[11] is not p'd by
 P[10];
-Peirce: CP 4.207 Cross-Ref:††
 Ninth, Such a succession of packs is not a mere idea, but actually exists if the
 collection A exists. That is, a certain collection, P[0], is such a pack;
-Peirce: CP 4.207 Cross-Ref:††
 Tenth, Each pack contains a unit which, in the linear order of the π's, comes
 next after each unit of any of those packs which precede this pack in the linear order
 of the packs. That is, taking as you will any packs, individually designable as P[12]
@@ -58813,13 +57711,10 @@ individually designable as P[14] and any unit individually designable as π[14],
 P[13] is not s to P[12], or π[12] is not a unit of P[12], or π[13] is p to π[12]; and
 either P[13] is not s to P[14] or π[14] is not a unit of P[14], or π[12] is p to π[14], or
 π[13] is not p to π[14];
-Peirce: CP 4.207 Cross-Ref:††
 Eleventh, No varieties of descriptions of π's exist than those which are
 necessitated by the foregoing conditions;
-Peirce: CP 4.207 Cross-Ref:††
 Twelfth, No varieties of descriptions of packs exist than those which are
 necessitated by the foregoing conditions.
-Peirce: CP 4.207 Cross-Ref:††
 This collection of π's is primipostnumeral; and you will see what I mean by
 saying that the construction skips the denumerable multitude, if you consider how
 many π's are contained in each pack. The pack P[0] is obliged by the ninth condition
@@ -58831,8 +57726,6 @@ right than," then that P which is s to P[0], but is not s to any other pack, whi
 we may call P[1], must contain one π to the right of the π of [P[0]]. It need contain no
 other, and therefore cannot contain any other.
 
-[Click
-here to view]
 P0. ·
 P1. |
 
@@ -58842,7 +57735,6 @@ P2. | · | ·
 P3. | · | · | · | ·
 P4. |·|·|·|·|·|·|·|
 
-Peirce: CP 4.207 Cross-Ref:††
 P[2] contains a π immediately to the right of that of the P[0] and another to
 the right of that of P[1], and after this each pack contains double the units of the
 preceding. Thus, P[n+1] contains 2n units. As long as n is enumerable, this is
@@ -58897,7 +57789,6 @@ but those in the latter part cannot. In the primipostnumeral multitude the same
 phenomenon is much more marked. It is impossible to designate individually all the
 units in any part of a primipostnumeral multitude. Any one unit may be completely
 separated from all the others without the slightest disturbance of the arrangement.
-Peirce: CP 4.211 Cross-Ref:††
 Thus, we may imagine points measured off from 0 as origin
 .......
 
@@ -58906,7 +57797,6 @@ A
 B
 ·
 
-C
 ·------
 
 toward A to represent the real quantities from zero toward √2. Let A be the point
@@ -58919,12 +57809,10 @@ point, C, several inches to the right of B, as there are units and parts of unit
 excess of those quantities over √2. This mode of representation is just as perfect as the
 usual unbroken correspondence. It represents all the relations of the quantities with
 absolute fidelity and does not disturb their arrangement in the least.
-Peirce: CP 4.211 Cross-Ref:††
 It is, therefore, perfectly possible to set off any one unit of a primipostnumeral
 collection by itself, and equally possible so to set off any enumerable multitude of
 such units. Nor are there any singular units of the collection which resist such
 separation.
-Peirce: CP 4.211 Cross-Ref:††
 I will give another illustration. It is perfectly easy to exactly describe many
 surd quantities simply by stating what their expressions in the Arabic system of
 notation would be. This may sound very false; but it is so, nevertheless. For instance,
@@ -58935,7 +57823,6 @@ logarithm n is composite shall be a cipher, is, we know, an irrational quantity.
 do not think there can be much doubt that, however recondite and complicated the
 descriptions may be, every surd quantity is capable in some such way of having its
 expression in decimals exactly described.
-Peirce: CP 4.211 Cross-Ref:††
 Thus every unit of a primipostnumeral collection admits of being individually
 designated and exactly described in such terms as to distinguish it from every other
 
@@ -59053,9 +57940,6 @@ convenient to use the binary system of arithmetical notation. We begin with .0 a
 
 |.001| .011| .101| .111
 | ·| | | ·| |
-
-[Click here
-to view]
 
 of a fraction equal to that but carried into the first place of secundals and of
 corresponding units which differ only in having a 1 in the first place of secundals.
@@ -59371,7 +58255,6 @@ me, to be the square of that of the points of a line, and so with higher dimensi
 multitude of dimensions may be of any discrete multitude.
 
 Peirce: CP 4.227 Cross-Ref:††
-VII
 THE SIMPLEST MATHEMATICS†1P
 
 §1. THE ESSENCE OF MATHEMATICS
@@ -60072,7 +58955,6 @@ Namely, one assertion will simply be a form of assertion without meaning, since 
 admits either value. It is represented by the letter, x. Another assertion will violate the
 hypothesis of dichotomies by excluding both values. It may be represented by ~x_.
 
-[Click here to view]
 Of the remaining two, one will admit v and exclude f, namely, x_; the other will admit
 f and exclude v, namely ~x.
 Peirce: CP 4.261 Cross-Ref:††
@@ -60343,7 +59225,6 @@ Peirce: CP 4.266 Cross-Ref:††
 whatever quantity x may be, x O x = x, or else, that whatever quantities x and y may
 be, x O y = y O x and either x = y, or x O x = x, or y O y = y. This may be otherwise
 stated as follows:
-Peirce: CP 4.266 Cross-Ref:††
 First, Suppose vOv = v and fOf = f. Then I will show that the operation is
 associative. For if not, it would be possible to give such values to p, q, r, that ~{p O(q
 Or)} (pOq)Or. But of these three values, p, q, r, some two must be equal. But all
@@ -60357,7 +59238,6 @@ contrary to the hypothesis. The third supposition, that p q would evidently lead
 
 absurdity analogous to the last; so that in no way can the associativeness fail in this
 case.
-Peirce: CP 4.266 Cross-Ref:††
 Second, Suppose vOv = f and fOf = v. Then I will show that the operation is
 not associative. For on the one hand,
 (vOv)Of fOf v;
@@ -60366,7 +59246,6 @@ vO(vOf) vOv f,
 or whether vOf = f, so that
 vO(vOf) vOf f,
 in either case, the associative rule is broken.
-Peirce: CP 4.266 Cross-Ref:††
 Third, Suppose vOv = fOf and vOf = fOv. Then I will show that the operation
 is associative. For otherwise it would be possible to give such values to p, q, r, that
 ~{pO(qOr)} (pOq)Or.
@@ -60376,7 +59255,6 @@ rO(qOp)
 so that the inequality requires ~p r. But then also ~(qOp) qOr and consequently, the
 two assumed equations are inconsistent with the inequality, and the operation must be
 associative.
-Peirce: CP 4.266 Cross-Ref:††
 Fourth, Suppose vOv fOf, but ~(vOf) fOv. Then I will show that the
 operation is not associative. For either
 (vOv)Ov fOv, while vO(vOv) vOf
@@ -60403,33 +59281,26 @@ that of y when x and y have the same value; and conversely, if it has the contra
 value to that of y when x and y have the same value, it should also have the contrary
 value to that of y when x and y have different values. The same rule holds in regard to
 the second formula interchanging x and y in the statement.
-Peirce: CP 4.267 Cross-Ref:††
 The proposition may be otherwise stated as follows. Let P be the proposition
 that either vOv = v or fOf = f and Q the proposition that either fOv = v or vOf = f.
 Then the [first] formula holds if P and Q are both true or both false; but fails if either
 is true while the other is false.
-Peirce: CP 4.267 Cross-Ref:††
 First, Suppose P and Q both false; so that
 vOv = f, fOf = v, fOv = f, vOf = v,
 Then, fO(vOv) = fOf = v, vO(fOv) = vOf = v
 fO(vOf) = fOv = f, vO(fOf) = vOv = f,
 and the two formulæ hold.
-Peirce: CP 4.267 Cross-Ref:††
 Second, Suppose the first formula fails. That is,
 ~{fO(vOv) vO(fOv)}.
 Now if vOv = fOv = v, evidently every expression ending in v would be equal to v,
 contrary to the hypothesis of the inequality just written. Hence, either vOv = f or fOv
 = f.
-Peirce: CP 4.267 Cross-Ref:††
 If vOv = f, but fOv = v, the second side of the inequality is vOv = f; so that the
 first side must be fOf = v, and P is false.
-Peirce: CP 4.267 Cross-Ref:††
 If fOv = f, but vOv = v, the first side of the inequality is fOv = f; so that the
 second side must be vOf = v, and Q is false.
-Peirce: CP 4.267 Cross-Ref:††
 If vOv = f and fOv = f, the inequality becomes ~(fOf) vOf. Hence, either fOf
 = v, when P is false or vOf = v, when Q is false; and in any case either P or Q is false.
-Peirce: CP 4.267 Cross-Ref:††
 To suppose that the second of the two formulæ fails, that is, that
 ~{vO(fOf) fO(vOf)}
 is merely changing f to v and v to f throughout the supposition just examined.
@@ -60439,7 +59310,6 @@ result of that supposition. But such interchange will neither change the falsity
 that of Q. Consequently, whichever formula fails either P or Q is false; although, by
 the first supposition, if both are false both formulæ hold. It remains then to examine
 the cases in which of P and Q one is true and the other false.
-Peirce: CP 4.267 Cross-Ref:††
 Third, Suppose P to be false, and one or other formula to fail. If it be the first
 that fails, or
 ~{fO(vOv) vO(fOv)},
@@ -60448,18 +59318,15 @@ be the case, if, and only if, either fOv = v or vOf = f; that is, if and only if
 however, it be the second formula that fails, or
 ~{vO(fOf) fO(vOf)},
 again, by interchange of f and v, Q must be true.
-Peirce: CP 4.267 Cross-Ref:††
 Fourth, Suppose Q to be false (that is, fOv = f and vOf = v) and one or other
 formula to fail. If it be the first, that is, if
 ~{fO(vOv) vO(fOv)},
 since the second member is vO(fOv) = vOf = v, the first member must equal f and
 either vOv = v or fOf = f, that is, P will be true. The same results, by interchange of f
 and v, if the second formula fails.
-Peirce: CP 4.267 Cross-Ref:††
 It follows, then, that if P and Q are both true or both false the formulæ hold,
 while [if] P and Q differ in respect to truth both formulæ fail, and must be replaced by
 inequalities.
-Peirce: CP 4.267 Cross-Ref:††
 It will be remarked that one or other of the two formulæ
 x O(y O z) y O(x O z)
 (x O y)O z (x O z)O y
@@ -60467,14 +59334,11 @@ is true of 14 out of the 16 signs, or all but (~ ) and
 
 .
 
-Peirce: CP 4.267 Cross-Ref:††
 Another very commonly true pair of formulæ are
 (x O y)O x (y O y)O x
 x O(y O x) x O(y O y).
-Peirce: CP 4.267 Cross-Ref:††
 One formula or the other holds for all the signs except and ~ ; and both hold
 except for these and x, y, ~x, ~y.
-Peirce: CP 4.267 Cross-Ref:††
 Somewhat similar to the above are the formulæ
 (x O y)O y (y O x)O x
 
@@ -60486,8 +59350,6 @@ Peirce: CP 4.268 Cross-Ref:††
 with one vinculum, at most, and are either necessarily true or necessarily false,
 whatever be the value of the single letter they contain.
 
-[Click here
-to view]
 Peirce: CP 4.269 Cross-Ref:††
 269. A proposition of the form x O x is necessarily true, if O be replaced by
 any one of the signs in the four corners of the upper quadrant; that is, by :\/:~, -<, \/~,
@@ -60535,7 +59397,6 @@ the right hand side below, with the letter for the diamond on the left, and that
 heart at the right. At the intersection of the two rows will be found a spot, from which
 a line leads to three signs in the left-hand part of the diagram
 
-[Click here
 to view], or to seven signs in case neither letter is E or W. Any one of these signs
 being taken as O, the proposition will be necessarily true.
 Peirce: CP 4.271 Cross-Ref:††
@@ -60582,25 +59443,19 @@ Peirce: CP 4.272 Cross-Ref:††
 it is only necessary to rewrite it, replacing ♦ and ♥ by the signs they stand for in their
 most iconic forms, but with :\/:~ in place of O. This middle sign is now to be modified
 as follows:
-Peirce: CP 4.272 Cross-Ref:††
 If there is a quadrant open in both right- and left-hand signs, the top quadrant
 of the middle one must be left open;
-Peirce: CP 4.272 Cross-Ref:††
 If there is a quadrant open in the left-hand sign alone, the left-hand quadrant
 of the middle sign must be left open;
-Peirce: CP 4.272 Cross-Ref:††
 If there is a quadrant open in the right-hand sign alone, the right-hand
 quadrant of the middle sign must remain open;
-Peirce: CP 4.272 Cross-Ref:††
 If there is a quadrant open neither in the right- nor in the left-hand sign, the
 bottom quadrant of the middle sign must be open.
-Peirce: CP 4.272 Cross-Ref:††
 Any quadrant which is not compelled to be open by this rule, may be closed.
 Peirce: CP 4.273 Cross-Ref:††
 273. The rule may be used inversely, of course. Its principal results are shown
 in the following table.†1
 
-[Click here to view]
 Peirce: CP 4.274 Cross-Ref:††
 274. From two propositions, one relating to the values of x and y, the other to
 those of y and z, some proposition concerning the values of x and z can invariably be
@@ -60608,9 +59463,6 @@ deduced; although it may be the absurd one, ~(x:\/:~z), which is often valuable.
 order to ascertain what this is, the value concerning y and z should be written to the
 left of that concerning x and y, and then lines should be drawn as in this figure.
 
-[Click here to
-view]
-Peirce: CP 4.274 Cross-Ref:††
 Whatever quadrants are closed should be shaded, in the one case by vertical
 shading and in the other by horizontal shading; and this shading should extend over
 that line which does not pass through the sign concerned. We then read off the
@@ -60619,18 +59471,13 @@ the line that does not pass through the sign concerned is disregarded; and unles
 are shaded, the quadrant is not closed. For example, given that y\/~z and x ~y, our
 diagram becomes as here shown.
 
-[Click here to view]
-
-Peirce: CP 4.274 Cross-Ref:††
 It will be seen that although three quadrants appear, at first glance, to be cut
 off from the lower sign, yet two of them are not really cut off, since the more remote
 parts of them are unshaded. The conclusion, therefore, is, that x(~ )z.
-Peirce: CP 4.274 Cross-Ref:††
 Such diagrams go by the name of Euler's diagrams,†1 although they are said
 by Hamilton †2 and by Drobisch †3 to be far older than Euler. The rudimentary idea
 of them is very likely ancient. But the plan of shading them is due to Mr. Venn.†4
 Further on [in book II], I shall show how they may be rendered even more efficient.
-Peirce: CP 4.274 Cross-Ref:††
 So far we have refrained from making use of the obelus, a practice in the style
 of De Morgan. We shall now see what instant and complete simplification results
 from the use of it. In the first place, all the signs then become expressible by means of
@@ -60897,7 +59744,6 @@ Peirce: CP 4.289 Cross-Ref:††
 289. IX. Any composite which can be written could, were it written on a
 sheet of assertions, be transformed, without loss of truth, by the omission of any
 component with its compositor.
-Peirce: CP 4.289 Cross-Ref:††
 Demonstration. A composite can only be written by writing one component
 after another, singly. It will therefore be sufficient to show that, if the proposition is
 true for any given composite, it will be true for every composite resulting from the
@@ -60919,20 +59765,17 @@ single composite for which it is false. It cannot then be false, if I prove that
 affixation of a single component can render it false, and if I further prove that it is true
 at the beginning of writing any composite whatsoever. This general method of proof
 was invented by the great mathematician Pierre de Fermat †1 (1601-1665).
-Peirce: CP 4.289 Cross-Ref:††
 Let then a·b·c ····k·l·m represent any composite whatever which can be written
 and of which it is true either that this composite is false, or that the composite which
 results from it by erasing any component with an adjacent compositor is true. Then I
 say that, no matter what quantity n may be, it is true of the composite a·b·c····k·l·m·n
 that either it is false, or every composite which results from erasing from this
 composite any component with an adjacent compositor is true.
-Peirce: CP 4.289 Cross-Ref:††
 First, then, suppose a·b·c····k·l·m to be false. Then, a·b·c····k·l·m·n must be
 false. For otherwise, the latter would be true, and consequently have the value v. But
 
 in this case, by the first clause of the definition of composition a·b·c····k·l·m would be
 equal to v, and therefore true and not false, contrary to the hypothesis.
-Peirce: CP 4.289 Cross-Ref:††
 Secondly, consider the alternative, namely that a·b·c····k·l·m, as well as every
 composite resulting from the omission from a·b·c····k·l·m of a component with its
 adjacent compositor, is true. Then every such composite will have the value v; and if
@@ -60941,7 +59784,6 @@ composite resulting from a·b·c····k·l·m·n by the omission of one compon
 the value v, and consequently, will be true. But if n has not the value v, then, by the
 second clause of the definition of composition, the composite a·b·c····k·l·m·n· will not
 be v, and will therefore not be true, but false.
-Peirce: CP 4.289 Cross-Ref:††
 The simplest form of composite, with which the writing of any other must
 begin, is that in which there are but two components. By the first and second clauses
 of the definition of composition, if this is true, that is, equal to v, then each
@@ -60953,7 +59795,6 @@ without loss of truth, by the insertion of an aggregator with any quantity whate
 as aggregant; and if any aggregate which can be written out is written on a sheet of
 assertions, any additional aggregant, with its aggregator, may be anywhere
 inserted, without loss of truth.
-Peirce: CP 4.290 Cross-Ref:††
 Demonstration. The demonstration is altogether similar to that of IX. Namely,
 suppose that a b c ··· k l m be an aggregate which can be written out, of
 which this proposition is true; that is to say, that if it be written on a sheet of
@@ -60963,7 +59804,6 @@ sheet of assertions with truth. Then, I say, that the same thing is true, no mat
 quantity n may be, of the aggregate a b c ··· k l m n; and moreover I aver
 that the proposition holds of every aggregate with which the writing of an aggregate
 begins, namely of every aggregate of two aggregants only.
-Peirce: CP 4.290 Cross-Ref:††
 For assume that the proposition is true of a b c ··· k l m; that is to
 say, that either this is true or the quantity which results from the omission from it of
 any aggregant with an adjacent aggregator is false. Then, I say, of the aggregate a b
@@ -60973,7 +59813,6 @@ written on a sheet of assertions, makes a false assertion. Consider, in the firs
 the case in which a b c ··· k l m is true, that is equals v. Then it does not
 equal f and consequently, by the first clause of the definition of aggregation, a b c
 ··· k l m n cannot equal f, but must equal v, that is, must be true.
-Peirce: CP 4.290 Cross-Ref:††
 Consider next the other alternative, that both a b c ··· k l m and also
 every quantity resulting from the omission from it of an aggregant and an adjacent
 aggregator are false. Then, these are all equal to f and if, besides, n is equal to f, by
@@ -60983,12 +59822,10 @@ omission from a b c ··· k l m n is also equal to f, is therefore false. If,
 however, n is not equal to f, then by the second clause of the definition of aggregation
 a b c ··· k l m n is not equal to f, and must be equal to v and hence, when
 written on a sheet of assertions, must be true.
-Peirce: CP 4.290 Cross-Ref:††
 But if an aggregate has two aggregants only, then, by the first and second
 clauses of the definition of aggregation, if either of those aggregants is true, and so
 equal to v, and not to f, then the aggregate cannot have the value f, but must have the
 value v, and when written on a sheet of assertions must constitute a true assertion.
-Peirce: CP 4.290 Cross-Ref:††
 Corollary. It follows that every composite is true or equal to v only in case all
 its components are so; being false, or equal to f, if any one of its components is so;
 while an aggregate is true, or equal to v, if any one of its aggregants is so, and is only
@@ -61026,10 +59863,8 @@ which, if written alone on a sheet of assertions, could be transformed into a ce
 other, without loss of truth, can be so transformed wherever it occurs as a part of a
 
 directly asserted quantity, so long as it is not under an obelus.
-Peirce: CP 4.293 Cross-Ref:††
 Demonstration. Let x be a quantity which, if asserted to have the value v,
 could be replaced by y without loss of truth.
-Peirce: CP 4.293 Cross-Ref:††
 Then, in the first place, if x is a component of a directly asserted composite, it
 can be replaced by y without loss of truth. For if any of the other components is equal
 to f, and so is false, by IX, the composite is not true, and is therefore not capable of
@@ -61038,14 +59873,12 @@ component is also v, then by XI, the composite is likewise v; while if this comp
 is f, by X, the composite is f. Thus, the value of the whole is the same as that of this
 component x; and if this component is transformed into y, which is necessarily v if x
 is v, the whole composite remains v.
-Peirce: CP 4.293 Cross-Ref:††
 Next, suppose that that x is an aggregant of the asserted quantity. Then, if any
 of the other aggregants is v, the aggregate will be v, whatever transformation x may
 undergo. But if all the others are f, and x is f, the aggregate, will, by XII, be f, while if
 x is v, by X, the aggregate will be v. Thus the value of the whole aggregate will be the
 same as that of x; and if x is replaced by y, which is necessarily v if x is v, the value
 of the aggregate will remain v.
-Peirce: CP 4.293 Cross-Ref:††
 Thus the transformations of an aggregant, as well as those of a component,
 follow the same rules as those of an entire asserted quantity; and consequently, if x be
 an aggregant of a component, or a component of an aggregant, or be in any other
@@ -61158,7 +59991,6 @@ Peirce: CP 4.298 Cross-Ref:††
 as a component of the whole or any part of ~n asserted quantity, and any
 component of a part (or the whole) of an asserted quantity, can be repeated, without
 loss of truth, as a component of this part or of any part of it.
-Peirce: CP 4.298 Cross-Ref:††
 Demonstration. By the first clause of the definition of composition if a·v has
 the value v, so has a; and by the third clause of the same definition, if a has the value
 v, so has a·v. Thus a and a·v have in all cases the same value, and the substitution of
@@ -61166,29 +59998,23 @@ the latter for the former in any part of an expression must be without effect up
 value of it, since the value of an expression of a given form depends exclusively on
 
 the values of its parts.
-Peirce: CP 4.298 Cross-Ref:††
 Consequently, if a has the value v, its introduction anywhere as a component
 cannot change the value of the expression into which it is introduced; but if a has the
 value f, and is a component, the composite has in any case the value f, whatever be
 done to the other components. Thus, its introduction, as a component of a part of the
 composite of which it is a component, can never alter the value.
-Peirce: CP 4.298 Cross-Ref:††
 Corollary. It follows, by XVI, that a quantity having the value f may be
 introduced as an aggregant into any part of an assertion; and further, that any
 quantity, repeated as an aggregate of any part of any part of an assertion of which it is
 an aggregant, may be omitted in that inner repetition.
-Peirce: CP 4.298 Cross-Ref:††
 Corollary. We may place here the propositions that composition and
 aggregation are commutative and associative.
-Peirce: CP 4.298 Cross-Ref:††
 Given a·b, we can, by insertion, write b·a·b, for if a·b is v, so is b, and if b and
 a·b are v, so is b·a·b. But then, by omission, we get b·a. For if b·a·b is v, so is a·b, and
 if a·b is v, so is a. Also, if b·a·b is v, so is b; and if both b and a are v, so is b·a.
-Peirce: CP 4.298 Cross-Ref:††
 Again, given (a·b)·c, we get by insertion (a·b·c)·c. For if (a·b)·c is v, so is c;
 and if c is v, b·c is v, if b is v; and if a·b·c is v if a·b is v, and if (a·b)·c is v, so is
 (a·b·c)·c. But then by omission we get a·b·c.
-Peirce: CP 4.298 Cross-Ref:††
 Since composition has these properties, so, by XVI has aggregation.
 Peirce: CP 4.299 Cross-Ref:††
 299. XVIII. The negative of a component may be introduced into any part of
@@ -61204,15 +60030,12 @@ Peirce: CP 4.300 Cross-Ref:††
 300. XIX. A quantity which is a component of every aggregant of an
 aggregate may be introduced as a component of the whole, without altering the
 value; and it may then be omitted from the aggregants, without altering the value.
-Peirce: CP 4.300 Cross-Ref:††
 Demonstration. I have to prove that a·x b·x c·x etc. has the same value
 as (a·x b·x c·x etc.)·x, and also the same value as (a b c etc.)·x.
-Peirce: CP 4.300 Cross-Ref:††
 
 First, suppose that the value of a·x b·x c·x etc. is v. Then, by the third
 clause of the definition of composition, the value of (a·x b·x c·x etc.)·(a·x b·x
 c·x etc.) will also be v.
-Peirce: CP 4.300 Cross-Ref:††
 But, then, omitting components, (a·x b·x c·x etc.)·(x x x etc.) will
 also be v. But, then, (a·x b·x c·x etc.)·x will be v. For if (a·x b·x c·x
 etc.)·(a·x b·x c·x etc.) is v, then by the second clause of the definition of
@@ -61223,7 +60046,6 @@ composition, (a·x b·x c·x etc.)·(a·x b·x c·x etc.) is v, a·x b·x c·x e
 is v, it follows from the third clause of the same definition that (a·x b·x c·x
 etc.)·x is v. And further, if (a·x b·x c·x etc.)·x is v, it follows, by omission of
 components that (a b c etc.)·x is v.
-Peirce: CP 4.300 Cross-Ref:††
 Secondly, suppose that (a·x b·x c·x etc.) is f. Then, by the first clause of
 the definition of composition, (a·x b·x c·x etc.)·x is f. And further, a·x and b·x
 and c·x etc. have by the first and second clauses of the definition of aggregation, all
@@ -61233,7 +60055,6 @@ definition of aggregation, a b c etc. has the value f; and by the first clause o
 definition of composition (a b c etc.)·x has the value f. Suppose, on the other
 hand, that x has the value f. Then, by the second clause of the definition of
 composition (a b c etc.)·x has the value f.
-Peirce: CP 4.300 Cross-Ref:††
 Thus, in every case, a·x b·x c·x
 b c etc.)·x have the same value.
 
@@ -61245,7 +60066,6 @@ c·x
 
 etc.)·x and (a
 
-Peirce: CP 4.300 Cross-Ref:††
 Corollary. It follows that
 (aΨx)·(bΨx)·(cΨx) etc.
 =(aΨx)·(bΨx)·(cΨx)· etc. Ψx
@@ -61253,7 +60073,6 @@ Corollary. It follows that
 
 etc.)·x.
 
-Peirce: CP 4.300 Cross-Ref:††
 When we come to the algebra of logic, there will be a highly important remark
 to make concerning this theorem.
 Peirce: CP 4.301 Cross-Ref:††
@@ -61269,7 +60088,6 @@ even from these few. What seems to me desirable is that the procedure should hav
 
 that kind of simplicity which makes it easy to remember or to reconstruct if its details
 are forgotten.
-Peirce: CP 4.301 Cross-Ref:††
 The first problem is to put an expression into such a form that a certain letter
 appears only as an aggregant of a component, or as the negative of an aggregant of a
 component. I first gave a general solution of this problem which I do not think can be
@@ -61304,7 +60122,6 @@ x
 
 The procedure for a greater number of letters will be similar. But it is never really
 necessary to separate more than one.
-Peirce: CP 4.301 Cross-Ref:††
 The proof is simple enough. If Fx has the value v, either x has the value v,
 when Fx becomes Fv or ~x has the value v, so that, in any case, Fv ~x has the value
 v; and further, either ~x has the value v, when Fx becomes Ff or x has the value v, so
@@ -61314,14 +60131,12 @@ the value v, when Fx becomes Fv, and Fv ~x has the value f, or x has the value f
 when Fx becomes Ff, and Ff x has the value f. Thus, if Fx has the value f, one or
 other of the components of (Fv·x)·(Ff x) has the value f, and again (Fv ~x)·(Ff x)
 has the same value as Fx.
-Peirce: CP 4.301 Cross-Ref:††
 Boole's reciprocal problem is to put an expression into a form in which a given
 letter or its negative appears only as a component of an aggregant. The solution is
 Fx = (Fv)·x
 
 (Ff)·~x.
 
-Peirce: CP 4.301 Cross-Ref:††
 We now have to take a step which I first took in my memoir dated, 1870 Jan.
 26.†P1 Let us start from the sixteen assertions concerning the values of two
 dichotomic quantities, and take the signs of the operations they involve in a new
@@ -61404,7 +60219,6 @@ is in the relation signified by the relative term to the object indicated as cor
 mathematical operator is nothing but a mathematical relative term. Then, the relative,
 or functional, multiplication table of :, .~·, ~·., · will be as here shown.
 
-[Click here to view]
 Peirce: CP 4.303 Cross-Ref:††
 303. My father afterward, but independently, obtained two multiplication
 tables of similar form in his Linear Associative Algebra (1st Ed., pp. 30, 59; 2nd Ed.
@@ -61430,7 +60244,6 @@ we get the multiplication table of quarternions, which is as here shown.
 Peirce: CP 4.304 Cross-Ref:††
 
 304.
-[Click here
 to view] This is only interesting here as showing how dichotomic mathematics may
 influence higher orders of mathematics. But quaternions proper does not admit of
 imaginary coefficients; and biquaternions is essentially a different thing. Quaternions
@@ -61537,7 +60350,6 @@ cannot be. Trichotomic mathematics will therefore be a 2X3 affair, at simplest.
 Peirce: CP 4.309 Cross-Ref:††
 309. I will begin this topic by a glance at some of the logico-mathematical
 generalities, without being too scrupulous about excluding higher numbers than three.
-Peirce: CP 4.309 Cross-Ref:††
 The most fundamental fact about the number three is its generative potency.†1
 This is a great philosophical truth having its origin and rationale in mathematics. It
 will be convenient to begin with a little a priori chemistry.†2 An atom of helion,
@@ -61549,31 +60361,22 @@ appears not to be true; at least, not for the halogens), then they afford only t
 types
 H-H H-F,
 if these can be called two.
-Peirce: CP 4.309 Cross-Ref:††
 Assuming G (glucinum), etc. with O, S, etc., to have valency 2 (certainly not
 true), they might give an endless series of saturated rings, by themselves.
 
-[Click here
-to view]
 and so on, ad infinitum. With the monads, these dyads would give terminated lines.
 H-O-H H-O-O-H Cl-O-O-O-H.
 and so on, ad infinitum. But they can give no other types than single rings and
 terminated lines.
-Peirce: CP 4.309 Cross-Ref:††
 Triads, on the other hand, will give every possible variety of type. Thus, we
 may imagine the atom of argon to be really formed of four triads, thus
 
-[Click here to view]
 We may imagine the monadic atom to be composed of seven triads; thus;
 
-[Click here to view]
 A dyad will be obtained by breaking any bond of A; while higher valencies may be
 produced, either simply
 
-[Click here to
-view]
 or in an intricate manner.
-Peirce: CP 4.309 Cross-Ref:††
 
 One atom forms one type without a ring
 
@@ -61583,15 +60386,11 @@ with a one-atom ring
 
 [Click here to view]: two in all.
 
-Peirce: CP 4.309 Cross-Ref:††
-
 Two atoms form, in one piece, one acyclic type
 
 view], one with one protocycle
 
 type
-
-[Click here to
 
 [Click here to view], one diprotocyclic
 
@@ -61599,7 +60398,6 @@ type
 
 [Click here to view], one dideuterocyclic type
 five in all.
-Peirce: CP 4.309 Cross-Ref:††
 
 [Click here to view]:
 
@@ -61624,7 +60422,6 @@ in all.
 
 [Click here to view]: seven
 
-Peirce: CP 4.309 Cross-Ref:††
 Four atoms form two acyclic types
 
 [Click here to view], two
@@ -61641,20 +60438,14 @@ triprotocyclic
 
 [Click here to view] two monodeuterocyclic
 
-[Click here to view]
-
 [Click here to view], one dideuterocyclic
 
 [Click here to view], two
 monodeuteromonoprotocyclic
 
-[Click here to
-
 view], one monodeuterodiprotocyclic
 
 view], one monotritocyclic
-
-[Click here to
 
 [Click here to view], one ditritocyclic
 
@@ -61673,8 +60464,6 @@ view]; one tettartocyclic
 monodeutero-tettartocyclic
 
 dideuterotettartocyclic
-
-[Click here to
 
 [Click here to view], one
 
@@ -61695,8 +60484,6 @@ which goes with a thousand others to make an atom of hydrogen of a single molecu
 of a single cell of a being gazing through a telescope at a heaven as stupendous to him
 as ours to us. All that springs from the
 
-[Click here to view]
-
 -- an emblem of fertility in comparison with which the holy phallus of religion's
 youth is a poor stick indeed.
 Peirce: CP 4.311 Cross-Ref:††
@@ -61704,8 +60491,6 @@ Peirce: CP 4.311 Cross-Ref:††
 are six permutations of three things is the same as to say the two sets of three things
 may correspond, one to one in six ways. The ways are here shown
 
-[Click here
-to view]
 No one of these has any properties different from those of any other. They are like
 two ideal rain drops, distinct but not different. Leibniz's "principle of indiscernibles"
 is all nonsense. No doubt, all things differ; but there is no logical necessity for it. To
@@ -61721,8 +60506,6 @@ with r, s or t, on the other with [o, p, or q], and at the intersections of the 
 the figure of the permutation in which the two correspond. In order to avoid putting
 two symbols in one square I repeat the table. We have then
 
-[Click here
-to view]
 It will be seen that from this point of view, that of their relations to one another, the
 permutations separate themselves into two sets. In any one set, there are no two
 permutations which make the same letter correspond to the same letter; while of pairs
@@ -61792,8 +60575,6 @@ another in their utter want of interest. The only remaining possible case is whe
 are three square roots of i and a cube root of i with its square, to which of course the
 same description applies. I here give the multiplication table.
 
-[Click here
-to view]
 If these signs were to be used in any general application, some of them would require
 modification to prevent their being mistaken for two or three characters. It will be
 remarked that i, j, k have each permutation in its own class indicated by the even or
@@ -61815,7 +60596,6 @@ k'' = ((k-i)-(j-k))/3
 
 n'' = ((n-l)-(m-n))/3
 
-we have
 i''-j'' = i-j
 
 j''-k'' = j-k k''-i'' = k-i
@@ -61916,11 +60696,6 @@ properties to each of the three values δ, {n}, o, and that the connection of th
 some such sensuous images as day, night, and dawn is by no means an idle fancy. Let
 us put these tables into form. I add the subtraction-table
 
-[Click here to view]
-
-[Click here to view]
-
-[Click here to view]
 ADDITION
 
 MULTIPLICATION
@@ -62027,8 +60802,6 @@ folly to attempt to set limits which human stupidity cannot overpass. Otherwise,
 should venture to say that no intelligent reader of this chapter could, while wide
 awake, for two minutes harbor the notion that a transposition, or passage from one
 
-[Click here
-to view]
 permutation to another -- the mathematicians call it a substitution -- could possibly be
 the interpretation of a sum of transpositions; for the very idea of a multiple algebra is
 that a polynomial in the unit letters cannot be expressed as a numerical multiple of a
@@ -62045,7 +60818,6 @@ intersection of the rows. We see that any permutation can be transmuted into any
 other, but by only one letter; and since there are only six letters in all while there are
 nine pairs composed each of a
 
-[Click here to view]
 member of each of two triads, no combination of letters can express every possible
 change of connections of the members of two triads (but only changes of
 permutations and their sums, as above explained). When it is requisite to be able to do
@@ -62107,7 +60879,6 @@ logic. Those of which the interest is more purely mathematical
 must be treated in a very different manner in the next chapter.†1
 
 Peirce: CP 4.324 Cross-Ref:††
-VIII
 NOTES ON THE LIST OF POSTULATES
 OF DR. HUNTINGTON'S SECTION 2†1P
 
@@ -62176,7 +60947,6 @@ First, we introduced what we inappropriately called 'logical addition,' writing
 something exactly or nearly like x y for what Boole wrote as x+y+xy.
 Peirce: CP 4.326 Cross-Ref:††
 Second, we introduced the copula of inclusion, writing
-x -< y
 where Boole would write
 x = xy.
 Peirce: CP 4.326 Cross-Ref:††
@@ -62241,7 +61011,6 @@ independent propositions which shall justify every illative transformation of th
 algebra in one way, and in one way only. Of his postulates, which are ten in number,
 
 the first three give a morphic definition of the copula
-[Click here to view]
 which is the purely morphic generalization of the copula of inclusion, these three
 propositions also showing that the algebra regards all entities as interchangeable
 which a direct application of this copula would not distinguish. The next two
@@ -62261,29 +61030,23 @@ altogether. Indeed in the sense in which it is trivial, this is the character of
 algebra. In the sense in which the algebra is of interest and significance, its having
 just two values is its most significant and characteristic feature. If he had begun with
 the statements
-Peirce: CP 4.330 Cross-Ref:††
 There are at least two expressions not interconvertible, Z and I.
-Peirce: CP 4.330 Cross-Ref:††
 
 Every expression, a, is so related to Z, that a
 may be written alone.
 
 [Click here to view] Z
 
-Peirce: CP 4.330 Cross-Ref:††
-
 Every expression, a, is so related to I, that I
 may be written alone.
 
 [Click here to view] a
 
-Peirce: CP 4.330 Cross-Ref:††
 Every expression, which is such that, taking any expression that is a part of it,
 the whole could permissibly be written alone whether Z or I were substituted for this
 part, may be written alone.†2
 
 Peirce: CP 4.331 Cross-Ref:††
-IX
 ORDINALS†1
 
 331. . . . I pay full homage to Cantor. He is indisputably the Hauptförderer of
@@ -62308,13 +61071,11 @@ Peirce: CP 4.332 Cross-Ref:††
 the more fundamental, ordinal numbers or the cardinal numbers considered as
 expressing the multitudes of collections. The solution of this problem is contained in
 the following six propositions, which are all capable of proof.†1
-Peirce: CP 4.332 Cross-Ref:††
 First. The general idea of plurality is involved in the fundamental concept of
 Thirdness, a concept without which there can be no suggestion of such a thing as
 logic, or such a character as truth. Plurality, therefore, is an idea much more
 fundamental than that of the ordinal place of a member of a linear series.
 
-Peirce: CP 4.332 Cross-Ref:††
 Second. The conception that there is a transitive relation of greater and less
 among multitudes is logically prior to the conception of ordinal place in a linear
 series. But that relation of greater and less is by no means Bolzano's relation †2
@@ -62323,7 +61084,6 @@ conception of greater or less collections is involved in the concept of ordinal 
 than the idea that the greater collection can result from the incorporation into the
 lesser collection of another collection (using this word in a sense in which a collection
 may have but a single member).
-Peirce: CP 4.332 Cross-Ref:††
 Third. Cantor †3 represents the two ways in which a unit may be added to an
 endless series, namely by incorporation into the series, or by immediately following
 the endless series, as differing only in respect to the order of performance of the
@@ -62333,7 +61093,6 @@ involved in speaking of a unit being incorporated into an endless series after a
 members of the series, as well as in speaking of an endless series being incorporated
 into a finite series. The concept of a unit coming immediately after the endless series
 is a different concept.
-Peirce: CP 4.332 Cross-Ref:††
 Fourth. Both the concept of incorporation into a series and of attachment
 immediately after an endless series are involved in the complete conception of ordinal
 quantity; but they do not suffice to make it up. They do not even make up the full
@@ -62341,10 +61100,8 @@ concept of what Cantor calls a well-ordered series,†4 but which I propose to c
 Cantorian series, in order to pay due honor to the completer of the doctrine of ordinal
 quantity, by attaching his name to this invaluable concept. This concept does not of
 itself make up the concept of ordinal quantity, but it is its most important ingredient.
-Peirce: CP 4.332 Cross-Ref:††
 Fifth. Bolzano's concept †1 of being multitudinally greater than is in no way
 involved in the concept of ordinal quantity.
-Peirce: CP 4.332 Cross-Ref:††
 Sixth. The concept of multitudinal quantity does not involve the concept of
 ordinal quantity as a system, nor even that of an ordinal quantity; but it does involve
 every ingredient of the concept of ordinal quantity except the subjectal abstraction of
@@ -62428,28 +61185,22 @@ is ipso facto to be on the latter. But then it cannot be on the former and not o
 latter, though it may be on the latter and not on the former.
 Peirce: CP 4.335 Cross-Ref:††
 335. First Definition of Ordinals
-Peirce: CP 4.335 Cross-Ref:††
 Clause 1. Of any two non-identical ordinals, there is a branch character of a
 certain system of branch characters (here to be designated simply as 'the system')
 which one of them possesses while the other lacks it.
-Peirce: CP 4.335 Cross-Ref:††
 Clause 2. The branch characters of the system are singular.
-Peirce: CP 4.335 Cross-Ref:††
 Clause 3. It would be logically possible for an object susceptible of any
 branch character of the system, and actually having one of them, to change to one
 other, and to change from every character, to which it had been changed, to one
 branch character of the system to which it had never been changed, without ever
 being restored to its first character.
-Peirce: CP 4.335 Cross-Ref:††
 Clause 4. On the other hand, this would be logically impossible if the changes
 were restricted to those branch-characters of the system that are possessed by any one
 ordinal.
-Peirce: CP 4.335 Cross-Ref:††
 Clause 5. (From clauses 3 and 4 it follows that every branch character of the
 system has at least one other immediately dependent upon it; that is, dependent upon
 it, but not dependent on a third that is dependent upon it), but no branch character of
 the system has more than one immediately dependent upon it.
-Peirce: CP 4.335 Cross-Ref:††
 Clause 6. Every combination of possession and nonpossession of branch
 characters of the system which is logically consistent with clauses 1 to 5 inclusive and
 with the definitions of branch characters, dependence, etc., is actually realized in
@@ -62469,21 +61220,14 @@ nothing is as short as 'John' that is not as short as 'Jack.'
 Second Definition of Ordinals
 Clause I. The most fundamental relation of ordinals, N, ('next after'), is an
 appurtenance.
-Peirce: CP 4.336 Cross-Ref:††
 Clause II. Every ordinal is N'd by an ordinal.
-Peirce: CP 4.336 Cross-Ref:††
 Clause III. There is an ordinal, zero, or 0, that is not N to any ordinal.
-Peirce: CP 4.336 Cross-Ref:††
 Clause IV. The relation g (as high as) is a comparative fulfillment.
-Peirce: CP 4.336 Cross-Ref:††
 Clause V. Whatever ordinal is N of an ordinal is g of that ordinal.
-Peirce: CP 4.336 Cross-Ref:††
 Clause VI. Whatever ordinals p and q may be, either the facts that certain
 ordinals are N to certain ordinals, taken in conjunction with the preceding clauses of
 this definition, logically necessitate p's being g to q, or else p is not g to q.
-Peirce: CP 4.336 Cross-Ref:††
 Clause VII. Whatever ordinals p and q may be, either p is g to q or q is g to p.
-Peirce: CP 4.336 Cross-Ref:††
 If we translate either definition into the terms of the other all its clauses may
 be deduced from those of the other. Thus, the branch characters of the system are the
 characters of being N to an ordinal that is g to a, where a is any one ordinal, constant
@@ -62589,21 +61333,16 @@ not having that character, when it is called a blank. . . .
 every secundal place that is g to it there is a blank;
 11. Every secundal expression denoting an ordinal n that is N to an ordinal, m,
 is such that:
-Peirce: CP 4.339 Cross-Ref:††
 Firstly, some figure of it is a blank.
-Peirce: CP 4.339 Cross-Ref:††
 
 Secondly, in that secundal place, to which every place that is g contains a
 blank in the secundal expression for m, in the secundal expression for n there is a
 unit.
-Peirce: CP 4.339 Cross-Ref:††
 Thirdly, in every secundal place to which that place is N[g] there is a blank in
 the expression for n instead of the unit there in the expression for m.
-Peirce: CP 4.339 Cross-Ref:††
 Fourthly, in every secundal place that is N[g] to that place the figure in the
 expression for n has the same character as the figure in the same place in the
 expression for m.
-Peirce: CP 4.339 Cross-Ref:††
 It is usual to write those blanks to whose places the place of some unit is N[g]
 as 0, leaving those of which this is not true unwritten. The figure in the 0 place is best
 drawn with heavy lines.
@@ -62646,19 +61385,13 @@ subindicator contains no unit, the antecedent of the first rational is N to the 
 of the rational indicated by the near subindicator, and its consequent is the ordinal that
 is N to 0.
 
-[Click here
-to view]
 8. The rational whose indicator is zero is zero.
-Peirce: CP 4.340 Cross-Ref:††
 It now becomes easy to arrange the rationals in order of their magnitudes. The
 table on preceding page shows a few of them, [with] the rationals under the
 indicators.
-Peirce: CP 4.340 Cross-Ref:††
 I will now give the antecedents, or numerators, only for the right-hand-half of
 the table in Arabic figures.
 
-[Click here
-to view]
 The objection that there is no way of finding out which of two fractions is the greater
 without reducing them to a common denominator is an amusing self-betrayal; for all
 good arithmeticians proceed by setting down the two fractions side by side and then
@@ -62668,17 +61401,12 @@ and so continuing until one has 0/1 at one end of the row and 1/0 on the other. 
 (1/0)>(0/1). This can always be done if a little ingenuity varies the process a little.
 Thus, which is the greater 487/830 or 301/513?
 
-Peirce: CP 4.340 Cross-Ref:††
 Proceed thus
 
-[Click here
-to view]
-Peirce: CP 4.340 Cross-Ref:††
 This series everywhere increases in the same direction. Hence 487/830 >
 301/513. Fractions can be added on the same principle.
 
 Peirce: CP 4.341 Cross-Ref:††
-X
 ANALYSIS OF SOME DEMONSTRATIONS
 CONCERNING DEFINITE POSITIVE INTEGERS†1P
 
@@ -62825,7 +61553,6 @@ x[ij] means j is a member of the decuplet, i, or unordered collection of 10.
 Ordered collections I call, medads (0), monads, dyads, triads, etc. Indeterminate as to
 being ordered are binion (or pair), trine, quaternion, quine, senion, septene, octone,
 novene, dene (or denion), etc.
-Peirce: CP 4.345 Cross-Ref:††
 By an ordered collection, I mean one of which each member has a peculiar
 relation to the whole; as for example, if one is definitely the first, another definitely
 the second, a definite one the third, etc., or if there is any other formal relation by
@@ -62834,11 +61561,9 @@ formally divided into subcollections and it may be in more than one way, whether
 inadequately, adequately, or superfluously. By adequately, I mean just sufficiently to
 make the collection an ordered one.
 
-Peirce: CP 4.345 Cross-Ref:††
 With this notation (7) can be expressed as follows, using Hebrew letters to
 denote definite collections:
 π[ℵ]Σ[i]Σ[j]Σ[α] 2[ℵi]·2[ℵj]·s[α]·q[αi]·~q[αj]
-Peirce: CP 4.345 Cross-Ref:††
 The utility of the symbols 1, 2, 3, etc. is increased by employing them as
 follows: [i], [ij], [ijk], etc. means that the indices denote the same existing
 individual.
@@ -62856,37 +61581,30 @@ belong to one doublet but are not all one individual.
 the individuals indicated are all members of a triplet of doublets.
 (3 2)[ijklmno] means that every individual denoted by an index is either a
 member of a triplet or of a doublet.
-Peirce: CP 4.345 Cross-Ref:††
 I would use a special form of parenthesis (I will not recommend any particular
 form as more appropriate than another) which I would use in the following way:
 π[i][ Ψ ][ι]; μεανσ ανψ οβϕεχτ ωηιχη ισ συν ισ, ασ συχη, τηε μεμβερ
 οφ α σινγλετ, ι.ε., π[i]π[j] [i]
 [j]Ψ [ιϕ].
-Peirce: CP 4.345 Cross-Ref:††
 If + means is a satellite of Jupiter, then
 π[i][~ + 5][i]; means that whatever is a satellite of Jupiter is, as such, a
 member of a quintuplet, i.e.,
 Σ[i]Σ[j]Σ[k]Σ[l]Σ[m]π[n] +[i]· +[j]· +[k]· +[l]· +[m]· [ij]· [ik]·
 [il]· [im]· [jk]· [jl]· [jm]· [kl]· [km]· [lm]·(~ +[n]Ψ [ιν]Ψ [ϕν]Ψ
 [κν]Ψ [λν]Ψ [μν]).
-Peirce: CP 4.345 Cross-Ref:††
 The saving here is enormous.
-Peirce: CP 4.345 Cross-Ref:††
 
 Intimately connected with these abbreviations are others, some of which I
 have mentioned elsewhere. The rules of their application would form an elaborate
 logical doctrine, which I have not time to develop, because I am working at more
 fundamental parts of logic. Whoever undertakes it in the light of what I have said here
 and elsewhere will have other symbols forced upon his attention.
-Peirce: CP 4.345 Cross-Ref:††
 I pass to another and very simple abbreviation, which consists in using the
 symbol σ so that σ[ij] shall mean that j is at least as low an integer as i. That is,
 (20) σ[ij]=π[α]~s[α] ~q[αi]q[αj] ~σ[ij]=Σ[α]s[α]·q[αi]~q[αj]
-Peirce: CP 4.345 Cross-Ref:††
 It immediately follows that
 (21)π[i]σ[ii] and
 (22)π[i]π[j]π[k] ~σ[ij] ~σ[jk]Ψσ[ik]
-Peirce: CP 4.345 Cross-Ref:††
 From (20) and (10) it follows that
 (23) π[i]π[j]π[k] σ[ij]Ψσ[jk] ~σ[ik]
 Hypothesis (5) represents that there is an integer as low as any and by (10) this is
@@ -62895,24 +61613,20 @@ the singularity of being definable. Thus
 (24) π[i] [oi] ~σ[oi] π[i]σ[io]
 a definition which is also singular in being in a single proposition. But this is owing to
 (10).
-Peirce: CP 4.345 Cross-Ref:††
 The long formula (8) requires abbreviation; and we may write
 (25) H[uv] = Σ[α]π[β]π[{g}]π[w] s[α]·q[αu]·~q[αv]·(~s[β] ~q[βu] q[βw]
 ~s[{g}] q[βv] ~q[βw]) = π[w]~σ[uv]·(σ[uw]Ψσ[wv])
 We may further take the index 1 as such a proper name that
 (26) H[01]. I will also write r[Hi] for Σ[j]r[j]·H[ij] and (H[i]+H[j])[k] for
 Σ[u]H[iu]·Σ[v]H[wv]·(u+v)[k]
-Peirce: CP 4.345 Cross-Ref:††
 Formulæ (14)-(16) may be put in the form
 (14) π[i]π[j]π[k]π[u]π[v]π[w] ~σ[ui] ~σ[vj] ~(i+j)[k] ~(u+v)[w]Ψσ[wk]
 (15) π[i]π[j]π[k]π[u]π[v]π[w] ~σ[wk] ~σ[vj] ~(i+j)[k] ~(u+v)[w]Ψσ[ui]
 (16) π[i]π[j]π[k]π[u]π[v]π[w] ~σ[ui] ~σ[wk] ~(i+j)[k] ~(u+v)[w]Ψσ[vj]
 
-Peirce: CP 4.345 Cross-Ref:††
 Putting, in (14), o for i, j, and w, it becomes
 
 π[k]π[u]π[v](o+o)[k] (u+v)[o] ~σ[uo] ~σ[vo]Ψσ[ok]
-Peirce: CP 4.345 Cross-Ref:††
 Multiplying this by the third power of (24), i.e., (24)·(24)·(24), we get
 (27)(o+o)[o]
 (9) may be put in the form
@@ -62990,12 +61704,10 @@ might happen that there was an integer of the first class that could not result 
 adding any integer of the second class to j. . . .
 
 Peirce: CP 4.347 Cross-Ref:††
-BOOK II
 EXISTENTIAL GRAPHSP
 
 MY CHEF D'OEUVRE
 
-CHAPTER 1
 EULER'S DIAGRAMSE
 
 §1. LOGICAL DIAGRAM †1
@@ -63061,9 +61773,6 @@ enclose whatever is enclosed in the circle M, since all men are passionate. We s
 then, that whatever is enclosed in the circle, S, is enclosed in the circle, P; that is, that
 all saints are passionate.
 
-[Click here to view]
-
-[Click here to view]
 It will be remarked that the way in which any facts of enclosure relating to the circle
 M can inform us about any relation of enclosure between two other circles, is by the
 facts about M being that one of the other circles is on the inside of M and the other on
@@ -63101,7 +61810,6 @@ whatever, i, Courageous Greeks; ii, Greeks not Courageous; iii, Courageous men n
 Greeks; iv, Men, neither Courageous nor Greeks, there may be among men now
 living. These are represented merely as possible classes, without any assertion.
 
-[Click here to
 view] represents that all men consist of whatever Greeks not Courageous, Courageous
 Men not Greeks and Men neither Greeks nor Courageous there may be, and thus
 asserts that no Greek is Courageous; while
@@ -63130,9 +61838,6 @@ and the facts represented in the conclusion. The failure to comprehend the true 
 of logical necessity and the confounding of it with a psychological compulsion is
 common to German logicians generally,†2 excepting only the Herbartians. Thus, he
 represents 'Some A is B' by this diagram.
-
-[Click here
-to view]
 
 B
 
@@ -63352,7 +62057,6 @@ clear, or theoretically. In either regard it is desirable that they should be ad
 represent the gist of every kind of deductive reasoning.
 Peirce: CP 4.356 Cross-Ref:††
 356. As Euler left the system, it had the following faults:
-Peirce: CP 4.356 Cross-Ref:††
 First, two circles cannot be each inside the other; so that while, as Mrs.
 Franklin has shown (Johns Hopkins Studies in Logic, p. 64), there are fifteen or
 sixteen different ways in which two terms may be related in reference to the
@@ -63360,7 +62064,6 @@ possibility or impossibility of their different combinations, Euler's original d
 show but eight of these, as follows:
 
 Figs. 7-14
-[Click here to view]
 
 The states of possibility not represented are as follows:
 Everything is either S or P; [S\/P]
@@ -63371,7 +62074,6 @@ Everything is P; [P]
 Everything is both S and P; [S.P]
 Nothing is S but everything is P; [~S.P]
 The Universe is absurd and impossible; [P.~P]
-Peirce: CP 4.356 Cross-Ref:††
 Second, in regard to every combination of terms (that is, in regard to each of
 the possible parts of the universe, when we are in complete ignorance), the system is
 limited to expressing its non-existence or to not expressing whether it exists or not. It
@@ -63382,7 +62084,6 @@ universe of possibility, either affirm its existence, or deny its existence, or 
 nothing. Therefore, excluding the absurd assertion that nothing exists, there are 34-1,
 or eighty, possible categorical descriptions of the universe, of which this system can
 express but one tenth part.
-Peirce: CP 4.356 Cross-Ref:††
 Third, the system affords no means of expressing a knowledge that one or
 another of several alternative states of things occurs. Of the sixteen possible
 dichotomic states-of things with reference to two terms, a state of knowledge may
@@ -63390,12 +62091,10 @@ either exclude or admit each, though it cannot exclude all. There are therefore 
 
 or 65535, possible states of dichotomous information about two terms of which the
 system permits the expression of only eight, or one out of every 8192.
-Peirce: CP 4.356 Cross-Ref:††
 Fourth, the system affords no means of expressing any other than
 dichotomous, or qualitative, information. It cannot express enumerations, statistical
 facts, measurements, or probabilities. In short, it affords no room for the introduction
 of quantitative premisses into its reasonings.
-Peirce: CP 4.356 Cross-Ref:††
 Fifth, the system affords no means of exhibiting reasoning, the gist of which is
 of a relational or abstractional kind. It does not extend to the logic of relatives.
 Peirce: CP 4.357 Cross-Ref:††
@@ -63403,9 +62102,6 @@ Peirce: CP 4.357 Cross-Ref:††
 them was done away with by an improvement
 
 Figs. 15-18
-
-[Click here
-to view]
 
 introduced by Mr. Venn in 1880. Namely, Mr. Venn in his Symbolic Logic (I use the
 first edition of 1881) recommends drawing the diagrams so as always to exhibit all
@@ -63432,7 +62128,6 @@ above, Figs. 1 and 2. These with the modification
 
 Figs. 19-22
 
-[Click here
 to view]†1†2
 
 are shown in Figs. 19 and 20. The exclusions by different premisses are marked
@@ -63447,22 +62142,14 @@ these three forms of propositions:
 
 view] Some S is not P.
 
-[Click here to
-
 view] Some S is P.
 
-[Click here to
-
 view] There is something beside S and P.
-
-[Click here to
 
 The precise denial of each of these is produced by substituting
 0 for X. But when a third term is present some further rule
 has to be determined. How shall we mark the following
 diagram in order to express "Some S is not P "? The proposition
-
-[Click here to view]
 
 will here take the form, Either some S that is M but not P exists or some S that is
 neither M nor P exists. One suggestion would be that a cross be made on the
@@ -63488,9 +62175,6 @@ contradictory signs, as in , should be absurd, while that if the two opposite
 signs are connected, as in , they should simply annul one another and be
 equivalent to no sign at all.
 
-[Click
-here to view]
-
 Moreover, a cross on a boundary line may very naturally be understood to be
 equivalent to two connected crosses on the two sides of the boundary. Another
 consideration, perhaps more decisive, is that we shall necessarily regard the
@@ -63510,22 +62194,15 @@ inferences, become so various that it is time to draw up a code of Rules for the
 as a permission under strictly defined conditions.†P1
 Peirce: CP 4.362 Cross-Ref:††
 362. Rules of Transformation of Eulerian Diagrams
-Peirce: CP 4.362 Cross-Ref:††
 Rule 1. Any entire sign of assertion (i.e., a cross, zero, or connected body of
 crosses and zeros) can be erased.
-Peirce: CP 4.362 Cross-Ref:††
 Rule 2. Any sign of assertion can receive any accretion. Thus may be
 transformed into .†1
 
 Figs. 29-30
 
-[Click here
-to view]
-
-Peirce: CP 4.362 Cross-Ref:††
 Rule 3. Any assertion which could permissively be written, if there were no
 other assertion, can be written at any time, detachedly.
-Peirce: CP 4.362 Cross-Ref:††
 Rule 4. In the same compartment repetitions of the same sign, whether
 mutually attached or detached, are equivalent to one writing of it. Two different signs
 in the same compartment, if attached to one another are equivalent to no sign at all,
@@ -63536,23 +62213,16 @@ compartment, the one being attached to certain others, P,
 
 Figs. 31-34
 
-[Click here
-to view]
-
 and the other to certain others, Q, it is permitted to attach P to Q and to erase the two
 contrary signs.
-Peirce: CP 4.362 Cross-Ref:††
 Thus, can be transformed into .†1
-Peirce: CP 4.362 Cross-Ref:††
 Rule 5. Any Area-boundary, representing a term, can be erased, provided that,
 if, in doing so, two compartments are thrown together containing independent zeros,
 those zeros be connected, while if there be a zero on one side of the boundary to be
 erased which is thrown into a compartment containing no independent zero, the zero
 and its whole connex be erased.
 
-Peirce: CP 4.362 Cross-Ref:††
 Thus, can be transformed into .†2
-Peirce: CP 4.362 Cross-Ref:††
 Rule 6. Any new Term-boundary can be inserted; and if it cuts every
 compartment already present, any interpretation desired may be assigned to it. Only,
 where the new boundary passes through a compartment containing a cross, the new
@@ -63562,16 +62232,11 @@ between
 
 Figs. 35-36
 
-[Click here
-to view]
-
 them, regardless of what else is connected with the cross. If the new boundary passes
 through a compartment containing a zero, it will be permissible to insert a detached
 duplicate of the whole connex of that zero, so that one zero shall be on one side and
 the other on the other side of the new boundary.
-Peirce: CP 4.362 Cross-Ref:††
 Thus, can be converted into .†3
-Peirce: CP 4.362 Cross-Ref:††
 These six rules have been written down entirely without preconsideration; and
 it is probable that they might be simplified, and not unlikely that some have been
 overlooked.
@@ -63581,28 +62246,18 @@ development of the particular syllogism. The premisses of Darii are as follows:
 
 Figs. 37-40
 
-[Click here
-to view]
-
 : Any M is P. S being inserted this gives, by Rule
 6, . : Some S is M, P being inserted, this becomes,
 by Rule 6, . Uniting Figs. 39 and 40 by Rule 3, we
 get , and by Rule 4, . Now erasing M by Rule 5,
 Figs. 41-43
 
-[Click here
-to view]
 we get . Baroko, Bokardo, and Frisesomorum proceed in the same way. The
 premisses of the last are as follows:
 
 Figs. 44-48
 
-[Click here
-to view]
 Figs. 49-51
-
-[Click here
-to view]
 
 : Some M is P, which, by Rule 6, gives .
 : No S is M, which, by Rule 6, may give . Combining these by Rule 3,
@@ -63613,16 +62268,12 @@ M, we get of which the interpretation is "Some S is
 
 Figs. 52-54
 
-[Click here
-to view]
-
 not some P." The objection may be raised that this method of dealing with the
 spurious †1 syllogism does not seem to follow from general principles, as a matter of
 course. In view of that objection we may put a single cross on the boundary instead of
 two connected crosses. The reasoning then proceeds, by uniting Figs. 44 and 50, as
 shown in Figs. 55 and 56.
 
-[Click here
 to view] A portion of the boundary of M is retained in to show that on
 whichever sides of the boundaries the two crosses may belong, they can in no
 case fall within the same region. Let it be noted, by the way, as a suggestive
@@ -63643,8 +62294,6 @@ degree, the inference should affirm the existence of three objects. Let us try t
 experiment.
 here to view] shows that the conclusions from the two premisses
 
-[Click
-
 Some S is not some M, and
 Some P is not M,
 is "Some S is other than something other than some P." But the S and the P in
@@ -63659,7 +62308,6 @@ No N is P
 Some M is N
 These premisses are combined in
 
-[Click here
 to view]; and it will be seen that the three connexes of crosses must be all different
 individuals; so that the conclusion is "Some S is other than and other than something
 other than some P." This line of study is far from being a trivial matter, however it
@@ -63686,13 +62334,11 @@ by a circle to represent its Universe of Hypothesis. There will be no need of
 connecting lines in the enclosing diagram, it being understood that its compartments
 contain the several possible cases. Thus,
 
-[Click here
 to view] expresses the same proposition as .
 Peirce: CP 4.366 Cross-Ref:††
 366. Let us now consider the fourth imperfection. We are already in condition
 to express minimal multitudes. Thus
 
-[Click here to view]
 expresses that there are at least four A's. The precise denial of a minimal proposition
 will be a maximal proposition; and consequently,
 
@@ -63797,10 +62443,6 @@ multitude. Multitude, or maniness, is a property of collections. Now a collectio
 ens rationis, or abstraction; and abstraction appears as the highest product of the
 development of the logic
 
-[Click here to view]
-
-[Click here to view]
-
 of relatives. The student is thus directed to the deeply interesting and important
 problem of just how it is that the conception of multitude merges in the Eulerian
 diagrams.
@@ -63811,7 +62453,6 @@ But this seeming may perhaps only be the reflection of the present student's own
 stupidity.
 
 Peirce: CP 4.372 Cross-Ref:††
-CHAPTER 2
 
 SYMBOLIC LOGIC†1
 
@@ -64001,7 +62642,6 @@ enclosed, and what is evenly enclosed, on the left-hand part of the sheet, and w
 oddly enclosed, on the right-hand part, this difficulty is greatly reduced. The diagram
 on page 325 (
 
-[Click here
 to view]) illustrates the general style of arrangement recommended.
 Peirce: CP 4.385 Cross-Ref:††
 385. It is now time to make an addition to our system of symbols. Namely, A
@@ -64012,8 +62652,6 @@ way of representing that there is one quasi-instant at which both A and B are tr
 be to connect them with a heavy line drawn in any shape, thus:
 
 A-B or
-
-[Click here to view]
 
 If this line be broken, thus A- -B, the identity ceases to be asserted. We have
 evidently:
@@ -64043,7 +62681,6 @@ under additional ones, its identical connections remaining identical.
 Peirce: CP 4.386 Cross-Ref:††
 
 Thus, [A-(-B)] can be transformed to
-[Click
 here to view]. By the same rule A--(--B), i.e., "Something is A and nothing is B," by
 
 iteration of the line of identity, can be transformed to
@@ -64057,11 +62694,7 @@ be illatively united by a line of identity. The enclosure of such a line is that
 enclosed part. We can now exhibit any ordinary syllogism. Thus, the premisses of
 Baroko, "Any M is P" and "Some S is not P,"
 
-view]
-
 may be written
-
-[Click here to
 
 [Click here to view] Then, as
 
@@ -64069,10 +62702,6 @@ just seen, we can write
 
 view] Then, by iteration,
 here to view] Breaking the line under even enclosures, we get
-
-[Click here to
-
-[Click
 
 [Click here to view] But we have
 already shown that [P(P)] can be written unenclosed. Hence it can be struck out under
@@ -64204,7 +62833,6 @@ objections to Mrs. Ladd-Franklin's system outweigh its advantages. Other systems
 that of Wundt,†4 show a complete misunderstanding of the problem.
 
 Peirce: CP 4.394 Cross-Ref:††
-CHAPTER 3
 
 EXISTENTIAL GRAPHS†1
 
@@ -64454,26 +63082,20 @@ Code of Permissions
 
 415. Permission No. 1. In each special problem such graphs may be scribed
 on the sheet of assertion as the conditions of the special problem may warrant.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 2. Any graph on the sheet of assertion may be erased, except
 
 an enclosure with its area entirely blank.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 3. Whatever graph it is permitted to scribe on the sheet of
 assertion, it is permitted to scribe on any unoccupied part of the sheet of assertion,
 regardless of what is already on the sheet of assertion.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 4. Any graph which is scribed on the inner area of a double
 cut on the sheet of assertion may be scribed on the sheet of assertion.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 5. A double cut may be drawn on the sheet of assertion; and
 any graph that is scribed on the sheet of assertion may be scribed on the inner area
 of any double cut on the sheet of assertion.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 6. The reverse of any transformation that would be
 permissible on the sheet of assertion is permissible on the area of any cut that is
 upon the sheet of assertion.
-Peirce: CP 4.415 Cross-Ref:††
 Permission No. 7. Whenever we are permitted to scribe any graph we like
 upon the sheet of assertion, we are authorized to declare that the conditions of the
 special problem are absurd.
@@ -64533,7 +63155,6 @@ of ligatures passing from without the outer of two cuts to within the inner one,
 long as there is nothing else in the annular area.†2
 
 Peirce: CP 4.418 Cross-Ref:††
-CHAPTER 4
 
 ON EXISTENTIAL GRAPHS, EULER'S DIAGRAMS,
 AND LOGICAL ALGEBRA†1P
@@ -64572,42 +63193,33 @@ desirable since that date, although it has been under continual examination; but
 exposition has been rendered more formal.
 Peirce: CP 4.423 Cross-Ref:††
 423. The following exposition of this system will be arranged as follows:
-Peirce: CP 4.423 Cross-Ref:††
 Part I will explain the expression of ordinary forms of language in graphs and
 the interpretation of the latter into the former in three sections, as follows:
-Peirce: CP 4.423 Cross-Ref:††
 A will state all the fundamental conventions of the system, separating those
 which are essentially different, showing the need which each is designed to meet
 together with the reasons for meeting it by the particular convention chosen, so far as
 these can be given at this stage of the development. A complete discussion will be
 given in an Appendix †1 to this part. To aid the understanding of all this, various
 logical analyses will be interspersed where they become pertinent.
-Peirce: CP 4.423 Cross-Ref:††
 B will enunciate other rules of interpretation whose validity will be
 demonstrated from the fundamental conventions as premisses. This section will also
 introduce certain modifications of some of the signs established in A, the modified
 signs being convenient, although good reasons forbid their being considered
 fundamental.
 
-Peirce: CP 4.423 Cross-Ref:††
 C will redescribe the system in a compact form, which, on account of its
 uniting into one many rules that had, in the first instance; to be considered separately,
 is more easily grasped and retained in the mind.
-Peirce: CP 4.423 Cross-Ref:††
 Part II will develop formal "rules," or permissions, by which one graph may
 be transformed into another without danger of passing from truth to falsity and
 without recurring to any interpretation of the graphs; such transformations being of
 the nature of immediate inferences. The part will be divided into sections
 corresponding to those of Part I.
-Peirce: CP 4.423 Cross-Ref:††
 A will prove the basic rules of transformation directly from the fundamental
 conventions of A of Part I.
-Peirce: CP 4.423 Cross-Ref:††
 B will deduce further rules of transformation from those of A, without further
 recourse to the principles of transformation.
-Peirce: CP 4.423 Cross-Ref:††
 C will restate the rules in more compact form.
-Peirce: CP 4.423 Cross-Ref:††
 Part III will show how the system may be made useful.†1
 
 Peirce: CP 4.424 Cross-Ref:††
@@ -64620,17 +63232,14 @@ A. Fundamental ConventionsP
 424. In order to understand why this system of expression has the construction
 it has, it is indispensable to grasp the precise purpose of it, and not to confuse this
 with four other purposes, to wit:
-Peirce: CP 4.424 Cross-Ref:††
 First, although the study of it and practice with it will be highly useful in
 helping to train the mind to accurate thinking, still that consideration has not had any
 influence in determining the characters of the signs employed; and an exposition of it,
 which should have that aim, ought to be based upon psychological researches of
 which it is impossible here to take account.
-Peirce: CP 4.424 Cross-Ref:††
 Second, this system is not intended to serve as a universal language for
 mathematicians or other reasoners, like that of Peano.
 
-Peirce: CP 4.424 Cross-Ref:††
 Third, this system is not intended as a calculus, or apparatus by which
 conclusions can be reached and problems solved with greater facility than by more
 familiar systems of expression. Although some writers †2 have studied the logical
@@ -64642,7 +63251,6 @@ abbreviated inferences may best be, will depend upon the special nature of the s
 under discussion. But in my algebras and graphs, far from anything of that sort being
 attempted, the whole effort has been to dissect the operations of inference into as
 many distinct steps as possible.
-Peirce: CP 4.424 Cross-Ref:††
 Fourth, although there is a certain fascination about these graphs, and the way
 they work is pretty enough, yet the system is not intended for a plaything, as logical
 algebra has sometimes been made, but has a very serious purpose which I proceed to
@@ -64904,7 +63512,6 @@ between the two lines containing the definition of the sub-universe.
 
 Figs. 71-72
 
-[Click here
 to view]†1
 
 There is no such expressiveness in -- or, if there be, it is only of a superficial
@@ -64990,9 +63597,6 @@ and interpreter. We have, therefore, to choose between interpreting to mean
 
 -----is beautiful
 
-[Click here
-to view]
-
 and to mean "Anything is beautiful." Each asserts the rhema of an individual; but the
 former leaves that individual to be designated by the grapheus, while the latter allows
 the rhema [interpreter q to fill the blank with any proper name he likes. If be
@@ -65044,7 +63648,6 @@ necessary that the signs of them should be connected in fact. No way of doing th
 be more perfectly iconic than that exemplified in .
 
 :
-[Click here to view]
 
 Peirce: CP 4.442 Cross-Ref:††
 Any sign of such identification of individuals may be called a connexus, and
@@ -65073,7 +63676,6 @@ bonds, each terminal occupying a spot's hook, can ever assert the identity of th
 things, although when we once have a three-way branch, any higher number of
 terminals can be produced from it, as in
 
-[Click here
 to view].
 Peirce: CP 4.446 Cross-Ref:††
 446. We ought to, and must, then, make a distinct convention to cover this
@@ -65179,11 +63781,9 @@ be true that something is a salamander then it will always be true that that som
 lives in fire"? If we omit the assertion of the identity of the somethings, the
 expression is obviously given in .
 
-[Click
 here to view] To that, we wish to add the expression of individual identity. We ought
 to use our line of identity for that. Then, we must draw .
 
-[Click
 here to view] It would be unreasonable, after having adopted the line of identity as
 our instrument for the expression of individual identity, to hesitate to employ it in this
 case. Yet to regularize such a mode of expression two new conventions are required.
@@ -65208,7 +63808,6 @@ fire; and again the proposition will be true. It is only false in case whatever 
 be is a salamander while nothing lives in fire. Consequently, would be
 precisely equivalent to
 
-[Click
 here to view], and there would be no need of any line of identity's crossing a sep. It
 would then be impossible to express a universal categorical analytically except by
 resorting to an unanalytic expression of such a proposition or something substantially
@@ -65238,9 +63837,6 @@ means
 
 Figs. 85-86
 
-[Click here
-to view]
-
 "Something is not good." On and the points on the seps are marked
 with letters, for convenience of reference. asserts that something, A, is a
 woman; and that if there is an individual, X, that is a catholic, and an individual, Y,
@@ -65249,9 +63845,6 @@ catholics, if there are any. asserts that if there be an individual, X, and if X
 catholic, then X adores somebody that is a woman. That is, whatever
 
 Figs. 87-88
-
-[Click here
-to view]
 
 catholic there may be adores some woman or other. This does
 not positively assert that any woman exists, but only that if
@@ -65281,7 +63874,6 @@ to somebody or other
 
 .
 
-[Click
 here to view] Somebody blames somebody
 to everybody
 
@@ -65289,7 +63881,6 @@ to everybody
 
 .
 
-[Click
 here to view] Everybody blames somebody
 to somebody
 
@@ -65335,9 +63926,6 @@ drawn invisibly small. Thus [may be scribed] as in , or even as in , , or lastly
 
 Figs. 97-101
 
-[Click here
-to view]
-
 Peirce: CP 4.456 Cross-Ref:††
 456. Interpretational Corollary 1. A scroll with its contents having the
 pseudograph in the inner close is equivalent to the precise denial of the contents of
@@ -65359,7 +63947,6 @@ exclude the simultaneous truth of several members or of all.
 Peirce: CP 4.457 Cross-Ref:††
 
 Thus,
-[Click here
 to view] will express that either a or b or c or d or e is true. For it will deny the
 simultaneous denial of all.
 Peirce: CP 4.458 Cross-Ref:††
@@ -65388,7 +63975,6 @@ saint there may be loves every saint. So
 and Y may be, either X is not best or Y is not best or X is identical with Y; that is,
 there are not two bests.
 
-[Click here to view]
 may be read, Whatever X and Y may be, either X does not love Y or Y does not love
 X; that is, no two love each other.
 
@@ -65414,17 +64000,11 @@ value that can result from raising z to the power whose exponent is y, by means 
 
 :
 
-[Click here to view]
-
-[Click here to view]
-
 whatever values x, y, and z may be, there is a value resulting from raising x to a
 power whose exponent is a value of the product of z by y which same value is also
 one of the values resulting from raising to the power z a value resulting from raising x
 to the power y (this being one of the propositions expressed by the equation xyz =
 (xy)z) we may draw
-
-[Click here to
 
 view]; but there is an unavoidable intersection of two lines of identity. In such a case,
 and indeed in any case in which the lines of identity become too intricate to be
@@ -65444,9 +64024,6 @@ be considered as the outermost. The later capital letters are used for selective
 example, is otherwise expressed in Figs. 110 and 111.
 
 Figs. 110-111
-
-[Click here
-to view]
 
 may be read, "Either no value is designated as U, or no value is designated as
 V, or no value is designated as W, or else a value designated as Y results from raising
@@ -65486,8 +64063,6 @@ Peirce: CP 4.461 Cross-Ref:††
 Resort must be had to the examples to trace out the sense of this long abstract
 statement; and the line of identity will aid in explaining the equivalent selectives. may be read
 X is good
-
-[Click here to view]
 
 there exists something that may be called X and it is good. , the precise denial
 of , may be read "Either there is not anything to be called X or whatever there
@@ -65566,16 +64141,11 @@ which purpose it will be written as in Figs. 115, 116, it is the denial of the b
 
 Figs. 114-116
 
-[Click here
-to view]
-
 Peirce: CP 4.468 Cross-Ref:††
 468. Interpretational Corollary 7. A line of identity traversing a sep will
 
 signify non-identity. Thus
 to view] will express that there are at least two men.
-
-[Click here
 
 Peirce: CP 4.469 Cross-Ref:††
 469. Interpretational Corollary 8. A branching of a line of identity enclosed
@@ -65612,7 +64182,6 @@ category.
 Peirce: CP 4.471 Cross-Ref:††
 The graph of
 
-[Click here
 to view] is an example. It may be read, as follows: "Euclid †2 enunciates it as a
 postulate that if two straight lines are cut by a third straight line so that those angles
 the two make with the third, these angles lying between the first two lines ({tas entos
@@ -65956,9 +64525,6 @@ a and z were both true anything you like would be true. Therefore, if either
 [transformation] is true so is the other.
 
 Figs. 128-129
-here to view]
-
-[Click
 
 Peirce: CP 4.491 Cross-Ref:††
 491. Conditional Principle No. 3. If a sep containing nothing but a graph, a,
@@ -65971,22 +64537,17 @@ by virtue of the forms of a and z, if a is false, z is true; in other words, by 
 their forms, either a or z is true. But this is precisely the meaning of saying that is illatively transformable into [?121].
 Peirce: CP 4.492 Cross-Ref:††
 492. By means of these principles we can deduce the following:
-Peirce: CP 4.492 Cross-Ref:††
 Basic Categorical Rules for the Illative Transformation of Graphs
 dinectively built up from Partial Graphs and from Graphs separated by seps.
-Peirce: CP 4.492 Cross-Ref:††
 Rule 1. Within an even finite number (including none) of seps, any graph may
 be erased; within an odd number any graph may be inserted.
-Peirce: CP 4.492 Cross-Ref:††
 Rule 2. Any graph may be iterated within the same or additional seps, or if
 iterated, a replica may be erased, if the erasure leaves another outside the same or
 additional seps.
 
-Peirce: CP 4.492 Cross-Ref:††
 Rule 3. Any graph well-understood to be true (and therefore an enclosure
 having a pseudograph within an odd number of its seps) may be inserted outside all
 seps.
-Peirce: CP 4.492 Cross-Ref:††
 Rule 4. Two seps, the one enclosing the other but nothing outside that other,
 can be removed.
 Peirce: CP 4.493 Cross-Ref:††
@@ -66000,9 +64561,6 @@ a sep containing nothing but the latter graph, as in , is illatively transformab
 into
 
 Figs. 130-134
-
-[Click here
-to view]
 
 an enclosure consisting of a sep containing nothing but the first graph, as in .
 In order to prove this principle, we must first prove that any graph on the sheet of
@@ -66056,9 +64614,6 @@ Rule 2 of the former set of rules. Then, since is illatively transformable into
 
 Figs. 136-141
 
-[Click here
-to view]
-
 , it follows from the principle of contraposition that is illatively
 transformable into . Or we may reason that to say that follows from
 is to say that, am being true, an follows from n; while to say that
@@ -66079,9 +64634,6 @@ finite interval.
 
 Figs. 142-146
 
-[Click here
-to view]
-
 Thus, is transformable into , this into , this successively into
 Figs. 149 to 153. Thus, the second rule is fully demonstrable.
 Peirce: CP 4.496 Cross-Ref:††
@@ -66093,12 +64645,7 @@ which [we] may denote by z is surrounded by two seps with nothing
 
 Figs. 147-150
 
-[Click here
-to view]
 Figs. 151-153
-
-[Click here
-to view]
 
 between as in , then the two seps may be illatively removed as in .
 Now if the graph, z, occurred within one sep, as in , this, as we have seen,
@@ -66198,9 +64745,6 @@ point within the sep -- any more, for example, than
 
 Figs. 154-157
 
-[Click here
-to view]
-
 , "Nothing good is ugly" could be transformed into , "Either nothing
 is ugly or nothing is good." So can, by the rule of insertion within odd seps,
 be transformed to , and must be interpreted, like that, "Everything acts on
@@ -66211,17 +64755,11 @@ argument special graphs
 
 Figs. 158-162
 
-[Click here
-to view]
-
 are used, it is evident that the argument would be just the same whatever others were
 used, and the proof is just as conclusive as if we had talked of "any graph whatever,
 x," etc., as well as being clearer. The principle of contraposition renders
 
 Figs. 163-177
-
-[Click here
-to view]
 
 it evident that the same thing would hold for any finite nests of seps.
 Peirce: CP 4.503 Cross-Ref:††
@@ -66307,32 +64845,26 @@ C. Basic Categorical Rules for the Illative Transformation
 of All GraphsP
 505. Rule 1. Called The rule of Erasure and of Insertion. In even seps, any
 graph-replica can be erased; in odd seps any graph-replica can be inserted.
-Peirce: CP 4.505 Cross-Ref:††
 Note A. By even seps is meant any finite even number of seps, including
 none; by odd seps is meant any odd number of seps.
-Peirce: CP 4.505 Cross-Ref:††
 This rule permits any ligature, where evenly enclosed, to be severed, and any
 two ligatures, oddly enclosed in the same seps, to be joined. It permits a branch with a
 loose end to be added to or retracted from any line of identity.
-Peirce: CP 4.505 Cross-Ref:††
 It permits any ligature, where evenly enclosed, to be severed from the inside
 of the sep immediately enclosing that evenly enclosed portion of it, and to be
 extended to a vacant point of any sep in the same enclosure. It permits any ligature to
 be joined to the inside of the sep immediately enclosing that oddly enclosed portion of
 it, and to be retracted from the outside of any sep in the same enclosure on which the
 ligature has an extremity.
-Peirce: CP 4.505 Cross-Ref:††
 Note B. In the erasure of a graph by this rule, all its ligatures must be cut. The
 rule does not permit a sep to be so inserted as to intersect any ligature, nor does it
 permit any erasure to accompany an insertion.
-Peirce: CP 4.505 Cross-Ref:††
 It does not permit the insertion of a sep within even seps.
 
 Peirce: CP 4.506 Cross-Ref:††
 506. Rule 2. Called The Rule of Iteration and Deiteration. Anywhere within
 all the seps that enclose a replica of a graph, that graph may be iterated with identical
 ligations, or being iterated, may be deiterated.
-Peirce: CP 4.506 Cross-Ref:††
 Note A. The operation of iteration consists in the insertion of a new replica of
 a graph of which there is already a replica, the new replica having each hook ligated
 to every hook of a graph-replica to which the corresponding hook of the old replica is
@@ -66342,21 +64874,17 @@ consists in erasing a replica which might have illatively resulted from an opera
 iteration, and of retracting outwards the ligatures left loose by such erasure until they
 are within the same seps as the corresponding ligature of the replica of which the
 erased replica might have been the iteration.
-Peirce: CP 4.506 Cross-Ref:††
 The rule permits any loose end of a ligature to be extended inwards through a
 sep or seps or to be retracted outwards through a sep or seps. It permits any cyclical
 part of a ligature to be cut at its innermost part, or a cycle to be formed by joining, by
 inward extensions, the two loose ends that are the innermost parts of a ligature.
-Peirce: CP 4.506 Cross-Ref:††
 If any hook of the original replica of the iterated graph is ligated to no other
 hook of any graph-replica, the same should be the case with the new replica.
-Peirce: CP 4.506 Cross-Ref:††
 Note B. This rule does not confer a right to ligate any hook to another nor to
 deligate any hook from another unless the same hooks, or corresponding hooks of
 other replicas of the same graphs (these replicas being outside every sep that the
 hooks ligated or deligated are outside), be ligated otherwise, and outside of every sep
 that the new ligations or deligations are outside of.
-Peirce: CP 4.506 Cross-Ref:††
 This rule does not confer the right to extend any ligature outwardly from
 within any sep, nor to retract any ligature inwardly from without any sep.
 Peirce: CP 4.507 Cross-Ref:††
@@ -66395,7 +64923,6 @@ of a line of identity outside a sep to an otherwise vacant point on that sep is 
 considered to be a connexion.
 
 Peirce: CP 4.510 Cross-Ref:††
-CHAPTER 5
 
 THE GAMMA PART OF EXISTENTIAL GRAPHS†1
 
@@ -66515,8 +65042,6 @@ Peirce: CP 4.515 Cross-Ref:††
 515. I will begin with one of the gamma cuts. I call it the broken cut. I scribe
 it thus
 
-[Click here to view]
-
 This does not assert that it does not rain. It only asserts that the alpha and beta rules
 do not compel me to admit that it rains, or what comes to the same thing, a person
 altogether ignorant, except that he was well versed in logic so far as it embodied in
@@ -66532,32 +65057,22 @@ into a broken cut, and an oddly enclosed broken cut may be filled up to make an
 alpha cut. Whether the enclosures are by alpha or broken cuts is indifferent.
 Consequently
 
-[Click here to view]
-
 will mean that the graph g is beta-necessarily true.†2 By Rule 2, this is converted into
-
-[Click here to view]
 
 which is equivalent to
 g
 
 the simple assertion of g. By the same rule is transformable into
 
-[Click here to view]
-
 which means that the beta rules do not make g false.†1 That is g is beta-possible.†2
 Peirce: CP 4.516 Cross-Ref:††
 
 So if we start from
 
-[Click here to view]
-
 which denies the last figure and thus asserts that it is beta-impossible that g should be
 true,†3 Rule 2 gives
 
 [Click here to view] equivalent to
-
-[Click here to view]
 
 the simple denial of g.†4
 And from this we get again
@@ -66580,23 +65095,17 @@ particular state of information to which it refers. And a similar sign has then 
 attached to the simple g, which refers to the state of information at the time of
 learning that graph to be true. I use for this purpose cross marks below, thus:
 
-[Click here to view]
-
 These selectives are very peculiar in that they refer to states of information as if they
 were individual objects. They have, besides, the additional peculiarity of having a
 definite order of succession, and we have the rule that from we can infer .†1
 
 Figs. 188-189
 
-[Click here to view]
-
 These signs are of great use in cleaning up the confused doctrine of modal
 propositions as well as the subject of logical breadth and depth.
 Peirce: CP 4.519 Cross-Ref:††
 519. There is not much utility in a double broken cut. Yet it may be worth
 notice that and
-
-[Click here to view]
 
 can neither of them be inferred from the other. The outer
 of the two broken cuts is not only relative to a state of information but to a state of
@@ -66626,10 +65135,6 @@ Peirce: CP 4.521 Cross-Ref:††
 information in which the knower would know g to be true and yet would not know
 another graph h to be true. We shall naturally express this by .
 
-view]
-
-[Click here to
-
 Here we have a new kind of ligature, which will follow all the rules of ligatures. We
 have here a most important addition to the system of graphs. There will be some
 peculiar and interesting little rules, owing to the fact that what one knows, one has the
@@ -66644,10 +65149,6 @@ Peirce: CP 4.522 Cross-Ref:††
 information follows after another. If we scribe,
 [Click here to view] to express that the state of information B follows after the state of
 information A, we shall have
-
-here to view]
-
-[Click
 
 Peirce: CP 4.523 Cross-Ref:††
 523. It is clear, however, that the matter must not be allowed to rest here. For
@@ -66718,7 +65219,6 @@ A - /3\ -- C means B is in the triadic relation A to C for D.
 \D
 
 See here
-to view]
 Peirce: CP 4.525 Cross-Ref:††
 525. It is obvious that the lines of identity on the left-hand side of the
 potentials are quite peculiar, since the characters they denote are not, properly
@@ -66738,8 +65238,6 @@ which the first stands in that relation, R, without the second also standing in 
 relation to it. The proof of this, which is a little too intricate to be followed in an oral
 statement
 
-[Click here to view]
-
 (although in another lecture †1 I shall substantially prove it) depends upon the fact
 that a relation is in itself a mere logical possibility.
 Peirce: CP 4.527 Cross-Ref:††
@@ -66756,7 +65254,6 @@ Peirce: CP 4.528 Cross-Ref:††
 [Click here to view], the old Greek form of the letter A, denote the sheet of assertion.
 
 Let ~{g} be "is a graph." Let Y
-[Click here to
 view]X mean that X is scribed or placed on Y. Let W - k - Z mean that Z is the area of
 
 the cut W. Let U [Click here to view] mean that U is a graph,
@@ -66764,12 +65261,8 @@ precisely expressing V. It is necessary to place V in the saw-rim, as I call the
 about it, because in thus speaking of a sign materialiter, as they said in the middle
 ages, we require that it should have a hook that it has not got. For example
 
-[Click here to view]
-
 asserts, of course, that if it hails, it is cold de inesse.
 Now a graph asserting that this graph is scribed on the sheet of assertion, will be
-
-[Click here to view]
 
 This graph only asserts what the other does assert. It does not say what the other does
 not assert. But there would be no difficulty in expressing that. We have only to place
@@ -66778,7 +65271,6 @@ instead of
 
 [Click here to view], wherever it occurs,
 
-[Click here to view]
 Peirce: CP 4.529 Cross-Ref:††
 529. We come now to the graphical expressions of beta graphs. Here we
 require the following symbols,
@@ -66803,7 +65295,6 @@ expressed by a tetrad spot on X whose first to fourth hooks are joined to Y, Z,
 U, V, respectively.†1
 
 Peirce: CP 4.530 Cross-Ref:††
-CHAPTER 6
 
 PROLEGOMENA TO AN APOLOGY OR PRAGMATICISM†1
 
@@ -66974,11 +65465,9 @@ was assumed to be false of some infinite collections. The demonstration begins b
 insisting that, if the proposition be false, there must be some definite relation of which
 it is false. Assume, then, that the letter R is an index of any one such relation you
 please. Next divide the members of C into four classes as follows:
-Peirce: CP 4.532 Cross-Ref:††
 Class I is to consist of all those members of C (if there be any such) to each of
 which no collection of members of C stands in the relation R.
 
-Peirce: CP 4.532 Cross-Ref:††
 Class II is to consist of all those members of C to each of which one and only
 one collection of members of C stands in the relation R; and this class has two
 subclasses, as follows:
@@ -66988,15 +65477,12 @@ relation R to it.
 Sub-Class 2 is to consist of whatever members of Class II there may be, none
 of which is contained in that one collection of members of C that is in the
 relation R to it.
-Peirce: CP 4.532 Cross-Ref:††
 Class III is to consist of all those members of C, if there be any such, to each
 of which more than one collection of members of C are in the relation R.
-Peirce: CP 4.532 Cross-Ref:††
 This division is complete; but everybody would consider the easy
 diagrammatical proof that it is so as needless to the point of nonsense, implicitly
 relying on a Symbol in his memory which assures him that every Division of such
 construction is complete.
-Peirce: CP 4.532 Cross-Ref:††
 I ought already to have mentioned that, throughout the enunciation and
 demonstration of the proposition to be proved, the term "collection included in the
 given collection" is to be taken in a peculiar sense to be presently defined. It follows
@@ -67021,7 +65507,6 @@ included all higher collections, the proposition would cease to be true of tripl
 so on. In short, by restricting the meaning of "possible collection," the proposition
 may be rendered false of small collections. No general formal restriction can render it
 false of greater collections.
-Peirce: CP 4.532 Cross-Ref:††
 I shall now assume that you will permit me to use the term "possible
 collection" according to the following definition. A "possible collection" is an ens
 
@@ -67036,14 +65521,12 @@ by the definite plural of the former includes whatever "possible collection" is
 included by the "possible collection" denoted by the definite plural of the latter, and
 of any two different "possible collections," one or other must include something not
 included by the other.
-Peirce: CP 4.532 Cross-Ref:††
 A diagram of the definition of "possible collection" being compared with a
 diagram embracing whatever members of subclasses 1 and 2 that it may, excluding all
 the rest, will now assure us that any such aggregate is a possible collection of
 members of the class C, no matter what individuals of Classes I and III be included or
 excluded in the aggregate along with those members of Class II, if any there be in the
 aggregate.
-Peirce: CP 4.532 Cross-Ref:††
 We shall select, then, a single possible collection of members of C to which
 we give the proper name, c, and this possible collection shall be one which contains
 no individual of Subclass 1, but contains whatever individual there may be of
@@ -67070,7 +65553,6 @@ it is c only that is in the relation R to T);
 or T belongs to Class III (but this cannot be, since to every member of that
 class, by the definition of it, more than one collection of members of C stand in the
 relation R, while to T only one collection, namely, c, stands in that relation).
-Peirce: CP 4.532 Cross-Ref:††
 
 Thus, T belongs to none of the classes of members of C, and consequently is
 not a member of C. Consequently, there is no such member of C; that is, no member
@@ -67473,7 +65955,6 @@ every proposition can be represented, and that I must say, for the most part ver
 conveniently, under your view that the Universes are receptacles of the Subjects
 alone, I, nevertheless, cannot deem that mode of analyzing propositions to be
 satisfactory.
-Peirce: CP 4.548 Cross-Ref:††
 And to begin with, I trust you will all agree with me that no analysis, whether
 in logic, in chemistry, or in any other science, is satisfactory, unless it be thorough,
 that is, unless it separates the compound into components each entirely homogeneous
@@ -67492,7 +65973,6 @@ propositions:
 
 A †1 Any adept alchemist could produce a philosopher's stone of some kind or other,
 B There is one kind of philosopher's stone that any adept alchemist could produce.
-Peirce: CP 4.548 Cross-Ref:††
 We can express these in the principle that the Universes are receptacles of
 Subjects as follows:
 A1 The Interpreter having selected any individual he likes, and called it A, an object
@@ -67502,10 +65982,8 @@ B1 Something, B, might be found, such that, no matter what the Interpreter might
 select and call A, B would be a philosopher's stone of some kind, while either
 A would not be an adept alchemist, or else A could produce B.
 
-Peirce: CP 4.548 Cross-Ref:††
 In these forms there are two Universes, the one of individuals selected at
 pleasure by the interpreter of the proposition, the other of suitable objects.
-Peirce: CP 4.548 Cross-Ref:††
 I will now express the same two propositions on the principle that each
 Universe consists, not of Subjects, but the one of True assertions, the other of False,
 but each to the effect that there is something of a given description.
@@ -67515,7 +65993,6 @@ while something, S, is a philosopher's stone of some kind, P could produce S.
 
 false, that something, P, is an adept alchemist while this is false, that P could
 produce S.
-Peirce: CP 4.548 Cross-Ref:††
 Here, the whole proposition is mostly made up of the truth or falsity of
 assertions that a thing of this or that description exists, the only conjunction being
 "and." That this method is highly analytic is manifest. Now since our whole intention
@@ -67525,7 +66002,6 @@ how that other might lead to false logic, I will tack the predicate of B1, in it
 objectionable form, upon the subject of A1 in the same form, and vice versa. I shall
 thus obtain two propositions which that method represents as being as simple as are
 Nos. 1 and 2.
-Peirce: CP 4.548 Cross-Ref:††
 We shall see whether they are so. Here they are:†1
 3. The Interpreter having designated any object to be called A, an object B may be
 found such that B is a philosopher's stone of some kind, while either A is not
@@ -67534,7 +66010,6 @@ an adept alchemist or else A could produce B.
 and call A,
 Either A would not be an adept alchemist, or B would be a
 philosopher's stone of some kind, and A could produce B.
-Peirce: CP 4.548 Cross-Ref:††
 Proposition 3 may be expressed in ordinary language thus: There is a kind of
 philosopher's stone, and if there be any adept alchemist, he could produce a
 philosopher's stone of some kind. That is, No. 3 differs from A, A1 and 1 only in
@@ -67542,20 +66017,17 @@ adding that there is a kind of philosopher's stone. It differs from B, B1 and 2 
 saying that any two adepts could produce the same kind of stone (nor that any adept
 could produce any existing kind); while B, B1 and 2 assert that some kind is both
 existent and could be made by every adept.
-Peirce: CP 4.548 Cross-Ref:††
 Proposition 4, in ordinary language, is: If there be (or were) an adept
 alchemist, there is (or would be) a kind of philosopher's stone that any adept could
 produce. This asserts the substance of B, B1 and 2, but only conditionally upon the
 existence of an adept; but it asserts, what A, A1 and 1 do not, that all adepts could
 produce some one kind of stone, and this is precisely the difference between No. 4
 and A1.
-Peirce: CP 4.548 Cross-Ref:††
 To me it seems plain that the propositions 3 and 4 are both less simple than
 No. 1 and less simple than No. 2, each adding some thing to one of the pair first given
 and asserting the other conditionally. Yet the method of treating the Universes as
 receptacles for the metaphysical Subjects only, involves as a consequence the
 representation of 3 and 4 as quite on a par with 1 and 2.
-Peirce: CP 4.548 Cross-Ref:††
 It remains to show that the other method does not carry this error with it. [If] it
 is the states of things affirmed or denied that are contained in the universes, then the
 
@@ -67569,7 +66041,6 @@ a kind, S, and this is false: That there is an adept, A', and that this is false
 That A' could produce a stone of the kind S. (Where again it is neither asserted
 nor denied that A and A' are identical, but the point is that this proposition
 holds even if they are not identical, thus distinguishing this from 1.)
-Peirce: CP 4.548 Cross-Ref:††
 These forms exhibit the greater complexity of Propositions 3 and 4, by
 showing that they really relate to three individuals each; that is to say, 3 to two
 possible different kinds of stone, as well as to an adept; and 4 to two possible
@@ -67585,7 +66056,6 @@ philosopher's stone such as A could produce.
 found, such that whatever individual the Interpreter may choose to call A',
 Either A is not an adept or B is an existing kind of philosopher's stone, and
 either A' is not an adept or else A' could produce a stone of the kind B.
-Peirce: CP 4.548 Cross-Ref:††
 But while my forms are perfectly analytic, the need of diagrams to exhibit
 their meaning to the eye (better than merely giving a separate line to every
 proposition said to be false) is painfully obtrusive.†P1
@@ -67684,8 +66154,6 @@ But certain parts of other sheets not having the significance of the Phemic
 
 THE TINCTURES
 OF COLOR
-
-[Click here to view]
 
 sheet, but on which Graphs can be scribed and erased, shall be sometimes inserted in
 the Phemic sheet and exposed to view, as the Third Convention shall show. Every
@@ -67799,9 +66267,6 @@ of Identity. An extremity
 
 Figs. 198-199
 
-[Click here
-to view]
-
 of a Line of Identity not abutting upon another such Line in another area shall be
 called a Loose End. A heavy line, whether confined to one area or not (and therefore
 not generally being a Graph-instance) of which two extremities abut upon pegs of
@@ -67879,9 +66344,6 @@ without contrary flexure and returning
 
 Figs. 200-202
 
-[Click here
-to view]
-
 into itself after once crossing itself, and thus forming an outer and an inner "close." I
 shall call the outer boundary the Wall; and the inner, the Fence. In the outer I scribed
 the Antecedent, in the inner the Consequent, of a Conditional Proposition de inesse.
@@ -67907,9 +66369,6 @@ that scroll walls with a void between them collapse even when they belong to
 different scrolls; and you will
 
 Figs. 203-204
-
-[Click here
-to view]
 
 further see that a scroll is really nothing but one oval within another. Since a
 Conditional de inesse (unlike other conditionals) only asserts that either the
@@ -67947,9 +66406,6 @@ Permission, may be transformed into , and thence, by Permission
 No. 1, into .
 
 Figs. 205-207
-
-[Click here
-to view]
 
 Peirce: CP 4.567 Cross-Ref:††
 567. We now come to the Third Permission, which I shall state in a form
@@ -68024,7 +66480,6 @@ Peirce: CP 4.569 Cross-Ref:††
 569. Let us now analyze the interpretation of a Ligature passing through a Cut.
 Take, for example, the Graph of .
 
-[Click here to view]
 The partial Graph on the Place of the Cut asserts that there exists an individual
 denoted by the extremity of the line of identity on the Cut, which is a millionaire. Call
 that individual C. Then, since contiguous dots denote the same individual objects, the
@@ -68095,9 +66550,6 @@ concerning which we have merely to say whether or not they admit
 
 Figs. 211-212
 
-[Click here
-to view]
-
 certain describable relations of their parts. Diagrammatic reasoning is the only really
 fertile reasoning. If logicians would only embrace this method, we should no longer
 see attempts to base their science on the fragile foundations of metaphysics or a
@@ -68113,8 +66565,6 @@ Then, by the permission to deform a line of Identity on a recto Area, a third st
 . Next, by the permission to insert in a verso Area, a fourth step gives . Next, by Deiteration, a fifth step gives . Next, by
 
 Figs. 213-218
-
-[Click here to view]
 
 the collapse of two Cuts, a sixth step gives ; and finally, by omission from a
 recto Area, a seventh step gives the conclusion . The analysis might have
@@ -68189,7 +66639,6 @@ In my next paper, the utility of this diagrammatization of thought in the
 discussion of the truth of Pragmaticism shall be made to appear.†1
 
 Peirce: CP 4.573 Cross-Ref:††
-CHAPTER 7
 
 AN IMPROVEMENT ON THE GAMMA GRAPHS†1E
 
@@ -68264,8 +66713,6 @@ Peirce: CP 4.580 Cross-Ref:††
 
 here to view]†2
 
-[Click
-
 was marred by a certain rule which, from the point of view
 from which I thought the system ought to be regarded, seemed
 quite out of place and inacceptable, and yet which I found
@@ -68274,9 +66721,6 @@ we wish to assert that there is a man every dollar of whose indebtedness will be
 by some man
 
 Figs. 220-221
-
-[Click here
-to view]
 
 or other, perhaps one dollar being paid by one man and another by another man, or
 perhaps all paid by the same man. We do not wish to say how that will be. Here will
@@ -68295,9 +66739,6 @@ we add that A and B are the same man, by drawing a line outside the smallest
 common area of the
 
 Figs. 222-223
-
-[Click here
-to view]
 
 graphs joined, which are here bankrupt and suicide, the strange rule to which I refer is
 that such outer line, because there is no connecting line within the smallest common
@@ -68393,11 +66834,8 @@ consistently with my own convictions, ask the Academy to listen to a discourse u
 Metaphysics.
 
 Peirce: CP 4.585 Cross-Ref:††
-BOOK III
 
 THE AMAZING MAZES
-
-CHAPTER 1
 
 THE FIRST CURIOSITY†1E
 
@@ -68547,7 +66985,6 @@ confusing in other cases. A slight modification of it which I will give as a sec
 form of the rule, sometimes greatly mitigates the inconvenience; and it will be well to
 acquaint yourself with it. But for the most part, when the first form threatens to be
 confusing, it will be best to resort to that form of the rule which I describe as the third.
-Peirce: CP 4.588 Cross-Ref:††
 For the purpose of this "first curiosity" (indeed, in every case where a prime
 number of real cards are dealt out), it matters not what pile you take up first. But in
 certain cases we shall have occasion to deal out into piles a number of cards, such as
@@ -68562,7 +66999,6 @@ any given pile that has just been taken. It is assumed that the whole pack of ca
 dealt consists of a prime number of cards; but, of these cards, the last may be an
 imaginary one, provided the pile on which it is imagined regularly to fall be taken up
 first.
-Peirce: CP 4.588 Cross-Ref:††
 First Form of the Rule. Count from the place of the extreme right-hand pile,
 as zero, either way round, clockwise or counter-clockwise -- preferably in the shortest
 way -- to the place of the pile on which the last card, real or imaginary, fell. Then,
@@ -68571,31 +67007,23 @@ places or have already been picked up, from the place of the pile last taken, in
 same direction, up to the same number, you will reach the place of the next pile to be
 taken.
 
-[Click here to view]
-
-Peirce: CP 4.588 Cross-Ref:††
 Example. If 13 cards are dealt into five piles, the thirteenth card will fall on
 the second pile from the extreme right-hand pile going round counter-clockwise.
 Supposing, then, that the first pile taken is the right-handmost but one, they are all to
 be taken in the order marked in .
-Peirce: CP 4.588 Cross-Ref:††
 Second Form. Proceed as in the first form of the rule until you have repassed
 the place of the first pile taken. You will then always find that the place of the last
 pile taken is nearer to that of some pile, P, previously taken, than it is to the place of
 that taken immediately before it. Then, the next pile to be taken will be in the same
 relation of places to the pile taken next after the pile P.
-Peirce: CP 4.588 Cross-Ref:††
 Example. Let 13 cards be dealt into 9 piles. Then the last card will fall on the
 pile removed 4 places clockwise from the extreme right-hand pile. Then, when you
 have removed four piles according to the first form of the rule, you will at once
 perceive, as shown in (where it is assumed that
 
-[Click here to view]
-
 the extreme left-hand pile was the one to be taken up first), that for the rest of the
 regathering, you have simply to take the pile that stands immediately to the left of the
 place of the last previous removal but one.
-Peirce: CP 4.588 Cross-Ref:††
 Third Form. In this form of the rule vacant places are not counted, but only
 the remaining piles, which is sometimes much less confusing. It is requisite, however,
 carefully to note the place of the pile first taken. You begin as in the first form of the
@@ -68604,7 +67032,6 @@ diminish the number of your count by one, beginning with the count then in progr
 and you adhere to this number until you pass the same place again, and consequently
 again diminish the number of your count, which will thus ultimately be reduced to
 one, when you will take every pile you come to.
-Peirce: CP 4.588 Cross-Ref:††
 Example. Let a pack of 52 cards be dealt into 22 piles. The first pile taken up
 must be the one upon which the imaginary fifty-third card falls. It is assumed that,
 before the deal the cards were arranged in suits in the order ♦ ♠ ♥ ♣ and in each suit
@@ -68621,7 +67048,6 @@ each count is followed by a note of admiration that is to be understood as a com
 to gather up that pile. Beneath it is a heavy faced number, which is the ordinal number
 of that removal.
 
-[Click here to view]
 Peirce: CP 4.589 Cross-Ref:††
 589. I hate to bore readers who are capable of exact thought with
 redundancies; but others often deploy such brilliant talents in not understanding the
@@ -68641,7 +67067,6 @@ good deal upon the stupidity of the company; for an inference might be drawn whi
 would go far toward destroying the surprise of the result. Nothing absolutely prevents
 the cards from being cut and dealt any number of times.
 
-[Click here to view]
 Peirce: CP 4.591 Cross-Ref:††
 591. When the number of piles for the last dealing has been given out, you
 will have to ascertain what transposition of the black cards is required. There are three
@@ -68653,7 +67078,6 @@ here naturally understand those that have taken place since the last shifting of
 black row. If a wrong shift has been made, the simplest way to correct it, after new
 cuttings and dealings, is to resort to a peep at the black ace, and to determining where
 it ought to be in the third way explained below.
-Peirce: CP 4.591 Cross-Ref:††
 Thus, if the red cards have been dealt into 5 piles and into 3 piles, since 3
 times 5 make 15, and 15-13 = 2, the cyclical product is 2. You now proceed to
 ascertain how many times 1 has to be cyclically doubled to make that cyclical
@@ -68675,7 +67099,6 @@ The cyclical half of X is 5;
 The cyclical half of 5 is (4/2)+7 = 9;
 The cyclical half of 9 is (8/2)+7 = J;
 The cyclical half of J is (X/2)+7 = Q.
-Peirce: CP 4.591 Cross-Ref:††
 If the cyclical product of the numbers of piles in the dealings is one of the first
 six results of doubling one, you will have (when the time comes) to bring one card
 from the right-hand end of the row of black cards to the left-hand end for each such
@@ -68689,7 +67112,6 @@ the left-hand end of the row to the right-hand end of the row. 6X8-3X13 = 9 and 
 takes 4 cyclical halvings to give 9. If the product of the numbers of piles in the
 dealings is one more than a multiple of 13, the row of black cards is to remain
 unshifted.
-Peirce: CP 4.591 Cross-Ref:††
 The second way of determining how the black cards are to be transposed is
 simply, during the last of the dealings, to note what card is laid upon the king. The
 face-value of this card is the ordinal, or serial place in the row, counting from the
@@ -68707,14 +67129,12 @@ one for you to get sight of, by a similar imitation blunder. In either case, the
 so aim to get sight of would show the right place for the ace in the row. But if you
 doubt your ability to be gracefully awkward, it always remains open to you to ask to
 have the red packet cut again and a number of piles for a new deal to be ordered.
-Peirce: CP 4.591 Cross-Ref:††
 The third way of determining the proper transposition of the black cards is a
 slight modification of the second. It consists in looking at the card whose back is
 against the face of the king, when you come to cut the red packet so as to bring the
 king to the face. (Any practical psychologist, such as a prestidigitator must be, can,
 with the utmost ease, look for the card he wants to see, and can inspect it without
 detection.)
-Peirce: CP 4.591 Cross-Ref:††
 But whichever of these methods you employ, you should not touch the row of
 black cards until the red cards having been regathered after the last dealing, you have
 said something like this: "Now I think that all these dealings and cuttings and
@@ -68880,8 +67300,6 @@ Dealing into 3 or into 9 piles will give 4 circuits round three inscribed equila
 triangles. Finally, dealing into 12 piles, with regathering, etc., according to rule,
 simply reverses the
 
-[Click here to view]
-
 order so that the ace and queen, the 2 and knave, the 3 and ten, etc., change places.
 Peirce: CP 4.595 Cross-Ref:††
 It has already been made evident that if any prime number, P, of cards, each
@@ -68964,7 +67382,6 @@ Peirce: CP 4.598 Cross-Ref:††
 itself, you will want to know what evidence there is of the truth of what I assert, that
 there is some number of piles into which any prime number of cards must be dealt out
 one less than that prime number of times before they return to their original order.
-Peirce: CP 4.598 Cross-Ref:††
 If these maxims meet your approval, and you read this screed at all, you will
 certainly desire to see my proposition proved. At any rate, I shall assume that such is
 your desire. Very well; proofs can be found in all the books on the subject from the
@@ -68983,7 +67400,6 @@ since there is no number of piles less than one, the theorem, in this case, redu
 to an identical proposition; while if 1 be considered to be a prime number, the
 proposition is falsified since there is no number of piles into which one card can be
 dealt and regathered according to the rule, which requires S to be less than P.
-Peirce: CP 4.598 Cross-Ref:††
 Let our first example be that of P = 17. Then P-1 = 16; and unless there be a
 single circuit of 16 face-values, which my whole present object is to show that there
 must be, all the circuits must either be one or more sets of 8 circuits of 2 values each,
@@ -69041,7 +67457,6 @@ me to prove that there are no more. The equation (z2)4 = z8 = 1 shows that z2 fu
 the definition of y and can therefore have no more than the four values, 1, {x}, and the
 two values of {é}. Now if z2 = 1, z can, as we have seen in the case of x, have no
 other values than z = 1 and z = {é}, both of which are values of y.
-Peirce: CP 4.598 Cross-Ref:††
 If z2 = {x}, as we have seen in regard to y, z can have no other values than the
 two values of {é}, which are again values of y. Now let us suppose that z has four
 values, Sii, Svi, Sx, and Sxiv, that are not values of y; and let us define {z} as any
@@ -69051,7 +67466,6 @@ exactly like the foregoing as to be hardly worth giving. I will relegate it to a
 paragraph of its own that shall be both eusceptic and euskiptatic -- "what horrors!" I
 hear from the mouths of those moderns who abominate all manufactures of Hellenic
 raw materials, like "skip" and "skimp."
-Peirce: CP 4.598 Cross-Ref:††
 We have seen that either z2 = 1, or z2 = {x}, or z2 = {é}; and also that, in the
 first case, either z = 1 or z = {x}, both of which are values of y; and that, in the second
 case, z has one or other of the two values of {é}. Accordingly, it only remains that
@@ -69062,7 +67476,6 @@ follows that every value of {z} differs from every other value derived from the 
 {é} only by being the negative of it. Now no number has two different negatives; and
 therefore there can be no more than two {z}s to every {é}; and there being no more
 than two {é}s, there can be no more than four {z}s.
-Peirce: CP 4.598 Cross-Ref:††
 Now this is the summary of the whole argument: the 17 cards of the pack
 being consecutively inscribed with numbers from the back to the face of the pack,
 each number of piles into which they are dealt etc. according to the rule acts as a
@@ -69094,18 +67507,15 @@ In 5 circuits of 6 values each;
 In 3 circuits of 10 values each;
 In 2 circuits of 15 values each;
 In 1 circuit of 30 values.
-Peirce: CP 4.599 Cross-Ref:††
 I propose to show as before that if we exclude the last case, the others do not
 account for the effects of so many as 30 different multipliers. In the first place, as in
 the last example, but one multiplier will give circuits of one value each; and but one
 other multiple will give circuits of only two values each. We may call the former Sxxx
 and the latter Sxv.
-Peirce: CP 4.599 Cross-Ref:††
 The problems of 10 circuits of 3 values each and of 6 circuits of 5 values each
 can be treated by exactly the same method, 3 and 5 being prime numbers. I shall
 exhibit in full the solution of the more complicated of the two, leaving the other to the
 reader.
-Peirce: CP 4.599 Cross-Ref:††
 I propose, then, to show that there are at most but 5 different values which
 satisfy an equation of the form s5 = 1. The general idea of my proof will be to assume
 that there are 5 different values (for it is indifferent to my purpose whether there be so
@@ -69122,7 +67532,6 @@ I divide my equations by s-t, by s-u, by s-v, by s-w, by t-u, by t-v, by t-w, by
 u-w, and by v-w, I shall certainly introduce the ten premisses that all the five values
 are different; and with a little ingenuity -- a very little, as it turns out -- I ought to
 reach my legitimate conclusion.
-Peirce: CP 4.599 Cross-Ref:††
 I will begin then by subtracting t5 = 1 from s5 = 1, giving s5-t5 = 0; and
 dividing this by s-t, and using ·|·. as the logical sign of disjunction, that is, to mean "or
 else," I get
@@ -69152,7 +67561,6 @@ s2+s t+t2+(s+t)(u+w)+u2+u w+w2 = 0
 Subtracting the last from the last but one, and dividing by v-w, I get
 (4) s+t+u+v+w = 0 ·|· s = t ·|· s = u ·|· s = v ·|· s = w ·|· t = u ·|· t = v ·|· t = w ·|· u
 = v ·|· u = w ·|· v = w.
-Peirce: CP 4.599 Cross-Ref:††
 This shows at once that there cannot be more than 5 different numbers, which,
 counting round any prime cycle, all have their fifth powers equal to 1. By a similar
 process, as you can almost see without slate and pencil, from x3 = 1, y3 = 1, z3 = 1
@@ -69160,7 +67568,6 @@ one can deduce x+y+z = 0 ·|· x = y ·|· x = z ·|· y = z. The existence of t
 3 numbers must, for the present, be regarded as problematic, except that we cannot
 shut our eyes to the fact that 1 is one of the members of each set; as indeed 1δ = 1,
 whatever the exponent may be.
-Peirce: CP 4.599 Cross-Ref:††
 I have numbered some of the equations obtained in the proof that there are no
 more than 5 fifth roots of unity. You will observe that (1) equates to zero the sum of
 all possible terms of the fourth degree formed by two roots; that (2) equates to zero
@@ -69656,19 +68063,15 @@ final conclusion, rendered this noun inevitable as soon as these neuter abstract
 into the frequent use that they had by Euclid's time. The conclusion always ends with
 the words {hyper edei deixai}, "which had to be shown," quod erat demonstrandum,
 for which Q. E. D. is now put.
-Peirce: CP 4.616 Cross-Ref:††
 I will take at random the twentieth proposition of the first book, to illustrate
 the matter. "In every triangle, any two sides, taken together are always greater than
 the third.
-Peirce: CP 4.616 Cross-Ref:††
 "For let {A}{B}{G} be a triangle. I say that any two sides taken together are
 greater than the third; {B}{A} and {A}{G} than {B}{G}, {A}{B} and {B}{G} than
 {A}{G}, and {B}{G} and {G}{A} than {A}{B}.
-Peirce: CP 4.616 Cross-Ref:††
 "For extend {B}{A} to the point {D}, taking {A}{D} equal to {G}{A}
 [which he has shown in the second proposition always to be possible]; and join {D}
 to {G} by a straight line.
-Peirce: CP 4.616 Cross-Ref:††
 "Now since {D}{A} is equal to {A}{G}, the angle under {A}{D}{G} is equal
 to that under {A}{G}{D} [by the pons asinorum]. Hence, the angle under
 {B}{G}{D} will be greater than that under {A}{D}{G}. [This is a fallacy of a kind
@@ -69685,7 +68088,6 @@ previously been demonstrated], therefore {D}{B} is greater than {B}{G}. But
 {B}{G}. Similarly, we shall [i.e., could] show that {A}{B} and {B}{G} are greater
 than {G}{A}, and {B}{G} and {G}{A} than {A}{B}.
 
-Peirce: CP 4.616 Cross-Ref:††
 "In every triangle, then, any two sides joined together are greater than the
 third, which is what had to be shown."
 Peirce: CP 4.617 Cross-Ref:††
@@ -69706,9 +68108,6 @@ only say that if a person chooses to use the graphs to work out difficult infere
 with expedition, he must devote some hours daily for a
 
 Figs. 231-232
-
-[Click here
-to view]
 
 week or two to practice with it; and the most efficacious, instructive, and entertaining
 practice possible will be gained in working out his own method of using the graphs
@@ -69732,9 +68131,6 @@ from can be inferred . The cuts perform two functions; that of denial
 and that of determining the order of
 
 Figs. 233-234
-
-[Click here
-to view]
 
 selection of the individual objects denoted by the ligatures. If the outer cuts of any
 graph form a nest with no spot except in its innermost area, then all that part of the
@@ -69786,8 +68182,6 @@ the predication of the definition-term concerning the definitum so far as it can
 concern existential facts. All that we care to express in our graph is so much as may
 be required to deduce every existential fact implied in the existence of a cyclic
 system.
-
-[Click here to view]
 
 Peirce: CP 4.621 Cross-Ref:††
 621. A cyclic system is a system; and a system is a collection having a regular
@@ -69871,8 +68265,6 @@ relation between its members that constitutes it a system.
 
 Figs. 236-237
 
-[Click here
-to view]
 Peirce: CP 4.624 Cross-Ref:††
 624. I will now begin by drawing one of several corollaries that are right at my
 hand. I am always using the words corollary and theorem in the strict sense of the
@@ -69999,7 +68391,6 @@ adopted one, which we will name J, which was not the first member adopted into t
 class, but is A'd by another, which we will name I, we reject from the class both I and
 all that were adopted previously to I.
 
-Peirce: CP 4.627 Cross-Ref:††
 After these supposititious rejections, there is no object of which the predicate,
 "is a member of the class so formed," is true that is not A of any object of which the
 same predicate is true, and therefore, by the definition so often appealed to, this
@@ -70009,7 +68400,6 @@ it as well as every one subsequently taken into it were members of the cyclic sy
 Therefore, this predicate cannot be false of any member of the cyclic system. In other
 words, the class so formed includes all the members of the cyclic system.
 Consequently, there cannot have been any rejections.
-Peirce: CP 4.627 Cross-Ref:††
 Since there were no rejections, the first member adopted must remain a
 member of the class; and since we have seen in a former corollary that every member
 of a cyclic system is A'd by a member of the same system, this first adopted member
@@ -70020,11 +68410,9 @@ adopted one; and by the same rule no member of the class except the first was
 adopted without there being a last previously adopted member. It follows that the
 succession of adoptions cannot, at any part of it, have been endless. This is one of the
 most difficult theorems that I had to prove.
-Peirce: CP 4.627 Cross-Ref:††
 Moreover, every member of the class is by the mode of formation A to one,
 and only to one, member of the class; and consequently the same is true of all the
 members of every cyclic system.
-Peirce: CP 4.627 Cross-Ref:††
 Moreover, every member of the class except the first was only taken in so as
 to be A'd by the last, or, at any rate, by one member only; and the first adopted
 member as we have seen is A'd by the finally adopted member. It cannot be A'd by
@@ -70096,15 +68484,7 @@ relatively to the
 
 :
 
-[Click here to view]
-
-[Click here to view]
-
-[Click here to view]
-
 :
-
-[Click here to view]
 
 other pair; and that that way of passing round the cycle in which U is reached next
 after I is the way in which J is reached next after U, V next after J, and I next after V;
@@ -70124,11 +68504,7 @@ identical,
 
 :
 
-[Click here to view]
-
 :
-
-[Click here to view]
 
 and not the same pair being opposite in both, then two α-conclusions may be drawn in
 which the two correlates that only
@@ -70136,37 +68512,22 @@ appeared once each in the premisses, appear together, and
 
 :
 
-[Click here to view]
 :
-
-[Click here to view]
 
 opposite to one another. Thus, from may be inferred
 . The β-relation lends itself to much further inferential
 
 :
 
-[Click here to view]
+:
 
 :
 
-[Click here to view]
+:
 
 :
 
-[Click here to view]
-
 :
-
-[Click here to view]
-
-:
-
-[Click here to view]
-
-:
-
-[Click here to view]
 
 procedure. In the first place in , the whole graph may be turned round on the
 paper so as to bring each correlate into the place of its opposite. It may also be turned
@@ -70176,8 +68537,6 @@ may be interchanged.
 
 :
 
-[Click here to view]
-
 (And so, consequently, may J and U.) Moreover, from we can infer .
 (Whence it follows that from we can infer .) Also, from we
 can infer . Whence there follow very obviously several transformations. For
@@ -70185,8 +68544,6 @@ example, will be true; and if any three of the four graphs of are true,
 so is the other
 
 :
-
-[Click here to view]
 
 one. It is obvious that the relation β involves cyclical addition-subtraction, by its
 definition.
@@ -70216,7 +68573,6 @@ exponent is N, is the multitude of ways in which every member of a collection of
 multitude N can be related in
 
 :
-[Click here to view]
 
 a given way, each to some single member or other of a collection of multitude M.
 Thus 32 = 9 because the different configurations of are nine in number; while
@@ -70224,7 +68580,6 @@ Thus 32 = 9 because the different configurations of are nine in number; while
 definition of involution which shall be purely
 
 :
-[Click here to view]
 
 ordinal must be quite a complicated affair. We may say, for example, that X1 = X and
 X1+Y = X·XY.
@@ -70606,7 +68961,6 @@ linear relationship, or there might be room for all multitudes, supposing no mul
 is contrary to a linear arrangement.
 
 Peirce: CP 4.643 Cross-Ref:††
-CHAPTER 2
 
 A SECOND CURIOSITY †1
 
@@ -70642,10 +68996,6 @@ squares of the multiplication-table where two lines are occupied, the upper give
 simple product in tridecimal notation, and the lower the remainder of this after
 subtracting the highest less multiple of fifty-three, i.e., of 4♠.
 
-here to view]
-
-[Click
-
 Peirce: CP 4.644 Cross-Ref:††
 644. In order to exhibit the trick, while you are arranging the cards in regular
 order, you may tell some anecdote which involves some mention of the numbers 5
@@ -70680,8 +69030,6 @@ pile. The last deal having been made, you lay all the cards now, backs up, in 4 
 13 cards in each row, leaving small gaps between the third and fourth and sixth and
 seventh cards counting from each end, thus:
 
-[Click here to view]
-Peirce: CP 4.644 Cross-Ref:††
 The object of these gaps is to facilitate the counting of the places from each
 end, both by yourself and by the company of onlookers. If the first or last card is
 either ♠x or ♥4, the first card of the pack will form the left-hand end of the top row,
@@ -70693,7 +69041,6 @@ cards each under the last, the fifth card forming the head of the column next to
 left, and so on, the cards being laid down in successive columns, passing downward
 in each column, and the successive columns toward the right being formed in regular
 order.
-Peirce: CP 4.644 Cross-Ref:††
 You now explain to the company, very fully and clearly, that the upper row
 consists of the places of the diamonds; and you count the places, pointing to each,
 thus "Ace of diamonds, two of diamonds, three; four, five, six; the seven, a little
@@ -70746,7 +69093,6 @@ out the hearts in a parallel row close upon the other side of the diamonds, thei
 increasing in the same direction as the spades, and finally laying out the clubs
 between the diamond-row and the spade-row, their values increasing in the same
 direction as the former.
-Peirce: CP 4.644 Cross-Ref:††
 Not to let slip an opportunity for a logical remark, let me note that, in itself
 
 considered, i.e., regardless of their sequence of values, any one arrangement of the
@@ -70758,7 +69104,6 @@ its place, where i = ±√-1, is far simpler than the arrangement just described
 calling the latter arrangement the "simpler," I use this word in the sense that is most
 important in logical methodeutic; namely, to mean more facile of human imagination.
 We form a detailed icon of it in our minds more readily.)
-Peirce: CP 4.644 Cross-Ref:††
 You now promptly turn down again the four cards that have been turned up
 (for some of the company may have the impression that the proceeding might
 continue indefinitely; and you do not wish to shatter their pleasing illusions), and ask
@@ -70830,7 +69175,6 @@ the cards back to their original order. But a pack of 72 cards would be requisit
 show all the curious effects of this mode of derangement.
 
 Peirce: CP 4.647 Cross-Ref:††
-CHAPTER 3
 
 ANOTHER CURIOSITY†1
 
@@ -71012,12 +69356,9 @@ multitudes, which I have explained in Vol. VII of the Monist.†4
 Peirce: CP 4.658 Cross-Ref:††
 658. Let me now discuss after the fashion of a scholastic disputation the
 following
-Peirce: CP 4.658 Cross-Ref:††
 Question: Whether the cardinal or the ordinal numbers are the pure and
 primitive mathematical numbers.
-Peirce: CP 4.658 Cross-Ref:††
 It would seem that the cardinals are so: for
-Peirce: CP 4.658 Cross-Ref:††
 Firstly. All the writers of arithmetic books say so: Fibonacci,†1 or Leonardo
 of Pisa, the effective introducer into Europe of what we call the Arabic system of
 numerical notation in 1205, although Geber [Gerbert], who became Pope Sylvester II
@@ -71047,15 +69388,12 @@ publishers) several very inferior arithmetics, I never saw but the one copy of h
 excellent work, the one I studied in school at my father's dictation; but I still often
 refer to the arithmetic of Pliny Earl Chase and Horace Mann †11; all these make
 cardinals the fundamental numbers;
-Peirce: CP 4.658 Cross-Ref:††
 Secondly. The forms of the words in all languages show the cardinals to be the
 oldest; and since they thus appear to have been first conceived, that conception must
 be the simplest;
-Peirce: CP 4.658 Cross-Ref:††
 Thirdly. Any person whose head is not cracked by too much study of logic
 will say without hesitation that the cardinals are the original numbers. It is
 common-sense; and common-sense is the safest guide.
-Peirce: CP 4.658 Cross-Ref:††
 Fourthly. It is impossible to form a clear conception of multiplication without
 resort to cardinals; thus 3 times 5 is a collection of 3 members, each a collection of 5
 units. No sense can be attached to the "third fifth," unless you really mean that you
@@ -71063,7 +69401,6 @@ form three collections of five each. In like manner 23 is the number of differen
 in which 3 objects can be distributed among 2 places, while 32 is the number of ways
 in which 2 objects can be distributed among 3 places. But there is no such clear
 conception of the involution of ordinals.
-Peirce: CP 4.658 Cross-Ref:††
 Fifthly. With ordinals alone there would be no fractions; except perhaps in
 Washington, where there is a "4 1-2th" Street!
 Peirce: CP 4.659 Cross-Ref:††
@@ -71688,7 +70025,6 @@ Peirce: CP 4.681 Cross-Ref:††
 dressed in a fantastic garb of artificiality that does not do it justice. It is like an honest,
 self-respecting actor, who, by some unfortunate mistake, happened to be arrested in
 his theatrical dress, should appear before the judge in the guise of Jeremy Diddler.
-Peirce: CP 4.681 Cross-Ref:††
 For my series of rational values, I hope better things. Here there will be no
 need of copulas, because all the terms are different values. We begin by writing
 0/1 1/0
@@ -71710,23 +70046,19 @@ Fourth state:
 0/1 1/4 1/3 2/5 1/2 3/5 2/3 3/4 1/1 4/3 3/2 5/3 2/1 5/2 3/1 4/1 1/0
 Fifth state:
 0/1 1/5 1/4 2/7 1/3 3/8 2/5 3/7 1/2 4/7 3/5 5/8 2/3 5/7 3/4 4/5 1/1 etc.
-Peirce: CP 4.681 Cross-Ref:††
 This series has many curious properties, some of which are very easily proved.
 For example, the series of numerators in any state always begins with the series of the
 preceding state; thus:
 
-Peirce: CP 4.681 Cross-Ref:††
 All the properties of rational values and of their expressions in their lowest
 terms follow from the general fact that they are all contained in their order in the
 series constructed according to this rule.
-Peirce: CP 4.681 Cross-Ref:††
 This at once proves that the ideas of the rational values essentially involves no
 other relation than that of linear succession, and that the equality of parts is not
 presupposed. And since the irrational values are nothing but the limits of series of
 rational values, they also suppose nothing but the linear form of relation. It is because
 [of] this form of relation of rational consequence that numbers are of such stupendous
 importance in reasoning.
-Peirce: CP 4.681 Cross-Ref:††
 But the highest and last lesson which the numbers whisper in our ear is that of
 the supremacy of the forms of relation for which their tawdry outside is the mere shell
 of the casket.
@@ -73520,7 +71852,6 @@ natural tangent. These dots will, then, occur at the following angular distances
 the origin of measurement.
 [Elec. Ed.: See figure ->]
 
-[Click here to view]
 Peirce: CP 4.612 Fn P1 p 508 Cross-Ref:††
 †P1 See Charmides, p. 160A, and the last chapter of the First Posterior
 Analytics [A:34].
@@ -73702,15 +72033,10 @@ Peirce: CP 4.677 Fn 1 p 574
 †1 Op. cit., S. 324f.
 
 Peirce: CP 5 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
-EDITED BY
-CHARLES HARTSHORNE
 AND
-PAUL WEISS
 VOLUME V
 PRAGMATISM AND PRAGMATICISM
-CAMBRIDGE
 HARVARD UNIVERSITY PRESS 1934
 
 Peirce: CP 5 Copyright Page
@@ -73718,17 +72044,12 @@ COPYRIGHT, 1934
 BY THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE
 
 Peirce: CP 5 Introduction p iii
-INTRODUCTION
 
 Peirce's punctuation and spelling have, wherever possible, been retained.
 Titles supplied by the editors for papers previously published are marked with an E,
 while Peirce's titles for unpublished papers are marked with a P. Peirce's titles for
-previously published papers and the editors' titles for unpublished papers are not
 marked. Remarks and additions by the editors are enclosed in light-face square
-brackets. The editors' footnotes are indicated by various typographical signs, while
-Peirce's are indicated by numbers. Paragraphs are numbered consecutively throughout
 the volume. At the top of each page the numbers signify the volume and the first
-paragraph of that page. All references in the indices are to the numbers of the
 paragraphs.
 
 Peirce: CP 5 Introduction p iii
@@ -73736,11 +72057,9 @@ The department and the editors desire to express their gratitude to Dr. Henry
 S. Leonard and Miss Margaret Unangst for their assistance with the proofs, references
 and editorial footnotes.
 
-HARVARD UNIVERSITY
 MARCH, 1934.
 
 Peirce: CP 5 Editorial Note p v
-EDITORIAL NOTE
 
 According to William James, the philosophical doctrine known as pragmatism
 was originated by Charles Sanders Peirce. The present volume contains practically
@@ -73782,25 +72101,20 @@ defined, as older empiricisms affirmed, in terms of mere qualities of sensation 
 emotion. For these qualities are incommunicable (at least in the present state of
 science; cf. 506) and particular (cf. 299ff, 312); whereas intellectual meanings or
 concepts must be public and general (312, 467).
-Peirce: CP 5 Editorial Note p vi
 Thirdly, that which is most general and public is a habit of behavior (486)
 directed towards an end (135, 491). The element of generality, which is never absent
 from the given (181ff, 212, 299ff, 371n), reaches its maximum in purpose; that is, a
 value capable of being embodied in a wide variety of existents (3, 433).
-Peirce: CP 5 Editorial Note p vi
 Fourthly, logic is subsidiary to ethics and esthetics (108ff). The ultimate
 meaning of an intellectual conception is given by its conceivable bearings upon
 deliberate or self-controlled conduct; but conduct that is fully deliberate in this sense
 is ethical and the end which it realizes is esthetic (129ff, 533). Thus pragmatism does
 not subordinate contemplative values to those of expediency (3, 402n, 429).
-Peirce: CP 5 Editorial Note p vi
 Fifthly, pragmatism is conceived to be a method in logic rather than a
 principle of metaphysics. It provides a maxim which determines the admissibility of
 explanatory hypotheses (195ff).
-Peirce: CP 5 Editorial Note p vi
 Sixthly, it entails scholastic realism, which in its final pragmatic interpretation
 (503) means the ascription of purposive habits to nature (107, 603).
-Peirce: CP 5 Editorial Note p vi
 The first book of the volume contains the Pragmatism Lectures of 1903 which
 deal primarily with questions of phenomenology, epistemology and value. The second
 book contains previously published papers. The first three papers show the drift
@@ -73824,10 +72138,6 @@ UNIVERSITY OF CHICAGO
 MARCH, 1934.
 
 Peirce: CP 5 Contents p ix
-CONTENTS
-Paragraph
-Numbers
-Introduction
 Editorial Note
 Preface
 1. A Definition of Pragmatic and Pragmatism
@@ -74010,7 +72320,6 @@ Peirce: CP 5 Contents Book 3 Chapter 6 p xii
 2. On Selecting Hypotheses 590
 
 Peirce: CP 5 Contents Appendix p xi
-APPENDIX
 1. Knowledge 605
 2. Representationism 607
 3. Ultimate
@@ -74018,7 +72327,6 @@ APPENDIX
 4. Mr. Peterson's Proposed Discussion
 
 Peirce: CP 5.1 Cross-Ref:††
-PREFACE
 
 §1. A DEFINITION OF PRAGMATIC AND PRAGMATISM †1E
 
@@ -74265,7 +72573,6 @@ have procured the insertion of the word pragmatism in the Century Dictionary, it
 not seem to me that its vogue was sufficient to warrant that step.†P1
 
 Peirce: CP 5.14 Cross-Ref:††
-BOOK I
 LECTURES ON PRAGMATISMP†1
 
 PRAGMATISM AND PRAGMATICISM
@@ -74338,20 +72645,16 @@ make pragmatism to be a mere maxim of logic instead of a sublime principle of
 speculative philosophy. In order to be admitted to better philosophical standing I have
 endeavored to put pragmatism as I understand it into the same form of a philosophical
 theorem. I have not succeeded any better than this:
-Peirce: CP 5.18 Cross-Ref:††
 Pragmatism is the principle that every theoretical judgment expressible in a
 sentence in the indicative mood is a confused form of thought whose only meaning, if
 it has any, lies in its tendency to enforce a corresponding practical maxim expressible
 as a conditional sentence having its apodosis in the imperative mood.
-Peirce: CP 5.18 Cross-Ref:††
 
 But the Maxim of Pragmatism, as I originally stated it, Revue philosophique
 VII, is as follows:
-Peirce: CP 5.18 Cross-Ref:††
 Considérer quels sont les effets pratiques que nous pensons pouvoir être
 produits par l'objet de notre conception. La conception de tous ces effets est la
 conception complète de l'objet. [p. 48.]
-Peirce: CP 5.18 Cross-Ref:††
 Pour développer le sens d'une pensée, il faut donc simplement déterminer
 quelles habitudes elle produit, car le sens d'une chose consiste simplement dans les
 habitudes qu'elle implique. Le caractère d'une habitude dépend de la façon dont elle
@@ -74369,26 +72672,21 @@ Peirce: CP 5.19 Cross-Ref:††
 19. The utility of the maxim, provided it is only true, appears in a sufficient
 light in the original article. I will here add a few examples which were not given in
 that paper.
-Peirce: CP 5.19 Cross-Ref:††
 There are many problems connected with probabilities which are subject to
 doubt. One of them, for example, is this: Suppose an infinitely large company of
 infinitely rich men sit down to play against an infinitely rich bank at a game of
 chance, at which neither side has any advantage, each one betting a franc against a
 franc at each bet. Suppose that each player continues to play until he has netted a gain
 of one franc and then retires, surrendering his place to a new player.
-Peirce: CP 5.19 Cross-Ref:††
 The chance that a player will ultimately net a gain of a franc may be
 calculated as follows:
-Peirce: CP 5.19 Cross-Ref:††
 Let XL be a player's chance, if he were to continue playing indefinitely, of
 ever netting a gain of 1 franc.
-Peirce: CP 5.19 Cross-Ref:††
 But after he has netted a gain of 1 franc, his chance of doing which is X[1], he
 is no richer than before, since he is infinitely rich. Consequently his chance of
 winning the second franc, after he has won the first, is the same as his chance of
 winning the first franc. That is, it is X[1] and his chance of winning both is X[2] =
 (X[1])2. And so in general, X[L] = (X[1])L.
-Peirce: CP 5.19 Cross-Ref:††
 
 Now his chance of netting a gain of 1 franc, X[1], is the sum of the chances of
 the two ways in which it may come about; namely by first winning the first bet of
@@ -74414,7 +72712,6 @@ X[1] = 1.
 Consequently, the books would say it was dead certain that any player will ultimately
 net his winning of a franc and retire. If so it must be certain that every player would
 win his franc and would retire.
-Peirce: CP 5.19 Cross-Ref:††
 Consequently there would be a continual outflow of money from the bank.
 And yet, since the game is an even one, the banker would not net any loss. How is
 this paradox to be explained?
@@ -74490,20 +72787,16 @@ Peirce: CP 5.21 Cross-Ref:††
 any bearing on this problem, it is obvious that it must be of the nature of a real fact
 and not a mere state of mind. For facts only enter into the solution of the problem of
 insurance. And this fact must evidently be a fact of statistics.
-Peirce: CP 5.21 Cross-Ref:††
 Without now going into certain reasons of detail that I should enter into if I
 were lecturing on probabilities, it must be that probability is a statistical ratio; and
 further, in order to satisfy still more special conditions, it is convenient, for the class
 of problems to which insurance belongs, to make it the statistical ratio of the number
 of experiential occurrences of a specific kind to the number of experiential
 occurrences of a generic kind, in the long run.†1
-Peirce: CP 5.21 Cross-Ref:††
 In order, then, that probability should mean anything, it will be requisite to
 specify to what species of event it refers and to what genus of event it refers.
-Peirce: CP 5.21 Cross-Ref:††
 It also refers to a long run, that is, to an indefinitely long series of occurrences
 taken together in the order of their occurrence in possible experience.
-Peirce: CP 5.21 Cross-Ref:††
 In this view of the matter, we note, to begin with, that a given species of event
 considered as belonging to a given genus of events does not necessarily have any
 definite probability. Because [it may be the case that] the probability is the ratio of
@@ -74520,23 +72813,19 @@ that power in cents,†P1 it is impossible to say what the probability will be t
 comes out a winner. In half of the cases after the first head the next throw will be a
 head and he will receive (-2)0 = 1 cent. Which since it happens half the time will be in
 the long run a winning of 1/2 a cent per head thrown.
-Peirce: CP 5.22 Cross-Ref:††
 But in half of the other half the cases, that is in 1/4 of all the cases, one tail
 will intervene and he will have to receive (-2)1 = -2 cents, i.e., he will have to pay 2
 cents, which happening 1/4 of the time will make an average loss of 1/2 a cent per
 head thrown.
-Peirce: CP 5.22 Cross-Ref:††
 But in half the remaining quarter of the cases, i.e., of all the cases, two tails
 will intervene and he will receive (-2)2 = 4 cents which happening one every eight
 times will be worth 1/2 a cent per head thrown and so on; so that his account in the
 long run will be 1/2-1/2+1/2-1/2+1/2-1/2+1/2-1/2 ad infinitum, the sum of which
 may be 1/2 or may be zero. Or rather it is quite indeterminate.
-Peirce: CP 5.22 Cross-Ref:††
 If instead of being paid (-2)n when n is the number of intervening tails, he
 were paid (-2)n2 the result would be he would probably either win or lose enormously
 without there being any definite probability that it would be winning rather than
 losing.
-Peirce: CP 5.22 Cross-Ref:††
 I think I may recommend this game with confidence to gamblers as being the
 most frightful ruin yet invented; and a little cheating would do everything in it.
 Peirce: CP 5.23 Cross-Ref:††
@@ -75411,8 +73700,6 @@ Imagine that upon the soil of a country, that has a single boundary line thus
 
 [Click here to view], and not
 
-[Click here to
-
 view], or
 [Click here to view], there lies a map of that same country.
 This map may distort the different provinces of the country to any extent. But I shall
@@ -75532,9 +73819,6 @@ Peirce: CP 5.78 Cross-Ref:††
 78. One very naturally and properly endeavors to give an account of the
 universe with the fewest and simplest possible categories.
 Praedicamenta non sunt multiplicanda praeter necessitatem.
-
-[Click here
-to view]
 
 Peirce: CP 5.79 Cross-Ref:††
 79. We ought therefore to admire and extol the efforts of Condillac and the
@@ -77200,20 +75484,16 @@ Peirce: CP 5.171 Cross-Ref:††
 
 171. Concerning the validity of Abductive inference, there is little to be said,
 although that little is pertinent to the problem we have in hand.
-Peirce: CP 5.171 Cross-Ref:††
 Abduction is the process of forming an explanatory hypothesis. It is the only
 logical operation which introduces any new idea; for induction does nothing but
 determine a value, and deduction merely evolves the necessary consequences of a
 pure hypothesis.
-Peirce: CP 5.171 Cross-Ref:††
 Deduction proves that something must be; Induction shows that something
 actually is operative; Abduction merely suggests that something may be.
-Peirce: CP 5.171 Cross-Ref:††
 Its only justification is that from its suggestion deduction can draw a
 prediction which can be tested by induction, and that, if we are ever to learn anything
 or to understand phenomena at all, it must be by abduction that this is to be brought
 about.
-Peirce: CP 5.171 Cross-Ref:††
 No reason whatsoever can be given for it, as far as I can discover; and it needs
 no reason, since it merely offers suggestions.
 Peirce: CP 5.172 Cross-Ref:††
@@ -77381,7 +75661,6 @@ propositions. Cos, cotis, is a whetstone. They appear to me to put the edge on t
 maxim of pragmatism.
 Peirce: CP 5.181 Cross-Ref:††
 181. These cotary propositions are as follows:
-Peirce: CP 5.181 Cross-Ref:††
 (1) Nihil est in intellectu quod non prius fuerit in sensu. I take this in a sense
 somewhat different from that which Aristotle intended.†2 By intellectus, I understand
 the meaning of any representation in any kind of cognition, virtual, symbolic, or
@@ -77395,13 +75674,11 @@ for the other term, in sensu, that I take in the sense of in a perceptual judgme
 starting point or first premiss of all critical and controlled thinking. I will state
 presently what I conceive to be the evidence of the truth of this first cotary
 proposition. But I prefer to begin by recalling to you what all three of them are.
-Peirce: CP 5.181 Cross-Ref:††
 (2) The second is that perceptual judgments contain general elements, so that
 universal propositions are deducible from them in the manner in which the logic of
 relations shows that particular propositions usually, not to say invariably, allow
 universal propositions to be necessarily inferred from them. This I sufficiently argued
 in my last lecture. This evening I shall take the truth of it for granted.
-Peirce: CP 5.181 Cross-Ref:††
 (3) The third cotary proposition is that abductive inference shades into
 perceptual judgment without any sharp line of demarcation between them; or, in other
 words, our first premisses, the perceptual judgments, are to be regarded as an extreme
@@ -77411,7 +75688,6 @@ although of extremely fallible insight. It is true that the different elements o
 hypothesis were in our minds before; but it is the idea of putting together what we had
 never before dreamed of putting together which flashes the new suggestion before our
 contemplation.
-Peirce: CP 5.181 Cross-Ref:††
 On its side, the perceptive judgment is the result of a process, although of a
 process not sufficiently conscious to be controlled, or, to state it more truly, not
 
@@ -77449,7 +75725,6 @@ would doubtless have put the proposition into a shape very different from mine. 
 is the figure (though I cannot draw it as skillfully as he did). It consists of a serpentine
 line. But when it is completely drawn, it appears to be a stone wall.
 
-[Click here
 to view] The point is that there are two ways of conceiving the matter. Both, I beg
 you to remark, are general ways of classing the line, general classes under which the
 line is subsumed. But the very decided preference of our perception for one mode of
@@ -77991,10 +76266,8 @@ seven hours, you have spent in listening to these ideas, have not been altogethe
 wasted.
 
 Peirce: CP 5 Book 2 Question 1
-BOOK II
 
 PUBLISHED PAPERS
-I
 
 QUESTIONS CONCERNING CERTAIN FACULTIES CLAIMED FOR MANP†1
 
@@ -78617,7 +76890,6 @@ reference to the questions of reality, of individuality, and of the validity of 
 logic.
 
 Peirce: CP 5.264 Cross-Ref:††
-II
 SOME CONSEQUENCES OF FOUR INCAPACITIES†1
 
 §1. THE SPIRIT OF CARTESIANISME
@@ -78626,17 +76898,13 @@ SOME CONSEQUENCES OF FOUR INCAPACITIES†1
 Cartesianism -- that which principally distinguishes it from the scholasticism which it
 displaced -- may be compendiously stated as follows:
 
-Peirce: CP 5.264 Cross-Ref:††
 1. It teaches that philosophy must begin with universal doubt; whereas
 scholasticism had never questioned fundamentals.
-Peirce: CP 5.264 Cross-Ref:††
 2. It teaches that the ultimate test of certainty is to be found in the individual
 consciousness; whereas scholasticism had rested on the testimony of sages and of the
 Catholic Church.
-Peirce: CP 5.264 Cross-Ref:††
 3. The multiform argumentation of the middle ages is replaced by a single
 thread of inference depending often upon inconspicuous premisses.
-Peirce: CP 5.264 Cross-Ref:††
 4. Scholasticism had its mysteries of faith, but undertook to explain all created
 things. But there are many facts which Cartesianism not only does not explain but
 renders absolutely inexplicable, unless to say that "God makes them so" is to be
@@ -78646,7 +76914,6 @@ Peirce: CP 5.265 Cross-Ref:††
 effect, Cartesians. Now without wishing to return to scholasticism, it seems to me that
 modern science and modern logic require us to stand upon a very different platform
 from this.
-Peirce: CP 5.265 Cross-Ref:††
 1. We cannot begin with complete doubt. We must begin with all the
 prejudices which we actually have when we enter upon the study of philosophy.
 These prejudices are not to be dispelled by a maxim, for they are things which it does
@@ -78659,7 +76926,6 @@ person may, it is true, in the course of his studies, find reason to doubt what 
 by believing; but in that case he doubts because he has a positive reason for it, and not
 on account of the Cartesian maxim. Let us not pretend to doubt in philosophy what
 we do not doubt in our hearts.
-Peirce: CP 5.265 Cross-Ref:††
 2. The same formalism appears in the Cartesian criterion, which amounts to
 this: "Whatever I am clearly convinced of, is true." If I were really convinced, I
 should have done with reasoning and should require no test of certainty. But thus to
@@ -78674,34 +76940,27 @@ pursue; we can only seek it, therefore, for the community of philosophers. Hence
 disciplined and candid minds carefully examine a theory and refuse to accept it, this
 ought to create doubts in the mind of the author of the theory himself.
 
-Peirce: CP 5.265 Cross-Ref:††
 3. Philosophy ought to imitate the successful sciences in its methods, so far as
 to proceed only from tangible premisses which can be subjected to careful scrutiny,
 and to trust rather to the multitude and variety of its arguments than to the
 conclusiveness of any one. Its reasoning should not form a chain which is no stronger
 than its weakest link, but a cable whose fibers may be ever so slender, provided they
 are sufficiently numerous and intimately connected.
-Peirce: CP 5.265 Cross-Ref:††
 4. Every unidealistic philosophy supposes some absolutely inexplicable,
 unanalyzable ultimate; in short, something resulting from mediation itself not
 susceptible of mediation. Now that anything is thus inexplicable can only be known
 by reasoning from signs. But the only justification of an inference from signs is that
 the conclusion explains the fact. To suppose the fact absolutely inexplicable, is not to
 explain it, and hence this supposition is never allowable.
-Peirce: CP 5.265 Cross-Ref:††
 In the last number of this journal will be found a piece entitled "Questions
 concerning certain Faculties claimed for Man," [Paper No. I] which has been written
 in this spirit of opposition to Cartesianism. That criticism of certain faculties resulted
 in four denials, which for convenience may here be repeated:
-Peirce: CP 5.265 Cross-Ref:††
 1. We have no power of Introspection, but all knowledge of the internal world
 is derived by hypothetical reasoning from our knowledge of external facts.
-Peirce: CP 5.265 Cross-Ref:††
 2. We have no power of Intuition, but every cognition is determined logically
 by previous cognitions.
-Peirce: CP 5.265 Cross-Ref:††
 3. We have no power of thinking without signs.
-Peirce: CP 5.265 Cross-Ref:††
 4. We have no conception of the absolutely incognizable. These propositions
 cannot be regarded as certain; and, in order to bring them to a further test, it is now
 proposed to trace them out to their consequences. We may first consider the first
@@ -78874,22 +77133,18 @@ this character is known to involve. Just as induction may be regarded as the inf
 of the major premiss of a syllogism, so hypothesis may be regarded as the inference
 of the minor premiss, from the other two propositions. Thus, the example taken above
 consists of two such inferences of the minor premisses of the following syllogisms:
-Peirce: CP 5.276 Cross-Ref:††
 1. Every English writing of some length in which such and such characters
 denote e, t, a, and s, has about 11 1/4 per cent. of the first sort of marks, 8 1/2 of the
 second, 8 of the third, and 7 1/2 of the fourth.
-Peirce: CP 5.276 Cross-Ref:††
 This secret writing is an English writing of some length, in which such and
 such characters denote e, t, a, and s, respectively:
 
 .·. This secret writing has about 11 1/4 per cent. of its characters of the first
 kind, 8 1/2 of the second, 8 of the third, and 7 1/2 of the fourth.
-Peirce: CP 5.276 Cross-Ref:††
 2. A passage written with such an alphabet makes sense when such and such
 letters are severally substituted for such and such characters.
 This secret writing is written with such an alphabet.
 .·. This secret writing makes sense when such and such substitutions are made.
-Peirce: CP 5.276 Cross-Ref:††
 The function of hypothesis is to substitute for a great series of predicates
 forming no unity in themselves, a single one (or small number) which involves them
 all, together (perhaps) with an indefinite number of others. It is, therefore, also a
@@ -79665,7 +77920,6 @@ Most ignorant of what he's most assured,
 His glassy essence."
 
 Peirce: CP 5.318 Cross-Ref:††
-III
 
 GROUNDS OF VALIDITY OF THE LAWS OF LOGIC: FURTHER
 CONSEQUENCES OF FOUR INCAPACITIES †1
@@ -80771,7 +79025,6 @@ the community can turn out to be, it is always a hypothesis uncontradicted by fa
 and justified by its indispensableness for making any action rational.
 
 Peirce: CP 5.358 Cross-Ref:††
-IV
 
 THE FIXATION OF BELIEF†1
 
@@ -81345,7 +79598,6 @@ many and as hard to give, and will strive to be the worthy knight and champion o
 from the blaze of whose splendors he draws his inspiration and his courage.
 
 Peirce: CP 5.388 Cross-Ref:††
-V
 HOW TO MAKE OUR IDEAS CLEAR.
 
 §1. CLEARNESS AND DISTINCTNESSE
@@ -81579,10 +79831,6 @@ among the pitfalls of which we ought constantly to beware, especially when we ar
 upon metaphysical ground. One singular deception of this sort, which often occurs, is
 to mistake the sensation
 
-[Click here to view]
-
-[Click here to view]
-
 produced by our own unclearness of thought for a character of the object we are
 thinking. Instead of perceiving that the obscurity is purely subjective, we fancy that
 we contemplate a quality of the object which is essentially mysterious; and if our
@@ -81723,7 +79971,6 @@ according to the rules of the parallelogram of forces. If the reader does not al
 know what this is, he will find it, I hope, to his advantage to endeavor to follow the
 following explanation; but if mathematics are insupportable to him, pray let him skip
 three paragraphs rather than that we should part company here.
-Peirce: CP 5.404 Cross-Ref:††
 A path is a line whose beginning and end are distinguished. Two paths are
 considered to be equivalent, which, beginning at the same point, lead to the same
 point. Thus the two paths, A B C D E and A F G H E (), are equivalent. Paths
@@ -81733,14 +79980,9 @@ original position, when its beginning coincides with that of the other path, the
 also coincide. Paths are considered as geometrically added together, when one begins
 where the other ends; thus
 
-[Click here to view]
-
-[Click here to view]
-
 the path A E is conceived to be a sum of A B, B C, C D, and D E. In the
 parallelogram of the diagonal A C is the sum of A B and B C; or, since A D is
 geometrically equivalent to B C, A C is the geometrical sum of A B and A D.
-Peirce: CP 5.404 Cross-Ref:††
 All this is purely conventional. It simply amounts to this: that we choose to
 call paths having the relations I have described equal or added. But, though it is a
 convention, it is a convention with a good reason. The rule for geometrical addition
@@ -81754,14 +79996,12 @@ lines, for they have only directions and rates. The same thing is true of accele
 or changes of velocities. This is evident enough in the case of velocities; and it
 becomes evident for accelerations if we consider that precisely what velocities are to
 positions -- namely, states of change of them -- that accelerations are to velocities.
-Peirce: CP 5.404 Cross-Ref:††
 The so-called "parallelogram of forces" is simply a rule for compounding
 accelerations. The rule is, to represent the accelerations by paths, and then to
 geometrically add the paths. The geometers, however, not only use the "parallelogram
 of forces" to compound different accelerations, but also to resolve one acceleration
 into a sum of several. Let A B (
 
-[Click here
 to view]) be the path which represents a certain acceleration -- say, such a change in
 the motion of a body that at the end of one second the body will, under the influence
 of that change, be in a position different from what it would have had if its motion
@@ -81771,7 +80011,6 @@ accelerations represented by A C and C B. It may also be considered as the sum o
 very different accelerations represented by A D and D B, where A D is almost the
 opposite of A C. And it is clear that there is an immense variety of ways in which A B
 might be resolved into the sum of two accelerations.
-Peirce: CP 5.404 Cross-Ref:††
 After this tedious explanation, which I hope, in view of the extraordinary
 interest of the conception of force, may not have exhausted the reader's patience, we
 are prepared at last to state the grand fact which this conception embodies. This fact is
@@ -81782,7 +80021,6 @@ relative positions which the bodies in question actually have at the moment,†P
 always receive certain accelerations, which, being compounded by geometrical
 addition, give the acceleration which the body actually experiences.
 
-Peirce: CP 5.404 Cross-Ref:††
 This is the only fact which the idea of force represents, and whoever will take
 the trouble clearly to apprehend what this fact is, perfectly comprehends what force
 is. Whether we ought to say that a force is an acceleration, or that it causes an
@@ -81987,7 +80225,6 @@ art not yet reduced to rules, but of the secret of which the history of science 
 some hints.
 
 Peirce: CP 5.411 Cross-Ref:††
-VI
 
 WHAT PRAGMATISM IS†1
 
@@ -82279,12 +80516,10 @@ preternatural perspicacity, asks questions of a pragmaticist. Everything that mi
 give a dramatic illusion must be stripped off, so that the result will be a sort of cross
 between a dialogue and a catechism, but a good deal liker the latter -- something
 rather painfully reminiscent of Mangnall's Historical Questions.
-Peirce: CP 5.422 Cross-Ref:††
 Questioner: I am astounded at your definition of your pragmatism, because
 only last year I was assured by a person above all suspicion of warping the truth -himself a pragmatist -- that your doctrine precisely was "that a conception is to be
 tested by its practical effects." You must surely, then, have entirely changed your
 definition very recently.
-Peirce: CP 5.422 Cross-Ref:††
 Pragmatist: If you will turn to Vols. VI and VII of the Revue Philosophique,
 or to the Popular Science Monthly for November 1877 and January 1878 [Papers No.
 IV and V], you will be able to judge for yourself whether the interpretation you
@@ -82293,9 +80528,7 @@ mention was not then clearly excluded. The exact wording of the English enunciat
 might conceivably have practical bearing you conceive the object of your conception
 to have. Then your conception of those effects is the WHOLE of your conception of
 the object."†1
-Peirce: CP 5.422 Cross-Ref:††
 Questioner: Well, what reason have you for asserting that this is so?
-Peirce: CP 5.422 Cross-Ref:††
 Pragmatist: That is what I specially desire to tell you. But the question had
 better be postponed until you clearly understand what those reasons profess to prove.
 Peirce: CP 5.423 Cross-Ref:††
@@ -82621,7 +80854,6 @@ for truth not yet apprehended, nor any who would be more sensible of their court
 February 9, 1905.
 
 Peirce: CP 5.438 Cross-Ref:††
-VII
 
 ISSUES OF PRAGMATICISM†1
 
@@ -83190,11 +81422,8 @@ surpassing truth of this for Time as compared with its truth for Space. Time, th
 can only be identified by brute compulsion. But we must not go further.
 
 Peirce: CP 5.464 Cross-Ref:††
-BOOK III
 
 UNPUBLISHED PAPERS
-
-CHAPTER 1
 
 A SURVEY OF PRAGMATICISM†1
 
@@ -83796,7 +82025,6 @@ indeed it is indefinite in every respect which might afford any familiar kind of
 by which any image fairly representing it could be held firmly before the mind and
 examined; so that, in short, it seems to elude reason's application or to slip from its
 grasp.
-Peirce: CP 5.490 Cross-Ref:††
 Various problems answering this description might be instanced; but to fix our
 ideas, I will specify one of them, and will suppose that this is the very one which our
 imaginary inventor wishes to solve. It shall be the following "map-coloring problem":
@@ -83808,7 +82036,6 @@ color the whole area of each region in one color, but never giving to two region
 abut along a common boundary-line the same color; required to ascertain what will be
 the least number of different colors that will always suffice, no matter how the surface
 may have been divided.
-Peirce: CP 5.490 Cross-Ref:††
 Under the high stimulus of his interest in this problem, and with that practical
 knack that we have supposed him to possess in coloring maps without too frequently
 being obliged to go back and alter the colors he had assigned to given regions, we
@@ -83822,7 +82049,6 @@ determinate rule for coloring every map on the two-tunnelled (or, what is the sa
 thing, the two-bridged) everywhere unbounded surface with the fewest possible
 colors, there will be good hope that a demonstration may tread upon the heels of that
 rule, in which case, the problem will be solved in the most convenient form.
-Peirce: CP 5.490 Cross-Ref:††
 But while he may very likely manage to formulate his own usually successful
 way of coloring the regions, it is very unlikely that he will obtain an unfailing rule for
 doing so. For after some of the first mathematicians in Europe had found themselves
@@ -83834,7 +82060,6 @@ that many years later a fatal flaw was discovered in Mr. Kempe's proof. I do not
 remember that I ever knew what the fallacy was. We may assume with confidence,
 then, that our imaginary interpreter will, at length, come to despair of solving the
 problem in that way. What way shall I imagine him to try next?
-Peirce: CP 5.490 Cross-Ref:††
 It will be very natural for him to pass from endeavouring to define a uniformly
 successful rule of procedure, to endeavouring either; first, to define the topical
 conditions under which two different regions must be colored alike, if the colors are
@@ -83860,7 +82085,6 @@ He will also have remarked that there must for each color be at least one region
 that color which abuts upon regions of all the other colors, that for each of these other
 colors there must be at least one region that besides abutting upon the first region
 abuts upon regions of all the remaining colors, etc.
-Peirce: CP 5.490 Cross-Ref:††
 I shall suppose that it now occurs to him that it not only makes no difference
 what the proportionate dimensions either of the whole surface or of any of the regions
 are, but that it is equally indifferent whether any part of the whole surface be flat,
@@ -83878,7 +82102,6 @@ common line, only, which is a ray, and of which any three that do not all contai
 common ray, have one point and only one in common; and further, any two points are
 both contained in one and in only one ray, while any three points not all in one ray are
 contained in one and only one unbounded plane.†P1
-Peirce: CP 5.490 Cross-Ref:††
 But though Topics must be the easiest kind of geometry, yet geometers were
 so accustomed to rely on considerations of measure and of flatness, that when they
 were deprived of these, they did not know how to handle problems; so that, apart from
@@ -84060,7 +82283,6 @@ meditation, is the most precious contribution that has been made to philosophy f
 ages.
 
 Peirce: CP 5.497 Cross-Ref:††
-CHAPTER 2
 
 PRAGMATICISM AND CRITICAL COMMON-SENSISM†1
 
@@ -84144,14 +82366,11 @@ arms, do you not?
 Peirce: CP 5.500 Cross-Ref:††
 500. Jules. Perhaps so, but how do you know that your pragmaticistic doctrine
 is true?
-Peirce: CP 5.500 Cross-Ref:††
 Respondent. Why just place the two doctrines -- pragmaticism and its
 alternative -- side by side in your mind.
-Peirce: CP 5.500 Cross-Ref:††
 Jules. Gracious! Have the gracious gods confined us to two alternatives? I
 don't know what power of two would suffice to count up the varieties of pragmatism
 itself.
-Peirce: CP 5.500 Cross-Ref:††
 Respondent. Yes; but the choice between them shall be considered later.
 Without disrespect to those who only differ from me about the mint and cummin of
 the law, I may speak of the traditional logic as the principal alternative, as presenting
@@ -84168,7 +82387,6 @@ come, in the ninth remove from canary-birds, to substances. Now that substance i
 category is the general opinion of all schools of logicians -- indeed, it is, with the
 unbroken agreement of all, except some who really do thinking on their own account,
 an irregular pluralism of functions.
-Peirce: CP 5.500 Cross-Ref:††
 Jules. Say, with the exception of one curious specimen, the Axi-vectis
 persicus.†P1
 Peirce: CP 5.501 Cross-Ref:††
@@ -84206,7 +82424,6 @@ Jules. Yes, you have asserted that with admirable distinctness. Now I invite
 you to prove it.
 
 Peirce: CP 5.502 Cross-Ref:††
-CHAPTER 3
 
 CONSEQUENCES OF CRITICAL COMMON-SENSISM†1
 
@@ -84220,7 +82437,6 @@ indicating anything not sensory? I, for my part, stick to the one meaning of "is
 rigidly. When you talk of "general objects being real," and the like, you seem not to
 be aware that the verbs "to be," "to be real," and "to exist" have ever precisely one
 and the same significance.
-Peirce: CP 5.502 Cross-Ref:††
 Pragmaticist. My statements today are not designed to answer objections, but
 merely to correct misapprehensions. However, as your objection seems motived by a
 grave misapprehension, I had better set that right. Only in order to guard against my
@@ -84228,13 +82444,9 @@ misapprehending you in my turn, let me ask you whether you mean to say that
 throughout that vast philosophical "treatise" of yours, the signification of the verb "is"
 
 is really and truly in every instance the same.
-Peirce: CP 5.502 Cross-Ref:††
 Doctor X. It is.
-Peirce: CP 5.502 Cross-Ref:††
 Pragmaticist. And everywhere that meaning is "is real"?
-Peirce: CP 5.502 Cross-Ref:††
 Doctor X. Yes.
-Peirce: CP 5.502 Cross-Ref:††
 Pragmaticist. Thanks. Then the misapprehension that motives your objection
 is that you understand me to be more of a scholastic realist than you are, while in fact
 it is the other way. For this signification of "is," which occurs in hundreds of
@@ -84249,7 +82461,6 @@ signification which is one and the same in so many places of your book is a sens
 object. Not Bernardus Carnotensis himself, who seems like you to have combined
 scholastic realism with individualism, went to the length of making any general a
 sensory object.
-Peirce: CP 5.502 Cross-Ref:††
 Doctor X. Now you are quibbling, you know.
 Peirce: CP 5.503 Cross-Ref:††
 503. Pragmaticist. Do not answer me, I beg. For remember that you, Doctor
@@ -84985,7 +83196,6 @@ remember)
 But musical as is Apollo's lute," etc.†2
 
 Peirce: CP 5.538 Cross-Ref:††
-CHAPTER 4
 
 BELIEF AND JUDGMENT
 
@@ -85335,7 +83545,6 @@ so as to subserve desire. If the argument is correct, this applies to any concep
 whatsoever, unless there be a concept that cannot be predicated.
 
 Peirce: CP 5.549 Cross-Ref:††
-CHAPTER 5
 
 TRUTH
 
@@ -85675,7 +83884,6 @@ subjects more complex than propositions. Such is formal truth, which belongs to 
 argumentation which conforms to logical laws.
 
 Peirce: CP 5.574 Cross-Ref:††
-CHAPTER 6
 
 METHODS FOR ATTAINING TRUTH
 
@@ -85692,7 +83900,6 @@ triple the sum, add to this sum the last A but two, and set down the result as t
 A. Now any A, the lower in the column the better, divided by the following A gives a
 
 fraction which increased by 1 is approximately [cube root of 2]
-[Click here to view]
 
 Correct
 
@@ -86424,7 +84631,6 @@ how few were the guesses that men of surpassing genius had to make before they
 rightly guessed the laws of nature. . . .
 
 Peirce: CP 5.605 Cross-Ref:††
-APPENDIX
 
 § 1. KNOWLEDGE †1
 
@@ -88750,48 +86956,30 @@ Peirce: CP 5.614 Fn 1 p 430
 about this time, apparently in honor of his life-long friend, William James.
 
 Peirce: CP 6 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
-EDITED BY
-CHARLES HARTSHORNE
 AND
-PAUL WEISS
 VOLUME VI
 SCIENTIFIC METAPHYSICS
 
-CAMBRIDGE
-HARVARD UNIVERSITY PRESS
 COPYRIGHT, 1935
-BY THE PRESIDENT AND FELLOWS OF
-HARVARD COLLEGE
-PRINTED IN UNITED STATES OF AMERICA
-THE MURRAY PRINTING COMPANY
-CAMBRIDGE, MASSACHUSETTS
 
 Peirce: CP 6 Introduction p iii
-INTRODUCTION
 
 Peirce's punctuation and spelling have, wherever possible, been retained.
 Titles supplied by editors for papers previously published are marked with an E,
 while Peirce's titles for unpublished papers are marked with a P. Peirce's titles for
-previously published papers and the editors' titles for unpublished papers are not
 
 marked. Remarks and additions by the editors are enclosed in light-face square
-brackets. The editors' footnotes are indicated by various typographical signs, while
-Peirce's are indicated by numbers. Paragraphs are numbered consecutively throughout
 the volume. At the top of each page the numbers signify the volume and the first
-paragraph of that page. All references in the indices are to the numbers of the
 paragraphs.
 Peirce: CP 6 Introduction p iii
 The department and the editors desire to express their gratitude to Miss M.
 Hurst and to Mrs. Charles Hartshorne for their assistance with the proofs, references,
 and editorial footnotes.
 
-HARVARD UNIVERSITY
 APRIL, 1935.
 
 Peirce: CP 6 Ed. Note p v
-EDITORIAL NOTE
 
 With the present volume Peirce's philosophical system reaches its culmination
 in a "scientific" metaphysics, the study of "thirdness as thirdness" or "efficient
@@ -88825,12 +87013,8 @@ UNIVERSITY OF CHICAGO
 APRIL, 1935.
 
 Peirce: CP 6 Contents p vii
-CONTENTS
-
-Introduction
 
 Editorial Note
-Paragraph
 Number
 Preface
 1. The Backward State of Metaphysics
@@ -89044,7 +87228,6 @@ Peirce: CP 6 Contents Book 2 Chapter 7 p x
 CHAPTER 7. LOGIC AND SPIRITUALISM
 
 Peirce: CP 6 Contents Appendix p x
-APPENDIX
 
 A. Reply to the Necessitarians; Rejoinder to Dr. Carus
 B. Nominalism Versus Realism
@@ -89052,7 +87235,6 @@ B. Nominalism Versus Realism
 C. What is Meant by "Determined"? 625
 
 Peirce: CP 6.1 Cross-Ref:††
-PREFACE
 
 §1. THE BACKWARD STATE OF METAPHYSICS †1
 
@@ -89227,15 +87409,12 @@ for example, any general tendency in the course of events, any progress in one
 direction on the whole?†3
 
 Peirce: CP 6.7 Cross-Ref:††
-BOOK I
 
 ONTOLOGY AND COSMOLOGY
 
 SCIENTIFIC METAPHYSICS
 
 A. Tychism
-
-CHAPTER 1
 
 THE ARCHITECTURE OF THEORIES†1
 
@@ -89532,19 +87711,15 @@ on the other are to be taken -Peirce: CP 6.24 Cross-Ref:††
 (a) as independent, a doctrine often called monism, but which I would name
 
 neutralism; or,
-Peirce: CP 6.24 Cross-Ref:††
 (b) the psychical law as derived and special, the physical law alone as
 primordial, which is materialism; or,
-Peirce: CP 6.24 Cross-Ref:††
 (c) the physical law as derived and special, the psychical law alone as
 primordial, which is idealism.
-Peirce: CP 6.24 Cross-Ref:††
 The materialistic doctrine seems to me quite as repugnant to scientific logic as
 to common sense; since it requires us to suppose that a certain kind of mechanism
 will feel, which would be a hypothesis absolutely irreducible to reason -- an ultimate,
 inexplicable regularity; while the only possible justification of any theory is that it
 should make things clear and reasonable.
-Peirce: CP 6.24 Cross-Ref:††
 Neutralism is sufficiently condemned by the logical maxim known as
 Ockham's razor, i.e., that not more independent elements are to be supposed than
 necessary. By placing the inward and outward aspects of substance on a par, it seems
@@ -89566,9 +87741,6 @@ generalize is very instructive. Thus, painters are accustomed to think of a pict
 consisting geometrically of the intersections of its plane by rays of light from the
 natural objects to the eye. But geometers use a generalized perspective. For instance,
 in the figure
-
-[Click here
-to view]
 
 let O be the eye, let A B C D E be the edgewise view of any plane, and let a f e D c be
 the edgewise view of another plane. The geometers draw rays through O cutting both
@@ -89733,7 +87905,6 @@ observations can alone bring to the test. May some future student go over this g
 again, and have the leisure to give his results to the world.
 
 Peirce: CP 6.35 Cross-Ref:††
-CHAPTER 2
 
 THE DOCTRINE OF NECESSITY EXAMINED†1
 
@@ -90078,30 +88249,22 @@ Peirce: CP 6.53 Cross-Ref:††
 more closely. Come, my superior opponent, let me learn from your wisdom. It seems
 to me that every throw of sixes with a pair of dice is a manifest instance of chance.
 
-Peirce: CP 6.53 Cross-Ref:††
 "While you would hold a throw of deuce-ace to be brought about by
 necessity?" (The opponent's supposed remarks are placed in quotation marks.)
-Peirce: CP 6.53 Cross-Ref:††
 Clearly one throw is as much chance as another.
-Peirce: CP 6.53 Cross-Ref:††
 "Do you think throws of dice are of a different nature from other events?"
-Peirce: CP 6.53 Cross-Ref:††
 I see that I must say that all the diversity and specificalness of events is
 attributable to chance.
 Peirce: CP 6.54 Cross-Ref:††
 54. "Would you, then, deny that there is any regularity in the world?"
-Peirce: CP 6.54 Cross-Ref:††
 That is clearly undeniable. I must acknowledge there is an approximate
 regularity, and that every event is influenced by it. But the diversification,
 specificalness, and irregularity of things I suppose is chance. A throw of sixes appears
 to me a case in which this element is particularly obtrusive.
-Peirce: CP 6.54 Cross-Ref:††
 "If you reflect more deeply, you will come to see that chance is only a name
 for a cause that is unknown to us."
-Peirce: CP 6.54 Cross-Ref:††
 Do you mean that we have no idea whatever what kind of causes could bring
 about a throw of sixes?
-Peirce: CP 6.54 Cross-Ref:††
 "On the contrary, each die moves under the influence of precise mechanical
 laws."
 Peirce: CP 6.55 Cross-Ref:††
@@ -90279,7 +88442,6 @@ of the principle of universal law; and when once such a doubt has obtained a liv
 root in any man's mind, my cause with him, I am persuaded, is gained.†1
 
 Peirce: CP 6.66 Cross-Ref:††
-CHAPTER 3
 
 CAUSATION AND FORCE†1P
 
@@ -90369,12 +88531,8 @@ convenience, one second.
 Peirce: CP 6.68 Cross-Ref:††
 Then we may make a table thus:
 
-[Click here
-to view]
-
 Or if the intervals are not equal:
 
-[Click here
 to view]†1
 Peirce: CP 6.69 Cross-Ref:††
 69. It will be perceived that there is an essential thirdness, which the principle
@@ -90690,7 +88848,6 @@ they would all be arranged in the order of their velocities; the one with no vel
 returning just as it came, the one with infinite velocity proceeding in a right line
 unchecked,
 
-[Click here
 to view] and all the rest in more or less bent paths.
 Peirce: CP 6.81 Cross-Ref:††
 81. So much for the sifting. Let us next consider how a state of fortuitous
@@ -90765,7 +88922,6 @@ statement is that straight lines are that family of lines which particles, so fa
 are unacted upon, describe, and that equal spaces are such spaces as such a particle
 describes in equal times. There are some further consequences of this principle the
 statement of which it will be convenient to postpone for a few minutes.
-Peirce: CP 6.82 Cross-Ref:††
 In the fourth place, since Space presents a law whose prescriptions are nothing
 but conditions of reactions, and since reaction is Duality, it follows that the conditions
 of the prescriptions of space are necessarily Dual. Hence immediately follow five
@@ -90808,7 +88964,6 @@ placed differently. Hence, not only may different kinds of pairs of particles ac
 differently, but the law of the variation of the action with the relative positions is left
 to depend upon the qualities of the particles, and this so completely that there is
 nothing to prevent a particle exercising different forces on different sides of it.
-Peirce: CP 6.82 Cross-Ref:††
 In the fifth place, from the fact that space presents a law of reciprocal
 reactions, several corollaries follow, particularly these two. First, when one particle,
 A, acts on another, B, this latter, B, will likewise act on A; and moreover this action
@@ -90819,7 +88974,6 @@ two accelerations must be equal, so that the masses of all atomicules are equal.
 this, again, it follows that the masses are unchangeable; and further that if two bodies,
 or aggregates of atomicules, react upon one another in a certain ratio to one another,
 in that same ratio they will also react upon any third body.
-Peirce: CP 6.82 Cross-Ref:††
 A sixth principle, concerning the necessity of which some doubt may be
 entertained, is that, the law presented by space being perfectly general, every motion
 
@@ -90827,7 +88981,6 @@ must admit of receiving the same kind of changes as every other. From this, if i
 admitted, it certainly follows, though the demonstration is far too long to give, that
 space has either 1, 2 or 4 dimensions. Hence, since 1 and 2 dimensionality have been
 already excluded, the number of dimensions ought to be just 4.
-Peirce: CP 6.82 Cross-Ref:††
 I will now mention the postponed corollaries from the third principle. Since
 space has only the being of a law, its places cannot have distinct identities in
 themselves, for distinct identity belongs only to existent things. Hence place is only
@@ -90935,7 +89088,6 @@ discontinuity at the actual instant is that here new premisses, not logically de
 Firsts, are introduced.
 
 Peirce: CP 6.88 Cross-Ref:††
-CHAPTER 4
 
 VARIETY AND UNIFORMITY
 
@@ -91193,12 +89345,10 @@ approaching unity (the whole) belongs, in the course of experience, to a certain
 species; so that, though of itself the knowledge of this uniformity gives no
 information concerning a certain thing or character, yet it will strengthen any
 inductive conclusion of a certain kind.
-Peirce: CP 6.98 Cross-Ref:††
 It is, therefore, a high objective probability concerning an objective
 probability. There are, in particular, four classes of uniformities, the knowledge of
 any of which, or of its falsity, may deductively strengthen or weaken an inductive
 conclusion. These four kinds of uniformity are as follows:
-Peirce: CP 6.98 Cross-Ref:††
 i. The members of a class may present an extraordinary resemblance to one
 another in regard to a certain line of characters. Thus, the Icelanders are said to
 resemble one another most strikingly in their opinions about general subjects.
@@ -91206,7 +89356,6 @@ Knowing this, we should not need to question many Icelanders, if we found that t
 first few whom we met all shared a common superstition, in order to conclude with
 considerable confidence that nearly all Icelanders were of the same way of thinking.
 Philodemus †1 insists strongly upon this kind of uniformity as a support of induction.
-Peirce: CP 6.98 Cross-Ref:††
 ii. A character may be such that, in whatever genus it occurs at all, it almost
 always belongs to all the species of that genus; or this uniformity may be lacking.
 Thus, when only white swans were known, it would have been hazardous to assert
@@ -91215,13 +89364,11 @@ considerably more safe to assert that all crows are black, because blackness is 
 a generic character. This kind of uniformity is especially emphasized by J. S. Mill as
 important in inductive inquiries.†2
 
-Peirce: CP 6.98 Cross-Ref:††
 iii. A certain set of characters may be intimately connected so as to be usually
 all present or all absent from certain kinds of objects. Thus, the different chemical
 reactions of gold are so inseparable that a chemist need only to succeed in getting,
 say, the purple of Cassius to be confident that the body under examination will show
 every reaction of gold.
-Peirce: CP 6.98 Cross-Ref:††
 iv. Of a certain object it may be known that its characteristic is that when it
 possesses one of a set of characters within a certain group of such sets, it possesses
 the rest. Thus, it may be known of a certain man that to whatever party he belongs, he
@@ -91380,7 +89527,6 @@ Peirce: CP 6.101 Cross-Ref:††
 101. (4) There are senses in which nature may not irrationally be held to be
 uniform; but opinions differ very widely as to the extent and nature of this uniformity.
 The chief of these are as follows:
-Peirce: CP 6.101 Cross-Ref:††
 (a) The majority of physicists, at least of the older generation, hold, with
 regard to the physical universe, that its elements are masses, their positions, and the
 variations of these positions with time. It is believed that every motion exactly obeys
@@ -91394,10 +89540,8 @@ probability, discoverable. As for the distribution of potential about an atom or
 corpuscle, it is regular; but there is no ulterior reason for that regularity, or, at least,
 none is probably discoverable. What is absolutely beyond discovery, whether direct
 and specific or indirect and general, may be considered to be non-existent.
-Peirce: CP 6.101 Cross-Ref:††
 From this usual and in some sense standard opinion there are many
 divergences in both directions. First, in the direction of greater uniformity.
-Peirce: CP 6.101 Cross-Ref:††
 (b) Some hold that there is some exact uniformity in the arbitrary constants of
 the motion of the atoms, so that, for example, perhaps at some initial instant they all
 had some symmetrical or regular arrangement, like a pack of cards unshuffled; and
@@ -91407,7 +89551,6 @@ to any purpose, it follows that all kinds of arrangements will be produced, ungo
 by any uniformity, but mere effects of chance. Three stars may, for example, at some
 instant form an equilateral triangle; but there would be no particular reason for this: it
 would be merely a casual coincidence.
-Peirce: CP 6.101 Cross-Ref:††
 (c) Others go farther and maintain that the constants of position and velocity
 are subject to a law not merely formal, but are governed by final causes in such a way
 that there is no arrangement or coincidence whatever which was not specially
@@ -91424,11 +89567,9 @@ values. Any intentional action on the part of a free agent is to be explained in
 same way. If an agent is to be supposed really free, it is difficult to see what other
 physical explanation is compatible with the exactitude of law. This seems to be
 substantially the notion of most of those who have supported free will.
-Peirce: CP 6.101 Cross-Ref:††
 On the other hand, many philosophers suppose a less degree of uniformity in
 nature than is supposed in opinion (a). Of these the following have come to the
 present writer's notice as being actually defended.
-Peirce: CP 6.101 Cross-Ref:††
 (d) Some suppose that while law is absolute, yet there are constantly arising
 cases analogous to unstable equilibrium in which, owing to a passage of a velocity
 through infinity or otherwise, the law does not determine what the motion shall be.
@@ -91449,7 +89590,6 @@ third place, although this speculation wanders so far beyond all present knowled
 nevertheless comes into conflict with a legitimate induction, namely, the supposition
 of any real "singularity" or breach of continuity in nature is in as distinct conflict with
 all our knowledge as is a miracle.
-Peirce: CP 6.101 Cross-Ref:††
 (e) Sundry far less tenable hypotheses of lacunae between inviolable laws
 have often been proposed. One opinion frequently met with is that the law of energy
 does not prescribe the direction of velocity, but only its amount; so that the mind may
@@ -91459,14 +89599,12 @@ curved tube, or other case of an equation of condition. Of course, if mind can
 construct absolute constraints, it can much easier exert force that is finite. Other
 writers suppose lacunae, without telling us of what particular description they are;
 they seem to think law is absolute as far as it goes, but that its jurisdiction is limited.
-Peirce: CP 6.101 Cross-Ref:††
 (f) Much more philosophical and less logically objectionable is the notion of
 St. Augustine and others (it is near to the opinion of Aristotle) that the only
 fundamental kind of causation is the action of final causes, and that efficient causation
 is, in all cases, secondary. Accordingly, when a miracle occurs there is no violation of
 
 the real cursus naturae, but only of the apparent course of things.
-Peirce: CP 6.101 Cross-Ref:††
 (g) The hypothesis suggested by the present writer is that all laws are results
 of evolution; that underlying all other laws is the only tendency which can grow by its
 own virtue, the tendency of all things to take habits. Now since this same tendency is
@@ -91495,14 +89633,11 @@ high, although probably very far indeed from attaining any directly observable
 magnitude. But their effect is to cause the laws of mind to be themselves of so fluid a
 character as to simulate divergences from law. All this, according to the writer,
 constitutes a hypothesis capable of being tested by experiment.
-Peirce: CP 6.101 Cross-Ref:††
 Literature: Besides most treatises on LOGIC (q.v., especially inductive) see
 Renouvier and Prat, La nouvelle Monadologie (1899).
 
 Peirce: CP 6.102 Cross-Ref:††
 B. Synechism and Agapism
-
-CHAPTER 5
 
 THE LAW OF MIND†1
 
@@ -92089,9 +90224,6 @@ the present is a quantity affected by the minus sign; for it is the present that
 future, if there be any effect, not the future that affects the present. Accordingly, the
 curve of insistency is a sort of equilateral hyperbola.
 
-[Click here
-to view]
-
 Such a conception is none the less mathematical, that its quantification cannot now be
 exactly specified.
 Peirce: CP 6.141 Cross-Ref:††
@@ -92382,7 +90514,6 @@ We also notice that the doctrine presents no hindrances to spiritual influences,
 some philosophies are felt to do.
 
 Peirce: CP 6.164 Cross-Ref:††
-CHAPTER 6
 
 THE CONTINUUM
 
@@ -92754,8 +90885,6 @@ would be endless, if it were completed, yet the whole measure of its ys would be
 
 4.
 
-[Click here
-to view]
 Peirce: CP 6.180 Cross-Ref:††
 180. The difficulty of another of my interviewers seemed to me less silly. He
 said, "Is not every one of the parts into which Zeno cuts up the time finite?"
@@ -92927,7 +91056,6 @@ mainspring of my life better than he did. He was even greater [in the] practice 
 the theory of psychology.
 
 Peirce: CP 6.185 Cross-Ref:††
-CHAPTER 7
 
 THE LOGIC OF CONTINUITYP†1
 
@@ -93606,24 +91734,18 @@ Peirce: CP 6.231 Cross-Ref:††
 231. My speech may be tautologous, but I have a positive meaning; and the
 very fact that it is so difficult to express this meaning without tautology is a mark of
 its veraciousness. I may express myself thus:
-Peirce: CP 6.231 Cross-Ref:††
 In quale-consciousness there is but one quality, but one element. It is entirely
 simple.
-Peirce: CP 6.231 Cross-Ref:††
 There are evidences of this on every hand.
-Peirce: CP 6.231 Cross-Ref:††
 Thus consciousness, so far as it can be contained in an instant of time, is an
 example of quale-consciousness. Now everybody who has begun to think about
 consciousness at all has remarked that the present so conceived is absolutely severed
 from past and future. That is, the past and the future are utterly absent in the sense in
 which I am conscious of the now.
-Peirce: CP 6.231 Cross-Ref:††
 So I might express my truth by saying -Peirce: CP 6.231 Cross-Ref:††
 The Now is one, and but one.
-Peirce: CP 6.231 Cross-Ref:††
 The principle of contradiction may be regarded as a formalistic result of the
 same thing. Any object, A, cannot be blue and not blue at once.
-Peirce: CP 6.231 Cross-Ref:††
 It can be blue and hard, because blueness and hardness are not thought of as
 joined in quale-consciousness, one appealing to one experiment and the other to
 another. But A cannot be blue and yellow, because these would blend and so the color
@@ -93636,14 +91758,10 @@ blue and the principle of contradiction would only assert that one judge must be
 
 above those two. But where would be the strife requiring a judge if the
 quale-consciousness were double?
-Peirce: CP 6.232 Cross-Ref:††
 Our truth might therefore be expressed by saying:
-Peirce: CP 6.232 Cross-Ref:††
 The quale-consciousness is not a consciousness of strife, or duality.
-Peirce: CP 6.232 Cross-Ref:††
 The quality itself is nothing in the world but a quale-consciousness of a
 composite photograph or general average of experience.
-Peirce: CP 6.232 Cross-Ref:††
 And if the quality can be double, the principle of contradiction falls to the
 ground.
 Peirce: CP 6.233 Cross-Ref:††
@@ -94842,14 +92960,10 @@ a brief analysis. I omit qualifications, sops thrown to Cerberus, phrases to pla
 Christian prejudice, trappings which serve to hide from author and reader alike the
 ugly nakedness of the greed-god. But I have surveyed my position. The author
 enumerates "three motives to human action:†2
-Peirce: CP 6.291 Cross-Ref:††
 The love of self;
-Peirce: CP 6.291 Cross-Ref:††
 The love of a limited class having common interests and feelings with one's
 self;
-Peirce: CP 6.291 Cross-Ref:††
 The love of mankind at large."
-Peirce: CP 6.291 Cross-Ref:††
 Remark, at the outset, what obsequious title is bestowed on greed -- "the love
 of self." Love! The second motive is love. In place of "a limited class" put "certain
 persons," and you have a fair description. Taking "class" in the old-fashioned sense, a
@@ -94866,7 +92980,6 @@ motive "is the most dangerous one to which society is exposed." Love is all very
 pretty: "no higher or purer source of human happiness exists." (Ahem!) But it is a
 "source of enduring injury," and, in short, should be overruled by something wiser.
 What is this wiser motive? We shall see.
-Peirce: CP 6.291 Cross-Ref:††
 As for public spirit, it is rendered nugatory by the "difficulties in the way of its
 effective operation." For example, it might suggest putting checks upon the fecundity
 of the poor and the vicious; and "no measure of repression would be too severe," in
@@ -95986,22 +94099,18 @@ strength when they testify to internality of origin (which I call being "negativ
 Peirce: CP 6.334 Cross-Ref:††
 334. The following scheme shows the classes:
 
-Peirce: CP 6.334 Cross-Ref:††
 TESTS OF EXTERNALITY
 
 Class I. Affirmatively, the strongest; negatively, the weakest.
-Peirce: CP 6.334 Cross-Ref:††
 Tests by physical concomitants; as by photography, phonography,
 seismography, chemical test-papers; and a great variety of other physical apparatus
 and observations.
 
 Class II. Affirmatively and negatively of middling value.
-Peirce: CP 6.334 Cross-Ref:††
 Tests by the testified experience of other observers, or even of oneself at
 another time, placed in nearly the same circumstances.
 
 Class III. Affirmatively, the weakest; negatively, the strongest.
-Peirce: CP 6.334 Cross-Ref:††
 Criticism of all the circumstances of the apparition, ending with the readiest
 and, in case its evidence should be negative, the most conclusive of all single tests,
 namely, that of making a direct inward effort to suppress the apparition.
@@ -96220,54 +94329,34 @@ Peirce: CP 6.350 Cross-Ref:††
 350. C. S. P. Now let us consider the nature of truth. Before anything can be
 true or false, it is necessary, is it not, that something should be said, whether by
 writing, by speech, or in thought?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Undoubtedly.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. And this must be said concerning something, some subject, must it
 not?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. And something definite must be said of that subject, some predicate,
 must it not?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. The subject must be designated by a word or other sign, must it not?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
 
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. And the predicate must be signified by some word or other sign, must
 it not?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. If it is said that the predicate-sign is [in-]applicable to something to
 which the subject-sign is applicable, that must be true or false, must it not?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. If this is false, then whatever there may be to which the subject-sign is
 applicable the predicate-sign is also applicable, is this not so?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. While if the former is true, the latter is false?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. Thus, if it is said that to whatever there may be to which the
 subject-sign is applicable the predicate-sign is also applicable, this must be either true
 or false.
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. Now is there anything which is true or false which is not of one or
 other of those forms of assertion, or else of a form a mixture of those two?
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. What of the assertion "It rains"?
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. In order to be true or false, this assertion must refer to some time and
 place, and the circumstances under which the assertation was made must have
 indicated a time and place. That indicating circumstance, of which speaker and
@@ -96276,11 +94365,9 @@ was in meaning equivalent to these two: first, there is some time and place indi
 by these circumstances to which the description "it rains" is applicable; and secondly,
 whatever time and place these circumstances indicate is an occasion to which the
 description "it rains" is applicable.
-Peirce: CP 6.350 Cross-Ref:††
 VELIAN. That will do; but what of the assertion "If I had upset my inkstand I
 should have spoiled my manuscript"?
 
-Peirce: CP 6.350 Cross-Ref:††
 C. S. P. The first clause suggests that a certain past occasion or series of past
 occasions have been otherwise indicated to which the meaning is limited, and it
 further calls to mind the proposition "I upset my inkstand"; and now it asserts
@@ -96293,19 +94380,14 @@ be is a series to which the description "I did not upset my inkstand" is applica
 Peirce: CP 6.351 Cross-Ref:††
 351. VELIAN. Let your analysis of that which is true or false be granted,
 provisionally, what then?
-Peirce: CP 6.351 Cross-Ref:††
 C. S. P. Then it follows that that which can be true or false must be one or the
 other.
-Peirce: CP 6.351 Cross-Ref:††
 VELIAN. How so?
-Peirce: CP 6.351 Cross-Ref:††
 C. S. P. In order that my explanation may be fully understood, a little preface
 is desirable. Suppose that this is true: "Under some circumstances, every possible
 course of action will prove fatal." If that is true, then it is true that every possible
 course of action will prove fatal, is it not?
-Peirce: CP 6.351 Cross-Ref:††
 VELIAN. Only under some very peculiar circumstances.
-Peirce: CP 6.351 Cross-Ref:††
 C. S. P. Yes; but I wish my description of what is true or false, to apply to
 what is not only true or false generally, but also to what is true or false under
 conditions already assumed. Whatever may be the limitations previously imposed,
@@ -96315,9 +94397,7 @@ Eleusinian mysteries invariably experiences a feeling of awe. This is true. It i
 therefore true that every person initiated into the Eleusinian mysteries always
 experiences a sentiment of awe; not universally, but only under the limitations already
 understood before this is said.
-Peirce: CP 6.351 Cross-Ref:††
 VELIAN. That is clear.
-Peirce: CP 6.351 Cross-Ref:††
 C. S. P. Another point to be noticed is that given any sign whatever, which we
 may call P, we can always frame a sign which shall be applicable to every object of
 the universe of discourse to which P is inapplicable and which shall be inapplicable to
@@ -96327,16 +94407,13 @@ relation between P and not-P, therefore, is that that to which P and not-P both 
 not in the universe of discourse, and that to everything in the universe of discourse
 
 either P or not-P is applicable.
-Peirce: CP 6.351 Cross-Ref:††
 VELIAN. I do not know that that is true.
-Peirce: CP 6.351 Cross-Ref:††
 C. S. P. But you must allow me to define my own terms as I choose. I propose
 to define not-P as such a sign that it is applicable to everything in the universe of
 discourse unless P is applicable to it; while it shall be inapplicable to everything in
 the universe of discourse to which P is applicable. That is not a statement of fact, but
 simply of my use of the word "not." If you dispute it, you must show that I do not so
 use the word "not.". . .†2
-Peirce: CP 6.351 Cross-Ref:††
 Now, S and P being any two signs, I propose, in case there really is something
 in the universe of discourse to which both S and P are applicable, that is, something to
 which S is applicable but not-P inapplicable, to use the word true in such a sense that
@@ -96358,7 +94435,6 @@ true, but is false in every other case, whether A is false or B is false; but if
 equivalent to asserting that C is false, then I say that the disjunctive assertion, D, is
 false in case both not-A and not-B are false, but is true in every other case whether
 not-A or not-B be true.
-Peirce: CP 6.351 Cross-Ref:††
 VELIAN. What next?
 Peirce: CP 6.352 Cross-Ref:††
 352. C. S. P. Now let us suppose that in the whole universe of discourse there
@@ -96367,17 +94443,13 @@ green, blue, white, reality, non-existence, and anything else you please are uni
 true of black tulip, while not even being black or being a tulip is particularly true of
 black tulip. Everything is universally true of it, but universally nothing is false of it.
 Nothing is particularly true of it, but particularly everything is false of it. You assent?
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. Yes.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. All this is so, because in the case supposed a black tulip is nothing.
 Therefore, instead of nothing being unutterable, and all that, as you say, universally it
 
 is real and non-real, utterable and unutterable, etc. But particularly it is none of these.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. In that case, of Being everything should be universally false, and
 particularly true.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. My dear Velian, leave rattles to babes, and jingles of words to
 Germans; for to an Italian and a Greek, reason is more becoming. Since of nothing,
 everything is true, it follows that of everything, being is true universally, but not at all
@@ -96387,31 +94459,23 @@ choose to extend the name being to everything which can be invented or suggested
 cannot, you will have the notion of a non-notion, which is not even universally itself,
 and of which what you say may be feigned to be true. For the whole thing does not
 even rise to the level of a figment. It is a dream within a dream.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. Why, Pure Being is the very foundation of all wisdom.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. Say rather of that love which winds itself up in needless and senseless
 paradoxes. But to return to nothing. Good father Parmenides was quite right when he
 said "You will never get over this, that nothing is." Why should we wish to?
 Whatever is nothing is, of course. But when he adds the advice to keep your mind
 from the path of a certain inquiry, that is bad advice for a philosopher, no matter what
 the inquiry is.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. But to say that nothing is, is a contradiction in terms!
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. Of course, why should it not be?
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. But [it] is absurd!
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. It is certainly absurd that nothing should be. Being nothing, it is not
 adequately described until it is shown to be absurd. But there is nothing absurd in
 saying so. In geometry we often prove the non-existence of something by showing
 that it would have contrary attributes. That proved, it follows that it is nothing,
 because nothing, and nothing alone, possesses contrary attributes. It is, therefore, an
 important truth, and not absurd, that nothing is absurd.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. You astonish me.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. You say that the name "nothing," {mé on}, is not applicable to
 anything that is. I grant you that, with pleasure. Particularly, everything is false of it.
 Moreover, you say, the word "something" refers exclusively to existing things. You
@@ -96424,17 +94488,13 @@ say that he who uses the word "nothing" does not speak. It would be far truer to
 that he who uses the word "being" does not speak; for to say that whatever may be a
 man is, may be said, exactly or approximately, to convey no information, true or
 false; so that it is all the same as if nothing were said.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. As if nothing were said! So you confess that saying nothing is
 saying nothing.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. My dear Velian, does your whole stock in trade consist of such
 bagatelles as that? Or are you really upon such an intellectual level as to think there is
 anything in such a confusion?
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. No; I admit that having nothing as what was uttered and having
 nothing as one's meaning may be different.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. You do not draw the distinction accurately; but let it go. You
 proceeded to say that nothing which exists is in a relation to a thing that does not
 exist. Understood in a "particular" sense, that is true. For example, loving is a
@@ -96454,25 +94514,21 @@ exist. But even if it did, that would not prevent number from being true of "not
 since existence and everything else is true of nothing. Thus, your proof, that whatever
 be said of nothing is not true, utterly fails. Whatever is said universally of nothing is
 true: whatever is said particularly of nothing is false.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. But let us take an object, say an inkstand. Take away from it its
 visibility, its impenetrability, and every character by which it could manifest itself to
 any sentient being with our senses or with any conceivable senses; so that the very
 gods could not perceive it or any effects of it. It would be reduced to nothing; and it
 would be false and not true that it was visible and impenetrable, and equally false that
 it was invisible or penetrable.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. Yes; I grant that. But this is because you are making those assertions
 in the particular sense. In the very act of denying that these things are true in that
 sense, you are asserting them universally. To say that it is not true that there is an
 invisible nothing, and not true that there is a visible nothing, is just the same as to say
 
 that it is true that whatever there may be that is nothing is both visible and invisible.
-Peirce: CP 6.352 Cross-Ref:††
 VELIAN. But it is nonsense to say that it is false that the inkstand deprived of
 existence is invisible and at the same time that it is false to say that it is visible. For
 everything is either visible or invisible.
-Peirce: CP 6.352 Cross-Ref:††
 C. S. P. Everything is either visible or invisible, and every nothing there may
 be is both visible and invisible. The rule only applies to things of which it is true that
 they exist and false that they do not exist. There are even realities, if we admit the
@@ -96595,72 +94651,47 @@ of generation, or remote matter, that from which it is developed, as a seed or e
 Peirce: CP 6.360 Cross-Ref:††
 360. The varieties of form are so numerous that they may best be taken in
 alphabetical order.
-Peirce: CP 6.360 Cross-Ref:††
 Absolute form: form abstracted from matter.
-Peirce: CP 6.360 Cross-Ref:††
 Accidental form: an accident, or that the presence of which constitutes an
 accident; as music is the accidental form of the musician.
-Peirce: CP 6.360 Cross-Ref:††
 Advenient form: a form subsequent to the final form.
-Peirce: CP 6.360 Cross-Ref:††
 Apprehended form = apprehended species.
-Peirce: CP 6.360 Cross-Ref:††
 Artificial form: a form superinduced by art.
-Peirce: CP 6.360 Cross-Ref:††
 Assistant form: an agent aiding in the realization of a form, especially of that
 whose essential character is to move; as the angel who turns the heavens round once
 every twenty-four hours, or the captain of a ship.
 
-Peirce: CP 6.360 Cross-Ref:††
 Astral form. According to Gilbert (De Magnete), phenomena of electricity are
 produced by a material effluvium, while the action of a magnet takes place directly at
 a distance. Whatever it may be then which constitutes the magnetic field, not being
 matter, must be called form. Gilbert names it forma prima radicalis et astralis.
-Peirce: CP 6.360 Cross-Ref:††
 Common form: a form belonging to a species.
-Peirce: CP 6.360 Cross-Ref:††
 Completive form: used by Aquinas †1 in the sense of the last of the series of
 forms which gradually bring a thing to fully developed existence. By Aristotle called
 last form.†2
-Peirce: CP 6.360 Cross-Ref:††
 Composite form: the form of a collective whole, so far as it is different from
 its parts.
-Peirce: CP 6.360 Cross-Ref:††
 Corporeal form: a form of a corporeal nature. This is used by Aquinas,
 Summa Theologica, pars I. qu. lxv. art. 4. See Material form.
-Peirce: CP 6.360 Cross-Ref:††
 Disponent form: a form rendering matter apt to receive another, principal,
 form. Thus, dryness in wood disposes it to receive combustibility.
-Peirce: CP 6.360 Cross-Ref:††
 Elementary form: one of the four combinations of hot and cold with moist
 and dry which were supposed to characterize the four elements.
-Peirce: CP 6.360 Cross-Ref:††
 Exemplar form: an idea.
-Peirce: CP 6.360 Cross-Ref:††
 Final form: see Completive form.
-Peirce: CP 6.360 Cross-Ref:††
 General form: the form of a genus; as we should now say a generic form.
-Peirce: CP 6.360 Cross-Ref:††
 Immaterial form: a form which neither depends upon matter while it is being
 made nor after it is made; a term employed in the theological doctrine of creation.
-Peirce: CP 6.360 Cross-Ref:††
 Incorruptible form: a form not subject to corruption.
-Peirce: CP 6.360 Cross-Ref:††
 Individual form: in one of the theories of individuation, was a form which by
 existing in matter acquired the power of individuating another form.
-Peirce: CP 6.360 Cross-Ref:††
 Informant form: a form which is a part of the thing of which it is the form.
-Peirce: CP 6.360 Cross-Ref:††
 Inherent form: a form which can only exist in a state of inherence in matter.
 
-Peirce: CP 6.360 Cross-Ref:††
 Intellective form: the mind as form.
-Peirce: CP 6.360 Cross-Ref:††
 Intelligible form: see Sensible form.
-Peirce: CP 6.360 Cross-Ref:††
 Intermediate form: a form having a middle position between an elementary
 and a completive form.
-Peirce: CP 6.360 Cross-Ref:††
 Material form: a term of Scotus, who defines it as follows: "Formam
 materialem dico esse omnem illam, quae ex natura sua necessario inclinatur
 naturaliter, ut sit actus materiae, sive sit substantialis, sive accidentalis." (Op. Oxon.,
@@ -96674,12 +94705,9 @@ materia et forma fit vere unum." Perhaps the most accessible book from which to 
 a hint of the nature of the difficulty which gives rise to this distinction is Bridges'
 edition of what is called The Opus Majus of Roger Bacon, vol. II, pp. 507-511, cap.
 ii.
-Peirce: CP 6.360 Cross-Ref:††
 Mathematical form: an object of mathematical contemplation, and the result
 of mathematical abstraction.
-Peirce: CP 6.360 Cross-Ref:††
 Metaphysical form: form in the philosophical sense.
-Peirce: CP 6.360 Cross-Ref:††
 Native or natural form, forma in natura exsistens, forma naturae, form of a
 nature, is a term going back to John of Salisbury (Opera, ed. Giles, v. 92), and
 closely connected, if not synonymous, with material form. Certain questions started
@@ -96687,7 +94715,6 @@ by Aristotle †1 in Book V of the Metaphysics (of which there is an admirable
 periphrastic translation by Grote, Aristotle, 2d ed., pp. 619 ff.) gave rise to
 discussions in which the doctrine was compared with Christian beliefs; and the
 natural form plays a considerable part in such discussions.
-Peirce: CP 6.360 Cross-Ref:††
 Bacon †2 adopted the term forma naturae. He did not grossly depart from the
 received meaning of the term but, owing to his occupying himself with inquiries quite
 antipodal to those of the scholastics, the two parties did not understand one another.
@@ -96699,9 +94726,7 @@ be twisted to such a purpose as Gilbert put it to (see Astral form), but it was 
 to the mechanical philosophy of Boyle, and only led to wordy and fruitless
 discussions.
 
-Peirce: CP 6.360 Cross-Ref:††
 Participate form: a form considered as it is united with matter.
-Peirce: CP 6.360 Cross-Ref:††
 Preparatory form: a term used by Boyle where disponent form would be
 more technical. He says, "The preparatory form is but (if I may so speak) a harbinger
 that disposes the matter to receive a more perfect form, which, if it be not to be
@@ -96709,32 +94734,23 @@ succeeded by any other more noble, is entitled the specific form of that body; a
 embryo, the vegetative and the sensitive soul is but preparatory to the rational, which
 alone is said to be the specific form of man" (Free Considerations about Subordinate
 Forms).
-Peirce: CP 6.360 Cross-Ref:††
 Physical form: such forms as may form the object of physical inquiries. Of
 course, the term was very differently understood during scholastic times and in the
 17th century. But the above definition covers both uses.
-Peirce: CP 6.360 Cross-Ref:††
 Primary form. There is no such well-recognized term of metaphysics; but a
 remark of William Gilbert leads us to suppose that medical men attached some
 meaning to it.
-Peirce: CP 6.360 Cross-Ref:††
 Principal form is that which per se constitutes a species. Called also specific
 form.
-Peirce: CP 6.360 Cross-Ref:††
 Radical form: see Astral form.
-Peirce: CP 6.360 Cross-Ref:††
 Sensible form. Though it chances that Aristotle nowhere distinguishes
 {morphé} into {aisphété} and {noété}, yet his followers did. Sensible forms are those
 which the outward senses distinguish; intelligible are those which the intellect alone
 can distinguish.
-Peirce: CP 6.360 Cross-Ref:††
 Significate form: a Thomistic term, a form distinguished by a name.
-Peirce: CP 6.360 Cross-Ref:††
 Simple form: form without matter. "Forma simplex, quae est purus actus, est
 solus deus," says St. Thomas.†1
-Peirce: CP 6.360 Cross-Ref:††
 Specific form: see Principal form.
-Peirce: CP 6.360 Cross-Ref:††
 Subsistent form: a form capable of existing separate from matter, as Aquinas
 †1 holds that the angels and departed spirits are.
 Peirce: CP 6.361 Cross-Ref:††
@@ -96797,7 +94813,6 @@ Peirce: CP 6.362 Cross-Ref:††
 
 362. In the following terms, mostly Kantian, prepositional phrases express the
 qualifications.
-Peirce: CP 6.362 Cross-Ref:††
 Form of corporeity: a very common term of scholasticism, originating with
 Avicenna, and used by Aquinas (Summa Theol., pars i. cap. lxvi. art. 2), but more
 particularly by Scotus (in his great discussion Opus Oxon., IV. dist. xi. 9.3, beginning
@@ -96808,26 +94823,21 @@ Thomists, as well as Henry of Ghent, denied this on the ground that a species ha
 one form. Thus a great metaphysical dispute arose. It sprung from the study of the
 doctrine of transubstantiation. See Cavellus, Suppl. ad quaest. Scoti in De Anima,
 disp. i, which is in the Lyons ed. of Scotus, tom. ii.
-Peirce: CP 6.362 Cross-Ref:††
 Form of cognition, in Kant's doctrine, is that element of knowledge which the
 matter of experience must assume in order to be apprehended by the mind. Kant
 seems to have been thinking of legal forms which must be complied with in order to
 give standing before a court. So an English sovereign, in order to be crowned, must,
 as a "matter of form," swear to an intensity of loathing for Romish dogmas which he
 probably regards with great coolness. Kant's definitions are chiefly the following:
-Peirce: CP 6.362 Cross-Ref:††
 "In the phenomenon, that which corresponds to the impression of sense, I call
 the matter of it; while that which constitutes the fact that manifoldness of the
 phenomenon is intuited as ordered in certain relations, I call the form of the
 phenomenon" (Krit. d. Reinen Vernunft, 1st ed., p. 20).
-Peirce: CP 6.362 Cross-Ref:††
 "All cognition requires a concept, be it as imperfect and dark as you will; and
 this, in respect to its form, is always a universal which serves as a rule" (ibid., p. 106).
-Peirce: CP 6.362 Cross-Ref:††
 "The transcendental unity of the synthesis of the imagination is the pure form
 of all possible cognition, through which, consequently, all objects of possible
 experience must a priori be represented" (ibid., p. 118).
-Peirce: CP 6.362 Cross-Ref:††
 "There are two factors in cognition: first, the concept by which any object is
 thought -- that is, the category; and secondly, the intuition by which that object is
 given. For if the concept had had no corresponding intuition, it would be a thought, no
@@ -96835,7 +94845,6 @@ doubt, as far as its form goes; but having no object, no cognition whatsoever [h
 means, whether true or false] of anything would be possible by it; since, so far as I
 should know, there would be nothing, and perhaps could be nothing, to which such a
 concept would be applicable" (2d ed. of the Deduction of the Categories, §22).
-Peirce: CP 6.362 Cross-Ref:††
 "It is not more surprising that the laws of phenomena in nature must agree
 with the understanding and its a priori form, i.e. with its power of combining any
 manifold, than that the phenomena themselves must agree with the a priori form of
@@ -96844,7 +94853,6 @@ merely relative to the mind, as having senses, so laws do not exist in the pheno
 
 but are merely relative to the mind in which the phenomena inhere, that mind
 exercising understanding" (and see the rest of this passage, ibid., §26).
-Peirce: CP 6.362 Cross-Ref:††
 Form of forms. Francis Bacon says "the soul may be called the form of
 forms," which would be a pretty conceit, were it not plagiarized from the serious
 doctrine of Aristotle: {ho nous eidos eidön} (432 a, 2).
@@ -96988,39 +94996,30 @@ Peirce: CP 6.371 Cross-Ref:††
 371. Logical possibility: that of a hypothesis not involving any
 self-contradiction.
 
-Peirce: CP 6.371 Cross-Ref:††
 Mere possibility: that of a state of things which might come to pass, but, in
 point of fact, never will. In common language, exaggerated to the "merest
 possibility."
-Peirce: CP 6.371 Cross-Ref:††
 Metaphysical possibility ought to mean a possibility of existence, nearly a
 potentiality; but the phrase does not seem to be used in that sense, but rather in the
 sense of possibility by supernatural power.
-Peirce: CP 6.371 Cross-Ref:††
 Moral possibility one might expect should be the opposite of moral
 impossibility, meaning, therefore, something reasonably free from extreme
 improbability. But, in fact, it seems to be used to mean what is morally permissible.
-Peirce: CP 6.371 Cross-Ref:††
 Physical possibility: (1) that which a knowledge of the laws of nature would
 not enable a person to be sure was not true; (2) that which might be brought about if
 psychological and spiritual conditions did not prevent, such as the Pope's pronouncing
 ex cathedra as an article of faith the fallibility of all his own utterances.
-Peirce: CP 6.371 Cross-Ref:††
 Practical possibility: that which lies within the power of a person or
 combination of persons under external conditions likely to be fulfilled, and
 questionable chiefly because internal conditions may not be fulfilled.
-Peirce: CP 6.371 Cross-Ref:††
 Proximate possibility. It is very difficult to make out what is meant by this;
 but the phrase is evidently modelled on potentia proxima, which is a state of high
 preparedness for existence; so that proximate possibility would be a high grade of
 possibility in a proposition amounting almost to positive assertion.
-Peirce: CP 6.371 Cross-Ref:††
 Real possibility is possibility in the thing, as contradistinguished from mere
 logical possibility (Scotus, Opus Oxon., I. ii. 7, Ad secundam probationem maioris).
-Peirce: CP 6.371 Cross-Ref:††
 Remote possibility: the possibility of a proposition which is far from being
 positively asserted. Also used in common speech.
-Peirce: CP 6.371 Cross-Ref:††
 Substantive possibility: the admissibility of a pure hypothesis (as illustrated
 above).
 
@@ -97029,22 +95028,18 @@ Peirce: CP 6.372 Cross-Ref:††
 
 372. (1) A virtual X (where X is a common noun) is something, not an X,
 which has the efficiency (virtus) of an X.
-Peirce: CP 6.372 Cross-Ref:††
 
 This is the proper meaning of the word; but (2) it has been seriously
 confounded with "potential," which is almost its contrary. For the potential X is of the
 nature of X, but is without actual efficiency. A virtual velocity is something not a
 velocity, but a displacement; but equivalent to a velocity in the formula, "what is
 gained in velocity is lost in power."
-Peirce: CP 6.372 Cross-Ref:††
 So virtual representation was the non-representation of the American
 colonies in the British Parliament, which was supposed to be replaced by something.
 So Milton asks whether the angels have virtual or immediate touch. So, too, the sun
 was said to be virtualiter on earth, that is, in its efficiency.
-Peirce: CP 6.372 Cross-Ref:††
 (3) Virtual is sometimes used to mean pertaining to virtue in the sense of an
 ethical habit.
-Peirce: CP 6.372 Cross-Ref:††
 Virtual knowledge: a term of Scotus defined by him (Opus Oxon., Pt. I. iii.
 3). . . .
 
@@ -97211,11 +95206,9 @@ whose being consists in the being of certain less fictitious individuals.†1
 Peirce: CP 6.383 Cross-Ref:††
 383. Many adjectives are used to distinguish different kinds of wholes. Certain
 of the phrases may be defined.
-Peirce: CP 6.383 Cross-Ref:††
 Actual whole: any whole which cannot exist without the existence of its parts.
 Usually identified with the Constitute whole. Monboddo's definition (Ancient Met., i.
 479) is not quite accurate.
-Peirce: CP 6.383 Cross-Ref:††
 Collective whole, or aggregate whole: defined by Chauvin as "that which has
 material parts separate and accidentally thrown together into one, as an army," etc.
 But the example shows that organization does not disqualify a whole from being
@@ -97223,42 +95216,30 @@ But the example shows that organization does not disqualify a whole from being
 called collective, although the term totum per aggregationem will no longer be
 applied to it, in that case. In so far as a whole is collective, any other relation between
 its parts is put out of view.
-Peirce: CP 6.383 Cross-Ref:††
 Composite whole: a term of Burgersdicius, who (Inst. Met., I. xxii. §7)
 defines it as "quod ex duabus partibus constat quarum una est in potentia ad alterum
 et altera vice versa actus est alterius." It includes the whole by information and the
 whole by inherence.
-Peirce: CP 6.383 Cross-Ref:††
 Comprehensive whole: a whole of logical comprehension.
-Peirce: CP 6.383 Cross-Ref:††
 Constituent whole: a whole which is essential to its parts.
-Peirce: CP 6.383 Cross-Ref:††
 Constitute whole: a whole whose parts are essential to it. See Actual whole
 (above).
-Peirce: CP 6.383 Cross-Ref:††
 Continuous whole: a continuum regarded as a whole. In order to define it, it
 would first be necessary to define continuity. Now we have, perhaps, not yet
 succeeded in analyzing the conception of continuity; for what the mathematicians call
 by that name, such as the relations of all real quantities capable of being designated to
 an indefinite degree of approximation by means of a whole number and a decimal,
 does not answer the requisites of the problem.
-Peirce: CP 6.383 Cross-Ref:††
 Copulative whole: a whole consisting of a sign which is essentially applicable
 to whatever certain signs, called its parts, are all applicable, but is essentially
 inapplicable to anything to which any one of these signs is inapplicable.
-Peirce: CP 6.383 Cross-Ref:††
 Definite whole: a whole constituted by genus and difference.
-Peirce: CP 6.383 Cross-Ref:††
 Definitive whole: see Definite whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Discrete whole: the same as a Collective whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Disjunctive whole: a whole consisting of a sign which is essentially applicable
 to whatever any one of certain signs, called its parts, is applicable, but is essentially
 inapplicable to anything to which none of these parts is applicable.
-Peirce: CP 6.383 Cross-Ref:††
 Dissimilar whole: same as Heterogeneous whole (below).
-Peirce: CP 6.383 Cross-Ref:††
 Essential whole: great confusion exists in the use of this very common
 expression. Aquinas (Summa Theol., Pt. I. lxxvi. 8) uses it in a broad sense which
 would make it about equivalent to Burgersdicius' composite whole, or perhaps
@@ -97266,79 +95247,52 @@ broader. On the other hand, it is sometimes restricted to the whole per
 
 informationem, and this is perhaps the best settled use. But others make it include the
 physical and the metaphysical whole as its two species.
-Peirce: CP 6.383 Cross-Ref:††
 Extensive whole: a whole of logical extension, usually called a subjective or
 logical whole.
-Peirce: CP 6.383 Cross-Ref:††
 Formal whole: a comprehensive whole, especially of essential
 comprehension. See Actual whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Heterogeneous whole: a term of Aquinas; a whole whose parts are dissimilar
 from the whole.
-Peirce: CP 6.383 Cross-Ref:††
 Homogeneous whole: a term of Aquinas; a whole whose parts are similar to
 the whole, as the parts of a whole of water are.
-Peirce: CP 6.383 Cross-Ref:††
 Integral whole (a term in common use since Abélard's time): Blundevile
 (1599) says, "Whole integral is that which consisteth of integral parts, which though
 they cleave together, yet they are distinct and severall in number, as man's body,
 consisting of head, brest, belly, legs, etc." The usual definition is "quod habet partem
 extra partem," which restricts it to space. Burgersdicius, however, says that parts
 which differ in their ordinal places are partes extra partes.
-Peirce: CP 6.383 Cross-Ref:††
 Integrate whole: a pedantic variant of Integral whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Logical whole: same as Universal whole (below).
-Peirce: CP 6.383 Cross-Ref:††
 Mathematical whole: same as Integral whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Metaphysical whole: a whole in that respect in which a species is the whole of
 its genus and difference. See Formal whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Natural whole: a term proposed by Hamilton †1 to replace Comprehensive or
 Metaphysical whole; as if that were not sufficiently provided with aliases under which
 to hide itself.
-Peirce: CP 6.383 Cross-Ref:††
 Negative whole: a unit regarded as a whole, as in the phrases "deus totus est
 ubique," and "anima est tota in toto corpore."
-Peirce: CP 6.383 Cross-Ref:††
 Physical whole: a whole compounded of substance and accident; but some say
 of matter and form; and some that both come to the same thing. In the peripatetic
 view, however, substance is form, not matter.
-Peirce: CP 6.383 Cross-Ref:††
 
 Positive whole: a whole consisting of parts. See Negative whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Potential whole: same as Universal whole (below); so called because the
 genus does not actually, but only potentially, contain the species, etc.
-Peirce: CP 6.383 Cross-Ref:††
 Potestative whole: a term of Aquinas; equivalent to Potential whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Predicative whole: a whole of logical depth.
-Peirce: CP 6.383 Cross-Ref:††
 Quantitative whole: same as Integral whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Similar whole: see Homogeneous whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Subject whole: same as Subjective whole (below).
-Peirce: CP 6.383 Cross-Ref:††
 Subjective whole: a very venerable name for Universal whole (below).
-Peirce: CP 6.383 Cross-Ref:††
 Substantial whole: a whole of logical breadth.
-Peirce: CP 6.383 Cross-Ref:††
 Universal whole: see Universal.
-Peirce: CP 6.383 Cross-Ref:††
 Whole by accident: such a whole as neither essentially belongs to the parts
 nor the parts to it.
-Peirce: CP 6.383 Cross-Ref:††
 Whole by aggregation or aggregative whole: same as Collective whole
 (above) in an exclusive sense.
-Peirce: CP 6.383 Cross-Ref:††
 Whole by information: a compound of act and power in the same kind, such
 as man, according to the Aristotelian theory of the soul.
-Peirce: CP 6.383 Cross-Ref:††
 Whole by inherence: same as Physical whole (above).
-Peirce: CP 6.383 Cross-Ref:††
 Whole by itself or per se: a whole which essentially belongs to its parts or its
 parts to it.
 
@@ -97393,7 +95347,6 @@ Peirce: CP 6.385 Cross-Ref:††
 385. Scotus says there are two kinds of "perseity," that of a demonstration and
 that of a predicate which belongs immediately to its subject.
 
-Peirce: CP 6.385 Cross-Ref:††
 Per se translates {kath' auto, kath' auton}, etc. Similar phrases occur in
 ordinary Greek. Plato, for example, in the Theaetetus,†2 speaks of {epistémé en
 ekeinö tö onomati, ho ti pot' echei hé psyché hotan auté kath' autén pragmateuétai peri
@@ -97403,7 +95356,6 @@ that he did not himself invent it. Two such passages are Met., {D}. xviii. 2, an
 Post., iv. There are others, but they are less clear. Per se cannot very well be
 understood without some understanding of the phrase secundum quid ({kath' ho}).
 Aristotle †3 says:
-Peirce: CP 6.385 Cross-Ref:††
 "Secundum quid is said in several senses. In one sense it is the species
 ({eidos}) and essence of anything; thus, that secundum quid a man is good is itself
 good. Another sense is in what anything first comes into existence, as colour in a
@@ -97414,7 +95366,6 @@ refers to a cause. 'Secundum quid comes a man' is 'on what account comes he?' an
 paralogism' or 'the syllogism?' Furthermore, secundum quid is said in reference to
 position in space; as 'secundum quid stands he,' or 'secundum quid is he walking.' In
 such phrases it denotes position and place.
-Peirce: CP 6.385 Cross-Ref:††
 "Consequently, per se is necessarily said in different senses. In one sense, per
 se refers to the essence ({to ti én einai}) of anything; as 'Callias is per se Callias,' that
 is, the very essence of Callias. It also refers to whatever is involved in the definition
@@ -97427,21 +95378,18 @@ its very origin. Further, that is per se which has nothing else as its cause. Th
 are many causes of man, such as being an animal, being biped, etc.; yet still man is
 per se man. Further, whatever belongs to one thing alone, and in so far as it is alone,
 is per se; so that what is abstract ({kechörismenon}) is per se."
-Peirce: CP 6.385 Cross-Ref:††
 These five senses are, then: (1) that a substance exists per se and not per
 accidens; (2) that an analytical proposition is true per se, or formally, and not as
 matter of fact; (3) that any character which a thing necessarily assumes by virtue of
 existing, belongs to it per se, and not secundum quid; (4) that which a thing causes of
 itself it does per se, and not per aliud; and (5) that which any abstraction, qua that
 which it is, is, does, or suffers, is per se and not secundum quid.
-Peirce: CP 6.385 Cross-Ref:††
 The second of the above senses is called per se primo modo; the third is called
 per se secundo modo; but a different explanation from the above is often given. In
 reliance particularly on a passage in Aristotle's Met., {Z}. v, it is said that a
 predication is per se secundo modo where the definition of the predicate contains the
 subject.
 
-Peirce: CP 6.385 Cross-Ref:††
 Another important expression is "known per se." A proposition is known per
 se if, and only if, it is cognoscible from its own terms but not cognoscible in any other
 way. For instance, that the letters on this page are black is not known per se, because
@@ -97492,31 +95440,21 @@ existentiam and quoad generationem (that is, the older of two is the prior).
 Peirce: CP 6.388 Cross-Ref:††
 388. (2) In a meaning allied to temporal priority, Aristotle sometimes speaks
 of sense as prior to reason.†1
-Peirce: CP 6.388 Cross-Ref:††
 (3) That which is at an earlier stage of development is also called prior to that
 which is more matured; boyhood is said by Aristotle †2 to be prior to manhood.
-Peirce: CP 6.388 Cross-Ref:††
 (4) So matter is prior to form; and potency to energy.
-Peirce: CP 6.388 Cross-Ref:††
 (5) The simple is prior to the complex; as a point to a line, a line to a surface, a
 surface to a solid.
-Peirce: CP 6.388 Cross-Ref:††
 (6) The rudimentary is prior to the recondite in order of exposition.
-Peirce: CP 6.388 Cross-Ref:††
 (7) In order of arrangement, the thing reached sooner is prior to that reached
 later.
-Peirce: CP 6.388 Cross-Ref:††
 (8) The relatively independent is prior to the relatively dependent, as
 substance to accident, and parts to whole.
-Peirce: CP 6.388 Cross-Ref:††
 (9) That caused thing which is nearer the cause, in any of the four senses of
 cause, is prior to that which is further from the cause.
-Peirce: CP 6.388 Cross-Ref:††
 (10) That is "prior in illation" from which the posterior follows as a rational
 consequence.
-Peirce: CP 6.388 Cross-Ref:††
 (11) The more general is prior to the more special.
-Peirce: CP 6.388 Cross-Ref:††
 (12) That which is more honorable or higher in rank or dignity is prior to that
 which is less so.
 Peirce: CP 6.389 Cross-Ref:††
@@ -97666,11 +95604,8 @@ although there are special cases in which it can be fortified by a similar, but 
 definite, premiss.
 
 Peirce: CP 6.395 Cross-Ref:††
-BOOK II
 
 RELIGION
-
-CHAPTER 1
 
 THE ORDER OF NATURE†1
 
@@ -98323,7 +96258,6 @@ believe what are really the fundamental principles of Christianity are rare to f
 all but these few ought to feel at home in the churches.
 
 Peirce: CP 6.428 Cross-Ref:††
-CHAPTER 2
 
 A RELIGION OF SCIENCEE
 
@@ -98610,7 +96544,6 @@ experiences, worth taking into account in comparison with those great facts of l
 that no man either doubts or ever will doubt.
 
 Peirce: CP 6.452 Cross-Ref:††
-CHAPTER 3
 
 A NEGLECTED ARGUMENT FOR THE REALITY OF GOD†1
 
@@ -99482,7 +97415,6 @@ very rare. It is the nominalists, and the nominalists alone, who indulge in such
 scepticism, which the scientific method utterly condemns.
 
 Peirce: CP 6.494 Cross-Ref:††
-CHAPTER 4
 
 ANSWERS TO QUESTIONS CONCERNING MY BELIEF IN GOD†1P
 
@@ -99963,7 +97895,6 @@ course no particular interest in your sufferings as long as you will not remembe
 present and past life, you know, have you?"†1
 
 Peirce: CP 6.522 Cross-Ref:††
-CHAPTER 5
 
 HUME ON MIRACLES†1P
 
@@ -100391,7 +98322,6 @@ extravagant conclusions of the "higher critics" of ancient history, and which is
 remarkable consonance with the higher teachings of modern science.
 
 Peirce: CP 6.548 Cross-Ref:††
-CHAPTER 6
 
 SCIENCE AND IMMORTALITY†1
 
@@ -100527,7 +98457,6 @@ be turned away from the things of this world, etc. -- unless such deduction has 
 independent sanction of good sense.
 
 Peirce: CP 6.557 Cross-Ref:††
-CHAPTER 7
 
 LOGIC AND SPIRITUALISM†1P
 
@@ -101116,10 +99045,6 @@ Page Par.
 
 602 bis
 
-602 bis
-
-602 bis
-
 602 ter
 
 599, 602
@@ -101128,27 +99053,11 @@ Page Par.
 
 602, 611
 
-602, 611
-
-602, 611
-
-602, 611
-
-602, 611
-
-602 bis
-
 614 bis
-
-602, 611
 
 607, 614 bis
 
 Secs.
-
-602, 611
-
-602 bis
 
 592, 601
 
@@ -101172,7 +99081,6 @@ to deny that the a priori is subjective is to remove its essential character; an
 it both subjective and objective (otherwise than in the sense in which Kant himself
 makes it objective) is uncalled for, and is cut off by Ockham's razor. But when
 synechism has united the two worlds, this view gains new life.
-Peirce: CP 6.590 Cross-Ref:††
 Another thing which has astonished me is Dr. Carus's extravagant laudation
 (PARASYMBOLQX 17) of Venn's highly enlightened and remarkably
 bright-thinking, yet blundering little book, The Logic of Chance.†P1 This is the way
@@ -101186,7 +99094,6 @@ think I learned anything from that except a classification of the philosophies o
 probability. However, after all his eulogy, Dr. Carus only uses the book to quote from
 it Mill's rewording of Kant's definition of causation,†2 which he would better have
 quoted direct.
-Peirce: CP 6.590 Cross-Ref:††
 Let me say, not to Dr. Carus, but to the younger generation of readers, that if
 they imagine that Hamilton, because he is antiquated, is not worth reading, they are
 much mistaken. The Scotistic elements of his philosophy, and his method in the notes
@@ -101194,7 +99101,6 @@ on Reid, are especially worthy of attention. As for Mill, though his philosophy 
 not profound, it is, at least in his Examination of Hamilton, admirably set forth.
 Whoever wishes to appeal to the American philosophical mind needs to be quite
 familiar with the writings of these two men.
-Peirce: CP 6.590 Cross-Ref:††
 Dr. Carus himself accepts all that I hold for erroneous in Kant's definition of
 causation as universal and necessary sequence.†1 Mill merely substitutes the exacter
 words invariable for "universal," and unconditional for "necessary."†P1 In giving his
@@ -101202,11 +99108,9 @@ form of the definition, Mill shows †2 why it is not applicable to the sequence
 and night, namely, that that is not necessary. Yet Dr. Carus writes
 (PARASYMBOLQX 18) of this very same sequence as if it came under Mill's
 definition.†P2
-Peirce: CP 6.590 Cross-Ref:††
 Again, why should he make it "the immortal merit of the great Scotchman"
 (PARASYMBOLQX 22), that is, of Hume, that he admitted the truth of Leibnitz's
 principle?
-Peirce: CP 6.590 Cross-Ref:††
 The famed puzzle of causation is peculiarly understood by Dr. Carus. The
 difficulties which the perusal of Hume suggested to the mind of Kant,†P3 were such
 as belonged to all categories, or general conceptions of the understanding. The
@@ -101217,17 +99121,14 @@ I need hardly say, but a particular variety of universality. But Dr. Carus
 (PARASYMBOLQX 24) passes over this, to dwell upon an entirely different
 objection to causation, namely, that it seems to be a creation out of nothing, and a
 miracle.
-Peirce: CP 6.590 Cross-Ref:††
 I find myself equally at cross-purposes with him, when in
 PARASYMBOLQXPARASYMBOLQX71-77, he speaks of the prevalent views of
 logicians concerning comprehension. This word, in logic, measures the amount of
 predicates or marks attached to a conception;†3 but Dr. Carus's criticisms seem to be
 based upon the idea that by comprehension is meant logical breadth, or the amount of
 subjects to which the conception is applicable.
-Peirce: CP 6.590 Cross-Ref:††
 I am simply gravelled by his remarks (PARASYMBOLQX 95) concerning
 sundry English words.
-Peirce: CP 6.590 Cross-Ref:††
 No more do I know what to make of his praise (PARASYMBOLQX 123) of
 
 the German translation of a French phrase used in the theory of functions, meaning
@@ -101324,13 +99225,11 @@ Peirce: CP 6.595 Cross-Ref:††
 595. Every reader of The Monist knows that our good editor's great word is
 "formal law." The clearest statement he has ever made of this doctrine I find in the
 following two sentences (PARASYMBOLQX 127):
-Peirce: CP 6.595 Cross-Ref:††
 
 "The a priori systems of thought are . . . constructions raised out of the
 recognition of the formal, i.e. relational samenesses that appear in experience. All
 possibilities of a certain class of relations can be exhausted and formulated in
 theorems."†P2
-Peirce: CP 6.595 Cross-Ref:††
 This is perspicuous. For example, of pairs, we can easily show that there are
 but two forms A:A and A:B. This proposition--theorem if you will -- exhausts the
 possibilities. If we make believe there is no danger of falling into error in
@@ -101339,7 +99238,6 @@ eliminated -- then this proposition is absolutely certain. But I will say, at on
 such a proposition is not, in a proper sense, synthetic. It is a mere corollary from the
 definition of a pair. Moreover, its application to experience, or to possible experience,
 opens the door to probability, and shuts out absolute necessity and certainty, in toto.
-Peirce: CP 6.595 Cross-Ref:††
 Concerning points like this, Dr. Carus, in company with the general body of
 thinkers, is labouring under a great disadvantage from not understanding the logic of
 relatives. It is a subject I have been studying for a great many years, and I feel and
@@ -101367,13 +99265,11 @@ phrase from William James. At the same time, the process I am describing, that i
 relative deduction, is perfectly general and demonstrative, and depends upon the truth
 of the assumed premisses, and not, like inductive reasoning, upon the manner in
 which those premisses present themselves.
-Peirce: CP 6.595 Cross-Ref:††
 But the application of the logic of relatives shows that the propositions of
 arithmetic, which Dr. Carus usually adduces as examples of formal law
 (PARASYMBOLQX 15), are, in fact, only corollaries from definitions. They are
 certain only as applied to ideal constructions and, in such application, they are merely
 analytical.
-Peirce: CP 6.595 Cross-Ref:††
 
 The truth is our ideas about the distinction between analytical and synthetical
 judgments is much modified by the logic of relatives, and by the logic of probable
@@ -101404,7 +99300,6 @@ deductive reasoning is really quite different from what it was supposed by Kant 
 and this explains how it is that he and others have taken various mathematical
 propositions to be synthetical which in their ideal sense, as propositions of pure
 mathematics, are in truth only analytical.
-Peirce: CP 6.595 Cross-Ref:††
 Descending from things I can demonstrate to things of which various facts, in
 the light of those demonstrations, fully persuade me, I will say that in my opinion
 there are many synthetical propositions which, if not a priori in Dr. Carus's sense, are,
@@ -101414,7 +99309,6 @@ comes very late. (PARASYMBOLQX 126.)†2 But turn the facts as I will, I cannot
 see that they afford the slightest reason for thinking that such propositions are ever
 absolutely universal, exact, or necessary in their truth. On the contrary, the principles
 of probable inference show this to be impossible.
-Peirce: CP 6.595 Cross-Ref:††
 Dr. Carus adduces the instance of a geometrical proposition, namely, "that two
 congruent regular tetrahedrons, when put together, will form a hexahedron."
 (PARASYMBOLQX 25.) This, he says, seems to be "a very wonderful thing"; for
@@ -101430,7 +99324,6 @@ there is nothing more wonderful about this than that 8 - 2 = 6, which is an easy
 corollary from definitions. Very few propositions in mathematics that appear
 "marvellous" will hold water; and those few excite our astonishment only because the
 real complexity of the conditions are masked in an intuitional presentation of them.
-Peirce: CP 6.595 Cross-Ref:††
 Dr. Carus holds (PARASYMBOLQX 15) that formal knowledge is absolutely
 universal, exact, and necessary. In some cases, as where he says that, given the
 number of dimensions of space, the entire geometry could be deduced
@@ -101438,7 +99331,6 @@ number of dimensions of space, the entire geometry could be deduced
 downright error. In all other cases, the propositions only relate to ideal constructions,
 and their applicability to the real world is at the best doubtful and, as I think, false;
 while in their ideal purity they are not synthetical.
-Peirce: CP 6.595 Cross-Ref:††
 Thus, my good friend and antagonist holds that the combination of oxygen and
 hydrogen to produce water is not "different in principle" from that of the tetrahedra to
 produce a hexahedron. (PARASYMBOLQX 26.) There is all the difference between
@@ -101517,7 +99409,6 @@ Peirce: CP 6.600 Cross-Ref:††
 600.†1 But the ingenious Doctor seeks to bolster up necessity by introducing
 the confused notion of "causation."
 
-Peirce: CP 6.600 Cross-Ref:††
 I do not know where the idea originated that a cause is an instantaneous state
 of things, perfectly determinative of every subsequent state. It seems to be at the
 bottom of Kant's discourse on the subject; yet it accords neither with the original
@@ -101548,13 +99439,11 @@ nothing but a form of expression. We continue, for convenience, to talk of mecha
 phenomena as if they were regulated, in the same manner in which our intentions
 regulate our actions (which is essentially a determination of the future by the past),
 although we are quite aware that it is not really so. Remark how Kant reasons:†1
-Peirce: CP 6.600 Cross-Ref:††
 "If it is a necessary law of our sensibility, and consequently a formal
 condition of all perceptions, that the preceding time determines the following (since I
 can only come to the following through the preceding), then is it also an indispensable
 law of the empirical representation of the time-series that the appearances of the
 preceding time determine every occurrence in the following."
-Peirce: CP 6.600 Cross-Ref:††
 What this leads to is a causality like that of mental phenomena, where it is the
 past which determines the future, and not (in the same sense) the reverse; but the
 doctrine of the conservation of energy consists precisely in the denial that anything
@@ -101573,7 +99462,6 @@ impossible to cement such thought as this into hermetic continuity with the refi
 conceptions of modern dynamics. The statement that every instantaneous state of
 things determines precisely all subsequent states, and not at all any previous states,
 could, I rather think, be shown to involve a contradiction.
-Peirce: CP 6.600 Cross-Ref:††
 The notion which Dr. Carus holds of a cause seems to be that it is a state,
 embracing all the positions and velocities of all the masses at one instant, the effect
 being a similar state for any subsequent instant.
@@ -101590,7 +99478,6 @@ of a system do, if the velocities are taken to be included in these states) the
 determinator, or cause, simply because of the circumstance that it precedes the other
 in time --a circumstance that is upon the principles of dynamics plainly insignificant
 and irrelevant.
-Peirce: CP 6.600 Cross-Ref:††
 Everybody will make slips in the use of words that have been on his lips from
 before the time when he learned to think; but the practice which I endeavor to follow
 in regard to the word cause is to use it in the Aristotelian sense of an efficient cause,
@@ -101606,22 +99493,18 @@ states which belong together as an initial and final aspect of one and the same 
 He neglects to explain how he brings under this formula the inward causation of the
 will and character, as set forth by him in PARASYMBOLQXPARASYMBOLQX
 163-167.
-Peirce: CP 6.601 Cross-Ref:††
 It is unnecessary for me to reply, at length, to an argument so manifestly
 inconclusive. On the one hand, it conflicts with the principle that absolute necessity
 cannot be proved from experience; and, on the other hand, it leaves room for an
 imperfect necessity.
-Peirce: CP 6.601 Cross-Ref:††
 Professor Tait †1 has done an ill office to thought in countenancing the idea
 that the conservation of energy is of the same nature as the "conservation," or rather
 perduration, of matter. Dr. Carus says (PARASYMBOLQX 121) that
 
-Peirce: CP 6.601 Cross-Ref:††
 "The law of the conservation of matter and energy rests upon the experience
 (corroborated by experiments) that causation is transformation. It states that the total
 amount of matter and the total amount of energy remain constant. There is no creation
 out of nothing and no conversion of something into nothing."
-Peirce: CP 6.601 Cross-Ref:††
 The historical part of this statement contains only a small grain of truth; but
 that I will not stop to criticize. The point I wish to make is that the law of the
 conservation of energy is here represented under a false aspect. The true substance of
@@ -101651,7 +99534,6 @@ and the first integral of it will be
 
 By the first law of motion, and the Pythagorean proposition, the part of the
 velocity-square depending on the horizontal component is also constant.
-Peirce: CP 6.601 Cross-Ref:††
 The arbitrary constant, C, plainly has its genesis in the fact that forces do not
 determine velocities, but only accelerations. Its value will be fixed as soon as the
 velocity at any instant is known. This quantity would exist, just the same, and be
@@ -101661,7 +99543,6 @@ independent of the time, and would therefore be "conserved" whether the forces w
 rather, the energy is composed of this constant increased by another which is
 absolutely indeterminable, being merely supposed large enough to make the sum
 positive.
-Peirce: CP 6.601 Cross-Ref:††
 Thus, the law of energy does not prescribe that the total amount of energy
 shall remain constant; for this would be so in any case by virtue of the second law of
 motion; but what it prescribes is that the total energy diminished by the living force
@@ -101683,17 +99564,13 @@ energy gives a remainder which is exclusively positional.
 Peirce: CP 6.602 Cross-Ref:††
 602. Dr. Carus does not make it clear what he means by chance. He does,
 indeed, say (PARASYMBOLQXPARASYMBOLQX 145, 146):
-Peirce: CP 6.602 Cross-Ref:††
 "What is chance?
-Peirce: CP 6.602 Cross-Ref:††
 Chance is any event not especially intended, either not calculated, or, with a
 given and limited stock of knowledge, incalculable."
-Peirce: CP 6.602 Cross-Ref:††
 This defines what he means by a chance event, in the concrete; what he
 understands by probability we are left to conjecture. But from what he says in
 PARASYMBOLQX 147, I infer that he regards it as dependent upon the state of our
 ignorance, and therefore nothing real.
-Peirce: CP 6.602 Cross-Ref:††
 I am, therefore, much puzzled when I find him expressing a conviction
 (PARASYMBOLQXPARASYMBOLQX 88, 156) that chance plays an important
 part in the real world. He explains very distinctly that "when we call a throw of the
@@ -101708,7 +99585,6 @@ than that many things happen which we are not in condition to calculate or predi
 
 This is not playing a part in the world, one would say -- at least, not in the natural
 world; it is only playing a part in our ignorance.
-Peirce: CP 6.602 Cross-Ref:††
 Dr. Carus frequently uses phrases which make us suspect he penetrates
 deeper. Thus, he says, "We do not believe in absolute chance, but we believe in
 chance" (PARASYMBOLQX 144); and again, "Every man is the architect of his own
@@ -101717,14 +99593,12 @@ men." (PARASYMBOLQX 161.) But when we remark the consecution of
 PARASYMBOLQXPARASYMBOLQX 137-162, we feel pretty sure he really sees
 no further. To do so would have been to perceive that indefinitely varied
 specificalness is chance.
-Peirce: CP 6.602 Cross-Ref:††
 For a long time, I myself strove to make chance that diversity in the universe
 which laws leave room for, instead of a violation of law, or lawlessness. That was
 truly believing in chance that was not absolute chance. It was recognizing that chance
 does play a part in the real world, apart from what we may know or be ignorant of.
 But it was a transitional belief which I have passed through, while Dr. Carus seems
 not to have reached it.
-Peirce: CP 6.602 Cross-Ref:††
 As for absolute chance, Dr. Carus makes the momentous admission that it is
 "not unimaginable." (PARASYMBOLQX 150.) If so, its negation, or absolute
 necessity, cannot be a formal principle.
@@ -101794,14 +99668,12 @@ led me many years ago to the conclusion that science is nothing but a developmen
 our natural instincts. So much for my theory of scientific logic. It is as totally opposed
 as anything can be to Dr. Carus's theory (PARASYMBOLQX 69, note; and Ursache,
 Grund und Zweck, p. 2) that originality is out of place in science.
-Peirce: CP 6.604 Cross-Ref:††
 But in my practice of scientific reasoning, Dr. Carus accuses me of being what
 he calls a "constructionist"; that is, a theorizer unguided by indications from
 observation or accepted facts. To a mind upon whom that celebrated and splendid
 chapter of Kant upon the architectonical method failed to make a deep impression I
 may appear so; but travesty is in truth hardly too strong a word to describe the
 account of my method by Dr. Carus.
-Peirce: CP 6.604 Cross-Ref:††
 Perhaps exaggeration is not without its value. If so, let me sum up the method
 Dr. Carus recommends. Eschew originality is its pious formula; do not think for
 yourself, nor countenance results obtained by original minds. Distrust them; they are
@@ -101811,7 +99683,6 @@ those who seek the sad notoriety of having unsettled belief.†P1 Flee all philo
 which smack of this aberrant nineteenth century.†P2 This theory of Dr. Carus
 condemns itself; for it is highly original, and soars into the free ether untrammelled by
 historic facts.
-Peirce: CP 6.604 Cross-Ref:††
 Kepler comes very close to realizing my ideal of the scientific method; and he
 is one of the few thinkers who have taken their readers fully into their confidence as
 to what their method really has been.†P3 I should not feel justified in inflicting upon
@@ -101847,11 +99718,9 @@ anybody has been surprised to find my subsequent papers developing thoughts whic
 they were unable to foresee from my first, it is only what I warned people from the
 outset that they would find to happen. Nor have the greatest of these surprises yet
 been reached.†P1
-Peirce: CP 6.604 Cross-Ref:††
 The next series of facts reviewed was that of the history of philosophy. I
 waded right into this fearful slough of "originality," in order to gather what seemed to
 throw a light upon the subject. Finally, I reviewed the general facts of the universe.
-Peirce: CP 6.604 Cross-Ref:††
 I now found myself forced by a great many different indications to the
 conclusion that an evolutionary philosophy of some kind must be accepted -including among such philosophies systems like those of Aristotle and of Hegel. From
 
@@ -101873,7 +99742,6 @@ of the office of chance in science generally, and especially in the doctrines of
 evolution. Arrived at this point, the next question was, what is the principle by which
 the development is to proceed? It was a difficult inquiry, and involved researches
 from different points of view.
-Peirce: CP 6.604 Cross-Ref:††
 But I will not trouble the reader with further autobiographical details. I have
 given enough to show that my method has neither been in theory purely empirical,
 nor in practice mere brain-spinning; and that, in short, my friend Dr. Carus's account
@@ -101978,17 +99846,14 @@ necessity, cannot be proved, nor rendered probable, by arguments from observatio
 That argument consisted in assuming that all arguments from observation are
 probable arguments, and in showing that probable inferences are always affected with
 probable errors.
-Peirce: CP 6.609 Cross-Ref:††
 Had I deemed it requisite, I might easily have fortified that argument by a
 more profound analysis of scientific reasoning. Such an analysis I had formerly given
 in my "Theory of Probable Inference" [vol. 2, bk. III, ch. 8] (in Studies in Logic,
 Boston, Little and Brown).
-Peirce: CP 6.609 Cross-Ref:††
 But, notwithstanding his admissions, Dr. Carus sets up his ipse dixit against
 my argumentation. "We deny most positively," says the editorial Elohim, "that the
 calculus of probabilities is applicable to the order of the world, as to whether it may
 or may not be universal." (PARASYMBOLQXPARASYMBOLQX 27, 31.)
-Peirce: CP 6.609 Cross-Ref:††
 To support this, he cites (PARASYMBOLQXPARASYMBOLQX 31-34) four
 passages from articles written by me sixteen years ago. I hope my mind has not been
 stationary during all these years; yet there is little in those old articles which I now
@@ -102008,20 +99873,16 @@ not with certainty, that any proposition is absolutely universal, exact, or nece
 the absence of any weight of probability in favor of any particular exact statement, the
 formal presumption is altogether against any one out of innumerable possible
 statements of that kind.
-Peirce: CP 6.609 Cross-Ref:††
 The second passage cited is one in which I argue that the universe is not a
 chaos, or chance-medley. Now Dr. Carus admits (PARASYMBOLQX 28) that I do
 not today maintain that it is a chance-medley.
-Peirce: CP 6.609 Cross-Ref:††
 The third passage cited is this: "A contradiction is involved in the very idea of
 a chance-world." This is in entire harmony with my present position that "a chaos . . .
 being without connection or regularity would properly be without existence."
 ("Architecture of Theories," The Monist, vol. I, p. 176 [33].)
-Peirce: CP 6.609 Cross-Ref:††
 The fourth passage is to the effect that "the interest which the uniformities of
 nature have for an animal measures his place in the scale of intelligence." This I still
 believe.
-Peirce: CP 6.609 Cross-Ref:††
 So much for my supposed contradictions. If I am not mistaken, our amiable
 editor, whose admirable editorship springs so largely out of his amiability, in copying
 out these passages was really not half so much intent on showing me to be wrong at
@@ -102030,7 +99891,6 @@ contrives to honey his sockdolagers, and sincerely cares more to make the reader
 admire his antagonist when he is right than to condemn him when he is wrong. There
 is a touch of art in this that proclaims the born editor, and which I can hardly hope to
 imitate.
-Peirce: CP 6.609 Cross-Ref:††
 Though Dr. Carus admits over and over again that necessity cannot be based
 on observation, he often slips back to the idea that it can be so based. He says
 (PARASYMBOLQX 30) that "form is a quality of this world, not of some samples of
@@ -102103,7 +99963,6 @@ logical doctrine of explanation, and of the history of explanations, and have ba
 
 upon the general principles so ascertained my conclusions as to what things do and
 what do not require to be explained.
-Peirce: CP 6.612 Cross-Ref:††
 Dr. Carus (PARASYMBOLQX 67) defines explanation as a description of a
 special process of nature in such a way that the process is recognized as a
 transformation. This I cannot quite grant. First, I cannot admit that "special processes
@@ -102138,7 +99997,6 @@ motion of Mars is not of that nature. But I willingly recognize in Dr. Carus's
 definition an attempt -- more or less successful -- to formulate one of the great offices
 of scientific inquiry, that of bridging over the gap between the familiar and the
 unfamiliar.
-Peirce: CP 6.612 Cross-Ref:††
 Explanation, however, properly speaking, is the replacement of a complex
 predicate, or one which seems improbable or extraordinary, by a simple predicate
 from which the complex predicate follows on known principles.†1 In like manner, a
@@ -102146,14 +100004,11 @@ reason, in one sense, is the replacement of a multiple subject of an observation
 proposition by a general subject, which by the very conditions of the special
 experience is predicable of the multiple subject.†P1 Such a reason may be called an
 explanation in a loose sense.
-Peirce: CP 6.612 Cross-Ref:††
 Accordingly, that which alone requires an explanation is a coincidence.
-Peirce: CP 6.612 Cross-Ref:††
 Hence, I say that a uniformity, or law, is par excellence, the thing that requires
 
 explanation. And Dr. Carus (PARASYMBOLQX 51) admits that this "is perfectly
 true."
-Peirce: CP 6.612 Cross-Ref:††
 But I cannot imagine anything further from the truth than his statement
 (PARASYMBOLQX 66) that "the only thing in the world of which we cannot and
 need not give account is the existence of facts itself." I should say, on the contrary,
@@ -102168,7 +100023,6 @@ that reality is the dynamical reaction of certain forms upon the mind of the
 community, is a proposed explanation of being in general; and be it remarked that the
 mind of the community, itself, is the thing the nature of whose being this explanation
 first of all puts upon an idealistic footing.
-Peirce: CP 6.612 Cross-Ref:††
 Chance, according to me, or irregularity--that is, the absence of any
 coincidence--calls for no explanation. If law calls for a particular explanation, as Dr.
 Carus admits it does, surely the mere absence of law calls for no further explanation
@@ -102180,7 +100034,6 @@ phenomenon, simply because the imperfection of language leads us so to talk of i
 Quite unfounded, therefore, is Dr. Carus's opinion that "chance needs exactly as much
 explanation as anything else" (PARASYMBOLQX 53) -- an opinion which, so far as
 I can see, rests on no defensible principle.
-Peirce: CP 6.612 Cross-Ref:††
 Equally hasty is his oft-repeated objection
 (PARASYMBOLQXPARASYMBOLQX 55, 58, 61) that my absolute chance is
 something ultimate and inexplicable. I go back to a chaos so irregular that in
@@ -102201,7 +100054,6 @@ existence only so far as it is welded into feeling. Now the welding of this feel
 the great whole of feeling is accomplished only by the reflection of a later date. In
 itself, therefore, it is nothing; but in its relation to the end it is everything.
 
-Peirce: CP 6.612 Cross-Ref:††
 More unreasonable yet is Dr. Carus's pretension that the manifold
 specificalness, which is what I mean by chance, is capable of explanation
 (PARASYMBOLQXPARASYMBOLQX 142, 143) by his own philosophic method.
@@ -102213,13 +100065,11 @@ ignorance. It is that diversity and variety of things and events which law does 
 prevent. Such is that real chance upon which the kinetical theory of gases, and the
 doctrines of political economy, depend. To say that it is not absolute is to say that it -this diversity, this specificalness -- can be explained as a consequence of law. But
 this, as we have seen, is logically absurd.
-Peirce: CP 6.612 Cross-Ref:††
 Dr. Carus admits that absolute chance is "not unimaginable."
 (PARASYMBOLQX 150.) Chance itself pours in at every avenue of sense: it is of all
 things the most obtrusive. That it is absolute is the most manifest of all intellectual
 perceptions. That it is a being, living and conscious, is what all the dullness that
 belongs to ratiocination's self can scarce muster hardihood to deny.
-Peirce: CP 6.612 Cross-Ref:††
 Almost as unthinking is the objection (PARASYMBOLQX 61) that absolute
 chance could never beget order. I have noticed elsewhere the historic obliviscence of
 this objection.†1 Must I once again repeat that the tendency to take habits, being itself
@@ -102228,7 +100078,6 @@ realist, such as I am, can find no difficulty in the production of that first in
 germ of habit-taking by chance, provided he thinks chance could act at all. This
 seems, at first blush, to be explaining something as a chance-result. But exact analysis
 will show it is not so.
-Peirce: CP 6.612 Cross-Ref:††
 In like manner, when the eminent thinker who does me the honor to notice my
 speculation objects that I do not, after all, escape making law absolute, since the
 tendency to take habits which I propose to make universal is itself a law, I confess I
@@ -102243,26 +100092,20 @@ escape the contradiction attributed to me.†1
 Peirce: CP 6.613 Cross-Ref:††
 613. In my attack on "The Doctrine of Necessity" I offered four positive
 arguments for believing in real chance. They were as follows:
-Peirce: CP 6.613 Cross-Ref:††
 1. The general prevalence of growth, which seems to be opposed to the
 conservation of energy.
-Peirce: CP 6.613 Cross-Ref:††
 
 2. The variety of the universe, which is chance, and is manifestly inexplicable.
-Peirce: CP 6.613 Cross-Ref:††
 3. Law, which requires to be explained, and like everything which is to be
 explained must be explained by something else, that is, by non-law or real chance.
-Peirce: CP 6.613 Cross-Ref:††
 4. Feeling, for which room cannot be found if the conservation of energy is
 maintained.
-Peirce: CP 6.613 Cross-Ref:††
 In a brief conversation I had with him, my friend remarked (and if it was an
 inconsiderate concession, I certainly do not wish to hold him to it) that, while the
 theory of tychism had some attractive features, its weakness consisted in the absence
 of any positive reasons in its favor. I infer from this that I did not properly state the
 above four arguments. I therefore desire once more to call attention to them,
 especially in their relations to one another.
-Peirce: CP 6.613 Cross-Ref:††
 Mathematicians are familiar with the theorem that if a system of particles is
 subject only to positional forces, it is such that if at any instant the velocities were all
 suddenly reversed, without being altered in quantity, the whole previous history of the
@@ -102321,7 +100164,6 @@ and that, nevertheless, there is no absolute chance. But I think so much has bee
 to put the law of the conservation of forces upon the level of the other mechanical
 laws that when one is led to entertain a serious doubt of the exactitude of that, one
 will be inclined to question the others.
-Peirce: CP 6.613 Cross-Ref:††
 Besides, few psychologists will deny the very intimate connection which
 seems to subsist between the law, or quasi-law, of growth and the law of habit, which
 is the principal, if not (as I hold it to be) the sole, law of mental action. Now, this law
@@ -102330,7 +100172,6 @@ inasmuch as it would at once cease to operate if it were rigidily obeyed: since 
 case all habits would at once become so fixed as to give room for no further formation
 of habits. In this point of view, then, growth seems to indicate a positive violation of
 law.
-Peirce: CP 6.613 Cross-Ref:††
 Let us now consider argument number 3: and remark how it fortifies number
 1. Physical laws that appear to be radically different yet present some striking
 analogies. Electrical force appears to be polar. Its polarity is explained away by
@@ -102358,17 +100199,13 @@ reflection as the impossibility of motion without that analogy can supply. Kant'
 theory seems to hint at the possibility of an explanation from both being derived from
 the nature of the same mind. Any three orthogonal directions †P1 in space are exactly
 alike, yet are dynamically independent.
-Peirce: CP 6.613 Cross-Ref:††
 These things call for explanation; yet no explanation of them can be given, if
 the laws are fundamentally original and absolute.
-Peirce: CP 6.613 Cross-Ref:††
 Moreover, law itself calls for explanation. But how is it to be explained if it is
 as fundamentally original and absolute as it is commonly supposed to be? Yet if it is
 not so absolute, there is such a phenomenon as absolute chance.
-Peirce: CP 6.613 Cross-Ref:††
 Thus, the chance which growth calls for is now seen to be absolute, not quasi
 chance.
-Peirce: CP 6.613 Cross-Ref:††
 Now consider argument number 2. The variety of the universe so far as it
 consists of unlikenesses between things calls for no explanation. But so far as it is a
 general character it ought to be explained. The manifold diversity or specificalness, in
@@ -102384,7 +100221,6 @@ universe as a whole, so far as anything can possibly be conceived or logically o
 of the whole, should be conceived as growing. But others say, though parts of the
 universe simulate growth at intervals, yet there really is no growth on the whole -- no
 passage from a simpler to a more complex state of things, no increasing diversity.
-Peirce: CP 6.613 Cross-Ref:††
 Now, my argument is that, according to the principles of logic, we never have
 a right to conclude that anything is absolutely inexplicable or unaccountable. For such
 a conclusion goes beyond what can be directly observed, and we have no right to
@@ -102401,17 +100237,14 @@ say there is diversity because God made it so, for we cannot tell what God would
 nor penetrate his counsels. We see what He does do, and nothing more. For the same
 reason one cannot logically infer the existence of God; one can only know Him by
 direct perception.
-Peirce: CP 6.613 Cross-Ref:††
 It is to be noted that a general tendency to diversification does not explain
 diversity in its specific characters; nor is this called for. Neither can such a tendency
 explain any specific fact. Any attempt to make use of the principle in that manner
 would be utterly illogical. But it can be used to explain universal facts, just as quasi
 chance is used to explain statistical facts. Now, the diversity of nature is a universal
 fact.
-Peirce: CP 6.613 Cross-Ref:††
 To explain diversity is to go behind the chaos, to the original undiversified
 nothing. Diversificacity was the first germ.
-Peirce: CP 6.613 Cross-Ref:††
 Argument number 4 was, upon its negative side, sufficiently well presented in
 my "Doctrine of Necessity Examined." Mechanical causation, if absolute, leaves
 nothing for consciousness to do in the world of matter; and if the world of mind is
@@ -102431,7 +100264,6 @@ According to that law, consciousness subsides as habit becomes established, and 
 excited again at the breaking up of habit. But the highest quality of mind involves a
 great readiness to take habits, and a great readiness to lose them; and this implies a
 degree of feeling neither very intense nor very feeble.
-Peirce: CP 6.613 Cross-Ref:††
 I have noticed above (594) Dr. Carus's dubious attitude toward the first
 argument. I considered in the last section his attempted reply to the second. To the
 third argument, he replies (PARASYMBOLQX 165) that law ought to be accounted
@@ -102447,7 +100279,6 @@ Peirce: CP 6.614 Cross-Ref:††
 614. My fourth argument it is which seems to have made most impression
 upon Dr. Carus's mind (PARASYMBOLQX 85), and his reply is rather elaborate.
 
-Peirce: CP 6.614 Cross-Ref:††
 While embracing unequivocally the necessitarian dogma, equally for mind and
 for matter (PARASYMBOLQX 193), Dr. Carus wishes utterly to repudiate
 materialism and the mechanical philosophy (PARASYMBOLQX 133). To facilitate
@@ -102461,7 +100292,6 @@ to distinguish them from the mechanical (including the physical and chemical) on
 one hand, or from the psychical on the other. Dr. Carus seems to think
 (PARASYMBOLQX 176) that by this division he has separated himself entirely from
 the materialists; but this is an illusion, for nobody denies the existence of feelings.
-Peirce: CP 6.614 Cross-Ref:††
 The truth is, he distinctly enrolls himself in the mechanical army when he
 asserts that mental laws are of the same necessitarian character as mechanical laws
 (PARASYMBOLQX 193). The only question that remains as to his position is
@@ -102477,46 +100307,34 @@ him a materialist, or will he say that the laws of motion do not suffice to dete
 motions of matter, in which case, since they formally certainly do so suffice, they
 must be violated, and he will be giving to mind a direct dynamical power which is
 open to every objection that can be urged against tychism?
-Peirce: CP 6.614 Cross-Ref:††
 Now admire the decision with which he cuts the Gordian knot!
-Peirce: CP 6.614 Cross-Ref:††
 "THERE ARE NO PURELY MECHANICAL PHENOMENA."
 (PARASYMBOLQX 175.)
-Peirce: CP 6.614 Cross-Ref:††
 That is,
-Peirce: CP 6.614 Cross-Ref:††
 "The laws of motion ARE applicable to and will explain all motions."
 (PARASYMBOLQX 177.)
-Peirce: CP 6.614 Cross-Ref:††
 But hold!
-Peirce: CP 6.614 Cross-Ref:††
 "The mechanical philosopher . . . feels warranted in the hope that . . . the
 actions of man . . . can be explained by the laws of motion. . . . We may anticipate that
 this conclusion will prove ERRONEOUS. And so it is." (PARASYMBOLQX 176.)
 
-Peirce: CP 6.614 Cross-Ref:††
 At the same time,
-Peirce: CP 6.614 Cross-Ref:††
 "No OBJECTION CAN BE MADE to the possibility of explaining the
 delicate motions in the nervous substance of the brain by the laws of molar or
 molecular mechanics." (PARASYMBOLQX 178.)
-Peirce: CP 6.614 Cross-Ref:††
 Yet,
 "The simplest psychical reflexes, including those physiological reflexes which
 we must suppose to have originated by conscious adaptation, . . . CANNOT be
 explained from mechanical or physical laws alone." (PARASYMBOLQX 186.)
 However,
-Peirce: CP 6.614 Cross-Ref:††
 "We do NOT say that there are motions . . . in the brain . . . which form
 exceptions to the laws of mechanics." (PARASYMBOLQX 187.)
-Peirce: CP 6.614 Cross-Ref:††
 Nevertheless,
 "The brain-atoms are possessed of the same spontaneity as the atoms of a
 gravitating stone. Yet there is present an additional feature; there are present states of
 awareness. . . . Neither states of awareness nor their meanings can be weighed on any
 scales, be they ever so delicate, nor are they determinable in footpounds."
 (PARASYMBOLQX 192.)
-Peirce: CP 6.614 Cross-Ref:††
 Clearness is the first merit of a philosopher; and what PARASYMBOLQX
 192 comes to is crystal-clear. Dr. Carus wants to have the three laws of motion
 always obeyed; but he wishes the forces between the molecules to be varied
@@ -104292,14 +102110,10 @@ Peirce: CP 6.625 Fn 1 p 441
 Journal of Speculative Philosophy, vol. 2, pp. 190-191 (1868).
 
 Peirce: CP 7 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
 VOLUME VII
 SCIENCE AND PHILOSOPHY
-EDITED BY
 ARTHUR W. BURKS
-CAMBRIDGE
-HARVARD UNIVERSITY PRESS
 Peirce: CP 7 Copyright Page
 (C) 1958 BY THE PRESIDENT AND FELLOWS OF HARVARD COLLEGE
 
@@ -104310,8 +102124,6 @@ LIBRARY OF CONGRESS CATALOG CARD NUMBER 31-30898
 PRINTED IN THE UNITED STATES OF AMERICA
 
 Peirce: CP 7 Preface p v
-
-PREFACE
 
 When the first volume of the Collected Papers of Charles Peirce was
 published in 1931, its Introduction predicted some ten volumes in the series, those
@@ -104358,14 +102170,9 @@ Harvard University
 August, 1957
 
 Peirce: CP 7 Contents Book 1 Chapter 1 p vii
-CONTENTS
-
-Introduction
 
 BOOK I. EXPERIMENTAL SCIENCE
 
-Paragraph
-Number
 Chapter 1. MEASUREMENT OF THE FORCE OF GRAVITY
 
 1. A Source of Error in Pendulum Measurements
@@ -104515,7 +102322,6 @@ Chapter 5. TELEPATHY AND PERCEPTION
 6. Conclusion 682
 
 Peirce: CP 7 Introduction p xi
-INTRODUCTION
 
 The first six volumes of the series, Collected Papers of Charles Sanders
 Peirce, included Peirce's main writings in general philosophy, logic (deductive,
@@ -104608,11 +102414,8 @@ Arthur W. Burks
 Ann Arbor, Michigan
 
 Peirce: CP 7.1 Cross-Ref:††
-BOOK I
 
 EXPERIMENTAL SCIENCE
-
-CHAPTER 1
 
 MEASUREMENT OF THE FORCE OF GRAVITY
 
@@ -104910,7 +102713,6 @@ geodetical survey be held to be imperfect in which the determinations of gravity
 been omitted; and such would be the universal judgment of the scientific world.
 
 Peirce: CP 7.21 Cross-Ref:††
-CHAPTER 2
 
 SMALL DIFFERENCES OF SENSATION
 
@@ -105133,10 +102935,6 @@ Mean confidence.
 
 1.020 .......
 
-0.12
-
-0.12
-
 0.50
 
 0.39
@@ -105261,7 +103059,6 @@ Means
 4 10.4±1.0 13 15 19.3±1.4 21.6±1.1
 
 Calculated
-from
 probable
 error
 =0.051 4.6±1.0 7.2±1.6 10.7±0.8 12.7±2.1 14.9±2.2 17.2±0.9 21.0±1.1.
@@ -105491,7 +103288,6 @@ errors.
 Average confidence.
 
 -----------------------------------------------Calculated
-from
 Ratios of Number of
 
 probable
@@ -105591,7 +103387,6 @@ errors.
 Average confidence.
 
 -----------------------------------------------Calculated
-from
 Ratios of Number of
 
 probable
@@ -105600,10 +103395,6 @@ pressures. sets of 50. Observed. error. Observed. Calculated.
 -----------------------------------------------------------------1.020
 
 12.8±0.3 12.5±0.8
-
-0.12
-
-0.12
 
 1.010
 
@@ -105660,8 +103451,6 @@ Fourth group.
 16.0±0.3 16.5±0.9
 
 0.05
-
-0.12
 
 1.005
 
@@ -105902,11 +103691,8 @@ long to take his leap from the nest on account of doubts about the theory of
 aerodynamics.
 
 Peirce: CP 7.49 Cross-Ref:††
-BOOK II
 
 SCIENTIFIC METHOD
-
-CHAPTER 1
 
 SCIENTIFIC METHOD
 
@@ -107087,7 +104873,6 @@ These laws therefore cannot be abrogated without abrogating knowledge; and thus 
 the formal conditions of all knowledge.
 
 Peirce: CP 7.139 Cross-Ref:††
-CHAPTER 2
 
 ECONOMY OF RESEARCH
 
@@ -107135,12 +104920,10 @@ increase of knowledge is measured by the amount of wasted effort it saves us,
 multiplied by the specific cost of that species of effort. Now, we know, from the
 theory of errors, that the uncertainty in the calculated amount of effort necessary to be
 put forth may be represented by an expression of the form
-______
 c√a+r2
 
 where a and c are constants. And, therefore, the differential coefficient of this,
 multiplied by the specific cost of the effort in question, say h/c, gives
-______
 Ur = h · (r/√a+r2)
 
 When a is very small compared with r this becomes nearly constant, and in the
@@ -107151,7 +104934,6 @@ Peirce: CP 7.143 Cross-Ref:††
 the cost of attaining it. When we increase our exactitude by multiplying observations,
 the different observations being independent of one another as to their cost, we know
 from the theory of errors
-that
 Vs · ds is proportional to s2, and that consequently Vs is proportional to s. If the
 costs of the different observations are not independent (which usually happens), the
 cost will not increase so fast relatively to the accuracy; but if the errors of the
@@ -107213,9 +104995,6 @@ Peirce: CP 7.147 Cross-Ref:††
 147. When we have to choose between two researches only, the solution may
 be represented graphically, as follows:
 
-[Click here
-to view]
-
 Peirce: CP 7.148 Cross-Ref:††
 148. From any point O[1] taken as an origin, draw the axis of abscissas O[1]
 X[1], along which x[1], the total cost of the first investigation, is to be measured.
@@ -107269,19 +105048,10 @@ r[1]-2 + r[2]-2)-3/2r[1]-3.
 
 And as the cost is proportional to the number of observations
 
-[Click here
-to view]
-
 Hence, the urgency is (omitting a factor common to the values for the two methods)
-
-[Click here
-to view]
 
 And, as the urgency of the two methods ought to be the same at the conclusion of the
 work, we should have
-
-[Click here
-to view]
 
 which equation serves to determine the relative values of n[1] and n[2]. We again
 perceive that the cost is the smallest consideration. The method which has the
@@ -107297,12 +105067,7 @@ Peirce: CP 7.153 Cross-Ref:††
 observed, the knowledge of which serves only to determine a certain function of
 them, y.†2 In this case the probable error [dy] of y is
 
-[Click here to view]
-
 and [since Ur[1] = Dr[1](dy)] we shall have
-
-[Click here
-to view]
 
 Vs[1] will have the same value as before; but neglecting now the constant error, we
 may write
@@ -107311,11 +105076,7 @@ Vs[1] = 2k[1]{r}[1]n[1]1/2
 
 Then the urgency (with omission of the common factor) is
 
-[Click here to view]
-
 and, as the two urgencies must be equal, we have
-
-[Click here to view]
 
 Peirce: CP 7.154 Cross-Ref:††
 154. The following is an example of the practical application of the theory of
@@ -107341,24 +105102,12 @@ whole duration of the swinging being C, and the excess of the duration of the
 swinging with heavy end down over that with heavy end up being x, the probable
 errors of the results are
 
-[Click here
-to view]
-
 where a, b, and c are constants. Then, the square of the probable error of the quantity
 sought will be
 
-[Click here
-to view]
-
 The differential coefficient of this relatively to x is
 
-[Click here
-to view]
-
 Putting this equal to zero and solving, we find for the only significant root,
-
-[Click here
-to view]
 
 when b vanishes, x reduces to zero, and the pendulum should be swung equally long
 in the two positions. When c vanishes, as it would if the pendulum experiment were
@@ -107485,7 +105234,6 @@ Whewell, Berkeley, Glanvill, Ockham, and Duns Scotus, to lay a solid foundation
 upon which may be erected a new logic fit for the life of twentieth century science.
 
 Peirce: CP 7.162 Cross-Ref:††
-CHAPTER 3
 
 THE LOGIC OF DRAWING HISTORY FROM ANCIENT DOCUMENTS
 
@@ -109236,8 +106984,6 @@ Sc
 
 Ti
 
-V
-
 Cr
 
 Mn
@@ -109425,7 +107171,6 @@ Te
 
 La
 
-I
 121 1/2 124
 
 +6
@@ -110033,17 +107778,13 @@ Peirce: CP 7.244 Cross-Ref:††
 244. At any rate, some of the phenomena to which our hypothesis points as
 probable are as follows:
 
-Peirce: CP 7.244 Cross-Ref:††
 1st, strange stupidities, or commonplaces, where what went before led us to
 think that a remarkable idea was to be developed.
-Peirce: CP 7.244 Cross-Ref:††
 2nd, stupidities, commonplaces, and puzzling places occurring toward the
 ends of books at intervals of about 70 Berlin lines or multiples thereof; at least when
 Aristotle's autographs and not copies were there.
-Peirce: CP 7.244 Cross-Ref:††
 3rd, the appearance of transpositions of passages of about 70 Berlin lines,
 under the same limiting condition.
-Peirce: CP 7.244 Cross-Ref:††
 4th, omissions of matter which it was in the line of Aristotle's highly
 systematic thought to insert, and which he would probably have treated in about 70
 Berlin lines or a multiple.
@@ -110280,7 +108021,6 @@ likely than that Strabo should tell a false story; and that principle seems to m
 amount to believing whatever they are inclined to believe.†23
 
 Peirce: CP 7.256 Cross-Ref:††
-CHAPTER 4
 
 NOTES ON SCIENCE
 
@@ -111148,19 +108888,15 @@ this until later.
 Peirce: CP 7.311 Cross-Ref:††
 311. Definition. A metrical image is a continuous multitude of particles,
 straight filaments, and flat films having the following properties:
-Peirce: CP 7.311 Cross-Ref:††
 1st, it has the optical property that whatever part occupies at one instant a
 point or a plane occupies the same kind of place (whichever it may be) at every
 instant, and with the same connective relations to straight filaments.
-Peirce: CP 7.311 Cross-Ref:††
 2nd, the fixation of a particle of such image at a point or of a flat film in a
 plane diminishes by unity the freedom of motion of all other such parts of the same
 metrical image.
-Peirce: CP 7.311 Cross-Ref:††
 3rd, when the particles and flat films of [a] metrical image are subject to such
 conditions as just suffice to reduce the freedom of motion to zero, there are just two
 positions, said to be perverse of one another, in which it can fulfill those conditions.
-Peirce: CP 7.311 Cross-Ref:††
 4th, if one metrical image or part of such image can occupy one place at one
 instant and another at another instant, then every such image or part of an image
 which can occupy the former place at one instant can occupy the latter place at
@@ -111171,7 +108907,6 @@ equal which can be occupied by the same metrical image or by the same part of on
 metrical image. And the order of the occupied parts makes no difference.†18
 
 Peirce: CP 7.313 Cross-Ref:††
-CHAPTER 5
 
 THE LOGIC OF 1873†1
 
@@ -111916,11 +109651,8 @@ so far as it recommends itself to a possible future thought. Or in other words t
 rationality of thought lies in its reference to a possible future.†20
 
 Peirce: CP 7.362 Cross-Ref:††
-BOOK III
 
 PHILOSOPHY OF MIND
-
-CHAPTER 1
 
 PSYCHOGNOSY†1
 
@@ -112639,7 +110371,6 @@ need, both theoretically and practically has been for millennia lying fallow gro
 awaiting a conscientious ploughman.†24
 
 Peirce: CP 7.388 Cross-Ref:††
-CHAPTER 2
 
 ASSOCIATION†1
 
@@ -113716,7 +111447,6 @@ clearly apprehended. We may not know at all what it is; or we may have learned i
 the observation of nature.
 
 Peirce: CP 7.468 Cross-Ref:††
-CHAPTER 3
 
 HABIT†1
 
@@ -113933,7 +111663,6 @@ Peirce: CP 7.482 Cross-Ref:††
 also manifested in hyperbolic orbits under the attraction inversely as the square of the
 distance.
 
-[Click
 here to view] That is to say a moving body which starts from an infinite distance in
 one direction reaches at the end of infinite time an infinite distance in another
 direction. This finiosity might be regarded as due to the circumstance that time has an
@@ -114604,7 +112333,6 @@ were to act most and most directly on those particles which were most distant fr
 them.
 
 Peirce: CP 7.524 Cross-Ref:††
-CHAPTER 4
 
 CONSCIOUSNESS
 
@@ -114891,21 +112619,15 @@ seller, S, sells a thing, T, to a buyer, B, for a sum of money, M. This sale is 
 relation. But if we define precisely what it consists in, we shall find it to be a
 compound of six triadic relations, as follows:
 
-Peirce: CP 7.537 Cross-Ref:††
 1st, S is the subject of a certain receipt of money, R, in return for the
 performance of a certain act As;
-Peirce: CP 7.537 Cross-Ref:††
 2nd, This performance of the act As effects a certain delivery, D, according to
 a certain contract, or agreement, C;
-Peirce: CP 7.537 Cross-Ref:††
 3rd, B is the subject of a certain acquisition of good, G, in return for the
 performance of a certain act, Ab;
-Peirce: CP 7.537 Cross-Ref:††
 4th, This performance of the act Ab effects a certain payment, P, according to
 the aforesaid contract C;
-Peirce: CP 7.537 Cross-Ref:††
 5th, The delivery, D, renders T the object of the acquisition of good G;
-Peirce: CP 7.537 Cross-Ref:††
 6th, The payment, P, renders M the object of the receipt of money, R.
 Or we may define a sale as the execution of contract of sale. The contract of sale has
 two clauses. The first clause provides for a giving and a receiving. The giving is by
@@ -115958,7 +113680,6 @@ And at least it will serve to illustrate what use might be made by mightier hand
 this reviled science, logic, nec ad melius vivendum, nec ad commodius disserendum.
 
 Peirce: CP 7.597 Cross-Ref:††
-CHAPTER 5
 
 TELEPATHY AND PERCEPTION†1
 
@@ -118581,13 +116302,10 @@ Peirce: CP 7.688 Fn 24 p 397
 †24 (Ed.) The manuscript breaks off shortly after this point.
 
 Peirce: CP 8 Title-Page
-COLLECTED PAPERS OF CHARLES SANDERS PEIRCE
 
 VOLUME VIII
 REVIEWS, CORRESPONDENCE, AND BIBLIOGRAPHY
-EDITED BY
 ARTHUR W. BURKS
-CAMBRIDGE
 HARVARD UNIVERSITY PRESS 1958
 
 Peirce: CP 8 Copyright Page
@@ -118598,7 +116316,6 @@ LIBRARY OF CONGRESS CATALOG CARD NUMBER 31 -- 30898
 PRINTED IN THE UNITED STATES OF AMERICA
 
 Peirce: CP 8 Preface p v
-PREFACE
 
 When the first volume of the Collected Papers of Charles Peirce was
 published in 1931, its Introduction predicted some ten volumes in the series, those
@@ -118646,13 +116363,9 @@ Harvard University
 August, 1957
 
 Peirce: CP 8 Contents Book 1 Review 1 p vii
-CONTENTS
 
-Introduction
 BOOK I. REVIEWS
 
-Paragraph
-Number
 1. JOHN VENN, THE LOGIC OF CHANCE
 
 Peirce: CP 8 Contents Book 1 Review 2 p vii
@@ -118692,7 +116405,6 @@ Peirce: CP 8 Contents Book 1 Review 8 p vii
 8. REVIEW OF A BOOK ON ETHICS
 Peirce: CP 8 Contents Book 1 Review 9 p vii
 9. J.M. BALDWIN, DICTIONARY OF PHILOSOPHY AND PSYCHOLOGY, VOL.
-II
 Peirce: CP 8 Contents Book 1 Review 10 p vii
 10. LADY WELBY, WHAT IS MEANING?
 
@@ -118745,7 +116457,6 @@ Peirce: CP 8 Contents Book 2 Woods p viii
 Peirce: CP 8 Contents p viii
 BIBLIOGRAPHY
 
-Introduction
 List of Abbreviations
 I. General
 II. Items from The Nation
@@ -118753,7 +116464,6 @@ III. Miscellaneous
 Cross Reference Index
 
 Peirce: CP 8 Introduction p ix
-INTRODUCTION
 
 The first six volumes of the series, Collected Papers of Charles Sanders
 Peirce, included Peirce's main writings in general philosophy, logic (deductive,
@@ -118846,11 +116556,8 @@ Arthur W. Burks
 Ann Arbor, Michigan
 
 Peirce: CP 8.1 Cross-Ref:††
-BOOK I
 
 REVIEWS
-
-CHAPTER 1
 
 JOHN VENN, THE LOGIC OF CHANCE†1
 
@@ -119008,7 +116715,6 @@ intellectual state of the community, -- and thus no single and constant number c
 represent the value of any kind.
 
 Peirce: CP 8.7 Cross-Ref:††
-CHAPTER 2
 
 FRASER'S EDITION OF THE WORKS OF GEORGE BERKELEY †1
 
@@ -119895,7 +117601,6 @@ practical question in regard to every public institution the constitution of whi
 have it in our power to influence.
 
 Peirce: CP 8.39 Cross-Ref:††
-CHAPTER 3
 
 JOSIAH ROYCE, THE RELIGIOUS ASPECT OF PHILOSOPHY †1
 
@@ -120328,7 +118033,6 @@ comparison with [the] harsh and crabbed matter you have been reading here, to be
 musical as is Apollo's lute."'
 
 Peirce: CP 8.55 Cross-Ref:††
-CHAPTER 4
 
 WILLIAM JAMES, THE PRINCIPLES OF PSYCHOLOGY
 
@@ -120834,7 +118538,6 @@ mathematics, which is in no degree introspective. Treating operations as quantit
 one of a hundred familiar examples.
 
 Peirce: CP 8.91 Cross-Ref:††
-CHAPTER 5
 
 ON NON-EUCLIDEAN GEOMETRY†1
 
@@ -120980,33 +118683,25 @@ any finite angle, however small, to AB, it will meet CD at some finite distance 
 O.
 Peirce: CP 8.99 Cross-Ref:††
 99. Is this natural notion exactly true?
-Peirce: CP 8.99 Cross-Ref:††
 
 A. This is not certain.
-Peirce: CP 8.99 Cross-Ref:††
 B. We have no probable reason to believe it so.
-Peirce: CP 8.99 Cross-Ref:††
 C. We never can have positive evidence lending it any degree of likelihood. It
 may be disproved in the future.
-Peirce: CP 8.99 Cross-Ref:††
 D. It may be true, perhaps. But since the chance of this is as 1:∞ or 0/1, the
 logical presumption is, and must ever remain, that it is not true.
-Peirce: CP 8.99 Cross-Ref:††
 E. If there is some influence in evolution tending to adapt the mind to nature,
 it would probably not be completed yet. And we find other natural ideas require
 correction. Why not this, too? Thus, there is some reason to think this natural idea is
 not exact.
-Peirce: CP 8.99 Cross-Ref:††
 F. I have a theory which fits all the facts as far as I can compare them, which
 would explain how the natural notion came to be so closely approximate as it is, and
 how space came to have the properties we find it has. According to this theory, this
 natural notion would not be exact.
-Peirce: CP 8.99 Cross-Ref:††
 To give room for the non-Euclidean geometry, it is sufficient to admit the first
 of these propositions.
 
 Peirce: CP 8.100 Cross-Ref:††
-CHAPTER 6
 
 JOSIAH ROYCE, THE WORLD AND THE INDIVIDUAL
 
@@ -121787,7 +119482,6 @@ which it is Prof. Royce's duty to give to the world, and the world's bounden dut
 aid Royce to produce, no matter how many dimes, cents, and dollars it may cost.
 
 Peirce: CP 8.132 Cross-Ref:††
-CHAPTER 7
 
 KARL PEARSON, THE GRAMMAR OF SCIENCE†1
 
@@ -123416,11 +121110,8 @@ practical corollaries will be obvious to every reader -- "the bodily substrate o
 mental life."
 
 Peirce: CP 8.205 Cross-Ref:††
-BOOK II
 
 CORRESPONDENCE
-
-CHAPTER 1
 
 TO SIGNOR CALDERONI, ON PRAGMATICISM†1
 
@@ -123596,7 +121287,6 @@ the phaneron and I endeavor to sort out its elements according to the complexity
 their structure. I thus reach my three categories.†9
 
 Peirce: CP 8.214 Cross-Ref:††
-CHAPTER 2
 
 TO PAUL CARUS, ON "ILLUSTRATIONS OF THE LOGIC OF SCIENCE"†1
 
@@ -123844,7 +121534,6 @@ affirmative side and the frequency with which that turns out to be an actual fac
 me quite the most surprising of all the wonders of the universe.
 
 Peirce: CP 8.239 Cross-Ref:††
-CHAPTER 3
 
 TO JOHN DEWEY, ON THE NATURE OF LOGIC†1
 
@@ -123988,7 +121677,6 @@ pertinent, and therefore should be taken into account. What you do say is that n
 inquiry for which this development is not pertinent should be permitted.
 
 Peirce: CP 8.245 Cross-Ref:††
-CHAPTER 4
 
 TO WILLIAM T. HARRIS, ON MIND†1
 
@@ -124018,7 +121706,6 @@ the mind is virtual, not in a series of moments, not capable of existing except 
 space of time -- nothing so far as it is at any one moment.†3
 
 Peirce: CP 8.249 Cross-Ref:††
-CHAPTER 5
 
 TO WILLIAM JAMES†1
 
@@ -124364,9 +122051,6 @@ that although it be true that Being immediately acts only on Being and Represent
 immediately acts only on Representation, still there may be two endless series,
 whereby Being and Representation act on one another without any tertium quid.
 
-[Click here to
-view]
-
 Peirce: CP 8.275 Cross-Ref:††
 275. If atoms are vortices in an ether, which ether is composed of atoms
 themselves, vortices in another ether, and so on ad infinitum, as may possibly be the
@@ -124506,18 +122190,14 @@ Peirce: CP 8.290 Cross-Ref:††
 duality) and just how makes little odds. Some say because all is relative in
 consciousness: some say because of the distinction of subject and object that is
 always present.
-Peirce: CP 8.290 Cross-Ref:††
 "Consciousness is the widest word in our vocabulary. By common consent it
 embraces everything that 'mind' embraces. . . . We speak of the object-consciousness
 as our attitude in being cognisant of the extended universe; while our attitude under
 feeling and thought we call subject-consciousness or mind." (Bain, Note to Mill's
 Analysis, I, 226.)†34
-Peirce: CP 8.290 Cross-Ref:††
 "Consciousness without contrast is impossible." ([William DeWitt] Hyde,
 Practical Idealism, p. 18.)
-Peirce: CP 8.290 Cross-Ref:††
 Hamilton's hammering on the ego and non-ego, we'll take for granted.
-Peirce: CP 8.290 Cross-Ref:††
 "Are the sensationalists right in asserting that sensational and affective
 elements of consciousness are the only ones? The writer [of this book] is convinced
 that the introspective analysis of sensationalists is inexact . . . . What James calls the
@@ -124891,7 +122571,6 @@ the same footing as those three, there must be a dreadful rupture of my mental r
 for I can't see it at all.
 
 Peirce: CP 8.316 Cross-Ref:††
-CHAPTER 6
 
 TO CHRISTINE LADD-FRANKLIN, ON COSMOLOGY†1
 
@@ -124949,7 +122628,6 @@ ideally perfect time has even yet been realized. There are no doubt occasional l
 and derailments.†4
 
 Peirce: CP 8.319 Cross-Ref:††
-CHAPTER 7
 
 TO F.C.S. SCHILLER, ON PRAGMATISM†1
 
@@ -125075,16 +122753,12 @@ above all, it is as true as it is disagreeable. The ideas of Firstness, Secondne
 Thirdness are simple enough. Giving to being the broadest possible sense, to include
 ideas as well as things, and ideas that we fancy we have just as much as ideas we do
 have, I should define Firstness, Secondness, and Thirdness thus:
-Peirce: CP 8.328 Cross-Ref:††
 Firstness is the mode of being of that which is such as it is, positively and
 without reference to anything else.
-Peirce: CP 8.328 Cross-Ref:††
 Secondness is the mode of being of that which is such as it is, with respect to a
 second but regardless of any third.
-Peirce: CP 8.328 Cross-Ref:††
 Thirdness is the mode of being of that which is such as it is, in bringing a
 second and third into relation to each other.
-Peirce: CP 8.328 Cross-Ref:††
 I call these three ideas the cenopythagorean categories.
 
 Peirce: CP 8.329 Cross-Ref:††
@@ -125780,9 +123454,6 @@ mind to whom it did not seem very like bosh. I add some scraps.
 
 Signs divided into Ten Classes †25
 
-[Click here
-to view]
-
 The number above to the left describes the Object of the Sign. That above to the right
 describes its Interpretant. That below describes the Sign itself. 1 signifies the Possible
 Modality, that of an Idea. 2 signifies the Actual Modality, that of an Occurrence. 3
@@ -125930,8 +123601,6 @@ high.
 Peirce: CP 8 Bibliography Introduction
 BIBLIOGRAPHY OF THE WORKS OF CHARLES SANDERS PEIRCE
 
-INTRODUCTION
-
 This bibliography has three main sections: (I) General, (II) Items from The
 Nation, and (III) Miscellaneous. The first section includes all Peirce's works which
 have been published from manuscripts in the eight volumes of Collected Papers of
@@ -125942,7 +123611,6 @@ section consists of all the works published in The Nation that have been identif
 Peirce's contributions. The third section consists of correspondence by Peirce, and
 also works by other authors which quote or describe manuscripts by Peirce that are
 not published in Collected Papers, volumes I-VIII.
-Peirce: CP 8 Bibliography Introduction
 Sections I and II are arranged primarily in chronological order. The date under
 which an item appears is the year of its first public appearance, either in print or as an
 address, except for manuscripts not published during Peirce's life. For these latter
@@ -125958,27 +123626,23 @@ series of articles, lectures, and associated items are grouped together and list
 year of the first. The third section of the bibliography is arranged alphabetically
 according to the name of the recipient of the correspondence or the name of the
 author or editor of the work cited; these names are numbered.
-Peirce: CP 8 Bibliography Introduction
 References and cross-references to items of the bibliography are made as
 follows: to an item in the General section, [Bibliography] G-year-item number, e.g.,
 [Bibliography] G-c.1901-3b; to an item in The Nation section, [Bibliography]
 N-year-item number, e.g., [Bibliography] N-1892-1; and to an item in the
 Miscellaneous section, [Bibliography] M-name number, e.g., [Bibliography]M-6. A
 list of the abbreviations for publication titles precedes the bibliography proper.
-Peirce: CP 8 Bibliography Introduction
 An item that has been reprinted in Collected Papers is followed by the
 designation "[CP]" and the volume and paragraph numbers. For example, in
 [Bibliography] G-1908-1a the reference [CP] 4.585-593 indicates that the article
 described in this item ("Some Amazing Mazes") is reprinted at paragraphs 585-593 of
 Volume 4 of Collected Papers. It should be noted that the [CP] reference may follow
 explanatory material concerning the item, as in this example.
-Peirce: CP 8 Bibliography Introduction
 A cross-reference index from the paragraphs in Collected Papers to the entries
 of the bibliography is given at the end of the bibliography. The reader's attention is
 also invited to the list of errata for Collected Papers, volumes I-VI, which concludes
 this introduction.
 
-Peirce: CP 8 Bibliography Introduction
 Sources for the Bibliography. The bibliographies by Cohen and the one by
 Fisch and Haskell, the information in Collected Papers, volumes I-VI, and personal
 communications from Max Fisch constituted the original basis for the present
@@ -125989,7 +123653,6 @@ considerable effort was devoted to finding new items and acquiring more informat
 about known items. There are undoubtedly Peirce publications not discovered in this
 search, especially unsigned contributions, but in the editor's opinion it is not likely
 that any of these are of great importance.
-Peirce: CP 8 Bibliography Introduction
 Much, though not all, of the information derived from the sources mentioned
 above was checked before it was incorporated. Every item published while Peirce was
 alive, with the exception of articles in the New York Evening Post (access to which is
@@ -126001,7 +123664,6 @@ the present editor has not attempted to re-date the manuscripts printed there. I
 course of going through the Harvard manuscripts, however, a considerable amount of
 this information has been checked and the necessary corrections have been
 incorporated in the present bibliography.
-Peirce: CP 8 Bibliography Introduction
 Knight McMahon, in connection with his preparation of a catalogue of the
 Widener manuscripts, was able in some instances to unite manuscripts that were in
 separate pieces when Collected Papers, volumes I-VI, were edited; and the present
@@ -126013,7 +123675,6 @@ is worth noting that, especially after he moved to Milford (1887), Peirce was
 constantly reworking drafts of articles and books, with the result that many of the
 manuscripts are confused jumbles of various drafts, some of them written at quite
 different times.
-Peirce: CP 8 Bibliography Introduction
 Many of Peirce's published works are unsigned -- this is true of most of the
 items published in The Nation -- and in a few cases they bear signatures other than
 Peirce's, though there is conclusive evidence in the Harvard manuscripts and
@@ -126024,7 +123685,6 @@ Evening Post and one unlocated item) for internal evidence that it was written b
 Peirce. Unless otherwise indicated, the items from The Nation were unsigned and the
 identification has been taken from Haskell's Index to the Nation, which is based on
 the records of The Nation.
-Peirce: CP 8 Bibliography Introduction
 The present editor has sometimes made identifications on the basis of
 correspondence, manuscript drafts, a list in Widener VA2 of some of Peirce's reviews
 in volumes 50 through 57 of The Nation, and proof sheets. Rather strict criteria of
@@ -126045,7 +123705,6 @@ reviews in The Nation were modified by the editor of that journal. (See [CP]
 editor on the basis of Harvard manuscripts, the expression, "Identification based on
 Harvard mss.," is used.
 
-Peirce: CP 8 Bibliography Introduction
 Peirce Manuscript Sources. The most important collection of Peirce
 manuscripts, the source of almost all of the previously unpublished papers in
 Collected Papers, is in the Archives of Widener Library at Harvard University. It
@@ -126089,12 +123748,10 @@ B. Correspondence
 
 These manuscripts are identified in the present volume by designations, such as
 "Widener IB2-7," "Widener VA2," etc., following the above classification.
-Peirce: CP 8 Bibliography Introduction
 There is also a large collection of Peirce manuscripts in Houghton Library at
 Harvard University. This consists of about twenty-one boxes and bundles of material,
 mainly fragments and items of minor importance, which are unclassified and
 uncatalogued.
-Peirce: CP 8 Bibliography Introduction
 Considerable effort was made to locate other Peirce materials, and many
 sources were uncovered. In each case the source was inspected by the editor or by
 someone known to him to insure that all manuscripts of general importance were
@@ -126201,15 +123858,11 @@ LIST OF ABBREVIATIONS AND SYMBOLS
 which, in the editor's opinion, are Peirce's main contributions to philosophy (exclusive
 of symbolic logic) are marked with an asterisk.
 
-Peirce: CP 8 Abbreviations
 † Of the items which have been published but are not included in Collected
 Papers, those most interesting to specialists in Peirce's philosophy have been marked
 with a dagger.
-Peirce: CP 8 Abbreviations
 [AJM] American Journal of Mathematics.
-Peirce: CP 8 Abbreviations
 [BPSW] Bulletin of the Philosophical Society of Washington.
-Peirce: CP 8 Abbreviations
 [Cohen] Morris R. Cohen, "Charles S. Peirce and a Tentative Bibliography of
 his Published Writings," The Journal of Philosophy, Psychology, and Scientific
 Methods 13 (21 Dec 1916) 726-737; "Bibliography," pp. 733-737. Additions were
@@ -126217,7 +123870,6 @@ published in ibid., 15(10 Oct 1918)578-584. Both were reprinted with modificatio
 in "Bibliography of Peirce's Published Writing," Chance, Love, and Logic (edited by
 Morris R. Cohen), Harcourt, Brace, and Company, 1923, and Peter Smith, 1949, pp.
 309-318. The abbreviation designates all these publications collectively.
-Peirce: CP 8 Abbreviations
 [CP] Collected Papers of Charles Sanders Peirce, 8 vols. Collected Papers
 I-VI were edited by Charles Hartshorne and Paul Weiss, Harvard University Press,
 Cambridge, 1931-1935: Vol. I, Principles of Philosophy; Vol. II, Elements of Logic;
@@ -126228,21 +123880,17 @@ were edited by Arthur W. Burks, Harvard University Press, Cambridge, 1958.
 References to paragraphs employ the decimal notation used in Collected Papers, I-VI,
 e.g., "[CP] 5.431" refers to [CP], Vol. V, paragraph 431. Page references are given by
 the designation [CP] and the volume and page number, e.g., [CP] IV, 291.
-Peirce: CP 8 Abbreviations
 [CS -- ]. . . . Report of the Superintendent of the United States Coast Survey
 Showing the Progress of the Work for the Fiscal Year Ending with June, ---.
 Wash.: Gov. Printing Office, . . . . (Title pages for some years are unimportant
 variations of this.) Items from these reports are dated by year of publication and not
 by the fiscal year of the report.
-Peirce: CP 8 Abbreviations
 [Fisch] Max H. Fisch, "Alexander Bain and the Genealogy of Pragmatism,"
 Journal of the History of Ideas 15 (June 1954) 413-444.
-Peirce: CP 8 Abbreviations
 [Fisch-Cope] Max H. Fisch and Jackson I. Cope, "Peirce at the Johns
 Hopkins," Studies in the Philosophy of Charles Sanders Peirce (edited by Philip P.
 Wiener and Frederick H. Young), Harvard University Press, 1952, pp. 277-311,
 355-360, 363-374.
-Peirce: CP 8 Abbreviations
 [Fisch-Haskell] Max H. Fisch and Daniel C. Haskell, "Some Additions to
 Morris R. Cohen's Bibliography of Peirce's Published Writings," ibid., pp. 375-381.
 ("During the time when the Nation was in effect a weekly edition of the Post, it will
@@ -126250,14 +123898,11 @@ Morris R. Cohen's Bibliography of Peirce's Published Writings," ibid., pp. 375-3
 probably be found that most of Peirce's reviews in the Nation had already appeared in
 the Post." We have included the Post references given here, but have made no further
 search.)
-Peirce: CP 8 Abbreviations
 [Harvard -- ] A Catalogue of the Officers and Students of Harvard
 University for the Academical Year -- , Cambridge.
-Peirce: CP 8 Abbreviations
 [Haskell] Daniel C. Haskell, Index to the Nation (Volumes 1-105,
 1865-1917), The New York Public Library, New York: Volume 1, Index of Titles,
 1951; Volume 2, Index of Contributors, 1953.
-Peirce: CP 8 Abbreviations
 [International Geodetic Comm. ---, ---]. . . . Proceedings of the meeting of the
 Permanent Commission of the International Geodetic Association held at -- in the
 year -- , published in the year . . . . For example, '[International Geodetic Comm.,
@@ -126267,7 +123912,6 @@ en Europe Réunie à Hambourg du 4 au 8 Septembre 1878, rédiges par les
 secrétaires C. Bruhns and A. Hirsch, George Reimer, Berlin, 1879. These volumes are
 listed on Library of Congress cards under the heading: Internationale erdmessung,
 Permanente commission.
-Peirce: CP 8 Abbreviations
 [International Geodetic Conference ---, ---]. . . . Proceedings of the
 International Geodetic Conference which met at -- in the year -- , published in the
 year . . . . For example, '[International Geodetic Conference, Stuttgart, 1877]1878'
@@ -126276,18 +123920,13 @@ Internationale pour la Mesure des Degrés en Europe Réunie à Stuttgart du 27
 Septembre au 2 Octobre 1877, rédiges par les secrétaires C. Bruhns and A. Hirsch,
 Georg Reimer, Berlin, 1878. These volumes are listed on Library of Congress cards
 under the heading: Internationale erdmessung, Allgemaine Conferenz.
-Peirce: CP 8 Abbreviations
 [JHUC] Johns Hopkins University Circulars.
-Peirce: CP 8 Abbreviations
 [JHUR -- ]. . . . Annual Report of Johns Hopkins University for the year -- ,
 published in the year. . . . (Title pages for some years are unimportant variations of
 this.)
-Peirce: CP 8 Abbreviations
 [PAAAS] Proceedings of the American Academy of Arts and Sciences.
-Peirce: CP 8 Abbreviations
 [Perry] Ralph Barton Perry, The Thought and Character of William James, 2
 vols., Little, Brown and Company, Boston, 1935.
-Peirce: CP 8 Abbreviations
 [RNA -- ] Report of the National Academy of Sciences, for the year -- .
 
 Peirce: CP 8 Bibliography General 1860 [G-1860-1]
@@ -127397,7 +125036,6 @@ drafts of an advertisement written by Peirce, c.1893, Widener IB2-1. The organiz
 of the book given further below is a reconstruction from data found in a table of
 contents (c.1893) and ms. at Widener IB2-1 (where the material printed in [CP] VII is
 located) and from data in Collected Papers I-VI.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 "This work is distinguished from other logics, 1st, by the way it makes the
 nature of inquiry into real facts illuminate that of demonstration from fixed
 assumptions, and vice versa; 2nd, by drawing, not from any 'cannot-help-thinking,'
@@ -127406,7 +125044,6 @@ resolve the most obstinate logical doubts; and 3rd, by accepting (here is the up
 the whole discussion) the principle of continuity for lucerna pedibus in all the dark
 paths of scientific and philosophical exploration." [There follows a description of the
 contents; cf. the table of contents below.]
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 "But if, however, the field of possibility is not continuous, absolutely exact
 conclusions may be warranted. For this reason (among others), it is proper to consider
 the evidences for the reality of continuity. That we have a perfectly consistent
@@ -127415,7 +125052,6 @@ The author maintains that it is given in direct presentation. In this he is sust
 the psychological studies of Professor James; and he adds sundry arguments of his
 own. Besides, even if continuity is not given intuitively, its reality answers the logical
 conditions of a good theory.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 "The reality of continuity once admitted, the next question is what are we to
 regard as continuous and what as discontinuous? It is shown that to say that anything
 is continuous is to leave possibilities open which are closed by asserting that it is
@@ -127424,7 +125060,6 @@ anything as continuous until it is proved discontinuous. But absolute discontinu
 cannot be proved to be real, nor can any good reason for believing it real be alleged.
 We thus reach the conclusion that as a regulative principle, at least, ultimate
 continuity ought to be presumed everywhere.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 "The reality of continuity appears most clearly in reference to mental
 phenomena; and it is shown that every general concept is, in reference to its
 individuals, strictly a continuum. This (though asserted by Kant and others) did not
@@ -127434,36 +125069,28 @@ continuous. Therefore, the doctrine of the reality of continuity is simply that 
 the scholastics called realism; and though as they held it, it was a crude notion
 enough, yet as Dr. F. E. Abbot has proved, in another dress it is the doctrine of all
 modern science.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 "This point reached, a massive foundation has been laid for a philosophy
 which shall not take for its first axiom a principle utterly irreconcilable with all
 spiritual truth, and with some lighter matters the volume is brought to a close."
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 
 The contents included the following chapters of which some had been
 published earlier, and some were revised in 1893. Cf. [CP] 4.88n* and 6.278n1.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Book I, Of Reasoning in General. Introduction, The Association of Ideas; [CP]
 7.388-450 (c.1893), except 392n7, are from it.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Division I, Reasoning Formally Studied. Chapter I, The Categories; [CP]
 1.545-559, except 549n1; [Bibliography] G-1867-1c. Chapter II, Signs. (A manuscript
 in Widener IB2-1, with a heading, "The Art of Reasoning," and a title, "Ch. 2. What is
 a Sign?" is probably chapter two of a draft of the Grand Logic. [CP] 2.281, 2.285,
 2.297-302 are from this manuscript, c.1895.)
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Division II, Transcendental Logic. Chapter III, The Materialistic Aspect of
 Reasoning; [CP] 6.278-286. Chapter IV, What is the Use of Consciousness?; [CP]
 7.559-564 (c.1893). Chapter V, The Fixation of Belief; [CP] 5.358-387;
 [Bibliography] G-1877-5a.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Division III, Reasoning Substantially Studied. Chapter VI, The Essence of
 Reasoning; [CP] 4.21-52 and 7.463-467 are from one draft, in that order; [CP]
 4.53-79 are from an alternative draft with deletions.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Book II, Demonstrative Reasoning. Introduction, Chapter VII, Analysis of
 Propositions.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Division I, Stecheology. Part 1, Non Relative. Chapter VIII, The Algebra of
 the Copula. Chapter IX, The Aristotelian Syllogistic; [CP] 2.445-460 with deletions.
 Chapter X, Extension of the Aristotelian Syllogistic; [CP] 2.532-535 with deletions.
@@ -127472,16 +125099,13 @@ Relatives. Chapter XIII, Simplification for Dual Relatives. (According to [CP]
 2.517n†* and 3.345n this chapter contained rewritten versions of [Bibliography]
 G-1883-7c and 7d, [CP] 2.517-531 and 3.328-358, respectively.) Chapter XIV,
 Second Intentional Logic; [CP] 4.80-84.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Division II, Methodology. Chapter XV, Breadth and Depth; [CP] 2.391-426;
 [Bibliography] G-1867-1e. ("Terminology," [CP] 2.427-430, [Bibliography]
 G-1893-7, is a supplement to it.) Chapter XVI, Clearness of Ideas; [CP] 5.388-410;
 [Bibliography] G-1877-5b.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Book III, Quantitative Logic. Chapter XVII, Logic of Quantity; [CP] 4.85-152
 with deletions and a marginal note. Chapter XVIII, The Doctrine of Chances; [CP]
 2.645-660; [Bibliography] G-1877-5c. Chapter XIX, Induction etc.
-Peirce: CP 8 Bibliography General 1893 [G-1893-5]
 Appendix I, Recreations and Exercises. Glossarial Index.
 
 Peirce: CP 8 Bibliography General 1893 [G-1893-6]
@@ -127608,22 +125232,18 @@ Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 5. The Principles of Philosophy: or, Logic, Physics, and Psychics,
 considered as a unity, in the Light of the Nineteenth Century, a planned and partly
 executed work of twelve volumes. [CP] 1.176-179 (c.1896) is apparently a foreword.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 The following is almost all of a printed prospectus in Widener VA2. Cf.
 [Bibliography] N-1894-1 on the basis of which this is dated c.1893.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "This philosophy, the elaboration of which has been the chief labor of the
 author for thirty years, is of the nature of a Working Hypothesis for use in all
 branches of experiential inquiry. Unmistakable consequences can be deduced from it,
 whose truth is not yet known but can be ascertained by observation, so as to put the
 theory to the test. It is thus at once a philosophy and a scientific explanation of
 observed facts.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "The actual comparison of its consequences with observation can by Mr.
 
 Peirce himself only be commenced. He will, however, carry the operation far enough
 to convince the most skeptical of its entire feasibility.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Both logically and dynamically the whole doctrine develops out of the desire
 to know, or philosophia, which carries with it the confession that we do not know
 already. In those branches of knowledge that are the most perfect no self-respecting
@@ -127638,19 +125258,16 @@ conceived in a spirit of utter surrender to the force majeure of Experience, or 
 Course of Life; and it is through such self-abnegation that all Power comes. But how
 far this hope is fulfilled must be determined by the success or failure of such
 predictions as are deducible from the theory.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "The principles supported by Mr. Peirce bear a close affinity with those of
 Hegel; perhaps are what Hegel's might have been had he been educated in a physical
 laboratory instead of in a theological seminary. Thus, Mr. Peirce acknowledges an
 objective logic (though its movement differs from the Hegelian dialectic), and like
 Hegel endeavors to assimilate truth got from many a looted system.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "The entelechy and soul of the work, from which every part of its contents
 manifestly flows, is the principle of continuity, which has been the guiding star of
 exact science from the beginning, but of which novel and unexpected applications are
 now made. The logical ground of this principle is examined and its precise formula
 established.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "The principle of continuity leads directly to Evolutionism, and naturally to a
 hearty acceptance of many of the conclusions of Spencer, Fiske, and others. Only,
 Matter, Space, and Energy will not be assumed eternal, since their properties are
@@ -127658,7 +125275,6 @@ mathematically explicable as products of an evolution from a primeval (and infin
 long past) chaos of unpersonalized feeling. This modified doctrine, so much in
 harmony with the general spirit of evolutionism, quite knocks the ground from under
 both materialism and necessitarianism.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "In religion, the new philosophy would teach us to await and expect definite
 and tangible facts of experience, actually undergone. While details of dogma are
 beyond its province, it would favor rather old-fashioned Christianity, than any attempt
@@ -127666,11 +125282,9 @@ to make a christianoidal metaphysics serve in lieu of religion. Still less could
 a theology of phrases which should label an abstraction 'God' and influence with
 posterity 'A future life.' It distinctly upholds a Christian Sentimentalism, as
 contra-distinguished from a gospel of salvation through intelligent greed."
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 The following is all but the title of a printed prospectus in Widener,
 
 catalogued under Phys. 5.1.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. I. (Nearly ready.) Review of the Leading Ideas of the Nineteenth
 Century. Defines the essential ideas involved in and sentiments fostered by political
 economy, machinery and modern inventions, labor unions, socialism, scientific
@@ -127689,7 +125303,6 @@ to hope, be met by the further application of it. Sketch of a thoroughgoing phil
 of continuity. The great opponent of this philosophy has been in history, and is in
 logic, infallibilism, whether in its milder ecclesiastical form, or in its more dire
 scientistic and materialistic apparitions.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. II. (Substantially ready.) Theory of Demonstrative Reasoning. The first
 part of this volume contains a plain, elementary account of formal logic, ordinary and
 relative. It has been very carefully adapted to the use of young persons of mediocre
@@ -127701,7 +125314,6 @@ having thus been accurately described and the working of it taught, the third pa
 the volume makes a careful analysis of it, and shows what the natures of its different
 ingredients are. The principle of continuity is shown to be the crown of the logic of
 relatives.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. III. The Philosophy of Probability. After an analysis of the nature of
 probability, the principles of the calculus are set forth. The doctrine of inverse
 probabilities refuted. The theory of inductive and hypothetic inference set forth nearly
@@ -127712,7 +125324,6 @@ bad reasoning into which those fall who follow looser rules. A few inferences
 admitted by Mr. Peirce as valid are disallowed by some writers. Their inconsistency
 in this shown, and that those writers simply maintain an unreasonable skepticism
 concerning some questions which they do not extend to others quite analogous.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. IV. Plato's World: An Elucidation of the Ideas of Modern
 Mathematics. A lucid analysis of the logic and conceptions of the calculus,
 imaginaries, the theory of functions, and the non-Euclidean geometry. The
@@ -127723,7 +125334,6 @@ stated by some authors inadequate to its purpose; as stated by others, really in
 reasoning about infinity. It is imposible to assign any reason for the dogma that we
 cannot reason mathematically about infinity; one might as well say we cannot reason
 mathematically about imaginaries.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol V. Scientific Metaphysics. Begins with the theory of cognition. The
 nature of reality discussed as in the author's papers in the Popular Science Monthly;
 but the position taken is now set forth more clearly, fully, and in psychological detail.
@@ -127731,7 +125341,6 @@ The reality of the external world. Primary and secondary qualities. The evidence
 the real existence of continuity. The question of nominalism and realism from the
 point of view of continuity. Continuity and evolution. Necessitarianism refuted.
 Further corollaries from the principle of continuity.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. VI. Soul and Body. Begins with an analysis of the law of association,
 which is somewhat generalized. The question of fatigue and its law. Review of
 psychological phenomena. The apparent discontinuity of sense-qualities considered.
@@ -127746,19 +125355,15 @@ rigidly deduced from the hypothesis. A considerable number of these are shown to
 true, while none are known to be false. One prediction of a fact hitherto unknown is
 shown to be supported by observation. Others remain to be tested by future
 experience, and the theory will have to stand or fall by the result.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. VII. Evolutionary Chemistry. The working out of the consequences of
 the theory of universal evolution into chemistry. Mendeléeff's law.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. VIII. Continuity in the Psychological and Moral Sciences.
 Mathematical economics. Precisely similar considerations supposed by utilitarians to
 determine individual action. But, this being granted, Marshall and Walras's theorem
 leads to a mathematical demonstration of free will. Refutation of the theory of
 motives. The true psychology of action expounded.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. IX. Studies in Comparative Biography. The application of
 mathematical principles in a new way to this study.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. X. The Regeneration of the Church. The philosophy of continuity is
 peculiar in leading unequivocally to Christian sentiments. But there it stops. This
 metaphysics is only an appendix to physics; it has nothing positive to say in regard to
@@ -127769,16 +125374,13 @@ positive facts, so it must itself have a positive content. A series of plays upo
 will not answer for a religion. This philosophy shows that there is no philosophical
 objection to the positive dogmas of Christianity; but the question as to their truth lies
 out of its province.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. XI. A Philosophical Encyclopaedia. The philosophy of continuity leads
 to an objective logic, similar to that of Hegel, and to triadic categories. But the
 movement seems not to accord with Hegel's dialectic, and consequently the form of
 the scheme of categories is essentially different. Systematic perfection seems to be for
 the present neither requisite nor attainable; but something like Hegel's Encyclopaedia
 is proposed.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Vol. XII. Index raisonné of ideas and words.
-Peirce: CP 8 Bibliography General c.1893 [G-c.1893-5]
 "Mr. Peirce does not hold himself pledged to follow precisely the above
 syllabus, which, on the contrary, he expects to modify as the work progresses. He will
 only promise that he will not depart from this programme except to improve upon it.
@@ -127900,7 +125502,6 @@ Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 
 * 1. Cambridge lectures. A number of different sets of lectures were prepared.
 Cf. [Perry] II, 418-421. There are mss. at Widener IB2-10 and IB3.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 The following is from a printed announcement at Widener VB3b.
 "CAMBRIDGE CONFERENCES, Revised Announcement: Mr. CHARLES
 SANDERS PEIRCE of Milford, Pennsylvania will give a course of Eight Class
@@ -127908,34 +125509,24 @@ Lectures on REASONING AND THE LOGIC OF THINGS, at the rooms of the
 Cambridge Conferences, Studio House, 168 Brattle Street, on Monday and Thursday
 Evenings in February and March, 1898, at eight o'clock. The special topics and dates
 will be as follows:
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 10. Philosophy and the Conduct of Life.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 14. Types of Reasoning.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 17. The Logic of Relatives.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 21. The First Rule of Logic.
 
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 24. Training in Reasoning.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 February 28. Causation and Force.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 March 3. Habit.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 March 7. The Logic of Continuity.
 The course herein outlined will be of unusual interest and value to students and
 teachers of Philosophy. It is hoped that many will avail themselves of the privilege of
 attending. . . ."
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 Selections from a set of eight lectures, originally written for the occasion on
 which the above lectures were given ([CP] 1.622, 6.212n*), are printed in Collected
 Papers, Volume VI as follows: Lecture 8, "Logic of Events," 6.1-5, 6.214-221 (with
 6.214 continuing 6.5), with minor deletions; "Notes for Eight Lectures," 6.222-237
 with deletion, cf. 6.222n*; "The Logic of Continuity," an alternative draft of Lecture 8
 (6.1n*), 6.185-213 with deletions (cf. 7.514n14).
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 The following lectures are also associated with this occasion. It is implied at
 [CP] 6.212n* and elsewhere in [CP] I-VI that they were delivered under the title
 "Detached Ideas on Vitally Important Topics." Lecture 1. Philosophy and the Conduct
@@ -127945,7 +125536,6 @@ deletions. Lecture 2. Detached Ideas. [CP] 4.1-5 are from it. Cf. [Bibliography]
 G-c.1898-1. Lecture 3. The First Rule of Logic. [CP] 5.574-589. Cf. [Bibliography]
 G-c.1899-1. Lecture 4. Causation and Force. [CP] 6.6681, 7.518-523, 6.82-87 in that
 order are all but the first paragraph. Cf. [CP] 7.518n16.
-Peirce: CP 8 Bibliography General 1898 [G-1898-1]
 The following very probably belong to this series. Lecture 2(?). "Detached
 Ideas; Induction, Deduction, and Hypothesis." [CP] 7.494n9 (c.1898) is from it. There
 is also a ms. in Widener IB2-10 entitled "Types of Reasoning," which may be a
@@ -128079,7 +125669,6 @@ James Mark Baldwin), 3 vols., The Macmillan Co., New York. Vol. I, 1901; Vol. II
 apparently differs from the original only with regard to minor corrections; the
 introductions, pagination, etc., are the same.
 
-Peirce: CP 8 Bibliography General 1901 [G-1901-6]
 The following information comes from the Editor's Preface, pp. xi-xii. The
 contributors are not responsible for the recommendations as to foreign equivalents.
 Joint authorship is indicated by connecting the two sets of initials by a hyphen. A
@@ -128090,7 +125679,6 @@ Christine Ladd-Franklin, not by Peirce, though they were accepted by him:
 Signification (and Application, in logic), in part (see below for a contribution to this
 article that is by Peirce), Vol. II, p. 528, reprinted at [CP] 2.431433; and
 Transposition, Vol. II, p. 713, reprinted at 3.644-645.
-Peirce: CP 8 Bibliography General 1901 [G-1901-6]
 Peirce's contributions to the articles constitute in many cases only parts of
 articles, and sometimes these are not consecutive parts of an article. The references
 below to his works are given as follows. The term defined is given first, followed by
@@ -128098,7 +125686,6 @@ the pagination of Peirce's contribution in the dictionary; if the contribution i
 this is indicated in parentheses following the page reference. If the contribution is
 reprinted in Collected Papers, the paragraph reference follows a semicolon; if Peirce's
 contribution was not reprinted in its entirety, this is indicated.
-Peirce: CP 8 Bibliography General 1901 [G-1901-6]
 Volume I: Economy (logical principle of), 309. Empirical Logic, 318 (with R.
 Adamson). Equipollence or -cy, 338. Genus (in logic), 411. Given, 414. Imaging (in
 logic), 518-519; [CP] 3.609-610. Implicit (in logic), 525-526; [CP] 2.603-604.
@@ -128107,7 +125694,6 @@ Inconsistency, 529; [CP] 2.609-611. Independence, 530. Index (in exact logic),
 542-543. Insolubilia, 554; [CP] 2.618. Intention, 561; [CP] 2.548. Involution, 574;
 [CP] 3.614-615. Kind, 600-601; [CP] 6.384. Knowledge (in logic), 603; [CP]
 5.605-606. Laws of Thought, 641-643, 644; [CP] 2.593-600 (641-643 only).
-Peirce: CP 8 Bibliography General 1901 [G-1901-6]
 Volume II: Leading of Proof, 1. Leading Principle, 1-2; [CP] 2.588-589.
 Lemma, 3. Light of Nature, 6. Limitative, 6-7; [CP] 2.381 (deletion). Logic, 20-23;
 [CP] 2.203-218 (deletion). Logic (exact), 23-27; [CP] 3.616-625 (deletions). Logical,
@@ -128229,17 +125815,13 @@ Peirce: CP 8 Bibliography General c.1902 [G-c.1902-2]
 * 2. Minute Logic, an uncompleted book. Ch. 1-3 and part of Ch. 4 were
 finished, and further chapters were planned ([CP] 1.274, 1.277, 1.283n{tt}, 1.584n*;
 [CP]II, iii; [CP] 2.197, 4.227, 4.242, 4.244, 4.274, 4.323, 6.349n†).
-Peirce: CP 8 Bibliography General c.1902 [G-c.1902-2]
 Chapter 1. Intended Characters of this Treatise. [CP] 2.1-118 (1902) with
 deletions. (See [Perry]II, 422 concerning an earlier version of [CP] 2.9.)
-Peirce: CP 8 Bibliography General c.1902 [G-c.1902-2]
 Chapter 2. Prelogical Notions. Section 1. Classification of the Sciences.
 Widener IB2-2, 1902. [CP] 1.203-283, 7.374n10, 7.279, and 7.362-387 except
 381n19, are from it in that order; cf. 7.362n1, 7.363n5. Section 2. Why Study Logic.
 [CP] 2.119-202.
-Peirce: CP 8 Bibliography General c.1902 [G-c.1902-2]
 Chapter 3. The Simplest Mathematics. [CP] 4.227-323 (1902) with deletions.
-Peirce: CP 8 Bibliography General c.1902 [G-c.1902-2]
 Chapter 4. Ethics. [CP] 1.575-584 and 6.349-352 (both dated 19021903) are
 from it.
 Peirce: CP 8 Bibliography General c.1902 [G-c.1902-3]
@@ -128259,26 +125841,19 @@ Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 * 1. A series of lectures on pragmatism, delivered at Harvard University,
 
 March-May, 1903.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture I. On pragmatism and the normative sciences. [CP] 5.14-40.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture II. Draft 1, "On Phenomenology"; [CP] 1.322-323 (c.1903) are from
 it. Draft 2, "On Phenomenology"; [CP] 5.41-56 (cf. 5.41n*) are from it. Draft 3, "On
 Phenomenology, or the Categories"; [CP] 5.59-65.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture III. On the categories. (Cf. [CP] 5.66n*, 5.82n*.) Version "a," "The
 Categories continued"; [CP] 5.71n1 and 5.82-87 are from it. Version "b," "The
 Categories Defended"; [CP] 5.66-81 (except 5.71n1, 5.77n1) and 5.88-92 are from it.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture IV. "The Seven Systems of Metaphysics." [CP] 5.77n1, from the
 beginning; 5.93-119, following shortly after 5.77n1; 5.57-58, part of a digression at
 the end (5.57n*); 1.314-316, an apparently undelivered passage (1.314n*, 5.118n*).
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture V. On three kinds of goodness. [CP] 5.120-150, from the third and
 final draft.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture VI. On three types of reasoning. [CP] 5.151-179 with a deletion.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 Lecture VII. On pragmatism and abduction. [CP] 5.180-212. It is not certain
 that this lecture was given. According to the Peirce-James correspondence ([Perry]II,
 426-427) and [CP] 5.180n*, only six lectures were planned. [CP] 5.180-212 are taken
@@ -128286,7 +125861,6 @@ from a notebook which is marked "Pragmatism -- Lecture VII" and which seems to
 belong to the set of notebooks from which the other lectures of this series printed in
 Collected Papers are taken. At the beginning of this notebook Peirce says this is an
 extra lecture.
-Peirce: CP 8 Bibliography General 1903 [G-1903-1]
 In Lecture VII ([CP] 5.201) Peirce refers to "tomorrow evening's lecture on
 multitude and continuity." There is in Houghton Library a notebook labeled
 "Multitude and Continuity. A lecture to be delivered . . . in Harvard University, 1903
@@ -128301,36 +125875,27 @@ Peirce: CP 8 Bibliography General 1903 [G-1903-2a]
 Bearing on Questions Now Vexed." This title and the titles and dates for the
 individual lectures were taken from a ticket in Widener VA2; the material printed in
 [CP] VII is in Widener IB2-4. Cf. [Perry]II, 426.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 
 Lecture I. What Makes a Reasoning Sound? Nov. 23. The following are from
 it: [CP] 1.591-610 from Vol. 1, draft 3; 1.611-615 and 8.176 (except 176n3),
 following shortly after 1.611-615, from Vol. 2, draft 2, a continuation of Vol. 1, draft
 3.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture II. A System of Diagrams for Studying Logical Relations. Exposition
 of it begun. Nov. 27.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture III. The Three Universal Categories and their Utility. Nov. 30. The
 following are from it: [CP] 1.15-26 from Lecture IIIa; 1.324 from Lecture III, Vol. 1,
 draft 3; 1.343-349 from Lecture III, Vol. 1, draft 3; 1.521-544 from Lecture III, Vol.
 2, draft 3, following 1.349.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture IV. Exposition of the System of Diagrams Completed. Dec. 3. [CP]
 4.510-529 with deletions; 4.529n* contains material found on a separate sheet,
 apparently for use in a similar lecture.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture V. The Doctrine of Multitude, Infinity and Continuity. Dec. 7. Cf.
 reference at [CP] 5.201n*.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture VI. What is Chance? Dec. 10. [CP] 6.88-97 are from it.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture VII. Induction as Doing, not mere Cogitation. Dec. 14. [CP]
 7.110-130 are from Vol. 1.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Lecture VIII. How to Theorize. Dec. 17. [CP] 5.590-604 and 7.182n7,
 following shortly after 5.604, are from it.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 Two quotations from these lectures are given at [CP] 3.45n* and 3.154n1.
 Peirce: CP 8 Bibliography General 1903 [G-1903-2b]
 (b) A Syllabus of Certain Topics of Logic, Alfred Mudge & Son, Boston,
@@ -128342,14 +125907,11 @@ Terminology," [CP] 2.219-226 continuing 1.202; pp. 15-23, "Existential Graphs,"
 [CP] 4.394-417, continuing 2.226, with a revision of c.1910.
 Peirce: CP 8 Bibliography General 1903 [G-1903-2c]
 (c) A partly printed work in two parts:
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 "Nomenclature and Divisions of Dyadic Relations," printed separately in eight
 pages (c.1903). [CP] 3.571-587. [CP] 3.588-608 are from the ms. (c.1903).
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 
 "Nomenclature and Divisions of Triadic Relations, as far as they are
 determined." [CP] 2.233-272, from the ms. (c.1903), continuing 3.608.
-Peirce: CP 8 Bibliography General 1903 [G-1903-2]
 This two-part work was apparently intended as the second part of the previous
 item. See references: [CP] 3.571n*, 3.587n{tt}, 3.598n* (p. 383), 3.608n{tt};,
 2.233n*.
@@ -128456,13 +126018,7 @@ In a letter to F. A. Woods, [Bibliography]M-22, Peirce says that the material
 in [CP] 4.569, from "For the sake of illustrating this . . ." up to the statement of the
 Fourth Permission, is wrong. He says: "Instead of scribing
 
-[Click
-here to view]
-
 as I did, I should have scribed
-
-[Click here
-to view]
 
 Peirce: CP 8 Bibliography General 1905 [G-1905-1c]
 ". . . [This fallacy] cost me the trouble of my nonsensical 'tinctures' and
@@ -130104,8 +127660,6 @@ different bibliography references, e.g., [CP] 3.200 and 3.200n*.
 
 Peirce: CP 8 Cross-Reference Index Volume 1
 VOLUME I
-Paragraph
-Number
 
 Bibliography
 Item
@@ -130250,8 +127804,6 @@ G-c.1895-3
 
 343-349
 
-G-1903-2a
-
 350-352
 
 G-c.1905-5
@@ -130284,8 +127836,6 @@ G-c.1896-2
 
 521-544
 
-G-1903-2a
-
 545-559
 
 G-1867-1c;
@@ -130313,8 +127863,6 @@ G-1905-1d (1906)
 
 575-584
 
-G-c.1902-2
-
 585-588
 
 G-c.1903-1
@@ -130325,19 +127873,12 @@ G-c.1900-1 (c.1903)
 
 591-615
 
-G-1903-2a
-
 616-677
 
 G-1898-1
 
 Peirce: CP 8 Cross-Reference Index Volume 2
 VOLUME II
-Paragraph
-Number
-
-Bibliography
-Item
 
 1-202 G-c.1902-2
 203-218
@@ -130382,15 +127923,11 @@ G-1893-5 (c.1895)
 
 286-291
 
-G-c.1893-3
-
 292-294
 
 G-1903-2d (c.1902)
 
 295-296
-
-G-c.1893-3
 
 297-302
 
@@ -130398,15 +127935,11 @@ G-1893-5 (c.1895)
 
 303-304
 
-G-1901-6 (1902)
-
 305-306
 
 G-1901-6
 
 307-308
-
-G-1901-6 (1902)
 
 309-331
 
@@ -130418,13 +127951,10 @@ G-c.1895-1
 
 357-390
 
-G-1901-6 (1902)
-
 391-426
 
 G-1867-1e;
 G-1893-5;
-G-1893-6
 
 427-430
 
@@ -130434,11 +127964,7 @@ G-1893-7
 
 G-1901-6 (not by Peirce)
 
-G-1901-6
-
 435-444
-
-G-c.1893-3
 
 444n1 G-c.1897-3
 445-460
@@ -130448,7 +127974,6 @@ G-1893-5
 461-516
 
 G-1867-1b;
-G-1893-6
 
 517-531
 
@@ -130456,72 +127981,34 @@ G-1883-7c; G-1893-5
 
 532-535
 
-G-1893-5
-
 536-547
-
-G-1901-6
-
-G-1901-6
-
-G-1901-6
 
 G-1876-1
 
 551-592
 
-G-1901-6
-
 593-600
-
-G-1901-6
-
-(1902)
-
-(1902)
-
-(1902)
 
 601-602
 
-G-1901-6
-
 603-604
-
-G-1901-6
 
 605-608
 
-G-1901-6
-
 609-611
 
-G-1901-6
-
 612-617
-
-G-1901-6
-
-G-1901-6
 
 619-644
 
 G-1877-5f
 
-(1902)
-
-(1902)
-
-(1902)
-
 (1878);
 
-G-1893-6
 645-660
 
 G-1877-5c (1878);
 G-1893-5;
-G-1893-6
 
 661-668
 
@@ -130530,12 +128017,10 @@ G-1910-2
 669-693
 
 G-1877-5d (1878);
-G-1893-6
 
 694-754
 
 G-1883-7b;
-G-1893-6
 
 755-772
 
@@ -130544,29 +128029,20 @@ G-c.1905-1
 757n1 G-c.1902-1
 773-791
 
-G-1901-6 (1902)
-
 792-807
 
 G-1866-2b
 
 Peirce: CP 8 Cross-Reference Index Volume 3
 VOLUME III
-Paragraph
-Number
 
 1-19
-
-Bibliography
-Item
 
 G-1867-1a
 
 20-44 G-1867-1d
 45-149 G-1870-1
 45n*
-
-G-1903-2a
 
 150-151
 
@@ -130603,7 +128079,6 @@ G-1882-8
 328-358
 
 G-1883-7d;
-G-1893-5
 
 359-403
 
@@ -130640,15 +128115,9 @@ G-1903-2c
 
 609-615
 
-G-1901-6
-
 616-643
 
-G-1901-6 (1902)
-
 644-645
-
-G-1901-6
 
 (1897)
 
@@ -130662,11 +128131,7 @@ G-1883-1
 Peirce: CP 8 Cross-Reference Index Volume 4
 VOLUME IV
 Paragraph Bibliography
-Number
 1-5
-
-Item
-G-1898-1
 
 6-11
 
@@ -130686,8 +128151,6 @@ G-1897-1
 187n1 G-1892-1b
 227-323
 
-G-c.1902-2
-
 324-330
 
 G-c.1904-1
@@ -130702,15 +128165,11 @@ G-1905-6
 
 347-349
 
-G-1901-6 (1902)
-
 350-371
 
 G-c.1903-3
 
 372-393
-
-G-1901-6 (1902)
 
 394-417
 
@@ -130722,8 +128181,6 @@ G-c.1903-2
 
 510-529
 
-G-1903-2a
-
 530-572
 
 G-1905-1c (1906)
@@ -130731,13 +128188,9 @@ G-1905-1c (1906)
 534n1 G-1905-1h
 (c.1906)
 553n1 (p. 441)G-1905-1h
-(c.1906)
 553n2 G-1905-1e
-(c.1906)
 561n1 G-1905-1e
-(c.1906)
 564n1 G-1905-1f
-(c.1906)
 573-584
 
 G-1906-2
@@ -130749,8 +128202,6 @@ G-1908-1a
 594-642
 
 G-1908-1b
-
-(1902)
 
 643-646
 
@@ -130766,15 +128217,8 @@ G-1908-1e
 
 Peirce: CP 8 Cross-Reference Index Volume 5
 VOLUME V
-Paragraph
-Number
-
-Bibliography
-Item
 
 1-4
-
-G-1901-6 (1902)
 
 5-10
 
@@ -130782,7 +128226,6 @@ G-c.1907-1b
 (c.1905)
 
 11-13 G-c.1907-1c
-(c.1906)
 13n1
 
 G-1889-3 (c.1902)
@@ -130791,30 +128234,25 @@ G-1889-3 (c.1902)
 213-263
 
 G-1868-2a;
-G-1893-6
 
 264-317
 
 G-1868-2b;
-G-1893-6
 
 318-357
 
 G-1868-2c (1869);
-G-1893-6
 
 358-387
 
 G-1877-5a;
 G-1893-5;
-G-1893-6
 
 358n* G-1909-1
 388-410
 
 G-1877-5b (1878);
 G-1893-5;
-G-1893-6
 
 402n3 G-1905-1b
 411-437
@@ -130858,23 +128296,13 @@ G-c.1906-1
 
 565-573
 
-G-1901-6 (1902)
-
 574-589
-
-G-1898-1
 
 590-604
 
-G-1903-2a
-
 605-606
 
-G-1901-6
-
 607-609
-
-G-1901-6 (1902)
 
 610-614
 
@@ -130882,15 +128310,7 @@ G-1906-1
 Peirce: CP 8 Cross-Reference Index Volume 6
 VOLUME VI
 
-Paragraph
-Number
-
-Bibliography
-Item
-
 1-5
-
-G-1898-1
 
 G-c.1903-4
 
@@ -130914,8 +128334,6 @@ G-1889-3 (1903)
 
 169-173
 
-G-1901-6 (1902)
-
 174-176
 
 G-1905-1e (1906)
@@ -130925,8 +128343,6 @@ G-1905-1e (1906)
 G-c.1911-1
 
 185-237
-
-G-1898-1
 
 238-271
 
@@ -130939,8 +128355,6 @@ G-c.1893-2
 
 278-286
 
-G-1893-5
-
 287-317
 
 G-1891-1e(1893)
@@ -130951,22 +128365,13 @@ G-1908-1e (c.1909)
 
 349-352
 
-G-c.1902-2
-
 353-383
 
-G-1901-6 (1902)
-
-G-1901-6
-
 385-394
-
-G-1901-6 (1902)
 
 395-427
 
 G-1877-5e (1878);
-G-1893-6
 
 428-434
 
@@ -131024,15 +128429,8 @@ G-1868-1b
 
 Peirce: CP 8 Cross-Reference Index Volume 7
 VOLUME VII
-Paragraph
-
-Bibliography
-
-Number
 
 1-12
-
-Item
 
 G-1883-5b
 
@@ -131046,8 +128444,6 @@ G-1883-5b
 79-96 G-1901-6 (1902)
 97-109 G-c.1910-3
 110-130
-
-G-1903-2a
 
 131-138
 
@@ -131121,8 +128517,6 @@ G-c.1873-1
 
 362-387
 
-G-c.1902-2
-
 381n19
 
 G-c.1902-5
@@ -131131,8 +128525,6 @@ G-c.1902-5
 
 G-1893-5 (c.1893)
 
-(1902)
-
 392n7 G-c.1893-4
 451-462
 
@@ -131140,15 +128532,11 @@ G-undated-11
 
 463-467
 
-G-1893-5
-
 468-517
 
 G-1898-1 (c.1898)
 
 518-523
-
-G-1898-1
 
 524-538
 
@@ -131165,8 +128553,6 @@ G-undated-9
 G-undated-14
 
 555-558
-
-G-c.1893-3
 
 559-564
 
@@ -131189,12 +128575,8 @@ G-1903-5
 
 Peirce: CP 8 Cross-Reference Index Volume 8
 VOLUME VIII
-Paragraph
-Number
 1-6
 
-Bibliography
-Item
 G-1867-2
 
 7-38
@@ -131269,8 +128651,6 @@ G-1901-8
 171-175
 
 N-1903-21
-
-G-1903-2a
 
 176n3 G-1902-6
 177-185

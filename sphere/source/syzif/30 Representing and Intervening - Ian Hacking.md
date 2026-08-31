@@ -1,4 +1,3 @@
-
 REPRESENT ING AND INTERVENING
 
 REPRESENTING
@@ -170,8 +169,6 @@ x
 
 xv
 
-I
-
 3 2
 4 1
 5 8
@@ -187,11 +184,7 @@ I 1 2
 2 1 0
 2 33
 
-Analytical table of contents
-
 Introduction: Rationality
-
-I
 
 Rationality and realism are the two main topics of today's philosop­
 
@@ -237,8 +230,6 @@ truth can be established by observation are to be believed.
 Positivists are dubious about such concepts as causation and
 
 x
-
-Analytical table of contents
 
 xi
 
@@ -305,8 +296,6 @@ described and compared to Kant's philosophy. Both Putnam and
 Kuhn come close to what is best called transcendental nominalism.
 
 xii
-
-Analytical table of contents
 
 8 A surrogate for truth
 
@@ -377,8 +366,6 @@ what we see largely because quite different physical systems provide
 the same picture. We even ' see ' with an acoustic microscope that
 
 uses sound rather than light .
-
-Analytical table of contents
 
 xiii
 
@@ -546,10 +533,6 @@ Scientific realism is the other major issue. We ask: What is the
 world? What kinds of things are in it? What is true of them? What is
 truth? Are the entities postulated by theoretical physics r�al, or only
 
-I
-
-Introduction: Rationality
-
 constructs of the human mind for organizing our experiments?
 
 These are questions about reality. They are metaphysical. In this
@@ -611,8 +594,6 @@ How could history produce a crisis? In part because of the previous
 image of mummified science. At first it looks as if there was not
 
 exactly one image. Let us take a couple of leading philosophers for
-
-Introduction: Rationality
 
 illustration. Rudolf Carnap and Karl Popper both began their
 
@@ -686,8 +667,6 @@ laws of nature. Carnap's philosophy is a twentieth-century version
 of this attitude. He thought of our observations as the foundations
 
 for our knowledge, and he spent his later years trying to invent an.
-
-Introduction: Rationality
 
 inductive logic that would explain how observational evidence
 
@@ -821,8 +800,6 @@ sociologists, or psychologists will ask a battery of questions: Who
 
 made the discovery? When? Was it a lucky guess, an idea filched
 
-Introduction: Rationality
-
 from a rival, or the pay-off for 20 years of ceaseless toil? Who paid
 
 for the research? What religious or social milieu helped or hindered
@@ -893,8 +870,6 @@ The context of justification cannot be separated from the
 context of discovery.
 
 Science is in time, and is essentially historical.
-
-Introduction: Rationality
 
 Is reason in question?
 
@@ -967,8 +942,6 @@ refutation business at all. It does, on the other hand, constructively
 
 accumulate a body of knowledge and concepts in some domain.
 
-Introduction: Rationality
-
 Crisis and revolution
 
 S ometimes anomalies do not go away. They pile up. A few may
@@ -1031,8 +1004,6 @@ The thought of a scientific revolution is not Kuhn's. We have long
 had with us the idea of the Copernican revolution, or of the
 
 ' scientific revolution ' that transformed intellectual life in the
-
-Introduction: Rationality
 
 seventeenth century. In the second edition of his Critique of Pure
 Reason ( 1 7 87), Kant speaks of the' intellectual revolution ' by which
@@ -1111,8 +1082,6 @@ for the History of Ideas 37 (1976), pp. 257-88.
 
 IO
 
-Introduction: Rationality
-
 Paradigm-as-achievement
 
 ' Paradigm ' has been a vogue word of the past twenty years, all
@@ -1170,8 +1139,6 @@ corresponds with whom, who telephones, who is on the preprint
 
 l ists, who is invited to the innumerable specialist disciplinary
 gatherings where front-line information is exchanged years before
-
-Introduction: Rationality
 
 I 1
 
@@ -1239,8 +1206,6 @@ figure that can be seen now as a rabbit," now as a duck. Religious
 conversion is said to be a momentous version of a similar pheno-
 
 1 2
-
-Introduction : Rationality
 
 menon, bringing with it a radical change in the way in which one
 
@@ -1393,8 +1358,6 @@ community.
 
 Chicago, 1977, pp. 320-39.
 
-Introduction : Rationality
-
 Anarcho-rationalism
 
 Kuhn did not, I think, originally intend to address reason at all . His
@@ -1469,8 +1432,6 @@ logical nor empirical content (nor even the confirmed consequences) of
 earlier theories is wholly preserved when those theories are supplanted by
 newer ones.
 
-Introduction: Rationality
-
 1 5
 
 (2) Theories are generally not rejected simply because they have
@@ -1536,8 +1497,6 @@ perceptive). I do say of my foolish uncle Patrick that he is
 Revolutions, Oxford, 1 98 1 , pp. 144f.
 
 1 6
-
-Introduction : Rationality
 
 sometimes irrational (as well as being idle, reckless, confused,
 
@@ -1617,8 +1576,6 @@ under which to discuss scientific realism. ) He continues, ' to put it
 
 even more crudely, the only criterion for what is a fact is what it is
 rational to accept' (p. x). Whether Putnam is right or wrong,
-
-Introduction : Rationality
 
 1 7
 
@@ -1976,8 +1933,6 @@ prototype that has dogged our civilization, a picture of knowledge
 thought and the world is cast into its rightful place - namely, the
 grave - will not, it is asked, realism and anti-realism quickly follow?
 
-Part A : Representing
-
 Movements, not doctrines
 
 Definitions of ' scientific realism ' merely point the way. It is more
@@ -2120,8 +2075,6 @@ Realism about theories says that scientific theories are either true
 or false independent of what we know: science at least aims at the
 truth, and the truth is how the world is. Anti-realism says that
 
-Part A: Representing
-
 theories are at best warranted, adequate, good to work on,
 
 acceptable but incredible, or what-not.
@@ -2243,8 +2196,6 @@ the photon is chiefly an artifact of our present theories. Lamb is not
 saying that the extant theory of light is plain false. A more profound
 
 theory would preserve most of what is now believed about light, but
-
-Part A: Representing
 
 would show that the effects we associate with photons yield, on
 
@@ -2497,8 +2448,6 @@ J . j . C . Smart meets the challenge in his book, Philosophy and
 Scientific Realism ( I 963) . Yes, says Smart, ' real ' should mark a
 contrast. Not all theoretical entities are real . ' Lines of force, unlike
 
-Part A : Representing
-
 electrons, are theoretical fictions . I wish to say that this table is
 composed of electrons, etc., j ust as this wall is composed of bricks '
 
@@ -2621,8 +2570,6 @@ ever wanted in a tampon .
 .
 
 or napkin ') vomit, have diarrhoea and
-
-Part A : Representing
 
 a high fever, some skin rash, and die. It is not j ust fear of libel suits
 
@@ -2752,8 +2699,6 @@ in processes and to create new and hitherto unimagined phen-
 
 3 8
 
-Part A : Representing
-
 omena. But what is actually ' making things happen ' is not the set of
 laws, or true laws . There are no exactly true laws to make anything
 happen. It is the electron and its ilk that is producing the effects.
@@ -2873,8 +2818,6 @@ former has not.
 Methodology of the Social Sciences (E.A. Shils and H.A. Finch, eds . and trans .), New York,
 1 949, p. lOJ.
 
-Part A : Representing
-
 My chief lesson here is that at least some scientific realism can use
 the word ' real ' very much the same way that Austin claims is
 
@@ -2945,8 +2888,6 @@ answer to Why questions except to say that the phenomena
 regularly occur in such and such a way. (5) Anti-theoretical entities:
 
 4 1
-
-Part A : Representing
 
 Positivists tend to be non-realists, not only because they restrict
 reality to the observable but also because they are against causes and
@@ -3063,8 +3004,6 @@ is Popper's
 method of conj ecture and refutation. He denies that there is any
 peculiar technique for the social sciences, any Verstehen that is
 
-Part A : Representing
-
 different from what is best for natural science . In this he is at one
 
 with the logical positivists . But I shall keep ' positivism ' for the
@@ -3125,8 +3064,6 @@ great anti-meta physician with no interest in the study of ' mean­
 
 ings ' . Equally in our day van Fraassen is as opposed to metaphysics .
 
-Positivism
-
 He is of my opinion that, whatever be the interest in the philosophy
 
 of language, it has very little value for understanding science. At the
@@ -3186,8 +3123,6 @@ and more domains of positive knowledge. Propositions cannot have
 some style of reasoning which bears on their truth value and can at
 
 least in principle determine that truth value. Comte, who invented
-
-Part A : Representing
 
 the very word ' sociology ' , tried to devise a new methodology, a new
 style of reasoning, for the study of s ociety and ' moral science ' . He
@@ -3254,8 +3189,6 @@ that describe what happens in the world. Then we decided that all
 
 causal laws are mere regularities !
 
-Positivism
-
 For empirically minded people the post-Newtonian attitude was,
 then, this: we should not seek for causes in nature, but only
 regularities . We should not think of laws of nat u re revealing what
@@ -3310,8 +3243,6 @@ surface of the earth. As to what weight and attraction are, these are questions
 that we regard as insoluble, which are not part of positive philosophy and
 which we rightly abandon to the imagination of the theologians or the
 subtlety of the metaphysicians . (Paris, 1 830, pp. 1 4-1 6 . )
-
-Part A : Representing
 
 Logical positivism was also to accept Hume's constant conjunction
 
@@ -3373,8 +3304,6 @@ Opposition to theoretical entities runs through all positivism.
 Comte admitted that we cannot merely general ize from observ­
 
 ati ons, but must proceed through hypotheses. These must, how-
-
-Positivism
 
 ever, be regarded only as hypotheses , and the more that they
 
@@ -3442,8 +3371,6 @@ towards postulating new entities .
 
 Logical positivism had no such simplistic opportunities.
 
-Part A: Representing
-
 Members of the Vienna C ircle believed the physics of their day:
 
 some had made contributions to it. Atomism and electromagnetism
@@ -3509,8 +3436,6 @@ to be taken literally. There is no other way to take them! Against the
 realist he says that we need not believe theories to be true . He invites
 us instead to use two further concepts : acceptance and empirical
 
-Positivism
-
 5 1
 
 adequacy. He defines scientific realism as the philosophy that
@@ -3568,8 +3493,6 @@ Comte, he cites the classic case of Newton's inability to explain
 gravity as proof that science is not essentially a matter of expla­
 nation (p. 94) . Certainly he is anti-theoretical-entities. So he holds
 five of our six positivist doctrines. The only one left is the emphasis
-
-Part A : Representing
 
 on verification or some variant. Van Fraassen does not subscribe to
 the logical positivist verifiability theory of meaning. Nor did
@@ -3629,8 +3552,6 @@ century contributor to physiology, optics, electrodynamics and
 
 other sciences. Helmholtz was also a philosopher who called realism
 
-Positivism
-
 ' an admirably useful and precise hypothesis ' .1 By now there appear
 to be three distinct arguments in circulation. I s hall call them the
 s imple inference argument, the cosmic accident argument, and the
@@ -3686,8 +3607,6 @@ magnetic waves in turn to be picked up on the home receiver - is
 'On the aim and progress of physical science' (German original 1 8 7 1 ) in H . von Helmholtz,
 Popular Lecwres and A ddresses on Sciemi/ic Subjects (D. At kinson trans .), London, I �73,
 p. 247 .
-
-Part A : Representing
 
 that photons do exist. As J .J . C . Smart expresses the idea: ' One
 would have to suppose that there were innumerable lucky accidents
@@ -3747,8 +3666,6 @@ odology and Philosophy of Science, Hannover, 1 979, pp. 363-75.
 3 Wesley Salmon, ' Why ask, " Why?" An Inquiry Concerning Scientific Explanation ' ,
 Proceedings and Addresses of the American Philosophical Association 5 1 ( 1 978), p p . 683-705 .
 
-Positivism
-
 with the results of careful experimenters, we are able, for example,
 to compute Avogadro's number, the number of molecules of an
 
@@ -3807,8 +3724,6 @@ Volume 2, Philosophy of Science Assn., East Lansing, Mich. , pp. 6 1 3--62, and 
 Smith, The Rationality of Science, London, 1 98 1 . For a very powerful statement of the
 opposite point of view , see L. Laudan, 'A confutation of convergent realism ', Philosophy of
 Science 48 ( 1 98 1 ) , pp. 1 9-49·
-
-Part A : Representing
 
 science to which they all add up. There can also be an increasing
 
@@ -3872,8 +3787,6 @@ assuming a reality, but a definition of reality as ' what we grow to ' .
 
 That may b e a mistake, but a t least it has a n initial cogency. I
 describe it in Chapter 8 below.
-
-Positivism
 
 5 7
 
@@ -4042,8 +3955,6 @@ method which is internally self-stabilizing, which acknowledges
 permanent fallibility and yet at the same time tends to settle down,
 then you will have found a better way to fix belief.
 
-Part A : Representing
-
 Repeated measurements as the model of reasoning
 
 Peirce is perhaps the only philosopher of modern times who was
@@ -4164,8 +4075,6 @@ those needs that lie to hand . The needs may be deep and various, as
 attested in James's fine lectures, The Varieties of Religious Ex­
 perience. Dewey gave us the idea that truth is warranted accept­
 ability. He thought of language as an instrument that we use to
-
-Part A : Representing
 
 mould our experiences to suit our ends. Thus the world, and our
 
@@ -4289,8 +4198,6 @@ pragmatist claims no quarrel with common sense: surely chairs and
 
 electrons are equally real, if indeed we shall never again come to
 
-Part A : Representing
-
 doubt their value to us. The positivist says electrons cannot be
 believed in, because they can never be seen. So it goes through all
 the positivist litany. Where the positivist denies causation and
@@ -4355,8 +4262,6 @@ the Ptolemy/Copernicus debate that cl imaxed in the condemnation
 of Galileo had roots in religion. It involved our conception of the
 
 status of humanity in the universe : are we at its centre or on the
-
-Part A : Representing
 
 periphery? Anti-realist anti-atomism was part of late-nineteenth­
 
@@ -4477,8 +4382,6 @@ successor T* . When is it rational to switch theories? Nagel's idea
 was that the new T* ought to be able to explain the phenomena that
 T explains, and it should also make whatever true predictions are
 
-Part A: Representing
-
 made by T. I n addition, it should either exclude some part of T that
 is erroneous, or cover a wider range of phenomena and predictions .
 Ideally T* does both. In that case T* subsumes T.
@@ -4592,8 +4495,6 @@ and understand what he is doing.
 
 For a contrast turn to the many volumes of Paracel sus, who died
 in 1 54 1 . He exemplifies a Northern European Renaissance tradition
-
-Part A : Representing
 
 of a bundle of hermetic interests: medicine, physiology, alchemy,
 herbals, astrology, divination. Like many another ' doctor ' of the
@@ -4731,8 +4632,6 @@ I See I . Hacking, ' Language, truth and reason ', in M. Hollis and S. Lukes (ed
 
 Re/acivism, Oxford, 1 982, pp. 48--&\.
 
-Part A : Representing
-
 Many examples lie between the extremes of Laplace and Para­
 celsus . The historian soon learns that old texts constantly conceal
 
@@ -4867,8 +4766,6 @@ incommensurability. Then there are deep ones, of which the best is
 
 Donald Davidson's. Davidson implies that incommensurability
 
-Part A : Representing
-
 makes no sense, because it rests on the idea of different and
 incomparable conceptual schemes . But, he urges, the very idea of a
 
@@ -4948,8 +4845,6 @@ would have called the sense of the word ' glyptodon ' .
 1 All rcfercrn:es t o Hilary Putnam are t o ' The meaning of " meaning " ' and other essays
 reprinted in Volume 2 of his Philosophical Papers. Mi11d. Language a11d Reality, Cambridge,
 1 979 .
-
-Part A : Representing
 
 I t is natural to think of a phrase as having a sense, namely what we
 
@@ -5078,8 +4973,6 @@ it
 
 white tiger has been authentically recorded. Likewise, it is part of
 
-Part A : Representing
-
 the sterotype of dogs that they are four-legged, even though my dog
 Bear has only three legs .
 
@@ -5141,8 +5034,6 @@ Meditations Concerning Truth and Ideas ( 1 684) .
 I n the worst state, a person may simply not know what a word
 
 means . Thus in one of his papers Putnam asserts that ' heathe r ' is a
-
-Reference
 
 synonym for ' gorse ' . That is an innocent slip that charmingly
 
@@ -5206,8 +5097,6 @@ nized, b ut not enough is known about the things to know what is
 important. What then is constant in meaning? Putnam makes
 
 everything turn on reference and extension .
-
-Part A : Representing
 
 Reference and extension
 
@@ -5291,8 +5180,6 @@ thing or stuff. If we do have a genuine natural kind term, the
 
 reference of the term will remain the same, even though stereotyp-
 
-Reference
-
 8 I
 
 ical opinions of the kind may change . Thus the fundamental principle
@@ -5354,8 +5241,6 @@ any theory about names in order to name electrons . (I secretly hold,
 
 8 2
 
-Part A : Representing
-
 on philosophical grounds, that
 in principle there can be no
 complete, general, theory of meaning or of naming.) We need only
@@ -5413,8 +5298,6 @@ human neck called Adam's apple, or the oak apple, a large hard ball
 2 D.H. Mellor, ' Natural kind s ' , British Journal for the Philosophy of Science 2 8 ( 1 977),
 
 pp. 299-3 1 2 .
-
-Reference
 
 8 3
 
@@ -5558,8 +5441,6 @@ hydrochloric acid. But there is no doubt that Lavoisier and Davy
 
 were talking about the same stuff.
 
-Reference
-
 8 5
 
 Unfortunately fo r Putnam's choice o f example, acids are not
@@ -5685,8 +5566,6 @@ extension. The extension is the empty set. But this is too simple.
 Remember that Putnam was trying to explain how we and Lavoisier
 could both be talking about acids . Most of the answer was provided
 
-Reference
-
 8 7
 
 b y the dots of extension. What about caloric? The community of
@@ -5752,8 +5631,6 @@ under the surface of the earth to be detected deep in a mineshaft.
 
 8 8
 
-Part A : Representing
-
 The fundamental fact about these two kinds of entity has to do
 with forces and interactions . There are four kinds of forces in the
 universe : electromagnetic, gravitation, weak and strong. More
@@ -5815,8 +5692,6 @@ This name was soon shortened to meson.
 
 Meanwhile in 1 93 5 H . Yukawa had been speculating about what
 
-Reference
-
 8 9
 
 holds the atom together. H e postulated that there must b e a new
@@ -5877,8 +5752,6 @@ Bethe-Heitler energy-loss formula to reveal the original mesons (muons) are S . 
 dermeyer and C.D. Anderson, ibid. 51 ( 1 937), pp. 884-6, rel ying on data and photographs i n
 ibid. 50 ( 1 936), pp. 263-7 . Also J .C . S treet a n d E . C . S tevenson , ibid. 5 1 ( 1 937), pp. 1 00 5 A .
 
-Part A : Representing
-
 about as unlike as any pair of entities in nature can be. The name
 
 ' meson ' stuck with the post- 1 947 particles, and the 1 93 6 particle
@@ -5938,8 +5811,6 @@ the life science s . This contrast has been well described by J ohn
 first? ' , the Nobel laureate physicist E. Purcell suggested numerous examples of the way
 theory rewrites experimental history . Checking his case of the µ-meson led me to use the
 example to illustrate reference-stealing as above.
-
-Reference
 
 9 I
 
@@ -6095,8 +5966,6 @@ theory is itself incoherent . I can contemplate a complete theory for
 those wretched so-called possible worlds envisaged by logicians,
 but for our world? Balderdash.
 
-Part A : Representing
-
 Four articles were advertised on a flysheet for the April 1 979
 Scientific A merican: How the bare hand strikes a karate blow; An
 enzyme clock; The evolution of disc galaxies; Oracle bones of the
@@ -6159,8 +6028,6 @@ the Rubik's cube.
 Do I not then grant Putnam's assertion, quoted above? We cut up
 the world into objects when we introduce one or another scheme of
 
-Internal realism
-
 description. Yes , I grant that, metaphorically speaking. I do not
 grant the preceding sentence, ' " Objects " do not exist indepen­
 
@@ -6216,8 +6083,6 @@ realists about muons are realists about meatballs . I call this a
 colonial war because one side is trying to colonize new realms and
 call them reality, while the other side opposes such fanciful
 imperialism.
-
-Part A : Representing
 
 Then there is civil war, between say Locke and Berkeley. The
 realist (Locke) says that many familiar entities have an existence
@@ -6277,8 +6142,6 @@ exist; all that exists is mental .
 Kant invented a synthesis to turn all this upside down. He
 literally reverses the labels. He calls himself an empirical realist and
 a transcendental idealist .
-
-Internal realism
 
 He did not go directly to his final position, but approached it by
 
@@ -6356,8 +6219,6 @@ essential to Kant's point of view that what we call objects are
 
 Reaso1l, London , 1 92 3 .
 
-Part A : Representing
-
 constituted within a scheme, and that all our knowledge can pertain
 
 only to objects thus constituted. Our knowledge is of phenomena,
@@ -6419,8 +6280,6 @@ Kant wrote :
 
 The holding of a thing to be true is an occurrence in our understanding
 which, though it may rest on objective grounds, also requires subjective
-
-Internal realism
 
 causes in the mind of the individual who makes the judgement. If the
 judgement is valid for everyone, provided only that he is in possession of
@@ -6485,14 +6344,12 @@ of Kant's own thought, between noumena and theoretical entities .
 I n 1 7 5 5 , w hen he was young, Kant wrote a small physics tract called
 Monadology. This is a remarkable anticipation of our modern
 
-Part A: Representing
-
 theory of fields and forces. Two years later B oscovic elaborated it
 with far greater mathematical skill and launched field theory on the
 
 worl d . In Kant's early physics the world is made up of point
 
-particles - monads - separated by fi nite distances and exercising
+particles - monads - separated by finite distances and exercising
 force fields in their environment. The properties of matter were
 explained by the resulting mathematical structure . In IJ 55 these
 theoretical point particles of Kant 's were his noumena. Much later he
@@ -6545,8 +6402,6 @@ W hat position ought Kant to have taken about theoretical entities
 
 that really do some work in science? What would he have done
 
-Internal realism
-
 IO I
 
 when, in the twentieth century, we learned how to manipulate and
@@ -6561,8 +6416,6 @@ from data. Would Kant have been an empirical realist about chairs ,
 that need no inferring, while staying an empirical anti-realist about
 
 electrons? That seems to be a possible position.
-
-Reference
 
 Putnam's most original contribution concerns reference more than
 
@@ -6614,8 +6467,6 @@ interpretation is something in which you have equal confidence
 This is indeed extraordinary . We are under two difficulties . We
 
 need to have this bizarre claim made plausible to us, and we need to
-
-Part A : Representing
 
 understand its place in the argument against external or meta­
 
@@ -6676,8 +6527,6 @@ Then he showed that the set of subsets of natural numbers is bigger
 
 than the set of natural numbers . In another formulation, he s howed
 that the set of all real numbers, or of all numbers expressed as
-
-Internal realism
 
 decimal numbers , is larger than the set of natural numbers . Once
 
@@ -6751,8 +6600,6 @@ and for the full theorem.
 
 1 04
 
-Part A : Representing
-
 The implications for scientific realism
 
 Putnam supposes that these technical results are bad for scientific
@@ -6811,8 +6658,6 @@ reference . But all he has shown is that you cannot succeed in
 reference by stating a set of truths expressed in first-order logic .
 
 When we look more closely at the Lowenheim-S kolem theorem, we
-
-Internal realism
 
 I0 5
 
@@ -6882,8 +6727,6 @@ themselves be reinterpreted . S uppose I say that ' cat ' denotes
 
 1 06
 
-Part A : Representing
-
 animals like those on my lap. He asks: How do I know that ' denotes '
 denotes denoting? But of course I never normall y use words such as
 
@@ -6950,8 +6793,6 @@ with people, places, and, above all, doings . (Typical example: the
 University of Washington-Lawrence Radiation Laboratory group,
 i.e. K . M . Crowe, J . F. Hague, J.E. Rotherberg, A. Sc henck, D . L .
 
-Internal realism
-
 1 0 7
 
 Williams, R.W. Williams and K . K. Young, Phys. Rev. D. 2 1 45
@@ -7015,8 +6856,6 @@ reference is not primarily a matter of uttering truths, but of
 
 I08
 
-Part A : Representing
-
 interacting with the world, and that (b) even at the level of language
 
 there is vastly more structure than Putnam discusses, be it deep
@@ -7078,8 +6917,6 @@ time are ideal . They literally do not exist. Although there are
 empirical relations determinable within space and time, those
 
 relatic.ms, being spatio-temporal, have no existence beyond the
-
-Internal realism
 
 mind . Kant was indeed a transcendental idealist. Putnam is instead
 a transcendental nominalist.
@@ -7147,8 +6984,6 @@ thought that all our classifications were a product of the human
 
 1 10
 
-Part A : Representing
-
 mind, not the world, and that those classifications were all the same
 absolutely stable features of our minds. He can disagree with that
 
@@ -7215,8 +7050,6 @@ natural kinds delivered by our present sciences, but at the same time
 hold that these very schemes constitute only an historical event.
 Moreover, there is no concept of the right, final representation of
 the world.
-
-Internal realism
 
 I I I
 
@@ -7379,8 +7212,6 @@ tinctions between observation and theory, see Chapter 1 0 .
 
 1 1 4
 
-Part A : Representing
-
 Euclidean model and inductivism
 
 In the beginning, says Lakatos, mathematical proof was the model
@@ -7444,8 +7275,6 @@ pleasingly objective and honest science. But it won't do: for one
 thing ' all theories are born refuted ', or at least it is very common for
 
 a theory to be proposed even when it is known not to square with all
-
-A surrogate for truth
 
 I 1 5
 
@@ -7514,8 +7343,6 @@ a problem using some well-defined combination of theoretical and
 
 1 1 6
 
-Part A : Representing
-
 experimental ideas. A research program is a program of research
 
 which a person or group can undertake, seek funding for, obtain
@@ -7577,8 +7404,6 @@ gramme positively wallowing in a sea of anomalies, but being none
 the less exuberant . According to him Kuhn's vision of normal
 
 science makes it almost a chance affair which anomalies are made
-
-A surrogate for truth
 
 I I 7
 
@@ -7657,8 +7482,6 @@ History 21 ( 1977), pp. I 1 9-36.
 
 I 1 8
 
-Part A : Representing
-
 epidemic of beriberi was in fact caused by the new processes of
 
 steam-polishing rice, processes imported from Europe which killed
@@ -7719,8 +7542,6 @@ only later. lf we were trying to decide what proportion of the ' War
 on Cancer ' to s pend on molecular biology and what on viruses (not
 
 necessarily mutually exclusive, of course) Lakatos could tell us
-
-A surrogate for truth
 
 I 19
 
@@ -7791,8 +7612,6 @@ by detailed reading of specific sequences of texts. There is no doubt
 that more is known now than was grasped by past genius . To take an
 
 1 20
-
-Part A : Representing
 
 example of his own, it is manifest that after the work of Rutherford
 
@@ -7866,8 +7685,6 @@ which pursue different aims and have different
 
 intellectual
 
-A surrogate for truth
-
 1 2 1
 
 trajectories.
@@ -7934,8 +7751,6 @@ How do you stop funding a program you have supported for five or
 
 1 22
 
-Part A : Representing
-
 fifteen years - a program to which many young people have
 
 dedicated their careers - and which is finding out very little? That
@@ -8001,8 +7816,6 @@ programmes.
 This idea about the growth of knowledge
 
 into something
-
-A surrogate for truth
 
 1 23
 
@@ -8079,8 +7892,6 @@ metaphorical expression of this idea: ' The products of human
 
 1 24
 
-Part A : Representing
-
 knowledge; propositions, theories, systems of theories, problems,
 problemshifts, research programmes live and grow in the " third
 
@@ -8143,8 +7954,6 @@ illustrate something that scientists have found out . Hence the
 
 example should be currently admired by scientists, or people who
 think about the appropriate branch of knowledge, not because we
-
-A surrogate for truth
 
 1 25
 
@@ -8210,8 +8019,6 @@ something other than the growth of knowledge. S uch a gambit
 could easily become monster-barring, but that is where the
 
 1 26
-
-Part A : Representing
 
 constraint of external history enters . Lakatos can always say that a
 particular incident in the history of science fails to fit his model
@@ -8279,8 +8086,6 @@ to Peirce ' s . He was determined to refute the doctrine that he
 attributed to Kuhn, that knowledge changes by irrational ' conver­
 
 s ions ' from one paradigm to another.
-
-A surrogate for truth
 
 1 2 7
 
@@ -8607,8 +8412,6 @@ thoughts. Kant needed a word to replace the ' idea ' of the French
 and English empiricists. That is exactly what I do not mean by
 representation. Everything I call a representation is public. You
 
-Reals and representations
-
 1 33
 
 cannot touch a Lockeian idea, but only the museum guard can stop
@@ -8672,8 +8475,6 @@ or representations. Doubtless philosophical talk of representation
 
 1 3 4
 
-Break
-
 invites memories of Wittgenstein's Siitze. Forget them . The
 sentence, ' the cat is on the mat ' , is no representation of reality. As
 
@@ -8730,8 +8531,6 @@ deserve Aristotle 's accolade of rationality, but only earned it as we
 smartened up and began to talk. Let us imagine, for a moment,
 
 pictorial people making likenesses before they learn to talk.
-
-Reals and representations
 
 1 3 5
 
@@ -8807,8 +8606,6 @@ too ' . Since people are argumentative, other sounds soon express,
 
 1 36
 
-Break
-
 In such a fantasy we do not first come to the names and
 
 descriptions, or the sense and reference of which philosophers are
@@ -8872,8 +8669,6 @@ i s terribly upset, sees there i s paint o n its face and tries t o get if off.
 People, in tum, like mirrors to study their make-up. Baboons will
 
 never draw pictures. The student of language, David Premack, has
-
-Reals and representations
 
 1 3 7
 
@@ -8941,8 +8736,6 @@ these are representations all the same. At Delphi I see an archaic
 
 1 3 8
 
-Break
-
 ivory carving of a person, perhaps a god, in what we call formal or
 lifeless style . I see the gold leggings and cloak in which the ivory was
 
@@ -9001,8 +8794,6 @@ of an ancient site, and to see them as likenesses . Doubtless ' likeness '
 
 is the wrong word, because the ' art ' objects will surely include
 products of the imagination, pretties and uglies made for their own
-
-Reals and representations
 
 1 39
 
@@ -9074,8 +8865,6 @@ to wonder what is real . Anti-realism makes no sense when only one
 
 kind of representation is around. Later it becomes possible . In our
 
-Break
-
 time we have seen this as the consequence of Kuhn's Structure of
 Scientific Revolutions. It is, however, quite an old theme in
 philosophy, best illustrated b y the first atomists.
@@ -9144,8 +8933,6 @@ continuous and uniform motion, he says, and begins to tell a tale of
 particles that his descendants turn into odd shapes, springs, forces,
 fields, all too small or b ig to be seen or fel t or heard except in the
 
-Reals and representations
-
 1 4 1
 
 aggregate. But the aggregate, continues Democritus, is none other
@@ -9212,15 +8999,13 @@ resentations and finally, seek reality. On the contrary, we make
 
 1 42
 
-Break
-
 public representations, form the concept of reality, and, as systems
 
 of representation multiply, we become sceptics and form the idea of
 mere appearance .
 
 No one calls Democritus a scientific realist: ' atomism ' and
-' materialism ' are the only ' isms ' that fi t . I take atom ism as the
+' materialism ' are the only ' isms ' that fit . I take atom ism as the
 
 natural step from the Stone Age to scientific realism, because it lays
 out the notion of an ' inner constitution of things ' . With this
@@ -9271,8 +9056,6 @@ of the world. Occasionally one got things wrong, but the overthrow
 
 of false ideas was only setting us on what was finally the right path.
 Thus the chemical revolution of Lavoisier was seen as a real
-
-Reals and representations
 
 1 43
 
@@ -9340,8 +9123,6 @@ inconsistent but equally good images of mechanics.
 Hertz was published in 1 894, and Duhem in 1 906. Within that
 
 1 44
-
-Break
 
 s pan of years pretty well the whole of physics was turned upside
 
@@ -9412,8 +9193,6 @@ typewriter is on the table - then what we say is either true or false . It
 is not a matter of representation. Wittgenstein's Tractatus is exactly
 wrong. Ordinary simple atomic sentences are not representations
 
-Reals and representations
-
 1 45
 
 of anything. If Wittgenstein derived his picture account of meaning
@@ -9475,8 +9254,6 @@ extended , of course, to liquids and then also to air, to gases and to molecules
 and atoms.
 
 1 46
-
-Break
 
 What is the principle behind the extension? It is, I suggest, that the
 entities which we conjecture to be real should be able to exert a causal effect
@@ -9784,8 +9561,6 @@ a general scientific truth is established - That all Confervae in the sunshine
 produce a species of air that supports flame in a superior degree; which has
 been shown to be the case by various minute investigations .
 
-Experiment
-
 I 5 3
 
 Those are the words with which Humphry Davy ( 1 778-1 829)
@@ -9839,8 +9614,6 @@ meaningless observation . More l ikely, no one would even notice .
 Experiments without ideas like these are not experiments at all .
 
 1 54
-
-Part B: Intervening
 
 There is however a strong version of Liebig's statement. I t says
 that your experiment is significant only if you are testing a theory
@@ -9898,8 +9671,6 @@ they support combustion. Only a mind fuelled by a theoretical
 model could begin to solve mysteries of organic chemicals .
 
 We shall find that the relationships between theory and experi-
-
-Experiment
 
 I 5 5
 
@@ -9986,8 +9757,6 @@ place one of these crystals on this printed page, you would see the
 
 1 56
 
-Part B : Intervening
-
 print double. Everybody knew about ordinary refraction, and by
 
 1 689, when Bartholin made his discovery, the laws of refraction
@@ -10065,8 +9834,6 @@ people. They were attempting to form theories. But in all these
 
 cases it is clear that the observations preceded any formulation of
 theory.
-
-Experiment
 
 1 5 7
 
@@ -10201,8 +9968,6 @@ whom Bacon mocked as ' me re empirics ' . I t remains the case ,
 however, that much truly fundamental research precedes any
 relevant theory whatsoever.
 
-Experiment
-
 1 59
 
 Happy meetings
@@ -10271,8 +10036,6 @@ beautifully with what would otherwise have been mere s peculation.
 
 1 60
 
-Part B: Intervening
-
 Penzias and Wilson had showed that the temperature of the
 
 universe is almost everywhere about three degrees above absolute
@@ -10328,8 +10091,6 @@ early I 97os. Two scientists at Bell Telephone Laboratories (the same place
 where Karl Jansky had discovered cosmic radio waves) picked up radio
 
 1 Information and Publication Division, Bell Laboratories, 1 979.
-
-Experiment
 
 1 6 1
 
@@ -10393,8 +10154,6 @@ mencing on September 20 Ampere laid out, in weekly lectures, the
 
 1 62
 
-Part B: Intervening
-
 foundations of the theory of electromagnetism. He made it up as he
 
 went along.
@@ -10457,8 +10216,6 @@ experiment as another . I turn to the varieties of theory in Chapter
 other relevant categories, of which invention is one of the most
 
 important. The history of thermodynamics is a history of practical
-
-Experiment
 
 1 63
 
@@ -10530,8 +10287,6 @@ was a measure of the work done in each stroke . The indicator was
 
 1 64
 
-Part B: Intervening
-
 used to tune the engine to maximum performance . That very
 
 diagram became part of the Carnot cycle of theoretical
@@ -10597,8 +10352,6 @@ A multitude of experimental laws, waiting for a theory (E)
 The Theory of the Properties of Metals and Alloys ( 1 936) is a
 standard old textbook whose distinguished authors, N . F. Mott and
 H. Jones, discuss, among other things, the conduction of electricity
-
-Experiment
 
 1 6 5
 
@@ -10668,8 +10421,6 @@ theory - before they were known. Experimentation has many lives
 of its own.
 
 1 66
-
-Part B: Intervening
 
 Too many instances?
 
@@ -10752,8 +10503,6 @@ not .
 
 3 Noteworthy observations, such as those described in the
 previous chapter, have sometimes been essential to initiating
-
-Part B: Intervening
 
 inquiry, but they seldom dominate later work. Experiment super­
 
@@ -10887,8 +10636,6 @@ as asserting the (truth of the) postulate. But the anti-realist sees him
 
 1 70
 
-Part B: Intervening
-
 as displaying this theory, holding it up to view, as it were, and
 
 claiming certain virtues for it ' (p. 27). A theory may be accepted
@@ -10959,8 +10706,6 @@ which neither the eye nor any other sense organ could play any
 
 Philosophy of Science 3 ( 1 962), pp. 3-2 7 .
 
-Observation
-
 I 7 I
 
 essential role at all . In his example, we try to observe the interior of
@@ -11025,8 +10770,6 @@ fight or in battle . S uch implications occur all the time, but they are
 not in my opinion worth calling theoretical assumptions . This part
 
 1 72
-
-Part B : Intervening
 
 of t he theory-loaded doctrine is an important and unexceptionable
 
@@ -11106,8 +10849,6 @@ Paul Feyerabend's essays, contemporary with work by Hanson,
 
 also played down the distinction between theory and observation.
 
-Observation
-
 I 73
 
 He has since come to dismiss the philosophical obsession with
@@ -11175,8 +10916,6 @@ wound. Was that an experiment or j ust a sequence of fateful
 
 1 74
 
-Part B: Intervening
-
 observations in almost unique circumstances? I do not want to
 
 pursue such points, but instead to emphasize something that i s
@@ -11233,8 +10972,6 @@ debating because it is obviously false, unless one attaches a quite
 
 attenuated sense to the words, in which case the assertion is true but
 trivial .
-
-Observation
 
 1 75
 
@@ -11332,8 +11069,6 @@ printed page does not distort the shapes of the words I see, and I
 
 1 76
 
-Part B: Intervening
-
 could perhaps investigate this assumption. ( How?) But when I read
 aloud, or make corrections on this page I simpl y interact with
 something of interest to me , and it is wrong to speak of assumptions.
@@ -11391,11 +11126,9 @@ separated with a prism. This really set him going, for he found not
 
 only that orange warms more than indigo, but that there is also a
 
-heating effect below the visible red spectrum. His fi rst guess about
+heating effect below the visible red spectrum. His first guess about
 
 this phenomenon was roughly what we now believe. He took it that
-
-Observation
 
 I 77
 
@@ -11469,8 +11202,6 @@ through too. He asks , ' Is the heat , which has the refrangibility of
 
 1 78
 
-Part B: Intervening
-
 the red rays, occasioned by the light of those rays?' He finds not. A
 
 certain piece of glass that transmits nearly all the red light impedes
@@ -11536,8 +11267,6 @@ On noticing
 
 Herschel noticed the phenomenon of a differential heating by
 coloured light and reported this in as pure a sense-datum statement
-
-Observation
 
 l 79
 
@@ -11607,8 +11336,6 @@ time you say ' that's a positron ' you somehow assert the t heory.
 
 1 80
 
-Part B : Intervening
-
 Observation is a skill
 
 An example similar to Hanson's makes the point that noticing and
@@ -11671,8 +11398,6 @@ W . V . O . Quine proposes, almost as if it were a novelty, that we
 2 M . Hoskin and B. Warner , ' Caroline Herschel's comet sweepers ' . Jmmwl for the History of
 
 Astro11omy 1 2 ( 1 98 1 ), pp. 27-34.
-
-Observation
 
 I 8 I
 
@@ -11740,8 +11465,6 @@ a microscope (I think we do, but the issue is not simple) . There are
 
 1 8 2
 
-Part B: Intervening
-
 more radical extensions of the idea of observat ion. It is com­
 monplace in the most rarefied reaches of experimental science to
 s peak of ' observing ' what we would naively suppose to be
@@ -11799,8 +11522,6 @@ Laboratory and CERN. Cf. ' Review of physical properties ' , Ph)'Sics Le11ers 1 
 5 D . Shapere , ' The concept of observation in science and philosophy ' , Philosophy of Science 49
 
 ( 1 982), pp. 2 3 1�7.
-
-Observation
 
 I 8 3
 
@@ -11876,8 +11597,6 @@ observation ' , Synthese 50 ( 1 982), pp. 1 25-46 .
 
 1 84
 
-Part B: Intervening
-
 gyroscope in orbit about the sun. Do any of these three enable us to
 
 ' observe ' interior rotation?
@@ -11951,8 +11670,6 @@ theory, contains no such assumptions . In the case of seeing tables,
 our statements similarly contain no theoretical assumptions connected with the objects under inquiry, namely tables, even if (by an
 
 abuse of the words ' theory ' and ' contain ') they contain theoretical
-
-Observation
 
 1 8 5
 
@@ -12150,8 +11867,6 @@ philosophical terminology, ' microscopic objects are not physical
 
 1 8 8
 
-Part B: Intervening
-
 things in a l iteral sense, but merely by courtesy of language and
 When I look through a microscope, all I
 
@@ -12226,8 +11941,6 @@ see the fir tree directly. You can walk up to at least some of the
 
 Philosophy of Science 3 ( 1 962), pp. 3-27.
 
-Microscopes
-
 1 89
 
 objects you see through binoculars, and see them in the round, with
@@ -12293,8 +12006,6 @@ new ways of seeing, acquired after infancy, involve learning by
 doing, not j ust passive looking. The conviction that a particular part
 
 1 90
-
-Part B: Intervening
 
 of a cell is there as imaged is, to say the least, reinforced when, using
 
@@ -12450,8 +12161,6 @@ the cells or crystals being studied.
 
 1 9 2
 
-Part B : Intervening
-
 Bad microscopes
 
 I have encountered the impression that Leeuwenhoek invented the
@@ -12515,8 +12224,6 @@ pond water on a slip of glass and look at it. All but the most expert
 would require a ready mounted slide to see anything. Indeed
 considering the optical aberrations it is amazing that anyone ever
 did see anything through a compound microscope, although in fact,
-
-Microscopes
 
 1 93
 
@@ -12585,8 +12292,6 @@ subcontracted with the same artisan who t hen formed a s hrewd
 
 1 94
 
-Part B : Intervening
-
 guess that the lenses were for the same device . Hence, in 1 75 8 , the
 idea was pirated. A court case for the patent rights was decided in
 favour of the pirate, J ohn Dolland. The High Court Judge ruled: ' It
@@ -12645,8 +12350,6 @@ Ernst Abbe provides the happiest example of a rags to riches
 story. Son of a spinning-mill workman, he learned mathematics and
 
 4 Quoted in Bradbury, The Microscope, Past and Present, p. 1 30.
-
-Microscopes
 
 1 9 5
 
@@ -12708,7 +12411,7 @@ second-, or third-order diffractions, where the angles of the dif­
 fracted rays are in part a function of the distances between the lines
 on the grating. Abbe realized that in order to see the slits on the
 grating, one must pick up not only the transmitted light, but also at
-least the fi rst-order diffracted ray. What you see, in fact, is best
+least the first-order diffracted ray. What you see, in fact, is best
 
 represented as a Fourier synthesis of the transmitted and the
 diffracted rays . Thus according to Abbe the image of the object is
@@ -12716,8 +12419,6 @@ diffracted rays . Thus according to Abbe the image of the object is
 produced by the interference of the light waves emitted by the
 principal image, and the secondary images of the light source which
 are the result of diffraction .
-
-Part B : Intervening
 
 Practical applications abound . Evidently you will pick up more
 diffracted rays by having a wider aperture for the objective lens, but
@@ -12730,8 +12431,6 @@ With something denser than air, as in the oil- immersion m icro­
 scope, . you capture more of the diffracted rays within a given
 
 aperture and so increase the resol ution of the microscope .
-
-I
 
 Altho'ugh the first Abbe-Zeiss microscopes were good, the theory
 was resisted for a number of years, particularly in England and
@@ -12780,8 +12479,6 @@ comparison between microscopic and macroscopic vision ' .
 I f you hold (as m y more modern quotation [B] still seems t o
 hold), that what w e see is essentially a matter o f a certain sort o f
 physical processing i n t he eye, then everything else must b e more in
-
-Microscopes
 
 1 97
 
@@ -12848,8 +12545,6 @@ microscope reminds us that there is more to light than refraction,
 absorption and diffraction. We could use any property of light that
 
 1 98
-
-Part B: Intervening
 
 interacts with a specimen in order to study the structure of the
 s pecimen. Indeed we could use any property of any kind of wave at
@@ -12919,8 +12614,6 @@ have such devices in hand, endless variations may be constructed,
 such as polarizing interference microscopes, multiple beam inter­
 
 ference, phase modulated interference and so forth.
-
-Microscopes
 
 1 99
 
@@ -12994,8 +12687,6 @@ importance of producing visual representations of large molecules .
 (His example concerned anthracene rings .) At the time, this device
 was taken to confirm what F . A . Kekule ( 1 829-96) had postulated in
 
-Part B: Intervening
-
 1 865, that the benzene molecules are rings involving six carbon
 atoms. The original theory about the field emission microscope was
 
@@ -13059,8 +12750,6 @@ under every technique, but are revealed by fluorescent staining and
 subsequent observation by the fluorescent microscope .
 
 Slices of red blood platelets are fixed upon a microscopic grid.
-
-Microscopes
 
 20 1
 
@@ -13126,8 +12815,6 @@ Coincidence and explanation
 This argument from coincidence may seem l ike a special case of the
 cosmic accident argument mentioned at the end of Chapter 3 .
 
-Part B: Intervening
-
 Theories explain diverse phenomena, and it would be a cosmic
 
 accident if a theory were false and yet correctly predicted the
@@ -13191,8 +12878,6 @@ realism. Van Fraassen says we can see through a telescope because
 
 although we need the telescope to see the moons of Jupiter when we
 
-Microscopes
-
 are positioned on earth, we could go out there and look at the moons
 with the naked eye. That is not so fanciful as it sounds, for there is a
 
@@ -13201,7 +12886,7 @@ distinguish J upiter's moons with the naked eye from here . For those
 
 of us with less acuity it is, for the moment however, science fiction.
 
-T he microscopist avoids fantasy. I nstead of fl ying to Jupiter we
+T he microscopist avoids fantasy. I nstead of flying to Jupiter we
 
 shrink the visible world. Consider the grids used to re-identify
 
@@ -13253,8 +12938,6 @@ disunity of science, at least at the phenomenological level. Light
 microscopes, trivially, all use light, but interference, polarizing,
 
 phase contrast, direct transmission, fluorescence and so forth
-
-Part B: Intervening
 
 exploit essentially unrelated phenomenological aspects of light. If
 
@@ -13318,8 +13001,6 @@ I m ust repeat that j ust as in large scale vision, t he actual images or
 micrographs are only one small part of the confidence in reality. In a
 recent lecture the molecular biologist G . S . Stent recalled that in
 the late forties Life magazine had a full colour cover of an electron
-
-Microscopes
 
 micrograph, labelled, excitedly, ' the first photograph of the gene '
 (March 1 7 1 947) . Given the theory, or lack of theory, of the gene
@@ -13451,8 +13132,6 @@ not, however, become awed by technology. In the study of crystal
 
 structure, one good way to get rid of noise is to cut up a micrograph
 
-Microscopes
-
 in a systematic way, paste it back together, and rephotograph it for
 interference contrast . Thus we do not in general see through a
 microscope; we see with one . But do we see with a microscope? It
@@ -13578,8 +13257,6 @@ convinced of the structures that we observe using various kinds of
 microscopes . Our conviction arises partly from our success at
 
 systematically removing aberrations and artifacts . In 1 800 there
-
-Microscopes
 
 was no such success . Bichat banned t he microscope from his
 
@@ -13876,8 +13553,6 @@ articulation. We articulate theory to make it mesh better with the
 
 2 1 4
 
-Part B: Intervening
-
 world, open to experimental verification. Most initial speculations
 
 hardly mesh with the world at all . This is for two reasons . One is
@@ -14002,8 +13677,6 @@ ive . The different levels of theoretical statement illustrated by the
 magneto-optical effect are not so unfamiliar. Nancy Cartwright's
 
 2 1 6
-
-Part B : Intervening
 
 b ook, How the Laws of Physics Lie ( 1 9 8 3 ) , makes a more radical
 de parture from tradition . Thus far I have written as if getting
@@ -14144,8 +13817,6 @@ connect with laws of phenomena. That is the trut h at which we aim.
 
 2 1 8
 
-Part B: Intervening
-
 I respond to this in an ind uctive way. Every single year since 1 840,
 physics alone has used successfully more (incompatible) models of
 
@@ -14183,7 +13854,7 @@ tical physics we have a structural re presentation with some
 equations at a purel y hypothetical level , equations which are
 
 already simplifications of equations which cannot be solved . I n
-order to make these fi t some level o f phenomenological law, there
+order to make these fit some level o f phenomenological law, there
 
 are endless possible approximations . After a good deal of fiddling
 someone sees that one approximation tallies nicely with the
@@ -14380,8 +14051,6 @@ phenomenologis t . Phenomenology is an important part of solid
 
 state and particle physics . I f you had wanted to check out what I
 
-Part B: Intervening
-
 wrote about m uons and mesons in Chapter 8 , you would likely have
 gone to some classic reference such as H. Bethe's Mesons and Fields.
 There you would have looked up muons and found the discussion
@@ -14442,8 +14111,6 @@ century this got turned not into ' save ' b ut into ' solve ' , so that
 David Hume, for example, will then write of ' the solution of the
 phenomenon ' . That pretty well meant the explanation of the
 phenomenon, precisely the opposite of what Duhem means by
-
-The creation of phenomena
 
 saving the phenomena! Anyone who hopes that philology will teach
 
@@ -14582,8 +14249,6 @@ phenomenon which .
 
 .
 
-The creation of phenomena
-
 I 879, Hall wrote , after describing some remarkable experimental
 
 successes, that:
@@ -14653,8 +14318,6 @@ of nature . Phenomena are regularities, consequences of these laws.
 
 I Quoted b y Jed. Z. Buchwald, Centaurus 23 ( 1 979), p. 80.
 
-Part B: Intervening
-
 S ince our theories aim at what has always been true of the universe ­
 
 God wrote the Jaws in His Book, before the beginning - it follows
@@ -14718,8 +14381,6 @@ of our part of the universe . Likewise, I suggest, Hall's effect did not
 
 exist until, with great ingenuity, he had discovered how to isolate,
 purify it, create it in the laboratory . To update the example, 20 years
-
-The creation of phenomena
 
 ago there were no masers or lasers in the universe . Perhaps that is
 
@@ -14787,8 +14448,6 @@ and animal has its habits; I suppose each of those is a phenomenon.
 
 Perhaps natural history is as full of phenomena as the skies of night .
 
-Part B : Intervening
-
 Every time I say that there are only so many phenomena out there in
 nature to be observed - 60, say - someone wisely reminds me that
 
@@ -14851,8 +14510,6 @@ an ' obvious ' consequence of BCS theory . Whatever b e the niceties
 of the facts , we notice something of a spectrum . Faraday found his
 magneto-optical effect because he hoped there ought to be some
 
-The creation of phenomena
-
 interaction between electromagnetism and light. Hall found his
 
 effect because Maxwellian electrodynamics suggested that one of
@@ -14912,8 +14569,6 @@ with X. Establis hed figure B, in the same field, arrives for his two
 days and leaves frustrated. He even suggests we take a long hard
 
 look at A ' s work. Is A really getting what he claims to get? Or is he
-
-Part B: Intervening
 
 cheating? (This is a true story based on a tenure case that I
 
@@ -14980,8 +14635,6 @@ visitor B does not . A has had the opportunity to know the apparatus
 better; he has made part of it and suffered through its failures. That
 
 is an integral part of knowing how to create phenomena.
-
-The creation of phenomena
 
 23 1
 
@@ -15112,8 +14765,6 @@ level of the gravel i n their box. Sand drops in the hour glass
 
 2 34
 
-Part B : Intervening
-
 unnoticed. The lady is hol ding her tape to the cloth, but not tautly.
 
 The tape loops down, so that the reading on the tape would be a foot
@@ -15175,8 +14826,6 @@ Constants of nature
 
 Perhaps a turning point was signalled in 1 8 32, the year that Charles
 Babbage ( 1 792-1 8 7 1 ) , inventor of the digital computer, published a
-
-I
 
 ' The function of measurement in modern physical science ', in T.S. Kuhn, The Euenrial
 Tension, Chicago, I 979, pp. 178-224, esp. p. 220.
@@ -15244,8 +14893,6 @@ gratings, which increased the potentiality for measurement by
 many orders of magnitude . Millikan's 1 908-1 3 measurement of the
 
 charge on the electron is another milestone.
-
-Part B : Intervening
 
 What is the point of these exceptional experiments ? They are
 admired for at least two reasons . First, t hey were extraordinarily
@@ -15326,8 +14973,6 @@ imponderable quantity. That not only satisfied intrinsic curiosity
 
 but also, by a s hort chain of inference, gave a value for the
 
-Measurement
-
 23 7
 
 gravitational constant G. Newton had in fact known the answer all
@@ -15397,8 +15042,6 @@ Einstein wrote of the two ways of s umming motion, and conti nued:
 ' On this point we are enlightened by a most important experiment
 
 2 3 8
-
-Part B: Intervening
 
 which the b rilliant physicist Fizeau performed more than half a
 
@@ -15472,8 +15115,6 @@ theory ' by other means ' by making an experimental determination
 
 of e.
 
-Measurement
-
 This is an attractive metaphor, but I am reluctant to attach much
 weight to it. Cavendish filled in the value of the gravitational
 constant G, b ut he did not, I think, continue Newtonian theory one
@@ -15523,8 +15164,6 @@ m inimum negative electric charge, likely associated with a con­
 jectural entity, the electron . He also found the value of that
 
 minimum charge, but that number does not have much to do with
-
-Part B: Intervening
 
 theory . I ts payoff, as in the Nobel prize citation quoted above, lay in
 
@@ -15580,8 +15219,6 @@ and Technology.2 T he editors, Cohen and Taylor, have a very large
 
 pp. 663-738.
 
-Measurement
-
 24 1
 
 number of fundamental constants, based on work at the main
@@ -15628,7 +15265,7 @@ ratios between constants . Naturall y the business is a little more
 complex, for we attach different levels of accuracy in our initial
 meas urements . This ' best fit ' , which comes with a built-in estimate
 of particular errors, then provides one assessment of all the
-constants, except a few loners such as the ' fi rst ' constant in science,
+constants, except a few loners such as the ' first ' constant in science,
 namely G .
 
 Factoring in the J osephson effect altered one set o f previous
@@ -15651,8 +15288,6 @@ But it must be realized t hat, s i nce the out p ut values of a
 least-squares adj ustment are related in a complex way and a change in the
 
 measured value of one of the constants usually leads to corre s ponding
-
-Part B: Intervening
 
 changes in the adjusted values of others, one must be cautious in carrying
 out calculations using both the output values from the 1 973 adj ustment and
@@ -15723,8 +15358,6 @@ Addresses, London, 1 8 89, Volume 1 , p. 7 3 .
 
 5 K . Pearson, The History of Statistics i n t h e 1 7th and 1 8th Centuries, London , p . 472.
 
-Measurement
-
 The function of measurement
 
 Why measure? One answer is Popper's dialectic of conjecture and
@@ -15787,8 +15420,6 @@ theory was accepted by the ' profession ' . He gave us an unparalleled
 b ook on the second of these problems, that of Black Body Theory
 and the Quantum Discontinuity 1894-1912.
 
-Part B: Intervening
-
 I gloss Kuhn as follows. We must distinguish the function of
 measurement from avowed reasons for measuring . Experimenters
 
@@ -15849,8 +15480,6 @@ like this: ' I f a laboratory has more than N scientific personnel, the
 proportion of young scientists who enter the lab and are kept on to
 develop their careers is k; the proportion who pass on to other work
 is 1 -k . ' Although Kuhn is no empirical sociologist, he is to some
-
-Measurement
 
 extent an old-fashioned speculative sociologist . Some of those,
 called functionalists , would discover a practice within a society or
@@ -16026,8 +15655,6 @@ these two faculties, the experimental and the rational (such has
 
 never yet been made), much may be hope d . '
 
-Part B : Intervening
-
 What's s o great ab out science?
 
 The alliance between the experimental and rational faculties had
@@ -16086,8 +15713,6 @@ plenty of mathematical psychology or mathematical economics,
 pure sciences which have nothing much to do with either specu­
 
 lation or experimentation . Far be it from me to offer any evaluation
-
-Baconian topics
 
 of this state of affairs . Maybe all these people are creating a new kind
 of human activity. But many of us experience a sort of nostalgia, a
@@ -16195,8 +15820,6 @@ a s pring clock, synchronize them at ground level. Take them to a
 steeple or other high place, and later down a deep mine shaft . If the
 clocks do not kee p equal time, it must be because of the effect of the
 
-Baconian topics
-
 25 1
 
 weights and the distance of the attracting mass of the earth. I t is a
@@ -16248,8 +15871,6 @@ get more auxiliaries . Thus, it is claimed, the theory does not forbid
 anything, for we get an inconsistency with observation only
 through intervening hypotheses . This too is ill -argued , and illus­
 trates another kind of sloppiness. From the historical fact that
-
-Part B: Intervening
 
 hypotheses have sometimes been saved it is inferred that hypo­
 theses can always be saved. This is argued not so much by an
@@ -16311,8 +15932,6 @@ life it does not work like that . Worried that British (integral) atomic
 
 •
 
-Baconian topics
-
 weights were at odds with continental ones, various committees
 were set up, and Edward Turner was commissioned to get to the
 heart of the matter. He regularly obtained 3 5 . 5 , and for a while he
@@ -16372,8 +15991,6 @@ regard experiments as decisive. His methodology of research
 programmes teaches j ust that . If T is a current theory in programme
 
 2 54
-
-Part B : Intervening
 
 P* , we may devise an experiment to test T against T* . If T wins this
 round, it is still possible for P* to recuperate and propose a better
@@ -16443,8 +16060,6 @@ aether, which is capable of propagating vibrations of sound, only
 with far greater velocity. ' He went on to say that light is not a wave
 
 within the aether, but rather a medium through which light rays
-
-Baconian topics
 
 2 5 5
 
@@ -16539,8 +16154,6 @@ the al l pervading aether, and that the latter possesses the properties
 
 of an insulator and a magnetic medium . ' 6
 
-Experiment
-
 That i s the briefest possible summary of t he state of play around the
 
 time t hat Michelson commenced his now famous sequence of
@@ -16582,8 +16195,6 @@ c i rcu lated, l 8 7 8 . )
 
 trans . ) , Londo n , 1 894, p . x i .
 
-Baconian topics
-
 2 5 7
 
 ether, equal t o that o f the earth i n orbit would b e only about one hundred
@@ -16610,7 +16221,7 @@ I n the end he went to the country and floated the whole experiment
 in a bath of mercury to damp out ' noise ' . That is a characteristic
 experimental way of getting rid of unwanted phenomena.
 
-Exp erimen t to tes t theory: Lakatos writes: ' Michelson fi rst
+Exp erimen t to tes t theory: Lakatos writes: ' Michelson first
 devised an experiment in order to test Fresnel's and Stokes'
 
 contradictory theories about the influence of the motion of the earth
@@ -16642,8 +16253,6 @@ determined the absolute motion of the earth through space . If
 8 Letter first published in Nathan Reingold , Science in Nineteenth Century America, Washing­
 
 ton, 1 97 1 , pp. 288--90.
-
-Part B: Intervening
 
 nature had only cooperated, this would have gone down in history
 as the triumph of centuries of speculation. We would know that
@@ -16700,8 +16309,6 @@ theory. They ended by saying: ' The result of this work is therefore
 9 A.A. M ichelson , ' The relative motion of the earth and of the l uminiferous ether ', Ame,.ica11
 
 Journal of Science, 3rd Ser. , 22 ( 1 88 1 ), p. 1 28 .
-
-Baconian topics
 
 2 59
 
@@ -16786,8 +16393,6 @@ II Cf. R.S. S hankland, ' M ichelson-Morley experiment ' , American Journal of P
 
 ( 1 964), pp. 1 6-3 5 .
 
-Part B : Intervening
-
 surprising t hat Michelson did not take up w hat he said one ought to
 
 do next . Was that because he was worried by what theory was
@@ -16849,8 +16454,6 @@ the rational faculty. There are many more published fantasies about
 the M ichelson-Morley experiment, and I certainly do not claim
 
 finality for my b rief sketch. I chose Lakatos for an object lesson
-
-Baconian topics
 
 26 r
 
@@ -17080,8 +16683,6 @@ P. Weiss (eds.), The Col/ee1ed Papers of C. S. Peirce, Volume 2 , Section 665.
 
 .
 
-Experimentation and scientific realism
-
 Making
 
 Even if experimenters are realists about entities, it does not follow
@@ -17141,8 +16742,6 @@ It is not possible to grasp this without an example . Familiar
 
 historical examples have usually become encrusted by false theory­
 oriented philosophy or history. So I shall take something new. This
-
-Part B : Intervening
 
 is a polarizing electron gun whose acronym is PEGGY I I . I n 1 978 it
 
@@ -17204,8 +16803,6 @@ electromagnetism. We hypothesize ' gravitons ' for gravity.
 2 The popular account given below relies on generous conversations with some of the
 experimenters, and also on the in-house report, ' Parity violation in polarized electron
 scattering ', by Bill Kirk, SLA G Beam Line no. 8 October, 1 978.
-
-Experimentation and scientific realism
 
 I n the case of interactions involving weak forces, there are
 
@@ -17278,8 +16875,6 @@ The prediction is: Slightly more left-handed polarized electrons
 hitting certain targets will scatter, than right-handed electrons.
 S lightly more ! T he difference in relative frequency of the two kinds
 
-Part B: Intervening
-
 of scattering is one part in I O ooo, comparable to a difference in
 probability between 0. 50005 and 0.49995 . S uppose one used the
 
@@ -17340,8 +16935,6 @@ We need the right source of light. A laser with bursts of red light
 (7 1 00 Angstroms) is trained on the crystal . The light first goes
 through an ordinary polarizer, a very old-fashioned prism of calcite,
 or Iceland spar. This gives linearly polarized light . We want
-
-Experimentation and scientific realism
 
 circularly polarized light to hit the crystal. The polarized laser beam
 now goes through a cunning device called a Pockel's cell. It
@@ -17414,8 +17007,6 @@ dust particles on an experimental surface lie down flat when a
 
 2 70
 
-Part B: Intervening
-
 polarized pulse hits them, and then stand on their heads when hit by
 
 a pulse polarized in the opposite direction? Might that have a
@@ -17482,8 +17073,6 @@ understanding of why this increases efficiency to a score of 37 % .
 Nor was there any guarantee that the bits and pieces would fit
 together. To give an even more current illustration, future experi-
 
-Experimentation and scientific realism
-
 2 7 1
 
 mental work, briefly described below, makes u s want even more
@@ -17549,8 +17138,6 @@ measurements that weighed in, more than the explanations . Expla­
 nations did help. S ome people might have had to believe in
 electrons because the postulation of their existence could explain a
 
-Part B : Intervening
-
 wide variety of phenomena. Luckily we no longer have to pretend to
 infer from explanatory success (i.e. from what makes our minds feel
 good). Prescott et al. don't explain phenomena with electrons . They
@@ -17607,8 +17194,6 @@ precisely those where parity is not conserved. This would possibly
 give us a road to quite deep investigations of matter and anti-matter.
 
 To do the statistics one needs even more electrons per pulse than
-
-Experimentation and scientific realism
 
 2 73
 
@@ -17682,8 +17267,6 @@ to argue for scientific realism at the level of theory, testing,
 
 2 74
 
-Part B : Intervening
-
 explanation, predictive success, convergence of theories, and so
 
 forth is to be locked into a world of representations. No wonder that
@@ -17747,8 +17330,6 @@ some entities which in theory we can know about only through
 
 theory (black holes). Then our evidence is like that furnished by
 
-Experimentation and scientific realism
-
 Lorentz . Perhaps there are entities which we shall only measure and
 
 never use. The experimental argument for realism does not say that
@@ -17783,8 +17364,6 @@ been wonderful mistakes. 3
 3 On p. 272 above, weak neutral bosons are used as an example of purely hypothetical entities . In
 J anuary 1 983 CERN announced observing the first such particle W in proton-anti proton
 decay at 540 GeV.
-
-Further reading
 
 Ian Hacking (ed . ) , Scientific Revolutions, Oxford, 1 982.
 
@@ -17844,8 +17423,6 @@ Jarrett Leplin (ed.), Essays on Scientific Realism, Notre Dame, 1 98 3 .
 
 There are now a great many classifications of scientific realisms . One is:
 Paul Horwich, ' Three forms of realism ' , Synthese 52 ( 1 982), pp. 1 8 1 -20 1 .
-
-Further reading
 
 2 Building and c ausing
 
@@ -17962,8 +17539,6 @@ Science, 46 ( 1 979).
 
 Many of the papers in (4) contain useful studies of or allusions to Putnam,
 whose views about realism have notoriously evolved in the course of time.
-
-Further reading
 
 2 79
 
@@ -18091,8 +17666,6 @@ Allan Franklin and Howard Smokier,
 experiment: parity nonconservation ', American Journal of Physics 49
 ( I 98 I ), pp. I 09-I I .
 
-Further reading
-
 28 I
 
 Allan Franklin, ' The discovery and nondiscovery of parity nonconserva­
@@ -18144,8 +17717,6 @@ Physics, April, 1 98 3 .
 
 ' Einstein's experiment, the g-factor, and theoretical predispositions ',
 Historical Studies in the Physical Sciences 12 ( 1 982), pp. 285-323.
-
-Index
 
 Abbe, E., 1 87 , 1 94-7
 abduction, 52
@@ -18264,8 +17835,6 @@ as an element, 9, 84
 
 Chomsky, N . , 3 5
 classification, 1 08f
-
-Index
 
 2 8 3
 
@@ -18411,8 +17980,6 @@ Gage, S. H . , 1 87 , 1 96
 Galileo, G . , 65, 1 72, 1 86f, 233f
 Galison, P., 28 1
 gallium arsenide, 268-7 1
-
-Index
 
 Gardner, M . , 3 0
 Gauss, C . F . , 234
@@ -18622,8 +18189,6 @@ normal science, 7, 56, 68 , I I 6
 noumena, 98f, 1 6 1 , 221
 Nozick, R., 1 07
 
-Index
-
 28 5
 
 and experiment, 1 76, 230
@@ -18699,8 +18264,6 @@ observation
 
 Ramsey, F. P . , 5 0
 rationality, 1-1 7, 1 i r- 1 3 , 1 32-4
-
-Index
 
 Rayleigh, J . W . S . , 259
 ' real ' , 32f, 40, 5 8 , l 3 5f, 1 42, 1 45f
@@ -18827,8 +18390,6 @@ Van Fraassen, B . , 28 , 4 1 , 44f, 48f, 53,
 verification, 3 , 4 1 , 44, 52
 Verdet, M. E . , 2 1 l
 Volta, G. , 2 1 0
-
-Index
 
 28 7
 

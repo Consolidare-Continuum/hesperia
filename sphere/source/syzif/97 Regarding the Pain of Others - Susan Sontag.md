@@ -56,7 +56,6 @@ First Picador Edition: February 2004
 
 for David
 
-I
 ... aux vamcus.
 
 .
@@ -244,8 +243,6 @@ His antiwar opinions are no more in doubt than are hers.
 
 After all, his question was not, What are your thoughts
 
-Regarding the Pain of Others
-
 about preventing war? It was, How in your opinion are
 
 we to prevent war?
@@ -293,8 +290,6 @@ person. Imagine then a spread of loose photographs ex
 tracted from an envelope that arrived in the morning
 
 post. They show the mangled bodies of adults and chil-
-
-SUSAN SONTAG
 
 dren. They show how war evacuates, shatters, breaks
 
@@ -346,8 +341,6 @@ The agreement between Woolf and the lawyer seems en
 tirely presumptive, with the grisly photographs confirm
 
 ing an opinion already held in common. Had the
-
-Regarding the Pain of Others
 
 question been, How can we best contribute to the defense
 
@@ -403,8 +396,6 @@ the arbitrariness of the relentless slaughter is evidence
 
 IO
 
-SUSAN SONTAG
-
 enough. To those who are sure that right is on one side,
 
 oppression and injustice on the other, and that the fight
@@ -454,8 +445,6 @@ many who watch AlJazeera throughout the world, it did
 not tell them anything about the Israeli army they were
 
 not already primed to believe. In contrast, images offer-
-
-Regarding the Pain of Others
 
 I I
 
@@ -534,8 +523,6 @@ she worked at the office of the Free French and hoped to be sent on a mis
 sion in Occupied France. (She died in an English sanatorium in August
 1943.)
 
-Regarding the Pain of Others
-
 In fact, there are many uses of the innumerable op
 
 portunities a modern life supplies for regarding- at a
@@ -585,8 +572,6 @@ record each morning, given the likelihood of seeing pho
 
 tographs that could make you cry. And the pity and dis-
 
-SUSAN SONTAG
-
 gust that pictures like Hicks,s inspire should not distract
 you from asking what pictures, whose cruelties, whose
 deaths are not being shown.
@@ -612,8 +597,6 @@ and degradation: pages of wrecked and plundered
 churches and castles, obliterated villages, ravaged forests,
 torpedoed passenger steamers, shattered vehicles, hanged
 conscientious objectors, half-naked prostitutes in military
-
-Regarding the Pain of Others
 
 brothels, soldiers in death agonies after a poison-gas
 attack, skeletal Armenian children. Almost all the se
@@ -696,8 +679,6 @@ this horror! It is the only thing that can stop you!" the
 
 madman cries to the fleeing multitudes of the living, who
 
-Regarding the Pain of Others
-
 reward him with a martyr's death, after which he joins his
 dead comrades: a sea of impassive ghosts overrunning
 the cowering future combatants and victims of la guerre de
@@ -720,8 +701,6 @@ lation, or approval, as each misery heaves into view.
 How to respond to the steadily increasing flow of in
 formation about the agonies of war was already an issue
 in the late nineteenth century. In 1899, Gustave Moynier,
-
-Regarding the Pain of Others
 
 the first president of the International Committee of the
 
@@ -767,8 +746,6 @@ an exaggeration. What is called in news parlance "the
 world"-"You give us twenty-two minutes, we'll give you
 
 the world," one radio network intones several times an
-
-SUSAN SONTAG
 
 hour-is (unlike the world) a very small place, both geo
 
@@ -822,8 +799,6 @@ we know it had to wait a few more years for a radical up
 
 grade of professional equipment: lightweight cameras,
 
-Regarding the Pain of Others
-
 such as the Leica, using 35-mm film that could be ex
 
 posed thirty-six times before the camera needed to be re
@@ -876,8 +851,6 @@ tastrophe that is experienced will often seem eerily like its
 
 representation. The attack on the World Trade Center on
 
-SUSAN SONTAG
-
 September 11, 2001, was described as "unreal," "surreal,"
 "like a movie," in many of the first accounts of those who
 escaped from the towers or watched from nearby. (After
@@ -907,8 +880,6 @@ his grip; about to fall, dead, onto his own shadow.
 
 It is a shocking image, and that is the point. Con-
 
-Regarding the Pain of Others
-
 scripted as part of journalism, images were expected to
 arrest attention, startle, surprise. As the old advertising
 slogan of Paris Match, founded in 1949, had it: "The
@@ -937,8 +908,6 @@ magnets, mouse pads.) Atrocity photographs were scarce
 in the winter of 1936---j7: the depiction of war's horrors
 in the photographs Woolf evokes in Three Guineas seemed
 
-SUSAN SONTAG
-
 almost like clandestine knowledge. Our situation is alto
 gether different. The ultra-familiar, ultra-celebrated im
 age-of an agony, of ruin-is an unavoidable feature of
@@ -964,8 +933,6 @@ realities trumped all the complex narratives, surely it was
 1945, with the pictures taken in April and early May at
 Bergen-Belsen, Buchenwald, and Dachau in the first days
 after the camps were liberated, and those taken by Japa-
-
-Regarding the Pain of Others
 
 nese witnesses such as Yosuke Yamahata in the days fol
 lowing the incineration of the populations of Hiroshima
@@ -997,8 +964,6 @@ the first half-hour. At the end of four and a half months of battle, 1,300,000
 casualties had been sustained by both sides, and the British and French front
 line had advanced by five miles.
 
-SUSAN SONTAG
-
 Photographs had the advantage of uniting two contra
 dictory features. Their credentials of objectivity were in
 built. Yet they always had, necessarily, a point of view.
@@ -1026,8 +991,6 @@ subjectivity of the image-maker. For the photography of
 atrocity, people want the weight of witnessing without
 the taint of artistry, which is equated with insincerity or
 mere contrivance. Pictures of hellish events seem more
-
-Regarding the Pain of Others
 
 authentic when they don't have the look that comes from
 being "properly" lighted and composed, because the pho
@@ -1107,8 +1070,6 @@ ing arts, where genuine achievement is unattainable
 
 without exhaustive training and daily practice; or in film-
 
-Regarding the Pain of Others
-
 making, which is not guided to any significant degree by
 
 the anti-art prejudices of much of contemporary art
@@ -1165,8 +1126,6 @@ face the shots of such disparate material as a bowl of
 
 steaming soup, a woman in a coffin, a child playing with
 
-SUSAN SONTAG
-
 a toy bear, and the viewers-as the first theorist of film,
 Lev Kuleshov, famously demonstrated in his workshop in
 Moscow in the 192os-will marvel at the subtlety and
@@ -1195,8 +1154,6 @@ Hitler to aid Franco, the Condor Legion, and memorialized in Picasso's
 Guemica. But they were not \\-"ithout precedent. During the First \Vorld \Var,
 there had been some sporadic, relatively ineffective bombing; for example,
 the Germans conducted raids from Zeppelins, then from planes, on a num-
-
-Regarding the Pain of Others
 
 fore long the sky did harbor planes that were dropping
 bombs on landless peasants like those in the photograph.
@@ -1232,8 +1189,6 @@ down, and pushed into mass graves once the town was abandoned by the
 Dutch battalion of the United Nations Protection Force and surrendered to
 General Ratko Mladic:': these sorts of things are not supposed to happen
 here, in Europe, any more.
-
-SUSAN SONTAG
 
 ing individual witness to war and war's atrocities with a
 
@@ -1274,8 +1229,6 @@ hair cream, with a small picture of someone exerting
 himself at tennis and a large portrait of the same man in
 
 a white dinner jacket sporting a head of neatly parted,
-
-Regarding the Pain of Others
 
 slicked-down, lustrous hair.* The double spread-with
 each use of the camera implying the invisibility of the
@@ -1321,8 +1274,6 @@ light, of another Republican soldier collapsing. his rifle leaving his right han
 on the same spot on the hillside; that photograph was never reprinted. The
 first picture also appeared soon after in a newspaper, lbris-Soir.
 
-SUSAN SONTAG
-
 mously felt by the winning side to have been a necessary
 war, a war that had to be fought.
 
@@ -1349,8 +1300,6 @@ journalists-was a practical one: to represent venture
 some freelance photographers to the picture magazines
 sending them on assignments. At the same time, Mag
 num's charter, moralistic in the way of other founding
-
-Regarding the Pain of Others
 
 charters of the new international organizations and
 guilds created in the immediate postwar period, spelled
@@ -1380,8 +1329,6 @@ Most wars do not acquire the requisite fuller meaning. An
 example: the Chaco War (1932-g5), a butchery engaged
 in by Bolivia (population one million) and Paraguay
 
-SUSAN SONTAG
-
 (three and a half million) that took the lives of one hun
 dred thousand soldiers, and which was covered by a Ger
 man photojournalist, Willi Ruge, whose superb close-up
@@ -1408,8 +1355,6 @@ United States gives to the state of Israel, and the identifi
 cation of Israel as an apartheid state maintaining a brutal
 dominion over the lands captured in 1967. In the mean-
 
-Regarding the Pain of Others
-
 time, far crueler wars in which civilians are relentlessly
 slaughtered from the air and massacred on the ground
 (the decades-long civil war in Sudan, the Iraqi campaigns
@@ -1435,8 +1380,6 @@ have thought their role was to show war's "real" face.
 The color photographs of tormented Vietnamese vil
 lagers and wounded American conscripts that Larry Bur
 rows took and life published, starting in 1962, certainly
-
-SUSAN SONTAG
 
 fortified the outcry against the American presence m
 
@@ -1488,8 +1431,6 @@ such a protest, the same antiwar photograph may be read
 
 as showing pathos, or heroism, admirable heroism, in an
 
-Regarding the Pain of Others
-
 unavoidable struggle that can be concluded only by vic
 tory or by defeat. The photographer's intentions do not
 determine the meaning of the photograph, which will
@@ -1526,8 +1467,6 @@ martyrs-these are surely intended to move and excite,
 
 and to instruct and exemplify. The viewer may commiser-
 
-Regarding the Pain of Others
-
 ate with the sufferer's pain-and, in the case of the Chris
 tian saints, feel admonished or inspired by model faith
 and fortitude-but these are destinies beyond deploring
@@ -1556,8 +1495,6 @@ man's face being chewed off his head is very different
 from shuddering at a photograph of a First World War
 veteran whose face has been shot away. One horror has
 its place in a complex subject-figures in a landscape-
-
-SUSAN SONTAG
 
 that displays the artist's skill of eye and hand. The other
 
@@ -1600,8 +1537,6 @@ something to be deplored, and, if possible, stopped, en
 
 ters the history of images with a specific subject: the suf
 ferings endured by a civilian population at the hands of a
-
-Regarding the Pain of Others
 
 victorious army on the rampage. It is a quintessentially
 
@@ -1653,8 +1588,6 @@ humanist sensibility not just to mourn the end of the in
 
 dependent Duchy of Lorraine but to record the postwar
 
-SUSAN SONTAG
-
 plight of destitute soldiers who squat on the side of a
 
 road begging for alms.
@@ -1704,8 +1637,6 @@ to awaken, shock, wound the viewer. Goya's art, like
 
 Dostoyevsky's, seems a turning point in the history of
 
-Regarding the Pain of Others
-
 moral feelings and of sorrow-as deep, as original, as de
 
 manding. With Goya, a new standard for responsiveness
@@ -1753,8 +1684,6 @@ overrun this!" or the X-ray of a multiple fracture to be
 
 annotated "Patient will probably have a limp!" Nor
 
-SUSAN SONTAG
-
 should there be a need to speak for the photograph in the
 photographer's voice, offering assurances of the image's
 veracity, as Goya does in The Disasters of Wizr, writing be
@@ -1781,8 +1710,6 @@ graph-or a filmed document available on television
 or the internet-is judged a fake when it turns out to
 be deceiving the viewer about the scene it purports to
 depict.
-
-Regarding the Pain of Others
 
 That the atrocities perpetrated by the French soldiers
 
@@ -1827,8 +1754,6 @@ photographers of note. Historically, photographers have
 offered mostly positive images of the warrior's trade,
 
 and of the satisfactions of starting a war or continuing to
-
-SUSAN SONTAG
 
 fight one. If governments had their way, war photogra
 
@@ -1875,8 +1800,6 @@ breath of outside life into our Calvinist cloister. My par
 ents took in a daily newspaper, which they had never
 
 done before, and events in picturesque places, which my
-
-Regarding the Pain of Others
 
 Father and I looked out on the map, were eagerly dis
 
@@ -1925,8 +1848,6 @@ graph the dead, the maimed, or the ill, and precluded
 
 from photographing most other subjects by the cumber-
 
-SUSAN SONTAG
-
 some technology of picture-taking, Fenton went about
 rendering the war as a dignified all-male group outing.
 With each image requiring a separate chemical prepara
@@ -1954,8 +1875,6 @@ distant void.
 
 A bolder portfolio of after-the-battle images of death
 and ruin, pointing not to losses suffered but to a fearsome
-
-Regarding the Pain of Others
 
 exaction of British military might, was made by another
 
@@ -2008,8 +1927,6 @@ ulated by officers and foot soldiers, towns in war's way,
 ordnance, ships, as well as, most famously, dead Union
 
 and Confederate soldiers lying on the blasted ground of
-
-SUSAN SONTAG
 
 Gettysburg and Antietam. Though access to the battle
 field came as a privilege extended to Brady and his team
@@ -2097,8 +2014,6 @@ charge), the cannonballs are thick on the ground to the
 
 left of the road, but before taking the second picture-
 
-SUSAN SONTAG
-
 the one that is always reproduced-he oversaw the scat
 tering of cannonballs on the road itself. A picture of a
 desolate site where a great deal of dying had indeed
@@ -2126,8 +2041,6 @@ formed by several boulders flanking a barricade of rocks,
 and includes a prop rifle that Gardner leaned against the
 barricade beside the corpse. (It seems not to have been
 the special rifle a sharpshooter would have used, but a
-
-Regarding the Pain of Others
 
 common infantryman's rifle; Gardner didn't know this or
 
@@ -2177,8 +2090,6 @@ the satisfactions of a picture of an unexpected event
 
 seized in mid-action by an alert photographer.
 
-SUSAN SONTAG
-
 If we admit as authentic only photographs that result
 from the photographer's having been nearby, shutter
 open, at just the right moment, few victory photographs
@@ -2205,8 +2116,6 @@ walls of miraculously intact bookshelves. One gazes at
 the books; one hooks his finger on the spine of a book he
 is about to pull from the shelf; one, book in hand, is read
 ing--the elegantly composed tableau has to have been di-
-
-Regarding the Pain of Others
 
 rected. It is pleasing to imagine that the picture is not the
 
@@ -2260,8 +2169,6 @@ so few staged war photographs since the Vietnam War
 
 suggests that photographers are being held to a higher
 
-SUSAN SONTAG
-
 standard of journalistic probity. One part of the explana
 tion for this may be that in Vietnam television became
 the defining medium for showing images of war, and the
@@ -2291,8 +2198,6 @@ prisoner, hands tied behind his back, out to the street
 where journalists had gathered; he would not have car
 ried out the summary execution there had they not been
 available to witness it. Positioned beside his prisoner so
-
-SUSAN SONTAG
 
 that his profile and the prisoner's face were visible to the
 cameras behind him, Loan aimed point-blank. Adams's
@@ -2328,8 +2233,6 @@ died, if we may believe the claim made for that picture,
 before their execution was also standard practice in the Soviet Union in the
 1930s and 1940s, as recent research into the NKVD files in the Baltic and
 Ukrainian archives, as well as the central Lubyanka archives, has disclosed.
-
-Regarding the Pain of Others
 
 which Capa took at some distance from his subject: we
 
@@ -2477,8 +2380,6 @@ Colonel Theodore Roosevelt and his volunteer cavalry
 
 unit, the Rough Riders, for the Vitagraph cameramen,
 
-SUSAN SONTAG
-
 the actual charge up the hill, after it was filmed, having
 been judged insufficiently dramatic. Or the images may
 be too terrible, and need to be suppressed in the name of
@@ -2506,8 +2407,6 @@ it remained desultory, at the pleasure of generals and
 heads of state. The first organized ban on press photog
 raphy at the front came during the First World War; both
 the German and French high commands allowed only a
-
-Regarding the Pain of Others
 
 few selected military photographers near the fighting.
 
@@ -2561,8 +2460,6 @@ American authorities to duplicate the Thatcher controls
 
 on the reporting of their own foreign adventures. What
 
-SUSAN SONTAG
-
 the American military promoted during the Gulf War
 in 1991 were images of the techno war: the sky above
 the dying, filled with light-traces of missiles and shells
@@ -2593,8 +2490,6 @@ Ernst Jiinger observed in 1930, thereby refining the irre
 pressible identification of the camera and the gun,
 "shooting" a subject and shooting a human being. War
 making and picture-taking are congruent activities: "It is
-
-Regarding the Pain of Others
 
 the same intelligence, whose weapons of annihilation can
 
@@ -2643,8 +2538,6 @@ utes a full-sized village (vide attached photos of Kushan-Al-Ajaza) can be
 practically wiped out and a third of its inhabitants killed by four or five ma
 chines which offer them no real target, no opportunity for glory as warriors,
 no effective means of escape."
-
-SUSAN SONTAG
 
 "friendly fire" (as the euphemism has it) both count and
 
@@ -2697,8 +2590,6 @@ sistence on good taste in a culture saturated with com
 
 mercial incentives to lower standards of taste may be
 
-Regarding the Pain of Others
-
 puzzling. But it makes sense if understood as obscuring a
 host of concerns and anxieties about public order and
 public morale that cannot be named, as well as pointing
@@ -2727,8 +2618,6 @@ House, Palestinian children killed in Israeli attacks), that
 it was a political diatribe and ended with dire threats and
 a list of specific demands-all of which might suggest
 that it was worth suffering through (if you could bear it)
-
-SUSAN SONTAG
 
 to confront better the particular viciousness and intransi
 
@@ -2781,8 +2670,6 @@ accord to others.
 The more remote or exotic the place, the more likely
 
 we are to have full frontal views of the dead and dying.
-
-Regarding the Pain of Others
 
 Thus postcolonial Africa exists in the consciousness of
 
@@ -2929,8 +2816,6 @@ he insists that artists have the courage and the imagina
 
 tion to show war in all its ghastliness:
 
-Regarding the Pain of Others
-
 Make the conquered and beaten pale, with brows raised
 
 and knit, and the skin above their brows furrowed with
@@ -3007,8 +2892,6 @@ common exaggeration is one that regards these powers as
 opposites. Photographs that depict suffering shouldn't be
 beautiful, as captions shouldn't moralize. In this view, a
 
-Regarding the Pain of Others
-
 beautiful photograph drains attention from the sobering
 
 subject and turns it toward the medium itself, thereby
@@ -3054,8 +2937,6 @@ E\"ans, for example, detested the work of Bourke-\\ihite. But then Evans,
 who photographed poor American peasants for a book with the heavily
 ironic title Let Us Now Praise Famous ,\fen, would never take a picture of any
 body famous.
-
-SUSAN SONTAG
 
 of the Omaha Beach landing on D-Day in Saving Private
 Ryan (1998) was that it was based, among other sources,
@@ -3105,8 +2986,6 @@ and where they are exhibited: in their focus on the pow
 
 erless, reduced to their powerlessness. It is significant that
 
-Regarding the Pain of Others
-
 the powerless are not named in the captions. A portrait
 that declines to name its subject becomes complicit, if
 inadvertently, in the cult of celebrity that has fueled
@@ -3134,8 +3013,6 @@ seen, bringing a painful reality closer, was bound to goad
 viewers to feel more. In a world in which photography is
 brilliantly at the service of consumerist manipulations, no
 effect of a photograph of a doleful scene can be taken for
-
-SUSAN SONTAG
 
 granted. As a consequence, morally alert photographers
 
@@ -3189,8 +3066,6 @@ gellation she showed as slides. ("I think it's a religious pic
 
 ture," one ventured.) The only canonical image of Jesus
 
-Regarding the Pain of Others
-
 she could count on most students being able to identify
 
 was the Crucifixion.
@@ -3221,8 +3096,6 @@ rettes with a shock-photograph-of cancerous lungs, or a
 stroke-clotted brain, or a damaged heart, or a bloody
 mouth in acute periodontal distress. A pack with such a
 picture accompanying the warning about the deleterious
-
-SUSAN SONTAG
 
 effects of smoking would be sixty times more likely to in
 
@@ -3277,8 +3150,6 @@ sob when Lord Asano admires the beauty of the cherry
 
 blossoms on his way to where he must commit seppuku-
 
-Regarding the Pain of Others
-
 sob each time, no matter how often they have followed
 the story (as a Kabuki or Bunraku play, as a film); the
 ta'~ drama of the betrayal and murder of Imam Hus
@@ -3307,8 +3178,6 @@ Such evidence is, usually, of something posthumous; the
 remains, as it were--the mounds of skulls in Pol Pot's
 Cambodia, the mass graves in Guatemala and El Sal
 vador, Bosnia and Kosovo. And this posthumous reality is
-
-SUSAN SONTAG
 
 their
 
@@ -3340,8 +3209,6 @@ the razed center of the refugee camp. And, of course,
 atrocities that are not secured in our minds by well
 known photographic images, or of which we simply have
 
-Regarding the Pain of Others
-
 had very few images-the total extermination of the
 Herero peopl~ in Namibia decreed by the German colo
 nial administration in 1904; the Japanese onslaught in
@@ -3369,8 +3236,6 @@ ries," and that is, over the long run, a fiction. Strictly
 speaking, there is no such thing as collective memory
 part of the same family of spurious notions as collective
 guilt. But there is collective instruction.
-
-SUSAN SONTAG
 
 All memory is individual, unreproducible-it dies with
 each person. What is called collective memory is not a
@@ -3400,8 +3265,6 @@ stitutional development. The point of creating public
 repositories for these and other relics is to ensure that the
 crimes they depict will continue to figure in people's con-
 
-Regarding the Pain of Others
-
 sciousness. This is called remembering, but in fact it is a
 good deal more than that.
 
@@ -3429,8 +3292,6 @@ ory of the genocide of Armenian people by the Ottoman
 Turks. But why is there not already, in the nation's capital,
 which happens to be a city whose population is oveiwhelm
 ingly African-American, a Museum of the History of Slav-
-
-SUSAN SONTAG
 
 eey? Indeed, there is no Museum of the History of Slav
 ery-the whole story, starting with the slave trade in Africa
@@ -3466,8 +3327,6 @@ EVEN IN THE ERA of cybermodels, what the mind feels
 
 like is still, as the ancients imagined it, an inner space-
 
-Regarding the Pain of Others
-
 like a theatre-in which we picture, and it is these pic
 tures that allow us to remember. The problem is not that
 people remember through photographs, but that they re
@@ -3497,8 +3356,6 @@ to understand. Narratives can make us understand. Pho
 tographs do something else: they haunt us. Consider one
 of the unforgettable images of the war in Bosnia, a pho
 tograph of which the New York Times foreign correspon-
-
-SUSAN SONTAG
 
 dent John Kifner wrote: "The image is stark, one of the
 
@@ -3552,8 +3409,6 @@ the events took place. Like pictures from the Vietnam
 
 March 1968 by a company of American soldiers of some
 
-Regarding the Pain of Others
-
 five hundred unarmed civilians in the village of My Lai,
 
 they became important in bolstering the opposition to a
@@ -3606,8 +3461,6 @@ pictures makes us spectators, too.
 
 What is the point of exhibiting these pictures? To
 
-SUSAN SONTAG
-
 awaken indignation? To make us feel "bad,,; that is, to
 appall and sadden? To help us mourn? Is looking at such
 pictures really necessary, given that these horrors lie in a
@@ -3636,8 +3489,6 @@ else.)
 That being said, one person's "barbarian" is another
 person's 'just doing what everybody else is doing." (How
 many can be expected to do better than that?) The ques-
-
-Regarding the Pain of Others
 
 tion is, Whom do we wish to blame? More precisely,
 
@@ -3690,8 +3541,6 @@ some tug of obligation to join. This ongoing project is a
 great achievement, a benchmark of civic virtue. The ac
 
 knowledgment of the American use of disproportionate
-
-SUSAN SONTAG
 
 firepower in war (in violation of one of the cardinal laws
 of war) is very much not a national project. A museum
@@ -3771,8 +3620,6 @@ wanted to go and look at them, but at the same time he
 
 was disgusted and tried to turn away. He struggled for
 
-Regarding the Pain of Others
-
 some time and covered his eyes, but at last the desire was
 
 too much for him. Opening his eyes wide, he ran up to
@@ -3818,8 +3665,6 @@ Hazlitt, in his essay on Shakespeare's Iago and the attrac
 tion of villainy on the stage, asks, "Why do we always read
 
 the accounts in the newspapers of dreadful fires and shock-
-
-SUSAN SONTAG
 
 ing murders?" Because, he answers, "love of mischief," love
 
@@ -3869,8 +3714,6 @@ incorrigible.
 
 Bataille is not saying that he takes pleasure at the sight
 
-Regarding the Pain of Others
-
 of this excruciation. But he is saying that he can imagine
 extreme suffering as something more than just suffering,
 as a kind of transfiguration. It is a view of suffering, of
@@ -3899,8 +3742,6 @@ A citizen of Sarajevo, a woman of impeccable adher
 ence to the Yugoslav ideal, whom I met soon after arriv
 ing in the city the first time in April 1993, told me: "In
 October 1991 I was here in my nice apartment in peace-
-
-SUSAN SONTAG
 
 ful Sarajevo when the Serbs invaded Croatia, and I re
 
@@ -3954,8 +3795,6 @@ mass culture: films, television, comics, computer games.
 
 Imagery that would have had an audience cringing and
 
-Regarding the Pain of Others
-
 IOI
 
 recoiling in disgust forty years ago is watched without so
@@ -4003,8 +3842,6 @@ photograph Warhol silk-screened that refers to the violence of war is one
 that had become iconic; that is, a cliche: the mushroom cloud of an atomic
 bomb, repeated as on a sheet of postage stamps (like the faces of Marilyn,
 Jackie, Mao) to illustrate its opaqueness, its fascination, its banality.
-
-SUSAN SONTAG
 
 And it is not necessarily better to be moved. Sentimen
 
@@ -4055,16 +3892,12 @@ extend to others beset by war and murderous politics for
 
 a reflection on how our privileges are located on the same
 
-Regarding the Pain of Others
-
 map as their suffering, and may-in ways we might pre
 fer not to imagine-be linked to their suffering, as the
 wealth of some may imply the destitution of others, is a
 
 task for which the painful, stirring images supply only an
 initial spark.
-
-I
 
 C onsider two widespread ideas-now fast approach
 
@@ -4138,8 +3971,6 @@ shown on television are by definition images of which,
 
 sooner or later, one tires. What looks like callousness has
 
-SUSAN SONTAG
-
 its origin in the instability of attention that television is
 organized to arouse and to satiate by its surfeit of images.
 Image-glut keeps attention light, mobile, relatively indif
@@ -4164,8 +3995,6 @@ to Lyrical &llads, denounced the corruption of sensibility
 produced by "the great national events which are daily
 taking place, and the increasing accumulation of men in
 cities, where the uniformity of their occupations produces
-
-Regarding the Pain of Others
 
 a craving for extraordinary incident, which the rapid
 
@@ -4215,8 +4044,6 @@ with this loathsome appetizer that civilized man daily
 
 washes down his morning repast.
 
-SUSAN SONTAG
-
 Newspapers did not yet carry photographs when Baude
 laire wrote. But this doesn't make his accusatory descrip
 tion of the bourgeois sitting down with his morning
@@ -4243,8 +4070,6 @@ horrors themselves are not going to abate.
 
 THE VIEW PROPOSED IN On Plwwgrap~that our ca
 pacity to respond to our experiences with emotional
-
-Regarding the Pain of Others
 
 freshness and ethical pertinence is being sapped by the
 
@@ -4384,8 +4209,6 @@ do anything to keep themselves from being moved. How
 much easier, from ones chair, far from danger, to claim
 the position of superiority. In fact, deriding the efforts of
 
-SUSAN SONTAG
-
 those who have borne witness in war zones as ''war
 tourism" is such a recurrent judgment that it has spilled
 over into the discussion of war photography as a profes-
@@ -4415,8 +4238,6 @@ are interested in the representation of their own suffer
 ings. But they want the suffering to be seen as unique. In
 early 1994, the English photojournalist Paul Lowe, who
 had been living for more than a year in the besieged city,
-
-Regarding the Pain of Others
 
 mounted ar exhibit at a partly wrecked art gallery of the
 
@@ -4481,8 +4302,6 @@ or amnesia.
 There now exists a vast repository of images that make
 
 I J4.
-
-Regarding the Pain of Others
 
 I I 5
 
@@ -4569,8 +4388,6 @@ That we are not totally transformed, that we can turn
 away, turn the page, switch the channel, does not impugn
 the ethical value of an assault by images. It is not a defect
 
-Regarding the Pain of Others
-
 I I 7
 
 that we are not seared, that we do not suffer enough, when
@@ -4620,8 +4437,6 @@ watching suffering at a distance, as if there were some
 other way of watching. But watching up close-without
 
 the mediation of an image-is still just watching.
-
-SUSAN SONTAG
 
 Some of the reproaches made against images of atroc
 ity are not different from characterizations of sight itself.
@@ -4679,8 +4494,6 @@ seems fixed for all time, the concentration camp photo-
 
 I I 9
 
-SUSAN SONTAG
-
 graphs from 1945, weigh differently when seen in a pho
 
 tography museum (the Hotel Sully in Paris, the Interna
@@ -4729,8 +4542,6 @@ reverential conditions in which to look at these pictures
 and be fully responsive to them. Indeed, apart from the
 
 settings where patriotic deference to leaders is exercised,
-
-Regarding the Pain of Others
 
 I 2 I
 
@@ -4783,8 +4594,6 @@ described as a presentation of conditions during the German bombing of
 London in 1940, including the simulation of an air raid as experienced in an
 underground shelter.
 
-SUSAN SONTAG
-
 ally the specificity of the photographs' accusations will
 
 fade; the denunciation of a particular conflict and attri
@@ -4830,8 +4639,6 @@ the most affecting film about the sadness of war I know,
 and an astoundingjapanese documentary, Kazuo Hara's
 
 The Emperor's Naked Army Marches On (1987), the portrait of
-
-Regarding the Pain of Others
 
 a "deranged" veteran of the Pacific war, whose life's work
 
@@ -4915,8 +4722,6 @@ laughing at a third man , on his knees, who playfully dan
 gles before him a strip of flesh. One soldier, helmeted,
 legless, has turned to a comrade some distance away, an
 
-Regarding the Pain of Others
-
 alert smile on his face. Below him are two who don't seem
 
 quite up to the resurrection and lie supine, their bloodied
@@ -4965,8 +4770,6 @@ rienced anything like what they went through-don't un
 derstand. We don't get it. We truly can't imagine what it
 
 was like. We can't imagine how dreadful, how terrifying
-
-SUSAN SONTAG
 
 war is; and how normal it becomes. Can't understand,
 can't imagine. That's what every soldier, and every jour

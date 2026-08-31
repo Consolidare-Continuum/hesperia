@@ -1,4 +1,3 @@
-
 June 13, 2008
 
 Time:
@@ -9,49 +8,25 @@ prelims.tex
 
 xxxii
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 The Difference
 
 i
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 ii
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 With a new preface by the author
 
 iii
 
-June 13, 2008
-
 Time:
 
-01:40pm
-
-prelims.tex
-
-Copyright c(cid:1) 2007 by Princeton University Press
+Copyright c2007 by Princeton University Press
 
 Published by Princeton University Press, 41 William Street, Princeton, New Jersey 08540
 In the United Kingdom: Princeton University Press, 6 Oxford Street, Woodstock,
@@ -87,40 +62,22 @@ Printed in the United States of America
 
 10 9 8 7 6 5 4 3
 
-"Jungleland" by Bruce Springsteen. Copyright c(cid:1) 1975 (Renewed) Bruce Springsteen
+"Jungleland" by Bruce Springsteen. Copyright c1975 (Renewed) Bruce Springsteen
 (ASCAP). Reprinted by permission. International copyright secured. All rights reserved.
 
 iv
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 Jenna, I dedicate this discrete product of our continuous lives to you.
 
 v
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 vi
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 From the earliest traceable cosmical changes down
 to the latest results of civilization, we shall find that
@@ -135,23 +92,11 @@ The dim boy claps because the others clap.
 
 vii
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 viii
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 Contents
 
@@ -196,13 +141,7 @@ xix
 
 xxv
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 x
 
@@ -243,13 +182,7 @@ Interacting Toolboxes and Preferences
 
 Go Ask Alice
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 C O N T E N T S
 
@@ -282,23 +215,11 @@ Index
 
 xi
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xii
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 Preface to the Paperback Edition
 
@@ -331,13 +252,7 @@ Perhaps because The Difference takes time to digest, eventually, accurate readin
 Difference explores the pragmatic, bottom-line contributions of
 diversity. It does so using models and logic, not metaphor. The
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xiv
 
@@ -382,15 +297,7 @@ mousetraps.
 Interacting with a large number of diverse people should be
 more cognitively taxing than hanging out with your close friends,
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
-
-P R E F A C E T O T H E P A P E R B A C K E D I T I O N
 
 xv
 
@@ -433,17 +340,9 @@ idea means success for everyone.
 Most real world tasks are neither purely disjunctive nor purely
 conjunctive. In fact, how much of each a particular task is depends
 
-June 13, 2008
-
 Time:
 
-01:40pm
-
-prelims.tex
-
 xvi
-
-P R E F A C E T O T H E P A P E R B A C K E D I T I O N
 
 upon how the task is structured. As the economic historian
 Paul David pointed out to me, one of the great challenges in
@@ -480,15 +379,7 @@ the company made public all relevant information about its Red
 Lake Mine in Ontario, Canada. It broadcast this information over
 the Web and asked for advice as to where to dig. The result was,
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
-
-P R E F A C E T O T H E P A P E R B A C K E D I T I O N
 
 xvii
 
@@ -531,17 +422,9 @@ When those conditions aren't met, decentralized problem solving or co-creation m
 league baseball team, found out the hard way. For the second half
 of the 2006 season, the owners allowed fans to manage the team.
 
-June 13, 2008
-
 Time:
 
-01:40pm
-
-prelims.tex
-
 xviii
-
-P R E F A C E T O T H E P A P E R B A C K E D I T I O N
 
 Fans voted on batting order, pitching decisions, etc. The failure
 of this attempt should come as no surprise. The members of the
@@ -582,13 +465,7 @@ positive-sum thinking. We have to think of sharing ideas not as
 giving away the shop, but as collectively building the lever to lift
 the world.
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 Acknowledgments
 
@@ -620,13 +497,7 @@ Bendor, Scott de Marchi, Patrick Grim, Ken Kollman, Bill McKelvey, Jennifer Mill
 and Troy Tassier gave detailed comments on earlier drafts. The
 path from personal friend to personal hero is paved with red
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xx
 
@@ -671,13 +542,7 @@ a good advisor falls not too far behind on that list. Stan offered his
 usual wisdom and guidance in the writing of the research papers
 that were the basis for this book. As is true with the BACH group,
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 A C K N O W L E D G M E N T S
 
@@ -724,13 +589,7 @@ While writing this book, I was coauthoring a book with John
 Miller of Carnegie Mellon University and SFI. John did most of
 the late heavy lifting on that project, allowing me the space to
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xxii
 
@@ -776,13 +635,7 @@ appear at various places in the book. It's an odd way to say thanks,
 but it's all I can do—it may not be to each according to his (or her)
 needs, but it is from me according to my abilities.
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 A C K N O W L E D G M E N T S
 
@@ -814,23 +667,11 @@ her, this book would have far less substance, gravity, and wisdom.
 
 And so would I.
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xxiv
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 Prologue
 
@@ -864,13 +705,7 @@ finding: diverse groups of problem solvers—groups of people with
 diverse tools—consistently outperformed groups of the best and
 the brightest. If I formed two groups, one random (and therefore
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xxvi
 
@@ -917,15 +752,7 @@ wisdom. The first is Howard Reingold's Smart Mobs, which
 describes how emergent collections of people can carry out tasks
 and can solve problems.1 The second book is Jim Surowiecki's
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
-
-P R O L O G U E
 
 xxvii
 
@@ -970,17 +797,9 @@ diverse employees. That's not going to change."4
 Some people dismiss claims that diversity is beneficial as empty
 rhetoric. And people have good reason to be dubious. These
 
-June 13, 2008
-
 Time:
 
-01:40pm
-
-prelims.tex
-
 xxviii
-
-P R O L O G U E
 
 claims do not seem to be based on anything more than hope
 and metaphor (making them easy to dismiss). This book provides
@@ -1022,15 +841,7 @@ of a predictive market can show how including identity diverse—
 and experientially and vocationally diverse—people improves the
 performance of a problem-solving team. To quote Dan Ackroyd
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
-
-P R O L O G U E
 
 xxix
 
@@ -1075,17 +886,9 @@ cold. Further, for diverse groups to function in practice, the people
 in them must get along. If not, the cognitive differences between
 them may be little more than disconnected silos of ideas and
 
-June 13, 2008
-
 Time:
 
-01:40pm
-
-prelims.tex
-
 xxx
-
-P R O L O G U E
 
 thoughts. Diversity, like everything else (excepting, of course,
 moderation), has its limits.
@@ -1143,12 +946,6 @@ participants were double blind.
 
 Alph called his site InnoCentive. With it, he created a modernday version of the Wild West wanted poster. But rather than
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
 I N T R O D U C T I O N
 
 nailing his posters to trees all over the Dakota Territory, Alph
@@ -1190,14 +987,6 @@ vapor emissions in a specific industry setting. You do not need
 to be a chemist to work on this problem. What matters most is
 your creative and practical mind as a scientist.
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 InnoCentive takes advantage of new technology to exploit an
 old idea: the use of diverse, talented people to solve problems. We
 have to be careful here. Alph is not trying to exploit the wisdom of
@@ -1238,14 +1027,6 @@ second letter is an o, that means explosive device!
 Crossword Puzzle Expert: Bombe. B-o-m-b-e, bombe.
 Linguist: It's pronounced BOM-bah!
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 Bletchley Park cracked the Enigma code (twice). Churchill called
 it "the goose that laid the golden egg and never cackled." Like
 the solvers at InnoCentive, the goose consisted of many diverse
@@ -1284,14 +1065,6 @@ The Diversity Conjecture: Diversity leads to better outcomes.
 The diversity conjecture, as stated, suffers from vagueness and
 imprecision. For us, it's a great jumping-off point. We can refine
 it and identify conditions so that it is no longer a conjecture,
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 but a conditional statement. Clearly, the conjecture fails to hold
 universally. That's why we will proceed slowly, defining our terms
@@ -1332,14 +1105,6 @@ fired up the grill, we want a single plan, we may, in developing that
 plan, want lots of cooks. Even Julia Child didn't work alone. She
 had Simone Beck. Thus, it might be better to draw on the expertise
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 of a variety of cooks—before we uncork the wine and tie on
 our aprons.
 
@@ -1377,14 +1142,6 @@ second part, I analyze if, when, and how diversity produces
 better outcomes. In the third part, I discuss the problems created
 by diverse values. In part four, I summarize and interpret the
 empirical evidence of diversity's benefits. And in the final part,
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 I (briefly and sweepingly) discuss the implications for teams,
 organizations, markets, and democracies. In the epilogue, I wax
@@ -1427,14 +1184,6 @@ another Ann Arbor landmark. Isabelle might resort to directions
 that pass by her house. (Or, like the old New Englander, tell you,
 "You can't get there from here.")
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 Perspectives provide one framework for how people see the
 world differently. A second framework, interpretations, highlights
 the different categories people use to classify events, outcomes,
@@ -1471,14 +1220,6 @@ provide a new way to think about intelligence and ability. We often
 think of people as having a level of intelligence as measured by an
 IQ test—where they fall on a scale that starts at zero and goes
 up (way up, in some cases). IQ provides us with a convenient
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 measuring stick. The move from measuring sticks to toolboxes
 obliges more than a switch of metaphors. Toolboxes change how
@@ -1524,14 +1265,6 @@ the number of solutions that a collection of people can find by
 creating different connections among the possible solutions. What
 one person sees as a small step—attaching our mittens to a string
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 of yarn running through our coat sleeves—may seem a giant
 leap for another. Diverse heuristics have similar effects. Given a
 solution, more heuristics allow problem solvers to explore more
@@ -1573,14 +1306,6 @@ should not think of predictive ability as of paramount importance
 and predictive diversity as something that contributes only around
 the margins. Ability and diversity enter the equation equally. This
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 result is not a political statement but a mathematical one, like
 the Pythagorean Theorem. In this chapter, I also compare crowds
 against experts as well as information markets against polls. I
@@ -1617,14 +1342,6 @@ diversity is at best a flyover of the relevant results—"Look,
 there's the Grand Canyon." The first result, Arrow's Theorem,
 gives conditions under which individual preferences do not aggregate into a collective preference. The second result, proved by
 Charles Plott, states that with majority rule voting, any proposed
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 alternative can be defeated by some other alternative. The third
 result, proved by Richard McKelvey and Norman Schofield,
@@ -1663,14 +1380,6 @@ has empirical support, if evidence fits the theory. In the fourth
 part of the book, I take on that question. I do so with some
 trepidation. If we do not know how something works, demands
 for empirical support are premature. If we don't understand how
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 or why diversity creates benefits, we may not realize those benefits.
 Consider the width of the space between knowing that atoms
@@ -1713,14 +1422,6 @@ Oddly, this mantra leaves implicit the conjecture that diverse
 perspectives create benefits. Presumably, the people who write
 those brochures believe that it does.
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 And yet, we can take the connection between identity and
 cognition too far. Identity diverse people can think alike. And
 people belonging the same race, age, gender, religion, and social
@@ -1762,14 +1463,6 @@ percent men and teams with 75 percent women. We can find
 groups that consist almost entirely of men between the ages of
 fifty and seventy. (Hint: they're running a country near you.)
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 Overall, the group-level findings are similar to what has been
 found at the city and country level. If well managed, identity
 diversity can create benefits, provided it correlates with cognitive differences and provided the task is one in which diversity
@@ -1804,14 +1497,6 @@ The Logic in Context
 Before continuing, let's stop and situate the contributions
 in three larger contexts. First, the logic points to potential benefits
 from globalization beyond great food, awesome music, and amazing art. Yes, cultural awareness prevents boneheaded actions.15
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 But the logic suggests that the benefits of a globalized workforce
 extend far beyond better understandings of local markets. People
@@ -1854,14 +1539,6 @@ argument positively. Some fear that it covers historical injustices
 and current discrimination under a large multicolored rug.17 This
 book helps us to think through when it would and would not
 
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
-
 hold. It helps us sort the logical from the illogical. For example,
 in his dissenting opinion on the cases involving the University of
 Michigan's law school admissions policies, Supreme Court Associate Justice Antonin Scalia wrote that Michigan was suffering
@@ -1898,14 +1575,6 @@ solving a problem, predicting the future, or making a choice, we
 benefit by including diverse people. In such situations, we might
 think about gathering together the best and brightest minds, but
 that's a flawed approach. We also need to pay attention to the
-
-October 12, 2006
-
-Time: 09:55am
-
-intro.tex
-
-I N T R O D U C T I O N
 
 diversity of those minds, all the more so if the old saying that
 "great minds think alike" holds true.
@@ -1950,15 +1619,11 @@ Part One
 
 UNPACKING THE TOOLBOX
 
-September 20, 2006
-
 Time:
 
 02:20pm
 
 emerson.tex
-
-September 20, 2006
 
 Time:
 
@@ -1993,8 +1658,6 @@ books belong to the eyes that see them. It depends on the mood
 of the man, whether he shall see the sunset or the fine poem.
 There are always sunsets, and there is always genius; but only a
 few hours so serene that we can relish nature or criticism.
-
-September 20, 2006
 
 Time:
 
@@ -2042,13 +1705,7 @@ framework to explore if, why, how, and when toolbox diversity
 produces benefits. We have to wait to do that, though. First, we
 must learn about the tools themselves.
 
-June 13, 2008
-
 Time:
-
-01:40pm
-
-prelims.tex
 
 xxxii
 
@@ -2092,13 +1749,7 @@ copper the name Kamisha.
 Mendeleyev's periodic table gave us a meaningful structure.
 Coming up with that perspective took hard work. To discover
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
 
 C H A P T E R O N E
 
@@ -2140,13 +1791,7 @@ metaphorical. The canonical model for earthquakes, for instance,
 involves blocks connected by springs, which can then be analyzed
 rigorously using mathematics.3 Though we know perspectives
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
 
 D I V E R S E P E R S P E C T I V E S
 
@@ -2186,87 +1831,17 @@ different form. This example will be a bit of a teaser for the second
 part of the book, when we consider the application of diversity to
 problem solving, prediction, and choice.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
-
-C
 
 B
 
 A
-
-D
 
 .1 The Geometrician's Perspective
 
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-(cid:1)
-
-(cid:2)
-
-(cid:1)
-
 A
 
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-C
-
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
 B
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-D
-
-(cid:2)
-(cid:1)
-
-(cid:2)
 
 .2 The Economist's Perspective
 
@@ -2291,59 +1866,22 @@ Or we might suppose that we are economists (see figure 1.2). If
 so, we might reason that A is the amount of some good supplied
 and B is the amount demanded. Or we might reason that A is the
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 A
 
 B
-
-C
-
-D
 
 .3 The Chemist's Perspective
 
-(cid:2)
-
 A
-(cid:2)
-
-(cid:2)(cid:2)(cid:3)
-(cid:1)
-(cid:1)
-(cid:1)(cid:1)(cid:4) (cid:2)
-
-(cid:1)
-C
-
-(cid:1)
-
-(cid:1)(cid:1)(cid:4)
 
 B
-(cid:1)
-
-(cid:2)
-
-D
-
-(cid:2)(cid:2)(cid:3)
 
 .4 The Physicist's Perspective
 
 A
 B
-
-D
-C
 
 .5 The Fashion Designer's Perspective
 
@@ -2366,15 +1904,7 @@ number of people wearing argyle sweaters and B as the number of
 people wearing blue jeans. We might think of C as the number
 of people wearing cutoffs and D as the number wearing dingy
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 T-shirts. If everyone wearing an argyle sweater wears jeans and
 everyone wearing a dingy T-shirt wears cutoffs, then A = B and
@@ -2417,15 +1947,7 @@ trousers and some wearing green dingy T-shirts and cutoff shorts.
 We can identify each person with a two-letter code. AT is someone
 wearing an argyle sweater and trousers, and GC is someone wearing a green shirt and cutoffs. To describe the outfits of the entire
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 line of people, we make a long list: AT, AT, GC, GC, GC, AT,
 and so on. In making this list, we've wasted a lot of ink. We
@@ -2467,15 +1989,7 @@ than either could have alone. In Robert Wright's brief popular
 account, he writes, "here is a case where one plus one equals
 twelve."5
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 To understand this new mathematics, to see how one plus one
 can be twelve, we need more formalism. We need to begin the
@@ -2514,15 +2028,7 @@ to objects. Mathematicians call them "one-to-one mappings."
 Each object, situation, problem, or event maps to a unique "word"
 in the person's internal language.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 A perspective is a map from reality to an internal language such
 that each distinct object, situation, problem, or event gets
@@ -2564,33 +2070,17 @@ one former British colony still uses base sixteen for some weights
 and measures. Once they reach sixteen ounces, they use the
 term pint.
 
-April 21, 2008
-
 Time:
 
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
-
 y = 2
-
-(cid:2)
 
 x = 2
 
 √
 
-(cid:2)
 r = 2
 
-(cid:1)(cid:1)
-
-(cid:1)
 θ = π/4
-
-(cid:1)
 
 .6 Cartesian and Polar Perspectives
 
@@ -2627,15 +2117,7 @@ example, if our internal language assigns numbers, we create a
 complete ordering. One is the smallest number. Two lies between
 one and three, and so on. Complete and even partial orderings
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 give language power. They simplify identification.10 If an internal
 language fails to create structure, if it consists of idiosyncratic
@@ -2674,15 +2156,7 @@ is a representation of Ben and Jerry's perspective, which is
 structured. It helps us make sense of how ice cream differs in a
 meaningful way.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 4,1 4,2 4,3 4,4
 
@@ -2723,15 +2197,7 @@ In Nelly's perspective, the pint with two dozen three centimeter
 diameter chunks lies adjacent to the pint with four dozen chunks
 of diameter one centimeter (they are typed in bold in her perspective). In Ben and Jerry's perspective, these two pints are far apart
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 4,1
 
@@ -2770,15 +2236,7 @@ who organizes the pints of ice cream by the average length of time
 it takes to chew a spoonful of the ice cream. In order to rationalize
 being paid some stupendous fee, Hannah might give this attribute
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 some impressive name like masticity. For the problem of making
 ice cream, this perspective would not create meaningful structure.
@@ -2821,15 +2279,7 @@ Suppose that the first player chooses the 5 and the second player
 chooses the 3. The first player would then not want to choose the
 7 because (5 + 3 + 7 = 15) and the 3 has already been selected.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 Table 1.1:
 First player's cards and needs
@@ -2873,15 +2323,7 @@ game is to collect baskets that contain all three copies of some food
 item. If either player gets all three lemons, or nachos, or eggs, and
 so on, that player wins.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 Table 1.2:
 The Unpacking Game
@@ -2934,15 +2376,7 @@ box. Players alternate placing Xs and Os.
 
 Object: To get three Xs or Os in a row.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 .11 Tic Tac Toe
 
@@ -2971,25 +2405,11 @@ then chose the 3 (put an O there). The first player then chose the
 2 and the second player the 8. Now when the first player chooses
 the 4, he has two ways to win, as shown in figure 1.13.
 
-April 21, 2008
-
 Time:
 
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
-
 O
 
 O
-
-X
-
-X
-
-X
 
 .13 Tic Tac Toe on a Magic Square
 
@@ -3037,15 +2457,7 @@ If we place the basket numbers on the Tic Tac Toe board, we
 
 again get the magic square (see figure 1.15).
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 .15 Baskets on the Board
 
@@ -3078,15 +2490,7 @@ many standard questions on IQ tests ask "fill in the missing
 number" questions. Solving these problems requires encoding the
 given numbers in such a way that they make sense. This requires
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 finding a perspective that makes the sequence into a pattern.
 Consider the following three problems taken from actual IQ tests.
@@ -3130,15 +2534,7 @@ people with extraordinarily high mathematical and logical skill
 levels from those people who are just good. In this example, the
 last number, 1,806 seems out of place. It is too large. How could
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 a logical sequence jump from 6 to 1,806? We can find the answer
 by combining the perspectives developed to solve the first two
@@ -3181,15 +2577,7 @@ the Galaxy, the late Douglas Adams wrote that the number 42
 was the answer to the Ultimate Question of Life, the Universe,
 and Everything.12 Science fiction buffs would be far more likely
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 to guess the number 42 than would people who had never read
 Douglas Adams. Science fiction buffs who like math might even
@@ -3231,15 +2619,7 @@ want a perspective on houses to help us understand their prices.
 We consider fourteen houses for sale in West Branch, Iowa (the
 boyhood home of Herbert Hoover) on www.realtor.com in the fall
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 e
 c
@@ -3251,7 +2631,6 @@ d
 e
 t
 s
-L
 
 i
 
@@ -3297,15 +2676,7 @@ like Mount Fuji), this perspective creates lots of ups and downs.
 Moving along it would be like hiking in the Adirondacks. The
 many local peaks imply that square footage doesn't organize the
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 information well. If we wanted to find the least expensive house
 (assuming that we couldn't just get the information from the Web
@@ -3345,15 +2716,7 @@ to 14 and decrease after it. The perspective 1, 4, 5, 6, 9, 11, 14,
 at 13. Each distinct single-peaked landscape has a unique subset
 of houses to the left of the house number 14. So, to compute the
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 number of perspectives that create single-peaked landscapes, we
 need only compute the number of unique subsets of the numbers
@@ -3397,15 +2760,7 @@ together, we get 87,178,291,200. So, for each perspective that
 creates a Mount Fuji landscape there exist ten million perspectives
 that do not. Ouch!
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 In general, the number of one-dimensional perspectives of N
 objects equals N factorial—N times (N − 1) times (N − 2) and
@@ -3444,15 +2799,7 @@ counterintuitive as this advice sounds, copying better perspectives
 may not be such a good idea. Collectively, we may be better off if
 some of us continue to use less effective but diverse perspectives.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 Another reason for common perspectives is that they allow
 for quick and error-free communication. An experiment by Colin
@@ -3492,15 +2839,7 @@ in jargon. We may not be aware of it, but we do. We construct communication shor
 Acronyms are so abundant that people who attend a seminar or
 meeting outside their own organization or field of specialization
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-C H A P T E R O N E
 
 often have no idea what people are saying. Acronym overlap
 makes understanding even more difficult. The acronym ABM represents everything from activity-based management to agent-based
@@ -3540,15 +2879,7 @@ diverse perspectives. We should invite physicists into chemistry
 departments, psychologists into economic departments, and political scientists into business schools. We should include engineers
 in marketing meetings and marketers in engineering meetings.
 
-April 21, 2008
-
 Time:
-
-05:00pm
-
-chapter01.tex
-
-D I V E R S E P E R S P E C T I V E S
 
 And when forming committees and teams, we should choose
 people who come from different backgrounds and have diverse
@@ -3615,13 +2946,7 @@ George's "do the opposite" rule is a heuristic. Heuristics are
 thinking tools used to find solutions to problems. The "do the
 opposite" heuristic is one of many proposed by Barry Nalebuff
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
 
 H E U R I S T I C S
 
@@ -3663,13 +2988,7 @@ heuristics are also identity dependent. We may not know how we
 come up with heuristics, what their sources are. They just appear.
 And we can keep only so many heuristics at our fingertips. This
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
 
 C H A P T E R T W O
 
@@ -3711,15 +3030,7 @@ when developing his heuristic, but it works in that domain as well.
 When applying a heuristic, once a new solution is found, it
 must be evaluated. Thus, in addition to needing a perspective,
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 heuristics also require some evaluative criterion to figure out if
 they work. This typically takes the form of a value function that
@@ -3759,15 +3070,7 @@ A heuristic is a rule applied to an existing solution represented in a
 perspective that generates a new (and hopefully better) solution
 or a new set of possible solutions.
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 This definition of heuristics is limited. It assumes that the
 heuristic creates a full solution. Many heuristics generate only
@@ -3810,15 +3113,7 @@ The Traveling Salesperson Problem
 To see a heuristic in action—beyond George getting a
 job and finding a girlfriend—we consider a famous problem
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 that recently underwent a name change. Formerly known as
 the traveling salesman problem, we now call
@@ -3859,15 +3154,7 @@ The traveling salesperson problem belongs to a class of canonically difficult pr
 number of computations required to solve the problem increases
 quickly as the number of cities, N, increases. It grows faster than
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 N2, and faster than N3. It is thought to grow faster than N raised
 to any power, so finding the optimal routes would take far too
@@ -3911,15 +3198,7 @@ Yet another heuristic might switch cities separated by a single
 city. This may seem like a strange way to improve on a route
 but it has an underlying logic. On a map of the United States,
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:5)
 
 Boston
 
@@ -3927,15 +3206,9 @@ Washington
 
 Toledo
 
-(cid:1)
-
-(cid:1)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:3)
-
 Pittsburgh
 
 Total Miles: 2250
-
-H E U R I S T I C S
 
 Before
 
@@ -3945,13 +3218,6 @@ After
 
 Toledo
 
-(cid:10)(cid:10)(cid:11)
-(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:2)(cid:9)
-
-(cid:10)
-
-(cid:10)
-
 Indianapolis
 
 Pittsburgh
@@ -3960,15 +3226,6 @@ Total Miles: 1620
 
 Boston
 
-(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:4)(cid:8)
-
-(cid:6)(cid:6)(cid:7)
-
-(cid:6)(cid:6)
-
-(cid:6)(cid:6)
-
-(cid:6)
 Washington
 
 .1 Switching Cities Separated by a City
@@ -3989,15 +3246,7 @@ the switch-adjacent-cities heuristic then improves on even further.
 In this way improvements can build on improvements to create
 superadditive effects.
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 Diverse Heuristics
 
@@ -4037,15 +3286,7 @@ No heuristic performs better than any other across all possible
 problems. This result is known as the No Free Lunch Theorem.7
 We can read this theorem in two ways. It means that for any
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 given problem there will be good heuristics and bad heuristics.
 It also means that for any heuristic there will be problems on
@@ -4084,25 +3325,9 @@ heuristic. The neighborhood structure created by perspectives
 often suggests several topological heuristics; you just look for
 close neighbors. When Ben and Jerry arrayed the pints of ice
 
-May 23, 2008
-
 Time:
 
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
-
-X
-
-X
-
 S
-
-X
-
-X
 
 .2 The Von Neumann Neighbors of S
 
@@ -4137,15 +3362,7 @@ a mathematical function that gives the value, we can exploit
 the information contained in that representation using a second
 class of heuristics, called gradient heuristics. These heuristics use
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 calculus to compute the slope of the value function. They then
 move in the direction of maximal slope.
@@ -4187,15 +3404,7 @@ Gradient heuristics find peaks, but those peaks may not be of high
 elevation. Overall, gradient heuristics need not perform better than
 topological heuristics. The No Free Lunch Theorem still holds.
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 Gradient search limits diversity in search. The gradient suggests
 a unique direction of greatest improvement, a single best way to go
@@ -4236,15 +3445,7 @@ learning. We so rarely encounter new and unexpected intuitions
 that we're going to take the time to walk through the logic of the
 simulated annealing algorithm. Before we start, we note that the
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 algorithm mimics a natural phenomenon—the annealing of glass
 and metals—and applies it to solving hard problems. To make
@@ -4286,15 +3487,7 @@ Fortunately, we can see the same logic by writing the probability
 of accepting a new solution as a linear function of Decr ease, the
 amount the function value decreases, and Temp, the temperature.
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 To keep things as simple as possible, we assume that all function
 values lie between zero and one hundred. This assumption constrains our variable Decr ease to be between zero and one hundred
@@ -4336,15 +3529,7 @@ a group of people confronted with a perplexing problem—how
 to design an orchestral hall for a major city. In August, they
 may first toss out lots of solutions. We can think of the group
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 as having a high temperature. They accept lots of errors. By
 October, they may settle on a solution and consider only changes
@@ -4382,15 +3567,7 @@ Population Heuristics
 
 Population heuristics search multiple solutions simultaneously. Evolution can be thought of as a population heuristic. There
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 exists a population of solutions—the members of the species—
 and some members of the population reproduce more than others.
@@ -4432,15 +3609,7 @@ than airlifting one solution (an ant) so that it becomes the same
 as another solution, a genetic algorithm mates solutions. Mating
 solutions sounds a bit racy, but it's not. It merely combines parts
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 Table 2.1:
 The best jambalaya recipes
@@ -4489,15 +3658,7 @@ some of his jambalaya DNA and some of Katie's. In table 2.2,
 we show an offspring recipe, called Natalie. This recipe combines
 the first half of Noah's jambalaya DNA with the second half of
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 Katie's jambalaya DNA. To make this easy to see, we write Noah's
 jambalaya DNA in bold.
@@ -4535,15 +3696,7 @@ to a problem if she sees the problem differently. By seeing it
 differently, she creates a different landscape. Peaks for everyone
 else may not be peaks for her, so she can help find better solutions.
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-H E U R I S T I C S
 
 Someone brings a diverse heuristic if he knows a different rule or
 algorithm for finding solutions. So, perspectives are ways of seeing
@@ -4586,15 +3739,7 @@ most important fifth. Bain's employees then go out and apply this
 heuristic (and many others) to real problems confronted by real
 businesses and organizations. In fact, Bain's consultants possess
 
-May 23, 2008
-
 Time:
-
-03:31pm
-
-chapter02.tex
-
-C H A P T E R T W O
 
 large sets of tools. The perspectives and heuristics that a firm or
 organization develops encapsulate the firm's competence. Better
@@ -4671,13 +3816,7 @@ encounters with a sphere. The sphere tries to explain the third
 dimension to our poor benighted square. We might think of the
 sphere as not unlike modern string theorists who claim hidden
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
 
 C H A P T E R T H R E E
 
@@ -4723,13 +3862,7 @@ circle.
 To avoid confusion, I'll take a moment to clarify the distinction
 between perspectives and interpretations. The perspectives framework, to make things easier, assumes that people have a different
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
 
 I N T E R P R E T A T I O N S
 
@@ -4773,15 +3906,7 @@ perspectives. If so, the interpretations based on those perspectives
 are bound to differ as well. This distinction between perspectivelevel and interpretation-level diversity reappears when we discuss
 projection interpretations.
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 The interpretation framework was developed jointly with Lu
 Hong but borrows ideas from computer learning theory.1 Interpretations allow for partial representations of situations, events,
@@ -4821,15 +3946,7 @@ Clooney). We do this to communicate with one another, by
 highlighting some points and discounting others. We do it to make
 causal inferences.
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 Our interpretations often depend on our place or role. The
 managers of a firm see different parts of the firm's daily activities
@@ -4868,15 +3985,7 @@ Ernst is a lumper: he lumps together things into classes that
 have similar features. The name Ernst is a reference to Ernst Mayr.
 Mayr helped settle what was known as the nominalism debate
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 of whether species truly existed or people created them. Mayr
 found that across many cultures, people made exactly the same
@@ -4919,15 +4028,7 @@ magenta).
 We can then think of the color red as a convention, a random
 wavelength pulled out of the interval in the color continuum.
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 In an alternative rose-colored reality, we might coordinate on a
 lighter shade of red. We might also replace green with aquamarine,
@@ -4967,15 +4068,7 @@ of a perspective. Suppose that we are categorizing a collection of
 LEGO building blocks. Suppose further that each block has a size
 and a shape and that no two blocks are identical. The encoding of
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 Table 3.1:
 The color–size perspective
@@ -5033,15 +4126,7 @@ it can be used to generate two interpretations that are dimensional
 projections. One of those interpretations is based on color. The
 other is based on size (see tables 3.2 and 3.3).
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 Table 3.3:
 Size interpretation
@@ -5092,15 +4177,7 @@ we're doing is ignoring branches upon subbranches of taxonomic
 distinctions, but we can think of this as carving up the space of
 possible things into clumps.4
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 The Necessity of Soccer Moms, Bobos, and Yuppies
 
@@ -5140,15 +4217,7 @@ people. If we used all thirty million types, we would have too few
 people in any one subcategory to draw any inferences that have
 statistical validity.
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 Table 3.4:
 Personal dimensions
@@ -5212,15 +4281,7 @@ that of the rest of society. Otherwise, making the distinction
 fails to improve predictions. Effective marketing and political
 campaigning requires identifying relevant categories, what we
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 Table 3.5:
 Poll results (Percent)
@@ -5268,15 +4329,7 @@ each of the many perspectives that could be created there exists
 a large number of possible interpretations. An interpretation can
 ignore a dimension or a branch of a perspective or it can make less
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 fine distinctions. For example, an interpretation used to predict
 someone's likelihood of buying blueberry Eggo Waffles may ignore
@@ -5316,15 +4369,7 @@ the painting resides, and so on). At the Art Institute of Chicago,
 the tour stops at Picasso's Grey Guitarist and the guide usually
 mentions a faint sketch of a woman still visible on the canvas
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 .1 Original CTA Routes
 
@@ -5353,15 +4398,7 @@ out to Oak Park.
 To determine the number of trains required, the relevant statistic
 is the maximum number of riders on each route. If the CTA needed
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 Table 3.6:
 CTA ridership on two rail lines
@@ -5396,15 +4433,7 @@ track had to be altered and new signs had to be posted explaining
 the route change. The new routes and the number of trains then
 looked as shown in table 3.8.
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-C H A P T E R T H R E E
 
 Table 3.7:
 New CTA routes
@@ -5456,15 +4485,7 @@ French, we may not have a different word for everything! Even so,
 the perspective model remains of tremendous value. Perspectives
 form the basis for interpretations. We create interpretations by
 
-October 11, 2006
-
 Time:
-
-04:14pm
-
-chapter03.tex
-
-I N T E R P R E T A T I O N S
 
 ignoring some dimensions in a perspective or by dividing the
 perspective into clumps. Also, as already mentioned, we do
@@ -5481,8 +4502,6 @@ can see the world the same fundamental way, but divide it up
 differently. This creates lots of diversity. That diversity affects how
 we predict outcomes and infer causality, the subject of the next
 chapter.
-
-October 12, 2006
 
 Time:
 
@@ -5522,13 +4541,7 @@ We use predictive models when we vote, when we buy houses,
 when we select partners for life or business, and when we
 invest money for retirement. In each of these instances, we make
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
 
 P R E D I C T I V E M O D E L S
 
@@ -5571,13 +4584,7 @@ withhold it. In doing so, you make the dog think, "I'm sitting, why
 am I not getting a treat? What is going on here? Didn't he say sit?"
 This helps her brain make even stronger connections between my
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
 
 C H A P T E R F O U R
 
@@ -5621,15 +4628,7 @@ Just to help keep all of these frameworks and concepts clear, let's
 think of how predictive models differ from heuristics. A predictive
 model tells us what we think will happen: "It looks like rain." A
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-P R E D I C T I V E M O D E L S
 
 heuristic tells us what to do: "It's raining, let's run for cover"—or
 what not to do: "We get just as wet by running, so let's walk."
@@ -5670,15 +4669,7 @@ To provide some formalism for predictive models, I construct
 an example called Screening Success. It's only a little less fun
 than jumping the shark, but it's much easier to understand. I lean
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-C H A P T E R F O U R
 
 Table 4.1:
 The sex and violence interpretation
@@ -5687,7 +4678,6 @@ Violence
 
 Sex None Low Mod. High
 
-None
 Low
 Mod.
 High
@@ -5719,28 +4709,14 @@ dimensions than these two. So this encoding is an interpretation.
 To make this example as simple as possible, we assume a
 deterministic mapping from these characteristics to whether a
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-P R E D I C T I V E M O D E L S
 
 Table 4.2:
 The screenplay attribute to movie
 quality mapping
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -5794,20 +4770,7 @@ To turn these interpretations into predictive models, we need
 only attach a prediction to each set in the interpretation. For example, assume that Ray reads a screenplay with no sex. Provided
 Ray has lots of experience reading screenplays (a point we take up
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-C H A P T E R F O U R
-
-None
-None
-None
-None
 
 Low Mod. High
 Low Mod. High
@@ -5823,10 +4786,8 @@ Sex Level Realizations
 
 Prediction
 
-None
 Low
 Mod.
-High
 
 3Bs and 1G
 3Bs and 1G
@@ -5863,28 +4824,14 @@ make the same predictions. When evaluating a screenplay with
 no sex and lots of violence, Ray would predict a flop whereas
 Marilyn would predict a success. In this instance, Ray would
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-P R E D I C T I V E M O D E L S
 
 Table 4.4:
 Marilyn's predictive model
 
-Violence
-
-None
-
 Low
 
 Mod.
-
-High
 
 Realizations
 Predictions
@@ -5902,38 +4849,25 @@ G
 Table 4.5:
 Deborah's interpretation
 
-Violence
-
 Sex
-
-None
 
 Low
 
 Mod.
 
-High
-
 extreme
-None
 Low balanced
 Mod. balanced
 extreme
-High
 
 balanced
 dull
 dull
-balanced
 
-balanced
 dull
 dull
-balanced
 
 extreme
-balanced
-balanced
 extreme
 
 predict correctly and Marilyn wouldn't. If we average across all
@@ -5957,27 +4891,13 @@ moderate level of either sex or violence as extreme (see table 4.5).
 Assuming that she has lots of experience and makes the more
 likely prediction for each set in her interpretation, Deborah's
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-C H A P T E R F O U R
 
 Table 4.6:
 Deborah's predictive model
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 G
@@ -6025,15 +4945,7 @@ Our discussion so far has assumed that our screenplay
 readers make the correct predictions that they have learned from
 experience. But even in the absence of experience, we may still
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-P R E D I C T I V E M O D E L S
 
 Table 4.7:
 Ray's theory-based
@@ -6041,12 +4953,8 @@ predictive model
 
 Sex Level
 
-Prediction
-
-None
 Low
 Mod.
-High
 
 B
 G
@@ -6083,15 +4991,7 @@ accuracy given an interpretation may not be high in some contexts.
 If so, then it would be impossible to make quick assessments that
 were highly accurate.
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-C H A P T E R F O U R
 
 In other words, sometimes we can blink and sometimes we
 cannot. Suppose we begin with a common perspective that we
@@ -6133,15 +5033,7 @@ In a decade-long study, Philip Tetlock found that experts could
 not very accurately predict outcomes of complex economic and
 political processes. He further found that those experts who
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-P R E D I C T I V E M O D E L S
 
 relied on fixed ideological interpretations, so-called hedgehogs,
 performed worse than those who were willing to be flexible.
@@ -6179,15 +5071,7 @@ most cases people don't use perspectives. We use interpretations—
 categorizations—based on perspectives. Given these interpretations, we then make predictions based on our experiences or on a
 theory. We call these predictions, together with the interpretations,
 
-October 12, 2006
-
 Time:
-
-04:06pm
-
-chapter04.tex
-
-C H A P T E R F O U R
 
 a predictive model. Thus, predictive models map the sets (or categories) in our interpretations onto outcomes. Any interpretation
 has a maximally accurate model, but we have no reason to believe
@@ -6202,8 +5086,6 @@ models based on crude interpretations will be inaccurate most
 of the time. As we see in the next part of the book, even when
 individual predictions may not be accurate, collections of diverse
 inaccurate predictions can be.
-
-September 20, 2006
 
 Time: 09:05am
 
@@ -6238,12 +5120,6 @@ regardless of how we wear our pants.
 The toolbox framework serves three purposes. First, it helps us
 think about intelligence in a new way. Normally, we think in terms
 of IQ scores. With toolboxes, we think in terms of specific tools
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
 
 C H A P T E R F I V E
 
@@ -6288,12 +5164,6 @@ mathematics intuitive. Some quickly pick up the intricacies of
 chess. Our genes do not determine or even place hard constraints
 on our acquired cognitive skills, but they make some skills easier
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
 M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 to acquire than others. Whether we choose to nurture those skills
@@ -6336,14 +5206,6 @@ second person, and then some. The superadditivity of tools means
 that we also need to know all of the combinations of tools that a
 person might apply. With only a saw or only a hammer, we cannot
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 build anything interesting. With both, we can build homes, tree
 forts, and fences. As the management guru Peter Drucker wrote,
 "Effective work is actually done in and by teams of people of
@@ -6383,14 +5245,6 @@ skills, apply in some domains and not in others. Anyone who has
 trouble remembering that physical skills are context dependent
 need only pick up a Michael Jordan baseball card. Though Jordan
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 was a great baseball player by ordinary standards, he was not up
 to major league level, even though he was certainly a better all
 around athlete than almost all major league players. Just as the
@@ -6428,14 +5282,6 @@ do measuring stick approaches.
 IQ tests determine a person's score by the number of questions
 she correctly answers. Think back to the city analogy. To assign
 a single number to Chicago or Boston, we could ask the city
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
 
 questions. Do you have museums? Do you have parks? Is your air
 clean? Do you have a symphony? To get a high score, a city would
@@ -6475,14 +5321,6 @@ He's taking these scores too seriously.4 We can line people up along
 the wall and make little pencil marks to determine relative heights,
 but we cannot do the same for intelligence.
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 Information Loss and Multidimensional Measures
 
 If one number won't do, perhaps we can get closer to
@@ -6516,14 +5354,6 @@ Rankings and Settling Things on the Field
 
 While single dimensional measures of intelligence create
 rankings, multidimensional measures need not. We can say that
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
 
 Table 5.1:
 Sternberg intelligence scores
@@ -6571,14 +5401,6 @@ intelligence test and receive the scores shown in table 5.1.
 Based on these scores, we cannot rank Kathleen and Patrick.
 She scores higher on creative intelligence. Patrick scores higher
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 Table 5.2:
 Total Sternberg intelligence
 
@@ -6622,14 +5444,6 @@ attributes when ranking colleges and universities. Schools have attributes: test
 ratios, and so on. The magazine assigns each attribute a weight
 that determines the relative importance of the attribute. The score
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 for a school equals the weighted sum of its attributes' values. These
 one-dimensional scores can then be arranged from highest to lowest. But what if you, as an applicant, would choose to weight various attributes differently than U.S. News does? Maybe you want a
 good school that's within one hundred miles of your house. You'd
@@ -6668,14 +5482,6 @@ champion.
 
 We can use something called the Colonel Blotto Game to call
 into question the notion that competition reveals the best team.
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 Table 5.3:
 Colonel Blotto strategies
@@ -6723,14 +5529,6 @@ wins. Notice that USC beats Michigan, Michigan beats Florida,
 and Florida beats USC—a cycle. (Cycles reappear later when we
 cover diverse preference aggregation.) Given this cycle, none of
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 these three teams should be thought of as better than any of the
 others. All are better than Oklahoma, however.
 
@@ -6774,14 +5572,6 @@ siblings, about everyone being different blah blah blah, should be
 spoken loudly and clearly. We are all different. We have different
 tools.
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 The Toolbox Framework
 
 The toolbox framework is pretty simple. First, we think
@@ -6816,14 +5606,6 @@ must be smarter. But in the toolbox framework, to be smarter than
 Carl Bobbi would have to possess each of Carl's tools. If that's
 not true, Carl may make greater contributions. He may be more
 successful because he may have more appropriate tools.
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
 
 We take three approaches to figure out if Bobbi
 
@@ -6865,14 +5647,6 @@ into account the order in which she chooses the cards. If she
 chooses the ace of hearts and then the jack of spades, this differs
 from choosing the jack of spades and then the ace of hearts.
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 To arrive at the correct figure, we must divide by the number of
 ways the same twenty cards can be reordered. We could put any of
 the twenty cards first, any of the remaining nineteen second, and so
@@ -6912,15 +5686,7 @@ more of these. Using the same logic we used to count the number
 of possible toolboxes for Bobbi and Carl, we can compute the
 number of possible ways that Bobbi could choose five additional
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
 cards:
-
-C H A P T E R F I V E
 
 37 · 36 · 35 · 34 · 33
 5 · 4 · 3 · 2 · 1
@@ -6957,14 +5723,6 @@ person with twenty tools possesses one hundred ninety pairs of
 tools and more than a thousand sets of three tools. Not all tool
 combinations reveal deep insights. Some don't even make sense.
 It's not clear what doing the opposite of the Rule of 72 would
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 Table 5.4:
 Likelihood that Bobbi's toolbox contains Carl's combination of tools
@@ -7020,14 +5778,6 @@ Model 2: Ladders
 The calculations of the probability that Bobbi knows
 all of Carl's tools or combinations of tools rely on an implicit
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 Tool 52
 
 Tool 3
@@ -7063,14 +5813,6 @@ fifteen.
 
 Now, Bobbi possesses every tool that Carl does, and to say that
 Bobbi is smarter than Carl would be correct in this case. She has
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 every tool that he has, so she also has every combination of tools
 that he has. Any problem that he can solve, she could also solve.
@@ -7110,14 +5852,6 @@ toolbox contains Carl's toolbox, then she has five leftover tools
 to allocate across the two ladders. Of the twenty-one ways that
 Bobbi can allocate her tools, for each of Carl's allocations exactly
 six of these contain all of Carl's tools. Thus, the probability that
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
 
 Table 5.5:
 Likelihood that Bobbi's
@@ -7161,14 +5895,6 @@ no help for making pies and learning to make pie fillings provides
 few insights into the making of a quiche. Hence, we have branches
 in a tree and not a ladder. Or, to give a more technical example,
 if a person learns how to take derivatives, he can then learn how
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 Tool 4
 
@@ -7220,14 +5946,6 @@ knows in the tree model equals the probability that she makes the
 same choice as Carl at each branch. This equals 1
 214 , or approximately one in sixteen thousand. Again, a small number. And this
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 calculation assumes a single tree. With two trees, she would still
 have to choose each branch correctly. In addition, she would have
 to assign a sufficient number of tools to each of the two trees.
@@ -7267,14 +5985,6 @@ person's tools.
 This insight, that the number of ladders and trees determines
 whether capacity generates a ranking, goes a long way toward
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
-
 Table 5.6:
 The number of ladders/trees in
 the academy
@@ -7297,9 +6007,6 @@ Few
 Few
 Few
 Several
-Several
-Several
-Many
 Many
 
 explaining which groups of people believe in objective measures
@@ -7326,14 +6033,6 @@ will seem no more a measure of intelligence than height or weight.
 Tables 5.6 and 5.7 crudely categorize the number of ladders/trees
 across several academic and professional domains.
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-C H A P T E R F I V E
-
 Table 5.7:
 The number of ladders/trees across
 professions
@@ -7353,13 +6052,6 @@ Number of
 Ladders/Trees
 
 Few
-Several
-Several
-Several
-Several
-Many
-Many
-Many
 
 These tables help to explain differences of opinion about
 whether rankings of intelligence are possible. In a university
@@ -7382,14 +6074,6 @@ only experts know other, more complicated tools, such as how
 to compute a Lyaponuv exponent to determine the stability of
 a dynamic system. A person's capabilities are determined by the
 tools she possesses, and not just by her score on a test. Of course,
-
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-M E A S U R I N G S T I C K S A N D T O O L B O X E S
 
 IQ tests and other measuring stick measures of intelligence still
 have value. The criteria that Gardner and others require for an
@@ -7424,14 +6108,6 @@ we constructed the toolbox framework. We built the framework
 so that we can analyze collective problem solving and prediction
 by diverse people. That's what we do next.
 
-September 20, 2006
-
-Time: 09:05am
-
-chapter05.tex
-
-October 11, 2006
-
 Time:
 
 04:38pm
@@ -7442,21 +6118,9 @@ Part Two
 
 DIVERSITY'S BENEFITS: BUILDING FROM TOOLS
 
-October 11, 2006
-
 Time:
 
-04:38pm
-
-chapter06.tex
-
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
 
 CHAPTER 6
 
@@ -7490,13 +6154,7 @@ In these next three chapters, we see why diversity is such a
 powerful force. We see how our differences contribute as much
 to our collective performance as our individual abilities. We will
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
 
 C H A P T E R S I X
 
@@ -7534,13 +6192,7 @@ of the many scientists who unsuccessfully attempted to develop
 a workable form of fusion in the late 1970s and early 1980s.
 They've slipped into scientific oblivion because fusion proved too
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
 
 D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
@@ -7581,15 +6233,7 @@ us something about the real world: how prices emerge in a market
 or even how riots start. The agent-based models that make the
 pages of science magazines generate beautiful, structured patterns,
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 like flocking birds, but more often than not these models generate
 unintelligible muddles.
@@ -7631,15 +6275,7 @@ average performance increase? Again, yes. Finally, I created two
 economies, one consisting only of agents who performed best
 individually and another with random, but smart, agents. Did the
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 agents in the first economy, those more able as individuals, on
 average find better solutions to the problems than did the agents
@@ -7679,13 +6315,7 @@ elevation. High-quality cups have high elevations, and low-value
 cups have low elevations. This representation creates a rugged
 landscape.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
 
 y
 t
@@ -7695,8 +6325,6 @@ l
 a
 u
 Q
-
-C H A P T E R S I X
 
 Cream
 
@@ -7729,15 +6357,7 @@ could represent an agent graphically by the two directions it
 searched. When I plotted the two search directions of the bestperforming agent, I saw that both directions pointed toward the
 upper right-hand corner of the square. I then plotted the search
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 directions for each of the best ten agents. I saw a similar pattern in
 their search directions. They all searched toward the upper righthand corner of the square. They were all heading to the same
@@ -7774,15 +6394,7 @@ on a bus or in a box or on a train or with a fox. The same was true
 of this result. It was true in a box or on a tree or on a graph. It was
 true anywhere.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 But I had a problem, one related to my profession. Although
 computational experiments persuade most physicists, mathematicians, and biologists, they are not the coin of the realm for
@@ -7821,15 +6433,7 @@ Kasparov won. In chess, sixty-two moves suggests a close game.
 The collection of people performed far better than would be
 expected of any of its members individually.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 Individual Diversity and Collective
 
@@ -7870,15 +6474,7 @@ gas mileage. Each car has a fact sheet that contains all relevant
 information except its miles per gallon. Determining gas mileage
 is costly; it requires taking a car out for a long drive.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 Malibu
 
@@ -7915,8 +6511,6 @@ e
 l
 i
 
-M
-
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 
 Rank: Lightest to Heaviest
@@ -7945,15 +6539,7 @@ Jetta, Buick Century, Mitsubishi Gallant, Volvo S60, Pontiac
 G6, and Saab 9-5. Our next perspective (figure 6.3) considers
 the width of the wheelbase. This perspective has seven local
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 Pontiac
 
@@ -7988,8 +6574,6 @@ e
 l
 i
 
-M
-
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 
 Rank: Shortest to Longest Wheelbase
@@ -8018,15 +6602,7 @@ Imagine these three people working as a group. Each landscape
 has a few local peaks, but a locally optimal solution for one person
 may not be a local optimum for the others. If they work together,
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 Stratus
 
@@ -8065,8 +6641,6 @@ e
 l
 i
 
-M
-
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
 
 Rank: Shortest to Tallest
@@ -8098,15 +6672,7 @@ locating it. Second, the diverse perspectives create many possible
 proposed solutions. Of the twenty-three car models, thirteen are
 local optima for at least one of the three problem solvers. We
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 Table 6.1:
 The group's locally optimal car models
@@ -8163,15 +6729,7 @@ In the mid-1990s, Edward Witten proved that these theories
 were all the same theory, that they were distinct mathematical
 representations of the same thing—not competing, but complementary. In our language, they were five distinct perspectives of
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 the same strings. Witten's remarkable discovery led string theorists
 to embrace all five models. Five perspectives on a set of problems
@@ -8208,15 +6766,7 @@ the shoes by the type and the foot so that loafer-L denotes the left
 loafer, wingtip-R denotes the right wingtip, and so on. The initial
 random allocation of shoes looks as shown in table 6.2.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 Table 6.2:
 The shoe problem
@@ -8273,15 +6823,7 @@ salesperson problem. Some solutions were local optima for one
 heuristic but not for others. That example hinted at a general
 insight: the more tools in our kits, the fewer places we get stuck.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 Interpreting Problem Solvers by Their Peaks
 
@@ -8321,15 +6863,7 @@ fewer local optima.
 The intuition that explains this claim is also straightforward.
 Local optima are the points at which a problem solver gets stuck.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 One of these local optima must be the best solution. The others
 have values that are not as good. Getting stuck at those other
@@ -8372,53 +6906,9 @@ and width of a peak (see figure 6.5).
 
 Even though we think of people and groups as trying to optimize, let's follow the convention and apply the basin terminology.
 
-October 11, 2006
-
 Time:
 
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)(cid:2)
-
 A Basin
-
-(cid:2)(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-(cid:1)
 
 A Peak
 
@@ -8456,15 +6946,7 @@ likely to find each of his three solutions, so that his expected value
 remains the same. Given these assumptions, Karen performs better
 on average as the following calculations show.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 New Shelf Lives of Karen and Paul's Bananas
 Karen's Solution's Expected Value: 26 = 2
@@ -8520,77 +7002,29 @@ Before turning to that distinction,
 let's step back for
 a moment and take stock of what we've learned. A person's
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
 
 H
 
-(cid:2)(cid:2)
-
-(cid:2)
-
 E
-
-D
-
-(cid:2)(cid:2)
-
-(cid:2)
 
 A
 
 G
 
-(cid:2)(cid:2)
-
-(cid:2)
-
 F
-
-C
-
-(cid:2)(cid:2)
-
-(cid:2)
 
 B
 
 H
 
-(cid:2)(cid:2)
-
-(cid:2)
-
 F
-
-C
-
-(cid:2)(cid:2)
-
-(cid:2)
 
 A
 
-C H A P T E R S I X
-
 B
 
-(cid:2)(cid:2)
-
-(cid:2)
-
-D
-
 E
-
-(cid:2)(cid:2)
-
-(cid:2)
 
 G
 
@@ -8624,43 +7058,13 @@ alpha perspective organizes the solutions alphabetically moving
 counterclockwise around each level. The muddled perspective
 randomly arranges the letters on the cube.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 G
 
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
 F
 
-C
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
 F
-
-C
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
 
 A
 
@@ -8698,15 +7102,7 @@ A picture (figure 6.7) helps to make sense of Sam and Maddie's
 
 searches over their perspectives.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 As this picture makes clear, Sam and Maddie check the same
 solutions from A. With a little effort,
@@ -8746,15 +7142,7 @@ diverse or not, solves a problem. We'll use the same process we
 described in the cup of coffee model: we order the members of the
 group and have them apply their problem-solving skills sequentially. One person searches until she gets stuck at a local optimum,
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 then the next person searches beginning from that point. In this
 way, each person builds off the best solution found by the previous
@@ -8793,15 +7181,7 @@ it. They would all look at the solution and say something like
 "looks good to me" and be done with it. Two heads are not only
 not better than one in this case—they are one.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 Next consider the diverse collection of problem solvers. The
 first problem solver applies his perspective and heuristic until
@@ -8844,15 +7224,7 @@ In the diverse collection, the first problem solver, Blair, uses a
 perspective and heuristics that almost always lead her to fit nine
 objects in the box. The ten-object solution is a local optimum
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 for her as well—it has to be—but she almost never finds it. Her
 expected value is approximately nine, the same as that of the
@@ -8895,46 +7267,16 @@ which says that the only way for two people to be stuck on a
 local optimum is if both are stuck. Yes, that sounds circular, but
 it's deeper than it seems. It means that the only local optima for
 
-October 11, 2006
-
 Time:
 
-04:38pm
-
-chapter06.tex
-
 Blair's Move
-(cid:3)(cid:4)
-(cid:3)(cid:3)
-
-(cid:3)(cid:3)
-
-(cid:3)(cid:4)
-
-(cid:1)(cid:2)
-
 Karl's Local
 Optimum
-
-C H A P T E R S I X
-
-(cid:3)(cid:4)
-
-(cid:1)(cid:2)
 
 Karl's Local
 Optimum
 
 Karl's Move
-(cid:3)(cid:4)
-(cid:3)(cid:3)
-
-(cid:3)(cid:3)
-
-(cid:3)(cid:4)
-
-(cid:1)(cid:2)
-
 Blair's Local
 Optimum
 
@@ -8963,15 +7305,7 @@ It is the only solution that is a local optimum for both problem
 solvers. Using the logic of the intersection property, we can see
 why diversity trumps homogeneity.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 The Diversity Trumps Homogeneity Theorem: If two collections
 of problem solvers contain problem solvers of equal individual
@@ -9013,15 +7347,7 @@ be surprising.13 Fair enough, but we learn from dotting our i's and
 crossing our t's. Many intuitive insights turn out not to be true—
 Newtonian physics being just one example. So although this claim
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 is not difficult to understand, it is important. It's better for two
 people to be diverse than for them to be the same when solving
@@ -9061,15 +7387,7 @@ have more local optima, and many of these may have low values.
 Before we go too far, let's keep in mind that the diversity-trumpsability result doesn't always hold. It holds given certain conditions.
 We take up these conditions one at a time. Then we look at the
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 formal claim, and then go back over the conditions in a slightly
 different way to hammer home the intuition. What follows can't
@@ -9113,15 +7431,7 @@ Condition because people who know calculus can take derivatives.
 Derivatives tell the slope of a function. The slope of a mountain
 is either positive (uphill), negative (downhill), or zero (on a peak
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 or a plateau). On a peak the derivative equals zero; the slope
 goes neither up nor down. So, people who know calculus can
@@ -9162,15 +7472,7 @@ percentage of problem solvers.
 This condition does not say that given any solution, some problem solver exists who immediately can jump to the global optimum. That assumption would be much stronger and would rarely
 be the case. Our assumption says, instead, that some problem
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 solver exists who can find an improvement. That improvement
 may be small. In the example of the group of people playing
@@ -9212,15 +7514,7 @@ certainly do better. So we need to be picking from a big pool—
 firms, organizations, and universities do this, by the way—and we
 need to be picking collections of more than two or three people.
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 Condition 4: Good-Sized Collections Drawn from Lots of
 Potential Problem Solvers. The initial population of problem
@@ -9263,15 +7557,7 @@ a landscape by setting the height of a perspective/heuristic pair
 equal to its average value when applied to our difficult problem.
 This landscape, the landscape of problem solvers, must have
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 B
 
@@ -9280,7 +7566,6 @@ l
 e
 u
 a
-V
 e
 g
 a
@@ -9314,15 +7599,7 @@ create only a few dozen problem solvers, the best ten or twenty
 are scattered throughout the perspective/heuristic box. Herein lies
 the key insight. When the initial set of problem solvers grows large,
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 clustering of the best problem solvers near α becomes unavoidable,
 which is why we need Condition 4 (lots of initial problem solvers
@@ -9366,15 +7643,7 @@ We should recall that Conditions 1 through 4 are sufficient but
 far from necessary for diversity to trump ability—just as ice cream
 is sufficient but not necessary to quiet my two boys. There are
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 other conditions under which the results hold. The strongest of the
 conditions, the Diversity Condition, can often be relaxed. In fact,
@@ -9413,15 +7682,7 @@ traveling salesperson problem. Would we still expect the random
 group to do better? The answer is less clear. Scores on general
 intelligence tests correlate with factors such as ambition, effort,
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 and concentration, suggesting that the high-IQ group would do
 better. Even more relevant to our discussion, people with similar
@@ -9463,15 +7724,7 @@ set with more tools should have more unique tools as well. But
 that thinking is flawed. By construction, the tools of the people
 in the high-IQ group are not random. They are tools that allow
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 a person to do well on an IQ test. And IQ tests choose questions
 that people with high IQs do well on; so do SAT tests and ACT
@@ -9511,15 +7764,7 @@ relative to the other people working on the problem. She may be
 standing on the shoulders of the others and peering in a slightly
 different direction and therefore be able to make a small local
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 improvement that no one else saw. Or she may be standing in a
 different place altogether and make a huge improvement. We don't
@@ -9557,15 +7802,7 @@ small-pipe solution that had an added value of $100,000.
 Belinda's perspective/heuristic pair was stuck at the current solution, and the only solution that her perspective/
 heuristic pair mapped to her better solution was Gordon's
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 breakthrough. Perhaps, as a child she enjoyed putting straws
 inside of straws when drinking milkshakes. So Belinda was
@@ -9608,15 +7845,7 @@ contribution to the eventual solution may not deserve the credit.
 This finding holds with some generality. Problem solvers
 of equal individual ability (i.e., equally good perspectives and
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 heuristics for a specific problem) can generate arbitrary individual
 contributions to the final solution when working collectively.
@@ -9657,15 +7886,7 @@ This mathematical equivalence between perspectives and
 heuristics notwithstanding, in the real world the distinction has
 important consequences. If people use the same perspective, they
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 can communicate new solutions easily. One person can say, "let's
 make the chocolate chips rockier looking," and the other person
@@ -9706,15 +7927,7 @@ four and a half Newtons. The thruster rockets had been fired
 many times during the voyage but the discrepancy between the
 designated force and the actual force had gone unnoticed. But on
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 September 23, the difference in units of measure resulted in too
 much force (imagine asking for two pounds and getting nine), and
@@ -9757,15 +7970,7 @@ and allow people to maintain their individual diverse perspectives,
 ignoring the deep philosophical question of whether we all see
 the same reality. In this way, we can exploit artifacts. They give
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-D I V E R S I T Y A N D P R O B L E M S O L V I N G
 
 us the same solution in our heads. They allow us to leverage our
 differences.
@@ -9805,15 +8010,7 @@ contexts. I take this up in greater length in the last part of the book.
 A final, and less pragmatic, application of this logic relates to
 fun. Diverse perspectives and heuristics can be engines of joy. One
 
-October 11, 2006
-
 Time:
-
-04:38pm
-
-chapter06.tex
-
-C H A P T E R S I X
 
 reason that children bring such happiness into the world is that
 they employ diverse perspectives and heuristics. They attempt to
@@ -9829,8 +8026,6 @@ Frisbee. Now we have Frisbee golf, Frisbee football (Ultimate
 Frisbee), and, best of all, Frisbee fetch. Leveraging our diversity
 to make advancements in science and businesses is well and good,
 but we should also put it to use toward having some fun.
-
-April 21, 2008
 
 Time:
 
@@ -9868,13 +8063,7 @@ a choice in an election or a referendum but a prediction of what a
 politician will do or what forces the referendum will put into play?
 Sure, prices and outcomes don't have to be perfectly accurate for
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
 
 C H A P T E R S E V E N
 
@@ -9913,13 +8102,7 @@ are accurate. But then we have a result that says good individual
 predictors make accurate collective predictions. That result is
 not at all surprising. Yet, we have many examples in which
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
 
 M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
@@ -9960,15 +8143,7 @@ subjects; they come from Las Vegas, county fairs, and game shows.
 Evidence also comes from the stock market. Stock market prices
 encapsulate the predictions of a crowd of people about future
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 dividend streams. These predictions can be freakishly accurate: In
 1986, the stock price of Morton Thiokol fell soon after the 1986
@@ -10012,15 +8187,7 @@ Systematic evidence convinces social scientists, but that doesn't
 mean that anecdotes don't have their place. Anecdotes are more
 captivating—both times I've asked crowds of students to guess
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 my weight, their average guess has been within a pound. Within
 a pound! When I weighed 194, they guessed 193 on average.
@@ -10061,15 +8228,7 @@ steers weigh more than men but less than elephants. Nevertheless,
 as Thomas Schelling once wrote, if you are in the mood to be
 amazed . . . .
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 Information Aggregation Models
 
@@ -10109,15 +8268,7 @@ Aristotle's interests run to poetry and music, not the price of
 Microsoft stock or the capabilities of politicians, but his insight
 applies in those cases as well. He proposes that because each
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 person knows a part of the solution, the collection of people
 can know the whole. This whole-as-sum-of-the-parts logic may
@@ -10160,15 +8311,7 @@ easy. Adding information in the form of signals is a bit harder.
 Adding predictive models is harder still and almost impossible
 without first learning to add signals. Thus, we first look at models
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 that, in the end, we find lacking. But by doing so, we gain the
 expertise—the tools—necessary to understand how information
@@ -10208,15 +8351,7 @@ no mystery here. Mistakes cancel one another out, and correct
 answers, like cream, rise to the surface. To explain how that
 occurs, I construct a model (big surprise).
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 Let's suppose that the question concerns the four members of
 
@@ -10262,15 +8397,7 @@ list because these ten people randomize between just two names,
 Roger and one other person, who we can assume is random. Roger
 also gets five votes from the fifteen people who know only one
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 Monkee on the list and randomize among three names. Finally,
 he receives (again, on average) seventeen, or one-fourth, of the
@@ -10310,15 +8437,7 @@ toward explaining the wisdom of crowds. It explains how, if some
 members of the crowd have the correct information and others
 do not, then the incorrect information can cancel out through
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 randomness. It characterizes some, but not all, of Aristotle's
 logic using mathematics. Unfortunately, it explains none of the
@@ -10359,15 +8478,7 @@ manager would predict 300K + (60K − 50K) = 310K. We will
 call this the Past Sales Scenario. The predictions for each of the
 five managers would be as shown in table 7.2.
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 Table 7.1:
 Actual sales
@@ -10429,15 +8540,7 @@ Sales Scenario. The Asian manager predicts sales of 300K and the
 European manager predicts sales of 250K. The predictions for all
 six regions are shown in table 7.3.
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 Table 7.3:
 Managers' predictions under correlated sales
@@ -10489,15 +8592,7 @@ the head, and so on until all of the parts were covered.
 That's not to say that this way of aggregating information
 doesn't work. It does. The logic is powerful and useful. Suppose
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 that you are a manager. There may be an instance when you need
 to recall some piece of information buried deep in the company
@@ -10537,15 +8632,7 @@ The first model we consider relies on two possible discrete
 signals. One is accurate. The other is inaccurate. The probability
 that a person gets the accurate signal equals three-fourths. To
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 frame the model, we will assume the predictive task is to determine
 whether sweaters just shipped in from Guatemala are made of
@@ -10585,15 +8672,7 @@ poets to skip entire paragraphs. Call our three product testers
 Howard, Mita, and Rick. One possibility is that all three sweater
 testers get the signal A. By assumption, each gets the correct
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 Table 7.4:
 Individual signals and collective predictions
@@ -10603,7 +8682,6 @@ Signals
 Howard Mita Rick
 
 Collective
-Prediction
 
 A
 
@@ -10748,15 +8826,7 @@ was only 75 percent.
 The collection of people predicts more accurately because a
 force pulls the group toward the correct answer. The underpinnings of this force can be seen best with a metaphor. Imagine
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 two rooms. One has a door marked A, for artificial fibers, and
 the other has a door marked W, for wool. Imagine a long line
@@ -10801,15 +8871,7 @@ gravity of the truth wins out in the long run. If this seems all
 too convenient, it is. On what basis can we assume that people
 get independent signals? Though social scientists often assume
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 this form of independence, why should we believe it to exist?
 Can each person in a crowd get an independent signal? We will
@@ -10850,15 +8912,7 @@ this T, plus the error term. Letting Si denote the signal that the
 ith person receives, we then have that Si = T + Ei . (Sorry about
 all of these subscripts, but in a moment we'll see why they are
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 needed.) If these assumptions hold, a collection of McDonald's
 coffee drinkers could, with high accuracy, uncover McDonald's
@@ -10898,15 +8952,7 @@ This quotatioin from Rousseau describes in words what social
 scientists explain with all of those mathematical symbols—the
 errors cancel out. Crowds can be wise if each person sees the
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 true answer plus an error (possibly a large one) so long as these
 errors have mean zero and are independent. The independence
@@ -10946,15 +8992,7 @@ on history or on an assumption that the other pieces are like their
 own, then they collectively make accurate predictions (Model 2).
 Both of these models can explain cases where crowds predicted
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-M O D E L S O F I N F O R M A T I O N A G G R E G A T I O N
 
 accurately, but neither fully explains our examples. We also saw
 that if people receive independent, generated signals, be they
@@ -10992,15 +9030,7 @@ educated guesses. Based on Galton's data, they all had slightly
 different models. Otherwise, their predictions would have been
 the same.
 
-April 21, 2008
-
 Time:
-
-07:14pm
-
-chapter07.tex
-
-C H A P T E R S E V E N
 
 But certainly, the diversity of their predictions cannot explain
 why they were collectively so accurate, can it? Amazingly, combined with their moderate abilities, their diversity drove them
@@ -11008,8 +9038,6 @@ to accuracy. So it would seem that we need both some level of
 individual accuracy and some amount of collective diversity for a
 crowd to be wise. But that's just crude intuition. We need to build
 a logic.
-
-April 21, 2008
 
 Time:
 
@@ -11048,13 +9076,7 @@ assumption of independence may understate the predictive ability
 of small crowds. We also see that it overstates the ability of large
 crowds. In addition to looking at crowds alone, we'll compare
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
 
 C H A P T E R E I G H T
 
@@ -11099,13 +9121,7 @@ guess the weight of a fully loaded Boeing 747 (about fourty tons),
 we should expect their average guess to be well off the mark. Some
 might guess as low as one hundred pounds. Some might guess as
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
 
 D I V E R S I T Y A N D P R E D I C T I O N
 
@@ -11113,14 +9129,8 @@ Table 8.1:
 The screenplay attribute to movie
 quality mapping
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -11169,27 +9179,13 @@ denoted by G) or unprofitable (i.e., bad, denoted by B).
 
 Remember that Ray predicts that those screenplays with moderate or high levels of sexual content will be good and that others
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.2:
 Ray's predictive model
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -11214,14 +9210,8 @@ G
 Table 8.3:
 Marilyn's predictive model
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -11246,14 +9236,8 @@ G
 Table 8.4:
 Deborah's predictive model
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 G
@@ -11281,33 +9265,19 @@ those screenplays that are balanced will be good. Their predictive
 models can be written in tabular form as shown in tables 8.2, 8.3,
 and 8.4.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.5:
 Ray and Marilyn's agreement set
 
-Violence
-
-Sex None Low Mod. High
-
 B
 B
 
 B
 B
 
-None
 Low
 Mod.
-High
 
 G
 G
@@ -11344,27 +9314,13 @@ we have expected something like this? Clearly this example was
 carefully crafted, but for a purpose. The example shows how
 diverse predictive models can aggregate in ways far more subtle
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.6:
 The crowd's predictions
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -11415,27 +9371,13 @@ correctly, as this implies that when Ray predicts incorrectly,
 Marilyn is more likely to predict correctly. So she cancels out his
 mistakes. To do this, let's first write down the screenplays that
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.7:
 Correct predictions by Ray
 
-Violence
-
-Sex None Low Mod. High
-
-None
 Low
 Mod.
-High
 
 B
 B
@@ -11487,15 +9429,7 @@ models on different variables from the same perspective (formally, if they use n
 then the correctness of their predictions is negatively correlated
 for binary predictions.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Understanding the Projection Property requires careful thought.
 It says that if two people look at different attributes of the same
@@ -11537,15 +9471,7 @@ cluster interpretations that lead to independent signals is possible,
 but such examples are contrived. It's convenient, but so would be
 self-toasting bread. In writing good models, we shouldn't confuse
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.8:
 Predictions of the Rudy G. Bee
@@ -11587,15 +9513,7 @@ the actual outcome from the bee.
 We first compute the squared errors of Micheala and Juliana's
 predictions. Michaela picks Maggie to take sixth place and she
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 takes sixth, an error of zero. She picks Cole to take third and he
 takes fifth, an error of two. And she picks Brody to take fifth, but
@@ -11643,15 +9561,7 @@ Notice that their collective prediction is more accurate than
 either of their individual predictions. The explanation for this can
 be found in the diversity of their predictions. When one of them
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 predicts too high, the other predicts too low and their mistakes,
 while not canceling entirely, become less severe. To make this
@@ -11696,15 +9606,7 @@ average individual error (20), and the prediction diversity (12):
 Collective error equals average error minus diversity. This equality
 is not an artifact of our example. It is always true. And, even better,
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 it holds for any number of predictors, not just two predictors as in
 our example. Thus, we call this the Diversity Prediction Theorem.
@@ -11749,15 +9651,7 @@ best predictors. Randomly selected predictors will be more diverse,
 to be sure, but they will also be less accurate. The two effects
 work in opposite directions. So, we cannot expect that a random
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 intelligent group will predict more accurately than the group of
 the best. Yet, that stronger claim holds in the problem-solving
@@ -11799,15 +9693,7 @@ ability and diversity" and the Crowd Beats the Average Law with
 "the crowd predicts better than the people in it." Not memorable,
 but accurate.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 A Crowd of Draft Experts
 
@@ -11848,15 +9734,7 @@ No one, other than perhaps Clark Judge himself, would have
 predicted Judge (despite his name) to be more accurate than the
 others. In the future, Judge may not be the best predictor. To take
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.9:
 Experts' predictions of 2005 NFL draft
@@ -11921,15 +9799,7 @@ stock price go? How low might it go? In predicting a potential
 political uprising, a policy analyst may care less about having
 an accurate point prediction than about knowing worst- and
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.10:
 Range of predictions of 2005 NFL draft
@@ -11976,23 +9846,13 @@ to burn cars and sometimes even houses after sporting events.
 The madness of crowds explains stock market bubbles and stock
 market crashes.10
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Reference
 
 A
 
 B
-
-C
 
 .1 Asch's Lines
 
@@ -12024,15 +9884,7 @@ giving wrong answers—about one-third of the time. Given that
 people abandon their stated beliefs on the lengths of lines, we can
 hardly be surprised that they would abandon their beliefs in their
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 predictions about the stock market, housing prices, or winning
 number combinations in the lottery.
@@ -12070,15 +9922,7 @@ of armed conflict, we have to include many variables or attributes
 to make an accurate prediction. We've got to keep lots of
 variables in our heads. We might try a single-variable model, but
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 they rarely work. A while back Thomas Friedman noticed that no
 two countries with McDonald's restaurants had ever gone to war.
@@ -12117,15 +9961,7 @@ Sales = 0.3 + 1.2 temperature
 In this example, sales will be a linear function of these ten
 attributes. To keep the model as simple as possible, we will assume
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 that the coefficient of each of these variables equals one. We
 further assume that each attribute takes a value between minus
@@ -12169,15 +10005,7 @@ The Coverage Property: A crowd's predictive model includes the
 effects of any attribute or combination of attributes included by
 any member of the crowd's predictive model.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 The Crude Approximation Property: A crowd's predictive model
 crudely approximates the effect of any attribute or combination
@@ -12215,15 +10043,7 @@ we can have some magic. In our next example, both the Coverage
 Property and the Crude Approximation Property hold, but in more
 interesting ways.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.11:
 Energy as a function of
@@ -12269,15 +10089,7 @@ presence of the first compound A. To determine his prediction
 of total energy, we need first to determine total energy for each
 combination of compounds (see table 8.11).
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.12:
 Energy versus predicted energy
@@ -12289,7 +10101,6 @@ Process
 Outcome
 
 Crowd's
-Prediction
 
 {0,0,0}
 {0,0,1}
@@ -12332,15 +10143,7 @@ equals the average of their two predictions. Our expectations here
 should be pretty low. Table 8.12 shows their average prediction
 and the actual energy level for each combination of compounds.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Incredibly, Orrie and Cooper predict four of the eight cases
 perfectly and miss by only one-half on the other four. This
@@ -12384,15 +10187,7 @@ perspective. So, crowds of unsophisticated people might be able to
 predict a complicated function if they use interpretations based on
 diverse perspectives.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 We will next see that predictive models based on clumping
 interpretations can play a similar role. These also can capture
@@ -12436,15 +10231,7 @@ guarantee that these interaction terms will be the appropriate
 ones, and, by the crude approximation property, we know that
 the crowd's model's coefficients of these interaction terms err as
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 well. Even so, there remains the possibility, as was true in the last
 example and in Screening Success, that the sublime is possible.
@@ -12485,15 +10272,7 @@ attribute or interaction among attributes that a member of the
 in less technical
 crowd includes in his predictive model. Or,
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.13:
 Suebee's interpretation and predictions
@@ -12512,7 +10291,6 @@ Suebee Five
 
 Bowlers
 Scores
-Prediction
 
 A,B,C
 110 120 130
@@ -12563,15 +10341,7 @@ certain Larry, Moe, and Curly. We will set this up so that Suebee
 dominates this crowd of stooges. Suebee partitions the participants
 into five sets of size three (see table 8.13).
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.14:
 Larry's interpretation and predictions
@@ -12586,7 +10356,6 @@ Larry Three
 
 Bowlers
 Scores
-Prediction
 
 A,B,C
 110 120 130
@@ -12610,7 +10379,6 @@ Moe Three
 
 Bowlers
 Scores
-Prediction
 
 A,B,C,D,E,F
 110 120 130 140 150 160
@@ -12646,15 +10414,7 @@ crowd predicts better in two of the fifteen cases, and in three of the
 cases, the stooges and Suebee make equally accurate predictions.
 Thus, even a dominant expert can be less accurate than a crowd
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.16:
 Suebee versus Larry, Moe, and Curly
@@ -12665,10 +10425,8 @@ Initial
 Score
 
 Suebee's
-Prediction
 
 Crowd's
-Prediction
 
 More
 Accurate
@@ -12676,10 +10434,6 @@ Accurate
 A
 
 B
-
-C
-
-D
 
 E
 
@@ -12689,15 +10443,9 @@ G
 
 H
 
-I
-
 J
 
 K
-
-L
-
-M
 
 N
 
@@ -12713,19 +10461,12 @@ O
 
 Suebee
 
-Suebee
-
-Suebee
-
 180+135+180
 180+135+180
 180+135+180
-
-Suebee
 
 = 165
 = 165
-Suebee
 = 165 Crowd
 
 180+180+180
@@ -12750,10 +10491,6 @@ Tie
 = 195
 = 195
 
-Suebee
-
-Suebee
-
 240+225+180
 240+225+180
 240+225+180
@@ -12761,12 +10498,6 @@ Suebee
 = 215
 = 215
 = 215
-
-Suebee
-
-Suebee
-
-Suebee
 
 of stooges. The possibility that a not-so-wise crowd can predict
 more accurately than a dominant expert should lead us to be
@@ -12782,15 +10513,7 @@ The stooges predict more accurately only when the outcome
 lies between Suebee's prediction and the average outcome. For
 example, the stooges predict bowler F 's score to be 165 when his
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 actual score is 160, whereas Suebee predicts a score of 150. The
 stooges' prediction lies halfway between the mean score of 180
@@ -12834,15 +10557,7 @@ These two tables show what we expect. The more sophisticated
 the people in the crowd, the better the crowd predicts. And the
 more sophisticated the expert, the better the expert predicts.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Table 8.17:
 The informed expert versus
@@ -12890,15 +10605,7 @@ Would that this were possible. Unfortunately, this logic suffers
 from three flaws, and as a result, we always need crowds. First,
 it assumes that the expert writes down her model and performs
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 a careful regression. Otherwise, all of the usual arguments about
 cognitive constraints and biases might cause her to predict even
@@ -12942,15 +10649,7 @@ Magda much information on which to base her model. So
 we assume that Magda has only two data points from which
 to construct her predictive model: the April breakfast and the
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 March breakfast. At the April breakfast, ten partners and twenty
 associates attended and no waffles fell on the floor. If we do the
@@ -12994,15 +10693,7 @@ partners and associates together, Magda underestimates how
 much the associates eat. This occurs because at the first breakfast,
 more associates than partners attend, but fewer waffles fall on the
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 floor. Therefore, she cannot but infer that associates do not eat
 many waffles.
@@ -13045,15 +10736,7 @@ catch the errors of the other models.27 As we see next, weighting
 models by accuracy has advantages, and, as we also see, markets
 create incentives for this to happen.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 Incentives: Polls versus Information Markets
 
@@ -13092,15 +10775,7 @@ the gain in accuracy. Placing all weight on a single predictor is an
 extreme case, as is giving all equal weight. Information markets
 lie between these two extremes. Does this mean that they predict
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 Table 8.19:
 Poll, expert, and information
@@ -13146,15 +10821,7 @@ The best expert, Clark Judge, fares worst overall and the
 weighted bets scenario performs best. Interestingly, the poll of all
 seven predictors does better than the poll of the best five. This
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 example shows that even though dropping the worst predictors
 put more weight on more accurate models, it can reduce diversity
@@ -13191,15 +10858,7 @@ This the-larger-the-upset-the-bigger-the payoff feature of many
 markets creates an incentive to construct diverse predictive models. Suppose that you could construct a model that predicts
 correctly when most other people are wrong. That model would
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-C H A P T E R E I G H T
 
 generate large payoffs on average because when it predicted
 correctly, the winnings would be split only a few ways. Thus,
@@ -13237,15 +10896,7 @@ best predictors remain or get most of the weight, we end up with
 a single expert who may not be better than the crowd. Finally, if
 people know that an information market will be used, they have
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-D I V E R S I T Y A N D P R E D I C T I O N
 
 incentives to be diverse as well as accurate. This further improves
 the performance of the crowd.
@@ -13286,15 +10937,7 @@ a collection of logically coherent diverse models that combine to
 help him make accurate forecasts. His crowd of models, we can
 only surmise, is an intelligent, diverse bunch.
 
-April 21, 2008
-
 Time:
-
-06:47pm
-
-chapter08.tex
-
-September 20, 2006
 
 Time: 10:29am
 
@@ -13305,18 +10948,6 @@ Part Three
 DIVERSE VALUES: A CONFLICT OF
 
 INTERESTS (OR IS IT)?
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
 
 CHAPTER 9
 
@@ -13347,12 +10978,6 @@ incentives to misrepresent how we feel. We may try to manipulate
 processes and agenda, creating distrust and dislike. Thus, much of
 the good created by a diverse toolbox might be undone by diverse
 values. Of course, we needn't care about diverse preference so
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
 
 C H A P T E R N I N E
 
@@ -13393,12 +11018,6 @@ models to diverse perspectives offers a hint of the complexity to
 come. The frameworks—perspectives, heuristics, interpretations,
 predictive models, and preferences—can all be connected, and in
 many cases, diversity in one domain begets diversity in another.
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
 
 D I V E R S E P R E F E R E N C E S
 
@@ -13442,14 +11061,6 @@ burrito ≡ taco
 
 Preferences are typically assumed to be rational. The term rational has a formal definition. It means complete and transitive.
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
-
 Preferences are complete if
 tives.
 
@@ -13491,14 +11102,6 @@ analyze the aggregation of diverse preferences, we see that it is
 possible for a group of people to violate transitivity, to have cycles,
 even though none of the individuals themselves do. A collection of
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
-
 rational people may prefer tofu to ice cream, even though they
 prefer ice cream to yogurt and yogurt to tofu.
 
@@ -13537,14 +11140,6 @@ possible irrational preference relations. Notice that we say relations and not o
 preferences are irrational. Irrational preferences do not necessarily
 order all of the alternatives. We first relax the transitivity assumption. This implies that for each pair of alternatives, a person still
 must have a preference, but it places no restriction on cycles.
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
 
 Pairwise Facial Hair Rankings
 
@@ -13588,14 +11183,6 @@ They also show the many, many more ways to be irrational. They
 have implications when we study preference aggregation. Collections of people need not have transitive or complete preferences.
 The billions of preference orderings that an individual might have
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
-
 over a set of twenty alternatives are a mere drop in the bucket
 compared to the number of irrational preference relations that a
 collection of people might have.
@@ -13632,14 +11219,6 @@ type of preference applies to those dimensions for which more
 is better.
 
 Preferences are increasing if more is always preferred to less.
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
 
 Preferences about money are usually assumed to be increasing.
 More money is better. Preferences are also increasing about health,
@@ -13682,21 +11261,7 @@ reiterates a point made at length earlier: making sense of the
 world, in this case making sense of preferences, requires a good
 perspective.
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
-
-L
-
 .1 The Space of Sno-Cone Colors
-
-L
-
-X
 
 .2 An Ideal Sno-Cone
 
@@ -13730,14 +11295,6 @@ point determines preference: the closer a color lies to a person's
 ideal color, the more the person prefers that color. Though not
 necessary, this assumption simplifies the presentation. .2
 shows a person's ideal point at X.
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
 
 R
 
@@ -13792,14 +11349,6 @@ calculate how many possible preference orderings can exist if we
 represent preferences on a single line. As before, we rule out ties. If
 a person most prefers red, she must like orange second best, then
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
-
 yellow, then green, and then blue. A person who most prefers blue
 must have preferences that go in the opposite order. Someone who
 most prefers orange could like yellow next best (as in our example
@@ -13834,14 +11383,6 @@ international stability. No one believes it to be selecting a type of
 beard or the color for a sno-cone. What we learn from fun examples, though, also applies to more serious contexts.7 And we can
 think of the one dimension as representing an ideological spectrum
 from left to right. In fact, the sno-cone model provides a logical
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
 
 foundation for much of how we think about political ideologies. When we describe senators or congressional representatives
 as liberal, conservative, or moderate, we are placing them on
@@ -13883,14 +11424,6 @@ We'll assume that everyone has the same preferences about
 outcomes. This assumption is not as strong as it seems. Sure,
 people disagree about abortion and the right to own guns. But
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
-
 our preferences agree more than we think. Try to think of any
 politician who doesn't claim to want a better educational system,
 less inequality, greater international
@@ -13930,14 +11463,6 @@ looks at the columns. This interpretation resembles Marilyn's
 interpretation in Screening Success. Given this interpretation,
 Arun's predictive model looks as shown in table 9.2.
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
-
 Table 9.1:
 A policy mapping
 
@@ -13951,89 +11476,35 @@ m
 
 r
 
-L
-M
 R
 
 increase
 no effect
 reduce
-
-reduce
-increase
-increase
-
-reduce
-reduce
-increase
 
 Table 9.2:
 Arun's predictive model
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-L
-M
 R
 
-increase
-no effect
-reduce
-
 Prediction no effect
-
-reduce
-increase
-increase
-increase
-
-reduce
-reduce
-increase
-reduce
 
 Table 9.3:
 Rebecca's predictive model
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-Prediction
-
-L
-M
 R
-
-increase
-no effect
-reduce
-
-reduce
-increase
-increase
-
-reduce
-reduce
-increase
-
-reduce
-no effect
-increase
 
 Arun predicts that socially liberal policies have on balance no
 effect, that socially moderate policies increase crime, and that
@@ -14042,14 +11513,6 @@ the fiscal dimension of a policy. She predicts that fiscally liberal
 policies (L to her) reduce crime, that fiscally moderate policies
 have no effect, and that fiscally conservative policies increase crime
 (see table 9.3).
-
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-D I V E R S E P R E F E R E N C E S
 
 Suppose that Arun and Rebecca compare two policies: one that
 is moderate on both dimensions (Mm) and one that is conservative
@@ -14089,14 +11552,6 @@ need to know. We look at what is important to us. When what
 we look at is large, metaphorically, when it has many parts and
 dimensions, we abandon perspectives for interpretations. We can
 
-September 20, 2006
-
-Time: 10:29am
-
-chapter09.tex
-
-C H A P T E R N I N E
-
 have a perspective on a route between ten cities. But we cannot
 have a perspective on the design for the car we drive between those
 cities. As a result, for most problems, the dimensions we include
@@ -14122,8 +11577,6 @@ regions of the country based on the number and types of trails they
 have. This powerful, widespread influence cast by preferences on
 perspectives, interpretations, and tools suggests the centrality of
 preferences in any discussion of diversity and its influences.
-
-October 11, 2006
 
 Time:
 
@@ -14160,13 +11613,7 @@ positive indirect effects. Taking all the plusses and minuses into
 account, some optimistic readers might even say that preference
 diversity is (to quote Martha Stewart) a good thing.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
 
 C H A P T E R T E N
 
@@ -14210,13 +11657,7 @@ However, even though ample preference diversity exists, much
 of the preference diversity that we see may in fact be instrumental
 diversity. People often want the same outcome: less crime, better
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
 
 P R E F E R E N C E A G G R E G A T I O N
 
@@ -14260,15 +11701,7 @@ back to our analysis of collective prediction. We can reinterpret
 much of that analysis as the aggregation of diverse instrumental
 preferences by assuming that everyone has the same fundamental
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 preference: to make an accurate prediction. (People have diverse
 instrumental preferences created by the diverse models that they
@@ -14306,15 +11739,7 @@ no coherent way of characterizing the preferences of the American
 people. More to the point, we may not be able to say whether our
 family prefers pizza to tacos or tacos to burgers.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 The lack of collective preferences has profound implications.
 It means that we cannot say, "This is what the American people
@@ -14356,15 +11781,7 @@ be countenanced.)
 The second desideratum is that collective preferences reflect
 individual-level unanimity. If everyone prefers A to B, then so
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 must the collective. If every person in Ohio prefers buckeyes to
 oranges, then so should the people of the great state of Ohio.
@@ -14411,15 +11828,7 @@ the background. When people's preferences are sufficiently similar,
 these desiderata prove harmless, but when individuals have diverse
 preferences, the desiderata conflict.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 Arrow's Possibility Theorem
 
@@ -14461,76 +11870,30 @@ called a Condorcet cycle after the Marquis de Condorcet, who first
 discovered it. He might have gone even further with this logic had
 he not lost his head—literally—in the French revolution.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Table 10.1:
 A policy mapping
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-L
-M
 R
-
-increase
-no effect
-reduce
-
-reduce
-increase
-increase
-
-reduce
-reduce
-increase
 
 Table 10.2:
 Arun's predictive model
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-L
-M
 R
 Prediction no effect
-
-increase
-no effect
-reduce
-
-reduce
-increase
-increase
-increase
-
-reduce
-reduce
-increase
-reduce
 
 To construct an instrumental preference cycle, we build from the
 earlier example involving policies and their effects on crime rates
@@ -14549,66 +11912,28 @@ person, Mary. Mary partitions the policies into three sets: leftwing, right-wing
 conservative on the other (see table 10.4). A policy is right-wing
 if it is conservative on at least one dimension and not liberal on
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 Table 10.3:
 Rebecca's predictive model
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-Prediction
-
-L
-M
 R
-
-increase
-no effect
-reduce
-
-reduce
-increase
-increase
-
-reduce
-reduce
-increase
-
-reduce
-no effect
-increase
 
 Table 10.4:
 Mary's interpretation
 
-Social
-
-Fiscal
-
 l
 
 m
 
 r
 
-L
-M
 R
 
 left wing
@@ -14645,22 +11970,10 @@ social dimension (the capital letters) and believes moderate policies
 are better than policies from the right, which in turn he believes to
 be better than policies from the left.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Table 10.5:
 Mary's predictions
-
-Social
-
-Fiscal
 
 l
 
@@ -14668,21 +11981,7 @@ m
 
 r
 
-L
-M
 R
-
-no effect
-no effect
-reduce
-
-no effect
-reduce
-increase
-
-reduce
-increase
-increase
 
 Table 10.6:
 Predictions about policies
@@ -14701,18 +12000,6 @@ Arun
 Rebecca
 Mary
 
-increase
-reduce
-no effect
-
-reduce
-no effect
-increase
-
-no effect
-increase
-reduce
-
 Assuming that everyone most prefers decreasing crime and
 least prefers increasing crime, we get the following preference
 orderings:
@@ -14730,15 +12017,7 @@ have the wisdom of crowds in which diverse predictive models
 aggregate into an accurate prediction. We have the circularity of
 crowds. The crowd plays Rock, Paper, Scissors.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 The Faustian Bargain over Desiderata
 
@@ -14777,19 +12056,7 @@ three points from William, for a total of nine points. And Bethesda
 gets one point from Liz, three points from Skip, and two points
 from William, for a total of six points. Bethesda was seemingly
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
-
-L
-
-M
 
 R
 
@@ -14829,15 +12096,7 @@ the right of M.
 We now show that the color M defeats any other color in an
 election. To see this, suppose that some other color to the right of
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 M is paired in an election against M. Chad prefers M to this other
 color as do all people with ideal points to the left of M. Similarly,
@@ -14876,33 +12135,13 @@ dimension, we cannot help but ask whether it's also okay if they
 differ along two dimensions. Unfortunately, it's not okay. To see
 why, we assume that, in addition to choosing a color for the snocone, our committee must also choose a size. Everything else is as
 
-October 11, 2006
-
 Time:
 
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
-
-Size
-
-X
-
 .2 Two-Dimensional Sno-Cones
-
-Color
-
-Size
-
-C
 
 B
 
 A
-
-Color
 
 .3 Two-Dimensional Sno-Cones, with Three People's
 Ideal Points
@@ -14920,29 +12159,11 @@ point satisfies this property on both dimensions. To see why Chad
 is left dangling, consider figure 10.3, which shows three people's
 ideal designs denoted by A, B, and C.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
-
-Size
 
 B
 
-C
-
-M
-
-X
-
 A
-
-Color
 
 .4 Defeating the Median
 
@@ -14973,33 +12194,15 @@ than one dimension, then any alternative can be defeated.
 Plott's No-Winner Result: In more than one dimension, generically, there will be no alternative that defeats every other
 alternative in a pairwise vote.9
 
-October 11, 2006
-
 Time:
 
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
-
-Size
-
-C
-
 Y
-
-X
 
 B
 
 .5 Defeating X
 
-Size
-
 A
-
-Color
 
 n ne
 
@@ -15008,8 +12211,6 @@ Pw
 e
 
 s
-
-Color
 
 .6 The Plott No-Winner Result
 
@@ -15028,15 +12229,7 @@ We're hoping that P can win a vote against any other sno-cone
 design, including the one below it, s. This implies that fewer than
 half of the people must prefer designs smaller than P. P must also
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 win a vote against the design denoted by n, so fewer than half of
 the people must prefer designs larger than P. Similarly, fewer than
@@ -15079,15 +12272,7 @@ prediction. Thus Plott's result creates fewer problems in this case,
 unless people are enamored of their own predictions (imagine!)
 and fail to recognize the wisdom of crowds.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 McKelvey and Rock, Paper, Scissors
 
@@ -15127,19 +12312,7 @@ A voted for Z, person A doesn't like his design much either.
 Person A's ideal point lies a long way from Z. Person B doesn't
 much like the Z either. So, now we have done it. We have a terrible
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
-
-Size
-
-C
 
 Y
 
@@ -15150,8 +12323,6 @@ Z
 W
 
 A
-
-Color
 
 .7 Leaving the Space of Reasonable Designs
 
@@ -15185,15 +12356,7 @@ not what would happen in a real election. If the people proposing
 designs have an incentive to get as many votes as possible, then
 the winning design tends to be near virtual Chad's ideal point.12
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Electoral institutions can also include procedural rules that prevent
 choices from spiraling out into the nether regions of design space.
@@ -15235,15 +12398,7 @@ appears to be negatively correlated with preference heterogeneity.
 Using ballot data from Los Angeles County voters, Elizabeth
 Gerber and Jeffrey Lewis estimated the heterogeneity of preferences within a congressional district by looking at votes cast
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 in fifty-five races. They found that representatives from districts
 with greater preference heterogeneity were less closely related to
@@ -15285,15 +12440,7 @@ thought, that Brody would win, they could have misrepresented
 their preferences and voted for Caine. If so, Caine would have
 won his first Oscar, and the people who switched their votes—who
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Table 10.7:
 2003 best actor vote totals
@@ -15336,15 +12483,7 @@ Clearly, no one can have an incentive to misrepresent her preferences with only 
 primary elections have only a single candidate, and we can rest
 assured that no voters misrepresent their preferences in these races.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 Table 10.8:
 Scenarios not including Valerie's vote
@@ -15391,36 +12530,21 @@ in which Valerie should misrepresent her preferences. We again
 assume that Valerie prefers jasmine to basmati. We also assume
 that she prefers basmati to wild. If Valerie expects jasmine to
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 A
 
 B
 
-C
-
 .8 Three Sno-Cone Colors in One Dimension
-
-Size
 
 x
 
 A
 
-C
 y
 
 B
-
-Color
 
 .9 Sno-Cone Designs in Two Dimensions
 
@@ -15449,15 +12573,7 @@ A person with an ideal point at x most prefers design C, but
 A is her next favorite design. A person with an ideal point at y
 also most prefers design C, but B is his next favorite design. In
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 Rock
 
@@ -15503,15 +12619,7 @@ helps us see the importance of setting the agenda.18 In one
 tournament, paper wins. In the other tournament, scissors wins.
 This same phenomenon occurred in our analysis of the Colonel
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Paper
 
@@ -15554,15 +12662,7 @@ their predictions. People even have incentives to share information,
 models, and experiences so that people can refine their predictive
 models to improve the collective choice.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 The second way to look at the effects of strategic voting and
 agenda manipulation focuses on group relations. Misrepresentation can reduce trust among group members. Let's return to
@@ -15603,15 +12703,7 @@ teenage boys.
 The members of the first family all enjoy the same activities:
 singing, playing cards, and making elaborate buildings from
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 popsicle sticks. They build a house with a moderate-sized kitchen,
 a large family room, a music room, and two modest bedrooms.
@@ -15651,15 +12743,7 @@ this strategic behavior may well be strategic behavior by others.
 However, even if this strategic behavior results in good outcomes,
 when all is said and done, people may not like each other or
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-P R E F E R E N C E A G G R E G A T I O N
 
 the process. The implications are not as dire as we might think,
 however. The incentives to act strategically when preferences differ
@@ -15697,15 +12781,7 @@ that include men and women, people of different ethnic and
 racial groups, people from different age groups, and people from
 different professions and parts of the country often makes sense.
 
-October 11, 2006
-
 Time:
-
-04:53pm
-
-chapter10.tex
-
-C H A P T E R T E N
 
 Carrying this logic even further, we may want, in addition, to put
 in place some safeguards against those people with the majority
@@ -15742,8 +12818,6 @@ entire societies might well accept this same compromise, for to
 be large enough to contain contradictions also makes them large
 enough to solve problems and make accurate predictions, as we
 are about to see.
-
-October 11, 2006
 
 Time:
 
@@ -15782,13 +12856,7 @@ not all, of the logic of the previous chapters on its head. It
 produces a bit of an Alice in Wonderland sensation. Everything
 will appear upside down. Fundamental preference diversity, which
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
 
 C H A P T E R E L E V E N
 
@@ -15830,13 +12898,7 @@ seemed flippant. We make up for that now. We get serious. When
 people differ in their preferences, they differ not only in what kinds
 of food they like to eat and music they enjoy. They also differ in
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
 
 I N T E R A C T I N G T O O L B O X E S A N D P R E F E R E N C E S
 
@@ -15882,15 +12944,7 @@ at young ages.
 If, like Pasteur, we choose the tasks to which we devote our
 lives through some combination of opportunity, culture, and
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-C H A P T E R E L E V E N
 
 preferences, then we cannot separate preference diversity from
 toolbox diversity. We acquire tools that enable us to contribute
@@ -15933,15 +12987,7 @@ small Vermont farms comes at a cost. So do real chocolate chips.
 Although taste and profits may be positively correlated (the better
 it tastes, the more it sells, the higher the profits), they would
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-I N T E R A C T I N G T O O L B O X E S A N D P R E F E R E N C E S
 
 not produce the exact same ranking of the pints. So Ben's profit
 landscape might now differ from Jerry's taste landscape. If so, Ben
@@ -15984,15 +13030,7 @@ Suppose that Mike cares only about academic skills. His valuation
 of a student might be strongly correlated with the student's
 grade point average in science courses. The spreadsheet, though,
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-C H A P T E R E L E V E N
 
 might contain only total grade point average. Mike's perspective
 might be to arrange the students according to their overall grade
@@ -16033,15 +13071,7 @@ tested files in both directions. People with diverse preferences
 therefore also can be led to construct and acquire diverse
 heuristics. But our main point is that Mike and Mahmoud have
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-I N T E R A C T I N G T O O L B O X E S A N D P R E F E R E N C E S
 
 different preferences. And as a result, they search for solutions
 differently.
@@ -16081,15 +13111,7 @@ We will not assume that they have the same preferences about
 outcomes, however. The first doctor, Yeong, has a deeps aesthetic
 sense. He cares about how the elbow looks. Does it appear
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-C H A P T E R E L E V E N
 
 Table 11.1:
 Cathy's results
@@ -16099,20 +13121,14 @@ Design
 
 A
 B
-C
-D
 E
 F
 
 Ending
-Design
 
 A
-D
 G
 H
-I
-D
 
 natural? Does it posses the beauty and grace of a human elbow?
 His colleague, Cathy, cares primarily about functionality. Yeong
@@ -16145,35 +13161,22 @@ attractive but not functional. These differences in local optima
 arise not from differences in how they search but from differences
 in what they value.
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-I N T E R A C T I N G T O O L B O X E S A N D P R E F E R E N C E S
 
 Table 11.2:
 Yeong's results
 
 Starting
-Design
 
 A
 B
-C
-D
 E
 F
 
 Ending
-Design
 
 B
 B
-I
 B
 E
 J
@@ -16204,15 +13207,7 @@ We just saw how diverse preferences can have positive
 effects. Previously, we saw how diverse perspective and heuristics
 enable a group of problem solvers to generate more solutions
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-C H A P T E R E L E V E N
 
 Table 11.3:
 Values of solutions found
@@ -16220,13 +13215,11 @@ without diverse perspectives and
 heuristics
 
 Elbow
-Design
 
 Values for
 (Cathy, Yeong, Monica)
 
 H
-I
 J
 
 Best
@@ -16267,15 +13260,7 @@ Now,
 let's extend the example and assume that Cathy,
 Yeong, and Monica also have diverse perspectives and heuristics
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-I N T E R A C T I N G T O O L B O X E S A N D P R E F E R E N C E S
 
 Table 11.4:
 Value of solutions found with
@@ -16285,11 +13270,8 @@ heuristics
 Solution
 
 H
-I
 J
 K
-L
-M
 N
 O
 P
@@ -16329,15 +13311,7 @@ The World Turned Upside Down
 In interacting the types of diversity, we have highlighted
 two effects. First, we saw how diversity begets diversity. Diverse preferences can create diverse perspectives, heuristics, interpretations, and predictive models. And, as we know, diverse
 
-October 11, 2006
-
 Time:
-
-05:17pm
-
-chapter11.tex
-
-C H A P T E R E L E V E N
 
 predictive models create diverse instrumental preferences. By
 implication, we cannot consider these types of diversity in isolation. Second, we saw that the implications of diversity in
@@ -16361,8 +13335,6 @@ might disagree sometimes, and they might even try to manipulate
 outcomes, but on the whole, diversity proves beneficial. With it,
 we can solve hard problems and make accurate predictions.
 
-April 21, 2008
-
 Time:
 
 07:25pm
@@ -16375,21 +13347,9 @@ THE PUDDING: DOES DIVERSITY
 
 GENERATE BENEFITS?
 
-April 21, 2008
-
 Time:
 
-07:25pm
-
-chapter12.tex
-
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
 
 CHAPTER 12
 
@@ -16420,13 +13380,7 @@ they often fail to do so. These findings all agree with the models.
 To think different is good. To want differently isn't, at least not
 necessarily.
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
 
 C H A P T E R T W E L V E
 
@@ -16467,13 +13421,7 @@ Braddock (Dustin Hoffman) in The Graduate: "plastics." Our
 brains possess amazing plasticity—both in structure and function.
 Neuroscientists have only just begun to understand the former,
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
 
 T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
@@ -16515,15 +13463,7 @@ expect Bobbi to acquire more science tools than Carl? No. We
 cannot. If Carl likes science and Bobbi likes art, he'll buy more
 science tools. They have billions and billions of possible choices.
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 The supermarket of tools is so large that other factors swamp
 the price effects (the impact of latent abilities). Therefore, we
@@ -16559,15 +13499,7 @@ circumstances.)
 Training influences our interpretations—the boxes we use to
 categorize what we see and learn. When we learn about magnetism, we gain an interpretation that separates objects into two
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
 boxes: one labeled magnetic and the other labeled not magnetic.
 Training also contributes to the set of predictive models that we
@@ -16608,15 +13540,7 @@ us make sense of our experiences. If confronted with different sets
 of experiences, we likely acquire and develop different tool sets
 to succeed in our endeavors: many people who live near water
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 learn the tools required to fish. Desert dwellers have little need
 for such tools. Experience also shapes the attributes we use in
@@ -16658,15 +13582,7 @@ Experience influences the creation of predictive models, so it
 has a direct effect on instrumental preferences. Experience can
 also change our fundamental preferences. Often, the more we
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
 experience something, the more we like it. Children learn to enjoy
 food that they eat frequently. With repeated interactions, people
@@ -16708,15 +13624,7 @@ tank, people from Eastern countries tend to notice patterns in the
 swimming fish, and people from Western countries more often
 notice individual fish. When asked to identify a person as happy
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 or sad, people from Western countries less often take into account
 the happiness of surrounding people.12
@@ -16759,15 +13667,7 @@ chosen so much as forced on us. So to think that people possess the
 traits that they do because they are somehow essential, somehow
 determined by their identities, is to commit what psychologists
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
 call a fundamental attribution error. Just because someone slips
 and falls does not mean that she is clumsy. It could mean that
@@ -16809,15 +13709,7 @@ The effects of identity on experience and opportunities are hard
 to measure. But almost no one disputes that they are large. The
 relevant question for us is whether those differences translate
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 into meaningful cognitive differences—different perspectives,
 interpretations, heuristics, and predictive models. The answer to
@@ -16859,25 +13751,17 @@ in our toolbox,
 anthropologists and sociologists use something called pile sorting. This technique captures differences in how people represent
 things.18 Here's how it works. People are asked to sort a list of
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
 familiar items—types of food, plants, or animals—into piles. Pile
 sorting can also reveal cognitive differences created by experience
 or training. Suppose that you are given the following list of people
 and asked to sort them into piles.
 
-(cid:127) Gerald Ford
-(cid:127) George H. W. Bush
-(cid:127) Madonna
-(cid:127) Jodie Foster
+Gerald Ford
+George H. W. Bush
+Madonna
+Jodie Foster
 
 Most people would create two piles. They'd put the two former
 presidents in one pile and the two entertainers in the other. But in
@@ -16908,15 +13792,7 @@ to think like someone from a different culture. That takes time
 and effort, just as learning how to think like a chemist would take
 some time.
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 Serendipity
 
@@ -16953,15 +13829,7 @@ ignored. Sometimes serindipity allows someone to directly apply
 an idea from the past to a current problem. Tom Plaskett, once
 the head of marketing for American Airlines, applied an idea
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-T H E C A U S E S O F C O G N I T I V E D I V E R S I T Y
 
 he learned as a child in Raytown, Missouri: people like getting
 something for nothing. His mother was an avid collector of S&H
@@ -17006,15 +13874,7 @@ Sewing machines needed holes at their pointy ends. In his horrible
 dream, this insight became clear to Howe. This anecdote would
 seem to imply that our diverse experiences can work in the recesses
 
-April 21, 2008
-
 Time:
-
-07:25pm
-
-chapter12.tex
-
-C H A P T E R T W E L V E
 
 of our minds, that we can derive new insights and connections
 even during sleep. This is true. Elias Howe was not the only person
@@ -17030,8 +13890,6 @@ experience is the mysterious. It is the source of all true art and
 science."26 In trying to come to grips with those mysteries, we
 apply our tools. The more tools we amass through training, refine
 by experience, and filter through our identities, the better.
-
-October 11, 2006
 
 Time:
 
@@ -17072,13 +13930,7 @@ a millennium.
 In much of what follows, we distinguish between studies that
 focus on training and vocational diversity and those that look
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
 
 C H A P T E R T H I R T E E N
 
@@ -17120,13 +13972,7 @@ things can happen in a diverse group that would not be likely
 to happen among homogeneous people—including physical and
 verbal violence. We should thus expect diverse groups to be the
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
 
 T H E E M P I R I C A L E V I D E N C E
 
@@ -17168,15 +14014,7 @@ Globalization is a relatively new phenomenon, so is serious
 interdisciplinary research, and so are multiethnic teams. It may
 take some time to learn how to exploit diversity's benefits. Forty
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 years may seem a long time by social science standards, but it's not.
 We have much to learn. Thus, a primary concern at this point
@@ -17216,15 +14054,7 @@ solve basic problems related to farming and animal domestication.
 We've since solved some of these problems, but we haven't solved
 them all. As Jared Diamond describes in vivid detail in Guns,
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 Germs, and Steel, even with all of our modern techniques, we have
 yet to tame any zebras or turn acorns into a crop.
@@ -17265,15 +14095,7 @@ tools and techniques could be combined. Recall the example
 We derived the answer, 42, using two perspectives. Feeding large
 numbers of people presents a difficult challenge. Learning to
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 harvest seeds helps a little; so does domesticating beasts of burden.
 Possessing both tools allows a society to use domesticated animals
@@ -17315,15 +14137,7 @@ but over a million years!6 More, it appears, is better, but not just
 more of the same—more of the different, and especially more of
 the different that bumps into each other.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 Diverse Collections and Groups of People
 
@@ -17359,15 +14173,7 @@ effects. This has to do with what statisticians call the "noise-tosignal ratio."
 we're looking for, making it hard to find the effect. The noise-tosignal ratio in measuring someone's height with a ruler is low. The
 noise-to-signal ratio of measuring a man's age by the amount of
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 hair he's lost is high. (James Carville and Karl Rove aren't that
 old!)
@@ -17399,22 +14205,12 @@ with group dynamics. In some contexts, such as prediction markets, none of these
 diversity's benefits. So let's look at the evidence from prediction
 markets in a little more detail.
 
-Prediction
-
 Almost no one disputes the evidence that diversity
 improves collective performance in predictive tasks. In the Iowa
 Electronic Markets (IEM), people buy stocks related to political
 events. For example, one stock might pay a dividend if a particular
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 candidate wins an election—say, George Bush in the 2004 U.S.
 presidential election. If this stock was selling for fifty cents,
@@ -17457,15 +14253,7 @@ of Tradesports (a site based in Ireland that uses real money) was
 tested against the accuracy of NewsFutures (a site at which no
 money changes hands).12 Both markets predicted with uncanny
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 accuracy. This comparison involved predictions of the outcomes
 of 208 NFL games in the fall of 2003.
@@ -17503,15 +14291,7 @@ curing diseases, designing new products, crafting changes in the
 tax code—we create teams of diverse people. We create small-scale
 versions of Bletchley Park. We wouldn't do this if it didn't work.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 Careful empirical studies show this benefit to cognitive diversity
 as well: teams of people with diverse training and experience
@@ -17550,15 +14330,7 @@ ten people; the last ten have been awarded to twenty-seven.20
 When the going gets tough, even the best and the brightest rely
 on others.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 Another place where we find support for the models is in
 experiments that compare teams to individuals. Recently, economists and central bankers have begun to question when an
@@ -17595,15 +14367,7 @@ extent to which identity diversity translates into cognitive diversity
 depends on the context, so we should expect the empirical record
 to be mixed. It is. Moreover, we should expect it to be beneficial
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 only for problem solving and for prediction, not for more routine
 tasks, for reasons already mentioned.
@@ -17643,15 +14407,7 @@ one by Sarah Fisher Ellison, Jeffrey Greenbaum, and Wallace
 Mullin, analyzed a firm with many small offices in the United
 States and around the world and found that gender diversity
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 correlated with higher revenues.27 Their study also found that
 gender diversity correlated with reduced cooperation and lower
@@ -17693,15 +14449,7 @@ diversity and cognitive diversity, we have no logical reason to
 think that identity diverse groups would perform better than more
 homogeneous groups—unless we believe that some mysterious
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 collective cognitive capability emerges from the interactions of
 people with diverse identities. But the whole point of this book
@@ -17743,15 +14491,7 @@ that identity diverse groups should perform relatively better when
 they have a common goal. The evidence shows this to be true.34
 We would also expect diverse groups to perform better over
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 time, as they learn to work through their preference differences.
 Evidence supports this as well. Diverse groups sometime start
@@ -17795,15 +14535,7 @@ higher variance. This suggests that we just haven't quite figured
 out how to get along, and that when we do, diversity improves
 performance. We just have to get on those bikes and learn to ride.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 City-Level Productivity and Diversity
 
@@ -17843,15 +14575,7 @@ with someone else. A technological externality exists when one
 technology can be applied in a new context—when we put the
 laser in the printer and in the pointer. Abundant descriptive
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 evidence, building on the work of Jane Jacobs, supports the claim
 that knowledge spillovers—the sharing of cognitive tools—have a
@@ -17894,15 +14618,7 @@ interpretations, heuristics, and predictive models should improve
 problem solving and prediction, which play crucial roles in
 an economy: The better the people in an economy can solve
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 problems, the faster they can innovate. The more precisely they
 can engineer, the quicker they can respond to unexpected events.
@@ -17942,15 +14658,7 @@ higher growth in wages and rents.45 Rents might go up because
 the city becomes more interesting culturally, but that would not
 explain the wage increases.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 Any analysis of the relationship between identity diversity
 and productivity cannot avoid the effects of preference diversity.
@@ -17990,15 +14698,7 @@ goods, this should not surprise us, nor does it imply racial diversity
 doesn't produce benefits, just that those benefits are cancelled
 out by costs.50
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 In sum, the evidence we do have suggests that in cities, cultural
 diversity correlates with growth but racial diversity does not. This
@@ -18041,15 +14741,7 @@ income, but less support if we consider growth rates.52
 The other half of the Pool hypothesis—that the diverse can
 be rich—also passes a sniff test. The United States, Switzerland,
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-C H A P T E R T H I R T E E N
 
 and Canada, all of which are ethnically diverse, have among the
 highest per capita gross domestic products (GDPs).53 But, some of
@@ -18085,15 +14777,7 @@ A Clean Bowl
 We have finished eating our pudding. And what do we
 know? We know that whether we look at economic growth over
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-T H E E M P I R I C A L E V I D E N C E
 
 the course of human history, at the current rate of productivity of
 countries or cities, or the performance of small groups, we cannot
@@ -18118,15 +14802,7 @@ time, if we can leverage them, we'll be far better off. We'll find
 better solutions to our problems. We'll make better predictions.
 We'll live in a better place.
 
-October 11, 2006
-
 Time:
-
-05:29pm
-
-chapter13.tex
-
-October 12, 2006
 
 Time: 09:25am
 
@@ -18135,18 +14811,6 @@ chapter14.tex
 Part Five
 
 GOING ON THE OFFENSIVE
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
 
 CHAPTER 14
 
@@ -18176,12 +14840,6 @@ Many people compare a diverse collection of people to a
 stock portfolio. The analogy goes as follows: a financial advisor
 building a stock portfolio chooses stocks so that regardless of what
 happens in the economy, some of the stocks perform well. The
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
 
 C H A P T E R F O U R T E E N
 
@@ -18226,12 +14884,6 @@ vendor ran out of cups. Ernest Hami, a Syrian waffle vendor in
 the booth next door, rolled up some waffles to make cones. The
 rest, as they say, is history.2 The parts of the portfolio—the waffles
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
 A F E R T I L E L O G I C
 
 and the ice cream—combine to create something new and better,
@@ -18273,14 +14925,6 @@ the amount of leather produced by a cow. This requires knowing
 the surface area of a cow. Even the complicated surfaces from
 calculus class pale in comparison to a cow. Fortunately, a book
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 on modeling offers a solution to this problem. We can imagine a
 spherical cow.3 (We ignore how we'd milk this spherical cow or
 how we'd walk it out to pasture.) We can calculate its surface area
@@ -18319,14 +14963,6 @@ problem the wrong way—we use the wrong perspective. In an
 organization, common perspectives facilitate communication and
 the development of more advanced heuristics, but they also create
 common local optima. If one of us gets stuck and if we all think the
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 same way, then we're all stuck. Now, it could be that our collective
 perspective makes the problem easy and the company is acting
@@ -18367,14 +15003,6 @@ who provide diversity to help companies improve. Sure, some
 companies trot out highly paid consultants in fancy suits to add
 credibility to decisions that directors have already made—"Look,
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 McKinsey agrees with me!" And yes, some consulting companies
 perform services that firms do not have the capacity or ability
 to do themselves, but many consultants actually consult. And
@@ -18413,14 +15041,6 @@ makes an implicit assumption that the diversity fits the task.
 Most universities do not pack visiting committees with unicyclists
 and manicurists. They choose academics and experts from the
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 appropriate field. Consulting companies do not hire people from
 the hidden valleys of Papa New Guinea, dress them in suits, and
 ask them to help companies comply with the new Sarbanes-Oxley
@@ -18456,14 +15076,6 @@ dimensions involved in a policy debate. To borrow an insight
 from my colleague Arthur Lupia, making good predictions about
 welfare policy does not depend on the ability to name the fifty
 state capitals.6
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 Those who argue that everyone should read books like Garry
 Wills's captivating Lincoln at Gettysburg have it only half right.7
@@ -18504,14 +15116,6 @@ whom to elect president, we allow everyone to vote (except felons
 and people who have recently moved). And in those elections,
 if we're all partially informed and use similar models, then we
 won't make good democratic decisions. Looking to the past to
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 predict the future may make sense for individuals, but if everyone
 does it, we lack diversity, and we make poor choices. Politicians
@@ -18554,14 +15158,6 @@ may depend as much on its citizens' having diverse predictive
 models as on their having accurate predictive models, or so says
 the Diversity Prediction Theorem.
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 Create Prediction Markets
 
 In reading the analysis of how markets can aggregate
@@ -18597,14 +15193,6 @@ Encourage Interdisciplinary Efforts
 
 Given that we face no shortage of difficult and complex
 problems, we have little choice but to leverage our differences.
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 Many of these problems intersect with many traditional disciplines
 and areas of thought. To put this in some context, consider four
@@ -18645,14 +15233,6 @@ We therefore need to distinguish which environment is which. If
 we agree on the ends but disagree on the means, we should not try
 to manipulate outcomes or misrepresent what we think. We should
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 just accept the wisdom of the crowd. We should recognize that the
 choice being made is, on average, better than the average choice
 we would make (see the Crowds Beat Averages Law). Instrumental
@@ -18691,14 +15271,6 @@ for them need not be a peak for her. From Tess's improvement,
 Gwen may find a solution that everyone likes better. When
 solving problems, a little fundamental preference diversity may go
 a long way.
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 A similar logic applies to predictions.
 
@@ -18742,14 +15314,6 @@ why, and he tells you that ketchup cleans copper. Let's assume that
 before this moment, you'd never considered the copper-cleaning
 capabilities of ketchup (and, before this moment, you probably
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 hadn't either). So you test the claim. You take the ketchup bottle
 and squeeze out your name in ketchup on the table. You let it sit a
 moment, wipe, and voila! you can read your name. Now you can
@@ -18785,14 +15349,6 @@ people hired, chosen, or admitted. Our concern should be collective performance,
 it does on individual ability. The belief that the best group consists
 of the best individual people rests on faulty logic. Instead, the
 best collections contain people who are both diverse and capable.
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 In what follows, we first look at university and college admissions,
 move on to hiring decisions and government appointments, and
@@ -18831,14 +15387,6 @@ Leslee likes chemistry and math and took lots of courses in those
 areas, but scored only at the eightieth percentile on the quantitative section of the SAT test. She was never involved in many
 extracurricular activities because she didn't have a reliable form of
 transportation. And in the future, she wants to become a doctor
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 and live among the Navajo. Finally, we note that Francesca identifies as white and that Leslee identifies as mixed race. And whereas
 Francesca comes from a wealthy suburb, Leslee's family is poor.
@@ -18880,14 +15428,6 @@ rare perspective in her social science and literature classes. More
 inferences she'd draw
 generally, her experiences would differ;
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 would come from unique analogies. Leslee's mixed racial identity,
 her relative poverty, her interest in the sciences, and her concern
 for the Navajo make her an appealing candidate if we think these
@@ -18926,14 +15466,6 @@ Economics, as a field, may need more women. JSTOR, an online
 search engine for scholarly articles, spits out one-third more
 articles for "sports economics" than for "gender discrimination
 economics."16 Not that sports don't matter, but . . . .
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 Hiring
 
@@ -18974,14 +15506,6 @@ programming heuristics than someone with a degree in biology.
 We know that someone who has worked for five years selling
 cars probably brings finer and more interesting interpretations
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 of consumer types than someone who has been confined to
 a cubicle writing manuals for DVD players. But what of the
 undergrad riding the skateboard with all of those tattoos and
@@ -19019,14 +15543,6 @@ seeks diverse people with knowledge in mathematics and computer
 science. It's not seeking poets. Though, if a good mathematical
 epidemiologist showed up at Google's door, it would hire her
 because she might possess novel understandings of how diseases
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 spread across populations and these understandings might inform
 Google's efforts to organize information flows.
@@ -19066,14 +15582,6 @@ probably have diverse perspectives and interpretations, would lead
 to better solutions and more accurate predictions. They'd help
 because busing is a hard problem. But we don't want to go too far
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 in the other direction, either. We wouldn't want only poor people
 deciding on busing, either.
 
@@ -19108,14 +15616,6 @@ The History of Elvis course might be difficult (really, dude, it has,
 like, lots of reading), but it may not help the student develop relevant perspectives, interpretations, heuristics, or predictive models.
 It may just be a way for the student to apply existing tools to
 a new subject area and maintain that grade point average above
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 3.5. The cost to society of students pursuing high grades rather
 than accumulating knowledge is enormous. We would all prefer
@@ -19154,14 +15654,6 @@ wouldn't want all people who identified young boys as big users
 of batteries. They'd want some people who identified other market
 segments, such as campers.
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 Table 14.1:
 Application test results
 
@@ -19170,34 +15662,6 @@ Applicant Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Q10
 Spencer
 Jeff
 Rose
-
-X
-X
-
-X
-X
-
-X
-
-X
-
-X
-X
-
-X
-X
-
-X
-X
-
-X
-
-X
-X
-X
-
-X
-X
 
 Let's make this more tangible. Suppose we give a ten-question
 test to three people, Spencer, Rose, and Jeff, who are applying for
@@ -19227,14 +15691,6 @@ grade point average and SAT score, or an employer may look at
 grade point average plus some scores computed from letters of
 recommendation. If we apply toolbox logic, we think of people as
 collections of tools, and we want to put together a collection of
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 people with as many tools as possible, making for a much more
 difficult hiring problem.
@@ -19273,14 +15729,6 @@ diversity with ability. We need only recall the 1984 NBA draft
 in which Portland picked Samuel Paul Bowie, a seven-foot center from Kentucky, over a small forward from North Carolina
 named Michael Jordan. Reasons for this pick vary. Some claim
 that Jordan's talents had been obscured by North Carolina's
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 team-oriented style of play. Regardless, in retrospect, the pick
 looks stupid.
@@ -19321,14 +15769,6 @@ au pair from Lithuania into the box labeled non-Hispanic white.
 And in the Asian American box we lump together people whose
 ancestors came from Singapore, Malaysia, China, Japan, and
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 Korea. Each of these lumps of people, if unpacked, would prove
 cognitively diverse.
 
@@ -19366,14 +15806,6 @@ grew up on farms work harder, and that Italians can cook better
 than the English. We also describe people as typical Europeans
 or as fraternity boys. These stereotypes are predictive models.
 They place people in categories and make predictions based on
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
 
 those categorizations—if we invite those frat boys, they'll eat all
 our food (and drink all our beer). These inferences may be more
@@ -19414,14 +15846,6 @@ who works hard" would be a better employee. His predictive
 model is accurate, but it's accurate only because it's so crude. Even
 worse, given that the employer has this predictive model, nonwhite
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 people have little incentive to become qualified. Why bother? They
 won't get hired regardless of their talents and skills.
 
@@ -19461,14 +15885,6 @@ act like some amalgamation of white men everywhere. In doing
 so, Joe may fail to bring his full range of cognitive tools bear
 on a problem or situation. He might instead apply only those
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 tools that align with his identity group. Even worse, he may tote
 along what he considers to be the fundamental preferences of his
 identity group and those preferences may be inappropriate for the
@@ -19507,14 +15923,6 @@ panel include anyone who looks like me?
 
 At times, groups become homogenous because of preferences.
 Few college students go to see Disney's theatrical performance
-
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
 
 of The Lion King. So, we needn't assume that some implicit or
 even explicit discrimination took place. Even so, we must be ever
@@ -19556,14 +15964,6 @@ Companies, organizations, and governments could create some
 reflective teams, but also some majority-minority teams, and some
 teams with only a few minorities.
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-A F E R T I L E L O G I C
-
 In the political context, Heather Gerken calls this creation of
 majority minority groups second-order diversity. Let's be clear on
 what second-order diversity would or could mean. It could mean
@@ -19602,14 +16002,6 @@ proactive diversity policies, and it can. If individual diversity
 contributes to collective benefits, we should pursue pro-diversity
 policies. Companies, organizations, and universities that hire and
 
-October 12, 2006
-
-Time: 09:25am
-
-chapter14.tex
-
-C H A P T E R F O U R T E E N
-
 admit diverse people should not expect instant results. But, in the
 long run, diversity should produce benefits. I do not advocate
 sacrificing ability for diversity, but rather balancing the two.
@@ -19634,8 +16026,6 @@ be their differences in training, experiences, or identity—to be
 more likely to have the unique experience that leads to the
 breakthrough, to recognize the organizing principle of atomic
 weight, or to not see space as seperate from time.
-
-October 12, 2006
 
 Time: 09:32am
 
@@ -19670,12 +16060,6 @@ A person once responded to the question by saying that ketchup
 had to be refrigerated because it contains vinegar. (He later
 admitted that he stores his vinegar in the cupboard, so go figure.)
 As a point of fact, few brands of ketchup state on their labels
-
-October 12, 2006
-
-Time: 09:32am
-
-epilogue.tex
 
 E P I L O G U E
 
@@ -19726,12 +16110,6 @@ near the intersection.) These questions reveal how our desire to fit
 in with others contributes to what we say, what we wear, where
 we go, and how we behave. We conform our behaviors to match
 
-October 12, 2006
-
-Time: 09:32am
-
-epilogue.tex
-
 E P I L O G U E
 
 those of the people with whom we interact.1 This logic extends to
@@ -19775,12 +16153,6 @@ jokes). Alternatively, these differences can inspire wonder and
 curiosity. You eat fish for breakfast? You drink ninety-six-ounce
 colas? Impossible!
 
-October 12, 2006
-
-Time: 09:32am
-
-epilogue.tex
-
 E P I L O G U E
 
 If the first reaction dominates the second, then we wind up
@@ -19821,12 +16193,6 @@ heuristics, and predictive models that differ from those of others.
 These differences aggregate into a collective ability that exceeds
 what we possess individually. To quote Maxine Hong Kingston,
 
-October 12, 2006
-
-Time: 09:32am
-
-epilogue.tex
-
 E P I L O G U E
 
 "To me success means effectiveness in the world, that I am able
@@ -19845,14 +16211,6 @@ talented "we." That happy vision rests not on blind optimism, or
 catchy mantras.
 
 It rests on logic. A logic of diversity.
-
-October 12, 2006
-
-Time: 09:32am
-
-epilogue.tex
-
-September 20, 2006
 
 Time:
 
@@ -19895,13 +16253,7 @@ differences as measured by a Myers-Briggs or OCEAN test. These
 tests capture differences in extroversion, openness, conscientious, and
 so on. For example, a person with a low conscientiousness score
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
 
 N O T E S
 
@@ -19961,15 +16313,7 @@ and Dyadic Creativity," Human Relations 18: 33–55.
 
 11. For evidence that groups whose members possess diverse perspectives and skills perform better and that those with diverse values
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 do not, see D. A. Thomas and R. J. Ely (1996) "Making Differences
 Matter: A New Paradigm for Managing Diversity," Harvard Business
@@ -20011,15 +16355,7 @@ Diversity Research Network," Human Resource Management Journal
 15. Though companies do make cultural mistakes, the legend of the
 failed release of the Chevy Nova in Mexico (no va means "no go"
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 in Spanish) is outlandish. As argued on www.snopes.com/business/
 misxlate/nova.asp, would Americans think that a dinette set called
@@ -20066,15 +16402,7 @@ Hutchinson), p. 34.
 
 Philosophy 14: 159–66.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 4. I thank Richard Langlois for this anecdote.
 5. Robert Wright (1999) "Time 100: Molecular Biologists," Time,
@@ -20117,15 +16445,7 @@ Guys Built a Business with a Social Conscience and a Sense of Humor
 
 times 6?" In base thirteen, 9 × 6 = 42.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 13. One of a pair of new houses in a subdivision was dropped because
 
@@ -20177,15 +16497,7 @@ the Firm (Englewood Cliffs, NJ: Prentice-Hall).
 Max Jacobson, Ingrid Fiksdahl-King, and Shlomo Angel (1977) A
 Pattern Language: Towns, Buildings, Construction (New York: Oxford
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 University Press); Christopher Alexander (1979) The Timeless Way of
 Building (New York: Oxford University Press).
@@ -20241,15 +16553,7 @@ Chapter 3: Interpretations
 1. Lu Hong and Scott E. Page (2005) "Interpreted and Generated
 Signals," working paper, University of Michigan–Ann Arbor. Posted
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 online at www.cscs.umich.edu/∼spage/signals.pdf. See also the literature
 on PAC (probably approximately correct) learning.
@@ -20296,15 +16600,7 @@ Policy, and Law 2 (2): 293–323.
 
 How Can We Know? (Princeton, NJ: Princeton University Press).
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Chapter 5: Measuring Sticks and Toolboxes
 
@@ -20353,15 +16649,7 @@ player's 100. This would be a substantial difference in what we might
 think of as "ability." But even with this arrangement, the first player
 can be defeated. The first player must have more than forty-one pieces
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 in front of one door. That means he must have fewer than ninety-eight
 pieces at the other two doors. The other players can arrange their pieces
@@ -20411,15 +16699,7 @@ the Mind (Hillsdale, NJ: Erlbaum).
 Nissan Ultima, Mazda 6, Toyota Camry, Honda Accord, Chrysler
 Sebring, Chevy Malibu, Hyundai Sonata, Dodge Stratus, Saturn L300,
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Volkswagen Jetta, Kia Optima, Buick Century, Ford Taurus, Mitsubishi
 Galant, Mercedes C240, Suzuki Verona, Volvo S60, BMW 525, Pontiac
@@ -20471,15 +16751,7 @@ are off. Owing to within- and between-group dynamics, we might not
 be able to say much at all. The members of the high-IQ group could
 put forth little effort, knowing that they are smarter, or they could
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 work especially hard to prove their greater intelligence. Members of the
 random group might well just decide to give up. Or they might work even
@@ -20524,15 +16796,7 @@ Nielson (2001) "The Real Power of Artificial Markets," Science 291:
 Reflections on Book 3, Chapter 11 of Aristotle's Politics," Political
 Theory 23 (4): 563–84.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 6. For that reason, Lu Hong and I refer to these as generated signals.
 Lu Hong and Scott E. Page (n.d.) "Interpreted and Generated Signals,"
@@ -20581,15 +16845,7 @@ predictions of other models.
 Enabling Self-Organizing Solutions," presented at the Decentralization II
 Conference, UCLA.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 3. The eager reader can calculate whether Deborah's predictions are
 
@@ -20640,15 +16896,7 @@ predictions gone awry, we can sometimes blame diversity, at least a little
 bit of it, for bubbles. It's easy to see that diversity in predictive models
 can drive price increases. For a price to rise, someone must think that the
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 current price is too low. That person must have preferences that differ
 from those of other people, though they do not have to differ by much.
@@ -20697,15 +16945,7 @@ Each person in the crowd is a nonexpert. Each also partitions the
 possible situations into sets. Their sets lump together the expert's sets.
 Or put another way, the expert's sets split the sets of each person in the
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 crowd. Under this assumption, the expert sees the world more finely than
 do people in the crowd. Any distinction that someone in the crowd can
@@ -20769,15 +17009,7 @@ if the average prediction made for situations in the sets J1 through J5 is
 less than the prediction from set i, then the crowd might predict more
 accurately than the expert.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 To see this another way, assume that the average value in the sets J1
 through J5 equals the average value across all situations. If a situation in
@@ -20819,15 +17051,7 @@ they estimated their models, the crowd's and the expert's models were
 compared on a testing set consisting of one hundred points.
 19. Using our formula, W = 4 ∗ 10 + 2 ∗ 20 + 0 = 80.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 20. This calculation is not difficult. If her model is correct, then it
 
@@ -20878,15 +17102,7 @@ Models, pp. 77–83.
 
 (2): 123–40.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 28. See Robin Hanson (1999) "Decision Markets," IEEE Intelligent
 
@@ -20934,15 +17150,7 @@ approximately two and a half billion million. That's a large number.
 To compute the number of irrational preference orderings, we follow
 the same logic as earlier. Twenty alternatives create one hundred and
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 ninety pairs of alternatives. For each pair, either alternative could be
 preferred. This creates 2190 possible preference orderings that violate
@@ -20990,15 +17198,7 @@ unknown state of the world.
 universally good outcomes. Some of us care more about education, others
 about the environment, and still others about economic growth.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Chapter 10: Preference Aggregation
 
@@ -21045,15 +17245,7 @@ than alternative B, and if alternative B is closer to M than alternative C,
 then it follows that alternative A is closer to M than alternative
 C. Preferences therefore satisfy transitivity and completeness. They are
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 rational. Preferences trivially satisfy unanimity. If one alternative is closer
 to everyone's ideal point than another, that first alternative must be closer
@@ -21104,15 +17296,7 @@ with Chance," Econometrica 41: 587–600; M. A. Satterthwaite (1975)
 "Strategy-Proofness and Arrow's Conditions: Existence and Correspondence Theorems for Voting Procedures and Social Welfare Functions,"
 Journal of Economic Theory 10: 187–217.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 18. Note that we have assumed that people vote sincerely. If we allow
 people to vote strategically, manipulating the agenda becomes much
@@ -21156,15 +17340,7 @@ of Sciences 97 (8): 4398–4403.
 A. May (2004) "Neuroplasticity: Changes in Grey Matter Induced by
 Training," Nature 427 (6972): 311–12.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 5. Glenn Loury (2000) Dubois Lectures, Harvard University, April 27.
 6. Enriqueta Aragones, Itzhak Gilboa, Andrew Postlewaite, and David
@@ -21220,15 +17396,7 @@ Press).
 (1986) "Culture as Consensus: A Theory of Culture and Informant
 Accuracy," American Anthropologist 88 (2): 313–38.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 19. Ford went to Yale as well, for law school.
 20. Scott Atran and Douglas Medin (forthcoming) The Native Mind:
@@ -21284,15 +17452,7 @@ Journal of Economics 113 (2): 331–60.
 Change: One Million b.c. to 1990," Quarterly Journal of Economics 108
 (3): 681–716.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 7. T. Cox, S. Lobel, and P. McLeod (1991) "Effects of Ethnic Group
 Culture Differences on Cooperative and Competitive Behavior on a
@@ -21340,15 +17500,7 @@ Management Team Tenure and Organizational Outcomes: The Moderating Role of Manag
 35: 484–503; and K. A. Bantel, and S. E. Jackson (1989) "Top Management and Innovations in Banking: Does the Demography of the Top
 Team Make a Difference?" Strategic Management Journal 10: 107–24.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 17. See also Howard Gardner (1993) Creating Minds: An Anatomy of
 Creativity Seen through the Lives of Freud, Einstein, Picasso, Stravinsky,
@@ -21395,15 +17547,7 @@ Neale, and Deborah Gruenfeld (2004) "Diverse Groups and Information
 Sharing: The Effects of Congruent Ties," Journal of Experimental Social
 Psychology 40: 497–510; T. Kochan, K. Bezrukova, R. Ely, S. Jackson,
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 A. Joshi, K. Jehn, J. Leonard, D. Levine, and D. Thomas (2003) "The
 Effects of Diversity on Business Performance: Report of a Feasibility
@@ -21450,15 +17594,7 @@ Minority Influence," Psychological Review 93: 23–32.
 
 and Dyadic Creativity," Human Relations 18: 33–55.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 32. Samuel R. Sommers (forthcoming) "On Racial Diversity and
 Group Decision-Making: Informational and Motivational Effects of
@@ -21505,15 +17641,7 @@ Trajtenberg, and Rebecca Henderson (1993) "Geographic Localization
 of Knowledge Spillovers as Evidenced by Patent Citations," Quarterly
 Journal of Economics 108 (3): 577–98.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 42. Jane Jacobs (1984) Cities and the Wealth of Nations (New York:
 Random House); Maryanne Feldman and David Audretsch (1999)
@@ -21559,15 +17687,7 @@ Growth in a Cross-Section of Cities," Journal of Monetary Economics
 51. Alberto Alesina and Eliana La Ferrara (2005) "Ethnic Diversity and Economic Performance," Journal of Economic Literature 43
 (September): 762–800. Quotation from p. 794.
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 52. Jonathan Pool (1972) "National Development and Language
 Diversity," in Advances in the Sociology of Language, ed. Joshua A.
@@ -21613,15 +17733,7 @@ to New York, had patented the ice cream cone in 1903.
 4. For a more detailed analysis of when to allow diversity in a complex
 system, see Robert Axelrod and Michael D. Cohen (1999) Harnessing
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Complexity: Organizational Implications of a Scientific Frontier (New
 York: Free Press).
@@ -21671,15 +17783,7 @@ ed. L. L. Cummings and B. M. Staw (Greenwich, CT: VAI Press).
 18. This is a simple version of a model by Jackson and Fryer.
 Matthew O. Jackson and Roland G. Fryer Jr. (2002) "Categorical
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Cognition: A Psychological Model of Categories and Identification
 in Decision Making," Working Papers 1144, California Institute of
@@ -21727,15 +17831,7 @@ names—homophily, peer pressure, conformity, herd behavior, and
 jumping on the bandwagon. See M. Kandori, G. Mailath, and R. Rob
 (1993) "Learning, Mutation, and Long-Run Equilibria in Games,"
 
-September 20, 2006
-
 Time:
-
-04:32pm
-
-endnotes.tex
-
-N O T E S
 
 Econometrica 61: 29–56; Glenn Ellison (1993) "Learning, Local Interaction, and Coordination," Econometrica 61 (5): 1047–71; and H. Peyton
 Young (1998) Individual Strategy and Social Structure: An Evolutionary
@@ -21748,8 +17844,6 @@ Cooperation," American Political Science Review 91: 290–306.
 3. Quotation from
 
 http://en.thinkexist.com/quotes/maxine_hong_kingston/.
-
-May 23, 2008
 
 Time:
 
@@ -21830,13 +17924,7 @@ relevant diversity, 344–45; the
 portfolio analogy, moving beyond,
 339–41; setting aside coordination,
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
 
 I N D E X
 
@@ -21948,15 +18036,7 @@ regarding, 364; seek diversity and
 create diversity, 359–60; testing for
 toolbox diversity, 360–61; toolboxcreated difficulties, accepting,
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 361–62. See also affirmative
 action
@@ -22076,15 +18156,7 @@ toolbox, as a framework in the,
 solving, 9, 54, 144–45, 150–52,
 162–64; success of error-allowing
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 diverse heuristics (cont.)
 
@@ -22185,15 +18257,7 @@ external in problem solving,
 149–52; leveraging to produce
 better outcomes, 15, 369–70;
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 models illustrating the benefits of
 (see models); personality differences
@@ -22292,15 +18356,7 @@ empirical evidence, 313–14, 334–35,
 378–79n.11; the core claims, 13,
 299–300; data, how to read the,
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 empirical evidence (cont.)
 
@@ -22405,15 +18461,7 @@ Gerken, Heather, 368
 Germany, Enigma code of Nazi, 3–4
 Getting to Yes, 350
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 Gibbard, Allan, 11, 276
 Gibbard-Satterthwaite theorem, 276
@@ -22513,15 +18561,7 @@ ice cream: chocolate chunks, need for
 choice regarding, 33–36, 245;
 cones, origin of, 340, 407n.2;
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 ice cream (cont.)
 
@@ -22627,15 +18667,7 @@ perspectives
 interpretations: clumping, 81, 97–98,
 221, 228; conception of, 73–74,
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 76–77, 79; as constructing
 categories, 82–84; diverse
@@ -22744,15 +18776,7 @@ knowledge spillovers, 329–30
 
 annealing
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 Michigan, University of, 16–17
 Micronesians, 306
@@ -22846,15 +18870,7 @@ Plott's no-winner result, 269–72
 political ideology: crime reduction
 policies and, 251–53, 262–64;
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 one-dimensional representations of
 options, 249–50
@@ -22952,15 +18968,7 @@ and instrumental distinguished, 11,
 240–41, 250, 349–50 (see also
 fundamental preferences;
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 preferences (cont.)
 
@@ -23060,15 +19068,7 @@ Savant, Marilyn Vos, 112
 Savant Existence Theorem, 47
 Scalia, Antonin, 16–17
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
-
-I N D E X
 
 Schelling, Thomas, 179
 Schofield, Norman, 11, 273
@@ -23172,13 +19172,7 @@ traveling salesperson problem, 56–59,
 
 tree model of tools, 122–24
 
-May 23, 2008
-
 Time:
-
-06:18pm
-
-index.tex
 
 Tsongas, Paul, 321
 Turing, Alan, 3
@@ -23215,8 +19209,6 @@ Weber, Roberto, 49
 Weilacher, G., 103
 Weitzman, Martin, 318
 Welch, Raquel, 306
-
-I N D E X
 
 West Branch, Iowa, housing market
 

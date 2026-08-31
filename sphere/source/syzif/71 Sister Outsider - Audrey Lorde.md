@@ -222,7 +222,7 @@ INTRODUCTION 11
 And it [speaking] is never without fear; of visibility, of the harsh
 light of scrutiny and perhaps judgment, of pain, of death. But we
 have lived through all of those already, in silence, except death.
-And I remind myself all the time now, that ifl were to have been
+And I remind myself all the time now, that iflwere to have been
 born mute, and had maintained an oath of silence my whole life
 for safety, I would still have suffered, and I would still die. It is
 very good for establishing perspective. 13
@@ -317,8 +317,6 @@ ing in Russia seem very different in some respects, yet the people
 feel so Western European (so American, really) outside of
 Tashkent. And the afternoons in Moscow are so dark and
 gloomy.
-
-I
 
 The flight to Moscow was nine hours long, and from my obser
 vations on the plane, Russians are generally as unfriendly to
@@ -471,8 +469,6 @@ and even a glass of tea. All of this was made possible by great
 tenacity and daring on my part, and the smiling forebearance of
 a very helpful waiter who brought out one of the cooks from the
 kitchen to help with the task of deciphering my desires.
-
-II
 
 It's very cold in Moscow. The day I arrived it snowed in the
 morning and it snowed again today, and this is September 16th.
@@ -694,8 +690,6 @@ respective children, about our ex-old men, all very, very
 heterocetera.
 
 TRIP TO RussiA 23
-
-IV
 
 Tashkent is divided into two parts. There's the old part that sur
 vived the huge earthquake of 1966, and there's the newer part
@@ -1150,8 +1144,6 @@ She kissed my picture on my book before she got up, thanked
 us for dinner, and went off with the male Latvian delegate from
 Riga.
 
-VI
-
 Now it is back to Moscow again, which is still cold and rainy.
 Moscow across rainy rooftops looks about as dreary as New
 York does, except the skyline is broken up by huge building
@@ -1185,8 +1177,6 @@ the Metro, I realized why. Not only are the stations spotlessly
 clean, but the trains are quick and comfortable, and I'd never
 really thought that it could be an actual joy to ride on the sub
 ways.
-
-VII
 
 It will take a while and a lot of dreams to metabolize all I've seen
 and felt in these hectic two weeks. I haven't even discussed the
@@ -3708,7 +3698,7 @@ It's not going back south and being shot at, but when Mina said
 to me, "Teach," it was as threatening as that was. I felt at the
 time, I don't know how I'm gonna do it, but that's the front line
 for me. And I talked to Frances about this, because we'd had the
-Tougaloo experience, and I said, "Ifl could go to war, if I could
+Tougaloo experience, and I said, "Iflcould go to war, if I could
 pick up a gun to defend the things I believe, yes - but what am I
 gonna do in a classroom?" And Frances said, "You'll do just
 what you did at Tougaloo." And the first thing that I said to my
@@ -6525,8 +6515,6 @@ tion, dissolution, resolution. Here we are attempting to address
 each others' eyes directly. Even if our words taste sharp as the
 edge of a lost woman's voice, we are speaking.
 
-II
-
 A Black woman, working her years, committed to life as she
 lives it, the children fed and clothed and loved as she can into
 some strength that does not allow them to encyst like horse
@@ -6782,8 +6770,6 @@ Audre
 
 EYE TO EYE 163
 
-III
-
 There has been so much death and loss around me recently,
 without metaphor or redeeming symbol, that sometimes I feel
 that one of suffering and its
@@ -6856,7 +6842,7 @@ pected her to jump the hideous gaps of our learned despisals
 alone, like an animal trained through blindness to ignore the
 precipice? How many times have I forgotten to ask this question?
 Am I not reaching out for you in the only language I know?
-Are you reaching for me in your only salvaged tongue? Ifl try to
+Are you reaching for me in your only salvaged tongue? Ifltry to
 hear yours across our differences does/will that mean you can
 hear mine?
 
@@ -6918,8 +6904,6 @@ sciousness without first recognizing what it was they were say
 ing, and how destructive they were?
 
 166 SisTER OuTsiDER
-
-IV
 
 What does it take to be tough? Learned cruelty?
 
@@ -7078,8 +7062,6 @@ Oh mother, why were we armed to fight with cloud-wreathed
 swords and javelins of dust? "Just who do you think you are,
 anyway?" Who I am most afraid of (never) meeting.
 
-VI
-
 The language by which we have been taught to dismiss
 ourselves and our feelings as suspect is the same language we use
 to dismiss and suspect each other. Too pretty -
@@ -7117,7 +7099,7 @@ become strong, the best, excel in everything, become the very
 best because I don't dare to be anything else. It is my only
 chance to become good enough to become human.
 
-lfl am myself, then you cannot accept me. But if you can ac
+lflam myself, then you cannot accept me. But if you can ac
 cept me, that means I am what you would like to be, and then
 I'm not "the real thing." But then neither are you. WILL THE
 REAL BLACK WOMAN PLEASE STAND UP?
@@ -7297,8 +7279,6 @@ Hand." It depicts the Queen Mother, her court women, and her
 warriors in a circular celebration of the human power to achieve
 success in practical and material ventures, the ability to make
 something out of anything. In Dahomey, that power is female.
-
-VIII
 
 Theorizing about self,worth is ineffective. So is pretending.
 Women can die in agony who have lived with blank and

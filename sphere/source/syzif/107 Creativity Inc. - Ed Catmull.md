@@ -1,4 +1,3 @@
-
 Copyright	©	2014	by	Edwin	Catmull
 
 All	rights	reserved.

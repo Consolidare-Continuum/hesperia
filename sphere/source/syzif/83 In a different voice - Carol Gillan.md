@@ -1,4 +1,3 @@
-
 In a
 Different
 Voice
@@ -1342,8 +1341,6 @@ while female gender identity is threatened by separation. Thus
 males tend to have difficulty with relationships, while females tend
 to have problems with individuation. The quality of embeddedness
 
-Woman's Place in Man's Life Cycle
-
 in social interaction and personal relationships that characterizes
 women's lives in contrast to men's, however, becomes not only a
 descriptive difference but also a developmental liability when the
@@ -1532,8 +1529,6 @@ by intimacy and generativity and Freud means by genitality. The
 rest is separateness, with the result that development itself comes to
 be identified with separation, and attachments appear to be devel-
 
-Woman's Place in Man's Life Cycle
-
 opmental impediments, as is repeatedly the case in the assessment
 of women.
 
@@ -1626,8 +1621,6 @@ emanate from a perceived conflict between femininity and success,
 the dilemma of the female adolescent who struggles to integrate her
 feminine aspirations and the identifications of her early childhood
 
-Woman's Place in Man's Life Cycle
-
 with the more masculine competence she has acquired at school.
 From her analysis of women's completions of a story that began,
 "after first term finals, Anne finds herself at the top of her medical
@@ -1718,8 +1711,6 @@ women to attend to voices other than their own and to include in
 their judgment other points of view. Women's moral weakness,
 manifest in an apparent diffusion and confusion ofjudgment, is
 thus inseparable from women's moral strength, an overriding con-
-
-Woman's Place in Man's Life Cycle
 
 cern with relationships and responsibilities. The reluctance to judge
 may itself be indicative of the care and concern for· others that in
@@ -1813,8 +1804,6 @@ mental theory is ·built like a pyramid from its base in infancy,
 points out that a conception of development instead hangs from its
 vertex of maturity, the point toward which progress is traced. Thus,
 
-Woman's Place in Man's Life Cycle
-
 a change in the definition of maturity does not simply alter the de
 scription of the highest stage but recasts the understanding of devel
 opment, changing the entire account.
@@ -1859,8 +1848,6 @@ interview?] I think I am more aware of an in~ividual'srights
 now. I used to be looking at it strictly from my point of view,
 just for me. Now I think I am more aware of what the indi
 vidual has a right to.
-
-In Q Different Voice
 
 Kohlberg (1973) cites this man's response as illustrative of the prin
 cipled conception of human rights that exemplifies his fifth and
@@ -1908,8 +1895,6 @@ the person himself who is goi~g to be affected, I say it is
 wrong to the extent it doesn't cohere with what I know about
 human nature and what I know about you, and just from
 
-Woman's Place in Man's Life Cycle
-
 what I think is true about the operation of the universe, I
 could say I think you are making a mistake.
 
@@ -1956,8 +1941,6 @@ tions" (p. 6). Whereas the rights conception of morality that in
 forms Kohlberg's principled level (stages five and six) is geared to
 arriving at an objectively fair or just resolution to moral dilemmas
 
-In a Different Voice
-
 upon which all rational persons could agree, the responsibility con
 ception focuses instead on the limitations of any particular resolu
 tion and describes the conflicts that remain.
@@ -2002,8 +1985,6 @@ away by Hades, who takes her to his underworld kingdom. De
 meter, goddess of the earth, so mourns the loss of her daughter that
 she refuses to allow anything to grow. The crops that sustain life on
 earth shrivel up, killing men and animals alike, until Zeus takes
-
-Woman's Place in Man's Life Cycle
 
 pity on man's suffering and persuades his brother to return Perse
 phone to her mother. But before she leaves, Persephone eats some
@@ -2057,8 +2038,6 @@ surrounded by women and otherwise seeing so much and so well,
 women's relationships seemed increasingly mysterious, difficult to
 discern, and hard to describe. While this mystery indicates how
 theory can blind observation, it also suggests that development in
-
-Images of Relationship
 
 women is masked by a particular conception of human relation
 ships. Since the imagery of relationships shapes the narrative of
@@ -2198,8 +2177,6 @@ moral maturity.
 
 In contrast, Amy's response to the dilemma conveys a very
 
-In Q Different Voice
-
 different impression, an image of development stunted by a failure
 of logic, an inability to think for herself. Asked if Heinz should
 steal the drug, she replies in a way that seems evasive and unsure:
@@ -2243,8 +2220,6 @@ Heinz loves his wife, he still shouldn't steal or let her die; if it were
 a stranger dying instead, Amy -says that "if the stranger didn't have
 anybody near or anyone she knew," then Heinz should try to save
 her life, but he should not steal the drug. But as the interviewer
-
-Images ofRelationship
 
 conveys through the repetition of questions that the answers she
 gave were not heard or not right, Amy's confidence begins to di
@@ -2335,8 +2310,6 @@ storative activity of care, lead her to see the actors in the dilemma
 arrayed not as opponents in a contest of rights but as members of a
 network of relationships on whose continuation they all depend.
 Consequently her solution to the dilemma lies in activating the net-
-
-Images of Relationship
 
 work by communication, securing the inclusion of the wife by
 strengthening rather than severing connections.
@@ -2522,8 +2495,6 @@ somebody else in some way,
 and the way I'm choosing is
 through science.
 
-In a Different Voice
-
 Jake (cont.)
 to add that I live in [town], be
 cause that is a big part of me,
@@ -2566,8 +2537,6 @@ In the voice of the eleven-year-old boy, a familiar form of
 self-definition appears, resonating to the inscription of the young
 Stephen Daedalus in his geography book: "himself, his name and
 where he was," and echoing the descriptions that appear in Our
-
-Images ofRelationship
 
 Town, laying out across the coordinates of time and space a hierar
 chical order in which to define one's place. Describing himself as
@@ -2619,8 +2588,6 @@ something that you really,
 really want, then I think maybe
 you should put yourself first.
 But if it is your responsibility to
-
-In Q Different Voice
 
 Jake (cont.)
 
@@ -2683,8 +2650,6 @@ if the other people can get
 
 Jake (cont.)
 
-Images of Relationship
-
 Amy (cont.)
 
 somebody else to do it, what
@@ -2743,8 +2708,6 @@ tains to a limitation of action, a restraint of aggression, guided by
 the recognition that his actions can have effects on others, just as
 theirs can interfere with him. Thus rules, by limiting interference,
 
-In a Different Voice
-
 make life in community safe, protecting autonomy through reci
 procity, extending the same consideration to others and self.
 
@@ -2788,8 +2751,6 @@ she herself wants. Both children are concerned with avoiding
 hurt but construe the problem in different ways-he seeing hurt
 to arise from the expression of aggression, she from a failure
 of response.
-
-Images ofRelationship
 
 If the trajectory of development were drawn through either of
 
@@ -2974,8 +2935,6 @@ But since the women's perception of danger departs from the
 usual mode of expectation, the acrobats seeming to be in far greater
 danger than the man at his desk, their perception calls into ques-
 
-Images of Relationship
-
 tion the usual mode of interpretation. Sex differences in aggression
 are usually interpreted by taking the male response as the norm, so
 that the absence of aggression in women is identified as the prob
@@ -3018,8 +2977,6 @@ a problem with separation, makes it possible to see the prevalence
 of violence in men's stories, its odd location in the context of inti
 mate relationships, and its association with betrayal and deceit as
 indicative of a problem with connection that leads relationships to
-
-In Q Different Voice
 
 become dangerous and safety to appear in separation. Then rule
 bound competitive achievement situations, which for women
@@ -3067,8 +3024,6 @@ letting the woman slip out of his grasp in mid-fti8ht. She is
 killed in the incident but he feels no guilt, believing that he
 has rectified the situation.
 
-Images ofRelationship
-
 The prevalence of violence in male fantasy, like the explosive
 imagery in the moral judgment of the eleven-year-old boy and the
 representation of theft as the way to resolve a dispute, is consonant
@@ -3112,8 +3067,6 @@ terpreted." Yet raising the question of interpretation, Freud imme
 diately dispels the problem he posed, rejecting the primacy of a
 feeling of connection on the grounds that "it fits in so badly with
 the fabric of our psychology." On this basis, he subjects the feeling
-
-In a Different Voice
 
 to a "psychoanalytic-that is, a genetic explanation," deriving the
 feeling of connection from a more primary feeling of separation (p.
@@ -3161,8 +3114,6 @@ ness" that "forms the basis of every relation of affection and love
 among people," and this exception is located in women's experi
 ence, in ''the mother's relation to her male child" (p. 113). Once
 again women appear as the exception to the rule of relationships,
-
-Images of Relationship
 
 by demonstrating a love not admixed with anger, a love arising nei
 ther from separation nor from a feeling of being at one with the ex
@@ -3299,8 +3250,6 @@ the principal was told. Since this friend only beat up the other in
 response to provocation, not telling would subject him to reprisals
 that would in his case be unjust.
 
-In Q Different Voice
-
 In describing his dilemma, Jake focuses on whether or not it
 would be right in this instance to violate his standard of trying ''to
 practice what I preach," in this case of keeping his word that no
@@ -3346,8 +3295,6 @@ it? Help! I need my book for next class. Help! It's not here.
 Where is it?" And I think if you know that, it is more impor
 tant to tell, and you know you're not really tattling or any
 thing, because it's better, you know, to tell.
-
-Images of Relationship
 
 Just as her awareness of the other's cry for help makes the failure
 to tell a failure to care, so telling is not tattling when placed in this
@@ -3395,8 +3342,6 @@ daughter; I should be, as a college woman, aggressive and high
 powered and career-oriented." Yet as the feeling of being caught in
 the middle has turned, in her senior year, into a sense of being con-
 
-In Q Different Voice
-
 strained to act, of "being pushed to start making decisions for my
 self," she has "come to realize that all these various roles just aren't
 exactly right." Thus she concludes:
@@ -3439,8 +3384,6 @@ finds it "hard to start defining what I'm in the process of undefin
 ing," the self that, in the past, would "try to push my feelings under
 the rug" so as not to create any "repercussions." Describing herself
 as "loving," she is caught between the two contexts in which that
-
-Images ofRelationship
 
 term now applies: an underground world th~t sets her "apart from
 others, apart from their definitions of me," and a world of connec
@@ -3490,8 +3433,6 @@ In the process of seeking to "discover what's me," she has
 begun to "get rid of all these labels and things I just don't see on
 my own," to separate her perceptions from her former mode of in-
 
-In a Different Voice
-
 terpretation and to look more directly at others as well as herself.
 Thus, she has come to observe "faults" in her mother, whom she
 perceives as endlessly giving, "because she doesn't care if she hurts
@@ -3536,8 +3477,6 @@ Although Claire's judgments of Heinz's dilemma for the most
 part do not fit the categories of Kohlberg's scale, her understanding
 of the law and her ability to articulate its function in a systematic
 way earn her a moral maturity score of stage four. Five years later,
-
-Images ofRelationship
 
 when she is interviewed at the age of twenty-seven, this score is
 called into question because she subsumes the law to the considera
@@ -3584,8 +3523,6 @@ of care and connection. Joining the image of her mother with that
 of herself, she sees herself as a maternal physician, as preparing,
 like Amy, to become a scientist who takes care of the world.
 
-In a Different Voice
-
 In describing the resolution of a crisis that extended over a pe
 
 riod of years, she retraces her steps in order to explain her discov
@@ -3628,8 +3565,6 @@ Finding, in both the absence of feeling and in the presence of ha
 tred, no way to connect with others, she interprets her experience of
 despair as arising from the sense of disconnection that ensued, in
 part, from the failure of family relationships.
-
-Images of Relationship
 
 j7
 
@@ -3722,8 +3657,6 @@ verbalize the justification.
 Claire's inability to articulate her moral position stems in part from
 the fact that hers is a contextual judgment, bound to the particulars
 
-Images ofRelationship
-
 of time and place, contingent always on ''that mother" and that
 "unborn child" and thus resisting a categorical formulation. To her,
 the possibilities of imagination outstrip the capacity for generaliza
@@ -3768,8 +3701,6 @@ ing her friend to believe that she could count on Claire for help.
 Claire, realizing that she "really didn't like" her friend and that
 their value systems were ''very different," also recognized the reality
 
-In Q Different Voice
-
 of the relationship and the impossibility of being both honest and
 fair. The question of what to do hinged on a judgment of the rela
 tive hurt her actions would cause, to the friend and to the people
@@ -3813,8 +3744,6 @@ funny way monogamous feelings," but then adds that the real con
 flict was between two images of herself, "this virginal pure thing
 and this other side of myself that was sort of starting to blossom."
 The problem arose because she "was not able to make a decision at
-
-Images of Relationship
 
 that point of what I wanted to do." Stranded between two images
 of herself, she was caught between two worlds of relationship:
@@ -3907,8 +3836,6 @@ interconnection. But the power of the images of hierarchy and web,
 their evocation of feelings and their recurrence in thought, signifies
 the embeddedness of both of these images in the cycle of human
 life. The experiences of inequality and interconnection, inherent in
-
-Images of Relationship
 
 the relation of parent and child, then give rise to the ethics ofjus
 tice and care, the ideals of human relationship-the vision that self
@@ -4094,8 +4021,6 @@ a college senior responds:
 I have heard of the onion-skin theory. I see myself as an
 onion, as a block of different layers. The external layers are
 
-In a Different Voice
-
 for people that I don't know that well, the agreeable, the so
 cial, and as you go inward, there are more sides for people I
 know that I show. I am not sure about the innermost, whether
@@ -4189,8 +4114,6 @@ the resolution of real as opposed to hypothetical dilemmas. How
 ever, as long as the categories by which development is assessed are
 derived from research on men, divergence from the masculine s18n-
 
-In a Different Voice
-
 dard can be seen only as a failure of development. As a result, the
 thinking of women is often classified with that of children. The ab
 sence of alternative criteria that might better encompass the devel
@@ -4238,8 +4161,6 @@ that women have both judged themselves and been judged.
 
 The conflict between self and other thus constitutes the central
 
-Concepts of Self and Morality
-
 moral problem for women, posing a dilemma whose resolution re
 quires a reconciliation between femininity and adulthood. In the
 absence of such a reconciliation, the moral problem cannot be re
@@ -4283,8 +4204,6 @@ to bear children. Some women became pregnant due to the omis
 sion of contraceptive measures in circumstances where intercourse
 had not been anticipated. Some pregnancies coincided with efforts
 on the part of the women to end a relationship and may be
-
-In Q Different Voice
 
 seen as a manifestation of ambivalence or as a way of putting the
 relationship to the ultimate test of commitment. For these women,
@@ -4378,8 +4297,6 @@ ward a different understanding of moral development.
 
 The three moral perspectives revealed by the abortion decision
 
-In a Different Voice
-
 study denote a sequence in the development of the ethic of care.
 These different views of care and the transitions between them
 emerged from an analysis ofthe ways in which the women used moral
@@ -4422,8 +4339,6 @@ is in the end destructive to all, so the activity of care enhances both
 others and self.
 
 In its simplest construction, the abortion decision centers on
-
-Concepts of Self and Morality
 
 the self. The concern is pragmatic and the issue is survival. The
 woman focuses on taking care of herself because she feels that she
@@ -4468,8 +4383,6 @@ The primacy of the concern with survival is explicitly acknowl
 edged by Betty, a sixteen-year-old, in her judgment of Heinz's di
 lemma about stealing a drug to save the life of his wife:
 
-In Q Different Voice
-
 I think survival is one of the first things in life that people
 fight for. I think it is the most important thing, more impor
 tant than stealing. Stealing might be wrong, but if you have to
@@ -4512,8 +4425,6 @@ decision that I was going to have an abortion because I real
 ized how much responsibility goes with having a child. Like
 you have to be there; you can't be out of the house all the
 time, which is one thing I like to do. And I decided that I
-
-Concepts of Self and Morality
 
 have to take on responsibility for myself and I have to work
 out a lot of things.
@@ -4651,8 +4562,6 @@ for security" (p. 63). The strength of this position lies in its capacity
 for caring; the limitation of this position lies in the restriction it im
 poses on direct expression. Both qualities are elucidated by
 
-In a Different Voice
-
 Judy, a nineteen-year-old who contrasts her own reluctance to criti
 cize with her boyfriend's straightforwardness:
 
@@ -4742,8 +4651,6 @@ ing this time to make rather than abdicate the decision, she sees the
 issue as one of "strength," and she struggles to free herself from the
 powerlessness of her own dependence:
 
-In a Different Voice
-
 Right now I think of myself as someone who can become a lot
 stronger. Because of the circumstances, I just go along with
 the tide. I never really had anything of my own. before ... I
@@ -4788,8 +4695,6 @@ In separating the voice of the self from the voices of others,
 the woman asks if it is possible to be responsible to herself as well
 as to others and thus to reconcile the disparity between hurt and
 care. The exercise of such responsibility requires a new kind of
-
-Concepts of Self and Morality
 
 judgment, whose first demand is for honesty. To be responsible for
 oneself, it is first necessary to acknowledge what one is doing. The
@@ -4837,8 +4742,6 @@ what I am really doing." Asking herself, "Am I doing the right
 thing; is it moral?" Janet counterposes her beliefs about abortion to
 her concern with the consequences of continuing the pregnancy.
 Concluding that she cannot be "so morally strict as to hurt three
-
-In a Different Voice
 
 other people with a decision just because of my moral beliefs," she
 finds that the issue of goodness still remains critical to her resolu
@@ -4929,8 +4832,6 @@ tion. It took me about four and a half years to get my head on
 straight. There was just no way I was going to go through it again."
 The decision thus reduces in her eyes to a choice between mur-
 
-In a Different Voice
-
 dering the fetus or damaging herself. The choice is further compli
 cated by the fact that to continue the pregnancy would hurt not
 only herself but also her parents, with whom she lives. In the face
@@ -4971,8 +4872,6 @@ that you feel is morally wrong because the situation makes it
 right and put the two together. They are not together, they are
 opposite. They don't go together. Something is wrong, but all
 of a sudden, because you are doing it, it is right.
-
-Concepts of Self and Morality
 
 This discrepancy recalls a similar conflict she faced over the ques
 tion of euthanasia, which she also considered morally wrong until
@@ -5018,8 +4917,6 @@ fairly rational and objective," 'until she became involved in an in
 tense love affair and discovered in her capacity to love an "entirely
 new dimension" in herself. Admitting in retrospect to "tremendous
 naivete and idealism," she had entertained ''vague ideas that some
-
-In Q Different Voice
 
 day I would like a child to concretize our relationship, having al
 ways associated having a child with all the creative aspects of my
@@ -5110,8 +5007,6 @@ tion is also precarious in that it is "highly introverted." Having an
 abortion "would be going a step backward," whereas "going out
 side to love someone else and having a child would be a step
 
-In a Different Voice
-
 forward." The sense of retrenchment that the severing of connec
 tion signifies is apparent in her anticipation of the cost that
 abortion will entail:
@@ -5157,8 +5052,6 @@ unfinished business of an earlier pregnancy and of the relationship
 in which both pregnancies occurred. Sarah had discovered the first
 pregnancy after her lover left her, and she terminated it by an abor-
 
-Concepts of Self and Morality
-
 lion which she experienced as a purging expression of her anger at
 having been rejected. Remembering the abortion only as a relief,
 she nevertheless describes that time in her life as one in which she
@@ -5200,8 +5093,6 @@ the child:
 Well, the pros for having the baby are all the admiration that
 you would get from being a single woman, alone, martyr,
 struggling, having the adoring love of this beautiful Gerber
-
-In Q Different Voice
 
 baby. Just more of a horne life than I have had in a long time,
 and that basically was it, which is pretty fantasyland. It is not
@@ -5246,8 +5137,6 @@ self is. Usually paying off some sort of debt, going around
 serving people who are not really worthy of my attention, be..
 cause somewhere in life I think I got the impression that my
 
-Concepts of Self and Morality
-
 needs are really secondary to other people's, and that if I feel,
 if I make any demands on other people to fulfill my needs, I'd
 feel guilty for it and submerge my own in favor of other peo
@@ -5289,8 +5178,6 @@ more self-determined person and a more singular person.
 Within her old framework, abortion seemed a way of "cop
 ping out," saving her from being a responsible person who "pays
 for her mistakes, and pays and pays, and is always there when she
-
-In a Different Voice
 
 says she will be there, and even when she doesn't say she will be
 there is there." Within the new framework, her conception of her
@@ -5335,8 +5222,6 @@ ing a confrontation with choice, the abortion crisis can become a
 learning, a teeing-off point, which makes it useful in a way." The
 same sense of a possibility for growth in this crisis is expressed by
 other women, who arrive through this encounter with choice at a
-
-Concepts of Self and Morality
 
 new understanding of relationships and speak of their sense of "a
 new beginning," a chance "to take control of my life."
@@ -5386,8 +5271,6 @@ The reality of hurt centers the judgment of Ruth, a twenty
 nine-year-old married woman and the mother of a preschool child,
 as she struggles with the dilemma posed by a second pregnancy
 whose timing conflicts with her completion of an advanced degree.
-
-In a Different Voice
 
 Saying that she "cannot deliberately do something that is bad or
 would hurt another person because I can't live with having done
@@ -5472,8 +5355,6 @@ abortion dilemma.then directs her attention to what it means in this
 society to be a woman and to be an adultt and the recognition of
 the disparity between power and care initiates the search for a reso-
 
-In Q Different Voice
-
 lution that can encompass both femininity and adulthood, in rela
 tionships and at work.
 
@@ -5518,8 +5399,6 @@ creating the kind of environment, interaction between people,
 that is prerequisite to the fulfillment of most individual goals.
 If you want other people not to interfere with your pursuit of
 whatever you are into, you have to play the game.
-
-Concepts of Self and Morality
 
 In contrast, Diane, a woman in her late twenties, defines a
 

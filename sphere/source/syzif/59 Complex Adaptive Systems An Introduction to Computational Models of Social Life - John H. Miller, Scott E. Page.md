@@ -8,12 +8,6 @@ Complex Adaptive Systems
 
 i
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 p r i n c e t o n s t u d i e s i n c o m p l e x i t y
 
 s e r i e s e d i t o r s
@@ -54,12 +48,6 @@ An Introduction to Computational Models of Social Life
 
 ii
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 Complex Adaptive Systems
 
 an introduction to computational
@@ -73,13 +61,7 @@ p r i n c e t o n a n d o x f o r d
 
 iii
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
-Copyright c(cid:1) 2007 by John H. Miller and Scott E. Page
+Copyright c2007 by John H. Miller and Scott E. Page
 
 Requests for permission to reproduce material from this work should be sent to
 Permissions, Princeton University Press
@@ -114,29 +96,11 @@ Printed in the United States of America
 
 iv
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 To George Cowan
 
 v
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 vi
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 Contents
 
@@ -198,12 +162,6 @@ xv
 
 xvii
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 viii
 
 • Contents
@@ -262,12 +220,6 @@ Social Systems
 7.2.2 Fixed, Homogeneous Rules
 7.2.3 Homogeneous Adaptation
 7.2.4 Heterogeneous Adaptation
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 Contents
 
@@ -335,12 +287,6 @@ ix
 
 10.6 The Full Monty
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 x • Contents
 
 11 Some Fundamentals of Organizational Decision Making
@@ -400,12 +346,6 @@ A.10 When Does Coevolution Work?
 A.11 When Does Updating Matter?
 A.12 When Does Heterogeneity Matter?
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 Contents
 
 • xi
@@ -452,19 +392,7 @@ Bibliography
 
 Index
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 xii
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 Figures
 
@@ -504,19 +432,7 @@ Figures
 12.3. Political landscapes and platform search
 12.4. Coevolution and learning
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 xiv
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 Tables
 
@@ -560,12 +476,6 @@ Tables
 9.12. An avalanche with T = 2 and k = 1
 9.13. Avalanche size given landing spot and configuration
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 xvi
 
 • Tables
@@ -576,12 +486,6 @@ xvi
 11.2. Problem solving for 3n2bH organizations
 11.3. Problem distribution for 3n2bH organizations
 11.4. Problem accuracy on four-bit inputs
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 Preface
 
@@ -626,12 +530,6 @@ During the past decade we have hosted an annual graduate workshop
 in computational modeling. In these workshops, we collaborated with
 a diverse set of graduate students who are interested in applying
 new computational modeling techniques to key problems in the social
-
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
 
 xviii
 
@@ -682,12 +580,6 @@ and Jonathan Lafky provided some detailed input. Chuck Myers at
 Princeton University Press has also provided wonderful encouragement and direction, and Brian MacDonald thoughtfully copyedited the
 manuscript.
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 Preface
 
 • xix
@@ -703,12 +595,6 @@ Fe Institute; Michele Colon, Carole Deaunovich, Amy Patterson, Rosa
 Stipanovic, and Julie Wade at Carnegie Mellon University; and Mita
 Gibson and Howard Oishi at the University of Michigan.
 
-January 2, 2007
-
-Time: 09:26am
-
-prelims.tex
-
 xx
 
 December 5, 2006
@@ -720,18 +606,6 @@ chapter01.tex
 P A R T I
 
 Introduction
-
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
 
 C H A P T E R 1
 
@@ -777,13 +651,7 @@ define complex systems, for the moment we will rely on Supreme Court
 Justice Stewart's words in his concurring decision on a case dealing with
 obscenity (Jacobellis v. Ohio, 1964): "I shall not today attempt further
 
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-4 (cid:127) Chapter 1
+4 Chapter 1
 
 to define the kinds of material I understand to be embraced within that
 shorthand description; and perhaps I could never succeed in intelligibly
@@ -829,13 +697,7 @@ scientific statement, regardless of their scientific underpinnings. Indeed,
 entire literatures have undergone successive refinements and scientific
 degradation, during each generation of which the original theoretical
 
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-Introduction (cid:127) 5
+Introduction 5
 
 .1. Adam Smith and The Wealth of Nations (1776). Smith's writings
 represent one of the earliest coherent descriptions of complexity in social
@@ -864,13 +726,7 @@ these must be earned by carefully considering the ability of the new
 models to help us understand and predict the questions that we hold
 most dear.
 
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-6 (cid:127) Chapter 1
+6 Chapter 1
 
 The science of complex systems is a rapidly evolving area, in terms
 of both domains and methods. The interest in this area, as well as its
@@ -918,13 +774,7 @@ sophisticated lay reader. Whether you are a graduate student or faculty
 member in the social sciences trying to understand better what complex
 systems is about and how it could be used, an engineer hoping to improve
 
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-Introduction (cid:127) 7
+Introduction 7
 
 your models of processes by using social agents, or someone interested in
 business, economics, or politics who wants a deeper understanding of the
@@ -980,13 +830,7 @@ and so on—are complex. Each of these domains consists of a set of
 diverse actors who dynamically interact with one another awash in a sea
 of feedbacks. To understand, and ultimately to harness, such complexity
 
-December 5, 2006
-
-Time: 09:27am
-
-chapter01.tex
-
-8 (cid:127) Chapter 1
+8 Chapter 1
 
 will require a sustained and imaginative effort on the part of researchers
 across the sciences.
@@ -1047,13 +891,7 @@ powerful organizing force that can overcome a variety of changes to the
 lower-level components. In a garden, if we eliminate an insect the vacated
 niche will often be filled by another species and the ecosystem will
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-10 (cid:127) Chapter 2
+10 Chapter 2
 
 continue to function; in a market, we can introduce new kinds of traders
 and remove old traders, yet the system typically maintains its ability to
@@ -1100,16 +938,6 @@ appear to arise spontaneously.1 Although in the grand scheme of things
 
 Congress, where such behavior is a bit more orchestrated.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 11
-
 standing ovations may not seem all that important, they do have some
 important parallels in the real world that we will discuss later. Moreover,
 they provide a convenient starting point from which to explore some key
@@ -1130,8 +958,8 @@ A typical mathematical model of a standing ovation might take the
 following tack. Assume an audience of N people, each of whom receives
 a signal that depends on the actual quality of the performance, q. Let
 si (q) give the signal received by person i. We might further specify the
-signal process by, say, assuming a functional form such as si (q) = q + (cid:1)i ,
-where (cid:1)i is a normally distributed random variable with a mean of zero
+signal process by, say, assuming a functional form such as si (q) = q + i ,
+where i is a normally distributed random variable with a mean of zero
 and standard deviation of σ . To close the model, we might hypothesize
 that in response to the signal, each person stands if and only if si (q) > T,
 where T is some critical threshold above which people are so moved by
@@ -1159,13 +987,7 @@ update them using the information gathered by observing the behavior
 of others. We will avoid such complications here and just assume that α
 exists for whatever reason.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-12 (cid:127) Chapter 2
+12 Chapter 2
 
 Our elaborated model provides some new insights into the world. If
 the initial group of people standing exceeds α percent, then everyone
@@ -1206,23 +1028,13 @@ because the friendships were initially forged based on common traits.
 
 Assuming that individuals now have locations and friends introduces
 an important new source of heterogeneity. In the mathematical model,
-the only heterogeneity came from the different draws of (cid:1)i . Now, even
+the only heterogeneity came from the different draws of i . Now, even
 "identical" individuals begin to behave in quite different ways, depending
 on where, and with whom, they are seated.
 
 2We once had a group of economics graduate students model the standing ovation. Not
 one of them allowed the possibility of people attending the theater with acquaintances. We
 hope this is more a reflection of how economists are trained than of how they live.
-
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 13
 
 .1. Two views of modeling the standing ovation. In its simplest
 form, the model requires that everyone shares the same seat in the auditorium
@@ -1256,13 +1068,7 @@ on others yet also have the least visual information, whereas those in
 the back with the most information have the least influence (think of the
 former as celebrities and the latter as academics).
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-14 (cid:127) Chapter 2
+14 Chapter 2
 
 The second model provides a number of new analytic possibilities. Do
 performances that attract more groups lead to more ovations? How does
@@ -1308,16 +1114,6 @@ While differences can cancel out, making the average a good predictor
 of the whole, this is not always the case. In complex systems we often
 see differences interacting with one another, resulting in behavior that
 deviates remarkably from the average.
-
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 15
 
 To see why, we can return to our bees. Genetic diversity in bees
 produces a collective benefit that plays a critical function in maintaining
@@ -1366,13 +1162,7 @@ hive.3 Some bees go through a maturation stage in which they guard the
 (1978) and Lohmann (1993). Unlike the previous example, the direct applicability to bees
 is more speculative on our part.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-16 (cid:127) Chapter 2
+16 Chapter 2
 
 entrances to the hive for a short period of time. When a threat is sensed,
 the guard bees initiate a defensive response (from flight, to oriented flight,
@@ -1421,16 +1211,6 @@ providing defense, have very different behaviors linked to heterogeneity.
 In the temperature system, heterogeneity leads to stability. That is,
 increased heterogeneity improves the ability of the system to stabilize
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 17
-
 on a given temperature. In the defense system, however, heterogeneity
 induces instability, with the system likely to experience wild fluctuations
 in response to minute stimuli.
@@ -1478,13 +1258,7 @@ ends up consuming her less-preferred meal (see figure 2.2).
 
 chile "Christmas."
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-18 (cid:127) Chapter 2
+18 Chapter 2
 
 Town A
 
@@ -1525,16 +1299,6 @@ themselves and self-select the town that perfectly meets their chile needs.
 This leaves one town offering green chile populated by four green chile
 lovers and one town offering red chile with two red chile lovers, and all
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 19
-
 Town A
 
 Town B
@@ -1573,13 +1337,7 @@ the towns, although this latter "choice" is not a conscious calculation
 of the system per se, but rather an implicit computation resulting from
 the decentralized choices made by each citizen and town. The model also
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-20 (cid:127) Chapter 2
+20 Chapter 2
 
 demonstrates how a social system can get locked into an inferior outcome
 and how, with the introduction of noise or different behavioral rules,
@@ -1626,16 +1384,6 @@ the modeling, it also can be quite limiting. The formal mathematical
 approach works best for static, homogeneous, equilibrating worlds. Even
 in our very simple example, we are beginning to violate these desiderata.
 Thus, if we want to investigate richer, more dynamic worlds, we need
-
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 21
 
 to pursue other modeling approaches. The trade-off, of course, is that
 we must weigh the potential to generate new insights against the cost of
@@ -1691,13 +1439,7 @@ or where, in a system of proportional representation, the final platform
 offered by the town is a blend, weighted by votes, of each individual
 party's platform.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-22 (cid:127) Chapter 2
+22 Chapter 2
 
 Again, we impose a simple dynamic on the system: the citizens in
 a town, mediated by the choice mechanism, determine what the town
@@ -1746,12 +1488,6 @@ To develop some needed intuition, consider the following. If we are
 interested in maximizing the overall happiness of our citizens with
 multiple towns, we must achieve two ends. First, we need to sort
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
 e
 m
 o
@@ -1771,10 +1507,6 @@ l
 a
 u
 Q
-
-Complexity in Social Worlds
-
-(cid:127) 23
 
 Proportional Representation
 
@@ -1821,13 +1553,7 @@ issue positions across the local voters.
 In fact, the choice mechanisms that work best in our more complicated
 model have a subtle, but key, property. These mechanisms tend to
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-24 (cid:127) Chapter 2
+24 Chapter 2
 
 introduce noise into the system when the local citizens' preferences are
 heterogeneous and to reduce this noise as the citizens become more
@@ -1875,16 +1601,6 @@ towns, and differing choice mechanisms on the ability of a system to
 achieve high social welfare. Second, the more elaborate model provided
 some new insights into how such systems behave, the most important
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 25
-
 being the idea that well-structured noise can jolt a system out of inferior
 equilibria and lead it toward superior ones, and that choice mechanisms
 can be designed to introduce such noise in a decentralized way. This
@@ -1929,13 +1645,7 @@ and was enhanced by, more conventional techniques.
 elaborate computational model. Based on that experience, we were able to develop the
 thought experiment with which we opened this section.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-26 (cid:127) Chapter 2
+26 Chapter 2
 
 2.4 New Directions
 
@@ -1983,16 +1693,6 @@ some convoluted reasoning) are considered unimportant. The difficulty
 of answering any particular scientific question is often tied to the tools
 we have at hand. A given set of tools quickly sorts problems into those
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 27
-
 we could possibly answer and those we perceive as too difficult to ever
 sort out. As tools change, so does the set of available questions.
 
@@ -2035,13 +1735,7 @@ system. Agents in social systems typically interact in highly nonlinear
 ways. Of course, there are examples, such as when people call one
 another during the course of a normal day, where agent behavior aggregates in ways that are easily described via simply statistical processes.
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-28 (cid:127) Chapter 2
+28 Chapter 2
 
 Nonetheless, a lot of social behavior, especially with adaptive agents,
 generates much more complex patterns of interaction. Sometimes this
@@ -2088,16 +1782,6 @@ somewhere in between these two extremes. How can we best explore
 this middle ground? A key issue in exploring this new territory is figuring
 out the commonalities among adaptive agents. While it is easy to specify
 behavior at the extremes, as we move into the middle ground, we are
-
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 29
 
 suddenly surrounded by a vast zoo of curious adaptive creatures. If we
 are stuck having to study every creature individually, it will be difficult
@@ -2147,13 +1831,7 @@ construct such niches.
 The role of control on social worlds is also of interest. The ability to
 direct the global behavior of a system via local control is perhaps one
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-30 (cid:127) Chapter 2
+30 Chapter 2
 
 of the most impressive, yet mysterious, features of many social systems.
 In the natural world, tens of thousands of swarm-raiding army ants
@@ -2202,30 +1880,12 @@ Much of the work we discuss throughout this book relaxes the
 traditional assumptions about information acquisition, processing, and
 acting. We want to consider models in which information is selectively
 
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-Complexity in Social Worlds
-
-(cid:127) 31
-
 acquired across restricted channels of communication. We want to look
 at agents that process information via adaptive mechanisms or restricted
 rules rather than exacting logic. We want to explore models in which
 actions are often limited and localized. How do all of these factors
 embody social complexity and what does this mean for the practice of
 social science?
-
-December 7, 2006
-
-Time: 12:59pm
-
-chapter02.tex
-
-December 5, 2006
 
 Time: 10:45am
 
@@ -2248,18 +1908,6 @@ concepts for readers, the ordering is a bit arbitrary as the full context
 for these discussions is not developed until later in the book. Thus, some
 readers may prefer to skip ahead at this point and come back to these
 chapters at a later time.
-
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
 
 C H A P T E R 3
 
@@ -2305,13 +1953,7 @@ because." Of course, the art of good science is knowing when to say
 right moment, the sand underlying our model's foundation will turn
 to stone.
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-36 (cid:127) Chapter 3
+36 Chapter 3
 
 Systems, whether scientific models or real-world entities, that do
 not have sufficient underlying structure are very unstable, difficult to
@@ -2357,13 +1999,7 @@ contours, waterways, and foot paths.
 As we successively add more overlays, the map gains more and more
 detail at a cost of more distractions and difficulty disentangling useful
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-Modeling (cid:127) 37
+Modeling 37
 
 .1. Maps as models. A topographic map (right) takes the detailed
 reality of an aerial photograph (left) and distills it down to a few key features
@@ -2401,13 +2037,7 @@ the Inclemencies of Sun and Winters." Jorge Luis Borges and Adolfo Bioy Casares,
 Exactitude in Science (1946), English translation from Jorge L. Borges, A Universal History
 of Infamy (London: Penguin Books, 1975).
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-38 (cid:127) Chapter 3
+38 Chapter 3
 
 Time t
 
@@ -2459,13 +2089,7 @@ transition function F (S) that maps a given state at time t into a new state
 
 it still took another hundred years before the full hypothesis was introduced.
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-Modeling (cid:127) 39
+Modeling 39
 
 at time t + 1. The function F (S) is unknown to the modeler, and while
 the modeler would like to uncover F (S), this will typically be impossible
@@ -2490,11 +2114,11 @@ low- and high-pressure areas abut, the humidity increases and the two
 pressures begin to equilibrate.
 
 The success of a particular model is tied to its ability to capture the
-behavior of the real world. Suppose we begin with real-world state S(cid:1).
-The model transforms this state into s(cid:1) = E(S(cid:1)) and then predicts that
-we will find ourselves in state f (s(cid:1)) in the next time period. In the real
-world, state S(cid:1) becomes state F (S(cid:1)) in the next time period. Thus, the
-model "coincides" with the real world if f (E(S(cid:1))) = E(F (S(cid:1))), that is,
+behavior of the real world. Suppose we begin with real-world state S.
+The model transforms this state into s= E(S) and then predicts that
+we will find ourselves in state f (s) in the next time period. In the real
+world, state Sbecomes state F (S) in the next time period. Thus, the
+model "coincides" with the real world if f (E(S)) = E(F (S)), that is,
 if we end up at the same model state regardless of whether we (1) first
 transform the initial real-world state into its equivalence class and then
 run it through the model's transition function, or (2) first allow the realworld state to be transitioned to its next state and then map this state,
@@ -2511,13 +2135,7 @@ classes to collapse this space down to, say, measures of pressure and
 humidity. We next develop notions of how patterns of pressure
 and humidity are transformed over time. This model has a homomorphism if on any given day we can predict the pressure and humidity in
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-40 (cid:127) Chapter 3
+40 Chapter 3
 
 the next time period knowing the pressure and humidity now and that
 prediction matches the actual pressure and humidity observed.
@@ -2564,21 +2182,13 @@ The proceding principles of modeling are key to developing a scientific
 understanding of a system, whether it is simple or complex. One view
 of modeling complex systems, which (at least implicitly) is held by many
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-Modeling (cid:127) 41
+Modeling 41
 
 Time t
 
 F
 
 Time t + 1
-
-X
 
 f
 
@@ -2612,13 +2222,7 @@ modeling complex systems are shown in figure 3.3. The upper part of
 the panel is identical to that of figure 3.2, and it shows a real system
 and its associated model. The lower part of the panel represents a higherlevel system. Each element of this new system is derived from interactions
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-42 (cid:127) Chapter 3
+42 Chapter 3
 
 among the entities in the low-level system. For example, at some point
 the weather patterns of barometric pressure and humidity discussed
@@ -2660,13 +2264,7 @@ lines of code, if done well it can still embody the simplicity and elegance
 that is demonstrated in a mathematical model existing in only a few
 equations.
 
-December 5, 2006
-
-Time: 10:45am
-
-chapter03.tex
-
-Modeling (cid:127) 43
+Modeling 43
 
 Having an explicit awareness of
 
@@ -2678,8 +2276,6 @@ a brain teaser. Finding such solutions is often an extremely difficult task
 involving a combination of theory, practice, and a bit of art. Yet, once
 discovered, the answer has strong intuitive appeal and appears all too
 obvious.
-
-December 5, 2006
 
 Time: 11:07am
 
@@ -2731,16 +2327,6 @@ with a tiny picture whose overall properties can approximate the key
 
 1For the more romantic among you, assume a stained glass window.
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-On Emergence
-
-(cid:127) 45
-
 .1. Emergence from a mosaic. While the properties of each tile are easy
 to understand at close range, the true nature of the full image is impossible to
 comprehend from such information. It is only when you view the mosaic from
@@ -2775,13 +2361,7 @@ often chaotic and heterogeneous efforts of traders.
 
 2The technique of photomosaic pictures exploits this idea.
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-46 (cid:127) Chapter 4
+46 Chapter 4
 
 Alas, surprise and ignorance are closely related. It could be that
 emergent behavior is simply reflective of scientific ignorance rather than
@@ -2830,21 +2410,11 @@ that the common distribution has mean µ; other than that, we can vary
 any of its other characteristics and still maintain the identical aggregate
 behavior.
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
 Histogram n = 1
 
 Histogram n = 2
 
 Histogram n = 30
-
-On Emergence
-
-(cid:127) 47
 
 0.05 0.25 0.45 0.65 0.85 more 0.05 0.25 0.45 0.65 0.85 more 0.05 0.25 0.45 0.65 0.85 more
 
@@ -2929,13 +2499,7 @@ of complexity that Weaver (1958), in a deeply prescient article, called
 disorganized complexity. The Law of Large Numbers works because as
 we add more and more independent agents to the world, the vagaries
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-48 (cid:127) Chapter 4
+48 Chapter 4
 
 of the stochastic elements, quite literally, average out. With only a
 few agents, these stochastic elements make it impossible to predict
@@ -2983,16 +2547,6 @@ in caricature drawings.
 Nonetheless, while we can make some slight changes to the pixels
 (or even some carefully designed radical changes) and still maintain the
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-On Emergence
-
-(cid:127) 49
-
 .3. Beyond disorganized complexity. The essence of the photograph
 remains robust to a variety of radical changes. All of these transformations keep
 intact the relationship of key parts of the original photograph (left).
@@ -3027,13 +2581,7 @@ properties of interacting agents—for want of a better term, organized
 complexity. We often see unanticipated statistical regularities emerging in
 complex systems. These regularities go beyond the usual bounds covered
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-50 (cid:127) Chapter 4
+50 Chapter 4
 
 by Central Limit Theorems and such. In chapter 9 we explore a model of
 sand piles in which we randomly drop grains of sand onto a table. A pile
@@ -3083,16 +2631,6 @@ realize the practical importance of this distinction. The world in which Long-Te
 Management played was one governed by fat-tailed distributions, not the Central Limit
 Theorem.
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-On Emergence
-
-(cid:127) 51
-
 an assumption introduces a feedback into the system, whereby customers
 who find themselves in the crowded store begin to shop at the other
 store. To avoid some odd system-level behavior, we allow only a single
@@ -3141,13 +2679,7 @@ there are many canonical examples of "large events" that arise in social
 
 customers as they overreact to crowding.
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-52 (cid:127) Chapter 4
+52 Chapter 4
 
 .4. Gliders in the Game of Life. A glider in the Game of Life is a
 configuration of live cells that "moves" across the space. During each successive
@@ -3185,16 +2717,6 @@ that we can ignore the underlying microlevel rules that generated them
 and instead rely on the resulting global structures to predict systemwide
 behavior (see, for example, figure 4.4).
 
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-On Emergence
-
-(cid:127) 53
-
 As discussed previously, we have access to some useful "emergence"
 theorems for systems that display disorganized complexity. However, to
 fully understand emergence, we need to go beyond these disorganized
@@ -3209,14 +2731,6 @@ empirical and experimental, that under organized complexity, systems
 can exhibit aggregate properties that are not directly tied to agent details,
 a sound theoretical foothold from which to leverage this observation is
 only now being constructed.
-
-December 5, 2006
-
-Time: 11:07am
-
-chapter04.tex
-
-December 5, 2006
 
 Time: 11:25am
 
@@ -3233,18 +2747,6 @@ become the frontier, and computational models have become much more
 widely accepted among social scientists. Nonetheless, we feel that it is still
 useful to outline some of the foundations of this approach, as accessible
 discussions are hard to find in the literature.
-
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
 
 C H A P T E R 5
 
@@ -3288,13 +2790,7 @@ of building lessened the likelihood of building collapses, it also began
 to constrain the design choices of architects. The various components
 had to fit together in particular ways, and alterations required massive
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-58 (cid:127) Chapter 5
+58 Chapter 5
 
 reworking of the fundamental elements, not to mention the scorn of the
 building inspectors. Inevitably, housing design became less concerned
@@ -3343,13 +2839,7 @@ widely accepted, their foundations tend to be rarely revisited and even
 get forgotten by new generations of users. This is unfortunate, as a clear
 knowledge of the foundations often enhance the resulting theory.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 59
+Computation as Theory 59
 
 Much of the discussion in this chapter compares computational models
 to more traditional mathematical modeling techniques, in particular, the
@@ -3394,13 +2884,7 @@ reconvene, that their various solutions share a remarkable similarity. Of
 course, consensus does not necessarily imply correctness. Nonetheless,
 the possession of a tool that simplifies the development and refinement
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-60 (cid:127) Chapter 5
+60 Chapter 5
 
 of theories concerning complex questions is an important step forward
 in developing a science of society, and it remains one of the most
@@ -3449,13 +2933,7 @@ tools we used to derive them.
 that of E. coli in biology or Drosophila in genetics, serving as a marvelous experimental
 playground for social theorists.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 61
+Computation as Theory 61
 
 We often have attachments to particular tools even when they produce
 the same outcomes. For example, even though the physical appearance
@@ -3504,13 +2982,7 @@ economist with the exact solution was quite surprised to hear of
 
 problem, this argument fails.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-62 (cid:127) Chapter 5
+62 Chapter 5
 
 the compact approximation derived by the physicist. Both tools were
 able to "solve" the problem, albeit in different ways, and eventually,
@@ -3559,13 +3031,7 @@ restrictive to capture either the reality or the potential of what other
 fields like physics have to offer in terms of ways to approach theoretical
 questions in the social sciences.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 63
+Computation as Theory 63
 
 Theoretical physicists are concerned with, and rewarded by, finding
 insights about nature through the creation of models and the generation
@@ -3613,13 +3079,7 @@ this mathematical branch supplies important clarifications and new
 theoretical directions, though more often than not its main focus is
 on taking previous theoretical statements and putting them in a more
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-64 (cid:127) Chapter 5
+64 Chapter 5
 
 rigorous context. Perhaps not too surprisingly, the theoretical branch
 seems to display a fair amount of indifference to this activity, viewing
@@ -3665,13 +3125,7 @@ acceptance.
 There are many applications of computation in theory (versus computation as theory), and to avoid confusion we will attempt to distinguish
 clearly among them (though some fuzziness will remain). First, it is
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 65
+Computation as Theory 65
 
 useful to note that the use of a computer is neither a necessary nor a
 sufficient condition for us to consider a model as computational. Thus,
@@ -3719,13 +3173,7 @@ by allowing the objects to interact directly with one another using
 computation. When computation is applied to such problems, it very
 much becomes part of the theory.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-66 (cid:127) Chapter 5
+66 Chapter 5
 
 The second property suggested for our computational models—
 namely, the need to allow the objects to interact directly with one
@@ -3771,13 +3219,7 @@ to some inherent characteristics of the actual image. In some cases, the
 easiest way to "know" the window is to assemble the entire thing piece
 by piece.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 67
+Computation as Theory 67
 
 Table 5.1
 Computation as Theory
@@ -3837,13 +3279,7 @@ the discussion in the previous section.
 In the world of computation as theory, we find a variety of ongoing efforts. A main focus of the artificial-life community is the
 creation of relatively complicated systems of agent-based object models
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-68 (cid:127) Chapter 5
+68 Chapter 5
 
 Real World
 
@@ -3881,13 +3317,7 @@ to provoke intense objections by some researchers. Here we attempt to
 address some of the usual objections to computation as theory. In the
 next chapter, we take a more proactive view of these methods.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 69
+Computation as Theory 69
 
 5.3.1 Computations Build in Their Results
 
@@ -3936,13 +3366,7 @@ adaptive mechanisms. Such frameworks are rich in possibilities.
 
 deterministic random-number generators.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-70 (cid:127) Chapter 5
+70 Chapter 5
 
 By way of an analogy, consider giving students some clay and telling
 them either to make a coffee mug or an object suitable for drinking a
@@ -3991,13 +3415,7 @@ mechanisms. Given the newness of many computational approaches,
 there has yet to emerge an agreed-upon set of standards. There are a
 number of techniques that have been, and are being, developed to make
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 71
+Computation as Theory 71
 
 sure that computational claims are valid, and we discuss some of these
 "standards" in appendix B.
@@ -4046,13 +3464,7 @@ structure and original purpose. Well-designed models capture just enough
 of the problem to be useful and avoid relying too heavily on any specific
 implementation details of the theoretical tools used in their creation. Such
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-72 (cid:127) Chapter 5
+72 Chapter 5
 
 models are able to flow naturally into other domains, regardless of the
 modeling substrate.
@@ -4100,12 +3512,6 @@ the result. Another approach to prevent brittleness is to "dock" two
 different models on a common problem, by altering both models until
 their results converge (Axtell et al., 1996).
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
 3 x 1010
 
 2 x 1010
@@ -4135,7 +3541,7 @@ e
 r
 P
 
-Computation as Theory (cid:127) 73
+Computation as Theory 73
 
 hc2000.median
 
@@ -4176,13 +3582,7 @@ In both cases we can make refutable predictions.
 Consider the familiar model of supply and demand from economics.
 Equilibrium theory suggests that the market price and quantity will
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-74 (cid:127) Chapter 5
+74 Chapter 5
 
 equilibrate where the quantity demanded just meets the quantity supplied. Using this notion, we can do comparative statics. When, say, the
 price of a substitute commodity rises, we would predict that the demand
@@ -4229,13 +3629,7 @@ new sellers with some probability. Neither buyers nor sellers would have
 elaborate models of prices. Instead, sellers would adjust prices and buyers
 would adjust purchases by some crude means.
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 75
+Computation as Theory 75
 
 Any given outcome of this model would differ from others depending
 upon the random features inherent in the rules. This does not mean
@@ -4287,13 +3681,7 @@ analyzing the key temporal and spatial patterns that emerge in the model.
 While the human mind is quite adept at recognizing such patterns, we do
 not yet have a suite of easily applied statistical tools that can assist in this
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-76 (cid:127) Chapter 5
+76 Chapter 5
 
 task. Such tools, along with advancing the study of complex systems, are
 also likely to have a variety of more direct empirical applications, such as
@@ -4340,13 +3728,7 @@ core propositions that we need to focus on and communicate.
 Computation as theory has an enormous potential for allowing us to
 investigate and understand better key phenomena, especially in complex
 
-December 5, 2006
-
-Time: 11:25am
-
-chapter05.tex
-
-Computation as Theory (cid:127) 77
+Computation as Theory 77
 
 adaptive social systems. While computation as theory can have many
 meanings, and surely over time it will acquire new ones, the focus of the
@@ -4381,8 +3763,6 @@ complex adaptive social systems.
 4There are many existing references, such as Judd (1998), that cover the numerical
 
 methods aspects of social science computation.
-
-December 7, 2006
 
 Time: 09:29am
 
@@ -4431,15 +3811,7 @@ gain new insights into complex adaptive social systems.
 An important feature of any theoretical tool is its trade-off between
 flexibility and precision. Flexibility occurs when the model can capture a
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 79
 
 Table 6.1
 Modeling Potential
@@ -4495,13 +3867,7 @@ complete—that is, able to be encoded by a general purpose computer
 language. At the same time, computational models also require a high
 degree of precision. The computer program contains all the information
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-80 (cid:127) Chapter 6
+80 Chapter 6
 
 about the assumptions of the model
 in a relatively compact form.
@@ -4548,15 +3914,7 @@ which to make theoretical progress. Much of the creativity required for
 
 1Thus, there are no guarantees that the program is logical given the goals of the model.
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 81
 
 developing such models is in finding a good way to represent the key
 issues (in computational learning, this is known as the "representation
@@ -4604,13 +3962,7 @@ camper is not so much to outrun the bear as it is to outrun each other.
 
 reason to doubt even this assumption.
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-82 (cid:127) Chapter 6
+82 Chapter 6
 
 Clearly, the evolution-leads-to-perfection argument is one that is worthy
 of testing directly, as knowing the exact conditions under which it holds
@@ -4659,15 +4011,7 @@ ways.
 The quest for understanding better the features of adaptation that lead
 to common behavior is a key scientific question. At the moment, the
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 83
 
 evidence from computational models hints at the potential existence of
 a large equivalence class of adaptive behavior. If such a hypothesis is
@@ -4714,13 +4058,7 @@ ball is hit to the place on the field where the ball will land. Instead,
 a common outcome. Thus, they are similar to watersheds—regions of land where water
 drains to a common outlet—in the physical world.
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-84 (cid:127) Chapter 6
+84 Chapter 6
 
 studies (for example, McBeath et al., 1995) indicate that outfielders
 run in an arc-shaped path that is consistent with a simple, vision-based
@@ -4767,15 +4105,7 @@ are able to incorporate heterogeneous agents easily.
 Whether we actually need to model heterogeneity is an important research question. It may be the case that given sufficient agent
 heterogeneity, the aggregate behavior of the system may no longer depend
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 85
 
 on the various details of each agent, and abstracting this behavior into
 a single representative agent is feasible. This is an open question, and
@@ -4823,13 +4153,7 @@ Being able to manipulate easily the scaling of our models may promote
 the discovery of key scaling laws for complex adaptive systems. In
 biology, the branching features of a variety of respiratory systems scale as
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-86 (cid:127) Chapter 6
+86 Chapter 6
 
 a fixed power of body size across at least twenty-five orders of magnitude.
 In economics, city and firm size distributions appear to follow wellknown scaling relations. Computational models may offer a suitable
@@ -4871,15 +4195,7 @@ real world. Nonetheless, Epstein (1999) argues that this "generative"
 approach—that is, we must grow it to show it—is a distinct and powerful
 way to do social science.
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 87
 
 The ability to fully generate a phenomenon from the bottom up
 often provides new avenues of insight and understanding. Of course,
@@ -4927,13 +4243,7 @@ low. Thus, once the model is developed, it is easy to run sufficient trials
 to accommodate any statistical necessities or to incorporate additional
 factors in the experimental design.
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-88 (cid:127) Chapter 6
+88 Chapter 6
 
 There is a simple economic argument justifying the use of computational models. Over the past few decades, computational costs, in terms
 of hardware, software, and human capital, have experienced significant
@@ -4979,15 +4289,7 @@ world. Computational Petri dishes of E. coni could be used to create
 social equivalents of the Galapagos Islands and, in so doing, help us
 attack some central questions: How general are our theories? How much
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
 Why Agent-Based Objects?
-
-(cid:127) 89
 
 agent sophistication do we need in a system before it becomes social? At
 what point do agent details cease to be important?
@@ -5017,14 +4319,6 @@ to develop better theories. Suppose we happen upon an alien civilization,
 what a priori predictions would we make about its social and economic
 behavior?
 
-December 7, 2006
-
-Time: 09:29am
-
-chapter06.tex
-
-December 7, 2006
-
 Time: 10:02am
 
 chapter07.tex
@@ -5051,18 +4345,6 @@ in the models that follow we rely on a variety of analytic techniques
 (including computational modeling, mathematical proofs, and thought
 experiments) both to enhance our understanding and to demonstrate a
 range of analytic possibilities.
-
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
 
 C H A P T E R 7
 
@@ -5107,13 +4389,7 @@ be a bad place to start. The elements of the Eightfold Path can be mapped
 models, and while agent-based models are a valuable tool for understanding complexity,
 other tools like mathematics and thought experiments are also needed in this quest.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-94 (cid:127) Chapter 7
+94 Chapter 7
 
 Table 7.1
 An Eightfold Mapping of Agent-Based Object Models
@@ -5173,13 +4449,7 @@ Agents typically supplement information garnered from outside with
 internally generated information. For example, agents may develop ways,
 such as statistics, to summarize the flow of incoming information so that
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 95
+A Basic Framework 95
 
 it is easily stored and used. Alternatively, agents may generate elaborate internal models that allow them to transcend inherent perceptual
 limitations. For example, internal models allow you to visualize what is
@@ -5229,13 +4499,7 @@ at odds with the induced motivations of the agents—to use Schelling's
 
 "misdirecting" observers using cues as simple as the pointing of a finger.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-96 (cid:127) Chapter 7
+96 Chapter 7
 
 terms, when the micromotives and macrobehavior fail to align. Thus, it is
 far more interesting to see cooperative behavior emerge when the agents
@@ -5284,13 +4548,7 @@ or by more abstract entities such as "friendship." Whatever the form of
 the space, it can mediate agent interactions by constraining the flow
 of information and action, such as when we only allow agents to interact
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 97
+A Basic Framework 97
 
 within some well-defined neighborhood. Space is often endogenous in
 a system; for example, agents may prefer to interact with "friends," and
@@ -5338,13 +4596,7 @@ can arise via the pure "physics" of the model, where actions aggregate
 to change the world in such a way that the resulting outcomes provide
 some benefit to, or impose some cost on, the individual agents. Of course,
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-98 (cid:127) Chapter 7
+98 Chapter 7
 
 agents also have the ability to change the physics of the world by
 co-creating new opportunities for payoffs—for example, when they make
@@ -5395,13 +4647,7 @@ in their decision
 making, and it may be the case that on some decisions, perhaps
 investing money or buying a house, decision making is consistent with
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 99
+A Basic Framework 99
 
 a utility maximization framework. However, in other choice contexts
 like proposing marriage or participating in revolutions, humans may rely
@@ -5451,13 +4697,7 @@ depends on the response functions being smooth and not overly steep near the equ
 
 5Ledyard (1986) proves a related result for Bayesian equilibrium.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-100 (cid:127) Chapter 7
+100 Chapter 7
 
 computations. This suggests an imperfect correlation between the intelligence and strategic sophistication of an agent and the observable level of
 computation employed by that agent. It also implies that we may need to
@@ -5504,13 +4744,7 @@ Competition (Wellman et al., 2003), where extremely sophisticated
 agents, often designed by teams of scientists over months or years to
 embody either actual or idealized human behavior, lie at the core of
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 101
+A Basic Framework 101
 
 the analysis. This work seeks to find the regularities arising from such
 systems—how the complex can create the simple.
@@ -5556,13 +4790,7 @@ but allow differences in histories, information, or underlying characteristics t
 Models of complex systems phenomena should be simple, not complicated. This point often seems to get confused and twisted in various
 ways, but the point of modeling—whatever the target—is to simplify an
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-102 (cid:127) Chapter 7
+102 Chapter 7
 
 otherwise overly complex world. Thus, even when the resulting behavior
 is complex, the underlying model should be simple.
@@ -5607,13 +4835,7 @@ the spring, if your state is currently empty, then change your state to
 having a tree with probability g; otherwise maintain your current state.
 In the summer, if you are in a tree state, with probability f catch fire
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 103
+A Basic Framework 103
 
 Table 7.2
 A Simple Forest Fire Model
@@ -5856,13 +5078,7 @@ the greater the potential productivity of the forest. The second force is
 lightning. As lightning increases, the more likely it is that a tree will be
 destroyed by fire. Moreover, lightning not only impacts individual trees
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-104 (cid:127) Chapter 7
+104 Chapter 7
 
 but contiguous stands of trees. Thus, the density of the trees becomes
 important. At high growth rates, almost all the trees are contiguous, and
@@ -5913,13 +5129,7 @@ on either side of the optimal value.
 
 7This effect is most dramatic in systems with more than one dimension.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 105
+A Basic Framework 105
 
 In chapter 8 we discuss, and hopefully provide a bit of needed perspective
 about, the ideas of "evolution to the edge of chaos" and "self-organized
@@ -5967,13 +5177,7 @@ the individual growth rates that arise. Table 7.3 shows a representative
 section of the forest in the later stages of adaptation. Note that the
 growth rates show an interesting spatial structure: groups of contiguous,
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-106 (cid:127) Chapter 7
+106 Chapter 7
 
 )
 
@@ -5995,7 +5199,6 @@ G
 n
 a
 e
-M
 
 Time
 
@@ -6031,13 +5234,7 @@ wall agents will have their growth rates driven to zero, while the
 neighboring agents will have their growth rates increased. Of course, a
 "farsighted" fire wall agent could circumvent the adaptive mechanism
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 107
+A Basic Framework 107
 
 by recognizing that by setting its growth rate to one, a neighbor would
 be forced to become a fire wall.
@@ -6087,13 +5284,7 @@ on the system. These dynamics result in basins of attraction that will
 lead any member of that basin to a particular outcome. The issue of
 the effectiveness of any given learning rule can be recast in terms of how
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-108 (cid:127) Chapter 7
+108 Chapter 7
 
 Table 7.4
 Optimal Growth Rate Distribution in a Heterogeneous Forest Fire Model
@@ -6139,13 +5330,7 @@ was the omniscient outcome. Given this, how does this outcome compare
 to the one we found with heterogeneous adapting agents? First, the
 former model evolved via an observable dynamic process with initial
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 109
+A Basic Framework 109
 
 growth-rate fluctuations resulting in an overabundance of fire walls
 that are only slowly, and imperfectly, eaten away. Second, the adaptive
@@ -6193,13 +5378,7 @@ loan defaults, and spreading fires capture the cascades of resulting bank
 than what we consider here, but accounting for this requires only modest changes in the
 model.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-110 (cid:127) Chapter 7
+110 Chapter 7
 
 failures as loan calls between banks go unanswered. Regeneration is the
 tendency for banks to make new loans.
@@ -6249,13 +5428,7 @@ that is fixed modulo a seed.
 things can only get so complex—once you make it over the threshold, you are only as good
 as the next guy.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 111
+A Basic Framework 111
 
 Table 7.5
 A Simple, Nearest-Neighbor Cellular Automaton
@@ -6298,13 +5471,7 @@ From the perspective of agents within the system, the story is a bit
 more complicated. Even though each agent's behavior is based on an
 identical, fixed rule, there are really two "types" of behavior linked to
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-112 (cid:127) Chapter 7
+112 Chapter 7
 
 each agent's initial state. Agents that begin in state 0, follow a behavioral
 program that is determined by the first, second, fifth, and sixth rows of
@@ -6355,13 +5522,7 @@ asking for too much, and we may be satisfied with knowing the
 
 sake of rhetorical brevity, we will ignore such a complication.
 
-December 7, 2006
-
-Time: 10:02am
-
-chapter07.tex
-
-A Basic Framework (cid:127) 113
+A Basic Framework 113
 
 answer to such questions for a particular set of systems (which may be
 possible); nonetheless, the halting problem does point to some inherent
@@ -6408,8 +5569,6 @@ universal system; moreover, we know that there are some inherent limits
 to theorizing in such a system. Nonetheless, the promise of uncovering
 deep connections among apparently disparate complex adaptive social
 systems is an important one.
-
-December 5, 2006
 
 Time: 10:53am
 
@@ -6458,13 +5617,7 @@ sites 1, 2, . . . , N starting from an arbitrary point, and thus the Nth site
 completes the circle and abuts site 1. Given this world, we can impose
 a natural constraint on agent interactions, namely, that agents interact
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 115
+Complexity in One Dimension 115
 
 within neighborhoods of contiguous sites. Thus, an agent at site 1 has a
 "right-hand" neighbor at site 2 and a "left-hand" neighbor at site N.1
@@ -6511,13 +5664,7 @@ immediate neighbors at sites 2 and N, neighbors two steps away at sites 3 and N 
 
 2As we discussed previously, even "adaptive" rules are fixed at the deepest levels.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-116 (cid:127) Chapter 8
+116 Chapter 8
 
 Table 8.1
 A Simple Behavioral Rule
@@ -6562,13 +5709,7 @@ As can be seen in table 8.2, coherent macrostructures in the form
 that define the rule table. Thus, in table 8.1 the defining bits of the rule table are 00010110,
 which can be interpreted as the integer value 22.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 117
+Complexity in One Dimension 117
 
 Table 8.2
 Dynamics of Rule 22
@@ -6600,13 +5741,7 @@ to hit the same configuration twice, and once this happens it will begin a
 cycle that follows the same path as it did when it first hit the configuration. All finite, deterministic systems are guaranteed to cycle, though the
 lengths of these cycles can be relatively long.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-118 (cid:127) Chapter 8
+118 Chapter 8
 
 The preceding rule demonstrates how simple, local interactions among
 agents can result in interesting aggregate behavior. The rule is just one of
@@ -6654,13 +5789,7 @@ step in creating more general theories of complex systems.
 
 these are limit points, limit cycles, and chaotic attractors.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 119
+Complexity in One Dimension 119
 
 Table 8.3
 Copy-Left Rule under Two Different Initial Conditions
@@ -6699,13 +5828,7 @@ social dilemmas. One focus of behavioral decision research is in uncovering key 
 heuristics—often by finding circumstances under which they result in wildly maladaptive
 behavior.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-120 (cid:127) Chapter 8
+120 Chapter 8
 
 Even when all agents begin by using the same rule, mechanisms are
 still needed to prevent adaptive agents from deviating away from this
@@ -6752,13 +5875,7 @@ right-hand neighbors lead to the same action, that is, that agents do
 not differentiate between their neighbors. As shown in table 8.4 this
 constraint forces the actions taken in situations 1 and 4 to be identical, as
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 121
+Complexity in One Dimension 121
 
 Table 8.4
 Social Symmetries in Rule Tables, Where ai ∈ {0, 1}
@@ -6837,13 +5954,7 @@ least interesting from a social perspective, as the agents always want to
 take action 0 regardless of what their neighbors are doing. Under this rule
 the system locks into all agents taking action 0 after the first time step.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-122 (cid:127) Chapter 8
+122 Chapter 8
 
 Table 8.5
 Symmetry Constrained Social Rules
@@ -6894,13 +6005,7 @@ alternating pattern of 01s will propagate out by one. With multiple, noncontiguo
 then these patterns will join up as long as the initial 0s are spaced an even number of sites
 apart.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 123
+Complexity in One Dimension 123
 
 starting conditions or, say, in the presence of noise, the last equilibrium
 of all 0s is the most likely outcome.
@@ -6948,13 +6053,7 @@ By putting some sensible, albeit extreme, simplifications on the problem, we wer
 
 7Rule 5 is Class 2, and Rules 0 and 160 are both Class 1.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-124 (cid:127) Chapter 8
+124 Chapter 8
 
 Table 8.6
 A Nearest-Neighbor Majority Rule
@@ -6998,13 +6097,7 @@ use the more exacting term Majority Rule model.
 
 9An agent is pivotal when its choice determines the majority.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 125
+Complexity in One Dimension 125
 
 Table 8.7
 Majority Rule (k = 3) with Synchronous Updating
@@ -7047,13 +6140,7 @@ to site 20. In asynch-incentive, agents with the fewest number of likeminded nei
 updated randomly with replacement. Under all of the updating rules,
 the system reaches an equilibrium (characterized by the previously
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-126 (cid:127) Chapter 8
+126 Chapter 8
 
 Table 8.8
 Majority Rule (k = 3) Equilibria under Various Updating Options
@@ -7107,13 +6194,7 @@ are taking the alternate action. The probability of this happening with
 
 Page (1997).
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 127
+Complexity in One Dimension 127
 
 randomly generated sites is (1/2)k+1, and thus incrementing k by one
 decreases this probability by one-half.
@@ -7126,8 +6207,6 @@ fundamental feature of this system under asynchronous updating?
 
 Claim 8.3.1 Any N-site, k-Majority Rule model with asynchronous
 updating attains a fixed-point equilibrium in finite time.
-
-(cid:1)
 
 > k. If the
 
@@ -7182,13 +6261,7 @@ suggested new mathematical directions as well as defined the potential
 for empirical work on these types of systems (for example, knowing that
 a system has, say, 160 blocks in equilibrium may not allow us to recover
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-128 (cid:127) Chapter 8
+128 Chapter 8
 
 its underlying structure, since such an observation is consistent with k's
 ranging from three to seven depending on the updating mechanism).
@@ -7237,13 +6310,7 @@ actions make mistakes and that those surrounded by similar agents do
 not. In essence, this implies that little mistakes can happen but big
 ones do not. Such an assumption is similar to the concept of Proper
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 129
+Complexity in One Dimension 129
 
 Table 8.10
 Majority Rule (k = 3) with Mistakes
@@ -7291,13 +6358,7 @@ grand incarnation, the edge of chaos captures the essence of all interesting
 adaptive systems as they evolve to this boundary between stable order
 and unstable chaos.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-130 (cid:127) Chapter 8
+130 Chapter 8
 
 The notion of the edge of chaos is both intuitively appealing and
 metaphorically rich. While the examples of Packard and Langton are
@@ -7346,13 +6407,7 @@ Like Wolfram, they define a rule as complex if the time it takes to get
 to the limiting distribution is long, but in addition they require that this
 time increases linearly with the number of cells.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 131
+Complexity in One Dimension 131
 
 Table 8.11
 Rule 110
@@ -7382,20 +6437,6 @@ Situation
 λ
 Wolfram
 Li-Packarda
-
-Rule
-
-Rule
-
-Rule
-
-Rule
-
-Rule
-
-Rule
-
-Rule
 
 Rule
 
@@ -7439,13 +6480,7 @@ reveal that three of its eight neighbors are chaotic11 and three lead to
 
 have fixed points at all zeros.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-132 (cid:127) Chapter 8
+132 Chapter 8
 
 fixed points. Thus, this rule appears to be poised between chaos and
 stasis. Superficially, at least, this seems to indicate that Rule 110 is on the
@@ -7497,13 +6532,7 @@ rules are strongly biased toward the middle of the distribution of λ (with
 120, 122, 126, 129, 135, 146, 149, 150, 151, 153, 161, 165, 169, 182, 183, 195, and 225.
 The complex rules are: 54, 110, 124, 137, 147, and 193.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 133
+Complexity in One Dimension 133
 
 Table 8.13
 λ-Distribution over Chaotic and Complex Rules in the Space of Two-State,
@@ -7554,13 +6583,7 @@ one hand and chaos or stasis on the other was accurate, then we would
 expect that the neighbors with λ equal to 1/2 would generate chaos and
 those with λ equal to 3/4 would be cyclic or stable. Yet, we see from
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-134 (cid:127) Chapter 8
+134 Chapter 8
 
 Table 8.15
 Relevant Rule Table for Rule 46 after Two Iterations
@@ -7615,13 +6638,7 @@ and Packard—in either case, it is not chaotic.
 The failure of a nicely behaved λ-edge in the neighborhood of Rule
 110 is not particular to that rule. Every one of the rules classified as
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 135
+Complexity in One Dimension 135
 
 complex in this space has at least one chaotic neighbor with a lower λ
 value and one with a higher value. Therefore, although it is true that
@@ -7671,13 +6688,7 @@ that these rules are the most likely candidates for boring behavior among
 
 2 cycles.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-136 (cid:127) Chapter 8
+136 Chapter 8
 
 Table 8.16
 Classification of Our Rule Partition into Behaviors
@@ -7734,13 +6745,7 @@ indicates, knowing the λ value of a particular rule does not necessarily
 tell us much about that rule's behavior. The λ value is, however, probably
 a good way to identify broad areas of the rule space that might harbor
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 137
+Complexity in One Dimension 137
 
 the potential for interesting behavior. In this view, λ is a necessary but not
 sufficient condition for interesting behavior. Note that the analysis was
@@ -7788,13 +6793,7 @@ until it enters its limit cycle, at which point we will query a random site at
 a random iteration to get the answer. A computation will yield the wrong
 answer if the queried site is in the wrong state. For an automaton to yield
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-138 (cid:127) Chapter 8
+138 Chapter 8
 
 a perfect computation, it must enter a one-period limit cycle with every
 site having the identical, correct answer.
@@ -7845,13 +6844,7 @@ can be seen from table 8.16, there are no identity rules that are complex. This 
 of the size of the neighborhood, as rules with more neighbors can belong to the class of
 identity rules and be complex, as Mitchell, Crutchfield, and Hraber (1994) show.
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-Complexity in One Dimension (cid:127) 139
+Complexity in One Dimension 139
 
 These simple distinctions between the various classes of rules allow us
 
@@ -7897,13 +6890,7 @@ we are likely to make the underlying system less robust. This is because
 the structures necessary for delicate behavior require an underlying
 system that is rich in possibilities. In essence, we need a quivering system
 
-December 5, 2006
-
-Time: 10:53am
-
-chapter08.tex
-
-140 (cid:127) Chapter 8
+140 Chapter 8
 
 that will fall into the right state with only a gentle tap. In such a system,
 an improper tap can lead to very unpredictable results.
@@ -8000,15 +6987,9 @@ half, that is, at site j where j ≤ N/2, it moves to site 2 j; if, instead, it 
 currently located in the upper half ( j > N/2), it moves to site 2(N − j).
 Given this rule, an agent in the lower half always increases its location
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-142 (cid:127) Chapter 9
+142 Chapter 9
 
 Table 9.1
 Rover Dynamics for N = 10
@@ -8048,17 +7029,7 @@ a unique, fixed-point equilibrium at x = 2/3. In the discrete examples
 that we just considered, N was not divisible by 3, so this equilibrium did
 not exist. We can fix this problem by letting N = 102, in which case a
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 143
 
 Table 9.2
 Equilibrium Cycle Length for a Single, Roving Agent
@@ -8108,15 +7079,9 @@ racial segregation. In this model, the world consists of agents living
 on the squares of a checkerboard. Initially, agents are randomly sprinkled
 across the board (with one agent per square and some squares left
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-144 (cid:127) Chapter 9
+144 Chapter 9
 
 unoccupied). There are two types of agents, and each agent has a
 minimum required threshold for living with those of the same type. When
@@ -8167,17 +7132,7 @@ than 40 percent of its neighbors are the same type. Under this condition
 
 first iteration may differ from the number that initially wanted to move.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 145
 
 Table 9.3
 Results from a One-Dimensional Tipping Model with N = 100, k = 4, and
@@ -8245,15 +7200,9 @@ percent, and 100 percent; and so on. These discontinuities imply that the
 behavioral differences induced by various thresholds may be slight. For
 example, with anywhere between two and eight neighbors, 40 percent
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-146 (cid:127) Chapter 9
+146 Chapter 9
 
 versus 50 percent thresholds only imply different behavior in two out
 of the forty-two possible configurations of the world. To demonstrate
@@ -8299,17 +7248,7 @@ systems, albeit under different names.2 In Schelling's version, every
 called the Minority game, in which an odd number of players chooses either option A or
 B, and those who choose the minority option split a prize (Challet and Zhang, 1997).
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 147
 
 Saturday people living in the city must decide whether to go to the
 beach. While everyone enjoys getting away to an uncrowded beach, their
@@ -8360,15 +7299,9 @@ crowded last Saturday (or, say, three out of the last five Saturdays),
 then one person might reason that it will be empty next week, while
 another might believe that it will remain crowded. Whatever the rules,
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-148 (cid:127) Chapter 9
+148 Chapter 9
 
 we are likely to see heterogeneity among the population. Moreover, these
 various predictive models will interact with, and adapt to, one another
@@ -8420,17 +7353,7 @@ and person D goes because exactly two went last week. Table 9.4 shows
 the attendance patterns for the first ten weeks. Notice that we have the
 identical attendance patterns in weeks 8 and 9 that we had in 4 and 5, and
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 149
 
 Table 9.4
 Attendance Patterns in a Simple Beach Problem
@@ -8441,11 +7364,9 @@ Attendance
 
 ABCD
 AB
-D
 AB
 ACD
 BC
-D
 AB
 ACD
 BC
@@ -8482,15 +7403,9 @@ or if exactly three people went the week before last. Table 9.5 shows
 the outcomes resulting from this change in person A's rule. Here a new
 cycle emerges that takes the system through the states AD, D, AB, AC D,
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-150 (cid:127) Chapter 9
+150 Chapter 9
 
 Table 9.5
 Attendance Patterns after Person A Changes Her Rule
@@ -8502,12 +7417,10 @@ Attendance
 ACD
 BC
 AD
-D
 AB
 ACD
 BC
 AD
-D
 AB
 ACD
 BC
@@ -8530,7 +7443,7 @@ minority outcome for the past M periods. A strategy in this game must
 map each of the 2M possible histories to a choice of either option A or B.
 Typically these games begin with N players, each of whom randomly
 picks a strategy. Every T periods the worst-performing player is replaced
-with either a clone of the best-performing player or, with probability (cid:1),
+with either a clone of the best-performing player or, with probability ,
 a randomly selected strategy. This cloning error provides a balance
 between exploitation (using the best-known strategy to date) and exploration (searching for possibly better strategies).
 
@@ -8542,17 +7455,7 @@ strategic diversity and efficient coordination is difficult to achieve. If ρ is
 large, the strategy space offers too much room within which to wander,
 and again efficient coordination fails. Thus, there is a critical value of
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 151
 
 ρ that minimizes the variance of the number of agents participating
 in the minority. These results reveal a connection—possibly a deep
@@ -8599,24 +7502,14 @@ current location to site i.
 
 i pi di /
 
-(cid:1)
-
-(cid:1)
-
 3While examples abound, the first president of the Santa Fe Institute, George Cowan,
 notes that Albuquerque bankers rejected a loan application from a young Bill Gates
 during the early years of the company that eventually became Microsoft. Gates received
 an alternative loan from his father, contingent on him returning to Seattle.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-152 (cid:127) Chapter 9
+152 Chapter 9
 
 These two attributes, home population and average distance, capture
 in broad strokes the main drivers of location decisions. The home
@@ -8666,17 +7559,7 @@ others, then minimizing expected contacts is equivalent to maximizing expected d
 We note that Key West, Florida, has repeatedly tried to declare itself an independent country
 known as the Conch Republic since 1982.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 153
 
 location, move to it. Once there, the agent would evaluate the next site
 over and move there if it improves on the site it just entered, and so on,
@@ -8714,12 +7597,6 @@ minimize i and move to 0; and if p0 = pN, all locations give the agent the
 same distance. With the exception of p0 = pN, we will find two stable
 cities forming at the end points.
 
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
 l<i pl(i − l) +
 
 r>i pr (r − i))/
@@ -8743,23 +7620,9 @@ r pr <
 
 r pr >
 
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-154 (cid:127) Chapter 9
+154 Chapter 9
 
 are more agents to its right than to its left. Moreover, as the agent moves
 and passes by other agents, the direction of movement is reinforced and
@@ -8806,17 +7669,7 @@ an equal number of agents on either side of it. A city (more than one agent) can
 at this site as the symmetry will be broken by the additional distance gained by leaving the
 other agents at the site.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 155
 
 connection to form with a fixed probability, we get an Erdos-Reyni
 network. Alternatively, we could make the connections according to
@@ -8854,31 +7707,25 @@ implications for two of the models we have already considered: the
 Majority Rule model and Schelling's Segregation model. We consider four
 different network structures:
 
-(cid:127) Loop: agents live on a circle and are connected to their immediate
+Loop: agents live on a circle and are connected to their immediate
 
 neighbors in each direction.
 
-(cid:127) Grid: agents live on a checkerboard-like grid where the edges of
+Grid: agents live on a checkerboard-like grid where the edges of
 the grid wrap around to form a torus. An agent is connected to its
 immediate neighbors.
 
-(cid:127) Pack: agents exist in packs. Each agent is connected to its pack
+Pack: agents exist in packs. Each agent is connected to its pack
 
 mates, as well as one agent outside of the pack.
 
-(cid:127) 2Loop: agents live on two circles (both randomly ordered) and
+2Loop: agents live on two circles (both randomly ordered) and
 are connected to their nearest neighbors in each direction on both
 circles.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-156 (cid:127) Chapter 9
+156 Chapter 9
 
 x
 
@@ -8926,17 +7773,7 @@ network.
 In the Grid network agents reside on a checkerboard. The top edge of
 the board is connected to the bottom edge, while the left side is connected
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 157
 
 Network #1 (initial state)
 
@@ -8983,15 +7820,9 @@ Agents are initially placed on each loop in random order. Thus, the
 nearest neighbors on the two loops are not necessarily related to one
 another.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-158 (cid:127) Chapter 9
+158 Chapter 9
 
 x(i,1)
 
@@ -9044,17 +7875,7 @@ Features of the underlying network topologies can be used to explain
 the differences in conformity observed. In particular, note that the
 different network structures imply very different patterns of shared
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 159
 
 Table 9.6
 Equilibrium Conformity across Different Network Structures: Averages (Standard Deviations) across 1,000 Trials
@@ -9126,15 +7947,9 @@ structures we have described.
 that neighbors will be neighbors of each other, which would cause the 2Loop overlap to
 rise above 2.0.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-160 (cid:127) Chapter 9
+160 Chapter 9
 
 Period 1: M 0
 Period 2: 0
@@ -9187,17 +8002,7 @@ in the minority and will want to change its action. If the agent in the pack ahe
 the same action, then the agent in question will try to remain in the majority by not altering
 its action.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 161
 
 Given the dynamics, packs that end up with both agents taking
 action 1 do so via one of two possible routes. The first route is for
@@ -9254,15 +8059,9 @@ before, assume that the initial probability that an agent takes action 1
 taking action 0 equals (1 − p)4 + 4 p(1 − p)3 = 1 − 6 p2 + 8 p3 − 3 p4. The result follows
 immediately.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-162 (cid:127) Chapter 9
+162 Chapter 9
 
 equals p. In a two-neighbor Loop, any two neighboring agents that take
 the identical action will do so forever, as they form a majority with one
@@ -9302,14 +8101,13 @@ t=0 Wtρ1. For odd values of t, it can be shown that Wt = Z0ρ
 ρ
 3 . Note that
 1−ρ2ρ3
-(cid:1)∞
+∞
 t=0 Wtρ1 = (Z0
 1−ρ2ρ3
 
 by
 t
 For even values of t, Wt = W0ρ
-(cid:1)
 . Therefore,
 
 Wt = Z0
@@ -9325,9 +8123,7 @@ Wt = W0
 
 1−ρ2ρ3
 
-(cid:1)∞
-
-(cid:1)
+∞
 
 t−1
 
@@ -9348,17 +8144,7 @@ two-neighbor Loop and Pack networks:
 Claim 9.5.3 A two-neighbor Pack network leads to higher conformity
 than a two-neighbor Loop network.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 163
 
 Based on the prior two claims, this claim holds if and only if
 
@@ -9411,15 +8197,9 @@ the other type. Perhaps this result is due to some peculiarity of the Grid
 network used by Schelling? Surprisingly, we find that the Grid network
 understates the tendency toward segregation. Recall that segregation
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-164 (cid:127) Chapter 9
+164 Chapter 9
 
 Table 9.7
 Segregation across Different Network Structures
@@ -9492,17 +8272,7 @@ In both the Majority Rule and Segregation models, we see that network
 structure has a large impact on the behavior of the system: different
 networks induced very different systemwide behavior. Although it is
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 165
 
 often difficult to characterize different network topologies succinctly, we
 found that our measure of overlap provided a coherent basis from which
@@ -9550,15 +8320,9 @@ Empirically, we often find examples that satisfy a power law with
 the exponent equal to −1. One such case is the relationship between
 city population, Pi , and rank, Ri . Roughly, this relationship is given by
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-166 (cid:127) Chapter 9
+166 Chapter 9
 
 Table 9.9
 Richardson's (1960) Data on Deaths in Warfare, 1820–1945
@@ -9616,17 +8380,7 @@ notion of self-organized criticality. The microfoundations of this model
 appear quite plausible in many social scenarios. Moreover, this approach
 is of particular interest to us because it is formulated around an agentbased spatial model.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 167
 
 The key driving force behind self-organized criticality is that microlevel
 agent behavior tends to cause the system to self-organize and converge
@@ -9674,15 +8428,9 @@ of rice do appear to generate the predicted properties.
 
 11To ensure enough sand to go around, we need T ≥ 2k.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-168 (cid:127) Chapter 9
+168 Chapter 9
 
 Table 9.10
 Self-Organized Criticality with T = 6 andk = 2
@@ -9751,20 +8499,10 @@ order. If we add a grain to the center of the lattice, however, we see
 waves of topplings, as shown in table 9.11. These topplings resemble the
 disturbances in a pool when a stone is dropped in the middle and the
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
 
 Table 9.11
 Self-Organized Criticality with T = 4 andk = 1
-
-Social Dynamics
-
-(cid:127) 169
 
 Action
 
@@ -9820,15 +8558,9 @@ site. There are only a few possible cases. First, if the site is empty, it just
 
 to get the waves going.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-170 (cid:127) Chapter 9
+170 Chapter 9
 
 becomes filled with no other impact on the system. If the site is filled, it
 will topple, and its neighbors either become filled (if they were empty)
@@ -9875,20 +8607,10 @@ number of filled sites by one or move the empty sites toward the edges.
 
 site," just off of the edge of the lattice, is perpetually empty.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
 
 Table 9.12
 An Avalanche with T = 2 andk = 1
-
-Social Dynamics
-
-(cid:127) 171
 
 Configuration
 
@@ -9933,15 +8655,9 @@ sites bounded between the leading edges will alternate between being
 empty and being ready to topple, and the system will stabilize once the
 two reflections meet. Because each wave moves either outward or inward
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-172 (cid:127) Chapter 9
+172 Chapter 9
 
 by one site per period, and the total distance between the boundaries is
 seven, the waves must meet after seven iterations. Each wave will have
@@ -9988,20 +8704,10 @@ and an estimated distribution from an experiment in which we dropped
 
 can be the longer distance as well.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
 
 Table 9.13
 Avalanche Size Given Landing Spot and Configuration
-
-Social Dynamics
-
-(cid:127) 173
 
 A7
 
@@ -10013,20 +8719,6 @@ A10
 
 A0
 
-(cid:1)
-
-(cid:1)
-
-(cid:4)
-
-(cid:1)
-
-(cid:5)
-
-(cid:5) (cid:9)
-
-(cid:8) (cid:11)
-
 Landing
 Spot
 
@@ -10034,145 +8726,13 @@ A1
 
 A2
 
-(cid:5)
-
-(cid:4)
-
-(cid:4)
-
 A3
-
-(cid:3)
-
-(cid:5)
-
-(cid:8) (cid:7) (cid:6)
-
-(cid:10) (cid:9) (cid:8) (cid:6)
-
-(cid:11) (cid:12) (cid:8) (cid:6)
-
-(cid:14) (cid:12) (cid:8) (cid:5)
-
-(cid:11) (cid:9) (cid:6)
-
-(cid:10) (cid:7) (cid:4)
-
-(cid:8) (cid:4)
-
-(cid:5)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:3)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
 
 A5
 
 A6
 
-(cid:1)
-
-(cid:1)
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-(cid:2)
-
-(cid:1)
-
-(cid:3)
-
 A4
-
-(cid:3)
-
-(cid:4)
-
-(cid:5)
-
-(cid:4)
-
-(cid:3)
-
-(cid:1)
-
-(cid:2)
-
-(cid:3)
-
-(cid:3)
-
-(cid:2)
-
-(cid:2)
-
-(cid:3)
-
-(cid:3)
-
-(cid:2)
-
-(cid:1)
-
-(cid:3)
-
-(cid:4)
-
-(cid:5)
-
-(cid:4)
-
-(cid:3)
-
-(cid:4)
-
-(cid:7) (cid:10) (cid:13)
-
-(cid:6) (cid:9) (cid:11) (cid:15)
-
-(cid:5) (cid:8) (cid:12) (cid:14) (cid:15)
-
-(cid:6) (cid:8) (cid:12) (cid:11) (cid:13)
-
-(cid:6) (cid:8) (cid:9) (cid:10) (cid:11)
-
-(cid:5)
-
-(cid:3)
-
-(cid:6)
-
-(cid:4)
-
-(cid:7) (cid:8) (cid:9)
-
-(cid:4)
-
-(cid:5)
-
-(cid:5)
 
 A1
 
@@ -10200,15 +8760,9 @@ A0
 larger avalanches), given the particle's landing spot (y-axis) and the system's
 initial configuration (x-axis).
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-174 (cid:127) Chapter 9
+174 Chapter 9
 
 Table 9.14
 Theoretical and Experimental
@@ -10259,17 +8813,7 @@ can have an avalanche of size R is roughly proportional to the number
 of divisors of R. If we plot this, we do not get a power law exactly, but
 the distribution does have fat tails.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 175
 
 The preceding analysis also gives some intuition about the time
 correlation we will see in avalanche size. The biggest avalanches we can
@@ -10319,15 +8863,9 @@ alternatives exist if they can break out of the cycle. A socially better cycle
 
 payoffs.
 
-December 11, 2006
-
 Time:
 
-02:24pm
-
-chapter09.tex
-
-176 (cid:127) Chapter 9
+176 Chapter 9
 
 begins in state A0, followed by an agent landing on site 5 (or 6), resulting
 in an avalanche of size 30, and then having the next agent refilling the
@@ -10376,17 +8914,7 @@ instantaneously bulge outward. Notwithstanding the potential of such an
 event, we can view the rock as a coherent, nonrandom structure, created
 by a very incoherent randomness.
 
-December 11, 2006
-
 Time:
-
-02:24pm
-
-chapter09.tex
-
-Social Dynamics
-
-(cid:127) 177
 
 9.6.6 Criticality in Social Systems
 
@@ -10438,8 +8966,6 @@ how one can think about social science as a complex system.
 
 events.
 
-December 11, 2006
-
 Time:
 
 02:59pm
@@ -10489,41 +9015,17 @@ The behavioral substrate for our agents is based on simple computer
 programs modeled by finite automata. Finite automata are mathematical
 models of systems that have discrete inputs and outputs; such systems
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 179
-
-C
-
-D
-
-C
+Evolving Automata 179
 
 c
 
 c
-
-C
-
-D
-
-C
 
 c
 
 d
-
-D
-
-C
-
-D
 
 d
 
@@ -10563,15 +9065,9 @@ We assume here that each machine starts out in the left-most state
 of the functions that are of most interest to complex adaptive social systems, such as the
 behavior of a typical social agent, are in this latter group.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-180 (cid:127) Chapter 10
+180 Chapter 10
 
 (state 1). Thus, the upper two-state automaton begins by producing
 output c and continues that output as long as it receives input C. If the
@@ -10616,15 +9112,9 @@ Evolutionary processes are relatively simple to implement and put few
 demands on an agent's abilities. Of course, the adaptive behavior of
 agents in real systems may be driven by much more sophisticated mechanisms than simple evolution. Nonetheless, the mechanisms explored here
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 181
+Evolving Automata 181
 
 Reproduction
 with Variation
@@ -10666,15 +9156,9 @@ around biology conferences: originally, apple trees used to shoot out apples in 
 directions, some heading for the sky, others running parallel to the earth, and so forth, and
 it was only those apples that fell downward that were able to grow and reproduce.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-182 (cid:127) Chapter 10
+182 Chapter 10
 
 Pop at t:
 
@@ -10725,15 +9209,9 @@ get a face that looks related to the original.
 It is equally helpful to consider a bad representation of the above
 problem. Suppose that we take all 106 faces and randomly assign each
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 183
+Evolving Automata 183
 
 .4. Representing a face. Suppose that to draw a face we need to pick a
 chin, mouth, nose, ears, eyes, and some hair. If, for any of these elements, there
@@ -10775,15 +9253,9 @@ selects solutions for reproduction. The key requirement for a selection
 mechanism is that better-performing solutions have a higher chance of
 being allowed into the next generation. Many mechanisms meet this
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-184 (cid:127) Chapter 10
+184 Chapter 10
 
 criterion. For example, under "roulette" selection, solutions are given
 lottery tickets based on performance and then randomly selected for
@@ -10833,15 +9305,9 @@ active investigation, and a clear understanding of their workings is slowly
 emerging. In general, mutation is viewed as a way to keep adaptive
 systems from getting trapped in narrow regions of the search space versus
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 185
+Evolving Automata 185
 
 being a constructive way to find good solutions to problems. Thus,
 although most mutations are likely to be deleterious to performance
@@ -10887,15 +9353,9 @@ play in simple, repeated games. The formal analysis of strategic play
 in games has been around for a long time, dating at least back to
 fifteenth-century Japan with the establishment of government-subsidized
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-186 (cid:127) Chapter 10
+186 Chapter 10
 
 Table 10.1
 A Sample Payoff matrix (Prisoner's Dilemma)
@@ -10955,15 +9415,9 @@ Dilemma game. In this game, each player always earns a higher payoff
 by choosing action A regardless of what the other player chooses. If
 both agents make this choice, however, they each receive a payoff of 2
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 187
+Evolving Automata 187
 
 (upper-left corner). If they had both picked action B, they each would
 have earned a payoff of 3 (lower-right corner).
@@ -11011,15 +9465,9 @@ a computational model of evolving automata based on the methodology developed by
 for each agent. Thus there are 576 (4! × 4!) possible games. These 576 games reduce to 78
 once various symmetries are recognized.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-188 (cid:127) Chapter 10
+188 Chapter 10
 
 agent's game strategy is based on a sixteen-state Moore machine (see
 section 10.1) where the output of the automaton gives the agent's desired
@@ -11068,15 +9516,9 @@ matter. For example, a machine that plays C nine times in a row and then
 
 finiteness of the repeated game.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 189
+Evolving Automata 189
 
 plays D thereafter requires ten states (the first nine states output C and
 transition to the next one in the sequence regardless of input, and the last
@@ -11123,15 +9565,9 @@ Dilemma, two other symmetric games had above-average measures of
 outcome variation: Chicken, which was fifth, and Battle of the Sexes,
 which was sixteenth.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-190 (cid:127) Chapter 10
+190 Chapter 10
 
 Our analysis identified three (out of the twelve) symmetric games as
 having intriguing outcome dynamics: Prisoner's Dilemma, Chicken, and
@@ -11181,15 +9617,9 @@ relies on the study of artificial adaptive agents. The analysis of such
 systems permits us to derive and generalize key patterns of strategic
 behavior embodied by simple adaptive learning systems.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 191
+Evolving Automata 191
 
 10.4 Games Theory: One Agent, Many Games
 
@@ -11237,15 +9667,9 @@ if the other games compel the evolution of an elaborate punishment
 to decompose. Samuelson (2001) has taken on the problem of how to allocate capacity
 assuming decomposition.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-192 (cid:127) Chapter 10
+192 Chapter 10
 
 subroutine, then such a routine can be costlessly incorporated into the
 strategy for yet another game. On the other hand, developing a costly
@@ -11291,15 +9715,9 @@ behavior. Finally, it may provide a good technique for imbuing artificial
 systems, such as computer networks, with the benefits of adaptive
 communications.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 193
+Evolving Automata 193
 
 The evolving automata framework discussed previously provides a
 simple way to model endogenous, strategic communication (Miller
@@ -11348,15 +9766,9 @@ to inputs from {C0, C1, . . . , CN}. As in previous models, we allow the
 in the future. Nonetheless, given the model's structure, agents would have a difficult time
 maintaining sufficient information to make the system one of repeated play.
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-194 (cid:127) Chapter 10
+194 Chapter 10
 
 n
 o
@@ -11368,7 +9780,6 @@ e
 p
 o
 o
-C
 
 i
 
@@ -11383,7 +9794,6 @@ u
 m
 m
 o
-C
 
 Generation
 
@@ -11420,15 +9830,9 @@ Every so often, a mutation occurs in which an agent will begin by
 sending a communication token from {C1, . . . , CN} and, if its opponent
 also sends a communication token from this set, the agent will cooperate;
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 195
+Evolving Automata 195
 
 No Talk
 Defect
@@ -11472,15 +9876,9 @@ evolutionary systems naturally surmount this obstacle. Suppose we have
 some agents that develop a very complex handshake before cooperating.
 The success of these agents will imply that they are often selected for
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-196 (cid:127) Chapter 10
+196 Chapter 10
 
 s
 n
@@ -11510,7 +9908,6 @@ e
 p
 o
 o
-C
 
 4 Tokens
 
@@ -11549,33 +9946,17 @@ complicated ecologies of strategies develop in the system (see figure 10.8).
 There is a constant dance among defectors, cooperators, and mimics, and
 this interplay becomes more elaborate as the processing ability of the
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 197
+Evolving Automata 197
 
 DØ
 
-C
-
 1,2
-
-D
 
 Ø,1
 
-D
-
-C
-
 Ø,1,2
-
-D
 
 Gen. % Coop.
 
@@ -11618,15 +9999,9 @@ framework but focused on a game of coordination (the Stag Hunt game).
 Again, the presence of communication fundamentally alters the usual
 theoretical predictions. In this case, agents are able to coordinate on
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-198 (cid:127) Chapter 10
+198 Chapter 10
 
 the superior (yet, previously assumed, impossible to attain) equilibrium
 point. As before, better communication in terms of processing ability or
@@ -11669,15 +10044,9 @@ adaptive agents. Within genetic algorithms, we find that details of
 parameter values or design choices often do not seem to matter in
 terms of the behavior of the algorithm. Moreover, other adaptive
 
-December 11, 2006
-
 Time:
 
-02:59pm
-
-chapter10.tex
-
-Evolving Automata (cid:127) 199
+Evolving Automata 199
 
 algorithms, like replicator dynamics and neural networks, seem to yield
 similar results on similar problems. All of this hints at the potential
@@ -11704,8 +10073,6 @@ need to keep such ambitions in check so that our reach does not exceed
 our grasp. These tools make it all too easy to create complicated worlds,
 but such worlds are typically hard to understand. Fortunately, even in
 their simplest forms, models of evolving automata offer many opportunities to learn about our world.
-
-December 5, 2006
 
 Time: 11:46am
 
@@ -11750,15 +10117,7 @@ characteristics of agents, such as when tug-of-war teams combine each
 member's strength or schools of fish confuse predators by forming a much
 larger and more dynamically shaped "individual." At other times, the
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
 Organizations
-
-(cid:127) 201
 
 value of an organization comes through internalizing external benefits,
 such as flocks of geese (or schools of fish for that matter) having an
@@ -11804,13 +10163,7 @@ be solved by an organization. Therefore the entire problem space
 confronting these organizations is given by the set of all unique Boolean
 functions. Here we consider problems that have four-bit inputs. In this
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-202 (cid:127) Chapter 11
+202 Chapter 11
 
 Table 11.1
 A Sample Rule Table (Boolean Function)
@@ -11858,16 +10211,6 @@ The focus of most such work is on implementing designs that give exact solutions
 limited set of functions—here, we are willing to consider inexact solutions to a larger set of
 problems.
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-Organizations
-
-(cid:127) 203
-
 I1
 
 I2
@@ -11910,13 +10253,7 @@ the identical choice. Thus, each organization, regardless of its internal
 
 these organizations.
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-204 (cid:127) Chapter 11
+204 Chapter 11
 
 design, will always implement a single, fixed rule table. This results in the
 following:
@@ -11963,16 +10300,6 @@ table by combining these pattern-recognizing hierarchies into a bigger
 organization. To do so, first create a separate hierarchy for each pattern
 that results in, say, a 1 in the rule table. Next, combine the output of each
 of these pattern-recognizing hierarchies with a hierarchy of OR nodes,
-
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-Organizations
-
-(cid:127) 205
 
 so that the top node of this super organization now emits the appropriate
 answer to the Boolean function. Thus, given sufficient nodes and careful
@@ -12023,13 +10350,7 @@ could also apply ideas on how combinations of "views" of the problem (each node'
 connections) and problem-solving heuristics (the actual function each node uses) alter an
 organization's problem-solving ability.
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-206 (cid:127) Chapter 11
+206 Chapter 11
 
 Table 11.2
 Problem Solving for 3n2bH Organizations
@@ -12082,16 +10403,6 @@ results in the opposite output (that is, sends up a 1 instead of a 0 and vice ve
 compensate for this change by altering the upper node's function. Thus, for any solvable
 problem, there are at least four possible organizations that can solve it.
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-Organizations
-
-(cid:127) 207
-
 constrained than we have previously imagined, and rather than having
 the ability to solve any possible problem that comes their way, they
 instead can only exist in worlds that embody the right kind of solvable
@@ -12140,13 +10451,7 @@ in
 many systems having answers that are close is often good enough, so
 investigating less than perfect performance is of interest. As we saw,
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-208 (cid:127) Chapter 11
+208 Chapter 11
 
 Table 11.3
 Problem Distribution for 3n2bH Organizations
@@ -12203,28 +10508,11 @@ other problems. This
 Thus, this organization will be b bits off on
 argument does not depend on the specific Boolean function implemented
 
-(cid:1)
 2n
 b
 
 2n
 b
-
-(cid:1)
-
-(cid:2)
-
-(cid:2)
-
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-Organizations
-
-(cid:127) 209
 
 Table 11.4
 Problem Accuracy on Four-Bit Inputs, Where Accuracy Is the Number of
@@ -12257,13 +10545,7 @@ ensemble of problems in play. There may be an interesting interplay
 
 (1997).
 
-December 5, 2006
-
-Time: 11:46am
-
-chapter11.tex
-
-210 (cid:127) Chapter 11
+210 Chapter 11
 
 between "generalist" organizations that solve a set of problems relatively
 well and "specialist" ones that have higher accuracy on a narrower set
@@ -12308,8 +10590,6 @@ on aspects of the problem that were previously relegated to minor roles. It
 is likely that further analysis of these simple systems will yield important
 insights about organization in both natural and artificial systems.
 
-December 11, 2006
-
 Time:
 
 02:31pm
@@ -12320,21 +10600,9 @@ P A R T V
 
 Conclusions
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-December 11, 2006
-
 Time:
-
-02:31pm
-
-chapter12.tex
 
 C H A P T E R 12
 
@@ -12380,15 +10648,9 @@ over many, many decades. In other cases (like computational models),
 they have been used by just a handful of scientists only recently. Each
 approach can be both a complement and substitute for the others.
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-214 (cid:127) Chapter 12
+214 Chapter 12
 
 Thus, careful empirical work can both substitute for, and complement,
 laboratory experiments; computational models can enhance, or replace,
@@ -12434,15 +10696,9 @@ Smith's invisible hand (see figure 12.1). The emergence of organization
 via decentralized means is apparent in the example of voting with your
 feet explored in chapter 2.
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-Social Science in Between (cid:127) 215
+Social Science in Between 215
 
 Is there a
 current bid?
@@ -12515,15 +10771,9 @@ changes from both within and without. Using emergence ideas, we can
 begin to understand the robustness of systems such as markets, cultures,
 and organizations like firms and political parties.
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-216 (cid:127) Chapter 12
+216 Chapter 12
 
 Smooth
 
@@ -12565,15 +10815,9 @@ invention becomes a search problem across a rugged landscape, where
 past triumphs and new discoveries form the basis of new technologies
 that are brought to the market.
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-Social Science in Between (cid:127) 217
+Social Science in Between 217
 
 The new network theory has also been a major advance facilitated
 by the complex systems approach (Newman, 2003). While networks—
@@ -12620,15 +10864,9 @@ auction markets (see figure 12.4).
 
 Similarly, computational models have played a pivotal role in illuminating issues surrounding the emergence of cooperation. For example,
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-218 (cid:127) Chapter 12
+218 Chapter 12
 
 Voters = 250
 Preferences = Extremist
@@ -12667,13 +10905,7 @@ opens up vast new frontiers in the social sciences. These frontiers exist
 in the space between the current boundaries imposed by traditional ideas
 and methods.
 
-December 11, 2006
-
 Time:
-
-02:31pm
-
-chapter12.tex
 
 1,000
 
@@ -12695,7 +10927,7 @@ t
 o
 T
 
-Social Science in Between (cid:127) 219
+Social Science in Between 219
 
 Coevolving
 Nash Opponents
@@ -12747,15 +10979,9 @@ to play the optimal strategy (Stuttaford, 2002).
 Although adults do not get much joy out of tic-tac-toe (other than
 playing games against chickens), children—who are unable to do the
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-220 (cid:127) Chapter 12
+220 Chapter 12
 
 necessary calculations—can enjoy the game for hours. Lest adults feel
 too superior to their children, adding even slightly more complication
@@ -12804,15 +11030,9 @@ struggled with what to assume about behavior. A complex adaptive
 systems approach allows the level of agent sophistication, and even the
 behavior itself, to adapt. The appropriate level of strategic behavior is not
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-Social Science in Between (cid:127) 221
+Social Science in Between 221
 
 always clear, as we might expect people to be strategic in some contexts
 and rule following in others. Nonetheless, we have good evidence that
@@ -12859,15 +11079,9 @@ As we start to increase the number of agents we consider in a
 model, the mechanisms facilitating the interactions among agents become
 important. One way to keep things tractable is to assume that agents exist
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-222 (cid:127) Chapter 12
+222 Chapter 12
 
 in a soup and randomly pair off with one another for an occasional clash.
 Models of the spread of disease often make this type of assumption.
@@ -12913,15 +11127,9 @@ exchange markets result in a single, stable price equating the quantity
 supplied with the quantity demanded. Unfortunately, our experiences
 with real, experimental, and artificial markets indicate that the actual
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-Social Science in Between (cid:127) 223
+Social Science in Between 223
 
 behavior of a market is not so easily captured. In real markets phenomena
 like clustered volatility and excess trading remain difficult to explain,
@@ -12966,15 +11174,9 @@ richness of more qualitative methods with the rigor of mathematics.
 Qualitative methods provide great flexibility in terms of the types of
 problems that can be analyzed. At the same time, these methods are
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-224 (cid:127) Chapter 12
+224 Chapter 12
 
 often vague, inconsistent, and incomplete. Mathematical methods tend
 to be more rigorous with exacting notions of how models are formed
@@ -13023,15 +11225,9 @@ Rich computational models allow us to explore the delicate interactions
 inherent in a system in a much more expansive way and fill in the space
 in between.
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-Social Science in Between (cid:127) 225
+Social Science in Between 225
 
 12.2.5 In between Anarchy and Control
 
@@ -13075,15 +11271,9 @@ of the space between anarchy and control.
 The complex adaptive social systems approach provides many opportunities to explore the interest in between the usual scientific boundaries. This
 vast unexplored territory is home to many of the most interesting and
 
-December 11, 2006
-
 Time:
 
-02:31pm
-
-chapter12.tex
-
-226 (cid:127) Chapter 12
+226 Chapter 12
 
 ultimately important scientific questions. Nevertheless, we have tended
 not to stray too far from known waters for fear that hic sunt dracones.
@@ -13098,8 +11288,6 @@ the seas can be sailed and suggest at least the possibility of potential
 riches, so explore we must, even if, as T. S. Eliot (1942) wrote, "the end
 of all our exploring will be to arrive where we started and know the place
 for the first time."
-
-December 5, 2006
 
 Time: 12:35pm
 
@@ -13146,13 +11334,11 @@ Modeling, by its very nature, is about extremes. When we model
 systems we attempt to push our scientific fantasies to the farthest edge of
 reality, in hopes of gaining some new insight. Unfortunately, sometimes
 
-December 5, 2006
-
 Time: 12:35pm
 
 epilogue.tex
 
-228 (cid:127) Epilogue
+228 Epilogue
 
 in the pursuit of extremes we kill off the most interesting parts of the
 world—"water which is too pure has no fish."
@@ -13199,15 +11385,11 @@ system of passengers in the cabin, and it is only at the moment of
 impact that the behavior of these two types of agents (unfortunately)
 converges.
 
-December 5, 2006
-
 Time: 12:35pm
 
 epilogue.tex
 
 Epilogue
-
-(cid:127) 229
 
 Thoughtful social agents can fundamentally alter the behavior of complex systems. In our Forest Fire model, we saw how, under homogeneous
 adaptation, the agents moved the system to a state that was at once
@@ -13255,13 +11437,11 @@ the potential for seemingly magical transformations that link one level
 to another. Of course, such magic is the impetus for the scientific
 exploration that in time will eventually lead to understanding.
 
-December 5, 2006
-
 Time: 12:35pm
 
 epilogue.tex
 
-230 (cid:127) Epilogue
+230 Epilogue
 
 The Faraway Nearby
 
@@ -13281,8 +11461,6 @@ No doubt that many obstacles will arise as we move forward, and while
 most of these will be easily surmounted, some of them may force us to
 alter our path in unanticipated directions. Nonetheless, the underlying
 journey seems sound, and great advances lack detailed maps.
-
-December 5, 2006
 
 Time: 12:47pm
 
@@ -13327,13 +11505,7 @@ In A New Kind of Science (2002), Steven Wolfram exhaustively investigates simple
 the least of which is reminding us that simple rules in stark environments
 can generate complex aggregate behaviors. Thus, one explanation of why
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-232 (cid:127) Appendix A
+232 Appendix A
 
 we see complexity is that simple rules generate it. This is an important
 idea, as we might have expected that simple rules in simple environments
@@ -13382,13 +11554,7 @@ altering the periodicity. The presence of adaptive agents drives the simple
 system into the complex regime where predictions, if at all possible,
 become extremely difficult.
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-An Open Agenda (cid:127) 233
+An Open Agenda 233
 
 A.2 What Does It Take for a System to Exhibit
 
@@ -13435,13 +11601,7 @@ froth of both nature and our models.
 We can often explain emergent phenomena piece by piece. For
 example, patterns like a glider in the Game of Life can be understood by
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-234 (cid:127) Appendix A
+234 Appendix A
 
 looking at each of its parts and the associated rules. Even for something
 as simple as a glider, however, this requires an enormous amount of work
@@ -13490,13 +11650,7 @@ can we say something more general here?
 Ultimately, we are seeking a simple explanation for complex behavior.
 While there are examples from cellular automata that suggest that the
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-An Open Agenda (cid:127) 235
+An Open Agenda 235
 
 only way to predict the future behavior of the system is to let it fully run
 out, the obvious hope is that there are other opportunities to uncover
@@ -13543,13 +11697,7 @@ systems poised at the "Goldilocks point" can perform computation
 because the system is neither too static nor too chaotic. While metaphoriis there a more exact statement of such a proposition?
 cally rich,
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-236 (cid:127) Appendix A
+236 Appendix A
 
 What features of a complex system will either allow or prevent it from
 undertaking productive behavior? Moreover, is there some innate force
@@ -13595,13 +11743,7 @@ focus on the robustness of an entity relative to agent details. That is,
 which details of the agents matter in terms of maintaining the system's
 coherence? Second, we can consider the robustness of the entity to
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-An Open Agenda (cid:127) 237
+An Open Agenda 237
 
 perturbations in the environment. What does it take for a system to
 persist in the face of external changes? Alternatively, we could frame the
@@ -13647,13 +11789,7 @@ initially and, in so doing, allows systems to evolve more rapidly toward
 good structures. Over time, as the coevolving structures get better, the bar
 is raised and more selective pressure is exerted in the system. Coevolution
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-238 (cid:127) Appendix A
+238 Appendix A
 
 allows the evolving entities to "challenge" each other progressively.
 By slowly, and automatically, ramping up the challenges, rapid evolutionary progress becomes possible.
@@ -13698,13 +11834,7 @@ allowing the heterogeneity to cancel itself out. However, heterogeneity may not 
 itself out, especially in the presence of
 dynamic feedbacks and other interconnections among the agents. Thus,
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-An Open Agenda (cid:127) 239
+An Open Agenda 239
 
 in many models the tail (of the distribution) wags the dog. For example,
 the probability of a riot depends more on the number of people who
@@ -13754,13 +11884,7 @@ system change as we degrade agent sophistication? Is there a smooth
 transition as we slowly degrade sophistication or are there rapid phase
 transitions where small changes in agent sophistication lead to large
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-240 (cid:127) Appendix A
+240 Appendix A
 
 changes in system behavior. Of particular interest is how much difference
 does the very first movement away from full sophistication make?
@@ -13811,13 +11935,7 @@ adaptive computation techniques that require potential solutions to be
 represented in a framework that allows "genetic" modifications linked
 to reproduction by performance. Implementations of such algorithms
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-An Open Agenda (cid:127) 241
+An Open Agenda 241
 
 often differ in a variety of ways; for example, they may use very different
 kinds of representations, selection mechanisms, and choices of specific
@@ -13864,13 +11982,7 @@ would be able to deploy better our theoretical tools; for example, we
 would have some guidance as to when optimization techniques are likely
 to result in good predictions about the world.
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-242 (cid:127) Appendix A
+242 Appendix A
 
 Knowing more about adaptation would also help us refine our predictions in other contexts. For example, even though first-price, open-outcry
 auctions lead to the identical theoretical outcome as second-price, sealedbid auctions, social systems may employ the former more than the latter
@@ -13916,16 +12028,10 @@ communicate their territorial intentions to the other participants. This
 form of communication appears to have arisen in earlier auctions in a
 more innocuous variation where it was used to display corporate logos
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
 and even the phone number of the congressman responsible for the
 auctions.
 
-An Open Agenda (cid:127) 243
+An Open Agenda 243
 
 A.17 How Do Decentralized Markets Equilibrate?
 
@@ -13966,13 +12072,7 @@ Organization is a fundamental issue spanning the world of complex systems: atoms
 
 1Indeed, you have to wonder about any theory that relies on "invisible" driving forces.
 
-December 5, 2006
-
-Time: 12:47pm
-
-appendixa.tex
-
-244 (cid:127) Appendix A
+244 Appendix A
 
 organisms form firms, and firms form nations. What underlies this
 apparent order? When will organizations emerge or dissipate?
@@ -14000,8 +12100,6 @@ possible to unwind these models further, allowing even more to emerge?
 Ultimately, can we realize in silico a dream similar to Darwin's, where
 starting from so simple a beginning we see endless social forms, most
 beautiful and most wonderful, arise?
-
-December 11, 2006
 
 Time:
 
@@ -14053,15 +12151,9 @@ these practices have very little to do with computational methods per
 se, and that is by design—good computational modeling is more about
 modeling than computation.
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-246 (cid:127) Appendix B
+246 Appendix B
 
 B.1 Keep the Model Simple
 
@@ -14109,15 +12201,9 @@ model and not on their clever (or fast, current, etc.) algorithm (or, for
 
 (1961) offer a few examples.
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-Practices for Modeling (cid:127) 247
+Practices for Modeling 247
 
 that matter, hardware, software, etc.).2 New technological developments
 may enhance our ability to explore better existing models or create new
@@ -14164,15 +12250,9 @@ seminars. Such discussions are best left for other contexts.
 scientists discussing sets of equations on a blackboard divided by the words "then a miracle
 occurs." One says to the other, "I think you should be more explicit here in step two."
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-248 (cid:127) Appendix B
+248 Appendix B
 
 memory, categorization, inference, and problem solving, each of which
 is implemented through an often complicated set of assumptions and
@@ -14217,15 +12297,9 @@ optimizing agent and slowly degrade its behavior toward less and less
 rationality. Such a dial would provide fodder for a variety of interesting
 research questions: Under what conditions does the dial matter? Does the
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-Practices for Modeling (cid:127) 249
+Practices for Modeling 249
 
 behavior of the system undergo slow changes as we turn the dial, or does
 the system experience rapid phase transitions where small movements of
@@ -14271,15 +12345,9 @@ on occasion they may lead to important differences (and hence insights).
 Therefore, it is always useful to implement key modeling choices in a
 variety of ways.
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-250 (cid:127) Appendix B
+250 Appendix B
 
 One useful way to facilitate the creation of multiple implementations of a model is to pose it in relatively general terms to different
 modelers and have each of them separately define an implementation.
@@ -14322,18 +12390,12 @@ time spent in this domain are necessary for ensuring that the results can
 be fully analyzed and easily tied to the exact conditions that produced the
 outcome. Software tools, such as Concurrent Versions Systems (CVS),
 
-December 11, 2006
-
 Time:
-
-02:34pm
-
-appendixb.tex
 
 can assist in the tracking of the various revisions made to the program
 during a research project.
 
-Practices for Modeling (cid:127) 251
+Practices for Modeling 251
 
 B.11 Know the Source of Random Numbers
 
@@ -14373,15 +12435,9 @@ without error), cost (both in terms of development and maintenance),
 and delivery date. The trade-off is such that improving one of these
 areas causes one of the other areas to degrade (or, as it is sometimes
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-252 (cid:127) Appendix B
+252 Appendix B
 
 stated: scope, quality, cost, time, choose three). Second, the majority of
 time on a well-run software development project is not spent in coding,
@@ -14427,15 +12483,9 @@ B.14 Avoid False Precision
 
 When reporting computational work, be aware that there is an appropriate level of precision that can be associated with the results. This
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-Practices for Modeling (cid:127) 253
+Practices for Modeling 253
 
 concept holds at all levels of the model. At the lowest level, make sure
 that numeric results are appropriately reported. At a higher level, given
@@ -14477,15 +12527,9 @@ through well-designed experiments. Indeed, a better name for this section
 might be "disprove your results"—researchers should always try to
 disprove their key results to the best of their ability.
 
-December 11, 2006
-
 Time:
 
-02:34pm
-
-appendixb.tex
-
-254 (cid:127) Appendix B
+254 Appendix B
 
 Researchers should try to use alternative means to solidify key findings.
 Thus, it is often possible to apply more traditional tools to parts of
@@ -14503,8 +12547,6 @@ models, ultimately it is the resulting science that must be judged. Scientific
 judgments in this area should focus not on the computer per se, but on
 the quality and simplicity of the model, the cleverness of the experimental
 designs, and the new insights gained by the effort.
-
-December 5, 2006
 
 Time:
 
@@ -14577,15 +12619,9 @@ Coates, Robert M. 1956. "The Law." In The World of Mathematics, Vol. 4,
 
 edited by James R. Newman, 2268–71. New York: Simon and Schuster.
 
-December 5, 2006
-
 Time:
 
-01:46pm
-
-bibliography.tex
-
-256 (cid:127) Bibliography
+256 Bibliography
 
 Crutchfield, James P. 1994. "The Calculi of Emergence: Computation, Dynamics,
 
@@ -14666,15 +12702,9 @@ Hopfield, John J. 1982. "Neural Networks and Physical Systems with Emergent
 Collective Computational Abilities." Proceedings of the National Academy of
 Sciences 79:2554–58.
 
-December 5, 2006
-
 Time:
 
-01:46pm
-
-bibliography.tex
-
-Bibliography (cid:127) 257
+Bibliography 257
 
 Hotelling, Harold. 1929. "Stability in Competition." Economic Journal
 
@@ -14746,15 +12776,9 @@ in Multiple Game Environments." In Essays on Bounded Rationality and
 Strategic Behavior in Experimental and Computational Economics. Ph.D.
 dissertation, University of Michigan.
 
-December 5, 2006
-
 Time:
 
-01:46pm
-
-bibliography.tex
-
-258 (cid:127) Bibliography
+258 Bibliography
 
 LeBaron, Blake. 2001. "Stochastic Volatility as a Simple Generator of Apparent
 Financial Power Laws and Long Memory." Quantitative Finance 1:621–31.
@@ -14830,15 +12854,9 @@ Computation and the 'Edge of Chaos': A Re-examination." In Complexity:
 Metaphors, Models, and Reality, edited by George Cowan, David Pines, and
 David Melzner, 497–513. Reading, Mass.: Addison-Wesley.
 
-December 5, 2006
-
 Time:
 
-01:46pm
-
-bibliography.tex
-
-Bibliography (cid:127) 259
+Bibliography 259
 
 Moore, Christopher, and Martin Nilsson. 1999. "The Computational Complexity of Sandpiles." Santa Fe Institute Working Paper.
 
@@ -14916,15 +12934,9 @@ Work. Ann Arbor: University of Michigan Press.
 Schelling, Thomas. 1978. Micromotives and Macrobehavior. New York: Norton.
 Schumacher, E. F. 1978. A Guide for the Perplexed. New York: HarperCollins.
 
-December 5, 2006
-
 Time:
 
-01:46pm
-
-bibliography.tex
-
-260 (cid:127) Bibliography
+260 Bibliography
 
 Shannon, Claude. 1948. "A Mathematical Theory of Communication." Bell
 
@@ -15000,8 +13012,6 @@ for Optimization." IEEE Transactions on Evolutionary Computation 1:67–82.
 Zambrano, Eduardo. 2004. "The Interplay between Analytics and Computation
 in the Study of Congestion Externalities: The Case of the El Farol Problem."
 Journal of Public Economic Theory 6:375–95.
-
-December 11, 2006
 
 Time:
 
@@ -15110,17 +13120,13 @@ debugging bias, 251
 decomposability, 205
 deductive indeterminism, 154
 
-December 11, 2006
-
 Time:
 
 03:37pm
 
 index.tex
 
-262 (cid:127)
-
-Index
+262 Index
 
 disease models, 222
 disorganized complexity, 47
@@ -15238,8 +13244,6 @@ Standing Ovation, 10–14; Tent Map,
 141–43; Tiebout, 17–25; Tipping. See
 Segregation model
 
-December 11, 2006
-
 Time:
 
 03:37pm
@@ -15304,7 +13308,7 @@ hierarchical, 42
 
 representation problem, 181–83
 
-Index (cid:127) 263
+Index 263
 
 risk aversion, 140
 robustness, 28, 139–40, 214, 236–37
@@ -15361,8 +13365,6 @@ outcomes, 126, 158; location based, 125
 
 vernacular architecture, 57
 Voter model. See Majority Rule model
-
-December 11, 2006
 
 Time:
 

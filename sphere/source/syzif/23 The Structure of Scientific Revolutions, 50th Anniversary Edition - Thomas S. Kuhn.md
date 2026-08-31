@@ -1,4 +1,3 @@
-
 Thomas S. Kuhn (1922–96) was the Laurence Rockefeller Professor Emeritus of linguistics and
 philosophy at the Massachusetts Institute of Technology. His books include The Essential Tension;
 Black-Body Theory and the Quantum Discontinuity, 1894–1912; and The Copernican Revolution.
@@ -60,44 +59,30 @@ Introductory Essay by Ian Hacking
 
 Preface
 
-I
 Introduction: A Role for History
 
-II
 The Route to Normal Science
 
-III
 The Nature of Normal Science
 
-IV
 Normal Science as Puzzle-solving
 
-V
 The Priority of Paradigms
 
-VI
 Anomaly and the Emergence of Scientific Discoveries
 
-VII
 Crisis and the Emergence of Scientific Theories
 
-VIII
 The Response to Crisis
 
-IX
 The Nature and Necessity of Scientific Revolutions
 
-X
 Revolutions as Changes of World View
-
-XI
 
 The Invisibility of Revolutions
 
-XII
 The Resolution of Revolutions
 
-XIII
 Progress through Revolutions
 
 Postscript—1969
