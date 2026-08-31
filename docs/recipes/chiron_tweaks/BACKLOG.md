@@ -1,6 +1,40 @@
 # Chiron-tweaks backlog
 
-## 2026-08-31 (2nd pass) — syzif corpus mechanical grind: ligatures/cid/headers/pagenums done, OCR word-errors still open
+## 2026-08-31 (3rd pass, tried and rejected) — OCR word-level errors: confusion-table auto-fix is not safe, do not apply as-is
+
+Tried to close the item the 2nd-pass entry below left open. Two approaches, both dead-ended on
+real evidence, not assumption — script kept as report-only (`fix_ocr_word_errors.py`), nothing
+applied to any file, dev/prod both untouched by this attempt:
+
+1. **Brute-force dictionary edit-distance** (singleton token + not in system dict + unique match
+   within edit distance 2): dropped for speed *and* precision. One single book (`4 Governing the
+   Commons`) has 2,901 singleton non-dictionary tokens — most are legitimate rare proper
+   nouns/place names (`Yoram`, `McCubbins`, `Trumpington`, `Williamstown`, `Sabon`...) a generic
+   dictionary doesn't know, not OCR noise. Exhaustive search against the full ~74k-word dictionary
+   timed out past 60s on that one file alone.
+2. **OCR glyph-confusion table** (rn/m, cl/d, ll/n, vv/w, B/E, O/D, etc. — substitution patterns
+   specific to print/scan misreads, accept only if exactly one substitution lands on a known-good
+   word): fast (3s/file), but a hand-check of a 60-item sample from the full-corpus dry-run
+   (1,535 candidate fixes, 65 flagged ambiguous and already skipped) found roughly 35-40% wrong or
+   nonsensical, not the nearly-zero-false-positive bar the 2nd pass held. Concrete wrong fixes:
+   `BRCA`→`BREA` (a real gene name mangled), `CIOs`→`Clos`, `BBN's`→`Ben's` (real acronyms),
+   `Eric's`→`Erie's`, `herd's`→`hero's` (real possessives — a dictionary-lookup bug on `'s` forms,
+   not even genuine OCR garbling), `Correia`→`Correla`, `Pinar`→`Pillar`, `Banet`→`Ballet` (real
+   surnames/place names replaced with unrelated dictionary words). Genuine catches exist in the
+   same sample (`Miigram`→`Milgram`, `VlLFREDO`→`Vilfredo`, `Bditors`→`Editors`,
+   `Ulliversity`→`University`) — the problem is there's no cheap way to tell which is which without
+   sentence context, which neither a dictionary check nor a fixed confusion table has.
+
+**Conclusion**: this needs context-aware review, not a blind pattern/dictionary pass — the same
+class of tool as the vision-model re-OCR already used once in `projects/olga-tfp-book-ocr/` (brain
+repo, one Russian book, GPT-4o against page photos), or an LLM text pass with surrounding-sentence
+context, not a spellchecker. Neither is scoped or started. `fix_ocr_word_errors.py` stays in the
+tree as a **report-only** diagnostic (`--json`, no `--apply`) — useful for sizing the problem or
+feeding a future LLM-assisted pass's candidate list, not for blind auto-correction.
+
+**Corpus state as of this entry**: unchanged since the 2nd-pass commit (`fc38bcbe` dev /
+`ad437e7` CC) — structural grind (ligatures/cid/headers/pagenums/nav) is the current floor, word-
+level OCR correctness is still an open item, not a regression from this attempt. 
 
 Commit `0ff6d4c3` (dev, `igareosh/hesperia`), mirrored to CC (`Consolidare-Continuum/hesperia`
 `6f11f13`) same session. Follows directly on the entry below (same-day, same corpus) — that
