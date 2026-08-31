@@ -247,12 +247,10 @@ PREFACE
 
 In mid-March 1942 some 75 to 80 percent of all victims of the
 Holocaust were still alive, while 20 to 25 percent had perished.
-A mere eleven months later, in mid-February 1943, the percent­
-ages were exactly the reverse. At the core of the Holocaust was
+A mere eleven months later, in mid-February 1943, the percentages were exactly the reverse. At the core of the Holocaust was
 a short, intense wave of mass murder. The center of gravity of
 this mass murder was Poland, where in March 1942, despite two
-and a half years of terrible hardship, deprivation, and persecu­
-tion, every major Jewish community was still intact, and where
+and a half years of terrible hardship, deprivation, and persecution, every major Jewish community was still intact, and where
 eleven months later only the remnants of Polish Jewry survived
 in a few rump ghettos and labor camps. In short, the German
 attack on the Jews of Poland was not a gradual or incremental
@@ -286,8 +284,7 @@ either deport or shoot the bulk of Polish Jewry-was not. 1
 My search for the answers to these questions led me to the
 town of Ludwigsburg near Stuttgart. Here is located the Central
 Agency for the State Administrations of Justice (Zentrale Stelle
-der Landesjustizverwaltungen), the Federal Republic of Ger­
-many's office for coordinating the investigation of Nazi crimes. I
+der Landesjustizverwaltungen), the Federal Republic of Germany's office for coordinating the investigation of Nazi crimes. I
 was working through their extensive collection of indictments
 and judgments for virtually every German trial of Nazi crimes
 committed against the Jews of Poland when I first encountered
@@ -297,8 +294,7 @@ the German Order Police.
 Though I had been studying archival documents and court
 records of the Holocaust for nearly twenty years, the impact this
 indictment had upon me was singularly powerful and disturbing.
-Never before had I encountered the issue of choice so dramati­
-cally framed by the course of events and so openly discussed by
+Never before had I encountered the issue of choice so dramatically framed by the course of events and so openly discussed by
 at least some of the perpetrators. Never before had I seen the
 monstrous deeds of the Holocaust so starkly juxtaposed with the
 human faces of the killers.
@@ -309,17 +305,14 @@ of battalion members, that the case was based upon an unusually
 
 Preface / xv
 
-rich collection of testimonies. Moreover, many of these testimo­
-nies had a "feel" of candor and frankness conspicuously absent
+rich collection of testimonies. Moreover, many of these testimonies had a "feel" of candor and frankness conspicuously absent
 from the exculpatory, alibi-laden, and mendacious testimony so
 often encountered in such court records. The investigation and
 legal prosecution of Reserve Police Battalion 10 1 had been a
 decade-long process ( 1962 to 1972) conducted by the Office of
 the State Prosecutor (Staatsanwaltschaft) in Hamburg. This
-office-surely one of the most diligent and committed prosecu­
-tors of Nazi crimes in all of the Federal Republic-still had
-custody of the court records relating to the case , and I success­
-fully applied for permission to see them.
+office-surely one of the most diligent and committed prosecutors of Nazi crimes in all of the Federal Republic-still had
+custody of the court records relating to the case , and I successfully applied for permission to see them.
 
 Unlike so many of the Nazi killing units, whose membership
 can only be partially reconstructed, Reserve Police Battalion
@@ -331,18 +324,15 @@ at full strength to Poland in June 1942 . This collection of
 interrogations provided a representative sample for statistical
 answers to questions about age, Party and SS membership, and
 social background. Moreover, about 125 of the testimonies were
-sufficiently substantive to permit both detailed narrative recon­
-struction and analysis of the internal dynamics of this killing unit.
+sufficiently substantive to permit both detailed narrative reconstruction and analysis of the internal dynamics of this killing unit.
 Ultimately, the Holocaust took place because at the most basic
 level individual human beings killed other human beings in large
 numbers over an extended period of time. The grass-roots
-perpetrators became "professional killers. " The historian en­
-counters numerous difficulties in trying to write about a unit of
+perpetrators became "professional killers. " The historian encounters numerous difficulties in trying to write about a unit of
 such men, among them the problem of sources. In the case of
 Reserve Police Battalion 10 1, in contrast to many of the killing
 units operating in the Soviet Union, there are few contemporary
-documents and none that deal explicitly with its killing activi­
-ties.2 The accounts of a handful of Jewish survivors can establish
+documents and none that deal explicitly with its killing activities.2 The accounts of a handful of Jewish survivors can establish
 the dates and magnitude of various actions in some of the towns
 where the battalion operated. But unlike survivor testimony
 about prominent perpetrators in the ghettos and camps, where
@@ -380,8 +370,7 @@ conscious mendacity shaped the accounts of the witnesses.
 Furthermore, the interrogators asked questions pertinent to
 their task of collecting evidence for specific, indictable crimes
 committed by particular people, but did not systematically
-investigate the broader, often more impressionistic and subjec­
-tive facets of the policemen's experience that are important to
+investigate the broader, often more impressionistic and subjective facets of the policemen's experience that are important to
 the historian, if not to the lawyer.
 
 As with any use of multiple sources, the many accounts and
@@ -391,8 +380,7 @@ witness had to be assessed. Much of the testimony had to be
 Preface I xvi i
 
 partially or totally dismissed in favor of conflicting testimony that
-was accepted. Many of these judgments were both straightfor­
-ward and obvious, but others were quite difficult. And as
+was accepted. Many of these judgments were both straightforward and obvious, but others were quite difficult. And as
 self-conscious as I have tried to be, at times I undoubtedly made
 purely instinctive judgments without even being aware of it.
 Other historians looking at the same materials would retell these
@@ -409,8 +397,7 @@ common experiences of ordinary people. When such an approach
 has been applied to the era of the Third Reich, however, some
 have criticized it as an evasion-a way to shift attention from the
 unparalleled horrors of the Nazi regime's genocidal policies to
-those mundane aspects of life that continued relatively undis­
-turbed. Thus, the very attempt to write a case study or
+those mundane aspects of life that continued relatively undisturbed. Thus, the very attempt to write a case study or
 microhistory of a single battalion might seem undesirable to
 some.
 
@@ -451,8 +438,7 @@ Marc Bloch wrote, "When all is said and done, a single word,
 'understanding,' is the beacon light of our studies."3 It is in that
 spirit that I have tried to write this book.
 
-One condition placed upon my access to the judicial interro­
-gations must be made clear. Regulations and laws for the
+One condition placed upon my access to the judicial interrogations must be made clear. Regulations and laws for the
 protection of privacy have become increasingly restrictive in
 Germany, especially in the past decade. The state of Hamburg
 and its court records are no exception to this trend. Before
@@ -476,37 +462,28 @@ historical accuracy, I do not believe it undermines the integrity
 or primary usefulness of this study.
 
 A number of people and institutions provided indispensable
-support during the research and writing of this study. Oberstaats­
-anwalt (Senior Prosecutor) Alfred Streim made available to me
-the incomparable collection of German judicial records in Lud­
-wigs burg. Oberstaatsanwaltin Helge Grabitz encouraged me to
-work with the court records in Hamburg, supported my appli­
-cation for access, and generously helped in every way during my
-stay there. Pacific Lutheran University provided me with finan­
-cial awards for the two trips to German archives that initiated
+support during the research and writing of this study. Oberstaatsanwalt (Senior Prosecutor) Alfred Streim made available to me
+the incomparable collection of German judicial records in Ludwigs burg. Oberstaatsanwaltin Helge Grabitz encouraged me to
+work with the court records in Hamburg, supported my application for access, and generously helped in every way during my
+stay there. Pacific Lutheran University provided me with financial awards for the two trips to German archives that initiated
 and concluded my research on this project. The Alexander von
 Humboldt Foundation likewise aided one research visit in
 Germany. The bulk of the research and writing was completed
 during sabbatical leave from Pacific Lutheran University, and
 with the support of a Fulbright Research Grant to Israel. Daniel
-Krauskopf, executive secretary of the United States-Israel Ed­
-ucational Foundation, deserves special thanks for facilitating my
+Krauskopf, executive secretary of the United States-Israel Educational Foundation, deserves special thanks for facilitating my
 research in both Israel and Germany.
 
 Peter Hayes of Northwest em University and Saul Friedlander
 of UCLA offered opportunities to present initial research findings
 at conferences they organized at their respective institutions.
-Many friends and colleagues listened patiently, offered sugges­
-tions, and provided encouragement along the way. Philip Nord­
-quist, Dennis Martin, Audrey Euyler, Robert Hoyer, Ian
+Many friends and colleagues listened patiently, offered suggestions, and provided encouragement along the way. Philip Nordquist, Dennis Martin, Audrey Euyler, Robert Hoyer, Ian
 Kershaw, Robert Gellately, Yehuda Bauer, Dinah Porat,
-Michael Marrus, Bettina Bim, George Mosse, Elisabeth Doman­
-sky, Gitta Sereny, Carlo Ginzburg, and the late Uwe Adam
+Michael Marrus, Bettina Bim, George Mosse, Elisabeth Domansky, Gitta Sereny, Carlo Ginzburg, and the late Uwe Adam
 deserve special mention. To Raul Hilberg lowe a special debt.
 In 1982 he called attention to the indispensability of the Order
 Police to the Final Solution, continuing as so often in.the past to
-set the agenda for further Holocaust research. " He then person­
-ally interested himself in the publication of this study. For such
+set the agenda for further Holocaust research. " He then personally interested himself in the publication of this study. For such
 
 xx I Preface
 
@@ -600,8 +577,7 @@ paramilitary units known as the Freikorps. When the domestic
 situation stabilized in 1919, many of the Freikorps men were
 merged with regular police into large formations stationed in
 barracks and on hand to combat any further resurgence of the
-revolutionary threat. The Allies, however, demanded the disso­
-lution of these police formations in 1920 as a potential violation
+revolutionary threat. The Allies, however, demanded the dissolution of these police formations in 1920 as a potential violation
 of the clause of the Versailles Treaty limiting Germany's standing
 army to 100,000 men.
 
@@ -625,15 +601,11 @@ jurisdiction over all police units in the Third Reich. Himmler
 divided the various German police into two branches, each
 under a main office in Berlin. Under the Security Police
 (Sicherheitspolizei) Main Office of Reinhard Heydrich were the
-notorious Secret State Police (Geheime Staatspolizei, or Ge­
-stapo), to combat the regime's political enemies, and the Crim­
-inal Police (Kriminalpolizei, or Kripo), which was basically a
+notorious Secret State Police (Geheime Staatspolizei, or Gestapo), to combat the regime's political enemies, and the Criminal Police (Kriminalpolizei, or Kripo), which was basically a
 detective force for nonpolitical crimes. The second branch of the
 police was the Order Police Main Office under Kurt Daluege.
-Daluege had charge of the city or municipal police (Schutz­
-polizei, or Schupo), the rural police, equivalent perhaps to
-county troopers (Gendarmerie), and the small-town or commu­
-nity police (Gemeindepolizei).
+Daluege had charge of the city or municipal police (Schutzpolizei, or Schupo), the rural police, equivalent perhaps to
+county troopers (Gendarmerie), and the small-town or community police (Gemeindepolizei).
 
 By 1938 Daluege had over 62,000 policemen under his
 
@@ -673,8 +645,7 @@ exempt from military conscription.
 To replenish its ranks, the Order Police was allowed to recruit
 26,000 young German men-9,000 volunteers born between
 1918 and 1920, and 17,000 volunteers born between 1909 and
-1912-as well as 6,000 so-called "ethnic Germans," or Volks­
-deutsche, who had lived outside Germany prior to 1939. In
+1912-as well as 6,000 so-called "ethnic Germans," or Volksdeutsche, who had lived outside Germany prior to 1939. In
 addition, the Order Police received authorization to conscript
 91,500 reservists born between 1901 and 1909-an age group not
 as yet subject to the military draft. Order Police conscription was
@@ -705,18 +676,14 @@ Poland, known as the General Government, and seven were
 stationed in the western Polish territories annexed to the Third
 Reich, the "incorporated territories. " Ten were stationed in the
 occupied Czech lands of Bohemia and Moravia, known as the
-Protectorate. In addition, six battalions were stationed in Nor­
-way, and four in the Netherlands.4 The Order Police were
+Protectorate. In addition, six battalions were stationed in Norway, and four in the Netherlands.4 The Order Police were
 quickly becoming an essential source of manpower for holding
 down German-occupied Europe.
 
 The new battalions were created in two ways. First, to provide
-the necessary cadres of noncommissioned officers, career police­
-men and prewar volunteers from the initial battalions that went
+the necessary cadres of noncommissioned officers, career policemen and prewar volunteers from the initial battalions that went
 into Poland in 1939 were promoted and distributed to the newly
-formed units, whose ranks were filled with older drafted reserv­
-ists. These battalions were designated "reserve police battal­
-ions." Second, particular units (given numbers from 251 to 256
+formed units, whose ranks were filled with older drafted reservists. These battalions were designated "reserve police battalions." Second, particular units (given numbers from 251 to 256
 and 301 to 325) were formed from among the 26,000 young
 volunteers allocated to the Order Police in the fall of 1939. They
 
@@ -732,9 +699,7 @@ The presence of the Order Police in the General Government
 was felt in two ways. First, in each of the four districts into which
 the General Government had been divided-Krak6w, Lublin,
 Radom, and Warsaw (a fifth, Galicia, was added in 1941}-a
-pennanent regimental commander (Kommandeur der Ordnungs­
-polizei, or KdO) and staff were established. Each district regi­
-ment was composed of three battalions that were constantly
+pennanent regimental commander (Kommandeur der Ordnungspolizei, or KdO) and staff were established. Each district regiment was composed of three battalions that were constantly
 changing as they were rotated out from Gennany on tours of
 duty. Second, there was a thin network of smaller units of Order
 Police throughout the General Government. In each of the
@@ -757,21 +722,18 @@ office in Berlin. This was the nonnal chain of command for
 matters solely concerning the local Order Police units. However,
 there was a second chain of command for all policies and
 operations that involved the joint action of the Order Police with
-the Security Police and other SS units. In the General Govern­
-ment, Heinrich Himmler had appointed a Higher SS and Police
+the Security Police and other SS units. In the General Government, Heinrich Himmler had appointed a Higher SS and Police
 Leader (HSSPF), Friedrich-Wilhelm Kruger, as his personal
 representative, with special responsibility to coordinate any
 actions involving more than one agency of Himmler's sprawling
 
 8 / ORD I N ARY M E N
 
-SS and police empire. In each district in the General Govern­
-ment, there was an SS and Police Leader (SSPF) who had the
+SS and police empire. In each district in the General Government, there was an SS and Police Leader (SSPF) who had the
 same responsibilities and powers on the district level that Kruger
 exercised for the General Government. For the district of
 Lublin, where Reserve Police Battalion 101 was stationed in
-1942-43, the SSPF was the brutal and unsavory Odilo Globoc­
-nik, a crony of Himmler's, who had been removed from his
+1942-43, the SSPF was the brutal and unsavory Odilo Globocnik, a crony of Himmler's, who had been removed from his
 position as party chief in Austria for corruption. Thus Order
 Police units in the Lublin district could receive orders either
 from Daluege and the Berlin main office through the BdO in
@@ -786,8 +748,7 @@ The Order Police and the
 Final Solution: Russia 1941
 
 THE INITIAL PARTICIPATION OF THE ORDER POLICE IN THE
-Final Solution-the Nazi mass murder of European Jewry­
-occurred not in Poland but in Russia in the summer and fall of
+Final Solution-the Nazi mass murder of European Jewryoccurred not in Poland but in Russia in the summer and fall of
 1941. In preparation for the invasion of Russia and the "war of
 destruction" Hitler intended to wage there, four special mobile
 units of the SS known as Einsatzgruppen were formed and
@@ -801,8 +762,7 @@ Einsatzgruppen.1 Order Police members thus constituted about
 
 1 0 1 OR D I N ARY M E N
 
-500 of the total of 3,000 men assigned to the four Einsatzgrup­
-pen.
+500 of the total of 3,000 men assigned to the four Einsatzgruppen.
 
 The Einsatzgruppen were only the thin cutting edge of
 German units that became involved in political and racial mass
@@ -817,13 +777,11 @@ the advancing German armies.
 For the occupation of Russia, Himmler had appointed three
 Higher SS and Police Leaders for the northern, central, and
 southern regions respectively. These men were in charge of
-coordinating all SS operations in occupied Russia. In the eu­
-phoric day� of mid-July 1941, when ultimate victory seemed in
+coordinating all SS operations in occupied Russia. In the euphoric day� of mid-July 1941, when ultimate victory seemed in
 sight after Germany's stupendous initial military successes,
 Hitler ordered the intensification of the pacification program
 behind the advancing German lines. On July 16 he announced
-that Germany would never withdraw from its newly won terri­
-tories in the east; instead he would create there "a Garden of
+that Germany would never withdraw from its newly won territories in the east; instead he would create there "a Garden of
 Eden," taking all necessary measures to accomplish this. It was
 fortunate that Stalin had given the order for partisan warfare,
 Hitler said, because "it gives us the opportunity to exterminate
@@ -836,8 +794,7 @@ his master. Within a week, he had reinforced HSSPF Central
 Erich von dem Bach-Zelewski and HSSPF South Friedrich
 Jeckeln with an additional SS brigade each, thus adding more
 than 11,000 men to the SS murder campaign.3 Moreover, at least
-eleven police battalions-nine of them 300-level and thus com­
-posed of recent young volunteers-were distributed among the
+eleven police battalions-nine of them 300-level and thus composed of recent young volunteers-were distributed among the
 three HSSPFs in Russia, adding another 5,500 Order Police to
 
 Ir:
@@ -851,8 +808,7 @@ Ir:
 The Order Po l i ce and the Final Solu t i o n : Russia 1 941 / 1 1
 
 -£-. the 500 already assigned to the Einsatzgruppen.4 Between late
-July and mid-August, Himmler toured the eastern front, per­
-sonally urging his men to carry out the mass murder of Russian
+July and mid-August, Himmler toured the eastern front, personally urging his men to carry out the mass murder of Russian
 Jewry.
 
 But the Order Police actually inaugurated their murderous
@@ -864,8 +820,7 @@ company commanders. As in every other unit of the German
 army and police moving into Russia, he disclosed several orders
 that were to be passed on to the men verbally. The first was the
 notorious Kommissarbefehl, or "commissar order," according to
-which so-called political commissars-all Communist function­
-aries in the army as well as those in the civil administration
+which so-called political commissars-all Communist functionaries in the army as well as those in the civil administration
 suspected of being in any way anti-German-were to be denied
 prisoner of war status and executed.5 The second order was the
 "Barbarossa decree," which removed the actions of German
@@ -903,8 +858,7 @@ General pflugbeil and knelt at his feet, begging for army
 protection, one member of Police Battalion 309 unzipped his fly
 and urinated on them while the general turned his back.
 
-What started as a pogrom quickly escalated into more system­
-atic mass murder. Jews collected at the marketplace were taken
+What started as a pogrom quickly escalated into more systematic mass murder. Jews collected at the marketplace were taken
 to a park, lined up against a wall, and shot. The killing lasted
 until dark. At the synagogue, where at least 700 Jews had been
 collected, gasoline was poured at the entryways. A grenade was
@@ -923,16 +877,13 @@ If the first Order Police massacre of Jews in Bialystok, on June
 intuited and anticipated the wishes of his Fuhrer, the second, in
 mid-July, involved clear and systematic instigation from the very
 highest echelons of the SS-namely Erich von dem Bach­
-Zelewski, Kurt Daluege, and Heinrich Himmler. Police Battal­
-ion 309 moved eastward, and Police Battalions 316 and 322
+Zelewski, Kurt Daluege, and Heinrich Himmler. Police Battalion 309 moved eastward, and Police Battalions 316 and 322
 entered Bialystok in its wake. The official daily record, or war
 diary (Kriegstagebuch), and various reports and orders of Police
-Battalion 322 are among the rare surviving Order Police docu­
-ments that have reached the West from Soviet archives. They
+Battalion 322 are among the rare surviving Order Police documents that have reached the West from Soviet archives. They
 allow us to trace subsequent events in Bialystok.
 
-The preinvasion orientation of Police Battalion 322 was appar­
-ently not as vicious as that of Police Battalion 309, but it was
+The preinvasion orientation of Police Battalion 322 was apparently not as vicious as that of Police Battalion 309, but it was
 certainly not free of ideological exhortation. Major General
 Retzlaff delivered a farewell address to the battalion in Warsaw
 on June 10. Every member had to be careful, he advised, "to
@@ -973,11 +924,9 @@ Nagel, was invited to the dinner given that evening by HSSPF
 Central, Bach-Zelewski,
 in Himmler's honor. The following
 morning Daluege held a review of the police battalions in
-Bialystok in Himmler's presence. In his speech Daluege empha­
-sized that the Order Police "could be proud to be participating
+Bialystok in Himmler's presence. In his speech Daluege emphasized that the Order Police "could be proud to be participating
 in the defeat of the world enemy, Bolshevism. No other
-campaign had the significance of the present one. Now Bolshe­
-vism will finally be destroyed for the benefit of Germany,
+campaign had the significance of the present one. Now Bolshevism will finally be destroyed for the benefit of Germany,
 Europe, yes, the entire world. "12
 
 Two days later, on July 11, Colonel Montua of the Police
@@ -1009,8 +958,7 @@ Furthermore the men are to be instructed continuously about
 the political necessity of the measures. 13
 
 The war diary falls strangely silent about what happened in
-Bialystok following Montua's ordering of executions, but subse­
-quent judicial proceedings in Germany unveiled the course of
+Bialystok following Montua's ordering of executions, but subsequent judicial proceedings in Germany unveiled the course of
 events.14 There was, of course, no investigation, trial, and
 conviction of so-called plunderers to be shot according to martial
 law. Male Jews who appeared to be between the ages of
@@ -1031,8 +979,7 @@ executions under the headlights of their trucks. When this
 proved unsatisfactory, the action was broken off and completed
 the following day. The German courts concluded that at least
 3,000 Jews had been shot (though it must be kept in mind that
-for judicial convenience such figures always represent an uncon­
-tested minimal estimate of victims, and not the most probable
+for judicial convenience such figures always represent an uncontested minimal estimate of victims, and not the most probable
 number, so as to remove that issue from judicial dispute).
 
 •
@@ -1046,8 +993,7 @@ The Order Pol ice a n d the F i n a l S o l uti o n : R u s s i a 1 94 1 1 1 5
 'Ibe murder campaign against Russian Jewry accelerated in
 the late summer and fall of 1941, and the war diary of Police
 Jattalion 322 reveals its continuing involvement. On July 23 the
-battalion's formal subordination to the rear area army com­
-mander was severed. "For the imminent tasks of the battalion, it
+battalion's formal subordination to the rear area army commander was severed. "For the imminent tasks of the battalion, it
 is placed directly under the HSSPF Gruppenfiihrer von dem
 Bach. "15 As the three companies of Police Battalion 322 moved
 from Bialystok to Minsk during the month of August, Lieutenant
@@ -1057,8 +1003,7 @@ ongoing executions of Jews in its path. Following sweeps by the
 August 2, the war diary noted, "Before departure 3d Company
 must carry out the liquidation of Jews. "16 Riebel subsequently
 reported, "In the early morning hours of August 10, the
-liquidation of the Jews lodged in the Bial"owiei.a prisoner collec­
-tion camp was carried out by 3d Company. Seventy-seven male
+liquidation of the Jews lodged in the Bial"owiei.a prisoner collection camp was carried out by 3d Company. Seventy-seven male
 Jews between 16 and 45 were shot. The action was performed
 without incident. 'Ibere was not a single case of resistance. "17
 'Ibis was not an isolated action, for five days later Riebel
@@ -1071,12 +1016,10 @@ execution was performed smoothly and without incident."18
 
 By late August the battalion was in Minsk, where Bach­
 . Zelewski and Daluege met on August 29. 19 As in Bialystok
-earlier, their meeting was the prelude to Order Police partici­
-pation in another major mass shooting of Jews. On August 30
+earlier, their meeting was the prelude to Order Police participation in another major mass shooting of Jews. On August 30
 the battalion commander, Major Nagel, was summoned to
 discuss "a basic Jewish action" scheduled to take place on August
-. 31 and September 1. The battalion was to provide two compa­
-nies.20
+. 31 and September 1. The battalion was to provide two companies.20
 
 On August 31 the First and Third Companies of Police
 Battalion 322 (now designated the Seventh and Ninth Companies
@@ -1113,8 +1056,7 @@ seized, 65 shot on the spot attempting to escape. " On the
 follOwing day: "7th and 9th Companies together with the staff
 of the Higher SS and Police Leader Russia Central�xecution of
 a total of 2,208 Jews and Jewesses outside Mogilev not far from
-the forest camp (7th Company 378, 9th Company 545 shoot­
-ings}."23
+the forest camp (7th Company 378, 9th Company 545 shootings}."23
 
 The involvement of the police battalions in the central region
 of Russia was not unique. The scant surviving documentation
@@ -1297,17 +1239,14 @@ appeared. He introduced himself as the adjutant of the
 battalion commander of the Security [sic] Police. The first
 lieutenant declared that the police battalion had been assigned
 the task of carrying out the liquidation of all Jews in the city of
-Slutsk within two days. The battalion commander was ap­
-proaching with a force of four companies, two of them
-Lithuanian auxiliaries, and the action had to begin immedi­
-ately. I thereupon answered the first lieutenant that in any
+Slutsk within two days. The battalion commander was approaching with a force of four companies, two of them
+Lithuanian auxiliaries, and the action had to begin immediately. I thereupon answered the first lieutenant that in any
 case I first of all had to discuss the action with the commander.
 About one-half hour later the police battalion arrived in
 
 20 l O R 0 I N A R Y M E N
 
-Slutsk. As requested, the discussion with the battalion com­
-mander then took place immediately after his arrival. I
+Slutsk. As requested, the discussion with the battalion commander then took place immediately after his arrival. I
 explained first of all to the commander that it would scarcely
 be possible to carry out the action without prior preparation,
 because all [the Jews] had been sent to work and there would
@@ -1327,8 +1266,7 @@ fact that White Russian craftsmen were, so to say, utterly
 unavailable, that therefure all vital enterprises would be
 paralyzed with a single blow if all Jews were liquidated. At the
 conclusion of our discussion I mentioned that the craftsmen
-and specialists, insofar as they were indispensable, had iden­
-tification on hand, and that these Jews were not to be taken
+and specialists, insofar as they were indispensable, had identification on hand, and that these Jews were not to be taken
 out of the workshops. It was further agreed that all Jews still
 in the city, especially the craftsmen's families, whom I also did
 not want to have liquidated, should first of all be brought to
@@ -1338,8 +1276,7 @@ no way opposed my position, so in good faith I believed that
 the action would therefore be carried out accordingly.
 
 Several hours after the action began, the greatest difficulties
-were already becoming apparent. I discovered that the com­
-mander was not at all abiding by our arrangement. Contrary to
+were already becoming apparent. I discovered that the commander was not at all abiding by our arrangement. Contrary to
 the agreement, all Jews without exception were being taken
 from the factories and workshops and sent off. A portion of the
 Jews were in any case taken through the ghetto, where many
@@ -1352,12 +1289,10 @@ the city. Shortly after noon, complaints were already coming
 from all sides that the workshops could no longer operate
 because all Jewish craftsmen had been removed. Because the
 commander had driven on to Baranovichi, I contacted the
-deputy commander, a captain, after a long search and de­
-manded that the action be immediately stopped, because it
+deputy commander, a captain, after a long search and demanded that the action be immediately stopped, because it
 was not taking place according to my instructions and the
 economic damage already inflicted could not be made good.
-The captain was very astonished by my viewpoint and ex­
-plained that he had received instructions from the commander
+The captain was very astonished by my viewpoint and explained that he had received instructions from the commander
 to make the city free of Jews without exception, as they had
 also done in other cities. The cleansing had to take place on
 political grounds, and nowhere had economic factors so far
@@ -1366,8 +1301,7 @@ nonetheless stopped the action toward evening.
 
 What else concerns this action, I must to my greatest regret
 emphasize, is last of all that it bordered on sadism. During the
-action the city itself offered a horrible picture. With indescrib­
-able brutality, by the German policemen as well but especially
+action the city itself offered a horrible picture. With indescribable brutality, by the German policemen as well but especially
 by the Lithuanians, the Jews and also White Russians were
 taken out of their lodgings and driven together. There was
 shooting everywhere in the city, and in the individual streets
@@ -1390,8 +1324,7 @@ in order not to be shot themselves. The entire scene was
 
 altogether more than ghastly. In the afternoon a large number
 of horse-drawn carts without drivers stood around in the
-streets, so that I had to assign the city administration imme­
-diately to take care of them. Afterward it turned out that they
+streets, so that I had to assign the city administration immediately to take care of them. Afterward it turned out that they
 were Jewish wagons that had been assigned by the army to
 transport ammunition. The Jews had simply been taken down
 from the wagons and marched off, without anyone caring for
@@ -1435,8 +1368,7 @@ months, and that it will be a long time before we can again
 win the trust of the population.
 
 In conclusion I find myself compelled to point out that
-during the action the police battalion plundered in an outra­
-geous way, and indeed not only in Jewish houses, but just as
+during the action the police battalion plundered in an outrageous way, and indeed not only in Jewish houses, but just as
 much in the houses of the White Russians. They took with
 them anything useful, such as boots, leather, textiles, gold,
 and other valuables. According to the accounts of members of
@@ -1451,8 +1383,7 @@ civil administration and provided with a Jewish inventory
 were broken into and robbed by the police. Even in the
 barracks in which the unit was lodged, window frames and
 doors were tom out for the camp fire. Even though I had a talk
-with the commander's adjutant on Tuesday morning concern­
-ing the plundering and he promised me in the course of the
+with the commander's adjutant on Tuesday morning concerning the plundering and he promised me in the course of the
 conversation that no police would henceforth enter the city,
 several hours later I was forced once again to arrest two fully
 armed Lithuanians, because they were caught looting. On the
@@ -1477,13 +1408,11 @@ to disprove beyond any reasonable doubt the chief postwar alibi
 of the Order Police leadership-namely, that Daluege had
 reached an agreement with Himmler whereby the Order Police
 would assist the Security Police, providing guard duty and any
-services short of shooting, but were forbidden to be the execu­
-tioners themselves. This alibi, akin to the postwar claim of the
+services short of shooting, but were forbidden to be the executioners themselves. This alibi, akin to the postwar claim of the
 Waf£en-SS that they were soldiers like any others and did not
 participate in the ideologically grounded programs of the rest of
 the SS, was successfully pleaded before at least one German
-court in the trial of Police Battalion 11. The defendants per­
-suaded the court that after only two executions-upon army
+court in the trial of Police Battalion 11. The defendants persuaded the court that after only two executions-upon army
 orders in the Minsk region-they were able to invoke Daluege's
 arrangement to secure their recall to Kovno.29
 
@@ -1512,12 +1441,10 @@ assign the actual shooting duties to these units, in order to shift
 The Order Pol ice a n d the F i n a l Solution: Rus s i a 1 941 1 2 5
 
 the psychological burden from the German police to their
-collaborators. This psychological burden was serious and ex­
-tended even to Bach-Zelewski himself. Himmler's S S doctor,
+collaborators. This psychological burden was serious and extended even to Bach-Zelewski himself. Himmler's S S doctor,
 reporting to the Reichsruhrer on Bach-Zelewski's incapacitating
 illness in the spring of 1942, noted that the SS leader was
-suffering "especially from visions in connection with the shoot­
-ings of Jews that he himself had led, and from other difficult
+suffering "especially from visions in connection with the shootings of Jews that he himself had led, and from other difficult
 experiences in the east. "32
 
 The Order Police and the
@@ -1564,11 +1491,9 @@ Police.
 
 What did this mean in terms of what the Order Police
 experienced? One graphic report by Lieutenant Paul Salitter on
-guarding a deportation train from Dusseldorf to Riga on Decem­
-ber 11, 1941, has already been published in both English and
+guarding a deportation train from Dusseldorf to Riga on December 11, 1941, has already been published in both English and
 German. 5 Two other reports--on deportation trains from Vienna
-to Sobib6r and from Kolomyja in Galicia to Betzeo-are note­
-worthy for an understanding of what numerous Order Police
+to Sobib6r and from Kolomyja in Galicia to Betzeo-are noteworthy for an understanding of what numerous Order Police
 units did more than one thousand times during the war. First,
 the Vienna transport.
 
@@ -1587,8 +1512,7 @@ The transport commando consisted of Reserve lieutenant
 Fischmann as leader, two sergeants, and 13 reserve policemen
 of the 1st Reserve Police Company East. The duty of the
 transport commando began at 11 a.m. on June 14, 1942, at the
-Aspangbahnhof, in accordance with the prior telephone re­
-quest of SS-Hauptsturmfiihrer Brunner.
+Aspangbahnhof, in accordance with the prior telephone request of SS-Hauptsturmfiihrer Brunner.
 
 1. The loading of the Jews:
 Under the direction and supervision of SS-Hauptsturmfiihrer
@@ -1605,8 +1529,7 @@ with a third- instead of a second-class car.
 The train Da 38 was dispatched from Vienna at 7:08 p.m. on
 June 14, 1942, and traveled to Sobib6r, not as scheduled to
 Izbica, via Lundenburg [Breclar] , Briinn [Bmo], Neisse
-[Nysa], Oppeln [Opole], Cz�stochowa, Kielce, Radom, D�b­
-lin, Lublin, and Chelm. Arrival in Sobib6r on June 17, 1942,
+[Nysa], Oppeln [Opole], Cz�stochowa, Kielce, Radom, D�blin, Lublin, and Chelm. Arrival in Sobib6r on June 17, 1942,
 at 8:05 a. m. On arrival in Lublin at 9 p.m. on June 16,
 SS-Obersturmfiihrer Pohl was waiting for the train at the
 station and had 51 Jews capable of work between the ages of 15
@@ -1624,8 +1547,7 @@ The Order Police and the F i n a l S o l ution : Deportation / 29
 
 3. Delivery of the Jews in Sobib6r:
 At 8:15 a. m. on June 17 the train drove into the work camp
-next to the Sobib6r train station, where the camp comman­
-dant, First Lieutenant Stangl, took delivery of the 949 Jews.
+next to the Sobib6r train station, where the camp commandant, First Lieutenant Stangl, took delivery of the 949 Jews.
 The unloading of the train cars began immediately and was
 completed by 9:15 a. m.
 
@@ -1655,8 +1577,7 @@ return trip at 12:15 a. m. on June 20.
 
 7. Provisions:
 The men of the transport commando were provided with cold
-rations for four days. This consisted of sausage, bread, mar­
-malade, and butter, but was nonetheless not sufficient. In
+rations for four days. This consisted of sausage, bread, marmalade, and butter, but was nonetheless not sufficient. In
 Krak6w the daily ration of the Third Company of Reserve
 Battalion 74 was good and sufficient.
 
@@ -1686,15 +1607,13 @@ Lieutenant Fischmann could concentrate on the hardships of a
 third- rather than second-class car, insufficient rations, and the
 summer heat that spoiled his butter. No mention, of course, was
 made of what the incarcerated Jews, without food or water, must
-have been suffering in the closed cattle cars during the sixty­
-one-hour journey. But Fischmann was quite conscious, as he
+have been suffering in the closed cattle cars during the sixtyone-hour journey. But Fischmann was quite conscious, as he
 delivered 949 Jews to the alleged work camp in Sobib6r, that the
 Jews selected for work, the luggage, and the food supplies did
 not accompany them there. At Sobib6r the gas chambers were
 deep in the forest and not visible from the unloading ramp. But
 contrary to most Order Police denials, Fischmann and his
-commando apparently entered the camp and watched the un­
-loading.
+commando apparently entered the camp and watched the unloading.
 
 The Order Police who guarded the deportation train from
 Kolomyja in Galicia found the experience considerably more
@@ -1761,8 +1680,7 @@ by squeezing through the air holes after removing the barbed
 wire. While the guard was able to shoot many of them
 immediately, most of the escaping Jews were eliminated that
 night or the next day by the railroad guard or other police
-units. This transport was delivered in BeJzec without note­
-worthy incident, although given the length of the train and the
+units. This transport was delivered in BeJzec without noteworthy incident, although given the length of the train and the
 deep darkness, the guard had proved to be too weak, as the
 commander of the transport guard from 6th Company of
 Police Regiment 24, who returned directly to Stanislaw6w,
@@ -1772,11 +1690,9 @@ On September 8, some 300 Jews-old and weak, ill, frail,
 and no longer transportable-were executed. According to the
 order of September 4, of which I was first informed on
 September 6, concerning use of ammunition, 90% of all those
-executed were shot with carbines and rifles. Only in excep­
-tional cases were pistols used.
+executed were shot with carbines and rifles. Only in exceptional cases were pistols used.
 
-On September 8 and 10, actions in Kuty, Kosov, Horo­
-denka, Zaplatov, and Sniatyn were carried out. Some 1,500
+On September 8 and 10, actions in Kuty, Kosov, Horodenka, Zaplatov, and Sniatyn were carried out. Some 1,500
 Jews had to be driven on foot marches 50 kilometers from
 Kuty or 35 kilometers from Kosov to KoI"omyja, where they
 were kept overnight in the courtyard of the Security Police
@@ -1794,8 +1710,7 @@ for the well-known reasons. In the great roundup of Jews
 The Order Police and the F i n a l Solut i o n : Deportation 1 3 3
 
 to be resettled by September 10 in Kolnmyja, the Security
-Police loaded all Jews into the 30 available train cars de­
-spite the objections I expressed. Given the great heat
+Police loaded all Jews into the 30 available train cars despite the objections I expressed. Given the great heat
 prevailing on those days and the strain on the Jews from the
 long foot marches or from waiting for days without being
 given any provisions worth noting, the excessively great
@@ -1871,8 +1786,7 @@ hand over the tools. During the further journey, at every
 station stop, help was needed to nail up the train, because �
 otherwise the rest of the trip would not have been at all
 possible. At 11:15 a. m. the train reached Lemberg. Because
-no relief for the escort commando arrived, the escort com­
-mando J. had to continue guarding the train until BeI:iec.
+no relief for the escort commando arrived, the escort commando J. had to continue guarding the train until BeI:iec.
 After a brief halt at the Lemberg train station, the train
 continued to the suburban station of Klaporov, where nine
 train cars marked with the letter "L" and destined for the
@@ -1892,8 +1806,7 @@ the holes they had forced open and to seek their safety in
 flight, because in jumping from the slow-moving train they
 were scarcely injured. Despite the repeated requests to the
 engineer to go faster, this was not possible, so that the
-frequent stops on open stretches became increasingly un­
-pleasant.
+frequent stops on open stretches became increasingly unpleasant.
 
 Shortly beyond Lemberg the commando had already shot
 off the ammunition they had with them and also used up a
@@ -1905,8 +1818,7 @@ train was stopped.
 The ever greater panic spreading among the Jews due to the
 great heat, overloading of the train cars, and stink of dead
 bodies-when unloading the train cars some 2,000 Jews were
-found dead in the train-made the transport almost unwork­
-able. At 6:45 p.m. the transport arrived in Benec, and around
+found dead in the train-made the transport almost unworkable. At 6:45 p.m. the transport arrived in Benec, and around
 7:30 p.m. was turned over by Corporal J. to the SS­
 Oberstunnfiihrer and head of the camp there. Until the
 unloading of the transport around 10 p . m . , J. had to remain in
@@ -1934,18 +1846,15 @@ and Company Commander7
 This document demonstrates many things: the desperate
 attempts of the deported Jews to escape the death train; the
 scanty manpower employed by the Germans (a mere 10 men to
-guard over 8,000 Jews); the unimaginably terrible conditions­
-forced marches over many miles, terrible heat, days without food
+guard over 8,000 Jews); the unimaginably terrible conditionsforced marches over many miles, terrible heat, days without food
 and water, the packing of 200 Jews into each train car, etc.-that
 led to fully 25 percent of the deported Jews dying on the train
 from suffocation, heat prostration, and exhaustion (to say nothing
 of those killed in the shooting, which was so constant that the
 
 guards expended their entire ammunition supply as well as
-replenishment); the casual mention that even befure the depor­
-tations hundreds of Jews judged too old, frail, or sick to get to the
-train were routinely shot in each action. Moreover, the docu­
-ment makes clear that this action was only one among many in
+replenishment); the casual mention that even befure the deportations hundreds of Jews judged too old, frail, or sick to get to the
+train were routinely shot in each action. Moreover, the document makes clear that this action was only one among many in
 which members of Reserve Police Battalion 133 participated
 alongside the Security Police in Galicia during the late summer
 of 1942.
@@ -1958,8 +1867,7 @@ veiled the reality of mass murder. These men saw their victims
 face to face. Their comrades had already shot all the Jews deemed
 too weak to be deported, and they subsequently worked viciously
 fur hours to prevent their victims from escaping the train and
-hence the gas chambers awaiting them in Bel'Zec. No one partic­
-ipating in the events described in this report could have had the
+hence the gas chambers awaiting them in Bel'Zec. No one participating in the events described in this report could have had the
 slightest doubt about what he was involved in, namely a mass
 murder program to exterminate the Jews of Galicia.
 
@@ -1971,8 +1879,7 @@ any, did they have, and how did they respond? What happened
 to the men as the killing stretched on week after week, month
 after month? Documents like the one on the Kolomyja transport
 give us a vivid snapshot of a single incident, but they do not
-reveal the personal dynamics of how a group of normal middle­
-aged German men became mass murderers. For that we must
+reveal the personal dynamics of how a group of normal middleaged German men became mass murderers. For that we must
 return to the story of Reserve Police Battalion 101.
 
 Reserve Police
@@ -1984,8 +1891,7 @@ attached to a German army group and sent to Poland. Crossing
 the border from Oppeln in Silesia, the battalion passed through
 C�stochowa to the Polish city of Kielce. There it was involved
 in rounding up Polish soldiers and military equipment behind
-German lines and guarding a prisoner of war camp. On Decem­
-ber 17, 1939, the battalion returned to Hamburg, where about a
+German lines and guarding a prisoner of war camp. On December 17, 1939, the battalion returned to Hamburg, where about a
 hundred of its career policemen were transferred to form
 additional units. They were replaced by middle-aged reservists
 drafted in the fall of 1939. 1
@@ -2009,8 +1915,7 @@ expelled from the incorporated territories into central Poland. In
 accordance with provisions of an agreement between Germany
 and the Soviet Union, ethnic Germans living in Soviet territory
 were to be repatriated and resettled in the recently evacuated
-farms and apartments of the expelled Poles. The "racial purifi­
-cation" of the incorporated territories desired by Hitler and
+farms and apartments of the expelled Poles. The "racial purification" of the incorporated territories desired by Hitler and
 Himmler was never achieved, but hundreds of thousands of
 people were shoved around like so many pieces on a chessboard
 in pursuit of their vision of a racially reorganized eastern Europe.
@@ -2018,20 +1923,17 @@ The battalion's summary report boasted of its zealous partici­
 
 pation in the "resettlement":
 
-In actions night and day without pause, 100% of the batta­
-lion's strength was employed in all of the districts of the
+In actions night and day without pause, 100% of the battalion's strength was employed in all of the districts of the
 Warthegau. On the average some 350 Polish peasant families
 were evacuated daily .
-. . . During the peak of the evacua­
-tion period they [the men of the battalion] could not return to
+. . . During the peak of the evacuation period they [the men of the battalion] could not return to
 quarters for eight days and nights. The men had the
 opportunity to sleep only while traveling at night by
 truck. . . . In the biggest action, the battalion evacuated
 about 900 families . . . on one day with only its own forces
 and 10 translators.
 
-In all the battalion evacuated 36,972 people out of a tar­
-geted 58,628. About 22,000 people escaped the evacuations by
+In all the battalion evacuated 36,972 people out of a targeted 58,628. About 22,000 people escaped the evacuations by
 fleeing. 2
 
 40 / 0 R 0 I N A R Y M E N
@@ -2043,8 +1945,7 @@ role in these actions.
 In the resettlement of the native population, primarily in the
 small villages, I experienced the first excesses and killings. It
 was always thus, that with our arrival in the villages, the
-resettlement commission was already there. . . . This so­
-called resettlement commission consisted of members of the
+resettlement commission was already there. . . . This socalled resettlement commission consisted of members of the
 black [-uniformed] SS and SD as well as civilians. From them
 we received cards with numbers . The houses of the village
 were also designated with the same numbers. The cards
@@ -2059,8 +1960,7 @@ contented themselves with making it clear to us that nothing
 could be done with such people. In two cases I remember that
 such people were shot at the collection point. In the first case
 it was an old man and in the second case an old woman. . . .
-both persons were shot not by the men but by noncommis­
-sioned officers. 3
+both persons were shot not by the men but by noncommissioned officers. 3
 
 Others in the battalion also remembered the resettlement
 actions, but no one else remembered or admitted to such
@@ -2366,8 +2266,7 @@ as the Hamburg policemen did in Minsk. As Salitter noted:
 
 Riga consisted of some 360,000 inhabitants, including some
 35,000 Jews. The Jews were everywhere dominant in the
-business world. Their businesses were nonetheless immedi­
-ately closed and confiscated after the entry of German troops.
+business world. Their businesses were nonetheless immediately closed and confiscated after the entry of German troops.
 The Jews themselves were lodged in a ghetto on the Duna
 [Dvina] that was sealed by barbed wire. At the moment only
 2,500 male Jews who are used for labor are said to be in the
@@ -2382,8 +2281,7 @@ bring their Jews to Latvia instead of exterminating them in
 their own country. l9
 
 In June 1942, Reserve Police Battalion 101 wa<; assigned
-another tour of duty in Poland. By then, only a few noncommis­
-sioned officers who had been on the first Polish action remained,
+another tour of duty in Poland. By then, only a few noncommissioned officers who had been on the first Polish action remained,
 and less than 20 percent of the men had been on the second in
 the Warthegau. A few of these had witnessed what they called
 "excesses" in Poznan and L6dz. A few more had accompanied
@@ -2392,8 +2290,7 @@ At the latter two destinations, as we have seen, it was difficult
 not to learn something about the mass murder of Jews in Russia.
 But for the most part, Reserve Police Battalion 101 was now
 composed of men without any experience of German occupation
-methods in eastern Europe, or for that matter-with the excep­
-tion of the very oldest who were World War I veterans-any
+methods in eastern Europe, or for that matter-with the exception of the very oldest who were World War I veterans-any
 kind of military service.
 
 The battalion consisted of 11 officers, 5 administrative officials
@@ -2410,23 +2307,19 @@ at the last minute from nearby Wilhelmshaven and Rendsburg
 vast majority of the rank and file had been born and reared in
 Hamburg and its environs. The Hamburg element was so
 dominant and the ethos of the battalion so provincial that not just
-the Luxembourgers but also the contingents from Wilhelms­
-haven and Rendsburg felt themselves to be outsiders.21
+the Luxembourgers but also the contingents from Wilhelmshaven and Rendsburg felt themselves to be outsiders.21
 
 The battalion was divided into three companies, each of
 approximately 140 men when at full strength. Two companies
 were commanded by police captains, the third by the senior
 reserve lieutenant in the battalion. Each company was divided
-into three platoons, two of them commanded by reserve lieu­
-tenants and the third by the platoon's senior sergeant. Each
+into three platoons, two of them commanded by reserve lieutenants and the third by the platoon's senior sergeant. Each
 platoon was divided into four squads, commanded by a sergeant
-or corporal. The men were equipped with carbines, the non­
-commissioned officers with submachine guns. Each company
+or corporal. The men were equipped with carbines, the noncommissioned officers with submachine guns. Each company
 also had a heavy machine-gun detachment. Apart from the three
 companies, there was the personnel of the battalion staff, which
 included, in addition to the five administrative officials, a doctor
-and his aide as well as various drivers, clerks, and communica­
-tions specialists.
+and his aide as well as various drivers, clerks, and communications specialists.
 
 The battalion was commanded by fifty-three-year-old Major
 Wilhelm Trapp, a World War I veteran and recipient of the Iron
@@ -2451,8 +2344,7 @@ and unduly interfering in the duties of his officers. 22
 The two police captains, who also held the eqUivalent SS rank
 of HauptsturmfUhrer, were young men in their late twenties.
 Wolfgang Hoffmann, born in 1914, had joined the National
-Socialist Student Union (NS-Schiilerbund) in 1930 as a sixteen­
-year-old, the Hitler Youth in 1932 at eighteen, and the SS one
+Socialist Student Union (NS-Schiilerbund) in 1930 as a sixteenyear-old, the Hitler Youth in 1932 at eighteen, and the SS one
 year later, all before he had graduated from Gymnasium (a
 college-preparatory high school) in 1934. He joined the police
 force in Breslau in 1936 and entered the Nazi Party in 1937, the
@@ -2469,10 +2361,8 @@ a police officer. He was commissioned a lieutenant of the
 Schutzpolizei in 1938. He too was assigned to Reserve Police
 Battalion 101 in early 1942 and was promoted to captain in June
 1942, just before the departure for Poland. 24 He commanded
-First Company and served as Trapp's deputy battalion com­
-mander. In contrast to the elderly Trapp, Hoffmann and Wohlauf
-represented precisely the combination of well-educated pro­
-fessional police officer, early enthusiast for National Socialism,
+First Company and served as Trapp's deputy battalion commander. In contrast to the elderly Trapp, Hoffmann and Wohlauf
+represented precisely the combination of well-educated professional police officer, early enthusiast for National Socialism,
 and young SS member that was the Himmler-Heydrich ideal for
 the SS and police.
 
@@ -2503,8 +2393,7 @@ l "
 .
 
 Hartwig Gnade, born 1894, a forwarding agent and Nazi
-Party member since 1937, commander of Second Com­
-pany;
+Party member since 1937, commander of Second Company;
 Paul Brand, * born 1902;
 Heinz Buchmann, * born 1904, owner of a family lumber
 
@@ -2562,13 +2451,10 @@ than those from the working class (25 percent). 27
 
 The men of Reserve Police Battalion 101 were from the lower
 orders of German society. They had experienced neither social
-nor geographic mobility. Very few were economically indepen­
-dent. Except for apprenticeship or vocational training, Virtually
+nor geographic mobility. Very few were economically independent. Except for apprenticeship or vocational training, Virtually
 none had any education after leaving Volksschule (terminal
-secondary school) at age fourteen or fifteen. By 1942, a surpris­
-ingly high percentage had become Party members. However,
-because the interrogating officials did not record such informa­
-tion, we do not know how many had been Communists,
+secondary school) at age fourteen or fifteen. By 1942, a surprisingly high percentage had become Party members. However,
+because the interrogating officials did not record such information, we do not know how many had been Communists,
 socialists, and/or labor union members before 1933. Presumably
 a not insignificant number must have been, given their social
 origins. By virtue of their age, of course, all went through their
@@ -2589,8 +2475,7 @@ SS and Police Leader in Lublin, Odilo Globocnik, Hitler's
 intention to murder the Jews of Europe as well. Moreover,
 Himmler put Globocnik in charge of the single most important
 element of this "Final Solution to the Jewish Question in
-Europe"-the destruction of the Jews of the General Govern­
-ment, who constituted the bulk of Polish Jewry. A method
+Europe"-the destruction of the Jews of the General Government, who constituted the bulk of Polish Jewry. A method
 different from the firing squad operations used against Russian
 Jewry was deemed essential for the murder of European Jews,
 however--one that was more efficient, less public, and less
@@ -2602,8 +2487,7 @@ The organizational and technological answer to these needs
 
 was the extermination camp. The victims would be deported to
 special camps where-by virtue of assembly-line procedures
-requiring very limited manpower, most of it prisoner labor­
-they would be gassed in relative secrecy. Preparations for
+requiring very limited manpower, most of it prisoner laborthey would be gassed in relative secrecy. Preparations for
 gassing began at three locations in the fall of 1941: Auschwitv
 Birkenau near Katowice in Silesia and Chehnno near L6dt in the
 Warthegau, both in the incorporated territories, and BelZec in
@@ -2636,8 +2520,7 @@ ingenuity to accomplish the task with which Himmler had
 entrusted him.
 
 For the coordination of the mass murder campaign against
-Polish Jewry�ubbed Operation Reinhard after Reinhard Hey­
-drich was slain in Czechoslovakia in June 1942--Globocnik
+Polish Jewry�ubbed Operation Reinhard after Reinhard Heydrich was slain in Czechoslovakia in June 1942--Globocnik
 formed a special staff under his deputy and fellow Austrian
 
 .'
@@ -2710,8 +2593,7 @@ manpower pool from which Globocnik would form his private
 armies for the ghetto-clearing campaign.
 
 The first murderous onslaught against Lublin Jewry began in
-mid-March 1942 and continued until mid-April. About 90 per­
-cent of the 40,000 inhabitants of the Lublin ghetto were killed
+mid-March 1942 and continued until mid-April. About 90 percent of the 40,000 inhabitants of the Lublin ghetto were killed
 either through deportation to the extermination camp at Bdzec
 or execution on the spot, and 1 1 ,000 to 12,000 more Jews were
 sent to Bd:iec from the nearby towns Izbica, Piaski, Lubart6w,
@@ -2747,8 +2629,7 @@ the Protectorate, and the puppet state of Slovakia were being
 dumped into the Lublin district. Some of these transports, such
 as the June 14 train from Vienna guarded by Lieutenant
 Fischmann, were also sent directly to Sohib6r. Others, however,
-were unloaded in various ghettos, with the foreign Jews tempo­
-rarily taking the places of those who had recently been killed.
+were unloaded in various ghettos, with the foreign Jews temporarily taking the places of those who had recently been killed.
 This vast shuffiing ofJews as well as the mass murder in Bdzec
 and Sobib6r stopped temporarily on June 19, when a shortage of
 rolling stock brought to a halt all Jewish transports in the General
@@ -2788,11 +2669,9 @@ to allow the newly arrived police battalion to remain entirely
 inactive in regard to the Lublin Jews. If the killing could not be
 resumed, the process of consolidating the victims in transit
 ghettos and camps could be. For most of the policemen of
-Reserve Police Battalion 101, the searing memory of the subse­
-quent action in J6zef6w blotted out lesser events that had
+Reserve Police Battalion 101, the searing memory of the subsequent action in J6zef6w blotted out lesser events that had
 occurred during their four-week stay south of Lublin. However,
-a few did remember taking part in this consolidation process­
-collecting Jews in smaller settlements and moving them to larger
+a few did remember taking part in this consolidation processcollecting Jews in smaller settlements and moving them to larger
 ghettos and camps. In some cases only so-called work Jews were
 seized, put on trucks, and sent to camps around Lublin. In other
 cases, the entire Jewish population was rounded up and put on
@@ -2897,8 +2776,7 @@ them their respective assignments. The orders were relayed by
 the first sergeant, Kammer, * to First Company, and by Gnade
 and Hoffmann to Second and Third Companies. Two platoons of
 Third Company were to surround the village. 10 The men were
-explicitly ordered to shoot anyone trying to escape . The remain­
-ing men were to round up the Jews and take them to the
+explicitly ordered to shoot anyone trying to escape . The remaining men were to round up the Jews and take them to the
 marketplace. Those too sick or frail to walk to the marketplace,
 as well as infants and anyone offering resistance or attempting to
 hide, were to be shot on the spot. Thereafter, a few men of First
@@ -2906,8 +2784,7 @@ Company were to escort the "work Jews" who had been selected
 at the marketplace, while the rest of First Company was to
 proceed to the forest to form the firing squads. The Jews were to
 be loaded onto the battalion trucks by Second Company and
-Third Platoon of Third Company and shuttled from the market­
-place to the forest. 1
+Third Platoon of Third Company and shuttled from the marketplace to the forest. 1
 
 After making the assignments, Trapp spent most of the day in
 town, either in a schoolroom converted into his headquarters, at
@@ -2948,8 +2825,7 @@ later confided to his driver, "If this Jewish business is ever
 avenged on earth, then have mercy on us Gennans. "19
 
 While Trapp complained of his orders and wept, his men
-proceeded to carry out the battalion's task. The noncommis­
-sioned officers divided some of their men into search teams of
+proceeded to carry out the battalion's task. The noncommissioned officers divided some of their men into search teams of
 two, three, or four, and sent them into the Jewish section of
 J6zef6w. Other men were assigned as guards along the streets
 leading to the marketplace or at the marketplace itself. As the
@@ -2978,15 +2854,13 @@ infants or small children. I would like to say that almost tacitly
 everyone refrained from shooting infants and small children. " In
 J6zef6w as later, he observed, "Even in the face of death the
 Jewish mothers did not separate from their children. Thus we
-tolerated the mothers taking their small children to the market­
-place in J6zef6w. "24 Another policeman likewise noted "that
+tolerated the mothers taking their small children to the marketplace in J6zef6w. "24 Another policeman likewise noted "that
 tacitly the shooting of infants and small children was avoided by
 almost all the men involved. During the entire morning I was
 able to observe that when being taken away many women carried
 infants in their arms and led small children by the hand. "25
 According to both witnesses, none of the officers intervened
-when infants were brought to the marketplace. Another po­
-liceman, however, recalled that after the clearing operation his
+when infants were brought to the marketplace. Another policeman, however, recalled that after the clearing operation his
 unit (Third Platoon, Third Company) was reproached by Captain
 Hoffmann. "We had not proceeded energetically enough. "26
 
@@ -3001,8 +2875,7 @@ accordion," recalled:
 60 / 0 R D I N A R Y M E N
 
 I believe that at this point all officers of the battalion were
-present, especially our battalion physician, Dr. Schoen­
-felder. * He now had to explain to us precisely how we had to
+present, especially our battalion physician, Dr. Schoenfelder. * He now had to explain to us precisely how we had to
 shoot in order to induce the immediate death of the victim. I
 remember exactly that for this demonstration he drew or
 outlined the contour of a human body, at least from the
@@ -3054,11 +2927,9 @@ equal number of policemen came forward and, face to face, were
 paired off with their victims. Led by Kammer, the policemen
 and Jews marched down the forest path. They turned off into the
 woods at a point indicated by Captain W ohlauf, who busied
-himself throughout the day selecting the execution sites. Kam­
-mer then ordered the Jews to lie down in a row. The policemen
+himself throughout the day selecting the execution sites. Kammer then ordered the Jews to lie down in a row. The policemen
 stepped up behind them, placed their bayonets on the backbone
-above the shoulder blades as earlier instructed, and on Kam­
-mer's orders fired in unison.
+above the shoulder blades as earlier instructed, and on Kammer's orders fired in unison.
 
 In the meantime more policemen of First Company had
 arrived at the edge of the forest to fill out a second firing squad.
@@ -3073,16 +2944,14 @@ repeated.
 Thereafter, the "pendulum traffic" of the two firing squads in
 and out of the woods continued throughout the day. Except for
 a midday break, the shooting proceeded without interruption
-until nightfall. At some point in the afternoon, someone "orga­
-nized" a supply of alcohol for the shooters. By the end of a day
+until nightfall. At some point in the afternoon, someone "organized" a supply of alcohol for the shooters. By the end of a day
 of nearly continuous shooting, the men had completely lost track
 of how many Jews they had each killed. In the words of one
 policeman, it was in any case "a great number. "32
 
 When Trapp first made his offer early in the morning, the real
 nature of the action had just been announced and time to think
-and react had been very short. Only a dozen men had instinc­
-tively seized the moment to step out, turn in their rifles, and
+and react had been very short. Only a dozen men had instinctively seized the moment to step out, turn in their rifles, and
 thus excuse themselves from the subsequent killing. For many
 the reality of what they were about to do, and particularly that
 they themselves might be chosen for the ' firing squad, had
@@ -3097,14 +2966,12 @@ policeman approached First Sergeant Kammer, whom he knew
 well. He confessed that the task was "repugnant" to him and
 asked for a different assignment. Kammer obliged, assigning him
 to guard duty on the edge of the forest, where he remained
-throughout the day . 33 Several other policemen who knew Kam­
-mer well were given guard duty along the truck route.34 After
+throughout the day . 33 Several other policemen who knew Kammer well were given guard duty along the truck route.34 After
 shooting for some time, another group of policemen approached
 Kammer and said they could not continue. He released them
 from the firing squad and reassigned them to accompany the
 trucks.35 Two policemen made the mistake of approaching
-Captain (and SS-Hauptsturmfiihrer) Wohlauf instead of Kam­
-mer. They pleaded that they too were fathers with children and
+Captain (and SS-Hauptsturmfiihrer) Wohlauf instead of Kammer. They pleaded that they too were fathers with children and
 could not continue. Wohlauf curtly refused them, indicating that
 they could lie down alongside the victims. At the midday pause,
 however, Kammer relieved not only these two men but a
@@ -3141,8 +3008,7 @@ After the men of First Company departed for the woods,
 Second Company was left · to complete the roundup and load
 Jews onto the trucks. When the first salvo was heard from the
 woods, a terrible cry swept the marketplace as the collected Jews
-realized their fate .42 Thereafter, however, a quiet composure­
-indeed, in the words of German witnesses, an "unbelievable"
+realized their fate .42 Thereafter, however, a quiet composureindeed, in the words of German witnesses, an "unbelievable"
 and "astonishing" composure-settled over the Jews. 43
 
 If the victims were composed, the German officers grew
@@ -3213,8 +3079,7 @@ some ten shootings, in which I had to shoot men and women. I
 I n itiation to Mass M u rder: The J6zef6w Massacre / 65
 
 simply could not shoot at people anymore, which became
-apparent to my sergeant, Hergert, because at the end I repeat­
-edly shot past. For this reason he relieved me. Other comrades
+apparent to my sergeant, Hergert, because at the end I repeatedly shot past. For this reason he relieved me. Other comrades
 were also relieved sooner or later, because they simply could no
 longer continue. "52
 
@@ -3253,8 +3118,7 @@ noticed that I was not going to the executions to fire away at
 
 66 / O R D I N A R Y M E N
 
-the victims. They showered me with remarks such as "shit­
-head" and "weakling" to express their disgust. But I suffered
+the victims. They showered me with remarks such as "shithead" and "weakling" to express their disgust. But I suffered
 no consequences for my actions. I must mention here that I
 was not the only one who kept himself out of participating in
 the executions. 59
@@ -3271,8 +3135,7 @@ and asked . . . Lieutenant Drucker to be relieved." Dettelmann
 told his lieutenant that he had a "very weak nature," and
 Drucker let him go. 60
 
-Walter Niehaus, · a former Reemtsma cigarette sales repre­
-sentative, was paired with an elderly woman for the first round.
+Walter Niehaus, · a former Reemtsma cigarette sales representative, was paired with an elderly woman for the first round.
 "After I had shot the elderly woman, I went to Toni [Anton]
 Bentheim· [his sergeant] and told him that I was not able to
 carry out further executions. I did not have to participate in the
@@ -3322,16 +3185,14 @@ German Jews in J6zef6w was unique. Schimke, the man who had
 
 first stepped out, encountered a Jew from Hamburg in the
 
-marketplace, as did a second policeman.64 Yet another po­
-liceman remembered that the first Jew he shot was a decorated
+marketplace, as did a second policeman.64 Yet another policeman remembered that the first Jew he shot was a decorated
 World War I veteran from Bremen who begged in vain for
 mercy. 65
 
 Franz Kastenbaum, * who during his official interrogation had
 denied remembering anything about the killing of Jews in
 
-Poland, suddenly appeared uninvited at the office of the Ham­
-burg state prosecutor investigating Reserve Police Battalion 101.
+Poland, suddenly appeared uninvited at the office of the Hamburg state prosecutor investigating Reserve Police Battalion 101.
 He told how he had been a member of a firing squad of seven or
 
 eight men that had taken its victims into the woods and shot
@@ -3358,8 +3219,7 @@ totally finished. 1 think that 1 remained alone in the woods for
 some two to three hours.
 
 Kastenbaum then returned to the edge of the woods and rode an
-empty truck back to the marketplace. He suffered no conse­
-quences; his absence had gone unnoticed because the firing
+empty truck back to the marketplace. He suffered no consequences; his absence had gone unnoticed because the firing
 squads had been all mixed up and randomly assigned. He had
 come to make this statement, he explained to the investigating
 attorney, because he had had no peace since attempting to
@@ -3376,8 +3236,7 @@ heads were tom off, so that the brains sprayed all over. I simply
 couldn't watch it any longer. ''66 At the unloading point, Sergeant
 Bentheim watched men emerge from the woods covered with
 blood and brains, morale shaken and nerves finished. Those who
-asked to be relieved he advised to "slink away" to the market­
-place.69 As a result, the number of policemen gathered on the
+asked to be relieved he advised to "slink away" to the marketplace.69 As a result, the number of policemen gathered on the
 marketplace grew constantly. 70
 
 As with First Company, alcohol was made available to the
@@ -3398,10 +3257,8 @@ the bodies, and the dead Jews were simply left lying in the woods.
 Neither clothing nor valuables had been officially collected,
 though at least some of the policemen had enriched themselves
 with watches, jewelry, and money taken from the victims. 7s The
-pile of luggage the Jews had been forced to leave at the market­
-place was simply burned. 76 Before the policemen climbed into
-their trucks and left J6zef6w, a ten-year-old girl appeared, bleed­
-ing from the head. She was brought to Trapp, who took her in his
+pile of luggage the Jews had been forced to leave at the marketplace was simply burned. 76 Before the policemen climbed into
+their trucks and left J6zef6w, a ten-year-old girl appeared, bleeding from the head. She was brought to Trapp, who took her in his
 arms and said, "You shall remain alive. "77
 
 When the men arrived at the barracks in Bilgoraj, they were
@@ -3447,8 +3304,7 @@ however, did not permit this and turned away." The policemen
 returned to BHgoraj with no explanation for the strange turn of
 events.84 Then, on July 20, precisely one month after its
 departure from Hamburg and one week after the J6zef6w
-massacre, Reserve Police Battalion 101 left BHgoraj for redeploy­
-ment in the northern sector of the Lublin district.
+massacre, Reserve Police Battalion 101 left BHgoraj for redeployment in the northern sector of the Lublin district.
 
 Reflections
 on a Massacre
@@ -3539,8 +3395,7 @@ The one who "releases " is the Erloser-the Savior or Redeemer!
 In terms of motivation and cOnsciousness, the most glaring
 omission in the interrogations is any discussion of anti-Semitism.
 For the most part the interrogators did not pursue this issue. Nor
-were the men, for understandable reasons as potential defen­
-dants, eager to volunteer any illuminating comments. With few
+were the men, for understandable reasons as potential defendants, eager to volunteer any illuminating comments. With few
 exceptions the whole question of anti-Semitism is marked by
 silence. What is clear is that the men's concern for their standing
 in the eyes of their comrades was not matched by any sense of
@@ -3554,8 +3409,7 @@ It would seem that even if the men of Reserve Police Battalion
 regime, they had at least accepted the assimilation of the Jews
 into the image of the enemy. Major Trapp appealed to this
 generalized notion of the Jews as part of the enemy in his
-early-morning speech. The men should remember, when shoot­
-ing Jewish women and children, that the enemy was killing
+early-morning speech. The men should remember, when shooting Jewish women and children, that the enemy was killing
 German women and children by bombing Germany.
 
 If only a dozen policemen stepped out at the beginning to
@@ -3584,8 +3438,7 @@ Even twenty or twenty-Dve years later those who did quit
 shooting along the way overwhelmingly cited sheer physical
 revulsion against what they were doing as the prime motive but
 did not express any ethical or political principles behind this
-revulsion. Given the educational level of these reserve police­
-men, one should not expect a sophisticated articulation of
+revulsion. Given the educational level of these reserve policemen, one should not expect a sophisticated articulation of
 abstract principles. The absence of such does not mean that their
 revulsion did not have its origins in the humane instincts that
 Nazism radically opposed and sought to overcome. But the men
@@ -3594,8 +3447,7 @@ between their feelings and the essence of the regime they
 served. Being too weak to continue shooting, of course, posed
 prol?lems for the "productivity" and morale of the battalion, but
 it did not challenge basic police discipline or the authority of the
-regime in general. Indeed, Heinrich Himmler himself sanc­
-tioned the toleration of this kind of weakness in his notorious
+regime in general. Indeed, Heinrich Himmler himself sanctioned the toleration of this kind of weakness in his notorious
 Posen speech of October 4, 1943, to the SS leadership. While
 exalting obedience as one of the key virtues of all SS men, he
 explicitly noted an exception, namely, "one whose nerves are
@@ -3605,15 +3457,13 @@ Reflections o n a Massacre 1 7 5
 finished, one who is weak. Then one can say: Good, go take your
 pension. "8
 
-Politically and ethically motivated opposition, explicitly iden­
-tified by the policemen as such, was relatively rare. One man said
+Politically and ethically motivated opposition, explicitly identified by the policemen as such, was relatively rare. One man said
 he decisively rejected the Jewish measures of the Nazis because
 he was an active Communist Party member and thus rejected
 National Socialism in its entirety. 9 Another said he opposed the
 shooting ofJews because he had been a Social Democrat for many
 years. 10 A third said he was known to the Nazis as "politically
-unreliable" and a "grumbler" but gave no further political iden­
-tity. 1 1 Several others grounded their attitude on opposition to the
+unreliable" and a "grumbler" but gave no further political identity. 1 1 Several others grounded their attitude on opposition to the
 regime's anti-Semitism in particular. "This attitude 1 already had
 earlier in Hamburg," said one landscape gardener, "because due
 to the Jewish measures already carried out in Hamburg 1 had lost
@@ -3626,8 +3476,7 @@ greatest detail both emphasized the fact that they were freer to
 act as they did because they had no careerist ambitions. One
 policeman accepted the possible disadvantages of his course of
 action "because 1 was not a career policeman and also did not
-want to become one, but rather an independent skilled crafts­
-man, and 1 had my business back home. . . . thus it was of no
+want to become one, but rather an independent skilled craftsman, and 1 had my business back home. . . . thus it was of no
 consequence that my police career would not prosper."14
 
 Lieutenant Buchmann had cited an ethical stance for his
@@ -3645,18 +3494,15 @@ career policemen who wanted to become something. " But
 
 Buchmann also admitted to what the Nazis would undoubtedly
 have condemned as a "cosmopolitan" and pro-Jewish outlook.
-"Through my business experience, especially because it ex­
-tended abroad, I had gained. a better overview of things.
+"Through my business experience, especially because it extended abroad, I had gained. a better overview of things.
 Moreover, through my earlier business activities I already knew
 many Jews. "15
 
 The resentment and bitterness in the battalion over what they
 had been asked to do in J6zef6w was shared by virtually
-everyone, even those who had shot the entire day. The excla­
-mation of one policeman to First Sergeant Kammer of First
+everyone, even those who had shot the entire day. The exclamation of one policeman to First Sergeant Kammer of First
 Company that ''I'd go crazy if I had to do that again" expressed
-the sentiments of many. 16 But only a few went beyond complain­
-ing to extricate themselves from such a possibility. Several of the
+the sentiments of many. 16 But only a few went beyond complaining to extricate themselves from such a possibility. Several of the
 older men with very large families took advantage of a regulation
 that required them to sign a release agreeing to duty in a combat
 area. One who had not yet signed refused to do so; another
@@ -3672,8 +3518,7 @@ had to wait until November, but his efforts to be transferred
 were ultimately successful.
 
 The problem that faced Trapp and his superiors in Lublin,
-therefore, was not the ethically and politically grounded oppo­
-sition of a few but the broad demoralization shared both by those
+therefore, was not the ethically and politically grounded opposition of a few but the broad demoralization shared both by those
 who shot to the end and those who had not been able to
 continue. It was above all a reaction to the sheer horror of the
 killing process itself. If Reserve Police Battalion 101 was to
@@ -3712,8 +3557,7 @@ labor. The bulk of the killing was to be removed to the
 extermination camp, and the worst of the on-the-spot "dirty
 work" was to be assigned to the Trawnikis. This change would
 prove sufficient to allow the men of Reserve Police Battalion 101
-to become accustomed to their participation in the Final Solu­
-tion. When the time came to kill again, the policemen did not
+to become accustomed to their participation in the Final Solution. When the time came to kill again, the policemen did not
 "go crazy. " Instead they became increasingly efficient and
 calloused executioners.
 
@@ -3730,13 +3574,11 @@ battalions in the Lublin district. 1 The district was divided into
 northern, central, and southern "security sectors. " Reserve
 Police Battalion 101 was assigned to the northern sector, which
 encompassed, from west to east, the counties (Kreise) of Pulawy,
-Radzyn, and Biala Podlaska. Lieutenant Gnade's Second Com­
-pany was assigned Biala Podlaska, and Gnade stationed his
+Radzyn, and Biala Podlaska. Lieutenant Gnade's Second Company was assigned Biala Podlaska, and Gnade stationed his
 company staff in the county seat of Biala. First Platoon was
 divided between Piszczac and Tuczna to the southeast, while
 Second Platoon was at Wisznice due south. Third Platoon was
-stationed in Parczew to the southwest, actually in the neighbor­
-ing county of Radzyn.
+stationed in Parczew to the southwest, actually in the neighboring county of Radzyn.
 
 .,
 
@@ -3744,11 +3586,9 @@ t omazy: The Descent of Second Company / 7 9
 
 The Final Solution in the county of Biala Podlaska had
 commenced on June 10, 1942, when 3,000 Jews were deported
-from Biala to Sobib6r. Hundreds of Jews from smaller commu­
-nities were concentrated in the village of Lomazy, halfway
+from Biala to Sobib6r. Hundreds of Jews from smaller communities were concentrated in the village of Lomazy, halfway
 between Biala and Wisznice.2 Then the murder campaign came
-to a halt, until the arrival of Lieutenant Gnade's Second Com­
-pany. The Jews of Lomazy were to be the target of Reserve
+to a halt, until the arrival of Lieutenant Gnade's Second Company. The Jews of Lomazy were to be the target of Reserve
 Police Battalion IOl's first joint killing action with a unit from
 Trawniki. Second Company was to provide the bulk of the
 manpower for the roundup. The primary function of the Trawniki
@@ -3794,8 +3634,7 @@ is to say that infants and the old, sick, and frail who could not be
 easily taken to the assembly point were to be shot on the spot.
 According to one squad leader, however, most children were
 once again brought to the assembly point. As in J6zef6w, the
-men encountered not only German Jews but speCifically Ham­
-burg Jews during the clearing action. The Jews qUickly filled the
+men encountered not only German Jews but speCifically Hamburg Jews during the clearing action. The Jews qUickly filled the
 schoolyard and overflowed into the adjoining sports field. With
 some shooting, the roundup was finished in a short two hours.8
 The 1,700 Jews of Lomazy were then forced to sit and wait. A
@@ -3877,8 +3716,7 @@ were separated by sex and sent to one of three collecting areas.
 
 Here they were ordered to undress. Women were allowed to
 keep their shifts. In some areas the men were totally naked;
-elsewhere they were allowed to keep their underpants. Police­
-men in each area were appointed to collect clothing and
+elsewhere they were allowed to keep their underpants. Policemen in each area were appointed to collect clothing and
 valuables. They were warned that they would be searched
 afterward. The Jews approached with their bundles of clothing,
 which were laid on a pile and searched. After depositing their
@@ -3893,8 +3731,7 @@ also unpredictable-affable and approachable at times, brutal
 and vicious at others. His worst traits became more pronounced
 under the inHuence of alcohol, and by all accounts that afternoon
 in Lomazy Gnade was drunk senseless. In Poland he in fact
-degenerated into a "drunkard. "17 Gnade's increasing depen­
-dence on alcohol was not unusual in the battalion. As one
+degenerated into a "drunkard. "17 Gnade's increasing dependence on alcohol was not unusual in the battalion. As one
 nondrinking policeman noted, "Most of the other comrades
 drank so much solely because of the many shootings of Jews, for
 such a life was quite intolerable sober. "
@@ -3919,9 +3756,7 @@ t omazy: The Descent of Second Company / 83
 .
 
 grave. Before he gave them the order to crawl, they had to
-undress. While the totally naked Jews crawled, First Lieuten­
-ant Gnade screamed to those around, "Where are my non­
-commissioned officers? Don't you have any clubs yet?" The
+undress. While the totally naked Jews crawled, First Lieutenant Gnade screamed to those around, "Where are my noncommissioned officers? Don't you have any clubs yet?" The
 noncommissioned officers went to the edge of the forest,
 fetched themselves clubs, and vigorously beat the Jews with
 them. 19
@@ -3990,8 +3825,7 @@ days later it carried out a sweep of the Jewish quarter. Searching
 the cellars and looking for bunkers dug under the floorboards of
 the houses, the policemen seized another twenty to thirty Jews.
 
-Bekemeier telephoned Gnade, who ordered shooting. Accom­
-panied by three or four Polish policemen, Bekemeier and his
+Bekemeier telephoned Gnade, who ordered shooting. Accompanied by three or four Polish policemen, Bekemeier and his
 men took the Jews to the edge of the forest, forced them to lie
 down, and shot them in the neck froin behind, once again using
 the bayonet as an aiming guide. Each man shot at least once,
@@ -4005,8 +3839,7 @@ t omazy: The Descent of Second Company 1 8 5
 carried out by the men of Reserve Police Battalion 101�iffered
 from the massacre at J6zef6w in significant ways. On the part of
 the victims, there seem to have been many more escape
-attempts at Lomazy,3O presumably because the young, able­
-bodied work Jews were not spared and the victims were more
+attempts at Lomazy,3O presumably because the young, ablebodied work Jews were not spared and the victims were more
 aware of their impending fate from the beginning. Despite
 
 greater efforts by the Jews to hide or escape, in terms 'of
@@ -4052,8 +3885,7 @@ and may well have been yet another kind of psychological
 "burden of choice" that Trapp had offered them so starkly on the
 occasion of the first massacre. No chance to step out was given to
 those who did not feel up to shooting; no one systematically
-excused those who were visibly too shaken to continue. Every­
-one assigned to the firing squads took his tum as ordered. 33
+excused those who were visibly too shaken to continue. Everyone assigned to the firing squads took his tum as ordered. 33
 Therefore, those who shot did not have to live with the clear
 awareness that what they had done had been avoidable.
 
@@ -4108,8 +3940,7 @@ have the task to shoot Jews, but not to beat or torture them, " he
 had declared.37 His own personal distress had been apparent to
 all at J6zef6w. Thereafter, however, most "Jewish actions" were
 carried out in company and platoon strength, not by the full
-battalion. The company commanders-like Gnade at Lomazy­
-and not Trapp were thus in a position to set the tone for the
+battalion. The company commanders-like Gnade at Lomazyand not Trapp were thus in a position to set the tone for the
 behavior expected and encouraged from the men. Gnade's
 gratuitous and horrific sadism at the grave's edge was only one
 instance of how he chose to exercise leadership in this regard,
@@ -4214,8 +4045,7 @@ not know precisely where the Jews were being sent or what was
 to be done with them, "it was clear and well known to us all," as
 Heinrich Steinmetz admitted, "that for the Jews affected these
 deportations meant the path to death. We suspected that they
-would be killed in some sort of camp. "7 Spared direct participa­
-tion in the killing, the men of Reserve Police Battalion 101 seem
+would be killed in some sort of camp. "7 Spared direct participation in the killing, the men of Reserve Police Battalion 101 seem
 scarcely to have been disturbed by this awareness-even though
 there were more victims in the Parczew deportations than in the
 J6zef6w and Lomazy massacres combined. Out of sight was truly
@@ -4320,8 +4150,7 @@ to go the limit for the National Socialist state. "16 Wohlauf was
 promoted to the rank of captain, took over First Company, and
 became Trapp's deputy commander.
 
-To the men, Wohlauf seemed quite pretentious. One po­
-liceman remembered that Wohlauf rode standing in his car like
+To the men, Wohlauf seemed quite pretentious. One policeman remembered that Wohlauf rode standing in his car like
 a general. Another remarked that he was disparagingly called
 "the little Rommel. "17 The chief clerk of First Company recalled
 his energy, his determination to take charge of all aspects of his
@@ -4329,8 +4158,7 @@ command, and his ability to get things done. 18 His reluctant
 platoon commander, Lieutenant Buchmann, judged him a much
 more "upright and genuine" person than Lieutenant Gnade
 (admittedly a not very high standard of comparison) and not a
-prominent anti-Semite. He was an officer who took his respon­
-sibilities seriously, but above all he was a young man just
+prominent anti-Semite. He was an officer who took his responsibilities seriously, but above all he was a young man just
 married and consumed in romance. 19
 
 Indeed, the sudden departure of Reserve Police Battalion 101
@@ -4387,8 +4215,7 @@ streamed into the marketplace. Here they had to sit or squat
 without moving or getting up. As the hours passed on this very
 hot August day of the late summer heat wave, many Jews fainted
 and collapsed. Moreover, beating and shooting continued in the
-marketplace.27 Having removed her military coat as the temper­
-ature rose, Frau Wohlauf was clearly visible in her dress on the
+marketplace.27 Having removed her military coat as the temperature rose, Frau Wohlauf was clearly visible in her dress on the
 marketplace, watching the events at close range. 28
 
 About 2:00 p. m. the outer guard was called to the marketplace,
@@ -4421,8 +4248,7 @@ pull away.
 
 in the Final Solution. Only 1,000 Jews
 
-The clearing of the Mi�dzyrzec ghetto was the largest depor­
-tation operation the battalion would carry out during its entire
+The clearing of the Mi�dzyrzec ghetto was the largest deportation operation the battalion would carry out during its entire
 participation
 in
 Mi�dzyrzec had been given temporary work permits to remain
@@ -4472,10 +4298,8 @@ of Jews waiting to be killed and the number of corpses that could
 not be disposed of quickly enough piled up. The overburdened
 killing machinery broke down. The deportations throughout the
 Warsaw, Radom, and Lublin districts were temporarily halted,
-including a train scheduled for two trips from Luk6w to Tre­
-blinka beginning August 28.3S Globocnik and his extermination
-camp supervisor, Christian Wirth, rushed to Treblinka to reor­
-ganize, the camp. Franz Stangl was summoned from Sobib6r,
+including a train scheduled for two trips from Luk6w to Treblinka beginning August 28.3S Globocnik and his extermination
+camp supervisor, Christian Wirth, rushed to Treblinka to reorganize, the camp. Franz Stangl was summoned from Sobib6r,
 which was relatively inactive while rail line repairs made it
 
 .
@@ -4511,8 +4335,7 @@ kilometers northwest of Kock. Serokomla had already experienced one massacre in 
 organized into vigilante-style units known as the Selbstschutz
 ("self-defense"). These units had been created in occupied
 Poland in the fall of 1939 and the spring of 1940 under the
-leadership of Heinrich Himmler's crony Ludolph von Alvensle­
-ben. After conducting a series of massacres, including one at
+leadership of Heinrich Himmler's crony Ludolph von Alvensleben. After conducting a series of massacres, including one at
 Serokomla, the Selbstschutz was reorganized into "special ser-
 
 98 / 0 R 0 I N A R Y M E N
@@ -4548,8 +4371,7 @@ well as those unable to walk were to be shot on the spot.
 However, Lieutenant Peters's platoon, which had been held in
 reserve, was sent to an area of gravel pits and mounds of waste
 material less than a kilometer outside the village. To Sergeant
-Keller, who could observe the deployment from his machine­
-gun nests atop the two nearby hills, it was obvious that the Jews
+Keller, who could observe the deployment from his machinegun nests atop the two nearby hills, it was obvious that the Jews
 of Serokomla were going to be shot, though W ohlauf had only
 spoken to the men of "resettlement."
 
@@ -4661,8 +4483,7 @@ Talcyn, he was ambushed and killed. The Polish interpreter
 escaped and reached Kock long after dark with news of the
 sergeant's death. 7
 
-Around midnight Sergeant Jurich telephoned battalion head­
-quarters in Radzyri to report the killing of Jobst. 8 When Keller
+Around midnight Sergeant Jurich telephoned battalion headquarters in Radzyri to report the killing of Jobst. 8 When Keller
 talked with Jurich following the call, he got the impression that
 there was no inclination in battalion headquarters to punish the
 village. Major Trapp soon called back from Radzyri, however,
@@ -4783,8 +4604,7 @@ Kock ghetto began.
 
 In Radzyfi Buchmann had made no effort to hide his feelings.
 On the contrary, he "was indignant about how the Jews were
-treated and openly expressed these views at every opportu­
-nity."21 It was obvious to those around him that Buchmann was
+treated and openly expressed these views at every opportunity."21 It was obvious to those around him that Buchmann was
 a very "reserved, " "refined" man, a "typical civilian" who had no
 desire to be a soldier. 22
 
@@ -4792,16 +4612,13 @@ For Buchmann, Talcyn was the final straw. On the afternoon
 he returned, the desk clerk tried to report to him, but he "had
 immediately gone to his room and locked himself in. For days
 Buchmann would not talk to me, although we knew each other
-well. He was very angry and complained bitterly, saying some­
-thing to the effect, 'Now I won't do this shit any longer. I have
-a noseful. ' "23 Buchmann not only complained. In late Septem­
-ber he also wrote directly to Hamburg, urgently requesting a
+well. He was very angry and complained bitterly, saying something to the effect, 'Now I won't do this shit any longer. I have
+a noseful. ' "23 Buchmann not only complained. In late September he also wrote directly to Hamburg, urgently requesting a
 transfer. He could not carry out those tasks "alien to the police"
 that his unit was being given in Poland. 24
 
 If Buchmann's behavior was tolerated and protected by Trapp,
-it received mixed reactions from his men. "Among my subordi­
-nates many understood my position, but others made disparaging
+it received mixed reactions from his men. "Among my subordinates many understood my position, but others made disparaging
 remarks about me and looked down their noses at me. "25 A few
 men in the ranks followed his example, however, and told the
 company first sergeant, Kammer, "that they were neither able
@@ -4847,13 +4664,11 @@ unremitting succession as tens of thousands of Jews were
 deported from the county of Radzyn in repeated ghetto-clearing
 operations. It is therefore very difficult to reconstruct the events
 of these deadly six weeks. The policemen's memories blurred as
-one action ran into another. They could still recall some partic­
-ular incidents but could no longer fit them into a chronological
+one action ran into another. They could still recall some particular incidents but could no longer fit them into a chronological
 sequence of distinct operations. My reconstruction of this rapid
 sequence of events, to which the confused memories of the
 policemen must be matched, is based above all upon the
-immediate postwar research of the Polish-Jewish historian Tati­
-ana Brustin-Berenstein and the Jewish Historical Institute in
+immediate postwar research of the Polish-Jewish historian Tatiana Brustin-Berenstein and the Jewish Historical Institute in
 Warsaw. l
 
 In early September the disposition of Order Police in the
@@ -4917,8 +4732,7 @@ northern Lublin district judenfrei, or "free of Jews."
 
 The coordinating center for the October "offensive" against
 the ghettos of Radzyn county was the branch office of the
-Security Police under Untersturmfuhrer Fritz Fischer. Admin­
-istration of the RadzyD, Luk6w, and Mi�dzyrzec ghettos had
+Security Police under Untersturmfuhrer Fritz Fischer. Administration of the RadzyD, Luk6w, and Mi�dzyrzec ghettos had
 been taken over by Security Police officers in June 1942,8 but
 local manpower was quite limited. The Radzyn branch office and
 its outpost in Luk6w had perhaps a total of forty German
@@ -4935,8 +4749,7 @@ could never have been carried out.
 The deportations to Treblinka resumed on October 1, when
 2,000 Jews were shipped from the ghetto of Radzyn. On October
 5 5,000 Jews and on October 8 a further 2,000 Jews were
-deported to Treblinka from Luk6w. In a parallel action, thou­
-sands of Jews were deported from Mi�dzyrzec on October 6 and
+deported to Treblinka from Luk6w. In a parallel action, thousands of Jews were deported from Mi�dzyrzec on October 6 and
 9. Presumably the trains from Luk6w and Mi�dzyrzec were
 joined after loading, though no witnesses testified to this effect.
 Between October 14 and 16, the clearing of the Radzyn ghetto
@@ -4991,8 +4804,7 @@ during the roundups and in at least four "mopping up" shootings.
 What the policemen remembered about each of these actions
 varied tremendously. The opening operation, the deportation of
 2,000 Jews from Radzyn on October 1, was carried out jointly by
-men from First Company and twenty Hiwis under Untersturm­
-fUhrer Fischer. There was apparently little killing on the spot,
+men from First Company and twenty Hiwis under UntersturmfUhrer Fischer. There was apparently little killing on the spot,
 though the Hiwis fired frequent warning shots to drive the Jews
 to the train station. ll The following day, October 2, Sergeant
 Steinmetz's Third Platoon of Second Company completed the
@@ -5002,8 +4814,7 @@ brought there too late for the transfer to Mi�dzyrzec. 12
 
 Thereafter simultaneous deportations were carried out from
 the two transit ghettos in Luk6w and Mi�dzyrzec by First and
-Second Companies respectively. Since early September, Lieu­
-tenant Gnade had made his new company headquarters in
+Second Companies respectively. Since early September, Lieutenant Gnade had made his new company headquarters in
 Mi�dzyrzec. To avoid the difficult Polish pronunciation, the men
 of Second Company referred to it by the apt German nickname
 Menschenschreck, or "human horror. " Gnade's driver, Alfred
@@ -5032,16 +4843,14 @@ their whips on the assembled Jews to enforce quiet. Some died
 from the beatings even before the march to the train station
 began.I4 Heilmann watched while the Jews who had been
 incarcerated in the cellar prison of Security Police headquarters
-were hauled out and led away. They were covered with excre­
-ment and obviously had not been fed in days. After the required
+were hauled out and led away. They were covered with excrement and obviously had not been fed in days. After the required
 number of Jews had been assembled, they were marched to the
 train station. Those who could not walk were shot on the spot,
 and the guards shot ruthlessly into the column of Jews whenever
 it slowed. IS
 
 A small contingent of policemen was already at the train
-station in order to keep Polish spectators away. Gnade super­
-vised the loading of the arriving Jews onto the train. Shooting
+station in order to keep Polish spectators away. Gnade supervised the loading of the arriving Jews onto the train. Shooting
 and beating were employed without restraint to maximize the
 number ofJews crammed into each cattle car. Twenty-two years
 later, Gnade's first sergeant made a very unusual confession,
@@ -5082,8 +4891,7 @@ The number of victims of this Mi�dzyrzec deportation of
 October 6 and a subsequent one three days later can not be
 ascertained. Witness accounts vary greatly. 20 In any case, the
 ghetto was restocked once again in mid-October, when 2,000 to
-3,000 Jews were brought from Radzyii. These Jews were assem­
-bled early on the morning of October 14 and loaded onto a
+3,000 Jews were brought from Radzyii. These Jews were assembled early on the morning of October 14 and loaded onto a
 caravan of more than a hundred horse-drawn wagons. Guarded
 by Polish police, ethnic Germans of the Sonderdienst, and a few
 policemen from First Company, the caravan slowly made its way
@@ -5096,8 +4904,7 @@ These actions must have been smaller than those of early
 October, for neither Hiwi units nor Security Police from Radzyii
 were employed to assist the policemen. Gnade was now totally in
 charge. He apparently introduced one further step in the
-deportation procedure-the "strip search. " After being assem­
-bled in the marketplace, the deportees were driven into two
+deportation procedure-the "strip search. " After being assembled in the marketplace, the deportees were driven into two
 barracks where they were forced to undress and searched for
 valuables. They were allowed to put only their underclothing
 back on, despite the cold autumn weather. Scantily clad, they
@@ -5137,9 +4944,7 @@ recalled from frontline duty as the only surviving son had been
 approved. He returned to Radzy6 only briefly in January 1943 to
 pick up his personal belongings. 24
 
-If Wohlauf had extricated himself from Reserve Police Battal­
-ion 101, his men enjoyed no similar respite. Joined by Stein­
-metz's men from Lomazy and Parczew (Third Platoon, Second
+If Wohlauf had extricated himself from Reserve Police Battalion 101, his men enjoyed no similar respite. Joined by Steinmetz's men from Lomazy and Parczew (Third Platoon, Second
 Company) as well as a unit of Hiwis, they carried out two
 deportations from Luk6w, of 5,000 and 2,000 on October 5 and
 8. Memories of the deportations differed drastically. Some
@@ -5149,8 +4954,7 @@ no killing.25 Others remembered much shooting.26 Indeed, one
 policeman barely escaped being hit by a stray bullet. 27 The head
 of the Jewish council, along with other prominent Jews, was
 killed at the assembly point-the Schweinemarkt, or "hog
-market"-during the first deportation. Many who hid success­
-fully during the first deportation were discovered and deported
+market"-during the first deportation. Many who hid successfully during the first deportation were discovered and deported
 three days later.28 The conclusion of one policeman that the
 deportation from Luk6w was "decidedly more orderly and
 humane" than the August deportation from Mi�dzyrzec reveals
@@ -5203,11 +5007,8 @@ collected and shot on November 14.33
 
 Members of Reserve Police Battalion 101 were caught up in at
 least one, if not. both, of these final shootings. Because Trapp and
-the bulk of First Company were apparently elsewhere, Buch­
-mann was temporarily without his protector. He and virtually
-every available man on the battalion staff--clerks, communica­
-tions men, and drivers who had hitherto avoided direct partici­
-pation in mass executions-suddenly found themselves pressed
+the bulk of First Company were apparently elsewhere, Buchmann was temporarily without his protector. He and virtually
+every available man on the battalion staff--clerks, communications men, and drivers who had hitherto avoided direct participation in mass executions-suddenly found themselves pressed
 into service by the local Security Police. In contrast to the
 blurred recollections of those who by autumn were jaded
 veterans of many Jewish actions, the memories of shooting Jews
@@ -5217,8 +5018,7 @@ spread the night before.
 
 1 1 2 1 O R D I N A R Y M E N
 
-On this evening an entertainment unit of Berlin poli�o­
-called welfare for the front-was our guest. This entertainment
+On this evening an entertainment unit of Berlin poli�ocalled welfare for the front-was our guest. This entertainment
 unit consisted of musicians and performers. The members of
 this unit had likewise heard of the pending shooting of the
 Jews. They asked, indeed even emphatically begged, to be
@@ -5247,29 +5047,24 @@ Meanwhile the first column had turned off the road and
 followed a path to an open meadow of sandy soil. A SS officer
 called a halt and told Buchmann's deputy, Hans Prutzmann, * to
 begin shooting the Jews. Prutzmann formed a firing squad of
-fifteen to twenty-five men, primarily volunteers from the enter­
-tainment unit who had been equipped with guns by the battal­
-ion. The Jews had to undress, the men entirely and the women
+fifteen to twenty-five men, primarily volunteers from the entertainment unit who had been equipped with guns by the battalion. The Jews had to undress, the men entirely and the women
 down to their underclothing. They placed their shoes and
 clothing on a pile and were led off in groups to the execution spot
 some fifty meters away. Here they lay face down and, as usual,
 were shot from behind by policemen using fixed bayonets as
-aiming guides. Buchmann stood nearby with several SS offi­
-cers.38
+aiming guides. Buchmann stood nearby with several SS officers.38
 
 When the men from the battalion staff reached the sandy
 
 The Deportat ions Resu m e / 1 1 3
 
-meadow, the shooting was already underway. Buchmann ap­
-proached and told them that they had to provide a firing squad
+meadow, the shooting was already underway. Buchmann approached and told them that they had to provide a firing squad
 to shoot the Jews they had brought with them. One staff clerk in
 charge of uniforms asked to be let out. "Because there were
 children among the Jews we had brought and at the time I myself
 was a father with a family of three children, I told the lieutenant
 something to the effect that I was unable to shoot and asked if he
-couldn't assign me to something else. " Several others immedi­
-ately made the same request. 39
+couldn't assign me to something else. " Several others immediately made the same request. 39
 
 Buchmann thus found himself in the same position as Trapp at
 J6zef6w and basically reacted in the same way. Ordered directly
@@ -5318,8 +5113,7 @@ The Strange Health
 of Captain Hoffmann
 
 UNTIL THE FALL OF 1942 THIRD COMPANY OF RESERVE POLICE
-Battalion 101, under Captain and SS-Hauptsturmfiihrer Wolf­
-gang Hoffmann, had led a charmed existence, largely spared
+Battalion 101, under Captain and SS-Hauptsturmfiihrer Wolfgang Hoffmann, had led a charmed existence, largely spared
 from the killing that was becoming the predominant activity of
 the other units in the battalion. At J6zef6w two platoons of Third
 Company had initially been assigned to the outer cordon, and
@@ -5344,8 +5138,7 @@ Thus, only Lieutenant Peters's First Platoon, stationed in the
 neighboring county of Radzyn, had been involved in the August
 deportations and late September shootings. Nor did the Polish
 resistance initially disturb Third Company's sojourn in Pulawy.
-Hoffmann later reported that they had found the county "rela­
-tively quiet," and that before October not a single encounter
+Hoffmann later reported that they had found the county "relatively quiet," and that before October not a single encounter
 with "armed bandits" had taken place. 1
 
 In early October, however, Third Company's luck ran out.
@@ -5406,8 +5199,7 @@ I was so ashamed, that I immediately turned around and left the
 room ," reported one policeman.9 Another remembered, "At the
 sight of the sick, it was not possible for me to shoot at one of
 the Jews, and I intentionally aimed all my shots wide." His
-sergeant, who had joined in the shooting, noticed his marksman­
-ship, for "after the conclusion of the action he took me aside and
+sergeant, who had joined in the shooting, noticed his marksmanship, for "after the conclusion of the action he took me aside and
 reviled me as a 'traitor' and 'coward' and threatened to report the
 incident to Captain Hoffmann. However, he did not do that."l0
 At the marketplace the Jews were separated, men on one side,
@@ -5442,8 +5234,7 @@ to break ranks and relax. By then it was late afternoon, and some
 
 . of the men found a pleasant farmhouse and played cards. 14
 
-Twenty-five years later Wolfgang Hoffmann claimed to re­
-member absolutely nothing of the Konskowola action, in which
+Twenty-five years later Wolfgang Hoffmann claimed to remember absolutely nothing of the Konskowola action, in which
 1, 100 to 1,600 Jews had been killed in a single day by policemen
 under his command. His amnesia may have been grounded not
 only in judicial expediency but also in the health problems he
@@ -5506,16 +5297,13 @@ The Strange Health of CClptain H offmann / 11 9
 learned that Trapp had had him relieved of his company
 command.
 
-Hoffmann's relations with Trapp had already soured in Janu­
-ary, when the battalion commander ordered all his officers,
+Hoffmann's relations with Trapp had already soured in January, when the battalion commander ordered all his officers,
 NCOs, and men to sign a special declaration pledging not to
 steal, plunder, or take goods without paying for them. Hoffmann
 wrote Trapp a blistering reply in which he explicitly refused to
 carry out this order because it deeply violated his "sense of
-honor."17 Trapp had also heard unHattering accounts of Hoff­
-mann's inactivity in Pulawy from his temporary replacement,
-First Lieutenant Messmann, commander of the motorized Gen­
-darmerie company that had taken part in the Konskowola
+honor."17 Trapp had also heard unHattering accounts of Hoffmann's inactivity in Pulawy from his temporary replacement,
+First Lieutenant Messmann, commander of the motorized Gendarmerie company that had taken part in the Konskowola
 massacre. Trapp consulted with First Sergeant Karlsen· of Third
 Company, who confirmed the pattern of Hoffmann's illness. On
 February 23, 1943, Trapp submitted his request that Hoffmann
@@ -5523,8 +5311,7 @@ be dismissed from his post as company commander because he
 always reported sick before important actions and this "deficient
 sense of service" was not good for the morale of his men. 18
 
-The proud, touchy Hoffmann responded bitterly and energet­
-ically to his dismissal, claiming once again that his "honor as an
+The proud, touchy Hoffmann responded bitterly and energetically to his dismissal, claiming once again that his "honor as an
 officer and soldier had been most deeply hurt. " He accused
 Trapp of acting out of personal spite. 19 Trapp responded in detail
 and was upheld. The commander of the Order Police for the
@@ -5549,8 +5336,7 @@ was a case of cowardice, as his men and Trapp suspected. III he
 was. Whether his illness was initially caused by the murderous
 activities of Reserve Police Battalion 101 cannot be established,
 but he had the symptoms of psychologically induced "irritable
-colon" or "adaptive colitis." Certainly, Hoffmann's duties aggra­
-vated his condition. Moreover, it is clear that rather than using
+colon" or "adaptive colitis." Certainly, Hoffmann's duties aggravated his condition. Moreover, it is clear that rather than using
 his illness to escape an assignment that involved killing the Jews
 of Poland, Hoffmann made every effort to hide it from his
 superiors and to avoid being hospitalized. H mass murder was
@@ -5617,8 +5403,7 @@ ravaging the ghettos. For example, the head of public health for
 the district of Warsaw, Dr. Lambrecht, had argued for a law
 threatening Jews found outside the ghetto with "fear of death
 through hanging" that was "greater than fear of death through
-starvation. "1 Complaints soon arose concerning the implemen­
-tation of Frank's decree, however. The manpower available to
+starvation. "1 Complaints soon arose concerning the implementation of Frank's decree, however. The manpower available to
 escort captured Jews was too limited, the distances to be covered
 too great, the judicial procedures of the special courts too
 cumbersome and time-consuming. The remedy was simple; all
@@ -5636,8 +5421,7 @@ In short, even before they were systematically deported to
 the death camps, the Jews of Poland were subject to summary
 execution outside the ghettos. This "shooting order," however,
 was loosely applied in the district of Lublin, for there-in
-the rest of the General Government­
-comparison
+the rest of the General Governmentcomparison
 ghettoization was only partial. Jews living in the small towns
 and villages of northern Lublin were not concentrated in the
 transit ghettos of Mi�dzyrzec and Luk6w until September
@@ -5647,12 +5431,10 @@ Jews encountered outside of town on occasion.3 But the
 
 The "Jew Hunt" 1 1 23
 
-systematic tracking down of Jews did not begin until ghetto­
-ization was complete. It truly intensified only after the ghettos
+systematic tracking down of Jews did not begin until ghettoization was complete. It truly intensified only after the ghettos
 were liquidated.
 
-In late August Parczew became the first ghetto in the battal­
-ion's security zone to be completely cleared. According to
+In late August Parczew became the first ghetto in the battalion's security zone to be completely cleared. According to
 Sergeant Steinmetz, whose Third Platoon of Second Company
 was stationed there, Jews continued to be found in the area.
 They were incarcerated in the local prison. Gnade ordered
@@ -5676,8 +5458,7 @@ single Jew was to remain alive in the battalion's security zone. In
 official jargon, the battalion made "forest patrols" for " suspects. "8
 As the surviving Jews were to be tracked down and shot like
 animals, however, the men of Reserve Police Battalion 101
-unofficially dubbed this phase of the Final Solution the JutUn­
-jagd, or "Jew hunt. "9
+unofficially dubbed this phase of the Final Solution the JutUnjagd, or "Jew hunt. "9
 
 The "Jew hunt" took many forms. Most spectacular were two
 battalion sweeps through the Parczew forest in the fall of 1942
@@ -5691,8 +5472,7 @@ of Third Company recalled:
 
 We were told that there were many Jews hiding in the forest.
 We therefore searched through the woods in a skirmish line but
-could find nothing, because the Jews were obviously well hid­
-den. We combed the woods a second time. Only then could we
+could find nothing, because the Jews were obviously well hidden. We combed the woods a second time. Only then could we
 discover individual chimney pipes sticking out of the earth. We
 discovered that Jews had hidden themselves in underground
 bunkers here. They were hauled out, with resistance in only
@@ -5709,8 +5489,7 @@ from Parczew were standing directly by the shooting site. They
 were then ordered, presumably by Hoffmann, to bury the Jews
 who had been shot in a half-finished bunker.lO
 
-Other units of the battalion also remembered discovering bun­
-kers and killing Jews in batches of twenty to fiftyY One
+Other units of the battalion also remembered discovering bunkers and killing Jews in batches of twenty to fiftyY One
 policeman estimated the total body count for the October sweep
 at 500. 12
 
@@ -5730,8 +5509,7 @@ neck shot. The German administrator, who had not been
 
 The " J ew H unt" / 1 2 5
 
-infonned of the impending liquidation of his work force, com­
-plained in vain. 14 The Gennan administrator of Gut Pannwitz,
+infonned of the impending liquidation of his work force, complained in vain. 14 The Gennan administrator of Gut Pannwitz,
 near Pulawy, encountered the opposite problem of too many
 Jewish workers . His estate became a refuge for Jews who had
 fled the ghettos to the nearby forest and then sought sanctuary
@@ -5799,8 +5577,7 @@ about Jews in the woods who had stolen food from nearby fields,
 farms, and villages in their desperate attempt to stay alive. Upon
 receiving such reports, the local police commanders dispatched
 small patrols to locate the hiding Jews. Time and again the same
-scenario was played out, with only minor variations. The police­
-men followed their Polish guides directly to the bunker hideouts
+scenario was played out, with only minor variations. The policemen followed their Polish guides directly to the bunker hideouts
 and tossed grenades in the openings. The Jews who survived the
 initial grenade attack and emerged from the bunkers were forced
 to lie face down for the neck shot. The bodies were routinely left
@@ -5812,8 +5589,7 @@ less our daily bread, " said one.21 The expression "daily bread"
 was applied to the "Jew hunts" by another policeman as well. 22
 From the behavior of the patrol leaders, the men could quickly
 tell if they faced potential partisan action or were simply
-searching for reported Jews, who were assumed to be un­
-armed.23 According to at least one policeman, the "Jew hunt"
+searching for reported Jews, who were assumed to be unarmed.23 According to at least one policeman, the "Jew hunt"
 patrols predominated. "Such actions were our main task, and in
 comparison to real partisan actions they were much more
 numerous.
@@ -5832,8 +5608,7 @@ trip. Their sense of detachment from the fate of the Jews they
 deported was unshakable.
 
 But the "Jew hunt" was different. Once again they saw their
-victims face to face, and the killing was personal. More impor­
-tant, each individual policeman once again had a considerable
+victims face to face, and the killing was personal. More important, each individual policeman once again had a considerable
 degree of choice. How each exercised that choice revealed the
 extent to which the battalion had divided into the "tough" and
 the "weak. " In the months since J6zef6w many had become
@@ -5864,8 +5639,7 @@ way.2S
 1 28 / 0 R D I N A R Y M E N
 
 Growing callousness can also be seen in the post-shooting
-behavior of the policemen. After J6zef6w and the early shoot­
-ings, the men had returned to their quarters shaken and
+behavior of the policemen. After J6zef6w and the early shootings, the men had returned to their quarters shaken and
 embittered, without appetite or desire to talk about what they
 had just done. With the relentless killing, such sensitivities were
 dulled. One policeman recalled, "At the lunch table some of the
@@ -5898,8 +5672,7 @@ this did not suffice, others were also assigned. "26
 
 .
 
-Like Bekemeier, Walter Zimmermann* also made a distinc­
-tion between the large and small executions. Concerning the
+Like Bekemeier, Walter Zimmermann* also made a distinction between the large and small executions. Concerning the
 latter, he noted:
 
 In no case can I remember that anyone was forced to continue
@@ -5911,8 +5684,7 @@ executions there were always some comrades who found it
 The " J ew Hunt" / 1 29
 
 easier to shoot Jews than did others, so that the respective
-commando leaders never had difficulty finding suitable shoot­
-ers.29
+commando leaders never had difficulty finding suitable shooters.29
 
 Those who did not want to go on the "Jew hunts" or participate
 in firing squads followed three lines of action. They made no
@@ -5962,8 +5734,7 @@ him. I thus always attempted to take a position as far as possible
 from the center of events. "33 Others likewise sought to avoid
 shooting by staying in the background. 34
 
-Sometimes distance and reputation did not suffice, and out­
-right refusal was required to avoid killing. In Second Platoon of
+Sometimes distance and reputation did not suffice, and outright refusal was required to avoid killing. In Second Platoon of
 Third Company, Lieutenant Hoppner became one of the most
 zealous practitioners of the "Jew hunt" and eventually tried to
 impose the policy that everyone had to shoot. Some men who
@@ -6067,8 +5838,7 @@ witnessed or participated
 in ghetto roundups on several
 occasions-in a lifetime, a few brief moments that could be easily
 repressed. But the "Jew hunt" was not a brief episode. It was a
-tenacious, remorseless, ongoing campaign in which the "hunt­
-ers" tracked down and killed their "prey" in direct and personal
+tenacious, remorseless, ongoing campaign in which the "hunters" tracked down and killed their "prey" in direct and personal
 confrontation. It was not a passing phase but an existential
 condition of constant readiness and intention to kill every last
 Jew who could be found.
@@ -6112,8 +5882,7 @@ December to reduce the ghetto population. 3 In Mi�dzyrzec 500
 Jewish workers in the brush factory who had been spared the fall
 deportation were deported to the work camp at Trawniki on
 December 30, 1942. 4 The following night, around 11:00 p.m. on
-New Year's Eve, Security Police from neighboring Biam Pod­
-laska showed up at the Mi�dzyrzec ghetto in inebriated condition
+New Year's Eve, Security Police from neighboring Biam Podlaska showed up at the Mi�dzyrzec ghetto in inebriated condition
 and began shooting the remaining Jews "for sport" until the
 Radzyn Security Police arrived and chased them away. 5
 
@@ -6168,8 +5937,7 @@ command of one of two special "pursuit platoons" (jagdziige)
 • especially formed to intensify the hunt for partisan bands. Some
 " reinforcements were received to fill the void, especially a group
 of Berliners to help fill out depleted Second Company. 15 But for
-the most part, Reserve Police Battalion 101 remained under­
-strength.
+the most part, Reserve Police Battalion 101 remained understrength.
 
 "
 
@@ -6192,10 +5960,8 @@ more than 50,000 Odessan Jews in October 1941.
 
 Emtefest was the culmination of Himmler' s crusade to destroy
 Polish Jewry. As the murder campaign gained momentum in
-1942, Himmler had been plagued with complaints from in­
-dustrial and military authorities about the removal of Jewish
-workers essential to the war effort. In response to such com­
-plaints, which he viewed as pure pretense, he agreed to spare
+1942, Himmler had been plagued with complaints from industrial and military authorities about the removal of Jewish
+workers essential to the war effort. In response to such complaints, which he viewed as pure pretense, he agreed to spare
 some Jewish workers on the condition that they were lodged in
 camps and ghettos entirely under SS control. This allowed
 Himmler to parry pragmatic arguments based on the necessities
@@ -6247,8 +6013,7 @@ therefore have to be killed in a single massive operation that
 ,
 
 Mass killing on such a scale required planning and preparation.
-' . Globocnik's recent successor as SSPF, Jakob Sporrenberg, trav­
-eled to Krak6w, where he consulted with his superior, Wilhelm
+' . Globocnik's recent successor as SSPF, Jakob Sporrenberg, traveled to Krak6w, where he consulted with his superior, Wilhelm
 .... KrUger. He returned with a special folder and began issuing
 · instructions. IS In late October Jewish prisoners were put to work
 digging trenches just outside the camps at Majdanek, Trawniki,
@@ -6273,9 +6038,7 @@ began the next morning.
 
 Members of Reserve Police Battalion 101 participated in
 virtually every phase of the Erntefest massacre in Lublin. They
-arrived in the district capital on November 2 (so Trapp presum­
-ably attended Sporrenberg's conference) and were lodged over­
-night. Early on the morning of November 3, they took up their
+arrived in the district capital on November 2 (so Trapp presumably attended Sporrenberg's conference) and were lodged overnight. Early on the morning of November 3, they took up their
 stations. One group from the battalion helped to march Jews
 from various small work camps around Lublin to the Majdanek
 concentration camp several kilometers from the city center on
@@ -6327,13 +6090,11 @@ The last Massacres: " Harvest Festiva l " 1 1 3 9
 sat on the edge of the graves directly in front of me, were
 members of the SD .
 . Some distance behind each shooter
-stood several other SD men who constantly kept the mag­
-azines of the submachine guns full and handed them to the
+stood several other SD men who constantly kept the magazines of the submachine guns full and handed them to the
 shooter. A number of such shooters were assigned to each
 grave. Today I can no longer provide details about the number
 of graves. It is possible that there were many such graves
-where shooting took place simultaneously. I definitely remem­
-ber that the naked Jews were driven directly into the graves
+where shooting took place simultaneously. I definitely remember that the naked Jews were driven directly into the graves
 and forced to lie down quite precisely on top of those who had
 been shot before them. The shooter then fired off a burst at
 these prone victims .
@@ -6347,8 +6108,7 @@ were an awful lot of them . 27
 
 .
 
-. Observing the killing from a greater distance was SSPF Spor­
-renberg, who circled above the camp in a Fieseler Storch
+. Observing the killing from a greater distance was SSPF Sporrenberg, who circled above the camp in a Fieseler Storch
 airplane. Poles watched from the rooftops. 28
 
 On the same day and in the same way, other German units
@@ -6484,8 +6244,7 @@ S CONTRIBUTION TO THE FINAL SOLU­
 , men of Reserve Police Battalion 101 increasingly found them­
 'selves in action against armed partisans and enemy soldiers. In
 the spring of 1943 the battalion experienced a rare casualty when
-First Lieutenant Hagen was killed accidentally by police gun­
-fire. In the last year of the war, the toll among the officers
+First Lieutenant Hagen was killed accidentally by police gunfire. In the last year of the war, the toll among the officers
 ," rose dramatically; Lieutenants Gnade, Hoppner, and Peters fell
 action, and Lieutenant Drucker returned to Germany
 ' wounded. l Major Trapp also returned to Germany, in early
@@ -6511,29 +6270,25 @@ nine of the NCOs had belonged, and three had been in the SS as
 well. Hoffmann and Wohlauf, of course, had also been in both
 the Party and the SS. Hoffmann mentioned a brief period of
 internment by the British due to his SS membership. Though
-interrogated by Polish authorities, he was released and immedi­
-ately rejoined the Hamburg police. 3
+interrogated by Polish authorities, he was released and immediately rejoined the Hamburg police. 3
 
 Ironically, it was not the hardcore SS officers who suffered
 postwar difficulties because of Reserve Police Battalion 101' s
 actions in Poland, but Major Trapp and Lieutenant Buchmann.
 One policeman who had been in the firing squad at Talcyn was
 denounced by his estranged wife. Under interrogation, he
-named his battalion commander, Trapp, his company com­
-mander, Buchmann, and his first sergeant, Kammer. All of them
+named his battalion commander, Trapp, his company commander, Buchmann, and his first sergeant, Kammer. All of them
 were extradited to Poland in October 1947. On July 6, 1948, they
 had a one-day trial in the city of Siedlce. The trial focused solely
 on the reprisal shooting of seventy-eight Poles in Talcyn, not on
 any of the battalion's murderous and far more numerous actions
 against Polish Jews. The policeman and Trapp were sentenced to
-death and executed in December 1948. Buchmann was sen­
-tenced to eight years in prison and Kammer to three."
+death and executed in December 1948. Buchmann was sentenced to eight years in prison and Kammer to three."
 
 Reserve Police Battalion 101 was not subjected to further
 judicial investigation until the 1960s. In 1958 the Zentrale Stelle
 der Landesjustizverwaltungen (Central Agency for the State
-Administrations of Justice), headquartered in the town of Lud­
-wigs burg just north of Stuttgart, was formed to initiate and
+Administrations of Justice), headquartered in the town of Ludwigs burg just north of Stuttgart, was formed to initiate and
 coordinate the prosecution of Nazi crimes. The staff of the
 Zentrale Stelle was organized into various task forces, each
 
@@ -6545,8 +6300,7 @@ Aftermath 1 1 45
 suspects did they assign jurisdiction to the Office of the State
 Prosecutor of the federal state in which the prime suspect or
 '. suspects lived. It was in the course of investigating various crime
-complexes in the district of Lublin that Ludwigsburg investiga­
-tors first encountered several witnesses from Reserve Police
+complexes in the district of Lublin that Ludwigsburg investigators first encountered several witnesses from Reserve Police
 : Battalion 101. In 1962 the case was turned over to police and
 , judicial authorities in Hamburg, where most of the surviving
 
@@ -6564,8 +6318,7 @@ and Drucker were sentenced to eight years, Bentheim to six,
 · were declared guilty, but at the judges' discretion-under a
 provision of the 1940 criminal code that governed the trial, so as
 to avoid the criticism leveled at the Nurnberg trials of applying
-.. ex post facto law-they were given no sentence. Grund, Stein­
-metz, and Mehler were not included in the verdict, as their cases
+.. ex post facto law-they were given no sentence. Grund, Steinmetz, and Mehler were not included in the verdict, as their cases
 · had been separated during the trial because of their failing
 health. A lengthy appeals process finally concluded in 1972. The
 convictions of Bentheim and Bekemeier were upheld, but they
@@ -6582,10 +6335,8 @@ at first sight, it must be kept in mind that the investigation of
 1 46 1 O R D I N A R Y M E N
 
 trial of any former members of the Order Police. Most of the
-investigations of police battalions did not even lead to indict­
-ments. In the few cases that did come to trial, only a handful of
-convictions were obtained. Comparatively speaking, the inves­
-tigation and trial of Reserve Police Battalion 101 was a rare
+investigations of police battalions did not even lead to indictments. In the few cases that did come to trial, only a handful of
+convictions were obtained. Comparatively speaking, the investigation and trial of Reserve Police Battalion 101 was a rare
 success for German judicial authorities attempting to deal with
 the police battalions.
 
@@ -6613,8 +6364,7 @@ were equally important. Psychological defense
 especially repression and projection, crucially
 Ia�ld the testimony as well. Nowhere do all these qualifications
 Ibotlt the reliability of the testimonies become more problematic
-tlballl in connection with the fateful triangle of German-Polish­
-ewi!;h relations. Simply put, the portrayal of German-Polish and
+tlballl in connection with the fateful triangle of German-Polishewi!;h relations. Simply put, the portrayal of German-Polish and
 
 1 4 7
 
@@ -6640,9 +6390,7 @@ hand, to obscure the frequency and intensity of the battalion's
 anti-Jewish activities by alleging that partisans and bandits, not
 Jews, were the chief preoccupation of the policemen.
 
-Some of the witnesses referred to specific attempts at main­
-taining good German-Polish relations. Captain Hoffmann explic­
-itly boasted of friendly relations between his company and the
+Some of the witnesses referred to specific attempts at maintaining good German-Polish relations. Captain Hoffmann explicitly boasted of friendly relations between his company and the
 native population in Pulawy. He claimed that he filed charges
 against Lieutenant Messmann because the "shoot on sight"
 tactics of the latter's marauding motorized Gendarmerie were
@@ -6760,8 +6508,7 @@ Ioli.ticaJ and ideological dimension. "My entry into the general
 in May 1933 is explained by the fact that at that time the SS
 seen as a purely defensive formation. No special ideologically
 attitude on my part lay at the root of my entry. "8
-:On:sid,erably less dishonest, though still evasive, was the expla­
-tati(>n of Lieutenant Drucker, the only defendant who seriously
+:On:sid,erably less dishonest, though still evasive, was the explatati(>n of Lieutenant Drucker, the only defendant who seriously
 Ltenllpb�d to grapple with the problem of his past attitude.
 
 I received National Socialist ideological training only within
@@ -6776,15 +6523,12 @@ Jews-in any case it is my impression now that that was my
 attitude at that time.9
 
 few cases in which policemen testified to the brutality and
-Ilti··�e:miltism of others usually involved comments about partic­
-officers by men from the ranks. With some reluctance, for
+Ilti··�e:miltism of others usually involved comments about particofficers by men from the ranks. With some reluctance, for
 �tlmc:e, witnesses admitted that Gnade was a brutal, sadistic
 who was a Nazi and anti-Semite "out of conviction. "
 sergeants were also the subject of quite negative comments
-several testimonies. Rudolf Grund, who deputized for Buch­
-when the latter was excused from participating in Jewish
-iltiOiflS, was nicknamed the "poison dwarf' because he compen­
-for his short stature by screaming at his men. He was
+several testimonies. Rudolf Grund, who deputized for Buchwhen the latter was excused from participating in Jewish
+iltiOiflS, was nicknamed the "poison dwarf' because he compenfor his short stature by screaming at his men. He was
 W"llct4�ri,�ed as "especially harsh and loud, " a "real go-getter,"
 a "one hundred and ten percent Nazi" who displayed a
 zeal for duty. "10 Heinrich Bekemeier was described as a
@@ -6799,8 +6543,7 @@ Lomazy to crawl through a mud puddle while singing. When an
 exhausted old man collapsed and raised his hands to Bekemeier,
 begging for mercy, the sergeant shot him in the mouth. Heinrich
 Bekemeier, the witness concluded, was "a common dog. "11 But
-such denunciations by the policemen, even of unpopular supe­
-riors, much less of their comrades, were extremely rare.
+such denunciations by the policemen, even of unpopular superiors, much less of their comrades, were extremely rare.
 
 A range of attitudes toward Jews is revealed in less direct and
 less guarded statements made during the interrogations. For
@@ -6983,8 +6726,7 @@ information about Polish behavior. Time and again they used the
 word "betrayed," with its unquestionable connotation of strong
 moral condemnation.29 Most explicit in this regard was Gustav
 Michaelson. "I found it very disturbing at the time that the
-Polish population betrayed these Jews who had hidden them­
-selves. The Jews had camouflaged themselves very well in the
+Polish population betrayed these Jews who had hidden themselves. The Jews had camouflaged themselves very well in the
 forest, in underground bunkers or in other hiding places, and
 would never have been found if they had not been betrayed by
 the Polish civilian population. "30 Michaelson belonged to the
@@ -7033,8 +6775,7 @@ in the shooting on two occasions. 36 In contrast, Toni
 ' Komar6wka reported that they had captured four Jews. Drucker
 ,,' ordered Bentheim to shoot them . After he had taken the Jews to
 the cemetery, where he intended to shoot all four by himself, his
-. submachine gun jammed. He thereupon asked the Polish po­
-liceman who had accompanied him "if he wanted to take care of
+. submachine gun jammed. He thereupon asked the Polish policeman who had accompanied him "if he wanted to take care of
 it. To my surprise, however, he refused. " Bentheim used his
 
 , pistol. 37
@@ -7047,13 +6788,11 @@ Tragically, the kind of behavior they attributed to Poles is
 confirmed in other accounts and occurred all too often. The
 Holocaust, after all, is a story with far too few heroes and all too
 many perpetrators and victims. What is wrong with the German
-portrayals is a multifaceted distortion in perspective. The police­
-men were all but silent about Polish help to Jews and German
+portrayals is a multifaceted distortion in perspective. The policemen were all but silent about Polish help to Jews and German
 punishment for such help. Almost nothing was said of the
 German role in inciting the Polish "betrayals" the policemen so
 hypocritically condemned. Nor was any note made of the fact
-that large units of murderous auxiliaries-the notorious Hiwis­
-were not recruited from the Polish population, in stark contrast
+that large units of murderous auxiliaries-the notorious Hiwiswere not recruited from the Polish population, in stark contrast
 to other nationalities in pervasively anti-Semitic eastern Europe.
 In some ways, therefore, the German policemen's comments
 about Poles reveal as much about the former as the latter.
@@ -7074,13 +6813,10 @@ I,
 Ordinary Men
 
 BY DID MOST MEN IN RESERVE POLICE BATTALION 101
-Iec<Jlme killers, while only a minority of perhaps 10 percent­
-certainly no more than 20 percent-did not? A number of
+Iec<Jlme killers, while only a minority of perhaps 10 percentcertainly no more than 20 percent-did not? A number of
 zpllanillti()lls have been invoked in the past to explain such
-il!h�lvifl'r' wartime brutalization, racism, segmentation and rou­
-of the task, special selection of the perpetrators,
-:an�enism, obedience to orders, deference to authority, ideolog­
-indoctrination, and conformity. These factors are applicable
+il!h�lvifl'r' wartime brutalization, racism, segmentation and rouof the task, special selection of the perpetrators,
+:an�enism, obedience to orders, deference to authority, ideologindoctrination, and conformity. These factors are applicable
 
 varying degrees, but none without qualification.
 Wars have invariably been accompanied by atrocities. As John
@@ -7095,8 +6831,7 @@ erilmes. "l Above all, when deeply embedded negative racial
 stereotypes are added to the brutalization inherent in sending
 armed men to kill one another on a massive scale, the fragile
 tissue of war conventions and rules of combat is even more
-frequently and Viciously broken on all sides. Hence the differ­
-ence between more conventional war-between Germany and
+frequently and Viciously broken on all sides. Hence the difference between more conventional war-between Germany and
 the Western allies, for example-and the "race wars" of the
 recent past. From the Nazi "war of destruction" in eastern
 Europe and "war against the Jews" to the "war without mercy"
@@ -7123,8 +6858,7 @@ men who commit them?
 Many of the most notorious wartime atrocities-Oradour and
 Malmedy, the Japanese rampage through Manila, the American
 slaughter of prisoners and mutilation of corpses on many Pacific
-islands, and the massacre at My Lai-involved a kind of "battle­
-field frenzy. " Soldiers who were inured to violence, numbed to
+islands, and the massacre at My Lai-involved a kind of "battlefield frenzy. " Soldiers who were inured to violence, numbed to
 the taking of human life, embittered over their own casualties,
 and frustrated by the tenacity of an insidious and seemingly
 inhuman enemy sometimes exploded and at other times grimly
@@ -7191,30 +6925,23 @@ The context of war must surely be taken into account in a more
 general way than as a cause of combat-induced brutalization and
 frenzy, however. War, a struggle between "our people" and "the
 enemy," creates a polarized world in which "the enemy" is easily
-objectified and removed from the community of human obliga­
-tion. War is the most conducive environment in which govern­
-ments can adopt "atrocity by policy" and encounter few
+objectified and removed from the community of human obligation. War is the most conducive environment in which governments can adopt "atrocity by policy" and encounter few
 difficulties in implementing it. As John Dower has observed,
 "The Dehumanization of the Other contributed immeasurably to
 the psychological distancing that facilitated killing. "4 Distancing,
 not frenzy and brutalization, is one of the keys to the behavior of
-Reserve Police Battalion 101. War and negative racial stereotyp­
-ing were two mutually reinforcing factors in this distancing.
+Reserve Police Battalion 101. War and negative racial stereotyping were two mutually reinforcing factors in this distancing.
 
 Many scholars of the Holocaust, especially Raul Hilberg, have
 emphasized the bureaucratic and administrative aspects of the
 destruction process.5 This approach emphasizes the degree to
 which modern bureaucratic life fosters a functional and physical
-distancing in the same way that war and negative racial stereo­
-typing promote a psychological distancing between perpetrator
+distancing in the same way that war and negative racial stereotyping promote a psychological distancing between perpetrator
 and victim. Indeed, many of the perpetrators of the Holocaust
-were so-called desk murderers whose role in the mass extermi­
-nation was greatly facilitated by the bureaucratic nature of their
+were so-called desk murderers whose role in the mass extermination was greatly facilitated by the bureaucratic nature of their
 participation. Their jobs frequently consisted of tiny steps in the
 overall killing process, and they performed them in a routine
-manner, never seeing the victims their actions affected. Seg­
-mented, routinized, and depersonalized, the job of the bureau­
-crat or specialist-whether it involved confiscating property,
+manner, never seeing the victims their actions affected. Segmented, routinized, and depersonalized, the job of the bureaucrat or specialist-whether it involved confiscating property,
 scheduling trains, drafting legislation, sending telegrams, or
 compiling lists---could be performed without confronting the
 reality of mass murder. Such a luxury, of course, was not enjoyed
@@ -7229,8 +6956,7 @@ The facilitating psychological effect of a division of labor fur the
 
 Ordi nary Men 1 1 63
 
-process was not totally negligible, however. While mem­
-of the battalion did indeed carry out further shootings
+process was not totally negligible, however. While memof the battalion did indeed carry out further shootings
 Iin��e-·hailldt�d at Serokomla, Talcyn, and Kock, and later in the
 .... n�p. of innumerable "Jew hunts," the larger actions involved
 ventures and splitting of duties. The policemen always
@@ -7263,8 +6989,7 @@ iHimnller, anxious to get the right man for the right job, was also
 l'P.ti,ti in his selection of Higher SS and Police Leaders and
 '(!lll
 iotblers in key positions. Hence his insistence on keeping the
-UD:savlory Globocnik in Lublin, despite his past record of corrup­
-and objections to his appointment even within the Nazi
+UD:savlory Globocnik in Lublin, despite his past record of corrupand objections to his appointment even within the Nazi
 p"'rtv.7 In her book Into That Darkness, a classic study of Franz
 �taJngl, the commandant of Treblinka, Gitta Sereny concluded
 special care must have been taken to choose just 96 of some
@@ -7300,14 +7025,12 @@ most criteria, in fact, just the opposite was the case. By age,
 geographical origin, and social background, the men of Reserve
 Police Battalion 101 were least likely to be considered apt
 material out of which to mold future mass killers. On the basis of
-these criteria, the rank and file-middle-aged, mostly working­
-class, from Hamburg-<lid not represent special selection or
+these criteria, the rank and file-middle-aged, mostly workingclass, from Hamburg-<lid not represent special selection or
 even random selection but for all practical purposes negative
 selection for the task at hand.
 
 In one respect, however, an earlier and more general form of
-selection may have taken place. The high percentage (25 per­
-cent) of Party members among the battalion's rank and file,
+selection may have taken place. The high percentage (25 percent) of Party members among the battalion's rank and file,
 particularly disproportionate for those of working-class origin,
 suggests that the initial conscription of reservists-long before
 their use as killers in the Final Solution was envisaged-was not
@@ -7343,8 +7066,7 @@ JOli(� of careful selection either. Despite their impeccable Party
 ereClen,tlaJlS, both Hoffmann and Wohlauf had been shunted into
 ;.lnw-ITac'lc careers by SS standards. Wohlaufs career in the
 Police in particular was marked by mediocre, even
-ne�:ath{e, evaluations. Ironically, it was the relatively old (forty­
-eight) Reserve Lieutenant Gnade, not the two young SS cap-
+ne�:ath{e, evaluations. Ironically, it was the relatively old (fortyeight) Reserve Lieutenant Gnade, not the two young SS cap-
 1IIl1I::I, who turned out to be the most ruthless and sadistic killer,
 ' man who took pleasure in his work. Finally, the assignment of
 :P'l'�I'\I'P Lieutenant Buchmann could scarcely have been made
@@ -7378,21 +7100,17 @@ ganda.9 Their investigations led them to compile a list of the
 crucial traits (tested for by the so-called F-scale) of the "author­
 
 itarian personality": rigid adherence to conventional values;
-submissiveness to authority figures; aggressiveness toward out­
-groups; opposition to introspection, reflection, and creativity; a
+submissiveness to authority figures; aggressiveness toward outgroups; opposition to introspection, reflection, and creativity; a
 tendency to superstition and stereotyping; preoccupation with
-power and "toughness"; destructiveness and cynicism; projectiv­
-ity ("the disposition to believe that wild and dangerous things go
+power and "toughness"; destructiveness and cynicism; projectivity ("the disposition to believe that wild and dangerous things go
 on in the world" and "the projection outward of unconscious
-emotional impulses"); and an exaggerated concern with sexual­
-ity. They concluded that the antidemocratic individual "harbors
+emotional impulses"); and an exaggerated concern with sexuality. They concluded that the antidemocratic individual "harbors
 strong underlying aggressive impulses" and fascist movements
 allow him to project this aggression through sanctioned violence
 against ideologically targeted outgroups. 10 Zygmunt Bauman has
 summed up this approach as follows : "Nazism was cruel because
 Nazis were cruel; and the Nazis were cruel because cruel people
-tended to become Nazis. "l1 He is highly critical of the method­
-ology of Adorno and his colleagues, which neglected social
+tended to become Nazis. "l1 He is highly critical of the methodology of Adorno and his colleagues, which neglected social
 influences, and of the implication that ordinary people did not
 commit fascist atrocities.
 
@@ -7405,8 +7123,7 @@ brutality appears to exist."12 He proposed the notion of the
 "sleeper"-<:ertain personality characteristics of violence-prone
 individuals that usually remain latent but can be activated under
 certain conditions. In the chaos of post-World War I Germany,
-people testing high on the F -scale were attracted in dispropor­
-tionate numbers to National Socialism as a "subculture of
+people testing high on the F -scale were attracted in disproportionate numbers to National Socialism as a "subculture of
 violence," and in particular to the SS, which provided the
 incentives and support for the full realization of their violent
 potential. After World War II, such men reverted to law-abiding
@@ -7418,8 +7135,7 @@ the most immediate detenninant of SS behavior" in rousing
 "sleeper. "
 
 Ervin Staub accepts the notion that "some people become
-as a result of their personality; they are 'self­
-ielt�ctled . " But he concludes that Steiner's "sleeper" is a very
+as a result of their personality; they are 'selfielt�ctled . " But he concludes that Steiner's "sleeper" is a very
 trait and that under particular circumstances most
 I)eOple have a capacity for extreme violence and the destruction
 human life. 13 Indeed, Staub is quite emphatic that "ordinary
@@ -7447,11 +7163,9 @@ put to the test.
 
 . Those who emphasize the relative or absolute importance of
 linlati.onal factors over individual psychological characteristics
-point to Philip Zimbardo's Stanford prison experi­
-lbent. 16 Screening out everyone who scored beyond the nonnal
+point to Philip Zimbardo's Stanford prison experilbent. 16 Screening out everyone who scored beyond the nonnal
 ran�te on a battery of psychological tests, including one that
-lnellSulred "rigid adherence to conventional values and a submis­
-uncritical attitude toward authority" (i. e. , the F-scale for
+lnellSulred "rigid adherence to conventional values and a submisuncritical attitude toward authority" (i. e. , the F-scale for
 "authoritarian personality"), Zimbardo randomly divided his
 lODlOg;enleoLls "nonnal" test group into guards and prisoners and
 ·pialced them in a simulated prison. Though outright physical
@@ -7465,8 +7179,7 @@ I,! I
 
 prison life-in which guards operating on three-man shifts had to
 devise ways of controlling the more numerous prisoner
-population-had produced rapidly escalating brutality, humilia­
-tion, and dehumanization. "Most dramatic and distressing to us
+population-had produced rapidly escalating brutality, humiliation, and dehumanization. "Most dramatic and distressing to us
 was the observation of the ease with which sadistic behavior
 could be elicited in individuals who were not . sadistic types'."
 The prison situation alone, Zimbardo concluded, was "a sufficient
@@ -7508,8 +7221,7 @@ Ord i n ary Men 1 1 69
 :'1)(lllitl,ca1 police or Gestapo) or to avoid being drafted into the
 In these circumstances it is difficult to perceive any
 tJD4echoolism of self-selection through which the reserve battalions
-the Order Police could have attracted an unusual concentra­
-of men of violent predisposition. Indeed, if Nazi Germany
+the Order Police could have attracted an unusual concentraof men of violent predisposition. Indeed, if Nazi Germany
 ....
 . "rp,n unusually numerous career paths that sanctioned and
 ;rewaJrd€�d violent behavior, random conscription from the re­
@@ -7520,13 +7232,11 @@ of personality traits, in short, offers little to explain the
 
 'belnaV'lor of the men of Reserve Police Battalion 101.
 
-If special selection played little role and self-selection seem­
-m�IV none, what about self-interest and careerism? Those who
+If special selection played little role and self-selection seemm�IV none, what about self-interest and careerism? Those who
 'Mlnitlted being among the shooters did not justify their behavior
 the basis of career considerations. In contrast, however, the
 'ISsue of careerism was most clearly articulated by several of those
-did not shoot. Lieutenant Buchmann and Gustav Michael­
-in explaining their exceptional behavior, noted that unlike
+did not shoot. Lieutenant Buchmann and Gustav Michaelin explaining their exceptional behavior, noted that unlike
 th .. ir fellow officers or comrades, they had well-established
 l:IVlllil .. careers to return to and did not need to consider possible
 nel�ative repercussions on a future career in the police. 18 Buch­
@@ -7540,8 +7250,7 @@ iDl1!UellCea by any such calculations or reticence.
 In addition to the testimony of those who felt free of career
 ,'colllsi(ier;aticms, there is the behavior of those who clearly did not.
 :C�lptain Hoffmann is the classic example of a man driven by
-careerism. Crippled by stomach cramps-psychosomatically in­
-duce(i, at least in part, if not entirely, by the murderous actions
+careerism. Crippled by stomach cramps-psychosomatically induce(i, at least in part, if not entirely, by the murderous actions
 the battalion-he tenaciously tried to hide his illness from his
 ','supelriors rather than use it to escape his situation . He risked
 men's open suspicion of cowardice in a vain attempt to keep his
@@ -7555,16 +7264,12 @@ in the police after the war, career ambitions must have played an
 important role for many others as well.
 
 Among the perpetrators, of course, orders have traditionally
-been the most frequently cited explanation for their own behav­
-ior. The authoritarian political culture of the Nazi dictatorship,
+been the most frequently cited explanation for their own behavior. The authoritarian political culture of the Nazi dictatorship,
 savagely intolerant of overt dissent, along with the standard
-military necessity of obedience to orders and ruthless enforce­
-ment of discipline, created a situation in which individuals had
+military necessity of obedience to orders and ruthless enforcement of discipline, created a situation in which individuals had
 no choice. Orders were orders, and no one in such a political
 climate could be expected to disobey them, they insisted.
-Disobedience surely meant the concentration camp if not imme­
-diate execution, possibly for their families as well. The perpe­
-trators had found themselves in a situation of impossible "duress"
+Disobedience surely meant the concentration camp if not immediate execution, possibly for their families as well. The perpetrators had found themselves in a situation of impossible "duress"
 and therefore could not be held responsible for their actions.
 Such, at least, is what defendants said in trial after trial in
 postwar Germany.
@@ -7578,8 +7283,7 @@ punishment. 19 The punishment or censure that occasionally did
 result from such disobedience was never commensurate with the
 gravity of the crimes the men had been asked to commit.
 
-A variation on the explanation of inescapable orders is "puta­
-tive duress." Even if the consequences of disobedience would
+A variation on the explanation of inescapable orders is "putative duress." Even if the consequences of disobedience would
 not have been so dire, the men who complied could not have
 known that at the time. They sincerely thought that they had had
 no choice when faced with orders to kill. Undoubtedly in many
@@ -7661,13 +7365,11 @@ percent. If a nonauthority figure gave orders, obedience was nil.
 If the naive subject performed a subsidiary or accessory task but
 did not personally inflict the electric shocks, obedience was
 nearly total. In contrast, if the subject was part of an actor/peer
-group that staged a carefully planned refusal to continue follow­
-ing the directions of the authority figure, the vast majority of
+group that staged a carefully planned refusal to continue following the directions of the authority figure, the vast majority of
 subjects (90 percent) joined their peer group and desisted as
 well. If the subject was given complete discretion as to the level
 of electric shock to administer, all but a few sadists consistently
-delivered a minimal shock. When not under the direct surveil­
-lance of the scientist, many of the subjects "cheated" by giving
+delivered a minimal shock. When not under the direct surveillance of the scientist, many of the subjects "cheated" by giving
 lower shocks than prescribed, even though they were unable to
 confront authority and abandon the experiment. 22
 
@@ -7701,21 +7403,18 @@ even more difficult. The momentum of the process discourages
 any new or contrary initiative. The "situational obligation" or
 etiquette makes refusal appear improper, rude, or even an
 . immoral breach of obligation. And a socialized anxiety over
-. potential punishment for disobedience acts as a further deter­
-rent. 24
+. potential punishment for disobedience acts as a further deterrent. 24
 
 M ilgram made direct reference to the similarities between
 human behavior in his experiments and under the Nazi regime.
 He concluded, "Men are led to kill with little difficulty. "25
 Milgram was aware of significant differences in the two situations,
 however. Quite explicitly he acknowledged that the subjects of
-his experiments were assured that no permanent physical dam­
-age would result from their actions. The subjects were under no
+his experiments were assured that no permanent physical damage would result from their actions. The subjects were under no
 threat or duress themselves. And finally, the actor/victims were
 not the object of "intense devaluation" through systematic
 indoctrination of the subjects. In contrast, the killers of the Third
-Reich lived in a police state where the consequences of disobe­
-dience could be drastic and they were subjected to intense
+Reich lived in a police state where the consequences of disobedience could be drastic and they were subjected to intense
 indoctrination, but they also knew they were not only inflicting
 pain but destroying human life. 26
 
@@ -7726,8 +7425,7 @@ Was the massacre at J6zef6w a kind of radical Milgram
 experiment that took place in a Polish forest with real killers and
 victims rather than in a social psychology laboratory with naive
 subjects and actor/victims? Are the actions of Reserve Police
-Battalion 101 explained by Milgram's observations and conclu­
-sions? There are some difficulties in explaining J6zef6w as a case
+Battalion 101 explained by Milgram's observations and conclusions? There are some difficulties in explaining J6zef6w as a case
 of deference to authority, for none of Milgram's experimental
 variations exactly paralleled the historical situation at J6zef6w,
 and the relevant differences constitute too many variables to
@@ -7739,8 +7437,7 @@ At J6zef6w the authority system to which the men were
 responding was quite complex, unlike the laboratory situation.
 Major Trapp represented not a strong but a very weak authority
 figure. He weepingly conceded the frightful nature of the task at
-hand and invited the older reserve policemen to excuse them­
-selves. If Trapp was a weak immediate authority figure, he did
+hand and invited the older reserve policemen to excuse themselves. If Trapp was a weak immediate authority figure, he did
 invoke a more distant system of authority that was anything but
 weak. The orders for the massacre had been received from the
 highest quarter, he said. Trapp himself and the battalion as a unit
@@ -7760,8 +7457,7 @@ them of personal responsibility. "Subjects deny conformity and
 embrace obedience as the explanation of their actions. "27 Yet
 many policemen admitted responding to the pressures of
 conformity-how would they be seen in the eyes of their
-comrades?-not authority. On Milgram's own view, such admis­
-sion was the tip of the iceberg, and this factor must have been
+comrades?-not authority. On Milgram's own view, such admission was the tip of the iceberg, and this factor must have been
 
 , I
 
@@ -7787,8 +7483,7 @@ two collaborators, always going first, proposed a step-by-step
 Though the individual variation was wide, the
 �aVlerallre result was the selection of a level of electric shock
 between no increase and a consistent step-by-step
-,mc:rellSe. This is still short of a test of peer pressure as compen­
-for the deficiencies of weak authority. There was no
+,mc:rellSe. This is still short of a test of peer pressure as compenfor the deficiencies of weak authority. There was no
 :WE�ping but beloved scientist inviting subjects to leave the
 �ele:ctric shock panel while other men-with whom the subjects
 comradely relations and before whom they would feel
@@ -7828,33 +7523,27 @@ operations openly.
 
 One factor that admittedly was not the focal point of Milgram's
 experiments, indoctrination, and another that was only partially
-touched upon, conformity, require further investigation. Mil­
-gram did stipulate "definition of the situation" or ideology, that
+touched upon, conformity, require further investigation. Milgram did stipulate "definition of the situation" or ideology, that
 which gives meaning and coherence to the social occasion, as a
 crucial antecedent of deference to authority. Controlling the
 manner in which people interpret their world is one way to
 control behavior, Milgram argues. If they accept authority's
-ideology, action follows logically and willingly. Hence "ideolog­
-ical justification is vital in obtaining willing obedience, for it
+ideology, action follows logically and willingly. Hence "ideological justification is vital in obtaining willing obedience, for it
 permits the person to see his behavior as serving a desirable
 en .
 
-In Milgram's experiments, "overarching ideological justifica­
-tion" was present in the form of a tacit and unquestioned faith in
+In Milgram's experiments, "overarching ideological justification" was present in the form of a tacit and unquestioned faith in
 the goodness of science and its contribution to progress. But
 there was no systematic attempt to "devalue" the actor/victim or
-inculcate the subject with a particular ideology. Milgram hypoth­
-esized that the more destructive behavior of people in Nazi
-Germany, under much less direct surveillance, was a conse­
-quence of an internalization of authority achieved "through
+inculcate the subject with a particular ideology. Milgram hypothesized that the more destructive behavior of people in Nazi
+Germany, under much less direct surveillance, was a consequence of an internalization of authority achieved "through
 relatively long processes of indoctrination, of a sort not possible
 within the course of a laboratory hour."30
 
 To what degree, then, did the conscious inculcation of Nazi
 doctrines shape the behavior of the men of Reserve Police
 Battalion lOl? Were they subjected to such a barrage of clever
-and insidious propaganda that they lost the capacity for indepen­
-dent thought and responsible action? Were devaluation of the
+and insidious propaganda that they lost the capacity for independent thought and responsible action? Were devaluation of the
 Jews and exhortations to kill them central to this indoctrination?
 
 d "·29
@@ -7908,8 +7597,7 @@ this continuing ideological training, for which the National
 Socialist world view was to be the "plumb line." Every day, or at
 least every other day, the men were to be informed about
 current events and their proper understanding in ideological
-perspective. Every week officers were to hold thirty- to forty­
-five-minute sessions in which they delivered a short lecture or
+perspective. Every week officers were to hold thirty- to fortyfive-minute sessions in which they delivered a short lecture or
 read an edifying excerpt from suggested books or specially
 prepared SS pamphlets. The officers were to choose some
 theme-loyalty, comradeship, the offensive spirit-through
@@ -7918,9 +7606,7 @@ clearly expressed. M onthly sessions were to be held on the most
 important themes of the time and could feature officers and
 educational personnel of the SS and Party. 38
 
-The officers of Reserve Police Battalion 101 obviously com­
-plied with these directives on ideological education. In Decem­
-ber 1942 Captains Hoffmann and Wohlauf and Lieutenant
+The officers of Reserve Police Battalion 101 obviously complied with these directives on ideological education. In December 1942 Captains Hoffmann and Wohlauf and Lieutenant
 Gnade were recognized for their activities "in the area of
 ideological training and care for the troops." They were each
 awarded a book to be presented by their commanding officer. 39
@@ -7937,8 +7623,7 @@ for "ideological education" of the Order Police between 1940 and
 luminaries and noted ideological firebrands as Joseph Goebbels ,
 Alfred Rosenberg (Hitler's minister for occupied Russia), and
 Walter Gross (the head of the Party's Office of Racial Politics).
-The general racist perspective was of course pervasive. None­
-theless, in some two hundred issues altogether, relatively little
+The general racist perspective was of course pervasive. Nonetheless, in some two hundred issues altogether, relatively little
 space was devoted explicitly to anti-Semitism and the Jewish
 question. One issue, "Jewry and Criminality"-exceptionally
 ponderous even by the quite undistinguished standards of the
@@ -7969,8 +7654,7 @@ Hitler's prophecy and invoking his authority in
 mnection with the ultimate goal of a "Europe free of Jews" was
 of course, peculiar to SS indoctrination materials. On the
 intr'llrV, the same message was widely circulated to the general
-Ilb.IJic. How little these materials were directed at "brainwash­
-the reserve police into becoming mass murderers, more­
+Ilb.IJic. How little these materials were directed at "brainwashthe reserve police into becoming mass murderers, more­
 , can be seen from another article of September 20, 1942,
 single item in the entire two series devoted to the reserve
 Far from steeling them to be superhumanly inhuman to
@@ -7993,15 +7677,13 @@ A series of special pamphlets (four to six a year) "for the
 ideological education of the Order Police" constituted a second
 group of indoctrination materials. In 1941 one issue covered
 "The Blood Community of the German Peoples" and "The Great
-German Empire. "44 In 1942 there was an issue entitled "Ger­
-many Reorganizes Europe," and a "special issue" called .. ss Man
+German Empire. "44 In 1942 there was an issue entitled "Germany Reorganizes Europe," and a "special issue" called .. ss Man
 and the Question of Blood. "45 A large combined issue in 1943
 was devoted to "The Politics of Race. "46 Beginning with the 1942
 special issue on the question of blood but above all in the 1943
 issue "The Politics of Race," the treatment of racial doctrine and
 the Jewish question became very thorough and systematic. The
-German "people" (Volk) or "blood community" (Blutsgemein­
-schaft) was comprised of a mixture of six closely related European
+German "people" (Volk) or "blood community" (Blutsgemeinschaft) was comprised of a mixture of six closely related European
 races, the largest (50 to 60 percent) being the Nordic race.
 Shaped by a severe northern climate that ruthlessly eliminated
 weak elements, the Nordic race was superior to any other in the
@@ -8063,8 +7745,7 @@ security zone of Reserve Police Battalion 101 was virtually
 of Jews . " It appeared too late to have played a role in
 lIOc:trilllating this battalion for mass murder. Second, the 1942
 1Il1)hllet was clearly directed at the family obligations of the
-SS man and particularly irrelevant to middle-aged reserv­
-who had long ago made their decisions about marriage
+SS man and particularly irrelevant to middle-aged reservwho had long ago made their decisions about marriage
 Irin ... r and size of family. Thus, even though aVailable, it would
 
 1 82 l O R 0 I N A R Y M E N
@@ -8119,8 +7800,7 @@ Ordi nary Men 1 1 8 3
 .
 
 The partisan struggle is a struggle for Bolshevism, it is not a
-� The enemy must be totaUy de­
-people's movement.
+� The enemy must be totaUy depeople's movement.
 stroyed. The incessant decision over life and death posed by
 the partisans and suspects is difficult even for the toughest
 soldier. But it must be done. He behaves correctly who, by
@@ -8192,8 +7872,7 @@ Along with ideological indoctrination, a vital factor touchee
 upon but not fully explored in Milgram's experiments Will
 conformity to the group. The battalion had orders to kill Jews,
 but each individual did not. Yet 80 to 90 percent of the mell
-proceeded to kill, though almost all of them-at least initiaUy­
-were horrified and disgusted by what they were doing. To breat.
+proceeded to kill, though almost all of them-at least initiaUywere horrified and disgusted by what they were doing. To breat.
 ranks and step out, to adopt overtly nonconformist behavior, will
 simply beyond most of the men. It was easier for them to shoot.
 Why? First of all, by breaking ranks, nonshooters were leavin�
@@ -8238,8 +7917,7 @@ mroed, noncombatant men, women, and children-and tried
 to rupture the bonds of comradeship that constituted their
 world. Coping with the contradictions imposed by the
 lD8Ilds of conscience on the one hand and the norms of the
-aIi(Jln on the other led to many tortured attempts at compro­
-not shooting infants on the spot but taking them to the
+aIi(Jln on the other led to many tortured attempts at compronot shooting infants on the spot but taking them to the
 I!IIDbly point; not shooting on patrol if no "go-getter" was along
 
 ' I
@@ -8282,16 +7960,14 @@ included an essay entitled ''The Gray Zone," perhaps his most
 profound and deeply disturbing reflection on the Holocaust. 50
 He maintained that in spite of our natural desire for clear-cut
 distinctions, the history of the camps "could not be reduced to
-the two blocs of victims and persecutors. " He argued passion­
-ately, "It is naive, absurd, and historically &lse to believe that an
+the two blocs of victims and persecutors. " He argued passionately, "It is naive, absurd, and historically &lse to believe that an
 
 Ord i nary Men 1 1 87
 
 system such as National Socialism sanctifies its victims;
 contrary, it degrades them, it makes them resemble
 " The time had come to examine the inhabitants of the
-zone" between the simplified Manichean images of perpe­
-and victim. Levi concentrated on the "gray zone of
+zone" between the simplified Manichean images of perpeand victim. Levi concentrated on the "gray zone of
 tek,cya [corruption] and collaboration" that flourished in the
 among a spectrum of victims: from the "picturesque
 of low-ranking functionaries husbanding their minuscule
@@ -8330,8 +8006,7 @@ I ,
 1 88 l O R 0 I N A R Y M E N
 
 Nonetheless, the spectrum of Levi's gray zone seems qUite
-applicable to Reserve Police Battalion 101. The battalion cer­
-tainly had its quota of men who neared the "extreme boundary"
+applicable to Reserve Police Battalion 101. The battalion certainly had its quota of men who neared the "extreme boundary"
 of the gray zone. Lieutenant Gnade, who initially rushed his
 men back from Minsk to avoid being involved in killing but who
 later learned to enjoy it, leaps to mind. So do the many reserve
@@ -8354,8 +8029,7 @@ The behavior of any human being is, of course, a very complex
 phenomenon, and the historian who attempts to "explain" it is
 indulging in a certain arrogance. When nearly 500 men are
 involved, to undertake any general explanation of their collective
-behavior is even more hazardous. What, then, is one to con­
-clude? Most of all, one comes away from the story of Reserve
+behavior is even more hazardous. What, then, is one to conclude? Most of all, one comes away from the story of Reserve
 Police Battalion 101 with great unease. This story of ordinary
 men is not the story of all men. The reserve policemen faced
 choices, and most of them committed terrible deeds. But those
@@ -8401,8 +8075,7 @@ AFTERWORD
 ORDINARY MEN FIRST APPEARED SIX YEARS AGO, IT HAS BEEN
 enlt1esis!y scrutinized and criticized by another author, Daniel
 Goldhagen, who not only wrote on the same topic-the
-ltiv;ati()ll of the "ordinary" Germans who became Holocaust per­
-fra1toni-but also chose to develop his own work in part by
+ltiv;ati()ll of the "ordinary" Germans who became Holocaust perfra1toni-but also chose to develop his own work in part by
 iSe�lrCJl1ing the same documents concerning the same unit of
 killers, namely the postwar judicial interrogations of
 of Reserve Police Battalion 101.1 It is not unusual, of
@@ -8422,11 +8095,9 @@ negative.2 Professor Goldhagen, so critical of my work, has
 become a target in tum. In short, Goldhagen's critique of this book
 and the subsequent controversy surrounding his own work merit a
 retrospective "afterword" in subsequent editions of Ordinary Men.
-On several issues Goldhagen and I do not disagree: first, the par­
-ticipation of numerous "ordinary" Germans in the mass murder of
+On several issues Goldhagen and I do not disagree: first, the participation of numerous "ordinary" Germans in the mass murder of
 Jews, and second, the high degree of voluntarism they exhibited.
-The bulk of the killers were not specially selected but drawn at ran­
-dom from a cross-section of German society, and they did not kill
+The bulk of the killers were not specially selected but drawn at random from a cross-section of German society, and they did not kill
 because they were coerced by the threat of dire punishment for
 refUSing. However, neither of these conclusions is a new discovery
 in the field of Holocaust studies. It was one of the fundamental
@@ -8436,20 +8107,17 @@ The Destruction of the European Jews , which first appeared in
 makeup from the rest of the population. The German perpetrator
 was not a special kind of German." The perpetrators represented "a
 remarkable cross-section of the German population," and the
-machinery of destruction "was structurally no different from orga­
-nized German society as a whole."3 And it was the German scholar
+machinery of destruction "was structurally no different from organized German society as a whole."3 And it was the German scholar
 Herbert Jager' and the German prosecutors of the 1960s who
 firmly established that no one could document a Single case in
 which Germans who refused to carry out the killing of unarmed
 civilians suffered dire consequences. Goldhagen does credit Jager
-and the German prosecutors in this regard, but he is utterly dismis­
-sive of Hilberg.
+and the German prosecutors in this regard, but he is utterly dismissive of Hilberg.
 
 Aside from the differences in the tone that we employ in writing
 about the Holocaust and in the attitude that we display toward
 other scholars who have worked in this field of study, Goldhagen
-and I disagree Significantly in two major areas of historical interpre­
-tation. The first is our different assessments of the role of anti­
+and I disagree Significantly in two major areas of historical interpretation. The first is our different assessments of the role of anti­
 Semitism in German history, including the National Socialist era.
 The second is our different assessments of the motivation(s) of the
 "ordinary" German men who became Holocaust killers. These are
@@ -8488,8 +8156,7 @@ Ilti!.enlitism becomes more or less manifest." Not anti-Semitism
 , but merely its "expression," either "increases or decreases"
 
 oordillig to changing conditions.8
-Tblen in Goldhagen's account this picture of underlying perma­
-and superficial fluctuation changes abruptly after 1945. The
+Tblen in Goldhagen's account this picture of underlying permaand superficial fluctuation changes abruptly after 1945. The
 Itrv:asi\re and permanent eliminationist German anti-Semitism
 was the sole and sufficient motivation of the Holocaust killers
 
@@ -8505,8 +8172,7 @@ ilitica! culture before 1945 and that Germany's political culture is
 profoundly different and dramatically less anti-Semitic today
 two propositions that I can easily support. But if Germany's
 !UbCal culture in general and anti-Semitism in particular could be
-w:formed after 1945 by changes in education, public conversa­
-law, and institutional reinforcements, as Goldhagen suggests,
+w:formed after 1945 by changes in education, public conversalaw, and institutional reinforcements, as Goldhagen suggests,
 
 it seems to me equally plaUSible that they could have been
 transformed in the three or four decades preceding 1945
@@ -8537,18 +8203,14 @@ opposite effect; it erases all differentiation and subsumes all mani·
 festations of anti-Semitism in Germany under a Single rubric. AI
 Germans who perceived Jews as different and viewed this differ·
 ence as something negative that should disappear-whethel
-through conversion, assimilation, emigration, or extermination­
-are classed as "eliminationist" anti-Semites, even if by Goldhagen's
-prior model they differ as to cause, priority, and intensity. Such dif­
-ferences that do exist are analytically insignificant in any case, for,
+through conversion, assimilation, emigration, or exterminationare classed as "eliminationist" anti-Semites, even if by Goldhagen's
+prior model they differ as to cause, priority, and intensity. Such differences that do exist are analytically insignificant in any case, for,
 according to Goldhagen, variations on eliminationist solutions
 "tend to metastasize" into extermination.ll By using such an
 approach, Goldhagen moves seamlessly from a variety of anti­
-Semitic manifestations in Germany to a single German "elimina­
-tionist antisemitism" that, taking on the properties of organiC
+Semitic manifestations in Germany to a single German "eliminationist antisemitism" that, taking on the properties of organiC
 malignancy, naturally metastasized into extermination. Thus all
-Germany was "of one mind" with Hitler on the justice and neces­
-sity of the Final Solution.
+Germany was "of one mind" with Hitler on the justice and necessity of the Final Solution.
 
 If one adopts the analytical model that Goldhagen proposes
 rather than the concept he actually uses, what then can one say
@@ -8567,32 +8229,25 @@ precapitalist German elites maintained their privileges in an
 ,""",r!>tiC' P9litical system, while the unnerved middle classes were
 IugltJ.t off with the prosperity of rapid economic modernization,
 atitied by a national unification they had been unable to achieve
-IVUL1".U their own revolutionrury efforts, and ultimately manipu­
-an escalating "social imperialism."12 According to the cul­
+IVUL1".U their own revolutionrury efforts, and ultimately manipuan escalating "social imperialism."12 According to the cul­
 JIlL'lOleOlOgJ.Cal approach, the distorted and incomplete embrace
 the Enlightenment by some German intellectuals, followed by
-despair over an increasingly endangered and dissolving tradi­
-world, led to a continuing rejection of liberal-democratic valand traditions on the one hand, and a selective reconciliation
-aspects of modernity (such as modem technology and ends­
-rationality) on the other, producing what Jeffrey Herf
+despair over an increasingly endangered and dissolving tradiworld, led to a continuing rejection of liberal-democratic valand traditions on the one hand, and a selective reconciliation
+aspects of modernity (such as modem technology and endsrationality) on the other, producing what Jeffrey Herf
 nTIF,(j a peculirurly German "reactionrury modernism."13 A third
 exemplified by John Weiss and Daniel Goldhagen,
 a German Sonderweg in terms of the singular breadth and
 n1ence of anti-Semitism in Germany, though the former paints
 a less broad brush than the latter and is crureful to identify the
-nineteenth-century loci of this German anti-Semitism in pop­
-political movements and among the political and academic
+nineteenth-century loci of this German anti-Semitism in poppolitical movements and among the political and academic
 seems to me that Shulamit Volkov's interpretation of late
 llet,eeIlth-centtlry German anti-Semitism as a "cultural code"
-ostjttItes an admirable synthesis of major elements of these dif­
-though not totally mutually exclusive, notions of a German
-mn,p.nllp.u I5 German conservatives, dominating an illiberal politi­
-system but feeling their leading role increasingly imperiled by
+ostjttItes an admirable synthesis of major elements of these difthough not totally mutually exclusive, notions of a German
+mn,p.nllp.u I5 German conservatives, dominating an illiberal politisystem but feeling their leading role increasingly imperiled by
 changes unleashed by modernization, associated anti-Semitism
 everything they felt threatened by-liberalism, democracy,
 iCiaJisrn, internationalism, capitalism , and cultural experimenta­
-To be a self-proclaimed anti-Semite was also to be authoritrur­
-nationalist, imperialist, protectionist, corporative, and cultur-
+To be a self-proclaimed anti-Semite was also to be authoritrurnationalist, imperialist, protectionist, corporative, and cultur-
 
 1 9 6 / Afterword
 
@@ -8616,23 +8271,19 @@ dominated either politics or ideational life. The conselVatives ane
 Single-issue anti-Semitic parties together constituted a minority
 While majorities could be found in the Prussian Landtag to pas�
 discriminatory legislation against Catholics in the 1870s and in the
-Reichstag against socialists in the 1880s, the emancipation of Ger­
-many's Jews, who constituted less than 1 percent of the population
-and were scarcely capable of defending themselves against a Ger­
-many united in hostile obsession against them, was not revoked. If
+Reichstag against socialists in the 1880s, the emancipation of Germany's Jews, who constituted less than 1 percent of the population
+and were scarcely capable of defending themselves against a Germany united in hostile obsession against them, was not revoked. If
 the left did not exhibit a philo-Semitism comparable to the right's
 anti-Semitism, it was primarily because for the left anti-Semitism
 was a nonissue that did not fit into its own class analysis, not
 because of its own anti-Semitism.
 
 Even for the openly anti-Semitic conselVatives, the Jewish issue
-was but one among many. And to suggest that they felt more threat­
-ened by the Jews than, for example, by the Triple Entente abroad
+was but one among many. And to suggest that they felt more threatened by the Jews than, for example, by the Triple Entente abroad
 or Social Democracy at home would be a serious distortion. If anti­
 Semitism was neither the priority issue nor the greatest threat even
 for conselVatives, how much less was this the case for the rest of
-German society. As Richard Levy has noted, "One can make a con­
-vincing case that [Jews 1 were of very little interest to most Germans
+German society. As Richard Levy has noted, "One can make a convincing case that [Jews 1 were of very little interest to most Germans
 most of the time. Putting them at the center of German history in
 
 Afterword / 1 97
@@ -8659,8 +8310,7 @@ recently dubbed "redemptive" anti-Semitism)8 If Germany's
 !POlph()bic anti-Semitism was an important piece of the political
 tatt()nn of an important segment of the political spectrum, the
 anti-Semites with their chimeric accusations-from
-_")11 poisoning of Aryan blood to a secret Jewish world conspir­
-behind the twin threats of Marxist revolution and plutocratic
+_")11 poisoning of Aryan blood to a secret Jewish world conspirbehind the twin threats of Marxist revolution and plutocratic
 
 (ml,OCY'aC),-were still a fringe phenomenon.
 
@@ -8685,8 +8335,7 @@ this must be kept in perspective. The Nazis never gained
 than 37 percent of the vote in a free election, less than the
 om.birled socialist-communist vote. Daniel Goldhagen is right to
 jfUl:ffiU us "that individuals' attitudes on Single issues cannot be
-iterrp.n from their votes."19 But it is highly unlikely that he is cor­
-in his related assertion that large numbers of Germans who
+iterrp.n from their votes."19 But it is highly unlikely that he is corin his related assertion that large numbers of Germans who
 for the Social Democratic Party for economic reasons were
 
 1 9 8 / Afterword
@@ -8698,8 +8347,7 @@ nonetheless of one mind with Hitler and the Nazis about Jews.
 
 While I cannot prove it, I strongly suspect far more Germans voted
 
-Nazi for reasons other than anti-Semitism than Germans who con­
-sidered anti-Semitism a priority issue but nonetheless voted for a
+Nazi for reasons other than anti-Semitism than Germans who considered anti-Semitism a priority issue but nonetheless voted for a
 party other than the Nazis. Neither the election returns nor any
 plausible spin put on them suggest that in 1932 the vast majority of
 Germans were "of one mind" with Hitler about the Jews or that the
@@ -8717,9 +8365,7 @@ Beginning in 1933 all the factors that Goldhagen credits with
 dismantling German anti-Semitism after 1945---
 
 conversation, law, and institutional reinforcement-were operating
-in the opposite direction to intensify anti-Semitism among the Ger­
-mans, and indeed in a far more concerted manner than in the post­
-war period. Can one seriously doubt that this had significant
+in the opposite direction to intensify anti-Semitism among the Germans, and indeed in a far more concerted manner than in the postwar period. Can one seriously doubt that this had significant
 
 impact, particularly given the rising popularity of Hitler and the
 
@@ -8760,16 +8406,12 @@ cated a more systematic but dispassionate persecution.23
 
 Afterword / 1 9 9
 
-Hitler's conservative allies favored deemancipation and segrega­
-of the Jews as part of the counterrevolution and movement of
+Hitler's conservative allies favored deemancipation and segregaof the Jews as part of the counterrevolution and movement of
 .mcmai renewal. They strove to end the allegedly "inordinate"
 ;W""U influence on German life, though this was scarcely a priority
-to dismantling the labor unions, Marxist parties, and parlia­
-aeDltary democracy, or to rearmament and the restoration of Ger­
+to dismantling the labor unions, Marxist parties, and parliaaeDltary democracy, or to rearmament and the restoration of Ger­
 .... ",'. great-power status. They often spoke the language of racial
-�ti-.semi1jsD[l, but not consistently. Some, like President Hinden­
-wanted exemptions for Jews who had proved themselves wor­
-through loyal service to the fatherland, and the churches, of
+�ti-.semi1jsD[l, but not consistently. Some, like President Hindenwanted exemptions for Jews who had proved themselves worthrough loyal service to the fatherland, and the churches, of
 ,.. • .,"', wanted exemptions for converted Jews. In my opinion, it is
 lill<ely that the conservatives on their own would have proceeded
 evomo the initial discriminatory measures of 1933--34 that drove
@@ -8781,13 +8423,10 @@ What the conservatives conceived of as sufficient measures over­
 IPped with what were for the Nazis scarcely the first steps. The
 understood far better than the conservatives the distance that
 iIPalrat€�d them. As complicitous in the first anti-Jewish measures
-. they were in the wrecking of democracy, however, the conserva­
-could no more oppose radicalization of the persecution of the
-than they could demand for themselves rights under the dic­
-tnr<:hin that they had denied others. And while they may have
+. they were in the wrecking of democracy, however, the conservacould no more oppose radicalization of the persecution of the
+than they could demand for themselves rights under the dictnr<:hin that they had denied others. And while they may have
 ment€�d their own increasing loss of privilege and power at the
-of the Nazis whom they helped into power, with few excep­
-they had no remorse or regret for the fate of the Jews. To
+of the Nazis whom they helped into power, with few excepthey had no remorse or regret for the fate of the Jews. To
 that the Nazis' conservative allies were not of one mind with
 does not deny that their behavior was despicable and their
 1Sp4:ms:ibility considerable. As before, xenophobic anti-Semitism
@@ -8833,9 +8472,7 @@ response among much of the German population.
 Most important, however, a gulf had opened up between the
 
 Jewish minority and the general population. The latter, while not
-mobilized around strident and violent anti-Semitism, were increas­
-ingly "apathetic," "passive," and "indifferent" to the fate of the for­
-mer. Anti-Semitic measures-if carried out in an orderly and legal
+mobilized around strident and violent anti-Semitism, were increasingly "apathetic," "passive," and "indifferent" to the fate of the former. Anti-Semitic measures-if carried out in an orderly and legal
 
 manner-were widely accepted for two main reasons: such mea­
 
@@ -8870,12 +8507,10 @@ Afterword / 201
 
 nrr()r of genocide . . . . The more the news of mass murder flltered
 
-UUUJ:.J.J. the less the public wanted to be involved in the final soluof the Jewish question. "26 Nonetheless. as Kulka put it. "a strik­
-abysmal indifference to the fate of the Jews as human beings"
+UUUJ:.J.J. the less the public wanted to be involved in the final soluof the Jewish question. "26 Nonetheless. as Kulka put it. "a strikabysmal indifference to the fate of the Jews as human beings"
 
 "the regime the freedom of action to push for a radical 'Final
-plutioln ... ·27 Kershaw emphasized the same point with his memo­
-that "the road to Auschwitz was built by hatred. but
+plutioln ... ·27 Kershaw emphasized the same point with his memothat "the road to Auschwitz was built by hatred. but
 
 with indifference."28
 
@@ -8904,8 +8539,7 @@ more powerful, morally condemnatory
 
 language to
 
-German behavior. But I do not think that choice of lan­
-here alters the basic point made by Kershaw, Kulka. and
+German behavior. But I do not think that choice of lanhere alters the basic point made by Kershaw, Kulka. and
 
 "ll\lt::l. namely that in terms of the priority of anti-Semitism and
 iIIlrnltJnelnt to killing Jews a useful and important distinction can
@@ -8949,8 +8583,7 @@ As the Treaty of Brest-Litovsk, the Freikorps campaigns, and the
 almost universal rejection of the Versailles Treaty demonstrate,
 refusal to accept the verdict of World War I, imperial aspirations in
 
-eastern Europe underpinned by notions of German racial superior­
-ity, and virulent anticommunism were broadly held sentiments in
+eastern Europe underpinned by notions of German racial superiority, and virulent anticommunism were broadly held sentiments in
 German society. I would argue that they provided more common
 
 ground for the bulk of the German population and the Nazis than
@@ -8987,8 +8620,7 @@ lIutlOn was implemented (beginning on Soviet territory in the
 COTlld half of 1941 and in Poland and the rest of Europe in the
 of 1942), the Nazi regime had already found willing execu­
 ... .." " for 70,000 to 80,000 mentally and phYSically handicapped
-�nllaJ1�, tens of thousands of Polish intelligentsia, tens of thou­
-of noncombatant victims of reprisal shootings, and more
+�nllaJ1�, tens of thousands of Polish intelligentsia, tens of thouof noncombatant victims of reprisal shootings, and more
 2 million Russian POWs. Clearly, as of September 1939, the
 was increasingly capable of legitimizing and organizing
 murder on a staggering scale that did not depend on the
@@ -9001,8 +8633,7 @@ murder on a staggering scale that did not depend on the
 about the .
 
 !'Diilllilei Goldhagen has recently written that even if he is "not
-tireiy correct about the scope and character of German anti­
-it does not follow that this would invalidate" his "concluperpetrators and their motives."32 Central to
+tireiy correct about the scope and character of German antiit does not follow that this would invalidate" his "concluperpetrators and their motives."32 Central to
 interpretation is that these men were not only "willing
 but in fact "wanted to be genocidal executioners" of
 (italics mine).33 They "slaked their Jewish blood-lust" with
@@ -9091,13 +8722,11 @@ argues that the unprecedented, continuous, and pervasive
 'uelltv with which the Gennan perpetrators treated their Jewish
 �Il[\S is only explicable for the same reason.
 �:B'rin:ginlg wider attention to the death marches is one of the
-de4�mJing merits of Goldhagen's book, but his attempt to general­
-from the one case of the Helmbrechts death march is unpersua­
+de4�mJing merits of Goldhagen's book, but his attempt to generalfrom the one case of the Helmbrechts death march is unpersua­
 His powerful description of this horrific event must not
 the fact that in tenns of proof of a widespread eagerness to
 even contrary to orders, he has established neither its rep­
-�Illtatjve'ness for other death marches nor that the same phe­
-mEmOln did not occur in Gennans' treatment of other victims.
+�Illtatjve'ness for other death marches nor that the same phemEmOln did not occur in Gennans' treatment of other victims.
 even in his own case Goldhagen admits that the guards had to
 1eV4�nt the local Gennan population from providing food and
 and Gennan soldiers from providing medical care to the
@@ -9114,16 +8743,14 @@ mllITrf.'T all the Jews of Europe, in October 1941 the Nazi regime
 lIP.�o;prf its earlier position concerning Soviet prisoners of war and
 that henceforth they were to be used for labor rather than
 left to die from hunger, disease, and exposure. Rudolph
-at Auschwitz was infonned that he would receive a large con­
-of Soviet POWs for the purpose of constructing a new camp
+at Auschwitz was infonned that he would receive a large conof Soviet POWs for the purpose of constructing a new camp
 'irlcen.au·-a project high on Himmler's list of priorities. In short,
 economic rationale and superior orders mandated that the
 POWs be kept alive and put to useful labor. Nearly 10,000
 POWs arrived in Auschwitz in October 1941 and were sent
 ,irk4�nau. By the end of February, four months later, only 945
 alive-a survival rate of 9.5 percent.40 Himmler's order to use
-POWs for a priority construction project did not immedi­
-reverse either the habitual and ingrained behavior of concen-
+POWs for a priority construction project did not immedireverse either the habitual and ingrained behavior of concen-
 
 . I
 
@@ -9135,8 +8762,7 @@ or the deadly conditions at Birkenau.
 
 Indeed, as Michael Thad Allen has pointed out in his recent
 ph.D. dissertation on the Business Administration Main Office
-(WirtschaftsveIwaltungshauptamtl of the SS,41 within the concen­
-tration camp system the use of labor to punish and torture inmates
+(WirtschaftsveIwaltungshauptamtl of the SS,41 within the concentration camp system the use of labor to punish and torture inmates
 
 rather than for production was part of the institutional culture long
 
@@ -9167,8 +8793,7 @@ Semitism produced nearly identical fatality rates among the Soviet
 POWs and Slovak Jewish women over the same period of time in
 the same camp, and this despite a change in government policy
 
-concerning the fate of Soviet POWs and the urgency of the eco­
-nomic task they were to perform.
+concerning the fate of Soviet POWs and the urgency of the economic task they were to perform.
 
 Goldhagen is indeed correct that in the long run the murderous
 
@@ -9196,8 +8821,7 @@ these POW camps far exceeded the death rates in the Polish
 I:lettos prior to the Final Solution. The fact that the Nazi regime
 IWllgea its policy to murder all Jews and changed its policy not to
 all Soviet POWs is more a measure of the ideology, priorities,
-obsessions of Hitler and the Nazi leadership than of the atti­
-of German society. The staggering fatality rate of Soviet
+obsessions of Hitler and the Nazi leadership than of the attiof German society. The staggering fatality rate of Soviet
 
 in the first months suggests above all the regime's capacity to
 mess ordinary Germans to murder limitless numbers of Soviet
@@ -9275,8 +8899,7 @@ not mean his own ungrounded assertion concerning motivation is
 
 correct. Interestingly, the eloquent survivor Primo Levi agreed at
 
-least in part with Franz Stangl, the notorious Treblinka comman­
-dant, on a different, quite functional explanation for perpetrator
+least in part with Franz Stangl, the notorious Treblinka commandant, on a different, quite functional explanation for perpetrator
 
 cruelty, namely that the total debasement and humiliation of the
 victim facilitated the victim's dehumanization so essential to the
@@ -9293,12 +8916,10 @@ explanation not devoid of logic," he continues, "but it shouts to
 
 heaven; it is the sole usefulness of useless violence."47
 
-Indeed, too many instances of cruelty transcend a purely func­
-tional explanation. Another approach is taken by Fred E. Katz, who
+Indeed, too many instances of cruelty transcend a purely functional explanation. Another approach is taken by Fred E. Katz, who
 argues that in a killing environment the creation of "a culture of
 
-cruelty" is a "powerful phenomenon" that provides many satisfac­
-tions-individualized reputation and enhanced standing among
+cruelty" is a "powerful phenomenon" that provides many satisfactions-individualized reputation and enhanced standing among
 
 one's peers, alleviation of boredom, and a sense of joy and festivity,
 of artistry and creativity-to those who flaunt their gratuitous and
@@ -9316,8 +8937,7 @@ has posed an important question. I do not believe that we have
 
 Let us tum to the other comparison, namely that of German and
 
-treatment of Jews. To be valid by accepted social sci­
-standards, German behavior would have to be compared with
+treatment of Jews. To be valid by accepted social scistandards, German behavior would have to be compared with
 
 C:U<lVIVl in the complete set, or at least an unbiased random sam­
 
@@ -9344,8 +8964,7 @@ is suddenly acceptable for east European but not for German
 
 ;'Moreovf�r_ as I noted at the April 1996 symposium at the U.S.
 OiCICalust Memorial Museum,s1 the example of the Luxemburgers
-'·Ji.f�se:rve Police Battalion 101 offers the rare opportunity of com­
-np.nnl'p in the same situation but of different cultural back­
+'·Ji.f�se:rve Police Battalion 101 offers the rare opportunity of comnp.nnl'p in the same situation but of different cultural back­
 OUllld. While the evidence is suggestive rather than conclusive, I
 
 that the fourteen Luxemburgers seem to have behaved very
@@ -9373,37 +8992,28 @@ evidence.
 
 Goldhagen admits that he began with the hypotheSiS "that the
 perpetrators were motivated to take part in the lethal persecution
-of the Jews because of their beliefs about the victims."52 The pri­
-mary source of evidence for the behavior and motivation of the
+of the Jews because of their beliefs about the victims."52 The primary source of evidence for the behavior and motivation of the
 men of Reserve Police Battalion 101 by which to measure this
 hypotheSiS is the postwar testimony gathered through judicial
 investigation. It is not a matter of contention among scholars that
 postwar perpetrator testimony is highly problematic; it is shaped
-both by the questions posed by the investigators and by the forget­
-fulness, repression, distortion, evasion, and mendacity of the wit­
-nesses.
+both by the questions posed by the investigators and by the forgetfulness, repression, distortion, evasion, and mendacity of the witnesses.
 
 It is my position, however, that the judicial testimonies of
 Reserve Police Battalion 101 are qualitatively different from the
 vast bulk of such testimony. The roster of the unit survived, and
 more than 40 percent of the battalion members {most of them rank
 and rue reservists rather than officers} were interrogated by able
-and persistent investigative attorneys. The large amount of unusu­
-ally vivid and detailed testimony stands in stark contrast to the for­
-mulaic and transparently dishonest testimony so often encoun­
-tered. Aware of the subjective and fallible nature of the judgments
+and persistent investigative attorneys. The large amount of unusually vivid and detailed testimony stands in stark contrast to the formulaic and transparently dishonest testimony so often encountered. Aware of the subjective and fallible nature of the judgments
 I will be making, I feel nonetheless that, used carefully, this body of
 testimony offers the historian a unique opportunity to probe issues
 in a way that is not possible from the records of other cases. It is no
-accident, after all, that among the hundreds of postwar German tri­
-als, both Goldhagen and I found our ways independently to the
+accident, after all, that among the hundreds of postwar German trials, both Goldhagen and I found our ways independently to the
 very same court records.
 
 To deal with the problem of the evidentiary value of perpetrator
-testimony, Goldhagen argues in contrast that "the only method­
-olOgical position that makes sense is to discount all self-exculpating
-testimony that finds no corroboration from other sources."53 Gold­
-hagen is also aware that "the temptation to pick and choose propi-
+testimony, Goldhagen argues in contrast that "the only methodolOgical position that makes sense is to discount all self-exculpating
+testimony that finds no corroboration from other sources."53 Goldhagen is also aware that "the temptation to pick and choose propi-
 
 Afterword I 21 1
 
@@ -9416,8 +9026,7 @@ material from a large number of cases should be resisted so as
 
 Goldhlagl�n's standard for judging testimony as self-exculpating
 
-thus to be excluded unless corroborated? For Goldhagen testi­
-onlles are "in all likelihood" self-exculpating if the witnesses deny
+thus to be excluded unless corroborated? For Goldhagen testionlles are "in all likelihood" self-exculpating if the witnesses deny
 "their souls, their inner will and moral assent" to the killing.56
 short, testimony about any state of mind or motivation at odds
 his initial hypothesis is excluded unless corroborated, and
@@ -9427,8 +9036,7 @@ Ilwng corroborating evidence concerning state of mind-given
 absence of contemporary letters and diaries-is nearly impossi­
 
 As a result, Goldhagen is left only with a residue of testimony
-�mpa1tibJle with his hypothesis, and the conclusions are for all prac­
-purposes predetermined. A methodology that can scarcely do
+�mpa1tibJle with his hypothesis, and the conclusions are for all pracpurposes predetermined. A methodology that can scarcely do
 
 than confirm the hypothesis that it was designed to test is not
 
@@ -9437,8 +9045,7 @@ social science.
 .
 
 The problem of a deterministic methodology is compounded by
-lOuler flaw in Goldhagen's use of evidence, namely a double stan­
-in which he does not apply the same evidentiary standards and
+lOuler flaw in Goldhagen's use of evidence, namely a double stanin which he does not apply the same evidentiary standards and
 exclusionary threshold when the victims are Poles rather than
 The cumulative effect of these problems in Goldhagen's use
 
@@ -9447,8 +9054,7 @@ lSpIectlVe accounts of Reserve Police Battalion 101'5 initial mas­
 
 of Jews and Poles at J6zef6w and Talcyn.
 
-According to Goldhagen, at J6zef6w Major Wilhelm Trapp deliv­
-a "pep talk," inciting his men to murder by activating the
+According to Goldhagen, at J6zef6w Major Wilhelm Trapp deliva "pep talk," inciting his men to murder by activating the
 
 �mClmc view of the Jews that virtually all of them held. Though
 
@@ -9526,8 +9132,7 @@ Moreover. this double standard in the selection of evidence can
 
 also be seen in Goldhagen's analysiS of the men's motives. The fail­
 
-ure of the policemen to opt out at Talcyn is not construed as evi­
-dence of a desire to kill Poles, while not opting out at J6zef6w is
+ure of the policemen to opt out at Talcyn is not construed as evidence of a desire to kill Poles, while not opting out at J6zef6w is
 cited as evidence that they "wanted to be genocidal executioners" of
 the Jews. Nothing more than "momentary" visceral weakness is seen
 
@@ -9535,14 +9140,12 @@ in the mountain of testimony about the men's distress at J6zef6w,
 
 Afterword / 21 3
 
-the statement of a single witness at Talcyn is cited as valid evi­
-tieIlce of the men's "obvious distaste and reluctance" to kill Poles.63
+the statement of a single witness at Talcyn is cited as valid evitieIlce of the men's "obvious distaste and reluctance" to kill Poles.63
 The double standard concerning Jewish and Polish victims can
 seen in yet another way. Goldhagen cites numerous instances of
 atuitOlls and voluntaristic killing of Jews as relevant to assessing
 attitudes of the killers. But he omits a similar case of gratuitous,
-Volluntari�stic killing by Reserve Police Battalion 10 1 when the vic­
-were Poles. A German police official was reported killed in the
+Volluntari�stic killing by Reserve Police Battalion 10 1 when the vicwere Poles. A German police official was reported killed in the
 �lge of N iezd6w, whereupon policemen about to visit the cinema
 
 Opole were sent to carry out a reprisal action. Only elderly Poles,
@@ -9643,8 +9246,7 @@ Under the command of Sergeant Bekemeier we had to convey a
 transport of Jews to some place. He had the Jews crawl through
 
 a water hole and sing as they did it. When an old man could not
-walk anymore, which was when the crawling episode was fin­
-ished, he shot him at close range in the mouth .
+walk anymore, which was when the crawling episode was finished, he shot him at close range in the mouth .
 
 .
 
@@ -9670,9 +9272,7 @@ W�1"111� next to me, 'I'd like to bump off this trash.' " Indeed,
 .acc:!Or,dinlg to the same witness, within the "circle of comrades"
 :Bekernei1er was deemed "vile trash" and "a dirty dog." He was
 bol:ori,ous for being "violent and cruel" to both "Poles and Jews"
-even for kicking his own men.7l In short, by tendentious selec­
-tivitv Goldhagen portrays this event as part of a pattern of general­
-and uniform cruelty and approval, when the full testimony
+even for kicking his own men.7l In short, by tendentious selectivitv Goldhagen portrays this event as part of a pattern of generaland uniform cruelty and approval, when the full testimony
 '.nrC)V1ICleS a picture instead of the cruelty of an especially vicious
 disliked SS officer, whose behavior evoked disapproval among
 men.
@@ -9684,8 +9284,7 @@ murderous deeds. The smallest group within the battalion
 ('OOlmprisE�d the nonshooters. With the exception of lieutenant
 :Ju(�hrrlann, they did not make principled objections against the
 ',!,"');U1I'''' and its murderous policies; they did not reproach their
-'flOlmnldes. They took advantage of Trapp's policy within the battal­
-of exempting from shooting those who "didn't feel up to it" by
+'flOlmnldes. They took advantage of Trapp's policy within the battalof exempting from shooting those who "didn't feel up to it" by
 
 lIlyml!: that they were took weak or that they had children.
 
@@ -9739,11 +9338,9 @@ In addition to a multilayered portrayal of the battalion, I offered
 a multicausal explanation of motivation. I noted the importance of
 conformity, peer pressure, and deference to authority, and I should
 
-have emphasized more explicitly the legitimizing capacities of gov­
-ernment. I also emphasized the "mutually intensifying effects of
+have emphasized more explicitly the legitimizing capacities of government. I also emphasized the "mutually intensifying effects of
 
-war and racism," as "the years of anti-Semitic propaganda . . . dove­
-tailed with the polarizing effects of war." I argued that "nothing
+war and racism," as "the years of anti-Semitic propaganda . . . dovetailed with the polarizing effects of war." I argued that "nothing
 
 helped the Nazis to wage a race war so much as the war itself," as
 
@@ -9813,8 +9410,7 @@ More important is the historical context of Weimar disobedi­
 :"U"<O. Goldhagen notes that Germans were obedient only to gov­
 �nlmlent and authOrity that they deemed "legitimate." This is
 
-'lD(1eed vital to the issue, for it was precisely the democratic, nonau­
-tlllJrittariian character of Weimar that delegitimized it in the eyes of
+'lD(1eed vital to the issue, for it was precisely the democratic, nonautlllJrittariian character of Weimar that delegitimized it in the eyes of
 ,tllc)se who disdained and attacked it. It was precisely the Nazis'
 
 ;Gemc)lition of democracy and the restoration of an authoritarian
@@ -9826,9 +9422,7 @@ tlllJrittariian character of Weimar that delegitimized it in the eyes of
 
 segments of the German population. Indeed, many historians have
 
-argued that Germany's incomplete and halfhearted democratic rev­
-olutions in 1848 and 1918 opened the door for successful authori­
-tarian counterrevolution and restoration, and that failed democrati­
+argued that Germany's incomplete and halfhearted democratic revolutions in 1848 and 1918 opened the door for successful authoritarian counterrevolution and restoration, and that failed democrati­
 
 zation-not anti-Semitism-decisively distinguished Germany's
 political culture from that of France, England, and the United
@@ -9926,8 +9520,7 @@ against their will. This both mischaracterizes the position of
 
 approach in investigating the histOrically specific
 
-nst:anc:e of "crimes of obedience" in Vietnam, Kelman and Hamil­
-have noted a spectrum of response to authority. Between those
+nst:anc:e of "crimes of obedience" in Vietnam, Kelman and Hamilhave noted a spectrum of response to authority. Between those
 
 acted out of conviction because they shared the values of the
 regime and its policies on the one hand, and nominal compliers
@@ -9956,16 +9549,13 @@ Whlich they do not consider wrong if sanctioned by the state.79 And
 
 220 / Afterword
 
-people can change their values, adopting new ones that do not con­
-flict with their actions, thus becoming killers out of conviction as
+people can change their values, adopting new ones that do not conflict with their actions, thus becoming killers out of conviction as
 the killing becomes routine. The relationship between authority,
 belief, and action is not only complex, but it is also unstable and can
 
 change over time.SO
 
-The social-psychological approach does not assume, as Goldha­
-gen claims, that the perpetrators' ideology, moral values, and con­
-ception of the victims do not matter.81 But the approach is certainly
+The social-psychological approach does not assume, as Goldhagen claims, that the perpetrators' ideology, moral values, and conception of the victims do not matter.81 But the approach is certainly
 not congenial to the simplistic reduction of the perpetrators' ideol­
 
 ogy, moral values, and conception of the victim to a single factor,
@@ -9977,8 +9567,7 @@ depend upon the existence of a propi­
 
 .
 
-tious social and political context."82 But the social and political con­
-text invariably introduces a plurality of factors beyond the cognition
+tious social and political context."82 But the social and political context invariably introduces a plurality of factors beyond the cognition
 
 of the perpetrators and identity of the victims, and it produces a
 
@@ -10008,8 +9597,7 @@ Throughout the controversy, Goldhagen has claimed that his
 approach has restored a moral dimension missing from the
 
 accounts of previous historians. For instance, in his recent reply to
-his critics in The New Republic, Goldhagen asserts that he has rec­
-ognized "the humanity" of the perpetrators. His analYSis is "predi­
+his critics in The New Republic, Goldhagen asserts that he has recognized "the humanity" of the perpetrators. His analYSis is "predi­
 
 cated upon the recognition that each individual made choices
 
@@ -10024,8 +9612,7 @@ and treated them as "automatons or puppetS."84
 Afterword / 221
 
 These claims by Goldhagen are untenable. First, the social­
-�Ch()IO:gICal insights he cavalierly dismisses do not treat individ­
-as mechanically interchangeable parts, nor do they dismiss
+�Ch()IO:gICal insights he cavalierly dismisses do not treat individas mechanically interchangeable parts, nor do they dismiss
 
 J,:Ul'LU1,,... and ideological factors.85 As noted above, Goldhagen's
 
@@ -10037,8 +9624,7 @@ I)rtal>lle arm's length," it is Goldhagen himself who admonishes
 
 scholars to rid themselves of the notion that Germans in the
 
-Reich were "more or less like us" and that "their sensibili­
-had remotely approximated our OWIl."B7 And his claim to treat
+Reich were "more or less like us" and that "their sensibilihad remotely approximated our OWIl."B7 And his claim to treat
 IefJ>etrat,ors as "responsible agents who make choices" is difficult
 
 reconcile with his deterministic conclusion: "During the Nazi
@@ -10077,8 +9663,7 @@ tpr()acllles, I would ask, is predicated upon the humanity and indi­
 """Uy�l� of their choices?
 
 ,Goldhagen and I agree that Reserve Police Battalion 101 was
-(lpJ'es(mtati,re of "ordinary Germans," and that "ordinary Ger­
-randomly conscripted from all walks of life became "willing
+(lpJ'es(mtati,re of "ordinary Germans," and that "ordinary Gerrandomly conscripted from all walks of life became "willing
 
 IieCluticme.rs " But I do not think that his portrayal of the battalion
 representative. He is certainly right that there were numerous
@@ -10094,8 +9679,7 @@ both this book and his. But Goldhagen minimizes or denies other
 layers of behavior that are important to understanding the dynam­
 
 ics of genocidal killing units and that cast doubt on his assertion
-that the battalion was uniformly pervaded by "pride" in and "princi­
-pled approval" of the mass murder it perpetrated. His portrayal is
+that the battalion was uniformly pervaded by "pride" in and "principled approval" of the mass murder it perpetrated. His portrayal is
 
 skewed because he mistakes the part for the whole.
 
@@ -10109,8 +9693,7 @@ gen's assertion that anti-Semitism "more or less governed the
 
 ideational life of civil society" in pre-Nazi Germany.89 I agree that
 by 1933 anti-Semitism had become part of the "common sense" of
-the German right without thereby concluding that all German soci­
-ety was "of one mind" with Hitler about the Jews, and that the
+the German right without thereby concluding that all German society was "of one mind" with Hitler about the Jews, and that the
 
 "centrality of antisemitism in the Party's worldview, program, and
 
@@ -10151,8 +9734,7 @@ Why does it matter which of our portrayals of and conclusions
 about Reserve Police Battalion 101 are closer to the truth? It would
 be very comforting if Goldhagen were correct, that very few soci­
 
-eties have the long-term, cultural-cognitive prerequisites to com­
-mit genocide, and that regimes can only do so when the population
+eties have the long-term, cultural-cognitive prerequisites to commit genocide, and that regimes can only do so when the population
 
 Afterword / 223
 
@@ -10161,8 +9743,7 @@ We would live in a safer world if he were right, but I am not so
 
 wtjmistic. I fear that we live in a world in which war and racism are
 iUbiqtLitc,us, in which the powers of government mobilization and
-egitinliz;�ti()ll are powerful and increasing, in which a sense of per­
-responsibility is increasingly attenuated by specialization and
+egitinliz;�ti()ll are powerful and increasing, in which a sense of perresponsibility is increasingly attenuated by specialization and
 IUrleatlcr,ati,�atiion, and in which the peer group exerts tremendous
 on behavior and sets moral norms. In such a world, I fear,
 
@@ -10301,8 +9882,7 @@ Office of the State Prosecutor, Hamburg, 141 Js 1957/62
 Trials of the Major War Criminals before the International
 Military Tribunal, 42 vots.
 
-Jusnz lind NS-Verbrechen. Sammlllng Strafurteile wegen Na­
-tionalsozialistische TOtllngsverbrechen 1945-1966, 20 vots.
+Jusnz lind NS-Verbrechen. Sammlllng Strafurteile wegen Nationalsozialistische TOtllngsverbrechen 1945-1966, 20 vots.
 
 Niimberg document relating to party organizations
 
@@ -10352,8 +9932,7 @@ HW 1953, 4577; August W., HW 2041-42, 3298, 4589.
 2 . T H E ORDER POL I C E
 
 1. The only institutional history of the Order Police is Zur Guchichte de,
-Of'dnung."olizei 1936-1945 (Koblenz, 1957): part I, Hans-Joachim Neu­
-feldt, "Entstehung und Organisation des Hauptamtes Ordnungspolizei,"
+Of'dnung."olizei 1936-1945 (Koblenz, 1957): part I, Hans-Joachim Neufeldt, "Entstehung und Organisation des Hauptamtes Ordnungspolizei,"
 and part 2, Georg Tessin, "Die Stlibe und Truppeneinheiten der Ordnungs-
 
 Notes 1 2 29
@@ -10443,8 +10022,7 @@ Johann L. , Franz P. , and Karl G. ); 3:591-95 (notes from Balek diary).
 'l.7. For a highly Hawed legal judgment containing useful background on
 the activities of Police Battalion 11, see JNSV 18, no. 546a (Landgericht
 Kassel, judgment 3a I(s 1/61):786-835.
-28. IMT 27:4-8 ( l l04-PS: Gebietskommissar Carl in Slutsk to GeneraIkom­
-missar I(ube in Minsk, October 30, 1941).
+28. IMT 27:4-8 ( l l04-PS: Gebietskommissar Carl in Slutsk to GeneraIkommissar I(ube in Minsk, October 30, 1941).
 19. JNSV 18, no. 546a (Landgericht Kassel, judgment 3a Ks 1161):786-87,
 835.
 30. The only document I have found on Order Police participation in the
@@ -10485,8 +10063,7 @@ of which there were many. A comprehensive list of the deportation
 
 from the Reich has not yet been compiled.
 
-, YVA, TR-I0/835 (Staatsanwaltschaft Diisseldorf, 8 Js 430167, indict­
-of Ganzenmiiller): 177-78. For the takeover of transports from
+, YVA, TR-I0/835 (Staatsanwaltschaft Diisseldorf, 8 Js 430167, indictof Ganzenmiiller): 177-78. For the takeover of transports from
 to Treblinka by the Order Police in Vienna, see YV A, 0-511631109
 by Butenop, KdSchupo, March 26, 1943). This 6le contains the
 Tespollideillce of the Order Police in Vienna concerning the guarding of
@@ -10590,8 +10167,7 @@ Government. That many were apparently Polish collaborators with
 
 the dates and numbers of Jews killed in the Lublin district, I have
 upon Yitzhak Arad, BeiZec, Sobib6r, Treblinka: The Operation
-lclrd Death Camps (Bloomington, Ind. , 1987), 383-87, 390-91; Tati­
-liil
+lclrd Death Camps (Bloomington, Ind. , 1987), 383-87, 390-91; Tatiliil
 ::Bl'1llstin-Berensb�in, "Martyrologla, Op6r I Zagl'ada Ludn6sci Zydowsk-
 Distrykcie Lubelskim," BZIH 21 (1957): 56-83; and various Gennan
 cases.
@@ -10645,8 +10221,7 @@ made his offer to the older reservists. When asked to explain why he himself
 did not step out, he indicated that he was a relatively young volunteer, an
 "active" policeman-i.e. , not a conscripted reservist (HW 2041-42, 4592).
 The greater precision and vivid detail of the S. and W. testimony and the
-subsequent behavior of the officers and noncoms of the battalion in accor­
-dance with Trapp's offer (i. e., those who belatedly asked out were released
+subsequent behavior of the officers and noncoms of the battalion in accordance with Trapp's offer (i. e., those who belatedly asked out were released
 from firing squad duty-something the officers and noncoms could never
 have done so conSistently without the prior sanction of the commanding
 officer) have persuaded me that a much greater probability rests with their
@@ -10768,8 +10343,7 @@ Julius Wohlauf, HW 758.
 Alfred B., HW 441.
 August W., HW 2042.
 Otto-Julius S., HW 1955.
-Witness after witness used the terms erschiitterl, deprimlerl, verbit­
-niederge8chiagen, bedriickt, ventorl, empOri, and belastet to describe
+Witness after witness used the terms erschiitterl, deprimlerl, verbitniederge8chiagen, bedriickt, ventorl, empOri, and belastet to describe
 men's feelings that evening.
 Friedrich Bm., HW 2093; Hellmut S., G 647.
 
@@ -11011,8 +10585,7 @@ YVA, 0-531121 W 11124-25 (order of Kintrupp, August 27, 1942,
 
 3. Testimony of survivors Jozef B., HW 1 122, and Sara K. , HW 3250.
 According to Brustin-Berenstein, table 2, some 6,000 Jews from the smaller
-villages of Bial'a Podlaska county were deported to Mi� on Septem­
-ber 23-24. She lists the deportations from the town of Bial'a Podlaska itseH
+villages of Bial'a Podlaska county were deported to Mi� on September 23-24. She lists the deportations from the town of Bial'a Podlaska itseH
 (4,800 Jews) on September 26 and October 6 as going directly to Treblinka,
 but survivor testimony indicates that at least the September deportation
 from Bial'a went first to Mi�dzyrzec.
@@ -11028,8 +10601,7 @@ Josef Burger}: 10, 16 (hereafter Burger judgment).
 RadzyD county, see ZStL, 8 AR-Z 236160 (investigation of KdS Aussenstelle
 RadzyD), 1:28 (Braumuller), 113 (Burger), 120 (Kaser); 2:176-79 (Reimer),
 �10 (Brimer), 408 (Behrens), 420 (Kambach); 4:550 (Schmeer), 715
-(Avriham); and Sonderband (testimony of Rumminger, Schoeja, and Wald­
-ner), no pagination.
+(Avriham); and Sonderband (testimony of Rumminger, Schoeja, and Waldner), no pagination.
 10. Brustin-Berenstein, table 10.
 11. Helmuth H., HW 317-20, 991; Heinz B., HW 823; Heinrich E., HW
 2176; Richard G., G 389.
@@ -11216,8 +10788,7 @@ politically unreliable and quarrelsome.
 39. Friedrich P., G 248.
 40. YV A, 0-53/121 II w (May 1943); 0-531122 X I (June 1943); 0-531122 X II
 (July and August 1943); 0-531123 Y I (September and October 1943).
-41. YVA, 0-53I1151Z-170, 673-725. See also YVA, TR-I01970 (Staatsan­
-waltschaft Hamburg, 147 Js 8/75, indictment of Arpad Wigand):103-7.
+41. YVA, 0-53I1151Z-170, 673-725. See also YVA, TR-I01970 (Staatsanwaltschaft Hamburg, 147 Js 8/75, indictment of Arpad Wigand):103-7.
 42. ZStL, Ord. 410, 994-96, 498, 500-501 (weekly reports of Fifth
 Company Reserve Police Battalion 133, Police Regiment 24, November
 7-December 12, 1942).
@@ -11246,8 +10817,7 @@ Notes 1 24 7
 , 11 13-14; and KdS Radzyn case, Moshe Feigenbaum, 1:4-5; Liowa Fried­
 ' mann, 1: 10; volume of miscellaneous testimony, Feigenbaum, 6: Rywka G.,
 Moshe Brezniak, 18; Mortka Lazar, 28. For the participation of
-Trawniki personnel, see ZStL, II 208 AR 643f71 (Staatsanwaltschaft Ham­
-burg, 147 Js 43/69, indictment of Karl Streibel; hereafter Trawniki indict­
+Trawniki personnel, see ZStL, II 208 AR 643f71 (Staatsanwaltschaft Hamburg, 147 Js 43/69, indictment of Karl Streibel; hereafter Trawniki indict­
 
 , ment):I04.
 
@@ -11275,8 +10845,7 @@ HW 1955; Friedrich Bm. , HW 2105; Heinrich E . , H W 2161; Joseph P.,
 Spuren: Ghetto Warschau-SS-Arbeitslager Trawniki--Aktion Emtefest
 " (Berlin, 1988), 262-72, 32&-34; Jozef Marszalek, Majdanek: The Concen­
 , 'ration Camp in Lublin (Warsaw, 1986), 130-34; ZStL, 208 AR-Z 268159
-· (Staatsanwaltschaft Wiesbaden, 8 Js 1145160, indictment of Lothar Holf­
-mann and Hermann Wortholf, KdS Lublin case):316-31, 617-35, 645-51;
+· (Staatsanwaltschaft Wiesbaden, 8 Js 1145160, indictment of Lothar Holfmann and Hermann Wortholf, KdS Lublin case):316-31, 617-35, 645-51;
 ' Trawniki indictment, 159-97; YVA, TR-I011172 (Landgericht Dusseldorf,
 , judgment against Hachmann et aI. ; hereafter Majdanek judgment):456-87.
 
@@ -11391,8 +10960,7 @@ August Z., HW 3365, 3367 .
 2. The Polish name for the town is Bydgosz(iz. Ethnic Germans living
 there were killed in the lirst days of the war, and in the follOwing month the
 : occullyirlg Germans carried out particularly intensive executions and
-, expulsions. See Krausnick and Wilhelm, 55--65; Tadeuz Esman and Wlo­
-djimierz Jastrzebski, Pienvsje MiesiDc Olwpacji Hitlerowkiej w BydgoazCz
+, expulsions. See Krausnick and Wilhelm, 55--65; Tadeuz Esman and Wlodjimierz Jastrzebski, Pienvsje MiesiDc Olwpacji Hitlerowkiej w BydgoazCz
 (Bydgosz(iz, 1967).
 3. As for overt encouragement, after machine-gunning Japanese soldiers
 
@@ -11409,8 +10977,7 @@ elaborated on the implications of Hilberg's work in this regard. In
 Eichmann in Jerwalem: A Report on the Banality" of Evil (New York, 19(5),
 Hannah Arendt presented Eichmann as the "banal bureaucrat, " a small cog
 in the bureaucratic machine. While Eichmann is not in fact the best
-example of the "banal bureaucrat," the concept is still valid for understand­
-ing many Holocaust perpetrators. Hilberg and others have certainly
+example of the "banal bureaucrat," the concept is still valid for understanding many Holocaust perpetrators. Hilberg and others have certainly
 documented the extent to which ordinary bureaucrats, performing functions
 vital to the mass murder program in exactly the same routine way they
 performed the rest of their professional duties, made the Holocaust
@@ -11509,13 +11076,11 @@ Order Police in wartime, June 2, 1940).
 
 39. YVA, 0-53/121 W I (KdO, Police Regiment 25, December 17, 1942,
 ChristmasINewYear's greetings and recognitions, signed Peter).
-40. BA, RD 18/15-1, Gruppe A and 2, Gruppe B: Politscher lnformations­
-dienst, Mitteilungsbliitter for die weltanschauliche Schulung der Orpo.
+40. BA, RD 18/15-1, Gruppe A and 2, Gruppe B: Politscher lnformationsdienst, Mitteilungsbliitter for die weltanschauliche Schulung der Orpo.
 41. BA, R D 18115-1, Gruppe A, Foige 16, June 10, 1941.
 42. BA, RD 18115-1, Gruppe A, Foige 27, December 1, 1941.
 43, BA, RD 18115-2, Gruppe B, Foige 22, September 20, 1942.
-44. BA, RD 18142, Schriftenreihe for die weltanschauliche Schulung der Ord­
-nungspolizei, 1941, Heft 5, "Die Blutsgemeinschaft der germanischen Volker"
+44. BA, RD 18142, Schriftenreihe for die weltanschauliche Schulung der Ordnungspolizei, 1941, Heft 5, "Die Blutsgemeinschaft der germanischen Volker"
 and "Das grossgermanische Reich."
 45. BA, RD 18116, 1942, Heft 4, "Deutschland ordnet Europa neu!"; RD
 18119, 1942, Sonderheft, "55-Mann und B1utsfrage."
@@ -11536,8 +11101,7 @@ than thirty footnotes diSCUSSing my work; Daniel Jonah Goldhagen, "A Reply
 to My Critics: Motives, Causes, and Alibis," New Republic (Dec. 23, 1996),
 37-45; "Letter to the Editor," New Republic (Feb. 10, 1997), 4-5.
 
-Daniel Jonah Goldhagen began his research in the records of the Staatsan­
-waltschaft in Hamburg several months after I finished my work there in May
+Daniel Jonah Goldhagen began his research in the records of the Staatsanwaltschaft in Hamburg several months after I finished my work there in May
 1989. He became aware of my work on the topic of Reserve Police Battalion
 101 in the fall of 1989 at the latest.
 
@@ -11556,8 +11120,7 @@ Notes / 253
 Holocaust (Merion Station, Pa., 1997). More are apparently on the way. The
 two most detailed and sustained critiques of Hitler's Willing Executioners are:
 Ruth Bettina Birn, "Revising the Holocaust," Historical Journal 40/no. 1
-(1997), 195-2 15; and Norman Finkelstein, "Daniel Goldhagen's 'Crazy' The­
-sis: A Critique of Hitler's Willing Executioners," New Left Review 224 (1997):
+(1997), 195-2 15; and Norman Finkelstein, "Daniel Goldhagen's 'Crazy' Thesis: A Critique of Hitler's Willing Executioners," New Left Review 224 (1997):
 '. 39-87. Another very detailed assessment is: Dieter Pohl. "Die Holocaust­
 Forschung und Goldhagen's Thesen," Vierteljahrshef Fur Zeitgeschichte 45/1
 
@@ -11582,11 +11145,9 @@ B. Goldhagen, Willing Executioners, 39, 43.
 12. Hans-Ulrich Wehler, The German Empire (Leamington Spa, 1985). James
 Retallack, "Social History with a Vengeance? Some Reactions to H-U Wehler's
 'Das Kaiserreich,' " German Studies Review, 7/no. 3 (1984), 423-50. Roger
-Fletcher, "Recent Developments in West German HistOriography: The Biele­
-feld School and Its Critics," German Studies Review 7/no. 3 (1984), 451-80.
+Fletcher, "Recent Developments in West German HistOriography: The Bielefeld School and Its Critics," German Studies Review 7/no. 3 (1984), 451-80.
 13. George Mosse, The Crisis of German Ideology (New York, 1964); Fritz
-Stem, The Politics of Cultural Despair ( Berkeley, 1961); Jeffrey Herf, Reac­
-tionary Modernism: Technology, Culture and Politics in Weimar and the
+Stem, The Politics of Cultural Despair ( Berkeley, 1961); Jeffrey Herf, Reactionary Modernism: Technology, Culture and Politics in Weimar and the
 Third Reich (Cambridge, 1984), and "Reactionary Modernism Reconsidered:
 Modernity, the West and the Nazis," forthcoming.
 14. John Weiss, Ideology of Death: Why the Holocaust Happened in Germany
@@ -11611,8 +11172,7 @@ lB. Saul Friedlander, Nazi Germany and the Jews (New York, 1997), 73-112.
 21. William Sheridan Allen, The Nazi Seizure of Power (Revised Edition: New
 York, 1984), 84.
 22. Goldhagen, "Reply to My Critics," 4l.
-23. Ulrich Herbert, Best: Biographische Studien iiber Radikalismus, Weltan­
-schauung und Vemunft 1 903-1989 (Bonn, 1996).
+23. Ulrich Herbert, Best: Biographische Studien iiber Radikalismus, Weltanschauung und Vemunft 1 903-1989 (Bonn, 1996).
 24. Ian Kershaw, "The Persecution of the Jews and German Public Opinion in
 the Third Reich," Leo Baeck Institute Yearbook 26 (1981), 261-89; Popular
 Opinion and Political Dissent in the Third Reich: Bavaria 1933-1945 (Oxford,
@@ -11624,12 +11184,10 @@ Nazi Germany and the 'Jewish Question,'" Jerusalem Quarterly 25 (1982),
 121-44 and 26 (Winter 1982), 34-45; and Otto Dov Kulka and Aaron
 Rodrjgue, "The German Population and the Jews in the Third Reich: Recent
 
-Publications and Trends in Research on German Society and the 'Jewish Ques­
-tion,'" Yad Vashem Studies 16 (1984), 421-35. David Bankier, "The Germans
+Publications and Trends in Research on German Society and the 'Jewish Question,'" Yad Vashem Studies 16 (1984), 421-35. David Bankier, "The Germans
 and the Holocaust: What Did They Know," Yad Vashem Studies 20 ( 1990),
 69-98; and The Germans and the Final Solution: Public Opinion Under
-Nazism (Oxford, 1992). See also: Marlis Steinert, Hitler's War and the Ger­
-mans (Athens, Ohio, 1977); Walter Laqueur, "The German People and the
+Nazism (Oxford, 1992). See also: Marlis Steinert, Hitler's War and the Germans (Athens, Ohio, 1977); Walter Laqueur, "The German People and the
 Destruction of the European Jews," Central European History 6, no.2 ( 1973),
 167-9 1; Sarah Gordon, Hitler, Germans, and the 'Jewish Questiofl" (Princeton,
 1984); Robert Gellately, The Gestapo and German Society: Enforcing Racial
@@ -11656,10 +11214,8 @@ Feb. 6, 1997, 40.
 38. As many critics have noted, one comparison Goldhagen does not make is
 between German and non-German anti-Semitism. This does not deter him
 from asserting, "No other country's antisemitism was at once so widespread as
-to have been a cultural axiom . . . . German antisemitism was sui generis." Will­
-ing Executioners, 419.
-39. Goldhagen, Willing Executioners, 348-351. In most of the narrative, Gold­
-hagen speaks of the guards as a monolithic group without distinction, often
+to have been a cultural axiom . . . . German antisemitism was sui generis." Willing Executioners, 419.
+39. Goldhagen, Willing Executioners, 348-351. In most of the narrative, Goldhagen speaks of the guards as a monolithic group without distinction, often
 referred to simply as "the Germans." Yet he himself provides telling details
 
 that point to important situational, institutional, and generational distinctions.
@@ -11668,8 +11224,7 @@ In contrast to the eight to ten young ethnic German men, the eighteen to
 
 twenty older male guards (according to one survivor) "were for the most part
 
-good-natured and did not beat or otherwise torment us." Recruitment of eth­
-nic Germans outside the Reich was, of course, in the hands of the SS. The
+good-natured and did not beat or otherwise torment us." Recruitment of ethnic Germans outside the Reich was, of course, in the hands of the SS. The
 
 young women guards-uniformly cruel (though six deserted quickly)-had all
 sought out their profession as guards. (Willing Executioners, 335, 360).
@@ -11690,8 +11245,7 @@ Final Solution (Chapel Hill, 1995), 1 10, writes: "The staff at Hadamar
 
 arranged for a celebration when the number of patients killed there reached
 
-10,000. On the orders of the physicians, the entire staff assembled at the base­
-ment crematorium to participate in the burning of the ten thousandth victim.
+10,000. On the orders of the physicians, the entire staff assembled at the basement crematorium to participate in the burning of the ten thousandth victim.
 
 A naked corpse lay on a stretcher, covered with flowers. The supervisor
 
@@ -11708,8 +11262,7 @@ Beguilings of Evil (Albany, 1993), 29-31, 83-98.
 
 49. Goldhagen, Willing Executioners, 408.
 SO. Goldhagen, Willing Executioners, 409.
-51. Subsequently published as: Browning, "Daniel Goldhagen's Willing Exe­
-cutioners ," esp. 94-96.
+51. Subsequently published as: Browning, "Daniel Goldhagen's Willing Executioners ," esp. 94-96.
 52. Goldhagen, Willing Executioners, 463.
 53. Goldhagen, Willing Executioners, 467.
 54. Goldhagen, Willing Executioners, 464.
@@ -11776,8 +11329,7 @@ Conceptions of EvildOing," Holocaust and Genocide Studies lO, no.1 (Spring
 8 1 . Goldhagen, Willing Executioners, 13.
 82. Goldhagen, Willing Executioners, 383.
 83. Goldhagen's most recent technique of alleged refutation ("Letter to the
-Editor, " 5) is quite original and unusual. He invents or fantasizes a hypotheti­
-cal or counterfactual verbatim testimony concerning peer pressure, and
+Editor, " 5) is quite original and unusual. He invents or fantasizes a hypothetical or counterfactual verbatim testimony concerning peer pressure, and
 announces that the absence of just this particular verbatim testimony proves
 the absence of peer pressure as a factor entirely.
 84. Goldhagen, "A Reply to My Critics," 38-40. In his book, Goldhagen made
@@ -11786,13 +11338,10 @@ the same claim: "The conventional explanations .
 perpetrators, namely that they were moral agents, moral beings capable of
 making moral choices ." Willing Executioners, 389-92.
 85. Stanley Milgrim tested rather than assumed that "deference to authOrity"
-was a cross-cultural phenomenon, and he explicitly acknowledged that preju­
-dice toward and indoctrination against the victim would undoubtedly intensify
+was a cross-cultural phenomenon, and he explicitly acknowledged that prejudice toward and indoctrination against the victim would undoubtedly intensify
 a subject's willingness to inflict pain upon the victim. Zimbardo intentionally
 screened out prejudiced subjects precisely because their participation would
-obviously skew the results. Kelman and Hamilton affinn that cultural factors­
-such as a negative attitude toward the victims-will facilitate peoples' compli­
-ance to legitimate authority's policies of sanctioned mass murder.
+obviously skew the results. Kelman and Hamilton affinn that cultural factorssuch as a negative attitude toward the victims-will facilitate peoples' compliance to legitimate authority's policies of sanctioned mass murder.
 86. Goldhagen, Willing Executioners, p. 389.
 87. Goldhagen, Willing Executioners, 27, 269.
 88. Goldhagen, Willing Executioners, 34.
@@ -11841,8 +11390,7 @@ Authoritarian personality,
 
 166-67
 
-Auxiliary police and "volun­
-teers," 77, 158
+Auxiliary police and "volunteers," 77, 158
 
 Caucasian, 1 19
 
@@ -11934,10 +11482,8 @@ Central Agency for Jewish
 Emigration, 26, 28
 
 Central Agency for the State
-Administrations of Jus­
-tice (Zentrale Stelle
-der Landesjustizver­
-waltungen), xvi, 144
+Administrations of Justice (Zentrale Stelle
+der Landesjustizverwaltungen), xvi, 144
 
 Chehn, 28, 53
 
@@ -12004,8 +11550,7 @@ I N DEX / 26 1
 
 Ernte/est (fall harvest), 135-
 38, 141, 163
-Ethnic Germans (Volksdeut­
-sche), 5, 39, 41, 51-
+Ethnic Germans (Volksdeutsche), 5, 39, 41, 51-
 52, 97, 106, 109
 
 Euthanasia, SO, 163
@@ -12108,8 +11653,7 @@ Deportation of Jews
 Ghettos, xv-xvii, 27, 50-51,
 90, 133-34, 136; see
 also L6dZ, ghetto of;
-Lublin, ghetto of; War­
-saw, ghetto of
+Lublin, ghetto of; Warsaw, ghetto of
 
 178, 188
 Goebbels, Joseph, 178
@@ -12203,8 +11747,7 @@ Horodenka, 32-33
 Hrubiesz6w, county of, lOS
 HSSPF. See Higher SS
 
-(Schutzstaffel) and Po­
-lice Leader
+(Schutzstaffel) and Police Leader
 
 Hungary, 27
 
@@ -12305,8 +11848,7 @@ Komar6wka, 91, lOS, lOB,
 
 154, 157
 
-Kommandeur der Ordnungs­
-polizei. See KdO
+Kommandeur der Ordnungspolizei. See KdO
 
 Kommissarbefehl, 11, 13,
 
@@ -12447,8 +11989,7 @@ Union, 46, 151
 266 1 I N D E X
 
 National Socialism (Nazism):
-doctrine, ideology, and val­
-ues of, 48, 74-76, 94,
+doctrine, ideology, and values of, 48, 74-76, 94,
 150-52, 166, 176, 178,
 ISO, 182, 186-87
 
@@ -12686,8 +12227,7 @@ ghetto, 41
 
 interrogations and testi­
 
-monies of men of, xvii­
-xviii, xx, 67-68, 72,
+monies of men of, xviixviii, xx, 67-68, 72,
 144-47, 152, 174
 
 and the "Jew hunt," 123-
@@ -12695,14 +12235,12 @@ and the "Jew hunt," 123-
 32, 142, 163, 168,
 
 at J6zef6w, 55-77
-non-commissioned offic­
-ers of, 40, 47, 62, 80-
+non-commissioned officers of, 40, 47, 62, 80-
 84, 102, 119, 128-29,
 
 135, 144, 161, 168, 170
 
-party and SS member­
-ship in, xvii, 45-48,
+party and SS membership in, xvii, 45-48,
 144, 151 , 164
 
 postwar police careers of
@@ -12784,8 +12322,7 @@ Schutzstafl"el. See SS
 SD. See Security Service
 Secret State Police. See Gestapo
 
-Security Police (Sicherheits­
-polizei or Sipo), 4, 7,
+Security Police (Sicherheitspolizei or Sipo), 4, 7,
 9-10, 24, 26-27, 31-
 
 IN DEX / 2 69
@@ -12822,8 +12359,7 @@ SS (Schutzstaffel), xvii, 4,
 
 34, 36, 40, 42, 51, 137
 
-Radzyn branch office (Aus­
-senstelle), 90-91, 93-
+Radzyn branch office (Aussenstelle), 90-91, 93-
 95, 106, 107-109, 1 1 1-
 
 13, 134, 188
@@ -12950,8 +12486,7 @@ Wysokie, 54
 
 I N D EX / 2 7 1
 
-the State Administra­
-tions of Justice
+the State Administrations of Justice
 
 Zimbardo, Philip, 167-68
 Zimmermann, * Walter, 128
@@ -12962,8 +12497,7 @@ Zorn, * August, 66
 Zakrz6w, 54--5
 Zamo�c, 52-54, 135
 Zaplatov, 32
-Zentrale Stelle der Landes­
-justizverwaltungen.
+Zentrale Stelle der Landesjustizverwaltungen.
 See Central Agency for
 
 ,

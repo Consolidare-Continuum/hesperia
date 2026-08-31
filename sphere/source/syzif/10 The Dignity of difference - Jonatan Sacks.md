@@ -12,8 +12,7 @@ LONDON • NEW YORK
 The Dignity of Difference
 
 The philosopher and theologian Jonathan Sacks has been Chief
-Rabbi of the United Hebrew Congregations of the Common­
-wealth since September 1991. He is also well known outside the
+Rabbi of the United Hebrew Congregations of the Commonwealth since September 1991. He is also well known outside the
 Jewish community as a writer and broadcaster. He delivered the
 1990 Reith lectures on the BBC and is currently visiting Professor
 at the Hebrew University, Jerusalem. He is an Honorary Fellow
@@ -101,8 +100,7 @@ for tolerance in an age of extremism. I see in the rising crescendo of
 ethnic tensions, civilizational clashes and the use of religious
 justification for acts of terror, a clear and present danger to
 humanity. For too long, the pages of history have been stained by
-blood shed in the name of God. Allied to weapons of mass destruc­
-tion, extremist religious attitudes threaten the very security of life on
+blood shed in the name of God. Allied to weapons of mass destruction, extremist religious attitudes threaten the very security of life on
 earth. In our interconnected world, we must learn to feel enlarged,
 not threatened, by difference. That is what I have argued here.
 
@@ -233,8 +231,7 @@ confined to conventionally religious themes. Too often in today's
 world, groups speak to themselves, not to one another: Jews to
 Jews, Christians to fellow Christians, Muslims to Muslims,
 business leaders, economists and global protesters to their
-respective constituencies. The proliferation of channels of com­
-munication - e-mail, chat-groups, the Internet, online journals,
+respective constituencies. The proliferation of channels of communication - e-mail, chat-groups, the Internet, online journals,
 and the thousands of cable and satellite television channels -
 mean that we no longer broadcast. We narrowcast. Gone are the
 days where people of different views were forced to share an arena
@@ -264,8 +261,7 @@ want', 'I choose', 'I feel'. Obligations can be debated. Wants,
 choices and feelings can only be satisfied or frustrated. Television,
 with its emphasis on the visual, creates a culture of sight rather
 than sound - the image that speaks louder than the word. Images
-evoke emotion. They do not, of themselves, generate under­
-standing. The result is that the most visual protest, the angriest
+evoke emotion. They do not, of themselves, generate understanding. The result is that the most visual protest, the angriest
 voice and the most extreme slogan win. If confrontation is news
 and conciliation not, we will have a culture of confrontation. That
 is destructive of the things on which our future will depend - our
@@ -330,8 +326,7 @@ integrity of, those who are not of our faith. Can we make space for
 difference? Can we hear the voice of God in a language, a
 sensibility, a culture not our own? Can we see the presence of God
 in the face o f a stranger? Religion is no longer marginal to
-international politics. After a long period of eclipse, it has re­
-emerged with immense and sometimes destructive force. That is
+international politics. After a long period of eclipse, it has reemerged with immense and sometimes destructive force. That is
 what lay behind an unusual assembly - and my first encounter
 with globalization - as the new millennium began.
 
@@ -377,8 +372,7 @@ larger universe of many faiths and multiple languages. Given their
 profound differences, the degree of convergence was surprising.
 There were awkward moments, not least because there were so
 many voices needing to be heard. Yet there was a significant
-measure of consensus on the need for mutual respect and non­
-violent methods of conflict resolution, on shared responsibility for
+measure of consensus on the need for mutual respect and nonviolent methods of conflict resolution, on shared responsibility for
 the future of the planet, our obligations to the poor and duties to
 protect the environment. At the end of four days of deliberations,
 mostly goodnatured and generous in tone, they signed a joint
@@ -427,8 +421,7 @@ and inextricable ways. On the other, a new tribalism - a
 regression to older and more fractious loyalties - is driving us ever
 more angrily apart. One way or another, religion is and will
 continue to be, part of these processes. It can lead us in the
-direction of peace. But it can equally, and with high combust­
-ibility, lead us to war. Politicians have power, but religions have
+direction of peace. But it can equally, and with high combustibility, lead us to war. Politicians have power, but religions have
 something stronger: they have influence. Politics moves the pieces
 on the chessboard. Religion changes lives. Peace can be agreed
 around the conference table; but unless it grows in ordinary hearts
@@ -476,8 +469,7 @@ groups driven by interests or raisons d'etat. They, and those they
 enlist, are not bound by rational considerations. They are often
 driven by violent religious hatred. They are willing to commit,
 even righteously embrace, suicide as a means of entry into
-paradise. They make no distinctions between combatant and non­
-combatant, innocent or guilty, young or old, involved or
+paradise. They make no distinctions between combatant and noncombatant, innocent or guilty, young or old, involved or
 disengaged. Within the foreseeable future they may have access
 to weapons of mass destruction. They have understood that the
 
@@ -592,8 +584,7 @@ are not; they care - but because they have adopted mechanisms
 that marginalize moral considerations. Western politics have
 become more procedural and managerial. Not completely: Britain
 still has a National Health Service, and most Western countries
-have some form of welfare provision. But increasingly, govern­
-ments are reluctant to enact a vision of the common good because
+have some form of welfare provision. But increasingly, governments are reluctant to enact a vision of the common good because
 - so libertarian thinkers argue - there is little substance we can
 give to the idea of the good we share. We differ too greatly. The
 best that can be done is to deliver the maximum possible freedom
@@ -632,8 +623,7 @@ that we are not alone, nor are we bereft of guidance from the past.
 The sheer tenacity of the great faiths - so much longer- lived than
 political systems and ideologies - suggests that they speak to
 something enduring in human character. Above all, it was
-religion that first taught human beings to look beyond the city­
-state, the tribe and the nation to humanity as a whole.6 The world
+religion that first taught human beings to look beyond the citystate, the tribe and the nation to humanity as a whole.6 The world
 faiths are global phenomena whose reach is broader and in some
 respects deeper than the nation-state.
 
@@ -697,9 +687,7 @@ The first is the way global phenomena undermine our sense of
 moral responsibility. In the past it was relatively easy to identify
 who was doing what to whom. It is no longer. The global market
 moves in response to billions of transactions. Electronic media
-offer an almost open-ended multiplicity of channels of commu­
-nication. Nation-states have ever less power to shape develop­
-ments in the economy, the political arena and the environment,
+offer an almost open-ended multiplicity of channels of communication. Nation-states have ever less power to shape developments in the economy, the political arena and the environment,
 all of which spill over national borders. Corporations have
 become increasingly shadowy entities, outsourcing many of their
 operations and able to move funds and functions at a moment's
@@ -718,8 +706,7 @@ independence, dignity and creativity. Most importantly, the
 market embodies an idea that is central to the argument of the
 book as a whole, namely that difference is the source of value, and
 indeed of society itself. It is precisely because we are not the same
-as individuals, nations or civilizations that our exchanges are non­
-zero-sum encounters. Because each of us has something someone
+as individuals, nations or civilizations that our exchanges are nonzero-sum encounters. Because each of us has something someone
 
 else lacks, and we each lack something someone else has, we gain
 by interaction. That is what makes trade the most compelling
@@ -743,8 +730,7 @@ One of the drivers of globalization is the revolution in
 information technology. Does this have an ethical dimension? In
 Chapter 7 I tell the story of the three previous revolutions - the
 birth of writing, the alphabet and printing - to show how each
-created new social and political possibilities. A religious perspec­
-tive is particularly helpful here because, in ways that are not well
+created new social and political possibilities. A religious perspective is particularly helpful here because, in ways that are not well
 known, each revolution gave rise to new for111s of civilization:
 writing to 'cosmological' societies, the alphabet to monotheism,
 and printing to the Reformation. What the effects of the fourth
@@ -876,8 +862,7 @@ we pla.ce on. it and the direction. in whic:h we s,eek to go. That
 requires serious, enga1ged con·vc·rsatio:n betwe,en us - all of us, for
 we are all affected by these ·developments. - and the politicians,
 ·eco.no1nists. and business lea,ders whose d.ecisions affect the glo'
-economy. Single-issu1e ca·mpaign.s ,and. global protests a.re im­
-porta:nt but not enoug·h, because the unfolding w·orl,d or·d 1er is not
+economy. Single-issu1e ca·mpaign.s ,and. global protests a.re importa:nt but not enoug·h, because the unfolding w·orl,d or·d 1er is not
 
 a single issue, and because protest is only a prelude to, not a
 substitute for, nuanced argument and the building of consensus
@@ -886,8 +871,7 @@ between conflicting interests.
 My own view, and it has shaped my presentation here, is that
 under conditions of maximal uncertainty, we are best guided by
 relatively simple moral principles - I call them control,
-contribution, creativity, co-operation, compassion and conserva­
-tion, and suggest that these six Cs are the prelude to a seventh - a
+contribution, creativity, co-operation, compassion and conservation, and suggest that these six Cs are the prelude to a seventh - a
 new global covenant of human solidarity. These are not meant as
 decision procedures but as compass bearings, allowing us to judge
 whether w e are moving in the right direction or not. What is
@@ -1246,8 +1230,7 @@ the nations. 10 According to Jewish teaching, therefore, a person
 does not have to become a Jew to serve God.
 
 This ancient tradition has acquired new salience in a world
-threatened by civilizational clashes. It suggests that the proposi­
-tion at the heart of monotheism is not what it has often been taken
+threatened by civilizational clashes. It suggests that the proposition at the heart of monotheism is not what it has often been taken
 to be: one God, therefore one path to salvation. To the contrary, it
 is that unity is worshipped in diversity. The glory of the created world
 is its astonishing multiplicity: the thousands of different languages
@@ -1410,8 +1393,7 @@ humanity is i n the midst of a new golden age.
 The time: 2020. The world has just been rocked by the latest
 terrorist attack on New York. A so-called 'dirty bomb' has spread
 nuclear waste over a wide area centred on Manhattan. As many
-as 20 million people may be affected. Meanwhile, in a co­
-ordinated attack on the subway systems of London, Paris, Munich
+as 20 million people may be affected. Meanwhile, in a coordinated attack on the subway systems of London, Paris, Munich
 and Rome, canisters containing deadly chemicals have been
 released in crowded stations. The toll of casualties is expected to
 be in the thousands. Air travel is at a standstill, following a series
@@ -1437,19 +1419,16 @@ what is at stake in the years ahead. Uncertainty is constitutive of
 the human situation: whatever else we know, we can never know
 what tomorrow will bring. Yet there are degrees of uncertainty,
 and the sheer pace of change in the twenty-first century in almost
-every aspect of life - economic, political, cultural and techno­
-logical - is sweeping away many of the continuities that allowed
+every aspect of life - economic, political, cultural and technological - is sweeping away many of the continuities that allowed
 previous generations to look forward to the future with
 confidence.
 
 Already in the early twentieth century Alfred North White-
 
 head noted a qualitative change in our experience of time. In the
-past, he said, 'the time-span of important change was consider­
-ably longer than that of a single human life'. Most people
+past, he said, 'the time-span of important change was considerably longer than that of a single human life'. Most people
 inhabited a world whose contours were recognizably the same
-when they were old as when they were young. 'Today the time­
-span is considerably shorter than that of a human life', and it has
+when they were old as when they were young. 'Today the timespan is considerably shorter than that of a human life', and it has
 continued to accelerate. 1 To give just one example: I have on my
 shelves a book of futurology, published in 1990, entitled
 Megatrends 2000. One word is conspicuous by its absence: the
@@ -1461,8 +1440,7 @@ life itself, and there are few things harder to bear than constant
 flux and uncertainty.
 
 Globalization - the interconnectedness of the world through
-new systems of communication - is one of the great transforma­
-tions in history, comparable to the shift from the hunter-gatherer
+new systems of communication - is one of the great transformations in history, comparable to the shift from the hunter-gatherer
 age to the era of agriculture, or from feudalism to industrialism.
 Like every other major transition, it gi,,es rise to deep anxieties,
 evident in our time in the protests of environmentalists, human
@@ -1497,8 +1475,7 @@ were; any mans death diminishes me; because I am involved
 in Mankinde; And therefore never send to know for whom
 the bell tolls; It tolls for thee.4
 
-International commerce,5 practised extensively by the Phoeni­
-cians, goes back almost to the dawn of civilization. The great
+International commerce,5 practised extensively by the Phoenicians, goes back almost to the dawn of civilization. The great
 maritime adv en tu res, beginning in the fifteen th century, of Zheng
 He, Vasco de Gama, Magellan and Columbus created new trade
 routes and a growth of long-distance exchange. Further
@@ -1617,12 +1594,10 @@ manufacturing industries but also in management and services -
 have become vulnerable. The massive flows of international
 finance that enter a new economy, fuelling speculative investment
 and property booms, can just as rapidly exit, leaving in their wake
-bankruptcies and vast swathes of unemployment. Whole econ­
-omies are destabilized. Indebted nations, turning for help to
+bankruptcies and vast swathes of unemployment. Whole economies are destabilized. Indebted nations, turning for help to
 international financial institutions, can find themselves subject to
 imposed economic disciplines that may have much to do with the
-protection of investors but little to do with the provision of long­
-term infrastructure and sustainable growth for their own
+protection of investors but little to do with the provision of longterm infrastructure and sustainable growth for their own
 populations.
 
 Inequality within and between countries has existed before.
@@ -1633,8 +1608,7 @@ our neighbours, our society and the world. Traditionally, our
 sense of involvement with the fate of others has been in inverse
 proportion to the distance separating us and them. What has
 changed is that television and the Internet have effectively
-abolished distance. They have brought images of suffering in far­
-off lands into our immediate experience. Our sense of compassion
+abolished distance. They have brought images of suffering in faroff lands into our immediate experience. Our sense of compassion
 for the victims of poverty, war and famine, runs ahead of our
 capacity to act. Our moral sense is simultaneously activated and
 frustrated. We feel that something should be done, but what and
@@ -1745,15 +1719,13 @@ What responsibility do we bear for global poverty, ignorance and
 disease when they are the result of policies over which we have no
 control? What if they are the result of cultural factors whose
 integrity we feel called on to respect? What are our duties to those
-suffering from oppression when the oppressors are duly con­
-stituted governments of sovereign states? To what extent are we
+suffering from oppression when the oppressors are duly constituted governments of sovereign states? To what extent are we
 justified in imposing sanctions on evil regimes, when this may
 exacerbate the sufferings of their people without dislodging the
 tyrants who were responsible in the first place? Through chaos
 theory and other insights into ecological systems, we have become
 familiar with the large and unpredictable effects of relatively small
-and local disturbances. But this organic view of the interconnect­
-edness of humanity and nature - the guiding metaphor of the
+and local disturbances. But this organic view of the interconnectedness of humanity and nature - the guiding metaphor of the
 global age - makes it exceptionally difficult to establish the
 parameters of moral decision and action.
 
@@ -1817,8 +1789,7 @@ robbed us of the immediate connection between act and
 consequence, and this too has weakened our moral sense.
 
 An enorrnous gap has opened up between global elites and
-others. The global executive is part of an international commu­
-nity. He or she may spend much of the time travelling the world,
+others. The global executive is part of an international community. He or she may spend much of the time travelling the world,
 yet always staying in the same kind of hotel, eating the same sort
 of food, and dealing with the same sort of people. The vast
 majority of people, however, even in developed countries, find
@@ -1841,8 +1812,7 @@ communities, the bonds that link members of a society to a
 common fate, and the moral discourse by which, until now, we
 were able to maintain a critical distance between 'I want' and 'I
 ought'. By replacing a hierarchy of collective obligations with a
-superrnarket of personalized lifestyle preferences, it has under­
-mined our ability to talk of public goods - the things (from parks
+superrnarket of personalized lifestyle preferences, it has undermined our ability to talk of public goods - the things (from parks
 to public services to loyalties) we do not buy or own but share.
 The most unexpected phenomenon in our time, however, has not
 been the direct effect of globalization but an indirect consequence:
@@ -1907,14 +1877,12 @@ command economy failed where the market economy succeeded.
 It had not yielded prosperity, and that is what people wanted.
 The race, in future, would be to produce video-recorders, not
 missiles. Economic growth demanded a free market, and thus
-eventually a free society. Not immediately perhaps, but ultim­
-ately, liberal democracy would be the inevitable outcome in one
+eventually a free society. Not immediately perhaps, but ultimately, liberal democracy would be the inevitable outcome in one
 country after another. The ideological struggles of the past were
 giving way to a Hegelian 'end of history' which might be boring
 but would a t least be peaceful. 26
 
-Huntington disagreed. Modernization did not mean Western­
-ization. It might well be the case that the politics of the future
+Huntington disagreed. Modernization did not mean Westernization. It might well be the case that the politics of the future
 would no longer be ideological in the twentieth-century sense. But
 there would still be profound differences and antagonisms
 between the West and the rest. He called these 'civilizational'.
@@ -2172,8 +2140,7 @@ expressed in the eighteenth century, that trade would do what
 politics did not: tame passions, domesticate man the fighter into
 man the producer and consumer, and lock nations into a win-win
 network of mutual exchange.32
-The amalgamation of the nation­
-states of Europe, which had spent the previous centuries in
+The amalgamation of the nationstates of Europe, which had spent the previous centuries in
 intermittent war, into the European Union seemed to be one
 augury. The collapse of the Soviet Union was another. What this
 overlooked, then as now, is that homo sapiens is not only, or even
@@ -2223,8 +2190,7 @@ with the city as the art of reconciling difference - mediating
 conflict, adjudicating conflicting claims, providing frameworks of
 peaceful coexistence. This required a certain set of protocols. We
 can still hear resonances of the city in words like urbane ( urhs = a
-city), civil (civis = citizen) and cosmopolitan. Many of the so­
-called liberal virtues - tolerance, compromise, reason - have their
+city), civil (civis = citizen) and cosmopolitan. Many of the socalled liberal virtues - tolerance, compromise, reason - have their
 origins in this setting.
 
 The word religion, by contrast, comes from the Latin religare,
@@ -2264,8 +2230,7 @@ led Aristotle to criticize the republic of Plato. 33 Plato in The Republic
 sought to invest the state with the characteristics of a religion.
 Aristotle replied by saying that without difference there can be no
 politics. Politics is the space we make for what individual religions
-seek to overcome - diversity of views, conflicting interests, multi­
-plicity. And whereas once we needed these things at a local level, we
+seek to overcome - diversity of views, conflicting interests, multiplicity. And whereas once we needed these things at a local level, we
 now need them globally.
 
 Religions were humanity's first global phenomena. Biblical
@@ -2480,8 +2445,7 @@ giants of Greek thought. On the left is Plato, his hair and beard
 white with age, and next to him a younger man, Aristotle, who
 will become his most famous disciple and whose influence will at
 times outshine that of the master himself. Aristotle's left hand is
-turned downward, but Plato's right hand is raised in an upward­
-pointing gesture.
+turned downward, but Plato's right hand is raised in an upwardpointing gesture.
 
 We need no caption to tell us what Plato is saying:
 
@@ -2628,8 +2592,7 @@ conclude that they now have the power of gods. They are no
 longer subject to nature. They have become its masters. They will
 storm the heavens. Their man-made environment - the city with
 its ziggurat or artificial mountain - will replicate the structure of
-the cosmos, but here they will rule, not God. The nineteenth­
-century commentator, Rabbi Naftali Zvi Yehudah Berlin,
+the cosmos, but here they will rule, not God. The nineteenthcentury commentator, Rabbi Naftali Zvi Yehudah Berlin,
 interprets Babel as the first totalitarianism.5 It is a supreme act
 of hubris, committed time and again in history - from the
 Sumerian city-states, to Plato's Republic, to empires, ancient and
@@ -2701,8 +2664,7 @@ G·od and therefor,e one gateway to His presence. To the contr,a.ry ,.
 it is the idea that the uni!} of 1God is· to be found in the diversi.ty of
 cre.a,tion. 'This ap1plies to the natural world .. What is real and the
 pr-oper o,bject ,of O'Uf wond.er is not the Pla'tonic form of a. leaf ·bu't
-the· 250,000 different kinds th.ere actually are; n.ot t'he, ·quintessen­
-that exist toda.y; n,ot t.he
+the· 250,000 different kinds th.ere actually are; n.ot t'he, ·quintessenthat exist toda.y; n,ot t.he
 tial bird b1ut the 9,000 spe·cies
 metalanguag·e that embr·aces all others, b·ut the 6,000 languages
 still s·poke·n throu.gh.out the world. Thanks, to our new-·found
@@ -2789,8 +2751,7 @@ the sa.:me in the tnisleadingly na·med a:rchaeb.a.cteria .living
 at boiling temperatures in sulphurous springs thousands of
 
 feet beneath the surface of the Atlantic ocean or in those
-microscopic capsules of deviousness called viruses. Wher­
-ever you go in the world, whatever animal, plant, bug or
+microscopic capsules of deviousness called viruses. Wherever you go in the world, whatever animal, plant, bug or
 blob you look at, if it is alive, it will use the same dictionary
 and know the same code. All life is one. The genetic code,
 bar a few tiny local aberrations, mostly for unexplained
@@ -2852,8 +2813,7 @@ This means that though God makes absolute demands of the
 Jewish people, other than the Noahide laws these demands are not
 universal. There is a difference, all too often ignored, between
 absoluteness and universality. I have an absolute obligation to my
-child, but it is not a universal one. Indeed it is precisely this non­
-universality, this particularity, that constitutes parenthood - the
+child, but it is not a universal one. Indeed it is precisely this nonuniversality, this particularity, that constitutes parenthood - the
 ability t o feel a bond with this child, not to all children
 indiscriminately. That is what makes love, love: not a generalized
 affection for persons of such-and-such a type, but a particular
@@ -2869,8 +2829,7 @@ identical p roducts. The answer given by the film is that they
 cannot, which is almost certainly true and a reason why we should
 never go down the road of reproductive cloning or anything else
 
-that threatens to reduce persons to types. The essential irreplace­
-ability of persons is what gives love its vulnerability, its openness
+that threatens to reduce persons to types. The essential irreplaceability of persons is what gives love its vulnerability, its openness
 to loss and grief, its fragility and pathos. It is what separates
 science (the search for universals) from poetry (the love of
 particulars). It is also what distinguishes the God of the
@@ -2911,8 +2870,7 @@ world, not its diversity. Even when philosophy focuses on the
 The Dignity of Difference: Exorci;:.ing Plato's Ghost
 
 individual it tends to do so in abstract terms: the 'unsituated self
-divorced from constitutive attachments to family, friends, com­
-munity and history.10 That is what gives philosophical morality its
+divorced from constitutive attachments to family, friends, community and history.10 That is what gives philosophical morality its
 'thin' or context-free character.
 
 Biblical morality, by contrast, is far more complex. It
@@ -2932,8 +2890,7 @@ perpetrating it and who is its victim.
 
 On the other hand, we are also members of a particular family
 with its specific history and memory. We are part of a 'thick' or
-context-bound morality (represented, in Judaism, by the Abra­
-hamic and Mosaic covenants) which confers on us loyalties and
+context-bound morality (represented, in Judaism, by the Abrahamic and Mosaic covenants) which confers on us loyalties and
 obligations to the members of our community that go beyond
 mere justice. We have duties to our parents and children, friends
 and neighbours, and the members of society considered as an
@@ -3061,8 +3018,7 @@ Nowhere is th.e singularity of biblical eth.ics ltlore evide:nt tha·n in
 its treatment of the iss·ue that has proved to ·be t:he 01ost difficu:lt in
 the history of hutnan in.teraction, na·mely the pro1blem of Ith,, stranger,
 the on.e w.ho is not like us. 13 M1ost societies at most titnes ·have been
-suspicious of, and aggressive toward, .stra.nge·rs.ll. T.hat is und1er­
-s'landable,l even natural� Strangers are noln-kin. They come fr1om
+suspicious of, and aggressive toward, .stra.nge·rs.ll. T.hat is und1ers'landable,l even natural� Strangers are noln-kin. They come fr1om
 beyo:nd the tribe. They stand outsid·e the network of recip1rocity
 th.at ere.ates and sustains communities.I That is wha.t inakes the
 Mos.aic books! unu,su.al in the history of' mar.al thought. As the
@@ -3313,8 +3269,7 @@ one that is conscious of its limitations.
 
 The divine word comes from heaven but it is interpreted on
 earth. 19 The divine light is infinite but to be visible to us it must be
-refracted through finite understanding. Truth in heaven trans­
-cends space and time, but human perception is bounded by space
+refracted through finite understanding. Truth in heaven transcends space and time, but human perception is bounded by space
 and time. When two propositions conflict it is not necessarily
 because one is true the other false. It may be, and often is, that
 each represents a different perspective on reality, an alternative
@@ -3435,8 +3390,7 @@ Confidence is a scarce commodity in an age of change. As I write,
 a leading politician has just been murdered in Holland. Crowds
 have been rioting on the streets of Paris, protesting against the
 right-wing presidential candidate Jean-Marie Le Pen. In Austria,
-Switzerland, Northern Italy, Germany, Belgium, the Nether­
-lands, Denmark and Norway there has been a rise in far-right
+Switzerland, Northern Italy, Germany, Belgium, the Netherlands, Denmark and Norway there has been a rise in far-right
 political parties, racist in rhetoric, populist in their appeal.
 Synagogues have been burned and Jews attacked in France,
 Belgium, Holland and Tunisia. A wave of violence - Palestinian
@@ -3455,8 +3409,7 @@ I want, in ·this chapter, to u·nde:rstand the nature of this
 insecurity, bec,ause it is this,. m10,re 'than ,anything, that gives rise to
 political and religious extr,emism and to the kind of authoritarian
 populism that threatens free societies. In part, it has to do with the
-sheer pace of the, technological, cultural and, econotnic transform­
-ation.s through which we are living. But this canno1t be all., T,he
+sheer pace of the, technological, cultural and, econotnic transformation.s through which we are living. But this canno1t be all., T,he
 nineteenth century· was also, a time of im·m,ense .change ..
 Indust:rializatio,n, t.he d,ev1elop1nent of railways and the, gro1wth
 of trad.e b,rought. about wre·nching alterations in. peo·pl1e's lives.
@@ -3758,8 +3711,7 @@ The Tipping Point, is dedicated to showing how changes in social
 trends, from fashion to crime, are best understood on the model of
 epidemiology, the process by which relatively isolated cases of a
 disease suddenly become an epidemic. 5 The more interconnected
-we become, through computer and modem networks, interna­
-tional travel and economic and environmental interdependence,
+we become, through computer and modem networks, international travel and economic and environmental interdependence,
 the more likely it is that small disruptions will have large effects,
 partly by contagion, partly by the sheer mathematics of geometric
 progression, successive multiplications of change. None of this
@@ -3888,8 +3840,7 @@ random. It was part of a total understanding of the universe. The
 structures of society, whether they were hierarchical, organic or
 divinely decreed, were one with the fabric of the cosmos. The
 individual was part of a pattern which had overall coherence and
-design. This gave identity a massive solidity, almost incompre­
-hensible to us today.
+design. This gave identity a massive solidity, almost incomprehensible to us today.
 
 There was much wrong with this worldview, and I for one have
 no desire to return to it. Much of modernity, that vast set of
@@ -3921,8 +3872,7 @@ from a Midlands council estate:
 
 •
 
-At fifteen her hair was one day red, the next blond, then jet­
-black, then teased into Afro kinks and after that rat-tails,
+At fifteen her hair was one day red, the next blond, then jetblack, then teased into Afro kinks and after that rat-tails,
 then plaited, and then cropped so that it glistened close to
 the skull ... Her lips were scarlet, then purple, then black.
 Her face was ghost-white and then peach-coloured, then
@@ -4180,8 +4130,7 @@ The word 'moral' is crucial here. Morality has had a hard time of
 it in the past half-century. It has come to represent everything we
 believe ourselves to have been liberated from: authority,
 repression, the delay of instinctual gratification, all that went
-with the religious, puritanical, Victorian culture of our grand­
-parents. Virtues once thought admirable - modesty, humility,
+with the religious, puritanical, Victorian culture of our grandparents. Virtues once thought admirable - modesty, humility,
 discretion, restraint - are now dusty exhibits in a museum of the
 cultural curiosities. Words like 'duty', 'obligation', 'judgement',
 'wisdom' either carry a negative charge or no meaning at all.
@@ -4235,8 +4184,7 @@ redeems individuals from solitude. Morality is civilization's
 greatest attempt to humanize fate.
 
 The power of this vision is that it locates the source of action
-within ourselves. It restores the dignity of agency and responsi­
-bility. It leads us to see our lives not as the blind play of external
+within ourselves. It restores the dignity of agency and responsibility. It leads us to see our lives not as the blind play of external
 causes - the genome, the free market, economic interests, social
 
 forces and advertising-induced fashions - but as a series of choices
@@ -4638,8 +4586,7 @@ pristine power. We need such a moral template. We can travel at
 speed so long as we know where we are going. It is when we lose a
 sense of vision that we find ourselves, in effect, without a map or a
 destination. That is when people turn to populist leaders capable of
-manipulating public fear, or to regressive identities and funda­
-mentalisms that allow them to cope with fear by blaming some
+manipulating public fear, or to regressive identities and fundamentalisms that allow them to cope with fear by blaming some
 group or other for being the cause of the world's ills. These are
 possibilities I never thought I would have to warn against in my
 lifetime, so great were the catastrophes they brought about in the
@@ -4982,8 +4929,7 @@ born in slavery and longing for redemption. The great assault of
 slavery against human dignity is that it deprives me of the
 ownership of the wealth I create.
 
-Perhaps the most influential single phrase in Western civiliza­
-tion is the verse in the first chapter of Genesis in which God says,
+Perhaps the most influential single phrase in Western civilization is the verse in the first chapter of Genesis in which God says,
 'Let us make man in Our image and likeness' ( 1: 26). What is
 revolutionary in these words is not that a human being can be in
 the image of God. That was an idea familiar to the ancient world.
@@ -5204,8 +5150,7 @@ recurring themes of the Book of Deuteronomy is 'You shall rejoice
 in all the good things the Lord your God has given to you and
 your household. '34
 
-The economic growth produced by globalization and informa­
-tion technology has religious significance first and foremost because
+The economic growth produced by globalization and information technology has religious significance first and foremost because
 of the degree to which, more than any previous economic order, it
 allows us to alleviate poverty. Throughout its history, Judaism
 resisted any attempt to romanticize, rationalize or anaesthetize
@@ -5318,8 +5263,7 @@ conitnodi ties.. Provided.,, therefore, that the free market went hand
 
 9- 9·-,1 '
 
-in hand with strong communities and their attendant responsi­
-bilities, they welcomed its positive features, nowhere more so than
+in hand with strong communities and their attendant responsibilities, they welcomed its positive features, nowhere more so than
 in their own professional sphere of Jewish education. An
 established teacher could not object to a rival setting up in
 competition. The reason they gave for this ruling illustrates their
@@ -5373,8 +5317,7 @@ have.42
 It was this that led, at the dawn of history, to the division of
 labour and the birth of trade. It brought people together in
 mutually beneficial exchange. If I am good at making axe-heads
-and you at catching fish, we both gain if I trade some of my axe­
-heads for some of your fish. David Ricardo's Law of Comparative
+and you at catching fish, we both gain if I trade some of my axeheads for some of your fish. David Ricardo's Law of Comparative
 Advantage showed that this remained true even if you are better
 at making axe-heads than I am - so long as you are better at
 fishing than axe-making, and I am better at axe-making than
@@ -5536,8 +5479,7 @@ should be unknown.
 (Henry George, Moses)
 
 'Think of a stretch limousine driving through an urban ghetto',
-writes Martin Wolf of the Financial Times. 1 'Inside is the post­
-industrial world of western Europe, North America, Australasia,
+writes Martin Wolf of the Financial Times. 1 'Inside is the postindustrial world of western Europe, North America, Australasia,
 Japan and the emerging Pacific Rim. Outside are all the rest.'
 That is what a globalized planet is rapidly becoming: one in
 which wealth is ever more unevenly distributed, in which the rich
@@ -5548,8 +5490,7 @@ macro-economics. In each individual transaction, both sides gain.
 But when the results of billions of transactions are aggregated,
 their effects can be, and often are, massively inequitable. That is
 something globalization has magnified, not diminished. It turns
-the planet into a single market with highly mobile funds and near­
-perfect information and competition. Investment moves from
+the planet into a single market with highly mobile funds and nearperfect information and competition. Investment moves from
 country to country, seeking maximal returns without regard to
 human consequences. Our world is getting less equal by the year.
 That inequality exists both within and between countries. In
@@ -5620,8 +5561,7 @@ cent went to a mere 5 per cent of Americans. Between 1968 and
 1 998 the gap in earnings between the top I per cent and the
 middle increased five-fold. The new economy tends to reward the
 few while leaving those at the bottom with fewer chances of
-reasonably paid employment. As manufacturing is moved to low­
-income countries and agriculture no longer employs more than 2
+reasonably paid employment. As manufacturing is moved to lowincome countries and agriculture no longer employs more than 2
 per cent of the population, significant numbers of young people
 are left without the prospects they might have had a generation
 ago. The new meritocracy is ruthless in separating the winners
@@ -5646,11 +5586,9 @@ particularly among single mothers and their children. Between
 the beginning of the 1980s and the end of the 1 990s, child poverty
 in Britain doubled. A similar pattern has emerged in the United
 States. Typically, financial deprivation goes hand in hand with
-social poverty: depressed neighbourhoods, atrophying commu­
-nities, high crime, drug-dealing, failing schools and overextended
+social poverty: depressed neighbourhoods, atrophying communities, high crime, drug-dealing, failing schools and overextended
 social services. Too many children in today's world, not only in
-the developing countries but also in run-down urban neighbour­
-hoods in some of the richest nations on earth, are growing up
+the developing countries but also in run-down urban neighbourhoods in some of the richest nations on earth, are growing up
 without hope.
 
 *
@@ -5707,8 +5645,7 @@ world economic policies always been to the benefit of the poorest.
 Nobel prize-winning economist Joseph Stiglitz, former chief
 economist of the World Bank, has been highly critical of
 international financial institutions for the way they have imposed
-inappropriate strategies on failing economies. Economic liberal­
-ization can make the strong stronger but the weak weaker. Money
+inappropriate strategies on failing economies. Economic liberalization can make the strong stronger but the weak weaker. Money
 is more mobile than people. Funds that flowed into a developing
 economy can equally rapidly flow out, leaving industries
 devastated and huge numbers of people unemployed. Speculative
@@ -5717,8 +5654,7 @@ Often it is invested in sectors with quick gains, fuelling property
 booms while leaving long-term growth untouched. Stiglitz
 compares some of the economic policies imposed by the
 International Monetary Fund on poor countries to setting small
-boats loose on a rough sea. Even if the boats are sound and well­
-captained, they are likely to be hit broadside by a big wave and
+boats loose on a rough sea. Even if the boats are sound and wellcaptained, they are likely to be hit broadside by a big wave and
 capsize. 7
 
 Nor has help always come from multinational corporations.
@@ -5736,8 +5672,7 @@ their manufacturing base, which is now contracted out. Corporate
 responsibility of first-world companies for third-world economies
 has become diffuse and easily evaded. Multinational firrns have
 become the targets of a growing protest movement, documented
-in Naomi Klein's No Logo, by people rightly concerned at high­
-profit companies factoring out their production to countries where
+in Naomi Klein's No Logo, by people rightly concerned at highprofit companies factoring out their production to countries where
 workers labour for long hours at low pay in insanitary conditions.
 There is a strong case for international regulation to improve
 wage-rates and work conditions. But there is also a convergence of
@@ -5759,14 +5694,12 @@ which would you choose?'8 During the 1990s there were seventeen
 major armed conflicts in Africa alone, as compared to ten
 elsewhere in the world, leaving 20 million people, mainly women
 and children, starving and in need of humanitarian assistance.
-Aid, to be effective, needs good government, but good govern­
-ment cannot be created by aid.
+Aid, to be effective, needs good government, but good government cannot be created by aid.
 
 Inevitably, too, Western governments face a conflict of
 interests. Their first duty is to protect their own economies.
 There is a fear that assisting developing countries may damage
-domestic welfare. Under conditions of total mobility of produc­
-tion, work goes to countries with the lowest wage-rates. Employ-
+domestic welfare. Under conditions of total mobility of production, work goes to countries with the lowest wage-rates. Employ-
 
 1 10
 
@@ -5863,8 +5796,7 @@ conceived as a brotherhood - and at least in larger measure than
 in Canaanite society, as a sisterhood - of social, economic and
 political equals.' 1 1 That involved a commitment, one we can trace
 through biblical legislation and prophetic utterance, to an
-economic order that balanced freedom with equity. To under­
-stand it, we must first understand the idea contained in one of
+economic order that balanced freedom with equity. To understand it, we must first understand the idea contained in one of
 Judaism's key words.
 
 *
@@ -6004,8 +5936,7 @@ access to good education, health care, and other essential
 amenities, is not a place of liberty. That requires more than an
 absence of coercion. It involves the removal of barriers to the
 exercise of responsible citizenship: 'poverty as well as tyranny,
-poor economic opportunities as well as systematic social depriva­
-tion, neglect of public facilities as well as intolerance or
+poor economic opportunities as well as systematic social deprivation, neglect of public facilities as well as intolerance or
 overactivity of repressive states' . 13
 
 How was this achieved? The Bible is set in the context of a
@@ -6036,15 +5967,13 @@ you will be found guilty of sin. Give generously to him and
 do so without a grudging heart; then because of this the
 Lord your God will bless you in all your work and in
 everything you put your hand to. There will always be poor
-people in the land. Therefore I command you to be open­
-hearted towards your brothers and towards the poor and
+people in the land. Therefore I command you to be openhearted towards your brothers and towards the poor and
 needy in your land. (Deuteronomy 15: 9-11)
 
 Indebtedness is a form of servitude. To ban loans altogether
 would condemn people to poverty and deprive them of the chance
 to start or sustain their own enterprise. That is why, from a
-biblical perspective, micro-lending of the kind currently under­
-taken b y the World Bank, is essential. Nothing is more effective in
+biblical perspective, micro-lending of the kind currently undertaken b y the World Bank, is essential. Nothing is more effective in
 alleviating poverty than giving individuals the chance to create
 small businesses. But to allow debts to accumulate is also wrong:
 the economic system must encourage freedom, not financial
@@ -6081,8 +6010,7 @@ corrective to the market by restoring a level playing field to those
 who have been forced to sell either their labour or their land.
 They break the cycle of poverty and dependence.
 
-With the transition, some 2,000 years ago, from biblical to post­
-biblical Judaism, we find a greater emphasis on t;:,edakah, the
+With the transition, some 2,000 years ago, from biblical to postbiblical Judaism, we find a greater emphasis on t;:,edakah, the
 direct provision of financial aid, as opposed to agricultural
 produce. Israel had become less of an agrarian economy, more a
 society of small businesses and trade, and rabbinic law is a
@@ -6221,8 +6149,7 @@ prophets remind us of the moral state of a people: Few are guilty but
 all are responsible. If we admit that the individual is in some measure
 conditioned or affected by the spirit of society, an individual's crime
 discloses society's corruption.' 18 And what in the days of the prophets
-applied socially, today applies globally. The scope of our inter­
-connectedness defines the radius of responsibility and concern.
+applied socially, today applies globally. The scope of our interconnectedness defines the radius of responsibility and concern.
 
 *
 
@@ -6293,8 +6220,7 @@ combat treatable disease, reduce infant mortality, improve work
 conditions and reconstruct failing economies. As with tz_edakah, the
 aim should be to restore dignity and independence to nations as
 well as individuals. This has now become an urgent imperative.
-The globalization of communications, trade and culture, globa­
-lizes human responsibility likewise. The freedom of the few may
+The globalization of communications, trade and culture, globalizes human responsibility likewise. The freedom of the few may
 not be purchased at the price of the enslavement of the many to
 poverty, ignorance and disease.
 
@@ -6499,8 +6425,7 @@ specifically the making of bricks from clay tablets dried in the
 sun. Marks made by a wedge-shaped stick while the clay was still
 wet would become indelible once the tablet had become hard and
 could thus serve as perrnanent records. The first signs to be
-inscribed were pictographic - no more than schematic representa­
-tions of objects. But the technique developed rapidly into a system
+inscribed were pictographic - no more than schematic representations of objects. But the technique developed rapidly into a system
 not of representation but communication. Symbols were strung
 together in linear sequences and became phonetic, standing not
 for objects but for sounds. The wedge-shaped sticks used to make
@@ -6521,8 +6446,7 @@ process was taking place in ancient Egypt, giving rise to the family
 of scripts known as hieroglyphics. In all, writing may have been
 invented independently as many as seven times - in India, China
 and Greece (Minoan or Mycenean 'Linear B') and later by the
-Mayans and Aztecs as well in the ancient Mesopotamian city­
-states and the Egypt of the Pharaohs. 5
+Mayans and Aztecs as well in the ancient Mesopotamian citystates and the Egypt of the Pharaohs. 5
 
 The birth of writing was the genesis of civilization. For the first
 time knowledge could be accumulated and handed on to future
@@ -6609,8 +6533,7 @@ were transferred, probably by trading Phoenicians, to Greece,
 that for the first time symbols were added to represent vowels
 (Hebrew to this day is a consonantal script). But the Semitic
 origin of the alphabet is still evident in the word itself: a
-combination of the first two Hebrew letters, aleph and bet (alpha­
-beta in Greek).
+combination of the first two Hebrew letters, aleph and bet (alphabeta in Greek).
 
 *
 
@@ -6725,8 +6648,7 @@ before communicating its terms, is in effect making it conditional
 on their agreement. To put it in the language of the American
 Declaration of Independence: there is no legitimate government
 without 'the consent of the governed', even when the governor is
-Creator of heaven and earth! Here, even more than in the city­
-states of ancient Greece, is born the idea of a free society.
+Creator of heaven and earth! Here, even more than in the citystates of ancient Greece, is born the idea of a free society.
 
 Never before, and rarely since, has the dignity of the human
 person in the presence of God - the citizen of the nation of faith
@@ -6798,8 +6720,7 @@ cumulative consequences will be. Will it spell the end, or at least
 the decline, of the nation-state? Will it lead to new forms of
 community and collaborative action? Will it hasten the demise of
 local languages in favour of the dominant tongue of the I nternet,
-American-English? Will it bring about a fundamental reorienta­
-tion of human consciousness, reducing the significance of space in
+American-English? Will it bring about a fundamental reorientation of human consciousness, reducing the significance of space in
 favour of time? One thing is certain: the changes will go deep and
 they will be, among other things, 'spiritual' . Writing gave birth to
 civilization. The alphabet enabled the spread of monotheism.
@@ -6809,8 +6730,7 @@ and the universe, it is sensitive to transformations of this kind.
 New communication technologies make possible new modes of
 relationship, new social, economic and political structures, and
 thus new ways of understanding the human situation under God.
-This has an immediate implication for the ethics of globaliza­
-tion. The best investment developed nations can make in the
+This has an immediate implication for the ethics of globalization. The best investment developed nations can make in the
 developing world - and developing economies themselves - is to
 ensure that every child has maximal opportunity for learning.
 Education is still far too unevenly distributed. Of the world's
@@ -6828,8 +6748,7 @@ per cent higher poverty rate and a 70 per cent greater high school
 
 drop-out rate. Within the United States itself, Hispanics are
 significantly poorer and less educated than other groups. 12 There
-is a high correlation between education and economic achieve­
-ment: it has been estimated that every additional year of schooling
+is a high correlation between education and economic achievement: it has been estimated that every additional year of schooling
 in a poor country adds between 10 and 20 per cent to a child's
 eventual income.
 
@@ -6856,8 +6775,7 @@ corporations are outsourcing production and peripheral services
 and becoming, instead, owners of concepts: brands, logos, images
 and designs. 1 4 In such an economy, immense advantages accrue
 to those with intellectual and creative skills. Education, not
-merely basic but extended, becomes a necessity, even a funda­
-mental human right. Investment in education is the most
+merely basic but extended, becomes a necessity, even a fundamental human right. Investment in education is the most
 important way in which a society offers its children a future.
 
 So fundamental has this idea been to Judaism that it might in
@@ -6885,8 +6803,7 @@ dispersion of Jewry. By the first century CE, Josephus writes that
 repeat them as readily as his own name. The result of our
 thorough education in our laws from the very dawn of intelligence
 is that they are, as it were, engraved on our souls.' 15 H. G. Wells
-observed that 'the Jewish religion, because it was a literature­
-sustained religion, led to the first efforts to provide elementary
+observed that 'the Jewish religion, because it was a literaturesustained religion, led to the first efforts to provide elementary
 education for all the children in the community' . 16
 
 Universal literacy is a relatively recent idea in the West.
@@ -6929,8 +6846,7 @@ excommunicated. Throughout the centuries, when the vast
 majority of Europe was illiterate,Jews maintained an educational
 infrastructure as their highest priority. It is no exaggeration to say
 that this lay at the heart of the Jewish ability to survive
-catastrophe, negotiate change and flourish in difficult circum­
-stances.
+catastrophe, negotiate change and flourish in difficult circumstances.
 
 •
 
@@ -6941,8 +6857,7 @@ economic issues: global governance and the impact of the new
 economy. A Jewish perspective would argue that, vital though
 these are, the provision of universal education is more important
 still. In the foreseeable future, much will depend on the degree to
-which people are positioned to take advantage of new oppor­
-tunities, and this in turn will depend on the extent and depth of
+which people are positioned to take advantage of new opportunities, and this in turn will depend on the extent and depth of
 investment in education. In fact, so rapidly are technologies
 changing that the idea that education is confined to childhood
 will have to be revised in favour of lifelong learning, itself a classic
@@ -6990,8 +6905,7 @@ discoveries in coffee bars that has made Silicon Valley in
 California the world leader in computer technologies. Knowledge
 grows by being shared.
 
-Information technology has not only transforn1ational possibil­
-ities but also deep ethical implications. Worldwide, the number of
+Information technology has not only transforn1ational possibilities but also deep ethical implications. Worldwide, the number of
 children - girls especially - who lack adequate education is a
 scandal. It means that most will remain disadvantaged through-
 
@@ -7063,8 +6977,7 @@ is some truth to this proposition, but only some.
 Understanding how it came to be believed and how more recently
 it has been challenged, is one of the most enthralling chapters in
 modem thought, bringing together as it does, converging lines of
-argument from economics, politics, applied mathematics, socio­
-biology and computer simulation. The result has been a paradigm
+argument from economics, politics, applied mathematics, sociobiology and computer simulation. The result has been a paradigm
 shift
 in our understanding of human interaction, and more
 importantly a richer sense of the importance of culture and
@@ -7072,8 +6985,7 @@ community - what I will call 'covenantal relationships' - in
 sustaining social life. One of the more significant conclusions is that
 economics and politics, the two master disciplines of contemporary
 society, turn out to be insufficient if we are to preseive our human
-ecology. First, though, how did competition come to occupy centre­
-stage in modern thought?
+ecology. First, though, how did competition come to occupy centrestage in modern thought?
 
 One of the turning points in the history of the West came when
 a series of thinkers asked the question: How can the destructive
@@ -7110,8 +7022,7 @@ The most famous of all articulations of this principle was given,
 of course, by Adam Smith in The Wealth of Nations. Market
 exchange and the division of labour, he showed, had the effect of
 creating economic growth. The mysterious but benign nature of
-this process was that though individuals were driven by self­
-interest, the aggregate effect was collective gain. Vico, who had
+this process was that though individuals were driven by selfinterest, the aggregate effect was collective gain. Vico, who had
 already understood this, was moved to say that it 'proves the
 existence of divine providence'. Smith, more modestly, spoke of
 'an invisible hand':
@@ -7216,8 +7127,7 @@ number than other men'. The hero 'would often leave no offspring
 to inherit his noble nature'. 5 Altruism should not survive, yet it
 does.
 
-The· answer eventually came through reflection on the Prison­
-er's Dilemma, which showed that self-interested action did not
+The· answer eventually came through reflection on the Prisoner's Dilemma, which showed that self-interested action did not
 always yield optimal outcomes. What if the paradox was due to
 the fact that the parties met only once? What if they met
 repeatedly? Might they not eventually work out that there was a
@@ -7247,8 +7157,7 @@ of homo sapiens.
 
 Survival turns out to depend not so much on individual
 strength as on habits of co-operation. One man loses against a
-lion, but ten men stand a good chance of winning if they can co­
-ordinate their efforts. It now seems likely that the distinctive
+lion, but ten men stand a good chance of winning if they can coordinate their efforts. It now seems likely that the distinctive
 features of human beings - our brain size and sophistication in the
 use of language - are related to the advantages of extended
 sociality. There is even a close correlation amongst mammals
@@ -7333,8 +7242,7 @@ something significant taking place: the making and sustaining of
 the moral life.
 
 Beneath the surface of this family are certain fundamental
-concepts: love, loyalty, responsibility, authority, obedience, fair­
-ness and compassion. These are the filaments that hold the family
+concepts: love, loyalty, responsibility, authority, obedience, fairness and compassion. These are the filaments that hold the family
 members together. They define their relationships and frame their
 expectations - that when mother has had a particularly distressing
 day at work, the others will be a little more sympathetic and less
@@ -7357,8 +7265,7 @@ sustained by trust. 7
 One of the governing presuppositions of modern thought was
 the concept of the isolated or atomic self, the 'I' with which
 thought and action supposedly began. Descartes famously began
-his philosophical journey by casting systematic doubt on every­
-thing he believed. Of what, if anything, he asked, can I be
+his philosophical journey by casting systematic doubt on everything he believed. Of what, if anything, he asked, can I be
 certain? Of one thing only: I think, therefore I am. This lonely
 self, assured of nothing save its own existence, is the hero of almost
 all the great Enlightenment dramas. It is this 'I' which, according
@@ -7397,8 +7304,7 @@ more people come together to create a 'We'. They differ from
 c o ntracts in that they tend to be open-ended and enduring. They
 i n volve a commitment of the person to another, or to several
 others. They involve a substantive notion of loyalty - of staying
-together even in difficult times. They may call, at times, for self­
-sacrifice. People bound by a covenant are 'obligated to respond to
+together even in difficult times. They may call, at times, for selfsacrifice. People bound by a covenant are 'obligated to respond to
 one another beyond the letter of the law rather than to limit their
 obligations to the narrowest contractual requirements'. 8 The
 simplest example of a covenant is a marriage. Another is the bond
@@ -7450,8 +7356,7 @@ to speak of the
 affections' .1 1 It was this also that moved Alexis de Tocqueville to
 assert that it was American 'habits of association' - their tendency
 to form voluntary associations and join churches - that protected
-freedom through the exercise of citizenship.12 Burke and Tocque­
-ville have been subjects of intense interest in recent years because
+freedom through the exercise of citizenship.12 Burke and Tocqueville have been subjects of intense interest in recent years because
 of a growing realization that between them, the market and the
 state have weakened trust-creating institutions - sometimes called
 'third-sector' or 'mediating' structures. Those who seek to
@@ -7491,8 +7396,7 @@ confidence in authorities and institutions.
 The irony is that Adam Smith seems to have known this all
 along, for he wrote not one masterpiece but two: not only The
 Wealth of Nations ( 1776) but also, and first, The Theory of Moral
-Sentiments (1759). In that earlier work, far from championing self­
-interest, he wrote that 'to feel much for others, and little for us ...
+Sentiments (1759). In that earlier work, far from championing selfinterest, he wrote that 'to feel much for others, and little for us ...
 constitutes the perfection of human nature'. German scholars,
 puzzled by the apparent contradiction between the two books,
 called it das Adam Smith Problem. The resolution, though, should by
@@ -7541,8 +7445,7 @@ building of relationships. Now it has become 'transactional', a
 series of one-off encounters, contract by contract, deal by deal,
 which depend not on trust but on the presence of lawyers:
 
-In a perfectly changeable, transactional society the individ­
-ual is paramount. From the point of view of the individual it
+In a perfectly changeable, transactional society the individual is paramount. From the point of view of the individual it
 is not necessary to be morally upright to be successful;
 indeed it can be a hindrance ... In a society where stable
 relationships prevail, this is much less of a problem because
@@ -7575,8 +7478,7 @@ become more demanding, and involves more travel and more
 frequent relocation. Its very insecurity forces people to work
 harder in case, next month or next year, they no longer have a
 job, at least one that pays as well. The result is that people, at least
-during their working lives, have less free time to spend on non­
-economic activity. Work that used to be done within the family,
+during their working lives, have less free time to spend on noneconomic activity. Work that used to be done within the family,
 from child-care to preparing food, is increasingly being done by
 someone else for pay. The family is becoming downsized and
 outsourced. Parents spend less time with their children, who in
@@ -7588,8 +7490,7 @@ and every individual's life is commodified twenty-four hours
 
 a day, what is left for relationships of a non-commercial
 nature - relationships based on kinship, neighbourliness,
-shared cultural interests, religious affiliation, ethnic identi­
-fication, and fraternal or civic involvement? When time
+shared cultural interests, religious affiliation, ethnic identification, and fraternal or civic involvement? When time
 itself is bought and sold and one's life becomes little more
 than an ongoing series of commercial transactions held
 together by contracts and financial instruments, what
@@ -7603,10 +7504,8 @@ That was one of the historic roles of places of worship, but in other
 and different ways it is the role of public spaces in general - parks,
 squares, mixed neighbourhoods, the places you go where you do
 not have to pay. There are fewer and fewer such environments.
-Communities become more segregated as the rich move else­
-where. Parks become more dangerous as street crime rises. The
-great public arenas have become shopping malls and entertain­
-ment complexes, but these are not civic spaces. We go there as
+Communities become more segregated as the rich move elsewhere. Parks become more dangerous as street crime rises. The
+great public arenas have become shopping malls and entertainment complexes, but these are not civic spaces. We go there as
 consumers, not as fellow citizens. More and more of our
 encounters are disembodied. We communicate increasingly by
 phone and e-mail, less by personal presence. The result is a loss of
@@ -7637,8 +7536,7 @@ things g o to the heart of who we are. They are the 'signals of
 transcendence' in the midst of fast-paced world.
 
 For life to have personal meaning, there must be people who
-matter to us, and for whom we matter, unconditionally and non­
-substitutably. Ask someone what his or her greatest source of
+matter to us, and for whom we matter, unconditionally and nonsubstitutably. Ask someone what his or her greatest source of
 happiness is, and they are unlikely to mention their latest car, their
 last holiday, their new designer jeans. They are, or were, more
 likely to say: my marriage partner, my children, my reputation, my
@@ -7864,8 +7762,7 @@ introduction of new species to a particular area that kill or infect
 existing animals, or by the transfer of the pests like the fungi which
 carried Dutch elm disease. The destruction of habitats, such as the
 draining of marshland, disturbs the ecological balance on which
-many life forms depend. Ecuador, Madagascar and the Philip­
-pines have already lost at least two-thirds of their rain forests
+many life forms depend. Ecuador, Madagascar and the Philippines have already lost at least two-thirds of their rain forests
 which are some of the richest of all homes of animal and plant life.
 Most significant of all is the pressure on the environment by the
 growth of the human population, which has increased from half a
@@ -7873,8 +7770,7 @@ billion in 1600 to six billion today, and continues to rise. Jared
 Diamond is blunt in his prognosis:
 
 Our harnessing of much of the Earth's productivity, our
-exterminations of species, and our damage to our environ­
-ment are accelerating at a rate that cannot be sustained for
+exterminations of species, and our damage to our environment are accelerating at a rate that cannot be sustained for
 even another century. One might object that, if we look
 around us, we see no obvious sign that the climax of our
 history will come soon. In fact, the signs become obvious if
@@ -8135,8 +8031,7 @@ land', says God, 'is Mine; you are but strangers resident with Me'
 Another group of commandments is directed against interference
 with nature. The Bible forbids crossbreeding livestock, planting a
 field with mixed seeds, and wearing a garment of mixed wool and
-linen. It calls these rules chukkim or 'statutes'. The thirteenth­
-century scholar Nahmanides understood this terrn to mean laws
+linen. It calls these rules chukkim or 'statutes'. The thirteenthcentury scholar Nahmanides understood this terrn to mean laws
 which respect the integrity of nature. To mix different species, he
 argued, was to presume to be able to improve on the order of
 creation, and thus an affront to the Creator. Each species has its
@@ -8178,8 +8073,7 @@ thinking along similar lines 1 50 years earlier'. I n his essay Moral
 Inquiries on the Situation of Man and of Brutes ( 1 824), Gompertz
 looked forward to the time when
 
-man, then becoming truly religious, will glory in super­
-intending the works of his Maker, which he has entrusted to
+man, then becoming truly religious, will glory in superintending the works of his Maker, which he has entrusted to
 him: as a faithful servant, he will then not deny to what he
 now calls the meanest reptile, his protection, and own it to
 b e his brother, resembling himself in construction, and
@@ -8196,8 +8090,7 @@ that any intervention in the natural order was forbidden. Others
 believed that creation was left deliberately incomplete so that we,
 too, could play our part in 'perfecting the world under the
 sovereignty of God'. For that reason, for example, Jewish law is
-not opposed to in vitro fertilization or, with appropriate safe­
-guards, s tem-cell research. Nature is not sacrosanct. If it were, we
+not opposed to in vitro fertilization or, with appropriate safeguards, s tem-cell research. Nature is not sacrosanct. If it were, we
 would be bound to respect viruses, genetic illness and 'the
 thousand natural shocks that flesh is heir to'. Some authorities,
 following Nahmanides, would ban genetically modified crops;
@@ -8268,8 +8161,7 @@ or drink to remind ourselves of God's ownership of the world.
 Prayer, ritual and narrative are ways we shape what Tocqueville
 form character, create
 called 'habits o f the heart'. They
-behavioural dispositions and educate us in patterns of self­
-restraint. Roger Scruton makes a fascinating observation in
+behavioural dispositions and educate us in patterns of selfrestraint. Roger Scruton makes a fascinating observation in
 relation to BSE or 'mad cow disease' and the biblical prohibition
 against 'seething a kid in its mother's milk':
 
@@ -8334,8 +8226,7 @@ Wilson draws this sombre conclusion:
 everything . . . We are adults who have discovered which
 covenants are necessary for our survival, and we have
 accepted the necessity of securing them by sacred oath . . .
-[I]f we should surrender our genetic nature to machine­
-aided ratiocination, and our ethics and art and our very
+[I]f we should surrender our genetic nature to machineaided ratiocination, and our ethics and art and our very
 meaning to a habit of careless discursion in the name of
 
 Conservation: Environmental Sustainabiliry
@@ -8379,8 +8270,7 @@ comparative advantage tells us that each of us has something to
 contribute to the collective good, and that we each gain from the
 distinctive skills and excellences of others. That is true of all trade,
 and there is therefore every reason to believe that the sheer growth
-of international trade bought about by globalization is funda­
-mentally benign. No other system has offered more genuine
+of international trade bought about by globalization is fundamentally benign. No other system has offered more genuine
 
 1 73
 
@@ -8530,8 +8420,7 @@ mutates. Under a dictatorship, Serbs and Croats had lived
 together peaceably for 50 years. They had become friends and
 neighbours. But, as in virtually every other zone of historical
 conflict, something happens - there is a shift in the power
-structure; a totalitarian government that had held local popula­
-tions together by fear disintegrates; an episode occurs in which the
+structure; a totalitarian government that had held local populations together by fear disintegrates; an episode occurs in which the
 members of one side commit an atrocity against the other - and it
 is as if the years of coexistence had never been. Friends become
 enemies; neighbours, antagonists. A wall of separation is then the
@@ -8573,8 +8462,7 @@ It represents our ability to change course, reframe the narrative of
 the past and create an unexpected set of possibilities for the future.
 Hannah Arendt understood this:
 
-The possible redemption from the predicament of irrever­
-sibility - of being unable to undo what one has done though
+The possible redemption from the predicament of irreversibility - of being unable to undo what one has done though
 one did not, and could not, have known what he was doing
 - is the faculty of forgiving . . . [F]orgiving serves to undo the
 deeds of the past, whose 'sins' hang like Damocles' sword
@@ -9012,8 +8900,7 @@ low and unworthy emotion, and because it is regarded as
 such, its deep moral hold on people is rarely understood. But
 revenge - morally considered - is a desire to keep faith with
 the dead, to honour their memory by taking up their cause
-where they left off. Revenge keeps faith between genera­
-tions; the violence it engenders is a ritual form of respect for
+where they left off. Revenge keeps faith between generations; the violence it engenders is a ritual form of respect for
 the community's dead - therein lies its legitimacy.
 Reconciliation is difficult precisely because it must compete
 with the powerful alternative morality of violence. Political
@@ -9062,8 +8949,7 @@ witness stand she finally discloses the fact that she is the victim's
 daughter and that she has come to know the gunman and his
 family so that they can put a personal face to the family of the
 injured man and understand that there is no such thing as an
-impersonal victim of violence. In the middle of her cross­
-examination, she is interrupted by another voice:
+impersonal victim of violence. In the middle of her crossexamination, she is interrupted by another voice:
 
 A woman stood up at the back of the courtroom. She
 blurted out in English, in a loud, shaking voice, ' I forgive
@@ -9095,14 +8981,11 @@ refugees. The question is: is there a solution that would be
 acceptable to both sides? Both have long memories, Israelis of
 2,000 years of Jewish suffering and the existential need for Jews to
 have, somewhere on earth, defensible space; Palestinians of
-displacement and loss, political impotence and economic hard­
-ship, of humiliating defeat and anger. These are two narratives,
+displacement and loss, political impotence and economic hardship, of humiliating defeat and anger. These are two narratives,
 neither of which makes space for the other. As in so many other
 conflict zones, deadlock recapitulates the classic terms of the
 Prisoner's Dilemma. An absence of trust leads both parties to
-courses of action which, rational in themselves, end in con­
-sequences disastrous to both. Forgiveness seems absurdly inad­
-equate to substantive conflicts of interest and the sheer
+courses of action which, rational in themselves, end in consequences disastrous to both. Forgiveness seems absurdly inadequate to substantive conflicts of interest and the sheer
 momentum of suspicion, distrust and cumulative grievance.
 
 Yet in the end peace is made, if at all, then by people who
@@ -9219,8 +9102,7 @@ to health. Eugenic cloning and other medical technologies may
 lead humanity to promethean alterations of the human genome,
 privileging the few at the cost of the many and calling into
 question the very idea of human uniqueness and irreplaceability
-on which our ideas of love, the human person and the non­
-negotiable dignity of a human life depend. Beyond these and no
+on which our ideas of love, the human person and the nonnegotiable dignity of a human life depend. Beyond these and no
 less urgent is the growing fragmentation of politics, the rise of new
 forms of tribalism and religious extremism, the persistence of
 ethnic wars and the capacity of highly decentralized groups,
@@ -9279,8 +9161,7 @@ not dispel prejudice. Technology, whether in the form of weapons
 of mass destruction, over-exploitation of natural resources,
 pollution of the atmosphere, or genetic manipulation, threatens
 the sustainability of nature itself. Representative democracy
-remains the best form of government yet discovered, but nation­
-states seem increasingly unable to control global phenomena from
+remains the best form of government yet discovered, but nationstates seem increasingly unable to control global phenomena from
 multinational corporations to ecological devastation, and we have
 not yet evolved a form of global governance. Market capitalism
 has increased wealth beyond the imagination of previous
@@ -9364,9 +9245,7 @@ and led them instead to the pursuit of trade - constitutes, to its
 
 critics, its shortcomings. The virtues of a liberal democratic order
 are, from another perspective, its vices. People turn away from
-public life to private devices and desires. They become self­
-absorbed, domesticated, bourgeois. They no longer ally them­
-selves to the great causes that once called forth patriotism, loyalty,
+public life to private devices and desires. They become selfabsorbed, domesticated, bourgeois. They no longer ally themselves to the great causes that once called forth patriotism, loyalty,
 the willingness to sacrifice oneself for the sake of one's country or
 one's faith. But the urge to these passions does not die. It remains
 as a genetic residue from an earlier age when men had to fight
@@ -9432,8 +9311,7 @@ freedom in the face of passionate, violent and fanatical challenge:
 Modern thought raises no barriers to a future nihilistic war
 against liberal democracy on the part of those brought up in
 its bosom. Relativism - the doctrine that all values are
-merely relative and which attacks all 'privileged perspec­
-tives' - must ultimately end up undermining democratic
+merely relative and which attacks all 'privileged perspectives' - must ultimately end up undermining democratic
 and tolerant values as well. Relativism is not a weapon that
 can be aimed selectively at the enemies one chooses. It fires
 indiscriminately, shooting out the legs of not only the
@@ -9479,8 +9357,7 @@ a genuine assent of the soul. 'Liberty of conscience', Plamenatz
 writes, 'was born, not of indifference, not of scepticism, not of
 mere open-mindedness, but of faith.'6 That is what differentiates
 
-the seventeenth-century approach to liberty from twentieth­
-century advocates such as Friedrich Hayek, Karl Popper and
+the seventeenth-century approach to liberty from twentiethcentury advocates such as Friedrich Hayek, Karl Popper and
 Isaiah Berlin. These latter-day thinkers predicated their ideas of a
 free society on scepticism and uncertainty, and in so doing
 weakened the defence of liberty, making it vulnerable to those
@@ -9567,8 +9444,7 @@ With this I return to a concept that has underlain much of what I
 have argued - the concept of covenant. Initially a form of treaty
 between neighbouring powers in the ancient Near East, it
 became, in the Hebrew Bible, a - even the - central for111 of
-relationship, laden with religious and moral significance. Coven­
-ant is an answer to the most fundamental question in the
+relationship, laden with religious and moral significance. Covenant is an answer to the most fundamental question in the
 evolution of societies: How can we establish relationships secure
 enough to become the basis of co-operation, without the use of
 economic, political or military power? The use of power is ruled
@@ -9609,8 +9485,7 @@ the dignity of difference. The great covenantal relationships -
 between God and mankind, between man and woman in marriage,
 between members of a community or citizens of a society - exist
 because both parties recognize that 'it is not good for man to be
-alone'. God cannot redeem the world without human participa­
-tion; humanity cannot redeem the world without recognition of the
+alone'. God cannot redeem the world without human participation; humanity cannot redeem the world without recognition of the
 divine. Man alone, and woman alone, cannot bring new life into
 the world. Members and citizens alone cannot sustain themselves,
 let alone establish a framework of collaborative action and
@@ -9661,8 +9536,7 @@ them, saying, 'Blessed be Egypt my people, Assyria my
 handiwork, and Israel my inheritance.' (Isaiah 19: 19-25)
 
 This is an astonishing passage. Michael Fishbane calls it 'the most
-extreme transposition of a national historical memory conceiva­
-ble'. Israel's unique deliverance, the exodus, is now to be repeated
+extreme transposition of a national historical memory conceivable'. Israel's unique deliverance, the exodus, is now to be repeated
 for its erstwhile enemies. Fishbane rightly notes that 'Isaiah has
 bequeathed to Egypt Israel's most personal memory for the sake
 of peace. The metamorphosis is stunning. '8 Some 2,700 years
@@ -9684,8 +9558,7 @@ are not here today', says Moses at the end of his life (Deuteronomy
 are to be born'.9 It reminds us that we are guardians of the past for
 the sake of the future. It extends our horizons to the chain of the
 generations of which we are a part. I t holds us to the consequences
-of our actions, from exploitation of the environment to the over­
-commercialization of society to the utterly unforgivable ar1ns trade
+of our actions, from exploitation of the environment to the overcommercialization of society to the utterly unforgivable ar1ns trade
 and all the other ways in which self-interested conduct in the short
 te1111 creates hazard in the long term. Covenant means extended
 responsibility, horizontally across space, vertically across time, to
@@ -9695,8 +9568,7 @@ Our global situation today is not unlike the condition of European
 nations during the great wars of religion of the sixteenth and
 seventeenth centuries in the wake of the Reformation. Then, as
 now, there were many societies riven by conflict. The question
-arose: how can people of violently conflicting beliefs live peace­
-ably together? Out of that crisis came the idea - variously framed
+arose: how can people of violently conflicting beliefs live peaceably together? Out of that crisis came the idea - variously framed
 by Hobbes, Locke and Rousseau - of a social contract by which
 individuals agree to cede certain private powers to a central
 authority charged with the maintenance of order and pursuit of
@@ -9712,8 +9584,7 @@ people, Samuel anointed Saul as king, giving rise to Israel's first
 national government. I t received its social covenant several
 centuries earlier in the revelation at Mount Sinai. The relation
 between covenant and contract is akin to that between the
-American Declaration of Independence ( 1776) and the Constitu­
-tion ( 1 789). The latter specifies the constitutional structure of the
+American Declaration of Independence ( 1776) and the Constitution ( 1 789). The latter specifies the constitutional structure of the
 state, the former the moral principles of the society on which it is
 
 The Dignily of Difference
@@ -9801,8 +9672,7 @@ the generous texts of our tradition serve as interpretive keys to the
 
 rest, or will the abrasive passages deter111ine our ideas of what we
 are and what we are called on to do? No tradition is free from the
-constant need to reinterpret, to apply eternal truths to an ever­
-changing world, to listen to what God's word requires of me, here,
+constant need to reinterpret, to apply eternal truths to an everchanging world, to listen to what God's word requires of me, here,
 now. That is what religious leaders have always done, in the past
 no less than now.
 
@@ -9849,8 +9719,7 @@ and another faith as a ruby, but we know that both are precious
 stones. But if faith is a mere burden, not only will we not value
 ours. Neither will we value the faith of someone else. We will see
 both as equally useless. True tolerance, he implied, comes not
-from the absence of faith but from its living presence. Under­
-standing the particularity of what matters to us is the best way of
+from the absence of faith but from its living presence. Understanding the particularity of what matters to us is the best way of
 coming to appreciate what matters to others.
 
 Difference does not diminish; it enlarges the sphere of human

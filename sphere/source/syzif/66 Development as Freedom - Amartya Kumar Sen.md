@@ -260,8 +260,7 @@ fields of trade, commerce and communication, but also in terms of
 
 interactive ideas and ideals.
 
-And yet we also live in a world with remarkable deprivation, des­
-titution and oppression. There are many new problems as well as old
+And yet we also live in a world with remarkable deprivation, destitution and oppression. There are many new problems as well as old
 
 ones, including persistence of poverty and unfulfilled elementary
 
@@ -313,15 +312,13 @@ mary end and as the principal means of development. Development
 
 consists of the removal of various types of unfreedoms that leave
 
-people with little choice and little opportunity of exercising their rea­
-soned agency. The removal of substantial unfreedoms, it is argued
+people with little choice and little opportunity of exercising their reasoned agency. The removal of substantial unfreedoms, it is argued
 
 here, is constitutive of development. However, for a fuller under­
 
 standing of the connection between development and freedom we
 
-have to go beyond that basic recognition (crucial as it is). The intrin­
-sic importance of human freedom, in general, as the preeminent
+have to go beyond that basic recognition (crucial as it is). The intrinsic importance of human freedom, in general, as the preeminent
 
 objective of development is strongly supplemented by the instrumen­
 
@@ -384,23 +381,20 @@ rather than as passive recipients of dispensed benefits.
 
 The book is based on five lectures I gave as a Presidential Fellow
 
-at the World Bank during the fall of 1996. There was also one follow­
-up lecture in November 1997 dealing with the overall approach and
+at the World Bank during the fall of 1996. There was also one followup lecture in November 1997 dealing with the overall approach and
 
 its implications. I appreciated the opportunity and the challenge
 involved in this task, and I was particularly happy that this happened
 at the invitation of President James Wolfensohn, whose vision, skill
 
 and humanity I much admire. I was privileged to work closely with
-him earlier as a Trustee of the Institute for Advanced Study at Prince­
-ton, and more recently, I have also watched with great interest the
+him earlier as a Trustee of the Institute for Advanced Study at Princeton, and more recently, I have also watched with great interest the
 constructive impact of Wolfensohn's leadership on the Bank.
 
 The World Bank has not invariably been my favorite organiza­
 
 tion. The power to do good goes almost always with the possibility
-. to do the opposite, and as a professional economist, I have had occa­
-sions in the past to wonder whether the Bank could not have done
+. to do the opposite, and as a professional economist, I have had occasions in the past to wonder whether the Bank could not have done
 very much better. These reservations and criticisms are in print, so I
 need not make a "confession" of harboring skeptical thoughts. All
 
@@ -417,13 +411,11 @@ for policy makers and planners of national governments. Rather, it is
 
 a general work on development and the practical reasons underlying
 it, aimed particularly at public discussion. I have rearranged the six
-lectures into twelve chapters, both for clarity and to make the writ­
-ten version more accessible to nonspecialist readers. Indeed, I have
+lectures into twelve chapters, both for clarity and to make the written version more accessible to nonspecialist readers. Indeed, I have
 tried to make the discussion as nontechnical as possible, and have
 
 referred to the more formal literature-for those inclined in that
-direction--only in endnotes. I have also commented on recent eco­
-nomic experiences that occurred after my lectures were given (in 1996),
+direction--only in endnotes. I have also commented on recent economic experiences that occurred after my lectures were given (in 1996),
 
 such as the Asian economic crisis (which confirmed some of the worst
 
@@ -449,8 +441,7 @@ they are worth-in the public domain. Since I have been fortunate in
 living in three democracies with largely unimpeded media (India,
 
 Britain, and the United States), I have not had reason to complain
-about any lack of opportunity of public presentation. If my argu­
-ments arouse any interest, and lead to more public discussion of these
+about any lack of opportunity of public presentation. If my arguments arouse any interest, and lead to more public discussion of these
 
 vital issues, I would have reason to feel well rewarded.
 
@@ -478,8 +469,7 @@ blow from which I have not yet fully recovered). Harvard University,
 
 where I taught until early 1998, has been marvelously supportive of
 
-my research work for many years. I have also drawn on logistic sup­
-port respectively from the Harvard Institute of International Devel­
+my research work for many years. I have also drawn on logistic support respectively from the Harvard Institute of International Devel­
 
 opment, the Harvard Center for Population and Development Studies,
 
@@ -605,8 +595,7 @@ individual incomes can, of course, be very important as means to
 
 expanding the freedoms enjoyed by the members of the society. But
 
-freedoms depend also on other determinants, such as social and eco­
-nomic arrangements (for example, facilities for education and health
+freedoms depend also on other determinants, such as social and economic arrangements (for example, facilities for education and health
 
 care) as well as political and civil rights (for example, the liberty
 to participate in public discussion and scrutiny). Similarly, indus­
@@ -614,8 +603,7 @@ to participate in public discussion and scrutiny). Similarly, indus­
 trialization or technological progress or social modernization can
 
 substantially contribute to expanding human freedom, but freedom
-depends on other influences as well. If freedom is what develop­
-ment advances, then there is a major argument for concentrating on
+depends on other influences as well. If freedom is what development advances, then there is a major argument for concentrating on
 
 that overarching objective, rather than on some particular means, or
 
@@ -751,9 +739,7 @@ stantive freedoms (that is, the liberty of political participation or the
 opportunity to receive basic education or health care) are among the
 constituent components of development. Their relevance for devel- ,
 opment does not have to be freshly established through their indirect
-contribution to the growth of GNP or to the promotion of industri­
-alization. As it happens, these freedoms and rights are also very effec­
-tive in contributing to economic progress; this connection will receive
+contribution to the growth of GNP or to the promotion of industrialization. As it happens, these freedoms and rights are also very effective in contributing to economic progress; this connection will receive
 extensive attention in this book. But while the causal relation is
 
 indeed significant, the vindication of freedoms and rights provided by
@@ -855,12 +841,10 @@ quite aside from whatever the market mechanism may or may
 not do to promote economic growth or industrialization. In fact, the
 
 praise of capitalism by Karl Marx (not a great admirer of capitalism
-in general) and his characterization (in Das Kapital) of the Ameri­
-can Civil War as "the one great event of contemporary history"
+in general) and his characterization (in Das Kapital) of the American Civil War as "the one great event of contemporary history"
 
 related directly to the importance of the freedom of labor contract
-as opposed to slavery and the enforced exclusion from the labor mar­
-ket. As will be discussed, the crucial challenges of development in
+as opposed to slavery and the enforced exclusion from the labor market. As will be discussed, the crucial challenges of development in
 many developing countries today include the need for the freeing of
 
 labor from explicit or implicit bondage that denies access to the open ,
@@ -1079,8 +1063,7 @@ INSTITUTIONS AND INSTRUMENTAL FREEDOMS
 Five distinct types of freedom, seen in an "instrumental" perspective,
 are particularly investigated in the empirical studies that follow.
 These include (I} political freedoms, ( 2) economic facilities, ( 3) social
-opportunities, (4) transparency guarantees and {5) protective secu­
-rity. Each of these distinct types of rights and opportunities helps to
+opportunities, (4) transparency guarantees and {5) protective security. Each of these distinct types of rights and opportunities helps to
 
 advance the general capability of a person. They may also serve to
 
@@ -1108,8 +1091,7 @@ While development analysis must, on the one hand, be concerned
 
 with objectives and aims that make these instrumental freedoms con­
 
-sequentially important, it must also take note of the empirical link­
-ages that tie the distinct types of freedom together, strengthening
+sequentially important, it must also take note of the empirical linkages that tie the distinct types of freedom together, strengthening
 their joint importance. Indeed, these connections are central to a
 
 fuller understanding of the instrumental role of freedom.
@@ -1203,8 +1185,7 @@ Maitreyee's worldly frustration, but there is another aspect of this
 
 exchange that is of rather immediate interest to economics and to
 
-understanding the nature of development. This concerns the rela­
-tion between incomes and achievements, between commodities and
+understanding the nature of development. This concerns the relation between incomes and achievements, between commodities and
 
 capabilities, between our economic wealth and our ability to live as
 
@@ -1230,8 +1211,7 @@ two perspectives (that is, between an exclusive concentration on eco­
 
 nomic wealth and a broader focus on the lives we can lead) is a major
 issue in conceptualizing development. As Aristotle noted at the very
-beginning of the Nicomachean Ethics (resonating well with the con­
-versation between Maitreyee and Yajnavalkya three thousand miles
+beginning of the Nicomachean Ethics (resonating well with the conversation between Maitreyee and Yajnavalkya three thousand miles
 
 away), "wealth is evidently not the good we are seeking; for it is
 
@@ -1445,9 +1425,7 @@ afflictions (such as economic disasters). Since political and civil free-
 IJ
 
 doms are constitutive elements of human freedom, their denial is a
-handicap in itself. In examining the role of human rights in develop­
-ment, we have to take note of the constitutive as well as the instru­
-mental importance of civil rights and political freedoms. These issues
+handicap in itself. In examining the role of human rights in development, we have to take note of the constitutive as well as the instrumental importance of civil rights and political freedoms. These issues
 
 are examined in chapter 6.
 
@@ -1523,8 +1501,7 @@ lead the kind of lives they value-and have reason to value. These
 capabilities can be enhanced by public policy, but also, on the other
 
 side, the direction of public policy can be influenced by the effective
-use of participatory capabilities by the public. The two-way relation­
-ship is central to the analysis presented here.
+use of participatory capabilities by the public. The two-way relationship is central to the analysis presented here.
 
 There are two distinct reasons for the crucial importance of indi­
 
@@ -1542,8 +1519,7 @@ ditional normative approaches, which focus on other variables, such
 as utility, or procedural liberty, or real income.
 
 Having greater freedom to do the things one has reason to value is
-(r) significant in itself for the person's overall freedom, and (2) impor­
-tant in fostering the person's opportunity to have valuable outcomes.6
+(r) significant in itself for the person's overall freedom, and (2) important in fostering the person's opportunity to have valuable outcomes.6
 
 Both are relevant to the evaluation of freedom of the members of the
 
@@ -1586,23 +1562,17 @@ own values and objectives, whether or not we assess them in terms of
 some external criteria as well. This work is particularly concerned
 with the agency role of the individual as a member of the public and
 as a participant in economic, social and political actions (varying
-from taking part in the market to being involved, directly or indi­
-rectly, in individual or joint activities in political and other spheres).
+from taking part in the market to being involved, directly or indirectly, in individual or joint activities in political and other spheres).
 This has a bearing on a great many public policy issues, varying
 from such strategic matters as the widespread temptation of policy
-bosses to use fine-tuned "targeting" (for "ideal delivery" to a sup­
-posedly inert population), to such fundamental subjects as attempts
-to dissociate the running of governments from the process of demo­
-cratic scrutiny and rejection (and the participatory exercise of politi­
-cal and civil rights).7
+bosses to use fine-tuned "targeting" (for "ideal delivery" to a supposedly inert population), to such fundamental subjects as attempts
+to dissociate the running of governments from the process of democratic scrutiny and rejection (and the participatory exercise of political and civil rights).7
 
 EVALUATIVE SYSTEMS: INCOMES AND CAPABILITIES
 
-On the evaluative side, the approach used here concentrates on a fac­
-tual base that differentiates it from more traditional practical ethics
+On the evaluative side, the approach used here concentrates on a factual base that differentiates it from more traditional practical ethics
 and economic policy analysis, such as the "economic" concentration
-on the primacy of income and wealth (rather than on the character­
-istics of human lives and substantive freedoms), the "utilitarian"
+on the primacy of income and wealth (rather than on the characteristics of human lives and substantive freedoms), the "utilitarian"
 focus on mental satisfaction (rather than on creative discontent and
 constructive dissatisfaction), the "libertarian" preoccupation with
 procedures for liberty (with deliberate neglect of consequences that
@@ -1613,8 +1583,7 @@ people have reason to enjoy, is examined in chapter 3.
 This is not to deny that deprivation of individual capabilities
 can have close links with the lowness of income, which connects in
 both directions: (I) low income can be a major reason for illiteracy
-and ill health as well as hunger and undernourishment, and ( 2) con­
-versely, better education and health help in the earning of higher
+and ill health as well as hunger and undernourishment, and ( 2) conversely, better education and health help in the earning of higher
 incomes. These connections have to be fully seized. But there are also
 other influences on the basic capabilities and effective freedoms that
 
@@ -1624,8 +1593,7 @@ individuals enjoy, and there are good reasons to study the nature and
 
 reach of these interconnections. Indeed, precisely because income
 
-deprivations and capability deprivations often have considerable cor­
-relational linkages, it is important to avoid being mesmerized into
+deprivations and capability deprivations often have considerable correlational linkages, it is important to avoid being mesmerized into
 
 thinking that taking note of the former would somehow tell us enough
 
@@ -1698,8 +1666,7 @@ security (including unemployment insurance) tends to make up for
 the loss of income of the unemployed. But unemployment is not
 
 merely a deficiency of income that can be made up through transfers
-by the state (at heavy fiscal cost that can itself be a very serious bur­
-den); it is also a source of far-reaching debilitating effects on indi­
+by the state (at heavy fiscal cost that can itself be a very serious burden); it is also a source of far-reaching debilitating effects on indi­
 
 vidual freedom, initiative, and skills. Among its manifold effects,
 unemployment contributes to the "social exclusion', of some groups,
@@ -1833,8 +1800,7 @@ and Mortality Indicators 1991 (New Delhi: Office of the Registrar General, 1991)
 China, 1992: World Health Organization, World Health Statistics Annual 1994
 (Geneva: World Health Organization, 1994).
 
-groups. Even African American women end up having a survival pat­
-tern for the higher ages similar to that of the much poorer Chinese,
+groups. Even African American women end up having a survival pattern for the higher ages similar to that of the much poorer Chinese,
 and decidedly lower survival rates than the even poorer Indians in
 Kerala. So it is not only the case that American blacks suffer from
 relative deprivation in terms of income per head vis-a�vis American
@@ -2124,8 +2090,7 @@ I.
 
 King, Fran�ois Quesnay, Antoine-Laurent Lavoisier, Joseph-Louis
 Lagrange and others. While the national accounts devised by these
-leaders of economic analysis established the foundations of the mod­
-ern concept of income, their attention was never confined to this one
+leaders of economic analysis established the foundations of the modern concept of income, their attention was never confined to this one
 concept. They also saw the importance of income to be instrumental
 and circumstantially contingent. r6
 
@@ -2135,31 +2100,23 @@ For example, while William Petty had pioneered both "the income
 method'"' and "the expenditure methon;;of est1maiTng natiOnal
 income (the modern methods of estimation directly follow from these
 early attempts), he was explicitly concerned with "the Common
-Safety" and "each Man's particular Happiness." Petty's stated objec­
-tive for undertaking his study related directly to the assessment of
-people's living conditions. He managed to combine scientific investi­
-gation with a significant dose of seventeenth-century politics ("to
+Safety" and "each Man's particular Happiness." Petty's stated objective for undertaking his study related directly to the assessment of
+people's living conditions. He managed to combine scientific investigation with a significant dose of seventeenth-century politics ("to
 show" that "the King's subjects are not in so bad a condition as
 discontented Men would make them"). The impact of commodity
 consumption on the various functionings of people also received
 attention from others. For example, Joseph-Louis Lagrange, the
-great mathematician, was particularly innovative in converting com­
-modities into their function-related characteristics: amounts of wheat
+great mathematician, was particularly innovative in converting commodities into their function-related characteristics: amounts of wheat
 and other grains into their nourishment equivalent, amounts of all
-meat into equivalent units of beef (in terms of their nutritional quali­
-ties) and amounts of all beverages into units of wine (remember,
-Lagrange was French).x1 In concentrating attention on resulting func­
-tionings rather than commodities only, we reclaim some of the old
+meat into equivalent units of beef (in terms of their nutritional qualities) and amounts of all beverages into units of wine (remember,
+Lagrange was French).x1 In concentrating attention on resulting functionings rather than commodities only, we reclaim some of the old
 heritage of professional economics.
 
 MARKETS AND FREEDOMS
 
 The role of the market mechanism is another subject that calls for
-some reclaiming of old heritage. The relation of the market mecha­
-nism to freedom and thus to economic development raises questions
-of at least two quite distinct types, which need to be clearly distin­
-guished. First, a denial of opportunities of transaction, through arbi­
-trary controls, can be a source of unfreedom in itself. People are then
+some reclaiming of old heritage. The relation of the market mechanism to freedom and thus to economic development raises questions
+of at least two quite distinct types, which need to be clearly distinguished. First, a denial of opportunities of transaction, through arbitrary controls, can be a source of unfreedom in itself. People are then
 prevented from doing what can be taken to be-in the absence of
 compelling reasons to the contrary-something that is within their
 right to do. This point does not depend on the efficiency of the
@@ -2231,8 +2188,7 @@ inviolable and entirely independent of their consequences-it can
 
 still be argued that there is some social loss involved in denying
 
-people the right to interact economically with each other. If it so hap­
-pens that the effects of such transactions are so bad for others that
+people the right to interact economically with each other. If it so happens that the effects of such transactions are so bad for others that
 
 this prima facie presumption in favor of allowing people to trans­
 
@@ -2243,8 +2199,7 @@ directly lost in imposing this restriction (even if it is outweighed by
 the alternative loss of the indirect effects of these transactions on
 others).
 
-The discipline of economics has tended to move away from focus­
-ing on the value of freedoms to that of utilities, incomes and wealth .
+The discipline of economics has tended to move away from focusing on the value of freedoms to that of utilities, incomes and wealth .
 
 This narrowing of focus leads to an underappreciation of the full role
 
@@ -2363,9 +2318,7 @@ nature of slave labor in the southern United States before its aboli­
 
 tion. The classic study on this subject by Robert Fogel and Stanley
 Engerman (Time on the Cross: The Economics of American Negro
-Slavery) includes a remarkable finding about the relatively high ''pe­
-cuniary incomes)) of the slaves. (Controversies on some issues cov­
-ered in this book did not seriously undermine this finding.) The
+Slavery) includes a remarkable finding about the relatively high ''pecuniary incomes)) of the slaves. (Controversies on some issues covered in this book did not seriously undermine this finding.) The
 commodity baskets of consumption of slaves compared favorably­
 
 certainly not unfavorably-with the incomes of free agricultural
@@ -2517,10 +2470,8 @@ Individual freedom is quintessentially a social product, and there
 is a two-way relation between ( r) social arrangements to expand
 individual freedoms and (2) the use of individual freedoms not
 only to improve the respective lives but also to make the social
-arrangements more appropriate and effective. Also, individual con­
-ceptions of justice and propriety, which influence the specific uses that
-individuals make of their freedoms, depend on social associations­
-particularly on the interactive formation of public perceptions and
+arrangements more appropriate and effective. Also, individual conceptions of justice and propriety, which influence the specific uses that
+individuals make of their freedoms, depend on social associationsparticularly on the interactive formation of public perceptions and
 on collaborative comprehension of problems and remedies. The
 analysis and assessment of public policies have to be sensitive to these
 diverse connections.
@@ -2531,28 +2482,21 @@ The issue of participation is also central to some of the foundational
 questions that have plagued the force and reach of development
 theory. For example, it has been argued by some that economic
 development as we know it may actually be harmful for a nation,
-since it may lead to the elimination of its traditions and cultural heri­
-tage. 29 Objections of this kind are often quickly dismissed on the
+since it may lead to the elimination of its traditions and cultural heritage. 29 Objections of this kind are often quickly dismissed on the
 ground that it is better to be rich and happy than to be impoverished
 and traditional. This may be a persuasive slogan, but it is scarcely an
 adequate response to the critique under discussion. Nor does it reflect
 a serious engagement with the critical valuational issue that is being
 raised by development skeptics.
 
-The more serious issue, rather, concerns the source of author­
-ity and legitimacy. There is an inescapable valuational problem in­
-volved in deciding what to choose if and when it turns out that
+The more serious issue, rather, concerns the source of authority and legitimacy. There is an inescapable valuational problem involved in deciding what to choose if and when it turns out that
 some parts of tradition cannot be maintained along with economic
 or social changes that may be needed for other reasons. It is a choice
-that the people involved have to face and assess. The choice is nei­
-ther closed (as many development apologists seem to suggest), nor
+that the people involved have to face and assess. The choice is neither closed (as many development apologists seem to suggest), nor
 is it one for the elite "guardians" of tradition to settle (as many
 development skeptics seem to presume). If a traditional way of life
-has to be sacrificed to escape grinding poverty or minuscule longev­
-ity (as many traditional societies have had for thousands of years),
-then it is the people directly involved who must have the opportu­
-nity to participate in deciding what should be chosen. The real con­
-flict is between
+has to be sacrificed to escape grinding poverty or minuscule longevity (as many traditional societies have had for thousands of years),
+then it is the people directly involved who must have the opportunity to participate in deciding what should be chosen. The real conflict is between
 
 I)
 
@@ -2570,8 +2514,7 @@ gious or secular authorities who enforce traditions-real or imagined.
 
 The force of the former precept lies in the basic importance of
 
-human freedom, and once that is accepted there are strong implica­
-tions on what can or cannot be done in the name of tradition. The
+human freedom, and once that is accepted there are strong implications on what can or cannot be done in the name of tradition. The
 
 approach of "development as freedom" emphasizes this precept.
 
@@ -2589,8 +2532,7 @@ pointer to any real conflict between the preservation of tradition and
 
 the advantages of modernity calls for a participatory resolution, not
 
-for a unilateral rejection of modernity in favor of tradition by politi­
-cal rulers, or religious authorities, or anthropological admirers of the
+for a unilateral rejection of modernity in favor of tradition by political rulers, or religious authorities, or anthropological admirers of the
 
 legacy of the past. The question is not only not closed, it must be
 
@@ -2614,8 +2556,7 @@ eral suppression of media freedom, or of the rights of communication
 
 between one citizen and another. Even if the oddly distorted view of
 
-how authoritarian Confucius really was is accepted as being histori­
-cally correct (a critique of that interpretation will be taken up in
+how authoritarian Confucius really was is accepted as being historically correct (a critique of that interpretation will be taken up in
 
 chapter Io), this still does not give anyone an adequate ground for
 
@@ -2741,8 +2682,7 @@ tears" -a world in which wisdom demands toughness. In particular,
 it demands calculated neglect of various concerns that are seen as
 
 "soft-headed" (even if the critics are often too polite to call them
-that). Depending on what the author's favorite poison is, the tempta­
-tions to be resisted can include having social safety nets that protect
+that). Depending on what the author's favorite poison is, the temptations to be resisted can include having social safety nets that protect
 the very poor, providing social services for the population at large,
 
 departing from rugged institutional guidelines in response to identi­
@@ -2835,9 +2775,7 @@ ment." In the light of the foundational view of development as free­
 
 dom, this question would seem to be defectively formulated, since it
 
-misses the crucial understanding that political participation and dis­
-sent are constitutive parts of development itself. Even a very rich per­
-son who is prevented from speaking freely, or from participating in
+misses the crucial understanding that political participation and dissent are constitutive parts of development itself. Even a very rich person who is prevented from speaking freely, or from participating in
 public debates and decisions, is deprived of something that she has
 
 3 7
@@ -2845,8 +2783,7 @@ public debates and decisions, is deprived of something that she has
 reason to value. The process of development, when judged by the
 enhancement of human freedom, has to include the removal of this
 
-person's deprivation. Even if she had no immediate interest in exer­
-cising the freedom to speak or to participate, it would still be a depri­
+person's deprivation. Even if she had no immediate interest in exercising the freedom to speak or to participate, it would still be a depri­
 
 vation of her freedoms if she were to be left with no choice on these
 matters. Development seen as enhancement of freedom cannot but
@@ -2866,8 +2803,7 @@ ment that these freedoms and rights may also be very effective in
 contributing to economic progress. That instrumental connection is
 
 important as well (and will be discussed particularly in chapters 5
-and 6), but the significance of the instrumental role of political free­
-dom as means to development does not in any way reduce the evalu­
+and 6), but the significance of the instrumental role of political freedom as means to development does not in any way reduce the evalu­
 
 ative importance of freedom as an end of development.
 
@@ -2928,10 +2864,8 @@ exhaustive list, but it may help to focus on some particular policy
 
 issues that demand special attention at this time.
 
-In particular, I shall consider the following types of instrumen­
-tal freedoms: (I) political freedoms, (2) economic facilities, (3) social
-opportunities, (4) transparency guarantees and (5) protective secu­
-rity. These instrumental freedoms tend to contribute to the general
+In particular, I shall consider the following types of instrumental freedoms: (I) political freedoms, (2) economic facilities, (3) social
+opportunities, (4) transparency guarantees and (5) protective security. These instrumental freedoms tend to contribute to the general
 capability of a person to live more freely, but they also serve to com­
 
 plement one another. While development analysis must, on the one
@@ -2940,8 +2874,7 @@ hand, be concerned with the objectives and aims that make these
 instrumental freedoms consequentially important, it must also take
 
 note of the empirical linkages that tie the distinct types of freedom
-together, strengthening their joint importance. Indeed, these connec­
-tions are central to a fuller understanding of the instrumental role of
+together, strengthening their joint importance. Indeed, these connections are central to a fuller understanding of the instrumental role of
 
 freedom. The claim that freedom is not only the primary object of
 
@@ -3116,9 +3049,7 @@ and to significant reductions in mortality rates. Reduction of mor-
 
 4 r
 
-tality rates, in turn, can help to reduce birth rates, reinforcing the influ­
-ence of basic education-especially female literac;y and schooling­
-on fertility behavior.
+tality rates, in turn, can help to reduce birth rates, reinforcing the influence of basic education-especially female literac;y and schoolingon fertility behavior.
 
 The pioneering example of enhancing economic growth through
 social opportunity, especially in basic education, is of course Japan.
@@ -3128,16 +3059,14 @@ Europe had even at the time of the Meiji restoration in the mid­
 nineteenth century, when industrialization had not yet occurred there
 
 but had gone on for many decades in Europe. Japan's economic
-development was clearly much helped by the human resource devel­
-opment related to the social opportunities that were generated. The
+development was clearly much helped by the human resource development related to the social opportunities that were generated. The
 so-called East Asian miracle involving other countries in East Asia
 
 was, to a great extent, based on similar causal connections.4
 
 This approach goes against-and to a great extent undermines­
 
-the belief that has been so dominant in many policy circles that "hu­
-man development" (as the process of expanding education, health
+the belief that has been so dominant in many policy circles that "human development" (as the process of expanding education, health
 
 care and other conditions of human life is often called) is really a
 
@@ -3344,13 +3273,11 @@ convincing ground for dismissing the relevance of social arrange­
 
 ments (going beyond income-based opulence).
 
-It is interesting, in this context, to refer to some statistical analy­
-ses that have recently been presented by Sudhir Anand and Martin
+It is interesting, in this context, to refer to some statistical analyses that have recently been presented by Sudhir Anand and Martin
 
 Ravallion.7 On the basis of intercountry comparisons, they find that
 
-life expectancy does indeed have a significantly positive correla­
-tion with GNP per head, but that this relationship works mainly
+life expectancy does indeed have a significantly positive correlation with GNP per head, but that this relationship works mainly
 through the impact of GNP on ( r) the incomes specifically of the
 poor and (2) public expenditure particularly in health care. In fact,
 
@@ -3388,9 +3315,7 @@ the nature and severity of what is called "the Asian economic crisis.,
 
 That crisis is indeed serious, and points to particular failures of
 
-economies that were earlier seen-mistakenly-as being comprehen­
-sively successful. I shall have the opportunity of considering the spe­
-cial problems and specific failures involved in the Asian economic
+economies that were earlier seen-mistakenly-as being comprehensively successful. I shall have the opportunity of considering the special problems and specific failures involved in the Asian economic
 crisis (particularly in chapters 6 and 7). But it would be an error not
 to see the great achievements of the East Asian and Southeast Asian
 
@@ -3404,8 +3329,7 @@ and longevities of people in the countries involved. The problems
 that these countries now face {and have potentially harbored for a
 long time), which demand attention (including the overall need for
 political freedoms and open participation as well as for protective
-security), should not induce us to ignore these countries' achieve­
-ments in the fields in which they have done remarkably well.
+security), should not induce us to ignore these countries' achievements in the fields in which they have done remarkably well.
 
 For a variety of historical reasons, including a focus on basic
 
@@ -3415,16 +3339,13 @@ achieve in many of the East Asian and Southeast Asian economies in
 a way it has not been possible in, say, Brazil or India or Pakistan,
 where the creation of social opportunities has been much slower
 and that slowness has acted as a barrier to economic development. 8
-The expansion of social opportunities has served to facilitate high­
-employment economic development and has also created favorable
+The expansion of social opportunities has served to facilitate highemployment economic development and has also created favorable
 
 circumstances for reduction of mortality rates and for expansion of
 
 life expectancy. The contrast is sharp with some other high-growth
 countries-such as Brazil-which have had almost comparable growth
-of GNP per head, but also have quite a history of severe social in­
-equality, unemployment and neglect of public health care. The lon­
-gevity achievements of these other high-growth economies have moved
+of GNP per head, but also have quite a history of severe social inequality, unemployment and neglect of public health care. The longevity achievements of these other high-growth economies have moved
 
 more slowly.
 
@@ -3717,8 +3638,7 @@ i2000
 
 3ooo
 
-Sources: Country data, I994, World Bank, World Development Report r996; Ker­
-ala dat� Life expectancy, I989-1993, Sample Registration System cited in Govern�
+Sources: Country data, I994, World Bank, World Development Report r996; Kerala dat� Life expectancy, I989-1993, Sample Registration System cited in Govern�
 ment of India (I997), Department of Education, Women in India: A Statistical
 Profile; Domestic product per capita, 1992-1993, Government of India (1997},
 Minisuy of Finance, Economic Survey 1996-1997.
@@ -3737,8 +3657,7 @@ support-led processes in poor countries, since resources are surely
 
 needed to expand public services, including health care and educa­
 
-tion. In fact, the need for resources is frequently presented as an argu­
-ment for postponing socially important investments until a country is
+tion. In fact, the need for resources is frequently presented as an argument for postponing socially important investments until a country is
 
 already richer. Where (as the famous rhetorical question goes) are the
 
@@ -3754,8 +3673,7 @@ which lies very considerably in the economics of relative costs. The
 viability of this support-led process is dependent on the fact that the
 
 relevant social services (such as health care and basic education) are
-very labor intensive, and thus are relatively inexpensive in poor­
-and low-wage-economies. A poor economy may have less money
+very labor intensive, and thus are relatively inexpensive in poorand low-wage-economies. A poor economy may have less money
 to spend on health care and education, but it also needs less money to
 spend to provide the same services, which would cost much more in
 
@@ -3775,8 +3693,7 @@ over its support-led alternative; it may, ultimately, offer more, since
 there are more deprivations-other than premature mortality, or
 high morbidity, or illiteracy-that are very directly connected with
 
-the lowness of incomes (such as being inadequately clothed and shel­
-tered). It is clearly better to have high income as well as high
+the lowness of incomes (such as being inadequately clothed and sheltered). It is clearly better to have high income as well as high
 longevity (and other standard indicators of quality of life), rather
 
 than only the latter. This is a point worth emphasizing, since there is
@@ -3830,14 +3747,12 @@ r
 before embarking on rapid expansion of basic education and health
 care. The quality of life can be vastly raised, despite low incomes,
 
-through an adequate program of social services. The fact that educa­
-tion and health care are also productive in raising economic growth
+through an adequate program of social services. The fact that education and health care are also productive in raising economic growth
 
 adds to the argument for putting major emphasis on these social
 
 arrangements in poor economies, without having to wait for "getting
-rich" first.rs The support-led process is a recipe for rapid achieve­
-ment of higher quality of life, and this has great policy importance,
+rich" first.rs The support-led process is a recipe for rapid achievement of higher quality of life, and this has great policy importance,
 
 but there remains an excellent case for moving on from there to
 
@@ -3884,8 +3799,7 @@ were two periods of remarkably fast expansion of support-oriented
 
 policies in this century; they occurred during the two world wars.
 
-Each war situation produced much greater sharing of means of sur­
-vival, including sharing of health care and the limited food supply
+Each war situation produced much greater sharing of means of survival, including sharing of health care and the limited food supply
 
 (through rationing and subsidized nutrition). During the First World
 
@@ -4232,8 +4146,7 @@ I ) { \
 
 +Percentage Decadal Growth of GDP per Capita in U.K., 1901-1960 (Right Scale)
 
-Sources: A. Madison, Phases of Capitalist Development (New York: Oxford Uni­
-versity Press, 1982.); S. Preston et al., Causes of Death (New York: Seminar Press,
+Sources: A. Madison, Phases of Capitalist Development (New York: Oxford University Press, 1982.); S. Preston et al., Causes of Death (New York: Seminar Press,
 1972).
 
 media has strong political incentives to undertake famine prevention.
@@ -4331,8 +4244,7 @@ FOUNDATIONS OF JUSTICE
 
 Let me begin with a parable. Annapurna wants someone to clear up
 
-the garden, which has suffered from past neglect, and three unem­
-ployed laborers-Dinu, Bishanno and Rogini-all very much want
+the garden, which has suffered from past neglect, and three unemployed laborers-Dinu, Bishanno and Rogini-all very much want
 the job. She can hire any one of them, but the work is indivisible and
 she cannot distribute it among the three. Annapurna would get much
 the same work done for much the same payment from any of them,
@@ -4343,17 +4255,14 @@ person to employ.
 She gathers that while all of them are poor, Dinu is the poorest of
 
 the three; everyone agrees on that fact. This makes Annapurna rather
-inclined to hire him ("What can be more important," she asks her­
-self, "than helping the poorest?'').
+inclined to hire him ("What can be more important," she asks herself, "than helping the poorest?'').
 
-However, she also gathers that Bishanno has recently been impov­
-erished and is psychologically most depressed about his predicament.
+However, she also gathers that Bishanno has recently been impoverished and is psychologically most depressed about his predicament.
 Dinu and Rogini are, in contrast, experienced in being poor and are
 used to it. Everyone agrees that Bishanno is the unhappiest of the
 three and would certainly gain more in happiness than the other two.
 This makes Annapurna rather favorable to the idea of giving the job
-to Bishanno ("Surely removing unhappiness has to be," she tells her­
-self, "the first priority").
+to Bishanno ("Surely removing unhappiness has to be," she tells herself, "the first priority").
 
 But Annapurna is also told that Rogini is debilitated from a
 chronic ailment-borne stoically-and could use the money to be
@@ -4381,8 +4290,7 @@ Annapurna wonders what she really should do. She recognizes
 that if she knew only the fact that Dinu is the poorest (and knew
 nothing else), she would have definitely opted for giving the work to
 
-Dinu. She also reflects that had she known only the fact that Bish­
-anno is the unhappiest and would get the most pleasure from the
+Dinu. She also reflects that had she known only the fact that Bishanno is the unhappiest and would get the most pleasure from the
 opportunity (and knew nothing else), she would have had excellent
 
 reasons to hire Bishanno. And she can also see that if she was
@@ -4426,8 +4334,7 @@ the critical importance of the informational bases of competing
 principles.
 
 In the discussion that follows, I comment on both (I) the general
-question of the importance of the informational base for evalua­
-tive judgments and ( 2) the particular issues of the adequacy of the
+question of the importance of the informational base for evaluative judgments and ( 2) the particular issues of the adequacy of the
 
 respective informational bases of some standard theories of social
 ethics and justice, in particular utilitarianism, libertarianism and
@@ -4510,8 +4417,7 @@ ture. They can have an indirect role only through their effects on util­
 
 ity numbers (that is, only to the extent that they may have an impact
 on mental satisfaction, pleasure or happiness). Furthermore, the
-aggregative framework of utilitarianism has no interest in-or sensi­
-tivity to-the actual distribution of utilities, since the concentration
+aggregative framework of utilitarianism has no interest in-or sensitivity to-the actual distribution of utilities, since the concentration
 is entirely on the total utility of everyone taken together. All this pro­
 
 duces a very limited informational base, and this pervasive insensi­
@@ -4561,8 +4467,7 @@ this compliance. They go in different directions, largely driven by
 what information they respectively take as being central to judging
 the justice or acceptability of different social scenarios. The informa­
 
-tional basis of normative theories in general, and of theories of jus­
-tice in particular, is of decisive significance, and can be the crucial
+tional basis of normative theories in general, and of theories of justice in particular, is of decisive significance, and can be the crucial
 
 point of focus in many debates on practical policies (as will be seen
 
@@ -4576,9 +4481,7 @@ great extent, be understood by examining the reach and limits of its
 informational base. On the basis of the problems encountered in the
 different approaches that are commonly used in the context of
 evaluation and policy making, an alternative approach to justice will
-be briefly outlined. It concentrates on the informational base of indi­
-vidual freedoms (not utilities), but incorporates sensitivity to conse­
-quences which, I would argue, is an appreciable asset of the utilitarian
+be briefly outlined. It concentrates on the informational base of individual freedoms (not utilities), but incorporates sensitivity to consequences which, I would argue, is an appreciable asset of the utilitarian
 perspective. I shall examine this "capability approach" to justice
 more fully later on in the present chapter and in the next one.
 
@@ -4589,10 +4492,8 @@ The informational base of standard utilitarianism is t�e .:u.tility..sum
 /II.
 
 itarianism, the "utility" of a person stands for some measure of his or
-her pleasure or happiness. The idea is to pay attention to each per­
-son's well-being, and in particular to see well-being as essentially a
-mental characteristic, viz., the pleasure or happiness generated. Inter­
-personal comparisons of happiness cannot, of course, be done very
+her pleasure or happiness. The idea is to pay attention to each person's well-being, and in particular to see well-being as essentially a
+mental characteristic, viz., the pleasure or happiness generated. Interpersonal comparisons of happiness cannot, of course, be done very
 precisely, nor through standard scientific methods. 6 Nevertheless,
 most of us do not find it absurd (or "meaningless") to identify some
 people as being decidedly less happy and more miserable than others.
@@ -4601,15 +4502,12 @@ alia, the most influential theory of justice-for much over a century.
 The traditional economics of welfare and of public policy was for a
 very long time dominated by this approach, initiated in its modern
 form by Jeremy Bentham, and pursued by such economists as John
-Stuart Mill, William Stanley Jevons, Henry Sidgwick, Francis Edge­
-worth, Alfred Marshall and A. C. Pigou.7
+Stuart Mill, William Stanley Jevons, Henry Sidgwick, Francis Edgeworth, Alfred Marshall and A. C. Pigou.7
 
 The requirements of utilitarian evaluation can be split into three
 distinct components. The first component is "consequentialism" (not
 a prepossessing word), and it stands for the claim that all choices (of
-actions, rules, institutions, and so on) must be judged by their conse­
-quences, that is, by the results they generate. This focus on the con­
-sequent state of affairs denies particularly the tendency of some
+actions, rules, institutions, and so on) must be judged by their consequences, that is, by the results they generate. This focus on the consequent state of affairs denies particularly the tendency of some
 normative theories to regard some principles to be right irrespec-
 
 ., :
@@ -4626,8 +4524,7 @@ performed can be seen as one of the "consequences" of that action,
 which-in an obvious sense-it clearly is).
 
 The second component of utilitarianism is '�wel�ari.sm," which
-restricts the judgments of state of affairs to the utilities in the respec­
-tive states (paying no direct attention to such things as ��Jfillmen:t_
+restricts the judgments of state of affairs to the utilities in the respective states (paying no direct attention to such things as ��Jfillmen:t_
 or violation of rights, duties, and so on). When welfarism is coml;Iiied� with ____ conseq�e�ti�li���- :We. ge·t··-th� requirement that every
 choice must be judged by the respective utilities it generates. For
 example, any action is judged by the consequent state of affairs
@@ -4643,11 +4540,9 @@ The three components together yield the classic utilitarian formula of
 judging every choice by the sum total of utilities generated through
 that choice. 8
 
-In this utilitarian view, init�:.�ti.�e- consists in aggregate loss of util­
-ity compared with what could have been achieved. An unjust society,
+In this utilitarian view, init�:.�ti.�e- consists in aggregate loss of utility compared with what could have been achieved. An unjust society,
 in this view, is one in which people are significantly less happy, taken
-together, than they need be. The concentration on happiness or plea­
-sure has been removed in some modern forms of utilitarianism. In
+together, than they need be. The concentration on happiness or pleasure has been removed in some modern forms of utilitarianism. In
 one variation, utility is defined as desire fulfillment. In this view, what
 is relevant is the strength of the desire that is being fulfilled, and not
 the intensity of the happiness that is generated.
@@ -4656,8 +4551,7 @@ the intensity of the happiness that is generated.
 
 Since neither happiness nor desire is very easy to measure, utility
 is often defined in modern economic analysis as some numerical
-. representation of a person's observabL�_�oic��· There are some tech­
-i · nical issues in representability, which :riet;d-not detain us here. The
+. representation of a person's observabL�_�oic��· There are some techi · nical issues in representability, which :riet;d-not detain us here. The
 tive � over
 
 pers�n wo�� ch�os� an
@@ -4801,14 +4695,12 @@ others have so little-and they have gone on to demand the abolition
 
 of private property.
 
-One can indeed entertain different views on the intrinsic attrac­
-tions or repulsive features of private property. The consequentialist
+One can indeed entertain different views on the intrinsic attractions or repulsive features of private property. The consequentialist
 
 approach suggests that we must not be swayed only by these features,
 and must examine the consequences of having-or not having­
 
-property rights. Indeed, the more influential defenses of private prop­
-erty tend to come from pointers to its positive consequences. It is
+property rights. Indeed, the more influential defenses of private property tend to come from pointers to its positive consequences. It is
 
 pointed out that private property has proved to be, in terms of
 
@@ -4846,8 +4738,7 @@ though full utilitarianism would insist on a very specific way of judg­
 ing consequences and their relevance. The general case for taking full
 
 note of results in judging policies and institutions is a momentous
-and plausible requirement, which has gained much from the advo­
-cacy of utilitarian ethics.
+and plausible requirement, which has gained much from the advocacy of utilitarian ethics.
 
 Similar arguments can be presented in favor of taking note of
 
@@ -4868,8 +4759,7 @@ tional base.
 LIMITATIONS OF THE UTILITARIAN PERSPECTIVE
 
 The handicaps of the utilitarian approach can also be traced to its
-informational base. Indeed, it is not hard to find fault with the utili­
-tarian conception of justice. :n To mention just a few, the following
+informational base. Indeed, it is not hard to find fault with the utilitarian conception of justice. :n To mention just a few, the following
 would appear to be among the deficiencies that a fully utilitarian
 
 approach yields.
@@ -5029,8 +4919,7 @@ be matters of life and death, be lower than that of personal liberties?
 
 This issue was forcefully raised in a general form by Herbert Hart a
 
-long time ago (in a famous article in 1973 ). John Rawls has acknowl­
-edged the force of this argument in his later book Political Liberalism
+long time ago (in a famous article in 1973 ). John Rawls has acknowledged the force of this argument in his later book Political Liberalism
 and suggested ways of accommodating it within the structure of his
 theory of justice. I6
 
@@ -5057,8 +4946,7 @@ individual advantages of other kinds.
 
 The critical issue, I would submit, is not complete precedence, but
 
-whether a person's liberty should get just the same kind of impor­
-tance (no more) that other types of personal advantages-incomes,
+whether a person's liberty should get just the same kind of importance (no more) that other types of personal advantages-incomes,
 
 utilities and so on-have. In particular, the question is whether the
 
@@ -5090,8 +4978,7 @@ r
 
 6 5
 
-own overall advantage. The claim of preeminence of liberty (includ­
-ing basic political liberties and civil rights) disputes that it is adequate
+own overall advantage. The claim of preeminence of liberty (including basic political liberties and civil rights) disputes that it is adequate
 to judge liberty simply as an advantage-like an extra unit of
 income-that the person herself receives from that liberty.
 
@@ -5107,8 +4994,7 @@ increases an individual's own personal advantage, which is only a
 
 part of what is involved. The claim here is that the political signifi­
 
-cance of rights can far exceed the extent to which the personal advan­
-tage of the holders of these rights is enhanced by having these rights.
+cance of rights can far exceed the extent to which the personal advantage of the holders of these rights is enhanced by having these rights.
 
 The interests of others are also involved (since liberties of different
 
@@ -5116,8 +5002,7 @@ people are interlinked), and also the violation of liberty is a proce­
 
 dural transgression that we may have reason to resist as a bad thing
 
-in itself. There is, thus, an asymmetry with other sources of indi­
-vidual advantage, for example incomes, which would be valued
+in itself. There is, thus, an asymmetry with other sources of individual advantage, for example incomes, which would be valued
 
 largely on the basis of how much they contribute to the respective
 
@@ -5232,8 +5117,7 @@ In terms of its informational basis, libertarianism as an approach
 is just too limited. Not only does it ignore those variables to which
 utilitarian and welfarist theories attach great importance, but it also
 neglects the most basic freedoms that we have reason to treasure and
-demand. Even if liberty is given a special status, it is highly implausi­
-ble to claim that it would have as absolute and relentless a priority as
+demand. Even if liberty is given a special status, it is highly implausible to claim that it would have as absolute and relentless a priority as
 libertarian theories insist it must have. We need a broader informa­
 
 tional basis of justice.
@@ -5242,8 +5126,7 @@ UTILITY, REAL INCOME AND
 
 INTERPERSONAL COMPARISONS
 
-In traditional utilitarian ethics, "utility" is defined simply as happi­
-ness or pleasure, and sometimes as the fulfillment of desires. These
+In traditional utilitarian ethics, "utility" is defined simply as happiness or pleasure, and sometimes as the fulfillment of desires. These
 ways of seeing utility in terms of mental metrics (of happiness or of
 
 desire) have been used not only by such pioneering philosophers as
@@ -5252,14 +5135,12 @@ Edgeworth, Alfred Marshall, A. C. Pigou and Dennis Robertson. As
 was discussed earlier in this chapter, this mental metric is subject to
 distortions brought about by psychological adjustment to persistent
 deprivation. This is indeed a major limitation of the reliance on the
-subjectivism of mental metrics such as pleasures or desires. Can utili­
-tarianism be rescued from this limitation?
+subjectivism of mental metrics such as pleasures or desires. Can utilitarianism be rescued from this limitation?
 
 In modern use of "utility" in contemporary choice theory, its
 
 identification with pleasure or desire-fulfillment has been largely
-abandoned in favor of seeing utility simply as the numerical repre­
-sentation of a person's choice. I should explain that this change has
+abandoned in favor of seeing utility simply as the numerical representation of a person's choice. I should explain that this change has
 occurred not really in response to the problem of mental adjustment,
 but mainly in reaction to the criticisms made by Lionel Robbins and
 
@@ -5281,8 +5162,7 @@ in using interpersonal comparison of utilities, the fuller version of the
 i �in_stat�_y.,.
 \ -1
 
-utilitarian tradition soon gave way to various compromises. The par­
-ticular compromise that is extensively used now is to take utility to
+utilitarian tradition soon gave way to various compromises. The particular compromise that is extensively used now is to take utility to
 be nothing other than the representation of a person's preference. As
 was mentioned earlier, in this version of utility theory, to say that a
 person has more utility in state x than in state y is not essentially dif-
@@ -5295,16 +5175,13 @@ person has more utility in state x than in state y is not essentially dif-
 This approach has the advantage of not requiring that we undertake the difficult exercise of comparing different persons' mental con­
 
 ditions (such as pleasures or desires), but correspondingly, it closes
-the door altogether to the possibility of direct interpersonal com­
-parisons of utilities (utility is each individual's separately scaled rep­
-resentation of her preferences). Since a person does not really have
+the door altogether to the possibility of direct interpersonal comparisons of utilities (utility is each individual's separately scaled representation of her preferences). Since a person does not really have
 the option of becoming someone else, interpersonal comparisons of
 choice-based utility cannot be "read off" from the actual choices.:w
 If different persons have different preferences (reflected in, say,
 different demand functions), there is obviously no way of getting
 interpersonal comparisons from these diverse preferences. But what
-if they shared the same preference and made the same choices in simi­
-lar circumstances? Admittedly, this would be a very special case
+if they shared the same preference and made the same choices in similar circumstances? Admittedly, this would be a very special case
 
 (indeed, as Horace noted, ''there are as many preferences as there are
 
@@ -5314,8 +5191,7 @@ parisons can be made under this very special assumption. Indeed, the
 
 assumption of common preference and choice behavior is quite often
 
-made in applied welfare economics, and this is frequently used to jus­
-tify the assumption that everyone has the same utility function. This
+made in applied welfare economics, and this is frequently used to justify the assumption that everyone has the same utility function. This
 is stylized interpersonal utility comparison with a vengeance. Is that
 presumption legitimate for the interpretation of utility as a numerical
 
@@ -5357,14 +5233,11 @@ very big difference in practice as well. For example, even if a person :
 who is depressed or disabled or ill happens to have the same demand ;. ·: ',
 function over commodity bundles as another who is not disadvan- \ .
 taged in this way, jt woukLbe qui��b�u.£d.� insist that sh�is_haying
-the same utility (or well-being, or quality of life) J�9ID:.c:l given com­
-modity bundle as the other can get .from it. For example, a poor ·per­
-son with' a''parasii:!c. stomach ailment may prefer two kilos of rice ! ·'
+the same utility (or well-being, or quality of life) J�9ID:.c:l given commodity bundle as the other can get .from it. For example, a poor ·person with' a''parasii:!c. stomach ailment may prefer two kilos of rice ! ·'
 over one, in much the same way that another person-equally poor �)
 but with no ailment-may, but it would be hard to argue that both i ;.
 do equally well with, say, one kilo of rice. Thus, the assumption of��!·
-the same choice behavior and same demand function (not a particu­
-larly realistic presumption, anyway) would provide no reason to
+the same choice behavior and same demand function (not a particularly realistic presumption, anyway) would provide no reason to
 ��pect t�.e same :!J:�g��y.Jgn���PP.· Interpersonal comparisons are quite
 a distinct matter from explaining choice behavior, and the two can be
 identified only through a conceptual confusion.
@@ -5382,8 +5255,7 @@ comparisons as putative utility comparisons are quite severe, partly
 because of the complete arbitrariness (even when demand functions
 of different persons are congruent) of the assumption that the same
 commodity bundle must yield the same level of utility to different
-persons, and also because of the difficulties in indexing even the com­
-modity basis of utility (when demand functions are divergent).:z.3
+persons, and also because of the difficulties in indexing even the commodity basis of utility (when demand functions are divergent).:z.3
 
 At the practical level, perhaps the biggest difficulty in the real- i
 income approach �9 . . well-being lies in the diversity C?.f...hgman-heingst_J •
@@ -5425,8 +5297,7 @@ _
 
 limit the usefulness of real-income comparisons for judging different
 persons' respective advantages. The different difficulties are briefly
-considered in the next section, before I proceed to consider an alter­
-native approach to interpersonal comparison of advantages.
+considered in the next section, before I proceed to consider an alternative approach to interpersonal comparison of advantages.
 
 WELL-BEING: DlVERSITIES AND HETEROGENEITIES
 
@@ -5453,8 +5324,7 @@ l
 
 : and freedom-we get out of them.
 
-r) Personal heterogeneities: People have disparate physical char­
-acteristics connected with disability; illness, age or gender, and these
+r) Personal heterogeneities: People have disparate physical characteristics connected with disability; illness, age or gender, and these
 make their needs diverse. For example, an ill person may need more
 income to fight her illness-income that a person without such an ill ..
 ness would not need; and even with medical treatment the ill person
@@ -5464,8 +5334,7 @@ prosthesis, an older person more support and help, a pregnant woman
 more nutritional intake, and so on. The "compensation" needed for
 disadvantages will vary, and furthermore some disadvantages may
 net.be fully "correctable" even with income transfer.
-(, .. �} Environmental diversities: Variations in environmental con­
-ditions, such as climatic circumstances (temperature ranges, rainfall,
+(, .. �} Environmental diversities: Variations in environmental conditions, such as climatic circumstances (temperature ranges, rainfall,
 flooding and so on), can influence what a person gets out of a given
 level of income. Heating and clothing requirements of the poor in
 colder climates cause problems that may not be shared by equally
@@ -5485,11 +5354,9 @@ the prevalence or absence of crime and violence . in the particular
 location. Issues of epidemiology and pollution are both environmen­
 
 tal and socially influenced. Aside from public facilities, the nature of
-community relationships can be very important, as the recent litera­
-ture on "social capital,, has tended to emphasize . .2.s
+community relationships can be very important, as the recent literature on "social capital,, has tended to emphasize . .2.s
 
-4) Differences in relational perspectives: The commodity re­
-quirements of established patterns of behavior tnay vary between
+4) Differences in relational perspectives: The commodity requirements of established patterns of behavior tnay vary between
 
 j
 
@@ -5657,8 +5524,7 @@ opment Programme (UNDP) has been publishing annual reports on
 actual lives lived by people, especially by the relatively deprived.H
 
 Taking an interest in the lives that people actually lead is not new
-in economics (as was pointed out in chapter I). Indeed, the Aris­
-totelian account of the human good (as Martha Nussbaum discusses)
+in economics (as was pointed out in chapter I). Indeed, the Aristotelian account of the human good (as Martha Nussbaum discusses)
 
 was explicitly linked to the necessity to "first ascertain the function
 
@@ -5707,8 +5573,7 @@ they had no linen. But in the present times, through the greater
 part of Europe, a creditable day-labourer would be ashamed
 to appear in public without a linen shirt, the want of which
 
-would be supposed to denote that disgraceful degree of pov­
-erty which, it is presumed, nobody can well fall into without
+would be supposed to denote that disgraceful degree of poverty which, it is presumed, nobody can well fall into without
 extreme bad conduct. Custom, in the same manner, has ren­
 
 dered leather shoes a necessary of life in England. The poorest
@@ -5733,8 +5598,7 @@ seen on their own.
 
 WELL .. BEING, FREEDOM AND CAPABILITY
 
-I have tried to argue for some time now that for many evaluative pur­
-poses, the appropriate "space" is neither that of utilities (as claimed
+I have tried to argue for some time now that for many evaluative purposes, the appropriate "space" is neither that of utilities (as claimed
 
 by welfarists), nor that of primary goods (as demanded by Rawls),
 
@@ -5775,8 +5639,7 @@ tioning combinations (or, less formally put, the freedom to achieve
 
 various lifestyles). For example, an affluent person who fasts may
 
-have the same functioning achievement in terms of eating or nour­
-ishment as a destitute person who is forced to starve, but the first per­
+have the same functioning achievement in terms of eating or nourishment as a destitute person who is forced to starve, but the first per­
 
 son does have a different "capability set" than the second (the first
 
@@ -5914,9 +5777,7 @@ perspective for evaluative purposes? Quite the contrary. To insist that
 there should be only one homogeneous magnitude that we value is to
 reduce drastically the range of our evaluative reasoning. It is not, for
 example, to the credit of classical utilitarianism that it values only
-pleasure, without taking any direct interest in freedom, rights, cre­
-ativity or actual living conditions. To insist on the mechanical com­
-fort of having just one homogeneous "good thing" would be to deny
+pleasure, without taking any direct interest in freedom, rights, creativity or actual living conditions. To insist on the mechanical comfort of having just one homogeneous "good thing" would be to deny
 our humanity as reasoning creatures. It is like seeking to make the life
 of the chef easier by finding something which-and which alone-we
 all like (such as smoked salmon, or perhaps even french fries), or
@@ -5927,18 +5788,15 @@ Heterogeneity of factors that influence individual advantage is a
 pervasive feature of actual evaluation. While we can decide to close
 our eyes to this issue by simply assuming that there is some one
 homogeneous thing (such as "income" or "utility") in terms of which
-everyone's overall advantage can be judged and interpersonally com­
-pared (and that variations of needs, personal circumstances and so
+everyone's overall advantage can be judged and interpersonally compared (and that variations of needs, personal circumstances and so
 on can be assumed away), this does not resolve the problem but only
 evades it. Preference fulfillment may have some obvious attraction in
-dealing with one person's individual needs, but (as was discussed ear­
-lier) it does little, on its own, for interpersonal comparisons, central
+dealing with one person's individual needs, but (as was discussed earlier) it does little, on its own, for interpersonal comparisons, central
 to any social evaluation. Even when each person's preference is taken
 to be the ultimate arbiter of the well-being for that person, even when
 everything other than well-being (such as freedom) is ignored, and
 even when-to take a very special case-everyone has the same
-demand function or preference map, the comparison of market valu­
-ations of commodity bundles (or their relative placement on a shared
+demand function or preference map, the comparison of market valuations of commodity bundles (or their relative placement on a shared
 system-of�indifference map in the commodity space) tells us little
 about interpersonal comparisons.
 
@@ -5950,8 +5808,7 @@ f
 ,
 )
 
-heterogeneity is explicitly admitted. For example, in Rawlsian analy­
-sis primary goods are taken to be constitutively diverse (including
+heterogeneity is explicitly admitted. For example, in Rawlsian analysis primary goods are taken to be constitutively diverse (including
 "rights, liberties and opportunities, income and wealth, and the
 social basis of self-respect'>), and Rawls deals with them through an
 
@@ -5995,8 +5852,7 @@ can be resolved only through reasoned evaluation. For a particular
 
 person, who is making his or her own judgments, the selection of
 
-weights will require reflection, rather than any interpersonal agree­
-ment (or consensus). However, in arriving at an "agreed', range for
+weights will require reflection, rather than any interpersonal agreement (or consensus). However, in arriving at an "agreed', range for
 social evaluation (for example, in social studies of poverty), there has
 to be some kind of a reasoned "consensus" on weights, or at least on
 a range of weights. This is a ''social choice"' exercise, and it requires
@@ -6014,8 +5870,7 @@ There is an interesting choice here between �'technocracy" and
 "democracy'' in the selection of weights, which may be worth dis­
 
 cussing a little. A choice procedure that relies on a democratic search
-for agreement or a consensus can be extremely messy, and many tech­
-nocrats are sufficiently disgusted by its messiness to pine for some
+for agreement or a consensus can be extremely messy, and many technocrats are sufficiently disgusted by its messiness to pine for some
 
 wonderful formula that would simply give us ready-made weights
 that are "just right." However, no such magic formula does, of
@@ -6030,9 +5885,7 @@ particular formula-rather than any alternative formula-be used
 for aggregation, but in this inescapably social�choice exercise its sta�
 
 tus must depend on its acceptability to others. There is nevertheless a
-hankering after some "obviously correct" formula to which reason­
-able people cannot object. A good example comes from T. N. Srini­
-vasan's forceful critique of the capability approach (and its partial
+hankering after some "obviously correct" formula to which reasonable people cannot object. A good example comes from T. N. Srinivasan's forceful critique of the capability approach (and its partial
 use in UNDP's fluman Development Reports), where he worries
 
 about the "varying importance of different capabilities" and pro­
@@ -6105,11 +5958,9 @@ that the respective people can lead. Real incomes can, thus, be rather
 poor indicators of important components of well-being and quality
 
 of life that people have reason to value. More generally, the need for
-evaluative judgments is inescapable in comparing individual well­
-being, or quality of life. Furthermore, anyone who values public
+evaluative judgments is inescapable in comparing individual wellbeing, or quality of life. Furthermore, anyone who values public
 
-scrutiny must be under some obligation to make clear that a judg­
-ment is being made in using real incomes for this purpose and that
+scrutiny must be under some obligation to make clear that a judgment is being made in using real incomes for this purpose and that
 the weights implicitly used must be subjected to evaluative scrutiny.
 
 In this context, the fact that market-price-based evaluation of utility
@@ -6118,8 +5969,7 @@ from commodity bundles gives the misleading impression-at least
 
 to some-that an already available "operational metric" has been
 preselected for evaluative use is a limitation rather than an asset. If
-informed scrutiny by the public is central to any such social evalua­
-tion (as I believe is the case), the implicit values have to be made more
+informed scrutiny by the public is central to any such social evaluation (as I believe is the case), the implicit values have to be made more
 explicit, rather than being shielded from scrutiny on the spurious
 
 ground that they are part of an ''already available" metric that the
@@ -6151,8 +6001,7 @@ weights for open public discussion and critical scrutiny. In any choice
 of criteria for evaluative purposes, there would not only be use of
 value judgments, but also, quite often, use of some judgments on
 
-which full agreement would not exist. This is inescapable in a social­
-choice exercise of this kind.5s The real issue is whether we can use
+which full agreement would not exist. This is inescapable in a socialchoice exercise of this kind.5s The real issue is whether we can use
 
 some criteria that would have greater public support, for evaluative
 purposes, than the crude indicators often recommended on allegedly
@@ -6287,17 +6136,14 @@ and the prevalence and magnitude of joblessness can add to the par-
 
 tial illumination provided by the traditional measures in the income
 
-space. Such extensions can enrich the overall understanding of prob­
-lems of inequality and poverty by adding to what gets known through
+space. Such extensions can enrich the overall understanding of problems of inequality and poverty by adding to what gets known through
 measures of income inequality and income poverty. Essentially, this
-involves using "distinguished capability comparison,, as a supple­
-mentary device.ss
+involves using "distinguished capability comparison,, as a supplementary device.ss
 
 3) The indirect approach: A third line of approach is more
 ambitious than the supplementary approach but remains focused on
 the familiar space of incomes, appropriately adjusted. Information
-on determinants of capabilities other than income can be used to cal­
-culate "adjusted incomes." For example, family income levels may be
+on determinants of capabilities other than income can be used to calculate "adjusted incomes." For example, family income levels may be
 
 adjusted downward by illiteracy and upward by high levels of educa­
 
@@ -6482,8 +6328,7 @@ The constructive part of this chapter proceeded to examine the
 
 implications of focusing directly on the substantive freedoms of the
 
-individuals involved, and identified a general approach that concen­
-trates on the capabilities of people to do things-and the freedom to
+individuals involved, and identified a general approach that concentrates on the capabilities of people to do things-and the freedom to
 
 lead lives-that they have reason to value. I have discussed this
 
@@ -6539,8 +6384,7 @@ understandings, in an attempt to throw light on underdevelopment
 (seen broadly in the form of unfreedom) and development (seen as a
 
 process of removing unfreedoms and of extending the substantive
-freedoms of different types that people have reason to value). A gen­
-eral approach can be used in many different ways, depending on the
+freedoms of different types that people have reason to value). A general approach can be used in many different ways, depending on the
 
 context and on the information that is available. It is this combina­
 
@@ -6584,9 +6428,7 @@ The claims in favor of the capability approach to poverty are, I
 
 believe, the following.
 
-I) Poverty can be sensibly identified in terms of capability depri­
-vation; the approach concentrates on deprivations that are intrinsi­
-cally important (unlike low income, which is only instrumentally
+I) Poverty can be sensibly identified in terms of capability deprivation; the approach concentrates on deprivations that are intrinsically important (unlike low income, which is only instrumentally
 significant).
 
 2) There are influences on capability deprivation-and thus on
@@ -6594,8 +6436,7 @@ real poverty-other than lowness of income (income is not the only
 
 instrument in generating capabilities).
 
-3) The instrumental relation between low income and low capa­
-bility is variable between different communities and even between
+3) The instrumental relation between low income and low capability is variable between different communities and even between
 different families and different individuals (the impact of income on
 
 capabilities is contingent and conditional).2.
@@ -6750,8 +6591,7 @@ What the capability perspective does in poverty analysis is to
 enhance the understanding of the nature and causes of poverty and
 deprivation by shifting primary attention away from means (and one
 particular means that is usually given exclusive attention, viz.,
-income) to ends that people have reason to pursue, and, correspond­
-ingly, to the freedoms to be able to satisfy these ends. The examples
+income) to ends that people have reason to pursue, and, correspondingly, to the freedoms to be able to satisfy these ends. The examples
 briefly considered here illustrate the additional discernment that
 
 results from this basic extension. The deprivations are seen at a more
@@ -6787,8 +6627,7 @@ removal of income poverty. It is not only the case that, say, better
 basic education and health care improve the quality of life directly;
 
 they also increase a person's ability to earn an income and be free of
-income-poverty as well. The more inclusive the reach of basic educa­
-tion and health care, the more likely it is that even the potentially
+income-poverty as well. The more inclusive the reach of basic education and health care, the more likely it is that even the potentially
 
 poor would have a better chance of overcoming penury.
 
@@ -6844,8 +6683,7 @@ India is, of course, highly diverse in terms of human development,
 with some regions (most notably, Kerala) having much higher levels
 
 of education, health care and land reform than others (most notably,
-Bihar, Uttar Pradesh, Rajasthan and Madhya Pradesh). The limita­
-tions have taken different forms in the different states. It can be
+Bihar, Uttar Pradesh, Rajasthan and Madhya Pradesh). The limitations have taken different forms in the different states. It can be
 
 argued that Kerala has suffered from what were until recently fairly
 
@@ -6867,8 +6705,7 @@ relevance of complementarity is very strong in remedying the diverse
 drawbacks.
 
 It is, however, interesting that despite the rather moderate record
-in economic growth, Kerala seems to have had a faster rate of reduc­
-tion in income poverty than any other state in India. rs While some
+in economic growth, Kerala seems to have had a faster rate of reduction in income poverty than any other state in India. rs While some
 
 states have reduced income poverty through high economic growth
 
@@ -6956,13 +6793,10 @@ rion that Thomas Scanlon has proposed-and powerfully used-for
 ethical evaluation).18 Certainly, severe inequalities are not socially
 attractive, and momentous inequalities can be, some would argue,
 downright barbaric. Furthermore, the sense of inequality may also
-erode social cohesion, and some types of inequalities can make it dif­
-ncult to achieve even efficiency.
+erode social cohesion, and some types of inequalities can make it difncult to achieve even efficiency.
 
-And yet attempts to eradicate inequality can, in many circum­
-stances, lead to loss for most-sometimes even for all. This kind of
-conflict can arise in mild or severe form depending on the exact cir­
-cumstances. Models of justice
+And yet attempts to eradicate inequality can, in many circumstances, lead to loss for most-sometimes even for all. This kind of
+conflict can arise in mild or severe form depending on the exact circumstances. Models of justice
 involving the "impartial spectator,"
 or the "original position," or not�reasonable-rejection-have to take
 note of these diverse considerations.
@@ -6982,8 +6816,7 @@ Atkinson's "equally distributed equivalent income," a concept that
 
 adjusts the aggregate income by reducing its accounted value accord­
 
-ing to the extent of inequality in income distribution, with the trade­
-off between aggregative and distributive concerns being given by the
+ing to the extent of inequality in income distribution, with the tradeoff between aggregative and distributive concerns being given by the
 
 choice of a parameter that reflects our ethical judgment. 2-o
 
@@ -7021,9 +6854,7 @@ the usual sense, but is clearly poor in terms of an important freedom.
 
 Someone who is richer than most others but suffers from an ailment
 that is very expensive to treat is obviously deprived in an important
-way, even though she would not be classified as poor in the usual sta­
-tistics of income distribution. A person who is denied the opportu­
-nity of employment but given a handout from the state as an
+way, even though she would not be classified as poor in the usual statistics of income distribution. A person who is denied the opportunity of employment but given a handout from the state as an
 
 "unemployment benefit'' may look a lot less deprived in the space of
 
@@ -7171,9 +7002,7 @@ The inequality between different racial groups in the United States
 
 has received considerable attention recently. For example, in the
 
-space of incomes African Americans are decidedly poorer than Ameri­
-can whites. This is very often seen as an example of relative depriva­
-tion of African Americans within the nation, but not compared with
+space of incomes African Americans are decidedly poorer than American whites. This is very often seen as an example of relative deprivation of African Americans within the nation, but not compared with
 
 poorer people in the rest of the world. Indeed, in comparison with
 
@@ -7420,8 +7249,7 @@ citizen irrespective of means and independent of preexisting condi­
 tions, would very likely be politically intolerable. The limits on gov­
 
 ernmental support for the ilL and the poor are too severe in the United
-States to be at all acceptable in Europe, and so are the social com­
-mitments toward public facilities varying from health care to educa­
+States to be at all acceptable in Europe, and so are the social commitments toward public facilities varying from health care to educa­
 
 tional arrangements, which the European welfare state takes for
 
@@ -7437,8 +7265,7 @@ that magnitude would make a mockery of people's ability to help
 
 themselves. I believe no U.S. government could emerge unscathed
 
-from the doubling of the present level of unemployment, which inci­
-dentally would still keep the U.S. unemployment ratio below what it
+from the doubling of the present level of unemployment, which incidentally would still keep the U.S. unemployment ratio below what it
 currently is in Italy or France or Germany. The nature of the respec­
 
 tive political commitments-and lack thereof-would seem to differ
@@ -7465,15 +7292,12 @@ regions of the world: South Asia and sub-Saharan Africa. They have
 among the lowest levels of per capita income among all the regions,
 but that perspective does not give us an adequate idea of the nature
 and content of their respective deprivations, nor of their comparative
-poverty. If poverty is seen, instead, as the deprivation of basic capa­
-bilities, then a more illuminating picture can be obtained from infor­
-mation on aspects of life in these parts of the world. 26 A brief analysis
+poverty. If poverty is seen, instead, as the deprivation of basic capabilities, then a more illuminating picture can be obtained from information on aspects of life in these parts of the world. 26 A brief analysis
 is attempted below, based on a joint study with Jean Dreze, and on
 
 two follow-up works of this author.27
 
-Around I99I there were fifty-two countries where the expecta­
-tion of life at birth was below sixty years, and those countries had a
+Around I99I there were fifty-two countries where the expectation of life at birth was below sixty years, and those countries had a
 
 combined population of I.69 billion.28 Forty-six of these countries
 
@@ -7482,8 +7306,7 @@ are in South Asia and sub-Saharan Africa-only six are outside these
 two regions (viz. Afghanistan, Cambodia, Haiti, Laos, Papua New
 
 Guinea and Yemen), and the combined population of these six is
-only 3·5 percent of the total population {1.69 billion) of the fifty­
-two low-life-expectancy countries. The whole of South Asia except
+only 3·5 percent of the total population {1.69 billion) of the fiftytwo low-life-expectancy countries. The whole of South Asia except
 
 Sri Lanka (i.e., India, Pakistan, Bangladesh, Nepal and Bhutan) and
 
@@ -7774,8 +7597,7 @@ years or below. Seen in this perspective, the problem of premature
 mortality is enormously sharper in Africa than in India.
 
 But we get a very different balance of disadvantages if we look at
-the prevalence of undernourishment in India via-a-vis Africa. Calcu­
-lations of general undernourishment are much higher in India than in
+the prevalence of undernourishment in India via-a-vis Africa. Calculations of general undernourishment are much higher in India than in
 
 sub-Saharan Africa on the average.36 This is so despite the fact that it
 
@@ -7811,16 +7633,13 @@ at death is a substantial problem in India, but not so in sub-Saharan
 Africa, we see a picture that is much less favorable to India than to
 Africa.39
 
-There are important policy issues related to the nature and com­
-plexity of the respective patterns of deprivation in the two most acute
+There are important policy issues related to the nature and complexity of the respective patterns of deprivation in the two most acute
 regions of poverty in the world. India's advantage over sub-Saharan
 
 Africa in survival relates to a variety of factors that have made
-Africans especially prone to premature mortality. Since indepen­
-dence, India has been relatively free of the problems of famine and
+Africans especially prone to premature mortality. Since independence, India has been relatively free of the problems of famine and
 
-also of large-scale and persistent warfare, which has periodically rav­
-aged a large number of African countries. India's health services­
+also of large-scale and persistent warfare, which has periodically ravaged a large number of African countries. India's health services­
 
 inadequate as they are-have been less overwhelmed by political and
 
@@ -7853,8 +7672,7 @@ The three focal features of deprivation of basic capabilities on
 
 which I have concentrated in comparing and contrasting the nature
 
-of deprivation in India and in sub-Saharan Africa (viz., prema­
-ture mortality, undernourishment and illiteracy) do not, of course,
+of deprivation in India and in sub-Saharan Africa (viz., premature mortality, undernourishment and illiteracy) do not, of course,
 
 provide a comprehensive picture of capability-poverty in these
 
@@ -7864,8 +7682,7 @@ crucial policy issues that demand immediate attention. I have also
 
 not attempted to produce an "aggregate" measure of deprivation,
 
-based on "weighting" the different aspects of capability depriva­
-tion.4I A constructed aggregate may often be far less interesting for
+based on "weighting" the different aspects of capability deprivation.4I A constructed aggregate may often be far less interesting for
 
 policy analysis than the substantive pattern of diverse performances.
 
@@ -8053,8 +7870,7 @@ In fact, more boys than girls are born everywhere (typically about
 
 (Indeed, it appears that even female fetuses have a higher survival
 
-rate than do the male fetuses; the proportion of male fetuses in con­
-ception is even higher than that in birth. 44) It is through the lower
+rate than do the male fetuses; the proportion of male fetuses in conception is even higher than that in birth. 44) It is through the lower
 mortality rates of females that the high female-male ratio of the
 
 "West'' comes about. There are also other causes for this preponder­
@@ -8195,8 +8011,7 @@ to female births-quite out of line with the rest of the world. It can,
 quite possibly, indicate "hiding" of newborn female children (to
 avoid the rigors of compulsory family restriction), but it can, no less
 plausibly, also reflect a higher female infant mortality-whether or
-not induced (with new births and new deaths both going unre­
-ported). However, recently, the brunt of the antifemale bias in family
+not induced (with new births and new deaths both going unreported). However, recently, the brunt of the antifemale bias in family
 composition seems to be in sex-selective abortion, which has become
 quite widespread in China with the progress of technology.
 
@@ -8223,15 +8038,12 @@ has flourished, with major leadership coming from such writers as
 A. B. Atkinson.so This is not to deny that the focus on efficiency to
 the exclusion of other considerations is very evident in some works in
 
-economics, but economists as a group cannot be accused of neglect­
-ing inequality as a subject.
+economics, but economists as a group cannot be accused of neglecting inequality as a subject.
 
-If there is a reason to grumble, it rests more on the relative impor­
-tance that is attached, in much of economics, to inequality in a very
+If there is a reason to grumble, it rests more on the relative importance that is attached, in much of economics, to inequality in a very
 
 narrow domain, viz., income inequality. This narrowness has the
-effect of contributing to the neglect of other ways of seeing inequal­
-ity and equity, which has far-reaching bearing on the making of
+effect of contributing to the neglect of other ways of seeing inequality and equity, which has far-reaching bearing on the making of
 
 ··- -
 
@@ -8314,8 +8126,7 @@ I09
 
 illustrations in this chapter bring out. For example, the estimations of
 "missing women" show the remarkable reach of female disadvantage
-in .many parts of the contemporary world, in a way that other statis­
-tics may not adequately reflect. Also, since the incomes earned by
+in .many parts of the contemporary world, in a way that other statistics may not adequately reflect. Also, since the incomes earned by
 family members are shared by others in the family, we cannot analyze
 gender inequality primarily in terms of income differences. We need
 much more information than is usually available on the division of
@@ -8324,16 +8135,14 @@ economic affluence. However, statistics on mortality rates as well
 as other deprivations (such as undernourishment or illiteracy) can
 directly present a picture of inequality and poverty in some crucial
 dimensions. This information can also be used to relate the extent of
-relative deprivation of women to the existing inequalities in opportu­
-nities (in earning outside income, in being enrolled in schools and
+relative deprivation of women to the existing inequalities in opportunities (in earning outside income, in being enrolled in schools and
 so on). Thus, both descriptive and policy issues can be addressed
 through this broader perspective on inequality and poverty in terms
 of capability deprivation.
 
 Despite the crucial role of incomes in the advantages enjoyed
 by different persons, the relationship between income (and other
-resources), on the one hand, and individual achievements and free­
-doms, on the other, is neither constant nor in any sense automatic
+resources), on the one hand, and individual achievements and freedoms, on the other, is neither constant nor in any sense automatic
 and irresistible. Different types of contingencies lead to systematic
 variations in the "conversion" of incomes into the distinct "func­
 
@@ -8354,8 +8163,7 @@ for the making of public policy.
 The argument is sometimes made that income is a homogeneous
 
 magnitude; whereas capabilities are diverse. This sharp contrast is not
-entirely correct, in the sense that any income evaluation hides inter­
-nal diversities with some special-and often heroic-assumptions.53
+entirely correct, in the sense that any income evaluation hides internal diversities with some special-and often heroic-assumptions.53
 
 Also (as was discussed in chapter 3 ), interpersonal comparisons of
 
@@ -8363,8 +8171,7 @@ real income give us no basis for interpersonal comparisons even of
 
 IIO
 
-utility {though that hiatus is often ignored in applied welfare eco­
-nomics through the imposition of wholly arbitrary assumptions). To
+utility {though that hiatus is often ignored in applied welfare economics through the imposition of wholly arbitrary assumptions). To
 
 get from the comparison of the means in the form of income differ­
 
@@ -8380,8 +8187,7 @@ Furthermore, the need to discuss the valuation of diverse capabili­
 
 ties in terms of public priorities is, I have argued, an asset, forcing us
 to make clear what the value judgments are in a field where value
-judgments cannot be-and should not be avoided. Indeed, pub­
-lic participation in these valuational debates-in explicit or implicit
+judgments cannot be-and should not be avoided. Indeed, public participation in these valuational debates-in explicit or implicit
 forms-is a crucial part of the exercise of democracy and responsi­
 
 ble social choice. In matters of public judgment, there is no real
@@ -8400,8 +8206,7 @@ demand function must have the same relation between commodity
 bundles and well-being (no matter whether one is ill and the other
 
 not, one disabled and the other not, and so on) is basically a way of
-evading the need to consider many significant influences on well­
-being (as was discussed in chapter 3). That evasion becomes trans­
+evading the need to consider many significant influences on wellbeing (as was discussed in chapter 3). That evasion becomes trans­
 
 parent, as I have tried to illustrate, when we supplement income and
 
@@ -8477,8 +8282,7 @@ heresy is now the new superstition.
 II2
 
 The need for critical scrutiny of standard preconceptions and
-political-economic attitudes has never been stronger.1 Today's preju­
-dices (in favor of the pure market n1echanism) certainly need to be
+political-economic attitudes has never been stronger.1 Today's prejudices (in favor of the pure market n1echanism) certainly need to be
 carefully investigated and, I would argue, partly rejected. But we
 have to avoid resurrecting yesterday's follies that refused to see the
 merits of-indeed even the inescapable need for-markets. We have
@@ -8511,17 +8315,13 @@ ket transaction lies in the basic importance of that freedom itself.
 We have good reasons to buy and sell, to exchange, and to seek lives
 
 that can flourish on the basis of transactions. To deny that freedom
-in general would be in itself a major failing of a society. This funda­
-mental recognition is prior to any theorem we may or may not be
-able to prove (on which more presently) in showing what the culmi­
-nation outcomes of markets are in terms of incomes, utilities and
+in general would be in itself a major failing of a society. This fundamental recognition is prior to any theorem we may or may not be
+able to prove (on which more presently) in showing what the culmination outcomes of markets are in terms of incomes, utilities and
 
 so on.2
 
-The ubiquitous role of transactions in modern living is often over­
-looked precisely because we take them for granted. There is an
-analogy here with the rather underrecognized-and often unnoticed­
-role of certain behavioral rules (such as basic business ethics) in
+The ubiquitous role of transactions in modern living is often overlooked precisely because we take them for granted. There is an
+analogy here with the rather underrecognized-and often unnoticedrole of certain behavioral rules (such as basic business ethics) in
 
 developed capitalist economies (with attention being focused only on
 
@@ -8535,11 +8335,9 @@ ference. In the analysis of development, the role of elementary busi�
 
 ness ethics thus has to be moved out of its obscure presence to a
 
-manifest recognition. Similarly, the absence of the freedom to trans­
-act can be a major issue in itself in many contexts.>
+manifest recognition. Similarly, the absence of the freedom to transact can be a major issue in itself in many contexts.>
 
-This is, of course, particularly so when the freedom of labor mar­
-kets is denied by laws, regulations or convention. Even though
+This is, of course, particularly so when the freedom of labor markets is denied by laws, regulations or convention. Even though
 African American slaves in the pre-Civil War South may have had
 
 pecuniary incomes as large as (or even larger than) those of wage
@@ -8561,8 +8359,7 @@ The development of free markets in general and of free seeking of
 employment in particular is a much appreciated fact in historical
 studies. Even that great critic of capitalism Karl Marx saw the emer­
 
-gence of freedom of employment as momentous progress (as was dis­
-cussed in chapter I). But this issue concerns not just history but the
+gence of freedom of employment as momentous progress (as was discussed in chapter I). But this issue concerns not just history but the
 present as well, since this freedom is critically important right now in
 
 many parts of the world. Let me illustrate this point with four quite
@@ -8657,8 +8454,7 @@ children working in exacting tasks are forced to perform them. The
 I I 5
 
 roots of such servitude may go back to the economic deprivation of
-the families from which they come-sometimes the parents are them­
-selves under some kind of bondage vis-a-vis the employers-and on
+the families from which they come-sometimes the parents are themselves under some kind of bondage vis-a-vis the employers-and on
 
 top of the nasty issue of laboring children, there is also the barbarity
 of children being forced to do things. The freedom to go to school, in
@@ -8811,15 +8607,13 @@ real limitations on what can be achieved through various institu­
 
 tional forms of the market mechanism. ro
 
-In the absence of such imperfections (including the nonmar­
-ketability of some goods and services), classical models of general
+In the absence of such imperfections (including the nonmarketability of some goods and services), classical models of general
 
 equilibrium have been used to demonstrate the merits of the market
 
 mechanism in achieving economic efficiency. This is standardly
 
-defined in terms of what economists call "Pareto optimality": a situa­
-tion in which the utility (or welfare) of no one can be raised without
+defined in terms of what economists call "Pareto optimality": a situation in which the utility (or welfare) of no one can be raised without
 
 reducing the utility (or welfare) of someone else . This efficiency
 
@@ -8910,9 +8704,7 @@ the interests of others. r6
 
 The presumption of ubiquitous selfishness is hard to defend
 empirically. Also, there are circumstances more complex than those
-presumed in the Arrow-Debreu model (involving more direct inter­
-dependences between the interests of different persons) in which self­
-interested behavior may be far from effective in generating efficient
+presumed in the Arrow-Debreu model (involving more direct interdependences between the interests of different persons) in which selfinterested behavior may be far from effective in generating efficient
 
 outcomes. Thus, if it were really necessary to assume universal self­
 
@@ -9097,8 +8889,7 @@ Markets� State and Social Opportunity
 
 I 2 r
 
-prices or the low product-qualities that are involved in such artifi­
-cially propped-up production may impose significant sacrifice on
+prices or the low product-qualities that are involved in such artificially propped-up production may impose significant sacrifice on
 the population at large, but an organized and politically influential
 group of "industrialists" can make sure that their profits are well
 
@@ -9186,9 +8977,7 @@ do their best to encourage and support the illusion of radicalism and
 modernity in dusting up generically anti-market positions from the
 distant past.
 
-It is important to join these arguments through open-minded criti­
-cisms of the claims made in favor of general restriction of competi­
-tion. This is not to deny that attention must also be paid to the
+It is important to join these arguments through open-minded criticisms of the claims made in favor of general restriction of competition. This is not to deny that attention must also be paid to the
 political power of those groups that obtain substantial material bene­
 
 fits from restricting trade and exchange. Many authors have pointed
@@ -9197,15 +8986,12 @@ out, with good reason, that the advocacies involved must be judged
 
 by identifying the vested interests involved, and by taking note of the
 influence of "rent-seeking activities" implicit in keeping competition
-away. As Vilfredo Pareto pointed out, in a famous passage, if "a cer­
-tain measure A is the case of the loss of one franc to each of a thou­
-sand persons, and of a thousand franc gain to one individual, the
+away. As Vilfredo Pareto pointed out, in a famous passage, if "a certain measure A is the case of the loss of one franc to each of a thousand persons, and of a thousand franc gain to one individual, the
 latter will expend a great deal of energy , whereas the former will
 resist weakly; and it is likely that, in the end, the person who is
 attempting to secure the thousand francs via A will be successful." .u
 
-Political influence in search of economic gain is a very real phenome­
-non in the world in which we live. 22
+Political influence in search of economic gain is a very real phenomenon in the world in which we live. 22
 
 Confronting such influences has to occur not merely through
 resisting-and perhaps even "exposing" (to use an old-fashioned
@@ -9217,8 +9003,7 @@ Economics does have a long tradition in that critical direction, going
 back at least to Adam Smith himself, who simultaneously pointed his
 
 accusing finger at the perpetrators, and went on to debunk their
-claims in favor of the thesis of social benefits from disallowing com­
-petition. Smith argued that the vested interests tend to win because of
+claims in favor of the thesis of social benefits from disallowing competition. Smith argued that the vested interests tend to win because of
 their ''better knowledge of their own interest'> (not "their knowledge
 of publick interest"}. He wrote:
 
@@ -9306,8 +9091,7 @@ formula-or some all-encompassing attitude-either in favor of
 
 placing everything under the market, or of denying everything to the
 
-market. Even Adam Smith, while firmly advocating the use of mar­
-kets where it could work well (and denying the merits of any general
+market. Even Adam Smith, while firmly advocating the use of markets where it could work well (and denying the merits of any general
 
 rejection of trade and exchange), did not hesitate to investigate eco­
 
@@ -9386,8 +9170,7 @@ market allocation. 29
 
 The issue of a legally imposed maximum interest rate is not of
 
-much current interest in contemporary debates (in this respect Ben­
-tham has clearly won over Smith), but it is important to see why
+much current interest in contemporary debates (in this respect Bentham has clearly won over Smith), but it is important to see why
 
 Smith took such a negative view of the impact of "prodigals and pro­
 
@@ -9692,16 +9475,13 @@ Japan and the rest of East Asia) has drawn on the low cost of public
 
 education combined with its shared public benefits.
 
-It is in this context rather remarkable that some market enthusi­
-asts recommend now to the developing countries that they should
-rely fully on the free market even for basic education-thereby with­
-holding from them the very process of educational expansion that
+It is in this context rather remarkable that some market enthusiasts recommend now to the developing countries that they should
+rely fully on the free market even for basic education-thereby withholding from them the very process of educational expansion that
 
 was crucial in rapidly spreading literacy in Europe, North America,
 Japan, and East Asia in the past. The alleged followers of Adam
 
-Smith can learn something from his writings on this subject, includ­
-ing his frustration at the parsimony of public expenditure in the field
+Smith can learn something from his writings on this subject, including his frustration at the parsimony of public expenditure in the field
 
 of education:
 
@@ -10064,8 +9844,7 @@ out leading to other, adverse effects.
 
 We must distinguish clearly between two different incentive prob­
 
-lems in providing health care or education on the bas.is of means­
-testing, related respectively to the information regarding (I) a person's
+lems in providing health care or education on the bas.is of meanstesting, related respectively to the information regarding (I) a person's
 capability handicap (for example, her physical illness) and (2) her
 
 economic circumstances {and her ability to pay). As far as the first
@@ -10088,21 +9867,16 @@ with providing fungible money for financing medical treatment,
 
 r 3 5
 
-which would require more indirect scrutiny. On this score, the direct­
-service programs such as health care and school education are less
+which would require more indirect scrutiny. On this score, the directservice programs such as health care and school education are less
 
 open to abuse.
 
 But the second issue is quite different. If the intention is to provide
 free service for the poor but not for those who can afford to pay,
-there is the further issue of checking the person's economic circum­
-stances. This can be particularly problematic especially in countries
-where information on income and wealth is hard to elicit. The Euro­
-pean formula of targeting the capability handicap without means­
-testing, in providing medical coverage, has tended to take the form of
+there is the further issue of checking the person's economic circumstances. This can be particularly problematic especially in countries
+where information on income and wealth is hard to elicit. The European formula of targeting the capability handicap without meanstesting, in providing medical coverage, has tended to take the form of
 
-a general national health service-open to all who need those medi­
-cal services .. This makes the informational task easier, but does not
+a general national health service-open to all who need those medical services .. This makes the informational task easier, but does not
 address the rich-poor division. The American formula of Medicaid
 
 targets both (at a more modest level}, and has to cope with both the
@@ -10183,16 +9957,14 @@ may distort the seeking of help, but also there are direct costs and
 
 losses involved in feeling-and being-stigmatized . Since the matter
 
-of self-respect is often taken by policy leaders to be of rather mar­
-ginal interest (and considered to be a rather "genteeP' concern), I
+of self-respect is often taken by policy leaders to be of rather marginal interest (and considered to be a rather "genteeP' concern), I
 take the liberty of referring to John Rawls's argument that self­
 
 respect is "perhaps the most important primary good'' on which a
 
 theory of justice as fairness has to concentrate.5:r
 
-4) Administrative costs� invasive loss and corruption: The pro­
-cedure of targeting can involve substantial administrative costs-in
+4) Administrative costs� invasive loss and corruption: The procedure of targeting can involve substantial administrative costs-in
 
 the form of both resource expenditures and bureaucratic delays­
 
@@ -10212,8 +9984,7 @@ system, the power to bestow benefits for which the beneficiaries may
 
 be willing to make a facilitating payment.
 
-5) Political sustainability and quality: The beneficiaries of tar­
-geted social support are often quite weak politically and may lack the
+5) Political sustainability and quality: The beneficiaries of targeted social support are often quite weak politically and may lack the
 
 clout to sustain the programs in political jostling, or to maintain the
 
@@ -10253,8 +10024,7 @@ endorsement or a universal rejection of means-testing on the basis of
 very general arguments, and the relevance of the preceding discussion
 lies mainly in pointing to the contrary arguments that exist side by
 
-side with the arguments in favor of fine-tuned means-testing. In prac­
-tice, in this field (as in many others already considered), compromises
+side with the arguments in favor of fine-tuned means-testing. In practice, in this field (as in many others already considered), compromises
 would have to be made. In a general work of this kind, it would be
 a mistake to look for some particular "formula" for an optimum
 compromise. The right approach would have to be sensitive to the
@@ -10358,8 +10128,7 @@ tion? In a powerful critical survey of international experiences in this
 
 r 3 9
 
-area, Michael Bruno notes that "several recorded episodes of moder­
-ate inflation (20-40 percent [price rise per year]) and most instances
+area, Michael Bruno notes that "several recorded episodes of moderate inflation (20-40 percent [price rise per year]) and most instances
 of higher rates of inflation (of which there have been a substantial
 number) suggest that high inflation goes together with significant
 negative growth effects." And, "conversely, the cumulative evidence
@@ -10371,8 +10140,7 @@ The policy conclusion to be drawn here requires some subtlety.
 
 Bruno also finds that "the growth effects of inflation are at best
 obscure at low rates of inflation (less than I 5-20 percent annually).,
-He goes on to ask the question: "why worry about low rates of infla­
-tion , especially if the costs of anticipated inflation can be avoided (by
+He goes on to ask the question: "why worry about low rates of inflation , especially if the costs of anticipated inflation can be avoided (by
 indexation) and those of unanticipated inflation seem to be low?''H
 Bruno also points out that "while the root of all high inflations
 
@@ -10404,8 +10172,7 @@ process can repeat itself.ss
 
 This is a quintessentially conservative argument, and a very per­
 
-suasive one it is, based as it is on a rich set of international compari­
-sons. I have no difficulty in endorsing both the analysis and the
+suasive one it is, based as it is on a rich set of international comparisons. I have no difficulty in endorsing both the analysis and the
 
 conclusions drawn by Michael Bruno. What is, however, important
 to do is to keep track of exactly what has been established and also
@@ -10507,8 +10274,7 @@ while tolerating remarkably high rates of unemployment. If the
 
 analysis presented in this book is right, the making of public policy in
 
-Europe has to give real priority to eliminating the capability depriva­
-tion that severe unemployment entails.
+Europe has to give real priority to eliminating the capability deprivation that severe unemployment entails.
 
 Financial conservatism has good rationale and imposes strong
 
@@ -10561,8 +10327,7 @@ plexity, each calls for a serious examination of the objectives and
 
 instruments of public policy. The need for financial conservatism­
 
-important as it is-fits into this diverse and broad picture, and can­
-not stand on its own-in solitary isolation-as the commitment of
+important as it is-fits into this diverse and broad picture, and cannot stand on its own-in solitary isolation-as the commitment of
 
 the government or of the central bank. The need for scrutiny and
 
@@ -10571,11 +10336,8 @@ I42
 comparative assessment of alternative fields of public expenditure is
 altogether crucial.
 
-Individuals live and operate in a world of institutions. Our opportu­
-nities and prospects depend crucially on what institutions exist and
-how they function. Not only do institutions contribute to our free­
-doms, their roles can be sensibly evaluated in the light of their contri­
-butions to our freedom. To see development as freedom provides a
+Individuals live and operate in a world of institutions. Our opportunities and prospects depend crucially on what institutions exist and
+how they function. Not only do institutions contribute to our freedoms, their roles can be sensibly evaluated in the light of their contributions to our freedom. To see development as freedom provides a
 perspective in which institutional assessment can systematically occur.
 
 Even though different commentators have chosen to focus on par­
@@ -10598,8 +10360,7 @@ this light, it is very hard indeed to see how any reasonable critic could
 
 be against the market mechanism, as such. The problems that arise
 
-spring typically from other sources-not from the existence of mar­
-kets per se-and include such concerns as inadequate preparedness
+spring typically from other sources-not from the existence of markets per se-and include such concerns as inadequate preparedness
 
 to make use of market transactions, unconstrained concealment of
 
@@ -10608,16 +10369,14 @@ information or unregulated use of activities that allow the powerful
 to capitalize on their asymmetrical advantage. These have to be
 
 dealt with not by suppressing the markets, but by allowing them to
-function better and with greater fairness, and with adequate supple­
-mentation. The overall achievements of the market are deeply con­
+function better and with greater fairness, and with adequate supplementation. The overall achievements of the market are deeply con­
 
 tingent on political and social arrangements.
 
 The market mechanism has achieved great success under those
 conditions in which the opportunities offered by them could be rea­
 
-sonably shared. In making this possible, the provision of basic edu­
-cation, the presence of elementary medical facilities, the availability
+sonably shared. In making this possible, the provision of basic education, the presence of elementary medical facilities, the availability
 
 of resources (such as land) that can be crucial to so�e economic
 
@@ -10702,8 +10461,7 @@ remarkable. As far as human resources are concerned, they have reaped
 
 I44
 
-as they have sown. Indeed, the priority to human resource develop­
-ment applies particularly to the early history of Japanese economic
+as they have sown. Indeed, the priority to human resource development applies particularly to the early history of Japanese economic
 
 development, beginning with the Meiji era in the mid-nineteenth cen­
 
@@ -10711,14 +10469,12 @@ tury. That priority has not really intensified as Japan has grown
 
 richer and much more opulent.s8 Human development is first and
 foremost an ally of the poor, rather than of the rich and the affluent.
-What does human development do? The creation of social op­
-portunities makes a direct contribution to the expansion of human
+What does human development do? The creation of social opportunities makes a direct contribution to the expansion of human
 
 capabilities and the quality of life (as has already been discussed).
 Expansion of health care, education, social security, etc., contribute
 
-directly to the quality of life and to its flourishing. There is every evi­
-dence that even with relatively low income, a country that guarantees
+directly to the quality of life and to its flourishing. There is every evidence that even with relatively low income, a country that guarantees
 
 health care and education to all can actually achieve remarkable results
 
@@ -10735,8 +10491,7 @@ impact on people's productive abilities and thus on economic growth
 
 on a widely shared basis.s9 Literacy and numeracy help the partici­
 
-pation of the masses in the process of economic expansion (well illus­
-trated from Japan to Thailand). To use the opportunities of global
+pation of the masses in the process of economic expansion (well illustrated from Japan to Thailand). To use the opportunities of global
 
 trade, "quality control" as well as "production to specification" can
 
@@ -10747,8 +10502,7 @@ ers to achieve and maintain. Furthermore, there is considerable evi­
 dence that improved health care as well as nutrition also make the
 workforce more productive and better remunerated. 6o
 
-On a different subject, there is much confirmation, in the contem­
-porary empirical literature, of the impact of education, especially
+On a different subject, there is much confirmation, in the contemporary empirical literature, of the impact of education, especially
 
 female education, on reducing fertility rates. High fertility rates can
 
@@ -10776,11 +10530,9 @@ erment. I shall come back to this issue in chapters 8 and 9·
 
 Those who see themselves as financial conservatives sometimes
 express skepticism about human development. There is, however,
-little rational basis for that inference. The benefits of human devel­
-opment are manifest, and can be more fully accounted by taking an
+little rational basis for that inference. The benefits of human development are manifest, and can be more fully accounted by taking an
 
-adequately comprehensive view of its overall impact. Cost con­
-sciousness can help to direct human development in channels that are
+adequately comprehensive view of its overall impact. Cost consciousness can help to direct human development in channels that are
 more productive directly and indirectly-of the quality of life, but
 it does not threaten its imperative interest. 61
 
@@ -10934,16 +10686,13 @@ incentives and information in the solution of acute economic needs),
 
 DEVELOPMENT AS FREEDOl\11
 
-but also constructive. Our conceptualization of economic needs de­
-pends crucially on open public debates and discussions, the guaran­
-teeing of which requires insistence on basic political liberty and civil
+but also constructive. Our conceptualization of economic needs depends crucially on open public debates and discussions, the guaranteeing of which requires insistence on basic political liberty and civil
 
 rights.
 
 I shall argue that the intensity of economic needs adds to-rather
 than subtracts from-the urgency of political freedoms. There are
-three different considerations that take us in the direction of a gen­
-eral preeminence of basic political and liberal rights:
+three different considerations that take us in the direction of a general preeminence of basic political and liberal rights:
 
 I)
 
@@ -10999,8 +10748,7 @@ on political freedoms, which would get in the way of their real pri­
 
 orities. The presumed existence of a deep conflict between political
 
-freedoms and the fulfillment of economic needs provides an impor­
-tant premise in this sy llogism, and in this sense, this variant of the
+freedoms and the fulfillment of economic needs provides an important premise in this sy llogism, and in this sense, this variant of the
 second argument is parasitic on the first (that is, on the truth of the
 
 Lee thesis).
@@ -11016,9 +10764,7 @@ freedom. For exampLe, the censorship of the press may be more
 
 acceptable, it is argued, in an Asian society {because of its emphasis
 
-on discipline and order) than in the West. In the I993 Vienna confer­
-ence, the foreign minister of Singapore warned that "universal recog­
-nition of the ideal of human rights can be harmful if universalism is
+on discipline and order) than in the West. In the I993 Vienna conference, the foreign minister of Singapore warned that "universal recognition of the ideal of human rights can be harmful if universalism is
 used to deny or mask the reality of diversity." The spokesman of the
 Chinese Foreign Ministry even put on record this proposition, appar­
 
@@ -11136,8 +10882,7 @@ action. Governmental response to the acute suffering of people often
 
 depends on the pressure that is put on the government, and thi� is
 where the exercise of political rights (voting, criticizing, protesting
-and so on) can make a real difference� This is a part of the "instru­
-n1ental '' role of democracy and political freedoms. I shall have to
+and so on) can make a real difference� This is a part of the "instrun1ental '' role of democracy and political freedoms. I shall have to
 
 come back to this important issue again, later on in this chapter.
 
@@ -11157,9 +10902,7 @@ of authoritarianism do not allow to happen. It is not clear at all how
 this proposition can be checked when the ordinary citizens are given
 little political opportunity to express their views on this and even less
 
-to dispute the claims made by the authorities in office. The down­
-grading of these rights and freedoms is certainly part of the value sys­
-tem of the government leaders in many third world countries> but to
+to dispute the claims made by the authorities in office. The downgrading of these rights and freedoms is certainly part of the value system of the government leaders in many third world countries> but to
 
 take that to be the view of the people is to beg a very big question.
 
@@ -11386,8 +11129,7 @@ The intrinsic relevance, the protective role and the constructive
 importance of democracy can indeed be very extensive. However, in
 
 presenting these arguments on the advantages of democracies, there
-is a danger of overselling their effectiveness. As was mentioned ear­
-lier, political freedoms and liberties are permissive advantages, and
+is a danger of overselling their effectiveness. As was mentioned earlier, political freedoms and liberties are permissive advantages, and
 
 their effectiveness would depend on how they are exercised. Democ­
 
@@ -11399,9 +11141,7 @@ immediate form. Many other problems are not quite so accessible.
 
 For example, India's success in eradicating famines is not matched by
 
-that in eliminating regular undernutrition, or curing persistent illiter­
-acy, or inequalities in gender relations (as was discussed in chap­
-ter 4). While the plight of famine victims is easy to politicize, these
+that in eliminating regular undernutrition, or curing persistent illiteracy, or inequalities in gender relations (as was discussed in chapter 4). While the plight of famine victims is easy to politicize, these
 
 other deprivations call for deeper analysis and more effective use of
 
@@ -11623,8 +11363,7 @@ Developing and strengthening a democratic system is an essential
 
 component of the process of development. The significance of
 democracy lies, I have argued, in three distinct virtues: (I) its intrin�
-sic importance, ( 2) its instrumental contributions, and ( 3 ) its con­
-structive role in the creation of values and norms. No evaluation of
+sic importance, ( 2) its instrumental contributions, and ( 3 ) its constructive role in the creation of values and norms. No evaluation of
 
 ,
 
@@ -11711,8 +11450,7 @@ I 59
 ways and means of making it function well, to realize its potentials.
 
 The achievement of social justice depends not only on institutional
-forms (including democratic rules and regulations), but also on effec­
-tive practice. I have presented reasons for taking the issue of practice
+forms (including democratic rules and regulations), but also on effective practice. I have presented reasons for taking the issue of practice
 
 to be of central importance in the contributions that can be expected
 
@@ -11800,8 +11538,7 @@ an_adequate amount...
 the food oneself (as peasants do), or by buying it in the market (as the
 nongrowers of food do). A person may be forced into starvation even
 when there is plenty of food around if he loses his ability to buy food
-in the market, .through a_loss of income (for example, due to unem­
-ployment or the collapse of the market for goods that he produces
+in the market, .through a_loss of income (for example, due to unemployment or the collapse of the market for goods that he produces
 and sells to earn a living). On the other side, even when food su_2ply
 falls.-shatply_in_a _ _c()_UUtry or a f�glon, eV�fY-On� __ CaJl:_"l)e -Sa��cl f�om
 starY.ation by__a better sharing of the available food (for example,
@@ -11832,8 +11569,7 @@ In these crises, as in famines, some sections of the population have
 lost their economic entitlements with unexpected suddenness. The
 speed and sheer intensity of deprivation in these crises (and also, typi­
 
-cally, the unexpectedness of the disasters) differ from the more "regu­
-lar'' phenomenon of general poverty, in the same way that famines
+cally, the unexpectedness of the disasters) differ from the more "regular'' phenomenon of general poverty, in the same way that famines
 
 differ from endemic hunger.
 
@@ -12355,8 +12091,7 @@ downward price correction.8 But by that time the famine had already
 
 taken its heavy toll.
 
-Even when a famine is associated with a decline in food produc­
-tion (as it clearly was in the case of the Chinese famine of I958-r96I
+Even when a famine is associated with a decline in food production (as it clearly was in the case of the Chinese famine of I958-r96I
 
 or in the Irish famines in the x84os9), we still have to go beyond
 the output statistics to explain why it is that some parts of the popu­
@@ -12611,8 +12346,7 @@ governors and the governed can play a crucial role in the nonpreven­
 tion of the famine.
 
 It is useful, in this context, to consider the famines of the I 84os
-that devastated Ireland about ISO years ago, killing a higher propor­
-tion of the population than any other famine anywhere in recorded
+that devastated Ireland about ISO years ago, killing a higher proportion of the population than any other famine anywhere in recorded
 
 histoty.r6 The famine also changed the nature of Ireland in a decisive
 
@@ -12647,14 +12381,12 @@ of food (indeed, the coexistence of hunger and food exports is a
 
 common phenomenon in many famines). Also, while the expressions
 
-"starve" and "starvation" can certainly be taken in their old, pro­
-active sense-now largely defunct-of making people go without
+"starve" and "starvation" can certainly be taken in their old, proactive sense-now largely defunct-of making people go without
 food, in particular causing their death from hunger, it is hard to deny
 
 r
 
-that there was a famine (as the term is commonly understood) in Ire­
-land at that time.
+that there was a famine (as the term is commonly understood) in Ireland at that time.
 
 Malone was making a different-and rather profound-point,
 
@@ -12664,8 +12396,7 @@ role of human agency in causing and sustaining famines. If the Irish
 
 famines '\Vere entirely preventable, and in particular, if those in pub­
 
-lic authority could have prevented them, then the charge of ''starv­
-ing'' the Irish would have perspicuity enough. The accusing finger
+lic authority could have prevented them, then the charge of ''starving'' the Irish would have perspicuity enough. The accusing finger
 
 cannot but point to the role of public policy in preventing or not pre­
 
@@ -12820,8 +12551,7 @@ more affluently.
 
 We know, of course, that very little help was provided by the gov­
 
-ernment of the United Kingdom to alleviate the destitution and star­
-vation of the Irish through the period of the famine. There have been
+ernment of the United Kingdom to alleviate the destitution and starvation of the Irish through the period of the famine. There have been
 
 similar occurrences in the empire, but Ireland was distinguished in
 being part of the British Isles itself. This is where cultural alienation,
@@ -13076,8 +12806,7 @@ gether (of which the problem of food output is only one part). The
 need for a more diversified production structure is very strong in sub­
 Saharan Africa, given the climatic uncertainties, on the one hand,
 and the possibility of expanding in other fields of productive activity,
-on the other. The often-advocated strategy of concentrating exclu­
-sively on the expansion of agriculture-and specifically food crops­
+on the other. The often-advocated strategy of concentrating exclusively on the expansion of agriculture-and specifically food crops­
 
 is like putting all the eggs in the same basket, and the perils of such a
 
@@ -13210,8 +12939,7 @@ larger declines in the production and supply of food, and also sharper
 
 !79
 
-collapse of the purchasing power of substantial sections of the popu­
-lation, than some nondemocratic countries. But while the dictatorial
+collapse of the purchasing power of substantial sections of the population, than some nondemocratic countries. But while the dictatorial
 countries had major famines, the democratic ones managed to avert
 
 famines altogether despite the worse food situation. For example,
@@ -13362,8 +13090,7 @@ I8I
 tice of democracy contribute greatly to bringing out information that
 can have an enormous impact on policies for famine prevention (for
 example, information about the early effects of droughts and floods
-and about the nature and impact of unemployment). The most ele­
-mentary source of basic information from distant areas about a
+and about the nature and impact of unemployment). The most elementary source of basic information from distant areas about a
 threatening famine are enterprising news media, especially when
 there are incentives-provided by a democratic system-for bringing
 out facts that may be embarrassing to the government (facts that an
@@ -13566,13 +13293,11 @@ or the policy regarding irrigation and agricultural research). Further,
 
 I84
 
-even with crop failures, a famine can be averted by a careful redistri­
-bution policy (including that of employment creation). Indeed, as
+even with crop failures, a famine can be averted by a careful redistribution policy (including that of employment creation). Indeed, as
 
 was discussed earlier, democratic countries like Botswana, or India,
 
-or Zimbabwe, have been entirely successful in preventing famines de­
-spite sharp declines in food output and entitlements of large sections
+or Zimbabwe, have been entirely successful in preventing famines despite sharp declines in food output and entitlements of large sections
 
 of the population, whereas nondemocratic countries have frequently
 
@@ -13748,8 +13473,7 @@ protective role of democracy is strongly missed when it is most
 
 needed.
 
-The challenge of development includes both the elimination of per­
-sistent, endemic deprivation and the prevention of sudden, severe
+The challenge of development includes both the elimination of persistent, endemic deprivation and the prevention of sudden, severe
 
 destitution. However, the respective demands on institutions and
 
@@ -13998,8 +13722,7 @@ agency role is thus central to recognizing people as responsible per­
 
 sons: not only are we well or ill, but also we act or refuse to act, and
 
-can choose to act one way rather than another. And thus wr--e­
-women and men-must take responsibility for doing things or not
+can choose to act one way rather than another. And thus wr--ewomen and men-must take responsibility for doing things or not
 
 doing them. It makes a difference, and we have to take note of that
 
@@ -14249,8 +13972,7 @@ can be played by female education, female employment and female
 
 ownership rights, and these "social" features can be very crucial for
 
-the economic fortunes (as well as well-being and freedom) of differ­
-ent members of the family.rr
+the economic fortunes (as well as well-being and freedom) of different members of the family.rr
 
 In the context of the general theme of this book, this relationship
 
@@ -14342,8 +14064,7 @@ tion and women's employment are the two most important influences
 
 in reducing fertility rates.r4 The influences that help the emancipa­
 
-tion of women (including women's literacy and women's employ­
-ment) do make a major difference to fertility rates. I shall return to
+tion of women (including women's literacy and women's employment) do make a major difference to fertility rates. I shall return to
 this presently in the context of assessing the nature and severity of
 
 the "world population problem." General problems of environmen­
@@ -14454,8 +14175,7 @@ since men typically show great reluctance to share the domestic
 
 chores, this greater desire for more priority on child care may not be
 
-easy for the women to execute when they are saddled with the "dou­
-ble burden'' of household work and outside employment. Thus the
+easy for the women to execute when they are saddled with the "double burden'' of household work and outside employment. Thus the
 
 net effect could go in either direction. In the Murthi et al. study, the
 
@@ -14475,8 +14195,7 @@ statistically significant reducing impact on under-five mortality, even
 
 after controlling for male literacy. This is consistent with growing
 
-evidence of a close relationship between female literacy and child sur­
-vival in many countries in the world, and particularly in intercountry
+evidence of a close relationship between female literacy and child survival in many countries in the world, and particularly in intercountry
 comparisons.20 In this case, the impact of greater empowerment and
 agency role of women is not reduced in effectiveness by problems
 arising from inflexible male participation in child care and household
@@ -14607,8 +14326,7 @@ Women's Agency and Social Change
 The negative linkage between female literacy and fertility appears
 
 to be, on the whole , empirically well founded.:z.z Such connections
-have been widely observed in other countries also, and it is not sur­
-prising that they should emerge in India. The unwillingness of edu­
+have been widely observed in other countries also, and it is not surprising that they should emerge in India. The unwillingness of edu­
 
 cated women to be shackled to continuous child rearing clearly plays
 a role in bringing about this change. Education also makes the hori­
@@ -14873,8 +14591,7 @@ nomic activities, and the economic and social circumstances that
 
 encourage or resist change in these attitudes.H As Naila Kabeer's il­
 
-luminating study of the work and economic involvement of Ban­
-gladeshi women in Dhaka and London brings out, the continuation
+luminating study of the work and economic involvement of Bangladeshi women in Dhaka and London brings out, the continuation
 of, or break from, past arrangements is strongly influenced by the
 
 exact economic and social relations that operate in the local environ­
@@ -14896,8 +14613,7 @@ ter, I have tried to explore the distinction between-and interrela­
 tions of-agency and well-being, and then have gone on to illustrate
 
 the reach and power of women's agency, particularly in two specific
-fields: (I) in promoting child survival and (2) in helping to reduce fer­
-tility rates. Both these matters have general developmental interest
+fields: (I) in promoting child survival and (2) in helping to reduce fertility rates. Both these matters have general developmental interest
 
 that goes well beyond the pursuit specifically of female well-being,
 
@@ -14957,8 +14673,7 @@ trating on food output only. However, food output must be one of
 the variables that can, inter alia, influence the prevalence of hunger.
 Even the price at which food can be bought by the consumers will be
 
-affected by the size of the food output. Furthermore, when we con­
-sider food proble.ms at the global level (rather than at the national or
+affected by the size of the food output. Furthermore, when we consider food proble.ms at the global level (rather than at the national or
 
 local level), there is obviously no opportunity of getting food from
 
@@ -15159,8 +14874,7 @@ I98I, but the quantitative difference made by this, if any, is likely to be quit
 Sources: United Nations, FAO Quarterly Bulletin of Statistics, I995 and 1998, and
 FAO Monthly Bulletin of Statistics, August r984.
 
-a very vulnerable situation. However, as was argued earlier (in chap­
-ter 7) the problems of sub-Saharan Africa are mainly a reflection of a
+a very vulnerable situation. However, as was argued earlier (in chapter 7) the problems of sub-Saharan Africa are mainly a reflection of a
 general economic crisis (indeed a crisis with strong social and politi­
 
 cal as well as economic components)-not specifically of a ''food
@@ -15551,8 +15265,7 @@ The rhetoric of rights is omnipresent in contemporary political
 
 debates. There is, however, often an ambiguity in these debates about
 
-the sense in which "rights" are invoked, in particular whether the ref­
-erence is to institutionally sanctioned rights that have juridical force,
+the sense in which "rights" are invoked, in particular whether the reference is to institutionally sanctioned rights that have juridical force,
 
 or whether the appeal is to the prescriptive force of normative rights
 
@@ -15900,8 +15613,7 @@ nation. Even though Becker has presented his theory as an "exten­
 sion" of Malthus's analysis, and even though his analysis shares
 
 many features of Malthus's analysis (including the tradition of seeing
-the family as one decision-making unit with no divisions within it­
-on this more presently), Becker has, in fact, negated Malthus's con­
+the family as one decision-making unit with no divisions within iton this more presently), Becker has, in fact, negated Malthus's con­
 
 clusion that prosperity raises population growth, rather than reducing
 
@@ -15910,8 +15622,7 @@ it. In Becker's analysis, the effects of economic development on
 investment to improve the "quality" of children (such as investment
 in education) play an important part. x8
 
-In contrast with Becker's approach, the social theories of fertil­
-ity decline point to changes in preferences as a result of social de­
+In contrast with Becker's approach, the social theories of fertility decline point to changes in preferences as a result of social de­
 
 velopment, such as expansion of education in general and female
 
@@ -16224,8 +15935,7 @@ because the birth concept of the broad masses has not changed
 
 fundamentally. 29
 
-Fourth, it is not by any means clear how much additional reduc­
-tion in the fertility rate has actually been achieved by China through
+Fourth, it is not by any means clear how much additional reduction in the fertility rate has actually been achieved by China through
 
 these coercive methods. It is reasonable to accept that many of
 
@@ -16306,8 +16016,7 @@ birth control programs that the speed with which fertility rates can
 
 be cut down through coercive means is very much higher than for
 
-voluntary reductions. But this piece of generalization is not sup­
-ported by Kerala's experience either. Its birthrate has fallen from 44
+voluntary reductions. But this piece of generalization is not supported by Kerala's experience either. Its birthrate has fallen from 44
 per thousand in the I950s to I8 by 1991-a decline no less fast than
 
 that in China.
@@ -16329,8 +16038,7 @@ sures, the fertility rate seems to have fallen much more slowly in
 
 China than in Kerala, even in this period.
 
-Another Indian state, Tamil Nadu, has had no slower a fall of fer­
-tility rate, from 3·5 in 1979 to 2.2 in 199I. Tamil Nadu has had an
+Another Indian state, Tamil Nadu, has had no slower a fall of fertility rate, from 3·5 in 1979 to 2.2 in 199I. Tamil Nadu has had an
 active, but cooperative, family planning program, and it could use
 
 for this purpose a comparatively good position in terms of social
@@ -16358,8 +16066,7 @@ called northern heartland (such as Uttar Pradesh, Bihar, Madhya
 Pradesh) Rajasthan) have much lower levels of education, especially
 
 female education, and of general health care. T hese states all have
-high fertility rates-between 4·4 and 5·I34 This is in spite of a persis­
-tent tendency in those states to use heavy-handed methods of fatnily
+high fertility rates-between 4·4 and 5·I34 This is in spite of a persistent tendency in those states to use heavy-handed methods of fatnily
 planning, including some coercion (in contrast with the more volun­
 
 tary and collaborative approach used in Kerala and Tamil Nadu).35
@@ -16571,8 +16278,7 @@ developments are highly desired for other reasons as well (including
 
 the reduction of gender inequity) makes them central concerns in
 
-development analysis. Also, social mores-what is taken to be "stan­
-dard behavior"-are not independent of the understanding and appre­
+development analysis. Also, social mores-what is taken to be "standard behavior"-are not independent of the understanding and appre­
 
 ciation of the nature of the problem. Public discussion can make a big
 
@@ -16868,9 +16574,7 @@ tive discussions rights are often championed as entitlements or pow­
 
 ers or immwlities that it would be good for people to have. Human
 
-rights are seen as rights shared by all-irrespective of citizenship­
-the benefits of which everyone should have. While it is not the spe­
-cific duty of any given individual to make sure that the person has her
+rights are seen as rights shared by all-irrespective of citizenshipthe benefits of which everyone should have. While it is not the specific duty of any given individual to make sure that the person has her
 
 rights fulfilled, the claims can be generally addressed to all those who
 
@@ -16990,8 +16694,7 @@ Korea and other parts of East Asia. Various cultural influences from
 within and outside the region have affected human lives over the his­
 
 tory of this rather large territory. These influences still survive in a
-variety of ways. To illustrate, my copy of Houghton Mifflin's inter­
-national Almanac describes the religion of the 124 million japanese
+variety of ways. To illustrate, my copy of Houghton Mifflin's international Almanac describes the religion of the 124 million japanese
 in the following way: 112 million Shintoist and 93 million Buddhist.3
 
 Different cultural influences still color aspects of the identity of the
@@ -17095,8 +16798,7 @@ good society.
 Another useful distinction is between (I) the value of toleration:
 
 that there must be toleration of diverse beliefs, commitments, and
-actions of different people; and (2) equality of tolerance: the tolera­
-tion that is offered to some must be reasonably offered to all (except
+actions of different people; and (2) equality of tolerance: the toleration that is offered to some must be reasonably offered to all (except
 
 when tolerance of some will lead to intolerance for others). Again,
 
@@ -17324,8 +17026,7 @@ the king is seen as a benevolent autocrat, whose power, admittedly
 to do good, is to be maximized through good organization. Thus,
 Arthashastra:l on the one hand, presents penetrating ideas and sug­
 
-gestions on such practical subjects as famine prevention and admin­
-istrative effectiveness that remain relevant even today (more than
+gestions on such practical subjects as famine prevention and administrative effectiveness that remain relevant even today (more than
 two thousand years later),:n and yet, on the other hand, its author is
 ready to advise the king about how to get his way, if necessary,
 
@@ -17369,8 +17070,7 @@ prominently. Denying personal liberty to the upper classes (the so­
 
 called Arya) is seen as unacceptable. Indeed, regular penalties, some
 
-of which are heavy, are specified for the taking of such adults or chil­
-dren in indenture, even though the slavery of the existing slaves is
+of which are heavy, are specified for the taking of such adults or children in indenture, even though the slavery of the existing slaves is
 
 seen as perfectly acceptable.xJ To be sure, we do not find in Kautilya
 anything like the clear articulation that Aristotle provides of the
@@ -17389,8 +17089,7 @@ of a good life emerges in all this, it is one that is entirely consistent
 
 with a freedom-valuing ethical system. The domain of that concern is,
 
-to be sure, confined to the upper groups of society, but this is not rad­
-ically different from the Greek concern with free men as opposed to
+to be sure, confined to the upper groups of society, but this is not radically different from the Greek concern with free men as opposed to
 
 slaves or women. In respect to coverage, Kautilya differs from the uni­
 
@@ -17727,8 +17426,7 @@ becomes ours, wherever they might have their origin. I am
 
 proud of my humanity when I can acknowledge the poets and
 
-artists of other countries as my own. Let me feel with unal­
-loyed gladness that all the great glories of man are mine. rs
+artists of other countries as my own. Let me feel with unalloyed gladness that all the great glories of man are mine. rs
 
 While there is some danger in ignoring uniqueness of cultures, there
 
@@ -17873,8 +17571,7 @@ erodoxy in matters of religion, in particular, is historically a very
 special "Western'' phenomenon. When I published a paper in an
 
 American magazine disputing the authoritarian interpretation of
-"Asian values" ("Human Rights and Asian Values," The New Repub­
-lic, July I4 and 2I, I997), the responses that I got typically included
+"Asian values" ("Human Rights and Asian Values," The New Republic, July I4 and 2I, I997), the responses that I got typically included
 
 some support for my disputation of the alleged specialness of "Asian
 
@@ -17895,9 +17592,7 @@ cient level that even atheism is permitted as a principled rejection of
 
 beliefs." The commentator is certainly right to claim that religious
 
-tolerance, including the tolerance of skepticism and atheism, is a cen­
-tral aspect of social freedom (as John Stuart Mill also explained per­
-suasively).u The disputant went on to remark: "Where in Asian
+tolerance, including the tolerance of skepticism and atheism, is a central aspect of social freedom (as John Stuart Mill also explained persuasively).u The disputant went on to remark: "Where in Asian
 history, one asks, can Amartya Sen find anything equivalent to this
 
 remarkable history of skepticism, atheism and free thought? "22
@@ -17958,8 +17653,7 @@ even as late as the fourteenth century, Madhava Acarya (himself a
 good Vaishnavite Hindu), in his classic book called Sarvadarsana­
 
 samgraha ("Collection of All Philosophies"), devoted the entire first
-chapter to a serious presentation of the arguments of the Indian athe­
-istic schools .. Religious skepticism and its tolerance are not uniquely
+chapter to a serious presentation of the arguments of the Indian atheistic schools .. Religious skepticism and its tolerance are not uniquely
 
 Western as a phenomenon.
 
@@ -17968,13 +17662,11 @@ References were made earlier to tolerance in general in Asian cul­
 tures (such as the _._.1\rabic, the Chinese and the Indian), and religious
 tolerance is a part of it, as the examples cited bring out. Examples of
 violations-often extreme violations-of tolerance are not hard to
-find in any culture (from medieval inquisitions to modern concentra­
-tion camps in the West, and from religious slaughter to the victimiz ...
+find in any culture (from medieval inquisitions to modern concentration camps in the West, and from religious slaughter to the victimiz ...
 
 ing oppression of the Taliban in the East), but voices have been
 
-persistently raised in favor of freedom-in different forms-in dis­
-tinct and distant cultures. If the universalist presumptions of this
+persistently raised in favor of freedom-in different forms-in distinct and distant cultures. If the universalist presumptions of this
 book, particularly in valuing the importance of freedom, are to be
 
 rejected, the grounds for rejection must lie elsewhere.
@@ -18049,8 +17741,7 @@ Indeed, had the dissidents not been so tenaciously present, authori­
 tarian polities would not have had to undertake such repressive meaw
 
 sures in practice, to supplement their intolerant beliefs. The presence
-of dissidents tempts the authoritarian ruling groups to take a repres­
-sive view of local culture and, at the same time, that presence itself
+of dissidents tempts the authoritarian ruling groups to take a repressive view of local culture and, at the same time, that presence itself
 
 undermines the intellectual basis of such univocal interpretation of
 
@@ -18230,8 +17921,7 @@ majority over y, which has a majority over z, which in turn enjoys
 
 a majority over x. Arrow's theorem shows, among other insights it
 offers, that not just the majority rule, but all mechanisms of decision
-making that rely on the same informational base (to wit, only indi­
-vidual orderings of the relevant alternatives) would lead to some
+making that rely on the same informational base (to wit, only individual orderings of the relevant alternatives) would lead to some
 inconsistency or infelicity, unless we simply go for the dictatorial
 solution of making one person's preference ranking rule the roost.
 
@@ -18260,14 +17950,12 @@ the cake among the three. We can always bring about a "majority
 improvement" by taking a part of any one person's share (let us say,
 
 person I's share), and then dividing it between the other two (viz., 2
-and 3 ). This way of "improving" the social outcome would work­
-given that the social judgment is by majority rule-even if the person
+and 3 ). This way of "improving" the social outcome would workgiven that the social judgment is by majority rule-even if the person
 thus victimized (viz., I) happens to be the poorest of the three.
 Indeed, we can continue taking away more and more of the share of
 
 the poorest person and dividing the loot between the richer two-all
-the time making a majority improvement. This process of "improve­
-mene, can go on until the poorest has no cake left to be taken away.
+the time making a majority improvement. This process of "improvemene, can go on until the poorest has no cake left to be taken away.
 
 What a wonderful chain, in the majoritarian perspective, of social
 
@@ -18411,15 +18099,13 @@ ably intense injustice or unfairness.
 Indeed, the insistence on the completeness of judgments of justice
 over every possible choice is not only an enemy of practical social
 action, it may also reflect some misunderstanding of the nature of
-justice itself. To take an extreme example, in agreeing that the occur­
-rence of a preventable famine is socially unjust, we do not also lay
+justice itself. To take an extreme example, in agreeing that the occurrence of a preventable famine is socially unjust, we do not also lay
 
 claim to an ability to determine what exact allocation of food among
 
 all the citizens will be "most just." The recognition of evident injus­
 
-tice in preventable deprivation, such as widespread hunger, unneces­
-sary morbidity, premature mortality, grinding poverty, neglect of
+tice in preventable deprivation, such as widespread hunger, unnecessary morbidity, premature mortality, grinding poverty, neglect of
 female children, subjugation of women, and phenomena of that kind
 does not have to await the derivation of some complete ordering over
 choices that involve finer differences and puny infelicities. Indeed, the
@@ -18761,13 +18447,11 @@ only intended to reduce fertility. But these adverse consequences did
 
 actually follow and deserve attention and remedy.
 
-The central issue, then, is whether these adverse effects were pre­
-dictable and should have been anticipated_, even though not intended.
+The central issue, then, is whether these adverse effects were predictable and should have been anticipated_, even though not intended.
 
 The nature of economic and social reforms in China could have bene­
 
-fited from more predictive analysis of causes and effects, includ­
-ing unintended effects. The fact that the adverse effects were not
+fited from more predictive analysis of causes and effects, including unintended effects. The fact that the adverse effects were not
 intended did not imply that they could not be at all predicted. A
 
 clearer understanding of these consequences could have led to a bet­
@@ -18784,8 +18468,7 @@ view. The direction of these unintended effects is not similar to the
 
 main class of unintended consequences considered by Adam Smith,
 
-Carl Menger and Friedrich Hayek, where the consequences consid­
-ered are typically favorable. There is, however, a basic comparability
+Carl Menger and Friedrich Hayek, where the consequences considered are typically favorable. There is, however, a basic comparability
 
 between the working of the two types of cases, even though the
 
@@ -18902,8 +18585,7 @@ and it would be a complete mistake to think that the importance of
 unintended effects undermines the need for rational assessment of all
 
 effects-unintended as well as intended. There is nothing here to
-undermine the importance of trying to anticipate all the likely conse­
-quences of alternative policies, nor anything to subvert the need
+undermine the importance of trying to anticipate all the likely consequences of alternative policies, nor anything to subvert the need
 
 for basing policy decisions on rational assessment of alternative
 
@@ -18993,8 +18675,7 @@ concerns that people do have.
 THE ROLE OF VALUES IN CAPITALISM
 
 While capitalism is often seen as an arrangement that works only on
-the basis of the greed of everyone, the efficient working of the capi­
-talist economy is, in fact, dependent on powerful systems of values
+the basis of the greed of everyone, the efficient working of the capitalist economy is, in fact, dependent on powerful systems of values
 
 and norms. Indeed, to see capitalism as nothing other than a system
 
@@ -19120,8 +18801,7 @@ motives have a role in the success of capitalism is not a new point,
 
 even though the wealth of historical evidence and conceptual argu­
 
-ments in that direction is often neglected in contemporary profes­
-sional economics. 20
+ments in that direction is often neglected in contemporary professional economics. 20
 
 A basic code of good business behavior is a bit like oxygen: we
 take an interest in its presence only when it is absent. Adam Smith
@@ -19194,8 +18874,7 @@ in the other party's ethics. The reliance on rules of behavior may typi­
 
 cally be implicit rather than explicit-indeed so implicit that its
 
-importance can be easily overlooked in situations where such confi­
-dence is not problematic. But wherever it is problematic, overlooking
+importance can be easily overlooked in situations where such confidence is not problematic. But wherever it is problematic, overlooking
 the need for it can be quite disastrous. The emergence of Mafia­
 
 style operations in the former Soviet Union has recently received
@@ -19515,8 +19194,7 @@ ing the air and the waters, and Smith's general analysis has much
 
 relevance to understanding the problems and difficulties they gener­
 
-ate as well as the different lines of remedy that may exist. The respec­
-tive roles of regulation and behavioral restraints are important to
+ate as well as the different lines of remedy that may exist. The respective roles of regulation and behavioral restraints are important to
 
 discuss in this context. The environmental challenge is part of a more
 
@@ -19558,13 +19236,9 @@ from narrowly self-interested behavior, it is convenient to distinguish
 between two different routes of departure, viz., "sympathy" and
 
 "commitment. "35 First, our conception of self-interest may itself
-include our concern for others, and sympathy may thus be incorpo­
-rated within the notion of the person's own well-being , broadly
-defined. Second, going beyond our broadly defined well-being or self­
-interest, we may be willing to make sacrifices in pursuit of other val­
-ues, such as social justice or nationalism or communal welfare (even
-at some personal cost). This kind of departure, involving commit­
-ment (rather than just sympathy), invokes values other than personal
+include our concern for others, and sympathy may thus be incorporated within the notion of the person's own well-being , broadly
+defined. Second, going beyond our broadly defined well-being or selfinterest, we may be willing to make sacrifices in pursuit of other values, such as social justice or nationalism or communal welfare (even
+at some personal cost). This kind of departure, involving commitment (rather than just sympathy), invokes values other than personal
 
 ...
 
@@ -19608,25 +19282,21 @@ self-command, no great exertion of the sense of propriety,, since they
 
 follow what our "sympathy would of its own accord prompt us to
 do."37 ''But it is otherwise with generosity." And so it is with broader
-values such as justice, which require the person to restrain his self­
-interest and "make the impartial spectator enter into the principles of
+values such as justice, which require the person to restrain his selfinterest and "make the impartial spectator enter into the principles of
 his conduct'' and may call for "greater exertions of public spirit."38
 Crucial to Smith's view of "propriety of humanity and justice" is
 
 "the concord between the affections of the agent and those of the
 
 spectators. "39 Stnith's conception of the rational person places this
-person firmly in the company of others-right in the middle of a soci­
-ety to which he belongs. The person's evaluations as well as actions
+person firmly in the company of others-right in the middle of a society to which he belongs. The person's evaluations as well as actions
 invoke the presence of others, and the individual is not dissociated
 
 from "the public."
 
 In this context it is important to dispute the common description
 
-of Adam Smith-the father of modern economics-as the single­
-xninded prophet of self-interest. There is quite a well-established tra­
-dition in economics (and indeed in general public discussion) of
+of Adam Smith-the father of modern economics-as the singlexninded prophet of self-interest. There is quite a well-established tradition in economics (and indeed in general public discussion) of
 taking Smith to have seen only self-interest in the rational world (and
 
 to have been happy with what he had allegedly seen). This is done
@@ -19642,12 +19312,10 @@ interest dominates the majority of men. ,,4°
 
 It is certainly true that Smith did argue in that particular passage,
 
-which has been quoted incredibly often (sometimes quite out of con­
-text), that we do not need to invoke "benevolence" to explain why
+which has been quoted incredibly often (sometimes quite out of context), that we do not need to invoke "benevolence" to explain why
 the butcher, the brewer or the baker wants to sell his products to us,
 and why we want to buy his products.4x Smith was clearly right to
-point out that the motivation for mutually beneficial exchange cer­
-tainly does not need anything more than what Smith called "self-
+point out that the motivation for mutually beneficial exchange certainly does not need anything more than what Smith called "self-
 
 love," and this is decidedly important to note, since exchange is so
 
@@ -19781,8 +19449,7 @@ and to think and act in ways that the established mores suggest we
 
 do.49 This type of "concordant behavior" can extend the reach of
 
-reasoning beyond the limits of the individual's own critical assess­
-ment, since we can emulate what others have found reasons to do.so
+reasoning beyond the limits of the individual's own critical assessment, since we can emulate what others have found reasons to do.so
 Third, public discussion can have a strong influence on value for­
 
 mation. As Frank Knight-the great Chicago economist-noted, val­
@@ -19805,8 +19472,7 @@ quential role. Each of these categories of behavioral choice (reflective
 
 choice, concordant behavior, public discussion, and evolutionary
 
-selection) demands attention, and in conceptualizing human behav­
-ior there is a case for tr eating them jointly as well as severally. The
+selection) demands attention, and in conceptualizing human behavior there is a case for tr eating them jointly as well as severally. The
 
 role of values in social behavior fits into this broad network.
 
@@ -19900,9 +19566,7 @@ What, then, is "corrupt" behavior? Corruption involves the vio­
 
 lation of established rules for personal gain and profit. Obviously it
 cannot be eradicated by inducing people to be more self-interested.
-Nor would it make sense to try to reduce corruption simply by ask­
-ing people to be less self-interested in general-there has to be a spe­
-cific reason to sacrifice personal gain.
+Nor would it make sense to try to reduce corruption simply by asking people to be less self-interested in general-there has to be a specific reason to sacrifice personal gain.
 
 It is, to some extent, possible to alter the balance of gains and
 
@@ -20375,8 +20039,7 @@ Bertrand Russell, who was a firm atheist, was once asked what he
 would do if, following his death, he were to encounter God after all.
 Russell is supposed to have answered, "I will ask him: God Almighty,
 why did you give so little evidence of your existence? ,,:r Certainly the
-appalling world in which we live does not-at least on the surface­
-look like one in which an all-powerful benevolence is having its way.
+appalling world in which we live does not-at least on the surfacelook like one in which an all-powerful benevolence is having its way.
 
 It is hard to understand how a compassionate world order can
 
@@ -20390,8 +20053,7 @@ social care.
 
 This issue, of course, is not new, and it has been a subject of
 
-some discussion among theologians. The argument that God has rea­
-sons to want us to deal with these matters ourselves has had con­
+some discussion among theologians. The argument that God has reasons to want us to deal with these matters ourselves has had con­
 
 siderable intellectual support. As a nonreligious person, I am not in
 
@@ -20591,8 +20253,7 @@ not, of course, the occasion to investigate theories of justice in any
 
 detail, which I have tried to do elsewhere.3 I have, however, used in
 
-this work some general evaluative ideas (briefly discussed in chap­
-ters I-3) that make use of notions of justice and their informational
+this work some general evaluative ideas (briefly discussed in chapters I-3) that make use of notions of justice and their informational
 requirements. It may be useful to examine the connection of those
 
 ideas with what has been discussed in the intermediate chapters.
@@ -20608,8 +20269,7 @@ going on). The basic concern, I have argued, is with our capability to
 
 lead the kind of lives we have reason to value.4 This approach can
 
-give a very different view of development from the usual concentra­
-tion on GNP or technical progress or industrialization, all of which
+give a very different view of development from the usual concentration on GNP or technical progress or industrialization, all of which
 have contingent and conditional importance without being the defin­
 
 ing characteristics of development.5
@@ -20641,8 +20301,7 @@ ries of justice with the same general orientation. Of course, the con­
 
 flict between equity-oriented and efficiency-oriented considerations is
 not "special'' to the perspective of freedoms. It arises no matter
-whether we concentrate on freedoms or on some other way of judg­
-ing individual advantage (for example by happiness or "utilities," or
+whether we concentrate on freedoms or on some other way of judging individual advantage (for example by happiness or "utilities," or
 by "resources'' or "primary goods'� that the persons respectively
 have). In standard theories of justice this conflict is addressed by
 proposing some very specific formula, such as the utilitarian require­
@@ -20663,15 +20322,12 @@ That acknowledgment itself, along \Vith the need to pay substantial
 
 attention to each of these concerns, draws our attention forcefully to
 
-the relevance of some basic but neglected issues in public policy, deal­
-ing with poverty, inequality and social performance seen in the per­
-spective of freedom. The relevance of both aggregative and distributive
+the relevance of some basic but neglected issues in public policy, dealing with poverty, inequality and social performance seen in the perspective of freedom. The relevance of both aggregative and distributive
 judgments in assessing the process of development is quite central to
 understanding the challenge of development. But this does not
 
 require us to rank all development experiences in one linear order.
-What is, in contrast, indispensably important is an adequate under­
-standing of the informational basis of evaluation-the kind of infor­
+What is, in contrast, indispensably important is an adequate understanding of the informational basis of evaluation-the kind of infor­
 
 mation we need to examine in order to assess what is going on and
 what is being seriously neglected.
@@ -20684,8 +20340,7 @@ into one specific sy stem for ''weighting" some of these competitive
 concerns, which would severely restrict the room for democratic
 
 decision making in this crucial resolution (and more generally in
-''social choice," including the variety of processes that relate to par­
-ticipation). Foundational ideas of justice can separate out some basic
+''social choice," including the variety of processes that relate to participation). Foundational ideas of justice can separate out some basic
 
 issues as being inescapably relevant, but they cannot plausibly end
 up, I have argued, with an exclusive choice of some highly delineated
@@ -20761,16 +20416,14 @@ social existence. The choice of social values cannot be settled merely
 by the pronouncements of those in authority who control the levers
 
 of government. As was discussed earlier (in the introduction and
-chapter I), we must see a frequently asked question in the devel­
-opment literature to be fundamentally misdirected: Do democracy
+chapter I), we must see a frequently asked question in the development literature to be fundamentally misdirected: Do democracy
 
 and basic political and civil rights help to promote the process of
 
 development? Rather, the emergence and consolidation of these rights
 can be seen as being constitutive of the process of development.
 
-This point is quite separate from the instrumental role of democ­
-racy and basic political rights in providing security and protection
+This point is quite separate from the instrumental role of democracy and basic political rights in providing security and protection
 
 to vulnerable groups. The exercise of these rights can indeed help
 
@@ -20890,8 +20543,7 @@ not the good we are seeking; for it is merely useful and for the sake
 
 of something else").n It applies also to such pioneers of "modern"
 economics as William Petty, the author of Political Arithmetick
-(I69I), who supplemented his innovation of national income ac­
-counting with motivating discussions on much broader concerns.n
+(I69I), who supplemented his innovation of national income accounting with motivating discussions on much broader concerns.n
 
 Indeed, the belief that the enhancement of freedom is ultimately
 
@@ -21062,8 +20714,7 @@ that. Hayek may have overstated his case (as he often did) when he
 insisted that "the importance of our being free to do a particular
 thing has nothing to do with the question of whether we or the
 majority are ever likely to make use of that possibility. "r9 But he was,
-I would argue, entirely right in distinguishing between (i) the deriva­
-tive importance of freedom (dependent only on its actual use) and (2)
+I would argue, entirely right in distinguishing between (i) the derivative importance of freedom (dependent only on its actual use) and (2)
 the intrinsic importance of freedom (in making us free to choose
 something we may or may not actually choose).
 
@@ -21077,8 +20728,7 @@ victim could not have made a similar political point. 20
 
 While I do not want to go down the purist route that Hayek
 chooses (in dissociating freedom from actual use altogether), I would
-emphasize that freedom has many aspects. T he process aspect of free­
-dom would have to be considered in addition to the opportunity
+emphasize that freedom has many aspects. T he process aspect of freedom would have to be considered in addition to the opportunity
 aspect, and the opportunity aspect itself has to be viewed in terms of
 intrinsic as well as derivative importance. Furthermore, freedom to
 participate in public discussion and social interaction can also have a
@@ -21093,9 +20743,7 @@ I must also briefly discuss another relation which invites a comment,
 to wit, the relation between the literature on �;'human capital" and
 the focus in this work on "human capability" as an expression of
 freedom. In contemporary economic analysis the emphasis has, to a
-considerable extent, shifted from seeing capital accumulation in pri­
-marily physical terms to viewing it as a process in which the produc­
-tive quality of human beings is integrally involved. For example,
+considerable extent, shifted from seeing capital accumulation in primarily physical terms to viewing it as a process in which the productive quality of human beings is integrally involved. For example,
 through education, learning, and skill formation, people can become
 
 r
@@ -21364,9 +21012,7 @@ of human capital, after acknowledging its relevance and reach. The
 broadening that is needed is additional and inclusive, rather than, in
 any sense , an alternative to the "human capital" perspective.
 
-It is important to take note also of the instrumental role of ca­
-pability expansion in bringing about social change (going well be­
-yond economic change). Indeed, the role of human beings even as
+It is important to take note also of the instrumental role of capability expansion in bringing about social change (going well beyond economic change). Indeed, the role of human beings even as
 instruments of change can go much beyond economic produc­
 
 tion (to which the perspective of "human capital" standardly points),
@@ -21510,11 +21156,8 @@ I. Brihadaranyaka Upanishad 2.4, 2-3.
 
 University Press, revised edition, I 9 So), book I, section 5, p. 7.
 
-3. I have discussed, in earlier publications, different aspects of a freedom­
-centered view of social evaluation; on this see my �'Equality of What?�· in Tanner
-Lectures on Human Values, volume I, edited by S. McMurrin (Cambridge: Cam­
-bridge University Press, 1980); Choice, Welfare and Measurement (Oxford: Black­
-well; Cambridge, Mass.: MIT Press, 1982; republished, Cambridge, Mass.: Harvard
+3. I have discussed, in earlier publications, different aspects of a freedomcentered view of social evaluation; on this see my �'Equality of What?�· in Tanner
+Lectures on Human Values, volume I, edited by S. McMurrin (Cambridge: Cambridge University Press, 1980); Choice, Welfare and Measurement (Oxford: Blackwell; Cambridge, Mass.: MIT Press, 1982; republished, Cambridge, Mass.: Harvard
 University Press, I997); Resources, Values and Development (Cambridge, Mass.:
 Harvard University Press, 1984); "Well-Being, Agency and Freedom: The Dewey
 Lectures 1984,, journal of Philosophy 82 (April 1985); Inequality Reexamined
@@ -21541,8 +21184,7 @@ included in Freedom, Rationality and Social Choice, cited earlier.
 Targeting," keynote address to the 1992 Annual World Bank Conference on Devel�
 opment Economics, published in Public Spending and the Poor: Theory and Evi�
 dence, edited by Dominique van de Walle and Kimberly Nead (Baltimore: Johns
-Hopkins University Press, I995). The issue of political freedom as a part of devel­
-opment is addressed in my "Freedoms and Needs," New Republic, January ro and
+Hopkins University Press, I995). The issue of political freedom as a part of development is addressed in my "Freedoms and Needs," New Republic, January ro and
 17, 1994·
 
 r
@@ -21554,14 +21196,11 @@ Notes to Pages 20-6
 (:r992).
 
 9· These and other such comparisons are presented in my "The Economics of
-Life and Death," Scientific American 2.66 (April 1993), and "Demography and Wel­
-fare Economics," Empidca 22. (1995).
+Life and Death," Scientific American 2.66 (April 1993), and "Demography and Welfare Economics," Empidca 22. (1995).
 
-xo. On this see my "Economics of Life and Death," and also the medical litera­
-ture cited there. See also Jean Dreze and Amartya Sen, Hunger and Public Action
+xo. On this see my "Economics of Life and Death," and also the medical literature cited there. See also Jean Dreze and Amartya Sen, Hunger and Public Action
 (Oxford: Clarendon Press, :r989). On this general issue, see also M. F. Perutz, "Long
-Live the Queen's Subjects,'' Philosophical Transactions of the Royal Society of Lon­
-don 352 (1997).
+Live the Queen's Subjects,'' Philosophical Transactions of the Royal Society of London 352 (1997).
 
 :r I. This can be worked out from the background data used to make life
 expectancy calculations (for 1990), as presented in C.J.L. Murray, C. M. Michaud,
@@ -21571,8 +21210,7 @@ Studies, 1998). See especially table 6d.
 
 r :z.. See Colin McCord and Harold P. Freeman, "Excess Mortality in Harlem,"
 New England Journal of Medicine 3:2.2 (January :r8, :r99o); see also M. W. Owen,
-S. M. Teutsch, D. F. Williamson and J. S. Marks, "The Effects of Known Risk Fac­
-tors on the Excess Mortality of Black Adults in the United States," Journal of the
+S. M. Teutsch, D. F. Williamson and J. S. Marks, "The Effects of Known Risk Factors on the Excess Mortality of Black Adults in the United States," Journal of the
 American Medical Association 263, no. 6 (February 9, 1990).
 
 13. See Nussbaum and Sen, eds., The Quality of Life (1993}.
@@ -21582,17 +21220,14 @@ volume); see also Nussbaum and Sen, eds., The Quality of Life (:r993 ).
 
 I 5. See Adam Smith, An Inquiry into the Nature and Causes of the Wealth of
 Nations (:r776), republished, edited by R. H. Campbell and A. S. Skinner (Oxford:
-Clarendon Press, 1976), volume :z., book 5, chapter 2 (section on "Taxes upon Con­
-sumable Commodities,), pp. 469-7I.
+Clarendon Press, 1976), volume :z., book 5, chapter 2 (section on "Taxes upon Consumable Commodities,), pp. 469-7I.
 
 I6. These issues are discussed in my Tanner Lectures at Cambridge in 1985,
 published in The Standard of Living, edited by Geoffrey Hawthorn (Cambridge:
 Cambridge University Press, 1987).
 
 17. Lagrange thus presented in the late eighteenth century what was probably the
-first analysis of what came to be known in our times as "the new view of consump­
-tion)) {Kevinj. Lancaster, "A New Approach to Consumer Theory,» Journal of Politi­
-cal Economy 74 [1996], and W. M. Gorman, "A Possible Procedure for Analysing
+first analysis of what came to be known in our times as "the new view of consumption)) {Kevinj. Lancaster, "A New Approach to Consumer Theory,» Journal of Political Economy 74 [1996], and W. M. Gorman, "A Possible Procedure for Analysing
 Quality Differentials in the Egg Market," Review of Economic Studies 47 [1980]).
 These and related-matters are discussed in my The Standard of Living (r987).
 
@@ -21601,11 +21236,9 @@ These and related-matters are discussed in my The Standard of Living (r987).
 (New York: Basic Books, :r974).
 
 :r9. This was mainly in the context of Adam Smith's support for legislation
-against "usury," and the need to control the turmoil that follows from the overindul­
-gence of speculative investment by those whom Adam Smith called "prodigals and
+against "usury," and the need to control the turmoil that follows from the overindulgence of speculative investment by those whom Adam Smith called "prodigals and
 projectors." See Smith, Wealth of Nations, volume :r, book 2, chapter 4, paragraphs
-I4-I5, in the edition of Campbell and Skinner (:r976}, pp. 356-7. The term "pro­
-jector" is used by Smith not in the neutral sense of "one who forms a project," but
+I4-I5, in the edition of Campbell and Skinner (:r976}, pp. 356-7. The term "projector" is used by Smith not in the neutral sense of "one who forms a project," but
 in the pejorative sense, apparently common from 16:r6 (according to The Shorter
 Oxford English Dictionary), meaning, among other things, "a promoter of bubble
 companies; a speculator; a cheat." Giorgio Basevi has drawn my attention to some
@@ -21616,13 +21249,11 @@ Notes to Pages 2 6-3 5
 
 30I
 
-interesting parallels between Smith's criticism and Jonathan Swift's unflattering por­
-trayal of "projectors" in Gulliver,s Travels_, published in I726, half a century before
+interesting parallels between Smith's criticism and Jonathan Swift's unflattering portrayal of "projectors" in Gulliver,s Travels_, published in I726, half a century before
 Wealth of Nations.
 
 20. The importance of the distinction between "comprehensive outcomes" and
-"culmination outcomes," in various different contexts, is discussed in my "Maxi­
-mization and the Act of Choice/' Econometrica 65 (July 1997). For the relevance of
+"culmination outcomes," in various different contexts, is discussed in my "Maximization and the Act of Choice/' Econometrica 65 (July 1997). For the relevance of
 the distinction in the specific case of the market mechanism and its alternatives, see
 my ''Markets and Freedoms," Oxford Economic Papers 45 (1993), and "Markets
 and the Freedom to Choose,'' in The Ethical Foundations of the Market Economy_,
@@ -21636,13 +21267,11 @@ nomics of American Negro Slavery (Boston: Little, Brown, I974), pp. 125-6.
 
 23. Fogel and Engerman, Time on the Cross (I974), pp. 237-8.
 24. Different aspects of this momentous issue have been examined in Fernando
-Henrique Cardoso, Capitalismo e Escravidao no Brasil Meridionel: 0 negro na soci­
-adade escravocrata do Rio Grande do Sui {Rio de janeiro: Paz e Terra, 1977); Robin
+Henrique Cardoso, Capitalismo e Escravidao no Brasil Meridionel: 0 negro na sociadade escravocrata do Rio Grande do Sui {Rio de janeiro: Paz e Terra, 1977); Robin
 Blackburn, The Overthrow of Colonial Slavery_, I776-z848 (London and New
 York: Verso, 1988); Tom Brass and Marcel van der Linden, eds., Free and Unfree
 Labour (Berne: European Academic Publishers, 1997); Stanley L. Engerman, ed.,
-Terms of Labor: Slavery, Serfdom and Free Labor {Stanford, Calif.: Stanford Uni­
-versity Press, I 9 9 8).
+Terms of Labor: Slavery, Serfdom and Free Labor {Stanford, Calif.: Stanford University Press, I 9 9 8).
 
 2.5. Karl Marx, Capital, volume I (London: Sonnenschein, I887), chapter Io,
 section 3, p. 240. See also his Grundrisse (Ha.rmondsworth: Penguin Books, 1973).
@@ -21651,16 +21280,13 @@ section 3, p. 240. See also his Grundrisse (Ha.rmondsworth: Penguin Books, 1973)
 Indian Case Study (Oxford: Clarendon Press, 1990}, pp. 1-2..
 
 2. 7. An important empirical study of this aspect of bondage and unfreedom,
-among others, can be found in Sudipto Mundle, Backwardness and Bondage: Agrar­
-ian Relations in a South Bihar District (New Delhi: Indian Institute of Public Admin­
-istration, 1979).
+among others, can be found in Sudipto Mundle, Backwardness and Bondage: Agrarian Relations in a South Bihar District (New Delhi: Indian Institute of Public Administration, 1979).
 
 28. On this see Decent Work: The Report of the Director-General of the ILO
 (Geneva: ILO, 1999}. This is one of the special emphases in the program of the new
 director-general, Juan Soma via.
 
-29. This point of view is forcefully developed in Stephen M. Marglin and Fred­
-erique Appfel Marglin, eds., Dominating Knowledge (Oxford: Clarendon Press,
+29. This point of view is forcefully developed in Stephen M. Marglin and Frederique Appfel Marglin, eds., Dominating Knowledge (Oxford: Clarendon Press,
 1993). On related anthropological insights, see also Veena Das, Critical Events:
 An Anthropological Perspective on Contemporary India (Delhi: Oxford University
 
@@ -21670,9 +21296,7 @@ Chapter 2: The Ends and the Means of Development
 
 I. I have discussed this contrast in an earlier paper, "Development Thinking at
 the Beginning of the 2J:St Century," in Economic and Social Development into the
-XXI Century, edited by Louis Emmerij (Washington, D.C.: Inter-American Develop­
-ment Bank, distributed by Johns Hopkins University Press, 1997). See also my "Eco­
-nomic Policy and Equity: An Overview," in Economic Policy and Equity, edited by
+XXI Century, edited by Louis Emmerij (Washington, D.C.: Inter-American Development Bank, distributed by Johns Hopkins University Press, 1997). See also my "Economic Policy and Equity: An Overview," in Economic Policy and Equity, edited by
 Vito Tanzi, Ke-young Chu and Sanjeev Gupta (Washington, D.C.: International
 Monetary Fund, 1999).
 
@@ -21688,8 +21312,7 @@ Symposium on Global Finance and Development in Tokyo, March I-2� I999�
 
 Clarendon Press, :r989).
 
-4· On this see World Bank, The East Asian Miracle: Economic Growth and Pub­
-lic Policy (Oxford: Oxford University Press, 1993). See also Vito Tanzi et al., Eco�
+4· On this see World Bank, The East Asian Miracle: Economic Growth and Public Policy (Oxford: Oxford University Press, 1993). See also Vito Tanzi et al., Eco�
 nomic Policy and Equity (I999).
 
 5. See Hiromitsu Ishi, "Trends in the Allocation of Public Expenditure in Light
@@ -21713,8 +21336,7 @@ ro. Even though Kerala is merely a state rather than a country, nevertheless, wi
 its population dose to thirty million, it is larger than the majority of countries in the
 world (including, for example, Canada).
 
-rr. On this see my "From Income Inequality to Economic Inequality/' Distin­
-guished Guest Lecture to the Southern Economic Association, published in Southern
+rr. On this see my "From Income Inequality to Economic Inequality/' Distinguished Guest Lecture to the Southern Economic Association, published in Southern
 Economic journal 64 (October r997), and '(Mortality as an Indicator of Economic
 Success and Failure/' first Innocenti Lecture to UNICEF (Florence: UNICEF, r995),
 also published in Economic Journal :ro8 (January 1998).
@@ -21728,8 +21350,7 @@ Modem History of Mortality/) mimeographed, University of Southern California,
 
 nomic Development and Social Opportunity (1995).
 
-r 5. The need for supplemenTing and supporting market-friendly policies for eco­
-nomic growth with a rapid expansion of the social infrastructure (such as public
+r 5. The need for supplemenTing and supporting market-friendly policies for economic growth with a rapid expansion of the social infrastructure (such as public
 health care and basic education) is discussed in some detail, in the context of the
 Indian economy, in my joint book with Jean Dreze, India: Economic Development
 and Social Opportunity (1995).
@@ -21737,8 +21358,7 @@ and Social Opportunity (1995).
 I6. See Robert W. Fogel, "Nutrition and the Decline in Mortality since 1700:
 
 Some Additional Preliminary Findings/' working paper r8o2, National Bureau of
-Economic Research) 1986; Samuel H. Preston, �(Changing Relations between Mor­
-tality and Level of Economic Development/' Population Studies 2.9 (I975), and
+Economic Research) 1986; Samuel H. Preston, �(Changing Relations between Mortality and Level of Economic Development/' Population Studies 2.9 (I975), and
 "American Longevity: Past, Present and Future," PoJicy Brief no. 7, Maxwell School
 of Citizenship and Public Affairs, Syracuse University, I996. See also Lincoln C.
 Chen, Arthur Kleinman and Norma C. Ware, eds., Advancing Health in Developing
@@ -21757,8 +21377,7 @@ lan, 1986).
 
 Policy (London: HMSO, r9so).
 
-I9. On this see R.J. Hammond) History of the Second World War: Food (Lon­
-don: HI\.fSO, 195!). See also Titmuss, History of the Second World War: Problems
+I9. On this see R.J. Hammond) History of the Second World War: Food (London: HI\.fSO, 195!). See also Titmuss, History of the Second World War: Problems
 of Social Po/it;y (.1.950).
 
 :to. See Winter, Great War and the British People (r986) .
@@ -21768,11 +21387,9 @@ ingly big part of the United Kingdom, not a great deal is lost by this restricti
 coverage.
 
 2..2.. See the works of R. ]. Hammond, R. M. Titmuss, and J. M. Winter, cited
-earlier, and the other works to which they refer, and also the discussion and the ref­
-erences in Dreze and Sen, Hunger and Public Action (r989), chapter ro .
+earlier, and the other works to which they refer, and also the discussion and the references in Dreze and Sen, Hunger and Public Action (r989), chapter ro .
 
-.2.3. I have discussed this in "Development: W hich Way Now?n Economic Jour­
-nal 9.2. (December 1982..} and Resources, Values and Development (Cambridge,
+.2.3. I have discussed this in "Development: W hich Way Now?n Economic Journal 9.2. (December 1982..} and Resources, Values and Development (Cambridge,
 Mass.: Harvard University Press, :r984), and jointly with Jean Dreze in Hunger and
 Public Action (r989).
 
@@ -21798,9 +21415,7 @@ I985).
 
 '
 
-4· On the distinctions, see J.C�B. Gosling, Pleasure and Desire (Oxford: Claren­
-don Press, :r969); John C. Harsanyi, Essays in Ethics, Social Behaviour, and Scien­
-ti-fic Explanation (Dordrecht: Reidel, 1:977).
+4· On the distinctions, see J.C�B. Gosling, Pleasure and Desire (Oxford: Clarendon Press, :r969); John C. Harsanyi, Essays in Ethics, Social Behaviour, and Scienti-fic Explanation (Dordrecht: Reidel, 1:977).
 
 5. On the methodological issue involved, see my "On Weights and Measures"
 
@@ -21811,8 +21426,7 @@ ti-fic Explanation (Dordrecht: Reidel, 1:977).
 ,
 
 6. Lionel Robbins was particularly influential in arguing that there could be no
-scientific basis for the possibility of interpersonal comparison of happiness C' Inter­
-personal Comparisons of Utility/' Economic journal 48 [I938]), and his critique
+scientific basis for the possibility of interpersonal comparison of happiness C' Interpersonal Comparisons of Utility/' Economic journal 48 [I938]), and his critique
 had the effect of severely undermining utilitarianism as a mainstream approach in
 welfare economics.
 
@@ -21822,9 +21436,7 @@ John Stuart Mill, Utilitarianism (London, :r86r; republished London: Collins/
 Notes to Pages 58-66
 
 Fontana, :r962); Henry Sidgwick, The Method of Ethics (London: Macmillan,
-1874); William Stanley Jevons, The Theory of Political Economy (London: Mac­
-millan, I8JI; reprinted, sth edition, I9 57); Francis Edgeworth, Mathematical Psy­
-chics: An Essay on the Application of Mathematics to the Moral Sciences (London:
+1874); William Stanley Jevons, The Theory of Political Economy (London: Macmillan, I8JI; reprinted, sth edition, I9 57); Francis Edgeworth, Mathematical Psychics: An Essay on the Application of Mathematics to the Moral Sciences (London:
 Kegan Paul, :r88:.r}; Alfred Marshall, Principles of Economics (London: Macmillan,
 8th edition, :r92o); A. C. Pigou, The Economics of Welfare (London: Macmil�
 Ian, 1920).
@@ -21846,16 +21458,11 @@ and Kjell Arne Brekke, Economic Growth and the Environment (Cheltenham, U.K.:
 Edward Elgar, :r997), among other works.
 
 I I. I have presented my reservations about utilitarianism in, among other places,
-Collective Choice and Social Welfare (San Francisco: Holden-Day, r97o; repub­
-lished, Amsterdam: North-Holland, r 979 ); On Economic Inequality (Oxford:
-Clarendon Press, I973); Inequality Reexamined (Oxford: Clarendon Press; Cam­
-bridge, Mass.: Harvard University Press, 1992). For powerful critiques of the utili­
-tarian tradition, see John Rawls, A Theory of Justice (Cambridge, Mass.: Harvard
-University Press, I 97 :r ); Bernard Williams, "A Critique of Utilitarianism," in Utili­
-tarianism: For and Against, by J.J.C. Smart and B. Williams (Cambridge: Cambridge
+Collective Choice and Social Welfare (San Francisco: Holden-Day, r97o; republished, Amsterdam: North-Holland, r 979 ); On Economic Inequality (Oxford:
+Clarendon Press, I973); Inequality Reexamined (Oxford: Clarendon Press; Cambridge, Mass.: Harvard University Press, 1992). For powerful critiques of the utilitarian tradition, see John Rawls, A Theory of Justice (Cambridge, Mass.: Harvard
+University Press, I 97 :r ); Bernard Williams, "A Critique of Utilitarianism," in Utilitarianism: For and Against, by J.J.C. Smart and B. Williams (Cambridge: Cambridge
 University Press, 1973); Robert Nozick, Anarchy, State and Utopia (New York:
-Basic Books, :t974); Ronald Dworkin, Taking Rights Seriously (London: Duck­
-worth, 1978); Joseph Raz, Ethics in the Public Domain (Oxford: Clarendon Press,
+Basic Books, :t974); Ronald Dworkin, Taking Rights Seriously (London: Duckworth, 1978); Joseph Raz, Ethics in the Public Domain (Oxford: Clarendon Press,
 1994; revised edition, :r995); among other contributions.
 
 12. See Sen, Inequality Reexamined (1992), and Martha Nussbaum, Sex and
@@ -21863,8 +21470,7 @@ worth, 1978); Joseph Raz, Ethics in the Public Domain (Oxford: Clarendon Press,
 Social Justice (New York: Oxford University Press, r999).
 
 13. Rawls, A Theory of Justice (I97I).
-14. Nozick, Anarchy, State and Utopia (r974). See, however, Nozick's later­
-more qualified-position in The Examined Life (New York: Simon & Schuster,
+14. Nozick, Anarchy, State and Utopia (r974). See, however, Nozick's latermore qualified-position in The Examined Life (New York: Simon & Schuster,
 I989).
 
 I5· Rawls, A Theory of Justice (:r97I); see also his Political Liberalism (New
@@ -21873,8 +21479,7 @@ York: Columbia University Press, 1993 ), especially lecture 8.
 
 16. H.L.A. Hart, "Rawls on Liberty and Its Priority," University of Chicago
 Law Review 40 (Spring I973), reprinted in Reading Rawls, edited by Norman
-Daniels (New York: Basic Books, 1975); and Rawls, Political Liberalism (1993), lec­
-ture 8.
+Daniels (New York: Basic Books, 1975); and Rawls, Political Liberalism (1993), lecture 8.
 
 I 7. See my Poverty and Famines; An Essay on Entitlement and Deprivation
 (Oxford and New York: Oxford University Press, 198:r), and a joint book with Jean
@@ -21895,11 +21500,8 @@ The Dewey Lectures 1984," journal of Philosophy 82 (April r985). See also my
 Freedom, Rationality and Social Choice: Arrow Lectures and Other Essays (Oxford:
 Clarendon Press, forthcoming).
 
-19. Robbins, �'Interpersonal Comparisons of Utility" (1938), p. 636. For cri­
-tiques of this position (in particular, of the general denial of the scientific status of
-interpersonal comparisons of utility), see I.M.D. Little, A Critique of Welfare Eco­
-nomics (Oxford: Clarendon Press, 1950; 2d edition, 1957}; B.M.S. Van Praag, Indi­
-vidual Welfare Functions and Consumer Behaviour (Amsterdam: North�Holland,
+19. Robbins, �'Interpersonal Comparisons of Utility" (1938), p. 636. For critiques of this position (in particular, of the general denial of the scientific status of
+interpersonal comparisons of utility), see I.M.D. Little, A Critique of Welfare Economics (Oxford: Clarendon Press, 1950; 2d edition, 1957}; B.M.S. Van Praag, Individual Welfare Functions and Consumer Behaviour (Amsterdam: North�Holland,
 :r968); Amartya Sen, On Economic Inequality (Oxford: Clarendon Press, 1973;
 
 expanded edition, 1997); Amartya Sen, "Interpersonal Comparisons of Welfare," in
@@ -21913,29 +21515,22 @@ Well-Being (Cambridge: Cambridge University Press, I99I).
 
 ·
 
-2.0. John Harsanyi extends the choice definition of utility to interpersonal com­
-parisons by considering hypothetical choices, whereby it is imagined that a person
+2.0. John Harsanyi extends the choice definition of utility to interpersonal comparisons by considering hypothetical choices, whereby it is imagined that a person
 does consider becoming someone else ("Cardinal Welfare, Individualistic Ethics, and
 Interpersonal Comparison of Utility,', Journal of Political Economy 63 [r9 55],
-reprinted in his Essays in Ethics, Social Behaviour, and Scientific Explanation (Dor­
-drecht: Reidel, 1976]). Indeed, Harsanyi's approach to utilitarian welfare economics
+reprinted in his Essays in Ethics, Social Behaviour, and Scientific Explanation (Dordrecht: Reidel, 1976]). Indeed, Harsanyi's approach to utilitarian welfare economics
 is based on valuing a social arrangement in terms of having an equal chance of being
-anyone in the society. This is an extremely useful thought experiment, and it ele­
-gantly gives a precise form to a general approach to fairness that has been invoked
+anyone in the society. This is an extremely useful thought experiment, and it elegantly gives a precise form to a general approach to fairness that has been invoked
 for a long time in the ethical literature. But such hypothetical choices are not easy to
 use in practice for actual comparisons of utility, and the main merit of the approach
 is purely conceptual.
 
 2r. The content of the set of possible utility functions corresponding to a given
 choice behavior would depend on the type of measurability that is presumed (e.g.,
-ordinal, cardinal, ratio-scale). Interpersonal comparison of utilities requires ''in vari­
-ance conditions'� being imposed on the combinations of utility functions of different
-persons from the Cartesian product of their respective sets of possible utility func­
-tions. On these matters, see my "Interpersonal Aggregation and Partial Compara­
-bility," Econometrica 3 8 (I 970 ), reprinted in my Choice, Welfare and Measurement
+ordinal, cardinal, ratio-scale). Interpersonal comparison of utilities requires ''in variance conditions'� being imposed on the combinations of utility functions of different
+persons from the Cartesian product of their respective sets of possible utility functions. On these matters, see my "Interpersonal Aggregation and Partial Comparability," Econometrica 3 8 (I 970 ), reprinted in my Choice, Welfare and Measurement
 (I982), and Collective Choice and Social Welfare {1:970). See also K.WS. Roberts,
-"Interpersonal Comparisons and Social Choice Theory," Review of Economic Stud­
-ies 47 {I98o). Such "invariance conditions" cannot be obtained from observed
+"Interpersonal Comparisons and Social Choice Theory," Review of Economic Studies 47 {I98o). Such "invariance conditions" cannot be obtained from observed
 choice behavior.
 
 22.. On this issue, see Franklin M. Fisher and Karl Shell, The Economic Theory
@@ -21954,8 +21549,7 @@ Development (Cambridge, Mass.: Harvard University Press, 1984; reprinted 1997}.
 the "Scandinavian studies'' on living standards; see, for example, Robert Erikson
 and R. Aberg, Welfare in Transition (Oxford: Clarendon Press) 1987).
 
-25. See particularly Glen Loury, "A Dynamic Theory of Racial Income Differ­
-ences," in Women, Minorities and Employment Discrimination� edited by P. A. Wal�
+25. See particularly Glen Loury, "A Dynamic Theory of Racial Income Differences," in Women, Minorities and Employment Discrimination� edited by P. A. Wal�
 lace and A. Lamond (Lexington, Mass.: Lexington Books, I 977}, and �'Why Should
 We Care about Group Inequality?" Social Philosophy and Policy 5 (1987); James S.
 Coleman, Foundations of Social Theory (Cambridge, Mass.: Harvard University
@@ -21972,12 +21566,10 @@ don: Routledge, I966), and Peter Townsend, Poverty in the United Kingdom: A Sur�
 Ve)' of Household Resources and Standards of Living (Harmondsworth: Penguin
 Books, I979).
 
-27. On this see my "Gender and Cooperative Conflict,', in Persistent Inequali­
-ties: Women and World DevelopmentJ edited by Irene Tinker (New York: Oxford
+27. On this see my "Gender and Cooperative Conflict,', in Persistent Inequalities: Women and World DevelopmentJ edited by Irene Tinker (New York: Oxford
 University Press, 1990), and the literature cited there.
 
-:28. Indeed, in some contexts, such as explanation of famines (and policy analy­
-sis for famine prevention), the lack of income of potential famine victims (and the
+:28. Indeed, in some contexts, such as explanation of famines (and policy analysis for famine prevention), the lack of income of potential famine victims (and the
 possibility of regenerating their incomes) may occupy a central position in the inves�
 tigation. On this see my Poverty and Famines (I981).
 
@@ -21986,8 +21578,7 @@ tigation. On this see my Poverty and Famines (I981).
 ism (r993).
 
 30. In a related line of argument, Ronald Dworkin has argued for '�equality of
-resources," broadening the Rawlsian coverage of primary goods to include insur­
-ance opportunities to guard against the vagaries of "brute luck" {see his "What Is
+resources," broadening the Rawlsian coverage of primary goods to include insurance opportunities to guard against the vagaries of "brute luck" {see his "What Is
 Equality? Part r: Equality of Welfare" and "What Is Equality? Part 2: Equality of
 Resources," Philosophy and Public Affairs IO [I98I]).
 
@@ -22010,48 +21601,35 @@ of seeing liberties has been particularly used in the social choice literature, 
 pie in my Collective Choice and Social Welfare [:r97o], chapter 6). But the Rawlsia.n
 program of using primary goods to judge individual advantage in his "Difference
 Principle" is mainly motivated by his attempt to characterize general-purpose means,
-and thus is subject to interpersonal variations in the conversion of means to the free­
-dom to pursue ends.
+and thus is subject to interpersonal variations in the conversion of means to the freedom to pursue ends.
 
 32. See Alan Williams, "What Is Wealth and Who Creates It?, in Depende1zcy
 to Enterprise_, edited by John Hutton et al. (London: Routledge, 199I); A. J. Culyer
 and Adam Wagstaff, "Needs, Equality and Social Justice/' Discussion Paper 90,
-Centre for Health Economics, University of York, 1991; Alan Williams) Being Rea­
-sonable about the Economics of Health: Selected Essays by Alan Williams> edited by
-A. J. Culyer (Cheltenham, U.K.: Edward Elgar, 1997). See also Paul Farmer, Infec­
-tions and Inequalities: The Modern Plagues (Berkeley, Calif.: University of Cali­
-fornia Press, 1998); Michael Marmot, Martin Bobak and George Davey Smith,
+Centre for Health Economics, University of York, 1991; Alan Williams) Being Reasonable about the Economics of Health: Selected Essays by Alan Williams> edited by
+A. J. Culyer (Cheltenham, U.K.: Edward Elgar, 1997). See also Paul Farmer, Infections and Inequalities: The Modern Plagues (Berkeley, Calif.: University of California Press, 1998); Michael Marmot, Martin Bobak and George Davey Smith,
 "Explorations for Social Inequalities in Health," in Society and Health, edited by
-B. C. Amick, S. Levine, A. R. Tarlov and D. Chapman Walsh (London: Oxford Uni­
-versity Press, 1995); Richard G. Wilkinson, Unhealthy Societies: The Afflictions of
+B. C. Amick, S. Levine, A. R. Tarlov and D. Chapman Walsh (London: Oxford University Press, 1995); Richard G. Wilkinson, Unhealthy Societies: The Afflictions of
 Inequality (New York: Routledge, 1996); James Smith, "Socioeconomic Status and
 Health," American Economic Review 88 (1998), and <'Healthy Bodies and Thick
 Wallets: The Dual Relationship between Health and Socioeconomic Status/' jou-rnal
-of Economic Perspectives 13 (1999). Much insight can also be obtained from stud­
-ies of specific health problems; for example, see Paul Farmer, Margaret Connors and
-Janie Simmons, eds., Women� Poverty and AIDS: Sex, Drugs and Structural Vio­
-lence (Monroe, Me.: Common Courage Press, I996); Alok Bhargava, f'Modeling the
+of Economic Perspectives 13 (1999). Much insight can also be obtained from studies of specific health problems; for example, see Paul Farmer, Margaret Connors and
+Janie Simmons, eds., Women� Poverty and AIDS: Sex, Drugs and Structural Violence (Monroe, Me.: Common Courage Press, I996); Alok Bhargava, f'Modeling the
 Effects of Nutritional and Socioeconomic Factors on the Growth and Morbidity of
 Kenyan School Children," American Journal of Human Biology II (1999).
 
-33· See A. C. Pigou, The Economics of Welfare, 4th edition {London: Macmil­
-lan, 1952.). See also Pitambar Pant et al., Perspectives of Development: I96I-I976�
-Implications of Planning for a Minimal Level of Living (New Delhi: Planning Com­
-mission of India, 1962.); Irma Adelman and Cynthia T. Morris, Economic Growth
+33· See A. C. Pigou, The Economics of Welfare, 4th edition {London: Macmillan, 1952.). See also Pitambar Pant et al., Perspectives of Development: I96I-I976�
+Implications of Planning for a Minimal Level of Living (New Delhi: Planning Commission of India, 1962.); Irma Adelman and Cynthia T. Morris, Economic Growth
 and Social Equity in Developing Countries (Stanford: Stanford University Press,
-1973); Amartya Sen, "On the Development of Basic Income Indicators to Supple­
-ment the GNP Measuze, ,, United Nations Economic Bulletin for Asia and the Far
+1973); Amartya Sen, "On the Development of Basic Income Indicators to Supplement the GNP Measuze, ,, United Nations Economic Bulletin for Asia and the Far
 East 24 (1973); Pranab Bardhan, "On Life and Death Questions," Economic and
-Political Weekly 9 (I974h Irma Adelman, "Development Economics-A Reassess­
-ment of Goals," American Economic Review, Papers and Proceedings 65 {1975);
+Political Weekly 9 (I974h Irma Adelman, "Development Economics-A Reassessment of Goals," American Economic Review, Papers and Proceedings 65 {1975);
 A. 0. Herrera et al., Catastrophe or New Society? A Latin American World Model
-(Ottawa: IDRC, 1976); Mahbub ul Haq, The Poverty Curtain (New York: Colum­
-bia University Press, 1976); Paul Streeren and S. Javed Burki, "Basic Needs: Some
+(Ottawa: IDRC, 1976); Mahbub ul Haq, The Poverty Curtain (New York: Columbia University Press, 1976); Paul Streeren and S. Javed Burki, "Basic Needs: Some
 Issues,'' World Development 6 (1978); Keith Griffin, International Inequality and
 National Poverty (London: Macmillan, 1978); Morris D. Morris, Measuring the
 Conditions of the WorJd•s Poor: The Physical Quality of Life Index (Oxford: Per�
-gamon Press, 1:979); Graciela Chichilnisky, ''Bask Needs and Global Models: Re­
-sources, Trade and Distribution,', Alternatives 6 (198o}; Paul Streeten, Development
+gamon Press, 1:979); Graciela Chichilnisky, ''Bask Needs and Global Models: Resources, Trade and Distribution,', Alternatives 6 (198o}; Paul Streeten, Development
 Perspectives (London: Macmillan, 198x); Paul Streeten, S. Javed Burki, Mahbub ul
 
 Notes to Pages 73-4
@@ -22067,8 +21645,7 @@ and Welfare: Britain I70o-198o," Historical Working Paper 87, National Bureau of
 Economic Research, I996; Nicholas F. R. Crafts, "Some Dimensions of the 'Quality
 of Life' during the British Industrial Revolution," Economic History Review 4
 (I997h Santosh Mehrotra and Richard jolly, eds., Development with a Human
-Face: Experiences in Social Achievement and Economic Growth (Oxford: Claren­
-don Press, I997h A. P. Thirwall, Growth and Development, 6th edition (London:
+Face: Experiences in Social Achievement and Economic Growth (Oxford: Clarendon Press, I997h A. P. Thirwall, Growth and Development, 6th edition (London:
 Macmillan, 1999); among other contributions.
 
 34· United Nations Development Programme, Human Development Report
@@ -22076,34 +21653,24 @@ t990 {New York: Oxford University Press, I990), and the subsequent yearly
 reports. Mahbub ul Haq's own account of this innovative departure can b e found in
 his Reflections o n Human Development (New York: Oxford University Press,
 199 5 ). See also the applications and extensions illuminatingly presented by Nicholas
-F. R. Crafts, "The Human Development Index and Changes in the Standard of LiY­
-ing: Some Historical Comparisons,', Review of European Economic History I
+F. R. Crafts, "The Human Development Index and Changes in the Standard of LiYing: Some Historical Comparisons,', Review of European Economic History I
 (I997)· The United Nations Children's Fund (UNICEF) has also been a pioneer in
 issuing annual reports on the lives of children; see UNICEF, The State of the World's
-Children (New York: Oxford University Press, 1987), and other annual issues. Men­
-tion must also be made of the informationally rich World Development Reports pro­
-duced by the World Bank, with its increasing attempt to cover more ground on living
-conditions. The health conditions received extensive attention in the World Devel­
-opment Report :r993 (New York: Oxford University Press, 1993).
+Children (New York: Oxford University Press, 1987), and other annual issues. Mention must also be made of the informationally rich World Development Reports produced by the World Bank, with its increasing attempt to cover more ground on living
+conditions. The health conditions received extensive attention in the World Development Report :r993 (New York: Oxford University Press, 1993).
 
 35· Aristotle, The Nicomachean Ethics, translated by D. Ross (Oxford: Oxford
 University Press, revised edition .r98o), book r, section 7, pp. 12-14. On this see
-Martha Nussbaum, "Nature, Function and Capability: Aristotle on Political Distri­
-bution," Oxford Studies in Ancient Philosophy (I988; supplementary volume}.
+Martha Nussbaum, "Nature, Function and Capability: Aristotle on Political Distribution," Oxford Studies in Ancient Philosophy (I988; supplementary volume}.
 
 36. Smith, Wealth of Nations (I776), volume 2, book 5, chapter 2.
 37· Smith, Wealth o{Natio1�s (1776), volume 2, book 5, chapter 2, in the edition
 by R. H. Campbell and A. S. Skinner {Oxford: Clarendon Press, 1976), pp. 469-71.
-38. See my ''Equality of What?>) in Tanner Lectures on Human Values, vol­
-ume x, edited by S. McMurrin (Cambridge: Cambridge University Press, 1982; Salt
-Lake City: University of Utah Press}; reprinted in my Choice� Welfare and Measure­
-ment (I98o); also in John Rawls et al., Liberty, Equality and Law, edited by
-S. McMurrin (Cambridge: Cambridge University Press, and Salt Lake City: Univer­
-sity of Utah Press, 1987), and in Stephen Darwall, ed .� Equal Freedom: Selected Tan­
-ner Lectures on Human Values {Ann Arbor: University of Michigan Press, 1995).
+38. See my ''Equality of What?>) in Tanner Lectures on Human Values, volume x, edited by S. McMurrin (Cambridge: Cambridge University Press, 1982; Salt
+Lake City: University of Utah Press}; reprinted in my Choice� Welfare and Measurement (I98o); also in John Rawls et al., Liberty, Equality and Law, edited by
+S. McMurrin (Cambridge: Cambridge University Press, and Salt Lake City: University of Utah Press, 1987), and in Stephen Darwall, ed .� Equal Freedom: Selected Tanner Lectures on Human Values {Ann Arbor: University of Michigan Press, 1995).
 See also my "Public Action and the Quality of Life in Developing Countries,"
-Oxford Bulletin of Economics and Statistics 43 (r98I); Commodities and Capabili­
-ties {Amsterdam: North-Holland, 1985); "Well-Being, Agency and Freedom"
+Oxford Bulletin of Economics and Statistics 43 (r98I); Commodities and Capabilities {Amsterdam: North-Holland, 1985); "Well-Being, Agency and Freedom"
 (r985); (jointly with Jean Dreze) Hunger and Public Action (Oxford: Clarendon
 Press, I989}; and "Capability and Well-Being," i n The Quality of Life, edited by
 Martha Nussbaum and Amartya Sen (Oxford: Clarendon Press, 1993).
@@ -22113,52 +21680,40 @@ Martha Nussbaum and Amartya Sen (Oxford: Clarendon Press, 1993).
 Notes to Pages 74-5
 
 39· On the nature and pervasiveness of such variability, see my Commodities
-and Capabilities (:1985) and Inequality Reexamined (.I99.2). On the general rele­
-vance of taking note of disparate needs in resource allocation, see also my On Eco­
-nomic Inequality, chapter I; L. Doyal and I. Gough, A Theory of Huma1t Need
-(New York: Guilford Press, 1991); U. Ebert, «On Comparisons oflncome Distribu­
-tions When Household Types Are Different,'' Economics Discussion Paper V�86�9.2,
+and Capabilities (:1985) and Inequality Reexamined (.I99.2). On the general relevance of taking note of disparate needs in resource allocation, see also my On Economic Inequality, chapter I; L. Doyal and I. Gough, A Theory of Huma1t Need
+(New York: Guilford Press, 1991); U. Ebert, «On Comparisons oflncome Distributions When Household Types Are Different,'' Economics Discussion Paper V�86�9.2,
 University of Oldenberg, 1992; Dan W. Brock, Life and Death: Philosophical Essays
 in Biomedical Ethics (Cambridge: Cambridge University Press, r993); Alessandro
 Balestrino, «Poverty and Functionings: Issues in Measurement and Public Action,"
-Giornale deg/i Economisti e Annali di Economia 53 {1994); Enrica Chiappero Mar­
-tinetti, "A New Approach to Evaluation of Well-Being and Poverty by Fuzzy Set
-Theory," Giornale degli Economisti 53 (1994); M. Fleurbaey, '�On Fair Compensa­
-tion�, Theory and Decision 36 (1994); Elena Granaglia, "More or Less Equality? A
+Giornale deg/i Economisti e Annali di Economia 53 {1994); Enrica Chiappero Martinetti, "A New Approach to Evaluation of Well-Being and Poverty by Fuzzy Set
+Theory," Giornale degli Economisti 53 (1994); M. Fleurbaey, '�On Fair Compensation�, Theory and Decision 36 (1994); Elena Granaglia, "More or Less Equality? A
 Misleading Question for Social Policy," Giornale degli Economisti 53 (r994); M.
 Fleurbaey, "Three Solutions for the Compensation Problem," journal of Economic
 Theory 65 (1995); Ralf Eriksson and Markus Jantti, Economic Value and Ways of
 Life (Aldershot: Avebury, 1995}; A. F. Shorrocks, "Inequality and Welfare Compar·
 isons for Heterogeneous Populations/' mimeographed, Department of Economics,
 University of Essex, 1995; B. Nolan and C. T. Whelan,. Resources> Deprivation, and
-Poverty (Oxford: Clarendon Press, 1996); Alessandro Balestrino, "A Note on Func­
-tioning-Poverty in Affluent Societies," Notizie di Politeia (:r996; special volume);
+Poverty (Oxford: Clarendon Press, 1996); Alessandro Balestrino, "A Note on Functioning-Poverty in Affluent Societies," Notizie di Politeia (:r996; special volume);
 Carmen Herrero, "Capabilities and Utilities," Economic Design 2 {r996); Santosh
 Mehrotra and Richard JoJly, eds., Development with a Human Face (Oxford:
-Clarendon Press, 1997}; Consumers International, The Social Art of Economic Cri­
-sis: . . . Our Rice Pots Are Empty (Penerz, Malopia: Consumers International,
+Clarendon Press, 1997}; Consumers International, The Social Art of Economic Crisis: . . . Our Rice Pots Are Empty (Penerz, Malopia: Consumers International,
 I998); among other contributions.
 
 40. See my "Equality of What?'' (198o}, Commodities and Capabilities (r985),
 and Inequality Reexamined ( r 992). See also Keith Griffin and John Knight, Human
 Development and the International Development Strategies for the I990s (London:
 Macmillan, :r99o); David Crocker, "Functioning and Capability: The Foundations
-of Sen's and Nussbaum's Development Ethic," Political Theory 20 (1:992}; Nuss­
-baum and Sen, The Quality of Life ( I993 ); Martha Nussbaum and Jonathan Glover,
+of Sen's and Nussbaum's Development Ethic," Political Theory 20 (1:992}; Nussbaum and Sen, The Quality of Life ( I993 ); Martha Nussbaum and Jonathan Glover,
 Women, Culture, and Development (Oxford: Clarendon Press, 1995); Meghnad
 Desai, Poverty, Famine, and Economic Development (Aldershot: Edward Elgar,
 1994); Kenneth Axrow, "A Note on Freedom and Flexibility," and Anthony B.
-Atkinson, "Capabilities, Exclusion and the Supply of Goods/' both in Choice:t Wel­
-fare and Development, edited by K. Basu, P. Pattanaik and K. Suzumura (Oxford:
-Clarendon Press, :1995); Stefano Zamagni, "Amartya Sen on Social Choice, Utilitari­
-anism and Liberty," Italian Economic Papers 2 (:r995); Herrero, "Capabilities and
+Atkinson, "Capabilities, Exclusion and the Supply of Goods/' both in Choice:t Welfare and Development, edited by K. Basu, P. Pattanaik and K. Suzumura (Oxford:
+Clarendon Press, :1995); Stefano Zamagni, "Amartya Sen on Social Choice, Utilitarianism and Liberty," Italian Economic Papers 2 (:r995); Herrero, "Capabilities and
 Utilities"' (1996}; Nolan and WhelanJ R�sources, Deprivation� and Poverty (r996};
-Frank Ackerman, David Kiron, Neva R. Goodwin, Jonathan Harris and Kevin Gal­
-lagher, eds., Human Well-Being and Economic Goals (Washington, D.C.: Island
+Frank Ackerman, David Kiron, Neva R. Goodwin, Jonathan Harris and Kevin Gallagher, eds., Human Well-Being and Economic Goals (Washington, D.C.: Island
 Press) r997); J.-Fr. Laslier et al., eds., Freedom in Economics (London: Routledge,
 1998}; Prasanta K. Pattanai.k, "Cultural Indicators of Well-Being: Some Conceptual
-Issues," in World Culture Report (Paris: UNESCO, 1998); Sabina Alkire, "Opera­
-tionalizing Amartya Sen's Capability Approach to Human Development" (D. Ph.
+Issues," in World Culture Report (Paris: UNESCO, 1998); Sabina Alkire, "Operationalizing Amartya Sen's Capability Approach to Human Development" (D. Ph.
 thesis, Oxford University, :t999}.
 
 41. Even the elementary functionings of being well-nourished involve significant
@@ -22181,8 +21736,7 @@ into Well-Being and Destitution
 (Oxford: Clarendon Press, 1993); S. R. Osmani, ed., Nutrition and Poverty (Oxford:
 Clarendon Press, 1993).
 
-42. T hese issues are discussed in my Tanner Lectures included in my The Stan­
-dard of Living, edited by Geoffrey Hawthorn (Cambridge: Cambridge University
+42. T hese issues are discussed in my Tanner Lectures included in my The Standard of Living, edited by Geoffrey Hawthorn (Cambridge: Cambridge University
 Press, I987), in which see also the contributions of Geoffrey Hawthorn, John Muell­
 
 bauer, Ravi Kanbur, Keith Hart and Bernard Williams, and my response to these
@@ -22191,9 +21745,7 @@ Well-Being," Social Choice and Welfare 4 (x987); G. A. Cohen, "Equality of What?
 On Welfare, Goods and Capabilities,', Recherches Economiques de Louvain 56
 (1990}; Norman Daniels, "Equality of W hat: Welfare, Resources or Capabilities?"
 Philosophy of Phenomenological Research so (1990); Crocker, «Functioning and
-Capability" (:r992.); Brock, Life and Death (1993); Mozaffar Qizilbash, "Capabili­
-ties, Well-Being and Human Development: A Survey," Journal of Development Stud­
-ies 33 (r996), and "The Concept of Well-Being," E�onomics and Philosophy 14
+Capability" (:r992.); Brock, Life and Death (1993); Mozaffar Qizilbash, "Capabilities, Well-Being and Human Development: A Survey," Journal of Development Studies 33 (r996), and "The Concept of Well-Being," E�onomics and Philosophy 14
 
 (r998); Alkire, "Operationalizing Amartya Sen's CapabHity Approach to Human
 Developmene' (1999). See also the symposia on the capability approach in Giornale
@@ -22201,8 +21753,7 @@ degli Economisti e Annali di Economia 53 (1994), and in Notizie di Politeia (199
 special volume), including contributions by Alessandro Balestrino, Giovanni Andrea
 
 Cornia, Enrica Chiappero Ma.rtinetti, Elena Granaglia, Renata Targetti Lenti, Ian
-Carter, L. Casini and I. Bernetti, S. Razavi, and others. See also the related sympo­
-sium on entitlement analysis in Journal of International Development 9 (x997),
+Carter, L. Casini and I. Bernetti, S. Razavi, and others. See also the related symposium on entitlement analysis in Journal of International Development 9 (x997),
 
 edited by Des Gasper, which includes contributions by Des Gasper, Charles Gore,
 
@@ -22234,8 +21785,7 @@ Notes to Pages 75-6
 
 3II
 
-C. Dagum et al. (New York: Springer-Verlag, 1990); Balestrino, " Poverty and Func­
-tionings" {1994); E. Ok, ''Fuzzy Measurement of Income Inequality: A Class of
+C. Dagum et al. (New York: Springer-Verlag, 1990); Balestrino, " Poverty and Functionings" {1994); E. Ok, ''Fuzzy Measurement of Income Inequality: A Class of
 Fuzzy Inequality Measures," Social Choice and Welfare 12 (1995); L. Casini and
 I. Bernetti, "Environment, Sustainability, and Sen's Theory,, Notizie di Politeia
 (r996; special volume); among other contributions.
@@ -22252,9 +21802,7 @@ Health Care" (1995); Remigius Henricus Oosterdorp, ''Adam Smith, Social Norms
 and Economic Behavior'' {1995); Anthony Simon Laden, "Constructing Shared
 Wills: Deliberative Liberalism and the Politics of Identity" (1996); Douglas Hicks,
 "Inequality Matters" (1998); Jennifer Prah Ruger, "Aristotelian Justice and Health
-Policy: Capability and Incompletely Theorized Agreements'> (1998); Sousan Aha­
-dian, C(From Wasteland to Homeland: Trauma and the Renewal of Indigenous Peo­
-ples and Their Communities" {1999).
+Policy: Capability and Incompletely Theorized Agreements'> (1998); Sousan Ahadian, C(From Wasteland to Homeland: Trauma and the Renewal of Indigenous Peoples and Their Communities" {1999).
 
 4 5. See the rather extensive literature on this, referred to in my On Economic
 Inequality (Oxford: Clarendon Press, expanded edition, 1997), with a substantial
@@ -22263,9 +21811,7 @@ above, and also Haidar A. Khan, Technology, Development and Democracy
 (Northampton, Mass.: Edward Elgar, 1998); Nancy Folbre, "A Time (Use Survey)
 for Every Purpose: Non-market Work and the Production of Human Capabilities,"
 mimeographed, University of Massachusetts, Amherst, 1997; Frank Ackerman et al.,
-Human Well-Being and Economic Goals; Felton Earls and Maya Carlson, "Ado­
-lescents as Collaborators: In Search of Well-Being," mimeographed, Harvard Uni­
-versity, 1998; David Crocker and Toby Linden, eds., Ethics of Consumption (New
+Human Well-Being and Economic Goals; Felton Earls and Maya Carlson, "Adolescents as Collaborators: In Search of Well-Being," mimeographed, Harvard University, 1998; David Crocker and Toby Linden, eds., Ethics of Consumption (New
 York: Rowman and Littlefield, I998); among other writings.
 
 46. This approach is called "elementary evaluation" of the capability set; the
@@ -22277,15 +21823,13 @@ Capabilities ( r 9 8 5). See also G. A. Cohen's argument for what he calls ('mid
 Welfare, Goods and Capabilities" (1990); and Self-Ownership, Freedom, and
 Equality (Cambridge: Cambridge University Press, r 9 9 5). See Richard Arneson,
 "Equality and Equality of Opportunity for Welfare," Philosophical Studies 56
-(1989), and "Liberalism, Distributive Subjectivism, and Equal Opportunity for Wel­
-fare," Philosophy and Public Affairs 19 (1990).
+(1989), and "Liberalism, Distributive Subjectivism, and Equal Opportunity for Welfare," Philosophy and Public Affairs 19 (1990).
 
 47· These issues have been discussed extensively in my Freedom� Rationality and
 Social Choice (forthcoming). See also Tjalling C. Koopmans, '(On Flexibility of
 Future Preference," in Human Judgments and Optimality, edited by M. W. Shelley
 (New York: Wiley, 1964); David Kreps, "A Representation Theorem for 'Preference
-for Flexibility,'" Econometrica 47 (1979); Peter Jones and Robert Sugden, "Evalu­
-ating Choice," International Review of Law and Economics 2 (r982); James Foster,
+for Flexibility,'" Econometrica 47 (1979); Peter Jones and Robert Sugden, "Evaluating Choice," International Review of Law and Economics 2 (r982); James Foster,
 "Notes on Effective Freedom," mimeographed, Vanderbilt University, presented at
 the Stanford Workshop on Economic Theories of Inequality, sponsored by the
 
@@ -22293,9 +21837,7 @@ the Stanford Workshop on Economic Theories of Inequality, sponsored by the
 
 Notes to Pages 76-8
 
-MacArthur Foundation, March II-I3, I993; Kenneth J . Arrow, "A Note on Free­
-dom and Flexibility," in Choice, Welfare and Development, edited by Basu, Pat­
-tanaik and Suzwnura (1995); Robert Sugden, "The Metric of Opportunity/'
+MacArthur Foundation, March II-I3, I993; Kenneth J . Arrow, "A Note on Freedom and Flexibility," in Choice, Welfare and Development, edited by Basu, Pattanaik and Suzwnura (1995); Robert Sugden, "The Metric of Opportunity/'
 
 Discussion Paper 961o, Economics Research Centre, University of East Anglia,
 
@@ -22303,18 +21845,15 @@ Discussion Paper 961o, Economics Research Centre, University of East Anglia,
 
 , ,
 
-48. On this see my Commodities and Capabilities (1985) and "Welfare, Prefer­
-ence, and Freedom," Journal of Econometrics so (I99I). On various proposals on
-assessing the extent of "freedom," see also David Kreps, "A Representation Theo­
-rem for 'Preference for Flexibility
+48. On this see my Commodities and Capabilities (1985) and "Welfare, Preference, and Freedom," Journal of Econometrics so (I99I). On various proposals on
+assessing the extent of "freedom," see also David Kreps, "A Representation Theorem for 'Preference for Flexibility
 , (:r979); Patrick Suppes, "Maximizing Freedom
 of Decision: An Axiomatic Analysis," in Arrow and the Foundations of Economic
 Policy, edited by G. R . Feiwel (London: Macmillan, 1987); P. K. Pattanaik and
 Y. Xu, "On Ranking Opportunity Sets in Terms of Freedom of Choice," Recherches
 Economiques de Louvain 56 {1990); James Foster, "Notes on Effective Freedom"
 (1993); Kenneth J. Arrow, "A Note on Freedom and Flexibility," in ChoiceJ Welfare
-and Development, edited by Basu, Pattanaik and Suzumura (1995); Carmen Her­
-rero, "Capabilities and Utilities"; Clemens Puppe, "Freedom, Choice, and Rational
+and Development, edited by Basu, Pattanaik and Suzumura (1995); Carmen Herrero, "Capabilities and Utilities"; Clemens Puppe, "Freedom, Choice, and Rational
 Decisions," Social Choice and Welfare 12 (1995); among other contributions.
 
 49· On these issues see my Commodities and Capabilities (1985); Inequality
@@ -22325,17 +21864,14 @@ Reexamined (1992); and "Capability and Well-Being" (1993).
 analogy with Kenneth Arrow's famous impossibility theorem, various "impossibility
 theorems, have been presented in the literature about the existence of satisfactory
 
-overall indices of Rawlsian primary goods; see Charles Plott, '<Rawls' Theory of Jus­
-tice: An Impossibility Result," in Decision Theory and Social Ethics, edited by H. W.
+overall indices of Rawlsian primary goods; see Charles Plott, '<Rawls' Theory of Justice: An Impossibility Result," in Decision Theory and Social Ethics, edited by H. W.
 
 Gottinger and W. Leinfellner (Dordrecht: Reidel, 1978); Allan Gibbard, "Disparate
 
 Goods and Rawls's Difference Principle: A Social Choice Theoretic Treatment,"
 Theory and Decision rr (1979); Douglas H. Blair, «The Primary-Goods Indexation
-Problem in Rawls' Theory of Justice,'' Theory and Decision 2.4 (1988). Informa­
-tional limitations play a crucial part in precipitating these results (as in the case of
-Arrow's theorem) . The case against imposing such informational limitations is dis­
-cussed in my "On Indexing Primary Goods and Capabilities" (mimeographed, Har­
+Problem in Rawls' Theory of Justice,'' Theory and Decision 2.4 (1988). Informational limitations play a crucial part in precipitating these results (as in the case of
+Arrow's theorem) . The case against imposing such informational limitations is discussed in my "On Indexing Primary Goods and Capabilities" (mimeographed, Har­
 
 vard University, 1991), which reduces the rub of these alleged impossibility results,
 applied to Rawlsian procedures.
@@ -22345,11 +21881,9 @@ weights and monotonic extension of the generated partial orderings (based on
 
 "'intersections of possible rankings'>) have been explored in my "Interpersonal
 Aggregation and Partial Comparability" (1970) and Collective Choice and Social
-Welfare (.t97o), chapters 7 and 7*; and in Charles Blackerby, "Degrees of Cardinal­
-ity and Aggregate Partial Ordering," Econometrica 4 3 (I 97 5); Ben Fine, "A Note on
+Welfare (.t97o), chapters 7 and 7*; and in Charles Blackerby, "Degrees of Cardinality and Aggregate Partial Ordering," Econometrica 4 3 (I 97 5); Ben Fine, "A Note on
 Interpersonal Aggregation and Partial Comparability," Econometrica 4 3 ( 197 5 );
-Kaushik Basu, Revealed Preference of Government (Cambridge: Cambridge Univer­
-sity Press, 198o); James Foster and Amartya Sen, "On Economic Inequality after a
+Kaushik Basu, Revealed Preference of Government (Cambridge: Cambridge University Press, 198o); James Foster and Amartya Sen, "On Economic Inequality after a
 Quarter Century,n in my. On Economic Inequality, expanded edition (1997). The
 
 approach of intersection partial orderings can be combined with '<fuzzy " represen­
@@ -22364,8 +21898,7 @@ Notes to Pages 78-83
 
 and Sen's Theory," Notizie de Politeia 1:2 (1996), and Herrero, "Capabilities and
 Utilities" (r996). But even with an incomplete ordering many decision problems can
-be adequately resolved, and even those that are not fully resolved can be substan­
-tially simplified {through the rejection of "dominated" alternatives).
+be adequately resolved, and even those that are not fully resolved can be substantially simplified {through the rejection of "dominated" alternatives).
 
 52. This issue, and its connection with both social choice theory and public
 choice theory, are discussed in my presidential address to the American Economic
@@ -22400,8 +21933,7 @@ jointly with James Foster} in the enlarged (1997) edition of my On Economic
 
 Inequality.
 
-57. It is tempting to consider distribution measures in different spaces ( distribu­
-tions of incomes, longevities, literacies, etc.), and then to put them together. But this
+57. It is tempting to consider distribution measures in different spaces ( distributions of incomes, longevities, literacies, etc.), and then to put them together. But this
 
 would be a misleading procedure, since much would depend on how these variables
 relate to one another in interpersonal patterns (what may be called the "covariance"
@@ -22431,8 +21963,7 @@ Press for the World Bank, 1997). See also Angus Deaton and John Muellbauer, Eco�
 
 nomics and Consumer Behaviour (Cambridge: Cambridge University Press, I98o),
 and "On Measuring Child Costs: With Applications to Poor Countries," journal of
-Political Economy 94 (1986). See also Dale W. Jorgenson, Welfare> volume 2, Mea­
-suring Social Welfare (Cambridge, Mass.: MIT Press, 1997).
+Political Economy 94 (1986). See also Dale W. Jorgenson, Welfare> volume 2, Measuring Social Welfare (Cambridge, Mass.: MIT Press, 1997).
 
 6o. See Hugh Dalton, "The Measurement of the Inequality of Incomes,,, Economic
 
@@ -22452,11 +21983,9 @@ Other Essays (forthcoming).
 Chapter 4: Poverty as Capability Deprivation
 
 r. This view of poverty is more fully developed in my Poverty and Famines
-(Oxford: Clarendon Press, 1981} and Resources, Values and Development (Cam­
-bridge, Mass.: Harvard University Press, 1984), and also in Jean Dreze and Amartya
+(Oxford: Clarendon Press, 1981} and Resources, Values and Development (Cambridge, Mass.: Harvard University Press, 1984), and also in Jean Dreze and Amartya
 Sen, Hunger and Public Action (Oxford: Clarendon Press, I989), and in Sudhir
-Anand and Amartya Sen, "Concepts of Human Development and Poverty: A Multi­
-dimensional Perspective," in Human Development Papers I997 (New York: UNDP,
+Anand and Amartya Sen, "Concepts of Human Development and Poverty: A Multidimensional Perspective," in Human Development Papers I997 (New York: UNDP,
 1997).
 
 2. These claims and their implications are more fully discussed in my '�Poverty
@@ -22464,25 +21993,20 @@ dimensional Perspective," in Human Development Papers I997 (New York: UNDP,
 as Capability Deprivation,'' mimeographed, Rome: Bank of Italy.
 
 3. For example, hunger and undernutrition are related both to food intake and
-to the ability to make nutritive use of that intake. The latter is deeply affected by gen­
-eral health conditions (for example, by the presence of parasitic diseases), and that
+to the ability to make nutritive use of that intake. The latter is deeply affected by general health conditions (for example, by the presence of parasitic diseases), and that
 in turn depends much on cormnunal health care and public health provisions; on this
-see Dreze and Sen, Hunger and Public Action (1989), and S. R. Osmani, ed., Nutri­
-tion and Poverty (Oxford: Clarendon Press, 1993 ).
+see Dreze and Sen, Hunger and Public Action (1989), and S. R. Osmani, ed., Nutrition and Poverty (Oxford: Clarendon Press, 1993 ).
 
 4· See, for example, James Smith, "Healthy Bodies and T hick Wallets: The Dual
-Relationship between Health and Socioeconomic Status," Journal of Economic Per­
-spectives 13 (1999). There is also another type of "coupling', between (I) undernu�
+Relationship between Health and Socioeconomic Status," Journal of Economic Perspectives 13 (1999). There is also another type of "coupling', between (I) undernu�
 trition generated by income-poverty and (2) income-poverty resulting from work
 deprivation due to undernutrition. On these connections, see Partha Dasgupta and
 Debraj Ray, "Inequality as a Determinant of Malnutrition and Unemployment:
-Theory/' Economic Journal 96 {1986); "Inequality as a Determinant of Malnutri­
-tion and Unemployment: Policy," Economic Journal 97 (1987); and "Adapting to
+Theory/' Economic Journal 96 {1986); "Inequality as a Determinant of Malnutrition and Unemployment: Policy," Economic Journal 97 (1987); and "Adapting to
 Undernourishment: Biological Evidence and Its Implications," in The Political
 Economy of Hunger, edited by Jean Dreze and Amartya Sen (Oxford: Clarendon
 Press, 1990). See also Partha Dasgupta, An Inquiry into Well-Being and Destitution
-(Oxford: Clarendon Press, 1993), and Debraj Ray, Development Economics (Prince­
-ton: Princeton University Press, 1998).
+(Oxford: Clarendon Press, 1993), and Debraj Ray, Development Economics (Princeton: Princeton University Press, 1998).
 
 5. The large contribution of such handicaps to the prevalence of income poverty
 in Britain was sharply brought out by A. B. Atkinson's pioneering empirical study,
@@ -22492,16 +22016,12 @@ between income handicap and deprivations of other kinds.
 
 6. On the nature of these functional handicaps, see Dorothy Wedderburn, The
 Aged in the Welfare State (London: Bell, 1961); Peter Townsend, Poverty in the
-United Kingdom: A Survey of Household Resources and Standards of Living (Har­
-mondsworth: Penguin Books, 1979); J. Palmer, T. Smeeding and B. Torrey, The Vul­
-nerable: America,s Young and Old in the Industrial World (Washington, D.C.:
+United Kingdom: A Survey of Household Resources and Standards of Living (Harmondsworth: Penguin Books, 1979); J. Palmer, T. Smeeding and B. Torrey, The Vulnerable: America,s Young and Old in the Industrial World (Washington, D.C.:
 Urban Institute Press, 1988); among other contributions.
 
 Notes to Pages 89-93
 
-7· I have tried to investigate the perspective of capability deprivation for analyz­
-ing gender inequality in Resources, Values and Development ( 1984; 1997); Com­
-modities and Capabilities (Amsterdam: North-Holland, 1985); and "Missing
+7· I have tried to investigate the perspective of capability deprivation for analyzing gender inequality in Resources, Values and Development ( 1984; 1997); Commodities and Capabilities (Amsterdam: North-Holland, 1985); and "Missing
 Women,'' British Medical ]ourna/304 (March 1992). See also Pranab Bardhan, "On
 Life and Death Questions," Economic and Political Weekly 9 (1974); Lincoln Chen,
 E. Huq and S. D'Souza, "Sex Bias in the Family Allocation of Food and Health Care
@@ -22518,8 +22038,7 @@ Economic Journal Ioo (1990); among other contributions.
 
 Report I995 (New York: Oxford University Press, 1995).
 
-9· See W. G. Runciman, Relative Deprivation and Social Justice: A Study of Atti­
-tudes to Social Inequality in Twentieth-Century England (London: Routledge,
+9· See W. G. Runciman, Relative Deprivation and Social Justice: A Study of Attitudes to Social Inequality in Twentieth-Century England (London: Routledge,
 1966); and Townsend, Poverty in the United Kingdom (1979).
 
 Io. On this see my "Poor, Relatively Speaking," Oxford Economic Papers 35
@@ -22553,9 +22072,7 @@ republished, edited by D. D. Raphael and A. L. Madie (Oxford: Clarendon Press,
 1976).
 
 17. John Rawls, A Theory of Justice (Cambridge, Mass.: Harvard University
-Press, 1971). See also Stephen Darwall, ed., Equal Freedom: Selected Tanner Lec­
-tures on Human Values {Ann Arbor: University of Michigan Press, I995), with con­
-tributions by G. A. Cohen, Ronald Dworkin, John Rawls, T. M. Scanlon, Amartya
+Press, 1971). See also Stephen Darwall, ed., Equal Freedom: Selected Tanner Lectures on Human Values {Ann Arbor: University of Michigan Press, I995), with contributions by G. A. Cohen, Ronald Dworkin, John Rawls, T. M. Scanlon, Amartya
 Sen and Quentin Skinner.
 
 r8. Thomas Scanlon, �'Contractualism and Utilitarianism," in Utilitarianism
@@ -22567,17 +22084,13 @@ Harvard University Press, I998 ).
 
 Notes to Pages 93-5
 
-Income Taxation,, Review of Economic Studies 38 (1971); E. S. Phelps, ed., Eco­
-nomic justice (Harmondsworth: Penguin Books, 1973); Nicholas Stern, "On the
-Specification of Modes of Optimum Income Taxation," journal of Public Econom­
-ics 6 ( 1976); A. B. Atkinson and Joseph Stiglitz, Lectures on Public Economics (Lon­
-don: McGraw-Hill, 198o}; D. A. Starrett, Foundations of Public Economics
+Income Taxation,, Review of Economic Studies 38 (1971); E. S. Phelps, ed., Economic justice (Harmondsworth: Penguin Books, 1973); Nicholas Stern, "On the
+Specification of Modes of Optimum Income Taxation," journal of Public Economics 6 ( 1976); A. B. Atkinson and Joseph Stiglitz, Lectures on Public Economics (London: McGraw-Hill, 198o}; D. A. Starrett, Foundations of Public Economics
 (Cambridge: Cambridge University Press, r988); among many other contributions.
 20. A. B. Atkinson, "On the Measurement of Inequality," journal of Economic
 Theory 2 (1970), and Social Justice and Public Policy {Brighton: W heatsheaf; Cam�
 bridge, Mass.: MIT Press, 1983). See also S. Ch. Kolm, "The Optimum Production
-of Social Justice," in Public Economics� edited by J. Margolis and H. Guitton (Lon­
-don: Macmillan, 1969); Amartya Sen, On Economic Inequality {Oxford: Clarendon
+of Social Justice," in Public Economics� edited by J. Margolis and H. Guitton (London: Macmillan, 1969); Amartya Sen, On Economic Inequality {Oxford: Clarendon
 Press, 1973; expanded edition, including an annex with James Foster, 1997); Charles
 Blackerby and David Donaldson, 'cA Theoretical Treatment of Indices of Absolute
 Inequality," International Economic Review 21 (198o), and "Ethically Significant
@@ -22588,18 +22101,14 @@ edited by R. Basmann and G. Rhodes (Greenwich, Conn.: JAI Press, 1984).
 sented at the Lisbon conference on "Social Europe" of the Calouste Gulbenkian
 Foundation, May 5-7, 1997, published in International Labour Review, 1997), I
 have discussed the relevance of this contrast for contemporary policy issues in
-Europe. The importance that the unemployed themselves attach to the loss of free­
-dom and capability as a result of unemployment is illuminatingly analyzed (with Bel­
-gian data) by Eric Schokkaert and L. Van Ootegem, "Sen's Concept of Living
-Standards Applied to the Belgian Unemployed," Recherches Economiques de Lou­
-vain s6 (1990).
+Europe. The importance that the unemployed themselves attach to the loss of freedom and capability as a result of unemployment is illuminatingly analyzed (with Belgian data) by Eric Schokkaert and L. Van Ootegem, "Sen's Concept of Living
+Standards Applied to the Belgian Unemployed," Recherches Economiques de Louvain s6 (1990).
 
 22. See the literature cited in my "Inequality, Unemployment and Contemporary
 Europe" (r997). On the psychological and other "social harms" of unemployment,
 see Robert Solow, "Mass Unemployment as a Social Problem'' in Choice, Welfare
 and Development, edited by K. Basu, P. Pattanaik and K. Suzumura (Oxford:
-Clarendon Press, I995), and A. Goldsmith, J. R. Veum and W. Darity Jr., "The Psy­
-chological Impact of Unemployment and Joblessness," journal of Socio-Economics
+Clarendon Press, I995), and A. Goldsmith, J. R. Veum and W. Darity Jr., "The Psychological Impact of Unemployment and Joblessness," journal of Socio-Economics
 25 (r996}, among other contributors. See also the related literature on "social exclu�
 sion'>; good introductions to the literature can be found in Gerry Rodgers, Charles
 Gore and J. B. Figueiredo, eds., Social Exclusion: Rhetoric, Reality, Responses
@@ -22618,8 +22127,7 @@ Jean-Paul Fitoussi and R. Rosanvallon, Le Nouvel age des inegalites (Paris: Sevi
 1996); Edmund S. Phelps, Rewarding Work: How to Restore Participation and Self­
 Support to Free Enterprise (Cambridge, Mass.: Harvard University Press, 1997). See
 also Paul Krugman, Technology, Trade and Factor Prices, NBER Working Paper
-no. 53 55 {Cambridge, Mass.: National Bureau of Economic Research, r99 5 ); Ste­
-phen Nickell, "Unemployment and Labor Market Rigidities: Europe versus North
+no. 53 55 {Cambridge, Mass.: National Bureau of Economic Research, r99 5 ); Stephen Nickell, "Unemployment and Labor Market Rigidities: Europe versus North
 
 Notes to Pages 95-zo2
 
@@ -22631,18 +22139,15 @@ Union," mimeographed, 1998.
 
 25. Data from M. W. Owen, S. M. Teutsch, D. E Williamson and J. S. Marks,
 c'The Effects of Known Risk Factors on the Excess Mortality of Black Adults in the
-United States,'' journal of the American Medical Association 263, number 6 (Febru­
-ary 9, 1990).
+United States,'' journal of the American Medical Association 263, number 6 (February 9, 1990).
 
 26. On this see my Commodities and Capabilities (1985). UNDP,s Human
-Development Reports have provided important information and assessment regard­
-ing this way of seeing poverty, especially in Human Development Report I997· See
+Development Reports have provided important information and assessment regarding this way of seeing poverty, especially in Human Development Report I997· See
 also Sudhir Anand and Amartya Sen, "Concepts of Human Development and
 Poverty: A Multidimensional Perspective" (1:997).
 
 2 7. Dreze and Sen, India: Economic Development and Social Opportunity
-(r995); Amartya Sen, �'Hunger in the Modern World,'' Dr. Rajendra Prasad Memo­
-rial Lecture, New Delhi, June 1997; and "Entitlement Perspectives of Hunger,"
+(r995); Amartya Sen, �'Hunger in the Modern World,'' Dr. Rajendra Prasad Memorial Lecture, New Delhi, June 1997; and "Entitlement Perspectives of Hunger,"
 World Food Programme, 1997.
 
 28. For sources of this information and of other information used in this section,
@@ -22657,8 +22162,7 @@ and Madhya Pradesh.
 I96J-I994 (Cambridge, Mass.: Harvard Center for Population and Developmental
 Studies, 1998), table 6d, p. 56.
 
-30. The severity of India's failure to devote resources and efforts to social devel­
-opment is convincingly and movingly discussed by S. Guhan, "An Unfulfilled
+30. The severity of India's failure to devote resources and efforts to social development is convincingly and movingly discussed by S. Guhan, "An Unfulfilled
 Vision," IASSI Quarterly 12 (1993}. See also the collection of essays in his honor:
 Barbara Harriss-White and S. Subramanian, eds., Illfare in India: Essays on India's
 Social Sector in Honour of S. Guhan (Delhi: Sage, 1999).
@@ -22668,8 +22172,7 @@ and Social Opportunity (1:995). See also Saraswati Raju, Peter J. Atkins, Naresh
 Kumas and Janet G. Townsend, Atlas of Women and Men in India (New Delhi: Kali
 for Women, 1999).
 
-3 2. See also A. K. Shiva Kumar, "UNDP's Human Development Index: A Com­
-putation for Indian States," Economic and Political Weekly, October 12, 1991:, and
+3 2. See also A. K. Shiva Kumar, "UNDP's Human Development Index: A Computation for Indian States," Economic and Political Weekly, October 12, 1991:, and
 Rajah J. Chelliah and R. Sudarshan, eds., Indian Poverty and Beyond: Human
 Development in India (New Delhi: Social Science Press, 1999).
 
@@ -22678,8 +22181,7 @@ Development in India (New Delhi: Social Science Press, 1999).
 versity Press, 1994), table r, p. 163.
 
 34· On this see the extensive comparison made by Peter Svedberg, Poverty and
-Undernutrition: Theory and Measurement (Oxford: Clarendon Press, 1997). Sved­
-berg also scrutinizes alternative approaches to measuring undernutrition, and the
+Undernutrition: Theory and Measurement (Oxford: Clarendon Press, 1997). Svedberg also scrutinizes alternative approaches to measuring undernutrition, and the
 conflicting pictures generated by different statistics, but arrives at a firm conclusion
 against India in terms of undernutrition vis-a-vis sub-Saharan Africa.
 
@@ -22694,8 +22196,7 @@ AIDS epidemic.
 Combating Undernutrition (New Delhi: Nutrition Foundation of India, 1995).
 
 3 7· See Nevin Scrimshaw, "The Lasting Damage of Early Malnutrition," in
-R. W. Fogel et al., Ending the Inheritance of Hunger (Rome: World Food Pro­
-gramme, 1997}. See also the papers of Robert W. Fogel, Cutberto Garza and
+R. W. Fogel et al., Ending the Inheritance of Hunger (Rome: World Food Programme, 1997}. See also the papers of Robert W. Fogel, Cutberto Garza and
 Amartya Sen in the same volume.
 
 3 8. This is not to deny that each of the standard criteria of undernourishment
@@ -22718,8 +22219,7 @@ more subjected to dictatorial governance, partly as a result of being caught in 
 cold war, with the West and Soviet Union both being willing to provide support to
 military coups and other takeovers by their nondemocratic allies. The penalties of
 dictatorship in terms of loss of voice by the vulnerable underdog and loss of trans�
-parency and accountability will be discussed in chapters 6 and 7· Even the inclina­
-tion to run into heavy debt to meet military and other priorities is encouraged by
+parency and accountability will be discussed in chapters 6 and 7· Even the inclination to run into heavy debt to meet military and other priorities is encouraged by
 dictatorial ru1es.
 
 4I. The UNDP has produced since I990 interesting and important detailed data
@@ -22757,11 +22257,9 @@ American Academy of Arts and Sciences 43, number 2 (1989), pp. 14-29; Ansley
 Coale, "Excess Female Mortality and the Balances of the Sexes in the Population: An
 
 Estimate of the Number of 'Missing Females,' '' Population and Development
-Review I 7, number 3 (I 9 9 I), pp. 5 I 7-2 3; Stephan Klasen, "Missing Women Recon­
-sidered," World Development 22 (1994).
+Review I 7, number 3 (I 9 9 I), pp. 5 I 7-2 3; Stephan Klasen, "Missing Women Reconsidered," World Development 22 (1994).
 
-44· See I. Waldron, "The Role of Genetic and Biological Factors in Sex Differ­
-ences in Mortality," in Sex Differences in Mortality, edited by A. D. Lopez and L. T.
+44· See I. Waldron, "The Role of Genetic and Biological Factors in Sex Differences in Mortality," in Sex Differences in Mortality, edited by A. D. Lopez and L. T.
 Ruzicka (Canberra: Department of Demography, Australian National University,
 198.3)·
 
@@ -22799,8 +22297,7 @@ of Economic Literature 17 (1979), reprinted in Resources, Values and Development
 
 Chapter 5: Markets" State and Social Opportunity
 
-I. I have tried to present some attempts at scrutiny in my On Ethics and Eco­
-nomics {Oxford: Blackwell, 1987), and further in "Markets and Freedoms," Oxford
+I. I have tried to present some attempts at scrutiny in my On Ethics and Economics {Oxford: Blackwell, 1987), and further in "Markets and Freedoms," Oxford
 Economic Papers 45 (1993); "Markets and the Freedom to Choose," in The Ethical
 Foundations of the Market Economy, edited by Horst Siebert (Tiibingen: J.C.B.
 Mohr, 1994); and "Social Justice and Economic Efficiency," presented at a seminar
@@ -22849,8 +22346,7 @@ versity Press, 1990); see also the extensive references, cited there, to the emp
 and theoretical literatures on this subject.
 
 8. On this see Ester Boserup, Women'S Role in Economic Development (London:
-Allen & Unwin, 1970}; Martha Loutfi, Rural Women: Unequal Partners in Devel­
-opment (Geneva: ILO, r98o); Luisella Goldschmidt-Clermont, Unpaid Work in the
+Allen & Unwin, 1970}; Martha Loutfi, Rural Women: Unequal Partners in Development (Geneva: ILO, r98o); Luisella Goldschmidt-Clermont, Unpaid Work in the
 
 Household (Geneva: ILO, r982); Amartya Sen, "Economics and the Family/' Asian
 
@@ -22892,36 +22388,28 @@ ket Structure (London: Macmillan, 1986}, and Nicholas Stern, "The Economics of
 Development: A Survey," Economic Journal99 (I989).
 
 II. See Kenneth J. Arrow, "An Extension of the Basic Theorems of Classical
-Welfare Economics,�, in Proceedings of the Second Berkeley Symposium of Mathe­
-matical Statistics� edited by J. Neyman (Berkeley, Calif.: University of California
+Welfare Economics,�, in Proceedings of the Second Berkeley Symposium of Mathematical Statistics� edited by J. Neyman (Berkeley, Calif.: University of California
 Press, 1951), and Gerard Debreu, A Theory of Value (New York: Wiley, 1959).
 
 12. The modeling of the market economy in the recent development literature
 has substantially broadened the rather limited assumptions made in the Arrow­
 Debreu formulation. It has particularly explored the importance of economies of
-large scale, the role of knowledge, learning from experience, prevalence of monopo­
-listic competition, the difficulties of coordination between different economic agents
+large scale, the role of knowledge, learning from experience, prevalence of monopolistic competition, the difficulties of coordination between different economic agents
 and the demands of long-run growth as opposed to static efficiency. On different
 aspects of these changes, see Avinash Dixit and Joseph E. Stiglitz, "Monopolistic
 Competition and Optimum Product Diversity,, American Economic Review 67
 (r977); Paul R. Krugman, "Increasing Returns, Monopolistic Competition and
-International Trade,'' Journal of International Economics 9 (1979); Paul R. Krug­
-man, "Scale Economies, Product Differentiation and the Pattern of Trade,,, Ameri­
-can Economic Review 70 (:r98r); Paul R. Krugman, Strategic Trade Policy and New
+International Trade,'' Journal of International Economics 9 (1979); Paul R. Krugman, "Scale Economies, Product Differentiation and the Pattern of Trade,,, American Economic Review 70 (:r98r); Paul R. Krugman, Strategic Trade Policy and New
 International Economics (Cambridge, Mass.: MIT Press, 1986); Paul M. Romer,
 "Increasing Returns and Long-Run Growth," Journal of Political Economy 94
-(r986); Paul M. Romer, "Growth Based on Increasing Returns Due to Specializa­
-tion,'' American Economic Review 77 ( 1987); Robert E. Lucas, "On the Mechanics
+(r986); Paul M. Romer, "Growth Based on Increasing Returns Due to Specialization,'' American Economic Review 77 ( 1987); Robert E. Lucas, "On the Mechanics
 of Economic Development," Journal of Monetary Economics 22 (:r988); Kevin
 Murphy, A. Schleifer and R. Vishny, "Industrialization and the Big Push," Quarterly
 Journal of Economics ro4 (:r989); Elhanan Helpman and Paul R. Krugman, Market
-Structure and Foreign Trade (Cambridge, Mass.: MIT Press, :r990); Gene M. Gross­
-man and Elhanan Helpman, Innovation and Growth in the Global Economy (Cam­
-bridge, Mass.: MIT Press, 1991); Elhanan Helpman and Assad Razin, eds.,
+Structure and Foreign Trade (Cambridge, Mass.: MIT Press, :r990); Gene M. Grossman and Elhanan Helpman, Innovation and Growth in the Global Economy (Cambridge, Mass.: MIT Press, 1991); Elhanan Helpman and Assad Razin, eds.,
 International Trade and Trade Policy (Cambridge, Mass.: MIT Press, I991); Paul R.
 Krugman, "History versus Expectations," Quarterly Journal of Economics :ro6
-(199:r); K. Matsuyama, "Increasing Returns, Industrialization and the Indetermi­
-nacy of Equilibrium," Quarterly Journal of Economics :ro6 (1991}; Robert E. Lucas,
+(199:r); K. Matsuyama, "Increasing Returns, Industrialization and the Indeterminacy of Equilibrium," Quarterly Journal of Economics :ro6 (1991}; Robert E. Lucas,
 ''Making a Miracle,'
 
 Econometrica 6:r (I993); among other writings.
@@ -22933,15 +22421,12 @@ process of development, and in particular of the role and functioning of the mar
 economy in that process. They have also clarified the insights of earlier economists
 on development, including Adam Smith (especially on economies of scale, division of
 labor and learning from experience), but also Allyn Young, '<Increasing Returns and
-Economic Progress," Economicjourna/38 (1928); Paul Rosenstein-Rodan, "Prob­
-lems of Industrialization of Eastern and South -eastern Europe," Economic ] ournal
+Economic Progress," Economicjourna/38 (1928); Paul Rosenstein-Rodan, "Problems of Industrialization of Eastern and South -eastern Europe," Economic ] ournal
 (r943); Albert 0. Hirschman, The Strategy of Economic Development (New
 Haven, Conn.: Yale University Press, I958); Robert Solow, "A Contribution to the
 Theory of Economic Growth," Quarterly Journal of Economics 70 (I 9 56}; Nicholas
 Kaldor, "A Model of Economic Growth," Economic Journa/67 (1957); Kenneth J.
-Arrow, "Economic Implications of Learning by Doing," Review of Economic Stud­
-ies 29 {1962); and Nicholas Kaldor and James A. Mirrlees, "A New Model of Eco­
-nomic Growth,» Review of Economic Studies 29 (I962). Fine accounts of the major
+Arrow, "Economic Implications of Learning by Doing," Review of Economic Studies 29 {1962); and Nicholas Kaldor and James A. Mirrlees, "A New Model of Economic Growth,» Review of Economic Studies 29 (I962). Fine accounts of the major
 issues and results can be found in Robert J. Barro and X. Sala-i-Martin, Economic
 
 )
@@ -22960,11 +22445,9 @@ include the "inverse theorem" that guarantees the possibility of reaching, throu
 the market mechanism, any one of the possible Pareto optima, from a suitable initial
 distribution of resources (and a corresponding set of generated prices). The need to
 establish the identified initial distribution of resources (for realizing the desired
-result) does, however, call for enormous political power and sustained administra­
-tive radicalism in bringing about the needed redistribution of assets, which can be
+result) does, however, call for enormous political power and sustained administrative radicalism in bringing about the needed redistribution of assets, which can be
 quite drastic (if equity figures prominently in the choice between different Pareto
-optima}. In this sense, the use of the "inverse theorem" as a justification of the mar­
-ket mechanism belongs to the "revolutionary's handbook" (on this see my On Ethics
+optima}. In this sense, the use of the "inverse theorem" as a justification of the market mechanism belongs to the "revolutionary's handbook" (on this see my On Ethics
 and Economics, pp. 37-8). The direct theorem, however, does not make any such
 demand; any competitive equilibrium is shown to be a Pareto optimum,. given the
 required conditions (such as the absence of particular types of externalities), for any
@@ -22981,8 +22464,7 @@ Analysis (San Francisco: Holden-Day, 1971; republished, Amsterdam: North­
 
 Holland, I979 ).
 
-17. While the form of the preferences does impose restriction on what the indi­
-viduals are assumed to be seeking, there is no further restriction on why they are
+17. While the form of the preferences does impose restriction on what the individuals are assumed to be seeking, there is no further restriction on why they are
 seeking what they are seeking. For a scrutiny of the exact requirements and their
 relevance, see my "Markets and Freedoms" (1993). The basic point here is that the
 efficiency result-as extended to apply to substantive freedoms-relates directly to
@@ -23002,8 +22484,7 @@ in the United Kingdom: A Survey of Household Resources and Standards of Living
 20. See Emma Rothschild, "Social Security and Laissez Faire in Eighteenth­
 
 Century Political Economy," Population and Development Review 21 (December
-199 5 ). Regarding the Poor Laws, Smith saw the need for social safety nets, but criti­
-cized the restrictions imposed by these laws on the movements and other freedoms
+199 5 ). Regarding the Poor Laws, Smith saw the need for social safety nets, but criticized the restrictions imposed by these laws on the movements and other freedoms
 of the poor thus supported; see Adam Smith, An Inquiry into the Nature and Causes
 of the Wealth of Nations (1776; republished, edited by R. H. Campbell and A. S.
 
@@ -23016,8 +22497,7 @@ Malthus's severe attack on the Poor Laws in general.
 p. 379. See also Jagdish N. Bhagwati, Protectionism (Cambridge, Mass.: MIT Press,
 1990), who quotes and cogently develops this argument. On related issues, see also
 Anne 0. Krueger, "The Political Economy of the Rent-Seeking Society," American
-Economic Review 64 (1974); Jagdish N. Bhagwati, "Lobbying and Welfare," jour­
-nal of Public Economics 14 (198o); Ronald Findlay and Stan Wellisz, "Protection
+Economic Review 64 (1974); Jagdish N. Bhagwati, "Lobbying and Welfare," journal of Public Economics 14 (198o); Ronald Findlay and Stan Wellisz, "Protection
 
 and Rent-Seeking in Developing Countries," in David C. Colander, Neoclassical
 Political Economy: The Analysis of Rent-Seeking and DUP Activities (New York:
@@ -23026,28 +22506,23 @@ Growth in the Global Economy (Cambridge, Mass.: MIT Press, 199r); Debraj Ray,
 Development Economics (1998), chapter r8.
 
 22. Dani Rodrik has pointed to an important asymmetry that may to some
-extent help the advocates of tariff, to wit, that this brings in money for the govern­
-ment to expend ("Political Economy of Trade Policy," in Handbook of International
+extent help the advocates of tariff, to wit, that this brings in money for the government to expend ("Political Economy of Trade Policy," in Handbook of International
 Economics, volume 3, edited by G. M. Grossman and K. Rogoff [Amsterdam: Else�
 vier, 1995]). Rodrik points out that in the United States� in the period I87o-1914,
 tariffs contributed to more than half of all revenues that the U.S. government earned
 (the proportion was even higher-more than 90 percent-before the Civil War). To
-the extent that this feeds a restrictionist bias, it has to be reckoned with, but to rec­
-ognize a source of a bias is itself a contribution in the direction of countering it. See
+the extent that this feeds a restrictionist bias, it has to be reckoned with, but to recognize a source of a bias is itself a contribution in the direction of countering it. See
 also R. Fernandez and D. Rodrik, "Resistance to Reform: Status Quo Bias in the
 Presence of Individual-Specific Uncertainty," American Economic Review 8 I (I 99 I).
 2 3. Smith, Wealth of Nations, Campbell and Skinner edition (I 976), volume I,
 book II, pp. 266-7. In modern interpretations of Adam Smith's opposition to the
 state's regulatory intervention, there may be an inadequate recognition of the fact
-that his hostility to such regulations related closely to his reading that these regula­
-tions were most often aimed at catering to the interests of the rich. Indeed, Smith
+that his hostility to such regulations related closely to his reading that these regulations were most often aimed at catering to the interests of the rich. Indeed, Smith
 expressed himself quite unequivocally on this subject (in Smith, Wealth of Nations
 [I976 Campbell and Skinner edition], pp., :r 57-8):
 
-Whenever the legislature attempts to regulate the differences between mas­
-ters and their workmen, its counsellors are always the masters. When the
-regulation, therefore, is in favour of the workmen, it is always just and equi­
-table; but it is sometimes otherwise when in favour of the masters.
+Whenever the legislature attempts to regulate the differences between masters and their workmen, its counsellors are always the masters. When the
+regulation, therefore, is in favour of the workmen, it is always just and equitable; but it is sometimes otherwise when in favour of the masters.
 
 24. On this see Emma Rothschild, "Adam Smith and Conservative Economics,"
 
@@ -23066,27 +22541,23 @@ something can every where be made by the use of money, something ought
 
 Notes to Pages I 24-6
 
-every where to be paid for the use of it. This regulation, instead of prevent­
-ing, has been found from experience to increase the evil of usury; the debtor
+every where to be paid for the use of it. This regulation, instead of preventing, has been found from experience to increase the evil of usury; the debtor
 being obliged to pay, not only for the use of money, but for the risk which the
 creditor runs by accepting a compensation for that use. (Smith, Wealth of
 Nations [I976 Campbell and Skinner edition], volume x, book 2, chapter 4,
 P·356.)
 
 27. Smith, Wealth of Nations (1976 Campbell and Skinner edition), volume x,
-book 2, chapter 4, pp. 356-7. The term "projector" is used by Smith not in the neu­
-tral sense of "one who forms a project,'' but in the old pejorative sense.
+book 2, chapter 4, pp. 356-7. The term "projector" is used by Smith not in the neutral sense of "one who forms a project,'' but in the old pejorative sense.
 
 28. Letter, 1787, of Jeremy Bentham, ''To Dr. Smith,'' published in Jeremy Ben�
 
 tham, Defence of Usury (London: Payne, 1790).
 
-29. Smith does not give any evidence of having been convinced by Jeremy Ben­
-tham's argument, even though Bentham felt convinced that he had indirect evidence
+29. Smith does not give any evidence of having been convinced by Jeremy Bentham's argument, even though Bentham felt convinced that he had indirect evidence
 that he had persuaded Smith to abandon his own earlier position (Smith's "senti­
 
-ments," Bentham felt convinced, "with respect to the points of difference are at pres­
-ent the same as mine"). In fact, though, the subsequent editions of The Wealth of
+ments," Bentham felt convinced, "with respect to the points of difference are at present the same as mine"). In fact, though, the subsequent editions of The Wealth of
 Nations did not include any revision whatsoever of the passage of which Bentham
 had been critical. On this odd debate, see Smith, Wealth of Nations (I976 Campbell
 and Skinner edition), pp. 3 57-8, footnote 19. See also H. W. Spiegel, "Usury," in
@@ -23101,23 +22572,17 @@ book 2, chapter 3, pp. 34o-1.
 3 2. There are various distinct concerns about the limitations of the market
 economy. For illuminating analyses of different types of worries, see Robert E. Lane,
 The Market Experience (Cambridge: Cambridge University Press, I991); Joseph
-Stiglitz, Whither Socialism? (Cambridge, Mass.: MIT Press, 1994}; Robert Heil­
-broner, Visions of the Future: The Distant Past, Yesterda� Today and Tomorrow
-(New York: Oxford University Press, 1995); Will Hutton, The State We Are In (Lon­
-don: Jonathan Cape, 1995); Robert Kuttner, Global Competitiveness and Human
+Stiglitz, Whither Socialism? (Cambridge, Mass.: MIT Press, 1994}; Robert Heilbroner, Visions of the Future: The Distant Past, Yesterda� Today and Tomorrow
+(New York: Oxford University Press, 1995); Will Hutton, The State We Are In (London: Jonathan Cape, 1995); Robert Kuttner, Global Competitiveness and Human
 Development: Allies or Adversaries? (New York: UNDO, 1996), and Everything for
-Sale: The Visions and the Limits of the Market (New York: Knopf, 1998); Cass Sun­
-stein, Free Markets and Social Justice (New York: Oxford University Press, 1997).
+Sale: The Visions and the Limits of the Market (New York: Knopf, 1998); Cass Sunstein, Free Markets and Social Justice (New York: Oxford University Press, 1997).
 33· See particularly Alice H. Amsden, Asia's Next Giant: South Korea and Late
-Industrialization (New York: Oxford University Press, 1989); Robert Wade, Gov­
-erning the Market: Economic Theory and the Role of Government in East Asian
+Industrialization (New York: Oxford University Press, 1989); Robert Wade, Governing the Market: Economic Theory and the Role of Government in East Asian
 Industrialization {Princeton: Princeton University Press, 1990); Lance Taylor, ed.,
 The Rocky Road to Reform: Adjustment, Income Distribution and Growth in the
 Developing World (Cambridge, Mass.: MIT Press, I993); Jong�Il You and Ha-Joon
 Chang, "The Myth of Free Labor Market in Korea," Contributions to Political
-Economy I2 (1993}; Gerry K. Helleiner, ed., Manufacturing for Export in the Devel­
-oping World: Problems and Possibilities (London: Routledge, 199 5 ); Kotaro Suzu­
-mura, Competition, Commitment and Welfare (Oxford: Clarendon Press, 1995);
+Economy I2 (1993}; Gerry K. Helleiner, ed., Manufacturing for Export in the Developing World: Problems and Possibilities (London: Routledge, 199 5 ); Kotaro Suzumura, Competition, Commitment and Welfare (Oxford: Clarendon Press, 1995);
 Journal of Economic Lit­
 Dani Rodrik, "Understanding Economic Policy Reform,'
 erature 24 (March 1996); Jomo K.S., with Chen Yun Chung, Brian C. Folk, Irfan
@@ -23131,20 +22596,15 @@ Asia"s Misunderstood Miracle: Industrial Policy and Economic Development in
 Thailand, Malaysia and Indonesia (Boulder, Colo.: Westview Press, 1997); Vinay
 Bharat-Ram, The Theory of the Global Firm (Delhi: Oxford University Press, 1997);
 Jeffrey Sachs and Andrew Warne.r:, ''Sources of Slow Growth in African Economies,,
-Harvard Institute for International Development, March 1997; Jong-11 You, "Glob­
-alization, Labor Market Flexibility and the Korean Labor Reform,, Seoul journal of
-Economics ro (1997); Jomo K.S., ed., Tigers in Trouble: Financial Governance, Lib­
-eralisation and Crises in East Asia (London: Zed Books, 1998); among other writ­
-ings. Dani Rodrik has provided a helpful overall account of the need for an
+Harvard Institute for International Development, March 1997; Jong-11 You, "Globalization, Labor Market Flexibility and the Korean Labor Reform,, Seoul journal of
+Economics ro (1997); Jomo K.S., ed., Tigers in Trouble: Financial Governance, Liberalisation and Crises in East Asia (London: Zed Books, 1998); among other writings. Dani Rodrik has provided a helpful overall account of the need for an
 appropriate combination of public intervention, markets and global exchange; the
 chosen combinations may vary from country to country; see his The New Global
 Economy and Developing Countries (1999). See also Edmond Malinvaud, Jean­
 Claude Milleron, Mustaphak Nabli, Amartya Sen, Arjun Sengupta, Nicholas Stern,
-Joseph E. Stiglitz, and Kotaro Suzumura, Development Strategy and the Manage­
-ment of the Market Economy (Oxford: Clarendon Press, 1997).
+Joseph E. Stiglitz, and Kotaro Suzumura, Development Strategy and the Management of the Market Economy (Oxford: Clarendon Press, 1997).
 
-34· James D. Wolfensohn, "A Proposal for Comprehensive Development Frame­
-work," mimeographed, World Bank, I999· See also Joseph E. Stiglitz, "An Agenda
+34· James D. Wolfensohn, "A Proposal for Comprehensive Development Framework," mimeographed, World Bank, I999· See also Joseph E. Stiglitz, "An Agenda
 for Development in the Twenty-First Century," in Annual World Bank Conference
 on Development Economics 1997, edited by B. Pleskovi and J. E. Stiglitz (Washing�
 ton, D.C.: World Bank, 1998).
@@ -23159,9 +22619,7 @@ India Doing?,, New York Review of Books 21 (Christmas number, 1982.), reprinted
 in Social and Economic Development in India: A Reassessment, edited by D. K. Basu
 and R. Sissons (London: Sage, 1986).
 
-37.ln this context see Isher Judge Ahluwalia and I.M.D. Little, eds., India's Eco­
-nomic Reforms and Development: Essays for Manmohan Singh (Delhi: Oxford Uni­
-versity Press, 1998). See also Vijay Josh.i and I.M.D. Little, India's Economic
+37.ln this context see Isher Judge Ahluwalia and I.M.D. Little, eds., India's Economic Reforms and Development: Essays for Manmohan Singh (Delhi: Oxford University Press, 1998). See also Vijay Josh.i and I.M.D. Little, India's Economic
 Reforms, I99I-zooz (Delhi: Oxford University Press, 1996).
 
 38. See the classic analysis of "market failure" in the presence of public goods in
@@ -23177,14 +22635,10 @@ Market versus Non-market Allocation,
 
 ,
 
-39· The nature of uncertainty in health is a further issue that makes market allo­
-cation problematic in the field of medicine and health care, on which see Kenneth J.
-Arrow, "Uncertainty and the Welfare Economics of Health Care," American Eco­
-nomic Review 53 (1963). The comparative merits of public action in the field of
-health care have much to do with the issues identified by Arrow as well as Samuel­
-son (see the preceding note); on this see Jean Dreze and Amartya Sen, Hunger and
-Public Action (Oxford: Clarendon Press, 1989}. See also Judith Tendler, Good Gov­
-ernment in the Tropics (Baltimore: Johns Hopkins University Press, 1997}.
+39· The nature of uncertainty in health is a further issue that makes market allocation problematic in the field of medicine and health care, on which see Kenneth J.
+Arrow, "Uncertainty and the Welfare Economics of Health Care," American Economic Review 53 (1963). The comparative merits of public action in the field of
+health care have much to do with the issues identified by Arrow as well as Samuelson (see the preceding note); on this see Jean Dreze and Amartya Sen, Hunger and
+Public Action (Oxford: Clarendon Press, 1989}. See also Judith Tendler, Good Government in the Tropics (Baltimore: Johns Hopkins University Press, 1997}.
 
 40. The literature on this is quite vast, and while some contributions have
 
@@ -23207,8 +22661,7 @@ book 2, p. 27, and volume 5, book r, f, p. 785.
 
 42. See my "Social Commitment and Democracy: The Demands of Equity and
 Financial Conservatism," in Living as Equals, edited by Paul Barker (Oxford:
-Oxford University Press, 1996}, and also "Human Development and Financial Con­
-servatism," keynote address at the International Conference on Financing Human
+Oxford University Press, 1996}, and also "Human Development and Financial Conservatism," keynote address at the International Conference on Financing Human
 Resource Development, arranged by the Asian Development Bank, on November I7,
 1995, later published in World Development, 1998. The discussion that follows
 draws on these papers.
@@ -23226,8 +22679,7 @@ and J. Borton and J. Shoham, ''Experiences of Non-governmental Organisations in
 Targeting of Emergency Food Aid,'' mimeographed, report on a workshop held at
 the London School of Hygiene and Tropical Medicine, :r989.
 
-4 5. On this see Dreze and Sen, Hunger and Public Action (I 9 8 9). See also Timo­
-thy Besley and Stephen Coate, "Workfare versus Welfare: Incentive Arguments for
+4 5. On this see Dreze and Sen, Hunger and Public Action (I 9 8 9). See also Timothy Besley and Stephen Coate, "Workfare versus Welfare: Incentive Arguments for
 Work Requirements in Poverty-Alleviation Programs/' American Economic Review
 82 (1992); Joachim von Braun, Tesfaye Teklu and Patrick Webb, "The Targeting
 Aspects of Public Works Schemes: Experiences in Africa,'' and Martin Ravalli on and
@@ -23240,14 +22692,12 @@ Johns Hopkins University Press, 1998).
 
 46. It won't help those who are too old, or too disabled� or too ill to work in that
 way, but as was mentioned earlier, such people can be easily identified in terms of
-these capability handicaps and supported through other-complementary­
-schemes. The possibility and actual experiences of such complementary programs
+these capability handicaps and supported through other-complementaryschemes. The possibility and actual experiences of such complementary programs
 were discussed in Dreze and Sen, Hunger and Public Action (1989).
 
 4 7. On this see Sudhir Anand and Martin Ravalli on, "Human Development in
 Poor Countries: Do Incomes Matter?)' Journal of Economic Perspectives 7 (I993).
-See also Keith Griffin and John Knight, eds., Human Development and the Interna­
-tional Development Strategy for the r990s (London: Macmillan, I990). In the
+See also Keith Griffin and John Knight, eds., Human Development and the International Development Strategy for the r990s (London: Macmillan, I990). In the
 
 Notes to Pages I34-44
 
@@ -23255,21 +22705,17 @@ specific context of famines, see also Alex de Waal, Famines That Kill: Darfur
 z984-I985 (Oxford: Clarendon Press, 1989}.
 
 48. See my On Economic Inequality (1973), pp. 78-9.
-49· These issues are discussed more fully in "The Political Economy of Target­
-ing,'' my keynote address to the 1992 Annual World Bank Conference on Develop­
-ment Economics, published in van de Walle and Nead, Public Spending and the Poor
+49· These issues are discussed more fully in "The Political Economy of Targeting,'' my keynote address to the 1992 Annual World Bank Conference on Development Economics, published in van de Walle and Nead, Public Spending and the Poor
 (I 9 9 5). See also the other essays in that illuminating volume.
 
 50. On the general problems unde.rlying asymmetrical information, see George
-A. Akerlof, An Economic Theorist's Book of Tales (Cambridge: Cambridge Univer­
-sity Press, I984).
+A. Akerlof, An Economic Theorist's Book of Tales (Cambridge: Cambridge University Press, I984).
 
 51. See John Rawls, A Theory of Justice (Cambridge, Mass.: Harvard University
 Press, .I97I}, pp. 44o-6. Rawls discusses how institutional arrangements and public
 policies can influence "the social bases of self-respect."
 
-52. See particularly William J. Wilson, The Truly Disadvantaged (Chicago: Uni­
-versity of Chicago Press, 1987); Christopher Jencks and Paul E. Peterson, eds., The
+52. See particularly William J. Wilson, The Truly Disadvantaged (Chicago: University of Chicago Press, 1987); Christopher Jencks and Paul E. Peterson, eds., The
 Urban Underclass (Washington, D.C.: Brookings Institution, 1991); Theda Skocpol,
 Protecting Soldiers and Mothers: The Politics of Social Provision in the United
 States� I870-I920 (Cambridge, Mass.: Harvard University Press, 1991). I fust
@@ -23312,8 +22758,7 @@ r
 
 Notes to Pages I44-53
 
-D.C.: World Bank, 1993); James W. McGuire, "Development Policy and Its Deter­
-minants in East Asia and Latin America,'' Journal of Public Policy (1994).
+D.C.: World Bank, 1993); James W. McGuire, "Development Policy and Its Determinants in East Asia and Latin America,'' Journal of Public Policy (1994).
 
 6o. On this see Jere R. Behrman and Anil B. Deolalikar, "Health and Nutrition,"
 in Handbook of Development Economics, edited by H. B. Chenery and T. N. Srini�
@@ -23321,8 +22766,7 @@ vasan (Amsterdam: North-Holland, 1988).
 
 6r. However, because of the impossible burden of international debt, some
 countries, especially in Africa, may not be able to exercise much choice at all in
-determining their fiscal priorities. On this issue the need for ''visionary" interna­
-tional policy as a part of "realistic" economic possibilities is forcefully advocated by
+determining their fiscal priorities. On this issue the need for ''visionary" international policy as a part of "realistic" economic possibilities is forcefully advocated by
 Jeffrey D. Sachs, "Release the Poorest Countries from Debt Bondage," International
 Herald Tribune, June I2-I3, I999·
 
@@ -23337,11 +22781,9 @@ Needs," New Republic, January ro & I7, I994·
 2. Quoted in John E Cooper, "Peking's Post-Tiananmen Foreign Policy: The
 
 Human Rights Factor/' Issues and Studies 30 (October I994), p. 69; see also Joanne
-Bauer and Daniel A. Bell, eds., The East Asian Challenge for Human Rights (Cam­
-bridge: Cambridge University Press, 1999).
+Bauer and Daniel A. Bell, eds., The East Asian Challenge for Human Rights (Cambridge: Cambridge University Press, 1999).
 
-3. The analysis presented here and the discussions that follow draw on my ear­
-lier papers "Freedoms and Needs" (1994); "Legal Rights and Moral Rights: Old
+3. The analysis presented here and the discussions that follow draw on my earlier papers "Freedoms and Needs" (1994); "Legal Rights and Moral Rights: Old
 Questions and New Problems," Ratio juris 9 (June 1996); and "Human Rights and
 Asian Values," Morgenthau Memorial Lecture (New York: Carnegie Council on
 Ethics and International Affairs, 1997}, published in a shortened form in The New
@@ -23359,16 +22801,14 @@ nomic Growth," Working Paper 4066, National Bureau of Economic Research
 (1994); Surjit Bhalla, "Freedom and Economic Growth: A Vicious Circle?, pre­
 
 sented at the Nobel Symposium in Uppsala on "Democracy's Victory and Crisis,"
-August 1994; Adam Przeworski and Fernando Limongi, "Democracy and Develop­
-ment,,, presented at the Nobel Symposium in Uppsala cited above.
+August 1994; Adam Przeworski and Fernando Limongi, "Democracy and Development,,, presented at the Nobel Symposium in Uppsala cited above.
 
 5. On this see also my joint study with Jean Dreze, Hunger and Public Action
 
 (Oxford: Clarendon Press, 1989), part 3·
 
 6. On this see my "Development: Which Way Now?" Economic journal 93
-(December r983) and Resources., Values and Development (Cambridge, Mass.: Har­
-vard University Press, r984; r997).
+(December r983) and Resources., Values and Development (Cambridge, Mass.: Harvard University Press, r984; r997).
 
 7· It could be argued that at the time of the Irish famines in the I84os, Ireland
 was part of the United Kingdom, rather than a colony. However, not only was there
@@ -23395,8 +22835,7 @@ of moral arguments in public debates. On these issues, see Jiirgen Haberman, "Th
 Normative Models of Democracy," Constellations I (1994); Seyla Benhabib,
 "Deliberative Rationality and Models of Democratic Legitimacy,'' Constellations r
 (1994); James Bonham and William Rehg, eds., Deliberative Democracy (Cam�
-bridge, Mass.: MIT Press, 1997). See also James Fishkin, Democracy and Delibera­
-tion (New Haven, Conn.: Yale University Press, 1971); Ralf Dahrendorf, The
+bridge, Mass.: MIT Press, 1997). See also James Fishkin, Democracy and Deliberation (New Haven, Conn.: Yale University Press, 1971); Ralf Dahrendorf, The
 Modern Social Contract (New York: Weidenfeld, 1988}; Alan Hamlin and Phillip
 Pettit, eds., The Good Polity (Oxford: Blackwell, 1989); Cass Sunstein, The Partial
 Constitution (Cambridge, Mass.: Harvard University Press, 1993); Amy Gutman
@@ -23415,8 +22854,7 @@ Market Analogy," japanese Economic Review 46 (1995}.
 Chapter 7: Famines and Other Crises
 
 r. The first part of this chapter draws on my keynote address to the Inter­
-Parliamentary Union in the Italian Senate on the occasion of the World Food Sum­
-mit in Rome, Italy� November I 5, 1996. The analysis derives from my Poverty and
+Parliamentary Union in the Italian Senate on the occasion of the World Food Summit in Rome, Italy� November I 5, 1996. The analysis derives from my Poverty and
 Famines: An Essay on Entitlement and Deprivation (Oxford: Clarendon Press,
 1981), and my joint study with Jean Dreze, Hunger and Public Action (Oxford:
 Clarendon Press, 1989).
@@ -23427,13 +22865,11 @@ eds., The Political Economy of Hunger (Oxford: Clarendon Press, 1990), and its
 shortened version, Dreze, Sen and Athar Hussain, The Political Economy of Hunger:
 Selected Essays (Oxford: Clarendon Press, 1995}.
 
-3. For examples of famines arising from different causes, with little or no reduc­
-tion of food output and availability, see my Poverty and Famines (r98r), chapters
+3. For examples of famines arising from different causes, with little or no reduction of food output and availability, see my Poverty and Famines (r98r), chapters
 6-9·
 
 4· On this see my Poverty and Famines (1981). See also Meghnad Desai, "A
-General Theory of Poverty," Indian Economic Review 19 (r984), and "The Eco­
-nomics of Famine," in Famines, edited by G. A. Harrison (Oxford: Clarendon Press,
+General Theory of Poverty," Indian Economic Review 19 (r984), and "The Economics of Famine," in Famines, edited by G. A. Harrison (Oxford: Clarendon Press,
 1988}. See also Lucile F. Newman, ed., Hunger in History: Food Shortage, Poverty,
 
 and Deprivation (Oxford: Blackwell, 1990), and going further back, Peter Garnsey,
@@ -23462,8 +22898,7 @@ a "slump famine, in which there is a general economic decline, which can make
 demand for food go down even more than the reduction of supply (on this and on
 related matters, see my Poverty and Famines [198r]). In the Chinese famines too, a
 much larger proportion of the reduced food output of rural China was being taken
-out into the urban areas as a result of official policy (on this see Carl Riskin, ''Feed­
-ing China: The Experience since I949,'' in Dreze and Sen, The Political Economy of
+out into the urban areas as a result of official policy (on this see Carl Riskin, ''Feeding China: The Experience since I949,'' in Dreze and Sen, The Political Economy of
 Hunger [1989]).
 
 ro. There were also other factors behind the differential mortality in the Bengal
@@ -23494,15 +22929,13 @@ IO, p. I67.
 G. Bell, 19r6), and also my Poverty and Famines (198r), chapter 4-
 
 I 5. On this see Alex de Waal, Famines That Kill (Oxford: Clarendon Press,
-1989}. See also my Poverty and Famines, appendix D, on the pattern of famine mor­
-tality in the Bengal famine of I943·
+1989}. See also my Poverty and Famines, appendix D, on the pattern of famine mortality in the Bengal famine of I943·
 
 r6. The analysis here utilizes my essays "Famine as Alienation," in State, Mar-
 
 Notes to Pages I70-5
 
-ket and Development: Essays in Honour of Rehman Sobhan, edited by Abu Abdul­
-lah and Azizur Rahman Khan (Dhaka: University Press, 1996), and ('Nobody Need
+ket and Development: Essays in Honour of Rehman Sobhan, edited by Abu Abdullah and Azizur Rahman Khan (Dhaka: University Press, 1996), and ('Nobody Need
 Starve," Granta 52 (199 5 ).
 
 17. On this see Robert James Scally, The End of Hidden Ireland (New York:
@@ -23522,15 +22955,12 @@ and The Great b·ish Famine (Basingstoke: Macmillan, 1989).
 Quantitative and Analytical History of the Irish Econom� I8oo-z8so (London:
 Allen & Unwin, 1983}; Cormac 0 Grada, Ireland before and after the Famine
 (1988) and The Great Irish Famine (1989); and Pat McGregor, '�A Model of Crisis
-in a Peasant Economy," Oxford Economic Papers 42 (1990). The issue of landless­
-ness is particularly serious in the context of famines in South Asia and to some extent
-sub-Saharan Africa; see Keith Griffin and Azizur Khan, eds., Poverty and Landless­
-ness in Rural Asia (Geneva: ILO, 1977), and Alamgir, Famine in South Asia (1980).
+in a Peasant Economy," Oxford Economic Papers 42 (1990). The issue of landlessness is particularly serious in the context of famines in South Asia and to some extent
+sub-Saharan Africa; see Keith Griffin and Azizur Khan, eds., Poverty and Landlessness in Rural Asia (Geneva: ILO, 1977), and Alamgir, Famine in South Asia (1980).
 21. On this see Alamgir, Famine in South Asia ( r 98o } , and Ravallion, Markets
 and Famines (1987). See also Nurul Islam, Development Planning in Bangladesh: A
 Study in Political Economy {London: Hurst; New York: St. Martin's Press, 1977).
-22. O n food "countermovement,'' see Sen, Poverty and Famines (r981); Gra­
-ciela Chichilni sky, "North-South Trade with Export Enclaves: Food Consumption
+22. O n food "countermovement,'' see Sen, Poverty and Famines (r981); Graciela Chichilni sky, "North-South Trade with Export Enclaves: Food Consumption
 and Food Exports," mimeographed, Columbia University, 1983; Dreze and Sen,
 
 Hunger and Public Action {1989).
@@ -23585,8 +23015,7 @@ Hunger, edited by Dreze and Sen (1990).
 the papers of Dreze in Dreze and Sen, The Political Economy of Hunger (1990).
 
 3 2. On the mechanics of such procedures see Dreze and Sen, Hunger and Public
-Action (1989}, chapter 8, and the papers of Jean Dreze in Dreze and Sen, The Politi­
-cal Economy of Hunger (1990).
+Action (1989}, chapter 8, and the papers of Jean Dreze in Dreze and Sen, The Political Economy of Hunger (1990).
 
 33· On this see Dreze and Sen, Hunger and Public Action (1989}, chapter 8.
 34· On this and related issues, see my Poverty and Famines (1981), and Dreze
@@ -23628,8 +23057,7 @@ ernors of the World Bank (Washington, D.C.: World Bank, 1998).
 slumps, but also from wars and military conflicts; on this see my "Economic Regress:
 Concepts and Features,,, in Proceedings of the World Bank Annual Conference on
 
-Development Economics I993 (Washington, D.C.: World Bank, I994). On the gen­
-eral role of militarism as a modern scourge, see also John Kenneth Galbraith, "The
+Development Economics I993 (Washington, D.C.: World Bank, I994). On the general role of militarism as a modern scourge, see also John Kenneth Galbraith, "The
 Unfinished Business of the Century,,, mimeographed, lecture at the London School
 of Economics, June 28, I999·
 
@@ -23642,8 +23070,7 @@ Notes to Pages z88-92
 
 S. Wade, Miracle or Design? Lessons from the East Asian Experience (Washingw
 ton, D.C.: Overseas Development Council, I994). See also the contrast with India
-(and South Asia in general), in Jean Dreze and Amartya Sen, India: Economic Devel­
-opment and Social Opportunity (Delhi: Oxford University Press, 199 5 ). The lower
+(and South Asia in general), in Jean Dreze and Amartya Sen, India: Economic Development and Social Opportunity (Delhi: Oxford University Press, 199 5 ). The lower
 level of inequality of this kind does not, however, guarantee the kind of equity that
 democratic politics can bring at times of crisis and acute deprivation. Indeed, as
 Jong-Il You notes, in these countries (including South Korea) "low inequality and
@@ -23658,13 +23085,9 @@ Chapter 8: Women's Agency and Social Change
 r. I have discussed this issue in some previous works, including: "Economics and
 the Family," Asian Development Review I (1983); "Women, Technology and Sexual
 Divisions/' Trade and Development 6 (198 5); "Missing Women," British Medical
-]ourna/304 (March 1992); "Gender and Cooperative Conflict," Persistent Inequali­
-ties: Women and World Development, edited by Irene Tinker (New York: Oxford
-University Press, 1990); "Gender Inequality and Theories of Justice," Women, Cul­
-ture and Development: A Study of Human Capabilities, edited by Martha Nuss­
-baum and Jonathan Glover (Oxford: Clarendon Press, 1995}; (jointly with Jean
-Dreze) India: Economic Development and Social Opportunity (Delhi: Oxford Uni­
-versity Press, 1995); "Agency and Well-Being: The Development Agenda," in A
+]ourna/304 (March 1992); "Gender and Cooperative Conflict," Persistent Inequalities: Women and World Development, edited by Irene Tinker (New York: Oxford
+University Press, 1990); "Gender Inequality and Theories of Justice," Women, Culture and Development: A Study of Human Capabilities, edited by Martha Nussbaum and Jonathan Glover (Oxford: Clarendon Press, 1995}; (jointly with Jean
+Dreze) India: Economic Development and Social Opportunity (Delhi: Oxford University Press, 1995); "Agency and Well-Being: The Development Agenda," in A
 Commitment to the Women, edited by Noeleen Heyzer (New York: UNIFEM,
 1996).
 
@@ -23675,8 +23098,7 @@ to identify the far-reaching practical implications of this distinction, applied
 different fields.
 
 3. Alternative statistical estimates of the extent of "extra mortality" of women
-in many countries in Asia and North Africa also are discussed in my Resources, Val­
-ues and Development (Cambridge, Mass.: Harvard University Press, 1984); (jointly
+in many countries in Asia and North Africa also are discussed in my Resources, Values and Development (Cambridge, Mass.: Harvard University Press, 1984); (jointly
 with Jean Dreze) Hunger and Public Action (Oxford: Clarendon Press, 1989). See
 also Stephan Klasen, " 'Missing Women' Reconsidered," World Development 2.2.
 (I994).
@@ -23690,16 +23112,14 @@ available evidence can be found in "Gender and Cooperative Conflict" (1990), and
 (1984}, "Gender and Cooperative Conflict" (1990), and "More Than a Hundred
 Million Women Are Missing" (1990). A pioneering study of this general .field was
 presented in Ester Boserup's classic work, Women�s Role in Economic Development
-(London: Allen & Unwin, I97I). The recent literature on gender inequality in devel­
-oping countries includes a number of interesting and important studies of different
+(London: Allen & Unwin, I97I). The recent literature on gender inequality in developing countries includes a number of interesting and important studies of different
 types of determining variables. See, for example, Hanna Papanek, �'Family Status
 
 Notes to Pages 192-3
 
 and Production: The 'Work' and 'Non� Work' of Women," Signs 4 (1979). Martha
 Loutfi, ed., Rural Work: Unequal Partners in Development (Geneva: ILO, 198o);
-Mark R. Rosenzweig and T. Paul Schultz, "Market Opportunities, Genetic Endow­
-ment and Intrafamily Resource Distribution," American Economic Review 72
+Mark R. Rosenzweig and T. Paul Schultz, "Market Opportunities, Genetic Endowment and Intrafamily Resource Distribution," American Economic Review 72
 (1982); Myra Buvinic, M. Lycette and W. P. McGreevy, eds., Women and Poverty in
 the Third World (Baltimore: Johns Hopkins University Press, 1983); Pranab Bard�
 han, Land, Labor and Rural Poverty {New York: Columbia University Press, r984);
@@ -23707,9 +23127,7 @@ Devaki Jain and Nirmala Banerjee, eds., Tyranny of the Household: Investigative
 Essays in Women's Work (New Delhi: Vikas, 198 5); Gita Sen and C. Sen, "Women's
 Domestic Work and Economic Activity,�' Economic and Political Weekly 20 (r985);
 Martha Alter Chen, A Quiet Revolution: Women in Transition in Rural Bangladesh
-(Dhaka: BRAC, 1986); Jere Behrman and B. L. Wolfe, "How Does Mother's School­
-ing Affect Family Health, Nutrition, Medical Care Usage and Household Sanita­
-tion?" Journal of Econometrics 3 6 (1987}; Monica Das Gupta, "Selective
+(Dhaka: BRAC, 1986); Jere Behrman and B. L. Wolfe, "How Does Mother's Schooling Affect Family Health, Nutrition, Medical Care Usage and Household Sanitation?" Journal of Econometrics 3 6 (1987}; Monica Das Gupta, "Selective
 Discrimination against Female Children in India," Population and Development
 Review I 3 (I 9 87); Gita Sen and Car en Grown, Development, Crises and Alternative
 Visions: Third World Women�s Perspectives (London: Earthscan, 1987); Alaka Basu,
@@ -23725,20 +23143,15 @@ other contributions.
 
 6. Gender divisions within the family are sometimes studied as "bargaining
 problems"; the literature includes, among many other contributions, Marilyn
-Manser and Murray Brown, "Marriage and Household Decision Making: A Bar­
-gaining Analysis," International Economic Review 2r (198o); M. B. McElroy and
+Manser and Murray Brown, "Marriage and Household Decision Making: A Bargaining Analysis," International Economic Review 2r (198o); M. B. McElroy and
 M. J. Horney, "Nash Bargained Household Decisions: Toward a Generalization of
 Theory of Demand," International Economic Review 22 (I 9 8 r }; Shelley Lundberg
 and Robert Pollak, "Noncooperative Bargaining Models of Marriage," American
 Economic Review 84 (1994}. For approaches different from that of ''bargaining
-models,'' see Sen, "Women, Technology and Sexual Divisions" {198 5); Nancy Fol­
-bre, "Hearts and Spades: Paradigms of Household Economics," World Develop­
-ment 14 (1986); J. Brannen and G. Wilson, eds., Give and Take in Families (London:
+models,'' see Sen, "Women, Technology and Sexual Divisions" {198 5); Nancy Folbre, "Hearts and Spades: Paradigms of Household Economics," World Development 14 (1986); J. Brannen and G. Wilson, eds., Give and Take in Families (London:
 Allen & Unwin, 1987); Susan Jvloller Okin, justice, Gender, and the Family (New
-York: Basic Books, 1989); Sen, "Gender and Cooperative Conflict'' {1990); Mari­
-anne A. Ferber and Julie A. Nelson, eds., Beyond Economic Man: Feminist Theory
-and Economics (Chicago: Chicago University P ress, I993); among other contribu­
-tions. Useful collections of papers on these issues can also be found in Jane
+York: Basic Books, 1989); Sen, "Gender and Cooperative Conflict'' {1990); Marianne A. Ferber and Julie A. Nelson, eds., Beyond Economic Man: Feminist Theory
+and Economics (Chicago: Chicago University P ress, I993); among other contributions. Useful collections of papers on these issues can also be found in Jane
 Humphries, ed., Gender and Economics (Cheltenham, U.K.: Edward Elgar, 1995),
 and Nancy Folbre, ed., The Economics of the Family (Cheltenham, U.K.: Edward
 Elgar, 1996).
@@ -23750,8 +23163,7 @@ Nussbaum and Glover, Woman, Culture and Development (1995). See also the
 Notes to Pages I93-4
 
 papers of Julie Nelson, Shelley Lundberg, Robert Pollak, Diana Strassman, Myra
-Strober and Viviana Zelizer in the 1994 Papers and Proceedings in American Eco­
-nomic Review 84 (1994}.
+Strober and Viviana Zelizer in the 1994 Papers and Proceedings in American Economic Review 84 (1994}.
 
 8. This issue has started receiving considerable attention in India. See Asoke
 Mitra, Implications of Declining Sex Ratios in India's Population (Bombay: Allied
@@ -23760,17 +23172,13 @@ and Survival," Cambridge Journal of Economics 7 (1983); Bardhan, Land, Labor
 and Rural Poverty (1984); Jain and Banerjee, eds., Tyranny of the Household
 (1985). The "survival problem" relates to the broader issue of neglect, on which see
 also the studies presented in Swapna Mukhopadhyay) ed., Women,s Health� Public
-Policy and Community Action (Delhi: Manohar, 1998), and Swapna Mukhopadh­
-yay and R. Savithri, Poverty, Gender and Reproductive Choice (Delhi: Manohar,
+Policy and Community Action (Delhi: Manohar, 1998), and Swapna Mukhopadhyay and R. Savithri, Poverty, Gender and Reproductive Choice (Delhi: Manohar,
 1998).
 
-9· On this see Tinker, Persistent Inequalities (1990). My own paper in this col­
-lection ("Gender and Cooperative Conflict") goes into the economic and social
+9· On this see Tinker, Persistent Inequalities (1990). My own paper in this collection ("Gender and Cooperative Conflict") goes into the economic and social
 influences that affect the divisions within the family, and discusses why the divisions
 vary so much between regions (for example, antifemale bias being much stronger in
-South Asia, West Asia, North Africa and China than in sub-Saharan Africa or South­
-east Asia), and also within different areas inside the same country (for example, gen­
-der bias at this level being very strong in some Indian states, such as Punjab and
+South Asia, West Asia, North Africa and China than in sub-Saharan Africa or Southeast Asia), and also within different areas inside the same country (for example, gender bias at this level being very strong in some Indian states, such as Punjab and
 Uttar Pradesh, and effectively absent in Kerala). There are also close linkages
 between different influences on women's relative position, such as those connecting
 legal rights and basic education {since the use of legal provisions relates to the ability
@@ -23785,12 +23193,10 @@ of Hunger, edited by Jean Dreze and Amartya Sen (Oxford: Clarendon Press 1990),
 among others.
 
 I I. Some of these issues have been discussed in the specific context of India, with
-comparisons within and outside India in Dreze and Sen, India: Economic Develop­
-ment and Social Opportunity (1995); see also Alaka Basu, Culture, the Status of
+comparisons within and outside India in Dreze and Sen, India: Economic Development and Social Opportunity (1995); see also Alaka Basu, Culture, the Status of
 Women and Demographic Behaviour (I992), and Agarwal, A Field of One's Own,
 (1995}. The different sources of disadvantage are particularly important to study in
-analyzing the special deprivation of groups with little economic or social leverage­
-for example, widows, especially from poorer families. On that, see Martha Alter
+analyzing the special deprivation of groups with little economic or social leveragefor example, widows, especially from poorer families. On that, see Martha Alter
 Chen, ed., Widows in India (New Delhi: Sage, 1998), and her forthcoming book,
 Perpetual Mourning: Widowhood in Rural India (Delhi: Oxford University Press,
 1999; Philadelphia, Pa.� University of Pennsylvania Press, 1999 ).
@@ -23808,23 +23214,19 @@ the Third World (London: Macmillan, 1998).
 Notes to Pages I95-8
 
 14. See Mamta Murthi, Anne-Catherine Guio and Jean Dreze, "Mortality, Fer�
-tility and Gender Bias in India: A District Level Analysis," Population and Develop­
-ment Review 2r (December 1995). See also Jean Dreze and Amartya Sen, eds.,
+tility and Gender Bias in India: A District Level Analysis," Population and Development Review 2r (December 1995). See also Jean Dreze and Amartya Sen, eds.,
 Indian Development: Selected Regional Perspectives (Delhi: Oxford University
 Press, r 99 6). Questions can certainly be raised about the direction of causation in
 the identified relations-for example, whether women)s literacy influences the starus
 and standing of women in the family or whether women's higher standing inclines a
 family to send young girls to school. There could be, statistically, also a third factor
-that correlates with both. And yet recent empirical studies suggest that most families­
-even in socially backward areas in India-seem to have a strong preference for edu­
-cating the children, including girls. One large survey indicates that the proportion of
+that correlates with both. And yet recent empirical studies suggest that most familieseven in socially backward areas in India-seem to have a strong preference for educating the children, including girls. One large survey indicates that the proportion of
 parents who think it is "important" to send girls to school even in the states with
 the least female literacy is remarkably high: 8 5 percent in Rajasthan, 88 percent in
 Bihar, 92 percent in Uttar Pradesh, and 93 percent in Madhya Pradesh. The main
 barrier to the education of girls appears to be the absence of convenient schools in
 the neighborhood-a major difference between high-literacy and low-literacy states.
-See the Probe Team, Public Report on 'Basic Education in India (Delhi: Oxford Uni­
-versity Press, 1999 ). Public policy, therefore, has a central role to play. There have
+See the Probe Team, Public Report on 'Basic Education in India (Delhi: Oxford University Press, 1999 ). Public policy, therefore, has a central role to play. There have
 been recent public policy initiatives with good effect on literacy, especially in
 Himachal Pradesh, and more recently in West Bengal, Madhya Pradesh and a few
 other states.
@@ -23847,8 +23249,7 @@ King's College, Cambridge, U .K., I999·
 
 r8. There were, apparently, not enough data with adequate interdistrict varia­
 
-tions to examine the impact of different forms of property rights, which are rela­
-tively more uniform across India. On an isolated basis, there is, of course, the strong
+tions to examine the impact of different forms of property rights, which are relatively more uniform across India. On an isolated basis, there is, of course, the strong
 and much-discussed example of the Nairs in Kerala, who have had matrilineal
 inheritance for a long time (an association that confirms, rather than contradicts,
 insofar as it goes, the positive impact of female property rights on child survival in
@@ -23870,18 +23271,14 @@ India: Economic Development and Social Opportunity (r995).
 
 Notes to Pages I99-200
 
-22. The various sources of evidence on this have been subjected to critical exami­
-nation, and not surprisingly, the different empirical studies emerge with rather dis­
-parate force in these critical scrutinies. See particularly the "critical perspectives" on
+22. The various sources of evidence on this have been subjected to critical examination, and not surprisingly, the different empirical studies emerge with rather disparate force in these critical scrutinies. See particularly the "critical perspectives" on
 this issue presented in Caroline H. Bledsoe, John B. Casterline, Jennifer A. Johnson�
 Kuhn and John G. Haaga, eds., Critical Perspectives on Schooling and Fertility in
 the Developing World (Washington, D.C.: National Academy Press, I999). See also
 Susan Greenhalgh, Situating Fertility: Anthropology and Demographic Inquiry
 (Cambridge: Cambridge University Press, I 9 9 5 ); Robert J. Barra and J ong-Wha Lee,
-"International Comparisons of Educational Attainment," paper presented at a con­
-ference on How Do National Policies Affect Long�Run Growth?, World Bank,
-Washington, D.C., I993; Robert Cassen, with contributors, Population and Devel­
-opment: Old Debates, New Conclusions (Washington, D.C.: Transaction Books for
+"International Comparisons of Educational Attainment," paper presented at a conference on How Do National Policies Affect Long�Run Growth?, World Bank,
+Washington, D.C., I993; Robert Cassen, with contributors, Population and Development: Old Debates, New Conclusions (Washington, D.C.: Transaction Books for
 Overseas Development Council, I994).
 
 23. On these and related general issues, see my ''Population: Delusion and
@@ -23889,9 +23286,7 @@ Reality,'' New York Review of Books, September 22, I994; Population Policy:
 Authoritarianism versus Cooperation (Chicago: MacArthur Foundation, I995h and
 "Fertility and Coercion," University of Chicago Law Review 63 (summer I996).
 
-24. See United Nations, ESCAP, Integration of Women's Concerns into Devel­
-opment Planning in Asia and the Pacific {New York: United Nations, 1992), espe­
-cially the paper of Rehman Sobhan and the references cited there. The practical
+24. See United Nations, ESCAP, Integration of Women's Concerns into Development Planning in Asia and the Pacific {New York: United Nations, 1992), especially the paper of Rehman Sobhan and the references cited there. The practical
 issues relate closely to the social conception of women's role in society and thus
 touch on the central focus of feminist studies. A wide-ranging collection of papers
 (including many classics) can be found in Susan Moller Okin and Jane Mansbridge,
@@ -23902,18 +23297,14 @@ and Gender (Cambridge, Mass.: Harvard University Press, I998).
 
 25. See Philip Oldenberg, "Sex Ratio, Son Preference and Violence in India: A
 Research Note," Economic and Political Weekly, December 5-12, 1998; Jean Dreze
-and Reetika Khera, "Crime, Society and Gender in India: Some Clues for Homici­
-dal Data," mimeographed, Centre for Development Economics, Delhi School of
+and Reetika Khera, "Crime, Society and Gender in India: Some Clues for Homicidal Data," mimeographed, Centre for Development Economics, Delhi School of
 Economics, 1999. The explanations of this interesting finding can invoke cultural
-factors as well as economic and social ones. Though the brief discussion here con­
-centrates on the latter, there are obvious connections with psychological and valua­
-tional questions raised by those who see a basic gender contrast in morals and
+factors as well as economic and social ones. Though the brief discussion here concentrates on the latter, there are obvious connections with psychological and valuational questions raised by those who see a basic gender contrast in morals and
 attitudes, most notably Carol Gilligan; see In a Different Voice (Cambridge, Mass.:
 Harvard University Press, 1982). Importance may well be attached to the fact that
 the most remarkable case of humane prison reform in India came from one of that
 rare breed, a woman prison governor, Kiran Bedi. Her own account of the radical
-change and the opposition she faced can be found in Kiran Bedi, It's Always Possi­
-ble: Transforming One of the Largest Prisons in the World (New Delhi: Sterling,
+change and the opposition she faced can be found in Kiran Bedi, It's Always Possible: Transforming One of the Largest Prisons in the World (New Delhi: Sterling,
 1:998). I do not pursue further here the important issue of distinguishing between
 alternative explanations of the nature of women's leadership in social change of this
 type, since the analysis presented in this work does not require that we try to resolve
@@ -23933,16 +23324,14 @@ Notes to Pages zoo-2
 
 causation. See also the literature cited there, including older studies, such as Baldev
 Raj Nayar, Violence and Crime in India: A Quantitative Study (Delhi: Macmillan,
-I975); S.M. Edwards, Crime in India (Jaipur: Printwell Publishers, 1988}; S. Venu­
-gopal Rao, ed., Perspectives in Criminology (Delhi: Vikas, 1988).
+I975); S.M. Edwards, Crime in India (Jaipur: Printwell Publishers, 1988}; S. Venugopal Rao, ed., Perspectives in Criminology (Delhi: Vikas, 1988).
 
 27. Another factor has been the use of group responsibility in seeking a high rate
 of repayment. On this see Muhammad Yunus with Alan Jolis, Banker to the Poor:
 Micro-Lending and the Battle Against World Poverty (London: Aurum Press, 1998).
 See also Lutfun N. Khan Osmani, "Credit and Women's Relative Well-Being: A Case
 Study of the Grameen Bank, Bangladesh�' (Ph.D. thesis, Queen's University of
-Belfast, I998). See also Kaushik Basu, Analytical Development Economics {Cam­
-bridge, Mass.: MIT Press, 1997 ), chapters 13 and r4; Debraj Ray, Development
+Belfast, I998). See also Kaushik Basu, Analytical Development Economics {Cambridge, Mass.: MIT Press, 1997 ), chapters 13 and r4; Debraj Ray, Development
 Economics (Princeton: Princeton University Press, 1998}, chapter 14.
 
 28. See Catherine H. Lovell, Breaking the Cycle of Poverty: The BRAG Strategy
@@ -23954,8 +23343,7 @@ Pat Caldwell, "The Bangladesh Fertility Decline: An Interpretation," Population 
 Development Review 25 (1999}. See also John Cleland, James F. Phillips, Sajeda
 Amin and G. M. Kamal, The Determinants of Reproductive Change in Bangladesh:
 Success in a Challenging Environment (Washington, D.C.: World Bank, 1996), and
-John Bongaarts, "The Role of Family Planning Programmes in Contemporary Fer­
-tility Transition," in The Continuing Demographic Transition, edited by G.W. Jones
+John Bongaarts, "The Role of Family Planning Programmes in Contemporary Fertility Transition," in The Continuing Demographic Transition, edited by G.W. Jones
 et al. (New York: Oxford University Press, 1997).
 
 ,o. See Agarwal, A Field of One-'s Own (1995}.
@@ -23963,20 +23351,16 @@ et al. (New York: Oxford University Press, 1997).
 Nutrition and Agricultural Change in the Northern Province of Zambia� z890-I990
 (Portsmouth, N.H.: Heinemann, 1994).
 
-3 2. The difficulties to be overcome by women in the labor market and in eco­
-nomic relations in society have been plentiful even in advanced market economies.
+3 2. The difficulties to be overcome by women in the labor market and in economic relations in society have been plentiful even in advanced market economies.
 See Barbara Bergmann, The Economic Emergence o(Women (New York: Basic
 Books, r986); Francine D. Blau and Marianne A. Ferber, The Economics of Women,
 Men and Work (Englewood Cliffs, N.J.: Prentice-Hall, 1986); Victor R. Fuchs,
 Women's Quest for Economic Equality (Cambridge, Mass.: Harvard University
-Press, 1988); Claudia Goldin, Understanding the Gender Gap: An Economic His­
-tory of American Women (New York: Oxford University Press, 1990). See also the
-collection of papers in Marianne A. Ferber, Women in the Labor Market (Chel­
-tenham, U.K.: Edward Elgar, 1998).
+Press, 1988); Claudia Goldin, Understanding the Gender Gap: An Economic History of American Women (New York: Oxford University Press, 1990). See also the
+collection of papers in Marianne A. Ferber, Women in the Labor Market (Cheltenham, U.K.: Edward Elgar, 1998).
 
 33· There is a danger of oversimplification in seeing the issue of women's
-"agency" or "autonomy" in too formulaic terms, focusing on simple statistical con­
-nections with variables such as female literacy or employment. On this see the
+"agency" or "autonomy" in too formulaic terms, focusing on simple statistical connections with variables such as female literacy or employment. On this see the
 insightful anthropological analysis of Alaka M. Basu, Culture, Status of Women,
 and Demographic Behavior (Oxford: Clarendon Press, r992). See also the studies
 presented in Roger Jeffery and Alaka M. Basu, eds., Girls' Schooling, Women's
@@ -23987,8 +23371,7 @@ Autonomy and Fertility Change in South Asia (London: Sage, I996).
 Market Decisions in London and Dhaka," mimeographed, Institute of Development
 Studies, University of Sussex, 1998.
 
-3 5. The changing role of women (and its far-reaching effects} in India since inde­
-pendence is discussed in an interesting collection of papers edited by Bharati Ray and
+3 5. The changing role of women (and its far-reaching effects} in India since independence is discussed in an interesting collection of papers edited by Bharati Ray and
 
 Notes to Pages 202-z2
 
@@ -24003,24 +23386,20 @@ terms of more conventional indicators. See also the literature cited there.
 Chapter 9: Population, Food and Freedom
 
 I. Thomas Robert Malthus, Essay on the Principle of Population, As It Affects
-the Future Improvement of Society, with Remarks on the Speculation of Mr. God­
-win, M. Condorcet, and Other Writers (London: J. johnson, 1798), chapter 8; in the
+the Future Improvement of Society, with Remarks on the Speculation of Mr. Godwin, M. Condorcet, and Other Writers (London: J. johnson, 1798), chapter 8; in the
 Penguin Classics edition, An Essay on the Principle of Population; and, A Summary
-View of the Principle of Population, edited by Anthony Flew (Harmondsworth: Pen­
-guin Books, 1982), p. 123. See also The Works of Thomas Robert Malthus, edited
+View of the Principle of Population, edited by Anthony Flew (Harmondsworth: Penguin Books, 1982), p. 123. See also The Works of Thomas Robert Malthus, edited
 by E. A. Wrigley and David Souden (London: William Pickering, 1986), including
 the illuminating editorial introduction.
 
 2. See Commodity Market Review I998-x999 (Rome: Food and Agriculture
 Organization, I999), p. xii. See also the detailed analysis presented in that report,
 and also Global Commodity Markets: A Comprehensive Review and Price Forecast
-(Washington, D.C.: World Bank, I999 ). In an impressive technical study of the Inter­
-national Food Policy Research Institute (IFPRI), it is argued that there might be very
+(Washington, D.C.: World Bank, I999 ). In an impressive technical study of the International Food Policy Research Institute (IFPRI), it is argued that there might be very
 significant further decline in real world prices of food between 1990 and 2020. The
 study anticipates further declines in food prices of about I 5 percent for wheat, 22
 percent for rice, 23 percent for maize, and 25 percent for other coarse grains. See
-Mark W. Rosengrant,. Mercedita Agcaoili-Sombilla and Nicostrato D. Perez, "Glob­
-al Food Projections to 2020: Implications for Investment," International Food Policy
+Mark W. Rosengrant,. Mercedita Agcaoili-Sombilla and Nicostrato D. Perez, "Global Food Projections to 2020: Implications for Investment," International Food Policy
 Research Institute, Washington, D.C., I995·
 
 3. See Tim Dyson, Population and Food: Global Trends and Future Prospects
@@ -24033,13 +23412,10 @@ Research Institute, Washington, D.C., I995·
 
 6. Note by the Secretary-General of the United Nations to the Preparatory Com�
 
-mittee for the International Conference on Population and Development, third ses­
-sion, AJConf.r?r/PC/5, February I8, 1994, p. 30. See also Massimo Livi Bacci, A
-Concise History of World Population, translated by Carl Ipsen (Cambridge: Cam­
-bridge University Press, I992; 2nd edition, 1997).
+mittee for the International Conference on Population and Development, third session, AJConf.r?r/PC/5, February I8, 1994, p. 30. See also Massimo Livi Bacci, A
+Concise History of World Population, translated by Carl Ipsen (Cambridge: Cambridge University Press, I992; 2nd edition, 1997).
 
-7. The arguments that follow draw on my earlier papers on the population prob­
-lem, and in particular on "Fertility and Coercion/' University of Chicago Law
+7. The arguments that follow draw on my earlier papers on the population problem, and in particular on "Fertility and Coercion/' University of Chicago Law
 Review 63 (summer 1996).
 
 8. See my "Rights and Agency," Philosophy and Public Affairs II (1982),
@@ -24061,16 +23437,14 @@ Considerations on Representative Government; Rema·rks on Bentham>s Philosophy
 
 rr. I have argued elsewhere that this conflict is so pervasive that even a minimal
 
-acknowledgment of the priority of liberty can conflict with the most minimal utility­
-based social principle, viz., Pareto optimality. On this see my "The Impossibility of
+acknowledgment of the priority of liberty can conflict with the most minimal utilitybased social principle, viz., Pareto optimality. On this see my "The Impossibility of
 a Paretian Liberal," journal of Political Economy 78 (January/February I97I),
 reprinted in my Choice, Welfare and Measurement (Oxford: Blackwell; Cambridge,
 Mass.: MIT Press, r982; republished, Cambridge, Mass.: Harvard University Press,
 I997), and also in, among other collections, Philosophy and Economic Theory,
 edited by Frank Hahn and Martin Hollis (Oxford: Oxford University Press, I979 ).
 See also my Collective Choice and Social Welfare (San Francisco: Holden-Day, r970;
-republished, Amsterdam: North-Holland, I979), "Liberty and Social Choice,, Jour­
-nal of Philosophy So (January r983), and "Minimal Liberty," Economica 57
+republished, Amsterdam: North-Holland, I979), "Liberty and Social Choice,, Journal of Philosophy So (January r983), and "Minimal Liberty," Economica 57
 (r992). See the symposium on this subject in the special number devoted to it in
 Analyse & Kritik I8 (1996), among quite a large literature that has addressed this
 question.
@@ -24078,14 +23452,12 @@ question.
 12. See Massimo Livi Bacci and Gustavo DeSantis , eds., Population and Poverty
 in the Developing World (Oxford: Clarendon Press, r999). See also Partha Das�
 gupta, An Inquiry into Well-Being and Destitution (Oxford: Clarendon Press,
-1993); Robert Cassen et al., Population and Development: Old Debates, New Con­
-clusions (Washington D.C.: Transaction Books in Overseas Development Council,
+1993); Robert Cassen et al., Population and Development: Old Debates, New Conclusions (Washington D.C.: Transaction Books in Overseas Development Council,
 r994}; Kerstin Lindahl-Kiessling and Hans Landberg, eds., Population, Economic
 Development� and the Environment (Oxford: Oxford University Press, 1994),
 among other contributions.
 
-13. English translation by Malthus himself, from his Essay on population, chap­
-ter 8, Penguin Classics, p. 123. Malthus uses here the original 1795 version of
+13. English translation by Malthus himself, from his Essay on population, chapter 8, Penguin Classics, p. 123. Malthus uses here the original 1795 version of
 Marie-Jean-Antoine-Nicolas de Caritat, marquis de Condorcet's Esquisse d'un
 tableau historique des progres de l' esprit humain. For later reprints of that volume,
 see Oeuvres de Condorcet, volume 6 {Paris: Firmin Didot Freres, r847; recently
@@ -24123,8 +23495,7 @@ Population (New York: Addison-Wesley, 1981); Gassen et al., Population and
 Development: ( 1994}. See also Anrudh K. Jain and Moni Nag, "The Importance of
 Female Primary Education in India/' Economic and Political Weekly 21 (1986).
 
-I 8. Gary S. Becker, The Economic Approach to Human Behavior (Chicago: Uni­
-versity of Chicago Press, 1976)� and A Treatise on the Family (Cambridge, Mass.:
+I 8. Gary S. Becker, The Economic Approach to Human Behavior (Chicago: University of Chicago Press, 1976)� and A Treatise on the Family (Cambridge, Mass.:
 Harvard University Press, 1981). See also the paper of Robert Willis, "Economic
 
 Analysis of Fertility: Micro Foundations and Aggregate Implications," in Lindahl­
@@ -24148,8 +23519,7 @@ Mead Cain, eds., Rural Development and Population: Institutions and Policy (New
 York: Oxford University Press, 1990}.
 
 2r. See World Bank, World Development Report 1998-1999 {Washington,
-D.C.: World Bank, 1998), table 7, p. 202. See also World Bank and Population Ref­
-in
+D.C.: World Bank, 1998), table 7, p. 202. See also World Bank and Population Refin
 erence Bureau, Success in a Challenging Environment: Fertility Decline
 
 Bangladesh (Washington, D.C.: World Bank, 1993).
@@ -24157,15 +23527,12 @@ Bangladesh (Washington, D.C.: World Bank, 1993).
 22. See, for example, R. A. Easterlin, ed., Population and Economic Change in
 Developing Countries (Chicago: University of Chicago Press, 1980); T. P. Schultz,
 Economics of Population (New York: Addison-Wesley, 1981); J. C. Caldwell,
-Theory of Fertility Decline (1982); Nancy Birdsall, "Economic Approaches to Popu­
-lation Growth," in The Handbook of Development Economics, volume r, edited by
+Theory of Fertility Decline (1982); Nancy Birdsall, "Economic Approaches to Population Growth," in The Handbook of Development Economics, volume r, edited by
 H. B. Chenery and T. N. Srinivasan (Amsterdam: North-Holland, 1988); Robert J.
 Barro and Jong-Wha Lee, '�International Comparisons of Educational Attainment,"
 paper presented at a conference on "How Do National Policies Affect Long-Run
 Growth?'' World Bank, Washington, D.C., 1993; Partha Dasgupta, An Inquiry into
-Well-Being and Destitution {1993 ); Robert Cassen et al., Population and Devel­
-opment (1994); Gita Sen, Adrienne Germain and Lincoln Chen, eds., Popula­
-tion Policies Reconsidered: Health, Empowerment, and Rights (Harvard Center for
+Well-Being and Destitution {1993 ); Robert Cassen et al., Population and Development (1994); Gita Sen, Adrienne Germain and Lincoln Chen, eds., Population Policies Reconsidered: Health, Empowerment, and Rights (Harvard Center for
 Population and Development/International Women's Health Coalition, 1994). See
 also the papers of Nancy Birdsall and Robert Willis, in Lindahl"Kiessling and Land­
 
@@ -24174,8 +23541,7 @@ berg, Population, Economic Development, and the Environment (1994).
 23. Mamta Murthi, Anne-Catherine Guio and Jean Dreze, "Mortality, Fertility,
 and Gender Bias in India: A District Level Analysis,'> Population and Development
 Review 21 (December 1995), and Jean Dreze and Mamta Murthi, "Female Literacy
-and Fertility: Recent Census Evidence from India," mimeographed, Centre for His­
-tory and Economics, King's College, Cambridge, I999·
+and Fertility: Recent Census Evidence from India," mimeographed, Centre for History and Economics, King's College, Cambridge, I999·
 
 24. See particularly an important collection of papers edited by Roger Jeffery
 
@@ -24184,8 +23550,7 @@ Notes to Pages 2r8-22
 and Alaka Malwade Basu, Girls' Schooling, Women's Autonomy and Fertility
 Change in South Asia (New Delhi: Sage, 1997).
 
-2 5. A literate community can undergo value changes that one literate family sur­
-rounded by other (illiterate) families may not be able to achieve. The issue of choice
+2 5. A literate community can undergo value changes that one literate family surrounded by other (illiterate) families may not be able to achieve. The issue of choice
 
 of "unit" for statistical analysis is extremely important, and in this case may favor
 larger groups (such as regions or districts) over smaller ones (such as families).
@@ -24198,8 +23563,7 @@ Report I998-I999·
 
 Times, June 25, I995·
 
-28. On the general subject of reproductive freedom and its relation to the popu­
-lation problem, see Gita Sen , Adrienne Germain, and Lincoln Chen, Population
+28. On the general subject of reproductive freedom and its relation to the population problem, see Gita Sen , Adrienne Germain, and Lincoln Chen, Population
 
 Policies Reconsidered (1994); see also Gita Sen and Carmen Barroso, "After Cairo:
 
@@ -24219,8 +23583,7 @@ own. So its experience is not negligible.
 Reality," New York Review of Books, September 22, 1994. See also Robin Jeffrey,
 
 Politics, WomenJ and Well-Being: How Kerala Became a {'ModeJ>' (Cambridge:
-Cambridge University Press, 1992), and V. K. Ramachandran, "Kerala's Develop­
-ment Achievements," in Indian Development: Selected Regional Perspectives, edited
+Cambridge University Press, 1992), and V. K. Ramachandran, "Kerala's Development Achievements," in Indian Development: Selected Regional Perspectives, edited
 by Jean Dreze and Amartya Sen (Delhi: Oxford University Press, 1996).
 
 32. Kerala has a higher adult female literacy rate-86 percent-than China (68
@@ -24261,22 +23624,19 @@ contrasting the situation in China vis-a�vis that in Kerala).
 
 tunity (r995), and the literature cited there.
 
-3 6. Aside from the imperative need to reject coercive methods, it is also impor­
-tant to promote the quality and diversity of noncoercive means of family planning.
+3 6. Aside from the imperative need to reject coercive methods, it is also important to promote the quality and diversity of noncoercive means of family planning.
 As things stand, family planning in India is overwhelmingly dominated by female
 
 sterilization, even in the southern states. To illustrate, while nearly 40 percent of cur­
 
 rently married women aged thirteen to forty-nine in southern India are sterilized,
-only 14 percent of these women have ever used a nonterminal, modern contracep­
-tion method. Even the knowledge of modern methods of family planning other than
+only 14 percent of these women have ever used a nonterminal, modern contraception method. Even the knowledge of modern methods of family planning other than
 sterilization is extraordinarily limited in India. Only half of rural married women
 aged thirteen to forty-nine, for instance, seem to know what a condom or an IUD is.
 On this see Dreze and Sen, India: Economic Development and Social Opportunity
 (1995}.
 
-37· On this see the references cited in Dreze and Sen, India: Economic Develop­
-ment and Social Opportunity (1995). See also Gita Sen and Carmen Barroso, "After
+37· On this see the references cited in Dreze and Sen, India: Economic Development and Social Opportunity (1995). See also Gita Sen and Carmen Barroso, "After
 Cairo: Challenges to Women's Organizations.''
 
 3 8. On this see Dreze and Sen, India: Economic Development and Social Oppor�
@@ -24287,8 +23647,7 @@ tunity (:r995), pp. I68-71.
 
 Sen, India: Economic Development and Social Opportunity (1995).
 
-40. On this see my "Population and Reasoned Agency: Food, Fertility and Eco­
-nomic Development/' in Lindahl-Kiessling and Landberg, Population, Economic
+40. On this see my "Population and Reasoned Agency: Food, Fertility and Economic Development/' in Lindahl-Kiessling and Landberg, Population, Economic
 Development, and the Environment (1994); "Population, Delusion, and Reality,"
 New York Review of Books., September 22, 1994; and "Fertility and Coercion"
 (1996}.
@@ -24383,8 +23742,7 @@ Books, 1974).
 1997; my reply appeared on October 13, I997·
 
 23. A quick introduction to this literature can be found in A Sourcebook in
-Indian Philosophy, edited by S. Radhakrishnan and C. A. Moore (Princeton: Prince­
-ton University Press, 1973), in the section "The Heterodox Systems,'' pp. 227-346.
+Indian Philosophy, edited by S. Radhakrishnan and C. A. Moore (Princeton: Princeton University Press, 1973), in the section "The Heterodox Systems,'' pp. 227-346.
 24. English translation from H. P. Shastri, The Ramayana of Valmiki (London:
 
 Shanti Sadan, 1952), p. 389.
@@ -24405,8 +23763,7 @@ Diversity and Human Rights (New York: Columbia University Press, I996).
 
 29. See Martha Nussbawn and Amartya Sen, "Internal Criticism and Indian
 'Rationalist Tradition,' " in Relativism: Interpretation and Confrontation (South
-Bend, Ind.: University of Notre Dame Press, 1989}, and Martha Nussbaum, Culti­
-vating Humanity (Cambridge, Mass.: Harvard University Press, 1997).
+Bend, Ind.: University of Notre Dame Press, 1989}, and Martha Nussbaum, Cultivating Humanity (Cambridge, Mass.: Harvard University Press, 1997).
 
 30. Joanne R. Bauer and Daniel A. Bell, eds., The East Asian Challenge for
 
@@ -24423,17 +23780,13 @@ examining the kinds of reasoning that can be sensibly used.
 2d edition, 1963).
 
 3· See particularly Friedrich Hayek, Studies in Philosophy, Politics, and Eco�
-nomics (Chicago: University of Chicago Press, 1967}, pp. 96-105, and also the ref­
-erences cited there.
+nomics (Chicago: University of Chicago Press, 1967}, pp. 96-105, and also the references cited there.
 
 4· This line of reasoning is more fully presented in my Collective Choice and
 Social Welfare (San Francisco: Holden-Day, 1970; republished, Amsterdam: North­
 Holland, 1979), and Choice, Welfare and Measurement (Oxford: Blackwell, 1982;
-Cambridge, Mass.: MIT Press, 1982; republished, Cambridge, Mass.: Harvard Uni­
-versity Press, 1997), which examine the interpretational issues as well as the con­
-structive possibilities that exist. See also the critical survey of the literature in my
-"Social Choice Theory,'' in K. J. Arrow and M. Intriligator, Handbook of Mathe­
-matical Economics (Amsterdam: North-Holland, 1986), and the references cited
+Cambridge, Mass.: MIT Press, 1982; republished, Cambridge, Mass.: Harvard University Press, 1997), which examine the interpretational issues as well as the constructive possibilities that exist. See also the critical survey of the literature in my
+"Social Choice Theory,'' in K. J. Arrow and M. Intriligator, Handbook of Mathematical Economics (Amsterdam: North-Holland, 1986), and the references cited
 there .
 
 5. I have elaborated this argument further in my Nobel lecture, ''The Possibility
@@ -24443,13 +23796,10 @@ of Social Choice," American Economic Review 89 (1999}.
 6. These connections are examined in my presidential address to the American
 Economic Association, "Rationality and Social Choice," American Economic
 Review 85 (1995). Pioneering attention was focused in this area in the work done by
-James Buchanan, ''Social Choice, Democracy and Free Markets," Journal of Politi­
-cal Economy 62 (I 9 54), and "Individual Choice in Voting and the Market,"] ournal
-of Political Economy 62 (19 54). See also Cass Sunstein, Legal Reasoning and Politi­
-cal Conflict (Oxford: Clarendon Press, I996).
+James Buchanan, ''Social Choice, Democracy and Free Markets," Journal of Political Economy 62 (I 9 54), and "Individual Choice in Voting and the Market,"] ournal
+of Political Economy 62 (19 54). See also Cass Sunstein, Legal Reasoning and Political Conflict (Oxford: Clarendon Press, I996).
 
-7· Indeed, technically speaking, even "maximization, does not require a com­
-plete ordering, since a partial ordering permits us to separate out a "maximal" set of
+7· Indeed, technically speaking, even "maximization, does not require a complete ordering, since a partial ordering permits us to separate out a "maximal" set of
 alternatives that are no worse than any of the available options. On the analytics of
 maximization, see my "Maximization and the Act of Choice,, Econometrica 6 5
 (July 1997).
@@ -24459,11 +23809,9 @@ republished, edited by D. D. Raphael and A. L. Macfie (Oxford: Clarendon Press,
 1976), p. 184.
 
 9· Adam Smith, An Inquiry into the Nature and Causes of the Wealth of Nations
-(1776), republished, edited by R. H. Campbell and A. S. Skinner (Oxford: Claren­
-don Press, 1976), pp. 26-7.
+(1776), republished, edited by R. H. Campbell and A. S. Skinner (Oxford: Clarendon Press, 1976), pp. 26-7.
 
-ro. Smith, Wealth of Nations (in the 1976 edition), pp. 453-71. On the interpre­
-tation and role of the "invisible hand, in Smith's reasoning, see Emma Rothschild,
+ro. Smith, Wealth of Nations (in the 1976 edition), pp. 453-71. On the interpretation and role of the "invisible hand, in Smith's reasoning, see Emma Rothschild,
 
 •
 
@@ -24482,8 +23830,7 @@ Hirschman's points about the importance of intended consequences that are not
 realized. See my foreword to the twentieth-anniversary edition of his The Passions
 and the Interests: Political Arguments for Capitalism before Its Triumph (Princeton:
 Princeton University Press, 1977; twentieth-anniversary edition, 1997). See also
-Judith Tendler, Good Government in the Tropics (Baltimore: Johns Hopkins Uni­
-versity Press, 1997).
+Judith Tendler, Good Government in the Tropics (Baltimore: Johns Hopkins University Press, 1997).
 
 I 3. On this see my joint book with Jean Dreze, India: Economic Development
 
@@ -24498,8 +23845,7 @@ Measurement (r982; 1997); On Ethics and Economics (Oxford: Blackwell, 1987);
 and "Maximization and the Act of Choice" (r977).
 
 r6. The classic characterization of the competitive market by Kenneth Arrow,
-Gerard Debreu and Lionel McKenzie has provided much insight despite the parsi­
-monious nature of its structural assumptions. See Kenneth J. Arrow, ''An Extension
+Gerard Debreu and Lionel McKenzie has provided much insight despite the parsimonious nature of its structural assumptions. See Kenneth J. Arrow, ''An Extension
 of the Basic Theorems of Classical Welfare Economics,'' in Proceedings of the Sec­
 
 ond Berkeley Symposium of Mathematical Statistics, edited b y J. Neyman (Berkeley:
@@ -24516,8 +23862,7 @@ Elgar, 199 5).
 Sentiments
 
 r 8. These connections are explored in my essay "Economic Wealth and Moral
-, (Zurich: Bank Hoffman, 1994). See also Samuel Brittan and Alan Ham­
-lin, eds., Market Capitalism and Moral Values (Cheltenham, U.K.: Edward Elgar,
+, (Zurich: Bank Hoffman, 1994). See also Samuel Brittan and Alan Hamlin, eds., Market Capitalism and Moral Values (Cheltenham, U.K.: Edward Elgar,
 1995), and International Business Ethics, edited by Georges Enderle (South Bend,
 Ind.: University of Notre Dame Press, 1998).
 
@@ -24527,14 +23872,12 @@ Religion and the Rise of Capitalism (London: Murray, 1926); Max Weber, The
 Protestant Ethic and the Spirit of Capitalism {London: Allen & Unwin, 1930).
 
 20. A central issue is the importance of what Bruno Frey has called "intrinsic
-motivation": tertium dater. See his "Tertium Dater: Pricing, Regulating and Intrin­
-sic Motivation," Kyklos 45 (1992).
+motivation": tertium dater. See his "Tertium Dater: Pricing, Regulating and Intrinsic Motivation," Kyklos 45 (1992).
 
 21. Adam Smith, "History of Astronomy,
 
 ,
-, in his Essays on Philosophical Sub­
-jects (London: Cadell & Davies, 179 5); republished, edited by W.P.D. Wightman
+, in his Essays on Philosophical Subjects (London: Cadell & Davies, 179 5); republished, edited by W.P.D. Wightman
 and J. C. Bryce (Oxford: Clarendon Press, 1980), p. 34·
 
 22. Michio Morishima, Why Has japan 'Succeeded'? Western Technology and
@@ -24564,8 +23907,7 @@ Making of Modern Japan (Cambridge, Mass.: Harvard University Press, 199 5 ).
 28. See the proceedings of the conference on ''Economics and Criminality" in
 Rome in May 1993, organized by the Italian Parliament's Anti-Mafia Commission,
 chaired by Luciano Violante, Economica e crimina/ita (Roma: Camera dei deputati,
-1993). The text of my contribution, "On Corruption and Organized Crime," ana­
-lyzes, with particular reference to the Italian situation, some of the issues briefly
+1993). The text of my contribution, "On Corruption and Organized Crime," analyzes, with particular reference to the Italian situation, some of the issues briefly
 touched on here.
 
 29. See Stefano Zamagni, ed., Mercati illegali e Mafie (Bologna: I1 Mulino,
@@ -24597,17 +23939,14 @@ Smith, Esq., LL.D. (London: Payne, 1790).
 the Behavioural Foundations of Economic Theory," Philosophy and Public Affairs 6
 (summer 1977}; reprinted in Philosophy and Economic Theory, edited by Frank
 Hahn and Martin Hollis (Oxford: Oxford University Press, 1979); in my Choice,
-Welfare and Measurement (1982), and in Beyond Selrlnterest, edited by jane Mans­
-bridge (Chicago: Chicago University Press, 1990). See also my "Goals, Commitment
+Welfare and Measurement (1982), and in Beyond Selrlnterest, edited by jane Mansbridge (Chicago: Chicago University Press, 1990). See also my "Goals, Commitment
 and Identity," Journal of Law, Economics and Organization 1 (fallx985); and On
 Ethics and Economics (1987).
 
 36. In Gary Becker's important and influential "economic approach to human
 behaviour," adequate room is made for sympathy, rather than for conunitment (The
 Economic Approach to Human Behaviour, Chicago: Chicago University Press,
-r976). The maximand that the rational person pursues can include concern for oth­
-ers; this is quite a significant and momentous broadening from the standard neo­
-classical assumption of self-centered individuals. (Some further broadening of the
+r976). The maximand that the rational person pursues can include concern for others; this is quite a significant and momentous broadening from the standard neoclassical assumption of self-centered individuals. (Some further broadening of the
 framework of behavioral analysis can be found in Becker's later book, Accounting
 
 Notes to Pages 27I-3
@@ -24615,8 +23954,7 @@ Notes to Pages 27I-3
 for Tastes [Cambridge, Mass.: Harvard University Press, 1996].) But the maximand
 is also seen in this Beckerian framework as reflecting the person)s self-interest; this is
 a characteristic feature of sympathy-not of commitment. It is, however, possible to
-retain the maximizing framework and still accommodate, entirely within the disci­
-pline of maximization, values other than the pursuit of self-interest (by broadening
+retain the maximizing framework and still accommodate, entirely within the discipline of maximization, values other than the pursuit of self-interest (by broadening
 the objective function beyond the notion of self�interest}; on this and related issues,
 see my "Maximization and the Act of Choice" (1997).
 
@@ -24641,9 +23979,7 @@ Conservative Economics," Economic History Review 45 (February r992).
 
 1993), pp. 18-9.
 
-45· For examples of different types of reasoned connections, see Drew Fuden­
-berg and Jean Tirole, Game Theory (Cambridge, Mass.: MIT Press, 1992); Ken Bin­
-more, Playing Fair (Cambridge, Mass.: MIT Press, 1994); Jorgen Weibull,
+45· For examples of different types of reasoned connections, see Drew Fudenberg and Jean Tirole, Game Theory (Cambridge, Mass.: MIT Press, 1992); Ken Binmore, Playing Fair (Cambridge, Mass.: MIT Press, 1994); Jorgen Weibull,
 Evolutionary Game Theory (Cambridge, Mass.: MIT Press, 1995). See also Becker,
 Accounting for Tastes (1996); and Avner Ben-Ner and Louis Putterman, eds.) Eco·
 nomics� Values, and Organization (Cambridge: Cambridge University Press, 1998).
@@ -24673,12 +24009,10 @@ Ner and Putterman, eds., Economics, Values and Organization (r99B).
 Notes to Pages 273-85
 
 49· On this, see Smith, The Theory of Moral Sentiments, p. r62..
-50. We can, however, also be led astray by "herd behaviour,, on which see Abhi­
-jit Banerjee, "A Simple Model of Herd Behaviour,'' Quarterly Journal of Economics
+50. We can, however, also be led astray by "herd behaviour,, on which see Abhijit Banerjee, "A Simple Model of Herd Behaviour,'' Quarterly Journal of Economics
 1.07 (:r992.).
 
-51. Frank H. Knight, Freedom and Reform: Essays in Economic and Social Phi­
-losophy (New York: Harper & Brothers, 1947; republished, Indianapolis; Liberty,
+51. Frank H. Knight, Freedom and Reform: Essays in Economic and Social Philosophy (New York: Harper & Brothers, 1947; republished, Indianapolis; Liberty,
 1982.), p • .2.80.
 
 52. Buchanan, "Social Choice, Democracy and Free Markets" (1954), p. r2.o.
@@ -24705,8 +24039,7 @@ Mafia CQmmission, chaired by Luciano Violante.
 of social norms can be a major ally of nonprofit enterprises that call for committed
 behavior. This is well illustrated by active NGOs in Bangladesh, such as Muhammed
 Yunus's Grameen Bank, Fazle Hasan Abed's BRAC and Zafurullah Chowdhury's
-Gonoshashthaya Kendra (Center for People's Health). See also the analysis of gov­
-ernmental efficiency in Latin America by Judith Tendler, Good Government in the
+Gonoshashthaya Kendra (Center for People's Health). See also the analysis of governmental efficiency in Latin America by Judith Tendler, Good Government in the
 Tropics (1997).
 
 57· English translation from Alatas, The Sociology of Corruption {198o}; see
@@ -24752,16 +24085,11 @@ in Freedom, Social Choice and Responsibility: Arrow Lectures and Other Essays
 (Oxford: Clarendon Press, forthcoming).
 
 5. Development is seen here as the removal of shortfalls of substantive freedoms
-from what they can potentially achieve. While this provides a general perspective­
-enough to characterize the nature of development in broad terms-there are a num­
-ber of contentious issues that yield a class of somewhat different exact specifications
-of the criteria of judgment. On this, see my Commodities and Capabilities (Amster­
-dam: North-Holland, 1985); Inequality Reexamined (1992.); and also Freedom,
+from what they can potentially achieve. While this provides a general perspectiveenough to characterize the nature of development in broad terms-there are a number of contentious issues that yield a class of somewhat different exact specifications
+of the criteria of judgment. On this, see my Commodities and Capabilities (Amsterdam: North-Holland, 1985); Inequality Reexamined (1992.); and also Freedom,
 Rationality and Social Choice (forthcoming). The concentration on the removal of
 shortfalls in some specific dimensions has also been used in UNDP's annual Human
-Development Reports, pioneered in 1990 by Mahbub ul Haq. See also some far­
-reaching questions raised by Ian Hacking in his review article on Inequality Reex­
-amined: ''In Pursuit of Fairness," New York Review of Books� September I9, 1996.
+Development Reports, pioneered in 1990 by Mahbub ul Haq. See also some farreaching questions raised by Ian Hacking in his review article on Inequality Reexamined: ''In Pursuit of Fairness," New York Review of Books� September I9, 1996.
 See also Charles Tilly, Durable Inequality (Berkeley, Calif.: University of California
 Press� 1:998).
 
@@ -24770,10 +24098,8 @@ Press� 1:998).
 Nussbaum and Amartya Sen (Oxford: Clarendon Press, 1993).
 
 7· See John Rawls, A Theory of Justice (Cambridge, Mass.: Harvard University
-Press, 1971 ); John Harsanyi, Essays in Ethics, Social Behaviour and Scientific Expla­
-nation (Dordrecht: Reidel, r976); and Ronald Dworkin, "What Is Equality? Part 2:
-Equality of Resources," Philosophy and Public Affairs ro (198r). See also John Roe­
-mer, Theories of Distributive Justice (Cambridge, Mass.: Harvard University Press,
+Press, 1971 ); John Harsanyi, Essays in Ethics, Social Behaviour and Scientific Explanation (Dordrecht: Reidel, r976); and Ronald Dworkin, "What Is Equality? Part 2:
+Equality of Resources," Philosophy and Public Affairs ro (198r). See also John Roemer, Theories of Distributive Justice (Cambridge, Mass.: Harvard University Press,
 X996).
 
 8. This is discussed in my Inequality Reexamined (Oxford: Clarendon Press,
@@ -24795,8 +24121,7 @@ II. Aristotle, The Nicomachean Ethics, translated by D. Ross (Oxford: Oxford
 
 University Press, revised edition 1980), book I, section 6, p. 7·
 
-12. On the relevance of freedom in the writings of pioneering political econo­
-mists, see my The Standard of Living, edited by Geoffrey Hawthorn (Cambridge:
+12. On the relevance of freedom in the writings of pioneering political economists, see my The Standard of Living, edited by Geoffrey Hawthorn (Cambridge:
 Cambridge University Press, x987).
 
 I 3. This applies to Wealth of Nations (I 776} as well as to The Theory of Moral
@@ -24809,9 +24134,7 @@ Notes to Pages 289-96
 
 14. This particular statement is from The German Ideology, jointly written with
 Friedrich Engels (x846); English translation in D. McLellan, Karl Marx: Selected
-Writings (Oxford: Oxford University Press, 1977}, p. 190. See also Marx's The Eco­
-nomic and Philosophical Manuscript of z844 (1844) and Critique of the Gotha Pro­
-gramme (r875).
+Writings (Oxford: Oxford University Press, 1977}, p. 190. See also Marx's The Economic and Philosophical Manuscript of z844 (1844) and Critique of the Gotha Programme (r875).
 
 I 5. John Stuart Mill, On Liberty (I 8 59; republished: Harmondsworth: Penguin
 
@@ -24831,13 +24154,10 @@ Unwin, 1955), pp. 9-ro, 42o-x.
 
 19. Hayek, The Constitution of Liberty (196o), p. 31.
 20. These and related issues in "the evaluation of freedom, are discussed in my
-Kenneth Arrow Lectures included in Freedom, Rationality and Social Choice (forth­
-coming). Among the questions that are addressed there is the relation between free­
-dom, on the one hand, and preferences and choices, on the other.
+Kenneth Arrow Lectures included in Freedom, Rationality and Social Choice (forthcoming). Among the questions that are addressed there is the relation between freedom, on the one hand, and preferences and choices, on the other.
 
 2I. On this and related issues, see Robert J. Barro and Jong-Wha Lee, "Losers
-and Winners in Economic Growth," Working Paper 4 3 41, National Bureau of Eco­
-nomic Research {:r993); Xavier Sala-i-Martin, "Regional Cohesion: Evidence and
+and Winners in Economic Growth," Working Paper 4 3 41, National Bureau of Economic Research {:r993); Xavier Sala-i-Martin, "Regional Cohesion: Evidence and
 Theories of Regional Growth and Convergence," Discussion Paper 1075, CEPR,
 London, 1994; Robert J. Barro and Xavier Sala-i-Martin, Economic Growth (New
 York: McGraw-Hill, I995); Robert J. Barro, Getting It Right: Markets and Choices
@@ -24856,14 +24176,11 @@ Development for the American Family," Daedalus 122 (1993), and "Promoting
 Human Capability as an Alternative to Early Crime," Harvard School of Public
 Health and Harvard Medical School, 1:996.
 
-25. I have tried to discuss this issue in "Development: Which Way Now?" Eco­
-nomic Journal 93 (1983}, reprinted in Resources, Values and Development (Cam­
-bridge, Mass.: Harvard University Press, 1984; 1997), and also in Commodities and
+25. I have tried to discuss this issue in "Development: Which Way Now?" Economic Journal 93 (1983}, reprinted in Resources, Values and Development (Cambridge, Mass.: Harvard University Press, 1984; 1997), and also in Commodities and
 Capabilities ( r 9 8 5).
 
 26. To a considerable extent the annual Human Development Reports of the
-United Nations Development Programme, published since 1:990, have been moti­
-vated by the need to take a broader view of this kind. My friend Mahbub ul Haq,
+United Nations Development Programme, published since 1:990, have been motivated by the need to take a broader view of this kind. My friend Mahbub ul Haq,
 who died last year, played a major leadership role in this, of which I and his other
 friends are most proud.
 

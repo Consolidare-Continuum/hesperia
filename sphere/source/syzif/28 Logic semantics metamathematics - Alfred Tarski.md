@@ -21,16 +21,11 @@ PRINTED IN GREAT BRITAIN
 
 T R A N S L A T O R ' S P R E F A C E
 
-T he setting free o f Poland after the First W orld W ar wa s fol­
-lowed b y intensive activity in her Universities. In the depart­
-ments o f philosophy and mathematics this took the form, in a
+T he setting free o f Poland after the First W orld W ar wa s followed b y intensive activity in her Universities. In the departments o f philosophy and mathematics this took the form, in a
 number o f places, o f new and powerful investigations in the
 fields o f mathematical logic, the foundations o f mathematics,
-and the m ethodology o f the sciences. Prominent in this m ove­
-ment was the W arsaw school led b y Lukasiewicz, Kotarbinski,
-and Lesniewski. Under their skilled guidance a younger genera­
-tion grew up and among these Alfred Tarski quickly dis­
-tinguished himself.
+and the m ethodology o f the sciences. Prominent in this m ovement was the W arsaw school led b y Lukasiewicz, Kotarbinski,
+and Lesniewski. Under their skilled guidance a younger generation grew up and among these Alfred Tarski quickly distinguished himself.
 
 Ever since I first enjoyed the hospitality o f Professor Tarski
 in Warsaw in 1936, it has seemed to me that the importance
@@ -43,13 +38,11 @@ performing a public service, as well as acknowledging in some
 small measure m y debt to m y Polish friends, i f I prepared a
 collected edition o f some o f Professor Tarski's publications in
 English translation. W hen he visited England in 1950 to deliver
-the Sherman Lectures at University College, London, I men­
-tioned m y plan to him and received his approval.
+the Sherman Lectures at University College, London, I mentioned m y plan to him and received his approval.
 
 This volume contains Tarski's m ajor contributions to logic,
 semantics, and metamathematics published before the Second
-W orld W a r ; their arrangement here corresponds to the chrono­
-logical order in which they first appeared in print. W ith the
+W orld W a r ; their arrangement here corresponds to the chronological order in which they first appeared in print. W ith the
 exception o f articles I I and X I (which are too closely connected
 with, and too often referred to in, the other articles to be
 omitted), the volume does not include Tarski's studies in the
@@ -73,8 +66,7 @@ paper is a purely expository one, and its ideas have been fully
 developed in Chapter V I o f Tarski's book Introduction, to logic
 (New Y ork, 1941).
 
-In a sense the present work is more than a volume o f transla­
-tions. Naturally an attempt has been made to remove the
+In a sense the present work is more than a volume o f translations. Naturally an attempt has been made to remove the
 misprints and errors whioh occur in the originals. Moreover, the
 articles have been provided b y the author with cross-references
 to other articles in the volume and with notes referring to later
@@ -88,8 +80,7 @@ whioh seemed to me doubtful and difficult wer6 noted down and
 sent to Professor Tarski in Berkeley, California. In this way it
 was possible to adjust the text o f the translations in many
 points, so as to meet the author's wishes. However, in view o f
-the time limit and the geographical distance between the resi­
-dences o f the author and the translator, it was impracticable to
+the time limit and the geographical distance between the residences o f the author and the translator, it was impracticable to
 send the whole manuscript to Professor Tarski before it was
 set in print. Instead he received galley proofs, on which for
 obvious reasons he could not suggest too extensive changes. It
@@ -119,8 +110,7 @@ Ksiyga Pamiqtkowa Pienvszego Polskiego Zjazdu Hatemaiycznego
 (article II), Monatshefte fUr Mathematik und Physik (articles V
 and I X ), Przeglqd Filozoficzny (articles I, X , X V , and X V I), and
 Travaux de la Sociiii des Sciences et des Lettres de Varsovie
-(article V III). Acknowledgements should be made to the pu b­
-lishers and editors o f these periodicals for their generosity.
+(article V III). Acknowledgements should be made to the pu blishers and editors o f these periodicals for their generosity.
 
 I am obliged to Mr. S. W . P. Steen for kindly reading the
 proofs o f article VILl and throughout the work I have received
@@ -151,8 +141,7 @@ o f effort and time, which otherwise could have been used for
 fruitful research in his chosen field, theoretical biology and its
 foundations.
 
-The task o f a translator is rarely a gratifying one. Circum­
-stances have made it especially thankless in the present ca se;
+The task o f a translator is rarely a gratifying one. Circumstances have made it especially thankless in the present ca se;
 let me indicate some o f them. The papers whose translations
 constitute the volume were originally published over a period
 o f fifteen years and in several different languages. They vary
@@ -193,8 +182,7 @@ Berkeley; he generously offered his help on the day o f his
 arrival and continued it untiringly and patiently, with the
 greatest devotion and conscientiousness, until his last day. He
 studied the originals o f the articles, translated for Professor
-W oodger various passages from the Polish text, prepared refer­
-ences to recent literature, discussed with me the remarks which
+W oodger various passages from the Polish text, prepared references to recent literature, discussed with me the remarks which
 I planned to insert in the translations, assumed most o f the
 burden o f the extensive correspondence connected with the
 publication o f the book, and read the first batch o f galley proofs.
@@ -358,8 +346,7 @@ found in Le&niewski (46), (47), and (47 b).
 
 * In the sense of Peiroe (see Peirce, C. S. (58 a), p. 197) who gives this name to
 the symbols ' I T (universal quantifier) and '2* (particular or existential
-quantifier) representing abbreviations of the expressions: ' for every significa­
-tion of the terms . . and ' for some signification of the terms . ,
+quantifier) representing abbreviations of the expressions: ' for every signification of the terms . . and ' for some signification of the terms . ,
 
 t B ibliographical N ote. This article constitutes the essential part of the
 author's doctoral dissertation submitted to the University of Warsaw in 1923.
@@ -437,8 +424,7 @@ or theorems:
 
 [ * , 5, / ] : f s , . f y ) . o , ( " .
 
-However, this sentence cannot be proved or disproved with­
-in any o f the systems o f logistic which are known from the
+However, this sentence cannot be proved or disproved within any o f the systems o f logistic which are known from the
 literature. This gave rise to a further study o f the sentence in
 question, and in particular to a. search for other sentences
 equivalent to it. The results obtained will be presented in §§ 3-6
@@ -453,8 +439,7 @@ result o f this work.
 
 The proofs offered are strictly speaking incomplete; they
 must be regarded as commentaries indicating the course o f the
-reasoning. The structure o f these commentaries is in part bor­
-rowed from Whitehead and Russell; they do not, I think, require
+reasoning. The structure o f these commentaries is in part borrowed from Whitehead and Russell; they do not, I think, require
 more detailed explanation.
 
 Dee. 1.
@@ -726,8 +711,7 @@ T h . 11. \jp,q\v.p.q== : . [ f ] : . p = :[r].j> = / ( r ) .
 § 2. T r u t h -f u n c t io n s a n d t h e L a w o f S u b s t it u t io n
 
 Whitehead and Russell, in their work mentioned above, refer
-to a function / as a truth-function1 if it takes sentences as argu­
-ment values and satisfies the condition
+to a function / as a truth-function1 if it takes sentences as argument values and satisfies the condition
 
 (a) 0 , 8]
 
@@ -754,8 +738,7 @@ expression <Bp{f}> will mean the same as 'the function / is a
 truth-fiinction\ Def. 5 will enable us to replace the law o f
 substitution b y a single sym bol *Sb\ Am ong the theorems
 proved in this section, Th. 17 is the most important. I t shows
-that, in a system o f logistic which contains the law o f substitu­
-tion among its axioms or theorems, the sentence formulated in
+that, in a system o f logistic which contains the law o f substitution among its axioms or theorems, the sentence formulated in
 Th. 11 can be replaced b y a simpler sentence,
 
 [p ,q ]:.p.q. ss : [ / ] : p s ./(p ) s / ( j ) ,
@@ -970,8 +953,7 @@ T o the question whether every function / (having a sentence
 as argument) is a truth-function, A . N. Whitehead and B. Russell
 give a negative answer. Their answer is based exclusively on
 intuitive considerations and does not appear to be convincing.1
-On the other hand it seems quite clear that the law o f sub­
-stitution can be neither demonstrated nor refuted in any o f the
+On the other hand it seems quite clear that the law o f substitution can be neither demonstrated nor refuted in any o f the
 systems o f logistic hitherto known. Moreover , it is even possible
 to prove the independence o f this sentence o f the known systems
 o f axioms o f logistic, e.g. the system o f W hitehead and Russell,
@@ -1530,8 +1512,7 @@ Th. 51.
 
 As well as satisfying the law o f development, in virtue of Th. 50,
 truth-functions also possess other properties which the algebra
-o f logic attributes to its functions. Nevertheless the correspond­
-ing theorems are sometimes easier to prove by the use o f the
+o f logic attributes to its functions. Nevertheless the corresponding theorems are sometimes easier to prove by the use o f the
 specific laws o f logistic.
 
 In this section I prove, in particular, Ths. 52-54 according
@@ -1621,8 +1602,7 @@ substitution, the proof is based upon an interpretation in three-valued logic
 
 3 Lukasiewicz has already called attention to the fact that in attributing
 to every function / the properties indicated here as conditions (d) and (e) (and
-the properties corresponding to these conditions for functions of several argu­
-ments) we can bring about notable simplifications in the constructions of
+the properties corresponding to these conditions for functions of several arguments) we can bring about notable simplifications in the constructions of
 logistic. Cf. Lukasiewicz, J. (50 a).
 
 3 Cf. L. Couturat (14 a), $ 28; E. Schroder (62), vol. I, p. 427, 48+.
@@ -2290,8 +2270,7 @@ properties (a1)-(f1) mentioned above.2
 It is easy to show that the sentences (A1)-(F1) are equivalent,
 not only among one another, but also to the sentence (A)— the
 law" of substitution for functions with a single argument. More
-over, without leaving the domain of functions with two argu­
-ments, we can again construct a series of sentences equivalent,
+over, without leaving the domain of functions with two arguments, we can again construct a series of sentences equivalent,
 to the sentence (xA.) and, from the point of view of content,
 intermediate between the sentences of the preceding sections
 and those we have just discussed. The following are some
@@ -2306,8 +2285,7 @@ examples:
 [ » , / ] : [q] .f(p, q). = ./(p, Tr) .f(p, FI).
 
 1 I do not cite here the conditions corresponding to conditions (j), (k)> and
-(1) which were studied in the course of § 6. because they will be rather compli­
-cated and do not seem to me to be very interesting.
+(1) which were studied in the course of § 6. because they will be rather complicated and do not seem to me to be very interesting.
 
 2 In an unpublished manuscript of Lukasiewicz I have found an argument
 which may be summarized in these terms: The laws of the number of functions
@@ -2325,8 +2303,7 @@ N o t e II. O n F u n c t io n s o f w h ic h t h e A r g u m e n t s
 
 a r e n o t S e n t e n c e s
 
-Analogous problem s present themselves in the study o f logis­
-tic functions o f which the arguments are not sentences but
+Analogous problem s present themselves in the study o f logistic functions o f which the arguments are not sentences but
 functions.
 
 I shall restrict m yself to the consideration o f only a single
@@ -2356,8 +2333,7 @@ p roof o f this.
 It is possible to form ulate a series o f theorems (analogous to
 those o f the preceding sections) which express the necessary and
 sufficient conditions which a function (f> must satisfy if it is to
-be extensional or which provide equivalent form s for the sen­
-tence (A 2). However, the proofs o f these theorems require that
+be extensional or which provide equivalent form s for the sentence (A 2). However, the proofs o f these theorems require that
 the sentence (A) be adm itted as hypothesis. Otherwise they are
 quite like the proofs o f §§ 3 -6 ; but the role analogous to that o f
 Th. 25 is here played by the sentence:
@@ -2416,14 +2392,11 @@ F O U N D A T I O N S O F T H E G E O M E T R Y
 
 O F S O L I D S !
 
-S o m e years ago LeSniewski suggested the problem o f establish­
-ing the foundations o f a geometry of solids, understanding by
+S o m e years ago LeSniewski suggested the problem o f establishing the foundations o f a geometry of solids, understanding by
 this term a system o f geom etry destitute o f such geom etrical
 figures as points, lines, and surfaces, and adm itting as figures only
 solids— the intuitive correlates o f open (or closed) regular sets
-o f three-dim ensional Euolidean geom etry.1 The specific charac­
-ter o f such a geom etry o f solids— in contrast to all point g eo­
-m etries— is shown in particular in the law according to which
+o f three-dim ensional Euolidean geom etry.1 The specific character o f such a geom etry o f solids— in contrast to all point g eom etries— is shown in particular in the law according to which
 each figure contains another figure as a proper part. This problem
 is closely related to the questions discussed in the works o f
 W hitehead and N icod.2
@@ -2495,8 +2468,7 @@ of that theory.
 The notion o f a sphere is accepted as the only specific primitive
 
 1 The terms ' individual* and ' class' are used here in the same way as in
-the well-known work of A. N . Whitehead and B. Russell (90). The termi­
-nology adopted in this article differs in several details from that of Le&niewski's
+the well-known work of A. N . Whitehead and B. Russell (90). The terminology adopted in this article differs in several details from that of Le&niewski's
 mereology. In fact Le6niewski uses the terms ' ingredient', ' part*, ' exterior*,
 and 'set* in the sense in which I use ' part', ' proper part*, ' disjoint', and ' sum'
 respectively, and he employs the term ' class* in a sense completely different
@@ -2587,8 +2559,7 @@ points from a third} Consequently, by regarding the concepts
 introduced by Defs. 6 and 7 as correlates o f their homonyms in
 ordinary geom etry, we are able to define in the geom etry o f
 solids the correlates o f all the other notions o f point geom etry.
-In particular, we are able to establish the meaning o f the ex­
-pression 'the class a of points is a regular open set9,
+In particular, we are able to establish the meaning o f the expression 'the class a of points is a regular open set9,
 
 I turn now' to the form ulation o f the specific postulates which
 — together with Posts. I and II o f m ereology— form a postulate
@@ -2617,8 +2588,7 @@ F O U N D A T IO N S OF TH E G E O M E T R Y OF SOLIDS
 purpose establish exact connexions between notions o f the
 geom etry o f solids— those o f a solid and o f the relation of apart to a
 whole— and the corresponding pair o f notions o f ordinary point
-geom etry, those o f a regular open set and o f the relation of in­
-clusion,.
+geom etry, those o f a regular open set and o f the relation of inclusion,.
 
 P ostulate 2. I f A is a solid, the class a of all interior points
 
@@ -2647,8 +2617,7 @@ P ostulate 4". I f A is a sphere and B a part of A, there exists
 a sphere C which is a part of B.
 
 It should be noticed that the class o f all solids (and n ot that
-o f all spheres) constitutes what is called the 'universe o f dis­
-courseJ for the geom etry o f solids. F or this reason it m ay be
+o f all spheres) constitutes what is called the 'universe o f discourseJ for the geom etry o f solids. F or this reason it m ay be
 convenient to adopt the notion o f a solid as an additional
 prim itive notion. In this case D ef. 8 should, o f course, be om itted;
 in its place the fa ct that the class o f solids coincides with that
@@ -2702,8 +2671,7 @@ sistency for the tw o system s o f geom etry : that o f the geom etry
 o f solids and that o f ordinary point geom etry. In m y opinion
 what is to be regarded as a new result is the precise, m ethod o f
 establishing the m athem atical foundations o f the geom etry o f
-solids w ith the help o f a categorical system o f postulates con­
-taining only tw o prim itive notions: the notion o f sphere and
+solids w ith the help o f a categorical system o f postulates containing only tw o prim itive notions: the notion o f sphere and
 that o f being a part.
 
 1 This fact has an interesting consequence formulated in terms o f Boolean
@@ -2883,10 +2851,8 @@ and
 
 c(c(n(x),x),x) e Cn(0).
 
-This theorem asserts that every sentence obtained b y substitu­
-tion from one o f the three axiom s o f the ordinary system o f
-sentential calculus, w hich are due to J. Lukasiewicz,1 is a conse­
-quence o f the null set 0 (and hence is also a consequence o f
+This theorem asserts that every sentence obtained b y substitution from one o f the three axiom s o f the ordinary system o f
+sentential calculus, w hich are due to J. Lukasiewicz,1 is a consequence o f the null set 0 (and hence is also a consequence o f
 every set X o f sentences). B y the use o f A x. 7* this theorem
 can be extended to all substitution instances o f true sentences
 o f the sentential calculus.
@@ -2982,8 +2948,7 @@ Y e S . SB. S3 such that X £ 7 : in other words, every consistent
 set of sentences can be enlarged t o iotrn a consistent and complete
 system.
 
-T heorem 13*. Let X s S, In order that y e Cn(X) it is neces­
-sary and sufficient that y e S o d that the formula X - f { « (y)} e SB
+T heorem 13*. Let X s S, In order that y e Cn(X) it is necessary and sufficient that y e S o d that the formula X - f { « (y)} e SB
 should not hold.
 
 The concept o f com pleteness is often oonfused with tw o other
@@ -3059,8 +3024,7 @@ T heorem 19*. /n order $Aa$ X e 51 it is necessary and sufficient
 that X c S and that X possess no infinite basis.
 
 T heorem 20*. Let X e & ; in order that X 6 51 it is necessary
-and sufficient that no class ft c 0 exist which satisfies the follow­
-ing conditions: X e f t and X = 2 Y (i.e. that X cannot be represented as a sum of systems distinct from itself).
+and sufficient that no class ft c 0 exist which satisfies the following conditions: X e f t and X = 2 Y (i.e. that X cannot be represented as a sum of systems distinct from itself).
 
 T heorem 2L We have § 7 1 < N0 and
 
@@ -3072,22 +3036,18 @@ i / an infinite set X e U exists, £Aen
 
 = 1 = 2**.
 
-I t should be noted that in almost all known deductive dis­
-ciplines an infinite and at the same tim e independent set o f
+I t should be noted that in almost all known deductive disciplines an infinite and at the same tim e independent set o f
 sentences can be constructed, which thus realizes the hypothesis
 o f the second part o f the last theorem. In these disciplines there
 are therefore m ore non-axiom atizable than axiom atizable
-system s; system s are, so to speak, only exceptionally axiom a­
-tizable.1
+system s; system s are, so to speak, only exceptionally axiom atizable.1
 
 B y some authors the concept o f the independence o f a set
-o f sentences is sharpened in various directions (complete inde­
-pendence b y E . H . M oore,2 maximal independence by H . M.
+o f sentences is sharpened in various directions (complete independence b y E . H . M oore,2 maximal independence by H . M.
 Sheffer3). These notions will not be discussed here.
 
 W ithin the conceptual fram ework o f this paper we can carry
-out m etam athem atical investigations relating to concrete deduc­
-tive disciplines. For this purpose in each single case the concepts
+out m etam athem atical investigations relating to concrete deductive disciplines. For this purpose in each single case the concepts
 o f sentence and o f consequence must first be defined. W e then
 take as a starting-point some set X o f sentences in which we are
 
@@ -3101,8 +3061,7 @@ m
 
 OF M E T A M A T H E M A T IC S
 
-interested. W e investigate it from the point o f view o f con­
-sistency and axiom atizability; we try to determine its degree
+interested. W e investigate it from the point o f view o f consistency and axiom atizability; we try to determine its degree
 o f com pleteness, and possibly to specify all the systems, in
 particular all the consistent and com plete systems, which include
 X as a subset.f
@@ -3130,8 +3089,7 @@ and the clarification o f the concepts concerned was the work o f
 Tarski.
 
 In the present com m rm ication the m ost im portant results o f
-these investigations -for the m ost part not previously pub­
-lished— are collected together.^
+these investigations -for the m ost part not previously published— are collected together.^
 
 § 1. G e n e b a e Concepts
 
@@ -3144,8 +3102,7 @@ Ausaagenkallriil ' in Oomptes Rendus des stances de la SocteU des Sciences ei de
 Lettres de Vcrzovie, vol. 23, 1930, cl. iii, pp. 80-50.
 
 % To avoid misunderstandings it should be stated that the present article
-does not contain results discovered by both the authors jointly, but is a com­
-pilation of theorems and concepts belonging to five different persons. Each
+does not contain results discovered by both the authors jointly, but is a compilation of theorems and concepts belonging to five different persons. Each
 theorem and conoept is scribed to its respective originator. Theorem 3, for
 instance, is not a theorem of Lukasiewicz and Tarski, but a theorem of
 Lindenbaum, Nevertheless, some scholars mistakenly referred to both authors,
@@ -3161,22 +3118,18 @@ IV, J I
 
 S E N T E N T IA L CALCULUS
 
-F or this purpose we wish first to define the notion o f a (meaning­
-ful) sentence and that o f a consequence of a set of sentences w ith
+F or this purpose we wish first to define the notion o f a (meaningful) sentence and that o f a consequence of a set of sentences w ith
 respect to the sentential calculus.
 
 D efinition 1. The set S o f all sentences is the intersection of
 all those sets which contain all sentential variables (elementary
-sentences) and are closed under the operations of forming implica­
-tions and negations.1
+sentences) and are closed under the operations of forming implications and negations.1
 
-The concepts o f sentential variable, o f implication and o f nega­
-tion cannot be explained further; th ey m ust rather be regarded as
+The concepts o f sentential variable, o f implication and o f negation cannot be explained further; th ey m ust rather be regarded as
 prim itive concepts o f the m etatheory o f sentential calculus (i.e.
 o f that part o f metamathematiGS in which sentential calculus
 is investigated). The fundam ental properties o f these concepts,
-which suffice for the construction o f the part o f m etam athe­
-m atics w ith w hich we are here concerned, can be expressed in
+which suffice for the construction o f the part o f m etam athem atics w ith w hich we are here concerned, can be expressed in
 a series o f sim ple sentences (axiom s) which need not now be
 stated. U sually the letters 'p ', 'g ', V\ etc,, are used as sentential
 variables. In order to express in sym bols the sentences 'p im ­
@@ -3185,9 +3138,7 @@ Lukasiewicz em ploys the form ulas ' Cpq' and 'N p ' respectively.2
 W ith this notation the use o f such technical signs as parentheses,
 dote, eto., is rendered unnecessary. W e shall encounter several
 examples o f sentences w ritten in this sym bolism in subsequent
-sections. In addition to the form ation o f im plications and nega­
-tions other similar operations are com m only used in the senten­
-tial calculus. B u t as these are all definable b y means o f the tw o
+sections. In addition to the form ation o f im plications and negations other similar operations are com m only used in the sentential calculus. B u t as these are all definable b y means o f the tw o
 m entioned above they w ill n ot be considered here.
 
 The sym bol ' Cpq' , w hich in the sentential calculus expresses
@@ -3208,12 +3159,10 @@ I N V E S T I G A T I O N 'S IN T O TH E
 
 IV, § 1
 
-sentential calculus). An analogous remark applies to the sym­
-bolic expressions (N p ' and
+sentential calculus). An analogous remark applies to the symbolic expressions (N p ' and
 
 The consequences o f a set o f sentences are formed with the
-help of two operations, that of substitution and that of detach­
-ment (the modus ponens scheme of inference). The intuitive
+help of two operations, that of substitution and that of detachment (the modus ponens scheme of inference). The intuitive
 meaning of the first operation is clear; we shall not, therefore,
 discuss its character more closely. The second operation consists
 in obtaining the sentence y from the sentences x and z = c(xy y ) .
@@ -3315,12 +3264,9 @@ T heorem 3. For every system l e S there exists a normal
 matrix 2U = [A, B, f, g], with an at most denumerable set A + B ,
 which satisfies the formula X —
 
-E ach o f the tw o m ethods has its advantages and disadvan­
-tages. System s constructed b y means o f the axiom atio m ethod
+E ach o f the tw o m ethods has its advantages and disadvantages. System s constructed b y means o f the axiom atio m ethod
 are easier to investigate regarding their axiom atizability, but
-system s generated b y m atrices are easier to test for com plete­
-ness and consistency. In particular the follow ing evident theo­
-rem holds:
+system s generated b y m atrices are easier to test for com pleteness and consistency. In particular the follow ing evident theorem holds:
 
 T heorem 4. I f 2R = [d , B ,f, g] is a normal matrix and
 
@@ -3338,8 +3284,7 @@ Using the m atrix m ethod, the system L m ay be defined in
 
 the follow ing w ay:
 
-D efin itio n 5. The ordinary system L o f the sentential cal­
-culus is the set of all sentences which are satisfied by the matrix
+D efin itio n 5. The ordinary system L o f the sentential calculus is the set of all sentences which are satisfied by the matrix
 [A, B ,f, gr] where A = {0}, B — {1}® and the functions f and
 SOI
 g are defined by the formulas: /(0 , 0) = /(0 , 1) = / ( l , 1) — 1,
@@ -3387,15 +3332,13 @@ a set X o f sentences developed by B em ays and Lukasiewicz,5
 the following six axioms: iCpCgp\
 ' COpCqrCCvqCpr', 1 COpGqrCqCpr',
 *OOpqCNqNp', *CNNpp\ lCpNJSp\ Lukasiewicz has shown that in this
-system the third axiom is superfluous smee it can be derived from the preced­
-ing two axioms, and that the last three axioms can be replaced by the single
+system the third axiom is superfluous smee it can be derived from the preceding two axioms, and that the last three axioms can be replaced by the single
 sentence *CONpNqCqp\
 
 a Principia McUhematica, vol. 1 (1925). p. 91.
 • See (29 a), p. 153.
 4 Cf. Lukasiewicz, J. (61), pp. 46 and 121 ff. The proof of the equivalence
-of the two definitions of L aroountr to the same thing as proving the complete­
-ness of the system L when defined by meana of the axiomatic method. The
+of the two definitions of L aroountr to the same thing as proving the completeness of the system L when defined by meana of the axiomatic method. The
 first proof of completeness of this kind is found in Post (60).
 
 6 Bemays has published, in his article (6), which dates from the year 1926
@@ -3518,8 +3461,7 @@ x e S and if every oasis of the system Cn({.r)) consists of o?Uy one
 t The results discussed in the last paragraph of irv> text were improved
 after the original publication of this article. I d fact Lukasiewicz found in 1032
 a single noil-organic axiom consisting of 29 letters: see Sobocuis&i *60 c),
-especially pp. 181 f. In 1936 on the ground of a result of Sobociiiski ho pub­
-lished without proof a single organic axiom of 23 letters in J. Lukasiewicz p?2),
+especially pp. 181 f. In 1936 on the ground of a result of Sobociiiski ho published without proof a single organic axiom of 23 letters in J. Lukasiewicz p?2),
 p. 121, note 10. The shortest hitherto known single organic axiom consisting
 of 21 letters was found in 1952 bj7 C. A. Meredith; see his article, * Single axioms
 for the systems (C, N), {O, O), and {A, N) of the wo-valued propositional
@@ -3582,8 +3524,7 @@ Ths* 12-I4i
 (i) Let x *=* *Cpp\ Ifc can easily
 
 shown that the system Cn({x}) consists
-of all those and only tho^j son tone ea which can b© obtained from w by sub­
-stitution; more generally^ if Y i& any subset of <7»({«}), then Cn(Y) consists of
+of all those and only tho^j son tone ea which can b© obtained from w by substitution; more generally^ if Y i& any subset of <7»({«}), then Cn(Y) consists of
 those and only tho.se sentences which are obtainable from sentences of Y by
 substitution. Hence we conclude without difficulty that every independent
 set of sentences which is equivalent to {r} coxisists of just one sentence, in fact,
@@ -3619,8 +3560,7 @@ systems o f the sentential calculus and denoted b y the sym bol
 systems can be defined b y means o f the m atrix m ethod in the
 follow ing w ay:
 
-D e fin itio n 7. The n-valued system Ln o f the sentential cal­
-culus (where n is a natural number or n = H0) is the set of all
+D e fin itio n 7. The n-valued system Ln o f the sentential calculus (where n is a natural number or n = H0) is the set of all
 
 1 It is not necessary to explain any further the meaning of the expression
 ' in the sentence x two or three distinct variables occur* since it is intuitively
@@ -3642,8 +3582,7 @@ kalkuis \ Cmipies Bendus des stances de la SccidU ass Sciences & des Lettres de
 Vwrsovie> vol. 28 (1980), ol. iii, pp. 61-77.
 
 f Wajsbarg's proof of Th. 15 is given at the end oi his paper * S7 cf). Another
-proof of the result discussed can be obtained by th\r use of the method de­
-veloped in the note of A, H . Diamond and J. G <k McKinley, "Algebras and
+proof of the result discussed can be obtained by th\r use of the method developed in the note of A, H . Diamond and J. G <k McKinley, "Algebras and
 their subalgebras5, Bulletin of the American Mathematical Society, vol. 53
 (1947), pp. 968-62. For another proof of that part of Th, 16 winch concerns
 the whole system L, soe also S. Jankowski, ' Trois contribution.® au calcul des
@@ -3663,8 +3602,7 @@ set B is equal to { 1 } and the f unctions f and g are defined by the
 formulas'. f(x,y) — m in (l,1 —x-\-y), g(x) = l —x.
 
 As Lindenbaum has shown, the system Z Ko is not changed
-if, in the definition of this system, the set A o f all proper frac­
-tions is replaced by another infinite sub-set of the interval
+if, in the definition of this system, the set A o f all proper fractions is replaced by another infinite sub-set of the interval
 (0, I):
 
 Theorem 16. Let 50} — [A, B , f , #] be a matrix where B = { 1 },
@@ -3710,8 +3648,7 @@ and only if n— i
 
 a divisor of m—1 . 1
 
-1 Lindenbaum gave a lecture at the first congress of the Polish mathemati­
-cians (Lw6w, 1927) on mathematical methods of investigating the sentential
+1 Lindenbaum gave a lecture at the first congress of the Polish mathematicians (Lw6w, 1927) on mathematical methods of investigating the sentential
 calculus in which, among other things, he formulated the above-mentioned
 theorem. Cf. his note ' M6thodes mathdmatiques dans les recherches snr le
 system© de la theorie de deduction', Ksiqga Pamiqtkowa Pierwszego PoteJciego
@@ -3847,8 +3784,7 @@ sentences
 forms an axiom system for A *, t
 
 It must be emphasized that, as defined here, the systems L n
-for n > 2 have a fragmentary character, since they are incom­
-plete and are only sub-systems o f the ordinary system L . The
+for n > 2 have a fragmentary character, since they are incomplete and are only sub-systems o f the ordinary system L . The
 problem o f supplementing these systems to form complete and
 consistent systems which are at the same time distinct from L can
 be positively solved, but only in one way, namely by widening
@@ -3884,8 +3820,7 @@ number n *= 1 ,2 , 3,... let xn be the sentence which is formed by n symbols 4 C
 followed by n-f-1 variables *p \ Given any set N of natural numbers, let X N be
 the set consisting of all sentences xzn where n belongs to N and of ail sentences
 9m+l where n does not belong to N . It can easily be shown that the set Cn{XN)
-coincides with the Bet of all those sentences which can be obtained from sen­
-tences of X y by substitution. Hence the set X y is consistent and can therefore
+coincides with the Bet of all those sentences which can be obtained from sentences of X y by substitution. Hence the set X y is consistent and can therefore
 be extended to form a complete and consistent system Xy> On the other hand,
 if M and N are two different sets of natural numbers, then the sum of X jf and
 X jf is clearly inconsistent, and hence the systems X jf and X y cannot be
@@ -3897,8 +3832,7 @@ IV, §4
 
 § 4 . T h e R e s t r ic t e d S e n t e n t ia l C a l c u l u s
 
-In investigations into the sentential calculus attention is some­
-tim es restricted to those sentences in which no negation sign
+In investigations into the sentential calculus attention is sometim es restricted to those sentences in which no negation sign
 occurs. This part o f the sentential calculus can be treated as
 an independent deductive discipline, one which is still simpler
 than the ordinary sentential calculus and will be called here the
@@ -3911,8 +3845,7 @@ substitution is also sim plified, and this brings with it a change
 in the concept o f consequence. After these modifications Th. 1
 remains valid.
 
-F or the construction o f closed systems o f the restricted sen­
-tential calculus both o f the m ethods described in § 1 are used:
+F or the construction o f closed systems o f the restricted sentential calculus both o f the m ethods described in § 1 are used:
 the axiom atic and the m atrix m ethod. B ut a logical m atrix is
 now defined as an ordered triple [A, B ,f ] and not as an ordered
 quadruple (D ef. 3); consequently condition (4) in D ef. 4 o f a
@@ -3922,10 +3855,8 @@ The definition o f the ordinary system L+ o f the restricted
 sentential calculus is com pletely analogous to D ef. 5, with one
 obvious difference which is called for by the m odification in the
 concept o f m atrix. This system has been investigated by Tarski.
-From the definition o f the system its consistency and com plete­
-ness are easily derivable; hence Th. 5 holds also in the restricted
-sentential calculus. The axiom atizability o f the system is estab­
-lished in the follow ing theorem :
+From the definition o f the system its consistency and com pleteness are easily derivable; hence Th. 5 holds also in the restricted
+sentential calculus. The axiom atizability o f the system is established in the follow ing theorem :
 
 T h e o r e m 29. The set X consisting of the three sentences
 {CpCqp\ ' C C pqC C qrC pr' CCCpqpp9 forms a basis of the system
@@ -3965,12 +3896,10 @@ or of the single sentence
 forms a basis of the system L+.%
 
 D ef. 7 o f the w-valued system Ln can be applied at once to
-the restricted sentential calculus provided only that the con­
-cept o f m atrix is suitably m odified. Ths. 16-22 as well as 24-26,
+the restricted sentential calculus provided only that the concept o f m atrix is suitably m odified. Ths. 16-22 as well as 24-26,
 which describe the m utual relations among the various systems
 Ln, determine the degree o f completeness o f the systems and
-establish their axiom atizability, have been extended to the re­
-stricted sentential calculus b y their originators. (In the case o f
+establish their axiom atizability, have been extended to the restricted sentential calculus b y their originators. (In the case o f
 Th. 21 this was done b y Tarski; for Th. 22 b y W ajsberg. In
 Th. 24 the sentences with negation signs are to be om itted.)
 The problem o f the axiom atizability o f the system L£9 is left
@@ -4005,11 +3934,9 @@ calculus.^
 
 § 6. T h e E x t e n d e d S e n t e n t ia l Calcu lu s
 
-B y the extended sentential calculus we understand a deduc­
-tive discipline in the sentences o f which there occur what are
+B y the extended sentential calculus we understand a deductive discipline in the sentences o f which there occur what are
 called universal quantifiers in addition to sentential variables
-and the im plication sign.x F or the universal quantifier Lukasie­
-w icz uses the sign 'J J ' whioh was introduced b y Peirce.2 W ith
+and the im plication sign.x F or the universal quantifier Lukasiew icz uses the sign 'J J ' whioh was introduced b y Peirce.2 W ith
 this notation the form ula 'JJ pq' is the sym bolic expression o f
 the sentence, 'for slip , q (holds)' . The operation which consists
 in putting ths universal quantifier ' J J ' with a sentential variable
@@ -4030,8 +3957,7 @@ Le&niewski. In contrast to the extended sentential calculus, in the protothetic
 only those expressions are regarded as meaningful sentences in which no free,
 but only bound (apparent) variables occur. Some new operations (rules of
 inference or directives) are also introduced by means of which consequences are
-derived from given sentences, such, for example, as the operation of distri­
-buting quantifiers, which is superfluous in the extended sentential calculus.
+derived from given sentences, such, for example, as the operation of distributing quantifiers, which is superfluous in the extended sentential calculus.
 Finally it must be emphasised that LeSniewski has formulated with the utmost
 precision the conditions whioh a sentence must satisfy if it is to be admitted
 as a definition in the system of the protothetic, whereas in the present work
@@ -4039,8 +3965,7 @@ the problem of definitions has been left untouched. Article I belongs to prototh
 (51), pp. 154-69; this sketch rests in great part on results of Tarski (cf. loc.
 oit. Preface, p. vii). The two-valued logio of Lukasiewicz (52 a) has many points
 of contact with the extended sentential calculus. Finally, there are many
-analogies between the extended sentential calculus and the functional calcu­
-lus of Hilberi and Aokermarm (see Hilbert, D ., and Aokermann, W . (30),
+analogies between the extended sentential calculus and the functional calculus of Hilberi and Aokermarm (see Hilbert, D ., and Aokermann, W . (30),
 especially pp. 84-85).
 
 • The expression ' quantifier* occurs in the work of Peirce (58 a), p. 197,
@@ -4055,17 +3980,14 @@ IV, J 5
 
 W
 
-denoted b y 'nx{y)' in m etam athem atioal discussions. This con­
-cept is to be regarded as a prim itive concept o f the m etasentential calculus.1
+denoted b y 'nx{y)' in m etam athem atioal discussions. This concept is to be regarded as a prim itive concept o f the m etasentential calculus.1
 
 D ebtnition 8. The set 8 * o f all m eaningful sentences (o f the
 extended sentential caloulus) is the intersection of aU those sets
 which contain all sentential variables and are closed under the two
-operations of forming implications and of universal quantifica­
-tion {with respect to an arbitrary sentential variable).*
+operations of forming implications and of universal quantification {with respect to an arbitrary sentential variable).*
 
-The operations o f form ing negations and o f existential quan­
-tification (which consists in prefixing to a given sentence y the
+The operations o f form ing negations and o f existential quantification (which consists in prefixing to a given sentence y the
 existential quantifier '2 ' with a sentential variable «), are n ot
 considered here because, in the system o f the extended sentential
 calculus in which we are interested, they can be defined w ith the
@@ -4075,8 +3997,7 @@ we can use the form ula ' Op J J qq' as definiens for *Np\
 In deriving consequences from an arbitrary set o f sentences
 Lukasiewicz and Tarski make use o f the operations o f insertion
 and deletion of quantifiers, in addition to those o f substitution*
-and detachm ent. The first o f these operations consists in obtain­
-ing a sentence y = c(z, nt{u)) from a sentence of the form
+and detachm ent. The first o f these operations consists in obtaining a sentence y = c(z, nt{u)) from a sentence of the form
 x — c(z, u), where z e S* and u e 8 X, under the assum ption that
 t is a sentential variable which is not free in z.* The second
 operation is the inverse o f the first and consists in deriving the
@@ -4089,15 +4010,13 @@ to the standpoint taken in Lukasiewicz, J. (51), p. 155, the expression wa(y)
 is also regarded as meaningful when x either occurs as a bound variable in y
 or does not occur in y at all.
 
-8 The operation of substitution undergoes certain restrictions in the ex­
-tended sentential calculus (cf. Lukasiewicz, J, (51), p. 100, and Hilbert, D .,
+8 The operation of substitution undergoes certain restrictions in the extended sentential calculus (cf. Lukasiewicz, J, (51), p. 100, and Hilbert, D .,
 and Aekermann, W . (30), p. 54.)
 
 4 We do not need to discuss the meaning of the expression
 
 occurs in the
-sentence y as a free (or bound) variable ' since it is sufficiently clear (cf. Lukasie­
-wicz, J. (61), p. 166, and Hilbert and Aekermann (30), p. 64).
+sentence y as a free (or bound) variable ' since it is sufficiently clear (cf. Lukasiewicz, J. (61), p. 166, and Hilbert and Aekermann (30), p. 64).
 
 5 In the restricted functional calculus only the £rst operation is used.
 Instead of the second an axiom is set up (of. Hilbert, IX, and Aokerzfiann, W .
@@ -4124,9 +4043,7 @@ The second m ethod has not yet received a sufficiently clear
 general form ulation, and in fact the problem o f a simple and
 useful definition o f the concept o f m atrix still presents m any
 difficulties. Nevertheless this m ethod has been successfully
-applied b y Lukasiewicz in special cases, namely for the con­
-struction o f the n-valued system s Lx (for n < K0) and in par­
-ticular for the construction o f the ordinary system L x o f the
+applied b y Lukasiewicz in special cases, namely for the construction o f the n-valued system s Lx (for n < K0) and in particular for the construction o f the ordinary system L x o f the
 extended sentential calculus. The construction o f the systems
 L x is precisely described in the following.
 
@@ -4188,8 +4105,7 @@ every i 9 1 < i < n9 arises from y b y the substitution o f the
 basic sentence gi for the free variable x.
 
 The n-valued system Lx of the extended sentential calculus,
-where 2 < n < X0, is now defined as the set o f all those sen­
-tences x e 8 X which satisfy the form ula h(f(x)) = 1 for every
+where 2 < n < X0, is now defined as the set o f all those sentences x e 8 X which satisfy the form ula h(f(x)) = 1 for every
 value function h (o f the nth degree); in addition L x is set equal
 to j8 x . The system L$ = L* is also called the ordinary system
 of the extended sentential calculus.8
@@ -4285,8 +4201,7 @@ tences:
 then X 6 $tx(Zg).
 
 A n exact definition o f the denum erably-valued system L$e
-o f the extended sentential calculus presents m uch greater diffi­
-culties than that o f the finite-valued systems. This system has
+o f the extended sentential calculus presents m uch greater difficulties than that o f the finite-valued systems. This system has
 not yet been investigated.
 
 Ths. 27 and, 28, which determine the number o f all possible
@@ -4294,8 +4209,7 @@ Ths. 27 and, 28, which determine the number o f all possible
 system s, remain correct in the extended sentential calculus.
 
 In conclusion we should like to add that, as the simplest
-deductive discipline, the sentential calculus is particularly suit­
-able for m etam athem aticai investigations. It is to be regarded
+deductive discipline, the sentential calculus is particularly suitable for m etam athem aticai investigations. It is to be regarded
 as a laboratory in whioh m etam athem aticai m ethods can be
 discovered and m etam athem aticai concepts constructed which
 can then be carried over to m ore com plicated m athem atical
@@ -4326,9 +4240,7 @@ Strictly speaking m etam athem atics is not to be regarded as a
 single theory. F or the purpose o f investigating each deductive
 discipline a special m etadiscipline should be constructed. The
 present studies, however, are o f a more general character: their
-aim is to make precise the meaning of a series of important meta­
-mathematical concepts which are com m on to the special m eta­
-disciplines, and to establish the fundamental properties of these
+aim is to make precise the meaning of a series of important metamathematical concepts which are com m on to the special m etadisciplines, and to establish the fundamental properties of these
 concepts. One result o f this approach is that some concepts which
 can be defined on the basis o f special m etadisciplines will here
 be regarded as prim itive concepts and characterized b y a series
@@ -4405,8 +4317,7 @@ i)
 the ordinal num ber £).
 
 The results o f the present article are applicable to arbitrary
-deductive disciplines, and in particular to the simplest deduc­
-tive discipline, the sentential calculus. This article was originally
+deductive disciplines, and in particular to the simplest deductive discipline, the sentential calculus. This article was originally
 1 Whitehead, A. N., and Russell, IL (90).
 
 F U N D A M E N T A L C O N C E P T S O F
@@ -4420,10 +4331,8 @@ can be used as premisses in all reasoning within these deductive
 disciplines). This second part was developed independently o f
 the first part and was based upon a special axiom system . In
 its original form the second part has never appeared in print.1
-In conclusion it should be noted that no particular ph ilo­
-sophical standpoint regarding the foundations o f m athem atics
-is presupposed in the present w ork. Only incidentally, there­
-fore I m ay m ention that m y personal attitude towards this
+In conclusion it should be noted that no particular ph ilosophical standpoint regarding the foundations o f m athem atics
+is presupposed in the present w ork. Only incidentally, therefore I m ay m ention that m y personal attitude towards this
 question agrees in principle with that which has found em phatic
 expression in the writings o f S. Lefeiew ski3 and whioh I w ould
 call intuitionistic formalism,.^
@@ -4437,11 +4346,9 @@ meaningful sentences.* The sentences are m ost conveniently
 regarded as inscriptions, and thus as concrete physical bodies.
 N aturally, not every inscription is a m eaningful sentence o f
 a given discipline: only inscriptions o f a well-determ ined
-structure are regarded as meaningful. The concept o f meaning­
-ful sentence has no fixed content, and must be relativized to a
+structure are regarded as meaningful. The concept o f meaningful sentence has no fixed content, and must be relativized to a
 
-1 A modified version of the second part is to be found in XII. The discus­
-sion in Hertz, P. (27) has some points of contact with the present exposition.
+1 A modified version of the second part is to be found in XII. The discussion in Hertz, P. (27) has some points of contact with the present exposition.
 As examples of Generate investigations (within special mel&disoiplines) based
 upon the conceptual framework of this paper we may mention IV and
 Presburger, M, (61).
@@ -4462,8 +4369,7 @@ metadisdplines mentioned in the introduction this oonoept can
 be reduced to intuitively simpler oonoepts;1 in the present
 work, however, it must be taken as a primitive concept. The
 set o f all meaningful sentences will be denoted by the symbol 'S ' .
-Let A be an arbitrary set o f sentences o f a particular dis­
-cipline. With the help o f certain operations, the so-called rules
+Let A be an arbitrary set o f sentences o f a particular discipline. With the help o f certain operations, the so-called rules
 of inference, new sentences are derived from the set A , called
 the consequences o f the set A . To establish these rules o f inference,
 and with their help to define exaotly the oonoept o f consequence,
@@ -4495,8 +4401,7 @@ A x io m 1. S < K0.
 This axiom scarcely requires comment since the contrary
 hypothesis would be unnatural and would lead to undesired
 complications in proofs. Moreover, the question arises whether
-the assumption that the set S is infinite (even denumerably in­
-finite) is consistent with the intuitive view o f sentences as oon-
+the assumption that the set S is infinite (even denumerably infinite) is consistent with the intuitive view o f sentences as oon-
 
 1 See rv, p. 39 (Def. 1) and p. 65 (Def. 8).
 1 Cf. IV , p. 40 (Def. 2) and p. 66 (Def. 9). A set is said to be closed under
@@ -4513,8 +4418,7 @@ here that I personally regard such an assum ption as quite
 sensible, and that it appears to m e even to be useful from a m etam athem atical standpoint to replace the inequality sign b y the
 equality sign in A x. l . f
 
-From the definition schema o f the set o f consequences form u­
-lated above it follow s that every sentence which belongs to a
+From the definition schema o f the set o f consequences form ulated above it follow s that every sentence which belongs to a
 given set is to be regarded as a consequence o f that set, that the
 set o f consequences o f a set o f sentences consists solely o f
 sentences, and that the consequences o f consequences are them ­
@@ -4617,8 +4521,7 @@ T h e o r e m 3. I f A £ 8, 0 e (£, and G £ Cn(A), then there
 exists a set B which satisfies the formulas B e d , B £ A , and
 0 £ Cn(B).
 
-Proof. B y the hypothesis and A x. 4, a set G(x) oan be corre­
-lated uniquely w ith every elem ent x e C, in such a w ay that the
+Proof. B y the hypothesis and A x. 4, a set G(x) oan be correlated uniquely w ith every elem ent x e C, in such a w ay that the
 form ulas
 
 (1)
@@ -4701,8 +4604,7 @@ xSt
 
 a: 6 Cn{Z)
 
-follow s from (1) and from A x . 4. From (2) can further be in­
-ferred the existence o f a finite subclass £ o f Si, such that
+follow s from (1) and from A x . 4. From (2) can further be inferred the existence o f a finite subclass £ o f Si, such that
 Z £ y X . A ccording to the prem iss (a) there corresponds to
 
 ■»8
@@ -4778,8 +4680,7 @@ xetifto.e
 
 V, § 1
 
-{In other words, Axs. 1-4 remain valid if 'S' and 'Cn are every­
-where replaced in them by *C' and (F' respectively.)
+{In other words, Axs. 1-4 remain valid if 'S' and 'Cn are everywhere replaced in them by *C' and (F' respectively.)
 
 Proof. First let it be noted that in case 0 = S we have, b y
 A x. 2, Cn(X-\-B) £ C for every X £ Sy so that the function
@@ -4809,8 +4710,7 @@ thus b y the hypothesis
 
 F(F(A)) £ F (A ).
 
-Since the inverse inclusion F(A) £ JF(F(A)) results im m e­
-diately from (b) (if we replace 'A* in it by ' F (A )' ), we finally
+Since the inverse inclusion F(A) £ JF(F(A)) results im m ediately from (b) (if we replace 'A* in it by ' F (A )' ), we finally
 obtain the desired form ula F(F(A)) = F (A ).
 
 (d) B y A x. 4:
@@ -4904,8 +4804,7 @@ system.1
 D eductive systems are, so to speak, organic units which form
 the subject m atter o f m etam athem atical investigations. Various
 im portant notions, like consistency, completeness, and axio*
-m atizability, which we shall encounter in the sequel, are theo­
-retically applicable to any sets o f sentences, but in practice are
+m atizability, which we shall encounter in the sequel, are theoretically applicable to any sets o f sentences, but in practice are
 applied chiefly to systems.
 
 The class o f all system s is denoted by the sym bol
@@ -5050,10 +4949,8 @@ V, § 3
 § 3. L ogical (In feren tial) E quivalence of T wo Sets of
 Sentences
 
-Two sets of sentences are called logically or inferentially equi­
-valent, or simply equivalent, if they have all their consequences
-in common (:Lt\ their sets of consequences coincide). The sig­
-nificance of the concept consists in the fact that almost every
+Two sets of sentences are called logically or inferentially equivalent, or simply equivalent, if they have all their consequences
+in common (:Lt\ their sets of consequences coincide). The significance of the concept consists in the fact that almost every
 property to be considered here applies to all sets equivalent to a
 given set A whenever it applies to A,
 
@@ -5133,8 +5030,7 @@ and
 X y
 
 Proof. In consequence o f A xs. 1 and 2 as well as o f the
-hypothesis o f the theorem , the set Gn(A) £ 8 is at m ost de­
-num erable; the elements o f this set can therefore be ordered in
+hypothesis o f the theorem , the set Gn(A) £ 8 is at m ost denum erable; the elements o f this set can therefore be ordered in
 an infinite sequence (with possibly repeating terms) o f the type co,
 so that
 
@@ -5831,9 +5727,7 @@ q.e.d.
 
 It is to be noted that the theorem above can be established
 without the use o f the axiom o f choice (otherwise the result
-would be quite trivial); the same applies also to the generaliza­
-tion o f this theorem given below in Cor. 65. I f we restrict our­
-selves to the consideration o f deductive disciplines which presuppose sentential calculus, we can im prove Th. 30 b y showing
+would be quite trivial); the same applies also to the generalization o f this theorem given below in Cor. 65. I f we restrict ourselves to the consideration o f deductive disciplines which presuppose sentential calculus, we can im prove Th. 30 b y showing
 that the class <5 is either o f the power 2* for some v < a> or else o f
 the power 2K®.f
 
@@ -5963,8 +5857,7 @@ A . C n ( X ) - X # 0 .
 Let for example x e A . Cn(X)—X and accordingly X £ A —{x},
 which by Th. l a gives the inclusion Cn(X) £ Cn(A —{2 });
 since then x e A . Cn(X), we infer at once that x e Gn{A—{x}),
-which contradicts formula (3). Our assumption is thus dis­
-proved; consequently, in view o f (2), we must assume that
+which contradicts formula (3). Our assumption is thus disproved; consequently, in view o f (2), we must assume that
 
 (4)
 
@@ -6165,8 +6058,7 @@ V ,§ 6
 
 I t is to be noted that within alm ost all deductive disciplines,
 and in particular w ithin the sim plest o f them — the sentential
-calculus— it has been found possible to construct a set o f sen­
-tences w hich is both infinite and independent, and thus to realize
+calculus— it has been found possible to construct a set o f sentences w hich is both infinite and independent, and thus to realize
 the hypothesis o f the last corollary. H ence, it turns out that in
 all these disciplines there are m ore unaxiom atizable than axiom atizable system s; the deductive system s are, so to speak, as a rule
 unaxiom atizable, although in practice we deal alm ost exclusively
@@ -6191,8 +6083,7 @@ sufficient that $P(j9) . 9Iq(A) = {5 } .
 
 In the usual term inology o f set theory a set X is said to be
 irreducible with respect to a class R of sets when © (X ). R = {-X}-2
-Thus the theorem above asserts that ' a basis o f the set A o f sen­
-tences' means the same as ' a set irreducible w ith respect to the
+Thus the theorem above asserts that ' a basis o f the set A o f sentences' means the same as ' a set irreducible w ith respect to the
 class 9Iq(^4)' .
 
 Other properties o f this concept are expressed in the follow ­
@@ -6297,8 +6188,7 @@ B y the corollary just established (or b y Th. 42) every axiom atizable set o f 
 cannot be extended to unaxiom atizable sets o f sentences on the
 basis o f the axiom s underlying this discussion1 (it can only be
 shown that every set o f sentences possesses an ordered basis;
-see remarks follow ing Th, 16). On the other hand, for those de­
-ductive disciplines which presuppose the sentential calculus it
+see remarks follow ing Th, 16). On the other hand, for those deductive disciplines which presuppose the sentential calculus it
 can be proved that every set o f sentences has a ba sis.f
 
 § 6. Consistent Sets of Sentences
@@ -6413,8 +6303,7 @@ V, J 6
 X e $tq(.4).
 
 Prom (j8) and (3) it follow s at once that X e 933; according
-to Th. 136, (4) is equivalent to the form ula A e 9tq(X). Conse­
-quently b y virtue o f Th. 46 b we obtain the form ula A e 933,
+to Th. 136, (4) is equivalent to the form ula A e 9tq(X). Consequently b y virtue o f Th. 46 b we obtain the form ula A e 933,
 w hich coincides w ith (a) and contradicts the assum ption (1).
 
 W e have thus shown that (/?) is a sufficient condition for (a),
@@ -6469,11 +6358,8 @@ V, 57 M E T H O D O L O G Y OF D E D U C T IV E SCIENCES
 
 Sets of Sentences
 
-B y the decision domain o f the set A o f sentences we under­
-stand the set o f all sentences w hich are either consequences o f
-A or which, when added to A , yield an inconsistent set o f sen­
-tences. A set o f sentences is said to be complete or absolutely com­
-plete i f its decision dom ain contains all m eaningful sentences.1
+B y the decision domain o f the set A o f sentences we understand the set o f all sentences w hich are either consequences o f
+A or which, when added to A , yield an inconsistent set o f sentences. A set o f sentences is said to be complete or absolutely complete i f its decision dom ain contains all m eaningful sentences.1
 W ith regard to this definition o f com pleteness we can repeat
 all remarks w hich were m ade above in § 6 in connexion with the
 definition o f consistency. This definition is also due to P ost, who
@@ -6532,8 +6418,7 @@ to those 'rich ' disciplines. The investigations referred to have
 aim ed at and succeeded in proving that all m eaningful sentences
 o f a particular logical form (e.g. all sentences w ithout function
 variables) belong to the decision dom ain o f some given system .
-I t m ight be useful for such investigations to introduce the con­
-cept o f relative com pleteness: a set A o f sentences is said to be
+I t m ight be useful for such investigations to introduce the concept o f relative com pleteness: a set A o f sentences is said to be
 relatively complete with respect to the set B of sentences if the decision
 dom ain o f A includes the set B ; this concept w ill n ot be discussed
 further here.3
@@ -6553,8 +6438,7 @@ much light on the questions discussed in the last paragraph. See in the first
 place Godel, K. (22).
 
 s The investigations on absolute completeness in a 'poor* discipline are as
-a role equivalent to those on relative completeness in a more extensive dis­
-cipline. For this reason the works cited on p. 93, note 3 can be regarded as
+a role equivalent to those on relative completeness in a more extensive discipline. For this reason the works cited on p. 93, note 3 can be regarded as
 examples of investigations on relative completeness, if they are related to an
 extended discipline (e.g. to Principia McUhemcUica).
 
@@ -6587,8 +6471,7 @@ ffint(A) = Y
 XecTi).®
 
 Proof. W e consider a sentence y e 8 such that A~j-{y} e 2B.
-Hence, b y Th. 48 and with the help o f the hypothesis, we con­
-clude that S3(A+{2/}). (£—333 ^ 0. Thus there is a set Y which
+Hence, b y Th. 48 and with the help o f the hypothesis, we conclude that S3(A+{2/}). (£—333 ^ 0. Thus there is a set Y which
 satisfies the form ulas Y e SP (A + { y } ) . ® and Y s SB. The first
 form ula gives us Y —{y} e SP(A). (E, and with the help o f Th. 46 a
 obtain from the second form ula T + {y ) = (Y—
@@ -6955,16 +6838,13 @@ plicated and com prehensive disciplines), tw o other concepts
 are treated in m etam athem atics which are related in content to
 com pleteness, although they are logically weaker and thus more
 general, viz. non-ramifiability and categoricity (m onom orphy).1
-These concepts are not reducible to those o f sentence and conse­
-quence, f The definition and the establishm ent o f the funda­
-m ental properties and o f the m utual connexions o f these concepts,
+These concepts are not reducible to those o f sentence and consequence, f The definition and the establishm ent o f the fundam ental properties and o f the m utual connexions o f these concepts,
 as well as the clarification o f their relation to the concept of
 com pleteness, m ust be left to special m etadisciplines.
 
 § 8 . Ca r d in a l a n d O r d in a l D e g r e e o p Co m p l e t e n e s s
 
-In order to obtain a classification and characterization o f in­
-com plete sets o f sentences, we introduce here the concept of
+In order to obtain a classification and characterization o f incom plete sets o f sentences, we introduce here the concept of
 the degree o f completeness o f a set o f sentences, and we do this
 in tw o ways, nam ely b y correlating a cardinal number and an
 ordinal num ber w ith every set o f sentences. The cardinal degree
@@ -7071,8 +6951,7 @@ W ith this we have proved that ( 1) always implies (7): for
 every number £ < y(A) a sequence o f sentences o f type £ can
 be constructed w hich satisfies form ula (a) o f the theorem here
 discussed. B ut since b y hypothesis there is no such sequence for
-the num ber it, the inequality w < y(A ) cannot hold. Conse­
-quently,
+the num ber it, the inequality w < y(A ) cannot hold. Consequently,
 (8)
 
 y(A ).
@@ -7091,8 +6970,7 @@ for v < £,
 
 we easily conclude from Ths, 9 a, 47, and 1 a that the sequence o f
 sets X v satisfies the form ulas (2) and (3). B u t b y D ef. 8 b no such
-sequence o f sets can be constructed for the number y (A ). Con­
-sequently the inequality y(A ) < tt cannot hold and we obtain
+sequence o f sets can be constructed for the number y (A ). Consequently the inequality y(A ) < tt cannot hold and we obtain
 the form ula (9).
 
 Form ulas (8) and (9) at once give the required identity
@@ -7107,8 +6985,7 @@ y(A) — it, q.e.d.
 
 (b) if A e 5lq(J3), then g(A ) = g(iB) and y(A) = y(B).
 Proof o f (b). B y D ef. 2 the hypothesis gives Gn(A) = Gn(B).
-From this b y Th. 8 we infer that for every set X e S the in­
-clusions A £ X and J S s I are equivalent, whence
+From this b y Th. 8 we infer that for every set X e S the inclusions A £ X and J S s I are equivalent, whence
 
 £ ( A ) . <3 = = & (£ ). S .
 
@@ -7126,8 +7003,7 @@ the numbers c(A ) and g(i?), or y(A) and y(B), under more special
 assumptions (e.g. A e ty(3)—
 
 In the follow ing theorem a characterization is given o f the
-m ost im portant categories o f sets o f sentences, in fact o f con­
-sistent and com plete sets, in terms o f the notions just defined.
+m ost im portant categories o f sets o f sentences, in fact o f consistent and com plete sets, in terms o f the notions just defined.
 
 are equivalent;
 
@@ -7191,8 +7067,7 @@ FUNDAMENTAL CONCEPTS OF
 
 V, § 8
 
-according to which the set S is at m ost denumerable. Conse­
-quently y(A) < 12, and with that the p roof is com plete.
+according to which the set S is at m ost denumerable. Consequently y(A) < 12, and with that the p roof is com plete.
 
 Theorem 62. I f A £ S and if there is a set X such that
 
@@ -7332,8 +7207,7 @@ derivation o f (3) in the previous proof) we infer from Th. 6 with
 
 v,s$
 
-the help o f (1) and (2) that A xs. 1-4 as well as all their con­
-sequences remain valid if ' Cri is everywhere replaced hy (F\
+the help o f (1) and (2) that A xs. 1-4 as well as all their consequences remain valid if ' Cri is everywhere replaced hy (F\
 In particular, b y Def. 2, Th. 16 can be transform ed in the follow ­
 ing w ay:
 
@@ -7468,8 +7342,7 @@ y ( 2 ) - K 0 and, b y Th. 636, $(A) ^ K0; from this again the
 
 V , § 8
 
-conclusion follow s: y(A) < g(^4). Since b y Th. 61 and the hypo­
-thesis y{A) < Q, all possible cases have been dealt with and so
+conclusion follow s: y(A) < g(^4). Since b y Th. 61 and the hypothesis y{A) < Q, all possible cases have been dealt with and so
 the theorem is proved.
 
 It remains undecided whether this theorem can be extended
@@ -7542,8 +7415,7 @@ In consequence o f D ef. 86 the existence o f a sequence of
 
 V, f 8 M E T H O D O L O G Y OF D E D U C T IV E SCIENCES
 
-sets (o f type 7 r + l) satisfying the form ulas (5) and (6) contra­
-dicts the assum ption (1). W e must have therefore
+sets (o f type 7 r + l) satisfying the form ulas (5) and (6) contradicts the assum ption (1). W e must have therefore
 
 y(A)
 
@@ -7552,16 +7424,13 @@ tt+1, q.e.d.
 The results obtained here which concern the notions g(J.)
 and y{A) are rather fragm entary. Only by res dieting ourselves
 to those deductive disciplines which presuppose the sentential
-calculus are we able to obtain m ore com plete results. In parti­
-cular we can then show that, for every set A o f sentences, g (4 )
+calculus are we able to obtain m ore com plete results. In particular we can then show that, for every set A o f sentences, g (4 )
 is either finite or equals 2**, and sim ilarly yUl) is either finite
 or equals £2.
 
-In general, when developing the metamatb.ematies o f deduc­
-tive disciplines which presuppose the sentential calculus, we
+In general, when developing the metamatb.ematies o f deductive disciplines which presuppose the sentential calculus, we
 chiefly concentrate upon the same notions which have been
-discussed in the present paper. Since, however, the develop­
-m ent is based upon logically stronger (though more special)
+discussed in the present paper. Since, however, the developm ent is based upon logically stronger (though more special)
 assumptions, various results obtained here can he supplemented
 and im proved.
 
@@ -7623,8 +7492,7 @@ end o f § 1, allows us to reconstruct this notion in the dom ain
 o f m athem atics. This m ethod is also applicable to certain other
 notions o f a m etam athem atical nature. The reconstructed con ­
 cepts do not differ at all from other m athem atical notions and
-need arouse neither fears nor doubts; their study remains en­
-tirely within the dom ain o f norm al m athem atical reasoning.
+need arouse neither fears nor doubts; their study remains entirely within the dom ain o f norm al m athem atical reasoning.
 Finally, it seems to me that this m ethod allows us to derive
 certain results w hich could n ot be obtained b y operating only
 with the m etam athem atical conception o f the notions studied.
@@ -7639,8 +7507,7 @@ m athem aticians at the present tim e. I shall in particular a nalyse
 the notion o f definability o f a single category o f objects, nam ely,
 sets o f real numbers. M oreover, my considerations will be in the
 nature o f a sketch; I shall content m yself sim ply with co n ­
-structing some precise definitions, either om itting the conse­
-quences which follow from them , or presenting them w ithout
+structing some precise definitions, either om itting the consequences which follow from them , or presenting them w ithout
 dem onstration.1
 
 § 1 . T h e C o n c e p t o f D e f i n a b l e S e t s o f R e a l N u m b e r s
@@ -7648,8 +7515,7 @@ dem onstration.1
 FROM TitE MffiTAldATREMATlOAL STANDPOINT
 
 The problem set in this article belongs in principle to the
-type o f problem s which, frequently occur in the course o f m athe­
-m atical investigations. Our interest is directed towards a term
+type o f problem s which, frequently occur in the course o f m athem atical investigations. Our interest is directed towards a term
 o f which we can give an account that is more or less precise in
 its intuitive content, but the significance o f which has not at
 
@@ -7665,8 +7531,7 @@ W e then seek to construct a definition o f this term which, while
 satisfying the requirements o f m ethodological rigour, w ill also
 render adequately and precisely the actual meaning o f the term .
 I t was just such problem s that the geometers solved when they
-established the meaning o f the terms 'm ovem ent' , 'line' , 'sur­
-face' , or ' dim ension' for the first tim e. Here I present an
+established the meaning o f the terms 'm ovem ent' , 'line' , 'surface' , or ' dim ension' for the first tim e. Here I present an
 analogous problem concerning the term ' definable set o f real
 num bers' .
 
@@ -7694,8 +7559,7 @@ m atter briefly w ithout attem pting too much precision and
 rigour in its form ulation.
 
 As already m entioned, the notion o f definability should always
-be relativized to the deductive system in which the investiga­
-tion is carried out. N ow in our case it is quite im m aterial which
+be relativized to the deductive system in which the investigation is carried out. N ow in our case it is quite im m aterial which
 o f the possible systems o f the arithm etic o f real numbers is
 chosen for discussion. I t w ould be possible, for example, to
 regard arithm etic as a certain chapter o f m athem atical logic,
@@ -7711,18 +7575,14 @@ The construction o f this science m ay be thought o f more or
 less in the follow ing w ay: as a basis we adm it some system o f
 m athem atical logic, w ithout altering its rules o f inference and
 o f defin ition ; we then enlarge the system o f prim itive terms
-and axiom s b y the addition o f those which are specific to arith­
-m etic. As a suitable basis we can use, for example, the system
+and axiom s b y the addition o f those which are specific to arithm etic. As a suitable basis we can use, for example, the system
 developed in Principia Mathemati-ca b y W hitehead and Russell.1
-In order to avoid needless com plications it is, however, con­
-venient to subject this system first to certain sim plifications,
+In order to avoid needless com plications it is, however, convenient to subject this system first to certain sim plifications,
 especially to sim plify the language, taking care o f course not to
 diminish its capacity for expressing all the ideas which could
-be form ulated in the original system. These m odifications con­
-cern the follow ing points: the ram ified theory o f types is replaced
+be form ulated in the original system. These m odifications concern the follow ing points: the ram ified theory o f types is replaced
 b y the sim plified theory, so that the axiom o f reducibility is
-rejected;2 also the axiom o f extensionalitv is adopted. A ll con­
-stant terms, except the prim itive terms, are eliminated. Finally,
+rejected;2 also the axiom o f extensionalitv is adopted. A ll constant terms, except the prim itive terms, are eliminated. Finally,
 we shall suppress sentential variables and variables representing
 tw o- and m any-term ed relations.8
 
@@ -7807,8 +7667,7 @@ number of small stroke*.
 * The signs ' I I ' {or '£•') and
 
 (or ' + ' ) sire not iodiioenssble, for they
-can be defined by means o f other signs. In principle tbs sign ■£' is also super­
-fluous, for in the pisos o f such expresdona as ' * s Z ' T ® is an element o f the
+can be defined by means o f other signs. In principle tbs sign ■£' is also superfluous, for in the pisos o f such expresdona as ' * s Z ' T ® is an element o f the
 •set X*) we can uae equivalent expressions o f the ftra> S.'!:) ' (*« has the
 property J f \ or '« se-tishes the condition X '); I prefer here, however, to
 conform to the current language o f mathematical works.
@@ -7857,8 +7716,7 @@ we omit, parentheses everywhere so long as no nfisrmderstandmg
 w ill arise.
 
 W e can classify sentential functions according to the order
-o f the variables w hich occur in ' hem. The function which con­
-tains at least one variable o f order » , but no variable o f higher
+o f the variables w hich occur in ' hem. The function which contains at least one variable o f order » , but no variable o f higher
 order, is called a sentential function o f order n; thus In the
 exam ples given above we have functions o f orders 3, 2, and 3.
 
@@ -7894,8 +7752,7 @@ X x
 In order to carry out the construction o f the form al system
 o f arithm etic which I shall sketch here, it w ould be necessary to
 form ulate explicitly those sentences which are to be regarded as
-axioms (both the general logical ones and those which are specifi­
-cally arithm etical), and then to form ulate the rules of inference
+axioms (both the general logical ones and those which are specifically arithm etical), and then to form ulate the rules of inference
 (rules of proof) with the help o f which it is possible to derive
 from the axioms other sentences called theorems o f the system.
 The solution o f these problem s occasions no great difficulty.
@@ -7914,14 +7771,12 @@ fsenten1ial function5,
 fu nction5, ' sentence' , etc., that is to say, terms which denote
 the individual expressions o f the system under consideration,
 sets o f these expressions, and relations between them . On
-the other hand nothing forbids our introducing into the m eta­
-system arithm etical notions, in particular real numbers, sets
+the other hand nothing forbids our introducing into the m etasystem arithm etical notions, in particular real numbers, sets
 o f real numbers, etc. B y operating with these tw o categories
 o f term s (and with general logical term s) we can try to define
 'A finite sequence of objects
 the sense o f the follow ing phrase;
-satisfies a given sentential function.' The successful accom plish­
-m ent o f this task raises difficulties which are greater than would
+satisfies a given sentential function.' The successful accom plishm ent o f this task raises difficulties which are greater than would
 
 1 Cf. for example, Hilbert, D., and Ackerinauxi, W. (30), pp. 62-54; cf. also
 
@@ -7933,8 +7788,7 @@ V III, § 2.
 
 VI, §1 ON D E F IN A B L E SETS OF R E A L NUM BERS
 
-appear at first sight.| However, in whatever form and to what­
-ever degree we do succeed in solving this problem, the intuitive
+appear at first sight.| However, in whatever form and to whatever degree we do succeed in solving this problem, the intuitive
 meaning of the above phrase seems clear and unambiguous.
 It will therefore suffice to illustrate it here by some particular
 examples. Thus the function 6X e
@@ -7956,8 +7810,7 @@ x ^ y - f-1 . The function i<r{x9y 9y)-\-5(x9y 9y y is satisfied by
 any sequence formed by two individuals, and the function
 '(x e X ) . (x e X)' is satisfied by no sequence. Finally, a function
 without free variables, i.e. a sentence, is satisfied either by the
-empty sequence or by no sequence, according as the sen­
-tence is true or false. As we see from these examples, in all
+empty sequence or by no sequence, according as the sentence is true or false. As we see from these examples, in all
 situations where we say that a given finite sequence satisfies
 a sentential function, it is possible to establish a one-one
 correspondence between the terms of the sequence and the
@@ -7968,8 +7821,7 @@ of the notion in question where the sentential function contains
 only a single free variable is of particular importance for us.
 The sequences which satisfy such a function are also composed
 of a single term. Instead, therefore, of sequences we may speak
-quite simply of objects (namely the unique terms of the corre­
-sponding sequences) and say that they satisfy the given function.
+quite simply of objects (namely the unique terms of the corresponding sequences) and say that they satisfy the given function.
 Thus the function 6^ ( x e X Y is satisfied by all individuals,
 
 the function 'T (x g X ) ' by any set of individuals except the
@@ -7978,14 +7830,12 @@ f For an exhaustive discussion of the subject, see VIII.
 
 ON D E F I N A B L E SETS OF B E A L NUSJBEKS VI, § 1
 
-x >x )' is satisfied by only one indi­
-null set. The function
+x >x )' is satisfied by only one indinull set. The function
 vidual, the real num ber 0, and the function '2 (/*(y, *) • <*(y> y, y))'
 
 v
 
-b y every non-negative real num ber and b y no other indi­
-vidual.
+b y every non-negative real num ber and b y no other individual.
 
 W ith every sentential function with m variables we can now
 correlate uniquely the set o f all w -term ed sequences which satisfy
@@ -7997,8 +7847,7 @@ set o f individuals, which, in particular, m ay be a certain set o f
 real numbers. The sets thus determined b v sentential functions
 are precisely the definable.sets in the arithmetical system considered.
 Am ong them v e can distinguish sets o f the first, second, etc.,
-orders, corresponding to the orders o f the functions which deter­
-mine them .
+orders, corresponding to the orders o f the functions which determine them .
 
 The m etam athem atical definition o f definable sets, based on
 the notion o f satisfaction (o f sentential functions by objects),
@@ -8046,15 +7895,12 @@ y>y) • (y e x ))+
 
 Such examples can be m ultiplied indefinitely. Eaoh particular
 set o f numbers with which we are concerned in mathematics is
-a definable set, inasmuoh as we have no other means o f intro­
-ducing any set individually into m athem atics than b y con­
-structing the sentential function which determines it, and this
+a definable set, inasmuoh as we have no other means o f introducing any set individually into m athem atics than b y constructing the sentential function which determines it, and this
 construction is itself the p roof o f the definability o f the set.
 M oreover it is not difficult to show that the fam ily o f all definable
 sets (as well as that o f the functions which determine them) is
 only denumerable; while the fam ily o f all sets o f numbers is not
-denumerable, The existence o f undefinable sets follow s imme­
-diately. Also, the definable sets can be arranged in an ordinary
+denumerable, The existence o f undefinable sets follow s immediately. Also, the definable sets can be arranged in an ordinary
 infinite sequence; b y applying the diagonal procedure it is
 possible to define in the 'metasystem a concrete set which would not
 be definable ir< the system itself. In this there i3 clearly no trace
@@ -8093,8 +7939,7 @@ I shall define certain operations on sets o f sequences which
 correspond to the five fundam ental operations on expressions.
 Finally, in im itation o f the definition o f sentential function,
 I shall define the concept o f definable set o f sequences o f order n.
-This notion w ill lead us easily to that o f definable sets o f indivi­
-duals o f order n.
+This notion w ill lead us easily to that o f definable sets o f individuals o f order n.
 
 The whole construction w ill be carried out in detail for the case
 n = 1 and in its main features for n — 2. I believe that after
@@ -8110,8 +7955,7 @@ in particular, the calculus o f classes, the logic o f relations, and
 the arithm etic o f real numbers, that is to say a system o f logic
 with a system o f arithm etic axiom atically constructed upon it.
 F or exam ple, we can use for this purpose the system o f logic o f
-Principia Mathematica. I t w ould, however, be necessary to re­
-place the ram ified theory o f types b y the sim plified theory.1
+Principia Mathematica. I t w ould, however, be necessary to replace the ram ified theory o f types b y the sim plified theory.1
 
 1 I omit completely the other Simplifications of the By stem mentioned in § 1,
 
@@ -8138,8 +7982,7 @@ com posed o f the elements x ,
 In particular, the sym bols
 
 the set o f all objects x which satisfy the condition <f>. The
-sym bol 'N t9 denotes the set o f all natural numbers (zero in­
-cluded) and the sym bol lRV that o f all real numbers. Further,
+sym bol 'N t9 denotes the set o f all natural numbers (zero included) and the sym bol lRV that o f all real numbers. Further,
 when I have need to refer to the considerations o f the preceding
 section, I shall em ploy the logical and arithm etical signs which
 have there been explained.1
@@ -8175,8 +8018,7 @@ not believe that this will occasion any error within the limits of this article.
 
 t Contrary to the notation adopted in this paper, fonetions are usually
 identified not with one-many but with many-one relations, i.e. with relations
-r such that for arbitrary xt y, z, the formulas xry and xrz imply y — z. Con­
-sequently, what is called in this paper the domain of a function (or, in
+r such that for arbitrary xt y, z, the formulas xry and xrz imply y — z. Consequently, what is called in this paper the domain of a function (or, in
 particular, of a sequence) is usually referred to as the range or counter domain
 of this function, and conversely.
 
@@ -8194,19 +8036,16 @@ belongs to the set Sf.
 
 Tw o relations r and e are identical, in sym bols r — a, when
 the form ulas xry and xay are equivalent for every x and y.
-In jpartioular, the identity o f the sequences r and a is charac­
-terized b y the conditions d{r) — d(s) and rk ~ ab for every
+In jpartioular, the identity o f the sequences r and a is characterized b y the conditions d{r) — d(s) and rk ~ ab for every
 k e <7(r). I denote b y the sym bol V /X ' (where r is any relation
 and X any set) the relation t which satisfies the condition: for
 any x and y we have xty if and only if we have xry and y £ X .
 W e assume it can easily be proved that a e S f always im plies
 ajX e Sf. ajX is called a subsequence of the sequence a, i.e. it is
 com posed o f all the term s o f the sequence a whose indices belong
-to the set X . Conversely, the sequence a m ay be called a pro­
-longation of the sequence ajX.
+to the set X . Conversely, the sequence a m ay be called a prolongation of the sequence ajX.
 
-I shall be concerned for the present with sets o f finite se­
-quences. I introduce in the first place the notions o f the domain
+I shall be concerned for the present with sets o f finite sequences. I introduce in the first place the notions o f the domain
 and counter domain of a set of sequences (or of arbitrary relations)
 S, in sym bols D(S) and d(S). I define them b y the form ulas
 
@@ -8249,8 +8088,7 @@ By putting N = Ci[8) we can associate a finite set 2v c.
 
 such that 8 c:
 with every homogeneous set $ of sequences.
-Except in the case S = 0, tins correspondence is unique. Con­
-versely, when S £ IiN, 8 is a homogeneous set and we have
+Except in the case S = 0, tins correspondence is unique. Conversely, when S £ IiN, 8 is a homogeneous set and we have
 (again except when 5 — 0) <T{&) s= Ar.
 
 I next define certain special sets of sequences Vk>
@@ -8280,8 +8118,7 @@ by the primitive sentential functions of order I:
 
 and
 
-I next introduce five fundamental operations on sets o f se­
-quences: complementation-, addition? and multiplication, as well
+I next introduce five fundamental operations on sets o f sequences: complementation-, addition? and multiplication, as well
 as summation and mxdtiplication with respect to the k-ih terms.
 The results of these operations wail be denoted respectively by
 
@@ -8311,8 +8148,7 @@ D efin itio n 6.
 
 (*) £ ? 2' = B o t t o m .* ( « /W ) e and u/(J(y) e 27).
 
-According to these definitions the set S consists of all se­
-quences whose counter domains equal C(S.} and which do not
+According to these definitions the set S consists of all sequences whose counter domains equal C(S.} and which do not
 
 ON D E F I N A B L E S E T S OF R E A L N U M B E R S VI, § 2
 
@@ -8331,9 +8167,7 @@ and M1>2? M2 3°S3AA is the set o f all sequences 8 w ith four term s
 
 and s4 satisfying the form ula s^ < s2 < s3 = 2.s4.
 
-The operations o f com plem entation, addition, and m ultiplica­
-tion just introduced approxim ate to the corresponding opera­
-tions o f the algebra o f sets and offer m any analogous form al
+The operations o f com plem entation, addition, and m ultiplication just introduced approxim ate to the corresponding operations o f the algebra o f sets and offer m any analogous form al
 properties, especially in the dom ain o f hom ogeneous sets. For
 exam ple, they satisfy the commutative and associative laws, the
 
@@ -8386,8 +8220,7 @@ point o f view this fact does not involve m uch inconvenience;
 
 VI, §2 ON D E FIN AB LE SETS OF REAL NUMBERS
 
-in the place o f the set 1 we can usually em ploy 0, which pos­
-sesses a series o f analogous properties, e.g.
+in the place o f the set 1 we can usually em ploy 0, which possesses a series o f analogous properties, e.g.
 
 .O
 
@@ -8502,15 +8335,13 @@ logic is n ot at all a m atter o f chance. I t is easy to show that
 it is possible to set up a very strict correspondence between the
 fundamental operations on sentential functions studied in § i,
 and those on sets o f sequences introduced in Defs. 6-7. This
-can be done in the follow ing w ay: let f lt /*>••• be any senten­
-tial functions (o f order 1) and Sv 8Z,,.. the sets o f sequences
+can be done in the follow ing w ay: let f lt /*>••• be any sentential functions (o f order 1) and Sv 8Z,,.. the sets o f sequences
 determ ined b y them : every function obtained b y one o f the
 fundam ental operations when applied to the given functions
 determines the set o f sequences whioh can be obtained with the
 help o f the appropriate operation when applied to the sets
 corresponding to these functions. A certain departure from this
-general phenom enon only appears in the case where the func­
-tion considered is obtained b y the negation o f a function whioh
+general phenom enon only appears in the case where the function considered is obtained b y the negation o f a function whioh
 determines the null set. Thus, for exam ple, to the function
 
 z*t xf" ) . 5{%', x ", z!*)' corresponds, to be sure,
@@ -8608,8 +8439,7 @@ k
 for the free variable 'of®' in
 o f substituting (he free variable
 a given sentential function. The intuitive significance o f this
-operation is, incidentally, quite clear F or exam ple, b y substi­
-tuting in the sentential function
+operation is, incidentally, quite clear F or exam ple, b y substituting in the sentential function
 
 the free variable 'y ' for the free variable V we obtain
 
@@ -8653,14 +8483,12 @@ materially; in other words do they in fact grasp the current meaning
 of the notion as it is known intuitively ? Properly understood, this
 question contains no problem o f a purely m athem atical nature,
 bu t it is nevertheless o f capital im portance for our considerations.
-In order to pu t this question into a precise form , let us sup­
-pose that the m aterial adequaoy o f the m etam athem atical
+In order to pu t this question into a precise form , let us suppose that the m aterial adequaoy o f the m etam athem atical
 definition o f definable set o f order n, which we reached in the
 preceding section, is beyond doubt. The question proposed then
 reverts to a problem which is quite concrete, nam ely, whether
 D ef. 10 is equivalent to a certain particular case o f this m etam athem atical definition, nam ely the case where n — 1. This
-last problem obviously belongs to the dom ain o f m etamathe­
-m atics and is easily solved in the affirmative.
+last problem obviously belongs to the dom ain o f m etamathem atics and is easily solved in the affirmative.
 
 W e have in fa ct already established that there is a strict
 correspondence between prim itive sets o f sequences and the
@@ -8678,13 +8506,11 @@ w ith that c f the definable sets o f order 1 in the sense o f § 1.
 I f we wish to convince ourselves o f the material adequacy
 o f D ef. 10 and o f its conform ity w ith intuition w ithout going
 beyond the dom ain o f strictly m athem atical considerations, we
-must have recourse to the em pirical m ethod. In fact, b y exam in­
-ing various special sets w hich have been arithm etically defined
+must have recourse to the em pirical m ethod. In fact, b y exam ining various special sets w hich have been arithm etically defined
 (in the intuitive sense o f this term ), we can show that all o f
 conversely, for every particular
 them belong to the fam ily
-set belonging to this fam ily we are able to construct an ele­
-m entary definition. M oreover, we easily notice that the same
+set belonging to this fam ily we are able to construct an elem entary definition. M oreover, we easily notice that the same
 
 1 The breakdown mentioned on p. 126 in the correspondence between the
 negation of sentential functions and complementation of sets of sequences
@@ -8711,8 +8537,7 @@ A = E j m .
 
 The sym bol
 
-here represents a certain sentential fu nc­
-tion containing the variable 'of®9 o f order 1 as its sole free
+here represents a certain sentential fu nction containing the variable 'of®9 o f order 1 as its sole free
 variable. It m ay also contain a series o f bound variables
 €a W , etc., provided that all these variables are also o f order 1
 (since if this were not the case the definition could not be called
@@ -8733,8 +8558,7 @@ tential functions
 'at® ^
 are replaced by
 sym bols o f the form ' Uk , 'Mkj , and cSkjtm\ respectively; the
-signs o f logical operations b y those o f the corresponding opera­
-tions on sets o f sequences, introduced in Defs. 5 -7 ; and finally
+signs o f logical operations b y those o f the corresponding operations on sets o f sequences, introduced in Defs. 5 -7 ; and finally
 the sym bol 'E 9 by 'D 9.1 B y this transform ation the form ula (1)
 
 and
@@ -8745,8 +8569,7 @@ takes the form
 
 A = D(S),
 
-where in the place o f 'S 9 there is a com posite sym bol, the struc­
-ture o f which shows at once that it denotes a set o f sequences
+where in the place o f 'S 9 there is a com posite sym bol, the structure o f which shows at once that it denotes a set o f sequences
 o f the fam ily £&f with counter domain consisting o f a single
 
 1 In the course of these transformations use may be made of certain formulas
@@ -8906,8 +8729,7 @@ the operation TT is reducible). The question reduces to proving
 
 o
 
-a lemma o f algebra showing that a necessary and sufficient con­
-dition for a system o f linear equations and inequalities in several
+a lemma o f algebra showing that a necessary and sufficient condition for a system o f linear equations and inequalities in several
 unknowns to have a solution with respect to one o f the unknowns,
 is that it be representable as a logical sum o f systems in which
 only the other unknowns appear.
@@ -8925,8 +8747,7 @@ Sets o f numbers o f the follow ing types: E (x = a), E ( x > a),
 
 E( x < a), and E( a < x < 6),2 where a and b are tw o arbitrary
 rational numbers, I shall call intervals with rational end points.
-With this convention we can easily deduce from Th. 1 the follow­
-ing corollary concerning the family
+With this convention we can easily deduce from Th. 1 the following corollary concerning the family
 
 1 Sum and produot may here be understood rather in the sense of Def. 6
 (and the condition of the common counter domain is then superfluous) than
@@ -8949,8 +8770,7 @@ belong to the family
 sum of a finite number of intervals with rational end points.
 
 We can easily formulate (and prove) a metamathematical
-theorem which is an exact analogue o f Th. 1. This metamathe­
-matical result leads us to a conclusion that, in the system of
+theorem which is an exact analogue o f Th. 1. This metamathematical result leads us to a conclusion that, in the system of
 arithmetic described in § 1, every sentence of order 1 can be
 proved or disproved. Moreover, by analysing the proof of this
 result, we see that there is a mechanical method which enables
@@ -8958,8 +8778,7 @@ us to decide in each particular case whether a given sentence
 (of order 1) is provable or disprovable.
 
 It should be emphasized that the two preceding theorems
-have only an accidental character and have only a slight bear­
-ing upon the leading idea of this work. These theorems are
+have only an accidental character and have only a slight bearing upon the leading idea of this work. These theorems are
 due to the fact that we have chosen the sets Uk, Mkj, and Skj m
 as the primitive sets of sequences, i.e. restricted ourselves to a
 system of arithmetic which contains as the only primitive
@@ -8968,8 +8787,7 @@ Now it is well known that arithmetic can also be based on many
 other systems of primitive concepts, and these systems may
 even contain superfluous concepts which can be defined by
 means of other notions. Nothing compels us, then, to make the
-definitions of the families 2 f and 2 depend just on the parti­
-cular sets Uky Mkp and Sk^m. On the contrary, these sets may
+definitions of the families 2 f and 2 depend just on the particular sets Uky Mkp and Sk^m. On the contrary, these sets may
 be replaced by others, and the extension and the structure of
 the two families may thus undergo quite essential modifications.
 It is easy to see, for example, that the arithmetic of real numbers
@@ -8994,16 +8812,13 @@ while retaining the sets Skttm; Def. 10 remains unchanged. To
 obtain for the new notion of definability the results analogous
 to Ths. 1 and 2, we make the following changes:
 
-(1) In Def. 11 and Th. 1 we delete the term *linear' every­
-where (i.e. instead of linear polynomials, we consider poly-
+(1) In Def. 11 and Th. 1 we delete the term *linear' everywhere (i.e. instead of linear polynomials, we consider poly-
 1 Cf. Veblen, O. (87).
 
 VI, I 2 ON D E F IN A B L E SETS OF B E A L N U M B EB S
 
 normals o f arbitrary degrees); (2) in Th. 2 we replace the term
-'rationed' by 'algebraic\ Ths. 1 and 2 in the modified formula­
-tions then still hold; their proof, however, becomes more in­
-volved and difficult.! Thus in this case the family 2 has
+'rationed' by 'algebraic\ Ths. 1 and 2 in the modified formulations then still hold; their proof, however, becomes more involved and difficult.! Thus in this case the family 2 has
 undergone an extension. We have here, in fact, a system o f
 primitive concepts which is stronger in the logical sense. In
 many cases this extension is still greater, especially when the
@@ -9018,8 +8833,7 @@ sets of arbitrarily high classes.1
 
 In order to deprive the notion o f elementary definability (of
 order 1) o f its accidental character, it is necessary to relativize
-it to an arbitrary system of primitive concepts or—more pre­
-cisely—to an arbitrary family o f primitive sets of sequences.
+it to an arbitrary system of primitive concepts or—more precisely—to an arbitrary family o f primitive sets of sequences.
 In this relativization we no longer have in mind the primitive
 concepts o f a certain special science, e.g. o f the arithmetic of
 real numbers. The set Rl is now replaced by an arbitrary set
@@ -9050,8 +8864,7 @@ X951.
 ON D E F IN A B L E SETS OF B E A L N U M BER S VI, § 2
 
 denote simultaneously objects o f different types. In this way,
-while considerably exceeding the limits o f the task we set our­
-selves at first, we reach the general notion o f an arithmetically
+while considerably exceeding the limits o f the task we set ourselves at first, we reach the general notion o f an arithmetically
 definable set of finite sequences (with all the terms of a given type)
 with respect to the family & of primitive finite sequences (with all
 the terms o f the same type). The family o f all these definable
@@ -9083,8 +8896,7 @@ From Defs. 12 and 13 it is easy to deduce various elementary
 properties o f the families 2 f { ^ ) and & {& ), such, for example,
 as the following:
 
-T heorem 3. (a) @)f{!F) is a family which satisfies the condi­
-tions (a)-(S) of Def. 12; it is in fact the smallest of these families',
+T heorem 3. (a) @)f{!F) is a family which satisfies the conditions (a)-(S) of Def. 12; it is in fact the smallest of these families',
 where (5 is the set
 
 (b) 3>f{F) = 2 9 f(9 ) and & (& ) = T
@@ -9113,9 +8925,7 @@ sets o f families SC (this last detail occurs in the proof o f (6)
 and (e)).
 
 We are able—and this is an important point— to prove Th.
-3 (e) in an effective fashion; we are able to define a (well-deter­
-mined) function which correlates an infinite sequence S* satis­
-fying the formula
+3 (e) in an effective fashion; we are able to define a (well-determined) function which correlates an infinite sequence S* satisfying the formula
 
 m ^ ) = D(JS*)
 
@@ -9143,11 +8953,9 @@ numbers.
 
 The postulate o f regularity, imposed on the families 3? to
 which we apply Defs. 12 and 13, appears quite natural when
-we recall that we are operating with primitive sets as the mathe­
-matical representatives o f the primitive terms o f some deductive
+we recall that we are operating with primitive sets as the mathematical representatives o f the primitive terms o f some deductive
 science. Now, as is well known, it is possible to choose for each
-deductive science a system of primitive terms consisting exclu­
-sively o f so-called predicates, i.e. o f signs such as V ,
+deductive science a system of primitive terms consisting exclusively o f so-called predicates, i.e. o f signs such as V ,
 and V
 which, when accompanied by a certain number o f variables,
 tiie arguments, form sentential functions. It is precisely these
@@ -9162,9 +8970,7 @@ OK D E F IN A B L E SETS OF R E A L NU M BER S VI, § 2
 most denumerable in number—it is for this reason that we
 have condition (a) of Def. 14; the sets of sequences determined
 by sentential functions are always homogeneous—hence we
-have condition (J3). Finally, every time we consider a sen­
-tential function as one o f the primitive functions, we con­
-sider also every function which can be obtained from it by
+have condition (J3). Finally, every time we consider a sentential function as one o f the primitive functions, we consider also every function which can be obtained from it by
 substituting one variable for another—therefore the family 3?
 
 should be closed with respect to the operation j S which is
@@ -9173,10 +8979,8 @@ the mathematical analogue o f tho operation o f substitution.1
 It is precisely this which explains condition (y) o f Def. 14.
 
 It is to be noted that the condition (y) may be omitted in
-Def. 14 provided we introduce into Def. 12 an analogous assump­
-tion on the families SC. Such a procedure would conform to
-that metamathematical attitude towards the method of con­
-struction of deductive systems which admits, as primitive
+Def. 14 provided we introduce into Def. 12 an analogous assumption on the families SC. Such a procedure would conform to
+that metamathematical attitude towards the method of construction of deductive systems which admits, as primitive
 expressions of the system, not predicates, e g. V , '/x\ and V ,
 but concrete sentential functions, e.g. 'u(x)s,
 y)\ and
@@ -9201,8 +9005,7 @@ regular.
 This is easily obtained from Defe. 5-8 and 12 and Th. 3e.
 The other properties of the family &f{*F) under the hypothesis
 that 3F is regular can be obtained by analogy from theorems
-o f metamathematics, esj>ecially from those which express rela­
-tions between arbitrary sentential functions and the primitive
+o f metamathematics, esj>ecially from those which express relations between arbitrary sentential functions and the primitive
 
 1 Cf. the remarks on p. 127 following Def. 8.
 
@@ -9275,14 +9078,12 @@ definable sets o f order n o f finite sequences of real numbers,
 and by '2 nf the corresponding family o f all definable sets o f
 order n o f real numbers themselves. Thus the families 2 f x
 and 2 t coincide with 2 f and 2 respectively. We now restrict
-ourselves to the case » = 2 and construct mathematical defini­
-tions o f 2 f 2 and 2 2 in the following way:
+ourselves to the case » = 2 and construct mathematical definitions o f 2 f 2 and 2 2 in the following way:
 
 For the universe o f discourse we take the family o f all sets
 o f real numbers (i.e. o f all sub-sets o f Rl); thus Sf is now the
 set o f all finite sequences whose terms are sets o f real numbers,
-and the meaning o f the symbol 'R # ' (see Def. 3) changes corre­
-spondingly. X being any set o f finite sequences o f real numbers,
+and the meaning o f the symbol 'R # ' (see Def. 3) changes correspondingly. X being any set o f finite sequences o f real numbers,
 we replace, in every sequence « e l , each term ek by the set
 {»*}, and we denote the set o f all finite sequences thus obtained
 by X *. In particular we have (cf. Def. 4);
@@ -9326,13 +9127,11 @@ VI, 5 2 ON D E F IN A B L E SETS OF B E A L NTTMBEKS
 o f a diagonal procedure, we can always construct a set which
 belongs to &n+i without belonging to 3>n.
 
-Professor Kuratowski has drawn my attention to a geo­
-metrical interpretation o f the concepts introduced here. In
+Professor Kuratowski has drawn my attention to a geometrical interpretation o f the concepts introduced here. In
 particular, a finite sequence with counter domain {k,
 can be interpreted as a point in a space o f a finite number o f
 dimensions and o f which X k, X "..., X p are the coordinate
-axes. The set Brv, ri is then the entire space; the homo­
-geneous sets are the sets contained in one such space. The set
+axes. The set Brv, ri is then the entire space; the homogeneous sets are the sets contained in one such space. The set
 Uk is composed o f a single point with coordinate 1 situated on
 the axis X k. The sets Mkt and Sk} m become known elementary
 figures o f analytic geometry, namely half-planes and planes
@@ -9343,10 +9142,8 @@ difficult. In particular, the operation £ is easily recognized
 
 c
 
-as that o f projection parallel to the X k axis. In this interpreta­
-tion it is not necessary to distinguish between a term and the
-sequence composed o f this term; Defs. 10 and 13 become super­
-fluous. Ths. 1 and 2 take the form of certain theorems o f analytic
+as that o f projection parallel to the X k axis. In this interpretation it is not necessary to distinguish between a term and the
+sequence composed o f this term; Defs. 10 and 13 become superfluous. Ths. 1 and 2 take the form of certain theorems o f analytic
 geometry.
 
 From the abstract character o f these considerations we see that
@@ -9357,8 +9154,7 @@ is
 then their combinatorial or Cartesian product.
 
 The joint note by Kuratowski and myself, which immediately
-follows this article, as well as further investigations by Kura­
-towski,1 seem to testify to the great heuristic importance o f
+follows this article, as well as further investigations by Kuratowski,1 seem to testify to the great heuristic importance o f
 the geometrical interpretation o f the constructions sketched
 in this article. In particular, as we shall show in the next
 article, the following theorem is a consequence of Def. 12:
@@ -9381,11 +9177,9 @@ We could even use exclusively operations on sets o f sequences
 which never lead out o f this space. Moreover the operations o f
 complementation, addition, and multiplication would then
 coincide with ordinary operations o f the algebra o f sets. Thus,
-the modification suggested would certainly simplify the develop­
-ment and enhance its intrinsic elegance. On the other hand,
+the modification suggested would certainly simplify the development and enhance its intrinsic elegance. On the other hand,
 the modified construction would have some defects from the
-standpoint of applications, and its heuristic value might pos­
-sibly be diminished.
+standpoint of applications, and its heuristic value might possibly be diminished.
 
 L O G I C A L O P E R A T I O N S A N D
 
@@ -9434,8 +9228,7 @@ diagonal x — y.
 from a closed set by applying, any finite number of times, two operations:
 (1) orthogonal projection, (2) passage to the complement.
 
-* It is a question of explicit (cf. § 4) and arithmetical (or elementary) defini­
-tions in the sense established in V I, Dfs. 9 and 12, pp. 128 and 136. Cf. here
+* It is a question of explicit (cf. § 4) and arithmetical (or elementary) definitions in the sense established in V I, Dfs. 9 and 12, pp. 128 and 136. Cf. here
 the theorem on p. 141 of the latter article, which is formulated without using
 the concept of sentential function.
 
@@ -9451,8 +9244,7 @@ Mathematicae, vol. 17 (1931), pp. 240-8.
 the hyperbolic paraboloid z — xy, the surface z = xv, the set
 o f positive integers, etc.). All these definitions define projective
 sets. It is, on the other hand, remarkable that it is possible to
-specify by means o f these elementary functions sets nonmeasurable B, functions which cannot be represented analy­
-tically, and projective sets o f an arbitrary class.
+specify by means o f these elementary functions sets nonmeasurable B, functions which cannot be represented analytically, and projective sets o f an arbitrary class.
 
 In order to specify non-projective sets (in an explicit fashion)
 it is indispensable to use, apart from real variables, variables o f
@@ -9576,8 +9368,7 @@ V X
 The formulas (7 )-(ll) show that the operation E may be
 permuted with each o f the five logical operations, each o f which
 changes the logical sense into the mathematical sense (or vice
-versa). We thus see that if the sentential function <x(x) is obtain­
-able from the functions
+versa). We thus see that if the sentential function <x(x) is obtainable from the functions
 <f>k (with different variables or
 not) by applying the five logical operations, then the set E<x(x)
 
@@ -9597,8 +9388,7 @@ This also remains true if a is a function o f several variables,
 for the foregoing formulas can be generalized immediately by
 replacing the variable x by a system o f n variables.1
 
-In the sequel this logioo-mathematical duality will be ex­
-pressed in another form by taking into account the following
+In the sequel this logioo-mathematical duality will be expressed in another form by taking into account the following
 geometrical interpretation o f the logical operation
 
 (12) The set E^^>(x,y) is the projection of the set E </>{x,y)
@@ -9675,8 +9465,7 @@ xy
 
 1 The case n = 0 ia included; in this case $(x) becomes a sentence and,
 denoting by 0 and 1 its logical value (i.e. ' false' or ' true' ) and employing the
-same symbols to denote the empty set and the space of real numbers respec­
-tively, we have
+same symbols to denote the empty set and the space of real numbers respectively, we have
 
 (a ie O js O ,
 
@@ -9718,16 +9507,12 @@ R E M A R K S
 y> z,... range over the set o f real numbers is in no way essential.
 We may suppose that x ranges over an arbitrary set X , y over
 a set Y , distinct or not from X , z over a set Z, etc. The
-Euclidean plane X Y should then, be replaced by the combina­
-torial or Cartesian product of X and Y, i e. by the set o f pairs
-(x, y)9 where x e X and y e Y (m an analogous way, the combina­
-torial product of X , Y , Z is the set of points (x, y,z), where
+Euclidean plane X Y should then, be replaced by the combinatorial or Cartesian product of X and Y, i e. by the set o f pairs
+(x, y)9 where x e X and y e Y (m an analogous way, the combinatorial product of X , Y , Z is the set of points (x, y,z), where
 x e X, y e Y . z e Z). The extension of the concept of projection
 to the general case is obvious.
 
-(2) According to (12) a continuous geometrical operation corre­
-sponds to the logical operation ]£. Numerous topological applica­
-tions of the logical calculus are connected with this fact (see
+(2) According to (12) a continuous geometrical operation corresponds to the logical operation ]£. Numerous topological applications of the logical calculus are connected with this fact (see
 Kuratowski, C. (39)).
 
 (3) Regarding the operation JJ, it is easily seen that the set
@@ -9921,10 +9706,8 @@ noted that if, instead o f supposing that the given sentential
 functions are projective, we make more restricted hypotheses,
 the function which is obtained may also be characterized in a
 more specific manner. To give an example let us call every
-sentential function linear if it is obtained by addition and multi­
-plication from sentential functions of the form f(x v ...,x n) = 0
-or > 0, where / is a polynomial o f degree 1 with integral co­
-efficients . Then the property of being a linear sentential function
+sentential function linear if it is obtained by addition and multiplication from sentential functions of the form f(x v ...,x n) = 0
+or > 0, where / is a polynomial o f degree 1 with integral coefficients . Then the property of being a linear sentential function
 proves to be invariant under the five logical operations coilsidered. In particular, the sets o f real numbers defined by means
 o f linear functions prove to coincide with finite sums of intervals
 (closed or open) with rational end points.1
@@ -9939,8 +9722,7 @@ and 246.
 § 4 . I m p l ic it D e f in it io n s
 
 Hitherto we have supposed that the 'unknown' function a is
-by perform­
-obtained from a system o f given functions
+by performobtained from a system o f given functions
 ing upon them logical operations; the type of this definition is
 
 These are definitions properly so called, or explicit definitions.
@@ -9978,24 +9760,19 @@ T H E C O N C E P T O F T R U T H I N
 F O R M A L I Z E D L A N G U A G E S !
 
 iNTBODTTOTIOir
-T he present' article is almost wholly devoted to a single prob­
-lem— the definition of truth. Its task is to construct—with
+T he present' article is almost wholly devoted to a single problem— the definition of truth. Its task is to construct—with
 reference to a given language—a materially adequate and
-formallv correct definition' of the term Hrue sentence*. This prob­
-lem, which belongs to the classical questions of philosophy,
+formallv correct definition' of the term Hrue sentence*. This problem, which belongs to the classical questions of philosophy,
 raises considerable difficulties. For although the meaning o f
 the term 'true sentence' in colloquial language seems to be
-quite clear and intelligible, all attempts to define this mean­
-ing more precisely have hitherto been fruitless, and many in­
-vestigations in which this term has been used and which started
+quite clear and intelligible, all attempts to define this meaning more precisely have hitherto been fruitless, and many investigations in which this term has been used and which started
 with apparently evident premisses have often led to paradoxes
 and antinomies (for which, however, a more or less satisfactory
 solution has been found). The concept o f truth shares in this
 respect the fate of other analogous concepts in the domain o f
 the semantics o f language.
 
-The question how a certain concept is to be defined is cor­
-rectly formulated only if a list is given o f the terms by means
+The question how a certain concept is to be defined is correctly formulated only if a list is given o f the terms by means
 o f which the required definition is to be constructed. I f the
 definition is to fulfil its proper task, the sense o f the termB in
 this list must admit o f no doubt. The question thus naturally
@@ -10027,8 +9804,7 @@ in greater or less degree an intuitive knowledge of the concept
 o f truth and he can find detailed discussions on it in works on
 the theory of knowledge. I would only mention that throughout
 this work I shall be concerned exclusively with grasping the
-intentions which are contained in the so-called classical con­
-ception o f truth ('true— corresponding with reality') in contrast,
+intentions which are contained in the so-called classical conception o f truth ('true— corresponding with reality') in contrast,
 for example, with the utilitarian conception ( 'true—in a certain
 respect useful').1
 
@@ -10046,8 +9822,7 @@ not only does the definition of truth seem to be impossible, but
 even the consistent use o f this concept in conformity with the
 laws o f logic.
 
-In the further course o f this disoussion I shall consider ex­
-clusively the scientifically constructed languages known at the
+In the further course o f this disoussion I shall consider exclusively the scientifically constructed languages known at the
 present day, i.e. the formalized languages o f the deductive
 sciences. Their characteristics will be described at the beginning
 o f § 2 . It will be found that, from the standpoint o f the present
@@ -10074,13 +9849,11 @@ definition o f the notion o f truth.f Nevertheless, everything
 points to the possibility even in these cases—in contrast to the
 language o f everyday life—o f introducing a consistent and
 correct use o f this concept by considering it as a primitive notion
-o f a special science, namely o f the theory of truth, and its funda­
-mental properties are made precise through axiomatization.
+o f a special science, namely o f the theory of truth, and its fundamental properties are made precise through axiomatization.
 
 The investigation o f formalized languages naturally demands
 a knowledge o f the principles o f modem formal logic. For the
-construction o f the definition o f truth certain purely mathemati­
-cal concepts and methods are necessary, although in a modest
+construction o f the definition o f truth certain purely mathematical concepts and methods are necessary, although in a modest
 degree. I should be happy if this work were to convince the
 reader that these methods already are necessary tools even for
 the investigation o f purely philosophical problems.1
@@ -10092,16 +9865,14 @@ For the purpose of introducing the reader to our subject, a
 consideration—if only a fleeting one-—o f the problem o f defining
 truth in colloquial language seems desirable. I wish especially
 
-1 This was communicated to the Society of Sciences in Warsaw by J. Luka­
-siewicz on 21 March 1931. The results it contains date for the most part from
+1 This was communicated to the Society of Sciences in Warsaw by J. Lukasiewicz on 21 March 1931. The results it contains date for the most part from
 1929. I have reported on this, among other things, in two lectures which
 I gave under the title ' On the Concept of Truth in relation to formalized
 deductive systems * at the logical section of the Philosophical Society in
 Warsaw (8 October 1930) and at the Polish Philosophical Society in Lw6w
 (15 December 1930), aresum6 of which appeared in Tarski, A. (73), For reasons
 unconnected with me the printing of this work was much delayed. This enabled
-me to supplement the text with some rather important results (cf. p. 247, foot­
-note). In the meantime a r£sum6 of the chief results has appeared in Tarski,
+me to supplement the text with some rather important results (cf. p. 247, footnote). In the meantime a r£sum6 of the chief results has appeared in Tarski,
 
 A . (76).
 
@@ -10124,16 +9895,14 @@ and so, and the state of affairs indeed is so and so.2
 
 From the point of view of formal correctness, clarity, and
 freedom from ambiguity o f the expressions occurring in it, the
-above formulation obviously leaves much to be desired. Never­
-theless its intuitive meaning and general intention seem to be
+above formulation obviously leaves much to be desired. Nevertheless its intuitive meaning and general intention seem to be
 quite clear and intelligible. To make this intention more definite,
 and to give it a correct form, is precisely the task of a semantical
 definition.
 
 As a starting'point certain sentences of a special kind present
 themselves which could serve as partial definitions o f the truth
-of a sentence or more correctly as explanations of various con­
-crete turns o f speech o f the type (x is a trae sentence'. The
+of a sentence or more correctly as explanations of various concrete turns o f speech o f the type (x is a trae sentence'. The
 general scheme of this kind of sentence can be depicted in the
 following way:
 
@@ -10172,8 +9941,7 @@ explanation o f type (2 ) for it, provided only that we are able
 to write down the sentence denoted by this name. The most
 important and common names for which the above condition is
 satisfied are the so-called quotation-mark names. We denote by
-this term every name o f a sentence (or of any other, even mean­
-ingless, expression) which consists o f quotation marks, left- and
+this term every name o f a sentence (or of any other, even meaningless, expression) which consists o f quotation marks, left- and
 right-hand, and the expression which Jies between them, and
 which (expression) is the object denoted by the name in question.
 As an example o f such a name o f a sentence the name 8'it is
@@ -10197,8 +9965,7 @@ the series of signs in the quotation marks but also every series of signs of lik
 shape. In order to avoid both objections of this kind and also the introduction
 of superfluous complications into the discussion, which would be connected
 among other things with the necessity of using the concept of likeness of
-shape, it is convenient to stipulate that terms like ' word', ' expression\ 'sen­
-tence*, etc., do not denote concrete series of signs but whole classes of such
+shape, it is convenient to stipulate that terms like ' word', ' expression\ 'sentence*, etc., do not denote concrete series of signs but whole classes of such
 series which are of like shape with the series given; only in this sense shall
 we regard quotation-mark names as individual names of expressions. Cf.
 Whitehead, A. N ., and Russell, B. A. W. (90), vol. 1. pp. 661- 6 and— for other
@@ -10250,9 +10017,7 @@ they arouse, in general, no doubt (assuming o f course that no
 suoh doubts are involved in the sentences which we substitute
 for the symbol (p ' in (2)).
 
-But a certain reservation is nonetheless necessary here. Situa­
-tions are known in which assertions of just this type, in com­
-bination with certain other not less intuitively clear premisses,
+But a certain reservation is nonetheless necessary here. Situations are known in which assertions of just this type, in combination with certain other not less intuitively clear premisses,
 lead to obvious contradictions, for example the antinomy of
 the liar. W e shall give an extremely simple formulation of this
 antinomy whioh is due to J. Lukasiewicz.
@@ -10260,8 +10025,7 @@ antinomy whioh is due to J. Lukasiewicz.
 158 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES V III, § 1
 
 For the sake of greater perspicuity we shall use the symbol
-V as a typographical abbreviation o f the expression 'the sen­
-tence printed on this page, line 5 from the top' . Consider now
+V as a typographical abbreviation o f the expression 'the sentence printed on this page, line 5 from the top' . Consider now
 the following sentence:
 
 c is not a true sentence.
@@ -10296,8 +10060,7 @@ o f truth). Nevertheless no rational ground can be given why
 such substitutions should be forbidden in principle.
 
 I shall restrict myself here to the formulation o f the above
-antinomy and will postpone drawing the necessary conse­
-quences of this fact till later. Leaving this difficulty on one
+antinomy and will postpone drawing the necessary consequences of this fact till later. Leaving this difficulty on one
 side I shall next try to construct a definition of true sentence
 by generalizing explanations of type (3). At first sight this task
 may seem quite easy— especially for anyone who has to some
@@ -10320,9 +10083,7 @@ o f the expression cx is a true sentence' because the totality o f
 possible substitutions for the symbol V is here restricted to
 quotation-mark names. In order to remove this restriction we
 must have recourse to the well-known fact that to every true
-sentence (and generally speaking to every sentence) there corre­
-sponds a quotation-mark name which denotes just that sen­
-tence.1 With this fact in mind we could try to generalize the
+sentence (and generally speaking to every sentence) there corresponds a quotation-mark name which denotes just that sentence.1 With this fact in mind we could try to generalize the
 formulation (5), for example, in the following way:
 
 (6) for all x, x is a true sentence if and only if, for a certain p,
@@ -10331,8 +10092,7 @@ x is identical with *p' and p.
 
 At first sight we should perhaps be inclined to regard (6) as
 a correct semantical definition o f 'true sentence' , which realizes
-in a precise way the intention o f the formulation (1) and there­
-fore to accept it as a satisfactory solution of our problem.
+in a precise way the intention o f the formulation (1) and therefore to accept it as a satisfactory solution of our problem.
 Nevertheless the matter is not quite so simple. As soon as we
 begin to analyse the significance o f the quotation-mark names
 which occur in (5) and (6) we encounter a series o f difficulties
@@ -10341,8 +10101,7 @@ and dangers.
 Quotation-mark names may be treated like single words o f
 a language, and thus like syntactically simple expressions. The
 single constituents o f these names—the quotation marks and
-the expressions standing between them—fulfil the same func­
-tion as the letters and complexes o f successive letters in single
+the expressions standing between them—fulfil the same function as the letters and complexes o f successive letters in single
 words. Hence they can possess no independent meaning.
 Every quotation-mark name is then a constant individual
 name o f a definite expression (the expression enclosed by the
@@ -10376,8 +10135,7 @@ see at once from this that the sentences (6) and (6) are not
 formulations o f the thought we wish to express and that they
 are in fact obviously senseless. Moreover, the sentence (5) leads
 at once to a contradiction, for we can obtain from it just as
-easily in addition to the above given consequence, the contra­
-dictory consequence: 'p ' is a true sentence if and only if it is
+easily in addition to the above given consequence, the contradictory consequence: 'p ' is a true sentence if and only if it is
 not snowing. Sentence (6) alone leads to no contradiction, but
 the obviously senseless conclusion follows from it that the letter
 'p ' is the only true sentence.
@@ -10390,12 +10148,10 @@ nevertheless, we consider explanations of type (2) constructed
 by the use o f such names (as was done, for example, in (4) above),
 then we see no way o f generalizing these explanations. And if in
 (5) or (6) we replace the quotation-mark name by the structuraldescriptive name 'p c' (or 'the ward which consists of the single
-letter P e') we see at once the absurdity o f the resulting formula­
-tion.
+letter P e') we see at once the absurdity o f the resulting formulation.
 
 In order to resoue the sense o f sentences (5) and (6) we
-must seek quite a different interpretation o f the quotationmark names. We must treat these names as syntactically com­
-posite expressions, o f which both the quotation marks and the
+must seek quite a different interpretation o f the quotationmark names. We must treat these names as syntactically composite expressions, o f which both the quotation marks and the
 expressions within them are parts. Not all quotation-mark
 
 v m , 5 1 CONCEPT OF TROTH IN FORMALIZED LANGUAGES 161
@@ -10429,8 +10185,7 @@ using the expression 'true sentence' at all, by introducing the
 
 1 W© call such words as ' reads* in the expression lx reads' functors (this is
 a sentence-forming functor with one individual name as argument); also ' sees'
-sees y* (a sentence-forming functor with two name argu­
-in the expression
+sees y* (a sentence-forming functor with two name arguin the expression
 ments), and ' father' in the expression ' the father of a?' (a name-forming functor
 with one name argument), as well as ' or' in the expression lp or g' (a sentenceforming functor with two sentence arguments) ; quotation marks provide an
 example of a name-forming functor with one sentence argument. The term
@@ -10455,8 +10210,7 @@ W e consider the following statement:
 
 for all p, if a is identical with the sentence 'p\ then not p
 
-(if we accept (6) as a definition o f truth, then the above state­
-ment asserts that c is not a true sentence).
+(if we accept (6) as a definition o f truth, then the above statement asserts that c is not a true sentence).
 
 We establish empirically:
 (a) the sentence 'for aid p, i f c is identical with the sentence
@@ -10476,19 +10230,15 @@ By means o f elementary logical laws we easily derive a contra­
 diction from the premisses (a) and (fi).
 
 I should like to draw attention, in passing, to other dangers
-to whioh the consistent use o f the above interpretation o f quota­
-tion marks exposes us, namely to the ambiguity o f certain
+to whioh the consistent use o f the above interpretation o f quotation marks exposes us, namely to the ambiguity o f certain
 expressions (for example, the quotation-expression which occurs
-in (6) and (6) must be regarded in certain situations as a func­
-tion with variable argument, whereas in others it is a constant
+in (6) and (6) must be regarded in certain situations as a function with variable argument, whereas in others it is a constant
 name which denotes a letter o f the alphabet). Further, I would
-point out the necessity o f admitting certain linguistic construc­
-tions whose agreement with the fundamental laws of syntax is
+point out the necessity o f admitting certain linguistic constructions whose agreement with the fundamental laws of syntax is
 at least doubtful, e.g. meaningful expressions whioh contain
 meaningless expressions as syntactical parts (every quotationname o f a meaningless expression will serve as an example).
 For all these reasons the correctness o f definition (6), even with
-the new interpretation o f quotation marks, seems to be ex­
-tremely doubtful.
+the new interpretation o f quotation marks, seems to be extremely doubtful.
 
 Our discussions so fax entitle us in any oase to say that the
 attempt to construct a correct semantical definition of the expression
@@ -10511,41 +10261,33 @@ complications which have been described above.
 In the face o f these facts we are driven to seek other methods
 o f solving our problem. I will draw attention here to only one
 such attempt, namely the attempt to construct a structural
-definition. The general scheme o f this definition would be some­
-what as follows: a true sentence is a sentence which possesses such
+definition. The general scheme o f this definition would be somewhat as follows: a true sentence is a sentence which possesses such
 and such structural properties (i.e. properties concerning the form
-and arrangement in sequence o f the single parts o f the expres­
-sion) or which can be obtained from such and such structurally
-described expressions by means of such and such structural trans­
-formations. As a starting-point we can press into service many
+and arrangement in sequence o f the single parts o f the expression) or which can be obtained from such and such structurally
+described expressions by means of such and such structural transformations. As a starting-point we can press into service many
 laws from formal logic which enable us to infer the truth or
 falsehood of sentences from certain of their structural properties;
 or from the truth or falsehood of certain sentences to infer
 analogous properties o f other sentences which can be obtained
-from the former by means o f various structural transforma­
-tions. Here are some trivial examples o f suoh laws: every ex­
-pression consisting of four parts of which the first is the word Hf ',
+from the former by means o f various structural transformations. Here are some trivial examples o f suoh laws: every expression consisting of four parts of which the first is the word Hf ',
 the third is the word 'then' , and the second and fourth are the same
 sentence, is a true sentence; if a true sentence consists of four parts,
 of which the first is the word *i f ', the second a true sentence, the
 third the word 'then' , then the fourth part is a true sentence. Such
 laws (especially those o f the second type) are very important.
-With their help every fragmentary definition o f truth, the ex­
-tension o f which embraces an arbitrary class o f sentences, can
+With their help every fragmentary definition o f truth, the extension o f which embraces an arbitrary class o f sentences, can
 be extended to all composite sentences which can be built up
 from sentences o f the given class by combining them by means
 
 164 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES v m , § 1
 
 o f suoh expressions as 'i f . . . then', 'if and only if' , 'or', 'and',
-'not' , in short, by means o f expressions belonging to the sen­
-tential calculus (or theory o f deduction). This leads to the idea
+'not' , in short, by means o f expressions belonging to the sentential calculus (or theory o f deduction). This leads to the idea
 o f setting up sufficiently numerous, powerful, and general laws
 for every sentence to fall under one o f them. In this way
 we should reach a general structural definition o f a true
 sentence. Yet this way also seems to be almost hopeless, at
-least as far as natural language is concerned. For this lan­
-guage is not something finished, closed, or bounded by clear
+least as far as natural language is concerned. For this language is not something finished, closed, or bounded by clear
 limits. It is not laid down what words can be added to this
 language and thus in a certain sense already belong to it
 potentially. We axe not able to specify structurally those
@@ -10555,8 +10297,7 @@ up a structural definition of the term 'true sentence'—applicable
 to colloquial language is confronted vnth insuperable difficulties.
 
 The breakdown o f all previous attempts leads us to suppose
-that there is no satisfactory way o f solving our problem. Im­
-portant arguments o f a general nature can in fact be invoked
+that there is no satisfactory way o f solving our problem. Important arguments o f a general nature can in fact be invoked
 in support o f this supposition as I shall now briefly indicate.
 A characteristic feature o f colloquial language (in contrast to
 various scientific languages) is its universality. It would not be
@@ -10565,15 +10306,12 @@ language a word occurred which could not be translated into it;
 it could be olaimed that 'if we can speak meaningfully about
 anything at all, we can also speak about it in colloquial language' .
 I f we are to maintain this universality of everyday language in
-connexion with semantical investigations, we must, to be con­
-sistent, admit into the language, in addition to its sentences and
-other expressions, also the names o f these sentences and ex­
-pressions, and sentences containing these names, as well as such
+connexion with semantical investigations, we must, to be consistent, admit into the language, in addition to its sentences and
+other expressions, also the names o f these sentences and expressions, and sentences containing these names, as well as such
 semantic expressions as 'true sentence' , 'name', denote' , etc.
 But it is presumably just this universality o f everyday language
 which is the primary source of all semantical antinomies, like the
-antinomies o f the liar or of heterologioal words. These anti­
-nomies seem to provide a proof that every language which is
+antinomies o f the liar or of heterologioal words. These antinomies seem to provide a proof that every language which is
 universal in the above sense, and for which the normal laws of
 
 VIII, § 1 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 165
@@ -10606,14 +10344,12 @@ t h e C a l c u l u s o f C l a s s e s
 
 For the reasons given in the preceding section I now abandon
 the attempt to solve our problem for the language of everyday
-life and restrict myself henceforth entirely to formalized lan­
-guages? These can be roughly characterized as artificially con-
+life and restrict myself henceforth entirely to formalized languages? These can be roughly characterized as artificially con-
 
 The antinomy of heterologioal words (which I shall not describe here—
 
 cf. Grelling, K ., and Nelson, L. (24), p. 307) is simpler than the antinomy of
-the liar in so far as no empirical premiss analogous to (a) appears in its formula­
-tion; thus it leads to the correspondingly stronger consequence: there can
+the liar in so far as no empirical premiss analogous to (a) appears in its formulation; thus it leads to the correspondingly stronger consequence: there can
 be no consistent language which contains the ordinary laws of logic and
 satisfies two conditions which are analogous to (I) and (II), but differ from
 them in that they treat not of sentences but of names, and not of the truth
@@ -10623,8 +10359,7 @@ in particular p. 248, footnote 2.
 
 1 The results obtained for formalized language also have a certain validity
 for colloquial language, and this is owing to its universality: if we translate
-into colloquial language any definition of a true sentence which has been con­
-structed for some formalized language, we obtain a fragmentary definition of
+into colloquial language any definition of a true sentence which has been constructed for some formalized language, we obtain a fragmentary definition of
 truth which embraces a wider or narrower category of sentences.
 
 166 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES VUL, $ 2
@@ -10635,12 +10370,9 @@ a completely exhaustive and precise description, which is a
 matter o f considerable difficulty, I shall draw attention here
 to some essential properties which all the formalized languages
 possess: (a) for each o f these languages a list or description
-is given in structural terms o f all the signs w ith which the ex­
-pressions o f tiie language are form ed; (,8) among all possible
+is given in structural terms o f all the signs w ith which the expressions o f tiie language are form ed; (,8) among all possible
 expressions which can be formed with these signs those called
-sentences are distinguished by means o f purely structural pro­
-perties. Now formalized languages have hitherto been con­
-structed exclusively for the purpose o f studying deductive
+sentences are distinguished by means o f purely structural properties. Now formalized languages have hitherto been constructed exclusively for the purpose o f studying deductive
 sciences formalized on the basis of such languages. The language
 and the science grow together to a single whole, so that we speak
 o f the language o f a particular formalized deductive science,
@@ -10649,37 +10381,28 @@ further characteristic properties o f formalized languages appear
 in connexion with the way in which deductive sciences are built
 up: (y) a list, or structural description, is given o f the sentences
 called axiom s or p rim itiv e statements; (8) in special rules, called
-rules of infer cuts, certain operations o f a structural kind are em­
-bodied which permit the transformation o f sentences into other
-sentences; the sentences which can be obtained from given sen­
-tences by one or more applications o f these operations are called
-consequences o f the given sentences. In particular the conse­
-quences o f the axioms are called provable or asserted sentences.1
+rules of infer cuts, certain operations o f a structural kind are embodied which permit the transformation o f sentences into other
+sentences; the sentences which can be obtained from given sentences by one or more applications o f these operations are called
+consequences o f the given sentences. In particular the consequences o f the axioms are called provable or asserted sentences.1
 
 It remains iierkaps to add that we are not interested here
 in 'formal* languages and sciences in one special sense of the
 word 'formal*, namely sciences to the signs and expressions of
-which no material sense is attached. For such sciences the prob­
-lem here discussed has no relevance, it is not even meaningful.
-1 The formalization of a science usually admits of the possibility of intro­
-ducing new signs into that science which were not explicitly given at the out­
-set. These signs— called defined signs (in contrast to the primitive signs)—
+which no material sense is attached. For such sciences the problem here discussed has no relevance, it is not even meaningful.
+1 The formalization of a science usually admits of the possibility of introducing new signs into that science which were not explicitly given at the outset. These signs— called defined signs (in contrast to the primitive signs)—
 appear in the science in the first instance in expressions of a special structure
 called definitions* which are constructed in accordance with special rules—
-the rules of definition. Definitions are sometimes regarded as asserted sen­
-tences of the science. This feature of the formalization of languages will not be
+the rules of definition. Definitions are sometimes regarded as asserted sentences of the science. This feature of the formalization of languages will not be
 considered in the sequel.
 
 V ffl, § 2 CONCEPT OF TROTH IN FORMALIZED LANGUAGES 167
 
 We shall always ascribe quite concrete and, for us, intelligible
 meanings to the signs which occur in the languages we shall
-consider.1 The expressions whioh we call sentences still re­
-main sentences after the signs which occur in them have been
+consider.1 The expressions whioh we call sentences still remain sentences after the signs which occur in them have been
 translated into colloquial language. The sentences which are
 distinguished as axioms seem to us to be materially true, and in
-choosing rules o f inference we are always guided by the prin­
-ciple that when such rules are applied to true sentences the
+choosing rules o f inference we are always guided by the principle that when such rules are applied to true sentences the
 sentences obtained by their use should also be true,2
 
 In contrast to natural languages, the formalized languages
@@ -10689,16 +10412,13 @@ possess no terms belonging to the theory o f language, i.e. no
 expressions which denote signs and expressions o f the same or
 another language or which describe the structural connexions
 between them (such expressions I call—for lack o f a better
-term—structural-descriptive). For this reason, when we investi­
-gate the language o f a formalized deductive science, we must
+term—structural-descriptive). For this reason, when we investigate the language o f a formalized deductive science, we must
 always distinguish clearly between the language about which we
 speak and the language in which we speak, as well as between
 the science which is the object of our investigation and the
 science in which the investigation is carried out. The names
 o f the expressions o f the first language, and of the relations
-between them, belong to the second language, called the meta­
-language (which may contain the first as a part). The descrip­
-tion o f these expressions, the definition o f fchs complicated
+between them, belong to the second language, called the metalanguage (which may contain the first as a part). The description o f these expressions, the definition o f fchs complicated
 concepts, especially o f those connected with the construction
 o f a deductive theory (like the concept o f consequence, o f
 provable sentence, possibly o f true sentence), the determination
@@ -10707,8 +10427,7 @@ theory which we shall call the nietatheory.
 
 For an extensive group o f formalized languages it is possible
 1 Strictly speaking this applies only to the signs called constants* Variables
-and technical signs (such as brackets, dots, etc.) possess ro independent mean­
-ing ; but they exert an essential influence on the meaning
+and technical signs (such as brackets, dots, etc.) possess ro independent meaning ; but they exert an essential influence on the meaning
 the expressions
 of whioh they form parts.
 
@@ -10780,14 +10499,11 @@ that their number is not limited and that they are distinct
 in form from the constants. But for the further course of our
 work it is technically important to specify the form of these
 signs exactly, and in such a way that they can easily be ordered
-in a sequence. I shall therefore use as variables only such sym­
-bols as 'x,', cx ,9, Kxm\ and analogous signs which consist of the
+in a sequence. I shall therefore use as variables only such symbols as 'x,', cx ,9, Kxm\ and analogous signs which consist of the
 symbol V and a number of small strokes added below. The
 sign which has k such small strokes (k being any natural number
-distinct from 0) will be called the k-th variable. In the in­
-tuitive interpretation of the language, which I always have in
-mind here, the variables represent names of classes of indi­
-viduals. As expressions of the language we have either single
+distinct from 0) will be called the k-th variable. In the intuitive interpretation of the language, which I always have in
+mind here, the variables represent names of classes of individuals. As expressions of the language we have either single
 constants and variables or complexes of such signs following one
 another, for example:
 (NIxfx"\ cAIx,x» Ix*x,\
@@ -10799,8 +10515,7 @@ below), and in the place of 'x9 and 'y 9 any variables, appear, are
 read: 'not p 9 (or 'it is not true that p 9),1 'p or qy9 'for all classes x
 wehavep', and 'the class x is included in the class y 9, respectively.
 Regarding composite expressions, i.e. those which are not signs,
-we can say that they consist of two or more other simple expres­
-sions. Thus the expression 'N Ix ,x *9 is composed of the two
+we can say that they consist of two or more other simple expressions. Thus the expression 'N Ix ,x *9 is composed of the two
 successive expressions 'A75 and (Ix,Xu9 or of the expressions
 *NI9 and 'x,xa9 or finally of the expressions 'Nix 9 and 'av.
 
@@ -10827,8 +10542,7 @@ obtained in this article. These two points are closely connected
 with our fundamental problem; were we to negleot them, we
 Bhould not be able to assert either that we had succeeded in
 correctly defining any concept on the basis of the metalanguage,
-or that the definition constructed possesses any particular con­
-sequences. But I shall not attempt at all to give the metatheory
+or that the definition constructed possesses any particular consequences. But I shall not attempt at all to give the metatheory
 the character of a strictly formalized deduotive science. I shall
 content myself with saying that—apart from the two points
 mentioned—the process of formalizing the metatheory shows no
@@ -10836,16 +10550,13 @@ specific peculiarity. In particular, the rules of inference and of
 definition do not differ at all from the rules used in constructing
 other formalized deductive sciences.
 
-Among the expressions of the metalanguage we can distin­
-guish two kinds. To the first belong expressions of a general logical
+Among the expressions of the metalanguage we can distinguish two kinds. To the first belong expressions of a general logical
 character, obtainable from any sufficiently developed system
 of mathematical logic.1 They can be divided into primitive
-expressions and defined expressions, but this would be point­
-less in the present case. First we have a series of expressions
+expressions and defined expressions, but this would be pointless in the present case. First we have a series of expressions
 which have the same meaning as the constants of the science
 we are considering; thus 'not' or 'ii is not true that',2 'or', fo r dll',
-and 'is included in '—in symbols ' s '. Thanks to this circum­
-stance we are able to translate every expression of the language
+and 'is included in '—in symbols ' s '. Thanks to this circumstance we are able to translate every expression of the language
 into the metalanguage. For example, the statement 'for all a
 (or for all classes a) a £ o' is the translation of the expression
 sr r x, Ixt x,\ To the same category belongs a series of analogous
@@ -10916,22 +10627,18 @@ o f whose terms are classes w hich are included in a given class a,
 will be called a sequence of subclasses of the class a.
 
 In contrast to the first kind of expression, those of the second
-kind are specific terms of the metalanguage of a structural-descrip­
-tive character, and thus names of concrete signs or expressions of
+kind are specific terms of the metalanguage of a structural-descriptive character, and thus names of concrete signs or expressions of
 the language of the calculus of classes. Among these are, in the
 first place, the tern^ 'the negation sign9, 'the sign of logical sum9,
 Hhe sign of the universal quantifier9, ethe inclusion sign9, 'the
 k-th variable9, Hhe expression which consists of the expressions
-x and y following one another9 and 'expression9. As abbrevia­
-tions of the first six terms I shall use the symbols 'ng9, {sm9,
+x and y following one another9 and 'expression9. As abbreviations of the first six terms I shall use the symbols 'ng9, {sm9,
 (un9, 'in9, 'vk , and 'x ' y 9 (the sign V thus denotes a sequence,
 the terms of which are the successive variables vv v2ivz,..,). These
 terms have already been used in introducing the reader to the
 language of the calculus of classes. I hope that, thanks to the
 explanations already given, no doubt will remain concerning the
-meaning of these terms. With the help of these terms (and pos­
-sibly general logical terms) all other concepts of the meta­
-language of a structural-descriptive kind can be defined. It is
+meaning of these terms. With the help of these terms (and possibly general logical terms) all other concepts of the metalanguage of a structural-descriptive kind can be defined. It is
 easy to see that every simple or composite expression of the
 language under investigation has an individual name in the
 metalanguage similar to the structural-descriptive names of
@@ -10953,8 +10660,7 @@ names of (1) classes of individuals of an arbitrary character,1
 (2) sequences o f such classes, (3) natural numbers and sequences
 o f natural numbers, (4) expressions, and (5) classes o f expressions.
 We turn now to the axiom system of the metalanguage. First,
-it is to be noticed that—corresponding to the two kinds of ex­
-pressions in the metalanguage—this system contains two quite
+it is to be noticed that—corresponding to the two kinds of expressions in the metalanguage—this system contains two quite
 distinct binds of sentences: the general logical axioms which
 suffice for a sufficiently comprehensive system of mathematical
 logic, and the specific axioms of the metalanguage which describe
@@ -10970,13 +10676,11 @@ A x io m 2. vk is an expression if and only if his a natural number
 distinct from 0 ;v kis distinct from ng, sm, un, in, and also from vz
 if Jc =£1.
 
-A xio m 3. xTy is an expression if and only if x and y are ex­
-pressions; xTy is distinct from ng, sm, un, in, and from each of the
+A xio m 3. xTy is an expression if and only if x and y are expressions; xTy is distinct from ng, sm, un, in, and from each of the
 expressions vk.
 
 A xiom 4. I f x, y, z, and t are expressions, then we have
-x^y = z^t if and only if one of the following conditions is satis­
-fied: (a) x =■ z and y — t; (j3) there is an expression u such that
+x^y = z^t if and only if one of the following conditions is satisfied: (a) x =■ z and y — t; (j3) there is an expression u such that
 x — z^u and t = vTy\ (y) there is an expression u such that
 z = x^u and y = u^L
 
@@ -10999,8 +10703,7 @@ of an axiomatized system.
 174 CONCEPT OP TROTH IN FORMALIZED LANGUAGES V III, f 2
 
 and in e X ) (ft) if Jc is a natural number distinct from 0, then
-vk e X ; (y) if x e X and y s i ; then vTy e X . Then every ex­
-pression belongs to the class X .
+vk e X ; (y) if x e X and y s i ; then vTy e X . Then every expression belongs to the class X .
 
 The intuitive sense of Axs. 1-4 requires no further elucidation.
 Ax. 5 gives a precise formulation of the fact that every expression
@@ -11013,16 +10716,13 @@ sufficient basis for the construction of the metalanguage.1
 Some of the above axioms have a pronounced existential
 character and involve further oonsequences of the same kind.
 Noteworthy among these oonsequences is the assertion that the
-class of all expressions is infinite (to be more exact, denumer­
-able). From the intuitive standpoint this may seem doubtful
+class of all expressions is infinite (to be more exact, denumerable). From the intuitive standpoint this may seem doubtful
 and hardly evident, end on that account the whole axiomsystem may be subject to serious criticism. A closer analysis
-would restriot this critioism entirely to Axs. 2 and 8 as the essen­
-tial souroes of this infinite character of the metatheory. I shall
+would restriot this critioism entirely to Axs. 2 and 8 as the essential souroes of this infinite character of the metatheory. I shall
 not pursue this difficult problem any further here.2 The con-
 1 I use the term ' categorical' in the sense given in Veblan, O. (8 6). I do
 not propose to explain in more detail why I see in the categoricity of en
-axiom system an objective guarantee that the system suffices for the establish­
-ment of the corresponding deductive science 5 a series of remarks on this question
+axiom system an objective guarantee that the system suffices for the establishment of the corresponding deductive science 5 a series of remarks on this question
 will be found in Fraenkei, A. (16).
 
 Regarding the interpretation of the term ' categorical* there are certain*
@@ -11051,23 +10751,17 @@ V m , $ 2 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 176
 
 sequences mentioned could of course be avoided if the axioms
 were freed to a sufficient degree from existential assumptions.
-But the fact must be taken into consideration that the elimina­
-tion or weakening of these axioms, which guarantee the existence
+But the fact must be taken into consideration that the elimination or weakening of these axioms, which guarantee the existence
 of all possible expressions, would considerably increase the
-difficulties of constructing the metatheory, would render im­
-possible a series of the most useful consequences and so intro­
-duce much complication into the formulation of definitions
+difficulties of constructing the metatheory, would render impossible a series of the most useful consequences and so introduce much complication into the formulation of definitions
 and theorems. As we shall see later this will become dear
 even in the present investigations. For these reasons it seems
 desirable, at least provisionally, tc» base our work on the axiom
 system given above in its initial unweakened lorm.
 
-Making use of the expressions and symbols of the meta­
-language which have now been enumerated, I shall define
+Making use of the expressions and symbols of the metalanguage which have now been enumerated, I shall define
 those concepts which establish the calculus of classes as a
-formalized deductive science. These are the concepts of sen­
-tence, axiom (primitive sentence), consequence and provable sen­
-tence. But first I introduce a series of auxiliary symbols which
+formalized deductive science. These are the concepts of sentence, axiom (primitive sentence), consequence and provable sentence. But first I introduce a series of auxiliary symbols which
 will denote various simple types of expression and greatly
 facilitate the later constructions.
 
@@ -11143,8 +10837,7 @@ special case of this notion.
 (cf. Dedekind, R. (15), pp. 33-40, and Whitehead, A. N., and Russell, B. A. W.
 (90), vol. 1, pp. 550-7, and vcl. 3, p. 244). This, however, is unpractical in so
 far as the formulations so obtained have a more complicated logical structure,
-are less clear as regards their content, and are less suitable for further deriva­
-tions. For these reasons I do not propose to avoid recursive definitions in the
+are less clear as regards their content, and are less suitable for further derivations. For these reasons I do not propose to avoid recursive definitions in the
 sequel.
 
 v m , $ 2 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 177
@@ -11152,12 +10845,10 @@ v m , $ 2 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 177
 Definition 10. x is a sentential function if and only if x is an
 expression which satisfies one of the four following conditions:
 (a) there exist natural numbers k and l such that x = ikl', (/3) there
-exists a sentential function y such that x = y ; (y) there exist sen­
-tential functions y and z such that x — y + z ; (8) there exists a
+exists a sentential function y such that x = y ; (y) there exist sentential functions y and z such that x — y + z ; (8) there exists a
 natural number k and a sentential function y such that x —
 
-The following expressions will serve as examples of sen­
-tential functions according to Def. 10: 'lx,x*\
+The following expressions will serve as examples of sentential functions according to Def. 10: 'lx,x*\
 'Nix,x",\
 cAIx,xm Ixmx,\ 'XT x,.NIx,x/, and so on. On the other hand
 the expressions 'I\ sIx,\ 'AIx,x,"\ 'XT I^x"\ etc., are not
@@ -11203,14 +10894,12 @@ funotion of the nth degree).
 
 178 CONCEPT OP TRUTH IN FORMALIZED LANGUAGES VH I, § 2
 
-expressions function as names of the above examples of sen­
-tential functions:
+expressions function as names of the above examples of sentential functions:
 
 and 'Hih,*'-
 
 D efinition 11. vkis a free variable of the sentential function x
-if and only if k is a natural number distinct from 0, and x is a sen­
-tential function which satisfies one of the following four conditions:
+if and only if k is a natural number distinct from 0, and x is a sentential function which satisfies one of the following four conditions:
 [a) there is a natural number l such that x = i^ orx — tZ(fc; (/?) there
 is a sentential function y such that vk is a free variable of y and
 x ~
@@ -11265,8 +10954,7 @@ V U I, § 2 CONCEPT OF TROTH IN FORMALIZED LANGUAGES 179
 
 In these axioms we replace the sentential variables 'p ', 'q\ and
 V by any sentential functions, and then to the expressions thus
-obtained, if they are not already sentences, we apply the opera­
-tion of universal quantification a sufficient uumber of times
+obtained, if they are not already sentences, we apply the operation of universal quantification a sufficient uumber of times
 until ail the free variables have disappeared. The following will
 serve aa examples:
 
@@ -11326,19 +11014,15 @@ PUds. 2~>~ Uev^if
 
 180 CONCEPT OF TROTH IN FORMALIZED LANGUAGES VILE, § 2
 
-In the formulation of the definition of the concept of con­
-sequence I shall use, among others, the following expression:
-*u is an expression obtained from the sentential function w by sub­
-stituting the variable vkfor the variable vf. The intuitive meaning of
-this expression is clear and simple, but in spite of this the defini­
-tion has a somewhat complicated form:
+In the formulation of the definition of the concept of consequence I shall use, among others, the following expression:
+*u is an expression obtained from the sentential function w by substituting the variable vkfor the variable vf. The intuitive meaning of
+this expression is clear and simple, but in spite of this the definition has a somewhat complicated form:
 
 D efin itio n 14. x is an expression obtained from the sentential
 function y by substituting the {free) variable vkfor the (free) variable
 vt if and only if k and l are natural numbers distinct from 0, and x
 and y are sentential f unctions which satisfy one of the following six
-conditions: (a) x = ikk and y = ilf,; (fi) there exists a natural num­
-ber m distinct from l> such that x = ikm and y = ilm or x — i^k and
+conditions: (a) x = ikk and y = ilf,; (fi) there exists a natural number m distinct from l> such that x = ikm and y = ilm or x — i^k and
 y =
 (y) vt is not a free variable of the function y and x = y\
 (S) there exist sentential functions z and t such that x = zsy = i,
@@ -11358,8 +11042,7 @@ For example, it follows from this definition that the expres­
 *1,3+ 02*2,3 are obtained from the
 sions
 functions: t2>2, Hs (4.2+4,s) and 12,3+ fl24.3 respectively by
-substituting v1 for v2. But the expression 0 1*1,3 cannot be ob­
-tained in this way from the function 02*2,3 nor the expression
+substituting v1 for v2. But the expression 0 1*1,3 cannot be obtained in this way from the function 02*2,3 nor the expression
 Oi*i,i from the function 02*2>i«
 
 1 The following is a normal definition which is equivalent to the above
@@ -11387,13 +11070,10 @@ VIII, § 2 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 181
 Among til© consequences of a given class of sentences we
 include first all the sentences belonging to this class, and all
 the sentences which can be obtained from these by applying,
-an arbitrary number of times, the four operations of substi­
-tution, detachment, and introduction and removal of the universal
+an arbitrary number of times, the four operations of substitution, detachment, and introduction and removal of the universal
 quantifier.1 If we had wished to apply these operations not
-only to sentences, but to arbitrary sentential functions, ob­
-taining thereby sentential functions as results, then the meaning
-of the operation of substitution would be completely deter­
-mined by Def. 14, the operation of detachment would correlate
+only to sentences, but to arbitrary sentential functions, obtaining thereby sentential functions as results, then the meaning
+of the operation of substitution would be completely determined by Def. 14, the operation of detachment would correlate
 the function z with the functions y and y+ z, the operation
 of introduction of the universal quantifier would consist in
 forming the function y+fl* z from the function y + z (provided
@@ -11412,8 +11092,7 @@ class X of sentences if and only if x e S, X £ S, n is a natural
 number and either (a) n = 0 and x e X , or n > 0 and one of the
 following five conditions is satisfied: (J3) x is a consequence of the
 n— Ith degree of the class X ; (y) there exist sentential functions u and
-w, a sentence y and natural numbers k and l such that x is the univer­
-sal quantification of the function u, y is the universal quantification
+w, a sentence y and natural numbers k and l such that x is the universal quantification of the function u, y is the universal quantification
 of the function w, u is obtainable from the function w by substituting
 the variable vkfor the variable vl9 and y is a consequence of the class
 X of the n—lth degree; (S) there exist sentential functions u and w
@@ -11497,8 +11176,7 @@ are axiom s; consequently by D ef. 15
 n i ( li A + ( ti A + tL l ) "fr* ( h . i + h . i ) )
 
 is a consequence of the 1st degree and
-is a conse­
-quence of the second degree of the class of all axioms. Hence by
+is a consequence of the second degree of the class of all axioms. Hence by
 Defs. 16 and 17 ni(ti,i+ti,i)18 a provable sentence.
 
 From examples of such inferences the difficulties can be
@@ -11507,20 +11185,16 @@ from the axioms of the metatheory the assumptions which are
 of an existential nature. The fact th&t the axioms would no
 longer guarantee the existence of some particular sentenoe,
 which we wish to demonstrate, is not of much consequence.
-Serious importance attached only to the fact that, even as­
-suming the existence of some concrete sentence, we could
+Serious importance attached only to the fact that, even assuming the existence of some concrete sentence, we could
 not establish its provability; since in the proof it would be
-necessary to refer to the existence of other, as a rule more com­
-plicated, sentences (as is seen in the proof of the theorem
+necessary to refer to the existence of other, as a rule more complicated, sentences (as is seen in the proof of the theorem
 Tlxfry+ha)
 which was sketohed above). So long as we
 are dealing with speoial theorems of the type 'x e Pr\ we oan
 take measures to provide these sentences with premisses which
 guarantee the existence of the sentences necessary for the proof.
-The difficulties would increase significantly if we passed to sen­
-tences of a general character which assert that all sentences of
-a certain kind are provable—or, still more generally, are con­
-sequences of the given class of sentences. It would then often be
+The difficulties would increase significantly if we passed to sentences of a general character which assert that all sentences of
+a certain kind are provable—or, still more generally, are consequences of the given class of sentences. It would then often be
 necessary to include among the premisses general existential
 assumptions which would not be weaker than those which, for
 intuitive reasons, we bad eliminated from the axioms.8
@@ -11532,13 +11206,11 @@ intuitive reasons, we bad eliminated from the axioms.8
 
 For these reasons the standpoint might be taken that Def.
 17, in case the existential assumptions are rejected, would no
-longer embrace all the properties which we ascribe to the con­
-cept of theorem. The problem of a suitable 'correction' of the
+longer embrace all the properties which we ascribe to the concept of theorem. The problem of a suitable 'correction' of the
 above definition would then arise. More precisely expressed,
 it would be a question of constructing a definition of theorem
 which would be equivalent to Def. 17 under the existential
-assumptions and yet—quite independently of these assump­
-tions—would have as consequences all theorems of the type
+assumptions and yet—quite independently of these assumptions—would have as consequences all theorems of the type
 * if the sentence x exists, then x e Pr\ provided the corresponding
 theorem 'x e Pr ' could be proved with the help of the existential
 assumptions. I shall give here a brief sketch of an attempt to
@@ -11546,11 +11218,9 @@ solve this problem.
 
 It can easily be shown that the axiom system adopted in the
 metatheory possesses an interpretation in the arithmetic of the
-natural numbers. A one-one correspondence can be set up be­
-tween expressions and natural numbers where operations on
+natural numbers. A one-one correspondence can be set up between expressions and natural numbers where operations on
 numbers having the same formal properties are correlated with
-the operations on expressions. If we consider this correspon­
-dence, we can pick out, from the class of all numbers, those which
+the operations on expressions. If we consider this correspondence, we can pick out, from the class of all numbers, those which
 are correlated with sentences; among these will be the 'primitive'
 numbers. We can introduce the concept of a 'consequence' of
 a given class of numbers, and finally define the 'accepted'
@@ -11581,13 +11251,11 @@ the above axiom.
 
 In connexion with the concepts of consequence and of theorem
 I have mentioned rules of inference. When we have in mind the
-construction of a deductive science itself, and not the investiga­
-tion of such a science carried out on the basis of the metatheory,
+construction of a deductive science itself, and not the investigation of such a science carried out on the basis of the metatheory,
 we give, instead of Def. 17, a rule by which we may add to the
 science as a theorem every consequence of the axioms. In our
 case this rule can be divided into four rules—corresponding to
-the four operations which we use in the construction of con­
-sequences.
+the four operations which we use in the construction of consequences.
 
 By means of the concepts o f sentence and o f consequence all
 the most important methodological concepts can be introduced
@@ -11638,8 +11306,7 @@ however, is not valid in the domain of provable sentences. A
 simple example of two mutually contradictory sentences (i.e.
 such that one is the negation of the other) neither of which is
 provable is provided by Lemma E below. The extension of the
-two concepts is thus not identical. Prom the intuitive stand­
-point all provable sentences are without doubt true sentences
+two concepts is thus not identical. Prom the intuitive standpoint all provable sentences are without doubt true sentences
 (the Defs. 13-17 of § 2 were formulated with that in mind).
 Thus the definition of true sentence which we are seeking must
 also cover sentences whioh are not provable.1
@@ -11668,12 +11335,10 @@ VU I, { 3 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 187
 
 L et ns try to approach the problem from quite a different angle,
 b y returning to the idea o f a semantical definition as in § 1, A s
-we know from § 2, to every sentenoe o f the language o f the cal­
-culus o f olasses there corresponds in the metalanguage not only a
+we know from § 2, to every sentenoe o f the language o f the calculus o f olasses there corresponds in the metalanguage not only a
 name o f this sentence o f the structural-descriptive kind, but
 
-also a sentence having the same meaning. For exam ple, corre­
-sponding to the sentenoe 'JJ a;,JJ x.Alx,x» Ix,x,' is the name
+also a sentence having the same meaning. For exam ple, corresponding to the sentenoe 'JJ a;,JJ x.Alx,x» Ix,x,' is the name
 and the sentence 'for any olasses a and b we
 have o c i or 6 £ o'. In order to make dear the content o f the
 concept o f truth in connexion with some one concrete sentenoe
@@ -11694,15 +11359,12 @@ the usual conditions o f methodological correctness and indude
 all partial definitions o f this type as spedal oases; that it should
 be, so to speak, their logical product. A t m ost we can also
 require that only sentences are to belong to the extension o f the
-defined concept, so that, on the basis o f the definition con­
-structed, all sentences o f the type 'x is not a true sentence*, in
-which in the place o f 'a?' we have the name o f an arbitrary ex­
-pression (or o f any other objeot) which is not a sentence, oan
+defined concept, so that, on the basis o f the definition constructed, all sentences o f the type 'x is not a true sentence*, in
+which in the place o f 'a?' we have the name o f an arbitrary expression (or o f any other objeot) which is not a sentence, oan
 be proved.
 
 Using the symbol ' 2 V to denote the class of all true sentences,
-the above postulate can be expressed in the follo wing conven­
-tion:
+the above postulate can be expressed in the follo wing convention:
 
 Convention T . A formally correct definition of the symbol
 
@@ -11724,8 +11386,7 @@ sentence into the metalanguage;
 
 *Tr c S').1
 
-It should be noted that the second part of the above con­
-vention is not essential; so long as the metalanguage already
+It should be noted that the second part of the above convention is not essential; so long as the metalanguage already
 has the symbol ' Tr9 which satisfies the condition (a), it is easy
 to define a new symbol 'Tr'9 which also satisfies the condition (jS).
 It suffices for this purpose to agree that Tr' is the common part
@@ -11737,49 +11398,38 @@ these sentences, then the problem of the construction of a correct
 definition of truth would present no difficulties. For this purpose
 it would suffice to complete the following scheme: x e Tr if and
 only if either x = xx andpv or x — x2 andp2,>.. or x — xn and pn,
-the symbols 'xx , 'x29,..., (xn9 being replaced by structuraldescriptive names of all the sentences of the language investi­
-gated and 'px > 'p2i..., (pn9 by the corresponding translation of
+the symbols 'xx , 'x29,..., (xn9 being replaced by structuraldescriptive names of all the sentences of the language investigated and 'px > 'p2i..., (pn9 by the corresponding translation of
 these sentences into the metalanguage. But the situation is not
-like this. Whenever a language contains infinitely many sen­
-tences, the definition constructed automatically according to the
+like this. Whenever a language contains infinitely many sentences, the definition constructed automatically according to the
 above scheme would have to consist of infinitely many words, and
 such sentences cannot be formulated either in the metalanguage
 
 1 If we wished to subject the metalanguage and the metatheory expressed
-in it to the process of formalization, then the exact specification of the mean­
-ing of various expressions which occur in the convention T would present
+in it to the process of formalization, then the exact specification of the meaning of various expressions which occur in the convention T would present
 no great difficulties, e,g. the expressions 'formally correct definition of the
 given symbol \ * structural-descriptive name of a given expression of the language
 studied\ 'the translation of a given sentence (of the language studied) into the
-metalanguage1. After unimportant modifications of its formulation the con­
-vention itself would then become a normal definition belonging to the meta­
-theory.
+metalanguage1. After unimportant modifications of its formulation the convention itself would then become a normal definition belonging to the metatheory.
 
 V m , § 3 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 189
 
-or in any other language. Our task is thus greatly com­
-plicated.
+or in any other language. Our task is thus greatly complicated.
 
 The idea of using the recursive method suggests itself. Among
 the sentences of a language we find expressions of rather varied
 kinds from the point of view of logical structure, some quite
 elementary, others more or less complicated. It would thus
 be a question of first giving all the operations by which simple
-sentences are combined into composite ones and then deter­
-mining the way in which the truth or falsity of composite
+sentences are combined into composite ones and then determining the way in which the truth or falsity of composite
 sentences depends on the truth or falsity of the simpler ones
 contained in them. Moreover, certain elementary sentences
 could be selected, from which, with the help of the operations
-mentioned, all the sentences of the language could be con­
-structed; these selected sentences could be explicitly divided
+mentioned, all the sentences of the language could be constructed; these selected sentences could be explicitly divided
 into true and false, by means, for example, of partial definitions
 of the type described above. In attempting to realize this idea
-we are however confronted with a serious obstacle. Even a super­
-ficial analysis of Defe. 10-12 of § 2 shows that in general com­
-posite sentences are in no way compounds of simple sentences.
+we are however confronted with a serious obstacle. Even a superficial analysis of Defe. 10-12 of § 2 shows that in general composite sentences are in no way compounds of simple sentences.
 Sentential functions do in fact arise in this way from elementary
-functions, i.e. from inclusions; sentences on the contrary are cer­
-tain special cases of sentential functions. In view of this fact, no
+functions, i.e. from inclusions; sentences on the contrary are certain special cases of sentential functions. In view of this fact, no
 method can be given which would enable us to define the required
 concept directly by recursive means. The possibility suggests
 itself, however, of introducing a more general concept which
@@ -11791,12 +11441,9 @@ in the present case by given classes of individuals.
 
 Let us try first to make clear by means of some examples the
 usual meaning of this notion in its customary linguistic usage.
-The way in which we shall do this represents a natural generaliza­
-tion of the method which we have previously used for the con­
-cept of truth.
+The way in which we shall do this represents a natural generalization of the method which we have previously used for the concept of truth.
 
-The simplest and clearest case is that in which the given sen­
-tential function contains only one free variable. We can then
+The simplest and clearest case is that in which the given sentential function contains only one free variable. We can then
 
 190 CONCEPT OP TRUTH IN FORMALIZED LANGUAGES V m , $ 8
 
@@ -11827,8 +11474,7 @@ the calculus of classes, and the corresponding explanation of the
 expression *a satisfies the given sentential funotion' is to be
 formulated wholly in the terms of the metalanguage, then in the
 above soheme we insert for 'p ' not the sentential function itself,
-but the expression of the metalanguage having the same mean­
-ing, and for V we substitute an individual name of this funotion
+but the expression of the metalanguage having the same meaning, and for V we substitute an individual name of this funotion
 whioh likewise belongs to the metalanguage. For example, this
 method gives the following formulation in connexion with the
 function 'JJ x, Ix,x.' :
@@ -11867,8 +11513,7 @@ functions from the calculus of classes, then the establishment of
 an unambiguous explanation of this expression is facilitated by
 the fact that all the variables whioh occur in the language of this
 science are ordered (enumerated) in a sequence. In considering
-the question of whioh sequences satisfy a given sentential func­
-tion, we shall always have in mind a one-many correspondence
+the question of whioh sequences satisfy a given sentential function, we shall always have in mind a one-many correspondence
 of certain terms of a sequence / with the free variables of the
 sentential function, where with every variable corresponds the
 term of the sequence with the same index (i.e. the term f k will
@@ -11891,8 +11536,7 @@ signs, and thus all the variables, of every given expression, e.g. on the basis 
 the natural order in whioh they follow one another in the expression: the
 sign standing on the extreme left could be called the first, the next the second,
 and so on. In this way we could again set up a certain correlation between the
-free variables of a given function and the terms of the sequence. This correla­
-tion (in contrast to the one described in the text) would obviously vary with
+free variables of a given function and the terms of the sequence. This correlation (in contrast to the one described in the text) would obviously vary with
 the form of the function in question j this would carry with it rather serious
 complications in the formulation of Def. 22 given below and especially of
 conditions (y) and ($).
@@ -11929,9 +11573,7 @@ quantification are perform ed on sentential functions.
 The operation o f universal quantification calls for special
 consideration. L et x be any sentential function, and assume
 that we already know which sequences satisfy the function x.
-Considering the m eaning o f the operation o f universal quan­
-tification, we shall say that the sequence / satisfies the func­
-tion f\kx (where h is a particular natural num ber) only if this
+Considering the m eaning o f the operation o f universal quantification, we shall say that the sequence / satisfies the function f\kx (where h is a particular natural num ber) only if this
 sequence itself satisfies the function x and does not cease to
 satisfy it even when the Jdih term o f this sequence varies in any
 w ay; in other words, i f every sequence which differs from
@@ -12064,8 +11706,7 @@ correct— at least in the sense previously laid down in the con ­
 vention T . It can be shown that the answer to this question is
 affirm ative: Def. 23 is an adequate definition of truth in the sense
 of convention T , since its consequences include all those required
-by this convention. Nevertheless it can be seen without diffi­
-culty (from the fa ct that the number o f these consequences is
+by this convention. Nevertheless it can be seen without difficulty (from the fa ct that the number o f these consequences is
 infinite) that the exact and general establishment o f this fact
 has no place within the limits o f the considerations so far brought
 forward. The p roof w ould require the setting up o f an entirely
@@ -12136,8 +11777,7 @@ satisfy the function P j2i1>2, which are such th a t/x §£ 6 for any class
 sequence / satisfies the function (J 2ti,2> he. *be negation o f the
 function f ) 2112, only i f there is a class b for which f x ^ 6 holds.
 M oreover, the sentence
-is only satisfied (by an arbi­
-trary sequ en ce/) if there is for an arbitrary class a, a class b for
+is only satisfied (by an arbitrary sequ en ce/) if there is for an arbitrary class a, a class b for
 w hich a £ 6. Finally by applying D ef. 23 we at once obtain one
 o f the theorems which were described in the condition (ot) o f the
 convention T :
@@ -12153,15 +11793,13 @@ theorems o f the calculus o f classes, that n.u.
 sentence.
 
 W e can proceed in an exactly analogous w ay with every other
-sentence o f the language we are considering. I f for such a sen­
-tence we construct a corresponding assertion described in the
+sentence o f the language we are considering. I f for such a sentence we construct a corresponding assertion described in the
 condition (a) and then apply the m ode o f inference used above,
 we can prove w ithout the least difficulty that this assertion is a
 consequence o f the definition o f truth which we have adopted.
 In m any cases, w ith the help o f only the simplest laws o f logic
 (from the dom ain o f the sentential calculus and the calculus of
-classes), we can draw definitive conclusions from theorems ob­
-tained in this w ay about the truth or falsity o f the sentences in
+classes), we can draw definitive conclusions from theorems obtained in this w ay about the truth or falsity o f the sentences in
 
 V III, $ 3 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 197
 
@@ -12181,13 +11819,11 @@ o f the convention T is also an obvious consequence o f our
 definition.
 
 W ith these discussions the reader will doubtless have reached
-the subjective conviction that D ef. 23 actually possesses the pro­
-perty which it is intended to have: it satisfies all the conditions
+the subjective conviction that D ef. 23 actually possesses the property which it is intended to have: it satisfies all the conditions
 o f convention T . In order to fix the conviction o f the material
 correctness o f the definition which has been reached in this way,
 it is w orth while studying some characteristic general theorems
-that can be derived from it. W ith a view to avoiding encum ber­
-ing this work with purely deductive m atter, I shall give these
+that can be derived from it. W ith a view to avoiding encum bering this work with purely deductive m atter, I shall give these
 theorems without exact proofs.2
 
 T h e o r e m 1 (The principle o f contradiction). For all sentences
@@ -12297,9 +11933,7 @@ sentence which is true in the usual sense if we restrict the extension
 o f the individuals considered to a given class a, or— somewhat
 m ore precisely— when we agree to interpret the terms 'individual ',
 'class o f individuals' , etc., as 'elem ent o f the class a ' , 'subclass o f
-the class a ' , e tc., respectively. W here we are dealing with the con­
-crete case o f sentences from the calculus o f classes we m ust inter­
-pret expressions o f the type 'J J xp' as '/o r every subclass x of the
+the class a ' , e tc., respectively. W here we are dealing with the concrete case o f sentences from the calculus o f classes we m ust interpret expressions o f the type 'J J xp' as '/o r every subclass x of the
 
 1 I f we wish to include the sentence f|i 0**1,* among the acceptable
 sentences (as is often the case, cf. p. 180, footnote) we could use here, instead of
@@ -12328,14 +11962,11 @@ pp. 347-8.
 
 200 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES VIII, § 3
 
-doss a we have p\ and expressions o f the type cIx y ' as 'the sub­
-class x of the class a is contained in the subclass y of the class a\
+doss a we have p\ and expressions o f the type cIx y ' as 'the subclass x of the class a is contained in the subclass y of the class a\
 W e obtain a precise definition o f this concept b y means o f a
-m odification o f Defe. 22 and 23. As derived concepts we in tro­
-duce the notion o f a correct sentence in an individual domain with
+m odification o f Defe. 22 and 23. As derived concepts we in troduce the notion o f a correct sentence in an individual domain with
 k elements and the notion o f a correct sentence in every individual
-domain. I t is w orthy o f note that— in spite o f the great im por­
-tance o f these terms for m etam athem atioal investigations— they
+domain. I t is w orthy o f note that— in spite o f the great im portance o f these terms for m etam athem atioal investigations— they
 have hitherto been used in a purely intuitive sense w ithout any
 attem pt to define their m eaning m ore closely.1
 
@@ -12345,16 +11976,13 @@ in the individual dom ain a if and only if a is a class of individuals,
 function satisfying one of the following four conditions: (a) there
 exist natural numbers k and l such that x = ikflandfk £ fy (/}) there
 is a sentential function y such that x = y and the sequencef does not
-satisfy y in the individual domain a; (y) there are sentential func­
-tions y and z such that x = y-\-z and f satisfies either y or z in the
-individual domain a; (8) there is a natural number k and a sen­
-tential function y such that x = HfcJ/ an^ everH infinite sequence
+satisfy y in the individual domain a; (y) there are sentential functions y and z such that x = y-\-z and f satisfies either y or z in the
+individual domain a; (8) there is a natural number k and a sentential function y such that x = HfcJ/ an^ everH infinite sequence
 g of subclasses of the class a which differs from f in at most the
 k-th place satisfies y in the individual domain a.
 
 D efin itio n 25. x is a correct (true) sentence in the individual
-dom ain a if and only if x e S and every infinite sequence of sub­
-classes of the class a satisfies the sentence x in the individual
+dom ain a if and only if x e S and every infinite sequence of subclasses of the class a satisfies the sentence x in the individual
 domain a.
 
 D e f i n it io n 26. x is a correct (true) sentence in an individual
@@ -12363,8 +11991,7 @@ exists a class a such that k is the cardinal number of the class a and x
 is a correct sentence in the individual domain a.
 
 1 An exception is furnished by Herbrand, J. (26) in which the author
-defines the concept of true sentence in a finite domain (pp. 108-12). A com­
-parison of Rerbrand's definition with Refs. 25 and 26 given in the text will
+defines the concept of true sentence in a finite domain (pp. 108-12). A comparison of Rerbrand's definition with Refs. 25 and 26 given in the text will
 lead the reader at once to the conclusion that we have to do here with likesounding terms rather than with a relationship of content. Nevertheless, it
 is possible that with respect to certain concrete deductive sciences, and under
 special assumptions for the corresponding metatheory, Herbrand's oonoept
@@ -12397,8 +12024,7 @@ x = r i l ( n 2 tl,2"l" U 2(t2>l ' €2))-
 
 As is easily seen, the sentential function ek states that the class
 denoted by the variable vk consists o f on ly one element ; the
-sentence a, which plays a great part in subsequent investiga­
-tions, states that every non-null class includes a one-elem ent
+sentence a, which plays a great part in subsequent investigations, states that every non-null class includes a one-elem ent
 class as a part.
 
 D efin itio n 30. x = j8n if and only if either n = 0 and
@@ -12439,8 +12065,7 @@ defined concepts and the m ore im portant connexions which
 relate them w ith notions already introduced. This is the place
 for some results o f a m ore special nature which are connected
 with the particular properties o f the calculus o f classes and
-cannot be extended to other disciplines o f related logical struc­
-ture (e.g, Ths. 11-13, 24, and 28).
+cannot be extended to other disciplines o f related logical structure (e.g, Ths. 11-13, 24, and 28).
 
 T heorem 8. I f a is a class of individuals and k the cardinal
 number of this doss, then in order that x should be a correct sentence
@@ -12454,8 +12079,7 @@ things) which follow s from D ef. 24:
 L emma F. Let a and b be two classes o f individuals and It a
 relation which satisfies the following conditions: (a) for any / '
 and g\ if f ,Rgf then f* is an infinite sequence of subclasses of a,
-and g' of subclasses of b; (jS) if f ' is any infinite sequence of sub­
-classes of a, then there is a sequence g' such thatf'Rg'; (y) ifg ' is any
+and g' of subclasses of b; (jS) if f ' is any infinite sequence of subclasses of a, then there is a sequence g' such thatf'Rg'; (y) ifg ' is any
 infinite sequence o f subclasses of b, then there is a sequence / ' such
 t h a t f ' R g (8) for all
 g \ f\ g\ k and l, if f'R g ', f 'B g ", and
@@ -12472,8 +12096,7 @@ L emma G. I f the classes a and b o f individuals have the same
 cardinal number, and x is a correct sentence in the individual
 domain a, then x is also a correct sentence in the individual domain 6.
 
-A ccording to Th. 8 (or Lem m a G) the extension o f the con­
-cept 'a sentence which is correct in the individual domain a9
+A ccording to Th. 8 (or Lem m a G) the extension o f the concept 'a sentence which is correct in the individual domain a9
 depends entirely on one property o f the class a, nam ely on its
 cardinal number. This enables us to neglect in the sequel all
 results concerning this concept, because they can be derived
@@ -12484,10 +12107,8 @@ V m , § 3 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 203
 
 W ith the help o f Defs. 24 and 25 the Ths. 1-6 and Lemmas
 A -D can be generalized b y replacing the expressions cinfinite
-sequence of classes', 'the sequence . . . satisfies the sentential func­
-tion . .
-'true sentence\ and so on, b y cinfinite sequence of sub­
-classes of the class a\ cthe sequence . . . salisfies the sentential
+sequence of classes', 'the sequence . . . satisfies the sentential function . .
+'true sentence\ and so on, b y cinfinite sequence of subclasses of the class a\ cthe sequence . . . salisfies the sentential
 function . . . in the individual domain a\ *correct sentence in the
 individual domain a\ and so on, respectively. As a consequence o f
 Th. 8 the results so obtained can be extended to sentences which
@@ -12513,8 +12134,7 @@ prove that— with respect to the language o f the calculus o f classes
 analogous to the definition o f provable sentence (Def. 17) and
 therefore has a structural character.
 
-Theorem 11. I f k is a natural number, and X the class con­
-sisting of all the axioms together with the sentences a and yk, then
+Theorem 11. I f k is a natural number, and X the class consisting of all the axioms together with the sentences a and yk, then
 Ctk = Cn(X).
 
 Theorem 12. I f k is an infinite cardinal number, and X the
@@ -12543,8 +12163,7 @@ difficult.1
 
 B y means o f Th. 9 and Lem m a I it is possible from Th. 12 to
 derive the follow ing consequence which com bined with Th. 11
-brings out the essential differences existing in the logical struc­
-ture o f the classes Ctk according to whether the cardinal num ber k
+brings out the essential differences existing in the logical structure o f the classes Ctk according to whether the cardinal num ber k
 is finite or infinite:
 
 T h e o r e m 13. I f k is an infinite cardinal number, then there is no
@@ -12630,10 +12249,8 @@ i.e. with the structural description of all complete systems of a given science,
 in application to various elementary deductive sciences (algebra of logic,
 arithmetic of real numbers, geometry of straight lines, theory of order, theory
 of groups); on the results of these investigations, reports were made in the
-seminar exercises in the methodology of the deductive sciences which I con­
-ducted in Warsaw University in the years 1927/8 and 1928/9. Cf. Presburger, M. (61) (especially note 4 on p. 95), and X I I , § 5. For a detailed
-discussion of certain closely related problems (as well as for further biblio­
-graphical references) see also the recent publications of the author, Tarski, A.
+seminar exercises in the methodology of the deductive sciences which I conducted in Warsaw University in the years 1927/8 and 1928/9. Cf. Presburger, M. (61) (especially note 4 on p. 95), and X I I , § 5. For a detailed
+discussion of certain closely related problems (as well as for further bibliographical references) see also the recent publications of the author, Tarski, A.
 (84) and (84 a).
 
 206 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES V ffl, § 3
@@ -12689,13 +12306,11 @@ This theorem is m ost easily proved with the help o f Ths. 11,
 
 12, and 18. B y using Lemma K we obtain from it at once:
 
-T h e o r e m 25. I f x e S , x e Ct and x e Ct, then there is a quanti­
-tative sentence y y which is equivalent to the sentence x with respect
+T h e o r e m 25. I f x e S , x e Ct and x e Ct, then there is a quantitative sentence y y which is equivalent to the sentence x with respect
 to the class Ct.
 
 B v reference to Lem m a L and Th. 24 we notice that we have
-the follow ing situation: the concept o f a sentence which is cor­
-rect in every individual dom ain has a larger extension than the
+the follow ing situation: the concept o f a sentence which is correct in every individual dom ain has a larger extension than the
 
 V m , § 3 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 207
 
@@ -12727,8 +12342,7 @@ T h e o r e m 27. Ct c Tr, but Tr £ Ct.
 
 I f we bring together Ths. 26 and 14 or Ths. 11 and 12, we
 reach the conclusion that those assumptions o f the m etatheory
-which determine the cardinal num ber o f the class o f all indivi­
-duals (and which do not intervene in the p roof o f Th. 26 itself)
+which determine the cardinal num ber o f the class o f all individuals (and which do not intervene in the p roof o f Th. 26 itself)
 exert an essential influence on the extension o f the term 'true
 sentence' . The extension o f this term is different according to
 whether that class is finite or infinite. In the first case the
@@ -12748,10 +12362,8 @@ in question is not satisfied.
 
 208 CONCEPT OP TRUTH IN FORMALIZED LANGUAGES V m , § 3
 
-Because we can show, on the basis o f the system o f assum p­
-tions here adopted, that the class o f all individuals is infinite,
-T h. 26 in com bination w ith T h. 12 makes a structural character­
-ization o f true sentences possible:
+Because we can show, on the basis o f the system o f assum ptions here adopted, that the class o f all individuals is infinite,
+T h. 26 in com bination w ith T h. 12 makes a structural characterization o f true sentences possible:
 
 Theorem 28, In order that x e Tr, it is necessary and sufficient
 that x is a consequence of the class which consists o f all the axioms
@@ -12759,10 +12371,8 @@ together with the sentence a. and aU sentences y" where l is any
 natural number.
 
 This sentence could, in its form , obviously be regarded as
-a definition o f true sentence. I t w ould then be a purely struc­
-tural definition, com pletely analogous to D ef. 17 o f provable
-theorem . B u t it m ust be strongly em phasized that the pos­
-sibility o f constructing a definition o f such a kind is purely
+a definition o f true sentence. I t w ould then be a purely structural definition, com pletely analogous to D ef. 17 o f provable
+theorem . B u t it m ust be strongly em phasized that the possibility o f constructing a definition o f such a kind is purely
 aooidental. W e 6we it to the speoifio peculiarities o f the science
 in question (to those peculiarities which, am ong others, have
 been expressed in Lem m a K , w hich is the m ost essential prem iss
@@ -12775,8 +12385,7 @@ applied to other deductive sciences.
 I t is w orth noticing that b y analysing the p ro o f o f Th. 28 and
 o f the lemmas from w hich this theorem follow s, we can obtain a
 general structural criterion o f truth for all sentences o f the
-language investigated. From Th. 28 such a criterion for quantita­
-tive sentences is easily derivable, and the p ro o f o f Lem m a K
+language investigated. From Th. 28 such a criterion for quantitative sentences is easily derivable, and the p ro o f o f Lem m a K
 allows us effectively to correlate w ith every sentence o f the
 language a sentence which is equivalent to it and which, i f it is
 n ot quantitative, is m anifestly true or m anifestly false. An
@@ -12807,15 +12416,13 @@ Finite Order
 The methods of construction which I have used in the previous
 section for the investigation of the language of the oaloulus of
 classes can be applied, without very important ohanges, to
-many other formalized languages, even to those with a consider­
-ably more complicated logical structure. In the following pages
+many other formalized languages, even to those with a considerably more complicated logical structure. In the following pages
 the generality of these methods will be emphasized, the limits
 of their applicability will be determined, and the modifications
 which they undergo in their various concrete applications will be
 briefly described.
 
-It is by no means my intention, in these investigations, to con­
-sider all languages that can conceivably be imagined, or which
+It is by no means my intention, in these investigations, to consider all languages that can conceivably be imagined, or which
 any one at any time could or might wish to construct; such an
 attempt would be condemned to failure from the start. In what
 I shall say here I shall consider exclusively languages of the same
@@ -12843,8 +12450,7 @@ in a line, but in others the signs may lie at different levels, not
 only alongside but also below one another. This calligraphy of
 the language nevertheless exerts a fairly strong influence on the
 form of the constructions in the domain of the metalanguage, as
-will doubtless be seen from a brief survey of the preceding para­
-graphs.1 For those reasons alone the following exposition will
+will doubtless be seen from a brief survey of the preceding paragraphs.1 For those reasons alone the following exposition will
 have the nature of a sketch; wherever it takes a more precise
 form, it is dealing with concretely described languages which are
 constructed in the same way as the language of the calculus of
@@ -12856,11 +12462,9 @@ Before we approach our principal task—the construction of
 the definition of true sentence—we must undertake, in every
 concrete case, the construction of a corresponding metalanguage
 and the establishment of the metatheory which forms the proper
-field of investigation. A metalanguage which meets our require­
-ments must contain three groups of primitive expressions:
+field of investigation. A metalanguage which meets our requirements must contain three groups of primitive expressions:
 (1) expressions of a general logical kind; (2) expressions having
-the same meaning as all the constants of the language to be dis­
-cussed or which suffice for the definition of such expressions
+the same meaning as all the constants of the language to be discussed or which suffice for the definition of such expressions
 (taking as a basis the rules of definition adopted in the meta-
 
 1 Cf., for example, p. 191, footnote.
@@ -12871,8 +12475,7 @@ logic. Such a language can be regarded as a universal language in the sense
 that all other formalized languages— apart from ' caUigraphioal' differences—
 are either fragments of it, or can be obtained from it or from its fragments
 by adding certain constants, provided that the semantical categories of these
-constants (cf. below, pp. 215 ff.) are already represented by certain expres­
-sions o f the given language. The presence or absence of such constants exerts,
+constants (cf. below, pp. 215 ff.) are already represented by certain expressions o f the given language. The presence or absence of such constants exerts,
 as we shall show, only a minimal influence on the solution of the problem in
 which we are interested. As such a language we could choose the language
 of the general theory of sets which will be discussed in § 5, and which might
@@ -12905,11 +12508,9 @@ first group (as well as the rules o f definition and inference) m ay
 be taken from any sufficiently developed system o f m athem atical
 logic; the expressions and axiom s o f the second group naturally
 depend on the special peculiarities o f the language investigated;
-for the third group suitable exam ples are provided in the presen­
-tation o f § 2. It is to be noted that the two first groups o f prim itive
+for the third group suitable exam ples are provided in the presentation o f § 2. It is to be noted that the two first groups o f prim itive
 
-1 It ha3 already been mentioned (p. 167) that we are here interested ex­
-clusively in those deductive sciences which are not 'formal7 in a quite special
+1 It ha3 already been mentioned (p. 167) that we are here interested exclusively in those deductive sciences which are not 'formal7 in a quite special
 meaning of this word. 1 have, moreover, brought forward various conditions—
 of an intuitive not, a formal nature —which are satisfied by the sciences here
 investigated: a strictly determinate and understandable meaning of the
@@ -12945,14 +12546,10 @@ whioh are connected with the individual peculiarities of the
 language and denote concrete individuals, classes, or relations;
 suoh, for example, as the inclusion sign of the language of the
 caloulus of classes, whioh denotes a particular relation between
-classes of individuals. Usually there are infinitely many vari­
-ables. According to their form, and the interpretation of the
-language, they represent names of individuals, classes, or rela­
-tions (sometimes there are also variables which represent sen­
-tences, i.e. the so-called sentential variables).1 Among the
+classes of individuals. Usually there are infinitely many variables. According to their form, and the interpretation of the
+language, they represent names of individuals, classes, or relations (sometimes there are also variables which represent sentences, i.e. the so-called sentential variables).1 Among the
 expressions whioh are formed from the signs of both kinds, we
-distinguish first of all the primitive sentential functions, corre­
-sponding to the inclusions ikj of the caloulus of classes. The
+distinguish first of all the primitive sentential functions, corresponding to the inclusions ikj of the caloulus of classes. The
 exact description of the form of the sentential functions and the
 specification of their intuitive sense will depend upon the special
 peculiarities of the language in question. In any case they are
@@ -12970,28 +12567,23 @@ V in , § 4 CONCEPT OF TROTH IN FORMALIZED LANGUAGES 213
 
 names. The first sign o f such a com plex is always the name o f a
 class or a relation or a corresponding variable, and is called a
-(sentence forming) functor of the given primitive sentential func­
-tion ? the remaining signs are called arguments, nam ely 1st,
+(sentence forming) functor of the given primitive sentential function ? the remaining signs are called arguments, nam ely 1st,
 2nd,..., ifcth argument— according to the place they occu py.
 F or every constant and variable o f the language studied— with
 the exception o f the constants o f the sentential calculus and the
 universal and existential quantifiers— a prim itive function can
 be constructed which contains this sign (the sentential variables,
 even when they appear in the language, do not occu r in the
-prim itive functions as functors or arguments, bu t each is re­
-garded as an independent prim itive function). N ext we introduce
+prim itive functions as functors or arguments, bu t each is regarded as an independent prim itive function). N ext we introduce
 the fundamental operations on expressions b y means o f which
 com posite expressions are form ed from sim pler ones. In addition
 to the operations o f negation, logical addition and universal
 quantification, which we have m et with in § 2 (Defs. 2, 3, and 6),
 we consider here other analogously defined operations, such
-as logical m ultiplication, form ation o f im plications and equiva­
-lences, as well as existential quantification. Each o f these
-operations consists in putting in front o f the expression con­
-sidered, or in front o f tw o successive expressions (according to
+as logical m ultiplication, form ation o f im plications and equivalences, as well as existential quantification. Each o f these
+operations consists in putting in front o f the expression considered, or in front o f tw o successive expressions (according to
 thekind o f operation), either one o f the constants o f the sentential
-calculus w hich belongs to the language, or one o f the tw o quanti­
-fiers together w ith the variables im m ediately follow ing it. The
+calculus w hich belongs to the language, or one o f the tw o quantifiers together w ith the variables im m ediately follow ing it. The
 expressions which we obtain from the prim itive functions b y
 applying to them any num ber o f times and in any order any o f
 
@@ -13003,11 +12595,9 @@ in any case it certainly does not agree with the spirit and formal structure
 of the language of everyday life. Without going into details, it seems to me
 for various reasons to bo neither necessary nor useful to distinguish between
 these two categories of expressions (i.e. sentence-forming functors and names
-of classes or relations). Moreover, the whole question is rather of a termino­
-logical nature and is without influence on subsequent developments. W e may
+of classes or relations). Moreover, the whole question is rather of a terminological nature and is without influence on subsequent developments. W e may
 either regard the definition of functor given in the text as purely formal and
-disregard the current interpretation of the term, or so extend the interpreta­
-tion of terms like ' name of a class', ' name of a relation' that we include
+disregard the current interpretation of the term, or so extend the interpretation of terms like ' name of a class', ' name of a relation' that we include
 expressions which are not names in the usual sense.
 
 214 CONCEPT OF TROTH IN FORMALIZED LANGUAGES VHI, § 4
@@ -13018,15 +12608,12 @@ distinguish— by means o f recursive definitions—free and bound
 variables. Sentential functions w ithout free variables are called
 sentences (cf. Defs. 10-12 in § 2).
 
-N ext we define yet other concepts which are closely con­
-nected w ith the deductive character o f the science under in­
-vestigation, nam ely the concepts o f axiom, consequence, and
+N ext we define yet other concepts which are closely connected w ith the deductive character o f the science under investigation, nam ely the concepts o f axiom, consequence, and
 theorem. Am ong the axiom s we include as a rule certain logical
 sentences which are constructed in a manner similar to that used
 for the first kind o f axiom s o f the calculus o f classes (cf. § 2,
 D ef. 13). M oreover the definition o f axiom depends w holly on
-the individual peculiarities o f the science investigated, som e­
-tim es even on accidental factors which are connected with its
+the individual peculiarities o f the science investigated, som etim es even on accidental factors which are connected with its
 historical developm ent. In the definition o f the concept o f
 consequence we follow —mutatis mutandis— the pattern o f § 2.
 The operations b y means o f which we form the, consequences o f a
@@ -13048,8 +12635,7 @@ o f recursive definition. F or this purpose it suffices— recalling
 the recursive definition o f sentential function and bearing in
 m ind the intuitive sense o f the prim itive sentential functions
 and the fundam ental operations on expressions— to establish
-tw o facts: (1) which sequences satisfy the fundam ental func­
-tions, and (2) how the concept o f satisfaction behaves under
+tw o facts: (1) which sequences satisfy the fundam ental functions, and (2) how the concept o f satisfaction behaves under
 the application o f any o f the fundam ental operations (or to put
 
 V III, § 4 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 215
@@ -13059,18 +12645,15 @@ which are obtained from given sentential functions b y means
 o f one o f the fundam ental operations, assuming that it has
 already been established which sequences satisfy the sentential
 functions to which the operation is applied). As soon as we have
-succeeded in m aking precise the sense o f this concept o f satis­
-faction, the definition o f truth presents no further difficulty:
+succeeded in m aking precise the sense o f this concept o f satisfaction, the definition o f truth presents no further difficulty:
 the true sentences m ay be defined as those sentences which are
 satisfied b y an arbitrary sequence o f objects.
 
 In carrying out the plan just sketched in connexion with various
-concrete languages we nevertheless m eet with obstacles o f a fun­
-dam ental kind; in fact, just at the point where we try finally to
+concrete languages we nevertheless m eet with obstacles o f a fundam ental kind; in fact, just at the point where we try finally to
 form ulate the correct definition o f the concept o f satisfaction. In
 order to make clear the nature o f these difficulties a concept
-must first be discussed which we have not hitherto had an oppor­
-tunity o f introducing, nam ely the concept o f semantical category.
+must first be discussed which we have not hitherto had an opportunity o f introducing, nam ely the concept o f semantical category.
 This concept, which we owe to E . Husserl, was introduced
 into investigations on the foundations o f the deductive sciences
 by Le^niewski. From the form al point o f view this concept plays
@@ -13081,8 +12664,7 @@ are concerned, it corresponds (approxim ately) rather to the
 well-known concept o f part o f speech from the grammar o f
 colloquial language. W hilst the theory o f types was thought
 o f chiefly as a kind o f prophylactic to guard the deductive
-sciences against possible antinom ies, the theory o f seman­
-tical categories penetrates so deeply into our fundamental
+sciences against possible antinom ies, the theory o f semantical categories penetrates so deeply into our fundamental
 intuitions regarding the meaningfulness o f expressions, that it is
 scarcely possible to im agine a scientific language in which the
 sentences have a clear intuitive meaning but the structure o f
@@ -13099,31 +12681,26 @@ paragraph of the text, compare the Postscript to this article (p. 268).
 
 For reasons mentioned at the beginning of this section we
 cannot offer here a precise structural definition of semantical
-category and will content ourselves with the following approxi­
-mate formulation: two expressions belong to the same semantical
+category and will content ourselves with the following approximate formulation: two expressions belong to the same semantical
 category if (l) there is a sentential function which contains one of
 these expressions, andif (2) no sentential function which contains
 one of these expressions ceases to be a sentential function if
 this expression is replaced in it by the other. It follows from
-this that the relation of belonging to the same category is re­
-flexive, symmetrical, and transitive. By applying the principle
+this that the relation of belonging to the same category is reflexive, symmetrical, and transitive. By applying the principle
 of abstraction,1 all the expressions of the language which are
 parts of sentential functions can be divided into mutually
 exclusive classes, for two expressions are put into one and the
 same class if and only if they belong to the same semantical
-category, and each of these classes iB called a semantical cate­
-gory. Among the simplest examples of semantical categories it
+category, and each of these classes iB called a semantical category. Among the simplest examples of semantical categories it
 suffices to mention the category of the sentential functions,
 further the categories which include respectively the names of
 individuals, of classes of individuals, of two-termed relations
 between individuals, and so on. Variables (or expressions "with
-variables) which represent names of the given categories like­
-wise belong to the same category.
+variables) which represent names of the given categories likewise belong to the same category.
 
 In connexion with the definition of semantical category the
 following question arises: in order to establish the fact that two
-given expressions belong to one and the same semantical cate­
-gory, is it necessary to consider all possible sentential functions
+given expressions belong to one and the same semantical category, is it necessary to consider all possible sentential functions
 which contain one of the given expressions and to investigate
 their behaviour when one of these expressions is replaced by the
 other, or does it suffice to make this observation in some or even
@@ -13152,11 +12729,9 @@ belong to the same sem antical category as the corresponding
 variables.1 2 * * * * * 8 Closely connected w ith this principle is a general
 law concerning the sem antical categories o f sentence-form ing
 functors: the functors o f tw o prim itive sentential functions
-belong to the same category i f and only if the number o f argu­
-ments in the tw o functions is the same, and if any tw o arguments
+belong to the same category i f and only if the number o f arguments in the tw o functions is the same, and if any tw o arguments
 which occu p y corresponding places in the tw o functions also
-belong to the same category. From this it follow s that, in par­
-ticular, no sign can be sim ultaneously a functor o f tw o functions
+belong to the same category. From this it follow s that, in particular, no sign can be sim ultaneously a functor o f tw o functions
 w hich possess a different num ber o f arguments, or o f tw o such
 functions (even if they possess the same number o f arguments)
 
@@ -13172,13 +12747,11 @@ expressions, it can easily be shown that even the first principle of semantical
 categories loses its validity. This fact is of no essential importance for our
 investigations, for we shall apply the concept of semantical category, not to
 composite expressions, but exclusively to variables. On the other hand, the
-examples which we shall encounter in the sequel show that the above formula­
-tions admit of very far-reaching simplifications in concrete cases. Thanks to
+examples which we shall encounter in the sequel show that the above formulations admit of very far-reaching simplifications in concrete cases. Thanks to
 a suitable choice of the signs used in the construction of the expressions of
 the language, the mere shape of the sign (and even of the composite expression)
 decides to which category it belongs. Consequently it is possible that in
-methodological and semantical investigations concerning a concrete lan­
-guage, the concept of semantical category does not explicitly occur at
+methodological and semantical investigations concerning a concrete language, the concept of semantical category does not explicitly occur at
 All
 
 8 In the language of the calculus of classes, and in the languages which
@@ -13201,10 +12774,8 @@ only o f the sem antical categories o f the variables): (1) the
 1st order is assigned only to the names o f individuals and to
 the variables representing them ; (2) am ong expressions o f the
 1th order, where n is any natural number, we include the
-functors o f all those prim itive functions all o f whose argu­
-ments are o f at m ost the nth order, where at least one o f them
-m ust be o f exactly the nth order. Thanks to the above con­
-vention all expressions w hich belong to a given semantical
+functors o f all those prim itive functions all o f whose arguments are o f at m ost the nth order, where at least one o f them
+m ust be o f exactly the nth order. Thanks to the above convention all expressions w hich belong to a given semantical
 category have the same order assigned to them , which is therefore
 called the order o f that category.2 On the other hand the category
 
@@ -13214,8 +12785,7 @@ are to be found in formalized languages. For example, it does not include
 sentential variables and functors with sentences as arguments— i.e. signs
 which occur in the sentential calculus— neither does it include functors which,
 together with the corresponding arguments, form expressions which belong
-to one of the categories distinct from sentential functions, such as the name­
-forming functors mentioned on p. 213, footnote.
+to one of the categories distinct from sentential functions, such as the nameforming functors mentioned on p. 213, footnote.
 
 In view of this, the definition of order given in the text could be widened
 in the following way: (1) to the 1st order belong sentences, names of individuals
@@ -13245,8 +12815,7 @@ individuals and the names o f tw o-, three-, and m any-term ed
 relations between individuals are expressions o f the 2nd
 order.
 
-It is desirable to classify the sentential functions o f the lan­
-guage according to the semantical categories o f the free variables
+It is desirable to classify the sentential functions o f the language according to the semantical categories o f the free variables
 occurring in them . W e shall say o f tw o functions that they possess
 the same semantical type i f the number o f free variables o f every
 sem antical oategory in the tw o functions is the same (or, in other
@@ -13257,8 +12826,7 @@ corresponds). The class o f all sentential functions w hich possess
 the same type as a given function we can call a semantical
 type.
 
-W e sometimes use the term 'sem antical category ' in a deriva­
-tive sense, b y applying it, not to the expressions o f the language,
+W e sometimes use the term 'sem antical category ' in a derivative sense, b y applying it, not to the expressions o f the language,
 but to the objects w hich they denote. Such 'hypostatizations'
 are not quite correct from a logical standpoint, but they sim plify
 the form ulation o f m any ideas. W e say, for exam ple, that all
@@ -13274,8 +12842,7 @@ game category. A class and a relation, or tw o relations having
 different numbers o f terms never belong to the same category.
 It also follow s that there can be no class whose elements belong to
 tw o or m ore semantical categories; in an analogous way there can
-be no sequence whose terms belong to distinct semantical cate­
-gories. Individuals are sometimes called objects o f the 1st order,
+be no sequence whose terms belong to distinct semantical categories. Individuals are sometimes called objects o f the 1st order,
 
 220 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES V m , § 4
 
@@ -13295,9 +12862,7 @@ m ay undergo a significant restriction in both their number
 and their order. As we shall see, the degree o f difficulty which
 we have to overcom e in the construction o f a correct definition
 o f truth for a given concrete language, depends in the first
-place on this m ultiplicity o f the semantical categories appear­
-ing in the language, or, m ore exactly, on whether the ex­
-pressions and especially the variables o f the language belong
+place on this m ultiplicity o f the semantical categories appearing in the language, or, m ore exactly, on whether the expressions and especially the variables o f the language belong
 to a finite or an infinite num ber o f categories, and in the latter
 case on whether the orders o f all these categories are bounded
 above or not. From this point o f view we can distinguish
@@ -13340,8 +12905,7 @@ or relations, according to the intended interpretation and the
 sem antical categories o f the variables occurring in the language.*
 A particularly sim ple exam ple o f a language o f the 1st kind
 w hich is w orthy o f attention is the language o f the ordinary
-sentential calculus enlarged b y the introduction o f the uni­
-versal and existential quantifiers. The sim plicity o f this language
+sentential calculus enlarged b y the introduction o f the universal and existential quantifiers. The sim plicity o f this language
 lies, am ong other things, in the fa ct that the concept o f variable
 coincides w ith that o f prim itive sentential function. In the
 m etatheory o f the sentential calculus tw o different definitions
@@ -13357,8 +12921,7 @@ for th is language a definition o f true sentence strictly according
 1 Certain complications, which I shall not discuss here, arise if in addition
 to variables, composite expressions of the same semantical category also occur
 in the language investigated; the complete language of the oalculus of classes
-which was mentioned on p. 168, note 3, will serve as an example, or the lan­
-guage of a system of arithmetic investigated in Preeburger, M. (61) (cf. also
+which was mentioned on p. 168, note 3, will serve as an example, or the language of a system of arithmetic investigated in Preeburger, M. (61) (cf. also
 p. 212, footnote).
 
 * Cf. Hilbert, D ., and Ackermann, W . (30), pp. 84-85; Lukasiewicz, J. (51),
@@ -13369,8 +12932,7 @@ pp. 164 ft.; IV , § 4.
 
 to the pattern given in § 3, we can easily convince ourselves that
 it represents a simple transform ation o f the second o f these
-definitions o f provable sentence, and thus the tw o terms 'p rov­
-able theorem ' and 'true sentence' in this case have the same
+definitions o f provable sentence, and thus the tw o terms 'p rovable theorem ' and 'true sentence' in this case have the same
 extension. This fa ct provides us, am ong other things, w ith a
 general structural criterion for the truth o f the sentences o f this
 language. The m ethod o f construction laid down in the present
@@ -13380,8 +12942,7 @@ calculus.
 
 Serious difficulties only arise when we consider languages o f
 m ore com plicated structure, e.g. languages o f the 2nd, 3rd,
-and 4th kinds. W e m ust now analyse these difficulties and de­
-scribe the m ethods which enable us at least partially to overcom e
+and 4th kinds. W e m ust now analyse these difficulties and describe the m ethods which enable us at least partially to overcom e
 them . In order to make the exposition as dear and preoise as
 possible I shall discuss in som ewhat greater detail som e ooncrete
 form alized languages, one o f each kind. I shall try to choose
@@ -13404,9 +12965,7 @@ those o f the 2nd order names o f tw o-term ed relations between
 individuals. From the m aterial and also— in agreement with
 the further description o f the language— from the formal
 
-1 This is a fragment of the language of the algebra of relations, the founda­
-tions of which are given in Schroder, E. (62), vol. 3— a fragment which never­
-theless suffices to express every idea which can be formulated in this language.
+1 This is a fragment of the language of the algebra of relations, the foundations of which are given in Schroder, E. (62), vol. 3— a fragment which nevertheless suffices to express every idea which can be formulated in this language.
 
 V III, $ 4 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 223
 
@@ -13416,29 +12975,22 @@ poin t o f view , the signs
 sem antical categories. Expressions o f the form
 regarded as prim itive sentential functions, where in the place
 o f 'X ' any variable o f the 2nd order, and in the place o f 'y'
-and V any variables o f the 1st order m ay appear. These expres­
-sions are read: 'the individual y stands in the relation X to the
+and V any variables o f the 1st order m ay appear. These expressions are read: 'the individual y stands in the relation X to the
 individual z' and they are denoted— according to the form o f the
 variables— b y the sym bols 'pkj,m' - 3fy the use o f the sign
 from §2 we specify that pkl<m — (Yk^ vd ^ vm. The definitions
 o f the fundam ental operations on expressions, as well as those
-o f sentential function, sentence, consequence, provable sen­
-tence, and so on, are all quite analogous to the definitions o f
+o f sentential function, sentence, consequence, provable sentence, and so on, are all quite analogous to the definitions o f
 § 2. B ut it m ust always be borne in m ind that in this language
-tw o distinct categories o f variables appear and that the expres­
-sions Pkjjn play the part o f the inclusions tjy. In connexion with
+tw o distinct categories o f variables appear and that the expressions Pkjjn play the part o f the inclusions tjy. In connexion with
 the first o f these facts we have to consider not one operation o f
 quantification (Defe. 6 and 9) but two analogous operations:
 w ith respect to a variable o f the 1st order as well as with respect
 to a variable o f the 2nd order, the results o f whioh are denoted
 b y the sym bols ' H * * ' , an<I ' fife * ' or '\J'kx ' and
-respec­
-tively. Correspondingly there will be tw o operations o f sub­
-stitution. A m ong the axiom s o f the logic o f relations we include
+respectively. Correspondingly there will be tw o operations o f substitution. A m ong the axiom s o f the logic o f relations we include
 the sentences which satisfy the condition (a) o f D ef. 13, i.e.
-substitutions o f the axiom s o f the sentential calculus, and uni­
-versal quantifications o f these substitutions, and also all sen­
-tences w hich are universal quantifications o f expressions o f the
+substitutions o f the axiom s o f the sentential calculus, and universal quantifications o f these substitutions, and also all sentences w hich are universal quantifications o f expressions o f the
 
 ^ >6
 where k, l, and m are any natural numbers (l =a to) and y any
@@ -13449,8 +13001,7 @@ category m ay be called pseudodefinitions.1
 1 This term we owe to Le&mewski, who has drawn attention to the necessity
 of including pseudodefinitions among the axioms of the deductive sciences in
 those cases in which the formalization of the science does not admit the
-possibility of constructing'suitable definitions (of. p. 166, footnote). Pseudo­
-definitions can be regarded as a substitute for the axiom of reducibilUy of
+possibility of constructing'suitable definitions (of. p. 166, footnote). Pseudodefinitions can be regarded as a substitute for the axiom of reducibilUy of
 Whitehead, A . N ., and Bussell, B. A . W . (90), vol. 1, pp. 55 ff. It would not
 be difficult to show the connexion between these sentences and a group of
 axioms adopted in Neumann, J. v. (54), p. 18.
@@ -13468,11 +13019,9 @@ strongly ambiguous character; it included relations in which the
 number o f terms was diverse, relations whose last domain was a
 class o f sentential functions, whilst the other domains—in the
 case o f the language o f the calculus of classes— consisted of
-objects o f one and the same category, namely olasses o f indi­
-viduals. Strictly speaking we were dealing not with one concept,
+objects o f one and the same category, namely olasses o f individuals. Strictly speaking we were dealing not with one concept,
 but with an infinite number o f analogous concepts, belonging to
-different semantical categories. I f we had formalized the meta­
-language it would have been necessary to use infinitely many
+different semantical categories. I f we had formalized the metalanguage it would have been necessary to use infinitely many
 distinct terms instead of the one term 'satisfies'. The semantical
 ambiguity o f this concept increases still more when we pass to
 languages o f more complicated logical structure. I f we continue
@@ -13519,14 +13068,11 @@ is satisfied by those and only those individuals a and b which
 satisfy the following condition: for every relation R, if aRb,
 then bRa, i.e. individuals which are identical. In the above
 examples we have sentential functions belonging to four different
-semantical types, and we are, therefore, dealing with four differ­
-ent relations o f satisfaction, in spite o f the fact that the number
+semantical types, and we are, therefore, dealing with four different relations o f satisfaction, in spite o f the fact that the number
 o f free variables and also the number o f terms in the relations is
 the same in the first two examples.
 
-The semantical ambiguity attaching to the concept o f satis­
-faction in its original conception renders an exact characteriza­
-tion o f this concept in a single sentence, or even in a finite number
+The semantical ambiguity attaching to the concept o f satisfaction in its original conception renders an exact characterization o f this concept in a single sentence, or even in a finite number
 of sentences, impossible, and so denies us the use o f the only
 method so far known to us of constructing a definition of a true
 sentence. In order to avoid this ambiguity, in dealing with the
@@ -13535,19 +13081,16 @@ logicians and mathematicians in similar situations. Instead o f
 using infinitely many concepts o f satisfaction of a sentential
 1 Moreover, functions o f one semantical type can correspond to several
 semantically distinct concepts o f satisfaction, provided the free variables of
-these functions belong to at least two distinct semantical categories; in addi­
-tion to the number and the categories of the variables their arrangement
+these functions belong to at least two distinct semantical categories; in addition to the number and the categories of the variables their arrangement
 must also be taken into consideration.
 
 226 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES VIII, $ 4
 
-function by single objects, we tried to operate with the semanti­
-cally uniform, if somewhat artificial, concept o f the satisfaction
+function by single objects, we tried to operate with the semantically uniform, if somewhat artificial, concept o f the satisfaction
 o f a function by a sequence o f objects. It happened that this
 concept is sufficiently more general than the . previous one to
 include it—intuitively speaking—as a special case (to define the
-logical nature o f this inclusion would, however, be a little diffi­
-cult). It will easily be seen that this method cannot be applied to
+logical nature o f this inclusion would, however, be a little difficult). It will easily be seen that this method cannot be applied to
 the present problem without further difficulty. Satisfaction in
 its new form is a two-tormed relation, whose domain consists o f
 sequences and counter domain o f sentential functions. As
@@ -13588,10 +13131,8 @@ the semantical diversity o f the terms o f the relations, has lost
 none o f its force.
 
 Nevertheless the methods used in § S can be applied to the
-language now being investigated, although with certain modifica­
-tions. In this case also it is possible to find an interpretation o f
-the oonoept o f satisfaction in whioh this notion loses its seman­
-tical ambiguity and at the same time becomes so general that it
+language now being investigated, although with certain modifications. In this case also it is possible to find an interpretation o f
+the oonoept o f satisfaction in whioh this notion loses its semantical ambiguity and at the same time becomes so general that it
 indudes all special oases o f the original concept. In fact, two
 different methods are available; I shall call them the method of
 many-rowed sequences and the method of semantical unification
@@ -13609,9 +13150,7 @@ o f individuals and the sequence F of relations together satisfy
 the function p, 9 y if and only if the individual / s stands in the
 relation Ft to the individual / 8. In order to formulate a general
 definition we proceed exactly in the manner o f Def. 22 in § 3,
-oare being taken to remember that, in the language we are con­
-sidering, the expressions th, , " play the part o f primitive senten­
-tial functions and that instead o f one operation o f universal
+oare being taken to remember that, in the language we are considering, the expressions th, , " play the part o f primitive sentential functions and that instead o f one operation o f universal
 quantification two related operations occur. The definition o f
 true sentence is completely analogous to Def. 23.
 
@@ -13635,8 +13174,7 @@ variables we begin with certain considerations which are not
 im m ediately connected w ith the language we are at present
 investigating. It is known that with every individual a a definite
 tw o-term ed relation a* can be correlated in such a way that to
-distinct individuals distinct relations correspond. F or this pur­
-pose it suffices to take as a* an ordered pair whose terms are
+distinct individuals distinct relations correspond. F or this purpose it suffices to take as a* an ordered pair whose terms are
 identical with a, i.e. the relation R which holds between any two
 individuals b and c if and only if b = a and c = a. On the basis
 o f this correlation we can now correlate in a one-one fashion with
@@ -13650,12 +13188,10 @@ an equivalent sentence about relations.
 Bearing these facts in m ind we return to the language o f the
 logic o f relations and change the intuitive interpretation o f the
 expressions o f this language w ithout in any w ay touching their
-form al structure. A ll constants will retain their previous mean­
-ing, whilst ah variables both o f the 1st and 2nd order are from
+form al structure. A ll constants will retain their previous meaning, whilst ah variables both o f the 1st and 2nd order are from
 now on to represent names o f tw o-term ed relations. To the
 prim itive sentential functions o f the type cXyz\ where instead
-o f 'X* some variable Vk and instead o f 'y* and "zy any two vari­
-and vm occur, we assign the follow ing meaning: 'there
+o f 'X* some variable Vk and instead o f 'y* and "zy any two variand vm occur, we assign the follow ing meaning: 'there
 ables
 exist individuals a and b such that a stands in the relation X to
 6, y = a*, and z ~ 6 V In this way the meaning o f the composite
@@ -13665,19 +13201,16 @@ earlier interpretation will remain true or false respectively in
 
 VUE, § 4 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 229
 
-the new one. B y virtue o f this new interpretation all the vari­
-ables o f the language now belong to one and the same semantical
+the new one. B y virtue o f this new interpretation all the variables o f the language now belong to one and the same semantical
 category, not indeed from the form al but from the intuitive
 point o f view ; they represent words o f the same 'part o f speech' .
-Consequently the language we are considering can be investi­
-gated b y exactly the same m ethods as all languages o f the 1st
+Consequently the language we are considering can be investigated b y exactly the same m ethods as all languages o f the 1st
 kind; in particular, satisfaction can be treated as a two-term ed
 relation between sequences o f relations and sentential functions.
 A t the same tim e a com plication o f a technical nature— although
 an unim portant one— presents itself. Since tw o free variables o f
 different orders but the same indices, e.g. vl and m ay occur in
-the same sentential function, it is not clear without supplemen­
-tary stipulations which terms o f the sequence are to correspond
+the same sentential function, it is not clear without supplementary stipulations which terms o f the sequence are to correspond
 to the variables o f the 1st, and which to those o f the 2nd order.
 To overcom e this difficulty we shall stipulate that to every
 variable vk a term o f the sequence with an uneven index 2. k—1
@@ -13688,8 +13221,7 @@ the function
 such that a stands in the relation F%k to 6,
 1 = a*, and
 F^m^x = fe*. A part from this detail the definitions o f satisfaction
-and o f true sentence differ in no essential point from the defini­
-tions given in § 3.
+and o f true sentence differ in no essential point from the definitions given in § 3.
 
 The tw o m ethods described can be applied to all languages o f
 the 2nd kind.1 I f the variables o f the language studied belong to
@@ -13731,8 +13263,7 @@ discussed above in connexion with the language o f the logic of
 relations; this choice cannot always be made from the categories
 which occur in the language. If, for example, the variables o f
 the language represent names of two-termed relations between
-individuals and names of classes whioh consist o f olasses of indi­
-viduals, then the simplest unifying category seems to be the
+individuals and names of classes whioh consist o f olasses of individuals, then the simplest unifying category seems to be the
 oategory o f two-termed relations between olasses o f individuals.
 I do not propose to enter into a further analysis of this problem
 (it would presuppose a knowledge o f certain facts belonging to
@@ -13748,16 +13279,14 @@ course o f the work does not differ at all from the methods of
 construction used for languages o f the 1st kind.
 
 In contrast to the method o f many-rowed sequences, there is
-no doubt that the second method is somewhat artificial. Never­
-theless the definitions constructed by this method prove, on
+no doubt that the second method is somewhat artificial. Nevertheless the definitions constructed by this method prove, on
 
 V III,J 4 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 231
 
 closer analysis, to be intuitively evident to a soaroely less degree
 than the constructions based on the first method. At the same
 time they have the advantage o f greater logical simplicity. In
-particular, when we are dealing with the definition o f true sen­
-tence the proof o f the equivalence o f its two formulations presents
+particular, when we are dealing with the definition o f true sentence the proof o f the equivalence o f its two formulations presents
 no difficulty in any ooncrete oase. The essential advantages o f
 the method o f unification o f the variables only become dear,
 however, in the investigation o f languages o f the 3rd kind, since
@@ -13776,13 +13305,11 @@ from the sign X ' with k small strokes below and l such strokes
 above will be called the kth variable functor with l arguments,
 and denoted by ' V\'. Intuitively interpreted, the variables
 vk represent, as before, names of individuals, whilst the variables
-V\ represent names o f 1-termed relations between indivi­
-duals, in particular for l — 1 names o f one-termed relations,
+V\ represent names o f 1-termed relations between individuals, in particular for l — 1 names o f one-termed relations,
 i.e. names o f classes. Both from the intuitive and the formal
 points o f view the signs vk, V%,
 belong to infinitely many
-distinct semantical categories o f the 1st and 2nd orders respec­
-tively. The fundamental sentential functions are expressions o f
+distinct semantical categories o f the 1st and 2nd orders respectively. The fundamental sentential functions are expressions o f
 the type 'Xxy...z\ where in plaoe o f X ' any variable functor
 with l arguments and in plaoe o f V , 'y ',..., V variables o f the
 1st order, l in number, occur. These expressions are read as
@@ -13812,8 +13339,7 @@ to the calculus o f classes. As operations o f quantification we
 introduce quantification with respect to the variables vk and the
 variables Vlk and denote the result o f the operations b y the
 sym bols
-respectively, The list o f axiom s in­
-cludes those which satisfy the condition (<x) o f D ef. 13 o f § 2,
+respectively, The list o f axiom s includes those which satisfy the condition (<x) o f D ef. 13 o f § 2,
 and pseudodefinitions which form a natural generalization o f
 the pseudodeftnitions from the logic o f tw o-term ed relations.
 Their m ore detailed description seems to be unnecessary.
@@ -13830,10 +13356,8 @@ In this m ethod the term 'satisfaction5— in whatever form —
 expresses the relation o f dependence between n sequences o f
 various categories and the sentential functions, where n is exactly
 equal to the number o f semantical categories represented by the
-variables o f the given language. In the case we are investi­
-gating the number n is indefinitely large and the metalanguage
-we are using— like all other actually existing form alized lan­
-guages— provides no means for dealing with the relation of
+variables o f the given language. In the case we are investigating the number n is indefinitely large and the metalanguage
+we are using— like all other actually existing form alized languages— provides no means for dealing with the relation of
 m utual dependence between objects which belong to infinitely
 m any distinct sem antical categories.2
 
@@ -13857,10 +13381,8 @@ this it suffices to note that we can correlate in a one-one fashion,
 with every n-term ed relation jR between individuals, a class R*
 which consists o f w-termed sequences o f individuals, nam ely the
 class o f all sequ en ces/ which satisfy the follow ing condition: the
-relation R holds between the individuals f v / 2,..., f n. F or ex­
-ample, the class o f all sequences / with tw o terms f x and /* such
-that / l i? /2 corresponds to the tw o-term ed relation R. Con­
-sequently every sentence concerning m any-term ed relations
+relation R holds between the individuals f v / 2,..., f n. F or example, the class o f all sequences / with tw o terms f x and /* such
+that / l i? /2 corresponds to the tw o-term ed relation R. Consequently every sentence concerning m any-term ed relations
 can be transform ed into an equivalent sentence which asserts
 something about classes o f sequences. It will be remembered
 that b y sequences o f individuals we mean two-term ed relations
@@ -13874,8 +13396,7 @@ On the basis o f these considerations we now partially unify
 the semantical categories o f the variables in the follow ing w ay.
 T o the variables vk we give— at least provisionally— the same
 significance as before. B ut the variables V\ now represent the
-names o f any classes which consist o f finite sequences o f indi­
-viduals or o f other objects o f the same category (i.e. the names
+names o f any classes which consist o f finite sequences o f individuals or o f other objects o f the same category (i.e. the names
 o f objects o f at least the 3rd order, according to the order which
 we assign to the natural num bers).1 The prim itive functions o f
 the form 'Xxy."z\ which begin with a functor with l arguments
@@ -13897,10 +13418,8 @@ order.
 
 the class X which consists o f i-termed sequences'. From the
 intuitive, although not from the formal, standpoint, the variables
-from now on still belong to only two distinct semantical cate­
-gories; in view o f this circumstance we can use, in the further
-course o f our work, the same methods as we employed in investi­
-gating languages o f the 2nd kind.
+from now on still belong to only two distinct semantical categories; in view o f this circumstance we can use, in the further
+course o f our work, the same methods as we employed in investigating languages o f the 2nd kind.
 
 correspond to the variables 7J, F|, V}, F|, Ff, Ff,...
 
@@ -13916,8 +13435,7 @@ putting every variable V\ in correspondence with a term having
 the index (2.&—1).2,_1. For example, the terms Fv Ft, Fs, Ft,
 Ft,
 With this convention the establishment o f the meaning of the
-above phrase in its application to any concrete sentential func­
-tion, and even the construction o f a general definition o f the
+above phrase in its application to any concrete sentential function, and even the construction o f a general definition o f the
 concept in question, presents no further difficulties. Thus
 concerning the primitive functions, those and only those
 sequences / and F (of the categories given above) will together
@@ -13958,8 +13476,7 @@ sequence whose only member is just the given individual.
 variables o f 1st order in exactly the same direction in whioh we
 formerly modified the interpretation o f the variables o f the 2nd
 order. The primitive functions o f the form 'Xzy...z\ containing
-1+ 1 signs, we now regard as having the same meaning as expres­
-sions o f the type 'the Z-termed sequence g o f individuals which
+1+ 1 signs, we now regard as having the same meaning as expressions o f the type 'the Z-termed sequence g o f individuals which
 satisfies the conditions: gj — x, gjf = y,..., gf — z, belongs to
 the class X , which consists o f sequences with l terms' . With this
 intuitive interpretation all variables now belong to the same
@@ -13971,8 +13488,7 @@ The method o f semantical unification of the variables can be
 applied with equal success to the investigation o f any language o f
 the 3rd kind. Determining the unifying category may sometimes
 be more difficult. As in the case o f languages o f the 2nd kind
-it is here impossible to restrict consideration to categories occur­
-ring in the language studied. In contrast to those languages it is
+it is here impossible to restrict consideration to categories occurring in the language studied. In contrast to those languages it is
 never possible to make the choice from among the categories o f
 one o f the orders represented in the language. This difficulty
 is not, however, essential and exclusively concerns languages o f
@@ -14017,15 +13533,12 @@ Lemm a D and Ths. 3 and 5 o f § 3).
 Am ong the mo3fc im portant consequences o f a general nature
 which follow from the definition o f truth must be reckoned the
 principle of contradiction and the principle of the excluded middle.
-These tw o theorem s, together w ith the theorem on the con­
-sequences o f true sentences already m entioned, show that the
+These tw o theorem s, together w ith the theorem on the consequences o f true sentences already m entioned, show that the
 class of all true sentences forms a consistent and complete deductive
 system (Ths. 1, 2, and 4).
 
-As an im m ediate, although a somewhat subsidiary, con­
-sequence o f these facts we obtain the theorem that the class of all
-provable sentences likewise forms a consistent (although not neces­
-sarily com plete) deductive system. In this way we are able to
+As an im m ediate, although a somewhat subsidiary, consequence o f these facts we obtain the theorem that the class of all
+provable sentences likewise forms a consistent (although not necessarily com plete) deductive system. In this way we are able to
 produce a p roof o f the consistency o f every science for which we
 can construct the definition o f truth. The p roof carried out by
 t Some further consequences of this type are discussed in the article of
@@ -14035,21 +13548,16 @@ particular sect. 9, p. 111.
 
 VIII, § 4 CONCEPT OP TRUTH IN FORMALIZED LANGUAGES 237
 
-means o f this m ethod does not, o f course, add much to our know­
-ledge, since it is based upon premisses which are at least as strong
-as the assumptions o f the science under investigation.1 N ever­
-theless it seems to be w orthy o f note that such a general m ethod o f
-p roof exists, which is applicable to an extensive range o f deduc­
-tive sciences. It will be seen that from the deductive standpoint
+means o f this m ethod does not, o f course, add much to our knowledge, since it is based upon premisses which are at least as strong
+as the assumptions o f the science under investigation.1 N evertheless it seems to be w orthy o f note that such a general m ethod o f
+p roof exists, which is applicable to an extensive range o f deductive sciences. It will be seen that from the deductive standpoint
 this m ethod is not entirely trivial, and in m any cases no simpler,
 and in fact no other, m ethod is kn ow n.f
 
 In those cases in which the class o f provable sentences is not
-only consistent but also com plete, it is easy to show that it co­
-incides with the class o f true sentences. If, therefore, we identify
+only consistent but also com plete, it is easy to show that it coincides with the class o f true sentences. If, therefore, we identify
 the tw o concepts— that o f true sentence and that o f provable
-sentence—we reach a new definition o f truth o f a purely struc­
-tural nature and essentially different from the original semantical
+sentence—we reach a new definition o f truth o f a purely structural nature and essentially different from the original semantical
 definition o f this notion.2 E ven when the provable sentences
 
 1 As Ajdukiewicz has rightly pointed out in a somewhat different connexion
@@ -14067,8 +13575,7 @@ same way— I regard as a semantical definition because in a certain sense
 t In connexion with the problem discussed in the last three paragraphs see
 the recent publications: Mostowski, A . (53 e) as weU as Wang, H. (87 c). From
 the results of these authors it is seen that in some cases, having succeeded
-in constructing an adequate definition of truth for a theory T in its meta­
-theory, we may still be unable to show that all the provable sentences of T
+in constructing an adequate definition of truth for a theory T in its metatheory, we may still be unable to show that all the provable sentences of T
 are true in the sense of this definition, and hence we may also be unable tc
 carry out the consistency proof for T in M , This phenomenon can roughly
 be explained as foUows: in the proof that all provable sentences of T are
@@ -14104,9 +13611,7 @@ with two languages, that o f the oaloulus o f classes and that o f
 bo to speak an ' infinite logical product % of those partial definitions which were
 described in convention T and which establish a direct correlation between
 the sentences of the language and the names of these sentences. Among the
-structural definitions, on the other hand, I include those which are con­
-structed according to the following scheme: a class of sentences or other ex­
-pressions is described in such a way that from the form of every expression
+structural definitions, on the other hand, I include those which are constructed according to the following scheme: a class of sentences or other expressions is described in such a way that from the form of every expression
 it is possible to know whether it belongs to the given olass or not. Further
 operations on expressions are given of such a kind that if certain expressions
 in finite number are given and if the form of an arbitrary other expression is
@@ -14122,8 +13627,7 @@ than all variables of the language investigated, e.g. the use of the term
 haps two or three of the lowest orders suffioe. In the construction of a
 semantical definition we uce—explicitly or implicitly—those expressions of
 the metalanguage which are of like meaning with the expressions of the
-language investigated, whilst they play no part in the construction of a struc­
-tural definition; it is easy to see that this distinction vanishes when the
+language investigated, whilst they play no part in the construction of a structural definition; it is easy to see that this distinction vanishes when the
 language studied is a fragment of logic. Moreover, the distinction as a whole
 is not very clear and sharp, as is shown by the fact that with respect to the
 sentential calculus the semantical definition can be regarded as a formal
@@ -14135,30 +13639,24 @@ function.
 
 V T H , g 4 C O N C E PT O F T R O T H IN F O R M A L IZ E D L A N G U A G E S 239
 
-the sentential calculus, for which this problem oould be rela­
-tively easily solved.1
+the sentential calculus, for which this problem oould be relatively easily solved.1
 
 In all cases in which we are able to define satisfaction and the
 notion o f true statement, we can—by means o f a modification
 o f these definitions— also define two still more general concepts
-o f a relative kind, namely the concepts o f satisfaction and cor­
-rect sentence—both with respect to a given individual domain a.%
+o f a relative kind, namely the concepts o f satisfaction and correct sentence—both with respect to a given individual domain a.%
 This modification depends on a suitable restriction o f the domain
-o f objeots considered. Instead o f operating with arbitrary indivi­
-duals, classes o f individuals, relations between individuals, and so
-on, we deal exclusively with the elements o f a given class a o f indi­
-viduals, subclasses o f this class, relations between elements o f
+o f objeots considered. Instead o f operating with arbitrary individuals, classes o f individuals, relations between individuals, and so
+on, we deal exclusively with the elements o f a given class a o f individuals, subclasses o f this class, relations between elements o f
 this class, and so on. It is obvious that in the special case when a
 is the class o f all individuals, the new concepts coincide with the
 former ones (cf. Defs. 24 and 25, and Th. 26). As I have already
 emphasized in § 3 the general concept o f correct sentence in a
 given domain plays a great part in present day methodological
-researches. But it must be added that this only concerns re­
-searches whose objeot is mathematical logic and its parts. In
+researches. But it must be added that this only concerns researches whose objeot is mathematical logic and its parts. In
 connexion with the special sciences we are interested in correct
 sentences in a quite specifio individual domain for which the
-general concept loses its importance. Likewise it is only in con­
-nexion with sciences which are parts o f logic that some general
+general concept loses its importance. Likewise it is only in connexion with sciences which are parts o f logic that some general
 properties o f these concepts, which were proved in § 3 for the
 language o f the calculus o f classes, preserve their validity. For
 example, it happens that in these sciences the extension o f the
@@ -14166,10 +13664,8 @@ term 'correct sentence in the individual domain a ' depends
 exclusively on the cardinal number o f the class a. Thus in these
 investigations we can replace this term by the more convenient
 term 'correct sentence in a domain with k elements' (Def. 26,
-Th. 8). The theorems previously discussed concerning the con­
-cept o f truth, such sb the principles o f contradiction and the
-excluded middle can be extended to the ooncept o f correct sen­
-tence in a given domain. The concept o f correct sentenoe in every
+Th. 8). The theorems previously discussed concerning the concept o f truth, such sb the principles o f contradiction and the
+excluded middle can be extended to the ooncept o f correct sentence in a given domain. The concept o f correct sentenoe in every
 
 1 Cf. the remarks on pp, 207 f. and 221; T shall return to this problem in
 
@@ -14187,11 +13683,9 @@ sentence and that of true sentence; the class o f correct sentences
 in every domain contains all theorems and consists exclusively
 o f true sentenoes (Ths. 22 and 27). This class is therefore in
 general narrower than the class of all true sentences; it contains,
-for example, no sentences whose validity depends on the magni­
-tude o f the number o f all individuals (Th. 23). I f it is desired to
+for example, no sentences whose validity depends on the magnitude o f the number o f all individuals (Th. 23). I f it is desired to
 transform the system o f the provable sentenoes o f every science
-into a complete one, it is neoessary at the outset to add sen­
-tences to the system whioh decide the question how many
+into a complete one, it is neoessary at the outset to add sentences to the system whioh decide the question how many
 individuals exist. But for various reasons another point o f view
 seems to be better established, namely the view that the decision
 regarding such problems should be left to the speoific deductive
@@ -14206,8 +13700,7 @@ such a way that the class o f provable sentences thus extended
 now. coincides with the class o f sentences which are correct in
 every domain. This problem, which properly is equivalent to
 the question o f structurally characterizing the latter concept,
-can be positively decided only in a few cases (cf. Th. 24).1 Gene­
-rally speaking the difficulties presented by this question are no
+can be positively decided only in a few cases (cf. Th. 24).1 Generally speaking the difficulties presented by this question are no
 less essential than those connected with the analogous problem
 o f a structural definition o f true sentence. We meet with similar
 difficulties when we attempt to define structurally the concept of
@@ -14236,8 +13729,7 @@ enable us to infer from the correctness o f certain sentences in
 special individual dom ains or from their structural properties
 their correctness in every dom ain and thus their truth.2 I t is
 evident that all these results only receive a clear content and can
-only then be exactly proved, if a concrete and precisely form u­
-lated definition o f correct sentence is accepted as a basis for the
+only then be exactly proved, if a concrete and precisely form ulated definition o f correct sentence is accepted as a basis for the
 investigation.
 
 § 5. The Concept of True Sentence in L anguages of
@@ -14282,11 +13774,9 @@ signs composed o f the symbol 'X ' and a number o f small strokes
 above and below. The sign having n strokes above and k below
 is called the k-th variable of the n-th order and is denoted by the
 symbol 'Fg\ The variables V\, V%, V%... represent respectively
-names o f individuals, objeots o f the 1st order; olasses o f indivi­
-duals, objects o f the 2nd order; classes o f such classes, objects
+names o f individuals, objeots o f the 1st order; olasses o f individuals, objects o f the 2nd order; classes o f such classes, objects
 o f the 3rd order, and so on. These variables obviously belong
-to infinitely many semantical categories. As primitive senten­
-tial functions we have expressions o f the type X T ' where in
+to infinitely many semantical categories. As primitive sentential functions we have expressions o f the type X T ' where in
 the place o f X ' any variable o f the n-j- 1th order, and instead
 o f T ' a variable o f the »th order occurs. This expression is
 
@@ -14297,8 +13787,7 @@ by Lefeniewski in his system (of. p. 210, note 2 ; p. 218, note 2). In particula
 this language no sentential variables and neither names of two- or many-termed
 relations, nor variables representing these names, occur. The dispensability
 of sentential variables depends on the fact mentioned on p. 229, footnote: to
-every sentence which contains sentential variables there is a logically equiva­
-lent sentence which does not contain such variables. The results of § 2,
+every sentence which contains sentential variables there is a logically equivalent sentence which does not contain such variables. The results of § 2,
 especially Defs. 13-17, suffice to show how such variables are to be avoided in
 setting up lists of axioms and in the derivation of theorems; cf. also Neumann,
 J. v. (54) (especially note 9, p. 38). The possibility of eliminating two-termed
@@ -14306,11 +13795,9 @@ relations results from the following consideration. With every relation R we
 can correlate, in one-one fashion, a class of ordered pairs, namely, the class
 of all ordered pairs whose terms x and y satisfy the formula, xRy. If the
 relation is homogeneous, i.e. if the domain and counter domain of this relation
-belong to the same semantical category, then the ordered pair can be inter­
-preted otherwise than we have done on p. 171, namely as olasses having two
+belong to the same semantical category, then the ordered pair can be interpreted otherwise than we have done on p. 171, namely as olasses having two
 classes as elements: the class whose only element is x and the class consisting
-of the two elements x and y. In order to apply an analogous method to in­
-homogeneous relations we must first correlate homogeneous relations with
+of the two elements x and y. In order to apply an analogous method to inhomogeneous relations we must first correlate homogeneous relations with
 them in one-one fashion, and this presents no great difficulty. We proceed
 in an analogous way with many-termed relations. In this way every statement
 about two- or many-termed relations of arbitrary ca tegory can be transformed
@@ -14331,9 +13818,7 @@ functions x with respect to the variable V% are denoted by the
 symbols
 x ' and U* •c - The axioms consist of (1) sentences
 which satisfy the condition (a) o f Def. 13 o f § 2, which are thus
-derived from the axioms o f the sentential calculus by substitu­
-tion, sometimes also followed by generalization; (2) pseudodefini­
-tions, i.e. statements which are quantifications o f sentential
+derived from the axioms o f the sentential calculus by substitution, sometimes also followed by generalization; (2) pseudodefinitions, i.e. statements which are quantifications o f sentential
 functions o f the type
 
 where y is any sentential function which does not contain the
@@ -14342,8 +13827,7 @@ o f the form
 
 which state that two classes which do not differ in their elements
 do not differ in any o f their properties and are thus identical.
-In order to obtain in this science a sufficient basis for the estab­
-lishment o f various parts o f mathematics and in particular o f
+In order to obtain in this science a sufficient basis for the establishment o f various parts o f mathematics and in particular o f
 the whole o f theoretical arithmetic, we mu3t add to the above
 still one more axiom: (4) the axiom of infinity, i.e. the sentence
 
@@ -14351,8 +13835,7 @@ U K U I 4 * • n f R x + U I W U - f l i ( ei,i-r4,x) • U M ,1 • 4 M
 
 which guarantees the existence o f infinitely many individuals.1
 In the derivation o f consequences from the axioms we apply
-the operations o f substitution, detachment, and the intro­
-duction and removal o f the universal quantifier, analogous to
+the operations o f substitution, detachment, and the introduction and removal o f the universal quantifier, analogous to
 the operations described in conditions (y}-(£) of Def, 15 in § 3.
 When we try to define the concept of satisfaction in connexion
 with the present language we encounter difficulties which we
@@ -14374,8 +13857,7 @@ whose terms belong to this category, and still more the relation
 o f satisfaction, which holds between such sequences and the
 corresponding sentential functions, must thus be o f higher order
 than all those variables. In the language with which we are now
-dealing variables o f arbitrarily high (finite) order occu r: con­
-sequently in applying the m ethod o f unification it would be
+dealing variables o f arbitrarily high (finite) order occu r: consequently in applying the m ethod o f unification it would be
 necessary to operate with expressions o f 'infinite order' . Y et
 neither the metalanguage which form s the basis o f the present
 investigations, nor any other o f the existing languages, contains
@@ -14387,8 +13869,7 @@ construct a general, sem antically unambiguous concept o f
 satisfaction for the language we are studying which will be
 applicable to all sentential functions w ithout regard to their
 semantical type. On the other hand there appear to be no
-difficulties which would render im possible in principle a con­
-sistent application o f the concept o f satisfaction in its original
+difficulties which would render im possible in principle a consistent application o f the concept o f satisfaction in its original
 form ulation, or rather— in view o f the semantical am biguity o f
 that form ulation— o f an infinite number o f such concepts. Each
 o f these concepts is, from the semantical standpoint, already
@@ -14396,36 +13877,29 @@ specified and w ould relate exclusively to functions o f a specific
 semantical type (e.g. to functions which contain a variable o f the
 1st order as the only free variable). A ctually— independently
 o f the logical structure o f the language— the intuitive sense of
-none o f these expressions raises any doubt. F or every par­
-ticular sentential function we can in fact define this meaning
+none o f these expressions raises any doubt. F or every particular sentential function we can in fact define this meaning
 exactly b y constructing for every phrase o f the type 'the
-objects a, 6, c,... satisfy the given sentential fu nction' an in­
-tuitively equivalent phrase which is expressed -wholly in terms
+objects a, 6, c,... satisfy the given sentential fu nction' an intuitively equivalent phrase which is expressed -wholly in terms
 
 VIH, § 5 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 245
 
-o f the metalanguage. Nevertheless the problem o f the construc­
-tion o f a correct definition for each o f these concepts again
+o f the metalanguage. Nevertheless the problem o f the construction o f a correct definition for each o f these concepts again
 presents us with difficulties o f an essential nature. On the basis
 o f the languages which we have previously studied it was easy
 to obtain each special concept o f satisfaction b y a certain
 specialization o f the general concept; in the present case this
 w ay is clearly not open to us. A brief reflection shows that
 the idea o f using the recursive m ethod analogously to the
-definition o f sentential function proves, in spite o f its natural­
-ness, to be unsuitable. It is easily seen that the com posite
+definition o f sentential function proves, in spite o f its naturalness, to be unsuitable. It is easily seen that the com posite
 functions o f a particular sem antical type cannot always be
-form ed from simpler functions o f the same type. On the con­
-trary, if we are to be able to construct arbitrary functions o f a
+form ed from simpler functions o f the same type. On the contrary, if we are to be able to construct arbitrary functions o f a
 given type, we must use for that purpose all possible semantical
-types.1 It would, therefore, be necessary, in the recursive defi­
-nition o f any one o f the special concepts o f satisfaction, to cover,
+types.1 It would, therefore, be necessary, in the recursive definition o f any one o f the special concepts o f satisfaction, to cover,
 in one and the same recursive process, infinitely many analogous
 concepts, and this is beyond the possibilities o f the language.
 
 The central problem o f our work, the construction o f the
-definition o f truth, is closely connected with these considera­
-tions. I f we were successful in defining, if not the general, at
+definition o f truth, is closely connected with these considerations. I f we were successful in defining, if not the general, at
 least any one o f the special concepts o f satisfaction, then this
 problem would not offer the least difficulty.1 2 On the other
 
@@ -14442,10 +13916,8 @@ of truth by a direct route (cf. p. 189).
 2 For example, let us imagine that we have succeeded in some way in
 defining the concept of satisfaction in the case of sentential functions which
 contain a variable of 1st order as the only free variable. We could then operate
-freely with phrases of the type ' the individual a satisfies the sentential func­
-tion y\ I f we now consider some one concrete sentential function, e.g. U? d,i*
-which is satisfied by every arbitrary individual, we obtain at once the follow­
-ing definition of true sentence: x is a true sentence if and only if every individual
+freely with phrases of the type ' the individual a satisfies the sentential function y\ I f we now consider some one concrete sentential function, e.g. U? d,i*
+which is satisfied by every arbitrary individual, we obtain at once the following definition of true sentence: x is a true sentence if and only if every individual
 a satisfies the function a .U ? *\,i (*•£• tte conjunction of the sentence x and the
 function U? Ci.i)* In an exactly analogous way we can pass from every other
 specific concept of satisfaction to the concept of truth.
@@ -14461,28 +13933,23 @@ language under investigotion.f
 
 In the face o f this state o f affairs the question arises whether
 our failure is accidental and in some way connected with defects
-in the methods actually used, or whether obstacles of a funda­
-mental kind play a part which are connected with the nature
+in the methods actually used, or whether obstacles of a fundamental kind play a part which are connected with the nature
 o f the concepts we wish to define, or o f those with the help
 o f which we have tried to construct the required definitions. I f
 the second supposition is the correot one all efforts intended to
 improve the methods of construction would dearly he fruitless.
 I f we are to answer this question we must first give it a rather
-less indefinite form. It will be remembered that in the con­
-vention T of § 8 the conditions whioh decide the material
-correctness o f any definition o f true sentence axe exactly stipu­
-lated. The construction o f a definition whioh satisfies these
+less indefinite form. It will be remembered that in the convention T of § 8 the conditions whioh decide the material
+correctness o f any definition o f true sentence axe exactly stipulated. The construction o f a definition whioh satisfies these
 conditions forms in fact the principal object o f our investigation.
 3?rom this standpoint the problem we are now considering takes
 on a precise form: it is a question o f whether on the basis of the
 metatheory of the language we are considering the construction of a
 correct definition of truth in the sense of convention T is in principle
-possible. As we shall see, the problem in this form can be defi­
-nitely solved, but in a negative sense.
+possible. As we shall see, the problem in this form can be definitely solved, but in a negative sense.
 
 It is not difficult to see that this problem exceeds the bounds of
-our previous disoussion. It belongs to the field o f the meta­
-metatheory. Its definitive solution, even its correct formulation,
+our previous disoussion. It belongs to the field o f the metametatheory. Its definitive solution, even its correct formulation,
 would require new equipment for investigation and especially
 the formalization o f the metalanguage and the metatheory
 which uses it. But without going so far, and still avoiding
@@ -14491,8 +13958,7 @@ language under investigation will be considerably clarified by the discussion
 in the Postscript. It should be mentioned that the .method of defining truth
 recently suggested in McKinsey, J. C. C. (53 b) is not based on a preliminary
 definition of satisfaction. Instead, McKinsey has to consider formalized
-languages with non-denumerably many constants and has to use a meta­
-language which is provided with a very strong set-theoretical apparatus.
+languages with non-denumerably many constants and has to use a metalanguage which is provided with a very strong set-theoretical apparatus.
 
 V m , § 6 C O N C E PT O F T R U T H IN F O R M A L IZ E D LA N G U A G E S 247
 
@@ -14500,13 +13966,11 @@ various technical complications, I believe I am able to give a
 fairly clear account o f everything o f a positive nature that can
 at present be established in connexion with the above problem.
 In operating with the metalanguage we shall adhere to the
-symbolism given in §§ 2 and 8. To simplify the further develop­
-ments and avoid possible misunderstandings we shall suppose
+symbolism given in §§ 2 and 8. To simplify the further developments and avoid possible misunderstandings we shall suppose
 the metalanguage to be so constructed that the language we are
 studying forms a fragment of i t ; every expression o f the language
 is at the same time an expression o f the metalanguage, but not
-vice versa. This enables us in certain oases (e.g. in the formula­
-tion o f condition (a) o f convention T ) to speak simply o f the
+vice versa. This enables us in certain oases (e.g. in the formulation o f condition (a) o f convention T ) to speak simply o f the
 expressions o f the language itself, instead o f expressions of the
 metalanguage which have the same meaning.
 
@@ -14542,29 +14006,25 @@ certain suppositions in the same direction, which were based partly on my own
 investigations and partly on the short report, Gddel, K. (21), which had been
 published some months previously.
 
-After I had become acquainted with the above mentioned article I con­
-vinced myself, among other things, that the deductive theory which Gddel
+After I had become acquainted with the above mentioned article I convinced myself, among other things, that the deductive theory which Gddel
 
 248 CONCEPT OF TROTH IN FORMALIZED LANGUAGES V III, f 5
 
 language is established in the language itself and in this way with
 every sentence o f the metalanguage there is correlated, in onem any fashion, a sentence o f the language which is equivalent to
-it (with reference to the axiom system adopted in the m eta­
-theory); in this w ay the metalanguage contains as well as every
+it (with reference to the axiom system adopted in the m etatheory); in this w ay the metalanguage contains as well as every
 particular sentence, an individual name, if not for that sentence
 at least for the sentence which is correlated with it and equivalent
 to it. (2) Should we succeed in constructing in the metalanguage
 a correct definition o f truth, then the metalanguage— with
 reference to the above interpretation— would acquire that
-universal character which was the prim ary source o f the seman­
-tical antinomies in colloquial language (cf. p. 164). I t would
+universal character which was the prim ary source o f the semantical antinomies in colloquial language (cf. p. 164). I t would
 then be possible to reconstruct the antinom y o f the liar in the
 metalanguage, b y form ing in the language itself a sentence x
 such that the sentence o f the metalanguage which is correlated
 with x asserts that x is not a true sentence. In doing this it would
 be possible, by applying the diagonal procedure1 from the theory
-o f sets, to avoid all term s which do not belong to the m eta­
-language, as well as all premisses o f an em pirical nature which
+o f sets, to avoid all term s which do not belong to the m etalanguage, as well as all premisses o f an em pirical nature which
 have played a part in the previous form ulations o f the antinom y
 o f the liar.2
 
@@ -14602,8 +14062,7 @@ classes the elements o f which are classes o f individuals. Am ong
 these classes we find, am ong other things, the natural numbers
 and generally speaking the cardinal numbers.2
 
-I have alrea dy m entioned that all facts belonging to the arith­
-m etic o f the natural numbers can be expressed in the language o f
+I have alrea dy m entioned that all facts belonging to the arithm etic o f the natural numbers can be expressed in the language o f
 the general theory o f classes. In particular, if a natural number
 k is given, a sentential function tk is easily constructed in this
 language containing the sym bol V as the only free variable and
@@ -14619,16 +14078,13 @@ Li ^ n?(4i.U i H I H 8 ( 4 i -(43+4i+4«))+
 A general recursive definition o f the sequence o f functions ik
 within the metalanguage presents no great difficulty.
 
-As I have already pointed out in § 2 (p. 184) a one-one corre­
-spondence can be set up w ithout difficulty between the expres­
-sions o f the language and the natural numbers ; we can define in the
+As I have already pointed out in § 2 (p. 184) a one-one correspondence can be set up w ithout difficulty between the expressions o f the language and the natural numbers ; we can define in the
 metalanguage an infinite sequence <j> o f expressions in which every
 expression o f the language occurs once and only once. W ith
 the help o f this correlation we can correlate with every operation
 on expressions an operation on natural numbers (which possesses
 the same form al properties), with every class o f expressions a
-class o f natural numbers, and so on. In this way the m eta­
-language receives an interpretation in the arithm etic o f the
+class o f natural numbers, and so on. In this way the m etalanguage receives an interpretation in the arithm etic o f the
 
 1 For the sake of simplicity we shall in many places express ourselves as
 though the demonstration which follows belonged to the metatheory and not
@@ -14681,8 +14137,7 @@ condition {a} o f the convention T we obtain a sentence o f the
 form s'£ e Tr if and only if p\ where V is to be replaced by a
 structural-descriptive or any other individual name o f the
 statem ent U !(l**^s)> but 'p ' b y this statem ent itself or b y any
-statem ent which is equivalent to it. In particular we can sub­
-stitute V t M k V f° r x> and for 'p }— hi view o f the meaning o f
+statem ent which is equivalent to it. In particular we can substitute V t M k V f° r x> and for 'p }— hi view o f the meaning o f
 the sym bol — the statem ent 'there is an a such that n = k
 and $ (» )' or, sim ply *0(A)' . In this w ay we obtain the following
 form ulation:
@@ -14698,29 +14153,25 @@ negation o f (3). In this w ay we have proved the first part of
 V m , § 5 CONCEPT OP TRTJTH LSI FORMALIZED LANGUAGES 251
 
 the theorem . W e have proved that am ong the consequences o f
-the definition o f the sym bol ' 7V' the negation o f one o f the sen­
-tences m entioned in the condition {«) o f the convention T m ust
+the definition o f the sym bol ' 7V' the negation o f one o f the sentences m entioned in the condition {«) o f the convention T m ust
 appear. From this the second part o f the theorem im m ediately
 follow s.
 
 The assum ption o f consistency appearing In the part (j3) o f
 this theorem is essential. I f the class o f all provable sentences
-o f the m etatheory contained a contradiction, then every de­
-finition in the m etatheory w ould have among its consequences
+o f the m etatheory contained a contradiction, then every definition in the m etatheory w ould have among its consequences
 all possible sentences (since they all would be provable in the
 m etatheory), in particular those described in the convention
 T . On the other hand, as we now know ,1 there is no prospect o f
 proving the consistency o f the m etatheory which we are working
 with, on the basis o f the m eta-m etatheory. It is to be noted
-that, in view o f the existence o f an interpretation o f the m eta­
-theory in the science itself (a fa ct which baa played such an
+that, in view o f the existence o f an interpretation o f the m etatheory in the science itself (a fa ct which baa played such an
 essential part in the p roof sketched above), the assumption o f
 the second part o f Th. I is equivalent to the assumption c-{ the
 consistency o f the scienoe investigated itself and from the
 intuitive standpoint is just as evident.
 
-The result reached in Th. I seems perhaps at first sight un­
-com m only paradoxical. This impression will, doubtless be
+The result reached in Th. I seems perhaps at first sight uncom m only paradoxical. This impression will, doubtless be
 weakened as soon as w e recall the fundam ental distinction
 between the content o f the concept to be defined and the nature
 o f those concepts which are at our disposal for the construction
@@ -14743,8 +14194,7 @@ and syntax.
 
 The fact that the language studied and the deductive science
 carried out in this language are form alized has brought about an
-interesting phenom enon; it has been possible to reduce to struc­
-tural-descriptive concepts certain other notions o f a totally
+interesting phenom enon; it has been possible to reduce to structural-descriptive concepts certain other notions o f a totally
 different kind, which are distinguished from the form er both in
 their origin and in their usual meaning, nam ely the concept o f
 consequence together with a series o f related notions.1 It has
@@ -14754,8 +14204,7 @@ given science as a part o f m orphology.
 Encouraged b y this success we have attem pted to go further
 and to construct in the metalanguage definitions o f certain
 concepts belonging to another dom ain, nam ely that called the
-semantics of language— i.e. such concepts as satisfaction, de­
-noting, truth, definability, and so on. A characteristic feature
+semantics of language— i.e. such concepts as satisfaction, denoting, truth, definability, and so on. A characteristic feature
 o f the sem antical concepts is that they give expression to
 certain relations between the expressions o f language and the
 objects about which these expressions speak, or that by means
@@ -14773,12 +14222,10 @@ have led to paradoxes and antinomies. F or that reason the
 tendency to reduce these concepts to structural-descriptive ones
 must seem quite natural and well-founded. The following fact
 seemed to favour the possibility o f realizing this tendency:
-it has always been possible to replace every phrase which con­
-tains these sem antical terms, and which concerns particular
+it has always been possible to replace every phrase which contains these sem antical terms, and which concerns particular
 1 The reduction of the concept of consequence to concepts belonging to
 the morphology of language is a result of the deductive method in its latest
-stages of development. When, in everyday life, we say that a sentence fol­
-lows from other sentences we no doubt mean something quite different from
+stages of development. When, in everyday life, we say that a sentence follows from other sentences we no doubt mean something quite different from
 the existence of certain structural relations between these sentences. In the
 light of the latest results of Godel it seems doubtful- whether this reduction
 has been effected without remainder.
@@ -14796,29 +14243,24 @@ that, as a rule, we included in the metalanguage, with regard
 to the content o f the sem antical concepts, not only the names
 o f expressions but all expressions o f the language itself or ex ­
 pressions having the same meaning (even when these expressions
-were not o f a logical kind, cf. pp. 210 f.), although such an enrich­
-m ent o f the metalanguage has no advantages for the pursuit o f
+were not o f a logical kind, cf. pp. 210 f.), although such an enrichm ent o f the metalanguage has no advantages for the pursuit o f
 the 'pure' m orphology o f language.
 
 In the abstract the fact m entioned has no decisive im portance;
 it offers no path by which an autom atic transition from the
 partial definitions to a general definition is possible, which
 embraces them all as special cases and would form their infinite
-logical product.1 Only thanks to the special m ethods o f con­
-struction which we developed in §§ 3 and 4 have we succeeded in
+logical product.1 Only thanks to the special m ethods o f construction which we developed in §§ 3 and 4 have we succeeded in
 carrying out the required reduction o f the semantical concepts,
 and then only for a specified group o f languages which are poor in
-gram m atical form s and have a restricted equipm ent o f seman­
-tical categories— nam ely the languages o f finite order. Let it
+gram m atical form s and have a restricted equipm ent o f semantical categories— nam ely the languages o f finite order. Let it
 be remem bered that the m ethods there applied required the use
 in the metalanguage o f categories o f higher order than all
-categories o f the language studied and are for that reason funda­
-m entally different from all gram m atical form s o f this language.
+categories o f the language studied and are for that reason fundam entally different from all gram m atical form s o f this language.
 The analysis o f the p roof o f Th. I sketched above shows that this
 
 1 In the course of our investigation we have repeatedly encountered similar
-phenomena: the impossibility of grasping the simultaneous dependence be­
-tween objects which belong to infinitely many semantical categories; the lack
+phenomena: the impossibility of grasping the simultaneous dependence between objects which belong to infinitely many semantical categories; the lack
 of terms of ' infinite order *; the impossibility of including, in on* process of
 definition, infinitely many concepts, and so on (pp. 188 f., 232 f., 243, 245).
 I do not believe that these phenomena can be viewed as a symptom of the
@@ -14834,20 +14276,16 @@ oironmstanee is n ot an accidental one. Under certain general
 assumptions, it proves to be im possible to construct a correct;
 definition o f truth i f only suoh categories are used which appear m
 the language under consideration.1 F or that reason the situation
-had fundam entally changed when we passed to the 'rich ' lan­
-guages o f infinite order. The m ethods used earlier proved to be
-inapplicable; all concepts and all gram m atical form s o f the meta­
-language found an interpretation in the language and hence we
+had fundam entally changed when we passed to the 'rich ' languages o f infinite order. The m ethods used earlier proved to be
+inapplicable; all concepts and all gram m atical form s o f the metalanguage found an interpretation in the language and hence we
 were able to show conclusively that the semantics o f the language
-could not be established as a part o f its m orphology. The signifi­
-cance o f the results reaohed reduces just to this.
+could not be established as a part o f its m orphology. The significance o f the results reaohed reduces just to this.
 
 But. apart' from this, Th, I has im portant consequences o f a
 m ethodological nature. It shows that- it is im possible to define in
 the m statheory a class o f sentences o f the language studied
 which constats exclusively o f m aterially true sentences and is at
-the same tim e com plete (in the sense o f D ef. 20 in § 8). In par­
-ticular-; i f we enlarge the class o f provable sentences o f the science
+the same tim e com plete (in the sense o f D ef. 20 in § 8). In particular-; i f we enlarge the class o f provable sentences o f the science
 investigated in any way— whether b y supplementing the list o f
 axiom s or b y sharpening the rules o f inference— then we either
 add false sentences to this olass or w© obtain an incom plete
@@ -14869,12 +14307,10 @@ of a universally valid ('aligemeingfiltig*) sentential function.
 
 At this point we should like to call attention to the dose connexion between
 the notions of ' structural definition of truth', and oi * general structural
-criterion of truth' discussed in this work, and the notions of recursive enu­
-merability and general recursiveness known from the recent literature (see,
+criterion of truth' discussed in this work, and the notions of recursive enumerability and general recursiveness known from the recent literature (see,
 for example, Mostowskl, A. (6 3 /), chap. 6). In fact, by saying that there is a
 £structural definition of truth* for a given formalized theory we essentially
-mean that the set of all true sentences of this theory is recursively enu­
-merable ; when, we say that there is a ' general structural criterion of truth* we
+mean that the set of all true sentences of this theory is recursively enumerable ; when, we say that there is a ' general structural criterion of truth* we
 mesa that iho not of all true sentences is general recursive.
 
 v n i, § t> CONCEPT O F TRUTH IN FORMALIZED LANGUAGES 265
@@ -14884,16 +14320,14 @@ consistent system in itself presents no difficulties.1
 
 A n interpretation o f Th. I which went beyond the lim its
 given w ould n ot be justified. In particular it w ould be incorrect
-to infer the im possibility o f operating consistently and in agree­
-m ent with intuition with sem antical concepts and especially with
+to infer the im possibility o f operating consistently and in agreem ent with intuition with sem antical concepts and especially with
 the concept o f truth. B ut since one o f the possible ways o f con ­
 structing the scientific foundations o f semantics is closed we
 m ust look for other m ethods. The idea naturally suggests itself
 o f setting up semantics as a special deductive science with a
 system o f m orphology as its logical substructure. F or this
 purpose it w ould be necessary to introduce into m orphology a
-given sem antical notion as an undefined concept and to estab­
-lish its fundam ental properties by means o f axiom s. The
+given sem antical notion as an undefined concept and to establish its fundam ental properties by means o f axiom s. The
 experience gained from the study o f semantical concepts in
 connexion with colloquial language, warns us o f the great
 dangers that m ay accom pany the use o f this m ethod. F or that
@@ -14903,8 +14337,7 @@ becom es especially im portant.
 
 In discussing this question I shall restrict m yself to the theory
 o f truth, and in the first place I shell establish the follow ing
-theorem , which is a consequence o f the discussion in the pre­
-ceding section:
+theorem , which is a consequence o f the discussion in the preceding section:
 
 Theorem IT. For an arbitrary, previously given n itvrol number
 le, it is possible to construct a definition of the- symbol ' 2 V on the
@@ -14929,8 +14362,7 @@ definition b y applying one o f the tw o m ethods described in § 4.
 I t is to be noted that the definition obtained in this way (together
 with the consequences given in Th. II) yields a series o f theorems
 o f a general nature, like the Ths. 1-5 in § 3, for example, if the
-form ulations o f these theorem s are suitably weakened by re­
-stricting the dom ain o f their applicability to sentences with
+form ulations o f these theorem s are suitably weakened by restricting the dom ain o f their applicability to sentences with
 variables o f at m ost the k th order.
 
 H ence it w ill be seen that, in contrast to the theory o f truth
@@ -14956,20 +14388,17 @@ with the single axiom from condition (,8)— cannot lead to a
 contradiction (so long as there is no contradiction already in the
 m etatheory). A ctually in the finite number o f axioms obtained
 from (a) only a finite number o f sentences o f the language studied
-appears and in these sentences we find a finite number o f vari­
-ables. There must, therefore, be a natural number k such that the
+appears and in these sentences we find a finite number o f variables. There must, therefore, be a natural number k such that the
 order o f none o f these variables exceeds &. From this it follows,
 b y Th. II, that a definition o f the sym bol ' 2 V can be constructed
-in the m etatheory such that the axiom s in question becom e con­
-sequences o f this definition. In other words: these axioms, with
+in the m etatheory such that the axiom s in question becom e consequences o f this definition. In other words: these axioms, with
 
 V i n , § 6 C O N C E PT O F T R U T H IN FORMALIZED LANGUAGES 257
 
 a suitable interpretation o f the sym bol ' T V , becom e provable
 sentences o f the m etatheory (this fact can also be estabHshed
 directly, i.e. independently o f Th. I I). I f any class o f sentences
-contains a contradiction, it is easy to show that the contra­
-diction m ust appear in a finite part o f this class.1 Since, how ever,
+contains a contradiction, it is easy to show that the contradiction m ust appear in a finite part o f this class.1 Since, how ever,
 no finite part o f the axiom system described in Th. I l l contains
 a contradiction, the whole system is consistent, which was to be
 proved.
@@ -14984,9 +14413,7 @@ function ' x e T r o r x e Tr\ I f in this function we substitute for
 the variable V structural-descriptive names o f sentences, we
 obtain an infinite num ber o f theorem s, the p roof o f which on
 the basis o f the axiom s obtained from the convention T presents
-not the slightest difficulty. B ut the situation changes funda­
-m entally as soon as we pass to the generalization o f this sen­
-tential function, i.e. to the general principle o f contradiction,
+not the slightest difficulty. B ut the situation changes fundam entally as soon as we pass to the generalization o f this sentential function, i.e. to the general principle o f contradiction,
 From the intuitive standpoint the truth o f all those theorems is
 itself already a p roof o f the general p rin cip le; this principle
 represents, so to speak, an 'infinite logical p rodu ct' o f those
@@ -14994,8 +14421,7 @@ special theorem s. B ut this does not at all mean that we can
 actually derive the principle o f contradiction from the axiom s or
 theorems m entioned b y means o f the norm al modes o f inference
 usually em ployed. On the contrary, b y a slight m odification in
-the p roof o f Th. I l l it can be shown that the principle o f contra­
-diction iy not a consequence (at least in the existing sense o f the
+the p roof o f Th. I l l it can be shown that the principle o f contradiction iy not a consequence (at least in the existing sense o f the
 word) o f the axiom system described.
 
 W e could, o f course, now enlarge the above axiom system by
@@ -15019,10 +14445,8 @@ objective criteria which we should wish to apply in the choice o f
 further axiom s prove to be quits inapplicable. Thus it seems
 natural to require that the axiom s o f the theory o f truth, together
 with the original axiom s o f the m etatheory, should constitute a
-categorical system .8 I t can be shown that this postulate co­
-incides in the present case with another postulate, according to
-which the axiom system o f the theory o f truth should un­
-am biguously determ ine the extension o f the sym bol ' Tr' which
+categorical system .8 I t can be shown that this postulate coincides in the present case with another postulate, according to
+which the axiom system o f the theory o f truth should unam biguously determ ine the extension o f the sym bol ' Tr' which
 occurs in it, and in the follow ing sense: if we introduce in to the
 m etatheory, alongside this sym bol, another prim itive sign, e.g.
 the sym bol iTr" and set up analogous axiom s for it, then the
@@ -15038,25 +14462,20 @@ suffice for the solution o f every problem from the dom ain o f the
 theory under consideration. This is an im m ediate m ethodo­
 
 logical consequence o f Th. I applied n ot to the language o f the
-general theory o f classes but to the richer language o f the meta­
-theory and the theory o f truth, (cf. the remarks on p. 254).
+general theory o f classes but to the richer language o f the metatheory and the theory o f truth, (cf. the remarks on p. 254).
 
-There is, how ever, quite a different w ay in w hich the founda­
-tions o f the theory o f truth m ay be essentially strengthened.
-1 For this purpose we must nevertheless to some extent* sharpen the pre­
-misses of the theorem by assuming that che class of all provable sentences
+There is, how ever, quite a different w ay in w hich the foundations o f the theory o f truth m ay be essentially strengthened.
+1 For this purpose we must nevertheless to some extent* sharpen the premisses of the theorem by assuming that che class of all provable sentences
 consistent in the sense
 of the metatheory is not only consistent, but also
 of Godel, K. (22), p* 187, or in other words, that this class remains consistent
-after a single application of the rule of infinite induction, which will be dis­
-cussed below.
+after a single application of the rule of infinite induction, which will be discussed below.
 
 a See p. 174, note 1.
 
 V E X § 5 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES 259
 
-The fact that we cannot infer from the correctness o f all sub­
-stitutions o f such a sentential function as 'x e T r or x e T r ' the
+The fact that we cannot infer from the correctness o f all substitutions o f such a sentential function as 'x e T r or x e T r ' the
 correctness o f the sentence which is the generalization o f this
 function, can be regarded as a sym ptom o f a certain im perfection
 in the rules o f inference hitherto used in the deductive sciences.
@@ -15066,8 +14485,7 @@ to the m etatheory m ay be form ulated somewhat as follow s: i f a
 given sentential function contains the sym bol V , which belongs
 to the same sem antical category as the names o f expressions,
 as its only free variable, and if every sentence, which arises
-from the given function b y substituting the structural-descrip­
-tive name o f any expression o f the language investigated for the
+from the given function b y substituting the structural-descriptive name o f any expression o f the language investigated for the
 variable (x\ is a provable theorem o f the m etatheory, then the
 sentence which we obtain from the phrase for every z , if x is an
 expression then p y b y substituting the given function for the
@@ -15080,15 +14498,12 @@ sym bols o f natural numbers are dealt with, i.e. such sym bols
 as *0J, ' l 5, ' 1 + 1' , ' i + H - r , and so on. i n this form the rule o f
 infinite induction recalls the principle o f com plete induction,
 which it exceeds considerably in logical power. Since it is possible
-to set up effectively a one-one correspondence between expres­
-sions and the natural numbers (of. the p roof o f Th. I) it is easy to
+to set up effectively a one-one correspondence between expressions and the natural numbers (of. the p roof o f Th. I) it is easy to
 see that the tw o form ulations are equivalent on the basis o f the
 m etatheory. B ut in the second form ulation no specific concepts
-o f the metalanguage occur at all, and for this reason it is applic­
-able to m any other deductive sciences. In the case where we are
+o f the metalanguage occur at all, and for this reason it is applicable to m any other deductive sciences. In the case where we are
 dealing with a science in the language o f which there are no
-specific sym bols for the natural numbers this form ulation re­
-quires certain external m odifications. For example, in order to
+specific sym bols for the natural numbers this form ulation requires certain external m odifications. For example, in order to
 form ulate the rale for the general theory o f classes, instead o f
 substitutions o f a given sentential function we must operate
 ^here, in the place o f
@@ -15099,9 +14514,7 @@ with expressions o f the type
 'p ' the function in question occurs and the sym bol 'tfc' has the
 same meaning as in the p roof o f Th. I .1
 
-On account o f its non-finitist nature the rule o f infinite in­
-duction differs fundam entally from the norm al rules o f infer­
-ence. On each occasion o f its use infinitely m any sentences must
+On account o f its non-finitist nature the rule o f infinite induction differs fundam entally from the norm al rules o f inference. On each occasion o f its use infinitely m any sentences must
 be taken in to consideration, although at no m om ent in the
 developm ent o f a science is such a num ber o f previously proved
 theorem s effectively given. I t m ay well be doubted whether
@@ -15112,25 +14525,19 @@ serious difficulties than the analogous problem regarding the
 existing rules, even if we assume the consistency o f the existing
 rules and perm it the use o f the new rule n ot only in the theory
 bu t also in the corresponding m etatheory and in particular in
-any attem pted p ro o f o f consistency. Nevertheless from the in­
-tuitive standpoint the rule o f infinite induction seems to be
+any attem pted p ro o f o f consistency. Nevertheless from the intuitive standpoint the rule o f infinite induction seems to be
 as reliable as the rules norm ally applied: it always leads from
 true sentences to true sentences. In connexion w ith languages
 o f finite order this fa ct can be strictly proved b y means o f the
 definition o f truth constructed for these languages. The fact that
 this rule enables m any problem s to be solved which are not
-solvable on the basis o f the old rules is in favour o f the accept­
-ance o f the new rule, n ot only in the theory but also in the m eta­
-theory. B y the introduction o f this rule the class o f provable
+solvable on the basis o f the old rules is in favour o f the acceptance o f the new rule, n ot only in the theory but also in the m etatheory. B y the introduction o f this rule the class o f provable
 sentences is enlarged b y a m uch greater extent than b y any
 supplem entation o f the list o f axiom s.2 In the case o f certain
 elem entary deductive sciences, this enlargem ent is so great that
 the class o f theorem s becom es a com plete system and coincides
 
-1 I have previously pointed out the importance of the rule of infinite in­
-duction in the year 1926. In a report to the Second Polish Philosophical Con­
-gress, in 1927, I have given, among other things, a simple example of a con­
-sistent deductive system which after a single application of this rule ceases to
+1 I have previously pointed out the importance of the rule of infinite induction in the year 1926. In a report to the Second Polish Philosophical Congress, in 1927, I have given, among other things, a simple example of a consistent deductive system which after a single application of this rule ceases to
 be consistent, and is therefore not ^-consistent (cf. p. 258, note 1; see also IX,
 p. 282, note 2). Some remarks on this rule are to be found in Hilbert, D.
 (29), pp. 491-2.
@@ -15166,8 +14573,7 @@ erected on these foundations contains no inner contradiction
 acquires a special im portance. U nfortunately this question
 cannot be finally decided at present. Th. I retains its full va lid ity:
 in spite o f the strengthening o f the foundations o f the m etatheory
-the theory o f truth cannot be constructed as a part o f the m orpho­
-logy o f language. On the other hand for the present we cannot
+the theory o f truth cannot be constructed as a part o f the m orphology o f language. On the other hand for the present we cannot
 prove Th. I l l for the enlarged metalanguage. The premiss which
 has played the m ost essential part in the original proof, i.e. the
 reduction o f the consistency o f the infinite axiom system to the
@@ -15179,8 +14585,7 @@ a 'norm ar system o f the m eta-m etatheory, which is constructed
 t This last remark enables us to construct a rather simple definition of
 truth for elementary number theory without using our general method. The
 definition thus constructed can be further simplified. In fact we can first
-structurally describe all true sentences which contain no variables (or quanti­
-fiers), and then define an arbitrary sentence to be true if and only if it can
+structurally describe all true sentences which contain no variables (or quantifiers), and then define an arbitrary sentence to be true if and only if it can
 be obtained from those elementary true sentences by applying the rule of
 infinite induction arbitrarily many times.
 
@@ -15203,13 +14608,11 @@ language (cf. pp. 158 and 248).1
 N o serious obstacles stand in the way o f the application o f the
 results obtained to other languages o f infinite order. This is
 especially true o f the m ost im portant o f these results— Th. I.
-The languages o f infinite order, thanks to the variety o f m ean­
-ingful expressions contained in them , provide sufficient means
+The languages o f infinite order, thanks to the variety o f m eaningful expressions contained in them , provide sufficient means
 for the form ulation o f every sentence belonging to the arithm etic
 1 This last problem is equivalent to a seemingly more general problem of
 a methodological nature which can be formulated as follows. Wo presuppose
-the consistency of the metatheory supplemented by the rule of infinite in­
-duction. We consider an infinite sequence t of sentences of the metatheory;
+the consistency of the metatheory supplemented by the rule of infinite induction. We consider an infinite sequence t of sentences of the metatheory;
 further we take into the metatheory a new primitive sign *N\ and add
 as axioms those and only those sentences which are obtained from the
 e N if and. only if p ' by substituting for the sign *n* the £th specific
@@ -15251,10 +14654,8 @@ this expression as a part o f a ooncrete language. As soon as the
 discussion is about a large num ber o f languages the expression
 'true sentence' ceases to be unambiguous. I f wo are to avoid this
 am biguity we m ust replace it b y the relative term
-true sen­
-tence w ith respect to the given language' . In order to make the
-sense o f this term precise we apply to it essentially the same pro­
-cedure as before: we construct a com m on metalanguage for all
+true sentence w ith respect to the given language' . In order to make the
+sense o f this term precise we apply to it essentially the same procedure as before: we construct a com m on metalanguage for all
 the languages o f the given class; within the metalanguage we
 try to define the expression in question with the help o f the
 m ethods developed in §§ 3 and 4. I f we are not successful we add
@@ -15262,17 +14663,14 @@ this term to the fundam ental expressions o f the metalanguage
 and b y the axiom atic m ethod determ ine its meaning according
 to the instructions o f Th. H I o f this section. On account o f the
 rdativization, o f this term we should nevertheless expect a -priori
-that in carrying out the plan sketched above the earlier diffi­
-culties w ould be significantly increased and quite new com plica­
-tions m ight arise (connected for exam ple with the necessity o f
+that in carrying out the plan sketched above the earlier difficulties w ould be significantly increased and quite new com plications m ight arise (connected for exam ple with the necessity o f
 
 1 A reservation is necessary here: if we choose as our starting-point the
 classification cf semantical categories sketched on p. 218. nets 2, then we
 again encounter languages of infinite order for which Th, T loses its validity.
 A typical example is furnished by the language of Le&uiewski's Protothetic
 (ct. Lesniewski, S. (46)). In consequence of tho •finitistio* character of all the
-semantical categories of this language, it is easy to construct, in the meta­
-language, a correct definition of truth, by choosing as model the matrix method
+semantical categories of this language, it is easy to construct, in the metalanguage, a correct definition of truth, by choosing as model the matrix method
 from the extended sentential calculus. Moreover, such a definition can be
 obtained in other ways; as Le&vieweki has shown, the. class of provable
 sentences of the protothetic ie complete, and therefore the concept of provable
@@ -15289,8 +14687,7 @@ for such investigations at the present tim e seem to be rather
 lim ited. In particular it w ould be incorrect to suppose that the
 relativization o f the concept o f truth— in the direction m entioned
 above— w ould open the w ay to som e general theory o f this
-ooncept which w ould em brace all possible or at least all form al­
-ized languages. The class o f languages which is chosen as th e
+ooncept which w ould em brace all possible or at least all form alized languages. The class o f languages which is chosen as th e
 ob ject o f sim ultaneous study m ust n ot be too wide. I f, for
 exam ple, we include in this class the m etalanguage, which form s
 the field o f the investigations and already contains the conoept
@@ -15325,8 +14722,7 @@ Th. I — that no definition w ith the properties m entioned can be
 V in , § 6 CONCEPT OP TROTH IN FORMALIZED LANGUAGES 265
 
 formulated in the metalanguage.1 In order to construct the
-theory of the concept studied in these cases also, it must be in­
-cluded in the system of primitive concepts, and the postulate
+theory of the concept studied in these cases also, it must be included in the system of primitive concepts, and the postulate
 described above must be inoluded in the axiom system of the
 metatheory. A procedure analogous to the proof of Th. Ill
 proves that the system of the metalanguage supplemented in this
@@ -15351,8 +14747,7 @@ A. For every formalized language of finite order a formally
 correct and materially adequate definition of true sentence can be
 constructed in the metalanguage, making use only of expressions of
 a general logical kind, expressions of the language itself as well as
-terms belonging to the morphology of language, i.e. names of lin­
-guistic expressions and of the structural relations existing between
+terms belonging to the morphology of language, i.e. names of linguistic expressions and of the structural relations existing between
 them.
 
 B. For formalized languages of infinite order the construction
@@ -15380,16 +14775,14 @@ of infinite order, the consistent and correct use of the concept of truth
 is rendered possible by including this concept in the system ofprimi*
 tive concepts of the metalanguage and determining its fundamental
 properties by means of the axiomatic method (the question whether
-the theory o f truth established in this w ay contains no contra­
-diction remains for the present undecided).
+the theory o f truth established in this w ay contains no contradiction remains for the present undecided).
 
 Since the results obtained can easily be extended to other
 sem antical concepts the above theses can be given a m ore general
 form : *
 
 A '. The semantics of any formalized language of finite order can
-be built up as a part of the morphology of language, based on corre­
-spondingly constructed definitions.
+be built up as a part of the morphology of language, based on correspondingly constructed definitions.
 
 B '. It is impossible to establish the semantics of the formalized
 
@@ -15399,8 +14792,7 @@ O'. But the semantics of any formalized language of infinite
 order can be established as an independent science based upon its
 own primitive concepts and its own axioms, possessing as its logical
 foundation a system of the morphology of language (although a full
-guarantee that the semantics constructed b y this m ethod con­
-tains no inner contradiction is at present lacking).
+guarantee that the semantics constructed b y this m ethod contains no inner contradiction is at present lacking).
 
 From the form al point o f view the foregoing investigations
 have been carried out within the boundaries o f the m ethodology
@@ -15411,8 +14803,7 @@ sentence for deductive sciences o f finite order a general method
 has been obtained for proving their consistency (a m ethod which,
 how ever, does not add greatly to our knowledge). I w ould point
 out also that it has been possible to define, for languages o f finite
-order, the concepts o f correct sentence in a given and in an arbi­
-trary individual dom ain— concepts which play a great part in
+order, the concepts o f correct sentence in a given and in an arbitrary individual dom ain— concepts which play a great part in
 recent m ethodological studies.
 
 B ut in its essential parts the present work deviates from the
@@ -15429,8 +14820,7 @@ problem s o f this branch o f philosophy. I therefore hope that this
 w ork will interest the student o f the theory o f knowledge above
 all and that he w ill be able to analyse the results contained in it
 critically and to judge their value for farther researches in this
-field, w ithout allowing him self to be discouraged by the appara­
-tus o f concepts and m ethods used here, which in places have been
+field, w ithout allowing him self to be discouraged by the apparatus o f concepts and m ethods used here, which in places have been
 difficult and have n ot hitherto been used in the field in which he
 works.
 
@@ -15439,8 +14829,7 @@ to use deductive m ethods in their daily work are inclined to
 regard all form alized languages with a certain disparagem ent,
 because they contrast these 'artificial* constructions with the
 one natural language— the colloquial language. F or that reason
-the fa ct that the results obtained concern the form alized lan­
-guages alm ost exclusively will greatly diminish the value o f
+the fa ct that the results obtained concern the form alized languages alm ost exclusively will greatly diminish the value o f
 the foregoing investigations in the opinion o f many readers. It
 would be difficult foT me to share this view. In xny opinion the
 considerations o f § 1 prove em phatically that the concept o f
@@ -15471,14 +14860,12 @@ languages possessing a structure which is in harm ony with
 the theory o f sem antical categories and especially w ith its
 basic.principles. This fact has exercised an essential influence on
 the construction o f the whole w ork and on the form ulation o f its
-final results. It seemed to me then that 'the theory o f the sem an­
-tical categories penetrates so deeply into our fundam ental
+final results. It seemed to me then that 'the theory o f the sem antical categories penetrates so deeply into our fundam ental
 intuitions regarding the meaningfulness o f expressions, that it is
 hardly possible to im agine a scientific language whose sentences
 possess a clear intuitive m eaning but whose structure cannot be
 brought into harm ony with the theory in question in one o f its
-form ulations' (cf. p. 215). T oday I can no longer defend d e­
-cisively the view I then took o f this question. In connexion with
+form ulations' (cf. p. 215). T oday I can no longer defend d ecisively the view I then took o f this question. In connexion with
 this it now seems to me interesting and im portant to inquire
 what the consequences w ould be for the basic problem s o f the
 present work if we included in the field under consideration
@@ -15486,10 +14873,8 @@ form alized languages for w hich the fundam ental principles o f the
 theory o f sem antical categories no longer hold. In what follow s
 I w ill briefly consider this question.
 
-A lthough in this w ay the field to be covered is essentially en­
-larged, I do not intend— any m ore than previously— to consider
-all possible languages which som eone m ight at some tim e con­
-struct. On the contrary I shall restrict m yself exclusively to
+A lthough in this w ay the field to be covered is essentially enlarged, I do not intend— any m ore than previously— to consider
+all possible languages which som eone m ight at some tim e construct. On the contrary I shall restrict m yself exclusively to
 languages which— apart from differences connected with the
 theory o f sem antical categories— exhibit in their structure the
 greatest possible analogy w ith the languages previously studied.
@@ -15500,8 +14885,7 @@ calculus, only individual names and the variables representing
 them , as well as constant and variable sentence-form ing functors
 with arbitrary numbers o f arguments. A fter the manner of
 the procedure in §§ 2 and 4 we try to specify for each o f these
-languages the concepts o f prim itive sentential function, funda­
-m ental operations on expressions, sentential function in general,
+languages the concepts o f prim itive sentential function, fundam ental operations on expressions, sentential function in general,
 
 V i n , § 7 C O N C E PT O P T R U T H IN F O R M A L IZ E D L A N G U A G E S 269
 
@@ -15514,20 +14898,16 @@ the specific peculiarities o f the language). In determ ining the
 concept o f consequence we take as our m odel D ef. 15 in § 2.
 
 The concept introduced in § 4 o f the order o f an expression
-plays a part w hich is no less essential than before in the con­
-struction o f the language we are now considering. I t is advisable
-to assign to names o f individuals and to the variables represent­
-in g them the order 0 (and not as before the order 1). The order
-o f a sentence-form ing fu nctor o f an arbitrary (prim itive) sen­
-tential function is no longer unam biguously determ ined b y the
+plays a part w hich is no less essential than before in the construction o f the language we are now considering. I t is advisable
+to assign to names o f individuals and to the variables representin g them the order 0 (and not as before the order 1). The order
+o f a sentence-form ing fu nctor o f an arbitrary (prim itive) sentential function is no longer unam biguously determ ined b y the
 orders o f all arguments o f this function. Since the principles o f
 the theory o f the sem antical categories no longer hold, it m ay
 happen that one and the same sign plays the part o f a functor in
 tw o or m ore sentential functions in which arguments occupying
 respectively the same places nevertheless belong to different
 orders. Thus in order to fix the order o f any sign we must take
-in to account the orders o f all arguments in all sentential fu n c­
-tions in w hich this sign is a sentence-form ing funotor. I f the
+in to account the orders o f all arguments in all sentential fu n ctions in w hich this sign is a sentence-form ing funotor. I f the
 order o f all these arguments is smaller than a particular natural
 num ber » , and if there occurs in at least one sentential function
 an argument which is e x a ctly b f order n — 1, then we assign to the
@@ -15572,16 +14952,14 @@ occurs as a sentence-forming functor.2
 Just as in § 4, we can distinguish languages of finite and infinite
 order. We can in fact assign to every language a quite specific
 ordinal number as its order, namely the smallest ordinal number
-which exceeds the orders of all variables occurring in this lan­
-guage (the former languages of the nth order—as can easily be
+which exceeds the orders of all variables occurring in this language (the former languages of the nth order—as can easily be
 shown—retain their former order under this convention because
 the order of the names of individuals has been diminished. The
 language of the general theory of classes has the order a>).
 
 It does not at all follow from these stipulations that every
 variable in the languages in question is of a definite order. On
-the contrary it seems to me (by reason o f trials and other con­
-siderations) almost certain that we cannot restrict ourselves to
+the contrary it seems to me (by reason o f trials and other considerations) almost certain that we cannot restrict ourselves to
 the use o f variables o f definite order if we are to obtain languages
 
 1 Cf. Praankel, A . (16), pp. 185 ft.
@@ -15609,20 +14987,17 @@ contain such variables and in describing the axiom s which we
 have called pseudodefinitions. B ut we cannot go into details here.1
 There is obviously no obstacle to the introduction o f variables
 o f transfinite order n ot only into the language which is the object
-investigated, but also into the m etalanguage in which the investi­
-gation is carried out. In particular it is always possible to con ­
+investigated, but also into the m etalanguage in which the investigation is carried out. In particular it is always possible to con ­
 struct the metalanguage in such a w ay that it contains variables
 
 1 From the languages just considered it is but a step to languages of another
 kind which constitute a much more convenient and actually much more
 frequently applied apparatus for the development of logic and mathematics.
 In these new languages all the variables are of indefinite order. From the
-formal point of view these are languages of a very simple structure; accord­
-ing to the terminology laid down in § 4 they must be counted among the
+formal point of view these are languages of a very simple structure; according to the terminology laid down in § 4 they must be counted among the
 languages of the first kind, since all their variables belong to one and the same
 semantical category. Nevertheless, as is shown by the investigations of
-E . Zermeio and his successors (cf. Skolem, Th. (66), pp. 1-12), with a suit­
-able choice of axioms it> is possible to construct the theory of sets and
+E . Zermeio and his successors (cf. Skolem, Th. (66), pp. 1-12), with a suitable choice of axioms it> is possible to construct the theory of sets and
 the whole of classical mathematics on the basis provided by this language.
 In it we can express so to speak every idea which can be .formulated in the
 previously studied languages of finite and infinite order. For the languages
@@ -15633,8 +15008,7 @@ objects which are not sets, we call objects of order 0 ; the order of an arbitra
 set is the smallest ordinal number which is greater than the orders of all
 elements of this set; the order of the language is the smallest ordinal number
 which exceeds the order of all sets whose existence follows from the axioms
-adopted in the language. Our further exposition also applies without restric­
-tion to the languages which have just been discussed.
+adopted in the language. Our further exposition also applies without restriction to the languages which have just been discussed.
 
 272 CONCEPT OF TRUTH IN FORMALIZED LANGUAGES VIH, S 7
 
@@ -15671,9 +15045,7 @@ are o f different orders. On the other hand the considerations
 brought forw ard in § 5 in connexion w ith Th. I lose none o f their
 im portance and can be extended to languages o f any order. It is
 im possible to give an adequate definition o f truth for a language
-in w hich the arithm etic o f the natural num bers can b e con­
-structed, i f the order o f the m etalanguage in w hich the investiga­
-tions are carried out does n ot exceed the order o f the language
+in w hich the arithm etic o f the natural num bers can b e constructed, i f the order o f the m etalanguage in w hich the investigations are carried out does n ot exceed the order o f the language
 investigated (cf. the relevant remarks on .p. 253).
 
 V I U , § 7 C O N C E PT O P T R U T H IN F O R M A L IZ E D LA N G U A G E S 273
@@ -15683,8 +15055,7 @@ revising, to a rather important extent, the Theses A and B given
 in the conclusions o f this work and containing a summary o f its
 chief results:
 
-A. For every formalized language a formally correct and materi­
-ally adequate definition of true sentence can be constructed in the
+A. For every formalized language a formally correct and materially adequate definition of true sentence can be constructed in the
 metalanguage with the help only of general logical expressions, of
 expressions o f the language itself, and of terms from the morphology
 of language—but under the condition that the metalanguage possesses
@@ -15704,8 +15075,7 @@ same order as the language studied and when, having abandoned
 the Construction o f a definition o f truth, the attempt is made to
 build up the theory o f truth by the axiomatic method. It is easy
 to see that a theory o f truth built up in this way cannot contain
-an inner contradiction, provided there is freedom from contra­
-diction in the metalanguage o f higher order on the basis o f which
+an inner contradiction, provided there is freedom from contradiction in the metalanguage o f higher order on the basis o f which
 an adequate definition o f truth can be set up and in which those
 theorems which are adopted in the theory o f truth as axioms
 can be derived.1
@@ -15724,17 +15094,14 @@ pn p. 262, footnote.
 274 CONCEPT OP TRUTH IN FORMALIZED LANGUAGES VIII, § 7
 
 definitions, provided, however,
-language in which the mor­
-phology is carried out has a higher order than the language whose
+language in which the morphology is carried out has a higher order than the language whose
 morphology it is.
 
 B\ It is impossible to establish the semantics of a language in
 this way if the order of the language of its morphology is at most
 equal to that of the language itself.
 
-The Thesis A in its new generalized form is o f no little im por­
-tance for the m ethodology o f the deductive sciences. Its con­
-sequences run parallel with the im portant results which Godel
+The Thesis A in its new generalized form is o f no little im portance for the m ethodology o f the deductive sciences. Its consequences run parallel with the im portant results which Godel
 has reported in this field in recent years. The definition o f truth
 allows the consistency o f a deductive science to be proved on the
 basis o f a m etatheory which is o f higher order than the theory
@@ -15776,8 +15143,7 @@ m etatheory (of. e.g. D ef. 17 in § 2). In accordance with the first
 part o f Th. I we can obtain the negation o f one o f the sentences
 in condition (a) o f convention T o f § 3 as a consequence o f the
 definition o f the sym bol 'P r ' (provided we replace ' T V in this
-convention b y 'P r' ). In other words we can construct a sen­
-tence x o f the science in question which satisfies the follow ing
+convention b y 'P r' ). In other words we can construct a sentence x o f the science in question which satisfies the follow ing
 condition:
 
 it is not true that x e Pr if and only if p
@@ -15814,8 +15180,7 @@ from (1) and (2) we obtain im m ediately
 x e P r if and only if x e Tr.
 
 M oreover, if we denote the negation o f the sentence x b y the
-sym bol 'x ' we can derive the follow ing theorems from the defini­
-tion o f truth (cf. Ths. 1 and 6 in § 3):
+sym bol 'x ' we can derive the follow ing theorems from the definition o f truth (cf. Ths. 1 and 6 in § 3):
 
 (4)
 
@@ -15910,8 +15275,7 @@ It was to be expected that, in consequence of this lapse of six years,
 and o f the nature of the problem and perhaps also o f the language o f
 the original text o f m y work, errors regarding the historical connexions
 might occur. And in fact Carnap writes in the second ot the abovementioned articles regarding m y investigations that they have been
-carried out ' . . . in connexion with those of God el . . . \ It will there­
-fore not be superfluous if I make some remarks in this place about the
+carried out ' . . . in connexion with those of God el . . . \ It will therefore not be superfluous if I make some remarks in this place about the
 dependence or independence of m y studies.
 
 I m ay say quite generally that all m y methods and results, with the
@@ -15929,8 +15293,7 @@ the problem o f defining truth, cf. especially pp. 1 8 7 -8 ; (2) the positive
 solution o f the problem, i.e. the definition o f the concept o f truth for the
 case where the means available in the metalanguage are sufficiently rich
 (for logical languages this definition becomes that o f the term ' analytical *
-used by Carnap). Cf. pp. 194 and 2 3 6 ; (3) the method o f proving con­
-sistency on the basis o f the definition o f truth, cf. pp. 199 and 2 3 6 ;
+used by Carnap). Cf. pp. 194 and 2 3 6 ; (3) the method o f proving consistency on the basis o f the definition o f truth, cf. pp. 199 and 2 3 6 ;
 (4) the axiomatic construction o f the metasystem , cf. pp. 173 fF., and in
 connexion with this (5) the discussions on pp. 184 f. on the interpret*-
 
@@ -15957,12 +15320,10 @@ C O N C E P T S O F ^ - C O N S I S T E N C Y A N D
 o . C O M P L E T E N E S S t
 
 I n an extrem ely interesting article Gfidel1 introduces the
-concept o f m-consistency, and constructs an example o f a de­
-ductive system which is consistent in the usual sense, but is not
+concept o f m-consistency, and constructs an example o f a deductive system which is consistent in the usual sense, but is not
 ai-consistent. In the present article I propose to give another
 simple exam ple o f such a system , together with some general
-remarks on the concept m entioned as well as on the correspond­
-ing concept o f co -com pleteness.2
+remarks on the concept m entioned as well as on the corresponding concept o f co -com pleteness.2
 
 The sym bolical language in which I shall construct this system
 is closely related to the language o f the system P used b y Godel.
@@ -15973,14 +15334,10 @@ expression o f every idea which can be form ulated in Principia
 Mathematical
 
 5 See Godel, K . (22).
-2 Already, in the year 1927, at the vSecond Conference of the Polish Philoso­
-phical Society in Warsaw in the lecture4 Remarks on some notions of the metho­
-dology of the deductive sciences1 (listed by title in Buck Fitozoflczny, vol. 10
+2 Already, in the year 1927, at the vSecond Conference of the Polish Philosophical Society in Warsaw in the lecture4 Remarks on some notions of the methodology of the deductive sciences1 (listed by title in Buck Fitozoflczny, vol. 10
 (1926-7), p. 96), I had pointed out the importance of these two concepts, and the
 rule of transfinite induction which is closely related to them and about which
-more is said in the text, but I had not suggested special names for these con­
-cepts. I also communicated the example of a consistent, and yet not in­
-consistent system which I give in the present article in a slightly altered
+more is said in the text, but I had not suggested special names for these concepts. I also communicated the example of a consistent, and yet not inconsistent system which I give in the present article in a slightly altered
 form. Naturally it is not hereby claimed that I already knew then the results
 later obtained by Godel or had even foreseen them. On the oontrary, I
 had personally felt that the publication of the work of Godel cited above was
@@ -16010,8 +15367,7 @@ sym bols com posed o f the sign V and an arbitrary series o f small
 strokes both above and below. The constants and variables
 are the sim plest expressions o f the language. B y writing down
 these signs one after another in any number and arrangement we
-obtain m ore com plicated expressions. E very com posite expres­
-sion, i.e. one containing m ore than one sign, can profitably be
+obtain m ore com plicated expressions. E very com posite expression, i.e. one containing m ore than one sign, can profitably be
 regarded as the result o f putting together tw o (or m ore) successive
 %',&?* consists o f T T
 sim ple expressions. F or exam ple:
@@ -16025,13 +15381,11 @@ x, * and (x, xV or also o f
 The constants have their usual interpretation: expressions o f
 the form *Np\ Opqs and 'J J xp\ in which, in plaoe o f 'p* and
 qf any sentences and instead o f V any variables, occur, are
-read: 'not p\ Hfp then qy and 'for every x, p ' respectively. V ari­
-ables with one upper stroke are regarded as names o f individuals
+read: 'not p\ Hfp then qy and 'for every x, p ' respectively. V ariables with one upper stroke are regarded as names o f individuals
 (objects o f 1st order), those with tw o strokes as naming classes
 o f individuals (objects o f 2nd order) and so on. The use o f lower
 strokes with the variable serves the same purpose as the custom ­
-ary use o f letters o f different shapes in the function o f the vari­
-ables. A n expression o f the form 'xy\ where instead o f V any
+ary use o f letters o f different shapes in the function o f the variables. A n expression o f the form 'xy\ where instead o f V any
 variable occurs and instead o f V a variable w ith one more
 upper stroke, is read: (x is an element of the class y* or *z has the
 property y\
@@ -16040,8 +15394,7 @@ The language here briefly described m ay be made the object
 o f a special investigation. This task presupposes that we consider
 it from the standpoint o f another language which in contrast
 to the original one can be called the matalangwage, and on
-the basis o f this metalanguage we can establish a special disci­
-pline, the so-called metadiscipline♦ In order to avoid unnecessary
+the basis o f this metalanguage we can establish a special discipline, the so-called metadiscipline♦ In order to avoid unnecessary
 
 1 The negation sign <jan be dispensed with and serves only to simplify the
 
@@ -16057,24 +15410,20 @@ developed system o f 'm athem atical logic (e.g. to Principia
 Mathematics), and in particular those from the dom ain o f the
 calculus o f classes, and the arithm etic o f natural num bers;1
 (2) specific concepts o f a structural-descriptive character which
-designate the expressions o f the original language, their struc­
-tural properties, and their m utual structural relations. The
+designate the expressions o f the original language, their structural properties, and their m utual structural relations. The
 follow ing terms are regarded as prim itive concepts o f the
-m etalanguage: "expression* or rather "the class o f all expres­
-sions', in sym bols 'A 9; "negation sign*— V ; "im plication sign*—
+m etalanguage: "expression* or rather "the class o f all expressions', in sym bols 'A 9; "negation sign*— V ; "im plication sign*—
 V ; "universal quantifier' — V ' ; "variable with h strokes below
 and l above' for "the kth. variable o f the ith order' )—
 "expression which consists o f the tw o successive
 finally
-expressions £ and 77' sym bolically " r " V -2 It can easily be estab­
-lished that the above concepts suffice for the exact description
+expressions £ and 77' sym bolically " r " V -2 It can easily be established that the above concepts suffice for the exact description
 o f every expression o f the original language. W ith their help we
 can correlate with every such expression a particular individual
 name in the metalanguage. F or example, the expression
 "IJ d x>x*' *s denoted b y the individual name
 
-Corresponding to the tw o categories o f concepts o f the m eta­
-language, the system o f assumptions which suffioe for the
+Corresponding to the tw o categories o f concepts o f the m etalanguage, the system o f assumptions which suffioe for the
 deductive establishm ent o f the m etadiscipline consists o f tw o
 kinds o f statem ents: (1) the axioms of mathematical logic; and
 (2) such theses as suffice to establish the basic properties of (he
@@ -16084,8 +15433,7 @@ specific primitive concepts of the metalanguage. It will not perhaps
 works on the theory of sets. For example, formulas of the form tx, y,,.. e Z*
 e Z<y express the fact that x, y,... do and do not belong to the set
 and
-Z respectively. <0 ' denotes the null set and ' {2 , t/,..., 2} ' the set which con­
-z as elements. By the symbol 'Ntf I denote the set of all
+Z respectively. <0 ' denotes the null set and ' {2 , t/,..., 2} ' the set which conz as elements. By the symbol 'Ntf I denote the set of all
 tains only xy
 patural numbers. Nt—{0} is thus the set of all natural numbers distinct from 0.
 * This last primitive concept can be replaced by the concept ' the nth sign
@@ -16136,9 +15484,7 @@ r] e X , then £^77 e Z . Then i c j ,
 
 £ Z ; (3) t /
 
-It is not difficult to prove that the above axiom system is cate­
-gorical,1 has an interpretation in the arithmetic of the natural num­
-bers awl consists of mutually independent statements.2
+It is not difficult to prove that the above axiom system is categorical,1 has an interpretation in the arithmetic of the natural numbers awl consists of mutually independent statements.2
 
 In order to give the further developm ents a simpler form a
 series o f sym bolic abbreviations is now introduced into the
@@ -16154,8 +15500,7 @@ infinite). Without going into the analysis of these difficult questions I should
 like to say only that the objections mentioned are weakened significantly if
 it is assumed: (i) that we regard as expressions of the language not concrete
 inscriptions but whole classes of inscriptions of like form, and correspondingly
-modify the intuitive sense of the remaining primitive concepts of the meta­
-language ; (ii) that we interpret the concept of inscription as widely as possible,
+modify the intuitive sense of the remaining primitive concepts of the metalanguage ; (ii) that we interpret the concept of inscription as widely as possible,
 to include not only manuscript inscriptions, but also aU material bodies (or
 geometrical figures) of definite form. I discuss this point in more detail in my
 article VIII on the concept of truth, where I have given the above axiom
@@ -16320,8 +15665,7 @@ m
 D efin itio n 7. £ e L (£ is a logical axiom ), if one of the following
 conditions is satisfied: (1) there exist statements n, 3, £ e 8 such
 that either £ — (ij -> 8) -»■ ((S -> £) -> (17 -> £)) or £ — {fj -*■ rj) -> ij
-(rj -> £)] (2) fAere w a number k e Nt—{0} o n i a .sen­
-or £ — -r)
+(rj -> £)] (2) fAere w a number k e Nt—{0} o n i a .senor £ — -r)
 tence 17 e 5 encA that £ — u ? + i n ? ( 4 i o *2}, wdtere
 1 e Fr{rj);
 (3) there is a number k e N t —{0} such that
@@ -16338,8 +15682,7 @@ contain no free variables (see below, Def. 8).
 
 A N D a>-COMPLETENESS
 
-The sentences w hich satisfy condition (1) in the above defini­
-tion are the axioms of the sentential calculus o f Lukasiewicz1 (or
+The sentences w hich satisfy condition (1) in the above definition are the axioms of the sentential calculus o f Lukasiewicz1 (or
 rather substitutions o f these axiom s); the sentences under (2),
 clearly related to the axiom o f reducibility o f Principia Mathematica, can be called pseudodefinitions in accordance with the
 proposal o f S. Lesniewski; finally we recognize the sentences
@@ -16471,12 +15814,10 @@ Cn(X) 96 8;
 (c) X e S3 (X is a com plete set of sentences), if X £ 8 and at
 the same time we have, for any £e $ , either £ e Cn{X) or X -f-{£ } e SB.
 
-Some transform ations o f D efs. 10 6 and c are w orth empha­
-sizing, since they are equivalent to the original form ulations but
+Some transform ations o f D efs. 10 6 and c are w orth emphasizing, since they are equivalent to the original form ulations but
 in m any cases are easier to m anipulate:
 
-T h e o r e m 3. (a) In order that X e SB, it is necessary and suffi­
-cient that X £ 8 and that for every £ e 8 we have either £ e Cn(X)
+T h e o r e m 3. (a) In order that X e SB, it is necessary and sufficient that X £ 8 and that for every £ e 8 we have either £ e Cn(X)
 or %e Gn(X).
 
 (b) Let Fr(£) = 0; in order that X -J-{£} e SEB, it is necessary and
@@ -16523,11 +15864,9 @@ b y the sym bol <f>% contains at m ost n elements; likewise Sk means
 
 T H E CONCEPTS OF oi-CGNSISTENCY
 
-that this set is finite (inductive in the sense o f Principia Mathe­
-matical).
+that this set is finite (inductive in the sense o f Principia Mathematical).
 
-Definition 12. (a) X s 2B«, (X is an ^-consistent set of sen­
-tences) s if X £ 8 and if for every £ e $ such that Fr(&) = {<£}}*
+Definition 12. (a) X s 2B«, (X is an ^-consistent set of sentences) s if X £ 8 and if for every £ e $ such that Fr(&) = {<£}}*
 £) e Cn(X) for every n s Nt always implies
 the condition
 
@@ -16546,18 +15885,15 @@ o e < w )
 /o r every n s N t always implies the formula f jf ( 8 X -»■ 0 e Cn(X).
 
 I n order to make the content o f these concepts more com ­
-prehensible, let us consider any property P which sets o f indi­
-viduals can have and which can be form ulated in the present
+prehensible, let us consider any property P which sets o f individuals can have and which can be form ulated in the present
 language. Let £n(P) (where n e Nt), or ?JKP) be sentences o f the
 language which assert respectively that every set which contains
 at m ost n individuals, or every finite set o f individuals possesses
 the property P. A set X o f sentences will be called ^-consistent
 i f it cannot be the case that for some property P all sentences
 o f the infinite sequence £n(P ) are consequences o f the set X but
-nevertheless the negation o f the sentence £W(P) is also a con­
-sequence o f this set. On the other hand, a set X will be called
-co-com plete if. whenever all sentences £*(P ) belong to the con­
-sequence o f the set X , the sentence $m(P) is also a consequence of
+nevertheless the negation o f the sentence £W(P) is also a consequence o f this set. On the other hand, a set X will be called
+co-com plete if. whenever all sentences £*(P ) belong to the consequence o f the set X , the sentence $m(P) is also a consequence of
 the same set.8
 
 The follow ing relations hold between the classes SB, 2BW,
@@ -16579,8 +15915,7 @@ i s S such that X + { £ } e SB-SB*,.
 there exist certain purely formal differences. They are accounted for by the
 fact that, in the formal language here in question, specific symbols to denote the
 natural numbers do not occur. It is easy to show that with regard to GMel's
-system P (and all more comprehensive systems) the two formulations are equi­
-valent.
+system P (and all more comprehensive systems) the two formulations are equivalent.
 
 r x
 
@@ -16650,8 +15985,7 @@ set 8 and the set 8V
 
 We shall call designated variables the first» + 1 variables o f the
 1st order (i.e. the variables <j>{,
-^ +1), the first 2n+1 vari­
-ables o f the 2nd order, the first 22*+1 variables o f the 3rd
+^ +1), the first 2n+1 variables o f the 2nd order, the first 22*+1 variables o f the 3rd
 order, and so on. We denote by 'S" the set of all sentences
 which contain no designated variables, and by 'S '1 the set of all
 sentences in which, in addition to constants, only designated
@@ -16671,8 +16005,7 @@ Ci-S6i,*£, £a.S6ii*£,
 & (fU 0 = Ci A — A 4+i» wiere
 .... £rt+x^ i +x|fc£,
 
-and in general ^8( f j i £) =» £t A ... A £,, where £j, £a,..., Cp are sen­
-tences which are obtained from £ by substituting for the free
+and in general ^8( f j i £) =» £t A ... A £,, where £j, £a,..., Cp are sentences which are obtained from £ by substituting for the free
 variables <j>lk all successive designated variables o f the 2th order,
 $>• As will easily be seen, the function tfia maps the
 set S' onto a part o f the set 8a, in particular the sentences
@@ -16869,8 +16202,7 @@ the system Tw or T'wi taken b y itself, holds in some finite dom ain
 o f individuals. These systems can be represented as a sum
 o f an infinitely increasing sequence o f 'fm itistic' system s, e.g.
 systems Tn = Cn({ocn}). On the other Hand, the system
-con­
-tains sentences, e.g. the axiom o f infinity a00, which in them ­
+contains sentences, e.g. the axiom o f infinity a00, which in them ­
 selves adm it o f no 'finitistic interpretation' . In consequence
 this system is m uch more com prehensive than
 trast to the latter— is sufficient for the establishm ent o f the
@@ -16911,21 +16243,16 @@ Th. 7.1
 
 The facts here brought forw ard are notew orthy for m any
 reasons. Form erly it could be assumed that the form alized
-concept o f oonsequence coincides in extension with that con­
-cept in everyday language, or at least that all purely structural
+concept o f oonsequence coincides in extension with that concept in everyday language, or at least that all purely structural
 operations, w hich unconditionally lead from true statements to
 true statem ents, could be reduced w ithout exception to the rules
 o f inference em ployed in the deductive disciplines. It m ight also
 be thought that the consistency o f a deductive system is in itself
 a sufficient guarantee against the appearance o f statements in
-the system which— on account o f their m utual structural rela­
-tions— cannot both be true. Since, how ever, there are systems
-which are on the one hand w-incom plete and on the other con­
-sistent, but not ^-consistent, the basis o f both o f these assump­
-tions is rem oved. In fact, from the intuitive standpoint the truth
+the system which— on account o f their m utual structural relations— cannot both be true. Since, how ever, there are systems
+which are on the one hand w-incom plete and on the other consistent, but not ^-consistent, the basis o f both o f these assumptions is rem oved. In fact, from the intuitive standpoint the truth
 o f the sentence H i^ i £) is w ithout doubt a oonsequence o f the
-0 * an-d hence fol­
-truth o f all sentences o f the form
+0 * an-d hence foltruth o f all sentences o f the form
 low s the falsehood o f the negation o f the form er, namely
 fPT ^ (J, B u t it is clear that the sentence ( * | i ^
 need
@@ -16956,8 +16283,7 @@ AND ou-COMPLETENESS
 
 and the usual consistency will coincide with co-consistency, B ut
 this w ould have no fundam ental advantage. It m ay be remarked
-in passing that such a rule, on account o f its 'infinitistic' charac­
-ter, departs significantly from all rules o f inference hitherto used,
+in passing that such a rule, on account o f its 'infinitistic' character, departs significantly from all rules o f inference hitherto used,
 that it cannot easily be brought into harm ony with the current
 view o f the deductive m ethod, and finally that the possibility
 o f its practical application in the construction o f deductive
@@ -16966,14 +16292,12 @@ the follow ing is w orthy o f em phasis: the profound analysis o f
 G odel's investigations shows that whenever we have undertaken
 a sharpening o f the rules o f inference, the facts, for the sake o f
 which this sharpening was felt to be necessary, still persist,
-although in a m ore com plicated form , and in connexion w ith sen­
-tences o f a more com plicated logical structure. The form alized
+although in a m ore com plicated form , and in connexion w ith sentences o f a more com plicated logical structure. The form alized
 concept o f consequence will, in extension, never coincide with
 the ordinary one, the consistency o f the system will not prevent
 the possibility o f 'structural falsehood'. H owever liberally we
 interpret the concept o f the deductive m ethod, its essential
-feature has always been (at least hitherto) that in the construc­
-tion o f the system and in particular in the form ulation o f its
+feature has always been (at least hitherto) that in the construction o f the system and in particular in the form ulation o f its
 rules o f inference, use is made exclusively o f general logical and
 structurally descriptive concepts. I f now we wish to regard as
 the ideal o f deductive science the construction o f a system in
@@ -16984,8 +16308,7 @@ com bined with the above view o f the deductive method.*
 1 In contrast to all other rules of inference the rule of infinite induction is
 only applicable if we have succeeded in showing that all sentences of a par*
 ticular infinite sequence belong to the system constructed. But since in every
-phase of development of the system only a finite number of sentences is ' effec­
-tively' given to us, this fact can only be established by means of raetamathematical considerations. The rule of inference mentioned has recently been
+phase of development of the system only a finite number of sentences is ' effectively' given to us, this fact can only be established by means of raetamathematical considerations. The rule of inference mentioned has recently been
 discussed by D. Hilbert, see Hilbert, D . (29).
 
 1 The validity of the remarks stated in the last paragraph essentially
@@ -16994,8 +16317,7 @@ which cannot be formalized within the framework of the theory of types of
 JPrincipia Mathematica. But as soon as we abandon this decision and allow
 ourselves to use stronger devices in metamathematical discussion, most of the
 remarks as originally formulated lose their validity and the whole paragraph
-requires a thorough revision. Compare, in this connexion, article VTH, Post­
-script, p p .274 ff.
+requires a thorough revision. Compare, in this connexion, article VTH, Postscript, p p .274 ff.
 
 S O M E M E T H O D O L O G I C A L
 
@@ -17007,15 +16329,12 @@ I n t r o d u c t o r y R e m a r k s
 
 I n the m ethodology o f the deductive sciences tw o groups o f
 concepts occur which, although rather rem ote from one another
-in content, nevertheless show considerable analogies, if we con­
-sider their role in the construction o f deductive theories, as well
+in content, nevertheless show considerable analogies, if we consider their role in the construction o f deductive theories, as well
 as the inner relations between concepts within each o f the two
 groups them selves. T o the first group belong such concepts as
 'axiom9, 'derivable sentence9 (or 'theorem9), 'rule of inference9,
-'proof9, to the second— 'primitive {undefined) concept9 (or 'primi­
-tive term9), 'definable concept9, 'rule of definition9, 'definition9.
-A far-reaching parallelism can be established between the con­
-cepts o f the tw o groups: the prim itive concepts correspond to
+'proof9, to the second— 'primitive {undefined) concept9 (or 'primitive term9), 'definable concept9, 'rule of definition9, 'definition9.
+A far-reaching parallelism can be established between the concepts o f the tw o groups: the prim itive concepts correspond to
 the axiom s, the defined concepts to the derivable sentences, the
 process and rules o f definition to the process and rules o f proof.
 H itherto, investigations in the dom ain o f the m ethodology of
@@ -17043,8 +16362,7 @@ concepts and the problem of the completeness of concepts o f an
 arbitrary deductive theory.1
 
 W e shall be concerned here only w ith those deductive theories
-which are based upon a sufficiently developed system o f m athe­
-m atical logic. Problem s concerning concepts o f logic itself will
+which are based upon a sufficiently developed system o f m athem atical logic. Problem s concerning concepts o f logic itself will
 n ot be considered. In order to make the discussion more specific
 we shall have in mind, as the logical basis o f the deductive
 theories discussed, the system o f Principia Mathematical o f A . N .
@@ -17056,23 +16374,19 @@ axiom s we include the axiom o f extensionality (for all logical
 types), and consequently we identify class-signs w ith one-place
 predicates, relation-signs with tw o-place predicates, and so on ;8
 (3) we use no defined operators such, for exam ple, as fx(<f>xY or
-\'x)(<f>xY\ (4) as sentences, and in particular as provable sen­
-tences, o f the system only those sentential functions are con­
-sidered which contain no real (free) variables.
+\'x)(<f>xY\ (4) as sentences, and in particular as provable sentences, o f the system only those sentential functions are considered which contain no real (free) variables.
 
 D eductive theories based upon a system o f logic can be
 roughly characterized as follow s: In addition t o the logical
 constants and variables, such a theory contains new term s, the
 so-called extra-logical constants or the specific terms o f the theory
 in question; to each o f these term s a definite logical type is
-assigned. Am ong the sentential functions o f the theory we in­
-clude the sentential functions o f logic, as well as all expressions
+assigned. Am ong the sentential functions o f the theory we include the sentential functions o f logic, as well as all expressions
 which are obtainable from them b y replacing real variables (not
 necessarily all) b y extra-logical constants o f the corresponding
 
 1 The results concerning the first problem were communicated by me to the
-session o f the Warsaw Section o f the Polish Mathematical Society on 17 Decem­
-ber 1926; cf. A. Tarski et A. Lindenbaum (85). The discussion and results
+session o f the Warsaw Section o f the Polish Mathematical Society on 17 December 1926; cf. A. Tarski et A. Lindenbaum (85). The discussion and results
 relating to the second problem were first communicated by me to the session
 o f the Logical Section o f the Warsaw Philosophical Society on 15 June 1932.
 
@@ -17107,8 +16421,7 @@ m ethodology o f the deductive sciences can be defined in terms
 o f the concept o f derivability, such, for exam ple, as the conoepts
 o f a deductive (or closed) system, the (logical) equivalence o f two
 sets o f sentences, the axiom system o f a set o f sentences, the
-axiomatizability, the independence, the consistency and the com­
-pleteness o f a set o f sentences. W e shall assume that all these
+axiomatizability, the independence, the consistency and the completeness o f a set o f sentences. W e shall assume that all these
 ooncepts are understood.1 * * * * * * In accordance with custom ary usage
 w e shall identify the set which consists o f a single sentence with
 the sentence itself; thus we shall speak o f the consequences o f a
@@ -17251,8 +16564,7 @@ the term V by means o f the term s o f B.
 I t remains to be shown that this condition is at the same tim e
 necessary. Let us assume that the term V can be defined by
 means o f the terms o f 8 on the basis o f the set X , and thus that
-at least one form ula o f type (I) can be derived from the sen­
-tences o f X . This form ula is at the same tim e a consequence o f
+at least one form ula o f type (I) can be derived from the sentences o f X . This form ula is at the same tim e a consequence o f
 the conjunction o f all sentences o f X , i.e. o f the sentence
 
 €* (a ; 6',
@@ -17420,8 +16732,7 @@ b', 6 ',..,; o', c ',...). 3 : (x) zx = 0 .
 
 2',...).
 
-Since (18) is logically provable, the consequent o f this im­
-plication, i.e. formula (II), is derivable from the antecedent
+Since (18) is logically provable, the consequent o f this implication, i.e. formula (II), is derivable from the antecedent
 ty(o; b*, b",...] c', c ',...)', and hence from the sentences of the
 set X . Consequently the condition o f the theorem is not only
 sufficient, but also necessary, which was to be proved.
@@ -17430,8 +16741,7 @@ The importance o f the above theorem lies in the following:
 if a term can be defined at all by means o f other terms, then
 our theorem enables us to construct 'effectively' a possible
 definition o f this term. Moreover, the theorem shows that the
-problem o f the definability o f terms is reducible without re­
-mainder to the problem o f the derivability of sentences.
+problem o f the definability o f terms is reducible without remainder to the problem o f the derivability of sentences.
 
 The next theorem is essentially a transformation of Th. 1.
 
@@ -17455,8 +16765,7 @@ should be logically provable.
 
 Proof. I f the term 'o ' is definable w ith the help o f the term s
 o f the set B, then, b y Th. 1, sentence (II) is a consequence o f the
-set X o f sentences and henoe is also a oonsequenoe o f the con­
-junction o f all sentences o f this set, i.e. o f the sentence
+set X o f sentences and henoe is also a oonsequenoe o f the conjunction o f all sentences o f this set, i.e. o f the sentence
 
 ^ (o; V, 6*,...; o', a",...).
 
@@ -17653,8 +16962,7 @@ d ^ U.
 H ence it easily follow s that form ula (IV ) o f Th. 3 which is an
 im m ediate consequence o f this conjunction also belongs to the
 system Y. A ccording to a general m ethodological principle,
-every part o f a consistent set o f sentences is consistent; in parti­
-cular, the form ula (IV ) as an elem ent o f the consistent system
+every part o f a consistent set o f sentences is consistent; in particular, the form ula (IV ) as an elem ent o f the consistent system
 Y must be consistent. Thus the condition o f Tfc. 3 is satisfied
 and the term 'a ' is not definable exclusively b y means o f the
 term s o f B . In the above procedure we easily recognize the
@@ -17685,8 +16993,7 @@ basis o f the axiom system X , then the system X can be replaced
 b y an equivalent axiom system which again consists o f two
 parts 7 and 7- such that the sentences o f the set T, so-called
 proper axioms, contain extra-logical constants o f the set 0 ex ­
-clusively, whilst every sentence o f the set Z is a possible defini­
-tion o f a certain term o f the set D b y means o f the terms o f the
+clusively, whilst every sentence o f the set Z is a possible definition o f a certain term o f the set D b y means o f the terms o f the
 set G.
 
 L et us now give an exam ple. Consider the system o f n-dim ensional Euclidean geom etry (where n is any natural num ber).
@@ -17718,8 +17025,7 @@ X .| X
 T H E D E F IN A B IL IT Y OF CONGESTS
 
 geom etry which apparently serve a directly opposite goal, in fact
-the establishm ent o f m etrical geom etry as a part o f descrip­
-tiv e.)1 Nonetheless it is found that, if the system o f geom etry
+the establishm ent o f m etrical geom etry as a part o f descriptiv e.)1 Nonetheless it is found that, if the system o f geom etry
 is at least tw o-dim ensional, then the term
 is definable b y
 means o f the term 'a ' on the basis o f the axiom system X ,
@@ -17728,15 +17034,12 @@ o f Th. 1 (although other m uch simpler definitions o f the term
 *&' are also know n). In accordance w ith this, the System X oan
 be replaced b y another equivalent axiom system , in the axiom s
 o f which the term 'o ' occurs as the on ly extra-logical constant,
-apart from a single 'improper* axiom , nam ely a possible defini­
-tion o f the term 'b\ As A . Lindenbaum has proved2 (with the
-help o f the axiom o f choice), it is only in the case o f one­
-dim ensional geom etry, i.e. the geom etry o f the straight line,
+apart from a single 'improper* axiom , nam ely a possible definition o f the term 'b\ As A . Lindenbaum has proved2 (with the
+help o f the axiom o f choice), it is only in the case o f onedim ensional geom etry, i.e. the geom etry o f the straight line,
 that the tw o term s 'a ' and '6* are independent o f one another.
 The follow ing is also w orth em phasizing. As a starting-point
 for this discussion we have used a special form o f definition,
-nam ely the scheme (I). Nevertheless the results obtained re­
-main valid for other known form s o f definition. In order to
+nam ely the scheme (I). Nevertheless the results obtained remain valid for other known form s o f definition. In order to
 illustrate this b y an exam ple, lot us suppose that *a ' is a tw oplace predicate. As a possible definition o f the term 'a* b y
 means o f the terms o f the set B we can consider, for exam ple,
 every sentence o f the form
@@ -17770,12 +17073,10 @@ SOS
 
 X , § 1
 
-now easily be shown that the definition of the concept of defina­
-bility, relativised to sentences of the form (la), is equivalent
+now easily be shown that the definition of the concept of definability, relativised to sentences of the form (la), is equivalent
 to the original definition (although naturally only with respect
 to two-termed predicates). From this it follows immediately
-that Ths. 1-3 also remain valid on the basis of the new defi­
-nition. There is no difficulty in transforming Th. 1 in such a way
+that Ths. 1-3 also remain valid on the basis of the new definition. There is no difficulty in transforming Th. 1 in such a way
 that a formula of type (la) occurs in it instead of formula (II).
 It suffices, in fact, to replace (II) by
 
@@ -17800,8 +17101,7 @@ o f concepts is an exact correlate o f the problem o f the derivability
 and the mutual independence of sentences. The problem o f the
 c o m p l e t e n e s s o f c o n c e p t s , to which we now turn, is also closely
 related to certain problems concerning systems of sentences, and
-indeed to the problems of completeness and categoricity, al­
-though the analogy does not extend so far as in the previous case.
+indeed to the problems of completeness and categoricity, although the analogy does not extend so far as in the previous case.
 In order to make the problem of completeness precise, we
 first introduce an auxiliary concept. Let X and Y be any two
 sets? o f sentences. We shall say that the set- Y is essentially richer
@@ -17813,8 +17113,7 @@ ah-enc from the sentences o f X and cannot- bo defined, even on
 the basis of the set Y, exclusively by means of those terms
 which occur in X .
 
-I f now there existed a set X o f sentences for which it- is im­
-possible to construct an essentially richer set Y of sentences
+I f now there existed a set X o f sentences for which it- is impossible to construct an essentially richer set Y of sentences
 with respect to specific terms, then we should be inclined to
 gay that the set X is complete with respect to its specific terms.
 L appears, however, that there are in general no such complete
@@ -17827,8 +17126,7 @@ TH E D E F IN A B I L IT Y OF CONCEPTS
 every set X of sentences which is consistent and which does not
 contain all extra-logical constants, we can construct a set Y
 which is essentially richer in specific terms. For this purpose it
-suffices to add to the set X an arbitrary logically provable sen­
-tence which contains an extra-logical constant not occurring in
+suffices to add to the set X an arbitrary logically provable sentence which contains an extra-logical constant not occurring in
 the sentences o f X .1 For this reason the proposed definition
 o f completeness requires modification. In this the concept of
 ca tegoricity will play an essential part.
@@ -17885,8 +17183,7 @@ v*). o .(3 u ',v ').x ' ( u ' , b '
 
 The above examples will probably suffice to explain the sense
 to be given to the expression discussed with respect to variables
-o f arbitrary logical type. M oreover, recalling that, in the nota­
-tion o f Prhicipia Mathematicay V is the class o f all individuals
+o f arbitrary logical type. M oreover, recalling that, in the notation o f Prhicipia Mathematicay V is the class o f all individuals
 and J -> I the class o f all one-one relations, let us say that the
 form ula
 
@@ -17959,22 +17256,17 @@ subject the original definition o f the concept o f completeness to
 the following modification: a set X of sentences is said to be
 complete with respect to its specific terms if it is impossible to
 construct a categorical set ¥ o f sentences which i3 essentially
-rioher than X with respect to specific terms. In order to estab­
-lish the incompleteness of a set o f sentences it is from now on­
-wards requisite to construct a set o f sentences which is not only
+rioher than X with respect to specific terms. In order to establish the incompleteness of a set o f sentences it is from now onwards requisite to construct a set o f sentences which is not only
 essentially richer but also categorical. Trivial constructions in
 which the meaning o f the newly introduced specific terms is
 quite indeterminate are thus excluded from the beginning.1
 
-With this conception of the notion of completeness the exist­
-ence o f both complete and incomplete sets of sentences can
-be established. For example, axiom systems o f various geo­
-metrical theories are incomplete with respect to their specific
+With this conception of the notion of completeness the existence o f both complete and incomplete sets of sentences can
+be established. For example, axiom systems o f various geometrical theories are incomplete with respect to their specific
 terms, but various axiom systems o f arithmetic are oomplete.2
 Let us consider this more olosely with reference to specific
 examples. Consider the system of descriptive one-dimensional
-geometry, i.e. the totality o f all geometrical sentences concern­
-ing points and sub-sets o f a straight line, in which the only
+geometry, i.e. the totality o f all geometrical sentences concerning points and sub-sets o f a straight line, in which the only
 extra-logical concepts are the relation o f lying between, and
 the concepts definable by means o f it, For this geometry
 
@@ -18032,8 +17324,7 @@ so on. Thie proves to be impossible, the set
 of sentences is
 already complete with respect to its speoirh .erm».
 
-Ho method is apparent a priori which would enable us to estab­
-lish the completeness of any particular *q- off rcirnmces, e.g. the
+Ho method is apparent a priori which would enable us to establish the completeness of any particular *q- off rcirnmces, e.g. the
 can usually be
 set
 extended in infinitely many ways, and to proxv* the completeness
@@ -18056,8 +17347,7 @@ another property o f such sets which m ay be called monotransformability. The pr
 has this new property presents, in general, no greater difficulties.
 The notion o f m onotr&nsform ability is closely related to that
 o f categoricity. A set o f sentences is categorical if for any tw o
-realizations o f this set at least one relation exists which estab­
-lishes the isom orphism o f the tw o realizations; it is m onotrans -
+realizations o f this set at least one relation exists which establishes the isom orphism o f the tw o realizations; it is m onotrans -
 form able if there is at m ost one such relation. In precise terms,
 the set X o f sentences is m onotransform able if the sentence
 
@@ -18083,13 +17373,10 @@ tion o f all the sentences o f X .3
 
 represents the conjunc­
 
-A set o f sentences which is both categorical and monofcranaform able is called strictly (or uniquely) ca tegorica l. The iso­
-morphism o f any tw o realizations o f such a set can thus be
+A set o f sentences which is both categorical and monofcranaform able is called strictly (or uniquely) ca tegorica l. The isomorphism o f any tw o realizations o f such a set can thus be
 established in exactly one way. F or example, the various axiom
-system s o f arithm etic are strictly categorical— both the arith­
-m etic o f natural numbers (e.g the axiom system of Peano) ; and
-that o f real numbers.2 B ut the axiom system s o f various geo­
-metrical theories— o f fopclogy, projective, descriptive, metrical
+system s o f arithm etic are strictly categorical— both the arithm etic o f natural numbers (e.g the axiom system of Peano) ; and
+that o f real numbers.2 B ut the axiom system s o f various geometrical theories— o f fopclogy, projective, descriptive, metrical
 geometry, etc.— although usuaih categorical, are not monotransformable and hence not strictly categorical.
 
 This applies, in particular, to the ^ets X x anu X 2 discussed
@@ -18108,10 +17395,8 @@ M E TH O D O LO G IC AL IN V E S T IG A T IO N S O F
 
 X , § 2
 
-between. The system X x is categorical; i f we find any tw o inter­
-pretations o f this system , w e can always establish a one-one
-correspondence between points a, b, c,... in the first interpreta­
-tion and points a% b', o'.... in the second in such a w ay that,
+between. The system X x is categorical; i f we find any tw o interpretations o f this system , w e can always establish a one-one
+correspondence between points a, b, c,... in the first interpretation and points a% b', o'.... in the second in such a w ay that,
 whenever b lies between a and c, 5' lies between a ' and o',
 and conversely. It is found that a correspondence o f this kind
 can be established in infinitely m any different ways. Therefore
@@ -18119,8 +17404,7 @@ the set X x is not m onotransform able and hence not strictly
 categorical. On the other hand the axiom system X z (o f the
 arithm etic o f real numbers) la m onotransform able and strictly
 categorical. In this instance the one-one correspondence between
-points (or numbers) for any tw o interpretations can be estab­
-lished in exaotiy one way.
+points (or numbers) for any tw o interpretations can be established in exaotiy one way.
 
 W e shall now prove the follow ing:
 
@@ -18160,12 +17444,10 @@ x, y,...
 
 1 I f we wish to use the words ' categorical5 and ' monotransformable5 in the
 intrinsic sense (cf. p. 310, note 2 andp. 313, note 1}, then Th. 4 in the above form
-would be false, In order that it should remain valid the definition of complete­
-ness must be weakened, absolute completeness must be replaced by intrinsic com*
+would be false, In order that it should remain valid the definition of completeness must be weakened, absolute completeness must be replaced by intrinsic com*
 pleteness or by completeness with respect to intrinsic concepts* For this purpose
 it would be necessary to give first an explanation of what is meant b y * intrinsic
-concept** All this would complicate our exposition considerably. In this con­
-nexion compare the concluding remarks in X m ,
+concept** All this would complicate our exposition considerably. In this connexion compare the concluding remarks in X m ,
 
 X , S 3
 
@@ -18190,8 +17472,7 @@ o f m onotransform ability can thus be sim plified b y replacing
 a set o f sentences is m onotransform able if there are non-identioal
 autom orphism s in none o f its interpretations.)
 
-Consider now any categorical set 7 o f sentences which in­
-cludes the set X as a part. W e assume that in the sentences o f
+Consider now any categorical set 7 o f sentences which includes the set X as a part. W e assume that in the sentences o f
 7 new extra-logical constants 'g', 'h' ,...— as well as the old ones
 —occur, and we represent the conjunction o f all these
 V ,
@@ -18328,8 +17609,7 @@ The practical im portance o f the above theorem is clear. In
 order to establish that a given set o f sentences is com plete with
 respect to its specific terms, it suffices to show that this set is
 m onotransform able and hence that the form ula (V I) can be
-proved in logic. B ut this demands no special m ethod o f investi­
-gation and, in the cases so far considered, presents no special
+proved in logic. B ut this demands no special m ethod o f investigation and, in the cases so far considered, presents no special
 difficulties.
 
 The question naturally arises whether tfie converse o f Th. 4
@@ -18342,8 +17622,7 @@ a counter-exam ple.
 
 In connexion w ith the theorem last given I should like to
 make some observations which exceed the strict lim its o f this
-article; they deal with the prospects o f deductively construct­
-ing theoretical physics either in its entirety or in a particular
+article; they deal with the prospects o f deductively constructing theoretical physics either in its entirety or in a particular
 part. Suppose we have adopted the system o f four-dim ensional
 Euclidean geom etry— the geom etry o f the space-tim e continuum
 — as a foundation for the construction o f a physical theory.
@@ -18373,16 +17652,14 @@ space-time points, or properties of sets o f space-time points
 (like the ooncept o f the rigid body), or single-valued functions
 which correlate numbers with space-time points (e.g. the
 concept o f density). We should be in a position to define
-such a concept, e.g. a Amotion, by means o f geometrical con­
-cepts, only if—loosely speaking—the behaviour o f the function
+such a concept, e.g. a Amotion, by means o f geometrical concepts, only if—loosely speaking—the behaviour o f the function
 over the whole world were known to us, and if we were able
 to derive every Amotion value from the mere position o f the
 corresponding point in space and time. We have good reasons
 for regarding this task as unfeasible from the start. We turn
 therefore to the seoond procedure. In this method some speoifio
 concepts of mechanics are taken as primitive concepts and some
-o f its laws as axioms. Mechanics would then assume the charac­
-ter o f an independent deductive theory for which geometry
+o f its laws as axioms. Mechanics would then assume the character o f an independent deductive theory for which geometry
 would be only the foundation. Although the axiom system of
 mechanics would be incomplete initially, we could extend and
 complete it in accordance with the progress o f empirical science.
@@ -18399,8 +17676,7 @@ definable by means o f geometrical oonoepts, end thus we are
 brought back to the first method. The problem of defining the
 concepts of mechanics (or any other physical theory) exclusively
 by means of geometrical concepts, and the problem of basing
-mechanics on a categorical axiom system, are completely equiva­
-lent, whoever regards the first problem as hopeless must take
+mechanics on a categorical axiom system, are completely equivalent, whoever regards the first problem as hopeless must take
 an entirely analogous attitude to the seoond.
 
 The above remarks ju st m ade d o n ot apply to certain new
@@ -18412,8 +17688,7 @@ X , 8 2
 
 neither strictly oategorical nor categorical in the usual sense
 and in whioh the whole o f physics or som e o f its parts are con ­
-ceived ju st as special chapters o f geom etry. N aturally the diffi­
-culties do not here vanish, only the centre o f gravity is shifted:
+ceived ju st as special chapters o f geom etry. N aturally the difficulties do not here vanish, only the centre o f gravity is shifted:
 it lies m the problem o f providing the basic geom etry w ith a
 categorical axiom system.
 
@@ -18426,8 +17701,7 @@ system w ith a series o f important; interpretations in various
 fundam ental departm ents o f logic and m athem atics, The m ost
 im portant and best known interpretation is the calculus of classes*
 The present article contains a* study o f some alternative
-system s o f Boolean algebra. O f the results I have obtained con­
-cerning these problem s I shall, give here only those which can
+system s o f Boolean algebra. O f the results I have obtained concerning these problem s I shall, give here only those which can
 be established with the help o f the usual mathema tical methods
 and dem and no special metamathernatieal apparatus.
 
@@ -18437,8 +17711,7 @@ and dem and no special metamathernatieal apparatus.
 
 S y s t e m s o f B o o l e a n A l g e b r a
 
-At present several equivalent systems of primitive expres­
-sions and postulates are known which suffice for the setting up of
+At present several equivalent systems of primitive expressions and postulates are known which suffice for the setting up of
 Boolean algebra. In order to make the subsequent developments
 more specific I first explicitly introduce one of these systems.
 
@@ -18539,8 +17812,7 @@ yeX
 
 mm of all elements of the set X 9 and * J J y '— 'the product of all
 
-elements of the set X \ 2 The system o f postulates is correspond­
-ingly supplem ented b y the follow ing sentences:
+elements of the set X \ 2 The system o f postulates is correspondingly supplem ented b y the follow ing sentences:
 
 P o stu la te 2J8. I f X ^ B , then
 (a) y y e B\
@@ -18655,8 +17927,7 @@ because P ost. Slg can be adopted as its definition.
 The sym bol ' = ' is frequently treated n ot as a specific sym bol
 o f B oolean algebra, bu t as the sign o f logical identity. From now
 on we shall adopt this standpoint. I t results in im portant
-sim plifications in the system o f prim itive expressions and postu­
-lates o f B oolean algebra. I t is especially helpful in reducing the
+sim plifications in the system o f prim itive expressions and postulates o f B oolean algebra. I t is especially helpful in reducing the
 list o f prim itive expressions. In addition to 'B\ it suffices to
 
 t This result can be improved. In deriving any three of the postulates
@@ -18666,8 +17937,7 @@ can essentially be carried out
 within the ordinary, and not extended, system of Boolean algebra. To this
 end, however, we must supplement the system [3b—$ 7] with appropriate
 definitions of ' 2 * and ' II*. Moreover, Posts. 3If0 and $J0 must be put in a
-somewhat weaker form, and in fact provided with certain existential assump­
-tions: $ 1 0 with the assumption that 2 y exists, and $ }0 with the assumption
+somewhat weaker form, and in fact provided with certain existential assumptions: $ 1 0 with the assumption that 2 y exists, and $ }0 with the assumption
 
 and
 
@@ -18828,8 +18098,7 @@ then it follows that z.y < v for all y e X and v e B whence, by
 2 (Z-V) < v> and since, by 9t£0, z.x = z. 2 2/ = 2
 
 we have further z . x < v for every 2? e 5 . On the other hand
-(a) gives z = z . x ; thus finally z < v for every v e B. The ele­
-ment x consequently satisfies all conditions of the Post. ©4.
+(a) gives z = z . x ; thus finally z < v for every v e B. The element x consequently satisfies all conditions of the Post. ©4.
 
 S f is immediately derivable from 9I3; we use 9lg
 
@@ -18843,11 +18112,9 @@ and u < y, then u < x . y = x.x' = 0, and since 0 < v9 we also
 have u < v for every v e B; hence y satisfies condition (1 ). In
 a similar way it is established that y satisfies condition (2).
 
-I f any other element yx e B likewise satisfies these two con­
-ditions, it is easy to prove that we have x .yx = 0 and
+I f any other element yx e B likewise satisfies these two conditions, it is easy to prove that we have x .yx = 0 and
 x + y x = 1; with the help of the usual methods of Boolean
-algebra, we obtain from these formulas yx = x r = y. Conse­
-quently y is the only element which satisfies conditions (1 ) and
+algebra, we obtain from these formulas yx = x r = y. Consequently y is the only element which satisfies conditions (1 ) and
 (2 ) . Since, according to 91?, there corresponds an element x' e B
 to every element x e B, we easily conclude that, conversely, if
 y is the only element which satisfies (1 ) and (2 ), then y = x'.
@@ -18868,14 +18135,12 @@ convincing ourselves that the assum ption: x non-< x leads to
 a contradiction.
 is an equivalence,
 coincides with © 2.
-thus a conjunction o f tw o im plications; one o f these im plica­
-tions coincides w ith 23^ the other follow s directly from the
+thus a conjunction o f tw o im plications; one o f these im plications coincides w ith 23^ the other follow s directly from the
 Post. 21* already derived (it m ust not be forgotten that the
 sym bol * = ' is always to be regarded as the sym bol o f logical
 identity).
 
-N ow we com e to P ost. 2Ig. L et X be any subset o f 2?. A ccord­
-ing to 234 there is an elem ent x which satisfies the follow ing
+N ow we com e to P ost. 2Ig. L et X be any subset o f 2?. A ccording to 234 there is an elem ent x which satisfies the follow ing
 conditions:
 
 (1)
@@ -18983,8 +18248,7 @@ be transform ed in the follow ing w ay:
 such that z < x, z ^ 0, and z .y = 0.
 
 The condition (2) o f P ost. 23* m ay be sim ilarly m odified: if
-z e B, z < x and if z .y = 0 for every y e X , then 2 = 0. More­
-over, we rem ind ourselves that in establishing 2t8 it was proved
+z e B, z < x and if z .y = 0 for every y e X , then 2 = 0. Moreover, we rem ind ourselves that in establishing 2t8 it was proved
 
 X I, s l
 
@@ -19061,8 +18325,7 @@ ON TH E F O U N D A T IO N S OF
 
 X I, §1
 
-9I7 still remains to be considered. On the basis o f the rem ain­
-in the follow ing w ay:
+9I7 still remains to be considered. On the basis o f the rem ainin the follow ing w ay:
 
 ing postulates we first transform D ef.
 
@@ -19140,8 +18403,7 @@ v&
 be only one such elem ent. I t remains to be proved that the
 Posts. 23x and 33s can be derived from 932 and 33*.
 
-In order to sim plify the exposition we shall define the auxil­
-iary sym bol <)(> (the form ula *x)(y' m ay be read 'the elements x
+In order to sim plify the exposition we shall define the auxiliary sym bol <)(> (the form ula *x)(y' m ay be read 'the elements x
 and y are disjoint').
 
 (1) I f x y y e B, then x ) ( y if and only if the formulas u e JS,
@@ -19161,8 +18423,7 @@ This follow s directly from (1) and Post. 232.
 I f y e B and y )(y, then y < v for every v e B.
 
 T o prove this we use 33*, putting X = {y}. I f we consider
-(1), we see that there is an elem ent x e B which satisfies the con­
-ditions: (a) y < x, and (jS) if x e B, z < x and z){y, then z < v
+(1), we see that there is an elem ent x e B which satisfies the conditions: (a) y < x, and (jS) if x e B, z < x and z){y, then z < v
 for every v e B. I f in (£) V is replaced b y cy\ then, using (a),
 we at once obtain (3).
 
@@ -19195,8 +18456,7 @@ Further, we consider the set X x = E[y e B and y < *]. W e have
 v
 
 (y )y < x for every y e X v and (S) i f z e B , z < x , and z)(y for
-every y e X v then z < v for every v e B (for from the hypo­
-thesis o f (8) it follow s that z )(z, whence, b y (3), z < v for every
+every y e X v then z < v for every v e B (for from the hypothesis o f (8) it follow s that z )(z, whence, b y (3), z < v for every
 v e B). I f w e now apply 93a, from (a) and (y) we obtain (<r) y < xx
 for every y e X x. F inally the follow ing condition is satisfied:
 (Qifg e B , z < xL and z )(y for every y e X ls then z < v for every
@@ -19219,8 +18479,7 @@ and z)(y imply z < y , then x = y.
 In order to prove this we again put X = {y}. In view o f (5)
 w e have (a) t < y for every t e X and, m oreover, b y virtue o f
 (4), (/3) i f z e B. z < y, and z)(t for t e X , then z < v for every
-v e B. On the other hand the hypothesis o f condition (6) im­
-plies ( y ) t < x for every t e X, as well as (8) if z e B, z < x, and
+v e B. On the other hand the hypothesis o f condition (6) implies ( y ) t < x for every t e X, as well as (8) if z e B, z < x, and
 z)(t for t e X , then z < v for every v e B [for i f z < x and z)(y,
 then b y hypothesis we have z < y and hence b y (4), z < v for
 every t* e B\. From ( 1) and (a)-(S ) it follow s that y as well as x
@@ -19240,9 +18499,7 @@ o f Lem m a 5.
 
 X I, J1
 
-T o prove 33s we proceed indirectly: we assume that this postu­
-late is n ot satisfied, thus that (a) x non-< y and that never­
-theless, in view o f (1), (/3) for every z e B the form ulas z < x
+T o prove 33s we proceed indirectly: we assume that this postulate is n ot satisfied, thus that (a) x non-< y and that nevertheless, in view o f (1), (/3) for every z e B the form ulas z < x
 and z)(y always im ply z < y . N ow 23* is applied to the set
 X =
 we obtain an elem ent t e B such that (y) x < t,
@@ -19269,9 +18526,7 @@ I t is thus proved that the postulate system s [ S j- S J and
 1 The formulation of Posts. 93* and 93J as well as some fragments of the
 proofs of Ths. 1 and 2 have been influenced by the researches of 8. Le6niewski.
 The extended system of Boolean algebra is closely related to the deductive
-theory developed by S. Le&niewski and called by him mereology. The founda­
-tions of mereology have been briefly discussed in article II, where bibliographi­
-cal references to the relevant works of Le6niewski will also be found. The
+theory developed by S. Le&niewski and called by him mereology. The foundations of mereology have been briefly discussed in article II, where bibliographical references to the relevant works of Le6niewski will also be found. The
 relation of the part to the whole, which can be regarded as the only primitive
 notion of mereology, is the correlate of Boolean-algebraic inclusion. The
 postulate system [93a» S3f ] has been obtained by a slight modification of the
@@ -19347,8 +18602,7 @@ X I, 5 2
 
 In connexion w ith D ef. (£ a whole series o f questions arises:
 D o atom s exist at all? I f so, are atom s included in every
-elem ent which belongs to the universe o f discourse and is dis­
-tin ct from 0 ? Further, is every elem ent the sum o f the atom s
+elem ent which belongs to the universe o f discourse and is distin ct from 0 ? Further, is every elem ent the sum o f the atom s
 included in it? These questions can be neither affirmed nor
 denied on the basis o f the previous assum ptions. B ut all the
 above problem s are solved in a positive sense the m om ent we
@@ -19486,8 +18740,7 @@ means o f we can at once derive
 we proceed
 In order, finally, to prove D on the basis o f
 as follow s: I f a* e 3 and x ^ 0, then according to
-the form u­
-las z < x and z < 0 cannot be equivalent for every zeAt\ since
+the form ulas z < x and z < 0 cannot be equivalent for every zeAt\ since
 b y D ef. £ we always have z # 0 and consequently z non~< 0
 for every z e At, there m ust be an elem ent z e At such that
 z < x, w hich was to be proved.
@@ -19593,8 +18846,7 @@ On the other hand, b y 9^, the form ula u < J ^ z holds. Hence
 
 we obtain the form ula (ft) without
 with the help o f
-difficulty. The p roof o f the im plication in the opposite direc­
-tion is still easier (actually the inclusion T IT z < IT 2 2 can
+difficulty. The p roof o f the im plication in the opposite direction is still easier (actually the inclusion T IT z < IT 2 2 can
 
 and
 
@@ -19772,8 +19024,7 @@ X I, § 2
 5, and 6, and presents no difficulty. I f b y Si we understand the
 class o f all subsets o f the set E, we at once obtain ©2 from (£*.
 The derivation o f the Posts. 23-t-®4 and D from (g2 is somewhat
-m ore com plicated. H owever, only Post. D causes some diffi­
-culty. The problem reduces to showing that every set X e Si
+m ore com plicated. H owever, only Post. D causes some difficulty. The problem reduces to showing that every set X e Si
 distinct from 0 contains an atom ic subset, i.e. another set Y e Si,
 likewise distinct from 0, w hich includes no set o f the class Si
 other than 0 and itself. F or this purpose we consider any
@@ -19788,8 +19039,7 @@ atom ic set.1 The theorem is in this way proved.
 
 The sense o f Th. 6 can be expressed in the follow ing w ay:
 the atomistic system of Boolean algebra is isomorphic with the
-ordinary calculus of classes. M oreover, in this theorem is con­
-tained a rather interesting fact belonging to the theory o f sets:
+ordinary calculus of classes. M oreover, in this theorem is contained a rather interesting fact belonging to the theory o f sets:
 every class Si o f sets which satisfies conditions (1) and (2) o f
 Post. (£2 (i.e. is closed under the operations o f com plem entation
 and unrestricted addition) is isom orphic with the class o f all
@@ -19801,8 +19051,7 @@ clusion.2
 paper. The second part (which was never published) included, among ether
 things, a discussion of the so-called atoinless system of Boolean algebra, i e.
 the system in which Post. 3) is replaced by a postulate stating that there are
-no atoms. The atomless system of Boolean algebra can, of course, bo con­
-structed as a system in which ' B * and 'x < y ' occur as the only primitive
+no atoms. The atomless system of Boolean algebra can, of course, bo constructed as a system in which ' B * and 'x < y ' occur as the only primitive
 expressions. A model for such a system is provided by the family of ail regular
 open sets of a Euclidean space and the relation of set-theoretical inclusion. In
 view of the remarks made above in p. 333, footnote, this follows immediately
@@ -19812,14 +19061,12 @@ F O U N D A T I O N S O F T H E C A L C U L U S
 
 O F S Y S T E M S !
 
-The results here communicated belong to general metamathe­
-matics (which I formerly called the general methodology of the
+The results here communicated belong to general metamathematics (which I formerly called the general methodology of the
 deductive sciences), and thus to a discipline whose task it is to
 define the meaning of general metamathomatical concepts which
 appear in the discussion of the most diverse deductive theories
 and to establish the basic properties of these concepts. Only
-those theories will be considered here, however, whose construc­
-tion presupposes a logical basis of a greater or lesser extent,
+those theories will be considered here, however, whose construction presupposes a logical basis of a greater or lesser extent,
 and at least the whole sentential calculus.
 
 In a previous com m unication (article I II o f the present
@@ -19829,22 +19076,18 @@ Here in § 1 a m odification will be undertaken in this system
 whereby, I believe, greater naturalness and sim plicity is reached.
 In § 2 I sketch a calculus— 1 call it the calculus of deductive
 systems, or sim ply the calculus of systems— which essentially
-facilitates m etam athem atical investigations o f the kind con­
-sidered here; at the same tim e an interesting analogy will be
+facilitates m etam athem atical investigations o f the kind considered here; at the same tim e an interesting analogy will be
 apparent between this calculus and intuitionistic logic. In § 3
 I extend the calculus o f systems b y introducing the concept o f
 an axiom atizable system .
-In § 4 two further kinds o f deduc­
-tive systems are considered, nam ely irreducible and complete
+In § 4 two further kinds o f deductive systems are considered, nam ely irreducible and complete
 system s, and some rather deep theorems are stated which can
-be obtained within the calculus o f systems and which charac­
-terize certain classes o f deductive systems with respect to
+be obtained within the calculus o f systems and which characterize certain classes o f deductive systems with respect to
 cardinality and structure. In § 5 the general results will be
 
 t B ib lio g r a ph ic a l N o te. This article originally appeared in two parts
 under the title ' Grundzuge des SystemenkaJkiil, Erster Toil*, Fundamenta
-Mathematical, vol. 25 (1935), pp. 603-26, and ' Grunciziigo des Systemenkalkiil, Zweiter Teil\ ibid., vol. 26 (1936), pp. 283-301. The first part com­
-prised the Introduction and §§ 1-3, the second part §§ 4-6 and the Appendix.
+Mathematical, vol. 25 (1935), pp. 603-26, and ' Grunciziigo des Systemenkalkiil, Zweiter Teil\ ibid., vol. 26 (1936), pp. 283-301. The first part comprised the Introduction and §§ 1-3, the second part §§ 4-6 and the Appendix.
 Earlier publications of the author in the same directions are III and V ; ses
 also the historical remarks at the end of the article.
 
@@ -19861,15 +19104,12 @@ are very sim ple.
 
 § 1. P r im it iv e C o n c e p t s a n b A x io m s
 
-In the postulate system given in I I I four prim itive expres­
-sions appeared: 'S'— 'the set of all meaningful sentences9, ' Cn(X)'
-— 'the set of consequences of the set X of sentences', 'x '— 'the nega­
-y 1-—'the implication with the antecedent
+In the postulate system given in I I I four prim itive expressions appeared: 'S'— 'the set of all meaningful sentences9, ' Cn(X)'
+— 'the set of consequences of the set X of sentences', 'x '— 'the negay 1-—'the implication with the antecedent
 tion of the sentence x\ 'x
 x and the consequent y \2 W ith the help o f these terms, the
 concept o f deductive system was there defined, i.e. the concept
-o f a set o f sentences which contains as elements all its conse­
-quences; the class o f all deductive systems was denoted b y the
+o f a set o f sentences which contains as elements all its consequences; the class o f all deductive systems was denoted b y the
 sym bol ' S ' . It was there rem arked that am ong deductive
 system s a smallest exists, i.e. a system which is a sub-system
 o f all other deductive system s. It is the system Cn(0), the set
@@ -19929,16 +19169,12 @@ z) -> (x > z)) e L.
 Axiom 5. I f x, x ->y e L (where y e S), then y e L.
 
 The content o f these axiom s is so clear that it scarcely requires
-an explanation. From the intuitive standpoint they m ay never­
-theless adm it o f certain doubts which I shall not here discuss.1
-The A xs. 2, 4, and 5 are adapted from the system o f prim i­
-tive expressions, axiom s and rules o f inference o f Lukasiewicz,
-which form s a sufficient basis for the developm ent o f the sen­
-tential calculus.2 * It is clear that we could equally well use any
+an explanation. From the intuitive standpoint they m ay nevertheless adm it o f certain doubts which I shall not here discuss.1
+The A xs. 2, 4, and 5 are adapted from the system o f prim itive expressions, axiom s and rules o f inference o f Lukasiewicz,
+which form s a sufficient basis for the developm ent o f the sentential calculus.2 * It is clear that we could equally well use any
 other form al system o f the sentential calculus as a starting
 point. In particular, if we took N icod 's sentential calculus as
-our m odel, then the num ber o f the prim itive expressions appear­
-ing in the axiom s w ould be smaller, and A xs. 2 and 4 w ould be
+our m odel, then the num ber o f the prim itive expressions appearing in the axiom s w ould be smaller, and A xs. 2 and 4 w ould be
 som ewhat sim pler.8
 
 W e will show how , w ith the help o f the prim itive concepts
@@ -19976,8 +19212,7 @@ n—1
 natural number > 1 and xv x2,..., xn e S.
 
 The definition o f the concept o f consequence runs as follow s:
-D efin itio n 3. For an arbitrary set X ^ 8 the set Cn(X) con­
-sists of those, and only those, sentences y e 8, which satisfy the
+D efin itio n 3. For an arbitrary set X ^ 8 the set Cn(X) consists of those, and only those, sentences y e 8, which satisfy the
 following condition: either y e L > or there exist sentences
 
 such that
@@ -19994,12 +19229,10 @@ I t is easy to show that the set Cn(X) is one o f the sets Y which
 satisfy the conditions (1) and (2) o f Th. X; it is thus the smallest
 o f these sets. Since the operation which correlates the sentence
 y w ith tw o given sentences x and x - > y is com m only called the
-operation o f detachment, we can, on the basis o f Th. 1, charac­
-terize the set Cn(X) as the smallest set which includes the sets
+operation o f detachment, we can, on the basis o f Th. 1, characterize the set Cn(X) as the smallest set which includes the sets
 L and X and is closed under the operation o f detachm ent.f
 
-I t m ight appear that the concept o f consequence here in tro­
-duced is essentially narrower than that which is generally used
+I t m ight appear that the concept o f consequence here in troduced is essentially narrower than that which is generally used
 in the construction o f deductive th eories; in the definition o f this
 concept we have made use o f only one o f the rules o f inference,
 the rule o f detachm ent, as though we had totally forgotten the
@@ -20027,8 +19260,7 @@ tion, x
 y, or ( JT ^i) V> belongs to the set L o f all logically
 
 valid sentences (actually all known and sufficiently developed
-system s o f logic satisfy this condition), then the concept o f con­
-sequence is in no w ay narrowed. In fact, the sentence y will
+system s o f logic satisfy this condition), then the concept o f consequence is in no w ay narrowed. In fact, the sentence y will
 under these conditions be a consequence o f every set o f sentences
 which contains the sentence x or the sentences xv >.., xn, not
 only in the usual sense, but also in the sense o f D ef. 3 or o f Th. 1.
@@ -20061,8 +19293,7 @@ D ef. 3 all A xs. 1- 10* which were proposed in I II can be derived
 (we have neglected the A xs. 1 and 6* o f I II in the form ulation
 o f Th. 2, because the first is contained in the new A x. 1, and the
 second coincides w ith the new A x. 2). It is easy to show that the
-converse o f this result also holds: if we regard Th. 3 as the defini­
-tion o f the sym bol 'L\ then we can derive from this definition
+converse o f this result also holds: if we regard Th. 3 as the definition o f the sym bol 'L\ then we can derive from this definition
 and the axiom system o f I I I the new A xs. 1-5 and D ef. 3 as
 theorems. F inally we can thus assert that the tw o systems of
 axiom s and prim itive notions are equivalent.
@@ -20080,10 +19311,8 @@ called the algebra of logic or Boolean algebra.
 %!
 
 In order to make the further considerations more specific we
-shall here formulate in extenso a well-known system of postu­
-lates which suffices for the construction of the algebra of logic.
-In this system eight primitive concepts appear; 'B *— 'the uni­
-verse of discourse',
+shall here formulate in extenso a well-known system of postulates which suffices for the construction of the algebra of logic.
+In this system eight primitive concepts appear; 'B *— 'the universe of discourse',
 < y'— cthe element x stands in the relation
 of inclusion to the element y\ 'x = y*— 6the element x stands in
 the relation of equality to the element y\ ' x d y ' — the sum of the
@@ -20121,8 +19350,7 @@ P o s t u l a t e VII. I f x e B, then (a) x e B, (b) x .x = 0, and
 
 (c) x + x =s 1.
 
-The system o f the algebra of logic can be extended by intro­
-ducing two infinite operations: *T y *— 'the sum of all dements
+The system o f the algebra of logic can be extended by introducing two infinite operations: *T y *— 'the sum of all dements
 
 2/e i
 
@@ -20165,8 +19393,7 @@ from them , form the ordinary, and Posts. I - X the contended (or
 complete) system of the algebra of logicI
 
 W e pass now to the calculus of sentences, which we shall only
-describe briefly. In order to avoid term inological misunder­
-standing we shall call it the sentential algorithm instead o f simply
+describe briefly. In order to avoid term inological misunderstanding we shall call it the sentential algorithm instead o f simply
 sentential calcu lu s; the term 'sentential calculus* already has a
 definite meaning, other than that intended here.
 
@@ -20181,10 +19408,8 @@ D e f in it io n 4 . (a) x D y if and' only if x ,y e S and x - > y eL\
 The follow ing can now be proved:
 
 T heorem 4. I f in the ordinary system of the algebra of logic- we
-replace in all the postulates the symbols lB\ ' < \ and *= * respec­
-tively by (S\ (d\ and ( ==' ; if further 'O' is replaced by the variable-
-*u* and ' 19 by the variable V , making everywhere in the correspond­
-ing postulates the assumptions that u e S and u e L as well as
+replace in all the postulates the symbols lB\ ' < \ and *= * respectively by (S\ (d\ and ( ==' ; if further 'O' is replaced by the variable-
+*u* and ' 19 by the variable V , making everywhere in the corresponding postulates the assumptions that u e S and u e L as well as
 v e L; and if the remaining symbols are left unchanged) then Posts.
 I-V T I are satisfied.
 
@@ -20209,8 +19434,7 @@ can thus assert that A xs. 2 -5 form a system o f statements which
 is equivalent to the system o f postulates for the ordinary algebra
 o f logic.
 (The problem o f the equivalence o f the system s o f
-prim itive concepts which appear in the tw o system s o f state­
-m ents w ould require a m ore exhaustive discussion.2)
+prim itive concepts which appear in the tw o system s o f statem ents w ould require a m ore exhaustive discussion.2)
 
 Since we have chosen as foundation for this w ork the system
 o f axiom s o f § 1 we have restricted ourselves in essence to
@@ -20239,8 +19463,7 @@ and Huntington; cf. Bernstein, B. A . (0), Huntington, E. V . (34), (35). I take
 this opportunity of mentioning that the system of Axs. 1-5 of § 1 and its
 connexion with the algebra of logic were already known to me in the year 1930.
 (I mention this system implicitly in article V of the present work, p. 62,
-as the basis upon which the unpublished second part of V has been con­
-structed.)
+as the basis upon which the unpublished second part of V has been constructed.)
 
 F O U N D A T IO N S OF THE
 
@@ -20276,8 +19499,7 @@ the calculus of systems, represents (as will be seen below) a very
 essential extension o f the sentential algorithm . The correlates
 o f all prim itive concepts o f the algebra o f logic occur in the
 calculus o f system s. The class S form s the universe o f discourse.
-L is regarded as the zero system , 8 as the unit system . In­
-clusion and equality between systems as well as the product
+L is regarded as the zero system , 8 as the unit system . Inclusion and equality between systems as well as the product
 (the intersection) o f systems preserve their usual sense as laid
 dow n in the calculus o f classes (which, as is well known, presents
 one o f the com m onest interpretations o f the algebra o f logic);
@@ -20340,10 +19562,8 @@ calculus o f system s, instead o f the law o f excluded m iddle
 X-\~X = S, on ly a certain weaker consequence o f this law holds.
 As will be seen from Ths. 17 and 37 given below , the law o f
 excluded m iddle holds in the case when the class 6 is finite (or,
-what am ounts to the same thing, when the set S does not con­
-tain infinitely m any sentences such that no tw o o f them are
-equivalent). If, how ever, the class <5 is infinite— and we en­
-counter this case as a rule when we consider special deductive
+what am ounts to the same thing, when the set S does not contain infinitely m any sentences such that no tw o o f them are
+equivalent). If, how ever, the class <5 is infinite— and we encounter this case as a rule when we consider special deductive
 sciences— then there exist system s which do not satisfy this
 law.
 
@@ -20387,16 +19607,14 @@ do n ot have an existential character.
 The form al resem blance o f the calculus o f system s to the
 intuitionistic sentential calculus o f H ey ting is striking:1 we
 m ight say that the form al relation o f the calculus o f system s to
-the ordinary calculus o f classes is exactly the same as the rela­
-tion o f H eytin g's sentential calculus to the ordinary sentential
+the ordinary calculus o f classes is exactly the same as the relation o f H eytin g's sentential calculus to the ordinary sentential
 calculus. In other words, if we construct the calculus o f classes
 on the basis o f intuitionistic logic, then this calculus, it seems,
 will not form ally differ from the calculus o f system s. W e can
 also express this as follow s: the system o f postulates described
 in Th. 6 form s (if we abstract from the specific sense o f the
 term s appearing in these postulates) a sufficient basis for a
-system o f the algebra o f logic which has the intuitionistic cal­
-culus o f classes as one o f its interpretations. It is clear that
+system o f the algebra o f logic which has the intuitionistic calculus o f classes as one o f its interpretations. It is clear that
 the last remarks w ould require a m ore exact and detailed
 ela boration .!
 
@@ -20442,8 +19660,7 @@ on th& other hand Post. X b together with Post. V II c fails.
 and
 
 A ccording to this theorem , finite m ultiplication is distributive
-under infinite addition but the distributive law for finite addi­
-tion under infinite m ultiplication no longer holds in the calculus
+under infinite addition but the distributive law for finite addition under infinite m ultiplication no longer holds in the calculus
 o f system s; a fortiori the general distributive laws for one o f
 the infinite operations under the other fails.1 B y comparing
 Ths. 17 and 24 given below we see that the distributive law o f
@@ -20512,8 +19729,7 @@ supplement X :
 Moreover, by virtue o f the law of
 contradiction, X is the largest system which is logically disjoint
 with X ; since, however, the law of the excluded middle fails, X
-is in general not the smallest system whioh logically supple­
-ments X (from Th. 12 it only follows that, if such a smallest
+is in general not the smallest system whioh logically supplements X (from Th. 12 it only follows that, if such a smallest
 system exists at all then it coincides with X ).
 
 § 3. Axiomattzable Systems
@@ -20571,8 +19787,7 @@ a single axiom atizable system is correlated w ith all equivalent
 
 1 Of. m , p. 35, Def. 9 ; also V , p. 76, § 4, ©specially Def. 35. (I use the
 concept of axiomatizabiiity in these two articles in a wider sense than here,
-sinoe I relate it not only to deductive systems but to arbitrary sets of sen­
-tences.)
+sinoe I relate it not only to deductive systems but to arbitrary sets of sentences.)
 
 FO U N D A T IO N S OF THE
 
@@ -20580,9 +19795,7 @@ XII, | 3
 
 sentences.)! This also justifies the remark made above that the
 calculus o f arbitrary systems— axiom atizable and non-axiom atizable— form s an essential extension o f the sentential algorithm.
-E very theorem o f the calculus o f systems involving axiom atiz­
-able systems can be translated com pletely or partially (accord­
-ing to w it h e r in this theorem we are dealing exclusively with
+E very theorem o f the calculus o f systems involving axiom atizable systems can be translated com pletely or partially (according to w it h e r in this theorem we are dealing exclusively with
 axiom atizable systems or not) into the language o f the sentential
 algorithm , and vice versa. It must be noted, however, that the
 tw o calculi are dual w ith respect to one another: to the sum o f
@@ -20614,12 +19827,10 @@ as is to be expected, the law o f excluded m iddle holds when
 applied to system s which in a certain sense have a finitistic
 character, while losing its validity for the remaining systems.
 Th. 17 in view o f its form could be adopted as the definition of
-the concept o f axiom atizability; this definition w ould be form u­
-lated entirely in terms o f the calculus o f systems. The problem
+the concept o f axiom atizability; this definition w ould be form ulated entirely in terms o f the calculus o f systems. The problem
 
 f If the algorithm of sentences is modified in the way indicated in the first
-foot-note on p. 349, it obviously becomes isomorphic to the calculus of axioma­
-tizable syBtems.
+foot-note on p. 349, it obviously becomes isomorphic to the calculus of axiomatizable syBtems.
 
 XII, § 3
 
@@ -20652,8 +19863,7 @@ formula Z c J implies Z
 7 , then J c f
 
 W e shall now regard the postulates described in Ths. 6 and 9
-(obtained b y transform ing and partly b y weakening the postu­
-lates o f the algebra o f logic) together with Ths. 11; 13, 17, and
+(obtained b y transform ing and partly b y weakening the postulates o f the algebra o f logic) together with Ths. 11; 13, 17, and
 19 as a system of postulates for the calculus of systems, which is
 enriched through infinite operations and the concept o f axiom atizability. It can be shown that every theorem o f the calculus
 o f systems which can be proved on the basis o f the axiom s o f
@@ -20732,8 +19942,7 @@ Y e & a n d X . Y ~ L
 Finally we can take Th. 17 as the definition o f the sym bol
 I t w ill be seen that with the adoption o f the above definitions
 
-x For a simpler, although equivalent, formulation of the system of postu­
-lates for the calculus of systems, and for a clarification of the part played by
+x For a simpler, although equivalent, formulation of the system of postulates for the calculus of systems, and for a clarification of the part played by
 these postulates in the development of this calculus* see Tarski (80).
 
 x n , { 3
@@ -20779,15 +19988,12 @@ L — 0 ; finally we interpret the sym bols
 X* and 'X ' (to
 
 which the usual meaning cannot be asoribed) b y follow ing the
-lines o f D efs. D a and D 5. It turns out that the system o f con­
-cepts obtained in this w ay satisfies all the postulates o f the
+lines o f D efs. D a and D 5. It turns out that the system o f concepts obtained in this w ay satisfies all the postulates o f the
 oalculus o f systems.
 
-Prom the point o f view o f the problem s in which we are in­
-terested the fa ct that the calculus o f systems can be interpreted
+Prom the point o f view o f the problem s in which we are interested the fa ct that the calculus o f systems can be interpreted
 in various ways within the calculus o f systems itself is o f great
-im portance. In order to form ulate the relevant theorems con­
-veniently we introduce the follow ing notation:
+im portance. In order to form ulate the relevant theorems conveniently we introduce the follow ing notation:
 
 D e f in it io n 1 0 . (a) S x is the class of aU systems Y e S such that
 
@@ -20828,12 +20034,10 @@ postulates of the calculus of systems are satisfied.
 
 The theorems just stated show that all results derived from
 the postulates o f the calculus o f system s can be relativized, and
-in fact in tw o directions: (1) W e can narrow the set 8 o f all m ean­
-ingful sentences b y replacing it by any axiom atizable system A
+in fact in tw o directions: (1) W e can narrow the set 8 o f all m eaningful sentences b y replacing it by any axiom atizable system A
 and restricting the discussion to those deductive systems which
 are included in A (when we are concerned with results which
-can be proved w ithout the help o f Ths. 11 and 13, the assump­
-tion o f the axiom atizability o f the system A is superfluous).
+can be proved w ithout the help o f Ths. 11 and 13, the assumption o f the axiom atizability o f the system A is superfluous).
 (2) W e can enlarge the set L o f all logical theorems b y replacing
 it b y any deductive system B and restricting the discussion to
 those systems which include the system JS.1 W e can, o f course,
@@ -20891,11 +20095,9 @@ systems.
 
 In Th. 17 we already recognized a characteristic property o f
 axiom atizable systems which was form ulated entirely in terms
-o f the calculus o f system s; we shall now give tw o other pro­
-perties o f this kind:
+o f the calculus o f system s; we shall now give tw o other properties o f this kind:
 
-T h e o r e m 24. For an arbitrary system X e & the following con­
-ditions are equivalent: (1) X e 91; (2) every class R c 0 satisfies
+T h e o r e m 24. For an arbitrary system X e & the following conditions are equivalent: (1) X e 91; (2) every class R c 0 satisfies
 
 the formula X 4- T \ y = T l (J C + n * (3) for every class R £ S
 
@@ -20944,8 +20146,7 @@ the language o f the sentential algorithm (after having replaced
 l e S a set Y s X can be constructed suoh that (a) X = Cn(Y),
 (ft)Y.L = 0, and (y) x-{-y e L for all x, y e T (or, what amounts
 to the same thing, (/S') if x, y e Y, x o z, and y d z, then z e L);
-if, m oreover, X e S —21, then (3) the set Y is infinite. The condi­
-tions (;3) and (y) express the fa ct that Y is a set o f maximal
+if, m oreover, X e S —21, then (3) the set Y is infinite. The conditions (;3) and (y) express the fa ct that Y is a set o f maximal
 independent sentences in the sense o f Shelfer; hence it results
 a fortiori that Y is a set o f independent sentences in the usual
 sense and therefore a basis o f the system X .1
@@ -20954,8 +20155,7 @@ In an analogous manner .ve easily infer, either from condition
 (3) o f Th. 25, or directly, that with every system X 6 S an.
 infinite sequence o f sentences yn e X can be correlated which
 satisfy the conditions: (a) for every sentence x e X there exists
-a sentence y n such that yn o x (thus, if Y is the set o f all mem­
-bers o f our sequence, then Cn(Y) = X ); (ft) yn+l D yn for every
+a sentence y n such that yn o x (thus, if Y is the set o f all members o f our sequence, then Cn(Y) = X ); (ft) yn+l D yn for every
 natural number n; if, m oreover, X £ S —21, then (y) the formula
 yn = yn+z does n ot hold for any natural n. The sequence of
 sentences which satisfy the condition (ft) could be called a
@@ -20980,8 +20180,7 @@ It seems natural to call an increasing sequence o f sentences yn
 convergent when a logical product o f this sequence exists. Since
 such a logical product is also the product o f the whole system
 X w ith which the sequence considered was correlated (in the
-w ay indicated in the preceding paragraph),we shall in an ana­
-logous manner also call the system X itself convergent. W hen
+w ay indicated in the preceding paragraph),we shall in an analogous manner also call the system X itself convergent. W hen
 the logical product x o f the system X itself belongs to this
 system , the form ula X — Cn({a:}) is easily seen to hold, and the
 system X is sim ply axiom atizable.
@@ -21041,13 +20240,10 @@ In this theorem, which is an analogue of Th. 18, one cannot
 replace £9T by
 
 The question arises whether there exist convergent nonaxiomatizabie systems, in other words whether there exist nonaxiomatizabie systems whose complements are axiomatizable.
-We shall see later (in Th. 38) that the answer is in the affirma­
-tive assuming that non-axiomatizable systems exist at all, that
+We shall see later (in Th. 38) that the answer is in the affirmative assuming that non-axiomatizable systems exist at all, that
 ;s, assuming that the class S is infinite. On the other hand it
 will turn out that on the same assumption there are also noncon vergent systems. We have thus three classes of systems:
-(I) axiomatizable systems, which are correlated with single sen­
-tences; (2) non-ayiomatizahle convergent systems, which corre­
-spond to infinite convergent strictly increasing sequences of
+(I) axiomatizable systems, which are correlated with single sentences; (2) non-ayiomatizahle convergent systems, which correspond to infinite convergent strictly increasing sequences of
 sentences, and finally (3) divergent systems, which correspond
 to infinite divergent sequences. The systems of the first two
 classes have in general similar properties; one of the principal
@@ -21063,11 +20259,9 @@ formulations and proofs of these theorems two concepts occur
 
 XII, § 4
 
-which have not yet been used in this article, nam ely the con­
-cepts o f an irreducible and o f a complete system . W e denote the
+which have not yet been used in this article, nam ely the concepts o f an irreducible and o f a complete system . W e denote the
 class o f irreducible systems b y the sym bol '3 \ that o f com plete
-systems b y the sym bol 'S ' .1 The definitions o f these two con­
-cepts are quite analogous:
+systems b y the sym bol 'S ' .1 The definitions o f these two concepts are quite analogous:
 
 Definition 12 . X e 3 if and only if X ^ L \ and if for every
 system 7 e S for which 7 £ X , we have Y = L or ¥ = X (in
@@ -21081,8 +20275,7 @@ for every system Y e S for which X c F, we have Y = X o r Y = S
 
 The follow ing are simple consequences o f these definitions:
 
-Theorem 29. The following conditions are mutually equiva­
-lent: (1) X 6 3 ; (2) I e S, I ^ L , and the formulas Y, Z e S
+Theorem 29. The following conditions are mutually equivalent: (1) X 6 3 ; (2) I e S, I ^ L , and the formulas Y, Z e S
 and X = Y + Z always imply X = Y or X — Z; (3) I g S,
 
 ^
@@ -21227,13 +20420,11 @@ Nevertheless it m ust be noticed that in generalizing Ths. 37 and
 38, all kinds o f system s involved in these theorems undergo
 relativization with respect to the set A or the set B ; not only
 do the classes <3 and SI go over respectively into QA and WA,
-or in to SB and %B (cf. Ths. 20 and 21), but an analogous trans­
-form ation m ust also be perform ed on classes <£, 3 , and SB. B y
+or in to SB and %B (cf. Ths. 20 and 21), but an analogous transform ation m ust also be perform ed on classes <£, 3 , and SB. B y
 relativizing the definitions o f these classes we easily realize that
 (under the assum ption A 6 31)
 and 3 X — <5^.3,
-and that the class SB4 consists o f those and only those sys­
-tems X which satisfy the form ulas X ^ A and
+and that the class SB4 consists o f those and only those systems X which satisfy the form ulas X ^ A and
 . <3X = {.<4,X}
 (SM can also be characterized as the class o f all systems o f the
 form A . Y, where Y is an arbitrary com plete system which does
@@ -21255,8 +20446,7 @@ can be shown that the equivalence of the relativized conditions
 since from each of these conditions it follows that A g SIl; the
 same applies to the conditions^?) and (8) if we supplement each
 o f them with the words 'and 3 4 < R f. Similarly the relativized
-form ulas (1), (2), (3), and (5) of Th. 38 are equivalent indepen­
-dently of the assumption that the system A is axiomatizable.
+form ulas (1), (2), (3), and (5) of Th. 38 are equivalent independently of the assumption that the system A is axiomatizable.
 (A ll this holds on the condition that we interpret the symbol
 and neglect the more general interpretation
 
@@ -21274,8 +20464,7 @@ further, the weaker law of excluded middle and I>e Morgan's
 law which appear in Th. 26. Some of the theorems of the calculus
 of classes just mentioned can. be used to supplement- the relativization3 of Th. 37 described above if the range of applications
 of these theorems is restricted to systems of the class \oA or <Bb ;
-thus, for examph-. under the assumption that At g %, the condi­
-tions (] )-($) of Th. C7 relativized wit h respect to the system A
+thus, for examph-. under the assumption that At g %, the conditions (] )-($) of Th. C7 relativized wit h respect to the system A
 are equivalent to the condition: X --= X for every system X g S T
 can be called the cardinal degree
 of capacity of ike system A . the power of the class S# can be
@@ -21297,8 +20486,7 @@ present volume, pp. 100 ff., especially Def. 8.
 
 X II, § 4
 
-trary deductive system as well. In case the degree o f com plete­
-ness o f a theory is finite, the structure o f the theory is very
+trary deductive system as well. In case the degree o f com pleteness o f a theory is finite, the structure o f the theory is very
 sim ple; as Th. 37 shows, all systems are then axiom atizable,
 and hence the calculus o f systems is not form ally distinct from
 the calculus o f classes; every system can be represented— and
@@ -21407,8 +20595,7 @@ first theory whilst xa and y% are any tw o correlated sentences
 o f the second theory, then the form ulas x1 d yx and x% o j/a are
 equivalent.
 
-It turns out that tw o cardinal numbers exert an essential in­
-fluence on the structural type o f a theory: the power a o f the
+It turns out that tw o cardinal numbers exert an essential influence on the structural type o f a theory: the power a o f the
 class o f all com plete aziom atizable systems and the power n
 o f the class o f all com plete non-axiom atizable system s. The
 ordered pair o f these numbers (a, tt) we oall the characteristic
@@ -21487,14 +20674,12 @@ The first o f the theories w hich we have in m ind can be called
 the elementary theory of dense order. In the theorems o f this
 theory denum erably m any variables o f different form appear;
 let these be, for exam ple, the signs V ' , *a*\ ca'*\ and so on.
-M oreover we have here four constants: the symbol of the order­
-ing relation ' JR' , the negation sign CN\ the implication sign 'C\
+M oreover we have here four constants: the symbol of the ordering relation ' JR' , the negation sign CN\ the implication sign 'C\
 and the universal quantifier 'El' .1
 
 A n expression which is com posed o f the sym bol tR i and tw o
 variables follow ing it, e.g. cRa'a*' (read 'a' precedes a"' or (a*
-follows a " ), we call an elementary formula. The expression con­
-sisting o f the negation sign and an arbitrary expression x follow ­
+follows a " ), we call an elementary formula. The expression consisting o f the negation sign and an arbitrary expression x follow ­
 ing it is called the negation of the expression x, sym bolically x;
 thus e.g. 'NRa'a*9 (read 'a' does not precede a"9 or Ht is false that
 a' preced.es a"9) is the negation o f the elem entary form ula 'Rara
@@ -21502,16 +20687,14 @@ The form ula which is form ed b y the im plication sign and tw o
 succeeding expressions x and y is called the implication with the
 antecedent x and the consequent y> sym bolically x - * y ; thus, e.g.,
 iCRafaNNRa"a" (read cI f af precedes a" then a* does not precede
-af' ) is an im plication w ith the antecedent iRa,arr> and the conse­
-quent 'NRa"a'9. B y putting in front o f an arbitrary expression
+af' ) is an im plication w ith the antecedent iRa,arr> and the consequent 'NRa"a'9. B y putting in front o f an arbitrary expression
 x the universal quantifier follow ed b y a variable we obtain the
 universal quantification of the expression x with respect to the given
 variable\ e.g. 'IIa'NRa'a'9 (read: for every af it is false that a'
 precedes itself) is the universal quantification o f the expression
 'N Ra'a'9 with respect to the variable V \
 
-Further, we define recursively a certain category o f expres­
-sions called sentential functions: sentential functions o f the 1st
+Further, we define recursively a certain category o f expressions called sentential functions: sentential functions o f the 1st
 order are elem entary form ulas, functions o f higher order arise
 out o f functions o f lower order b y applying one o f the three
 operations: negation, im plication, and universal quantification.
@@ -21548,8 +20731,7 @@ the 2nd kind expresses the fact that the relation R is n ot em pty:
 there exist tw o elements o f which one precedes the other. The
 next tw o characterize R as a relation which orders all the
 elements o f the universe o f discourse.1 Finally, the last asserts
-that the order established b y the relation R is dense: i f a ' pre­
-cedes a", then there is an element af" which succeeds a' and
+that the order established b y the relation R is dense: i f a ' precedes a", then there is an element af" which succeeds a' and
 precedes a\2
 
 Logical theorem s o f higher orders are obtained from the
@@ -21560,8 +20742,7 @@ denoted b y the sym bol 'L\
 
 W e have thus shown how all prim itive expressions o f general
 
-1 The axioms ca and Cj deviate somewhat from the usual postulates of order­
-ing. The reason is that among the signs of the theory discussed the identity
+1 The axioms ca and Cj deviate somewhat from the usual postulates of ordering. The reason is that among the signs of the theory discussed the identity
 sign does not appear; of. Lukasiewicz, J. (50), pp- 35 ff.
 
 2 The attention of the reader, who may be surprised at the presence of the
@@ -21575,8 +20756,7 @@ the deductive theory under consideration (cf. § 1).
 X II, $ 5
 
 m etam athem atics are to be interpreted in their application to
-the special deductive theory which has been chosen as the sub­
-je ct o f investigation. I t can easily be established that the Axs.
+the special deductive theory which has been chosen as the subje ct o f investigation. I t can easily be established that the Axs.
 1-5 of § 1 preserve their validity in this interpretation. Thus all
 consequenoes o f these axiom s are also valid; in particular the
 calculus o f system s can be applied in cur discussion.
@@ -21592,8 +20772,7 @@ w hich is established b y the relation B there is no last and no first
 elem ent.
 
 W ith the help o f a frequently used m ethod, which oonsists
-in reducing the sentences to norm al form and successively elim i­
-nating the quantifiers,1 the follow ing theorem can be established
+in reducing the sentences to norm al form and successively elim inating the quantifiers,1 the follow ing theorem can be established
 (we form ulate it in the term s o f the sentential algorithm which
 was introduced in §§ 1 and 2):
 
@@ -21643,8 +20822,7 @@ theory of isolated order— has an infinitistio character, and the
 variety o f its systems is m uch larger. On a superficial view this
 theory differs only slightly from the theory of dense order: the
 same constants and variables appear in it, the same expressions
-are called sentential functions and sentences, the same opera­
-tions are used in the recursive definition o f the concept of logical
+are called sentential functions and sentences, the same operations are used in the recursive definition o f the concept of logical
 theorem . The sole distinction consists in the fact that we om it
 from the list o f logical axiom s and replace it by tw o sentences:
 
@@ -21654,8 +20832,7 @@ ce - tTla,T[a"GRaf,a'NRa,"CRama'NUa™CRa !a*NRaha*f:.
 
 These tw o new axiom s state that every element which, in the
 order established b y the relation R> is not a last or a first
-element has an im m ediate successor or an im m ediate prede­
-cessor.1
+element has an im m ediate successor or an im m ediate predecessor.1
 
 In order to study the structure o f deductive systems in the
 theory o f isolated order we single out a particular sequence o f
@@ -21695,8 +20872,7 @@ W ith the help o f the above-m entioned m ethod (that o f the
 successive elim ination o f quantifiers)1 we can prove the follow ­
 ing theorem , which has a decisive significance for the m etam athem atical discussion o f the theory o f isolated order:
 
-Every sentence x e S satisfies one and only one of the four con­
-ditions: ( 1) x e L\ (2) x e L\ (3) there exists a finite increasing
+Every sentence x e S satisfies one and only one of the four conditions: ( 1) x e L\ (2) x e L\ (3) there exists a finite increasing
 
 sequence of natural numbers 7^ , n2>..., np such that x = &
 
@@ -21707,8 +20883,7 @@ nv n2,..., np such that x — j? in , The sequences nls
 
 n
 
-which occur in (3) and (4) are uniquely determined by the sen­
-tence x .
+which occur in (3) and (4) are uniquely determined by the sentence x .
 
 W e state here the m ost im portant consequences o f this theo­
 
@@ -21749,8 +20924,7 @@ included in them .
 
 The class <5— 31 consists o f system s o f the form
 
-npi... form an arbitrary infinite in­
-where the numbers nv
+npi... form an arbitrary infinite inwhere the numbers nv
 creasing sequence; these system s are convergent or divergent
 according to whether the num ber o f natural numbers which are
 not terms o f the sequence nl9 7t2,..., np>--
@@ -21764,8 +20938,7 @@ to 2K«. I f X —
 then X =
 and X = 4 ^ -4 ^ ......4^> where
 7% , ra2,..., mq are all the distinct natural numbers wlueh do not
-npi. . . . The degree o f com plete­
-occur in the sequence 7^,
+npi. . . . The degree o f com pleteoccur in the sequence 7^,
 ness o f such a system X is equal to 2«+1. If, however,
 
 is a divergent system , then
@@ -21791,8 +20964,7 @@ x n , § 5
 
 concluding remarks o f § 4—have the same structural type as
 the elementary theory o f isolated order. An especially simple
-theory o f this kind is the elementary theory of identity. Its con­
-struction is very similar to both the previous theories; the
+theory o f this kind is the elementary theory of identity. Its construction is very similar to both the previous theories; the
 difference consists only in that in the system of logical axioms,
 instead of the sentences cv ca,..., c8, only two sentences are
 included,
@@ -21801,8 +20973,7 @@ which together characterize R as a reflexive, symmetrical, and
 transitive relation. The symbol {R ' we can here call the identity
 sign, the formula lRa'a
 is read 'o ' is identical with a"\ All
-xeBults concerning the theory o f isolated order can also be ex­
-tended to the theory of identity, provided that the sequence of
+xeBults concerning the theory o f isolated order can also be extended to the theory of identity, provided that the sequence of
 sentences t" is suitably defined. It is not difficult to formulate
 the definition o f this sequence: the sentences ip ta, is>... are to
 express respectively the idea that the number o f all elements is
@@ -21870,14 +21041,12 @@ pair (K0, 2). If, on the other hand, we sim ply delete the sentence
 ly then the resulting theory, which is clearly the general algebra
 o f logic, proves to have (K0, K0) as its characteristic pair. I f we
 strike out the sentence c4 from the axiom system o f the theory
-o f dense order (or, what amounts to the same thing, the sen­
-tences c6 and cQ from the axiom system o f the theory o f isolated
+o f dense order (or, what amounts to the same thing, the sentences c6 and cQ from the axiom system o f the theory o f isolated
 order) and pass in this w ay to the general elementary theory of
 order, then the structure o f the theory becom es enorm ously m ore
 com plicated: while the theory o f dense order has one o f the
 sim plest structural types, the general theory o f order has a very
-com posite type, and its characteristic pair is the greatest pos­
-sible one, nam ely (SK0, 2*«). I f we drop the sentences cl9 Cg, and
+com posite type, and its characteristic pair is the greatest possible one, nam ely (SK0, 2*«). I f we drop the sentences cl9 Cg, and
 Cg from the axiom system o f the general theory o f order, we
 
 : <.-• :
@@ -21890,8 +21059,7 @@ obtain a new theory with the characteristic pair (X0J 2*»), namely
 the general elemerda,ry theory of a binary relation. This theory
 em braces in a certain sense all previously considered theories.
 W ithin the discussion o f this theory all results sketched in this
-section find their place. Thus, for exam ple, all results concern­
-ing arbitrary deductive systems o f the theory o f dense order
+section find their place. Thus, for exam ple, all results concerning arbitrary deductive systems o f the theory o f dense order
 can be regarded as results relating to those systems o f the. general
 theory o f a binary relation which include the system
 
@@ -21924,8 +21092,7 @@ the elem entary theory o f order are identical; for that reason we
 call the types a and j8 which satisfy this form ula elementarily
 indistinguishable or elementarily equivalent.
 
-1 The remarks given below refer to ordering relations, bub they can be ex­
-tended to arbitrary relations. W e must speak, then, not of types of order, but
+1 The remarks given below refer to ordering relations, bub they can be extended to arbitrary relations. W e must speak, then, not of types of order, but
 of relation numbers in the sense of Whitehead, A. N ., and Russell, B. (90),
 vol. II, pp. 30 fif.
 
@@ -21939,8 +21106,7 @@ that every class o f order types o f which no tw o are elem entarily
 equivalent can have at m ost the power 2K«, for this is the power
 o f the class o f all denumerable types (this can also be proved
 m ore sim ply w ithout the theorem o f Skolem -Low enheim ). On
-the other hand, it is n ot difficult to construct a class o f elemen­
-tarily distinguishable (non-equivalent) order types the power
+the other hand, it is n ot difficult to construct a class o f elementarily distinguishable (non-equivalent) order types the power
 o f which is actually 2Ko (in the construction we im itate the p roof
 o f the set-theoretical theorem just m entioned, according to
 which the class o f denumerable order types has the power 2Ko).2
@@ -21948,10 +21114,8 @@ I f we restrict ourselves to dense order types, we reach the
 result that only four suoh elem entarily non-equivalent order
 types exist; in fact, the set T(a) is always a com plete system ,
 and in the elem entary theory o f dense order only four com plete
-system s appear. As an exam ple o f four dense elem entarily non­
-equivalent order types, the types 77, I + 77, 77+ I , I + tj+ I m ay
-serve, where '77' denotes as usual the type o f the natural order­
-ing o f the set o f all rational numbers. B y using the sym bols
+system s appear. As an exam ple o f four dense elem entarily nonequivalent order types, the types 77, I + 77, 77+ I , I + tj+ I m ay
+serve, where '77' denotes as usual the type o f the natural ordering o f the set o f all rational numbers. B y using the sym bols
 which were introduced in the discussion o f the theory o f dense
 order it can be shown that
 
@@ -21964,10 +21128,8 @@ E very other type o f dense order is elem entarily equivalent to
 one o f these fou r types. Thus, for exam ple, for the type A o f the
 natural order o f the set o f all real numbers we have T{ A) = T(y).
 Nevertheless, the types 77 and A are distinguished b y a whole
-series o f properties: 77 is a denumerable type, A is n ot; A is a con­
-tinuous type, 77 is not. From this it follow s that properties o f
-order types such as denumerability and continuity are not elemen­
-tary properties, in the sense that they cannot be expressed in the
+series o f properties: 77 is a denumerable type, A is n ot; A is a continuous type, 77 is not. From this it follow s that properties o f
+order types such as denumerability and continuity are not elementary properties, in the sense that they cannot be expressed in the
 language of the elementary theory of order (as far as denum erability
 is concerned this also follow s from the theorem ^ f Skolem -
 Lowenheim ).
@@ -22032,15 +21194,13 @@ systems— a new m ethod for the foundation o f probability theory
 is developed).
 
 The results o f § 5 had already been obtained in the years
-1926-8, naturally w ithout applying the apparatus o f the cal­
-culus o f systems, which was n ot at m y disposal at that tim e.
+1926-8, naturally w ithout applying the apparatus o f the calculus o f systems, which was n ot at m y disposal at that tim e.
 (Cf. V III, p. 205, note 2, as well as Presburger, M. (61)).
 During the same period I becam e aware o f the facts discussed
 in the appendix. B ut I was able to state these facts in a correct
 and preoise form only with the help o f the m ethods which were
 developed in V I and V III, during the years 1929-30. The facts
-discussed in the appendix, together w ith other results o f a re­
-lated kind, were com m unicated b y me in 1932 in a lecture at
+discussed in the appendix, together w ith other results o f a related kind, were com m unicated b y me in 1932 in a lecture at
 the W arsaw Section o f the Polish M athem atical Society.
 
 O N T H E L I M I T A T I O N S O F T H E
@@ -22097,8 +21257,7 @@ x i n
 
 E X P R E S S IO N OF D E D U C T IV E T H E O R IE S
 
-F or other concepts and sym bols used in the follow ing dis­
-cussion see X , pp. 297-8. In particular, we shall em ploy sym ­
+F or other concepts and sym bols used in the follow ing discussion see X , pp. 297-8. In particular, we shall em ploy sym ­
 bolic expressions o f the form
 
 x',
@@ -22138,10 +21297,8 @@ y\
 s M S ,i f , * ',...)
 
 R oughly speaking, Th. 1 states that every relation between
-objects (individuals, classes, relations, etc.) which can be ex­
-pressed b y purely logical means is invariant with respect to
-every one-one m apping o f the 'w orld5 (i.e. the class o f all in­
-dividuals) onto itself and this invariance is logically provable.
+objects (individuals, classes, relations, etc.) which can be expressed b y purely logical means is invariant with respect to
+every one-one m apping o f the 'w orld5 (i.e. the class o f all individuals) onto itself and this invariance is logically provable.
 The theorem is certainly plausible and had already been used
 as a premiss in certain intuitive considerations, iSTevertheless
 it had never before been precisely form ulated and exactly
@@ -22203,8 +21360,7 @@ is logically provable.
 
 In other words, apart from the universal class and the em pty
 class, no class o f individuals can be defined by purely logical
-means.1 I t should be noted that the follow ing sharper form ula­
-tion o f Th. 3 in general fails: I f 'x 9 is an individual variable, then
+means.1 I t should be noted that the follow ing sharper form ulation o f Th. 3 in general fails: I f 'x 9 is an individual variable, then
 for every sentential function ^o■(a;), either the sentence ((x).cr(x)' or
 
 1 The words ' define', ' definable', eto., are used in two distinct senses: in
@@ -22244,8 +21400,7 @@ every natural number n only a specifiable finite number o f nterm ed relations b
 logical means, and each o f these relations can be expressed by
 means o f identity and the concepts o f the sentential calculus.
 
-Y et another special case o f Th. 1 will be stated here concern­
-ing sentential functions with one free variable denoting a class
+Y et another special case o f Th. 1 will be stated here concerning sentential functions with one free variable denoting a class
 o f individuals; 'Nc(x)9 will denote the cardinal number (in the
 sense o f Principia Mathemaiica) o f the class x and 'x 9 will denote
 the com plem ent o f x.
@@ -22263,8 +21418,7 @@ numbers and whose com plem ents also have equal cardinal num ­
 bers, are distinguishable b y purely logical means.1
 
 It is custom ary to say that our logic is a logic o f extensions
-and n ot o f intensions, since tw o concepts with different inten­
-sions but identical extensions are logically indistinguishable.
+and n ot o f intensions, since tw o concepts with different intensions but identical extensions are logically indistinguishable.
 
 1 That is the solution of a problem which was first formulated in Tarski,
 
@@ -22277,16 +21431,13 @@ x i n , { I
 In the light o f Th. 5 this assertion can be sharpened: our logic
 is not even a logic o f extensions, but m erely a logic o f cardinality,
 since tw o concepts w ith different extensions are still logically
-indistinguishable i f only the cardinal numbers o f their exten­
-sions Are equal and the cardinal numbers o f the extensions o f
+indistinguishable i f only the cardinal numbers o f their extensions Are equal and the cardinal numbers o f the extensions o f
 the com plem entary concepts are also equal.
 
 W e pass now to the applications o f Th. 1 to special deductive
-theories, and to make the discussion m ore speoific we concen­
-trate upon Euclidean geom etry. It is well known that Euclidean
+theories, and to make the discussion m ore speoific we concentrate upon Euclidean geom etry. It is well known that Euclidean
 geom etry can be constructed b y means o f a single prim itive
-concept, e.g. b y means o f the four-term ed relation o f the con­
-gruence o f tw o pairs o f points. W e shall denote this relation by
+concept, e.g. b y means o f the four-term ed relation o f the congruence o f tw o pairs o f points. W e shall denote this relation by
 V . The expression 'a(x, y, z, t) * will thus be read: 'the point x
 is the same distance from the point y as the point z is from the
 point t\ W e also assume that the axiom system o f Euolidean
@@ -22309,15 +21460,11 @@ d :or(q;a',y',z',...).
 === .a {a ;x ",y ',z ",...)
 
 Intuitively speaking, every relation between objects (points,
-sets o f points, classes o f sets o f points, etc.) which can be ex­
-pressed in terms o f logic and geom etry is invariant with respect
+sets o f points, classes o f sets o f points, etc.) which can be expressed in terms o f logic and geom etry is invariant with respect
 to every one-one m apping o f space onto itself in which the relation
-a is preserved, i.e. with respect to every sim ilarity transform a­
-tion (and not only w ith respect to every isom etricai transform a­
-tion).
+a is preserved, i.e. with respect to every sim ilarity transform ation (and not only w ith respect to every isom etricai transform ation).
 
-Using the specific properties o f the axiom s o f Euclidean geo­
-m etry, it is easy from Th. 6 to derive analogues o f Ths. 2-4.
+Using the specific properties o f the axiom s o f Euclidean geom etry, it is easy from Th. 6 to derive analogues o f Ths. 2-4.
 Thus, b y means o f logic and Euclidean geom etry no tw o points
 can be distinguished, neither can any specific set o f points,
 
@@ -22328,8 +21475,7 @@ X H I, $ X
 E X P R E S S I O N OF D E D U C T IV E T H E O R IE S
 
 apart from the w hole space and the em pty set, be defined, nor
-any tw o-term ed relation betw een points, apart from the uni­
-versal relation, the em pty relation, identity, and diversity (in
+any tw o-term ed relation betw een points, apart from the universal relation, the em pty relation, identity, and diversity (in
 particular, in geom etry no direction on a straight line can be
 singled out). The distinction between logic and geom etry com es
 to light, how ever, in the discussion o f three-term ed relations;
@@ -22363,21 +21509,18 @@ is provable in Euclidean geometry.
 o f logic and Euclidean geom etry, and no absolute unit o f length
 is definable within E uclidean geom etry.
 
-Various results of this kind can also be reached by investi­
-gating other deductive theories, e.g. projective geometry and
+Various results of this kind can also be reached by investigating other deductive theories, e.g. projective geometry and
 topology. Th. 6 holds generally for every theory based on logiCy
 because no use is m ade in its p roof o f specific properties o f the
 axiom s o f geom etry. N ot only Ths. 2-4, but also the analogue
-o f Th. 4 for three-term ed relations, can be carried over to p ro­
-jective geom etry; in fa ct there are only finitely m any threeterm ed (although infinitely m any four-term ed) relations between
+o f Th. 4 for three-term ed relations, can be carried over to p rojective geom etry; in fa ct there are only finitely m any threeterm ed (although infinitely m any four-term ed) relations between
 points which can be defined in this geom etry (in particular the
 
 L IM IT A T IO N S OF TH E MEANS OF
 
 X H I, § 1
 
-relation o f lying between is not definable in projective geo­
-m etry). In topology only those tw o- and m any-term ed relations
+relation o f lying between is not definable in projective geom etry). In topology only those tw o- and m any-term ed relations
 between points are at all definable which can be defined by
 purely logical means.
 
@@ -22407,8 +21550,7 @@ o . ( 3
 
 & j y i % >•••
 
-is logically provable. The axiom system is said to be non-ramifiable if, for eveiy sentential function ia(xyy }z,...)\ the dis­
-junction
+is logically provable. The axiom system is said to be non-ramifiable if, for eveiy sentential function ia(xyy }z,...)\ the disjunction
 
 {x, y>2,...): <x{x9 y % 2 ,...). 3 . o{x, y 9 2,...):
 
@@ -22425,8 +21567,7 @@ F or exam ple, the axiom atically constructed arithm etic o f
 natural numbers is categorical and thus non-ram ifiable, It is
 also incom plete, i.e. there are arithm etical sentences which can
 be neither proved nor disproved b y means o f the axioms o f
-arithm etic.2 On account o f the non-ram ifiability the indepen­
-dence p roof for such sentences cannot be carried out in any
+arithm etic.2 On account o f the non-ram ifiability the independence p roof for such sentences cannot be carried out in any
 direction b y an interpretation in logic.
 
 The converse o f Th. 9 proves to hold under a supplementary
@@ -22499,22 +21640,16 @@ converse is open in this case as w ell.
 In conclusion we note the follow ing: when applying Th. 1 to
 special deductive theories and to general m etam athem atics we
 m ust restrict ourselves to those axiom system s from which it
-follow s that there are no individuals outside the dom ain o f dis­
-course o f the theory discussed. W e could rem ove this restric­
-tion b y means o f an appropriate generalization o f Th. 1. T o
+follow s that there are no individuals outside the dom ain o f discourse o f the theory discussed. W e could rem ove this restriction b y means o f an appropriate generalization o f Th. 1. T o
 obtain this generalization we should introduce a new notion, in
 fa ct the notion o f a sentential function intrinsic under a given
 variable (or constant) 'o ' or, in other words, the notion o f a
-property intrinsic for a given doss a. R oughly speaking, a pro­
-perty is intrinsic for a class a i f it involves exclusively elements
+property intrinsic for a given doss a. R oughly speaking, a property is intrinsic for a class a i f it involves exclusively elements
 o f o, subsets o f o, relations betw een elem ents o f o, eto. (and
 not, for exam ple, individuals outside o f o). W e do not give
-here a precise definition o f the new notion, nor do we form u­
-late the generalization o f Th. 1 in which this notion is essen­
-tially involved. W e should like to m ention only that, w ith
+here a precise definition o f the new notion, nor do we form ulate the generalization o f Th. 1 in which this notion is essentially involved. W e should like to m ention only that, w ith
 the help o f this notion, various new results— o f the same
-general character as those previously discussed— can be form u­
-lated and established. Thus, for instance, it can be shown that
+general character as those previously discussed— can be form ulated and established. Thus, for instance, it can be shown that
 every property o f a point set x, which is expressed in terms o f
 logic and topology, and is intrinsic for x, is invariant under any
 hom om orphic transform ation (o f the set x into another set a:').1
@@ -22536,15 +21671,13 @@ b y which under certain assum ptions only a single extension
 exists in the dom ain o f the sentential calculus, I shall show
 further that m ost o f the incom plete systems o f the sentential
 calculus so far treated satisfy these assumptions, so that the
-ordinary (tw o-valued) system o f the sentential calculus consti­
-tutes the only consistent and com plete extension for all these
+ordinary (tw o-valued) system o f the sentential calculus constitutes the only consistent and com plete extension for all these
 system s.
 
 I t is well known that in the expressions o f the sentential
 calculus special variables, the so-called sentential variables
 p,q, r,...,occu r, and in addition the implication sign G and possibly
-still other constants, e.g. the negation sign N> the signs of dis­
-junction A , and conjunction K , and so on .2 Correlated with
+still other constants, e.g. the negation sign N> the signs of disjunction A , and conjunction K , and so on .2 Correlated with
 each constant is a fundamental operation on expressions b y which
 com pound expressions can be form ed from simpler ones. F or
 exam ple, corresponding to the im plication sign is the operation
@@ -22565,10 +21698,8 @@ mJUrgebniese eines mathematiecfien Kolloquiums, fascicule 7 (1934-6), pp. 61-07.
 ON E X T E N S IO N S OF IN CO M PLETE
 
 o f forming an implication, b y means o f which from tw o given
-expressions a and b the im plication Gab is form ed. The inter­
-section o f all sets o f expressions which contain all the sentential
-variables and are closed under each o f the fundam ental opera­
-tions is called the set of (meaningful) sentences and denoted
+expressions a and b the im plication Gab is form ed. The intersection o f all sets o f expressions which contain all the sentential
+variables and are closed under each o f the fundam ental operations is called the set of (meaningful) sentences and denoted
 b y 8.
 
 Tw o operations are further distinguished which correlate
@@ -22579,8 +21710,7 @@ obvious meaning o f the concept o f substitution. The set o f all
 sentences which can be obtained from the sentences o f a given
 set X b y substitution is denoted b y (Sb(X)\ More generally, we
 denote b y 'Sbr (X )' the set o f all sentences which are obtained
-b y replacing all variables in the sentences o f the set X b y sen­
-tences o f the set T (in such a w ay that variables o f the same
+b y replacing all variables in the sentences o f the set X b y sentences o f the set T (in such a w ay that variables o f the same
 shape whioh occur in a given sentence are replaced b y sentences
 o f the same shape). The operation o f detachm ent correlates the
 sentence b with tw o given sentences o f the form a and Gab.
@@ -22592,8 +21722,7 @@ in sym bols Cn(X).
 B y means o f the concepts o f sentence and set o f consequences
 other m etalogioal concepts can be defined. Thus, for example,
 a set X o f sentences is called a deductive system, or sim ply a
-system, if Gn(X) = X . The set X o f sentences is called incon­
-sistent or consistent according to whether the form ula Cn(X) = S
+system, if Gn(X) = X . The set X o f sentences is called inconsistent or consistent according to whether the form ula Cn(X) = S
 holds or not. The set X o f sentences is called complete if every
 sentence a either is a consequence o f the set X or, when added
 to X , yields an inconsistent set
@@ -22615,14 +21744,12 @@ theorem m entioned at the outset is as follow s:
 T heorem 1. Let X be a consistent set of sentences, which
 satisfies the following condition: there is a set Z of sentences such
 that X is complete with respect to the set Sbz (S) and* the set
-X + S b z (S) is inconsistent. Then there exists exactly one con­
-sistent and complete deductive system Y , which includes the set X .
+X + S b z (S) is inconsistent. Then there exists exactly one consistent and complete deductive system Y , which includes the set X .
 
 F or the p roof o f this theorem we require certain lemmas.
 
 L emma 1. For every set X of sentences Sbx {S) is the smallest
-set of sentences which includes X and is closed under every funda­
-mental operation.
+set of sentences which includes X and is closed under every fundamental operation.
 
 The p roof—based on an exact definition o f the concept o f
 substitution— presents no difficulties. As a corollary we easily
@@ -22638,14 +21765,12 @@ SbY(Cn(X)) c: Cn(SbY(Sb(X))).
 
 Proof. Let Z be the set o f all sentences a which satisfy the
 form ula $ 6r ({a}) ^ Cn(SbY{Sb{X))). I t is easily shown that
-8b(X) £ Z and that Z is closed under the operation o f de­
-tachm ent (i.e. if a e Z and Gab e Z } then b e Z). From this it
+8b(X) £ Z and that Z is closed under the operation o f detachm ent (i.e. if a e Z and Gab e Z } then b e Z). From this it
 results im m ediately that Cn(X) ^ Z, in other words that
 SbY({a}) £ Cn(SbY(Sb(X))) for every sentence a e Cn{X); and
 thus finally SbY{Cn{X)) c: Cn(Sbr (Sb{X)))9 q.e.d.
 
-I f in Lem m a 3 we put Y = S, then by a simple transform a­
-tion we obtain the form ula Sb(Cn(X)) c Gn(X) for every set
+I f in Lem m a 3 we put Y = S, then by a simple transform ation we obtain the form ula Sb(Cn(X)) c Gn(X) for every set
 X o f sentences. B y virtue o f this form ula the definition o f the
 set o f consequences given above can be replaced b y the follow ing:
 Gn(X) is the intersection o f all sets o f sentences which include
@@ -22707,8 +21832,7 @@ X .F + { a } £ X , and the set X . F + { o } is thus consistent. Since
 X .Y is com plete w ith respect to Z and a e Z , it follow s that
 a e C n(X.Y). The set X . Y, as the intersection o f tw o systems,
 is itself a system , i.e. Gn(X .Y) = X.Y*-, consequently a e X . Y .
-Thus the form ula a e X .Z always im plies a e X . Y . A ccord­
-ingly, X . Z £ X . Y , X . Z = X .Y .Z . In an analogous maimer
+Thus the form ula a e X .Z always im plies a e X . Y . A ccordingly, X . Z £ X . Y , X . Z = X .Y .Z . In an analogous maimer
 it can be proved that Y .Z — X .Y .Z , whence finally we have
 X .Z = Y .Z , q.e.d.
 
@@ -22732,8 +21856,7 @@ distinct from Y. Since Y and Yx are com plete, the set T
 
 sentences m ust be inconsistent.1 B ut since
 X + S b z (S) £ Y + S b z (S)
-and X + S b z(S ) is inconsistent, Y-\-Sbz (S) m ust also be incon­
-sistent. H ence it follow s b y Lem m a 4 that
+and X + S b z(S ) is inconsistent, Y-\-Sbz (S) m ust also be inconsistent. H ence it follow s b y Lem m a 4 that
 (1) the set Y SbSbl^ )(Y1) is inconsistent.
 
 M oreover, w e have
@@ -22764,8 +21887,7 @@ contrary to our assum ption. H ence the system Yx cannot be
 distinct from Y. Th. 1 is thus proved.
 
 In order to apply this theorem to special system s, let us
-consider first certain system s o f the so-called restricted senten­
-tial calculus, i.e. the theory in w hich the im plication sign is the
+consider first certain system s o f the so-called restricted sentential calculus, i.e. the theory in w hich the im plication sign is the
 only constant.8
 
 T heobem 2. I f X is a consistent set of sentences which contains
@@ -22834,8 +21956,7 @@ variable p ). F or analogous reasons (6) also holds.
 
 Proof of Theorem 2. I t is a well-known fa ct that the ordinary
 system L o f the sentential calculus (which can be defined, for
-exam ple, b y means o f the fam iliar tw o-valued m atrix) is con­
-sistent and com plete1 and contains the sentences CpCqp,
+exam ple, b y means o f the fam iliar tw o-valued m atrix) is consistent and com plete1 and contains the sentences CpCqp,
 CpCCpqq, and CCqrCCpqCpr as elements. H ence it follow s that
 the set X 0 which consists o f these three sentences is consistent.
 This fa ct, together w ith Lem m a 7, perm its us to apply Th. 1
@@ -22858,8 +21979,7 @@ below.
 I t should be noted in connexion w ith Th. 2 that the class
 o f all system s o f the sentential calculus which contains the
 sentences CpCqp, CpCCpqq, and CCqrCCpqCpr is fairly
-com prehensive. F or exam ple, to this class belong all many­
-valued systems o f the sentential calculus which originate with
+com prehensive. F or exam ple, to this class belong all manyvalued systems o f the sentential calculus which originate with
 J. Lukasiewioz,2 as well as the positive system o f the sentential
 calculus originated b y D . H ilbert.3 Each o f these systems can
 therefore be extended in only one way to a consistent and com ­
@@ -22906,14 +22026,12 @@ which includes the set X .
 T o the system s X which satisfy the hypothesis o f Th. 4 (or 3)
 belong again all m any-valued system s o f Lukasiewicz and also,
 am ong others, the intuitionistic system o f the sentential calculus
-o f A . H eyting.1 F or each o f these system s the ordinary tw o­
-valued system constitutes the only consistent and com plete
+o f A . H eyting.1 F or each o f these system s the ordinary tw ovalued system constitutes the only consistent and com plete
 extension.8
 
 1 Heyting, A . (28).
 a This result was previously obtained for the many-valued systems of the
-sentential calculus by another method, cf. IV , p. 49, Th. 21 and the accom­
-panying footnote.
+sentential calculus by another method, cf. IV , p. 49, Th. 21 and the accompanying footnote.
 
 T H E E S T A B L I S H M E N T O F
 
@@ -22941,8 +22059,7 @@ Concepts from the dom ain o f semantics have traditionally
 played a prom inent part in the disoussions o f philosophers,
 logicians, and philologists. Nevertheless they have long been
 regarded with a certain scepticism . From the historical point
-o f view this scepticism is well founded; for, although the con­
-tent o f the semantical concepts, as they occur in colloquial
+o f view this scepticism is well founded; for, although the content o f the semantical concepts, as they occur in colloquial
 language, is clear enough, yet all attem pts to characterize this
 content m ore precisely have failed, and various discussions in
 w hich these concepts appeared and which were based on quite
@@ -22969,8 +22086,7 @@ means coincide w ith the language in which we speak. They
 have carried out the semantics o f a language in that language
 itself and, generally speaking, they have proceeded as though
 there was only one language in the w orld. The analysis o f the
-antinomies m entioned shows, on the contrary, that the seman­
-tical concepts sim ply have no place in the language to which they
+antinomies m entioned shows, on the contrary, that the semantical concepts sim ply have no place in the language to which they
 relate, that the language which contains its own semantics, and
 within which the usual logical laws hold, must inevitably be
 inconsistent. Only in recent years has attention been given to
@@ -22979,13 +22095,11 @@ becom e fully aware o f them ).
 
 As soon as we give full recognition to the above circumstances,
 and carefully avoid the errors so far com m itted, the task o f
-laying the foundations o f a scientific semantics, i.e. o f character­
-izing precisely the semantical conoepts and o f setting up a
+laying the foundations o f a scientific semantics, i.e. o f characterizing precisely the semantical conoepts and o f setting up a
 logically unobjectionable and m aterially adequate way o f using
 these concepts, presents no further insuperable difficulties.
 N aturally, in doing this we must proceed cautiously, making
-full use o f the apparatus which m odem logic provides and care­
-fu lly attending to the requirements o f present-day m ethodology.
+full use o f the apparatus which m odem logic provides and carefu lly attending to the requirements o f present-day m ethodology.
 In the solution o f this problem we can distinguish several
 steps. W e must begin with the description o f the language
 whose semantics we wish to construct. In particular we must
@@ -22993,8 +22107,7 @@ enumerate the prim itive term s o f the language and give the
 rules o f definition by which new terms distinct from the
 prim itive ones can be introduced into the language. N ext we
 must distinguish those expressions o f the language which are
-called sentences, separate the axiom s from the totality o f sen­
-tences, and finally form ulate the rules o f inference by means
+called sentences, separate the axiom s from the totality o f sentences, and finally form ulate the rules o f inference by means
 o f which theorems can be derived from these axiom s. The
 
 X V
@@ -23034,8 +22147,7 @@ which is to form the basis for semantical investigations must thus
 contain both kinds o f expression: the expressions o f the original
 language, and the expressions o f the m orphology o f language,
 In addition to these, the metalanguage, like every other language,
-must contain a larger or smaller stock o f purely logical expres­
-sions. The question now arises whether a metalanguage which
+must contain a larger or smaller stock o f purely logical expressions. The question now arises whether a metalanguage which
 is equipped exclusively with expressions o f the kinds m entioned
 form s a sufficient basis for sem antical investigations. W e shall
 return to this question later.
@@ -23045,11 +22157,9 @@ E S T A B L IS H M E N T OF S C IE N T IF IC SEM ANTICS
 X V
 
 Our next task is to determ ine the conditions under which
-we should be inclined to regard a w ay o f using sem antical con­
-cepts as m aterially adequate and in accordance with ordinary
+we should be inclined to regard a w ay o f using sem antical concepts as m aterially adequate and in accordance with ordinary
 usage. W e shall explain this m ore exactly b y reference to the
-concept o f truth. W e regard the truth o f a sentence as its 'corre­
-spondence w ith reality' . This rather vague phrase, which can
+concept o f truth. W e regard the truth o f a sentence as its 'correspondence w ith reality' . This rather vague phrase, which can
 certainly lead to various misunderstandings and has often done
 so in the past, is interpreted as follow s. W e shall regard as valid
 all such statements as .
@@ -23082,8 +22192,7 @@ concept o f truth b y means o f a definition, then we shall also
 say that the corresponding definition is m aterially adequate.
 W e can apply an analogous m ethod to any other semantical
 concepts as well. E or each o f these concepts we form ulate a
-system o f statem ents, which are expressed in the form o f equiva­
-lences and have the character o f partial definitions; as regards
+system o f statem ents, which are expressed in the form o f equivalences and have the character o f partial definitions; as regards
 their contents, these statem ents determine the sense o f the
 concept concerned with respect to all concrete, structurally
 
@@ -23092,8 +22201,7 @@ X V
 E S T A B L IS H M E N T OF S C IE N T IF IC SEM ANTICS
 
 described expressions o f the language being investigated. W e
-then agree to regard a w ay o f using (or a definition o f) the se­
-m antical concept in question as m aterially adequate if it enables
+then agree to regard a w ay o f using (or a definition o f) the sem antical concept in question as m aterially adequate if it enables
 us to prove in the m etalanguage all the partial definitions just
 m entioned. B y w ay o f illustration we give here such a partial
 definition o f the concept o f satisfaction:
@@ -23107,15 +22215,11 @@ sem antical concepts) are form ulated in the m etametalanguage
 and not in the metalanguage itself.
 
 A ll the problem s so far have been o f a preparatory and
-auriliary nature. Only after these preliminaries can we ap­
-proach our ch ief problem . This is the establishm ent o f a m a­
-terially correct w ay o f using the sem antical concepts in the
+auriliary nature. Only after these preliminaries can we approach our ch ief problem . This is the establishm ent o f a m aterially correct w ay o f using the sem antical concepts in the
 metalanguage. A t this point tw o procedures com e into con ­
 sideration. In the first the semantical concepts (or at least some
-o f them ) are introduced into the metalanguage as new prim i­
-tive concepts and their basic properties are established by
-means o f axiom s. Am ong these axiom s are included all state­
-ments which secure the m aterially adequate use o f the concepts
+o f them ) are introduced into the metalanguage as new prim itive concepts and their basic properties are established by
+means o f axiom s. Am ong these axiom s are included all statements which secure the m aterially adequate use o f the concepts
 in question. In this w ay semantics becom es an independent
 deductive theory based upon the m orphology o f language. But
 when this m ethod, which seems easy and simple, is worked out
@@ -23123,8 +22227,7 @@ in detail various objections present them selves. The getting up
 o f an axiom system sufficient for the developm ent o f the whole
 o f semantics offers considerable difficulties. F or certain reasons,
 which we shall not go into here, the choice o f axiom s always
-has a rather accidental character, depending on inessential fa c­
-tors (such as e.g. the actual state o f our knowledge). Various
+has a rather accidental character, depending on inessential fa ctors (such as e.g. the actual state o f our knowledge). Various
 criteria which we should like to use in this connexion prove to
 be inapplicable. M oreover, the question arises whether the
 axiom atically constructed semantics is consistent. The problem
@@ -23133,9 +22236,7 @@ is applied, bu t here it acquires a special im portance, as we see
 
 E S T A B L ISH M E N T OF S C IE N T IF IC SEM ANTICS
 
-from the sad experiences we have had with the semantical con­
-cepts in colloquial language. A part from the problem o f con­
-sistency, a m ethod o f constructing a theory does not seem to
+from the sad experiences we have had with the semantical concepts in colloquial language. A part from the problem o f consistency, a m ethod o f constructing a theory does not seem to
 be very natural from the psychological point o f view if in this
 m ethod the role o f prim itive concepts— thus o f concepts whose
 meaning should appear evident— is played b y concepts which
@@ -23148,13 +22249,11 @@ harm ony with the postulates o f the unity o f science and o f
 physicalism (since the concepts o f semantics w ould be neither
 logical nor physical concepts).
 
-In the second procedure, which has none o f the above dis­
-advantages, the sem antical concepts are defined in terms o f the
+In the second procedure, which has none o f the above disadvantages, the sem antical concepts are defined in terms o f the
 usual concepts o f the metalanguage and are thus reduced to
 purely logical concepts, the concepts o f the language being
 investigated and the specific concepts o f the m orphology o f
-language. In this way semantics becom es a part o f the m orpho­
-logy o f language if the latter is understood in a sufficiently wide
+language. In this way semantics becom es a part o f the m orphology o f language if the latter is understood in a sufficiently wide
 sense. The question arises whether this m ethod is applicable
 at all. I t seems to me that this problem can now be regarded
 as definitely solved. I t proves to be closely connected with the
@@ -23166,8 +22265,7 @@ correct and materially adequate definitions of the semantical concepts if and on
 higher logical type than all the variables of the language which is
 the subject of investigation.
 
-I t w ould be im possible to establish here, even in general out­
-line, the thesis just form ulated. I t can only be pointed out that
+I t w ould be im possible to establish here, even in general outline, the thesis just form ulated. I t can only be pointed out that
 it has been found useful, in defining the semantical concepts,
 to deal first with the concept o f satisfaction; both because a
 definition o f this concept presents relatively few difficulties, and
@@ -23175,8 +22273,7 @@ definition o f this concept presents relatively few difficulties, and
 E S T A B L ISH M E N T OF SC IE N T IF IC SEM ANTICS
 
 because the remaining semantical concepts are easily reducible
-to it. It is also to be noted that from the definitions o f seman­
-tical concepts various im portant theorems o f a general nature
+to it. It is also to be noted that from the definitions o f semantical concepts various im portant theorems o f a general nature
 concerning the concepts defined can be derived. F or example,
 on the basis o f the definition o f truth we can prove the laws o f
 contradiction and o f excluded midtile (in their m etalogical
@@ -23184,13 +22281,11 @@ form ulation).
 
 W ith this the problem o f establishing semantics on a scientific
 basis is com pletely solved. Only the future can definitely say
-whether further investigations in this field will prove to be fruit­
-ful for philosophy and the special sciences, and what place
+whether further investigations in this field will prove to be fruitful for philosophy and the special sciences, and what place
 semantics will win for itself in the totality o f knowledge. But
 it does seem that the results hitherto reached ju stify a certain
 optim ism in this respect. The very fact that it has been possible
-to define the semantical concepts, at least for form alized lan­
-guages, in a correct and adequate manner seems to be not
+to define the semantical concepts, at least for form alized languages, in a correct and adequate manner seems to be not
 entirely without im portance from the philosophical standpoint.
 The problem o f the definition o f truth, for example, has often
 been emphasized as one o f the fundamental problem s o f the
@@ -23203,15 +22298,12 @@ deductive theories in which only (m aterially) true sentences
 are (form ally) provable: this can be done under the condition
 that the metalanguage in which the p roof o f consistency is
 carried out is equipped with variables o f higher type than all
-the variables which occur in the sentences o f the theory dis­
-cussed. A dm ittedly such a p roof has no great cognitive value
-since it rests on logically stronger premisses than the assump­
-tions o f the theory whose consistency is proved. Nevertheless,
+the variables which occur in the sentences o f the theory discussed. A dm ittedly such a p roof has no great cognitive value
+since it rests on logically stronger premisses than the assumptions o f the theory whose consistency is proved. Nevertheless,
 the result seems to be o f some interest for the reason that it
 cannot be im proved. For it follow s from the investigations o f
 Godel that the p roof o f consistency cannot be carried out if the
-metalanguage contains no variables o f higher type. The defini­
-tion o f truth has yet another consequence which is likewise
+metalanguage contains no variables o f higher type. The definition o f truth has yet another consequence which is likewise
 
 E S T A B L IS H M E N T OF S C IE N T IF IC SEM AN TICS
 
@@ -23222,15 +22314,12 @@ G odel has developed a m ethod which makes it possible, in every
 theory which includes the arithm etic o f natural numbers as a
 part, to construct sentences which can be neither proved nor
 disproved in this theory. B ut he has also pointed out that the
-undecidable sentences constructed b y this m ethod becom e de­
-cidable if the theory under investigation is enriched b y the
-addition o f variables o f higher type. The p roof that the sen­
-tences involved actually in this w ay becom e decidable again
+undecidable sentences constructed b y this m ethod becom e decidable if the theory under investigation is enriched b y the
+addition o f variables o f higher type. The p roof that the sentences involved actually in this w ay becom e decidable again
 rests on the definition o f truth. Similarly-—as I have shown
 b y means o f the m ethods used in developing semantics— for
 any given deductive theory it is possible to indicate concepts
-which cannot be defined in this theory, although in their con­
-tent they belong to the theory, and becom e definable in it if
+which cannot be defined in this theory, although in their content they belong to the theory, and becom e definable in it if
 the theory is enriched b y the introduction o f higher types.
 Summarizing, we can say that the establishm ent o f scientific
 semantics, and in particular the definition o f truth, enables us
@@ -23253,28 +22342,23 @@ C O N S E Q U E N C E f
 
 T he concept o f logical consequence is one o f those whose intro*
 duction in to the field o f strict form al investigation was n ot a
-m atter o f arbitrary decision on the part o f this or that investi­
-gator; in defining this concept, efforts were m ade to adhere to
+m atter o f arbitrary decision on the part o f this or that investigator; in defining this concept, efforts were m ade to adhere to
 the com m on usage o f the language o f everyday life. B u t these
 efforts have been confronted with the difficulties which usually
 present them selves in such oases. W ith respect to the clarity
 o f its content the com m on concept o f oonsequence is in no w ay
 superior to other ooncepts o f everyday language. Its extension
 is not sharply bounded and its usage fluctuates. A n y attem pt
-to bring into harm ony all possible vague, sometim es contra­
-dictory, tendencies whioh are connected with the use o f this
-concept, is certainly doom ed to failure. W e must reconcile our­
-selves from the start to the fa ct that every precise definition o f
+to bring into harm ony all possible vague, sometim es contradictory, tendencies whioh are connected with the use o f this
+concept, is certainly doom ed to failure. W e must reconcile ourselves from the start to the fa ct that every precise definition o f
 this concept will show arbitrary features to a greater or less
 degree.
 
 E ven until recently m any logicians believed that they had
 succeeded, b y means o f a relatively meagre stock o f concepts,
 in grasping alm ost exactly the oontent o f the com m on concept
-o f consequence, or rather in defining a new concept which coin­
-cided in extent with the com m on one. Such a belief could easily
-arise am idst the new achievem ents o f the m ethodology o f de­
-ductive science. Thanks to the progress o f m athem atical logio
+o f consequence, or rather in defining a new concept which coincided in extent with the com m on one. Such a belief could easily
+arise am idst the new achievem ents o f the m ethodology o f deductive science. Thanks to the progress o f m athem atical logio
 
 we have learnt, during the course o f recent decades, how to
 present m athem atical disciplines in the shape o f form alized
@@ -23290,28 +22374,23 @@ Industrielles, vol. 894), Paris, 1936, pp. 1-11.
 410 ON TH E CONCEPT OF LOG ICAL CONSEQUENCE XVI
 
 p roof o f every theorem reduces to single or repeated application
-o f some simple rules o f inference— suoh as the rules o f substitu­
-tion and detachm ent. These rules tell us what transformations
+o f some simple rules o f inference— suoh as the rules o f substitution and detachm ent. These rules tell us what transformations
 o f a purely structural kind (i.e. transformations in which only
-the external structure o f sentences is involved) are to be per­
-form ed upon the axiom s or theorems already proved in the
+the external structure o f sentences is involved) are to be perform ed upon the axiom s or theorems already proved in the
 theory, in order that the sentences obtained as a result o f such
-transform ations m ay themselves be regarded as proved. L ogi­
-cians thought that these few rules o f inference exhausted the
+transform ations m ay themselves be regarded as proved. L ogicians thought that these few rules o f inference exhausted the
 content o f the concept o f consequence. W henever a sentence
 follow s from others, it can be obtained from them— so it was
 thought— in more or less com plicated ways b y means o f the
 transform ations prescribed b y the rules. In order to defend this
-view against sceptics who doubted whether the concept o f conse­
-quence when form alized in this w ay really coincided in extent
+view against sceptics who doubted whether the concept o f consequence when form alized in this w ay really coincided in extent
 with the com m on one, the logicians were able to bring forward
 a w eighty argument: the fact that they had actually succeeded
 in reproducing in the shape o f form alized proofs all the exact
 reasonings which had ever been carried out in mathematics.
 
 Nevertheless we know today that the scepticism was quite
-justified and that the view sketched above cannot be main­
-tained. Some years ago I gave a quite elem entary example o f
+justified and that the view sketched above cannot be maintained. Some years ago I gave a quite elem entary example o f
 a theory which shows the follow ing peculiarity: among its
 theorems there occur such sentences as:
 
@@ -23341,8 +22420,7 @@ for itself. I t shows that the form alized concept o f consequence,
 as it is generally used b y mathematical logicians, b y no means
 coincides with the com m on concept. Y et intuitively it seems
 certain that the universal sentence A follows in the usual sense
-from the totality o f particular sentences A Qi A v ">, A n>.... P ro­
-vided all these sentences are true, the sentence A must also be
+from the totality o f particular sentences A Qi A v ">, A n>.... P rovided all these sentences are true, the sentence A must also be
 true.
 
 In connexion with situations o f the kind just described it has
@@ -23356,16 +22434,13 @@ provided all the sentences A 0, A v ..., A n,... have been proved
 (the sym bols 'A 0' , (A ±\ etc., being used in the same sense as
 previously). B ut this rule, on account o f its infinitistic nature,
 is in essential respects different from the old rules. It can only
-be applied in the construction o f a theory if we have first suc­
-ceeded in proving infinitely m any sentences o f this theory— a
+be applied in the construction o f a theory if we have first succeeded in proving infinitely m any sentences o f this theory— a
 state o f affairs which is never realized in practice. But this
-defect can easily be overcom e b y means o f a certain m odifica­
-tion o f the new rule. For this purpose we consider the sentence
+defect can easily be overcom e b y means o f a certain m odification o f the new rule. For this purpose we consider the sentence
 B which asserts that all the sentences A 0i A lf..., A nt... are
 provable on the basis o f the rules o f inference hitherto used
 (not that they have actually been proved). W e then set up
-the follow ing rule: if the sentence B is proved, then the corre­
-sponding sentence A can be accepted as proved. But here
+the follow ing rule: if the sentence B is proved, then the corresponding sentence A can be accepted as proved. But here
 it m ight still be objected that the sentence B is not at all a
 sentence o f the theory under construction, but belongs to the
 so-called m etatheory (i.e. the theory of the theory discussed)
@@ -23379,14 +22454,12 @@ metatheory in the corresponding theory see article V H I, pp. 167 ff., 184, and
 
 412 ON TH E CONCEPT OF LO G IC A L CONSEQUENCE X V I
 
-consideration to those deductive theories in which the arith­
-m etic o f natural numbers can be developed, and observe that
+consideration to those deductive theories in which the arithm etic o f natural numbers can be developed, and observe that
 in every such theory all the concepts and sentences o f the
 corresponding m etatheory can be interpreted (since a one-one
 correspondence can be established betwreen expressions o f a
 language and natural num bers).1 W e can replace in the rule
-discussed the sentence B b y the sentence B\ which is the arith­
-m etical interpretation o f 2?. In this w ay we reach a rule which
+discussed the sentence B b y the sentence B\ which is the arithm etical interpretation o f 2?. In this w ay we reach a rule which
 does n ot deviate essentially from the rules o f inference, either
 in the conditions o f its applicability or in the nature o f the
 concepts involved in its form ulation or, finally, in its intuitive
@@ -23404,15 +22477,13 @@ whether there are any objective reasons for assigning a special
 position to the rules ordinarily used.
 
 The conjecture now suggests itself that we can finally succeed
-in grasping the full intuitive content o f the concept o f conse­
-quence b y the m ethod sketched above, i.e. b y supplem enting
+in grasping the full intuitive content o f the concept o f consequence b y the m ethod sketched above, i.e. b y supplem enting
 the rules o f inference used in the construction o f deductive
 theories- B y m aking use o f the results o f K . G odel2 we can
 show that this conjecture is untenable. In every deductive
 theory (apart from certain theories o f a particularly elem entary
 nature), however m uch we supplem ent the ordinary rules o f
-inference b y new purely structural rules, it is possible to con­
-struct sentences which follow , in the usual sense, from the
+inference b y new purely structural rules, it is possible to construct sentences which follow , in the usual sense, from the
 theorem s o f this theory, but which nevertheless cannot be
 proved in this theory on the basis o f the accepted rules o f
 1 For the concept of metatheory and the problem of the interpretation of a
@@ -23425,8 +22496,7 @@ XV I ON TH E CONCEPT OF LO G IC AL CONSEQUENCE
 
 inference,1 In order to obtain the proper concept o f consequence,
 which is close in essentials to the com m on concept, we must
-resort to quite different m ethods and apply quite different con­
-ceptual apparatus in defining it. It is perhaps not superfluous
+resort to quite different m ethods and apply quite different conceptual apparatus in defining it. It is perhaps not superfluous
 to point out in advance that— in com parison with the new—-the
 old ooncept o f consequence as com m only used by mathematical
 logicians in no w ay loses its im portance. This ooncept will
@@ -23445,9 +22515,7 @@ o f the rules o f inference exhibited more clear]^ , iu yartioulftr it should be
 exactly explained what is meant by the structural character of those rules.
 
 * An opposition between the two concept i i question is clearly pointed cutin article IX , pp. 2fl3 ff. Nevertheless, in contrast tc m y present standpoint,
-I have there expressed myself in a decidedly negative manner about the possi­
-bility of setting up an exact formal definition lor the proper concept of conse­
-quence. My position at that time is explained by the fact that, when I was
+I have there expressed myself in a decidedly negative manner about the possibility of setting up an exact formal definition lor the proper concept of consequence. My position at that time is explained by the fact that, when I was
 writing the article mentioned, I wishtr.i tc
 any means of construction
 which went beyond the theory of logical types tu any of its classical forms;
@@ -23459,26 +22527,21 @@ be exact, to the so-called languages of Unite order; of. article V III, especial
 pp. 268 if.). In his extremely interesting book, Carnap, K. (10), the term
 {logical) derivatioti or dericabiUty Ls applied to
 old ooncept of consequence
-as commonly used in the construction cf deductive theories, in order to distin­
-guish it from the concept of eof*$eqvmce as the proper concept. The opposition
+as commonly used in the construction cf deductive theories, in order to distinguish it from the concept of eof*$eqvmce as the proper concept. The opposition
 between the two concepts is extended by Carnap to the most diverse derived
 conoepts (*f-concepts'' and *Sk~c<jrxej)ts\ cf. pp. 88 ff., and 124 ff.); he tlso
 emphasizes— to my mind correctly— the importance of the proper concord of
-consequence and the concepts derived from it, for general theoretical discus­
-sions (cf. e.g. p. 128).
+consequence and the concepts derived from it, for general theoretical discussions (cf. e.g. p. 128).
 
 * Cf. Carnap, R. (10), pp. 88 £, and Carnap, R. (11) especially p. 181.
 In the first o f these works there is yet another definition of consequence which
 is adapted to a formalized language of an elementary character. This definition
-is not considered here because it cannot be applied to languages of a more com­
-plicated logical structure. Carnap attempts to define the concept of logical conse­
-quence not only for special languages, but also within the framework of what he
+is not considered here because it cannot be applied to languages of a more complicated logical structure. Carnap attempts to define the concept of logical consequence not only for special languages, but also within the framework of what he
 calls * general syntax \ We shall have more to say about this on p. 416, note 1.
 
 414 ON TH E CONCEPT OF LOG ICAL CONSEQUENCE XVI
 
-attem pt is connected rather closely w ith the particular proper­
-ties o f the form alized language which was chosen as the subject
+attem pt is connected rather closely w ith the particular properties o f the form alized language which was chosen as the subject
 o f investigation. The definition proposed by Carnap can be
 form ulated as follow s:
 
@@ -23506,8 +22569,7 @@ establishment o f scientific semantics, and the concept's defined
 with their aid, allow us to present these ideas in an exact form .2
 Certain considerations o f an intuitive nature will form our
 starting-point. Consider any class K o f sentences and a- sentence
-X which follow s from the sentences o f this class. From an in­
-tuitive standpoint it can never happen that both the class K
+X which follow s from the sentences o f this class. From an intuitive standpoint it can never happen that both the class K
 consists only o f true sentences and the sentence X is false.
 M oreover, since we are concerned here with the concept o f
 logical, i.e. formal, consequence, and thus with a relation which is
@@ -23522,11 +22584,9 @@ truth and satisfaction are discussed in detail in article V II I ; Bee also arti
 XV I ON TH E CONCEPT OF LOGICAL CONSEQUENCE
 
 objects to which the sentence X or the sentences o f the class
-K refer. The consequence relation cannot be affected b y re­
-placing the designations o f the objeots referred to in these
+K refer. The consequence relation cannot be affected b y replacing the designations o f the objeots referred to in these
 sentences b y the designations o f any other objects. The two
-circumstances just indicated, which seem to be very charac­
-teristic and essential for the proper concept o f consequence, m ay
+circumstances just indicated, which seem to be very characteristic and essential for the proper concept o f consequence, m ay
 be join tly expressed in the follow ing statem ent:
 
 (F) If, in the sentences of the class K and in the sentence X , the
@@ -23549,8 +22609,7 @@ for the sentence X to be a consequenoe o f the class K . The
 question now arises whether this condition is also sufficient.
 I f this question were to be answered in the affirmative, the
 problem o f form ulating an adequate definition o f the concept
-o f consequence w ould be solved affirm atively. The only diffi­
-culty would be connected with the term 'true' which occurs in
+o f consequence w ould be solved affirm atively. The only difficulty would be connected with the term 'true' which occurs in
 the condition (F ). B ut this term can be exactly and adequately
 defined in sem antics.1
 
@@ -23565,45 +22624,33 @@ fa ct be satisfied only because the language with which we are
 
 41# ON T H E CONCEPT OF LOG ICAL CONSEQUENCE X V I
 
-dealing does not possess a sufficient stock o f extra-logical con­
-stants. The condition (F ) could be regarded as sufficient for
+dealing does not possess a sufficient stock o f extra-logical constants. The condition (F ) could be regarded as sufficient for
 the sentence X to follow from the class K only if the designations
 o f all possible objects occurred in the language in question. This
 assum ption, how ever, is fictitious and can never be realized.1
-W e m ust therefore look for some means o f expressing the in­
-tentions o f the condition (F ) which will be com pletely inde­
-pendent o f that fictitious assum ption.
+W e m ust therefore look for some means o f expressing the intentions o f the condition (F ) which will be com pletely independent o f that fictitious assum ption.
 
-Such a means is provided by semantics. Among the funda­
-mental concepts o f semantics we have the concept o f the satis­
-faction of a sentential function by single objects or by a sequence
-<5f objects. It would be superfluous to give here a precise ex­
-planation o f the content o f this concept. The intuitive meaning
+Such a means is provided by semantics. Among the fundamental concepts o f semantics we have the concept o f the satisfaction of a sentential function by single objects or by a sequence
+<5f objects. It would be superfluous to give here a precise explanation o f the content o f this concept. The intuitive meaning
 o f such phrases ae: John and Peter satisfy the condition 'X and
 7 are brothers', or the triple of numbers 2, 3, and 5 satisfies the
 equation :£C-f y = z\ can give rise to no doubts. The concept o f
 satisfaction—like other semantical concepts—must always be
-relativized to some particular language. The details o f its pre­
-cise definition depend on the structure o f this language. Never­
-theless, a general method can be developed which enables us to
-construct such definitions for a comprehensive class o f forma­
-lized languages. Unfortunately, for technical reasons, it would
+relativized to some particular language. The details o f its precise definition depend on the structure o f this language. Nevertheless, a general method can be developed which enables us to
+construct such definitions for a comprehensive class o f formalized languages. Unfortunately, for technical reasons, it would
 be impossible to sketch this method here even in its general
 outlines.*
 
 One o f the concepts which can be defined in terms o f the
 concept o f satisfaction is the concept o f model. L et us assume
-that in the language we are considering certain variables corre­
-spond to every extra-logical constant, and in such a w ay that
+that in the language we are considering certain variables correspond to every extra-logical constant, and in such a w ay that
 every sentence becom es a sentential function if the constants
 in it are replaced b y the corresponding variables. L et L be any
 class o f sentences. W e replace all extra-logical constants which
 
 1 These last remarks constitute a criticism of some earlier attempts to
-define the concept of formal consequence. They concern, in particular, Car­
-nap's definitions of logical consequence and a series of derivative concepts
-(L-consequences and L-conoepts, of. Carnap, R . (10), pp. 137 & ). These defini­
-tions, in so far ae they are set up on the basis of 'general syntax', seem to me
+define the concept of formal consequence. They concern, in particular, Carnap's definitions of logical consequence and a series of derivative concepts
+(L-consequences and L-conoepts, of. Carnap, R . (10), pp. 137 & ). These definitions, in so far ae they are set up on the basis of 'general syntax', seem to me
 to be materially inadequate, just because the defined concepts depend essentially, in their extension, on the richness of the language investigated.
 
 * See footnote 2 on p. 414.
@@ -23616,8 +22663,7 @@ unlike. In this w ay we obtain a class & o f sentential functions.
 A n arbitrary sequence o f objects whioh satisfies every sentential
 function o f the class L r w ill be called a model or realization of
 the class L of sentences (in ju st this sense one usually speaks o f
-m odels o f an axiom system o f a deductive theory). If, in parti­
-cular, the class L consists o f a single sentence X , we shall also
+m odels o f an axiom system o f a deductive theory). If, in particular, the class L consists o f a single sentence X , we shall also
 call the m odel o f the class L the model of the sentence X .
 
 In term s o f these concepts we can define the concept o f logical
@@ -23637,8 +22683,7 @@ be true, and also that the consequence relation which holds
 between given sentences is com pletely independent o f the sense
 o f the extra-logical constants which occur in these sentences.
 In brief, it can be shown that the condition (F ) form ulated
-above is necessary if the sentence X is to follow from the sen­
-tences o f the class K . On the other hand, this condition is in
+above is necessary if the sentence X is to follow from the sentences o f the class K . On the other hand, this condition is in
 general not sufficient, since the concept o f consequence here
 defined (in agreement with the standpoint we have taken) isindependent o f the richness in concepts o f the language being
 investigated.
@@ -23668,8 +22713,7 @@ sequences o f objeots which are n ot m odels o f the sentence X
 On the basis o f all these conventions and assum ptions it is easy
 to prove the equivalence o f (he iwo definitions. W e can also show
 — ju st as does Carnap— that those and only those sentences are
-analytical w hich follow from every class o f sentences (in parti­
-cular from the em pty class), and those and on ly those are
+analytical w hich follow from every class o f sentences (in particular from the em pty class), and those and on ly those are
 oontradiotory from whioh every sentence follow s.1
 
 I am not at all o f the opinion that in the result o f the above
@@ -23690,8 +22734,7 @@ grounds are know n to m e whioh perm it us to draw a sharp
 1 Cf. Carnap, B . (10), pp. 135 ff., especially Tbs. 52.7 and 62.8; Carnap, B .
 (11), p. 182, Ths. 10 and 11. Incidentally I should like to remark that the
 definition of the concept of oonsequence hare proposed does not exceed the
-limits of syntax in Carnap's conception (cf. Carnap, R. (10), pp. 6 £f.). Ad­
-mittedly the general concept of satisfaction (or of model) does not belong to
+limits of syntax in Carnap's conception (cf. Carnap, R. (10), pp. 6 £f.). Admittedly the general concept of satisfaction (or of model) does not belong to
 syntax; but we use only a special case of this oonoept— the satisfaction of
 sentential funotions whioh contain no extra-logioal constants, and this special
 case can be characterized using only general logical and specifio syntactical
@@ -23760,14 +22803,11 @@ material consequences those with respect to the class of all true sentences.
 420 ON TH E CONCEPT OF LO G IC AL CONSEQUENCE X V I
 
 which 'says nothing about reality' ), a concept which to me
-personally seems rather vague, but which has been o f funda­
-m ental im portance for the philosophical discussions o f L. W itt­
-genstein and the whole Vienna Circle.1
+personally seems rather vague, but which has been o f fundam ental im portance for the philosophical discussions o f L. W ittgenstein and the whole Vienna Circle.1
 
 Further research will doubtless greatly clarify the problem
 which interests us. Perhaps it w ill be possible to find im portant
-objective arguments which w ill enable us to ju stify the tradi­
-tional boundary between logical and extra-logical expressions.
+objective arguments which w ill enable us to ju stify the traditional boundary between logical and extra-logical expressions.
 B ut I also consider it to be quite possible that investigations
 will bring no positive results in this direction, so that we shall
 be com pelled to regard such concepts as 'logical consequence' ,
@@ -23790,8 +22830,7 @@ m athem atical theories). I am concerned in the first place with
 a topological interpretation o f tw o systems o f the sentential
 calculus, nam ely the ordinary (tw o-valued) and the intuitionistic
 (B rouw er-H eyting) system . W ith every sentence
-o f the sen­
-tential calculus we correlate, in one-one fashion, a sentence 21*
+o f the sentential calculus we correlate, in one-one fashion, a sentence 21*
 o f topology in such a w ay that 21 is provable in the tw o-valued
 calculus if and only if 2lx holds in every topological space. An
 analogous correlation is set up for the intuitionistic calculus.
@@ -23834,15 +22873,12 @@ S E N T E N T IA L CALCULUS AN D TOPOLOG Y XVII, § 1
 Calcu lu s
 
 As is well known, the m ost elem entary part o f m athem atical
-logic is the sentential calculus. In the expressions o f the sen­
-tential calculus variables o f only one kind occur, nam ely senten­
-tial variables, which represent whole sentences. As sentential
+logic is the sentential calculus. In the expressions o f the sentential calculus variables o f only one kind occur, nam ely sentential variables, which represent whole sentences. As sentential
 variables the letters 'X T ' ,
 will be used. In addition to
 the variables, four constants occur in the sentential calculus:
 the implication sign
-the conjunc­
-tion sign ' a ' , and the negation sign ' -v. ' (a fifth constant, the
+the conjunction sign ' a ' , and the negation sign ' -v. ' (a fifth constant, the
 equivalence sign 'o
 
 ' , will not be in volved here).
@@ -23870,11 +22906,9 @@ The only expressions o f the sentential calculus with which we
 
 shall deal will be sentences:
 
-D efin ition 1.1. An expression 21 is called a sentential func­
-tion, or (for shyrt) a sentence, if 3t belongs to every system which
+D efin ition 1.1. An expression 21 is called a sentential function, or (for shyrt) a sentence, if 3t belongs to every system which
 (i) contains all sentential variables among its elements, (ii) is closed
-under the operations of forming implications, disjunctions, con­
-junctions, and negations; in other words, the system of all
+under the operations of forming implications, disjunctions, conjunctions, and negations; in other words, the system of all
 sentences is the smallest system which has the properties (i)
 and (ii).
 
@@ -23891,12 +22925,10 @@ XVII, § 1
 
 S E N T E N T IA L CALCULUS A N D TO P O LO G Y
 
-In the system o f all sentences two subsystems are distin­
-guished: the provable sentences o f the two-valued calculus and
+In the system o f all sentences two subsystems are distinguished: the provable sentences o f the two-valued calculus and
 those o f the intuitionistic calculus.
 
-D efin itio n 1.2. The sentence 21 is called an axiom o f the tw o­
-valued calculus, or o f the intuitionistic calculus, if there are
+D efin itio n 1.2. The sentence 21 is called an axiom o f the tw ovalued calculus, or o f the intuitionistic calculus, if there are
 sentences S , G, and £> such that 21 satisfies one of the following
 formulas (i)-(x ) in the first case, or one of the formulas (i)-(ix ) and
 (xi) in the second case:
@@ -23922,8 +22954,7 @@ o f the sentence 3 from the sentence 21.
 D efin itio n 1.4. The system
 
 of provable sentences o f the
-two-valued calculus is the smallest system of sentences which con­
-tains all the axioms o f the two-valued calculus and is closed under
+two-valued calculus is the smallest system of sentences which contains all the axioms o f the two-valued calculus and is closed under
 the operation of detachment. The system
 of provable sentences
 o f the intuitionistic calculus is the smallest system which contains
@@ -23947,8 +22978,7 @@ S E N T E N T IA L CALCULUS AN D TO P O LO G Y XVH , § 1
 
 T heorem 1.5. 3ft £
 
-(but not conversely: if, e.£., 35 is a sen­
-tential variable, tfAen 93 V -v- 93 ami -v 23 V ^ -v 93 belong to 3#
+(but not conversely: if, e.£., 35 is a sentential variable, tfAen 93 V -v- 93 ami -v 23 V ^ -v 93 belong to 3#
 but not to 3ft).
 
 T heorem 1.6. For every sentence 91 the following conditions are
@@ -23997,8 +23027,7 @@ every sentence 91 of the form 1.2 (xi) belongs to
 Heyting, A. (28), p. 56. Th. 1.6 was stated in Glivenko, T. (19).
 
 2 In this connexion see V III, p. 173, IX , p. 282.
-3 Cf. IV, p. 41. The concept of matrix i3 there rather more widely con­
-ceived than here, since matrices with more than one designated element are also
+3 Cf. IV, p. 41. The concept of matrix i3 there rather more widely conceived than here, since matrices with more than one designated element are also
 considered (cf. 2.1, 2.2).
 
 XVH , § 2
@@ -24021,8 +23050,7 @@ on
 
 Corollary 2.4, Every matrix M is isomorphic with itself; if
 M2 is isomorphic with M2, then M2 is isomorphic icith M-^* if MA is
-is iso­
-isomorphic with M2 and M2 is isomorphic with M3, then
+is isoisomorphic with M2 and M2 is isomorphic with M3, then
 [By 2.3]
 morphic with M3.
 
@@ -24101,8 +23129,7 @@ The follow ing result is well known:
 T h e o r e m 2.11. ZK is a matrix and ®(ZK) = 3 ft .1
 
 F or the system 3 ft there is, in contrast to 3 ft. no adequate
-m atrix with a finite value system .2 W e can, however, con­
-struct an infinite sequence o f m atrioes IK*,..., iK ",... with finite
+m atrix with a finite value system .2 W e can, however, construct an infinite sequence o f m atrioes IK*,..., iK ",... with finite
 
 value system s such that JX ®(IKn) = 3 ft. W e shall now describe the construction o f this sequenoe.8
 
@@ -24144,16 +23171,14 @@ system 3& is complete. The first completeness proof for
 (60), pp. 180
 
 3 Cf. Gddel, K , (23), p. 40.
-4 This result is due to Jaskowski, S, (36). (Our account deviates only in in­
-essentials from that of Jankowski. The operation T of Ja&kcwski is replaced
+4 This result is due to Jaskowski, S, (36). (Our account deviates only in inessentials from that of Jankowski. The operation T of Ja&kcwski is replaced
 by the operation * defined in 2.12, which serves the same purpose.)
 
 X V n, f 2 SENTENTIAL CALCULUS AND TOPOLOGY
 
 Note 2.13. The operation on matrices just defined is not
 unambiguous beoause its result depends on the choice o f the
-element A. This fact does not affect the subsequent considera­
-tions because all matrices whioh can be obtained from the given
+element A. This fact does not affect the subsequent considerations because all matrices whioh can be obtained from the given
 matrix M by means o f the operation * are isomorphic with one
 another. The ambiguity o f 'M*' is, moreover, avoidable by
 constructing a set-theoretical function F which correlates an
@@ -24230,8 +23255,7 @@ sentence) such that the formulas 2Ie©(IKrJ and 21 e
 are
 equivalent.1
 
-The decision criterion mentioned at the beginning of this sec­
-tion is provided by 2.11 for the system 3 & and by 2.IB in its
+The decision criterion mentioned at the beginning of this section is provided by 2.11 for the system 3 & and by 2.IB in its
 improved form just mentioned for the system
 
 § 3. T opological Spaces3
@@ -24250,8 +23274,7 @@ Note 3.2. Let S he a topological space and A a non-empty
 subset ot S. We now define an operation ~~'A) relative to A by
 the formuia X U} A . X for every X c A . On the basis of
 3.1 it can then easily be shown that A is a topological spa.ee with
-the fundamental operation ~(A'}: such a space is called a sub­
-space of S.
+the fundamental operation ~(A'}: such a space is called a subspace of S.
 
 D efin itio n 3.3. I f 8 is a topological space, , a set X is said to
 
@@ -24404,8 +23427,7 @@ choose for every natural h a poin t ek e A w ith
 I**—«*l < l/*»
 
 and we put B —
-e*,...}; it can be shown w ithout diffi­
-culty that B satisfies form ulas (9) and (10) (the fa ct that & is
+e*,...}; it can be shown w ithout difficulty that B satisfies form ulas (9) and (10) (the fa ct that & is
 dense-in-itself plays an essential part in this).
 
 The case n — l has thus been dealt with. W e turn now to
@@ -24471,8 +23493,7 @@ we could infer from that by (16) and (17) that Ck is identical
 w ith one o f the Gh whence, in consequence o f (1) and (13),
 
 C* = G, £ B - G
-The set G, must thus be em pty, in contradiction to (18). Con­
-sequently C ~ 0, i.e. B £ (vr r ~ ..-f&r'r •
+The set G, must thus be em pty, in contradiction to (18). Consequently C ~ 0, i.e. B £ (vr r ~ ..-f&r'r •
 ( 10) we have i f £
 hand, from : lh ; aad (9) we get
 
@@ -24622,8 +23643,7 @@ tion is refuted and (8) holds.
 
 S E N T E N T IA L CALCULUS A N D TO P O LO G Y XVII, § 3
 
-W e have thus constructed (for every natural n and every non­
-em pty open set A ) sets Bv ..., Bn w hich satisfy the conditions
+W e have thus constructed (for every natural n and every nonem pty open set A ) sets Bv ..., Bn w hich satisfy the conditions
 (5 )-(8 ). H ence, b y 3.9, $ is an J?-space, w hich was to be proved.
 
 Note 3.11. It is clear from 3.10 that the E uclidean spaces (of
@@ -24663,8 +23683,7 @@ disjoint from X .
 I f in addition X , Y e <9(8)thenwe alsohaveX V i e 0(S)and
 
 X a Y e 0(8), and in fact I v 7 is the smallest open set which
-includes X and Y, and X A Y is the largest open set which is in­
-cluded in X and Y.
+includes X and Y, and X A Y is the largest open set which is included in X and Y.
 [B y 3.1, 3.3, 4.1]
 
 Co r o llar y 4.3. I f 8 is a topological space, X £ 8 and Y £ 8,
@@ -24797,9 +23816,7 @@ T heorem t ,11. F o r e v e r y t o p o l o g i c a l s p a c e S w e h a v e
 
 [B y 1.4, 4.9, 4.10]
 
-T heorem 4.12. For every topological space S and every sen­
-tence 91 the conditions 91 e 3$t cwd ^ ^91 e ® (0 (£ )) are equiva­
-lent.
+T heorem 4.12. For every topological space S and every sentence 91 the conditions 91 e 3$t cwd ^ ^91 e ® (0 (£ )) are equivalent.
 [B y 1.6, 4.8, 4.11]
 
 In view o f Ths. 4.8 and 4.11, the double
@@ -25514,8 +24531,7 @@ T heobbm 4.24. I f 8 is an E-space, then G (Q (S )) = 3 ft.
 
 Proof. B y 4.23 there is for every natural n a subm atrix Nn
 w hich is isom orphic w ith IKn. N ow , if 31 e © (0 (# )), then b y 2.9
-and 2.7 we have 31 e ® (N ") = ®(IKn) for n = 1, 2,... and con­
-sequently, b y 2.18,31 e 3 ft. A ccordingly, © (0 ($ )) £ 3 ft; hence
+and 2.7 we have 31 e ® (N ") = ®(IKn) for n = 1, 2,... and consequently, b y 2.18,31 e 3 ft. A ccordingly, © (0 ($ )) £ 3 ft; hence
 b y 4.9 we at on ce obtain © (O (8)) = 3 ft, q.e.d.
 
 S E N T E N T IA L CALCULUS AN D T O P O L O G Y X V II, § 4
@@ -25585,8 +24601,7 @@ S E N T E N T IA L CALCULU S AND TO P O LO G Y
 
 space 8. W e give to the constants
 etc., the meaning
-explained in 4.1. W ith this interpretation 21 is no longer a sen­
-tential funotion, bu t a designatory function, which (exactly like
+explained in 4.1. W ith this interpretation 21 is no longer a sentential funotion, bu t a designatory function, which (exactly like
 'X ' , T ' ,..,) denotes a set o f the space 8. In view o f this we can
 construct the follow ing sentences ^ and 21,:
 
@@ -25605,13 +24620,11 @@ construct the follow ing sentences ^ and 21,:
 functions, because free variables, e.g. ' 8 ' , occur in them .]
 
 W e now consider tw o expressions: 'Six holds (or is valid or is
-satisfied) in the space S ' and ' 21, holds in the space 8 ,' The in­
-tuitive m eaning o f these expressions seems to be com pletely
+satisfied) in the space S ' and ' 21, holds in the space 8 ,' The intuitive m eaning o f these expressions seems to be com pletely
 dear. Nevertheless, certain difficulties are encountered when
 one tries to explain their m eaning in a strictly form al w ay.1 In
 connexion w ith 2.5 the easiest w ay is to interpret the second
-expression as being synonym ous w ith the expression: '21 is satis­
-fied by the matrix 0 (8 )\ In order to construct a definition for
+expression as being synonym ous w ith the expression: '21 is satisfied by the matrix 0 (8 )\ In order to construct a definition for
 the first expression, we note that the sentence 2lx, b y virtue o f
 4.4, adm its o f the follow ing equivalent transform ation:
 
@@ -25641,8 +24654,7 @@ VH 1 of the present work, in particular pp. 189 and 199.
 
 S E N T E N T IA L CALCULU S A N D TO P O LO G Y X V H , § 4
 
-Second P r in c ip a l T h e o b e m . Let S&bea sentence of the senten­
-tial calculus and S any E-spate. The following conditions are
+Second P r in c ip a l T h e o b e m . Let S&bea sentence of the sentential calculus and S any E-spate. The following conditions are
 then equivalent:
 
 (i) 91 is provable in the intuitionistic calculus \
@@ -25660,8 +24672,7 @@ remembering that, in particular, all Euclidean spaces are 22-
 spaces (of. 3.11).
 
 With the theorems just stated, the decision criteria whioh
-were mentioned in § 2 (cf. 2.19) can now be applied to topo­
-logical sentences of the form 9IX or 9l2 (and even to somewhat
+were mentioned in § 2 (cf. 2.19) can now be applied to topological sentences of the form 9IX or 9l2 (and even to somewhat
 more extensive classes o f topological sentences). We are in a
 position to decide, in each particular case, whether a sentence
 of this form is generally valid in topology.
@@ -25709,8 +24720,7 @@ the follow ing sentence:
 
 <j>'(X,Y,Z,...) = S',
 
-where 'tf>'{X,Y,Z,...y is obtained from '<f>(X,Y,Z,...)' b y re­
-placing the sign ' v ' b y the sign ' V
+where 'tf>'{X,Y,Z,...y is obtained from '<f>(X,Y,Z,...)' b y replacing the sign ' v ' b y the sign ' V
 I t then appears that
 the first principal theorem remains valid if "Hy in it is replaced
 b y % ' •
@@ -25741,8 +24751,7 @@ following formulas hold for all elements x, y, z e R:
 
 (vii) x .x = x.
 
-1 This follows from the fact that the family 0'{B) together with the opera­
-tions V \ A , and *v- satisfy the postulates of Boolean algebra. This fact was
+1 This follows from the fact that the family 0'{B) together with the operations V \ A , and *v- satisfy the postulates of Boolean algebra. This fact was
 noticed by me as far back as 1927, and was implicitly stated in Th. B of II,
 where, however, a different terminology was used; cf. X I, p. 341, footnote 2.
 Compare also Tarski, A . (81), Th. 7.23, p. 178, and footnote 25, p. 181, where
@@ -25944,9 +24953,7 @@ T h e o r e m 5.15. I f B is an atomless Boolean ring, then
 
 Note 5.16. N ote 4.25 can mutatis mutandis be applied to
 Th. 5.15. The converse o f this theorem does not hold. The
-form ula ®(l(B)) = 3 ft, applies for exam ple, to every denumer­
-able B oolean ring B which, although not atomless itself, in­
-cludes an atom less subring (i.e. an atomless ring B1 £ B with
+form ula ®(l(B)) = 3 ft, applies for exam ple, to every denumerable B oolean ring B which, although not atomless itself, includes an atom less subring (i.e. an atomless ring B1 £ B with
 
 X V II, | 5
 
@@ -25982,8 +24989,7 @@ that 31 is respectively provable in the tw o-valued or in the intuitionistic cal
 ring. From this we obtain a decision criterion for sentences o f
 the form 3t2 or 3l2.
 
-The remarks at the end o f § 4 regarding other possible inter­
-pretations o f the sentential calculus can also be extended to
+The remarks at the end o f § 4 regarding other possible interpretations o f the sentential calculus can also be extended to
 B oolean algebra. The regular open sets in that case are to be
 replaced b y the ideals I which satisfy the form ula
 
@@ -26007,8 +25013,7 @@ which consists o f all finite subsets o f a given (finite or infinite)
 set is an exam ple o f an atom istic ring. In order to obtain a
 denumerable atomless ring, we consider the set X o f positive
 rational numbers x < 1 and form the field o f sets which consists
-o f all sums o f finitely m any intervals £ X (the right-hand end­
-point being included in the interval, but not the left-hand one).
+o f all sums o f finitely m any intervals £ X (the right-hand endpoint being included in the interval, but not the left-hand one).
 As examples o f com pletely additive rings (in the sense o f 5.16) the
 fields o f sets which consist o f all subsets o f a given set m ay serve.
 Another im portant realization o f Boolean algebra is general
@@ -26049,15 +25054,13 @@ for all x, y e L. It then results that M (L) = [L, 1,
 is a m atrix, and that Ths. 5.12 and 5.13 remain valid if *M(L)'
 is substituted for M(J2) ' in them . Ths. 5.14 and 5.15 can also be
 carried over to the theory o f lattices. In this way we obtain an
-interpretation o f the tw o-valued and o f the intuitionistic cal­
-culus in the theory o f lattices.
+interpretation o f the tw o-valued and o f the intuitionistic calculus in the theory o f lattices.
 
 v , A ,
 
 1 See X II.
 2 More generally, we could consider here arbitrary distributive lattices
-(without infinite addition) in which for any elements x, y s L there is an ele­
-ment z e L such that (i) x.z-\-y = y t and (ii) u + z = z whenever u e L and
+(without infinite addition) in which for any elements x, y s L there is an element z e L such that (i) x.z-\-y = y t and (ii) u + z = z whenever u e L and
 x .u + y = y. Such lattices are intimately related to the so-called Brouwerian
 algebras (or Brouwerian logics). Cf. Birkhoff, G. (7a) and McKinsey, J. C. C.
 and Tarski, A . (53a).
@@ -26142,8 +25145,7 @@ methodology of the deductive sciences) (Lw6w, 1921).
 logic) (Warszawa, 1928).
 
 (4) K. Ajdttkcewioz, Logiczne podstawy nanczania (The logical
-foundations of teaching), Encyclopidja Wychowania, ii (War­
-szawa, 1934), 1-75.
+foundations of teaching), Encyclopidja Wychowania, ii (Warszawa, 1934), 1-75.
 
 (5) P. Bern ay s, ' Axiomatische Untersuchung des Aussagenkalkuls
 der Prinoipia mathematical, Math. Z., xxv (1926), 305-20.
@@ -26385,8 +25387,7 @@ Polska,, x (1929), 604-20.
 
 Przeglqd FUozoflczny, xxxix (1936), 115-31.
 
-(52a) J. L u k a siew ic z, ' The shortest axiom of the impiicational cal­
-culus of propositions', Proc. Boy. Irish Acad., Section A,
+(52a) J. L u k a siew ic z, ' The shortest axiom of the impiicational calculus of propositions', Proc. Boy. Irish Acad., Section A,
 lii (1948), 25-33.
 
 (53) S. Mazubktew icz, (tJber die Grundlagen der Wahrscheinlichkeitsrechnung,, Mh. Math. Pkys.. xl (1934), 343-52.
@@ -26506,8 +25507,7 @@ upon the theory of deduction) Przeglqd FUozofi^zny, xxxv
 (1932), 171-93.
 
 (60d) B. Soboct&sxi, * Aksj omatyzacj a pewnych wielowarfcoScicwych
-system6w teorji dedukcji' (Axiomatization of certain many­
-valued systems of the theory of deduction, in Polish), Roczniki
+system6w teorji dedukcji' (Axiomatization of certain manyvalued systems of the theory of deduction, in Polish), Roczniki
 Prac Naukowych Zrzeszenia Asystentcw Uniwersytetu Jozefa
 PUsudskiego w Warszawie, i (1936), 399-419.
 
@@ -26569,8 +25569,7 @@ xv (1937), 186-9.
 Mengenfunktionen*, C . R . Soc. Sci. Lett. Varsovie, Classe I I I ,
 xxx (1937), 151-81.
 
-(82) A . Tarski, ' The semantic conception of truth and the founda­
-tions of semantics', Philosophy and Phenomenological Research,
+(82) A . Tarski, ' The semantic conception of truth and the foundations of semantics', Philosophy and Phenomenological Research,
 iv (1944), 341-76.
 
 (83) A. Tarski, ' A problem concerning the notion of definability',
@@ -26601,8 +25600,7 @@ Am er. math. Soc., vii (1906), 197-9.
 (87a) M. W ajsberg,
 
 ' Aksj omatyzac j a tr6warto6ciowego raohunku
-zdan' (Axiomatization of the three-valued propositional cal­
-culus)', C. R . Soc. Sci. Lett. Varsovie, Classe I I I , xxiv (1931).
+zdan' (Axiomatization of the three-valued propositional calculus)', C. R . Soc. Sci. Lett. Varsovie, Classe I I I , xxiv (1931).
 (876) M. W ajsberg, ' Beitrage zum Metaaussagenkalkul I ', M h . Math.
 
 P h ys., xlii (1935), 221-42.

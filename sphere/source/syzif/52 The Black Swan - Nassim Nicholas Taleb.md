@@ -18,8 +18,7 @@ Canada $34.95
 
 A B L A CK S W AN
 is a highly improbable event
-with three principal characteristics: It is unpre­
-dictable; it carries a massive impact; and, after the
+with three principal characteristics: It is unpredictable; it carries a massive impact; and, after the
 fact, we concoct an explanation that makes it
 appear less random, and more predictable, than it
 was. The astonishing success of Google was a
@@ -35,23 +34,18 @@ hardwired to learn specifics when they should
 be focused on generalities. We concentrate on
 things we already know and time and time again
 fail to take into consideration what we don't know.
-We are, therefore, unable to truly estimate oppor­
-tunities, too vulnerable to the impulse to simplify,
+We are, therefore, unable to truly estimate opportunities, too vulnerable to the impulse to simplify,
 narrate, and categorize, and not open enough to
 rewarding those who can imagine the "impossible."
 
-For years, Taleb has studied how we fool our­
-selves into thinking we know more than we actually
+For years, Taleb has studied how we fool ourselves into thinking we know more than we actually
 do. We restrict our thinking to the irrelevant and
 inconsequential, while large events continue to
-surprise us and shape our world. Now, in this reve­
-latory book, Taleb explains everything we know
+surprise us and shape our world. Now, in this revelatory book, Taleb explains everything we know
 about what we don't know. He offers surprisingly
-simple tricks for dealing with black swans and ben­
-efiting from them.
+simple tricks for dealing with black swans and benefiting from them.
 
-Elegant, startling, and universal in its applica­
-tions, The Black Swan will change the way you
+Elegant, startling, and universal in its applications, The Black Swan will change the way you
 look at the world. Taleb is a vastly entertaining
 writer, with wit, irreverence, and unusual stories to
 tell. He has a polymathic command of subjects
@@ -64,12 +58,10 @@ immersing himself in problems of luck, uncertainty,
 probability, and knowledge. Part literary essayist,
 part empiricist, part no-nonsense mathematical
 trader, he is currently taking a break by serving as
-the Dean's Professor in the Sciences of Uncer­
-the University of Massachusetts at
+the Dean's Professor in the Sciences of Uncerthe University of Massachusetts at
 tainty at
 Amherst. His last book, the bestseller Fooled by
-Randomness, has been published in twenty lan­
-guages. Taleb lives mostly in New York.
+Randomness, has been published in twenty languages. Taleb lives mostly in New York.
 
 Jacket design: Thomas Beck Stvan
 Jacket art: £ Photodisk/Getty Images
@@ -91,8 +83,7 @@ editor in chief of Wired, author of The Long Tail
 — M I C H A EL S C H R A G E, author of Serious Play
 Gould."
 
-"A beautifully reflective and opinionated book, illustrated with Calvinolike fables, about the inevitable failure of attempts to reduce the complex­
-ity of the real world to simple black-and-white formulas."
+"A beautifully reflective and opinionated book, illustrated with Calvinolike fables, about the inevitable failure of attempts to reduce the complexity of the real world to simple black-and-white formulas."
 
 — E M A N U EL D E R M A N,
 author of My Life as a Quant
@@ -103,8 +94,7 @@ and epistemology."
 
 —El) W AR I) 0. T H O R P, author of Beat the Dealer
 
-"Nassim Taleb challenges us, his readers, to be as fearless as he is in punc­
-turing phony expertise. . . . Read this book."
+"Nassim Taleb challenges us, his readers, to be as fearless as he is in puncturing phony expertise. . . . Read this book."
 
 author of Expert Political
 
@@ -602,23 +592,19 @@ ON THE PLUMAGE OF BIRDS
 Before the discovery of Australia, people in the Old World were convinced
 that all swans were white, an unassailable belief as it seemed completely
 confirmed by empirical evidence. The sighting of the first black swan
-might have been an interesting surprise for a few ornithologists (and oth­
-ers extremely concerned with the coloring of birds), but that is not where
+might have been an interesting surprise for a few ornithologists (and others extremely concerned with the coloring of birds), but that is not where
 the significance of the story lies. It illustrates a severe limitation to our
-learning from observations or experience and the fragility of our knowl­
-edge. One single observation can invalidate a general statement derived
+learning from observations or experience and the fragility of our knowledge. One single observation can invalidate a general statement derived
 from millennia of confirmatory sightings of millions of white swans. All
 you need is one single (and, I am told, quite ugly) black bird.*
 
-I push one step beyond this philosophical-logical question into an em­
-pirical reality, and one that has obsessed me since childhood. What we call
+I push one step beyond this philosophical-logical question into an empirical reality, and one that has obsessed me since childhood. What we call
 here a Black Swan (and capitalize it) is an event with the following three
 attributes.
 
 First, it is an outlier, as it lies outside the realm of regular expectations,
 
-because nothing in the past can convincingly point to its possibility. Sec­
-ond, it carries an extreme impact. Third, in spite of its outlier status,
+because nothing in the past can convincingly point to its possibility. Second, it carries an extreme impact. Third, in spite of its outlier status,
 
 * The spread of camera cell phones has afforded me a large collection of pictures of
 black swans sent by traveling readers. Last Christmas I also got a case of Black
@@ -636,8 +622,7 @@ tive (though not prospective) predictability.* A small number of Black
 Swans explain almost everything in our world, from the success of ideas
 and religions, to the dynamics of historical events, to elements of our
 own personal lives. Ever since we left the Pleistocene, some ten millennia
-ago, the effect of these Black Swans has been increasing. It started acceler­
-ating during the industrial revolution, as the world started getting more
+ago, the effect of these Black Swans has been increasing. It started accelerating during the industrial revolution, as the world started getting more
 complicated, while ordinary events, the ones we study and discuss and
 try to predict from reading the newspapers, have become increasingly
 inconsequential.
@@ -648,17 +633,13 @@ the events of 1 9 14 would have helped you guess what was to happen next.
 dull high school teacher.) How about the rise of Hitler and the subsequent
 war? How about the precipitous demise of the Soviet bloc? How about the
 rise of Islamic fundamentalism? How about the spread of the Internet?
-How about the market crash of 1 9 87 (and the more unexpected recov­
-ery)? Fads, epidemics, fashion, ideas, the emergence of art genres and
-schools. All follow these Black Swan dynamics. Literally, just about every­
-thing of significance around you might qualify.
+How about the market crash of 1 9 87 (and the more unexpected recovery)? Fads, epidemics, fashion, ideas, the emergence of art genres and
+schools. All follow these Black Swan dynamics. Literally, just about everything of significance around you might qualify.
 
 This combination of low predictability and large impact makes the
 Black Swan a great puzzle; but that is not yet the core concern of this
 book. Add to this phenomenon the fact that we tend to act as if it does not
-exist! I don't mean just you, your cousin Joey, and me, but almost all "so­
-cial scientists" who, for over a century, have operated under the false be­
-lief that their tools could measure uncertainty. For the applications of the
+exist! I don't mean just you, your cousin Joey, and me, but almost all "social scientists" who, for over a century, have operated under the false belief that their tools could measure uncertainty. For the applications of the
 sciences of uncertainty to real-world problems has had ridiculous effects;
 I have been privileged to see it in finance and economics. Go ask your
 portfolio manager for his definition of "risk," and odds are that he will
@@ -679,20 +660,16 @@ The central idea of this book concerns our blindness with respect to
 randomness, particularly the large deviations: Why do we, scientists or
 nonscientists, hotshots or regular Joes, tend to see the pennies instead of
 the dollars? Why do we keep focusing on the minutiae, not the possible
-significant large events, in spite of the obvious evidence of their huge influ­
-ence? And, if you follow my argument, why does reading the newspaper
+significant large events, in spite of the obvious evidence of their huge influence? And, if you follow my argument, why does reading the newspaper
 actually decrease your knowledge of the world?
 
-It is easy to see that life is the cumulative effect of a handful of signifi­
-cant shocks. It is not so hard to identify the role of Black Swans, from
+It is easy to see that life is the cumulative effect of a handful of significant shocks. It is not so hard to identify the role of Black Swans, from
 your armchair (or bar stool). Go through the following exercise. Look
 into your own existence. Count the significant events, the technological
 changes, and the inventions that have taken place in our environment
 since you were born and compare them to what was expected before their
-advent. How many of them came on a schedule? Look into your own per­
-sonal life, to your choice of profession, say, or meeting your mate, your
-exile from your country of origin, the betrayals you faced, your sudden en­
-richment or impoverishment. How often did these things occur according
+advent. How many of them came on a schedule? Look into your own personal life, to your choice of profession, say, or meeting your mate, your
+exile from your country of origin, the betrayals you faced, your sudden enrichment or impoverishment. How often did these things occur according
 to plan?
 
 What You Do Not Know
@@ -742,8 +719,7 @@ someone next door would have already come up with the idea and it
 xx P R O L O G UE
 
 would have become generic. The next killing in the restaurant industry
-needs to be an idea that is not easily conceived of by the current popula­
-tion of restaurateurs. It has to be at some distance from expectations. The
+needs to be an idea that is not easily conceived of by the current population of restaurateurs. It has to be at some distance from expectations. The
 more unexpected the success of such a venture, the smaller the number of
 competitors, and the more successful the entrepreneur who implements
 the idea. The same applies to the shoe and the book businesses—or any
@@ -773,8 +749,7 @@ the course
 
 But we act as though we are able to predict historical events, or, even
 worse, as if we are able to change the course of history. We produce thirtyyear projections of social security deficits and oil prices without realizing
-that we cannot even predict these for next summer—our cumulative pre­
-diction errors for political and economic events are so monstrous that
+that we cannot even predict these for next summer—our cumulative prediction errors for political and economic events are so monstrous that
 every time I look at the empirical record I have to pinch myself to verify
 that I am not dreaming. What is surprising is not the magnitude of our
 forecast errors, but our absence of awareness of it. This is all the more
@@ -837,16 +812,13 @@ we do know: we tend to learn the precise, not the general.
 
 What did people learn from the 9/11 episode? Did they learn that some
 
-events, owing to their dynamics, stand largely outside the realm of the pre­
-dictable? No. Did they learn the built-in defect of conventional wisdom?
-No. What did they figure out? They learned precise rules for avoiding Is­
-lamic prototerrorists and tall buildings. Many keep reminding me that it
+events, owing to their dynamics, stand largely outside the realm of the predictable? No. Did they learn the built-in defect of conventional wisdom?
+No. What did they figure out? They learned precise rules for avoiding Islamic prototerrorists and tall buildings. Many keep reminding me that it
 is important for us to be practical and take tangible steps rather than to
 "theorize" about knowledge. The story of the Maginot Line shows how
 we are conditioned to be specific. The French, after the Great War, built a
 wall along the previous German invasion route to prevent reinvasion—
-Hitler just (almost) effortlessly went around it. The French had been ex­
-cellent students of history; they just learned with too much precision. They
+Hitler just (almost) effortlessly went around it. The French had been excellent students of history; they just learned with too much precision. They
 were too practical and exceedingly focused for their own safety.
 
 We do not spontaneously learn that we don't
@@ -854,8 +826,7 @@ We do not spontaneously learn that we don't
 learn.
 The problem lies in the structure of our minds: we don't learn rules, just
 facts, and only facts. Metarules (such as the rule that we have a tendency
-to not learn rules) we don't seem to be good at getting. We scorn the ab­
-stract; we scorn it with passion.
+to not learn rules) we don't seem to be good at getting. We scorn the abstract; we scorn it with passion.
 
 learn that we don't
 
@@ -955,14 +926,12 @@ Who gets rewarded, the central banker who avoids a recession or the
 xxiv P R O L O G UE
 
 one who comes to "correct" his predecessors' faults and happens to be
-there during some economic recovery? Who is more valuable, the politi­
-cian who avoids a war or the one who starts a new one (and is lucky
+there during some economic recovery? Who is more valuable, the politician who avoids a war or the one who starts a new one (and is lucky
 enough to win)?
 
 It is the same logic reversal we saw earlier with the value of what we
 
-don't know; everybody knows that you need more prevention than treat­
-ment, but few reward acts of prevention. We glorify those who left their
+don't know; everybody knows that you need more prevention than treatment, but few reward acts of prevention. We glorify those who left their
 names in history books at the expense of those contributors about whom
 our books are silent. We humans are not just a superficial race (this may
 be curable to some extent); we are a very unfair one.
@@ -970,28 +939,23 @@ be curable to some extent); we are a very unfair one.
 LIFE IS VERY UNUSUAL
 
 This is a book about uncertainty; to this author, the rare event equals
-uncertainty. This may seem like a strong statement—that we need to prin­
-cipally study the rare and extreme events in order to figure out com­
-mon ones—but I will make myself clear as follows. There are two possible
+uncertainty. This may seem like a strong statement—that we need to principally study the rare and extreme events in order to figure out common ones—but I will make myself clear as follows. There are two possible
 ways to approach phenomena. The first is to rule out the extraordinary
 and focus on the "normal." The examiner leaves aside "outliers" and
 studies ordinary cases. The second approach is to consider that in order
 to understand a phenomenon, one needs first to consider the extremes—
-particularly if, like the Black Swan, they carry an extraordinary cumula­
-tive effect.
+particularly if, like the Black Swan, they carry an extraordinary cumulative effect.
 
 I don't particularly care about the usual. If you want to get an idea of
 a friend's temperament, ethics, and personal elegance, you need to look at
 him under the tests of severe circumstances, not under the regular rosy
-glow of daily life. Can you assess the danger a criminal poses by examin­
-ing only what he does on an ordinary day? Can we understand health
+glow of daily life. Can you assess the danger a criminal poses by examining only what he does on an ordinary day? Can we understand health
 without considering wild diseases and epidemics? Indeed the normal is
 often irrelevant.
 
 Almost everything in social life is produced by rare but consequential
 shocks and jumps; all the while almost everything studied about social life
-focuses on the "normal," particularly with "bell curve" methods of infer­
-ence that tell you close to nothing. Why? Because the bell curve ignores
+focuses on the "normal," particularly with "bell curve" methods of inference that tell you close to nothing. Why? Because the bell curve ignores
 large deviations, cannot handle them, yet makes us confident that we have
 tamed uncertainty. Its nickname in this book is GIF, Great Intellectual
 Fraud.
@@ -1005,8 +969,7 @@ Jews' anger was caused by the Romans' insistence on putting a statue
 of Caligula in their temple in Jerusalem in exchange for placing a statue of
 the Jewish god Yahweh in Roman temples. The Romans did not realize
 that what the Jews (and the subsequent Levantine monotheists) meant by
-god was abstract, all embracing, and had nothing to do with the anthro­
-pomorphic, too human representation that Romans had in mind when
+god was abstract, all embracing, and had nothing to do with the anthropomorphic, too human representation that Romans had in mind when
 they said deus. Critically, the Jewish god did not lend himself to symbolic
 representation. Likewise, what many people commoditize and label as
 "unknown," "improbable,"or "uncertain" is not the same thing to me; it
@@ -1015,20 +978,17 @@ its opposite; it is the lack (and limitations) of knowledge. It is the exact
 contrary of knowledge; one should learn to avoid using terms made for
 knowledge to describe its opposite.
 
-What I call Platonicity, after the ideas (and personality) of the philoso­
-pher Plato, is our tendency to mistake the map for the territory, to focus on
+What I call Platonicity, after the ideas (and personality) of the philosopher Plato, is our tendency to mistake the map for the territory, to focus on
 pure and well-defined "forms," whether objects, like triangles, or social
 notions, like Utopias (societies built according to some blueprint of what
 "makes sense"), even nationalities. When these ideas and crisp constructs
 inhabit our minds, we privilege them over other less elegant objects, those
-with messier and less tractable structures (an idea that I will elaborate pro­
-gressively throughout this book).
+with messier and less tractable structures (an idea that I will elaborate progressively throughout this book).
 
 Platonicity is what makes us think that we understand more than we
 actually do. But this does not happen everywhere. I am not saying that
 Platonic forms don't exist. Models and constructions, these intellectual
-maps of reality, are not always wrong; they are wrong only in some spe­
-cific applications. The difficulty is that a) you do not know beforehand
+maps of reality, are not always wrong; they are wrong only in some specific applications. The difficulty is that a) you do not know beforehand
 (only after the fact) where the map will be wrong, and b) the mistakes can
 lead to severe consequences. These models are like potentially helpful
 medicines that carry random but very severe side effects.
@@ -1056,33 +1016,25 @@ fool the viewer.
 
 This is an essay expressing a primary idea; it is neither the recycling
 
-nor repackaging of other people's thoughts. An essay is an impulsive medi­
-tation, not science reporting. I apologize if I skip a few obvious topics in
+nor repackaging of other people's thoughts. An essay is an impulsive meditation, not science reporting. I apologize if I skip a few obvious topics in
 this book out of the conviction that what is too dull for me to write about
 might be too dull for the reader to read. (Also, to avoid dullness may help
 to filter out the nonessential.)
 
-Talk is cheap. Someone who took too many philosophy classes in col­
-lege (or perhaps not enough) might object that the sighting of a Black
+Talk is cheap. Someone who took too many philosophy classes in college (or perhaps not enough) might object that the sighting of a Black
 Swan does not invalidate the theory that all swans are white since such a
-black bird is not technically a swan since whiteness to him may be the es­
-sential property of a swan. Indeed those who read too much Wittgenstein
-(and writings about comments about Wittgenstein) may be under the im­
-pression that language problems are important. They may certainly be im­
-portant to attain prominence in philosophy departments, but they are
+black bird is not technically a swan since whiteness to him may be the essential property of a swan. Indeed those who read too much Wittgenstein
+(and writings about comments about Wittgenstein) may be under the impression that language problems are important. They may certainly be important to attain prominence in philosophy departments, but they are
 leave
 something we, practitioners and decision makers in the real world,
 for the weekend. As I explain in the chapter called "The Uncertainty of the
 Phony," for all of their intellectual appeal, these niceties have no serious
-implications Monday to Friday as opposed to more substantial (but ne­
-glected) matters. People in the classroom, not having faced many true sit­
-uations of decision making under uncertainty, do not realize what is
+implications Monday to Friday as opposed to more substantial (but neglected) matters. People in the classroom, not having faced many true situations of decision making under uncertainty, do not realize what is
 important and what is not—even those who are scholars of uncertainty
 those who are scholars of uncertainty). What I call the
 (or particularly
 practice of uncertainty can be piracy, commodity speculation, professional
-gambling, working in some branches of the Mafia, or just plain serial en­
-trepreneur ship. Thus I rail against "sterile skepticism," the kind we can do
+gambling, working in some branches of the Mafia, or just plain serial entrepreneur ship. Thus I rail against "sterile skepticism," the kind we can do
 nothing about, and against the exceedingly theoretical language problems
 that have made much of modern philosophy largely irrelevant to what is
 derisively called the "general public." (In the past, for better or worse,
@@ -1140,27 +1092,22 @@ opposite. Almost all of my non-Yogi Berra quotes are from people I disagree with
 
 xxviii P R O L O G UE
 
-cording our current knowledge)—and all the while we spend our time en­
-gaged in small talk, focusing on the known, and the repeated. This implies
+cording our current knowledge)—and all the while we spend our time engaged in small talk, focusing on the known, and the repeated. This implies
 the need to use the extreme event as a starting point and not treat it as an
 exception to be pushed under the rug. I also make the bolder (and more
-annoying) claim that in spite of our progress and the growth in knowl­
-edge, or perhaps because of such progress and growth, the future will be
-increasingly less predictable, while both human nature and social "sci­
-ence" seem to conspire to hide the idea from us.
+annoying) claim that in spite of our progress and the growth in knowledge, or perhaps because of such progress and growth, the future will be
+increasingly less predictable, while both human nature and social "science" seem to conspire to hide the idea from us.
 
 Chapters Map
 
 The sequence of this book follows a simple logic; it flows from what can
 be labeled purely literary (in subject and treatment) to what can be
 deemed entirely scientific (in subject, though not in treatment). Psychology
-will be mostly present in Part One and in the early part of Part Two; busi­
-ness and natural science will be dealt with mostly in the second half of Part
+will be mostly present in Part One and in the early part of Part Two; business and natural science will be dealt with mostly in the second half of Part
 Two and in Part Three. Part One, "Umberto Eco's Antilibrary," is mostly
 about how we perceive historical and current events and what distortions
 are present in such perception. Part Two, "We Just Can't Predict," is
-about our errors in dealing with the future and the unadvertised limita­
-tions of some "sciences"—and what to do about these limitations. Part
+about our errors in dealing with the future and the unadvertised limitations of some "sciences"—and what to do about these limitations. Part
 Three, "Those Gray Swans of Extremistan," goes deeper into the topic of
 extreme events, explains how the bell curve (that great intellectual fraud)
 is generated, and reviews the ideas in tlie natural and social sciences
@@ -2122,11 +2069,8 @@ events in their smallest details. The overlap between newspapers was so
 
 * The historian Niall Ferguson showed that, despite all the standard accounts of the
 buildup to the Great War, which describe "mounting tensions" and "escalating
-crises," the conflict came as a surprise. Only retrospectively was it seen as unavoid­
-able by backward-looking historians. Ferguson used a clever empirical argument
-to make his point: he looked at the prices of imperial bonds, which normally in­
-clude investors' anticipation of government's financing needs and decline in expec­
-tation of conflicts since wars cause severe deficits. But bond prices did not reflect
+crises," the conflict came as a surprise. Only retrospectively was it seen as unavoidable by backward-looking historians. Ferguson used a clever empirical argument
+to make his point: he looked at the prices of imperial bonds, which normally include investors' anticipation of government's financing needs and decline in expectation of conflicts since wars cause severe deficits. But bond prices did not reflect
 the anticipation of war. Note that this study illustrates, in addition, how working
 with prices can provide a good understanding of history.
 
@@ -2277,8 +2221,7 @@ against the threat of Communism, and so you may help them develop,
 until they send two planes into downtown Manhattan.
 
 * We will see in Chapter 10 some clever quantitative tests done to prove such herding;
-they show that, in many subject matters, the distance between opinions is remark­
-ably narrower than the distance between the average of opinions and truth.
+they show that, in many subject matters, the distance between opinions is remarkably narrower than the distance between the average of opinions and truth.
 
 T HE A P P R E N T I C E S H IP OF AN E M P I R I C AL S K E P T IC 17
 
@@ -3571,8 +3514,7 @@ Mild or type 1 randomness
 
 The most typical member is mediocre
 
-Winners get a small segment of the to­
-tal pie
+Winners get a small segment of the total pie
 
 Example: audience of an opera singer
 before the gramophone
@@ -3591,8 +3533,7 @@ Winner-take-almost-all effects
 
 Today's audience for an artist
 
-More likely to be found in our ances­
-tral environment
+More likely to be found in our ancestral environment
 
 More likely to be found in our modern
 environment
@@ -3616,8 +3557,7 @@ can spontaneously deliver
 
 Dominated by extreme winner-takeall inequality
 
-Total is not determined by a single in­
-stance or observation
+Total is not determined by a single instance or observation
 
 Total will be determined by a small
 number of extreme events
@@ -3642,8 +3582,7 @@ History crawls
 History makes jumps
 
 Events are distributed* according to
-the "bell curve" (the GIF) or its varia­
-tions
+the "bell curve" (the GIF) or its variations
 
 The distribution is either Mandelbrotian
 "gray" Swans (tractable scientifically)
@@ -4024,8 +3963,7 @@ people who use models of the past to produce risk measures on the odds of such
 an event. Even if they had one hundred and twelve risk managers, there would be
 no meaningful difference; they still would have blown up. Clearly you cannot
 manufacture more information than the past can deliver; if you buy one hundred
-copies of The New York Times, I am not too certain that it would help you gain in­
-cremental knowledge of the future. We just don't know how much information
+copies of The New York Times, I am not too certain that it would help you gain incremental knowledge of the future. We just don't know how much information
 there is in the past.
 
 O NE T H O U S A ND A ND O NE D A Y S, OR H OW N OT TO BE A S U C K ER 43
@@ -4164,9 +4102,7 @@ lasted hours, but historical changes and technological implementations
 
 match between the time taken to compensate someone and the time one needs to
 be comfortable that he is not making a bet against the rare event. People have an
-incentive to bet against it, or to game the system since they can be paid a bonus re­
-flecting their yearly performance when in fact all they are doing is producing illu­
-sory profits that they will lose back one day. Indeed, the tragedy of capitalism is
+incentive to bet against it, or to game the system since they can be paid a bonus reflecting their yearly performance when in fact all they are doing is producing illusory profits that they will lose back one day. Indeed, the tragedy of capitalism is
 that since the quality of the returns is not observable from past data, owners of
 companies, namely shareholders, can be taken for a ride by the managers who
 show returns and cosmetic profitability but in fact might be taking hidden risks.
@@ -5068,8 +5004,7 @@ a mistaken "no." The doctor discovering cancer cells might have faulty
 * Neither Peirce nor Popper was the first to come up with this asymmetry. The
 philosopher Victof Brochard mentioned the importance of negative empiricism in
 1878, as if it were a matter held by the empiricists to be the sound way to do
-business—ancients understood it implicitly. Out-of-print books deliver many sur­
-prises.
+business—ancients understood it implicitly. Out-of-print books deliver many surprises.
 
 58 U M B E R TO E C O 'S A N T I L I B R A RY
 
@@ -5353,12 +5288,10 @@ word, is our predicament.
 
 * Clearly, weather-related and geodesic events (such as tornadoes and earthquakes)
 have not changed much over the past millennium, but what have changed are the
-socioeconomic consequences of such occurrences. Today, an earthquake or hurri­
-cane commands more and more severe economic consequences than it did in the
+socioeconomic consequences of such occurrences. Today, an earthquake or hurricane commands more and more severe economic consequences than it did in the
 past because of the interlocking relationships between economic entities and the
 intensification of the "network effects" that we will discuss in Part Three. Matters
-that used to have mild effects now command a high impact. Tokyo's 1 9 23 earth­
-quake caused a drop of about a third in Japan's GNP. Extrapolating from the
+that used to have mild effects now command a high impact. Tokyo's 1 9 23 earthquake caused a drop of about a third in Japan's GNP. Extrapolating from the
 tragedy of Kobe in 1994, we can easily infer that the consequences of another such
 earthquake in Tokyo would be far costlier than that of its predecessor.
 
@@ -5935,8 +5868,7 @@ organization or make you feel better. We tend to use knowledge as therapy.
 * The Parisian novelist Georges Perec tried to break away from narrative and at­
 
 tempted to write a book as large as the world. He had to settle for an exhaustive
-account of what happened on the Place Saint-Sulpice between October 18 and Oc­
-tober 2 0 , 1 9 7 4. Even so, his account was not so exhaustive, and he ended up with
+account of what happened on the Place Saint-Sulpice between October 18 and October 2 0 , 1 9 7 4. Even so, his account was not so exhaustive, and he ended up with
 a narrative.
 
 70 U M B E R TO E C O 'S A N T I L I B R A RY
@@ -8521,8 +8453,7 @@ following traits: courage, risk taking, optimism, et cetera. Just like the
 
 population of millionaires. There may be some differences in skills, but
 
-* The best noncharlatanic finance book I know is called What I Learned Losing a Mil­
-lion Dollars, by D. Paul and B. Moynihan. The authors had to self-publish the book.
+* The best noncharlatanic finance book I know is called What I Learned Losing a Million Dollars, by D. Paul and B. Moynihan. The authors had to self-publish the book.
 
 1 06 U M B E R TO E C O 'S A N T I U B R A RY
 
@@ -8589,8 +8520,7 @@ earn the same income.
 that studies of drug efficacy probe into the cemetery of silent evidence. However,
 the same doctors fall for the bias elsewhere! Where? In their personal lives, or in
 their investment activities. At the cost of being repetitive, I have to once again state
-my amazement at the aspect of human nature that allows us to mix the most rig­
-orous skepticism and the most acute gullibility.
+my amazement at the aspect of human nature that allows us to mix the most rigorous skepticism and the most acute gullibility.
 
 G I A C O MO C A S A N O V A 'S U N F A I L I NG L U CK 1 07
 
@@ -10066,8 +9996,7 @@ the sources of uncertainty are not defined. Economists, who do not con-
 * My colleague Mark Spitznagel found a martial version of the ludic fallacy: orga­
 
 nized competitive fighting trains the athlete to focus on the game and, in order not
-to dissipate his concentration, to ignore the possibility of what is not specifically al­
-lowed by the rules, such as kicks to the groin, a surprise knife, et cetera. So those
+to dissipate his concentration, to ignore the possibility of what is not specifically allowed by the rules, such as kicks to the groin, a surprise knife, et cetera. So those
 who win the gold medal might be precisely those who will be most vulnerable in
 real life. Likewise, you see people with huge muscles (in black T-shirts) who can
 impress you in the artificial environment of the gym but are unable to lift a stone.
@@ -12469,8 +12398,7 @@ bank or security-analysis training program and see how they teach
 a great trap for suckers. Consider this 1970 forecast by U.S. officials (signed by the
 U.S. Secretaries of the Treasury, State, Interior, and Defense): "the standard price
 of foreign crude oil by 1980 may well decline and will in any event not experience
-a substantial increase." Oil prices went up tenfold by 1980. I just wonder if cur­
-rent forecasters lack in intellectual curiosity or if they are intentionally ignoring
+a substantial increase." Oil prices went up tenfold by 1980. I just wonder if current forecasters lack in intellectual curiosity or if they are intentionally ignoring
 forecast errors.
 
 Also note this additional aberration: since high oil prices are marking up their
@@ -12631,8 +12559,7 @@ full of magazines. They are usually manned by a very polite family from
 P R E D I CT
 
 Caravaggio's The Forfune-Teller. We have always been
-suckers for those who tell us about the future. In this pic­
-ture the fortune-teller is stealing the victim's ring.
+suckers for those who tell us about the future. In this picture the fortune-teller is stealing the victim's ring.
 
 the Indian subcontinent (just the parents; the children are in medical
 
@@ -13072,8 +12999,7 @@ as the Segway, an electric scooter that, it was prophesized, would change
 
 * Most of the debate between creationists and evolutionary theorists (of which I do
 not partake) lies in the following: creationists believe that the world comes from
-some form of design while evolutionary theorists see the world as a result of ran­
-dom changes by an aimless process. But it is hard to look at a computer or a car
+some form of design while evolutionary theorists see the world as a result of random changes by an aimless process. But it is hard to look at a computer or a car
 and consider them the result of aimless process. Yet they are.
 
 H OW TO L O OK F OR B I RD P O OP 1 71
@@ -13300,8 +13226,7 @@ at self-deceit machines.
 * Such claims are not uncommon. For instance the physicist Albert Michelson imag­
 
 ined, toward the end of the nineteenth century, that what was left for us to discover
-in the sciences of nature was no more than fine-tuning our precisions by a few dec­
-imal places.
+in the sciences of nature was no more than fine-tuning our precisions by a few decimal places.
 
 1 74 WE J U ST C A N 'T
 
@@ -14232,15 +14157,13 @@ Q.
 1.5 ;
 
 And the real "generating process" is extremely simple but it had nothing to do with
-a linear model! Some parts of it appear to be linear and we are fooled by extrapo­
-lating in a direct line.*
+a linear model! Some parts of it appear to be linear and we are fooled by extrapolating in a direct line.*
 
 These graphs also illustrate a statistical version of the narrative fallacy—you find a model that fits
 the past. "Linear regression" or "R-square" can ultimately fool you beyond measure, to the point
 where it is no longer funny. You can fit the linear part of the curve and claim a high R-square,
 meaning that your model fits the data very well and has high predictive powers. All that off hot air:
-you only fit the linear segment of the series. Always remember that "R-square" is unfit for Extremis­
-tan; it is only good for academic promotion.
+you only fit the linear segment of the series. Always remember that "R-square" is unfit for Extremistan; it is only good for academic promotion.
 
 1 88 WE J U ST C A N 'T P R E D I CT
 
@@ -16638,9 +16561,7 @@ foster cognitive diversity. One highlight of the year 2 0 06 was to find in my
 While writers were helpless and vulnerable to the arbitrariness of book reviews,
 which can distort their messages and, thanks to the confirmation bias, expose
 small irrelevant weak points in their text, they now have a much stronger hand. In
-place of the moaning letter to the editor, they can simply post their review of a re­
-view on the Web. If attacked ad hominem, they can reply ad hominem and go di­
-rectly after the credibility of the reviewer, making sure that their statement shows
+place of the moaning letter to the editor, they can simply post their review of a review on the Web. If attacked ad hominem, they can reply ad hominem and go directly after the credibility of the reviewer, making sure that their statement shows
 rapidly in an Internet search or on Wikipedia, the bottom-up encyclopedia.
 
 F R OM M E D I O C R I S T AN TO E X T R E M I S T A N, A ND B A CK 2 25
@@ -16933,9 +16854,7 @@ of which can be seen on the next page. The deutschmark banknotes were
 
 going to be put out of circulation in a matter of days, since Europe was
 
-* The nontechnical (or intuitive) reader can skip this chapter, as it goes into some de­
-tails about the bell curve. Also, you can skip it if you belong to the category of for­
-tunate people who do not know about the bell curve.
+* The nontechnical (or intuitive) reader can skip this chapter, as it goes into some details about the bell curve. Also, you can skip it if you belong to the category of fortunate people who do not know about the bell curve.
 
 T H O SE G R AY S W A NS OF
 
@@ -17110,11 +17029,9 @@ Higher than €2 million: 1 in 2 50
 
 Higher than €4 million: 1 in 1,000
 
-* One of the most misunderstood aspects of a Gaussian is its fragility and vulnera­
-bility in the estimation of tail events. The odds of a 4 sigma move are twice that of
+* One of the most misunderstood aspects of a Gaussian is its fragility and vulnerability in the estimation of tail events. The odds of a 4 sigma move are twice that of
 a 4.15 sigma. The odds of a 20 sigma are a trillion times higher than those of a 21 sigma!
-It means that a small measurement error of the sigma will lead to a massive under­
-estimation of the probability. We can be a trillion times wrong about some events.
+It means that a small measurement error of the sigma will lead to a massive underestimation of the probability. We can be a trillion times wrong about some events.
 f My main point, which I repeat in some form or another throughout Part Three, is
 as follows. Everything is made easy, conceptually, when you consider that there are
 two, and only two, possible paradigms: nonscalable (like the Gaussian) and other
@@ -17237,26 +17154,21 @@ same throughout. The inequality among the superrich is the same as the
 
 inequality among the simply rich—it does not slow down.f
 
-* Note that variables may not be infinitely scalable; there could be a very, very re­
-mote upper limit—but we do not know where it is so we treat a given situation as
+* Note that variables may not be infinitely scalable; there could be a very, very remote upper limit—but we do not know where it is so we treat a given situation as
 if it were infinitely scalable. Technically, you cannot sell more of one book than
 there are denizens of the planet—but that upper limit is large enough to be treated
 as if it didn't exist. Furthermore, who knows, by repackaging the book, you might
-be able to sell it to a person twice, or get that person to watch the same movie sev­
-eral times.
+be able to sell it to a person twice, or get that person to watch the same movie several times.
 
 f As I was revising this draft, in August 2 0 0 6 ,1 stayed at a hotel in Dedham, Mass­
 
 achusetts, near one of my children's summer camps. There, I was a little intrigued
-by the abundance of weight-challenged people walking around the lobby and caus­
-ing problems with elevator backups. It turned out that the annual convention of
+by the abundance of weight-challenged people walking around the lobby and causing problems with elevator backups. It turned out that the annual convention of
 NAFA, the National Association for Fat Acceptance, was being held there. As most
-of the members were extremely overweight, I was not able to figure out which dele­
-gate was the heaviest: some form of equality prevailed among the very heavy
+of the members were extremely overweight, I was not able to figure out which delegate was the heaviest: some form of equality prevailed among the very heavy
 (someone much heavier than the persons I saw would have been dead). I am sure
 that at the NARA convention, the National Association for Rich Acceptance, one
-person would dwarf the others, and, even among the superrich, a very small per­
-centage would represent a large section of the total wealth.
+person would dwarf the others, and, even among the superrich, a very small percentage would represent a large section of the total wealth.
 
 I N T E L L E C T U AL
 
@@ -17496,10 +17408,8 @@ simply, that for the cup to jump would require that all of the particles
 
 : How the Law of Large Numbers Works
 
-In Mediocristan, as your sample size increases, the observed average will present it­
-self with less and less dispersion—as you can see, the distribution will be narrower
-and narrower. This, in a nutshell, is how everything in statistical theory works (or is sup­
-posed to work). Uncertainty in Mediocristan vanishes under averaging. This illustrates
+In Mediocristan, as your sample size increases, the observed average will present itself with less and less dispersion—as you can see, the distribution will be narrower
+and narrower. This, in a nutshell, is how everything in statistical theory works (or is supposed to work). Uncertainty in Mediocristan vanishes under averaging. This illustrates
 the hackneyed "law of large numbers."
 
 jump in the same direction, and do so in lockstep several times in a row
@@ -18067,8 +17977,7 @@ At the second flip, the number of possible outcomes doubles. Case one:
 : THE QUINCUNX (SIMPLIFIED)—A PINBALL MACHINE
 
 Drop balls that at every pin, randomly fall right or left. Above is the most probable
-scenario, which greatly resembles the bell curve (a.k.a. Gaussian disribution). Cour­
-tesy of Alexander Taleb.
+scenario, which greatly resembles the bell curve (a.k.a. Gaussian disribution). Courtesy of Alexander Taleb.
 
 win, win. Case two: win, lose. Case three: lose, win. Case four: lose, lose.
 
@@ -19099,8 +19008,7 @@ résumé-building philistines, which they rejected because the ideas were
 
 262 T H O SE G R AY S W A NS OF E X T R E M I S T AN
 
-: The object is not in fact a lens cap. These two photos illustrate scale in­
-variance: the terrain is fractal. Compare it to man-made objects such as a car or a
+: The object is not in fact a lens cap. These two photos illustrate scale invariance: the terrain is fractal. Compare it to man-made objects such as a car or a
 
 house. Source: Professor Stephen W. Wheatcraft, University of Nevada, Reno.
 
@@ -19132,8 +19040,7 @@ give you certainties. More on that, later.)
 
 THE LOGIC OF FRACTAL RANDOMNESS (WITH A WARNING)*
 
-I have shown in the wealth lists in Chapter 15 the logic of a fractal distri­
-bution: if wealth doubles from 1 million to 2 million, the incidence of peo-
+I have shown in the wealth lists in Chapter 15 the logic of a fractal distribution: if wealth doubles from 1 million to 2 million, the incidence of peo-
 
 * The nontechnical reader can skip from here until the end of the chapter.
 
@@ -19143,10 +19050,8 @@ T HE A E S T H E T I CS OF R A N D O M N E SS
 
 The degree of inequality will be the same in all sixteen subsections of the graph. In
 the Gaussian world, disparities in wealth (or any other quantity) decrease when you
-look at the upper end—so billionaires should be more equal in relation to one an­
-other than millionaires are, and millionaires more equal in relation to one another
-than the middle class. This lack of equality at all wealth levels, in a nutshell, is statisti­
-cal self-similarity.
+look at the upper end—so billionaires should be more equal in relation to one another than millionaires are, and millionaires more equal in relation to one another
+than the middle class. This lack of equality at all wealth levels, in a nutshell, is statistical self-similarity.
 
 pie with at least that much money is cut in four, which is an exponent
 
@@ -20299,8 +20204,7 @@ tle personal control. Just keep your composure, smile, focus on analyzing
 the speaker not the message, and you'll win the argument. An ad hominem
 
 * More technically, remember my career as an option professional. Not ony does an
-option on a very long shot benefit from Black Swans, but it benefits disproportion­
-ately from them—something Scholes and Merton's "formula" misses. The option
+option on a very long shot benefit from Black Swans, but it benefits disproportionately from them—something Scholes and Merton's "formula" misses. The option
 payoff is so powerful that you do not have to be right on the odds: you can be
 wrong on the probability, but get a monstrously large payoff. I've called this the
 "double bubble": the rriispricing of the probability and that of the payoff.
@@ -20612,8 +20516,7 @@ and the a-Platonic School
 
 The Platonic Approach
 
-Interested in what lies outside the Pla­
-tonic fold
+Interested in what lies outside the Platonic fold
 
 Focuses on the inside of the Platonic
 fold
@@ -20662,16 +20565,14 @@ Develops intuitions from practice,
 goes from observations to books
 
 Not inspired by any science, uses
-messy mathematics and computa­
-tional methods
+messy mathematics and computational methods
 
 Everything needs to fit some grand,
 general socioeconomic model and
 "the rigor of economic theory"; frowns
 on the "descriptive"
 
-Built their entire apparatus on the as­
-sumptions that we can compute
+Built their entire apparatus on the assumptions that we can compute
 probabilities
 
 Model: Laplacian mechanics, the
@@ -20685,8 +20586,7 @@ Inspired by physics, relies on abstract
 
 mathematics
 
-Ideas based on skepticism, on the un­
-read books In the library
+Ideas based on skepticism, on the unread books In the library
 
 Ideas based on beliefs, on what they
 think they know
@@ -21658,10 +21558,8 @@ ability to inflict maximal damage by breaking the internal rhythm of one's
 
 prose with the minimum of changes. Will M. is also the right kind of party
 
-* I lost his business card, but would like to warmly thank a scientist traveling to Vi­
-enna aboard British Airways flight 7 00 on December 11, 2 0 0 3, for suggesting the
-billiard ball illustration in Chapter 11. All I know about him is that he was fiftytwo, gray-haired, English-born, wrote poetry on yellow notepads, and was travel­
-ing with seven suitcases since he was moving in with his thirty-five-year-old
+* I lost his business card, but would like to warmly thank a scientist traveling to Vienna aboard British Airways flight 7 00 on December 11, 2 0 0 3, for suggesting the
+billiard ball illustration in Chapter 11. All I know about him is that he was fiftytwo, gray-haired, English-born, wrote poetry on yellow notepads, and was traveling with seven suitcases since he was moving in with his thirty-five-year-old
 Viennese girlfriend.
 
 3 04 A C K N O W L E D G M E N TS
@@ -21765,8 +21663,7 @@ the number of hours the occupation entails—simply put, unless you are insensit
 the worries and feelings of responsibility occupy precious cognitive space. You
 may be able to study, meditate, and write if you are an employee, but not when you
 own a business—unless you are of an irresponsible nature. I thank my partner, Mark
-Spitznagel, for allowing me—thanks to the clarity of his mind and his highly sys­
-tematic, highly disciplined, and well engineered approach—to gain exposure to highimpact rare events without my having to get directly involved in business activities.
+Spitznagel, for allowing me—thanks to the clarity of his mind and his highly systematic, highly disciplined, and well engineered approach—to gain exposure to highimpact rare events without my having to get directly involved in business activities.
 
 GLOSSARY
 
@@ -22057,9 +21954,7 @@ Swan problem I could find is in John Stuart Mill's A System of Logic. It was lat
 by many (including Charles Sanders Peirce) before it became associated with Karl
 Popper.
 
-Bell curve: When I write bell curve I mean the Gaussian bell curve, a.k.a. normal distri­
-bution. All curves look like bells, so this is a nickname. Also, when I write the Gauss­
-ian basin I mean all distributions that are similar and for which the improbable is
+Bell curve: When I write bell curve I mean the Gaussian bell curve, a.k.a. normal distribution. All curves look like bells, so this is a nickname. Also, when I write the Gaussian basin I mean all distributions that are similar and for which the improbable is
 inconsequential and of low impact (more technically, nonscalable—all moments are
 finite). Note that the visual presentation of the bell curve in histogram form masks the
 contribution of the remote event, as such an event will be a point to the far right or
@@ -22097,16 +21992,13 @@ themselves.
 
 Historiography and philosophy of history: Bloch (1953), Carr (1961), Gaddis (2002),
 Braudel (1969,1990), Bourdé and Martin (1989), Certeau (1975), Muqaddamat Ibn
-Khaldoun illustrate the search for causation, which we see already present in Hero­
-dotus. For philosophy of history, Aron (1961), Fukuyama (1992). For postmodern
+Khaldoun illustrate the search for causation, which we see already present in Herodotus. For philosophy of history, Aron (1961), Fukuyama (1992). For postmodern
 views, see Jenkins (1991). I show in Part Two how historiographers are unaware of
-the epistemological difference between forward and backward processes (i.e., be­
-tween projection and reverse engineering).
+the epistemological difference between forward and backward processes (i.e., between projection and reverse engineering).
 
 Information and markets: See Shiller (1981, 1989), DeLong et al. (1991), and Cutler et
 
-al. (1989). The bulk of market moves does not have a "reason," just a contrived ex­
-planation.
+al. (1989). The bulk of market moves does not have a "reason," just a contrived explanation.
 
 Of descriptive value for crashes: See Galbraith (1997), Shiller (2000), and Kindleberger
 
@@ -22121,16 +22013,12 @@ buying.
 Religion and domains of contagion: See Boyer (2001).
 Wisdom (madness) of crowds: Collectively, we can both get wiser or far more foolish. We
 may collectively have intuitions for Mediocristan-related matters, such as the weight
-of an ox (see Surowiecki, 2004), but my conjecture is that we fail in more compli­
-cated predictions (economic variables for which crowds incur pathologies—two
+of an ox (see Surowiecki, 2004), but my conjecture is that we fail in more complicated predictions (economic variables for which crowds incur pathologies—two
 heads are worse than one). For decision errors and groups, see Sniezek and Buckley
-(1993). Classic: Charles Mackay's Extraordinary Popular Delusions and the Mad­
-ness of Crowds.
+(1993). Classic: Charles Mackay's Extraordinary Popular Delusions and the Madness of Crowds.
 
 Increase in the severity of events: Zajdenweber (2000).
-Modern life: The nineteenth-century novelist Emile Zola welcomed the arrival of the mar­
-ket for culture in the late 1800s, of which he seemed to be one of the first beneficia­
-ries. He predicted that the writers' and artists' ability to exploit the commercial
+Modern life: The nineteenth-century novelist Emile Zola welcomed the arrival of the market for culture in the late 1800s, of which he seemed to be one of the first beneficiaries. He predicted that the writers' and artists' ability to exploit the commercial
 system freed them from a dependence on patrons' whims. Alas, this was accompanied
 with more severe concentration—very few people benefited from the system. Lahire
 (2006) shows how most writers, throughout history, have starved. Remarkably, we
@@ -22138,8 +22026,7 @@ have ample data from France about the literary tradition.
 
 CHAPTER 4
 
-Titanic: The quote is from Dave Ingram's presentation at the Enterprise Risk Manage­
-ment Symposium in Chicago on May 2, 2005. For more on LTCM, see Lowenstein
+Titanic: The quote is from Dave Ingram's presentation at the Enterprise Risk Management Symposium in Chicago on May 2, 2005. For more on LTCM, see Lowenstein
 (2000), Dunbar (1999).
 
 Hume's exposition: Hume (1748, 2000).
@@ -22220,8 +22107,7 @@ N O T ES
 Hume's biographer: Mossner (1970). For a history of skepticism, Victor Cousin's lectures
 Leçons d'histoire de la philosophie à la Sorbonne (1828) and Hippolyte Taine's Les
 philosophes classiques, 9th edition (1868,1905). Popkin (2003) is a modem account.
-Also see Heckman (2003) and Bevan (1913). I have seen nothing in the modern phi­
-losophy of probability linking it to skeptical inquiry.
+Also see Heckman (2003) and Bevan (1913). I have seen nothing in the modern philosophy of probability linking it to skeptical inquiry.
 
 Sextus: See Popkin (2003), Sextus, House (1980), Bayle, Huet, Annas and Barnes (1985),
 and Julia Anna and Barnes's introduction in Sextus Empiricus (2000). Favier (1906)
@@ -22250,14 +22136,11 @@ poet Yehuda Halevi. See Floridi (2002).
 Algazel and the ultimate/proximate causation: " . .. their determining, from the sole ob­
 
 servation, of the nature of the necessary relationship between the cause and the effect,
-as if one could not witness the effect without the attributed cause of the cause with­
-out the same effect." (Tahafut)
+as if one could not witness the effect without the attributed cause of the cause without the same effect." (Tahafut)
 
 At the core of Algazel's idea is the notion that if you drink because you are thirsty,
 thirst should not be seen as a direct cause. There may be a greater scheme being
-played out; in fact, there is, but it can only be understood by those familiar with evo­
-lutionary thinking. See Tinbergen (1963, 1968) for a modern account of the proxi­
-mate. In a way, Algazel builds on Aristotle to attack him. In his Physics, Aristotle had
+played out; in fact, there is, but it can only be understood by those familiar with evolutionary thinking. See Tinbergen (1963, 1968) for a modern account of the proximate. In a way, Algazel builds on Aristotle to attack him. In his Physics, Aristotle had
 already seen the distinction between the different layers of cause (formal, efficient,
 final, and material).
 
@@ -22288,10 +22171,8 @@ Gilovich et al. (2002).
 Updike: The blurb is from Jaynes (1976).
 Brain hemispheric specialization: Gazzaniga and LeDoux (1978), Gazzaniga et al.
 
-(2005). Furthermore, Wolford, Miller, and Gazzaniga (2000) show probability match­
-ing by the left brain. When you supply the right brain with, say, a lever that produces
-desirable goods 60% of the time, and another lever 40%, the right brain will cor­
-rectly push the first lever as the optimal policy. If, on the other hand, you supply the
+(2005). Furthermore, Wolford, Miller, and Gazzaniga (2000) show probability matching by the left brain. When you supply the right brain with, say, a lever that produces
+desirable goods 60% of the time, and another lever 40%, the right brain will correctly push the first lever as the optimal policy. If, on the other hand, you supply the
 left brain with the same options, it will push the first lever 60 percent of the time and
 
 N O T ES 3 15
@@ -22299,8 +22180,7 @@ N O T ES 3 15
 the other one 40—it will refuse to accept randomness. Goldberg (2005) argues that,
 the specialty is along different lines: left-brain damage does not bear severe effects in
 children, unlike right-brain lesions, while this is the reverse for the elderly. I thank
-Elkhonon Goldberg for referring me to Snyder's work; Snyder (2001). The experi­
-ment is from Snyder et al. (2003).
+Elkhonon Goldberg for referring me to Snyder's work; Snyder (2001). The experiment is from Snyder et al. (2003).
 
 Sock selection and retrofit explanation: The experiment of the socks is presented in Carter
 (1999); the original paper appears to be Nisbett and Wilson (1977). See also Montier
@@ -22316,8 +22196,7 @@ Dopamine: Brugger and Graves (1997), among many other papers. See also Mohr et a
 
 Entropy and information: I am purposely avoiding the notion of entropy because the way
 
-it is conventionally phrased makes it ill-adapted to the type of randomness we expe­
-rience in real life. Tsallis entropy works better with fat tails.
+it is conventionally phrased makes it ill-adapted to the type of randomness we experience in real life. Tsallis entropy works better with fat tails.
 
 Notes on George Perec: Eco (1994).
 Narrativity and illusion of understanding: Wilson, Gilbert, and Center bar (2003): "Help­
@@ -22354,9 +22233,7 @@ furter and McGoun (1996).
 
 Narrativity of sayings and proverbs: Psychologists have long examined the gullibility of
 
-people in social settings when faced with well-sounding proverbs. For instance, ex­
-periments have been made since the 1960s where people are asked whether they be­
-lieve that a proverb is right, while another cohort is presented with the opposite
+people in social settings when faced with well-sounding proverbs. For instance, experiments have been made since the 1960s where people are asked whether they believe that a proverb is right, while another cohort is presented with the opposite
 meaning. For a presentation of the hilarious results, see Myers (2002).
 
 Science as a narrative: Indeed scientific papers can succeed by the same narrativity bias
@@ -22403,8 +22280,7 @@ Terrorism exploitation of the sensational: See the essay in Taleb (2004c).
 General books on psychology of decision making (heuristics and biases): Baron (2000) is
 simply the most comprehensive on the subject. Kunda (1999) is a summary from the
 standpoint of social psychology (sadly, the author died prematurely); shorter: Pious
-(1993). Also Dawes (1988) and Dawes (2001). Note that a chunk of the original pa­
-pers are happily compiled in Kâhneman et al. (1982), Kahneman and Tversky (2000),
+(1993). Also Dawes (1988) and Dawes (2001). Note that a chunk of the original papers are happily compiled in Kâhneman et al. (1982), Kahneman and Tversky (2000),
 Gilovich et al. (2002), and Slovic (2001a and 2001b). See also Myers (2002) for an
 account on intuition and Gigerenzer et al. (2000) for an ecological presentation of the
 subject. The most complete account in economics and finance is Montier (2007),
@@ -22453,26 +22329,22 @@ isBaddeley (1997).
 
 Intellectual colonies and social life: See the account in Collins (1998) of the "lineages" of
 philosophers (although I don't think he was aware enough of the Casanova problem
-to take into account the bias making the works of solo philosophers less likely to sur­
-vive). For an illustration of the aggressiveness of groups, see Uglow (2003).
+to take into account the bias making the works of solo philosophers less likely to survive). For an illustration of the aggressiveness of groups, see Uglow (2003).
 
 Hyman Minsky's work: Minsky (1982).
 Asymmetry: Prospect theory (Kahneman and Tversky [1979] and Tversky and Kahne­
 
 man [1992]) accounts for the asymmetry between bad and good random events, but
-it also shows that the negative domain is convex while the positive domain is con­
-cave, meaning that a loss of 100 is less painful than 100 losses of 1 but that a gain of
+it also shows that the negative domain is convex while the positive domain is concave, meaning that a loss of 100 is less painful than 100 losses of 1 but that a gain of
 100 is also far less pleasurable than 100 times a gain of 1.
 
 Neural correlates of the asymmetry: See Davidson's work in Goleman (2003), Lane et al.
 (1997), and Gehring and Willoughby (2002). Csikszentmihalyi (1993, 1998) further
 explains the attractiveness of steady payoffs with his theory of "flow."
 
-Deferred rewards and its neural correlates: McLure et al. (2004) show the brain activa­
-tion in the cortex upon making a decision to defer, providing insight on the limbic
+Deferred rewards and its neural correlates: McLure et al. (2004) show the brain activation in the cortex upon making a decision to defer, providing insight on the limbic
 impulse behind immediacy and the cortical activity in delaying. See also Loewenstein
-et al. (1992), Elster (1998), Berridge (2005). For the neurology of preferences in Ca­
-puchin monkeys, Chen et al. (2005).
+et al. (1992), Elster (1998), Berridge (2005). For the neurology of preferences in Capuchin monkeys, Chen et al. (2005).
 
 Bleed or blowup: Gladwell (2002) and Taleb (2004c). Why bleed is painful can be
 explained by dull stress; Sapolsky et al. (2003) and Sapolsky (1998). For how
@@ -22490,9 +22362,7 @@ he writes:
 
 The human brain evidently evolved to commit itself emotionally only to
 a small piece of geography, a limited band of kinsmen, and two or three
-generations into the future. To look neither far ahead nor far afield is el­
-emental in a Darwinian sense. We are innately inclined to ignore any dis­
-tant possibility not yet requiring examination. It is, people say, just good
+generations into the future. To look neither far ahead nor far afield is elemental in a Darwinian sense. We are innately inclined to ignore any distant possibility not yet requiring examination. It is, people say, just good
 common sense. Why do they think in this shortsighted way?
 
 The reason is simple: it is a hardwired part of our Paleolithic her­
@@ -22501,8 +22371,7 @@ itage. For hundreds of millennia, those who worked for short-term gain
 within a small circle of relatives and friends lived longer and left more
 offspring—even when their collective striving caused their chiefdoms and
 empires to crumble around them. The long view that might have saved
-their distant descendants required a vision and extended altruism instinc­
-tively difficult to marshal.
+their distant descendants required a vision and extended altruism instinctively difficult to marshal.
 
 See also Miller (2000): "Evolution has no foresight. It lacks the long-term vision of
 drug company management. A species can't raise venture capital to pay its bills while
@@ -22538,8 +22407,7 @@ his problems and other treatises, for he had already decided, without
 having properly consulted experience as the basis of his decisions and
 axioms. . . . The empiric school produces dogmas of a more deformed
 and monstrous nature than the sophistic or theoretic school; not being
-founded in the light of common notions (which however poor and super­
-stitious, is yet in a manner universal and of general tendency), but in the
+founded in the light of common notions (which however poor and superstitious, is yet in a manner universal and of general tendency), but in the
 confined obscurity of a few experiments.
 
 Bacon's misconception may be the reason it took us a while to understand that they
@@ -22552,9 +22420,7 @@ structures with the implication of a severe role for randomness.
 
 Anthropic bias: See the wonderful and comprehensive discussion in Bostrom (2002). In
 physics, see Barrow and Tipler (1986) and Rees (2004). Sornette (2004) has Gott's
-derivation of survival as a power law. In finance, Sullivan et al. (1999) discuss sur­
-vivorship bias. See also Taleb (2004a). Studies that ignore the bias and state inappro­
-priate conclusions: Stanley and Danko (1996) and the more foolish Stanley (2000).
+derivation of survival as a power law. In finance, Sullivan et al. (1999) discuss survivorship bias. See also Taleb (2004a). Studies that ignore the bias and state inappropriate conclusions: Stanley and Danko (1996) and the more foolish Stanley (2000).
 
 Manuscripts and the Phoenicians: For survival and science, see Cisne (2005). Note that
 the article takes into account physical survival (like fossil), not cultural, which implies
@@ -22574,8 +22440,7 @@ The literature calls it the "pull of the recent," but has difficulty estimating 
 owing to disagreements. See Jablonski et al. (2003).
 
 Undiscovered public knowledge: Here is another manifestation of silent evidence: you
-can actually do lab work sitting in an armchair, just by linking bits and pieces of re­
-search by people who labor apart from one another and miss on connections. Using
+can actually do lab work sitting in an armchair, just by linking bits and pieces of research by people who labor apart from one another and miss on connections. Using
 bibliographic analysis, it is possible to find links between published information that
 had not been known previously by researchers. I "discovered" the vindication of the
 
@@ -22596,9 +22461,7 @@ umes. See Masters (1969).
 
 Reference point problem: Taking into account background information requires a form
 of thinking in conditional terms that, oddly, many scientists (especially the better
-ones) are incapable of handling. The difference between the two odds is called, sim­
-ply, conditional probability. We are computing the probability of surviving condi­
-tional on our being in the sample itself. Simply put, you cannot compute probabilities
+ones) are incapable of handling. The difference between the two odds is called, simply, conditional probability. We are computing the probability of surviving conditional on our being in the sample itself. Simply put, you cannot compute probabilities
 if your survival is part of the condition of the realization of the process.
 
 Plagues: See McNeill (1976).
@@ -22609,8 +22472,7 @@ Intelligence and Nobel: Simonton (1999). If IQ scores correlate, they do so very
 
 with subsequent success.
 
-"Uncertainty": Knight (1923). My definition of such risk (Taleb, 2007c) is that it is a nor­
-mative situation, where we can be certain about probabilities, i.e., no metaprobabilities. Whereas, if randomness and risk result from epistemic opacity, the difficulty
+"Uncertainty": Knight (1923). My definition of such risk (Taleb, 2007c) is that it is a normative situation, where we can be certain about probabilities, i.e., no metaprobabilities. Whereas, if randomness and risk result from epistemic opacity, the difficulty
 in seeing causes, then necessarily the distinction is bunk. Any reader of Cicero would
 recognize it as his probability; see epistemic opacity in his De Divinatione, Liber
 primus, LVI, 127:
@@ -22651,14 +22513,11 @@ Incomputability: For earthquakes, see Freedman and Stark (2003) (courtesy of Gur
 
 Academia and philistinism: There is a round-trip fallacy; if academia means rigor (which
 
-I doubt, since what I saw called "peer reviewing" is too often a masquerade), nonaca­
-demic does not imply nonrigorous. Why do I doubt the "rigor"? By the confirmation
+I doubt, since what I saw called "peer reviewing" is too often a masquerade), nonacademic does not imply nonrigorous. Why do I doubt the "rigor"? By the confirmation
 bias they show you their contributions yet in spite of the high number of laboring
-academics, a relatively minute fraction of our results come from them. A dispropor­
-tionately high number of contributions come from freelance researchers and those
+academics, a relatively minute fraction of our results come from them. A disproportionately high number of contributions come from freelance researchers and those
 dissingly called amateurs: Darwin, Freud, Marx, Mandelbrot, even the early Einstein.
-Influence on the part of an academic is usually accidental. This even held in the Mid­
-dle Ages and the Renaissance, see Le Goff (1985). Also, the Enlightenment figures
+Influence on the part of an academic is usually accidental. This even held in the Middle Ages and the Renaissance, see Le Goff (1985). Also, the Enlightenment figures
 (Voltaire, Rousseau, d'Holbach, Diderot, Montesquieu) were all nonacademics at a
 time when academia was large.
 
@@ -22669,8 +22528,7 @@ decade before formal publication). Lichtenstein and, Fischhoff (1977) showed tha
 overconfidence can be influenced by item difficulty; it typically diminishes and turns
 into underconfidence in easy items (compare with Armelius [1979]). Plenty of papers
 since have tried to pin down the conditions of calibration failures or robustness (be
-they task training, ecological aspects of the domain, level of education, or national­
-ity): Dawes (1980), Koriat, Lichtenstein, and Fischhoff (1980), Mayseless and
+they task training, ecological aspects of the domain, level of education, or nationality): Dawes (1980), Koriat, Lichtenstein, and Fischhoff (1980), Mayseless and
 Kruglanski (1987), Dunning et al. (1990), Ayton and McClelland (1997), Gervais
 and Odean (1999), Griffin and Varey (1996), Juslin (1991, 1993, 1994), Juslin and
 Olsson (1997), Kadane and Lichtenstein (1982), May (1986), McClelland and Bolger
@@ -22684,20 +22542,16 @@ Odean (1999). For cross-boundaries effects, Yates et al. (1996, 1998), Angele et
 and Budescu (1994).
 
 Frequency vs. probability—the ecological problem: Hoffrage and Gigerenzer (1998)
-think that overconfidence is less significant when the problem is expressed in frequen­
-cies as opposed to probabilities. In fact, there has been a debate about the difference
+think that overconfidence is less significant when the problem is expressed in frequencies as opposed to probabilities. In fact, there has been a debate about the difference
 between "ecology" and laboratory; see Gigerenzer et al. (2000), Gigerenzer and
-Richter (1990), and Gigerenzer (1991). We are "fast and frugal" (Gigerenzer and Gold­
-stein [1996]). As far as the Black Swan is concerned, these problems of ecology do not
+Richter (1990), and Gigerenzer (1991). We are "fast and frugal" (Gigerenzer and Goldstein [1996]). As far as the Black Swan is concerned, these problems of ecology do not
 arise: we do not live in an environment in which we are supplied with frequencies or,
-more generally, for which we are fit. Also in ecology, Spariosu (2004) for the ludic as­
-pect, Cosmides and Tooby (1990). Leary (1987) for Brunswikian ideas, as well as
+more generally, for which we are fit. Also in ecology, Spariosu (2004) for the ludic aspect, Cosmides and Tooby (1990). Leary (1987) for Brunswikian ideas, as well as
 Brunswik (1952).
 
 Lack of awareness of ignorance: "In short, the same knowledge that underlies the ability
 
-to produce correct judgment is also the knowledge that underlies the ability to recog­
-nize correct judgment. To lack the former is to be deficient in the latter." From Kruger
+to produce correct judgment is also the knowledge that underlies the ability to recognize correct judgment. To lack the former is to be deficient in the latter." From Kruger
 and Dunning (1999).
 
 Expert problem in isolation: I see the expert problem as indistinguishable from Matthew
@@ -22790,11 +22644,9 @@ who held that he did the actual work (see The Economist, June 9, 2005).
 Darwin/Wallace: Quammen (2006).
 Popper's attack on historicism: See Popper (2002). Note that I am reinterpreting Popper's
 
-idea in a modern manner here, using my own experiences and knowledge, not com­
-menting on comments about Popper's work—with the consequent lack of fidelity to
+idea in a modern manner here, using my own experiences and knowledge, not commenting on comments about Popper's work—with the consequent lack of fidelity to
 his message. In other words, these are not directly Popper's arguments, but largely
-mine phrased in a Popperian framework. The conditional expectation of an uncondi­
-tional expectation is an unconditional expectation.
+mine phrased in a Popperian framework. The conditional expectation of an unconditional expectation is an unconditional expectation.
 
 Forecast for the future a hundred years earlier: Bellamy (1891) illustrates our mental pro­
 
@@ -22816,10 +22668,8 @@ Very general discussion on "complexity": Benkirane (2002), Scheps (1996), and Ru
 
 Hayek: See www.nobel.se. See Hayek (1945, 1994). Is it that mechanisms do not correct
 themselves from railing by influential people, but either by mortality of the operators,
-or something even more severe, by being put out of business? Alas, because of conta­
-gion, there seems to be little logic to how matters improve; luck plays a part in how
-soft sciences evolve. See Ormerod (2006) for network effects in "intellectuals and so­
-cialism" and the power-law distribution in influence owing to the scale-free aspect of
+or something even more severe, by being put out of business? Alas, because of contagion, there seems to be little logic to how matters improve; luck plays a part in how
+soft sciences evolve. See Ormerod (2006) for network effects in "intellectuals and socialism" and the power-law distribution in influence owing to the scale-free aspect of
 the connections—and the consequential arbitrariness. Hayek seems to have been a
 prisoner of Weber's old differentiation between Natur-Wissenschaften and Geistes
 Wissenschaften—but thankfully not Popper.
@@ -22847,16 +22697,14 @@ that the ideas of Kahneman and his colleagues must be rejected because they do n
 
 N O T ES 3 23
 
-allow us to develop a general equilibrium theory, producing "time-inconsistent pref­
-erences." For a minute I thought he was joking: he blamed the psychologists' ideas
+allow us to develop a general equilibrium theory, producing "time-inconsistent preferences." For a minute I thought he was joking: he blamed the psychologists' ideas
 and human incoherence for interfering with his ability to build his Platonic model.
 
 Samuelson: For his optimization, see Samuelson (1983). Also Stiglitz (1994).
 Plato's dogma on body symmetry: "Athenian Stranger to Cleinias: In that the right and
 left hand are supposed to be by nature differently suited for our various uses of them;
 whereas no difference is found in the use of the feet and the lower limbs; but in the
-use of the hands we are, as it were, maimed by the folly of nurses and mothers; for al­
-though our several limbs are by nature balanced, we create a difference in them by
+use of the hands we are, as it were, maimed by the folly of nurses and mothers; for although our several limbs are by nature balanced, we create a difference in them by
 bad habit," in Plato's Laws. See McManus (2002).
 
 Drug companies: Other such firms, I was told, are run by commercial persons who tell re­
@@ -22882,15 +22730,11 @@ haps misapplication) in King and Zheng (2005).
 Constructionism: See Berger and Luckmann (1966) and Hacking (1999).
 Certification vs, true skills or knowledge: See Donhardt (2004). There is also a franchise
 
-protection. Mathematics may not be so necessary a tool for economics, except to pro­
-tect the franchise of those economists who know math. In my father's days, the selec­
-tion process for the mandarins was made using their abilities in Latin (or Greek). So
+protection. Mathematics may not be so necessary a tool for economics, except to protect the franchise of those economists who know math. In my father's days, the selection process for the mandarins was made using their abilities in Latin (or Greek). So
 the class of students groomed for the top was grounded in the classics and knew some
 interesting subjects. They were also trained in Cicero's highly probabilistic view of
 things—and selected on erudition, which carries small side effects. If anything it
-allows you to handle fuzzy matters. My generation was selected according to mathe­
-matical skills. You made it based on an engineering mentality; this produced man­
-darins with mathematical, highly structured, logical minds, and, accordingly, they
+allows you to handle fuzzy matters. My generation was selected according to mathematical skills. You made it based on an engineering mentality; this produced mandarins with mathematical, highly structured, logical minds, and, accordingly, they
 will select their peers based on such criteria. So the papers in economics and social
 science gravitated toward the highly mathematical and protected their franchise by
 putting high mathematical barriers to entry. You could also smoke the general public
@@ -22931,8 +22775,7 @@ in Nature. Neither of them seem to realize the problem of calibration with power
 laws. See also Ferguson, Why Did the Great War?, to gauge the extent of the forwardbackward problems.
 
 For the traditional nomological tendency, i.e., the attempt to go beyond cause
-into a general theory, see Muqaddamah by Ibn Khaldoun. See also Hegel's Philoso­
-phy of History.
+into a general theory, see Muqaddamah by Ibn Khaldoun. See also Hegel's Philosophy of History.
 
 Emotion and cognition: Zajonc (1980, 1984).
 Catastrophe insurance: Froot (2001) claims that insurance for remote events is overpriced.
@@ -22951,8 +22794,7 @@ Affective forecasting: See Gilbert (1991), Gilbert et al. (1993), and Montier (2
 
 CHAPTERS 14-17
 
-This section will also serve another purpose. Whenever I talk about the Black Swan, peo­
-ple tend to supply me with anecdotes. But these anecdotes are just corroborative: you
+This section will also serve another purpose. Whenever I talk about the Black Swan, people tend to supply me with anecdotes. But these anecdotes are just corroborative: you
 need to show that in the aggregate the world is dominated by Black Swan events. To me,
 the rejection of nonscalable randomness is sufficient to establish the role and significance
 of Black Swans.
@@ -23014,11 +22856,9 @@ Creative destruction revisited: See Schumpeter (1942).
 Networks: Barabâsi and Albert (1999), Albert and Barabâsi (2000), Strogatz (2001,
 2003), Callaway et al. (2000), Newman et al. (2000), Newman, Watts, and Strogatz
 (2000), Newman (2001), Watts and Strogatz (1998), Watts (2002, 2003), and Amaral et al. (2000). It supposedly started with Milgram (1967). See also Barbour and
-Reinert (2000), Barthélémy and Amaral (1999). See Boots and Sasaki (1999) for in­
-fections. For extensions, see Bhalla and Iyengar (1999). Resilence, Cohen et al.
+Reinert (2000), Barthélémy and Amaral (1999). See Boots and Sasaki (1999) for infections. For extensions, see Bhalla and Iyengar (1999). Resilence, Cohen et al.
 (2000), Barabâsi and Bonabeau (2003), Barabâsi (2002), and Banavar et al. (2000).
-Power laws and the Web, Adamic and Huberman (1999) and Adamic (1999). Statis­
-tics of the Internet: Huberman (2001), Willinger et al. (2004), and Faloutsos, Faloutsos, and Faloutsos (1999). For DNA, see Vogelstein et al. (2000).
+Power laws and the Web, Adamic and Huberman (1999) and Adamic (1999). Statistics of the Internet: Huberman (2001), Willinger et al. (2004), and Faloutsos, Faloutsos, and Faloutsos (1999). For DNA, see Vogelstein et al. (2000).
 
 Self-organized criticality: Bak (1996).
 Pioneers of fat tails: For wealth, Pareto (1896), Yule (1925,1944). Less of a pioneer Zipf
@@ -23030,17 +22870,14 @@ Endogenous vs. exogenous: Sornette et al. (2004).
 Sperber's work: Sperber (1996a, 1996b, 1997).
 Regression: If you hear the phrase least square regression, you should be suspicious about
 
-the claims being made. As it assumes that your errors wash out rather rapidly, it un­
-derestimates the total possible error, and thus overestimates what knowledge one can
+the claims being made. As it assumes that your errors wash out rather rapidly, it underestimates the total possible error, and thus overestimates what knowledge one can
 derive from the data.
 
 The notion of central limit: very misunderstood: it takes a long time to reach the central
 limit—so as we do not live in the asymptote, we've got problems. All various random
 variables (as we started in the example of Chapter 16 with a +1 or - 1, which is called
-a Bernouilli draw) under summation (we did sum up the wins of the 40 tosses) be­
-come Gaussian. Summation is key here, since we are considering the results of adding
-up the 40 steps, which is where the Gaussian, under the first and second central as­
-sumptions becomes what is called a "distribution." (A distribution tells you how you
+a Bernouilli draw) under summation (we did sum up the wins of the 40 tosses) become Gaussian. Summation is key here, since we are considering the results of adding
+up the 40 steps, which is where the Gaussian, under the first and second central assumptions becomes what is called a "distribution." (A distribution tells you how you
 are likely to have your outcomes spread out, or distributed.) However, they may get
 there at different speeds. This is called the central limit theorem: if you add random
 variables coming from these individual tame jumps, it will lead to the Gaussian.
@@ -23077,16 +22914,14 @@ imagination as the wonderful form of cosmic order expressed by 'the law of error
 
 ance" that is rather technical: none of these building-block steps can take an infinite
 value if you square them or multiply them by themselves. They need to be bounded
-at some number. We simplified here by making them all one single step, or finite stan­
-dard deviation. But the problem is that some fractal payoffs may have finite variance,
+at some number. We simplified here by making them all one single step, or finite standard deviation. But the problem is that some fractal payoffs may have finite variance,
 but still not take us there rapidly. See Bouchaud and Potters (2003).
 
 Lognormal: There is an intermediate variety that is called the lognormal, emphasized by
 one Gibrat (see Sutton [1997]) early in the twentieth century as an attempt to explain
 the distribution of wealth. In this framework, it is not quite that the wealthy get
 wealthier, in a pure preferential attachment situation, but that if your wealth is at 100
-you will vary by 1, but when your wealth is at 1,000, you will vary by 10. The rela­
-tive changes in your wealth are Gaussian. So the lognormal superficially resembles
+you will vary by 1, but when your wealth is at 1,000, you will vary by 10. The relative changes in your wealth are Gaussian. So the lognormal superficially resembles
 the fractal, in the sense that it may tolerate some large deviations, but it is dangerous
 because these rapidly taper off at the end. The introduction of the lognormal was a
 very bad compromise, but a way to conceal the flaws of the Gaussian.
@@ -23098,8 +22933,7 @@ and Courtillot and Gaudemer (1996). Jumps: Eldredge and Gould.
 FRACTALS, POWER LAWS, and SCALE-FREE DISTRIBUTIONS
 
 Definition: Technically, P>x= K x~a where a is supposed to be the power-law exponent.
-It is said to be scale free, in the sense that it does not have a characteristic scale: rela­
-tive deviation of
+It is said to be scale free, in the sense that it does not have a characteristic scale: relative deviation of
 does not depend on x, but on n—for x "large enough." Now,
 in the other class of distribution, the one that I can intuitively describe as nonscalable,
 with the typical shape p(x) = Exp [-a x], the scale will be a.
@@ -23202,9 +23036,7 @@ Imitation chains and pathologies: An informational cascade is a process where a 
 rational agent elects a particular choice ignoring his own private information (or
 judgment) to follow that of others. You run, I follow you, because you may be aware
 of a danger I may be missing. It is efficient to do what others do instead of having to
-reinvent the wheel every time. But this copying the behavior of others can lead to imi­
-tation chains. Soon everyone is running in the same direction, and it can be for spu­
-rious reasons. This behavior causes stock market bubbles and the formation of
+reinvent the wheel every time. But this copying the behavior of others can lead to imitation chains. Soon everyone is running in the same direction, and it can be for spurious reasons. This behavior causes stock market bubbles and the formation of
 massive cultural fads. Bikhchandani et al. (1992). In psychology, see Hansen and
 Donoghue (1977). In biology/selection, Dugatkin (2001), Kirpatrick and Dugatkin
 (1994).
@@ -23216,8 +23048,7 @@ interest rates (long and short term), and industrial production.
 
 Statisticians not accepting scalability: Flawed reasoning mistaking for sampling error in
 
-the tails for a boundedness: Perline (2005), for instance, does not understand the dif­
-ference between absence of evidence and evidence of absence.
+the tails for a boundedness: Perline (2005), for instance, does not understand the difference between absence of evidence and evidence of absence.
 
 Time series and memory: You can have "fractal memory," i.e., the effect of past events on
 the present has an impact that has a "tail." It decays as power-law, not exponentially.
@@ -23229,16 +23060,13 @@ CHAPTER 18
 Economists: Weintraub (2002), Szenberg (1992).
 Portfolio theory and modern finance: Markowitz (1952, 1959), Huang and Litzenberger
 
-(1988) and Sharpe (1994, 1996). What is called the Sharpe ratio is meaningless out­
-side of Mediocristan. The contents of Steve Ross's book (Ross [2004]) on "neoclassi­
-cal finance" are completely canceled if you consider Extremistan in spite of the
+(1988) and Sharpe (1994, 1996). What is called the Sharpe ratio is meaningless outside of Mediocristan. The contents of Steve Ross's book (Ross [2004]) on "neoclassical finance" are completely canceled if you consider Extremistan in spite of the
 "elegant" mathematics and the beautiful top-down theories. "Anecdote" of Merton
 minor in Merton (1992).
 
 Obsession with measurement: Crosby (1997) is often shown to me as convincing evidence
 
-that measuring was a great accomplishment not knowing that it applied to Medioc­
-ristan and Mediocristan only. Bernstein (1996) makes the same error.
+that measuring was a great accomplishment not knowing that it applied to Mediocristan and Mediocristan only. Bernstein (1996) makes the same error.
 
 Power laws in finance: Mandelbrot (1963), Gabaix et al. (2003), and Stanley et al.
 (2000). Kaizoji and Kaizoji (2004), Véhel and Walter (2002). Land prices: Kaizoji
@@ -23250,8 +23078,7 @@ the measure. So do many others.
 
 Covered writes: a sucker's game as you cut your upside—conditional on the upside being
 
-breached, the stock should rally a lot more than intuitively accepted. For a represen­
-tative mistake, see Board et al. (2000).
+breached, the stock should rally a lot more than intuitively accepted. For a representative mistake, see Board et al. (2000).
 
 Nobel family: "Nobel Descendant Slams Economics Prize," The Local, September 28,
 
@@ -23259,8 +23086,7 @@ Nobel family: "Nobel Descendant Slams Economics Prize," The Local, September 28,
 
 Double bubble: The problem of derivatives is that if the underlying security has mild fat
 
-tails and follows a mild power law (i.e., a tail exponent of three or higher), the deriva­
-tive will produce far fatter tails (if the payoff is in squares, then the tail exponent of
+tails and follows a mild power law (i.e., a tail exponent of three or higher), the derivative will produce far fatter tails (if the payoff is in squares, then the tail exponent of
 
 N O T ES 3 29
 
@@ -23284,21 +23110,17 @@ CHAPTER 19
 Popper quote; From Conjectures and Refutations, pages 95-97.
 The lottery paradox: This is one example of scholars not understanding the high-impact
 
-rare event. There is a well-known philosophical conundrum called the "lottery para­
-dox," originally posed by the logician Henry Kyburg (see Rescher [2001] and Clark
+rare event. There is a well-known philosophical conundrum called the "lottery paradox," originally posed by the logician Henry Kyburg (see Rescher [2001] and Clark
 [2002]), which goes as follows: "I do not believe that any ticket will win the lottery,
 but I do believe that all tickets will win the lottery." To me (and a regular person) this
-statement does not seem to have anything strange in it. Yet for an academic philoso­
-pher trained in classical logic, this is a paradox. But it is only so if one tries to squeeze
+statement does not seem to have anything strange in it. Yet for an academic philosopher trained in classical logic, this is a paradox. But it is only so if one tries to squeeze
 probability statements into commonly used logic that dates from Aristotle and is all
-or nothing. An all or nothing acceptance and rejection ("I believe" or "I do not be­
-lieve") is inadequate with the highly improbable. We need shades of belief, degrees of
+or nothing. An all or nothing acceptance and rejection ("I believe" or "I do not believe") is inadequate with the highly improbable. We need shades of belief, degrees of
 faith you have in a statement other than 100% or 0%.
 
 One final philosophical consideration. For my friend the options trader and
 Talmudic scholar Rabbi Tony Glickman: life is convex and to be seen as a series of
-derivatives. Simply put, when you cut the negative exposure, you limit your vulnera­
-bility to unknowledge, Taleb (2005).
+derivatives. Simply put, when you cut the negative exposure, you limit your vulnerability to unknowledge, Taleb (2005).
 
 BIBLIOGRAPHY
 
@@ -23744,8 +23566,7 @@ Burnham, Terence C, 1997, Essays on Genetic Evolution and Economics. New York: D
 Burnham, T., and J. Phelan, 2000, Mean Genes. Boston: Perseus Publishing.
 Bushman, B. J ., and G. L. Wells, 2 0 0 1, "Narrative Impressions of Literature: The Availability Bias
 
-and the Corrective Properties of Meta-analytic Approaches." Personality and Social Psychol­
-ogy Bulletin 27: 1123-1130.
+and the Corrective Properties of Meta-analytic Approaches." Personality and Social Psychology Bulletin 27: 1123-1130.
 
 Callaway, D. S., M. E. J. Newman, S. H. Strogatz, and D. J. Watts, 2 0 0 0, "Network Robustness
 
@@ -23955,8 +23776,7 @@ of Clyde Coombs. Bern, Switzerland: Huber.
 3 38
 
 , 1 9 8 9, "Measurement Models for Rating and Comparing Risks: The Context of AIDS."
-Conference Proceedings Health Services Research Methodology: A Focus on AIDS, Septem­
-ber 1989.
+Conference Proceedings Health Services Research Methodology: A Focus on AIDS, September 1989.
 
 , 1999, "A Message from Psychologists to Economists: Mere Predictability Doesn't Matter
 Like It Should, Without a Good Story Appended to It." Journal of Economic Behavior and
@@ -24478,8 +24298,7 @@ Hilton, Denis, 2 0 0 3, "Psychology and the Financial Markets: Applications to U
 
 Remedying Irrational Decision-making." In I. Brocas and J. Carillo, eds., 2 0 0 3.
 
-Hintzman, D. L., G. Nozawa, and M. Irmscher, 1982, "Frequency as a Nonpropositional At­
-tribute of Memory." Journal of Verbal Learning and Verbal Behavior 21: 127-141.
+Hintzman, D. L., G. Nozawa, and M. Irmscher, 1982, "Frequency as a Nonpropositional Attribute of Memory." Journal of Verbal Learning and Verbal Behavior 21: 127-141.
 
 Hirshleifer, J., and J. G. Riley, 1992, The Analytics of Uncertainty and Information. Cambridge:
 
@@ -24535,8 +24354,7 @@ Huberman, Bernardo A., 2001, The Laws of the Web: Patterns in the Ecology of Inf
 
 Cambridge, Mass.: The MIT Press.
 
-Hume, David, 1748, 2000, A Treatise of Human Nature: Being an Attempt to Introduce the Ex­
-perimental Method of Reasoning into Moral Subjects. Oxford: Oxford University Press.
+Hume, David, 1748, 2000, A Treatise of Human Nature: Being an Attempt to Introduce the Experimental Method of Reasoning into Moral Subjects. Oxford: Oxford University Press.
 Humphrey, Nicholas, 1992, A History of the Mind: Evolution and the Birth of Consciousness.
 
 New York: Copernicus.
@@ -24597,8 +24415,7 @@ ment: A Sampling Model of Confidence in Sensory Discrimination." Psychological R
 1 0 4 : 3 4 4 - 3 6 6.
 
 Juslin, P., H. Olsson, and M. Bjôrkman, 1997, "Brunswikian and Thurstonian Origins of Bias in
-Probability Assessment: On the Interpretation of Stochastic Components of Judgment." Jour­
-nal of Behavioral Decision Making 10: 189-209.
+Probability Assessment: On the Interpretation of Stochastic Components of Judgment." Journal of Behavioral Decision Making 10: 189-209.
 
 Juslin, P., H. Olsson, and A. Winman, 1998, "The Calibration Issue: Theoretical Comments on
 
@@ -24694,8 +24511,7 @@ of Copying Mate Choice." Behavioral Evolutionary Sociobiology 34: 4 4 3 - 4 4 9.
 
 Klayman, J ., 1995, "Varieties of Confirmation Bias." In J. Busemeyer, R. Hastie, and D. L. Medin,
 
-eds., Decision Making from a Cognitive Perspective. The Psychology of Learning and Moti­
-vation 32: 8 3 - 1 3 6. New York: Academic Press.
+eds., Decision Making from a Cognitive Perspective. The Psychology of Learning and Motivation 32: 8 3 - 1 3 6. New York: Academic Press.
 
 Klayman, J ., and Y.-W Ha, 1987, "Confirmation, Disconfirmation, and Information in Hypothe­
 
@@ -24723,8 +24539,7 @@ Kreps, J ., and N. B. Davies, 1993, An Introduction to Behavioral Ecology, 3rd e
 
 Kristeva, Julia, 1998, Time and Sense. New York: Columbia University Press.
 Kruger, J ., and D. Dunning, 1999, "Unskilled and Unaware of It: How Difficulties in Recognizing
-One's Own Incompetence Lead to Inflated Self-Assessments." Journal of Personality and So­
-cial Psychology 77(6): 1121-1134.
+One's Own Incompetence Lead to Inflated Self-Assessments." Journal of Personality and Social Psychology 77(6): 1121-1134.
 
 Kunda, Ziva, 1990, "The Case for Motivated Reasoning." Psychological Bulletin 108: 4 8 0 - 4 9 8.
 , 1999, Social Cognition: Making Sense of People. Cambridge: The MIT Press.
@@ -24764,8 +24579,7 @@ Larrick, R. P., 1993, "Motivational Factors in Decision Theories: The Role of Se
 Psychological Bulletin 113: 440-450.
 
 Leary, D. E., 1987, "From Act Psychology to Probabilistic Functionalism: The Place of Egon
-Brunswik in the History of Psychology." In M. G. Ash and W. R. Woodward, eds., Psychol­
-ogy in Twentieth-century Thought and Society. Cambridge: Cambridge University Press.
+Brunswik in the History of Psychology." In M. G. Ash and W. R. Woodward, eds., Psychology in Twentieth-century Thought and Society. Cambridge: Cambridge University Press.
 LeDoux, Joseph, 1998, The Emotional Brain: The Mysterious Underpinnings of Emotional Life.
 
 New York: Simon & Schuster.
@@ -24842,12 +24656,10 @@ Properties of Quarterly Earnings." Accounting Review 71: 3 1 7 - 3 3 6.
 B I B L I O G R A P HY 3 47
 
 Makridakis, S., A. Andersen, R. Carbone, R. Fildes, M. Hibon, R. Lewandowski, J. Newton,
-R. Parzen, and R. Winkler, 1982, "The Accuracy of Extrapolation (Time Series) Methods: Re­
-sults of a Forecasting Competition." Journal of Forecasting 1: 1 1 1 - 1 5 3.
+R. Parzen, and R. Winkler, 1982, "The Accuracy of Extrapolation (Time Series) Methods: Results of a Forecasting Competition." Journal of Forecasting 1: 1 1 1 - 1 5 3.
 
 Makridakis, S., C. Chatfield, M. Hibon, M. Lawrence, T. Mills, K. Ord, and L. F. Simmons, 1993,
-"The M2-Competition: A Real-Time Judgmentally Based Forecasting Study" (with commen­
-tary). International Journal of Forecasting 5: 29.
+"The M2-Competition: A Real-Time Judgmentally Based Forecasting Study" (with commentary). International Journal of Forecasting 5: 29.
 
 Makridakis, S., and M. Hibon, 2 0 0 0, "The M3-Competition: Results, Conclusions and Implica­
 
@@ -24898,8 +24710,7 @@ May, R. M., 1973, Stability and Complexity in Model Ecosystems. Princeton, N.J.:
 versity Press.
 
 May, R. S., 1986, "Overconfidence as a Result of Incomplete and Wrong Knowledge." In R. W.
-Scholz, ed., Current Issues in West German Decision Research. Frankfurt am Main, Ger­
-many: Lang.
+Scholz, ed., Current Issues in West German Decision Research. Frankfurt am Main, Germany: Lang.
 
 Mayseless, O., and A. W. Kruglanski, 1987, "What Makes You So Sure? Effects of Epistemic
 
@@ -25148,8 +24959,7 @@ versity of Nebraska Press.
 
 Penrose, Roger, 1989, The Emperor's New Mind. New York: Penguin.
 Pérez, C. J ., A. Corral,. A. Diâz-Guilera, K. Christensen, and A. Arenas, 1996, "On Self-organized
-Criticality and Synchronization in Lattice Models of Coupled Dynamical Systems." Interna­
-tional Journal of Modern Physics B 10: 1111-1151.
+Criticality and Synchronization in Lattice Models of Coupled Dynamical Systems." International Journal of Modern Physics B 10: 1111-1151.
 
 Perilli, Lorenzo, 2004, Menodoto di Nicomedia: Contributo a una storia galeniana della medicina
 
@@ -25220,8 +25030,7 @@ Posner, Richard A., 2 0 0 4, Catastrophe: Risk and Response. Oxford: Oxford Univ
 Price, Derek J. de Solla, 1965, "Networks of Scientific Papers." Science 149: 5 1 0 - 5 1 5.
 
 , 1970, "Citation Measures of Hard Science, Soft Science, Technology, and Non-science."
-In C. E. Nelson and D. K. Pollak, eds., Communication Among Scientists and Engineers. Lex­
-ington, Mass.: Heat.
+In C. E. Nelson and D. K. Pollak, eds., Communication Among Scientists and Engineers. Lexington, Mass.: Heat.
 
 B I B L I O G R A P HY 3 51
 
@@ -25336,8 +25145,7 @@ Sapolsky, Robert M., 1998, Why Zebras Don't Get Ulcers: An Updated Guide toStres
 
 Sapolsky, Robert, M., and the Department of Neurology and Neurological Sciences, Stanford
 
-University School of Medicine, 2 0 0 3, "Glucocorticoids and Hippocampal Atrophy in Neu­
-ropsychiatrie Disorders."
+University School of Medicine, 2 0 0 3, "Glucocorticoids and Hippocampal Atrophy in Neuropsychiatrie Disorders."
 
 Savage, Leonard J ., 1972, The Foundations of Statistics. New York: Dover.
 Schacter, Daniel L., 2 0 0 1, The Seven Sins of Memory: How the Mind Forgets and Remembers.
@@ -25414,8 +25222,7 @@ HIV Test Results." American Journal of Psychology 122: 2 9 7 - 3 1 1.
 
 Silverberg, Gerald, and Bart Verspagen, 2 0 0 4, "The Size Distribution of Innovations Revisited: An
 
-Application of Extreme Value Statistics to Citation and Value Measures of Patent Signifi­
-cance," www.merit.unimaas.nl/publications/rmpdf/2004/rm2004-021.pdf.
+Application of Extreme Value Statistics to Citation and Value Measures of Patent Significance," www.merit.unimaas.nl/publications/rmpdf/2004/rm2004-021.pdf.
 
 , 2 0 0 5, "Self-organization of R &D Search in Complex Technology Spaces," www
 
@@ -25842,8 +25649,7 @@ fessional Blackjack Dealers, Statistical Experts, and Lay People." Organizationa
 and Human Decision Processes 36: 4 0 6 - 4 1 6.
 
 , 1986, "Does the Expert Know? The Reliability of Predictions and Confidence Ratings of
-Experts." In Erik Hollnagel, Giuseppe Mancini, and David D. Woods, Intelligent Design Sup­
-port in Process Environments. Berlin: Springer.
+Experts." In Erik Hollnagel, Giuseppe Mancini, and David D. Woods, Intelligent Design Support in Process Environments. Berlin: Springer.
 
 Waller, John, 2002, Fabulous Science: Fact and Fiction in the History of Scientific Discovery. Ox­
 
@@ -25851,8 +25657,7 @@ ford: Oxford University Press.
 
 Wallerstein, Immanuel, 1999, "Braudel and Interscience: A Preacher to Empty Pews?" Paper
 presented at the 5th Journées Braudeliennes, Binghamton University, Binghamton, N.Y.
-Wallsten, T. S., D. V. Budescu, I. Erev, and A. Diederich, 1997, "Evaluating and Combining Sub­
-jective Probability Estimates." Journal of Behavioral Decision Making 10: 2 4 3 - 2 6 8.
+Wallsten, T. S., D. V. Budescu, I. Erev, and A. Diederich, 1997, "Evaluating and Combining Subjective Probability Estimates." Journal of Behavioral Decision Making 10: 2 4 3 - 2 6 8.
 
 Wason, P. C, 1960, "On the Failure to Eliminate Hypotheses in a Conceptual Task." Quarterly
 
@@ -25898,12 +25703,10 @@ Williams, Mark A., Simon A. Moss, John L. Bradshaw, and Nicole J. Rinehart, 2 0 
 Report: Random Number Generation in Autism." Journal of Autism and Developmental
 Disorders 32(1): 4 3 - 4 7.
 
-Williams, Robert J ., and Dennis Connolly, 2 0 0 6, "Does Learning About the Mathematics of Gam­
-bling Change Gambling Behavior?" Psychology of Addictive Behaviors 20(1): 6 2 - 6 8.
+Williams, Robert J ., and Dennis Connolly, 2 0 0 6, "Does Learning About the Mathematics of Gambling Change Gambling Behavior?" Psychology of Addictive Behaviors 20(1): 6 2 - 6 8.
 Willinger, W, D. Alderson, J. C. Doyle, and L. Li, 2 0 0 4, "A Pragmatic Approach to Dealing with
 
-High Variability Measurements." Proceedings of the ACM SIGCOMM Internet Measure­
-ment Conference, Taormina, Sicily, October 2 5 - 2 7, 2 0 0 4.
+High Variability Measurements." Proceedings of the ACM SIGCOMM Internet Measurement Conference, Taormina, Sicily, October 2 5 - 2 7, 2 0 0 4.
 
 Wilson, Edward O., 2 0 0 0, Sociobiology: The New Synthesis. Cambridge, Mass.: Harvard Univer­
 
@@ -25922,9 +25725,7 @@ Wilson, T. D., D. T. Gilbert, and D. B. Centerbar, 2 0 0 3, "Making Sense: The C
 
 Evanescence." In I. Brocas and J. Carillo, eds., 2 0 0 3.
 
-Wilson, T. D., D. B. Centerbar, D. A. Kermer, and D. T. Gilbert, 2 0 0 5, "The Pleasures of Uncer­
-tainty: Prolonging Positive Moods in Ways People Do Not Anticipate." Journal of Personal­
-ity and Social Psychology 88(1): 5-21.
+Wilson, T. D., D. B. Centerbar, D. A. Kermer, and D. T. Gilbert, 2 0 0 5, "The Pleasures of Uncertainty: Prolonging Positive Moods in Ways People Do Not Anticipate." Journal of Personality and Social Psychology 88(1): 5-21.
 
 Wilson, Timothy D., 2002, Strangers to Ourselves: Discovering the Adaptive Unconscious. Cam­
 

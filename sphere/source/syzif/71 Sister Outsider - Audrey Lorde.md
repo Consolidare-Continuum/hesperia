@@ -7,8 +7,7 @@ LORDE
 
 Sister Outsider: Essays and Speeches Copyright © 1984 by
 Audre Lorde. I wish to acknowledge the invaluable help of
-each one of the women who supported me through these writ­
-ings, with a particular note of appreciation for the patience and
+each one of the women who supported me through these writings, with a particular note of appreciation for the patience and
 insight of my editor, Nancy K. Bereano, who has helped to
 make the whole process real again.
 
@@ -59,8 +58,7 @@ Lorde's stature as a poet is undeniable. And yet there can be
 no doubt that Sister Outsider, a collection of essays and speeches
 drawn from the past eight years of this Black lesbian feminist's
 nonfiction prose, makes absolutely clear to many what some
-already knew: Audre Lorde's voice is central to the develop­
-ment of contemporary feminist theory. She is at the cutting
+already knew: Audre Lorde's voice is central to the development of contemporary feminist theory. She is at the cutting
 edge of consciousness.
 
 The fifteen selections included here, several of them published

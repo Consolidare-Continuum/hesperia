@@ -2434,8 +2434,7 @@ When we look for the implications of our prognosis for the
 
 Christian ministry of the future, it appears as though three
 
-roles ask for special attention: (1) the leader as the articula­
-tor of inner events; (2 ) the leader as a compassionate; and
+roles ask for special attention: (1) the leader as the articulator of inner events; (2 ) the leader as a compassionate; and
 
 (3 ) the leader as a contemplative critic.
 
@@ -3166,8 +3165,7 @@ When we think about leadership we usually think about
 
 one person offering ideas, suggestions, or directions to
 
-many others. We think of Mahatma Gandhi, Martin Lu­
-ther King, Joh� F. Kennedy, Charles de Gaulle-all people
+many others. We think of Mahatma Gandhi, Martin Luther King, Joh� F. Kennedy, Charles de Gaulle-all people
 
 who played an important role in modern history and found
 
@@ -3962,8 +3960,7 @@ miserably he failed to help Mr. Harrison and to tell him
 
 what he should have done, but an attempt to recognize in
 
-Mr. Harrison's condition the agony of all people: our des­
-perate cry for a human response from our brothers and sis­
+Mr. Harrison's condition the agony of all people: our desperate cry for a human response from our brothers and sis­
 
 ters.
 
@@ -6070,8 +6067,7 @@ House, 1970), p. 318.
 
 B oundaries (New York: Random House, 1970), p. 98.
 
-"The extraordinary flow of post-modern cultural influ­
-ences . . . " -Lifton, History and Human Survival, p. 318.
+"The extraordinary flow of post-modern cultural influences . . . " -Lifton, History and Human Survival, p. 318.
 
 18 This sense of immortality "represents .
 

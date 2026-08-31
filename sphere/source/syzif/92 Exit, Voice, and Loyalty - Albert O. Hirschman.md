@@ -112,11 +112,9 @@ Preface
 
 ment for this sort of project. I made ample use of the
 "right to buttonhole" the other Fellows which is, I believe,
-an essential part of the oral tradition at the Center. My in­
-tellectual debts to those who spent the year with me are
+an essential part of the oral tradition at the Center. My intellectual debts to those who spent the year with me are
 generally acknowledged in footnote references. Special
-gratitude is owed to Gabriel Almond who contributed im­
-portant critical points while being permanently supportive
+gratitude is owed to Gabriel Almond who contributed important critical points while being permanently supportive
 of my enterprise ; to a comment by Richard Lowenthal
 that led me to write Chapter 6; and to Tj alling Koopmans
 'vho helped sharpen some of the technical arguments, as
@@ -133,8 +131,7 @@ without much success.
 
 I t was gratifying that Philip G. Zimbardo, professor
 of psychology at Stanford University, found some of my
-hypotheses of sufficient interest to plan for an experimen­
-tal verification. The proposed research is described in an
+hypotheses of sufficient interest to plan for an experimental verification. The proposed research is described in an
 appendix.
 
 Hildegarde Teilhet typed and retyped the manuscript
@@ -142,8 +139,7 @@ Hildegarde Teilhet typed and retyped the manuscript
 with zest and skill.
 
 My wife, who contributed so much to my previous
-books, wisely decided she would make me enjoy the Cali­
-fornia sunshine vicariously.
+books, wisely decided she would make me enjoy the California sunshine vicariously.
 
 Stanford, California
 July 1969
@@ -235,19 +231,15 @@ Introduction
 
 and Doctrinal Background
 
-Under any economic, social, or political system, individ­
-uals, business firms, and organizations in general are
-subj ect to lapses from efficient, rational, law-abiding, vir­
-tuous, or otherwise functional behavior. No matter how
+Under any economic, social, or political system, individuals, business firms, and organizations in general are
+subj ect to lapses from efficient, rational, law-abiding, virtuous, or otherwise functional behavior. No matter how
 well a society's basic institutions are devised, failures of
 some actors to live up to the behavior which is expected of
 them are bound to occur, if only for all kinds of accidental
 reasons. Each society learns to live with a certain amount
-of such dysfunctional or mis-behavior ; but lest the misbe­
-havior feed on itself and lead to general decay, society
+of such dysfunctional or mis-behavior ; but lest the misbehavior feed on itself and lead to general decay, society
 must be able to marshal from within itself forces which
-will make as many of the faltering actors as possible re­
-vert to the behavior required for its proper functioning.
+will make as many of the faltering actors as possible revert to the behavior required for its proper functioning.
 This book undertakes initially a reconnaissance of these
 forces as they operate in the economy ; the concepts to be
 developed will, however, be found to be applicable not only
@@ -255,8 +247,7 @@ to economic operators such as business firms, but to a wide
 variety of noneconomic organizations and situations.
 
 While moralists and political scientists have been much
-concerned with rescuing individuals from immoral be­
-havior, societies from corruption, and governments from
+concerned with rescuing individuals from immoral behavior, societies from corruption, and governments from
 decay, economists have paid little attention to repairable
 lapses of economic actors. There are two reasons for this
 neglect. First, in economics one assumes either fully and
@@ -284,8 +275,7 @@ in objective supply and demand conditions is much more
 in doubt. In other words, economists have typically as­
 
 sumed that a firm that falls behind (or gets ahead) does
-so "for a good reason"; the concept-central to this book­
-of a random and more or less easily "repairable lapse" has
+so "for a good reason"; the concept-central to this bookof a random and more or less easily "repairable lapse" has
 
 been alien to their reasoning.
 
@@ -306,8 +296,7 @@ resources may well be better allocated. With this picture
 in mind, the economist can afford to watch lapses of any
 one of his patients (such as business firms) with far
 
-greater equanimity than either the moralist who is con­
-vinced of the intrinsic worth of every one of his patients
+greater equanimity than either the moralist who is convinced of the intrinsic worth of every one of his patients
 
 (individuals) or the political scientist whose patient (the
 
@@ -329,8 +318,7 @@ there are the well-known, large realms of monopoly, oli­
 
 gopoly, and monopolistic competition: deterioration in
 
-performance of firms operating in that part of the econ­
-omy could result in more or less permanent pockets of in­
+performance of firms operating in that part of the economy could result in more or less permanent pockets of in­
 
 efficiency and neglect; it must obviously be viewed with an
 
@@ -339,38 +327,29 @@ alarm approaching that of the political scientist who sees
 his polity's integrity being threatened by strife, corrup-
 
 tion, or boredom. But even where vigorous competition
-prevails, unconcern with the possibility of restoring tem­
-porarily laggard firms to vigor is hardly justified. Pre­
-cisely in sectors where there are large numbers of firms
+prevails, unconcern with the possibility of restoring temporarily laggard firms to vigor is hardly justified. Precisely in sectors where there are large numbers of firms
 competing with one another in similar conditions, declines
 in the fortunes of individual firms are just as likely to be
 due to random, subjective factors that are reversible or
-remediable as to permanent adverse shifts in cost and de­
-mand conditions. In these circumstances, mechanisms of
+remediable as to permanent adverse shifts in cost and demand conditions. In these circumstances, mechanisms of
 recuperation would play a most useful role in avoiding
 social losses as well as human hardship.
 
-At this point, it will be interjected that such a mecha­
-nism of recuperation is readily available through competi­
-tion itself. Is not competition supposed to keep a firm "on
+At this point, it will be interjected that such a mechanism of recuperation is readily available through competition itself. Is not competition supposed to keep a firm "on
 its toes"? And if the firm has already slipped, isn't it the
-experience of declining revenue and the threat of extinc­
-tion through competition that will cause its managers to
+experience of declining revenue and the threat of extinction through competition that will cause its managers to
 make a major effort to bring performance back up to
 where it should be?
 
 There can be no doubt that competition is one major
-mechanism of recuperation. It will here be argued, how­
-ever (1) that the implications of this particular function
+mechanism of recuperation. It will here be argued, however (1) that the implications of this particular function
 of competition have not been adequately spelled out and
 (2) that a major alternative mechanism can come into
-play either when the competitive mechanism is unavail­
-able or as a complement to it.
+play either when the competitive mechanism is unavailable or as a complement to it.
 
 Enter "Exit" and "Voice"
 
-The argument to be presented starts with the firm pro­
-ducing saleable outputs for customers; but it will be found
+The argument to be presented starts with the firm producing saleable outputs for customers; but it will be found
 to be largely-and, at times, principally-applicable to
 organizations (such as voluntary associations, trade
 unions, or political parties) that provide services to their
@@ -378,14 +357,10 @@ members without direct monetary counterpart. The per-
 
 formance of a firm or an organization is assumed to be
 subject to deterioration for unspecified, random causes
-which are neither so compelling nor so durable as to pre­
-vent a return to previous performance levels, provided
+which are neither so compelling nor so durable as to prevent a return to previous performance levels, provided
 managers direct their attention and energy to that task.
-The deterioration in performance is reflected most typi­
-cally and generally, that is, for both firms and other orga­
-nizations, in an absolute or comparative deterioration of
-the quality of the product or service provided.1 Manage­
-ment then finds out about its failings via two alternative
+The deterioration in performance is reflected most typically and generally, that is, for both firms and other organizations, in an absolute or comparative deterioration of
+the quality of the product or service provided.1 Management then finds out about its failings via two alternative
 routes :
 
 ( 1 ) Some customers stop buying the firm's products or
@@ -394,14 +369,11 @@ option. As a result, revenues drop, membership declines,
 and management is impelled to search for ways and means
 to correct whatever faults have led to exit.
 
-( 2 ) The firm's customers or the organization's mem­
-bers express their dissatisfaction directly to management
-or to some other authority to which management is sub­
-ordinate or through general protest addressed to anyone
+( 2 ) The firm's customers or the organization's members express their dissatisfaction directly to management
+or to some other authority to which management is subordinate or through general protest addressed to anyone
 who cares to listen : this is the voice option. As a result,
 management once again engages in a search for the causes
-and possible cures of customers' and members' dissatis­
-faction.
+and possible cures of customers' and members' dissatisfaction.
 
 The remainder of this book is largely devoted to the
 
@@ -437,36 +409,28 @@ Economic Thought
 
 Before setting out to answer some of these questions,
 I shall now step back briefly and indicate how I conceive
-the subject of this book to be related to economic and so­
-cial science thought around us.
+the subject of this book to be related to economic and social science thought around us.
 
 Talking with students of animal behavior ( at the Center
 for A dvanced Study in the Behavioral Sciences) about
 the social organization of primates I learnt about the
-smoothness and efficiency with which leadership succes­
-sion, a p roblem human societies have found so intractable,
+smoothness and efficiency with which leadership succession, a p roblem human societies have found so intractable,
 was handled in certain baboon bands. Here is how the
-process is described for a typical band of Hamadryas ba­
-boons lorded over by one male leader :
+process is described for a typical band of Hamadryas baboons lorded over by one male leader :
 
 Sub-adult males steal very young females from their
-mothers and attend them with every semblance of solici­
-tous maternal care. The young female is rigorously con­
-trolled, and repeated retrieval trains her not to go away
+mothers and attend them with every semblance of solicitous maternal care. The young female is rigorously controlled, and repeated retrieval trains her not to go away
 . At this stage there is no sexual behaviour, the female
 ..
 being yet t\vo to three years from child bearing . . . As
 these young interlopers mature and the overlord ages, the
-younger animal starts initiating group movements al­
-though the direction of eventual movement is dependent
+younger animal starts initiating group movements although the direction of eventual movement is dependent
 upon the older animal's choice. A highly complex relation-
 
 ship develops between the two animals which, by paying
-close attention to one another and by reciprocal "notifica­
-tion,
+close attention to one another and by reciprocal "notification,
 " cooperate in governing group movement. Old males
-retain command of group direction but gradually relin­
-quish sexual control over their females to the younger male
+retain command of group direction but gradually relinquish sexual control over their females to the younger male
 animal .
 It seems that eventually old males resign
 entirely from their original reproduction units but retain
@@ -481,8 +445,7 @@ veloping the direction of march.2
 Compare this marvel of gradualness and continuity with
 the violent ups and downs to which human societies have
 always been subj ect as "bad" government followed upon
-"good," and as strong or wise or good leaders were suc­
-ceeded by weaklings, fools, or criminals.
+"good," and as strong or wise or good leaders were succeeded by weaklings, fools, or criminals.
 
 The reason for which humans have failed to develop a
 finely built social process assuring continuity and steady
@@ -494,9 +457,7 @@ stride. A lower level of performance, which would mean
 disaster for baboons, merely causes discomfort, at least
 initially, to humans.
 
-The wide latitude human societies have for deteriora­
-tion is the inevitable counterpart of man's increasing pro­
-ductivity and control over his environment. Occasional
+The wide latitude human societies have for deterioration is the inevitable counterpart of man's increasing productivity and control over his environment. Occasional
 decline as well as prolonged mediocrity-in relation to
 achievable performance levels-must be counted among
 the many penalties of progress. A priori it would seem
@@ -504,13 +465,11 @@ futile, therefore, to look for social arrangements that
 
 2. John Hurrell Crook, "The Socio-Ecology of Primates," in J. H .
 Crook, ed., Social Behaviour in Animals and Man ( to be published
-by Academic Press, London) . The passage quoted summarizes re­
-search by Hans Kummer, "Social Organization of Hamadryas
+by Academic Press, London) . The passage quoted summarizes research by Hans Kummer, "Social Organization of Hamadryas
 Baboons," Bibliotheca Primatologica, no. 6 (Basle : S. Karger,
 1968) .
 
-would wholly eliminate any sort of deterioration of poli­
-ties and of their various constituent entities. Because of
+would wholly eliminate any sort of deterioration of polities and of their various constituent entities. Because of
 the surplus and the resulting latitude, any homeostatic
 controls with which human societies might be equipped
 are bound to be rough.
@@ -532,23 +491,19 @@ Political Oeconomy ( 1767) will suffice to make the point:
 
 How hurtful soever the natural and immediate effects
 of political revolutions may have been formerly, when the
-mechanism of government was more simple than at pres­
-ent, they are now brought under such restrictions, by the
+mechanism of government was more simple than at present, they are now brought under such restrictions, by the
 complicated system of modern oeconomy, that the evil
 which might otherwise result from them may be guarded
 against with ease ...
 
-The power of a modern prince, let it be by the constitu­
-tion of his kingdom ever so absolute, immediately becomes
+The power of a modern prince, let it be by the constitution of his kingdom ever so absolute, immediately becomes
 limited so soon as he establishes the plan of oeconomy . . .
 If his authority formerly resembled the solidity and force
 of the wedge (which may indifferently be made use of, for
 splitting of timber, stones and other hard bodies, and
-which may be thrown aside and taken up again at plea­
-sure) , it will at length come to resemble the delicacy of the
+which may be thrown aside and taken up again at pleasure) , it will at length come to resemble the delicacy of the
 watch, which is good for no other purpose than to mark
-the progression of time, and which is immediately de­
-stroyed, if put to any other use, or touched with any but
+the progression of time, and which is immediately destroyed, if put to any other use, or touched with any but
 
 modern oeconomy, therefore, is
 the gentlest hand .
@@ -567,26 +522,20 @@ than positively, correlated :
 
 [In the pre-coffee era, policy makers] are lyrical and
 romantic because they cannot yet defer to a product whose
-output is constantly on the increase. It is a time of child­
-hood and play. Coffee will bring maturity and seriousness.
+output is constantly on the increase. It is a time of childhood and play. Coffee will bring maturity and seriousness.
 It will not permit Colombians to continue playing fast and
-loose with the national economy. The ideological absolu­
-tism will disappear and the epoch of moderation and
-sobriety will dawn . . . Coffee is incompatible with an­
-archy.4
+loose with the national economy. The ideological absolutism will disappear and the epoch of moderation and
+sobriety will dawn . . . Coffee is incompatible with anarchy.4
 
 History has cruelly disappointed the expectations of
 both Sir James Steuart and Nieto Arteta that economic
-growth and technical progress would erect secure bar­
-riers against "despotism," "anarchy," and irresponsible
+growth and technical progress would erect secure barriers against "despotism," "anarchy," and irresponsible
 behavior in general. Yet their line of thought is hardly
 extinct. It is, in fact, not unrelate<l to today's widespread
-belief that a maj or war is unthinkable and therefore im­
-possible in the nuclear age.
+belief that a maj or war is unthinkable and therefore impossible in the nuclear age.
 
 The common assumption of these constructs is sim.ply
-stated: while technical progress increases society's s.ur­
-plus above subsistence it also introduces a mechanism of
+stated: while technical progress increases society's s.urplus above subsistence it also introduces a mechanism of
 the utmost complexity and delicacy, so that certain types
 of social misbehavior which previously had unfortunate
 
@@ -598,13 +547,10 @@ before the outbreak of the sanguinary civil disturbances known as
 la violencia, just as Sir James Steuart wrote about the definitive
 conquest of despotism not long before the rise of Napoleon.
 
-but tolerable consequences would now be so clearly dis­
-astrous that they will be more securely barred than before.
-As a result society is, and then again it is not, in a sur­
-plus situation : it is producing a surplus, but is not at
+but tolerable consequences would now be so clearly disastrous that they will be more securely barred than before.
+As a result society is, and then again it is not, in a surplus situation : it is producing a surplus, but is not at
 liberty not to produce it or to produce less of it than is
-possible; in effect, social behavior is as simply and as rig­
-idly prescribed and constrained as it is in a no-surplus,
+possible; in effect, social behavior is as simply and as rigidly prescribed and constrained as it is in a no-surplus,
 bare subsistence situation.
 
 The economist cannot fail to note the similarity of the
@@ -613,9 +559,7 @@ model contains the same basic paradox : society as a whole
 produces a comfortable and perhaps steadily increasing
 surplus, but every individual firm considered in isolation
 is barely getting by, so that a single false step will be its
-undoing. As a result, everyone is constantly made to per­
-form at the top of his form and society as a whole is oper­
-ating on its-forever expanding-"production frontier,"
+undoing. As a result, everyone is constantly made to perform at the top of his form and society as a whole is operating on its-forever expanding-"production frontier,"
 with economically useful resources fully occupied. This
 image of a relentlessly taut economy has held a privileged
 place in economic analysis, even when perfect competition
@@ -623,18 +567,15 @@ was recognized as a purely theoretical construct with little
 reality-content.
 
 These various observations add up to a syndrome,
-namely, to man's fundamentally ambivalent attitude to­
-ward his ability to produce a surplus: he likes surplus but
+namely, to man's fundamentally ambivalent attitude toward his ability to produce a surplus: he likes surplus but
 is fearful of paying its price. While unwilling to give up
 progress he hankers after the simple rigid constraints on
-behavior that governed him when he, like all other crea­
-tures, was totally absorbed by the need to satisfy his most
+behavior that governed him when he, like all other creatures, was totally absorbed by the need to satisfy his most
 basic drives. Who knows but that this hankering is at the
 root of the paradise myth ! It seems plausible, indeed, that
 the rise of man above the narrowly constrained condition
 of all other living creatures was frequently sensed, though
-it can hardly ever have been avowed, as a fall; and a radi­
-cal but basically simple act of the imagination may well
+it can hardly ever have been avowed, as a fall; and a radical but basically simple act of the imagination may well
 have metamorphosed this condition which one was really
 
 yearning for into its exact opposite, the Garden of Eden.5
@@ -644,30 +585,23 @@ the ability to produce a surplus above subsistence makes
 it possible and indeed likely that occasionally less than the
 maximum producible surplus will be produced has not
 gone wholly unnoticed. In fact, next to the traditional
-model of the permanently taut economy, elements of a the­
-ory of the slack economy begin to be available. I am not
+model of the permanently taut economy, elements of a theory of the slack economy begin to be available. I am not
 referring now to unemployment and depression economics
 -the slack associated with these phenomena results from
 malfunctions at the macroeconomic level which frustrate
 firms and individuals in their supposedly undiminished
-zeal to maximize profits and satisfaction. Nor is the ques­
-tion of slack involved in the dispute about what it is that
+zeal to maximize profits and satisfaction. Nor is the question of slack involved in the dispute about what it is that
 business firms, and particularly the large corporations,
-really do maximize : profits, growth, market shares, com­
-munity goodwill, or some composite functions of such ob­
-jectives. The assumption underlying this dispute is that,
+really do maximize : profits, growth, market shares, community goodwill, or some composite functions of such objectives. The assumption underlying this dispute is that,
 whatever it is that firms do, they do it the best they can
-even though the criterion for "best" performance is be­
-coming rather murky. Finally I am not concerned with
+even though the criterion for "best" performance is becoming rather murky. Finally I am not concerned with
 the large body of writings showing that the actions of
-conscientiously maximizing private producers and con­
-sumers may fail to produce a social optimum, because of
+conscientiously maximizing private producers and consumers may fail to produce a social optimum, because of
 the existence of monopolistic elements and externalities.
 
 5. Samuel Johnson intimated this thought in his fable about the
 Happy Valley of Abyssinia. When Prince Rasselas first analyzes the
-discontent he feels in the paradiselike valley, he compares his condi­
-tion to that of some grazing goats in the following terms: ''What
+discontent he feels in the paradiselike valley, he compares his condition to that of some grazing goats in the following terms: ''What
 makes the difference between man and all the rest of the animal
 creation? Every beast that strays beside me has the same corporal
 necessities with myself; he is hungry and crops the grass, h e is
@@ -675,8 +609,7 @@ thirsty and drinks the stream, his thirst and hunger are appeased,
 he is satisfied and sleeps; he rises again and is hungry, he is again
 fed and is at rest. I am hungry or thirsty like him, but when thirst
 or hunger cease, I am not at rest; I am like him pained with want,
-but am not, like him, satisfied with fulness." (Samuel Johnson, Ras­
-selas, II.)
+but am not, like him, satisfied with fulness." (Samuel Johnson, Rasselas, II.)
 
 Here again the difference between actual and potential
 
@@ -692,8 +625,7 @@ suggestion that firms are normally aiming at no more than
 
 a "satisfactory" rather than at the highest possible rate
 
-of profits.6 This notion was given considerable underpin­
-ning in 1963 by Richard Cyert and James March, who in
+of profits.6 This notion was given considerable underpinning in 1963 by Richard Cyert and James March, who in
 their book A Behavioral Theory of the Firm 7 introduced
 the concept of "organizational slack." At about the same
 
@@ -723,11 +655,9 @@ focusing on microeconomic slack than on any mistaken
 
 macroeconomic policies. He writes :
 
-6. H. A. Simon, "A Behavioral Model of Rational Choice," Quar­
-terly Journal of Economics, 69 : 98-118 ( 1952 ) . An early, completely
+6. H. A. Simon, "A Behavioral Model of Rational Choice," Quarterly Journal of Economics, 69 : 98-118 ( 1952 ) . An early, completely
 forgotten empirical work with a related theme has the significant
-title The Triumph of Mediocrity in Business, by 1-Iorace Secrist, pub­
-lished in 1933 by the Bureau of Business Research, Northwestern
+title The Triumph of Mediocrity in Business, by 1-Iorace Secrist, published in 1933 by the Bureau of Business Research, Northwestern
 University. The book contains an elaborate statistical demonstration
 that, over a period of time, initially high-performing firms will on
 the average show deterioration while the initial low performers will
@@ -754,39 +684,28 @@ For many (perhaps most) of these .
 ailments the
 morbid causes will be found not in the malfuilctioning of
 the life processes in the body economic, such as the low
-rate of savings, or the high level of prices, or the insuffi­
-cient allocation of national resources to research and de­
-velopment, but in specific failures of its individual cells­
-management, design, salesmanship, or the behavior of
+rate of savings, or the high level of prices, or the insufficient allocation of national resources to research and development, but in specific failures of its individual cellsmanagement, design, salesmanship, or the behavior of
 groups of labor.10
 
 I feel considerable kinship with this group of '\Vritings
 for I had adopted a similar position in dealing with the
 problem of development. The basic proposition of The
-Strategy of Economic Development (1958) was that "de­
-velopment depends not so much on finding optimal com­
-binations for given resources and factors of production as
+Strategy of Economic Development (1958) was that "development depends not so much on finding optimal combinations for given resources and factors of production as
 on calling forth and enlisting for development purposes
 resources and abilities that are hidden, scattered or badly
 utilized." 11 And the term slack actually came under my
 pen when I summarized later on the essential argument
-of that book in an article co-authored with C. E . Lind­
-blom :
+of that book in an article co-authored with C. E . Lindblom :
 
 At any one point of time, an economy's resources are
 not to be considered as rigidly fixed in amount, and more
 resources or factors of production will come into play if
-development is marked by sectoral imbalances that gal­
-vanize private entrepreneurs or public authorities into
+development is marked by sectoral imbalances that galvanize private entrepreneurs or public authorities into
 action . . . The crucial, but plausible, assumption here is
-that there is some "slack" in the economy ; and that addi­
-tional investment, hours of work, productivity, and deci­
-sion making can be squeezed out of it by pressure mecha­
-nisms.12
+that there is some "slack" in the economy ; and that additional investment, hours of work, productivity, and decision making can be squeezed out of it by pressure mechanisms.12
 
 Various reasons have been invoked for explaining slack.
-Leibenstein's emphasis is on the uncertainties surround­
-ing the production function and on the 11onmarketability
+Leibenstein's emphasis is on the uncertainties surrounding the production function and on the 11onmarketability
 
 10. M . M. Postan, "A Plague of Economists?" Encounter ( Janu­
 
@@ -797,12 +716,10 @@ ary 1968), p. 44.
 Making : Son1e Converging Views," Behavioral Science, 7 : 211-212
 ( April 1962 ) .
 
-of managerial and other skills. Cyert and March :a:efer pri­
-marily to the bargaining process that takes place among
+of managerial and other skills. Cyert and March :a:efer primarily to the bargaining process that takes place among
 the various parties whose (shaky) coalition is required
 for factors to be hired and, for output to be produced and
-marketed. I stressed rather similarly the existence of ob­
-stacles to entrepreneurial and cooperative behavior needed
+marketed. I stressed rather similarly the existence of obstacles to entrepreneurial and cooperative behavior needed
 for the making of development decisions.
 
 Those who have found that the individual economic
@@ -813,54 +730,42 @@ immediate and most obvious reaction is a determined
 search for ways and means to take up the slack, to retrieve
 the ideal of the taut economy . As long as the pressures of
 competition do not seem to be sufficient, the pressures of
-adversity will be invoked.13 Frequent changes in the envi­
-ronment, forcing the firm to be "on its toes," will be identi­
-fied as one way of inducing performance closer to the
+adversity will be invoked.13 Frequent changes in the environment, forcing the firm to be "on its toes," will be identified as one way of inducing performance closer to the
 firm's potential .14 Insofar as innovation is concerned, the
 inducing and focusing virtues of strikes and war have been
-stressed. 1 5 My own search concentrated on pressure mecha­
-nisms such as intersectoral and intrasectoral imbalances
+stressed. 1 5 My own search concentrated on pressure mechanisms such as intersectoral and intrasectoral imbalances
 and on production processes that exact high penalties for
 poor performance or do not tolerate it at all.16 Finally, the
 advocates of social revolution have contributed to this line
 of thought : one of their most seductive arguments has long
 been that only revolutionary changes can tap and liberate
-the abundant but dormant, repressed, or alienated ener­
-gies of the people.17
+the abundant but dormant, repressed, or alienated energies of the people.17
 
 1 3 . See Leibenstein, "Allocative Efficiency versus X-Efficiency."
 14 . Charles P. Bonini, "Simulation of Information and Decision
-Systems in the Firm" ( unpub. diss. Carnegie Institute of Tech­
-nology, 1962).
+Systems in the Firm" ( unpub. diss. Carnegie Institute of Technology, 1962).
 
 1 5. Nathan Rosenberg, "The Direction of Technological Change :
-Inducement Mechanisms and Focusing Devices," Economic Develop­
-ment and Cultural Change, 18 ( October 1969 ) .
+Inducement Mechanisms and Focusing Devices," Economic Development and Cultural Change, 18 ( October 1969 ) .
 
 16. Hirschman, Strategy, cbs. 5-8.
 17. See, for example, Paul Baran, The Political Economy of
 
 Growth ( New York: Monthly Review Press, 1957) .
 
-Quite a different reaction to the discovery of slack oc­
-curs when the discoverer asks himself, after having got
+Quite a different reaction to the discovery of slack occurs when the discoverer asks himself, after having got
 over his initial shock, whether slack may not after all be
 a good thing, a blessing in disguise. The idea that slack
 fulfills some important, if unintended or latent, functions
 was put forward by Cyert and March, who point out that
-it permits firms to ride out adverse market or other devel­
-opments. During such bad times slack acts like a reserve
-that can be called upon: excess costs will be cut, innova­
-tions that were already within one's grasp will at last be
+it permits firms to ride out adverse market or other developments. During such bad times slack acts like a reserve
+that can be called upon: excess costs will be cut, innovations that were already within one's grasp will at last be
 introduced, more aggressive sales behavior that had been
 shunned will now be engaged in, and so on. Slack in the
 political system has been rationalized in a very similar
 manner. The discovery that citizens do not normally use
-more than a fraction of their political resources came orig­
-inally as a surprise and disappointment to political scien­
-tists who had been brought up to believe that democracy
-requires for its functioning the fullest possible particip·a­
-tion of all citizens. But soon enough a degree of apathy
+more than a fraction of their political resources came originally as a surprise and disappointment to political scientists who had been brought up to believe that democracy
+requires for its functioning the fullest possible particip·ation of all citizens. But soon enough a degree of apathy
 was found to have some compensating advantages in as
 much as it contributes to the stability and flexibility of a
 political system and provides for "reserves" of political
@@ -870,27 +775,19 @@ situations.18
 The immediate response to the discovery of slack has
 thus been either to assert the rationality of a certain level
 of slack or to look for ways of extirpating excessive levels
-by invoking exogenous forces such as adversity, imbal­
-ances, revolution, and so on. Both these approaches look
+by invoking exogenous forces such as adversity, imbalances, revolution, and so on. Both these approaches look
 at slack as a gap of a given magnitude between actual and
-potential performance of individuals, firms, and organiza­
-tions. This book takes a further, more radical step in rec­
-ognizing the importance and pervasiveness of slack. It
+potential performance of individuals, firms, and organizations. This book takes a further, more radical step in recognizing the importance and pervasiveness of slack. It
 assumes not only that slack has somehow come into the
 
 18. See below, pp. 31-32.
 
-world and exists in given amounts, but that it is con­
-tinuously being generated as a result of some sort of
-entropy characteristic of human, surplus-producing socie­
-ties. "There's a slacker born every minute," could be its
+world and exists in given amounts, but that it is continuously being generated as a result of some sort of
+entropy characteristic of human, surplus-producing societies. "There's a slacker born every minute," could be its
 motto. Firms and other organizations are conceived to be
 permanently and randomly subject to decline and decay,
-that is, to a gradual loss of rationality, efficiency, and sur­
-plus-producing energy, no matter how well the institu­
-tional framework within which they function is designed.
-This radical pessimism, which views decay as an ever­
-present force constantly on the attack, generates its own
+that is, to a gradual loss of rationality, efficiency, and surplus-producing energy, no matter how well the institutional framework within which they function is designed.
+This radical pessimism, which views decay as an everpresent force constantly on the attack, generates its own
 cure: for as long as decay, while always conspicuous in
 some areas, is hardly in undisputed command everywhere
 and at all times, it is likely that the very process of decline
@@ -899,8 +796,7 @@ activates certain counterforces.
 Exit and Voice as Impersonations of
 Economics and Politics
 
-In examining the nature and strength of these endoge­
-nous forces of recovery, our inquiry bifurcates, as already
+In examining the nature and strength of these endogenous forces of recovery, our inquiry bifurcates, as already
 explained. Its breakup into the two contrasting, though
 not mutually exclusive, categories of exit and voice would
 be suspiciously neat if it did not faithfully reflect a more
@@ -908,8 +804,7 @@ fundamental schism: that between economics and politics.
 Exit belongs to the former realm, voice to the latter. The
 customer who, dissatisfied with the product of one firm,
 shifts to that of another, uses the market to defend his
-welfare or to improve his position; and he also sets in mo­
-tion market forces which may induce recovery on the part
+welfare or to improve his position; and he also sets in motion market forces which may induce recovery on the part
 of the firm that has declined in comparative performance.
 This is the sort of mechanism economics thrives on. It is
 neat-one either exits or one does not; it is impersonal
@@ -919,53 +814,40 @@ firm 'vith its imponderable and unpredictable elements is
 avoided and success and failure of the organization are
 communicated to it by a set of statistics ; and it is indirect
 -any recovery on the part of the declining firm comes by
-courtesy of the Invisible Hand, as an unintended by-prod­
-uct of the customer's decision to shift. In all these respects,
+courtesy of the Invisible Hand, as an unintended by-product of the customer's decision to shift. In all these respects,
 voice i s j ust the opposite of exit. It is a far more "messy"
 concept because it can be graduated, all the way from faint
 grumbling to violent protest ; it implies articulation of
 one's critical opinions rather than a private, "secret" vote
 in the anonymity of a supermarket ; and finally, it is direct
-and straightforward rather than roundabout. Voice is po­
-litical action par excellence.
+and straightforward rather than roundabout. Voice is political action par excellence.
 
-The economist tends naturally to think that his mecha­
-nism is far more efficient and is in fact the only one to be
+The economist tends naturally to think that his mechanism is far more efficient and is in fact the only one to be
 taken seriously. A particularly good illustration of this
 bias appears in a well-known essay by Milton Friedman
-which advocates the introduction of the market mecha­
-nism into public education. The essence of the Friedman
+which advocates the introduction of the market mechanism into public education. The essence of the Friedman
 proposal is the distribution of special-purpose vouchers to
 parents of school-age children ; with these vouchers the
-parents could buy educational services that would be sup­
-plied in competition by private enterprise. In j ustifying
+parents could buy educational services that would be supplied in competition by private enterprise. In j ustifying
 this scheme he says :
 
 Parents could express their views about schools directly,
-by withdrawing their children from one school and send­
-ing them to another, to a much greater extent than is now
+by withdrawing their children from one school and sending them to another, to a much greater extent than is now
 possible. In general they can now take this step only by
 changing their place of residence. For the rest, they c·an
-express their views only through cumbrous political chan­
-nels.19
+express their views only through cumbrous political channels.19
 
 19. ''The Role of Government in Education," in Robert A. Solo,
 ed., Economics and the Publio Interest ( New Brunswick, N.J. :
 Rutgers University Press, 195 5 ) , p. 129. A revised form of this essay
-was included in Friedman's Capitalism and Freedom ( Chicago: Uni­
-versity of Chicago Press, 1962 ) as ch. 6 and the cited passage ap­
-pears unchanged on p. 91. The italics are mine.
+was included in Friedman's Capitalism and Freedom ( Chicago: University of Chicago Press, 1962 ) as ch. 6 and the cited passage appears unchanged on p. 91. The italics are mine.
 
 I am not interested here in discussing the merits of the
-Friedman proposal. 20 Rather, I am citing the above pas­
-sage as a near perfect example of the economist's bias in
-favor of exit and against voice. In the first place, Fried­
-man considers withdrawal or exit as the "direct" way of
+Friedman proposal. 20 Rather, I am citing the above passage as a near perfect example of the economist's bias in
+favor of exit and against voice. In the first place, Friedman considers withdrawal or exit as the "direct" way of
 expressing one's unfavorable views of an organization. A
-person less well trained in economics might na1vely sug­
-gest that the direct way of expressing views is to express
-them ! Secondly, the decision to voice one's views and ef­
-forts to make them prevail are contemptuously referred to
+person less well trained in economics might na1vely suggest that the direct way of expressing views is to express
+them ! Secondly, the decision to voice one's views and efforts to make them prevail are contemptuously referred to
 by Friedman as a resort to "cumbrous political channels.
 "
 But what else is the political, and indeed the democratic,
@@ -973,14 +855,10 @@ process than the digging, the use, and hopefully the slow
 improvement of these very channels?
 
 In a whole gamut of human institutions, from the state to
-the family, voice, however "cumbrous," is all their mem­
-bers normally have to work with. Significantly, one major,
-if problem-plagued, effort presently underway toward bet­
-ter public schools in the large cities is to make them more
+the family, voice, however "cumbrous," is all their members normally have to work with. Significantly, one major,
+if problem-plagued, effort presently underway toward better public schools in the large cities is to make them more
 responsive to their members : decentralization has been
-advocated and undertaken as a means of making the chan­
-nels of communication between members and manage­
-ment in the public school systems less "cumbrous" than
+advocated and undertaken as a means of making the channels of communication between members and management in the public school systems less "cumbrous" than
 heretofore.
 
 But the economist is by no means alone in having a
@@ -1005,8 +883,7 @@ by side, possibly in harmony and mutual support, possibly
 also in such a fasl1ion that one gets into the other's way
 and undercuts its effectiveness.
 
-A close look at this interplay between market and non­
-market forces will reveal the usefulness of certain tools
+A close look at this interplay between market and nonmarket forces will reveal the usefulness of certain tools
 of economic analysis for the understanding of political
 phenomena, and vice v ersa. Even more important, the
 analysis of this interplay will lead to a more complete
@@ -1016,13 +893,11 @@ of view, this book can be viewed as the application to a
 new field of an argument on which much of The Strategy
 of Economic Development was based :
 
-Tradition seems to require that economists argue for­
-ever about the question whether, in any disequilibrium
+Tradition seems to require that economists argue forever about the question whether, in any disequilibrium
 situation, market forces acting alone are likely to restore
 equilibrium. Now this is certainly an interesting question.
 But as social scientists we surely must address ourselves
-also to the broader question : i s the disequilibrium situa­
-tion likely to be corrected at all, by market or nonmarket
+also to the broader question : i s the disequilibrium situation likely to be corrected at all, by market or nonmarket
 forces, or by both acting j ointly? It is our contention that
 nonmarket forces are not necessarily less "automatic''
 than market forces.21
@@ -1041,36 +916,25 @@ least, recognize the gap, and nonmarket social institutions
 will arise attempting to bridge it . . . this process is not
 necessarily conscious.22
 
-These views do not imply, as both Arrow and I im­
-mediately hastened to add, that any disequilibrium or
+These views do not imply, as both Arrow and I immediately hastened to add, that any disequilibrium or
 nonoptimal state whatever will be eliminated by some
 combination of market and nonmarket forces. Nor do they
 exclude the possibility that the two sets of forces could
-work at cross-purposes. But they leave room for a con­
-junction-which could quite possibly be inadequate-of
-these two forces, whereas both laissez-faire and interven­
-tionist doctrines have looked at market and nonmarket
+work at cross-purposes. But they leave room for a conjunction-which could quite possibly be inadequate-of
+these two forces, whereas both laissez-faire and interventionist doctrines have looked at market and nonmarket
 forces in a strictly Manichaean way, it being understood
-that the laissez-faire advocate's forces of good are the in­
-terventionist's forces of evil and vice versa.
+that the laissez-faire advocate's forces of good are the interventionist's forces of evil and vice versa.
 
-A final point. Exit and voice, that is, market and non­
-market forces, that is, economic and political mechanisms,
+A final point. Exit and voice, that is, market and nonmarket forces, that is, economic and political mechanisms,
 have been introduced as two principal actors of strictly
 equal rank and importance. In developing my play on that
-basis I hope to demonstrate to political scientists the use­
-fulness of economic concepts and to economists the us e­
-fulness of political concepts. This reciprocity has been
+basis I hope to demonstrate to political scientists the usefulness of economic concepts and to economists the us efulness of political concepts. This reciprocity has been
 lacking in recent interdisciplinary work as economists
 have claimed that concepts developed for the purpose of
-analyzing phenomena of scarcity and resource alloca­
-tion can be successfully used for explaining political phe­
-nomena as diverse as power, democracy, and nationalism.
+analyzing phenomena of scarcity and resource allocation can be successfully used for explaining political phenomena as diverse as power, democracy, and nationalism.
 They have thus succeeded in occupying large portions
-of the neighboring discipline while political scientists­
-whose inferiority complex vis-a-vis the tool-rich economist
-is equaled only by that of the economist vis-a-vis the phy­
-sicist-have shown themselves quite eager to be colonized
+of the neighboring discipline while political scientistswhose inferiority complex vis-a-vis the tool-rich economist
+is equaled only by that of the economist vis-a-vis the physicist-have shown themselves quite eager to be colonized
 and have often actively joined the invaders. Perhaps it
 
 22. "Uncertainty and the Welfare Economics of Medical Care,"
@@ -1086,36 +950,27 @@ this could be a by-product of the present essay.
 Exit
 
 The availability to consumers of the exit option, and their
-frequent resort to it, are characteristic of "normal" (non­
-perfect) competition, where the firm has competitors but
-enj oys some latitude as both price-maker and quality­
-maker-and therefore, in the latter capacity, also as a
+frequent resort to it, are characteristic of "normal" (nonperfect) competition, where the firm has competitors but
+enj oys some latitude as both price-maker and qualitymaker-and therefore, in the latter capacity, also as a
 quality-spoiler. As already mentioned, the exit option is
 \videly held to be uniquely powerful : by inflicting revenue
-losses on delinquent management, exit is expected to in­
-duce that "\vonderful concentration of the mind" akin to
-the one Samuel Johnson attributed to the prospect of be­
-ing hanged.
+losses on delinquent management, exit is expected to induce that "\vonderful concentration of the mind" akin to
+the one Samuel Johnson attributed to the prospect of being hanged.
 
 Nevertheless tl1e precise modus operandi of the exit
 option has not received much attention, to j udge from a
 determined though inevitably fragmentary search of the
 vast literature on competition.1 Most authors are content
-\vith general references to its "pressures" and " disci­
-plines."
+\vith general references to its "pressures" and " disciplines."
 
 Insofar as the apologetic literature is concerned, this
 neglect of what could be considered one of the principal
-virtues of the "free enterprise system" may be particu­
-larly surprising ; but some of the reasons for it have
-already been suggested. Tl1ose wl1o celebrate the invigorat­
-ing qualities of competition are loath to concede that the
-systen1 cotild fail for even a single moment to make every­
-body perform at his peale forn1 ; should such a failure
+virtues of the "free enterprise system" may be particularly surprising ; but some of the reasons for it have
+already been suggested. Tl1ose wl1o celebrate the invigorating qualities of competition are loath to concede that the
+systen1 cotild fail for even a single moment to make everybody perform at his peale forn1 ; should such a failure
 nevertheless occur in the case of some firm, that firm must
 ipso facto be assumed to be mortally sick and to be ready
-to leave the stage \vhile some vigorous newcomer is pre­
-sumably \Vaiting in the "'rings to take its place. This "view
+to leave the stage \vhile some vigorous newcomer is presumably \Vaiting in the "'rings to take its place. This "view
 of the American economy . . . as a biological process in
 \Vl1ich the old a11d the senile are conti nually being replaced
 by the young and the vigorous," as Galbraith puts it mock-
@@ -1124,18 +979,12 @@ by the young and the vigorous," as Galbraith puts it mock-
 
 ingly,2 does not leave room for showing how competition
 helps to cure the temporary and remediable lapses whose
-importance is stressed here. It would seem that the apolo­
-gists of competitive enterprise have missed, in their eager­
-ness to stake extravagant claims for their system, one of
+importance is stressed here. It would seem that the apologists of competitive enterprise have missed, in their eagerness to stake extravagant claims for their system, one of
 the more substantial points to be made in its favor.
 
 The technical economic literature, on the other hand,
-has been very largely concerned with discussing the con­
-ditions under which competitive market structures re­
-sult or fail to result in an efficient allocation of resources
-within a static framework. One nonstatic aspect of com­
-petition has also been amply, if rather inconclusively, scru­
-tinized, namely, its aptitude to generate innovation and
+has been very largely concerned with discussing the conditions under which competitive market structures result or fail to result in an efficient allocation of resources
+within a static framework. One nonstatic aspect of competition has also been amply, if rather inconclusively, scrutinized, namely, its aptitude to generate innovation and
 growth. But, as far as I have been able to ascertain, no
 study, systematic or casual, theoretical or empirical, has
 been made of the related topic of competition's ability to
@@ -1151,8 +1000,7 @@ are straightforward. The first one is a variant of the
 of Countervailing Power ( Boston : Houghton Mifflin Co., 1956 ) , p .
 36.
 
-3. John Maurice Clark, who had a most lively sense of the multi­
-plicity of functions competition is expected to perform, does mention
+3. John Maurice Clark, who had a most lively sense of the multiplicity of functions competition is expected to perform, does mention
 that "another thing desired is that competition should keep firms
 vigilant to eliminate inefficiencies of process or product, before losses
 have so depleted their resources as to make rehabilitation difficult
@@ -1164,62 +1012,47 @@ Strangely, the rescue of faltering firms is not among them ; the
 sentence cited is found, almost as an afterthought, at the end of a
 section entitled "Elimination of Inefficient Elements," which deals
 primarily with the "unpleasant services demanded of competition"
-in seeing to it that faltering firms are liquidated rather than re­
-stored to health.
+in seeing to it that faltering firms are liquidated rather than restored to health.
 
-familiar demand function, with the difference that quan­
-tity bought is made to depend on changes in quality rather
-than on price. Just as quality is normally assumed to re­
-main unchanged when the effect of price changes on de­
-mand are considered, so it is now convenient to assume
+familiar demand function, with the difference that quantity bought is made to depend on changes in quality rather
+than on price. Just as quality is normally assumed to remain unchanged when the effect of price changes on demand are considered, so it is now convenient to assume
 that price does not change when quality drops. Costs also
-remain constant, for by definition the quality decline re­
-sults from a random lapse in efficiency rather than from
+remain constant, for by definition the quality decline results from a random lapse in efficiency rather than from
 a calculated attempt, on the p art of the firm, to reduce
 costs by skimping on quality. Under these conditions, any
 exit whatever of consumers in response to quality decline
-will result in revenue losses ; and, of course, the more mas­
-sive the exit the greater the losses following upon any
-given quality drop. Whereas an increase in price can re­
-sult in an increase in the firm's total revenue in spite of
+will result in revenue losses ; and, of course, the more massive the exit the greater the losses following upon any
+given quality drop. Whereas an increase in price can result in an increase in the firm's total revenue in spite of
 some customer exit, revenue can at best remain unchanged
 and will normally decline steadily as quality drops. 4
 
 Secondly, there exists a management reaction function
-which relates quality improvement to the loss in sales­
-upon finding out about customer desertion, management
+which relates quality improvement to the loss in salesupon finding out about customer desertion, management
 undertakes to repair its failings. Perhaps the simplest way
-to visualize such a relationship i s as a discontinuous three­
-value function. No reaction occurs for a small drop in rev-
+to visualize such a relationship i s as a discontinuous threevalue function. No reaction occurs for a small drop in rev-
 
 4. The response of demand and revenue to quality changes can be
 graphically represented by means of a demand curve with the
-familiar downward slope if the vertical axis ef the traditional dia­
-gram is made to measure quality deterioration rather than price
+familiar downward slope if the vertical axis ef the traditional diagram is made to measure quality deterioration rather than price
 increase. This is done in Appendix A, , which also shows, in its
 lower portion, the effect of quality decline on revenue. This diagram
 makes clear that the effect on total revenue of a decline of demand
-caused by quality decline is much simpler-and more damaging­
-than that caused by price rises. In the former case, total revenue
+caused by quality decline is much simpler-and more damagingthan that caused by price rises. In the former case, total revenue
 declines whenever the quality-elasticity of demand is greater than
 zero, whereas in the case of price increases total revenue falls of
 course only if price-elasticity of demand is greater than unity. ( Unit
-elasticity of demand has no precise meaning in the case of quality­
-elasticity. When the concept of "quality-elasticity of demand" is put
+elasticity of demand has no precise meaning in the case of qualityelasticity. When the concept of "quality-elasticity of demand" is put
 together in analogy to price-elasticity, two different scales-some
 measure of quality and money-are divided into one another. Hence,
 any numerical measure other than zero and infinity is the result of
 arbitrary scaling. )
 
 enue, full recovery follows upon a drop of i11termediate
-size ; and, then again, if the revenue decline exceeds a cer­
-tain large percentage of normal sales volume, no recupera­
-tion ensues-beyond a certain point, losses will weaken
+size ; and, then again, if the revenue decline exceeds a certain large percentage of normal sales volume, no recuperation ensues-beyond a certain point, losses will weaken
 the firm so badly that bankruptcy will occur before any
 remedial measures can take effect.5
 
-The interaction between the exit function and the reac­
-tion function can now be described. If there is to be a drop
+The interaction between the exit function and the reaction function can now be described. If there is to be a drop
 in quality it is desirable that it be of the size which leads
 to recuperation. Evidently if demand is highly inelastic
 with respect to quality change, revenue losses will be quite
@@ -1228,17 +1061,13 @@ is amiss. But if demand is very elastic, the recuperation
 process will not take place either, this time because the
 firm will be wiped out before it will have had time to find
 out what hit it, much less to do something about it. This is
-a case of "too much, too soon." For the recuperation po­
-tential of the firm to come into play, it is therefore de­
-sirable that quality elasticity of demand be neither very
+a case of "too much, too soon." For the recuperation potential of the firm to come into play, it is therefore desirable that quality elasticity of demand be neither very
 large nor very small. This proposition, which is intuitively
 evident, can also be phrased as follows : For competitio11
-( exit) to work as a mechanism of recuperation from per­
-formance lapses, it is generally best for a firm to have a
+( exit) to work as a mechanism of recuperation from performance lapses, it is generally best for a firm to have a
 mixture of alert and inert customers. The alert customers
 provide the firm with a feedback mechanism which starts
-the effort at recuperation while the inert customers pro­
-vide it with the time and dollar cushion needed for this
+the effort at recuperation while the inert customers provide it with the time and dollar cushion needed for this
 effort to come to fruition. According to traditional notions,
 
 5. It would be easy to think instead of a continuous reaction
@@ -1254,14 +1083,9 @@ the firm's downfall. Such a shape of the reaction function would not
 change materially the points that will be made in the text.
 
 of course, the more alert the customers the better for the
-functioning of competitive 1narkets. Consideratio11 of com­
-petition as a recuperation mechanism reveals tl1at, al­
-though exit of some customers is essential for bringing
-the mechanism into play, it is important that other cus­
-tomers remain unaware of, or unperturbed by, quality
-decline : if all were assiduous readers of Consttmer Re­
-por ts, or determined comparison sl1oppers, disastrous in­
-stability might result and firms would miss out on chances
+functioning of competitive 1narkets. Consideratio11 of competition as a recuperation mechanism reveals tl1at, although exit of some customers is essential for bringing
+the mechanism into play, it is important that other customers remain unaware of, or unperturbed by, quality
+decline : if all were assiduous readers of Consttmer Repor ts, or determined comparison sl1oppers, disastrous instability might result and firms would miss out on chances
 to recover from their occasional lapses.
 
 As has already been noted, in perfect competition
@@ -1272,21 +1096,16 @@ deterioration, which cannot possibly affect either quality
 or price, i s reflected directly in a decline in revenue ( due
 to increasing costs ) . But assume now a small departure
 from the perfectly competitive model so that the firm has
-some latitude in varying quality ; then performance de­
-terioration can ( and is perhaps lil�ely to ) take the form
+some latitude in varying quality ; then performance deterioration can ( and is perhaps lil�ely to ) take the form
 of quality decline and if the market in which the firm sells
 is highly competitive, that is, full of highly knowledgeable
 buyers, the firm will be competed out of existence in very
-short order. In other words, while the perfectly competi­
-tive "\vorld is a feasible one from the point of view of an
-effective recuperation mechanism, the 'vorld of quasi-per­
-fect competition is not. If one gives up, as he must in most
-real cases, the concept of a firm with no latitude as to qual­
-ity whatever, then the optimal arrangement is not one as
+short order. In other words, while the perfectly competitive "\vorld is a feasible one from the point of view of an
+effective recuperation mechanism, the 'vorld of quasi-perfect competition is not. If one gives up, as he must in most
+real cases, the concept of a firm with no latitude as to quality whatever, then the optimal arrangement is not one as
 close as possible to that of perfect competition, but one
 rather far removed from it ; and incremental moves in the
-direction of perfect competition are not necessarily im­
-provements-the argument of the second best applies here
+direction of perfect competition are not necessarily improvements-the argument of the second best applies here
 in full force.
 
 Competition as Collusive Behavior
@@ -1301,50 +1120,36 @@ would come to pass : when a uniform quality decline hits
 simultaneously all firms of an industry, each firm would
 garner in some of the disgruntled customers of the other
 firms while losing some of its previous customers to its
-competitors. In these circumstances the exit option is in­
-effective in alerting management to its failings, and a
+competitors. In these circumstances the exit option is ineffective in alerting management to its failings, and a
 merger of all firms would appear to be socially desirable
--that is, monopoly would replace competition to advan­
-tage, for customer dissatisfaction would then be vented
-directly and perhaps to some effect in attempts at improv­
-ing the monopoly's management whereas under competi­
-tion dissatisfaction takes the form of ineffective flitting
-back and forth of groups of consumers from one deteri­
-orating firm to another without any firm getting a signal
+-that is, monopoly would replace competition to advantage, for customer dissatisfaction would then be vented
+directly and perhaps to some effect in attempts at improving the monopoly's management whereas under competition dissatisfaction takes the form of ineffective flitting
+back and forth of groups of consumers from one deteriorating firm to another without any firm getting a signal
 that something has gone awry.
 
 While a simultaneous and uniform deterioration of all
-firms in a certain type of business is of course highly un­
-likely, a slight modification of the previous situation serves
-to endow it with greater realism and relevance. A competi­
-tively produced new product might reveal only through
+firms in a certain type of business is of course highly unlikely, a slight modification of the previous situation serves
+to endow it with greater realism and relevance. A competitively produced new product might reveal only through
 use some of its faults and noxious side-effects. In this
 case the claims of the various competing producers are
 likely to make for prolonged experimenting of consumers
-with alternate brands, all equally faulty, and hence for de­
-lay in bringing pressure on manufacturers for effective
-improvements in the product. Competition in this situa­
-tion is a considerable convenience to the manufacturers
+with alternate brands, all equally faulty, and hence for delay in bringing pressure on manufacturers for effective
+improvements in the product. Competition in this situation is a considerable convenience to the manufacturers
 
 because it keeps consumers from complaining ; it diverts
 their energy to the hunting for the inexistent improved
 products that might possibly have been turned out by the
-competition. Under these circumstances, the manufac­
-turers have a common interest in the maintenance rather
-than in the abridgement of competition-and may con­
-ceivably resort to collusive behavior to that end.6
+competition. Under these circumstances, the manufacturers have a common interest in the maintenance rather
+than in the abridgement of competition-and may conceivably resort to collusive behavior to that end.6
 
 The argument presented so far maintained the premise
 that the unsatisfactory features of the product turned out
 by the various competing firms could be eliminated as a
 result of pressures and a resultant search for solutions.
-But even if this premise is dropped, the competitive solu­
-tion may again be inferior to one in which a single firm is
-the sole producer. For the presence of a number of com­
-peting firms fosters in this case the perpetual illusion that
+But even if this premise is dropped, the competitive solution may again be inferior to one in which a single firm is
+the sole producer. For the presence of a number of competing firms fosters in this case the perpetual illusion that
 "the grass i s always greener on the other side of the
-fence," that is, that an escape from defectiveness i s pos­
-sible through purchase of the competitor's product. Under
+fence," that is, that an escape from defectiveness i s possible through purchase of the competitor's product. Under
 monopoly, consumers 'vould learn to live with inevitable
 imperfection and would seek happiness elsewhere than in
 the frantic search for the inexistent "improved" product.
@@ -1353,17 +1158,13 @@ situations can be detected in the economic and commercial
 life around us.7 A few comments may be in order, however,
 
 6. This is even more the case if the most determined comparison
-shoppers are those who would make most trouble for the manufac­
-turers if there were no possibility of exit. The competitive mecha­
-nism then rids management of its potentially most troublesome cus­
-tomers. This argument is explained more fully below.
+shoppers are those who would make most trouble for the manufacturers if there were no possibility of exit. The competitive mechanism then rids management of its potentially most troublesome customers. This argument is explained more fully below.
 
 .
 
 .
 
-7. To help him judge I should like to provide some sample pas­
-sages from letters recently fired off, by irate owners of "lemons,"
+7. To help him judge I should like to provide some sample passages from letters recently fired off, by irate owners of "lemons,"
 ( a ) to the Ford Motor Company : " .
 You can be assured that I
 absolutely will not purchase another Ford of any kind no matter
@@ -1391,35 +1192,25 @@ At home we have a Chevrolet b us and a C hevrolet van. You may be
 
 .
 
-on the relevance of the preceding notions for organiza­
-tions other than business firms. The basic point is that
+on the relevance of the preceding notions for organizations other than business firms. The basic point is that
 competition may result merely in the mutual luring over
-of each others' customers on the part of a group of com­
-peting firms ; and that to this extent competition and prod­
-uct diversification is wasteful and diversionary especially
+of each others' customers on the part of a group of competing firms ; and that to this extent competition and product diversification is wasteful and diversionary especially
 when, in its absence, consumers would either be able to
 bring more effective pressures upon management toward
-product improvement or would stop using up their ener­
-gies in a futile search for the "ideal" product. It will be
+product improvement or would stop using up their energies in a futile search for the "ideal" product. It will be
 immediately evident that competitive political systems
-have frequently been portrayed in j ust these terms. Radi­
-cal critics of societies \Vith stable party systems have often
+have frequently been portrayed in j ust these terms. Radical critics of societies \Vith stable party systems have often
 denounced the competition of tl1e dominant parties as
-offering "no real choice." It is of course a very open ques­
-tion vvhether, in the absence of the competitive party sys­
-tem, citizens would be better able to achieve fundamental
+offering "no real choice." It is of course a very open question vvhether, in the absence of the competitive party system, citizens would be better able to achieve fundamental
 social and political changes ( assuming, for the sake of the
 argument, that such changes are desirable) . Nevertheless
-the radical critique is correct in pointing out that competi­
-tive political systems have a considerable capacity to
+the radical critique is correct in pointing out that competitive political systems have a considerable capacity to
 divert what might otherwise be a revolutionary ground
-svvell into tame discontent with the governing party. Al­
-though this capacity may normally be an asset, one can
+svvell into tame discontent with the governing party. Although this capacity may normally be an asset, one can
 surely conceive of circumstances under which it would
 turn into a liability.
 
-A less speculative illustration of the issue under discus­
-sion can be drawn from the history of the trade union
+A less speculative illustration of the issue under discussion can be drawn from the history of the trade union
 movement in this country. A preliminary step to the CIOsure that after all of this trouble and inconvenience and wasted time
 I shall never own a General Motors product again .
 have had a G.M. auto and wagon for many years now but maybe
@@ -1445,10 +1236,8 @@ AFL merger of 1 9 55 was the No-Raiding Agreement
 which was concluded between the two organizations two
 years earlier. The text of this agreement referred to a
 statistical study of all petitions over a two-year period,
-addressed by CIO-AFL unions to the National Labor Rela­
-tions Board for certification as the official bargaining
-agents in industrial plants. It w as found that most peti­
-tions were unsuccessful and that those which were
+addressed by CIO-AFL unions to the National Labor Relations Board for certification as the official bargaining
+agents in industrial plants. It w as found that most petitions were unsuccessful and that those which were
 granted were about equally divided between CIO petitions
 to displace a11 AFI_j union and AFL petitions to displace a
 CIO union. These results, so the report says, "compel the
@@ -1458,10 +1247,8 @@ involved and also of the entire trade union movement. '' 8
 As reasons for this conclusion, the document cites unrest
 and disunity created among the workers as a result of the
 raids, successful or not, and the desirability of devoting
-the energies of the trade union movement to the orga­
-nization of unaffiliated workers rather than to raiding.
-Implicit in this conclusion is the j udgment that the dis­
-advantages of exit-competition outweighed in this case its
+the energies of the trade union movement to the organization of unaffiliated workers rather than to raiding.
+Implicit in this conclusion is the j udgment that the disadvantages of exit-competition outweighed in this case its
 possible efficiency-inducing advantages and perhaps the
 assumption that these advantages can be better secured
 via the alternative mechanism-voice-which must no\v
@@ -1477,22 +1264,17 @@ John Dunlop for the reference and for discussi:-1g this point with
 Voice
 
 If the exit option has not been investigated in detail by
-economists, its existence and effect on performance-gen­
-erally presumed to be wholesome-nevertheless underlies
-many j udgments and attitudes toward economic institu­
-tions. Nothing remotely similar can be said about the voice
+economists, its existence and effect on performance-generally presumed to be wholesome-nevertheless underlies
+many j udgments and attitudes toward economic institutions. Nothing remotely similar can be said about the voice
 option. The very idea that this is another "recuperation
 mechanism" which can come into play alongside, or in lieu
 of, the exit option is likely to be met with a mixture of
-incredulity and raised eyebrows. Yet, in this age of pro­
-test, it has become quite apparent that dissatisfied con­
-sumers ( or me1nbers of an organization ) , rather than j ust
+incredulity and raised eyebrows. Yet, in this age of protest, it has become quite apparent that dissatisfied consumers ( or me1nbers of an organization ) , rather than j ust
 go over to the competition, can "kick up a fuss" and
 thereby force improved quality or service upon delinquent
 management. It is therefore both legitimate and timely to
 examine the conditions under whicl1 the voice option is
-likely to make an effective appearance, either as a com­
-plement to exit or as a substitute for it.
+likely to make an effective appearance, either as a complement to exit or as a substitute for it.
 
 To resort to voice, rather than exit, is for the customer
 or member to make an attempt at changing the practices,
@@ -1500,37 +1282,26 @@ policies, and outputs of the firm from which one buys or
 of the organization to which one belongs. Voice is here
 defined as any attempt at all to change, rather than to
 escape from, a11 obj ectionable state of affairs, whether
-through individual or collective petition to the man­
-agement directly in charge, through appeal to a higher
-authority with the intention. of forcing a change in man­
-agement, or through various types of actions and protests,
+through individual or collective petition to the management directly in charge, through appeal to a higher
+authority with the intention. of forcing a change in management, or through various types of actions and protests,
 including those that are meant to mobilize public opinion.
 It is becoming clear, as was already poi11ted out in the
 introductory chapter, that voice is nothing but a basic
-portion and function of any political system, known some­
-times also as "interest articulation." 1 Political scientists
+portion and function of any political system, known sometimes also as "interest articulation." 1 Political scientists
 1. For a recent treatment in a comparative perspective see G. A.
-Almond. and G. B . Powell, Jr., Co1nparative Politics : A Developmen­
-tal Approach ( Boston : Little, Bro\vn and Co., 1966 ) , ch . 4.
+Almond. and G. B . Powell, Jr., Co1nparative Politics : A Developmental Approach ( Boston : Little, Bro\vn and Co., 1966 ) , ch . 4.
 
 have long dealt systematically with this function and its
-various manifestations. But in doing so they have ordi­
-narily confined their attention to situations in which the
-only alternative to articulation is aquiescence or indiffer­
-ence ( rather than exit ) , while economists have refused to
-consider that the discontented consumer might be any­
-thing but either dumbly faithful or outright traitorous (to
+various manifestations. But in doing so they have ordinarily confined their attention to situations in which the
+only alternative to articulation is aquiescence or indifference ( rather than exit ) , while economists have refused to
+consider that the discontented consumer might be anything but either dumbly faithful or outright traitorous (to
 the firm he used to do business with ) . A niche thus exists
-for this book, which affirms that the choice is often be­
-tween articulation and "desertion"-voice and exit, in our
+for this book, which affirms that the choice is often between articulation and "desertion"-voice and exit, in our
 neutral terminology.
 
 First a few remarks on the working of voice in isolation,
-as compared to that of exit. As before, the initial assump­
-tion is a decline in the performance of a firm or organi­
-zation which is remediable provided the attenti on of
-management is sufficiently focused on the task. If condi­
-tions are such that the decline leads to voice rather than to
+as compared to that of exit. As before, the initial assumption is a decline in the performance of a firm or organization which is remediable provided the attenti on of
+management is sufficiently focused on the task. If conditions are such that the decline leads to voice rather than to
 exit on the part of the discontented member-customers,
 then the effectiveness of voice will increase, up to a certain
 point, with its volume. But voice is like exit in that it can
@@ -1540,8 +1311,7 @@ point hinder rather than help whatever efforts at recovery
 are undertaken. For reasons that will become clear this is
 most unlikely to happen in relations between customers
 and business firms ; but in the realm of politics-the more
-characteristic province of voice-the possibility of nega­
-tive returns to voice making their appearance at some
+characteristic province of voice-the possibility of negative returns to voice making their appearance at some
 point is by no means to be excluded.
 
 An interesting parallel appears here between economics
@@ -1559,25 +1329,20 @@ demonstrated the existence of considerable political apathy
 on the part of large sections of the p·ublic, for long periods
 of time.2 Since the democratic system appeared to survive
 this apathy rather well, it became clear that the relations
-between political activism of the citizens and stable democ­
-racy are considerably more complex than had once been
+between political activism of the citizens and stable democracy are considerably more complex than had once been
 thought. As in the case of exit, a mixture of alert and inert
-citizens, er even an alternation of involvement and with­
-drawal, may actually serve democracy better than either
+citizens, er even an alternation of involvement and withdrawal, may actually serve democracy better than either
 total, permanent activism or total apathy. One reason,
 stressed by Robert Dahl, is that the ordinary failure, on
 the part of most citizens, to use their potential political
 resources to the full makes it possible for them to react
-with unexpected vigor-by using normally unused re­
-serves of political power and influence-whenever their
-vital interests are directly threatened.8 According to an­
-other line of reasoning, the democratic political system
+with unexpected vigor-by using normally unused reserves of political power and influence-whenever their
+vital interests are directly threatened.8 According to another line of reasoning, the democratic political system
 requires "blending of apparent contradictions" : on the one
 hand, tl1e citizen must express his point of view so that the
 political elites know and can be responsive to what he
 wants, but, on the other, these elites must be allowed to
-make decisions. The citizen must thus be in turn influen­
-tial and deferential.4
+make decisions. The citizen must thus be in turn influential and deferential.4
 
 2. See Robert A. Dahl, Modern Political Analysis
 
@@ -1598,29 +1363,20 @@ different political roles to the political activists and the indifferents
 and that a balance between the two can achieve beneficient results."
 Political Life ( New York : Free Press of Glencoe, Inc., 1959 ) , p. 345.
 
-The essential reasoning behind this thesis is quite simi­
-lar to the argument made earlier 011 the need for exit to
-stay within certai11 bounds. Voice has the function of alert­
-ing a firm or organi zation to its failings, but it must then
+The essential reasoning behind this thesis is quite similar to the argument made earlier 011 the need for exit to
+stay within certai11 bounds. Voice has the function of alerting a firm or organi zation to its failings, but it must then
 give management, old or new, some time to respond to the
 pressures that have been brought to bear on it.
 
-lt.,inally, then, the relation between voice and improve­
-ment in an organization's effici ency has considerable simi­
-larity with the modus operandi of exit. This does not
+lt.,inally, then, the relation between voice and improvement in an organization's effici ency has considerable similarity with the modus operandi of exit. This does not
 mean, however, that exit and voice will always both have
 positive effects at first and destructive ones at a later
-stage. In the case of any one particular firm or organiza­
-tion and its deterioration, either exit or voice will ordi­
-narily have the role of the dominant reaction mode. The
+stage. In the case of any one particular firm or organization and its deterioration, either exit or voice will ordinarily have the role of the dominant reaction mode. The
 subsidiary mode is then likely to show up in such limited
 volume that it will never become destructive for the simple
-reason that, if deterioration proceeds, the j ob of destruc­
-tion is accomplished single-handedly by the dominant
+reason that, if deterioration proceeds, the j ob of destruction is accomplished single-handedly by the dominant
 mode. I11 the case of normally competitive business firms,
-for example, exit is clearly the dominant reaction to de­
-terioration and voice is a badly underdeveloped mecha­
-nism ; it is difficult to conceive of a situation in which there
+for example, exit is clearly the dominant reaction to deterioration and voice is a badly underdeveloped mechanism ; it is difficult to conceive of a situation in which there
 would be too mucl1 of it.
 
 Voice as a Residual of Exit
@@ -1631,22 +1387,17 @@ is unavailable. This is very nearly the situation in such
 basic social organizations as the family, tl1e state, or the
 church. In the economic sphere, the theoretical construct
 of pure monopoly would spell a no-exit situation, but the
-mixture of monopolistic and competitive elements charac­
-teristic of most real n1arket situations should make it pos­
-sible to observe the voice option in its interaction with
+mixture of monopolistic and competitive elements characteristic of most real n1arket situations should make it possible to observe the voice option in its interaction with
 the exit option.
 
-We return to the simple relationship between deteriora­
-tion of a product and declining sales, but look now at those
+We return to the simple relationship between deterioration of a product and declining sales, but look now at those
 who continue as customers. While they are not yet ready
 to desert the firm, they are likely to experience different
 degrees of unhappiness about the quality decline. Being
 presumably endowed with some capacity to articulate this
 discontent, these nonexiting customers are therefore the
 source of the voice option. The other determinant of voice
-is of course the degree of discontent of the nonexiting cus­
-tomer which depends roughly on the degree of deteriora­
-tion.
+is of course the degree of discontent of the nonexiting customer which depends roughly on the degree of deterioration.
 
 In a first approximation, then, voice can be viewed as a
 residual. Whoever does not exit is a candidate for voice
@@ -1658,28 +1409,23 @@ opportunity for exit.5
 
 In this view, the role of voice would increase as the
 opportunities for exit decline, up to the point where, with
-exit wholly unavailable, voice must carry the entire bur­
-den of alerting management to its failings. That such a
+exit wholly unavailable, voice must carry the entire burden of alerting management to its failings. That such a
 see-saw relationship between exit and voice exists in fact
 to some extent is illustrated by the many complaints about
 quality and service that have been prominently published
-for years in the Soviet press. With exit-competition play­
-ing a much smaller role in the Soviet economy than in the
+for years in the Soviet press. With exit-competition playing a much smaller role in the Soviet economy than in the
 market economies of the West, it was found necessary to
 give voice a more prominent role.
 
 Similarly, voice is in a much more commanding position
 in less developed countries where one simply cannot choose
-between as many commodities, nor between as many vari­
-eties of the same good, nor betvveen as many ways of trav­
-eling from one point of the country to another, as in an
+between as many commodities, nor between as many varieties of the same good, nor betvveen as many ways of traveling from one point of the country to another, as in an
 
 5. The relationship between the volumes of exit and voice that is
 
 indicated here is spelled out in more formal terms in Appendix A.
 
-advanced economy. Therefore, the atmosphere in the for­
-mer countries is more suffused with loud, often politically
+advanced economy. Therefore, the atmosphere in the former countries is more suffused with loud, often politically
 colored protests against poor quality of goods or services
 than it is in the advanced countries where dissatisfaction
 is more likely to take the form of silent exit.
@@ -1690,8 +1436,7 @@ voice-exposed management, we shall assume that exit is
 the dominant reaction mode. In a preliminary appraisal
 of the combined effect of exit and voice, the possibility of
 voice having a destructive rather than constructive effect
-may therefore be excluded. Obviously sales losses and com­
-plaints or protests of those who remain members are not
+may therefore be excluded. Obviously sales losses and complaints or protests of those who remain members are not
 easily added to derive an aggregate recuperative effect.6
 Both the propensity to protest and the effectiveness of
 complaints vary widely from one firm-customer complex
@@ -1703,11 +1448,8 @@ it. Whatever voice is forthcoming under those conditions
 is a net gain from the point of view of the recuperation
 mechanism. 7
 
-6. Voice may cause direct monetary losses to the firm, as, for ex­
-ample, when dissatisfied consumers are able to turn in defective mer­
-chandise. If voice appears exclusively in thi s particular incarnation,
-then its likely effectiveness in making an impression on profit-con­
-scious managers can be precisely measured against that of exit. See
+6. Voice may cause direct monetary losses to the firm, as, for example, when dissatisfied consumers are able to turn in defective merchandise. If voice appears exclusively in thi s particular incarnation,
+then its likely effectiveness in making an impression on profit-conscious managers can be precisely measured against that of exit. See
 Appendix A.
 
 7. Voice could usefully complement competition also in a more
@@ -1718,11 +1460,8 @@ of external diseconomies in p roduction and consumption (polluti on ,
 littering of beaches with beer cans, and so forth ) . Obviously, these
 diseconomies could be contained or prevented through effective
 articulation of protests on the part of those who suffer from them.
-In other words, the voice of the nonconsumer on whom the disecon­
-omies are inflicted could become a valuable adj unct to the competi­
-tive mechanism. Once thi s is realized it is perhaps less surprising
-that the voice of the consumer too has a role to play in complement­
-ing the mechanism.
+In other words, the voice of the nonconsumer on whom the diseconomies are inflicted could become a valuable adj unct to the competitive mechanism. Once thi s is realized it is perhaps less surprising
+that the voice of the consumer too has a role to play in complementing the mechanism.
 
 Exi t, Vo ice, and Loyalty
 
@@ -1732,25 +1471,19 @@ be \vithout the chances for recuperation stemming from
 exit and voice com bined bein g impaired.
 
 ( 3 ) Considering that beyond a certain point, exit has
-a destructive rather than salutary effect, the optimal pat­
-tern from the point of view of maximizing the combined
+a destructive rather than salutary effect, the optimal pattern from the point of view of maximizing the combined
 effectiveness of exit and voice over the whole process of
 deterioration may be an elastic response of demand to the
 first stages of deterioration and an inelastic one for the
-later stages. This pattern has long been held to be char­
-acteristic of consumer responses to price increases for
+later stages. This pattern has long been held to be characteristic of consumer responses to price increases for
 certain commodities which are vitally needed in limited
 quantities even at high prices, but whose consumption \Vill
-easily exrand beyond this point if prices drop. It may simi­
-larly apply to quality elasticity of demand, especially if
+easily exrand beyond this point if prices drop. It may similarly apply to quality elasticity of demand, especially if
 the only alternative available for a deteriorating product
 is a l1igher-priced substitute. Eventually, of course, as
 quality becomes abominable, demand will vanish (j ust as
-it does, because of the budget constraint, when price in­
-creases indefinitely ) , but there may well be a number of
-goods and services whose demand will move from quality­
-elastic to quality-inelastic for a wide range of quality de­
-clines. The reason for which even such a. pattern may be
+it does, because of the budget constraint, when price increases indefinitely ) , but there may well be a number of
+goods and services whose demand will move from qualityelastic to quality-inelastic for a wide range of quality declines. The reason for which even such a. pattern may be
 too much weighted by exit will be commented on at some
 length in Chapter 4.
 
@@ -1770,34 +1503,27 @@ a decline in quality first decide whether to shift to another
 firm or product regardless of their ability to influ ence the
 behavior of the firm from which they usually buy ; only if
 they do not shift, does it possibly occur to them to make a
-fuss. If the matter is p-ut in this \Vay it is immediately evi­
-dent, however, that the decision whether to exit will often
+fuss. If the matter is p-ut in this \Vay it is immediately evident, however, that the decision whether to exit will often
 be taken in the light of the prospects for the effectiv e use
 of voice. If customers are sufficiently convinced that voice
 "rill be effective, then they may well postpone exit. Hence,
 quality-elasticity of demand, and therefore exit, can also
 be viewed as depe11ding on the ability and willingness of
 the customers to take up the voice option. It may, in fact,
-be more appropriate to put matters in this way, for if de­
-terioration is a process unfolding in stages over a period
+be more appropriate to put matters in this way, for if deterioration is a process unfolding in stages over a period
 of time, the voice option is more likely to be taken at an
-early stage. Once you have exited, you have lost the oppor­
-tunity to use voice, but not vice versa ; in some situations,
+early stage. Once you have exited, you have lost the opportunity to use voice, but not vice versa ; in some situations,
 exit will therefore be a reaction of last r esort after voice
 has failed.
 
 It appears, therefore, that voice can be a substitute for
-exit, as 'veil as a complement to it. What are the condi­
-tions, then, under which voice will be preferred to exit ?
+exit, as 'veil as a complement to it. What are the conditions, then, under which voice will be preferred to exit ?
 The question can be formulated more precisely as follows :
 If a competing or substitute product B is available at the
-same price as the normally bought product A and if, be­
-cause of the deterioration of A, B is now clearly superior
-from the point of view of A's customers, under what con­
-ditions will a customer of A fail to go over to B ?
+same price as the normally bought product A and if, because of the deterioration of A, B is now clearly superior
+from the point of view of A's customers, under what conditions will a customer of A fail to go over to B ?
 
-Once voice is viewed as a substitute for exit, an impor­
-tant component of the voice option consists in this decision
+Once voice is viewed as a substitute for exit, an important component of the voice option consists in this decision
 to continue as a customer of the deteriorating and now
 inferior product ( or as a member of the deteriorating
 organization ) , for it will presumably be taken only by
@@ -1810,14 +1536,12 @@ is able to "do something" about A and because only by
 remaining a customer or member will he be able to exert
 this influence. Nevertheless, the decision not to exit in the
 face of a clearly better buy ( or organizatio11) could also be
-taken by customers ( or members ) who expect the com­
-plaints and protests of others, combined with their own
+taken by customers ( or members ) who expect the complaints and protests of others, combined with their own
 faithfulness, to be successful. Others may not care to
 switch to B when they feel that they would soon want to
 switch back, because of the costs that may be involved.
 Finally there are those who stay with A out of "loyalty,"
-that is, in a less rational, though far from wholly irra­
-tional, fashion.9 Many of these "loyalists" will actively
+that is, in a less rational, though far from wholly irrational, fashion.9 Many of these "loyalists" will actively
 participate in actions designed to change A 's policies and
 practices, but some may simply refuse to exit and suffer in
 silence, confident that things will soon get better. Thus the
@@ -1839,8 +1563,7 @@ This view of the matter shows the substitutability of B
 for A as an important element in the decision to resort to
 voice, l>ut as only one of several elements. Naturally, the
 consumer will resort to voice if A's original margin of
-superiority over B was wide enough to make it worth­
-while for him to forego a B that is superior right here and
+superiority over B was wide enough to make it worthwhile for him to forego a B that is superior right here and
 now. That will hardly ever be the case if A and B are very
 close substitutes. But given a minimum of nonsubstituta-
 
@@ -1855,19 +1578,16 @@ It is useful to compare this formulation with the related
 one provided by Edward Banfield in his study of political
 influence : " The effort an interested party makes to put its
 case before the decisionmaker will be in proportion to the
-advantage to be gained from a favorable outcome multi­
-plied by the probability of influencing the decision.10
+advantage to be gained from a favorable outcome multiplied by the probability of influencing the decision.10
 
 Banfield derived this rule from his study of public policy
 decisions in a large American city and of the participation
 of various groups and individuals in the decisionmaking
 process. He, like most political scientists looking at the
-"articulation-of-interests" function, was analyzing situa­
-tions in which individuals or groups had essentially the
+"articulation-of-interests" function, was analyzing situations in which individuals or groups had essentially the
 choice between passivity and involvement. The present
 model is more complicated because it allows for exit, as
-a ·result of the availability of a substitute product. B an­
-field's formulation correctly states the benefits of the voice
+a ·result of the availability of a substitute product. B anfield's formulation correctly states the benefits of the voice
 option, 11 but for our purposes there is need to introduce
 cost which so far has been identified as the foregoing of
 the exit option. In fact, in addition to this opportunity
@@ -1905,26 +1625,21 @@ to play an important role and to hold exit at bay, at least
 for a time. As voice tends to be costly in comparison to
 exit, the consumer will become less able to afford voice
 as tl1e number of goods and services over which he spreads
-his purchases increases-the cost of devoting even a modi­
-cum of his time to correcting the faults of any one of the
+his purchases increases-the cost of devoting even a modicum of his time to correcting the faults of any one of the
 entities he is involved with is likely to exceed his estimate
 of the expected benefits for a large number of them. This
-is also one of the reasons for which voice plays a more im­
-portant role with respect to organizations of which an
+is also one of the reasons for which voice plays a more important role with respect to organizations of which an
 individual is a member tl1an with respect to firms whose
 products he buys : the former are far less numerous than
-the latter. In addition, of course, the proliferation of prod­
-ucts tends to increase cross-elasticities of demand and to
+the latter. In addition, of course, the proliferation of products tends to increase cross-elasticities of demand and to
 that extent it \vould increase the probability of exit for a
 given deterioration in quality of any one product picked
 at random. For these reasons, voice is likely to be an active
 mechanism primarily with respect to the more substantial
-purchases and organizations in which buyers and mem­
-bers are involved.
+purchases and organizations in which buyers and members are involved.
 
 Similar conclusions with respect to the locus of the voice
-option are reached when one focuses on the other charac­
-teristic which distinguishes voice from exit, namely, the
+option are reached when one focuses on the other characteristic which distinguishes voice from exit, namely, the
 requirement that a customer must expect that he himself
 
 12. When loyalty is present, however, the cost of exit may be sub­
@@ -1935,21 +1650,15 @@ or other mnmber-customers will be able to marsl1al some
 influence or bargaining power. Obviously, this is not the
 case in atomistic markets. Voice is most likely to function
 as an important mechanism in markets with few buyers
-or where a few buyers account for an important propor­
-tion of total sales, both because it is easier for few buyers
+or where a few buyers account for an important proportion of total sales, both because it is easier for few buyers
 than for many to combine for collective action and simply
-because each one may have much at stake and wield con­
-siderable power even in isolation.13 Again, it is more com­
-mon to encounter influential members of an organization
+because each one may have much at stake and wield considerable power even in isolation.13 Again, it is more common to encounter influential members of an organization
 than buyers with a great deal of influence on the policies
 of firms from which they buy, 14 and the voice option will
-therefore be observed more frequently among organiza­
-tions than among business firms.
+therefore be observed more frequently among organizations than among business firms.
 
-Certain types of purchases may nevertheless lend them­
-selves particularly to the voice option, even though many
-buyers are involved. When the consumer has been dissatis­
-fied with an inexpensive, nondurable good, he will most
+Certain types of purchases may nevertheless lend themselves particularly to the voice option, even though many
+buyers are involved. When the consumer has been dissatisfied with an inexpensive, nondurable good, he will most
 probably go over to a different variety without making a
 fuss. But if he is stuck with an expensive durable good
 such as an automobile which disappoints him day-in and
@@ -1961,8 +1670,7 @@ because adverse word-of-mouth propaganda is p owerful
 in the case of standardized goods.
 
 The upshot of this discussion for the comparative roles
-of voice and exit at various stages of economic develop­
-ment is two-edged : the sheer number of available goods
+of voice and exit at various stages of economic development is two-edged : the sheer number of available goods
 and varieties in an advanced economy favors exit over
 voice, but the increasing importance in such an economy
 
@@ -1971,8 +1679,7 @@ voice, but the increasing importance in such an economy
 bridge, Mass. : Harvard University Press, 1965 ) .
 
 14 . See, however, the description of the influential buyer in John
-Kenneth Galbraith , American Capitalism : The Concept of Counter­
-vailing Power ( Boston : Houghton Mifflin Co., 1956) , pp. 117-123.
+Kenneth Galbraith , American Capitalism : The Concept of Countervailing Power ( Boston : Houghton Mifflin Co., 1956) , pp. 117-123.
 
 of standardized durable consumer goods requiring large
 outlays works in the opposite direction.
@@ -1984,8 +1691,7 @@ both considerable and somewhat ill-defined. Moreover,
 once voice is recognized as a mechanism with considerable
 usefulness for maintaining performance, institutions can
 be designed in such a way that the cost of individual and
-collective action would be decreased. Or, in some situa­
-tions, the rewards for successful action might be increased
+collective action would be decreased. Or, in some situations, the rewards for successful action might be increased
 for those who had initiated it.
 
 Often it is possible to create entirely new channels of
@@ -1995,33 +1701,27 @@ comparison to other interest groups. Consumers have, in
 fact, made such progress in this regard that there is now
 talk of a "consumer revolution" as part of the general
 "participation explosion. " The former phrase does not
-refer to the long established and still quite useful con­
-sumer research organizations, but to the more militant
+refer to the long established and still quite useful consumer research organizations, but to the more militant
 actions by or on behalf of consumers that have been taken
 recently, the most spectacular and resourceful being the
 campaigns of Ralph Nader, who has established himself
 as a sort of self-appointed consumer ombudsman.15 The
-appointment since 1964 of a consumer adviser to the Pres­
-ident has been a response to this emergence of the con­
-sumer voice which was quite unexpected in an economy
+appointment since 1964 of a consumer adviser to the President has been a response to this emergence of the consumer voice which was quite unexpected in an economy
 where competition-exit is supposed to solve most of the
 "sovereign" consumer's problems. As a result of these
 developments, it looks as though consumer voice will be
 institutionalized at three levels : through independent
 entrepreneurship a Ia Nader, through revitalization of
 
-15. The broad range of Nader's work, with respect to both prod­
-ucts and action, is brought out in his article ''The Great American
+15. The broad range of Nader's work, with respect to both products and action, is brought out in his article ''The Great American
 Gyp," The New York Review of Books, November 21, 1968.
 
-official regulatory agencies, and through stepped-up pre­
-ventive activities on the part of the more important firms
+official regulatory agencies, and through stepped-up preventive activities on the part of the more important firms
 selling to the public.16
 
 The creation of effective new channels through which
 consumers can communicate their dissatisfaction holds
-one important lesson. While structural constraints ( avail­
-ability of close substitutes, number of buyers, durability
+one important lesson. While structural constraints ( availability of close substitutes, number of buyers, durability
 and standardization of the article, and so forth) are of
 undoubted importance in determining the balance of exit
 and voice for individual commodities, the propensity to
@@ -2029,15 +1729,11 @@ resort to the voice option depends also on the general
 readiness of a population to complain and on the invention
 of such institutions and mechanisms as can communicate
 complaints cheaply and effectively. Recent experience even
-raises some doubts whether the structural constraints de­
-serve to be called "basic" when they can suddenly be over­
-come by a single individual such as Ralph Nader.17
+raises some doubts whether the structural constraints deserve to be called "basic" when they can suddenly be overcome by a single individual such as Ralph Nader.17
 
-Thus, while exit requires nothing but a clearcut either­
-or decision, voice is essentially an art constantly evolving
+Thus, while exit requires nothing but a clearcut eitheror decision, voice is essentially an art constantly evolving
 in new directions. This situation makes for an important
-bias in favor of exit when both options are present : cus­
-tomer-members will ordinarily base their decision on past
+bias in favor of exit when both options are present : customer-members will ordinarily base their decision on past
 experience with the cost and effectiveness of voice even
 though the possible discovery of lower cost and greater
 effectiveness is of the very essence of voice. The presence
@@ -2055,8 +1751,7 @@ community action in Venezuela, see Lisa Redfield Peattie, The View
 from the Barrio ( Ann Arbor, Mich. : University of Michigan Press,
 1968) , ch. 7 ; the "art" of eliciting voice, this time in low-income
 neighborhoods of American cities, is also the subject of her article
-"Reflections on Advocacy Planning," Journal of the American Insti­
-tute of Planners ( March 1968) , pp. 80-88.
+"Reflections on Advocacy Planning," Journal of the American Institute of Planners ( March 1968) , pp. 80-88.
 
 A Special Difficulty
 
@@ -2084,19 +1779,13 @@ The presence of a ready alternative to rail transport
 makes it less, rather than more, likely that the weaknesses
 of the railways will be fought rather than indulged. With
 truck and bus transportation available, a deterioration in
-rail service is not nearly so serious a matter as if the rail­
-ways held a monopoly for long-distance transport-it ca11
-be lived vvitl1 for a long time without arousing strong pub­
-lic pressures for the basic and politically difficult or even
+rail service is not nearly so serious a matter as if the railways held a monopoly for long-distance transport-it ca11
+be lived vvitl1 for a long time without arousing strong public pressures for the basic and politically difficult or even
 explosive reforms in administration and management that
-would be required. This may be the reason public enter­
-prise, not only in Nigeria but in many other countries, has
-strangely been at its \Veakest in sectors such as transpor­
-tation and education where it is subj ected to competition :
+would be required. This may be the reason public enterprise, not only in Nigeria but in many other countries, has
+strangely been at its \Veakest in sectors such as transportation and education where it is subj ected to competition :
 instead of stimulating improved or top performance, the
-presence of a ready and satisfactory substitute for the ser­
-vices public enterprise offers merely deprives it of a pre­
-cious feedback mechanism that operates at its best when
+presence of a ready and satisfactory substitute for the services public enterprise offers merely deprives it of a precious feedback mechanism that operates at its best when
 tl1e customers are securely locked in. For the management
 
 A Special Difficulty in Combining Exit and Voice
@@ -2110,41 +1799,31 @@ will therefore "raise hell." 1
 
 In Nigeria, then, I had encountered a situation where
 the combination of exit and voice was particularly noxious
-for any recovery : exit did not have its usual attention­
-focusing effect because the loss of revenue \vas not a mat­
-ter of the utmost gravity for management, while voice
+for any recovery : exit did not have its usual attentionfocusing effect because the loss of revenue \vas not a matter of the utmost gravity for management, while voice
 did not work as long as the most aroused and therefore
 the potentially most vocal customers were the first ones to
 abandon the railroads for the trucks. It is particularly this
 last phenomenon that must be looked at more closely, for
 if it has any generality, then the chances that voice will
 ever act in conj unction with exit would be poor and voice
-would be an effective recuperati on mechanism only in con­
-ditions of full monopoly "when the customers are securely
+would be an effective recuperati on mechanism only in conditions of full monopoly "when the customers are securely
 locked in."
 
-As a preliminary to generalizing about this sort of situ­
-ation, another example, closer to home, may be helpful. If
+As a preliminary to generalizing about this sort of situation, another example, closer to home, may be helpful. If
 public and private schools somewhere in the United States
 are substituted in the story for the railroads and lorries of
 Nigeria, a rather similar result follows. Suppose at some
 point, for whatever reason, the public schools deteriorate.
-Thereupon, increasing numbers of quality-education-con­
-scious parents will send their children to private schools.2
-This "exit" may occasion some impulse toward an im­
-provement of the public schools ; but here again this im-
+Thereupon, increasing numbers of quality-education-conscious parents will send their children to private schools.2
+This "exit" may occasion some impulse toward an improvement of the public schools ; but here again this im-
 
 1. Develop1nent Projects Observed (Washington : Brookings Insti­
 
 tution , 1967 ) , pp . 146-147.
 
 2. Private schools being costly and income distribution unequal,
-the public schools will of course b e deserted primarily by the wealth­
-i er parents. Nevertheless, the willingness to m ake a financial sacri­
-fice for the sake of improving the children' s education differs widely
--vvithin a given income class, especially at intermediate levels of in­
-come. In its pure form, the phenomenon here described is best visual­
-ized for a school di strict with many middle-class parents for whom
+the public schools will of course b e deserted primarily by the wealthi er parents. Nevertheless, the willingness to m ake a financial sacrifice for the sake of improving the children' s education differs widely
+-vvithin a given income class, especially at intermediate levels of income. In its pure form, the phenomenon here described is best visualized for a school di strict with many middle-class parents for whom
 
 pulse is far less significant than the loss to the public
 schools of those member-customers who would be most
@@ -2152,25 +1831,16 @@ motivated and determined to put u.P a fight against the
 deterioration if they did not have the alternative of the
 private schools.
 
-In the preceding examples, insensitivity to exit is ex­
-hibited by public agencies that can draw on a variety of
-financial resources outside and independent of sales rev­
-enue. But situations in which exit is the predominant re­
-action to decline while voice might be more efficacious in
+In the preceding examples, insensitivity to exit is exhibited by public agencies that can draw on a variety of
+financial resources outside and independent of sales revenue. But situations in which exit is the predominant reaction to decline while voice might be more efficacious in
 arresting it can also be observed in the spl1ere of private
-business enterprise. The relation between corporate man­
-agement and the stockholders is a case in point. When the
-management of a corporation deteriorates, the first reac­
-tion of the best-informed stockholders is to look around
-for the stock of better-managed companies. In thus orient­
-ing themselves toward exit, rather than toward voice, in­
-vestors are said to follow the Wall Street rule that "if you
+business enterprise. The relation between corporate management and the stockholders is a case in point. When the
+management of a corporation deteriorates, the first reaction of the best-informed stockholders is to look around
+for the stock of better-managed companies. In thus orienting themselves toward exit, rather than toward voice, investors are said to follow the Wall Street rule that "if you
 do not like the management you should sell your stock."
 According to a well-known manual this rule "results in
-perpetuating bad management and bad policies." Nat­
-urally it is not so much the Wall .Street rule that is at fault
-as the ready availability of alternative investment oppor­
-tunities in the stock market which makes any resort to
+perpetuating bad management and bad policies." Naturally it is not so much the Wall .Street rule that is at fault
+as the ready availability of alternative investment opportunities in the stock market which makes any resort to
 voice rather than to exit unthinkable for any but the most
 committed stockholder.8
 
@@ -2192,19 +1862,16 @@ price may be" ( p. 674 ) .
 A Special Difficulty in Combining Exit and Voice
 
 While it is most clearly revealed in the private-public
-school case, one characteristic is crucial in all of the fore­
-going situations : those customers who care most about the
+school case, one characteristic is crucial in all of the foregoing situations : those customers who care most about the
 quality of the product and who, therefore, are those who
 would be the most active, reliable, and creative agents of
-voice are for that very reason also those who are ap­
-parently likely to exit first in case of deterioration.
+voice are for that very reason also those who are apparently likely to exit first in case of deterioration.
 
 One interest of this observation is that it could define a
 whole class of economic structures where a tight monopoly
 would be preferable, within the framework of the "slack"
 or "fallible" economy, to competition. But before j umping
-to this conclusion, we must take a closer look at the ob­
-servation by translating it into the ordinary language of
+to this conclusion, we must take a closer look at the observation by translating it into the ordinary language of
 economic analysis.
 
 In terms of that language, the situations j ust described
@@ -2216,28 +1883,21 @@ then that with a decline in quality the opposite seems quite
 plausible : Is it possible that the consumers w ho drop out
 first as price increases are no t the same as t hose who exit
 first when quality declines ? 4 If this question 'vere to be
-answered in the affirmative, it would be easier to under­
-stand why combining exit and voice is so troublesome in
+answered in the affirmative, it would be easier to understand why combining exit and voice is so troublesome in
 some situations.
 
-The basic reason for our paradox lies in the still insuffi­
-ciently explored role of quality ( as contrasted with price )
-in economic life. Traditional demand analysis is over­
-whelmingly in terms of price and quantity, categories
+The basic reason for our paradox lies in the still insufficiently explored role of quality ( as contrasted with price )
+in economic life. Traditional demand analysis is overwhelmingly in terms of price and quantity, categories
 which have the immense advantage of being recorded,
 measurable, and finely divisible. Quality changes have
 usually been dealt with by economists and statisticians
 
-4. Appendix C refers to this possibility ·as the "reversal phenom­
-enon." The discussion in the following pages should be read in con­
-j unction with Appendixes C and D by those who find diagrams
+4. Appendix C refers to this possibility ·as the "reversal phenomenon." The discussion in the following pages should be read in conj unction with Appendixes C and D by those who find diagrams
 clearer than language.
 
 through the concept of the equivalent price or quantity
 change. An article of poor quality can often be considered
-to be simply less in quantity than the same article of stan­
-dard quality ; this is the case, for example, of the automo­
-bile tire which lasts on the average only half as long ( in
+to be simply less in quantity than the same article of standard quality ; this is the case, for example, of the automobile tire which lasts on the average only half as long ( in
 terms of mileage) as a high quality tire. Alternatively,
 poor quality can often be translated into higher costs and
 prices ; for example, increased pilferage in the rendering
@@ -2249,39 +1909,32 @@ than before." To the extent that this statement is correct,
 there would be no reason to expect the effect of quality
 deterioration on demand ( that is, for who gets out first )
 to be any different from the effect of a uniform rise in
-price. In other words, if a quality decline can be fully ex­
-pressed as an equivalent rise in price that is uniform for
+price. In other words, if a quality decline can be fully expressed as an equivalent rise in price that is uniform for
 all buyers of the article, the effects on customer exit of the
 quality decline and of the equivalent rise in price would be
 identical .
 
-The crucial point can now be made. For any one indi­
-vidual, a quality change can be translated into equivalent
+The crucial point can now be made. For any one individual, a quality change can be translated into equivalent
 price change. But this equivalence is frequently diffe'rent
 for different customers of the article because appreciation
 of quality differs widely atnong them. This is so to some
 extent even in the just mentioned case of automobile tires
-and of increased pilferage of freight sent by rail. Appre­
-ciation of the lo11ger life of quality tires will depend on
+and of increased pilferage of freight sent by rail. Appreciation of the lo11ger life of quality tires will depend on
 the time discount of each individual buyer. In the case of
 rail freight, the increase in the insurance premium fully
 offsets only the increase in average direct monetary costs
 which is occasioned to the shipper by the worsening in
 service. For some shippers this may be all they care about,
-but there will surely be others for whom the lessened relia­
-bility of rail service represents costs ( in inconvenience,
+but there will surely be others for whom the lessened reliability of rail service represents costs ( in inconvenience,
 
 A Special D ifficulty in Combining Exit and Voice
 
-reputation of their O\Vn reliability, and so forth ) that can­
-not be fully made good through an insurance scheme. That
+reputation of their O\Vn reliability, and so forth ) that cannot be fully made good through an insurance scheme. That
 appreciation of quality-of \vine, cheese, or of education
 for one's cl1ildren-differs widely among differe11t groups
 of people is surely 110 great discovery. It implies, however,
-that a given deterioration in quality vvill inflict very differ­
-ent losses ( that is, different equivalent price increases ) on
-different customers ; someone who had a very high con­
-sumer surplus before deterioration precisely because he i s
+that a given deterioration in quality vvill inflict very different losses ( that is, different equivalent price increases ) on
+different customers ; someone who had a very high consumer surplus before deterioration precisely because he i s
 a connoisseu r and \vould b e vvilling t o pay, say, twice the
 actual price of the article at its original quality, may drop
 out as a customer as soon as quality deteriorates, provided
@@ -2289,12 +1942,10 @@ a nondeteriorated competing product is available, be it at
 a much higher price.
 
 Here, then, is the rationale for our observation : in the
-case of "connoisseur goods"-and, as the example of edu­
-cation i11dicates, this category is by no means limited to
+case of "connoisseur goods"-and, as the example of education i11dicates, this category is by no means limited to
 quality wines-tl1e consumers "\Vho drop out when quality
 declines are not necessarily the marginal consumers who
-would drop out if price increased, but may be intramar­
-ginal consumers with considerable consumer surplus ; or,
+would drop out if price increased, but may be intramarginal consumers with considerable consumer surplus ; or,
 put more simply, the consumer who is rather insensitive
 to price increases is often likely to be highly sensitive to
 quality declines.
@@ -2306,8 +1957,7 @@ Therefore, they are the ones who are most likely to make
 a fuss in case of deterioration until such time as they do
 exit. "You can actively flee, then, and you can actively stay
 put." This phrase of Eril\: Erikson 5 applies with full force
-to the choice that is typically made by the quality-con­
-scious consumer or the member who cares deeply about
+to the choice that is typically made by the quality-conscious consumer or the member who cares deeply about
 the policies pursued by the organization to which he be-
 
 5. Insight and Responsibility ( New York : W. W. Norton & Co.,
@@ -2315,45 +1965,33 @@ the policies pursued by the organization to which he be-
 Inc . , 1964 ) , p. 86.
 
 longs. To make that kind of consumer and member
-"actively stay put" for a while should be a matter of con­
-siderable concern for many firms and organizations, and
-particularly for those, of course, that respond more read­
-ily to voice than to exit.
+"actively stay put" for a while should be a matter of considerable concern for many firms and organizations, and
+particularly for those, of course, that respond more readily to voice than to exit.
 
 Before the varieties of consumer behavior in the case of
 connoisseur goods are further explored, a brief homage to
 the hoary concept of consumer surplus is in order, for it
-appears to have the useful property of measuring the po­
-tential for the exercise of influence on the part of different
-consumers. This potential is the counterpart of the con­
-cept's traditional content. Consumer surplus measures the
+appears to have the useful property of measuring the potential for the exercise of influence on the part of different
+consumers. This potential is the counterpart of the concept's traditional content. Consumer surplus measures the
 gain to the consumer of being able to buy a product at its
 market price : the larger that gain the more likely is it that
 the consumer will be motivated to "do something" to have
-that gain safeguarded or restored. In this way it is possi­
-ble to derive the chances for political action from a concept
+that gain safeguarded or restored. In this way it is possible to derive the chances for political action from a concept
 that has dwelt so far exclusively in the realm of economic
 theory.6
 
 Evidently the nature of the available substitute has
-something to do with the question whether or not connois­
-seur goods will be rapidly forsaken, in case of deteri­
-oration, by the more quality-conscious customers. In the
+something to do with the question whether or not connoisseur goods will be rapidly forsaken, in case of deterioration, by the more quality-conscious customers. In the
 discussion of the exit and voice options in Chapter 3, it
-was assumed that the only available competing or substi­
-tute good was initially of inferior quality, but carried the
-same price tag. Usually, of course, many other combina­
-tions of price and quality exist : in particular, consumers
+was assumed that the only available competing or substitute good was initially of inferior quality, but carried the
+same price tag. Usually, of course, many other combinations of price and quality exist : in particular, consumers
 may often have had some hesitation between the good they
 actually bought, a better-quality substitute with a higher
 price, and a poorer-quality substitute with a lower price.
 Suppose now that only the former type of substitute exists
 
-6. For a similar transformation of a time-honored economic con­
-cept, the gain from trade, into a political category, namely the influ­
-ence a trading partner may acquire in the gain-receiving country,
-see my National Power and the Structure of Foreign Trade ( Berke­
-ley : University of California Press, 1945, rev. ed. 1969) , ch. 2.
+6. For a similar transformation of a time-honored economic concept, the gain from trade, into a political category, namely the influence a trading partner may acquire in the gain-receiving country,
+see my National Power and the Structure of Foreign Trade ( Berkeley : University of California Press, 1945, rev. ed. 1969) , ch. 2.
 
 A Special Difficulty in Combining Exit and Voice
 
@@ -2362,34 +2000,26 @@ bought by a group of consumers deteriorates. In this <;ase
 it is immediately plausible that the consumers who valued
 the deteriorating good most will ,be the first ones to decide
 that it is worth their while to go over to the higher-quality,
-higher-price substitute. If only a lower-price, lower-qual­
-ity good is available, on the other hand, these highly qual­
-ity-conscious consumers, even though they suffer greatly
+higher-price substitute. If only a lower-price, lower-quality good is available, on the other hand, these highly quality-conscious consumers, even though they suffer greatly
 as a result of quality deterioration, will stick with it longer
 than their less quality-conscious colleagues. These and
 similar propositions can be easily proved by indifference
 curve analysis.7
 
-Hence the rapid exit of the highly quality-conscious cus­
-tomers-a situation which paralyzes voice by depriving it
-of its principal agents-is tied to the availability of bet­
-ter-quality substitutes at higher prices. Such a situation
+Hence the rapid exit of the highly quality-conscious customers-a situation which paralyzes voice by depriving it
+of its principal agents-is tied to the availability of better-quality substitutes at higher prices. Such a situation
 has, for example, been observed in the field of housing.
 When general conditions in a neighborhood deteriorate,
 those who value most highly neighborhood qualities such
 as safety, cleanliness, good schools, and so forth will be
-the first to move out ; they will search for housing in some­
-what more expensive neighborhoods or in the suburbs and
+the first to move out ; they will search for housing in somewhat more expensive neighborhoods or in the suburbs and
 will be lost to the citizens' groups and community action
 programs that would attempt to stem and reverse the tide
 of deterioration. Reverting to the public-private school
 case, it now appears that the "lower-priced" public schools
 have several strikes against them in their competition
-with private schools : first, if and when there is a deteri­
-oration in the quality of public school education these
-schools will lose the children of those highly quality-con­
-scious parents who might otherwise have fought deteri­
-oration ; second, if, thereafter, quality comes to decline in
+with private schools : first, if and when there is a deterioration in the quality of public school education these
+schools will lose the children of those highly quality-conscious parents who might otherwise have fought deterioration ; second, if, thereafter, quality comes to decline in
 the private schools, then this type of parents will keep
 their children there for much longer than was the case
 
@@ -2399,26 +2029,22 @@ a number of other points made in this section.
 
 when the public schools deteriorated. Hence, when public
 and private schools coexist, with the quality of education
-in the latter being higher, deterioration will be more stren­
-uously fought "from \vithin" in the case of the private
+in the latter being higher, deterioration will be more strenuously fought "from \vithin" in the case of the private
 than i11 that of the public schools. And because exit is not
 a particularly powerful recuperation mechanism in the
 case of public schools-it is far more so in that of private
 schools which have to make ends meet-the failure of one
-of our two mechanisms is here co1npounded by the ineffi­
-ciency of the other.
+of our two mechanisms is here co1npounded by the inefficiency of the other.
 
 The relevance of the foregoing observation is greatest
 in certain important discontinuous choices and decisions,
 such as between two kinds of educational institutions or
 two modes of transportation.8 If one assumes a complete
-and continuous array of varieties, from cheap and poor­
-quality to expensive and high-quality, then deterioration
+and continuous array of varieties, from cheap and poorquality to expensive and high-quality, then deterioration
 of any but the top and bottom variety will rapidly lead to
 a combination of exits : the quality-conscious consumers
 move to the higher-price, higher-quality products and the
-price-conscious ones go over to the lower-price, lo\ver­
-quality varieties ; the former will still tend to get out first
+price-conscious ones go over to the lower-price, lo\verquality varieties ; the former will still tend to get out first
 
 8. In Appendix D it is shown that the reversal pheno1nenon can
 occur only when there are at least three goods : the intermediate
@@ -2426,20 +2052,15 @@ variety which is the one that deteriorates or whose p rice increases,
 another variety that is higher-priced and higher-quality, and a
 third with the opposite characteristics. In this constellation the
 less demanding consumers will exit first ( toward the lower-priced,
-lo\ver-quality good ) when the price of the intermediate good in­
-creases, '\Vhereas the quality-conscious consumer will exit first ( to­
-ward the higher-p riced, higher-quality good ) when quality de­
-creases. Even though in the above example only two goods are made
+lo\ver-quality good ) when the price of the intermediate good increases, '\Vhereas the quality-conscious consumer will exit first ( toward the higher-p riced, higher-quality good ) when quality decreases. Even though in the above example only two goods are made
 explicit, namely public and private school education, the required
 third alternative on the "other side" of the normally bought good
 \Vould be present if there were a price increase for public education,
 namely, inforn1al education at home. This would no doubt be the
-alternative chosen by many of the less demanding consumers if pub­
-lic schools ceased being free. Hence the presence of the reversal
+alternative chosen by many of the less demanding consumers if public schools ceased being free. Hence the presence of the reversal
 phenomenon cannot be ruled out in this case. l\. similar reasoning
 applies to other seemingly dichotomous choices : upon looking more
-closely, it is usually found that a third alternative exists ; some in­
-ferior commodity can b e found in case the price of the usually
+closely, it is usually found that a third alternative exists ; some inferior commodity can b e found in case the price of the usually
 bought good increases.
 
 A Special D ifficulty in Combining Exit and Voice
@@ -2447,17 +2068,14 @@ A Special D ifficulty in Combining Exit and Voice
 when it is quality that declines rather than price that
 rises, but the latter will not be far behind.
 
-The proposition that voice is likely to play a more im­
-portant role in opposing deterioration of high-quality
+The proposition that voice is likely to play a more important role in opposing deterioration of high-quality
 products than of lo"\\rer-quality products can nevertheless
 be maintained for the case of a good with many varieties,
 if these varieties can be assumed not to be spread with
 equal density over the whole quality range. If only because
 of economies of scale, it is plau sible that density is lower
-in the upper ranges of quality than in the lower and mid­
-dle ranges. If this is so then deterioration of a product in
-the upper quality ranges has to be fairly substantial be­
-fore the quality-conscious will exit and switch to the 11ext
+in the upper ranges of quality than in the lower and middle ranges. If this is so then deterioration of a product in
+the upper quality ranges has to be fairly substantial before the quality-conscious will exit and switch to the 11ext
 better variety. Hence the scope for, and resort to, the
 voice option will be greatest in these ranges ; it will be
 comparatively slight in the medium- and
@@ -2467,37 +2085,27 @@ ranges.
 This finding permits two inferences. First, it can be
 related to the discussion of education which suggested that
 the role of voice in fending off deterioration is particularly
-important for a number of essential services largely defin­
-ing what has come to be called the "quality of life." Hence,
+important for a number of essential services largely defining what has come to be called the "quality of life." Hence,
 a disconcerting, though far from unrealistic, conclusion
 emerges : since, in the case of these services, resistance to
-deterioration requires voice and since voice will be forth­
-coming more readily at the upper than at the lower qual­
-ity ranges, the cleavage between the quality of life at the
+deterioration requires voice and since voice will be forthcoming more readily at the upper than at the lower quality ranges, the cleavage between the quality of life at the
 top and at the middle or lower levels 'viii tend to become
-more marked. This would be particularly the case in socie­
-ties with upward social mobility. In societies which inhibit
+more marked. This would be particularly the case in societies with upward social mobility. In societies which inhibit
 passage from one social stratum to another, resort to tl1e
 voice option is automatically strengthened : everyone has
 a strong motivation to defend the quality of life at his
 own station. That cleavages between the upper and lower
-classes tend to widen and to become more rigid in up­
-wardly mobile societies has become increasingly obvious ;
+classes tend to widen and to become more rigid in upwardly mobile societies has become increasingly obvious ;
 
-but it has not been an easy observation to make in a cul­
-ture in which it had long been taken for granted that
-equality of opportunity combined with upward social mo­
-bility would assure both efficiency and social j ustice.9
+but it has not been an easy observation to make in a culture in which it had long been taken for granted that
+equality of opportunity combined with upward social mobility would assure both efficiency and social j ustice.9
 
 A rather different inference results if the assumption
 of a progressive thinning out of varieties at the upper end
-of the quality scale i s brought into contact with the plausi­
-ble notion that a combination of exit and voice is needed
-for best results. If this notion is accepted, then the re­
-cuperation mechanism may rely too much on exit at the
+of the quality scale i s brought into contact with the plausible notion that a combination of exit and voice is needed
+for best results. If this notion is accepted, then the recuperation mechanism may rely too much on exit at the
 lower end of the quality scale, but suffer from a deficiency
-of exit at the upper end. An illustration of the latter prop­
-osition will be found toward the end of the book.
+of exit at the upper end. An illustration of the latter proposition will be found toward the end of the book.
 
 9. The fallacies of this belief were laid bare in Michael Young's
 incisive satire The Rise of Meritocracy ( 1958, Penguin Edition
@@ -2507,8 +2115,7 @@ How Monopoly Can be Comforted
 
 by Competition *
 
-The realization that a tight monopoly is preferable un­
-der certain circumstances to a looser arrangement in
+The realization that a tight monopoly is preferable under certain circumstances to a looser arrangement in
 which competition is present comes hard to a Western
 economist. Nonetheless, the preceding argument compels
 recognition that a no-exit situation will be superior to a
@@ -2524,34 +2131,28 @@ once these customers or members are securely locked in.
 There are doubtless many situations in which the first
 condition applies-some additional examples will be given
 in this and later chapters. The second condition is a very
-large subject indeed : as was already pointed out, to de­
-velop "voice" within an organization is synonymous with
+large subject indeed : as was already pointed out, to develop "voice" within an organization is synonymous with
 the history of democratic control through the articulation
 and aggregation of opinions and interests.
 
 By itself, the fact that the members or customers are
 locked in cannot therefore ensure that an effective volume
 of voice will be forthcoming. As will be argued below, one
-important way of bringing influence to bear on an organi­
-zation is to threaten exit to the rival organization. But this
+important way of bringing influence to bear on an organization is to threaten exit to the rival organization. But this
 threat cannot be made when there is no rival, so that voice
 is not only handicapped when exit is possible, but also,
 though in a quite different way, when it is not. Neverthe-
 
 * In writing this chapter I inexcusably failed to refer to John
-Hicks's celebrated statement of 35 years ago : "The best of all mo­
-nopoly profits i s a quiet life." H ad I remembered it, I would have
+Hicks's celebrated statement of 35 years ago : "The best of all monopoly profits i s a quiet life." H ad I remembered it, I would have
 been rather less critical about the economist's neglect of the " lazy
 monopolist. " At the sa1ne time, I would have been able to expres s
 even more sharply the princip al point of the chapter : On certain
 assumption s about the existence and inten sity of voice, competition
-can afford an even quieter life than does monopoly.-A . O . H . , Sep­
-tember 30, 1 9 7 1 .
+can afford an even quieter life than does monopoly.-A . O . H . , September 30, 1 9 7 1 .
 
 less, it is often possible to make probabilistic statements
-such as : considering the authority structure and respon­
-siveness of organizations in a given society, and the gen­
-eral readiness of individuals and groups to assert their
+such as : considering the authority structure and responsiveness of organizations in a given society, and the general readiness of individuals and groups to assert their
 interests, it is likely that in this or that particular case,
 voice is going to do a more creditable job of maintaining
 efficiency when the customers or members are locked in
@@ -2561,8 +2162,7 @@ Perhaps the best way of looking at the matter is to
 recognize that we face here a choice of two evils. Next to
 the traditional full-fledged monopoly whose dangers and
 possible a;buses have long been exposed, attention should
-also be paid to those organizations whose monopoly pow­
-ers are less complete, but who are characterized by sturdy,
+also be paid to those organizations whose monopoly powers are less complete, but who are characterized by sturdy,
 if undistinguished survival after exit of the more alert
 customers or members. Often there will be a real question
 which one of these two institutional varieties is the more
@@ -2571,28 +2171,22 @@ unsatisfactory.
 The point of view here adopted contrasts with the spirit
 
 1. One may note an interesting symmetry here with the case of
-perfect competition. As pointed out in ch. 1 , n. 1, the firm which pro­
-duces for a perfectly competitive market finds out about its failings
+perfect competition. As pointed out in ch. 1 , n. 1, the firm which produces for a perfectly competitive market finds out about its failings
 directly through increases in its costs rather than indirectly through
 customers' reactions because it cannot change either the price or the
 quality of its product. It will experience losses which 'vill depend on
 the size of its lapse from efficiency. If the lapse is small, small too
 will be the losses and the firm will have an opportunity to recover.
 If one moves just a small step away from perfect competition, to a
-situation, that is, where the firm has some market power as a price­
-and quality-maker while demand remains very elastic, then one
+situation, that is, where the firm has some market power as a priceand quality-maker while demand remains very elastic, then one
 lands in a very different situation : a small lapse can produce a
 slightly deteriorated product which 'vill lead to so large a loss of
 revenue that the firm immediately succumbs. It is now suggested
-that a similar situation may prevail at the other ,end of the spec­
-trum. In some situations, a full monopoly may be preferable, from
-the point of view of the effectiveness of our recuperation mecha­
-nisms, to a monopoly just slightly ha1npered by competition. For
+that a similar situation may prevail at the other ,end of the spectrum. In some situations, a full monopoly may be preferable, from
+the point of view of the effectiveness of our recuperation mechanisms, to a monopoly just slightly ha1npered by competition. For
 this limited competition may result in revenue losses too small to
-alert n1anagement to its failings while it could weaken voice deci­
-sively by dra,ving away from the firm its most vocal customers. At
-both extremes of perfect competition and pure monopoly the re­
-cuperative mechanism may therefore work better than if only a
+alert n1anagement to its failings while it could weaken voice decisively by dra,ving away from the firm its most vocal customers. At
+both extremes of perfect competition and pure monopoly the recuperative mechanism may therefore work better than if only a
 small step were made from these extremes in the direction of market
 power and competitive structure, respectively.
 
@@ -2601,18 +2195,13 @@ How Monopoly Can be Comforted by Competition
 that has long animated the concern over monopoly and the
 struggle against it. The monopolist has traditionally been
 expected to utilize to the utmost his ability to exploit the
-consumer and to maximize profits by restricting produc­
-tion. Public policies have been based primarily on this
-expectation. Even Galbraith, ordinarily so ready to re­
-pudiate the "conventional wisdom, " takes this exploita­
-tive behavior to be the prime and perhaps only danger
-which must be guarded against. In his American Capital­
-ism he merely pointed out that competition has become an
+consumer and to maximize profits by restricting production. Public policies have been based primarily on this
+expectation. Even Galbraith, ordinarily so ready to repudiate the "conventional wisdom, " takes this exploitative behavior to be the prime and perhaps only danger
+which must be guarded against. In his American Capitalism he merely pointed out that competition has become an
 unrealistic alternative to the monopolistic tendencies of
 advanced capitalist economies and extolled an alternative,
 already existing remedy, to wit, "countervailing power. "
-But what if we have to worry, not only about the profit­
-maximizing exertions and exactions of the monopolist, but
+But what if we have to worry, not only about the profitmaximizing exertions and exactions of the monopolist, but
 about his proneness to inefficiency, decay, and flabbiness ?
 This may be, in the end, the more frequent danger : the
 monopolist sets a high price for his products not to amass
@@ -2622,15 +2211,13 @@ product or service he sells to deteriorate without gaining
 any pecuniary advantage in the process.2
 
 In view of the sp·ectacular nature of such phenomena
-as exploitation and profiteering, the nearly opposite fail­
-ings which monopoly and market power allow, namely,
+as exploitation and profiteering, the nearly opposite failings which monopoly and market power allow, namely,
 laziness, flabbiness, and decay have come in for much less
 scrutiny. To find these problems recognized as public
 policy issues one has to look beyond the "Anglo-Saxon"
 'vorld where economic thinl{ing is usually carried on in
 terms of some maximizing or "taut economy" model .
-When, a few years ago, a prestigious French economic of­
-ficial put forward proposals for various public controls
+When, a few years ago, a prestigious French economic official put forward proposals for various public controls
 of business, he did single out incompetence and "abandon"
 
 2 . C ompare the following remark of a student of B razilian society :
@@ -2638,33 +2225,27 @@ of business, he did single out incompetence and "abandon"
 and b rutal, but because it is inefficient. " Jacques Lambert, Os dois Brasis
 (Rio de Janeiro : IN EP-M inisterio da Edu ca!;aO e C ultura, 1 96 3 ) , p. 1 2 0 .
 
-on the part of faltering corporate management as an im­
-portant problem. a
+on the part of faltering corporate management as an important problem. a
 
 Political power is very much like market power in that
 it permits the powerholder to indulge either his brutality
 or his flaccidity. But here again the dangers of abuse of
 power, of invasion of individuals' rights have-for very
 good reasons-stood in the center of attention, rather
-than those of maladministration and bureaucratic inepti­
-tude. Accordingly, the original purpose of the now so
+than those of maladministration and bureaucratic ineptitude. Accordingly, the original purpose of the now so
 widely discussed office of ombudsman was to help redress
 citizens' grievances against officials who had exceeded the
 constitutional limits of their power. Later, however, the
 institution experienced a "shift in its main purpose" which
 today "has become promotion of better administration,':
-the correction of malpractices and the like.4 This presum­
-ably means that the institution is now also used to correct
+the correction of malpractices and the like.4 This presumably means that the institution is now also used to correct
 and reprimand official indolence though it was originally
 devised for the purpose of stemming abuses of power on
 the part of overactive and overbearing officials.
 
 Such versatility is admirable, but cannot be expected to
-be the rule. It would b e surprising if every one of the safe­
-guards against a monopolist's single-minded pursuit of
-profits turned out to do double duty as a cure of his pro­
-pensity toward flabbiness and distraction. Exit-competi­
-tion is a case in point. While of undoubted benefit in the
+be the rule. It would b e surprising if every one of the safeguards against a monopolist's single-minded pursuit of
+profits turned out to do double duty as a cure of his propensity toward flabbiness and distraction. Exit-competition is a case in point. While of undoubted benefit in the
 case of the exploitative, profit-maximizing monopolist, the
 
 3. Fran<;ois Bloch-Laine, Pour une reforme de
@@ -2673,17 +2254,13 @@ l'entreprise
 ( Paris : Editions du Seuil, 1963 ) , pp. 54-57, 76-77. "Anglo-Saxon"
 literature, particularly on trade unions, has paid some attention to
 the possible existence of "sleepy" or "lazy" monopolies. See, for
-example, Richard A. Lester, As Unions Mature ( Princeton : Prince­
-ton University Press, 1958) , pp. 56-60, and Lloyd G. Reynolds and
+example, Richard A. Lester, As Unions Mature ( Princeton : Princeton University Press, 1958) , pp. 56-60, and Lloyd G. Reynolds and
 Cynthia H. Taft, The Evolution of Wage Structure ( New Haven :
 Yale University Press, 1956 ) , p. 190. But the exploitative potential
 of the monopoly has always stood in the center of the discussion and
-it has been the exclusive motive for regulation and antitrust legisla­
-tion.
+it has been the exclusive motive for regulation and antitrust legislation.
 
-4. Hing Yong Cheng, ''The Emergence and Spread of the Om­
-l- 1dsman Institution," The Annals, special issue on "The Ombuds­
-man or Citizen's Defender" ( May 1968) , p. 23.
+4. Hing Yong Cheng, ''The Emergence and Spread of the Oml- 1dsman Institution," The Annals, special issue on "The Ombudsman or Citizen's Defender" ( May 1968) , p. 23.
 
 How Monopoly Can be Comforted by Competition
 
@@ -2700,31 +2277,25 @@ a serious threat to the organization's survival. This was so
 for the Nigerian Railway Corporation because of the ease
 with which it could dip into the public treasury in case
 
-of deficit. But there are many other cases where competi­
-tion does not restrain monopoly as it is supposed to, but
+of deficit. But there are many other cases where competition does not restrain monopoly as it is supposed to, but
 comforts and bolsters it by unburdening it of its more
-troublesome customers. As a result, one can define an im­
-portant and too little noticed type of monopoly-tyranny :
-a limited type, an oppression of the weak by the incom­
-petent and an exploitation of the poor by the lazy which
+troublesome customers. As a result, one can define an important and too little noticed type of monopoly-tyranny :
+a limited type, an oppression of the weak by the incompetent and an exploitation of the poor by the lazy which
 is the more durable and stifling as it is both unambitious
 and escapable. The contrast is stark indeed with totali­
 
 tarian, expansionist tyrannies or the profit-maximizing,
 
-accumulation-minded monopolies which may have cap­
-tured a disproportionate share of our attention.
+accumulation-minded monopolies which may have captured a disproportionate share of our attention.
 
 In the economic sphere such "lazy" monopolies which
-"welcome competition" as a release from effort and criti­
-cism are frequently encountered when monopoly power
+"welcome competition" as a release from effort and criticism are frequently encountered when monopoly power
 
 rests on location and when mobility differs strongly from
 
 one group of local customers to another. If, as is likely, the
 
-mobile customers are those who are most sensitive to qual­
-ity, their exit, caused by the poor performance of the local
+mobile customers are those who are most sensitive to quality, their exit, caused by the poor performance of the local
 monopolist, permits him to persist in his comfortable
 
 mediocrity. This applies, for example, to small city or
@@ -2732,25 +2303,21 @@ mediocrity. This applies, for example, to small city or
 "ghetto'' stores which lose their quality-conscious patrons
 
 to better stores elsewhere as well as to sluggish electric
-power utilities in developing countries whose more de­
-manding customers will decide at some point that they can
+power utilities in developing countries whose more demanding customers will decide at some point that they can
 no longer afford the periodic breakdowns and will move
 out or install their own independent power supply.
 
 The United States Post Office can serve as another
 
 example of the lazy monopolist vvho thrives on the limited
-exit possibilities existing for its most fastidious and well­
-to-do customers . The availability of fast and reliable
+exit possibilities existing for its most fastidious and wellto-do customers . The availability of fast and reliable
 communications via telegraph and telephone makes the
 shortcomings of the mail service more tolerable ; it also
 permits the Post Office to tyrannize the better over those
 of its customers who find exit to other communication
 modes impractical or too expensive.
 
-Those who hold povver in the lazy monopoly may actu­
-ally have an interest in creating some limited opportuni­
-ties for exit on the part of those whose voice might be
+Those who hold povver in the lazy monopoly may actually have an interest in creating some limited opportunities for exit on the part of those whose voice might be
 uncomfortable. Here is a good illustration of the contrast
 between the profit-maximizing and the lazy monopolist :
 the former 'vould engage, i f he could, in discriminatory
@@ -2767,57 +2334,40 @@ Instances of sucl1 topsy-turvy ( from the point of view
 of profit maximization ) discrimination are not easy to
 document in economic life, in part perhaps because we
 have not looked for them very hard and in part simply
-becau se price discrimination in general is not easily prac­
-ticed. But a closely analogous situation is familiar from
-politics . Latin American powerholders have long encour­
-aged their political enemies and potential critics to remove
+becau se price discrimination in general is not easily practiced. But a closely analogous situation is familiar from
+politics . Latin American powerholders have long encouraged their political enemies and potential critics to remove
 themselves from the scene through voluntary exile. The
 
 5. There is another way in which the lazy monopolist m ay be able
 to rid himself of the voice of these customers : he can extend just
 to them especially high-quality, "gold-plated" service. This would be
-discrimination with respect to quality rather than to price. The pur­
-pose, once again , is not to extract maximum revenue, but to buy
+discrimination with respect to quality rather than to price. The purpose, once again , is not to extract maximum revenue, but to buy
 "freedom to deteriorate."
 
 How Monopoly Can be Comforted by Competition
 
 right of asylum, so generously practiced by all Latin
-American republics, could almost be considered as a "con­
-spiracy in restraint of voice." An even more straightfor­
-ward illustration is supplied by a Colombian law that
-provided for paying former presidents as many U.S. dol­
-lars if they resided abroad as they would receive in Colom­
-bian pesos if they lived in their own country. With the
+American republics, could almost be considered as a "conspiracy in restraint of voice." An even more straightforward illustration is supplied by a Colombian law that
+provided for paying former presidents as many U.S. dollars if they resided abroad as they would receive in Colombian pesos if they lived in their own country. With the
 U.S. dollar being worth from five to ten pesos while the
 law was in effect, the officially arranged incentive toward
 exit of these potential "trouble makers" was considerable.
-Even without such special incentives, exit for disgrun­
-tled or defeated politicians has always been easier in some
-countries than in others. The following comparison be­
-tween politics in Japan and in Latin America supplies an­
-other illustration of the corroding influence exit can have
+Even without such special incentives, exit for disgruntled or defeated politicians has always been easier in some
+countries than in others. The following comparison between politics in Japan and in Latin America supplies another illustration of the corroding influence exit can have
 on vigorous and constructive political processes via voice :
 
-The isolation of Japan set rigid boundaries to the possi­
-bilities of political opposition. The absence of easy oppor­
-tunities for tolerable exile was a po\verful teacher of the
-virtues of compromise. The Argentinean newspaper edi­
-tor in danger of arrest or assassination could slip across
+The isolation of Japan set rigid boundaries to the possibilities of political opposition. The absence of easy opportunities for tolerable exile was a po\verful teacher of the
+virtues of compromise. The Argentinean newspaper editor in danger of arrest or assassination could slip across
 the river to Montevideo and still find himself a home, amid
 familiar sounds and faces and familiar books, easily able
 to find friends and a new job. ( Nowadays, perhaps, he
-would arl�ange a refuge in one of the mushrooming inter­
-national organizations beforehand. ) But to all but a tiny
+would arl�ange a refuge in one of the mushrooming international organizations beforehand. ) But to all but a tiny
 fraction of Japanese only one place has ever been home.6
 
 In this view, Japan gained an advantage from being a
 "no-exit" polity wl1ile the ever-beckoning opportunity to
-exit that was characteristic of Hispano-American socie­
-ties cont1·ibuted perhaps as much to the factionalism and
-personalismo typical of their politics as the Spanish na­
-tional character, the machismo cult, and similar conven­
-tionally given reasons.
+exit that was characteristic of Hispano-American societies cont1·ibuted perhaps as much to the factionalism and
+personalismo typical of their politics as the Spanish national character, the machismo cult, and similar conventionally given reasons.
 
 6. R. P. Dore, "Latin America a n d Japan Compared," i n John J.
 Johnson, ed., Continuity and Change in Latin America ( Stanford :
@@ -2832,17 +2382,14 @@ Two-Party Syste1ns
 The situations which have been analyzed up to now have
 as their point of departure a clear-cut deterioration in the
 performance of a firm or organization. The exit and voice
-options are reactions to this deterioration and, under cer­
-tain conditions, will arrest and reverse it. Consumers were
+options are reactions to this deterioration and, under certain conditions, will arrest and reverse it. Consumers were
 portrayed as being more or less sensitive to a change in
-quality, but they all experienced the change as either posi­
-tive or negative. This assumption can and 'viii now be
+quality, but they all experienced the change as either positive or negative. This assumption can and 'viii now be
 dropped. I n this respect, quality and price are once again
 revealed as totally different phenomena : a decline in the
 price of a commodity is good ne,vs for all consumers j ust
 as a rise in price means a loss in real income for all, but
-one and the same cltange in quality may make the com­
-modity more appreciated by some consumers while others
+one and the same cltange in quality may make the commodity more appreciated by some consumers while others
 find it less to their taste than before. This is also the case,
 of course, for shifts in the positions of political parties and
 other organizations.
@@ -2850,15 +2397,13 @@ other organizations.
 When firms and organizations have this possibility of
 ch.anging quality in such a way as to please some while
 displeasing others, the question arises as to tl1e quality
-which they are most likely to select. The economist's an­
-svver is that the firm will select that point on the quality
+which they are most likely to select. The economist's ansvver is that the firm will select that point on the quality
 scale which will maximize its profits.1 This routine reflex
 does not really solve our problem, however ; for i f a firm
 both loses and gains customers by a given quality change
 ( while costs remain unchanged ) the ·criterion of profit
 maximization may not yield a unique solution at all . Or
-suppose that the firm is a monopolist, 'vhich does not actu­
-ally lose or gain customers as it varies the quality of its
+suppose that the firm is a monopolist, 'vhich does not actually lose or gain customers as it varies the quality of its
 
 1. For simplicity's sake, it may be assumed that the quality
 
@@ -2868,11 +2413,9 @@ Dynamics of Two-Party Systems
 
 product, but causes, through such variations, happiness
 and unhappiness in different groups of its customers. To
-make such situations determinate, it is plausible to intro­
-duce another criterion : in addition to maximizing profits,
+make such situations determinate, it is plausible to introduce another criterion : in addition to maximizing profits,
 the firm will tend to minimize discontent of its customers,
-for the highly rational purpose of earning goodwill or re­
-ducing hostility in the community of which it is a part.2
+for the highly rational purpose of earning goodwill or reducing hostility in the community of which it is a part.2
 With this criterion in operation, the firm is in general
 likely to select a point in the middle of the quality range
 along which its profits are maximized. Suppose we have
@@ -2880,11 +2423,8 @@ two categories of customers of a monopolistic firm, the
 A -fiends who would deplore any shift along a linear scale
 from quality A to B and the B-fiends who would hail it.
 The discontent-minimizing firm is then likely to select the
-midpoint between A and B,3 provided the intensity of dis­
-content of both A- and B-fiends is identical. If the discon­
-tent of the A-fiends as quality moves away from A i s far
-stronger and more vocal than the corresponding discon­
-tent of B-fiends, then the firm is likely to select a quality
+midpoint between A and B,3 provided the intensity of discontent of both A- and B-fiends is identical. If the discontent of the A-fiends as quality moves away from A i s far
+stronger and more vocal than the corresponding discontent of B-fiends, then the firm is likely to select a quality
 that is considerably closer to A than to B.
 
 The concept of voice has j ust made its appearance and
@@ -2901,11 +2441,9 @@ select the midpoint. Even when consumers' tastes are distributed
 with equal density along the A-B scale, discontent, when assumed to
 be proportional to the distance between actual and desired quality,
 would be minimized in the same fashion. This was shown long ago
-for the special case in which the A-B scale represents physical dis­
-tance in a linear market ( see n. 6, below ) . Location of the firm at
+for the special case in which the A-B scale represents physical distance in a linear market ( see n. 6, below ) . Location of the firm at
 some point of the scale then stands for "quality" ; any change in
-this quality is obviously agreeable to some consumers and disagree­
-able to others and the cost of transportation inflicted by the firm's
+this quality is obviously agreeable to some consumers and disagreeable to others and the cost of transportation inflicted by the firm's
 location on different consumers is the measure of their discontent
 ( provided the marginal utility of money is constant ) . If a bimodal
 distribution of consumers' tastes is assumed, as was done in the text,
@@ -2920,8 +2458,7 @@ quality range, the firm is simply responding to voice-or,
 rather, to customers' voices which have been assumed to
 be pulling the firm in opposite directions. But if voice
 plays so decisive a role when profit maximization provides
-no policy guidance to the firm, it will hardly be disre­
-garded entirely when profit maximization p oints to some
+no policy guidance to the firm, it will hardly be disregarded entirely when profit maximization p oints to some
 specific point along the quality range. In other words, the
 concern with voice (that is, with minimizing hostility and
 discontent) can be expected to qualify the concern with
@@ -2947,15 +2484,13 @@ B
 
 Qua l i t y or location
 
-The aggregate discontent of A�fiends and B-fiends is again mini­
-mized by selecting the midpoint between A and B.
+The aggregate discontent of A�fiends and B-fiends is again minimized by selecting the midpoint between A and B.
 
 4. Or out of pure altruism, as is assum ed in Otto A. Davis and
 Melvin Hinch, "A Mathematical Model of Policy Formulation in a
 Democratic Society," in J. L. Bernd, ed., Mathematical Applica t·ions
 in Political Science ( Dallas : Arnold Foun dation, 1966 ) , II, 175-208.
-At one point in their article, the authors examine, with results sim­
-ilar to those in the text, how a ''beneficent dictator" would minimize
+At one point in their article, the authors examine, with results similar to those in the text, how a ''beneficent dictator" would minimize
 the citizens' "utility loss function," that is, their discontent with
 the policies pursued by him.
 
@@ -2966,18 +2501,14 @@ or trade-off between these two objectives.
 
 A situation in which such a conflict and trade-off are
 particularly likely can be constructed as follows : Suppose
-that, of the two categories of consumers, A -fiends and B­
-fiends, the former have no alternative to turn to if quality
-of the firm's output moves toward B, while B-fiends' de­
-mand is so highly elastic that they will desert the firm in
+that, of the two categories of consumers, A -fiends and Bfiends, the former have no alternative to turn to if quality
+of the firm's output moves toward B, while B-fiends' demand is so highly elastic that they will desert the firm in
 rapidly increasing numbers as quality shifts from B to A .
 In this situation a firm that single-mindedly maximizes
 profits will produce at point B of the quality range, while
 one that minimizes discontent would rather produce at
-point A . At A, the A-fiends would be happy while the B­
-fiends \Vould all have taken their business elsewhere ; they
-might not be kindly disposed toward the firm that has dis­
-appointed them, but they have cut themselves off through
+point A . At A, the A-fiends would be happy while the Bfiends \Vould all have taken their business elsewhere ; they
+might not be kindly disposed toward the firm that has disappointed them, but they have cut themselves off through
 exit from all or much of the influence they might exert.
 In any event, the fact that they found a substitute so easily
 makes it likely that their welfare loss was not unduly high .
@@ -2985,22 +2516,18 @@ I f the firm produces at B , o n the contrary, the A-fiends
 would still be with it, but presumably in a state of serious
 and vocal discontent. In this situation, a firm that is at all
 sensitive to voice will withdraw some distance from the
-point in the quality range at which it could achieve maxi­
-mum profits. Note therefore that a firm is particularly
+point in the quality range at which it could achieve maximum profits. Note therefore that a firm is particularly
 likely to be deflected from the point of maximum profits
 when the consumers which are made unhappy by the firm
-producing at that point are in the positi on of having "no­
-where else to go. " This is a result that contradicts, or at
+producing at that point are in the positi on of having "nowhere else to go. " This is a result that contradicts, or at
 least qualifies, the conventional ideas about the " powerful
 consumer." His power is usually believed to originate in
 the fact that he can take his business elsewhere and can
 thus "punish" the firm which does not pay heed to his
 preferences, but we see now that another kind of power
-resides in the consumer who cannot take his business else­
-where and who has therefore the maximum incentive to
+resides in the consumer who cannot take his business elsewhere and who has therefore the maximum incentive to
 
-cajole, threaten, and otherwise induce the firm to pay at­
-tention to his needs and tastes. 5
+cajole, threaten, and otherwise induce the firm to pay attention to his needs and tastes. 5
 
 The preceding discussion has a direct bearing on topics
 in economic and political thought which have a long and
@@ -3013,29 +2540,24 @@ dynamics of two-party systems. His argument has been
 elaborated and qualified by later writers, but his basic
 points have not met with a direct challenge. Hotelling's
 principal idea can be summarized quite briefly. Customers
-or, in the political variant of the model, voters are as­
-sumed to be evenly distributed along a finite linear scale
+or, in the political variant of the model, voters are assumed to be evenly distributed along a finite linear scale
 from A to B, or from Left to Right . . Suppose that initially
 two firms ( or two parties ) have divided up this linear
 territory among themselves by locating at the midpoints
 of the left and right halves. From the social point of view,
-this is the ideal arrangement because it minimizes trans­
-portation costs for the consumers. In the political appli­
-cation of the model, the same result can be obtained : by
+this is the ideal arrangement because it minimizes transportation costs for the consumers. In the political application of the model, the same result can be obtained : by
 locating at the quartiles, ideological distance between the
 voters and the parties and, hence, voters' discontent with
 the parties' platforms and policies will be minimized. Now
 assume that one of the two firms or parties, say, the one
-at the left-hand side, is allowed to shift its location with­
-out cost while the other is, or is thought to be, tied down.
+at the left-hand side, is allowed to shift its location without cost while the other is, or is thought to be, tied down.
 A profit-maximizing firm or a vote-maximizing party is
 
 5. As long as quality change was defined as a deterioration that
 is felt as such by all consumers, exit and voice were pushing the
 firm in the same direction. If the firm mends its ways, the ensuing
 recovery will therefore be a "j oint product" of exit and voice and it
-will be difficult to disentangle and evaluate the respective contribu­
-tions of each. When quality change means improvement for some
+will be difficult to disentangle and evaluate the respective contributions of each. When quality change means improvement for some
 and deterioration for others, the comparative strength of the two
 mechanisms is more easily tested because they may work, as just
 explained, in opposite directions. I return to this point at the end
@@ -3058,39 +2580,30 @@ party by advancing into its territory. Two important con­
 ( 1 ) under the assumed conditions of
 clusions follow :
 duopoly there will be a tendency for the two firms to move
-toward the middle of the scale ; ( 2 ) profit- or vote-maxi­
-mizing behavior leads in this fashion to socially undesir­
-able results since goods will be made available to consumers
+toward the middle of the scale ; ( 2 ) profit- or vote-maximizing behavior leads in this fashion to socially undesirable results since goods will be made available to consumers
 at higher total costs ( if transportation costs borne by the
 consumer are counted) than would obtain if the firms had
 remained anchored at the quartiles. In a similar way it
 can be argued that it is probable, but socially undesirable,
-for parties in a two-party system to move ever closer to­
-gether.7
+for parties in a two-party system to move ever closer together.7
 
-The success which this elegant model has had, particu­
-larly among political scientists, is matched only by its
+The success which this elegant model has had, particularly among political scientists, is matched only by its
 
 7. There is one important difference : after the political contest
 between the two parties is decided, the winning party takes over the
 government for the whole country while in the case of duopoly, the
 two firms permanently share the market among themselves. Thus, by
-locating at the quartiles, the parties would minimize the public's dis­
-content with their positions and their policies, but not with those of
+locating at the quartiles, the parties would minimize the public's discontent with their positions and their policies, but not with those of
 the government that is the outcome of the struggle between the two
 parties. It can be argued, however, that a two-party system implies
 a preference for a risky but meaningful over a meaningless choice.
 Put somewhat differently, the average citizen may well prefer a
 situation in which a party with 'vhich he identifies closely has an
-even chance of beating one he sharply disagrees with, over a situ­
-ation in which power is always held by a middle-of-the-road party
+even chance of beating one he sharply disagrees with, over a situation in which power is always held by a middle-of-the-road party
 which he neither likes nor dislikes strongly. This point is overlooked
-by Davis and Hinch, who view the possible location of the two can­
-didates at the quartiles as a result of a nomination process in the
+by Davis and Hinch, who view the possible location of the two candidates at the quartiles as a result of a nomination process in the
 course of which each party's nominee is selected exclusively by the
-members of that party. This is quite realistic in terms of the institu­
-tions of American democracy. But the result is not necessarily ob­
-jectionable from the point of vie'v of the community as a whole, as
+members of that party. This is quite realistic in terms of the institutions of American democracy. But the result is not necessarily objectionable from the point of vie'v of the community as a whole, as
 would seem to be implied by the Davis-Hinch analysis, which sets
 up the hypothetical policies pursued by a "beneficent dictator" as
 some sort of optimal solution. See n. 4, above.
@@ -3101,8 +2614,7 @@ is never defeated by facts, however damaging, but only
 by another modeL8 Not that the model was left entirely
 untouched. When, in the wake of the Depression and the
 New Deal, the Democratic and Republican parties moved
-farther apart ideologically, an attempt was made to recon­
-cile tl1e model with these events. Advantage was taken of
+farther apart ideologically, an attempt was made to reconcile tl1e model with these events. Advantage was taken of
 the fact that the results of the model depended critically
 -as had already been pointed out by Hotelling 9-on the
 assumption of zero elasticity of demand throughout the
@@ -3113,56 +2625,41 @@ party closest to them. If demand is elastic, on tl1e other
 hand, a firm o r party would lose customers or voters at
 its own end of the market as it moved toward the center
 and this loss of business or votes 'vould at least restrain
-the socially undesirable clustering tendency of the orig­
-inal model.10
+the socially undesirable clustering tendency of the original model.10
 
-The pendulum of the facts swung back in the other di­
-rection in the fifties, with the soporific calm of the Ei sen­
-ho\ver years and the somewhat premature announcement
+The pendulum of the facts swung back in the other direction in the fifties, with the soporific calm of the Ei senho\ver years and the somewhat premature announcement
 on the part of prominent scl1olars that ideology ".,.as dead.
 
 8. Paul Streeten formulated this maxim in a letter to the author.
-The idea is p ersuasively developed in Thomas S. Kuhn's The Struc­
-ture of Scientific Revo lu tions
+The idea is p ersuasively developed in Thomas S. Kuhn's The Structure of Scientific Revo lu tions
 ( Chicago : University of Chicago
 Press, 1962 ) .
 
 9. " S tability in C ompetition," p. 56.
-1 0. Demand was assumed to be elastic throughout the linear mar­
-ket or to attain positive elasticity beyond a given range of trans­
-portation costs in the articles of Arthur Smithies ( " Optimum Loca­
-tion in S patial C ompetition," Journal of Po litical Econom.y, 49 : 423-
+1 0. Demand was assumed to be elastic throughout the linear market or to attain positive elasticity beyond a given range of transportation costs in the articles of Arthur Smithies ( " Optimum Location in S patial C ompetition," Journal of Po litical Econom.y, 49 : 423-
 439 [ 1 941 ] ) and of A. P. Lerner and H. W. S inger ( "Some Notes on
 Duopoly and Spatial Competition," Journal of Political Econom.y,
 45 : 1 4 5-186 [ 1 939] ) , respectively. S mithies specifically presented his
 modification of the Hotelling model as a way of accounting for the
-strengthening of the ideological stances of th e Democratic and Re­
-p u blican parties in the thirties, in contrast to the dilution of ideolo­
-gies in the late t\ven ties \Vhen H otelling wrote.
+strengthening of the ideological stances of th e Democratic and Rep u blican parties in the thirties, in contrast to the dilution of ideologies in the late t\ven ties \Vhen H otelling wrote.
 
 Dynamics of Two-P arty Systems
 
 In this atmosphere the Hotelling model vvas toucl1ed up
-once again. In a well-known work, Anthony Downs ques­
-tioned tl1e realism of the Hotelling assumption that voters
-are evenly distributed along the ideological spectrum, be­
-tween the Left and Right.11 If the frequency distribution
-of the voters along this scale has one peak toward the mid­
-dle ( the "mi ddle-of-tl1e-road" ) and tapers off toward both
-extremes, then Hotelling's clustering tendency will obvi­
-ously assert itself once again. ( It sl1ould be remarked that,
+once again. In a well-known work, Anthony Downs questioned tl1e realism of the Hotelling assumption that voters
+are evenly distributed along the ideological spectrum, between the Left and Right.11 If the frequency distribution
+of the voters along this scale has one peak toward the middle ( the "mi ddle-of-tl1e-road" ) and tapers off toward both
+extremes, then Hotelling's clustering tendency will obviously assert itself once again. ( It sl1ould be remarked that,
 in these conditions, the tendency would not cause the sort
 of social loss that it implies on the assumption of even
 distribution. ) Thus Downs rehabilitated the Hotelling
-thesis, not by questioning the assumption of elastic de­
-mand through which the thesis had been qualified-to the
+thesis, not by questioning the assumption of elastic demand through which the thesis had been qualified-to the
 contrary, he fully endorsed that qualification-but by
 counterbalancing elastic demand 'vith the assumption of
 a more or less "normal" frequency distribution of the
 voters from Left to Rigl1t.12
 
-As soon as the Hotelling model had been thus refur­
-bished by Downs, its power to explain reality was again
+As soon as the Hotelling model had been thus refurbished by Downs, its power to explain reality was again
 cast into doubt by the undisciplined va'garies of history.
 The selection by the Republican party of Goldwater in
 1964 and, to a lesser extent, of Nixon in 1968 testified to
@@ -3178,8 +2675,7 @@ The concept of voice permits a more fundamental re-
 Brothers, 1956 ) , ch . 8.
 
 12. Downs devoted much space to examining the results of other
-types of frequency distributions on two-party and multi-party sys­
-tems. But in his discussion of two-party systems, he stresses the
+types of frequency distributions on two-party and multi-party systems. But in his discussion of two-party systems, he stresses the
 tendencies toward convergence and ambiguity of party positions and
 thus essentially bolstered the original Hotelling findings.
 
@@ -3196,15 +2692,12 @@ perfectly realistic under conditions of a duopoly selling an
 essential good and of a well-established two-party system.
 It was not this assumption that was wrong or unrealistic,
 but the inference that the "captiv e" consumer (or vo ter)
-who has "nowhere else to go" is the epitome of powerless­
-ness. True, he cannot exit to the other firm or party and in
-this way bring pressure on his own firm or party to im­
-prove its performance, but j ust because of that he, unlike
+who has "nowhere else to go" is the epitome of powerlessness. True, he cannot exit to the other firm or party and in
+this way bring pressure on his own firm or party to improve its performance, but j ust because of that he, unlike
 the consumer or voter who can exit, will be maximally
 motivated to bring all sorts of potential influence into play
 so as to keep the firm or the party from doing things that
-are highly obnoxious to him. Hotelling's clustering ten­
-dency can therefore be countered and restrained not by
+are highly obnoxious to him. Hotelling's clustering tendency can therefore be countered and restrained not by
 substituting elastic for inelastic demand in his model, but
 by realizing that inelastic demand at the extremes of the
 linear market can spell considerable influence via voi·ce.
@@ -3212,21 +2705,15 @@ linear market can spell considerable influence via voi·ce.
 As already outlined, voice will force the firm or the
 party to trade its profit-making or vote-getting objectives
 to some extent against the discontent-reducing objective.
-Such a trade-off becomes even more likely when the in­
-evitable uncertainty about prospective sales or votes is
-taken into account. In other words, a party which is be­
-leaguered by protests from disgru11tled members because
-they dislike proposed "wishy-washy" platforms or poli­
-cies will often be tempted to give in to these voices because
+Such a trade-off becomes even more likely when the inevitable uncertainty about prospective sales or votes is
+taken into account. In other words, a party which is beleaguered by protests from disgru11tled members because
+they dislike proposed "wishy-washy" platforms or policies will often be tempted to give in to these voices because
 they are very real here and now, while the benefits that
-are to accrue from wishy-,vashiness are highly conj ec­
-tural.
+are to accrue from wishy-,vashiness are highly conj ectural.
 
 The general conditions for the use of voice have been
 discussed in Chapter 2. With respect to the subj ect now
-under discussion, the matter can perhaps best be formu­
-lated as follows : for voice to function properly it is neces­
-sary that individuals possess reserves of political influence
+under discussion, the matter can perhaps best be formulated as follows : for voice to function properly it is necessary that individuals possess reserves of political influence
 
 Dynamics of Two-P arty Systems
 
@@ -3242,8 +2729,7 @@ position can influence the party through a mechanism that
 is none the less powerful for operating outside the market.
 On the other hand, there can be no guarantee that the
 voice mechanism will bring the party exactly back to the
-somewhat problematical "social optimum" which, in anal­
-ogy to Hotelling's treatment of the location problem, can
+somewhat problematical "social optimum" which, in analogy to Hotelling's treatment of the location problem, can
 be defined as the p oint at \vhich the sum of the ideological
 distances bet,veen the party and its clients is minimized.
 The influ ence of those who have nowhere else to go may
@@ -3256,11 +2742,9 @@ Inee.
 Hardly ever was a hypotl1esis so cruelly contradicted by
 the facts as were the predictions of the Hotelling-Downs
 theory by the Goldwater nomination. Nevertheless, not
-even this event led to an outright questioning of the the­
-ory. In a searching article, three political scientists looked
+even this event led to an outright questioning of the theory. In a searching article, three political scientists looked
 for the reasons for which the Republican party had so
-clearly failed to act as the vote-maximizer on that occa­
-sion.15 They came close to the correct ans\ver by focusing
+clearly failed to act as the vote-maximizer on that occasion.15 They came close to the correct ans\ver by focusing
 on the right-\ving of the party and by showing that this
 element was far more activist tha11 the middle-of-the-
 
@@ -3273,39 +2757,31 @@ Myths and Reality : 'rhe 1964 Election ," A 1nerican Political Science
 Revie'w, 5 9 : 3 2 1-336 ( June 1965 ) .
 
 roaders. The writing of letters to public officials or to
-newspapers and magazines was investigated as a particu­
-lar type of intense political activity and it was shown that
-indeed this activity was engaged in to a wholly dispro­
-portionate extent by those right-wing Republicans who
+newspapers and magazines was investigated as a particular type of intense political activity and it was shown that
+indeed this activity was engaged in to a wholly disproportionate extent by those right-wing Republicans who
 "had nowhere else to go. " But the authors use these most
 interesting data primarily to explain the misperceptions
 of the Republican party and of their nominee with respect
-to the chances for victory, instead of drawing the follow­
-ing, much more basic conclusion : in a two-party system a
+to the chances for victory, instead of drawing the following, much more basic conclusion : in a two-party system a
 party will not necessarily behave as the Hotelling-Downs
 vote-maximizer because those "who have nowhere else to
 go" are not powerless but influential.16
 
 This power of those who have nowhere else to go in a
 two-party system has come to light in a different form
-with the Democratic defeat in the 1968 elections. The mo­
-bilization of the indifferent voters and the winning over of
+with the Democratic defeat in the 1968 elections. The mobilization of the indifferent voters and the winning over of
 the undecided ones was seen to depend to a considera·ble
 extent on the enthusiasm which each of th_e parties can
 inspire among activist party workers and volunteers.
-Since the activists are far from being middle-of-the-road­
-ers, their enthusiasm can be dampened by a party's mov­
-ing to an excessively middle-of-the-road position. Hence
+Since the activists are far from being middle-of-the-roaders, their enthusiasm can be dampened by a party's moving to an excessively middle-of-the-road position. Hence
 the adoption of a platform which is· designed to gain votes
 at the center can be counter-productive : it may damage
 rather than shore u p the party's fortunes at the polls.
 With this mechanism the voice of those who have nowhere
 to go actually works "through the market" as it imposes
 
-16. In the last paragraph of the article, something of this conclu­
-sion is in fact suggested by the authors : "The intense levels of
-political motivation wh ich underlie the letter-writing of the ultra­
-conservative wing are part and parcel of the ingredients which led
+16. In the last paragraph of the article, something of this conclusion is in fact suggested by the authors : "The intense levels of
+political motivation wh ich underlie the letter-writing of the ultraconservative wing are part and parcel of the ingredients which led
 to a Republican convention delegation so markedly discrepant from
 either the rank-and-file of the Party or its customary leadership ."
 But apart from this statement, the whole emphasis of the article is
@@ -3322,37 +2798,30 @@ advertising the firm's products to those in the middle ;
 naturally their advertising zeal is likely to go down as the
 firm moves its site farther and farther away from them.
 In this sort of constellation traditional analysis would
-have no difficulty recognizing the limitations of the Hotel­
-ling-Downs model. The same goes for another qualification
+have no difficulty recognizing the limitations of the Hotelling-Downs model. The same goes for another qualification
 of the model which has already been mentioned : when
-sufficiently antagonized and outraged, the supposedly cap­
-tive members may either "sit this one out" or even secede
+sufficiently antagonized and outraged, the supposedly captive members may either "sit this one out" or even secede
 from the party and set up their own movement, however
 futile a gesture this may be. Here demand at the extreme
 would turn out to be elastic after all rather than totally
 inelastic and traditional concepts would account well
-enough for what is happening.17 But the crux of the mat­
-ter can now be sharply stated. These situations in which
+enough for what is happening.17 But the crux of the matter can now be sharply stated. These situations in which
 the supposedly powerless voters at the extreme manage to
 inflict actual vote losses on the party if it moves too far to
 the center are only special manifestations of the general
 influence and power that come with "having nowhere to
 go." In other words, that power exists and that influence
-will be brought to bear even without such direct and mea­
-surable effects on the party's vote ( or the firm's profits ) .
+will be brought to bear even without such direct and measurable effects on the party's vote ( or the firm's profits ) .
 There are a great many ways in which customers, voters,
 and party members can impress their unhappiness on a
 firm or a party and make their managers highly uncom-
 
 1 7. In line with the analyses of Lerner, Singer, and Smithies, in the
 articles cited in n . 1 0 , above, D owns speaks in this connection of the
-"influence type of party" or of "blackmail parties" (Economic The­
-ory of Democracy, pp. 1 3 1 -13 2 ) . Insofar as abstention is con cerned ,
+"influence type of party" or of "blackmail parties" (Economic Theory of Democracy, pp. 1 3 1 -13 2 ) . Insofar as abstention is con cerned ,
 recent research shows that by far the principal influence on voter
-turnout has been the ease or cumbersomeness of the registration pro­
-cedure rather than voter commitment to, or alienation from,
-indi­
-vidual candidate s . S e e S tanley Kel ley, J r . , R. E . Ayres . and W. G .
+turnout has been the ease or cumbersomeness of the registration procedure rather than voter commitment to, or alienation from,
+individual candidate s . S e e S tanley Kel ley, J r . , R. E . Ayres . and W. G .
 Bowen, "Registration and Voting : Putting First T hings First , 'T American
 Political Science Review, 6 1 :359-3 7 9 (June 1 9 67) .
 
@@ -3364,34 +2833,26 @@ The situation which has been discussed here invites one
 further speculation. It has previously been pointed out
 that different organizations are differentially sensitive to
 voice and exit and that the optimal mix of voice and exit
-will therefore differ from one type of organization to an­
-other. For example, state enterprise which in case of a
+will therefore differ from one type of organization to another. For example, state enterprise which in case of a
 cash deficit due to revenue losses knows it can rely on the
 treasury is likely to be far more sensitive, at least up to a
 point, to voice ( protests of consumers, appeals to higher
 authorities to replace existing management, and so forth )
-than to exit. This differential responsiveness has interest­
-ing consequences when the change in quality that gives
+than to exit. This differential responsiveness has interesting consequences when the change in quality that gives
 rise to consumer reaction is felt as deterioration by some
-consumers while others sense the change as an improve­
-ment. Assume in addition that, as the quality moves in one
+consumers while others sense the change as an improvement. Assume in addition that, as the quality moves in one
 direction, the organization exposes itself primarily to exit
 because the members antagonized by that move have an
-alternative organization to j oin while a move in the oppo­
-site direction will primarily activate voice of the antag­
-onized, but "captive," consumers. It is then possible to
+alternative organization to j oin while a move in the opposite direction will primarily activate voice of the antagonized, but "captive," consumers. It is then possible to
 predict the "quality path'' of the firm or organization.
-Suppose small quality changes in the organization's per­
-formance occur constantly as a result of random events.
+Suppose small quality changes in the organization's performance occur constantly as a result of random events.
 If the organization responds more to voice than to exit, it
 is much more likely to correct deviations from normal
 quality that are obnoxious to its "captive" consumers ;
 whereas deviations from quality that lead to exit of its
-noncaptive, exit-prone consumers would tend to go uncor­
-rected for a considerable time.
+noncaptive, exit-prone consumers would tend to go uncorrected for a considerable time.
 
-Insofar as this situation approximates reality, it pro­
-vides a rationale for the radicalization of political move-
+Insofar as this situation approximates reality, it provides a rationale for the radicalization of political move-
 
 18. See also Appendix A, last paragraph.
 
@@ -3399,18 +2860,14 @@ Dynamics o£ Two-Party Systems
 
 ment. The day-to-day policies of these movements tend to
 be influenced-specially when they are out of power-by
-their present activist members rather than by the preoc­
-cupation with losing the favor of all members and voters.
+their present activist members rather than by the preoccupation with losing the favor of all members and voters.
 Hence a shift toward the center whi ch antagonizes the
 captive but activist members is likely to be resisted more
 strenuously than a radical shift, even though the latter
 might lead to exit of the noncaptive members and voters.
-One could conj ecture that radicalization of political move­
-ments predicted by this model would assert itself the more
+One could conj ecture that radicalization of political movements predicted by this model would assert itself the more
 strongly the longer the interval between elections ; for
-electoral considerations can be expected to exert some re­
-straining influence on the power of the captive party mem­
-bers. B ut this whole matter is further complicated by the
+electoral considerations can be expected to exert some restraining influence on the power of the captive party members. B ut this whole matter is further complicated by the
 phenomenon of organizational loyalty.
 
 A Theory
@@ -3425,25 +2882,19 @@ to look as though voice is likely to play an important role
 in organizations only on condition that exit is virtually
 ruled out. In a large number of organizations one of the
 tvvo mechanisms is in fact wholly dominant : on the one
-hand, there is competitive business enterprise where per­
-formance maintenance relies heavily on exit and very
+hand, there is competitive business enterprise where performance maintenance relies heavily on exit and very
 little on voice ; on the other, exit is ordinarily unthinkable,
-though not always wholly impossible, from such primor­
-dial lluman groupings as family, tribe, church, and state.
+though not always wholly impossible, from such primordial lluman groupings as family, tribe, church, and state.
 The principal way for the individual member to register
 his dissatisfaction with the way things are going in these
 organizations is normally to make his voice heard in some
 fashion.1
 
-As an aside, it is worth noting that, with exit either im­
-possible or unthinkable, provision is generally made in
+As an aside, it is worth noting that, with exit either impossible or unthinkable, provision is generally made in
 these organizations for expelling or excommunicating the
 individual member in certain circumstances. Expulsion
-can be interpreted as an instrument-one of many­
-which "management" uses in these organizations to re­
-strict resort to voice by members ; a higher authority can
-then in turn restrict the powers of management by pro­
-hibiting expulsion, as is for example done to protect con-
+can be interpreted as an instrument-one of manywhich "management" uses in these organizations to restrict resort to voice by members ; a higher authority can
+then in turn restrict the powers of management by prohibiting expulsion, as is for example done to protect con-
 
 1. There is no intention here to associate absence of exit with
 "primitiveness." E dmund Leach has noted that many so-called
@@ -3464,9 +2915,7 @@ member or customer is a pointless affair and does not need
 to be specifically prohibited. One way of catching that
 somewhat rare bird, an organization where exit and voice
 both hold important roles, may be to look for groupings
-from which members can both exit and be expelled. Politi­
-cal parties and voluntary associations in general are ex­
-cellent examples.
+from which members can both exit and be expelled. Political parties and voluntary associations in general are excellent examples.
 
 The Activation of Voice as a Function of Loyalty
 
@@ -3477,8 +2926,7 @@ exit less likely, but does it, by the same token, give more
 scope to voice ?
 
 That the answer is in the positive can be made plausible
-by referring to the earlier discussion of voice. In Chap­
-ter 3 two principal determinants of the readiness to resort
+by referring to the earlier discussion of voice. In Chapter 3 two principal determinants of the readiness to resort
 to voice when exit is possible were shown to be :
 
 ( 1 ) the extent to which customer-members are willing
@@ -3491,14 +2939,10 @@ ity to influence the organization.
 
 No\v the first factor is clearly related to that special
 attachment to an organization known as loyalty. Thus,
-even with a given estimate of one's influence, the likeli­
-hood of voice increases V\rith the degree of loyalty. In addi­
-tion , the two factors are far from independent. A 1nember
-witl1 a considerable attachment to a product or organiza­
-tioll will often search for ways to make himself influential,
+even with a given estimate of one's influence, the likelihood of voice increases V\rith the degree of loyalty. In addition , the two factors are far from independent. A 1nember
+witl1 a considerable attachment to a product or organizatioll will often search for ways to make himself influential,
 
-especially when the organization moves in what he be­
-lieves is the wrong direction ; conversely, a member who
+especially when the organization moves in what he believes is the wrong direction ; conversely, a member who
 wields ( or thinks he wields) considerable power in an
 organization and is therefore convinced that he can get it
 "back on the track" is likely to develop a strong affection
@@ -3507,23 +2951,19 @@ for the organization in which he is powerful.2
 As a rule, then, loyalty holds exit at bay and activates
 voice. It is true that, in the face of discontent with the
 way things are going in an organization, an individual
-member can remain loyal without being influential him­
-self, but hardly without the expectation that someone will
+member can remain loyal without being influential himself, but hardly without the expectation that someone will
 act or something will happen to improve matters. That
 paradigm of loyalty, "our country, right or wrong," surely
 makes no sense whatever if it were expected that "our"
 country were to continue forever to do nothing but wrong.
-Implicit in that phrase is the expectation that "our" coun­
-try can be moved again in the right direction after doing
+Implicit in that phrase is the expectation that "our" country can be moved again in the right direction after doing
 some wrong-after all, it was preceded in Decatur's toast
 by "Our country ! In her intercourse with foreign nations,
-may she always be in the right ! " The possibility of influ­
-ence is in fact cleverly intimated in the saying by the use
+may she always be in the right ! " The possibility of influence is in fact cleverly intimated in the saying by the use
 of the possessive "our." This intimation of some influence
 and the expectation that, over a period of time, the right
 turns will more than balance the wrong ones, profoundly
-distinguishes loyalty from faith. A glance at Kierke­
-gaard's celebrated interpretation of Abraham's setting
+distinguishes loyalty from faith. A glance at Kierkegaard's celebrated interpretation of Abraham's setting
 out to sacrifice Isaac makes one realize that, in comparison
 
 2. In terms of of Appendix B, a person whose influence
@@ -3534,8 +2974,7 @@ even a little hope of recuperation for the traditional product. Thus
 he will choose voice. He who has little influence and knows it, on the
 other hand, is not likely to take kindly to such a trade-off. If he is to
 opt for voice rather than exit, he will normally require the certain
-availability of the competing product to be matched by the near-cer­
-tainty of recuperation for the traditional variety.
+availability of the competing product to be matched by the near-certainty of recuperation for the traditional variety.
 
 to that act of pure faith, the most loyalist behavior retains
 an enormous dose of reasoned calculation.
@@ -3545,38 +2984,26 @@ When is loyalty functional ?
 The importance of loyalty from our point of vie\v is that
 it can neutralize within certain limits the tendency of the
 most quality-conscious customers or members to be the
-first to exit. As has been shown in Chapter 4, this ten­
-dency deprives the faltering firm or organization of those
-who could best help it fight its shortcomings and its diffi­
-culties. As a result of loyalty, these potentially most in­
-fluential customers and members will stay on longer than
+first to exit. As has been shown in Chapter 4, this tendency deprives the faltering firm or organization of those
+who could best help it fight its shortcomings and its difficulties. As a result of loyalty, these potentially most influential customers and members will stay on longer than
 they would ordinarily, in the hope or, rather� reasoned
 expectation that improvement or reform can be achieved
 "from within.'' Thus loyalty, far from being irrational,
-can serve the socially useful purpose of preventing de­
-terioration from becoming cumulative, as it so often does
+can serve the socially useful purpose of preventing deterioration from becoming cumulative, as it so often does
 when there i s no barrier to exit.
 
-As j ust explained, the barrier to exit constituted by loy­
-alty is of finite height-it can be compared to such bar­
-riers as protective tariffs. As infant industry tariffs have
+As j ust explained, the barrier to exit constituted by loyalty is of finite height-it can be compared to such barriers as protective tariffs. As infant industry tariffs have
 been j ustified by the need to give local industry a chance
 to become efficient, so a measure of loyalty to a firm or
-organization has the function of giving that firm or orga­
-nization a chance to recuperate from a lapse in efficiency.
+organization has the function of giving that firm or organization a chance to recuperate from a lapse in efficiency.
 Specific institutional barriers to exit can often be j ustified
-on the ground that they serve to stimulate voice in deterio­
-rating, yet recuperable organizations which would be pre­
-maturely destroyed through free exit. This seems the most
+on the ground that they serve to stimulate voice in deteriorating, yet recuperable organizations which would be prematurely destroyed through free exit. This seems the most
 valid, though often not directly intended, reason for the
-complication of divorce procedures and for the expendi­
-ture of time, money, and nerves that they necessitate . . Sim­
-ilarly the American labor law sets up a· fairly complex and
+complication of divorce procedures and for the expenditure of time, money, and nerves that they necessitate . . Similarly the American labor law sets up a· fairly complex and
 time-consuming procedure for one trade union to take
 
 over from another as the sole certified bargaining agent at
-the plant level . Consequently, when workers are dissatis­
-fied \vith the services of a union, they cannot switch easily
+the plant level . Consequently, when workers are dissatisfied \vith the services of a union, they cannot switch easily
 and rapidly to another and are that much more likely to
 make an effort at revitalizing the union with which they
 are affiliated.
@@ -3588,26 +3015,19 @@ exit, or, in their absence, the generalized, informal barrier
 of loyalty are particularly desirable or "functional." It
 was shown, for one, that in the choice between voice and
 exit, voice will often lose out, not necessarily because it
-\Vould be less effective than exit, but because its effective­
-ness depends on the discov ery of new ways of exerting in­
-fluence and pressure toward recovery. However "easy"
+\Vould be less effective than exit, but because its effectiveness depends on the discov ery of new ways of exerting influence and pressure toward recovery. However "easy"
 such a discovery may look in retrospect the chances for
 it are likely to be heavily discounted in ex ante estimates,
 for creativity always comes as a surprise. Loyalty then
 helps to redress the balance by raising the cost of exit. It
-thereby pushes men into the alternative, creativity-requir­
-ing course of action from which they would normally re­
-coil and performs a function similar to the underestimate
-of the prospective task's difficulti es. I have elsewhere de­
-scribed ho\v such underestimates can act as a beneficial
+thereby pushes men into the alternative, creativity-requiring course of action from which they would normally recoil and performs a function similar to the underestimate
+of the prospective task's difficulti es. I have elsewhere described ho\v such underestimates can act as a beneficial
 "I-Iiding Hand" in j ust this manner.3 Loyalty or specific
 institutional barriers to exit are therefore particularly
 functional whenever the effective use of voice requires a
-great deal of social inventiveness while exit is an avail­
-able, yet not wholly effective, option.
+great deal of social inventiveness while exit is an available, yet not wholly effective, option.
 
-Secondly, the usefulness of loyalty depends on the close­
-ness of the available substitute. When the outputs of two
+Secondly, the usefulness of loyalty depends on the closeness of the available substitute. When the outputs of two
 competing organizations are miles apart with respect to
 price or quality, there is much scope for voice to come into
 
@@ -3623,41 +3043,33 @@ substitutes so that a small deterioration of one of them
 will send customer-members scurrying to the other. This
 conclusion is a little unexpected. Expressed as a paradox,
 it asserts that loyalty is at its most functional when it
-looks most irrational, when loyalty means strong attach­
-ment to an organization that does not seem to wat·rant
+looks most irrational, when loyalty means strong attachment to an organization that does not seem to wat·rant
 such attachment because it is so much like another one
 that is also available. Such seemingly irrational loyalties
 are often encountered, for example, in relation to clubs,
 football teams, and political parties. Even though it was
 argued in Chapter 6 that parties in a two-party system
 are less likely to move toward and resemble each other
-than has sometimes been predicted, the tendency does as­
-sert itself on occasion. The more this is so the more irra­
-tional and outright silly does stubborn party loyalty look ;
+than has sometimes been predicted, the tendency does assert itself on occasion. The more this is so the more irrational and outright silly does stubborn party loyalty look ;
 yet that is precisely when it is most useful. Loyalty to
 one's country, on the other hand, is something we could
 do without, since countries can ordinarily be considered
 to be well-differentiated products. Only as countries start
-to resemble each other because of the advances in com­
-munication and all-round modernization will the danger of
-premature and excessive exits arise, the "brain drain" be­
-ing a current example. At that point, a measure of loyalty
+to resemble each other because of the advances in communication and all-round modernization will the danger of
+premature and excessive exits arise, the "brain drain" being a current example. At that point, a measure of loyalty
 will stand us in good stead. Also, there are some countries
 that resemble each other a good deal because they share a
 common history, language, and culture ; here again loyalty
 is needed more than i n countries that stand more starkly
 alone as was precisely implied by the comparison between
-Latin America and Japan , which was cited above ( Chap­
-ter 5 ) .
+Latin America and Japan , which was cited above ( Chapter 5 ) .
 
 Finally, what was said in Chapter 4 about the danger of
 losing influential customers when a higher-quality, higher-
 
 price product is available "nearby," points to another
 
-conclusion on the comparative need for loyalty. If organi­
-zations can be ranked along a single scale in order of qual­
-ity, prestige, or some other desirable characteristic, then
+conclusion on the comparative need for loyalty. If organizations can be ranked along a single scale in order of quality, prestige, or some other desirable characteristic, then
 
 those at the densely occupied lower end of the scale will
 
@@ -3718,63 +3130,50 @@ tially costless, except for the cost of gathering informa-
 
 tion about alternative products and organizations. Also,
 when loyalty is not present, the individual member is
-likely to have a low estimate of his influence on the orga­
-nization, as already explained. Hence, the decision to exit
+likely to have a low estimate of his influence on the organization, as already explained. Hence, the decision to exit
 will ,be taken and carried out in silence. The threat of exit
-will typically be made by the loyalist-that is, by the mem­
-ber who cares-who leaves no stone unturned before he
+will typically be made by the loyalist-that is, by the member who cares-who leaves no stone unturned before he
 resigns himself to the painful decision to withdraw or
 switch.
 
 The relationship between voice and exit has now become
-more complex. So far it has been shown how easy availa­
-bility of the exit option mal{es the recourse to voice less
+more complex. So far it has been shown how easy availability of the exit option mal{es the recourse to voice less
 likely. Now it appears that the effectiv eness of the voice
 mechanism is strengthened by the possibility of exit. The
 willingness to develop and use the voice mechanism is
 reduced by exit, but the ability to use it with effect is
-increased by it. Fortunately, the contradiction is not in­
-soluble. Together, the two propositions merely spell out
+increased by it. Fortunately, the contradiction is not insoluble. Together, the two propositions merely spell out
 the conditions under which voice ( a) will be resorted to
-and ( b ) bids fair to be effective : there should be the pos­
-sibility of exit, but exit should not be too easy or too at­
-tractive as soon as deterioration of one's own organization
+and ( b ) bids fair to be effective : there should be the possibility of exit, but exit should not be too easy or too attractive as soon as deterioration of one's own organization
 sets in.
 
 The correctness of this proposition can be illustrated by
 the extent to which parties are responsive to the voice of
-the membership. The parties of totalitarian one-party sys­
-tems have been notoriously unresp-onsive-as have been
+the membership. The parties of totalitarian one-party systems have been notoriously unresp-onsive-as have been
 the parties of multi-party systems. In the former case, the
 absence of the possibility of either voice or exit spelled
-absolute control of the party machinery by whatever lead­
-ership dominated the party. But in the second case, with
+absolute control of the party machinery by whatever leadership dominated the party. But in the second case, with
 both exit and voice freely available, internal democracy
 does not get much of a chance to develop either because,
 with many parties in the field, members will usually find
-it tempting to go over to some other party in case of dis­
-agreement. Thus they will not fight for "change from
+it tempting to go over to some other party in case of disagreement. Thus they will not fight for "change from
 
 \vithin." In this connection it may be significant that
 Michels's "Iron Law of Oligarchy" according to which
-all parties ( and other large-scale organizations ) are in­
-variably ruled by self-serving oligarchies was based on
+all parties ( and other large-scale organizations ) are invariably ruled by self-serving oligarchies was based on
 first-hand acquaintance primarily with the multi-party
 syE,tems of Continental Western Europe. The best possible
 arrangement for the development of party responsiveness
 to the feelings of members may then be a system of just a
 very few parties, whose distance from each other is wide,
-but not unbridgeable. In this situation, exit remains pos­
-sible, but the decision to exit will not be taken lightheart­
-edly. Hence voice will be a frequent reaction to discontent
+but not unbridgeable. In this situation, exit remains possible, but the decision to exit will not be taken lightheartedly. Hence voice will be a frequent reaction to discontent
 'vith the way things are going and members will fight to
 make their voice effective. This prediction of our theory is
 confirmed by the lively internal struggles characteristic
 of parties in existing two-party systems, however far they
 may be from being truly democratic. Even in parties in
 nontotalitarian almost-one-party systems, as for example
-the Congress party of India and the PR I ( Partido Revo­
-lucionario Institucional ) of Mexico, voice has been more
+the Congress party of India and the PR I ( Partido Revolucionario Institucional ) of Mexico, voice has been more
 in evidence than in many of the often highly authoritarian
 or oligarchic parties of multi-party systems. *
 
@@ -3783,21 +3182,15 @@ In two-party systems, exit can happen not only as a re-
 * A related point of considerable importance is suggested to me
 by the recent article of Michael Walzer, "Corporate Authority and
 Civil Disobedience," Dissent ( September-October 1969 ) , pp. 396-
-406. The strict democratic controls to which supreme political au­
-thority is subjected in Western democracies are contrasted in the
-article with the frequently total absence of such controls in cor­
-porate bodies functioning within these same states. As the author
-shows, this absence or feebleness of voice in most commercial, indus­
-trial, professional, educational, and religious organizations is often
+406. The strict democratic controls to which supreme political authority is subjected in Western democracies are contrasted in the
+article with the frequently total absence of such controls in corporate bodies functioning within these same states. As the author
+shows, this absence or feebleness of voice in most commercial, industrial, professional, educational, and religious organizations is often
 justified by the argument that "if [their members] don't like it
 where they are, they can leave" (p. 397 ) , something they cannot do
-in relation to the state itself. Walzer argues strongly that this argu­
-ment is a poor excuse which should not be allowed to stand in the
+in relation to the state itself. Walzer argues strongly that this argument is a poor excuse which should not be allowed to stand in the
 way of democratization ; but as a matter of positive political science,
 it is useful to note that the greater the opportunities for exit, the
-easier it appears to be for organizations to resist, evade, and post­
-pone the introduction of internal democracy even though they func­
-tion in a democratic environment.
+easier it appears to be for organizations to resist, evade, and postpone the introduction of internal democracy even though they function in a democratic environment.
 
 suit of a member or group of members of one party going
 over to the other, but because it is always possible to
@@ -3807,25 +3200,21 @@ try by the members, such launching must not be too easy
 and tradition of the two-party system, as well as by the
 institutional obstacles ordinarily placed in the way of
 third parties. On the other hand, if voice is to be at its
-most effective, the threat of exit must be credible, pa-rticu­
-larly when it most counts. In American presidential politics
+most effective, the threat of exit must be credible, pa-rticularly when it most counts. In American presidential politics
 this set of conditions for maximizing the effectiveness of
 voice means that a group of party members should be able
 to stay within the party up to the nominating convention
 and still be able to form a third party between the end of
-the convention and election time. If exit is made too diffi­
-cult by requiring the group to qualify as a party at a date
+the convention and election time. If exit is made too difficult by requiring the group to qualify as a party at a date
 prior to the convention, the dissenting group must either
 exit before the convention o1· go to the convention without
-being able to make an effective threat of exit. More strin­
-gent conditions for exit fail here to strengthen voice ;
+being able to make an effective threat of exit. More stringent conditions for exit fail here to strengthen voice ;
 rather they make for either premature exit or for less
 effective voice. The point is well put by Alexander Bickel :
 
 The characteristic American third party . . . consists
 of a group of people who have tried to exert influence
-within one of the maj or parties, have failed, and later de­
-cide to work on the outside. States in which there is an
+within one of the maj or parties, have failed, and later decide to work on the outside. States in which there is an
 early qualifying date tend to force such groups to forego
 maj or-party primary and other prenomination activity
 and organize separately, early in an election year. For if
@@ -3833,8 +3222,7 @@ they do not they lose all opportunity for action as a third
 party later.4
 
 The author adds that this is counterproductive from
-the point of view of the two-party system ; the same j udg­
-ment can be made from the point of view of achieving
+the point of view of the two-party system ; the same j udgment can be made from the point of view of achieving
 
 4. Alexander M. Bickel, "Is Electoral Reform the Answer?" Com­
 
@@ -3844,18 +3232,14 @@ party responsiveness to its members tl1rough the most
 effective mix of voice and exit.
 
 T\vo conclusions stand out from this discussion : ( 1 ) the
-detail of institutional design can be of considerable im­
-portance for the balance of exit and voice ; ( 2 ) this bal­
-ance, in turn, can help account for the varying extent of
+detail of institutional design can be of considerable importance for the balance of exit and voice ; ( 2 ) this balance, in turn, can help account for the varying extent of
 internal democracy in organizations.
 
 Boyco tt
 
-Boycott is another phenomenon on tl1e border line be­
-tween voice and exit, j ust like the threat of exit. Through
+Boycott is another phenomenon on tl1e border line between voice and exit, j ust like the threat of exit. Through
 boycott, exit is actually consummated rather than j ust
-threatened ; but it is undertal\:en for the specific and ex­
-plicit purpose of achieving a change of policy on the part
+threatened ; but it is undertal\:en for the specific and explicit purpose of achieving a change of policy on the part
 of the boycotted organization and is therefore a true
 hybrid of the two mechanisms. The threat of exit as an
 instrument of voice is here replaced by its mirror image,
@@ -3879,13 +3263,11 @@ It may be helpful to set up a more formal 1nodel of what
 happens when choice between two competing goods or
 organizations is a ffected by loyalty. For the purpose of
 
-this inquiry, it will be assumed once again that the nor­
-mally bought product or the organization to which one
+this inquiry, it will be assumed once again that the normally bought product or the organization to which one
 belongs begins to deteriorate. The focus will now be on
 organizations and their policies, rather than on firms and
 their products. Quality deterioration must therefore be
-redefined in subj ective terms : from the member's view­
-point, it is equivalent to increasing disagreement with the
+redefined in subj ective terms : from the member's viewpoint, it is equivalent to increasing disagreement with the
 organization's policies.
 
 In the horizontal axis measures quality of an
@@ -3929,17 +3311,14 @@ agreement
 
 W i den i ng d i sag reement
 
-Figure 1 . Loyalist behavior in the face of increasing disagree­
-ment with an organization
+Figure 1 . Loyalist behavior in the face of increasing disagreement with an organization
 
 organization which is moving from the point where the
-member finds himself in complete agreement with its poli­
-cies to the point of total disagreement. The vertical axis
+member finds himself in complete agreement with its policies to the point of total disagreement. The vertical axis
 measures the amount of effective voice that is forthcoming
 in response to various degrees of disagreement.
 
-At some point in the process of the organization's head­
-ing in the ��wrong" direction, members will begin attempts
+At some point in the process of the organization's heading in the ��wrong" direction, members will begin attempts
 to use their influence to correct and reverse the process,
 and these attempts will become stronger as disagreement
 widens. There comes a point in this process at which exit
@@ -3949,56 +3328,46 @@ brake on the decision to exit. The loyal member does
 no t exit, but something happens to him : he begins to be
 acutely unhappy about continuing as a member, contracts
 qualms or Bauchschmerzen ( bellyaches ) as the phrase
-went among German Communist party members dissatis­
-fied with the party line. Normally he will make stronger
-attempts than hitherto to change the line and will inten­
-sify the use of voice in its various forms for this purpose ;
+went among German Communist party members dissatisfied with the party line. Normally he will make stronger
+attempts than hitherto to change the line and will intensify the use of voice in its various forms for this purpose ;
 hence we show a kink in the voice function at this point,
 and a steeper slope after it. Then, as disagreement widens
 further, the member will have thoughts of exit and
 threaten it ( TX-point of Threat of eXit ) if that action
 can be at all expected to enhance the effectiveness of voice.
 The threat of exit means a discontinuous increase in the
-amount of voice that is forthcoming ; this explains the ver­
-tical slope of the voice function at this point. Finally, loy­
-alty reaches its breaking point and exit ensues ( at point
+amount of voice that is forthcoming ; this explains the vertical slope of the voice function at this point. Finally, loyalty reaches its breaking point and exit ensues ( at point
 XWL-point of eXit With Loyalty ) . The strength of the
 grip which loyalty has on the customer or member can be
 measured either by the distance between XAL and TX or
 by that between XAL and XWL. These two distances define
 two different varietie-s of loyalty.- The former represents
-loyalty with no thought of exit-in many basic organiza­
-tions, exit is normally entirely outside the horizon of the
+loyalty with no thought of exit-in many basic organizations, exit is normally entirely outside the horizon of the
 member, even though he may be quite unhappy about his
 condition as member. The distance between XAL and XWL
 represents a more inclusive concept of loyalist behavior.
 The distance TX-XWL represents the portion of the
 process of deterioration during which the member thinks
 
-about exit and is liable to use the threat of exit for the pur­
-pose of changing the policies of the organization. This
+about exit and is liable to use the threat of exit for the purpose of changing the policies of the organization. This
 threat being in some situations a particularly potent
 weapon, the total volume of effective voice that is generated
 in the course of the process of deterioration may be more
 closely related to that distance than to the total stretch
 of loyalist behavior (XAL-XWL) .
 
-With the help of this model, speculation about the loyal­
-ist's behavior can be carried a little further .
+With the help of this model, speculation about the loyalist's behavior can be carried a little further .
 . Suppose he
 has exited ( exit from a product means ordinarily "entry"
-into a competing product, whereas exit from an organiza­
-tion can mean simply passage from the set of members to
+into a competing product, whereas exit from an organization can mean simply passage from the set of members to
 the set of nonmembers ) and the product or organization
-he has left achieves recovery : At what point of the orga­
-nization's "road back" will he re-enter ? It seems quite
+he has left achieves recovery : At what point of the organization's "road back" will he re-enter ? It seems quite
 unlikely that he will do so as soon as recovery reaches
 point XWL at which he exited. Just because he suffered
 between XAL and XWL he will now wait at leas t until
 the product or the organization has returned to point XAL
 at which previously he began to have qualms. He may very
-well require higher quality as an extra margin of insur­
-ance that renewed slippage will not immediately saddle
+well require higher quality as an extra margin of insurance that renewed slippage will not immediately saddle
 him with Bauchschmerzen once again ; in many cases , of
 coui�se, the whole process may have left behind such scars
 that re-entry is altogether inconceivable. Thus the points
@@ -4008,10 +3377,8 @@ way of measuring the strength of loyalty for different
 products and organizations.
 
 If progressive deterioration and then improvement of
-quality in the above model is replaced by successive de­
-clines and then increases in the prices of assets, loyalist
-behavior is seen to be akin to that of the naive, small, odd­
-lot investor who typically sells stocks cheap to stop his
+quality in the above model is replaced by successive declines and then increases in the prices of assets, loyalist
+behavior is seen to be akin to that of the naive, small, oddlot investor who typically sells stocks cheap to stop his
 losses and buys back dear after stock values have risen
 considerably beyond those at which they were sold. Unlike
 
@@ -4020,22 +3387,19 @@ such investors, however, the loyalist is not necessarily a
 organization should have as counterpart an increase in the
 chances of their recovery. It is only if such recovery fails
 to occur that he looks like, and turns out to be, a sucker.
-But in that case he has lost the bet on recovery that is im­
-plicit in loyalist behavior.
+But in that case he has lost the bet on recovery that is implicit in loyalist behavior.
 
 An observation of interest to the economist : loyalist
 behavior as sketched out here leads to a breakup of the
 traditional demand curve which establishes a one-to-one
 relationship between price
 ( or quality ) and quantity
-bought into two distinct curves. When a loyalty-command­
-ing product first deteriorates and then improves, there will
+bought into two distinct curves. When a loyalty-commanding product first deteriorates and then improves, there will
 be one demand schedule for the downward movement in
 quality, with low demand elasticities at the beginning and
 high ones eventually as intolerable deterioration finally
 does lead to exit of the loyalists, and quite another one as
-quality recovers. During the improvement phase, elastici­
-ties will be low in the low-quality ranges and will only
+quality recovers. During the improvement phase, elasticities will be low in the low-quality ranges and will only
 eventually become higher as improvement is co11firmed.5
 
 5. This proposition is easily diagrammed. The figure below shows
@@ -4064,8 +3428,7 @@ or organization on present behavior of the customers or
 
 members.
 
-These remarks make it tempting to introduce the con­
-cept of unconscious loyalist behavior. A situation similar
+These remarks make it tempting to introduce the concept of unconscious loyalist behavior. A situation similar
 to the one in which the points of exit and of re-entry do
 
 not coincide has been described by psychologists. If, say,
@@ -4084,8 +3447,7 @@ dog direction, a maj ority of images will be labeled "cat,"
 
 and vice versa!J To this extent then, the general difficulties
 
-of recognizing change are a breeding ground for uncon­
-scious loyalist behavior in case of deterioration, as well as
+of recognizing change are a breeding ground for unconscious loyalist behavior in case of deterioration, as well as
 for prolonged reluctance toward entry or re-entry in case
 
 the organization improves.7 Since unconscious loyalist be­
@@ -4096,29 +3458,22 @@ lead to voice. This behavior whose onset is marked by point
 
 6. K. R. L. Hall, "Perceiving and Naming a Series of Figures,"
 Quarterly Journal of Experimental Psychology, 2 : 153-162 ( 1950) .
-Similar results have been obtained in experiments designed to in­
-vestigate how diverse bits and pieces of information are combined
-and integrated. When, for example, several personality trait adjec­
-tives are read to the subjects of the experiment, the over-all j udg­
-ment about the person described by the adj ectives depends on the
-order in which the adjectives have been named, with the earlier­
-named ones apparently receiving a higher weight. For instance, the
-sequence ''intelligent, prudent, moody, self-centered" produces a bet­
-ter over-all impression than the reverse sequence. This phenomenon
+Similar results have been obtained in experiments designed to investigate how diverse bits and pieces of information are combined
+and integrated. When, for example, several personality trait adjectives are read to the subjects of the experiment, the over-all j udgment about the person described by the adj ectives depends on the
+order in which the adjectives have been named, with the earliernamed ones apparently receiving a higher weight. For instance, the
+sequence ''intelligent, prudent, moody, self-centered" produces a better over-all impression than the reverse sequence. This phenomenon
 is known as "primacy effect." See Norman H. Anderson, " Primacy
 Effects in Personality Impression Formation," Journal of Social
 Psychology, 2 : 1-9 ( June 1965 ) , and literature there noted.
 
 7. Robert Jervis, "Hypotheses on Misperception," World Politics,
-20 : 439-453 ( April 1968 ) , and Albert 0. Hirschman, ''Underdevelop­
-ment, Obstacles to the Perception of Change, and Leadership,"
+20 : 439-453 ( April 1968 ) , and Albert 0. Hirschman, ''Underdevelopment, Obstacles to the Perception of Change, and Leadership,"
 Daedalus ( Summer 1968) , pp. 925-936.
 
 ULB ( Unconscious Loyal Behavior) is loyalist only from
 the point of view of an outside observer who feels that
 voice- or exit-justifying deterioration has indeed set in.
-The member is simply unaware of the degree of deteriora­
-tion that is taking place.
+The member is simply unaware of the degree of deterioration that is taking place.
 
 The model which has been outlined will be useful in
 
@@ -4129,8 +3484,7 @@ and High Penalties for Exit
 
 Loyalty has so far been hailed as a force which, in the
 act of postponing exit, strengthens voice and may thus
-save firms and organizations from the dangers of exces­
-sive or premature exit . . Something has already been said,
+save firms and organizations from the dangers of excessive or premature exit . . Something has already been said,
 however, about situations in which loyalty does not play
 so providential a role. The various institutions designed
 to foster loyalty have obviously not been established with
@@ -4141,110 +3495,76 @@ of human action, not of human design." 8
 It is always pleasant for the social scientist to discover
 such hidden and unintended harmonies, but the discovery
 carries with it an obligation to look out for situations that
-fall short of harmony. In the present case, the opportuni­
-ties for a nonoptimal outcome are numerous. It is possible
+fall short of harmony. In the present case, the opportunities for a nonoptimal outcome are numerous. It is possible
 for loyalty to overshoot the mark and thus to produce an
 exit-voice mix in which the exit option is unduly neglected.
-Secondly, it must be realized that loyalty-promoting insti­
-tutions and devices are not only uninterested in stimulat­
-ing voice at the expense of exit : indeed they are often
+Secondly, it must be realized that loyalty-promoting institutions and devices are not only uninterested in stimulating voice at the expense of exit : indeed they are often
 meant to repress voice alongside exit. While feedback
 through exit or voice is in the long-run interest of orgas. This phrase, used by F. A. Hayek as the title of an essay in
-Studies in Philosophy, Politics, and Economics ( Chicago : Univer­
-sity of Chicago Press, 1967 ) , is traced by him to Adam Ferguson's
+Studies in Philosophy, Politics, and Economics ( Chicago : University of Chicago Press, 1967 ) , is traced by him to Adam Ferguson's
 Essay on the History of Civil Society ( 1767 ) .
 
 nization managers, their short-run interest is to entrench
 themselves and to enhance their freedom to act as they
 wish, unmolested as far as possible by either desertions
-or complaints of members. Hence management can be re­
-lied on to think of a variety of institutional devices aiming
+or complaints of members. Hence management can be relied on to think of a variety of institutional devices aiming
 at anything but the combination of exit and voice which
 may be ideal from the point of view of society.
 
-High fees for entering an organization and stiff penal­
-ties for exit are among the main devices generating or re­
-inforcing loyalty in such a way as to repress either exit or
-voice or both. How do these devices affect our model of loy­
-alist behavior ? The concept of unconscious loyalist be­
-havior can serve to open up the subj ect. As was j ust shown,
+High fees for entering an organization and stiff penalties for exit are among the main devices generating or reinforcing loyalty in such a way as to repress either exit or
+voice or both. How do these devices affect our model of loyalist behavior ? The concept of unconscious loyalist behavior can serve to open up the subj ect. As was j ust shown,
 this type of behavior cannot give rise to voice ; and because
 like all loyal behavior it also postpones exit, it will be
-prized by organizations whose management wishes mem­
-bers to refrain from both exit and voice. Such organiza­
-tions will be looking for devices converting, as it were,
+prized by organizations whose management wishes members to refrain from both exit and voice. Such organizations will be looking for devices converting, as it were,
 conscious into unconscious loyalist behavior.
 
 Actually there often is no clear dividing line between
-these two types of behavior, because the customer or mem­
-ber of the organization may have a considerable stake in
+these two types of behavior, because the customer or member of the organization may have a considerable stake in
 self-deception, that is, in fighting the realization that the
 organization he belongs to or the product he has bought
 are deteriorating or defective. He will particularly tend to
 repress this sort of awareness if he has invested a great
-deal in his purchase or membership. In organizations en­
-try into which is expensive or requires severe initiation,
-recognition by members of any deterioration will there­
-fore be delayed and so will be the onset of voice. By the
-same token, however, it may be expected that once deteri­
-oration is adverted to, members of an organization that
+deal in his purchase or membership. In organizations entry into which is expensive or requires severe initiation,
+recognition by members of any deterioration will therefore be delayed and so will be the onset of voice. By the
+same token, however, it may be expected that once deterioration is adverted to, members of an organization that
 requires severe initiation will fight hard to prove that they
 were right after all in paying that high entrance fee. Thus
-while the onset of voice will be delayed by severe initia­
-tion, resort to it is likely to be more active than is ordi­
-narily the case during a subsequent phase of loyalist
+while the onset of voice will be delayed by severe initiation, resort to it is likely to be more active than is ordinarily the case during a subsequent phase of loyalist
 
-behavior. The high cost of entry will change the time­
-pattern of voice, but may well not reduce its aggregate
+behavior. The high cost of entry will change the timepattern of voice, but may well not reduce its aggregate
 volume.9
 
-This finding implies a modification of the theory of cog­
-nitive dissonance. The theory has normally shown how
+This finding implies a modification of the theory of cognitive dissonance. The theory has normally shown how
 people will alter their cognitions and beliefs so as to make
-them more consistent with some "discrepant" act or be­
-havior they have engaged in and which is difficult to recon­
-cile with these beliefs. In the case just noted, the act is
+them more consistent with some "discrepant" act or behavior they have engaged in and which is difficult to reconcile with these beliefs. In the case just noted, the act is
 more or less severe initiation and the cognition, in one
-'veil-known experiment, was the boring nature of the ac­
-tivities of the organization of which one has become a
-member. The theory predicted-and the experiment con­
-firmed-that the severer the initiation the higher will be
+'veil-known experiment, was the boring nature of the activities of the organization of which one has become a
+member. The theory predicted-and the experiment confirmed-that the severer the initiation the higher will be
 the degree of self-deception, that is, the more fascinating
 will the boring activities seem to the member.10 Assume
 now, that there is not only some limit to self-deception
-but, and this is more important, room for making the ac­
-tivities of the organization more interesting as a result of
+but, and this is more important, room for making the activities of the organization more interesting as a result of
 members' initiative : then the same basic experimental
-constellation would lead to the prediction that severe­
-initiation members will display more initiative and will
+constellation would lead to the prediction that severeinitiation members will display more initiative and will
 be more activist than the rest after having at first been
-more complacent and passive. Hence, a situation of dis­
-sonance may produce not only alterations of beliefs, atti­
-tudes, and cognitions, but could lead to actions designed
+more complacent and passive. Hence, a situation of dissonance may produce not only alterations of beliefs, attitudes, and cognitions, but could lead to actions designed
 to change the real world when that is an alternative way
 ( and particularly when it is the only way ) of overcoming
 or reducing dissonance.11
 
 9. As is shown by the curved line in :.
 1 0. E. Aronson and J. Mills, "The Effects of Severity of Initiation
-on Liking for a Group," Journal of Abnormal and Social Psychol­
-ogy, 59 : 177-181 ( 1959 ) . See also, for further refinement of the ex­
-perimental results of Aronson-Mills and rebuttal of some criticisms,
+on Liking for a Group," Journal of Abnormal and Social Psychology, 59 : 177-181 ( 1959 ) . See also, for further refinement of the experimental results of Aronson-Mills and rebuttal of some criticisms,
 H. B. Gerard and G. C. Mathewson, "The Effects of Severity of
-Initiation on Liking for a Group : A Replication," Journal of Ex­
-perimental Social Psychology, 2 : 278-287 (July 1966 ) . See Appendix
+Initiation on Liking for a Group : A Replication," Journal of Experimental Social Psychology, 2 : 278-287 (July 1966 ) . See Appendix
 E for a fuller statement on these papers.
 
-1 1 . In spite of superficial resemblance, the hypothesis here pro­
-posed is fundamentally different from the one put forward and
+1 1 . In spite of superficial resemblance, the hypothesis here proposed is fundamentally different from the one put forward and
 
-This hypothesis is to be tested experimentally by Pro­
-fessor Philip Zimbardo of Stanford University and his
+This hypothesis is to be tested experimentally by Professor Philip Zimbardo of Stanford University and his
 associates.12 Pending the outcome of these efforts, it is
-perhaps permissible to appeal to scattered historical evi­
-dence for illustration. Take the well-known and well-tested
-maxim that "revolution, like Saturn, devours its own chil­
-dren." Why this should be so is now easily understood : in
+perhaps permissible to appeal to scattered historical evidence for illustration. Take the well-known and well-tested
+maxim that "revolution, like Saturn, devours its own children." Why this should be so is now easily understood : in
 "making the revolution" revolutiona�ies have paid a high
 personal price in risk-taking, sacrifice, and single-minded
 commitment. Once the revolution is made, a gap between
@@ -4252,8 +3572,7 @@ the actual and the expected state of affairs is only too
 likely to arise. To eliminate that gap those who have paid
 the highest price for bringing about the new reality will
 be most strongly motivated to change it anew. In the
-process, they will take on some of their fellow revolution­
-aries who are now in positions of authority and a large
+process, they will take on some of their fellow revolutionaries who are now in positions of authority and a large
 number of the revolutionaries on either the one side or the
 other or on both will come to grief in the ensuing fight.
 
@@ -4266,9 +3585,7 @@ and Stanley Schachter
 Press, 1956 ) . In this classic of the literature of cognitive dissonance,
 the authors investigated the effects on a group of believers of an
 unequivocal disconfirmation of their belief. In line with the theory's
-predictions, the believers became more vigorously engaged in pros­
-elyting activities than before. This activity, however, must be in­
-terpreted as an attempt to eliminate dissonance by "forgetting" the
+predictions, the believers became more vigorously engaged in proselyting activities than before. This activity, however, must be interpreted as an attempt to eliminate dissonance by "forgetting" the
 disconfirmation, by drowning out the dissonant cognition, rather
 than by changing it. Both the Aronson-Mills and the Prophecy situ­
 (boring
@@ -4310,15 +3627,13 @@ tively flee and you can actively stay put"-this phrase of
 
 Erik Erikson is again most pertinent. It was quoted once
 
-before, in connection with the likely behavior of the qual­
-ity-conscious consumer. The coincidence is not accidental,
+before, in connection with the likely behavior of the quality-conscious consumer. The coincidence is not accidental,
 
 for severe initiation no doubt makes for quality-conscious­
 
 ness.
 
-A different kind of distortion of the model of loyalist be­
-havior occurs when an organization is able to exact a high
+A different kind of distortion of the model of loyalist behavior occurs when an organization is able to exact a high
 price for exit ( over and above the forfeit of the price for
 
 entry which occurs inevitably with exit) . Such a price can
@@ -4347,16 +3662,13 @@ threat of exit. Obviously, if exit is followed by severe
 
 sanctions the very idea of exit is going to be repressed
 
-14. The activation of exit is shown in through the loca­
-tion of point XSI ( eXit of members having received Severe Initia­
-tion) ahead of XWL.
+14. The activation of exit is shown in through the location of point XSI ( eXit of members having received Severe Initiation) ahead of XWL.
 
 15. For an account of the terror of leaving the Communist party,
 see Gabriel A. Almond, The Appeals of Communism ( Princeton,
 195 4 ) , ch. 12.
 
-and the threat will not be uttered for fear that the sanc­
-tion will apply to the threat as well as to the act itself. I11
+and the threat will not be uttered for fear that the sanction will apply to the threat as well as to the act itself. I11
 terms of the model, point TX will be moved to the left and
 is in fact likely to disappear altogether, that is, merge
 with XWL, the point of exit when loyalty is present. This
@@ -4367,20 +3679,17 @@ can command strong spontaneous loyalty while being
 unwilling or unable to impose stiff penalties for exit, the
 main change in members' behavior under conditions of
 progressive deterioration of the organization is likely to
-be the omission of the threat of exit rather than the post­
-ponement of exit itself.
+be the omission of the threat of exit rather than the postponement of exit itself.
 
 What happens to voice in organizations where the price
-of exit is high ? Some tentative suggestions can be ad­
-vanced by distinguishing between those high-exit-price
+of exit is high ? Some tentative suggestions can be advanced by distinguishing between those high-exit-price
 organizations where the price of entry is zero (because,
 as in the case of the family or nation, one enters them as
 a result of one's birth ) and those where this price is high
 as well. For the latter organizations it has j ust been shown
 that the onset of felt discontent and therefore of voice will
 be delayed. Since the high price of exit does away, on the
-other hand, with the threat of exit as an effective instru­
-ment of voice, the�e organizations ( gangs, totalitarian
+other hand, with the threat of exit as an effective instrument of voice, the�e organizations ( gangs, totalitarian
 parties ) will often be able to repress both voice and exit.
 In the process, they will largely deprive themselves of
 both recuperation mechanisms.16
@@ -4411,22 +3720,18 @@ The reluctance to exit in spite of disagreement with the
 organization of which one is a member is the hallmark of
 loyalist behavior. When loyalty is present exit abruptly
 changes character : the applauded rational behavior of the
-alert consumer shifting to a better buy becomes disgrace­
-ful defection, desertion, and treason.
+alert consumer shifting to a better buy becomes disgraceful defection, desertion, and treason.
 
-Loyalist behavior, as examined thus far, can be under­
-stood in terms of a generalized concept of penalty for exit.
+Loyalist behavior, as examined thus far, can be understood in terms of a generalized concept of penalty for exit.
 The penalty may be directly imposed, but in most cases it
 is internalized. The individual feels that leaving a certain
 group carries a high price with it, even though no specific
-sanction is imposed by the group. In both cases, the deci­
-sion to remain a member and not to exit in the face of a
+sanction is imposed by the group. In both cases, the decision to remain a member and not to exit in the face of a
 superior alternative would thus appear to follow from a
 perfectly rational balancing of prospective private benefits
 against private costs. Loyalist behavior may, however, be
 motivated in a less conventional way. In deciding whether
-the time has come to leave an organization, members, espe­
-cially the more influential ones, will sometimes be held
+the time has come to leave an organization, members, especially the more influential ones, will sometimes be held
 back not so much by the moral and material sufferings
 they would themselves have to go through as a result of
 exit, but by the anticipation that the organization to which
@@ -4434,22 +3739,18 @@ they b elong would go from bad to worse if they left.
 
 This sort of behavior is the opposite of the one discussed
 
-in Chapter 4. It was shown there that under certain condi­
-tions the most influential members might be the nrst to
+in Chapter 4. It was shown there that under certain conditions the most influential members might be the nrst to
 exit. The reason for which this conclusion is reversed here
 is that a wholly new and somewhat strange assumption
 has j ust been introduced : the member continues to care
 about the activity and "output'' of the organization ev en
 after he has left it. In most consumer-product and in many
 member-organization relations this is of course not the
-case. If I become dissatisfied with the brand of soap I usu­
-ally buy, and consider switching to another, I do not ex­
-pect such switching to cause a worsening of the quality of
+case. If I become dissatisfied with the brand of soap I usually buy, and consider switching to another, I do not expect such switching to cause a worsening of the quality of
 my habitual brand ; even if I did I presumably would not
 care as long as I quit buying it.17 With the help of this
 counter-example, we can spell out the two conditions that
-underlie the special loyalist behavior now under discus­
-sion :
+underlie the special loyalist behavior now under discussion :
 
 In the first place, exit of a member leads to further
 deterioration in the quality of the organization's output ;
@@ -4458,25 +3759,19 @@ whether or no t he stays on as a mentber.
 
 The first condition means that quality of a product is
 not invariant to the number of buyers or to the amount
-sold. The withdrawal of some members leads to lower qual­
-ity, hence presumably still lower "demand" from the re­
-maining members and so on-a typical case of unstable
+sold. The withdrawal of some members leads to lower quality, hence presumably still lower "demand" from the remaining members and so on-a typical case of unstable
 equilibrium, and of a cumulative sequence a la Myrdal.
 The consumer-member is here a "quality-maker'' rather
 than, as in perfect competition, a quality-taker. Situations
-in whicl1 individual buyers are conscious of being price­
-makers rather than price-takers are, of course, familiar
-from the theories of monopoly and monopolistic competi­
-tion. What strikes the economist as 'veird here is the
+in whicl1 individual buyers are conscious of being pricemakers rather than price-takers are, of course, familiar
+from the theories of monopoly and monopolistic competition. What strikes the economist as 'veird here is the
 direction of the relationship : In the usual price-making
 
-17. I may, in fact, entertain the opposite "serves-them-right" re­
-action if I hear that a firm which has disappointed me and with
+17. I may, in fact, entertain the opposite "serves-them-right" reaction if I hear that a firm which has disappointed me and with
 which I have stopped doing business comes to grief.
 
 situation, withdrawal of a buyer ( a downward shift of the
-demand curve ) will lead to price being lowered or, corre­
-spondingly, to quality being improved because the supply
+demand curve ) will lead to price being lowered or, correspondingly, to quality being improved because the supply
 curve is assumed to be rising. In the present case, on the
 contrary, withdrawal of the quality-making "buyer" leads
 to a quality decline. The reason is that the "buyer" is now
@@ -4486,17 +3781,13 @@ consumption of the organization's output. Hence, if those
 vvho have the greatest influence on quality of output are
 also, as is likely, more quality-conscious than the rest of
 the members, any slight deterioration in quality may set
-off their exit, which in turn \Vill lead to further dete�:iora­
-tion, which will lead to further exits, and so on.
+off their exit, which in turn \Vill lead to further dete�:ioration, which will lead to further exits, and so on.
 
 In this situation, utter instability is once again avoided
 by the interventio11 of loyalist behavior and particularly
-by members being aware of, and recoiling from, the pros­
-pective consequences of their exit. In other words, in­
-stability may be averted if members are aware that it
+by members being aware of, and recoiling from, the prospective consequences of their exit. In other words, instability may be averted if members are aware that it
 threatens. But there is a real question 'vhy a member
-should care about the consequences of his exit on the qual­
-ity of the organization, to the point where the prospective
+should care about the consequences of his exit on the quality of the organization, to the point where the prospective
 decline in quality \Vould keep him from exiting. The only
 rational basis for such behavior is a situation in which
 the output or quality of the organization matters to one
@@ -4505,11 +3796,9 @@ son1e sense, one remains a consumer of the article in spite
 of the decision not to buy it any longer, and a member of
 the organization in spite of formal exit.
 
-This important class of situations can again be ill us­
-trated by the competition between private and public
+This important class of situations can again be ill ustrated by the competition between private and public
 schools. Parents \Vl1o plan to shift their children from
-public to private school may thereby contribute to a fur­
-ther deterioration of public edu cati on . If they realize this
+public to private school may thereby contribute to a further deterioration of public edu cati on . If they realize this
 prospective effect of their decision they may end up by
 11ot taking it, for reasons of general wel fare or even as a
 
@@ -4587,9 +3876,7 @@ real exit from a good or an organization so that the
 decision to exit in the partial sense in vvhich this may be
 possible must take into account any further deterioration
 in the good that may result. What becomes difficult to
-grasp, in fact, once the concept of public goods is intro­
-duced is how even a partial exit from such goods is pos­
-sible.
+grasp, in fact, once the concept of public goods is introduced is how even a partial exit from such goods is possible.
 
 Actually, of course, a private citizen can "get out" from
 public education by sending his children to private school,
@@ -4597,24 +3884,18 @@ but at the same time he cannot get out, in the sense that
 his and his children's life will be affected by the quality of
 public education. There are many ostensibly private goods
 of this sort that one can buy or refrain from buying ; but
-they have a "public-good dimension" ( often called "ex­
-ternalities" by economists ) so that their mere production
+they have a "public-good dimension" ( often called "externalities" by economists ) so that their mere production
 and consumption by others affects, ennobles, or degrades
 the lives of all members of the community. While this is
-perhaps not a very frequent or very important phenom­
-enon for saleable commodities and services, it is a central
-feature of many organizations in relation to their mem­
-bers. If I disagree with an organization, say, a political
+perhaps not a very frequent or very important phenomenon for saleable commodities and services, it is a central
+feature of many organizations in relation to their members. If I disagree with an organization, say, a political
 party, I can resign as a member, but generally I cannot
-stop being a member of the society in which the objection­
-able party functions. If I participate in the making of a
+stop being a member of the society in which the objectionable party functions. If I participate in the making of a
 foreign policy of which I have come to disapprove, I can
 resign my official policy-making position, but cannot stop
 being unhappy as a citizen of a country which carries on
-'vhat seems to me an increasingly disastrous foreign pol­
-icy. In both these examples, the individual is at first both
-producer and consumer of such public goods as p arty pol­
-icy and foreign policy ; he can stop being producer, but
+'vhat seems to me an increasingly disastrous foreign policy. In both these examples, the individual is at first both
+producer and consumer of such public goods as p arty policy and foreign policy ; he can stop being producer, but
 cannot stop being consumer.
 
 It is thus possible to rationalize a wholly new type of
@@ -4628,28 +3909,19 @@ product quality, or of disagreement with the party line.
 Now it can be shown that an invariant or even inverse
 relationship between these variables is possible. In the
 case of public goods, the member will compare, at any one
-point in the process of deterioration, the disutility, dis­
-comfort, and sl1ame of remaining a member to the pros­
-pective damage which would be inflicted on him as a
-prospective nonmember and on society at large by the ad­
-ditional deterioration that would occur if he were to get
+point in the process of deterioration, the disutility, discomfort, and sl1ame of remaining a member to the prospective damage which would be inflicted on him as a
+prospective nonmember and on society at large by the additional deterioration that would occur if he were to get
 out. The avoidance of this hypothetical damage is now the
 benefit of loyalist behavior, and if this benefit increases
 along with the cost of remaining a member, the motivation
 to exit need not become stronger as deterioration proceeds
-although undoubtedly our member will become increas­
-ingly unhappy. The ultimate in unhappiness and paradoxi­
-cal loyalist behavior occurs when the public evil p.roduced
+although undoubtedly our member will become increasingly unhappy. The ultimate in unhappiness and paradoxical loyalist behavior occurs when the public evil p.roduced
 by the organization promises to accelerate or to reach
 some intolerable level as the organization deteriorates ;
-then, in line with the reasoning j ust presented, the deci­
-sion to exit will become ever more difficult the longer one
-fails to exit. The conviction that one has to stay on to pre­
-vent the worst grows strong·er all the time.
+then, in line with the reasoning j ust presented, the decision to exit will become ever more difficult the longer one
+fails to exit. The conviction that one has to stay on to prevent the worst grows strong·er all the time.
 
-Usually this sort of reasoning is an ex-post ( or ex­
-nunc ) j ustification of opportunism. But it must be re­
-luctantly admitted that loyalist behavior of this type-the
+Usually this sort of reasoning is an ex-post ( or exnunc ) j ustification of opportunism. But it must be reluctantly admitted that loyalist behavior of this type-the
 worse it gets the less can I afford to leave-can serve an
 all-important purpose when an organization is capable of
 dispensing public evils of truly ultimate proportions, a
@@ -4665,38 +3937,29 @@ shortage of spinelessness. It is nevertheless worth noting
 
 that the magnitude of public evils that can today be visited
 upon all of us by the centers of world power has bestowed
-"functionality" or social usefulness on protracted spine­
-lessness ( failure to exit ) provided it turns into spine
+"functionality" or social usefulness on protracted spinelessness ( failure to exit ) provided it turns into spine
 ( voice ) at the decisive moment.
 
 Organizations and firms producing public goods or
 public evils constitute the environment in which loyalist
-behavior ( that is, postponement of exit in spite of dis­
-satisfaction and qualms ) peculiarly thrives and assumes
+behavior ( that is, postponement of exit in spite of dissatisfaction and qualms ) peculiarly thrives and assumes
 several distinctive characteristics. For one, there is the
 possibility described in the last paragraphs in which we
-saw "right or wrong, my country" change into a seem­
-irlgly perverse "the wronger the myer. '' Moreover, when
+saw "right or wrong, my country" change into a seemirlgly perverse "the wronger the myer. '' Moreover, when
 exit does occur its nature is different from the type of exit
 discussed u p to now. In the case of exit from organizations
 producing private goods, exit terminates the relationship
-between the customer-member and the product-organiza­
-tion he is leaving. True, by signaling to management that
+between the customer-member and the product-organization he is leaving. True, by signaling to management that
 something is wrong, exit may provide a stimulus to\vard
 quality recuperation, but this effect is wholly unintended
 by the exiting customer-member-he "couldn't care less."
-In tl1e case of public goods, on the other hand, one con­
-ti11ues to "care" as it is impossible to get away from them
+In tl1e case of public goods, on the other hand, one conti11ues to "care" as it is impossible to get away from them
 entirely. In spite of exit one remains a consumer of the
 output or at least of its external effects from which there
-is no escape. Under these conditions, the customer-mem­
-ber will himself be interested in making his exit con­
-tribute to improvement of the product-organization he is
-leaving-an improvement which he may j udge to be im­
-possible without radical change in the way in which the
+is no escape. Under these conditions, the customer-member will himself be interested in making his exit contribute to improvement of the product-organization he is
+leaving-an improvement which he may j udge to be impossible without radical change in the way in which the
 organization is run. To exit will now mean to resign under
-protest and, in general, to denounce and fight the organiza­
-tion from vvithout instead of working for change from
+protest and, in general, to denounce and fight the organization from vvithout instead of working for change from
 within. In other words, the alternative is now not so much
 between voice and exit as between voice from within and
 voice from without ( after exit) . The exit decision then
@@ -4711,27 +3974,22 @@ public goods and the kind of exit ( from private goods )
 thus far discussed is revealed when a customer-member
 who exits from a public good behaves as though he were
 exiting from a private one. In a society as dominated by
-private goods and by styles of behavior acquired in react­
-ing to them as the United States, such confusion may per­
-haps be expected. Examples from recent history come
+private goods and by styles of behavior acquired in reacting to them as the United States, such confusion may perhaps be expected. Examples from recent history come
 easily to mind. High officials who disagree with public
 policies do not blast them when they resign, but present
 this decision as a purely private one ; one leaves because
-a better offer has come his way, "in fairness to my fam­
-ily." Similarly young men and women who find American
+a better offer has come his way, "in fairness to my family." Similarly young men and women who find American
 society, its values, and the actions of its government not
 to their tastes are "opting out" as though they could secure
 for themselves a better set of values and policies without
-having first changed the existing set. The malaise result­
-ing from this confusion of the two kinds of exit can be
+having first changed the existing set. The malaise resulting from this confusion of the two kinds of exit can be
 measured by the relief that would have been experienced
 if at least one of the public officials "dropping out" of the
 Johnson administration in disagreement over Vietnam
 had thereupon publicly fought official war policies ; and by
 the relief that was so widely felt when the 1968 campaign
 of Senator Eugene McCarthy made it possible for many
-young Americans to do just that, instead of merely "cop­
-ping out."
+young Americans to do just that, instead of merely "copping out."
 
 Exit and Voice
 
@@ -4745,8 +4003,7 @@ and voice in relation to American ideology, tradition, and
 practice.
 
 My principal point-and puzzlement-is easily stated :
-exit has been accorded an extraordinarily privileged posi­
-tion in the A1nerican tradition, but then, suddenly, it is
+exit has been accorded an extraordinarily privileged position in the A1nerican tradition, but then, suddenly, it is
 wholly proscribed, sometimes for better, sometimes for
 worse, from a few key situations.
 
@@ -4755,10 +4012,8 @@ to millions of decisions favoring exit over voice. This
 "ultimate nature of the American experience" has been
 eloquently described by Louis Hartz :
 
-The men in the seventeenth century who fled to Amer­
-ica from Europe were keenly aware of the oppressions of
-European life. But they were revolutionaries with a differ­
-ence, and the fact of their fleeing is no minor fact : for it is
+The men in the seventeenth century who fled to America from Europe were keenly aware of the oppressions of
+European life. But they were revolutionaries with a difference, and the fact of their fleeing is no minor fact : for it is
 one thing to stay at home and fight the "canon and feudal
 law," and it is another to leave it far behind. It is one
 thing to try to establish liberalism in the Old \Vorld, and
@@ -4768,8 +4023,7 @@ create, but the American experience has been projected
 strangely in the realm of creation alone. The destruction
 of forests and Indian tribes-heroic, bloody, legendary as
 it was-cannot be compared with the destruction of a
-social order to which one belongs oneself. The first experi­
-ence is wholly external and, being external can actually
+social order to which one belongs oneself. The first experience is wholly external and, being external can actually
 be completed ; the second experience is an inner struggle
 as well as an outer struggle, like the slaying of a Freudian
 father, and goes on in a sense forever.1
@@ -4780,88 +4034,71 @@ Harcourt, Brace & World, 1955 ) , pp. 64-65.
 
 Exit and Voice in American Ideology and P ractice
 
-This preference for the neatness of exit over the messi­
-ness and heartbreak of voice has then "persisted through­
-out our national history." 2 The exit from Europe could be
+This preference for the neatness of exit over the messiness and heartbreak of voice has then "persisted throughout our national history." 2 The exit from Europe could be
 re-enacted within tl1e United States by the progressive
 settlement of the frontier, which Frederick Jackson
 Turner characterized as the "gate of escape from the
 bondage of the past." 3 Even though the opportunity to
 "go West" may have been more myth than reality for large
 population groups in the eastern section of the country,4
-the myth itself was of the greatest importance for it pro­
-vided everyone with a paradigm of problem-solving. Even
+the myth itself was of the greatest importance for it provided everyone with a paradigm of problem-solving. Even
 after the closing of the frontier, the very vastness of the
 country combined with easy transportation make it far
 more possible for Americans than for most other people
 to think about solving their problems through "physical
-flight" than either through resignation or through ameli­
-orating and fighting in situ the particular conditions into
+flight" than either through resignation or through ameliorating and fighting in situ the particular conditions into
 which one has been "thrown." The curious conformism of
 
 2. Hartz, The Liberal Tradition, p. 65 n. Note also his phrase, in
 the same footnote : "In a real sense physical flight is the American
 substitute for the European experience of social revolution."
 
-3. From the last paragraph of his famous 1893 paper "The Sig­
-nificance of the Frontier in American History," reprinted in Fred­
-erick Jackson Turner, The Frontier in American History ( New
+3. From the last paragraph of his famous 1893 paper "The Significance of the Frontier in American History," reprinted in Frederick Jackson Turner, The Frontier in American History ( New
 York : Henry Holt, 1920 ) , p. 38. Interestingly enough , Turner noted
-in a later essay that with the closing of the frontier new politi­
-cal processes, akin to "voice,'' would have to take the frontier's
+in a later essay that with the closing of the frontier new political processes, akin to "voice,'' would have to take the frontier's
 place if democracy was to be kept vigorous in the United States.
 "The present finds itself engaged in the task of readjusting its old
 ideals to new conditions and is turning increasingly to government
-to preserve its traditional democracy. It is not surprising that social­
-ism shows noteworthy gains as elections continue ; that parties are
+to preserve its traditional democracy. It is not surprising that socialism shows noteworthy gains as elections continue ; that parties are
 forming on new lines ; that the demand for primary elections, for
 popular choice of senators, initiative, referendum, and recall, is
 spreading, and that the regions once the center of pioneer democracy
 exhibit these tendencies in the most marked degree. They are efforts
-to find substitutes for that former safeguard of democracy, the dis­
-appearing free lands. They are the sequence to the extinction of the
+to find substitutes for that former safeguard of democracy, the disappearing free lands. They are the sequence to the extinction of the
 frontier" (p. 321 ) .
 
 4. See, for example, F . A. Shannon, "A Post-Mortem on the Labor
 (January
 Safety-Valve Theory," A gricultural History, 1 9 : 31-37
-1945 ) , reprinted in George R. Taylor, ed., The Turner Thesis ( Bos­
-ton : D. C. Heath & Co., 1949 ) .
+1945 ) , reprinted in George R. Taylor, ed., The Turner Thesis ( Boston : D. C. Heath & Co., 1949 ) .
 
 Americans, noted by observers ever since Tocqueville, may
 also be explained in this fashion. Why raise your voice in
 contradiction and get yourself into trouble as long as you
-can always remove yourself entirely from any given envi­
-ronment should it become too unpleasant ?
+can always remove yourself entirely from any given environment should it become too unpleasant ?
 
 It will be noted that all these "flights" are in the nature
 of true exits, that is, exits from private rather than public
 goods : whatever effect they had on the society that was
-left behind vvas an unintended side effect. Those who de­
-parted from their communities had no thought of improv­
-ing them thereby or of fighting against them from the
+left behind vvas an unintended side effect. Those who departed from their communities had no thought of improving them thereby or of fighting against them from the
 outside ; they were immigrants rather than emigres, and
 soon after their move "couldn't care less" about the fate
 of the communities whence they came. In this perspective,
 the present-day " cop-out'' movement of groups like the
 hippies is very much in the American tradition ; once
 again dissatisfaction with the surrounding social order
-leads to flight rather tl1an fight, to withdrawal of the dis­
-satisfied group and to its setting up a separate "scene."
+leads to flight rather tl1an fight, to withdrawal of the dissatisfied group and to its setting up a separate "scene."
 Perhaps, the reason for which these groups are felt to be
 "un-American" is not at all their act of withdrawal, but,
 on the contrary, their demonstrativ e "otherness" which is
 sensed as an attempt to influence tl1e square society they
 are rej ecting. By making their exit so spectacular, by
 oddly combining deviance with defiance, they are actually
-closer to voice than was the case for their pilgrim, immi­
-grant, and pioneer forebears.
+closer to voice than was the case for their pilgrim, immigrant, and pioneer forebears.
 
 The traditional American idea of success confirms the
-hold which exit has had on the national imagination. Suc­
-cess-or, \Vl1at am.ounts to the same thing, upward social
-mobility-has lo11g been conceived in terms of evolution­
-ary individualism.5 The successful individual who starts
+hold which exit has had on the national imagination. Success-or, \Vl1at am.ounts to the same thing, upward social
+mobility-has lo11g been conceived in terms of evolutionary individualism.5 The successful individual who starts
 out at a low rung of the social ladder, necessarily leaves
 his O\Vn group behind as he rises ; he " passes" into, or is
 
@@ -4871,24 +4108,18 @@ his O\Vn group behind as he rises ; he " passes" into, or is
 
 Exit and Voice in American Ideology and Practice
 
-"accepted" by, the next higher group. He takes his imme­
-diate family along, but hardly anyone else. Success is in
-fact symbolized and consecrated by a succession of physi­
-cal moves out of the poor quarters in which he was
+"accepted" by, the next higher group. He takes his immediate family along, but hardly anyone else. Success is in
+fact symbolized and consecrated by a succession of physical moves out of the poor quarters in which he was
 brought up into ever better neighborhoods. He may later
 finance some charitable activities designed to succor the
 poor or the deserving of the group and neighborhood to
 which he once belonged. But if an entire ethnic or religious
 minority group acquires a higher social status, this occurs
-essentially as the cumulative result of numerous, individ­
-ual, uncoordinated success stories and physical moves of
+essentially as the cumulative result of numerous, individual, uncoordinated success stories and physical moves of
 this kind rather than because of concerted group efforts.
 
-The novelty of the black power movement on the Ameri­
-can scene consists in the rej ection of this traditional
-pattern of upward social mobility as unworkable and un­
-desirable for the most depressed group in our society. Sig­
-nificantly, it combines scorn for individual penetration
+The novelty of the black power movement on the American scene consists in the rej ection of this traditional
+pattern of upward social mobility as unworkable and undesirable for the most depressed group in our society. Significantly, it combines scorn for individual penetration
 of a few selected blacks into white society with a strong
 commitment to "collective stimulation" of blacks as a
 group and to the improvement of the black ghetto as a
@@ -4897,12 +4128,10 @@ place to live. In the words of one spokesman :
 Integration, particularly in the token way in which it
 has been practiced up to now . . . elevates individual
 members of a group, but paradoxically, in plucking many
-of the most promising members from a group while fail­
-ing to alter the lot of the group as a whole, weakens the
+of the most promising members from a group while failing to alter the lot of the group as a whole, weakens the
 collective thrust which the group might otherwise muster.6
 
-This formulation is strikingly similar to the previ­
-ously mentioned situations-railroads in Nigeria, public
+This formulation is strikingly similar to the previously mentioned situations-railroads in Nigeria, public
 schools, and so forth-in which exit was ineffective while
 
 6. Nathan Hare, as quoted in John H. Bunzel, "Black Studies at
@@ -4912,30 +4141,22 @@ of "leadership potential" is also argued in Stokely Carmichael and
 Charles V. Hamilton, Black Power ( New York : Vintage Books,
 1967) ' p. 53.
 
-voice \Vas fatally weakened by exit of the most quality­
-conscious customers of a firm or of the most valuable mem­
-bers of an organization.
+voice \Vas fatally weakened by exit of the most qualityconscious customers of a firm or of the most valuable members of an organization.
 
 In tl1e case of a mi11ority that has been discriminated
 against a further argument can often be made : namely,
 that exit is bound to be unsatisfactory and unsuccessful
-even from the point of view of the individuals who prac­
-tice it. The point is familiar, but it may be of interest to
+even from the point of view of the individuals who practice it. The point is familiar, but it may be of interest to
 see it made not for "passing" Jews or Negroes in the
 United States, but for Andean Indians :
 
-A normal pattern of change in the Andes is for the indi­
-vidual to become a mestizo by leaving his highland com­
-munity of birth, rej ecting his Indian background, and
-assuming all possible mestizo status symbols. The individ­
-ual who becomes a mestizo by this route, h owever, finds
-himself part of a despised "cholo" minority in a world d om­
-inated by urban upper classes to which he cannot aspire. 7
+A normal pattern of change in the Andes is for the individual to become a mestizo by leaving his highland community of birth, rej ecting his Indian background, and
+assuming all possible mestizo status symbols. The individual who becomes a mestizo by this route, h owever, finds
+himself part of a despised "cholo" minority in a world d ominated by urban upper classes to which he cannot aspire. 7
 
 This unsatisfactory process of individual mobility is
 then compared to the group process which, according to
-the author, was made possible in Bolivia by the Revolu­
-tion :
+the author, was made possible in Bolivia by the Revolution :
 
 In the formerly Indian communities of Bolivia, on the
 other hand, the group itself is the agency regulating the
@@ -4946,15 +4167,13 @@ there strong motivation physically to leave the community
 nor to reject identifiably Indian behavior patterns. Rather,
 the individuals are participating itt a true cultural change,
 as a group .
-. There is no rush to acquire status sym­
-bols, because there is a deep sense of the ridiculousness of
+. There is no rush to acquire status symbols, because there is a deep sense of the ridiculousness of
 a person wearing a necktie, for example, when that person
 is unable to speak Spanish.8
 
 .
 
-7. Richard Patch, "Bolivia : The Restrained Revolution," The An­
-nual of the American A cademy of Political and Social Sciences,
+7. Richard Patch, "Bolivia : The Restrained Revolution," The Annual of the American A cademy of Political and Social Sciences,
 334 : 130 ( 1961) .
 
 8. Ibid.
@@ -4989,8 +4208,7 @@ imagines a society that would have a systematic policy of
 adopting promising lovv-class youngsters into u pper-class
 families. Adoption practices of this sort can be found in
 
-Japan duri11g the Tokugawa period when that country in­
-deed enj oyed "two centuries of peace and stability . " 9
+Japan duri11g the Tokugawa period when that country indeed enj oyed "two centuries of peace and stability . " 9
 
 In practice u pward mobility for a disadvantaged or
 
@@ -5013,9 +4231,7 @@ reality has often been different from i deology : as is well
 recognized, ethnic minorities have risen in influence and
 
 9. R. P. Dore, ''Talent and the Social Order in Tokugawa Japan,"
-i n John W . H all and M a r i u s E. J an sen, e d s . , Studies �n the Ins t i -cu­
-tional History of Early Modern Japan ( Princeton : Princeton Uni­
-versity Press, 1968 ) , pp. 349, 354. The imagination of Michael
+i n John W . H all and M a r i u s E. J an sen, e d s . , Studies �n the Ins t i -cutional History of Early Modern Japan ( Princeton : Princeton University Press, 1968 ) , pp. 349, 354. The imagination of Michael
 Young takes the process one step further. In his anti-utopia where
 the upper and lower classes are increasingly separated as a result
 of individual mobility there develops a "disturbing growth in the
@@ -5026,8 +4242,7 @@ Books, 1968 edition ) , p. 184.
 
 1 1 1
 
-status not only through the cumulative effect of individ­
-ual success stories, but also because they formed interest
+status not only through the cumulative effect of individual success stories, but also because they formed interest
 groups, turned into outright maj orities in some political
 subdivisions, and became pivotal in national politics.*
 Nevertheless, the black power doctrine represents a
@@ -5035,29 +4250,21 @@ totally new approach to upward mobility because of its
 open advocacy of the group process. It had immense shock
 value because it spurned and castigated a supreme value
 of American society-success via exit from one's group.
-Apart from such latter-day dissonant voices, the ideol­
-ogy of exit has been powerful in America. With the coun­
-try having been founded on exit and having thrived on it,
+Apart from such latter-day dissonant voices, the ideology of exit has been powerful in America. With the country having been founded on exit and having thrived on it,
 the belief in exit as a fundamental and beneficial social
 mechanism has been unquestioning. It may account for
 the strength of the national faith in the virtues of such
-institutions as the two-party system and competitive en­
-terprise ; and, in the latter case, for the national disbelief
+institutions as the two-party system and competitive enterprise ; and, in the latter case, for the national disbelief
 in the economist's notion that a market dominated by two
 or three giant firms departs substantially from the ideal
-competitive model. As long as one can transfer his alle­
-giance from the product of firm A to the competing prod­
-uct of firm B, the basic symbolism of the national love
+competitive model. As long as one can transfer his allegiance from the product of firm A to the competing product of firm B, the basic symbolism of the national love
 affair with exit is satisfied.
 
 Yet, as love may suddenly turn into hate, so can the
 national infatuation with exit give 'vay in certain crucial
-areas to its utter proscription. To some extent, exit is it­
-self responsible for the emergence of its opposite. In leav­
-ing his country the emigrant makes a difficult decision and
+areas to its utter proscription. To some extent, exit is itself responsible for the emergence of its opposite. In leaving his country the emigrant makes a difficult decision and
 usually pays a high price in severing many strong affective
-ties. Additional payment is extracted as he i s being initi­
-ated into a new environment and adj usting to it. The
+ties. Additional payment is extracted as he i s being initiated into a new environment and adj usting to it. The
 result is a strong psychological compulsion to like that for
 
 • For some forceful and well documented remarks along these
@@ -5079,14 +4286,11 @@ ni·cht .. " 10
 
 As a country's central bank is the lender of last resort,
 so has the United States long been the ' ' country of last
-resort." To most of its citizens-with the important excep­
-ti on of those whose forefathers came as slaves-exit from
+resort." To most of its citizens-with the important excepti on of those whose forefathers came as slaves-exit from
 the country has long been peculiarly unthinkable.
 
-Suppose, however, things are not fully satisfactory­
-what then ? In line with the earlier argument about the
-effects of a high pri ce of entry on loyalty, it may be ex­
-pected that the point at which one avo,vs any qualms \viii
+Suppose, however, things are not fully satisfactorywhat then ? In line with the earlier argument about the
+effects of a high pri ce of entry on loyalty, it may be expected that the point at which one avo,vs any qualms \viii
 be postponed. This is precisely the phase of compulsive
 Situations may well arise , however, in which
 happiness .
@@ -5124,10 +4328,8 @@ Canzoniere ( Rome : Giulio Einaudi, 1945 ) , p. 220.
 
 1 13
 
-( 2 ) Since clearly the country cannot be at fault, re­
-sponsibility for unhappiness, qualms, and so forth is
-assumed to lie with the person experiencing these sensa­
-tions. Another dose of "adj ustment" is in order.
+( 2 ) Since clearly the country cannot be at fault, responsibility for unhappiness, qualms, and so forth is
+assumed to lie with the person experiencing these sensations. Another dose of "adj ustment" is in order.
 
 ( 3 ) Finally, if the country is too obviously at fault
 after all, it has to be made into that ideal place 'vhich
@@ -5141,11 +4343,9 @@ its image. It is, in fact, to this compulsion that the country
 o'ves some of its greatest achievements j ust as it owes its
 origin to exit.
 
-If the rej ection of the exit option in the American set­
-ting were limited to exit from the country, there would be
+If the rej ection of the exit option in the American setting were limited to exit from the country, there would be
 little cause for worry. The phenomenon has, however,
-taken lately a different and far less benign form : the ex­
-treme reluctance of Americans in public office to resign in
+taken lately a different and far less benign form : the extreme reluctance of Americans in public office to resign in
 protest against policies with which they disagree.
 
 The preceding considerations are relevant here. Many
@@ -5156,8 +4356,7 @@ exit from the government. As the former cannot bring
 himself to contemplate exit from the "best" country, so
 the latter has an overwhelming desire not to sever his ties
 with the "best" country's government which, moreover,
-is the world's most powerful. This inability to resign ap­
-plies to men on opposite sides of the political spectrum
+is the world's most powerful. This inability to resign applies to men on opposite sides of the political spectrum
 who were known to disagree strongly with official policies,
 to a General MacArthur as well as to an Adlai Stevenson.
 In 1966, the latter's predicament was satirized in Mac­
@@ -5187,8 +4386,7 @@ devil's advocate to the doubters within the government. In
 the process, the doubter's conscience is assuaged, but at
 the same time his position is made explicit and predictable.
 This predictability means a fatal loss of power for him ;
-his position becomes discountable.13 The dissenter is al­
-lowed to recite his piece on condition that he engages in
+his position becomes discountable.13 The dissenter is allowed to recite his piece on condition that he engages in
 
 11. Barbara Garson, MacBird l ( New York : Grassy Knoll Press,
 
@@ -5202,8 +4400,7 @@ Autopsy," A tlantic Monthly (April 1968 ) , pp. 47-53.
 he was warmly institutionalized : he was encouraged to become the
 inhouse devil's advocate on Vietnam. The upshot was inevitable : the
 process of escalation allowed for periodic requests to Mr. Ball to
-speak his piece ; Ball felt good, I assume (he had fought for righ­
-teousness ) ; the others felt good ( they had given a full hearing to
+speak his piece ; Ball felt good, I assume (he had fought for righteousness ) ; the others felt good ( they had given a full hearing to
 the dovish option ) ; and there was minimal unpleasantness. The club
 remained intact ; and it is of course possible that matters would have
 gotten worse faster if Mr. Ball had kept silent, or left before his
@@ -5221,12 +4418,10 @@ out convincingly by Michel Crozier, The Bureaucratic Phenontenon
 l1e is made to give up in advance his strongest weapon :
 the threat to resign under protest.
 
-Obviously, the bargain is a very poor one for the dis­
-senter, so the question arises : Why would he stand for it ?
+Obviously, the bargain is a very poor one for the dissenter, so the question arises : Why would he stand for it ?
 In attempting an answer, several of the points made in
 the preceding chapter can be invoked. First of all, in view
-of the potential of frightfulness at the government's com­
-mand, the final policy decision can always be made to look
+of the potential of frightfulness at the government's command, the final policy decision can always be made to look
 as some middle course between the two opposing points of
 view of "l1awks" and " doves" ; hence members of both
 dissenting groups are always made to feel that "if it had
@@ -5234,21 +4429,14 @@ not been for me, an even more sinister decision would have
 been taken." The dove in particular will argue that it is
 h is duty to remain at his post, however much he may
 "suffer. " C onsidering the enormous power for good and
-particu larly for evil that he sees constantly being dis­
-played around him, even the tiniest influence seems to him
+particu larly for evil that he sees constantly being displayed around him, even the tiniest influence seems to him
 \Vorth exerting. His reasoning actually contains a kernel
-of truth as was shown in the discussion of exit from pub­
-lic goods. But tl1is is precisely the source of the trouble.
-Opportunism can i11 thi s situation be rationalized as pub­
-lic-spirited ; even better, it can masquerade as secret
-1nartyrdom. Given so delicious a mixture of motives, op­
-portunistic behavior will be indulged in with an intensity,
+of truth as was shown in the discussion of exit from public goods. But tl1is is precisely the source of the trouble.
+Opportunism can i11 thi s situation be rationalized as public-spirited ; even better, it can masquerade as secret
+1nartyrdom. Given so delicious a mixture of motives, opportunistic behavior will be indulged in with an intensity,
 persistence and abandon out of all proportion with its
-j ustification. The dove will vastly overestimate his in­
-fluence as \veil as the damaging consequences of his exit
-upo11 the course of events. It would seem that Lord Ac­
-ton's famous dictum can be varied to read : "Po\ver cor­
-rupts ; and even a little influence in a country with huge
+j ustification. The dove will vastly overestimate his influence as \veil as the damaging consequences of his exit
+upo11 the course of events. It would seem that Lord Acton's famous dictum can be varied to read : "Po\ver corrupts ; and even a little influence in a country with huge
 power corrupts hugely."
 
 The prospect that exit vvill be badly neglected in this
@@ -5262,10 +4450,8 @@ Exit and Voice in Anterican Ideology and Practice
 
 promptly than in the upper- or top-quality ranges. In case
 of deterioration of low- or medium-quality merchandise,
-exit comes easily to a customer since a nondeteriorated va­
-riety of similar price or quality range is always available as
-a substitute. The customer of the upper- or top-quality va­
-rieties is likely to be much less amply served with ready
+exit comes easily to a customer since a nondeteriorated variety of similar price or quality range is always available as
+a substitute. The customer of the upper- or top-quality varieties is likely to be much less amply served with ready
 alternatives, should his variety begin to disappoint him ;
 hence he will be more inclined to use voice, to "work from
 within." Can one infer that it is easier to exit from the
@@ -5275,24 +4461,19 @@ not in any strict sense, for it is impossible to invoke the
 market mechanism in the latter situation : if one's own
 government deteriorates one does not usually "go over" to
 another. An analogous mechanism may, nevertheless, be
-at work. A small or medium-sized country has many "col­
-leagues" and its behavior can be compared to that of
+at work. A small or medium-sized country has many "colleagues" and its behavior can be compared to that of
 others in the same class. Standards of behavior for the
-government of such a country are recognizable. It is pos­
-sible to tell when they are flouted. No similar standard of
+government of such a country are recognizable. It is possible to tell when they are flouted. No similar standard of
 comparison is available for the superpower which can
 claim, with some plausibility, that in view of its special
 burdens and responsibilities ordinary standards do not
 apply to its actions. This may be another reason for which
-the decision to exit from the government of the most po,v­
-erful country is particularly and deplorably infrequent.
+the decision to exit from the government of the most po,verful country is particularly and deplorably infrequent.
 
 Why "deplorably" ? Because exit has an essential role
 to play in restoring quality performance of government,
-j ust as in any organization. It will operate either by mak­
-ing the government reform or by bringing it down, but in
-any event, the j olt provoked by clamorous exit of a re­
-spected member is in many situations an indispensable
+j ust as in any organization. It will operate either by making the government reform or by bringing it down, but in
+any event, the j olt provoked by clamorous exit of a respected member is in many situations an indispensable
 complement to voice. A case in point was Senator Eugene
 McCarthy's decision to run for President, a decision which
 had a powerful influence on events. This was an exit from
@@ -5300,17 +4481,13 @@ the club of top Democratic politicians, a breaking of the
 
 1 17
 
-rules of the game as traditionally played within tl1e gov­
-erning party ( the rule being that one does not oppose
+rules of the game as traditionally played within tl1e governing party ( the rule being that one does not oppose
 the President's bid for reelection ) . But there was to occur
 no similarly clamorous exit from the President's "official
 family" in spite of tl1e increasing misgivings of several
 members of that family. I-Iaving been first satirized and
-a11alyzed by Barbara Garson and James Thomson, respec­
-tively, this reluctance to exit has been increasingly recog­
-nized as a national problem and even scandal. Thus James
-Reston wrote in a postmortem on tl1e Johnson administra­
-tion :
+a11alyzed by Barbara Garson and James Thomson, respectively, this reluctance to exit has been increasingly recognized as a national problem and even scandal. Thus James
+Reston wrote in a postmortem on tl1e Johnson administration :
 
 One thing that is fairly clear from the record is that the
 art of resigning on principle from positions close to the
@@ -5322,9 +4499,7 @@ explanation of why they couldn't be ide11tified with the
 policy any longer .
 the critical period of escalation gave to the President the
 loyalty they owed to the country. Some .
-are now won­
-dering in private life whether this was in the national in­
-terest.14
+are now wondering in private life whether this was in the national interest.14
 
 .
 
@@ -5339,28 +4514,23 @@ terest.14
 .
 
 14. The New York Times ( March 9, 1969 ) . Note also the much
-earlier complaint by John Osborne : "We should know by now , I sup­
-pose, that officials in our day do not quit for a cause .
+earlier complaint by John Osborne : "We should know by now , I suppose, that officials in our day do not quit for a cause .
 But I
 .
 must say, with due respect for George Ball .
 that an occasional
-resignation for the sake of principle would improve the Washing­
-ton scene and deter , or maybe even prevent, errors of conception
+resignation for the sake of principle would improve the Washington scene and deter , or maybe even prevent, errors of conception
 and judgn1ent of the kind that he cites and bemoans. " The N e'lv
 Republic ( June 15 , 1968 ) , p. 27. As the proofs of this book are being
 corrected, it is fortunately possible to record a first break in this
 pattern : in October 1969, six analysts of the RAN D Corporation
 sent a carefully reasoned letter to the N e1v York Tirnes and the
-Washing ton Post advocating unilateral, speedy, and total with­
-drawal of United States forces from Vietnam. In the nature of the
+Washing ton Post advocating unilateral, speedy, and total withdrawal of United States forces from Vietnam. In the nature of the
 c ase, such direct communication with the press con1es very close to
 resignation under protest. It is public protest against official policies
-which RAND services through its contracts with the Defense De­
-partment. \Vhile the protesters do not exit, they evidently assume
+which RAND services through its contracts with the Defense Department. \Vhile the protesters do not exit, they evidently assume
 the risk of "being exited . " ( Washing ton Pos t, October 12, 1969.) As
-this book goes into a new printing ( September 1971 ) , a further ad­
-dition is of interest : The letter, with its original mixture of exit and
+this book goes into a new printing ( September 1971 ) , a further addition is of interest : The letter, with its original mixture of exit and
 voice, was largely due to Daniel Ell sberg, one of the six signers.
 
 1 1 8
@@ -5368,13 +4538,10 @@ voice, was largely due to Daniel Ell sberg, one of the six signers.
 But the moral condemnation or exhortation implicit in
 this kind of writing is not likely to be very effective, given
 the very strong reasons for eschewing exit which have
-been noted. It is more helpful to cast around for institu­
-tional devices designed to activate exit under protest, j ust
+been noted. It is more helpful to cast around for institutional devices designed to activate exit under protest, j ust
 as we have earlier searched for ways of facilitating voice.
 Along such lines Thomson has argued that resignation
-under protest is particularly unattractive for the Ameri­
-can Cabinet member because, unlike his British counter­
-part, he has no "parliamentary backbench to which to
+under protest is particularly unattractive for the American Cabinet member because, unlike his British counterpart, he has no "parliamentary backbench to which to
 retreat." 15 In general he has ordinarily no base in politics
 or in public opinion. Recent suggestions that members of
 the Cabinet and perhaps other high officials should be
@@ -5393,13 +4560,10 @@ Optimal Mix
 of Exit and Voice
 
 In the earlier chapters of this volume, much has been
-made of situations in which exit drives out voice and as­
-sumes a disproportionate share of the burden involved
+made of situations in which exit drives out voice and assumes a disproportionate share of the burden involved
 in guiding a firm or organization back to efficiency after
 the initial lapse. It was shown that, in certain situations,
-voice could function as a valuable mechanism of recupera­
-tion and deserves to be strengthened by appropriate insti­
-tutions. With a commendable sense of balance I have
+voice could function as a valuable mechanism of recuperation and deserves to be strengthened by appropriate institutions. With a commendable sense of balance I have
 turned my attention, in the last few pages, to situations
 in which it is the exit option's turn to be almost wholly
 shunned, much to the detriment, once again, of effective
@@ -5413,12 +4577,9 @@ themselves in a table whose classification criterion is the
 absence or presence of our two reaction mechanisms. It
 hardly needs saying that this table is by way of a very
 rough summary. Qualifications to the pigeonholing here
-presented and borderline cases have been noted through­
-out the book.
+presented and borderline cases have been noted throughout the book.
 
-This table brings out the basic contrast between orga­
-nizations receiving information on member-customer dis­
-content essentially through exit and hardly at all through
+This table brings out the basic contrast between organizations receiving information on member-customer discontent essentially through exit and hardly at all through
 voice such as business firms in a competitive market, and
 the more traditional human groupings exit from which is
 virtually unheard of while voice is available to the mem ­
@@ -5441,15 +4602,13 @@ Voluntary associations,
 competitive political
 parties, and some
 business enterprises,
-for example, those sell­
-ing output to a few
+for example, those selling output to a few
 buyers
 
 Yes
 
 Family, tribe, nation,
-church, parties in non­
-totalitarian one-party
+church, parties in nontotalitarian one-party
 systems
 
 No
@@ -5459,8 +4618,7 @@ enterprise in relation
 to customers
 
 Parties in totalitarian
-one-party systems, ter­
-roristic groups, and
+one-party systems, terroristic groups, and
 criminal gangs
 
 including, as a most important subcategory, competitive
@@ -5469,24 +4627,18 @@ firms will often attempt to influence the firms' policies
 directly instead of choosing exit.
 
 There are probably no organizations that are wholly
-immune to either exit or voice on the part of their mem­
-bers. The ones that have been listed in the cell corre­
-sponding to that category are those that, in their intended
+immune to either exit or voice on the part of their members. The ones that have been listed in the cell corresponding to that category are those that, in their intended
 structure, make no explicit or implicit allowance for either
 mechanism. Exit is here considered as treason and voice
-as mutiny. Such organizations are likely to be less via­
-ble, in the long run, than the others ; exit and voice being
+as mutiny. Such organizations are likely to be less viable, in the long run, than the others ; exit and voice being
 illegal and severely penalized, they will be engaged in only
 when deterioration has reached so advanced a stage tl1at
-recovery is no longer either possible or desirable. More­
-over, at this stage, voice and exit will be undertaken with
+recovery is no longer either possible or desirable. Moreover, at this stage, voice and exit will be undertaken with
 such strength that their effect will be destructive rather
 than reformist.
 
 On the other hand, there is no implication in the table
-that the organizations which are equipped with both feed­
-back mechanisms are necessarily more advanced or via­
-ble than those which rely primarily on one alone. All
+that the organizations which are equipped with both feedback mechanisms are necessarily more advanced or viable than those which rely primarily on one alone. All
 
 depends on the responsiveness of the organization to
 whatever mechanism or combination of mechanisms it is
@@ -5495,11 +4647,9 @@ extremely sensitive to the loss of customers or members all
 is for the best ; and similarly for an organization eqtlipped
 with voice that takes complaints and protests from its
 members very seriously. But what if an organization is
-not particularly sensitive to the pa1·ticular reaction it hap­
-pens to provoke or does not possess the mechanism to
+not particularly sensitive to the pa1·ticular reaction it happens to provoke or does not possess the mechanism to
 which it would be sensitive ? A large part of this book has
-been devoted to such cases of inadequate or wrong re­
-sponses and the argument can be summarized by means of
+been devoted to such cases of inadequate or wrong responses and the argument can be summarized by means of
 another table.
 
 Decline arouses primarily :
@@ -5515,38 +4665,28 @@ Organization
 is sensitive
 primarily to :
 
-Public enterprise sub­
-ject to competition
+Public enterprise subject to competition
 from an alternative
 mode, lazy oligopolist,
-corporation-share­
-holder relations, inner
+corporation-shareholder relations, inner
 cities, etc.
 
-Democratically respon­
-sive organizations
-commanding consider­
-able loyalty from mem­
-bers
+Democratically responsive organizations
+commanding considerable loyalty from members
 
 The greatest interest centers here naturally on those
 "perverse" or pathological cases where an organization i s
 i n effect equipped with a reaction mechanism to which it
 is not responsive : those who are affected by quality decline
-do vent their feelings in one way or another, but manage­
-ment happens to be inured or indifferent to their particu­
-lar reaction and thus does not feel compelled to correct its
-course. The situations of this type which have been de­
-scribed at greatest length, particularly in Chapters 4 and 5,
+do vent their feelings in one way or another, but management happens to be inured or indifferent to their particular reaction and thus does not feel compelled to correct its
+course. The situations of this type which have been described at greatest length, particularly in Chapters 4 and 5,
 involved organizations whose decline gives rise to exit that
 
 The Elusive Optimal Mix of Exit and Voice
 
 does not bother management nearly as much as might be
 the case for voice. In Chapter 8, however, a situation of the
-symmetrically opposite type was encountered : an organi­
-zatioil-the Executive Branch of the United States govern­
-ment-whose deteriorating performance under Lyndon
+symmetrically opposite type was encountered : an organizatioil-the Executive Branch of the United States government-whose deteriorating performance under Lyndon
 Johnson led to numerous, but futile manifestations of
 voice when exit might have been more effective.
 
@@ -5558,8 +4698,7 @@ advantage of this formulation is that it points immediately
 to a variety of remedies or a combination of them. Take
 the case where an organization arouses primarily exit to
 which it is far more insensitive than it would be to voice.
-Corrective policies obviously include efforts to make the or­
-g·anization more responsive to exit, but also efforts to have
+Corrective policies obviously include efforts to make the org·anization more responsive to exit, but also efforts to have
 the members of the organization switch from exit to voice.
 In this fashion, the range of possible remedial measures is
 broadened. For example, when railroads do not react
@@ -5568,8 +4707,7 @@ to introduce stronger "financial disciplines" in the hope
 that the railroad managers will then react to the loss of
 revenue lil\:e private enterprise threatened by bankruptcy.
 It is now clear that as a11 alternative or complementary
-step it is worth looking into ways and means of strength­
-ening voice on the part of the customers. This can be done
+step it is worth looking into ways and means of strengthening voice on the part of the customers. This can be done
 directly, by reducing the cost and increasing the rewards
 of voice, as well as indirectly, by raising the cost of exit
 and even by reducing the opportunities for it.
@@ -5596,27 +4734,22 @@ to say that there is a deficiency of one or the other of our
 two mechanisms ; but it is very unlikely that one could
 specify a most efficient mix of the two that would be stable
 over time. The reason is simple : each recov ery mechanism
-is itself subject to the forces of decay w hich have been in­
-voked here all along. This is so not j ust to add a final touch
-of philosophical consistency, but for more mundane rea­
-sons as well. As has already bee11 mentioned, the short-run
+is itself subject to the forces of decay w hich have been invoked here all along. This is so not j ust to add a final touch
+of philosophical consistency, but for more mundane reasons as well. As has already bee11 mentioned, the short-run
 interest of management in organizations is to increase its
 own freedom of movement ; management will therefore
 strain to strip the members-customers of the weapons
 which they can wield, be they exit or voice, and to convert,
 as it were, what should be a feedback into a safety valve.
 Thus voice can become mere "blowing off steam" as it is
-being emasculated by the institutionalization and domesti­
-cation of dissent which was described toward the end of
+being emasculated by the institutionalization and domestication of dissent which was described toward the end of
 the previous chapter. And exit can be similarly blunted.
 As was shown, organizations and firms that are ostensibly
 competing and are normally sensitive to exit can learn to
 play a cooperative, collusive game in the course of which
-they take in each other's disgruntled customers or mem­
-bers. To the extent that the game is played successfully by
+they take in each other's disgruntled customers or members. To the extent that the game is played successfully by
 competing organizations or firms, exit, compensated as it
-is by entry, ceases to be a serious threat to the deteriorat­
-ing organizations.
+is by entry, ceases to be a serious threat to the deteriorating organizations.
 
 1. See the discussion of the Friedman proposal on education in
 
@@ -5626,23 +4759,18 @@ The Elusive Optimal Mix of Exit and Voice
 
 While management thus finds ways of whittling down
 the effectiveness of the reaction mode that, in any given
-set of circumstances, appears to be preferred by con­
-sumer-members, the latter are in a way easing manage­
-ment's task by relying evermore on this mode and letting
+set of circumstances, appears to be preferred by consumer-members, the latter are in a way easing management's task by relying evermore on this mode and letting
 the other atrophy. As was mentioned at various times
 ( particularly with regard to voice ) , the effectiveness
-of the less familiar mode becomes not only more un­
-certain, but tends to be increasingly underestimated. The
+of the less familiar mode becomes not only more uncertain, but tends to be increasingly underestimated. The
 reason is that effective use of the less familiar mechanism
 requires that its power be discovered or rediscovered
 whereas the preferred mechanism is routinely familiar ;
-since quite properly we dare not believe in creative dis­
-coveries until they have happened, we will underestimate
+since quite properly we dare not believe in creative discoveries until they have happened, we will underestimate
 the effectiveness of voic e when exit is dominant and vice
 versa. Once members have a slight preference for, say,
 voice over exit, a cumulative movement sets in which
-makes exit look ever less attractive and more inconceiv­
-able. As a result, voice will be increasingly relied on by
+makes exit look ever less attractive and more inconceivable. As a result, voice will be increasingly relied on by
 members at a time when management is working hard to
 make itself less vulnerable to it.
 
@@ -5655,13 +4783,10 @@ reveals its inadequacy will the other mode eventually be
 injected once again.
 
 The invigorating results that can be achieved by the
-shock effect of such an inj ection have recently been demon­
-strated when the consumers' voice was suddenly intro­
-duced, primarily through the courage and enterprise of
+shock effect of such an inj ection have recently been demonstrated when the consumers' voice was suddenly introduced, primarily through the courage and enterprise of
 Ralph Nader, into an area where exit had long been the
 dominant and almost exclusive mode. In the opposite case,
-\Vhen voice is the dominant reaction mode, exit can be sim­
-ilarly g�alvanizing. It may be asked why this should be so,
+\Vhen voice is the dominant reaction mode, exit can be similarly g�alvanizing. It may be asked why this should be so,
 why exit, an act of withdrawal, should suddenly prove
 
 to be influential when the returns from "working from
@@ -5674,8 +4799,7 @@ of the source of communication leads to a change of opinion
 in its favor." 2 Exit is unsettling to those who stay behind
 as there can be no "talking back" to those who have exited.
 By exiting one renders his arguments unanswerable. The
-remarkable influence wielded by martyrs throughout his­
-tory can be understood in those terms, for the martyr's
+remarkable influence wielded by martyrs throughout history can be understood in those terms, for the martyr's
 death is exit at its most irreversible and argument at its
 most irrefutable.
 
@@ -5746,8 +4870,7 @@ firm's profits depends of course on cost conditions which are
 
 not shown here.
 
-Voice, on the other hand, depends on the number of non­
-exiting customers OQ1 and on the degree of deterioration L0L1
+Voice, on the other hand, depends on the number of nonexiting customers OQ1 and on the degree of deterioration L0L1
 in figure 2a. H ence the amount of voice likely to- be forthcoming
 is proportional to the area of the rectangle L0TP1L1• This is the
 vo ice or " V'' rectangle.
@@ -5860,11 +4983,9 @@ Suppose, for example, that h alf of the nonexiting customers
 
 complain and that the average complaint results in a cost that
 amounts to one- half of the article's sales price ; then voice would
-in flict a monetary loss equal to one-fourth of the ORT'Q1 rect­
-an gle. ( Note that voice acts directly on profits while exit acts
+in flict a monetary loss equal to one-fourth of the ORT'Q1 rectan gle. ( Note that voice acts directly on profits while exit acts
 on p rofits via revenu e. ) It should be emphasized, h owever, that
-the effectiveness of voice does not at all depend on being con­
-vertible in this fashion into the measuring rod of money. Some
+the effectiveness of voice does not at all depend on being convertible in this fashion into the measuring rod of money. Some
 
 comments closely related to this point appear on pages 72-74 .
 
@@ -5951,15 +5072,13 @@ varies.
 
 The exit option can be represented by a point such as QE,
 
-indicating through its position between Q0 and Qn that the clos­
-est competing or substitute product is superior in quality to Q0
+indicating through its position between Q0 and Qn that the closest competing or substitute product is superior in quality to Q0
 
 but inferior to Q0-the latter relationship must hold if the
 
 competing product was not chosen when quality of the now de­
 
-teriorated product stood at Qn. In the most straightforward in­
-terpretation of the diagram, prices of the two competing
+teriorated product stood at Qn. In the most straightforward interpretation of the diagram, prices of the two competing
 
 products are assumed to be the same, but it will be shown later
 
@@ -6064,8 +5183,7 @@ the extent to which recovery of normal quality is achieved ) . The
 resulting probability distribution results in an "influence curve"
 such as Q0V1 which shows for every improvement of quality
 
-over Q0 the probability that at least this improvement will ac­
-tually be attained as a result of voice. The influence curve is a
+over Q0 the probability that at least this improvement will actually be attained as a result of voice. The influence curve is a
 
 cumulative probab ility distribution. If the corresponding point
 
@@ -6104,8 +5222,7 @@ option ) for a wide range of chances on which the consumer
 may focu s. In the case shown the consumer will choose voice
 if he focuses on any point between Q1 and Q2 as the desired
 quality or on any point b etween P1 and P2 as an acceptable risk.
-But he will choose exit if he happens to focus either on full re­
-covery or on very low-risk outcomes of voice such as those that
+But he will choose exit if he happens to focus either on full recovery or on very low-risk outcomes of voice such as those that
 can be obtained with a degree of probab ility higher than P1.2
 
 Effective ways of bringing voice to bear are frequently only
@@ -6146,12 +5263,10 @@ Correspondingly the diagram can take account of the possible
 
 direct cost of voice. If voice requires an expenditure of time
 
-and money, then resort to it will not take place unless it pro­
-duces a quality improvement over and above that available
+and money, then resort to it will not take place unless it produces a quality improvement over and above that available
 through exit. If QEQc is this extra quality imp rovement needed
 for voice to be worthwhile, then the indifference curve starting
-at Q0, rather than that starting with QE, is the borderline be­
-tween the two realms of exit and voice.
+at Q0, rather than that starting with QE, is the borderline between the two realms of exit and voice.
 
 It would be possible to complicate the analysis further by
 
@@ -6182,8 +5297,7 @@ then he estimates the likely achievements of this "obj ective"
 
 volume of voice.
 
-It should be obvious that represents the choice situa­
-tion facing an individu al customer or member. When exit and
+It should be obvious that represents the choice situation facing an individu al customer or member. When exit and
 
 voice are viewed as alternative courses of action in this way,
 
@@ -6241,8 +5355,7 @@ as for example at Q, that all three customers bought the good.
 Now quality worsens to a point, say Q', that one of the three
 buyers is eliminated. The argument of Chapter 4 indicates that
 
-quite conceivably not C, but A is going to be the one to with­
-draw. The reason is that for A the quality drop from Q to Q'
+quite conceivably not C, but A is going to be the one to withdraw. The reason is that for A the quality drop from Q to Q'
 is equivalent to an increase in price that wipes out all of his con­
 
 sumer surplus, whereas for C the equivalent price increase may
@@ -6436,14 +5549,12 @@ he has set himself, at current prices, as the limit for his spend­
 ing on the article i n qu estion.t Indifference curves may hit the
 
 * See text pages 50-54.
-1. The number of units of the connoisseur good that are pur­
-chased is assumed to remain unchanged when consumers substitute
+1. The number of units of the connoisseur good that are purchased is assumed to remain unchanged when consumers substitute
 some new variety of the good for the usually bought one as a result
 of changes in the latter's quality or price. The trade-off explored
 here is that between different varieties ( price-quality combinations )
 of one unit ( or of a fixed number of units ) of the good, rather than
-that between quality and quantity. For analysis of the latter trade­
-off see H. S. Houthakker, "Compensated Changes in Quantities and
+that between quality and quantity. For analysis of the latter tradeoff see H. S. Houthakker, "Compensated Changes in Quantities and
 
 Appendix D
 
@@ -6496,10 +5607,8 @@ Qualities Consumed," Review of Economic Studies, 19 : 155-1 64
 in consumer purchases, the situation under discussion is perhaps of
 greater practical significance. This is so essentially because many
 important consumer decisions are indivisible, or are thought of as
-indivisible ; a consumer is getting a dinner, a car, a house, an edu­
-cation for his children, and in his mind he weighs prices of these
-goods or services against their qualities instead of adjusting quan­
-ti ties bought to quality.
+indivisible ; a consumer is getting a dinner, a car, a house, an education for his children, and in his mind he weighs prices of these
+goods or services against their qualities instead of adjusting quanti ties bought to quality.
 
 Appendix D
 
@@ -6553,8 +5662,7 @@ curve by buying the variety represented by P.s
 What happens in the course of gradual quality deterioration
 
 2. If quality-price trade-offs are uniform for all consumers, as
-was approximately the case in the example of tires or railroad ser­
-vices cited in ch. 4 above, then indifference curves will be parallel
+was approximately the case in the example of tires or railroad services cited in ch. 4 above, then indifference curves will be parallel
 straight lines of uniform slope. Suppose, to give a more extreme
 example, that the "quality" difference between two "varieties" of
 toothpaste comes down to one containing twice the number of ounces
@@ -6570,8 +5678,7 @@ quality- and price-conscious consumers as undoubtedly happens all
 the time in the market. Only if the array of available varieties were
 completely continuous, so that the "variety-connecting curve'' ( see
 below) is really a curve rather than a limited number of points,
-would consumers with different tastes concerning price-quality com­
-binations never buy the same variety.
+would consumers with different tastes concerning price-quality combinations never buy the same variety.
 
 Appendix D
 
@@ -6579,8 +5686,7 @@ of the normally bought variety ? If p rice remains the same, the
 
 quality decline can be shown along the horizontal line leadin g
 
-west from P. This line will intersect at EA ( exit A ) an indif­
-ference curve of the quality-conscious consumer that passes
+west from P. This line will intersect at EA ( exit A ) an indifference curve of the quality-conscious consumer that passes
 
 through the other available, higher-quality good P' long before
 
@@ -6618,26 +5724,20 @@ are only two commodities, either P and P' or P and P". Suppose
 
 there i s only the former pair. P rice increases for variety P can
 
-be shown by the vertical line starting at P, j u st as quality de­
-clines are shown by the horizontal line. Clearly both the vertical
+be shown by the vertical line starting at P, j u st as quality declines are shown by the horizontal line. Clearly both the vertical
 
 and the horizontal lines will cross first the indifference curve of
 
 4. From the point of view of an individual consumer, a good with
 price and quality both higher than those pertaining to the normally
-bought variety can in this fashion be converted into a good of equiv­
-alent satisfaction which would have the same price as the normally
+bought variety can in this fashion be converted into a good of equivalent satisfaction which would have the same price as the normally
 bought variety and a lower quality. This "equivalent variety" is of
-course different for consumers with different degrees of quality­
-or price-consciousness. For this reason it was stated that point QE
-in could be different for different consumers. Thus, the seem­
-ingly restrictive assumption that point QE represents a commodity
+course different for consumers with different degrees of qualityor price-consciousness. For this reason it was stated that point QE
+in could be different for different consumers. Thus, the seemingly restrictive assumption that point QE represents a commodity
 of lower quality and identical price can be dropped without any
 change in the analysis of the voice-exit choice that was presented.
-Point QE must simply be reinterpreted as the identical-price equiva­
-lent, according to an individual consumer's indifference map, of a
-variety whose quality and price both differ from those of the nor­
-mally bought one.
+Point QE must simply be reinterpreted as the identical-price equivalent, according to an individual consumer's indifference map, of a
+variety whose quality and price both differ from those of the normally bought one.
 
 Appendix D
 
@@ -6706,8 +5806,7 @@ the quality-conscious consumers will desert a deteriorating
 
 product will depend to a considerable extent on the availability
 
-of a close hi gher-quality substitute. For this reason, the differ­
-ential density with which the variety-connecting curve is ac­
+of a close hi gher-quality substitute. For this reason, the differential density with which the variety-connecting curve is ac­
 
 tually occupied by distinct varieties in the nei ghborhood of the
 
@@ -6740,8 +5839,7 @@ members who find, upon j oining a group, that the group's ac­
 tivities are less enj oyable, useful, or profitable than they ex­
 
 pected. One of the more interesting, somewhat counter-intuitive
-derivations from Leon Festinger's Theory of Cognitive Dis­
-sonance ( 1957 ) showed that liking for a group increases with
+derivations from Leon Festinger's Theory of Cognitive Dissonance ( 1957 ) showed that liking for a group increases with
 
 increasing severity of initiation or expense requ ired to j oin
 
@@ -6757,8 +5855,7 @@ severe initiation will perceive them as less so than one who has
 
 paid a low or no price of entry. This finding is, if not chal­
 
-lenged, at least substantially modified by the hypothesis de­
-veloped in Chapter 7. It is there argued that those who have
+lenged, at least substantially modified by the hypothesis developed in Chapter 7. It is there argued that those who have
 
 been severely initiate d could under certain circumstances b e­
 
@@ -6873,9 +5970,7 @@ The Aronson-Mills exp eriment and results have b een the
 
 target of numerou s c ritici sms and alternative explanations .
 
-Criticism centere d on certain asp ects of the procedu ral op era­
-tion u sed to test the conceptu al relationsh ip s bet\veen the sever­
-ity of i n itiat ion and group liking. Both the initiation and the
+Criticism centere d on certain asp ects of the procedu ral op eration u sed to test the conceptu al relationsh ip s bet\veen the severity of i n itiat ion and group liking. Both the initiation and the
 group d iscu ssion related to sex ; thu s, the severe initiation may
 have sexually arou sed the gi rls makin g them more anxi ou s to
 get into the group . Or, the i n itiat i on may have set up an ex­
@@ -6905,21 +6000,18 @@ success feel ings, by w ithholding feedback as to the subj ect's
 
 success or failure on the i n itiation task.
 
-Such an experim ent was p erformed by Gerard and Mathew­
-son 2 using p hys ical pain ( electric shock ) as the initiation ,
+Such an experim ent was p erformed by Gerard and Mathewson 2 using p hys ical pain ( electric shock ) as the initiation ,
 varying presence or absence of test feedback, and inclu din g
 conditi ons i n wh ich subj ects were shocked but 'vere not told
 that thi s was part of the initiation procedure. The re sults were
 
 very encou raging for the dis sonance theory prediction that the
 
-more severe the i n itiation ( increased pain ) the more the sub­
-j ects liked the boring group discu ss ion ( this time ab out cheat­
+more severe the i n itiation ( increased pain ) the more the subj ects liked the boring group discu ss ion ( this time ab out cheat­
 
 ing in colle ge ) , whether or not they were told they had passed
 
-the pai n test. In the non initiation condition ( shock only, not de­
-scribed as initiation ) n o di ssonance can b e created by th e boring
+the pai n test. In the non initiation condition ( shock only, not described as initiation ) n o di ssonance can b e created by th e boring
 natu re of the discuss ion b ecau s e one has not suffered for the ex­
 
 p ress pu rpose of ach i evi ng m embership i n that boring group.
@@ -6982,8 +6074,7 @@ group and ( 2 ) active reorganization and improvement of the
 
 group throu gh creative innovation and reformist activities.
 
-The first alternative is only possible when one can easily re­
-sign from the group ; that is, when the costs of exit are low.
+The first alternative is only possible when one can easily resign from the group ; that is, when the costs of exit are low.
 Moreover, it is not necessarily a satisfactory solution, as it
 generates further dissonance (between the co gnitions "I have
 
@@ -7193,10 +6284,8 @@ employed in evaluating effects of hypnotic induction on psycho­
 
 logical and physiological functioning, After initiation, the
 
-subj ect will be informed of the conditions of payment for par­
-ticipation in the proj ect : either receipt of x dollars at the end
-only if all sessions are attended ( high cost of exit manipula­
-tion ) , or loss of xj5 dollars for each session not completed ( low
+subj ect will be informed of the conditions of payment for participation in the proj ect : either receipt of x dollars at the end
+only if all sessions are attended ( high cost of exit manipulation ) , or loss of xj5 dollars for each session not completed ( low
 cost of exit manipulation ) .
 
 Before entering his group, each subj ect will read the auto­
@@ -7443,8 +6532,7 @@ mine the group. They ought to seek social support for the exit
 action, preferably by convi ncing others to exit.
 
 Activism, 94 ; political, 32, 71-
-72, 74 ; and severity of initia­
-tion, 146-155
+72, 74 ; and severity of initiation, 146-155
 Acton, Lord, 1 16
 Almond, Gabriel A., viii, 30n,
 
@@ -7514,13 +6602,11 @@ Cognitive
 
 94-96,
 dissonance,
-147-149 ; modification of the­
-ory of, 93-96, 113-114, 146,
+147-149 ; modification of theory of, 93-96, 113-114, 146,
 149-155
 Colombia, 61
 Competition, vii, 2-3, 9, 21-22,
-5 5-61 ; monopolistic, 2 ; "nor­
-mal," 21 ; as recuperation
+5 5-61 ; monopolistic, 2 ; "normal," 21 ; as recuperation
 mechanism, 25 ; as collusive
 behavior, 26-29, 124 ;
 and
@@ -7565,8 +6651,7 @@ Costs, 23, 39-40
 Creativity, see Innovation
 Crook, John Hurrell, 6n
 Crozier, Michel, 1 15
-Customers : options for express­
-ing dissatisfaction, 4 ; and
+Customers : options for expressing dissatisfaction, 4 ; and
 exit option, 15-16, 21-25 ; as
 feedback mechanism, 24-25 ;
 acquisition of new, 26 ; and
@@ -7582,9 +6667,7 @@ Decay, Decline, Deterioration,
 see Dissatisfaction, Entropy,
 Performance, Quality
 
-Demand, 1-2, 23 ; quality elastic­
-ity of, 24-26, 31, 36-37 ; in­
-elasticity, and voice, 34, 35 ;
+Demand, 1-2, 23 ; quality elasticity of, 24-26, 31, 36-37 ; inelasticity, and voice, 34, 35 ;
 and location theory, 66-68
 Democratic party, 68 ; 1 968 elec­
 
@@ -7601,11 +6684,8 @@ Discontent, customer, see Dis­
 satisfaction
 
 Diseconomies, external, 3 5n, 102
-Dissatisfaction, 4, 62-63 ; mini­
-mization of, 63-64 ; and profit
-maximization, 64-65 ; politi­
-cal, 70-71 ; in human group­
-ings, 76 ; and loyalty, 78-80 ;
+Dissatisfaction, 4, 62-63 ; minimization of, 63-64 ; and profit
+maximization, 64-65 ; political, 70-71 ; in human groupings, 76 ; and loyalty, 78-80 ;
 and public goods ( evils) , 101-
 
 D issent, 124 ; domestication of,
@@ -7629,15 +6709,13 @@ and
 lapses, 1-3 ; and exit, 15, 30,
 31 ; and voice, 16-18, 123
 
-Economy, 1 ; expectance of ra­
-in, 1-2 ; slack vs.
+Economy, 1 ; expectance of rain, 1-2 ; slack vs.
 
 tionality
 taut, 9-13 , 57. See also Slack
 
 Eden, Anthony, 118
-E ducation, 16-1 7, 44, 45-4 7 ; de­
-terioration in quality, 51-52 ;
+E ducation, 16-1 7, 44, 45-4 7 ; deterioration in quality, 51-52 ;
 role of voice, 53. See also
 Schools
 
@@ -7658,20 +6736,16 @@ Exile, political, 60-61
 Exit, 3-5 , 21-29 ; and economics,
 15, 30 , 31 ; economists' bias
 for, 16-17 ; in politics, 17, 19-
-20, 70 ; availability to con­
-sumer, 21 ; modus operandi,
-21-25, 33 ; and quality de­
-cline, 23-26 ; and management
+20, 70 ; availability to consumer, 21 ; modus operandi,
+21-25, 33 ; and quality decline, 23-26 ; and management
 reaction function, 23-24 ; voice
 as residual of, 33-36, 76 ;
 voice as alternative to, 36-43 ;
-and loyalty, 38, 78-79 ; in com­
-bination with voice, 44-54,
+and loyalty, 38, 78-79 ; in combination with voice, 44-54,
 stockholders,
 120-126 ; and
 46 ; and consumer with high
-surplus, 49-50 ; and quality­
-conscious customer, 5 0-53, 5 5 ;
+surplus, 49-50 ; and qualityconscious customer, 5 0-53, 5 5 ;
 and private schools, 52 ; and
 in
 lazy monopoly,
@@ -7680,8 +6754,7 @@ politics, 61 ; in opposition to
 voice, 66, 7 4-75 ; differential
 responsiveness, 7 4 ; in human
 groupings,
-institu­
-tional barriers
+institutional barriers
 to, 80-82 ;
 loyalist's threat of, 82-86 ;
 promise of re-entry, 86 ; and
@@ -7694,8 +6767,7 @@ severe initiation, 92-96, 146-
 
 Exit ( Cont. )
 
-loyalist's involvement as de­
-terrent to, 98-100 ; and public
+loyalist's involvement as deterrent to, 98-100 ; and public
 ( evil ) , 101-102 ; from
 good
 101-
@@ -7703,8 +6775,7 @@ government
 position ,
 in American
 105, 1 14-119 ;
-tradition, 106-114 ; choice be­
-tween voice and, 132-137
+tradition, 106-114 ; choice between voice and, 132-137
 Exploitiation, monopolistic, 57
 Expulsion, 76, 96
 
@@ -7769,26 +6840,21 @@ Houthakker, H . S., 141n
 Hovland, Carl I., 126
 
 Ideology, vii, 82 ; political, 66-
-71 ; exit and voice in Ameri­
-can, 106-119
+71 ; exit and voice in American, 106-119
 
 Indians, Andean, 1 1 0
 Individualism, 108-1 09 ; and so­
 
 cial mobility, 109-1 10
 
-Influence : political, 39 ; and ex­
-ercising of voice option, 40-
+Influence : political, 39 ; and exercising of voice option, 40-
 41, 70-71, 121 ; and loyalty,
 77-79, 81-82, 83
 
-Initiation, 92-98 ; and quality­
-consciousness, 96 ;
-and ac­
-tivism, 146-155 ; and liking for
+Initiation, 92-98 ; and qualityconsciousness, 96 ;
+and activism, 146-155 ; and liking for
 a group, 146-149 ; and
-im­
-provement of group, 150-1 5 1
+improvement of group, 150-1 5 1
 Innovation, 1 3 , 4 3 , 146 ; and
 competitive market structure,
 22 ; and voice option, 80, 125 ,
@@ -7836,11 +6902,9 @@ I..�oyalty, 38, 40, 75, 76-105., 1 13,
 136 ; and activation of voice,
 77-79 ; functionality of, 79-
 82 ; and creative innovation,
-80 ; and availability of sub­
-stitute group, 80-82 ; and
+80 ; and availability of substitute group, 80-82 ; and
 threat of exit, 82-86 ; model of
-loyalist behavior, 86-92 ; gen­
-eration and reinforcement of,
+loyalist behavior, 86-92 ; generation and reinforcement of,
 public goods
 92-98 ;
 ( evils ) , 98-105
@@ -7857,8 +6921,7 @@ McCarthy,
 
 Senator E ugene,
 
-Management, 4, 129 ; and stock­
-holders, 46 ; and institutional
+Management, 4, 129 ; and stockholders, 46 ; and institutional
 devices to repress exit or
 voice, 92-93, 124-125 ; cost of
 voice for, 131
@@ -7869,8 +6932,7 @@ Market mechanism, 1 6, 18-19,
 Market shares, 10
 Mathewson, G. C., 94n, 148, ·149,
 
-Members : of groups or organi­
-zations, 4, 30, 55, 76-77, 87-
+Members : of groups or organizations, 4, 30, 55, 76-77, 87-
 91, 98-100, 120-121, 149-150 ;
 of political parties, 83-84. See
 also Custon ... ers, Voters
@@ -7926,14 +6988,12 @@ Patch, Richard, 110n
 Peattie, Lisa Redfield, 43n
 Performance : deterioration in,
 1, 4, 37, 62, 79 ; latitude in
-human societies, 6-7 ; and po­
-tential, 12-15 ; rehabilitation
+human societies, 6-7 ; and potential, 12-15 ; rehabilitation
 of lapsed, 22-25 ; and voice
 option, 30-31, 42
 
 Political parties, 3, 62-75, 77, 81,
-120 ; minimization of ideologi­
-cal distance between voters
+120 ; minimization of ideological distance between voters
 and, 66-71 ; and mobilization
 of indifferent voters, 72-73 ;
 and communication of voters'
@@ -7962,8 +7022,7 @@ Institucional ) , Mexico, 84
 
 Price, 12, 36, 62 ; and quality
 decline, 23, 25, 47-48 ; and
-voice option, 41-42 ; and mar­
-ginal customer, 4 7-49 ; and
+voice option, 41-42 ; and marginal customer, 4 7-49 ; and
 connoisseur goods, 141-145
 Primates, social organization of,
 
@@ -7971,8 +7030,7 @@ Private enterprise, 2 1-22, 46
 Products : proliferation of, 40-
 42 ; size or expense of, 41-42
 Profits, 1 , 35n ; maximization of,
-10, 62-63 ; and lazy monopo­
-list, 60 ; and quality-selection,
+10, 62-63 ; and lazy monopolist, 60 ; and quality-selection,
 64-65
 
 Progress, economic, 6-7 ; and
@@ -7985,8 +7043,7 @@ Public utilities, 59
 
 Quality, decline in, 23, 25, 34,
 138 ; management reaction to,
-23-24, 122-123 ; and acquisi­
-tion of new customers, 26 ; and
+23-24, 122-123 ; and acquisition of new customers, 26 ; and
 demand, 24-26, 31, 34, 36-37,
 48, 129-131 ; and marginal
 customer, 4 7-49, 138 ; and
@@ -7994,13 +7051,11 @@ quality-conscious
 customer,
 and
 5 0-5 1 ,
-monopoly, 57 ; consumer sen­
-sitivity to change in, 62-65 ;
+monopoly, 57 ; consumer sensitivity to change in, 62-65 ;
 and "captive" consumer, 74-
 75 ; and
 loyalist's re-entry,
-86-89 ; and loyalist's internal­
-ized behavior, 99-100 ; and
+86-89 ; and loyalist's internalized behavior, 99-100 ; and
 connoisseur goods, 141-145
 
 140-145 ;
@@ -8015,16 +7070,14 @@ RAND Corporation, 1 18n
 Recuperation
 
 (recovery ) , 2, 3,
-15 ; and efficiency of voice op­
-tion, 5, 30 , 35-36, 120 ; effi-
+15 ; and efficiency of voice option, 5, 30 , 35-36, 120 ; effi-
 
 Recuperation ( Cont. )
 
 ciency of exit option, 5 ; and
 quality elasticity of demand,
 24-25, 34, 36 ; and threat of
-exit, 82 ; and loyalist's re­
-entry, 86-89
+exit, 82 ; and loyalist's reentry, 86-89
 
 Regula tory agencies, 43
 Religion, see Church
@@ -8046,8 +7099,7 @@ Saba, Umberto, 113n
 Savings, 12
 Schachter, Stanley, 95n
 Schools, 100-1 02 ; public, 16-1 7,
-45, 47 ; private, 45-47 ; deteri­
-oration in quality, 5 1-52. See
+45, 47 ; private, 45-47 ; deterioration in quality, 5 1-52. See
 also Education
 
 Self-deception, 93-94, 149
@@ -8057,8 +7109,7 @@ Simon, H. A., 1 1
 Singer, H. W., 68n , 73n
 Slack : economic, 10, 14, 3 1-32 ;
 organizational,
-ex­
-planations of, 1 2-13 ; remedies
+explanations of, 1 2-13 ; remedies
 for, 13 ;
 latent function of,
 14-15 ; political, 14, 70-71 ;
@@ -8078,8 +7129,7 @@ State, 1 7, 33 , 76, 96 ; and high
 
 price of exit, 97-98
 
-Steuart, Sir James, 8n ; his In­
-quiry into the Principles of
+Steuart, Sir James, 8n ; his Inquiry into the Principles of
 Political Oeconomy
 ( 1767 ) ,
 7-8
@@ -8096,8 +7146,7 @@ Substitutability, 38-39, 65, 149-
 44 ; and connoisseur goods,
 50-51 ; and loyalty, 80-81
 
-Surplus, 6-10 ; ambivalent atti­
-tudes toward production of, 9
+Surplus, 6-10 ; ambivalent attitudes toward production of, 9
 
 Taft, Cynthia H . , 58n
 Taylor, George R., 107n
@@ -8142,23 +7191,17 @@ residual of exit, 33-36, 76 ; as
 alternative to exit, 36-43 ; and
 elasticity of demand, 34, 36 ;
 and loyalist, 38, 77-92 ; cost,
-39-40 ; locus, 40-41 ; in com­
-bination with exit,
+39-40 ; locus, 40-41 ; in combination with exit,
 44-54,
 120-126 ; and goods of many
-varieties, 53-54 ; and monop­
-oly, 55-56 ; and quality-selec­
-tion
+varieties, 53-54 ; and monopoly, 55-56 ; and quality-selection
 63-65 ;
 differential responsiveness to,
 74 ; in human groupings, 76-
-77 ; activation of through loy­
-alty,
+77 ; activation of through loyalty,
 social
-inventiveness, 80 ; and effec­
-tiveness and threat of exit,
-82-83, 85 ; and severe initia­
-tion, 93-96 ; and high price of
+inventiveness, 80 ; and effectiveness and threat of exit,
+82-83, 85 ; and severe initiation, 93-96 ; and high price of
 exit, 9 7-98 ;
 in black power
 movement, 112 ; in American

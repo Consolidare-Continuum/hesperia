@@ -28,6 +28,14 @@ ROOT = Path(__file__).resolve().parent
 _LIG_LOWER = re.compile(r"(ffi|ffl|fi|fl) (?=[a-z])")
 _LIG_TITLE = re.compile(r"(Ffi|Ffl|Fi|Fl) (?=[a-z])")
 
+# --- soft/Unicode hyphen line-wrap breaks — repair_text.py's hyphen-join only
+# matches ASCII "-"; these are different codepoints from the same PDF->text
+# conversion, same failure mode: word split across a line-wrap, joined with a
+# hyphen-like character instead of nothing. Found via real inspection (21,307
+# occurrences, 19/120 files) — "chal\xad\nlenge" for "challenge" was the case
+# that surfaced it.
+_SOFT_HYPHEN_JOIN = re.compile(r"([a-zA-Z])[­‐‑]\n?([a-z])")
+
 # --- PDF glyph-ID leak: font ToUnicode map failed, literal (cid:NN) survived ---
 _CID = re.compile(r"\(cid:\d+\)\s*")
 
@@ -53,6 +61,12 @@ def fix_ligature_spacing(text: str, stats: Counter) -> str:
     text, n1 = _LIG_LOWER.subn(r"\1", text)
     text, n2 = _LIG_TITLE.subn(r"\1", text)
     stats["ligature_joins"] += n1 + n2
+    return text
+
+
+def fix_soft_hyphen_joins(text: str, stats: Counter) -> str:
+    text, n = _SOFT_HYPHEN_JOIN.subn(r"\1\2", text)
+    stats["soft_hyphen_joins"] += n
     return text
 
 
@@ -136,9 +150,10 @@ def find_backmatter_candidates(lines: list[str]) -> list[dict]:
 
 def clean_file(path: Path) -> tuple[Counter, list[dict]]:
     stats: Counter = Counter()
-    text = path.read_text(encoding="utf-8", errors="replace")
+    original = path.read_text(encoding="utf-8", errors="replace")
 
-    text = fix_ligature_spacing(text, stats)
+    text = fix_ligature_spacing(original, stats)
+    text = fix_soft_hyphen_joins(text, stats)
     text = strip_cid_artifacts(text, stats)
 
     lines = text.split("\n")
@@ -151,7 +166,7 @@ def clean_file(path: Path) -> tuple[Counter, list[dict]]:
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     cleaned = cleaned.strip() + "\n"
 
-    if cleaned != text:
+    if cleaned != original:
         path.write_text(cleaned, encoding="utf-8")
     return stats, backmatter
 
@@ -177,6 +192,7 @@ def main(argv: list[str]) -> int:
             text = path.read_text(encoding="utf-8", errors="replace")
             stats: Counter = Counter()
             tmp = fix_ligature_spacing(text, stats)
+            tmp = fix_soft_hyphen_joins(tmp, stats)
             tmp = strip_cid_artifacts(tmp, stats)
             lines = tmp.split("\n")
             backmatter = find_backmatter_candidates(lines)
