@@ -1,5 +1,18 @@
 # Genesis taxonomy provenance — where the family names came from
 
+**2026-08-31 update (Chiron)**: the genesis book corpus described below as lost with
+`sphereV_0.1_.zip` (Ethan trash-out, 2026-08-07) has been recovered and is now the
+**canonical book/author source corpus for default/core Hesperia**, committed at
+`sphere/source/syzif/` (120 books, sequence #1-120, no gaps/duplicates; `repair_text.py`
+reconstructed alongside it per the same pipeline documented below). This is a **canon-source
+designation, not a functional-wiring claim**: nothing in the sealed pipeline reads this text
+today — the "Stage 2" gap named at the bottom of this doc (extraction + term-to-family
+attribution to rebuild Dict A/B/C from real book text) is still unbuilt, no tooling for it
+exists anywhere in the repo, and building it is Felix/Gena sealed-pipeline work, not something
+this update does. What changed: the source corpus a future Stage 2 build would draw from is no
+longer missing, and is now the designated canonical one (not a candidate to be re-sourced or
+second-guessed) for that future build.
+
 2026-07-30: the operator decided to adopt the original genesis book-corpus-derived family
 taxonomy into the sealed canon matrix, replacing the family names that had been in
 `core/topology/invariant_catalog.py`'s `AREA_FAMILY_MAP` since 0.7.0 sealed. This doc records
